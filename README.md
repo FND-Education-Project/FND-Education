@@ -162,6 +162,7 @@ The project should be willing to say **“researchers do not yet know”** when 
 - [Accessibility standards](docs/project/accessibility-standards.md)
 - [Planned repository structure](docs/project/planned-repository-structure.md)
 - [Research and citation policy](docs/project/research-and-citation-policy.md)
+- [Citation index](research/citation-index.md)
 - [Safety and editorial rules](docs/project/safety-and-editorial-rules.md)
 - [Project status](docs/project/project-status.md)
 
