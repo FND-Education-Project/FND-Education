@@ -34,7 +34,7 @@ A support person should be better able to:
 
 # Course Modules
 
-Each module title links to its complete syllabus page.
+Each module title links to its complete syllabus page. The [course authoring index](../../course/README.md) links to the 23 module folders and their 76 overview and focused-page templates.
 
 ## Part One: Understanding FND
 
@@ -156,16 +156,18 @@ Planned guides include:
 
 ## Standard Components of Each Module
 
-Each completed module will follow the project’s standard educational-page structure and will also provide:
+Each module folder contains:
 
-- an **Essential knowledge** section written in very plain language for a broad audience;
-- a **For health professionals and readers wanting more detail** section using precise terminology and discussing advanced evidence, clinical concepts, and important professional debates;
-- a complete central lesson within the essential section so that the advanced section is optional rather than required for basic understanding;
-- a short person-with-FND learning goal;
-- a short support-person learning goal;
-- one practical worksheet, plan, or exercise;
-- practical at-home ideas separated by evidence source;
-- safety and reassessment considerations;
-- optional deeper research notes and citations;
-- a plain-language summary suitable for printing;
-- links to relevant pathways, glossary terms, and resources.
+- a short `README.md` overview that introduces the module and links to its focused pages;
+- one to four focused pages, giving each module between two and five total pages;
+- stand-alone focused pages that remain understandable when reached directly from search;
+- one canonical home for each full explanation, with other pages summarizing and linking rather than duplicating it.
+
+Every overview and focused page uses four visible sections:
+
+1. **For the Person With FND**
+2. **For Family, Friends, and Other Supporters**
+3. **For Clinicians and the Care Team**
+4. **Research and Sources**
+
+Within those sections, 15 recurring authoring questions preserve the original page requirements: terminology, short summary, research findings, uncertainty, lived presentation, at-home ideas, questions for clinicians, related reading, supporter guidance, differential diagnoses, clinical assessment, treatment, medical reassessment, evidence notes, and last-reviewed date.
