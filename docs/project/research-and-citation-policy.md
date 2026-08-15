@@ -14,6 +14,12 @@ Preference should generally be given to:
 
 The most appropriate source depends on the claim. A newer primary study does not automatically overrule a careful systematic review, and a consensus recommendation should not be described as experimental proof.
 
+## Principal clinical reference framework
+
+The work of Jon Stone and his collaborators will provide the project’s principal clinical reference framework. Their work should be sought first when it directly addresses a clinical point, and departures from that framework should be identified clearly.
+
+This preference does not turn any person into a substitute for evidence. When credible researchers disagree with that framework, use a different explanatory model, or report evidence that materially qualifies it, the alternatives and their supporting evidence should also be presented. No individual researcher’s opinion will override stronger or newer evidence. Distinguish disagreement about diagnosis, mechanism, terminology, formulation, treatment, or prognosis rather than suggesting that all disagreement is the same.
+
 ## What a research summary should show
 
 Where relevant, explain:
