@@ -1,0 +1,49 @@
+# Module 4 — Mapping Your Individual Condition
+
+[← Course syllabus](../detailed-course-syllabus.md)
+
+**Part One: Understanding FND**
+
+## Purpose
+
+Help the reader organize a complicated condition into a useful personal map without self-diagnosing.
+
+## Essential knowledge
+
+- How to list symptoms that have been diagnosed as part of FND.
+- How to keep separate diagnoses, possible symptoms, and unanswered medical questions from becoming one confusing list.
+- The difference between a **warning sign** that an episode may be starting and a **trigger** that may make an episode more likely.
+- How sleep, pain, migraine, medication, illness, activity, and surroundings may affect symptoms.
+- Why a pattern noticed once may be coincidence rather than a true trigger.
+- How to record what helps, what makes things harder, and what abilities remain available.
+- How symptoms may change across a day, week, activity, or situation.
+- Why tracking a few useful patterns is usually better than watching every body sensation.
+- How a one-page map can help at appointments and during setbacks.
+
+## For health professionals and readers wanting more detail
+
+- Separating diagnosed functional phenomena, associated non-motor symptoms, comorbid disorders, medication effects, and unresolved differential diagnoses.
+- Temporal relationships among vulnerabilities, precipitants, warning symptoms, triggers, maintaining factors, and consequences.
+- Individual variability, context dependence, and preserved or intermittently accessible function.
+- Risks of recall bias, confirmation bias, post hoc trigger attribution, and excessive symptom monitoring.
+- Use of brief structured diaries, patient-reported outcomes, objective measures, and collateral observations only when they answer a defined clinical question.
+- Updating formulation when new symptoms, examination findings, treatment responses, or diagnoses emerge.
+- Using the map to improve interdisciplinary communication without treating it as a diagnostic instrument.
+
+## Practical work
+
+- Complete a one-page symptom and comorbidity map.
+- Select a small number of patterns worth tracking.
+
+## Support-person focus
+
+- Contributing observations without overruling the person’s account.
+- Helping identify patterns without turning daily life into surveillance.
+
+## Expected takeaway
+
+The reader has an organized, updateable picture of what is known, suspected, changing, and helpful.
+
+---
+
+[← Module 3: Causes, Mechanisms, and Honest Uncertainty](module-03-causes-mechanisms-and-honest-uncertainty.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 5: Medical Safety and New Symptoms →](module-05-medical-safety-and-new-symptoms.md)
