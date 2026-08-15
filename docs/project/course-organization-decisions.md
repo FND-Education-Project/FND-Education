@@ -102,7 +102,7 @@ Every page already has a supporter section, while the planned mini-course covers
 
 ## Decision 12 — How should citations work on standalone pages?
 
-**Status: Citation structure selected and being piloted on the Module 1 overview.**
+**Status: Citation structure selected and piloted across all three Module 1 pages.**
 
 Every page will repeat the citations needed to support that page because readers may encounter it without the rest of the course. Repetition across pages is therefore intentional. Within one page, however, citations should not be repeated unnecessarily.
 
@@ -117,7 +117,7 @@ The selected structure is:
 7. Use paraphrase for the finished educational explanation; retain only quotations that are especially useful to the human author or reader.
 8. Keep a source section selective rather than exhaustive, adding evidence that changes or directly supports the page.
 
-The Module 1 overview is the first pilot. It uses three broad review articles and groups several short excerpts beneath each article before giving its citation.
+The completed Module 1 pilot applies the structure to the overview and both focused pages. Each page shows the complete three-page reading order, leaves the current page unlinked, places previous and next navigation immediately before Research and Sources, and repeats only the compact source groups needed to stand alone. Seven stable citation IDs are now tracked in the central index.
 
 # Current Page Distribution
 
