@@ -42,6 +42,23 @@ When community material is used:
 - avoid reproducing unnecessary personal details;
 - respect the community’s rules and reasonable expectations of privacy.
 
+## Stable citation IDs and standalone pages
+
+Every source used by the course will receive a permanent ID in the [central citation index](../../research/citation-index.md), using the form `FND-CIT-0001`.
+
+Each educational page must still stand alone. Its Research and Sources section will therefore:
+
+- group all supporting quotations and notes from the same article together;
+- state which page claims the source supports;
+- provide the compact full citation once;
+- link the stable citation ID to the central index;
+- repeat a source on another page when that page depends on it;
+- avoid repeating the citation after every sentence when one source supports a connected group of statements.
+
+The central index is the shared management record, not a replacement for page-level citations. It records the full source, broad uses, and every page currently relying on it.
+
+Quotations are primarily authoring evidence notes. Finished educational prose should usually paraphrase the finding in plain language while preserving the citation. Quotations should remain short, exact, and accompanied by enough context—such as the abstract, table, section, or page location—to prevent a fragment from being used beyond what the article supports.
+
 ## Citation practice
 
 - Cite the source closest to the claim it supports.
