@@ -71,11 +71,22 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 22. **Building Your Personal FND Handbook** — an individualized reference for diagnoses, symptoms, strategies, episodes, emergencies, communication, treatment, and supporters.
 23. **Reviewing Progress** — knowledge, safety, participation, independence, communication, supporter wellbeing, symptoms, and future goals.
 
-**[Read the detailed course syllabus](docs/project/detailed-course-syllabus.md)** for the purpose, main subjects, practical work, support-person focus, and expected takeaway planned for every module.
+**[Read the detailed course syllabus](docs/project/detailed-course-syllabus.md)** for the essential knowledge, professional and advanced detail, practical work, support-person focus, and expected takeaway planned for every module.
 
-## Symptom-specific pathways
+**[Open the course authoring templates](course/README.md)** to work from the populated 16-part page templates.
 
-Readers will also be able to enter the material through focused pathways, including:
+## Support-person mini-course
+
+1. **Believe, Listen, and Learn**
+2. **Safe Help During Episodes**
+3. **Supporting Rehabilitation**
+4. **Communication and Cognitive Support**
+5. **Boundaries and Caregiver Health**
+6. **Planning Together**
+
+## Find information by symptom or need
+
+Readers will also be able to find material through focused guides organized around a symptom or practical need, including:
 
 - functional seizures, dissociative seizures, PNES, and altered-awareness episodes;
 - movement disorder, tremor, jerks, dystonia, weakness, paralysis, gait, and falls;
@@ -86,15 +97,6 @@ Readers will also be able to enter the material through focused pathways, includ
 - severe or long-term disability;
 - children and adolescents with FND;
 - family members, caregivers, and other support persons.
-
-## Support-person mini-course
-
-1. **Believe, Listen, and Learn**
-2. **Safe Help During Episodes**
-3. **Supporting Rehabilitation**
-4. **Communication and Cognitive Support**
-5. **Boundaries and Caregiver Health**
-6. **Planning Together**
 
 ## Every educational page will use the same structure
 
@@ -145,6 +147,7 @@ The project should be willing to say **“researchers do not yet know”** when 
 - [Our role](docs/project/our-role.md)
 - [Core principles](docs/project/core-principles.md)
 - [Detailed course syllabus](docs/project/detailed-course-syllabus.md)
+- [Course organization decisions](docs/project/course-organization-decisions.md)
 - [Planned resource library](docs/project/planned-resource-library.md)
 - [Evidence standard](docs/project/evidence-standard.md)
 - [Search and usability standards](docs/project/search-and-usability-standards.md)
