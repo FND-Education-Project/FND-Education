@@ -18,8 +18,9 @@ This is the authoring template for the short module overview. Keep the completed
 
 **What questions might the person ask a clinician?** Turn these into a short appointment-ready list written in the first person: Offer questions such as: What positive signs supported my diagnosis? Which symptoms has my clinician identified as functional? Could another condition also be present? Which explanation best fits the evidence in my case? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
 
-**What should the reader open next?** Briefly distinguish the two focused articles so readers can choose what they need:
+**What should the reader open next?** Show every Module 1 page in its fixed reading order. The current page is plain text; the others are links.
 
+- **Module overview — current page**
 - [What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md) — explain the name, the meaning of “functional,” involuntary symptoms, and the different ways FND may appear.
 - [The Biopsychosocial Model, Misconceptions, and Recovery](02-the-biopsychosocial-model-misconceptions-and-recovery.md) — explain the model in plain language, its uses and limitations, common misconceptions, and the different meanings of improvement.
 
