@@ -98,26 +98,34 @@ Readers will also be able to find material through focused guides organized arou
 - children and adolescents with FND;
 - family members, caregivers, and other support persons.
 
-## Every educational page will use the same structure
+## Every educational page will answer the same questions
 
-Consistency is an accessibility requirement. Every substantive educational page will use all 16 headings below. If a section genuinely does not apply, it will be marked **Not applicable** rather than silently omitted.
+Consistency is an accessibility requirement. Each completed page will use four visible reader-facing sections:
 
-1. Plain-language title
-2. Other names and search terms
-3. In brief
-4. What the research says
-5. What researchers do not yet know
-6. What this can feel or look like
-7. What else can cause similar symptoms?
-8. How clinicians may assess it
-9. What treatments have been studied?
-10. What can I try at home?
-11. How can a support person help?
-12. When should this be medically reassessed?
-13. Questions you may want to ask a clinician
-14. Related topics
-15. Sources and evidence notes
-16. Last reviewed
+1. **For the Person With FND**
+2. **For Family, Friends, and Other Supporters**
+3. **For Clinicians and the Care Team**
+4. **Research and Sources**
+
+Within those four sections, the page will answer the same 15 questions:
+
+1. What other names and search terms should readers recognize?
+2. What should a reader understand in about one minute?
+3. What does research report?
+4. What do researchers not yet know?
+5. What can this feel or look like in ordinary life?
+6. What can the person safely try at home?
+7. What questions might the person ask a clinician?
+8. What should the reader open next?
+9. What should a support person understand and do?
+10. What else can look similar or coexist?
+11. How may clinicians assess it?
+12. What treatment or management has been studied or recommended?
+13. When should the person be medically reassessed?
+14. Which evidence and source notes does the page need?
+15. When was the page last reviewed?
+
+A question that genuinely does not apply should be marked **Not applicable** rather than silently removed. Module overview pages will remain short and link to one to four focused pages that use the same pattern.
 
 ### Practical help at home
 
