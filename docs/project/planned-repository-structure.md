@@ -7,9 +7,14 @@ FND-Education-/
 ├── README.md
 ├── docs/
 │   └── project/
+│       ├── detailed-course-syllabus.md
+│       ├── syllabus/
+│       │   ├── module-01-what-fnd-is.md
+│       │   ├── module-02-how-fnd-is-diagnosed.md
+│       │   ├── ...
+│       │   └── module-23-reviewing-progress.md
 │       ├── our-role.md
 │       ├── core-principles.md
-│       ├── detailed-course-syllabus.md
 │       ├── planned-resource-library.md
 │       ├── evidence-standard.md
 │       ├── search-and-usability-standards.md
@@ -25,7 +30,7 @@ FND-Education-/
 │   ├── part-4-treatment-and-rehabilitation/
 │   ├── part-5-living-with-fnd/
 │   └── part-6-long-term-management/
-├── pathways/
+├── guides/
 ├── support-persons/
 ├── resources/
 ├── research/
@@ -36,5 +41,6 @@ FND-Education-/
 └── website/
 ```
 
-The structure may change as the project develops. Priorities are predictable navigation, durable links, clear separation of material, and avoiding information becoming trapped in one very large document.
+The **syllabus** folder contains the planning outline for each module. The future **course** folder will contain the completed, human-authored educational pages. The future **guides** folder will provide user-friendly routes for finding information by symptom or practical need.
 
+The structure may change as the project develops. Priorities are predictable navigation, durable links, clear separation of material, and avoiding information becoming trapped in one very large document.
