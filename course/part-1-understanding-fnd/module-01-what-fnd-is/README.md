@@ -18,7 +18,10 @@ This is the authoring template for the short module overview. Keep the completed
 
 **What questions might the person ask a clinician?** Turn these into a short appointment-ready list written in the first person: Offer questions such as: What positive signs supported my diagnosis? Which symptoms has my clinician identified as functional? Could another condition also be present? Which explanation best fits the evidence in my case? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
 
-**What should the reader open next?** Link and briefly distinguish these focused pages: [What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md); [The Biopsychosocial Model, Misconceptions, and Recovery](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
+**What should the reader open next?** Briefly distinguish the two focused articles so readers can choose what they need:
+
+- [What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md) — explain the name, the meaning of “functional,” involuntary symptoms, and the different ways FND may appear.
+- [The Biopsychosocial Model, Misconceptions, and Recovery](02-the-biopsychosocial-model-misconceptions-and-recovery.md) — explain the model in plain language, its uses and limitations, common misconceptions, and the different meanings of improvement.
 
 ## For Family, Friends, and Other Supporters
 
@@ -33,6 +36,8 @@ This is the authoring template for the short module overview. Keep the completed
 **What treatment or management has been studied or recommended?** Explain that FND does not have one treatment that fits every symptom or person. Introduce clear diagnostic explanation, education, symptom-specific rehabilitation, psychological treatment when relevant and acceptable, management of pain, migraine, sleep or other conditions, and practical accessibility support. Keep this as a brief map to later modules rather than evaluating every treatment here, and make clear that a biopsychosocial formulation may organize care without proving causation.
 
 **When should the person be medically reassessed?** State that an existing FND diagnosis should never be used automatically to explain a new, severe, injured, or substantially changed symptom. Direct the eventual author to give a short general safety reminder and link to the medical-safety module rather than attempting an exhaustive emergency list here. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm.
+
+➡️ **Next article:** [What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md)
 
 ## Research and Sources
 
