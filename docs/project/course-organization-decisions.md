@@ -1,75 +1,94 @@
 # Course Organization Decisions
 
-These decisions do not block authoring. The current 23-module course structure has been preserved, and every module now has an authoring template. The choices below concern how completed material should eventually be divided, linked, and displayed.
+The course has now been reorganized into 23 module folders containing 76 planned pages. Every module has a short overview plus one to four focused pages. The earlier decision about using overview pages with focused child pages is therefore treated as accepted.
 
-## Decision 1 — Should broad modules become overview pages with smaller subject pages?
+The questions below are the revised decisions revealed by the actual page structure. Nothing needs to be decided before authoring can begin; the current organization is usable as it stands.
 
-**Recommendation: Yes.** Keep all 23 modules as the course sequence, but allow a broad module to become a short overview that links to focused articles. This preserves the understandable course while preventing very different symptoms, assessments, safety concerns, and treatments from being forced into one long page.
+## Decision 1 — Are the four reader-facing section names right?
 
-If accepted, a reader following the course would read the overview first and open only the focused pages relevant to them. The overview would summarize and connect; it would not duplicate every detail from the smaller pages.
+The current headings are **For the Person With FND**, **For Family, Friends, and Other Supporters**, **For Clinicians and the Care Team**, and **Research and Sources**.
 
-## Decision 2 — How should movement symptoms be divided?
+**Recommendation:** Keep these names. “Person With FND” avoids reducing someone to a patient, “Family, Friends, and Other Supporters” explains who the section is for, “Clinicians and the Care Team” includes rehabilitation and primary-care professionals, and “Research and Sources” is simpler than “research citations.”
 
-**Recommendation: Keep Module 7 as one introductory lesson, then create focused pages for functional weakness, tremor, jerks, dystonia, gait problems, and falls.** These symptoms share rehabilitation principles, but their appearance, differential diagnoses, safety issues, and practical strategies differ enough to justify separate reference pages.
+## Decision 2 — Should every focused page stand alone?
 
-The alternative is one large movement page. That would reduce the number of links but would likely become difficult to search and revisit.
+A reader may arrive from a search engine without reading the module overview. The templates currently tell the author to make every focused page understandable on its own while still linking back to the overview and sibling pages.
 
-## Decision 3 — Should sensory, visual, balance, and dizziness remain together?
+**Recommendation:** Yes. Allow a small amount of repeated orientation, but keep full explanations and evidence in one canonical page. The overview should help navigation rather than become required reading.
 
-**Recommendation: Use Module 8 as an overview and later create at least three focused pages: altered sensation; visual symptoms and sensory sensitivity; dizziness and balance.** Vision, vestibular symptoms, numbness, photophobia, and falls involve different assessments and safety concerns.
+## Decision 3 — Is the five-page movement module divided correctly?
 
-Persistent postural-perceptual dizziness and vestibular migraine should be discussed with dizziness, while general migraine treatment should remain in the migraine material. Cross-links can show the overlap without duplicating full explanations.
+Module 7 now contains an overview plus pages for weakness and paralysis; tremor, jerks, and spasms; functional dystonia and fixed postures; and gait, falls, and movement retraining.
 
-## Decision 4 — Should speech, swallowing, and breathing be separated?
+**Decision needed:** Should gait and falls remain combined with movement retraining, or should one of the other movement pages be combined so rehabilitation can have its own page?
 
-**Recommendation: Yes.** Keep Module 9 as the shared introduction, but create separate pages for speech and voice, swallowing and globus, and cough or breathing symptoms. Swallowing and breathing require prominent safety material that would be easy to lose inside a general communication article.
+**Recommendation:** Keep the current split initially. Gait and falls are the clearest place to introduce shared movement-retraining principles, while every movement page can link there for the fuller explanation.
 
-Speech-language pathology may be relevant to all three areas, but respiratory, ear-nose-throat, gastrointestinal, and swallowing assessments are not interchangeable. Separate pages will make the correct professional and safety information much clearer.
+## Decision 4 — Should visual symptoms and sensory overload share a page?
 
-## Decision 5 — Should cognition and dissociation remain on one page?
+Module 8 separates altered sensation; visual symptoms, photophobia, and sensory overload; and dizziness, balance, and vestibular overlap.
 
-**Recommendation: Separate them after the shared Module 10 introduction.** Create one focused page for attention, memory, word finding, brain fog, and Functional Cognitive Disorder, and another for dissociation, altered awareness, depersonalization, and derealization.
+**Decision needed:** Does sensory overload belong primarily with visual symptoms, or should it later become a cross-symptom page covering light, sound, touch, visual motion, cognitive load, and environmental access?
 
-They can affect one another, but they are not synonyms. Keeping them only on one page could accidentally teach readers that cognitive symptoms are necessarily caused by dissociation.
+**Recommendation:** Make sensory overload a cross-symptom guide later. Keep it with visual symptoms for now because the overlap with photophobia and visual-motion sensitivity gives the author a practical starting home.
 
-## Decision 6 — What should happen to pain, migraine, fatigue, and sleep?
+## Decision 5 — Is the breathing page still too broad?
 
-**Recommendation: Make Module 11 an overview linking to four separate subject pages.** Migraine is a separate neurological disorder; fatigue is a symptom with many causes; sleep includes several possible disorders; and chronic pain has its own classifications and treatments. Combining all four in one finished article would almost certainly violate the desired length and make search results less precise.
+Module 9 now separates speech and voice; swallowing and globus; and cough, breathing, and upper-airway symptoms.
 
-The overview should explain how the four problems may interact with FND. Each focused page should then cover its own assessment, evidence, at-home ideas, supporter guidance, and reassessment concerns.
+**Decision needed:** Should cough, breathing-pattern symptoms, and upper-airway or laryngeal symptoms remain together?
 
-## Decision 7 — Where should dizziness, breathing, and autonomic symptoms live?
+**Recommendation:** Keep them together for the first authored version, but organize the page so respiratory, cardiac, and upper-airway differentials are visibly distinct. Split it only if the evidence and safety material cannot fit comfortably.
 
-**Recommendation: Give every overlapping subject one canonical home.** Dizziness caused or worsened by standing belongs primarily in autonomic material; visually triggered or persistent perceptual dizziness belongs primarily in the dizziness page; breathing-pattern and upper-airway symptoms belong primarily in the breathing page; sleep-related breathing belongs in the sleep page.
+## Decision 6 — Is cognition sufficiently separated from dissociation?
 
-Other pages should give a short explanation and link to the canonical page. This will reduce contradiction, duplicated updates, and confusing search results.
+Module 10 retains a shared overview but now has separate focused pages for cognition, memory, word finding, and Functional Cognitive Disorder; and for dissociation and altered awareness.
 
-## Decision 8 — Which practical material should become reusable resources?
+**Recommendation:** Keep this division. It preserves their possible overlap without teaching that cognitive symptoms are necessarily caused by dissociation. Functional seizures should link to the dissociation page rather than duplicate the full explanation.
 
-**Recommendation: Keep the lesson that teaches each skill, but store the actual reusable tool once in the resource library.** Strong candidates include the symptom map, emergency information sheet, episode plan, pacing planner, appointment summary, care-team map, equipment review, setback plan, and Personal FND Handbook.
+## Decision 7 — Should pain, migraine, fatigue, and sleep remain one module?
 
-Course pages should explain when and how to use the tool, then link to the single current version. This prevents five modules from slowly developing five different emergency or symptom-tracking forms.
+Module 11 now uses the maximum five pages: one overview and one focused page for each of chronic pain, migraine, fatigue, and sleep.
 
-## Decision 9 — Should the Support-Person Mini-Course become its own pages?
+**Recommendation:** Keep them as one course module because the overview can explain how they interact with FND and one another. Treat the four focused pages as medically distinct subjects with their own assessment, treatment, safety, and sources.
 
-**Recommendation: Yes, while retaining a short support-person section on every educational page.** The embedded section answers, “How can someone help with this subject?” The standalone mini-course answers broader questions about belief, episode safety, rehabilitation, communication, boundaries, and planning.
+## Decision 8 — Where should overlapping dizziness, faintness, breathing, and fatigue information live?
 
-The two forms serve different needs and should cross-link rather than duplicate entire passages.
+Dizziness appears in sensory and vestibular material, autonomic symptoms, migraine, fatigue, medication effects, and emergency safety. Breathing appears in functional respiratory symptoms, sleep disorders, seizures, autonomic complaints, and emergency safety.
 
-## Decision 10 — Where should advanced clinician material appear on the future website?
+**Recommendation:** Assign one canonical home to each full explanation: vestibular or perceptual dizziness in Module 8; orthostatic faintness and palpitations in Module 12; migraine-associated dizziness in the migraine page; upper-airway or breathing-pattern symptoms in Module 9; sleep-related breathing in the sleep page; and emergency response in Module 5. Other pages should summarize and link.
 
-**Recommendation: Keep it in the same source article but visually place it after the essential lesson, with an expandable or clearly separated advanced section on the website.** This maintains one evidence record and one update location while allowing most readers to stop after the plain-language material.
+## Decision 9 — How should rehabilitation, pacing, and daily accessibility divide responsibility?
 
-A separate clinician site would create duplicate claims and double the maintenance burden. A simple visible label such as “Professional and advanced detail” also welcomes interested readers without suggesting that the information is forbidden to them.
+Modules 14, 15, and 17 all discuss activity, fatigue, practice, aids, adaptation, and changing capacity.
 
-## Decision 11 — Should course modules and symptom guides duplicate one another?
+**Recommendation:** Give Module 14 ownership of learning and rehabilitation practice; Module 15 ownership of total load, rest, baseline, delayed worsening, and activity planning; and Module 17 ownership of accomplishing daily tasks and accessing environments now. Cross-link rather than repeat full instructions.
 
-**Recommendation: No.** Course modules should provide an ordered learning experience. “Find Information by Symptom or Need” guides should act as routes that point to the relevant course sections, focused articles, resources, and supporter material.
+## Decision 10 — Which material should become a reusable worksheet rather than repeated prose?
 
-A guide may contain a short orientation, but the main explanation should live on one canonical educational page. This preserves searchability without creating several versions of the same medical claim.
+The course now points toward a symptom map, emergency sheet, episode plan, activity planner, care-team map, appointment summary, equipment review, setback plan, and Personal FND Handbook.
 
-## Decision 12 — Should every completed page remain limited to the current template size?
+**Recommendation:** Store each actual form once in the future resource library. A course page should explain why, when, and how to use it, then link to the one maintained copy. Module 22 can assemble those resources without copying them into a second handbook format.
 
-**Recommendation: Keep the 16-heading pattern and the 20-paragraph ceiling for main educational pages.** If a page cannot fit comfortably, that is evidence that it should become an overview with focused child pages—not that the paragraphs should become extremely long.
+## Decision 11 — How should the Support-Person Mini-Course be built?
 
-The current authoring templates average 15 content paragraphs because each of the 15 sections beneath the title contains one paragraph of notes. Finished pages may use fewer paragraphs in a section that is not applicable and more in a difficult section, provided the total remains readable and every standard heading remains visible.
+Every page already has a supporter section, while the planned mini-course covers broader skills such as belief, episode safety, rehabilitation support, communication, boundaries, and planning.
+
+**Decision needed:** Should each supporter lesson use the same four-section page pattern, even though “For the Person With FND” and “For Family, Friends, and Other Supporters” would overlap?
+
+**Recommendation:** Give the mini-course its own simpler template. Keep the person with FND involved through consent, preferences, and joint planning, but organize those lessons primarily around what supporters need to understand, do, avoid, and review.
+
+## Decision 12 — How should clinician detail and research records be maintained?
+
+The new page design keeps clinical material and research notes within the same focused page, but under separate visible headings.
+
+**Recommendation:** Keep one source page rather than creating duplicate public and clinician articles. On a future website, the clinician and research sections can appear after the plain-language sections or be expandable. Maintain a page-specific evidence record, while keeping shared source summaries in the research directory when several pages rely on the same review or guideline.
+
+# Current Page Distribution
+
+- 2 pages: Modules 4 and 23
+- 3 pages: Modules 1, 2, 5, 10, 12–16, 18–22
+- 4 pages: Modules 3, 6, 8, 9, and 17
+- 5 pages: Modules 7 and 11
+
+The median module length is three pages. No module exceeds five pages.
