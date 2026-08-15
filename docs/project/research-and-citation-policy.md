@@ -1,0 +1,53 @@
+# Research and Citation Policy
+
+Educational claims should be traceable whenever practical.
+
+## Source preference
+
+Preference should generally be given to:
+
+1. diagnostic criteria and authoritative clinical guidance;
+2. systematic reviews and meta-analyses;
+3. peer-reviewed primary research;
+4. professional consensus statements;
+5. specialist educational material whose claims can be independently evaluated.
+
+The most appropriate source depends on the claim. A newer primary study does not automatically overrule a careful systematic review, and a consensus recommendation should not be described as experimental proof.
+
+## What a research summary should show
+
+Where relevant, explain:
+
+- what question the study asked;
+- who participated;
+- what comparison was made;
+- what researchers measured;
+- what they found;
+- the size and practical meaning of the finding;
+- important limitations;
+- whether the design supports causation or only association;
+- whether other studies agree;
+- funding or conflicts of interest that materially affect interpretation.
+
+## Lived experience and community sources
+
+Patient forums and community discussions may be examined for day-to-day adaptations, coping strategies, accessibility, communication, and self-management questions that formal research has not adequately addressed.
+
+When community material is used:
+
+- label it as lived experience rather than research evidence;
+- look for recurring patterns across multiple reports rather than relying on one anecdote;
+- check safety-sensitive suggestions against medical evidence and clinical guidance where possible;
+- do not infer cures, mechanisms, or guaranteed treatment effects from testimonials;
+- avoid reproducing unnecessary personal details;
+- respect the community’s rules and reasonable expectations of privacy.
+
+## Citation practice
+
+- Cite the source closest to the claim it supports.
+- Prefer links to the original paper, guideline, or official record rather than a secondary retelling.
+- Include persistent identifiers such as a DOI or PubMed record where available.
+- Record access or review dates for changing webpages.
+- Do not cite a source as support for a claim it does not actually make.
+- Clearly mark corrections and meaningful evidence updates.
+
