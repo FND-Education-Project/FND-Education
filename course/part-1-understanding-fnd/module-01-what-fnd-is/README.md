@@ -36,6 +36,43 @@ This is the authoring template for the short module overview. Keep the completed
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed overview need?** Use a small number of broad sources that support the module’s shared introduction. Record which focused page owns each detailed claim so the overview does not become a second full article. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes.
+**Which evidence and source notes will the completed overview need?** Use the three grouped source records below for the short overview. They support the reality and involuntary nature of symptoms, positive diagnosis, coexistence with neurological disease, the absence of a required psychological stressor, variability, and individualized multidisciplinary treatment. Detailed mechanisms, individual positive signs, biopsychosocial interpretation, and treatment outcomes belong mainly on the focused pages and later modules.
+
+**[FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001) — Bennett et al. (2021)**
+
+Points supported: FND should be positively diagnosed; symptoms are involuntary; another neurological disorder may coexist.
+
+Short quotations from the abstract and diagnostic-pitfalls table:
+
+- “The diagnosis of FND should rest on clear positive evidence”
+- “FND symptoms are involuntary”
+- “FND commonly co-occurs with other neurological disorders”
+
+Citation: Bennett K, Diamond C, Hoeritzauer I, et al. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987)
+
+**[FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002) — Espay et al. (2018)**
+
+Points supported: psychological stress is not required for diagnosis; modern diagnosis is inclusionary rather than based only on exclusion.
+
+Short quotations from the abstract:
+
+- “removing the former criterion of psychological stress as prerequisite for FND”
+- “A diagnosis can now be made in an inclusionary manner”
+
+Citation: Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264)
+
+**[FND-CIT-0003](../../../research/citation-index.md#fnd-cit-0003) — Hallett et al. (2022)**
+
+Points supported: symptoms are genuinely experienced and may vary; psychological stressors may be absent; treatment may need several disciplines and individual tailoring.
+
+Short quotations from the abstract:
+
+- “recognisable patterns of genuinely experienced symptoms”
+- “Psychological stressors are common risk factors … but are often absent”
+- “tailored multidisciplinary treatment”
+
+Citation: Hallett M, Aybek S, Dworetzky BA, et al. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1)
+
+These quotations are research notes for the human author. The finished explanation should normally paraphrase the evidence in simple language and retain the citations.
 
 **When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material.
