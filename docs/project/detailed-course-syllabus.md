@@ -92,17 +92,28 @@ The reader can describe FND in plain language while clearly identifying what com
 
 Explain positive diagnosis, appropriate investigation, and uncertainty without suggesting that every person has the same signs or needs the same tests.
 
-### Main subjects
+### Essential knowledge
 
-- clinical history and neurological examination;
-- positive clinical signs and what they demonstrate;
-- internal inconsistency, variability, distractibility, and preserved abilities;
-- why inconsistency does not mean deliberate behaviour;
-- roles of video, EEG, imaging, laboratory tests, and specialist assessment;
-- functional seizures, epilepsy, and diagnostic overlap;
-- FND alongside structural neurological or other medical disease;
-- when a second opinion or reassessment may be reasonable;
-- limitations, misdiagnosis, and diagnostic communication.
+- How a clinician listens to the person’s history and examines how the nervous system is working.
+- Why FND should not be diagnosed only because scans or other tests are normal.
+- What a **positive sign** is: something in the examination that gives the clinician evidence of a functional problem.
+- Why a symptom may change during the examination even though the person is not controlling it on purpose.
+- Why different symptoms may require different tests.
+- Why tests can help answer particular questions but cannot prove every possible cause has been excluded.
+- Why a person can have both FND and another neurological or medical condition.
+- What information a clinician should explain when giving the diagnosis.
+- When it may be reasonable to ask questions, request reassessment, or seek another opinion.
+
+### For health professionals and readers wanting more detail
+
+- Positive diagnostic signs, including inconsistency with recognized neuroanatomical disease and incongruence with established neurological patterns.
+- Variability, distractibility, entrainment, Hoover’s sign, and demonstrations of preserved function, with attention to their proper interpretation.
+- The difference between a positive rule-in diagnosis and a diagnosis of exclusion.
+- Appropriate use and limitations of imaging, EEG, video-EEG, neurophysiology, laboratory testing, and recorded home events.
+- Diagnostic overlap among functional seizures, epilepsy, syncope, sleep disorders, migraine, movement disorders, and other episodic conditions.
+- Dual diagnosis and comorbid structural neurological disease.
+- Diagnostic accuracy, misdiagnosis research, clinician confidence, and the need for longitudinal reassessment when the presentation changes.
+- Communicating the diagnosis in a way that explains positive evidence, preserves uncertainty, and supports treatment engagement.
 
 ### Practical work
 
@@ -124,18 +135,29 @@ The reader understands that FND should be diagnosed through positive evidence an
 
 Present leading scientific models without turning any one model into a universal or proven cause.
 
-### Main subjects
+### Essential knowledge
 
-- the difference between cause, risk factor, trigger, mechanism, and perpetuating factor;
-- predisposing, precipitating, and perpetuating frameworks and their limitations;
-- brain-network research;
-- predictive processing, attention, expectation, agency, and automatic control;
-- symptom learning and neuroplasticity;
-- physical illness, injury, migraine, pain, medication, fatigue, and sleep disruption as possible contributors;
-- psychological stress, psychiatric conditions, trauma, and dissociation when relevant;
-- why trauma or stress is neither required nor irrelevant to every person;
-- limits of autonomic and polyvagal explanations;
-- recognizing scientific uncertainty and exaggerated mechanism claims.
+- Why researchers do not yet have one complete explanation for FND.
+- The difference between something that may increase risk, something that starts symptoms, and something that keeps symptoms going.
+- Why the original trigger may be different from the reasons symptoms continue.
+- How illness, injury, pain, migraine, poor sleep, medication effects, exhaustion, stress, trauma, or other experiences may matter for some people but not everyone.
+- Why trauma, stress, and mental illness are not required for an FND diagnosis.
+- How attention, expectations, past learning, and automatic nervous-system processes may affect symptoms without conscious choice.
+- What **neuroplasticity** means in simple terms: the nervous system can learn and change, but change is not guaranteed or unlimited.
+- Why a helpful treatment idea does not automatically prove a theory about what caused FND.
+- How to recognize explanations that sound certain but go beyond the research.
+
+### For health professionals and readers wanting more detail
+
+- Predisposing, precipitating, and perpetuating formulations and the limits of applying group-level factors to individuals.
+- Distinctions among cause, mechanism, mediator, moderator, risk marker, trigger, and maintaining factor.
+- Network-level findings involving attention, salience, agency, motor control, emotion processing, and interoception.
+- Predictive-processing and active-inference accounts, including precision weighting, prior expectations, and sensory evidence.
+- Abnormal self-directed attention, altered sense of agency, symptom learning, and automatic versus voluntary control.
+- Associations with physical illness, injury, migraine, pain, fatigue, sleep disruption, psychiatric conditions, trauma, and dissociation.
+- Methodological limitations, reverse causation, heterogeneous samples, replication problems, and the difference between biomarkers and diagnostic tests.
+- Limits of broad autonomic, polyvagal, trauma-only, and other single-system explanations.
+- Ethical consequences of presenting a speculative mechanism as an individualized causal conclusion.
 
 ### Practical work
 
@@ -156,17 +178,27 @@ The reader can consider possible contributors without mistaking association or a
 
 Help the reader organize a complicated condition into a useful personal map without self-diagnosing.
 
-### Main subjects
+### Essential knowledge
 
-- confirmed FND symptoms;
-- associated or commonly co-occurring symptoms;
-- separate confirmed diagnoses;
-- symptoms still requiring assessment;
-- medication, substance, sleep, pain, and environmental effects;
-- triggers versus early warning signs;
-- helpful strategies and preserved abilities;
-- daily, weekly, and situational variation;
-- avoiding excessive monitoring and false certainty.
+- How to list symptoms that have been diagnosed as part of FND.
+- How to keep separate diagnoses, possible symptoms, and unanswered medical questions from becoming one confusing list.
+- The difference between a **warning sign** that an episode may be starting and a **trigger** that may make an episode more likely.
+- How sleep, pain, migraine, medication, illness, activity, and surroundings may affect symptoms.
+- Why a pattern noticed once may be coincidence rather than a true trigger.
+- How to record what helps, what makes things harder, and what abilities remain available.
+- How symptoms may change across a day, week, activity, or situation.
+- Why tracking a few useful patterns is usually better than watching every body sensation.
+- How a one-page map can help at appointments and during setbacks.
+
+### For health professionals and readers wanting more detail
+
+- Separating diagnosed functional phenomena, associated non-motor symptoms, comorbid disorders, medication effects, and unresolved differential diagnoses.
+- Temporal relationships among vulnerabilities, precipitants, warning symptoms, triggers, maintaining factors, and consequences.
+- Individual variability, context dependence, and preserved or intermittently accessible function.
+- Risks of recall bias, confirmation bias, post hoc trigger attribution, and excessive symptom monitoring.
+- Use of brief structured diaries, patient-reported outcomes, objective measures, and collateral observations only when they answer a defined clinical question.
+- Updating formulation when new symptoms, examination findings, treatment responses, or diagnoses emerge.
+- Using the map to improve interdisciplinary communication without treating it as a diagnostic instrument.
 
 ### Practical work
 
@@ -192,16 +224,27 @@ The reader has an organized, updateable picture of what is known, suspected, cha
 
 Reduce both diagnostic overshadowing and unnecessary emergency responses by teaching individualized safety planning.
 
-### Main subjects
+### Essential knowledge
 
-- why FND does not remove ordinary medical risk;
-- established personal patterns versus new or substantially changed symptoms;
-- injury, breathing problems, prolonged unresponsiveness, and sudden neurological change;
-- red flags and the limits of generic online lists;
-- when an emergency plan should override general advice;
-- communicating with emergency personnel;
-- risks of both over-treatment and dismissal;
-- keeping emergency information accurate and concise.
+- Why having FND does not protect a person from other illnesses or emergencies.
+- How to compare an event with the person’s usual, medically assessed pattern.
+- Why new, severe, injured, or clearly changed symptoms should not automatically be called FND.
+- Why breathing trouble, serious injury, prolonged unresponsiveness, or sudden neurological change may need urgent help.
+- Why a general internet list cannot decide whether one person needs emergency care.
+- How an individualized plan from the person’s clinicians can guide familiar episodes.
+- What information emergency workers may need quickly.
+- How to avoid both calling emergency services automatically for every familiar symptom and dismissing something dangerous.
+- Why emergency information must be short, current, and easy to find.
+
+### For health professionals and readers wanting more detail
+
+- Diagnostic overshadowing, anchoring, premature closure, and iatrogenic harm in patients with an established FND diagnosis.
+- Distinguishing a stereotyped, previously assessed event from altered semiology, new focal deficits, medical instability, intoxication, withdrawal, infection, or injury.
+- Individualized thresholds for emergency escalation and the limitations of generic red-flag education.
+- Balancing avoidance of unnecessary anticonvulsants, intubation, restraint, imaging, and admission against appropriate emergency investigation.
+- Handover language that separates confirmed diagnosis, usual presentation, current differences, observed physiology, and unresolved risk.
+- Advance care information, accessibility needs, consent, capacity, and supporter roles.
+- Periodic clinical review of episode plans after diagnostic or medical change.
 
 ### Practical work
 
@@ -222,17 +265,29 @@ The reader understands that safety depends on the person’s established pattern
 
 Explain functional seizures and related episodes while supporting safe, individualized responses.
 
-### Main subjects
+### Essential knowledge
 
-- functional seizures, dissociative seizures, PNES, and terminology;
-- diagnosis using history, witness information, video, and video-EEG where appropriate;
-- differences from epilepsy and the possibility of having both;
-- common episode forms and wide individual variation;
-- warnings, triggers, loss of awareness, movement, immobility, and recovery;
-- injury reduction and environmental safety;
-- when emergency help may be needed;
-- documenting useful observations without constant surveillance;
-- evidence for treatments and major research gaps.
+- What functional seizures are and the different names people may hear for them.
+- Why functional seizures are real and not deliberately performed.
+- How clinicians may use the person’s description, witness accounts, videos, and EEG testing to make the diagnosis.
+- Why a functional seizure is not an epileptic seizure, while some people can have both conditions.
+- Why episodes can involve movement, stillness, altered awareness, memory gaps, or many other patterns.
+- How warning feelings, triggers, the episode itself, and recovery may differ between people.
+- Basic steps to reduce injury and keep the space calm.
+- Why supporters should not restrain the person or put anything in the mouth.
+- How a personal plan explains when a familiar episode can be managed safely and when emergency help is needed.
+- Why useful observation is different from filming or monitoring the person constantly.
+
+### For health professionals and readers wanting more detail
+
+- Terminology including functional seizures, dissociative seizures, and psychogenic nonepileptic seizures, with regional and classification differences.
+- Semiology, diagnostic history, witness reliability, smartphone video, ambulatory EEG, and video-EEG confirmation.
+- Differential diagnosis involving epileptic seizures, syncope, parasomnias, movement disorders, migraine, panic, metabolic disturbance, and other episodic events.
+- Coexisting epilepsy, diagnostic revision, and communication of remaining uncertainty.
+- Autonomic, motor, sensory, cognitive, and dissociative features without treating semiology alone as definitive.
+- Risks from injury, breath-holding or apparent unresponsiveness, emergency overtreatment, and inappropriate antiseizure therapy.
+- Evidence and limitations for psychological treatment, education, multidisciplinary care, and management of comorbidities.
+- Outcome measures beyond seizure frequency, including injury, emergency use, recovery time, participation, and quality of life.
 
 ### Practical work
 
@@ -253,17 +308,29 @@ The person and supporter have a shared episode response that reflects the indivi
 
 Explain functional motor symptoms and introduce evidence-informed rehabilitation principles.
 
-### Main subjects
+### Essential knowledge
 
-- functional weakness and paralysis;
-- tremor, jerks, spasms, dystonia, and gait disturbance;
-- falls and injury risk;
-- positive motor signs;
-- automatic versus consciously controlled movement;
-- redirected attention, rhythm, imagery, and meaningful tasks;
-- roles of FND-informed physiotherapy and occupational therapy;
-- deconditioning, pain, fatigue, and mobility aids;
-- graded practice without force or shame.
+- How FND can affect strength, walking, balance, posture, or movement.
+- What tremor, jerks, spasms, dystonia, weakness, paralysis, and gait problems mean in ordinary language.
+- Why movement may be easier in one situation and harder in another without being voluntary.
+- How a clinician may find signs that normal movement is still possible but not being accessed reliably.
+- The difference between automatic movement and movement that requires close conscious control.
+- Why rhythm, distraction, an external target, or a meaningful activity may sometimes help movement.
+- How an FND-informed physiotherapist or occupational therapist may help retrain movement and daily activities.
+- Why pain, fatigue, fear of falling, and loss of conditioning may also need attention.
+- How mobility aids may improve safety and access while still needing individual assessment and review.
+- Why forcing, shaming, or simply telling someone to try harder is not rehabilitation.
+
+### For health professionals and readers wanting more detail
+
+- Functional weakness, tremor, myoclonus, dystonia, parkinsonism, gait disorders, and mixed motor presentations.
+- Positive signs including Hoover’s sign, hip abductor sign, drift without pronation, entrainment, distractibility, variability, and incongruent gait patterns.
+- Automatic versus explicit motor control, self-focused attention, agency, expectation, and motor prediction.
+- Physiotherapy principles emphasizing education, movement retraining, external focus, automatic movement, task orientation, and self-management.
+- Occupational analysis, environmental adaptation, graded participation, and cognitive or sensory load.
+- Interactions with pain, fatigue, fear, falls, deconditioning, joint instability, and other neurological or musculoskeletal disease.
+- Individual assessment of orthoses, walking aids, wheelchairs, and transfer strategies, avoiding blanket pro- or anti-equipment rules.
+- Outcome measurement involving function, participation, falls, confidence, endurance, and quality of movement—not normal appearance alone.
 
 ### Practical work
 
@@ -285,17 +352,28 @@ The reader understands why motor retraining often works with automatic movement 
 
 Organize several frequently overlapping symptom areas and clarify when adaptations, rehabilitation, or further assessment may be appropriate.
 
-### Main subjects
+### Essential knowledge
 
-- numbness, altered sensation, pain, and hypersensitivity;
-- functional visual symptoms and appropriate eye assessment;
-- dizziness, balance problems, and persistent postural-perceptual dizziness;
-- vestibular and migraine overlap;
-- sensory overload, photophobia, phonophobia, and environmental strain;
-- accommodations versus total avoidance;
-- gradual exposure and its limits;
-- fall prevention and mobility safety;
-- research gaps in severe sensory disability.
+- How FND may affect touch, feeling, vision, balance, or the sense of where the body is.
+- Why numbness, unusual sensations, dizziness, visual difficulty, and sensory overload can be real and disabling.
+- Why migraine, inner-ear conditions, eye disease, medication effects, and other illnesses may cause similar or overlapping symptoms.
+- Why visual, vestibular, or other specialist assessment may still be needed.
+- How light, sound, movement, busy patterns, or crowded places may increase symptoms for some people.
+- How practical changes to the environment can reduce strain and improve access.
+- The difference between an accommodation that makes life possible and avoiding everything that might produce symptoms.
+- Why gradual exposure must be individualized, consensual, and small enough to be safe and tolerable.
+- Basic ways to reduce falls and injuries while symptoms are being assessed or treated.
+
+### For health professionals and readers wanting more detail
+
+- Functional sensory loss, hemisensory symptoms, non-dermatomal patterns, visual loss, diplopia, photophobia, dizziness, and balance presentations.
+- Positive examination features and the limits of inconsistency or non-anatomical distribution as isolated evidence.
+- Differential diagnosis involving ophthalmic, vestibular, migraine, neuropathic, spinal, cerebrovascular, medication-related, and systemic causes.
+- Overlap with persistent postural-perceptual dizziness, vestibular migraine, visual dependence, and sensory hypersensitivity.
+- Sensory prediction, attention, threat, postural control, and multisensory integration as proposed mechanisms.
+- Environmental modification, vestibular or visual rehabilitation, sensory desensitization, and graded exposure with careful selection and monitoring.
+- Accessibility versus avoidance, including the danger of using rehabilitation theory to deny needed accommodations.
+- Evidence gaps concerning severe photophobia, phonophobia, visual disability, and complex multisensory presentations in FND.
 
 ### Practical work
 
@@ -317,16 +395,28 @@ The reader can separate immediate accessibility needs, possible rehabilitation, 
 
 Explain communication and upper-airway symptoms while giving safety issues appropriate weight.
 
-### Main subjects
+### Essential knowledge
 
-- functional speech, voice, language-access, and fluency symptoms;
-- mutism, dysphonia, stuttering, accents, and word blocking;
-- functional swallowing symptoms and globus;
-- cough, breathing-pattern symptoms, and upper-airway presentations;
-- automatic speech, voice, rhythm, and distraction strategies;
-- roles of speech-language pathology and respiratory or swallowing assessment;
-- choking, aspiration, respiratory distress, and other red flags;
-- communication access during severe symptoms.
+- How FND may affect speaking, voice, fluency, swallowing, coughing, or breathing.
+- What mutism, dysphonia, stuttering, word blocking, globus, and other common terms mean.
+- Why a person may sometimes speak or swallow more easily than at other times without choosing the difficulty.
+- How rhythm, singing, automatic phrases, an external focus, or less effortful speech may sometimes help.
+- How a speech-language pathologist may assess communication or swallowing and help retrain function.
+- Why writing, gesture, communication cards, or devices may be needed when speech is difficult.
+- Why supporters should give time and should not automatically finish every sentence.
+- Why choking, possible aspiration, severe breathing trouble, or a new swallowing problem should not simply be assumed to be FND.
+- When respiratory, ear-nose-throat, gastrointestinal, or swallowing assessment may be appropriate.
+
+### For health professionals and readers wanting more detail
+
+- Functional dysphonia, aphonia, dysarthria-like symptoms, mutism, stuttering, prosodic change, foreign-accent presentations, and language-access symptoms.
+- Functional dysphagia, globus, cough, inducible laryngeal obstruction, and breathing-pattern disorder, including areas of overlap and diagnostic uncertainty.
+- Positive clinical features, variability, automatic-voluntary dissociation, task effects, and response to symptomatic techniques.
+- Differential diagnosis involving stroke, neurodegenerative disease, neuromuscular disease, structural laryngeal pathology, aspiration risk, and respiratory disease.
+- Speech-language therapy principles involving education, automatic function, attention redirection, reducing excessive effort, graded communication, and self-management.
+- Instrumental swallowing assessment and multidisciplinary evaluation when safety or nutrition is uncertain.
+- Augmentative and alternative communication as an access tool without assuming permanence.
+- Evidence limitations and the need to avoid inferring causation from rapid response to a technique.
 
 ### Practical work
 
@@ -352,17 +442,29 @@ The reader knows that functional communication symptoms may be treatable while s
 
 Explain cognitive symptoms without treating every memory difficulty as either neurodegeneration or “just FND.”
 
-### Main subjects
+### Essential knowledge
 
-- attention, working memory, processing speed, and executive function;
-- encoding, storage, and retrieval;
-- episodic-memory complaints, semantic retrieval, and word finding;
-- functional cognitive symptoms and Functional Cognitive Disorder;
-- dissociation, altered awareness, depersonalization, and derealization;
-- effects of migraine, pain, sleep, fatigue, medication, mood, and sensory overload;
-- formal cognitive assessment and its limitations;
-- meaningful cognitive change and reasons for reassessment;
-- external memory supports and reduced cognitive load.
+- How attention, thinking speed, planning, word finding, and memory can be affected.
+- Why remembering requires first noticing information, taking it in, storing it, and finding it again later.
+- Why a problem with attention or learning new information can feel like a loss of stored memory.
+- What episodic memory, word finding, and general knowledge memory mean in simple terms.
+- What **Functional Cognitive Disorder** means and how it may relate to FND.
+- What dissociation, feeling unreal, feeling detached, or losing parts of awareness can mean.
+- How migraine, pain, poor sleep, fatigue, medication, mood, and sensory overload can make thinking harder.
+- Why important new or worsening cognitive problems still deserve medical assessment.
+- How calendars, written summaries, reminders, checklists, consistent storage places, and one step at a time may reduce cognitive demands.
+- Why support should help memory without turning daily life into a test.
+
+### For health professionals and readers wanting more detail
+
+- Attention, processing speed, working memory, executive function, prospective memory, episodic encoding and retrieval, and semantic-access complaints.
+- Functional Cognitive Disorder, internal inconsistency, metacognitive mismatch, and the relationship between subjective impairment and formal performance.
+- Cognitive symptoms across motor FND and functional seizures rather than FCD alone.
+- Dissociation, depersonalization, derealization, altered awareness, and their incomplete overlap with functional cognitive symptoms.
+- Differential diagnosis involving neurodegeneration, epilepsy, migraine, sleep disorders, medication or substance effects, mood disorders, endocrine or nutritional disease, brain injury, and other neurological conditions.
+- Neuropsychological assessment, performance validity, ecological validity, longitudinal change, and the risk of stigmatizing interpretation.
+- Cognitive rehabilitation, external supports, reduced competing load, metacognitive strategies, and treatment of contributing conditions.
+- Research limitations involving heterogeneous measures, small samples, psychiatric confounding, and overreliance on group averages.
 
 ### Practical work
 
@@ -383,17 +485,29 @@ The reader can use practical cognitive supports while preserving appropriate inv
 
 Show how these disabling problems may accompany, trigger, maintain, or remain distinct from FND.
 
-### Main subjects
+### Essential knowledge
 
-- chronic pain and central sensitization concepts;
-- migraine as a separate neurological diagnosis and possible FND trigger;
-- fatigue as a symptom versus a separate condition;
-- post-activity worsening and uncertainty around pacing evidence;
-- insomnia, fragmented sleep, circadian problems, and sleep disorders;
-- medication and substance effects;
-- interactions among pain, attention, cognition, movement, and seizures;
-- treatable contributors and appropriate referrals;
-- limits of “push through” and “avoid everything” approaches.
+- Why pain, migraine, fatigue, and sleep problems are common in people with FND but are not all automatically caused by FND.
+- Why migraine is its own neurological condition even when it triggers or worsens functional symptoms.
+- Why chronic pain may involve injury, disease, changes in pain processing, or several factors together.
+- Why fatigue is a symptom with many possible causes rather than one diagnosis.
+- How poor sleep, pain, migraine, fatigue, thinking difficulty, movement symptoms, and seizures may worsen one another.
+- Why medication and substance effects should be considered.
+- Why treatable problems such as sleep disorders, migraine, anemia, or endocrine disease should not be missed.
+- How planning activity and recovery may help some people when capacity varies.
+- Why pushing through everything and avoiding everything can each create problems.
+- Why pacing advice must be adjusted if activity causes delayed or prolonged worsening.
+
+### For health professionals and readers wanting more detail
+
+- Prevalence and burden of pain, headache disorders, fatigue, and sleep disturbance across FND phenotypes.
+- Migraine as a comorbid neurological disorder, potential precipitant, symptom amplifier, and diagnostic overlap.
+- Nociceptive, neuropathic, nociplastic, and mixed pain mechanisms; central sensitization as a model rather than a complete explanation.
+- Fatigue measurement, post-exertional symptom exacerbation, and differential diagnosis including ME/CFS and systemic illness.
+- Insomnia, sleep fragmentation, circadian disturbance, sleep-disordered breathing, parasomnias, and medication or substance effects.
+- Bidirectional effects involving attention, arousal, cognition, mood, motor control, seizures, and participation.
+- Evidence and limitations for pacing, graded activity, sleep interventions, migraine treatment, pain rehabilitation, and multidisciplinary care.
+- Risks of diagnostic overshadowing, polypharmacy, and assuming improvement in a comorbidity will necessarily resolve FND.
 
 ### Practical work
 
@@ -415,16 +529,27 @@ The reader understands why these problems deserve care in their own right and sh
 
 Explain common whole-body complaints while avoiding unsupported claims that all are caused by FND or autonomic “dysregulation.”
 
-### Main subjects
+### Essential knowledge
 
-- sweating, temperature changes, nausea, bowel symptoms, dizziness, and palpitations;
-- ordinary autonomic physiology;
-- effects of pain, migraine, sleep, medication, dehydration, and illness;
-- overlap with recognized autonomic disorders;
-- what FND research has and has not established;
-- objective measurements and their limitations;
-- symptom tracking without obsessive monitoring;
-- questions that may guide primary-care or specialist assessment.
+- What the autonomic nervous system does automatically, including heart rate, blood pressure, sweating, digestion, and temperature control.
+- Why people with FND may report sweating, nausea, bowel changes, dizziness, palpitations, or temperature problems.
+- Why these symptoms can also come from medication, dehydration, infection, pain, migraine, poor sleep, heart conditions, hormone problems, or autonomic disorders.
+- Why the word **dysregulation** describes a possibility but does not identify the cause by itself.
+- Why FND research has not proven that every whole-body symptom is part of FND.
+- How a short record of timing, circumstances, medication changes, and useful measurements may help a clinician.
+- Why consumer devices can provide clues but can also be inaccurate or easy to overinterpret.
+- How too much checking can increase distress without improving decisions.
+- When new, severe, or changing whole-body symptoms need medical assessment.
+
+### For health professionals and readers wanting more detail
+
+- Sympathetic, parasympathetic, enteric, baroreflex, thermoregulatory, and cardiorespiratory physiology relevant to reported symptoms.
+- Evidence concerning autonomic measures in FND and the limitations of small, heterogeneous, state-dependent studies.
+- Differential diagnosis involving orthostatic intolerance, POTS, vasovagal syncope, arrhythmia, endocrine disease, infection, medication effects, withdrawal, dehydration, migraine, and sleep disorders.
+- Overlap and diagnostic boundaries among FND, autonomic disorders, panic physiology, functional somatic symptoms, and ordinary responses to pain or exertion.
+- Clinical utility and limitations of orthostatic vitals, ambulatory monitoring, wearables, home oximetry, and symptom diaries.
+- Risks of false precision, incidental findings, confirmation bias, and excessive physiological monitoring.
+- Scientific limits of generalized autonomic and polyvagal explanations for heterogeneous FND presentations.
 
 ### Practical work
 
@@ -448,17 +573,29 @@ The reader can discuss autonomic symptoms more precisely while remaining open to
 
 Help readers understand professional roles and assemble realistic care when specialist FND services are limited.
 
-### Main subjects
+### Essential knowledge
 
-- neurologist and primary-care responsibilities;
-- FND-informed physiotherapy and occupational therapy;
-- speech-language therapy;
-- psychology, psychiatry, and neuropsychology;
-- rehabilitation, pain, migraine, sleep, and other specialists;
-- care coordination and responsibility gaps;
-- recognizing relevant FND competence;
-- telehealth, local clinicians, and sharing professional resources;
-- treatment goals and deciding who handles which problem.
+- Why FND care may involve more than one kind of healthcare professional.
+- How a neurologist may diagnose FND and help explain the positive signs.
+- How primary care may coordinate general health, medications, referrals, and new symptoms.
+- How physiotherapy, occupational therapy, and speech-language therapy may address different functional problems.
+- How psychology, psychiatry, or neuropsychology may help when their skills match the person’s needs.
+- Why pain, migraine, sleep, rehabilitation, or other specialists may treat separate but interacting problems.
+- Why each clinician’s job should be clear so important needs do not fall between services.
+- Questions that can help identify whether a clinician understands modern FND care.
+- Options when no local FND clinic exists, including a local clinician using specialist guidance.
+- How to choose a small number of shared treatment goals.
+
+### For health professionals and readers wanting more detail
+
+- Diagnostic ownership, longitudinal neurological review, primary-care coordination, and multidisciplinary or interdisciplinary models.
+- Discipline-specific competencies in FND physiotherapy, occupational therapy, speech-language therapy, neuropsychology, psychology, psychiatry, and rehabilitation medicine.
+- Management of comorbid neurological, psychiatric, pain, migraine, sleep, and systemic conditions without fragmenting care.
+- Shared formulation, role clarity, referral quality, and communication across services.
+- Stepped-care, consultation, telehealth, hub-and-spoke, and capacity-building models where specialist programs are unavailable.
+- Treatment selection based on phenotype, severity, readiness, access, comorbidity, disability, and patient goals rather than diagnosis alone.
+- Service barriers, stigma, funding, inequity, and the risk of discharging patients when one discipline cannot meet all needs.
+- Outcome goals spanning symptoms, function, participation, safety, healthcare use, and quality of life.
 
 ### Practical work
 
@@ -479,17 +616,29 @@ The reader has a clearer plan for which professional may address each need and w
 
 Explain rehabilitation learning while correcting claims that neuroplasticity guarantees recovery.
 
-### Main subjects
+### Essential knowledge
 
-- practice, repetition, attention, expectation, and nervous-system learning;
-- automatic and goal-directed movement;
-- meaningful tasks and external focus;
-- graded rehabilitation and baseline selection;
-- feedback, confidence, and reducing threat;
-- variability, plateaus, and setbacks;
-- outcome evidence and its limitations;
-- why improvement does not prove voluntary control;
-- cure claims and oversimplified “rewiring” language.
+- What rehabilitation means: practising ways to make useful functions easier, safer, and more reliable.
+- What neuroplasticity means: the brain and nervous system can change with experience and practice.
+- Why neuroplasticity offers a reason to try rehabilitation but does not promise a cure.
+- Why movement or speech may sometimes improve when attention is moved toward a goal, rhythm, object, or meaningful activity.
+- Why starting from what is currently possible can be more useful than repeatedly attempting the hardest task.
+- How small, repeated practice may build skill and confidence.
+- Why practice should be adjusted for pain, fatigue, injury risk, and delayed worsening.
+- Why setbacks and plateaus do not prove that rehabilitation has failed.
+- Why improvement does not mean the original symptoms were voluntary.
+- How to recognize “rewire your brain” claims that promise more than research supports.
+
+### For health professionals and readers wanting more detail
+
+- Experience-dependent plasticity, motor learning, attention, expectation, prediction error, agency, and automatic control as relevant rehabilitation concepts.
+- External focus, task-oriented practice, implicit learning, rhythm, distraction, shaping, and graded complexity.
+- Baseline selection, dose, repetition, variability of practice, feedback schedules, and transfer into daily activities.
+- Therapeutic education and demonstration of positive signs without implying conscious production.
+- Fear, threat, pain, fatigue, sensory load, and comorbidity as modifiers of rehabilitation.
+- Evidence for specialist physiotherapy and multidisciplinary rehabilitation, including selection bias, heterogeneous interventions, and uncertain active ingredients.
+- Outcomes involving participation, independence, safety, confidence, and quality of life in addition to symptom change.
+- Ethical concerns about cure guarantees, moralized effort, and using neuroplasticity language to deny disability or accommodations.
 
 ### Practical work
 
@@ -510,17 +659,29 @@ The reader understands rehabilitation as individualized learning and practice, n
 
 Help readers plan activity amid variable symptoms while being honest about limited FND-specific pacing research.
 
-### Main subjects
+### Essential knowledge
 
-- baseline activity and variability;
-- planned exertion, ordinary activity, and rehabilitation practice;
-- physical, cognitive, emotional, and sensory load;
-- restorative rest versus isolation or avoidance;
-- flexible ranges rather than rigid quotas;
-- post-activity worsening and delayed effects;
-- adapting after a flare;
-- gradually building capacity where possible;
-- avoiding moral judgments about rest and productivity.
+- What pacing means: planning activity and recovery around the person’s present capacity.
+- Why physical, thinking, emotional, and sensory activities can all use energy.
+- What a boom-and-bust pattern is: doing too much on a better day and then losing function during the following worsening.
+- How to find a starting level that is possible often enough to be useful.
+- Why flexible ranges may work better than rigid daily targets when symptoms vary.
+- How restorative rest differs from giving up every activity or staying isolated.
+- Why rehabilitation practice, necessary daily tasks, and enjoyable activity all count toward the total load.
+- How to reduce or change a plan after a flare without treating it as failure.
+- Why some people can gradually build capacity while others experience delayed or prolonged worsening that requires a different approach.
+- Why rest and productivity are health decisions, not measures of character.
+
+### For health professionals and readers wanting more detail
+
+- Activity baselines, energy envelopes, quota-contingent versus symptom-contingent approaches, and flexible planning.
+- Physical, cognitive, emotional, orthostatic, and sensory load, including delayed symptom responses.
+- Boom-and-bust cycles, fear avoidance, deconditioning, overactivity, and the danger of assuming one mechanism in every patient.
+- Distinguishing graded rehabilitation from fixed-increment graded exercise.
+- Post-exertional symptom exacerbation and comorbid conditions that may make standard progression unsuitable.
+- Monitoring function and recovery with the smallest measurement burden that can guide decisions.
+- Evidence gaps for FND-specific pacing and the limits of transferring models from chronic pain, fatigue, or rehabilitation populations.
+- Collaborative adjustment, relapse planning, and avoidance of moralized adherence or productivity targets.
 
 ### Practical work
 
@@ -541,17 +702,29 @@ The reader can test a flexible approach that respects current capacity while pre
 
 Explain why psychological treatment can be relevant without defining FND as imaginary or universally psychological.
 
-### Main subjects
+### Essential knowledge
 
-- what psychological therapy can and cannot establish about causation;
-- cognitive-behavioural approaches and functional seizures evidence;
-- symptom fear, attention, avoidance, mood, and coping;
-- acceptance-based and mindfulness approaches;
-- treatment of depression, anxiety, PTSD, or other conditions when present;
-- trauma-focused treatment only when indicated and acceptable;
-- choosing goals and measuring benefit;
-- consent and the right to decline an unsuitable therapy;
-- warning signs of coercive or unsupported hidden-cause models.
+- Why being offered psychological therapy does not mean symptoms are imagined or deliberately produced.
+- How therapy may help with coping, fear, attention, avoidance, relationships, mood, or the effects of living with symptoms.
+- Why depression, anxiety, PTSD, or another mental-health condition deserves treatment when present, whether or not it caused FND.
+- How some psychological treatments have been studied for functional seizures and other FND presentations.
+- What cognitive-behavioural, acceptance-based, and mindfulness approaches try to do in ordinary terms.
+- Why trauma treatment is appropriate only when trauma is actually relevant and the person wants that treatment.
+- Why a therapist should explain the goals, evidence, risks, and alternatives.
+- How progress may involve safer episodes, less fear, better coping, or greater participation even if symptoms continue.
+- Why a person can decline a therapy that is unsuitable, unsafe, or based on an explanation they do not accept.
+- Warning signs of a practitioner insisting on hidden trauma or claiming that resistance proves a psychological cause.
+
+### For health professionals and readers wanting more detail
+
+- Evidence for CBT-informed treatment of functional seizures and the more limited or heterogeneous evidence across other FND phenotypes.
+- Treatment targets including symptom fear, avoidance, attentional processes, illness beliefs, coping, emotion regulation, dissociation, mood, and interpersonal consequences.
+- Acceptance and Commitment Therapy, mindfulness-based approaches, psychodynamic therapy, trauma-focused treatment, and other modalities with accurate evidence labelling.
+- Treating comorbid psychiatric disorders without using their presence as retrospective proof of FND causation.
+- Formulation-driven treatment, shared goals, outcome measurement, and adaptation for cognitive, sensory, and physical disability.
+- Consent, therapeutic fit, cultural formulation, safeguarding, and the right to decline.
+- Risks of retraumatization, coercive trauma narratives, unfalsifiable interpretations, and psychologizing new medical symptoms.
+- Distinguishing therapeutic benefit from validation of the therapist’s proposed mechanism.
 
 ### Practical work
 
@@ -575,17 +748,29 @@ The reader can consider psychological support on its actual evidence and goals, 
 
 Support present safety and participation while leaving room for reassessment and rehabilitation.
 
-### Main subjects
+### Essential knowledge
 
-- personal care, cooking, cleaning, and household activities;
-- energy, cognitive, and sensory adaptations;
-- canes, walkers, wheelchairs, and other mobility aids;
-- seating, positioning, fall, and seizure safety;
-- home modifications and communication aids;
-- evidence gaps and conflicting opinions about equipment;
-- balancing current access with long-term goals;
-- professional assessment, funding, and periodic review;
-- dignity, privacy, and choice.
+- How FND may make washing, dressing, cooking, cleaning, shopping, communication, or moving around more difficult.
+- How changing the task or environment may reduce physical, thinking, or sensory demands.
+- How canes, walkers, wheelchairs, seating, braces, and other aids may improve safety, access, or independence.
+- Why equipment does not automatically prevent recovery and does not automatically help every person.
+- Why the right aid depends on the person’s symptoms, home, goals, strength, pain, fatigue, falls, and ability to use it safely.
+- How home changes and communication aids may allow participation without requiring symptoms to disappear first.
+- Why present accessibility needs and future rehabilitation goals can both matter.
+- Why equipment and assistance should be reviewed when needs change.
+- How funding and service rules may affect what is actually available.
+- Why privacy, dignity, consent, and asking before helping are essential.
+
+### For health professionals and readers wanting more detail
+
+- Activity analysis across personal care, instrumental activities, mobility, communication, cognition, and community access.
+- Environmental modification, task simplification, fatigue management, sensory adaptation, seating, positioning, transfer, fall, and episode safety.
+- Individual prescription of canes, walkers, wheelchairs, orthoses, bathroom equipment, and augmentative communication.
+- Tensions among immediate access, secondary complications, deconditioning, learned reliance, participation, and rehabilitation goals.
+- Lack of evidence supporting blanket prohibition or blanket endorsement of mobility aids in FND.
+- Collaborative trials, functional goals, training, maintenance, funding documentation, and planned reassessment.
+- Severe disability, fluctuating capacity, caregiver safety, and risks associated with inappropriate equipment.
+- Disability rights, reasonable accommodation, autonomy, and the ethical risk of withholding access in the name of recovery.
 
 ### Practical work
 
@@ -606,17 +791,29 @@ The reader can evaluate an aid by safety, access, independence, effort, personal
 
 Address the personal and relational consequences of FND without implying that positivity cures illness.
 
-### Main subjects
+### Essential knowledge
 
-- grief for abilities, roles, plans, and identity;
-- relationships altered by disability and caregiving;
-- intimacy, sexuality, and communication;
-- parenting and family responsibilities;
-- friendship, disbelief, and social isolation;
-- boundaries and responding to insensitive comments;
-- interests, pleasure, spirituality, and meaning;
-- identity beyond productivity and symptoms;
-- relationship or mental-health help when needed.
+- Why losing abilities, plans, work, roles, or independence can produce real grief.
+- How FND may change responsibilities between partners, relatives, friends, and caregivers.
+- Why both the person with FND and the supporter may have fear, anger, sadness, or resentment.
+- How honest communication and agreed boundaries may prevent unspoken strain from growing.
+- Why intimacy and sexuality may need practical adaptation and open discussion.
+- How parenting, family life, and friendship may continue in changed forms.
+- Ways to respond to disbelief or insensitive comments without having to explain everything to everyone.
+- Why isolation can worsen quality of life even when leaving home is difficult.
+- How interests, pleasure, spirituality, creativity, and purpose may still matter without being presented as cures.
+- When counselling, relationship help, safeguarding, or other support may be useful.
+
+### For health professionals and readers wanting more detail
+
+- Illness-related grief, ambiguous loss, identity disruption, role change, stigma, and social isolation.
+- Dyadic adjustment, caregiver burden, family systems, expressed emotion, overprotection, invalidation, and autonomy.
+- Intimacy, sexuality, parenting, dependent relationships, and culturally shaped family roles.
+- Effects of disbelief, contested diagnosis, unemployment, inaccessible environments, and healthcare experiences on relationships.
+- Communication interventions, peer support, couples or family therapy, and caregiver support with accurate evidence labelling.
+- Distinguishing helpful family involvement from making relatives responsible for treatment delivery or symptom surveillance.
+- Safeguarding, coercion, financial dependence, privacy, and supported decision-making.
+- Outcomes involving connection, role participation, relationship quality, identity, and meaning rather than symptom reduction alone.
 
 ### Practical work
 
@@ -637,18 +834,29 @@ The reader can acknowledge loss while protecting relationships, dignity, identit
 
 Make appointments and medical records more accurate, efficient, and usable.
 
-### Main subjects
+### Essential knowledge
 
-- concise medical histories and problem lists;
-- separating confirmed diagnoses, clinician opinions, and personal hypotheses;
-- describing patterns, duration, impact, and change;
-- preparing priorities and questions;
-- requesting written instructions and accessible communication;
-- correcting inaccurate records;
-- seeking another opinion respectfully;
-- responding to stigma and diagnostic overshadowing;
-- support-person roles and consent;
-- limits of online information and self-advocacy.
+- How to prepare the most important one or two goals before an appointment.
+- How a short medical summary can help when memory, speech, fatigue, or time is limited.
+- Why confirmed diagnoses, a clinician’s opinion, and a personal theory should be labelled separately.
+- How to describe what happens, how long it lasts, how often it occurs, what has changed, and how it affects daily life.
+- How to ask for explanations, written instructions, and a clear follow-up plan.
+- How to record who is responsible for each next step.
+- What to do when a medical record contains an important factual error.
+- How to request another opinion when a diagnosis or plan remains unclear.
+- How a support person can take notes or help with memory without speaking over the person.
+- Why online information can help prepare questions but cannot replace individualized assessment.
+
+### For health professionals and readers wanting more detail
+
+- Structured problem representation separating confirmed diagnoses, functional phenotypes, comorbidities, unresolved differentials, medication effects, and patient hypotheses.
+- Communication of onset, temporal pattern, semiology, functional impact, contextual variation, and clinically meaningful change.
+- Shared decision-making, teach-back, written after-visit information, communication accommodations, and supported decision-making.
+- Documentation standards for positive diagnostic evidence, uncertainty, safety plans, and agreed responsibility.
+- Correcting records while preserving an auditable history and distinguishing disagreement from factual error.
+- Second opinions, referral quality, transfer of care, and avoiding adversarial framing.
+- Diagnostic overshadowing, stigma, trauma-informed communication, and power imbalance in contested or complex illness.
+- Benefits and limitations of patient-generated data, internet research, recorded events, and supporter observations.
 
 ### Practical work
 
@@ -668,17 +876,28 @@ The reader can present complex information clearly and leave appointments with d
 
 Address meaningful participation across a wide range of ability without making employment the sole measure of recovery.
 
-### Main subjects
+### Essential knowledge
 
-- return-to-work or education planning where appropriate;
-- accommodations and variable capacity;
-- disability applications and functional evidence;
-- transportation and mobility barriers;
-- financial and administrative burden;
-- volunteering, hobbies, advocacy, and community roles;
-- severe or long-term disability;
-- balancing present limitations with future possibilities;
-- dignity and contribution outside paid work.
+- Why returning to work or school may be a goal for some people but may be unsafe or impossible for others.
+- How shorter hours, changed duties, rest breaks, remote access, reduced sensory load, or other accommodations may help.
+- Why variable symptoms can make fixed schedules and attendance rules especially difficult.
+- How disability forms need to describe what the person can and cannot do, not only name the diagnosis.
+- How transportation, mobility, money, paperwork, and inaccessible buildings can limit participation.
+- Why volunteering, hobbies, relationships, learning, caregiving, creativity, and advocacy are meaningful forms of participation.
+- Why inability to work does not mean inability to contribute or a lack of effort.
+- How to choose goals that respect present disability while leaving room for future change.
+- Why severe or long-term FND deserves support even when recovery-focused services are unavailable.
+
+### For health professionals and readers wanting more detail
+
+- Functional capacity, job demands, educational participation, fluctuating disability, and task-specific restriction.
+- Graduated return-to-work or education, accommodations, vocational rehabilitation, and relapse planning where appropriate.
+- Risks of premature return, rigid progression, prolonged unnecessary exclusion, and making employment a treatment test.
+- Documentation of function, reliability, endurance, cognitive or sensory load, safety, recovery time, and support needs.
+- Disability-benefit, insurance, transportation, and accessibility systems as social determinants of health and participation.
+- Severe and persistent FND, rehabilitation access, maintenance care, and palliative approaches to symptom burden without implying terminal illness.
+- Participation outcomes beyond paid employment and the ethical importance of dignity and social inclusion.
+- Jurisdiction-specific legal and benefits information requiring separate, current, locally reviewed resources.
 
 ### Practical work
 
@@ -703,17 +922,29 @@ The reader can define participation and contribution according to personal value
 
 Prepare readers to respond to fluctuation without assuming either disaster or “just FND.”
 
-### Main subjects
+### Essential knowledge
 
-- common patterns of fluctuation;
-- temporary setback versus sustained change;
-- possible accumulating physical, cognitive, emotional, and environmental pressures;
-- returning to previously useful strategies;
-- temporarily adjusting activity or rehabilitation;
-- injury and medical reassessment;
-- updating the episode and safety plan;
-- emotional effects of relapse;
-- avoiding catastrophic conclusions after one difficult period.
+- Why FND symptoms may improve, worsen, disappear, return, or change over time.
+- Why one bad day does not always mean a lasting relapse.
+- How several smaller pressures—poor sleep, illness, pain, activity, stress, or sensory overload—may add together.
+- How to return to strategies that helped before rather than trying everything at once.
+- When activity or rehabilitation may need a temporary adjustment.
+- Why an injury, a new symptom, or a clear change from the usual pattern may need medical reassessment.
+- How a written setback plan can reduce panic and difficult decisions during worsening.
+- Why relapse can bring grief, fear, anger, or loss of confidence.
+- How to review what happened after the person is more stable without blaming them.
+- Why a setback is information to respond to, not proof of failure.
+
+### For health professionals and readers wanting more detail
+
+- Fluctuation, remission, recurrence, relapse, persistent symptoms, and phenotype change.
+- Distinguishing expected variability from altered semiology, new neurological disease, medical comorbidity, medication effect, injury, or deconditioning.
+- Accumulated physical, cognitive, emotional, environmental, interpersonal, and healthcare load.
+- Relapse-prevention models, early-warning plans, graded re-entry, and reactivation of previously effective strategies.
+- Temporary rehabilitation modification without abandoning goals or enforcing progression during instability.
+- Reassessment thresholds, safety-netting, and avoiding diagnostic overshadowing.
+- Psychological effects of relapse and loss of self-efficacy without interpreting worsening as primarily psychological.
+- Using setbacks to update formulation and plans while avoiding unsupported causal certainty.
 
 ### Practical work
 
@@ -734,23 +965,29 @@ The reader has a plan that supports calm adaptation while preserving medical vig
 
 Combine the course’s practical work into one accessible personal reference.
 
-### Handbook sections
+### Essential knowledge
 
-- how the diagnosis was established;
-- confirmed medical conditions and current uncertainties;
-- primary symptoms and established patterns;
-- warning signs and common triggers;
-- helpful and unhelpful responses;
-- communication, sensory, cognitive, and mobility needs;
-- functional-seizure or episode plan;
-- emergency criteria;
-- medication and treatment record;
-- care-team roles and contact information;
-- current rehabilitation goals;
-- supporter instructions and consent boundaries;
-- appointment preparation pages;
-- setback and relapse plan;
-- review dates and questions for future care.
+- What a Personal FND Handbook is and how it can reduce the need to remember everything during symptoms or appointments.
+- A short explanation of the diagnosis and how it was established.
+- Confirmed medical conditions, unresolved questions, and current medications.
+- Main symptoms, usual patterns, warning signs, and possible triggers.
+- What tends to help, what tends to make things harder, and what supporters should do.
+- Communication, sensory, thinking, memory, mobility, and accessibility needs.
+- Episode instructions and the person’s emergency criteria.
+- Care-team roles, current goals, appointment questions, and follow-up responsibilities.
+- A setback plan and the dates when information was last reviewed.
+- Why the handbook should be short enough to use, while detailed records can be kept separately.
+
+### For health professionals and readers wanting more detail
+
+- A structured portable record separating confirmed diagnosis, positive evidence, comorbidity, uncertainty, and individualized formulation.
+- Concise description of usual semiology, baseline function, communication access, mobility, sensory needs, and supporter roles.
+- Medication reconciliation, treatment history, adverse responses, current goals, and discipline-specific responsibilities.
+- Individualized episode and emergency plans with observable escalation criteria and safety-netting.
+- Consent, privacy, decision-making authority, supporter boundaries, and information-sharing preferences.
+- Layered design: emergency summary, appointment summary, personal action plans, and detailed background records.
+- Version control, review dates, clinician input, accessibility, portability, and secure storage.
+- Avoiding language that encourages emergency clinicians to dismiss changed presentations without assessment.
 
 ### Practical work
 
@@ -770,18 +1007,29 @@ The reader has a concise reference that reduces dependence on memory during symp
 
 Evaluate the course by knowledge, safety, participation, confidence, and support—not only symptom counts.
 
-### Main subjects
+### Essential knowledge
 
-- knowledge and ability to explain the condition;
-- confidence responding to symptoms and change;
-- safety planning;
-- independence, accessibility, and participation;
-- communication with clinicians;
-- use of practical strategies;
-- symptom frequency, severity, or recovery where meaningful;
-- support-person confidence, burden, and boundaries;
-- what did not help or caused difficulty;
-- goals and questions for the next three months.
+- Why progress can mean more than having fewer symptoms.
+- How to review understanding of FND and confidence explaining it to others.
+- Whether the person and supporters feel safer and know what to do during familiar episodes or meaningful changes.
+- Whether daily activities, independence, accessibility, relationships, or participation have improved.
+- Whether appointments and communication with clinicians have become more useful.
+- Which practical strategies helped, did nothing, or made things worse.
+- When symptom frequency, severity, duration, injury, or recovery time is useful to measure.
+- How the supporter’s confidence, workload, health, and boundaries have changed.
+- Why results should be compared with the person’s own starting point and goals.
+- How to choose a small number of next goals and update the Personal FND Handbook.
+
+### For health professionals and readers wanting more detail
+
+- Patient-defined goals and multidimensional outcomes spanning symptoms, function, participation, safety, quality of life, and healthcare use.
+- Goal Attainment Scaling, patient-reported outcome measures, performance measures, episode counts, and individualized indicators.
+- Minimal clinically important difference, measurement burden, response shift, floor and ceiling effects, and fluctuating baselines.
+- Distinguishing treatment efficacy, treatment engagement, natural fluctuation, regression to the mean, and changes in comorbidity.
+- Support-person outcomes involving confidence, burden, health, autonomy, and relationship quality.
+- Adverse effects, non-response, barriers, treatment mismatch, and reasons for discontinuation.
+- Shared review, revision of formulation, updated safety-netting, and planning the next period of care.
+- Avoiding symptom elimination, employment, or clinician-rated appearance as the sole definition of recovery.
 
 ### Practical work
 
