@@ -1,31 +1,40 @@
 # Project Status
 
-**Current stage: foundation and course planning.**
+**Current stage: course foundation and authoring preparation.**
 
-The project is establishing its course architecture, evidence standards, accessibility goals, standard page structure, practical self-management approach, and support-person framework before full lesson development begins.
+The course architecture, evidence standards, accessibility goals, standard page structure, practical self-management approach, and support-person framework are established. The repository now contains a linked syllabus page for every module and a complete course authoring template for all 23 modules.
+
+## Completed foundation work
+
+- Established the evidence-first project voice and human-authorship approach.
+- Separated project policies and standards from the main README.
+- Created the six-part, 23-module syllabus.
+- Separated every syllabus module into its own linked page.
+- Created the full `course/` directory tree.
+- Populated every course page with the same 16-part structure and approximately 15 paragraphs of detailed authoring notes.
+- Recorded course-organization decisions concerning broad modules, focused child pages, reusable resources, supporter material, and clinician detail.
 
 ## Current priorities
 
-1. Finalize the documentation architecture and detailed syllabus.
-2. Establish a repeatable research-and-authoring workflow.
-3. Prepare detailed research notes for Module 1.
-4. Have the human author write the first educational page in lived-experience-informed language.
-5. Review the page for evidence accuracy, source traceability, safety, accessibility, and consistency.
+1. Review and decide the open [course-organization questions](course-organization-decisions.md).
+2. Prepare a detailed research package for Module 1.
+3. Have the human author write Module 1 from the authoring notes and research package.
+4. Review the draft for evidence accuracy, source traceability, safety, accessibility, plain language, and consistency.
+5. Use the completed Module 1 workflow as the repeatable process for later pages.
 
-## First planned lessons
+## First planned authored lessons
 
-1. What FND Is
-2. How FND Is Diagnosed
-3. Causes, Mechanisms, and Honest Uncertainty
+1. What Is Functional Neurological Disorder?
+2. How Is FND Diagnosed?
+3. What May Cause or Affect FND?
 
 These modules will establish terminology and evidence practices used throughout the project.
 
-## Status labels for future pages
+## Status labels for course pages
 
-- **Planned** — listed in the syllabus but not yet researched.
+- **Authoring template** — headings and detailed writing notes exist, but the educational prose has not been human-authored.
 - **Research notes in preparation** — source collection and critical review are underway.
 - **Human draft in progress** — the author is writing from the research notes.
-- **Under review** — evidence, safety, accessibility, and citations are being checked.
+- **Under review** — evidence, safety, accessibility, plain language, and citations are being checked.
 - **Published** — available to readers with a visible last-reviewed date.
 - **Update needed** — new evidence or another issue requires review.
-
