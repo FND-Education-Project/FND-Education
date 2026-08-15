@@ -1,0 +1,41 @@
+# Module 8 — Sensory, Visual, Balance, and Dizziness Symptoms
+
+This is the authoring template for the short module overview. Keep the completed overview brief: introduce the subject, explain why the focused pages are separated, and help readers choose where to go next.
+
+## For the Person With FND
+
+**What other names and search terms should readers recognize?** Use and explain the terms readers are likely to encounter: functional sensory symptoms; numbness; altered sensation; functional visual symptoms; functional vision loss; dizziness; balance; PPPD; sensory overload; photophobia; phonophobia. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.
+
+**What should a reader understand in about one minute?** Write a short stand-alone summary for a tired or cognitively overloaded reader. The central purpose is: Organize several frequently overlapping symptom areas and clarify when adaptations, rehabilitation, or further assessment may be appropriate. The reader should finish the summary understanding this outcome: The reader can separate immediate accessibility needs, possible rehabilitation, and reasons for specialist assessment. Do not attempt to teach every detail on the overview; explain the module’s purpose and the relationship among its focused pages.
+
+**What does research report at overview level?** Summarize only the shared findings needed to understand why this subject belongs in FND education. Use the detailed research prompts from the focused pages rather than duplicating their full explanations here.
+
+**What do researchers not yet know?** Identify limited research on severe sensory disability, photophobia, phonophobia, mixed visual-vestibular symptoms, and the best balance between accommodation and exposure. Explain that mechanisms involving prediction, attention, or sensory integration remain proposed rather than individually proven. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.”
+
+**What can this subject feel or look like in ordinary life?** Describe numbness, unusual touch, burning or tingling, visual loss or distortion, double vision, dizziness, rocking, imbalance, visual-motion sensitivity, light or sound sensitivity, and overload. Stress that these experiences can be severe even when standard tests do not explain them fully. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist.
+
+**What can the person safely do before reading further?** Turn the module’s practical work into a small, safe activity: Make a sensory-load and adaptation map. Identify one reversible environmental change and one question for a clinician. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment.
+
+**What questions might the person ask a clinician?** Turn these into a short appointment-ready list written in the first person: Suggest: Which findings support a functional symptom? Have eye, vestibular, migraine, medication, and neurological causes been considered? Which accommodations are appropriate now? If exposure is proposed, how will it be made gradual, consensual, and reversible? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+
+**What should the reader open next?** Link and briefly distinguish these focused pages: [Numbness, Altered Sensation, and Hypersensitivity](01-numbness-altered-sensation-and-hypersensitivity.md); [Visual Symptoms, Photophobia, and Sensory Overload](02-visual-symptoms-photophobia-and-sensory-overload.md); [Dizziness, Balance, and Vestibular Overlap](03-dizziness-balance-and-vestibular-overlap.md)
+
+## For Family, Friends, and Other Supporters
+
+**What should a support person understand and do?** Develop the supporter guidance from these points: Reducing avoidable strain without abruptly exposing the person to triggers. Helping build gradual plans that respect severity and consent. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Keep care, consent, autonomy, and actions that may unintentionally make symptoms harder visible in the overview.
+
+## For Clinicians and the Care Team
+
+**What else can look similar or coexist?** Cover eye disease, migraine and vestibular migraine, inner-ear disorders, neuropathy, spinal disease, stroke, medication effects, blood-pressure problems, and persistent postural-perceptual dizziness. Explain that functional and non-functional contributors may overlap. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness.
+
+**How may clinicians assess this subject?** Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Positive examination features and the limits of inconsistency or non-anatomical distribution as isolated evidence. Differential diagnosis involving ophthalmic, vestibular, migraine, neuropathic, spinal, cerebrovascular, medication-related, and systemic causes. Environmental modification, vestibular or visual rehabilitation, sensory desensitization, and graded exposure with careful selection and monitoring. Explain both the value and limitations of each step.
+
+**What treatment or management has been studied or recommended?** Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Environmental modification, vestibular or visual rehabilitation, sensory desensitization, and graded exposure with careful selection and monitoring. Accessibility versus avoidance, including the danger of using rehabilitation theory to deny needed accommodations. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added.
+
+**When should the person be medically reassessed?** Flag sudden vision loss, a painful red eye, new one-sided sensory loss, fainting, serious falls, new severe headache, new hearing change, or a substantial departure from the person’s usual symptoms. The final article should defer to appropriate eye, vestibular, neurological, or medical assessment. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm.
+
+## Research and Sources
+
+**Which evidence and source notes will the completed overview need?** Use a small number of broad sources that support the module’s shared introduction. Record which focused page owns each detailed claim so the overview does not become a second full article. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes.
+
+**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material.
