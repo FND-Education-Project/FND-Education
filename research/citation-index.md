@@ -4,9 +4,13 @@ This table gives every source a stable project ID. Course pages repeat a compact
 
 | Citation ID | Short citation | Source type | Main subjects | Currently used on |
 |---|---|---|---|---|
-| [FND-CIT-0001](#fnd-cit-0001) | Bennett et al., 2021 | Peer-reviewed practical review | overview, positive diagnosis, involuntary symptoms, comorbidity | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md) |
-| [FND-CIT-0002](#fnd-cit-0002) | Espay et al., 2018 | Peer-reviewed clinical review | diagnostic criteria, positive diagnosis, psychological-stressor criterion | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md) |
-| [FND-CIT-0003](#fnd-cit-0003) | Hallett et al., 2022 | Peer-reviewed review | genuine symptoms, variability, stressors, multidisciplinary treatment | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md) |
+| [FND-CIT-0001](#fnd-cit-0001) | Bennett et al., 2021 | Peer-reviewed practical review | overview, positive diagnosis, involuntary symptoms, comorbidity | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
+| [FND-CIT-0002](#fnd-cit-0002) | Espay et al., 2018 | Peer-reviewed clinical review | diagnostic criteria, positive diagnosis, psychological-stressor criterion | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
+| [FND-CIT-0003](#fnd-cit-0003) | Hallett et al., 2022 | Peer-reviewed review | genuine symptoms, variability, stressors, multidisciplinary treatment | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
+| [FND-CIT-0004](#fnd-cit-0004) | Bègue et al., 2019 | Systematic neuroimaging review | structural findings, software/hardware analogy, mechanism uncertainty | [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
+| [FND-CIT-0005](#fnd-cit-0005) | Pick et al., 2019 | Peer-reviewed review | psychosocial adversity, emotional processing, biopsychosocial model | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
+| [FND-CIT-0006](#fnd-cit-0006) | Drane et al., 2021 | Peer-reviewed perspective | neural circuits, agency, attention, interoception, predictive processing | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
+| [FND-CIT-0007](#fnd-cit-0007) | Gelauff et al., 2014 | Systematic review | functional motor outcomes, prognosis, evidence limitations | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
 
 ## FND-CIT-0001
 
@@ -25,6 +29,30 @@ Use this source for the modern inclusionary diagnostic approach, removal of psyc
 Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1)
 
 Use this source for a recent broad description of FND presentations, genuinely experienced and variable symptoms, the observation that psychological stressors may be absent, proposed shared mechanisms, and tailored multidisciplinary treatment. Label its mechanism material as a review of developing models rather than a diagnostic biomarker.
+
+## FND-CIT-0004
+
+Bègue I, Adams C, Stone J, Perez DL. Structural alterations in functional neurological disorder and related conditions: a software and hardware problem? *NeuroImage: Clinical*. 2019;22:101798. [https://doi.org/10.1016/j.nicl.2019.101798](https://doi.org/10.1016/j.nicl.2019.101798)
+
+Use this source to qualify the common software/hardware analogy and to discuss reported group-level structural neuroimaging findings. Do not use those findings as an individual diagnostic test or as proof that observed differences are causes rather than vulnerabilities, consequences, or adaptations.
+
+## FND-CIT-0005
+
+Pick S, Goldstein LH, Perez DL, Nicholson TR. Emotional processing in functional neurological disorder: a review, biopsychosocial model and research agenda. *Journal of Neurology, Neurosurgery & Psychiatry*. 2019;90(6):704–711. [https://doi.org/10.1136/jnnp-2018-319201](https://doi.org/10.1136/jnnp-2018-319201)
+
+Use this source for a psychosocial and emotional-processing emphasis within an integrative biopsychosocial account. It supports psychosocial adversity as a possible risk factor in some people, not as a diagnostic requirement or universal cause.
+
+## FND-CIT-0006
+
+Drane DL, Fani N, Hallett M, Khalsa SS, Perez DL, Roberts NA. A framework for understanding the pathophysiology of functional neurological disorder. *CNS Spectrums*. 2021;26(6):555–561. [https://doi.org/10.1017/S1092852920001789](https://doi.org/10.1017/S1092852920001789)
+
+Use this source for a proposed circuit-and-construct framework involving emotion processing, agency, attention, interoception, and predictive processing. Label it as a developing pathophysiology framework rather than a settled explanation for every person.
+
+## FND-CIT-0007
+
+Gelauff J, Stone J, Edwards M, Carson A. The prognosis of functional (psychogenic) motor symptoms: a systematic review. *Journal of Neurology, Neurosurgery & Psychiatry*. 2014;85(2):220–226. [https://doi.org/10.1136/jnnp-2013-305321](https://doi.org/10.1136/jnnp-2013-305321)
+
+Use this source for variability and limitations in reported functional motor-symptom outcomes. Do not generalize its motor samples to every FND subtype, convert group findings into an individual prediction, or treat symptom remission as the only meaningful outcome.
 
 # How Course Pages Should Use the Index
 
