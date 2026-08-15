@@ -1,6 +1,6 @@
 # Planned Repository Structure
 
-The repository will keep human-authored educational material separate from project policies, research notes, media, and future website code.
+The repository keeps human-authored educational material separate from syllabus planning, project policies, research notes, reusable resources, media, and future website code.
 
 ```text
 FND-Education-/
@@ -10,21 +10,18 @@ FND-Education-/
 │       ├── detailed-course-syllabus.md
 │       ├── syllabus/
 │       │   ├── module-01-what-fnd-is.md
-│       │   ├── module-02-how-fnd-is-diagnosed.md
 │       │   ├── ...
 │       │   └── module-23-reviewing-progress.md
-│       ├── our-role.md
-│       ├── core-principles.md
-│       ├── planned-resource-library.md
-│       ├── evidence-standard.md
-│       ├── search-and-usability-standards.md
-│       ├── accessibility-standards.md
-│       ├── planned-repository-structure.md
-│       ├── research-and-citation-policy.md
-│       ├── safety-and-editorial-rules.md
-│       └── project-status.md
+│       ├── course-organization-decisions.md
+│       └── other project standards and policies
 ├── course/
+│   ├── README.md
 │   ├── part-1-understanding-fnd/
+│   │   ├── module-01-what-fnd-is/
+│   │   │   ├── README.md
+│   │   │   ├── 01-what-functional-means-and-how-fnd-can-appear.md
+│   │   │   └── 02-biopsychosocial-model-misconceptions-and-recovery.md
+│   │   └── modules 02–04/
 │   ├── part-2-safety-and-symptoms/
 │   ├── part-3-non-motor-symptoms/
 │   ├── part-4-treatment-and-rehabilitation/
@@ -41,6 +38,6 @@ FND-Education-/
 └── website/
 ```
 
-The **syllabus** folder contains the planning outline for each module. The future **course** folder will contain the completed, human-authored educational pages. The future **guides** folder will provide user-friendly routes for finding information by symptom or practical need.
+The **syllabus** folder contains the planning outline for each module. The **course** folder contains 23 module folders and 76 authoring templates. Each module folder begins with a short `README.md` overview and contains one to four focused pages. The future **guides** folder will provide user-friendly routes for finding canonical course pages by symptom or practical need.
 
-The structure may change as the project develops. Priorities are predictable navigation, durable links, clear separation of material, and avoiding information becoming trapped in one very large document.
+The structure may change as the project develops. Priorities are predictable navigation, durable links, one canonical home for each full explanation, and avoiding information becoming trapped in very large documents.
