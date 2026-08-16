@@ -1,6 +1,10 @@
 # What “Functional” Means and How FND Can Appear
 
-This is a focused authoring template within Module 1. The human author should use the prompts below to explain terminology, symptom range, positive diagnosis, and the limits of a simple functional-versus-structural distinction. Source quotations are research notes, not finished lesson prose.
+>*"Functional disorders are conditions whose origin arises primarily from a disorder of nervous system functioning rather than clearly identifiable pathophysiological disease... It causes considerable physical disability and distress..."* -Jon Stone, BMJ 2020;371:m3745
+
+>*"FND is currently defined as a 'clinical syndrome with genuinely experienced neurological symptoms which are distressing or impairing, and show dysfunction of the nervous system with variability in performance within a task or between task'"* -Functional neurological disorder: Practical management. Barbara A. Dworetzky, Gaston Baslet
+
+The word 'functional' tells us that the way the nervous system transmits information throughout the brain and body is no longer working correctly. This affects actions like movement, sensation, attention and awareness. 
 
 ## For the Person With FND
 
