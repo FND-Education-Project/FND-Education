@@ -6,6 +6,11 @@
 
 The word 'functional' tells us that the way the nervous system transmits information throughout the brain and body is no longer working correctly. This affects actions like movement, sensation, attention and awareness. 
 
+> - PNES (Psychogenic non-epileptic seizures), Pseudoseizure, Dissociative Attack
+> - Conversion disorder, (FND) Functional Neurologic Disorder, Functional Cognitive Disorder, Functional Neurological Disorders (FNDs)
+> - Functional Movement Disorder (FMD)
+
+
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Explain Functional Neurological Disorder (FND) first. Then briefly identify Functional Neurological Symptom Disorder (FNSD), functional neurological symptoms, functional symptoms, conversion disorder, and psychogenic as terms readers may meet in records or older sources. Mark which terms are current, historical, disputed, or potentially stigmatizing. Do not suggest that every author uses them in exactly the same way.
