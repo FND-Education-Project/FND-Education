@@ -95,7 +95,14 @@ Another useful thing to do is put into your own words what FND to explain to you
 ***
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Explain that “functional” does not mean imaginary, chosen, or unimportant. Give examples of useful communication: believe the person’s report, ask what help is wanted, use the person’s preferred terms, and avoid demanding proof or insisting on one cause. Separate emotional support from practical care and medical safety. Preserve autonomy; a supporter should not test symptoms, interpret examination signs, supervise recovery, or assume every new symptom is FND.
+Functional Neurological Disorder is a very disabling disease and it can vary in how many symptoms or how sensitive those symptoms are. This used to be considered a psychiatric diagnosis called 'conversion disorder,' however, that term and the idea that these symptoms are of a psychogenic (from the mind or emotions) or psychiatric cause is false. In fact, recent findings have shown that diagnosis of FND does not need a psychological precipitating factor. 
+
+Supporting the person you are showing care to often involves assuring the person that their symptoms are real and not faked. They did not cause their disease. It's also very important to understand that not every new symptom is FND. All new symptoms should be looked at by a doctor because many serious medical issues look like an FND symptom.
+
+> ## "
+> - “PMD [functional movement disorder] patients reported similar Physical Health QOL [quality of life] to PD [Parkinson’s disease] patients … but worse mental health QOL [quality of life].”
+> - “Patients with [functional weakness] are as disabled as patients with weakness of similar duration due to neurological disease.”
+> - “Compared to epilepsy, people with psychogenic non-epileptic seizures [now usually called functional seizures] have consistently reported worse HRQoL [health-related quality of life].”
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
