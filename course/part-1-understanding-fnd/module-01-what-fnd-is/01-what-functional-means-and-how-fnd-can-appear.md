@@ -14,8 +14,8 @@ The word 'functional' tells us that the way the nervous system transmits informa
 > ### Quick Fact
 > Functional Neurological Disorder (FND) and Functional Seizures (FS) are known by other names. (citations [2](#citation-2)[4](#citation-4)[9](#citation-9)) 
 > - *PNES (Psychogenic non-epileptic seizures), Pseudoseizure, Dissociative Attack*
-> - *Conversion Disorder, Functional Cognitive Disorder, Functional Neurological Disorders (FNDs)*
-> - *Functional Movement Disorder (FMD)*
+> - *Conversion Disorder, Functional Cognitive Disorder (a subtype), Functional Neurological Disorders (FNDs)*
+> - *Functional Movement Disorder (FMD) (a subtype)*
 > However, Conversion Disorder and PNES are going out of use. Also, the term 'pseudoseizures' is offensive to many sufferers.
 
 ## For the Person With FND
