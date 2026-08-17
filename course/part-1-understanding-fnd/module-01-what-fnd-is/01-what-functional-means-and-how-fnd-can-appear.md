@@ -99,7 +99,6 @@ Functional Neurological Disorder is a very disabling disease and it can vary in 
 
 Supporting the person you are showing care to often involves assuring the person that their symptoms are real and not faked. They did not cause their disease. It's also very important to understand that not every new symptom is FND. All new symptoms should be looked at by a doctor because many serious medical issues look like an FND symptom.
 
-> ## "
 > - “PMD [functional movement disorder] patients reported similar Physical Health QOL [quality of life] to PD [Parkinson’s disease] patients … but worse mental health QOL [quality of life].”
 > - “Patients with [functional weakness] are as disabled as patients with weakness of similar duration due to neurological disease.”
 > - “Compared to epilepsy, people with psychogenic non-epileptic seizures [now usually called functional seizures] have consistently reported worse HRQoL [health-related quality of life].”
@@ -113,15 +112,11 @@ Supporting the person you are showing care to often involves assuring the person
 
 ## For Clinicians and the Care Team
 
-**What else can look similar or coexist?** Ask the author to distinguish FND from structural neurological disease, ordinary anxiety symptoms, malingering, and factitious disorder without treating this page as a differential-diagnosis manual. State that epilepsy, migraine, multiple sclerosis, injury, medication effects, and other conditions may coexist. Emphasize diagnostic overshadowing and the need to reassess material change.
+Here are some resources:
+- **[FND Hope - Medical Professionals](https://fndhope.org/living-fnd/physicians)**
+- **[neurosymptoms.org — Symptoms](https://neurosymptoms.org/en/symptoms/)** — Created by neurologist Professor Jon Stone, with contributions from other health professionals. Many symptom pages explain the positive clinical signs that clinicians may use to support a diagnosis, how the symptom may differ from similar symptoms caused by other conditions, and treatment or self-management approaches that may help.
 
-**How may clinicians assess this subject?** Summarize history, neurological examination, positive signs, and targeted investigations in that order. Explain that internal inconsistency or preserved function can support diagnosis when demonstrated by a clinician, but variation alone is not enough. Direct detailed signs and diagnostic accuracy to Module 2. State explicitly that a biopsychosocial formulation may guide care after diagnosis but is not a diagnostic test.
-
-**What treatment or management has been studied or recommended?** Keep this brief because treatment belongs later in the course. Note that a clear explanation may support engagement, while symptom-specific rehabilitation, psychological care when relevant and acceptable, treatment of coexisting conditions, and accessibility support may be considered. Do not imply that understanding the label is itself a cure or that one intervention fits every presentation.
-
-**When should the person be medically reassessed?** Give a proportionate reminder that a previous FND diagnosis should not automatically explain a new, severe, injured, or substantially changed symptom. Link the finished page to the medical-safety module for detailed guidance. Avoid both automatic dismissal and an exhaustive emergency list here.
-
-**What do researchers not yet know?** Identify the uncertainty that belongs on this page: there is no single established mechanism for every FND symptom or person; the relationship between observed brain differences, vulnerability, illness effects, and recovery remains under study; and “functional” does not mean that the nervous system has no physical processes. Distinguish clinical consensus, group-level research findings, proposed mechanisms, and claims about an individual. Leave the full biopsychosocial discussion to the next article.
+This free online course is contributed to by those with lived experience in Functional Neurological Disorder [currently, the official term provided by the DSM-V-tr] with the intent of bringing as much of the current research together in one place. The content for medical practitioners is centered around ways of being helpful to your patient both in understanding what their disease is and what they can do to improve a specific symptom or to support them when a symptom is likely not going to improve. We invite you to visit this section in each page of this course while also reading the content for the patient where most of the discussion will take place. Following this section is where you'll find the research behind that content. If you disagree about how a paper was interpreted, we are always open to hearing from you.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
