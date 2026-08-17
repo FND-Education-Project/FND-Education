@@ -1,5 +1,10 @@
 # What “Functional” Means and How FND Can Appear
-
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 >*"Functional disorders are conditions whose origin arises primarily from a disorder of nervous system functioning rather than clearly identifiable pathophysiological disease... It causes considerable physical disability and distress..."* -Jon Stone, BMJ 2020;371:m3745
 
 >*"FND is currently defined as a 'clinical syndrome with genuinely experienced neurological symptoms which are distressing or impairing, and show dysfunction of the nervous system with variability in performance within a task or between task'"* -Functional neurological disorder: Practical management. Barbara A. Dworetzky, Gaston Baslet
@@ -13,7 +18,6 @@ The word 'functional' tells us that the way the nervous system transmits informa
 > - *Functional Movement Disorder (FMD)*
 > However, Conversion Disorder and PNES are going out of use. Also, the term 'pseudoseizures' is offensive to many sufferers.
 
-
 ## For the Person With FND
 
 If you have been recently diagnosed, you might be wondering if your symptoms are even FND or not. Likely, tests were done to determine you didn't have some other medical issue or a psychological issue. It's also very likely that you didn't undergo any tests to *prove* you do have Functional Neurological Disorder. The reason is that education about FND is limited and many doctors have not been taught what to do when they encounter someone who displays all these 'bizarre' symptoms. 
@@ -23,6 +27,8 @@ If you have been recently diagnosed, you might be wondering if your symptoms are
 There is now building evidence that FND changes the brain but not in easily measured ways. One research paper shows thinning and thickening in parts of the brain and another study in children with functional seizures shows changes in the way our brain chemicals interact with one another. The important thing to know is **Your symptoms ARE REAL** and they are not faked or imaginary.
 
 So what does [functional](../../../glossary/README.md#functional) actually mean? In short it describes how your nervous system is processing motor and sensory information. In FND there is a problem with how our brain and nervous system interact. Many familiar chronic health problems are considered by a number of neurologists to be a part of FND such as Fibromyalgia, Chronic Fatigue, and Irritable Bowel Syndrome. 
+
+***
 
 **How did I get Functional Neurological Disorder?**
 Researchers have found that FND is mainly prevalent in women and often starting after the age of fifteen. One [website](https://www.bmj.com/content/371/bmj.m3745/infographic) explains that the triggering event could be a physical injury, migraine, trauma, or even a fainting experience! 
@@ -53,23 +59,50 @@ Here's a list of *common* FND symptoms:
 - sound sensitivity
 - functional tics
 
-And these are problems that 
+And these are problems that are commonly experienced among sufferers but aren't necessarily part of FND (we'll talk about that later and why researchers differ in what they consider FND and what they consider "*comorbid*":
+- Not feeling like quite yourself, 'spaced out'
+- fatigue
+- pain
+- health anxiety
+- irritable bowel syndrome
+- headache [or migraine, though most term a long lasting migraine as 'chronic headache']
+- sleep problems
+- anxiety, depression, panic
+- sometimes chest pain! FND has been known to mimic both stroke and epilepsy.
 
-**What can this feel or look like in ordinary life?** Give several short examples across symptom types, such as a leg that will not move normally, shaking that changes, an episode with altered awareness, numbness, difficulty speaking, or thinking that becomes slow. Include fluctuation, mixed symptoms, different levels of disability, and the possibility that two people with FND may look very different. Avoid turning examples into a self-diagnostic checklist or implying that variability makes symptoms voluntary.
+***
 
-**What can the person safely try at home?** Ask the reader to draft a two-sentence explanation of their diagnosed symptoms using words they understand. A lower-demand option is to copy unfamiliar terms from a clinic letter into a question list. This is a communication exercise, not a diagnostic or treatment exercise. Tell the author to direct readers back to a clinician when the diagnosis, identified functional symptoms, or meaning of a medical term is unclear, and to seek reassessment for new, severe, injured, or substantially changed symptoms.
+For an introduction to what FND is, I only want to mention that FND is very episodic. Many experience bad days, weeks, and sometimes months followed by better days where their symptoms aren't active. One of the best things you can do now besides continue your education about this very debilitating disease is to learn how to communicate with your doctors and those acting as caregivers in your life if your symtpoms require that. 
 
-**What questions might the person ask a clinician?** Prepare a short first-person list such as: “Which of my symptoms have you identified as functional?”, “What positive signs support that diagnosis?”, “What did my tests rule in or rule out?”, “Could another condition also be present?”, and “What words should I use to explain this diagnosis?” Keep only questions that can improve understanding, safety, assessment, or care.
+If you want to see how your symptoms fit into FND one of my favourite resources is [NeuroSymptoms.org](https://neurosymptoms.org/en/symptoms/). The author is one of the lead researchers of FND and they have put together a symptom tracker as well as a fairly complete list of each of the symptoms and how they are diagnosed and even a little about what you can do now about them. There are some videos as well which will let you see how others experience these symptoms.
 
-**What should the reader open next?** Show every Module 1 page in its fixed reading order. The current page is plain text; the others are links.
+If you haven't already asked these of the diagnosing doctor, here's a few good questions you might ask
+-  “Which of my symptoms have you identified as functional?”
+-  “What positive signs support that diagnosis?”
+-  “What did my tests rule in or rule out?”
+-  “Could another condition also be present?”
 
+Another useful thing to do is put into your own words what FND to explain to your family and friends.
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 - [Module overview](README.md) — the shortest introduction and guide to the module.
 - **What “Functional” Means and How FND Can Appear — current page**
 - [The Biopsychosocial Model, Misconceptions, and Recovery](02-the-biopsychosocial-model-misconceptions-and-recovery.md) — a plain-language explanation of the model, its limits, common misconceptions, and meanings of recovery.
-
+***
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Explain that “functional” does not mean imaginary, chosen, or unimportant. Give examples of useful communication: believe the person’s report, ask what help is wanted, use the person’s preferred terms, and avoid demanding proof or insisting on one cause. Separate emotional support from practical care and medical safety. Preserve autonomy; a supporter should not test symptoms, interpret examination signs, supervise recovery, or assume every new symptom is FND.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -83,10 +116,16 @@ And these are problems that
 
 **What do researchers not yet know?** Identify the uncertainty that belongs on this page: there is no single established mechanism for every FND symptom or person; the relationship between observed brain differences, vulnerability, illness effects, and recovery remains under study; and “functional” does not mean that the nervous system has no physical processes. Distinguish clinical consensus, group-level research findings, proposed mechanisms, and claims about an individual. Leave the full biopsychosocial discussion to the next article.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ⬅️ **Previous page:** [Module overview](README.md)
 
 ➡️ **Next article:** [The Biopsychosocial Model, Misconceptions, and Recovery](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
-
+***
 ## Research and Sources
 
 **Which evidence and source notes will the completed page need?** Use the selective source groups below. Together they support positive diagnosis, involuntary and heterogeneous symptoms, coexistence with neurological disease, and a more careful account of the functional/structural distinction. The structural-imaging review is included to qualify a simple “software not hardware” explanation, not to provide an individual diagnostic biomarker.
