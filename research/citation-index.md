@@ -4,13 +4,16 @@ This table gives every source a stable project ID. Course pages repeat a compact
 
 | Citation ID | Short citation | Source type | Main subjects | Currently used on |
 |---|---|---|---|---|
-| [FND-CIT-0001](#fnd-cit-0001) | Bennett et al., 2021 | Peer-reviewed practical review | overview, positive diagnosis, involuntary symptoms, comorbidity | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
-| [FND-CIT-0002](#fnd-cit-0002) | Espay et al., 2018 | Peer-reviewed clinical review | diagnostic criteria, positive diagnosis, psychological-stressor criterion | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
-| [FND-CIT-0003](#fnd-cit-0003) | Hallett et al., 2022 | Peer-reviewed review | genuine symptoms, variability, stressors, multidisciplinary treatment | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
+| [FND-CIT-0001](#fnd-cit-0001) | Bennett et al., 2021 | Peer-reviewed practical review | overview, positive diagnosis, involuntary symptoms, comorbidity | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [FND terminology glossary](../glossary/README.md) |
+| [FND-CIT-0002](#fnd-cit-0002) | Espay et al., 2018 | Peer-reviewed clinical review | diagnostic criteria, positive diagnosis, psychological-stressor criterion | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [FND terminology glossary](../glossary/README.md) |
+| [FND-CIT-0003](#fnd-cit-0003) | Hallett et al., 2022 | Peer-reviewed review | genuine symptoms, variability, stressors, multidisciplinary treatment | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [FND terminology glossary](../glossary/README.md) |
 | [FND-CIT-0004](#fnd-cit-0004) | Bègue et al., 2019 | Systematic neuroimaging review | structural findings, software/hardware analogy, mechanism uncertainty | [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
 | [FND-CIT-0005](#fnd-cit-0005) | Pick et al., 2019 | Peer-reviewed review | psychosocial adversity, emotional processing, biopsychosocial model | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
-| [FND-CIT-0006](#fnd-cit-0006) | Drane et al., 2021 | Peer-reviewed perspective | neural circuits, agency, attention, interoception, predictive processing | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
+| [FND-CIT-0006](#fnd-cit-0006) | Drane et al., 2021 | Peer-reviewed perspective | neural circuits, agency, attention, interoception, predictive processing | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [FND terminology glossary](../glossary/README.md) |
 | [FND-CIT-0007](#fnd-cit-0007) | Gelauff et al., 2014 | Systematic review | functional motor outcomes, prognosis, evidence limitations | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
+| [FND-CIT-0008](#fnd-cit-0008) | Asadi-Pooya et al., 2020 | Systematic terminology review | functional seizures, PNES, terminology preferences | [FND terminology glossary](../glossary/README.md) |
+| [FND-CIT-0009](#fnd-cit-0009) | Hingray et al., 2025 | ILAE task-force terminology proposal | functional/dissociative seizures, FDS, seizure terminology | [FND terminology glossary](../glossary/README.md) |
+| [FND-CIT-0010](#fnd-cit-0010) | Tolchin et al., 2026 | AAN practice guideline | functional seizures, management, terminology, diagnostic communication | [FND terminology glossary](../glossary/README.md) |
 
 ## FND-CIT-0001
 
@@ -53,6 +56,24 @@ Use this source for a proposed circuit-and-construct framework involving emotion
 Gelauff J, Stone J, Edwards M, Carson A. The prognosis of functional (psychogenic) motor symptoms: a systematic review. *Journal of Neurology, Neurosurgery & Psychiatry*. 2014;85(2):220–226. [https://doi.org/10.1136/jnnp-2013-305321](https://doi.org/10.1136/jnnp-2013-305321)
 
 Use this source for variability and limitations in reported functional motor-symptom outcomes. Do not generalize its motor samples to every FND subtype, convert group findings into an individual prediction, or treat symptom remission as the only meaningful outcome.
+
+## FND-CIT-0008
+
+Asadi-Pooya AA, Brigo F, Mildon B, Nicholson TR. Terminology for psychogenic nonepileptic seizures: Making the case for “functional seizures”. *Epilepsy & Behavior*. 2020;104(Pt A):106895. [https://doi.org/10.1016/j.yebeh.2019.106895](https://doi.org/10.1016/j.yebeh.2019.106895)
+
+Use this source for the terminology debate around PNES and the case for “functional seizures” as a neutral, patient-acceptable label. The review found the underlying terminology literature to be limited and generally low quality, so do not present its preferred term as a settled universal consensus.
+
+## FND-CIT-0009
+
+Hingray C, Popkirov S, Kozlowska K, et al.; ILAE Functional/Dissociative Seizures Task Force. Functional/dissociative seizures: Proposal for a new diagnostic label and definition by the ILAE task force. *Epilepsia*. 2025;66(11):4162–4182. [https://doi.org/10.1111/epi.18574](https://doi.org/10.1111/epi.18574)
+
+Use this source for the International League Against Epilepsy task force’s 2025 proposal to use “functional/dissociative seizures” (FDS), including its explanation of why “functional”, “dissociative”, and the slash terminology may each be useful. Treat FDS as a task-force proposal intended to improve international consistency, while acknowledging that other current terms remain in use.
+
+## FND-CIT-0010
+
+Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466)
+
+Use this source for current American Academy of Neurology evidence-based guidance on functional seizures, including diagnostic communication, evaluation for coexisting conditions, and management. The guideline uses “functional seizures” while noting alternative and historical labels; do not use it to imply that a single treatment or causal model applies to every person.
 
 # How Course Pages Should Use the Index
 
