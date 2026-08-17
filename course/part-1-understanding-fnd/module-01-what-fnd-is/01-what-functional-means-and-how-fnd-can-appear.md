@@ -6,16 +6,25 @@
 
 The word 'functional' tells us that the way the nervous system transmits information throughout the brain and body is no longer working correctly. This affects actions like movement, sensation, attention and awareness. 
 
-> - PNES (Psychogenic non-epileptic seizures), Pseudoseizure, Dissociative Attack
-> - Conversion disorder, (FND) Functional Neurologic Disorder, Functional Cognitive Disorder, Functional Neurological Disorders (FNDs)
-> - Functional Movement Disorder (FMD)
+> ### Quick Fact
+> Functional Neurological Disorder (FND) and Functional Seizures (FS) are known by other names. 
+> - *PNES (Psychogenic non-epileptic seizures), Pseudoseizure, Dissociative Attack*
+> - *Conversion Disorder, Functional Cognitive Disorder, Functional Neurological Disorders (FNDs)*
+> - *Functional Movement Disorder (FMD)*
+> However, Conversion Disorder and PNES are going out of use. Also, the term 'pseudoseizures' is offensive to many sufferers.
 
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Explain Functional Neurological Disorder (FND) first. Then briefly identify Functional Neurological Symptom Disorder (FNSD), functional neurological symptoms, functional symptoms, conversion disorder, and psychogenic as terms readers may meet in records or older sources. Mark which terms are current, historical, disputed, or potentially stigmatizing. Do not suggest that every author uses them in exactly the same way.
+If you have been recently diagnosed, you might be wondering if your symptoms are even FND or not. Likely, tests were done to determine you didn't have some other medical issue or a psychological issue. It's also very likely that you didn't undergo any tests to *prove* you do have Functional Neurological Disorder. The reason is that education about FND is limited and many doctors have not been taught what to do when they encounter someone who displays all these 'bizarre' symptoms. 
 
-**What should a reader understand in about one minute?** Draft a plain-language summary suitable for readers from about age 15 through older adulthood. Explain that FND can affect how the nervous system functions, that symptoms are real and involuntary, and that clinicians should identify positive features of FND rather than diagnose it only because a scan or test is normal. State that FND can exist with another condition. Keep the summary short enough to read when tired or cognitively overloaded.
+> The biggest question everyone has is, **"Is FND a psychological disorder??"** Emphatically, *No!* 
+
+There is now building evidence that FND changes the brain but not in easily measured ways. One research paper shows thinning and thickening in parts of the brain and another study in children with functional seizures shows changes in the way our brain chemicals interact with one another. The important thing to know is **Your symptoms ARE REAL** and they are not faked or imaginary.
+
+So what does [functional](../../../glossary/README.md#functional) actually mean? In short it describes how your nervous system is processing motor and sensory information. In FND there is a problem with how our brain and nervous system interact. Many familiar chronic health problems are considered by a number of neurologists to be a part of FND such as Fibromyalgia, Chronic Fatigue, and Irritable Bowel Syndrome. 
+
+Researchers have found that FND is mainly prevalent in women and often starting after the age of fifteen. 
 
 **What does research report?** Explain what clinicians mean by “functional” without presenting it as the opposite of real, physical, or neurological. Cover the principal symptom families—movement, weakness, seizures or episodes, sensation, vision, speech, cognition, and mixed presentations—and make clear that the list is illustrative rather than diagnostic. Explain positive diagnosis, targeted testing, symptom variability, and coexistence with other neurological or medical conditions. Introduce the “software and hardware” analogy only if useful, then immediately explain its limits: research has also reported structural group differences, and neither ordinary scans nor research imaging provide a stand-alone FND test for an individual.
 
