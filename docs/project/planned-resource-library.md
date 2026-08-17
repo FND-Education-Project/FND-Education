@@ -15,7 +15,7 @@ Planned downloadable or printable resources include:
 - cognitive-support toolkit;
 - support-person agreement;
 - setback and relapse plan;
-- FND terminology glossary;
+- [FND terminology glossary](../../glossary/README.md);
 - evidence-rated treatment directory;
 - misinformation and exaggerated-claim checklist.
 
