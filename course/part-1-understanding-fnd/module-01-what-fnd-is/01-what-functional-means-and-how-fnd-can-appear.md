@@ -24,11 +24,36 @@ There is now building evidence that FND changes the brain but not in easily meas
 
 So what does [functional](../../../glossary/README.md#functional) actually mean? In short it describes how your nervous system is processing motor and sensory information. In FND there is a problem with how our brain and nervous system interact. Many familiar chronic health problems are considered by a number of neurologists to be a part of FND such as Fibromyalgia, Chronic Fatigue, and Irritable Bowel Syndrome. 
 
-Researchers have found that FND is mainly prevalent in women and often starting after the age of fifteen. 
+**How did I get Functional Neurological Disorder?**
+Researchers have found that FND is mainly prevalent in women and often starting after the age of fifteen. One [website](https://www.bmj.com/content/371/bmj.m3745/infographic) explains that the triggering event could be a physical injury, migraine, trauma, or even a fainting experience! 
 
-**What does research report?** Explain what clinicians mean by “functional” without presenting it as the opposite of real, physical, or neurological. Cover the principal symptom families—movement, weakness, seizures or episodes, sensation, vision, speech, cognition, and mixed presentations—and make clear that the list is illustrative rather than diagnostic. Explain positive diagnosis, targeted testing, symptom variability, and coexistence with other neurological or medical conditions. Introduce the “software and hardware” analogy only if useful, then immediately explain its limits: research has also reported structural group differences, and neither ordinary scans nor research imaging provide a stand-alone FND test for an individual.
+**Can FND be cured? Is it permanent?**
+There is no cure for FND but many have found improvements in their condition that can be considered 'remission' of the disease. Many believe that understanding your disease is the key first step in making improvements.
 
-**What do researchers not yet know?** Identify the uncertainty that belongs on this page: there is no single established mechanism for every FND symptom or person; the relationship between observed brain differences, vulnerability, illness effects, and recovery remains under study; and “functional” does not mean that the nervous system has no physical processes. Distinguish clinical consensus, group-level research findings, proposed mechanisms, and claims about an individual. Leave the full biopsychosocial discussion to the next article.
+**Is there a way to diagnose FND?**
+Yes! There are now many tests that a doctor like a neurologist can perform that indicate you have FND.
+
+**How do I improve my condition?**
+This is what we hope to accomplish in this educational course. The lessons are each designed to inform you and show what you can do now at home to make positive changes in your disease.
+
+**What are the symptoms of FND?**
+A person can present with one or more symptoms. Some symptoms are not considered to be FND but often appear alongside FND. 
+Here's a list of *common* FND symptoms:
+- weakness in an arm or leg
+- functional 'seizures'
+- reduced sensation in parts of the body
+- involuntary movements like tremor or jerks and spasms
+- difficulty walking
+- memory and concentration issues
+- speech and swallowing problems
+- dizziness (a type associated with FND)
+- falls to the ground
+- overactive bladder and other bowel and bladder problems
+- visual blurring, light sensitivity
+- sound sensitivity
+- functional tics
+
+And these are problems that 
 
 **What can this feel or look like in ordinary life?** Give several short examples across symptom types, such as a leg that will not move normally, shaking that changes, an episode with altered awareness, numbness, difficulty speaking, or thinking that becomes slow. Include fluctuation, mixed symptoms, different levels of disability, and the possibility that two people with FND may look very different. Avoid turning examples into a self-diagnostic checklist or implying that variability makes symptoms voluntary.
 
@@ -55,6 +80,8 @@ Researchers have found that FND is mainly prevalent in women and often starting 
 **What treatment or management has been studied or recommended?** Keep this brief because treatment belongs later in the course. Note that a clear explanation may support engagement, while symptom-specific rehabilitation, psychological care when relevant and acceptable, treatment of coexisting conditions, and accessibility support may be considered. Do not imply that understanding the label is itself a cure or that one intervention fits every presentation.
 
 **When should the person be medically reassessed?** Give a proportionate reminder that a previous FND diagnosis should not automatically explain a new, severe, injured, or substantially changed symptom. Link the finished page to the medical-safety module for detailed guidance. Avoid both automatic dismissal and an exhaustive emergency list here.
+
+**What do researchers not yet know?** Identify the uncertainty that belongs on this page: there is no single established mechanism for every FND symptom or person; the relationship between observed brain differences, vulnerability, illness effects, and recovery remains under study; and “functional” does not mean that the nervous system has no physical processes. Distinguish clinical consensus, group-level research findings, proposed mechanisms, and claims about an individual. Leave the full biopsychosocial discussion to the next article.
 
 ⬅️ **Previous page:** [Module overview](README.md)
 
