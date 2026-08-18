@@ -30,7 +30,7 @@ If you have been recently diagnosed, you might be wondering if your symptoms are
 
 There is now building evidence that FND changes the brain but not in easily measured ways. One research paper shows thinning and thickening in parts of the brain and another study in children with functional seizures shows changes in the way our brain chemicals interact with one another. The important thing to know is **Your symptoms ARE REAL** and they are not faked or imaginary. (*citations* [2](#citation-2), [3](#citation-3), [5](#citation-5), [6](#citation-6), [9](#citation-9))
 
-So what does [functional](../../../glossary/README.md#functional) actually mean? In short it describes how your nervous system is processing motor and sensory information. In FND there is a problem with how our brain and nervous system interact. Many familiar chronic health problems are considered by a number of neurologists to be a part of FND such as Fibromyalgia, Chronic Fatigue, and Irritable Bowel Syndrome. (*citations* [2](#citation-2), [9](#citation-9)) 
+So what does [functional](../../../glossary/README.md#functional) actually mean? In short it describes how your nervous system is processing motor and sensory information. In FND there is a problem with how our brain and nervous system interact.FND belongs to a wider family of overlapping functional disorders that can include fibromyalgia, chronic fatigue and irritable bowel syndrome. (*citations* [2](#citation-2), [9](#citation-9)) 
 
 ***
 
@@ -41,7 +41,7 @@ So what does [functional](../../../glossary/README.md#functional) actually mean?
 *There is no cure for FND but many have found improvements in their condition that can be considered 'remission' of the disease. Many believe that understanding your disease is the key first step in making improvements.* (*citations* [1](#citation-1), [3](#citation-3), [8](#citation-8))
 
 **Is there a way to diagnose FND?**
-*Yes! There are now many tests that a doctor like a neurologist can perform that indicate you have FND.* (*citations* [3](#citation-3))
+*Yes! There are specific tests and observations that a neurologist can use during an examination to identify signs of FND. Your diagnosis should never be "All your tests were normal."* (*citations* [3](#citation-3))
 
 **How do I improve my condition?**
 *This is what we hope to accomplish in this educational course. The lessons are each designed to inform you and show what you can do now at home to make positive changes in your disease.*
