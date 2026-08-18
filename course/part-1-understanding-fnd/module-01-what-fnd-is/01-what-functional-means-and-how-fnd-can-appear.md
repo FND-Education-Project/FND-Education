@@ -5,7 +5,7 @@
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
->*"Functional disorders are conditions whose origin arises primarily from a disorder of nervous system functioning rather than clearly identifiable pathophysiological disease... It causes considerable physical disability and distress..."* -Jon Stone, BMJ 2020;371:m3745
+>*"Functional disorders are conditions whose origin arises primarily from a disorder of nervous system functioning rather than clearly identifiable pathophysiological disease... It causes considerable physical disability and distress..."* - Professor Jon Stone, neurologist (BMJ 2020;371:m3745)
 
 *Figure 1*
 
