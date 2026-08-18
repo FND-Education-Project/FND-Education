@@ -7,20 +7,18 @@
 ***
 >*"Functional disorders are conditions whose origin arises primarily from a disorder of nervous system functioning rather than clearly identifiable pathophysiological disease... It causes considerable physical disability and distress..."* - Professor Jon Stone, neurologist (BMJ 2020;371:m3745)
 
-*Figure 1*
-
 >*"FND is currently defined as a 'clinical syndrome with genuinely experienced neurological symptoms which are distressing or impairing, and show dysfunction of the nervous system with variability in performance within a task or between task'"* -Functional neurological disorder: Practical management. Barbara A. Dworetzky, Gaston Baslet
 
-*Figure 2*
+*Figure 1*
 
 The word 'functional' tells us that the way the nervous system transmits information throughout the brain and body is no longer working correctly. This affects actions like movement, sensation, attention and awareness. (*citations* [2](#citation-2), [9](#citation-9)) 
 
 > ### Quick Fact
-> Functional Neurological Disorder (FND) and Functional Seizures (FS) are known by other names. (*citations* [2](#citation-2), [4](#citation-4), [9](#citation-9)) 
+> Functional Neurological Disorder (FND) and Functional Seizures (FS) are known by other names.
 > - *PNES (Psychogenic non-epileptic seizures), Pseudoseizure, Dissociative Attack*
 > - *Conversion Disorder, Functional Cognitive Disorder (a subtype), Functional Neurological Disorders (FNDs)*
 > - *Functional Movement Disorder (FMD) (a subtype)*
-> However, Conversion Disorder and PNES are going out of use. Also, the term 'pseudoseizures' is offensive to many sufferers.
+> However, Conversion Disorder and PNES are going out of use. Also, the term 'pseudoseizures' is offensive to many sufferers. (*citations* [2](#citation-2), [4](#citation-4), [9](#citation-9))
 
 ## For the Person With FND
 
@@ -30,12 +28,12 @@ If you have been recently diagnosed, you might be wondering if your symptoms are
 
 There is now building evidence that FND changes the brain but not in easily measured ways. One research paper shows thinning and thickening in parts of the brain and another study in children with functional seizures shows changes in the way our brain chemicals interact with one another. The important thing to know is **Your symptoms ARE REAL** and they are not faked or imaginary. (*citations* [2](#citation-2), [3](#citation-3), [5](#citation-5), [6](#citation-6), [9](#citation-9))
 
-So what does [functional](../../../glossary/README.md#functional) actually mean? In short it describes how your nervous system is processing motor and sensory information. In FND there is a problem with how our brain and nervous system interact.FND belongs to a wider family of overlapping functional disorders that can include fibromyalgia, chronic fatigue and irritable bowel syndrome. (*citations* [2](#citation-2), [9](#citation-9)) 
+So what does [functional](../../../glossary/README.md#functional) actually mean? In short it describes how your nervous system is processing motor and sensory information. In FND there is a problem with how our brain and nervous system interact. FND belongs to a wider family of overlapping functional disorders that can include fibromyalgia, chronic fatigue and irritable bowel syndrome. (*citations* [1](#citation-1), [3](#citation-3), [13](#citation-13)) 
 
 ***
 
 **How did I get Functional Neurological Disorder?**
-*Researchers have found that FND can begin at any age. It is diagnosed more often in women. One [website](https://www.bmj.com/content/371/bmj.m3745/infographic) explains that the triggering event could be a physical injury, migraine, trauma, or even a fainting experience!* (*citations* [1](#citation-1), [7](#citation-7)) 
+*Researchers have found that FND can begin at any age. It is diagnosed more often in women. One [website](https://www.bmj.com/content/371/bmj.m3745/infographic) explains that the triggering event could be a physical injury, migraine, trauma, or even a fainting experience!* (*citations* [1](#citation-1), [2](#citation-2), [7](#citation-7), [9](#citation-9)) 
 
 **Can FND be cured? Is it permanent?**
 *There is no cure for FND but many have found improvements in their condition that can be considered 'remission' of the disease. Many believe that understanding your disease is the key first step in making improvements.* (*citations* [1](#citation-1), [3](#citation-3), [8](#citation-8))
@@ -63,7 +61,7 @@ So what does [functional](../../../glossary/README.md#functional) actually mean?
 - sound sensitivity
 - functional tics
 
-And these are problems that are commonly experienced among sufferers but aren't necessarily part of FND (we'll talk about that later and why researchers differ in what they consider FND and what they consider "*comorbid*": (*citations* [3](#citation-3), [9](#citation-9))
+And these are problems that are commonly experienced among sufferers but aren't necessarily part of FND (we'll talk about that later and why researchers differ in what they consider FND and what they consider "*comorbid*"): (*citations* [3](#citation-3), [9](#citation-9))
 - Not feeling like quite yourself, 'spaced out'
 - fatigue
 - pain
@@ -107,7 +105,7 @@ Supporting the person you are showing care to often involves assuring the person
 > - “Patients with [functional weakness] are as disabled as patients with weakness of similar duration due to neurological disease.”
 > - “Compared to epilepsy, people with psychogenic non-epileptic seizures [now usually called functional seizures] have consistently reported worse HRQoL [health-related quality of life].”
 
-*Figure 3*
+*Figure 2*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -147,7 +145,7 @@ This free online course is contributed to by those with lived experience in Func
 | Citation | Figure | Full citation |
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | *Figure 1* | Stone J, Burton C, Carson A. Recognising and explaining functional neurological disorder. *BMJ*. 2020;371:m3745. [https://doi.org/10.1136/bmj.m3745](https://doi.org/10.1136/bmj.m3745) |
-| <a id="citation-2"></a>**[2]** | *Figure 2* | Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4):e00612. [https://doi.org/10.1016/j.neurot.2025.e00612](https://doi.org/10.1016/j.neurot.2025.e00612) |
+| <a id="citation-2"></a>**[2]** | *Figure 1* | Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4):e00612. [https://doi.org/10.1016/j.neurot.2025.e00612](https://doi.org/10.1016/j.neurot.2025.e00612) |
 | <a id="citation-3"></a>**[3]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
 | <a id="citation-4"></a>**[4]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
 | <a id="citation-5"></a>**[5]** | — | Bègue I, Adams C, Stone J, Perez DL. Structural alterations in functional neurological disorder and related conditions: a software and hardware problem? *NeuroImage: Clinical*. 2019;22:101798. [https://doi.org/10.1016/j.nicl.2019.101798](https://doi.org/10.1016/j.nicl.2019.101798) |
@@ -155,6 +153,7 @@ This free online course is contributed to by those with lived experience in Func
 | <a id="citation-7"></a>**[7]** | — | Lidstone SC, Costa-Parke M, Robinson EJ, Ercoli T, Stone J; FMD GAP Study Group. Functional movement disorder gender, age and phenotype study: a systematic review and individual patient meta-analysis of 4905 cases. *Journal of Neurology, Neurosurgery & Psychiatry*. 2022;93(6):609–616. [https://doi.org/10.1136/jnnp-2021-328462](https://doi.org/10.1136/jnnp-2021-328462) |
 | <a id="citation-8"></a>**[8]** | — | Gelauff J, Stone J, Edwards M, Carson A. The prognosis of functional (psychogenic) motor symptoms: a systematic review. *Journal of Neurology, Neurosurgery & Psychiatry*. 2014;85(2):220–226. [https://doi.org/10.1136/jnnp-2013-305321](https://doi.org/10.1136/jnnp-2013-305321) |
 | <a id="citation-9"></a>**[9]** | — | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) |
-| <a id="citation-10"></a>**[10]** | *Figure 3* | Anderson KE, Gruber-Baldini AL, Vaughan CG, Reich SG, Fishman PS, Weiner WJ, Shulman LM. Impact of psychogenic movement disorders versus Parkinson’s on disability, quality of life, and psychopathology. *Movement Disorders*. 2007;22(15):2204–2209. [https://doi.org/10.1002/mds.21687](https://doi.org/10.1002/mds.21687) |
-| <a id="citation-11"></a>**[11]** | *Figure 3* | Stone J, Warlow C, Sharpe M. The symptom of functional weakness: a controlled study of 107 patients. *Brain*. 2010;133(5):1537–1551. [https://doi.org/10.1093/brain/awq068](https://doi.org/10.1093/brain/awq068) |
-| <a id="citation-12"></a>**[12]** | *Figure 3* | Jones B, Reuber M, Norman P. Correlates of health-related quality of life in adults with psychogenic nonepileptic seizures: a systematic review. *Epilepsia*. 2016;57(2):171–181. [https://doi.org/10.1111/epi.13268](https://doi.org/10.1111/epi.13268) |
+| <a id="citation-10"></a>**[10]** | *Figure 2* | Anderson KE, Gruber-Baldini AL, Vaughan CG, Reich SG, Fishman PS, Weiner WJ, Shulman LM. Impact of psychogenic movement disorders versus Parkinson’s on disability, quality of life, and psychopathology. *Movement Disorders*. 2007;22(15):2204–2209. [https://doi.org/10.1002/mds.21687](https://doi.org/10.1002/mds.21687) |
+| <a id="citation-11"></a>**[11]** | *Figure 2* | Stone J, Warlow C, Sharpe M. The symptom of functional weakness: a controlled study of 107 patients. *Brain*. 2010;133(5):1537–1551. [https://doi.org/10.1093/brain/awq068](https://doi.org/10.1093/brain/awq068) |
+| <a id="citation-12"></a>**[12]** | *Figure 2* | Jones B, Reuber M, Norman P. Correlates of health-related quality of life in adults with psychogenic nonepileptic seizures: a systematic review. *Epilepsia*. 2016;57(2):171–181. [https://doi.org/10.1111/epi.13268](https://doi.org/10.1111/epi.13268) |
+| <a id="citation-13"></a>**[13]** | — | Stone J, Coebergh JA, Lidstone SC, et al. Migraine and functional neurological disorder (FND)—a review of comorbidity and potential overlap. *Brain Communications*. 2025;7(4):fcaf288. [https://doi.org/10.1093/braincomms/fcaf288](https://doi.org/10.1093/braincomms/fcaf288) |
