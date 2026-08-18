@@ -2,10 +2,22 @@
 
 This is a focused authoring template within Module 1. The human author should use the prompts below to explain the biopsychosocial model in simple language, prevent it from being mistaken for a diagnosis or universal cause, present credible alternative emphases, correct common misconceptions, and describe recovery without making promises. Source quotations are research notes, not finished lesson prose.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For the Person With FND
+FND is now understood as a **biopsychosocial model** rather than neurological or psychological. *What does this mean?* 
 
-Let's go over a few words that you may be unfamiliar with but will be used widely in this course.
-FND is now modelled as **biopsychosocial** rather than neurological or psychological. *What does this mean?* 
+When we talk about the biopsychosocial model, it is in relation to how your **symptoms** are affected by, well, all aspects of your life and health, really. The 'bio' part refers to your biology; your current health issues and how your nervous system responds to things. It also includes what we talked about in module 1, that the way your brain talks to the rest of your body and nervous system is disrupted. The 'psycho' or 'psychological' part of the word helps us to see that life stresses both past and present can strongly affect your symptoms. The psychology we are talking about here also includes how you cope with those stresses and your emotional self. Finally, the 'social' aspect of this not only includes your culture but also your access to health care and the family and social support you have.
+
+Let's talk about this in a way that is more familiar: the common headache. A headache can be triggered by lots of things: sore muscles, stress, an injury to your head and likewise FND can be triggered by a health issue, a specific injury or even a very stressful situation. When you have a headache, those same things can make it feel worse. Likewise, with FND your symptoms can flare or become worse temporarily because of a stressful situation including a health situation. Like a headache, there are some medications that can make your symptoms less and, also like a headache, you might find meditation and relaxation a way to lower your symptoms as well.
+
+
+
+
 **What other names and search terms should readers recognize?** Explain biopsychosocial model and biopsychosocial formulation in ordinary language. Briefly identify biological, psychological, and social factors; predisposing, precipitating, and perpetuating factors; risk factor; trigger; mechanism; prognosis; improvement; remission; and recovery. Do not treat these words as synonyms. Explain that psychogenic and conversion disorder are older or disputed terms a reader may still encounter.
 
 **What should a reader understand in about one minute?** Begin with the simplest explanation: health can be affected by the body and brain, thoughts and emotions, and the person’s relationships and circumstances. These areas may interact, but the model does not prove that all three caused one person’s FND. It is not a test for FND and does not mean symptoms are imagined, voluntary, caused by ordinary anxiety, or always linked to trauma. Recovery can mean different kinds of improvement and is not guaranteed to follow one path.
@@ -20,6 +32,12 @@ FND is now modelled as **biopsychosocial** rather than neurological or psycholog
 
 **What questions might the person ask a clinician?** Prepare a short first-person list: “Are you using this model to explain cause, plan care, or both?”, “Which factors are supported by evidence in my case?”, “What alternatives have you considered?”, “Does treatment depend on finding stress or trauma?”, “What kinds of improvement are realistic to track?”, and “How will we adjust the plan if it is not helping?” Keep the list appointment-ready.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 **What should the reader open next?** Show every Module 1 page in its fixed reading order. The current page is plain text; the others are links.
 
 - [Module overview](README.md) — the shortest introduction and guide to the module.
@@ -30,6 +48,12 @@ FND is now modelled as **biopsychosocial** rather than neurological or psycholog
 
 **What should a support person understand and do?** Explain that a whole-person model is not permission to choose a cause for someone else. Supporters can ask what the person finds relevant, help reduce practical barriers, notice progress the person values, and respect privacy and consent. They should not search for trauma, blame stress, demand optimism, predict cure, or turn rehabilitation into supervision. Separate care during difficult periods from clinical decisions, and encourage reassessment of new or changed symptoms.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Clinicians and the Care Team
 
 **What else can look similar or coexist?** Keep diagnostic reasoning separate from formulation. Anxiety, depression, post-traumatic stress, pain, migraine, sleep disorders, structural neurological disease, medication effects, and adverse social conditions can coexist with FND and deserve their own assessment. Malingering and factitious disorder involve different questions and should not be inferred from inconsistency or from the absence of a structural explanation. Avoid using a psychosocial narrative to override positive diagnostic evidence or to explain every symptom.
