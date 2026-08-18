@@ -77,7 +77,7 @@ For readability and consistency on educational pages:
 - place an italicized figure label, such as *Figure 1*, immediately after a sourced block quotation;
 - number figures in the order they appear on each page;
 - include a Figure column in the page's citation table so each figure is mapped to its source or sources;
-- when one block contains several related quotations, one figure label may identify the whole block and each source should map to that figure in the table.
+- when one block or deliberately grouped set contains several related quotations, one figure label may identify the whole group and each source should map to that figure in the table.
 
 ## Citation practice
 
