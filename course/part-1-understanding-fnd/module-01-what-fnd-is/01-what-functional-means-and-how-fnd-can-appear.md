@@ -35,7 +35,7 @@ So what does [functional](../../../glossary/README.md#functional) actually mean?
 ***
 
 **How did I get Functional Neurological Disorder?**
-*Researchers have found that FND is mainly prevalent in women and often starting after the age of fifteen. One [website](https://www.bmj.com/content/371/bmj.m3745/infographic) explains that the triggering event could be a physical injury, migraine, trauma, or even a fainting experience!* (*citations* [1](#citation-1), [7](#citation-7)) 
+*Researchers have found that FND can begin at any age. It is diagnosed more often in women. One [website](https://www.bmj.com/content/371/bmj.m3745/infographic) explains that the triggering event could be a physical injury, migraine, trauma, or even a fainting experience!* (*citations* [1](#citation-1), [7](#citation-7)) 
 
 **Can FND be cured? Is it permanent?**
 *There is no cure for FND but many have found improvements in their condition that can be considered 'remission' of the disease. Many believe that understanding your disease is the key first step in making improvements.* (*citations* [1](#citation-1), [3](#citation-3), [8](#citation-8))
@@ -76,7 +76,7 @@ And these are problems that are commonly experienced among sufferers but aren't 
 
 ***
 
-For an introduction to what FND is, I only want to mention that FND is very episodic. Many experience bad days, weeks, and sometimes months followed by better days where their symptoms aren't active. One of the best things you can do now besides continue your education about this very debilitating disease is to learn how to communicate with your doctors and those acting as caregivers in your life if your symtpoms require that. (*citations* [9](#citation-9)) 
+For an introduction to what FND is, I only want to mention that FND is very episodic. Many experience bad days, weeks, and sometimes months followed by better days where their symptoms aren't active. One of the best things you can do now besides continue your education about this very debilitating disease is to learn how to communicate with your doctors and those acting as caregivers in your life if your symptoms require that. (*citations* [9](#citation-9)) 
 
 If you want to see how your symptoms fit into FND one of my favourite resources is [NeuroSymptoms.org](https://neurosymptoms.org/en/symptoms/). The author is one of the lead researchers of FND and they have put together a symptom tracker as well as a fairly complete list of each of the symptoms and how they are diagnosed and even a little about what you can do now about them. There are some videos as well which will let you see how others experience these symptoms.
 
@@ -86,7 +86,7 @@ If you haven't already asked these of the diagnosing doctor, here's a few good q
 -  “What did my tests rule in or rule out?”
 -  “Could another condition also be present?”
 
-Another useful thing to do is put into your own words what FND to explain to your family and friends.
+Another useful thing to do is put into your own words what FND is and how to explain to your family and friends.
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -99,7 +99,7 @@ Another useful thing to do is put into your own words what FND to explain to you
 ***
 ## For Family, Friends, and Other Supporters
 
-Functional Neurological Disorder is a very disabling disease and it can vary in how many symptoms or how sensitive those symptoms are. This used to be considered a psychiatric diagnosis called 'conversion disorder,' however, that term and the idea that these symptoms are of a psychogenic (from the mind or emotions) or psychiatric cause is false. In fact, recent findings have shown that diagnosis of FND does not need a psychological precipitating factor. (*citations* [2](#citation-2), [4](#citation-4), [9](#citation-9)) 
+Functional Neurological Disorder is a very disabling disease and it can vary in how many symptoms or how sensitive those symptoms are. This used to be considered a psychiatric diagnosis called 'conversion disorder,' however, that term and the idea that these symptoms must be of a psychogenic (from the mind or emotions) or psychiatric cause is false. In fact, recent findings have shown that diagnosis of FND does not need a psychological precipitating factor. (*citations* [2](#citation-2), [4](#citation-4), [9](#citation-9)) 
 
 Supporting the person you are showing care to often involves assuring the person that their symptoms are real and not faked. They did not cause their disease. It's also very important to understand that not every new symptom is FND. All new symptoms should be looked at by a doctor because many serious medical issues look like an FND symptom. (*citations* [3](#citation-3), [9](#citation-9))
 
