@@ -65,6 +65,20 @@ The central index is the shared management record, not a replacement for page-le
 
 Quotations are primarily authoring evidence notes. Finished educational prose should usually paraphrase the finding in plain language while preserving the citation. Quotations should remain short, exact, and accompanied by enough context—such as the abstract, table, section, or page location—to prevent a fragment from being used beyond what the article supports.
 
+## Page-level citation display
+
+For readability and consistency on educational pages:
+
+- place supporting citation links once at the end of the paragraph they support;
+- format the label as `(*citations* 2, 3, 5)`, with the word *citations* italicized;
+- make each displayed number a link to that page's numbered citation-table entry;
+- sort citation numbers from lowest to highest, separate them with commas, and remove duplicates;
+- do not place citation links inside a block quotation;
+- place an italicized figure label, such as *Figure 1*, immediately after a sourced block quotation;
+- number figures in the order they appear on each page;
+- include a Figure column in the page's citation table so each figure is mapped to its source or sources;
+- when one block contains several related quotations, one figure label may identify the whole block and each source should map to that figure in the table.
+
 ## Citation practice
 
 - Cite the source closest to the claim it supports.
