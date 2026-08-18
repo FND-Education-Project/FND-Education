@@ -23,6 +23,8 @@ Make appointments and medical records more accurate, efficient, and usable.
 
 ## For health professionals and readers wanting more detail
 
+This section should focus on how clinicians can help the patient understand the subject and their own presentation, identify what may help, support symptom or functional improvement, and remain helpful when improvement is limited or not yet possible. It should include safety, accessibility, quality of life, and appropriate reassessment rather than treating symptom reduction as the only worthwhile outcome.
+
 - Structured problem representation separating confirmed diagnoses, functional phenotypes, comorbidities, unresolved differentials, medication effects, and patient hypotheses.
 - Communication of onset, temporal pattern, semiology, functional impact, contextual variation, and clinically meaningful change.
 - Shared decision-making, teach-back, written after-visit information, communication accommodations, and supported decision-making.

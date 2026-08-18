@@ -2,6 +2,12 @@
 
 This is the authoring template for the short module overview. Keep the completed overview brief: introduce the subject, explain why the focused pages are separated, and help readers choose where to go next.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Use and explain the terms readers are likely to encounter: FND pain; chronic pain; migraine and FND; fatigue; post-exertional worsening; insomnia; sleep disorder; sleep apnea; central sensitization; nociplastic pain. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.
@@ -20,20 +26,38 @@ This is the authoring template for the short module overview. Keep the completed
 
 **What should the reader open next?** Link and briefly distinguish these focused pages: [Chronic Pain](01-chronic-pain.md); [Migraine](02-migraine.md); [Fatigue and Post-Activity Worsening](03-fatigue-and-post-activity-worsening.md); [Sleep Problems and Sleep Disorders](04-sleep-problems-and-sleep-disorders.md)
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Develop the supporter guidance from these points: Respecting pain and fatigue without assuming permanent incapacity. Helping plan within available capacity without policing activity. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Keep care, consent, autonomy, and actions that may unintentionally make symptoms harder visible in the overview.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Clinicians and the Care Team
 
-**What else can look similar or coexist?** Cover injury, inflammatory or neurological disease, primary headache disorders, sleep apnea and other sleep disorders, anemia, infection, endocrine disease, medication effects, ME/CFS, fibromyalgia, and mood disorders. Emphasize that migraine is a separate neurological diagnosis. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness.
+**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Cover injury, inflammatory or neurological disease, primary headache disorders, sleep apnea and other sleep disorders, anemia, infection, endocrine disease, medication effects, ME/CFS, fibromyalgia, and mood disorders. Emphasize that migraine is a separate neurological diagnosis. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness.
 
-**How may clinicians assess this subject?** Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Migraine as a comorbid neurological disorder, potential precipitant, symptom amplifier, and diagnostic overlap. Fatigue measurement, post-exertional symptom exacerbation, and differential diagnosis including ME/CFS and systemic illness. Risks of diagnostic overshadowing, polypharmacy, and assuming improvement in a comorbidity will necessarily resolve FND. Explain both the value and limitations of each step.
+**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Migraine as a comorbid neurological disorder, potential precipitant, symptom amplifier, and diagnostic overlap. Fatigue measurement, post-exertional symptom exacerbation, and differential diagnosis including ME/CFS and systemic illness. Risks of diagnostic overshadowing, polypharmacy, and assuming improvement in a comorbidity will necessarily resolve FND. Explain both the value and limitations of each step.
 
-**What treatment or management has been studied or recommended?** Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Evidence and limitations for pacing, graded activity, sleep interventions, migraine treatment, pain rehabilitation, and multidisciplinary care. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added.
+**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Evidence and limitations for pacing, graded activity, sleep interventions, migraine treatment, pain rehabilitation, and multidisciplinary care. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added.
 
-**When should the person be medically reassessed?** Flag a new severe headache, new neurological signs, fever, chest symptoms, progressive weakness, major sleep-breathing concerns, unexplained weight or systemic change, or a marked change in pain or fatigue. Encourage review of treatable contributors and medication effects. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm.
+**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Flag a new severe headache, new neurological signs, fever, chest symptoms, progressive weakness, major sleep-breathing concerns, unexplained weight or systemic change, or a marked change in pain or fatigue. Encourage review of treatable contributors and medication effects. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## Research and Sources
 
 **Which evidence and source notes will the completed overview need?** Use a small number of broad sources that support the module’s shared introduction. Record which focused page owns each detailed claim so the overview does not become a second full article. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes.

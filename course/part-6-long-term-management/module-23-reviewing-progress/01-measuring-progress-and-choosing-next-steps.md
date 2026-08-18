@@ -2,6 +2,12 @@
 
 This is a focused authoring template within Module 23. Build the completed page around this scope: Cover symptoms where meaningful, safety, recovery time, function, participation, access, confidence, communication, quality of life, supporter burden, adverse effects, non-response, personal goals, measurement limitations, and selecting the next small set of priorities.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND recovery; FND outcomes; treatment goals; progress review; quality of life; participation; symptom tracking; Goal Attainment Scaling. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Measuring Progress and Choosing Next Steps.” Mark historical, disputed, or potentially stigmatizing language clearly.
@@ -20,20 +26,38 @@ This is a focused authoring template within Module 23. Build the completed page 
 
 **What should the reader open next?** Use these module links: [Module overview](README.md) Add cross-module links later only when they answer a clear next question.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Measuring Progress and Choosing Next Steps.” Develop the supporter guidance from these points: Review what support is useful, unwanted, unavailable, or unsustainable. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Clinicians and the Care Team
 
-**What else can look similar or coexist?** Narrow the differential and overlap material to this page. This is not a diagnostic-differential page. Distinguish true change from ordinary fluctuation, treatment effects from changes in another condition, and personal goals from clinician-defined appearance, employment, or symptom counts. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. This is not a diagnostic-differential page. Distinguish true change from ordinary fluctuation, treatment effects from changes in another condition, and personal goals from clinician-defined appearance, employment, or symptom counts. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
 
-**How may clinicians assess this subject?** Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Goal Attainment Scaling, patient-reported outcome measures, performance measures, episode counts, and individualized indicators. Minimal clinically important difference, measurement burden, response shift, floor and ceiling effects, and fluctuating baselines. Shared review, revision of formulation, updated safety-netting, and planning the next period of care. Explain both the value and limitations of each step.
+**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Goal Attainment Scaling, patient-reported outcome measures, performance measures, episode counts, and individualized indicators. Minimal clinically important difference, measurement burden, response shift, floor and ceiling effects, and fluctuating baselines. Shared review, revision of formulation, updated safety-netting, and planning the next period of care. Explain both the value and limitations of each step.
 
-**What treatment or management has been studied or recommended?** Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Patient-defined goals and multidimensional outcomes spanning symptoms, function, participation, safety, quality of life, and healthcare use. Distinguishing treatment efficacy, treatment engagement, natural fluctuation, regression to the mean, and changes in comorbidity. Support-person outcomes involving confidence, burden, health, autonomy, and relationship quality. Adverse effects, non-response, barriers, treatment mismatch, and reasons for discontinuation. Shared review, revision of formulation, updated safety-netting, and planning the next period of care. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Patient-defined goals and multidimensional outcomes spanning symptoms, function, participation, safety, quality of life, and healthcare use. Distinguishing treatment efficacy, treatment engagement, natural fluctuation, regression to the mean, and changes in comorbidity. Support-person outcomes involving confidence, burden, health, autonomy, and relationship quality. Adverse effects, non-response, barriers, treatment mismatch, and reasons for discontinuation. Shared review, revision of formulation, updated safety-netting, and planning the next period of care. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
 
-**When should the person be medically reassessed?** Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Recommend a broader clinical review when there is sustained decline, unexpected new symptoms, repeated treatment harm, no plausible benefit after an agreed trial, supporter burnout, or goals that no longer match the person’s health and priorities. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Recommend a broader clinical review when there is sustained decline, unexpected new symptoms, repeated treatment harm, no plausible benefit after an agreed trial, supporter burnout, or goals that no longer match the person’s health and priorities. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## Research and Sources
 
 **Which evidence and source notes will the completed page need?** Build a focused evidence record for “Measuring Progress and Choosing Next Steps”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.

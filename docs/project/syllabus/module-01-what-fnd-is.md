@@ -31,6 +31,8 @@ This section will be written in very plain language for people with FND, support
 
 ## For health professionals and readers wanting more detail
 
+This section should focus on how clinicians can help the patient understand the subject and their own presentation, identify what may help, support symptom or functional improvement, and remain helpful when improvement is limited or not yet possible. It should include safety, accessibility, quality of life, and appropriate reassessment rather than treating symptom reduction as the only worthwhile outcome.
+
 - Current diagnostic terminology, classification, and historically used terms.
 - The range of motor, seizure, sensory, cognitive, speech, and mixed FND presentations.
 - Functional change versus structural pathology, including why this distinction is useful but not absolute.

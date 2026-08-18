@@ -9,6 +9,7 @@ FND Education will not:
 - describe functional symptoms as chosen behaviour;
 - recommend stopping prescribed medication without the prescriber;
 - present one treatment as appropriate for everyone;
+- treat limited improvement as lack of effort or as a reason to withdraw appropriate care;
 - treat every symptom in a person with FND as part of FND;
 - present anecdotes as proof;
 - hide meaningful scientific disagreement or uncertainty.
@@ -27,6 +28,7 @@ FND Education will not:
 - Separate fact, interpretation, clinical opinion, and lived experience.
 - Preserve the person’s autonomy in supporter guidance.
 - Do not imply that improvement proves symptoms were voluntary.
+- When symptom improvement is limited, include function, safety, accessibility, symptom relief, participation, communication, quality of life, supporter needs, and continuing care as legitimate clinical goals.
 - Do not use fear, urgency, or unrealistic hope to promote a treatment.
 - Correct consequential errors visibly and retain a clear review date.
 

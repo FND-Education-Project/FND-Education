@@ -107,6 +107,8 @@ Consistency is an accessibility requirement. Each completed page will use four v
 3. **For Clinicians and the Care Team**
 4. **Research and Sources**
 
+The clinician section is organized around practical usefulness to the patient: explaining the condition and the patient’s own presentation, assessing what may help, supporting improvement where possible, and continuing useful care when improvement is limited or unlikely. Differential diagnosis, safety-netting, and medical reassessment remain part of that patient-centred purpose.
+
 Within those four sections, the page will answer the same 15 questions:
 
 1. What other names and search terms should readers recognize?
@@ -118,10 +120,10 @@ Within those four sections, the page will answer the same 15 questions:
 7. What questions might the person ask a clinician?
 8. What should the reader open next?
 9. What should a support person understand and do?
-10. What else can look similar or coexist?
-11. How may clinicians assess it?
-12. What treatment or management has been studied or recommended?
-13. When should the person be medically reassessed?
+10. How can clinicians help the patient understand this subject and their own presentation?
+11. How can clinicians assess what may help this patient?
+12. How can clinicians help the patient improve this symptom, difficulty, or aspect of care?
+13. How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?
 14. Which evidence and source notes does the page need?
 15. When was the page last reviewed?
 

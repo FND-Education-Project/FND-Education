@@ -2,6 +2,12 @@
 
 This is the authoring template for the short module overview. Keep the completed overview brief: introduce the subject, explain why the focused pages are separated, and help readers choose where to go next.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Use and explain the terms readers are likely to encounter: Functional Neurological Disorder; FND; Functional Neurological Symptom Disorder; FNSD; conversion disorder (historical term); functional neurological symptoms; functional symptoms. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.
@@ -24,22 +30,40 @@ This is the authoring template for the short module overview. Keep the completed
 - [What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md) — explain the name, the meaning of “functional,” involuntary symptoms, and the different ways FND may appear.
 - [The Biopsychosocial Model, Misconceptions, and Recovery](02-the-biopsychosocial-model-misconceptions-and-recovery.md) — explain the model in plain language, its uses and limitations, common misconceptions, and the different meanings of improvement.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Develop the supporter guidance from these points: Believing the person without pretending to know the cause. Validating symptoms without predicting recovery or reinforcing fear. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Keep care, consent, autonomy, and actions that may unintentionally make symptoms harder visible in the overview.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Clinicians and the Care Team
 
-**What else can look similar or coexist?** Explain that this is an overview rather than a diagnostic checklist. Distinguish FND from structural neurological disease, ordinary anxiety symptoms, malingering, and factitious disorder, while making clear that FND can coexist with epilepsy, migraine, multiple sclerosis, injury, and other conditions. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness.
+**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Explain that this is an overview rather than a diagnostic checklist. Distinguish FND from structural neurological disease, ordinary anxiety symptoms, malingering, and factitious disorder, while making clear that FND can coexist with epilepsy, migraine, multiple sclerosis, injury, and other conditions. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness.
 
-**How may clinicians assess this subject?** Explain only the assessment basics needed for this opening page: clinicians use the person’s history, neurological examination, positive signs, and targeted tests when appropriate; FND should be a rule-in diagnosis rather than a conclusion based only on normal results. Briefly introduce variability and preserved function without teaching the individual signs in detail, then direct readers to Module 2. Make clear that a biopsychosocial formulation may help plan care after diagnosis but is not a diagnostic test.
+**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Explain only the assessment basics needed for this opening page: clinicians use the person’s history, neurological examination, positive signs, and targeted tests when appropriate; FND should be a rule-in diagnosis rather than a conclusion based only on normal results. Briefly introduce variability and preserved function without teaching the individual signs in detail, then direct readers to Module 2. Make clear that a biopsychosocial formulation may help plan care after diagnosis but is not a diagnostic test.
 
-**What treatment or management has been studied or recommended?** Explain that FND does not have one treatment that fits every symptom or person. Introduce clear diagnostic explanation, education, symptom-specific rehabilitation, psychological treatment when relevant and acceptable, management of pain, migraine, sleep or other conditions, and practical accessibility support. Keep this as a brief map to later modules rather than evaluating every treatment here, and make clear that a biopsychosocial formulation may organize care without proving causation.
+**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Explain that FND does not have one treatment that fits every symptom or person. Introduce clear diagnostic explanation, education, symptom-specific rehabilitation, psychological treatment when relevant and acceptable, management of pain, migraine, sleep or other conditions, and practical accessibility support. Keep this as a brief map to later modules rather than evaluating every treatment here, and make clear that a biopsychosocial formulation may organize care without proving causation.
 
-**When should the person be medically reassessed?** State that an existing FND diagnosis should never be used automatically to explain a new, severe, injured, or substantially changed symptom. Direct the eventual author to give a short general safety reminder and link to the medical-safety module rather than attempting an exhaustive emergency list here. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm.
+**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. State that an existing FND diagnosis should never be used automatically to explain a new, severe, injured, or substantially changed symptom. Direct the eventual author to give a short general safety reminder and link to the medical-safety module rather than attempting an exhaustive emergency list here. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm.
 
 ➡️ **Next article:** [What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md)
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## Research and Sources
 
 **Which evidence and source notes will the completed overview need?** Use the three grouped source records below for the short overview. They support the reality and involuntary nature of symptoms, positive diagnosis, coexistence with neurological disease, the absence of a required psychological stressor, variability, and individualized multidisciplinary treatment. Detailed mechanisms, individual positive signs, biopsychosocial interpretation, and treatment outcomes belong mainly on the focused pages and later modules.

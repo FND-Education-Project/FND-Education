@@ -2,6 +2,12 @@
 
 This is a focused authoring template within Module 6. Build the completed page around this scope: Cover post-episode recovery, communication preferences, returning to activity, treatment evidence and limitations, comorbidity care, school or work effects, driving or safety questions that require local guidance, and outcomes beyond seizure counts.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: functional seizures; dissociative seizures; PNES; psychogenic nonepileptic seizures; nonepileptic attacks; altered awareness; functional episodes; video-EEG. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Recovery, Treatment, and Daily Life.” Mark historical, disputed, or potentially stigmatizing language clearly.
@@ -20,20 +26,38 @@ This is a focused authoring template within Module 6. Build the completed page a
 
 **What should the reader open next?** Use these module links: [Module overview](README.md); [What Functional Seizures Are and How They Are Diagnosed](01-what-functional-seizures-are-and-how-they-are-diagnosed.md); [Episode Safety, Observation, and Emergency Decisions](02-episode-safety-observation-and-emergency-decisions.md) Add cross-module links later only when they answer a clear next question.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Recovery, Treatment, and Daily Life.” Develop the supporter guidance from these points: Protecting from injury, timing and observing, avoiding restraint, and never placing objects in the mouth. Reducing crowds, repeated questioning, and panic during recovery. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Clinicians and the Care Team
 
-**What else can look similar or coexist?** Narrow the differential and overlap material to this page. Discuss epilepsy, fainting, heart-rhythm events, migraine, sleep disorders, panic episodes, movement disorders, and metabolic causes. Emphasize that some people have both epilepsy and functional seizures and that a changed event should not be classified from appearance alone. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Discuss epilepsy, fainting, heart-rhythm events, migraine, sleep disorders, panic episodes, movement disorders, and metabolic causes. Emphasize that some people have both epilepsy and functional seizures and that a changed event should not be classified from appearance alone. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
 
-**How may clinicians assess this subject?** Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Semiology, diagnostic history, witness reliability, smartphone video, ambulatory EEG, and video-EEG confirmation. Differential diagnosis involving epileptic seizures, syncope, parasomnias, movement disorders, migraine, panic, metabolic disturbance, and other episodic events. Coexisting epilepsy, diagnostic revision, and communication of remaining uncertainty. Outcome measures beyond seizure frequency, including injury, emergency use, recovery time, participation, and quality of life. Explain both the value and limitations of each step.
+**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Semiology, diagnostic history, witness reliability, smartphone video, ambulatory EEG, and video-EEG confirmation. Differential diagnosis involving epileptic seizures, syncope, parasomnias, movement disorders, migraine, panic, metabolic disturbance, and other episodic events. Coexisting epilepsy, diagnostic revision, and communication of remaining uncertainty. Outcome measures beyond seizure frequency, including injury, emergency use, recovery time, participation, and quality of life. Explain both the value and limitations of each step.
 
-**What treatment or management has been studied or recommended?** Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Autonomic, motor, sensory, cognitive, and dissociative features without treating semiology alone as definitive. Risks from injury, breath-holding or apparent unresponsiveness, emergency overtreatment, and inappropriate antiseizure therapy. Evidence and limitations for psychological treatment, education, multidisciplinary care, and management of comorbidities. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Autonomic, motor, sensory, cognitive, and dissociative features without treating semiology alone as definitive. Risks from injury, breath-holding or apparent unresponsiveness, emergency overtreatment, and inappropriate antiseizure therapy. Evidence and limitations for psychological treatment, education, multidisciplinary care, and management of comorbidities. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
 
-**When should the person be medically reassessed?** Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Include individualized emergency criteria, injury, a first event, a new event pattern, possible pregnancy or medication complications, prolonged breathing concern, unusual unresponsiveness, and events that differ from the clinician-reviewed pattern. Avoid publishing one time limit as correct for everyone. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Include individualized emergency criteria, injury, a first event, a new event pattern, possible pregnancy or medication complications, prolonged breathing concern, unusual unresponsiveness, and events that differ from the clinician-reviewed pattern. Avoid publishing one time limit as correct for everyone. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## Research and Sources
 
 **Which evidence and source notes will the completed page need?** Build a focused evidence record for “Recovery, Treatment, and Daily Life”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.

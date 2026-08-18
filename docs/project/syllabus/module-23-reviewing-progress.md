@@ -23,6 +23,8 @@ Evaluate the course by knowledge, safety, participation, confidence, and support
 
 ## For health professionals and readers wanting more detail
 
+This section should focus on how clinicians can help the patient understand the subject and their own presentation, identify what may help, support symptom or functional improvement, and remain helpful when improvement is limited or not yet possible. It should include safety, accessibility, quality of life, and appropriate reassessment rather than treating symptom reduction as the only worthwhile outcome.
+
 - Patient-defined goals and multidimensional outcomes spanning symptoms, function, participation, safety, quality of life, and healthcare use.
 - Goal Attainment Scaling, patient-reported outcome measures, performance measures, episode counts, and individualized indicators.
 - Minimal clinically important difference, measurement burden, response shift, floor and ceiling effects, and fluctuating baselines.

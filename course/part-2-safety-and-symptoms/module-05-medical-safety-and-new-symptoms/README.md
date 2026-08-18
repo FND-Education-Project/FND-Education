@@ -2,6 +2,12 @@
 
 This is the authoring template for the short module overview. Keep the completed overview brief: introduce the subject, explain why the focused pages are separated, and help readers choose where to go next.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Use and explain the terms readers are likely to encounter: FND emergency plan; diagnostic overshadowing; new symptoms; changed symptoms; medical red flags; emergency information; FND safety. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.
@@ -20,20 +26,38 @@ This is the authoring template for the short module overview. Keep the completed
 
 **What should the reader open next?** Link and briefly distinguish these focused pages: [Familiar Symptoms, New Symptoms, and Medical Change](01-familiar-symptoms-new-symptoms-and-medical-change.md); [Emergency Information and Individual Safety Plans](02-emergency-information-and-individual-safety-plans.md)
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Develop the supporter guidance from these points: Following the agreed plan while watching for unusual features. Describing observations calmly and avoiding diagnostic arguments during an emergency. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Keep care, consent, autonomy, and actions that may unintentionally make symptoms harder visible in the overview.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Clinicians and the Care Team
 
-**What else can look similar or coexist?** Explain that a familiar functional episode may resemble epilepsy, stroke, fainting, migraine, medication toxicity, infection, metabolic illness, or other emergencies. Do not create a universal diagnostic list; teach comparison with the person’s established pattern and individualized medical plan. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness.
+**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Explain that a familiar functional episode may resemble epilepsy, stroke, fainting, migraine, medication toxicity, infection, metabolic illness, or other emergencies. Do not create a universal diagnostic list; teach comparison with the person’s established pattern and individualized medical plan. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness.
 
-**How may clinicians assess this subject?** Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Diagnostic overshadowing, anchoring, premature closure, and iatrogenic harm in patients with an established FND diagnosis. Distinguishing a stereotyped, previously assessed event from altered semiology, new focal deficits, medical instability, intoxication, withdrawal, infection, or injury. Handover language that separates confirmed diagnosis, usual presentation, current differences, observed physiology, and unresolved risk. Periodic clinical review of episode plans after diagnostic or medical change. Explain both the value and limitations of each step.
+**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Diagnostic overshadowing, anchoring, premature closure, and iatrogenic harm in patients with an established FND diagnosis. Distinguishing a stereotyped, previously assessed event from altered semiology, new focal deficits, medical instability, intoxication, withdrawal, infection, or injury. Handover language that separates confirmed diagnosis, usual presentation, current differences, observed physiology, and unresolved risk. Periodic clinical review of episode plans after diagnostic or medical change. Explain both the value and limitations of each step.
 
-**What treatment or management has been studied or recommended?** Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Advance care information, accessibility needs, consent, capacity, and supporter roles. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added.
+**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Advance care information, accessibility needs, consent, capacity, and supporter roles. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added.
 
-**When should the person be medically reassessed?** This is the central reassessment page. Cover new or substantially changed symptoms, significant injury, breathing or circulation concerns, prolonged unresponsiveness, severe acute illness, unusual recovery, and any individualized criteria supplied by clinicians. Keep the eventual wording calm and non-alarmist. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm.
+**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. This is the central reassessment page. Cover new or substantially changed symptoms, significant injury, breathing or circulation concerns, prolonged unresponsiveness, severe acute illness, unusual recovery, and any individualized criteria supplied by clinicians. Keep the eventual wording calm and non-alarmist. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## Research and Sources
 
 **Which evidence and source notes will the completed overview need?** Use a small number of broad sources that support the module’s shared introduction. Record which focused page owns each detailed claim so the overview does not become a second full article. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes.

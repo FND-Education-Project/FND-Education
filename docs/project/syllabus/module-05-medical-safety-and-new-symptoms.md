@@ -22,6 +22,8 @@ Reduce both diagnostic overshadowing and unnecessary emergency responses by teac
 
 ## For health professionals and readers wanting more detail
 
+This section should focus on how clinicians can help the patient understand the subject and their own presentation, identify what may help, support symptom or functional improvement, and remain helpful when improvement is limited or not yet possible. It should include safety, accessibility, quality of life, and appropriate reassessment rather than treating symptom reduction as the only worthwhile outcome.
+
 - Diagnostic overshadowing, anchoring, premature closure, and iatrogenic harm in patients with an established FND diagnosis.
 - Distinguishing a stereotyped, previously assessed event from altered semiology, new focal deficits, medical instability, intoxication, withdrawal, infection, or injury.
 - Individualized thresholds for emergency escalation and the limitations of generic red-flag education.

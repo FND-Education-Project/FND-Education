@@ -13,6 +13,8 @@ The course architecture, evidence standards, accessibility goals, practical self
 - Reorganized the course into 23 module folders.
 - Created a short overview template plus one to four focused templates for every module.
 - Applied the same four visible sections and 15 recurring authoring questions to all 76 pages.
+- Re-centred the clinician questions on patient understanding, individualized help, realistic improvement, and continuing support when improvement is limited.
+- Added repeated on-page links so readers can move directly among the person, supporter, clinician, and research sections.
 - Revised the course-organization decisions using the completed page structure.
 
 ## Current priorities

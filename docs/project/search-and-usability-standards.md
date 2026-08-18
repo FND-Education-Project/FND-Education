@@ -10,6 +10,7 @@ Every substantive educational page will include:
 - relevant clinical terminology and common synonyms;
 - a short summary near the top;
 - the standard page sections;
+- repeated on-page links to the person, supporter, clinician, and research sections;
 - short sections with descriptive headings;
 - important terms defined where they first appear;
 - links to related topics;
@@ -44,4 +45,5 @@ Older terms should be labelled historical, outdated, disputed, or potentially st
 - Avoid duplicating full explanations across several pages; summarize and link to the canonical explanation.
 - Use meaningful link text that explains the destination.
 - Keep summaries and practical actions easy to relocate on a return visit.
+- Repeat the four standard section links before each major section so readers do not have to return to the top of a long page.
 

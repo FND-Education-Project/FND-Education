@@ -23,6 +23,8 @@ Explain why psychological treatment can be relevant without defining FND as imag
 
 ## For health professionals and readers wanting more detail
 
+This section should focus on how clinicians can help the patient understand the subject and their own presentation, identify what may help, support symptom or functional improvement, and remain helpful when improvement is limited or not yet possible. It should include safety, accessibility, quality of life, and appropriate reassessment rather than treating symptom reduction as the only worthwhile outcome.
+
 - Evidence for CBT-informed treatment of functional seizures and the more limited or heterogeneous evidence across other FND phenotypes.
 - Treatment targets including symptom fear, avoidance, attentional processes, illness beliefs, coping, emotion regulation, dissociation, mood, and interpersonal consequences.
 - Acceptance and Commitment Therapy, mindfulness-based approaches, psychodynamic therapy, trauma-focused treatment, and other modalities with accurate evidence labelling.

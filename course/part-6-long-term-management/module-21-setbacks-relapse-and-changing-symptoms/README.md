@@ -2,6 +2,12 @@
 
 This is the authoring template for the short module overview. Keep the completed overview brief: introduce the subject, explain why the focused pages are separated, and help readers choose where to go next.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Use and explain the terms readers are likely to encounter: FND relapse; FND setback; symptom flare; changing symptoms; relapse plan; reassessment; recovery plan. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.
@@ -20,20 +26,38 @@ This is the authoring template for the short module overview. Keep the completed
 
 **What should the reader open next?** Link and briefly distinguish these focused pages: [Recognizing a Setback Versus Medical Change](01-recognizing-a-setback-versus-medical-change.md); [Responding, Recovering, and Updating the Plan](02-responding-recovering-and-updating-the-plan.md)
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Develop the supporter guidance from these points: Using the written plan instead of improvising during distress. Offering reminders without claiming to know why symptoms worsened. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Keep care, consent, autonomy, and actions that may unintentionally make symptoms harder visible in the overview.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Clinicians and the Care Team
 
-**What else can look similar or coexist?** Distinguish ordinary fluctuation from injury, infection, medication change, a new neurological or medical condition, deconditioning, sleep disruption, migraine, or a different episodic disorder. A setback should not become a label for every change. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness.
+**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Distinguish ordinary fluctuation from injury, infection, medication change, a new neurological or medical condition, deconditioning, sleep disruption, migraine, or a different episodic disorder. A setback should not become a label for every change. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness.
 
-**How may clinicians assess this subject?** Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Reassessment thresholds, safety-netting, and avoiding diagnostic overshadowing. Explain both the value and limitations of each step.
+**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Reassessment thresholds, safety-netting, and avoiding diagnostic overshadowing. Explain both the value and limitations of each step.
 
-**What treatment or management has been studied or recommended?** Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Accumulated physical, cognitive, emotional, environmental, interpersonal, and healthcare load. Temporary rehabilitation modification without abandoning goals or enforcing progression during instability. Using setbacks to update formulation and plans while avoiding unsupported causal certainty. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added.
+**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Accumulated physical, cognitive, emotional, environmental, interpersonal, and healthcare load. Temporary rehabilitation modification without abandoning goals or enforcing progression during instability. Using setbacks to update formulation and plans while avoiding unsupported causal certainty. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added.
 
-**When should the person be medically reassessed?** Make the distinction central: use the established plan for familiar fluctuation, but seek reassessment for new, severe, injured, sustained, or substantially changed symptoms. Update the plan when the former baseline or event pattern no longer applies. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm.
+**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Make the distinction central: use the established plan for familiar fluctuation, but seek reassessment for new, severe, injured, sustained, or substantially changed symptoms. Update the plan when the former baseline or event pattern no longer applies. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## Research and Sources
 
 **Which evidence and source notes will the completed overview need?** Use a small number of broad sources that support the module’s shared introduction. Record which focused page owns each detailed claim so the overview does not become a second full article. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes.

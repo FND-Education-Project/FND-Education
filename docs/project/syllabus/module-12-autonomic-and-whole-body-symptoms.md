@@ -22,6 +22,8 @@ Explain common whole-body complaints while avoiding unsupported claims that all 
 
 ## For health professionals and readers wanting more detail
 
+This section should focus on how clinicians can help the patient understand the subject and their own presentation, identify what may help, support symptom or functional improvement, and remain helpful when improvement is limited or not yet possible. It should include safety, accessibility, quality of life, and appropriate reassessment rather than treating symptom reduction as the only worthwhile outcome.
+
 - Sympathetic, parasympathetic, enteric, baroreflex, thermoregulatory, and cardiorespiratory physiology relevant to reported symptoms.
 - Evidence concerning autonomic measures in FND and the limitations of small, heterogeneous, state-dependent studies.
 - Differential diagnosis involving orthostatic intolerance, POTS, vasovagal syncope, arrhythmia, endocrine disease, infection, medication effects, withdrawal, dehydration, migraine, and sleep disorders.

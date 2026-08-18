@@ -23,6 +23,8 @@ Help readers understand professional roles and assemble realistic care when spec
 
 ## For health professionals and readers wanting more detail
 
+This section should focus on how clinicians can help the patient understand the subject and their own presentation, identify what may help, support symptom or functional improvement, and remain helpful when improvement is limited or not yet possible. It should include safety, accessibility, quality of life, and appropriate reassessment rather than treating symptom reduction as the only worthwhile outcome.
+
 - Diagnostic ownership, longitudinal neurological review, primary-care coordination, and multidisciplinary or interdisciplinary models.
 - Discipline-specific competencies in FND physiotherapy, occupational therapy, speech-language therapy, neuropsychology, psychology, psychiatry, and rehabilitation medicine.
 - Management of comorbid neurological, psychiatric, pain, migraine, sleep, and systemic conditions without fragmenting care.

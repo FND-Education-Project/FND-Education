@@ -2,6 +2,12 @@
 
 This is a focused authoring template within Module 20. Build the completed page around this scope: Cover functional demands, variable capacity, attendance, remote or reduced schedules, task changes, sensory and cognitive accommodations, vocational rehabilitation, disability documentation, benefits, and the risks of premature or forced return.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND work; return to work; disability; accommodations; education; vocational rehabilitation; community participation; variable capacity; disability benefits. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Work, School, Disability, and Accommodations.” Mark historical, disputed, or potentially stigmatizing language clearly.
@@ -20,20 +26,38 @@ This is a focused authoring template within Module 20. Build the completed page 
 
 **What should the reader open next?** Use these module links: [Module overview](README.md); [Community Participation, Meaningful Roles, and Variable Capacity](02-community-participation-meaningful-roles-and-variable-capacity.md) Add cross-module links later only when they answer a clear next question.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Work, School, Disability, and Accommodations.” Develop the supporter guidance from these points: Respecting both rehabilitation hopes and current disability. Avoiding employment or productivity as a measure of worth. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Clinicians and the Care Team
 
-**What else can look similar or coexist?** Narrow the differential and overlap material to this page. Use this section to separate diagnosis from functional capacity. Limitations may come from FND, pain, migraine, fatigue, cognitive symptoms, equipment needs, another medical condition, or inaccessible surroundings, and the combination matters more than the label. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Use this section to separate diagnosis from functional capacity. Limitations may come from FND, pain, migraine, fatigue, cognitive symptoms, equipment needs, another medical condition, or inaccessible surroundings, and the combination matters more than the label. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
 
-**How may clinicians assess this subject?** Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Risks of premature return, rigid progression, prolonged unnecessary exclusion, and making employment a treatment test. Jurisdiction-specific legal and benefits information requiring separate, current, locally reviewed resources. Explain both the value and limitations of each step.
+**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Risks of premature return, rigid progression, prolonged unnecessary exclusion, and making employment a treatment test. Jurisdiction-specific legal and benefits information requiring separate, current, locally reviewed resources. Explain both the value and limitations of each step.
 
-**What treatment or management has been studied or recommended?** Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Graduated return-to-work or education, accommodations, vocational rehabilitation, and relapse planning where appropriate. Risks of premature return, rigid progression, prolonged unnecessary exclusion, and making employment a treatment test. Documentation of function, reliability, endurance, cognitive or sensory load, safety, recovery time, and support needs. Severe and persistent FND, rehabilitation access, maintenance care, and palliative approaches to symptom burden without implying terminal illness. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Graduated return-to-work or education, accommodations, vocational rehabilitation, and relapse planning where appropriate. Risks of premature return, rigid progression, prolonged unnecessary exclusion, and making employment a treatment test. Documentation of function, reliability, endurance, cognitive or sensory load, safety, recovery time, and support needs. Severe and persistent FND, rehabilitation access, maintenance care, and palliative approaches to symptom burden without implying terminal illness. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
 
-**When should the person be medically reassessed?** Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Recommend review when work or school causes sustained deterioration, safety incidents, repeated absence, inability to recover, or when accommodations no longer match capacity. Benefits and legal guidance must be current and specific to the reader’s jurisdiction. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Recommend review when work or school causes sustained deterioration, safety incidents, repeated absence, inability to recover, or when accommodations no longer match capacity. Benefits and legal guidance must be current and specific to the reader’s jurisdiction. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## Research and Sources
 
 **Which evidence and source notes will the completed page need?** Build a focused evidence record for “Work, School, Disability, and Accommodations”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.

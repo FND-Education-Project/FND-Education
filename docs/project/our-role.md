@@ -20,3 +20,7 @@ Categorical statements such as “FND is caused by…,” “This happens becaus
 
 Readers should be able to tell where an idea came from, how strong the evidence is, and where present knowledge ends.
 
+
+## Information for clinicians and care teams
+
+The clinician sections are intended to make evidence practically useful in patient care. They should help a clinician explain the subject and the patient’s individual presentation, assess what may help, support symptom or functional improvement, and remain helpful when improvement is limited or not yet possible. They should preserve diagnostic reasoning, safety, uncertainty, and reassessment while keeping the patient’s understanding, function, autonomy, accessibility, and quality of life at the centre.

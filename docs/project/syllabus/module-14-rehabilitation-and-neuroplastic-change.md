@@ -23,6 +23,8 @@ Explain rehabilitation learning while correcting claims that neuroplasticity gua
 
 ## For health professionals and readers wanting more detail
 
+This section should focus on how clinicians can help the patient understand the subject and their own presentation, identify what may help, support symptom or functional improvement, and remain helpful when improvement is limited or not yet possible. It should include safety, accessibility, quality of life, and appropriate reassessment rather than treating symptom reduction as the only worthwhile outcome.
+
 - Experience-dependent plasticity, motor learning, attention, expectation, prediction error, agency, and automatic control as relevant rehabilitation concepts.
 - External focus, task-oriented practice, implicit learning, rhythm, distraction, shaping, and graded complexity.
 - Baseline selection, dose, repetition, variability of practice, feedback schedules, and transfer into daily activities.

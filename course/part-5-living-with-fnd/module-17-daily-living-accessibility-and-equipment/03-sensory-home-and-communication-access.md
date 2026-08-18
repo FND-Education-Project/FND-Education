@@ -2,6 +2,12 @@
 
 This is a focused authoring template within Module 17. Build the completed page around this scope: Cover lighting, sound, clutter, layout, navigation, communication cards or devices, remote access, printable information, home changes, temporary and long-term accommodations, and disability rights.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND accessibility; daily living; occupational therapy; mobility aids; wheelchair; walker; cane; home adaptations; communication aids; disability equipment. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Sensory, Home, and Communication Access.” Mark historical, disputed, or potentially stigmatizing language clearly.
@@ -20,20 +26,38 @@ This is a focused authoring template within Module 17. Build the completed page 
 
 **What should the reader open next?** Use these module links: [Module overview](README.md); [Adapting Personal Care and Household Tasks](01-adapting-personal-care-and-household-tasks.md); [Mobility Aids, Wheelchairs, Seating, and Fall Safety](02-mobility-aids-wheelchairs-seating-and-fall-safety.md) Add cross-module links later only when they answer a clear next question.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Sensory, Home, and Communication Access.” Develop the supporter guidance from these points: Asking before helping and avoiding automatic takeover. Recognizing when a task is unsafe for either person. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Clinicians and the Care Team
 
-**What else can look similar or coexist?** Narrow the differential and overlap material to this page. Use this section to separate functional limitations from injury, pain, joint instability, cardiopulmonary limits, visual or vestibular disease, cognitive impairment, and environmental inaccessibility. Several may require accommodation at the same time. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Use this section to separate functional limitations from injury, pain, joint instability, cardiopulmonary limits, visual or vestibular disease, cognitive impairment, and environmental inaccessibility. Several may require accommodation at the same time. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
 
-**How may clinicians assess this subject?** Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Collaborative trials, functional goals, training, maintenance, funding documentation, and planned reassessment. Explain both the value and limitations of each step.
+**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Collaborative trials, functional goals, training, maintenance, funding documentation, and planned reassessment. Explain both the value and limitations of each step.
 
-**What treatment or management has been studied or recommended?** Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Activity analysis across personal care, instrumental activities, mobility, communication, cognition, and community access. Environmental modification, task simplification, fatigue management, sensory adaptation, seating, positioning, transfer, fall, and episode safety. Individual prescription of canes, walkers, wheelchairs, orthoses, bathroom equipment, and augmentative communication. Tensions among immediate access, secondary complications, deconditioning, learned reliance, participation, and rehabilitation goals. Lack of evidence supporting blanket prohibition or blanket endorsement of mobility aids in FND. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Activity analysis across personal care, instrumental activities, mobility, communication, cognition, and community access. Environmental modification, task simplification, fatigue management, sensory adaptation, seating, positioning, transfer, fall, and episode safety. Individual prescription of canes, walkers, wheelchairs, orthoses, bathroom equipment, and augmentative communication. Tensions among immediate access, secondary complications, deconditioning, learned reliance, participation, and rehabilitation goals. Lack of evidence supporting blanket prohibition or blanket endorsement of mobility aids in FND. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
 
-**When should the person be medically reassessed?** Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Recommend review after falls, skin problems, pain, unsafe transfers, caregiver injury, major functional change, equipment no longer fitting, or a change in rehabilitation goals. Equipment should be adjusted or replaced rather than treated as permanent by default. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Recommend review after falls, skin problems, pain, unsafe transfers, caregiver injury, major functional change, equipment no longer fitting, or a change in rehabilitation goals. Equipment should be adjusted or replaced rather than treated as permanent by default. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## Research and Sources
 
 **Which evidence and source notes will the completed page need?** Build a focused evidence record for “Sensory, Home, and Communication Access”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.

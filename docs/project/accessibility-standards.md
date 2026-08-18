@@ -6,6 +6,7 @@ The project will aim for:
 
 - short, readable paragraphs;
 - a predictable page structure;
+- the same four on-page section links repeated before each major section;
 - descriptive headings;
 - plain language without removing necessary medical precision;
 - strong contrast without unnecessary visual clutter;

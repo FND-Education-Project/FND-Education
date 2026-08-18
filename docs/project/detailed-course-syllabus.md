@@ -28,6 +28,14 @@ A support person should be better able to:
 - recognize the limits of the support-person role;
 - protect their own health and the underlying relationship.
 
+A clinician or care-team member should be better able to:
+
+- explain the subject and the patient’s own presentation clearly and respectfully;
+- assess what may help that individual rather than only confirm a label;
+- support symptom improvement, function, safety, participation, and quality of life;
+- remain useful when improvement is limited or not yet possible;
+- recognize when new information, non-response, harm, or clinical change requires reassessment.
+
 ---
 
 ---
@@ -170,4 +178,4 @@ Every overview and focused page uses four visible sections:
 3. **For Clinicians and the Care Team**
 4. **Research and Sources**
 
-Within those sections, 15 recurring authoring questions preserve the original page requirements: terminology, short summary, research findings, uncertainty, lived presentation, at-home ideas, questions for clinicians, related reading, supporter guidance, differential diagnoses, clinical assessment, treatment, medical reassessment, evidence notes, and last-reviewed date.
+Within those sections, 15 recurring authoring questions preserve the original page requirements: terminology, short summary, research findings, uncertainty, lived presentation, at-home ideas, questions for clinicians, related reading, supporter guidance, clinician explanation, individualized assessment, support for improvement, continuing support when improvement is limited, evidence notes, and last-reviewed date. Differential diagnosis, safety-netting, and medical reassessment remain within the clinician questions rather than disappearing from the page.

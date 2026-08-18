@@ -2,6 +2,12 @@
 
 This is a focused authoring template within Module 14. Build the completed page around this scope: Explain practice, attention, expectation, automatic function, external focus, meaningful tasks, learning, feedback, confidence, and transfer to daily activities while distinguishing rehabilitation from trying harder.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND rehabilitation; neuroplasticity; motor retraining; automatic movement; external focus; physiotherapy; occupational therapy; speech therapy; graded rehabilitation. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “How FND Rehabilitation May Work.” Mark historical, disputed, or potentially stigmatizing language clearly.
@@ -20,20 +26,38 @@ This is a focused authoring template within Module 14. Build the completed page 
 
 **What should the reader open next?** Use these module links: [Module overview](README.md); [Building a Safe Practice Plan and Evaluating Neuroplasticity Claims](02-building-a-safe-practice-plan-and-evaluating-neuroplasticity-claims.md) Add cross-module links later only when they answer a clear next question.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “How FND Rehabilitation May Work.” Develop the supporter guidance from these points: Encouraging practice without becoming the therapist. Praising effort, strategy, and participation rather than demanding normal performance. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## For Clinicians and the Care Team
 
-**What else can look similar or coexist?** Narrow the differential and overlap material to this page. Distinguish rehabilitation targets from untreated pain, joint or muscle injury, neurological disease, cardiopulmonary limits, severe post-exertional worsening, and environmental barriers. Improvement with a technique supports its usefulness but does not prove the diagnosis or mechanism by itself. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Distinguish rehabilitation targets from untreated pain, joint or muscle injury, neurological disease, cardiopulmonary limits, severe post-exertional worsening, and environmental barriers. Improvement with a technique supports its usefulness but does not prove the diagnosis or mechanism by itself. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
 
-**How may clinicians assess this subject?** Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Therapeutic education and demonstration of positive signs without implying conscious production. Explain both the value and limitations of each step.
+**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Therapeutic education and demonstration of positive signs without implying conscious production. Explain both the value and limitations of each step.
 
-**What treatment or management has been studied or recommended?** Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Experience-dependent plasticity, motor learning, attention, expectation, prediction error, agency, and automatic control as relevant rehabilitation concepts. External focus, task-oriented practice, implicit learning, rhythm, distraction, shaping, and graded complexity. Baseline selection, dose, repetition, variability of practice, feedback schedules, and transfer into daily activities. Therapeutic education and demonstration of positive signs without implying conscious production. Fear, threat, pain, fatigue, sensory load, and comorbidity as modifiers of rehabilitation. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Experience-dependent plasticity, motor learning, attention, expectation, prediction error, agency, and automatic control as relevant rehabilitation concepts. External focus, task-oriented practice, implicit learning, rhythm, distraction, shaping, and graded complexity. Baseline selection, dose, repetition, variability of practice, feedback schedules, and transfer into daily activities. Therapeutic education and demonstration of positive signs without implying conscious production. Fear, threat, pain, fatigue, sensory load, and comorbidity as modifiers of rehabilitation. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
 
-**When should the person be medically reassessed?** Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Flag new injury, repeated falls, substantial delayed worsening, new neurological signs, unsafe exertion, or a program that ignores pain, fatigue, breathing, or another diagnosed condition. The plan should be reviewed rather than treating worsening as lack of effort. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Flag new injury, repeated falls, substantial delayed worsening, new neurological signs, unsafe exertion, or a program that ignores pain, fatigue, breathing, or another diagnosed condition. The plan should be reviewed rather than treating worsening as lack of effort. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ## Research and Sources
 
 **Which evidence and source notes will the completed page need?** Build a focused evidence record for “How FND Rehabilitation May Work”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.

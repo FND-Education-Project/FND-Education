@@ -22,6 +22,8 @@ Help the reader organize a complicated condition into a useful personal map with
 
 ## For health professionals and readers wanting more detail
 
+This section should focus on how clinicians can help the patient understand the subject and their own presentation, identify what may help, support symptom or functional improvement, and remain helpful when improvement is limited or not yet possible. It should include safety, accessibility, quality of life, and appropriate reassessment rather than treating symptom reduction as the only worthwhile outcome.
+
 - Separating diagnosed functional phenomena, associated non-motor symptoms, comorbid disorders, medication effects, and unresolved differential diagnoses.
 - Temporal relationships among vulnerabilities, precipitants, warning symptoms, triggers, maintaining factors, and consequences.
 - Individual variability, context dependence, and preserved or intermittently accessible function.

@@ -23,6 +23,8 @@ Combine the course’s practical work into one accessible personal reference.
 
 ## For health professionals and readers wanting more detail
 
+This section should focus on how clinicians can help the patient understand the subject and their own presentation, identify what may help, support symptom or functional improvement, and remain helpful when improvement is limited or not yet possible. It should include safety, accessibility, quality of life, and appropriate reassessment rather than treating symptom reduction as the only worthwhile outcome.
+
 - A structured portable record separating confirmed diagnosis, positive evidence, comorbidity, uncertainty, and individualized formulation.
 - Concise description of usual semiology, baseline function, communication access, mobility, sensory needs, and supporter roles.
 - Medication reconciliation, treatment history, adverse responses, current goals, and discipline-specific responsibilities.

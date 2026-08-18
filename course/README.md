@@ -11,6 +11,10 @@ Every overview and focused page uses the same four visible sections:
 
 Within those four sections, 15 recurring authoring questions preserve the project’s full page standard.
 
+The clinician section is not simply an advanced fact sheet. Its recurring questions focus on how clinicians can help the patient understand the subject and their own presentation, assess what may help, support symptom or functional improvement, and remain useful when improvement is limited or not yet possible. Differential diagnosis, treatment evidence, safety, accessibility, quality of life, and reassessment remain part of that patient-centred purpose.
+
+The same four on-page links are repeated before each major section so a reader can move directly among the person, supporter, clinician, and research material without returning to the top.
+
 [Review the revised course-organization decisions](../docs/project/course-organization-decisions.md)
 
 ## Part One: Understanding FND

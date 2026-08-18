@@ -23,6 +23,8 @@ Explain functional motor symptoms and introduce evidence-informed rehabilitation
 
 ## For health professionals and readers wanting more detail
 
+This section should focus on how clinicians can help the patient understand the subject and their own presentation, identify what may help, support symptom or functional improvement, and remain helpful when improvement is limited or not yet possible. It should include safety, accessibility, quality of life, and appropriate reassessment rather than treating symptom reduction as the only worthwhile outcome.
+
 - Functional weakness, tremor, myoclonus, dystonia, parkinsonism, gait disorders, and mixed motor presentations.
 - Positive signs including Hoover’s sign, hip abductor sign, drift without pronation, entrainment, distractibility, variability, and incongruent gait patterns.
 - Automatic versus explicit motor control, self-focused attention, agency, expectation, and motor prediction.

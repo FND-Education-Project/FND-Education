@@ -22,6 +22,8 @@ Present leading scientific models without turning any one model into a universal
 
 ## For health professionals and readers wanting more detail
 
+This section should focus on how clinicians can help the patient understand the subject and their own presentation, identify what may help, support symptom or functional improvement, and remain helpful when improvement is limited or not yet possible. It should include safety, accessibility, quality of life, and appropriate reassessment rather than treating symptom reduction as the only worthwhile outcome.
+
 - Predisposing, precipitating, and perpetuating formulations and the limits of applying group-level factors to individuals.
 - Distinctions among cause, mechanism, mediator, moderator, risk marker, trigger, and maintaining factor.
 - Network-level findings involving attention, salience, agency, motor control, emotion processing, and interoception.

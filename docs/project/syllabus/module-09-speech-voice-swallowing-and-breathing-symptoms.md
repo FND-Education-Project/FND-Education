@@ -22,6 +22,8 @@ Explain communication and upper-airway symptoms while giving safety issues appro
 
 ## For health professionals and readers wanting more detail
 
+This section should focus on how clinicians can help the patient understand the subject and their own presentation, identify what may help, support symptom or functional improvement, and remain helpful when improvement is limited or not yet possible. It should include safety, accessibility, quality of life, and appropriate reassessment rather than treating symptom reduction as the only worthwhile outcome.
+
 - Functional dysphonia, aphonia, dysarthria-like symptoms, mutism, stuttering, prosodic change, foreign-accent presentations, and language-access symptoms.
 - Functional dysphagia, globus, cough, inducible laryngeal obstruction, and breathing-pattern disorder, including areas of overlap and diagnostic uncertainty.
 - Positive clinical features, variability, automatic-voluntary dissociation, task effects, and response to symptomatic techniques.

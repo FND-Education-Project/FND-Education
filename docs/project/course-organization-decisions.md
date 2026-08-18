@@ -119,6 +119,10 @@ The selected structure is:
 
 The completed Module 1 pilot applies the structure to the overview and both focused pages. Each page shows the complete three-page reading order, leaves the current page unlinked, places previous and next navigation immediately before Research and Sources, and repeats only the compact source groups needed to stand alone. Seven stable citation IDs are now tracked in the central index.
 
+## Clinician-section principle
+
+The clinician section on every overview and focused page will be centred on practical help to the patient rather than functioning only as an advanced information section. Its four recurring questions ask how clinicians can help the patient understand the subject and their own presentation, assess what may help, support symptom or functional improvement, and remain useful when improvement is limited, unlikely, or not yet possible. Existing material on differential diagnosis, examination, treatment evidence, safety, and medical reassessment remains, but it serves those patient-centred purposes.
+
 # Current Page Distribution
 
 - 2 pages: Modules 4 and 23
