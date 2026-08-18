@@ -4,6 +4,8 @@ This is a focused authoring template within Module 1. The human author should us
 
 ## For the Person With FND
 
+Let's go over a few words that you may be unfamiliar with but will be used widely in this course.
+FND is now modelled as **biopsychosocial** rather than neurological or psychological. *What does this mean?* 
 **What other names and search terms should readers recognize?** Explain biopsychosocial model and biopsychosocial formulation in ordinary language. Briefly identify biological, psychological, and social factors; predisposing, precipitating, and perpetuating factors; risk factor; trigger; mechanism; prognosis; improvement; remission; and recovery. Do not treat these words as synonyms. Explain that psychogenic and conversion disorder are older or disputed terms a reader may still encounter.
 
 **What should a reader understand in about one minute?** Begin with the simplest explanation: health can be affected by the body and brain, thoughts and emotions, and the person’s relationships and circumstances. These areas may interact, but the model does not prove that all three caused one person’s FND. It is not a test for FND and does not mean symptoms are imagined, voluntary, caused by ordinary anxiety, or always linked to trauma. Recovery can mean different kinds of improvement and is not guaranteed to follow one path.
