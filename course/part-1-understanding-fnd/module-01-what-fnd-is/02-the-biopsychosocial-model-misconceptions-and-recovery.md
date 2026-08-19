@@ -11,31 +11,24 @@ This is a focused authoring template within Module 1. The human author should us
 ## For the Person With FND
 FND is now understood as a **biopsychosocial model** rather than neurological or psychological. *What does this mean?* 
 
-When we talk about the biopsychosocial model, it is in relation to how your **symptoms** are affected by, well, all aspects of your life and health, really. 
-- The 'bio' part refers to your biology; your current health issues and how your nervous system responds to things. It also includes what we talked about in module 1, that the way your brain talks to the rest of your body and nervous system is disrupted.
-- The 'psycho' or 'psychological' part of the word helps us to see that life stresses both past and present can strongly affect your symptoms. The psychology we are talking about here also includes how you cope with those stresses and your emotional self.
-- Finally, the 'social' aspect of this not only includes your culture but also your access to health care and the family and social support you have.
+When we talk about the *biopsychosocial model*, it is in relation to how your **symptoms** are affected by, well, all aspects of your life and health, really. 
+- **The *'bio'* part refers to your biology;** your current health issues and how your nervous system responds to things. It also includes what we talked about in module 1, that the way your brain talks to the rest of your body and nervous system is disrupted.
+- **The *'psycho'* or *'psychological'* part of the word helps us to see that life stresses both past and present can strongly affect your symptoms.** The psychology we are talking about here also includes how you cope with those stresses and your emotional self.
+- **Finally, the *'social'* aspect of this not only includes your culture but also your access to health care and the family and social support you have.**
 
 Let's talk about this in a way that is more familiar: the common headache. A headache can be triggered by lots of things: sore muscles, stress, an injury to your head. Likewise, FND can be triggered by a health issue, a specific injury or even a very stressful situation. When you have a headache, those same things can make it feel worse. 
 > With FND your symptoms can flare or become worse temporarily because of a stressful situation including a health situation.
 Like a headache, there are some medications that can make your symptoms less and, also like a headache, you might find meditation and relaxation a way to lower your symptoms as well.
 
+However, FND is not a headache. In fact, quality of life can be very poor. But, both your symptoms and that quality of life can improve.
 
+### Questions
+#### - How do you think building a good support group around you can improve the way you cope with your symptoms?
+#### - How do you think stress affects your symptoms? Have you noticed when your symptoms become worse?
 
-
-**What other names and search terms should readers recognize?** Explain biopsychosocial model and biopsychosocial formulation in ordinary language. Briefly identify biological, psychological, and social factors; predisposing, precipitating, and perpetuating factors; risk factor; trigger; mechanism; prognosis; improvement; remission; and recovery. Do not treat these words as synonyms. Explain that psychogenic and conversion disorder are older or disputed terms a reader may still encounter.
-
-**What should a reader understand in about one minute?** Begin with the simplest explanation: health can be affected by the body and brain, thoughts and emotions, and the person’s relationships and circumstances. These areas may interact, but the model does not prove that all three caused one person’s FND. It is not a test for FND and does not mean symptoms are imagined, voluntary, caused by ordinary anxiety, or always linked to trauma. Recovery can mean different kinds of improvement and is not guaranteed to follow one path.
-
-**What does research report?** Explain each part with concrete examples. Biological factors can include nervous-system function, illness, injury, pain, migraine, sleep, medication effects, and physical conditioning. Psychological factors can include attention, learning, expectations, emotions, stress, coping, and past experience without implying blame or unreality. Social factors can include family, culture, healthcare experiences, work or school, finances, discrimination, accessibility, and support. Explain how a formulation may organize possible vulnerabilities, triggers, and maintaining factors for care. Then distinguish that clinical framework from proposed mechanisms such as altered agency, attention, interoception, brain-network function, and predictive processing. State that psychological stress or trauma can matter for some people but is not required for diagnosis.
-
-**What do researchers not yet know?** Make the disagreements visible. Some accounts place more emphasis on psychosocial adversity and emotional processing; others emphasize neural circuits, learning, attention, agency, interoception, or predictive processing. These approaches may overlap, but none has been shown to explain every person or symptom. Researchers have not established how much each factor contributes in an individual, whether an observed difference is cause, consequence, or adaptation, or one universal route to recovery. Present the biopsychosocial model as a formulation framework, not a complete mechanism.
-
-**What can this feel or look like in ordinary life?** Use one or two fictional examples showing interaction without implying blame. For example, pain, poor sleep, fear after unpredictable episodes, inaccessible work, and loss of support may affect one another; a different person may have no clear psychological trigger. Show that a useful formulation can change over time. Then describe several valid outcomes: symptoms stopping, symptoms becoming less frequent or severe, safer self-management, improved movement or communication, returning to valued activities, better quality of life, or needing less support. Do not rank one person’s recovery against another’s.
-
-**What can the person safely try at home?** Offer a low-pressure three-column note headed body and brain, thoughts and feelings, and life and surroundings. The reader may write only factors they think are relevant now and may leave any column blank. A lower-demand option is to choose one current barrier to discuss with the care team. State that this is not a search for hidden trauma or personal fault, and that no one should pressure the reader to disclose experiences or adopt an explanation they do not accept. Stop if the exercise is distressing and discuss it with a trusted professional if helpful.
-
-**What questions might the person ask a clinician?** Prepare a short first-person list: “Are you using this model to explain cause, plan care, or both?”, “Which factors are supported by evidence in my case?”, “What alternatives have you considered?”, “Does treatment depend on finding stress or trauma?”, “What kinds of improvement are realistic to track?”, and “How will we adjust the plan if it is not helping?” Keep the list appointment-ready.
+### What can the person safely try at home?
+#### - If you are able, journal or at least begin to write down when your symptoms get worse. Did something happen just before? Taking note of this is a large part of improving your symptoms. Here's an idea: on the piece of paper make three columns. Each column has one of these headings: *"body and brain"*, *"thoughts and feelings"*, *"life and surroundings"*. Each time you find your symptoms worse, try to put something into each column.
+#### - Don't worry if you can't journal! Personally, my functional symptoms prevent me from remembering and I found journalling nearly impossible. However, I have been successful, over time, in understanding what triggers my symptoms to get worse.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
