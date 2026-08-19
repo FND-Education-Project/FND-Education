@@ -23,12 +23,12 @@ Like a headache, there are some medications that can make your symptoms less and
 However, FND is not a headache. In fact, quality of life can be very poor. But, both your symptoms and that quality of life can improve.
 
 ### Questions
-#### - How do you think building a good support group around you can improve the way you cope with your symptoms?
-#### - How do you think stress affects your symptoms? Have you noticed when your symptoms become worse?
+#### How do you think building a good support group around you can improve the way you cope with your symptoms?
+#### How do you think stress affects your symptoms? Have you noticed when your symptoms become worse?
 
 ### What can the person safely try at home?
-#### - If you are able, journal or at least begin to write down when your symptoms get worse. Did something happen just before? Taking note of this is a large part of improving your symptoms. Here's an idea: on the piece of paper make three columns. Each column has one of these headings: *"body and brain"*, *"thoughts and feelings"*, *"life and surroundings"*. Each time you find your symptoms worse, try to put something into each column.
-#### - Don't worry if you can't journal! Personally, my functional symptoms prevent me from remembering and I found journalling nearly impossible. However, I have been successful, over time, in understanding what triggers my symptoms to get worse.
+If you are able, journal or at least begin to write down when your symptoms get worse. Did something happen just before? Taking note of this is a large part of improving your symptoms. Here's an idea: on the piece of paper make three columns. Each column has one of these headings: *"body and brain"*, *"thoughts and feelings"*, *"life and surroundings"*. Each time you find your symptoms worse, try to put something into each column.
+Don't worry if you can't journal! Personally, my functional symptoms prevent me from remembering and I found journaling nearly impossible. However, I have been successful, over time, in understanding what triggers my symptoms to get worse.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
