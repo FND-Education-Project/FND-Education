@@ -1,6 +1,6 @@
 # Course Authoring Templates
 
-These files are structured notes for the human author, not completed educational articles. The course contains 23 module folders and 76 planned pages. Every module begins with a short overview and then links to one to four focused pages.
+These files are structured notes for the human author, not completed educational articles. The course contains 23 module folders and 77 planned pages. Every module begins with a short overview and then links to one to four focused pages.
 
 Every overview and focused page uses the same four visible sections:
 
@@ -19,7 +19,7 @@ The same four on-page links are repeated before each major section so a reader c
 
 ## Part One: Understanding FND
 
-- [What Is Functional Neurological Disorder?](part-1-understanding-fnd/module-01-what-fnd-is/README.md) — 3 pages
+- [What Is Functional Neurological Disorder?](part-1-understanding-fnd/module-01-what-fnd-is/README.md) — 4 pages
 - [How Is FND Diagnosed?](part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md) — 3 pages
 - [What May Cause or Affect FND?](part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/README.md) — 4 pages
 - [Map Your FND and Other Health Conditions](part-1-understanding-fnd/module-04-mapping-your-individual-condition/README.md) — 2 pages

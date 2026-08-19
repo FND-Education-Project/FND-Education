@@ -10,10 +10,12 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0004](#fnd-cit-0004) | Bègue et al., 2019 | Systematic neuroimaging review | structural findings, software/hardware analogy, mechanism uncertainty | [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
 | [FND-CIT-0005](#fnd-cit-0005) | Pick et al., 2019 | Peer-reviewed review | psychosocial adversity, emotional processing, biopsychosocial model | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
 | [FND-CIT-0006](#fnd-cit-0006) | Drane et al., 2021 | Peer-reviewed perspective | neural circuits, agency, attention, interoception, predictive processing | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [FND terminology glossary](../glossary/README.md) |
-| [FND-CIT-0007](#fnd-cit-0007) | Gelauff et al., 2014 | Systematic review | functional motor outcomes, prognosis, evidence limitations | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
+| [FND-CIT-0007](#fnd-cit-0007) | Gelauff et al., 2014 | Systematic review | functional motor outcomes, prognosis, evidence limitations | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
 | [FND-CIT-0008](#fnd-cit-0008) | Asadi-Pooya et al., 2020 | Systematic terminology review | functional seizures, PNES, terminology preferences | [FND terminology glossary](../glossary/README.md) |
 | [FND-CIT-0009](#fnd-cit-0009) | Hingray et al., 2025 | ILAE task-force terminology proposal | functional/dissociative seizures, FDS, seizure terminology | [FND terminology glossary](../glossary/README.md) |
 | [FND-CIT-0010](#fnd-cit-0010) | Tolchin et al., 2026 | AAN practice guideline | functional seizures, management, terminology, diagnostic communication | [FND terminology glossary](../glossary/README.md) |
+| [FND-CIT-0011](#fnd-cit-0011) | Nicholson et al., 2020 | Professional consensus recommendations | occupational therapy, remission and exacerbation, flexible goals | [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
+| [FND-CIT-0012](#fnd-cit-0012) | Rutten et al., 2025 | Qualitative stakeholder study | patient-centred outcomes, daily activities, quality of life | [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
 
 ## FND-CIT-0001
 
@@ -74,6 +76,18 @@ Use this source for the International League Against Epilepsy task force’s 202
 Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466)
 
 Use this source for current American Academy of Neurology evidence-based guidance on functional seizures, including diagnostic communication, evaluation for coexisting conditions, and management. The guideline uses “functional seizures” while noting alternative and historical labels; do not use it to imply that a single treatment or causal model applies to every person.
+
+## FND-CIT-0011
+
+Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281)
+
+Use this consensus source for flexible, person-chosen functional goals and its description of recovery as potentially involving remission and exacerbation. It is professional guidance rather than a prognosis study and should not be used to predict one person’s outcome.
+
+## FND-CIT-0012
+
+Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9)
+
+Use this source for the importance of patient-centred outcomes that include symptoms, emotional wellbeing, daily activities, independence and quality of life. It reports the views of a purposively sampled UK group and should not be treated as a population estimate or individual prognosis.
 
 # How Course Pages Should Use the Index
 

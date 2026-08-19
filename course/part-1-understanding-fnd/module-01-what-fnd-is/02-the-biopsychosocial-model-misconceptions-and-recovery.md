@@ -1,6 +1,6 @@
-# The Biopsychosocial Model, Misconceptions, and Recovery
+# The Biopsychosocial Model and Misconceptions
 
-This is a focused authoring template within Module 1. The human author should use the prompts below to explain the biopsychosocial model in simple language, prevent it from being mistaken for a diagnosis or universal cause, present credible alternative emphases, correct common misconceptions, and describe recovery without making promises. Source quotations are research notes, not finished lesson prose.
+This is a focused authoring template within Module 1. The human author should use the prompts below to explain the biopsychosocial model in simple language, prevent it from being mistaken for a diagnosis or universal cause, present credible alternative emphases, and correct common misconceptions. Source quotations are research notes, not finished lesson prose.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -37,9 +37,10 @@ Don't worry if you can't journal! Personally, my functional symptoms prevent me 
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 
-[Module overview](README.md) — the shortest introduction and guide to the module.
-[What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md) — terminology, symptom range, positive diagnosis, and the functional/structural distinction.
-**The Biopsychosocial Model, Misconceptions, and Recovery — current page**
+- [Module overview](README.md) — the shortest introduction and guide to the module.
+- [What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md) — terminology, symptom range, positive diagnosis, and the functional/structural distinction.
+- **The Biopsychosocial Model and Misconceptions — current page**
+- [Remission, Recovery, and What Improvement Can Mean](03-remission-recovery-and-what-improvement-can-mean.md) — a brief introduction to remission, recovery, relapse, and meaningful improvement.
 ***
 
 ## For Family, Friends, and Other Supporters
@@ -73,8 +74,16 @@ You are one of the sufferer's social group. You can help the person to try the v
 
 **How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** State that a biopsychosocial formulation and an existing FND diagnosis must not close medical review. New, severe, injured, or substantially changed symptoms, new examination findings, or a materially different pattern may require reassessment. Link the finished page to the medical-safety module rather than reproducing a complete emergency guide.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)  
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Research and Sources](#research-and-sources)
+***
 ⬅️ **Previous article:** [What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md)
 
+➡️ **Next article:** [Remission, Recovery, and What Improvement Can Mean](03-remission-recovery-and-what-improvement-can-mean.md)
+***
 ## Research and Sources
 
 **Which evidence and source notes will the completed page need?** Use the four selective source groups below. Espay and colleagues support the modern diagnostic position that psychological stress is not required. Pick and colleagues retain psychosocial adversity as a possible risk factor. Drane and colleagues present a circuit-and-construct framework. Gelauff and colleagues show that motor-outcome evidence is variable and methodologically limited. Present these as complementary or competing emphases where appropriate; none establishes one explanation or prognosis for an individual.

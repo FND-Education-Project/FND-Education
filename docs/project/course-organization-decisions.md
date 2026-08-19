@@ -1,6 +1,6 @@
 # Course Organization Decisions
 
-The course has now been reorganized into 23 module folders containing 76 planned pages. Every module has a short overview plus one to four focused pages. The earlier decision about using overview pages with focused child pages is therefore treated as accepted.
+The course has now been reorganized into 23 module folders containing 77 planned pages. Every module has a short overview plus one to four focused pages. The earlier decision about using overview pages with focused child pages is therefore treated as accepted.
 
 The questions below are the revised decisions revealed by the actual page structure. Nothing needs to be decided before authoring can begin; the current organization is usable as it stands.
 
@@ -102,7 +102,7 @@ Every page already has a supporter section, while the planned mini-course covers
 
 ## Decision 12 — How should citations work on standalone pages?
 
-**Status: Citation structure selected and piloted across all three Module 1 pages.**
+**Status: Citation structure selected for Module 1 and extended to the new remission-and-recovery page.**
 
 Every page will repeat the citations needed to support that page because readers may encounter it without the rest of the course. Repetition across pages is therefore intentional. Within one page, however, citations should not be repeated unnecessarily.
 
@@ -117,7 +117,7 @@ The selected structure is:
 7. Use paraphrase for the finished educational explanation; retain only quotations that are especially useful to the human author or reader.
 8. Keep a source section selective rather than exhaustive, adding evidence that changes or directly supports the page.
 
-The completed Module 1 pilot applies the structure to the overview and both focused pages. Each page shows the complete three-page reading order, leaves the current page unlinked, places previous and next navigation immediately before Research and Sources, and repeats only the compact source groups needed to stand alone. Seven stable citation IDs are now tracked in the central index.
+The Module 1 structure now covers the overview and three focused pages. Each page shows the complete four-page reading order, leaves the current page unlinked, places previous and next navigation immediately before Research and Sources, and repeats only the compact source groups needed to stand alone. Twelve stable citation IDs are now tracked in the central index.
 
 ## Clinician-section principle
 
@@ -126,8 +126,8 @@ The clinician section on every overview and focused page will be centred on prac
 # Current Page Distribution
 
 - 2 pages: Modules 4 and 23
-- 3 pages: Modules 1, 2, 5, 10, 12–16, 18–22
-- 4 pages: Modules 3, 6, 8, 9, and 17
+- 3 pages: Modules 2, 5, 10, 12–16, 18–22
+- 4 pages: Modules 1, 3, 6, 8, 9, and 17
 - 5 pages: Modules 7 and 11
 
 The median module length is three pages. No module exceeds five pages.

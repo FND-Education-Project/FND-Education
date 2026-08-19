@@ -32,7 +32,7 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 ### Part One — Understanding FND
 
-1. **What FND Is** — terminology, symptom families, involuntary symptoms, research-based explanations, and common misconceptions.
+1. **What FND Is** — terminology, symptom families, involuntary symptoms, research-based explanations, common misconceptions, and a brief introduction to remission and recovery.
 2. **How FND Is Diagnosed** — positive clinical signs, examination, appropriate testing, diagnostic uncertainty, and coexisting disease.
 3. **Causes, Mechanisms, and Honest Uncertainty** — current models, possible contributors, competing explanations, and the distinction between evidence and speculation.
 4. **Mapping Your Individual Condition** — primary symptoms, associated symptoms, separate diagnoses, medications, patterns, warning signs, strategies, and preserved abilities.

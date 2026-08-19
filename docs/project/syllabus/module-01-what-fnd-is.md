@@ -6,7 +6,7 @@
 
 ## Purpose
 
-Give readers a clear, evidence-traceable starting explanation without reducing FND to structural damage, “normal tests,” stress, trauma, or imagination.
+Give readers a clear, evidence-traceable starting explanation without reducing FND to structural damage, “normal tests,” stress, trauma, or imagination. Introduce remission and recovery briefly here; detailed treatment, relapse, and progress review belong in later modules.
 
 ## Essential knowledge
 

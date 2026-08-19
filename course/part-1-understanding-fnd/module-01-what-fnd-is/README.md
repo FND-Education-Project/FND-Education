@@ -28,7 +28,8 @@ This is the authoring template for the short module overview. Keep the completed
 
 - **Module overview — current page**
 - [What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md) — explain the name, the meaning of “functional,” involuntary symptoms, and the different ways FND may appear.
-- [The Biopsychosocial Model, Misconceptions, and Recovery](02-the-biopsychosocial-model-misconceptions-and-recovery.md) — explain the model in plain language, its uses and limitations, common misconceptions, and the different meanings of improvement.
+- [The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md) — explain the model in plain language, its uses and limitations, and common misconceptions.
+- [Remission, Recovery, and What Improvement Can Mean](03-remission-recovery-and-what-improvement-can-mean.md) — briefly distinguish remission, recovery, relapse, symptom change, function, and quality of life.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  

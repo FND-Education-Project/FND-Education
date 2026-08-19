@@ -42,11 +42,11 @@ A clinician or care-team member should be better able to:
 
 # Course Modules
 
-Each module title links to its complete syllabus page. The [course authoring index](../../course/README.md) links to the 23 module folders and their 76 overview and focused-page templates.
+Each module title links to its complete syllabus page. The [course authoring index](../../course/README.md) links to the 23 module folders and their 77 overview and focused-page templates.
 
 ## Part One: Understanding FND
 
-- [**Module 1 — What FND Is**](syllabus/module-01-what-fnd-is.md) — Give readers a clear, evidence-traceable starting explanation without reducing FND to structural damage, “normal tests,” stress, trauma, or imagination.
+- [**Module 1 — What FND Is**](syllabus/module-01-what-fnd-is.md) — Give readers a clear, evidence-traceable starting explanation without reducing FND to structural damage, “normal tests,” stress, trauma, or imagination, then briefly introduce remission and recovery.
 - [**Module 2 — How FND Is Diagnosed**](syllabus/module-02-how-fnd-is-diagnosed.md) — Explain positive diagnosis, appropriate investigation, and uncertainty without suggesting that every person has the same signs or needs the same tests.
 - [**Module 3 — Causes, Mechanisms, and Honest Uncertainty**](syllabus/module-03-causes-mechanisms-and-honest-uncertainty.md) — Present leading scientific models without turning any one model into a universal or proven cause.
 - [**Module 4 — Mapping Your Individual Condition**](syllabus/module-04-mapping-your-individual-condition.md) — Help the reader organize a complicated condition into a useful personal map without self-diagnosing.

@@ -93,7 +93,8 @@ Another useful thing to do is put into your own words what FND is and how to exp
 ***
 - [Module overview](README.md) — the shortest introduction and guide to the module.
 - **What “Functional” Means and How FND Can Appear — current page**
-- [The Biopsychosocial Model, Misconceptions, and Recovery](02-the-biopsychosocial-model-misconceptions-and-recovery.md) — a plain-language explanation of the model, its limits, common misconceptions, and meanings of recovery.
+- [The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md) — a plain-language explanation of the model, its limits, and common misconceptions.
+- [Remission, Recovery, and What Improvement Can Mean](03-remission-recovery-and-what-improvement-can-mean.md) — a brief introduction to the different ways people may understand improvement.
 ***
 ## For Family, Friends, and Other Supporters
 
@@ -136,7 +137,7 @@ This free online course is contributed to by those with lived experience in Func
 ***
 ⬅️ **Previous page:** [Module overview](README.md)
 
-➡️ **Next article:** [The Biopsychosocial Model, Misconceptions, and Recovery](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
+➡️ **Next article:** [The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
 ***
 ## Research and Sources
 
