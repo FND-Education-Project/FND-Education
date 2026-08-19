@@ -11,9 +11,14 @@ This is a focused authoring template within Module 1. The human author should us
 ## For the Person With FND
 FND is now understood as a **biopsychosocial model** rather than neurological or psychological. *What does this mean?* 
 
-When we talk about the biopsychosocial model, it is in relation to how your **symptoms** are affected by, well, all aspects of your life and health, really. The 'bio' part refers to your biology; your current health issues and how your nervous system responds to things. It also includes what we talked about in module 1, that the way your brain talks to the rest of your body and nervous system is disrupted. The 'psycho' or 'psychological' part of the word helps us to see that life stresses both past and present can strongly affect your symptoms. The psychology we are talking about here also includes how you cope with those stresses and your emotional self. Finally, the 'social' aspect of this not only includes your culture but also your access to health care and the family and social support you have.
+When we talk about the biopsychosocial model, it is in relation to how your **symptoms** are affected by, well, all aspects of your life and health, really. 
+- The 'bio' part refers to your biology; your current health issues and how your nervous system responds to things. It also includes what we talked about in module 1, that the way your brain talks to the rest of your body and nervous system is disrupted.
+- The 'psycho' or 'psychological' part of the word helps us to see that life stresses both past and present can strongly affect your symptoms. The psychology we are talking about here also includes how you cope with those stresses and your emotional self.
+- Finally, the 'social' aspect of this not only includes your culture but also your access to health care and the family and social support you have.
 
-Let's talk about this in a way that is more familiar: the common headache. A headache can be triggered by lots of things: sore muscles, stress, an injury to your head and likewise FND can be triggered by a health issue, a specific injury or even a very stressful situation. When you have a headache, those same things can make it feel worse. Likewise, with FND your symptoms can flare or become worse temporarily because of a stressful situation including a health situation. Like a headache, there are some medications that can make your symptoms less and, also like a headache, you might find meditation and relaxation a way to lower your symptoms as well.
+Let's talk about this in a way that is more familiar: the common headache. A headache can be triggered by lots of things: sore muscles, stress, an injury to your head. Likewise, FND can be triggered by a health issue, a specific injury or even a very stressful situation. When you have a headache, those same things can make it feel worse. 
+> With FND your symptoms can flare or become worse temporarily because of a stressful situation including a health situation.
+Like a headache, there are some medications that can make your symptoms less and, also like a headache, you might find meditation and relaxation a way to lower your symptoms as well.
 
 
 
