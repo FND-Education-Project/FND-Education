@@ -28,6 +28,7 @@ However, FND is not a headache. In fact, quality of life can be very poor. But, 
 
 ### What can the person safely try at home?
 If you are able, journal or at least begin to write down when your symptoms get worse. Did something happen just before? Taking note of this is a large part of improving your symptoms. Here's an idea: on the piece of paper make three columns. Each column has one of these headings: *"body and brain"*, *"thoughts and feelings"*, *"life and surroundings"*. Each time you find your symptoms worse, try to put something into each column.
+
 Don't worry if you can't journal! Personally, my functional symptoms prevent me from remembering and I found journaling nearly impossible. However, I have been successful, over time, in understanding what triggers my symptoms to get worse.
 
 ***
@@ -36,7 +37,6 @@ Don't worry if you can't journal! Personally, my functional symptoms prevent me 
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
-**What should the reader open next?** Show every Module 1 page in its fixed reading order. The current page is plain text; the others are links.
 
 - [Module overview](README.md) — the shortest introduction and guide to the module.
 - [What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md) — terminology, symptom range, positive diagnosis, and the functional/structural distinction.
@@ -44,7 +44,12 @@ Don't worry if you can't journal! Personally, my functional symptoms prevent me 
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Explain that a whole-person model is not permission to choose a cause for someone else. Supporters can ask what the person finds relevant, help reduce practical barriers, notice progress the person values, and respect privacy and consent. They should not search for trauma, blame stress, demand optimism, predict cure, or turn rehabilitation into supervision. Separate care during difficult periods from clinical decisions, and encourage reassessment of new or changed symptoms.
+As described earlier on this page, the 'biopsychosocial model' for FND talks about how those areas of life affect the sufferer's symptoms - both in positive ways and in negative ways. As a support person, we are not able to change the biology of the person. Their symptoms, regardless of how strange they can sometimes look, are just what a disconnect between body and mind looks like. There is currently no medication to treat FND. 
+
+That leaves just two areas: the psycho and the social. If there are other psychological stresses like a past or present trauma or a disorder that they have been diagnosed with it might be good to encourage them to carry on therapy. That said, I want to express a lot of caution: most therapists don't understand FND and even when some say they do, I personally have found that their concept isn't up to date.  In some parts of the world there are great FND clinics. It is probably not a good idea to push anyone with FND into therapy or a particular therapist. 
+
+> For the first few years, it was too triggering for me to attempt therapy but later, when I was ready, it proved helpful to work with some of my past traumas. The biggest thing I got from therapy was a better attitude towards my symptoms.
+> I also found it unhelpful when my support person's optimism was misplaced; all the many positive things they were doing for me made my life more comfortable, easier to adapt to, and made me feel safe. But, no matter what they did, FND was not going to go away. Our life had permanently changed.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -53,6 +58,9 @@ Don't worry if you can't journal! Personally, my functional symptoms prevent me 
 [Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
+
+> Up to 1 out of 5 people suffering with FND will end their life in suicide.
+
 
 **How can clinicians help the patient understand this subject and their own presentation?** Keep diagnostic reasoning separate from formulation. Anxiety, depression, post-traumatic stress, pain, migraine, sleep disorders, structural neurological disease, medication effects, and adverse social conditions can coexist with FND and deserve their own assessment. Malingering and factitious disorder involve different questions and should not be inferred from inconsistency or from the absence of a structural explanation. Avoid using a psychosocial narrative to override positive diagnostic evidence or to explain every symptom.
 
