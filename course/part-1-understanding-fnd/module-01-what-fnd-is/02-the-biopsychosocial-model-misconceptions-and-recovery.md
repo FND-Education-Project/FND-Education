@@ -64,8 +64,13 @@ You are one of the sufferer's social group. You can help the person to try the v
 ## For Clinicians and the Care Team
 
 In the previous article, it was shown that researchers have established that Functional Neurological Disorder sits *"at the interface between neurology and psychiatry"*. 
+**What is the biopsychosocial model?**
+- **What it is:** The biopsychosocial model is a way of looking at how the body and brain, thoughts and emotions, and a person’s life and surroundings may affect their health and recovery.
+- **What it isn’t**: It does not mean that FND is caused by thoughts, stress, trauma or mental illness. It does not replace a positive neurological diagnosis, and all three areas do not have to affect every person.
+
 > Up to 1 out of 5 people suffering with FND will end their life in suicide.
 
+The biopsychosocial model is a way of guiding individual support by looking at all the factors that influence the person's symptoms: psychological support when appropriate and assistance with education and employment are two examples. 
 
 **How can clinicians help the patient understand this subject and their own presentation?** Keep diagnostic reasoning separate from formulation. Anxiety, depression, post-traumatic stress, pain, migraine, sleep disorders, structural neurological disease, medication effects, and adverse social conditions can coexist with FND and deserve their own assessment. Malingering and factitious disorder involve different questions and should not be inferred from inconsistency or from the absence of a structural explanation. Avoid using a psychosocial narrative to override positive diagnostic evidence or to explain every symptom.
 
