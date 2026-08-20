@@ -37,10 +37,10 @@ Don't worry if you can't journal! Personally, my functional symptoms prevent me 
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 
-- [Module overview](README.md) — the shortest introduction and guide to the module.
-- [What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md) — terminology, symptom range, positive diagnosis, and the functional/structural distinction.
-- **The Biopsychosocial Model and Misconceptions — current page**
-- [Remission, Recovery, and What Improvement Can Mean](03-remission-recovery-and-what-improvement-can-mean.md) — a brief introduction to remission, recovery, relapse, and meaningful improvement.
+[Module overview](README.md) — the shortest introduction and guide to the module.
+[What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md) — terminology, symptom range, positive diagnosis, and the functional/structural distinction.
+**The Biopsychosocial Model and Misconceptions — current page**
+[Remission, Recovery, and What Improvement Can Mean](03-remission-recovery-and-what-improvement-can-mean.md) — a brief introduction to remission, recovery, relapse, and meaningful improvement.
 ***
 
 ## For Family, Friends, and Other Supporters
