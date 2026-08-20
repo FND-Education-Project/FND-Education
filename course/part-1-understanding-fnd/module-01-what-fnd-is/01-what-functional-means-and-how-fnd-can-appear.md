@@ -117,6 +117,14 @@ Supporting the person you are showing care to often involves assuring the person
 
 ## For Clinicians and the Care Team
 
+A 2022 paper titled, ***"Functional Neurological Disorder: new subtypes and shared mechanisms"*** makes three statements worth repeating here verbatim:
+1. "The pathophysiology of functional neurological disorder includes overactivity of the limbic system, the development of an **internal symptom model as part of a predictive coding framework**, and **dysfunction of brain networks that gives movement the sense of voluntariness**."
+2. "A new approach to the *positive diagnosis* of this disorder **focuses on *recognisable patterns* of genuinely experienced symptoms and signs** that show variability within the same task and between different tasks over time."
+3. "Psychological stressors **are common *risk factors*** for functional neurological disorder, but are often absent."
+4. "Four entities—functional seizures, functional movement disorders, persistent perceptual postural dizziness, and functional cognitive disorder—show similarities in aetiology and pathophysiology and are variants of a disorder at the interface between neurology and psychiatry."
+
+Clearly, this is a disease that is based on real dysfunction with a variety of causes that does not necessarily require a psychological stress. It's subtypes are well recognized and importantly, diagnosis can be made using positive clinical features.
+
 Here are some resources:
 - **[FND Hope - Medical Professionals](https://fndhope.org/living-fnd/physicians)**
 - **[neurosymptoms.org — Symptoms](https://neurosymptoms.org/en/symptoms/)** — Created by neurologist Professor Jon Stone, with contributions from other health professionals. Many symptom pages explain the positive clinical signs that clinicians may use to support a diagnosis, how the symptom may differ from similar symptoms caused by other conditions, and treatment or self-management approaches that may help.
