@@ -63,6 +63,7 @@ You are one of the sufferer's social group. You can help the person to try the v
 ***
 ## For Clinicians and the Care Team
 
+In the previous article, it was shown that researchers have established that Functional Neurological Disorder sits *"at the interface between neurology and psychiatry"*. 
 > Up to 1 out of 5 people suffering with FND will end their life in suicide.
 
 
