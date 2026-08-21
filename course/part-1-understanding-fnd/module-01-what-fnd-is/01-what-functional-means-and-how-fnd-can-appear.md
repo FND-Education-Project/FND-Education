@@ -1,4 +1,7 @@
 # What “Functional” Means and How FND Can Appear
+
+This page explains what the word “functional” means, how FND can appear, how clinicians can identify it, and why the symptoms are real and involuntary.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -89,12 +92,12 @@ Another useful thing to do is put into your own words what FND is and how to exp
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
-- [Module overview](README.md) — the shortest introduction and guide to the module.
-- **What “Functional” Means and How FND Can Appear — current page**
-- [The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md) — a plain-language explanation of the model, its limits, and common misconceptions.
-- [Remission, Recovery, and What Improvement Can Mean](03-remission-recovery-and-what-improvement-can-mean.md) — a brief introduction to the different ways people may understand improvement.
+[Research and Sources](#research-and-sources)  
+
+[Module overview](README.md) — the shortest introduction and guide to the module.  
+**What “Functional” Means and How FND Can Appear — current page**  
+[The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md) — a plain-language explanation of the model, its limits, and common misconceptions.  
+[Remission, Recovery, and What Improvement Can Mean](03-remission-recovery-and-what-improvement-can-mean.md) — a brief introduction to the different ways people may understand improvement.
 ***
 ## For Family, Friends, and Other Supporters
 
@@ -172,3 +175,5 @@ This free online course is contributed to by those with lived experience in Func
 | <a id="citation-11"></a>**[11]** | *Figure 2* | Stone J, Warlow C, Sharpe M. The symptom of functional weakness: a controlled study of 107 patients. *Brain*. 2010;133(5):1537–1551. [https://doi.org/10.1093/brain/awq068](https://doi.org/10.1093/brain/awq068) |
 | <a id="citation-12"></a>**[12]** | *Figure 2* | Jones B, Reuber M, Norman P. Correlates of health-related quality of life in adults with psychogenic nonepileptic seizures: a systematic review. *Epilepsia*. 2016;57(2):171–181. [https://doi.org/10.1111/epi.13268](https://doi.org/10.1111/epi.13268) |
 | <a id="citation-13"></a>**[13]** | — | Stone J, Coebergh JA, Lidstone SC, et al. Migraine and functional neurological disorder (FND)—a review of comorbidity and potential overlap. *Brain Communications*. 2025;7(4):fcaf288. [https://doi.org/10.1093/braincomms/fcaf288](https://doi.org/10.1093/braincomms/fcaf288) |
+
+*Last reviewed: August 21, 2026*
