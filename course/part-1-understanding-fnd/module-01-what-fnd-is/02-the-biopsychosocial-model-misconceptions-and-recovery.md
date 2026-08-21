@@ -27,7 +27,7 @@ However, FND is not a headache. In fact, quality of life can be very poor. But, 
 #### • How do you think stress affects your symptoms? Have you noticed when your symptoms become worse?
 
 ### What can the person safely try at home?
-If you are able, journal or at least begin to write down when your symptoms get worse. Did something happen just before? Taking note of this is a large part of improving your symptoms. Here's an idea: on the piece of paper make three columns. Each column has one of these headings: *"body and brain"*, *"thoughts and feelings"*, *"life and surroundings"*. Each time you find your symptoms worse, try to put something into each column. (*citations* [1](#citation-1), [4](#citation-4))
+If you are able, journal or at least begin to write down when your symptoms get worse. Did something happen just before? Taking note of this is a large part of improving your symptoms. Here's an idea: on the piece of paper make three columns. Each column has one of these headings: *"body and brain"*, *"thoughts and feelings"*, *"life and surroundings"*. Each time you find your symptoms worse, try to put something into each column.
 
 Don't worry if you can't journal! Personally, my functional symptoms prevent me from remembering and I found journaling nearly impossible. However, I have been successful, over time, in understanding what triggers my symptoms to get worse.
 
@@ -46,7 +46,7 @@ Don't worry if you can't journal! Personally, my functional symptoms prevent me 
 
 As described earlier on this page, the 'biopsychosocial model' for FND talks about how those areas of life affect the sufferer's symptoms - both in positive ways and in negative ways. As a support person, we are not able to change the biology of the person. Their symptoms, regardless of how strange they can sometimes look, are just what a disconnect between body and mind looks like. There is currently no medication to treat FND. 
 
-That leaves just two areas: the psycho and the social. If there are other psychological stresses like a past or present trauma or a disorder that they have been diagnosed with it might be good to encourage them to carry on therapy. That said, I want to express a lot of caution: most therapists don't understand FND and even when some say they do, I personally have found that their concept isn't up to date.  In some parts of the world there are great FND clinics. It is probably not a good idea to push anyone with FND into therapy or a particular therapist. (*citations* [1](#citation-1), [3](#citation-3), [4](#citation-4)) 
+That leaves just two areas: the psycho and the social. If there are other psychological stresses like a past or present trauma or a disorder that they have been diagnosed with it might be good to encourage them to carry on therapy. That said, I want to express a lot of caution: most therapists don't understand FND and even when some say they do, I personally have found that their concept isn't up to date.  In some parts of the world there are great FND clinics. It is probably not a good idea to push anyone with FND into therapy or a particular therapist. 
 
 > For the first few years, it was too triggering for me to attempt therapy but later, when I was ready, it proved helpful to work with some of my past traumas. The biggest thing I got from therapy was a better attitude towards my symptoms.
 
@@ -81,7 +81,9 @@ The biopsychosocial model is a way of guiding individual support by looking at a
 | **Psychological** | Anxiety, panic disorder, depression, post-traumatic stress disorder and dissociative symptoms or disorders. These should be treated when present, but they are **not required for FND** and should not be assumed to have caused it. (*citations* [2](#citation-2), [6](#citation-6)) |
 | **Social** | Loss of employment or education; financial pressure; reduced independence; isolation; strained relationships; caregiver burden; stigma; unsuitable housing or transportation; and difficulty accessing knowledgeable healthcare or rehabilitation. (*citations* [6](#citation-6), [9](#citation-9)) |
 
-One of the key complaints on reddit among sufferers of FND is how after diagnosis they are given a link to a website and little further care if afforded them. Clearly, however, good communication leads to appropriately triaging the patient. For instance, [neurosymptoms.org](https://neurosymptoms.org/en/symptoms/), clearly show which symptoms are part of FND and which are likely not to be. Symptoms not associated with FND need to be investigated both at diagnosis and during the course of the disease. (*citations* [5](#citation-5), [8](#citation-8)) 
+One of the key complaints on reddit among sufferers of FND is how after diagnosis they are given a link to a website and little further care if afforded them. Clearly, however, good communication leads to appropriately triaging the patient. For instance, [neurosymptoms.org](https://neurosymptoms.org/en/symptoms/), clearly show which symptoms are part of FND and which are likely not to be.
+
+Symptoms not associated with FND need to be investigated both at diagnosis and during the course of the disease. (*citations* [5](#citation-5), [8](#citation-8)) 
 
 > “When I developed bowel and urinary problems, an MRI appeared to show spinal-cord compression at T10–11, and surgery was being considered. However, the neurosurgeon examined me first and found that the examination did not match the MRI. A second MRI confirmed there was no herniation—the first image was misleading.
 >
