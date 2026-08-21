@@ -36,6 +36,7 @@ Don't worry if you can't journal! Personally, my functional symptoms prevent me 
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)  
+
 [Module overview](README.md) — the shortest introduction and guide to the module.  
 [What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md) — terminology, symptom range, positive diagnosis, and the functional/structural distinction.  
 **The Biopsychosocial Model and Misconceptions — current page**  
@@ -44,7 +45,7 @@ Don't worry if you can't journal! Personally, my functional symptoms prevent me 
 
 ## For Family, Friends, and Other Supporters
 
-As described earlier on this page, the 'biopsychosocial model' for FND talks about how those areas of life affect the sufferer's symptoms - both in positive ways and in negative ways. As a support person, we are not able to change the biology of the person. Their symptoms, regardless of how strange they can sometimes look, are just what a disconnect between body and mind looks like. There is currently no medication to treat FND. 
+As described earlier on this page, the 'biopsychosocial model' for FND talks about how those areas of life affect the sufferer's symptoms - both in positive ways and in negative ways. As a support person, we are not able to change the biology of the person. Their symptoms, regardless of how strange they can sometimes look, are just what a disrupted communication between brain and nervous system looks like. There is currently no medication to treat FND. A key way to help is assisting with personal care, when needed, and access to healthcare
 
 That leaves just two areas: the psycho and the social. If there are other psychological stresses like a past or present trauma or a disorder that they have been diagnosed with it might be good to encourage them to carry on therapy. That said, I want to express a lot of caution: most therapists don't understand FND and even when some say they do, I personally have found that their concept isn't up to date.  In some parts of the world there are great FND clinics. It is probably not a good idea to push anyone with FND into therapy or a particular therapist. 
 
@@ -71,7 +72,7 @@ In the previous article, it was shown that researchers have established that Fun
 - **What it is:** The biopsychosocial model is a way of looking at how the body and brain, thoughts and emotions, and a person’s life and surroundings may affect their health and recovery.
 - **What it isn’t**: It does not mean that FND is caused by thoughts, stress, trauma or mental illness. It does not replace a positive neurological diagnosis, and all three areas do not have to affect every person. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
-> Up to 1 out of 5 people suffering with Functional Seizures will end their life in suicide.
+> People with functional seizures have an increased risk of premature death. In one study, among patients who died before age 50, 20% of those deaths were attributed to suicide.
 
 The biopsychosocial model is a way of guiding individual support by looking at all the factors that influence the person's symptoms: psychological support when appropriate and assistance with education and employment are two examples. Here are some of the common comorbidities in relation to the 'biological' and 'psychological' aspects and many of the common problems facing sufferers of FND. (*citations* [1](#citation-1), [3](#citation-3), [9](#citation-9))
 
@@ -81,7 +82,7 @@ The biopsychosocial model is a way of guiding individual support by looking at a
 | **Psychological** | Anxiety, panic disorder, depression, post-traumatic stress disorder and dissociative symptoms or disorders. These should be treated when present, but they are **not required for FND** and should not be assumed to have caused it. (*citations* [2](#citation-2), [6](#citation-6)) |
 | **Social** | Loss of employment or education; financial pressure; reduced independence; isolation; strained relationships; caregiver burden; stigma; unsuitable housing or transportation; and difficulty accessing knowledgeable healthcare or rehabilitation. (*citations* [6](#citation-6), [9](#citation-9)) |
 
-One of the key complaints on reddit among sufferers of FND is how after diagnosis they are given a link to a website and little further care if afforded them. Clearly, however, good communication leads to appropriately triaging the patient. For instance, [neurosymptoms.org](https://neurosymptoms.org/en/symptoms/), clearly show which symptoms are part of FND and which are likely not to be.
+One of the key complaints on reddit among sufferers of FND is how after diagnosis they are given a link to a website and little further care is afforded them. Clearly, however, good communication leads to appropriately triaging the patient. For instance, this page on [neurosymptoms.org](https://neurosymptoms.org/en/symptoms/), clearly show which symptoms are part of FND and which are likely not to be.
 
 Symptoms not associated with FND need to be investigated both at diagnosis and during the course of the disease. (*citations* [5](#citation-5), [8](#citation-8)) 
 
