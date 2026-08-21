@@ -50,13 +50,11 @@ As described earlier on this page, the 'biopsychosocial model' for FND talks abo
 That leaves just two areas: the psycho and the social. If there are other psychological stresses like a past or present trauma or a disorder that they have been diagnosed with it might be good to encourage them to carry on therapy. That said, I want to express a lot of caution: most therapists don't understand FND and even when some say they do, I personally have found that their concept isn't up to date.  In some parts of the world there are great FND clinics. It is probably not a good idea to push anyone with FND into therapy or a particular therapist. 
 
 > For the first few years, it was too triggering for me to attempt therapy but later, when I was ready, it proved helpful to work with some of my past traumas. The biggest thing I got from therapy was a better attitude towards my symptoms.
-
 — *(Lived experience)*
 
 You are one of the sufferer's social group. You can help the person to try the various exercises that are described online and in this course and you can encourage them especially as they grieve their new disability. And, symptoms come and go and new ones appear. Helping the person to not be too anxious about their health is very helpful, but because new symptoms often look like other medical or mental problems, it's best to encourage the person to have these investigated. (*citations* [5](#citation-5))
 
 > I also found it unhelpful when my support person's optimism was misplaced; all the many positive things they were doing for me made my life more comfortable, easier to adapt to, and made me feel safe. But, no matter what they did, FND was not going to go away. Our life had permanently changed.
-
 — *(Lived experience)*
 
 ***
@@ -89,7 +87,6 @@ Symptoms not associated with FND need to be investigated both at diagnosis and d
 > “When I developed bowel and urinary problems, an MRI appeared to show spinal-cord compression at T10–11, and surgery was being considered. However, the neurosurgeon examined me first and found that the examination did not match the MRI. A second MRI confirmed there was no herniation—the first image was misleading.
 >
 > I had previously experienced genuine bowel and bladder problems from a T6–7 disc herniation, so the new symptoms could not simply be dismissed as FND. My experience shows why new symptoms must be investigated, but also why imaging should be interpreted alongside the clinical examination before deciding on treatment.”
-
 — *(Lived experience)*
 
 Investigating symptoms and referring your patient to other resources including social workers is good health care. (*citations* [1](#citation-1), [9](#citation-9)) 
