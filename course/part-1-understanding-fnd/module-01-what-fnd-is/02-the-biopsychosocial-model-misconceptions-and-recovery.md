@@ -9,7 +9,7 @@ This is a focused authoring template within Module 1. The human author should us
 [Research and Sources](#research-and-sources)
 ***
 ## For the Person With FND
-FND is now understood as a **biopsychosocial model** rather than neurological or psychological. *What does this mean?* 
+FND is a neurological disease that can be understood through a **biopsychosocial model**. *What does this mean?* 
 
 When we talk about the *biopsychosocial model*, it is in relation to how your **symptoms** are affected by, well, all aspects of your life and health, really. 
 - **The *'bio'* part refers to your biology;** your current health issues and how your nervous system responds to things. It also includes what we talked about in module 1, that the way your brain talks to the rest of your body and nervous system is disrupted.
@@ -68,7 +68,7 @@ In the previous article, it was shown that researchers have established that Fun
 - **What it is:** The biopsychosocial model is a way of looking at how the body and brain, thoughts and emotions, and a person’s life and surroundings may affect their health and recovery.
 - **What it isn’t**: It does not mean that FND is caused by thoughts, stress, trauma or mental illness. It does not replace a positive neurological diagnosis, and all three areas do not have to affect every person.
 
-> Up to 1 out of 5 people suffering with FND will end their life in suicide.
+> Up to 1 out of 5 people suffering with Functional Seizures will end their life in suicide.
 
 The biopsychosocial model is a way of guiding individual support by looking at all the factors that influence the person's symptoms: psychological support when appropriate and assistance with education and employment are two examples. Here are some of the common comorbidities in relation to the 'biological' and 'psychological' aspects and many of the common problems facing sufferers of FND.
 
