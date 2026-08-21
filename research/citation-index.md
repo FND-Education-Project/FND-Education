@@ -4,18 +4,23 @@ This table gives every source a stable project ID. Course pages repeat a compact
 
 | Citation ID | Short citation | Source type | Main subjects | Currently used on |
 |---|---|---|---|---|
-| [FND-CIT-0001](#fnd-cit-0001) | Bennett et al., 2021 | Peer-reviewed practical review | overview, positive diagnosis, involuntary symptoms, comorbidity | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [FND terminology glossary](../glossary/README.md) |
+| [FND-CIT-0001](#fnd-cit-0001) | Bennett et al., 2021 | Peer-reviewed practical review | overview, positive diagnosis, involuntary symptoms, comorbidity | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [FND terminology glossary](../glossary/README.md) |
 | [FND-CIT-0002](#fnd-cit-0002) | Espay et al., 2018 | Peer-reviewed clinical review | diagnostic criteria, positive diagnosis, psychological-stressor criterion | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [FND terminology glossary](../glossary/README.md) |
-| [FND-CIT-0003](#fnd-cit-0003) | Hallett et al., 2022 | Peer-reviewed review | genuine symptoms, variability, stressors, multidisciplinary treatment | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [FND terminology glossary](../glossary/README.md) |
+| [FND-CIT-0003](#fnd-cit-0003) | Hallett et al., 2022 | Peer-reviewed review | genuine symptoms, variability, stressors, multidisciplinary treatment | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [FND terminology glossary](../glossary/README.md) |
 | [FND-CIT-0004](#fnd-cit-0004) | Bègue et al., 2019 | Systematic neuroimaging review | structural findings, software/hardware analogy, mechanism uncertainty | [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
 | [FND-CIT-0005](#fnd-cit-0005) | Pick et al., 2019 | Peer-reviewed review | psychosocial adversity, emotional processing, biopsychosocial model | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
-| [FND-CIT-0006](#fnd-cit-0006) | Drane et al., 2021 | Peer-reviewed perspective | neural circuits, agency, attention, interoception, predictive processing | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [FND terminology glossary](../glossary/README.md) |
-| [FND-CIT-0007](#fnd-cit-0007) | Gelauff et al., 2014 | Systematic review | functional motor outcomes, prognosis, evidence limitations | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
+| [FND-CIT-0006](#fnd-cit-0006) | Drane et al., 2021 | Peer-reviewed perspective | neural circuits, agency, attention, interoception, predictive processing | [FND terminology glossary](../glossary/README.md) |
+| [FND-CIT-0007](#fnd-cit-0007) | Gelauff et al., 2014 | Systematic review | functional motor outcomes, prognosis, evidence limitations | [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
 | [FND-CIT-0008](#fnd-cit-0008) | Asadi-Pooya et al., 2020 | Systematic terminology review | functional seizures, PNES, terminology preferences | [FND terminology glossary](../glossary/README.md) |
 | [FND-CIT-0009](#fnd-cit-0009) | Hingray et al., 2025 | ILAE task-force terminology proposal | functional/dissociative seizures, FDS, seizure terminology | [FND terminology glossary](../glossary/README.md) |
 | [FND-CIT-0010](#fnd-cit-0010) | Tolchin et al., 2026 | AAN practice guideline | functional seizures, management, terminology, diagnostic communication | [FND terminology glossary](../glossary/README.md) |
 | [FND-CIT-0011](#fnd-cit-0011) | Nicholson et al., 2020 | Professional consensus recommendations | occupational therapy, remission and exacerbation, flexible goals | [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
 | [FND-CIT-0012](#fnd-cit-0012) | Rutten et al., 2025 | Qualitative stakeholder study | patient-centred outcomes, daily activities, quality of life | [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
+| [FND-CIT-0013](#fnd-cit-0013) | Dworetzky & Baslet, 2025 | Peer-reviewed practical review | practical management, multidisciplinary treatment, comorbidity | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
+| [FND-CIT-0014](#fnd-cit-0014) | Butler et al., 2021 | International online survey | associated symptoms, psychiatric comorbidity, patient perspectives | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
+| [FND-CIT-0015](#fnd-cit-0015) | Steinruecke et al., 2024 | Systematic review and meta-analysis | pain, CRPS, IBS, fibromyalgia | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
+| [FND-CIT-0016](#fnd-cit-0016) | Hoeritzauer et al., 2018 | Retrospective cohort study | scan-negative cauda equina syndrome, differential diagnosis | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
+| [FND-CIT-0017](#fnd-cit-0017) | Sekine et al., 2025 | Systematic review | biopsychosocial prognosis, participation, contextual factors | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
 
 ## FND-CIT-0001
 
@@ -88,6 +93,36 @@ Use this consensus source for flexible, person-chosen functional goals and its d
 Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9)
 
 Use this source for the importance of patient-centred outcomes that include symptoms, emotional wellbeing, daily activities, independence and quality of life. It reports the views of a purposively sampled UK group and should not be treated as a population estimate or individual prognosis.
+
+## FND-CIT-0013
+
+Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4):e00612. [https://doi.org/10.1016/j.neurot.2025.e00612](https://doi.org/10.1016/j.neurot.2025.e00612)
+
+Use this source for practical multidisciplinary management, communication, treatment selection and attention to coexisting conditions. Do not use it to imply that medication, psychotherapy or any single intervention treats every FND presentation.
+
+## FND-CIT-0014
+
+Butler M, Shipston-Sharman O, Seynaeve M, et al. International online survey of 1048 individuals with functional neurological disorder. *European Journal of Neurology*. 2021;28(11):3591–3602. [https://doi.org/10.1111/ene.15018](https://doi.org/10.1111/ene.15018)
+
+Use this source for patient-reported associated symptoms, psychiatric comorbidity and views about multiple contributing factors. Recruitment through social media and patient groups creates potential selection and response bias, so do not treat its percentages as population prevalence.
+
+## FND-CIT-0015
+
+Steinruecke M, Mason I, Keen M, McWhirter L, Carson AJ, Stone J, Hoeritzauer I. Pain and functional neurological disorder: a systematic review and meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*. 2024;95(9):874–885. [https://doi.org/10.1136/jnnp-2023-332810](https://doi.org/10.1136/jnnp-2023-332810)
+
+Use this source for the frequency and clinical importance of pain and pain-related diagnoses, including complex regional pain syndrome, irritable bowel syndrome and fibromyalgia. Its pooled estimates are heterogeneous group findings and should not be used to predict one person’s presentation.
+
+## FND-CIT-0016
+
+Hoeritzauer I, Pronin S, Carson A, Statham P, Demetriades AK, Stone J. The clinical features and outcome of scan-negative and scan-positive cases in suspected cauda equina syndrome: a retrospective study of 276 patients. *Journal of Neurology*. 2018;265(12):2916–2926. [https://doi.org/10.1007/s00415-018-9078-2](https://doi.org/10.1007/s00415-018-9078-2)
+
+Use this source to distinguish scan-positive from scan-negative suspected cauda equina syndrome and to support careful assessment of structural, neurological and functional explanations. It does not support withholding urgent assessment or imaging when cauda equina syndrome is suspected.
+
+## FND-CIT-0017
+
+Sekine ER, Kanaan RA, McMillan J, Oxford S, Iles RA. Biopsychosocial prognostic indicators in Functional Neurological Disorder: a systematic review. *Journal of Psychosomatic Research*. 2025;195:112201. [https://doi.org/10.1016/j.jpsychores.2025.112201](https://doi.org/10.1016/j.jpsychores.2025.112201)
+
+Use this source for evidence about biological, psychological and social factors associated with outcomes, the distinction between symptom measures and participation in life roles, and gaps in research on broader systems. Associations such as workforce participation must not be presented as proof of causation or used to judge eligibility for benefits.
 
 # How Course Pages Should Use the Index
 
