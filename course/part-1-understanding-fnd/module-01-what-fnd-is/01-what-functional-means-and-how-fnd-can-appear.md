@@ -93,6 +93,7 @@ Another useful thing to do is put into your own words what FND is and how to exp
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)  
+
 [Module overview](README.md) — the shortest introduction and guide to the module.  
 **What “Functional” Means and How FND Can Appear — current page**  
 [The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md) — a plain-language explanation of the model, its limits, and common misconceptions.  
