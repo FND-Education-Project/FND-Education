@@ -10,7 +10,10 @@ This is a short introduction. Later modules will discuss treatment, rehabilitati
 ***
 ## For the Person With FND
 
-The words **remission** and **recovery** are related, but they do not always mean the same thing. Researchers and clinics do not always use them in exactly the same way either.
+One of the big questions, once, perhaps the shock of diagnosis fades, is "Can this go away?" Maybe instead of 'go away' words like remission, cure, or recovery might replace them. If we are talking about a cure, meaning, the disease functional neurological disorder is no longer present nor will ever come back, then as far as anyone currently knows, no. There is no cure. However, people do experience recovery or remission. Because the two words can be used to mean the same thing, let's give them definitions that this course will use.
+
+For this course, 'remission' refers to all or some of a person's symptoms disappearing for a time. Some have experienced remission for years - the likeliness often depending on a few factors especially what symptoms were disrupting their lives. 
+
 
 In this course, **remission** means that symptoms have become much less active or have disappeared for a period of time. Complete remission means that the symptoms being discussed are absent. Partial remission means that they have improved but are still present. Remission is not automatically the same as a cure because symptoms can return.
 
