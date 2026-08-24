@@ -4,8 +4,8 @@ This table gives every source a stable project ID. Course pages repeat a compact
 
 | Citation ID | Short citation | Source type | Main subjects | Currently used on |
 |---|---|---|---|---|
-| [FND-CIT-0001](#fnd-cit-0001) | Bennett et al., 2021 | Peer-reviewed practical review | overview, positive diagnosis, involuntary symptoms, comorbidity | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [FND terminology glossary](../glossary/README.md) |
-| [FND-CIT-0002](#fnd-cit-0002) | Espay et al., 2018 | Peer-reviewed clinical review | diagnostic criteria, positive diagnosis, psychological-stressor criterion | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [FND terminology glossary](../glossary/README.md) |
+| [FND-CIT-0001](#fnd-cit-0001) | Bennett et al., 2021 | Peer-reviewed practical review | overview, positive diagnosis, involuntary symptoms, comorbidity | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [FND terminology glossary](../glossary/README.md); [limb weakness sign](../reference/diagnostic-signs/01-functional-limb-weakness.md); [functional dystonia](../reference/diagnostic-signs/04-functional-dystonia.md); [functional seizures](../reference/diagnostic-signs/06-functional-seizures.md) |
+| [FND-CIT-0002](#fnd-cit-0002) | Espay et al., 2018 | Peer-reviewed clinical review | diagnostic criteria, positive diagnosis, psychological-stressor criterion | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [FND terminology glossary](../glossary/README.md); [functional tremor](../reference/diagnostic-signs/02-functional-tremor.md); [functional sensory symptoms](../reference/diagnostic-signs/07-functional-sensory-symptoms.md) |
 | [FND-CIT-0003](#fnd-cit-0003) | Hallett et al., 2022 | Peer-reviewed review | genuine symptoms, variability, stressors, multidisciplinary treatment | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [FND terminology glossary](../glossary/README.md) |
 | [FND-CIT-0004](#fnd-cit-0004) | Bègue et al., 2019 | Systematic neuroimaging review | structural findings, software/hardware analogy, mechanism uncertainty | [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
 | [FND-CIT-0005](#fnd-cit-0005) | Pick et al., 2019 | Peer-reviewed review | psychosocial adversity, emotional processing, biopsychosocial model | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
@@ -13,7 +13,7 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0007](#fnd-cit-0007) | Gelauff et al., 2014 | Systematic review | functional motor outcomes, prognosis, evidence limitations | [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
 | [FND-CIT-0008](#fnd-cit-0008) | Asadi-Pooya et al., 2020 | Systematic terminology review | functional seizures, PNES, terminology preferences | [FND terminology glossary](../glossary/README.md) |
 | [FND-CIT-0009](#fnd-cit-0009) | Hingray et al., 2025 | ILAE task-force terminology proposal | functional/dissociative seizures, FDS, seizure terminology | [FND terminology glossary](../glossary/README.md) |
-| [FND-CIT-0010](#fnd-cit-0010) | Tolchin et al., 2026 | AAN practice guideline | functional seizures, management, terminology, diagnostic communication | [FND terminology glossary](../glossary/README.md) |
+| [FND-CIT-0010](#fnd-cit-0010) | Tolchin et al., 2026 | AAN practice guideline | functional seizures, management, terminology, diagnostic communication | [FND terminology glossary](../glossary/README.md); [functional seizures diagnostic technique](../reference/diagnostic-signs/06-functional-seizures.md) |
 | [FND-CIT-0011](#fnd-cit-0011) | Nicholson et al., 2020 | Professional consensus recommendations | occupational therapy, remission and exacerbation, flexible goals | [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
 | [FND-CIT-0012](#fnd-cit-0012) | Rutten et al., 2025 | Qualitative stakeholder study | patient-centred outcomes, daily activities, quality of life | [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
 | [FND-CIT-0013](#fnd-cit-0013) | Dworetzky & Baslet, 2025 | Peer-reviewed practical review | practical management, multidisciplinary treatment, comorbidity | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
@@ -21,6 +21,16 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0015](#fnd-cit-0015) | Steinruecke et al., 2024 | Systematic review and meta-analysis | pain, CRPS, IBS, fibromyalgia | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
 | [FND-CIT-0016](#fnd-cit-0016) | Hoeritzauer et al., 2018 | Retrospective cohort study | scan-negative cauda equina syndrome, differential diagnosis | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
 | [FND-CIT-0017](#fnd-cit-0017) | Sekine et al., 2025 | Systematic review | biopsychosocial prognosis, participation, contextual factors | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
+| [FND-CIT-0018](#fnd-cit-0018) | McWhirter et al., 2011 | Prospective cohort study | Hoover’s sign, functional leg weakness, diagnostic accuracy | [limb weakness sign](../reference/diagnostic-signs/01-functional-limb-weakness.md) |
+| [FND-CIT-0019](#fnd-cit-0019) | Bartl et al., 2020 | Systematic review | functional tremor, distractibility, entrainment, electrophysiology | [functional tremor](../reference/diagnostic-signs/02-functional-tremor.md) |
+| [FND-CIT-0020](#fnd-cit-0020) | Nonnekes et al., 2020 | Peer-reviewed sign-based review | functional gait, inconsistency, incongruity, examination pitfalls | [functional gait disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md) |
+| [FND-CIT-0021](#fnd-cit-0021) | Frucht et al., 2021 | Peer-reviewed specialist review | functional dystonia, fixed posture, differential diagnosis | [functional dystonia](../reference/diagnostic-signs/04-functional-dystonia.md) |
+| [FND-CIT-0022](#fnd-cit-0022) | Edwards et al., 2024 | IFCN handbook review | clinical neurophysiology, functional jerks, EEG–EMG, back-averaging | [functional jerks](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md) |
+| [FND-CIT-0023](#fnd-cit-0023) | Nielsen et al., 2026 | Case-control study | functional sensory signs, midline splitting, vibration splitting | [functional sensory symptoms](../reference/diagnostic-signs/07-functional-sensory-symptoms.md) |
+| [FND-CIT-0024](#fnd-cit-0024) | Ramsay et al., 2024 | Peer-reviewed clinical review | functional visual symptoms, positive signs, preserved vision | [functional visual symptoms](../reference/diagnostic-signs/08-functional-visual-symptoms.md) |
+| [FND-CIT-0025](#fnd-cit-0025) | Baker et al., 2021 | Professional consensus recommendations | functional communication, swallowing, cough, speech-language therapy | [speech and voice](../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md); [swallowing and globus](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md); [cough and upper airway](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) |
+| [FND-CIT-0026](#fnd-cit-0026) | McWhirter et al., 2022 | Proposed diagnostic risk model | Functional Cognitive Disorder, internal inconsistency, differential diagnosis | [Functional Cognitive Disorder](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) |
+| [FND-CIT-0027](#fnd-cit-0027) | Staab et al., 2017 | Bárány Society consensus criteria | PPPD, dizziness, vestibular diagnosis | [PPPD criteria](../reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) |
 
 ## FND-CIT-0001
 
@@ -123,6 +133,66 @@ Use this source to distinguish scan-positive from scan-negative suspected cauda 
 Sekine ER, Kanaan RA, McMillan J, Oxford S, Iles RA. Biopsychosocial prognostic indicators in Functional Neurological Disorder: a systematic review. *Journal of Psychosomatic Research*. 2025;195:112201. [https://doi.org/10.1016/j.jpsychores.2025.112201](https://doi.org/10.1016/j.jpsychores.2025.112201)
 
 Use this source for evidence about biological, psychological and social factors associated with outcomes, the distinction between symptom measures and participation in life roles, and gaps in research on broader systems. Associations such as workforce participation must not be presented as proof of causation or used to judge eligibility for benefits.
+
+## FND-CIT-0018
+
+McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. [https://doi.org/10.1016/j.jpsychores.2011.09.003](https://doi.org/10.1016/j.jpsychores.2011.09.003)
+
+Use this source for the operational description and prospective assessment of Hoover’s sign in people presenting with suspected stroke. The functional-weakness subgroup was very small, so its reported sensitivity and specificity must not be presented as universal accuracy estimates.
+
+## FND-CIT-0019
+
+Bartl M, Kewitsch R, Hallett M, Tegenthoff M, Paulus W. Diagnosis and therapy of functional tremor: a systematic review illustrated by a case report. *Neurological Research and Practice*. 2020;2:35. [https://doi.org/10.1186/s42466-020-00073-1](https://doi.org/10.1186/s42466-020-00073-1)
+
+Use this source for clinical and electrophysiological features of functional tremor, including variability, distractibility and entrainment. The review also identifies limitations in the evidence; do not diagnose from a single brief change in tremor.
+
+## FND-CIT-0020
+
+Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. [https://doi.org/10.1212/WNL.0000000000009649](https://doi.org/10.1212/WNL.0000000000009649)
+
+Use this source for a sign-based gait examination, examples of inconsistency and incongruity, and important diagnostic pitfalls. An unusual gait appearance is not diagnostic by itself, and coexisting neurological disease must remain possible.
+
+## FND-CIT-0021
+
+Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [https://doi.org/10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262)
+
+Use this source for recognized functional dystonia presentations, including fixed postures, pain, differential diagnosis and multidisciplinary care. It does not provide a single decisive bedside sign or justify forced manipulation of a painful posture.
+
+## FND-CIT-0022
+
+Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. [https://doi.org/10.1016/j.cnp.2023.12.006](https://doi.org/10.1016/j.cnp.2023.12.006)
+
+Use this source for specialist clinical-neurophysiology methods in functional motor disorders, including EEG–EMG assessment and jerk-locked back-averaging. Laboratory findings support clinical diagnosis; an absent Bereitschaftspotential does not exclude functional jerks.
+
+## FND-CIT-0023
+
+Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031. [https://doi.org/10.1093/braincomms/fcag031](https://doi.org/10.1093/braincomms/fcag031)
+
+Use this source for current evidence about the diagnostic utility of classic functional sensory signs. It found important limitations in signs such as midline and vibration splitting, so these findings should not be used alone to diagnose functional sensory symptoms.
+
+## FND-CIT-0024
+
+Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. [https://doi.org/10.1038/s41433-024-03126-w](https://doi.org/10.1038/s41433-024-03126-w)
+
+Use this source for a positive approach to functional visual symptoms that demonstrates preserved vision, communicates the finding constructively and considers comorbid eye or neurological disease. Individual signs do not replace a complete ophthalmic assessment.
+
+## FND-CIT-0025
+
+Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
+
+Use this source for professional consensus on positive assessment and speech-and-language therapy for functional communication, swallowing, cough and related disorders. Its grouping supports the combined page labels used in this reference, but the recommendations are consensus guidance rather than proof that one technique fits every presentation.
+
+## FND-CIT-0026
+
+McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. [https://doi.org/10.1017/S1092852921000845](https://doi.org/10.1017/S1092852921000845)
+
+Use this source for internal inconsistency as a central positive feature of Functional Cognitive Disorder and for relevant differential features. Treat the risk model as proposed rather than a universally validated calculator, and do not diagnose FCD from normal imaging or one normal test.
+
+## FND-CIT-0027
+
+Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622)
+
+Use this source for the five consensus diagnostic criteria for PPPD and for the role of examination and testing in identifying alternative or coexisting conditions. Do not apply these criteria to dizziness in general or treat normal vestibular testing as sufficient for diagnosis.
 
 # How Course Pages Should Use the Index
 
