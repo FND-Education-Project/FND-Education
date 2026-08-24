@@ -1,8 +1,6 @@
 # Build and Use Your Personal Symptom Map
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
-
-This page helps you work through separating confirmed FND symptoms, separate diagnoses, unresolved symptoms, medication effects, warning signs, possible triggers, helpful strategies, preserved abilities, and meaningful changes, and includes a low-burden way to track only patterns that could change a decision.
+This is a focused authoring template within Module 4. Build the completed page around this scope: Guide the author through separating confirmed FND symptoms, separate diagnoses, unresolved symptoms, medication effects, warning signs, possible triggers, helpful strategies, preserved abilities, and meaningful changes; include a low-burden way to track only patterns that could change a decision.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -12,55 +10,21 @@ This page helps you work through separating confirmed FND symptoms, separate dia
 ***
 ## For the Person With FND
 
-You may recognize parts of this page and not others. FND and the conditions around it do not look the same in everyone. Your own history, other health conditions, medications, surroundings and access to care all matter. This page cannot decide what is happening in one individual, but it can help you understand the questions worth asking.
+**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND symptom map; comorbidity map; triggers; warning signs; symptom tracking; functional symptoms; associated symptoms; separate diagnoses. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Build and Use Your Personal Symptom Map.” Mark historical, disputed, or potentially stigmatizing language clearly.
 
-### Words you may encounter
+**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Guide the author through separating confirmed FND symptoms, separate diagnoses, unresolved symptoms, medication effects, warning signs, possible triggers, helpful strategies, preserved abilities, and meaningful changes; include a low-burden way to track only patterns that could change a decision. The reader should not have to read the module overview first to understand the page.
 
-- FND symptom map
-- comorbidity map
-- triggers
-- warning signs
-- symptom tracking
-- functional symptoms
-- associated symptoms
-- separate diagnoses
+**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: How to list symptoms that have been diagnosed as part of FND. How to keep separate diagnoses, possible symptoms, and unanswered medical questions from becoming one confusing list. The difference between a warning sign that an episode may be starting and a trigger that may make an episode more likely. How sleep, pain, migraine, medication, illness, activity, and surroundings may affect symptoms. Why a pattern noticed once may be coincidence rather than a true trigger. How to record what helps, what makes things harder, and what abilities remain available. How symptoms may change across a day, week, activity, or situation. Why tracking a few useful patterns is usually better than watching every body sensation. How a one-page map can help at appointments and during setbacks. Separating diagnosed functional phenomena, associated non-motor symptoms, comorbid disorders, medication effects, and unresolved differential diagnoses. Temporal relationships among vulnerabilities, precipitants, warning symptoms, triggers, maintaining factors, and consequences. Individual variability, context dependence, and preserved or intermittently accessible function. Risks of recall bias, confirmation bias, post hoc trigger attribution, and excessive symptom monitoring. Use of brief structured diaries, patient-reported outcomes, objective measures, and collateral observations only when they answer a defined clinical question. Updating formulation when new symptoms, examination findings, treatment responses, or diagnoses emerge. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
 
-### What this may feel or look like
+**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Explain that personal patterns can be useful without proving causation. Mention coincidence, recall bias, day-to-day variation, incomplete records, and the risk that intense monitoring changes attention and distress more than it improves understanding. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
 
-It can be confusing to have several symptoms, diagnoses, possible triggers, medications, and unanswered questions at once. A clear map can reduce memory load without requiring the person to decide medically what every symptom means.
+**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe the confusion of having several symptoms, diagnoses, possible triggers, medications, and unanswered questions at once. Show how a clear map can reduce memory load without requiring the person to decide medically what every symptom means. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
 
-These examples are not a checklist for diagnosing yourself. A familiar FND symptom can also exist beside another illness, and a new or substantially changed problem may need medical assessment.
+**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Complete a one-page symptom and comorbidity map. Select a small number of patterns worth tracking. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
 
-### What research is saying—and not saying
+**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Which symptoms are confirmed as FND? Which are separate diagnoses? Which remain unexplained? What patterns are worth tracking? What would count as a meaningful change rather than ordinary fluctuation? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
 
-Research and clinical guidance discuss several parts of this subject:
-
-- How to list symptoms that have been diagnosed as part of FND.
-- How to keep separate diagnoses, possible symptoms, and unanswered medical questions from becoming one confusing list.
-- The difference between a warning sign that an episode may be starting and a trigger that may make an episode more likely.
-- How sleep, pain, migraine, medication, illness, activity, and surroundings may affect symptoms.
-- Why a pattern noticed once may be coincidence rather than a true trigger.
-- How to record what helps, what makes things harder, and what abilities remain available.
-- How symptoms may change across a day, week, activity, or situation.
-- Why tracking a few useful patterns is usually better than watching every body sensation.
-- How a one-page map can help at appointments and during setbacks.
-- Separating diagnosed functional phenomena, associated non-motor symptoms, comorbid disorders, medication effects, and unresolved differential diagnoses.
-
-The page uses cautious wording because group research cannot tell one person exactly what caused a symptom, how it will change, or which approach will help. Personal patterns can be useful without proving causation. Mention coincidence, recall bias, day-to-day variation, incomplete records, and the risk that intense monitoring changes attention and distress more than it improves understanding.
-
-### Questions you might ask a clinician
-
-- “Which symptoms are confirmed as FND?”
-- “Which are separate diagnoses?”
-- “Which remain unexplained?”
-- “What patterns are worth tracking?”
-- “What would count as a meaningful change rather than ordinary fluctuation?”
-
-### Something small you can do
-
-A useful first step is to complete a one-page symptom and comorbidity map. Select a small number of patterns worth tracking.
-
-If that feels like too much, write down only the single fact or question that matters most today. This is an organizing exercise, not a diagnostic test or a treatment prescription. Stop if it is making symptoms markedly worse or creating a risk of pain, injury, breathing or swallowing difficulty, or another medical concern. Ask an appropriate clinician for help when the task involves diagnosis, emergency decisions or physical rehabilitation.
+**What should the reader open next?** Use these module links: [Module overview](README.md) Add cross-module links later only when they answer a clear next question.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -68,18 +32,9 @@ If that feels like too much, write down only the single fact or question that ma
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
-- [Module overview](README.md) — a short introduction and guide to this module.
-- **Build and Use Your Personal Symptom Map — current page**
-
 ## For Family, Friends, and Other Supporters
 
-When invited, contribute observations without overruling the person’s account.
-
-When invited, you may be able to help by identifying patterns without turning daily life into surveillance.
-
-Ask before stepping in, and let the person decide which observations or forms of help are useful. Try not to repeatedly test symptoms, insist on one explanation, or make improvement the price of receiving care. A supporter can help notice change and communicate clearly without becoming the person's clinician or supervisor.
-
-New, severe, injured or substantially changed symptoms should not automatically be attributed to FND. Follow any individualized safety plan and seek appropriate medical help when the situation is outside the person's usual medically assessed pattern.
+**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Build and Use Your Personal Symptom Map.” Develop the supporter guidance from these points: Contributing observations without overruling the person’s account. Helping identify patterns without turning daily life into surveillance. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -89,15 +44,13 @@ New, severe, injured or substantially changed symptoms should not automatically 
 ***
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Connect the explanation to the patient's own history and positive findings. Say what the evidence supports, what remains uncertain and what other conditions may coexist. Avoid presenting a general mechanism or group association as the proven cause of this individual's symptoms.
+**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Use this section to distinguish categories rather than list differential diagnoses: confirmed FND symptoms, associated symptoms, separate diagnosed conditions, medication effects, possible contributors, and symptoms still awaiting assessment. Warn against moving uncertain symptoms into the FND category by default. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
 
-**How can clinicians assess what may help this patient?** Assessment should identify practical treatment, rehabilitation, safety, accessibility and support needs—not only confirm a diagnostic label. Begin with the history and the patient's priorities, then use observation, examination, targeted testing and specialist input where they can answer a defined question.
+**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Separating diagnosed functional phenomena, associated non-motor symptoms, comorbid disorders, medication effects, and unresolved differential diagnoses. Risks of recall bias, confirmation bias, post hoc trigger attribution, and excessive symptom monitoring. Use of brief structured diaries, patient-reported outcomes, objective measures, and collateral observations only when they answer a defined clinical question. Updating formulation when new symptoms, examination findings, treatment responses, or diagnoses emerge. Using the map to improve interdisciplinary communication without treating it as a diagnostic instrument. Explain both the value and limitations of each step.
 
-Important assessment points for this subject include separating diagnosed functional phenomena, associated non-motor symptoms, comorbid disorders, medication effects, and unresolved differential diagnoses. Risks of recall bias, confirmation bias, post hoc trigger attribution, and excessive symptom monitoring. Use of brief structured diaries, patient-reported outcomes, objective measures, and collateral observations only when they answer a defined clinical question. Updating formulation when new symptoms, examination findings, treatment responses, or diagnoses emerge. Using the map to improve interdisciplinary communication without treating it as a diagnostic instrument.
+**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Updating formulation when new symptoms, examination findings, treatment responses, or diagnoses emerge. Using the map to improve interdisciplinary communication without treating it as a diagnostic instrument. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
 
-**How can clinicians help the patient improve this symptom, difficulty or aspect of care?** Agree on goals that matter to the patient. Explain what can be treated, demonstrated, adapted, referred for or reviewed, and distinguish research evidence from consensus, specialist practice and lived-experience strategies. Avoid promising an individual result.
-
-**How can clinicians remain helpful when improvement is limited or not yet possible?** Continued care can still address symptom relief, safety, function, accessibility, participation, quality of life and supporter needs. Agree on when and how to review the plan. Persistent symptoms should not be treated as poor effort, and new or substantially changed symptoms still deserve appropriate assessment.
+**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. State that the map should be updated after a new diagnosis, major medication change, injury, new episode form, sustained loss of function, or clinician reassessment. It must never overrule urgent assessment when a symptom is meaningfully different. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -105,18 +58,8 @@ Important assessment points for this subject include separating diagnosed functi
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
-⬅️ **Previous page:** [Module overview](README.md)
-
-➡️ **Next module:** [Medical Safety and New Symptoms](../../part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md)
-***
 ## Research and Sources
 
-### Evidence review still needed
+**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Build and Use Your Personal Symptom Map”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
 
-This automatically generated draft still needs contributors and reviewers to check diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material.
-
-The completed evidence record should identify which claims come from direct research, clinical guidance, specialist consensus or lived experience. It should state who was studied, what outcome was measured, important limitations and disagreements, and whether the findings can reasonably be applied to an individual.
-
-No focused quotations or citation table have been added yet because the sources have not been critically reviewed for this page. Medical and safety claims in this draft should therefore be treated as provisional.
-
-*Draft generated: August 24, 2026 · Evidence review pending*
+**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.

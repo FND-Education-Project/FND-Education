@@ -1,8 +1,6 @@
 # Causes, Risk Factors, Triggers, and Maintaining Factors
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
-
-This page separates cause, association, vulnerability, risk factor, trigger, mechanism, and maintaining factor in simple terms, explains why the event that starts symptoms may differ from what keeps them going, and prevents group-level findings from becoming unsupported personal conclusions.
+This is a focused authoring template within Module 3. Build the completed page around this scope: Define cause, association, vulnerability, risk factor, trigger, mechanism, and maintaining factor in simple terms; explain why the event that starts symptoms may differ from what keeps them going; and prevent group-level findings from becoming unsupported personal conclusions.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -12,56 +10,21 @@ This page separates cause, association, vulnerability, risk factor, trigger, mec
 ***
 ## For the Person With FND
 
-You may recognize parts of this page and not others. FND and the conditions around it do not look the same in everyone. Your own history, other health conditions, medications, surroundings and access to care all matter. This page cannot decide what is happening in one individual, but it can help you understand the questions worth asking.
+**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND causes; FND mechanisms; risk factors; triggers; perpetuating factors; predictive processing; attention; agency; neuroplasticity; biopsychosocial formulation. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Causes, Risk Factors, Triggers, and Maintaining Factors.” Mark historical, disputed, or potentially stigmatizing language clearly.
 
-### Words you may encounter
+**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Define cause, association, vulnerability, risk factor, trigger, mechanism, and maintaining factor in simple terms; explain why the event that starts symptoms may differ from what keeps them going; and prevent group-level findings from becoming unsupported personal conclusions. The reader should not have to read the module overview first to understand the page.
 
-- FND causes
-- FND mechanisms
-- risk factors
-- triggers
-- perpetuating factors
-- predictive processing
-- attention
-- agency
-- neuroplasticity
-- biopsychosocial formulation
+**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: Why researchers do not yet have one complete explanation for FND. The difference between something that may increase risk, something that starts symptoms, and something that keeps symptoms going. Why the original trigger may be different from the reasons symptoms continue. How illness, injury, pain, migraine, poor sleep, medication effects, exhaustion, stress, trauma, or other experiences may matter for some people but not everyone. Why trauma, stress, and mental illness are not required for an FND diagnosis. How attention, expectations, past learning, and automatic nervous-system processes may affect symptoms without conscious choice. What neuroplasticity means in simple terms: the nervous system can learn and change, but change is not guaranteed or unlimited. Why a helpful treatment idea does not automatically prove a theory about what caused FND. How to recognize explanations that sound certain but go beyond the research. Predisposing, precipitating, and perpetuating formulations and the limits of applying group-level factors to individuals. Distinctions among cause, mechanism, mediator, moderator, risk marker, trigger, and maintaining factor. Network-level findings involving attention, salience, agency, motor control, emotion processing, and interoception. Predictive-processing and active-inference accounts, including precision weighting, prior expectations, and sensory evidence. Abnormal self-directed attention, altered sense of agency, symptom learning, and automatic versus voluntary control. Associations with physical illness, injury, migraine, pain, fatigue, sleep disruption, psychiatric conditions, trauma, and dissociation. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
 
-### What this may feel or look like
+**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Give this section substantial weight. Cover the lack of a universal mechanism, uncertain direction of many associations, small or heterogeneous studies, absence of a diagnostic biomarker, and the difference between a useful therapeutic model and a proven biological explanation. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
 
-People may search intensely for one cause, notice a clear trigger, or have no identifiable beginning. Conflicting explanations can create frustration, especially when clinicians assume trauma, stress, or a psychiatric cause without evidence from the individual.
+**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe how people may search intensely for one cause, notice a clear trigger, or have no identifiable beginning. Explain the frustration created by conflicting explanations and by clinicians who assume trauma, stress, or a psychiatric cause without evidence from the individual. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
 
-These examples are not a checklist for diagnosing yourself. A familiar FND symptom can also exist beside another illness, and a new or substantially changed problem may need medical assessment.
+**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Sort personal possibilities into known facts, plausible contributors, unanswered questions, and unsupported assumptions. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
 
-### What research is saying—and not saying
+**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Which parts of this explanation are established evidence and which are theory? Is this factor a cause, trigger, risk, or maintaining influence? Does it apply to me specifically? Would the treatment still make sense if the proposed mechanism is wrong? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
 
-Research and clinical guidance discuss several parts of this subject:
-
-- Why researchers do not yet have one complete explanation for FND.
-- The difference between something that may increase risk, something that starts symptoms, and something that keeps symptoms going.
-- Why the original trigger may be different from the reasons symptoms continue.
-- How illness, injury, pain, migraine, poor sleep, medication effects, exhaustion, stress, trauma, or other experiences may matter for some people but not everyone.
-- Why trauma, stress, and mental illness are not required for an FND diagnosis.
-- How attention, expectations, past learning, and automatic nervous-system processes may affect symptoms without conscious choice.
-- What neuroplasticity means in simple terms: the nervous system can learn and change, but change is not guaranteed or unlimited.
-- Why a helpful treatment idea does not automatically prove a theory about what caused FND.
-- How to recognize explanations that sound certain but go beyond the research.
-- Predisposing, precipitating, and perpetuating formulations and the limits of applying group-level factors to individuals.
-
-The page uses cautious wording because group research cannot tell one person exactly what caused a symptom, how it will change, or which approach will help. Give this section substantial weight. Cover the lack of a universal mechanism, uncertain direction of many associations, small or heterogeneous studies, absence of a diagnostic biomarker, and the difference between a useful therapeutic model and a proven biological explanation.
-
-### Questions you might ask a clinician
-
-- “Which parts of this explanation are established evidence and which are theory?”
-- “Is this factor a cause, trigger, risk, or maintaining influence?”
-- “Does it apply to me specifically?”
-- “Would the treatment still make sense if the proposed mechanism is wrong?”
-
-### Something small you can do
-
-Sort personal possibilities into known facts, plausible contributors, unanswered questions, and unsupported assumptions.
-
-If that feels like too much, write down only the single fact or question that matters most today. This is an organizing exercise, not a diagnostic test or a treatment prescription. Stop if it is making symptoms markedly worse or creating a risk of pain, injury, breathing or swallowing difficulty, or another medical concern. Ask an appropriate clinician for help when the task involves diagnosis, emergency decisions or physical rehabilitation.
+**What should the reader open next?** Use these module links: [Module overview](README.md); [Brain Networks, Prediction, Attention, and Agency](02-brain-networks-prediction-attention-and-agency.md); [Physical, Psychological, and Social Factors—and How to Judge Claims](03-physical-psychological-and-social-factors-and-how-to-judge-claims.md) Add cross-module links later only when they answer a clear next question.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -69,20 +32,9 @@ If that feels like too much, write down only the single fact or question that ma
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
-- [Module overview](README.md) — a short introduction and guide to this module.
-- **Causes, Risk Factors, Triggers, and Maintaining Factors — current page**
-- [Brain Networks, Prediction, Attention, and Agency](02-brain-networks-prediction-attention-and-agency.md)
-- [Physical, Psychological, and Social Factors—and How to Judge Claims](03-physical-psychological-and-social-factors-and-how-to-judge-claims.md)
-
 ## For Family, Friends, and Other Supporters
 
-Try to avoid blame and unwanted searches for hidden trauma.
-
-Listen to the person’s understanding without enforcing a preferred theory.
-
-Ask before stepping in, and let the person decide which observations or forms of help are useful. Try not to repeatedly test symptoms, insist on one explanation, or make improvement the price of receiving care. A supporter can help notice change and communicate clearly without becoming the person's clinician or supervisor.
-
-New, severe, injured or substantially changed symptoms should not automatically be attributed to FND. Follow any individualized safety plan and seek appropriate medical help when the situation is outside the person's usual medically assessed pattern.
+**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Causes, Risk Factors, Triggers, and Maintaining Factors.” Develop the supporter guidance from these points: Avoiding blame and unwanted searches for hidden trauma. Listening to the person’s understanding without enforcing a preferred theory. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -92,15 +44,13 @@ New, severe, injured or substantially changed symptoms should not automatically 
 ***
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Connect the explanation to the patient's own history and positive findings. Say what the evidence supports, what remains uncertain and what other conditions may coexist. Avoid presenting a general mechanism or group association as the proven cause of this individual's symptoms.
+**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Separate causal questions from conditions that can resemble or worsen FND. Note that migraine, epilepsy, sleep disorders, pain, medication effects, injury, psychiatric conditions, and autonomic disorders may be triggers, comorbidities, alternative explanations, or unrelated findings depending on the person. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
 
-**How can clinicians assess what may help this patient?** Assessment should identify practical treatment, rehabilitation, safety, accessibility and support needs—not only confirm a diagnostic label. Begin with the history and the patient's priorities, then use observation, examination, targeted testing and specialist input where they can answer a defined question.
+**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Methodological limitations, reverse causation, heterogeneous samples, replication problems, and the difference between biomarkers and diagnostic tests. Explain both the value and limitations of each step.
 
-Important assessment points for this subject include methodological limitations, reverse causation, heterogeneous samples, replication problems, and the difference between biomarkers and diagnostic tests.
+**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Explain whether this module is itself about treatment or instead directs readers to the professional or practical approaches covered elsewhere. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
 
-**How can clinicians help the patient improve this symptom, difficulty or aspect of care?** Agree on goals that matter to the patient. Explain what can be treated, demonstrated, adapted, referred for or reviewed, and distinguish research evidence from consensus, specialist practice and lived-experience strategies. Avoid promising an individual result.
-
-**How can clinicians remain helpful when improvement is limited or not yet possible?** Continued care can still address symptom relief, safety, function, accessibility, participation, quality of life and supporter needs. Agree on when and how to review the plan. Persistent symptoms should not be treated as poor effort, and new or substantially changed symptoms still deserve appropriate assessment.
+**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Explain that adopting a mechanism theory should not stop investigation of new or changing symptoms. Also flag emotional or physical harm from treatment that insists on trauma, exposure, exercise, or another theory despite worsening or lack of individual relevance. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -108,18 +58,8 @@ Important assessment points for this subject include methodological limitations,
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
-⬅️ **Previous page:** [Module overview](README.md)
-
-➡️ **Next article:** [Brain Networks, Prediction, Attention, and Agency](02-brain-networks-prediction-attention-and-agency.md)
-***
 ## Research and Sources
 
-### Evidence review still needed
+**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Causes, Risk Factors, Triggers, and Maintaining Factors”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
 
-This automatically generated draft still needs contributors and reviewers to check diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material.
-
-The completed evidence record should identify which claims come from direct research, clinical guidance, specialist consensus or lived experience. It should state who was studied, what outcome was measured, important limitations and disagreements, and whether the findings can reasonably be applied to an individual.
-
-No focused quotations or citation table have been added yet because the sources have not been critically reviewed for this page. Medical and safety claims in this draft should therefore be treated as provisional.
-
-*Draft generated: August 24, 2026 · Evidence review pending*
+**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.

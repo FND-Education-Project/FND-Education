@@ -2,7 +2,7 @@
 
 > **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
 
-This page explains what imaging, EEG, video-EEG, laboratory tests, recorded events, and specialist assessments can and cannot answer, discusses differential diagnosis, dual diagnosis, second opinions, and when a diagnosis should be revisited.
+Tests are important, but no test answers every question. A scan, blood test, electroencephalogram or specialist assessment is useful when it is chosen to investigate a particular possibility. This page explains why normal results do not diagnose FND on their own, why another condition can exist alongside FND, and when it may be reasonable to revisit a diagnosis.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -12,56 +12,54 @@ This page explains what imaging, EEG, video-EEG, laboratory tests, recorded even
 ***
 ## For the Person With FND
 
-You may recognize parts of this page and not others. FND and the conditions around it do not look the same in everyone. Your own history, other health conditions, medications, surroundings and access to care all matter. This page cannot decide what is happening in one individual, but it can help you understand the questions worth asking.
+A common description of the diagnostic process is, “All my tests were normal, so they said it was FND.” That explanation is incomplete. Normal test results may make some other diagnoses less likely, but they do not themselves show that a symptom is functional. The evidence for FND should come from positive features in the history, examination or nature of an event. (*citations* [1](#citation-1), [2](#citation-2))
 
-### Words you may encounter
+### Each test asks a limited question
 
-- FND diagnosis
-- positive signs
-- rule-in diagnosis
-- Hoover’s sign
-- distractibility
-- entrainment
-- video-EEG
-- functional seizure diagnosis
-- neurological examination
+**CT and MRI scans** show certain kinds of structure in the brain, spinal cord or other parts of the body. Depending on the scan and the reason it was ordered, they may help identify conditions such as a stroke, tumour, inflammation, compression or injury. A normal scan means that the particular study did not show the changes it was designed to find. It does not prove that every part of the nervous system is healthy, explain how every symptom is produced, or rule FND in.
 
-### What this may feel or look like
+**Laboratory tests** may look for infection, inflammation, nutritional problems, hormone changes, medication effects or other causes suggested by the person’s symptoms. **Neurophysiology tests**, such as nerve-conduction studies or electromyography, examine particular aspects of nerve and muscle function. Again, the result answers the question the test was capable of asking; it is not a verdict on the person’s entire illness.
 
-The diagnostic process may involve recounting symptoms, being observed doing different tasks, having symptoms change during an examination, undergoing tests, and sometimes feeling disbelieved. Variability during testing is clinical information and does not mean the person is pretending.
+**Electroencephalography (EEG)** records electrical activity from the brain using electrodes on the scalp. A routine EEG is a short sample. A normal routine EEG between episodes does not exclude epilepsy, and an abnormal EEG does not automatically explain every kind of episode a person has.
 
-These examples are not a checklist for diagnosing yourself. A familiar FND symptom can also exist beside another illness, and a new or substantially changed problem may need medical assessment.
+**Video-EEG** records behaviour and brain electrical activity together. When a person’s usual event is captured, specialists can compare what is visible with the EEG record. This can provide the highest level of diagnostic certainty for many seizure-like events. If a person has more than one kind of episode, capturing one type may not establish what the other types are. Current guidance also recommends evaluating people diagnosed with functional seizures for coexisting epilepsy. (*citations* [3](#citation-3))
 
-### What research is saying—and not saying
+**Recorded home events** can sometimes help a clinician understand timing, movement, responsiveness and recovery. A recording is supporting information, not a diagnosis by itself. Safety and care come first: no one should provoke an episode, delay urgent help or place the person at risk in order to obtain a video.
 
-Research and clinical guidance discuss several parts of this subject:
+### More than one diagnosis can be true
 
-- How a clinician listens to the person’s history and examines how the nervous system is working.
-- Why FND should not be diagnosed only because scans or other tests are normal.
-- What a positive sign is: something in the examination that gives the clinician evidence of a functional problem.
-- Why a symptom may change during the examination even though the person is not controlling it on purpose.
-- Why different symptoms may require different tests.
-- Why tests can help answer particular questions but cannot prove every possible cause has been excluded.
-- Why a person can have both FND and another neurological or medical condition.
-- What information a clinician should explain when giving the diagnosis.
-- When it may be reasonable to ask questions, request reassessment, or seek another opinion.
-- Positive diagnostic signs, including inconsistency with recognized neuroanatomical disease and incongruence with established neurological patterns.
+Having FND does not protect a person from migraine, epilepsy, stroke, multiple sclerosis, Parkinson’s disease, a spinal problem, a sleep disorder, medication effects or other medical conditions. Sometimes another illness contributes to the same symptom; sometimes it produces a different symptom; and sometimes it may have helped trigger a functional symptom. Researchers and clinical guidance repeatedly warn against assuming that one diagnosis must explain everything. (*citations* [1](#citation-1), [3](#citation-3))
 
-The page uses cautious wording because group research cannot tell one person exactly what caused a symptom, how it will change, or which approach will help. No single sign applies to every FND presentation, and tests answer limited questions. There is still uncertainty about diagnostic accuracy outside specialist settings, the possibility of dual diagnoses, and the need to revisit a diagnosis when the pattern meaningfully changes.
+The term **dual diagnosis** is often used when FND and another neurological condition are both present. **Differential diagnosis** means the set of possible explanations a clinician is considering for a particular symptom. The differential for a new seizure-like event is not the same as the differential for weakness, dizziness, memory difficulty or loss of vision.
+
+### Uncertainty is not the same as disbelief
+
+Sometimes the evidence is strong enough for a clear FND diagnosis while another question remains uncertain. At other times, the clinician may have a working diagnosis that needs more observation or testing. A useful explanation says what is known, what is suspected, what has been ruled out with reasonable confidence and what change would require another assessment.
+
+It may be reasonable to request clarification, reassessment or another opinion when:
+
+- no one has explained the positive evidence for the FND diagnosis;
+- different clinicians have given incompatible explanations;
+- the diagnosis depends only on normal tests or a history of stress;
+- an episode type has not been adequately distinguished from epilepsy, syncope, migraine, a sleep event or another relevant condition;
+- objective findings do not fit the current explanation; or
+- a symptom is new, substantially changed, progressively worsening or accompanied by a new medical concern.
+
+A second opinion does not automatically mean the first diagnosis was wrong. It may confirm the diagnosis, identify a coexisting condition or make the remaining uncertainty clearer.
 
 ### Questions you might ask a clinician
 
-- “Which positive sign did you find?”
-- “What does that sign show?”
-- “What alternatives were considered?”
-- “What testing was needed and what did it rule in or out?”
-- “What change should bring me back for reassessment?”
+- “What question was each test intended to answer?”
+- “Which results support FND, and which results only make another condition less likely?”
+- “What positive evidence supports my diagnosis?”
+- “Could FND and another condition both be present?”
+- “How certain is the diagnosis, and what change should bring me back?”
 
-### Something small you can do
+### What can the person safely try at home?
 
-A useful first step is to create a “How was my diagnosis established?” question sheet. Record which positive signs or test findings the clinician explained.
+Make a short diagnostic record with four headings: **symptom or event**, **positive evidence**, **tests and what they answered**, and **questions still open**. This may help you and your clinicians see where the explanation is clear and where follow-up is needed.
 
-If that feels like too much, write down only the single fact or question that matters most today. This is an organizing exercise, not a diagnostic test or a treatment prescription. Stop if it is making symptoms markedly worse or creating a risk of pain, injury, breathing or swallowing difficulty, or another medical concern. Ask an appropriate clinician for help when the task involves diagnosis, emergency decisions or physical rehabilitation.
+If writing the full record is too much, begin with one sentence: “The part of my diagnosis I most need explained is…” This exercise is for organizing information. It is not a way to interpret scans, EEGs or laboratory results without a qualified clinician.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -70,18 +68,18 @@ If that feels like too much, write down only the single fact or question that ma
 [Research and Sources](#research-and-sources)
 ***
 - [Module overview](README.md) — a short introduction and guide to this module.
-- [Positive Signs and the Neurological Examination](01-positive-signs-and-the-neurological-examination.md)
+- [Positive Signs and the Neurological Examination](01-positive-signs-and-the-neurological-examination.md) — how positive signs may support an FND diagnosis.
 - **Tests, Diagnostic Uncertainty, and Coexisting Conditions — current page**
 
 ## For Family, Friends, and Other Supporters
 
-It helps to understand positive signs without repeatedly testing the person.
+Diagnostic uncertainty can be exhausting. The person may be trying to understand several appointments, tests and explanations while also managing symptoms. If invited, you can help keep a simple record of what each clinician thought, what each test was meant to answer and what follow-up was promised.
 
-When invited, you may be able to help by recording the clinician’s explanation and unresolved questions.
+For an episodic symptom, a witness description may be useful. Record what you actually observed rather than interpreting it: what happened before the event, which parts of the body moved, whether the person responded, how long the event lasted and what recovery looked like. Video may help in some cases, but only when it can be recorded without interfering with care, privacy or safety.
 
-Ask before stepping in, and let the person decide which observations or forms of help are useful. Try not to repeatedly test symptoms, insist on one explanation, or make improvement the price of receiving care. A supporter can help notice change and communicate clearly without becoming the person's clinician or supervisor.
+Try not to turn uncertainty into a dispute in which the person must choose between “FND” and “physical illness.” FND is a genuine disorder, and another neurological or medical condition may also be present. At the same time, repeated testing without a clear question can create burden without resolving the uncertainty.
 
-New, severe, injured or substantially changed symptoms should not automatically be attributed to FND. Follow any individualized safety plan and seek appropriate medical help when the situation is outside the person's usual medically assessed pattern.
+Support can include helping the person prepare one or two questions, asking permission before speaking during an appointment, and making sure new or substantially changed symptoms are not automatically dismissed as familiar FND.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -91,15 +89,15 @@ New, severe, injured or substantially changed symptoms should not automatically 
 ***
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Connect the explanation to the patient's own history and positive findings. Say what the evidence supports, what remains uncertain and what other conditions may coexist. Avoid presenting a general mechanism or group association as the proven cause of this individual's symptoms.
+**How can clinicians explain testing without reducing FND to normal results?** State the positive basis for the FND diagnosis separately from the purpose and result of each investigation. “The MRI did not show a stroke” and “the examination showed a positive functional sign” are different statements. Explain what was reasonably excluded, what was not tested and why further testing is or is not likely to help. (*citations* [1](#citation-1), [2](#citation-2))
 
-**How can clinicians assess what may help this patient?** Assessment should identify practical treatment, rehabilitation, safety, accessibility and support needs—not only confirm a diagnostic label. Begin with the history and the patient's priorities, then use observation, examination, targeted testing and specialist input where they can answer a defined question.
+**How should investigations be selected?** Begin with the actual phenotype, time course, examination and relevant red flags. Use imaging, laboratory testing, neurophysiology, EEG, video-EEG, cardiac assessment, sleep evaluation or other specialist input to answer defined questions. Avoid both indiscriminate investigation and premature closure. An incidental abnormality should not automatically be treated as causal, while a normal result should not be presented as positive evidence of FND.
 
-Important assessment points for this subject include positive diagnostic signs, including inconsistency with recognized neuroanatomical disease and incongruence with established neurological patterns. Variability, distractibility, entrainment, Hoover’s sign, and demonstrations of preserved function, with attention to their proper interpretation. The difference between a positive rule-in diagnosis and a diagnosis of exclusion. Appropriate use and limitations of imaging, EEG, video-EEG, neurophysiology, laboratory testing, and recorded home events. Diagnostic overlap among functional seizures, epilepsy, syncope, sleep disorders, migraine, movement disorders, and other episodic conditions.
+For seizure-like events, obtain a detailed history and semiology from the patient and witnesses. Review available recordings when appropriate and consider video-EEG of typical event types where feasible. The meaning of a scalp EEG depends on whether a typical event was captured, the event’s suspected origin and the technical quality of the recording. Evaluate for co-occurring epilepsy and other relevant conditions rather than assuming all events share one cause. (*citations* [3](#citation-3))
 
-**How can clinicians help the patient improve this symptom, difficulty or aspect of care?** Agree on goals that matter to the patient. Explain what can be treated, demonstrated, adapted, referred for or reviewed, and distinguish research evidence from consensus, specialist practice and lived-experience strategies. Avoid promising an individual result.
+**How can clinicians communicate diagnostic certainty and overlap?** Distinguish a confirmed diagnosis, a probable working diagnosis and an unresolved differential. Document which positive signs support FND, which alternatives were considered, which conditions may coexist and what evidence would change the formulation. Make the explanation available to the patient and other clinicians so that every later symptom is not forced through either an “all functional” or an “all structural” interpretation.
 
-**How can clinicians remain helpful when improvement is limited or not yet possible?** Continued care can still address symptom relief, safety, function, accessibility, participation, quality of life and supporter needs. Agree on when and how to review the plan. Persistent symptoms should not be treated as poor effort, and new or substantially changed symptoms still deserve appropriate assessment.
+**When should the diagnosis be reviewed?** Arrange reassessment for new focal findings, a materially different episode, progressive loss of previously stable abilities, injury, abnormal objective findings or a course that no longer fits the original formulation. Review is also appropriate when the original diagnosis relied only on exclusion or when the patient never received an understandable explanation of its positive basis. The goal is not endless retesting; it is a proportionate plan that protects against missed comorbidity and unnecessary investigation.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -113,12 +111,20 @@ Important assessment points for this subject include positive diagnostic signs, 
 ***
 ## Research and Sources
 
-### Evidence review still needed
+### Three focused quotations
 
-This automatically generated draft still needs contributors and reviewers to check diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material.
+- “Failure to consider comorbidity of another medical condition.” (*citations* [1](#citation-1))
+- “does not depend on excluding other disorders” (*citations* [2](#citation-2))
+- “may obtain video-EEG of all typical seizure-like episodes where feasible.” (*citations* [3](#citation-3))
 
-The completed evidence record should identify which claims come from direct research, clinical guidance, specialist consensus or lived experience. It should state who was studied, what outcome was measured, important limitations and disagreements, and whether the findings can reasonably be applied to an individual.
+### Citation table
 
-No focused quotations or citation table have been added yet because the sources have not been critically reviewed for this page. Medical and safety claims in this draft should therefore be treated as provisional.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
+| <a id="citation-2"></a>**[2]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
+| <a id="citation-3"></a>**[3]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
 
-*Draft generated: August 24, 2026 · Evidence review pending*
+This page still needs review by people with FND, supporters and clinicians, including clinicians experienced in neurological diagnosis and seizure assessment.
+
+*Draft rewritten: August 24, 2026 · Clinical review pending*
