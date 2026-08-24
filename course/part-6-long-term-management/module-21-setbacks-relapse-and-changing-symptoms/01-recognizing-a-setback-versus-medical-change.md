@@ -1,8 +1,6 @@
 # Recognizing a Setback Versus Medical Change
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
-
-This page covers ordinary fluctuation, temporary setbacks, recurrence, sustained decline, altered symptom pattern, injury, illness, medication effects, new disease, accumulated load, and individualized reassessment criteria.
+This is a focused authoring template within Module 21. Build the completed page around this scope: Cover ordinary fluctuation, temporary setbacks, recurrence, sustained decline, altered symptom pattern, injury, illness, medication effects, new disease, accumulated load, and individualized reassessment criteria.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -12,55 +10,21 @@ This page covers ordinary fluctuation, temporary setbacks, recurrence, sustained
 ***
 ## For the Person With FND
 
-You may recognize parts of this page and not others. FND and the conditions around it do not look the same in everyone. Your own history, other health conditions, medications, surroundings and access to care all matter. This page cannot decide what is happening in one individual, but it can help you understand the questions worth asking.
+**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND relapse; FND setback; symptom flare; changing symptoms; relapse plan; reassessment; recovery plan. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Recognizing a Setback Versus Medical Change.” Mark historical, disputed, or potentially stigmatizing language clearly.
 
-### Words you may encounter
+**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover ordinary fluctuation, temporary setbacks, recurrence, sustained decline, altered symptom pattern, injury, illness, medication effects, new disease, accumulated load, and individualized reassessment criteria. The reader should not have to read the module overview first to understand the page.
 
-- FND relapse
-- FND setback
-- symptom flare
-- changing symptoms
-- relapse plan
-- reassessment
-- recovery plan
+**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: Why FND symptoms may improve, worsen, disappear, return, or change over time. Why one bad day does not always mean a lasting relapse. How several smaller pressures—poor sleep, illness, pain, activity, stress, or sensory overload—may add together. How to return to strategies that helped before rather than trying everything at once. When activity or rehabilitation may need a temporary adjustment. Why an injury, a new symptom, or a clear change from the usual pattern may need medical reassessment. How a written setback plan can reduce panic and difficult decisions during worsening. Why relapse can bring grief, fear, anger, or loss of confidence. How to review what happened after the person is more stable without blaming them. Fluctuation, remission, recurrence, relapse, persistent symptoms, and phenotype change. Distinguishing expected variability from altered semiology, new neurological disease, medical comorbidity, medication effect, injury, or deconditioning. Accumulated physical, cognitive, emotional, environmental, interpersonal, and healthcare load. Relapse-prevention models, early-warning plans, graded re-entry, and reactivation of previously effective strategies. Temporary rehabilitation modification without abandoning goals or enforcing progression during instability. Reassessment thresholds, safety-netting, and avoiding diagnostic overshadowing. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
 
-### What this may feel or look like
+**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Explain that individual relapse patterns and causes are often uncertain and that retrospective explanations may be wrong. Note limited evidence for specific relapse-prevention programs and avoid implying that every setback was preventable. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
 
-A setback may involve symptoms returning after improvement, new symptom combinations, fear that all progress is lost, reduced confidence, and supporters not knowing whether to use the old plan. This may include the possibility of several small pressures accumulating rather than one clear cause.
+**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe symptoms returning after improvement, new symptom combinations, fear that all progress is lost, reduced confidence, and supporters not knowing whether to use the old plan. Include the possibility of several small pressures accumulating rather than one clear cause. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
 
-These examples are not a checklist for diagnosing yourself. A familiar FND symptom can also exist beside another illness, and a new or substantially changed problem may need medical assessment.
+**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Write a tiered setback plan: early signs, immediate response, reassessment criteria, and recovery review. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
 
-### What research is saying—and not saying
+**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Is this within my usual range? What changed before the setback? Which former strategy is safe to restart? What should be reduced temporarily? What finding would trigger medical review? What should be changed in my written plan afterward? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
 
-Research and clinical guidance discuss several parts of this subject:
-
-- Why FND symptoms may improve, worsen, disappear, return, or change over time.
-- Why one bad day does not always mean a lasting relapse.
-- How several smaller pressures—poor sleep, illness, pain, activity, stress, or sensory overload—may add together.
-- How to return to strategies that helped before rather than trying everything at once.
-- When activity or rehabilitation may need a temporary adjustment.
-- Why an injury, a new symptom, or a clear change from the usual pattern may need medical reassessment.
-- How a written setback plan can reduce panic and difficult decisions during worsening.
-- Why relapse can bring grief, fear, anger, or loss of confidence.
-- How to review what happened after the person is more stable without blaming them.
-- Fluctuation, remission, recurrence, relapse, persistent symptoms, and phenotype change.
-
-The page uses cautious wording because group research cannot tell one person exactly what caused a symptom, how it will change, or which approach will help. Individual relapse patterns and causes are often uncertain, and retrospective explanations may be wrong. Evidence remains limited for specific relapse-prevention programs and avoid implying that every setback was preventable.
-
-### Questions you might ask a clinician
-
-- “Is this within my usual range?”
-- “What changed before the setback?”
-- “Which former strategy is safe to restart?”
-- “What should be reduced temporarily?”
-- “What finding would trigger medical review?”
-- “What should be changed in my written plan afterward?”
-
-### Something small you can do
-
-A useful first step is to write a tiered setback plan: early signs, immediate response, reassessment criteria, and recovery review.
-
-If that feels like too much, write down only the single fact or question that matters most today. This is an organizing exercise, not a diagnostic test or a treatment prescription. Stop if it is making symptoms markedly worse or creating a risk of pain, injury, breathing or swallowing difficulty, or another medical concern. Ask an appropriate clinician for help when the task involves diagnosis, emergency decisions or physical rehabilitation.
+**What should the reader open next?** Use these module links: [Module overview](README.md); [Responding, Recovering, and Updating the Plan](02-responding-recovering-and-updating-the-plan.md) Add cross-module links later only when they answer a clear next question.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -68,19 +32,9 @@ If that feels like too much, write down only the single fact or question that ma
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
-- [Module overview](README.md) — a short introduction and guide to this module.
-- **Recognizing a Setback Versus Medical Change — current page**
-- [Responding, Recovering, and Updating the Plan](02-responding-recovering-and-updating-the-plan.md)
-
 ## For Family, Friends, and Other Supporters
 
-Use the written plan instead of improvising during distress.
-
-Offer reminders without claiming to know why symptoms worsened.
-
-Ask before stepping in, and let the person decide which observations or forms of help are useful. Try not to repeatedly test symptoms, insist on one explanation, or make improvement the price of receiving care. A supporter can help notice change and communicate clearly without becoming the person's clinician or supervisor.
-
-New, severe, injured or substantially changed symptoms should not automatically be attributed to FND. Follow any individualized safety plan and seek appropriate medical help when the situation is outside the person's usual medically assessed pattern.
+**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Recognizing a Setback Versus Medical Change.” Develop the supporter guidance from these points: Using the written plan instead of improvising during distress. Offering reminders without claiming to know why symptoms worsened. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -90,15 +44,13 @@ New, severe, injured or substantially changed symptoms should not automatically 
 ***
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Connect the explanation to the patient's own history and positive findings. Say what the evidence supports, what remains uncertain and what other conditions may coexist. Avoid presenting a general mechanism or group association as the proven cause of this individual's symptoms.
+**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Distinguish ordinary fluctuation from injury, infection, medication change, a new neurological or medical condition, deconditioning, sleep disruption, migraine, or a different episodic disorder. A setback should not become a label for every change. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
 
-**How can clinicians assess what may help this patient?** Assessment should identify practical treatment, rehabilitation, safety, accessibility and support needs—not only confirm a diagnostic label. Begin with the history and the patient's priorities, then use observation, examination, targeted testing and specialist input where they can answer a defined question.
+**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Reassessment thresholds, safety-netting, and avoiding diagnostic overshadowing. Explain both the value and limitations of each step.
 
-Important assessment points for this subject include reassessment thresholds, safety-netting, and avoiding diagnostic overshadowing.
+**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Accumulated physical, cognitive, emotional, environmental, interpersonal, and healthcare load. Temporary rehabilitation modification without abandoning goals or enforcing progression during instability. Using setbacks to update formulation and plans while avoiding unsupported causal certainty. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
 
-**How can clinicians help the patient improve this symptom, difficulty or aspect of care?** Agree on goals that matter to the patient. Explain what can be treated, demonstrated, adapted, referred for or reviewed, and distinguish research evidence from consensus, specialist practice and lived-experience strategies. Avoid promising an individual result.
-
-**How can clinicians remain helpful when improvement is limited or not yet possible?** Continued care can still address symptom relief, safety, function, accessibility, participation, quality of life and supporter needs. Agree on when and how to review the plan. Persistent symptoms should not be treated as poor effort, and new or substantially changed symptoms still deserve appropriate assessment.
+**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Make the distinction central: use the established plan for familiar fluctuation, but seek reassessment for new, severe, injured, sustained, or substantially changed symptoms. Update the plan when the former baseline or event pattern no longer applies. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -106,18 +58,8 @@ Important assessment points for this subject include reassessment thresholds, sa
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
-⬅️ **Previous page:** [Module overview](README.md)
-
-➡️ **Next article:** [Responding, Recovering, and Updating the Plan](02-responding-recovering-and-updating-the-plan.md)
-***
 ## Research and Sources
 
-### Evidence review still needed
+**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Recognizing a Setback Versus Medical Change”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
 
-This automatically generated draft still needs contributors and reviewers to check diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material.
-
-The completed evidence record should identify which claims come from direct research, clinical guidance, specialist consensus or lived experience. It should state who was studied, what outcome was measured, important limitations and disagreements, and whether the findings can reasonably be applied to an individual.
-
-No focused quotations or citation table have been added yet because the sources have not been critically reviewed for this page. Medical and safety claims in this draft should therefore be treated as provisional.
-
-*Draft generated: August 24, 2026 · Evidence review pending*
+**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.

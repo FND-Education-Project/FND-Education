@@ -2,7 +2,7 @@
 
 > **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
 
-This page explains what a positive or rule-in sign is, how clinicians examine function, why variability or preserved ability can be diagnostically useful without implying conscious control, and why signs must be interpreted in the context of the whole presentation.
+FND should not be diagnosed simply because a scan was normal or because no other explanation has been found. The diagnosis should be supported by features in the history or examination that positively fit a functional neurological problem. This page explains what those features may show, as well as what they cannot show.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -12,56 +12,43 @@ This page explains what a positive or rule-in sign is, how clinicians examine fu
 ***
 ## For the Person With FND
 
-You may recognize parts of this page and not others. FND and the conditions around it do not look the same in everyone. Your own history, other health conditions, medications, surroundings and access to care all matter. This page cannot decide what is happening in one individual, but it can help you understand the questions worth asking.
+The word **positive** can be confusing here. It does not mean that the finding is good, nor does it mean that a blood test came back positive. A **positive sign**, sometimes called a **rule-in sign**, is something the clinician observes that gives evidence *for* an FND diagnosis.
 
-### Words you may encounter
+The neurological examination does more than measure whether a movement is strong, weak, steady or unsteady. A clinician may compare the same movement under different conditions. They may look at what happens when you move deliberately, when another movement brings the same muscles into action automatically, when your attention is directed elsewhere, or when you copy a rhythm. The pattern across these tasks may be more informative than any one result. (*citations* [1](#citation-1), [2](#citation-2))
 
-- FND diagnosis
-- positive signs
-- rule-in diagnosis
-- Hoover’s sign
-- distractibility
-- entrainment
-- video-EEG
-- functional seizure diagnosis
-- neurological examination
+This can feel strange. A leg that will not move when you concentrate on it may move more normally during a different task. A tremor may change when the other hand follows a rhythm. Walking may be easier in one direction or with a change in timing. These changes are not evidence that the person was pretending during the more difficult task. They show that the nervous system still has access to a function under some conditions, even though the person cannot reliably bring that function under voluntary control. FND symptoms are experienced as involuntary. (*citations* [1](#citation-1), [3](#citation-3))
 
-### What this may feel or look like
+### Some examples of positive signs
 
-The diagnostic process may involve recounting symptoms, being observed doing different tasks, having symptoms change during an examination, undergoing tests, and sometimes feeling disbelieved. Variability during testing is clinical information and does not mean the person is pretending.
+**Hoover’s sign** may be used when one leg appears weak. The clinician compares deliberate hip movement with the automatic pressure produced by that leg when the opposite leg works against resistance. Strength that is difficult to produce directly may appear during the linked automatic movement. This is evidence of preserved motor capacity, not proof that the person could simply move normally if they tried harder.
 
-These examples are not a checklist for diagnosing yourself. A familiar FND symptom can also exist beside another illness, and a new or substantially changed problem may need medical assessment.
+**Distractibility** means that a movement symptom changes when attention is drawn into another task. **Entrainment** is a particular tremor finding: while the person copies a rhythm with an unaffected hand or foot, the tremor may change to match that rhythm, pause or become difficult to maintain. The clinician looks for a clear and repeatable pattern, not one moment of ordinary variation.
 
-### What research is saying—and not saying
+Other FND presentations have other positive features. The examination of weakness is not used to diagnose a functional seizure, and tremor signs are not automatically applied to speech, vision, sensation or memory symptoms. There is no single bedside sign that diagnoses every form of FND.
 
-Research and clinical guidance discuss several parts of this subject:
+### What a positive sign does—and does not—mean
 
-- How a clinician listens to the person’s history and examines how the nervous system is working.
-- Why FND should not be diagnosed only because scans or other tests are normal.
-- What a positive sign is: something in the examination that gives the clinician evidence of a functional problem.
-- Why a symptom may change during the examination even though the person is not controlling it on purpose.
-- Why different symptoms may require different tests.
-- Why tests can help answer particular questions but cannot prove every possible cause has been excluded.
-- Why a person can have both FND and another neurological or medical condition.
-- What information a clinician should explain when giving the diagnosis.
-- When it may be reasonable to ask questions, request reassessment, or seek another opinion.
-- Positive diagnostic signs, including inconsistency with recognized neuroanatomical disease and incongruence with established neurological patterns.
+A well-supported positive sign can help explain why the clinician thinks the symptom is functional. It may also offer a starting point for rehabilitation: if movement becomes more available under one condition, treatment may explore how to make it more available in ordinary life.
 
-The page uses cautious wording because group research cannot tell one person exactly what caused a symptom, how it will change, or which approach will help. No single sign applies to every FND presentation, and tests answer limited questions. There is still uncertainty about diagnostic accuracy outside specialist settings, the possibility of dual diagnoses, and the need to revisit a diagnosis when the pattern meaningfully changes.
+However, one sign should not be separated from the rest of the history and examination. Pain, injury, fatigue, medication effects, difficulty understanding the task and other neurological conditions can affect performance. The clinician must decide whether the sign is appropriate for the symptom, whether it was demonstrated clearly, and whether another condition could also be present.
+
+> A positive sign is evidence for FND. It is not evidence that every symptom a person has is caused by FND.
+
+The diagnosis should be explained to you. It is reasonable to ask which sign was found, to have it demonstrated when appropriate, and to ask what other possibilities were considered. New symptoms or a major change in a familiar pattern may still need assessment even after FND has been diagnosed.
 
 ### Questions you might ask a clinician
 
-- “Which positive sign did you find?”
-- “What does that sign show?”
-- “What alternatives were considered?”
-- “What testing was needed and what did it rule in or out?”
-- “What change should bring me back for reassessment?”
+- “Which positive sign supports my diagnosis?”
+- “Could you show me what changed during the examination?”
+- “What does this finding tell us, and what does it not tell us?”
+- “Were pain, another illness or another neurological condition considered?”
+- “Could this finding help guide rehabilitation?”
 
-### Something small you can do
+### What can the person safely try at home?
 
-A useful first step is to create a “How was my diagnosis established?” question sheet. Record which positive signs or test findings the clinician explained.
+Write down the clinician’s explanation in two parts: **the sign that was found** and **what the clinician believes it shows**. If you were not given that information, choose one question from the list above for your next appointment.
 
-If that feels like too much, write down only the single fact or question that matters most today. This is an organizing exercise, not a diagnostic test or a treatment prescription. Stop if it is making symptoms markedly worse or creating a risk of pain, injury, breathing or swallowing difficulty, or another medical concern. Ask an appropriate clinician for help when the task involves diagnosis, emergency decisions or physical rehabilitation.
+Do not repeatedly perform Hoover’s sign, tremor tests or other neurological tests on yourself. These signs require training and context to interpret. Repeatedly testing a symptom can also increase attention, worry or physical strain without making the diagnosis clearer.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -71,17 +58,17 @@ If that feels like too much, write down only the single fact or question that ma
 ***
 - [Module overview](README.md) — a short introduction and guide to this module.
 - **Positive Signs and the Neurological Examination — current page**
-- [Tests, Diagnostic Uncertainty, and Coexisting Conditions](02-tests-diagnostic-uncertainty-and-coexisting-conditions.md)
+- [Tests, Diagnostic Uncertainty, and Coexisting Conditions](02-tests-diagnostic-uncertainty-and-coexisting-conditions.md) — what different tests can answer, dual diagnoses, and when reassessment may be appropriate.
 
 ## For Family, Friends, and Other Supporters
 
-It helps to understand positive signs without repeatedly testing the person.
+A positive sign can be reassuring when it shows that an ability is still present under some conditions. It can also be upsetting if the explanation sounds like, “You moved once, so you must be able to move whenever you want.” That is not what the sign means. The useful message is that the symptom is genuine and involuntary, while the nervous system may still have capacity that treatment can work with.
 
-When invited, you may be able to help by recording the clinician’s explanation and unresolved questions.
+If the person wants you at an appointment, you can help record which sign the clinician demonstrated and what was said about it. Ask the person afterward whether the explanation made sense to them. They may have heard the words but been too overwhelmed, symptomatic or uncertain to take in their meaning.
 
-Ask before stepping in, and let the person decide which observations or forms of help are useful. Try not to repeatedly test symptoms, insist on one explanation, or make improvement the price of receiving care. A supporter can help notice change and communicate clearly without becoming the person's clinician or supervisor.
+Do not test the person at home, secretly distract them to see whether a symptom changes, or use a better movement as proof that they could overcome the symptom by trying harder. This can damage trust and can turn support into surveillance. A supporter can help the person notice useful conditions for movement without taking over the role of clinician or therapist.
 
-New, severe, injured or substantially changed symptoms should not automatically be attributed to FND. Follow any individualized safety plan and seek appropriate medical help when the situation is outside the person's usual medically assessed pattern.
+Continue to take new or substantially changed symptoms seriously. A previous FND diagnosis does not make every later symptom functional.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -91,15 +78,13 @@ New, severe, injured or substantially changed symptoms should not automatically 
 ***
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Connect the explanation to the patient's own history and positive findings. Say what the evidence supports, what remains uncertain and what other conditions may coexist. Avoid presenting a general mechanism or group association as the proven cause of this individual's symptoms.
+**How can clinicians help the patient understand a positive sign?** Name the diagnosis, identify the sign that supports it and connect the sign to the patient’s own symptom. When appropriate and with consent, demonstrate the finding rather than only describing it. Explain preserved capacity without implying conscious control: “Your leg produced stronger automatic movement during this task, even though deliberate movement remains difficult.” Avoid relying on a normal scan, a history of stress or the absence of another diagnosis as the explanation. (*citations* [1](#citation-1), [2](#citation-2))
 
-**How can clinicians assess what may help this patient?** Assessment should identify practical treatment, rehabilitation, safety, accessibility and support needs—not only confirm a diagnostic label. Begin with the history and the patient's priorities, then use observation, examination, targeted testing and specialist input where they can answer a defined question.
+**How should positive signs be assessed?** Use signs validated for the presenting phenotype and interpret them alongside the history, complete neurological examination and relevant differential diagnosis. Seek internal inconsistency that is reproducible and clinically meaningful, not vague fluctuation. Consider pain, neglect, comprehension, fatigue, medication, biomechanical limits and coexisting disease before attributing a finding to FND. A collection of weak or inapplicable signs should not be treated as stronger evidence merely because there are several of them.
 
-Important assessment points for this subject include positive diagnostic signs, including inconsistency with recognized neuroanatomical disease and incongruence with established neurological patterns. Variability, distractibility, entrainment, Hoover’s sign, and demonstrations of preserved function, with attention to their proper interpretation. The difference between a positive rule-in diagnosis and a diagnosis of exclusion. Appropriate use and limitations of imaging, EEG, video-EEG, neurophysiology, laboratory testing, and recorded home events. Diagnostic overlap among functional seizures, epilepsy, syncope, sleep disorders, migraine, movement disorders, and other episodic conditions.
+**How can the examination begin to support treatment?** A respectfully demonstrated sign can do more than establish diagnosis. It can show the patient that a function is available under some conditions and help identify an initial rehabilitation strategy, such as changing attentional focus, rhythm, automatic movement or task context. The demonstration should be collaborative rather than an attempt to catch the patient out.
 
-**How can clinicians help the patient improve this symptom, difficulty or aspect of care?** Agree on goals that matter to the patient. Explain what can be treated, demonstrated, adapted, referred for or reviewed, and distinguish research evidence from consensus, specialist practice and lived-experience strategies. Avoid promising an individual result.
-
-**How can clinicians remain helpful when improvement is limited or not yet possible?** Continued care can still address symptom relief, safety, function, accessibility, participation, quality of life and supporter needs. Agree on when and how to review the plan. Persistent symptoms should not be treated as poor effort, and new or substantially changed symptoms still deserve appropriate assessment.
+**When should the diagnosis or examination be revisited?** Reassess when the original diagnosis was never supported by a clearly described positive sign, when the observed sign does not match the symptom being diagnosed, when objective findings conflict with the formulation, or when the patient develops a new or substantially different pattern. FND and another neurological or medical condition can coexist. Continued care requires protection against both unnecessary repeated investigation and diagnostic overshadowing.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -113,12 +98,20 @@ Important assessment points for this subject include positive diagnostic signs, 
 ***
 ## Research and Sources
 
-### Evidence review still needed
+### Three focused quotations
 
-This automatically generated draft still needs contributors and reviewers to check diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material.
+- “The diagnosis of FND should rest on clear positive evidence.” (*citations* [1](#citation-1))
+- “Positive signs are essential in supporting a phenotype-based diagnosis.” (*citations* [2](#citation-2))
+- “recognisable patterns of genuinely experienced symptoms” (*citations* [3](#citation-3))
 
-The completed evidence record should identify which claims come from direct research, clinical guidance, specialist consensus or lived experience. It should state who was studied, what outcome was measured, important limitations and disagreements, and whether the findings can reasonably be applied to an individual.
+### Citation table
 
-No focused quotations or citation table have been added yet because the sources have not been critically reviewed for this page. Medical and safety claims in this draft should therefore be treated as provisional.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
+| <a id="citation-2"></a>**[2]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
+| <a id="citation-3"></a>**[3]** | — | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) |
 
-*Draft generated: August 24, 2026 · Evidence review pending*
+This page still needs review by people with FND, supporters and clinicians, including a clinician experienced in neurological diagnosis.
+
+*Draft rewritten: August 24, 2026 · Clinical review pending*
