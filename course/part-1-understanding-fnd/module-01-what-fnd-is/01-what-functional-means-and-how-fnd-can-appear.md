@@ -1,5 +1,7 @@
 # What “Functional” Means and How FND Can Appear
 
+> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+
 This page explains what the word “functional” means, how FND can appear, how clinicians can identify it, and why the symptoms are real and involuntary.
 
 ***
@@ -103,7 +105,7 @@ Another useful thing to do is put into your own words what FND is and how to exp
 
 Functional Neurological Disorder is a very disabling disease and it can vary in how many symptoms or how sensitive those symptoms are. This used to be considered a psychiatric diagnosis called 'conversion disorder,' however, that term and the idea that these symptoms must be of a psychogenic (from the mind or emotions) or psychiatric cause is false. In fact, recent findings have shown that diagnosis of FND does not need a psychological precipitating factor. (*citations* [2](#citation-2), [4](#citation-4), [9](#citation-9)) 
 
-Supporting the person you are showing care to often involves assuring the person that their symptoms are real and not faked. They did not cause their disease. It's also very important to understand that not every new symptom is FND. All new symptoms should be looked at by a doctor because many serious medical issues look like an FND symptom. (*citations* [3](#citation-3), [9](#citation-9))
+Support the person you are showing care to often involves assuring the person that their symptoms are real and not faked. They did not cause their disease. It's also very important to understand that not every new symptom is FND. All new symptoms should be looked at by a doctor because many serious medical issues look like an FND symptom. (*citations* [3](#citation-3), [9](#citation-9))
 
 > - “PMD [functional movement disorder] patients reported similar Physical Health QOL [quality of life] to PD [Parkinson’s disease] patients … but worse mental health QOL [quality of life].”
 > - “Patients with [functional weakness] are as disabled as patients with weakness of similar duration due to neurological disease.”

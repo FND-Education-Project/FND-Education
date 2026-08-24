@@ -16,7 +16,7 @@ The current headings are **For the Person With FND**, **For Family, Friends, and
 
 **Status: Accepted.** Every focused page will stand alone.
 
-A reader may arrive from a search engine without reading the module overview. The templates currently tell the author to make every focused page understandable on its own while still linking back to the overview and sibling pages.
+A reader may arrive from a search engine without reading the module overview. The current working drafts make every focused page understandable on its own while still linking back to the overview and sibling pages.
 
 **Recommendation:** Yes. Allow a small amount of repeated orientation, but keep full explanations and evidence in one canonical page. The overview should help navigation rather than become required reading.
 

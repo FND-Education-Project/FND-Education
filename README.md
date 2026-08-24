@@ -1,5 +1,7 @@
 # FND Education
 
+> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+
 **Free, evidence-informed education for people living with Functional Neurological Disorder (FND) and the people who support them.**
 
 > [!IMPORTANT]
@@ -73,7 +75,7 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 **[Read the detailed course syllabus](docs/project/detailed-course-syllabus.md)** for the essential knowledge, professional and advanced detail, practical work, support-person focus, and expected takeaway planned for every module.
 
-**[Open the course authoring templates](course/README.md)** to work from the populated 16-part page templates.
+**[Open the course working drafts](course/README.md)** to read the 23 modules and 77 planned pages.
 
 ## Support-person mini-course
 
@@ -98,9 +100,9 @@ Readers will also be able to find material through focused guides organized arou
 - children and adolescents with FND;
 - family members, caregivers, and other support persons.
 
-## Every educational page will answer the same questions
+## Every educational page follows the same pattern
 
-Consistency is an accessibility requirement. Each completed page will use four visible reader-facing sections:
+Consistency is an accessibility requirement. Each course page uses four visible reader-facing sections:
 
 1. **For the Person With FND**
 2. **For Family, Friends, and Other Supporters**
@@ -109,7 +111,7 @@ Consistency is an accessibility requirement. Each completed page will use four v
 
 The clinician section is organized around practical usefulness to the patient: explaining the condition and the patient’s own presentation, assessing what may help, supporting improvement where possible, and continuing useful care when improvement is limited or unlikely. Differential diagnosis, safety-netting, and medical reassessment remain part of that patient-centred purpose.
 
-Within those four sections, the page will answer the same 15 questions:
+During drafting and review, the project uses the same 15 questions as an editorial checklist:
 
 1. What other names and search terms should readers recognize?
 2. What should a reader understand in about one minute?
@@ -127,7 +129,7 @@ Within those four sections, the page will answer the same 15 questions:
 14. Which evidence and source notes does the page need?
 15. When was the page last reviewed?
 
-A question that genuinely does not apply should be marked **Not applicable** rather than silently removed. Module overview pages will remain short and link to one to four focused pages that use the same pattern.
+A question that genuinely does not apply should be marked **Not applicable** in the editorial review rather than silently ignored. Module overview pages remain short and link to one to four focused pages that use the same pattern.
 
 ### Practical help at home
 
@@ -142,9 +144,11 @@ When research has not answered an everyday question, the project may examine for
 
 ## Authorship approach
 
-All educational material will be **human-authored by a person living with FND**. The author will work from detailed research notes and source material, bringing lived understanding to the wording and deciding how the subject is ultimately explained.
+The intended final educational material will be **human-authored and approved by a person living with FND**. The project lead works from research notes and source material, brings lived understanding to the wording, and decides how the subject is ultimately explained.
 
-AI may help locate and organize research, prepare authoring notes, check citations and consistency, and identify questions or omissions. AI will also maintain and update this `README.md` as the project develops. AI assistance is not the source of medical authority and will not replace human authorship of the educational pages.
+The current Modules 2–23 are clearly labelled automatically generated working drafts. They use the human-planned syllabus and the Module 1 wording pattern as starting material. They are not treated as final human-authored or medically reviewed pages until a person has edited them and the required evidence and safety review is complete.
+
+AI may help create initial drafts, locate and organize research, prepare authoring notes, check citations and consistency, and identify questions or omissions. AI also maintains and updates this `README.md` as the project develops. AI assistance is not a source of medical authority and does not replace human editing, evidence review or final authorship.
 
 The intended relationship with the reader is:
 

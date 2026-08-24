@@ -1,5 +1,7 @@
 # Module 1 — What Is Functional Neurological Disorder?
 
+> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+
 A short starting point for understanding what FND is, what **functional** means, how symptoms can vary, and what improvement may mean.
 
 ## In this module
@@ -21,4 +23,4 @@ A short starting point for understanding what FND is, what **functional** means,
 >
 > Every Module 1 page uses these same four main sections.
 
-➡️ **Next module:** [How FND Is Diagnosed](../module-02-how-fnd-is-diagnosed/README.md)
+➡️ **Next module:** [How Is FND Diagnosed?](../module-02-how-fnd-is-diagnosed/README.md)
