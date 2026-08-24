@@ -1,6 +1,8 @@
 # What Functional Seizures Are and How They Are Diagnosed
 
-This is a focused authoring template within Module 6. Build the completed page around this scope: Explain terminology, genuine involuntary episodes, varied semiology, history, witness descriptions, smartphone video, video-EEG, differential diagnosis, and the possibility of both epilepsy and functional seizures.
+> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+
+This page explains terminology, genuine involuntary episodes, varied semiology, history, witness descriptions, smartphone video, video-EEG, differential diagnosis, and the possibility of both epilepsy and functional seizures.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -10,21 +12,55 @@ This is a focused authoring template within Module 6. Build the completed page a
 ***
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: functional seizures; dissociative seizures; PNES; psychogenic nonepileptic seizures; nonepileptic attacks; altered awareness; functional episodes; video-EEG. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “What Functional Seizures Are and How They Are Diagnosed.” Mark historical, disputed, or potentially stigmatizing language clearly.
+You may recognize parts of this page and not others. FND and the conditions around it do not look the same in everyone. Your own history, other health conditions, medications, surroundings and access to care all matter. This page cannot decide what is happening in one individual, but it can help you understand the questions worth asking.
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Explain terminology, genuine involuntary episodes, varied semiology, history, witness descriptions, smartphone video, video-EEG, differential diagnosis, and the possibility of both epilepsy and functional seizures. The reader should not have to read the module overview first to understand the page.
+### Words you may encounter
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: What functional seizures are and the different names people may hear for them. Why functional seizures are real and not deliberately performed. How clinicians may use the person’s description, witness accounts, videos, and EEG testing to make the diagnosis. Why a functional seizure is not an epileptic seizure, while some people can have both conditions. Why episodes can involve movement, stillness, altered awareness, memory gaps, or many other patterns. How warning feelings, triggers, the episode itself, and recovery may differ between people. Basic steps to reduce injury and keep the space calm. Why supporters should not restrain the person or put anything in the mouth. How a personal plan explains when a familiar episode can be managed safely and when emergency help is needed. Terminology including functional seizures, dissociative seizures, and psychogenic nonepileptic seizures, with regional and classification differences. Semiology, diagnostic history, witness reliability, smartphone video, ambulatory EEG, and video-EEG confirmation. Differential diagnosis involving epileptic seizures, syncope, parasomnias, movement disorders, migraine, panic, metabolic disturbance, and other episodic events. Coexisting epilepsy, diagnostic revision, and communication of remaining uncertainty. Autonomic, motor, sensory, cognitive, and dissociative features without treating semiology alone as definitive. Risks from injury, breath-holding or apparent unresponsiveness, emergency overtreatment, and inappropriate antiseizure therapy. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+- functional seizures
+- dissociative seizures
+- PNES
+- psychogenic nonepileptic seizures
+- nonepileptic attacks
+- altered awareness
+- functional episodes
+- video-EEG
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Cover uncertainty about why episodes start and stop, why treatments help some people, the role of dissociation or stress in only some cases, and the limits of seizure-frequency outcomes. Note gaps in research on severe, prolonged, breath-related, and mixed episodes. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+### What this may feel or look like
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe possible episodes without implying one typical appearance: shaking, stillness, collapse, altered responsiveness, inability to move, memory gaps, sensory warnings, breath changes, or prolonged recovery. Make clear that experiences and awareness vary and that appearance alone cannot establish the diagnosis. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+Episodes do not have one typical appearance. They may include shaking, stillness, collapse, altered responsiveness, inability to move, memory gaps, sensory warnings, breath changes, or prolonged recovery. Experiences and awareness vary, and appearance alone cannot establish the diagnosis.
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Create an individualized episode plan and recovery preferences sheet. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+These examples are not a checklist for diagnosing yourself. A familiar FND symptom can also exist beside another illness, and a new or substantially changed problem may need medical assessment.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: How was the diagnosis confirmed? Could epilepsy or another episodic disorder coexist? What should my supporter do and avoid? When should emergency services be called? What outcomes besides episode count should treatment target? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### What research is saying—and not saying
 
-**What should the reader open next?** Use these module links: [Module overview](README.md); [Episode Safety, Observation, and Emergency Decisions](02-episode-safety-observation-and-emergency-decisions.md); [Recovery, Treatment, and Daily Life](03-recovery-treatment-and-daily-life.md) Add cross-module links later only when they answer a clear next question.
+Research and clinical guidance discuss several parts of this subject:
+
+- What functional seizures are and the different names people may hear for them.
+- Why functional seizures are real and not deliberately performed.
+- How clinicians may use the person’s description, witness accounts, videos, and EEG testing to make the diagnosis.
+- Why a functional seizure is not an epileptic seizure, while some people can have both conditions.
+- Why episodes can involve movement, stillness, altered awareness, memory gaps, or many other patterns.
+- How warning feelings, triggers, the episode itself, and recovery may differ between people.
+- Basic steps to reduce injury and keep the space calm.
+- Why supporters should not restrain the person or put anything in the mouth.
+- How a personal plan explains when a familiar episode can be managed safely and when emergency help is needed.
+- Terminology including functional seizures, dissociative seizures, and psychogenic nonepileptic seizures, with regional and classification differences.
+
+The page uses cautious wording because group research cannot tell one person exactly what caused a symptom, how it will change, or which approach will help. There is still uncertainty about why episodes start and stop, why treatments help some people, the role of dissociation or stress in only some cases, and the limits of seizure-frequency outcomes. There are research gaps concerning severe, prolonged, breath-related, and mixed episodes.
+
+### Questions you might ask a clinician
+
+- “How was the diagnosis confirmed?”
+- “Could epilepsy or another episodic disorder coexist?”
+- “What should my supporter do and avoid?”
+- “When should emergency services be called?”
+- “What outcomes besides episode count should treatment target?”
+
+### Something small you can do
+
+A useful first step is to create an individualized episode plan and recovery preferences sheet.
+
+If that feels like too much, write down only the single fact or question that matters most today. This is an organizing exercise, not a diagnostic test or a treatment prescription. Stop if it is making symptoms markedly worse or creating a risk of pain, injury, breathing or swallowing difficulty, or another medical concern. Ask an appropriate clinician for help when the task involves diagnosis, emergency decisions or physical rehabilitation.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -32,9 +68,20 @@ This is a focused authoring template within Module 6. Build the completed page a
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+- [Module overview](README.md) — a short introduction and guide to this module.
+- **What Functional Seizures Are and How They Are Diagnosed — current page**
+- [Episode Safety, Observation, and Emergency Decisions](02-episode-safety-observation-and-emergency-decisions.md)
+- [Recovery, Treatment, and Daily Life](03-recovery-treatment-and-daily-life.md)
+
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “What Functional Seizures Are and How They Are Diagnosed.” Develop the supporter guidance from these points: Protecting from injury, timing and observing, avoiding restraint, and never placing objects in the mouth. Reducing crowds, repeated questioning, and panic during recovery. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Help protect the person from injury, time and observe the episode, avoid restraint, and never place objects in the mouth.
+
+Reduce crowds, repeated questioning, and panic during recovery.
+
+Ask before stepping in, and let the person decide which observations or forms of help are useful. Try not to repeatedly test symptoms, insist on one explanation, or make improvement the price of receiving care. A supporter can help notice change and communicate clearly without becoming the person's clinician or supervisor.
+
+New, severe, injured or substantially changed symptoms should not automatically be attributed to FND. Follow any individualized safety plan and seek appropriate medical help when the situation is outside the person's usual medically assessed pattern.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -44,13 +91,15 @@ This is a focused authoring template within Module 6. Build the completed page a
 ***
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Discuss epilepsy, fainting, heart-rhythm events, migraine, sleep disorders, panic episodes, movement disorders, and metabolic causes. Emphasize that some people have both epilepsy and functional seizures and that a changed event should not be classified from appearance alone. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+**How can clinicians help the patient understand this subject and their own presentation?** Connect the explanation to the patient's own history and positive findings. Say what the evidence supports, what remains uncertain and what other conditions may coexist. Avoid presenting a general mechanism or group association as the proven cause of this individual's symptoms.
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Semiology, diagnostic history, witness reliability, smartphone video, ambulatory EEG, and video-EEG confirmation. Differential diagnosis involving epileptic seizures, syncope, parasomnias, movement disorders, migraine, panic, metabolic disturbance, and other episodic events. Coexisting epilepsy, diagnostic revision, and communication of remaining uncertainty. Outcome measures beyond seizure frequency, including injury, emergency use, recovery time, participation, and quality of life. Explain both the value and limitations of each step.
+**How can clinicians assess what may help this patient?** Assessment should identify practical treatment, rehabilitation, safety, accessibility and support needs—not only confirm a diagnostic label. Begin with the history and the patient's priorities, then use observation, examination, targeted testing and specialist input where they can answer a defined question.
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Autonomic, motor, sensory, cognitive, and dissociative features without treating semiology alone as definitive. Risks from injury, breath-holding or apparent unresponsiveness, emergency overtreatment, and inappropriate antiseizure therapy. Evidence and limitations for psychological treatment, education, multidisciplinary care, and management of comorbidities. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+Important assessment points for this subject include semiology, diagnostic history, witness reliability, smartphone video, ambulatory EEG, and video-EEG confirmation. Differential diagnosis involving epileptic seizures, syncope, parasomnias, movement disorders, migraine, panic, metabolic disturbance, and other episodic events. Coexisting epilepsy, diagnostic revision, and communication of remaining uncertainty. Outcome measures beyond seizure frequency, including injury, emergency use, recovery time, participation, and quality of life.
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Include individualized emergency criteria, injury, a first event, a new event pattern, possible pregnancy or medication complications, prolonged breathing concern, unusual unresponsiveness, and events that differ from the clinician-reviewed pattern. Avoid publishing one time limit as correct for everyone. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**How can clinicians help the patient improve this symptom, difficulty or aspect of care?** Agree on goals that matter to the patient. Explain what can be treated, demonstrated, adapted, referred for or reviewed, and distinguish research evidence from consensus, specialist practice and lived-experience strategies. Avoid promising an individual result.
+
+**How can clinicians remain helpful when improvement is limited or not yet possible?** Continued care can still address symptom relief, safety, function, accessibility, participation, quality of life and supporter needs. Agree on when and how to review the plan. Persistent symptoms should not be treated as poor effort, and new or substantially changed symptoms still deserve appropriate assessment.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -58,8 +107,18 @@ This is a focused authoring template within Module 6. Build the completed page a
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+⬅️ **Previous page:** [Module overview](README.md)
+
+➡️ **Next article:** [Episode Safety, Observation, and Emergency Decisions](02-episode-safety-observation-and-emergency-decisions.md)
+***
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “What Functional Seizures Are and How They Are Diagnosed”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+### Evidence review still needed
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+This automatically generated draft still needs contributors and reviewers to check diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material.
+
+The completed evidence record should identify which claims come from direct research, clinical guidance, specialist consensus or lived experience. It should state who was studied, what outcome was measured, important limitations and disagreements, and whether the findings can reasonably be applied to an individual.
+
+No focused quotations or citation table have been added yet because the sources have not been critically reviewed for this page. Medical and safety claims in this draft should therefore be treated as provisional.
+
+*Draft generated: August 24, 2026 · Evidence review pending*

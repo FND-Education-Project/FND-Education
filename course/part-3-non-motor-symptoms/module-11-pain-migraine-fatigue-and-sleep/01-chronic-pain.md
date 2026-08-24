@@ -1,6 +1,8 @@
 # Chronic Pain
 
-This is a focused authoring template within Module 11. Build the completed page around this scope: Explain chronic pain as a major coexisting problem, nociceptive, neuropathic, nociplastic, and mixed pain concepts, central sensitization limits, assessment, multidisciplinary management, practical adaptations, and diagnostic overshadowing.
+> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+
+This page explains chronic pain as a major coexisting problem, nociceptive, neuropathic, nociplastic, and mixed pain concepts, central sensitization limits, assessment, multidisciplinary management, practical adaptations, and diagnostic overshadowing.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -10,21 +12,57 @@ This is a focused authoring template within Module 11. Build the completed page 
 ***
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND pain; chronic pain; migraine and FND; fatigue; post-exertional worsening; insomnia; sleep disorder; sleep apnea; central sensitization; nociplastic pain. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Chronic Pain.” Mark historical, disputed, or potentially stigmatizing language clearly.
+You may recognize parts of this page and not others. FND and the conditions around it do not look the same in everyone. Your own history, other health conditions, medications, surroundings and access to care all matter. This page cannot decide what is happening in one individual, but it can help you understand the questions worth asking.
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Explain chronic pain as a major coexisting problem, nociceptive, neuropathic, nociplastic, and mixed pain concepts, central sensitization limits, assessment, multidisciplinary management, practical adaptations, and diagnostic overshadowing. The reader should not have to read the module overview first to understand the page.
+### Words you may encounter
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: Why pain, migraine, fatigue, and sleep problems are common in people with FND but are not all automatically caused by FND. Why migraine is its own neurological condition even when it triggers or worsens functional symptoms. Why chronic pain may involve injury, disease, changes in pain processing, or several factors together. Why fatigue is a symptom with many possible causes rather than one diagnosis. How poor sleep, pain, migraine, fatigue, thinking difficulty, movement symptoms, and seizures may worsen one another. Why medication and substance effects should be considered. Why treatable problems such as sleep disorders, migraine, anemia, or endocrine disease should not be missed. How planning activity and recovery may help some people when capacity varies. Why pushing through everything and avoiding everything can each create problems. Prevalence and burden of pain, headache disorders, fatigue, and sleep disturbance across FND phenotypes. Migraine as a comorbid neurological disorder, potential precipitant, symptom amplifier, and diagnostic overlap. Nociceptive, neuropathic, nociplastic, and mixed pain mechanisms; central sensitization as a model rather than a complete explanation. Fatigue measurement, post-exertional symptom exacerbation, and differential diagnosis including ME/CFS and systemic illness. Insomnia, sleep fragmentation, circadian disturbance, sleep-disordered breathing, parasomnias, and medication or substance effects. Bidirectional effects involving attention, arousal, cognition, mood, motor control, seizures, and participation. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+- FND pain
+- chronic pain
+- migraine and FND
+- fatigue
+- post-exertional worsening
+- insomnia
+- sleep disorder
+- sleep apnea
+- central sensitization
+- nociplastic pain
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Explain that prevalence is clearer than causation. Note uncertain FND-specific pacing evidence, debated pain mechanisms, limited sleep research, and difficulty separating fatigue caused by illness, medication, poor sleep, pain, inactivity, or other conditions. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+### What this may feel or look like
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe pain, headache, sensory sensitivity, exhaustion, unrefreshing or fragmented sleep, reduced stamina, delayed worsening after activity, and the way these problems interact with thinking and movement. Avoid presenting four distinct problems as one symptom. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+This may include pain, headache, sensory sensitivity, exhaustion, unrefreshing or fragmented sleep, reduced stamina, delayed worsening after activity, and the way these problems interact with thinking and movement. These are four distinct problems and should not be presented as one symptom.
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Map interactions among sleep, pain, migraine, fatigue, activity, and FND symptoms. Select one measurable question for a clinician rather than tracking everything. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+These examples are not a checklist for diagnosing yourself. A familiar FND symptom can also exist beside another illness, and a new or substantially changed problem may need medical assessment.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Is migraine being treated as its own condition? Has a sleep disorder been assessed? What type of pain is suspected? Does activity cause immediate or delayed worsening? Which medical causes of fatigue have been considered? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### What research is saying—and not saying
 
-**What should the reader open next?** Use these module links: [Module overview](README.md); [Migraine](02-migraine.md); [Fatigue and Post-Activity Worsening](03-fatigue-and-post-activity-worsening.md); [Sleep Problems and Sleep Disorders](04-sleep-problems-and-sleep-disorders.md) Add cross-module links later only when they answer a clear next question.
+Research and clinical guidance discuss several parts of this subject:
+
+- Why pain, migraine, fatigue, and sleep problems are common in people with FND but are not all automatically caused by FND.
+- Why migraine is its own neurological condition even when it triggers or worsens functional symptoms.
+- Why chronic pain may involve injury, disease, changes in pain processing, or several factors together.
+- Why fatigue is a symptom with many possible causes rather than one diagnosis.
+- How poor sleep, pain, migraine, fatigue, thinking difficulty, movement symptoms, and seizures may worsen one another.
+- Why medication and substance effects should be considered.
+- Why treatable problems such as sleep disorders, migraine, anemia, or endocrine disease should not be missed.
+- How planning activity and recovery may help some people when capacity varies.
+- Why pushing through everything and avoiding everything can each create problems.
+- Prevalence and burden of pain, headache disorders, fatigue, and sleep disturbance across FND phenotypes.
+
+The page uses cautious wording because group research cannot tell one person exactly what caused a symptom, how it will change, or which approach will help. Prevalence is clearer than causation. There is uncertainty about FND-specific pacing evidence, debated pain mechanisms, limited sleep research, and difficulty separating fatigue caused by illness, medication, poor sleep, pain, inactivity, or other conditions.
+
+### Questions you might ask a clinician
+
+- “Is migraine being treated as its own condition?”
+- “Has a sleep disorder been assessed?”
+- “What type of pain is suspected?”
+- “Does activity cause immediate or delayed worsening?”
+- “Which medical causes of fatigue have been considered?”
+
+### Something small you can do
+
+A useful first step is to map interactions among sleep, pain, migraine, fatigue, activity, and FND symptoms. Select one measurable question for a clinician rather than tracking everything.
+
+If that feels like too much, write down only the single fact or question that matters most today. This is an organizing exercise, not a diagnostic test or a treatment prescription. Stop if it is making symptoms markedly worse or creating a risk of pain, injury, breathing or swallowing difficulty, or another medical concern. Ask an appropriate clinician for help when the task involves diagnosis, emergency decisions or physical rehabilitation.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -32,9 +70,21 @@ This is a focused authoring template within Module 11. Build the completed page 
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+- [Module overview](README.md) — a short introduction and guide to this module.
+- **Chronic Pain — current page**
+- [Migraine](02-migraine.md)
+- [Fatigue and Post-Activity Worsening](03-fatigue-and-post-activity-worsening.md)
+- [Sleep Problems and Sleep Disorders](04-sleep-problems-and-sleep-disorders.md)
+
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Chronic Pain.” Develop the supporter guidance from these points: Respecting pain and fatigue without assuming permanent incapacity. Helping plan within available capacity without policing activity. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Respect pain and fatigue without assuming permanent incapacity.
+
+When invited, you may be able to help by planning within available capacity without policing activity.
+
+Ask before stepping in, and let the person decide which observations or forms of help are useful. Try not to repeatedly test symptoms, insist on one explanation, or make improvement the price of receiving care. A supporter can help notice change and communicate clearly without becoming the person's clinician or supervisor.
+
+New, severe, injured or substantially changed symptoms should not automatically be attributed to FND. Follow any individualized safety plan and seek appropriate medical help when the situation is outside the person's usual medically assessed pattern.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -44,13 +94,15 @@ This is a focused authoring template within Module 11. Build the completed page 
 ***
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Cover injury, inflammatory or neurological disease, primary headache disorders, sleep apnea and other sleep disorders, anemia, infection, endocrine disease, medication effects, ME/CFS, fibromyalgia, and mood disorders. Emphasize that migraine is a separate neurological diagnosis. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+**How can clinicians help the patient understand this subject and their own presentation?** Connect the explanation to the patient's own history and positive findings. Say what the evidence supports, what remains uncertain and what other conditions may coexist. Avoid presenting a general mechanism or group association as the proven cause of this individual's symptoms.
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Migraine as a comorbid neurological disorder, potential precipitant, symptom amplifier, and diagnostic overlap. Fatigue measurement, post-exertional symptom exacerbation, and differential diagnosis including ME/CFS and systemic illness. Risks of diagnostic overshadowing, polypharmacy, and assuming improvement in a comorbidity will necessarily resolve FND. Explain both the value and limitations of each step.
+**How can clinicians assess what may help this patient?** Assessment should identify practical treatment, rehabilitation, safety, accessibility and support needs—not only confirm a diagnostic label. Begin with the history and the patient's priorities, then use observation, examination, targeted testing and specialist input where they can answer a defined question.
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Evidence and limitations for pacing, graded activity, sleep interventions, migraine treatment, pain rehabilitation, and multidisciplinary care. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+Important assessment points for this subject include migraine as a comorbid neurological disorder, potential precipitant, symptom amplifier, and diagnostic overlap. Fatigue measurement, post-exertional symptom exacerbation, and differential diagnosis including ME/CFS and systemic illness. Risks of diagnostic overshadowing, polypharmacy, and assuming improvement in a comorbidity will necessarily resolve FND.
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Flag a new severe headache, new neurological signs, fever, chest symptoms, progressive weakness, major sleep-breathing concerns, unexplained weight or systemic change, or a marked change in pain or fatigue. Encourage review of treatable contributors and medication effects. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**How can clinicians help the patient improve this symptom, difficulty or aspect of care?** Agree on goals that matter to the patient. Explain what can be treated, demonstrated, adapted, referred for or reviewed, and distinguish research evidence from consensus, specialist practice and lived-experience strategies. Avoid promising an individual result.
+
+**How can clinicians remain helpful when improvement is limited or not yet possible?** Continued care can still address symptom relief, safety, function, accessibility, participation, quality of life and supporter needs. Agree on when and how to review the plan. Persistent symptoms should not be treated as poor effort, and new or substantially changed symptoms still deserve appropriate assessment.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -58,8 +110,18 @@ This is a focused authoring template within Module 11. Build the completed page 
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+⬅️ **Previous page:** [Module overview](README.md)
+
+➡️ **Next article:** [Migraine](02-migraine.md)
+***
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Chronic Pain”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+### Evidence review still needed
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+This automatically generated draft still needs contributors and reviewers to check diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material.
+
+The completed evidence record should identify which claims come from direct research, clinical guidance, specialist consensus or lived experience. It should state who was studied, what outcome was measured, important limitations and disagreements, and whether the findings can reasonably be applied to an individual.
+
+No focused quotations or citation table have been added yet because the sources have not been critically reviewed for this page. Medical and safety claims in this draft should therefore be treated as provisional.
+
+*Draft generated: August 24, 2026 · Evidence review pending*

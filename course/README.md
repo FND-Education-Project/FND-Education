@@ -1,21 +1,21 @@
-# Course Authoring Templates
+# FND Education Course
 
-These files are structured notes for the human author, not completed educational articles. The course contains 23 module folders and 77 planned pages. Every module begins with a short overview and then links to one to four focused pages.
+> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
 
-Every overview and focused page uses the same four visible sections:
+This directory contains the first complete working draft of the FND Education course: 23 modules and 77 pages. Each module begins with a short overview and links to one to four focused articles.
+
+Modules 2–23 were automatically generated from the detailed human-planned syllabus and the wording pattern established in Module 1. They are starting drafts, not reviewed medical education. Contributors and reviewers are invited to help with evidence, safety, accessibility, lived experience and plain-language editing.
+
+Every focused article uses the same four sections:
 
 1. **For the Person With FND**
 2. **For Family, Friends, and Other Supporters**
 3. **For Clinicians and the Care Team**
 4. **Research and Sources**
 
-Within those four sections, 15 recurring authoring questions preserve the project’s full page standard.
+The clinician section focuses on practical usefulness to the patient: helping the person understand their own presentation, assessing what may help, supporting realistic improvement and continuing useful care when improvement is limited.
 
-The clinician section is not simply an advanced fact sheet. Its recurring questions focus on how clinicians can help the patient understand the subject and their own presentation, assess what may help, support symptom or functional improvement, and remain useful when improvement is limited or not yet possible. Differential diagnosis, treatment evidence, safety, accessibility, quality of life, and reassessment remain part of that patient-centred purpose.
-
-The same four on-page links are repeated before each major section so a reader can move directly among the person, supporter, clinician, and research material without returning to the top.
-
-[Review the revised course-organization decisions](../docs/project/course-organization-decisions.md)
+[Review the course-organization decisions](../docs/project/course-organization-decisions.md)
 
 ## Part One: Understanding FND
 
@@ -57,4 +57,3 @@ The same four on-page links are repeated before each major section so a reader c
 - [Setbacks, Relapse, and Changing Symptoms](part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/README.md) — 3 pages
 - [Build Your Personal FND Handbook](part-6-long-term-management/module-22-building-your-personal-fnd-handbook/README.md) — 3 pages
 - [Review Progress and Choose Next Steps](part-6-long-term-management/module-23-reviewing-progress/README.md) — 2 pages
-

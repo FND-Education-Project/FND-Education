@@ -1,5 +1,7 @@
 # Remission, Recovery, and What Improvement Can Mean
 
+> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+
 This is a short introduction. Later modules will discuss treatment, rehabilitation, setbacks and long-term management in much more detail. Here, we only need enough information to understand what people may mean when they talk about getting better.
 
 ***
@@ -78,7 +80,7 @@ If symptoms return, try not to treat the relapse as proof that all progress has 
 ***
 ⬅️ **Previous article:** [The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
 
-➡️ **Next module:** [How FND Is Diagnosed](../module-02-how-fnd-is-diagnosed/README.md)
+➡️ **Next module:** [How Is FND Diagnosed?](../module-02-how-fnd-is-diagnosed/README.md)
 ***
 ## Research and Sources
 

@@ -1,44 +1,47 @@
 # Project Status
 
-**Current stage: detailed authoring preparation.**
+> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
 
-The course architecture, evidence standards, accessibility goals, practical self-management approach, and support-person framework are established. The repository now contains 23 module folders with 77 planned pages.
+**Current stage: complete first-draft course, awaiting human editing and evidence review.**
+
+The repository contains all 23 modules and 77 planned course pages. Module 1 contains the project lead's developing human voice and reviewed sources. The remaining modules have now been converted from authoring templates into readable, automatically generated working drafts based on the detailed syllabus and the Module 1 pattern.
 
 ## Completed foundation work
 
-- Established the evidence-first project voice and human-authorship approach.
-- Separated project policies and standards from the main README.
+- Established the evidence-first project voice, safety rules and accessibility goals.
 - Created the six-part, 23-module syllabus.
-- Created a separate linked syllabus page for every module.
-- Reorganized the course into 23 module folders.
-- Created a short overview template plus one to four focused templates for every module.
-- Applied the same four visible sections and 15 recurring authoring questions to all 77 pages.
-- Re-centred the clinician questions on patient understanding, individualized help, realistic improvement, and continuing support when improvement is limited.
-- Added repeated on-page links so readers can move directly among the person, supporter, clinician, and research sections.
-- Revised the course-organization decisions using the completed page structure.
+- Organized the course into 23 module folders and 77 pages.
+- Kept the four reader-facing sections on every focused page.
+- Completed the initial Module 1 writing pattern.
+- Replaced the remaining authoring templates with full working drafts.
+- Reformatted every module README into a short overview like Module 1.
+- Added a visible automatic-generation and contributor-review notice to every course page.
+- Added complete reading-order, previous-page and next-page navigation.
+- Marked citations and evidence review as pending wherever a research package has not yet been completed.
 
 ## Current priorities
 
-1. Complete the human edit of the biopsychosocial-model page.
-2. Review and revise the short remission-and-recovery introduction.
-3. Complete the human-authored Module 1 overview.
-4. Review all four Module 1 pages for evidence accuracy, source traceability, safety, accessibility, plain language, and consistency.
-5. Use the completed Module 1 process as the repeatable workflow for later modules.
+1. Human-edit Modules 2–23 so the wording reflects the project lead's own voice and decisions.
+2. Build a focused research package and citation table for each page.
+3. Check every medical and safety statement against appropriate evidence and clinical guidance.
+4. Invite people with FND, supporters, clinicians and other reviewers to identify errors, missing perspectives and accessibility problems.
+5. Add lived-experience material only with clear consent and labelling.
+6. Review terminology, internal links, external links and page status before any page is marked published.
 
-## First planned authored module
+## Status labels for course pages
 
-Module 1 contains:
+- **Automatically generated working draft** — readable starting text exists, but human editing and evidence review remain incomplete.
+- **Human draft in progress** — the project lead is rewriting and deciding the final explanation.
+- **Research notes in preparation** — source collection and critical review are underway.
+- **Under review** — evidence, safety, accessibility, plain language and citations are being checked.
+- **Published** — available to readers with a visible last-reviewed date.
+- **Update needed** — new evidence or another issue requires review.
+
+## First human writing model
+
+Module 1 remains the wording and structure model for later human edits:
 
 1. [Module overview](../../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md)
 2. [What “Functional” Means and How FND Can Appear](../../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md)
 3. [The Biopsychosocial Model and Misconceptions](../../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md)
 4. [Remission, Recovery, and What Improvement Can Mean](../../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md)
-
-## Status labels for course pages
-
-- **Authoring template** — the four sections and detailed writing prompts exist, but the educational prose has not been human-authored.
-- **Research notes in preparation** — source collection and critical review are underway.
-- **Human draft in progress** — the author is writing from the research notes.
-- **Under review** — evidence, safety, accessibility, plain language, and citations are being checked.
-- **Published** — available to readers with a visible last-reviewed date.
-- **Update needed** — new evidence or another issue requires review.

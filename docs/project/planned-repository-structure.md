@@ -1,6 +1,6 @@
 # Planned Repository Structure
 
-The repository keeps human-authored educational material separate from syllabus planning, project policies, research notes, reusable resources, media, and future website code.
+The repository keeps course working drafts separate from syllabus planning, project policies, research notes, reusable resources, media, and future website code. Final educational pages remain subject to human authorship and approval.
 
 ```text
 FND-Education-/
@@ -39,6 +39,6 @@ FND-Education-/
 └── website/
 ```
 
-The **syllabus** folder contains the planning outline for each module. The **course** folder contains 23 module folders and 77 authoring templates. Each module folder begins with a short `README.md` overview and contains one to four focused pages. The future **guides** folder will provide user-friendly routes for finding canonical course pages by symptom or practical need.
+The **syllabus** folder contains the planning outline for each module. The **course** folder contains 23 module folders and 77 working-draft pages. Each module folder begins with a short `README.md` overview and contains one to four focused pages. The future **guides** folder will provide user-friendly routes for finding canonical course pages by symptom or practical need.
 
 The structure may change as the project develops. Priorities are predictable navigation, durable links, one canonical home for each full explanation, and avoiding information becoming trapped in very large documents.
