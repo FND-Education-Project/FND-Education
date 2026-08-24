@@ -88,6 +88,8 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 ## Find information by symptom or need
 
+**[Open the Symptom-Specific Diagnostic Signs reference](reference/README.md)** for clinician-led techniques, what each finding can and cannot support, and contributor instructions for future images and videos.
+
 Readers will also be able to find material through focused guides organized around a symptom or practical need, including:
 
 - functional seizures, dissociative seizures, PNES, and altered-awareness episodes;
@@ -163,6 +165,7 @@ The project should be willing to say **“researchers do not yet know”** when 
 - [Detailed course syllabus](docs/project/detailed-course-syllabus.md)
 - [Course organization decisions](docs/project/course-organization-decisions.md)
 - [Planned resource library](docs/project/planned-resource-library.md)
+- [Symptom-specific diagnostic signs](reference/README.md)
 - [Evidence standard](docs/project/evidence-standard.md)
 - [Search and usability standards](docs/project/search-and-usability-standards.md)
 - [Accessibility standards](docs/project/accessibility-standards.md)

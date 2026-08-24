@@ -28,6 +28,9 @@ FND-Education-/
 │   ├── part-4-treatment-and-rehabilitation/
 │   ├── part-5-living-with-fnd/
 │   └── part-6-long-term-management/
+├── reference/
+│   ├── README.md
+│   └── diagnostic-signs/
 ├── guides/
 ├── support-persons/
 ├── resources/
@@ -39,6 +42,6 @@ FND-Education-/
 └── website/
 ```
 
-The **syllabus** folder contains the planning outline for each module. The **course** folder contains 23 module folders and 77 working-draft pages. Each module folder begins with a short `README.md` overview and contains one to four focused pages. The future **guides** folder will provide user-friendly routes for finding canonical course pages by symptom or practical need.
+The **syllabus** folder contains the planning outline for each module. The **course** folder contains 23 module folders and 77 working-draft pages. Each module folder begins with a short `README.md` overview and contains one to four focused pages. The **reference** folder contains stand-alone, symptom-specific diagnostic-sign pages and a contributor-facing media index. The future **guides** folder will provide user-friendly routes for finding canonical course pages by symptom or practical need.
 
 The structure may change as the project develops. Priorities are predictable navigation, durable links, one canonical home for each full explanation, and avoiding information becoming trapped in very large documents.
