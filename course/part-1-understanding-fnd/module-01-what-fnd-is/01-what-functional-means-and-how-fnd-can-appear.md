@@ -128,7 +128,7 @@ A 2022 paper titled, ***"Functional Neurological Disorder: new subtypes and shar
 3. "Psychological stressors **are common *risk factors*** for functional neurological disorder, but are often absent."
 4. "Four entities—functional seizures, functional movement disorders, persistent perceptual postural dizziness, and functional cognitive disorder—show similarities in aetiology and pathophysiology and are variants of a disorder at the interface between neurology and psychiatry."
 
-Clearly, this is a disease that is based on real dysfunction with a variety of causes that does not necessarily require a psychological stress. It's subtypes are well recognized and importantly, diagnosis can be made using positive clinical features.
+Clearly, this is a disease that is based on real dysfunction with a variety of causes that does not necessarily require a psychological stress. It's subtypes are well recognized and importantly, diagnosis can be made using positive clinical features. **For a complete list of those diagnosis techniques, see our [reference](https://github.com/FND-Education-Project/FND-Education/blob/main/reference/diagnostic-signs/README.md) section.**
 
 Here are some resources:
 - **[FND Hope - Medical Professionals](https://fndhope.org/living-fnd/physicians)**
