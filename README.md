@@ -88,7 +88,7 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 ## Find information by symptom or need
 
-**[Open the Symptom-Specific Diagnostic Signs reference](reference/README.md)** for clinician-led techniques, what each finding can and cannot support, and contributor instructions for future images and videos.
+**[Open the FND Reference Library](reference/README.md)** for two symptom-specific collections: positive diagnostic signs and recovery/management techniques. The recovery collection includes a master list organized both by symptom and alphabetically, plus one practical evidence page for each of the 13 current symptom presentations.
 
 Readers will also be able to find material through focused guides organized around a symptom or practical need, including:
 
@@ -165,7 +165,9 @@ The project should be willing to say **“researchers do not yet know”** when 
 - [Detailed course syllabus](docs/project/detailed-course-syllabus.md)
 - [Course organization decisions](docs/project/course-organization-decisions.md)
 - [Planned resource library](docs/project/planned-resource-library.md)
-- [Symptom-specific diagnostic signs](reference/README.md)
+- [FND reference library](reference/README.md)
+  - [Symptom-specific diagnostic signs](reference/diagnostic-signs/README.md)
+  - [Symptom recovery and management techniques](reference/recovery-techniques/README.md)
 - [Evidence standard](docs/project/evidence-standard.md)
 - [Search and usability standards](docs/project/search-and-usability-standards.md)
 - [Accessibility standards](docs/project/accessibility-standards.md)

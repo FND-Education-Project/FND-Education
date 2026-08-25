@@ -31,6 +31,21 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0025](#fnd-cit-0025) | Baker et al., 2021 | Professional consensus recommendations | functional communication, swallowing, cough, speech-language therapy | [speech and voice](../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md); [swallowing and globus](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md); [cough and upper airway](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) |
 | [FND-CIT-0026](#fnd-cit-0026) | McWhirter et al., 2022 | Proposed diagnostic risk model | Functional Cognitive Disorder, internal inconsistency, differential diagnosis | [Functional Cognitive Disorder](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) |
 | [FND-CIT-0027](#fnd-cit-0027) | Staab et al., 2017 | Bárány Society consensus criteria | PPPD, dizziness, vestibular diagnosis | [PPPD criteria](../reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) |
+| [FND-CIT-0028](#fnd-cit-0028) | Nielsen et al., 2015 | Professional consensus recommendations | functional motor rehabilitation, movement retraining, physiotherapy | [weakness techniques](../reference/recovery-techniques/01-functional-limb-weakness.md); [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md); [jerk techniques](../reference/recovery-techniques/03-functional-jerks-and-myoclonus.md); [dystonia techniques](../reference/recovery-techniques/04-functional-dystonia.md); [gait techniques](../reference/recovery-techniques/05-functional-gait-disorder.md); [sensory techniques](../reference/recovery-techniques/07-functional-sensory-symptoms.md) |
+| [FND-CIT-0029](#fnd-cit-0029) | Nielsen et al., 2024 | Multicentre phase 3 randomized trial | specialist physiotherapy, functional motor disorder, outcomes | [weakness techniques](../reference/recovery-techniques/01-functional-limb-weakness.md); [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md); [gait techniques](../reference/recovery-techniques/05-functional-gait-disorder.md) |
+| [FND-CIT-0030](#fnd-cit-0030) | Macías-García et al., 2024 | Randomized clinical trial | combined physiotherapy and CBT, functional movement disorder | [weakness techniques](../reference/recovery-techniques/01-functional-limb-weakness.md); [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md); [gait techniques](../reference/recovery-techniques/05-functional-gait-disorder.md) |
+| [FND-CIT-0031](#fnd-cit-0031) | Espay et al., 2014 | Proof-of-concept study | functional tremor, tremor retrainment, biofeedback | [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md) |
+| [FND-CIT-0032](#fnd-cit-0032) | LaFrance et al., 2014 | Multicentre pilot randomized trial | functional seizures, CBT-informed psychotherapy | [functional-seizure techniques](../reference/recovery-techniques/06-functional-seizures.md) |
+| [FND-CIT-0033](#fnd-cit-0033) | Goldstein et al., 2020 | Multicentre randomized trial | dissociative seizures, CBT, clinical outcomes | [functional-seizure techniques](../reference/recovery-techniques/06-functional-seizures.md) |
+| [FND-CIT-0034](#fnd-cit-0034) | Duncan et al., 2024 | Multi-site open-label pilot | functional seizures, breathing control training | [functional-seizure techniques](../reference/recovery-techniques/06-functional-seizures.md) |
+| [FND-CIT-0035](#fnd-cit-0035) | McCombs et al., 2024 | Retrospective cohort, Class IV evidence | sensory processing, sensory-based occupational therapy | [sensory techniques](../reference/recovery-techniques/07-functional-sensory-symptoms.md) |
+| [FND-CIT-0036](#fnd-cit-0036) | Poole et al., 2025 | Randomized feasibility trial | Functional Cognitive Disorder, online group ACT | [FCD techniques](../reference/recovery-techniques/12-functional-cognitive-disorder.md) |
+| [FND-CIT-0037](#fnd-cit-0037) | Cabreira et al., 2025 | Single-arm feasibility trial | Functional Cognitive Disorder, digital self-help | [FCD techniques](../reference/recovery-techniques/12-functional-cognitive-disorder.md) |
+| [FND-CIT-0038](#fnd-cit-0038) | Li et al., 2025 | Systematic review and meta-analysis | PPPD, vestibular rehabilitation | [PPPD techniques](../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md) |
+| [FND-CIT-0039](#fnd-cit-0039) | Webster et al., 2023 | Cochrane systematic review | PPPD, pharmacological interventions, evidence gap | [PPPD techniques](../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md) |
+| [FND-CIT-0040](#fnd-cit-0040) | Webster et al., 2023 | Cochrane systematic review | PPPD, non-pharmacological interventions, evidence gap | [PPPD techniques](../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md) |
+| [FND-CIT-0041](#fnd-cit-0041) | Shen et al., 2026 | Systematic review and network meta-analysis | PPPD, neuromodulation, vestibular rehabilitation, CBT | [PPPD techniques](../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md) |
+| [FND-CIT-0042](#fnd-cit-0042) | Wang et al., 2026 | Systematic review of adjacent esophageal-disorder evidence | globus, functional dysphagia, gut–brain neuromodulators | [swallowing and globus techniques](../reference/recovery-techniques/10-functional-swallowing-and-globus.md) |
 
 ## FND-CIT-0001
 
@@ -193,6 +208,96 @@ Use this source for internal inconsistency as a central positive feature of Func
 Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622)
 
 Use this source for the five consensus diagnostic criteria for PPPD and for the role of examination and testing in identifying alternative or coexisting conditions. Do not apply these criteria to dizziness in general or treat normal vestibular testing as sufficient for diagnosis.
+
+## FND-CIT-0028
+
+Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255)
+
+Use this source for education, redirected attention, task-oriented automatic movement, symptom-specific motor retraining examples, graded activity and relapse planning. It is professional consensus, not evidence that every listed exercise has been independently tested.
+
+## FND-CIT-0029
+
+Nielsen G, Stone J, Lee TC, et al.; Physio4FMD study group. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial. *The Lancet Neurology*. 2024;23(7):675–686. [https://doi.org/10.1016/S1474-4422(24)00135-2](https://doi.org/10.1016/S1474-4422(24)00135-2)
+
+Use this source for program-level evidence about specialist FND physiotherapy. The primary 12-month physical-function outcome was not clearly superior, although several secondary and patient-rated outcomes favored specialist care; do not cite it as proof of one exercise or universal response.
+
+## FND-CIT-0030
+
+Macías-García D, Méndez-Del Barrio M, Canal-Rivero M, et al. Combined physiotherapy and cognitive behavioral therapy for functional movement disorders: a randomized clinical trial. *JAMA Neurology*. 2024;81(9):966–976. [https://doi.org/10.1001/jamaneurol.2024.2393](https://doi.org/10.1001/jamaneurol.2024.2393)
+
+Use this source for early controlled evidence on combined specialized physiotherapy and CBT in functional movement disorders. The small, single-center sample limits generalization and does not identify which treatment component produced change.
+
+## FND-CIT-0031
+
+Espay AJ, Edwards MJ, Oggioni GD, et al. Tremor retrainment as therapeutic strategy in psychogenic (functional) tremor. *Parkinsonism & Related Disorders*. 2014;20(6):647–650. [https://doi.org/10.1016/j.parkreldis.2014.02.029](https://doi.org/10.1016/j.parkreldis.2014.02.029)
+
+Use this source for proof-of-concept evidence on tremor retrainment and biofeedback. Its small, uncontrolled design does not establish comparative effectiveness or suitability for every functional tremor.
+
+## FND-CIT-0032
+
+LaFrance WC Jr, Baird GL, Barry JJ, et al. Multicenter pilot treatment trial for psychogenic nonepileptic seizures: a randomized clinical trial. *JAMA Psychiatry*. 2014;71(9):997–1005. [https://doi.org/10.1001/jamapsychiatry.2014.817](https://doi.org/10.1001/jamapsychiatry.2014.817)
+
+Use this source for pilot evidence about seizure-focused CBT-informed psychotherapy. The sample was small and the reported within-group seizure reductions should not be treated as definitive proof.
+
+## FND-CIT-0033
+
+Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0)
+
+Use this source for mixed evidence on dissociative-seizure-specific CBT. The primary seizure-frequency outcome was not significantly different at 12 months, while several secondary outcomes improved; represent both findings.
+
+## FND-CIT-0034
+
+Duncan R, Berlowitz DJ, Mullen S, et al. Breathing control training for functional seizures: a multi-site, open-label pilot study. *Epilepsy & Behavior*. 2024;154:109745. [https://doi.org/10.1016/j.yebeh.2024.109745](https://doi.org/10.1016/j.yebeh.2024.109745)
+
+Use this source for emerging, clinician-taught breathing-control training. Only 10 of 18 recruited participants completed follow-up and the seizure-frequency result did not reach conventional statistical significance; a larger randomized trial is underway.
+
+## FND-CIT-0035
+
+McCombs KE, MacLean J, Finkelstein SA, Goedeken S, Perez DL, Ranford J. Sensory processing difficulties and occupational therapy outcomes for functional neurological disorder: a retrospective cohort study. *Neurology: Clinical Practice*. 2024;14(3):e200286. [https://doi.org/10.1212/CPJ.0000000000200286](https://doi.org/10.1212/CPJ.0000000000200286)
+
+Use this source for sensory-profile findings and preliminary outcomes from sensory-based occupational therapy. It is an uncontrolled retrospective cohort with clinician-rated outcomes and provides Class IV evidence, not causal proof.
+
+## FND-CIT-0036
+
+Poole N, Cope S, Vanzan S, et al. Randomised controlled feasibility trial of online group acceptance and commitment therapy for functional cognitive disorder. *BJPsych Open*. 2025;11(3):e91. [https://doi.org/10.1192/bjo.2025.33](https://doi.org/10.1192/bjo.2025.33)
+
+Use this source for feasibility and acceptability of an FCD-specific online ACT group. The trial randomized 44 participants but was not powered to establish efficacy.
+
+## FND-CIT-0037
+
+Cabreira V, Frostholm L, Stone J, Carson A. Feasibility trial of a self-help digital intervention for functional cognitive disorder. *Brain Communications*. 2025;7(4):fcaf248. [https://doi.org/10.1093/braincomms/fcaf248](https://doi.org/10.1093/braincomms/fcaf248)
+
+Use this source for feasibility and acceptability of CBT- and metacognition-informed digital self-help for FCD. Its single-arm design prepares for a future randomized trial and does not establish effectiveness.
+
+## FND-CIT-0038
+
+Li Y, Pei X, Ding R, Liu Z, Xu Y, Wang Z, Li Y, Li L. Effect of vestibular rehabilitation therapy in patients with persistent postural perceptual dizziness: a systematic review and meta-analysis. *Frontiers in Neurology*. 2025;16:1599201. [https://doi.org/10.3389/fneur.2025.1599201](https://doi.org/10.3389/fneur.2025.1599201)
+
+Use this source for pooled evidence on vestibular rehabilitation in PPPD. The article was corrected in 2025, included heterogeneous and often small studies, and calls for more randomized trials; do not infer one universal protocol.
+
+## FND-CIT-0039
+
+Webster KE, Harrington-Benton NA, Judd O, et al. Pharmacological interventions for persistent postural-perceptual dizziness (PPPD). *Cochrane Database of Systematic Reviews*. 2023;3:CD015188. [https://doi.org/10.1002/14651858.CD015188.pub2](https://doi.org/10.1002/14651858.CD015188.pub2)
+
+Use this source for the absence of eligible placebo-controlled randomized PPPD medication trials under the review criteria. It does not prove that medication can never help an individual or a coexisting condition.
+
+## FND-CIT-0040
+
+Webster KE, Kamo T, Smith L, et al. Non-pharmacological interventions for persistent postural-perceptual dizziness (PPPD). *Cochrane Database of Systematic Reviews*. 2023;3:CD015333. [https://doi.org/10.1002/14651858.CD015333.pub2](https://doi.org/10.1002/14651858.CD015333.pub2)
+
+Use this source for the very limited controlled non-pharmacological PPPD evidence that met strict diagnostic, comparator and follow-up criteria. Its conclusions should be read alongside later reviews with different inclusion criteria.
+
+## FND-CIT-0041
+
+Shen J, Zhao X, Huo Y, Chen S, Deng W, Zheng W, Zhang J. Comparative efficacy of non-pharmacological interventions for persistent postural-perceptual dizziness: a systematic review and network meta-analysis of balance, anxiety, and depression outcomes. *Journal of Neurology*. 2026;273:366. [https://doi.org/10.1007/s00415-026-13891-1](https://doi.org/10.1007/s00415-026-13891-1)
+
+Use this source for emerging comparative evidence on PPPD neuromodulation, vestibular rehabilitation, CBT and galvanic vestibular stimulation. The network was sparse, 81.8% of included studies were judged at high risk of bias, and overall evidence quality was low to moderate.
+
+## FND-CIT-0042
+
+Wang Z, Zheng Z, Wei X, et al. Efficacy of gut-brain neuromodulators in functional esophageal disorders: a systematic review. *BMC Gastroenterology*. 2026. [https://doi.org/10.1186/s12876-026-05089-6](https://doi.org/10.1186/s12876-026-05089-6)
+
+Use this adjacent evidence only for a clinician-led discussion of gut–brain neuromodulators in appropriately assessed globus. It found some support for globus but unconvincing evidence for functional dysphagia and was not specific to FND swallowing symptoms.
 
 # How Course Pages Should Use the Index
 
