@@ -1,16 +1,35 @@
 # Unified CBT-Informed Booklets for Functional Seizures
 
-> **Five-booklet production outline:** Each linked page is a separate, reviewer-ready outline. The final booklets are intended for reading on screen or downloading and printing. They are education and guided self-reflection, not a substitute for individualized therapy or medical care.
+> **Five-booklet production plan:** Each booklet has a numbered, reviewer-ready page outline and a separate in-depth guide that teaches the future content creator the CBT concepts, functional-seizure applications, worked examples, visual possibilities, and language cautions behind the outline. The final booklets are intended for reading on screen or downloading and printing. They are education and guided self-reflection, not a substitute for individualized therapy or medical care.
 
 ## The five booklets
 
-1. [Understanding Functional Seizures and CBT](01-understanding-functional-seizures-and-cbt.md)
-2. [Discovering Your Seizure Pattern](02-discovering-your-seizure-pattern.md)
-3. [Skills for Warnings and Seizure Onset](03-skills-for-warnings-and-seizure-onset.md)
-4. [Returning to Activities and Independence](04-returning-to-activities-and-independence.md)
-5. [Support, Setbacks, and Maintaining Progress](05-support-setbacks-and-maintaining-progress.md)
+1. Understanding Functional Seizures and CBT
 
-The order is deliberate: understand the diagnosis and treatment idea; build a personal map; try carefully chosen skills; regain parts of life; then make progress durable. A clinician may change the order or omit activities to match the person.
+   1. [Numbered production outline](01-understanding-functional-seizures-and-cbt.md)
+   2. [In-depth content-creator guide](01-content-creator-guide-understanding-functional-seizures-and-cbt.md)
+
+2. Discovering Your Seizure Pattern
+
+   1. [Numbered production outline](02-discovering-your-seizure-pattern.md)
+   2. [In-depth content-creator guide](02-content-creator-guide-discovering-your-seizure-pattern.md)
+
+3. Skills for Warnings and Seizure Onset
+
+   1. [Numbered production outline](03-skills-for-warnings-and-seizure-onset.md)
+   2. [In-depth content-creator guide](03-content-creator-guide-skills-for-warnings-and-seizure-onset.md)
+
+4. Returning to Activities and Independence
+
+   1. [Numbered production outline](04-returning-to-activities-and-independence.md)
+   2. [In-depth content-creator guide](04-content-creator-guide-returning-to-activities-and-independence.md)
+
+5. Support, Setbacks, and Maintaining Progress
+
+   1. [Numbered production outline](05-support-setbacks-and-maintaining-progress.md)
+   2. [In-depth content-creator guide](05-content-creator-guide-support-setbacks-and-maintaining-progress.md)
+
+The order is deliberate: understand the diagnosis and treatment idea; build a personal map; try carefully chosen skills; regain parts of life; then make progress durable. A clinician may change the order or omit activities to match the person. The production outlines say what each page must accomplish. The content-creator guides teach enough of the underlying clinical and CBT reasoning for a novice author to draft that page without guessing from a heading.
 
 ## Intended readers
 
