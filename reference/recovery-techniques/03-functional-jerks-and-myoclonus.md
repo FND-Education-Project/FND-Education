@@ -1,6 +1,6 @@
 # Recovery Techniques for Functional Jerks or Myoclonus
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional myoclonus, functional jerky movements and functional tic-like or shock-like movements. These terms are not interchangeable diagnoses; assessment matters.
 

@@ -1,6 +1,6 @@
 # Functional Seizures
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Careful event history followed, when feasible, by video-EEG recording of each typical event type.  
 **Diagnostic method:** Interpret the complete event, its clinical context and simultaneous video and EEG—not one movement viewed alone.  

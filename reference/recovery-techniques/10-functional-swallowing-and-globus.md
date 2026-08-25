@@ -1,6 +1,6 @@
 # Recovery Techniques for Functional Swallowing Symptoms and Globus
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional dysphagia, phagophobia, functional swallowing disorder and globus pharyngeus. These terms can describe different problems and should not be assumed to have the same cause or safety profile.
 

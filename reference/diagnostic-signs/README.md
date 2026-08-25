@@ -1,6 +1,6 @@
 # Symptom-Specific Diagnostic Signs
 
-> **Working draft:** This reference was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This reference was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 These pages explain positive signs and criteria that clinicians may use when diagnosing particular FND presentations. They are written as practical briefs for future text, image and video contributors.
 

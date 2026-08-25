@@ -1,6 +1,6 @@
 # Project Status
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Current stage: complete first-draft course, awaiting human editing and evidence review.**
 

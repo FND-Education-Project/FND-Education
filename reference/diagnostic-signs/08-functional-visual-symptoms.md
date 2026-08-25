@@ -1,6 +1,6 @@
 # Functional Visual Symptoms
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Positive demonstration of preserved visual function during a complete ophthalmic or neuro-ophthalmic assessment.  
 **Diagnostic method:** Compare reported vision with objective visual behaviours or responses, such as optokinetic nystagmus, while also looking for eye and brain disease.  

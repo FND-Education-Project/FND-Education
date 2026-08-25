@@ -1,6 +1,6 @@
 # Module 20 — Work, Disability, and Community Participation
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Work, Disability, and Community Participation** and helps readers choose the most useful page.
 

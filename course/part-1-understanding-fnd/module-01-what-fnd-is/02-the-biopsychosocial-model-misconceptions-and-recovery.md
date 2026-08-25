@@ -1,6 +1,6 @@
 # The Biopsychosocial Model and Misconceptions
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This page explains the biopsychosocial model in simple terms, what it does and does not mean for FND, and how biological, psychological, and social factors can guide individual care and support.
 

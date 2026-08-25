@@ -1,6 +1,6 @@
 # Module 14 — Rehabilitation and Neuroplastic Change
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Rehabilitation and Neuroplastic Change** and helps readers choose the most useful page.
 

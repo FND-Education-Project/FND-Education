@@ -1,6 +1,6 @@
 # Functional Sensory Symptoms
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Systematic sensory history and examination across separate sensory modalities.  
 **Diagnostic method:** Map the pattern, repeat selected comparisons and interpret any inconsistency cautiously; traditional sensory signs are not reliable enough to stand alone.  

@@ -1,6 +1,6 @@
 # Persistent Postural-Perceptual Dizziness
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Criteria-based clinical interview with appropriate vestibular and medical assessment.  
 **Diagnostic method:** Confirm all five Bárány Society PPPD criteria; there is no single bedside manoeuvre or scan that establishes the diagnosis.  

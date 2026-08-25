@@ -1,6 +1,6 @@
 # Recovery Techniques for Functional Cough and Upper-Airway Symptoms
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional cough, habit cough, somatic cough syndrome, functional throat clearing and inducible laryngeal or breathing symptoms. These labels overlap imperfectly; respiratory and laryngeal assessment determines which treatment is appropriate.
 

@@ -1,6 +1,6 @@
 # FND Education Course
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This directory contains the first complete working draft of the FND Education course: 23 modules and 77 pages. Each module begins with a short overview and links to one to four focused articles.
 

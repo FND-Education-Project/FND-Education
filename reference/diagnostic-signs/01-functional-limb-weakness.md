@@ -1,6 +1,6 @@
 # Functional Limb Weakness or Paralysis
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Hoover’s sign for functional leg weakness.  
 **Diagnostic method:** Comparison of deliberate hip extension with automatic hip extension during movement of the opposite leg.  

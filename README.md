@@ -1,6 +1,6 @@
 # FND Education
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Free, evidence-informed education for people living with Functional Neurological Disorder (FND) and the people who support them.**
 

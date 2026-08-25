@@ -1,6 +1,6 @@
 # Positive Signs and the Neurological Examination
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 FND should not be diagnosed simply because a scan was normal or because no other explanation has been found. The diagnosis should be supported by features in the history or examination that positively fit a functional neurological problem. This page explains what those features may show, as well as what they cannot show.
 
