@@ -1,7 +1,5 @@
 # Remission, Recovery, and What Improvement Can Mean
 
-> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
-
 This is a short introduction. Later modules will discuss treatment, rehabilitation, setbacks and long-term management in much more detail. Here, we only need enough information to understand what people may mean when they talk about getting better.
 
 ***
@@ -14,18 +12,13 @@ This is a short introduction. Later modules will discuss treatment, rehabilitati
 
 One of the big questions, once, perhaps the shock of diagnosis fades, is "Can this go away?" Maybe instead of 'go away' words like remission, cure, or recovery might replace them. If we are talking about a cure, meaning, the disease functional neurological disorder is no longer present nor will ever come back, then as far as anyone currently knows, no. There is no cure. However, people do experience recovery or remission. Because the two words can be used to mean the same thing, let's give them definitions that this course will use.
 
-For this course, 'remission' refers to all or some of a person's symptoms disappearing for a time. Some have experienced remission for years - the likeliness often depending on a few factors especially what symptoms were disrupting their lives. 
+For this course, **'remission'** refers to all or some of a person's symptoms disappearing for a time. Some have experienced remission for years - the likeliness often depending on a few factors especially what symptoms were disrupting their lives.
 
-
-In this course, **remission** means that symptoms have become much less active or have disappeared for a period of time. Complete remission means that the symptoms being discussed are absent. Partial remission means that they have improved but are still present. Remission is not automatically the same as a cure because symptoms can return.
-
-**Recovery** is broader and more personal. For one person, recovery may mean that all functional symptoms have stopped. For someone else, it may mean fewer or shorter episodes, being able to walk or communicate more easily, returning to an important activity, becoming more independent, feeling safer, or having a better quality of life.
+Recovery has a few meanings. For instance, I might say, 'After a functional seizure I need a few days of recovery.' In that sense, recovery means bringing myself into a more stable state, where my symptoms are less triggered and that my energy or ability to cope returns.
 
 > Recovery does not have to mean that every symptom has disappeared.
 
-FND does not follow one predictable path. Some people improve greatly, some have periods of remission followed by symptoms returning, and some continue to have serious disability. Research into functional motor symptoms has found widely different outcomes, so a group statistic cannot tell one person exactly what will happen to them. (*citations* [1](#citation-1), [2](#citation-2))
-
-A return of symptoms does not erase real progress. It may mean that the person is having a flare or relapse and needs to return to strategies that helped before, adjust the plan, or seek medical advice if the symptoms are new or substantially different.
+A key thing to take away in this section is that FND symptoms can grow worse or go away for a time. A return of symptoms does not mean failure; it's just the progress of the disease. 
 
 ### Questions
 
@@ -50,11 +43,13 @@ Choose one small sign of improvement that would matter in your life. It might be
 
 ## For Family, Friends, and Other Supporters
 
-Ask the person what recovery means to them. Their most important goal may not be the one that is most visible to you. Fewer symptoms may matter, but so may independence, comfort, safety, privacy, relationships, or being able to take part in something meaningful.
+Thank you for supporting someone's recovery process. It's important for both you and the sufferer to have a clear goal in mind with steps along the way of what recovery looks like. When a person has many symptoms at once, what recovery looks like can range from adapting to their most disabling symptom to just getting stable after the trauma of diagnosis.
 
-It is possible to hope for improvement while also making life safer and more accessible now. Accepting the need for help, mobility equipment, rest, financial support, or a different way of doing things does not mean that anyone has given up.
+What is important to many sufferers of FND is holding some independence, comfort, feeling safe, and keeping or gaining relationships. In fact, making life safer and more accessible may do a lot to lower the intensity of their symptoms. It's also important to help them access mobility equipment.
 
-If symptoms return, try not to treat the relapse as proof that all progress has been lost. Help the person notice what they have learned, what still works, and whether anything about the episode is new enough to need medical assessment. Recovery may include becoming better prepared for difficult periods, not only preventing every symptom. (*citations* [2](#citation-2), [3](#citation-3))
+> When functional neurological disorder was less understood, it was felt that providing mobility aids could *"prevent the return of normal movement". Recently, the guidance is that mobility aids are **"reasonable and appropriate"** when they improve safety, independence, and access to the community.
+
+If symptoms return or don't respond to a treatment, help the person notice what they have learned and what still works. Recovery may include becoming better prepared for difficult periods, adapting, and it can't be about preventing every symptom. (*citations* [2](#citation-2), [3](#citation-3))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -63,6 +58,8 @@ If symptoms return, try not to treat the relapse as proof that all progress has 
 [Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
+
+If you are looking for a reference guide on treatments for specific symptoms, our [reference](https://github.com/FND-Education-Project/FND-Education/blob/main/reference/recovery-techniques/README.md) page contains a complete index of techniques.
 
 **How can clinicians help the patient understand remission and recovery?** Explain that remission, symptom improvement, functional improvement and quality of life are related but different outcomes. Be honest that the course of FND varies and avoid promising either complete recovery or permanent disability from group-level evidence alone. (*citations* [1](#citation-1), [2](#citation-2))
 
@@ -80,7 +77,7 @@ If symptoms return, try not to treat the relapse as proof that all progress has 
 ***
 ⬅️ **Previous article:** [The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
 
-➡️ **Next module:** [How Is FND Diagnosed?](../module-02-how-fnd-is-diagnosed/README.md)
+➡️ **Next module:** [How FND Is Diagnosed](../module-02-how-fnd-is-diagnosed/README.md)
 ***
 ## Research and Sources
 
