@@ -8,7 +8,7 @@ Functional weakness can improve when rehabilitation brings out movement that is 
 
 **Evidence labels:** **R** research-supported · **C** clinical consensus · **E** emerging. Most individual exercises below come from specialist consensus; research trials usually evaluate a complete physiotherapy or multidisciplinary program rather than one exercise in isolation.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family-friends-and-supporters](#for-family-friends-and-supporters) · [For-clinicians](#for-clinicians) · [Research-and-evidence](#research-and-evidence)
+[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
 
 ## For the person with symptoms
 
