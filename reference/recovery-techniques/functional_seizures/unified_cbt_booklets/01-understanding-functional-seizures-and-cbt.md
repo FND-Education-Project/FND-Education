@@ -2,66 +2,148 @@
 
 > **Reader-facing promise:** “Understand what functional seizures are, what CBT is trying to change, and how to choose goals without blame.”
 
-**Proposed length:** 12–14 pages. **Main job:** give enough shared understanding for later exercises while directing readers to the online course for full diagnosis, mechanism, and treatment information.
+**For the person creating this booklet:** Read the linked [in-depth content-creator guide](01-content-creator-guide-understanding-functional-seizures-and-cbt.md) before drafting. It explains the CBT concepts used here through functional-seizure examples and identifies messages that could accidentally become blaming or medically unsafe.
 
-## What the reader should be able to do afterward
+## 1. Purpose and limits
 
-- explain that functional seizures are real and involuntary;
-- distinguish “not epileptic” from “not real,” while remembering that epilepsy and functional seizures can coexist;
-- describe CBT as a practical way of testing links among body sensations, attention, expectations, emotions, actions, surroundings, and consequences—not as proof of one psychological cause;
-- name two personally meaningful goals in addition to seizure frequency; and
-- decide which questions need a clinician before continuing.
+### 1.1 Main purpose
 
-## Page-by-page teaching plan
+This first booklet gives the reader enough shared understanding to use the later practical booklets. It should explain functional seizures, the role of CBT-informed treatment, the limits of current evidence, and the many ways improvement can be measured.
 
-| Page or spread | What is taught in user-friendly language | Why it is included / why it may help | Imagery, illustration, or activity |
-|---|---|---|---|
-| 1. Cover | “These booklets help you understand and test patterns around an established functional-seizure diagnosis.” | Sets scope and avoids implying that the booklet can diagnose or cure. | A calm route map with five stops matching the booklet series; no image of a seizure. |
-| 2. Start here safely | “Use this for the episode pattern your clinician assessed. A first, injured, severe, or substantially different event needs your medical plan.” | Prevents self-diagnosis and automatic attribution of every event to FND. | Two clearly labelled cards: “familiar pattern—use my plan” and “new or changed—pause and check.” Colour is supported by icons and text. |
-| 3–4. Real, involuntary, and functional | Explain that symptoms are not chosen or performed. “Functional” describes a problem in how nervous-system networks are working, not a damaged-looking structure and not an imaginary illness. | A credible, non-blaming explanation can improve engagement; diagnostic understanding was an important part of studied care pathways. | An original “network coordination” illustration: an orchestra or transit network out of coordination while the instruments or tracks still exist. Caption that every analogy is incomplete. |
-| 5. Functional seizures and epilepsy | A functional seizure is not an epileptic seizure, but one person can have both. Tests, history, observed events, and specialist assessment determine the plan—not a booklet or one visible sign. | Reduces the two dangerous shortcuts: treating functional seizures as epilepsy, or dismissing a new epileptic/medical event as functional. | Three overlapping folders: “functional-seizure plan,” “epilepsy plan,” and “shared safety information.” Avoid a diagnostic checklist. |
-| 6–7. What CBT means here | “CBT asks what happens in a repeating situation and what small change might make the next moment different.” Thoughts and emotions are possible parts of the map, not compulsory causes. | Makes therapy concrete and counters the idea that referral means symptoms are imaginary or “all stress.” | A five-part wheel—body, attention, expectations, actions, surroundings—with an open centre labelled “your pattern may use some, not all.” |
-| 8. How change may happen | Learning can become automatic through repetition. Treatment may create an earlier choice point, reduce alarm or avoidance, strengthen a competing response, or help life expand even when seizures continue. | Gives several plausible treatment targets without declaring a single mechanism. | A dimmer switch and branching path. One branch shows “more warning,” another “safer recovery,” another “return to activity.” |
-| 9. What research actually says | Current guidance finds psychological interventions possibly effective. The large adult CODES trial had a non-significant primary seizure-frequency result but improved several secondary outcomes; a small paediatric ReACT trial had strong short-term results. | Builds realistic hope and prevents cherry-picking. | A balanced-scale infographic: “what we know,” “what looks promising,” and “what is still uncertain.” No success-rate headline. |
-| 10. Choose outcomes that matter | Goals can include fewer or less severe seizures, longer warnings, shorter recovery, fewer injuries or emergency visits, more independence, and return to valued life. | Seizure counts alone can miss meaningful improvement and can make persistent symptoms feel like personal failure. | A progress dashboard with six unranked dials and blank spaces for the reader's own measures. |
-| 11–12. My starting point | Reader records the diagnosis wording they were given, other conditions/plans, two valued goals, one concern, and one question for care providers. | Produces a safe baseline and identifies missing information before symptom-focused work. | Large-print “What I know / What I am unsure about / What matters to me” worksheet with an example filled in lightly beside a blank version. |
-| 13. Where next | Booklet 2 is for pattern discovery; readers who lack diagnostic clarity or an episode plan are directed to course and clinician questions first. | Supports choice rather than forced progression. | A three-door choice: “learn more,” “ask/check,” or “continue to mapping.” |
-| 14. One-page summary and sources | Six essential statements, personal goals, course links, sources, and review date. | Makes the booklet usable during fatigue and portable to appointments. | Tear-out or standalone low-ink page with QR codes plus written short links. |
+### 1.2 What this booklet must not try to do
 
-## Worksheets to create
+The booklet must not diagnose a seizure-like event, prove that an event is functional, promise seizure control, or tell the reader why their seizures began. It should not become a shortened version of the whole FND course. Its job is to provide the minimum safe foundation for seizure-specific practice.
 
-### My diagnosis and safety checkpoint
+### 1.3 Intended reader
 
-Prompts: “The name my clinician used,” “How it was assessed,” “Whether I also have epilepsy or another episode diagnosis,” “Where my personal emergency plan is,” and “What would count as a new or changed event for me.” Include “I do not know yet” as a valid answer and a prompt to ask rather than guess.
+The first version is written for an adult with an established functional-seizure diagnosis. A person may read it alone, with a supporter, or during treatment. The language should still make sense if the reader has never received CBT and does not know terms such as *formulation*, *behavioural experiment*, *avoidance*, or *dissociation*.
 
-### What would meaningful progress look like?
+## 2. Learning outcomes
 
-Offer a menu and two blank lines. The reader chooses no more than three starting outcomes and records a simple baseline. Explain that choosing function does not mean seizure reduction is unimportant.
+After reading the booklet, the reader should be able to:
 
-### Questions I want answered
+1. explain that functional seizures are real and involuntary;
+2. understand that “not epileptic” does not mean “not real,” and that epilepsy and functional seizures can coexist;
+3. describe CBT as a practical method for studying and changing current patterns—not as proof that thoughts, stress, or trauma caused the condition;
+4. name at least two meaningful treatment outcomes besides seizure frequency; and
+5. identify questions that need to be answered by a clinician before beginning seizure-management exercises.
 
-Suggested first-person questions: “What evidence supports my diagnosis?”, “Could another condition coexist?”, “Which episode pattern is this plan for?”, “What should change my emergency response?”, and “Which treatment goals are realistic for me?”
+## 3. Proposed page sequence
 
-## Online-course overlap
+### 3.1 Page 1 — Cover and purpose
 
-Repeat only the one-page essentials from [What Is FND?](../../../../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md), [How Is FND Diagnosed?](../../../../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md), [Functional Seizures and Other Episodes](../../../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/README.md), and [Psychological Treatment Without Blame](../../../../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md). The booklet adds a seizure-focused CBT map, goal selection, and appointment worksheets.
+The cover should state plainly that the series helps people understand and test patterns around an already established functional-seizure diagnosis. The wording should immediately distinguish learning from diagnosis and treatment promises.
 
-## Evidence and safety notes for the author
+The main image could be a route with five clearly marked stops matching the five booklets. It should communicate that the person is beginning a guided learning process. Do not depict a dramatic seizure on the cover; this could increase fear, reinforce stereotypes, or suggest that all functional seizures look alike.
 
-- Use the [AAN guideline](https://www.neurology.org/doi/10.1212/WNL.0000000000214466) for current treatment and communication claims.
-- Present the [CODES](https://doi.org/10.1016/S2215-0366(20)30128-0) primary and secondary findings together.
-- Label [ReACT](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.51138) as a small paediatric pilot, even when describing its striking result.
-- Do not describe functional seizures as harmless; injury, emergency overtreatment, comorbidity, and impaired participation matter.
-- Do not promise that understanding the diagnosis is sufficient treatment.
+### 3.2 Page 2 — “What you need before using this booklet”
 
-## Reviewer questions
+Teach that the booklet applies only to the episode pattern assessed by a clinician. A first seizure-like event, serious injury, substantial change in pattern, or event covered by a separate epilepsy or medical plan requires the appropriate medical response.
 
-- Could a reader mistake CBT for a claim that stress or trauma caused their seizures?
-- Is coexisting epilepsy visible without making the booklet frightening?
-- Are uncertainty and mixed trial results readable rather than buried in fine print?
-- Does the progress worksheet remain meaningful for someone whose seizure frequency does not improve?
-- Can a low-literacy or cognitively fatigued reader understand each illustration without the surrounding paragraph?
+Explain *why* this matters: CBT exercises can help someone study an established functional pattern, but they cannot determine whether a new event is functional, epileptic, cardiac, metabolic, or something else.
 
-[Series overview](README.md) · [Next: Discovering Your Seizure Pattern](02-discovering-your-seizure-pattern.md)
+Use two illustrated cards. One could say, “This matches my familiar, clinician-reviewed pattern—follow my plan.” The other could say, “This is new, substantially different, or injured—pause and follow my medical guidance.” Shapes, labels, and icons must carry the distinction rather than colour alone.
 
-*Outline created August 25, 2026 · Clinical, lived-experience, and accessibility review pending*
+### 3.3 Pages 3–4 — Functional seizures are real and involuntary
+
+Explain the word *functional* as a problem in how nervous-system processes are operating and coordinating. Make clear that this does not mean the person has chosen the event, imagined it, or performed it for attention.
+
+Teach the distinction carefully. A structural scan can look normal because many scans are designed to show visible tissue structure, not every change in moment-to-moment network functioning. Do not turn the “software rather than hardware” comparison into a literal scientific explanation; if used, say that it is only a limited analogy.
+
+An original transit-network or orchestra illustration could show parts that exist but are not coordinating normally. The caption should explain the limit of the analogy: a brain is not a computer, railway, or orchestra, and researchers are still studying the mechanisms.
+
+### 3.4 Page 5 — Functional seizures and epilepsy
+
+Explain that epileptic seizures and functional seizures involve different processes and may require different treatments. Also explain that one person can have both. A reader should understand that the distinction comes from clinical assessment, the history of events, observed features, and tests such as video-EEG when appropriate—not from willpower, one symptom, or this booklet.
+
+Use three overlapping document folders: “my functional-seizure plan,” “my epilepsy or other episode plan, if applicable,” and “information shared by both plans.” Do not provide a visual checklist that invites readers or supporters to diagnose an event by appearance.
+
+### 3.5 Pages 6–7 — What CBT means in functional-seizure treatment
+
+Introduce CBT as a collaborative process of making a working map and testing small changes. The map may include body sensations, attention, expectations, emotions, actions, surroundings, and what happens after an event. No category must appear in every person's map.
+
+Use a worked example. A fictional reader notices dizziness in a crowded shop, predicts that an episode will be catastrophic and embarrassing, leaves immediately, and later becomes more afraid of shopping. CBT does not declare that the thought caused the functional seizure. It asks whether changing the person's response to the warning, prediction, or avoidance pattern changes what happens next.
+
+Show this as an open wheel rather than a closed causal chain. Label each section—body, attention, expectations, emotions, actions, surroundings—and include a blank space for something the model missed. The centre should say, “Your map may use some of these, not all.”
+
+### 3.6 Page 8 — How change may happen
+
+Describe several possible treatment targets. A person might notice a warning earlier, become less frightened by a familiar sensation, use an alternative action, recover more quickly, reduce avoidance, or return to important activities. The booklet should not claim that one mechanism explains every improvement.
+
+Use a branching path or dimmer switch rather than an on/off cure image. One branch could show “earlier warning,” another “safer event,” another “shorter recovery,” and another “more participation.” This visually establishes that improvement can occur in several dimensions.
+
+### 3.7 Page 9 — What the research can and cannot say
+
+Explain in plain language that current guidelines consider psychological treatments possibly effective. Describe the CODES finding honestly: the large adult trial did not show a statistically significant advantage on its primary monthly seizure-frequency outcome at 12 months, although several other outcomes improved. Describe ReACT as a small paediatric trial with strong short-term results that still requires careful age and evidence limits.
+
+Use three labelled areas: “supported,” “promising,” and “still uncertain.” Do not use a dramatic success percentage as a headline. The purpose of this page is to build realistic hope and teach the reader why the series offers options rather than one guaranteed technique.
+
+### 3.8 Page 10 — Choosing outcomes that matter
+
+Teach that seizure frequency is important but incomplete. Meaningful outcomes can include seizure severity, warning time, retained awareness, injuries, emergency use, recovery time, confidence, independence, participation, and quality of life.
+
+Use a fictional example: one person still has four episodes per month, but recovery changes from two days to two hours and the person returns to a weekly activity. This is not complete remission, but it is clinically and personally meaningful improvement.
+
+Illustrate several separate progress dials. Do not combine them into one recovery score or imply that every reader must value the same outcome.
+
+### 3.9 Pages 11–12 — Personal starting point
+
+The reader records the diagnostic wording they were given, the episode pattern this booklet applies to, coexisting conditions or plans, important unanswered questions, and up to three personally meaningful outcomes.
+
+Provide a lightly completed fictional example beside a blank worksheet. The example should demonstrate uncertainty: “I do not know whether this breath change belongs to my familiar event; I will ask before practising around it.” This teaches that “I do not know” is safer than guessing.
+
+### 3.10 Page 13 — Choosing the next step
+
+Offer three equally legitimate routes:
+
+1. continue to Booklet 2 if the diagnosis and safety plan are clear enough;
+2. return to the online course for fuller background education; or
+3. take the question sheet to a clinician before beginning practical exercises.
+
+The illustration could show three doors or paths labelled “continue,” “learn more,” and “ask/check.” None should look like failure or delay.
+
+### 3.11 Page 14 — One-page summary
+
+Repeat six essentials: real, involuntary, appropriately assessed, no single required cause, CBT tests current changeable patterns, and progress has more than one measure. Include the reader's chosen goals, appointment questions, course links, sources, version, and review date.
+
+Design this page so it can be printed separately or added to a personal FND handbook.
+
+## 4. Worksheets to develop
+
+### 4.1 Diagnosis and safety checkpoint
+
+Ask for the name the clinician used, how the diagnosis was explained, which episode pattern is functional, whether epilepsy or another condition also occurs, where the emergency plan is kept, and what would count as a new or changed event. Every question needs an “I do not know yet” option.
+
+### 4.2 Meaningful-progress worksheet
+
+Offer examples of symptom, safety, recovery, participation, and quality-of-life outcomes. The reader chooses no more than three starting outcomes and records a simple baseline. Explain that choosing a functional goal does not mean seizure reduction is unimportant.
+
+### 4.3 Appointment question sheet
+
+Include questions such as: “What positive evidence supports my diagnosis?”, “Could another condition coexist?”, “Which episode pattern is this plan for?”, “What changes my emergency response?”, and “What outcomes should we review besides seizure count?”
+
+## 5. Relationship to the online course
+
+The course fully teaches [what FND is](../../../../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md), [how it is diagnosed](../../../../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md), [functional-seizure diagnosis and safety](../../../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/README.md), and [psychological treatment without blame](../../../../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md).
+
+This booklet repeats only the facts needed for standalone safety, then adds a seizure-focused explanation of CBT, a treatment-goal exercise, and appointment-ready worksheets.
+
+## 6. Evidence and safety requirements
+
+1. Use the [AAN functional-seizures guideline](https://www.neurology.org/doi/10.1212/WNL.0000000000214466) for current treatment and communication claims.
+2. Present the [CODES](https://doi.org/10.1016/S2215-0366(20)30128-0) primary and secondary findings together.
+3. Label [ReACT](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.51138) as a small paediatric pilot rather than proof for adults.
+4. Do not describe functional seizures as harmless. Injury, impaired participation, coexisting conditions, and emergency overtreatment matter.
+5. Do not imply that understanding the diagnosis is sufficient treatment or that persistent symptoms reflect poor effort.
+
+## 7. Questions for reviewers
+
+1. Could any sentence make CBT sound like proof that thoughts, stress, or trauma caused the seizures?
+2. Is coexisting epilepsy visible without encouraging diagnosis by appearance?
+3. Are uncertainty and the mixed adult trial findings as visible as hopeful findings?
+4. Does the progress exercise remain useful to someone whose seizure frequency does not improve?
+5. Can every illustration be understood by a cognitively fatigued reader without relying on decorative detail?
+
+[Series overview](README.md) · [Content-creator guide](01-content-creator-guide-understanding-functional-seizures-and-cbt.md) · [Next booklet outline](02-discovering-your-seizure-pattern.md)
+
+*Outline revised August 25, 2026 · Clinical, lived-experience, and accessibility review pending*
