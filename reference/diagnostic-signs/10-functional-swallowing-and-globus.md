@@ -1,6 +1,6 @@
 # Functional Swallowing Symptoms and Globus
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Structured swallowing history and clinical assessment, with instrumental assessment when indicated.  
 **Diagnostic method:** Distinguish swallowing impairment from globus, look for a positive functional pattern and investigate structural or neurological alternatives.  

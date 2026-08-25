@@ -1,6 +1,6 @@
 # Functional Gait Disorder
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Sign-based gait comparison across several safe walking tasks.  
 **Diagnostic method:** Identify reproducible inconsistency or incongruity rather than diagnosing from an unusual-looking gait alone.  

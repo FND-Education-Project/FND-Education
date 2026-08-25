@@ -1,6 +1,6 @@
 # Recovery Techniques for Functional Visual Symptoms
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional visual loss, functional visual disorder, non-organic visual loss and functional photophobia.
 

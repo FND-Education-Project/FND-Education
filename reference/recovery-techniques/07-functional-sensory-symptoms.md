@@ -1,6 +1,6 @@
 # Recovery Techniques for Functional Sensory Symptoms
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional numbness, altered sensation, functional sensory loss, tingling, hypersensitivity and sensory processing difficulty associated with FND.
 

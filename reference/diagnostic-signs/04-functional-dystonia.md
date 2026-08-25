@@ -1,6 +1,6 @@
 # Functional Dystonia or Fixed Posturing
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Specialist pattern-based history and movement examination.  
 **Diagnostic method:** Look for a combination of recognized functional dystonia features, internal inconsistency and incongruity with established non-functional dystonia patterns.  

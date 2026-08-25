@@ -1,6 +1,6 @@
 # Recovery Techniques for Functional Limb Weakness or Paralysis
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional paresis, functional arm weakness, functional leg weakness, functional ankle weakness and functional paralysis.
 

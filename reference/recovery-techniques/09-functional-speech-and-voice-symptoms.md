@@ -1,6 +1,6 @@
 # Recovery Techniques for Functional Speech and Voice Symptoms
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional dysphonia, functional aphonia, functional dysarthria, functional stuttering, functional accent change and functional communication disorder.
 

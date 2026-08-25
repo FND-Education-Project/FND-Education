@@ -1,6 +1,6 @@
 # Functional Tremor
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary techniques:** Distractibility and tremor entrainment.  
 **Diagnostic method:** Observe whether tremor frequency, amplitude or presence changes during a separate task or while another limb follows imposed rhythms.  

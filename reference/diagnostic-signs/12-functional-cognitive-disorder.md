@@ -1,6 +1,6 @@
 # Functional Cognitive Disorder
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Structured history and cognitive assessment looking for internal inconsistency.  
 **Diagnostic method:** Compare the reported difficulty with observed abilities and valid assessment results while evaluating other causes of cognitive symptoms.  

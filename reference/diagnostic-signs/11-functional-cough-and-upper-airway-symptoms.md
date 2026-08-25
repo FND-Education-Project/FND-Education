@@ -1,6 +1,6 @@
 # Functional Cough and Upper-Airway Symptoms
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Multidisciplinary history and laryngeal-respiratory assessment across relevant conditions.  
 **Diagnostic method:** Identify a positive symptom pattern while assessing respiratory, laryngeal, medication-related and other causes; there is no single decisive bedside sign.  

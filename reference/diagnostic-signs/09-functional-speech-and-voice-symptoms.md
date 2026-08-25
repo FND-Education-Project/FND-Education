@@ -1,6 +1,6 @@
 # Functional Speech and Voice Symptoms
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Speech-and-language assessment comparing communication across several natural and structured tasks.  
 **Diagnostic method:** Look for a positive pattern of internal inconsistency or preserved automatic function that fits a functional communication disorder.  

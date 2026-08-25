@@ -1,6 +1,6 @@
 # Module 17 — Daily Living, Accessibility, and Equipment
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Daily Living, Accessibility, and Equipment** and helps readers choose the most useful page.
 

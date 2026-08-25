@@ -1,6 +1,6 @@
 # Module 9 — Speech, Voice, Swallowing, and Breathing Symptoms
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Speech, Voice, Swallowing, and Breathing Symptoms** and helps readers choose the most useful page.
 

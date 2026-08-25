@@ -1,6 +1,6 @@
 # Functional Jerks or Myoclonus
 
-> **Working draft:** This page was automatically generated and is looking for contributors and reviewers.
+> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Specialist simultaneous electroencephalography and surface electromyography (EEG–EMG), including jerk-locked back-averaging.  
 **Diagnostic method:** Compare muscle-burst timing with brain activity before repeated jerks.  
