@@ -6,6 +6,8 @@ This collection is about approaches that may support symptom improvement, safer 
 
 The [master technique list](technique-index.md) is the actual list page. It has one section organized by symptom and a second alphabetical index showing the symptom or symptoms beside every technique. Each symptom name links to a full page with practical instructions, evidence limits, safety notes and sources.
 
+For deeper functional-seizure work, see the [CBT resource map and five-booklet project](functional_seizures/README.md). It distinguishes complete existing manuals from partial programme materials, explains how evidence will be weighted, and provides separate reviewer-ready outlines for five original booklets.
+
 ## How to read the labels
 
 - **Research-supported:** evaluated in at least one relevant comparative study or synthesized research review. This does not mean the result is conclusive or applies to every person.
