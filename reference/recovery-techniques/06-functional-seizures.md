@@ -48,6 +48,8 @@ Follow the person’s individualized plan. Emergency assessment is appropriate f
 
 Communicate a positive diagnosis and shared formulation, review video-EEG or other evidence where relevant, and evaluate coexisting epilepsy and psychiatric/medical conditions. Provide a written episode and emergency plan. Refer for psychological intervention and maintain neurological follow-up rather than discharging solely because events are nonepileptic.
 
+The [2026 American Academy of Neurology functional-seizure guideline](https://www.neurology.org/doi/10.1212/WNL.0000000000214466) specifically reinforces shared decision-making about treatment, asking how functional seizures affect occupational and social functioning, clearly explaining the diagnosis and treatment plan, and providing continuity of care. These are parts of treatment, not optional additions after the diagnosis has been delivered.
+
 Discuss antiseizure-medication taper only when epilepsy and other indications have been addressed. Include supporters with consent. Track episode frequency, injuries, emergency use, disability, participation and quality of life; frequency alone can miss meaningful improvement.
 
 ## Research and evidence
