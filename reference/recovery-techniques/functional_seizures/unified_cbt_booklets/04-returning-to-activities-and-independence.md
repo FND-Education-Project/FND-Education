@@ -20,9 +20,9 @@ The reader should identify one valued activity or role, explain what returning t
 
 The reader should be able to state a prediction, plan a safe test, notice all of the results, and decide whether to repeat, change, or stop the experiment. They should understand that having a seizure during an experiment does not automatically make the experiment a failure.
 
-### 1.4 Notice progress beyond seizure counts
+### 1.4 Keep symptom and life outcomes separate
 
-The reader should be able to measure participation, confidence, recovery time, injury risk, choice, and support needs as well as seizure frequency.
+The reader should be able to record participation, confidence, recovery time, injury risk, choice, support needs, and seizure frequency as separate outcomes. Seizure frequency or severity must not be used to judge effort or to infer what changed in the other areas.
 
 ### 1.5 Ask for practical support
 
