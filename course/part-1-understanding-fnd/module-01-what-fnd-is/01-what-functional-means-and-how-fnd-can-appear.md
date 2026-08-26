@@ -154,6 +154,53 @@ This free online course is contributed to by those with lived experience in Func
 
 ➡️ **Next article:** [The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
 ***
+<details>
+<summary><strong>Author accuracy review — suggested wording not yet applied</strong></summary>
+
+These notes are for the author and reviewers. They identify wording that may overstate the evidence, blur an important distinction, or be misunderstood. The suggested replacements are written in the course's direct, plain-language tone. They have not been inserted into the lesson.
+
+### 1. What tests can and cannot establish
+
+**Accuracy warning:** The current passage may sound as though investigations can determine that a person has no psychological condition. Tests used in an FND assessment may look for other medical or neurological explanations, but anxiety, depression, trauma, or another psychological condition does not prove or disprove FND. FND should be diagnosed from positive clinical signs.
+
+**Suggested wording:**
+
+> If you have been recently diagnosed, you might still wonder whether your symptoms really are FND. You may have had tests to look for other medical or neurological conditions. Those tests do not prove that a symptom is functional, and anxiety, depression, trauma, or another psychological condition does not rule FND in or out. FND should be diagnosed from positive clinical signs. Unfortunately, some people are still given the diagnosis without those signs being clearly shown or explained.
+
+### 2. What “FND changes the brain” can mean
+
+**Accuracy warning:** References [5] and [6] report differences found when groups of people with FND were compared with other groups. They do not provide an individual diagnostic test, and they do not establish whether a difference caused FND or developed afterward. Reference [6] studied young people, so it should not be presented as though it applies equally to every person with FND.
+
+**Suggested wording:**
+
+> Researchers have found differences in brain structure, activity, or chemistry when groups of people with FND are compared with other groups. These findings are still being studied. They cannot yet diagnose FND in one person or tell us whether a difference caused FND or developed afterward. What they do add to is research showing that FND involves real nervous-system dysfunction and that the symptoms are not faked or imaginary.
+
+### 3. Age and the scope of the cited study
+
+**Accuracy warning:** Reference [7] concerns functional movement disorder, not every form of FND. It can support a statement about age at onset for that symptom group, but it should not carry a broader claim about all FND by itself.
+
+**Suggested wording:**
+
+> FND can begin in children, adults, or older people. Age patterns differ across symptom types. The study cited here looked specifically at functional movement disorder, where onset was most common in midlife.
+
+### 4. Chest pain, stroke-like symptoms, and functional seizures
+
+**Accuracy warning:** The present order may make it sound as though chest pain is how FND resembles stroke or epilepsy. Chest pain also has many possible causes and should not automatically be attributed to FND.
+
+**Suggested wording:**
+
+> Some people with FND also report chest pain, but chest pain should not automatically be attributed to FND. FND can separately appear as stroke-like weakness or functional seizures that resemble epileptic seizures.
+
+### 5. The number of statements
+
+**Accuracy warning:** The introduction says that three statements follow, but the page lists four.
+
+**Suggested wording:**
+
+> A 2022 paper titled *Functional Neurological Disorder: new subtypes and shared mechanisms* makes four statements worth repeating here verbatim:
+
+</details>
+
 ## Research and Sources
 
 ### Three focused quotations
