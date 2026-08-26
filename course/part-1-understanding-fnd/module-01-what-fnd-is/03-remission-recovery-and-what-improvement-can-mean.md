@@ -107,6 +107,67 @@ Clinicians should explain the intent of a particular referral. On this site, the
 
 ➡️ **Next module:** [How FND Is Diagnosed](../module-02-how-fnd-is-diagnosed/README.md)
 ***
+<details>
+<summary><strong>Author accuracy review — suggested wording not yet applied</strong></summary>
+
+These notes are for the author and reviewers. They identify wording that may overstate the evidence, blur an important distinction, or be misunderstood. The suggested replacements are written in the course's direct, plain-language tone. They have not been inserted into the lesson.
+
+### 1. Remission and what research can predict
+
+**Accuracy warning:** The current wording may imply that symptom type can reliably predict one person's chance of remission. References [1], [2], [5], and [6] show that outcomes vary, but they do not support a dependable individual prediction from symptom type alone.
+
+**Suggested wording:**
+
+> For this course, remission means that some or all of a person's symptoms disappear for a time. Some people experience remission lasting months or years. Outcomes vary widely, and current research cannot reliably predict one person's course from symptom type alone.
+
+### 2. Recurrence is not “progress of the disease”
+
+**Accuracy warning:** Describing recurrent symptoms as the progress of the disease may wrongly suggest that FND is necessarily progressive. A change in symptoms also says nothing about the person's effort, knowledge, acceptance, treatment participation, or progress in life.
+
+**Suggested wording:**
+
+> FND symptoms can become worse, improve, disappear for a time, or return. A return of symptoms does not show that the disease is progressing. It also tells us nothing about what the person knows, tried, accepted, or achieved.
+
+### 3. Accessibility does not need to lower symptom intensity to matter
+
+**Accuracy warning:** The current wording may overstate accessibility as a way to reduce symptoms. Safety, accessibility, and support have value whether symptoms change or not. They can reduce harm and make life more manageable without placing responsibility for symptom control on the person.
+
+**Suggested wording:**
+
+> What is important to many sufferers of FND is keeping some independence, comfort, safety, and relationships. Making life safer and more accessible is worthwhile whether or not symptoms change. It can reduce injury, exhaustion, isolation, and the amount of help a person needs.
+
+### 4. Definitions for clinicians
+
+**Accuracy warning:** The current definitions of symptom improvement and recovery after an episode need clearer grammar and a firmer separation. Symptom improvement describes a change in symptoms. Recovery after an episode describes returning to the person's usual level after a flare or functional seizure.
+
+**Suggested wording:**
+
+> **Symptom improvement.** This means that one or more symptoms become less frequent, less severe, or shorter.
+>
+> **Recovery after an episode.** This is the shorter process—hours to days, sometimes longer—of returning to the person's usual level after a flare of symptoms or a functional seizure.
+
+### 5. What the reference guide can decide
+
+**Accuracy warning:** The reference guide can organize treatment options, evidence limits, and safety notes. It cannot determine which treatment is best for an individual. That requires discussion of the person's symptoms, needs, preferences, access, other conditions, and goals.
+
+**Suggested wording:**
+
+> Clinicians should explain what a referral is meant to help with. Our reference guide lists approaches organized by symptom, together with their evidence limits and safety notes. It can help a patient and clinician identify options to discuss, but it cannot determine which treatment is best for one person.
+
+### 6. Quotations from insurer reports
+
+**Accuracy warning:** “In behalf” should be “on behalf.” More importantly, language presented inside quotation marks must match the original report exactly. The second quotation is currently incomplete and its ellipsis and added wording are unclear.
+
+**Suggested wording:**
+
+> A psychologist reviewing my case on behalf of an insurer wrote: “The longer conversion symptoms are present, the worse the prognosis.”
+>
+> Later, a neuropsychiatrist assigned to assess how FND had affected me wrote: “[exact wording from the report].”
+
+Before replacing the second quotation, copy it exactly from the report. Use an ellipsis for omitted words and square brackets only when a word has been changed or added for clarity.
+
+</details>
+
 ## Research and Sources
 
 ### Three focused quotations
