@@ -30,9 +30,9 @@ A key thing to take away in this section is that FND symptoms can grow worse or 
 
 #### What would recovery mean to you if some symptoms remained?
 
-### What can the person safely try at home?
+### What can you safely try at home?
 
-Choose one small sign of improvement that would matter in your life. It might be a symptom change, but it could also be recovering more quickly after an episode, preparing part of a meal, enjoying time with someone, asking for help more clearly, or doing an activity with less fear. Write down one sentence if that is useful. You do not need to track it every day. (*citations* [3](#citation-3))
+Choose one small sign of improvement that would matter in your life. It might be a symptom change, but it could also be recovering more quickly after an episode, preparing part of a meal, enjoying time with someone, asking for help more clearly, or doing an activity with less fear. Write down one sentence if it's useful. (*citations* [3](#citation-3))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -68,7 +68,7 @@ If symptoms return or don't respond to a treatment, help the person notice what 
 You are an essential part of recovery. The question is, what does recovery look like for your patient? Let's define key terms.
 **Symptom Remission.** Some or all of the patient's symptoms are absent for a period of time.
 
-**Symptom Improvement.** This refers to symptoms becomes less frequent, severe or prolonged. 
+**Symptom Improvement.** This refers to symptoms becoming less frequent, severe or prolonged. 
 
 **Functional Improvement.** The person can do more, participate more or be more independent despite continuing symptoms. 
 
@@ -80,7 +80,7 @@ Although many of these outcomes overlap, they are not interchangeable. Research 
 
 A useful prognosis conversation sounds like:
 
-“Improvement is possible, but we can't predict exactly how much, how quickly, or how permanently you will improve. Some people experience complete or long-lasting remission. Others improve partly, fluctuate, or continue to need substantial support." And at a later time, perhaps, "Let's decide what improvement would look like for you and review it together.” (*citations* [1](#citation-1), [5](#citation-5), [6](#citation-6))
+“Improvement is possible, but we can't predict exactly how much, how quickly, or how permanently you'll improve. Some people experience complete or long-lasting remission. Others improve partly, fluctuate, or continue to need substantial support." And at a later time, perhaps, "Let's decide what improvement would look like for you and review it together.” (*citations* [1](#citation-1), [5](#citation-5), [6](#citation-6))
 
 This avoids two damaging extremes:
 - “You will recover if you accept the diagnosis and work hard.”
