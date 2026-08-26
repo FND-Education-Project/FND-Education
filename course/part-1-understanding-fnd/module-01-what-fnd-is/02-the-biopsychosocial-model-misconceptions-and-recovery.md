@@ -105,6 +105,45 @@ Investigating symptoms and referring your patient to other resources including s
 
 ➡️ **Next article:** [Remission, Recovery, and What Improvement Can Mean](03-remission-recovery-and-what-improvement-can-mean.md)
 ***
+<details>
+<summary><strong>Author accuracy review — suggested wording not yet applied</strong></summary>
+
+These notes are for the author and reviewers. They identify wording that may overstate the evidence, blur an important distinction, or be misunderstood. The suggested replacements are written in the course's direct, plain-language tone. They have not been inserted into the lesson.
+
+### 1. Stress and the psychological part of the biopsychosocial model
+
+**Accuracy warning:** The current wording can sound as though past or present stress strongly affects every person's symptoms. References [1] and [3] support psychological factors as potentially relevant, not required or equally important for everyone. They are not necessary for the diagnosis.
+
+**Suggested wording:**
+
+> The psychological part includes thoughts, emotions, coping, and stresses past or present. These may affect symptoms for some people, but they are not present or important in the same way for everyone. They are not required to explain or diagnose FND.
+
+### 2. Journaling and improvement
+
+**Accuracy warning:** Calling journaling a large part of improving is stronger than the evidence supports. It may help some people notice patterns, but it is optional. A person may find no trigger, and record-keeping does not determine whether symptoms improve.
+
+**Suggested wording:**
+
+> If you are able, you might write down what was happening around a symptom change. This is optional. It may help you or your clinician notice a pattern, but some changes have no identifiable trigger, and keeping records does not determine whether symptoms improve.
+
+### 3. What supporters can and cannot change
+
+**Accuracy warning:** The current wording separates biology from the psychological and social parts too sharply. These areas interact. A supporter cannot control another person's symptoms, but may help with medical access, rehabilitation, equipment, safety, practical needs, or wanted psychological support. None of this guarantees a symptom change.
+
+**Suggested wording:**
+
+> As a support person, you cannot control the person's symptoms. You can still help across all three areas: access to medical care, equipment, and rehabilitation; psychological care when the person wants it; and practical support with safety, personal care, transport, relationships, housing, or work. Good support can make life safer and more manageable, but it cannot guarantee a change in symptoms.
+
+### 4. What NeuroSymptoms.org can establish
+
+**Accuracy warning:** An educational website can explain symptoms and diagnostic principles, but it cannot decide whether a new symptom in one person is functional. New or substantially changed symptoms still require appropriate medical assessment.
+
+**Suggested wording:**
+
+> NeuroSymptoms.org explains symptoms that clinicians may diagnose as functional, symptoms that often occur alongside FND, and how clinicians tell them apart. It cannot decide whether a particular new symptom is FND. That still requires appropriate medical assessment.
+
+</details>
+
 ## Research and Sources
 
 ### Three focused quotations
