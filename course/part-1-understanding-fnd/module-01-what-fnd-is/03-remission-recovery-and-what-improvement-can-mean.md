@@ -59,15 +59,29 @@ If symptoms return or don't respond to a treatment, help the person notice what 
 ***
 ## For Clinicians and the Care Team
 
-If you are looking for a reference guide on treatments for specific symptoms, our [reference](https://github.com/FND-Education-Project/FND-Education/blob/main/reference/recovery-techniques/README.md) page contains a complete index of techniques.
+You are an essential part of recovery. The question is, what does recovery look like for your patient? Let's define key terms.
+**Symptom Remission.** Some or all of the patient's symptoms are absent for a period of time.
+**Symptom Improvement.** This refers to symptoms becomes less frequent, severe or prolonged. 
+**Functional Improvement.** The person can do more, participate more or be more independent despite continuing symptoms. 
+**Personal Recovery.** Rather than be about their symptoms, recovery speaks more to their quality of life; their personal confidence, their relationships and purpose or identity and safety.
+**Recovery after an episode.** This is the shorter process (hours to days, sometimes longer) of returning to the person's usual level after flare of symptoms or a functional seizure.
 
-**How can clinicians help the patient understand remission and recovery?** Explain that remission, symptom improvement, functional improvement and quality of life are related but different outcomes. Be honest that the course of FND varies and avoid promising either complete recovery or permanent disability from group-level evidence alone. (*citations* [1](#citation-1), [2](#citation-2))
+Although many of these outcomes overlap, they are not interchangeable. Research supports making the patient's experience central while also considering symptoms, daily activities, mental health and quality of life.
 
-**How can clinicians assess what improvement means to this patient?** Ask which symptoms, activities, relationships and forms of independence matter most to the patient. Establish a personal starting point and include the patient’s experience alongside clinical observation. Research into FND outcomes supports looking beyond symptom counts alone. (*citations* [3](#citation-3))
+A useful prognosis conversation sounds like:
 
-**How can clinicians help the patient work toward improvement?** Agree on a small number of realistic, patient-chosen goals and explain which later treatment or rehabilitation options may address them. Goals may need to change as symptoms, access to care, other illnesses or life circumstances change.
+“Improvement is possible, but we can't predict exactly how much, how quickly, or how permanently you will improve. Some people experience complete or long-lasting remission. Others improve partly, fluctuate, or continue to need substantial support." And at a later time, perhaps, "Let's decide what improvement would look like for you and review it together.”
 
-**How can clinicians support the patient when improvement is limited or not yet possible?** Continued care may still address symptom relief, safety, accessibility, communication, participation, mental health, quality of life and supporter needs. Persistent symptoms should not be treated as proof of poor effort, and new or substantially changed symptoms should still receive appropriate medical assessment.
+This avoids two damaging extremes:
+- “You will recover if you accept the diagnosis and work hard.”
+- “You have had this too long, so nothing will help.”
+
+> A psychologist reviewing my case in behalf of an insurer wrote, "The longer conversion symptoms are present, the worse the prognosis"
+> Later, a neuropsychiatrist assigned to assess how FND had affected me wrote, "Functional barriers ..., in combination with poor prognosis owing to the duration of symptoms (and) history of trauma.
+
+Clinicians should explain the intent of a particular referral. On this site, there is a reference guide on treatments for specific symptoms, our [reference](https://github.com/FND-Education-Project/FND-Education/blob/main/reference/recovery-techniques/README.md) page contains a complete index of techniques. These can help to determine which treatment may be best.
+
+> ***Recovery is not one binary verdict. The clinician’s responsibility is to define outcomes with the patient, communicate uncertainty honestly, match care to what matters, and continue helping even when symptoms persist.***
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
