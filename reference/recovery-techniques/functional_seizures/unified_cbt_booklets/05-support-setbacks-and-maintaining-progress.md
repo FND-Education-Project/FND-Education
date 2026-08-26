@@ -1,8 +1,8 @@
 # Booklet 5 Outline — Support, Setbacks, and Maintaining Progress
 
-> **Reader-facing promise:** “Agree on helpful support, prepare for setbacks, and keep meaningful progress visible—even when seizures continue.”
+> **Reader-facing promise:** “Agree on helpful support, prepare for symptom changes, and protect safety, access, and the person’s priorities—whether seizures change or not.”
 
-**Proposed length:** 14–16 pages. **Main job:** help the reader and chosen supporters agree on what to do before, during, and after a familiar functional seizure; recognize setbacks without assuming every change is “just FND”; and preserve progress when remission is incomplete. The booklet must never teach relatives to ignore, punish, test, or control the person.
+**Proposed length:** 14–16 pages. **Main job:** help the reader and chosen supporters agree on what to do before, during, and after a familiar functional seizure; recognize symptom changes without assuming every change is “just FND”; and maintain worthwhile support whether remission occurs or not. The booklet must never teach relatives to ignore, punish, test, or control the person.
 
 For the conceptual teaching, dialogue examples, and language cautions behind this outline, read the [in-depth content-creator guide](05-content-creator-guide-support-setbacks-and-maintaining-progress.md).
 
@@ -16,9 +16,9 @@ The reader should be able to say what a supporter may do, what they should avoid
 
 The reader should distinguish immediate danger, the familiar episode itself, early recovery, and a later optional review. Safety actions, calming, rest, and problem-solving should not all be attempted at once.
 
-### 1.3 Respond to setbacks without going back to zero
+### 1.3 Respond to symptom return without judging the person
 
-The reader should be able to recognize a familiar increase in symptoms, preserve earlier learning, and refresh one part of the plan rather than restart every exercise.
+The reader should be able to recognize a familiar increase in symptoms without treating it as evidence about what the person knows, tried, accepted, or achieved. Any review or reuse of the plan is optional and should serve the person rather than test them.
 
 ### 1.4 Retain medical vigilance
 
@@ -72,11 +72,11 @@ Teach supporters not to interrogate, analyse triggers, demand use of a technique
 
 Illustration idea: two cards under a clock—“now: safety and agreed support” and “later: optional learning.”
 
-### 2.8 Page 8 — Describe a setback without erasing progress
+### 2.8 Page 8 — Describe symptom return without turning it into a judgment
 
-Explain that seizures can increase after illness, disrupted sleep, pain, treatment changes, a demanding period, loss of routine, or for no identifiable reason. A setback means the current pattern has worsened after improvement or stability; it does not mean the person imagined the progress, failed treatment, or is back at the beginning.
+Explain that seizures can increase after illness, disrupted sleep, pain, treatment changes, a demanding period, loss of routine, or for no identifiable reason. They can also recur or worsen regardless of what the person knows, tries, accepts, or has achieved. The symptom change cannot measure effort, learning, treatment participation, or personal progress.
 
-Illustration idea: a route that bends or loops before continuing. Avoid a cliff, broken ladder, or “back to zero” meter.
+Illustration idea: show changing weather around the same person while their knowledge, effort, and worth remain unscored. Avoid a route, ladder, “back to zero” meter, or any image that turns symptom severity into a progress marker.
 
 ### 2.9 Page 9 — Separate a familiar setback from a changed medical pattern
 
@@ -90,15 +90,15 @@ Invite a short review of sleep, illness, pain, medication changes, activity load
 
 Illustration idea: compare two simple weather maps of the person's circumstances, leaving an area labelled “unknown.” This shows changing conditions without suggesting that emotion alone creates seizures.
 
-### 2.11 Page 11 — Refresh one useful part of the plan
+### 2.11 Page 11 — Offer choices without making symptom control an obligation
 
-Ask the reader to choose one explanation they want to remember, one skill to rehearse, one manageable valued activity to protect, or one supporter agreement to restore. They do not need to complete every worksheet again. A small return to a known routine may be more usable than an ambitious restart.
+The reader may choose one explanation to revisit, one skill to rehearse, one manageable valued activity to protect, one supporter agreement to restore, or no exercise at all. They do not need to complete every worksheet again. Failure to stop a seizure says nothing about effort, and any option should be kept only if it is useful to the person.
 
 Illustration idea: four refresh cards, with instructions to choose one first.
 
-### 2.12 Page 12 — Make hidden progress visible
+### 2.12 Page 12 — Keep different outcomes separate
 
-Use an example in which seizure frequency has not changed but episodes are shorter, injuries and emergency visits are lower, recovery takes hours rather than days, and the person attends a valued activity again. Explain that these are meaningful outcomes even though they are not the same as symptom remission.
+Use an example in which seizure frequency has not changed but episodes are shorter, injuries and emergency visits are lower, recovery takes hours rather than days, and the person attends a valued activity again. Explain that these outcomes may matter to the person and must be recorded separately from symptom remission. One outcome must not be used to infer another.
 
 Illustration idea: several independent dials for frequency, severity, warning use, recovery, emergency care, participation, confidence, and quality of life. Do not combine them into a single score.
 
