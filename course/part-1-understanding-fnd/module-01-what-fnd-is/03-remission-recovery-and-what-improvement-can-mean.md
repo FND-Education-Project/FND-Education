@@ -1,5 +1,7 @@
 # Remission, Recovery, and What Improvement Can Mean
 
+> **"FND symptoms may recur or worsen regardless of what a person knows, tries, or has achieved. Symptom severity must never be used to judge effort, acceptance of the diagnosis, treatment participation, or personal progress."**
+
 This is a short introduction. Later modules will discuss treatment, rehabilitation, setbacks and long-term management in much more detail. Here, we only need enough information to understand what people may mean when they talk about getting better.
 
 ***
