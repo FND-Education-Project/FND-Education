@@ -148,15 +148,15 @@ A warehouse worker near machinery requires occupational and medical safety revie
 
 A person returning to a faith group might arrange seating, one informed contact, a shorter first visit, and accessible transport. The meaningful outcome is belonging, not simply tolerating a building.
 
-## 10. How to measure progress
+## 10. How to keep outcome measures separate
 
 ### 10.1 Choose measures that match the valued goal
 
-For returning to class, attendance, concentration, recovery time, choice of support, and distress may matter. For parenting, safe shared activity and confidence may matter. Seizure frequency remains relevant but should not erase these outcomes.
+For returning to class, attendance, concentration, recovery time, choice of support, and distress may matter. For parenting, safe shared activity and confidence may matter. Record seizure frequency separately when it is relevant. Do not use it to infer attendance, concentration, choice, confidence, effort, or personal progress.
 
 ### 10.2 Do not create one total recovery score
 
-Combining everything hides tradeoffs. A person might have more seizures because they are participating more, while injuries and life restriction fall. Separate measures allow an honest conversation about benefit and burden.
+Combining everything hides different outcomes. A person may have both more seizures and more participation while injuries and life restriction fall; none of those observations proves what caused another. Separate measures allow an honest conversation without using symptom severity to grade the person.
 
 ## 11. Common authoring errors
 

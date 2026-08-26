@@ -5,22 +5,22 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | Citation ID | Short citation | Source type | Main subjects | Currently used on |
 |---|---|---|---|---|
 | [FND-CIT-0001](#fnd-cit-0001) | Bennett et al., 2021 | Peer-reviewed practical review | overview, positive diagnosis, involuntary symptoms, comorbidity | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [FND terminology glossary](../glossary/README.md); [limb weakness sign](../reference/diagnostic-signs/01-functional-limb-weakness.md); [functional dystonia](../reference/diagnostic-signs/04-functional-dystonia.md); [functional seizures](../reference/diagnostic-signs/06-functional-seizures.md) |
-| [FND-CIT-0002](#fnd-cit-0002) | Espay et al., 2018 | Peer-reviewed clinical review | diagnostic criteria, positive diagnosis, psychological-stressor criterion | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [FND terminology glossary](../glossary/README.md); [functional tremor](../reference/diagnostic-signs/02-functional-tremor.md); [functional sensory symptoms](../reference/diagnostic-signs/07-functional-sensory-symptoms.md) |
+| [FND-CIT-0002](#fnd-cit-0002) | Espay et al., 2018 | Peer-reviewed clinical review | diagnostic criteria, positive diagnosis, psychological-stressor criterion | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [FND terminology glossary](../glossary/README.md); [functional tremor](../reference/diagnostic-signs/02-functional-tremor.md); [functional sensory symptoms](../reference/diagnostic-signs/07-functional-sensory-symptoms.md) |
 | [FND-CIT-0003](#fnd-cit-0003) | Hallett et al., 2022 | Peer-reviewed review | genuine symptoms, variability, stressors, multidisciplinary treatment | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [FND terminology glossary](../glossary/README.md) |
 | [FND-CIT-0004](#fnd-cit-0004) | Bègue et al., 2019 | Systematic neuroimaging review | structural findings, software/hardware analogy, mechanism uncertainty | [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
 | [FND-CIT-0005](#fnd-cit-0005) | Pick et al., 2019 | Peer-reviewed review | psychosocial adversity, emotional processing, biopsychosocial model | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
 | [FND-CIT-0006](#fnd-cit-0006) | Drane et al., 2021 | Peer-reviewed perspective | neural circuits, agency, attention, interoception, predictive processing | [FND terminology glossary](../glossary/README.md) |
-| [FND-CIT-0007](#fnd-cit-0007) | Gelauff et al., 2014 | Systematic review | functional motor outcomes, prognosis, evidence limitations | [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
+| [FND-CIT-0007](#fnd-cit-0007) | Gelauff et al., 2014 | Systematic review | functional motor outcomes, prognosis, evidence limitations | [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
 | [FND-CIT-0008](#fnd-cit-0008) | Asadi-Pooya et al., 2020 | Systematic terminology review | functional seizures, PNES, terminology preferences | [FND terminology glossary](../glossary/README.md) |
 | [FND-CIT-0009](#fnd-cit-0009) | Hingray et al., 2025 | ILAE task-force terminology proposal | functional/dissociative seizures, FDS, seizure terminology | [FND terminology glossary](../glossary/README.md) |
 | [FND-CIT-0010](#fnd-cit-0010) | Tolchin et al., 2026 | AAN practice guideline | functional seizures, management, terminology, diagnostic communication | [FND terminology glossary](../glossary/README.md); [functional seizures diagnostic technique](../reference/diagnostic-signs/06-functional-seizures.md) |
 | [FND-CIT-0011](#fnd-cit-0011) | Nicholson et al., 2020 | Professional consensus recommendations | occupational therapy, remission and exacerbation, flexible goals | [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
 | [FND-CIT-0012](#fnd-cit-0012) | Rutten et al., 2025 | Qualitative stakeholder study | patient-centred outcomes, daily activities, quality of life | [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
-| [FND-CIT-0013](#fnd-cit-0013) | Dworetzky & Baslet, 2025 | Peer-reviewed practical review | practical management, multidisciplinary treatment, comorbidity | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
+| [FND-CIT-0013](#fnd-cit-0013) | Dworetzky & Baslet, 2025 | Peer-reviewed practical review | practical management, multidisciplinary treatment, comorbidity | [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
 | [FND-CIT-0014](#fnd-cit-0014) | Butler et al., 2021 | International online survey | associated symptoms, psychiatric comorbidity, patient perspectives | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
 | [FND-CIT-0015](#fnd-cit-0015) | Steinruecke et al., 2024 | Systematic review and meta-analysis | pain, CRPS, IBS, fibromyalgia | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
 | [FND-CIT-0016](#fnd-cit-0016) | Hoeritzauer et al., 2018 | Retrospective cohort study | scan-negative cauda equina syndrome, differential diagnosis | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
-| [FND-CIT-0017](#fnd-cit-0017) | Sekine et al., 2025 | Systematic review | biopsychosocial prognosis, participation, contextual factors | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
+| [FND-CIT-0017](#fnd-cit-0017) | Sekine et al., 2025 | Systematic review | biopsychosocial prognosis, participation, contextual factors | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
 | [FND-CIT-0018](#fnd-cit-0018) | McWhirter et al., 2011 | Prospective cohort study | Hoover’s sign, functional leg weakness, diagnostic accuracy | [limb weakness sign](../reference/diagnostic-signs/01-functional-limb-weakness.md) |
 | [FND-CIT-0019](#fnd-cit-0019) | Bartl et al., 2020 | Systematic review | functional tremor, distractibility, entrainment, electrophysiology | [functional tremor](../reference/diagnostic-signs/02-functional-tremor.md) |
 | [FND-CIT-0020](#fnd-cit-0020) | Nonnekes et al., 2020 | Peer-reviewed sign-based review | functional gait, inconsistency, incongruity, examination pitfalls | [functional gait disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md) |
@@ -31,7 +31,7 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0025](#fnd-cit-0025) | Baker et al., 2021 | Professional consensus recommendations | functional communication, swallowing, cough, speech-language therapy | [speech and voice](../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md); [swallowing and globus](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md); [cough and upper airway](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) |
 | [FND-CIT-0026](#fnd-cit-0026) | McWhirter et al., 2022 | Proposed diagnostic risk model | Functional Cognitive Disorder, internal inconsistency, differential diagnosis | [Functional Cognitive Disorder](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) |
 | [FND-CIT-0027](#fnd-cit-0027) | Staab et al., 2017 | Bárány Society consensus criteria | PPPD, dizziness, vestibular diagnosis | [PPPD criteria](../reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) |
-| [FND-CIT-0028](#fnd-cit-0028) | Nielsen et al., 2015 | Professional consensus recommendations | functional motor rehabilitation, movement retraining, physiotherapy | [weakness techniques](../reference/recovery-techniques/01-functional-limb-weakness.md); [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md); [jerk techniques](../reference/recovery-techniques/03-functional-jerks-and-myoclonus.md); [dystonia techniques](../reference/recovery-techniques/04-functional-dystonia.md); [gait techniques](../reference/recovery-techniques/05-functional-gait-disorder.md); [sensory techniques](../reference/recovery-techniques/07-functional-sensory-symptoms.md) |
+| [FND-CIT-0028](#fnd-cit-0028) | Nielsen et al., 2015 | Professional consensus recommendations | functional motor rehabilitation, movement retraining, physiotherapy | [weakness techniques](../reference/recovery-techniques/01-functional-limb-weakness.md); [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md); [jerk techniques](../reference/recovery-techniques/03-functional-jerks-and-myoclonus.md); [dystonia techniques](../reference/recovery-techniques/04-functional-dystonia.md); [gait techniques](../reference/recovery-techniques/05-functional-gait-disorder.md); [sensory techniques](../reference/recovery-techniques/07-functional-sensory-symptoms.md); [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
 | [FND-CIT-0029](#fnd-cit-0029) | Nielsen et al., 2024 | Multicentre phase 3 randomized trial | specialist physiotherapy, functional motor disorder, outcomes | [weakness techniques](../reference/recovery-techniques/01-functional-limb-weakness.md); [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md); [gait techniques](../reference/recovery-techniques/05-functional-gait-disorder.md) |
 | [FND-CIT-0030](#fnd-cit-0030) | Macías-García et al., 2024 | Randomized clinical trial | combined physiotherapy and CBT, functional movement disorder | [weakness techniques](../reference/recovery-techniques/01-functional-limb-weakness.md); [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md); [gait techniques](../reference/recovery-techniques/05-functional-gait-disorder.md) |
 | [FND-CIT-0031](#fnd-cit-0031) | Espay et al., 2014 | Proof-of-concept study | functional tremor, tremor retrainment, biofeedback | [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md) |
@@ -46,6 +46,15 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0040](#fnd-cit-0040) | Webster et al., 2023 | Cochrane systematic review | PPPD, non-pharmacological interventions, evidence gap | [PPPD techniques](../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md) |
 | [FND-CIT-0041](#fnd-cit-0041) | Shen et al., 2026 | Systematic review and network meta-analysis | PPPD, neuromodulation, vestibular rehabilitation, CBT | [PPPD techniques](../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md) |
 | [FND-CIT-0042](#fnd-cit-0042) | Wang et al., 2026 | Systematic review of adjacent esophageal-disorder evidence | globus, functional dysphagia, gut–brain neuromodulators | [swallowing and globus techniques](../reference/recovery-techniques/10-functional-swallowing-and-globus.md) |
+| [FND-CIT-0043](#fnd-cit-0043) | Stone et al., 2020 | Peer-reviewed clinical review | recognition, explanation, disability, positive diagnosis | [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
+| [FND-CIT-0044](#fnd-cit-0044) | Charney et al., 2024 | Peer-reviewed primary neuroimaging study | paediatric FND, neurometabolites, group-level differences | [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
+| [FND-CIT-0045](#fnd-cit-0045) | Lidstone et al., 2022 | Systematic review and individual-patient meta-analysis | functional movement disorder, age, gender, phenotype | [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
+| [FND-CIT-0046](#fnd-cit-0046) | Anderson et al., 2007 | Comparative cohort study | functional movement disorder, Parkinson disease, disability, quality of life | [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
+| [FND-CIT-0047](#fnd-cit-0047) | Stone et al., 2010 | Controlled cohort study | functional weakness, disability, comorbidity | [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
+| [FND-CIT-0048](#fnd-cit-0048) | Jones et al., 2016 | Systematic review | functional seizures, health-related quality of life | [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
+| [FND-CIT-0049](#fnd-cit-0049) | Stone et al., 2025 | Peer-reviewed review | migraine, FND, functional seizures, comorbidity and overlap | [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
+| [FND-CIT-0050](#fnd-cit-0050) | Nightscales et al., 2020 | Retrospective cohort study | functional seizures, mortality, suicide | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
+| [FND-CIT-0051](#fnd-cit-0051) | Thomas et al., 2025 | Systematic review and meta-analysis | treatment outcomes, symptom chronicity, heterogeneity | [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
 
 ## FND-CIT-0001
 
@@ -298,6 +307,60 @@ Use this source for emerging comparative evidence on PPPD neuromodulation, vesti
 Wang Z, Zheng Z, Wei X, et al. Efficacy of gut-brain neuromodulators in functional esophageal disorders: a systematic review. *BMC Gastroenterology*. 2026. [https://doi.org/10.1186/s12876-026-05089-6](https://doi.org/10.1186/s12876-026-05089-6)
 
 Use this adjacent evidence only for a clinician-led discussion of gut–brain neuromodulators in appropriately assessed globus. It found some support for globus but unconvincing evidence for functional dysphagia and was not specific to FND swallowing symptoms.
+
+## FND-CIT-0043
+
+Stone J, Burton C, Carson A. Recognising and explaining functional neurological disorder. *BMJ*. 2020;371:m3745. [https://doi.org/10.1136/bmj.m3745](https://doi.org/10.1136/bmj.m3745)
+
+Use this source for a concise clinical definition, positive diagnosis, explanation, disability and the statement that psychological stressors are neither necessary nor sufficient. It is a clinical review, not proof that one mechanism or treatment applies to every person.
+
+## FND-CIT-0044
+
+Charney M, Foster S, Shukla V, et al. Neurometabolic alterations in children and adolescents with functional neurological disorder. *NeuroImage: Clinical*. 2024;41:103557. [https://doi.org/10.1016/j.nicl.2023.103557](https://doi.org/10.1016/j.nicl.2023.103557)
+
+Use this source for reported group-level neurometabolite differences in the small paediatric sample studied. It does not establish an individual diagnostic biomarker, apply automatically to adults, or prove that the observed differences caused FND.
+
+## FND-CIT-0045
+
+Lidstone SC, Costa-Parke M, Robinson EJ, Ercoli T, Stone J; FMD GAP Study Group. Functional movement disorder gender, age and phenotype study: a systematic review and individual patient meta-analysis of 4905 cases. *Journal of Neurology, Neurosurgery & Psychiatry*. 2022;93(6):609–616. [https://doi.org/10.1136/jnnp-2021-328462](https://doi.org/10.1136/jnnp-2021-328462)
+
+Use this source for age, gender and phenotype findings in functional movement disorder. Its population is a motor-FND subgroup, so do not use it alone to make age or gender claims about every FND presentation.
+
+## FND-CIT-0046
+
+Anderson KE, Gruber-Baldini AL, Vaughan CG, Reich SG, Fishman PS, Weiner WJ, Shulman LM. Impact of psychogenic movement disorders versus Parkinson’s on disability, quality of life, and psychopathology. *Movement Disorders*. 2007;22(15):2204–2209. [https://doi.org/10.1002/mds.21687](https://doi.org/10.1002/mds.21687)
+
+Use this source for its studied comparison of disability and quality of life in people then described as having psychogenic movement disorders and people with Parkinson disease. It does not compare all FND presentations with all neurological diseases.
+
+## FND-CIT-0047
+
+Stone J, Warlow C, Sharpe M. The symptom of functional weakness: a controlled study of 107 patients. *Brain*. 2010;133(5):1537–1551. [https://doi.org/10.1093/brain/awq068](https://doi.org/10.1093/brain/awq068)
+
+Use this source for the disability comparison and clinical characteristics of functional weakness in the studied cohort. It addresses one FND presentation and should not be generalized to every symptom type without additional evidence.
+
+## FND-CIT-0048
+
+Jones B, Reuber M, Norman P. Correlates of health-related quality of life in adults with psychogenic nonepileptic seizures: a systematic review. *Epilepsia*. 2016;57(2):171–181. [https://doi.org/10.1111/epi.13268](https://doi.org/10.1111/epi.13268)
+
+Use this source for evidence about health-related quality of life and its correlates in adults with functional seizures, using the study's historical terminology when quoting it. Group-level comparisons do not determine one person's quality of life.
+
+## FND-CIT-0049
+
+Stone J, Coebergh J, Khoja L, Butler M, Nicholson TR, Dodick DW. Migraine and functional neurological disorder (FND)—a review of comorbidity and potential overlap. *Brain Communications*. 2025;7(4):fcaf288. [https://doi.org/10.1093/braincomms/fcaf288](https://doi.org/10.1093/braincomms/fcaf288)
+
+Use this source for the relationship between migraine and FND. The review found clearer evidence of increased migraine frequency in functional seizures than in functional motor or wider FND groups; it should not be used alone to establish a general family of functional disorders.
+
+## FND-CIT-0050
+
+Nightscales R, McCartney L, Auvrez C, et al. Mortality in patients with psychogenic nonepileptic seizures. *Neurology*. 2020;95(6):e643–e652. [https://doi.org/10.1212/WNL.0000000000009855](https://doi.org/10.1212/WNL.0000000000009855)
+
+Use this source for its retrospective cohort findings on mortality after video-EEG-confirmed functional seizures, including the reported suicide proportion among deaths before age 50. These are group-level findings from one setting and do not calculate one person's risk.
+
+## FND-CIT-0051
+
+Thomas ST, Thomas ET, Schembri E, Lehn AC, Palmer DDG. Treatment outcomes in functional neurological disorder: a systematic review and meta-analysis exploring the influence of symptom chronicity. *BMJ Neurology Open*. 2025;7:e001150. [https://doi.org/10.1136/bmjno-2025-001150](https://doi.org/10.1136/bmjno-2025-001150)
+
+Use this source for pooled evidence that longer symptom duration was associated with modestly smaller improvement in some motor and physical quality-of-life outcomes, while meaningful gains remained possible across chronicity. Do not use the group-level association to predict an individual's prognosis, deny care, or imply that time alone determines outcome.
 
 # How Course Pages Should Use the Index
 

@@ -5,14 +5,19 @@ FND Education will not:
 - diagnose visitors;
 - declare a new symptom to be functional;
 - promise recovery or a cure;
+- replace the course statement “There is no cure” with qualified language suggesting that a cure treatment exists but may not be guaranteed or permanent;
 - require trauma or psychological stress as an explanation;
 - describe functional symptoms as chosen behaviour;
 - recommend stopping prescribed medication without the prescriber;
 - present one treatment as appropriate for everyone;
 - treat limited improvement as lack of effort or as a reason to withdraw appropriate care;
+- use symptom frequency, severity, recurrence, remission or treatment response to judge effort, acceptance of the diagnosis, education, treatment participation or personal progress;
+- present a symptom-management technique as an obligation or imply that inability to stop a symptom says anything about effort;
 - treat every symptom in a person with FND as part of FND;
 - present anecdotes as proof;
 - hide meaningful scientific disagreement or uncertainty.
+
+The course states plainly that there is no cure for FND. Remission, recovery, adaptation and other outcomes are explained separately. Symptoms may recur or worsen regardless of what a person knows, tries or has achieved.
 
 ## Medical safety
 

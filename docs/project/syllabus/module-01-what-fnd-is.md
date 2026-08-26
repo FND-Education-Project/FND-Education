@@ -6,7 +6,7 @@
 
 ## Purpose
 
-Give readers a clear, evidence-traceable starting explanation without reducing FND to structural damage, “normal tests,” stress, trauma, or imagination. Introduce remission and recovery briefly here; detailed treatment, relapse, and progress review belong in later modules.
+Give readers a clear, evidence-traceable starting explanation without reducing FND to structural damage, “normal tests,” stress, trauma, or imagination. Introduce remission and recovery briefly here; detailed treatment, symptom return and change, and outcome review belong in later modules.
 
 ## Essential knowledge
 
@@ -27,7 +27,9 @@ This section will be written in very plain language for people with FND, support
   - **Social** means a person’s relationships, living conditions, work or school, culture, healthcare, finances, support, and other parts of life around them.
   - The model asks how these areas may affect health and one another. It does not prove that all three caused a particular person’s FND.
 - Why the biopsychosocial model can be helpful when it considers the whole person—and harmful when it is used as a vague way to blame stress, trauma, or personality.
+- The course statement that there is no cure for FND, with remission and recovery explained as separate ideas.
 - What recovery and improvement may mean, including better safety, independence, understanding, participation, or quality of life even when symptoms remain.
+- Why symptom severity, recurrence or remission must not be used to judge effort, acceptance, treatment participation or personal progress.
 
 ## For health professionals and readers wanting more detail
 

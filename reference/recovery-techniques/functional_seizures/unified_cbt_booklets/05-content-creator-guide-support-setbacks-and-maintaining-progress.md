@@ -94,15 +94,15 @@ Some people benefit from resuming the interrupted activity when safe; others nee
 
 It might involve more frequent events, stronger warnings, longer recovery, more avoidance, or reduced skill use. Illness, poor sleep, pain, routine disruption, treatment changes, a demanding period, or no identifiable factor may accompany it.
 
-### 6.2 A setback does not erase learning
+### 6.2 A symptom increase cannot measure learning or effort
 
-Fictional example: after three months without emergency visits, Devon develops influenza and has several familiar episodes in one week. The skills feel harder and Devon cancels two outings. Earlier progress still exists: the family knows the plan, unnecessary emergency transfers are avoided, and Devon knows which small activity to resume after recovery.
+Fictional example: after three months without emergency visits, Devon develops influenza and has several familiar episodes in one week. That increase does not tell us how well Devon understood CBT, how hard Devon tried, whether the diagnosis was accepted, or what happened in any other part of life.
 
-The correct message is not “start CBT again from page one.” It is “protect what still works, check what has changed, and refresh one useful part.”
+The correct message is not “start CBT again from page one.” If Devon wants to review the plan, the purpose is to support safety or a personally chosen goal—not to prove effort or regain credit for earlier work.
 
 ### 6.3 Do not call FND a steadily progressing disease
 
-Symptoms can fluctuate, recur, change, remit, or persist. A recurrence is not proof that an underlying disease inevitably progressed, and it is not proof of failure. The language should preserve uncertainty and prompt review when needed.
+Symptoms can fluctuate, recur, change, remit, or persist. A recurrence tells us that symptoms recurred; it cannot measure effort, learning, acceptance, treatment participation, or personal progress. The language should preserve uncertainty and prompt review when needed.
 
 ## 7. A setback and a new medical problem are not the same
 
@@ -148,7 +148,7 @@ They may restore one agreed response that became inconsistent during a frighteni
 
 The worksheet should ask the reader to choose one starting point. Cognitive overload is a treatment barrier, not a sign that more homework is needed.
 
-## 10. Make progress visible when seizures continue
+## 10. Keep outcomes separate when seizures continue
 
 ### 10.1 Define the outcomes separately
 
@@ -226,7 +226,7 @@ Before drafting, the creator should be able to explain:
 3. Why consequences can influence a pattern without making seizures intentional.
 4. How a consensual reduction in over-help differs from punishment or abandonment.
 5. How to distinguish a familiar setback from a changed event requiring medical guidance.
-6. Why recurrence does not erase progress.
+6. Why recurrence cannot measure effort, learning, acceptance, treatment participation, or personal progress.
 7. How continued care remains valuable when seizure remission does not occur.
 8. What supporters need in order to remain supporters rather than unpaid therapists.
 
