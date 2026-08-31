@@ -20,6 +20,12 @@ Surface EMG records when particular muscles activate. EEG records electrical act
 
 This signal does not mean the person consciously planned the movement. It is a laboratory observation about movement preparation and must be explained without equating brain preparation with voluntary control.
 
+### A brief jerk can be part of a long episode
+
+An individual jerk is brief, but that does not mean the *problem* has to be brief. Jerks may occur occasionally, come in repeated clusters or bouts, recur throughout a longer flare, or be part of a more persistent movement pattern. For some people they become more frequent with fatigue, startle, attention changes, sensory or cognitive overload, or around another FND episode. None of those contexts is required, and they do not diagnose the cause by themselves.
+
+At the start of a familiar bout, move away from fall, heat, sharp-object or driving hazards and sit or obtain support if needed. If the person already has a rehabilitation plan, one familiar external-focus or continuous-movement cue may be tried without forcefully suppressing every jerk. A new pattern, repeated injury, altered awareness or another major change deserves reassessment.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -30,6 +36,12 @@ This signal does not mean the person consciously planned the movement. It is a l
 
 Do not startle, tap or expose the person to loud sounds to try to bring out a jerk. Even when stimulus sensitivity is assessed clinically, it requires a planned specialist protocol and attention to distress, falls and injury. A home video may help only if a spontaneous event can be recorded safely without delaying care.
 
+### When a bout begins
+
+The jerks themselves may each last only a moment while the bout continues much longer. Help remove hazards, offer the person’s usual seat or support, and reduce unnecessary instructions or stimulation if that is part of their established plan. Do not hold a limb down or repeatedly tell the person to suppress the movement.
+
+If it can be done without making the episode the centre of attention, note whether the jerks came singly or in clusters, the setting, approximate duration, associated awareness or other symptoms, injury and recovery. This is more useful than assuming a brief movement means a brief illness episode.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -37,6 +49,12 @@ Do not startle, tap or expose the person to loud sounds to try to bring out a je
 [Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
+
+### Episodic and prolonged presentations
+
+Distinguish the duration of each jerk from the duration of the clinical episode. Document whether jerks are isolated, clustered, quasi-continuous or embedded in a broader flare; record frequency, warning, task and environmental context, relation to other motor or seizure-like symptoms, awareness, injury and recovery. Functional motor symptoms can be recurrent or persistent. Episodicity or stimulus sensitivity alone is not diagnostic.
+
+When jerks are too intermittent to observe in clinic, safely obtained video may help phenotype the event. Neurophysiological testing requires enough representative jerks for analysis and should not be pursued by provoking a hazardous or highly distressing bout solely to obtain data. For treatment planning, identify the earliest reliable warning or pre-jerk state, if one exists, so a short onset strategy can use the same attention, positioning or movement principles practised between bouts.
 
 ### Technique outline: EEG–EMG with jerk-locked back-averaging
 
