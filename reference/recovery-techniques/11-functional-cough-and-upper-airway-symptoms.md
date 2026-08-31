@@ -25,6 +25,17 @@ Treatment often teaches the person to recognize an early cough or throat sensati
 9. **CBT-informed attention and arousal strategies — C.** Where threat, vigilance or stress amplifies the urge, treatment may include attention shifting, paced exposure or psychological care. This does not imply that the cough is fabricated.
 10. **Treat coexisting conditions — C.** Asthma, eosinophilic disease, reflux, rhinitis, infection, medication effects and structural or neurological laryngeal problems need appropriate treatment.
 
+### If symptoms come in bouts or longer flares
+
+Functional cough, throat clearing or related upper-airway symptoms may occur in short bouts, recur through the day or remain persistent. For a **familiar mild episode** that has already been medically assessed:
+
+1. Move away from a known irritant when practical and reduce unnecessary talking.
+2. Use **one** clinician-selected competing response or efficient-breathing cue at the earliest familiar urge.
+3. Return attention to the ordinary activity rather than repeatedly checking the throat or breathing.
+4. Once the episode settles, resume activity gradually and use the graded trigger plan only as prescribed.
+
+Do not force breath-holding, large breaths or cough suppression during serious breathing symptoms. Severe breathlessness, blue/grey colour, chest pain, coughing blood, reduced consciousness or a substantially changed pattern requires urgent care.
+
 ### A low-risk starting practice
 
 Only use the competing response selected during assessment. Practise it first while symptom-free: one quiet repetition, then ordinary breathing. During a familiar mild urge, use it once and return attention to the activity. Stop for breathlessness, noisy breathing, chest pain, faintness, blue/grey color, inability to speak or a rapidly changing pattern.
@@ -41,9 +52,17 @@ Seek urgent help for severe breathing difficulty, blue/grey color, chest pain, c
 - Support ordinary conversation and activity after the urge settles rather than discussing every cough.
 - Follow emergency advice for a new or severe breathing pattern.
 
+### During a familiar bout
+
+Help reduce known irritants and extra talking, then offer one agreed cue. Do not repeatedly instruct the person how to breathe, and do not withhold prescribed respiratory treatment. A brief cough bout can leave irritation or fatigue that lasts longer than the obvious coughing. If the person cannot speak, develops severe breathing difficulty or the pattern is different from usual, follow the medical or emergency plan rather than continuing a functional-symptom technique.
+
 ## For clinicians
 
 Phenotype the problem and assess pulmonary, ENT/laryngeal, swallowing, reflux, allergy, infection, medication and neurological contributors. Explain positive functional features where present. Teach a small number of competing responses and efficient breathing patterns, then practise across graded real-life triggers.
+
+### Adapting treatment for episodic symptoms
+
+Document earliest urge, active-bout duration, frequency, trigger context, voice/breathing changes and recovery. Rehearse the onset sequence while the patient is stable: **reduce relevant irritant/load → one assessed competing response or breathing cue → return to ordinary activity**. Make explicit which symptoms require prescribed asthma/respiratory treatment or urgent assessment instead of cough-suppression practice.
 
 Avoid generic breathwork that is not matched to the breathing phenotype. Coordinate speech-language pathology, respiratory physiotherapy, pulmonology, ENT, gastroenterology and psychology as indicated. Track cough/urge control, voice, breathing, sleep, participation and healthcare use.
 
@@ -59,4 +78,4 @@ No community-only technique was added. Recurring reports about sipping, swallowi
 
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md)
 
-*Evidence search current to August 25, 2026 · Respiratory, laryngology and accessibility review pending*
+*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Respiratory, laryngology and accessibility review pending*
