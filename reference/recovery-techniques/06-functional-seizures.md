@@ -32,6 +32,19 @@ The following two closely related ideas appeared in at least two independent pat
 
 Use either community technique only for an established, assessed functional-seizure pattern. It does not treat epilepsy and must not replace the person’s emergency plan. If the warning is too short, awareness is impaired, or the technique increases distress, omit it.
 
+### Short events, long events, clusters and recovery
+
+Functional seizures are episodic, but the **whole symptomatic period** may be much longer than the most obvious seizure-like movement or loss of responsiveness. There may be a warning beforehand, a prolonged recovery afterward, repeated events in a cluster, or other functional symptoms—such as jerking, gait change, weakness, speech difficulty or altered sensation—that begin before or continue after the seizure.
+
+When there is a familiar warning and enough awareness to act:
+
+1. **Get safe first.** Move away from traffic, water, stairs, heat, sharp objects or other hazards and use the position agreed in the safety plan.
+2. **Use one practised warning strategy.** This may be a seizure-focused CBT skill, an assessed breathing strategy, or one of the clearly labelled community grounding approaches above. Do not cycle rapidly through many techniques.
+3. **If there is no usable warning, focus on safety.** A person should not be blamed for failing to interrupt an event they could not act on in time.
+4. **After the event, follow the recovery plan.** Orientation, rest, hydration when fully alert and safe, and graded return to activity may be more useful than immediately analysing the episode.
+
+Follow the individualized emergency thresholds. A first event, serious injury, unusual breathing or colour change, repeated events without the usual recovery, or a substantially different pattern needs appropriate urgent assessment.
+
 ### Ask for urgent help or reassessment when
 
 Follow the person’s individualized plan. Emergency assessment is appropriate for a first seizure-like event, serious injury, breathing or color change that is not part of the known plan, pregnancy-related concern, prolonged unresponsiveness without an agreed response, repeated events without usual recovery, or a substantially new pattern. Do not assume every future episode is functional.
@@ -44,9 +57,21 @@ Follow the person’s individualized plan. Emergency assessment is appropriate f
 - Know the individualized emergency thresholds, especially if epilepsy also occurs.
 - Afterward, offer orientation and the agreed recovery steps without interrogation or blame.
 
+### Before, during and after a seizure episode
+
+The visible event may be only one part of a longer flare. If the person has familiar jerking, speech, gait, weakness or sensory changes around seizures, follow the separate safety plan for those symptoms rather than assuming every movement means another seizure has begun.
+
+Time the seizure-like event when practical, but also notice whether the person returns to their usual baseline between repeated events and how long recovery takes. Offer one agreed warning cue only when the person is still able to use it. During impaired awareness, the supporter’s job is safety—not coaching the person harder.
+
 ## For clinicians
 
 Communicate a positive diagnosis and shared formulation, review video-EEG or other evidence where relevant, and evaluate coexisting epilepsy and psychiatric/medical conditions. Provide a written episode and emergency plan. Refer for psychological intervention and maintain neurological follow-up rather than discharging solely because events are nonepileptic.
+
+### Separate the seizure from the surrounding flare
+
+For each event type, document warning/prodrome, ictal sequence, duration, frequency, clustering, recovery and return to baseline. Separately document functional motor, speech, cognitive, sensory or gait symptoms that occur around the event but have a different time course. Avoid labelling the entire symptomatic period as one prolonged seizure without evidence.
+
+If there is a reliable warning, rehearse **safety → one selected interruption/grounding skill → recovery plan** between events. If awareness is lost too quickly, make the plan primarily environmental and supporter-based. Individual emergency thresholds should account for the established event pattern, coexisting epilepsy, injury risk, pregnancy and other medical factors. A changed semiology, duration or recovery pattern should prompt renewed differential assessment.
 
 The [2026 American Academy of Neurology functional-seizure guideline](https://www.neurology.org/doi/10.1212/WNL.0000000000214466) specifically reinforces shared decision-making about treatment, asking how functional seizures affect occupational and social functioning, clearly explaining the diagnosis and treatment plan, and providing continuity of care. These are parts of treatment, not optional additions after the diagnosis has been delivered.
 
@@ -67,4 +92,4 @@ The two **L** techniques are included as repeated community experience, not clin
 
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/06-functional-seizures.md) · [CBT resources and unified booklets](functional_seizures/README.md)
 
-*Evidence search current to August 25, 2026 · Clinical and accessibility review pending*
+*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*
