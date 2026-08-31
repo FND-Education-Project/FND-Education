@@ -26,6 +26,20 @@ Treatment looks for a more effective sound, word or communication pattern that i
 10. **CBT-informed or psychologically informed strategies — C.** When attention, threat, avoidance or distress affects communication, treatment may include graded social exposure, coping skills or psychological care without treating stress as the sole explanation.
 11. **Treat coexisting conditions — C.** Hearing, reflux, respiratory disease, pain, migraine, structural laryngeal disorders and other neurological or language conditions need their own assessment and care.
 
+### If speech or voice changes in episodes
+
+Functional stuttering, slurred or effortful speech, word blocking, loss of voice or inability to speak may come in short episodes, last for hours or longer, or remain persistent. For some people, time pressure, competing conversation, fatigue, sensory/cognitive overload or another FND episode makes communication temporarily harder. These are individual patterns, not universal triggers.
+
+When a familiar episode begins:
+
+1. **Reduce communication demand.** Pause the conversation, move to a quieter setting when helpful, and ask others to use one question or idea at a time.
+2. **Use backup communication immediately if useful.** Writing, texting, text-to-speech or agreed gestures are communication—not failure to recover.
+3. **Use one therapist-selected cue.** A rhythm, automatic phrase, easy sound, rate change or other practised strategy may be tried without repeatedly forcing difficult words.
+4. **Keep the goal on the message.** Do not turn the episode into repeated tests of whether normal speech has returned.
+5. **Return gradually.** Resume low-pressure speech first, then increase conversation length and environmental complexity.
+
+Sudden new speech change with facial droop, weakness, severe headache, confusion, swallowing or breathing difficulty needs urgent assessment.
+
 ### A low-risk starting practice
 
 Use the easiest comfortable sound or automatic phrase already identified with the therapist. Practise briefly in a low-pressure setting, then use it to begin one useful word or sentence. Stop if there is throat pain, breathlessness, dizziness or voice strain. Persistent loss of voice should have appropriate laryngeal assessment before unsupervised exercises.
@@ -42,9 +56,19 @@ Speech or voice change is sudden or comes with facial droop, one-sided weakness,
 - Accept backup communication as communication, not refusal to practise.
 - Help expand practice into real conversations without creating a performance.
 
+### During a speech or voice episode
+
+Lower the conversational load: fewer questions, one speaker at a time and extra response time. Offer the person’s backup communication without making them first prove that speech is unavailable. If there is one agreed speech-language cue, offer it once rather than repeatedly coaching every word. A brief episode and one lasting much longer can both occur; support communication throughout rather than waiting for speech to normalize before continuing life.
+
 ## For clinicians
 
 Define the communication phenotype and identify positive functional features across relevant tasks. Complete or arrange laryngeal, respiratory, hearing, neurological and language assessment where indicated. Use the best preserved output as the treatment entry point, then shape and generalize it rapidly to meaningful communication.
+
+### Adapting communication rehabilitation for episodic symptoms
+
+Document episode duration, frequency, warning, social and sensory/cognitive load, fatigue, relationship to other FND symptoms and recovery. When possible, identify the lowest-demand output that remains available during an episode and rehearse a portable sequence: **reduce demand → preserve communication access → one effective speech/voice cue → graded return to ordinary conversation**.
+
+Augmentative or alternative communication should remain available while retraining continues. Do not remove it to increase motivation. Track communicative participation, ability to convey urgent needs, episode burden and recovery time as well as intelligibility or voice quality.
 
 Record intelligibility, communicative participation, fatigue, confidence and support use, not only symptom form. Coordinate speech-language therapy, laryngology, neurology, psychology and occupational or vocational care. Provide augmentative support when needed while keeping rehabilitation available.
 
@@ -60,4 +84,4 @@ No community-only technique was added. Recurring lived-experience reports about 
 
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/09-functional-speech-and-voice-symptoms.md)
 
-*Evidence search current to August 25, 2026 · Speech-language-pathology and accessibility review pending*
+*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Speech-language-pathology and accessibility review pending*
