@@ -20,6 +20,12 @@ During one part of the examination, pushing the affected heel down may be weak. 
 
 Hoover’s sign does not apply to every kind of weakness and is not perfectly sensitive. Pain, difficulty understanding the task, neglect, severe weakness in both legs and other neurological or musculoskeletal problems may interfere with interpretation. The complete history and neurological examination still matter.
 
+### Episodic, fluctuating and longer-lasting weakness
+
+Functional weakness does not have to look the same all day. It may be present for long periods, fluctuate in severity, or appear in episodes in which a limb suddenly becomes much harder to use. For some people, the pattern changes with the task, fatigue, pain, attention, sensory or cognitive load, or around other FND symptoms. These are possible patterns, not required triggers. A symptom being absent or milder during an appointment does not make the history less real.
+
+If familiar weakness begins suddenly, make the immediate situation safe first: stop driving, walking without adequate support, carrying something dangerous or using machinery; sit or lie down if needed; use the aid or safety plan already recommended; then use any rehabilitation cue that has been practised for this situation. New weakness, a substantially different pattern, or weakness with other urgent neurological symptoms needs medical assessment rather than automatic attribution to FND.
+
 Do not repeatedly perform this test on yourself or ask someone at home to interpret it. The useful question for a clinician is: “Which positive sign supported my diagnosis, and what did it show in my examination?”
 
 ***
@@ -32,6 +38,12 @@ Do not repeatedly perform this test on yourself or ask someone at home to interp
 
 A moment of stronger automatic movement does not mean the person can produce that movement whenever they choose. Do not use the sign as a challenge—“You moved then, so do it now”—or secretly repeat the test. If the person wants help, record the clinician’s explanation and what the finding may offer as a rehabilitation starting point.
 
+### When weakness appears or suddenly worsens
+
+Functional weakness may be intermittent, situational or prolonged. A supporter may therefore see the person move much better at one time and need substantial help at another. Variation is not evidence that the symptom is chosen. At onset, help make the activity safe, bring the person’s usual aid or seat if needed, and use only the cue or short recovery plan previously agreed with them. Avoid repeated strength tests, rapid instructions or pressure to demonstrate movement.
+
+Once the person is safe, useful observations include what they were doing when the change began, which limb was affected, how long the change lasted, whether other symptoms appeared with it, and what recovery looked like. These details can help the clinical team without turning family life into constant monitoring.
+
 New weakness, a changed pattern or weakness accompanied by other urgent symptoms still requires appropriate medical assessment. A prior FND diagnosis does not establish the cause of every later episode of weakness.
 
 ***
@@ -41,6 +53,12 @@ New weakness, a changed pattern or weakness accompanied by other urgent symptoms
 [Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
+
+### Episodic and prolonged presentations
+
+Document the temporal phenotype rather than assuming continuous weakness: baseline function, episode or flare duration, frequency, warning symptoms, task and environmental context, relationship to other FND symptoms, falls or injuries, and recovery. Functional motor symptoms may be recurrent or persistent and can vary substantially across situations. Fluctuation alone is not diagnostic; the diagnosis still requires appropriate positive findings and assessment of competing or coexisting causes.
+
+If the weakness is not present during the appointment, a credible history, safely obtained video and positive findings documented at another examination may still be clinically useful. When the symptom is episodic, give the patient a brief onset plan that starts with safety and adapts the same rehabilitation principles used between episodes—for example an already demonstrated automatic movement, external target or task-oriented cue—rather than asking the person to repeatedly test strength during a flare.
 
 ### Technique outline: Hoover’s sign
 
