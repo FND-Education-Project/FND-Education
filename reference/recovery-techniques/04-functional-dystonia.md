@@ -25,6 +25,18 @@ Functional dystonia may involve a fixed or intermittent posture, pain, sensitivi
 9. **Electrical stimulation — E.** Muscle or functional electrical stimulation is sometimes used to cue a movement or opposing muscle. It needs trained selection, skin checks and a clear functional goal.
 10. **Pain, contracture and equipment management — C.** Treat pain and skin problems, monitor joint range, and review splints, footwear and mobility aids. An aid may support participation, but unnecessary immobilization can also reinforce loss of movement; the plan must be individual.
 
+### If posturing comes in episodes or suddenly worsens
+
+Functional dystonia may be intermittent, recur in episodes or remain fixed for long periods. When a familiar episode begins, the immediate goal is **safe, comfortable positioning**, not forcing the limb back to normal.
+
+1. Support the limb or body in the position already identified as safest and least painful.
+2. Stop a task that risks a fall, joint injury or impact.
+3. Use one therapist-selected small alignment change, external-focus movement or release cue if it has already been practised and does not increase pain.
+4. Avoid forceful stretching, pulling, bracing or repeated attempts to straighten the limb.
+5. When the episode eases, return gradually to a useful movement or ordinary task rather than repeatedly checking the posture.
+
+New fixed posturing, rapidly increasing swelling or pain, colour or temperature change, injury or loss of circulation needs reassessment.
+
 ### A low-risk starting practice
 
 Choose one comfortable, fully supported position. Pair a very small alignment change with a useful task such as resting the hand on a soft object or placing the foot securely on the floor. Keep the dose brief and stop before pain escalates. Do not force a joint, copy an online splint, or attempt unsupported standing if balance is uncertain.
@@ -41,9 +53,17 @@ There is a new fixed posture, rapidly increasing pain or swelling, skin color or
 - Praise participation and problem-solving, not the appearance of the posture.
 - Support both rehabilitation and practical adaptations when symptoms persist.
 
+### During an intermittent episode or flare
+
+Help the person reach the agreed supported position and remove immediate hazards. Ask before touching the affected limb. If there is a therapist-agreed cue, offer it once; do not manipulate the joint or repeatedly tell the person to relax. A brief episode and a posture lasting much longer can both occur, so judge help by pain, safety and function rather than an expected duration.
+
 ## For clinicians
 
 Assess pain, complex regional pain syndrome, joint and skin integrity, contracture, neurological comorbidity and equipment. Use positive functional signs and variability where present, while acknowledging that fixed postures may change slowly. Begin with alignment, proximal control and functional task goals; reduce reinforcement of protective posturing without invalidating pain.
+
+### Adapting rehabilitation for fixed and episodic presentations
+
+Document whether the posture is fixed, intermittent, task-specific or part of a broader flare, including duration, warning, pain, sensory changes, environmental context and recovery. Rehearse an onset sequence between episodes: **supported positioning → one small, non-forceful movement or release strategy → graded return to function**. If the posture becomes painful or mechanically fixed, the plan may appropriately emphasize protection, range preservation and equipment rather than rapid correction.
 
 Consider orthotics, splinting, electrical stimulation and mobility aids only with explicit goals and review points. Avoid prolonged immobilization or aggressive passive correction. Coordinate physiotherapy, occupational therapy, pain management, psychological treatment and orthopedic or neurological review when indicated.
 
@@ -61,4 +81,4 @@ No community-only technique was added. Repeated lived-experience themes around p
 
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/04-functional-dystonia.md)
 
-*Evidence search current to August 25, 2026 · Clinical and accessibility review pending*
+*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*
