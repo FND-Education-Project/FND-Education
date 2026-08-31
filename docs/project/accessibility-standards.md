@@ -1,5 +1,9 @@
 # Accessibility Standards
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › Project Documentation › **Accessibility Standards**
+<!-- NAV-BREADCRUMB:END -->
+
 FND itself can make reading and navigating educational material difficult. Cognitive symptoms, migraine, visual sensitivity, fatigue, pain, motor disability, hearing problems, and sensory sensitivity should be considered throughout the design.
 
 The project will aim for:
@@ -25,3 +29,8 @@ The project will aim for:
 
 Accessibility should be checked during authoring and review, not added only after publication.
 
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

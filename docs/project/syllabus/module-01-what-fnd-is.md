@@ -1,5 +1,9 @@
 # Module 1 — What FND Is
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 1 — What FND Is**
+<!-- NAV-BREADCRUMB:END -->
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part One: Understanding FND**
@@ -63,3 +67,9 @@ The reader can describe FND in plain language while clearly identifying what com
 ---
 
 [Course syllabus](../detailed-course-syllabus.md) · [Module 2: How FND Is Diagnosed →](module-02-how-fnd-is-diagnosed.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

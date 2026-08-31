@@ -1,5 +1,9 @@
 # Module 23 — Reviewing Progress
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 23 — Reviewing Progress**
+<!-- NAV-BREADCRUMB:END -->
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Six: Long-Term Management**
@@ -49,3 +53,9 @@ The person and supporter can recognize progress, unmet needs, and next steps wit
 ---
 
 [← Module 22: Building Your Personal FND Handbook](module-22-building-your-personal-fnd-handbook.md) · [Course syllabus](../detailed-course-syllabus.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

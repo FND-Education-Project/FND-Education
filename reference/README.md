@@ -1,5 +1,9 @@
 # FND Reference Library
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../README.md) › [Reference Library](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This reference was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This library collects practical, symptom-specific material that is easier to use as a reference than as part of a course. It currently has two collections:
@@ -25,3 +29,9 @@ Clinical reviewers can help check whether technique descriptions are accurate, a
 Please follow the project’s [research and citation policy](../docs/project/research-and-citation-policy.md), [evidence standard](../docs/project/evidence-standard.md), [safety and editorial rules](../docs/project/safety-and-editorial-rules.md), and [accessibility standards](../docs/project/accessibility-standards.md).
 
 *Reference library reviewed: August 25, 2026 · Clinical, lived-experience and accessibility review pending*
+
+<!-- NAV-CONTEXT:START -->
+**Browse:** [Diagnostic Signs](diagnostic-signs/README.md) · [Recovery Techniques](recovery-techniques/README.md)
+
+**Navigate:** [Home](../README.md) · [Course](../course/README.md) · [Reference Library](README.md) · [Site Map](../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

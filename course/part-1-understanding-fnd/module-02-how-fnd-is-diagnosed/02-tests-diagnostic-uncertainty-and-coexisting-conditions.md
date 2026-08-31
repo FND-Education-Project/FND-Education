@@ -1,5 +1,9 @@
 # Tests, Diagnostic Uncertainty, and Coexisting Conditions
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 2: How FND Is Diagnosed](README.md) › **Tests, Diagnostic Uncertainty, and Coexisting Conditions**
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 Tests are important, but no test answers every question. A scan, blood test, electroencephalogram or specialist assessment is useful when it is chosen to investigate a particular possibility. This page explains why normal results do not diagnose FND on their own, why another condition can exist alongside FND, and when it may be reasonable to revisit a diagnosis.
@@ -105,10 +109,16 @@ For seizure-like events, obtain a detailed history and semiology from the patien
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
-⬅️ **Previous article:** [Positive Signs and the Neurological Examination](01-positive-signs-and-the-neurological-examination.md)
 
 ➡️ **Next module:** [What May Cause or Affect FND?](../module-03-causes-mechanisms-and-honest-uncertainty/README.md)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**In this module:** [← Previous](01-positive-signs-and-the-neurological-examination.md) · [Module overview](README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 ### Three focused quotations

@@ -1,5 +1,9 @@
 # Module 1 — What Is Functional Neurological Disorder?
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 1: What FND Is](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 A short starting point for understanding what FND is, what **functional** means, and what remission, recovery, and other forms of improvement may mean.
@@ -24,3 +28,9 @@ A short starting point for understanding what FND is, what **functional** means,
 ➡️ **Next module:** [How Is FND Diagnosed?](../module-02-how-fnd-is-diagnosed/README.md)
 
 *Last reviewed: August 26, 2026*
+
+<!-- NAV-CONTEXT:START -->
+**Course:** [Course index](../../README.md) · [Next module →](../module-02-how-fnd-is-diagnosed/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

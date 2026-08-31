@@ -1,5 +1,9 @@
 # Safety and Editorial Rules
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › Project Documentation › **Safety and Editorial Rules**
+<!-- NAV-BREADCRUMB:END -->
+
 FND Education will not:
 
 - diagnose visitors;
@@ -37,3 +41,8 @@ The course states plainly that there is no cure for FND. Remission, recovery, ad
 - Do not use fear, urgency, or unrealistic hope to promote a treatment.
 - Correct consequential errors visibly and retain a clear review date.
 
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

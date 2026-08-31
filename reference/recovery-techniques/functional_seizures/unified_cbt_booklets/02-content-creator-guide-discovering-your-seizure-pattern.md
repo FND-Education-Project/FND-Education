@@ -1,5 +1,9 @@
 # Content-Creator Guide 2 — Discovering Your Seizure Pattern
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Content-Creator Guide 2 — Discovering Your Seizure Pattern**
+<!-- NAV-BREADCRUMB:END -->
+
 This guide teaches the ideas behind [Booklet 2: Discovering Your Seizure Pattern](02-discovering-your-seizure-pattern.md). Its purpose is to help an inexperienced content creator teach observation and formulation without turning the reader into a full-time symptom detective or inventing a psychological cause.
 
 All examples are fictional composites. A real formulation belongs to the person and should be reviewed with an appropriately trained clinician.
@@ -172,3 +176,9 @@ Before drafting, the creator should be able to explain:
 [Booklet 2 production outline](02-discovering-your-seizure-pattern.md) · [Series overview](README.md) · [Evidence and unification method](../evidence-and-unification-method.md)
 
 *Content-creator teaching guide created August 25, 2026 · Clinical, trauma-informed, and lived-experience review pending*
+
+<!-- NAV-CONTEXT:START -->
+**CBT materials:** [← Previous](01-content-creator-guide-understanding-functional-seizures-and-cbt.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md) · [Next →](03-content-creator-guide-skills-for-warnings-and-seizure-onset.md)
+
+**Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

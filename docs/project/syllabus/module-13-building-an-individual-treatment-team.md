@@ -1,5 +1,9 @@
 # Module 13 — Building an Individual Treatment Team
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 13 — Building an Individual Treatment Team**
+<!-- NAV-BREADCRUMB:END -->
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Four: Treatment and Rehabilitation**
@@ -50,3 +54,9 @@ The reader has a clearer plan for which professional may address each need and w
 ---
 
 [← Module 12: Autonomic and Whole-Body Symptoms](module-12-autonomic-and-whole-body-symptoms.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 14: Rehabilitation and Neuroplastic Change →](module-14-rehabilitation-and-neuroplastic-change.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

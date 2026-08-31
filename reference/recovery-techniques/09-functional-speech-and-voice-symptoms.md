@@ -1,5 +1,9 @@
 # Recovery Techniques for Functional Speech and Voice Symptoms
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Speech and Voice Symptoms**
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional dysphonia, functional aphonia, functional dysarthria, functional stuttering, functional accent change and functional communication disorder.
@@ -72,6 +76,12 @@ Augmentative or alternative communication should remain available while retraini
 
 Record intelligibility, communicative participation, fatigue, confidence and support use, not only symptom form. Coordinate speech-language therapy, laryngology, neurology, psychology and occupational or vocational care. Provide augmentative support when needed while keeping rehabilitation available.
 
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/09-functional-speech-and-voice-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/01-speech-voice-and-word-blocking.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and evidence
 
 The technique list comes from international speech-language-therapy consensus covering functional communication, swallowing and cough disorders (**FND-CIT-0025**). That paper integrates clinical experience and related literature, but it is not a randomized trial. The search did not locate controlled treatment trials for the individual functional speech or voice techniques listed here.
@@ -81,7 +91,5 @@ No community-only technique was added. Recurring lived-experience reports about 
 ### Sources
 
 - **FND-CIT-0025:** Baker J, Barnett C, Cavalli L, et al. *Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.* JNNP. 2021;92(10):1112–1125. [doi:10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
-
-[Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/09-functional-speech-and-voice-symptoms.md)
 
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Speech-language-pathology and accessibility review pending*

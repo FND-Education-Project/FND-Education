@@ -1,5 +1,9 @@
 # Module 10 — Thinking, Memory, and Dissociation
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 10: Cognition, Memory, and Dissociation](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Thinking, Memory, and Dissociation** and helps readers choose the most useful page.
@@ -20,3 +24,9 @@ This short module introduces **Thinking, Memory, and Dissociation** and helps re
 ⬅️ **Previous module:** [Speech, Voice, Swallowing, and Breathing Symptoms](../../part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/README.md)
 
 ➡️ **Next module:** [Pain, Migraine, Fatigue, and Sleep](../module-11-pain-migraine-fatigue-and-sleep/README.md)
+
+<!-- NAV-CONTEXT:START -->
+**Course:** [← Previous module](../../part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/README.md) · [Course index](../../README.md) · [Next module →](../module-11-pain-migraine-fatigue-and-sleep/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

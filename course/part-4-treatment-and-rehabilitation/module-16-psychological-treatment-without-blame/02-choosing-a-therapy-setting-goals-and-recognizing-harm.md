@@ -1,5 +1,9 @@
 # Choosing a Therapy, Setting Goals, and Recognizing Harm
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 16: Psychological Treatment Without Blame](README.md) › **Choosing a Therapy, Setting Goals, and Recognizing Harm**
+<!-- NAV-BREADCRUMB:END -->
+
 This is a focused authoring template within Module 16. Build the completed page around this scope: Cover CBT-informed, acceptance-based, mindfulness, trauma-focused, psychodynamic, and other approaches with honest evidence labels; include consent, fit, goals, outcome review, coercion, retraumatization, hidden-trauma claims, and the right to decline.
 
 ***
@@ -58,6 +62,13 @@ This is a focused authoring template within Module 16. Build the completed page 
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**In this module:** [← Previous](01-why-psychological-treatment-does-not-mean-imaginary.md) · [Module overview](README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 **Which evidence and source notes will the completed page need?** Build a focused evidence record for “Choosing a Therapy, Setting Goals, and Recognizing Harm”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.

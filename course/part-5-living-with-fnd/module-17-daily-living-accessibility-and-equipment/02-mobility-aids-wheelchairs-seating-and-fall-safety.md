@@ -1,5 +1,9 @@
 # Mobility Aids, Wheelchairs, Seating, and Fall Safety
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 17: Daily Living, Accessibility, and Equipment](README.md) › **Mobility Aids, Wheelchairs, Seating, and Fall Safety**
+<!-- NAV-BREADCRUMB:END -->
+
 This is a focused authoring template within Module 17. Build the completed page around this scope: Cover canes, walkers, wheelchairs, braces, seating, positioning, transfer safety, fitting, training, funding, pressure and joint risks, independence, rehabilitation goals, and planned reassessment without blanket rules.
 
 ***
@@ -58,6 +62,13 @@ This is a focused authoring template within Module 17. Build the completed page 
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**In this module:** [← Previous](01-adapting-personal-care-and-household-tasks.md) · [Module overview](README.md) · [Next →](03-sensory-home-and-communication-access.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 **Which evidence and source notes will the completed page need?** Build a focused evidence record for “Mobility Aids, Wheelchairs, Seating, and Fall Safety”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.

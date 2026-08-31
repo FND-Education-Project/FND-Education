@@ -1,5 +1,9 @@
 # How the Unified Booklets Will Weigh Evidence
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Reference Library](../../README.md) › [Recovery Techniques](../README.md) › [Functional Seizure Recovery Materials](README.md) › **How the Unified Booklets Will Weigh Evidence**
+<!-- NAV-BREADCRUMB:END -->
+
 > **Decision framework for reviewers:** This page explains how material from different CBT-informed programmes will be selected, changed, or left out. “Better outcomes” receive more weight only after the study and the outcome have been examined carefully.
 
 ## The main rule
@@ -103,3 +107,9 @@ Before an exercise enters the final PDF, its authoring note must state:
 [Resource map](README.md) · [Course/booklet boundary](course-and-booklet-content-boundary.md) · [Booklet outlines](unified_cbt_booklets/README.md)
 
 *Decision framework created August 25, 2026 · Formal evidence grading and clinical review pending*
+
+<!-- NAV-CONTEXT:START -->
+**Functional seizures:** [Recovery Techniques](../README.md) · [Functional-seizure recovery page](../06-functional-seizures.md) · [Unified CBT booklets](unified_cbt_booklets/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

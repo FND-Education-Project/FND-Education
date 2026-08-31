@@ -1,5 +1,9 @@
 # Recognizing a Setback Versus Medical Change
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 21: Setbacks, Relapse, and Changing Symptoms](README.md) › **Recognizing a Setback Versus Medical Change**
+<!-- NAV-BREADCRUMB:END -->
+
 This is a focused authoring template within Module 21. Build the completed page around this scope: Cover ordinary fluctuation, temporary setbacks, recurrence, sustained decline, altered symptom pattern, injury, illness, medication effects, new disease, accumulated load, and individualized reassessment criteria.
 
 ***
@@ -58,6 +62,13 @@ This is a focused authoring template within Module 21. Build the completed page 
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**In this module:** [Module overview](README.md) · [Next →](02-responding-recovering-and-updating-the-plan.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 **Which evidence and source notes will the completed page need?** Build a focused evidence record for “Recognizing a Setback Versus Medical Change”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.

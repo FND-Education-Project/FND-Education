@@ -1,5 +1,9 @@
 # Episode Safety, Observation, and Emergency Decisions
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 6: Functional Seizures and Episodic Symptoms](README.md) › **Episode Safety, Observation, and Emergency Decisions**
+<!-- NAV-BREADCRUMB:END -->
+
 This is a focused authoring template within Module 6. Build the completed page around this scope: Cover injury reduction, positioning and environment, actions to avoid, useful observation, individualized emergency criteria, breathing or injury concerns, and how supporters can remain calm without becoming constant monitors.
 
 ***
@@ -58,6 +62,13 @@ This is a focused authoring template within Module 6. Build the completed page a
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**In this module:** [← Previous](01-what-functional-seizures-are-and-how-they-are-diagnosed.md) · [Module overview](README.md) · [Next →](03-recovery-treatment-and-daily-life.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 **Which evidence and source notes will the completed page need?** Build a focused evidence record for “Episode Safety, Observation, and Emergency Decisions”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.

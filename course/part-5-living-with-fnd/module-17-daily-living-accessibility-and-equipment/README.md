@@ -1,5 +1,9 @@
 # Module 17 — Daily Living, Accessibility, and Equipment
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 17: Daily Living, Accessibility, and Equipment](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Daily Living, Accessibility, and Equipment** and helps readers choose the most useful page.
@@ -21,3 +25,9 @@ This short module introduces **Daily Living, Accessibility, and Equipment** and 
 ⬅️ **Previous module:** [Psychological Treatment Without Blame](../../part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md)
 
 ➡️ **Next module:** [Relationships, Identity, and Grief](../module-18-relationships-identity-and-grief/README.md)
+
+<!-- NAV-CONTEXT:START -->
+**Course:** [← Previous module](../../part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md) · [Course index](../../README.md) · [Next module →](../module-18-relationships-identity-and-grief/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

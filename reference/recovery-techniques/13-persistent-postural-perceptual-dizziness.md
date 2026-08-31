@@ -1,5 +1,9 @@
 # Recovery Techniques for Persistent Postural-Perceptual Dizziness
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Persistent Postural-Perceptual Dizziness**
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** PPPD, 3PD and persistent perceptual dizziness.
@@ -71,6 +75,12 @@ Document the Criterion A background separately from exacerbations: usual hours/d
 
 Set a baseline dose and progress one dimension at a time. Integrate CBT-informed principles when threat prediction or avoidance impedes vestibular adaptation. Measure participation and visually complex real-world function, not only symptom provocation. Discuss medication evidence honestly and coordinate migraine or psychiatric treatment as appropriate.
 
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/03-dizziness-balance-and-vestibular-overlap.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and evidence
 
 A 2025 meta-analysis found improvement with vestibular rehabilitation across eight studies, but heterogeneity and limited trial quality mean further randomized research is needed (**FND-CIT-0038**). Strict 2023 Cochrane reviews found no eligible placebo-controlled pharmacological trial (**FND-CIT-0039**) and only one very small eligible non-pharmacological study, leaving substantial uncertainty (**FND-CIT-0040**). A newer network meta-analysis of 11 trials found promising balance and anxiety estimates for neuromodulation, but 81.8% of included studies were judged at high risk of bias and the overall evidence was low to moderate quality (**FND-CIT-0041**). These findings can coexist because reviews use different inclusion criteria and dates.
@@ -84,7 +94,5 @@ No community-only technique was added. Repeated user reports about graded walkin
 - **FND-CIT-0039:** Webster KE, et al. *Pharmacological interventions for persistent postural-perceptual dizziness (PPPD).* Cochrane Database of Systematic Reviews. 2023;3:CD015188. [doi:10.1002/14651858.CD015188.pub2](https://doi.org/10.1002/14651858.CD015188.pub2)
 - **FND-CIT-0040:** Webster KE, et al. *Non-pharmacological interventions for persistent postural-perceptual dizziness (PPPD).* Cochrane Database of Systematic Reviews. 2023;3:CD015333. [doi:10.1002/14651858.CD015333.pub2](https://doi.org/10.1002/14651858.CD015333.pub2)
 - **FND-CIT-0041:** Shen J, Zhao X, Huo Y, et al. *Comparative efficacy of non-pharmacological interventions for persistent postural-perceptual dizziness: a systematic review and network meta-analysis of balance, anxiety, and depression outcomes.* Journal of Neurology. 2026;273:366. [doi:10.1007/s00415-026-13891-1](https://doi.org/10.1007/s00415-026-13891-1)
-
-[Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/13-persistent-postural-perceptual-dizziness.md)
 
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Vestibular, neurology and accessibility review pending*

@@ -1,5 +1,9 @@
 # Numbness, Altered Sensation, and Hypersensitivity
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 8: Sensory, Visual, Balance, and Dizziness Symptoms](README.md) › **Numbness, Altered Sensation, and Hypersensitivity**
+<!-- NAV-BREADCRUMB:END -->
+
 This is a focused authoring template within Module 8. Build the completed page around this scope: Cover numbness, tingling, burning, altered body sensation, touch sensitivity, positive clinical features, neurological and systemic differentials, practical protection, desensitization questions, and research limitations.
 
 ***
@@ -58,6 +62,13 @@ This is a focused authoring template within Module 8. Build the completed page a
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**In this module:** [Module overview](README.md) · [Next →](02-visual-symptoms-photophobia-and-sensory-overload.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 **Which evidence and source notes will the completed page need?** Build a focused evidence record for “Numbness, Altered Sensation, and Hypersensitivity”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.

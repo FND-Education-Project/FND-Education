@@ -1,5 +1,9 @@
 # Module 15 — Pacing Activity and Avoiding Boom-and-Bust
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 15: Pacing, Activity, and Boom-and-Bust](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Pacing Activity and Avoiding Boom-and-Bust** and helps readers choose the most useful page.
@@ -20,3 +24,9 @@ This short module introduces **Pacing Activity and Avoiding Boom-and-Bust** and 
 ⬅️ **Previous module:** [Rehabilitation and Neuroplastic Change](../module-14-rehabilitation-and-neuroplastic-change/README.md)
 
 ➡️ **Next module:** [Psychological Treatment Without Blame](../module-16-psychological-treatment-without-blame/README.md)
+
+<!-- NAV-CONTEXT:START -->
+**Course:** [← Previous module](../module-14-rehabilitation-and-neuroplastic-change/README.md) · [Course index](../../README.md) · [Next module →](../module-16-psychological-treatment-without-blame/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

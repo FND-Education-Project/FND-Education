@@ -1,5 +1,9 @@
 # Recovery Techniques for Functional Jerks or Myoclonus
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Jerks or Myoclonus**
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional myoclonus, functional jerky movements and functional tic-like or shock-like movements. These terms are not interchangeable diagnoses; assessment matters.
@@ -70,6 +74,12 @@ Practise the short onset plan between bouts: **hazard control → reduce relevan
 
 Review medications and coexisting pain, sleep, psychiatric, neurological or musculoskeletal conditions. Avoid prescribing a single attention strategy as universal; some people have no usable warning. Persistent jerks may require equipment or environmental adaptation alongside rehabilitation.
 
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/03-functional-jerks-and-myoclonus.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and evidence
 
 The practical material comes primarily from the functional motor-disorder physiotherapy consensus (**FND-CIT-0028**) and broader occupational-therapy consensus (**FND-CIT-0011**). Mixed functional motor-disorder trials do not provide a clear, symptom-specific estimate for jerks. The search did not locate a controlled treatment trial specifically for functional jerks/myoclonus.
@@ -80,7 +90,5 @@ No community-only technique was added. Reports found online were either versions
 
 - **FND-CIT-0011:** Nicholson C, Edwards MJ, Carson AJ, et al. *Occupational therapy consensus recommendations for functional neurological disorder.* Journal of Neurology, Neurosurgery & Psychiatry. 2020;91:1037–1045. [doi:10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281)
 - **FND-CIT-0028:** Nielsen G, Stone J, Matthews A, et al. *Physiotherapy for functional motor disorders: a consensus recommendation.* JNNP. 2015;86:1113–1119. [doi:10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255)
-
-[Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/03-functional-jerks-and-myoclonus.md)
 
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*

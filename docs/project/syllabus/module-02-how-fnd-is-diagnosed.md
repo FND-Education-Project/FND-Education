@@ -1,5 +1,9 @@
 # Module 2 — How FND Is Diagnosed
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 2 — How FND Is Diagnosed**
+<!-- NAV-BREADCRUMB:END -->
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part One: Understanding FND**
@@ -50,3 +54,9 @@ The reader understands that FND should be diagnosed through positive evidence an
 ---
 
 [← Module 1: What FND Is](module-01-what-fnd-is.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 3: Causes, Mechanisms, and Honest Uncertainty →](module-03-causes-mechanisms-and-honest-uncertainty.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

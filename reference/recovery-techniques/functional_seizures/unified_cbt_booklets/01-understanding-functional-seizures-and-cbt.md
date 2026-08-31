@@ -1,5 +1,9 @@
 # Booklet 1 Outline — Understanding Functional Seizures and CBT
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Booklet 1 Outline — Understanding Functional Seizures and CBT**
+<!-- NAV-BREADCRUMB:END -->
+
 > **Reader-facing promise:** “Understand what functional seizures are, what CBT is trying to change, and how to choose goals without blame.”
 
 **For the person creating this booklet:** Read the linked [in-depth content-creator guide](01-content-creator-guide-understanding-functional-seizures-and-cbt.md) before drafting. It explains the CBT concepts used here through functional-seizure examples and identifies messages that could accidentally become blaming or medically unsafe.
@@ -147,3 +151,9 @@ This booklet repeats only the facts needed for standalone safety, then adds a se
 [Series overview](README.md) · [Content-creator guide](01-content-creator-guide-understanding-functional-seizures-and-cbt.md) · [Next booklet outline](02-discovering-your-seizure-pattern.md)
 
 *Outline revised August 25, 2026 · Clinical, lived-experience, and accessibility review pending*
+
+<!-- NAV-CONTEXT:START -->
+**CBT materials:** [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md) · [Next →](02-discovering-your-seizure-pattern.md)
+
+**Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

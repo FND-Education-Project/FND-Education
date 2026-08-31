@@ -1,5 +1,9 @@
 # Functional Seizures
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Seizures**
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Careful event history followed, when feasible, by video-EEG recording of each typical event type.  
@@ -85,6 +89,13 @@ If an authentic clinical recording is used, it must come from an event that occu
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/01-what-functional-seizures-are-and-how-they-are-diagnosed.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 ### Evidence notes
@@ -98,7 +109,5 @@ If an authentic clinical recording is used, it must come from an event that occu
 |---|---|
 | <a id="citation-1"></a>**[1]** | Tolchin B, Baslet G, Dworetzky BA, et al. Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee. *Neurology*. 2026. [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
 | <a id="citation-2"></a>**[2]** | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
-
-**Related course page:** [What Functional Seizures Are and How They Are Diagnosed](../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/01-what-functional-seizures-are-and-how-they-are-diagnosed.md)
 
 *Technique outline created: August 24, 2026 · Epileptology and emergency-care review pending*

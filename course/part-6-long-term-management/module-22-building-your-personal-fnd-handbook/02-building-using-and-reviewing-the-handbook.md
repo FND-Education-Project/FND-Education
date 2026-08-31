@@ -1,5 +1,9 @@
 # Building, Using, and Reviewing the Handbook
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 22: Building Your Personal FND Handbook](README.md) › **Building, Using, and Reviewing the Handbook**
+<!-- NAV-BREADCRUMB:END -->
+
 This is a focused authoring template within Module 22. Build the completed page around this scope: Cover a one-minute emergency view, appointment summary, detailed background, print and digital access, privacy and consent, clinician review, version dates, regular updates, testing the handbook in real situations, and removing outdated instructions.
 
 ***
@@ -58,6 +62,13 @@ This is a focused authoring template within Module 22. Build the completed page 
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**In this module:** [← Previous](01-what-belongs-in-the-personal-fnd-handbook.md) · [Module overview](README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 **Which evidence and source notes will the completed page need?** Build a focused evidence record for “Building, Using, and Reviewing the Handbook”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.

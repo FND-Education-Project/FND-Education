@@ -1,5 +1,9 @@
 # Recovery Techniques for Functional Cognitive Disorder
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Cognitive Disorder**
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** FCD, functional memory symptoms, functional cognitive symptoms and cognitive symptoms within FND.
@@ -70,6 +74,12 @@ Document which cognitive domain changes, episode duration, frequency, sensory/co
 
 Build treatment around functional goals, metacognition, attention, reduced checking and appropriate compensatory supports. Monitor participation, confidence, distress and daily errors as well as symptom report. Persistent symptoms may still benefit from practical rehabilitation and quality-of-life support.
 
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/12-functional-cognitive-disorder.md) · [Related course page](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and evidence
 
 The diagnostic and formulation framework is described in the proposed FCD risk model (**FND-CIT-0026**). An online group ACT randomized feasibility study of 44 participants assessed feasibility and acceptability, not definitive efficacy (**FND-CIT-0036**). A CBT/metacognition-informed digital self-help study was also single-arm and designed to prepare for a future trial (**FND-CIT-0037**). The search did not find a definitive FCD-specific efficacy trial.
@@ -81,7 +91,5 @@ No community-only technique was added. Repeated user suggestions about planners,
 - **FND-CIT-0026:** McWhirter L, Ritchie C, Stone J, Carson A. *Identifying functional cognitive disorder: a proposed diagnostic risk model.* CNS Spectrums. 2022;27(6):754–763. [doi:10.1017/S1092852921000845](https://doi.org/10.1017/S1092852921000845)
 - **FND-CIT-0036:** Poole N, Cope S, Vanzan S, et al. *Randomised controlled feasibility trial of online group acceptance and commitment therapy for functional cognitive disorder.* BJPsych Open. 2025;11(3):e91. [doi:10.1192/bjo.2025.33](https://doi.org/10.1192/bjo.2025.33)
 - **FND-CIT-0037:** Cabreira V, Frostholm L, Stone J, Carson A. *Feasibility trial of a self-help digital intervention for functional cognitive disorder.* Brain Communications. 2025;7(4):fcaf248. [doi:10.1093/braincomms/fcaf248](https://doi.org/10.1093/braincomms/fcaf248)
-
-[Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/12-functional-cognitive-disorder.md)
 
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Cognitive-neurology, neuropsychology and accessibility review pending*

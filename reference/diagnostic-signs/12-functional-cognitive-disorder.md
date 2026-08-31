@@ -1,5 +1,9 @@
 # Functional Cognitive Disorder
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Cognitive Disorder**
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Structured history and cognitive assessment looking for internal inconsistency.  
@@ -83,6 +87,13 @@ Show how the clinician looks for a meaningful pattern across all four, rather th
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/12-functional-cognitive-disorder.md) · [Related course page](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 ### Evidence notes
@@ -94,7 +105,5 @@ Show how the clinician looks for a meaningful pattern across all four, rather th
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. [FND-CIT-0026](../../research/citation-index.md#fnd-cit-0026). [https://doi.org/10.1017/S1092852921000845](https://doi.org/10.1017/S1092852921000845) |
-
-**Related course page:** [Attention, Memory, Word Finding, and Functional Cognitive Disorder](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
 
 *Technique outline created: August 24, 2026 · Cognitive-neurology and neuropsychology review pending*

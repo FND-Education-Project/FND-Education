@@ -1,5 +1,9 @@
 # Module 15 — Pacing, Activity, and the Boom-and-Bust Cycle
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 15 — Pacing, Activity, and the Boom-and-Bust Cycle**
+<!-- NAV-BREADCRUMB:END -->
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Four: Treatment and Rehabilitation**
@@ -50,3 +54,9 @@ The reader can test a flexible approach that respects current capacity while pre
 ---
 
 [← Module 14: Rehabilitation and Neuroplastic Change](module-14-rehabilitation-and-neuroplastic-change.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 16: Psychological Treatment Without Blame →](module-16-psychological-treatment-without-blame.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

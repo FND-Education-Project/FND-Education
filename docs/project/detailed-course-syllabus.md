@@ -1,5 +1,9 @@
 # Detailed Course Syllabus
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › Project Documentation › **Detailed Course Syllabus**
+<!-- NAV-BREADCRUMB:END -->
+
 ## Living With FND: Knowledge, Skills, and Support
 
 This document is the working outline for the full FND Education course. It identifies what each module is intended to cover; it is not itself finished educational content.
@@ -179,3 +183,9 @@ Every overview and focused page uses four visible sections:
 4. **Research and Sources**
 
 Within those sections, 15 recurring authoring questions preserve the original page requirements: terminology, short summary, research findings, uncertainty, lived presentation, at-home ideas, questions for clinicians, related reading, supporter guidance, clinician explanation, individualized assessment, support for improvement, continuing support when improvement is limited, evidence notes, and last-reviewed date. Differential diagnosis, safety-netting, and medical reassessment remain within the clinician questions rather than disappearing from the page.
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

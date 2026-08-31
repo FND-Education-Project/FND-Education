@@ -1,5 +1,9 @@
 # Module 9 — Speech, Voice, Swallowing, and Breathing Symptoms
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 9: Speech, Voice, Swallowing, and Breathing Symptoms](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Speech, Voice, Swallowing, and Breathing Symptoms** and helps readers choose the most useful page.
@@ -21,3 +25,9 @@ This short module introduces **Speech, Voice, Swallowing, and Breathing Symptoms
 ⬅️ **Previous module:** [Sensory, Visual, Balance, and Dizziness Symptoms](../module-08-sensory-visual-balance-and-dizziness-symptoms/README.md)
 
 ➡️ **Next module:** [Thinking, Memory, and Dissociation](../../part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/README.md)
+
+<!-- NAV-CONTEXT:START -->
+**Course:** [← Previous module](../module-08-sensory-visual-balance-and-dizziness-symptoms/README.md) · [Course index](../../README.md) · [Next module →](../../part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -1,5 +1,9 @@
 # Recovery Techniques for Functional Sensory Symptoms
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Sensory Symptoms**
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional numbness, altered sensation, functional sensory loss, tingling, hypersensitivity and sensory processing difficulty associated with FND.
@@ -66,6 +70,12 @@ Document episode duration, frequency, warning, distribution, sensory environment
 
 Avoid noxious stimulation intended to prove preserved sensation. Use sensory retraining, environmental adaptation and compensatory safety together when needed. Persistent sensory loss may require long-term skin, pressure and burn precautions even while rehabilitation continues.
 
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/07-functional-sensory-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/01-numbness-altered-sensation-and-hypersensitivity.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and evidence
 
 Graded sensory stimulation, desensitization, visual feedback and task-focused rehabilitation are described in physiotherapy and occupational-therapy consensus (**FND-CIT-0028**, **FND-CIT-0011**). A 2024 retrospective cohort of 77 people receiving sensory-based OT reported clinician-rated improvement in 62%, but the uncontrolled design provides Class IV evidence and cannot establish causation (**FND-CIT-0035**). The search did not locate a controlled FND trial of sensory retraining.
@@ -77,7 +87,5 @@ No community-only technique was added. Repeated reports about texture, temperatu
 - **FND-CIT-0011:** Nicholson C, Edwards MJ, Carson AJ, et al. *Occupational therapy consensus recommendations for functional neurological disorder.* JNNP. 2020;91:1037–1045. [doi:10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281)
 - **FND-CIT-0028:** Nielsen G, Stone J, Matthews A, et al. *Physiotherapy for functional motor disorders: a consensus recommendation.* JNNP. 2015;86:1113–1119. [doi:10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255)
 - **FND-CIT-0035:** McCombs KE, MacLean J, Finkelstein SA, et al. *Sensory processing difficulties and occupational therapy outcomes for functional neurological disorder: a retrospective cohort study.* Neurology: Clinical Practice. 2024;14(3):e200286. [doi:10.1212/CPJ.0000000000200286](https://doi.org/10.1212/CPJ.0000000000200286)
-
-[Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/07-functional-sensory-symptoms.md)
 
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*

@@ -1,5 +1,9 @@
 # Booklet 3 Outline — Skills for Warnings and Seizure Onset
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Booklet 3 Outline — Skills for Warnings and Seizure Onset**
+<!-- NAV-BREADCRUMB:END -->
+
 > **Reader-facing promise:** “Choose, practise, and test a small number of safe skills for your own established warning pattern. If you have no warning, this booklet still offers useful routes.”
 
 **For the person creating this booklet:** Read the linked [in-depth content-creator guide](03-content-creator-guide-skills-for-warnings-and-seizure-onset.md) before drafting. It explains why practice, attention-shifting, grounding, competing responses, breathing, cue words, and behavioural experiments are used—and why none should be presented as a test of effort or a guaranteed way to stop a seizure.
@@ -197,3 +201,9 @@ This booklet adds seizure-specific choice routes, original skill instructions, a
 [Previous booklet outline](02-discovering-your-seizure-pattern.md) · [Series overview](README.md) · [Content-creator guide](03-content-creator-guide-skills-for-warnings-and-seizure-onset.md) · [Next booklet outline](04-returning-to-activities-and-independence.md)
 
 *Outline revised August 25, 2026 · Clinical, lived-experience, and accessibility review pending*
+
+<!-- NAV-CONTEXT:START -->
+**CBT materials:** [← Previous](02-discovering-your-seizure-pattern.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md) · [Next →](04-returning-to-activities-and-independence.md)
+
+**Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

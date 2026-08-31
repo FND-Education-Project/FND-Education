@@ -1,5 +1,9 @@
 # Tremor, Jerks, and Spasms
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 7: Movement, Weakness, and Gait Symptoms](README.md) › **Tremor, Jerks, and Spasms**
+<!-- NAV-BREADCRUMB:END -->
+
 This is a focused authoring template within Module 7. Build the completed page around this scope: Explain common movement patterns, variability, entrainment or distractibility in accessible terms, relevant differentials, injury reduction, practical adaptations, and symptom-specific movement retraining.
 
 ***
@@ -58,6 +62,13 @@ This is a focused authoring template within Module 7. Build the completed page a
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**In this module:** [← Previous](01-functional-weakness-and-paralysis.md) · [Module overview](README.md) · [Next →](03-functional-dystonia-and-fixed-postures.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 **Which evidence and source notes will the completed page need?** Build a focused evidence record for “Tremor, Jerks, and Spasms”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.

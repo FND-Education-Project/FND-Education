@@ -1,5 +1,9 @@
 # Module 5 — Medical Safety and New Symptoms
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 5 — Medical Safety and New Symptoms**
+<!-- NAV-BREADCRUMB:END -->
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Two: Safety and Symptom Knowledge**
@@ -48,3 +52,9 @@ The reader understands that safety depends on the person’s established pattern
 ---
 
 [← Module 4: Mapping Your Individual Condition](module-04-mapping-your-individual-condition.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 6: Functional Seizures and Episodic Symptoms →](module-06-functional-seizures-and-episodic-symptoms.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

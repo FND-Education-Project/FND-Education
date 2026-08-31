@@ -1,5 +1,9 @@
 # Remission, Recovery, and What Improvement Can Mean
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 1: What FND Is](README.md) › **Remission, Recovery, and What Improvement Can Mean**
+<!-- NAV-BREADCRUMB:END -->
+
 > **"FND symptoms may recur or worsen regardless of what a person knows, tries, or has achieved. Symptom severity must never be used to judge effort, acceptance of the diagnosis, treatment participation, or personal progress."**
 
 *Course principle*
@@ -103,10 +107,8 @@ Clinicians should explain the intent of a particular referral. On this site, the
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
-⬅️ **Previous article:** [The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
 
 ➡️ **Next module:** [How FND Is Diagnosed](../module-02-how-fnd-is-diagnosed/README.md)
-***
 <details>
 <summary><strong>Author accuracy review — suggested wording not yet applied</strong></summary>
 
@@ -167,6 +169,12 @@ These notes are for the author and reviewers. They identify wording that may ove
 Before replacing the second quotation, copy it exactly from the report. Use an ellipsis for omitted words and square brackets only when a word has been changed or added for clarity.
 
 </details>
+
+<!-- NAV-CONTEXT:START -->
+**In this module:** [← Previous](02-the-biopsychosocial-model-misconceptions-and-recovery.md) · [Module overview](README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
 

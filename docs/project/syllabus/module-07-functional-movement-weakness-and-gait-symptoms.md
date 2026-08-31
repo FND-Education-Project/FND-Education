@@ -1,5 +1,9 @@
 # Module 7 — Functional Movement, Weakness, and Gait Symptoms
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 7 — Functional Movement, Weakness, and Gait Symptoms**
+<!-- NAV-BREADCRUMB:END -->
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Two: Safety and Symptom Knowledge**
@@ -51,3 +55,9 @@ The reader understands why motor retraining often works with automatic movement 
 ---
 
 [← Module 6: Functional Seizures and Episodic Symptoms](module-06-functional-seizures-and-episodic-symptoms.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 8: Sensory, Visual, Balance, and Dizziness Symptoms →](module-08-sensory-visual-balance-and-dizziness-symptoms.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

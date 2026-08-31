@@ -1,5 +1,9 @@
 # Recovery Techniques for Functional Seizures
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Seizures**
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** dissociative seizures, psychogenic nonepileptic seizures (PNES), nonepileptic attacks and functional/dissociative seizures.
@@ -77,6 +81,12 @@ The [2026 American Academy of Neurology functional-seizure guideline](https://ww
 
 Discuss antiseizure-medication taper only when epilepsy and other indications have been addressed. Include supporters with consent. Track episode frequency, injuries, emergency use, disability, participation and quality of life; frequency alone can miss meaningful improvement.
 
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/03-recovery-treatment-and-daily-life.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and evidence
 
 The 2026 American Academy of Neurology guideline finds psychological interventions possibly effective and recommends against antiseizure medication or benzodiazepine treatment for functional seizures without epilepsy or another indication (**FND-CIT-0010**). A small multicenter pilot of seizure-focused CBT reported within-group seizure reductions (**FND-CIT-0032**). The larger CODES trial did not find a statistically significant advantage on its primary 12-month monthly-seizure-frequency outcome, although several secondary outcomes improved (**FND-CIT-0033**). Breathing control has only small pilot evidence (**FND-CIT-0034**).
@@ -89,7 +99,5 @@ The two **L** techniques are included as repeated community experience, not clin
 - **FND-CIT-0032:** LaFrance WC Jr, Baird GL, Barry JJ, et al. *Multicenter pilot treatment trial for psychogenic nonepileptic seizures: a randomized clinical trial.* JAMA Psychiatry. 2014;71(9):997–1005. [doi:10.1001/jamapsychiatry.2014.817](https://doi.org/10.1001/jamapsychiatry.2014.817)
 - **FND-CIT-0033:** Goldstein LH, Robinson EJ, Mellers JDC, et al. *Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial.* The Lancet Psychiatry. 2020;7:491–505. [doi:10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0)
 - **FND-CIT-0034:** Duncan R, Berlowitz DJ, Mullen S, et al. *Breathing control training for functional seizures: a multi-site, open-label pilot study.* Epilepsy & Behavior. 2024;154:109745. [doi:10.1016/j.yebeh.2024.109745](https://doi.org/10.1016/j.yebeh.2024.109745)
-
-[Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/06-functional-seizures.md) · [CBT resources and unified booklets](functional_seizures/README.md)
 
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*

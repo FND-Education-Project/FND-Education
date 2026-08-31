@@ -1,5 +1,9 @@
 # Module 2 — How Is FND Diagnosed?
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 2: How FND Is Diagnosed](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **How Is FND Diagnosed?** and helps readers choose the most useful page.
@@ -20,3 +24,9 @@ This short module introduces **How Is FND Diagnosed?** and helps readers choose 
 ⬅️ **Previous module:** [What Is Functional Neurological Disorder?](../module-01-what-fnd-is/README.md)
 
 ➡️ **Next module:** [What May Cause or Affect FND?](../module-03-causes-mechanisms-and-honest-uncertainty/README.md)
+
+<!-- NAV-CONTEXT:START -->
+**Course:** [← Previous module](../module-01-what-fnd-is/README.md) · [Course index](../../README.md) · [Next module →](../module-03-causes-mechanisms-and-honest-uncertainty/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

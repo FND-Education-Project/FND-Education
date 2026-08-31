@@ -1,5 +1,9 @@
 # Unified CBT-Informed Booklets for Functional Seizures
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
 > **Five-booklet production plan:** Each booklet has a numbered, reviewer-ready page outline and a separate in-depth guide that teaches the future content creator the CBT concepts, functional-seizure applications, worked examples, visual possibilities, and language cautions behind the outline. The final booklets are intended for reading on screen or downloading and printing. They are education and guided self-reflection, not a substitute for individualized therapy or medical care.
 
 ## The five booklets
@@ -104,3 +108,9 @@ These pages can form the functional-seizure section of the person's broader FND 
 [Functional-seizure resource map](../README.md) · [Course/booklet boundary](../course-and-booklet-content-boundary.md) · [Functional-seizure recovery techniques](../../06-functional-seizures.md)
 
 *Outline created August 25, 2026 · All five booklets require clinical, lived-experience, and accessibility review*
+
+<!-- NAV-CONTEXT:START -->
+**CBT materials:** [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
+
+**Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

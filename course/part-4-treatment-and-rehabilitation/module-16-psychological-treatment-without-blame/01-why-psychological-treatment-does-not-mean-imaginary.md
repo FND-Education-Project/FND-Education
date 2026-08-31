@@ -1,5 +1,9 @@
 # Why Psychological Treatment Does Not Mean Imaginary
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 16: Psychological Treatment Without Blame](README.md) › **Why Psychological Treatment Does Not Mean Imaginary**
+<!-- NAV-BREADCRUMB:END -->
+
 This is a focused authoring template within Module 16. Build the completed page around this scope: Explain how therapy may address symptom fear, attention, avoidance, coping, mood, dissociation, relationships, or comorbid mental illness without proving that FND is imagined or psychologically caused.
 
 ***
@@ -58,6 +62,13 @@ This is a focused authoring template within Module 16. Build the completed page 
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**In this module:** [Module overview](README.md) · [Next →](02-choosing-a-therapy-setting-goals-and-recognizing-harm.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 **Which evidence and source notes will the completed page need?** Build a focused evidence record for “Why Psychological Treatment Does Not Mean Imaginary”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.

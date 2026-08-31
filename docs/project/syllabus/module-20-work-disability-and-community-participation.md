@@ -1,5 +1,9 @@
 # Module 20 — Work, Disability, and Community Participation
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 20 — Work, Disability, and Community Participation**
+<!-- NAV-BREADCRUMB:END -->
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Five: Living With FND**
@@ -49,3 +53,9 @@ The reader can define participation and contribution according to personal value
 ---
 
 [← Module 19: Healthcare Communication and Self-Advocacy](module-19-healthcare-communication-and-self-advocacy.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 21: Setbacks, Relapse, and Changing Symptoms →](module-21-setbacks-relapse-and-changing-symptoms.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

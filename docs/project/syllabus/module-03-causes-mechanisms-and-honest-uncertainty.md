@@ -1,5 +1,9 @@
 # Module 3 — Causes, Mechanisms, and Honest Uncertainty
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 3 — Causes, Mechanisms, and Honest Uncertainty**
+<!-- NAV-BREADCRUMB:END -->
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part One: Understanding FND**
@@ -50,3 +54,9 @@ The reader can consider possible contributors without mistaking association or a
 ---
 
 [← Module 2: How FND Is Diagnosed](module-02-how-fnd-is-diagnosed.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 4: Mapping Your Individual Condition →](module-04-mapping-your-individual-condition.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -1,5 +1,9 @@
 # Recovery Techniques for Functional Dystonia or Fixed Posturing
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Dystonia or Fixed Posturing**
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** fixed functional dystonia, functional posturing and functional movement-disorder dystonia.
@@ -67,6 +71,12 @@ Document whether the posture is fixed, intermittent, task-specific or part of a 
 
 Consider orthotics, splinting, electrical stimulation and mobility aids only with explicit goals and review points. Avoid prolonged immobilization or aggressive passive correction. Coordinate physiotherapy, occupational therapy, pain management, psychological treatment and orthopedic or neurological review when indicated.
 
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/04-functional-dystonia.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and evidence
 
 Detailed rehabilitation steps come mainly from functional motor-disorder physiotherapy consensus (**FND-CIT-0028**) and occupational-therapy consensus (**FND-CIT-0011**). A multidisciplinary review describes the clinical complexity and limited treatment literature for fixed functional dystonia (**FND-CIT-0021**). The search did not locate a symptom-specific controlled trial establishing the effectiveness of the individual techniques above.
@@ -78,7 +88,5 @@ No community-only technique was added. Repeated lived-experience themes around p
 - **FND-CIT-0011:** Nicholson C, Edwards MJ, Carson AJ, et al. *Occupational therapy consensus recommendations for functional neurological disorder.* JNNP. 2020;91:1037–1045. [doi:10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281)
 - **FND-CIT-0021:** Frucht L, Perez DL, Callahan J, et al. *Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments.* Frontiers in Neurology. 2021;11:605262. [doi:10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262)
 - **FND-CIT-0028:** Nielsen G, Stone J, Matthews A, et al. *Physiotherapy for functional motor disorders: a consensus recommendation.* JNNP. 2015;86:1113–1119. [doi:10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255)
-
-[Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/04-functional-dystonia.md)
 
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*

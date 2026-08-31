@@ -1,5 +1,9 @@
 # Recovery Techniques for Functional Visual Symptoms
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Visual Symptoms**
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional visual loss, functional visual disorder, non-organic visual loss and functional photophobia.
@@ -65,6 +69,12 @@ Document episode duration, frequency, visual environment, light/contrast/motion 
 
 For photophobia, distinguish adaptive protection from pervasive avoidance and reduce dark adaptation gradually. Specify fall, driving and workplace restrictions individually. Avoid exposure that risks injury or uses shame, surprise or deception.
 
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/08-functional-visual-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/02-visual-symptoms-photophobia-and-sensory-overload.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and evidence
 
 The principal recent clinical review states that evidence-based treatment is limited and recommends positive explanation, demonstration of preserved vision, management of comorbidity, and selected graded visual or photophobia approaches (**FND-CIT-0024**). Hypnosis, suggestion, transcranial magnetic stimulation and advanced feedback are supported only by small or developing literature. The search did not locate a controlled trial establishing a specific home technique for functional visual symptoms.
@@ -74,7 +84,5 @@ No community-only technique was added. Repeated reports about light, lenses and 
 ### Sources
 
 - **FND-CIT-0024:** Ramsay N, McKee J, Al-Ani G, Stone J. *How do I manage functional visual loss.* Eye. 2024;38:2257–2266. [doi:10.1038/s41433-024-03126-w](https://doi.org/10.1038/s41433-024-03126-w)
-
-[Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/08-functional-visual-symptoms.md)
 
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Ophthalmology, orthoptics and accessibility review pending*

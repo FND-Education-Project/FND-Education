@@ -1,5 +1,9 @@
 # Symptom-Specific Diagnostic Signs
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This reference was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 These pages explain positive signs and criteria that clinicians may use when diagnosing particular FND presentations. They are written as practical briefs for future text, image and video contributors.
@@ -41,3 +45,9 @@ The safest demonstrations usually show what a qualified clinician observes and h
 **Related pages:** [Reference library](../README.md) · [Recovery and management techniques](../recovery-techniques/README.md) · [Research and citation policy](../../docs/project/research-and-citation-policy.md)
 
 *Collection index created: August 25, 2026 · Time-course requirement added: August 31, 2026 · Clinical and accessibility review pending*
+
+<!-- NAV-CONTEXT:START -->
+**Reference:** [Reference Library](../README.md) · [Recovery Techniques](../recovery-techniques/README.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

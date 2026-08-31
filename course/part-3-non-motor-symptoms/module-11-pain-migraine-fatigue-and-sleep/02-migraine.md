@@ -1,5 +1,9 @@
 # Migraine
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 11: Pain, Migraine, Fatigue, and Sleep](README.md) › **Migraine**
+<!-- NAV-BREADCRUMB:END -->
+
 This is a focused authoring template within Module 11. Build the completed page around this scope: Explain migraine as a separate neurological disorder that may coexist with or trigger FND symptoms, common overlap and diagnostic confusion, sensory effects, evidence-based migraine care, tracking, supporter help, and urgent headache reassessment.
 
 ***
@@ -58,6 +62,13 @@ This is a focused authoring template within Module 11. Build the completed page 
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**In this module:** [← Previous](01-chronic-pain.md) · [Module overview](README.md) · [Next →](03-fatigue-and-post-activity-worsening.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 **Which evidence and source notes will the completed page need?** Build a focused evidence record for “Migraine”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.

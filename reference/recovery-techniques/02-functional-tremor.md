@@ -1,5 +1,9 @@
 # Recovery Techniques for Functional Tremor
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Tremor**
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional shaking and functional movement-disorder tremor.
@@ -65,6 +69,12 @@ Track episode frequency and duration, participation, fatigue, injury and time to
 
 Screen for medication effects, essential tremor, Parkinsonism and other relevant movement disorders as the history and examination require. Record functional outcomes such as drinking, device use, dressing or work participation. Coordinate treatment of pain, fatigue, anxiety, trauma or other conditions when relevant without treating any one of them as a universal cause.
 
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/02-functional-tremor.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and evidence
 
 A small proof-of-concept study reported improvement after tremor retrainment/biofeedback, but it was not a large definitive trial (**FND-CIT-0031**). The detailed practical recommendations otherwise come mainly from specialist physiotherapy consensus (**FND-CIT-0028**) and a later systematic review of functional tremor treatment (**FND-CIT-0019**). Program-level trials in mixed functional motor disorder populations add context but do not establish which tremor component is active (**FND-CIT-0029**, **FND-CIT-0030**).
@@ -78,7 +88,5 @@ No community-only technique was added. Recurring lived-experience suggestions fo
 - **FND-CIT-0029:** Nielsen G, Stone J, Lee TC, et al. *Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial.* The Lancet Neurology. 2024;23(7):675–686. [doi:10.1016/S1474-4422(24)00135-2](https://doi.org/10.1016/S1474-4422(24)00135-2)
 - **FND-CIT-0030:** Macías-García D, Méndez-Del Barrio M, Canal-Rivero M, et al. *Combined physiotherapy and cognitive behavioral therapy for functional movement disorders: a randomized clinical trial.* JAMA Neurology. 2024;81(9):966–976. [doi:10.1001/jamaneurol.2024.2393](https://doi.org/10.1001/jamaneurol.2024.2393)
 - **FND-CIT-0031:** Espay AJ, Edwards MJ, Oggioni GD, et al. *Tremor retrainment as therapeutic strategy in psychogenic (functional) tremor.* Parkinsonism & Related Disorders. 2014;20(6):647–650. [doi:10.1016/j.parkreldis.2014.02.029](https://doi.org/10.1016/j.parkreldis.2014.02.029)
-
-[Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/02-functional-tremor.md)
 
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*

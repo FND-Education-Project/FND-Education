@@ -1,5 +1,9 @@
 # Module 11 — Pain, Migraine, Fatigue, and Sleep
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 11: Pain, Migraine, Fatigue, and Sleep](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Pain, Migraine, Fatigue, and Sleep** and helps readers choose the most useful page.
@@ -22,3 +26,9 @@ This short module introduces **Pain, Migraine, Fatigue, and Sleep** and helps re
 ⬅️ **Previous module:** [Thinking, Memory, and Dissociation](../module-10-cognition-memory-and-dissociation/README.md)
 
 ➡️ **Next module:** [Autonomic and Whole-Body Symptoms](../module-12-autonomic-and-whole-body-symptoms/README.md)
+
+<!-- NAV-CONTEXT:START -->
+**Course:** [← Previous module](../module-10-cognition-memory-and-dissociation/README.md) · [Course index](../../README.md) · [Next module →](../module-12-autonomic-and-whole-body-symptoms/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

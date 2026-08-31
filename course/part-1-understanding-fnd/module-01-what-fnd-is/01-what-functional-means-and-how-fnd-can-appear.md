@@ -1,5 +1,9 @@
 # What “Functional” Means and How FND Can Appear
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 1: What FND Is](README.md) › **What “Functional” Means and How FND Can Appear**
+<!-- NAV-BREADCRUMB:END -->
+
 > **Working draft:** This page is  [looking for reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This page explains what the word “functional” means, how FND can appear, how clinicians can identify it, and why the symptoms are real and involuntary.
@@ -150,10 +154,7 @@ This free online course is contributed to by those with lived experience in Func
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
-⬅️ **Previous page:** [Module overview](README.md)
 
-➡️ **Next article:** [The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
-***
 <details>
 <summary><strong>Author accuracy review — suggested wording not yet applied</strong></summary>
 
@@ -200,6 +201,12 @@ These notes are for the author and reviewers. They identify wording that may ove
 > A 2022 paper titled *Functional Neurological Disorder: new subtypes and shared mechanisms* makes four statements worth repeating here verbatim:
 
 </details>
+
+<!-- NAV-CONTEXT:START -->
+**In this module:** [Module overview](README.md) · [Next →](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
 

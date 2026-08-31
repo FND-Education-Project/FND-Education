@@ -1,5 +1,9 @@
 # Search and Usability Standards
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › Project Documentation › **Search and Usability Standards**
+<!-- NAV-BREADCRUMB:END -->
+
 A major goal of FND Education is to make information easy to find, understand, revisit, and share.
 
 ## Page requirements
@@ -47,3 +51,19 @@ Older terms should be labelled historical, outdated, disputed, or potentially st
 - Keep summaries and practical actions easy to relocate on a return visit.
 - Repeat the four standard section links before each major section so readers do not have to return to the top of a long page.
 
+### Site-wide navigation pattern
+
+- Every reader-facing Markdown page should have a compact breadcrumb immediately below its title so a reader arriving from search can see where the page sits in the project.
+- Every page should provide the four predictable global destinations: **Home**, **Course**, **Reference Library**, and **Site Map**.
+- Contextual navigation belongs **below all other reader-facing content and immediately before the page's research, evidence, or sources section**. If a page has no source section, place it at the end of the page.
+- Course articles should provide the module overview and previous/next article links where those destinations exist. Module overview pages should provide previous/next module links where appropriate.
+- Symptom reference pages should link to their collection index, the corresponding diagnostic or recovery page, and the most directly related course page where one exists.
+- Deeper collections should use contextual links that reflect their real hierarchy rather than treating a numbered booklet or subdocument as a numbered symptom page.
+- Maintain the human-readable root [`SITEMAP.md`](../../SITEMAP.md) whenever a reader-facing page is added, moved, renamed, or removed. It should use collapsible nested sections so the whole project can be explored without displaying the entire hierarchy at once.
+- `SITEMAP.md` is the reader navigation map. A machine-readable `sitemap.xml`, when used for search engines, serves a different purpose and does not replace it.
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

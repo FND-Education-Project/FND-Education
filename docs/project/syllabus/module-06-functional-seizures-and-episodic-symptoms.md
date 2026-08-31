@@ -1,5 +1,9 @@
 # Module 6 — Functional Seizures and Episodic Symptoms
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 6 — Functional Seizures and Episodic Symptoms**
+<!-- NAV-BREADCRUMB:END -->
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Two: Safety and Symptom Knowledge**
@@ -50,3 +54,9 @@ The person and supporter have a shared episode response that reflects the indivi
 ---
 
 [← Module 5: Medical Safety and New Symptoms](module-05-medical-safety-and-new-symptoms.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 7: Functional Movement, Weakness, and Gait Symptoms →](module-07-functional-movement-weakness-and-gait-symptoms.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
