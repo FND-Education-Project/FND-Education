@@ -22,17 +22,19 @@ jobs:
           ref: site-navigation-and-sitemap
           fetch-depth: 0
 
-      - name: Generate navigation
-        run: python tools/update_navigation.py
+      - name: Generate and normalize navigation
+        run: |
+          python tools/update_navigation.py
+          python tools/fix_navigation.py
 
       - name: Commit generated navigation
         run: |
-          if git diff --quiet -- . ':!.github/workflows/apply-navigation.yml' ':!tools/update_navigation.py'; then
+          if git diff --quiet -- . ':!.github/workflows/apply-navigation.yml' ':!tools/update_navigation.py' ':!tools/fix_navigation.py'; then
             echo "No generated changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md SITEMAP.md course reference glossary research docs
-          git commit -m "Apply site-wide navigation and sitemap"
+          git commit -m "Normalize site-wide navigation placement"
           git push origin HEAD:site-navigation-and-sitemap
