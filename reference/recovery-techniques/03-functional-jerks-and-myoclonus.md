@@ -23,6 +23,20 @@ Functional jerks are often brief and difficult to retrain one movement at a time
 7. **Safety and relapse plan — C.** Identify what to put down, where to sit, how supporters should respond, and when an episode is outside the established pattern. Plan for sharp tools, hot liquids, stairs, driving and work hazards specifically.
 8. **Multidisciplinary treatment — R/C.** Depending on the presentation, physiotherapy, occupational therapy, psychological treatment, pain care and treatment of coexisting movement or neurological conditions may be combined.
 
+### A brief jerk can still be part of a longer bout
+
+Each jerk may last only a moment while jerks recur for minutes, hours, in repeated clusters, or through a longer symptom flare. For some people, bouts become more likely or more intense with fatigue, startle, pain, sensory or cognitive overload, or around another FND episode. These are individual patterns to identify, not universal causes.
+
+For a familiar bout, shorten the recovery plan:
+
+1. **Make the situation safe.** Put down hot, sharp or breakable objects; stop driving or walking in an unsafe place; sit, lie down or obtain support if needed.
+2. **Reduce avoidable load when it is part of your pattern.** A quieter setting, fewer simultaneous instructions or stopping a demanding task may help some people regain enough control to use a practised strategy.
+3. **Use one rehearsed cue.** If there is a usable warning, try the external-focus task, continuous action, positioning or relaxation cue already selected with rehabilitation.
+4. **Do not fight every jerk.** The goal is safer function and a return to a more useful movement pattern, not winning a strength contest against each movement.
+5. **Return gradually.** When the bout settles, restart the interrupted activity at a manageable level rather than immediately testing whether every jerk has disappeared.
+
+If there is no warning, safety may be the only useful immediate step until the bout settles enough for another strategy. New altered awareness, a substantially different movement pattern or repeated injury needs reassessment.
+
 ### A low-risk starting practice
 
 Choose one non-hazardous seated task that is sometimes interrupted by jerks. Practise it briefly while attention stays on the task’s goal. If a familiar warning appears, use one preselected external cue rather than trying several techniques at once. Do not rehearse near traffic, water, stairs, heat or sharp objects.
@@ -38,9 +52,21 @@ Jerks are new, follow a new medication or substance, occur with altered awarenes
 - After an episode, help the person return to the planned activity or rest plan without a lengthy performance review.
 - Support medical reassessment for injury, a new pattern or declining quality of life.
 
+### When a bout begins
+
+Remember that a brief jerk may repeat throughout a much longer episode. Help the person reach a safe position and reduce avoidable noise, conversation or other load **when that is part of their known pattern**. Offer one agreed cue rather than repeatedly telling them to stop jerking, and do not hold a limb down.
+
+If useful for the clinical plan, distinguish the number or frequency of jerks from the length of the overall bout, associated speech/gait/seizure-like symptoms, injuries and recovery. The goal is useful information, not constant observation.
+
 ## For clinicians
 
 Clarify whether the movement is functional myoclonus, a tic-like presentation, propriospinal movement, epileptic event, medication effect or another condition; overlap is possible. Use positive findings and explain them respectfully. Identify premonitory symptoms, muscle recruitment, pain and task context. Because the jerk itself may be too brief for conventional movement retraining, work at the earliest reliable point in the sequence and measure participation or injury outcomes as well as frequency.
+
+### Adapting rehabilitation for episodic bouts
+
+Distinguish **individual jerk duration** from **bout or flare duration**. Document clustering, frequency, warning, environmental and cognitive load, associated FND symptoms, injury and time to return to baseline. Ask whether jerks precede, accompany or follow functional seizures or other episodic symptoms rather than assuming every movement belongs to one event.
+
+Practise the short onset plan between bouts: **hazard control → reduce relevant load → one rehearsed pre-jerk or continuous-movement strategy → graded return to activity**. Some patients have no usable warning; their plan should emphasize injury prevention until a therapeutic entry point becomes available. Do not deliberately provoke a severe bout simply to practise suppression.
 
 Review medications and coexisting pain, sleep, psychiatric, neurological or musculoskeletal conditions. Avoid prescribing a single attention strategy as universal; some people have no usable warning. Persistent jerks may require equipment or environmental adaptation alongside rehabilitation.
 
@@ -57,4 +83,4 @@ No community-only technique was added. Reports found online were either versions
 
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/03-functional-jerks-and-myoclonus.md)
 
-*Evidence search current to August 25, 2026 · Clinical and accessibility review pending*
+*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*
