@@ -23,6 +23,17 @@ Treatment often uses the fact that functional tremor can change with rhythm, att
 7. **Whole-person treatment — R/C.** FND-informed physiotherapy may be combined with occupational therapy, psychological treatment, pain care, sleep treatment or medication review according to the person’s needs. Psychological treatment is not a claim that the movement is imagined.
 8. **Relapse plan — C.** Write down the rhythms, tasks or positions that help; situations that worsen the tremor; ways to continue essential activities; and when to contact the treating team.
 
+### If tremor starts in an episode or suddenly intensifies
+
+Functional tremor may be intermittent, recur in bouts, fluctuate over a day or remain present for long periods. For a familiar flare, shorten the treatment plan:
+
+1. Put down hot, sharp, breakable or spillable objects and stop any unsafe task.
+2. Stabilize yourself and the limb comfortably rather than holding it down by force.
+3. Pick **one** previously useful cue—an external rhythm, competing movement, posture change or safe task—and use it briefly.
+4. When the tremor settles enough, return to the interrupted activity at an easier level instead of immediately testing whether the tremor is completely gone.
+
+Trying many techniques in rapid succession can turn the episode into repeated symptom checking. If the tremor is new, substantially different or accompanied by new neurological symptoms, seek reassessment.
+
 ### A low-risk starting practice
 
 Sit securely with the arm supported and use the unaffected hand or a foot to tap a slow, comfortable beat for 20–30 seconds. If the tremor changes, notice the change without judging it. A clinician can help turn that observation into retraining. Stop if practice causes pain, marked fatigue or a sustained worsening; do not practise with sharp, hot or breakable objects.
@@ -38,9 +49,19 @@ A tremor is new, suddenly different, follows a medication change or injury, or a
 - Avoid holding the limb down or demanding that the person suppress the movement.
 - Help create safer versions of tasks during a flare and support gradual return rather than all-or-nothing avoidance.
 
+### During a short episode or longer flare
+
+Remove hazards first. Offer one agreed cue or practical support and then give the person room to use it; repeated coaching can add cognitive load. A flare may settle quickly or continue much longer, so judge assistance by safety and function rather than how long you think a tremor “should” last. Afterward, help resume the ordinary activity in manageable steps if wanted.
+
 ## For clinicians
 
 Use entrainment, variability and distractibility as part of a positive explanation where they are present. Demonstrate change collaboratively, then convert it into a treatment cue. Select rhythm, amplitude, posture and task complexity individually; repeated symptom testing without a functional goal can increase self-focused attention.
+
+### Adapting rehabilitation for episodic tremor
+
+Identify the cue that produces the most useful and reproducible change with the least effort. Practise it while the patient is relatively settled, then rehearse a short onset sequence: **hazard control → stable position → one cue → functional return**. For episodes without warning, the first useful intervention may simply be making the activity safe until a cue can be used.
+
+Track episode frequency and duration, participation, fatigue, injury and time to resume activity rather than counting tremor alone. Graded practice in known contexts may be useful, but do not provoke a severe tremor episode simply to rehearse symptom control.
 
 Screen for medication effects, essential tremor, Parkinsonism and other relevant movement disorders as the history and examination require. Record functional outcomes such as drinking, device use, dressing or work participation. Coordinate treatment of pain, fatigue, anxiety, trauma or other conditions when relevant without treating any one of them as a universal cause.
 
@@ -60,4 +81,4 @@ No community-only technique was added. Recurring lived-experience suggestions fo
 
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/02-functional-tremor.md)
 
-*Evidence search current to August 25, 2026 · Clinical and accessibility review pending*
+*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*
