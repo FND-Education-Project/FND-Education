@@ -17,6 +17,24 @@ For deeper functional-seizure work, see the [CBT resource map and five-booklet p
 
 Many techniques are components of a larger rehabilitation program and have not been tested separately. The symptom pages say when evidence applies to a whole program rather than to one exercise.
 
+## Required episode and flare coverage
+
+Every symptom page should describe the symptom’s **real time pattern** and adapt recovery advice for the moment symptoms begin. This must appear in the person, supporter and clinician sections.
+
+For each symptom, authors should explain:
+
+- whether the symptom may be intermittent, episodic, fluctuating, persistent or fixed, using symptom-specific evidence rather than a blanket rule;
+- the first safety action when a familiar episode or flare begins;
+- how one or two **already rehearsed** recovery techniques can be shortened for use at onset when that is safe and practical;
+- what to do when there is no warning or not enough awareness/control to use a technique;
+- how to return gradually to the interrupted activity rather than immediately testing maximum function;
+- what supporters should do—and what they should avoid doing—during an episode; and
+- when a new or changed pattern requires reassessment instead of the usual flare plan.
+
+A useful general structure is **safety → reduce relevant load → one rehearsed symptom-specific cue → gradual return**, but every part must be individualized. Reducing sensory or cognitive load may help a person whose symptoms worsen with overload; distraction or an external task may instead be an active rehabilitation method for some motor symptoms. The page should say which applies and avoid treating either as universal.
+
+Some symptoms need special wording. A single jerk is brief but jerks may repeat through a long bout. Swallowing and airway symptoms require safety to override experimentation. Functional seizures are episodic, but warnings, clusters, recovery and other functional symptoms may make the surrounding flare much longer. PPPD is persistent by diagnostic definition, although its severity can wax and wane and stronger flares can occur.
+
 ## A safe way to use the collection
 
 1. Confirm that the symptom has been appropriately assessed and that the page matches the symptom being treated.
@@ -31,6 +49,8 @@ The list is intended to be broad, but it is not proof that every possible techni
 
 The evidence search found one community-only practice that met the project’s repetition and safety rules: **cold or textured sensory grounding used at a familiar functional-seizure warning**. Several independent patient-community resources describe the same basic approach. It is clearly marked as community-reported, not as a cure or established seizure treatment. No community-only technique was added from a single post or testimonial.
 
+A separate source notebook is used to collect public lived-experience quotations for review. Quotations are treated as descriptions of experience, not evidence that a technique works, and are not moved into the educational pages until their context and wording have been reviewed.
+
 **Related pages:** [Reference library](../README.md) · [Evidence standard](../../docs/project/evidence-standard.md) · [Citation index](../../research/citation-index.md)
 
-*Collection created: August 25, 2026 · Evidence search current to August 25, 2026 · Clinical and accessibility review pending*
+*Collection created: August 25, 2026 · Episode/flare authoring requirement added August 31, 2026 · Clinical and accessibility review pending*
