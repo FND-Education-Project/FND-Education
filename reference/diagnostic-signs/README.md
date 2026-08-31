@@ -6,6 +6,18 @@ These pages explain positive signs and criteria that clinicians may use when dia
 
 A positive sign is more than a normal test or the absence of another diagnosis. It is a recognizable feature—such as internal inconsistency, incongruence or preserved function under particular conditions—that supports a functional diagnosis in the right clinical setting. No page is a do-it-yourself diagnostic test, and no single sign should be used outside the wider history and examination.
 
+## Required time-course coverage
+
+Every symptom page in this collection should explain the symptom’s **actual temporal pattern**, rather than assuming that the symptom seen in clinic is continuously present. In each of the three audience sections, the page should address:
+
+- whether that symptom may be intermittent, episodic, fluctuating, persistent or fixed, using symptom-specific evidence rather than a universal rule;
+- what immediate safety steps are appropriate when a familiar episode or flare begins;
+- what contextual information is useful to record, such as task, environment, duration, associated symptoms and recovery;
+- how an established rehabilitation strategy may be shortened into a safe onset response when appropriate; and
+- when a new or changed episode requires reassessment rather than automatic attribution to FND.
+
+The distinction matters. A single jerk is brief but jerks may occur in prolonged clusters; functional gait or speech symptoms may appear mainly in particular situations or around other episodes; functional dystonia may be intermittent or fixed. PPPD is different again: established PPPD is persistent by diagnostic definition, although its severity waxes and wanes and brief flares can occur.
+
 ## Pages in this collection
 
 1. [Functional limb weakness or paralysis](01-functional-limb-weakness.md)
@@ -28,4 +40,4 @@ The safest demonstrations usually show what a qualified clinician observes and h
 
 **Related pages:** [Reference library](../README.md) · [Recovery and management techniques](../recovery-techniques/README.md) · [Research and citation policy](../../docs/project/research-and-citation-policy.md)
 
-*Collection index created: August 25, 2026 · Clinical and accessibility review pending*
+*Collection index created: August 25, 2026 · Time-course requirement added: August 31, 2026 · Clinical and accessibility review pending*
