@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import os
 import re
 from pathlib import Path
 
@@ -23,10 +24,64 @@ LEGACY_LINE_PATTERNS = [
 ]
 
 
+def rel(path: Path, target: str | Path) -> str:
+    return Path(os.path.relpath(ROOT / Path(target), start=path.parent)).as_posix()
+
+
+def link(path: Path, label: str, target: str | Path) -> str:
+    return f"[{label}]({rel(path, target)})"
+
+
+def cbt_context(path: Path) -> str:
+    nav: list[str] = []
+    if path.name != "README.md":
+        is_guide = "content-creator-guide" in path.name
+        peers = sorted(
+            p for p in path.parent.glob("*.md")
+            if p.name != "README.md" and (("content-creator-guide" in p.name) == is_guide)
+        )
+        if path in peers:
+            idx = peers.index(path)
+            if idx > 0:
+                nav.append(link(path, "← Previous", peers[idx - 1].relative_to(ROOT)))
+            if idx < len(peers) - 1:
+                next_link = link(path, "Next →", peers[idx + 1].relative_to(ROOT))
+            else:
+                next_link = None
+        else:
+            next_link = None
+    else:
+        next_link = None
+
+    nav.extend(
+        [
+            link(path, "Booklet collection", "reference/recovery-techniques/functional_seizures/unified_cbt_booklets/README.md"),
+            link(path, "Functional-seizure recovery materials", "reference/recovery-techniques/functional_seizures/README.md"),
+            link(path, "Functional-seizure recovery page", "reference/recovery-techniques/06-functional-seizures.md"),
+        ]
+    )
+    if next_link:
+        nav.append(next_link)
+
+    global_nav = " · ".join(
+        [
+            link(path, "Home", "README.md"),
+            link(path, "Course", "course/README.md"),
+            link(path, "Reference Library", "reference/README.md"),
+            link(path, "Site Map", "SITEMAP.md"),
+        ]
+    )
+    return (
+        f"{CTX_START}\n"
+        f"**CBT materials:** {' · '.join(nav)}\n\n"
+        f"**Navigate:** {global_nav}\n"
+        f"{CTX_END}"
+    )
+
+
 def clean_legacy_navigation(text: str) -> str:
     for pattern in LEGACY_LINE_PATTERNS:
         text = pattern.sub("", text)
-    # Remove an isolated horizontal rule left behind by deleted previous/next links
     text = re.sub(r"\n\*\*\*\n(?=<details>|<!-- NAV-CONTEXT:START -->)", "\n", text)
     return re.sub(r"\n{3,}", "\n\n", text)
 
@@ -38,6 +93,9 @@ def fix_file(path: Path) -> None:
         return
 
     context = match.group(0).strip()
+    if "unified_cbt_booklets" in path.parts:
+        context = cbt_context(path)
+
     text = CTX_BLOCK.sub("\n", text)
     text = clean_legacy_navigation(text).strip() + "\n"
 
