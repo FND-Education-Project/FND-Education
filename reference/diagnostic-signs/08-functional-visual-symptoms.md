@@ -20,6 +20,12 @@ One possible observation is **optokinetic nystagmus**: a striped target moving a
 
 The clinician may choose other methods, such as fogging one eye or using a mirror, depending on the symptom. These are specialist examination tools, not tricks and not tests to repeat at home.
 
+### Visual symptoms may be episodic or prolonged
+
+Functional visual loss, blur, field change or visual access may come and go, fluctuate with the task or environment, or remain troublesome for long periods. Busy visual scenes, fatigue, migraine, light or sensory load may intensify symptoms for some people. A symptom being absent in a quiet examination room does not show that it was not disabling elsewhere.
+
+When a familiar visual episode starts, stop driving, cooking, using tools, navigating stairs or another activity that depends on reliable vision. Sit or move to a safe position, use the visual aid and lighting strategy already recommended, and use only a previously trained visual or attention cue. Sudden new or painful visual loss, flashes/floaters, a curtain-like shadow or visual change with acute neurological symptoms needs urgent assessment.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -30,6 +36,12 @@ The clinician may choose other methods, such as fogging one eye or using a mirro
 
 Do not wave objects toward the person’s eyes, set up obstacles or surprise them to see whether they avoid something. Those demonstrations can cause falls, distress or eye injury and are not a responsible diagnostic assessment. Support the person’s current visual-safety plan and report changes to the appropriate clinician.
 
+### When vision suddenly becomes less usable
+
+An episode may settle quickly or last much longer. Help stop visually hazardous activity, provide the person’s usual mobility or visual support and reduce unnecessary visual complexity if that is part of their plan. Do not secretly test what they can see or remove sunglasses, lenses or another aid to make them practise.
+
+Once safe, note what the person was doing, the type of visual change, whether one or both eyes seemed affected, duration, associated headache or neurological symptoms and recovery.
+
 New, sudden or painful visual loss still needs urgent assessment according to local medical advice, even if the person has had functional visual symptoms before.
 
 ***
@@ -39,6 +51,12 @@ New, sudden or painful visual loss still needs urgent assessment according to lo
 [Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
+
+### Episodic and prolonged presentations
+
+Clarify whether visual symptoms are continuous, intermittent or situational; document duration, frequency, visual environment, migraine or sensory context, associated neurological symptoms, functional risk and recovery. A normal interval examination does not itself establish a functional cause, and symptom fluctuation does not replace the positive visual examination and appropriate exclusion of ocular, optic-nerve and neurological disease.
+
+For established episodic functional visual symptoms, give an onset plan that starts with driving/fall/injury safety and adapts a previously demonstrated preserved visual response, graded visual task or environmental strategy. Do not deliberately reproduce a visually provocative episode merely to confirm the history.
 
 ### Technique outline: optokinetic response within a positive visual examination
 
