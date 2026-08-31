@@ -29,6 +29,17 @@ Choose a task that matters—standing at the kitchen counter, carrying a light o
 9. **Electrical stimulation as an adjunct — E.** Some clinicians use functional electrical stimulation or muscle stimulation to provide feedback and support movement practice. It should have a defined rehabilitation purpose and be selected by someone trained to check contraindications and skin safety.
 10. **Relapse and self-management plan — R/C.** Record the cues that help movement, early signs of a setback, safe fallback activities and who to contact. A relapse plan turns a temporary worsening into something expected and manageable.
 
+### If weakness comes in episodes or flares
+
+Functional weakness may be intermittent, fluctuate through the day or remain present for long periods. When a familiar episode starts, use a **short version of the same rehabilitation plan** rather than trying to complete the whole exercise program:
+
+1. **Make the situation safe.** Stop walking, driving, carrying a hot or sharp object, or another task that could cause injury. Sit, lie down or use the usual mobility aid when needed.
+2. **Choose one rehearsed cue.** Use one automatic or task-oriented movement, external target, rhythm or supported weight-shift that has already been shown to help and is safe in that setting.
+3. **Do not repeatedly test the weak limb.** Repeated “Can I move it now?” checks can pull attention back onto the symptom instead of the task.
+4. **Return in steps.** When useful movement becomes available again, restart the ordinary activity at a manageable level rather than immediately testing the maximum possible movement.
+
+If there is no warning or the episode creates immediate fall risk, the onset plan may be mostly about safety until the person is ready to use a movement cue. A new or substantially different weakness pattern needs reassessment.
+
 ### A low-risk starting practice
 
 If standing and walking are already assessed as safe, choose one seated, familiar hand task or one supported weight-shift task. Practise for a short, repeatable period while looking at the task rather than testing the limb. Stop before technique and confidence collapse, note what helped, and repeat consistently. Do not practise unsupported standing or walking if falls are possible.
@@ -45,9 +56,19 @@ Weakness is new, rapidly changing, follows injury, or comes with new facial droo
 - Notice useful function without turning every success into a test. Variation is expected and does not mean the symptom is chosen.
 - Help make the relapse plan practical: clear paths, charged phone, planned rests, transport and clinical contacts.
 
+### During a short episode or flare
+
+Help with safety first and bring the person’s usual aid or stable seat. Use **one** agreed movement cue if they want it; avoid a stream of corrections or repeated strength checks. Once the episode settles, help the person return to the planned activity in smaller steps if needed. If this episode is different from the established pattern, treat that as new information rather than assuming the usual recovery technique applies.
+
 ## For clinicians
 
 Confirm and explain positive diagnostic features; screen for relevant comorbidity, pain, fatigue, falls and equipment needs; and demonstrate preserved movement where appropriate. Select techniques from the individual movement pattern rather than applying a fixed protocol. Use functional outcome goals and carry gains into home and community tasks.
+
+### Adapting rehabilitation for episodic weakness
+
+Practise the onset plan between episodes so it can be simple when symptoms appear. Identify the earliest reliable point at which the person can act, then reduce the broader rehabilitation program to: **safe position or aid → one effective cue → graded return to the interrupted task**. If there is no warning, prioritize fall/injury prevention and begin retraining only once sufficient control is available.
+
+Ask about episode frequency and duration, context, associated FND symptoms and recovery burden. Measure participation, falls, aid use and time to resume activity as well as strength or episode count. Do not deliberately create a hazardous weakness episode to practise the plan; graded exposure should occur only in a controlled rehabilitation context.
 
 Mobility aids are neither automatically helpful nor automatically harmful. When needed for safety or participation, prescribe and review them with a plan for optimal use, possible weaning, or longer-term use. Avoid unnecessary immobilization, but do not remove an aid merely to enforce a treatment theory.
 
@@ -67,4 +88,4 @@ This means there is research support for structured FND rehabilitation as a pack
 
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/01-functional-limb-weakness.md)
 
-*Evidence search current to August 25, 2026 · Clinical and accessibility review pending*
+*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*
