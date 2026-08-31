@@ -20,6 +20,12 @@ These are positive clinical signs because they show a pattern associated with fu
 
 A tremor can vary for many reasons. A clinician looks for a clear pattern across several tasks and considers medication, anxiety, fatigue and other movement disorders. One brief pause is not enough to diagnose functional tremor.
 
+### Episodic, fluctuating and longer-lasting tremor
+
+Functional tremor may be intermittent, appear in repeated bouts, fluctuate markedly through the day, or remain present for long periods. The amount of tremor can also change with posture, task, fatigue, attention, arousal or the surrounding environment. These features can help describe the pattern, but duration or fluctuation alone does not diagnose FND.
+
+If a familiar tremor suddenly becomes strong, first make the activity safe: put down hot, sharp or breakable objects, stop driving or another hazardous task, and sit or stabilize the affected limb if needed. If rehabilitation has already identified a helpful rhythm, posture or external-focus task, use that one familiar cue rather than rapidly trying many strategies. A new or substantially different tremor, especially with other neurological symptoms, needs reassessment.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -30,6 +36,12 @@ A tremor can vary for many reasons. A clinician looks for a clear pattern across
 
 Do not repeatedly distract the person, surprise them or demand that they copy rhythms to see whether the tremor changes. Diagnostic observation belongs in a clinical assessment. At home, changes in tremor may be useful information for the person’s treatment team, but should not become surveillance or a test of credibility.
 
+### When tremor starts or intensifies
+
+A person may have little visible tremor at one time and a disabling episode at another. Help remove immediate hazards and ask whether they want their usual cue, practical help or simply time. If a therapist has identified one rhythm or task that helps, use it only as agreed; do not hold the limb down or repeatedly order the person to stop shaking.
+
+After safety is established, noting the activity, setting, duration, other symptoms and recovery may be more useful than describing how dramatic the movement looked.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -37,6 +49,12 @@ Do not repeatedly distract the person, surprise them or demand that they copy rh
 [Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
+
+### Episodic and prolonged presentations
+
+Characterize whether tremor is continuous, intermittent or clustered and document onset, episode duration, frequency, context, warning, functional consequences and recovery. Functional motor symptoms may be recurrent or persistent and can vary across tasks and situations. Do not make the diagnosis from episodicity, stress sensitivity or variability alone; interpret these alongside positive signs and the differential diagnosis.
+
+For patients whose tremor appears only in certain settings, safely obtained video and a detailed history may help establish the phenotype. Once a positive examination has been made, convert any reproducible change with rhythm, attention or posture into a simple treatment cue for future flares rather than repeatedly demonstrating the sign for diagnostic effect.
 
 ### Technique outline: distractibility and entrainment
 
