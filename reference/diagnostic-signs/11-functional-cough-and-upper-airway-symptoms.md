@@ -20,6 +20,12 @@ The assessment looks at the whole pattern: onset, triggers, sound, timing, breat
 
 There is no single cough sound or response to distraction that confirms a functional diagnosis. New breathing difficulty, blue colour, chest pain, coughing blood or another emergency feature requires urgent care.
 
+### Episodes, bouts and persistent symptoms
+
+Functional cough, throat clearing or upper-airway symptoms may occur in discrete bouts, be strongly linked to particular situations, recur through the day, or remain persistent. An episode can also leave throat irritation or fatigue after the most obvious coughing or breathing change has settled. Duration and trigger pattern help describe the problem but do not establish its cause.
+
+At the onset of a familiar mild episode, use only the breathing or competing response already selected during respiratory or speech-language assessment and reduce known irritants when practical. Do not force breath-holding or suppress a serious airway warning. Severe breathlessness, blue/grey colour, chest pain, coughing blood, reduced consciousness or a substantially new pattern requires urgent care.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -32,6 +38,12 @@ Do not expose the person to scents, smoke, exercise or stressful situations to s
 
 It can help to note the context, duration, sound, voice changes and recovery of spontaneous episodes, including whether the symptom occurs during sleep. These observations support clinical history but do not settle the diagnosis.
 
+### When a familiar episode begins
+
+Reduce avoidable irritants and extra talking, and use one agreed cue rather than coaching several breathing steps at once. Do not withhold prescribed respiratory treatment because a functional component has been diagnosed. If the person cannot speak, has severe breathing difficulty or develops another emergency feature, follow emergency guidance rather than continuing a functional symptom technique.
+
+A short cough bout and a flare lasting much longer should both be described accurately. Note what happened before the episode, how long the active symptoms and recovery lasted, and whether the pattern was typical.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -39,6 +51,12 @@ It can help to note the context, duration, sound, voice changes and recovery of 
 [Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
+
+### Episodic and prolonged presentations
+
+Document whether the cough or upper-airway symptom is episodic, trigger-linked, recurrent or persistent. Record episode duration, frequency, earliest urge, respiratory and voice changes, sleep pattern, environmental context, recovery and response to prescribed respiratory treatment. Fluctuation and suppressibility are not sufficient to diagnose a functional disorder.
+
+When the phenotype is established, provide a short onset plan using one or two assessed competing responses or efficient-breathing cues and explicit emergency thresholds. Do not deliberately provoke severe respiratory symptoms to demonstrate the diagnosis, and do not let the functional formulation obscure asthma, infection, reflux, medication effects, inducible laryngeal obstruction or other comorbidity.
 
 ### Technique outline: cough and upper-airway pattern assessment
 
