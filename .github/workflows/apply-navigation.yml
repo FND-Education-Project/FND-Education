@@ -1,0 +1,35 @@
+name: Apply navigation and sitemap
+
+on:
+  push:
+    branches:
+      - site-navigation-and-sitemap
+
+permissions:
+  contents: write
+
+jobs:
+  update-navigation:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out branch
+        uses: actions/checkout@v4
+        with:
+          ref: site-navigation-and-sitemap
+          fetch-depth: 0
+
+      - name: Generate navigation
+        run: python tools/update_navigation.py
+
+      - name: Commit generated navigation
+        run: |
+          if git diff --quiet -- . ':!.github/workflows/apply-navigation.yml' ':!tools/update_navigation.py'; then
+            echo "No generated changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md SITEMAP.md course reference glossary research docs
+          git commit -m "Apply site-wide navigation and sitemap"
+          git push origin HEAD:site-navigation-and-sitemap
