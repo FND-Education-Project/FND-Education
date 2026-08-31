@@ -69,6 +69,8 @@ Track episode frequency and duration, participation, fatigue, injury and time to
 
 Screen for medication effects, essential tremor, Parkinsonism and other relevant movement disorders as the history and examination require. Record functional outcomes such as drinking, device use, dressing or work participation. Coordinate treatment of pain, fatigue, anxiety, trauma or other conditions when relevant without treating any one of them as a universal cause.
 
+[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+
 <!-- NAV-CONTEXT:START -->
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/02-functional-tremor.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
 

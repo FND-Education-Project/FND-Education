@@ -20,17 +20,21 @@ This project has two primary goals:
 1. **Help people with FND understand the research around their condition well enough to cope, communicate, make informed decisions, and participate meaningfully in treatment and rehabilitation.**
 2. **Give family members, caregivers, friends, and other support persons understandable research-based information and practical ideas that may help them support the person without blame, fear, overprotection, or loss of autonomy.**
 
-The long-term aim is a free, highly searchable FND education course and reference library that can grow to include worksheets, surveys, community discussion, and other support resources.
+The repository now contains a complete first-draft course structure and a symptom-specific reference library. The long-term aim remains a free, highly searchable resource that can grow to include worksheets, surveys, community discussion, and other practical support materials.
 
 ## Start here
 
 ### I have FND
 
-The course begins with what FND is, how it is diagnosed, current research into possible mechanisms, and how to organize an individual symptom picture. It then covers medical safety, symptom-specific knowledge, common non-motor difficulties, treatment, rehabilitation, accessibility, self-advocacy, and long-term management.
+**[Open the course](course/README.md)** to begin with what FND is, how it is diagnosed, current research into possible mechanisms, and how to organize an individual symptom picture. The later modules cover medical safety, symptom-specific knowledge, common non-motor difficulties, treatment, rehabilitation, accessibility, self-advocacy, and long-term management.
+
+For a specific symptom, **[open the Reference Library](reference/README.md)** to compare positive diagnostic signs with recovery and management techniques.
 
 ### I support someone with FND
 
-Support-person information will be built into every major topic. A separate mini-course will cover understanding involuntary symptoms, helping safely during episodes, supporting rehabilitation without pressure, communication and cognitive support, boundaries, wellbeing, and planning together.
+Support-person information is built into every focused course page and symptom reference page. It covers what the supporter may need to understand, immediate safety, practical help, communication, preserving the person's choices, and avoiding pressure or blame.
+
+A separate support-person mini-course is planned for readers who want to follow those subjects in one shorter sequence.
 
 ## Course outline
 
@@ -79,9 +83,9 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 **[Read the detailed course syllabus](docs/project/detailed-course-syllabus.md)** for the essential knowledge, professional and advanced detail, practical work, support-person focus, and expected takeaway planned for every module.
 
-**[Open the course working drafts](course/README.md)** to read the 23 modules and 77 planned pages.
+**[Open the course structure and drafts](course/README.md)** to read all 77 course pages: 23 short module overviews and 54 focused pages.
 
-## Support-person mini-course
+## Planned support-person mini-course
 
 1. **Believe, Listen, and Learn**
 2. **Safe Help During Episodes**
@@ -92,9 +96,13 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 ## Find information by symptom or need
 
-**[Open the FND Reference Library](reference/README.md)** for two symptom-specific collections: positive diagnostic signs and recovery/management techniques. The recovery collection includes a master list organized both by symptom and alphabetically, plus one practical evidence page for each of the 13 current symptom presentations.
+**[Open the FND Reference Library](reference/README.md)** for two symptom-specific collections: positive diagnostic signs and recovery/management techniques. Each collection currently has one page for each of 13 symptom presentations. The [master technique list](reference/recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
 
-Readers will also be able to find material through focused guides organized around a symptom or practical need, including:
+The 26 symptom pages now explain that symptoms may be episodic, fluctuating, or longer-lasting. They also include immediate safety or onset guidance and, where possible, show how a familiar recovery technique may be shortened for a flare. Community quotations collected for review are kept separate from the educational pages until their wording, source, consent, representativeness, and safety can be evaluated.
+
+The reference library also contains a developing [five-booklet functional-seizure CBT series](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/README.md), with separate outlines and content-creator guides.
+
+Current course and reference material can be found for:
 
 - functional seizures, dissociative seizures, PNES, and altered-awareness episodes;
 - movement disorder, tremor, jerks, dystonia, weakness, paralysis, gait, and falls;
@@ -102,9 +110,9 @@ Readers will also be able to find material through focused guides organized arou
 - sensory, visual, dizziness, and balance symptoms;
 - cognition, memory, brain fog, Functional Cognitive Disorder, and dissociation;
 - chronic pain, migraine, fatigue, and sleep problems;
-- severe or long-term disability;
-- children and adolescents with FND;
 - family members, caregivers, and other support persons.
+
+Additional focused guides are planned for severe or long-term disability and for children and adolescents with FND.
 
 ## Every educational page follows the same pattern
 
@@ -152,7 +160,7 @@ When research has not answered an everyday question, the project may examine for
 
 The intended final educational material will be **human-authored and approved by a person living with FND**. The project lead works from research notes and source material, brings lived understanding to the wording, and decides how the subject is ultimately explained.
 
-The current Modules 2–23 are clearly labelled automatically generated working drafts. They use the human-planned syllabus and the Module 1 wording pattern as starting material. They are not treated as final human-authored or medically reviewed pages until a person has edited them and the required evidence and safety review is complete.
+Module 1 is the human-authored starting model. Its three focused pages contain citations and visible author-review notes. Modules 2–23 are automatically generated authoring drafts. They turn the human-planned syllabus and Module 1 pattern into page-by-page writing instructions and starting text. They are not treated as final human-authored or medically reviewed pages until a person has written or edited them and the required evidence and safety review is complete.
 
 AI may help create initial drafts, locate and organize research, prepare authoring notes, check citations and consistency, and identify questions or omissions. AI also maintains and updates this `README.md` as the project develops. AI assistance is not a source of medical authority and does not replace human editing, evidence review or final authorship.
 
@@ -167,11 +175,15 @@ The project should be willing to say **“researchers do not yet know”** when 
 - [Our role](docs/project/our-role.md)
 - [Core principles](docs/project/core-principles.md)
 - [Detailed course syllabus](docs/project/detailed-course-syllabus.md)
+- [Course index](course/README.md)
+- [Site map](SITEMAP.md)
+- [Glossary](glossary/README.md)
 - [Course organization decisions](docs/project/course-organization-decisions.md)
 - [Planned resource library](docs/project/planned-resource-library.md)
 - [FND reference library](reference/README.md)
   - [Symptom-specific diagnostic signs](reference/diagnostic-signs/README.md)
   - [Symptom recovery and management techniques](reference/recovery-techniques/README.md)
+  - [Functional-seizure CBT booklet project](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/README.md)
 - [Evidence standard](docs/project/evidence-standard.md)
 - [Search and usability standards](docs/project/search-and-usability-standards.md)
 - [Accessibility standards](docs/project/accessibility-standards.md)

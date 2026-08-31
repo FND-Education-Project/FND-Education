@@ -31,20 +31,10 @@ This is a focused authoring template within Module 11. Build the completed page 
 **What should the reader open next?** Use these module links: [Module overview](README.md); [Chronic Pain](01-chronic-pain.md); [Migraine](02-migraine.md); [Fatigue and Post-Activity Worsening](03-fatigue-and-post-activity-worsening.md) Add cross-module links later only when they answer a clear next question.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Sleep Problems and Sleep Disorders.” Develop the supporter guidance from these points: Respecting pain and fatigue without assuming permanent incapacity. Helping plan within available capacity without policing activity. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 
@@ -64,7 +54,7 @@ This is a focused authoring template within Module 11. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**In this module:** [← Previous](03-fatigue-and-post-activity-worsening.md) · [Module overview](README.md)
+**Continue:** [Next module: Autonomic and Whole-Body Symptoms](../module-12-autonomic-and-whole-body-symptoms/README.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

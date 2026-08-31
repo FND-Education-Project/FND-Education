@@ -31,11 +31,6 @@ Functional gait difficulty may be present most of the time, fluctuate over a day
 If a familiar gait problem starts suddenly, preventing a fall comes first. Stop before continuing into an unsafe step, use the usual wall, rail, seat, mobility aid or trained supporter, and reduce extra tasks or stimulation if that is part of the person’s plan. Once safe, use one gait cue already practised with rehabilitation—such as an external target or rhythm—rather than trying multiple difficult walking tests. New inability to walk, new one-sided weakness, severe dizziness or another changed neurological pattern needs reassessment.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For Family, Friends, and Other Supporters
 
 Do not ask the person to walk without their usual aid or try harder tasks to see whether they “can really walk.” Gait comparison has to be selected and guarded by a clinician. A safer role is to report what walking looks like in ordinary settings and which supports, surfaces or tasks seem to change it.
@@ -46,11 +41,6 @@ A person may walk relatively well in one setting and suddenly need an aid, seat 
 
 Afterward, useful details include the environment, walking task, other symptoms, duration, falls or near-falls, and what helped the person resume safe movement.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 

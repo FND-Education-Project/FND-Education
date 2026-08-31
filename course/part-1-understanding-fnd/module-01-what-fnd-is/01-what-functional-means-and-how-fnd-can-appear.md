@@ -95,10 +95,6 @@ If you haven't already asked these of the diagnosing doctor, here's a few good q
 
 Another useful thing to do is put into your own words what FND is and how to explain to your family and friends.
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)  
 
 [Module overview](README.md) — the shortest introduction and guide to the module.  
 **What “Functional” Means and How FND Can Appear — current page**  
@@ -117,11 +113,6 @@ Support the person you are showing care to often involves assuring the person th
 
 *Figure 2*
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 
 ## For Clinicians and the Care Team
@@ -203,7 +194,7 @@ These notes are for the author and reviewers. They identify wording that may ove
 </details>
 
 <!-- NAV-CONTEXT:START -->
-**In this module:** [Module overview](README.md) · [Next →](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
+**Continue:** [Next page: The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

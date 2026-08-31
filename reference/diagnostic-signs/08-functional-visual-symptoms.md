@@ -31,11 +31,6 @@ Functional visual loss, blur, field change or visual access may come and go, flu
 When a familiar visual episode starts, stop driving, cooking, using tools, navigating stairs or another activity that depends on reliable vision. Sit or move to a safe position, use the visual aid and lighting strategy already recommended, and use only a previously trained visual or attention cue. Sudden new or painful visual loss, flashes/floaters, a curtain-like shadow or visual change with acute neurological symptoms needs urgent assessment.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For Family, Friends, and Other Supporters
 
 Do not wave objects toward the person’s eyes, set up obstacles or surprise them to see whether they avoid something. Those demonstrations can cause falls, distress or eye injury and are not a responsible diagnostic assessment. Support the person’s current visual-safety plan and report changes to the appropriate clinician.
@@ -48,11 +43,6 @@ Once safe, note what the person was doing, the type of visual change, whether on
 
 New, sudden or painful visual loss still needs urgent assessment according to local medical advice, even if the person has had functional visual symptoms before.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 

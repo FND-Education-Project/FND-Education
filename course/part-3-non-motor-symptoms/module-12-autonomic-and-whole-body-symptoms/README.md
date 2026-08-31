@@ -21,12 +21,8 @@ This short module introduces **Autonomic and Whole-Body Symptoms** and helps rea
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Pain, Migraine, Fatigue, and Sleep](../module-11-pain-migraine-fatigue-and-sleep/README.md)
-
-➡️ **Next module:** [Build Your FND Treatment Team](../../part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../module-11-pain-migraine-fatigue-and-sleep/README.md) · [Course index](../../README.md) · [Next module →](../../part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md)
+**Continue:** [Start with Autonomic Symptoms, Overlap, and Other Causes](01-autonomic-symptoms-overlap-and-other-causes.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

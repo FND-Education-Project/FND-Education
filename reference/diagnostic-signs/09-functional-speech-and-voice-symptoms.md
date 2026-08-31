@@ -31,11 +31,6 @@ Stuttering, slurred or effortful speech, loss of voice, word blocking or inabili
 At the onset of a familiar episode, reduce communication demand: pause, move to a quieter or less pressured setting if possible, use writing, text-to-speech or another established backup, and use one speech-language strategy that has already proved helpful. Do not force repeated words or demand normal speech. Sudden new speech change with facial droop, weakness, severe headache, confusion or another acute neurological symptom needs urgent assessment.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For Family, Friends, and Other Supporters
 
 Do not demand singing, repetition or “normal speech” to test the person. Give them time, reduce interruptions and use their preferred backup communication when needed. If a speech-and-language therapist has identified a helpful task, use it only in the agreed therapeutic way rather than as proof that the symptom can be switched off.
@@ -46,11 +41,6 @@ A short episode may need only time and one familiar cue; another may continue fo
 
 If the person has an agreed speech cue—such as rhythm, an automatic phrase or another speech-language strategy—offer it once rather than repeatedly coaching. Note the setting, duration, associated symptoms and recovery when that information would help their clinician.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 

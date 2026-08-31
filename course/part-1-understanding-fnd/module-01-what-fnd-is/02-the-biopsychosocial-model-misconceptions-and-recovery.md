@@ -38,10 +38,6 @@ If you are able, journal or at least begin to write down when your symptoms get 
 Don't worry if you can't journal! Personally, my functional symptoms prevent me from remembering and I found journaling nearly impossible. However, I have been successful, over time, in understanding what triggers my symptoms to get worse.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)  
 
 [Module overview](README.md) — the shortest introduction and guide to the module.  
 [What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md) — terminology, symptom range, positive diagnosis, and the functional/structural distinction.  
@@ -63,11 +59,6 @@ You are one of the sufferer's social group. You can help the person to try the v
 > I also found it unhelpful when my support person's optimism was misplaced; all the many positive things they were doing for me made my life more comfortable, easier to adapt to, and made me feel safe. But, no matter what they did, FND was not going to go away. Our life had permanently changed.
 — *(Lived experience)*
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 
@@ -146,7 +137,7 @@ These notes are for the author and reviewers. They identify wording that may ove
 </details>
 
 <!-- NAV-CONTEXT:START -->
-**In this module:** [← Previous](01-what-functional-means-and-how-fnd-can-appear.md) · [Module overview](README.md) · [Next →](03-remission-recovery-and-what-improvement-can-mean.md)
+**Continue:** [Next page: Remission, Recovery, and What Improvement Can Mean](03-remission-recovery-and-what-improvement-can-mean.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

@@ -39,11 +39,6 @@ A key thing to take away in this section is that FND symptoms can grow worse or 
 Choose one small sign of improvement that would matter in your life. It might be a symptom change, but it could also be recovering more quickly after an episode, preparing part of a meal, enjoying time with someone, asking for help more clearly, or doing an activity with less fear. Write down one sentence if it's useful. (*citations* [3](#citation-3))
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 [Module overview](README.md) — the shortest introduction and guide to the module.  
 [What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md) — terminology, symptom range, positive diagnosis, and the functional/structural distinction.  
 [The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md) — a plain-language explanation of the model, its uses, limits, and common misunderstandings.  
@@ -61,11 +56,6 @@ What is important to many sufferers of FND is holding some independence, comfort
 
 If symptoms return or don't respond to a treatment, help the person notice what they have learned and what still works. Recovery may include becoming better prepared for difficult periods, adapting, and it can't be about preventing every symptom. (*citations* [2](#citation-2), [3](#citation-3))
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 
@@ -108,7 +98,6 @@ Clinicians should explain the intent of a particular referral. On this site, the
 [Research and Sources](#research-and-sources)
 ***
 
-➡️ **Next module:** [How FND Is Diagnosed](../module-02-how-fnd-is-diagnosed/README.md)
 <details>
 <summary><strong>Author accuracy review — suggested wording not yet applied</strong></summary>
 
@@ -171,7 +160,7 @@ Before replacing the second quotation, copy it exactly from the report. Use an e
 </details>
 
 <!-- NAV-CONTEXT:START -->
-**In this module:** [← Previous](02-the-biopsychosocial-model-misconceptions-and-recovery.md) · [Module overview](README.md)
+**Continue:** [Next module: How Is FND Diagnosed?](../module-02-how-fnd-is-diagnosed/README.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

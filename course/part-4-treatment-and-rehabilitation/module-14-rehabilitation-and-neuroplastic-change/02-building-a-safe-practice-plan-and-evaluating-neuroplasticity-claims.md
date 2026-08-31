@@ -31,20 +31,10 @@ This is a focused authoring template within Module 14. Build the completed page 
 **What should the reader open next?** Use these module links: [Module overview](README.md); [How FND Rehabilitation May Work](01-how-fnd-rehabilitation-may-work.md) Add cross-module links later only when they answer a clear next question.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Building a Safe Practice Plan and Evaluating Neuroplasticity Claims.” Develop the supporter guidance from these points: Encouraging practice without becoming the therapist. Praising effort, strategy, and participation rather than demanding normal performance. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 
@@ -64,7 +54,7 @@ This is a focused authoring template within Module 14. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**In this module:** [← Previous](01-how-fnd-rehabilitation-may-work.md) · [Module overview](README.md)
+**Continue:** [Next module: Pacing Activity and Avoiding Boom-and-Bust](../module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

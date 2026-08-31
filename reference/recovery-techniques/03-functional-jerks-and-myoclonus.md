@@ -74,6 +74,8 @@ Practise the short onset plan between bouts: **hazard control → reduce relevan
 
 Review medications and coexisting pain, sleep, psychiatric, neurological or musculoskeletal conditions. Avoid prescribing a single attention strategy as universal; some people have no usable warning. Persistent jerks may require equipment or environmental adaptation alongside rehabilitation.
 
+[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+
 <!-- NAV-CONTEXT:START -->
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/03-functional-jerks-and-myoclonus.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
 

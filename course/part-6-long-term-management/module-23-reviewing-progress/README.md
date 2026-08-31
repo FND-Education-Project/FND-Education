@@ -20,10 +20,8 @@ This short module introduces **Review Progress and Choose Next Steps** and helps
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Build Your Personal FND Handbook](../module-22-building-your-personal-fnd-handbook/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../module-22-building-your-personal-fnd-handbook/README.md) · [Course index](../../README.md)
+**Continue:** [Start with Measuring Progress and Choosing Next Steps](01-measuring-progress-and-choosing-next-steps.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

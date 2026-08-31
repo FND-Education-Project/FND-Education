@@ -31,20 +31,10 @@ This is a focused authoring template within Module 20. Build the completed page 
 **What should the reader open next?** Use these module links: [Module overview](README.md); [Community Participation, Meaningful Roles, and Variable Capacity](02-community-participation-meaningful-roles-and-variable-capacity.md) Add cross-module links later only when they answer a clear next question.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Work, School, Disability, and Accommodations.” Develop the supporter guidance from these points: Respecting both rehabilitation hopes and current disability. Avoiding employment or productivity as a measure of worth. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 
@@ -64,7 +54,7 @@ This is a focused authoring template within Module 20. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**In this module:** [Module overview](README.md) · [Next →](02-community-participation-meaningful-roles-and-variable-capacity.md)
+**Continue:** [Next page: Community Participation, Meaningful Roles, and Variable Capacity](02-community-participation-meaningful-roles-and-variable-capacity.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

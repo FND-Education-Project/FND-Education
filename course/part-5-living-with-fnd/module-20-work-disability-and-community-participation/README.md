@@ -21,12 +21,8 @@ This short module introduces **Work, Disability, and Community Participation** a
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Healthcare Communication and Self-Advocacy](../module-19-healthcare-communication-and-self-advocacy/README.md)
-
-➡️ **Next module:** [Setbacks, Relapse, and Changing Symptoms](../../part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../module-19-healthcare-communication-and-self-advocacy/README.md) · [Course index](../../README.md) · [Next module →](../../part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/README.md)
+**Continue:** [Start with Work, School, Disability, and Accommodations](01-work-school-disability-and-accommodations.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

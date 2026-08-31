@@ -21,12 +21,8 @@ This short module introduces **How Is FND Diagnosed?** and helps readers choose 
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [What Is Functional Neurological Disorder?](../module-01-what-fnd-is/README.md)
-
-➡️ **Next module:** [What May Cause or Affect FND?](../module-03-causes-mechanisms-and-honest-uncertainty/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../module-01-what-fnd-is/README.md) · [Course index](../../README.md) · [Next module →](../module-03-causes-mechanisms-and-honest-uncertainty/README.md)
+**Continue:** [Start with Positive Signs and the Neurological Examination](01-positive-signs-and-the-neurological-examination.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

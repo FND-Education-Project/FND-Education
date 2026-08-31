@@ -33,11 +33,6 @@ If familiar weakness begins suddenly, make the immediate situation safe first: s
 Do not repeatedly perform this test on yourself or ask someone at home to interpret it. The useful question for a clinician is: “Which positive sign supported my diagnosis, and what did it show in my examination?”
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For Family, Friends, and Other Supporters
 
 A moment of stronger automatic movement does not mean the person can produce that movement whenever they choose. Do not use the sign as a challenge—“You moved then, so do it now”—or secretly repeat the test. If the person wants help, record the clinician’s explanation and what the finding may offer as a rehabilitation starting point.
@@ -50,11 +45,6 @@ Once the person is safe, useful observations include what they were doing when t
 
 New weakness, a changed pattern or weakness accompanied by other urgent symptoms still requires appropriate medical assessment. A prior FND diagnosis does not establish the cause of every later episode of weakness.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 

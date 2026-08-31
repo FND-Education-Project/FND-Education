@@ -55,11 +55,6 @@ Write down the clinician’s explanation in two parts: **the sign that was found
 Do not repeatedly perform Hoover’s sign, tremor tests or other neurological tests on yourself. These signs require training and context to interpret. Repeatedly testing a symptom can also increase attention, worry or physical strain without making the diagnosis clearer.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 - [Module overview](README.md) — a short introduction and guide to this module.
 - **Positive Signs and the Neurological Examination — current page**
 - [Tests, Diagnostic Uncertainty, and Coexisting Conditions](02-tests-diagnostic-uncertainty-and-coexisting-conditions.md) — what different tests can answer, dual diagnoses, and when reassessment may be appropriate.
@@ -74,11 +69,6 @@ Do not test the person at home, secretly distract them to see whether a symptom 
 
 Continue to take new or substantially changed symptoms seriously. A previous FND diagnosis does not make every later symptom functional.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 
@@ -97,10 +87,8 @@ Continue to take new or substantially changed symptoms seriously. A previous FND
 [Research and Sources](#research-and-sources)
 ***
 
-***
-
 <!-- NAV-CONTEXT:START -->
-**In this module:** [Module overview](README.md) · [Next →](02-tests-diagnostic-uncertainty-and-coexisting-conditions.md)
+**Continue:** [Next page: Tests, Diagnostic Uncertainty, and Coexisting Conditions](02-tests-diagnostic-uncertainty-and-coexisting-conditions.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

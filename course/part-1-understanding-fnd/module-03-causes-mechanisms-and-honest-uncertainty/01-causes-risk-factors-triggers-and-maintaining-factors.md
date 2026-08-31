@@ -31,20 +31,10 @@ This is a focused authoring template within Module 3. Build the completed page a
 **What should the reader open next?** Use these module links: [Module overview](README.md); [Brain Networks, Prediction, Attention, and Agency](02-brain-networks-prediction-attention-and-agency.md); [Physical, Psychological, and Social Factors—and How to Judge Claims](03-physical-psychological-and-social-factors-and-how-to-judge-claims.md) Add cross-module links later only when they answer a clear next question.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Causes, Risk Factors, Triggers, and Maintaining Factors.” Develop the supporter guidance from these points: Avoiding blame and unwanted searches for hidden trauma. Listening to the person’s understanding without enforcing a preferred theory. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 
@@ -64,7 +54,7 @@ This is a focused authoring template within Module 3. Build the completed page a
 ***
 
 <!-- NAV-CONTEXT:START -->
-**In this module:** [Module overview](README.md) · [Next →](02-brain-networks-prediction-attention-and-agency.md)
+**Continue:** [Next page: Brain Networks, Prediction, Attention, and Agency](02-brain-networks-prediction-attention-and-agency.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

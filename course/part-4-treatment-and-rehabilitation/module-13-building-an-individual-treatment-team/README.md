@@ -21,12 +21,8 @@ This short module introduces **Build Your FND Treatment Team** and helps readers
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Autonomic and Whole-Body Symptoms](../../part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/README.md)
-
-➡️ **Next module:** [Rehabilitation and Neuroplastic Change](../module-14-rehabilitation-and-neuroplastic-change/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../../part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/README.md) · [Course index](../../README.md) · [Next module →](../module-14-rehabilitation-and-neuroplastic-change/README.md)
+**Continue:** [Start with Who May Be on the Treatment Team](01-who-may-be-on-the-treatment-team.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

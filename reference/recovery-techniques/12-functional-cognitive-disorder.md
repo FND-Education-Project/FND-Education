@@ -74,6 +74,8 @@ Document which cognitive domain changes, episode duration, frequency, sensory/co
 
 Build treatment around functional goals, metacognition, attention, reduced checking and appropriate compensatory supports. Monitor participation, confidence, distress and daily errors as well as symptom report. Persistent symptoms may still benefit from practical rehabilitation and quality-of-life support.
 
+[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+
 <!-- NAV-CONTEXT:START -->
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/12-functional-cognitive-disorder.md) · [Related course page](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
 

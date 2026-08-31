@@ -70,6 +70,8 @@ Document earliest urge, active-bout duration, frequency, trigger context, voice/
 
 Avoid generic breathwork that is not matched to the breathing phenotype. Coordinate speech-language pathology, respiratory physiotherapy, pulmonology, ENT, gastroenterology and psychology as indicated. Track cough/urge control, voice, breathing, sleep, participation and healthcare use.
 
+[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+
 <!-- NAV-CONTEXT:START -->
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/03-cough-breathing-and-upper-airway-symptoms.md)
 

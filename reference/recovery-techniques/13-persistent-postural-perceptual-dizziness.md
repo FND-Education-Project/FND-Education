@@ -75,6 +75,8 @@ Document the Criterion A background separately from exacerbations: usual hours/d
 
 Set a baseline dose and progress one dimension at a time. Integrate CBT-informed principles when threat prediction or avoidance impedes vestibular adaptation. Measure participation and visually complex real-world function, not only symptom provocation. Discuss medication evidence honestly and coordinate migraine or psychiatric treatment as appropriate.
 
+[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+
 <!-- NAV-CONTEXT:START -->
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/03-dizziness-balance-and-vestibular-overlap.md)
 

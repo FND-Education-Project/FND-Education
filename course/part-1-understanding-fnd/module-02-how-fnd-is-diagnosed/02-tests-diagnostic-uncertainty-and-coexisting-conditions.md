@@ -66,11 +66,6 @@ Make a short diagnostic record with four headings: **symptom or event**, **posit
 If writing the full record is too much, begin with one sentence: “The part of my diagnosis I most need explained is…” This exercise is for organizing information. It is not a way to interpret scans, EEGs or laboratory results without a qualified clinician.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 - [Module overview](README.md) — a short introduction and guide to this module.
 - [Positive Signs and the Neurological Examination](01-positive-signs-and-the-neurological-examination.md) — how positive signs may support an FND diagnosis.
 - **Tests, Diagnostic Uncertainty, and Coexisting Conditions — current page**
@@ -85,11 +80,6 @@ Try not to turn uncertainty into a dispute in which the person must choose betwe
 
 Support can include helping the person prepare one or two questions, asking permission before speaking during an appointment, and making sure new or substantially changed symptoms are not automatically dismissed as familiar FND.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 
@@ -110,11 +100,8 @@ For seizure-like events, obtain a detailed history and semiology from the patien
 [Research and Sources](#research-and-sources)
 ***
 
-➡️ **Next module:** [What May Cause or Affect FND?](../module-03-causes-mechanisms-and-honest-uncertainty/README.md)
-***
-
 <!-- NAV-CONTEXT:START -->
-**In this module:** [← Previous](01-positive-signs-and-the-neurological-examination.md) · [Module overview](README.md)
+**Continue:** [Next module: What May Cause or Affect FND?](../module-03-causes-mechanisms-and-honest-uncertainty/README.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

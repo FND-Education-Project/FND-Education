@@ -21,12 +21,8 @@ This short module introduces **Thinking, Memory, and Dissociation** and helps re
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Speech, Voice, Swallowing, and Breathing Symptoms](../../part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/README.md)
-
-➡️ **Next module:** [Pain, Migraine, Fatigue, and Sleep](../module-11-pain-migraine-fatigue-and-sleep/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../../part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/README.md) · [Course index](../../README.md) · [Next module →](../module-11-pain-migraine-fatigue-and-sleep/README.md)
+**Continue:** [Start with Attention, Memory, Word Finding, and Functional Cognitive Disorder](01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

@@ -21,12 +21,8 @@ This short module introduces **Healthcare Communication and Self-Advocacy** and 
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Relationships, Identity, and Grief](../module-18-relationships-identity-and-grief/README.md)
-
-➡️ **Next module:** [Work, Disability, and Community Participation](../module-20-work-disability-and-community-participation/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../module-18-relationships-identity-and-grief/README.md) · [Course index](../../README.md) · [Next module →](../module-20-work-disability-and-community-participation/README.md)
+**Continue:** [Start with Preparing for and Communicating During Appointments](01-preparing-for-and-communicating-during-appointments.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

@@ -31,11 +31,6 @@ Functional seizures are episodic by definition, but their duration and recovery 
 At a familiar warning or onset, follow the person’s established safety plan: move away from traffic, water, stairs, heat or other hazards; get into the safest practical position; and use a pre-agreed grounding, attention or breathing strategy only if the person remains able to use it. A first event, a substantially different event, serious injury, unusual breathing or colour change, or prolonged/repeated events outside the person’s plan need appropriate urgent assessment.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For Family, Friends, and Other Supporters
 
 During an event, follow the person’s safety plan, protect them from injury and seek urgent help when the situation calls for it. Recording is secondary to care. If a spontaneous event can be filmed safely, record the whole person and surrounding context, note the time, and do not restrain them, test their response in painful ways or try to make the episode continue.
@@ -48,11 +43,6 @@ The visible seizure-like event may be only one part of a longer period of sympto
 
 Time the event when practical, but do not let timing or filming interfere with safety. Note whether the person returned to their usual baseline between repeated events; that information can be important to the emergency plan and clinical review.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 

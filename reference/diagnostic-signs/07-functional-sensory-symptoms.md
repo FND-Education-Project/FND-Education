@@ -31,11 +31,6 @@ Functional numbness, tingling, altered sensation or hypersensitivity may be inte
 At the onset of familiar reduced or distorted sensation, protect the affected area from falls, burns, sharp objects and pressure injury. Use a previously taught sensory or attention strategy only if it is safe. Sudden new one-sided numbness, rapidly spreading symptoms or sensory change with weakness, speech difficulty or another acute neurological symptom needs medical assessment rather than being assumed to be FND.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For Family, Friends, and Other Supporters
 
 Do not use pins, heat, ice or repeated touching to map another person’s sensation at home. Reduced sensation can make injury easier, and interpretation requires anatomical knowledge and the rest of the examination. Help the person describe the location, timing and practical effect of the symptom instead.
@@ -48,11 +43,6 @@ Once safe, note location, quality, onset, duration, associated symptoms and reco
 
 Sudden one-sided numbness, a rapidly changing pattern or sensory loss with other urgent symptoms needs appropriate medical assessment even when the person already has FND.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 

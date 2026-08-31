@@ -31,11 +31,6 @@ Functional cough, throat clearing or upper-airway symptoms may occur in discrete
 At the onset of a familiar mild episode, use only the breathing or competing response already selected during respiratory or speech-language assessment and reduce known irritants when practical. Do not force breath-holding or suppress a serious airway warning. Severe breathlessness, blue/grey colour, chest pain, coughing blood, reduced consciousness or a substantially new pattern requires urgent care.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For Family, Friends, and Other Supporters
 
 Do not expose the person to scents, smoke, exercise or stressful situations to see whether coughing or breathing changes. Follow the respiratory or speech-therapy plan they have been given. During serious breathing difficulty, prioritize emergency care rather than recording.
@@ -48,11 +43,6 @@ Reduce avoidable irritants and extra talking, and use one agreed cue rather than
 
 A short cough bout and a flare lasting much longer should both be described accurately. Note what happened before the episode, how long the active symptoms and recovery lasted, and whether the pattern was typical.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 

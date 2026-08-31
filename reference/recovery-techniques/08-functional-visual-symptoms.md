@@ -69,6 +69,8 @@ Document episode duration, frequency, visual environment, light/contrast/motion 
 
 For photophobia, distinguish adaptive protection from pervasive avoidance and reduce dark adaptation gradually. Specify fall, driving and workplace restrictions individually. Avoid exposure that risks injury or uses shame, surprise or deception.
 
+[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+
 <!-- NAV-CONTEXT:START -->
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/08-functional-visual-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/02-visual-symptoms-photophobia-and-sensory-overload.md)
 

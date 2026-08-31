@@ -23,12 +23,8 @@ This short module introduces **Movement, Weakness, Walking, and Falls** and help
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Functional Seizures and Other Episodes](../module-06-functional-seizures-and-episodic-symptoms/README.md)
-
-➡️ **Next module:** [Sensory, Visual, Balance, and Dizziness Symptoms](../module-08-sensory-visual-balance-and-dizziness-symptoms/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../module-06-functional-seizures-and-episodic-symptoms/README.md) · [Course index](../../README.md) · [Next module →](../module-08-sensory-visual-balance-and-dizziness-symptoms/README.md)
+**Continue:** [Start with Functional Weakness and Paralysis](01-functional-weakness-and-paralysis.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
