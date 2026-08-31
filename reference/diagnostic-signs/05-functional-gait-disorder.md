@@ -20,6 +20,12 @@ A clinician looks for the *pattern across tasks*. For example, a gait difficulty
 
 Not every person can safely perform every comparison. The examination should be adapted to falls, pain, weakness, dizziness, equipment and the person’s own limits.
 
+### Gait problems can be episodic or long-lasting
+
+Functional gait difficulty may be present most of the time, fluctuate over a day, or appear mainly in episodes or particular situations. Some people notice marked changes when walking while distracted, in visually or socially busy places, when fatigued, or around other FND symptoms. These contexts vary from person to person and are not diagnostic by themselves.
+
+If a familiar gait problem starts suddenly, preventing a fall comes first. Stop before continuing into an unsafe step, use the usual wall, rail, seat, mobility aid or trained supporter, and reduce extra tasks or stimulation if that is part of the person’s plan. Once safe, use one gait cue already practised with rehabilitation—such as an external target or rhythm—rather than trying multiple difficult walking tests. New inability to walk, new one-sided weakness, severe dizziness or another changed neurological pattern needs reassessment.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -30,6 +36,12 @@ Not every person can safely perform every comparison. The examination should be 
 
 Do not ask the person to walk without their usual aid or try harder tasks to see whether they “can really walk.” Gait comparison has to be selected and guarded by a clinician. A safer role is to report what walking looks like in ordinary settings and which supports, surfaces or tasks seem to change it.
 
+### When a gait episode starts
+
+A person may walk relatively well in one setting and suddenly need an aid, seat or hands-on spotting in another. Treat the change as a safety problem first, not a test. Clear the path, bring the usual aid, use one agreed cue, and reduce competing instructions. Do not pull the person forward or insist that they push through an unsafe gait pattern.
+
+Afterward, useful details include the environment, walking task, other symptoms, duration, falls or near-falls, and what helped the person resume safe movement.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -37,6 +49,12 @@ Do not ask the person to walk without their usual aid or try harder tasks to see
 [Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
+
+### Episodic and prolonged presentations
+
+Document baseline walking as well as episodes: onset, frequency, duration, warning, environmental and dual-task context, associated motor, sensory, vestibular or seizure-like symptoms, aid use, falls and recovery. Functional gait disorder may be recurrent, situational or persistent. A normal-looking walk in the clinic does not invalidate a reproducible community problem, and situational variability alone does not establish FND.
+
+When appropriate, review safely obtained video from the person’s usual environment. Translate positive gait transformations found in examination into a brief flare plan that starts with fall prevention and uses a previously successful rhythm, direction, external target or automatic stepping strategy only when it is safe for that person.
 
 ### Technique outline: sign-based gait comparison
 
