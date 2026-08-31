@@ -20,6 +20,12 @@ The diagnosis is based on five criteria: symptoms on most days for at least thre
 
 Vestibular tests or imaging may be normal, abnormal because of a coexisting condition, or show the problem that originally triggered PPPD. The diagnosis is not simply “normal tests plus dizziness.”
 
+### PPPD fluctuates, but established PPPD is persistent
+
+PPPD is an important exception to a simple “episodic or persistent” rule. By definition, established PPPD is present on most days for at least three months. Symptoms usually last for prolonged, often hours-long periods, but may wax and wane and do not have to be present continuously all day. Brief flares can occur. After an acute or episodic precipitating illness, symptoms may be intermittent at first and then consolidate into the persistent PPPD pattern. Isolated brief dizziness episodes alone do not meet the PPPD criteria. (*citations* [1](#citation-1))
+
+When a familiar flare rises, protect against falls, stop driving or another hazardous activity, use the support or vestibular strategy already prescribed, and allow symptoms to settle enough to continue the graded plan safely. A new severe dizziness pattern, fainting, new hearing loss or focal neurological symptoms requires reassessment rather than being assumed to be a PPPD flare.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -30,6 +36,12 @@ Vestibular tests or imaging may be normal, abnormal because of a coexisting cond
 
 Do not deliberately expose the person to supermarkets, scrolling patterns or rapid movement to test whether symptoms appear. These environments may be part of a carefully paced treatment plan, but diagnostic history does not require forcing an episode. Help describe the time course, triggers and daily impact instead.
 
+### During a flare
+
+A person with PPPD can have a persistent background problem and still experience shorter periods when symptoms become much more intense. Help with fall safety, the usual mobility aid and the planned exit or recovery strategy. Reduce visual or motion demand enough to regain safety, but do not turn a temporary flare into an unplanned test or force exposure.
+
+Useful history distinguishes the usual daily background from the stronger flare: what intensified it, how long the increase lasted and whether the person returned to their established baseline.
+
 New severe dizziness, fainting, new neurological symptoms, chest pain or another concerning change requires appropriate assessment even after PPPD has been diagnosed.
 
 ***
@@ -39,6 +51,12 @@ New severe dizziness, fainting, new neurological symptoms, chest pain or another
 [Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
+
+### Persistent baseline, intermittent exacerbations
+
+Document both the Criterion A background and superimposed exacerbations: how many days symptoms are present, typical hours per day, variation in severity, upright/motion/visual triggers, momentary flares, precipitating condition and recovery toward baseline. When an acute or episodic precipitant is involved, clarify whether early intermittent symptoms consolidated into a persistent course. Brief attacks alone should prompt consideration of episodic vestibular disorders rather than being labelled PPPD.
+
+For an established patient, provide a short flare plan that preserves fall safety and an achievable baseline dose of vestibular/community activity while avoiding both hazardous overexposure and unnecessary prolonged avoidance. Reassess when the temporal pattern no longer fits the established diagnosis or suggests a coexisting episodic vestibular, neurological or cardiovascular disorder.
 
 ### Technique outline: the five PPPD criteria
 
