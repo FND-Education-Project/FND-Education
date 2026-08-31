@@ -4,7 +4,6 @@
 [Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 2 — How FND Is Diagnosed**
 <!-- NAV-BREADCRUMB:END -->
 
-
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part One: Understanding FND**

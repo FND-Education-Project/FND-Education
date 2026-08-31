@@ -4,7 +4,6 @@
 [Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 22 — Building Your Personal FND Handbook**
 <!-- NAV-BREADCRUMB:END -->
 
-
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Six: Long-Term Management**

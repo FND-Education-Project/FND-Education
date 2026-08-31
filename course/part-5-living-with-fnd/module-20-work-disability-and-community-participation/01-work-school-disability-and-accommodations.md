@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 20: Work, Disability, and Community Participation](README.md) › **Work, School, Disability, and Accommodations**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 20. Build the completed page around this scope: Cover functional demands, variable capacity, attendance, remote or reduced schedules, task changes, sensory and cognitive accommodations, vocational rehabilitation, disability documentation, benefits, and the risks of premature or forced return.
 
 ***

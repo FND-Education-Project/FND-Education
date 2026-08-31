@@ -4,7 +4,6 @@
 [Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Content-Creator Guide 4 — Returning to Activities and Independence**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This guide teaches the ideas behind [Booklet 4: Returning to Activities and Independence](04-returning-to-activities-and-independence.md). It helps a content creator distinguish graded behavioural work from unsafe exposure and explain why doing more can be a meaningful treatment outcome even before seizures stop.
 
 All examples are fictional composites. Real activity plans must respect individualized medical advice, local law, disability needs, and the person's own priorities.

@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 17: Daily Living, Accessibility, and Equipment](README.md) › **Adapting Personal Care and Household Tasks**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 17. Build the completed page around this scope: Cover washing, dressing, cooking, cleaning, shopping, transfers, task simplification, energy and cognitive demands, occupational analysis, safety, dignity, and asking before helping.
 
 ***

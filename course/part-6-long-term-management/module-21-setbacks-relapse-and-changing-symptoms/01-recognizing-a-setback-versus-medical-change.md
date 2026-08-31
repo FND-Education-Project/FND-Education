@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 21: Setbacks, Relapse, and Changing Symptoms](README.md) › **Recognizing a Setback Versus Medical Change**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 21. Build the completed page around this scope: Cover ordinary fluctuation, temporary setbacks, recurrence, sustained decline, altered symptom pattern, injury, illness, medication effects, new disease, accumulated load, and individualized reassessment criteria.
 
 ***

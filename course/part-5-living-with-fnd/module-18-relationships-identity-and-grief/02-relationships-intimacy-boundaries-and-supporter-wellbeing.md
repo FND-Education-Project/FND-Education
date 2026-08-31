@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 18: Relationships, Identity, and Grief](README.md) › **Relationships, Intimacy, Boundaries, and Supporter Wellbeing**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 18. Build the completed page around this scope: Cover role changes, communication, sexuality and intimacy, parenting, dependence, autonomy, resentment, overprotection, caregiver burden, respite, boundaries, relationship help, and preserving the relationship beyond caregiving.
 
 ***

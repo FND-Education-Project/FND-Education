@@ -4,7 +4,6 @@
 [Home](../../README.md) › Project Documentation › **Research and Citation Policy**
 <!-- NAV-BREADCRUMB:END -->
 
-
 Educational claims should be traceable whenever practical.
 
 ## Source preference

@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 10: Cognition, Memory, and Dissociation](README.md) › **Attention, Memory, Word Finding, and Functional Cognitive Disorder**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 10. Build the completed page around this scope: Explain attention, processing speed, working memory, encoding and retrieval, episodic memory, semantic access, word finding, Functional Cognitive Disorder, formal assessment, other contributors, and external memory supports.
 
 ***

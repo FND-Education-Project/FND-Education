@@ -4,7 +4,6 @@
 [Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 8 — Sensory, Visual, Balance, and Dizziness Symptoms**
 <!-- NAV-BREADCRUMB:END -->
 
-
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Two: Safety and Symptom Knowledge**

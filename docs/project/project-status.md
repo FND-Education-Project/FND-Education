@@ -4,7 +4,6 @@
 [Home](../../README.md) › Project Documentation › **Project Status**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Current stage: complete first-draft course, awaiting human editing and evidence review.**

@@ -4,7 +4,6 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Swallowing Symptoms and Globus**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Structured swallowing history and clinical assessment, with instrumental assessment when indicated.  
@@ -103,7 +102,5 @@ Do not ask a participant to swallow a chosen food, large bolus or difficult text
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
-
-**Related course page:** [Swallowing, Globus, and Nutrition Safety](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/02-swallowing-globus-and-nutrition-safety.md)
 
 *Technique outline created: August 24, 2026 · Speech-language-pathology and gastroenterology review pending*

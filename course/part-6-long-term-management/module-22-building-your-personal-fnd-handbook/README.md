@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 22: Building Your Personal FND Handbook](README.md)
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Build Your Personal FND Handbook** and helps readers choose the most useful page.

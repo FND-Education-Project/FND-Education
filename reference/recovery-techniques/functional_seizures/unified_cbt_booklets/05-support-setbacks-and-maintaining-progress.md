@@ -4,7 +4,6 @@
 [Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Booklet 5 Outline — Support, Setbacks, and Maintaining Progress**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Reader-facing promise:** “Agree on helpful support, prepare for symptom changes, and protect safety, access, and the person’s priorities—whether seizures change or not.”
 
 **Proposed length:** 14–16 pages. **Main job:** help the reader and chosen supporters agree on what to do before, during, and after a familiar functional seizure; recognize symptom changes without assuming every change is “just FND”; and maintain worthwhile support whether remission occurs or not. The booklet must never teach relatives to ignore, punish, test, or control the person.

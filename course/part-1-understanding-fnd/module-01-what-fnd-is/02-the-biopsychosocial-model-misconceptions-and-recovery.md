@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 1: What FND Is](README.md) › **The Biopsychosocial Model and Misconceptions**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page is [looking for reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This page explains the biopsychosocial model in simple terms, what it does and does not mean for FND, and how biological, psychological, and social factors can guide individual care and support.
@@ -106,10 +105,7 @@ Investigating symptoms and referring your patient to other resources including s
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
-⬅️ **Previous article:** [What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md)
 
-➡️ **Next article:** [Remission, Recovery, and What Improvement Can Mean](03-remission-recovery-and-what-improvement-can-mean.md)
-***
 <details>
 <summary><strong>Author accuracy review — suggested wording not yet applied</strong></summary>
 

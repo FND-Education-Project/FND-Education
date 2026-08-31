@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 3: Causes, Mechanisms, and Honest Uncertainty](README.md) › **Causes, Risk Factors, Triggers, and Maintaining Factors**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 3. Build the completed page around this scope: Define cause, association, vulnerability, risk factor, trigger, mechanism, and maintaining factor in simple terms; explain why the event that starts symptoms may differ from what keeps them going; and prevent group-level findings from becoming unsupported personal conclusions.
 
 ***

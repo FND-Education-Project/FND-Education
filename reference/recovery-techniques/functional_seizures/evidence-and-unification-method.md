@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Reference Library](../../README.md) › [Recovery Techniques](../README.md) › [Functional Seizure Recovery Materials](README.md) › **How the Unified Booklets Will Weigh Evidence**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Decision framework for reviewers:** This page explains how material from different CBT-informed programmes will be selected, changed, or left out. “Better outcomes” receive more weight only after the study and the outcome have been examined carefully.
 
 ## The main rule

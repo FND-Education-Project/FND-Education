@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 3: Causes, Mechanisms, and Honest Uncertainty](README.md) › **Physical, Psychological, and Social Factors—and How to Judge Claims**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 3. Build the completed page around this scope: Cover illness, injury, migraine, pain, sleep, fatigue, medication, stress, trauma, dissociation, psychiatric conditions, relationships, healthcare, and living circumstances as possible influences for some people; then teach readers how to recognize single-cause claims, unfalsifiable theories, and exaggerated certainty.
 
 ***

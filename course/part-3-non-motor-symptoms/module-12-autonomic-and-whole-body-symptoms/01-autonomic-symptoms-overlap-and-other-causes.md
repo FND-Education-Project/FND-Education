@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 12: Autonomic and Whole-Body Symptoms](README.md) › **Autonomic Symptoms, Overlap, and Other Causes**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 12. Build the completed page around this scope: Explain ordinary autonomic functions and symptoms such as sweating, temperature change, nausea, bowel change, dizziness, palpitations, and faintness; cover medication, illness, migraine, cardiac, endocrine, and recognized autonomic differentials without assuming “dysregulation.”
 
 ***

@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 22: Building Your Personal FND Handbook](README.md) › **What Belongs in the Personal FND Handbook**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 22. Build the completed page around this scope: Define the layers of information: diagnosis and positive evidence, separate conditions, usual symptoms, warning signs, medications, accessibility and communication needs, episode and emergency criteria, care-team roles, goals, and supporter instructions.
 
 ***

@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 3: Causes, Mechanisms, and Honest Uncertainty](README.md) › **Brain Networks, Prediction, Attention, and Agency**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 3. Build the completed page around this scope: Introduce network research, predictive-processing proposals, attention, expectation, sensory evidence, automatic control, and sense of agency; clearly distinguish measured findings from proposed explanations and avoid presenting a model as a biomarker or settled cause.
 
 ***

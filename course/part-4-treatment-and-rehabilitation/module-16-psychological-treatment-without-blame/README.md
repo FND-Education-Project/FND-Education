@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 16: Psychological Treatment Without Blame](README.md)
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Psychological Treatment Without Blame** and helps readers choose the most useful page.

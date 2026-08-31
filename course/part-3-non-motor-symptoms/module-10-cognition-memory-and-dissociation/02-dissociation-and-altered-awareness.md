@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 10: Cognition, Memory, and Dissociation](README.md) › **Dissociation and Altered Awareness**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 10. Build the completed page around this scope: Explain dissociation, zoning out, depersonalization, derealization, memory gaps, and altered awareness; distinguish these from cognitive symptoms and other episodic conditions; cover grounding, supporter communication, assessment, and uncertainty.
 
 ***

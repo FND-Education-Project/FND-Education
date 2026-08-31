@@ -4,7 +4,6 @@
 [Home](../../README.md) › Project Documentation › **Search and Usability Standards**
 <!-- NAV-BREADCRUMB:END -->
 
-
 A major goal of FND Education is to make information easy to find, understand, revisit, and share.
 
 ## Page requirements

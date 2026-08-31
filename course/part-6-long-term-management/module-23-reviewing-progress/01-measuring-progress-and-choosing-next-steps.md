@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 23: Reviewing Progress](README.md) › **Measuring Progress and Choosing Next Steps**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 23. Build the completed page around this scope: Cover symptoms where meaningful, safety, recovery time, function, participation, access, confidence, communication, quality of life, supporter burden, adverse effects, non-response, personal goals, measurement limitations, and selecting the next small set of priorities.
 
 ***

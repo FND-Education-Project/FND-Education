@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 16: Psychological Treatment Without Blame](README.md) › **Choosing a Therapy, Setting Goals, and Recognizing Harm**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 16. Build the completed page around this scope: Cover CBT-informed, acceptance-based, mindfulness, trauma-focused, psychodynamic, and other approaches with honest evidence labels; include consent, fit, goals, outcome review, coercion, retraumatization, hidden-trauma claims, and the right to decline.
 
 ***

@@ -4,7 +4,6 @@
 [Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 15 — Pacing, Activity, and the Boom-and-Bust Cycle**
 <!-- NAV-BREADCRUMB:END -->
 
-
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Four: Treatment and Rehabilitation**

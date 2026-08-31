@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 2: How FND Is Diagnosed](README.md)
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **How Is FND Diagnosed?** and helps readers choose the most useful page.

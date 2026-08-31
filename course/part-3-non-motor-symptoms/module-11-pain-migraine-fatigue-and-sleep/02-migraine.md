@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 11: Pain, Migraine, Fatigue, and Sleep](README.md) › **Migraine**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 11. Build the completed page around this scope: Explain migraine as a separate neurological disorder that may coexist with or trigger FND symptoms, common overlap and diagnostic confusion, sensory effects, evidence-based migraine care, tracking, supporter help, and urgent headache reassessment.
 
 ***

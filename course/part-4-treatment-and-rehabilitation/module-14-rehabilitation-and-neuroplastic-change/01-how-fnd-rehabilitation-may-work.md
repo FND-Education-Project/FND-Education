@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 14: Rehabilitation and Neuroplastic Change](README.md) › **How FND Rehabilitation May Work**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 14. Build the completed page around this scope: Explain practice, attention, expectation, automatic function, external focus, meaningful tasks, learning, feedback, confidence, and transfer to daily activities while distinguishing rehabilitation from trying harder.
 
 ***

@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 6: Functional Seizures and Episodic Symptoms](README.md) › **What Functional Seizures Are and How They Are Diagnosed**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 6. Build the completed page around this scope: Explain terminology, genuine involuntary episodes, varied semiology, history, witness descriptions, smartphone video, video-EEG, differential diagnosis, and the possibility of both epilepsy and functional seizures.
 
 ***

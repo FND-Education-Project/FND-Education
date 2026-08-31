@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 9: Speech, Voice, Swallowing, and Breathing Symptoms](README.md) › **Cough, Breathing, and Upper-Airway Symptoms**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 9. Build the completed page around this scope: Cover functional cough, breathing-pattern symptoms, upper-airway or laryngeal problems, respiratory and cardiac differentials, access to communication during episodes, cautious self-management, and emergency breathing criteria.
 
 ***

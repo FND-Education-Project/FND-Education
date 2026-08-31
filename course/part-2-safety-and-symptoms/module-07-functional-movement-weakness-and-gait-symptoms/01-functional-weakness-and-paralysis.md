@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 7: Movement, Weakness, and Gait Symptoms](README.md) › **Functional Weakness and Paralysis**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 7. Build the completed page around this scope: Explain limb heaviness, weakness, paralysis, positive signs of preserved function, automatic versus deliberate control, differential diagnosis, daily safety, and rehabilitation approaches that do not rely on force or shame.
 
 ***

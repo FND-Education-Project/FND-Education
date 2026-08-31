@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 11: Pain, Migraine, Fatigue, and Sleep](README.md) › **Fatigue and Post-Activity Worsening**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 11. Build the completed page around this scope: Explain fatigue as a symptom with many possible causes, cognitive and physical fatigue, delayed worsening, ME/CFS and systemic differentials, medication and sleep effects, activity planning, and the limits of FND-specific evidence.
 
 ***

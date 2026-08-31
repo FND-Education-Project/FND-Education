@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 18: Relationships, Identity, and Grief](README.md) › **Grief, Identity, Purpose, and Social Isolation**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 18. Build the completed page around this scope: Cover loss of abilities, roles and plans, ambiguous grief, identity beyond productivity, friendship and isolation, interests, spirituality, creativity, pleasure, meaning, and mental-health or safeguarding needs without presenting positivity as treatment.
 
 ***

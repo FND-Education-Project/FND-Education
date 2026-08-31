@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 14: Rehabilitation and Neuroplastic Change](README.md)
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Rehabilitation and Neuroplastic Change** and helps readers choose the most useful page.

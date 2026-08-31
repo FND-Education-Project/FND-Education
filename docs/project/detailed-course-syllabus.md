@@ -4,7 +4,6 @@
 [Home](../../README.md) › Project Documentation › **Detailed Course Syllabus**
 <!-- NAV-BREADCRUMB:END -->
 
-
 ## Living With FND: Knowledge, Skills, and Support
 
 This document is the working outline for the full FND Education course. It identifies what each module is intended to cover; it is not itself finished educational content.

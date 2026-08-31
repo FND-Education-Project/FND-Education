@@ -4,7 +4,6 @@
 [Home](../../README.md) › Project Documentation › **Our Role**
 <!-- NAV-BREADCRUMB:END -->
 
-
 FND Education exists to explain and organize information, not to become an authority on Functional Neurological Disorder (FND).
 
 The authority should remain with identifiable sources: published research, clinical guidelines, systematic reviews, consensus documents, and clearly identified clinical expertise. Our role is to find that material, examine it critically, explain it in ordinary language, connect it to questions people with FND and their supporters actually have, and make the original sources easy to find.

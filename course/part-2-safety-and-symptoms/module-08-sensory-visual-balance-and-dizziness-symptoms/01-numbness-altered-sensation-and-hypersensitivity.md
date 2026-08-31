@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 8: Sensory, Visual, Balance, and Dizziness Symptoms](README.md) › **Numbness, Altered Sensation, and Hypersensitivity**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 8. Build the completed page around this scope: Cover numbness, tingling, burning, altered body sensation, touch sensitivity, positive clinical features, neurological and systemic differentials, practical protection, desensitization questions, and research limitations.
 
 ***

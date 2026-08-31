@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 18: Relationships, Identity, and Grief](README.md)
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Relationships, Identity, and Grief** and helps readers choose the most useful page.

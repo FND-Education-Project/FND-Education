@@ -4,7 +4,6 @@
 [Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md)
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Five-booklet production plan:** Each booklet has a numbered, reviewer-ready page outline and a separate in-depth guide that teaches the future content creator the CBT concepts, functional-seizure applications, worked examples, visual possibilities, and language cautions behind the outline. The final booklets are intended for reading on screen or downloading and printing. They are education and guided self-reflection, not a substitute for individualized therapy or medical care.
 
 ## The five booklets

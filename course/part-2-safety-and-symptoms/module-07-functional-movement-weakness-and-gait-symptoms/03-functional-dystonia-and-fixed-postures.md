@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 7: Movement, Weakness, and Gait Symptoms](README.md) › **Functional Dystonia and Fixed Postures**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 7. Build the completed page around this scope: Explain abnormal postures, fixed or painful positions, overlap with other dystonias and pain, uncertainty about mechanisms and prognosis, skin or joint risks, equipment questions, and cautious individualized rehabilitation.
 
 ***

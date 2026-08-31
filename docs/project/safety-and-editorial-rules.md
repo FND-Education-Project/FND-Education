@@ -4,7 +4,6 @@
 [Home](../../README.md) › Project Documentation › **Safety and Editorial Rules**
 <!-- NAV-BREADCRUMB:END -->
 
-
 FND Education will not:
 
 - diagnose visitors;

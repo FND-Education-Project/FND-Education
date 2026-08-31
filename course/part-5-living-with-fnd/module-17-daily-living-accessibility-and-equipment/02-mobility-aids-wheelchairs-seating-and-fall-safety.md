@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 17: Daily Living, Accessibility, and Equipment](README.md) › **Mobility Aids, Wheelchairs, Seating, and Fall Safety**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 17. Build the completed page around this scope: Cover canes, walkers, wheelchairs, braces, seating, positioning, transfer safety, fitting, training, funding, pressure and joint risks, independence, rehabilitation goals, and planned reassessment without blanket rules.
 
 ***

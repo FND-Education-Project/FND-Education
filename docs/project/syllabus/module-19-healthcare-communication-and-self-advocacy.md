@@ -4,7 +4,6 @@
 [Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 19 — Healthcare Communication and Self-Advocacy**
 <!-- NAV-BREADCRUMB:END -->
 
-
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Five: Living With FND**

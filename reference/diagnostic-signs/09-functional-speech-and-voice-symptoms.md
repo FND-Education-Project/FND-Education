@@ -4,7 +4,6 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Speech and Voice Symptoms**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Speech-and-language assessment comparing communication across several natural and structured tasks.  
@@ -106,7 +105,5 @@ Use captions and a full transcript, but do not “correct” the person’s word
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
-
-**Related course page:** [Speech, Voice, and Word Blocking](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/01-speech-voice-and-word-blocking.md)
 
 *Technique outline created: August 24, 2026 · Speech-language-pathology and laryngology review pending*

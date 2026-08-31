@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 20: Work, Disability, and Community Participation](README.md) › **Community Participation, Meaningful Roles, and Variable Capacity**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 20. Build the completed page around this scope: Cover volunteering, hobbies, family roles, creativity, advocacy, transportation, finances, access barriers, severe disability, flexible participation, dignity, and contribution beyond paid employment.
 
 ***

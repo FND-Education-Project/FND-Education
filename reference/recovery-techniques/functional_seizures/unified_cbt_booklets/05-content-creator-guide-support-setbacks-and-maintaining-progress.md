@@ -4,7 +4,6 @@
 [Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Content-Creator Guide 5 — Support, Setbacks, and Maintaining Progress**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This guide teaches the ideas behind [Booklet 5: Support, Setbacks, and Maintaining Progress](05-support-setbacks-and-maintaining-progress.md). It is designed to prevent two common harms: turning supporters into behaviour police, and describing persistent seizures as evidence that the patient failed CBT.
 
 All examples are fictional composites. A real response plan needs the person's consent, individualized medical advice, and revision when the seizure pattern or circumstances change.

@@ -4,7 +4,6 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md)
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This reference was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This collection is about approaches that may support symptom improvement, safer self-management, participation or quality of life. Here, **recovery** does not promise remission. For some people it may mean fewer symptoms; for others it may mean greater function, confidence, independence or stability while symptoms continue.

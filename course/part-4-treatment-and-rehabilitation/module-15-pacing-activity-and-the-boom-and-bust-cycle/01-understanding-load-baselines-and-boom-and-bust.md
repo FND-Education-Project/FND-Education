@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 15: Pacing, Activity, and Boom-and-Bust](README.md) › **Understanding Load, Baselines, and Boom-and-Bust**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 15. Build the completed page around this scope: Explain physical, cognitive, emotional, sensory, and upright load; repeatable baselines; overactivity and underactivity; delayed worsening; deconditioning; post-exertional symptom exacerbation; and why one model does not fit everyone.
 
 ***

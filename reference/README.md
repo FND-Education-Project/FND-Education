@@ -4,7 +4,6 @@
 [Home](../README.md) › [Reference Library](README.md)
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This reference was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This library collects practical, symptom-specific material that is easier to use as a reference than as part of a course. It currently has two collections:

@@ -4,7 +4,6 @@
 [Home](../README.md) › Research › **Citation Index**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This table gives every source a stable project ID. Course pages repeat a compact citation because each page must stand alone, while the ID links back here for shared source tracking.
 
 | Citation ID | Short citation | Source type | Main subjects | Currently used on |

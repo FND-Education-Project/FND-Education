@@ -4,7 +4,6 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Episodic Symptoms and Flare-Onset Quote Review**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Internal review draft:** These quotations are collected for editorial review before any are moved onto public symptom pages.
 
 These are **lived-experience accounts, not treatment evidence**. They are included because they describe symptom duration, environmental context or what a person tries at onset in language that may help readers recognize their own experience. A quoted technique should not be turned into a recommendation unless it is also supported and safety-checked on the relevant recovery page.

@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 19: Healthcare Communication and Self-Advocacy](README.md) › **Preparing for and Communicating During Appointments**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 19. Build the completed page around this scope: Cover priorities, concise histories, symptom description, confirmed versus suspected explanations, communication accommodations, supporter roles, note-taking, teach-back, and leaving with clear responsibilities and timing.
 
 ***

@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 14: Rehabilitation and Neuroplastic Change](README.md) › **Building a Safe Practice Plan and Evaluating Neuroplasticity Claims**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 14. Build the completed page around this scope: Cover baseline selection, dose, repetition, pain and fatigue, delayed worsening, stop and review criteria, outcome measurement, plateaus, relapse, and why genuine neuroplasticity does not justify cure guarantees or denial of disability.
 
 ***

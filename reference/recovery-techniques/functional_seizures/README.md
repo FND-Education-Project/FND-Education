@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Reference Library](../../README.md) › [Recovery Techniques](../README.md) › [Functional Seizure Recovery Materials](README.md)
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working outline for review:** These pages plan an original, picture-led learning and practice series. They are not a finished treatment manual and do not replace diagnosis, individualized care, or an emergency plan.
 
 This folder does three things:

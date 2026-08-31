@@ -4,7 +4,6 @@
 [Home](../../README.md) › Project Documentation › **Planned Resource Library**
 <!-- NAV-BREADCRUMB:END -->
 
-
 The project is intended to be useful during real appointments, daily activities, and symptom episodes—not merely something to read once.
 
 Planned downloadable or printable resources include:

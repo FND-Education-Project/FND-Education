@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 7: Movement, Weakness, and Gait Symptoms](README.md) › **Gait, Falls, and Movement Retraining**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 7. Build the completed page around this scope: Explain functional gait patterns, knees giving way, freezing, imbalance, falls, external focus, rhythm, meaningful tasks, physiotherapy and occupational therapy, mobility aids, deconditioning, and safe progression.
 
 ***

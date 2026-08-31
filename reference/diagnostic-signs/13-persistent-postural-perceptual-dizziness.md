@@ -4,7 +4,6 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Persistent Postural-Perceptual Dizziness**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Criteria-based clinical interview with appropriate vestibular and medical assessment.  
@@ -109,7 +108,5 @@ Add a separate note that all five criteria are required and that testing is sele
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [FND-CIT-0027](../../research/citation-index.md#fnd-cit-0027). [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622) |
-
-**Related course page:** [Dizziness, Balance, and Vestibular Overlap](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/03-dizziness-balance-and-vestibular-overlap.md)
 
 *Technique outline created: August 24, 2026 · Vestibular-neurology and physiotherapy review pending*

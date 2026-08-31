@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 7: Movement, Weakness, and Gait Symptoms](README.md) › **Tremor, Jerks, and Spasms**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 7. Build the completed page around this scope: Explain common movement patterns, variability, entrainment or distractibility in accessible terms, relevant differentials, injury reduction, practical adaptations, and symptom-specific movement retraining.
 
 ***

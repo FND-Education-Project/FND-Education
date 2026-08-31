@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 11: Pain, Migraine, Fatigue, and Sleep](README.md) › **Chronic Pain**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 11. Build the completed page around this scope: Explain chronic pain as a major coexisting problem, nociceptive, neuropathic, nociplastic, and mixed pain concepts, central sensitization limits, assessment, multidisciplinary management, practical adaptations, and diagnostic overshadowing.
 
 ***

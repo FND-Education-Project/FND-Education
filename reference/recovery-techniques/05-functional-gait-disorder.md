@@ -4,7 +4,6 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Gait Disorder**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional walking disorder and functional gait abnormality.
@@ -80,6 +79,12 @@ Rehearse a portable onset plan: **fall prevention/aid → reduce relevant compet
 
 Assess vestibular, sensory, orthopedic, medication, cardiovascular and other neurological contributors when indicated. Prescribe aids and body-weight support according to risk. Coordinate community practice and relapse planning; avoid unsupervised challenge for a person with unpredictable collapse or injury risk.
 
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/05-functional-gait-disorder.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and evidence
 
 The technique list is derived mainly from specialist physiotherapy consensus (**FND-CIT-0028**). The Physio4FMD trial supplies the largest program-level test: its primary physical-function outcome was not clearly superior at 12 months, while several secondary and self-rated outcomes favored specialist care (**FND-CIT-0029**). A smaller combined physiotherapy/CBT trial reported benefits but needs replication (**FND-CIT-0030**). Neither trial isolates backward walking, rhythm or any other single gait drill.
@@ -92,12 +97,4 @@ No community-only technique was added. Repeated user reports largely matched the
 - **FND-CIT-0029:** Nielsen G, et al. *Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial.* The Lancet Neurology. 2024;23(7):675–686. [doi:10.1016/S1474-4422(24)00135-2](https://doi.org/10.1016/S1474-4422(24)00135-2)
 - **FND-CIT-0030:** Macías-García D, et al. *Combined physiotherapy and cognitive behavioral therapy for functional movement disorders: a randomized clinical trial.* JAMA Neurology. 2024;81(9):966–976. [doi:10.1001/jamaneurol.2024.2393](https://doi.org/10.1001/jamaneurol.2024.2393)
 
-[Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/05-functional-gait-disorder.md)
-
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*
-
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/05-functional-gait-disorder.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->

@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 11: Pain, Migraine, Fatigue, and Sleep](README.md) › **Sleep Problems and Sleep Disorders**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 11. Build the completed page around this scope: Cover insomnia, fragmented sleep, circadian disruption, sleep-disordered breathing, parasomnias, medication or substance effects, interactions with FND and cognition, sleep assessment, self-management limits, and reasons for medical review.
 
 ***

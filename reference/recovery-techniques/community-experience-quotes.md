@@ -4,7 +4,6 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Community Experience Quote Audit for Recovery Techniques**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This is a source notebook, not a treatment guide. It asks a narrow question about each recovery technique in the current reference collection: can we find two public accounts saying it helped and two saying it did not help, caused difficulty or made symptoms worse?

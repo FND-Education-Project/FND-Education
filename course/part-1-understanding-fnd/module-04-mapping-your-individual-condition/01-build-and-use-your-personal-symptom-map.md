@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 4: Mapping Your Individual Condition](README.md) › **Build and Use Your Personal Symptom Map**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 4. Build the completed page around this scope: Guide the author through separating confirmed FND symptoms, separate diagnoses, unresolved symptoms, medication effects, warning signs, possible triggers, helpful strategies, preserved abilities, and meaningful changes; include a low-burden way to track only patterns that could change a decision.
 
 ***

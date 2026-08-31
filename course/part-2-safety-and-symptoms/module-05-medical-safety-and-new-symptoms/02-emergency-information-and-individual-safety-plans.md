@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 5: Medical Safety and New Symptoms](README.md) › **Emergency Information and Individual Safety Plans**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 5. Build the completed page around this scope: Explain how to create a short, current emergency sheet with usual presentation, individualized escalation criteria, accessibility needs, medications, contacts, and supporter instructions; distinguish clinician-reviewed personal criteria from generic internet advice.
 
 ***

@@ -4,7 +4,6 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery and Management Technique Index**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This page provides two ways to find the same material. The first groups techniques by symptom. The second is alphabetical, with the symptom or symptoms shown on the same line to the right. It is deliberately not a table.

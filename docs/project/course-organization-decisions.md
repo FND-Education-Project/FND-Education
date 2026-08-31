@@ -4,7 +4,6 @@
 [Home](../../README.md) › Project Documentation › **Course Organization Decisions**
 <!-- NAV-BREADCRUMB:END -->
 
-
 The course has now been reorganized into 23 module folders containing 77 planned pages. Every module has a short overview plus one to four focused pages. The earlier decision about using overview pages with focused child pages is therefore treated as accepted.
 
 The questions below are the revised decisions revealed by the actual page structure. Nothing needs to be decided before authoring can begin; the current organization is usable as it stands.

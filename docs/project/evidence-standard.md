@@ -4,7 +4,6 @@
 [Home](../../README.md) › Project Documentation › **Evidence Standard**
 <!-- NAV-BREADCRUMB:END -->
 
-
 Every substantial educational page will distinguish among the following kinds of information.
 
 ## 1. Established or well-supported evidence

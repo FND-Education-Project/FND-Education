@@ -4,7 +4,6 @@
 [Home](../../README.md) › Project Documentation › **Accessibility Standards**
 <!-- NAV-BREADCRUMB:END -->
 
-
 FND itself can make reading and navigating educational material difficult. Cognitive symptoms, migraine, visual sensitivity, fatigue, pain, motor disability, hearing problems, and sensory sensitivity should be considered throughout the design.
 
 The project will aim for:

@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 12: Autonomic and Whole-Body Symptoms](README.md) › **Useful Tracking, Measurements, and Clinical Assessment**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 12. Build the completed page around this scope: Explain when timing, posture, circumstances, medication changes, orthostatic vitals, wearables, oximetry, or other measurements may help; cover inaccuracy, false precision, over-monitoring, clinical interpretation, and reassessment thresholds.
 
 ***

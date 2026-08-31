@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 22: Building Your Personal FND Handbook](README.md) › **Building, Using, and Reviewing the Handbook**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 22. Build the completed page around this scope: Cover a one-minute emergency view, appointment summary, detailed background, print and digital access, privacy and consent, clinician review, version dates, regular updates, testing the handbook in real situations, and removing outdated instructions.
 
 ***

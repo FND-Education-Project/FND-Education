@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 6: Functional Seizures and Episodic Symptoms](README.md) › **Recovery, Treatment, and Daily Life**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 6. Build the completed page around this scope: Cover post-episode recovery, communication preferences, returning to activity, treatment evidence and limitations, comorbidity care, school or work effects, driving or safety questions that require local guidance, and outcomes beyond seizure counts.
 
 ***

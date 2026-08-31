@@ -4,7 +4,6 @@
 [Home](../../README.md) › Project Documentation › **Planned Repository Structure**
 <!-- NAV-BREADCRUMB:END -->
 
-
 The repository keeps course working drafts separate from syllabus planning, project policies, research notes, reusable resources, media, and future website code. Final educational pages remain subject to human authorship and approval.
 
 ```text

@@ -4,7 +4,6 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Visual Symptoms**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Positive demonstration of preserved visual function during a complete ophthalmic or neuro-ophthalmic assessment.  
@@ -109,7 +108,5 @@ Provide a static diagram as the default media for readers who are sensitive to m
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. [FND-CIT-0024](../../research/citation-index.md#fnd-cit-0024). [https://doi.org/10.1038/s41433-024-03126-w](https://doi.org/10.1038/s41433-024-03126-w) |
-
-**Related course page:** [Visual Symptoms, Photophobia, and Sensory Overload](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/02-visual-symptoms-photophobia-and-sensory-overload.md)
 
 *Technique outline created: August 24, 2026 · Ophthalmology and orthoptics review pending*

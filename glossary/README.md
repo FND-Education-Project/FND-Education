@@ -4,7 +4,6 @@
 [Home](../README.md) › **Glossary**
 <!-- NAV-BREADCRUMB:END -->
 
-
 **Purpose:** A plain-language reference for terms commonly used in Functional Neurological Disorder (FND) research, clinical care, and this project.
 
 **Audience:** People living with FND, family and other supporters, clinicians, contributors, and readers who encounter unfamiliar terminology.

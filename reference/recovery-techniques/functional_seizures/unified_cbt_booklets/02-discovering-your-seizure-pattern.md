@@ -4,7 +4,6 @@
 [Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Booklet 2 Outline — Discovering Your Seizure Pattern**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Reader-facing promise:** “Build a useful picture of what happens before, during, and after your episodes—without being told that you must have a trigger.”
 
 **For the person creating this booklet:** Read the linked [in-depth content-creator guide](02-content-creator-guide-discovering-your-seizure-pattern.md) before drafting. It explains CBT formulation, warnings, triggers, maintaining patterns, limited monitoring, and no-warning routes through worked functional-seizure examples.

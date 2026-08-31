@@ -4,7 +4,6 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Limb Weakness or Paralysis**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Hoover’s sign for functional leg weakness.  
@@ -119,7 +118,5 @@ Keep both phases in their true order. Do not edit together different attempts to
 |---|---|
 | <a id="citation-1"></a>**[1]** | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
 | <a id="citation-2"></a>**[2]** | McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. [FND-CIT-0018](../../research/citation-index.md#fnd-cit-0018). [https://doi.org/10.1016/j.jpsychores.2011.09.003](https://doi.org/10.1016/j.jpsychores.2011.09.003) |
-
-**Related course page:** [Functional Weakness and Paralysis](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
 
 *Technique outline created: August 24, 2026 · Neurology and physiotherapy review pending*

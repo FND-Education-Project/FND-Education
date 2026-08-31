@@ -4,7 +4,6 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Dystonia or Fixed Posturing**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Specialist pattern-based history and movement examination.  
@@ -108,7 +107,5 @@ If a real patient is filmed, use one continuous clip and permit their normal sup
 |---|---|
 | <a id="citation-1"></a>**[1]** | Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [FND-CIT-0021](../../research/citation-index.md#fnd-cit-0021). [https://doi.org/10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262) |
 | <a id="citation-2"></a>**[2]** | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
-
-**Related course page:** [Functional Dystonia and Fixed Postures](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md)
 
 *Technique outline created: August 24, 2026 · Movement-disorders and pain review pending*

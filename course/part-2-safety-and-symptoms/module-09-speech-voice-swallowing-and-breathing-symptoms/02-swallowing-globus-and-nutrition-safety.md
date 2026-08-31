@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 9: Speech, Voice, Swallowing, and Breathing Symptoms](README.md) › **Swallowing, Globus, and Nutrition Safety**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 9. Build the completed page around this scope: Cover swallowing difficulty, lump sensation, eating and drinking effects, aspiration and nutrition concerns, speech-language and medical assessment, instrumental testing, safe adaptations, and reasons for urgent reassessment.
 
 ***

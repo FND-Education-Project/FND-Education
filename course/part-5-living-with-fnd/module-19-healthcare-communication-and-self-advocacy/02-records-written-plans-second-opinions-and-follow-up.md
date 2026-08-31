@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 19: Healthcare Communication and Self-Advocacy](README.md) › **Records, Written Plans, Second Opinions, and Follow-Up**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 19. Build the completed page around this scope: Cover factual corrections versus medical disagreement, written instructions, after-visit records, referral tracking, safety plans, second opinions, diagnostic overshadowing, patient-generated data, and limits of self-advocacy.
 
 ***

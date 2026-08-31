@@ -4,7 +4,6 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Limb Weakness or Paralysis**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional paresis, functional arm weakness, functional leg weakness, functional ankle weakness and functional paralysis.
@@ -79,6 +78,12 @@ Mobility aids are neither automatically helpful nor automatically harmful. When 
 
 Coordinate physiotherapy with occupational therapy, psychological care and medical treatment when these address relevant maintaining factors or coexisting conditions. Persistent symptoms and quality-of-life goals are valid reasons for continuing support even when complete symptom remission is not occurring.
 
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/01-functional-limb-weakness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and evidence
 
 Specialist consensus provides the most detailed movement-retraining instructions (**FND-CIT-0028**). The large Physio4FMD trial did not show a clear advantage for specialist physiotherapy on its primary 12-month physical-function outcome, although several secondary and patient-rated outcomes favored the specialist program; both pathways were generally safe and valued (**FND-CIT-0029**). A smaller trial found improvement from combined specialized physiotherapy and CBT, but its size and single-center design limit certainty (**FND-CIT-0030**).
@@ -91,12 +96,4 @@ This means there is research support for structured FND rehabilitation as a pack
 - **FND-CIT-0029:** Nielsen G, et al. *Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial.* The Lancet Neurology. 2024;23(7):675–686. [doi:10.1016/S1474-4422(24)00135-2](https://doi.org/10.1016/S1474-4422(24)00135-2)
 - **FND-CIT-0030:** Macías-García D, et al. *Combined physiotherapy and cognitive behavioral therapy for functional movement disorders: a randomized clinical trial.* JAMA Neurology. 2024;81(9):966–976. [doi:10.1001/jamaneurol.2024.2393](https://doi.org/10.1001/jamaneurol.2024.2393)
 
-[Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/01-functional-limb-weakness.md)
-
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*
-
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/01-functional-limb-weakness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->

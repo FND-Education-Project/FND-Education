@@ -4,7 +4,6 @@
 [Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Content-Creator Guide 1 — Understanding Functional Seizures and CBT**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This guide teaches the ideas behind [Booklet 1: Understanding Functional Seizures and CBT](01-understanding-functional-seizures-and-cbt.md). It is written for an author, illustrator, reviewer, or educator who may never have received CBT and should not be expected to infer a therapy model from a list of page titles.
 
 The examples are fictional composites. They show how to explain a concept; they are not templates for deciding why a particular person has seizures.

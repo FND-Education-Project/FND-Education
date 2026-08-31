@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 5: Medical Safety and New Symptoms](README.md) › **Familiar Symptoms, New Symptoms, and Medical Change**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 5. Build the completed page around this scope: Teach comparison with the person’s established, medically assessed pattern; explain diagnostic overshadowing and the risks of both dismissal and automatic escalation; and show why new, severe, injured, or substantially changed symptoms need fresh judgment.
 
 ***

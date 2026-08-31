@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 21: Setbacks, Relapse, and Changing Symptoms](README.md) › **Responding, Recovering, and Updating the Plan**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 21. Build the completed page around this scope: Cover calm first steps, returning to known strategies, temporary activity or rehabilitation changes, supporter roles, emotional effects, gradual re-entry, post-setback review, and updating the written plan without blame or false causal certainty.
 
 ***

@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 15: Pacing, Activity, and Boom-and-Bust](README.md) › **Planning Activity, Rest, and Capacity Changes**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 15. Build the completed page around this scope: Cover flexible activity ranges, restorative rest, necessary and meaningful activity, rehabilitation practice, low- and high-capacity days, gradual change where suitable, relapse adjustments, and signs that a plan needs clinical review.
 
 ***

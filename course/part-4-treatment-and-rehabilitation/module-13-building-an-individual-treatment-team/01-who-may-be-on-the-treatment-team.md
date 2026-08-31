@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 13: Building an Individual Treatment Team](README.md) › **Who May Be on the Treatment Team**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 13. Build the completed page around this scope: Explain possible roles for neurology, primary care, physiotherapy, occupational therapy, speech-language therapy, psychology, psychiatry, neuropsychology, rehabilitation, pain, migraine, sleep, and other specialists; keep responsibilities distinct and individualized.
 
 ***

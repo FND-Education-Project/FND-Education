@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Reference Library](../../README.md) › [Recovery Techniques](../README.md) › [Functional Seizure Recovery Materials](README.md) › **What the Online Course Teaches and What the Booklets Repeat**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Editorial boundary for reviewers:** The online course is the main place for broad FND education. The booklets briefly repeat only what a person needs in order to use a standalone functional-seizure exercise safely, then add seizure-specific practice.
 
 ## The simple rule

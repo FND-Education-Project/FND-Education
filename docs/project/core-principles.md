@@ -4,7 +4,6 @@
 [Home](../../README.md) › Project Documentation › **Core Principles**
 <!-- NAV-BREADCRUMB:END -->
 
-
 These principles guide how FND Education will research, write, and present material.
 
 ## Claims should come from identifiable sources

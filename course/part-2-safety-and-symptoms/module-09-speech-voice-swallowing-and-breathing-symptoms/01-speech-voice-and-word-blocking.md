@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 9: Speech, Voice, Swallowing, and Breathing Symptoms](README.md) › **Speech, Voice, and Word Blocking**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 9. Build the completed page around this scope: Cover mutism, dysphonia, aphonia, stuttering, altered rhythm or accent, word blocking, automatic versus deliberate speech, communication access, speech-language therapy, and neurological or structural differentials.
 
 ***

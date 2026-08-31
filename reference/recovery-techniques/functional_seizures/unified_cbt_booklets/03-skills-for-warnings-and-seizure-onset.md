@@ -4,7 +4,6 @@
 [Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Booklet 3 Outline — Skills for Warnings and Seizure Onset**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Reader-facing promise:** “Choose, practise, and test a small number of safe skills for your own established warning pattern. If you have no warning, this booklet still offers useful routes.”
 
 **For the person creating this booklet:** Read the linked [in-depth content-creator guide](03-content-creator-guide-skills-for-warnings-and-seizure-onset.md) before drafting. It explains why practice, attention-shifting, grounding, competing responses, breathing, cue words, and behavioural experiments are used—and why none should be presented as a test of effort or a guaranteed way to stop a seizure.

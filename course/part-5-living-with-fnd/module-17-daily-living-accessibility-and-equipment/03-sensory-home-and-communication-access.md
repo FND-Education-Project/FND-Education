@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 17: Daily Living, Accessibility, and Equipment](README.md) › **Sensory, Home, and Communication Access**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 17. Build the completed page around this scope: Cover lighting, sound, clutter, layout, navigation, communication cards or devices, remote access, printable information, home changes, temporary and long-term accommodations, and disability rights.
 
 ***

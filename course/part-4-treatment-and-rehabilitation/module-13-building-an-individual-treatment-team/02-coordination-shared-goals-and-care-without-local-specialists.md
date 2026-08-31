@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 13: Building an Individual Treatment Team](README.md) › **Coordination, Shared Goals, and Care Without Local Specialists**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 13. Build the completed page around this scope: Cover role clarity, shared formulation, concise communication, realistic goals, telehealth, local clinicians using specialist guidance, access barriers, rejected referrals, care gaps, and ways to prevent the person from becoming the only coordinator.
 
 ***

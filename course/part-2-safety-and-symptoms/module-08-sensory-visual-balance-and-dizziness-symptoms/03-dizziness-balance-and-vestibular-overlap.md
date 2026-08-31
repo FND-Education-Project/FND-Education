@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 8: Sensory, Visual, Balance, and Dizziness Symptoms](README.md) › **Dizziness, Balance, and Vestibular Overlap**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 8. Build the completed page around this scope: Cover dizziness, rocking, imbalance, falls, visual dependence, persistent postural-perceptual dizziness, vestibular migraine, inner-ear and autonomic overlap, assessment, rehabilitation, and safe mobility.
 
 ***

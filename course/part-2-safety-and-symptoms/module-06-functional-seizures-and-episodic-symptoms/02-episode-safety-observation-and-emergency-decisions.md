@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 6: Functional Seizures and Episodic Symptoms](README.md) › **Episode Safety, Observation, and Emergency Decisions**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 6. Build the completed page around this scope: Cover injury reduction, positioning and environment, actions to avoid, useful observation, individualized emergency criteria, breathing or injury concerns, and how supporters can remain calm without becoming constant monitors.
 
 ***

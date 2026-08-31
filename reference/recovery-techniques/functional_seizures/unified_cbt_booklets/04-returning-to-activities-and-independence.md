@@ -4,7 +4,6 @@
 [Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Booklet 4 Outline — Returning to Activities and Independence**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Reader-facing promise:** “Build life outward in safe, manageable steps instead of waiting for every seizure to stop first.”
 
 **Proposed length:** 14–16 pages. **Main job:** help the reader understand how fear, necessary safety precautions, accessibility needs, and avoidance can become tangled together after frightening seizures. The booklet then teaches a respectful way to resume a valued activity through small, safe experiments. It never asks the reader to ignore medical advice or prove courage by taking a dangerous risk.

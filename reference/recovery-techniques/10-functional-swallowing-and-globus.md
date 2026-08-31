@@ -4,7 +4,6 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Swallowing Symptoms and Globus**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional dysphagia, phagophobia, functional swallowing disorder and globus pharyngeus. These terms can describe different problems and should not be assumed to have the same cause or safety profile.
@@ -74,6 +73,12 @@ Document episode duration, meal phase, food/liquid consistency and volume, setti
 
 Use positive explanation, tension reduction, attention change and graded functional swallowing only within that assessment. Monitor nutrition, hydration, aspiration indicators and quality of life. Coordinate speech-language pathology, dietetics, ENT, gastroenterology, neurology and psychological care where relevant.
 
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/10-functional-swallowing-and-globus.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/02-swallowing-globus-and-nutrition-safety.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and evidence
 
 The speech-language techniques come from international consensus recommendations for functional communication, swallowing and cough disorders (**FND-CIT-0025**). The paper provides a clinical framework rather than trial proof. A 2026 systematic review of 29 trials in the adjacent category of functional esophageal disorders found that gut–brain neuromodulators may improve globus, while evidence for functional dysphagia remained unconvincing (**FND-CIT-0042**). Those studies are not proof for FND-specific swallowing symptoms. The search did not locate a controlled treatment study specifically for functional swallowing symptoms or globus within FND.
@@ -85,12 +90,4 @@ No community-only technique was added. Online reports about distraction, throat 
 - **FND-CIT-0025:** Baker J, Barnett C, Cavalli L, et al. *Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.* JNNP. 2021;92(10):1112–1125. [doi:10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
 - **FND-CIT-0042:** Wang Z, Zheng Z, Wei X, et al. *Efficacy of gut-brain neuromodulators in functional esophageal disorders: a systematic review.* BMC Gastroenterology. 2026. [doi:10.1186/s12876-026-05089-6](https://doi.org/10.1186/s12876-026-05089-6)
 
-[Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/10-functional-swallowing-and-globus.md)
-
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Speech-language-pathology, swallowing-safety and accessibility review pending*
-
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/10-functional-swallowing-and-globus.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/02-swallowing-globus-and-nutrition-safety.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->

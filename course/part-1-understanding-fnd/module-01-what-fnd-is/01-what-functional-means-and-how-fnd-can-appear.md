@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 1: What FND Is](README.md) › **What “Functional” Means and How FND Can Appear**
 <!-- NAV-BREADCRUMB:END -->
 
-
 > **Working draft:** This page is  [looking for reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This page explains what the word “functional” means, how FND can appear, how clinicians can identify it, and why the symptoms are real and involuntary.
@@ -155,10 +154,7 @@ This free online course is contributed to by those with lived experience in Func
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
-⬅️ **Previous page:** [Module overview](README.md)
 
-➡️ **Next article:** [The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
-***
 <details>
 <summary><strong>Author accuracy review — suggested wording not yet applied</strong></summary>
 

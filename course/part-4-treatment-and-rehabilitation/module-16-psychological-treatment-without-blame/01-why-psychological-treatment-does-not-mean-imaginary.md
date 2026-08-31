@@ -4,7 +4,6 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 16: Psychological Treatment Without Blame](README.md) › **Why Psychological Treatment Does Not Mean Imaginary**
 <!-- NAV-BREADCRUMB:END -->
 
-
 This is a focused authoring template within Module 16. Build the completed page around this scope: Explain how therapy may address symptom fear, attention, avoidance, coping, mood, dissociation, relationships, or comorbid mental illness without proving that FND is imagined or psychologically caused.
 
 ***
