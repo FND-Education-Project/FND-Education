@@ -134,6 +134,12 @@
       font-size: 0.92rem;
     }
 
+    footer nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem 1rem;
+    }
+
     @media (max-width: 34rem) {
       main {
         width: min(100% - 1rem, 46rem);
@@ -185,7 +191,12 @@
       </section>
 
       <footer>
-        <a href="https://github.com/FND-Education-Project/FND-Education">View the FND Education repository</a>
+        <nav aria-label="Project navigation">
+          <a href="https://github.com/FND-Education-Project/FND-Education">Home</a>
+          <a href="https://github.com/FND-Education-Project/FND-Education/blob/main/course/README.md">Course</a>
+          <a href="https://github.com/FND-Education-Project/FND-Education/blob/main/reference/README.md">Reference Library</a>
+          <a href="https://github.com/FND-Education-Project/FND-Education/blob/main/SITEMAP.md">Site Map</a>
+        </nav>
       </footer>
     </article>
   </main>
