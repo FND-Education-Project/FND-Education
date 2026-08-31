@@ -153,7 +153,7 @@ This booklet repeats only the facts needed for standalone safety, then adds a se
 *Outline revised August 25, 2026 · Clinical, lived-experience, and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](../../README.md) · [Related course page](../../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
+**CBT materials:** [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md) · [Next →](02-discovering-your-seizure-pattern.md)
 
 **Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

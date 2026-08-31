@@ -211,7 +211,7 @@ Does the ending offer worthwhile goals, accommodations, and continuing care to p
 *Outline revised August 25, 2026 · Clinical, lived-experience, supporter, medical-safety, and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](../../README.md) · [Related course page](../../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
+**CBT materials:** [← Previous](04-returning-to-activities-and-independence.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
 
 **Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

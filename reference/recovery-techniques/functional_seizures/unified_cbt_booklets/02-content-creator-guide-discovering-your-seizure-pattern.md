@@ -178,7 +178,7 @@ Before drafting, the creator should be able to explain:
 *Content-creator teaching guide created August 25, 2026 · Clinical, trauma-informed, and lived-experience review pending*
 
 <!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](../../README.md) · [Related course page](../../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+**CBT materials:** [← Previous](01-content-creator-guide-understanding-functional-seizures-and-cbt.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md) · [Next →](03-content-creator-guide-skills-for-warnings-and-seizure-onset.md)
 
 **Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
