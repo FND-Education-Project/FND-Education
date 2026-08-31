@@ -25,6 +25,18 @@ Functional sensory symptoms can involve too little, too much or distorted sensat
 9. **TENS or electrical stimulation — E.** A clinician may use electrical input as feedback or an adjunct to task practice. It requires skin-sensation checks, contraindication review and a defined goal; home use should follow device-specific professional advice.
 10. **Treat related pain or migraine — C.** Pain, migraine, neuropathy, skin conditions and other disorders can coexist. Their treatment should be integrated rather than assuming every sensory experience has one mechanism.
 
+### If sensory symptoms come in episodes or sudden flares
+
+Functional numbness, tingling, distorted sensation or hypersensitivity may be intermittent, fluctuate through the day or remain persistent. During a familiar flare:
+
+1. **Protect the affected area.** Stop using heat, sharp tools or another hazard when sensation is reduced; sit or stabilize yourself if altered sensation affects balance.
+2. **Reduce overwhelming input when that is part of your pattern.** Move away from intense noise, visual activity, touch or multitasking if this helps you reach a safer baseline.
+3. **Choose one familiar strategy.** Use a tolerable texture, sensory-discrimination task, meaningful movement or external-focus cue already practised in rehabilitation.
+4. **Avoid extreme stimulation.** Ice directly on skin, painful pressure, very hot/cold objects or sharp stimulation can cause injury, especially when sensation is unreliable.
+5. **Return gradually.** Once the flare settles, reconnect the affected area with an ordinary safe task instead of repeatedly checking whether sensation is fully normal.
+
+A new rapidly spreading sensory change, new weakness or speech difficulty, severe headache or another substantially different pattern needs reassessment.
+
 ### A low-risk starting practice
 
 Choose one safe, comfortable texture and one ordinary task. For a short period, touch or hold the texture while completing the task and describing neutral facts—warm, smooth, light—rather than rating danger. Stop for skin damage, escalating pain, dizziness or a sustained flare. Avoid extreme temperatures, sharp objects and areas where reduced sensation could hide injury.
@@ -40,9 +52,17 @@ Numbness or altered sensation is new or rapidly spreading, follows an injury, or
 - Keep the focus on a useful activity rather than repeatedly asking for a symptom rating.
 - Accept that pain and hypersensitivity are real experiences; gradual exposure is not permission to force contact.
 
+### During a sensory flare
+
+Help remove burn, cut, pressure and fall hazards. Ask before reducing noise/light or touching the person; environmental simplification helps some people but is not a universal treatment. Offer one agreed sensory or functional cue rather than repeatedly testing whether they can feel. If the pattern is new or clearly different, support reassessment instead of assuming the usual technique is appropriate.
+
 ## For clinicians
 
 Assess the sensory distribution, positive functional signs, skin integrity, pain, migraine, neuropathy and other medical or neurological explanations. Define whether the main problem is loss, distortion, hypersensitivity, sensory avoidance or broader processing difficulty. Select graded input from the person’s functional goal and monitor both tolerance and participation.
+
+### Adapting sensory rehabilitation for episodic symptoms
+
+Document episode duration, frequency, warning, distribution, sensory environment, cognitive load, associated motor/migraine/seizure-like symptoms and recovery. Rehearse a short onset sequence between flares: **injury prevention → reduce relevant overload → one safe sensory-discrimination or functional-task cue → graded return**. For sensory loss, compensatory skin and burn precautions remain important even when the episode is expected to pass.
 
 Avoid noxious stimulation intended to prove preserved sensation. Use sensory retraining, environmental adaptation and compensatory safety together when needed. Persistent sensory loss may require long-term skin, pressure and burn precautions even while rehabilitation continues.
 
@@ -60,4 +80,4 @@ No community-only technique was added. Repeated reports about texture, temperatu
 
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/07-functional-sensory-symptoms.md)
 
-*Evidence search current to August 25, 2026 · Clinical and accessibility review pending*
+*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*
