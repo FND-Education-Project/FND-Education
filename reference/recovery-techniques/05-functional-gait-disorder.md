@@ -28,6 +28,19 @@ Functional gait rehabilitation often changes the conditions of walking—rhythm,
 12. **Mobility aids and fall planning — C.** Use the aid that gives safe participation now, with training and review. The future plan may be graded reduction, optimized long-term use, or both in different settings.
 13. **FND-informed physiotherapy and relapse planning — R/C.** Combine selected techniques with education, goals, strength/endurance work when needed, and a written plan for setbacks.
 
+### If gait problems come in episodes or worsen in busy settings
+
+Functional gait difficulty may be persistent or may appear mainly in certain situations. For some people, competing conversation, visual activity, crowds, fatigue or another FND episode makes walking temporarily much harder. Those patterns are individual; the aim is to identify them without assuming every busy environment will cause symptoms.
+
+When a familiar gait episode starts:
+
+1. **Prevent a fall first.** Stop, sit, use a wall or rail, bring the usual mobility aid, or accept trained physical support as needed.
+2. **Reduce competing demands if they are part of the pattern.** Stop walking and talking at the same time, leave the busiest part of the environment, or simplify the task enough to regain a safe starting point.
+3. **Use one practised gait cue.** This might be rhythm, an external destination, weight shift, sliding, or another transformation already selected with physiotherapy.
+4. **Return in short steps.** Resume only the distance and complexity that are safe rather than immediately testing normal walking in the hardest environment.
+
+Do not improvise backward walking, stairs or another challenging transformation during an unsafe flare unless that exact method has already been assessed for you.
+
 ### A low-risk starting practice
 
 If a clinician has confirmed that supported standing is safe, use a solid surface and practise a few gentle side-to-side weight shifts while looking at an external target. Stop if the knee buckles, dizziness rises, pain changes sharply or control deteriorates. If safety has not been assessed, start with a seated rhythm task and arrange physiotherapy rather than attempting gait drills alone.
@@ -44,9 +57,21 @@ Walking difficulty is new, rapidly worse, follows a fall or head injury, or come
 - Treat aids as safety and participation tools, not symbols of success or failure.
 - Help record functional gains such as reaching a room or shop, even when the gait does not look completely typical.
 
+### During a gait episode or flare
+
+Help the person stop before a fall, bring the usual aid or seat, and reduce unnecessary conversation or environmental demand when that is part of their established pattern. Offer **one** agreed cue. Do not pull them forward, remove an aid, or insist that continuing to walk will prove the episode can be overcome.
+
+Once stable, help with a smaller next step—a short route, quieter exit or seated recovery—rather than an all-or-nothing choice between normal walking and abandoning the activity completely.
+
 ## For clinicians
 
 Identify the individual gait phenotype and positive functional signs, then demonstrate preserved or more automatic movement where possible. Choose transformations that are safe for that phenotype and rapidly translate them into ordinary walking. Measure falls, walking capacity, participation, confidence and aid use as well as observed gait.
+
+### Adapting gait rehabilitation for episodic and context-dependent symptoms
+
+Ask specifically about the environments in which gait changes: visual complexity, crowds, conversation, dual task, fatigue, pain, proximity to seizures or other FND symptoms, and availability of supports. Reproduce only safe components in therapy. A quiet-clinic gait sample may not represent the community problem.
+
+Rehearse a portable onset plan: **fall prevention/aid → reduce relevant competing load → one effective gait cue → graded return to the route or activity**. Practise increasing environmental complexity in controlled steps so the onset plan supports community participation rather than becoming a reason for permanent avoidance. Track falls, near-falls, episode duration, recovery time and successful participation.
 
 Assess vestibular, sensory, orthopedic, medication, cardiovascular and other neurological contributors when indicated. Prescribe aids and body-weight support according to risk. Coordinate community practice and relapse planning; avoid unsupervised challenge for a person with unpredictable collapse or injury risk.
 
@@ -64,4 +89,4 @@ No community-only technique was added. Repeated user reports largely matched the
 
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/05-functional-gait-disorder.md)
 
-*Evidence search current to August 25, 2026 · Clinical and accessibility review pending*
+*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*
