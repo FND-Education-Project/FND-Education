@@ -28,6 +28,19 @@ PPPD treatment usually combines an individualized explanation with gradual retur
 12. **SSRI or SNRI discussion — C/uncertain.** These medicines are used in clinical practice for some people, especially with anxiety or migraine overlap, but a 2023 Cochrane review found no eligible placebo-controlled PPPD medication trials. Discuss possible benefits, harms and uncertainty with a prescriber; do not stop suddenly.
 13. **Relapse plan — C.** Record the baseline dose that remains possible during a flare, helpful visual or motion settings, medication/condition triggers, fall precautions and when to seek reassessment.
 
+### Managing a flare within a persistent condition
+
+PPPD is different from the other symptom pages: established PPPD is **persistent by definition**, although severity may wax and wane and short periods of much stronger symptoms can occur. A flare means an increase above the person’s usual background; it is not a separate brief PPPD diagnosis.
+
+During a familiar flare:
+
+1. **Prevent falls and stop hazardous activity.** Sit, use the usual aid, or leave an unsafe moving/visual environment when needed.
+2. **Reduce the dose, not necessarily to zero.** Return to the baseline upright, walking or visual-motion activity that remains manageable rather than automatically switching to prolonged bed rest or complete avoidance.
+3. **Use the established vestibular strategy.** A stable visual target, prescribed balance support or another therapist-selected technique may help regain a workable baseline.
+4. **Resume progression after the flare settles.** Return to the last repeatable dose before increasing complexity again.
+
+A new severe pattern, fainting, new hearing loss, focal neurological symptoms, chest pain or persistent vomiting needs reassessment rather than being assumed to be a PPPD flare.
+
 ### A low-risk starting practice
 
 Choose one already-safe activity—such as sitting upright or a short walk on a clear, level route—and repeat a dose that produces only manageable, settling symptoms. Change one variable at a time and allow recovery. Stop for fainting, falls, new neurological symptoms, chest pain, severe headache, prolonged vomiting or a large sustained deterioration.
@@ -44,9 +57,17 @@ Dizziness is sudden or distinctly different, or occurs with new weakness, double
 - Encourage return to meaningful places while accepting planned recovery time.
 - Treat a new dizziness pattern as new information, not automatically as PPPD.
 
+### During a stronger flare
+
+Help with fall safety and the person’s planned exit or recovery strategy. A temporary reduction in activity may be appropriate, but do not insist on either pushing through or prolonged complete avoidance. Support the **baseline dose the treating plan says remains manageable**, then help the person build back to the prior level after the flare. New or distinctly different dizziness still deserves reassessment.
+
 ## For clinicians
 
 Confirm the Bárány criteria and evaluate the precipitating and coexisting vestibular, migraine, neurological, cardiovascular and psychological conditions. Profile visual dependence, motion sensitivity, gaze, balance, gait, avoidance and fall risk. Explain the model without implying that symptoms are imaginary.
+
+### Flare planning within persistent PPPD
+
+Document the Criterion A background separately from exacerbations: usual hours/day, severity, visual/motion/upright triggers, flare duration, precipitating context and recovery to baseline. Define a **minimum viable rehabilitation dose** that remains safe during common flares, plus explicit fall and reassessment thresholds. The plan should avoid both hazardous overexposure and an unplanned slide into prolonged avoidance.
 
 Set a baseline dose and progress one dimension at a time. Integrate CBT-informed principles when threat prediction or avoidance impedes vestibular adaptation. Measure participation and visually complex real-world function, not only symptom provocation. Discuss medication evidence honestly and coordinate migraine or psychiatric treatment as appropriate.
 
@@ -66,4 +87,4 @@ No community-only technique was added. Repeated user reports about graded walkin
 
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/13-persistent-postural-perceptual-dizziness.md)
 
-*Evidence search current to August 25, 2026 · Vestibular, neurology and accessibility review pending*
+*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Vestibular, neurology and accessibility review pending*

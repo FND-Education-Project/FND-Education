@@ -18,6 +18,12 @@
 
 A speech-and-language therapist or another appropriately trained clinician takes a detailed history and observes swallowing when it is safe. Some people need an instrumental study such as fibreoptic endoscopic evaluation of swallowing (FEES) or videofluoroscopy. A functional diagnosis is based on the overall positive pattern, not simply on a normal scan or scope. (*citations* [1](#citation-1))
 
+### Swallowing and throat symptoms can fluctuate
+
+Functional swallowing difficulty or globus may be intermittent, vary from one part of a meal or setting to another, occur in flares, or remain persistent. The pattern may change with texture, attention, fatigue, pain, throat tension or other symptoms. Because swallowing has airway and nutrition consequences, a change in timing does not make it safe to experiment with difficult foods.
+
+If familiar difficulty begins during eating or drinking, follow the person’s assessed swallowing plan. Stop the meal when the current swallow is not safe, remain in the recommended position, and use only a strategy or texture already approved for that person. Do not use distraction as an emergency technique unless the treating clinician has specifically established it as safe. Choking, inability to swallow saliva, breathing difficulty or a substantially changed pattern needs appropriate urgent assessment.
+
 Weight loss, dehydration, recurrent chest infection, progressive difficulty, pain, bleeding or other concerning features need appropriate medical investigation. Do not test your swallowing with increasingly difficult foods at home.
 
 ***
@@ -32,6 +38,12 @@ Follow the person’s current swallowing plan, including recommended texture, po
 
 Useful observations include which consistencies are difficult, whether the problem is before, during or after the swallow, and whether coughing, wet voice, pain or food sticking occurs. Pass these observations to the clinical team without trying to diagnose them.
 
+### When a swallowing episode starts
+
+An intermittent problem can still carry real choking, aspiration or nutrition risk. Stop adding new food or drink until the person is following their established plan. Keep the environment calm, but do not encourage extra swallows, large sips or an unapproved texture to make the symptom pass. If the person has a clinician-taught posture, pacing or release strategy, support that exact plan.
+
+Record duration and meal context only after immediate swallowing and breathing safety has been addressed.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -39,6 +51,12 @@ Useful observations include which consistencies are difficult, whether the probl
 [Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
+
+### Episodic and prolonged presentations
+
+Characterize whether dysphagia, globus or choking fear is persistent, intermittent or meal/context-specific. Record episode duration, consistency and volume, time within the meal, associated respiratory/voice symptoms, nutritional effect, warning and recovery. Fluctuation can be clinically informative but does not establish functional dysphagia and does not remove the need for appropriate airway, neurological and structural assessment.
+
+For an established episodic functional pattern, define a short onset plan that states what intake remains safe, when to stop, which clinician-selected posture, pacing, attention or relaxation strategy may be used, and when reassessment or emergency action is required. Avoid using food challenges to provoke an attack for diagnostic demonstration.
 
 ### Technique outline: functional swallowing assessment
 

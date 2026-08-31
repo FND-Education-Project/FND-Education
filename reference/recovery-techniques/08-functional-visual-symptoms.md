@@ -24,6 +24,18 @@ Treatment starts by explaining the positive evidence that some visual function i
 8. **Hypnotherapy or therapeutic suggestion — E.** Small reports describe suggestion combined with visual practice. This is not established treatment and should be delivered by a qualified clinician with realistic expectations.
 9. **Specialist feedback or non-invasive brain stimulation — E.** Advanced visual feedback and transcranial magnetic stimulation have limited early reports. They belong in specialist or research settings, not as do-it-yourself treatment.
 
+### If visual symptoms come in episodes or suddenly intensify
+
+Functional visual symptoms may be intermittent, fluctuate with environment or task, or remain troublesome for long periods. When a familiar flare begins:
+
+1. **Stop visually hazardous activity.** Do not continue driving, cooking, using tools, navigating stairs or another task that requires reliable vision.
+2. **Reach a stable, familiar setting.** Sit or use the usual mobility/visual support and adjust light or visual complexity according to the person’s established plan.
+3. **Use one practised visual strategy.** This might be a stable target, an ordinary-object task, visual feedback or another specialist-selected cue.
+4. **Do not turn temporary symptom relief into permanent avoidance.** If graded light or visual exposure is part of treatment, return to the agreed level when safe rather than making an unplanned move into prolonged darkness.
+5. **Resume gradually.** Return first to a safe visual task and then to more complex activity.
+
+Sudden painful loss, new one-eye symptoms, flashes/floaters, a curtain-like shadow or acute neurological symptoms need urgent reassessment.
+
 ### A low-risk starting practice
 
 Use only a task already approved as safe: seated, stable, and free of flashing, fast-moving or visually provocative material. Pick one ordinary object and notice its color, edge or position for a short period without repeatedly retesting acuity. Stop if symptoms escalate substantially. Do not practise near stairs, roads, cooking, water or driving.
@@ -39,9 +51,17 @@ Visual loss is sudden, painful, new in one eye, accompanied by flashes/floaters,
 - Help with planned graded practice only; do not remove sunglasses or aids without agreement.
 - Notice useful visual function neutrally and support specialist reassessment for change.
 
+### During a visual flare
+
+Help stop driving, stairs, cooking or another unsafe activity and guide the person only in the way they prefer. Offer the usual aid and make the immediate visual environment manageable **without automatically removing every visual stimulus** if graded exposure is part of their treatment. Use one agreed cue; do not test vision by waving objects, removing aids or surprising the person.
+
 ## For clinicians
 
 Provide a positive diagnosis based on appropriate visual and neurological examination, explain preserved responses constructively, and assess comorbidity. Use examination methods therapeutically only with consent and clarity about their limits. Coordinate ophthalmology, neuro-ophthalmology, orthoptics, neurology and rehabilitation as required.
+
+### Adapting visual rehabilitation for episodic symptoms
+
+Document episode duration, frequency, visual environment, light/contrast/motion demand, migraine or sensory context, associated neurological symptoms and recovery. Rehearse a short plan: **stop hazardous visual activity → stabilize environment/support → one established visual strategy → graded return**. The environmental step should be individualized so acute safety does not unintentionally reinforce long-term dark adaptation or avoidance where graded exposure is the treatment goal.
 
 For photophobia, distinguish adaptive protection from pervasive avoidance and reduce dark adaptation gradually. Specify fall, driving and workplace restrictions individually. Avoid exposure that risks injury or uses shame, surprise or deception.
 
@@ -57,4 +77,4 @@ No community-only technique was added. Repeated reports about light, lenses and 
 
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/08-functional-visual-symptoms.md)
 
-*Evidence search current to August 25, 2026 · Ophthalmology, orthoptics and accessibility review pending*
+*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Ophthalmology, orthoptics and accessibility review pending*

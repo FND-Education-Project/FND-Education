@@ -20,6 +20,12 @@ The most reliable assessment begins with a detailed account from you and anyone 
 
 A normal routine EEG between events does not rule out epilepsy. Some people have both functional seizures and epilepsy, so the diagnosis should identify which event type was recorded and how certain the team is.
 
+### The seizure is episodic, but the surrounding symptoms may last longer
+
+Functional seizures are episodic by definition, but their duration and recovery can vary. Some people have a recognizable warning; some have clusters; some take substantial time to recover. Other functional symptoms—such as jerking, gait change, weakness, speech difficulty or altered sensation—may appear before, during or after a seizure-like event and may last for a different amount of time. Those associated symptoms should be described separately rather than assuming the entire period is one seizure.
+
+At a familiar warning or onset, follow the person’s established safety plan: move away from traffic, water, stairs, heat or other hazards; get into the safest practical position; and use a pre-agreed grounding, attention or breathing strategy only if the person remains able to use it. A first event, a substantially different event, serious injury, unusual breathing or colour change, or prolonged/repeated events outside the person’s plan need appropriate urgent assessment.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -32,6 +38,12 @@ During an event, follow the person’s safety plan, protect them from injury and
 
 Describe what you observed in ordinary language: what happened first, whether the person responded, how breathing and colour looked, how long the event lasted and what recovery was like. Do not decide the diagnosis from a video yourself.
 
+### Before, during and after an episode
+
+The visible seizure-like event may be only one part of a longer period of symptoms. If the person develops their familiar speech, gait, jerking, weakness or sensory changes before or after events, follow the separate safety and recovery plan for those symptoms rather than repeatedly asking whether another seizure is starting. Reduce unnecessary crowding and instructions if that is part of the agreed plan.
+
+Time the event when practical, but do not let timing or filming interfere with safety. Note whether the person returned to their usual baseline between repeated events; that information can be important to the emergency plan and clinical review.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -39,6 +51,12 @@ Describe what you observed in ordinary language: what happened first, whether th
 [Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
+
+### Episodic pattern and longer surrounding flares
+
+For each event type, document warning/prodrome, ictal sequence, duration, frequency, clustering, recovery and return to baseline. Also document motor, speech, cognitive, sensory or gait symptoms that occur around the event but have a different time course. Do not automatically label the entire symptomatic period as one prolonged functional seizure.
+
+Provide a written onset and emergency plan with thresholds that account for the person’s established pattern, coexisting epilepsy and other medical risks. If the patient has a usable warning, adapt one or two treatment skills for that short window; if awareness is lost too quickly, the plan should rely on environmental safety and supporter response instead. A changed semiology or recovery pattern requires renewed differential assessment.
 
 ### Technique outline: typical-event assessment with video-EEG
 

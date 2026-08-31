@@ -28,6 +28,18 @@ Functional Cognitive Disorder can involve disabling problems with attention, mem
 12. **CBT- and metacognition-informed digital self-help — E.** A single-arm feasibility study supports further testing of a guided digital intervention; it does not yet establish benefit.
 13. **Individual cognitive rehabilitation — C/E.** Neuropsychology, occupational therapy or speech-language therapy may combine metacognitive work, strategy training and functional goals when needs are more complex.
 
+### During a cognitive flare
+
+Functional cognitive symptoms may fluctuate sharply or remain persistent. During a familiar period when attention, word finding, sequencing or memory access becomes much harder:
+
+1. **Stop multitasking.** Pause competing conversation, screens or tasks and choose one immediate goal.
+2. **Reduce the information load.** Use one short instruction, one question or one written step at a time.
+3. **Use one established external support.** A checklist, calendar, note, alarm or text prompt can carry information while access is poor.
+4. **Do not repeatedly self-test.** Re-reading, quizzing yourself or restarting a task may consume more of the attention you are trying to recover.
+5. **Resume with a smaller task.** When the flare eases, return to a manageable piece of the original activity and build complexity gradually.
+
+A sudden new confusion state, altered consciousness, new focal neurological symptoms or a major departure from the established pattern needs medical assessment.
+
 ### A low-risk starting practice
 
 Choose one task that matters and set a short, repeatable interval. Make one specific prediction, complete the task without restarting, then record the result and one helpful condition. Use the same method several times before drawing a conclusion. Stop if the exercise becomes compulsive self-testing or substantially increases distress.
@@ -44,9 +56,17 @@ Confusion is sudden, consciousness changes, or cognitive symptoms occur with new
 - Notice strategy use and participation, not just correct recall.
 - Report genuine progression or safety problems rather than assuming all change is functional.
 
+### During a cognitive flare
+
+Use one speaker and one idea at a time. Give extra processing time, point to the person’s usual external support and avoid repeated correction or memory quizzes. If the person needs to stop a safety-sensitive task—driving, medication preparation, cooking or finances—help preserve safety without treating the temporary loss of access as a permanent loss of ability.
+
 ## For clinicians
 
 Establish a positive FCD formulation while evaluating neurodegenerative, neurological, sleep, pain, medication, mood and neurodevelopmental explanations and comorbidities. Use concrete examples of inconsistency and preserved function without adversarial validity testing. Explain uncertainty and follow-up thresholds.
+
+### Adapting cognitive rehabilitation for episodic worsening
+
+Document which cognitive domain changes, episode duration, frequency, sensory/cognitive load, fatigue, pain, sleep, migraine/seizure context and recovery. Rehearse a portable sequence: **single task → reduced input → one external support → graded return to the meaningful task**. Distinguish this established fluctuation from acute delirium, medication effects, seizures, migraine phenomena or progressive decline.
 
 Build treatment around functional goals, metacognition, attention, reduced checking and appropriate compensatory supports. Monitor participation, confidence, distress and daily errors as well as symptom report. Persistent symptoms may still benefit from practical rehabilitation and quality-of-life support.
 
@@ -64,4 +84,4 @@ No community-only technique was added. Repeated user suggestions about planners,
 
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/12-functional-cognitive-disorder.md)
 
-*Evidence search current to August 25, 2026 · Cognitive-neurology, neuropsychology and accessibility review pending*
+*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Cognitive-neurology, neuropsychology and accessibility review pending*

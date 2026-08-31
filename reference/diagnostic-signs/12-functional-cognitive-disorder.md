@@ -20,6 +20,12 @@ For example, the detailed history a person gives during an appointment may show 
 
 Normal imaging or one average screening score does not diagnose FCD. Sleep, pain, medication, mood, attention disorders, neurological disease and many other conditions may affect cognition and can coexist with FCD.
 
+### Cognitive difficulty may fluctuate or remain for long periods
+
+Functional cognitive symptoms can change markedly within a day or between situations, especially as attention and task demands change. A person may have a period in which words, sequencing or concentration become much less accessible and later function better again; another person may have persistent difficulties over a long period. Fluctuation is part of the history, not proof that the person could perform normally by choice.
+
+When a familiar cognitive episode starts, reduce incoming information and multitasking. Pause the task, use one written step, calendar, checklist or other established external aid, and resume only when it is safe and useful. Sudden confusion, altered consciousness, new focal neurological symptoms or a major departure from the established pattern needs medical assessment.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -30,7 +36,11 @@ Normal imaging or one average screening score does not diagnose FCD. Sleep, pain
 
 Do not quiz the person, secretly keep score or use a remembered success to dismiss a later difficulty. With permission, you can provide examples of what has changed, what remains possible and how the pattern affects daily life. Try to describe actual events rather than deciding whether the person “really forgot.”
 
-New confusion, a rapid change in thinking or other urgent neurological or medical symptoms still needs appropriate assessment.
+### When thinking or word finding suddenly becomes harder
+
+Reduce the amount of information being presented. Use one question or instruction at a time, allow extra processing time and point to the person’s usual written or electronic aid. Avoid repeatedly correcting, quizzing or demanding recall while the person is overloaded.
+
+A short period of difficulty and a longer cognitive flare can both be genuine. If useful, note the task, competing demands, duration, associated FND or migraine symptoms and recovery. New confusion, a rapid change in thinking or other urgent neurological or medical symptoms still needs appropriate assessment.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -39,6 +49,12 @@ New confusion, a rapid change in thinking or other urgent neurological or medica
 [Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
+
+### Episodic and prolonged presentations
+
+Characterize fluctuations rather than reducing them to “good days and bad days”: onset, duration, frequency, cognitive domain, task and sensory load, fatigue, pain, sleep, medication, mood, migraine or seizure context, and recovery. Internal inconsistency may include preserved function at some times and impaired access at others, but the contrast must be clinically meaningful and not better explained by differing task demands or another disorder.
+
+For episodic deterioration, develop a brief plan using reduced cognitive load, single-tasking and established external supports. Document the person’s baseline and safety-sensitive activities so a new progressive or acute pattern is not automatically attributed to FCD.
 
 ### Technique outline: assessing internal cognitive inconsistency
 

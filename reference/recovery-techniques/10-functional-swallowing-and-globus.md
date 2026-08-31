@@ -26,6 +26,20 @@ Swallowing treatment must begin with an appropriate assessment of airway and nut
 10. **Discuss gut–brain neuromodulator medication for assessed globus — E/adjacent.** A 2026 systematic review of functional esophageal disorders found improvement in some globus trials, but it did not establish benefit for functional dysphagia and was not specific to FND. A gastroenterology or other appropriate prescriber should match any medication to the exact phenotype, comorbidity and adverse-effect risk.
 11. **Review unnecessary restrictions — C.** A clinician can reconsider diet texture, feeding equipment or avoidance that is no longer needed. Restrictions should be removed only after appropriate safety and nutritional review—not as a test of willpower.
 
+### If swallowing difficulty comes in episodes
+
+Functional swallowing symptoms or globus may fluctuate, occur during particular meals or settings, or remain persistent. An intermittent pattern can still carry real choking, aspiration, dehydration or nutrition risk, so the onset response is more safety-limited than many other FND techniques.
+
+When familiar difficulty begins:
+
+1. **Follow the assessed swallowing plan first.** Stay in the recommended position and use only the texture, volume and pacing already established as safe.
+2. **Stop intake if the current swallow is not safe.** Do not keep taking larger sips or harder foods to test whether the episode has passed.
+3. **Use only an approved strategy.** A clinician-selected posture, jaw/laryngeal release, pacing or attention strategy may be appropriate for some people.
+4. **Do not improvise distraction during choking or uncertain swallowing.** External focus belongs only where swallowing safety has already been established.
+5. **Resume gradually within the plan.** Do not jump to a more difficult texture because one swallow went well.
+
+Choking, inability to swallow saliva, breathing difficulty, blue/grey colour, progressive food sticking or a substantially changed pattern needs appropriate urgent assessment.
+
 ### Do not use this page as a swallowing test
 
 There is no universal at-home food challenge. If a clinician has already confirmed a safe practice, keep the person upright and alert, use the specified texture and amount, and stop for coughing, wet/gurgly voice, breathlessness, chest discomfort or repeated sticking. Otherwise, seek assessment before graded food or drink practice.
@@ -41,9 +55,17 @@ There is inability to swallow saliva, choking with breathing difficulty, suspect
 - Do not pressure the person to eat faster or remove a safe alternative communication or nutrition plan.
 - Help record meaningful changes—meal duration, range of textures, hydration and participation—and report warning signs.
 
+### During a swallowing flare
+
+Stop adding food or drink when the person’s current plan says swallowing is unsafe. Support the exact posture, pacing or texture already prescribed; do not improvise a harder food, larger sip or distraction exercise. Keep the setting calm without turning each swallow into a test. If the pattern is outside the established plan or there are airway warning signs, seek appropriate assessment.
+
 ## For clinicians
 
 Clarify whether the main presentation is oropharyngeal dysphagia, esophageal symptoms, globus, fear of choking, excessive effort or another functional upper-aerodigestive pattern. Perform or arrange clinical and instrumental swallowing, ENT, gastrointestinal and neurological assessment as indicated. State explicitly what has and has not been shown to be safe.
+
+### Adapting treatment for intermittent swallowing symptoms
+
+Document episode duration, meal phase, food/liquid consistency and volume, setting, warning sensations, respiratory/voice changes, associated FND symptoms and recovery. Give a written onset plan specifying **what remains safe to consume, when to stop, which exact strategy is approved, and when emergency or reassessment thresholds are met**. If safe external focus or graded meal complexity is part of treatment, establish that during assessment rather than improvising it during an acute flare.
 
 Use positive explanation, tension reduction, attention change and graded functional swallowing only within that assessment. Monitor nutrition, hydration, aspiration indicators and quality of life. Coordinate speech-language pathology, dietetics, ENT, gastroenterology, neurology and psychological care where relevant.
 
@@ -60,4 +82,4 @@ No community-only technique was added. Online reports about distraction, throat 
 
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/10-functional-swallowing-and-globus.md)
 
-*Evidence search current to August 25, 2026 · Speech-language-pathology, swallowing-safety and accessibility review pending*
+*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Speech-language-pathology, swallowing-safety and accessibility review pending*

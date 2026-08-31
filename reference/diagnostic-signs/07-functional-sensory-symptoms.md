@@ -20,6 +20,12 @@ Older teaching sometimes treated sharply split sensation at the body’s midline
 
 Your examination may still help by documenting the symptom accurately and placing it beside the history, motor examination and necessary tests. The aim is not to catch you giving two different answers.
 
+### Sensory symptoms may come and go or remain
+
+Functional numbness, tingling, altered sensation or hypersensitivity may be intermittent, fluctuate in location or intensity, occur during broader symptom flares, or persist for long periods. The pattern can change with activity, attention, pain, migraine, fatigue or sensory load in some people. Those changes are useful history but are not a diagnosis by themselves.
+
+At the onset of familiar reduced or distorted sensation, protect the affected area from falls, burns, sharp objects and pressure injury. Use a previously taught sensory or attention strategy only if it is safe. Sudden new one-sided numbness, rapidly spreading symptoms or sensory change with weakness, speech difficulty or another acute neurological symptom needs medical assessment rather than being assumed to be FND.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -30,6 +36,12 @@ Your examination may still help by documenting the symptom accurately and placin
 
 Do not use pins, heat, ice or repeated touching to map another person’s sensation at home. Reduced sensation can make injury easier, and interpretation requires anatomical knowledge and the rest of the examination. Help the person describe the location, timing and practical effect of the symptom instead.
 
+### When sensation changes suddenly
+
+An episode may last briefly or become part of a much longer flare. Help protect numb or poorly controlled areas from heat, pressure, cuts and falls. Ask before touching a hypersensitive area, and use only the sensory or grounding method already agreed with the person. Do not repeatedly test whether they can feel an object.
+
+Once safe, note location, quality, onset, duration, associated symptoms and recovery. A familiar intermittent pattern and a new acute neurological pattern should not automatically be treated as the same thing.
+
 Sudden one-sided numbness, a rapidly changing pattern or sensory loss with other urgent symptoms needs appropriate medical assessment even when the person already has FND.
 
 ***
@@ -39,6 +51,12 @@ Sudden one-sided numbness, a rapidly changing pattern or sensory loss with other
 [Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
+
+### Episodic and prolonged presentations
+
+Document temporal pattern as carefully as anatomical distribution: continuous versus episodic symptoms, duration, frequency, migration, warning, activity or environmental context, associated motor/migraine/seizure-like symptoms and recovery. A sensory symptom that is absent during examination can still be clinically important, but fluctuation alone is weak evidence for a functional diagnosis.
+
+For an established episodic functional pattern, provide an onset plan that emphasizes injury prevention and a limited, previously trained sensory-discrimination, functional-task or attention strategy. New or substantially changed sensory episodes still require appropriate anatomical and medical reassessment.
 
 ### Technique outline: careful sensory mapping
 

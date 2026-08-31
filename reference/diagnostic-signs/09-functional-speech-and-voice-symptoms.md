@@ -20,6 +20,12 @@ The assessment compares how communication works across different situations. A d
 
 A change between tasks is not enough by itself. Fatigue, pain, hearing, language background, medication and structural or neurological disorders may all affect communication.
 
+### Speech symptoms may come in episodes or last much longer
+
+Stuttering, slurred or effortful speech, loss of voice, word blocking or inability to speak may appear only at certain times, last through a longer flare, or remain persistent. Some people find that fatigue, time pressure, competing conversation, sensory overload or another FND episode makes communication harder. These patterns vary and do not mean the person can simply choose to speak normally in a quieter moment.
+
+At the onset of a familiar episode, reduce communication demand: pause, move to a quieter or less pressured setting if possible, use writing, text-to-speech or another established backup, and use one speech-language strategy that has already proved helpful. Do not force repeated words or demand normal speech. Sudden new speech change with facial droop, weakness, severe headache, confusion or another acute neurological symptom needs urgent assessment.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -30,6 +36,12 @@ A change between tasks is not enough by itself. Fatigue, pain, hearing, language
 
 Do not demand singing, repetition or “normal speech” to test the person. Give them time, reduce interruptions and use their preferred backup communication when needed. If a speech-and-language therapist has identified a helpful task, use it only in the agreed therapeutic way rather than as proof that the symptom can be switched off.
 
+### When speech or voice changes suddenly
+
+A short episode may need only time and one familiar cue; another may continue for hours or become part of a longer flare. Reduce questions, noise and time pressure. Ask one thing at a time, allow extra response time and switch to the person’s backup communication without treating it as giving up.
+
+If the person has an agreed speech cue—such as rhythm, an automatic phrase or another speech-language strategy—offer it once rather than repeatedly coaching. Note the setting, duration, associated symptoms and recovery when that information would help their clinician.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -37,6 +49,12 @@ Do not demand singing, repetition or “normal speech” to test the person. Giv
 [Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
+
+### Episodic and prolonged presentations
+
+Document whether the communication problem is persistent, intermittent or context-dependent and record duration, frequency, warning symptoms, fatigue and sensory/cognitive load, social or task demands, relationship to other FND symptoms and recovery. Functional communication symptoms may be highly variable, but variability by itself is not diagnostic.
+
+For episodic symptoms, assess a representative sample when possible and consider safely recorded audio/video if the episode is not present in clinic. Convert the best preserved output or useful cross-task change into a brief onset strategy that can be used in real settings. Ensure the plan includes communication access when speech is unavailable; augmentative communication should not be withheld to force recovery.
 
 ### Technique outline: cross-task communication comparison
 
