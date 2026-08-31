@@ -1,17 +1,11 @@
-# Build and Use Your Personal Symptom Map
-
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 4: Mapping Your Individual Condition](README.md) › **Build and Use Your Personal Symptom Map**
 <!-- NAV-BREADCRUMB:END -->
 
+# Build and Use Your Personal Symptom Map
+
 This is a focused authoring template within Module 4. Build the completed page around this scope: Guide the author through separating confirmed FND symptoms, separate diagnoses, unresolved symptoms, medication effects, warning signs, possible triggers, helpful strategies, preserved abilities, and meaningful changes; include a low-burden way to track only patterns that could change a decision.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND symptom map; comorbidity map; triggers; warning signs; symptom tracking; functional symptoms; associated symptoms; separate diagnoses. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Build and Use Your Personal Symptom Map.” Mark historical, disputed, or potentially stigmatizing language clearly.
@@ -28,14 +22,24 @@ This is a focused authoring template within Module 4. Build the completed page a
 
 **What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Which symptoms are confirmed as FND? Which are separate diagnoses? Which remain unexplained? What patterns are worth tracking? What would count as a meaningful change rather than ordinary fluctuation? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
 
-**What should the reader open next?** Use these module links: [Module overview](README.md) Add cross-module links later only when they answer a clear next question.
-
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Build and Use Your Personal Symptom Map.” Develop the supporter guidance from these points: Contributing observations without overruling the person’s account. Helping identify patterns without turning daily life into surveillance. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 **How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Use this section to distinguish categories rather than list differential diagnoses: confirmed FND symptoms, associated symptoms, separate diagnosed conditions, medication effects, possible contributors, and symptoms still awaiting assessment. Warn against moving uncertain symptoms into the FND category by default. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
@@ -47,9 +51,9 @@ This is a focused authoring template within Module 4. Build the completed page a
 **How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. State that the map should be updated after a new diagnosis, major medication change, injury, new episode form, sustained loss of function, or clinician reassessment. It must never overrule urgent assessment when a symptom is meaningfully different. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
 
@@ -58,6 +62,8 @@ This is a focused authoring template within Module 4. Build the completed page a
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+***
 
 ## Research and Sources
 

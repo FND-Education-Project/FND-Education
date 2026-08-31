@@ -1,17 +1,11 @@
-# Causes, Risk Factors, Triggers, and Maintaining Factors
-
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 3: Causes, Mechanisms, and Honest Uncertainty](README.md) › **Causes, Risk Factors, Triggers, and Maintaining Factors**
 <!-- NAV-BREADCRUMB:END -->
 
+# Causes, Risk Factors, Triggers, and Maintaining Factors
+
 This is a focused authoring template within Module 3. Build the completed page around this scope: Define cause, association, vulnerability, risk factor, trigger, mechanism, and maintaining factor in simple terms; explain why the event that starts symptoms may differ from what keeps them going; and prevent group-level findings from becoming unsupported personal conclusions.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND causes; FND mechanisms; risk factors; triggers; perpetuating factors; predictive processing; attention; agency; neuroplasticity; biopsychosocial formulation. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Causes, Risk Factors, Triggers, and Maintaining Factors.” Mark historical, disputed, or potentially stigmatizing language clearly.
@@ -28,14 +22,24 @@ This is a focused authoring template within Module 3. Build the completed page a
 
 **What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Which parts of this explanation are established evidence and which are theory? Is this factor a cause, trigger, risk, or maintaining influence? Does it apply to me specifically? Would the treatment still make sense if the proposed mechanism is wrong? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
 
-**What should the reader open next?** Use these module links: [Module overview](README.md); [Brain Networks, Prediction, Attention, and Agency](02-brain-networks-prediction-attention-and-agency.md); [Physical, Psychological, and Social Factors—and How to Judge Claims](03-physical-psychological-and-social-factors-and-how-to-judge-claims.md) Add cross-module links later only when they answer a clear next question.
-
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Causes, Risk Factors, Triggers, and Maintaining Factors.” Develop the supporter guidance from these points: Avoiding blame and unwanted searches for hidden trauma. Listening to the person’s understanding without enforcing a preferred theory. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 **How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Separate causal questions from conditions that can resemble or worsen FND. Note that migraine, epilepsy, sleep disorders, pain, medication effects, injury, psychiatric conditions, and autonomic disorders may be triggers, comorbidities, alternative explanations, or unrelated findings depending on the person. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
@@ -47,9 +51,9 @@ This is a focused authoring template within Module 3. Build the completed page a
 **How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Explain that adopting a mechanism theory should not stop investigation of new or changing symptoms. Also flag emotional or physical harm from treatment that insists on trauma, exposure, exercise, or another theory despite worsening or lack of individual relevance. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
 
@@ -58,6 +62,8 @@ This is a focused authoring template within Module 3. Build the completed page a
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+***
 
 ## Research and Sources
 

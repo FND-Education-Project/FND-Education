@@ -1,19 +1,13 @@
-# Positive Signs and the Neurological Examination
-
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 2: How FND Is Diagnosed](README.md) › **Positive Signs and the Neurological Examination**
 <!-- NAV-BREADCRUMB:END -->
+
+# Positive Signs and the Neurological Examination
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 FND should not be diagnosed simply because a scan was normal or because no other explanation has been found. The diagnosis should be supported by features in the history or examination that positively fit a functional neurological problem. This page explains what those features may show, as well as what they cannot show.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For the Person With FND
 
 The word **positive** can be confusing here. It does not mean that the finding is good, nor does it mean that a blood test came back positive. A **positive sign**, sometimes called a **rule-in sign**, is something the clinician observes that gives evidence *for* an FND diagnosis.
@@ -55,9 +49,11 @@ Write down the clinician’s explanation in two parts: **the sign that was found
 Do not repeatedly perform Hoover’s sign, tremor tests or other neurological tests on yourself. These signs require training and context to interpret. Repeatedly testing a symptom can also increase attention, worry or physical strain without making the diagnosis clearer.
 
 ***
-- [Module overview](README.md) — a short introduction and guide to this module.
-- **Positive Signs and the Neurological Examination — current page**
-- [Tests, Diagnostic Uncertainty, and Coexisting Conditions](02-tests-diagnostic-uncertainty-and-coexisting-conditions.md) — what different tests can answer, dual diagnoses, and when reassessment may be appropriate.
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Family, Friends, and Other Supporters
 
@@ -70,6 +66,12 @@ Do not test the person at home, secretly distract them to see whether a symptom 
 Continue to take new or substantially changed symptoms seriously. A previous FND diagnosis does not make every later symptom functional.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 **How can clinicians help the patient understand a positive sign?** Name the diagnosis, identify the sign that supports it and connect the sign to the patient’s own symptom. When appropriate and with consent, demonstrate the finding rather than only describing it. Explain preserved capacity without implying conscious control: “Your leg produced stronger automatic movement during this task, even though deliberate movement remains difficult.” Avoid relying on a normal scan, a history of stress or the absence of another diagnosis as the explanation. (*citations* [1](#citation-1), [2](#citation-2))
@@ -81,9 +83,9 @@ Continue to take new or substantially changed symptoms seriously. A previous FND
 **When should the diagnosis or examination be revisited?** Reassess when the original diagnosis was never supported by a clearly described positive sign, when the observed sign does not match the symptom being diagnosed, when objective findings conflict with the formulation, or when the patient develops a new or substantially different pattern. FND and another neurological or medical condition can coexist. Continued care requires protection against both unnecessary repeated investigation and diagnostic overshadowing.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
 
@@ -92,6 +94,8 @@ Continue to take new or substantially changed symptoms seriously. A previous FND
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+***
 
 ## Research and Sources
 

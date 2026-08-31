@@ -1,17 +1,11 @@
-# Swallowing, Globus, and Nutrition Safety
-
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 9: Speech, Voice, Swallowing, and Breathing Symptoms](README.md) › **Swallowing, Globus, and Nutrition Safety**
 <!-- NAV-BREADCRUMB:END -->
 
+# Swallowing, Globus, and Nutrition Safety
+
 This is a focused authoring template within Module 9. Build the completed page around this scope: Cover swallowing difficulty, lump sensation, eating and drinking effects, aspiration and nutrition concerns, speech-language and medical assessment, instrumental testing, safe adaptations, and reasons for urgent reassessment.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: functional speech disorder; functional voice disorder; dysphonia; aphonia; mutism; functional stuttering; globus; functional dysphagia; cough; breathing-pattern disorder. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Swallowing, Globus, and Nutrition Safety.” Mark historical, disputed, or potentially stigmatizing language clearly.
@@ -28,14 +22,24 @@ This is a focused authoring template within Module 9. Build the completed page a
 
 **What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Which part of speech, voice, swallowing, or breathing is affected? What safety assessment is needed? Would a speech-language pathologist help? What communication alternative should be available? Which breathing changes require emergency help? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
 
-**What should the reader open next?** Use these module links: [Module overview](README.md); [Speech, Voice, and Word Blocking](01-speech-voice-and-word-blocking.md); [Cough, Breathing, and Upper-Airway Symptoms](03-cough-breathing-and-upper-airway-symptoms.md) Add cross-module links later only when they answer a clear next question.
-
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Swallowing, Globus, and Nutrition Safety.” Develop the supporter guidance from these points: Allowing time and using agreed alternatives without automatically speaking for the person. Responding to breathing or swallowing danger rather than assuming it is functional. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 **How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Cover stroke, neuromuscular disease, neurodegeneration, structural throat or vocal-cord problems, aspiration, reflux, asthma, heart or lung disease, allergy, infection, and medication effects. Keep swallowing and breathing safety distinct from communication access. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
@@ -47,9 +51,9 @@ This is a focused authoring template within Module 9. Build the completed page a
 **How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Highlight choking, possible aspiration, inability to manage fluids or nutrition, blue or grey colour, severe breathing distress, chest pain, new focal neurological signs, and a new or markedly changed swallowing or breathing problem. Avoid assuming a prior functional diagnosis makes these safe. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
 
@@ -58,6 +62,8 @@ This is a focused authoring template within Module 9. Build the completed page a
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+***
 
 ## Research and Sources
 

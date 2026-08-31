@@ -1,17 +1,11 @@
-# Migraine
-
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 11: Pain, Migraine, Fatigue, and Sleep](README.md) › **Migraine**
 <!-- NAV-BREADCRUMB:END -->
 
+# Migraine
+
 This is a focused authoring template within Module 11. Build the completed page around this scope: Explain migraine as a separate neurological disorder that may coexist with or trigger FND symptoms, common overlap and diagnostic confusion, sensory effects, evidence-based migraine care, tracking, supporter help, and urgent headache reassessment.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND pain; chronic pain; migraine and FND; fatigue; post-exertional worsening; insomnia; sleep disorder; sleep apnea; central sensitization; nociplastic pain. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Migraine.” Mark historical, disputed, or potentially stigmatizing language clearly.
@@ -28,14 +22,24 @@ This is a focused authoring template within Module 11. Build the completed page 
 
 **What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Is migraine being treated as its own condition? Has a sleep disorder been assessed? What type of pain is suspected? Does activity cause immediate or delayed worsening? Which medical causes of fatigue have been considered? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
 
-**What should the reader open next?** Use these module links: [Module overview](README.md); [Chronic Pain](01-chronic-pain.md); [Fatigue and Post-Activity Worsening](03-fatigue-and-post-activity-worsening.md); [Sleep Problems and Sleep Disorders](04-sleep-problems-and-sleep-disorders.md) Add cross-module links later only when they answer a clear next question.
-
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Migraine.” Develop the supporter guidance from these points: Respecting pain and fatigue without assuming permanent incapacity. Helping plan within available capacity without policing activity. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 **How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Cover injury, inflammatory or neurological disease, primary headache disorders, sleep apnea and other sleep disorders, anemia, infection, endocrine disease, medication effects, ME/CFS, fibromyalgia, and mood disorders. Emphasize that migraine is a separate neurological diagnosis. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
@@ -47,9 +51,9 @@ This is a focused authoring template within Module 11. Build the completed page 
 **How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Flag a new severe headache, new neurological signs, fever, chest symptoms, progressive weakness, major sleep-breathing concerns, unexplained weight or systemic change, or a marked change in pain or fatigue. Encourage review of treatable contributors and medication effects. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
 
@@ -58,6 +62,8 @@ This is a focused authoring template within Module 11. Build the completed page 
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+***
 
 ## Research and Sources
 

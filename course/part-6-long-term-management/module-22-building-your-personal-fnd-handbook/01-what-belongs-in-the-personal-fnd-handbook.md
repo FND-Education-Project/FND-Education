@@ -1,17 +1,11 @@
-# What Belongs in the Personal FND Handbook
-
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 22: Building Your Personal FND Handbook](README.md) › **What Belongs in the Personal FND Handbook**
 <!-- NAV-BREADCRUMB:END -->
 
+# What Belongs in the Personal FND Handbook
+
 This is a focused authoring template within Module 22. Build the completed page around this scope: Define the layers of information: diagnosis and positive evidence, separate conditions, usual symptoms, warning signs, medications, accessibility and communication needs, episode and emergency criteria, care-team roles, goals, and supporter instructions.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: Personal FND Handbook; FND emergency plan; symptom plan; appointment summary; medication list; support instructions; relapse plan; accessibility needs. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “What Belongs in the Personal FND Handbook.” Mark historical, disputed, or potentially stigmatizing language clearly.
@@ -28,14 +22,24 @@ This is a focused authoring template within Module 22. Build the completed page 
 
 **What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: What must someone know in the first minute? Which information belongs in an appointment summary rather than an emergency card? Who may access it? Which clinician should review safety criteria? When is the next review date? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
 
-**What should the reader open next?** Use these module links: [Module overview](README.md); [Building, Using, and Reviewing the Handbook](02-building-using-and-reviewing-the-handbook.md) Add cross-module links later only when they answer a clear next question.
-
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “What Belongs in the Personal FND Handbook.” Develop the supporter guidance from these points: Learning where the handbook is, how to use it, and what remains the person’s decision. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 **How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Use this section to distinguish the handbook’s categories: confirmed diagnosis, positive evidence, separate conditions, unresolved questions, usual patterns, possible triggers, emergency criteria, and personal preferences. Prevent uncertain theories from becoming recorded facts. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
@@ -47,9 +51,9 @@ This is a focused authoring template within Module 22. Build the completed page 
 **How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Update the handbook after a new diagnosis, medication change, altered episode pattern, major accessibility change, new clinician, treatment decision, or revised emergency criteria. Outdated instructions can be more dangerous than having no detailed plan. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
 
@@ -58,6 +62,8 @@ This is a focused authoring template within Module 22. Build the completed page 
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+***
 
 ## Research and Sources
 
