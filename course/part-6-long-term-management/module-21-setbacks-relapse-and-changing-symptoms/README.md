@@ -1,5 +1,10 @@
 # Module 21 — Setbacks, Relapse, and Changing Symptoms
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 21: Setbacks, Relapse, and Changing Symptoms](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Setbacks, Relapse, and Changing Symptoms** and helps readers choose the most useful page.
@@ -20,3 +25,9 @@ This short module introduces **Setbacks, Relapse, and Changing Symptoms** and he
 ⬅️ **Previous module:** [Work, Disability, and Community Participation](../../part-5-living-with-fnd/module-20-work-disability-and-community-participation/README.md)
 
 ➡️ **Next module:** [Build Your Personal FND Handbook](../module-22-building-your-personal-fnd-handbook/README.md)
+
+<!-- NAV-CONTEXT:START -->
+**Course:** [← Previous module](../../part-5-living-with-fnd/module-20-work-disability-and-community-participation/README.md) · [Course index](../../README.md) · [Next module →](../module-22-building-your-personal-fnd-handbook/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

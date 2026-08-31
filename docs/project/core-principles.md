@@ -1,5 +1,10 @@
 # Core Principles
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › Project Documentation › **Core Principles**
+<!-- NAV-BREADCRUMB:END -->
+
+
 These principles guide how FND Education will research, write, and present material.
 
 ## Claims should come from identifiable sources
@@ -42,7 +47,12 @@ Explaining a symptom without helping the reader identify safe next steps leaves 
 
 Information for support persons should improve safety, understanding, confidence, and independence. It should not turn a family member into a clinician, therapist, or supervisor.
 
-
 ## Clinical information should remain useful to the patient
 
 Material for clinicians should be organized around how the clinician can help the patient understand the condition and their own presentation, identify what may help, and support realistic improvement. When a symptom persists or is unlikely to improve, useful care may still include validation, symptom relief, safety planning, rehabilitation where appropriate, accessibility, participation, communication, quality of life, supporter needs, and agreed reassessment. Limited recovery must not be treated as a failure of effort or a reason to withdraw appropriate care.
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

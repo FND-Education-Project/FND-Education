@@ -1,5 +1,10 @@
 # Module 20 — Work, Disability, and Community Participation
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 20: Work, Disability, and Community Participation](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Work, Disability, and Community Participation** and helps readers choose the most useful page.
@@ -20,3 +25,9 @@ This short module introduces **Work, Disability, and Community Participation** a
 ⬅️ **Previous module:** [Healthcare Communication and Self-Advocacy](../module-19-healthcare-communication-and-self-advocacy/README.md)
 
 ➡️ **Next module:** [Setbacks, Relapse, and Changing Symptoms](../../part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/README.md)
+
+<!-- NAV-CONTEXT:START -->
+**Course:** [← Previous module](../module-19-healthcare-communication-and-self-advocacy/README.md) · [Course index](../../README.md) · [Next module →](../../part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

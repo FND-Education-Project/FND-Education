@@ -1,5 +1,10 @@
 # Module 14 — Rehabilitation and Neuroplastic Change
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 14: Rehabilitation and Neuroplastic Change](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Rehabilitation and Neuroplastic Change** and helps readers choose the most useful page.
@@ -20,3 +25,9 @@ This short module introduces **Rehabilitation and Neuroplastic Change** and help
 ⬅️ **Previous module:** [Build Your FND Treatment Team](../module-13-building-an-individual-treatment-team/README.md)
 
 ➡️ **Next module:** [Pacing Activity and Avoiding Boom-and-Bust](../module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md)
+
+<!-- NAV-CONTEXT:START -->
+**Course:** [← Previous module](../module-13-building-an-individual-treatment-team/README.md) · [Course index](../../README.md) · [Next module →](../module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -1,5 +1,10 @@
 # Functional Cognitive Disorder
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Cognitive Disorder**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Structured history and cognitive assessment looking for internal inconsistency.  
@@ -83,6 +88,13 @@ Show how the clinician looks for a meaningful pattern across all four, rather th
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/12-functional-cognitive-disorder.md) · [Related course page](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 ### Evidence notes

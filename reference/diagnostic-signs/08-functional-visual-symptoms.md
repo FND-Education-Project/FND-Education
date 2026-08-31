@@ -1,5 +1,10 @@
 # Functional Visual Symptoms
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Visual Symptoms**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Positive demonstration of preserved visual function during a complete ophthalmic or neuro-ophthalmic assessment.  
@@ -86,6 +91,13 @@ Provide a static diagram as the default media for readers who are sensitive to m
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/08-functional-visual-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/02-visual-symptoms-photophobia-and-sensory-overload.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 ### Evidence notes

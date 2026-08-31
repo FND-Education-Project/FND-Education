@@ -1,5 +1,10 @@
 # Content-Creator Guide 3 — Skills for Warnings and Seizure Onset
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Content-Creator Guide 3 — Skills for Warnings and Seizure Onset**
+<!-- NAV-BREADCRUMB:END -->
+
+
 This guide teaches the ideas behind [Booklet 3: Skills for Warnings and Seizure Onset](03-skills-for-warnings-and-seizure-onset.md). It is for a content creator who needs to understand why an onset skill is used, how it differs from generic relaxation, and how to present practice without implying that a person should be able to stop every seizure.
 
 All people and examples are fictional composites. Skills must be tested within an individualized safety and clinical plan.
@@ -199,3 +204,9 @@ Before drafting, the creator should be able to explain:
 [Booklet 3 production outline](03-skills-for-warnings-and-seizure-onset.md) · [Series overview](README.md) · [Evidence and unification method](../evidence-and-unification-method.md)
 
 *Content-creator teaching guide created August 25, 2026 · Clinical, medical-safety, lived-experience, and accessibility review pending*
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](../../README.md) · [Related course page](../../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+
+**Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

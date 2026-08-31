@@ -1,5 +1,10 @@
 # Evidence Standard
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › Project Documentation › **Evidence Standard**
+<!-- NAV-BREADCRUMB:END -->
+
+
 Every substantial educational page will distinguish among the following kinds of information.
 
 ## 1. Established or well-supported evidence
@@ -32,3 +37,8 @@ Experiences, adaptations, and self-management ideas reported by people living wi
 - Do not turn a plausible explanation into established fact.
 - Date evidence reviews so readers can see how current they are.
 
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

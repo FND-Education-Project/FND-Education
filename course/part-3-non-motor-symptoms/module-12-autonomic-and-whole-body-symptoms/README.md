@@ -1,5 +1,10 @@
 # Module 12 — Autonomic and Whole-Body Symptoms
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 12: Autonomic and Whole-Body Symptoms](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Autonomic and Whole-Body Symptoms** and helps readers choose the most useful page.
@@ -20,3 +25,9 @@ This short module introduces **Autonomic and Whole-Body Symptoms** and helps rea
 ⬅️ **Previous module:** [Pain, Migraine, Fatigue, and Sleep](../module-11-pain-migraine-fatigue-and-sleep/README.md)
 
 ➡️ **Next module:** [Build Your FND Treatment Team](../../part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md)
+
+<!-- NAV-CONTEXT:START -->
+**Course:** [← Previous module](../module-11-pain-migraine-fatigue-and-sleep/README.md) · [Course index](../../README.md) · [Next module →](../../part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

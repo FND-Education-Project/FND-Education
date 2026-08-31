@@ -1,5 +1,10 @@
 # Module 13 — Build Your FND Treatment Team
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 13: Building an Individual Treatment Team](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Build Your FND Treatment Team** and helps readers choose the most useful page.
@@ -20,3 +25,9 @@ This short module introduces **Build Your FND Treatment Team** and helps readers
 ⬅️ **Previous module:** [Autonomic and Whole-Body Symptoms](../../part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/README.md)
 
 ➡️ **Next module:** [Rehabilitation and Neuroplastic Change](../module-14-rehabilitation-and-neuroplastic-change/README.md)
+
+<!-- NAV-CONTEXT:START -->
+**Course:** [← Previous module](../../part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/README.md) · [Course index](../../README.md) · [Next module →](../module-14-rehabilitation-and-neuroplastic-change/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

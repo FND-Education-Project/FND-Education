@@ -1,5 +1,10 @@
 # Recovery Techniques for Functional Cognitive Disorder
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Cognitive Disorder**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** FCD, functional memory symptoms, functional cognitive symptoms and cognitive symptoms within FND.
@@ -85,3 +90,9 @@ No community-only technique was added. Repeated user suggestions about planners,
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/12-functional-cognitive-disorder.md)
 
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Cognitive-neurology, neuropsychology and accessibility review pending*
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/12-functional-cognitive-disorder.md) · [Related course page](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

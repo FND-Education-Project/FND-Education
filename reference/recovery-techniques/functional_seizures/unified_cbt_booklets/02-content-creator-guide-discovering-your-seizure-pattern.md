@@ -1,5 +1,10 @@
 # Content-Creator Guide 2 — Discovering Your Seizure Pattern
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Content-Creator Guide 2 — Discovering Your Seizure Pattern**
+<!-- NAV-BREADCRUMB:END -->
+
+
 This guide teaches the ideas behind [Booklet 2: Discovering Your Seizure Pattern](02-discovering-your-seizure-pattern.md). Its purpose is to help an inexperienced content creator teach observation and formulation without turning the reader into a full-time symptom detective or inventing a psychological cause.
 
 All examples are fictional composites. A real formulation belongs to the person and should be reviewed with an appropriately trained clinician.
@@ -172,3 +177,9 @@ Before drafting, the creator should be able to explain:
 [Booklet 2 production outline](02-discovering-your-seizure-pattern.md) · [Series overview](README.md) · [Evidence and unification method](../evidence-and-unification-method.md)
 
 *Content-creator teaching guide created August 25, 2026 · Clinical, trauma-informed, and lived-experience review pending*
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](../../README.md) · [Related course page](../../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+
+**Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

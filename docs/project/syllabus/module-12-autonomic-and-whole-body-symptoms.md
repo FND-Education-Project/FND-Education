@@ -1,5 +1,10 @@
 # Module 12 — Autonomic and Whole-Body Symptoms
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 12 — Autonomic and Whole-Body Symptoms**
+<!-- NAV-BREADCRUMB:END -->
+
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Three: Common Non-Motor Difficulties**
@@ -47,3 +52,9 @@ The reader can discuss autonomic symptoms more precisely while remaining open to
 ---
 
 [← Module 11: Pain, Migraine, Fatigue, and Sleep](module-11-pain-migraine-fatigue-and-sleep.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 13: Building an Individual Treatment Team →](module-13-building-an-individual-treatment-team.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

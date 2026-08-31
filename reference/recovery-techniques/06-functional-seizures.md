@@ -1,5 +1,10 @@
 # Recovery Techniques for Functional Seizures
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Seizures**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** dissociative seizures, psychogenic nonepileptic seizures (PNES), nonepileptic attacks and functional/dissociative seizures.
@@ -93,3 +98,9 @@ The two **L** techniques are included as repeated community experience, not clin
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/06-functional-seizures.md) · [CBT resources and unified booklets](functional_seizures/README.md)
 
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/03-recovery-treatment-and-daily-life.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

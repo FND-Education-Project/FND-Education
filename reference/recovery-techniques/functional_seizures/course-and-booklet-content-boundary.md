@@ -1,5 +1,10 @@
 # What the Online Course Teaches and What the Booklets Repeat
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Reference Library](../../README.md) › [Recovery Techniques](../README.md) › [Functional Seizure Recovery Materials](README.md) › **What the Online Course Teaches and What the Booklets Repeat**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Editorial boundary for reviewers:** The online course is the main place for broad FND education. The booklets briefly repeat only what a person needs in order to use a standalone functional-seizure exercise safely, then add seizure-specific practice.
 
 ## The simple rule
@@ -55,3 +60,9 @@ Use a one-page “What you need before this booklet” illustrated recap, a marg
 [Resource map](README.md) · [Evidence method](evidence-and-unification-method.md) · [Five-booklet plan](unified_cbt_booklets/README.md)
 
 *Boundary agreed August 25, 2026 · Course-link and accessibility review pending*
+
+<!-- NAV-CONTEXT:START -->
+**Functional seizures:** [Recovery Techniques](../README.md) · [Functional-seizure recovery page](../06-functional-seizures.md) · [Unified CBT booklets](unified_cbt_booklets/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

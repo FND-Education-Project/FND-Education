@@ -1,5 +1,10 @@
 # Recovery Techniques for Functional Limb Weakness or Paralysis
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Limb Weakness or Paralysis**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional paresis, functional arm weakness, functional leg weakness, functional ankle weakness and functional paralysis.
@@ -89,3 +94,9 @@ This means there is research support for structured FND rehabilitation as a pack
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/01-functional-limb-weakness.md)
 
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/01-functional-limb-weakness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

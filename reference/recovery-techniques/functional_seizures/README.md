@@ -1,5 +1,10 @@
 # Functional-Seizure CBT Resources and Booklet Project
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Reference Library](../../README.md) › [Recovery Techniques](../README.md) › [Functional Seizure Recovery Materials](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working outline for review:** These pages plan an original, picture-led learning and practice series. They are not a finished treatment manual and do not replace diagnosis, individualized care, or an emergency plan.
 
 This folder does three things:
@@ -103,3 +108,9 @@ Link to existing resources and describe their broad ideas. Do not reproduce copy
 [Back to functional-seizure recovery techniques](../06-functional-seizures.md)
 
 *Resources and access checked August 25, 2026 · Clinical, lived-experience, copyright, and accessibility review pending*
+
+<!-- NAV-CONTEXT:START -->
+**Functional seizures:** [Recovery Techniques](../README.md) · [Functional-seizure recovery page](../06-functional-seizures.md) · [Unified CBT booklets](unified_cbt_booklets/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

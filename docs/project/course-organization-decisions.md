@@ -1,5 +1,10 @@
 # Course Organization Decisions
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › Project Documentation › **Course Organization Decisions**
+<!-- NAV-BREADCRUMB:END -->
+
+
 The course has now been reorganized into 23 module folders containing 77 planned pages. Every module has a short overview plus one to four focused pages. The earlier decision about using overview pages with focused child pages is therefore treated as accepted.
 
 The questions below are the revised decisions revealed by the actual page structure. Nothing needs to be decided before authoring can begin; the current organization is usable as it stands.
@@ -131,3 +136,9 @@ The clinician section on every overview and focused page will be centred on prac
 - 5 pages: Modules 7 and 11
 
 The median module length is three pages. No module exceeds five pages.
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

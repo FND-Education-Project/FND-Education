@@ -1,5 +1,10 @@
 # The Biopsychosocial Model and Misconceptions
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 1: What FND Is](README.md) › **The Biopsychosocial Model and Misconceptions**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page is [looking for reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This page explains the biopsychosocial model in simple terms, what it does and does not mean for FND, and how biological, psychological, and social factors can guide individual care and support.
@@ -143,6 +148,12 @@ These notes are for the author and reviewers. They identify wording that may ove
 > NeuroSymptoms.org explains symptoms that clinicians may diagnose as functional, symptoms that often occur alongside FND, and how clinicians tell them apart. It cannot decide whether a particular new symptom is FND. That still requires appropriate medical assessment.
 
 </details>
+
+<!-- NAV-CONTEXT:START -->
+**In this module:** [← Previous](01-what-functional-means-and-how-fnd-can-appear.md) · [Module overview](README.md) · [Next →](03-remission-recovery-and-what-improvement-can-mean.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
 

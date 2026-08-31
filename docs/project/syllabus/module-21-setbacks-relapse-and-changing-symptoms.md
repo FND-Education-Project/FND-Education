@@ -1,5 +1,10 @@
 # Module 21 — Setbacks, Relapse, and Changing Symptoms
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 21 — Setbacks, Relapse, and Changing Symptoms**
+<!-- NAV-BREADCRUMB:END -->
+
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Six: Long-Term Management**
@@ -50,3 +55,9 @@ The reader has a plan that supports calm adaptation while preserving medical vig
 ---
 
 [← Module 20: Work, Disability, and Community Participation](module-20-work-disability-and-community-participation.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 22: Building Your Personal FND Handbook →](module-22-building-your-personal-fnd-handbook.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

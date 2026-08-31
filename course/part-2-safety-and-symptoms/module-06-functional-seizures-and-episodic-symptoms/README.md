@@ -1,5 +1,10 @@
 # Module 6 — Functional Seizures and Other Episodes
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 6: Functional Seizures and Episodic Symptoms](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Functional Seizures and Other Episodes** and helps readers choose the most useful page.
@@ -21,3 +26,9 @@ This short module introduces **Functional Seizures and Other Episodes** and help
 ⬅️ **Previous module:** [Medical Safety and New Symptoms](../module-05-medical-safety-and-new-symptoms/README.md)
 
 ➡️ **Next module:** [Movement, Weakness, Walking, and Falls](../module-07-functional-movement-weakness-and-gait-symptoms/README.md)
+
+<!-- NAV-CONTEXT:START -->
+**Course:** [← Previous module](../module-05-medical-safety-and-new-symptoms/README.md) · [Course index](../../README.md) · [Next module →](../module-07-functional-movement-weakness-and-gait-symptoms/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

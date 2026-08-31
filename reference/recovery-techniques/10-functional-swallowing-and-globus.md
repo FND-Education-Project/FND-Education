@@ -1,5 +1,10 @@
 # Recovery Techniques for Functional Swallowing Symptoms and Globus
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Swallowing Symptoms and Globus**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional dysphagia, phagophobia, functional swallowing disorder and globus pharyngeus. These terms can describe different problems and should not be assumed to have the same cause or safety profile.
@@ -83,3 +88,9 @@ No community-only technique was added. Online reports about distraction, throat 
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/10-functional-swallowing-and-globus.md)
 
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Speech-language-pathology, swallowing-safety and accessibility review pending*
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/10-functional-swallowing-and-globus.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/02-swallowing-globus-and-nutrition-safety.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

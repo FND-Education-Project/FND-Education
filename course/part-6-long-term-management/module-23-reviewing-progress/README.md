@@ -1,5 +1,10 @@
 # Module 23 — Review Progress and Choose Next Steps
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 23: Reviewing Progress](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Review Progress and Choose Next Steps** and helps readers choose the most useful page.
@@ -17,3 +22,9 @@ This short module introduces **Review Progress and Choose Next Steps** and helps
 > Every page in this module uses these same four main sections.
 
 ⬅️ **Previous module:** [Build Your Personal FND Handbook](../module-22-building-your-personal-fnd-handbook/README.md)
+
+<!-- NAV-CONTEXT:START -->
+**Course:** [← Previous module](../module-22-building-your-personal-fnd-handbook/README.md) · [Course index](../../README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

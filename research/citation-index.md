@@ -1,5 +1,10 @@
 # Citation Index
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../README.md) › Research › **Citation Index**
+<!-- NAV-BREADCRUMB:END -->
+
+
 This table gives every source a stable project ID. Course pages repeat a compact citation because each page must stand alone, while the ID links back here for shared source tracking.
 
 | Citation ID | Short citation | Source type | Main subjects | Currently used on |
@@ -372,3 +377,9 @@ Use this source for pooled evidence that longer symptom duration was associated 
 6. Keep quotations short and preserve their original meaning and context.
 7. Record the article section or page location when research notes are prepared.
 8. Use paraphrase for the educational prose; quotations are evidence notes for the human author, not a substitute for explanation.
+
+<!-- NAV-CONTEXT:START -->
+**Research:** [Research and citation policy](../docs/project/research-and-citation-policy.md)
+
+**Navigate:** [Home](../README.md) · [Course](../course/README.md) · [Reference Library](../reference/README.md) · [Site Map](../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

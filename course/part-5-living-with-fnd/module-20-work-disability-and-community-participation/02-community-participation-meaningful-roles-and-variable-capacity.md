@@ -1,5 +1,10 @@
 # Community Participation, Meaningful Roles, and Variable Capacity
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 20: Work, Disability, and Community Participation](README.md) › **Community Participation, Meaningful Roles, and Variable Capacity**
+<!-- NAV-BREADCRUMB:END -->
+
+
 This is a focused authoring template within Module 20. Build the completed page around this scope: Cover volunteering, hobbies, family roles, creativity, advocacy, transportation, finances, access barriers, severe disability, flexible participation, dignity, and contribution beyond paid employment.
 
 ***
@@ -58,6 +63,13 @@ This is a focused authoring template within Module 20. Build the completed page 
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**In this module:** [← Previous](01-work-school-disability-and-accommodations.md) · [Module overview](README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 **Which evidence and source notes will the completed page need?** Build a focused evidence record for “Community Participation, Meaningful Roles, and Variable Capacity”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.

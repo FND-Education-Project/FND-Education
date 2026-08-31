@@ -1,5 +1,10 @@
 # Module 22 — Building Your Personal FND Handbook
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 22 — Building Your Personal FND Handbook**
+<!-- NAV-BREADCRUMB:END -->
+
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Six: Long-Term Management**
@@ -49,3 +54,9 @@ The reader has a concise reference that reduces dependence on memory during symp
 ---
 
 [← Module 21: Setbacks, Relapse, and Changing Symptoms](module-21-setbacks-relapse-and-changing-symptoms.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 23: Reviewing Progress →](module-23-reviewing-progress.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

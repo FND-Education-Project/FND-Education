@@ -1,5 +1,10 @@
 # Module 14 — Rehabilitation and Neuroplastic Change
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 14 — Rehabilitation and Neuroplastic Change**
+<!-- NAV-BREADCRUMB:END -->
+
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Four: Treatment and Rehabilitation**
@@ -50,3 +55,9 @@ The reader understands rehabilitation as individualized learning and practice, n
 ---
 
 [← Module 13: Building an Individual Treatment Team](module-13-building-an-individual-treatment-team.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 15: Pacing, Activity, and the Boom-and-Bust Cycle →](module-15-pacing-activity-and-the-boom-and-bust-cycle.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

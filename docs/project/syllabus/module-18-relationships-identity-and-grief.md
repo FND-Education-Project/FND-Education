@@ -1,5 +1,10 @@
 # Module 18 — Relationships, Identity, and Grief
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 18 — Relationships, Identity, and Grief**
+<!-- NAV-BREADCRUMB:END -->
+
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Five: Living With FND**
@@ -50,3 +55,9 @@ The reader can acknowledge loss while protecting relationships, dignity, identit
 ---
 
 [← Module 17: Daily Living, Accessibility, and Equipment](module-17-daily-living-accessibility-and-equipment.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 19: Healthcare Communication and Self-Advocacy →](module-19-healthcare-communication-and-self-advocacy.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

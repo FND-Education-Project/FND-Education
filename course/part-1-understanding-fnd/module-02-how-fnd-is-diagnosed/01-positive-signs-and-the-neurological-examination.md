@@ -1,5 +1,10 @@
 # Positive Signs and the Neurological Examination
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 2: How FND Is Diagnosed](README.md) › **Positive Signs and the Neurological Examination**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 FND should not be diagnosed simply because a scan was normal or because no other explanation has been found. The diagnosis should be supported by features in the history or examination that positively fit a functional neurological problem. This page explains what those features may show, as well as what they cannot show.
@@ -96,6 +101,13 @@ Continue to take new or substantially changed symptoms seriously. A previous FND
 
 ➡️ **Next article:** [Tests, Diagnostic Uncertainty, and Coexisting Conditions](02-tests-diagnostic-uncertainty-and-coexisting-conditions.md)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**In this module:** [Module overview](README.md) · [Next →](02-tests-diagnostic-uncertainty-and-coexisting-conditions.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 ### Three focused quotations

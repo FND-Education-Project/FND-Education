@@ -1,5 +1,10 @@
 # Module 10 — Cognition, Memory, and Dissociation
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 10 — Cognition, Memory, and Dissociation**
+<!-- NAV-BREADCRUMB:END -->
+
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Three: Common Non-Motor Difficulties**
@@ -50,3 +55,9 @@ The reader can use practical cognitive supports while preserving appropriate inv
 ---
 
 [← Module 9: Speech, Voice, Swallowing, and Breathing Symptoms](module-09-speech-voice-swallowing-and-breathing-symptoms.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 11: Pain, Migraine, Fatigue, and Sleep →](module-11-pain-migraine-fatigue-and-sleep.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

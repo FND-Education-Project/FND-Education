@@ -1,5 +1,10 @@
 # Recovery Techniques for Functional Jerks or Myoclonus
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Jerks or Myoclonus**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional myoclonus, functional jerky movements and functional tic-like or shock-like movements. These terms are not interchangeable diagnoses; assessment matters.
@@ -84,3 +89,9 @@ No community-only technique was added. Reports found online were either versions
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/03-functional-jerks-and-myoclonus.md)
 
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/03-functional-jerks-and-myoclonus.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

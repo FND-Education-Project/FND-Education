@@ -1,5 +1,10 @@
 # Symptom Recovery and Management Techniques
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This reference was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This collection is about approaches that may support symptom improvement, safer self-management, participation or quality of life. Here, **recovery** does not promise remission. For some people it may mean fewer symptoms; for others it may mean greater function, confidence, independence or stability while symptoms continue.
@@ -54,3 +59,9 @@ A separate source notebook is used to collect public lived-experience quotations
 **Related pages:** [Reference library](../README.md) · [Evidence standard](../../docs/project/evidence-standard.md) · [Citation index](../../research/citation-index.md)
 
 *Collection created: August 25, 2026 · Episode/flare authoring requirement added August 31, 2026 · Clinical and accessibility review pending*
+
+<!-- NAV-CONTEXT:START -->
+**Reference:** [Reference Library](../README.md) · [Diagnostic Signs](../diagnostic-signs/README.md) · [Technique Index](technique-index.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

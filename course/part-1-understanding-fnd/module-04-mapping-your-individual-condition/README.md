@@ -1,5 +1,10 @@
 # Module 4 — Map Your FND and Other Health Conditions
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 4: Mapping Your Individual Condition](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **Map Your FND and Other Health Conditions** and helps readers choose the most useful page.
@@ -19,3 +24,9 @@ This short module introduces **Map Your FND and Other Health Conditions** and he
 ⬅️ **Previous module:** [What May Cause or Affect FND?](../module-03-causes-mechanisms-and-honest-uncertainty/README.md)
 
 ➡️ **Next module:** [Medical Safety and New Symptoms](../../part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md)
+
+<!-- NAV-CONTEXT:START -->
+**Course:** [← Previous module](../module-03-causes-mechanisms-and-honest-uncertainty/README.md) · [Course index](../../README.md) · [Next module →](../../part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

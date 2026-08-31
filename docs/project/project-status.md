@@ -1,5 +1,10 @@
 # Project Status
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › Project Documentation › **Project Status**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Current stage: complete first-draft course, awaiting human editing and evidence review.**
@@ -45,3 +50,9 @@ Module 1 remains the wording and structure model for later human edits:
 2. [What “Functional” Means and How FND Can Appear](../../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md)
 3. [The Biopsychosocial Model and Misconceptions](../../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md)
 4. [Remission, Recovery, and What Improvement Can Mean](../../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

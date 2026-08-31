@@ -1,5 +1,10 @@
 # Functional Jerks or Myoclonus
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Jerks or Myoclonus**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Specialist simultaneous electroencephalography and surface electromyography (EEG–EMG), including jerk-locked back-averaging.  
@@ -83,6 +88,13 @@ If a laboratory video is contributed, it should show electrode placement on a he
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/03-functional-jerks-and-myoclonus.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 ### Evidence notes

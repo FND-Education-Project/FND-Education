@@ -1,5 +1,10 @@
 # Functional Cough and Upper-Airway Symptoms
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Cough and Upper-Airway Symptoms**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Primary technique:** Multidisciplinary history and laryngeal-respiratory assessment across relevant conditions.  
@@ -85,6 +90,13 @@ Do not use strong odours, smoke, cold air, exercise or emotional provocation to 
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/03-cough-breathing-and-upper-airway-symptoms.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
 ## Research and Sources
 
 ### Evidence notes

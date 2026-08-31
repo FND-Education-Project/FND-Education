@@ -1,5 +1,10 @@
 # Recovery Techniques for Functional Speech and Voice Symptoms
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Speech and Voice Symptoms**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** functional dysphonia, functional aphonia, functional dysarthria, functional stuttering, functional accent change and functional communication disorder.
@@ -85,3 +90,9 @@ No community-only technique was added. Recurring lived-experience reports about 
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/09-functional-speech-and-voice-symptoms.md)
 
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Speech-language-pathology and accessibility review pending*
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/09-functional-speech-and-voice-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/01-speech-voice-and-word-blocking.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

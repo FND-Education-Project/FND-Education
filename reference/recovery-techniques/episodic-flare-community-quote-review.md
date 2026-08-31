@@ -1,5 +1,10 @@
 # Episodic Symptoms and Flare-Onset Quote Review
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Episodic Symptoms and Flare-Onset Quote Review**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Internal review draft:** These quotations are collected for editorial review before any are moved onto public symptom pages.
 
 These are **lived-experience accounts, not treatment evidence**. They are included because they describe symptom duration, environmental context or what a person tries at onset in language that may help readers recognize their own experience. A quoted technique should not be turned into a recommendation unless it is also supported and safety-checked on the relevant recovery page.
@@ -94,3 +99,7 @@ When one or more quotations are chosen for publication:
 6. Do not convert a person’s onset strategy into advice unless the relevant recovery page independently supports and safety-checks that strategy.
 
 *Quote review created: August 31, 2026 · Public-source verification and final editorial selection pending*
+
+<!-- NAV-CONTEXT:START -->
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

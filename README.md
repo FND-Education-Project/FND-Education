@@ -1,5 +1,10 @@
 # FND Education
 
+<!-- NAV-BREADCRUMB:START -->
+**Home**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Free, evidence-informed education for people living with Functional Neurological Disorder (FND) and the people who support them.**
@@ -181,3 +186,8 @@ The project should be willing to say **“researchers do not yet know”** when 
 
 FND Education provides general educational information only. It does not provide individual medical advice, diagnosis, emergency assessment, or treatment. Research findings describe groups and do not determine what is true or appropriate for a particular individual. A person’s own healthcare professionals remain responsible for individualized medical decisions. New, severe, or substantially changed symptoms should not be assumed to be FND solely because a person already has an FND diagnosis.
 
+<!-- NAV-CONTEXT:START -->
+**Explore:** [Course](course/README.md) · [Reference Library](reference/README.md) · [Glossary](glossary/README.md)
+
+**Navigate:** [Home](README.md) · [Course](course/README.md) · [Reference Library](reference/README.md) · [Site Map](SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

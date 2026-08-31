@@ -1,5 +1,10 @@
 # Recovery and Management Technique Index
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery and Management Technique Index**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This page provides two ways to find the same material. The first groups techniques by symptom. The second is alphabetical, with the symptom or symptoms shown on the same line to the right. It is deliberately not a table.
@@ -281,3 +286,9 @@ This page provides two ways to find the same material. The first groups techniqu
 The pages cover the same 13 presentations as the current diagnostic-sign reference. They do not yet cover every reported FND-associated symptom. Hearing changes, bladder symptoms, breathing-pattern disorder outside functional cough/upper-airway symptoms, dissociation without seizures, pain, fatigue and several less common movement presentations require their own research package before symptom-specific technique pages are added.
 
 *Index created: August 25, 2026 · Evidence search current to August 25, 2026 · Clinical and accessibility review pending*
+
+<!-- NAV-CONTEXT:START -->
+**Reference:** [Recovery Techniques](README.md) · [Reference Library](../README.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

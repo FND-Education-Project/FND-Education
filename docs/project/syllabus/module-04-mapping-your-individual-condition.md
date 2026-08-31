@@ -1,5 +1,10 @@
 # Module 4 — Mapping Your Individual Condition
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 4 — Mapping Your Individual Condition**
+<!-- NAV-BREADCRUMB:END -->
+
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part One: Understanding FND**
@@ -49,3 +54,9 @@ The reader has an organized, updateable picture of what is known, suspected, cha
 ---
 
 [← Module 3: Causes, Mechanisms, and Honest Uncertainty](module-03-causes-mechanisms-and-honest-uncertainty.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 5: Medical Safety and New Symptoms →](module-05-medical-safety-and-new-symptoms.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

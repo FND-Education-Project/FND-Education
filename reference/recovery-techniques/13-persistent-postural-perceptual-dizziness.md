@@ -1,5 +1,10 @@
 # Recovery Techniques for Persistent Postural-Perceptual Dizziness
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Persistent Postural-Perceptual Dizziness**
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 **Also described as:** PPPD, 3PD and persistent perceptual dizziness.
@@ -88,3 +93,9 @@ No community-only technique was added. Repeated user reports about graded walkin
 [Back to technique index](technique-index.md) · [Diagnostic-sign page](../diagnostic-signs/13-persistent-postural-perceptual-dizziness.md)
 
 *Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Vestibular, neurology and accessibility review pending*
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/03-dizziness-balance-and-vestibular-overlap.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

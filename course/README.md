@@ -1,5 +1,10 @@
 # FND Education Course
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../README.md) › [Course](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This directory contains the first complete working draft of the FND Education course: 23 modules and 77 pages. Each module begins with a short overview and links to one to four focused articles.
@@ -57,3 +62,9 @@ The clinician section focuses on practical usefulness to the patient: helping th
 - [Setbacks, Relapse, and Changing Symptoms](part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/README.md) — 3 pages
 - [Build Your Personal FND Handbook](part-6-long-term-management/module-22-building-your-personal-fnd-handbook/README.md) — 3 pages
 - [Review Progress and Choose Next Steps](part-6-long-term-management/module-23-reviewing-progress/README.md) — 2 pages
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Start with Module 1](part-1-understanding-fnd/module-01-what-fnd-is/README.md)
+
+**Navigate:** [Home](../README.md) · [Course](README.md) · [Reference Library](../reference/README.md) · [Site Map](../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

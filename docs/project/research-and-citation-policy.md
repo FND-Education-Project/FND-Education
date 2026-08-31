@@ -1,5 +1,10 @@
 # Research and Citation Policy
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › Project Documentation › **Research and Citation Policy**
+<!-- NAV-BREADCRUMB:END -->
+
+
 Educational claims should be traceable whenever practical.
 
 ## Source preference
@@ -88,3 +93,8 @@ For readability and consistency on educational pages:
 - Do not cite a source as support for a claim it does not actually make.
 - Clearly mark corrections and meaningful evidence updates.
 
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -1,5 +1,10 @@
 # Search and Usability Standards
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../README.md) › Project Documentation › **Search and Usability Standards**
+<!-- NAV-BREADCRUMB:END -->
+
+
 A major goal of FND Education is to make information easy to find, understand, revisit, and share.
 
 ## Page requirements
@@ -47,3 +52,8 @@ Older terms should be labelled historical, outdated, disputed, or potentially st
 - Keep summaries and practical actions easy to relocate on a return visit.
 - Repeat the four standard section links before each major section so readers do not have to return to the top of a long page.
 
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -1,5 +1,10 @@
 # Module 19 — Healthcare Communication and Self-Advocacy
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › Project Documentation › Detailed Syllabus › **Module 19 — Healthcare Communication and Self-Advocacy**
+<!-- NAV-BREADCRUMB:END -->
+
+
 [← Course syllabus](../detailed-course-syllabus.md)
 
 **Part Five: Living With FND**
@@ -49,3 +54,9 @@ The reader can present complex information clearly and leave appointments with d
 ---
 
 [← Module 18: Relationships, Identity, and Grief](module-18-relationships-identity-and-grief.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 20: Work, Disability, and Community Participation →](module-20-work-disability-and-community-participation.md)
+
+<!-- NAV-CONTEXT:START -->
+**Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

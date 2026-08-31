@@ -1,5 +1,10 @@
 # Content-Creator Guide 5 — Support, Setbacks, and Maintaining Progress
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Content-Creator Guide 5 — Support, Setbacks, and Maintaining Progress**
+<!-- NAV-BREADCRUMB:END -->
+
+
 This guide teaches the ideas behind [Booklet 5: Support, Setbacks, and Maintaining Progress](05-support-setbacks-and-maintaining-progress.md). It is designed to prevent two common harms: turning supporters into behaviour police, and describing persistent seizures as evidence that the patient failed CBT.
 
 All examples are fictional composites. A real response plan needs the person's consent, individualized medical advice, and revision when the seizure pattern or circumstances change.
@@ -233,3 +238,9 @@ Before drafting, the creator should be able to explain:
 [Booklet 5 production outline](05-support-setbacks-and-maintaining-progress.md) · [Series overview](README.md) · [Evidence and unification method](../evidence-and-unification-method.md)
 
 *Content-creator teaching guide created August 25, 2026 · Clinical, supporter, lived-experience, safeguarding, and accessibility review pending*
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](../../README.md) · [Related course page](../../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
+
+**Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

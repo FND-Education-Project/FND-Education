@@ -1,5 +1,10 @@
 # Module 3 — What May Cause or Affect FND?
 
+<!-- NAV-BREADCRUMB:START -->
+[Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 3: Causes, Mechanisms, and Honest Uncertainty](README.md)
+<!-- NAV-BREADCRUMB:END -->
+
+
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This short module introduces **What May Cause or Affect FND?** and helps readers choose the most useful page.
@@ -21,3 +26,9 @@ This short module introduces **What May Cause or Affect FND?** and helps readers
 ⬅️ **Previous module:** [How Is FND Diagnosed?](../module-02-how-fnd-is-diagnosed/README.md)
 
 ➡️ **Next module:** [Map Your FND and Other Health Conditions](../module-04-mapping-your-individual-condition/README.md)
+
+<!-- NAV-CONTEXT:START -->
+**Course:** [← Previous module](../module-02-how-fnd-is-diagnosed/README.md) · [Course index](../../README.md) · [Next module →](../module-04-mapping-your-individual-condition/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
