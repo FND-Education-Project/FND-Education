@@ -11,6 +11,33 @@
 > [!IMPORTANT]
 > This project is in early development. It provides general education, not individual medical advice, diagnosis, emergency assessment, or treatment.
 
+***
+
+## On This Page
+
+- [Why this project exists](#why-this-project-exists)
+- [Start here](#start-here)
+  - [I have FND](#i-have-fnd)
+  - [I support someone with FND](#i-support-someone-with-fnd)
+- [Course outline](#course-outline)
+  - [Part One — Understanding FND](#part-one--understanding-fnd)
+  - [Part Two — Safety and Symptom Knowledge](#part-two--safety-and-symptom-knowledge)
+  - [Part Three — Common Non-Motor Difficulties](#part-three--common-non-motor-difficulties)
+  - [Part Four — Treatment and Rehabilitation](#part-four--treatment-and-rehabilitation)
+  - [Part Five — Living With FND](#part-five--living-with-fnd)
+  - [Part Six — Long-Term Management](#part-six--long-term-management)
+- [Planned support-person mini-course](#planned-support-person-mini-course)
+- [Find information by symptom or need](#find-information-by-symptom-or-need)
+- [Every educational page follows the same pattern](#every-educational-page-follows-the-same-pattern)
+  - [Practical help at home](#practical-help-at-home)
+- [Authorship approach](#authorship-approach)
+- [Project documentation](#project-documentation)
+- [Medical disclaimer](#medical-disclaimer)
+
+***
+
+*[(back to the top)](#on-this-page)*
+
 ## Why this project exists
 
 Functional Neurological Disorder can be difficult to understand, explain, and live with. Useful information is scattered across research papers, clinical guidelines, specialist services, patient organizations, and the experiences of people living with FND.
@@ -22,7 +49,11 @@ This project has two primary goals:
 
 The repository now contains a complete first-draft course structure and a symptom-specific reference library. The long-term aim remains a free, highly searchable resource that can grow to include worksheets, surveys, community discussion, and other practical support materials.
 
+*[(back to the top)](#on-this-page)*
+
 ## Start here
+
+*[(back to the top)](#on-this-page)*
 
 ### I have FND
 
@@ -30,15 +61,21 @@ The repository now contains a complete first-draft course structure and a sympto
 
 For a specific symptom, **[open the Reference Library](reference/README.md)** to compare positive diagnostic signs with recovery and management techniques.
 
+*[(back to the top)](#on-this-page)*
+
 ### I support someone with FND
 
 Support-person information is built into every focused course page and symptom reference page. It covers what the supporter may need to understand, immediate safety, practical help, communication, preserving the person's choices, and avoiding pressure or blame.
 
 A separate support-person mini-course is planned for readers who want to follow those subjects in one shorter sequence.
 
+*[(back to the top)](#on-this-page)*
+
 ## Course outline
 
 The course is designed as a **self-paced reference course**, not a rigid week-by-week program. Readers may follow it from beginning to end or enter through the symptom or problem most relevant to them.
+
+*[(back to the top)](#on-this-page)*
 
 ### Part One — Understanding FND
 
@@ -46,6 +83,8 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 2. **How FND Is Diagnosed** — positive clinical signs, examination, appropriate testing, diagnostic uncertainty, and coexisting disease.
 3. **Causes, Mechanisms, and Honest Uncertainty** — current models, possible contributors, competing explanations, and the distinction between evidence and speculation.
 4. **Mapping Your Individual Condition** — primary symptoms, associated symptoms, separate diagnoses, medications, patterns, warning signs, strategies, and preserved abilities.
+
+*[(back to the top)](#on-this-page)*
 
 ### Part Two — Safety and Symptom Knowledge
 
@@ -55,11 +94,15 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 8. **Sensory, Visual, Balance, and Dizziness Symptoms** — altered sensation, functional visual symptoms, dizziness, sensory overload, accommodations, and rehabilitation.
 9. **Speech, Voice, Swallowing, and Breathing Symptoms** — communication symptoms, swallowing, cough, breathing, specialist roles, and safety.
 
+*[(back to the top)](#on-this-page)*
+
 ### Part Three — Common Non-Motor Difficulties
 
 10. **Cognition, Memory, and Dissociation** — attention, processing, memory, word finding, Functional Cognitive Disorder, dissociation, practical supports, and other contributors.
 11. **Pain, Migraine, Fatigue, and Sleep** — overlapping conditions, interactions with FND, treatable contributors, pacing, and research limitations.
 12. **Autonomic and Whole-Body Symptoms** — sweating, temperature, nausea, dizziness, palpitations, overlap with other conditions, tracking, and reassessment.
+
+*[(back to the top)](#on-this-page)*
 
 ### Part Four — Treatment and Rehabilitation
 
@@ -68,12 +111,16 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 15. **Pacing, Activity, and the Boom-and-Bust Cycle** — baselines, different kinds of load, restorative rest, flexible activity, and capacity building.
 16. **Psychological Treatment Without Blame** — treatment evidence, possible goals, individual suitability, consent, and avoiding forced causal explanations.
 
+*[(back to the top)](#on-this-page)*
+
 ### Part Five — Living With FND
 
 17. **Daily Living, Accessibility, and Equipment** — household activities, mobility aids, wheelchairs, adaptations, communication aids, safety, and reassessment.
 18. **Relationships, Identity, and Grief** — roles, loss, intimacy, family, friendship, isolation, identity, pleasure, and purpose.
 19. **Healthcare Communication and Self-Advocacy** — appointment preparation, concise histories, written instructions, medical records, second opinions, and diagnostic overshadowing.
 20. **Work, Disability, and Community Participation** — accommodations, disability, transportation, finances, volunteering, hobbies, and meaningful roles.
+
+*[(back to the top)](#on-this-page)*
 
 ### Part Six — Long-Term Management
 
@@ -85,6 +132,8 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 **[Open the course structure and drafts](course/README.md)** to read all 77 course pages: 23 short module overviews and 54 focused pages.
 
+*[(back to the top)](#on-this-page)*
+
 ## Planned support-person mini-course
 
 1. **Believe, Listen, and Learn**
@@ -93,6 +142,8 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 4. **Communication and Cognitive Support**
 5. **Boundaries and Caregiver Health**
 6. **Planning Together**
+
+*[(back to the top)](#on-this-page)*
 
 ## Find information by symptom or need
 
@@ -113,6 +164,8 @@ Current course and reference material can be found for:
 - family members, caregivers, and other support persons.
 
 Additional focused guides are planned for severe or long-term disability and for children and adolescents with FND.
+
+*[(back to the top)](#on-this-page)*
 
 ## Every educational page follows the same pattern
 
@@ -145,6 +198,8 @@ During drafting and review, the project uses the same 15 questions as an editori
 
 A question that genuinely does not apply should be marked **Not applicable** in the editorial review rather than silently ignored. Module overview pages remain short and link to one to four focused pages that use the same pattern.
 
+*[(back to the top)](#on-this-page)*
+
 ### Practical help at home
 
 The “What can I try at home?” section is required wherever safe self-management is possible. Suggestions will be separated by source and evidence level:
@@ -155,6 +210,8 @@ The “What can I try at home?” section is required wherever safe self-managem
 - adaptations and ideas reported by people living with FND.
 
 When research has not answered an everyday question, the project may examine forums and patient communities for recurring practical ideas. These will be labelled **lived experience or community-reported strategies**, not proven treatments. Safety-sensitive ideas will be checked against research and clinical guidance where possible, with risks, reasons to stop, and reasons to seek professional help stated clearly.
+
+*[(back to the top)](#on-this-page)*
 
 ## Authorship approach
 
@@ -169,6 +226,8 @@ The intended relationship with the reader is:
 > Here is what the research reports. Here is how strong that evidence appears to be. Here is what remains uncertain. Here are practical ideas that may help. Here is where those ideas came from.
 
 The project should be willing to say **“researchers do not yet know”** when the evidence does not provide a reliable answer.
+
+*[(back to the top)](#on-this-page)*
 
 ## Project documentation
 
@@ -192,6 +251,8 @@ The project should be willing to say **“researchers do not yet know”** when 
 - [Citation index](research/citation-index.md)
 - [Safety and editorial rules](docs/project/safety-and-editorial-rules.md)
 - [Project status](docs/project/project-status.md)
+
+*[(back to the top)](#on-this-page)*
 
 ## Medical disclaimer
 
