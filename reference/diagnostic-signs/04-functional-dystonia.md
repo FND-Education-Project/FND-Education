@@ -18,6 +18,12 @@
 
 Unlike Hoover’s sign for leg weakness, there is no single bedside manoeuvre that confirms functional dystonia. Diagnosis depends on the onset and course, the exact posture, how it changes across tasks, other positive functional signs, and careful comparison with recognized forms of non-functional dystonia. Functional and non-functional dystonia can also coexist. (*citations* [1](#citation-1), [2](#citation-2))
 
+### Episodic and fixed presentations
+
+Functional dystonia can be long-lasting or fixed, but it can also come and go in episodes or become much more pronounced during a flare. A posture may therefore be absent at one visit, occur only in particular tasks or environments, or remain for a prolonged period. Pain, fatigue, movement, attention or other symptoms may change the pattern for some people, but none of these features establishes the diagnosis by itself.
+
+At the onset of a familiar painful posture, protect the limb and find the supported position already recommended by the treating team. Do not force, pull or aggressively stretch the limb back to a normal-looking position. If a therapist has taught a small alignment change, competing action or release cue, use it only within the agreed safety limits. New fixed posturing, major swelling, colour or temperature change, injury or rapidly changing pain requires reassessment.
+
 The examination should not be used to force a painful limb into a different position or to prove that a fixed posture is under voluntary control.
 
 ***
@@ -30,6 +36,12 @@ The examination should not be used to force a painful limb into a different posi
 
 Do not pull, straighten or manipulate a fixed limb for a photograph or demonstration. Ask what positioning is comfortable and follow the person’s clinical plan. Visible changes in posture over time are useful history, but they do not allow a supporter to decide whether the dystonia is functional.
 
+### When posturing appears or worsens
+
+An episode may be brief, recur in bouts, or settle into a posture that lasts much longer. Help the person reach a safe supported position, remove fall or impact hazards, and ask before touching the affected area. Use only a therapist-agreed cue or support; trying to physically correct the posture can increase pain or cause injury.
+
+Useful observations after safety comes first include how the posture began, whether it was fixed or moving, the task or setting, pain and swelling, other symptoms, duration and recovery.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
@@ -37,6 +49,12 @@ Do not pull, straighten or manipulate a fixed limb for a photograph or demonstra
 [Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
+
+### Episodic and prolonged presentations
+
+Explicitly phenotype the time course: fixed versus mobile posture, intermittent attacks, task-specific episodes, duration, frequency, warning symptoms, pain, sensory change, precipitating context and recovery. Functional motor symptoms may be recurrent or persistent. Sudden onset, intermittency, fixed posture and pain are each insufficient to diagnose functional dystonia in isolation.
+
+If the posture is not present at examination, safely obtained photographs or video may help document the phenotype, but interpretation still depends on history, examination and the differential. For episodic presentations, treatment planning should include an onset plan based on supported positioning and any individually demonstrated movement or release strategy; avoid instructing the patient or family to forcefully correct the limb during attacks.
 
 ### Technique outline: pattern-based assessment
 
