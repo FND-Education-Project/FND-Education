@@ -31,11 +31,6 @@ Functional tremor may be intermittent, appear in repeated bouts, fluctuate marke
 If a familiar tremor suddenly becomes strong, first make the activity safe: put down hot, sharp or breakable objects, stop driving or another hazardous task, and sit or stabilize the affected limb if needed. If rehabilitation has already identified a helpful rhythm, posture or external-focus task, use that one familiar cue rather than rapidly trying many strategies. A new or substantially different tremor, especially with other neurological symptoms, needs reassessment.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For Family, Friends, and Other Supporters
 
 Do not repeatedly distract the person, surprise them or demand that they copy rhythms to see whether the tremor changes. Diagnostic observation belongs in a clinical assessment. At home, changes in tremor may be useful information for the person’s treatment team, but should not become surveillance or a test of credibility.
@@ -46,11 +41,6 @@ A person may have little visible tremor at one time and a disabling episode at a
 
 After safety is established, noting the activity, setting, duration, other symptoms and recovery may be more useful than describing how dramatic the movement looked.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 

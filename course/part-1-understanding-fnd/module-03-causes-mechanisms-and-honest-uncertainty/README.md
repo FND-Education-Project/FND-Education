@@ -22,12 +22,8 @@ This short module introduces **What May Cause or Affect FND?** and helps readers
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [How Is FND Diagnosed?](../module-02-how-fnd-is-diagnosed/README.md)
-
-➡️ **Next module:** [Map Your FND and Other Health Conditions](../module-04-mapping-your-individual-condition/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../module-02-how-fnd-is-diagnosed/README.md) · [Course index](../../README.md) · [Next module →](../module-04-mapping-your-individual-condition/README.md)
+**Continue:** [Start with Causes, Risk Factors, Triggers, and Maintaining Factors](01-causes-risk-factors-triggers-and-maintaining-factors.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

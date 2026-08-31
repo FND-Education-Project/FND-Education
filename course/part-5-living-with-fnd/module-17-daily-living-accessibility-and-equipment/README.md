@@ -22,12 +22,8 @@ This short module introduces **Daily Living, Accessibility, and Equipment** and 
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Psychological Treatment Without Blame](../../part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md)
-
-➡️ **Next module:** [Relationships, Identity, and Grief](../module-18-relationships-identity-and-grief/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../../part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md) · [Course index](../../README.md) · [Next module →](../module-18-relationships-identity-and-grief/README.md)
+**Continue:** [Start with Adapting Personal Care and Household Tasks](01-adapting-personal-care-and-household-tasks.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

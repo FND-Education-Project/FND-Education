@@ -1,8 +1,8 @@
-# Remission, Recovery, and What Improvement Can Mean
-
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 1: What FND Is](README.md) › **Remission, Recovery, and What Improvement Can Mean**
 <!-- NAV-BREADCRUMB:END -->
+
+# Remission, Recovery, and What Improvement Can Mean
 
 > **"FND symptoms may recur or worsen regardless of what a person knows, tries, or has achieved. Symptom severity must never be used to judge effort, acceptance of the diagnosis, treatment participation, or personal progress."**
 
@@ -10,12 +10,6 @@
 
 This is a short introduction. Later modules will discuss treatment, rehabilitation, setbacks and long-term management in much more detail. Here, we only need enough information to understand what people may mean when they talk about getting better.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For the Person With FND
 
 One of the big questions, once, perhaps the shock of diagnosis fades, is "Can this go away?" Maybe instead of 'go away' words like remission, cure, or recovery might replace them. If we are talking about a cure, meaning, the disease functional neurological disorder is no longer present nor will ever come back, then as far as anyone currently knows, no. There is no cure. However, people do experience recovery or remission. Because the two words can be used to mean the same thing, let's give them definitions that this course will use.
@@ -39,15 +33,11 @@ A key thing to take away in this section is that FND symptoms can grow worse or 
 Choose one small sign of improvement that would matter in your life. It might be a symptom change, but it could also be recovering more quickly after an episode, preparing part of a meal, enjoying time with someone, asking for help more clearly, or doing an activity with less fear. Write down one sentence if it's useful. (*citations* [3](#citation-3))
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-[Module overview](README.md) — the shortest introduction and guide to the module.  
-[What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md) — terminology, symptom range, positive diagnosis, and the functional/structural distinction.  
-[The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md) — a plain-language explanation of the model, its uses, limits, and common misunderstandings.  
-**Remission, Recovery, and What Improvement Can Mean — current page**
 
 ## For Family, Friends, and Other Supporters
 
@@ -62,11 +52,12 @@ What is important to many sufferers of FND is holding some independence, comfort
 If symptoms return or don't respond to a treatment, help the person notice what they have learned and what still works. Recovery may include becoming better prepared for difficult periods, adapting, and it can't be about preventing every symptom. (*citations* [2](#citation-2), [3](#citation-3))
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
+
 ## For Clinicians and the Care Team
 
 You are an essential part of recovery. The question is, what does recovery look like for your patient? Let's define key terms.
@@ -102,13 +93,44 @@ Clinicians should explain the intent of a particular referral. On this site, the
 > ***Recovery is not one binary verdict. The clinician’s responsibility is to define outcomes with the patient, communicate uncertainty honestly, match care to what matters, and continue helping even when symptoms persist.***
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
 
-➡️ **Next module:** [How FND Is Diagnosed](../module-02-how-fnd-is-diagnosed/README.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next module: How Is FND Diagnosed?](../module-02-how-fnd-is-diagnosed/README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
+***
+
+## Research and Sources
+
+### Three focused quotations
+
+- “Reported symptom outcome was highly variable.” (*citations* [1](#citation-1))
+- “recovery often follows a pattern of symptom remission and exacerbation.” (*citations* [2](#citation-2))
+- “all believed that the patient’s subjective experience should be central.” (*citations* [3](#citation-3))
+
+### Citation table
+
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | — | Gelauff J, Stone J, Edwards M, Carson A. The prognosis of functional (psychogenic) motor symptoms: a systematic review. *Journal of Neurology, Neurosurgery & Psychiatry*. 2014;85(2):220–226. [FND-CIT-0007](../../../research/citation-index.md#fnd-cit-0007). [https://doi.org/10.1136/jnnp-2013-305321](https://doi.org/10.1136/jnnp-2013-305321) |
+| <a id="citation-2"></a>**[2]** | *Figure 1* | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-3"></a>**[3]** | — | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
+| <a id="citation-4"></a>**[4]** | *Figure 1* | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
+| <a id="citation-5"></a>**[5]** | — | Sekine ER, Kanaan RA, McMillan J, Oxford S, Iles RA. Biopsychosocial prognostic indicators in Functional Neurological Disorder: a systematic review. *Journal of Psychosomatic Research*. 2025;195:112201. [FND-CIT-0017](../../../research/citation-index.md#fnd-cit-0017). [https://doi.org/10.1016/j.jpsychores.2025.112201](https://doi.org/10.1016/j.jpsychores.2025.112201) |
+| <a id="citation-6"></a>**[6]** | — | Thomas ST, Thomas ET, Schembri E, Lehn AC, Palmer DDG. Treatment outcomes in functional neurological disorder: a systematic review and meta-analysis exploring the influence of symptom chronicity. *BMJ Neurology Open*. 2025;7:e001150. [FND-CIT-0051](../../../research/citation-index.md#fnd-cit-0051). [https://doi.org/10.1136/bmjno-2025-001150](https://doi.org/10.1136/bmjno-2025-001150) |
+| <a id="citation-7"></a>**[7]** | — | Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4):e00612. [FND-CIT-0013](../../../research/citation-index.md#fnd-cit-0013). [https://doi.org/10.1016/j.neurot.2025.e00612](https://doi.org/10.1016/j.neurot.2025.e00612) |
+
+This page is a brief introduction. Detailed discussion of rehabilitation, pacing, psychological treatment, setbacks and progress belongs in the later course modules.
+
+*Last reviewed: August 26, 2026*
+
 <details>
 <summary><strong>Author accuracy review — suggested wording not yet applied</strong></summary>
 
@@ -169,33 +191,3 @@ These notes are for the author and reviewers. They identify wording that may ove
 Before replacing the second quotation, copy it exactly from the report. Use an ellipsis for omitted words and square brackets only when a word has been changed or added for clarity.
 
 </details>
-
-<!-- NAV-CONTEXT:START -->
-**In this module:** [← Previous](02-the-biopsychosocial-model-misconceptions-and-recovery.md) · [Module overview](README.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
-## Research and Sources
-
-### Three focused quotations
-
-- “Reported symptom outcome was highly variable.” (*citations* [1](#citation-1))
-- “recovery often follows a pattern of symptom remission and exacerbation.” (*citations* [2](#citation-2))
-- “all believed that the patient’s subjective experience should be central.” (*citations* [3](#citation-3))
-
-### Citation table
-
-| Citation | Figure | Full citation |
-|---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Gelauff J, Stone J, Edwards M, Carson A. The prognosis of functional (psychogenic) motor symptoms: a systematic review. *Journal of Neurology, Neurosurgery & Psychiatry*. 2014;85(2):220–226. [FND-CIT-0007](../../../research/citation-index.md#fnd-cit-0007). [https://doi.org/10.1136/jnnp-2013-305321](https://doi.org/10.1136/jnnp-2013-305321) |
-| <a id="citation-2"></a>**[2]** | *Figure 1* | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-3"></a>**[3]** | — | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
-| <a id="citation-4"></a>**[4]** | *Figure 1* | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
-| <a id="citation-5"></a>**[5]** | — | Sekine ER, Kanaan RA, McMillan J, Oxford S, Iles RA. Biopsychosocial prognostic indicators in Functional Neurological Disorder: a systematic review. *Journal of Psychosomatic Research*. 2025;195:112201. [FND-CIT-0017](../../../research/citation-index.md#fnd-cit-0017). [https://doi.org/10.1016/j.jpsychores.2025.112201](https://doi.org/10.1016/j.jpsychores.2025.112201) |
-| <a id="citation-6"></a>**[6]** | — | Thomas ST, Thomas ET, Schembri E, Lehn AC, Palmer DDG. Treatment outcomes in functional neurological disorder: a systematic review and meta-analysis exploring the influence of symptom chronicity. *BMJ Neurology Open*. 2025;7:e001150. [FND-CIT-0051](../../../research/citation-index.md#fnd-cit-0051). [https://doi.org/10.1136/bmjno-2025-001150](https://doi.org/10.1136/bmjno-2025-001150) |
-| <a id="citation-7"></a>**[7]** | — | Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4):e00612. [FND-CIT-0013](../../../research/citation-index.md#fnd-cit-0013). [https://doi.org/10.1016/j.neurot.2025.e00612](https://doi.org/10.1016/j.neurot.2025.e00612) |
-
-This page is a brief introduction. Detailed discussion of rehabilitation, pacing, psychological treatment, setbacks and progress belongs in the later course modules.
-
-*Last reviewed: August 26, 2026*

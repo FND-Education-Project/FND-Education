@@ -21,12 +21,8 @@ This short module introduces **Pacing Activity and Avoiding Boom-and-Bust** and 
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Rehabilitation and Neuroplastic Change](../module-14-rehabilitation-and-neuroplastic-change/README.md)
-
-➡️ **Next module:** [Psychological Treatment Without Blame](../module-16-psychological-treatment-without-blame/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../module-14-rehabilitation-and-neuroplastic-change/README.md) · [Course index](../../README.md) · [Next module →](../module-16-psychological-treatment-without-blame/README.md)
+**Continue:** [Start with Understanding Load, Baselines, and Boom-and-Bust](01-understanding-load-baselines-and-boom-and-bust.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

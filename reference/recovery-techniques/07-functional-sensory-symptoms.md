@@ -70,6 +70,8 @@ Document episode duration, frequency, warning, distribution, sensory environment
 
 Avoid noxious stimulation intended to prove preserved sensation. Use sensory retraining, environmental adaptation and compensatory safety together when needed. Persistent sensory loss may require long-term skin, pressure and burn precautions even while rehabilitation continues.
 
+[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+
 <!-- NAV-CONTEXT:START -->
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/07-functional-sensory-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/01-numbness-altered-sensation-and-hypersensitivity.md)
 

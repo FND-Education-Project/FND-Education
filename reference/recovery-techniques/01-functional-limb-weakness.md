@@ -78,6 +78,8 @@ Mobility aids are neither automatically helpful nor automatically harmful. When 
 
 Coordinate physiotherapy with occupational therapy, psychological care and medical treatment when these address relevant maintaining factors or coexisting conditions. Persistent symptoms and quality-of-life goals are valid reasons for continuing support even when complete symptom remission is not occurring.
 
+[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+
 <!-- NAV-CONTEXT:START -->
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/01-functional-limb-weakness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
 

@@ -1,17 +1,11 @@
-# Work, School, Disability, and Accommodations
-
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 20: Work, Disability, and Community Participation](README.md) › **Work, School, Disability, and Accommodations**
 <!-- NAV-BREADCRUMB:END -->
 
+# Work, School, Disability, and Accommodations
+
 This is a focused authoring template within Module 20. Build the completed page around this scope: Cover functional demands, variable capacity, attendance, remote or reduced schedules, task changes, sensory and cognitive accommodations, vocational rehabilitation, disability documentation, benefits, and the risks of premature or forced return.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND work; return to work; disability; accommodations; education; vocational rehabilitation; community participation; variable capacity; disability benefits. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Work, School, Disability, and Accommodations.” Mark historical, disputed, or potentially stigmatizing language clearly.
@@ -28,24 +22,24 @@ This is a focused authoring template within Module 20. Build the completed page 
 
 **What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Which tasks are limited and why? What accommodation would address each barrier? Is return appropriate now? How will variable capacity and relapse be handled? What evidence is needed for disability or accommodation decisions? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
 
-**What should the reader open next?** Use these module links: [Module overview](README.md); [Community Participation, Meaningful Roles, and Variable Capacity](02-community-participation-meaningful-roles-and-variable-capacity.md) Add cross-module links later only when they answer a clear next question.
-
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
+
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Work, School, Disability, and Accommodations.” Develop the supporter guidance from these points: Respecting both rehabilitation hopes and current disability. Avoiding employment or productivity as a measure of worth. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
+
 ## For Clinicians and the Care Team
 
 **How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Use this section to separate diagnosis from functional capacity. Limitations may come from FND, pain, migraine, fatigue, cognitive symptoms, equipment needs, another medical condition, or inaccessible surroundings, and the combination matters more than the label. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
@@ -57,17 +51,19 @@ This is a focused authoring template within Module 20. Build the completed page 
 **How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Recommend review when work or school causes sustained deterioration, safety incidents, repeated absence, inability to recover, or when accommodations no longer match capacity. Benefits and legal guidance must be current and specific to the reader’s jurisdiction. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
 
 <!-- NAV-CONTEXT:START -->
-**In this module:** [Module overview](README.md) · [Next →](02-community-participation-meaningful-roles-and-variable-capacity.md)
+**Continue:** [Next page: Community Participation, Meaningful Roles, and Variable Capacity](02-community-participation-meaningful-roles-and-variable-capacity.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+***
 
 ## Research and Sources
 

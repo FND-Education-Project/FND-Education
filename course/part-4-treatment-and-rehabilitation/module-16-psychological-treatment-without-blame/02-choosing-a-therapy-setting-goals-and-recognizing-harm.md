@@ -1,17 +1,11 @@
-# Choosing a Therapy, Setting Goals, and Recognizing Harm
-
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 16: Psychological Treatment Without Blame](README.md) › **Choosing a Therapy, Setting Goals, and Recognizing Harm**
 <!-- NAV-BREADCRUMB:END -->
 
+# Choosing a Therapy, Setting Goals, and Recognizing Harm
+
 This is a focused authoring template within Module 16. Build the completed page around this scope: Cover CBT-informed, acceptance-based, mindfulness, trauma-focused, psychodynamic, and other approaches with honest evidence labels; include consent, fit, goals, outcome review, coercion, retraumatization, hidden-trauma claims, and the right to decline.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND psychological treatment; CBT; cognitive behavioural therapy; functional seizures therapy; ACT; mindfulness; trauma therapy; dissociation; FND stigma. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Choosing a Therapy, Setting Goals, and Recognizing Harm.” Mark historical, disputed, or potentially stigmatizing language clearly.
@@ -28,24 +22,24 @@ This is a focused authoring template within Module 16. Build the completed page 
 
 **What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: What is the therapy intended to treat? What evidence applies to my symptoms? Does the therapist require a trauma explanation? How will benefit and harm be measured? What alternatives exist if this approach is not suitable? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
 
-**What should the reader open next?** Use these module links: [Module overview](README.md); [Why Psychological Treatment Does Not Mean Imaginary](01-why-psychological-treatment-does-not-mean-imaginary.md) Add cross-module links later only when they answer a clear next question.
-
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
+
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Choosing a Therapy, Setting Goals, and Recognizing Harm.” Develop the supporter guidance from these points: Supporting treatment choices without treating therapy as confession or proof of a psychological cause. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
+
 ## For Clinicians and the Care Team
 
 **How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Distinguish FND treatment from treatment of coexisting depression, anxiety, PTSD, panic, dissociation, or relationship distress. Also distinguish psychologically informed rehabilitation from claims that an undisclosed conflict or trauma must explain the disorder. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
@@ -57,17 +51,19 @@ This is a focused authoring template within Module 16. Build the completed page 
 **How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Flag coercion, retraumatization, worsening mental health, pressure to recover memories, dismissal of medical change, lack of consent, or a practitioner treating disagreement as proof of resistance. Include ordinary crisis and safeguarding routes where relevant. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
 
 <!-- NAV-CONTEXT:START -->
-**In this module:** [← Previous](01-why-psychological-treatment-does-not-mean-imaginary.md) · [Module overview](README.md)
+**Continue:** [Next module: Daily Living, Accessibility, and Equipment](../../part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+***
 
 ## Research and Sources
 

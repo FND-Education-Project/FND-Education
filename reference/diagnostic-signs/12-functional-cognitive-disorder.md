@@ -31,11 +31,6 @@ Functional cognitive symptoms can change markedly within a day or between situat
 When a familiar cognitive episode starts, reduce incoming information and multitasking. Pause the task, use one written step, calendar, checklist or other established external aid, and resume only when it is safe and useful. Sudden confusion, altered consciousness, new focal neurological symptoms or a major departure from the established pattern needs medical assessment.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For Family, Friends, and Other Supporters
 
 Do not quiz the person, secretly keep score or use a remembered success to dismiss a later difficulty. With permission, you can provide examples of what has changed, what remains possible and how the pattern affects daily life. Try to describe actual events rather than deciding whether the person “really forgot.”
@@ -46,11 +41,6 @@ Reduce the amount of information being presented. Use one question or instructio
 
 A short period of difficulty and a longer cognitive flare can both be genuine. If useful, note the task, competing demands, duration, associated FND or migraine symptoms and recovery. New confusion, a rapid change in thinking or other urgent neurological or medical symptoms still needs appropriate assessment.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 

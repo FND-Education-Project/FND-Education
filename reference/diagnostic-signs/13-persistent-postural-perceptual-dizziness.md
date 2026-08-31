@@ -31,11 +31,6 @@ PPPD is an important exception to a simple “episodic or persistent” rule. By
 When a familiar flare rises, protect against falls, stop driving or another hazardous activity, use the support or vestibular strategy already prescribed, and allow symptoms to settle enough to continue the graded plan safely. A new severe dizziness pattern, fainting, new hearing loss or focal neurological symptoms requires reassessment rather than being assumed to be a PPPD flare.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For Family, Friends, and Other Supporters
 
 Do not deliberately expose the person to supermarkets, scrolling patterns or rapid movement to test whether symptoms appear. These environments may be part of a carefully paced treatment plan, but diagnostic history does not require forcing an episode. Help describe the time course, triggers and daily impact instead.
@@ -48,11 +43,6 @@ Useful history distinguishes the usual daily background from the stronger flare:
 
 New severe dizziness, fainting, new neurological symptoms, chest pain or another concerning change requires appropriate assessment even after PPPD has been diagnosed.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 

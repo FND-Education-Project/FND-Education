@@ -76,6 +76,8 @@ Augmentative or alternative communication should remain available while retraini
 
 Record intelligibility, communicative participation, fatigue, confidence and support use, not only symptom form. Coordinate speech-language therapy, laryngology, neurology, psychology and occupational or vocational care. Provide augmentative support when needed while keeping rehabilitation available.
 
+[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+
 <!-- NAV-CONTEXT:START -->
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/09-functional-speech-and-voice-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/01-speech-voice-and-word-blocking.md)
 

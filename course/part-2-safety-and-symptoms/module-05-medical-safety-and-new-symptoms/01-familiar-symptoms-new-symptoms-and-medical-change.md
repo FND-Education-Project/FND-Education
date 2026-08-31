@@ -1,17 +1,11 @@
-# Familiar Symptoms, New Symptoms, and Medical Change
-
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 5: Medical Safety and New Symptoms](README.md) › **Familiar Symptoms, New Symptoms, and Medical Change**
 <!-- NAV-BREADCRUMB:END -->
 
+# Familiar Symptoms, New Symptoms, and Medical Change
+
 This is a focused authoring template within Module 5. Build the completed page around this scope: Teach comparison with the person’s established, medically assessed pattern; explain diagnostic overshadowing and the risks of both dismissal and automatic escalation; and show why new, severe, injured, or substantially changed symptoms need fresh judgment.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND emergency plan; diagnostic overshadowing; new symptoms; changed symptoms; medical red flags; emergency information; FND safety. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Familiar Symptoms, New Symptoms, and Medical Change.” Mark historical, disputed, or potentially stigmatizing language clearly.
@@ -28,24 +22,24 @@ This is a focused authoring template within Module 5. Build the completed page a
 
 **What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: What is my usual medically assessed pattern? Which changes require emergency help? Who should supporters call? What information should emergency workers receive? When should my plan be reviewed? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
 
-**What should the reader open next?** Use these module links: [Module overview](README.md); [Emergency Information and Individual Safety Plans](02-emergency-information-and-individual-safety-plans.md) Add cross-module links later only when they answer a clear next question.
-
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
+
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Familiar Symptoms, New Symptoms, and Medical Change.” Develop the supporter guidance from these points: Following the agreed plan while watching for unusual features. Describing observations calmly and avoiding diagnostic arguments during an emergency. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
+
 ## For Clinicians and the Care Team
 
 **How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Explain that a familiar functional episode may resemble epilepsy, stroke, fainting, migraine, medication toxicity, infection, metabolic illness, or other emergencies. Do not create a universal diagnostic list; teach comparison with the person’s established pattern and individualized medical plan. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
@@ -57,17 +51,19 @@ This is a focused authoring template within Module 5. Build the completed page a
 **How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. This is the central reassessment page. Cover new or substantially changed symptoms, significant injury, breathing or circulation concerns, prolonged unresponsiveness, severe acute illness, unusual recovery, and any individualized criteria supplied by clinicians. Keep the eventual wording calm and non-alarmist. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
 
 <!-- NAV-CONTEXT:START -->
-**In this module:** [Module overview](README.md) · [Next →](02-emergency-information-and-individual-safety-plans.md)
+**Continue:** [Next page: Emergency Information and Individual Safety Plans](02-emergency-information-and-individual-safety-plans.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+***
 
 ## Research and Sources
 

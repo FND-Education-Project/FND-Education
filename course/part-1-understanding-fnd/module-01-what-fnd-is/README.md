@@ -25,12 +25,10 @@ A short starting point for understanding what FND is, what **functional** means,
 
 > **Inside each page:** [Person with FND](01-what-functional-means-and-how-fnd-can-appear.md#for-the-person-with-fnd) · [Supporters](01-what-functional-means-and-how-fnd-can-appear.md#for-family-friends-and-other-supporters) · [Clinicians](01-what-functional-means-and-how-fnd-can-appear.md#for-clinicians-and-the-care-team) · [Research](01-what-functional-means-and-how-fnd-can-appear.md#research-and-sources)
 
-➡️ **Next module:** [How Is FND Diagnosed?](../module-02-how-fnd-is-diagnosed/README.md)
-
 *Last reviewed: August 26, 2026*
 
 <!-- NAV-CONTEXT:START -->
-**Course:** [Course index](../../README.md) · [Next module →](../module-02-how-fnd-is-diagnosed/README.md)
+**Continue:** [Start with What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

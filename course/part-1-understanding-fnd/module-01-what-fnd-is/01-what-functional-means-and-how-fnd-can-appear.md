@@ -1,19 +1,13 @@
-# What “Functional” Means and How FND Can Appear
-
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 1: What FND Is](README.md) › **What “Functional” Means and How FND Can Appear**
 <!-- NAV-BREADCRUMB:END -->
+
+# What “Functional” Means and How FND Can Appear
 
 > **Working draft:** This page is  [looking for reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This page explains what the word “functional” means, how FND can appear, how clinicians can identify it, and why the symptoms are real and involuntary.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 >*"Functional disorders are conditions whose origin arises primarily from a disorder of nervous system functioning rather than clearly identifiable pathophysiological disease... It causes considerable physical disability and distress..."* - Professor Jon Stone, neurologist (BMJ 2020;371:m3745)
 
 >*"FND is currently defined as a 'clinical syndrome with genuinely experienced neurological symptoms which are distressing or impairing, and show dysfunction of the nervous system with variability in performance within a task or between task'"* -Functional neurological disorder: Practical management. Barbara A. Dworetzky, Gaston Baslet
@@ -94,17 +88,14 @@ If you haven't already asked these of the diagnosing doctor, here's a few good q
 -  “Could another condition also be present?”
 
 Another useful thing to do is put into your own words what FND is and how to explain to your family and friends.
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)  
 
-[Module overview](README.md) — the shortest introduction and guide to the module.  
-**What “Functional” Means and How FND Can Appear — current page**  
-[The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md) — a plain-language explanation of the model, its limits, and common misconceptions.  
-[Remission, Recovery, and What Improvement Can Mean](03-remission-recovery-and-what-improvement-can-mean.md) — a brief introduction to the different ways people may understand improvement.
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Functional Neurological Disorder is a very disabling disease and it can vary in how many symptoms or how sensitive those symptoms are. This used to be considered a psychiatric diagnosis called 'conversion disorder,' however, that term and the idea that these symptoms must be of a psychogenic (from the mind or emotions) or psychiatric cause is false. In fact, recent findings have shown that diagnosis of FND does not need a psychological precipitating factor. (*citations* [2](#citation-2), [4](#citation-4), [9](#citation-9)) 
@@ -118,9 +109,9 @@ Support the person you are showing care to often involves assuring the person th
 *Figure 2*
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
 
@@ -149,11 +140,47 @@ A useful explanation should identify which symptoms have been diagnosed as funct
 This free online course is contributed to by those with lived experience in Functional Neurological Disorder [currently, the official term provided by the DSM-V-tr] with the intent of bringing as much of the current research together in one place. The content for medical practitioners is centered around ways of being helpful to your patient both in understanding what their disease is and what they can do to improve a specific symptom or to support them when a symptom is likely not going to improve. We invite you to visit this section in each page of this course while also reading the content for the patient where most of the discussion will take place. Following this section is where you'll find the research behind that content. If you disagree about how a paper was interpreted, we are always open to hearing from you.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
+
+***
+
+## Research and Sources
+
+### Three focused quotations
+
+- “It causes considerable physical disability and distress.” (*citations* [1](#citation-1))
+- “The diagnosis of FND [functional neurological disorder] should rest on clear positive evidence.” (*citations* [3](#citation-3))
+- “Psychological stressors are important risk factors but are neither necessary nor sufficient for the diagnosis.” (*citations* [1](#citation-1))
+
+### Citation table
+
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | *Figure 1* | Stone J, Burton C, Carson A. Recognising and explaining functional neurological disorder. *BMJ*. 2020;371:m3745. [FND-CIT-0043](../../../research/citation-index.md#fnd-cit-0043). [https://doi.org/10.1136/bmj.m3745](https://doi.org/10.1136/bmj.m3745) |
+| <a id="citation-2"></a>**[2]** | *Figure 1* | Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4):e00612. [FND-CIT-0013](../../../research/citation-index.md#fnd-cit-0013). [https://doi.org/10.1016/j.neurot.2025.e00612](https://doi.org/10.1016/j.neurot.2025.e00612) |
+| <a id="citation-3"></a>**[3]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
+| <a id="citation-4"></a>**[4]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
+| <a id="citation-5"></a>**[5]** | — | Bègue I, Adams C, Stone J, Perez DL. Structural alterations in functional neurological disorder and related conditions: a software and hardware problem? *NeuroImage: Clinical*. 2019;22:101798. [FND-CIT-0004](../../../research/citation-index.md#fnd-cit-0004). [https://doi.org/10.1016/j.nicl.2019.101798](https://doi.org/10.1016/j.nicl.2019.101798) |
+| <a id="citation-6"></a>**[6]** | — | Charney M, Foster S, Shukla V, et al. Neurometabolic alterations in children and adolescents with functional neurological disorder. *NeuroImage: Clinical*. 2024;41:103557. [FND-CIT-0044](../../../research/citation-index.md#fnd-cit-0044). [https://doi.org/10.1016/j.nicl.2023.103557](https://doi.org/10.1016/j.nicl.2023.103557) |
+| <a id="citation-7"></a>**[7]** | — | Lidstone SC, Costa-Parke M, Robinson EJ, Ercoli T, Stone J; FMD GAP Study Group. Functional movement disorder gender, age and phenotype study: a systematic review and individual patient meta-analysis of 4905 cases. *Journal of Neurology, Neurosurgery & Psychiatry*. 2022;93(6):609–616. [FND-CIT-0045](../../../research/citation-index.md#fnd-cit-0045). [https://doi.org/10.1136/jnnp-2021-328462](https://doi.org/10.1136/jnnp-2021-328462) |
+| <a id="citation-8"></a>**[8]** | — | Gelauff J, Stone J, Edwards M, Carson A. The prognosis of functional (psychogenic) motor symptoms: a systematic review. *Journal of Neurology, Neurosurgery & Psychiatry*. 2014;85(2):220–226. [FND-CIT-0007](../../../research/citation-index.md#fnd-cit-0007). [https://doi.org/10.1136/jnnp-2013-305321](https://doi.org/10.1136/jnnp-2013-305321) |
+| <a id="citation-9"></a>**[9]** | — | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) |
+| <a id="citation-10"></a>**[10]** | *Figure 2* | Anderson KE, Gruber-Baldini AL, Vaughan CG, Reich SG, Fishman PS, Weiner WJ, Shulman LM. Impact of psychogenic movement disorders versus Parkinson’s on disability, quality of life, and psychopathology. *Movement Disorders*. 2007;22(15):2204–2209. [FND-CIT-0046](../../../research/citation-index.md#fnd-cit-0046). [https://doi.org/10.1002/mds.21687](https://doi.org/10.1002/mds.21687) |
+| <a id="citation-11"></a>**[11]** | *Figure 2* | Stone J, Warlow C, Sharpe M. The symptom of functional weakness: a controlled study of 107 patients. *Brain*. 2010;133(5):1537–1551. [FND-CIT-0047](../../../research/citation-index.md#fnd-cit-0047). [https://doi.org/10.1093/brain/awq068](https://doi.org/10.1093/brain/awq068) |
+| <a id="citation-12"></a>**[12]** | *Figure 2* | Jones B, Reuber M, Norman P. Correlates of health-related quality of life in adults with psychogenic nonepileptic seizures: a systematic review. *Epilepsia*. 2016;57(2):171–181. [FND-CIT-0048](../../../research/citation-index.md#fnd-cit-0048). [https://doi.org/10.1111/epi.13268](https://doi.org/10.1111/epi.13268) |
+| <a id="citation-13"></a>**[13]** | — | Stone J, Coebergh J, Khoja L, et al. Migraine and functional neurological disorder (FND)—a review of comorbidity and potential overlap. *Brain Communications*. 2025;7(4):fcaf288. [FND-CIT-0049](../../../research/citation-index.md#fnd-cit-0049). [https://doi.org/10.1093/braincomms/fcaf288](https://doi.org/10.1093/braincomms/fcaf288) |
+
+*Last reviewed: August 26, 2026*
 
 <details>
 <summary><strong>Author accuracy review — suggested wording not yet applied</strong></summary>
@@ -201,37 +228,3 @@ These notes are for the author and reviewers. They identify wording that may ove
 > A 2022 paper titled *Functional Neurological Disorder: new subtypes and shared mechanisms* makes four statements worth repeating here verbatim:
 
 </details>
-
-<!-- NAV-CONTEXT:START -->
-**In this module:** [Module overview](README.md) · [Next →](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
-## Research and Sources
-
-### Three focused quotations
-
-- “It causes considerable physical disability and distress.” (*citations* [1](#citation-1))
-- “The diagnosis of FND [functional neurological disorder] should rest on clear positive evidence.” (*citations* [3](#citation-3))
-- “Psychological stressors are important risk factors but are neither necessary nor sufficient for the diagnosis.” (*citations* [1](#citation-1))
-
-### Citation table
-
-| Citation | Figure | Full citation |
-|---|---|---|
-| <a id="citation-1"></a>**[1]** | *Figure 1* | Stone J, Burton C, Carson A. Recognising and explaining functional neurological disorder. *BMJ*. 2020;371:m3745. [FND-CIT-0043](../../../research/citation-index.md#fnd-cit-0043). [https://doi.org/10.1136/bmj.m3745](https://doi.org/10.1136/bmj.m3745) |
-| <a id="citation-2"></a>**[2]** | *Figure 1* | Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4):e00612. [FND-CIT-0013](../../../research/citation-index.md#fnd-cit-0013). [https://doi.org/10.1016/j.neurot.2025.e00612](https://doi.org/10.1016/j.neurot.2025.e00612) |
-| <a id="citation-3"></a>**[3]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
-| <a id="citation-4"></a>**[4]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
-| <a id="citation-5"></a>**[5]** | — | Bègue I, Adams C, Stone J, Perez DL. Structural alterations in functional neurological disorder and related conditions: a software and hardware problem? *NeuroImage: Clinical*. 2019;22:101798. [FND-CIT-0004](../../../research/citation-index.md#fnd-cit-0004). [https://doi.org/10.1016/j.nicl.2019.101798](https://doi.org/10.1016/j.nicl.2019.101798) |
-| <a id="citation-6"></a>**[6]** | — | Charney M, Foster S, Shukla V, et al. Neurometabolic alterations in children and adolescents with functional neurological disorder. *NeuroImage: Clinical*. 2024;41:103557. [FND-CIT-0044](../../../research/citation-index.md#fnd-cit-0044). [https://doi.org/10.1016/j.nicl.2023.103557](https://doi.org/10.1016/j.nicl.2023.103557) |
-| <a id="citation-7"></a>**[7]** | — | Lidstone SC, Costa-Parke M, Robinson EJ, Ercoli T, Stone J; FMD GAP Study Group. Functional movement disorder gender, age and phenotype study: a systematic review and individual patient meta-analysis of 4905 cases. *Journal of Neurology, Neurosurgery & Psychiatry*. 2022;93(6):609–616. [FND-CIT-0045](../../../research/citation-index.md#fnd-cit-0045). [https://doi.org/10.1136/jnnp-2021-328462](https://doi.org/10.1136/jnnp-2021-328462) |
-| <a id="citation-8"></a>**[8]** | — | Gelauff J, Stone J, Edwards M, Carson A. The prognosis of functional (psychogenic) motor symptoms: a systematic review. *Journal of Neurology, Neurosurgery & Psychiatry*. 2014;85(2):220–226. [FND-CIT-0007](../../../research/citation-index.md#fnd-cit-0007). [https://doi.org/10.1136/jnnp-2013-305321](https://doi.org/10.1136/jnnp-2013-305321) |
-| <a id="citation-9"></a>**[9]** | — | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) |
-| <a id="citation-10"></a>**[10]** | *Figure 2* | Anderson KE, Gruber-Baldini AL, Vaughan CG, Reich SG, Fishman PS, Weiner WJ, Shulman LM. Impact of psychogenic movement disorders versus Parkinson’s on disability, quality of life, and psychopathology. *Movement Disorders*. 2007;22(15):2204–2209. [FND-CIT-0046](../../../research/citation-index.md#fnd-cit-0046). [https://doi.org/10.1002/mds.21687](https://doi.org/10.1002/mds.21687) |
-| <a id="citation-11"></a>**[11]** | *Figure 2* | Stone J, Warlow C, Sharpe M. The symptom of functional weakness: a controlled study of 107 patients. *Brain*. 2010;133(5):1537–1551. [FND-CIT-0047](../../../research/citation-index.md#fnd-cit-0047). [https://doi.org/10.1093/brain/awq068](https://doi.org/10.1093/brain/awq068) |
-| <a id="citation-12"></a>**[12]** | *Figure 2* | Jones B, Reuber M, Norman P. Correlates of health-related quality of life in adults with psychogenic nonepileptic seizures: a systematic review. *Epilepsia*. 2016;57(2):171–181. [FND-CIT-0048](../../../research/citation-index.md#fnd-cit-0048). [https://doi.org/10.1111/epi.13268](https://doi.org/10.1111/epi.13268) |
-| <a id="citation-13"></a>**[13]** | — | Stone J, Coebergh J, Khoja L, et al. Migraine and functional neurological disorder (FND)—a review of comorbidity and potential overlap. *Brain Communications*. 2025;7(4):fcaf288. [FND-CIT-0049](../../../research/citation-index.md#fnd-cit-0049). [https://doi.org/10.1093/braincomms/fcaf288](https://doi.org/10.1093/braincomms/fcaf288) |
-
-*Last reviewed: August 26, 2026*

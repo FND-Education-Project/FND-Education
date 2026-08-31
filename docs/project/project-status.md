@@ -6,9 +6,9 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-**Current stage: complete first-draft course, awaiting human editing and evidence review.**
+**Current stage: complete course structure and authoring drafts, with human writing and evidence review underway.**
 
-The repository contains all 23 modules and 77 planned course pages. Module 1 contains the project lead's developing human voice and reviewed sources. The remaining modules have now been converted from authoring templates into readable, automatically generated working drafts based on the detailed syllabus and the Module 1 pattern.
+The repository contains all 77 course pages: 23 module overviews and 54 focused pages. Module 1 contains the project lead's developing human voice and reviewed sources. Most pages in Modules 2–23 remain automatically generated authoring drafts based on the detailed syllabus and the Module 1 pattern. They still require human writing, evidence review, safety review and citation work.
 
 ## Completed foundation work
 
@@ -17,10 +17,10 @@ The repository contains all 23 modules and 77 planned course pages. Module 1 con
 - Organized the course into 23 module folders and 77 pages.
 - Kept the four reader-facing sections on every focused page.
 - Completed the initial Module 1 writing pattern.
-- Replaced the remaining authoring templates with full working drafts.
+- Created a scoped authoring draft for every focused page.
 - Reformatted every module README into a short overview like Module 1.
 - Added a visible automatic-generation and contributor-review notice to every course page.
-- Added complete reading-order, previous-page and next-page navigation.
+- Added breadcrumbs, global navigation, a nested site map, and a forward reading path from each module overview through its pages and into the next module.
 - Marked citations and evidence review as pending wherever a research package has not yet been completed.
 
 ## Current priorities

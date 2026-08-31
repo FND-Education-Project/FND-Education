@@ -22,12 +22,8 @@ This short module introduces **Speech, Voice, Swallowing, and Breathing Symptoms
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Sensory, Visual, Balance, and Dizziness Symptoms](../module-08-sensory-visual-balance-and-dizziness-symptoms/README.md)
-
-➡️ **Next module:** [Thinking, Memory, and Dissociation](../../part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../module-08-sensory-visual-balance-and-dizziness-symptoms/README.md) · [Course index](../../README.md) · [Next module →](../../part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/README.md)
+**Continue:** [Start with Speech, Voice, and Word Blocking](01-speech-voice-and-word-blocking.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

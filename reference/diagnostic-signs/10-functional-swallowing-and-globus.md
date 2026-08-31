@@ -31,11 +31,6 @@ If familiar difficulty begins during eating or drinking, follow the person’s a
 Weight loss, dehydration, recurrent chest infection, progressive difficulty, pain, bleeding or other concerning features need appropriate medical investigation. Do not test your swallowing with increasingly difficult foods at home.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For Family, Friends, and Other Supporters
 
 Follow the person’s current swallowing plan, including recommended texture, position, pace and supervision. Do not offer a difficult food or large drink to see whether the symptom changes with distraction. If choking or another emergency occurs, follow local emergency guidance and the person’s care plan.
@@ -48,11 +43,6 @@ An intermittent problem can still carry real choking, aspiration or nutrition ri
 
 Record duration and meal context only after immediate swallowing and breathing safety has been addressed.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 

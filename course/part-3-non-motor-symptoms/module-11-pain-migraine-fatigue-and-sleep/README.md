@@ -23,12 +23,8 @@ This short module introduces **Pain, Migraine, Fatigue, and Sleep** and helps re
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Thinking, Memory, and Dissociation](../module-10-cognition-memory-and-dissociation/README.md)
-
-➡️ **Next module:** [Autonomic and Whole-Body Symptoms](../module-12-autonomic-and-whole-body-symptoms/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../module-10-cognition-memory-and-dissociation/README.md) · [Course index](../../README.md) · [Next module →](../module-12-autonomic-and-whole-body-symptoms/README.md)
+**Continue:** [Start with Chronic Pain](01-chronic-pain.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

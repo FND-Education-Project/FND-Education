@@ -31,11 +31,6 @@ At the onset of a familiar painful posture, protect the limb and find the suppor
 The examination should not be used to force a painful limb into a different position or to prove that a fixed posture is under voluntary control.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For Family, Friends, and Other Supporters
 
 Do not pull, straighten or manipulate a fixed limb for a photograph or demonstration. Ask what positioning is comfortable and follow the person’s clinical plan. Visible changes in posture over time are useful history, but they do not allow a supporter to decide whether the dystonia is functional.
@@ -46,11 +41,6 @@ An episode may be brief, recur in bouts, or settle into a posture that lasts muc
 
 Useful observations after safety comes first include how the posture began, whether it was fixed or moving, the task or setting, pain and swelling, other symptoms, duration and recovery.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
 ***
 ## For Clinicians and the Care Team
 

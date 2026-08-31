@@ -21,12 +21,8 @@ This short module introduces **Rehabilitation and Neuroplastic Change** and help
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Build Your FND Treatment Team](../module-13-building-an-individual-treatment-team/README.md)
-
-➡️ **Next module:** [Pacing Activity and Avoiding Boom-and-Bust](../module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../module-13-building-an-individual-treatment-team/README.md) · [Course index](../../README.md) · [Next module →](../module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md)
+**Continue:** [Start with How FND Rehabilitation May Work](01-how-fnd-rehabilitation-may-work.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

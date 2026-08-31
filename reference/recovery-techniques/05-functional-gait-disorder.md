@@ -79,6 +79,8 @@ Rehearse a portable onset plan: **fall prevention/aid → reduce relevant compet
 
 Assess vestibular, sensory, orthopedic, medication, cardiovascular and other neurological contributors when indicated. Prescribe aids and body-weight support according to risk. Coordinate community practice and relapse planning; avoid unsupervised challenge for a person with unpredictable collapse or injury risk.
 
+[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+
 <!-- NAV-CONTEXT:START -->
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/05-functional-gait-disorder.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
 

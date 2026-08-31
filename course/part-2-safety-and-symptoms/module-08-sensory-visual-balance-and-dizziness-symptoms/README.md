@@ -22,12 +22,8 @@ This short module introduces **Sensory, Visual, Balance, and Dizziness Symptoms*
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Movement, Weakness, Walking, and Falls](../module-07-functional-movement-weakness-and-gait-symptoms/README.md)
-
-➡️ **Next module:** [Speech, Voice, Swallowing, and Breathing Symptoms](../module-09-speech-voice-swallowing-and-breathing-symptoms/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../module-07-functional-movement-weakness-and-gait-symptoms/README.md) · [Course index](../../README.md) · [Next module →](../module-09-speech-voice-swallowing-and-breathing-symptoms/README.md)
+**Continue:** [Start with Numbness, Altered Sensation, and Hypersensitivity](01-numbness-altered-sensation-and-hypersensitivity.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

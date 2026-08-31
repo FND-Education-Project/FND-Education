@@ -49,14 +49,16 @@ Older terms should be labelled historical, outdated, disputed, or potentially st
 - Avoid duplicating full explanations across several pages; summarize and link to the canonical explanation.
 - Use meaningful link text that explains the destination.
 - Keep summaries and practical actions easy to relocate on a return visit.
-- Repeat the four standard section links before each major section so readers do not have to return to the top of a long page.
+- Show the four standard section links in two predictable places: once near the top, before the first audience section, and once after the clinician section, before contextual navigation and the research or resources section.
 
 ### Site-wide navigation pattern
 
 - Every reader-facing Markdown page should have a compact breadcrumb immediately below its title so a reader arriving from search can see where the page sits in the project.
 - Every page should provide the four predictable global destinations: **Home**, **Course**, **Reference Library**, and **Site Map**.
 - Contextual navigation belongs **below all other reader-facing content and immediately before the page's research, evidence, or sources section**. If a page has no source section, place it at the end of the page.
-- Course articles should provide the module overview and previous/next article links where those destinations exist. Module overview pages should provide previous/next module links where appropriate.
+- Each module overview should provide one forward contextual link to the first focused page in that module.
+- Each course article should provide one forward contextual link. It should lead to the next page in the module, or from the module's last page to the next module overview. The last page of Module 23 should return to the course index.
+- Breadcrumbs and the global Course link provide the route back to a module overview or the course index; do not repeat previous-page, previous-module, or module-index links in the contextual block.
 - Symptom reference pages should link to their collection index, the corresponding diagnostic or recovery page, and the most directly related course page where one exists.
 - Deeper collections should use contextual links that reflect their real hierarchy rather than treating a numbered booklet or subdocument as a numbered symptom page.
 - Maintain the human-readable root [`SITEMAP.md`](../../SITEMAP.md) whenever a reader-facing page is added, moved, renamed, or removed. It should use collapsible nested sections so the whole project can be explored without displaying the entire hierarchy at once.

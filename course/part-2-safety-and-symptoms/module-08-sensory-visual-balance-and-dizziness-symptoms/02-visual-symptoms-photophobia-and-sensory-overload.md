@@ -1,17 +1,11 @@
-# Visual Symptoms, Photophobia, and Sensory Overload
-
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 8: Sensory, Visual, Balance, and Dizziness Symptoms](README.md) › **Visual Symptoms, Photophobia, and Sensory Overload**
 <!-- NAV-BREADCRUMB:END -->
 
+# Visual Symptoms, Photophobia, and Sensory Overload
+
 This is a focused authoring template within Module 8. Build the completed page around this scope: Cover functional visual symptoms, visual distortion or loss, light and sound sensitivity, visual-motion sensitivity, eye and migraine assessment, low-sensory access, accommodation, and the limits and risks of exposure-based advice.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: functional sensory symptoms; numbness; altered sensation; functional visual symptoms; functional vision loss; dizziness; balance; PPPD; sensory overload; photophobia; phonophobia. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Visual Symptoms, Photophobia, and Sensory Overload.” Mark historical, disputed, or potentially stigmatizing language clearly.
@@ -28,24 +22,24 @@ This is a focused authoring template within Module 8. Build the completed page a
 
 **What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Which findings support a functional symptom? Have eye, vestibular, migraine, medication, and neurological causes been considered? Which accommodations are appropriate now? If exposure is proposed, how will it be made gradual, consensual, and reversible? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
 
-**What should the reader open next?** Use these module links: [Module overview](README.md); [Numbness, Altered Sensation, and Hypersensitivity](01-numbness-altered-sensation-and-hypersensitivity.md); [Dizziness, Balance, and Vestibular Overlap](03-dizziness-balance-and-vestibular-overlap.md) Add cross-module links later only when they answer a clear next question.
-
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
+
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Visual Symptoms, Photophobia, and Sensory Overload.” Develop the supporter guidance from these points: Reducing avoidable strain without abruptly exposing the person to triggers. Helping build gradual plans that respect severity and consent. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
+
 ## For Clinicians and the Care Team
 
 **How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Cover eye disease, migraine and vestibular migraine, inner-ear disorders, neuropathy, spinal disease, stroke, medication effects, blood-pressure problems, and persistent postural-perceptual dizziness. Explain that functional and non-functional contributors may overlap. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
@@ -57,17 +51,19 @@ This is a focused authoring template within Module 8. Build the completed page a
 **How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Flag sudden vision loss, a painful red eye, new one-sided sensory loss, fainting, serious falls, new severe headache, new hearing change, or a substantial departure from the person’s usual symptoms. The final article should defer to appropriate eye, vestibular, neurological, or medical assessment. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
 
 <!-- NAV-CONTEXT:START -->
-**In this module:** [← Previous](01-numbness-altered-sensation-and-hypersensitivity.md) · [Module overview](README.md) · [Next →](03-dizziness-balance-and-vestibular-overlap.md)
+**Continue:** [Next page: Dizziness, Balance, and Vestibular Overlap](03-dizziness-balance-and-vestibular-overlap.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+***
 
 ## Research and Sources
 

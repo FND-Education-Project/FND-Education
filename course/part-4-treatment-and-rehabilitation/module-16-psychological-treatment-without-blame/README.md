@@ -21,12 +21,8 @@ This short module introduces **Psychological Treatment Without Blame** and helps
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Pacing Activity and Avoiding Boom-and-Bust](../module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md)
-
-➡️ **Next module:** [Daily Living, Accessibility, and Equipment](../../part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md) · [Course index](../../README.md) · [Next module →](../../part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md)
+**Continue:** [Start with Why Psychological Treatment Does Not Mean Imaginary](01-why-psychological-treatment-does-not-mean-imaginary.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

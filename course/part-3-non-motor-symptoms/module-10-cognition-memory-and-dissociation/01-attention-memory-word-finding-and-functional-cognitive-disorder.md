@@ -1,17 +1,11 @@
-# Attention, Memory, Word Finding, and Functional Cognitive Disorder
-
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 10: Cognition, Memory, and Dissociation](README.md) › **Attention, Memory, Word Finding, and Functional Cognitive Disorder**
 <!-- NAV-BREADCRUMB:END -->
 
+# Attention, Memory, Word Finding, and Functional Cognitive Disorder
+
 This is a focused authoring template within Module 10. Build the completed page around this scope: Explain attention, processing speed, working memory, encoding and retrieval, episodic memory, semantic access, word finding, Functional Cognitive Disorder, formal assessment, other contributors, and external memory supports.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For the Person With FND
 
 **What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND cognitive symptoms; Functional Cognitive Disorder; FCD; brain fog; episodic memory; semantic memory; word finding; dissociation; depersonalization; derealization. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Attention, Memory, Word Finding, and Functional Cognitive Disorder.” Mark historical, disputed, or potentially stigmatizing language clearly.
@@ -28,24 +22,24 @@ This is a focused authoring template within Module 10. Build the completed page 
 
 **What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Is the difficulty with attention, learning, storage, or retrieval? Could sleep, migraine, medication, pain, seizures, or another condition contribute? Is neuropsychological assessment useful? Which external supports would reduce daily risk? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
 
-**What should the reader open next?** Use these module links: [Module overview](README.md); [Dissociation and Altered Awareness](02-dissociation-and-altered-awareness.md) Add cross-module links later only when they answer a clear next question.
-
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
+
 ## For Family, Friends, and Other Supporters
 
 **What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Attention, Memory, Word Finding, and Functional Cognitive Disorder.” Develop the supporter guidance from these points: Cueing without testing, shaming, or removing autonomy. Giving one subject at a time and allowing additional processing time. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
+
 ## For Clinicians and the Care Team
 
 **How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Discuss sleep disorders, migraine, epilepsy, medication and substance effects, depression, anxiety, PTSD, brain injury, endocrine or nutritional disease, neurodegeneration, pain, and sensory overload. Make clear that significant cognitive change should not be assigned to FND without assessment. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
@@ -57,17 +51,19 @@ This is a focused authoring template within Module 10. Build the completed page 
 **How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Flag rapid or progressive decline, getting lost in familiar places, new neurological signs, major safety errors, a new level of confusion, seizure change, head injury, or cognitive worsening after medication or illness. Encourage assessment of treatable contributors. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
 
 <!-- NAV-CONTEXT:START -->
-**In this module:** [Module overview](README.md) · [Next →](02-dissociation-and-altered-awareness.md)
+**Continue:** [Next page: Dissociation and Altered Awareness](02-dissociation-and-altered-awareness.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+***
 
 ## Research and Sources
 

@@ -21,12 +21,8 @@ This short module introduces **Setbacks, Relapse, and Changing Symptoms** and he
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Work, Disability, and Community Participation](../../part-5-living-with-fnd/module-20-work-disability-and-community-participation/README.md)
-
-➡️ **Next module:** [Build Your Personal FND Handbook](../module-22-building-your-personal-fnd-handbook/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../../part-5-living-with-fnd/module-20-work-disability-and-community-participation/README.md) · [Course index](../../README.md) · [Next module →](../module-22-building-your-personal-fnd-handbook/README.md)
+**Continue:** [Start with Recognizing a Setback Versus Medical Change](01-recognizing-a-setback-versus-medical-change.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

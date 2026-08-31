@@ -22,12 +22,8 @@ This short module introduces **Functional Seizures and Other Episodes** and help
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Medical Safety and New Symptoms](../module-05-medical-safety-and-new-symptoms/README.md)
-
-➡️ **Next module:** [Movement, Weakness, Walking, and Falls](../module-07-functional-movement-weakness-and-gait-symptoms/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../module-05-medical-safety-and-new-symptoms/README.md) · [Course index](../../README.md) · [Next module →](../module-07-functional-movement-weakness-and-gait-symptoms/README.md)
+**Continue:** [Start with What Functional Seizures Are and How They Are Diagnosed](01-what-functional-seizures-are-and-how-they-are-diagnosed.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

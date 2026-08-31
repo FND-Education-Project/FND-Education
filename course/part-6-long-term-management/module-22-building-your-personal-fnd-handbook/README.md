@@ -21,12 +21,8 @@ This short module introduces **Build Your Personal FND Handbook** and helps read
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Setbacks, Relapse, and Changing Symptoms](../module-21-setbacks-relapse-and-changing-symptoms/README.md)
-
-➡️ **Next module:** [Review Progress and Choose Next Steps](../module-23-reviewing-progress/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../module-21-setbacks-relapse-and-changing-symptoms/README.md) · [Course index](../../README.md) · [Next module →](../module-23-reviewing-progress/README.md)
+**Continue:** [Start with What Belongs in the Personal FND Handbook](01-what-belongs-in-the-personal-fnd-handbook.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

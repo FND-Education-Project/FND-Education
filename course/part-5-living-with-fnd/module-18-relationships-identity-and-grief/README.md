@@ -21,12 +21,8 @@ This short module introduces **Relationships, Identity, and Grief** and helps re
 >
 > Every page in this module uses these same four main sections.
 
-⬅️ **Previous module:** [Daily Living, Accessibility, and Equipment](../module-17-daily-living-accessibility-and-equipment/README.md)
-
-➡️ **Next module:** [Healthcare Communication and Self-Advocacy](../module-19-healthcare-communication-and-self-advocacy/README.md)
-
 <!-- NAV-CONTEXT:START -->
-**Course:** [← Previous module](../module-17-daily-living-accessibility-and-equipment/README.md) · [Course index](../../README.md) · [Next module →](../module-19-healthcare-communication-and-self-advocacy/README.md)
+**Continue:** [Start with Grief, Identity, Purpose, and Social Isolation](01-grief-identity-purpose-and-social-isolation.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

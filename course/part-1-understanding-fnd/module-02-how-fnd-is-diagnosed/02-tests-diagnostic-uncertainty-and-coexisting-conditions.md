@@ -1,19 +1,13 @@
-# Tests, Diagnostic Uncertainty, and Coexisting Conditions
-
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 2: How FND Is Diagnosed](README.md) › **Tests, Diagnostic Uncertainty, and Coexisting Conditions**
 <!-- NAV-BREADCRUMB:END -->
+
+# Tests, Diagnostic Uncertainty, and Coexisting Conditions
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 Tests are important, but no test answers every question. A scan, blood test, electroencephalogram or specialist assessment is useful when it is chosen to investigate a particular possibility. This page explains why normal results do not diagnose FND on their own, why another condition can exist alongside FND, and when it may be reasonable to revisit a diagnosis.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 ## For the Person With FND
 
 A common description of the diagnostic process is, “All my tests were normal, so they said it was FND.” That explanation is incomplete. Normal test results may make some other diagnoses less likely, but they do not themselves show that a symptom is functional. The evidence for FND should come from positive features in the history, examination or nature of an event. (*citations* [1](#citation-1), [2](#citation-2))
@@ -66,14 +60,11 @@ Make a short diagnostic record with four headings: **symptom or event**, **posit
 If writing the full record is too much, begin with one sentence: “The part of my diagnosis I most need explained is…” This exercise is for organizing information. It is not a way to interpret scans, EEGs or laboratory results without a qualified clinician.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-- [Module overview](README.md) — a short introduction and guide to this module.
-- [Positive Signs and the Neurological Examination](01-positive-signs-and-the-neurological-examination.md) — how positive signs may support an FND diagnosis.
-- **Tests, Diagnostic Uncertainty, and Coexisting Conditions — current page**
 
 ## For Family, Friends, and Other Supporters
 
@@ -86,11 +77,12 @@ Try not to turn uncertainty into a dispute in which the person must choose betwe
 Support can include helping the person prepare one or two questions, asking permission before speaking during an appointment, and making sure new or substantially changed symptoms are not automatically dismissed as familiar FND.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
+
 ## For Clinicians and the Care Team
 
 **How can clinicians explain testing without reducing FND to normal results?** State the positive basis for the FND diagnosis separately from the purpose and result of each investigation. “The MRI did not show a stroke” and “the examination showed a positive functional sign” are different statements. Explain what was reasonably excluded, what was not tested and why further testing is or is not likely to help. (*citations* [1](#citation-1), [2](#citation-2))
@@ -104,20 +96,19 @@ For seizure-like events, obtain a detailed history and semiology from the patien
 **When should the diagnosis be reviewed?** Arrange reassessment for new focal findings, a materially different episode, progressive loss of previously stable abilities, injury, abnormal objective findings or a course that no longer fits the original formulation. Review is also appropriate when the original diagnosis relied only on exclusion or when the patient never received an understandable explanation of its positive basis. The goal is not endless retesting; it is a proportionate plan that protects against missed comorbidity and unnecessary investigation.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
 
-➡️ **Next module:** [What May Cause or Affect FND?](../module-03-causes-mechanisms-and-honest-uncertainty/README.md)
-***
-
 <!-- NAV-CONTEXT:START -->
-**In this module:** [← Previous](01-positive-signs-and-the-neurological-examination.md) · [Module overview](README.md)
+**Continue:** [Next module: What May Cause or Affect FND?](../module-03-causes-mechanisms-and-honest-uncertainty/README.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+***
 
 ## Research and Sources
 

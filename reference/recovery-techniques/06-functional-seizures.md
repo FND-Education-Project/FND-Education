@@ -81,6 +81,8 @@ The [2026 American Academy of Neurology functional-seizure guideline](https://ww
 
 Discuss antiseizure-medication taper only when epilepsy and other indications have been addressed. Include supporters with consent. Track episode frequency, injuries, emergency use, disability, participation and quality of life; frequency alone can miss meaningful improvement.
 
+[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+
 <!-- NAV-CONTEXT:START -->
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/03-recovery-treatment-and-daily-life.md)
 

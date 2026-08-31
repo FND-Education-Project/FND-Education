@@ -73,6 +73,8 @@ Document episode duration, meal phase, food/liquid consistency and volume, setti
 
 Use positive explanation, tension reduction, attention change and graded functional swallowing only within that assessment. Monitor nutrition, hydration, aspiration indicators and quality of life. Coordinate speech-language pathology, dietetics, ENT, gastroenterology, neurology and psychological care where relevant.
 
+[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+
 <!-- NAV-CONTEXT:START -->
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/10-functional-swallowing-and-globus.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/02-swallowing-globus-and-nutrition-safety.md)
 
