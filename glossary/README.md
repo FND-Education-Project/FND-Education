@@ -103,6 +103,11 @@ In FND, **functional** refers to a disorder of how nervous-system processes are 
 
 A term used for persistent cognitive difficulties—such as problems with memory, attention, or thinking—when the clinical pattern shows features characteristic of functional cognitive symptoms. FCD may occur with or without other FND symptoms. Cognitive complaints can also have many other causes, so assessment should consider alternatives and coexisting conditions.
 
+### Functional facial symptoms
+**Type: FND symptom group**
+
+Functional symptoms affecting facial movement or control. They may include facial spasm or pulling, apparent droop, functional facial weakness, active eye closure, ptosis, jaw or tongue movement, or difficulty keeping the lips closed. Apparent droop can result from overactive muscles pulling the mouth downward rather than weakness. New or suddenly changed facial droop still needs urgent medical assessment and should not automatically be attributed to FND. See [Functional Facial Symptoms — Spasm, Droop and Weakness](../reference/diagnostic-signs/14-functional-facial-symptoms.md).
+
 ### Functional/dissociative seizures (FDS)
 **Type: proposed international terminology**
 

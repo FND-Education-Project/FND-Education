@@ -64,6 +64,8 @@ Older terms should be labelled historical, outdated, disputed, or potentially st
 - Maintain the human-readable root [`SITEMAP.md`](../../SITEMAP.md) whenever a reader-facing page is added, moved, renamed, or removed. It should use collapsible nested sections so the whole project can be explored without displaying the entire hierarchy at once.
 - `SITEMAP.md` is the reader navigation map. A machine-readable `sitemap.xml`, when used for search engines, serves a different purpose and does not replace it.
 
+Use the [repository change and page maintenance policy](repository-change-and-page-maintenance-policy.md) as the operational checklist whenever a course or reference page is added, removed, renamed or moved.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 

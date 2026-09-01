@@ -79,7 +79,7 @@ If a real patient is filmed, use one continuous clip and permit their normal sup
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/04-functional-dystonia.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md)
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/04-functional-dystonia.md) · [Functional facial symptoms](14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

@@ -37,6 +37,7 @@ The distinction matters. A single jerk is brief but jerks may occur in prolonged
 11. [Functional cough and upper-airway symptoms](11-functional-cough-and-upper-airway-symptoms.md)
 12. [Functional Cognitive Disorder](12-functional-cognitive-disorder.md)
 13. [Persistent postural-perceptual dizziness](13-persistent-postural-perceptual-dizziness.md)
+14. [Functional facial symptoms — spasm, droop and weakness](14-functional-facial-symptoms.md)
 
 ## A note for media contributors
 
@@ -44,7 +45,7 @@ The safest demonstrations usually show what a qualified clinician observes and h
 
 **Related pages:** [Reference library](../README.md) · [Recovery and management techniques](../recovery-techniques/README.md) · [Research and citation policy](../../docs/project/research-and-citation-policy.md)
 
-*Collection index created: August 25, 2026 · Time-course requirement added: August 31, 2026 · Clinical and accessibility review pending*
+*Collection index created: August 25, 2026 · Functional facial symptoms added: September 1, 2026 · Clinical and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Reference Library](../README.md) · [Recovery Techniques](../recovery-techniques/README.md)

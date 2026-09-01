@@ -285,6 +285,7 @@ Use the sections below to drill down into the course, reference library, researc
 - [Functional Cough and Upper-Airway Symptoms](reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md)
 - [Functional Cognitive Disorder](reference/diagnostic-signs/12-functional-cognitive-disorder.md)
 - [Persistent Postural-Perceptual Dizziness](reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md)
+- [Functional Facial Symptoms — Spasm, Droop and Weakness](reference/diagnostic-signs/14-functional-facial-symptoms.md)
 
 </details>
 
@@ -306,6 +307,7 @@ Use the sections below to drill down into the course, reference library, researc
 - [Recovery Techniques for Functional Cough and Upper-Airway Symptoms](reference/recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md)
 - [Recovery Techniques for Functional Cognitive Disorder](reference/recovery-techniques/12-functional-cognitive-disorder.md)
 - [Recovery Techniques for Persistent Postural-Perceptual Dizziness](reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md)
+- [Recovery Techniques for Functional Facial Symptoms](reference/recovery-techniques/14-functional-facial-symptoms.md)
 
 </details>
 
@@ -372,6 +374,7 @@ Use the sections below to drill down into the course, reference library, researc
 - [Planned Resource Library](docs/project/planned-resource-library.md)
 - [Project Status](docs/project/project-status.md)
 - [Research and Citation Policy](docs/project/research-and-citation-policy.md)
+- [Repository Change and Page Maintenance Policy](docs/project/repository-change-and-page-maintenance-policy.md)
 - [Safety and Editorial Rules](docs/project/safety-and-editorial-rules.md)
 - [Search and Usability Standards](docs/project/search-and-usability-standards.md)
 

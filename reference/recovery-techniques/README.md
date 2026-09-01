@@ -53,11 +53,11 @@ The list is intended to be broad, but it is not proof that every possible techni
 
 The evidence search found one community-only practice that met the project’s repetition and safety rules: **cold or textured sensory grounding used at a familiar functional-seizure warning**. Several independent patient-community resources describe the same basic approach. It is clearly marked as community-reported, not as a cure or established seizure treatment. No community-only technique was added from a single post or testimonial.
 
-A separate source notebook is used to collect public lived-experience quotations for review. Quotations are treated as descriptions of experience, not evidence that a technique works, and are not moved into the educational pages until their context and wording have been reviewed.
+A separate source notebook is used to collect public lived-experience quotations for review. Quotations are treated as descriptions of experience, not evidence that a technique works. The [functional facial-symptoms page](14-functional-facial-symptoms.md) includes a small, clearly labelled review set because community practice is part of that page’s question; none of its techniques currently meets the two-independent-report rule for a community-reported evidence label.
 
-**Related pages:** [Reference library](../README.md) · [Evidence standard](../../docs/project/evidence-standard.md) · [Citation index](../../research/citation-index.md)
+**Related pages:** [Reference library](../README.md) · [Technique index](technique-index.md) · [Evidence standard](../../docs/project/evidence-standard.md) · [Citation index](../../research/citation-index.md)
 
-*Collection created: August 25, 2026 · Episode/flare authoring requirement added August 31, 2026 · Clinical and accessibility review pending*
+*Collection created: August 25, 2026 · Functional facial symptoms added September 1, 2026 · Clinical and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Reference Library](../README.md) · [Diagnostic Signs](../diagnostic-signs/README.md) · [Technique Index](technique-index.md)
