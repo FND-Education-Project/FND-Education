@@ -28,10 +28,11 @@ Each result is shown as **benefit accounts / opposite accounts**. The target is 
 
 - **Acceptance and commitment therapy (ACT), FCD-specific online group** — 0 / 0; no modifying account located.
 - **Antiseizure-medication review, prescriber led** — 0 / 0; no modifying account located.
-- **Attention redirection or external-focus practice** — 0 / 0; no modifying account located.
+- **Attention redirection or external-focus practice** — one facial-symptom practice account located, but no independent outcome pair.
 - **Automatic and task-oriented movement retraining** — 0 / 0; no modifying account located.
 - **Backward or sideways walking** — 0 / 0; no modifying account located.
 - **Balance and gait exercises after vestibular assessment** — 0 / 0; no modifying account located.
+- **Botulinum toxin discussion after specialist facial-phenotype assessment** — 1 / 1, qualified; one person reported temporary change and a temporary crooked smile after injection into the spasming muscle, while another reported no facial effect when Botox was prescribed for migraine.
 - **Breathing control training, clinician taught** — 0 / 0; no modifying account located.
 - **Breathing, posture and muscle-relaxation exercises** — 0 / 0; no modifying account located.
 - **CBT- or metacognition-informed digital self-help** — 0 / 0; no modifying account located.
@@ -47,6 +48,8 @@ Each result is shown as **benefit accounts / opposite accounts**. The target is 
 - **Episode safety and supporter-response plan** — 0 / 0; no modifying account located.
 - **Exaggerated high-step walking or light hand weights** — 0 / 0; no modifying account located.
 - **External memory aids, routines and single-task planning** — 0 / 0; no modifying account located.
+- **Facial, speech or mouth task, clinician selected** — one self-directed facial-task account located; no independent outcome pair.
+- **Facial-spasm episode plan using warning signs, grounding and relaxation** — 0 / 0; no modifying account located.
 - **Fixed visual or sensory anchor at a familiar warning** — 0 / 0; no modifying account located.
 - **Foot-sliding or “skiing” progression** — 0 / 0; no modifying account located.
 - **Gaze-stability exercises when indicated** — 0 / 0; no modifying account located.
@@ -59,7 +62,7 @@ Each result is shown as **benefit accounts / opposite accounts**. The target is 
 - **Hypnotherapy or suggestion combined with practice** — 0 / 0; no modifying account located.
 - **Meaningful functional-task practice** — 0 / 0; no modifying account located.
 - **Metacognitive prediction-versus-performance practice** — 0 / 0; no modifying account located.
-- **Mirror, visual or EMG feedback** — 0 / 0; no modifying account located.
+- **Mirror, visual or EMG feedback** — one person reported that a mirror worsened facial symptoms; no independent outcome pair.
 - **Mobility-aid review with a safety, independence and weaning-or-long-term plan** — 2 / 1 plus one drawback; detailed below.
 - **Music, counting, singing or another external rhythm** — 0 / 0; no modifying account located.
 - **Neck, jaw and laryngeal relaxation** — 0 / 0; no modifying account located.
@@ -67,6 +70,7 @@ Each result is shown as **benefit accounts / opposite accounts**. The target is 
 - **Neuromodulation or galvanic vestibular stimulation, specialist/research setting** — 0 / 0; no modifying account located.
 - **Noticing examples of briefly better function** — 0 / 0; no modifying account located.
 - **Optokinetic or virtual-reality practice, supervised** — 0 / 0; no modifying account located.
+- **Oral, swallowing, speech and eye-safety assessment** — 0 / 0; no modifying account located.
 - **Orthoptist-guided visual feedback and graded visual tasks** — 0 / 0; no modifying account located.
 - **Pain, fatigue, sleep, migraine, mental-health and other comorbidity treatment** — 1 / 1; the accounts concerned different coexisting conditions, so no four-quote set was made.
 - **Posture and alignment retraining** — 0 / 0; no modifying account located.
@@ -86,6 +90,16 @@ Each result is shown as **benefit accounts / opposite accounts**. The target is 
 - **Tremor retrainment by changing voluntary rhythm, amplitude and speed** — 0 / 0; no modifying account located.
 - **Trigger, warning-sign and pattern mapping** — 0 / 0; no modifying account located.
 - **Vestibular rehabilitation, individualized** — 2 / 2, qualified; detailed below.
+
+## Functional facial symptoms: candidate community reports
+
+The [functional facial-symptoms recovery page](14-functional-facial-symptoms.md#community-reports-what-people-try) keeps seven short quotations beside their interpretation and safety limits. Four quotations come from one public comment about facial droop and drooling: gentle touch or massage, lifting the mouth corner, tapping, small facial movements, mouthing letter shapes, avoiding a mirror, using background distraction, stopping when a technique is unpleasant, and humour about the “drool crew.” Because these practices come from one person, none is counted as independent repetition.
+
+A separate person described using darkness and a sleep mask for eyelid flutter. That report supports short-term comfort for that person; it is not evidence against clinician-guided graded light exposure because the writer did not describe trying that intervention. In a different discussion, one person reported temporary suppression and temporary smile asymmetry after injection into a spasming facial muscle; another reported no facial effect when Botox was used for migraine. The different indications and individual accounts do not establish comparative effectiveness.
+
+**Community adjustment:** Ask whether touch, a mirror, an external task or reduced sensory input helps this person or increases symptom attention. Keep the option individual, stop when it worsens symptoms, and do not substitute a copied facial exercise for assessment of new droop, swallowing difficulty or eye risk.
+
+**Sources:** [facial droop and drooling comment](https://www.reddit.com/r/FND/comments/1vzioej/comment/p66gewy/) · [eyelid-flutter discussion](https://www.reddit.com/r/FND/comments/1bj0pht/anyone_get_weird_muscle_spasms_like_this_one/) · [Botox and facial dystonia discussion](https://www.reddit.com/r/FND/comments/1q94cj6/botox_and_facial_dystonia/)
 
 ## Quote sets and partial sets
 
@@ -209,7 +223,7 @@ Each result is shown as **benefit accounts / opposite accounts**. The target is 
 
 ## What could not be completed
 
-- Fifty-seven of the sixty techniques do not yet have the requested two-benefit/two-opposite set.
+- Most indexed techniques still do not have the requested two-benefit/two-opposite set. Newly added facial practices also lack independent matched accounts.
 - Facebook contributed no qualifying public quote. Search results exposed organizations, advertisements and login-protected groups, but not verifiable public patient comments about these named techniques.
 - Many highly specific techniques—such as foot-sliding, rhythmic weight shift, tremor retrainment, cough substitution, reflexive voice tasks and prediction-versus-performance practice—appear in clinical descriptions but are not named clearly enough in public patient posts to quote without guessing.
 - Several search results described later-discovered multiple system atrophy, myasthenia gravis, vitamin deficiency, vestibular migraine or another condition. Those accounts were excluded unless they directly illustrated why diagnosis or dosing changes the interpretation.
@@ -227,7 +241,7 @@ Before filling a blank slot, confirm all of the following:
 6. The same person is not counted twice as two independent accounts.
 7. A drawback is not mislabeled as total failure, and an early flare is not mislabeled as a final outcome.
 
-*Draft created: August 25, 2026 · Public Reddit and Facebook search current to August 25, 2026 · Community, clinical and privacy review pending*
+*Draft created: August 25, 2026 · Functional facial-symptom sources added September 1, 2026 · Community, clinical and privacy review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)

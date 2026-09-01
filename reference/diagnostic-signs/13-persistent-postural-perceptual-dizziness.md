@@ -82,6 +82,8 @@ Add a separate note that all five criteria are required and that testing is sele
 ***
 
 <!-- NAV-CONTEXT:START -->
+**Continue:** [Functional Facial Symptoms →](14-functional-facial-symptoms.md)
+
 **Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/13-persistent-postural-perceptual-dizziness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/03-dizziness-balance-and-vestibular-overlap.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)

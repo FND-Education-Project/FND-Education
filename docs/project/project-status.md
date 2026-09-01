@@ -22,6 +22,8 @@ The repository contains all 77 course pages: 23 module overviews and 54 focused 
 - Added a visible automatic-generation and contributor-review notice to every course page.
 - Added breadcrumbs, global navigation, a nested site map, and a forward reading path from each module overview through its pages and into the next module.
 - Marked citations and evidence review as pending wherever a research package has not yet been completed.
+- Added paired diagnostic and recovery pages for functional facial symptoms, with direct diagnostic research, explicit treatment-evidence limits and labelled community quotations.
+- Added a repository change and page maintenance policy covering course and reference additions, removals, navigation, indexes, evidence and verification.
 
 ## Current priorities
 

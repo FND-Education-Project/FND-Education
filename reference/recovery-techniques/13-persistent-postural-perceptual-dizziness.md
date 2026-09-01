@@ -78,6 +78,8 @@ Set a baseline dose and progress one dimension at a time. Integrate CBT-informed
 [For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
 
 <!-- NAV-CONTEXT:START -->
+**Continue:** [Recovery Techniques for Functional Facial Symptoms →](14-functional-facial-symptoms.md)
+
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/03-dizziness-balance-and-vestibular-overlap.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)

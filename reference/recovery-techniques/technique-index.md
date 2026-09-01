@@ -158,13 +158,26 @@ This page provides two ways to find the same material. The first groups techniqu
 - **E** specialist neuromodulation or galvanic vestibular stimulation; promising but low-certainty evidence
 - **C/uncertain** clinician-led SSRI or SNRI discussion; placebo-controlled PPPD evidence remains absent
 
+### [Functional facial symptoms](14-functional-facial-symptoms.md)
+
+- **C** clear explanation of overactive pulling, weakness or another assessed facial pattern
+- **R/C, broader evidence** individualized FND-informed rehabilitation
+- **E** warning- and trigger-based episode plan using early grounding, relaxation and graded return
+- **C** attention redirection and more automatic facial expression
+- **C/E** clinician-selected facial, speech or mouth task
+- **C/E** controlled exposure to an assessed movement or light trigger
+- **C** comfortable positioning and reduction of unnecessary facial, jaw and neck effort without force
+- **C** mouth, swallowing, communication and eye-safety assessment and support
+- **C** treatment of coexisting facial, dental, eye, movement, migraine or swallowing conditions
+- **uncertain** specialist botulinum-toxin discussion for a selected phenotype
+
 ## Alphabetical technique index
 
 **Acceptance and commitment therapy (ACT), FCD-specific online group** — Functional Cognitive Disorder. **E**
 
 **Antiseizure-medication review, prescriber led** — Functional seizures when epilepsy is absent. **C**
 
-**Attention redirection or external-focus practice** — Limb weakness; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; swallowing; Functional Cognitive Disorder. **C**
+**Attention redirection or external-focus practice** — Limb weakness; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; swallowing; Functional Cognitive Disorder; facial symptoms. **C**
 
 **Automatic and task-oriented movement retraining** — Limb weakness; gait; dystonia. **C**
 
@@ -172,9 +185,11 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Balance and gait exercises after vestibular assessment** — PPPD. **C**
 
+**Botulinum toxin discussion after specialist facial-phenotype assessment** — Functional facial symptoms; evidence is uncertain and does not support routine use. **uncertain**
+
 **Breathing control training, clinician taught** — Functional seizures. **E**
 
-**Breathing, posture and muscle-relaxation exercises** — Speech/voice; swallowing/globus; cough/upper-airway; tremor. **C**
+**Breathing, posture and muscle-relaxation exercises** — Speech/voice; swallowing/globus; cough/upper-airway; tremor; facial symptoms. **C**
 
 **CBT- or metacognition-informed digital self-help** — Functional Cognitive Disorder. **E**
 
@@ -188,7 +203,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Desensitization or graded sensory stimulation** — Sensory symptoms; dystonia. **C**
 
-**Diagnostic explanation and education as part of treatment** — All 13 symptom groups. **C**
+**Diagnostic explanation and education as part of treatment** — All 14 symptom groups. **C**
 
 **Diet-restriction review after swallowing safety assessment** — Functional swallowing and globus. **C**
 
@@ -202,6 +217,10 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **External memory aids, routines and single-task planning** — Functional Cognitive Disorder. **C**
 
+**Facial, speech or mouth task, clinician selected** — Functional facial symptoms. **C/E**
+
+**Facial-spasm episode plan using warning signs, grounding and relaxation** — Functional facial symptoms. **E**
+
 **Fixed visual or sensory anchor at a familiar warning** — Functional seizures. **L**
 
 **Foot-sliding or “skiing” progression** — Functional gait disorder; functional ankle weakness. **C**
@@ -210,7 +229,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Graded activity and reconditioning** — Weakness; gait; PPPD; mixed motor symptoms. **C**
 
-**Graded exposure to avoided tasks or triggers** — Dystonia; sensory symptoms; visual symptoms; swallowing; cough; PPPD. **C**
+**Graded exposure to avoided tasks or triggers** — Dystonia; sensory symptoms; visual symptoms; swallowing; cough; PPPD; selected functional facial symptoms. **C/E**
 
 **Graded light exposure and reduced dark adaptation** — Functional visual symptoms with photophobia. **C**
 
@@ -222,7 +241,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Hypnotherapy or suggestion combined with practice** — Functional visual symptoms. **E**
 
-**Meaningful functional-task practice** — Weakness; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; Functional Cognitive Disorder. **C**
+**Meaningful functional-task practice** — Weakness; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; Functional Cognitive Disorder; facial symptoms. **C**
 
 **Metacognitive prediction-versus-performance practice** — Functional Cognitive Disorder. **C**
 
@@ -242,6 +261,8 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Optokinetic or virtual-reality practice, supervised** — PPPD. **E**
 
+**Oral, swallowing, speech and eye-safety assessment** — Functional facial symptoms. **C**
+
 **Orthoptist-guided visual feedback and graded visual tasks** — Functional visual symptoms. **C/E**
 
 **Pain, fatigue, sleep, migraine, mental-health and other comorbidity treatment** — Potentially all symptom groups, selected individually. **C**
@@ -256,7 +277,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Reflexive or automatic voice tasks** — Functional speech and voice symptoms. **C**
 
-**Relapse and self-management plan** — All 13 symptom groups. **C**
+**Relapse and self-management plan** — All 14 symptom groups. **C**
 
 **Rhythmic weight shift progressing into steps** — Functional gait disorder; limb weakness. **C**
 
@@ -282,9 +303,9 @@ This page provides two ways to find the same material. The first groups techniqu
 
 ## Scope and gaps
 
-The pages cover the same 13 presentations as the current diagnostic-sign reference. They do not yet cover every reported FND-associated symptom. Hearing changes, bladder symptoms, breathing-pattern disorder outside functional cough/upper-airway symptoms, dissociation without seizures, pain, fatigue and several less common movement presentations require their own research package before symptom-specific technique pages are added.
+The pages cover the same 14 presentations as the current diagnostic-sign reference. They do not yet cover every reported FND-associated symptom. Hearing changes, bladder symptoms, breathing-pattern disorder outside functional cough/upper-airway symptoms, dissociation without seizures, pain, fatigue and several less common movement presentations require their own research package before symptom-specific technique pages are added.
 
-*Index created: August 25, 2026 · Evidence search current to August 25, 2026 · Clinical and accessibility review pending*
+*Index created: August 25, 2026 · Facial-symptom evidence search current to September 1, 2026 · Clinical and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Recovery Techniques](README.md) · [Reference Library](../README.md)

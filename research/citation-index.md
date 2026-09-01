@@ -28,15 +28,15 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0018](#fnd-cit-0018) | McWhirter et al., 2011 | Prospective cohort study | Hoover’s sign, functional leg weakness, diagnostic accuracy | [limb weakness sign](../reference/diagnostic-signs/01-functional-limb-weakness.md) |
 | [FND-CIT-0019](#fnd-cit-0019) | Bartl et al., 2020 | Systematic review | functional tremor, distractibility, entrainment, electrophysiology | [functional tremor](../reference/diagnostic-signs/02-functional-tremor.md) |
 | [FND-CIT-0020](#fnd-cit-0020) | Nonnekes et al., 2020 | Peer-reviewed sign-based review | functional gait, inconsistency, incongruity, examination pitfalls | [functional gait disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md) |
-| [FND-CIT-0021](#fnd-cit-0021) | Frucht et al., 2021 | Peer-reviewed specialist review | functional dystonia, fixed posture, differential diagnosis | [functional dystonia](../reference/diagnostic-signs/04-functional-dystonia.md) |
+| [FND-CIT-0021](#fnd-cit-0021) | Frucht et al., 2021 | Peer-reviewed specialist review | functional dystonia, fixed posture, differential diagnosis | [functional dystonia](../reference/diagnostic-signs/04-functional-dystonia.md); [facial diagnosis](../reference/diagnostic-signs/14-functional-facial-symptoms.md); [facial recovery](../reference/recovery-techniques/14-functional-facial-symptoms.md) |
 | [FND-CIT-0022](#fnd-cit-0022) | Edwards et al., 2024 | IFCN handbook review | clinical neurophysiology, functional jerks, EEG–EMG, back-averaging | [functional jerks](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md) |
 | [FND-CIT-0023](#fnd-cit-0023) | Nielsen et al., 2026 | Case-control study | functional sensory signs, midline splitting, vibration splitting | [functional sensory symptoms](../reference/diagnostic-signs/07-functional-sensory-symptoms.md) |
 | [FND-CIT-0024](#fnd-cit-0024) | Ramsay et al., 2024 | Peer-reviewed clinical review | functional visual symptoms, positive signs, preserved vision | [functional visual symptoms](../reference/diagnostic-signs/08-functional-visual-symptoms.md) |
-| [FND-CIT-0025](#fnd-cit-0025) | Baker et al., 2021 | Professional consensus recommendations | functional communication, swallowing, cough, speech-language therapy | [speech and voice](../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md); [swallowing and globus](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md); [cough and upper airway](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) |
+| [FND-CIT-0025](#fnd-cit-0025) | Baker et al., 2021 | Professional consensus recommendations | functional communication, swallowing, cough, speech-language therapy | [speech and voice](../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md); [swallowing and globus](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md); [cough and upper airway](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md); [facial recovery](../reference/recovery-techniques/14-functional-facial-symptoms.md) |
 | [FND-CIT-0026](#fnd-cit-0026) | McWhirter et al., 2022 | Proposed diagnostic risk model | Functional Cognitive Disorder, internal inconsistency, differential diagnosis | [Functional Cognitive Disorder](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) |
 | [FND-CIT-0027](#fnd-cit-0027) | Staab et al., 2017 | Bárány Society consensus criteria | PPPD, dizziness, vestibular diagnosis | [PPPD criteria](../reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) |
-| [FND-CIT-0028](#fnd-cit-0028) | Nielsen et al., 2015 | Professional consensus recommendations | functional motor rehabilitation, movement retraining, physiotherapy | [weakness techniques](../reference/recovery-techniques/01-functional-limb-weakness.md); [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md); [jerk techniques](../reference/recovery-techniques/03-functional-jerks-and-myoclonus.md); [dystonia techniques](../reference/recovery-techniques/04-functional-dystonia.md); [gait techniques](../reference/recovery-techniques/05-functional-gait-disorder.md); [sensory techniques](../reference/recovery-techniques/07-functional-sensory-symptoms.md); [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
-| [FND-CIT-0029](#fnd-cit-0029) | Nielsen et al., 2024 | Multicentre phase 3 randomized trial | specialist physiotherapy, functional motor disorder, outcomes | [weakness techniques](../reference/recovery-techniques/01-functional-limb-weakness.md); [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md); [gait techniques](../reference/recovery-techniques/05-functional-gait-disorder.md) |
+| [FND-CIT-0028](#fnd-cit-0028) | Nielsen et al., 2015 | Professional consensus recommendations | functional motor rehabilitation, movement retraining, physiotherapy | [weakness techniques](../reference/recovery-techniques/01-functional-limb-weakness.md); [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md); [jerk techniques](../reference/recovery-techniques/03-functional-jerks-and-myoclonus.md); [dystonia techniques](../reference/recovery-techniques/04-functional-dystonia.md); [gait techniques](../reference/recovery-techniques/05-functional-gait-disorder.md); [sensory techniques](../reference/recovery-techniques/07-functional-sensory-symptoms.md); [facial recovery](../reference/recovery-techniques/14-functional-facial-symptoms.md); [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
+| [FND-CIT-0029](#fnd-cit-0029) | Nielsen et al., 2024 | Multicentre phase 3 randomized trial | specialist physiotherapy, functional motor disorder, outcomes | [weakness techniques](../reference/recovery-techniques/01-functional-limb-weakness.md); [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md); [gait techniques](../reference/recovery-techniques/05-functional-gait-disorder.md); [facial recovery](../reference/recovery-techniques/14-functional-facial-symptoms.md) |
 | [FND-CIT-0030](#fnd-cit-0030) | Macías-García et al., 2024 | Randomized clinical trial | combined physiotherapy and CBT, functional movement disorder | [weakness techniques](../reference/recovery-techniques/01-functional-limb-weakness.md); [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md); [gait techniques](../reference/recovery-techniques/05-functional-gait-disorder.md) |
 | [FND-CIT-0031](#fnd-cit-0031) | Espay et al., 2014 | Proof-of-concept study | functional tremor, tremor retrainment, biofeedback | [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md) |
 | [FND-CIT-0032](#fnd-cit-0032) | LaFrance et al., 2014 | Multicentre pilot randomized trial | functional seizures, CBT-informed psychotherapy | [functional-seizure techniques](../reference/recovery-techniques/06-functional-seizures.md) |
@@ -59,6 +59,11 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0049](#fnd-cit-0049) | Stone et al., 2025 | Peer-reviewed review | migraine, FND, functional seizures, comorbidity and overlap | [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md) |
 | [FND-CIT-0050](#fnd-cit-0050) | Nightscales et al., 2020 | Retrospective cohort study | functional seizures, mortality, suicide | [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
 | [FND-CIT-0051](#fnd-cit-0051) | Thomas et al., 2025 | Systematic review and meta-analysis | treatment outcomes, symptom chronicity, heterogeneity | [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
+| [FND-CIT-0052](#fnd-cit-0052) | Fasano et al., 2012 | Multicentre retrospective cohort | functional facial movement disorder, lip pulling, jaw deviation, fluctuation, uncontrolled treatment outcomes | [facial diagnosis](../reference/diagnostic-signs/14-functional-facial-symptoms.md); [facial recovery](../reference/recovery-techniques/14-functional-facial-symptoms.md) |
+| [FND-CIT-0053](#fnd-cit-0053) | Yoshida, 2020 | Single-centre retrospective cohort | stomatognathic functional movement disorder, facial and jaw patterns, uncontrolled treatment outcomes | [facial diagnosis](../reference/diagnostic-signs/14-functional-facial-symptoms.md); [facial recovery](../reference/recovery-techniques/14-functional-facial-symptoms.md) |
+| [FND-CIT-0054](#fnd-cit-0054) | Popkirov et al., 2020 | Peer-reviewed clinical review | FND as stroke mimic, facial overactivity, apparent weakness | [facial diagnosis](../reference/diagnostic-signs/14-functional-facial-symptoms.md) |
+| [FND-CIT-0055](#fnd-cit-0055) | Gros et al., 2024 | Case series and literature review | functional dystonia rehabilitation, episodic facial dystonia | [facial recovery](../reference/recovery-techniques/14-functional-facial-symptoms.md) |
+| [FND-CIT-0056](#fnd-cit-0056) | Stone, accessed 2026 | Specialist educational webpage | functional facial spasm, weakness, ptosis, treatment guidance | [facial diagnosis](../reference/diagnostic-signs/14-functional-facial-symptoms.md); [facial recovery](../reference/recovery-techniques/14-functional-facial-symptoms.md) |
 
 ## FND-CIT-0001
 
@@ -365,6 +370,36 @@ Use this source for its retrospective cohort findings on mortality after video-E
 Thomas ST, Thomas ET, Schembri E, Lehn AC, Palmer DDG. Treatment outcomes in functional neurological disorder: a systematic review and meta-analysis exploring the influence of symptom chronicity. *BMJ Neurology Open*. 2025;7:e001150. [https://doi.org/10.1136/bmjno-2025-001150](https://doi.org/10.1136/bmjno-2025-001150)
 
 Use this source for pooled evidence that longer symptom duration was associated with modestly smaller improvement in some motor and physical quality-of-life outcomes, while meaningful gains remained possible across chronicity. Do not use the group-level association to predict an individual's prognosis, deny care, or imply that time alone determines outcome.
+
+## FND-CIT-0052
+
+Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. [https://doi.org/10.1002/mds.25190](https://doi.org/10.1002/mds.25190)
+
+Use this source for its seven-centre retrospective description of 61 selected patients with functional facial movement disorders, including the common lower-lip and jaw pattern, associated platysma activation, fluctuation over time and uncontrolled treatment outcomes. Do not treat the pattern frequency in this referral cohort as population prevalence, a validated stand-alone diagnostic test or its heterogeneous treatment observations as proof of efficacy.
+
+## FND-CIT-0053
+
+Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. [https://doi.org/10.3389/fneur.2020.00123](https://doi.org/10.3389/fneur.2020.00123)
+
+Use this source for its retrospective description of 58 patients selected with a study-specific feature scale, including jaw deviation, lower-lip pulling, tongue movement, paroxysmal symptoms, inconsistency, incongruity and uncontrolled subjective treatment outcomes. The study did not independently validate its scale for routine diagnosis or establish treatment efficacy.
+
+## FND-CIT-0054
+
+Popkirov S, Stone J, Buchan AM. Functional neurological disorder: a common and treatable stroke mimic. *Stroke*. 2020;51(5):1629–1635. [https://doi.org/10.1161/STROKEAHA.120.029076](https://doi.org/10.1161/STROKEAHA.120.029076)
+
+Use this clinical review to explain how unilateral lower-lip pulling from muscle overactivity may resemble facial weakness and how positive FND signs fit stroke assessment. Do not use the review to bypass acute stroke pathways or attribute new facial droop to FND without appropriate assessment.
+
+## FND-CIT-0055
+
+Gros P, Bhatt H, Gilmour GS, Lidstone SC. Rehabilitation for functional dystonia: cases and review of the literature. *Movement Disorders Clinical Practice*. 2024;11(8):1018–1024. [https://doi.org/10.1002/mdc3.14121](https://doi.org/10.1002/mdc3.14121)
+
+Use this source for case-level functional-dystonia rehabilitation examples, including one person with episodic facial dystonia whose combined plan used warning and trigger identification, early grounding, relaxation and modified CBT. It is a four-case series and literature review, cannot isolate the active treatment component and does not establish a facial-specific standard of care.
+
+## FND-CIT-0056
+
+Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed September 1, 2026. [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/)
+
+Use this changing specialist educational page for a plain-language description of functional facial spasm, rarer functional facial weakness and ptosis, differential diagnosis, explanation, trigger work, graded exposure and uncertainty about Botox. Treat it as expert guidance rather than a controlled study, and preserve an access date whenever it is cited.
 
 # How Course Pages Should Use the Index
 

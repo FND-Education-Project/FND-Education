@@ -147,9 +147,9 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 ## Find information by symptom or need
 
-**[Open the FND Reference Library](reference/README.md)** for two symptom-specific collections: positive diagnostic signs and recovery/management techniques. Each collection currently has one page for each of 13 symptom presentations. The [master technique list](reference/recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
+**[Open the FND Reference Library](reference/README.md)** for two symptom-specific collections: positive diagnostic signs and recovery/management techniques. Each collection currently has one page for each of 14 symptom presentations. The [master technique list](reference/recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
 
-The 26 symptom pages now explain that symptoms may be episodic, fluctuating, or longer-lasting. They also include immediate safety or onset guidance and, where possible, show how a familiar recovery technique may be shortened for a flare. Community quotations collected for review are kept separate from the educational pages until their wording, source, consent, representativeness, and safety can be evaluated.
+The 28 symptom pages now explain that symptoms may be episodic, fluctuating, or longer-lasting. They also include immediate safety or onset guidance and, where possible, show how a familiar recovery technique may be shortened for a flare. Community quotations are usually kept in source notebooks while their wording, source, privacy, representativeness and safety are evaluated. When selected quotations appear on an educational page, they remain clearly labelled as lived experience rather than treatment evidence.
 
 The reference library also contains a developing [five-booklet functional-seizure CBT series](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/README.md), with separate outlines and content-creator guides.
 
@@ -158,6 +158,7 @@ Current course and reference material can be found for:
 - functional seizures, dissociative seizures, PNES, and altered-awareness episodes;
 - movement disorder, tremor, jerks, dystonia, weakness, paralysis, gait, and falls;
 - speech, voice, swallowing, breathing, and communication symptoms;
+- functional facial spasm, apparent droop, weakness, eye closure, and related mouth-control symptoms;
 - sensory, visual, dizziness, and balance symptoms;
 - cognition, memory, brain fog, Functional Cognitive Disorder, and dissociation;
 - chronic pain, migraine, fatigue, and sleep problems;
@@ -248,6 +249,7 @@ The project should be willing to say **“researchers do not yet know”** when 
 - [Accessibility standards](docs/project/accessibility-standards.md)
 - [Planned repository structure](docs/project/planned-repository-structure.md)
 - [Research and citation policy](docs/project/research-and-citation-policy.md)
+- [Repository change and page maintenance policy](docs/project/repository-change-and-page-maintenance-policy.md)
 - [Citation index](research/citation-index.md)
 - [Safety and editorial rules](docs/project/safety-and-editorial-rules.md)
 - [Project status](docs/project/project-status.md)
