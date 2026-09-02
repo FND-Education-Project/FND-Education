@@ -10,7 +10,7 @@
 
 ## Purpose
 
-Give readers a clear, evidence-traceable starting explanation without reducing FND to structural damage, “normal tests,” stress, trauma, or imagination. Introduce remission and recovery briefly here; detailed treatment, symptom return and change, and outcome review belong in later modules.
+Give readers a clear, evidence-traceable starting explanation without reducing FND to structural damage, “normal tests,” stress, trauma, or imagination. Introduce remission, recovery and **available capacity** here; detailed treatment, symptom return and change, pacing, and outcome review belong in later modules.
 
 ## Essential knowledge
 
@@ -34,6 +34,11 @@ This section will be written in very plain language for people with FND, support
 - The course statement that there is no cure for FND, with remission and recovery explained as separate ideas.
 - What recovery and improvement may mean, including better safety, independence, understanding, participation, or quality of life even when symptoms remain.
 - Why symptom severity, recurrence or remission must not be used to judge effort, acceptance, treatment participation or personal progress.
+- **Available capacity** as a practical description of what a person can use now and what recovery may cost across physical, thinking, sensory, emotional, social and upright demands.
+- Spoon Theory as community language for limited and changing capacity—not a medical unit, biomarker or complete explanation of FND.
+- How load-and-recovery, Energy Envelope Theory and autonomic or arousal explanations differ, including why a spoon count cannot identify a sympathetic–parasympathetic position.
+- Familiar signs that capacity may be narrowing and small changes to timing, posture, task size, sensory surroundings, communication, equipment or support that can be made before a possible flare.
+- Why capacity planning may reduce avoidable demand or improve safety but cannot explain every flare, guarantee prevention or make the person responsible when symptoms worsen.
 
 ## For health professionals and readers wanting more detail
 
@@ -49,20 +54,24 @@ This section should focus on how clinicians can help the patient understand the 
 - Scientific and ethical criticisms of overly broad biopsychosocial explanations, especially psychologization, unfalsifiable formulations, and diagnostic overshadowing.
 - The need to distinguish group-level associations from conclusions about an individual patient.
 - Stigma created by misleading mind-versus-body language and by explanations that imply voluntary control.
+- The distinction among self-reported available capacity, fatigue, fatigability, delayed post-exertional worsening and post-exertional malaise.
+- The limits of importing ME/CFS energy-envelope evidence or autonomic findings into FND care, and the need to assess coexisting conditions on their own terms.
 
 ## Practical work
 
 - Prepare a short personal explanation of FND for family, friends, or service providers.
 - Identify terms from the reader’s medical records that need clarification.
+- Complete a 60-second capacity check and a three-line early-action plan naming one familiar sign, one realistic adjustment and one safety limit.
 
 ## Support-person focus
 
 - Believing the person without pretending to know the cause.
 - Validating symptoms without predicting recovery or reinforcing fear.
+- Helping change one demand or add support without policing the person's spoons, choices or activity.
 
 ## Expected takeaway
 
-The reader can describe FND in plain language while clearly identifying what comes from research and what remains uncertain.
+The reader can describe FND and available capacity in plain language, make one useful early adjustment, and clearly identify what comes from research and what remains uncertain.
 
 ---
 

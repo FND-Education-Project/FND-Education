@@ -27,7 +27,7 @@ This page is intentionally not linked from the project navigation while quotatio
 
 | Symptom | Quotation coverage | Go to section |
 |---|---:|---|
-| Functional limb weakness or paralysis | 3 favourable / 3 difficult | [Weakness or paralysis](#functional-limb-weakness-or-paralysis) |
+| Functional limb weakness | 3 favourable / 3 difficult | [Limb weakness](#functional-limb-weakness) |
 | Functional tremor | 2 favourable / 2 difficult | [Tremor](#functional-tremor) |
 | Functional jerks or myoclonus | 2 favourable / 3 difficult | [Jerks or myoclonus](#functional-jerks-or-myoclonus) |
 | Functional dystonia or fixed posturing | 2 favourable / 3 difficult | [Dystonia](#functional-dystonia-or-fixed-posturing) |
@@ -41,10 +41,12 @@ This page is intentionally not linked from the project navigation while quotatio
 | Functional Cognitive Disorder | 2 favourable / 3 difficult | [Cognitive symptoms](#functional-cognitive-disorder) |
 | Persistent postural-perceptual dizziness | 3 favourable / 3 difficult | [PPPD](#persistent-postural-perceptual-dizziness) |
 | Functional facial symptoms | 3 favourable / 3 difficult or mixed | [Facial symptoms](#functional-facial-symptoms) |
+| Functional paralysis | 3 favourable / 2 difficult or unresolved | [Paralysis](#functional-paralysis-candidate-community-reports) |
+| Functional drop attacks | taxonomy only; no matched outcome set | [Drop attacks](#functional-drop-attacks-taxonomy-before-outcome) |
 
 The counts describe located quotations, not unique treatments or an estimate of how often people improve. When two quotations came from the same person or one account involved several treatments, that limitation is stated beside the quotation.
 
-## Functional limb weakness or paralysis
+## Functional limb weakness
 
 ### Individualized FND-informed physiotherapy and movement retraining
 
@@ -93,6 +95,66 @@ The counts describe located quotations, not unique treatments or an estimate of 
 — The person described episodic leg problems while trying to continue attending school. [Source](https://www.reddit.com/r/FND/comments/10jxpsn/how_do_you_deal_with_leg_problems/)
 
 **Still unfilled with matched outcome pairs:** early weight-bearing, backward walking for ankle weakness, functional electrical stimulation and treadmill or harness practice.
+
+## Functional paralysis: candidate community reports
+
+Community use of “paralysis” includes complete movement loss, severe weakness, sensory loss and immobility during a seizure-like event. These accounts are retained as candidates only when the described appearance is reasonably close to complete limb movement loss; even then, a public post cannot confirm the clinical diagnosis.
+
+### Mobility aid as a bridge and support for participation
+
+**Reported help — person with symptoms; self-management and therapy**
+
+> “The only thing that gets my walking happening again is using a walker.”
+
+— One person describing an aid as a bridge during recurrent paralysis episodes. The post does not establish the safest aid or the event mechanism. [Source](https://www.reddit.com/r/FND/comments/1kchl1l/how_to_get_out_of_paralysis_epsiode/)
+
+> “therapy has switched to helping [me] function as someone who is paralyzed”
+
+— The same person described greater confidence and return to living after therapy shifted toward function and access. This is not an independent repetition of the walker account. [Source](https://www.reddit.com/r/FND/comments/1kchl1l/how_to_get_out_of_paralysis_epsiode/)
+
+### Prolonged physiotherapy or rehabilitation
+
+**Reported help — support person/caregiver; clinician-guided**
+
+> “She did inpatient physio for about 4 months and then ... outpatient ... walking back to normal.”
+
+— A supporter describing gradual walking recovery during prolonged rehabilitation. The account cannot establish which component helped or predict another person’s course. [Source](https://www.reddit.com/r/FND/comments/1v2tbfb/first_paralysis_episode/)
+
+**Reported no movement benefit — support person/caregiver; clinician-guided**
+
+> “They spent 6 weeks at Re-Active, which did nothing to help them regain their ability to walk.”
+
+— A supporter reporting no walking improvement after an intensive program. The post lacks enough clinical information to classify the paralysis or assess treatment selection. [Source](https://www.reddit.com/r/FND/comments/1kchl1l/how_to_get_out_of_paralysis_epsiode/)
+
+**Unresolved diagnosis and no reported benefit — person with symptoms; clinician-guided**
+
+> “I recently got done with 3 months of water therapy ... It did nothing.”
+
+— A person describing weakness in a post that questioned the diagnosis. This remains a diagnostic-reassessment example rather than a clean functional-paralysis treatment failure. [Source](https://www.reddit.com/r/FND/comments/1g4xytc/i_disagree_with_the_diagnosis/)
+
+**Community adjustment:** Separate “movement returned” from “life became safer or more accessible.” Record the actual motor appearance, aid, setting, dose and diagnostic uncertainty. These accounts support evaluating both movement and participation outcomes; they do not establish an appearance-specific recovery technique.
+
+**Still unfilled with matched outcome pairs:** available-movement entry points, positioning and pressure relief, transfer-equipment review, and a paralysis-specific episodic plan.
+
+## Functional drop attacks: taxonomy before outcome
+
+The located public discussions frequently used “drop attack” for prolonged immobility, catatonic or seizure-like events, knee buckling, syncope or any fall. Those are not interchangeable with the narrower presentation used on the [functional drop-attacks page](16-functional-drop-attacks.md): a sudden fall from standing or walking without definite blackout and often with rapid recovery.
+
+One discussion labels a catatonic seizure-like event as a drop attack; another applies “drop attack” to temporary inability to move. A physiotherapy discussion includes useful experience about heeding warnings and about rehabilitation worsening for some participants, but does not describe enough event detail to confirm functional drop attacks. These sources are valuable evidence that community terminology needs clarification, not outcome evidence for a drop-attack technique.
+
+### Warning recognition during broader FND worsening
+
+**Reported help — person with symptoms; clinician-guided**
+
+> “physio and therapy are what have helped me majorly ... I ignored all the warnings my body was giving me.”
+
+— One person describing broader FND rehabilitation and warning recognition. The phenotype is insufficiently specified to count as drop-attack recovery. [Source](https://www.reddit.com/r/FND/comments/1emw4ah/physio_not_helping/)
+
+**Community adjustment:** Ask what actually happens before, during and after the fall before assigning advice. Do not transfer warning-based techniques to a person with no reliable warning, seizure-response instructions to a brief no-blackout fall, or strength retraining to syncope or cataplexy.
+
+**Taxonomy sources:** [“What does a drop attack feel like?”](https://www.reddit.com/r/FND/comments/1jr6987/what_does_a_drop_attack_feel_like/) · [“Temporary paralysis—is this a functional seizure?”](https://www.reddit.com/r/FND/comments/1boslla/temporary_paralysis_is_this_a_functional_seizure/) · [“Physio not helping”](https://www.reddit.com/r/FND/comments/1emw4ah/physio_not_helping/)
+
+**Still unfilled with matched outcome pairs:** injury-response planning, fall-hazard review, safe recovery from the floor, warning recognition in a confirmed functional drop-attack phenotype, and graded return to avoided activity.
 
 ## Functional tremor
 
@@ -677,7 +739,8 @@ The counts describe located quotations, not unique treatments or an estimate of 
 - The strongest public quotation clusters concern broad physiotherapy, mobility aids, supporter response during seizures, speech therapy and vestibular rehabilitation.
 - Highly specific techniques—such as foot sliding, tremor retrainment, sensory discrimination, cough substitution and metacognitive prediction-versus-performance practice—are rarely named clearly enough in public patient posts to quote without guessing.
 - Positive and negative accounts often concern different treatment doses, clinician expertise, coexisting conditions or even different diagnoses. They must not be treated as a head-to-head comparison.
-- Caregiver voices are available for weakness, gait, seizures, speech, swallowing, cognition and PPPD. Symptom-specific caregiver accounts remain missing for several less commonly discussed presentations.
+- Caregiver voices are available for weakness, paralysis, gait, seizures, speech, swallowing, cognition and PPPD. Symptom-specific caregiver accounts remain missing for several less commonly discussed presentations.
+- Public use of “paralysis” and “drop attack” does not consistently match clinical categories. Future quotations must be classified from the described appearance and event sequence, not the post title alone.
 - A future contributor with permission to review public Facebook material may locate additional sources, but private-group text should not be copied into this public repository without the author’s permission.
 
 ## Contributor checklist
@@ -693,7 +756,7 @@ Before adding or replacing a quotation, confirm all of the following:
 7. A drawback is not mislabeled as complete failure, and an early flare is not mislabeled as a final outcome.
 8. New material remains grouped under the symptom first and then the exact indexed technique or support response it concerns.
 
-*Draft created: August 25, 2026 · Reorganized by symptom and technique and expanded September 1, 2026 · Community, clinical and privacy review pending*
+*Draft created: August 25, 2026 · Reorganized by symptom and technique September 1, 2026 · Functional paralysis and drop-attack sources added September 2, 2026 · Community, clinical and privacy review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)

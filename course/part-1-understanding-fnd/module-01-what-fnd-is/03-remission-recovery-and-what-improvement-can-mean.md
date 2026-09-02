@@ -100,7 +100,7 @@ Clinicians should explain the intent of a particular referral. On this site, the
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: How Is FND Diagnosed?](../module-02-how-fnd-is-diagnosed/README.md)
+**Continue:** [Next page: Available Capacity, Spoons, and Early Action](04-available-capacity-spoons-and-early-action.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

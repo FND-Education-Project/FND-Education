@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- assessed functional visual loss or blindness;
+- blurred or reduced acuity, field or tunnel-type loss, and double-vision presentations; and
+- functional photophobia or difficulty accessing vision when supported by specialist assessment.
+
+**Scope boundary:** Light sensitivity from migraine, eye disease or another cause is not automatically a functional visual symptom. The techniques below require ophthalmic or neuro-ophthalmic context and do not apply to generic dizziness or sensory overload.
+
 **Primary technique:** Positive demonstration of preserved visual function during a complete ophthalmic or neuro-ophthalmic assessment.  
 **Diagnostic method:** Compare reported vision with objective visual behaviours or responses, such as optokinetic nystagmus, while also looking for eye and brain disease.  
 **Media needed:** An orthoptist-, ophthalmologist- or neuro-ophthalmologist-led close-up demonstration.

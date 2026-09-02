@@ -6,7 +6,7 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-This directory contains the complete structure and initial authoring drafts for the FND Education course: 23 module overviews and 54 focused pages, for 77 course pages in total. Each module begins with a short overview and links to one to four focused articles.
+This directory contains the complete structure and initial authoring drafts for the FND Education course: 23 module overviews and 55 focused pages, for 78 course pages in total. Each module begins with a short overview and links to one to four focused articles.
 
 Modules 2–23 were automatically generated from the detailed human-planned syllabus and the wording pattern established in Module 1. Most remain authoring drafts: they contain writing instructions and starting text rather than completed reader-ready articles. Contributors and reviewers are invited to help with human writing, evidence, safety, accessibility, lived experience and plain-language editing.
 

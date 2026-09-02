@@ -26,7 +26,8 @@ FND-Education-/
 │   │   │   ├── README.md
 │   │   │   ├── 01-what-functional-means-and-how-fnd-can-appear.md
 │   │   │   ├── 02-biopsychosocial-model-misconceptions-and-recovery.md
-│   │   │   └── 03-remission-recovery-and-what-improvement-can-mean.md
+│   │   │   ├── 03-remission-recovery-and-what-improvement-can-mean.md
+│   │   │   └── 04-available-capacity-spoons-and-early-action.md
 │   │   └── modules 02–04/
 │   ├── part-2-safety-and-symptoms/
 │   ├── part-3-non-motor-symptoms/
@@ -37,11 +38,11 @@ FND-Education-/
 │   ├── README.md
 │   ├── diagnostic-signs/
 │   │   ├── README.md
-│   │   └── 14 symptom-specific sign pages
+│   │   └── 16 symptom-specific sign pages
 │   └── recovery-techniques/
 │       ├── README.md
 │       ├── technique-index.md
-│       └── 14 symptom-specific technique pages
+│       └── 16 symptom-specific technique pages
 ├── guides/
 ├── support-persons/
 ├── resources/
@@ -53,7 +54,7 @@ FND-Education-/
 └── website/
 ```
 
-The **syllabus** folder contains the planning outline for each module. The **course** folder contains 23 module folders and 77 working-draft pages. Each module folder begins with a short `README.md` overview and contains one to four focused pages. The **reference** folder contains separate diagnostic-sign and recovery-technique collections, each with its own index or collection guide. The future **guides** folder will provide user-friendly routes for finding canonical course pages by symptom or practical need.
+The **syllabus** folder contains the planning outline for each module. The **course** folder contains 23 module folders and 78 working-draft pages. Each module folder begins with a short `README.md` overview and contains one to four focused pages. The **reference** folder contains separate diagnostic-sign and recovery-technique collections, each with its own index or collection guide. The future **guides** folder will provide user-friendly routes for finding canonical course pages by symptom or practical need.
 
 The structure may change as the project develops. Priorities are predictable navigation, durable links, one canonical home for each full explanation, and avoiding information becoming trapped in very large documents. The [repository change and page maintenance policy](repository-change-and-page-maintenance-policy.md) lists the connected files that must change when a course or reference page is added, removed, renamed or moved.
 

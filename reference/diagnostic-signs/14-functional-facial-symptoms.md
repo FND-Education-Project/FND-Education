@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- facial pulling, spasm or dystonia and apparent droop caused by overactivity;
+- assessed functional facial weakness, eye closure or ptosis; and
+- lip, jaw or tongue movement and mouth-seal difficulty when facial motor control is central.
+
+**Scope boundary:** This category may overlap dystonia, limb weakness, speech or swallowing, but its diagnostic and recovery techniques must follow the actual facial mechanism—overactive pulling, weakness, eye closure, mouth control or another assessed pattern. Limb-only symptoms use the [partial-weakness](01-functional-limb-weakness.md) or [paralysis](15-functional-paralysis.md) page.
+
 **Primary technique:** Specialist history and examination of facial movement, muscle activation and weakness.  
 **Diagnostic method:** Identify a positive functional facial pattern in the wider neurological examination while assessing stroke, facial-nerve disease, hemifacial spasm, non-functional dystonia and other alternatives.  
 **Media needed:** A consented, captioned still-image sequence or continuous examination clip showing the observed muscles and change without presenting one facial appearance as diagnostic.
@@ -97,7 +105,7 @@ The caption must say that one image cannot distinguish stroke, facial-nerve weak
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Previous in this collection:** [← Persistent Postural-Perceptual Dizziness](13-persistent-postural-perceptual-dizziness.md)
+**Previous in this collection:** [← Persistent Postural-Perceptual Dizziness](13-persistent-postural-perceptual-dizziness.md) · **Continue:** [Functional Paralysis →](15-functional-paralysis.md)
 
 **Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md) · [Swallowing symptoms](10-functional-swallowing-and-globus.md)
 

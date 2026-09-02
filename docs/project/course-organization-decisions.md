@@ -4,7 +4,7 @@
 [Home](../../README.md) › Project Documentation › **Course Organization Decisions**
 <!-- NAV-BREADCRUMB:END -->
 
-The course has now been reorganized into 23 module folders containing 77 planned pages. Every module has a short overview plus one to four focused pages. The earlier decision about using overview pages with focused child pages is therefore treated as accepted.
+The course has now been reorganized into 23 module folders containing 78 planned pages. Every module has a short overview plus one to four focused pages. The earlier decision about using overview pages with focused child pages is therefore treated as accepted.
 
 The questions below are the revised decisions revealed by the actual page structure. Nothing needs to be decided before authoring can begin; the current organization is usable as it stands.
 
@@ -106,7 +106,7 @@ Every page already has a supporter section, while the planned mini-course covers
 
 ## Decision 12 — How should citations work on standalone pages?
 
-**Status: Citation structure selected for Module 1 and extended to the new remission-and-recovery page.**
+**Status: Citation structure selected for Module 1 and extended to the remission, recovery and available-capacity pages.**
 
 Every page will repeat the citations needed to support that page because readers may encounter it without the rest of the course. Repetition across pages is therefore intentional. Within one page, however, citations should not be repeated unnecessarily.
 
@@ -121,7 +121,15 @@ The selected structure is:
 7. Use paraphrase for the finished educational explanation; retain only quotations that are especially useful to the human author or reader.
 8. Keep a source section selective rather than exhaustive, adding evidence that changes or directly supports the page.
 
-The Module 1 structure now covers the overview and three focused pages. Each page shows the complete four-page reading order, leaves the current page unlinked, places previous and next navigation immediately before Research and Sources, and repeats only the compact source groups needed to stand alone. Twelve stable citation IDs are now tracked in the central index.
+The Module 1 structure now covers the overview and four focused pages. The overview shows the complete five-page reading order, navigation moves through each focused page, and each page repeats only the compact source groups needed to stand alone. Twenty-eight stable citation IDs used by Module 1 are tracked in the central index.
+
+## Decision 13 — Where should available capacity and Spoon Theory be introduced?
+
+**Status: Accepted. Introduce the concept on Page 4 of Module 1.**
+
+Available capacity can help a person plan across symptom types, so readers should meet the term before the symptom and treatment modules. The Module 1 page owns the shared explanation of Spoon Theory, load and recovery, the ME/CFS Energy Envelope Theory, autonomic claims, low-capacity signs and early adjustment. It treats these as different kinds of model and does not claim that capacity is one biological quantity or that planning can prevent every flare.
+
+The fatigue page in Module 11 owns distinctions among capacity, fatigue, fatigability, post-exertional worsening and post-exertional malaise. Module 12 owns detailed autonomic assessment and the correction of one-dimensional “balance” claims. Module 15 owns individualized pacing, baseline and activity-planning methods. These later pages should summarize and link back rather than recreate the introductory explanation.
 
 ## Clinician-section principle
 
@@ -131,8 +139,8 @@ The clinician section on every overview and focused page will be centred on prac
 
 - 2 pages: Modules 4 and 23
 - 3 pages: Modules 2, 5, 10, 12–16, 18–22
-- 4 pages: Modules 1, 3, 6, 8, 9, and 17
-- 5 pages: Modules 7 and 11
+- 4 pages: Modules 3, 6, 8, 9, and 17
+- 5 pages: Modules 1, 7, and 11
 
 The median module length is three pages. No module exceeds five pages.
 

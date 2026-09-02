@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- fixed, sustained or intermittent patterned postures;
+- pulling, twisting or spasm affecting a limb, trunk or neck; and
+- an assessed functional dystonia phenotype rather than muscle tightness alone.
+
+**Scope boundary:** Face- or jaw-dominant pulling belongs on the [facial symptoms page](14-functional-facial-symptoms.md), while weakness and brief jerks use their own pages. Diagnostic and recovery techniques must follow whether the observed problem is overactivity, weakness or another movement pattern.
+
 **Also described as:** fixed functional dystonia, functional posturing and functional movement-disorder dystonia.
 
 Functional dystonia may involve a fixed or intermittent posture, pain, sensitivity and loss of ordinary movement. Treatment is usually gradual. Forcing a limb out of position can increase pain, fear, muscle activity or injury risk.

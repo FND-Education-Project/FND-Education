@@ -26,6 +26,7 @@ Use the sections below to drill down into the course, reference library, researc
 - [What “Functional” Means and How FND Can Appear](course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md)
 - [The Biopsychosocial Model and Misconceptions](course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md)
 - [Remission, Recovery, and What Improvement Can Mean](course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md)
+- [Available Capacity, Spoons, and Early Action](course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md)
 
 </details>
 
@@ -272,7 +273,7 @@ Use the sections below to drill down into the course, reference library, researc
 <summary><strong>Symptom-Specific Diagnostic Signs</strong></summary>
 
 - [Diagnostic Signs index](reference/diagnostic-signs/README.md)
-- [Functional Limb Weakness or Paralysis](reference/diagnostic-signs/01-functional-limb-weakness.md)
+- [Functional Limb Weakness](reference/diagnostic-signs/01-functional-limb-weakness.md)
 - [Functional Tremor](reference/diagnostic-signs/02-functional-tremor.md)
 - [Functional Jerks or Myoclonus](reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md)
 - [Functional Dystonia or Fixed Posturing](reference/diagnostic-signs/04-functional-dystonia.md)
@@ -286,6 +287,8 @@ Use the sections below to drill down into the course, reference library, researc
 - [Functional Cognitive Disorder](reference/diagnostic-signs/12-functional-cognitive-disorder.md)
 - [Persistent Postural-Perceptual Dizziness](reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md)
 - [Functional Facial Symptoms — Spasm, Droop and Weakness](reference/diagnostic-signs/14-functional-facial-symptoms.md)
+- [Functional Paralysis](reference/diagnostic-signs/15-functional-paralysis.md)
+- [Functional Drop Attacks](reference/diagnostic-signs/16-functional-drop-attacks.md)
 
 </details>
 
@@ -294,7 +297,7 @@ Use the sections below to drill down into the course, reference library, researc
 
 - [Recovery Techniques index](reference/recovery-techniques/README.md)
 - [Technique index](reference/recovery-techniques/technique-index.md)
-- [Recovery Techniques for Functional Limb Weakness or Paralysis](reference/recovery-techniques/01-functional-limb-weakness.md)
+- [Recovery Techniques for Functional Limb Weakness](reference/recovery-techniques/01-functional-limb-weakness.md)
 - [Recovery Techniques for Functional Tremor](reference/recovery-techniques/02-functional-tremor.md)
 - [Recovery Techniques for Functional Jerks or Myoclonus](reference/recovery-techniques/03-functional-jerks-and-myoclonus.md)
 - [Recovery Techniques for Functional Dystonia or Fixed Posturing](reference/recovery-techniques/04-functional-dystonia.md)
@@ -308,6 +311,8 @@ Use the sections below to drill down into the course, reference library, researc
 - [Recovery Techniques for Functional Cognitive Disorder](reference/recovery-techniques/12-functional-cognitive-disorder.md)
 - [Recovery Techniques for Persistent Postural-Perceptual Dizziness](reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md)
 - [Recovery Techniques for Functional Facial Symptoms](reference/recovery-techniques/14-functional-facial-symptoms.md)
+- [Recovery Techniques for Functional Paralysis](reference/recovery-techniques/15-functional-paralysis.md)
+- [Recovery and Safety Techniques for Functional Drop Attacks](reference/recovery-techniques/16-functional-drop-attacks.md)
 
 </details>
 

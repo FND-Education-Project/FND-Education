@@ -6,6 +6,8 @@
 
 > **Working draft:** This reference was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+Every numbered page begins with **Refers to** and a scope boundary. A symptom may appear in more than one category, but recovery techniques must follow the assessed appearance. When no appearance-specific technique or evidence was located, the page should say so rather than borrow a method from a different phenotype.
+
 This collection is about approaches that may support symptom improvement, safer self-management, participation or quality of life. Here, **recovery** does not promise remission. For some people it may mean fewer symptoms; for others it may mean greater function, confidence, independence or stability while symptoms continue.
 
 The [master technique list](technique-index.md) is the actual list page. It has one section organized by symptom and a second alphabetical index showing the symptom or symptoms beside every technique. Each symptom name links to a full page with practical instructions, evidence limits, safety notes and sources.
@@ -39,6 +41,8 @@ A useful general structure is **safety → reduce relevant load → one rehearse
 
 Some symptoms need special wording. A single jerk is brief but jerks may repeat through a long bout. Swallowing and airway symptoms require safety to override experimentation. Functional seizures are episodic, but warnings, clusters, recovery and other functional symptoms may make the surrounding flare much longer. PPPD is persistent by diagnostic definition, although its severity can wax and wane and stronger flares can occur.
 
+Severe paralysis and drop attacks also need appearance-specific plans. Complete or near-complete limb movement loss begins with safe positioning, transfers, skin and joint protection, access and the movement that is currently available. Immobility confined to a functional seizure follows the seizure-event plan. A functional drop attack begins with injury prevention and event-specific assessment; a no-warning fall should not be assigned a warning-based technique. See [functional paralysis](15-functional-paralysis.md) and [functional drop attacks](16-functional-drop-attacks.md).
+
 ## A safe way to use the collection
 
 1. Confirm that the symptom has been appropriately assessed and that the page matches the symptom being treated.
@@ -53,11 +57,11 @@ The list is intended to be broad, but it is not proof that every possible techni
 
 The evidence search found one community-only practice that met the project’s repetition and safety rules: **cold or textured sensory grounding used at a familiar functional-seizure warning**. Several independent patient-community resources describe the same basic approach. It is clearly marked as community-reported, not as a cure or established seizure treatment. No community-only technique was added from a single post or testimonial.
 
-A separate source notebook is used to collect public lived-experience quotations for review. Quotations are treated as descriptions of experience, not evidence that a technique works. The [functional facial-symptoms page](14-functional-facial-symptoms.md) includes a small, clearly labelled review set because community practice is part of that page’s question; none of its techniques currently meets the two-independent-report rule for a community-reported evidence label.
+A separate source notebook is used to collect public lived-experience quotations for review. Quotations are treated as descriptions of experience, not evidence that a technique works. The [functional facial-symptoms](14-functional-facial-symptoms.md), [functional-paralysis](15-functional-paralysis.md) and [functional-drop-attack](16-functional-drop-attacks.md) pages include small, clearly labelled review sets; none establishes an appearance-specific treatment or currently meets the two-independent-report rule for a new community-reported evidence label.
 
 **Related pages:** [Reference library](../README.md) · [Technique index](technique-index.md) · [Evidence standard](../../docs/project/evidence-standard.md) · [Citation index](../../research/citation-index.md)
 
-*Collection created: August 25, 2026 · Functional facial symptoms added September 1, 2026 · Clinical and accessibility review pending*
+*Collection created: August 25, 2026 · Functional paralysis and drop attacks added September 2, 2026 · Clinical and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Reference Library](../README.md) · [Diagnostic Signs](../diagnostic-signs/README.md) · [Technique Index](technique-index.md)

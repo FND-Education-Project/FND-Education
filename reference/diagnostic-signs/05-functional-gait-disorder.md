@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- dragging, knee buckling, hesitant or very slow walking;
+- swaying, crouching, unusual balance strategies or an astasia–abasia pattern; and
+- a functional movement pattern expressed mainly during standing or walking.
+
+**Scope boundary:** Primary limb weakness also belongs on the [weakness page](01-functional-limb-weakness.md), complete movement loss on the [paralysis page](15-functional-paralysis.md), a sudden fall without definite blackout on the [drop-attacks page](16-functional-drop-attacks.md), and persistent dizziness on the [PPPD page](13-persistent-postural-perceptual-dizziness.md). Gait comparisons apply only when standing and walking can be assessed safely.
+
 **Primary technique:** Sign-based gait comparison across several safe walking tasks.  
 **Diagnostic method:** Identify reproducible inconsistency or incongruity rather than diagnosing from an unusual-looking gait alone.  
 **Media needed:** One continuous, safely spotted walking sequence from more than one angle.

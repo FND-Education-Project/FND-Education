@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- sudden, brief, non-rhythmic limb, trunk or whole-body jerks;
+- isolated jerks or repeated clusters; and
+- assessed functional myoclonus or startle-like jerks.
+
+**Scope boundary:** Rhythmic oscillation belongs on the [tremor page](02-functional-tremor.md), patterned posturing on the [dystonia page](04-functional-dystonia.md), and a larger episodic event on the [functional-seizures page](06-functional-seizures.md). Recovery techniques must follow the actual movement or event pattern.
+
 **Also described as:** functional myoclonus, functional jerky movements and functional tic-like or shock-like movements. These terms are not interchangeable diagnoses; assessment matters.
 
 Functional jerks are often brief and difficult to retrain one movement at a time. Rehabilitation therefore tends to focus on a familiar warning, the movement or muscle state immediately before the jerk, safer activity, and attention or arousal patterns around episodes.

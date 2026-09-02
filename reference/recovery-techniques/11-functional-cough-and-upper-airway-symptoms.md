@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- persistent functional or habitual cough;
+- recurrent throat clearing; and
+- an assessed functional laryngeal, upper-airway or breathing presentation within this clinical scope.
+
+**Scope boundary:** This category does not include generic breathlessness or every chronic cough. Swallow-related coughing belongs in a swallowing and airway-safety assessment, and respiratory, cardiac, allergic, infectious, medication-related and structural causes still require appropriate evaluation.
+
 **Also described as:** functional cough, habit cough, somatic cough syndrome, functional throat clearing and inducible laryngeal or breathing symptoms. These labels overlap imperfectly; respiratory and laryngeal assessment determines which treatment is appropriate.
 
 Treatment often teaches the person to recognize an early cough or throat sensation, use a safer competing response, and return to comfortable breathing and voice. Asthma, reflux, allergy, infection and other causes must not be overlooked.

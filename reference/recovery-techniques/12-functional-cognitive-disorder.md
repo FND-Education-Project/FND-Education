@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- memory, attention or concentration difficulty;
+- word-finding and mental-efficiency problems; and
+- “brain fog” only when it forms part of an assessed functional cognitive presentation.
+
+**Scope boundary:** Speech-motor blocking belongs on the [speech page](09-functional-speech-and-voice-symptoms.md), and altered awareness within an event may require a [functional-seizure recovery plan](06-functional-seizures.md). Cognitive symptoms can also arise from sleep, medication, pain, migraine, mood, neurological disease and other causes.
+
 **Also described as:** FCD, functional memory symptoms, functional cognitive symptoms and cognitive symptoms within FND.
 
 Functional Cognitive Disorder can involve disabling problems with attention, memory, word finding or mental efficiency alongside evidence that cognitive ability is working better in some contexts than the person experiences. Treatment aims to reduce unhelpful checking and threat, make better use of preserved ability, and address sleep, pain, fatigue, mood and other contributors.

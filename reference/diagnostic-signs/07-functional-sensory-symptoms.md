@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- numbness or reduced, absent or altered touch sensation;
+- tingling, burning, hypersensitivity or unusual bodily sensation; and
+- an assessed body part feeling different, distant or absent when this is a sensory presentation.
+
+**Scope boundary:** Visual and other special-sense symptoms need their own assessment, and dissociative disconnection is not automatically a sensory sign. This page’s examinations concern sensory modalities and should not be substituted for motor, seizure or cognitive assessment.
+
 **Primary technique:** Systematic sensory history and examination across separate sensory modalities.  
 **Diagnostic method:** Map the pattern, repeat selected comparisons and interpret any inconsistency cautiously; traditional sensory signs are not reliable enough to stand alone.  
 **Media needed:** A clinician-led examination diagram that states the limitations as clearly as the technique.

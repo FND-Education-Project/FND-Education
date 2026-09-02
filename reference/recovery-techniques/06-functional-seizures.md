@@ -6,6 +6,15 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- episodic convulsive or shaking events;
+- still or unresponsive events and episodes of altered awareness or responsiveness;
+- sensory, autonomic, memory or mixed seizure-like events; and
+- inability to move only when it forms part of the person’s stereotyped functional seizure.
+
+**Scope boundary:** Isolated or persistent limb paralysis belongs on the [paralysis page](15-functional-paralysis.md). A brief sudden fall without definite blackout and with rapid recovery may belong on the [drop-attacks page](16-functional-drop-attacks.md). The recovery plan must address the whole event, not one shared symptom such as shaking or immobility.
+
 **Also described as:** dissociative seizures, psychogenic nonepileptic seizures (PNES), nonepileptic attacks and functional/dissociative seizures.
 
 Treatment begins with a clear positive diagnosis, an individualized safety plan and continuing care. Functional seizures are real episodes. They are not epileptic seizures, but epilepsy and functional seizures can coexist, so a person’s medication and emergency plan must be based on their own diagnosis.

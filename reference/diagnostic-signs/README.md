@@ -10,6 +10,8 @@ These pages explain positive signs and criteria that clinicians may use when dia
 
 A positive sign is more than a normal test or the absence of another diagnosis. It is a recognizable feature—such as internal inconsistency, incongruence or preserved function under particular conditions—that supports a functional diagnosis in the right clinical setting. No page is a do-it-yourself diagnostic test, and no single sign should be used outside the wider history and examination.
 
+Every page begins with **Refers to** and a scope boundary. Symptoms can appear in more than one category, but the method must match the actual appearance. A sign for unilateral leg weakness does not become a sign for facial droop, bilateral paralysis or a sudden fall merely because all may be described as “weakness.” Where no appearance-specific validated technique was located, the page says so.
+
 ## Required time-course coverage
 
 Every symptom page in this collection should explain the symptom’s **actual temporal pattern**, rather than assuming that the symptom seen in clinic is continuously present. In each of the three audience sections, the page should address:
@@ -24,7 +26,7 @@ The distinction matters. A single jerk is brief but jerks may occur in prolonged
 
 ## Pages in this collection
 
-1. [Functional limb weakness or paralysis](01-functional-limb-weakness.md)
+1. [Functional limb weakness](01-functional-limb-weakness.md)
 2. [Functional tremor](02-functional-tremor.md)
 3. [Functional jerks or myoclonus](03-functional-jerks-and-myoclonus.md)
 4. [Functional dystonia or fixed posturing](04-functional-dystonia.md)
@@ -38,6 +40,8 @@ The distinction matters. A single jerk is brief but jerks may occur in prolonged
 12. [Functional Cognitive Disorder](12-functional-cognitive-disorder.md)
 13. [Persistent postural-perceptual dizziness](13-persistent-postural-perceptual-dizziness.md)
 14. [Functional facial symptoms — spasm, droop and weakness](14-functional-facial-symptoms.md)
+15. [Functional paralysis](15-functional-paralysis.md)
+16. [Functional drop attacks](16-functional-drop-attacks.md)
 
 ## A note for media contributors
 
@@ -45,7 +49,7 @@ The safest demonstrations usually show what a qualified clinician observes and h
 
 **Related pages:** [Reference library](../README.md) · [Recovery and management techniques](../recovery-techniques/README.md) · [Research and citation policy](../../docs/project/research-and-citation-policy.md)
 
-*Collection index created: August 25, 2026 · Functional facial symptoms added: September 1, 2026 · Clinical and accessibility review pending*
+*Collection index created: August 25, 2026 · Functional paralysis and drop attacks added: September 2, 2026 · Clinical and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Reference Library](../README.md) · [Recovery Techniques](../recovery-techniques/README.md)

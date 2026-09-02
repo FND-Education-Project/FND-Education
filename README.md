@@ -130,7 +130,7 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 **[Read the detailed course syllabus](docs/project/detailed-course-syllabus.md)** for the essential knowledge, professional and advanced detail, practical work, support-person focus, and expected takeaway planned for every module.
 
-**[Open the course structure and drafts](course/README.md)** to read all 77 course pages: 23 short module overviews and 54 focused pages.
+**[Open the course structure and drafts](course/README.md)** to read all 78 course pages: 23 short module overviews and 55 focused pages.
 
 *[(back to the top)](#on-this-page)*
 
@@ -147,16 +147,16 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 ## Find information by symptom or need
 
-**[Open the FND Reference Library](reference/README.md)** for two symptom-specific collections: positive diagnostic signs and recovery/management techniques. Each collection currently has one page for each of 14 symptom presentations. The [master technique list](reference/recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
+**[Open the FND Reference Library](reference/README.md)** for two symptom-specific collections: positive diagnostic signs and recovery/management techniques. Each collection currently has one page for each of 16 symptom presentations, including separate pages for severe functional paralysis and functional drop attacks. The [master technique list](reference/recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
 
-The 28 symptom pages now explain that symptoms may be episodic, fluctuating, or longer-lasting. They also include immediate safety or onset guidance and, where possible, show how a familiar recovery technique may be shortened for a flare. Community quotations are usually kept in source notebooks while their wording, source, privacy, representativeness and safety are evaluated. When selected quotations appear on an educational page, they remain clearly labelled as lived experience rather than treatment evidence.
+The 32 symptom pages now explain that symptoms may be episodic, fluctuating, or longer-lasting. Diagnostic pages state which appearances they refer to and where symptoms overlap more than one category. They also include immediate safety or onset guidance and, where possible, show how a familiar recovery technique may be shortened for a flare. Community quotations are usually kept in source notebooks while their wording, source, privacy, representativeness and safety are evaluated. When selected quotations appear on an educational page, they remain clearly labelled as lived experience rather than treatment evidence.
 
 The reference library also contains a developing [five-booklet functional-seizure CBT series](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/README.md), with separate outlines and content-creator guides.
 
 Current course and reference material can be found for:
 
 - functional seizures, dissociative seizures, PNES, and altered-awareness episodes;
-- movement disorder, tremor, jerks, dystonia, weakness, paralysis, gait, and falls;
+- movement disorder, tremor, jerks, dystonia, weakness, paralysis, gait, falls, and functional drop attacks;
 - speech, voice, swallowing, breathing, and communication symptoms;
 - functional facial spasm, apparent droop, weakness, eye closure, and related mouth-control symptoms;
 - sensory, visual, dizziness, and balance symptoms;
@@ -218,7 +218,7 @@ When research has not answered an everyday question, the project may examine for
 
 The intended final educational material will be **human-authored and approved by a person living with FND**. The project lead works from research notes and source material, brings lived understanding to the wording, and decides how the subject is ultimately explained.
 
-Module 1 is the human-authored starting model. Its three focused pages contain citations and visible author-review notes. Modules 2–23 are automatically generated authoring drafts. They turn the human-planned syllabus and Module 1 pattern into page-by-page writing instructions and starting text. They are not treated as final human-authored or medically reviewed pages until a person has written or edited them and the required evidence and safety review is complete.
+Module 1 is the human-authored starting model. Its four focused pages contain citations and visible author-review notes. Modules 2–23 are automatically generated authoring drafts. They turn the human-planned syllabus and Module 1 pattern into page-by-page writing instructions and starting text. They are not treated as final human-authored or medically reviewed pages until a person has written or edited them and the required evidence and safety review is complete.
 
 AI may help create initial drafts, locate and organize research, prepare authoring notes, check citations and consistency, and identify questions or omissions. AI also maintains and updates this `README.md` as the project develops. AI assistance is not a source of medical authority and does not replace human editing, evidence review or final authorship.
 

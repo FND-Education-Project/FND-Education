@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- persistent functional or habitual cough;
+- recurrent throat clearing; and
+- an assessed functional laryngeal, upper-airway or breathing presentation within this clinical scope.
+
+**Scope boundary:** This category does not include generic breathlessness or every chronic cough. Swallow-related coughing belongs in a swallowing and airway-safety assessment, and respiratory, cardiac, allergic, infectious, medication-related and structural causes still require appropriate evaluation.
+
 **Primary technique:** Multidisciplinary history and laryngeal-respiratory assessment across relevant conditions.  
 **Diagnostic method:** Identify a positive symptom pattern while assessing respiratory, laryngeal, medication-related and other causes; there is no single decisive bedside sign.  
 **Media needed:** Speech-pathology or laryngoscopy process demonstration without deliberately provoking symptoms.

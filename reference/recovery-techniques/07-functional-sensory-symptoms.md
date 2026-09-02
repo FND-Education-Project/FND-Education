@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- numbness or reduced, absent or altered touch sensation;
+- tingling, burning, hypersensitivity or unusual bodily sensation; and
+- an assessed body part feeling different, distant or absent when this is a sensory presentation.
+
+**Scope boundary:** Visual and other special-sense symptoms need their own assessment, and dissociative disconnection is not automatically a sensory symptom. Recovery techniques must follow the assessed sensory presentation rather than being substituted for motor, seizure or cognitive treatment.
+
 **Also described as:** functional numbness, altered sensation, functional sensory loss, tingling, hypersensitivity and sensory processing difficulty associated with FND.
 
 Functional sensory symptoms can involve too little, too much or distorted sensation. Rehabilitation usually pairs tolerable sensory input with attention, movement and a useful activity. The aim is not to insist that a sensation is harmless before relevant medical assessment is complete.

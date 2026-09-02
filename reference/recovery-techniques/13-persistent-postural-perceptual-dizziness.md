@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- persistent non-spinning dizziness or unsteadiness;
+- rocking, swaying or visually induced dizziness; and
+- symptoms worsened by upright posture, movement or complex visual environments that meet PPPD criteria.
+
+**Scope boundary:** PPPD is persistent by diagnostic definition—present on most days for at least three months—although severity can fluctuate. This page does not cover every brief dizzy spell, faint, balance problem or sudden fall; those appearances need their own assessment and recovery plan.
+
 **Also described as:** PPPD, 3PD and persistent perceptual dizziness.
 
 PPPD treatment usually combines an individualized explanation with gradual return to upright posture, head/body motion, visual motion and everyday activity. The dose matters: too little exposure can preserve avoidance, while too much can cause a setback and loss of confidence.
