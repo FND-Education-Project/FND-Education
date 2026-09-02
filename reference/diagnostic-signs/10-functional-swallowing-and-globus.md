@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- functional difficulty swallowing food, drink or saliva;
+- difficulty initiating a swallow or a feeling that material sticks; and
+- globus: a lump or tightness sensation, typically between swallows.
+
+**Scope boundary:** Not every cough, choking episode or breathing symptom is functional dysphagia. Mouth closure may also need [facial assessment](14-functional-facial-symptoms.md), while cough and laryngeal symptoms have a [separate page](11-functional-cough-and-upper-airway-symptoms.md). Technique choice follows whether the problem is swallowing, globus, mouth control or airway protection.
+
 **Primary technique:** Structured swallowing history and clinical assessment, with instrumental assessment when indicated.  
 **Diagnostic method:** Distinguish swallowing impairment from globus, look for a positive functional pattern and investigate structural or neurological alternatives.  
 **Media needed:** A clinician explanation or a consented, annotated FEES or videofluoroscopy excerpt—not a contributor-designed food challenge.

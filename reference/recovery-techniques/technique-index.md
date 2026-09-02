@@ -12,7 +12,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 ## Techniques by symptom
 
-### [Functional limb weakness or paralysis](01-functional-limb-weakness.md)
+### [Functional limb weakness](01-functional-limb-weakness.md)
 
 - **C** automatic and task-oriented movement retraining
 - **C** early weight-bearing and side-to-side weight shift
@@ -171,15 +171,38 @@ This page provides two ways to find the same material. The first groups techniqu
 - **C** treatment of coexisting facial, dental, eye, movement, migraine or swallowing conditions
 - **uncertain** specialist botulinum-toxin discussion for a selected phenotype
 
+### [Functional paralysis](15-functional-paralysis.md)
+
+- **C** positioning, pressure relief, skin, joint and contracture prevention
+- **C** individually assessed transfers, seating, mobility aids and environmental access
+- **C** movement retraining from an available automatic, synergistic or task-linked movement
+- **C** meaningful task practice with external focus, progressed from current ability
+- **C** responsive dose planning that accounts for fatigue, pain, orthostatic and post-activity effects
+- **C** coordinated physiotherapy, occupational therapy, nursing and other relevant care
+- **E/C** a phenotype-specific episodic plan; seizure-confined immobility uses the seizure plan
+- **C** continuing participation, accessibility and quality-of-life support when movement remains limited
+
+### [Functional drop attacks](16-functional-drop-attacks.md)
+
+- **C** individualized injury-response and reassessment plan
+- **C** proportionate fall-hazard and activity review
+- **C** individually assessed mobility strategy and equipment
+- **E** warning recognition only when a reliable warning exists
+- **C** safe recovery from the floor without repeated testing
+- **E/C** graded return to avoided activity with adequate support
+- **C** separate treatment of overlapping gait, weakness, seizure, dizziness, sleep or syncope presentations
+
 ## Alphabetical technique index
 
 **Acceptance and commitment therapy (ACT), FCD-specific online group** — Functional Cognitive Disorder. **E**
 
 **Antiseizure-medication review, prescriber led** — Functional seizures when epilepsy is absent. **C**
 
-**Attention redirection or external-focus practice** — Limb weakness; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; swallowing; Functional Cognitive Disorder; facial symptoms. **C**
+**Attention redirection or external-focus practice** — Limb weakness; paralysis; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; swallowing; Functional Cognitive Disorder; facial symptoms. **C**
 
-**Automatic and task-oriented movement retraining** — Limb weakness; gait; dystonia. **C**
+**Automatic and task-oriented movement retraining** — Limb weakness; paralysis; gait; dystonia. **C**
+
+**Available-movement entry point for severe paralysis** — Functional paralysis. **C**
 
 **Backward or sideways walking** — Functional gait disorder; functional ankle weakness. **C**
 
@@ -197,13 +220,17 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Communication supports used alongside retraining** — Functional speech and voice symptoms. **C**
 
+**Continuing accessibility and participation support** — Functional paralysis and persistent functional drop attacks. **C**
+
+**Coordinated multidisciplinary care for severe motor loss** — Functional paralysis. **C**
+
 **Competing movement or absorbing task** — Tremor; jerks. **C**
 
 **Cough substitute: sip-and-swallow, nasal sniff or selected competing response** — Functional cough and upper-airway symptoms. **C**
 
 **Desensitization or graded sensory stimulation** — Sensory symptoms; dystonia. **C**
 
-**Diagnostic explanation and education as part of treatment** — All 14 symptom groups. **C**
+**Diagnostic explanation and education as part of treatment** — All 16 symptom groups. **C**
 
 **Diet-restriction review after swallowing safety assessment** — Functional swallowing and globus. **C**
 
@@ -212,6 +239,8 @@ This page provides two ways to find the same material. The first groups techniqu
 **Electrical muscle stimulation, functional electrical stimulation or TENS as an adjunct** — Weakness; dystonia; sensory symptoms. **E**
 
 **Episode safety and supporter-response plan** — Functional seizures. **C**
+
+**Fall-injury response and reassessment plan** — Functional drop attacks. **C**
 
 **Exaggerated high-step walking or light hand weights** — Functional gait disorder. **C**
 
@@ -227,9 +256,11 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Gaze-stability exercises when indicated** — PPPD. **C**
 
-**Graded activity and reconditioning** — Weakness; gait; PPPD; mixed motor symptoms. **C**
+**Graded activity and reconditioning** — Weakness; paralysis; gait; PPPD; mixed motor symptoms. **C**
 
 **Graded exposure to avoided tasks or triggers** — Dystonia; sensory symptoms; visual symptoms; swallowing; cough; PPPD; selected functional facial symptoms. **C/E**
+
+**Graded return to avoided activity with fall support** — Functional drop attacks. **E/C**
 
 **Graded light exposure and reduced dark adaptation** — Functional visual symptoms with photophobia. **C**
 
@@ -241,13 +272,15 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Hypnotherapy or suggestion combined with practice** — Functional visual symptoms. **E**
 
-**Meaningful functional-task practice** — Weakness; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; Functional Cognitive Disorder; facial symptoms. **C**
+**Meaningful functional-task practice** — Weakness; paralysis; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; Functional Cognitive Disorder; facial symptoms. **C**
 
 **Metacognitive prediction-versus-performance practice** — Functional Cognitive Disorder. **C**
 
 **Mirror, visual or EMG feedback** — Weakness; tremor; dystonia; sensory symptoms; functional visual symptoms. **C/E**
 
 **Mobility-aid review with a safety, independence and weaning-or-long-term plan** — Weakness; gait; dystonia. **C**
+
+**Mobility, seating and transfer-equipment review** — Functional paralysis; functional drop attacks. **C**
 
 **Music, counting, singing or another external rhythm** — Gait; tremor; speech/voice. **C**
 
@@ -263,11 +296,15 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Oral, swallowing, speech and eye-safety assessment** — Functional facial symptoms. **C**
 
+**Positioning, pressure relief, skin and contracture prevention** — Functional paralysis. **C**
+
 **Orthoptist-guided visual feedback and graded visual tasks** — Functional visual symptoms. **C/E**
 
 **Pain, fatigue, sleep, migraine, mental-health and other comorbidity treatment** — Potentially all symptom groups, selected individually. **C**
 
 **Posture and alignment retraining** — Tremor; dystonia; weakness; gait. **C**
+
+**Proportionate fall-hazard and activity review** — Functional drop attacks. **C**
 
 **Psychological intervention, seizure focused** — Functional seizures. **R/C**
 
@@ -277,9 +314,13 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Reflexive or automatic voice tasks** — Functional speech and voice symptoms. **C**
 
-**Relapse and self-management plan** — All 14 symptom groups. **C**
+**Relapse and self-management plan** — All 16 symptom groups. **C**
 
 **Rhythmic weight shift progressing into steps** — Functional gait disorder; limb weakness. **C**
+
+**Responsive rehabilitation dose planning from current capacity** — Functional paralysis. **C**
+
+**Safe recovery from the floor after a familiar event** — Functional drop attacks. **C**
 
 **Sensory discrimination practice** — Functional sensory symptoms. **C**
 
@@ -299,13 +340,17 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Trigger, warning-sign and pattern mapping** — Functional seizures; jerks; cough; mixed episodic symptoms. **C**
 
+**Treatment of overlapping fall and event phenotypes** — Functional drop attacks. **C**
+
+**Warning recognition when a reliable warning exists** — Functional drop attacks. **E**
+
 **Vestibular rehabilitation, individualized** — PPPD. **R/C**
 
 ## Scope and gaps
 
-The pages cover the same 14 presentations as the current diagnostic-sign reference. They do not yet cover every reported FND-associated symptom. Hearing changes, bladder symptoms, breathing-pattern disorder outside functional cough/upper-airway symptoms, dissociation without seizures, pain, fatigue and several less common movement presentations require their own research package before symptom-specific technique pages are added.
+The pages cover the same 16 presentations as the current diagnostic-sign reference. They do not yet cover every reported FND-associated symptom. Hearing changes, bladder symptoms, breathing-pattern disorder outside functional cough/upper-airway symptoms, dissociation without seizures, pain, fatigue and several less common movement presentations require their own research package before symptom-specific technique pages are added.
 
-*Index created: August 25, 2026 · Facial-symptom evidence search current to September 1, 2026 · Clinical and accessibility review pending*
+*Index created: August 25, 2026 · Functional paralysis and drop attacks added September 2, 2026 · Clinical and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Recovery Techniques](README.md) · [Reference Library](../README.md)

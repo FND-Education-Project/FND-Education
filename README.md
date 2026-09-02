@@ -147,16 +147,16 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 ## Find information by symptom or need
 
-**[Open the FND Reference Library](reference/README.md)** for two symptom-specific collections: positive diagnostic signs and recovery/management techniques. Each collection currently has one page for each of 14 symptom presentations. The [master technique list](reference/recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
+**[Open the FND Reference Library](reference/README.md)** for two symptom-specific collections: positive diagnostic signs and recovery/management techniques. Each collection currently has one page for each of 16 symptom presentations, including separate pages for severe functional paralysis and functional drop attacks. The [master technique list](reference/recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
 
-The 28 symptom pages now explain that symptoms may be episodic, fluctuating, or longer-lasting. They also include immediate safety or onset guidance and, where possible, show how a familiar recovery technique may be shortened for a flare. Community quotations are usually kept in source notebooks while their wording, source, privacy, representativeness and safety are evaluated. When selected quotations appear on an educational page, they remain clearly labelled as lived experience rather than treatment evidence.
+The 32 symptom pages now explain that symptoms may be episodic, fluctuating, or longer-lasting. Diagnostic pages state which appearances they refer to and where symptoms overlap more than one category. They also include immediate safety or onset guidance and, where possible, show how a familiar recovery technique may be shortened for a flare. Community quotations are usually kept in source notebooks while their wording, source, privacy, representativeness and safety are evaluated. When selected quotations appear on an educational page, they remain clearly labelled as lived experience rather than treatment evidence.
 
 The reference library also contains a developing [five-booklet functional-seizure CBT series](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/README.md), with separate outlines and content-creator guides.
 
 Current course and reference material can be found for:
 
 - functional seizures, dissociative seizures, PNES, and altered-awareness episodes;
-- movement disorder, tremor, jerks, dystonia, weakness, paralysis, gait, and falls;
+- movement disorder, tremor, jerks, dystonia, weakness, paralysis, gait, falls, and functional drop attacks;
 - speech, voice, swallowing, breathing, and communication symptoms;
 - functional facial spasm, apparent droop, weakness, eye closure, and related mouth-control symptoms;
 - sensory, visual, dizziness, and balance symptoms;

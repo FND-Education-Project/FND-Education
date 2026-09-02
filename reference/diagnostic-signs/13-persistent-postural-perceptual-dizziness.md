@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- persistent non-spinning dizziness or unsteadiness;
+- rocking, swaying or visually induced dizziness; and
+- symptoms worsened by upright posture, movement or complex visual environments that meet PPPD criteria.
+
+**Scope boundary:** PPPD is persistent by diagnostic definition—present on most days for at least three months—although severity can fluctuate. This page does not cover every brief dizzy spell, faint, balance problem or sudden fall; those appearances need their own differential assessment.
+
 **Primary technique:** Criteria-based clinical interview with appropriate vestibular and medical assessment.  
 **Diagnostic method:** Confirm all five Bárány Society PPPD criteria; there is no single bedside manoeuvre or scan that establishes the diagnosis.  
 **Media needed:** A static criteria diagram. Moving visual patterns are not preferred because they may worsen symptoms.

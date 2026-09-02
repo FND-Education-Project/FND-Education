@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- fixed, sustained or intermittent patterned postures;
+- pulling, twisting or spasm affecting a limb, trunk or neck; and
+- an assessed functional dystonia phenotype rather than muscle tightness alone.
+
+**Scope boundary:** Face- or jaw-dominant pulling belongs on the [facial symptoms page](14-functional-facial-symptoms.md), while weakness and brief jerks use their own pages. Diagnostic and recovery techniques must follow whether the observed problem is overactivity, weakness or another movement pattern.
+
 **Primary technique:** Specialist pattern-based history and movement examination.  
 **Diagnostic method:** Look for a combination of recognized functional dystonia features, internal inconsistency and incongruity with established non-functional dystonia patterns.  
 **Media needed:** Still-image sequence or gentle continuous examination; no forced repositioning.

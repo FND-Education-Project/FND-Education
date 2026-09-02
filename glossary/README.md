@@ -12,7 +12,7 @@
 
 **Status:** Project reference resource. Final wording remains subject to human editorial review.
 
-**Last evidence and terminology review:** 17 August 2026.
+**Last evidence and terminology review:** 2 September 2026.
 
 ---
 
@@ -22,6 +22,11 @@
 **Type: research concept**
 
 The sense that *I am the person causing or controlling this movement, action, or experience*. Altered sense of agency has been studied in FND, particularly in functional movement symptoms. It is one part of several developing models and is not a diagnostic test by itself.
+
+### Available capacity
+**Type: preferred plain-language course term**
+
+The usable physical, cognitive, sensory, emotional and upright-activity capacity a person has at a particular time. It may vary with fatigue, pain, sleep, migraine, medication, symptoms, environment, recovery and coexisting illness. This project uses the term as practical descriptive language, not as a measurable biological unit or an autonomic-state diagnosis. See also **spoon theory**.
 
 ### Associated symptoms
 **Type: general clinical term**
@@ -68,6 +73,11 @@ A broad term for altered integration of awareness, memory, identity, perception,
 **Type: current alternative term**
 
 A term used for seizure-like episodes that are not epileptic seizures and are commonly included within FND. It is especially common in some countries and classification traditions. In 2025, an International League Against Epilepsy task force proposed the combined term **functional/dissociative seizures (FDS)**.
+
+### Drop attack
+**Type: event description**
+
+A sudden fall from standing or walking. In the functional-drop-attack literature, the usual presentation has no definite blackout, often little or no warning and relatively rapid recovery. The term alone does not identify the cause: syncope, epilepsy, cataplexy, vestibular events, gait or weakness problems and other conditions may also cause sudden falls. See [Functional Drop Attacks](../reference/diagnostic-signs/16-functional-drop-attacks.md).
 
 ### Distractibility
 **Type: positive clinical sign**
@@ -132,6 +142,11 @@ A disorder in which people experience neurological symptoms involving movement, 
 **Type: general term**
 
 Neurological symptoms occurring as part of FND or a related functional presentation. The phrase may be used before the clinician has decided whether the overall pattern meets criteria for a specific FND diagnosis.
+
+### Functional paralysis
+**Type: severe functional motor presentation**
+
+Complete or near-complete loss of voluntary movement in one or more limbs when positive clinical findings support a functional motor diagnosis. This project treats it as the severe end of functional limb weakness, while giving it a separate page because safety, access and rehabilitation starting points differ from partial weakness. Immobility confined to a functional seizure is described as part of that event unless a separate motor symptom persists. See [Functional Paralysis](../reference/diagnostic-signs/15-functional-paralysis.md).
 
 ### Functional seizures
 **Type: current preferred term used by this project and the 2026 AAN guideline**
@@ -268,6 +283,11 @@ The detailed description of what happens during a symptom or episode—what star
 **Type: separate psychiatric diagnosis**
 
 A psychiatric diagnosis involving excessive or disproportionate thoughts, feelings, or behaviours related to physical symptoms. It is **not another name for FND** and is not required for an FND diagnosis, although the diagnoses can coexist in some people.
+
+### Spoon theory
+**Type: community metaphor**
+
+A metaphor introduced by Christine Miserandino to describe limited, fluctuating usable capacity and the often invisible cost of ordinary tasks while living with chronic illness. A “spoon” is not a clinical unit, an FND biomarker or a position on a sympathetic–parasympathetic graph. The course prefers **available capacity** when precise shared language is needed.
 
 ### Symptom variability
 **Type: common clinical feature**

@@ -120,7 +120,7 @@ The community material raises useful questions for clinical testing: whether lig
 [For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Community reports](#community-reports-what-people-try) · [Research and evidence](#research-and-evidence)
 
 <!-- NAV-CONTEXT:START -->
-**Previous in this collection:** [← Persistent Postural-Perceptual Dizziness](13-persistent-postural-perceptual-dizziness.md)
+**Previous in this collection:** [← Persistent Postural-Perceptual Dizziness](13-persistent-postural-perceptual-dizziness.md) · **Continue:** [Functional Paralysis →](15-functional-paralysis.md)
 
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md) · [Swallowing techniques](10-functional-swallowing-and-globus.md)
 

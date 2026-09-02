@@ -1,14 +1,24 @@
-# Functional Limb Weakness or Paralysis
+# Functional Limb Weakness
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Limb Weakness or Paralysis**
+[Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Limb Weakness**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- partial loss of voluntary movement or power in an arm, hand, leg or foot;
+- heaviness, reduced grip, dropping objects, foot drag or a limb giving way when weakness is the main problem; and
+- fluctuating, episodic or persistent limb weakness that does not amount to complete or near-complete paralysis.
+
+**Scope boundary:** Use the [functional paralysis page](15-functional-paralysis.md) for complete or near-complete voluntary movement loss, the [facial symptoms page](14-functional-facial-symptoms.md) for facial droop or weakness, and the [drop-attacks page](16-functional-drop-attacks.md) for sudden falls. A walking manifestation may also belong on the [gait page](05-functional-gait-disorder.md); the examination must follow the actual presentation.
+
 **Primary technique:** Hoover’s sign for functional leg weakness.  
 **Diagnostic method:** Comparison of deliberate hip extension with automatic hip extension during movement of the opposite leg.  
 **Media needed:** Clinician-led video and a two-panel explanatory diagram.
+
+**Technique scope:** The detailed sign below applies to an appropriate unilateral leg-weakness presentation. It is not an arm, facial, bilateral-paralysis or drop-attack test. When the appearance differs, clinicians need a matching positive assessment; this page does not claim that Hoover’s sign fills that gap.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)  
@@ -18,7 +28,7 @@
 ***
 ## For the Person With FND
 
-Functional weakness, functional limb weakness and functional paralysis describe difficulty producing voluntary movement even though some movement pathways remain available. **Hoover’s sign** is one way a clinician may demonstrate this difference in a weak leg.
+Functional limb weakness describes reduced access to voluntary movement or power even though some movement pathways remain available. This page covers partial weakness; complete or near-complete loss has its own [functional paralysis page](15-functional-paralysis.md). **Hoover’s sign** is one way a clinician may demonstrate a relevant difference in a weak leg.
 
 During one part of the examination, pushing the affected heel down may be weak. During another part, the same hip-extension muscles may work more strongly and automatically while the opposite leg lifts against resistance. This is not a test of honesty or effort. It may show that movement is available under one condition but is not reliably accessible during deliberate movement. (*citations* [1](#citation-1), [2](#citation-2))
 

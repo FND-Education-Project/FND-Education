@@ -6,6 +6,13 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- rhythmic or oscillating shaking of a hand, arm, leg, head, trunk or voice; and
+- tremor that may be intermittent, task-specific, position-dependent or persistent.
+
+**Scope boundary:** Discrete non-rhythmic jerks belong on the [jerks page](03-functional-jerks-and-myoclonus.md), and a whole episodic event with altered responsiveness belongs on the [functional-seizures page](06-functional-seizures.md). Tremor techniques should not be applied to those different appearances without assessment.
+
 **Primary techniques:** Distractibility and tremor entrainment.  
 **Diagnostic method:** Observe whether tremor frequency, amplitude or presence changes during a separate task or while another limb follows imposed rhythms.  
 **Media needed:** One continuous clinician-led video with visible or audible pacing.

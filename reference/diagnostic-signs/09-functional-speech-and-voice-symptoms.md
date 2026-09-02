@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- stuttering, slurred, effortful, blocked or absent speech;
+- functional dysphonia, aphonia and changes in volume, pitch, accent or prosody; and
+- assessed functional articulation or speech-initiation difficulty.
+
+**Scope boundary:** Cognitive word-finding difficulty without a speech-motor or language-production pattern belongs on the [cognitive page](12-functional-cognitive-disorder.md), mouth mechanics may overlap the [facial page](14-functional-facial-symptoms.md), and swallowing belongs on the [swallowing page](10-functional-swallowing-and-globus.md). The comparison tasks must match the communication phenotype.
+
 **Primary technique:** Speech-and-language assessment comparing communication across several natural and structured tasks.  
 **Diagnostic method:** Look for a positive pattern of internal inconsistency or preserved automatic function that fits a functional communication disorder.  
 **Media needed:** Continuous, captioned audio-video samples recorded with the same microphone and camera position.

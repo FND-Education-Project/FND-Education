@@ -37,11 +37,11 @@ FND-Education-/
 │   ├── README.md
 │   ├── diagnostic-signs/
 │   │   ├── README.md
-│   │   └── 14 symptom-specific sign pages
+│   │   └── 16 symptom-specific sign pages
 │   └── recovery-techniques/
 │       ├── README.md
 │       ├── technique-index.md
-│       └── 14 symptom-specific technique pages
+│       └── 16 symptom-specific technique pages
 ├── guides/
 ├── support-persons/
 ├── resources/

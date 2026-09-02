@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- sudden, brief, non-rhythmic limb, trunk or whole-body jerks;
+- isolated jerks or repeated clusters; and
+- assessed functional myoclonus or startle-like jerks.
+
+**Scope boundary:** Rhythmic oscillation belongs on the [tremor page](02-functional-tremor.md), patterned posturing on the [dystonia page](04-functional-dystonia.md), and a larger episodic event on the [functional-seizures page](06-functional-seizures.md). The laboratory method below applies to repeated jerks that can be recorded, not every sudden movement.
+
 **Primary technique:** Specialist simultaneous electroencephalography and surface electromyography (EEG–EMG), including jerk-locked back-averaging.  
 **Diagnostic method:** Compare muscle-burst timing with brain activity before repeated jerks.  
 **Media needed:** Laboratory-process diagram or specialist demonstration; do not provoke jerks for filming.

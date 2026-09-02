@@ -1,14 +1,14 @@
-# Recovery Techniques for Functional Limb Weakness or Paralysis
+# Recovery Techniques for Functional Limb Weakness
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Limb Weakness or Paralysis**
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Limb Weakness**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-**Also described as:** functional paresis, functional arm weakness, functional leg weakness, functional ankle weakness and functional paralysis.
+**Applies to:** partial functional arm, hand, leg, foot or ankle weakness. Complete or near-complete voluntary movement loss uses the [functional paralysis page](15-functional-paralysis.md); sudden falls use the [drop-attacks page](16-functional-drop-attacks.md); and facial weakness uses the [functional facial-symptoms page](14-functional-facial-symptoms.md). Techniques must follow the movement pattern actually assessed.
 
-Functional weakness can improve when rehabilitation brings out movement that is more automatic, purposeful and less closely monitored. The aim is not to prove that the limb is “really strong.” It is to help the nervous system regain access to useful movement, one task at a time.
+Functional limb weakness can improve when rehabilitation brings out movement that is more automatic, purposeful and less closely monitored. The aim is not to prove that the limb is “really strong.” It is to help the nervous system regain access to useful movement, one task at a time.
 
 **Evidence labels:** **R** research-supported · **C** clinical consensus · **E** emerging. Most individual exercises below come from specialist consensus; research trials usually evaluate a complete physiotherapy or multidisciplinary program rather than one exercise in isolation.
 

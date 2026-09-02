@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- memory, attention or concentration difficulty;
+- word-finding and mental-efficiency problems; and
+- “brain fog” only when it forms part of an assessed functional cognitive presentation.
+
+**Scope boundary:** Speech-motor blocking belongs on the [speech page](09-functional-speech-and-voice-symptoms.md), and altered awareness within an event may require [functional-seizure assessment](06-functional-seizures.md). Cognitive symptoms can also arise from sleep, medication, pain, migraine, mood, neurological disease and other causes.
+
 **Primary technique:** Structured history and cognitive assessment looking for internal inconsistency.  
 **Diagnostic method:** Compare the reported difficulty with observed abilities and valid assessment results while evaluating other causes of cognitive symptoms.  
 **Media needed:** A fictional appointment example or annotated comparison diagram; never publish protected cognitive-test material.

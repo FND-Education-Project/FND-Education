@@ -6,6 +6,15 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- episodic convulsive or shaking events;
+- still or unresponsive events and episodes of altered awareness or responsiveness;
+- sensory, autonomic, memory or mixed seizure-like events; and
+- inability to move only when it forms part of the person’s stereotyped functional seizure.
+
+**Scope boundary:** Isolated or persistent limb paralysis belongs on the [paralysis page](15-functional-paralysis.md). A brief sudden fall without definite blackout and with rapid recovery may belong on the [drop-attacks page](16-functional-drop-attacks.md). The diagnostic method below assesses the whole event, not one shared symptom such as shaking or immobility.
+
 **Primary technique:** Careful event history followed, when feasible, by video-EEG recording of each typical event type.  
 **Diagnostic method:** Interpret the complete event, its clinical context and simultaneous video and EEG—not one movement viewed alone.  
 **Media needed:** A video-EEG process diagram or a consented clinical recording with specialist explanation; never provoke an event for filming.
