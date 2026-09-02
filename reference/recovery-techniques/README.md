@@ -6,6 +6,8 @@
 
 > **Working draft:** This reference was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+Every numbered page begins with **Refers to** and a scope boundary. A symptom may appear in more than one category, but recovery techniques must follow the assessed appearance. When no appearance-specific technique or evidence was located, the page should say so rather than borrow a method from a different phenotype.
+
 This collection is about approaches that may support symptom improvement, safer self-management, participation or quality of life. Here, **recovery** does not promise remission. For some people it may mean fewer symptoms; for others it may mean greater function, confidence, independence or stability while symptoms continue.
 
 The [master technique list](technique-index.md) is the actual list page. It has one section organized by symptom and a second alphabetical index showing the symptom or symptoms beside every technique. Each symptom name links to a full page with practical instructions, evidence limits, safety notes and sources.

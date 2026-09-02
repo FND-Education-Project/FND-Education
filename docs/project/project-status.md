@@ -8,13 +8,13 @@
 
 **Current stage: complete course structure and authoring drafts, with human writing and evidence review underway.**
 
-The repository contains all 77 course pages: 23 module overviews and 54 focused pages. Module 1 contains the project lead's developing human voice and reviewed sources. Most pages in Modules 2–23 remain automatically generated authoring drafts based on the detailed syllabus and the Module 1 pattern. They still require human writing, evidence review, safety review and citation work.
+The repository contains all 78 course pages: 23 module overviews and 55 focused pages. Module 1 contains the project lead's developing human voice and reviewed sources. Most pages in Modules 2–23 remain automatically generated authoring drafts based on the detailed syllabus and the Module 1 pattern. They still require human writing, evidence review, safety review and citation work.
 
 ## Completed foundation work
 
 - Established the evidence-first project voice, safety rules and accessibility goals.
 - Created the six-part, 23-module syllabus.
-- Organized the course into 23 module folders and 77 pages.
+- Organized the course into 23 module folders and 78 pages.
 - Kept the four reader-facing sections on every focused page.
 - Completed the initial Module 1 writing pattern.
 - Created a scoped authoring draft for every focused page.
@@ -23,6 +23,8 @@ The repository contains all 77 course pages: 23 module overviews and 54 focused 
 - Added breadcrumbs, global navigation, a nested site map, and a forward reading path from each module overview through its pages and into the next module.
 - Marked citations and evidence review as pending wherever a research package has not yet been completed.
 - Added paired diagnostic and recovery pages for functional facial symptoms, with direct diagnostic research, explicit treatment-evidence limits and labelled community quotations.
+- Added functional-paralysis and functional-drop-attack diagnostic and recovery pages, and made **Refers to** plus a scope boundary consistent across all 32 numbered reference pages.
+- Added an early Module 1 introduction to available capacity, Spoon Theory, related planning models and action before a possible flare.
 - Added a repository change and page maintenance policy covering course and reference additions, removals, navigation, indexes, evidence and verification.
 
 ## Current priorities
@@ -51,6 +53,7 @@ Module 1 remains the wording and structure model for later human edits:
 2. [What “Functional” Means and How FND Can Appear](../../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md)
 3. [The Biopsychosocial Model and Misconceptions](../../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md)
 4. [Remission, Recovery, and What Improvement Can Mean](../../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md)
+5. [Available Capacity, Spoons, and Early Action](../../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md)
 
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)

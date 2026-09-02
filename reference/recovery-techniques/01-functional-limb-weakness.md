@@ -6,7 +6,13 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-**Applies to:** partial functional arm, hand, leg, foot or ankle weakness. Complete or near-complete voluntary movement loss uses the [functional paralysis page](15-functional-paralysis.md); sudden falls use the [drop-attacks page](16-functional-drop-attacks.md); and facial weakness uses the [functional facial-symptoms page](14-functional-facial-symptoms.md). Techniques must follow the movement pattern actually assessed.
+**Refers to:**
+
+- partial loss of voluntary movement or power in an arm, hand, leg or foot;
+- heaviness, reduced grip, dropping objects, foot drag or a limb giving way when weakness is the main problem; and
+- fluctuating, episodic or persistent limb weakness that does not amount to complete or near-complete paralysis.
+
+**Scope boundary:** Use the [functional paralysis page](15-functional-paralysis.md) for complete or near-complete voluntary movement loss, the [facial symptoms page](14-functional-facial-symptoms.md) for facial droop or weakness, and the [drop-attacks page](16-functional-drop-attacks.md) for sudden falls. A walking manifestation may also belong on the [gait page](05-functional-gait-disorder.md); recovery techniques must follow the actual presentation.
 
 Functional limb weakness can improve when rehabilitation brings out movement that is more automatic, purposeful and less closely monitored. The aim is not to prove that the limb is “really strong.” It is to help the nervous system regain access to useful movement, one task at a time.
 

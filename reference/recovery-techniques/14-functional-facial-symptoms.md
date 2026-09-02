@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- facial pulling, spasm or dystonia and apparent droop caused by overactivity;
+- assessed functional facial weakness, eye closure or ptosis; and
+- lip, jaw or tongue movement and mouth-seal difficulty when facial motor control is central.
+
+**Scope boundary:** This category may overlap dystonia, limb weakness, speech or swallowing, but its diagnostic and recovery techniques must follow the actual facial mechanism—overactive pulling, weakness, eye closure, mouth control or another assessed pattern. Limb-only symptoms use the [partial-weakness](01-functional-limb-weakness.md) or [paralysis](15-functional-paralysis.md) page.
+
 **Also described as:** functional facial spasm, functional facial dystonia, facial pulling, apparent facial droop, functional facial weakness, functional ptosis and functional eye closure.
 
 Functional facial symptoms require an individualized plan because **droop can describe different mechanisms**. Sustained downward lip pulling is usually treated as muscle overactivity; true weakness, impaired mouth closure, ptosis, eye closure, jaw or tongue symptoms may need different rehabilitation and safety measures. (*citations* [1](#citation-1), [5](#citation-5), [6](#citation-6), [8](#citation-8))

@@ -36,7 +36,7 @@ A symptom may appear in more than one row when its **appearance, severity or eve
 | [Functional paralysis](diagnostic-signs/15-functional-paralysis.md) ([recovery](recovery-techniques/15-functional-paralysis.md)) | Complete or near-complete voluntary limb movement loss, including assessed functional hemiplegia or paraplegia | A severe limb-weakness presentation, not a proven separate mechanism; seizure-confined immobility follows the seizure plan |
 | [Functional drop attacks](diagnostic-signs/16-functional-drop-attacks.md) ([recovery](recovery-techniques/16-functional-drop-attacks.md)) | Sudden falls from standing or walking without definite blackout, often with little warning and rapid recovery | “Drop attack” is descriptive; syncope, epilepsy, cataplexy, vestibular events, gait and weakness require differentiation |
 
-Each diagnostic page now begins with **Refers to** and a scope boundary. When a symptom fits more than one category, use the diagnostic and recovery material for the observed appearance. If no validated sign or appearance-specific recovery evidence exists, the page should say so rather than borrow a technique from a different phenotype.
+Every numbered diagnostic and recovery page now begins with **Refers to** and a scope boundary. When a symptom fits more than one category, use the diagnostic and recovery material for the observed appearance. If no validated sign or appearance-specific recovery evidence exists, the page should say so rather than borrow a technique from a different phenotype.
 
 > [!IMPORTANT]
 > These pages provide general education, not individual diagnosis or treatment. New, severe, injured or substantially changed symptoms need appropriate medical assessment and should not automatically be assumed to be FND.

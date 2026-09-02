@@ -6,7 +6,13 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-**Applies to:** clinician-assessed functional drop attacks—sudden falls from standing or walking without definite blackout, usually with rapid recovery. A knee-buckling gait, functional seizure, faint, cataplexy or vestibular event needs the plan for that actual appearance.
+**Refers to:**
+
+- sudden falls from standing or walking, usually with little or no warning;
+- events without definite loss of consciousness and often with rapid recovery; and
+- functional, idiopathic or historically “cryptogenic” drop attacks after appropriate assessment.
+
+**Scope boundary:** “Drop attack” is a description, not a diagnosis, and not every unexplained fall is functional. Knee buckling without a fall may fit the [gait](05-functional-gait-disorder.md) or [weakness](01-functional-limb-weakness.md) page. Prolonged altered awareness, convulsive movement or another stereotyped seizure-like event belongs on the [functional-seizures page](06-functional-seizures.md). Syncope, epileptic seizures, cataplexy, vestibular events and mechanical or structural causes require their own assessment.
 
 Drop-attack-specific treatment evidence is limited. The first aim is injury prevention and a proportionate response. A clinician may then help identify any warning, reduce avoidance and rebuild safe participation, but no-warnings attacks cannot be managed by pretending a warning exists.
 

@@ -6,6 +6,14 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Refers to:**
+
+- functional difficulty swallowing food, drink or saliva;
+- difficulty initiating a swallow or a feeling that material sticks; and
+- globus: a lump or tightness sensation, typically between swallows.
+
+**Scope boundary:** Not every cough, choking episode or breathing symptom is functional dysphagia. Mouth closure may also need [facial assessment](14-functional-facial-symptoms.md), while cough and laryngeal symptoms have a [separate page](11-functional-cough-and-upper-airway-symptoms.md). Technique choice follows whether the problem is swallowing, globus, mouth control or airway protection.
+
 **Also described as:** functional dysphagia, phagophobia, functional swallowing disorder and globus pharyngeus. These terms can describe different problems and should not be assumed to have the same cause or safety profile.
 
 Swallowing treatment must begin with an appropriate assessment of airway and nutrition risk. Once the relevant structural, neurological and gastrointestinal questions have been addressed, therapy may reduce excess effort, checking and avoidance and rebuild a more automatic, comfortable swallow.

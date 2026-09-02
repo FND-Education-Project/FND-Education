@@ -6,7 +6,13 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-**Applies to:** complete or near-complete voluntary movement loss in one or more limbs after a positive functional motor diagnosis. Partial weakness uses the [functional limb-weakness page](01-functional-limb-weakness.md). Immobility confined to a functional seizure uses that person’s [seizure response and recovery plan](06-functional-seizures.md), not strength retraining during the event.
+**Refers to:**
+
+- complete or near-complete loss of voluntary movement in one or more limbs;
+- functional hemiplegia or paraplegia diagnosed from positive clinical evidence; and
+- persistent or episodic severe limb immobility outside, or continuing beyond, a functional-seizure event.
+
+**Scope boundary:** This page treats paralysis as the severe end of a functional limb-weakness presentation, not as a separate proven mechanism. Facial weakness belongs on the [facial symptoms page](14-functional-facial-symptoms.md). Immobility that occurs only within a stereotyped functional seizure belongs on the [functional-seizures page](06-functional-seizures.md). Sleep paralysis, cataplexy, postictal weakness and structural neurological causes are different presentations requiring appropriate assessment.
 
 Functional-paralysis-specific treatment trials were not located. The approaches below are adapted from broader functional motor rehabilitation evidence and consensus, with additional safety and access measures required by severe movement loss. Improvement may mean return of movement, safer transfers, greater independence, participation or stability while paralysis continues.
 

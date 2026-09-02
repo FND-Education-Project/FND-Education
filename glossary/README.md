@@ -26,7 +26,7 @@ The sense that *I am the person causing or controlling this movement, action, or
 ### Available capacity
 **Type: preferred plain-language course term**
 
-The usable physical, cognitive, sensory, emotional and upright-activity capacity a person has at a particular time. It may vary with fatigue, pain, sleep, migraine, medication, symptoms, environment, recovery and coexisting illness. This project uses the term as practical descriptive language, not as a measurable biological unit or an autonomic-state diagnosis. See also **spoon theory**.
+The usable physical, cognitive, sensory, emotional, social and upright-activity capacity a person has at a particular time, including the recovery cost that may follow. It may vary with fatigue, pain, sleep, migraine, medication, symptoms, environment, recovery and coexisting illness. This project uses the term as practical descriptive language, not as a measurable biological unit or an autonomic-state diagnosis. See [Available Capacity, Spoons, and Early Action](../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md) and **spoon theory**.
 
 ### Associated symptoms
 **Type: general clinical term**
@@ -287,7 +287,7 @@ A psychiatric diagnosis involving excessive or disproportionate thoughts, feelin
 ### Spoon theory
 **Type: community metaphor**
 
-A metaphor introduced by Christine Miserandino to describe limited, fluctuating usable capacity and the often invisible cost of ordinary tasks while living with chronic illness. A “spoon” is not a clinical unit, an FND biomarker or a position on a sympathetic–parasympathetic graph. The course prefers **available capacity** when precise shared language is needed.
+A metaphor introduced by Christine Miserandino to describe limited, fluctuating usable capacity and the often invisible cost of ordinary tasks while living with chronic illness. A “spoon” is not a clinical unit, an FND biomarker or a position on a sympathetic–parasympathetic graph. The course prefers **available capacity** when precise shared language is needed. See [Available Capacity, Spoons, and Early Action](../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md).
 
 ### Symptom variability
 **Type: common clinical feature**

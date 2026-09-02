@@ -130,7 +130,7 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 **[Read the detailed course syllabus](docs/project/detailed-course-syllabus.md)** for the essential knowledge, professional and advanced detail, practical work, support-person focus, and expected takeaway planned for every module.
 
-**[Open the course structure and drafts](course/README.md)** to read all 77 course pages: 23 short module overviews and 54 focused pages.
+**[Open the course structure and drafts](course/README.md)** to read all 78 course pages: 23 short module overviews and 55 focused pages.
 
 *[(back to the top)](#on-this-page)*
 
@@ -218,7 +218,7 @@ When research has not answered an everyday question, the project may examine for
 
 The intended final educational material will be **human-authored and approved by a person living with FND**. The project lead works from research notes and source material, brings lived understanding to the wording, and decides how the subject is ultimately explained.
 
-Module 1 is the human-authored starting model. Its three focused pages contain citations and visible author-review notes. Modules 2–23 are automatically generated authoring drafts. They turn the human-planned syllabus and Module 1 pattern into page-by-page writing instructions and starting text. They are not treated as final human-authored or medically reviewed pages until a person has written or edited them and the required evidence and safety review is complete.
+Module 1 is the human-authored starting model. Its four focused pages contain citations and visible author-review notes. Modules 2–23 are automatically generated authoring drafts. They turn the human-planned syllabus and Module 1 pattern into page-by-page writing instructions and starting text. They are not treated as final human-authored or medically reviewed pages until a person has written or edited them and the required evidence and safety review is complete.
 
 AI may help create initial drafts, locate and organize research, prepare authoring notes, check citations and consistency, and identify questions or omissions. AI also maintains and updates this `README.md` as the project develops. AI assistance is not a source of medical authority and does not replace human editing, evidence review or final authorship.
 

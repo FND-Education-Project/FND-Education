@@ -26,6 +26,7 @@ Use the sections below to drill down into the course, reference library, researc
 - [What “Functional” Means and How FND Can Appear](course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md)
 - [The Biopsychosocial Model and Misconceptions](course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md)
 - [Remission, Recovery, and What Improvement Can Mean](course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md)
+- [Available Capacity, Spoons, and Early Action](course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md)
 
 </details>
 
