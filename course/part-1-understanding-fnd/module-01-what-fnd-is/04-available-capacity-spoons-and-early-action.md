@@ -20,7 +20,7 @@ A task can be possible but still cost too much. For example, you may be able to 
 
 Capacity may change within a day or over a longer period. It may be affected by FND symptoms, pain, migraine, sleep, infection, medication, food or fluids, sensory surroundings, emotional or social demands, time spent upright, another medical condition and the recovery available before or after an activity. This list describes possible influences; it does not prove why one person's capacity changed.
 
-![Available Capacity illustrated using a leaky bucket but with positive flows into it as well](https://github.com/FND-Education-Project/FND-Education/blob/main/course/part-1-understanding-fnd/module-01-what-fnd-is/available-capacity.png)
+![Available Capacity illustrated using a leaky bucket but with positive flows into it as well](assets/module-1-page-4-available-capacity-illus1.png)
 
 ### What are “spoons”?
 
