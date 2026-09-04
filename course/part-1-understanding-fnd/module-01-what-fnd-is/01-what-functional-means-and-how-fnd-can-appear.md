@@ -4,7 +4,7 @@
 
 # What “Functional” Means and How FND Can Appear
 
-> **Working draft:** This page is  [looking for reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Working draft:** This page is looking for [reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 This page explains what the word “functional” means, how FND can appear, how clinicians can identify it, and why the symptoms are real and involuntary.
 

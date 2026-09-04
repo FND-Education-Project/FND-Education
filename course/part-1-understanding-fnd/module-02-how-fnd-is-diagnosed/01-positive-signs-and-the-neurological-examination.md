@@ -4,7 +4,7 @@
 
 # Positive Signs and the Neurological Examination
 
-> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 FND should not be diagnosed simply because a scan was normal or because no other explanation has been found. The diagnosis should be supported by features in the history or examination that positively fit a functional neurological problem. This page explains what those features may show, as well as what they cannot show.
 
@@ -33,6 +33,24 @@ However, one sign should not be separated from the rest of the history and exami
 > A positive sign is evidence for FND. It is not evidence that every symptom a person has is caused by FND.
 
 The diagnosis should be explained to you. It is reasonable to ask which sign was found, to have it demonstrated when appropriate, and to ask what other possibilities were considered. New symptoms or a major change in a familiar pattern may still need assessment even after FND has been diagnosed.
+
+### Community experiences for review
+
+These are two candidate lived-experience quotations from the project’s community collection. They illustrate individual experiences; they are not diagnostic evidence or advice that the same approach will work for everyone.
+
+**Option 1 — a competing hand task**
+
+> “She handed me a rainbow coloured dodgeball and asked me to rotate it ... And the tremors stopped.”
+
+— The writer described an occupational therapist trying the task during continuous tremor. [Read the public source](https://www.reddit.com/r/FND/comments/1pslgkk/there_is_a_light_at_the_end_of_the_tunnel/).
+
+**Option 2 — attention moving to a question**
+
+> “I’ve told people in my life to ask me a question. Sure enough ... the tremor stops when I think about my answer.”
+
+— The writer adapted a physiotherapist’s suggestion into a cue that people around them could use. [Read the public source](https://www.reddit.com/r/FND/comments/1nzuyuz/was_just_diagnosed_will_i_ever_work_or_be/).
+
+In both accounts, change under one condition should not be read as proof of conscious control.
 
 ### Questions
 
@@ -72,6 +90,24 @@ Continue to take new or substantially changed symptoms seriously. A previous FND
 
 ## For Clinicians and the Care Team
 
+### Research quotations for review
+
+These short quotations are placed here so a reviewer can compare possible wording from the papers before choosing what, if anything, should remain in the finished page.
+
+**Option 1 — Bennett et al., 2021**
+
+> “The diagnosis of FND should rest on clear positive evidence”
+
+**Option 2 — Espay et al., 2018**
+
+> “Positive signs are essential in supporting a phenotype-based diagnosis”
+
+**Option 3 — Hallett et al., 2022**
+
+> “recognisable patterns of genuinely experienced symptoms”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))*
+
 **How can clinicians help the patient understand a positive sign?** Name the diagnosis, identify the sign that supports it and connect the sign to the patient’s own symptom. When appropriate and with consent, demonstrate the finding rather than only describing it. Explain preserved capacity without implying conscious control: “Your leg produced stronger automatic movement during this task, even though deliberate movement remains difficult.” Avoid relying on a normal scan, a history of stress or the absence of another diagnosis as the explanation. (*citations* [1](#citation-1), [2](#citation-2))
 
 **How should positive signs be assessed?** Use signs validated for the presenting phenotype and interpret them alongside the history, complete neurological examination and relevant differential diagnosis. Seek internal inconsistency that is reproducible and clinically meaningful, not vague fluctuation. Consider pain, neglect, comprehension, fatigue, medication, biomechanical limits and coexisting disease before attributing a finding to FND. A collection of weak or inapplicable signs should not be treated as stronger evidence merely because there are several of them.
@@ -97,20 +133,18 @@ Continue to take new or substantially changed symptoms seriously. A previous FND
 
 ## Research and Sources
 
-### Three focused quotations
+### What this evidence can and cannot establish
 
-- “The diagnosis of FND should rest on clear positive evidence.” (*citations* [1](#citation-1))
-- “Positive signs are essential in supporting a phenotype-based diagnosis.” (*citations* [2](#citation-2))
-- “recognisable patterns of genuinely experienced symptoms” (*citations* [3](#citation-3))
+Bennett and Espay are clinical reviews that support an inclusionary, positive diagnosis and phenotype-appropriate signs. Hallett and colleagues provide a broader account of genuinely experienced, variable symptoms and developing shared-mechanism research. These reviews do not make every bedside observation a validated sign or allow one sign to be applied across every FND presentation. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ### Citation table
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
-| <a id="citation-2"></a>**[2]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
-| <a id="citation-3"></a>**[3]** | — | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
+| <a id="citation-3"></a>**[3]** | Figure 1 | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) |
 
 This page still needs review by people with FND, supporters and clinicians, including a clinician experienced in neurological diagnosis.
 
-*Draft rewritten: August 24, 2026 · Clinical review pending*
+*Draft rewritten: August 24, 2026 · Research and quotation package expanded September 4, 2026 · Clinical review pending*
