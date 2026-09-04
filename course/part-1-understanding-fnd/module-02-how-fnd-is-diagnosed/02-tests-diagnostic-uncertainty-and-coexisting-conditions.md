@@ -45,13 +45,11 @@ It may be reasonable to request clarification, reassessment or another opinion w
 
 A second opinion does not automatically mean the first diagnosis was wrong. It may confirm the diagnosis, identify a coexisting condition or make the remaining uncertainty clearer.
 
-### Questions you might ask a clinician
+### Questions
 
-- “What question was each test intended to answer?”
-- “Which results support FND, and which results only make another condition less likely?”
-- “What positive evidence supports my diagnosis?”
-- “Could FND and another condition both be present?”
-- “How certain is the diagnosis, and what change should bring me back?”
+#### Which parts of your diagnosis are clear to you, and which parts still feel uncertain or unexplained?
+
+#### When you think about your test results, can you separate what they ruled out from the positive evidence that supports your FND diagnosis?
 
 ### What can the person safely try at home?
 
