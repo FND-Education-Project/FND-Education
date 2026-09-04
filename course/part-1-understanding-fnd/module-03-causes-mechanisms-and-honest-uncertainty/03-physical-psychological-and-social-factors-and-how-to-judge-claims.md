@@ -4,23 +4,98 @@
 
 # Physical, Psychological, and Social Factors—and How to Judge Claims
 
-This is a focused authoring template within Module 3. Build the completed page around this scope: Cover illness, injury, migraine, pain, sleep, fatigue, medication, stress, trauma, dissociation, psychiatric conditions, relationships, healthcare, and living circumstances as possible influences for some people; then teach readers how to recognize single-cause claims, unfalsifiable theories, and exaggerated certainty.
+> **Working draft:** This page has been rewritten in plain language so it can be reviewed and edited. Its research package and citations still need to be added.
+
+Physical health, thoughts and emotions, relationships, healthcare and living conditions can all affect a person's life with FND. This does not mean that every category caused the disorder, that each category matters equally, or that a factor found in research must apply to you.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND causes; FND mechanisms; risk factors; triggers; perpetuating factors; predictive processing; attention; agency; neuroplasticity; biopsychosocial formulation. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Physical, Psychological, and Social Factors—and How to Judge Claims.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### What does “biopsychosocial” mean here?
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover illness, injury, migraine, pain, sleep, fatigue, medication, stress, trauma, dissociation, psychiatric conditions, relationships, healthcare, and living circumstances as possible influences for some people; then teach readers how to recognize single-cause claims, unfalsifiable theories, and exaggerated certainty. The reader should not have to read the module overview first to understand the page.
+A **biopsychosocial formulation** is an organized way to consider biological or physical, psychological, and social parts of a person's health and life. It should help build an individual picture rather than force everyone into one formula.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: Why researchers do not yet have one complete explanation for FND. The difference between something that may increase risk, something that starts symptoms, and something that keeps symptoms going. Why the original trigger may be different from the reasons symptoms continue. How illness, injury, pain, migraine, poor sleep, medication effects, exhaustion, stress, trauma, or other experiences may matter for some people but not everyone. Why trauma, stress, and mental illness are not required for an FND diagnosis. How attention, expectations, past learning, and automatic nervous-system processes may affect symptoms without conscious choice. What neuroplasticity means in simple terms: the nervous system can learn and change, but change is not guaranteed or unlimited. Why a helpful treatment idea does not automatically prove a theory about what caused FND. How to recognize explanations that sound certain but go beyond the research. Predisposing, precipitating, and perpetuating formulations and the limits of applying group-level factors to individuals. Distinctions among cause, mechanism, mediator, moderator, risk marker, trigger, and maintaining factor. Network-level findings involving attention, salience, agency, motor control, emotion processing, and interoception. Predictive-processing and active-inference accounts, including precision weighting, prior expectations, and sensory evidence. Abnormal self-directed attention, altered sense of agency, symptom learning, and automatic versus voluntary control. Associations with physical illness, injury, migraine, pain, fatigue, sleep disruption, psychiatric conditions, trauma, and dissociation. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+The same factor can have more than one possible role. It might increase risk, happen near the start of symptoms, contribute to a flare, make recovery harder, exist as a separate condition or have no demonstrated connection to FND. The role cannot be decided from the category alone.
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Give this section substantial weight. Cover the lack of a universal mechanism, uncertain direction of many associations, small or heterogeneous studies, absence of a diagnostic biomarker, and the difference between a useful therapeutic model and a proven biological explanation. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+### Physical factors
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe how people may search intensely for one cause, notice a clear trigger, or have no identifiable beginning. Explain the frustration created by conflicting explanations and by clinicians who assume trauma, stress, or a psychiatric cause without evidence from the individual. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+Researchers and clinicians may consider:
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Sort personal possibilities into known facts, plausible contributors, unanswered questions, and unsupported assumptions. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+- illness or infection;
+- physical injury or surgery;
+- migraine, pain, fatigue or poor sleep;
+- medication effects or withdrawal;
+- another neurological or medical condition; and
+- exhaustion, activity demands, sensory surroundings or time spent upright.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Which parts of this explanation are established evidence and which are theory? Is this factor a cause, trigger, risk, or maintaining influence? Does it apply to me specifically? Would the treatment still make sense if the proposed mechanism is wrong? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+A physical condition may be a possible trigger, a source of ongoing demand, a separate diagnosis, an alternative explanation for a symptom or an unrelated finding. Having FND must not prevent appropriate investigation and treatment of other conditions.
+
+### Psychological factors
+
+Researchers and clinicians may also consider:
+
+- attention, expectations and past learning;
+- stress, fear or persistent worry;
+- trauma or other difficult experiences;
+- dissociation or altered awareness; and
+- anxiety, depression or another psychiatric condition.
+
+These factors may be important for some people and not for others. Trauma, stress and mental illness are not required for an FND diagnosis. Finding one of them does not prove that it caused FND, and not finding one does not weaken a diagnosis supported by positive clinical evidence.
+
+Psychological does not mean imaginary. Thoughts, emotions, attention and learning involve real nervous-system processes, just as pain, movement and sensation do. At the same time, calling a process “brain based” does not make a proposed explanation proven.
+
+### Social factors
+
+Social factors can include:
+
+- family relationships and available support;
+- housing, money, work, school and caregiving demands;
+- isolation or loss of meaningful roles;
+- difficulty accessing knowledgeable healthcare or rehabilitation;
+- harmful healthcare experiences, disbelief or stigma; and
+- practical barriers such as transportation, equipment and accessibility.
+
+These circumstances can change safety, stress, available capacity, access to care and quality of life. They are not evidence that a person caused their symptoms. Improving a social condition can be valuable even if the FND symptoms do not change.
+
+### How can you judge a claim?
+
+Be cautious when an explanation:
+
+- says that one factor causes all FND in all people;
+- treats something common in a group as proof about one individual;
+- assumes that because one event happened first, it caused what came next;
+- cannot be tested because every possible answer is said to prove the theory;
+- calls an experimental group finding a diagnostic test or biomarker;
+- says that improvement with a treatment proves the original cause;
+- promises recovery if the person accepts the explanation or tries hard enough; or
+- blames continuing symptoms on resistance, attention, stress or hidden trauma without individual evidence.
+
+A stronger explanation tells you what was observed, what kind of study or clinical evidence supports it, who was studied, what remains uncertain and whether the idea changes a useful decision. It also allows for other explanations and for the theory to be wrong.
+
+### What can this look like in ordinary life?
+
+One person may find that migraine and poor sleep often come before a symptom flare. That pattern could help with planning without proving that either one caused the FND. Another person may benefit from trauma therapy because they want help with trauma; the benefit would not prove that trauma caused every neurological symptom. A third person may become safer after receiving mobility equipment even if their symptom frequency stays the same.
+
+People can also receive incompatible messages: “It is all stress,” “your nervous system is stuck in fight-or-flight,” “your brain learned the symptom,” or “one past event explains everything.” Each statement may contain an idea worth investigating, but none should be presented as a complete personal explanation without supporting evidence.
+
+### Questions
+
+#### Which physical, psychological or social factors clearly affect your daily life, even if you do not know whether they affect your FND?
+
+#### Have you been given an explanation that helped you understand your experience, or one that made you feel blamed or forced into someone else's theory?
+
+### What can you safely try at home?
+
+Choose one claim you have heard and write short answers to these questions:
+
+1. **What exactly is being claimed?** Is it about cause, risk, a trigger, a mechanism, treatment or day-to-day management?
+2. **What evidence was offered?** Was it about people with your symptom type, a broader group or only one person's experience?
+3. **What else could explain the observation?** Could the relationship work in the other direction or be coincidence?
+4. **Does it fit your experience?** What supports it, and what does not?
+5. **Would acting on it be useful and safe?** Would the action still make sense if the theory were wrong?
+
+A lower-demand version is to ask only: “Is this a fact about me, a possibility, or a general idea?”
+
+Stop if evaluating the claim pulls you into constant symptom checking, distress or an unwanted search for memories. Seek qualified help when the claim could affect medication, medical investigation, safety or treatment. New and substantially changed symptoms need appropriate assessment rather than a theory-based assumption.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +106,13 @@ This is a focused authoring template within Module 3. Build the completed page a
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Physical, Psychological, and Social Factors—and How to Judge Claims.” Develop the supporter guidance from these points: Avoiding blame and unwanted searches for hidden trauma. Listening to the person’s understanding without enforcing a preferred theory. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+You do not need to solve the cause of FND in order to be helpful. Listen to the person's understanding and uncertainty. Ask whether they want emotional support, practical help, help recording a concern or space from the subject.
+
+Avoid interpreting ordinary emotions as the cause of symptoms, searching for trauma the person has not identified, or using a better day as proof that the problem is psychological. Do not monitor relationships, activity or stress as though you are the clinician supervising a treatment.
+
+Practical support may include lowering a current demand, helping with access or transportation, following a safety plan, or supporting treatment that the person has chosen. Respect that an important activity may be worth a symptom or recovery cost. Social support should preserve choice rather than become another demand.
+
+If you observe a new or substantially changed symptom, describe what you saw and help the person seek assessment. Do not decide from timing alone whether the symptom is functional, psychological or caused by another condition.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +123,25 @@ This is a focused authoring template within Module 3. Build the completed page a
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Separate causal questions from conditions that can resemble or worsen FND. Note that migraine, epilepsy, sleep disorders, pain, medication effects, injury, psychiatric conditions, and autonomic disorders may be triggers, comorbidities, alternative explanations, or unrelated findings depending on the person. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Build an individual formulation without turning it into a verdict
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Methodological limitations, reverse causation, heterogeneous samples, replication problems, and the difference between biomarkers and diagnostic tests. Explain both the value and limitations of each step.
+Separate the positive basis for the FND diagnosis from the formulation of possible influences. Identify whether a factor is being considered as a vulnerability, precipitant, maintaining influence, comorbidity, differential diagnosis or unrelated circumstance. State the evidence and uncertainty for that role.
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Explain whether this module is itself about treatment or instead directs readers to the professional or practical approaches covered elsewhere. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+Migraine, epilepsy, sleep disorders, pain, medication effects, injury, psychiatric conditions and autonomic disorders can occupy different categories in different patients. Urgent alternatives, common comorbidities and problems requiring another specialist should not be compressed into one list of “FND factors.”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Explain that adopting a mechanism theory should not stop investigation of new or changing symptoms. Also flag emotional or physical harm from treatment that insists on trauma, exposure, exercise, or another theory despite worsening or lack of individual relevance. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+### Assess only what can inform care
+
+Use history, observation and examination, targeted tests, and specialist input to answer defined questions. Do not search routinely for trauma or psychiatric illness as proof of diagnosis. Where physical, psychological or social assessment could identify treatment, safety needs or support, explain that purpose and obtain the patient's agreement.
+
+When discussing research, name the population and outcome. Address heterogeneous samples, reverse causation, incomplete adjustment for comorbidity, replication limits and the difference between a group biomarker and an individual diagnostic test.
+
+### Keep treatment and causal claims separate
+
+Offer medical treatment, rehabilitation, psychological therapy, symptom management, environmental adaptation and social support according to the person's needs and goals. Label whether an approach rests on direct trials, a guideline, professional consensus, specialist practice, low-risk self-management or lived experience.
+
+A beneficial treatment result does not establish cause. Do not insist on trauma work, exposure, exercise or a preferred mechanism when it is unwanted, irrelevant, ineffective or harmful. Review the plan when symptoms worsen or the formulation no longer fits.
+
+When improvement is limited, continue validation, symptom relief where possible, safety, accessibility, participation, quality of life, supporter needs and an agreed route for reassessment. A mechanism theory must never block investigation of new, severe, injured or substantially changed symptoms.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -67,6 +160,18 @@ This is a focused authoring template within Module 3. Build the completed page a
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Physical, Psychological, and Social Factors—and How to Judge Claims”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+### Evidence still needed before review
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+The completed research package should include:
+
+- diagnostic guidance on psychological factors and the positive diagnosis of FND;
+- systematic reviews of physical illness, injury, migraine, pain, fatigue, sleep, trauma, psychiatric conditions and dissociation;
+- research on healthcare experiences, stigma, relationships, social conditions, disability and access to care;
+- longitudinal evidence that can examine whether an associated factor came before or after symptoms; and
+- treatment and safety guidance that separates useful action from claims about cause.
+
+Each source note should state who was studied, which outcome was measured, whether the evidence is direct or borrowed from a broader group, and whether it supports diagnosis, mechanism, treatment, safety or lived experience. Major disagreements and the limits of single-cause, unfalsifiable and biomarker claims should be recorded explicitly.
+
+Until those sources are added and checked, this page remains an authoring draft rather than reviewed educational material.
+
+*Plain-language draft prepared: September 4, 2026 · Evidence and clinical review pending*
