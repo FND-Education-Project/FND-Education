@@ -4,7 +4,7 @@
 
 # Available Capacity, Spoons, and Early Action
 
-> **Working draft:** This page is [looking for reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Working draft:** This page is looking for [reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 > **Available capacity is what you can use right now—not what you should be able to do, and not a measure of effort or worth.**
 

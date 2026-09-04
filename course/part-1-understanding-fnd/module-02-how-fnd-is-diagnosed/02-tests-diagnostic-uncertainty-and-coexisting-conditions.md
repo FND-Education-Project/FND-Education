@@ -4,7 +4,7 @@
 
 # Tests, Diagnostic Uncertainty, and Coexisting Conditions
 
-> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
 Tests are important, but no test answers every question. A scan, blood test, electroencephalogram or specialist assessment is useful when it is chosen to investigate a particular possibility. This page explains why normal results do not diagnose FND on their own, why another condition can exist alongside FND, and when it may be reasonable to revisit a diagnosis.
 
@@ -45,6 +45,22 @@ It may be reasonable to request clarification, reassessment or another opinion w
 
 A second opinion does not automatically mean the first diagnosis was wrong. It may confirm the diagnosis, identify a coexisting condition or make the remaining uncertainty clearer.
 
+### Community experiences for review
+
+These are two candidate lived-experience quotations from the project’s community collection. They show why reassessment and coexisting diagnoses matter; neither account tells another person what diagnosis or treatment they need.
+
+**Option 1 — another cause of light sensitivity was found**
+
+> “He gave me steroid droplets ... and since then my light sensitivity is gone.”
+
+— The writer said an eye doctor found a severe pollen reaction after the symptom had been attributed to FND. This supports reassessment, not steroid treatment for functional visual symptoms. [Read the public source](https://www.reddit.com/r/FND/comments/1ievray/sharing_my_success_story/).
+
+**Option 2 — a later binocular-vision diagnosis**
+
+> “For 15 years, I was prescribed the wrong prescription glasses.”
+
+— The writer later reported a binocular-vision diagnosis that ordinary eye examinations had not identified. [Read the public source](https://www.reddit.com/r/FND/comments/1j02io8/why_do_i_get_sizures_from_eye_movements/).
+
 ### Questions
 
 #### Which parts of your diagnosis are clear to you, and which parts still feel uncertain or unexplained?
@@ -83,6 +99,24 @@ Support can include helping the person prepare one or two questions, asking perm
 
 ## For Clinicians and the Care Team
 
+### Research quotations for review
+
+These short quotations are placed here so a reviewer can compare possible wording from the papers before choosing what, if anything, should remain in the finished page.
+
+**Option 1 — Bennett et al., 2021**
+
+> “Failure to consider comorbidity of another medical condition”
+
+**Option 2 — Espay et al., 2018**
+
+> “does not depend on excluding other disorders”
+
+**Option 3 — Tolchin et al., 2026**
+
+> “may obtain video-EEG of all typical seizure-like episodes where feasible.”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))*
+
 **How can clinicians explain testing without reducing FND to normal results?** State the positive basis for the FND diagnosis separately from the purpose and result of each investigation. “The MRI did not show a stroke” and “the examination showed a positive functional sign” are different statements. Explain what was reasonably excluded, what was not tested and why further testing is or is not likely to help. (*citations* [1](#citation-1), [2](#citation-2))
 
 **How should investigations be selected?** Begin with the actual phenotype, time course, examination and relevant red flags. Use imaging, laboratory testing, neurophysiology, EEG, video-EEG, cardiac assessment, sleep evaluation or other specialist input to answer defined questions. Avoid both indiscriminate investigation and premature closure. An incidental abnormality should not automatically be treated as causal, while a normal result should not be presented as positive evidence of FND.
@@ -110,20 +144,18 @@ For seizure-like events, obtain a detailed history and semiology from the patien
 
 ## Research and Sources
 
-### Three focused quotations
+### What this evidence can and cannot establish
 
-- “Failure to consider comorbidity of another medical condition.” (*citations* [1](#citation-1))
-- “does not depend on excluding other disorders” (*citations* [2](#citation-2))
-- “may obtain video-EEG of all typical seizure-like episodes where feasible.” (*citations* [3](#citation-3))
+Bennett and Espay support a positive FND diagnosis while warning against exclusion-only reasoning and missed comorbidity. The Tolchin guideline applies specifically to functional seizures: it supports history, semiology, appropriate use of video-EEG and assessment for co-occurring epilepsy. It should not be generalized to every FND symptom or treated as a requirement that video-EEG is always possible. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ### Citation table
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
-| <a id="citation-2"></a>**[2]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
-| <a id="citation-3"></a>**[3]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
+| <a id="citation-3"></a>**[3]** | Figure 1 | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
 
 This page still needs review by people with FND, supporters and clinicians, including clinicians experienced in neurological diagnosis and seizure assessment.
 
-*Draft rewritten: August 24, 2026 · Clinical review pending*
+*Draft rewritten: August 24, 2026 · Research and quotation package expanded September 4, 2026 · Clinical review pending*

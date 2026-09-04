@@ -4,9 +4,9 @@
 
 # Build and Use Your Personal Symptom Map
 
-> **Working draft:** This page has been rewritten in plain language so it can be reviewed and edited. Its research package and citations still need to be added.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-When symptoms, diagnoses, possible triggers, medications and unanswered questions are held in memory as one large list, it can be difficult to know what is established and what still needs attention. A personal symptom map separates these parts without asking you to diagnose them yourself.
+When symptoms, diagnoses, possible triggers, medications and unanswered questions are held in memory as one large list, it can be difficult to know what is established and what still needs attention. A personal symptom map separates these parts without asking you to diagnose them yourself. (*citations* [1](#citation-1), [3](#citation-3), [6](#citation-6))
 
 ## For the Person With FND
 
@@ -14,7 +14,7 @@ When symptoms, diagnoses, possible triggers, medications and unanswered question
 
 In this course, a **personal symptom map** means a short, updateable record of what is known about your FND and other health conditions. You may also see records described as an **FND symptom map**, **comorbidity map** or symptom diary. These are practical descriptions, not the name of a diagnostic test.
 
-The map can help you prepare for an appointment, explain your condition to a new clinician or supporter, notice a meaningful change and remember what has helped. It should reduce memory work, not require you to watch every sensation throughout the day.
+The map can help you prepare for an appointment, explain your condition to a new clinician or supporter, notice a meaningful change and remember what has helped. It should reduce memory work, not require you to watch every sensation throughout the day. This one-page map is a project framework, not a validated diagnostic or treatment tool. (*citations* [2](#citation-2), [3](#citation-3), [6](#citation-6))
 
 ### Keep different kinds of information separate
 
@@ -30,7 +30,7 @@ The map can help you prepare for an appointment, explain your condition to a new
 | **Preserved abilities** | Things that remain possible, or become possible under some conditions, even when another version of the task is difficult. |
 | **Meaningful changes** | New, substantially different or sustained changes that may affect safety, treatment or the need for reassessment. |
 
-Do not move an uncertain symptom into the FND section simply because you already have an FND diagnosis. A symptom can remain under **unresolved** until it has been properly assessed.
+Do not move an uncertain symptom into the FND section simply because you already have an FND diagnosis. A symptom can remain under **unresolved** until it has been properly assessed. (*citations* [1](#citation-1), [4](#citation-4))
 
 ### Trigger, warning sign or consequence?
 
@@ -48,7 +48,7 @@ For example, poor sleep might be a possible trigger on some days. A familiar cha
 
 FND symptoms can vary across a day, week, activity or situation. A movement may be difficult when attempted directly but easier within an automatic or familiar task. Speech may change in a busy setting but be clearer in a quieter one. An episodic symptom may be absent between events, while another symptom lasts much longer.
 
-Recording these differences does not minimize the disabling periods. It may show what remains available, what surroundings or methods help, and where treatment or support could begin. A preserved ability is not proof that the difficult version is voluntary.
+Recording these differences does not minimize the disabling periods. It may show what remains available, what surroundings or methods help, and where treatment or support could begin. A preserved ability is not proof that the difficult version is voluntary. (*citations* [1](#citation-1), [5](#citation-5))
 
 ### Build a one-page map
 
@@ -66,11 +66,27 @@ If the map becomes crowded, keep the one-page summary and place detailed records
 
 ### Track a pattern only when it can answer a question
 
-Before tracking, finish this sentence: **“I will use this information to decide whether…”** If there is no possible decision, more monitoring may add work without helping.
+Before tracking, finish this sentence: **“I will use this information to decide whether…”** If there is no possible decision, more monitoring may add work without helping. (*citations* [3](#citation-3), [6](#citation-6))
 
 For a short period, record only the information needed to answer that question. This might include the activity or situation, what happened before the symptom, the symptom itself, what you did, and any later recovery cost. Agree on a review date so the tracking does not continue indefinitely.
 
-Memory can emphasize striking events and miss ordinary ones. Once we suspect a trigger, we may notice the times it appears before symptoms and overlook the times it does not. Symptoms also change naturally from day to day. These limits do not make a diary useless; they mean that a pattern is a clue rather than proof.
+Symptoms can change naturally from day to day, and one brief “snapshot” may not represent the person’s wider experience or function. Patient reports, clinician ratings and objective measures can each add information while still having limitations. These limits do not make a diary useless; they mean that a pattern is a clue rather than proof. (*citations* [3](#citation-3), [6](#citation-6))
+
+### Community experiences for review
+
+These are two candidate lived-experience quotations from the project’s community collection. One shows how a person used pattern mapping; the other shows why a written record may be useful when time and memory are hard to organize. They are individual accounts, not diagnostic evidence.
+
+**Option 1 — a pattern and an environmental adjustment**
+
+> “I was able to figure out that my post-eating issues were actually auditory sensory overload ... and really cut those specific symptoms down by using ear plugs.”
+
+— This account concerns one person’s pattern and should not replace a swallowing-safety assessment. [Read the public source](https://www.reddit.com/r/FND/comments/1nk6chc/choking/).
+
+**Option 2 — difficulty placing events in time**
+
+> “I can’t really tell the difference between whether something happened two weeks ago or four months ago.”
+
+— The writer described difficulty organizing their autobiographical timeline. [Read the public source](https://www.reddit.com/r/FND/comments/1mnw4fd/dae_have_functional_cognitive_disorder/).
 
 ### Questions
 
@@ -117,25 +133,39 @@ Learn the person's familiar safety plan and which changes require reassessment. 
 
 ## For Clinicians and the Care Team
 
+### Research quotations for review
+
+These quotations are offered as two possible evidence anchors for this section. The first stresses continued assessment for other conditions; the second comes from a qualitative study of patients, caregivers and healthcare professionals.
+
+**Option 1 — Bennett et al., 2021**
+
+> “Comorbidities are common in FND.”
+
+**Option 2 — Rutten et al., 2025**
+
+> “all believed that the patient’s subjective experience should be central.”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [3](#citation-3))*
+
 ### Help the patient keep the categories accurate
 
-Identify which phenomena have been positively diagnosed as functional. Keep associated non-motor symptoms, comorbid disorders, medication effects, possible contributors and unresolved differential diagnoses separate. Do not move an uncertain symptom into the FND category by default.
+Identify which phenomena have been positively diagnosed as functional. Keep associated non-motor symptoms, comorbid disorders, medication effects, possible contributors and unresolved differential diagnoses separate. Do not move an uncertain symptom into the FND category by default. (*citations* [1](#citation-1), [4](#citation-4))
 
-Record the evidence supporting the current formulation and what would change it. Distinguish urgent alternatives, common comorbidities and conditions needing another specialist. The map is an aid to communication, not a diagnostic instrument and not a way for the patient to rule out illness.
+Record the evidence supporting the current formulation and what would change it. Distinguish urgent alternatives, common comorbidities and conditions needing another specialist. The map is an aid to communication, not a diagnostic instrument and not a way for the patient to rule out illness. (*citations* [1](#citation-1), [4](#citation-4))
 
 ### Track only what can inform care
 
-Begin with a defined clinical question. A brief structured diary, patient-reported outcome, objective measure or observation from another person may help when it can change assessment, safety or treatment. Explain the value and limits of the chosen information.
+Begin with a defined clinical question. A brief structured diary, patient-reported outcome, objective measure or observation from another person may help when it can change assessment, safety or treatment. Explain the value and limits of the chosen information. (*citations* [3](#citation-3), [6](#citation-6))
 
-Consider recall bias, confirmation bias, day-to-day variation, post hoc trigger attribution and the effects of excessive symptom monitoring. Collateral observations should be gathered with consent and should not replace the patient's account.
+Consider day-to-day variation and the limits of patient-reported, clinician-rated and objective measures. Collateral observations should be gathered with consent and should not replace the patient's account. (*citations* [3](#citation-3), [6](#citation-6))
 
 ### Use and update the map
 
-Use the map to agree on treatment priorities, referrals, adaptations, symptom management, safety and meaningful goals. Update it when new examination findings, diagnoses or treatment responses change the formulation.
+Use the map to agree on treatment priorities, referrals, adaptations, symptom management, safety and meaningful goals. Update it when new examination findings, diagnoses or treatment responses change the formulation. (*citations* [2](#citation-2), [3](#citation-3), [6](#citation-6))
 
-A review is particularly important after a new diagnosis, major medication change, injury, new episode form, sustained loss of function or clinician reassessment. The map must never overrule urgent evaluation when a symptom is meaningfully different.
+A review is particularly important after a new diagnosis, major medication change, injury, new episode form, sustained loss of function or clinician reassessment. The map must never overrule urgent evaluation when a symptom is meaningfully different. (*citations* [1](#citation-1))
 
-When improvement is limited, keep persistent symptoms, accessibility, participation, quality of life and supporter needs visible. An accurate map should support continuing care rather than become a record of treatments the person has “failed.”
+When improvement is limited, keep persistent symptoms, accessibility, participation, quality of life and supporter needs visible. An accurate map should support continuing care rather than become a record of treatments the person has “failed.” (*citations* [2](#citation-2), [3](#citation-3), [6](#citation-6))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -154,18 +184,21 @@ When improvement is limited, keep persistent symptoms, accessibility, participat
 
 ## Research and Sources
 
-### Evidence still needed before review
+### What this evidence can and cannot establish
 
-The completed research package should include:
+Bennett and Butler support attention to comorbidity and associated symptoms. The rehabilitation and occupational-therapy consensus papers discuss variability, daily activity and individualized goals, while the systematic and qualitative outcome papers show the need to combine several kinds of information and keep the patient’s experience central. The studies do not validate this course’s one-page symptom map as a diagnostic or treatment tool, and the map must not be used to classify a new symptom without assessment. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4), [5](#citation-5), [6](#citation-6))
 
-- diagnostic and comorbidity guidance supporting the separation of confirmed FND, associated symptoms, separate diagnoses and unresolved differentials;
-- research on symptom variability, context dependence and preserved or intermittently accessible function;
-- evidence and clinical guidance on brief diaries, patient-reported outcomes, objective measures and collateral observations;
-- research on recall bias, confirmation bias, post hoc trigger attribution and excessive symptom monitoring; and
-- safety guidance on new symptoms, medication changes, injuries and reassessment.
+### Citation table
 
-The evidence notes should state whether support comes from direct FND research, broader neurological or chronic-illness research, clinical consensus or a proposed practical approach. A personal pattern can be useful without proving cause, and a one-page map should not be described as a validated diagnostic or treatment tool unless evidence supports that claim.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
+| <a id="citation-2"></a>**[2]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-3"></a>**[3]** | Figure 1 | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
+| <a id="citation-4"></a>**[4]** | — | Butler M, Shipston-Sharman O, Seynaeve M, et al. International online survey of 1048 individuals with functional neurological disorder. *European Journal of Neurology*. 2021;28(11):3591–3602. [FND-CIT-0014](../../../research/citation-index.md#fnd-cit-0014). [https://doi.org/10.1111/ene.15018](https://doi.org/10.1111/ene.15018) |
+| <a id="citation-5"></a>**[5]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
+| <a id="citation-6"></a>**[6]** | — | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
 
-Until those sources are added and checked, this page remains an authoring draft rather than reviewed educational material.
+This page still needs review by people with FND, supporters and clinicians, including review of whether the map is practical without increasing monitoring burden.
 
-*Plain-language draft prepared: September 4, 2026 · Evidence and clinical review pending*
+*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*

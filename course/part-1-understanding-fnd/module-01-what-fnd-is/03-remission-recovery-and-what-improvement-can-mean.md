@@ -4,6 +4,8 @@
 
 # Remission, Recovery, and What Improvement Can Mean
 
+> **Working draft:** This page is looking for [reviewers](https://fnd-education-project.github.io/FND-Education/).
+
 > **"FND symptoms may recur or worsen regardless of what a person knows, tries, or has achieved. Symptom severity must never be used to judge effort, acceptance of the diagnosis, treatment participation, or personal progress."**
 
 *Course principle*
