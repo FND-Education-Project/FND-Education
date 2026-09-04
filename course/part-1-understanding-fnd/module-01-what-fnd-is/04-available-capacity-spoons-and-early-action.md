@@ -20,7 +20,7 @@ A task can be possible but still cost too much. For example, you may be able to 
 
 Capacity may change within a day or over a longer period. It may be affected by FND symptoms, pain, migraine, sleep, infection, medication, food or fluids, sensory surroundings, emotional or social demands, time spent upright, another medical condition and the recovery available before or after an activity. This list describes possible influences; it does not prove why one person's capacity changed.
 
-![Available Capacity illustrated using a leaky bucket but with positive flows into it as well](/assets/module-1-page-4-available-capacity-illus1.png)
+![Available Capacity illustrated using a leaky bucket but with positive flows into it as well](../../../assets/module-1-page-4-available-capacity-illus1.png)
 
 ### What are “spoons”?
 
@@ -94,13 +94,11 @@ Test the plan on an ordinary day, not for the first time during a severe event. 
 
 A capacity explanation must not replace medical assessment. Seek urgent help for emergency warning signs such as sudden new one-sided weakness or facial droop, a first or very different seizure or blackout, serious injury, severe new headache, chest pain, major breathing difficulty or another change covered by your emergency plan. Persistent or markedly reduced capacity also deserves review for treatable contributors such as sleep problems, migraine, pain, medication effects, anemia, infection, endocrine illness or orthostatic problems. See [Module 5: Medical Safety and New Symptoms](../../part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md).
 
-### Questions to ask a clinician
+### Questions
 
-- Which changes are my familiar FND warning pattern, and which require reassessment?
-- Could another condition, medication or sleep problem be reducing my capacity?
-- Do my symptoms worsen during activity, immediately afterwards or after a delay?
-- What should my early-action and safety plan include?
-- How can I protect necessary and meaningful activities without using one rigid target?
+#### When your available capacity begins to narrow, what changes do you usually notice first?
+
+#### Which demand could you change early, and which necessary or meaningful activity would you most want to protect?
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
