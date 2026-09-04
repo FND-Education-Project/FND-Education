@@ -34,17 +34,15 @@ However, one sign should not be separated from the rest of the history and exami
 
 The diagnosis should be explained to you. It is reasonable to ask which sign was found, to have it demonstrated when appropriate, and to ask what other possibilities were considered. New symptoms or a major change in a familiar pattern may still need assessment even after FND has been diagnosed.
 
-### Questions you might ask a clinician
+### Questions
 
-- “Which positive sign supports my diagnosis?”
-- “Could you show me what changed during the examination?”
-- “What does this finding tell us, and what does it not tell us?”
-- “Were pain, another illness or another neurological condition considered?”
-- “Could this finding help guide rehabilitation?”
+#### Which part of the explanation for your diagnosis made the most sense to you, and which part still feels uncertain?
+
+#### If a positive sign was demonstrated during your examination, how would you explain what it showed without treating it as proof that you can control the symptom?
 
 ### What can the person safely try at home?
 
-Write down the clinician’s explanation in two parts: **the sign that was found** and **what the clinician believes it shows**. If you were not given that information, choose one question from the list above for your next appointment.
+Write down the clinician’s explanation in two parts: **the sign that was found** and **what the clinician believes it shows**. If you were not given that information, write down the part that you still need your clinician to explain.
 
 Do not repeatedly perform Hoover’s sign, tremor tests or other neurological tests on yourself. These signs require training and context to interpret. Repeatedly testing a symptom can also increase attention, worry or physical strain without making the diagnosis clearer.
 
