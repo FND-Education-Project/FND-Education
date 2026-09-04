@@ -4,23 +4,75 @@
 
 # Brain Networks, Prediction, Attention, and Agency
 
-This is a focused authoring template within Module 3. Build the completed page around this scope: Introduce network research, predictive-processing proposals, attention, expectation, sensory evidence, automatic control, and sense of agency; clearly distinguish measured findings from proposed explanations and avoid presenting a model as a biomarker or settled cause.
+> **Working draft:** This page has been rewritten in plain language so it can be reviewed and edited. Its research package and citations still need to be added.
+
+Researchers have several ideas about how FND symptoms may be produced. These ideas involve brain networks, attention, predictions, past learning, automatic control and the sense that an action belongs to us. They are useful areas of study, but they do not yet provide one settled explanation or an individual diagnostic test.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND causes; FND mechanisms; risk factors; triggers; perpetuating factors; predictive processing; attention; agency; neuroplasticity; biopsychosocial formulation. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Brain Networks, Prediction, Attention, and Agency.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### The short version
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Introduce network research, predictive-processing proposals, attention, expectation, sensory evidence, automatic control, and sense of agency; clearly distinguish measured findings from proposed explanations and avoid presenting a model as a biomarker or settled cause. The reader should not have to read the module overview first to understand the page.
+The nervous system does not wait passively for information and then react. It constantly chooses what to pay attention to, uses earlier experience to anticipate what may happen, interprets signals from the body and surroundings, and organizes movement and awareness. Much of this happens automatically.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: Why researchers do not yet have one complete explanation for FND. The difference between something that may increase risk, something that starts symptoms, and something that keeps symptoms going. Why the original trigger may be different from the reasons symptoms continue. How illness, injury, pain, migraine, poor sleep, medication effects, exhaustion, stress, trauma, or other experiences may matter for some people but not everyone. Why trauma, stress, and mental illness are not required for an FND diagnosis. How attention, expectations, past learning, and automatic nervous-system processes may affect symptoms without conscious choice. What neuroplasticity means in simple terms: the nervous system can learn and change, but change is not guaranteed or unlimited. Why a helpful treatment idea does not automatically prove a theory about what caused FND. How to recognize explanations that sound certain but go beyond the research. Predisposing, precipitating, and perpetuating formulations and the limits of applying group-level factors to individuals. Distinctions among cause, mechanism, mediator, moderator, risk marker, trigger, and maintaining factor. Network-level findings involving attention, salience, agency, motor control, emotion processing, and interoception. Predictive-processing and active-inference accounts, including precision weighting, prior expectations, and sensory evidence. Abnormal self-directed attention, altered sense of agency, symptom learning, and automatic versus voluntary control. Associations with physical illness, injury, migraine, pain, fatigue, sleep disruption, psychiatric conditions, trauma, and dissociation. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+Some FND theories propose that these ordinary processes are working together differently. That could help explain why a genuine symptom can occur without damage that appears on a standard scan and without the person deliberately causing it. The theories are not proof of what caused one person's FND.
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Give this section substantial weight. Cover the lack of a universal mechanism, uncertain direction of many associations, small or heterogeneous studies, absence of a diagnostic biomarker, and the difference between a useful therapeutic model and a proven biological explanation. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+### What is a brain network?
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe how people may search intensely for one cause, notice a clear trigger, or have no identifiable beginning. Explain the frustration created by conflicting explanations and by clinicians who assume trauma, stress, or a psychiatric cause without evidence from the individual. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+A **brain network** is a group of brain areas that work together. Movement, sensation, attention, emotion, memory and awareness are not each controlled by one isolated spot. Networks share information, and the same area may contribute to several functions.
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Sort personal possibilities into known facts, plausible contributors, unanswered questions, and unsupported assumptions. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+FND research has examined or discussed networks involved in:
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Which parts of this explanation are established evidence and which are theory? Is this factor a cause, trigger, risk, or maintaining influence? Does it apply to me specifically? Would the treatment still make sense if the proposed mechanism is wrong? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+- movement and motor control;
+- attention and **salience**, meaning what the nervous system treats as important;
+- **interoception**, meaning awareness and interpretation of signals from inside the body;
+- emotion processing; and
+- **agency**, meaning the sense that an action or experience belongs to you and is under your control.
+
+Studies have reported group differences in several of these areas, but not every proposed process has been tested directly and the findings are not uniform. A difference on a research brain scan may help scientists form and test ideas, but it is not automatically a cause, a diagnostic biomarker or an explanation that applies to every participant.
+
+### What do prediction and sensory evidence mean?
+
+**Predictive processing** is a proposed way of describing how the nervous system combines expectations with incoming information. In simple terms, the brain anticipates what a signal probably means and checks that anticipation against **sensory evidence** from the body and surroundings.
+
+Researchers sometimes use the term **precision weighting** for how much confidence or importance the nervous system gives to a prediction or to new sensory information. **Active inference** is a related proposal in which perception and action work together to reduce the difference between what is expected and what is sensed.
+
+These processes are mostly automatic. Saying that expectations may influence a symptom does not mean that the person expected it on purpose, imagined it or can stop it by “thinking positively.” Past learning can shape automatic predictions without a person knowing that it is happening.
+
+### How can attention affect a real symptom?
+
+Attention helps the nervous system decide which information receives priority. It can be deliberately directed, but it can also be captured automatically by pain, danger, an unusual sensation or the effort required to complete a movement.
+
+Some functional symptoms change when attention or the way a task is performed changes. For example, a movement may be easier when it happens automatically as part of another task than when the person concentrates directly on it. This kind of difference may provide positive diagnostic evidence and may suggest a rehabilitation approach. It does not mean that every symptom improves with distraction or that attention alone caused the disorder.
+
+### What is a changed sense of agency?
+
+A movement can occur while the person does not experience it as chosen or controlled. Researchers describe this as an altered **sense of agency**. This may help explain why tremor, jerks, fixed postures or other movements can feel as though the body is acting on its own.
+
+Agency is not the same as responsibility. A theory about how the nervous system marks an action as voluntary does not make an involuntary FND symptom voluntary.
+
+### What is measured, and what is still a model?
+
+Researchers can measure behaviour during tasks and group patterns in brain activity or connections. From those results they propose explanations involving attention, salience, emotion, interoception, prediction, sensory evidence and agency.
+
+The measurement and the explanation are not the same thing. Studies may be small, may include different symptom types and may not show which finding came first. Researchers do not yet have one network pattern or prediction measure that can diagnose FND in an individual. A model may still be useful for treatment even when it is incomplete or later changes.
+
+### Questions
+
+#### Have you noticed that a familiar symptom or ability changes with the task, your surroundings or where your attention is drawn, without you choosing the change?
+
+#### Which parts of these brain-network explanations help you make sense of your experience, and which parts still feel like unanswered theory?
+
+### What can you safely try at home?
+
+Choose one explanation you have been given about your symptoms and divide it into three short parts:
+
+- **What was observed:** for example, a movement changed during an examination.
+- **What was proposed:** for example, attention or automatic control may be involved.
+- **What it means for me:** what the observation may help with, and what it does not prove.
+
+A lower-demand version is to write only: “The observation was ___; the explanation offered was ___.”
+
+Do not provoke symptoms, repeatedly test yourself, or ask someone to distract or surprise you to see what happens. Stop if the exercise increases symptoms, distress or constant self-monitoring. A clinician or therapist can help when an observation needs medical interpretation or when you want to use it in a treatment plan.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +83,13 @@ This is a focused authoring template within Module 3. Build the completed page a
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Brain Networks, Prediction, Attention, and Agency.” Develop the supporter guidance from these points: Avoiding blame and unwanted searches for hidden trauma. Listening to the person’s understanding without enforcing a preferred theory. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+A change in a symptom during distraction, automatic movement or a different setting does not show that the person was pretending before the change. It may show that the nervous system can access a function under some conditions even though the person cannot reliably control when that happens.
+
+Do not secretly test the person, draw attention to every movement, or insist that they should be able to repeat a better moment. That turns support into surveillance and can damage trust.
+
+If the person finds one of these models useful, ask what it helps them understand or practise. If the model does not fit their experience, do not force it. Practical help can still focus on safety, reduced demands, treatment access, communication and meaningful activity without agreeing on one mechanism.
+
+New or substantially changed symptoms still deserve appropriate assessment. A brain-network theory should never be used to explain away a medical change.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +100,25 @@ This is a focused authoring template within Module 3. Build the completed page a
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Separate causal questions from conditions that can resemble or worsen FND. Note that migraine, epilepsy, sleep disorders, pain, medication effects, injury, psychiatric conditions, and autonomic disorders may be triggers, comorbidities, alternative explanations, or unrelated findings depending on the person. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Explain the level of evidence
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Methodological limitations, reverse causation, heterogeneous samples, replication problems, and the difference between biomarkers and diagnostic tests. Explain both the value and limitations of each step.
+Separate the patient's demonstrated clinical findings from research results and mechanism models. Task-based behavioural differences or positive signs may support diagnosis. Group differences in functional imaging or connectivity do not currently provide an individual diagnostic biomarker.
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Explain whether this module is itself about treatment or instead directs readers to the professional or practical approaches covered elsewhere. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+When using predictive-processing or active-inference language, explain prediction, sensory evidence and precision without implying conscious expectation. When discussing attention, distinguish an automatically captured process from deliberate focus. When discussing agency, state directly that an altered feeling of control does not make the symptom voluntary.
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Explain that adopting a mechanism theory should not stop investigation of new or changing symptoms. Also flag emotional or physical harm from treatment that insists on trauma, exposure, exercise, or another theory despite worsening or lack of individual relevance. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+### Connect assessment to the patient's presentation
+
+Begin with history, symptom form and time course, positive signs, and relevant neurological examination. Use targeted tests and specialist assessment for defined differential or comorbidity questions. Research measures of salience, interoception, emotion processing, connectivity or agency should not be presented as clinical proof unless they have been validated for that purpose.
+
+Interpret studies with attention to sample size, symptom mix, medication, psychiatric and neurological comorbidity, task design, replication and direction of effect. A difference associated with FND may be a contributor, consequence, compensation or unrelated group finding.
+
+### Use models to support care, not restrict it
+
+A model may help a patient understand an examination finding or engage with motor retraining, attention strategies or another individualized intervention. Choose language with the patient and keep the treatment goal meaningful even if the proposed mechanism remains uncertain.
+
+Treatment response does not confirm the model or reveal the original cause. Do not make acceptance of one theory a condition of care. When symptoms persist, continue validation, symptom management, safety planning, accessibility, participation and agreed reassessment.
+
+New, severe, injured or substantially changed symptoms require proportionate medical review rather than automatic attribution to the existing formulation.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -67,6 +137,18 @@ This is a focused authoring template within Module 3. Build the completed page a
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Brain Networks, Prediction, Attention, and Agency”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+### Evidence still needed before review
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+The completed research package should include:
+
+- systematic reviews of functional imaging, connectivity and task-based findings in FND;
+- studies of attention, salience, interoception, motor control and sense of agency;
+- primary papers and critical reviews of predictive-processing and active-inference models;
+- diagnostic research separating validated positive signs from experimental biomarkers; and
+- treatment studies testing whether a model-informed intervention changes a meaningful patient outcome.
+
+For every major study, the notes should identify who was studied, which symptom type they had, what was measured, whether the result was replicated and whether the design can say anything about cause. Measured findings, clinical consensus, emerging evidence and proposed models must remain clearly separated.
+
+Until those sources are added and checked, this page remains an authoring draft rather than reviewed educational material.
+
+*Plain-language draft prepared: September 4, 2026 · Evidence and clinical review pending*
