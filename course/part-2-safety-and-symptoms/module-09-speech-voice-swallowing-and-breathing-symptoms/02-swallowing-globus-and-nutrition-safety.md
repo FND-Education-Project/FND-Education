@@ -4,23 +4,63 @@
 
 # Swallowing, Globus, and Nutrition Safety
 
-This is a focused authoring template within Module 9. Build the completed page around this scope: Cover swallowing difficulty, lump sensation, eating and drinking effects, aspiration and nutrition concerns, speech-language and medical assessment, instrumental testing, safe adaptations, and reasons for urgent reassessment.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+Swallowing symptoms can feel frightening and can affect food, drink, medicines and social life. Safety comes before deciding whether the symptom is functional.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: functional speech disorder; functional voice disorder; dysphonia; aphonia; mutism; functional stuttering; globus; functional dysphagia; cough; breathing-pattern disorder. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Swallowing, Globus, and Nutrition Safety.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover swallowing difficulty, lump sensation, eating and drinking effects, aspiration and nutrition concerns, speech-language and medical assessment, instrumental testing, safe adaptations, and reasons for urgent reassessment. The reader should not have to read the module overview first to understand the page.
+**Dysphagia** means difficulty moving food, drink or saliva safely and effectively. **Globus** means a lump or tight feeling in the throat that is not the same as food sticking during a swallow. Functional forms can be diagnosed after appropriate assessment and with positive features. (*citations* [1](#citation-1))
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: How FND may affect speaking, voice, fluency, swallowing, coughing, or breathing. What mutism, dysphonia, stuttering, word blocking, globus, and other common terms mean. Why a person may sometimes speak or swallow more easily than at other times without choosing the difficulty. How rhythm, singing, automatic phrases, an external focus, or less effortful speech may sometimes help. How a speech-language pathologist may assess communication or swallowing and help retrain function. Why writing, gesture, communication cards, or devices may be needed when speech is difficult. Why supporters should give time and should not automatically finish every sentence. Why choking, possible aspiration, severe breathing trouble, or a new swallowing problem should not simply be assumed to be FND. When respiratory, ear-nose-throat, gastrointestinal, or swallowing assessment may be appropriate. Functional dysphonia, aphonia, dysarthria-like symptoms, mutism, stuttering, prosodic change, foreign-accent presentations, and language-access symptoms. Functional dysphagia, globus, cough, inducible laryngeal obstruction, and breathing-pattern disorder, including areas of overlap and diagnostic uncertainty. Positive clinical features, variability, automatic-voluntary dissociation, task effects, and response to symptomatic techniques. Differential diagnosis involving stroke, neurodegenerative disease, neuromuscular disease, structural laryngeal pathology, aspiration risk, and respiratory disease. Speech-language therapy principles involving education, automatic function, attention redirection, reducing excessive effort, graded communication, and self-management. Instrumental swallowing assessment and multidisciplinary evaluation when safety or nutrition is uncertain. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![One panel defines dysphagia as difficulty moving food or drink; another defines globus as a lump sensation between swallows.](../../../assets/module-9-page-2-dysphagia-and-globus.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Note that several different clinical problems are grouped in this module and do not necessarily share one mechanism or treatment. Identify limited controlled treatment research and uncertainty at the boundaries among functional symptoms, laryngeal disorders, and breathing-pattern conditions. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: similar throat feelings can need different assessment.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe words becoming blocked, voice fading or changing, stuttering, loss of speech, altered accent or rhythm, a lump sensation, swallowing difficulty, coughing, throat closure, or trouble coordinating breathing. Note that function may vary across automatic and deliberate tasks. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Prepare a communication card or alternative communication plan. Record swallowing or breathing questions for appropriate clinicians. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+Do not use distraction as a swallowing test. Follow your assessed eating and drinking plan.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Which part of speech, voice, swallowing, or breathing is affected? What safety assessment is needed? Would a speech-language pathologist help? What communication alternative should be available? Which breathing changes require emergency help? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### Start with safety and nutrition
+
+A clinician may ask about coughing or choking, wet voice, food sticking, pain, weight loss, dehydration, chest infections and which textures are difficult. Assessment may include a speech and language professional, examination and an instrumental swallowing study when indicated.
+
+If familiar difficulty starts during a meal, stop when the current swallow does not feel safe and follow the posture, texture and strategy approved for you. Choking, inability to swallow saliva, breathing difficulty or a substantially changed pattern needs appropriate urgent assessment.
+
+### Treatment depends on the problem
+
+Functional swallowing or globus treatment may use explanation, reduction of excessive throat effort, attention changes, breathing or voice work, and gradual return to chosen foods. A separate structural, reflux, motility or neurological problem needs its own care.
+
+Medication evidence from functional esophageal disorders is not the same as evidence for FND swallowing symptoms. A 2026 review found some benefit for globus but lacked convincing evidence for functional dysphagia. (*citations* [2](#citation-2))
+
+### Community experiences for review
+
+These accounts show practical adaptation and fear. They are not swallowing instructions.
+
+**Option 1 — adjusting the meal**
+
+> “They gave me coping strategies ... chew food much more, and put smaller amounts of food into my mouth.”
+
+— The writer said dysphagia became less frequent after a withdrawal period; the specific contribution of the strategies is unclear. [Read the public source](https://www.reddit.com/r/FND/comments/1he9t87/does_anyone_else_have_problems_swallowing_and/).
+
+**Option 2 — fear after choking**
+
+> “My partner choked, I had to apply the Heimlich ... He’s afraid now.”
+
+— A supporter described a real emergency and its aftermath. [Read the public source](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/).
+
+### Questions
+
+#### How have swallowing or throat symptoms changed what, where or with whom you eat?
+
+#### Do you feel physically unsafe, frightened by the sensation, undernourished—or more than one of these?
+
+### One small thing you can do
+
+Put your current swallowing recommendations in one easy-to-find place. A lower-demand version is to write the name of the clinician or service responsible for the plan.
+
+Do not change food texture, practise difficult swallows or alter medication form based on this page. Ask for an assessment when safety or nutrition is uncertain.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +71,9 @@ This is a focused authoring template within Module 9. Build the completed page a
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Swallowing, Globus, and Nutrition Safety.” Develop the supporter guidance from these points: Allowing time and using agreed alternatives without automatically speaking for the person. Responding to breathing or swallowing danger rather than assuming it is functional. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Follow the person’s assessed plan for food, drink, position, pace and supervision. Do not offer a difficult texture to see whether distraction changes the symptom. In an emergency, use your local first-aid and emergency guidance.
+
+Keep meals as dignified and social as the person wants. Avoid watching every mouthful unless supervision is part of the agreed safety plan.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +84,23 @@ This is a focused authoring template within Module 9. Build the completed page a
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Cover stroke, neuromuscular disease, neurodegeneration, structural throat or vocal-cord problems, aspiration, reflux, asthma, heart or lung disease, allergy, infection, and medication effects. Keep swallowing and breathing safety distinct from communication access. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Functional dysphagia, globus, cough, inducible laryngeal obstruction, and breathing-pattern disorder, including areas of overlap and diagnostic uncertainty. Differential diagnosis involving stroke, neurodegenerative disease, neuromuscular disease, structural laryngeal pathology, aspiration risk, and respiratory disease. Instrumental swallowing assessment and multidisciplinary evaluation when safety or nutrition is uncertain. Explain both the value and limitations of each step.
+**Option 1 — Baker et al., 2021**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Speech-language therapy principles involving education, automatic function, attention redirection, reducing excessive effort, graded communication, and self-management. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “FND should be diagnosed on the basis of positive clinical features.”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Highlight choking, possible aspiration, inability to manage fluids or nutrition, blue or grey colour, severe breathing distress, chest pain, new focal neurological signs, and a new or markedly changed swallowing or breathing problem. Avoid assuming a prior functional diagnosis makes these safe. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Wang et al., 2026**
+
+> “Convincing evidence to support the use of GBN in the treatment of FD is lacking.”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+
+### Keep phenotype and safety explicit
+
+Differentiate dysphagia from globus and assess structural, inflammatory, reflux, motility, neurological and medication-related causes. Establish nutrition, hydration and aspiration risk before introducing symptom-modification strategies. Use instrumental assessment when indicated.
+
+When a functional diagnosis is supported, explain the positive findings and offer individualized speech-and-language therapy. Keep any texture or posture prescription current and communicate who will review it. Wang and colleagues studied functional esophageal disorders rather than FND-specific dysphagia, so use that evidence only as an adjacent, clinician-led discussion. (*citations* [1](#citation-1), [2](#citation-2))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -67,6 +119,15 @@ This is a focused authoring template within Module 9. Build the completed page a
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Swallowing, Globus, and Nutrition Safety”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+The speech-and-language paper is expert consensus. The 2026 systematic review concerns functional esophageal disorders and medication, not specifically FND swallowing; its applicability is limited. (*citations* [1](#citation-1), [2](#citation-2))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+**Related reference pages:** [swallowing and globus signs](../../../reference/diagnostic-signs/10-functional-swallowing-and-globus.md) · [swallowing and globus recovery ideas](../../../reference/recovery-techniques/10-functional-swallowing-and-globus.md)
+
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Wang Z, Zheng Z, Wei X, et al. Efficacy of gut-brain neuromodulators in functional esophageal disorders: a systematic review. *BMC Gastroenterology*. 2026. [FND-CIT-0042](../../../research/citation-index.md#fnd-cit-0042). [https://doi.org/10.1186/s12876-026-05089-6](https://doi.org/10.1186/s12876-026-05089-6) |
+
+This page still needs review by people with swallowing symptoms, speech and language professionals, gastroenterologists and dietitians.
+
+*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*

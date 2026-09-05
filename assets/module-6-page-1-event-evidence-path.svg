@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence used to diagnose a functional seizure</title>
+  <desc id="desc">Four sources of information point toward an individualized diagnosis rather than a diagnosis based on one clue.</desc>
+  <rect width="900" height="320" rx="24" fill="#eef5f7"/>
+  <text x="450" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#17324d">A diagnosis uses the whole event pattern</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle" font-size="19" fill="#17324d">
+    <rect x="35" y="85" width="165" height="75" rx="16" fill="#ffffff" stroke="#356f99" stroke-width="3"/><text x="117" y="117">Your account</text><text x="117" y="143">and memory</text>
+    <rect x="35" y="190" width="165" height="75" rx="16" fill="#ffffff" stroke="#356f99" stroke-width="3"/><text x="117" y="222">Witness account</text><text x="117" y="248">or safe video</text>
+    <rect x="250" y="85" width="165" height="75" rx="16" fill="#ffffff" stroke="#356f99" stroke-width="3"/><text x="332" y="117">Before, during</text><text x="332" y="143">and after</text>
+    <rect x="250" y="190" width="165" height="75" rx="16" fill="#ffffff" stroke="#356f99" stroke-width="3"/><text x="332" y="222">Appropriate tests</text><text x="332" y="248">and other causes</text>
+    <path d="M430 175h95" stroke="#17324d" stroke-width="5"/><path d="M525 175l-15-10v20z" fill="#17324d"/>
+    <rect x="550" y="100" width="310" height="150" rx="24" fill="#d9f0e6" stroke="#18765b" stroke-width="4"/>
+    <text x="705" y="155" font-size="24" font-weight="700">Positive, individualized</text>
+    <text x="705" y="190" font-size="24" font-weight="700">diagnosis</text>
+    <text x="705" y="222" font-size="18">with limits explained</text>
+  </g>
+</svg>

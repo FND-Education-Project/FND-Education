@@ -4,23 +4,61 @@
 
 # Tremor, Jerks, and Spasms
 
-This is a focused authoring template within Module 7. Build the completed page around this scope: Explain common movement patterns, variability, entrainment or distractibility in accessible terms, relevant differentials, injury reduction, practical adaptations, and symptom-specific movement retraining.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+These movements can be brief, continuous or arrive in long bouts. They are involuntary, even when attention or another movement changes them. (*citations* [1](#citation-1), [2](#citation-2))
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: Functional Movement Disorder; FMD; functional weakness; functional paralysis; functional gait disorder; tremor; jerks; dystonia; falls; Hoover’s sign. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Tremor, Jerks, and Spasms.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Explain common movement patterns, variability, entrainment or distractibility in accessible terms, relevant differentials, injury reduction, practical adaptations, and symptom-specific movement retraining. The reader should not have to read the module overview first to understand the page.
+A **tremor** is a repeated back-and-forth movement. A **jerk** is a sudden brief movement. **Spasm** is a broad everyday word for a sudden tightening or movement; a clinician may use a more specific term after assessment.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: How FND can affect strength, walking, balance, posture, or movement. What tremor, jerks, spasms, dystonia, weakness, paralysis, and gait problems mean in ordinary language. Why movement may be easier in one situation and harder in another without being voluntary. How a clinician may find signs that normal movement is still possible but not being accessed reliably. The difference between automatic movement and movement that requires close conscious control. Why rhythm, distraction, an external target, or a meaningful activity may sometimes help movement. How an FND-informed physiotherapist or occupational therapist may help retrain movement and daily activities. Why pain, fatigue, fear of falling, and loss of conditioning may also need attention. How mobility aids may improve safety and access while still needing individual assessment and review. Functional weakness, tremor, myoclonus, dystonia, parkinsonism, gait disorders, and mixed motor presentations. Positive signs including Hoover’s sign, hip abductor sign, drift without pronation, entrainment, distractibility, variability, and incongruent gait patterns. Automatic versus explicit motor control, self-focused attention, agency, expectation, and motor prediction. Physiotherapy principles emphasizing education, movement retraining, external focus, automatic movement, task orientation, and self-management. Occupational analysis, environmental adaptation, graded participation, and cognitive or sensory load. Interactions with pain, fatigue, fear, falls, deconditioning, joint instability, and other neurological or musculoskeletal disease. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![Three traces compare rhythmic tremor, a sudden jerk and a longer muscle spasm.](../../../assets/module-7-page-2-movement-types.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Explain that positive motor signs support diagnosis but do not reveal one universal cause. Note limited evidence for particular therapy ingredients, uncertain prediction of recovery, and research gaps for severe disability, pain, fixed dystonia, recurrent falls, and long-term wheelchair use. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: these words describe movement patterns; diagnosis still needs assessment.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe weakness, heaviness, limbs that will not respond, tremor, jerks, spasms, fixed postures, unusual walking, knees giving way, freezing, and falls. Explain that symptoms may change with task or attention without being consciously controlled. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Identify preserved or more automatic movements to discuss with a therapist. Create a safe practice and fall-response plan. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+A movement changing with rhythm, attention or another task can be positive evidence for a functional diagnosis. It does not mean you are controlling it on purpose.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Which positive motor signs support FND? What preserved movement can rehabilitation build from? How will pain and fatigue be accommodated? What equipment is safe now? How and when will progress or changing symptoms be reassessed? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### How diagnosis may be supported
+
+Functional tremor may vary in speed or size, pause with distraction, or move toward the rhythm of another action. This last change is called **entrainment**. Functional jerks may have patterns seen in the examination or in combined muscle-and-brain electrical testing. No single change should be used as a do-it-yourself test. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Make the immediate situation safer
+
+If a familiar bout begins, put down hot, sharp or breakable objects and move away from stairs or traffic. Use only a cue taught for your movement pattern. Repeatedly fighting, suppressing or testing a movement can add effort and pain.
+
+New movements, injury, loss of awareness or a substantially different pattern need appropriate assessment. Medicines and other neurological conditions can also cause tremor or jerks.
+
+### Community experiences for review
+
+These accounts show two very different responses. They are not evidence that the same activity will help another person.
+
+**Option 1 — a competing hand task changed tremor**
+
+> “She handed me a rainbow coloured dodgeball and asked me to rotate it ... And the tremors stopped.”
+
+— The writer described an occupational therapist testing a competing hand task during continuous tremor. [Read the public source](https://www.reddit.com/r/FND/comments/1pslgkk/there_is_a_light_at_the_end_of_the_tunnel/).
+
+**Option 2 — focused attention sometimes helped jerks**
+
+> “If I meditate or focus on something else I can stop it.”
+
+— The writer described one personal way of interrupting jerks. [Read the public source](https://www.reddit.com/r/FND/comments/17jx51h/).
+
+### Questions
+
+#### What does the movement stop you from doing, and what still feels possible during it?
+
+#### Have you noticed a context in which the movement changes without you forcing it?
+
+### One small thing you can do
+
+Choose one safe, familiar activity that naturally uses both hands or a steady rhythm, but only if it has been safe for you before. A lower-demand version is to discuss such an activity with a therapist.
+
+Stop if movement, pain, dizziness or fall risk increases. Do not practise with dangerous objects or near hazards.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +69,9 @@ This is a focused authoring template within Module 7. Build the completed page a
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Tremor, Jerks, and Spasms.” Develop the supporter guidance from these points: Using only agreed cues. Supporting safe independence without pulling, forcing, or repeatedly testing strength. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Make the space safer and ask whether the person wants help. Avoid holding a moving limb down, drawing a crowd or repeatedly pointing out the movement. Quietly offer the agreed cue or a meaningful task if requested.
+
+Variation is not evidence of pretending. Record a short video only with consent and only when doing so does not delay safety or care.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +82,23 @@ This is a focused authoring template within Module 7. Build the completed page a
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Mention stroke, multiple sclerosis, Parkinson’s disease, epilepsy, spinal or nerve disease, muscle and joint problems, medication effects, vestibular disorders, and injury as examples requiring symptom-specific assessment. Make coexistence with FND explicit. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Positive signs including Hoover’s sign, hip abductor sign, drift without pronation, entrainment, distractibility, variability, and incongruent gait patterns. Individual assessment of orthoses, walking aids, wheelchairs, and transfer strategies, avoiding blanket pro- or anti-equipment rules. Outcome measurement involving function, participation, falls, confidence, endurance, and quality of movement—not normal appearance alone. Explain both the value and limitations of each step.
+**Option 1 — Bartl et al., 2020**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Physiotherapy principles emphasizing education, movement retraining, external focus, automatic movement, task orientation, and self-management. Individual assessment of orthoses, walking aids, wheelchairs, and transfer strategies, avoiding blanket pro- or anti-equipment rules. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “response to distraction by motor and cognitive tasks is a key diagnostic feature”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Flag new one-sided weakness, injury after a fall, new bowel or bladder change, severe new pain, sudden loss of function, or a motor pattern that differs substantially from the established presentation. Link to individualized medical advice rather than using a generic checklist as diagnosis. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Nielsen et al., 2015**
+
+> “Retraining movement with diverted attention”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [3](#citation-3))*
+
+### Diagnose the phenotype, then use the sign therapeutically
+
+Characterize tremor, jerks, dystonia, tic-like movement, medication effects and other movement disorders rather than treating “spasm” as a diagnosis. For tremor, assess variability, distractibility and entrainment across tasks. For jerks, clinical neurophysiology may add support, but an absent Bereitschaftspotential does not exclude the diagnosis. (*citations* [1](#citation-1), [2](#citation-2))
+
+If a positive sign is clear, show it respectfully as evidence of preserved movement options. Link it to an individualized retraining strategy. Address pain, injury, fatigue, equipment and participation even when movement frequency does not improve.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -67,6 +117,16 @@ This is a focused authoring template within Module 7. Build the completed page a
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Tremor, Jerks, and Spasms”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+The tremor review and neurophysiology chapter describe supportive clinical and laboratory features. The physiotherapy paper is consensus guidance; individual exercises have not all been tested in controlled trials. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+**Related reference pages:** [tremor signs](../../../reference/diagnostic-signs/02-functional-tremor.md) · [tremor recovery ideas](../../../reference/recovery-techniques/02-functional-tremor.md) · [jerk signs](../../../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md) · [jerk recovery ideas](../../../reference/recovery-techniques/03-functional-jerks-and-myoclonus.md)
+
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Bartl M, Kewitsch R, Hallett M, Tegenthoff M, Paulus W. Diagnosis and therapy of functional tremor: a systematic review illustrated by a case report. *Neurological Research and Practice*. 2020;2:35. [FND-CIT-0019](../../../research/citation-index.md#fnd-cit-0019). [https://doi.org/10.1186/s42466-020-00073-1](https://doi.org/10.1186/s42466-020-00073-1) |
+| <a id="citation-2"></a>**[2]** | — | Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. [FND-CIT-0022](../../../research/citation-index.md#fnd-cit-0022). [https://doi.org/10.1016/j.cnp.2023.12.006](https://doi.org/10.1016/j.cnp.2023.12.006) |
+| <a id="citation-3"></a>**[3]** | Figure 1 | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
+
+This page still needs review by people with tremor or jerks, movement-disorder clinicians and therapists.
+
+*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*

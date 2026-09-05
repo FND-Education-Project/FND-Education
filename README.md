@@ -130,7 +130,7 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 **[Read the detailed course syllabus](docs/project/detailed-course-syllabus.md)** for the essential knowledge, professional and advanced detail, practical work, support-person focus, and expected takeaway planned for every module.
 
-**[Open the course structure and drafts](course/README.md)** to read all 78 course pages: 23 short module overviews and 55 focused pages.
+**[Open the course structure and drafts](course/README.md)** to read all 83 course pages: 23 short module overviews and 60 focused pages.
 
 *[(back to the top)](#on-this-page)*
 
@@ -187,7 +187,7 @@ During drafting and review, the project uses the same 15 questions as an editori
 4. What do researchers not yet know?
 5. What can this feel or look like in ordinary life?
 6. What can the person safely try at home?
-7. What questions might the person ask a clinician?
+7. Which questions can help the reader connect this material with their own experience?
 8. What should the reader open next?
 9. What should a support person understand and do?
 10. How can clinicians help the patient understand this subject and their own presentation?
@@ -197,7 +197,7 @@ During drafting and review, the project uses the same 15 questions as an editori
 14. Which evidence and source notes does the page need?
 15. When was the page last reviewed?
 
-A question that genuinely does not apply should be marked **Not applicable** in the editorial review rather than silently ignored. Module overview pages remain short and link to one to four focused pages that use the same pattern.
+A question that genuinely does not apply should be marked **Not applicable** in the editorial review rather than silently ignored. Module overview pages remain short and link to one to five focused pages that use the same pattern.
 
 *[(back to the top)](#on-this-page)*
 
@@ -218,7 +218,7 @@ When research has not answered an everyday question, the project may examine for
 
 The intended final educational material will be **human-authored and approved by a person living with FND**. The project lead works from research notes and source material, brings lived understanding to the wording, and decides how the subject is ultimately explained.
 
-Module 1 is the human-authored starting model. Its four focused pages contain citations and visible author-review notes. Modules 2–23 are automatically generated authoring drafts. They turn the human-planned syllabus and Module 1 pattern into page-by-page writing instructions and starting text. They are not treated as final human-authored or medically reviewed pages until a person has written or edited them and the required evidence and safety review is complete.
+Module 1 is the human-authored starting model. Pages personally edited by the project lead carry a reviewer notice without an automatic-generation label. Other pages in Parts One and Two (Modules 1–9) now contain reader-facing working drafts, short source quotations, personal reflection questions and citations. Automatically drafted pages retain a visible automatic-generation notice. Modules 10–23 still contain shorter authoring templates and starting text. None of these pages is treated as final or medically reviewed until the required human, evidence and safety review is complete.
 
 AI may help create initial drafts, locate and organize research, prepare authoring notes, check citations and consistency, and identify questions or omissions. AI also maintains and updates this `README.md` as the project develops. AI assistance is not a source of medical authority and does not replace human editing, evidence review or final authorship.
 

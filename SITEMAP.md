@@ -68,6 +68,7 @@ Use the sections below to drill down into the course, reference library, researc
 - [Module overview](course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md)
 - [Familiar Symptoms, New Symptoms, and Medical Change](course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md)
 - [Emergency Information and Individual Safety Plans](course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md)
+- [Using Your Safety Plan and Deciding When to Get Urgent Help](course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md)
 
 </details>
 
@@ -77,7 +78,8 @@ Use the sections below to drill down into the course, reference library, researc
 - [Module overview](course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/README.md)
 - [What Functional Seizures Are and How They Are Diagnosed](course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/01-what-functional-seizures-are-and-how-they-are-diagnosed.md)
 - [Episode Safety, Observation, and Emergency Decisions](course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/02-episode-safety-observation-and-emergency-decisions.md)
-- [Recovery, Treatment, and Daily Life](course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/03-recovery-treatment-and-daily-life.md)
+- [Recovery and Treatment](course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/03-recovery-treatment-and-daily-life.md)
+- [Living With Functional Seizures and Planning Ahead](course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/04-living-with-functional-seizures-and-planning-ahead.md)
 
 </details>
 
@@ -88,7 +90,8 @@ Use the sections below to drill down into the course, reference library, researc
 - [Functional Weakness and Paralysis](course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
 - [Tremor, Jerks, and Spasms](course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
 - [Functional Dystonia and Fixed Postures](course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md)
-- [Gait, Falls, and Movement Retraining](course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
+- [Gait and Falls](course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
+- [How Movement Retraining Works](course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/05-how-movement-retraining-works.md)
 
 </details>
 
@@ -97,8 +100,9 @@ Use the sections below to drill down into the course, reference library, researc
 
 - [Module overview](course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/README.md)
 - [Numbness, Altered Sensation, and Hypersensitivity](course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/01-numbness-altered-sensation-and-hypersensitivity.md)
-- [Visual Symptoms, Photophobia, and Sensory Overload](course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/02-visual-symptoms-photophobia-and-sensory-overload.md)
+- [Visual Symptoms and Photophobia](course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/02-visual-symptoms-photophobia-and-sensory-overload.md)
 - [Dizziness, Balance, and Vestibular Overlap](course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/03-dizziness-balance-and-vestibular-overlap.md)
+- [Sensory Overload, Accommodations, and Gradual Change](course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/04-sensory-overload-accommodations-and-gradual-change.md)
 
 </details>
 
@@ -109,6 +113,7 @@ Use the sections below to drill down into the course, reference library, researc
 - [Speech, Voice, and Word Blocking](course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/01-speech-voice-and-word-blocking.md)
 - [Swallowing, Globus, and Nutrition Safety](course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/02-swallowing-globus-and-nutrition-safety.md)
 - [Cough, Breathing, and Upper-Airway Symptoms](course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/03-cough-breathing-and-upper-airway-symptoms.md)
+- [Communication Access When Speech or Voice Is Difficult](course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/04-communication-access-when-speech-or-voice-is-difficult.md)
 
 </details>
 

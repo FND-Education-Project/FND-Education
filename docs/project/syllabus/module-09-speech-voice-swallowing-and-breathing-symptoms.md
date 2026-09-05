@@ -12,6 +12,14 @@
 
 Explain communication and upper-airway symptoms while giving safety issues appropriate weight.
 
+## Course pages
+
+- [Module overview](../../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/README.md)
+- [Speech, Voice, and Word Blocking](../../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/01-speech-voice-and-word-blocking.md)
+- [Swallowing, Globus, and Nutrition Safety](../../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/02-swallowing-globus-and-nutrition-safety.md)
+- [Cough, Breathing, and Upper-Airway Symptoms](../../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/03-cough-breathing-and-upper-airway-symptoms.md)
+- [Communication Access When Speech or Voice Is Difficult](../../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/04-communication-access-when-speech-or-voice-is-difficult.md) — gives communication access its own usable, low-demand page.
+
 ## Essential knowledge
 
 - How FND may affect speaking, voice, fluency, swallowing, coughing, or breathing.

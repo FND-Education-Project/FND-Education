@@ -1,26 +1,69 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 6: Functional Seizures and Episodic Symptoms](README.md) › **Recovery, Treatment, and Daily Life**
+[Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 6: Functional Seizures and Episodic Symptoms](README.md) › **Recovery and Treatment**
 <!-- NAV-BREADCRUMB:END -->
 
-# Recovery, Treatment, and Daily Life
+# Recovery and Treatment
 
-This is a focused authoring template within Module 6. Build the completed page around this scope: Cover post-episode recovery, communication preferences, returning to activity, treatment evidence and limitations, comorbidity care, school or work effects, driving or safety questions that require local guidance, and outcomes beyond seizure counts.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+Treatment is not a test of whether you believe the diagnosis. It is a shared attempt to reduce episodes, improve recovery or make life more possible.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: functional seizures; dissociative seizures; PNES; psychogenic nonepileptic seizures; nonepileptic attacks; altered awareness; functional episodes; video-EEG. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Recovery, Treatment, and Daily Life.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover post-episode recovery, communication preferences, returning to activity, treatment evidence and limitations, comorbidity care, school or work effects, driving or safety questions that require local guidance, and outcomes beyond seizure counts. The reader should not have to read the module overview first to understand the page.
+**Seizure-specific treatment** is care designed around functional seizures rather than epilepsy. It may include education, medical follow-up, psychological therapy, rehabilitation or a clinician-taught skill, depending on your needs and choices.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: What functional seizures are and the different names people may hear for them. Why functional seizures are real and not deliberately performed. How clinicians may use the person’s description, witness accounts, videos, and EEG testing to make the diagnosis. Why a functional seizure is not an epileptic seizure, while some people can have both conditions. Why episodes can involve movement, stillness, altered awareness, memory gaps, or many other patterns. How warning feelings, triggers, the episode itself, and recovery may differ between people. Basic steps to reduce injury and keep the space calm. Why supporters should not restrain the person or put anything in the mouth. How a personal plan explains when a familiar episode can be managed safely and when emergency help is needed. Terminology including functional seizures, dissociative seizures, and psychogenic nonepileptic seizures, with regional and classification differences. Semiology, diagnostic history, witness reliability, smartphone video, ambulatory EEG, and video-EEG confirmation. Differential diagnosis involving epileptic seizures, syncope, parasomnias, movement disorders, migraine, panic, metabolic disturbance, and other episodic events. Coexisting epilepsy, diagnostic revision, and communication of remaining uncertainty. Autonomic, motor, sensory, cognitive, and dissociative features without treating semiology alone as definitive. Risks from injury, breath-holding or apparent unresponsiveness, emergency overtreatment, and inappropriate antiseizure therapy. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![A treatment menu surrounds “no single recipe” with explanation, an episode plan, chosen therapy and care for other health needs.](../../../assets/module-6-page-3-treatment-menu.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Cover uncertainty about why episodes start and stop, why treatments help some people, the role of dissociation or stress in only some cases, and the limits of seizure-frequency outcomes. Note gaps in research on severe, prolonged, breath-related, and mixed episodes. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: care may combine several parts chosen and reviewed with the person.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe possible episodes without implying one typical appearance: shaking, stillness, collapse, altered responsiveness, inability to move, memory gaps, sensory warnings, breath changes, or prolonged recovery. Make clear that experiences and awareness vary and that appearance alone cannot establish the diagnosis. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Create an individualized episode plan and recovery preferences sheet. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+There is no one treatment that works for everyone. A useful plan matches your event pattern, other health conditions, goals and access.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: How was the diagnosis confirmed? Could epilepsy or another episodic disorder coexist? What should my supporter do and avoid? When should emergency services be called? What outcomes besides episode count should treatment target? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### What treatment may include
+
+- a clear explanation and continuing neurological care;
+- review of epilepsy and other diagnoses;
+- a functional-seizure-focused psychological therapy, if wanted and appropriate;
+- treatment for anxiety, depression, trauma, migraine, sleep or another separate problem;
+- rehabilitation for movement, fatigue or participation; and
+- practical planning with family, school or work.
+
+Psychological treatment does not mean the seizures are imaginary. It can work with attention, warning signs, responses, relationships and the effect of episodes on life. It should not be forced or presented as the only legitimate care. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+### What the trials tell us
+
+The large CODES trial did not find a statistically significant advantage for CBT plus standardized medical care on monthly seizure frequency at 12 months. Several secondary outcomes, including how bothersome seizures felt and some quality-of-life measures, favored CBT. A small breathing-control pilot was encouraging but too small and incomplete to establish effectiveness. Mixed evidence is a reason for honest choice, not hopelessness. (*citations* [2](#citation-2), [3](#citation-3))
+
+### Community experiences for review
+
+These medication experiences are included because other conditions and medication changes can affect a person’s course. They do not recommend a drug or stopping one.
+
+**Option 1 — benefit while treating another condition**
+
+> “I worked with my psychiatrist to find the right medications and it’s helped a lot.”
+
+— The writer described individualized psychiatric care alongside seizures. [Read the public source](https://www.reddit.com/r/FND/comments/1d0l4sy/how_long_do_you_allow_seizures_to_continue/).
+
+**Option 2 — worsening after a medication change**
+
+> “I had way worse symptoms after stopping the medication.”
+
+— The writer described a difficult period after stopping medication. [Read the public source](https://www.reddit.com/r/FND/comments/1k7re4l/looking_for_advice_cause_im_going_a_little_crazy/).
+
+### Questions
+
+#### If treatment helped, what would matter most to you: fewer episodes, safer recovery, more independence or something else?
+
+#### Have you been offered a real choice of treatments, with benefits, burdens and uncertainty explained?
+
+### One small thing you can do
+
+Choose one outcome you care about besides episode count, such as recovery time or returning to one activity. A lower-demand version is to finish: **“I want help with ...”**
+
+Do not start, stop or taper medication from this page. Ask the prescribing clinician to review medication and coexisting conditions.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +74,9 @@ This is a focused authoring template within Module 6. Build the completed page a
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Recovery, Treatment, and Daily Life.” Develop the supporter guidance from these points: Protecting from injury, timing and observing, avoiding restraint, and never placing objects in the mouth. Reducing crowds, repeated questioning, and panic during recovery. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Ask which goal belongs to the person. Support chosen treatment without becoming a therapist, episode counter or compliance monitor. Acknowledge progress in recovery, participation or confidence even if episodes continue.
+
+Help with transport, notes or protecting recovery time if invited. If a treatment increases distress, symptoms or loss of trust, support the person in raising this with the care team.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +87,23 @@ This is a focused authoring template within Module 6. Build the completed page a
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Discuss epilepsy, fainting, heart-rhythm events, migraine, sleep disorders, panic episodes, movement disorders, and metabolic causes. Emphasize that some people have both epilepsy and functional seizures and that a changed event should not be classified from appearance alone. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Semiology, diagnostic history, witness reliability, smartphone video, ambulatory EEG, and video-EEG confirmation. Differential diagnosis involving epileptic seizures, syncope, parasomnias, movement disorders, migraine, panic, metabolic disturbance, and other episodic events. Coexisting epilepsy, diagnostic revision, and communication of remaining uncertainty. Outcome measures beyond seizure frequency, including injury, emergency use, recovery time, participation, and quality of life. Explain both the value and limitations of each step.
+**Option 1 — Goldstein et al., 2020**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Autonomic, motor, sensory, cognitive, and dissociative features without treating semiology alone as definitive. Risks from injury, breath-holding or apparent unresponsiveness, emergency overtreatment, and inappropriate antiseizure therapy. Evidence and limitations for psychological treatment, education, multidisciplinary care, and management of comorbidities. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “no statistically significant advantage ... for the reduction of monthly seizures”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Include individualized emergency criteria, injury, a first event, a new event pattern, possible pregnancy or medication complications, prolonged breathing concern, unusual unresponsiveness, and events that differ from the clinician-reviewed pattern. Avoid publishing one time limit as correct for everyone. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Duncan et al., 2024**
+
+> “These preliminary results ... require confirmation by a randomised controlled trial.”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [2](#citation-2), [3](#citation-3))*
+
+### Offer evidence with its limits visible
+
+Discuss seizure-specific psychological interventions through shared decision-making. Describe the CODES primary result alongside its clinically relevant secondary outcomes. The breathing study was an open-label pilot with 18 recruits and 10 completing follow-up; it is not a universal self-help breathing prescription.
+
+Review coexisting epilepsy, psychiatric conditions and other treatment targets. Do not prescribe benzodiazepines or antiseizure medication for functional seizures without another indication; taper only through appropriate clinical management. Continue neurological care and outcome review rather than treating referral as discharge. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,7 +113,7 @@ This is a focused authoring template within Module 6. Build the completed page a
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Movement, Weakness, Walking, and Falls](../module-07-functional-movement-weakness-and-gait-symptoms/README.md)
+**Continue:** [Next page: Living With Functional Seizures and Planning Ahead](04-living-with-functional-seizures-and-planning-ahead.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
@@ -67,6 +122,16 @@ This is a focused authoring template within Module 6. Build the completed page a
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Recovery, Treatment, and Daily Life”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+The guideline synthesizes 12 Class II–III studies. CODES was a large pragmatic trial with a mixed outcome pattern. The breathing study was small and uncontrolled. These differences matter when discussing likely benefit. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+**Related reference pages:** [functional-seizure diagnostic signs](../../../reference/diagnostic-signs/06-functional-seizures.md) · [recovery and management ideas](../../../reference/recovery-techniques/06-functional-seizures.md)
+
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [FND-CIT-0033](../../../research/citation-index.md#fnd-cit-0033). [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0) |
+| <a id="citation-3"></a>**[3]** | Figure 1 | Duncan R, Berlowitz DJ, Mullen S, et al. Breathing control training for functional seizures: a multi-site, open-label pilot study. *Epilepsy & Behavior*. 2024;154:109745. [FND-CIT-0034](../../../research/citation-index.md#fnd-cit-0034). [https://doi.org/10.1016/j.yebeh.2024.109745](https://doi.org/10.1016/j.yebeh.2024.109745) |
+
+This page still needs review by people with functional seizures, therapists, neurologists and primary-care clinicians.
+
+*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*

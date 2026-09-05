@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">A small communication toolbox</title>
+  <desc id="desc">A toolbox contains a yes or no card, phone text, paper and pen, gesture card and a request for extra time.</desc>
+  <rect width="900" height="330" rx="24" fill="#eef5f7"/>
+  <text x="450" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Prepare more than one way to communicate</text>
+  <path d="M245 132h410l45 155H200z" fill="#d9f0e6" stroke="#18765b" stroke-width="5"/>
+  <path d="M365 132v-28h170v28" fill="none" stroke="#18765b" stroke-width="12" stroke-linecap="round"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#17324d">
+    <rect x="225" y="155" width="120" height="70" rx="12" fill="#fff" stroke="#356f99" stroke-width="3"/><text x="285" y="184" font-size="20" font-weight="700">YES / NO</text><text x="285" y="209" font-size="16">card</text>
+    <rect x="365" y="155" width="105" height="105" rx="14" fill="#fff" stroke="#76509a" stroke-width="3"/><text x="417" y="195" font-size="19" font-weight="700">Phone</text><text x="417" y="220" font-size="16">text</text>
+    <rect x="490" y="155" width="175" height="70" rx="12" fill="#fff" stroke="#a66500" stroke-width="3"/><text x="577" y="184" font-size="19" font-weight="700">Paper + pen</text><text x="577" y="209" font-size="16">or gesture</text>
+    <rect x="315" y="240" width="270" height="55" rx="20" fill="#fff0c7" stroke="#a66500" stroke-width="3"/><text x="450" y="275" font-size="19" font-weight="700">Please give me extra time</text>
+  </g>
+</svg>

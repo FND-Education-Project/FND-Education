@@ -4,23 +4,68 @@
 
 # Episode Safety, Observation, and Emergency Decisions
 
-This is a focused authoring template within Module 6. Build the completed page around this scope: Cover injury reduction, positioning and environment, actions to avoid, useful observation, individualized emergency criteria, breathing or injury concerns, and how supporters can remain calm without becoming constant monitors.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+Safe help during an episode is usually simple: protect from injury, follow the person’s plan, observe without crowding, and reassess if the event is new or different.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: functional seizures; dissociative seizures; PNES; psychogenic nonepileptic seizures; nonepileptic attacks; altered awareness; functional episodes; video-EEG. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Episode Safety, Observation, and Emergency Decisions.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover injury reduction, positioning and environment, actions to avoid, useful observation, individualized emergency criteria, breathing or injury concerns, and how supporters can remain calm without becoming constant monitors. The reader should not have to read the module overview first to understand the page.
+**Episode first aid** means the immediate actions used to protect you during and just after an event. An **episode plan** describes the safe response for your diagnosed, familiar event type.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: What functional seizures are and the different names people may hear for them. Why functional seizures are real and not deliberately performed. How clinicians may use the person’s description, witness accounts, videos, and EEG testing to make the diagnosis. Why a functional seizure is not an epileptic seizure, while some people can have both conditions. Why episodes can involve movement, stillness, altered awareness, memory gaps, or many other patterns. How warning feelings, triggers, the episode itself, and recovery may differ between people. Basic steps to reduce injury and keep the space calm. Why supporters should not restrain the person or put anything in the mouth. How a personal plan explains when a familiar episode can be managed safely and when emergency help is needed. Terminology including functional seizures, dissociative seizures, and psychogenic nonepileptic seizures, with regional and classification differences. Semiology, diagnostic history, witness reliability, smartphone video, ambulatory EEG, and video-EEG confirmation. Differential diagnosis involving epileptic seizures, syncope, parasomnias, movement disorders, migraine, panic, metabolic disturbance, and other episodic events. Coexisting epilepsy, diagnostic revision, and communication of remaining uncertainty. Autonomic, motor, sensory, cognitive, and dissociative features without treating semiology alone as definitive. Risks from injury, breath-holding or apparent unresponsiveness, emergency overtreatment, and inappropriate antiseizure therapy. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![Four calm steps during a familiar event are protect, time, observe and follow the individual plan.](../../../assets/module-6-page-2-episode-first-aid.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Cover uncertainty about why episodes start and stop, why treatments help some people, the role of dissociation or stress in only some cases, and the limits of seizure-frequency outcomes. Note gaps in research on severe, prolonged, breath-related, and mixed episodes. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: simple first-aid priorities for a familiar event with an agreed plan.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe possible episodes without implying one typical appearance: shaking, stillness, collapse, altered responsiveness, inability to move, memory gaps, sensory warnings, breath changes, or prolonged recovery. Make clear that experiences and awareness vary and that appearance alone cannot establish the diagnosis. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Create an individualized episode plan and recovery preferences sheet. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+For a familiar functional seizure, people should protect you—not restrain you or put anything in your mouth.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: How was the diagnosis confirmed? Could epilepsy or another episodic disorder coexist? What should my supporter do and avoid? When should emergency services be called? What outcomes besides episode count should treatment target? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### During a familiar event
+
+An individualized plan may tell others to:
+
+- move hazards and cushion the head if needed;
+- allow space and protect privacy;
+- keep their voice calm and use few words;
+- time the event and notice the order of changes;
+- avoid restraint, painful stimulation and objects in the mouth; and
+- allow the agreed recovery time.
+
+Do not rely on this list instead of your medical plan. A particular injury, pregnancy, breathing condition, epilepsy diagnosis or other health issue may change what is safe.
+
+### When the plan may not be enough
+
+Use local emergency guidance and the thresholds agreed with your clinicians. A new event type, important injury, medical instability, a clearly different pattern or unusual recovery needs fresh judgment. If you have both epilepsy and functional seizures, the plan should distinguish the known event types as far as reasonably possible. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Community experiences for review
+
+These two accounts show what support can mean. They are not a replacement for first-aid training or clinical advice.
+
+**Option 1 — preventing injury**
+
+> “During seizures he makes sure I am safe and not about to smack into something or fall.”
+
+— A person with FND described practical support from their spouse. [Read the public source](https://www.reddit.com/r/FND/comments/1k8is0m/support_for_my_wife/).
+
+**Option 2 — agreeing ground rules beforehand**
+
+> “One thing that really helps us is discussing ground rules for conflict when we’re not actively IN it.”
+
+— The writer described making plans during a calmer time. [Read the public source](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/).
+
+### Questions
+
+#### During an episode, what actions help you feel safe, and what actions make things worse?
+
+#### Who would you trust to observe an event without taking away your privacy or control?
+
+### One small thing you can do
+
+Choose one person and tell them the first two actions in your plan. A lower-demand version is to send them the plan’s location.
+
+Do not practise by provoking an episode. Seek clinician review if you have no plan, if people cannot follow it safely or if your events have changed.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +76,9 @@ This is a focused authoring template within Module 6. Build the completed page a
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Episode Safety, Observation, and Emergency Decisions.” Develop the supporter guidance from these points: Protecting from injury, timing and observing, avoiding restraint, and never placing objects in the mouth. Reducing crowds, repeated questioning, and panic during recovery. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Ask before an event whether the person consents to touch, video or sharing information. During the event, protect from immediate harm, follow the plan and keep observers back. Do not pin limbs down, put anything in the mouth or use pain to test responsiveness.
+
+Observe facts without trying to diagnose: timing, movement, awareness, colour, breathing, injury and recovery. If the event does not match the plan or seems unsafe, seek appropriate help.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +89,25 @@ This is a focused authoring template within Module 6. Build the completed page a
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Discuss epilepsy, fainting, heart-rhythm events, migraine, sleep disorders, panic episodes, movement disorders, and metabolic causes. Emphasize that some people have both epilepsy and functional seizures and that a changed event should not be classified from appearance alone. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Semiology, diagnostic history, witness reliability, smartphone video, ambulatory EEG, and video-EEG confirmation. Differential diagnosis involving epileptic seizures, syncope, parasomnias, movement disorders, migraine, panic, metabolic disturbance, and other episodic events. Coexisting epilepsy, diagnostic revision, and communication of remaining uncertainty. Outcome measures beyond seizure frequency, including injury, emergency use, recovery time, participation, and quality of life. Explain both the value and limitations of each step.
+**Option 1 — Tolchin et al., 2026**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Autonomic, motor, sensory, cognitive, and dissociative features without treating semiology alone as definitive. Risks from injury, breath-holding or apparent unresponsiveness, emergency overtreatment, and inappropriate antiseizure therapy. Evidence and limitations for psychological treatment, education, multidisciplinary care, and management of comorbidities. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “Clinicians should adhere to universal standards of care for patients”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Include individualized emergency criteria, injury, a first event, a new event pattern, possible pregnancy or medication complications, prolonged breathing concern, unusual unresponsiveness, and events that differ from the clinician-reviewed pattern. Avoid publishing one time limit as correct for everyone. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Finkelstein et al., 2021**
+
+> “Patients with FND may present acutely to the emergency department”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+
+### Match acute care to the event and current risk
+
+Assess airway, breathing, circulation, injury and time-sensitive alternatives before applying an existing label. Compare current semiology with the documented event type and account for coexisting epilepsy.
+
+For a familiar, stable functional seizure, use calm protection and avoid non-indicated benzodiazepines, antiseizure medication, restraint or intubation. Record the observed basis for decisions. Re-evaluate altered semiology, medical instability, injury, intoxication, withdrawal or unusual recovery. (*citations* [1](#citation-1), [2](#citation-2))
+
+Discharge communication should state what was observed, the current level of certainty, what changed if anything and who will provide follow-up.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,7 +117,7 @@ This is a focused authoring template within Module 6. Build the completed page a
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Recovery, Treatment, and Daily Life](03-recovery-treatment-and-daily-life.md)
+**Continue:** [Next page: Recovery and Treatment](03-recovery-treatment-and-daily-life.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
@@ -67,6 +126,15 @@ This is a focused authoring template within Module 6. Build the completed page a
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Episode Safety, Observation, and Emergency Decisions”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+The guideline supports respectful first aid, event-specific assessment and avoidance of medication without epilepsy or another indication. The emergency review is narrative guidance, not an emergency decision rule. (*citations* [1](#citation-1), [2](#citation-2))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+**Related reference pages:** [functional-seizure diagnostic signs](../../../reference/diagnostic-signs/06-functional-seizures.md) · [recovery and management ideas](../../../reference/recovery-techniques/06-functional-seizures.md)
+
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
+
+This page still needs review by people with functional seizures, supporters and emergency clinicians.
+
+*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*

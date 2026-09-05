@@ -4,11 +4,11 @@
 [Home](../README.md) › [Course](README.md)
 <!-- NAV-BREADCRUMB:END -->
 
-> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-This directory contains the complete structure and initial authoring drafts for the FND Education course: 23 module overviews and 55 focused pages, for 78 course pages in total. Each module begins with a short overview and links to one to four focused articles.
+This directory contains the complete structure and initial authoring drafts for the FND Education course: 23 module overviews and 60 focused pages, for 83 course pages in total. Each module begins with a short overview and links to one to five focused articles.
 
-Modules 2–23 were automatically generated from the detailed human-planned syllabus and the wording pattern established in Module 1. Most remain authoring drafts: they contain writing instructions and starting text rather than completed reader-ready articles. Contributors and reviewers are invited to help with human writing, evidence, safety, accessibility, lived experience and plain-language editing.
+Parts One and Two (Modules 1–9) now contain reader-facing working drafts based on the detailed human-planned syllabus and the wording pattern established in Module 1. Pages personally edited by the project lead are marked separately from temporary automatically generated drafts. Modules 10–23 remain shorter authoring templates and starting text. Contributors and reviewers are invited to help with human writing, evidence, safety, accessibility, lived experience and plain-language editing.
 
 Every focused article uses the same four sections:
 
@@ -23,18 +23,18 @@ The clinician section focuses on practical usefulness to the patient: helping th
 
 ## Part One: Understanding FND
 
-- [What Is Functional Neurological Disorder?](part-1-understanding-fnd/module-01-what-fnd-is/README.md) — 4 pages
+- [What Is Functional Neurological Disorder?](part-1-understanding-fnd/module-01-what-fnd-is/README.md) — 5 pages
 - [How Is FND Diagnosed?](part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md) — 3 pages
 - [What May Cause or Affect FND?](part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/README.md) — 4 pages
 - [Map Your FND and Other Health Conditions](part-1-understanding-fnd/module-04-mapping-your-individual-condition/README.md) — 2 pages
 
 ## Part Two: Safety and Symptom Knowledge
 
-- [Medical Safety and New Symptoms](part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md) — 3 pages
-- [Functional Seizures and Other Episodes](part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/README.md) — 4 pages
-- [Movement, Weakness, Walking, and Falls](part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/README.md) — 5 pages
-- [Sensory, Visual, Balance, and Dizziness Symptoms](part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/README.md) — 4 pages
-- [Speech, Voice, Swallowing, and Breathing Symptoms](part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/README.md) — 4 pages
+- [Medical Safety and New Symptoms](part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md) — 4 pages
+- [Functional Seizures and Other Episodes](part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/README.md) — 5 pages
+- [Movement, Weakness, Walking, and Falls](part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/README.md) — 6 pages
+- [Sensory, Visual, Balance, and Dizziness Symptoms](part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/README.md) — 5 pages
+- [Speech, Voice, Swallowing, and Breathing Symptoms](part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/README.md) — 5 pages
 
 ## Part Three: Common Non-Motor Difficulties
 

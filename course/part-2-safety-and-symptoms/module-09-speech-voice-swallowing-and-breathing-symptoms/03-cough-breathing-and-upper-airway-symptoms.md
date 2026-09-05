@@ -4,23 +4,63 @@
 
 # Cough, Breathing, and Upper-Airway Symptoms
 
-This is a focused authoring template within Module 9. Build the completed page around this scope: Cover functional cough, breathing-pattern symptoms, upper-airway or laryngeal problems, respiratory and cardiac differentials, access to communication during episodes, cautious self-management, and emergency breathing criteria.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+Cough, throat closure, noisy breathing and breathlessness can have functional causes, medical causes or both. Breathing difficulty must be made safe before anyone tries to explain it.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: functional speech disorder; functional voice disorder; dysphonia; aphonia; mutism; functional stuttering; globus; functional dysphagia; cough; breathing-pattern disorder. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Cough, Breathing, and Upper-Airway Symptoms.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover functional cough, breathing-pattern symptoms, upper-airway or laryngeal problems, respiratory and cardiac differentials, access to communication during episodes, cautious self-management, and emergency breathing criteria. The reader should not have to read the module overview first to understand the page.
+A **functional cough** is a real cough in which a clinician finds positive signs of altered control after checking other possible causes. **Functional upper-airway symptoms** involve altered control around the throat or voice box. Similar symptoms may instead be called **inducible laryngeal obstruction** or **vocal cord dysfunction** when a clinician diagnoses one of those specific conditions.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: How FND may affect speaking, voice, fluency, swallowing, coughing, or breathing. What mutism, dysphonia, stuttering, word blocking, globus, and other common terms mean. Why a person may sometimes speak or swallow more easily than at other times without choosing the difficulty. How rhythm, singing, automatic phrases, an external focus, or less effortful speech may sometimes help. How a speech-language pathologist may assess communication or swallowing and help retrain function. Why writing, gesture, communication cards, or devices may be needed when speech is difficult. Why supporters should give time and should not automatically finish every sentence. Why choking, possible aspiration, severe breathing trouble, or a new swallowing problem should not simply be assumed to be FND. When respiratory, ear-nose-throat, gastrointestinal, or swallowing assessment may be appropriate. Functional dysphonia, aphonia, dysarthria-like symptoms, mutism, stuttering, prosodic change, foreign-accent presentations, and language-access symptoms. Functional dysphagia, globus, cough, inducible laryngeal obstruction, and breathing-pattern disorder, including areas of overlap and diagnostic uncertainty. Positive clinical features, variability, automatic-voluntary dissociation, task effects, and response to symptomatic techniques. Differential diagnosis involving stroke, neurodegenerative disease, neuromuscular disease, structural laryngeal pathology, aspiration risk, and respiratory disease. Speech-language therapy principles involving education, automatic function, attention redirection, reducing excessive effort, graded communication, and self-management. Instrumental swallowing assessment and multidisciplinary evaluation when safety or nutrition is uncertain. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![A simple side view labels the nose, throat, voice box and lungs.](../../../assets/module-9-page-3-airway-locations.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Note that several different clinical problems are grouped in this module and do not necessarily share one mechanism or treatment. Identify limited controlled treatment research and uncertainty at the boundaries among functional symptoms, laryngeal disorders, and breathing-pattern conditions. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: a breathing sound or feeling does not show where the problem is; assessment helps locate it.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe words becoming blocked, voice fading or changing, stuttering, loss of speech, altered accent or rhythm, a lump sensation, swallowing difficulty, coughing, throat closure, or trouble coordinating breathing. Note that function may vary across automatic and deliberate tasks. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Prepare a communication card or alternative communication plan. Record swallowing or breathing questions for appropriate clinicians. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+Do not assume breathing trouble is FND. Use your emergency plan and seek appropriate help when breathing is new, severe, clearly changed or unsafe.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Which part of speech, voice, swallowing, or breathing is affected? What safety assessment is needed? Would a speech-language pathologist help? What communication alternative should be available? Which breathing changes require emergency help? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### What assessment may ask
+
+A clinician may consider asthma, allergy, infection, heart or lung disease, reflux, medication and structural or movement problems of the voice box. They may listen to when the sound occurs, check oxygen and breathing effort, examine the upper airway or arrange other tests.
+
+A functional diagnosis should be explained with positive evidence, not made only because initial tests were normal. (*citations* [1](#citation-1))
+
+### Treatment is specific to the pattern
+
+A speech and language professional or respiratory physiotherapist may teach breathing, cough-control, throat-release or attention strategies. These should be demonstrated for your assessed symptom. A technique that helps one upper-airway pattern may be wrong during another breathing problem.
+
+If a familiar episode begins, use only the plan or technique taught for you. Sit or position yourself as advised and reduce unnecessary talking or exertion. Do not delay urgent assessment to keep attempting an exercise.
+
+### Community experiences for review
+
+These accounts show different clinical pathways. They are lived experience, not instructions or proof of diagnosis.
+
+**Option 1 — breathing work with a physiotherapist**
+
+> “Breathing physiotherapy helped me a lot! It took months to gradually improve.”
+
+— The writer described gradual change; the specific diagnosis and exercise sequence still need source review. [Read the public source](https://www.reddit.com/r/FND/comments/1hkj97a/dae_just_stop_breathing/).
+
+**Option 2 — another upper-airway diagnosis**
+
+> “The doc says I have Vocal cord dysfunction.”
+
+— The writer described receiving a separate diagnosis and treatment. [Read the public source](https://www.reddit.com/r/FND/comments/1cl91gf/can_fnd_mimic_asthma_symptoms/).
+
+### Questions
+
+#### What feels most frightening during these symptoms: air hunger, the sound, loss of voice, uncertainty or other people’s reactions?
+
+#### Do you have a clear plan for what to try during a familiar episode and when to get more help?
+
+### One small thing you can do
+
+Write the name of your diagnosed breathing or airway pattern and the clinician-taught first action. A lower-demand version is to locate the plan.
+
+Do not practise breath-holding or copy a breathing exercise from this page. Seek appropriate help for unsafe, new or substantially changed breathing.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +71,9 @@ This is a focused authoring template within Module 9. Build the completed page a
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Cough, Breathing, and Upper-Airway Symptoms.” Develop the supporter guidance from these points: Allowing time and using agreed alternatives without automatically speaking for the person. Responding to breathing or swallowing danger rather than assuming it is functional. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Follow the person’s plan, help them reach the advised position or medicine, and keep the surroundings calm. Do not diagnose the sound or repeatedly instruct them to “just breathe.”
+
+Notice objective changes and whether this matches the usual pattern. If the plan does not fit or the situation seems unsafe, seek appropriate medical help.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +84,23 @@ This is a focused authoring template within Module 9. Build the completed page a
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Cover stroke, neuromuscular disease, neurodegeneration, structural throat or vocal-cord problems, aspiration, reflux, asthma, heart or lung disease, allergy, infection, and medication effects. Keep swallowing and breathing safety distinct from communication access. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Functional dysphagia, globus, cough, inducible laryngeal obstruction, and breathing-pattern disorder, including areas of overlap and diagnostic uncertainty. Differential diagnosis involving stroke, neurodegenerative disease, neuromuscular disease, structural laryngeal pathology, aspiration risk, and respiratory disease. Instrumental swallowing assessment and multidisciplinary evaluation when safety or nutrition is uncertain. Explain both the value and limitations of each step.
+**Option 1 — Baker et al., 2021**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Speech-language therapy principles involving education, automatic function, attention redirection, reducing excessive effort, graded communication, and self-management. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “cough and upper airway symptoms ... are commonly encountered by speech and language professionals.”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Highlight choking, possible aspiration, inability to manage fluids or nutrition, blue or grey colour, severe breathing distress, chest pain, new focal neurological signs, and a new or markedly changed swallowing or breathing problem. Avoid assuming a prior functional diagnosis makes these safe. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Baker et al., 2021**
+
+> “there are few descriptions in the literature of the most effective practical management approaches.”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1))*
+
+### Establish stability and phenotype before retraining
+
+Assess acute respiratory stability and relevant pulmonary, cardiac, allergic, infectious, reflux, medication and laryngeal causes. Distinguish cough, breathing-pattern disorder and inducible laryngeal obstruction rather than grouping every symptom under FND.
+
+When positive functional features support the diagnosis, demonstrate them respectfully and teach a symptom-specific technique. Coordinate speech and language, respiratory and medical care. The main FND source is consensus; explain that the comparative treatment evidence is limited. Continue safety planning and symptom relief when retraining does not help. (*citations* [1](#citation-1), [2](#citation-2))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,7 +110,7 @@ This is a focused authoring template within Module 9. Build the completed page a
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Thinking, Memory, and Dissociation](../../part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/README.md)
+**Continue:** [Next page: Communication Access When Speech or Voice Is Difficult](04-communication-access-when-speech-or-voice-is-difficult.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
@@ -67,6 +119,15 @@ This is a focused authoring template within Module 9. Build the completed page a
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Cough, Breathing, and Upper-Airway Symptoms”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+The main FND-specific source is expert consensus across related communication, swallowing, cough and upper-airway presentations. The emergency review supports fresh acute assessment but is not specific to functional breathing symptoms. (*citations* [1](#citation-1), [2](#citation-2))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+**Related reference pages:** [cough and upper-airway signs](../../../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) · [cough and upper-airway recovery ideas](../../../reference/recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md)
+
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
+| <a id="citation-2"></a>**[2]** | — | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
+
+This page still needs review by people with breathing or cough symptoms, respiratory clinicians and speech and language professionals.
+
+*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*

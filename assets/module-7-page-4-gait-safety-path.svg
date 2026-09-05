@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" role="img" aria-labelledby="title desc">
+  <title id="title">A safer walking route</title>
+  <desc id="desc">A route has clear space, suitable support, a rest point and an agreed response if a fall happens.</desc>
+  <rect width="900" height="320" rx="24" fill="#f7f5ef"/>
+  <text x="450" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Make the route support the person</text>
+  <path d="M70 225c135-120 245 60 380-45s230 40 375-55" fill="none" stroke="#d9f0e6" stroke-width="54" stroke-linecap="round"/>
+  <path d="M70 225c135-120 245 60 380-45s230 40 375-55" fill="none" stroke="#18765b" stroke-width="5" stroke-dasharray="14 10"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle" font-size="18" fill="#17324d">
+    <circle cx="145" cy="165" r="31" fill="#fff" stroke="#356f99" stroke-width="4"/><text x="145" y="160">Clear</text><text x="145" y="181">space</text>
+    <circle cx="360" cy="213" r="31" fill="#fff" stroke="#356f99" stroke-width="4"/><text x="360" y="208">Right</text><text x="360" y="229">aid</text>
+    <circle cx="575" cy="135" r="31" fill="#fff" stroke="#356f99" stroke-width="4"/><text x="575" y="141">Rest</text>
+    <circle cx="790" cy="142" r="31" fill="#fff" stroke="#356f99" stroke-width="4"/><text x="790" y="137">Fall</text><text x="790" y="158">plan</text>
+  </g>
+</svg>

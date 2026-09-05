@@ -1,26 +1,66 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 7: Movement, Weakness, and Gait Symptoms](README.md) › **Gait, Falls, and Movement Retraining**
+[Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 7: Movement, Weakness, and Gait Symptoms](README.md) › **Gait and Falls**
 <!-- NAV-BREADCRUMB:END -->
 
-# Gait, Falls, and Movement Retraining
+# Gait and Falls
 
-This is a focused authoring template within Module 7. Build the completed page around this scope: Explain functional gait patterns, knees giving way, freezing, imbalance, falls, external focus, rhythm, meaningful tasks, physiotherapy and occupational therapy, mobility aids, deconditioning, and safe progression.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+Walking can become slow, effortful, unsteady or unpredictable. A person may drag a leg, buckle, sway, freeze or fall. An unusual-looking walk is not a diagnosis by itself. (*citations* [1](#citation-1), [2](#citation-2))
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: Functional Movement Disorder; FMD; functional weakness; functional paralysis; functional gait disorder; tremor; jerks; dystonia; falls; Hoover’s sign. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Gait, Falls, and Movement Retraining.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Explain functional gait patterns, knees giving way, freezing, imbalance, falls, external focus, rhythm, meaningful tasks, physiotherapy and occupational therapy, mobility aids, deconditioning, and safe progression. The reader should not have to read the module overview first to understand the page.
+A **functional gait disorder** is a problem with walking caused by functional changes in movement control. **Gait** simply means the way a person walks.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: How FND can affect strength, walking, balance, posture, or movement. What tremor, jerks, spasms, dystonia, weakness, paralysis, and gait problems mean in ordinary language. Why movement may be easier in one situation and harder in another without being voluntary. How a clinician may find signs that normal movement is still possible but not being accessed reliably. The difference between automatic movement and movement that requires close conscious control. Why rhythm, distraction, an external target, or a meaningful activity may sometimes help movement. How an FND-informed physiotherapist or occupational therapist may help retrain movement and daily activities. Why pain, fatigue, fear of falling, and loss of conditioning may also need attention. How mobility aids may improve safety and access while still needing individual assessment and review. Functional weakness, tremor, myoclonus, dystonia, parkinsonism, gait disorders, and mixed motor presentations. Positive signs including Hoover’s sign, hip abductor sign, drift without pronation, entrainment, distractibility, variability, and incongruent gait patterns. Automatic versus explicit motor control, self-focused attention, agency, expectation, and motor prediction. Physiotherapy principles emphasizing education, movement retraining, external focus, automatic movement, task orientation, and self-management. Occupational analysis, environmental adaptation, graded participation, and cognitive or sensory load. Interactions with pain, fatigue, fear, falls, deconditioning, joint instability, and other neurological or musculoskeletal disease. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![A walking route includes clear space, a suitable aid, a rest point and an agreed fall plan.](../../../assets/module-7-page-4-gait-safety-path.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Explain that positive motor signs support diagnosis but do not reveal one universal cause. Note limited evidence for particular therapy ingredients, uncertain prediction of recovery, and research gaps for severe disability, pain, fixed dystonia, recurrent falls, and long-term wheelchair use. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: shape the route around the person’s safety and access needs.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe weakness, heaviness, limbs that will not respond, tremor, jerks, spasms, fixed postures, unusual walking, knees giving way, freezing, and falls. Explain that symptoms may change with task or attention without being consciously controlled. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Identify preserved or more automatic movements to discuss with a therapist. Create a safe practice and fall-response plan. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+Safety aids and movement retraining can be used together. You do not have to choose between living now and working toward change.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Which positive motor signs support FND? What preserved movement can rehabilitation build from? How will pain and fatigue be accommodated? What equipment is safe now? How and when will progress or changing symptoms be reassessed? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### How a diagnosis is supported
+
+A clinician looks for a pattern of positive signs across walking tasks, not whether the gait appears unusual. The pattern may change with speed, rhythm, direction, support, attention or a more automatic task. Functional and other gait disorders can coexist. (*citations* [1](#citation-1))
+
+Falls may have many causes, including weakness, balance problems, fainting, seizures, medication effects and environmental hazards. Some people have sudden functional drop attacks. The event needs its own assessment.
+
+### Reduce harm without shrinking life
+
+Consider footwear, lighting, clear routes, rails, a correctly fitted aid and a plan for difficult places. A physiotherapist or occupational therapist can help judge what support is safe. Avoid removing an aid simply to force a more normal walk.
+
+The next page explains why rehabilitation may use rhythm, a destination or another task instead of asking you to think harder about every step.
+
+### Community experiences for review
+
+These accounts show improvement and non-response. Both belong in an honest course.
+
+**Option 1 — gait improved with therapy**
+
+> “It was described as a severe ataxic gait. Physical therapy was what helped me recover.”
+
+— The writer identified gait as the defining early FND feature. [Read the public source](https://www.reddit.com/r/FND/comments/wzfpye/how_does_fnd_affect_your_walk/).
+
+**Option 2 — specialist care did not restore walking**
+
+> “They spent 6 weeks at Re-Active, which did nothing to help them regain their ability to walk.”
+
+— A supporter described no walking recovery after an intensive program. [Read the public source](https://www.reddit.com/r/FND/comments/1kchl1l/how_to_get_out_of_paralysis_epsiode/).
+
+### Questions
+
+#### Where do you feel least safe while walking, and what would make that place easier?
+
+#### What matters more to you right now: fewer falls, less effort, greater distance or access to one place?
+
+### One small thing you can do
+
+Choose one route you use often and remove one avoidable hazard. A lower-demand version is to ask someone to look at the route with you.
+
+Do not practise a difficult walking pattern alone or without the aid you need. New falls, blackout, injury or a major change needs assessment.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +71,9 @@ This is a focused authoring template within Module 7. Build the completed page a
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Gait, Falls, and Movement Retraining.” Develop the supporter guidance from these points: Using only agreed cues. Supporting safe independence without pulling, forcing, or repeatedly testing strength. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Ask how the person wants help before reaching for them. Unexpected pulling can disturb balance. Keep aids available, reduce hazards and walk at the person’s pace.
+
+Do not judge severity by how unusual the gait looks. Notice actual falls, near-falls, injuries, loss of awareness and meaningful changes. Support participation without turning every trip into a walking test.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +84,23 @@ This is a focused authoring template within Module 7. Build the completed page a
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Mention stroke, multiple sclerosis, Parkinson’s disease, epilepsy, spinal or nerve disease, muscle and joint problems, medication effects, vestibular disorders, and injury as examples requiring symptom-specific assessment. Make coexistence with FND explicit. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Positive signs including Hoover’s sign, hip abductor sign, drift without pronation, entrainment, distractibility, variability, and incongruent gait patterns. Individual assessment of orthoses, walking aids, wheelchairs, and transfer strategies, avoiding blanket pro- or anti-equipment rules. Outcome measurement involving function, participation, falls, confidence, endurance, and quality of movement—not normal appearance alone. Explain both the value and limitations of each step.
+**Option 1 — Nonnekes et al., 2020**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Physiotherapy principles emphasizing education, movement retraining, external focus, automatic movement, task orientation, and self-management. Individual assessment of orthoses, walking aids, wheelchairs, and transfer strategies, avoiding blanket pro- or anti-equipment rules. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “there is not a single pathognomonic gait pattern”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Flag new one-sided weakness, injury after a fall, new bowel or bladder change, severe new pain, sudden loss of function, or a motor pattern that differs substantially from the established presentation. Link to individualized medical advice rather than using a generic checklist as diagnosis. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Hoeritzauer et al., 2018**
+
+> “evidence of overlap with functional neurological disorder”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+
+### Use a sign-based assessment and a safety-based plan
+
+Assess inconsistency and incongruity across relevant tasks while considering neurological, vestibular, musculoskeletal, cardiovascular and medication-related causes. A bizarre appearance is neither necessary nor sufficient. Functional and organic gait disorders may coexist. (*citations* [1](#citation-1))
+
+Characterize falls separately: buckling, imbalance, loss of consciousness, seizure-related falls and drop attacks imply different questions. Match aids and supervision to actual risk and participation goals. When teaching a positive sign, connect it to a treatment possibility without withdrawing needed access.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,7 +110,7 @@ This is a focused authoring template within Module 7. Build the completed page a
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Sensory, Visual, Balance, and Dizziness Symptoms](../module-08-sensory-visual-balance-and-dizziness-symptoms/README.md)
+**Continue:** [Next page: How Movement Retraining Works](05-how-movement-retraining-works.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
@@ -67,6 +119,15 @@ This is a focused authoring template within Module 7. Build the completed page a
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Gait, Falls, and Movement Retraining”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+The gait article offers a clinical sign-based approach. The drop-attack cohort supports overlap in a selected group, not a functional explanation for every unexplained fall. (*citations* [1](#citation-1), [2](#citation-2))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+**Related reference pages:** [gait signs](../../../reference/diagnostic-signs/05-functional-gait-disorder.md) · [gait recovery ideas](../../../reference/recovery-techniques/05-functional-gait-disorder.md) · [drop-attack signs](../../../reference/diagnostic-signs/16-functional-drop-attacks.md) · [drop-attack recovery ideas](../../../reference/recovery-techniques/16-functional-drop-attacks.md)
+
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. [FND-CIT-0020](../../../research/citation-index.md#fnd-cit-0020). [https://doi.org/10.1212/WNL.0000000000009649](https://doi.org/10.1212/WNL.0000000000009649) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. [FND-CIT-0059](../../../research/citation-index.md#fnd-cit-0059). [https://doi.org/10.1136/jnnp-2017-317396](https://doi.org/10.1136/jnnp-2017-317396) |
+
+This page still needs review by people with gait symptoms or falls, physiotherapists and relevant medical specialists.
+
+*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*

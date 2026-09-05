@@ -4,23 +4,63 @@
 
 # Functional Dystonia and Fixed Postures
 
-This is a focused authoring template within Module 7. Build the completed page around this scope: Explain abnormal postures, fixed or painful positions, overlap with other dystonias and pain, uncertainty about mechanisms and prognosis, skin or joint risks, equipment questions, and cautious individualized rehabilitation.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+A foot, hand, jaw, face or another body part may pull into a painful posture or feel stuck there. Functional dystonia is one possible explanation, but posture alone does not decide the diagnosis. (*citations* [1](#citation-1))
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: Functional Movement Disorder; FMD; functional weakness; functional paralysis; functional gait disorder; tremor; jerks; dystonia; falls; Hoover’s sign. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Functional Dystonia and Fixed Postures.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Explain abnormal postures, fixed or painful positions, overlap with other dystonias and pain, uncertainty about mechanisms and prognosis, skin or joint risks, equipment questions, and cautious individualized rehabilitation. The reader should not have to read the module overview first to understand the page.
+**Dystonia** means sustained or repeated muscle activity that causes twisting, movement or an unusual posture. In **functional dystonia**, a clinician finds positive signs in the movement itself that show control is working differently across tasks.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: How FND can affect strength, walking, balance, posture, or movement. What tremor, jerks, spasms, dystonia, weakness, paralysis, and gait problems mean in ordinary language. Why movement may be easier in one situation and harder in another without being voluntary. How a clinician may find signs that normal movement is still possible but not being accessed reliably. The difference between automatic movement and movement that requires close conscious control. Why rhythm, distraction, an external target, or a meaningful activity may sometimes help movement. How an FND-informed physiotherapist or occupational therapist may help retrain movement and daily activities. Why pain, fatigue, fear of falling, and loss of conditioning may also need attention. How mobility aids may improve safety and access while still needing individual assessment and review. Functional weakness, tremor, myoclonus, dystonia, parkinsonism, gait disorders, and mixed motor presentations. Positive signs including Hoover’s sign, hip abductor sign, drift without pronation, entrainment, distractibility, variability, and incongruent gait patterns. Automatic versus explicit motor control, self-focused attention, agency, expectation, and motor prediction. Physiotherapy principles emphasizing education, movement retraining, external focus, automatic movement, task orientation, and self-management. Occupational analysis, environmental adaptation, graded participation, and cognitive or sensory load. Interactions with pain, fatigue, fear, falls, deconditioning, joint instability, and other neurological or musculoskeletal disease. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![A curved limb rests on soft supports while a stop symbol marks forceful straightening.](../../../assets/module-7-page-3-supported-dystonia.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Explain that positive motor signs support diagnosis but do not reveal one universal cause. Note limited evidence for particular therapy ingredients, uncertain prediction of recovery, and research gaps for severe disability, pain, fixed dystonia, recurrent falls, and long-term wheelchair use. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: protect comfort and safety; do not force a painful posture straight.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe weakness, heaviness, limbs that will not respond, tremor, jerks, spasms, fixed postures, unusual walking, knees giving way, freezing, and falls. Explain that symptoms may change with task or attention without being consciously controlled. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Identify preserved or more automatic movements to discuss with a therapist. Create a safe practice and fall-response plan. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+Do not force a painful fixed posture back into place. Support the body part and use only gentle changes taught for you.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Which positive motor signs support FND? What preserved movement can rehabilitation build from? How will pain and fatigue be accommodated? What equipment is safe now? How and when will progress or changing symptoms be reassessed? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### What assessment may include
+
+Clinicians consider how the posture began, whether it was sudden or gradual, pain, swelling, injury, medication and other neurological conditions. Functional and other forms of dystonia can resemble one another, and treatment can differ. (*citations* [1](#citation-1))
+
+A functional pattern may be fixed early, vary across tasks or occur with other functional symptoms. These features belong in a specialist assessment; they are not a checklist for diagnosing yourself.
+
+### Care can have more than one goal
+
+Treatment may work on comfort, skin and joint protection, movement options, daily tasks and participation. Physiotherapy, occupational therapy, speech therapy or psychological support may be used according to the body area and the person’s goals.
+
+When change is slow, pain relief, splint review, footwear, seating, personal care and access still deserve attention. Aggressive stretching, repeated painful testing or a poorly fitted device can make things harder.
+
+### Community experiences for review
+
+These experiences show partial improvement rather than a guaranteed cure.
+
+**Option 1 — therapy helped facial control**
+
+> “With PT I managed to get my face under control.”
+
+— The writer discussed facial dystonia and later treatment questions. [Read the public source](https://www.reddit.com/r/FND/comments/1q94cj6/botox_and_facial_dystonia/).
+
+**Option 2 — symptoms remained variable**
+
+> “It feels like I am stuck in a sit-up and like I am wearing the tightest belt.”
+
+— The writer described the lived sensation of prolonged spasm and posture. [Read the public source](https://www.reddit.com/r/FND/comments/1jcjqlv/spasming/).
+
+### Questions
+
+#### What is the hardest part for you: pain, the position itself, unpredictability, appearance or loss of an activity?
+
+#### Does anyone try to move the body part in a way that feels unsafe or takes away your control?
+
+### One small thing you can do
+
+Find the most supported, least forced position that is already safe for you. A lower-demand version is to note where pressure or friction occurs so you can show a clinician.
+
+Stop if pain, colour, temperature, swelling or injury worsens. New fixed posturing or a major change needs reassessment.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +71,9 @@ This is a focused authoring template within Module 7. Build the completed page a
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Functional Dystonia and Fixed Postures.” Develop the supporter guidance from these points: Using only agreed cues. Supporting safe independence without pulling, forcing, or repeatedly testing strength. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Ask before touching or repositioning the person. Support the affected part as agreed, reduce nearby hazards and help with the task—not by overpowering the posture.
+
+Notice pain, skin pressure, swelling and function. Avoid comments about how the posture looks. Help the person seek reassessment when the pattern or physical condition of the limb changes.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +84,23 @@ This is a focused authoring template within Module 7. Build the completed page a
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Mention stroke, multiple sclerosis, Parkinson’s disease, epilepsy, spinal or nerve disease, muscle and joint problems, medication effects, vestibular disorders, and injury as examples requiring symptom-specific assessment. Make coexistence with FND explicit. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Positive signs including Hoover’s sign, hip abductor sign, drift without pronation, entrainment, distractibility, variability, and incongruent gait patterns. Individual assessment of orthoses, walking aids, wheelchairs, and transfer strategies, avoiding blanket pro- or anti-equipment rules. Outcome measurement involving function, participation, falls, confidence, endurance, and quality of movement—not normal appearance alone. Explain both the value and limitations of each step.
+**Option 1 — Frucht et al., 2021**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Physiotherapy principles emphasizing education, movement retraining, external focus, automatic movement, task orientation, and self-management. Individual assessment of orthoses, walking aids, wheelchairs, and transfer strategies, avoiding blanket pro- or anti-equipment rules. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “distinguishing between FD and OD is important, as the management of these disorders is distinct.”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Flag new one-sided weakness, injury after a fall, new bowel or bladder change, severe new pain, sudden loss of function, or a motor pattern that differs substantially from the established presentation. Link to individualized medical advice rather than using a generic checklist as diagnosis. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Nielsen et al., 2015**
+
+> “Patients with functional motor disorder ... are commonly referred to physiotherapists.”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+
+### Protect first, then seek useful variability
+
+Differentiate functional dystonia from isolated, combined and secondary dystonias; assess pain, complex regional pain syndrome features, medication effects, contracture and coexisting disease. Do not infer diagnosis from fixed posture alone. (*citations* [1](#citation-1))
+
+Use supported positioning and gentle, task-relevant exploration. Avoid forced correction that increases pain or threat. Coordinate skin, joint, footwear, splint, seating and self-care needs. Where botulinum toxin or another intervention is considered, explain its specific target, uncertainty and risks rather than using treatment response to prove diagnosis.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,7 +110,7 @@ This is a focused authoring template within Module 7. Build the completed page a
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Gait, Falls, and Movement Retraining](04-gait-falls-and-movement-retraining.md)
+**Continue:** [Next page: Gait and Falls](04-gait-falls-and-movement-retraining.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
@@ -67,6 +119,15 @@ This is a focused authoring template within Module 7. Build the completed page a
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Functional Dystonia and Fixed Postures”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+The dystonia review describes recognized presentations, diagnostic difficulty and multidisciplinary care. The physiotherapy source is professional consensus, not proof that a particular technique will help every fixed posture. (*citations* [1](#citation-1), [2](#citation-2))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+**Related reference pages:** [dystonia signs](../../../reference/diagnostic-signs/04-functional-dystonia.md) · [dystonia recovery ideas](../../../reference/recovery-techniques/04-functional-dystonia.md)
+
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [FND-CIT-0021](../../../research/citation-index.md#fnd-cit-0021). [https://doi.org/10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
+
+This page still needs review by people with dystonia, movement-disorder clinicians and rehabilitation professionals.
+
+*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*
