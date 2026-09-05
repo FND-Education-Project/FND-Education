@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Four filters for a neuroplasticity claim</title>
+  <desc id="desc">Four numbered boxes ask what is offered, what evidence supports it, whether it fits this person, and how benefit and harm will be reviewed. A note says the brain can change is only the start.</desc>
+  <rect width="900" height="330" rx="24" fill="#eef5f7"/>
+  <text x="450" y="44" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Put a “rewiring” claim through four filters</text>
+  <g font-family="Arial, sans-serif" fill="#17324d" text-anchor="middle">
+    <rect x="50" y="78" width="380" height="78" rx="17" fill="#fff" stroke="#2e6e9e" stroke-width="3"/><text x="240" y="109" font-size="18" font-weight="700">1. What is actually offered?</text><text x="240" y="136" font-size="16">activity · provider · amount · goal</text>
+    <rect x="470" y="78" width="380" height="78" rx="17" fill="#fff" stroke="#18785b" stroke-width="3"/><text x="660" y="109" font-size="18" font-weight="700">2. What evidence supports it?</text><text x="660" y="136" font-size="16">people · comparison · outcome · follow-up</text>
+    <rect x="50" y="178" width="380" height="78" rx="17" fill="#fff" stroke="#7350a0" stroke-width="3"/><text x="240" y="209" font-size="18" font-weight="700">3. Does it fit this person?</text><text x="240" y="236" font-size="16">diagnoses · access · preferences · response</text>
+    <rect x="470" y="178" width="380" height="78" rx="17" fill="#fff0c7" stroke="#a86700" stroke-width="3"/><text x="660" y="209" font-size="18" font-weight="700">4. How will it be reviewed?</text><text x="660" y="236" font-size="16">benefit · burden · harm · stopping point</text>
+  </g>
+  <text x="450" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#17324d">“The brain can change” starts the check; it does not finish it.</text>
+</svg>

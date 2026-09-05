@@ -1,26 +1,70 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 13: Building an Individual Treatment Team](README.md) › **Who May Be on the Treatment Team**
+[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 13](README.md) › **Who May Be on the Treatment Team**
 <!-- NAV-BREADCRUMB:END -->
 
 # Who May Be on the Treatment Team
 
-This is a focused authoring template within Module 13. Build the completed page around this scope: Explain possible roles for neurology, primary care, physiotherapy, occupational therapy, speech-language therapy, psychology, psychiatry, neuropsychology, rehabilitation, pain, migraine, sleep, and other specialists; keep responsibilities distinct and individualized.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+FND care may involve more than one kind of professional. That does not mean everyone needs a large team.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND treatment team; multidisciplinary FND care; neurologist; physiotherapy; occupational therapy; speech-language therapy; psychology; neuropsychology; rehabilitation. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Who May Be on the Treatment Team.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Explain possible roles for neurology, primary care, physiotherapy, occupational therapy, speech-language therapy, psychology, psychiatry, neuropsychology, rehabilitation, pain, migraine, sleep, and other specialists; keep responsibilities distinct and individualized. The reader should not have to read the module overview first to understand the page.
+A **treatment team** is the person with FND and the professionals who have agreed roles in their care. The right team depends on the person's symptoms, other conditions, goals and access.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: Why FND care may involve more than one kind of healthcare professional. How a neurologist may diagnose FND and help explain the positive signs. How primary care may coordinate general health, medications, referrals, and new symptoms. How physiotherapy, occupational therapy, and speech-language therapy may address different functional problems. How psychology, psychiatry, or neuropsychology may help when their skills match the person’s needs. Why pain, migraine, sleep, rehabilitation, or other specialists may treat separate but interacting problems. Why each clinician’s job should be clear so important needs do not fall between services. Questions that can help identify whether a clinician understands modern FND care. Options when no local FND clinic exists, including a local clinician using specialist guidance. Diagnostic ownership, longitudinal neurological review, primary-care coordination, and multidisciplinary or interdisciplinary models. Discipline-specific competencies in FND physiotherapy, occupational therapy, speech-language therapy, neuropsychology, psychology, psychiatry, and rehabilitation medicine. Management of comorbid neurological, psychiatric, pain, migraine, sleep, and systemic conditions without fragmenting care. Shared formulation, role clarity, referral quality, and communication across services. Stepped-care, consultation, telehealth, hub-and-spoke, and capacity-building models where specialist programs are unavailable. Treatment selection based on phenotype, severity, readiness, access, comorbidity, disability, and patient goals rather than diagnosis alone. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![The person with FND is at the centre while diagnosis and review, daily function, communication, emotional health and other conditions are possible areas of care.](../../../assets/module-13-page-1-team-roles.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Discuss limited evidence about the best team design, sequence, intensity, and duration of care. Note that access, geography, disability, clinician knowledge, cost, and comorbidity often determine treatment more than published ideal models. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: the person is central. Team members are chosen for a need, not added because every person with FND must see them.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe the practical reality of seeing several clinicians, repeating the same history, receiving conflicting explanations, or having no specialist service nearby. Explain that the person needs clear roles and coordination, not simply a longer list of referrals. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Build a care-team map showing confirmed responsibilities, gaps, and next questions. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+You do not have to collect every specialist. A smaller team with clear jobs may be more useful than many referrals that do not connect.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Who owns the diagnosis and follow-up? Who handles new symptoms and medication? Which therapist has FND-specific knowledge? How will clinicians communicate? What can be done if specialist care is unavailable? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### Different professionals do different work
+
+- A **neurologist** may make or review the diagnosis, explain positive signs and reconsider important changes.
+- A **primary-care clinician** may look after general health, medicines, referrals and ongoing coordination.
+- A **physiotherapist** may work on movement, balance or physical activity.
+- An **occupational therapist** may work on daily tasks, routines, access, equipment and participation.
+- A **speech and language therapist** may assess and treat communication, swallowing, cough or upper-airway problems.
+- A **psychologist, psychiatrist or neuropsychologist** may help when their skills match the person's goals, distress, thinking needs or a separate mental-health condition.
+- Pain, migraine, sleep, rehabilitation or other specialists may treat a confirmed or suspected condition in their own area.
+
+These are possible roles, not a prescription. One clinician may cover more than one role, and a needed professional may not be locally available. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+### FND does not own every health problem
+
+Another illness can exist alongside FND. New, severe or substantially changed symptoms still deserve proportionate assessment. A referral should answer a real question or offer relevant treatment—not move responsibility away because the patient has FND.
+
+There is no cure that reliably removes FND for everyone. Treatment may reduce symptoms, improve safety or help a person participate more, but response varies and lack of improvement is not a failure of effort.
+
+### Community experiences for review
+
+These accounts show why both access and useful rehabilitation matter.
+
+**Option 1 — services felt disconnected**
+
+> “I feel like we are on an island and none of these specialists seem to understand this disorder.”
+
+— A parent described trying to help a recently diagnosed daughter. [Read the public source](https://www.reddit.com/r/FND/comments/16iyjst/dad_helping_recently_diagnosed_daughter/).
+
+**Option 2 — two disciplines helped**
+
+> “Physical and occupational therapy helped me a lot.”
+
+— One person described their own experience; it does not predict another person's response. [Read the public source](https://www.reddit.com/r/FND/comments/q3hz2r/im_so_embarrassed/).
+
+### Questions
+
+#### Which health or daily-life problem most needs a named person responsible for it?
+
+#### Does your current care feel like a team, separate appointments, or something else?
+
+### One small thing you can do
+
+Write one line: **“The person I contact about ___ is ___.”** A lower-demand version is to name the gap without solving it.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +75,9 @@ This is a focused authoring template within Module 13. Build the completed page 
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Who May Be on the Treatment Team.” Develop the supporter guidance from these points: Attending when invited as a witness and memory aid. Supporting coordination without taking control from the person. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Ask what role the person wants you to have. You might take notes, help carry information between appointments or notice an access problem. Do not become the treatment supervisor or assume that more appointments must be better.
+
+Help keep other diagnoses and ordinary healthcare visible. If a symptom is new, severe, injured or meaningfully different, follow the person's safety plan and seek appropriate assessment rather than deciding it is “just FND.”
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +88,23 @@ This is a focused authoring template within Module 13. Build the completed page 
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. This is not a symptom-differential page. Use the section to distinguish problems that belong with neurology, primary care, rehabilitation, mental health, pain, migraine, sleep, or another specialty, while warning that responsibility should not be shifted away merely because FND is present. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Diagnostic ownership, longitudinal neurological review, primary-care coordination, and multidisciplinary or interdisciplinary models. Treatment selection based on phenotype, severity, readiness, access, comorbidity, disability, and patient goals rather than diagnosis alone. Explain both the value and limitations of each step.
+**Option 1 — Lehn et al., 2025**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Diagnostic ownership, longitudinal neurological review, primary-care coordination, and multidisciplinary or interdisciplinary models. Discipline-specific competencies in FND physiotherapy, occupational therapy, speech-language therapy, neuropsychology, psychology, psychiatry, and rehabilitation medicine. Management of comorbid neurological, psychiatric, pain, migraine, sleep, and systemic conditions without fragmenting care. Stepped-care, consultation, telehealth, hub-and-spoke, and capacity-building models where specialist programs are unavailable. Treatment selection based on phenotype, severity, readiness, access, comorbidity, disability, and patient goals rather than diagnosis alone. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “requires a comprehensive, multidisciplinary approach”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Explain that the care map should be reviewed when symptoms change, a referral is declined, clinicians give incompatible plans, treatment causes harm, medications change, or no professional is responsible for an important problem. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Nicholson et al., 2020**
+
+> “rehabilitation within functional activity”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+
+### Build around needs and ownership
+
+Identify the symptom phenotype, comorbidities, disability, risks, patient goals and barriers before assigning disciplines. Record who owns diagnostic review, new-symptom assessment, medication, rehabilitation and communication. The patient should not have to infer this from a referral list.
+
+Recommendations for multidisciplinary care largely combine discipline-specific evidence with expert consensus. Team size, sequence, intensity and duration have not been established for every presentation. Coordinate a workable local plan and retain continuity when a referral is declined or treatment does not help. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,15 +114,24 @@ This is a focused authoring template within Module 13. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Coordination, Shared Goals, and Care Without Local Specialists](02-coordination-shared-goals-and-care-without-local-specialists.md)
+**Continue:** [Next page: Shared Goals and Clear Responsibilities](02-coordination-shared-goals-and-care-without-local-specialists.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Who May Be on the Treatment Team”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+These sources support need-based multidisciplinary care and distinguish professional roles. Much of the role guidance is consensus rather than comparative evidence for one ideal team. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-3"></a>**[3]** | — | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
+| <a id="citation-4"></a>**[4]** | — | Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4):e00612. [FND-CIT-0013](../../../research/citation-index.md#fnd-cit-0013). [https://doi.org/10.1016/j.neurot.2025.e00612](https://doi.org/10.1016/j.neurot.2025.e00612) |
+
+This page still needs review by people with FND, clinicians from different disciplines, supporters and accessibility reviewers.
+
+*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*

@@ -1,26 +1,62 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 15: Pacing, Activity, and Boom-and-Bust](README.md) › **Understanding Load, Baselines, and Boom-and-Bust**
+[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 15](README.md) › **Understanding Load, Baselines, and Boom-and-Bust**
 <!-- NAV-BREADCRUMB:END -->
 
 # Understanding Load, Baselines, and Boom-and-Bust
 
-This is a focused authoring template within Module 15. Build the completed page around this scope: Explain physical, cognitive, emotional, sensory, and upright load; repeatable baselines; overactivity and underactivity; delayed worsening; deconditioning; post-exertional symptom exacerbation; and why one model does not fit everyone.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+Activity is not only exercise. Thinking, speaking, sensory input, appointments, emotions, pain and ordinary care can all take effort.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND pacing; boom-and-bust cycle; activity baseline; energy management; post-exertional worsening; graded activity; restorative rest; symptom flare. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Understanding Load, Baselines, and Boom-and-Bust.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Explain physical, cognitive, emotional, sensory, and upright load; repeatable baselines; overactivity and underactivity; delayed worsening; deconditioning; post-exertional symptom exacerbation; and why one model does not fit everyone. The reader should not have to read the module overview first to understand the page.
+**Load** is the combined demand of an activity and its setting. A **baseline** is a practical estimate of what is usually manageable now. **Boom-and-bust** describes doing much more on a better day and then losing activity during a flare or recovery period.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: What pacing means: planning activity and recovery around the person’s present capacity. Why physical, thinking, emotional, and sensory activities can all use energy. What a boom-and-bust pattern is: doing too much on a better day and then losing function during the following worsening. How to find a starting level that is possible often enough to be useful. Why flexible ranges may work better than rigid daily targets when symptoms vary. How restorative rest differs from giving up every activity or staying isolated. Why rehabilitation practice, necessary daily tasks, and enjoyable activity all count toward the total load. How to reduce or change a plan after a flare without treating it as failure. Why some people can gradually build capacity while others experience delayed or prolonged worsening that requires a different approach. Activity baselines, energy envelopes, quota-contingent versus symptom-contingent approaches, and flexible planning. Physical, cognitive, emotional, orthostatic, and sensory load, including delayed symptom responses. Boom-and-bust cycles, fear avoidance, deconditioning, overactivity, and the danger of assuming one mechanism in every patient. Distinguishing graded rehabilitation from fixed-increment graded exercise. Post-exertional symptom exacerbation and comorbid conditions that may make standard progression unsuitable. Monitoring function and recovery with the smallest measurement burden that can guide decisions. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![One line has high activity peaks followed by deep drops, while another shows smaller flexible amounts with planned space. Neither line is a moral score.](../../../assets/module-15-page-1-boom-bust.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. State that FND-specific pacing research is limited and that evidence is often borrowed from pain, fatigue, or rehabilitation fields. Note disagreement over symptom-contingent and quota-based approaches and the danger of fixed progression for people with prolonged delayed worsening. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: the lines describe patterns to investigate. They do not measure effort, character or how ill someone “should” be.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe better days followed by overactivity, delayed worsening, guilt about rest, unpredictable capacity, and the difficulty of balancing necessary tasks with rehabilitation and enjoyable life. Include physical, thinking, emotional, sensory, and upright activity as forms of load. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Create a flexible activity range and a simple plan for high-, medium-, and low-capacity days. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+A baseline is not your maximum and not a life sentence. It is a temporary starting estimate that can change with symptoms, sleep, illness, support and the kind of task.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: What counts toward my total load? Is worsening immediate or delayed? What baseline is repeatable? How flexible may the plan be? What condition might make standard graded activity unsuitable? What indicates progress or need for review? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### The same task can carry different load
+
+A shower may include standing, heat, balance, arm movement, sensory input, decisions and dressing afterward. A conversation may include listening, finding words, emotion and background noise. Naming the parts can reveal an adaptation that a simple “do less” instruction misses.
+
+Different conditions also matter. Post-exertional malaise in ME/CFS, migraine, pain, orthostatic intolerance and FND symptoms may need different assessment and planning. Research on pacing in ME/CFS cannot automatically be treated as FND treatment evidence. (*citations* [1](#citation-1), [2](#citation-2))
+
+### “Boom-and-bust” is not blame
+
+People may use a better day to meet essential needs, care for someone, earn income or do something meaningful. The later worsening may be delayed and was not necessarily predictable. The phrase is only useful if it helps reveal choices or supports; it should not turn a constrained decision into personal fault.
+
+### Community experiences for review
+
+These accounts describe the attraction of a good day and the fact that symptoms are not simply switched off by attention.
+
+**Option 1 — the later crash**
+
+> “I feel good, I’ll do it all—only to crash out later and feel awful.”
+
+— One person's account of exercise and FND. [Read the public source](https://www.reddit.com/r/FND/comments/1qlwz51/exercise_and_fnd/).
+
+**Option 2 — symptoms and attention are not an on-off switch**
+
+> “Thinking about my symptoms can trigger or worsen them, but they don’t just go away if I ignore them.”
+
+— One person's explanation of their experience. [Read the public source](https://www.reddit.com/r/FND/comments/1hypc8n/how_i_explain_fnd_to_others_and_how_i_wish_it_was/).
+
+### Questions
+
+#### Which ordinary activity contains more kinds of effort than other people may see?
+
+#### When you have a better spell, what feels most important to use it for?
+
+### One small thing you can do
+
+Choose one task and name two kinds of load inside it. Stop there; this is not a request to track your whole day.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +67,9 @@ This is a focused authoring template within Module 15. Build the completed page 
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Understanding Load, Baselines, and Boom-and-Bust.” Develop the supporter guidance from these points: Helping plan without policing. Noticing agreed early overload signs without making assumptions. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Ask what part of a task costs the most rather than judging it by distance or time. Driving, noise, decision-making or recovery afterward may matter more than the visible action.
+
+Do not use “boom-and-bust” to scold someone for enjoying a better day. Help create choices: split a task, remove one demand, provide transport, protect recovery time or accept that a valued activity may still be worth a cost the person understands.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +80,23 @@ This is a focused authoring template within Module 15. Build the completed page 
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Distinguish ordinary tiredness, deconditioning, pain-related avoidance, medication effects, sleep disorders, orthostatic problems, and post-exertional symptom exacerbation. Explain that these may require different activity plans even when they look like low tolerance. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Monitoring function and recovery with the smallest measurement burden that can guide decisions. Explain both the value and limitations of each step.
+**Option 1 — Nicholson et al., 2020**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Distinguishing graded rehabilitation from fixed-increment graded exercise. Evidence gaps for FND-specific pacing and the limits of transferring models from chronic pain, fatigue, or rehabilitation populations. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “physical rehabilitation through guided activity practise”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Advise review when activity repeatedly produces prolonged deterioration, fainting, injury, major sleep disruption, new cardiopulmonary symptoms, or loss of a previously stable baseline. A plan that continually worsens health is not automatically therapeutic. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Sanal-Hayes et al., 2023**
+
+> “a definitive definition of pacing is not unanimous”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+
+### Form a description before prescribing change
+
+Clarify the phenotype, comorbidities, task demands, immediate and delayed response, supports and reasons an activity matters. Do not infer capacity from one clinic observation or a better day. Separate FND rehabilitation principles from disease-specific energy management.
+
+Pacing language and evidence are heterogeneous. The ME/CFS review included varied designs and outcomes and is not FND-specific. Use baseline and boom-and-bust as collaborative working descriptions, not validated measurements or explanations of cause. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,15 +106,23 @@ This is a focused authoring template within Module 15. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Planning Activity, Rest, and Capacity Changes](02-planning-activity-rest-and-capacity-changes.md)
+**Continue:** [Next page: Plan Activity, Rest, and Capacity Changes](02-planning-activity-rest-and-capacity-changes.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Understanding Load, Baselines, and Boom-and-Bust”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+The sources support individualized activity planning and show that pacing is inconsistently defined and studied. The pacing review concerns ME/CFS, not FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Sanal-Hayes NEM, McLaughlin M, Hayes LD, et al. A scoping review of “pacing” for management of myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS): lessons learned for the long COVID pandemic. *Journal of Translational Medicine*. 2023;21:720. [FND-CIT-0066](../../../research/citation-index.md#fnd-cit-0066). [https://doi.org/10.1186/s12967-023-04587-5](https://doi.org/10.1186/s12967-023-04587-5) |
+| <a id="citation-3"></a>**[3]** | — | Thomas ST, Thomas ET, Schembri E, Lehn AC, Palmer DDG. Treatment outcomes in functional neurological disorder: a systematic review and meta-analysis exploring the influence of symptom chronicity. *BMJ Neurology Open*. 2025;7(2):e001150. [FND-CIT-0051](../../../research/citation-index.md#fnd-cit-0051). [https://doi.org/10.1136/bmjno-2025-001150](https://doi.org/10.1136/bmjno-2025-001150) |
+
+This page still needs review by people with variable capacity, occupational therapists, clinicians in FND and coexisting conditions, and accessibility reviewers.
+
+*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*

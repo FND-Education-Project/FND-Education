@@ -12,6 +12,14 @@
 
 Explain rehabilitation learning while correcting claims that neuroplasticity guarantees recovery.
 
+## Focused lesson split
+
+- [How FND Rehabilitation May Work](../../../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/01-how-fnd-rehabilitation-may-work.md)
+- [Build a Safe Practice Plan](../../../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/02-building-a-safe-practice-plan-and-evaluating-neuroplasticity-claims.md)
+- [Evaluate Neuroplasticity and “Rewiring” Claims](../../../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/03-evaluating-neuroplasticity-and-rewiring-claims.md)
+
+The claim-checking material has its own page so a symptomatic reader does not have to evaluate marketing claims while first learning how to plan practice.
+
 ## Essential knowledge
 
 - What rehabilitation means: practising ways to make useful functions easier, safer, and more reliable.
@@ -41,6 +49,7 @@ This section should focus on how clinicians can help the patient understand the 
 ## Practical work
 
 - Choose one functional goal and define a small, repeatable practice with stop and review criteria.
+- Put one neuroplasticity claim through an evidence, fit, benefit and harm check.
 
 ## Support-person focus
 

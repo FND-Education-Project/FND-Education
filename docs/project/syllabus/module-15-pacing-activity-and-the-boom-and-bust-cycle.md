@@ -12,6 +12,14 @@
 
 Help readers plan activity amid variable symptoms while being honest about limited FND-specific pacing research.
 
+## Focused lesson split
+
+- [Understanding Load, Baselines, and Boom-and-Bust](../../../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/01-understanding-load-baselines-and-boom-and-bust.md)
+- [Plan Activity, Rest, and Capacity Changes](../../../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/02-planning-activity-rest-and-capacity-changes.md)
+- [Review Delayed Worsening and Change the Plan](../../../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/03-reviewing-delayed-worsening-and-changing-the-plan.md)
+
+Delayed worsening and post-flare review have their own page so planning does not depend on holding an entire pacing model in mind.
+
 ## Essential knowledge
 
 - What pacing means: planning activity and recovery around the person’s present capacity.
@@ -41,6 +49,7 @@ This section should focus on how clinicians can help the patient understand the 
 ## Practical work
 
 - Create a flexible activity range and a simple plan for high-, medium-, and low-capacity days.
+- Use the smallest record that can connect an activity with a meaningful delayed change and next decision.
 
 ## Support-person focus
 

@@ -12,6 +12,14 @@
 
 Explain why psychological treatment can be relevant without defining FND as imaginary or universally psychological.
 
+## Focused lesson split
+
+- [Why Psychological Treatment Does Not Mean Imaginary](../../../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md)
+- [Choose a Therapy and Set Goals](../../../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md)
+- [Consent, Trauma, and Recognizing Harm](../../../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md)
+
+Consent, trauma and treatment harm have their own page so they are not compressed into a general list of therapy choices.
+
 ## Essential knowledge
 
 - Why being offered psychological therapy does not mean symptoms are imagined or deliberately produced.
@@ -41,6 +49,7 @@ This section should focus on how clinicians can help the patient understand the 
 ## Practical work
 
 - Prepare questions for evaluating a therapist’s FND knowledge, approach, goals, and safety.
+- Write one boundary or consent statement that does not require explaining a trauma history.
 
 ## Support-person focus
 

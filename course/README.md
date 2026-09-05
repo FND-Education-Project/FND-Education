@@ -6,9 +6,9 @@
 
 > **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-This directory contains the complete structure and initial authoring drafts for the FND Education course: 23 module overviews and 63 focused pages, for 86 course pages in total. Each module begins with a short overview and links to one to five focused articles.
+This directory contains the complete structure and initial authoring drafts for the FND Education course: 23 module overviews and 67 focused pages, for 90 course pages in total. Each module begins with a short overview and links to one to five focused articles.
 
-Parts One through Three (Modules 1–12) now contain reader-facing working drafts based on the detailed human-planned syllabus and the wording pattern established in Module 1. Pages personally edited by the project lead are marked separately from temporary automatically generated drafts. Modules 13–23 remain shorter authoring templates and starting text. Contributors and reviewers are invited to help with human writing, evidence, safety, accessibility, lived experience and plain-language editing.
+Parts One through Four (Modules 1–16) now contain reader-facing working drafts based on the detailed human-planned syllabus and the wording pattern established in Module 1. Pages personally edited by the project lead are marked separately from temporary automatically generated drafts. Modules 17–23 remain shorter authoring templates and starting text. Contributors and reviewers are invited to help with human writing, evidence, safety, accessibility, lived experience and plain-language editing.
 
 Every focused article uses the same four sections:
 
@@ -44,10 +44,10 @@ The clinician section focuses on practical usefulness to the patient: helping th
 
 ## Part Four: Treatment and Rehabilitation
 
-- [Build Your FND Treatment Team](part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md) — 3 pages
-- [Rehabilitation and Neuroplastic Change](part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/README.md) — 3 pages
-- [Pacing Activity and Avoiding Boom-and-Bust](part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md) — 3 pages
-- [Psychological Treatment Without Blame](part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md) — 3 pages
+- [Build Your FND Treatment Team](part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md) — 4 pages
+- [Rehabilitation and Neuroplastic Change](part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/README.md) — 4 pages
+- [Pacing Activity and Avoiding Boom-and-Bust](part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md) — 4 pages
+- [Psychological Treatment Without Blame](part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md) — 4 pages
 
 ## Part Five: Living With FND
 

@@ -22,6 +22,10 @@ Recovery has a few meanings. For instance, I might say, 'After a functional seiz
 
 > Recovery does not have to mean that every symptom has disappeared.
 
+![Four equally meaningful outcomes show fewer symptoms, safer days, more participation and better quality of life.](../../../assets/module-1-page-3-meaningful-improvement.svg)
+
+*Illustration: improvement can take more than one form. A person may value different outcomes at different times.*
+
 A key thing to take away in this section is that FND symptoms can grow worse or go away for a time. (*citations* [1](#citation-1), [2](#citation-2), [5](#citation-5)) A return of symptoms does not mean failure; it's just the progress of the disease. 
 
 ### Questions

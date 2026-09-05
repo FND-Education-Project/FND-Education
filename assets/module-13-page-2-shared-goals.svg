@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">A shared plan connects a priority with roles and review</title>
+  <desc id="desc">Four connected boxes show the person's priority, named responsibilities, one shared plan, and a review point. The caption says referrals alone do not create a team.</desc>
+  <rect width="900" height="330" rx="24" fill="#eef5f7"/>
+  <text x="450" y="47" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">A shared plan makes the connections visible</text>
+  <g font-family="Arial, sans-serif" font-size="18" fill="#17324d" text-anchor="middle">
+    <rect x="38" y="105" width="180" height="94" rx="18" fill="#fff" stroke="#2e6e9e" stroke-width="3"/>
+    <text x="128" y="143" font-weight="700">Your priority</text><text x="128" y="172">What matters now?</text>
+    <rect x="252" y="105" width="180" height="94" rx="18" fill="#fff" stroke="#18785b" stroke-width="3"/>
+    <text x="342" y="143" font-weight="700">Named roles</text><text x="342" y="172">Who does what?</text>
+    <rect x="466" y="105" width="180" height="94" rx="18" fill="#fff0c7" stroke="#a86700" stroke-width="3"/>
+    <text x="556" y="143" font-weight="700">One plan</text><text x="556" y="172">How will it connect?</text>
+    <rect x="680" y="105" width="180" height="94" rx="18" fill="#fff" stroke="#7350a0" stroke-width="3"/>
+    <text x="770" y="143" font-weight="700">Review</text><text x="770" y="172">What happened?</text>
+  </g>
+  <g stroke="#17324d" stroke-width="4" fill="none"><path d="M218 152 H252"/><path d="M432 152 H466"/><path d="M646 152 H680"/></g>
+  <g fill="#17324d"><path d="M248 145 l12 7 -12 7z"/><path d="M462 145 l12 7 -12 7z"/><path d="M676 145 l12 7 -12 7z"/></g>
+  <text x="450" y="257" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#17324d">More referrals do not automatically create a team.</text>
+  <text x="450" y="287" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#17324d">The plan should say what changes if care helps, does nothing or causes harm.</text>
+</svg>

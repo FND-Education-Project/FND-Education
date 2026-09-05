@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">A therapy target is not automatically a cause</title>
+  <desc id="desc">Three separate boxes labelled FND symptom, living with illness, and mental-health condition point toward a chosen therapy target. A note says what therapy works on does not prove what caused FND.</desc>
+  <rect width="900" height="330" rx="24" fill="#eef5f7"/>
+  <text x="450" y="44" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Different needs can lead to a chosen therapy target</text>
+  <g font-family="Arial, sans-serif" fill="#17324d" text-anchor="middle">
+    <rect x="45" y="85" width="210" height="76" rx="17" fill="#fff" stroke="#2e6e9e" stroke-width="3"/><text x="150" y="130" font-size="19" font-weight="700">An FND symptom</text>
+    <rect x="345" y="85" width="210" height="76" rx="17" fill="#fff" stroke="#18785b" stroke-width="3"/><text x="450" y="117" font-size="19" font-weight="700">Living with</text><text x="450" y="142" font-size="19" font-weight="700">illness</text>
+    <rect x="645" y="85" width="210" height="76" rx="17" fill="#fff" stroke="#7350a0" stroke-width="3"/><text x="750" y="117" font-size="19" font-weight="700">A mental-health</text><text x="750" y="142" font-size="19" font-weight="700">condition</text>
+    <rect x="300" y="213" width="300" height="72" rx="20" fill="#fff0c7" stroke="#a86700" stroke-width="3"/><text x="450" y="244" font-size="20" font-weight="700">Chosen therapy target</text><text x="450" y="270" font-size="16">specific · agreed · reviewable</text>
+  </g>
+  <g stroke="#17324d" stroke-width="3" fill="none"><path d="M150 161 C150 195 330 195 350 213"/><path d="M450 161 V213"/><path d="M750 161 C750 195 570 195 550 213"/></g>
+  <text x="450" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#17324d">What therapy works on does not automatically show what caused FND.</text>
+</svg>
