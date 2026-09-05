@@ -1,26 +1,66 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 11: Pain, Migraine, Fatigue, and Sleep](README.md) › **Sleep Problems and Sleep Disorders**
+[Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 11](README.md) › **Sleep Problems and Sleep Disorders**
 <!-- NAV-BREADCRUMB:END -->
 
 # Sleep Problems and Sleep Disorders
 
-This is a focused authoring template within Module 11. Build the completed page around this scope: Cover insomnia, fragmented sleep, circadian disruption, sleep-disordered breathing, parasomnias, medication or substance effects, interactions with FND and cognition, sleep assessment, self-management limits, and reasons for medical review.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+Poor sleep can worsen pain, fatigue, thinking and symptom tolerance. It can be part of a loop, but a treatable sleep disorder should not be overlooked.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND pain; chronic pain; migraine and FND; fatigue; post-exertional worsening; insomnia; sleep disorder; sleep apnea; central sensitization; nociplastic pain. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Sleep Problems and Sleep Disorders.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover insomnia, fragmented sleep, circadian disruption, sleep-disordered breathing, parasomnias, medication or substance effects, interactions with FND and cognition, sleep assessment, self-management limits, and reasons for medical review. The reader should not have to read the module overview first to understand the page.
+A **sleep problem** is any difficulty with sleep or daytime alertness. A **sleep disorder** is a defined condition such as insomnia, obstructive sleep apnea, restless legs syndrome or a circadian-rhythm disorder.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: Why pain, migraine, fatigue, and sleep problems are common in people with FND but are not all automatically caused by FND. Why migraine is its own neurological condition even when it triggers or worsens functional symptoms. Why chronic pain may involve injury, disease, changes in pain processing, or several factors together. Why fatigue is a symptom with many possible causes rather than one diagnosis. How poor sleep, pain, migraine, fatigue, thinking difficulty, movement symptoms, and seizures may worsen one another. Why medication and substance effects should be considered. Why treatable problems such as sleep disorders, migraine, anemia, or endocrine disease should not be missed. How planning activity and recovery may help some people when capacity varies. Why pushing through everything and avoiding everything can each create problems. Prevalence and burden of pain, headache disorders, fatigue, and sleep disturbance across FND phenotypes. Migraine as a comorbid neurological disorder, potential precipitant, symptom amplifier, and diagnostic overlap. Nociceptive, neuropathic, nociplastic, and mixed pain mechanisms; central sensitization as a model rather than a complete explanation. Fatigue measurement, post-exertional symptom exacerbation, and differential diagnosis including ME/CFS and systemic illness. Insomnia, sleep fragmentation, circadian disturbance, sleep-disordered breathing, parasomnias, and medication or substance effects. Bidirectional effects involving attention, arousal, cognition, mood, motor control, seizures, and participation. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![Night-time problems such as trouble falling asleep, breathing pauses, restless legs and a shifted body clock point to different assessments.](../../../assets/module-11-page-4-sleep-differences.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Explain that prevalence is clearer than causation. Note uncertain FND-specific pacing evidence, debated pain mechanisms, limited sleep research, and difficulty separating fatigue caused by illness, medication, poor sleep, pain, inactivity, or other conditions. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: “poor sleep” is a starting description, not one diagnosis.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe pain, headache, sensory sensitivity, exhaustion, unrefreshing or fragmented sleep, reduced stamina, delayed worsening after activity, and the way these problems interact with thinking and movement. Avoid presenting four distinct problems as one symptom. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Map interactions among sleep, pain, migraine, fatigue, activity, and FND symptoms. Select one measurable question for a clinician rather than tracking everything. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+Do not assume all poor sleep is FND. The pattern, breathing, movements, medicines, timing and daytime effects help identify what assessment is needed. (*citation* [1](#citation-1))
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Is migraine being treated as its own condition? Has a sleep disorder been assessed? What type of pain is suspected? Does activity cause immediate or delayed worsening? Which medical causes of fatigue have been considered? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### Describe the night and the day
+
+Useful differences include trouble falling asleep, repeated waking, waking too early, a shifted sleep schedule, nightmares, uncomfortable legs, snoring or breathing pauses, and sleepiness versus fatigue during the day.
+
+Pain, migraine, functional episodes, anxiety, low mood, medication, alcohol, caffeine and inactivity may also disturb sleep. Sleep difficulty can then make those problems harder. Both directions can matter.
+
+### Start with a small stable cue
+
+General sleep advice is not a cure for every disorder. A consistent wake time, morning light or a calmer wind-down may help some people. If being in bed awake becomes distressing, or a rigid schedule worsens symptoms, ask for individualized guidance.
+
+Seek assessment for witnessed breathing pauses, choking during sleep, dangerous daytime sleepiness, unusual night-time events, sudden sleep attacks, severe restless legs or persistent insomnia. (*citation* [1](#citation-1))
+
+### Community experiences for review
+
+These medication accounts have different outcomes and are not prescribing advice.
+
+**Option 1 — sleep treatment helped fatigue**
+
+> “Managed the chronic insomnia with medication ... This helps to combat the fatigue.”
+
+— The writer also had ME/CFS and described pacing pain and fatigue. [Read the public source](https://www.reddit.com/r/FND/comments/1grqq89/how_do_you_cope_with_having_a_chronic_illness/).
+
+**Option 2 — sleep medication did not solve sleep**
+
+> “Doc gave me meds to help me sleep. All they do is make me tired/sleepy ... so they rarely work.”
+
+— The same discussion included pain medication and financial barriers. [Read the public source](https://www.reddit.com/r/FND/comments/1grqq89/how_do_you_cope_with_having_a_chronic_illness/).
+
+### Questions
+
+#### Is your hardest problem falling asleep, staying asleep, the timing of sleep, symptoms during sleep, or functioning the next day?
+
+#### What makes you feel safer and less pressured around sleep?
+
+### One small thing you can do
+
+For three days, note only bedtime, wake time and the main daytime effect. A lower-demand version is to note the daytime effect.
+
+Stop tracking if it makes sleep more pressured. Do not change prescribed sleep or pain medicine without the prescriber; seek review for side effects, interactions or inadequate benefit.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +71,9 @@ This is a focused authoring template within Module 11. Build the completed page 
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Sleep Problems and Sleep Disorders.” Develop the supporter guidance from these points: Respecting pain and fatigue without assuming permanent incapacity. Helping plan within available capacity without policing activity. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Share observations such as snoring, breathing pauses or unusual movements only with consent and without diagnosing. Protect the sleep environment where practical, but do not become the sleep police.
+
+If daytime sleepiness affects driving, cooking or falls, help make a safety plan and seek clinical review.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +84,23 @@ This is a focused authoring template within Module 11. Build the completed page 
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Cover injury, inflammatory or neurological disease, primary headache disorders, sleep apnea and other sleep disorders, anemia, infection, endocrine disease, medication effects, ME/CFS, fibromyalgia, and mood disorders. Emphasize that migraine is a separate neurological diagnosis. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Migraine as a comorbid neurological disorder, potential precipitant, symptom amplifier, and diagnostic overlap. Fatigue measurement, post-exertional symptom exacerbation, and differential diagnosis including ME/CFS and systemic illness. Risks of diagnostic overshadowing, polypharmacy, and assuming improvement in a comorbidity will necessarily resolve FND. Explain both the value and limitations of each step.
+**Option 1 — Kannan et al., 2025**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Evidence and limitations for pacing, graded activity, sleep interventions, migraine treatment, pain rehabilitation, and multidisciplinary care. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “58% reporting sleep disturbances”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Flag a new severe headache, new neurological signs, fever, chest symptoms, progressive weakness, major sleep-breathing concerns, unexplained weight or systemic change, or a marked change in pain or fatigue. Encourage review of treatable contributors and medication effects. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Kannan et al., 2025**
+
+> “poorer subjective sleep quality and higher insomnia rates”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citation* [1](#citation-1))*
+
+### Investigate the phenotype, not only the score
+
+Take a sleep and circadian history; review snoring, witnessed apneas, restless legs, parasomnias, nocturnal events, medication and substances, pain, mood and daytime sleepiness. Use sleep diaries or screening measures as aids, not diagnoses. Refer for sleep testing when indicated.
+
+Treat identified disorders and coordinate sleep interventions with the person’s fatigue and FND plan. Distinguish subjective sleepiness from objective hypersomnolence. The FND sleep literature remains small and heterogeneous, so avoid claiming that sleep disturbance is one universal mechanism. (*citation* [1](#citation-1))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,15 +110,21 @@ This is a focused authoring template within Module 11. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Autonomic and Whole-Body Symptoms](../module-12-autonomic-and-whole-body-symptoms/README.md)
+**Continue:** [When Pain, Migraine, Fatigue, and Sleep Interact →](05-when-pain-migraine-fatigue-and-sleep-interact.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Previous page](03-fatigue-and-post-activity-worsening.md) · [Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Sleep Problems and Sleep Disorders”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+The systematic review included nine studies and mixed FND subgroups. Its pooled proportion does not diagnose a sleep disorder or predict an individual. (*citation* [1](#citation-1))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Kannan S, Dutta A, Das A. Sleep disorders in functional neurological disorder—a systematic review and meta-analysis. *Neurological Sciences*. 2025;46(4):1573–1580. [FND-CIT-0073](../../../research/citation-index.md#fnd-cit-0073). [https://doi.org/10.1007/s10072-024-07931-9](https://doi.org/10.1007/s10072-024-07931-9) |
+
+This page still needs review by people with sleep problems and FND, sleep physicians, neurologists, pharmacists and accessibility reviewers.
+
+*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*

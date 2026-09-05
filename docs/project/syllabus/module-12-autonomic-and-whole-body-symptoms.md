@@ -12,6 +12,15 @@
 
 Explain common whole-body complaints while avoiding unsupported claims that all are caused by FND or autonomic “dysregulation.”
 
+## Course pages
+
+1. [Module overview](../../../course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/README.md)
+2. [Autonomic Symptoms, Overlap, and Other Causes](../../../course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/01-autonomic-symptoms-overlap-and-other-causes.md)
+3. [Useful Tracking, Measurements, and Clinical Assessment](../../../course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/02-useful-tracking-measurements-and-clinical-assessment.md)
+4. [Build a Personal Autonomic-Symptom Plan](../../../course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/03-build-a-personal-autonomic-symptom-plan.md)
+
+The practical page separates daily access and safety planning from physiology and measurement limits.
+
 ## Essential knowledge
 
 - What the autonomic nervous system does automatically, including heart rate, blood pressure, sweating, digestion, and temperature control.

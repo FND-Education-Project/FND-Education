@@ -12,6 +12,17 @@
 
 Show how these disabling problems may accompany, trigger, maintain, or remain distinct from FND.
 
+## Course pages
+
+1. [Module overview](../../../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/README.md)
+2. [Chronic Pain](../../../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/01-chronic-pain.md)
+3. [Migraine](../../../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/02-migraine.md)
+4. [Fatigue and Post-Activity Worsening](../../../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/03-fatigue-and-post-activity-worsening.md)
+5. [Sleep Problems and Sleep Disorders](../../../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/04-sleep-problems-and-sleep-disorders.md)
+6. [When Pain, Migraine, Fatigue, and Sleep Interact](../../../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/05-when-pain-migraine-fatigue-and-sleep-interact.md)
+
+The interaction page owns the combined-symptom map so each medically distinct symptom page can remain short.
+
 ## Essential knowledge
 
 - Why pain, migraine, fatigue, and sleep problems are common in people with FND but are not all automatically caused by FND.

@@ -12,6 +12,15 @@
 
 Explain cognitive symptoms without treating every memory difficulty as either neurodegeneration or “just FND.”
 
+## Course pages
+
+1. [Module overview](../../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/README.md)
+2. [Attention, Memory, Word Finding, and Functional Cognitive Disorder](../../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
+3. [Dissociation and Altered Awareness](../../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/02-dissociation-and-altered-awareness.md)
+4. [Build an External Thinking and Memory System](../../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/03-build-an-external-thinking-and-memory-system.md)
+
+The practical page separates daily supports from the diagnostic explanation so either can be read in one sitting.
+
 ## Essential knowledge
 
 - How attention, thinking speed, planning, word finding, and memory can be affected.

@@ -1,26 +1,71 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 10: Cognition, Memory, and Dissociation](README.md) › **Dissociation and Altered Awareness**
+[Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 10](README.md) › **Dissociation and Altered Awareness**
 <!-- NAV-BREADCRUMB:END -->
 
 # Dissociation and Altered Awareness
 
-This is a focused authoring template within Module 10. Build the completed page around this scope: Explain dissociation, zoning out, depersonalization, derealization, memory gaps, and altered awareness; distinguish these from cognitive symptoms and other episodic conditions; cover grounding, supporter communication, assessment, and uncertainty.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+Dissociation can be hard to describe. Words such as “far away,” “unreal,” “foggy,” “not in my body” or “missing time” may describe different experiences and need careful assessment.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND cognitive symptoms; Functional Cognitive Disorder; FCD; brain fog; episodic memory; semantic memory; word finding; dissociation; depersonalization; derealization. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Dissociation and Altered Awareness.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Explain dissociation, zoning out, depersonalization, derealization, memory gaps, and altered awareness; distinguish these from cognitive symptoms and other episodic conditions; cover grounding, supporter communication, assessment, and uncertainty. The reader should not have to read the module overview first to understand the page.
+**Dissociation** means a change in how parts of experience are connected. **Depersonalization** is feeling detached from yourself. **Derealization** is feeling that the world is unreal or distant. **Altered awareness** is a broader term for being less aware or responsive.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: How attention, thinking speed, planning, word finding, and memory can be affected. Why remembering requires first noticing information, taking it in, storing it, and finding it again later. Why a problem with attention or learning new information can feel like a loss of stored memory. What episodic memory, word finding, and general knowledge memory mean in simple terms. What Functional Cognitive Disorder means and how it may relate to FND. What dissociation, feeling unreal, feeling detached, or losing parts of awareness can mean. How migraine, pain, poor sleep, fatigue, medication, mood, and sensory overload can make thinking harder. Why important new or worsening cognitive problems still deserve medical assessment. How calendars, written summaries, reminders, checklists, consistent storage places, and one step at a time may reduce cognitive demands. Attention, processing speed, working memory, executive function, prospective memory, episodic encoding and retrieval, and semantic-access complaints. Functional Cognitive Disorder, internal inconsistency, metacognitive mismatch, and the relationship between subjective impairment and formal performance. Cognitive symptoms across motor FND and functional seizures rather than FCD alone. Dissociation, depersonalization, derealization, altered awareness, and their incomplete overlap with functional cognitive symptoms. Differential diagnosis involving neurodegeneration, epilepsy, migraine, sleep disorders, medication or substance effects, mood disorders, endocrine or nutritional disease, brain injury, and other neurological conditions. Neuropsychological assessment, performance validity, ecological validity, longitudinal change, and the risk of stigmatizing interpretation. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![Three overlapping circles show feeling detached from self, feeling the world is unreal, and reduced awareness. They overlap but are not identical.](../../../assets/module-10-page-2-dissociation-overlap.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Explain uncertainty about the relationship among Functional Cognitive Disorder, cognitive symptoms within other FND forms, dissociation, attention, and formal memory performance. Note inconsistent test findings, heterogeneous definitions, and limited evidence for specific cognitive rehabilitation strategies. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: these experiences can overlap, but the words do not all mean the same thing.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe losing track of conversations, forgetting events, failing to find familiar words, slowed thinking, overload, zoning out, feeling detached, memory gaps, or difficulty doing several steps. Explain that these problems can be disabling even when formal test results are mixed. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Build a small external-memory system using consistent locations, written summaries, alarms, and one-step prompts. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+Dissociation occurs in some people with FND, especially in some seizure groups, but it is not required for FND and does not explain everyone’s symptoms. (*citation* [1](#citation-1))
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Is the difficulty with attention, learning, storage, or retrieval? Could sleep, migraine, medication, pain, seizures, or another condition contribute? Is neuropsychological assessment useful? Which external supports would reduce daily risk? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### What it can feel like
+
+You might feel distant from your body, as though a room is dreamlike, or unable to take in what someone says. Time may feel strange. You may remain conscious but have trouble moving or responding.
+
+These experiences can also occur with panic, trauma-related conditions, migraine, epilepsy, sleep loss, medication effects and other medical or mental health conditions. Similar words do not guarantee the same cause.
+
+### Notice without forcing an explanation
+
+A simple sequence can be more useful than a theory:
+
+1. What did you notice first?
+2. What changed in awareness, memory, movement or speech?
+3. How long did it last?
+4. What helped you become more present?
+
+Do not force yourself to search for trauma or a psychological cause. A trauma history is neither necessary nor sufficient for an FND diagnosis.
+
+### Community experiences for review
+
+These writers use their own words. Their experiences do not define dissociation for everyone.
+
+**Option 1 — a warning before an episode**
+
+> “I feel like I’m floating away (dissociating) before an episode hits where I’m conscious but can’t move or speak.”
+
+— The writer described severe dissociation connected with their seizure-like episodes. [Read the public source](https://www.reddit.com/r/FND/comments/1i2hxh5/anyone_else_diagnosed_with_did_feeling_scared/).
+
+**Option 2 — difficult to separate symptoms**
+
+> “For the FND part it’s memory issues, possible dissociation, brain fog, and just general poor function.”
+
+— The writer also named several coexisting diagnoses and said it was difficult to know what caused what. [Read the public source](https://www.reddit.com/r/FND/comments/1j7hmdb/what_do_cognitive_symptoms_look_like_for_you/).
+
+### Questions
+
+#### If “dissociation” fits anything you experience, what changes first: your sense of self, the world around you, time, memory or responsiveness?
+
+#### What helps you feel safely present without demanding that the experience stop immediately?
+
+### One small thing you can do
+
+Write one grounding choice on a card: **name the date and place**, **feel the chair**, or **look for three blue things**. A lower-demand version is to choose the one that feels least irritating.
+
+Stop a technique that increases panic, traumatic memories, pain or symptoms. Seek urgent assessment for a first or substantially changed episode, prolonged unresponsiveness, injury, new weakness, severe headache, breathing difficulty or another emergency concern.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +76,9 @@ This is a focused authoring template within Module 10. Build the completed page 
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Dissociation and Altered Awareness.” Develop the supporter guidance from these points: Cueing without testing, shaming, or removing autonomy. Giving one subject at a time and allowing additional processing time. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Use the person’s name and brief orientation cues: where they are, what is happening and that you are nearby. Ask before touching. Reduce noise and the number of people speaking.
+
+Follow any agreed seizure or episode plan. Do not demand eye contact, quiz memory or insist that the person discuss a cause during the episode. Get emergency help according to the person’s plan and ordinary safety guidance.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +89,25 @@ This is a focused authoring template within Module 10. Build the completed page 
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Discuss sleep disorders, migraine, epilepsy, medication and substance effects, depression, anxiety, PTSD, brain injury, endocrine or nutritional disease, neurodegeneration, pain, and sensory overload. Make clear that significant cognitive change should not be assigned to FND without assessment. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Differential diagnosis involving neurodegeneration, epilepsy, migraine, sleep disorders, medication or substance effects, mood disorders, endocrine or nutritional disease, brain injury, and other neurological conditions. Neuropsychological assessment, performance validity, ecological validity, longitudinal change, and the risk of stigmatizing interpretation. Research limitations involving heterogeneous measures, small samples, psychiatric confounding, and overreliance on group averages. Explain both the value and limitations of each step.
+**Option 1 — Campbell et al., 2023**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Cognitive rehabilitation, external supports, reduced competing load, metacognitive strategies, and treatment of contributing conditions. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “the potential clinical utility of assessing patients with FND”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Flag rapid or progressive decline, getting lost in familiar places, new neurological signs, major safety errors, a new level of confusion, seizure change, head injury, or cognitive worsening after medication or illness. Encourage assessment of treatable contributors. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Campbell et al., 2023**
+
+> “heterogeneity between studies and risk of bias were high”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citation* [1](#citation-1))*
+
+### Describe the phenomenon before assigning the mechanism
+
+Clarify detachment, derealization, amnesia, trance-like experience, responsiveness and the temporal relationship to motor, sensory or seizure symptoms. Assess neurological, sleep, medication, substance, trauma-related, mood and anxiety differentials as appropriate.
+
+The systematic review found elevated dissociative symptoms at group level, with important differences among FND subgroups and substantial heterogeneity. It does not support treating dissociation as a universal cause. Share that uncertainty with the patient.
+
+Co-create grounding or episode strategies that the patient finds tolerable. Trauma-focused treatment is appropriate when there is a relevant condition and the person wants it, not as a compulsory explanation for FND. (*citation* [1](#citation-1))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,15 +117,21 @@ This is a focused authoring template within Module 10. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Pain, Migraine, Fatigue, and Sleep](../module-11-pain-migraine-fatigue-and-sleep/README.md)
+**Continue:** [Build an External Thinking and Memory System →](03-build-an-external-thinking-and-memory-system.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Previous page](01-attention-memory-word-finding-and-functional-cognitive-disorder.md) · [Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Dissociation and Altered Awareness”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+The review combines many study designs and FND subgroups. It supports asking about dissociation but not using a questionnaire score as a stand-alone diagnosis or assuming one mechanism. (*citation* [1](#citation-1))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Campbell MC, Smakowski A, Rojas-Aguiluz M, et al. Dissociation and its biological and clinical associations in functional neurological disorder: systematic review and meta-analysis. *BJPsych Open*. 2023;9(1):e2. [FND-CIT-0072](../../../research/citation-index.md#fnd-cit-0072). [https://doi.org/10.1192/bjo.2022.597](https://doi.org/10.1192/bjo.2022.597) |
+
+This page still needs review by people with dissociative experiences, neurologists, psychologists, psychiatrists, trauma specialists and accessibility reviewers.
+
+*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*

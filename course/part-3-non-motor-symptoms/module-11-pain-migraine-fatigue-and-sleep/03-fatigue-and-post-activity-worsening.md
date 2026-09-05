@@ -1,38 +1,62 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 11: Pain, Migraine, Fatigue, and Sleep](README.md) › **Fatigue and Post-Activity Worsening**
+[Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 11](README.md) › **Fatigue and Post-Activity Worsening**
 <!-- NAV-BREADCRUMB:END -->
 
 # Fatigue and Post-Activity Worsening
 
-This is a focused authoring template within Module 11. Build the completed page around this scope: Explain fatigue as a symptom with many possible causes, cognitive and physical fatigue, delayed worsening, ME/CFS and systemic differentials, medication and sleep effects, activity planning, and the limits of FND-specific evidence.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+Fatigue can make washing, thinking or speaking feel like work. It is not a character flaw, and pushing harder is not always the right answer.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND pain; chronic pain; migraine and FND; fatigue; post-exertional worsening; insomnia; sleep disorder; sleep apnea; central sensitization; nociplastic pain. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Fatigue and Post-Activity Worsening.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Explain fatigue as a symptom with many possible causes, cognitive and physical fatigue, delayed worsening, ME/CFS and systemic differentials, medication and sleep effects, activity planning, and the limits of FND-specific evidence. The reader should not have to read the module overview first to understand the page.
+**Fatigue** is a felt lack of physical or mental energy that is not the same as ordinary sleepiness. **Post-activity worsening** means symptoms increase during or after physical, cognitive, emotional or sensory activity; the increase may be immediate or delayed.
 
-### Earlier course foundation: available capacity and spoons
+![A small activity is followed by either a steady response or delayed symptom worsening. The illustration says to learn the person's pattern rather than assume it.](../../../assets/module-11-page-3-fatigue-delay.svg)
 
-[Module 1 introduces available capacity, Spoon Theory, load-and-recovery planning, the Energy Envelope Theory and autonomic claims](../../part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md). Do not repeat that full explanation here. This page should apply it specifically to fatigue and distinguish terms that are often blurred:
+*Illustration: the response may be delayed, so the activity and the worsening can be easy to disconnect.*
 
-- **Available capacity** is the course's broad practical term for what a person can use now and what recovery may cost. It can include physical, thinking, sensory, emotional, social and upright demands.
-- **Fatigue** is a symptom or experience; **fatigability** is a decline in performance during activity. Either may reduce available capacity, but the words are not interchangeable.
-- **Post-exertional symptom worsening** describes symptoms becoming worse after activity. The timing, severity and duration matter.
-- **Post-exertional malaise** has a more specific role in ME/CFS and should not be inferred from low capacity or ordinary fatigue alone.
-- **Energy-envelope and pacing evidence** comes mainly from ME/CFS and other conditions, with heterogeneous results. Explain its relevance and limits without presenting it as an FND mechanism or a universal activity prescription. ([Energy Envelope Theory source record](../../../research/citation-index.md#fnd-cit-0065); [pacing scoping-review source record](../../../research/citation-index.md#fnd-cit-0066))
+### If you read only one thing
 
-Keep **available capacity** as the preferred course term. “Spoons,” “battery,” “energy,” “bandwidth,” “reserve” and “safe operating range” may help particular people communicate, but none is an established unit. Link back to Module 1 for why a spoon count cannot identify a sympathetic–parasympathetic position.
+Fatigue and delayed worsening deserve assessment. They can occur with FND, but also with sleep disorders, migraine, pain, medication effects, anaemia, endocrine disease, infection, ME/CFS, long COVID and other conditions.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: Why pain, migraine, fatigue, and sleep problems are common in people with FND but are not all automatically caused by FND. Why migraine is its own neurological condition even when it triggers or worsens functional symptoms. Why chronic pain may involve injury, disease, changes in pain processing, or several factors together. Why fatigue is a symptom with many possible causes rather than one diagnosis. How poor sleep, pain, migraine, fatigue, thinking difficulty, movement symptoms, and seizures may worsen one another. Why medication and substance effects should be considered. Why treatable problems such as sleep disorders, migraine, anemia, or endocrine disease should not be missed. How planning activity and recovery may help some people when capacity varies. Why pushing through everything and avoiding everything can each create problems. Prevalence and burden of pain, headache disorders, fatigue, and sleep disturbance across FND phenotypes. Migraine as a comorbid neurological disorder, potential precipitant, symptom amplifier, and diagnostic overlap. Nociceptive, neuropathic, nociplastic, and mixed pain mechanisms; central sensitization as a model rather than a complete explanation. Fatigue measurement, post-exertional symptom exacerbation, and differential diagnosis including ME/CFS and systemic illness. Insomnia, sleep fragmentation, circadian disturbance, sleep-disordered breathing, parasomnias, and medication or substance effects. Bidirectional effects involving attention, arousal, cognition, mood, motor control, seizures, and participation. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+### Learn the pattern before increasing activity
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Explain that prevalence is clearer than causation. Note uncertain FND-specific pacing evidence, debated pain mechanisms, limited sleep research, and difficulty separating fatigue caused by illness, medication, poor sleep, pain, inactivity, or other conditions. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+Ask what kind of activity was involved, how much, and when symptoms changed. Include thinking, conversation, travel and sensory load—not only exercise.
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe pain, headache, sensory sensitivity, exhaustion, unrefreshing or fragmented sleep, reduced stamina, delayed worsening after activity, and the way these problems interact with thinking and movement. Avoid presenting four distinct problems as one symptom. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+**Pacing** means adjusting the amount, order and timing of activity to make it more sustainable. It can include shorter tasks, planned pauses or alternating kinds of demand. It is not a fixed heart-rate rule or a promise that a flare can always be prevented.
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Map interactions among sleep, pain, migraine, fatigue, activity, and FND symptoms. Select one measurable question for a clinician rather than tracking everything. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+Evidence about pacing is mixed and comes mainly from ME/CFS research, not FND. Avoid automatically applying graded increases when the person has consistent delayed worsening that has not been assessed. (*citations* [1](#citation-1), [2](#citation-2))
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Is migraine being treated as its own condition? Has a sleep disorder been assessed? What type of pain is suspected? Does activity cause immediate or delayed worsening? Which medical causes of fatigue have been considered? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### Community experiences for review
+
+These accounts show two personal pacing approaches, not universal doses.
+
+**Option 1 — the good-day trap**
+
+> “I feel good, I’ll do it all—only to crash out later and feel awful.”
+
+— The writer described learning a baseline and resisting the urge to do much more on a good day. [Read the public source](https://www.reddit.com/r/FND/comments/1qlwz51/exercise_and_fnd/).
+
+**Option 2 — very small chunks**
+
+> “I have used pacing for chronic pain and fatigue for many years and manage activity in 10-12 minute chunks. Then I must rest.”
+
+— This person also described ME/CFS and insomnia; their timing is not a prescription for others. [Read the public source](https://www.reddit.com/r/FND/comments/1grqq89/how_do_you_cope_with_having_a_chronic_illness/).
+
+### Questions
+
+#### Which kind of effort—physical, thinking, emotional or sensory—has the longest effect on you?
+
+#### What is the earliest sign that today’s activity may be more than your current capacity?
+
+### One small thing you can do
+
+Choose one regular task and try a planned pause before exhaustion. A lower-demand version is to note when worsening begins.
+
+Stop an activity that creates unsafe weakness, falls, chest pain, fainting or severe or unusual symptoms. Seek reassessment for new or worsening fatigue, weight loss, fever, breathlessness, bleeding, changed sleep, medication changes or another concerning feature.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -43,7 +67,9 @@ Keep **available capacity** as the preferred course term. “Spoons,” “batte
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Fatigue and Post-Activity Worsening.” Develop the supporter guidance from these points: Respecting pain and fatigue without assuming permanent incapacity. Helping plan within available capacity without policing activity. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Do not measure effort only by what you can see. Conversation, noise or decision-making may cost energy. Ask which task to protect and which can wait.
+
+Avoid praising overexertion and blaming rest. Help the person compare plans with outcomes over several days, while leaving medical interpretation to clinicians.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -54,13 +80,23 @@ Keep **available capacity** as the preferred course term. “Spoons,” “batte
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Cover injury, inflammatory or neurological disease, primary headache disorders, sleep apnea and other sleep disorders, anemia, infection, endocrine disease, medication effects, ME/CFS, fibromyalgia, and mood disorders. Emphasize that migraine is a separate neurological diagnosis. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Migraine as a comorbid neurological disorder, potential precipitant, symptom amplifier, and diagnostic overlap. Fatigue measurement, post-exertional symptom exacerbation, and differential diagnosis including ME/CFS and systemic illness. Risks of diagnostic overshadowing, polypharmacy, and assuming improvement in a comorbidity will necessarily resolve FND. Explain both the value and limitations of each step.
+**Option 1 — Sanal-Hayes et al., 2023**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Evidence and limitations for pacing, graded activity, sleep interventions, migraine treatment, pain rehabilitation, and multidisciplinary care. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “Eleven studies reported benefits ... four ... no effect”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Flag a new severe headache, new neurological signs, fever, chest symptoms, progressive weakness, major sleep-breathing concerns, unexplained weight or systemic change, or a marked change in pain or fatigue. Encourage review of treatable contributors and medication effects. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Sanal-Hayes et al., 2023**
+
+> “methodological quality resulted in heterogenous findings”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citation* [2](#citation-2))*
+
+### Separate fatigue, fatigability and post-exertional worsening
+
+Characterize onset, physical versus cognitive fatigue, sleepiness, task-related performance decline, delayed worsening and recovery time. Review sleep, pain, migraine, mood, nutrition, medication, autonomic symptoms and medical differentials.
+
+Co-design a baseline that protects function and avoids boom–bust cycles. If increasing activity, use shared goals, small doses and outcome review rather than a compulsory schedule. ME/CFS pacing evidence cannot be assumed to transfer to FND, and post-exertional malaise should prompt a relevant differential rather than automatic attribution. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -70,15 +106,25 @@ Keep **available capacity** as the preferred course term. “Spoons,” “batte
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Sleep Problems and Sleep Disorders](04-sleep-problems-and-sleep-disorders.md)
+**Continue:** [Sleep Problems and Sleep Disorders →](04-sleep-problems-and-sleep-disorders.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Previous page](02-migraine.md) · [Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Fatigue and Post-Activity Worsening”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. The general spoon and capacity sources now live on the [Module 1 introduction](../../part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md#research-and-sources). This page's evidence package should add fatigue-, pacing- and post-exertional-worsening sources, clearly separating FND evidence from evidence borrowed from ME/CFS or other conditions. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety or lived experience.
+The energy-envelope study and pacing review concern ME/CFS and cannot establish an FND treatment. The OT recommendations support individualized activity planning in FND but are consensus, not a fatigue trial. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+**Related course page:** [Available capacity, spoons, and early action](../../part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md)
+
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | — | Jason LA, Muldowney K, Torres-Harding S. The Energy Envelope Theory and myalgic encephalomyelitis/chronic fatigue syndrome. *AAOHN Journal*. 2008;56(5):189–195. [FND-CIT-0065](../../../research/citation-index.md#fnd-cit-0065). [https://doi.org/10.3928/08910162-20080501-06](https://doi.org/10.3928/08910162-20080501-06) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Sanal-Hayes NEM, McLaughlin M, Hayes LD, et al. A scoping review of “pacing” for management of myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS): lessons learned for the long COVID pandemic. *Journal of Translational Medicine*. 2023;21:720. [FND-CIT-0066](../../../research/citation-index.md#fnd-cit-0066). [https://doi.org/10.1186/s12967-023-04587-5](https://doi.org/10.1186/s12967-023-04587-5) |
+| <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+
+This page still needs review by people with fatigue and delayed worsening, ME/CFS-informed clinicians, rehabilitation professionals and accessibility reviewers.
+
+*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*
