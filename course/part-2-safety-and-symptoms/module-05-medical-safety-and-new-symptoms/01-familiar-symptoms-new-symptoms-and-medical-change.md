@@ -4,23 +4,69 @@
 
 # Familiar Symptoms, New Symptoms, and Medical Change
 
-This is a focused authoring template within Module 5. Build the completed page around this scope: Teach comparison with the person’s established, medically assessed pattern; explain diagnostic overshadowing and the risks of both dismissal and automatic escalation; and show why new, severe, injured, or substantially changed symptoms need fresh judgment.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+FND can explain real and disabling symptoms. It does not protect you from another illness, injury or medical emergency. The safest question is often not “Is this FND?” but “Is this my usual, medically assessed pattern?” (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND emergency plan; diagnostic overshadowing; new symptoms; changed symptoms; medical red flags; emergency information; FND safety. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Familiar Symptoms, New Symptoms, and Medical Change.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Teach comparison with the person’s established, medically assessed pattern; explain diagnostic overshadowing and the risks of both dismissal and automatic escalation; and show why new, severe, injured, or substantially changed symptoms need fresh judgment. The reader should not have to read the module overview first to understand the page.
+A **familiar symptom** matches a pattern that has already been assessed. A **changed symptom** differs in an important way—for example, its start, length, severity or recovery is unusual for you. A **new symptom** has not yet been explained.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: Why having FND does not protect a person from other illnesses or emergencies. How to compare an event with the person’s usual, medically assessed pattern. Why new, severe, injured, or clearly changed symptoms should not automatically be called FND. Why breathing trouble, serious injury, prolonged unresponsiveness, or sudden neurological change may need urgent help. Why a general internet list cannot decide whether one person needs emergency care. How an individualized plan from the person’s clinicians can guide familiar episodes. What information emergency workers may need quickly. How to avoid both calling emergency services automatically for every familiar symptom and dismissing something dangerous. Why emergency information must be short, current, and easy to find. Diagnostic overshadowing, anchoring, premature closure, and iatrogenic harm in patients with an established FND diagnosis. Distinguishing a stereotyped, previously assessed event from altered semiology, new focal deficits, medical instability, intoxication, withdrawal, infection, or injury. Individualized thresholds for emergency escalation and the limitations of generic red-flag education. Balancing avoidance of unnecessary anticonvulsants, intubation, restraint, imaging, and admission against appropriate emergency investigation. Handover language that separates confirmed diagnosis, usual presentation, current differences, observed physiology, and unresolved risk. Advance care information, accessibility needs, consent, capacity, and supporter roles. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![Three cards compare a familiar symptom with a changed symptom and a new symptom.](../../../assets/module-5-page-1-familiar-changed-new.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. State that generic red-flag lists cannot reliably determine safety for one person and that different health histories create different risks. Note limited evidence on optimal emergency plans and the tension between preventing overtreatment and avoiding missed illness. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: compare the current symptom with your own usual pattern before making an assumption.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe the difficult middle ground between repeated emergency visits for familiar symptoms and dangerous dismissal of a real medical change. Include the fear experienced by the person and supporter when they must make decisions during pain, altered awareness, breathing difficulty, or injury. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Draft an emergency information sheet with clinician-reviewed criteria where available. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+Your FND plan can guide a familiar event. It should never become a rule that every future symptom is FND.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: What is my usual medically assessed pattern? Which changes require emergency help? Who should supporters call? What information should emergency workers receive? When should my plan be reviewed? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### Compare before you assume
+
+When you are able, compare what is happening with your usual pattern:
+
+- Did it begin in the usual way?
+- Are the symptoms and body areas the same?
+- Is it lasting about as long as usual?
+- Is recovery following the usual course?
+- Is there a new illness, injury, medicine change or other concern?
+
+One difference does not automatically mean danger. It means the situation deserves fresh thought. An internet checklist cannot account for your diagnoses, medicines, risks or clinician advice.
+
+### Why dismissal can be harmful
+
+**Diagnostic overshadowing** means that a known diagnosis draws attention away from another possible problem. A person with FND can also have epilepsy, migraine, infection, medication effects, stroke, an eye condition or many other illnesses. Clinicians still need to judge a new problem on its own evidence. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+The opposite problem also matters: repeatedly treating a familiar functional event as a new emergency can lead to frightening or unnecessary tests and treatments. An individual plan helps hold both risks at once.
+
+### Community experiences for review
+
+These are two candidate lived-experience quotations. They show why reassessment can matter; they are not medical advice or proof that the same explanation applies to another person.
+
+**Option 1 — a separate eye problem was found**
+
+> “He gave me steroid droplets ... and since then my light sensitivity is gone.”
+
+— The writer described improvement after an eye clinician treated pollen-related irritation. [Read the public source](https://www.reddit.com/r/FND/comments/1ievray/sharing_my_success_story/).
+
+**Option 2 — an earlier explanation was reconsidered**
+
+> “I recently got done with 3 months of water therapy ... It did nothing.”
+
+— The writer described continuing symptoms and disagreement with an FND diagnosis. [Read the public source](https://www.reddit.com/r/FND/comments/1g4xytc/i_disagree_with_the_diagnosis/).
+
+### Questions
+
+#### What features tell you, “This is my familiar pattern”?
+
+#### What kind of change would make you want fresh medical advice rather than assuming FND?
+
+### One small thing you can do
+
+Write one sentence beginning: **“My usual medically assessed pattern is ...”** Add only the few details that would help someone notice a meaningful difference.
+
+A lower-demand version is to name one familiar symptom and its usual recovery time. Stop if this turns into constant body checking. Ask a clinician to help if you cannot tell which symptoms have actually been assessed.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +77,9 @@ This is a focused authoring template within Module 5. Build the completed page a
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Familiar Symptoms, New Symptoms, and Medical Change.” Develop the supporter guidance from these points: Following the agreed plan while watching for unusual features. Describing observations calmly and avoiding diagnostic arguments during an emergency. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Follow the person’s plan for a familiar event, while noticing what is different today. Describe what you observe: timing, movement, responsiveness, breathing, colour, injury and recovery. You do not have to decide the diagnosis.
+
+Avoid saying either “This is definitely FND” or “This must be an emergency” without considering the plan and circumstances. If the pattern is new or clearly changed, or you are worried about immediate safety, seek appropriate medical help. Preserve the person’s privacy and choices whenever the situation allows.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +90,25 @@ This is a focused authoring template within Module 5. Build the completed page a
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Explain that a familiar functional episode may resemble epilepsy, stroke, fainting, migraine, medication toxicity, infection, metabolic illness, or other emergencies. Do not create a universal diagnostic list; teach comparison with the person’s established pattern and individualized medical plan. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Diagnostic overshadowing, anchoring, premature closure, and iatrogenic harm in patients with an established FND diagnosis. Distinguishing a stereotyped, previously assessed event from altered semiology, new focal deficits, medical instability, intoxication, withdrawal, infection, or injury. Handover language that separates confirmed diagnosis, usual presentation, current differences, observed physiology, and unresolved risk. Periodic clinical review of episode plans after diagnostic or medical change. Explain both the value and limitations of each step.
+**Option 1 — Finkelstein et al., 2021**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Advance care information, accessibility needs, consent, capacity, and supporter roles. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “the presence of positive clinical signs of FND does not exclude the presence of a concomitant neurological condition.”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. This is the central reassessment page. Cover new or substantially changed symptoms, significant injury, breathing or circulation concerns, prolonged unresponsiveness, severe acute illness, unusual recovery, and any individualized criteria supplied by clinicians. Keep the eventual wording calm and non-alarmist. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Mcloughlin et al., 2025**
+
+> “A balanced approach is needed not to over or under-investigate new symptoms on their own merits.”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [2](#citation-2), [3](#citation-3))*
+
+### Reassess the presentation, not the person’s credibility
+
+Start with physiological stability and time-sensitive differentials. Then compare the current semiology with documented event types. Separate: confirmed diagnoses; the usual presentation; current differences; objective observations; and unresolved risk.
+
+Positive FND signs can support a diagnosis, but they do not rule out comorbidity. Conversely, a stereotyped event with an established plan may not benefit from repeated low-yield investigation or harmful acute treatment. Explain the reasoning for either investigation or non-investigation. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
+
+When uncertainty remains, name it. Arrange a route for follow-up and revise the safety plan after a new diagnosis, medication change, injury or material change in events.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -67,6 +127,15 @@ This is a focused authoring template within Module 5. Build the completed page a
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Familiar Symptoms, New Symptoms, and Medical Change”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+The emergency-department reviews and iatrogenic-harm review support positive FND diagnosis alongside appropriate assessment of changed symptoms. They are reviews and clinical guidance, not a validated decision rule for one person. (*citations* [2](#citation-2), [3](#citation-3), [4](#citation-4))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
+| <a id="citation-3"></a>**[3]** | Figure 1 | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
+| <a id="citation-4"></a>**[4]** | — | Anderson JR, Nakhate V, Stephen CD, Perez DL. Functional (psychogenic) neurological disorders: assessment and acute management in the emergency department. *Seminars in Neurology*. 2019;39(1):102–114. [FND-CIT-0070](../../../research/citation-index.md#fnd-cit-0070). [https://doi.org/10.1055/s-0038-1676844](https://doi.org/10.1055/s-0038-1676844) |
+
+This page still needs review by people with FND, supporters, emergency clinicians and neurologists.
+
+*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*

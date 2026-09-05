@@ -12,6 +12,14 @@
 
 Explain functional seizures and related episodes while supporting safe, individualized responses.
 
+## Course pages
+
+- [Module overview](../../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/README.md)
+- [What Functional Seizures Are and How They Are Diagnosed](../../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/01-what-functional-seizures-are-and-how-they-are-diagnosed.md)
+- [Episode Safety, Observation, and Emergency Decisions](../../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/02-episode-safety-observation-and-emergency-decisions.md)
+- [Recovery and Treatment](../../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/03-recovery-treatment-and-daily-life.md)
+- [Living With Functional Seizures and Planning Ahead](../../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/04-living-with-functional-seizures-and-planning-ahead.md) — keeps participation and day-to-day planning separate from treatment evidence.
+
 ## Essential knowledge
 
 - What functional seizures are and the different names people may hear for them.

@@ -478,6 +478,24 @@ Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional ne
 
 Use this source for the limited validation of FND-specific outcome measures, the need to capture several outcome domains, and the strengths and limitations of patient-reported, clinician-rated and objective measures. Do not describe the course’s personal symptom map as a validated outcome measure or diagnostic instrument.
 
+## FND-CIT-0068
+
+Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263)
+
+Use this narrative review for emergency-department recognition of positive FND signs, acute differential diagnosis, communication and proportionate management. It is not a validated triage rule, and its advice must not be used to dismiss a new or coexisting condition.
+
+## FND-CIT-0069
+
+Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283)
+
+Use this scoping review for harms related to misdiagnosis, delayed diagnosis, diagnostic overshadowing, over-diagnosis, stigmatizing interactions and inappropriate treatment. It supports a balanced approach to new symptoms, not automatic investigation or non-investigation.
+
+## FND-CIT-0070
+
+Anderson JR, Nakhate V, Stephen CD, Perez DL. Functional (psychogenic) neurological disorders: assessment and acute management in the emergency department. *Seminars in Neurology*. 2019;39(1):102–114. [https://doi.org/10.1055/s-0038-1676844](https://doi.org/10.1055/s-0038-1676844)
+
+Use this review for acute assessment, positive examination features, communication and emergency management. Preserve the historical term only in the article title; the paper is clinical guidance rather than a patient-specific decision rule.
+
 # How Course Pages Should Use the Index
 
 1. Assign a source one permanent ID and never renumber it.

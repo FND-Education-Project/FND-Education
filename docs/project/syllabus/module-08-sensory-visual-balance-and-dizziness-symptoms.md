@@ -12,6 +12,14 @@
 
 Organize several frequently overlapping symptom areas and clarify when adaptations, rehabilitation, or further assessment may be appropriate.
 
+## Course pages
+
+- [Module overview](../../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/README.md)
+- [Numbness, Altered Sensation, and Hypersensitivity](../../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/01-numbness-altered-sensation-and-hypersensitivity.md)
+- [Visual Symptoms and Photophobia](../../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/02-visual-symptoms-photophobia-and-sensory-overload.md)
+- [Dizziness, Balance, and Vestibular Overlap](../../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/03-dizziness-balance-and-vestibular-overlap.md)
+- [Sensory Overload, Accommodations, and Gradual Change](../../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/04-sensory-overload-accommodations-and-gradual-change.md) — separates immediate access needs from optional, individualized rehabilitation.
+
 ## Essential knowledge
 
 - How FND may affect touch, feeling, vision, balance, or the sense of where the body is.

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">Examples of visual symptom experiences</title>
+  <desc id="desc">Four panels label clear vision, blur, narrowed field and glare as examples rather than a complete list.</desc>
+  <rect width="900" height="300" rx="24" fill="#eef5f7"/>
+  <text x="450" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Visual symptoms do not all look the same</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#17324d">
+    <g transform="translate(35 80)"><rect width="190" height="160" rx="18" fill="#fff" stroke="#356f99" stroke-width="3"/><circle cx="95" cy="75" r="38" fill="#d9f0e6" stroke="#18765b" stroke-width="5"/><circle cx="95" cy="75" r="12" fill="#18765b"/><text x="95" y="137" font-size="18">Clear</text></g>
+    <g transform="translate(248 80)"><rect width="190" height="160" rx="18" fill="#fff" stroke="#356f99" stroke-width="3"/><circle cx="95" cy="75" r="50" fill="#dcecf7" opacity=".55"/><circle cx="95" cy="75" r="32" fill="#dcecf7" opacity=".55"/><text x="95" y="137" font-size="18">Blur</text></g>
+    <g transform="translate(461 80)"><rect width="190" height="160" rx="18" fill="#17324d" stroke="#356f99" stroke-width="3"/><ellipse cx="95" cy="75" rx="35" ry="58" fill="#fff"/><text x="95" y="137" font-size="18" fill="#fff">Narrowed field</text></g>
+    <g transform="translate(674 80)"><rect width="190" height="160" rx="18" fill="#fff" stroke="#356f99" stroke-width="3"/><circle cx="95" cy="75" r="27" fill="#fff0c7" stroke="#a66500" stroke-width="5"/><path d="M95 25v-18m0 136v-18M45 75H27m136 0h-18M60 40L47 27m83 83l13 13m-83 0l-13 13m83-83l13-13" stroke="#a66500" stroke-width="6"/><text x="95" y="137" font-size="18">Glare</text></g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" role="img" aria-labelledby="title desc">
+  <title id="title">Dysphagia and globus describe different experiences</title>
+  <desc id="desc">One panel describes difficulty moving food or drink; the other describes a lump sensation when not swallowing.</desc>
+  <rect width="900" height="320" rx="24" fill="#eef5f7"/>
+  <text x="450" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Name the experience before choosing care</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle" fill="#17324d">
+    <rect x="55" y="82" width="360" height="200" rx="22" fill="#fff" stroke="#356f99" stroke-width="4"/>
+    <text x="235" y="124" font-size="25" font-weight="700">Dysphagia</text>
+    <path d="M190 158h90v70h-90" fill="none" stroke="#356f99" stroke-width="8" stroke-linecap="round"/><circle cx="235" cy="174" r="12" fill="#a66500"/><path d="M235 190v30" stroke="#a66500" stroke-width="6"/><path d="M235 220l-9-13h18z" fill="#a66500"/>
+    <text x="235" y="260" font-size="18">difficulty moving food or drink</text>
+    <rect x="485" y="82" width="360" height="200" rx="22" fill="#fff" stroke="#76509a" stroke-width="4"/>
+    <text x="665" y="124" font-size="25" font-weight="700">Globus</text>
+    <path d="M620 158h90v70h-90" fill="none" stroke="#76509a" stroke-width="8" stroke-linecap="round"/><circle cx="665" cy="193" r="17" fill="#f9dfe2" stroke="#a43f4c" stroke-width="4"/>
+    <text x="665" y="260" font-size="18">a lump sensation between swallows</text>
+  </g>
+</svg>

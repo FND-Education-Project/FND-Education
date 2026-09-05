@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">Familiar, changed and new symptoms</title>
+  <desc id="desc">Three cards compare a familiar symptom with a changed symptom and a new symptom.</desc>
+  <rect width="900" height="300" rx="24" fill="#f7f5ef"/>
+  <text x="450" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Compare with your own usual pattern</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="40" y="72" width="250" height="184" rx="18" fill="#d9f0e6" stroke="#18765b" stroke-width="4"/>
+    <text x="165" y="116" font-size="25" font-weight="700" fill="#134f40">Familiar</text>
+    <text x="165" y="158" font-size="19" fill="#17324d">My usual pattern</text>
+    <text x="165" y="191" font-size="19" fill="#17324d">Already assessed</text>
+    <text x="165" y="224" font-size="19" fill="#17324d">Plan still fits</text>
+    <rect x="325" y="72" width="250" height="184" rx="18" fill="#fff0c7" stroke="#a66500" stroke-width="4"/>
+    <text x="450" y="116" font-size="25" font-weight="700" fill="#7a4b00">Changed</text>
+    <text x="450" y="158" font-size="19" fill="#17324d">Stronger or longer</text>
+    <text x="450" y="191" font-size="19" fill="#17324d">Different features</text>
+    <text x="450" y="224" font-size="19" fill="#17324d">Fresh advice may help</text>
+    <rect x="610" y="72" width="250" height="184" rx="18" fill="#f9dfe2" stroke="#a43f4c" stroke-width="4"/>
+    <text x="735" y="116" font-size="25" font-weight="700" fill="#7b2934">New</text>
+    <text x="735" y="158" font-size="19" fill="#17324d">Not in my pattern</text>
+    <text x="735" y="191" font-size="19" fill="#17324d">Do not assume FND</text>
+    <text x="735" y="224" font-size="19" fill="#17324d">Assess on its merits</text>
+  </g>
+</svg>

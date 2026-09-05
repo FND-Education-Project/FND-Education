@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" role="img" aria-labelledby="title desc">
+  <title id="title">Different routes back to participation</title>
+  <desc id="desc">Three routes use planning, adaptation or small steps to reach valued participation.</desc>
+  <rect width="900" height="320" rx="24" fill="#f7f5ef"/>
+  <text x="450" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Participation can have more than one route</text>
+  <g font-family="Arial, sans-serif" fill="none" stroke-width="8">
+    <path d="M80 105 C280 105 270 165 500 165 S680 105 805 105" stroke="#356f99"/>
+    <path d="M80 165 C260 165 310 115 470 115 S650 165 805 165" stroke="#18765b"/>
+    <path d="M80 225 C250 225 330 215 500 215 S680 225 805 225" stroke="#a66500" stroke-dasharray="16 10"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#17324d">
+    <text x="72" y="92">Plan</text><text x="72" y="151">Adapt</text><text x="72" y="212">Small steps</text>
+    <rect x="730" y="75" width="130" height="180" rx="22" fill="#ffffff" stroke="#76509a" stroke-width="4"/>
+    <text x="795" y="135" text-anchor="middle" font-size="20">A valued</text><text x="795" y="165" text-anchor="middle" font-size="20">place, role</text><text x="795" y="195" text-anchor="middle" font-size="20">or activity</text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">Using an individual safety plan</title>
+  <desc id="desc">A three-step path asks whether an event is familiar, whether anything is different and what the individual plan says.</desc>
+  <rect width="900" height="300" rx="24" fill="#f7f5ef"/>
+  <text x="450" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Pause, compare, then follow the plan</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="45" y="90" width="220" height="130" rx="65" fill="#dcecf7" stroke="#356f99" stroke-width="4"/>
+    <text x="155" y="145" font-size="22" font-weight="700" fill="#17324d">Is this familiar?</text>
+    <text x="155" y="178" font-size="18" fill="#17324d">Compare the pattern</text>
+    <path d="M275 155h55" stroke="#17324d" stroke-width="5"/><path d="M330 155l-14-10v20z" fill="#17324d"/>
+    <rect x="340" y="90" width="220" height="130" rx="65" fill="#fff0c7" stroke="#a66500" stroke-width="4"/>
+    <text x="450" y="145" font-size="22" font-weight="700" fill="#17324d">Anything different?</text>
+    <text x="450" y="178" font-size="18" fill="#17324d">Notice current risk</text>
+    <path d="M570 155h55" stroke="#17324d" stroke-width="5"/><path d="M625 155l-14-10v20z" fill="#17324d"/>
+    <rect x="635" y="90" width="220" height="130" rx="65" fill="#d9f0e6" stroke="#18765b" stroke-width="4"/>
+    <text x="745" y="145" font-size="22" font-weight="700" fill="#17324d">What does my</text>
+    <text x="745" y="175" font-size="22" font-weight="700" fill="#17324d">plan say?</text>
+  </g>
+</svg>

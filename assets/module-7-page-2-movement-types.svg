@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" role="img" aria-labelledby="title desc">
+  <title id="title">Tremor, jerks and spasms</title>
+  <desc id="desc">Three simple traces distinguish rhythmic movement, sudden movement and longer tightening.</desc>
+  <rect width="900" height="320" rx="24" fill="#f7f5ef"/>
+  <text x="450" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Words describe different movement patterns</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="35" y="78" width="255" height="190" rx="20" fill="#fff" stroke="#356f99" stroke-width="3"/><text x="162" y="115" font-size="24" font-weight="700" fill="#17324d">Tremor</text><path d="M68 190q24-70 48 0t48 0t48 0t48 0" fill="none" stroke="#356f99" stroke-width="7"/><text x="162" y="240" font-size="17" fill="#17324d">rhythmic shaking</text>
+    <rect x="322" y="78" width="255" height="190" rx="20" fill="#fff" stroke="#76509a" stroke-width="3"/><text x="450" y="115" font-size="24" font-weight="700" fill="#17324d">Jerk</text><path d="M355 190h65l18-65 20 110 22-45h64" fill="none" stroke="#76509a" stroke-width="7"/><text x="450" y="240" font-size="17" fill="#17324d">sudden movement</text>
+    <rect x="610" y="78" width="255" height="190" rx="20" fill="#fff" stroke="#a66500" stroke-width="3"/><text x="737" y="115" font-size="24" font-weight="700" fill="#17324d">Spasm</text><path d="M645 210q25-60 50-60h85q25 0 50 60" fill="none" stroke="#a66500" stroke-width="7"/><text x="737" y="240" font-size="17" fill="#17324d">longer tightening</text>
+  </g>
+</svg>

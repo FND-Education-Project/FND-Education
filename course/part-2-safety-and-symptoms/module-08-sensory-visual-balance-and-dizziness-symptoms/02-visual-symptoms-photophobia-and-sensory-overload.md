@@ -1,26 +1,64 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 8: Sensory, Visual, Balance, and Dizziness Symptoms](README.md) › **Visual Symptoms, Photophobia, and Sensory Overload**
+[Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 8: Sensory, Visual, Balance, and Dizziness Symptoms](README.md) › **Visual Symptoms and Photophobia**
 <!-- NAV-BREADCRUMB:END -->
 
-# Visual Symptoms, Photophobia, and Sensory Overload
+# Visual Symptoms and Photophobia
 
-This is a focused authoring template within Module 8. Build the completed page around this scope: Cover functional visual symptoms, visual distortion or loss, light and sound sensitivity, visual-motion sensitivity, eye and migraine assessment, low-sensory access, accommodation, and the limits and risks of exposure-based advice.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+Vision may blur, narrow, double, darken or feel unreliable. Light and busy scenes may become painful or overwhelming. Functional visual symptoms are one possible diagnosis; eye, migraine and neurological causes still matter. (*citations* [1](#citation-1), [2](#citation-2))
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: functional sensory symptoms; numbness; altered sensation; functional visual symptoms; functional vision loss; dizziness; balance; PPPD; sensory overload; photophobia; phonophobia. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Visual Symptoms, Photophobia, and Sensory Overload.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover functional visual symptoms, visual distortion or loss, light and sound sensitivity, visual-motion sensitivity, eye and migraine assessment, low-sensory access, accommodation, and the limits and risks of exposure-based advice. The reader should not have to read the module overview first to understand the page.
+A **functional visual symptom** is a real change in seeing. A clinician supports the diagnosis by showing that vision works better in a different task or condition—not merely because a test was normal. **Photophobia** means light causes discomfort or worsens symptoms.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: How FND may affect touch, feeling, vision, balance, or the sense of where the body is. Why numbness, unusual sensations, dizziness, visual difficulty, and sensory overload can be real and disabling. Why migraine, inner-ear conditions, eye disease, medication effects, and other illnesses may cause similar or overlapping symptoms. Why visual, vestibular, or other specialist assessment may still be needed. How light, sound, movement, busy patterns, or crowded places may increase symptoms for some people. How practical changes to the environment can reduce strain and improve access. The difference between an accommodation that makes life possible and avoiding everything that might produce symptoms. Why gradual exposure must be individualized, consensual, and small enough to be safe and tolerable. Basic ways to reduce falls and injuries while symptoms are being assessed or treated. Functional sensory loss, hemisensory symptoms, non-dermatomal patterns, visual loss, diplopia, photophobia, dizziness, and balance presentations. Positive examination features and the limits of inconsistency or non-anatomical distribution as isolated evidence. Differential diagnosis involving ophthalmic, vestibular, migraine, neuropathic, spinal, cerebrovascular, medication-related, and systemic causes. Overlap with persistent postural-perceptual dizziness, vestibular migraine, visual dependence, and sensory hypersensitivity. Sensory prediction, attention, threat, postural control, and multisensory integration as proposed mechanisms. Environmental modification, vestibular or visual rehabilitation, sensory desensitization, and graded exposure with careful selection and monitoring. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![Four panels label clear vision, blur, a narrowed visual field and glare as examples.](../../../assets/module-8-page-2-visual-symptoms.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Identify limited research on severe sensory disability, photophobia, phonophobia, mixed visual-vestibular symptoms, and the best balance between accommodation and exposure. Explain that mechanisms involving prediction, attention, or sensory integration remain proposed rather than individually proven. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: visual symptoms do not all look or feel the same.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe numbness, unusual touch, burning or tingling, visual loss or distortion, double vision, dizziness, rocking, imbalance, visual-motion sensitivity, light or sound sensitivity, and overload. Stress that these experiences can be severe even when standard tests do not explain them fully. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Make a sensory-load and adaptation map. Identify one reversible environmental change and one question for a clinician. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+A positive diagnosis should demonstrate preserved visual function and explain it without implying that you are pretending.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Which findings support a functional symptom? Have eye, vestibular, migraine, medication, and neurological causes been considered? Which accommodations are appropriate now? If exposure is proposed, how will it be made gradual, consensual, and reversible? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### Assessment and overlap
+
+An eye or neuro-ophthalmic assessment may compare vision across tasks and look for signs that vision is working outside the difficult test. The clinician should also consider eye disease, migraine, medication and neurological conditions. Normal structure alone is not enough to diagnose a functional symptom. (*citations* [1](#citation-1))
+
+If a familiar episode begins, stop driving, using tools, cooking or navigating stairs until vision is reliable. Sudden new or painful visual loss, flashes or floaters, a curtain-like shadow, or visual change with acute neurological symptoms needs urgent assessment.
+
+### Access now, rehabilitation when suitable
+
+Tint, lower glare, screen settings, breaks, a guide or a quieter route may make an activity possible. Long-term avoidance or very dark lenses can have tradeoffs for some conditions, so discuss persistent photophobia with an appropriate clinician. Accommodation is not failure; rehabilitation is not compulsory exposure. The later [sensory-overload page](04-sensory-overload-accommodations-and-gradual-change.md) looks more broadly at light, sound, touch, motion and busy environments.
+
+### Community experiences for review
+
+These accounts show an aid and a separate diagnosis. They do not prove what will help another person.
+
+**Option 1 — tinted lenses helped**
+
+> “I’ve got FL-41 lens coating sunglasses to help with light sensitivity.”
+
+— The writer described one accessibility aid. [Read the public source](https://www.reddit.com/r/FND/comments/1h7poki/accessibility_aids/).
+
+**Option 2 — an eye problem was treated**
+
+> “He gave me steroid droplets ... and since then my light sensitivity is gone.”
+
+— The writer described improvement after eye assessment and treatment. [Read the public source](https://www.reddit.com/r/FND/comments/1ievray/sharing_my_success_story/).
+
+### Questions
+
+#### Which visual setting makes you lose access most quickly, and what would help you stay involved?
+
+#### Have your visual symptoms been positively assessed, or mainly explained by tests that were normal?
+
+### One small thing you can do
+
+Change one controllable source of glare or visual clutter. A lower-demand version is to note the setting you want help adapting.
+
+Do not test vision while driving or near hazards. Seek appropriate care for a new, painful or substantially changed visual symptom.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +69,9 @@ This is a focused authoring template within Module 8. Build the completed page a
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Visual Symptoms, Photophobia, and Sensory Overload.” Develop the supporter guidance from these points: Reducing avoidable strain without abruptly exposing the person to triggers. Helping build gradual plans that respect severity and consent. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Guide only with permission. Describe obstacles and offer an arm in the way the person prefers. Reduce glare, motion or crowding when practical without insisting that they tolerate more.
+
+Do not wave fingers, flash lights or create surprise tests. Help the person access eye or neurological reassessment when the symptom is new or changed.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +82,23 @@ This is a focused authoring template within Module 8. Build the completed page a
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Cover eye disease, migraine and vestibular migraine, inner-ear disorders, neuropathy, spinal disease, stroke, medication effects, blood-pressure problems, and persistent postural-perceptual dizziness. Explain that functional and non-functional contributors may overlap. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Positive examination features and the limits of inconsistency or non-anatomical distribution as isolated evidence. Differential diagnosis involving ophthalmic, vestibular, migraine, neuropathic, spinal, cerebrovascular, medication-related, and systemic causes. Environmental modification, vestibular or visual rehabilitation, sensory desensitization, and graded exposure with careful selection and monitoring. Explain both the value and limitations of each step.
+**Option 1 — Ramsay et al., 2024**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Environmental modification, vestibular or visual rehabilitation, sensory desensitization, and graded exposure with careful selection and monitoring. Accessibility versus avoidance, including the danger of using rehabilitation theory to deny needed accommodations. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “Trust and transparency are an essential element in any doctor-patient relationship”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Flag sudden vision loss, a painful red eye, new one-sided sensory loss, fainting, serious falls, new severe headache, new hearing change, or a substantial departure from the person’s usual symptoms. The final article should defer to appropriate eye, vestibular, neurological, or medical assessment. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Ramsay et al., 2024**
+
+> “Make a positive diagnosis based on investigations that demonstrate normal vision”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1))*
+
+### Demonstrate, explain and preserve access
+
+Use a complete ophthalmic or neuro-ophthalmic assessment to identify positive evidence of preserved vision and relevant comorbidity. Show the patient what the finding means, its limits and why it supports a functional diagnosis. Avoid surprise manoeuvres that feel like attempts to catch the patient out. (*citations* [1](#citation-1))
+
+Assess migraine, ocular disease, neurological conditions and medication effects. Provide immediate visual access while considering individualized rehabilitation. Evidence-based treatment remains limited; do not turn tint removal, visual exposure or attention strategies into universal requirements.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -67,6 +117,15 @@ This is a focused authoring template within Module 8. Build the completed page a
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Visual Symptoms, Photophobia, and Sensory Overload”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+The 2024 clinical paper supports a positive, transparent visual assessment and consideration of comorbid disease. The migraine review supports overlap but does not show that every visual symptom in FND is migraine. (*citations* [1](#citation-1), [2](#citation-2))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+**Related reference pages:** [visual signs](../../../reference/diagnostic-signs/08-functional-visual-symptoms.md) · [visual recovery ideas](../../../reference/recovery-techniques/08-functional-visual-symptoms.md)
+
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. [FND-CIT-0024](../../../research/citation-index.md#fnd-cit-0024). [https://doi.org/10.1038/s41433-024-03126-w](https://doi.org/10.1038/s41433-024-03126-w) |
+| <a id="citation-2"></a>**[2]** | — | Stone J, Coebergh J, Khoja L, Butler M, Nicholson TR, Dodick DW. Migraine and functional neurological disorder (FND)—a review of comorbidity and potential overlap. *Brain Communications*. 2025;7(4):fcaf288. [FND-CIT-0049](../../../research/citation-index.md#fnd-cit-0049). [https://doi.org/10.1093/braincomms/fcaf288](https://doi.org/10.1093/braincomms/fcaf288) |
+
+This page still needs review by people with visual symptoms, ophthalmic clinicians, neurologists and accessibility reviewers.
+
+*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*

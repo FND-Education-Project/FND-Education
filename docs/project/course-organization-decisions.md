@@ -4,7 +4,7 @@
 [Home](../../README.md) › Project Documentation › **Course Organization Decisions**
 <!-- NAV-BREADCRUMB:END -->
 
-The course has now been reorganized into 23 module folders containing 78 planned pages. Every module has a short overview plus one to four focused pages. The earlier decision about using overview pages with focused child pages is therefore treated as accepted.
+The course has now been reorganized into 23 module folders containing 83 planned pages. Every module has a short overview plus one to five focused pages. The earlier decision about using overview pages with focused child pages is therefore treated as accepted.
 
 The questions below are the revised decisions revealed by the actual page structure. Nothing needs to be decided before authoring can begin; the current organization is usable as it stands.
 
@@ -24,31 +24,27 @@ A reader may arrive from a search engine without reading the module overview. Th
 
 **Recommendation:** Yes. Allow a small amount of repeated orientation, but keep full explanations and evidence in one canonical page. The overview should help navigation rather than become required reading.
 
-## Decision 3 — Is the five-page movement module divided correctly?
+## Decision 3 — Should movement retraining have its own page?
 
-**Status: Accepted.** Gait and falls will remain combined with movement retraining.
+**Status: Accepted.** Movement retraining has its own focused page.
 
-Module 7 now contains an overview plus pages for weakness and paralysis; tremor, jerks, and spasms; functional dystonia and fixed postures; and gait, falls, and movement retraining.
+Module 7 now contains an overview plus pages for weakness and paralysis; tremor, jerks, and spasms; functional dystonia and fixed postures; gait and falls; and movement retraining.
 
-**Decision needed:** Should gait and falls remain combined with movement retraining, or should one of the other movement pages be combined so rehabilitation can have its own page?
-
-**Recommendation:** Keep the current split initially. Gait and falls are the clearest place to introduce shared movement-retraining principles, while every movement page can link there for the fuller explanation.
+**Reason:** Gait and fall safety already carry a high information load. A separate page can explain the unfamiliar idea of redirected attention through one illustration and a small example, while every movement page can link there for the fuller explanation.
 
 ## Decision 4 — Should visual symptoms and sensory overload share a page?
 
-**Status: Accepted.** Sensory overload will remain with visual symptoms for the initial course.
+**Status: Accepted.** Sensory overload, access and gradual change have their own focused page.
 
-Module 8 separates altered sensation; visual symptoms, photophobia, and sensory overload; and dizziness, balance, and vestibular overlap.
+Module 8 separates altered sensation; visual symptoms and photophobia; dizziness, balance, and vestibular overlap; and sensory overload, accommodations and gradual change.
 
-**Decision needed:** Does sensory overload belong primarily with visual symptoms, or should it later become a cross-symptom page covering light, sound, touch, visual motion, cognitive load, and environmental access?
-
-**Recommendation:** Make sensory overload a cross-symptom guide later. Keep it with visual symptoms for now because the overlap with photophobia and visual-motion sensitivity gives the author a practical starting home.
+**Reason:** Sensory overload can involve light, sound, touch, visual motion, cognitive load and the environment. Its own page can distinguish present-day access from optional rehabilitation without making the visual-symptom lesson too large.
 
 ## Decision 5 — Is the breathing page still too broad?
 
 **Status: Accepted.** Cough, breathing-pattern, and upper-airway symptoms will remain together initially, as recommended.
 
-Module 9 now separates speech and voice; swallowing and globus; and cough, breathing, and upper-airway symptoms.
+Module 9 now separates speech and voice; swallowing and globus; cough, breathing, and upper-airway symptoms; and communication access. The added access page keeps alternatives such as writing, gesture and communication cards from being buried in the speech-definition page.
 
 **Decision needed:** Should cough, breathing-pattern symptoms, and upper-airway or laryngeal symptoms remain together?
 
@@ -138,11 +134,12 @@ The clinician section on every overview and focused page will be centred on prac
 # Current Page Distribution
 
 - 2 pages: Modules 4 and 23
-- 3 pages: Modules 2, 5, 10, 12–16, 18–22
-- 4 pages: Modules 3, 6, 8, 9, and 17
-- 5 pages: Modules 1, 7, and 11
+- 3 pages: Modules 2, 10, 12–16, and 18–22
+- 4 pages: Modules 3, 5, and 17
+- 5 pages: Modules 1, 6, 8, 9, and 11
+- 6 pages: Module 7
 
-The median module length is three pages. No module exceeds five pages.
+The median module length is three pages. No module exceeds six pages.
 
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)

@@ -12,6 +12,13 @@
 
 Reduce both diagnostic overshadowing and unnecessary emergency responses by teaching individualized safety planning.
 
+## Course pages
+
+- [Module overview](../../../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md)
+- [Familiar Symptoms, New Symptoms, and Medical Change](../../../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md)
+- [Emergency Information and Individual Safety Plans](../../../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md)
+- [Using Your Safety Plan and Deciding When to Get Urgent Help](../../../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md) — separates the act of using a plan from the information-card lesson.
+
 ## Essential knowledge
 
 - Why having FND does not protect a person from other illnesses or emergencies.

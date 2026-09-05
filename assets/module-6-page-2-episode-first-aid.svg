@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">Four calm steps during a familiar functional seizure</title>
+  <desc id="desc">Four numbered panels say protect, time, observe and follow the individual plan.</desc>
+  <rect width="900" height="300" rx="24" fill="#f7f5ef"/>
+  <text x="450" y="43" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">During a familiar event</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(35 78)"><rect width="190" height="165" rx="18" fill="#dcecf7" stroke="#356f99" stroke-width="3"/><circle cx="95" cy="47" r="25" fill="#356f99"/><text x="95" y="56" font-size="24" font-weight="700" fill="#fff">1</text><text x="95" y="102" font-size="23" font-weight="700" fill="#17324d">Protect</text><text x="95" y="133" font-size="17" fill="#17324d">Reduce injury</text></g>
+    <g transform="translate(248 78)"><rect width="190" height="165" rx="18" fill="#fff0c7" stroke="#a66500" stroke-width="3"/><circle cx="95" cy="47" r="25" fill="#a66500"/><text x="95" y="56" font-size="24" font-weight="700" fill="#fff">2</text><text x="95" y="102" font-size="23" font-weight="700" fill="#17324d">Time</text><text x="95" y="133" font-size="17" fill="#17324d">Note duration</text></g>
+    <g transform="translate(461 78)"><rect width="190" height="165" rx="18" fill="#eee4f7" stroke="#76509a" stroke-width="3"/><circle cx="95" cy="47" r="25" fill="#76509a"/><text x="95" y="56" font-size="24" font-weight="700" fill="#fff">3</text><text x="95" y="102" font-size="23" font-weight="700" fill="#17324d">Observe</text><text x="95" y="133" font-size="17" fill="#17324d">Notice differences</text></g>
+    <g transform="translate(674 78)"><rect width="190" height="165" rx="18" fill="#d9f0e6" stroke="#18765b" stroke-width="3"/><circle cx="95" cy="47" r="25" fill="#18765b"/><text x="95" y="56" font-size="24" font-weight="700" fill="#fff">4</text><text x="95" y="102" font-size="23" font-weight="700" fill="#17324d">Follow</text><text x="95" y="133" font-size="17" fill="#17324d">Use the plan</text></g>
+  </g>
+</svg>

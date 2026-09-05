@@ -46,7 +46,7 @@ A clinician or care-team member should be better able to:
 
 # Course Modules
 
-Each module title links to its complete syllabus page. The [course authoring index](../../course/README.md) links to the 23 module folders and their 78 overview and focused pages.
+Each module title links to its complete syllabus page. The [course authoring index](../../course/README.md) links to the 23 module folders and their 83 overview and focused pages.
 
 ## Part One: Understanding FND
 
@@ -171,9 +171,11 @@ Planned guides include:
 Each module folder contains:
 
 - a short `README.md` overview that introduces the module and links to its focused pages;
-- one to four focused pages, giving each module between two and five total pages;
+- one to five focused pages, giving each module between two and six total pages;
 - stand-alone focused pages that remain understandable when reached directly from search;
 - one canonical home for each full explanation, with other pages summarizing and linking rather than duplicating it.
+
+Part Two uses a lower-reading-load pattern: one main idea at a time, a plain-language definition beside an illustration brief, a short essential message, personal reflection questions, and a small optional action. Five practical topics have their own pages so safety, symptom definitions and daily-life guidance do not have to be absorbed in one sitting.
 
 Every overview and focused page uses four visible sections:
 
@@ -182,7 +184,7 @@ Every overview and focused page uses four visible sections:
 3. **For Clinicians and the Care Team**
 4. **Research and Sources**
 
-Within those sections, 15 recurring authoring questions preserve the original page requirements: terminology, short summary, research findings, uncertainty, lived presentation, at-home ideas, questions for clinicians, related reading, supporter guidance, clinician explanation, individualized assessment, support for improvement, continuing support when improvement is limited, evidence notes, and last-reviewed date. Differential diagnosis, safety-netting, and medical reassessment remain within the clinician questions rather than disappearing from the page.
+Within those sections, 15 recurring authoring questions preserve the original page requirements: terminology, short summary, research findings, uncertainty, lived presentation, at-home ideas, personal reflection questions, related reading, supporter guidance, clinician explanation, individualized assessment, support for improvement, continuing support when improvement is limited, evidence notes, and last-reviewed date. Differential diagnosis, safety-netting, and medical reassessment remain within the clinician questions rather than disappearing from the page.
 
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)

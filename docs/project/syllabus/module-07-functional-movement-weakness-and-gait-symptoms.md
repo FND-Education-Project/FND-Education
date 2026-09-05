@@ -12,6 +12,15 @@
 
 Explain functional motor symptoms and introduce evidence-informed rehabilitation principles.
 
+## Course pages
+
+- [Module overview](../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/README.md)
+- [Functional Weakness and Paralysis](../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
+- [Tremor, Jerks, and Spasms](../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+- [Functional Dystonia and Fixed Postures](../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md)
+- [Gait and Falls](../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
+- [How Movement Retraining Works](../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/05-how-movement-retraining-works.md) — gives an unfamiliar rehabilitation idea its own short explanation and illustration.
+
 ## Essential knowledge
 
 - How FND can affect strength, walking, balance, posture, or movement.
