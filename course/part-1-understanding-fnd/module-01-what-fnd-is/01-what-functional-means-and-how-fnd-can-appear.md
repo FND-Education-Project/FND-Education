@@ -16,6 +16,10 @@ This page explains what the word “functional” means, how FND can appear, how
 
 The word 'functional' tells us that the way the nervous system transmits information throughout the brain and body is no longer working correctly. This affects actions like movement, sensation, attention and awareness. (*citations* [2](#citation-2), [9](#citation-9)) 
 
+![Nervous-system information passes through access or control toward movement, sensation, attention and awareness. The access change is involuntary.](../../../assets/module-1-page-1-function-routes.svg)
+
+*Illustration: “functional” describes how the system is working. The symptom is real, and the change is not chosen.*
+
 > ### Quick Fact
 > Functional Neurological Disorder (FND) and Functional Seizures (FS) are known by other names.
 > - *PNES (Psychogenic non-epileptic seizures), Pseudoseizure, Dissociative Attack*

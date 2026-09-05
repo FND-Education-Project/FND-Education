@@ -12,6 +12,10 @@ FND should not be diagnosed simply because a scan was normal or because no other
 
 The word **positive** can be confusing here. It does not mean that the finding is good, nor does it mean that a blood test came back positive. A **positive sign**, sometimes called a **rule-in sign**, is something the clinician observes that gives evidence *for* an FND diagnosis.
 
+![A clinician compares how the same function behaves in two suitable tasks. A meaningful difference may support FND but does not test honesty.](../../../assets/module-2-page-1-positive-signs.svg)
+
+*Illustration: a positive sign is an observed pattern. It is not proof that the person can choose the symptom.*
+
 The neurological examination does more than measure whether a movement is strong, weak, steady or unsteady. A clinician may compare the same movement under different conditions. They may look at what happens when you move deliberately, when another movement brings the same muscles into action automatically, when your attention is directed elsewhere, or when you copy a rhythm. The pattern across these tasks may be more informative than any one result. (*citations* [1](#citation-1), [2](#citation-2))
 
 This can feel strange. A leg that will not move when you concentrate on it may move more normally during a different task. A tremor may change when the other hand follows a rhythm. Walking may be easier in one direction or with a change in timing. These changes are not evidence that the person was pretending during the more difficult task. They show that the nervous system still has access to a function under some conditions, even though the person cannot reliably bring that function under voluntary control. FND symptoms are experienced as involuntary. (*citations* [1](#citation-1), [3](#citation-3))

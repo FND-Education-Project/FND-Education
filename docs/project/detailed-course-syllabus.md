@@ -46,7 +46,7 @@ A clinician or care-team member should be better able to:
 
 # Course Modules
 
-Each module title links to its complete syllabus page. The [course authoring index](../../course/README.md) links to the 23 module folders and their 86 overview and focused pages.
+Each module title links to its complete syllabus page. The [course authoring index](../../course/README.md) links to the 23 module folders and their 90 overview and focused pages.
 
 ## Part One: Understanding FND
 
@@ -72,6 +72,8 @@ Part Three uses the same lower-reading-load pattern as Part Two. One practical p
 - [**Module 12 — Autonomic and Whole-Body Symptoms**](syllabus/module-12-autonomic-and-whole-body-symptoms.md) — Explain common whole-body complaints while avoiding unsupported claims that all are caused by FND or autonomic “dysregulation.”
 
 ## Part Four: Treatment and Rehabilitation
+
+Part Four continues the lower-reading-load pattern. One focused page has been added to each module so access without local specialists, evaluating “rewiring” claims, reviewing delayed worsening, and consent and trauma do not have to be absorbed inside broader lessons.
 
 - [**Module 13 — Building an Individual Treatment Team**](syllabus/module-13-building-an-individual-treatment-team.md) — Help readers understand professional roles and assemble realistic care when specialist FND services are limited.
 - [**Module 14 — Rehabilitation and Neuroplastic Change**](syllabus/module-14-rehabilitation-and-neuroplastic-change.md) — Explain rehabilitation learning while correcting claims that neuroplasticity guarantees recovery.
@@ -177,7 +179,7 @@ Each module folder contains:
 - stand-alone focused pages that remain understandable when reached directly from search;
 - one canonical home for each full explanation, with other pages summarizing and linking rather than duplicating it.
 
-Part Two uses a lower-reading-load pattern: one main idea at a time, a plain-language definition beside an illustration brief, a short essential message, personal reflection questions, and a small optional action. Five practical topics have their own pages so safety, symptom definitions and daily-life guidance do not have to be absorbed in one sitting.
+Parts Two through Four use a lower-reading-load pattern: one main idea at a time, a plain-language definition beside an illustration, a short essential message, personal reflection questions, and a small optional action. Practical and safety-sensitive topics have their own pages so definitions, decisions and daily-life guidance do not have to be absorbed in one sitting.
 
 Every overview and focused page uses four visible sections:
 

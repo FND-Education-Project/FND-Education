@@ -4,7 +4,7 @@
 [Home](../../README.md) › Project Documentation › **Course Organization Decisions**
 <!-- NAV-BREADCRUMB:END -->
 
-The course has now been reorganized into 23 module folders containing 86 planned pages. Every module has a short overview plus one to five focused pages. The earlier decision about using overview pages with focused child pages is therefore treated as accepted.
+The course has now been reorganized into 23 module folders containing 90 planned pages. Every module has a short overview plus one to five focused pages. The earlier decision about using overview pages with focused child pages is therefore treated as accepted.
 
 The questions below are the revised decisions revealed by the actual page structure. Nothing needs to be decided before authoring can begin; the current organization is usable as it stands.
 
@@ -102,7 +102,7 @@ Every page already has a supporter section, while the planned mini-course covers
 
 ## Decision 12 — How should citations work on standalone pages?
 
-**Status: Citation structure selected for Module 1 and extended to the remission, recovery and available-capacity pages.**
+**Status: Citation structure selected for Module 1 and extended through Part Four.**
 
 Every page will repeat the citations needed to support that page because readers may encounter it without the rest of the course. Repetition across pages is therefore intentional. Within one page, however, citations should not be repeated unnecessarily.
 
@@ -117,7 +117,7 @@ The selected structure is:
 7. Use paraphrase for the finished educational explanation; retain only quotations that are especially useful to the human author or reader.
 8. Keep a source section selective rather than exhaustive, adding evidence that changes or directly supports the page.
 
-The Module 1 structure now covers the overview and four focused pages. The overview shows the complete five-page reading order, navigation moves through each focused page, and each page repeats only the compact source groups needed to stand alone. Twenty-eight stable citation IDs used by Module 1 are tracked in the central index.
+The same structure now covers every reader-facing overview and focused page in Parts One through Four. Each overview shows the module reading order, navigation moves through the focused pages, and each page repeats only the compact source groups needed to stand alone. Stable citation IDs are tracked in the central index.
 
 ## Decision 13 — Where should available capacity and Spoon Theory be introduced?
 
@@ -131,15 +131,23 @@ The fatigue page in Module 11 owns distinctions among capacity, fatigue, fatigab
 
 The clinician section on every overview and focused page will be centred on practical help to the patient rather than functioning only as an advanced information section. Its four recurring questions ask how clinicians can help the patient understand the subject and their own presentation, assess what may help, support symptom or functional improvement, and remain useful when improvement is limited, unlikely, or not yet possible. Existing material on differential diagnosis, examination, treatment evidence, safety, and medical reassessment remains, but it serves those patient-centred purposes.
 
+## Decision 14 — Which Part Four subjects need their own smaller page?
+
+**Status: Accepted.** Add one focused page to each Part Four module.
+
+Module 13 separates care without local specialist access from general team coordination. Module 14 separates evaluation of neuroplasticity and “rewiring” claims from practice planning. Module 15 gives delayed worsening and post-flare review its own page. Module 16 separates consent, trauma and treatment harm from the general therapy-choice page.
+
+**Reason:** Each subject carries a distinct decision or safety burden. Separate pages allow a reader with symptoms to learn one definition, view one illustration and answer two personal questions without also absorbing the whole module.
+
 # Current Page Distribution
 
 - 2 pages: Modules 4 and 23
-- 3 pages: Modules 2, 13–16, and 18–22
-- 4 pages: Modules 3, 5, 10, 12, and 17
+- 3 pages: Modules 2 and 18–22
+- 4 pages: Modules 3, 5, 10, and 12–17
 - 5 pages: Modules 1, 6, 8, and 9
 - 6 pages: Modules 7 and 11
 
-The median module length is three pages. No module exceeds six pages.
+The median module length is four pages. No module exceeds six pages.
 
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)

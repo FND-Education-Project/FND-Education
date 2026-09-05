@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">A treatment team is built around the person</title>
+  <desc id="desc">The person with FND is in the centre. Five surrounding areas show diagnosis and review, daily function, communication, emotional health, and other conditions. A note says roles are chosen for actual needs.</desc>
+  <rect width="900" height="330" rx="24" fill="#eef5f7"/>
+  <text x="450" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Build around the person—not a required list</text>
+  <g font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#17324d" text-anchor="middle">
+    <rect x="328" y="110" width="244" height="96" rx="22" fill="#fff0c7" stroke="#a86700" stroke-width="3"/>
+    <text x="450" y="150">Person with FND</text><text x="450" y="178" font-weight="400">needs, goals and choices</text>
+    <rect x="45" y="76" width="215" height="60" rx="15" fill="#fff" stroke="#2e6e9e" stroke-width="3"/>
+    <text x="152" y="112">Diagnosis and review</text>
+    <rect x="640" y="76" width="215" height="60" rx="15" fill="#fff" stroke="#18785b" stroke-width="3"/>
+    <text x="747" y="112">Daily function</text>
+    <rect x="45" y="176" width="215" height="60" rx="15" fill="#fff" stroke="#7350a0" stroke-width="3"/>
+    <text x="152" y="212">Communication</text>
+    <rect x="640" y="176" width="215" height="60" rx="15" fill="#fff" stroke="#a86700" stroke-width="3"/>
+    <text x="747" y="212">Emotional health</text>
+    <rect x="342" y="244" width="216" height="52" rx="14" fill="#fff" stroke="#9a3f36" stroke-width="3"/>
+    <text x="450" y="276">Other conditions</text>
+  </g>
+  <g stroke="#17324d" stroke-width="3" fill="none"><path d="M328 138 L260 108"/><path d="M572 138 L640 108"/><path d="M328 178 L260 206"/><path d="M572 178 L640 206"/><path d="M450 206 L450 244"/></g>
+  <text x="450" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#17324d">Choose a role because it answers a need.</text>
+</svg>

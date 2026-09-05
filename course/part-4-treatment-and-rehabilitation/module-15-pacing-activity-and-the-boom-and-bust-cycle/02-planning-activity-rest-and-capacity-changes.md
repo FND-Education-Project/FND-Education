@@ -1,28 +1,69 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 15: Pacing, Activity, and Boom-and-Bust](README.md) › **Planning Activity, Rest, and Capacity Changes**
+[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 15](README.md) › **Plan Activity, Rest, and Capacity Changes**
 <!-- NAV-BREADCRUMB:END -->
 
-# Planning Activity, Rest, and Capacity Changes
+# Plan Activity, Rest, and Capacity Changes
 
-This is a focused authoring template within Module 15. Build the completed page around this scope: Cover flexible activity ranges, restorative rest, necessary and meaningful activity, rehabilitation practice, low- and high-capacity days, gradual change where suitable, relapse adjustments, and signs that a plan needs clinical review.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+Pacing can protect access to essentials and valued life. It should not become a rigid timetable or an order to avoid everything difficult.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND pacing; boom-and-bust cycle; activity baseline; energy management; post-exertional worsening; graded activity; restorative rest; symptom flare. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Planning Activity, Rest, and Capacity Changes.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover flexible activity ranges, restorative rest, necessary and meaningful activity, rehabilitation practice, low- and high-capacity days, gradual change where suitable, relapse adjustments, and signs that a plan needs clinical review. The reader should not have to read the module overview first to understand the page.
+**Pacing** is an individualized way of arranging activity, rest, support and recovery. A **flexible plan** changes when health, demands or priorities change.
 
-**How should this page use “spoons”?** Link to the early-course [spoon-theory and available-capacity explanation](../../part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md). If a reader uses spoons, translate the metaphor into a practical question: what physical, thinking, sensory, emotional, social and upright demands draw on **available capacity**, and what recovery follows? Do not translate spoon count into a claimed sympathetic–parasympathetic position. This page should expand the introduction into individualized pacing, baseline and recovery planning rather than redefine the term.
+![Essential tasks, valued activities, supports and recovery time are arranged within a flexible day, with arrows showing that the plan can change.](../../../assets/module-15-page-2-flexible-pacing.svg)
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: What pacing means: planning activity and recovery around the person’s present capacity. Why physical, thinking, emotional, and sensory activities can all use energy. What a boom-and-bust pattern is: doing too much on a better day and then losing function during the following worsening. How to find a starting level that is possible often enough to be useful. Why flexible ranges may work better than rigid daily targets when symptoms vary. How restorative rest differs from giving up every activity or staying isolated. Why rehabilitation practice, necessary daily tasks, and enjoyable activity all count toward the total load. How to reduce or change a plan after a flare without treating it as failure. Why some people can gradually build capacity while others experience delayed or prolonged worsening that requires a different approach. Activity baselines, energy envelopes, quota-contingent versus symptom-contingent approaches, and flexible planning. Physical, cognitive, emotional, orthostatic, and sensory load, including delayed symptom responses. Boom-and-bust cycles, fear avoidance, deconditioning, overactivity, and the danger of assuming one mechanism in every patient. Distinguishing graded rehabilitation from fixed-increment graded exercise. Post-exertional symptom exacerbation and comorbid conditions that may make standard progression unsuitable. Monitoring function and recovery with the smallest measurement burden that can guide decisions. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+*Illustration: a plan makes room for what is necessary and what matters. Support and rest are parts of participation, not prizes earned afterward.*
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. State that FND-specific pacing research is limited and that evidence is often borrowed from pain, fatigue, or rehabilitation fields. Note disagreement over symptom-contingent and quota-based approaches and the danger of fixed progression for people with prolonged delayed worsening. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+### If you read only one thing
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe better days followed by overactivity, delayed worsening, guilt about rest, unpredictable capacity, and the difficulty of balancing necessary tasks with rehabilitation and enjoyable life. Include physical, thinking, emotional, sensory, and upright activity as forms of load. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+Pacing is not a cure for FND. Its value is practical: helping you make choices with the capacity and information available today.
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Create a flexible activity range and a simple plan for high-, medium-, and low-capacity days. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+### Build a plan around a life
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: What counts toward my total load? Is worsening immediate or delayed? What baseline is repeatable? How flexible may the plan be? What condition might make standard graded activity unsuitable? What indicates progress or need for review? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+Consider four areas:
+
+- **Essential:** food, medicine, hygiene, care, work or another need that cannot simply vanish.
+- **Valued:** connection, creativity, faith, nature, learning, pleasure or another reason the day matters.
+- **Support:** sitting, equipment, help, transport, a quieter setting, shorter steps or another adaptation.
+- **Recovery:** lower-demand time before, between or after activities.
+
+The aim is not to divide every minute correctly. It is to notice where one support could preserve something important. A plan may change across the day and may include choosing a meaningful activity despite knowing it could have a cost.
+
+### Change one thing at a time when possible
+
+If you change amount, speed, environment, support and timing together, it may be hard to learn what mattered. A small change can be easier to judge. But detailed tracking can itself become exhausting or increase symptom focus, so use the least information that helps.
+
+New, severe or substantially changed symptoms need appropriate assessment rather than automatic pacing. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+### Community experiences for review
+
+These accounts show that useful pacing can look very different.
+
+**Option 1 — short chunks**
+
+> “I have used pacing for chronic pain and fatigue for many years and manage activity in 10-12 minute chunks. Then I must rest.”
+
+— This person also reported ME/CFS; their timing is an individual example, not a prescription for FND. [Read the public source](https://www.reddit.com/r/FND/comments/1grqq89/how_do_you_cope_with_having_a_chronic_illness/).
+
+**Option 2 — acceptance changed pushing**
+
+> “ACT therapy ... helped me to accept my diagnosis and not push myself too hard.”
+
+— One person's account of what helped them. [Read the public source](https://www.reddit.com/r/FND/comments/1hsfay6/when_to_stop_looking/).
+
+### Questions
+
+#### What is one valued activity you want the plan to protect, not postpone indefinitely?
+
+#### Which support would reduce the load of an essential task without taking away its purpose?
+
+### One small thing you can do
+
+Put one essential task and one valued activity on tomorrow's page. Add only one possible support or recovery space.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -33,7 +74,9 @@ This is a focused authoring template within Module 15. Build the completed page 
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Planning Activity, Rest, and Capacity Changes.” Develop the supporter guidance from these points: Helping plan without policing. Noticing agreed early overload signs without making assumptions. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Do not fill the person's available time only with treatment and essential tasks. Ask what they want to preserve. Offer a specific form of help and make it easy to decline.
+
+Rest may not look like sleep, and using an aid may make activity possible rather than represent “giving in.” Avoid policing either activity or rest.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -44,13 +87,23 @@ This is a focused authoring template within Module 15. Build the completed page 
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Distinguish ordinary tiredness, deconditioning, pain-related avoidance, medication effects, sleep disorders, orthostatic problems, and post-exertional symptom exacerbation. Explain that these may require different activity plans even when they look like low tolerance. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Monitoring function and recovery with the smallest measurement burden that can guide decisions. Explain both the value and limitations of each step.
+**Option 1 — Pick et al., 2020**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Distinguishing graded rehabilitation from fixed-increment graded exercise. Evidence gaps for FND-specific pacing and the limits of transferring models from chronic pain, fatigue, or rehabilitation populations. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “few well-validated FND-specific outcome measures”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Advise review when activity repeatedly produces prolonged deterioration, fainting, injury, major sleep disruption, new cardiopulmonary symptoms, or loss of a previously stable baseline. A plan that continually worsens health is not automatically therapeutic. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Thomas et al., 2025**
+
+> “meaningful gains across a range of outcomes”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [2](#citation-2), [3](#citation-3))*
+
+### Make pacing functional and reviewable
+
+Define the purpose: prevent injury, manage delayed worsening, protect essentials, increase consistency, support graded rehabilitation or make space for a valued role. Those aims may require different plans. Address comorbid conditions and avoid assuming all fatigue or post-activity symptoms share one mechanism.
+
+Choose outcomes with the patient and include participation, quality of life, symptom burden and adverse effects. Increase, hold, reduce or adapt activity from the observed pattern—not a predetermined ladder. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -60,15 +113,23 @@ This is a focused authoring template within Module 15. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Psychological Treatment Without Blame](../module-16-psychological-treatment-without-blame/README.md)
+**Continue:** [Next page: Review Delayed Worsening and Change the Plan](03-reviewing-delayed-worsening-and-changing-the-plan.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Previous page](01-understanding-load-baselines-and-boom-and-bust.md) · [Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Planning Activity, Rest, and Capacity Changes”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+These sources support multiple outcome domains and flexible occupational planning. They do not validate one pacing schedule or show that pacing cures FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
+| <a id="citation-3"></a>**[3]** | Figure 1 | Thomas ST, Thomas ET, Schembri E, Lehn AC, Palmer DDG. Treatment outcomes in functional neurological disorder: a systematic review and meta-analysis exploring the influence of symptom chronicity. *BMJ Neurology Open*. 2025;7(2):e001150. [FND-CIT-0051](../../../research/citation-index.md#fnd-cit-0051). [https://doi.org/10.1136/bmjno-2025-001150](https://doi.org/10.1136/bmjno-2025-001150) |
+
+This page still needs review by people using different forms of pacing, occupational therapists, rehabilitation clinicians and accessibility reviewers.
+
+*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*

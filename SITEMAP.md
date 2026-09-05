@@ -164,7 +164,8 @@ Use the sections below to drill down into the course, reference library, researc
 
 - [Module overview](course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md)
 - [Who May Be on the Treatment Team](course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md)
-- [Coordination, Shared Goals, and Care Without Local Specialists](course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md)
+- [Shared Goals and Clear Responsibilities](course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md)
+- [Care When No Local FND Specialist Is Available](course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md)
 
 </details>
 
@@ -173,7 +174,8 @@ Use the sections below to drill down into the course, reference library, researc
 
 - [Module overview](course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/README.md)
 - [How FND Rehabilitation May Work](course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/01-how-fnd-rehabilitation-may-work.md)
-- [Building a Safe Practice Plan and Evaluating Neuroplasticity Claims](course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/02-building-a-safe-practice-plan-and-evaluating-neuroplasticity-claims.md)
+- [Build a Safe Practice Plan](course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/02-building-a-safe-practice-plan-and-evaluating-neuroplasticity-claims.md)
+- [Evaluate Neuroplasticity and “Rewiring” Claims](course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/03-evaluating-neuroplasticity-and-rewiring-claims.md)
 
 </details>
 
@@ -182,7 +184,8 @@ Use the sections below to drill down into the course, reference library, researc
 
 - [Module overview](course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md)
 - [Understanding Load, Baselines, and Boom-and-Bust](course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/01-understanding-load-baselines-and-boom-and-bust.md)
-- [Planning Activity, Rest, and Capacity Changes](course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/02-planning-activity-rest-and-capacity-changes.md)
+- [Plan Activity, Rest, and Capacity Changes](course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/02-planning-activity-rest-and-capacity-changes.md)
+- [Review Delayed Worsening and Change the Plan](course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/03-reviewing-delayed-worsening-and-changing-the-plan.md)
 
 </details>
 
@@ -191,7 +194,8 @@ Use the sections below to drill down into the course, reference library, researc
 
 - [Module overview](course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md)
 - [Why Psychological Treatment Does Not Mean Imaginary](course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md)
-- [Choosing a Therapy, Setting Goals, and Recognizing Harm](course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md)
+- [Choose a Therapy and Set Goals](course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md)
+- [Consent, Trauma, and Recognizing Harm](course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md)
 
 </details>
 

@@ -45,6 +45,10 @@ This page is intentionally not linked from the project navigation while quotatio
 | Fatigue and post-activity worsening | 2 reported-help / 1 difficult pattern | [Fatigue](#fatigue-and-post-activity-worsening) |
 | Sleep problems | 1 reported-help / 1 no-benefit or difficult | [Sleep](#sleep-problems-and-sleep-disorders) |
 | Autonomic and whole-body symptoms | 2 reported-help / 2 difficult or mixed | [Autonomic symptoms](#autonomic-and-whole-body-symptoms) |
+| Treatment teams and access | 3 reported-help / 3 difficult or access-limited | [Treatment teams](#treatment-teams-coordination-and-access) |
+| Rehabilitation and neuroplasticity claims | 3 reported-help / 3 no-benefit, worsening or blame | [Rehabilitation](#rehabilitation-practice-and-neuroplasticity-claims) |
+| Pacing and activity planning | 3 reported-help or adaptation / 3 difficult patterns | [Pacing](#pacing-activity-and-delayed-worsening) |
+| Psychological treatment and safety | 3 reported-help or recovery / 3 difficult or harmful | [Psychological treatment](#psychological-treatment-trauma-and-safety) |
 | Persistent postural-perceptual dizziness | 3 favourable / 3 difficult | [PPPD](#persistent-postural-perceptual-dizziness) |
 | Functional facial symptoms | 3 favourable / 3 difficult or mixed | [Facial symptoms](#functional-facial-symptoms) |
 | Functional paralysis | 3 favourable / 2 difficult or unresolved | [Paralysis](#functional-paralysis-candidate-community-reports) |
@@ -876,6 +880,174 @@ One discussion labels a catatonic seizure-like event as a drop attack; another a
 
 — Two excerpts from one writer describing an FND rehabilitation program. They do not establish a safe threshold or treatment rule for others. [Source](https://www.reddit.com/r/FND/comments/1o76qrs/temperature_regulation_issues/)
 
+## Treatment teams, coordination, and access
+
+### Disconnected or limited care
+
+**Difficult access — support person/caregiver**
+
+> “I feel like we are on an island and none of these specialists seem to understand this disorder.”
+
+— A parent described trying to help a recently diagnosed daughter. [Source](https://www.reddit.com/r/FND/comments/16iyjst/dad_helping_recently_diagnosed_daughter/)
+
+**Difficult information experience — person with symptoms**
+
+> “I was told next to nothing, given no expectations”
+
+— One person described their experience after diagnosis in the UK. [Source](https://www.reddit.com/r/FND/comments/1c35psh/tips_for_navigating_the_nhs/)
+
+**Limited specialist availability — person with symptoms**
+
+> “there’s not a lot of specialized care or even understanding of FND”
+
+— The writer noted that access depends on location. [Source](https://www.reddit.com/r/FND/comments/1b1az9w/recently_diagnosed/)
+
+### Helpful disciplines, support, and individual plans
+
+**Reported help — person with symptoms; clinician-guided**
+
+> “Physical and occupational therapy helped me a lot.”
+
+— The account does not separate the effect of the two disciplines. [Source](https://www.reddit.com/r/FND/comments/q3hz2r/im_so_embarrassed/)
+
+**Helpful support — person with symptoms**
+
+> “don’t be afraid to have a family member or friend to support you”
+
+— Lived-experience advice about difficult healthcare encounters, not a rule that someone must attend. [Source](https://www.reddit.com/r/FND/comments/1vdyjnt/i_cant_walk_or_take_care_of_basic_needs_and/)
+
+**Reported help — person with symptoms; clinician-guided**
+
+> “we worked on an individualized treatment plan.”
+
+— The writer described private neuropsychology care; affordability and suitability vary. [Source](https://www.reddit.com/r/FND/comments/11aerci/out_of_curiosity_have_any_of_you_actually_healed/)
+
+## Rehabilitation, practice, and neuroplasticity claims
+
+### Different responses to physiotherapy
+
+**Reported help — person with symptoms; clinician-guided**
+
+> “Neurological physical therapy has given me the ability to walk and function again.”
+
+— The person described gradual change over months or years. [Source](https://www.reddit.com/r/FND/comments/18gbf7f/how_did_you_regain_your_ability_to_walk/)
+
+**Reported no benefit — person with symptoms; clinician-guided**
+
+> “In my case PT did not help ... I went for 6 months with no progress.”
+
+— A different person's account in the same discussion. [Source](https://www.reddit.com/r/FND/comments/18gbf7f/how_did_you_regain_your_ability_to_walk/)
+
+### Practice, delayed effects, and treatment language
+
+**Mixed response — person with symptoms; clinician-guided**
+
+> “helped me to control my body jerks for short bursts ... but the electricity builds ... and bursts out in violent jerks afterwards.”
+
+— The metaphor is the writer's and not a proven mechanism. [Source](https://www.reddit.com/r/FND/comments/1mj4eqs/uk_fnd_treatment_and_if_people_find_it_helpful/)
+
+**Helpful caution — person with symptoms**
+
+> “It’s good to test out boundaries but listen to your body!!”
+
+— Lived-experience advice, not a substitute for an individualized safety plan. [Source](https://www.reddit.com/r/FND/comments/1ipf4gt/is_this_really_the_only_way/)
+
+**Difficult treatment message — person with symptoms**
+
+> “I do mind the near guarantee of a cure and when it doesn’t work they blame you.”
+
+— One person's response to “retraining” language. [Source](https://www.reddit.com/r/FND/comments/1skxv3t/am_i_the_only_one_who_hates_the_phrase_retraining/)
+
+**Reported help — person with symptoms**
+
+> “listening to and understanding my body rather than fighting it to work seems to improve my symptoms the best.”
+
+— A personal experience, not evidence for one treatment mechanism. [Source](https://www.reddit.com/r/FND/comments/1sedrnt/does_anyone_actually_get_better/)
+
+## Pacing, activity, and delayed worsening
+
+### Better days and later effects
+
+**Difficult pattern — person with symptoms**
+
+> “I feel good, I’ll do it all—only to crash out later and feel awful.”
+
+— One person's account of exercise and FND. [Source](https://www.reddit.com/r/FND/comments/1qlwz51/exercise_and_fnd/)
+
+**Difficult interaction — person with symptoms**
+
+> “Thinking about my symptoms can trigger or worsen them, but they don’t just go away if I ignore them.”
+
+— One person's explanation of their experience; it does not establish mechanism. [Source](https://www.reddit.com/r/FND/comments/1hypc8n/how_i_explain_fnd_to_others_and_how_i_wish_it_was/)
+
+**Difficult pressure — person with symptoms**
+
+> “my body doesn’t respond well to being pushed too hard—it actually makes my symptoms worse”
+
+— One person's account of family pressure. [Source](https://www.reddit.com/r/FND/comments/1hehzrg/my_parents_refuse_to_stop_pushing_me_past_my/)
+
+### Individual pacing and adaptation
+
+**Reported help — person with symptoms**
+
+> “I have used pacing for chronic pain and fatigue for many years and manage activity in 10-12 minute chunks. Then I must rest.”
+
+— This person also reported ME/CFS; their timing is not a prescription for FND. [Source](https://www.reddit.com/r/FND/comments/1grqq89/how_do_you_cope_with_having_a_chronic_illness/)
+
+**Reported help — person with symptoms; clinician-guided**
+
+> “ACT therapy ... helped me to accept my diagnosis and not push myself too hard.”
+
+— One person's account of what helped them. [Source](https://www.reddit.com/r/FND/comments/1hsfay6/when_to_stop_looking/)
+
+**Adaptation — person with symptoms; clinician-guided**
+
+> “I still do PT and walk without them in safe environments/when I feel good.”
+
+— The writer described using mobility aids at other times; their balance is not a rule for aid use. [Source](https://www.reddit.com/r/FND/comments/1hypc8n/how_i_explain_fnd_to_others_and_how_i_wish_it_was/)
+
+## Psychological treatment, trauma, and safety
+
+### Different roles and responses
+
+**Reported quality-of-life help — person with symptoms**
+
+> “Therapy will not cure FND. Therapy can massively improve the quality of life for people like us.”
+
+— One person's view; the degree of benefit varies. [Source](https://www.reddit.com/r/FND/comments/1eskwez/doctors_think_it_is_all_caused_by_stress_and/)
+
+**Reported help — person with symptoms; clinician-guided**
+
+> “Finally, I tried EMDR. It saved me—not just FND.”
+
+— One person's experience; it does not establish that EMDR treats FND generally. [Source](https://www.reddit.com/r/FND/comments/1h3hzmp/did_healing_your_trauma_resolve_your_fnd_symptoms/)
+
+**Recovery without trauma therapy — person with symptoms**
+
+> “I was diagnosed with FND and made a recovery without trauma therapy”
+
+— The same writer later described choosing EMDR for other reasons, so these are not independent accounts. [Source](https://www.reddit.com/r/FND/comments/1h3hzmp/did_healing_your_trauma_resolve_your_fnd_symptoms/)
+
+### Feeling unsafe or being given one required explanation
+
+**Difficult treatment experience — person with symptoms**
+
+> “I did not feel safe or heard or understood at all.”
+
+— One person described a harmful healthcare and therapy experience. [Source](https://www.reddit.com/r/FND/comments/1il1abc/it_hard_for_me_to_accept_that_fnd_is/)
+
+**Reported harm — person with symptoms**
+
+> “I have tried psychological therapy and it was the worst experience I have ever had.”
+
+— One person's experience; “therapy” is not one uniform intervention. [Source](https://www.reddit.com/r/FND/comments/1il1abc/it_hard_for_me_to_accept_that_fnd_is/)
+
+**Difficult causal claim — person with symptoms**
+
+> “This therapist tends to believe that trauma is the only cause for a FND diagnosis”
+
+— The writer was considering EMDR and questioning the therapist's explanation. [Source](https://www.reddit.com/r/FND/comments/1dlibdr/emdr/)
+
 ## What this reorganization shows
 
 - The strongest public quotation clusters concern broad physiotherapy, mobility aids, supporter response during seizures, speech therapy and vestibular rehabilitation.
@@ -898,7 +1070,7 @@ Before adding or replacing a quotation, confirm all of the following:
 7. A drawback is not mislabeled as complete failure, and an early flare is not mislabeled as a final outcome.
 8. New material remains grouped under the symptom first and then the exact indexed technique or support response it concerns.
 
-*Draft created: August 25, 2026 · Reorganized by symptom and technique September 1, 2026 · Functional paralysis and drop-attack sources added September 2, 2026 · Part Three sources added September 5, 2026 · Community, clinical and privacy review pending*
+*Draft created: August 25, 2026 · Reorganized by symptom and technique September 1, 2026 · Functional paralysis and drop-attack sources added September 2, 2026 · Part Three and Part Four sources added September 5, 2026 · Community, clinical and privacy review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)

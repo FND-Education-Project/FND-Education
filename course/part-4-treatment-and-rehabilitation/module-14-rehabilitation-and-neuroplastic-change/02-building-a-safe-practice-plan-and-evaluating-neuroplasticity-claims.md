@@ -1,26 +1,71 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 14: Rehabilitation and Neuroplastic Change](README.md) › **Building a Safe Practice Plan and Evaluating Neuroplasticity Claims**
+[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 14](README.md) › **Build a Safe Practice Plan**
 <!-- NAV-BREADCRUMB:END -->
 
-# Building a Safe Practice Plan and Evaluating Neuroplasticity Claims
+# Build a Safe Practice Plan
 
-This is a focused authoring template within Module 14. Build the completed page around this scope: Cover baseline selection, dose, repetition, pain and fatigue, delayed worsening, stop and review criteria, outcome measurement, plateaus, relapse, and why genuine neuroplasticity does not justify cure guarantees or denial of disability.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+Practice is safer and easier to judge when the task, support, amount and review point are agreed in advance.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND rehabilitation; neuroplasticity; motor retraining; automatic movement; external focus; physiotherapy; occupational therapy; speech therapy; graded rehabilitation. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Building a Safe Practice Plan and Evaluating Neuroplasticity Claims.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover baseline selection, dose, repetition, pain and fatigue, delayed worsening, stop and review criteria, outcome measurement, plateaus, relapse, and why genuine neuroplasticity does not justify cure guarantees or denial of disability. The reader should not have to read the module overview first to understand the page.
+A **practice dose** means what you will try, how much, under what conditions and when you will stop or adjust. It is not a standard medical dose, and more is not automatically better.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: What rehabilitation means: practising ways to make useful functions easier, safer, and more reliable. What neuroplasticity means: the brain and nervous system can change with experience and practice. Why neuroplasticity offers a reason to try rehabilitation but does not promise a cure. Why movement or speech may sometimes improve when attention is moved toward a goal, rhythm, object, or meaningful activity. Why starting from what is currently possible can be more useful than repeatedly attempting the hardest task. How small, repeated practice may build skill and confidence. Why practice should be adjusted for pain, fatigue, injury risk, and delayed worsening. Why setbacks and plateaus do not prove that rehabilitation has failed. Why improvement does not mean the original symptoms were voluntary. Experience-dependent plasticity, motor learning, attention, expectation, prediction error, agency, and automatic control as relevant rehabilitation concepts. External focus, task-oriented practice, implicit learning, rhythm, distraction, shaping, and graded complexity. Baseline selection, dose, repetition, variability of practice, feedback schedules, and transfer into daily activities. Therapeutic education and demonstration of positive signs without implying conscious production. Fear, threat, pain, fatigue, sensory load, and comorbidity as modifiers of rehabilitation. Evidence for specialist physiotherapy and multidisciplinary rehabilitation, including selection bias, heterogeneous interventions, and uncertain active ingredients. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![A plan moves from a chosen task to a small supported attempt, then checks immediate and delayed effects before repeating, reducing or reviewing.](../../../assets/module-14-page-2-practice-dose.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Cover uncertainty about active treatment ingredients, ideal dose, patient selection, transfer to daily life, and long-term results. Explain why neuroplasticity is real but cannot predict how much recovery one person will achieve. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: the effect may be immediate or delayed. What happens should change the next attempt.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe the difference between being told to try harder and being guided to access function in a different way. Include variable performance, easier automatic movement, fatigue after practice, frustration during plateaus, and the emotional effect of improvement followed by setbacks. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Choose one functional goal and define a small, repeatable practice with stop and review criteria. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+Do not judge a practice only by what happens during it. Pain, fatigue, episodes or loss of function may rise later, and that information belongs in the plan.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: What exact function are we training? Why was this starting level chosen? How will practice transfer into daily life? What are the stop and review criteria? How will progress be measured beyond looking normal? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### Name the whole practice
+
+A useful plan can include:
+
+1. the activity and reason for it;
+2. the starting support or adaptation;
+3. a small amount or endpoint;
+4. ordinary discomfort that has been discussed;
+5. signs to pause, stop or seek advice;
+6. when immediate and delayed effects will be reviewed.
+
+The starting amount should come from the person's current pattern and relevant clinical advice—not from their best-ever day, age, appearance or what another patient can do. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Worsening is information, not disobedience
+
+Stop for urgent medical warning signs and follow the person's safety plan. Pause and contact the relevant clinician for injury, sustained or marked deterioration, a new symptom, repeated episodes triggered by the plan or loss of an essential function.
+
+A brief, agreed symptom change may sometimes occur during rehabilitation, but that does not make every worsening safe or useful. The response may be to reduce, adapt, recover, reassess another condition or choose a different goal.
+
+### Community experiences for review
+
+These accounts show why both the moment and the aftermath matter.
+
+**Option 1 — short control followed by worsening**
+
+> “helped me to control my body jerks for short bursts ... but the electricity builds ... and bursts out in violent jerks afterwards.”
+
+— One person's report of neurophysiotherapy; the metaphor is theirs and not a proven mechanism. [Read the public source](https://www.reddit.com/r/FND/comments/1mj4eqs/uk_fnd_treatment_and_if_people_find_it_helpful/).
+
+**Option 2 — explore, but listen**
+
+> “It’s good to test out boundaries but listen to your body!!”
+
+— Lived-experience advice, not a substitute for an individualized safety plan. [Read the public source](https://www.reddit.com/r/FND/comments/1ipf4gt/is_this_really_the_only_way/).
+
+### Questions
+
+#### How do you know later that an activity took more from you than it seemed to at the time?
+
+#### What support would make one chosen activity feel safer or more possible?
+
+### One small thing you can do
+
+Before one planned activity, finish this sentence: **“I will check how I am ___ later.”** Do not deliberately trigger a symptom to test yourself.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +76,9 @@ This is a focused authoring template within Module 14. Build the completed page 
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Building a Safe Practice Plan and Evaluating Neuroplasticity Claims.” Develop the supporter guidance from these points: Encouraging practice without becoming the therapist. Praising effort, strategy, and participation rather than demanding normal performance. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Support the agreed endpoint. Do not add “just one more,” take away an aid or interpret stopping as fear or refusal. Help record delayed effects if the person wants that and memory is difficult.
+
+If the person cannot speak or decide during an episode, follow their agreed plan. Use ordinary emergency help for injury, breathing difficulty, a new pattern or other warning signs.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +89,23 @@ This is a focused authoring template within Module 14. Build the completed page 
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Distinguish rehabilitation targets from untreated pain, joint or muscle injury, neurological disease, cardiopulmonary limits, severe post-exertional worsening, and environmental barriers. Improvement with a technique supports its usefulness but does not prove the diagnosis or mechanism by itself. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Therapeutic education and demonstration of positive signs without implying conscious production. Explain both the value and limitations of each step.
+**Option 1 — Lehn et al., 2025**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Experience-dependent plasticity, motor learning, attention, expectation, prediction error, agency, and automatic control as relevant rehabilitation concepts. External focus, task-oriented practice, implicit learning, rhythm, distraction, shaping, and graded complexity. Baseline selection, dose, repetition, variability of practice, feedback schedules, and transfer into daily activities. Therapeutic education and demonstration of positive signs without implying conscious production. Fear, threat, pain, fatigue, sensory load, and comorbidity as modifiers of rehabilitation. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “Movement retraining as treatment should be goal-oriented and focused on facilitating self-management.”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Flag new injury, repeated falls, substantial delayed worsening, new neurological signs, unsafe exertion, or a program that ignores pain, fatigue, breathing, or another diagnosed condition. The plan should be reviewed rather than treating worsening as lack of effort. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Tolchin et al., 2026**
+
+> “potential benefits and risks”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [3](#citation-3))*
+
+### Prescribe a testable, revisable plan
+
+Define the target, task conditions, initial volume, support, expected range of response, stop criteria and review interval. Ask about immediate and delayed effects. Account for pain, fatigue, falls, functional seizures, autonomic symptoms, other diagnoses and medication.
+
+Avoid treating adherence as the only explanation for a poor outcome. Reassess formulation, diagnosis, dose, accessibility and treatment fit. Document benefit and harm in domains the patient values. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,15 +115,23 @@ This is a focused authoring template within Module 14. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Pacing Activity and Avoiding Boom-and-Bust](../module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md)
+**Continue:** [Next page: Evaluate Neuroplasticity and “Rewiring” Claims](03-evaluating-neuroplasticity-and-rewiring-claims.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Previous page](01-how-fnd-rehabilitation-may-work.md) · [Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Building a Safe Practice Plan and Evaluating Neuroplasticity Claims”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+The sources support individualized goals, self-management and discussion of benefits and risks. They do not validate this page's planning format as a tested intervention. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
+| <a id="citation-2"></a>**[2]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-3"></a>**[3]** | Figure 1 | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
+
+This page still needs review by people who have tried FND rehabilitation, rehabilitation clinicians and safety reviewers.
+
+*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*

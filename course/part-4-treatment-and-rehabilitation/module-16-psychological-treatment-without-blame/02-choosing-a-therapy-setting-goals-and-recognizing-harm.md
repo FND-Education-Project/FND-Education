@@ -1,26 +1,68 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 16: Psychological Treatment Without Blame](README.md) › **Choosing a Therapy, Setting Goals, and Recognizing Harm**
+[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 16](README.md) › **Choose a Therapy and Set Goals**
 <!-- NAV-BREADCRUMB:END -->
 
-# Choosing a Therapy, Setting Goals, and Recognizing Harm
+# Choose a Therapy and Set Goals
 
-This is a focused authoring template within Module 16. Build the completed page around this scope: Cover CBT-informed, acceptance-based, mindfulness, trauma-focused, psychodynamic, and other approaches with honest evidence labels; include consent, fit, goals, outcome review, coercion, retraumatization, hidden-trauma claims, and the right to decline.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+Therapy names describe broad families of treatment. The individual therapist, goal, adaptation and relationship also matter.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND psychological treatment; CBT; cognitive behavioural therapy; functional seizures therapy; ACT; mindfulness; trauma therapy; dissociation; FND stigma. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Choosing a Therapy, Setting Goals, and Recognizing Harm.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover CBT-informed, acceptance-based, mindfulness, trauma-focused, psychodynamic, and other approaches with honest evidence labels; include consent, fit, goals, outcome review, coercion, retraumatization, hidden-trauma claims, and the right to decline. The reader should not have to read the module overview first to understand the page.
+**Therapy fit** means that the approach, therapist, setting, goals and access needs are a reasonable match for you. A **shared therapy goal** states what you want to change and how you will review benefit or harm together.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: Why being offered psychological therapy does not mean symptoms are imagined or deliberately produced. How therapy may help with coping, fear, attention, avoidance, relationships, mood, or the effects of living with symptoms. Why depression, anxiety, PTSD, or another mental-health condition deserves treatment when present, whether or not it caused FND. How some psychological treatments have been studied for functional seizures and other FND presentations. What cognitive-behavioural, acceptance-based, and mindfulness approaches try to do in ordinary terms. Why trauma treatment is appropriate only when trauma is actually relevant and the person wants that treatment. Why a therapist should explain the goals, evidence, risks, and alternatives. How progress may involve safer episodes, less fear, better coping, or greater participation even if symptoms continue. Why a person can decline a therapy that is unsuitable, unsafe, or based on an explanation they do not accept. Evidence for CBT-informed treatment of functional seizures and the more limited or heterogeneous evidence across other FND phenotypes. Treatment targets including symptom fear, avoidance, attentional processes, illness beliefs, coping, emotion regulation, dissociation, mood, and interpersonal consequences. Acceptance and Commitment Therapy, mindfulness-based approaches, psychodynamic therapy, trauma-focused treatment, and other modalities with accurate evidence labelling. Treating comorbid psychiatric disorders without using their presence as retrospective proof of FND causation. Formulation-driven treatment, shared goals, outcome measurement, and adaptation for cognitive, sensory, and physical disability. Consent, therapeutic fit, cultural formulation, safeguarding, and the right to decline. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![Five pieces—target, approach, therapist, access and review—surround a central question: does this fit me?](../../../assets/module-16-page-2-therapy-fit.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Explain that evidence differs by FND presentation and therapy type, with the strongest psychological-treatment research often concerning functional seizures. Note uncertain active ingredients, variable outcomes, and the fact that benefit does not validate a therapist’s causal theory. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: a therapy is more than its three-letter name. Fit includes the actual target, person, setting, access and review.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe the fear of being told symptoms are imaginary, the relief some people find in useful therapy, and the harm caused when every symptom is attributed to trauma or personality. Show that therapy may address coping, fear, mood, relationships, or symptoms without proving a psychological cause. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Prepare questions for evaluating a therapist’s FND knowledge, approach, goals, and safety. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+Ask what this therapy is meant to help **you** with. “You have FND” is not a complete treatment goal.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: What is the therapy intended to treat? What evidence applies to my symptoms? Does the therapist require a trauma explanation? How will benefit and harm be measured? What alternatives exist if this approach is not suitable? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### Translate the labels
+
+- **CBT** often explores links among situations, thoughts, feelings, body responses and actions, then tests practical changes.
+- **ACT** often works on making room for difficult experiences while moving toward chosen values.
+- **Mindfulness-based approaches** practise noticing present experience in a particular way; they are not suitable or calming for everyone.
+- **Psychodynamic or relational therapies** may explore emotions, relationships and recurring patterns.
+- **Trauma-focused therapy** treats trauma-related difficulties when trauma is relevant, the person wants this work and suitable safeguards are in place.
+
+These descriptions are broad. Ask the therapist what they actually do, what evidence applies to your symptoms and what alternatives exist. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+### Agree how you will know
+
+A goal might be fewer injuries during episodes, less fear, better sleep, returning to one relationship or activity, treating PTSD, or coping with continuing symptoms. Decide when you will review it and what would count as no benefit or harm.
+
+Fit also includes disability access, communication, culture, language, cost, privacy and timing alongside other treatments. You can ask for adaptations, a different therapist or a different approach.
+
+### Community experiences for review
+
+These accounts show strongly different experiences of therapy.
+
+**Option 1 — trauma treatment felt life-changing**
+
+> “Finally, I tried EMDR. It saved me—not just FND.”
+
+— One person's description; it does not establish that EMDR treats FND generally or that trauma causes every case. [Read the public source](https://www.reddit.com/r/FND/comments/1h3hzmp/did_healing_your_trauma_resolve_your_fnd_symptoms/).
+
+**Option 2 — therapy felt harmful**
+
+> “I have tried psychological therapy and it was the worst experience I have ever had.”
+
+— One person's experience; “therapy” is not one uniform intervention. [Read the public source](https://www.reddit.com/r/FND/comments/1il1abc/it_hard_for_me_to_accept_that_fnd_is/).
+
+### Questions
+
+#### What would a therapist need to understand about you for the work to feel like a fit?
+
+#### Which change would tell you the therapy is useful in your actual life?
+
+### One small thing you can do
+
+Write one question for a therapist: **“What would we work on first, and how would we know if it helps?”**
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +73,9 @@ This is a focused authoring template within Module 16. Build the completed page 
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Choosing a Therapy, Setting Goals, and Recognizing Harm.” Develop the supporter guidance from these points: Supporting treatment choices without treating therapy as confession or proof of a psychological cause. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+The person's therapy goals belong to them. Do not demand disclosure, ask the therapist for private details or treat a difficult session as proof that the therapy is working.
+
+You can help with access or notice changes the person wants tracked. If you are affected by illness and caregiving, your own support should not depend on entering the person's treatment.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +86,23 @@ This is a focused authoring template within Module 16. Build the completed page 
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Distinguish FND treatment from treatment of coexisting depression, anxiety, PTSD, panic, dissociation, or relationship distress. Also distinguish psychologically informed rehabilitation from claims that an undisclosed conflict or trauma must explain the disorder. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Formulation-driven treatment, shared goals, outcome measurement, and adaptation for cognitive, sensory, and physical disability. Explain both the value and limitations of each step.
+**Option 1 — Gutkin et al., 2021**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Evidence for CBT-informed treatment of functional seizures and the more limited or heterogeneous evidence across other FND phenotypes. Treatment targets including symptom fear, avoidance, attentional processes, illness beliefs, coping, emotion regulation, dissociation, mood, and interpersonal consequences. Acceptance and Commitment Therapy, mindfulness-based approaches, psychodynamic therapy, trauma-focused treatment, and other modalities with accurate evidence labelling. Treating comorbid psychiatric disorders without using their presence as retrospective proof of FND causation. Formulation-driven treatment, shared goals, outcome measurement, and adaptation for cognitive, sensory, and physical disability. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “better quality studies are needed”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Flag coercion, retraumatization, worsening mental health, pressure to recover memories, dismissal of medical change, lack of consent, or a practitioner treating disagreement as proof of resistance. Include ordinary crisis and safeguarding routes where relevant. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Goldstein et al., 2020**
+
+> “no significant difference in monthly dissociative seizure frequency”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [3](#citation-3))*
+
+### Match rather than route by diagnosis alone
+
+Formulate the target with the patient. Discuss modality-specific evidence, therapist competence, dose, setting, accessibility, alternatives and how benefit and harm will be reviewed. Treat comorbid psychiatric illness without using it as proof of FND causation.
+
+In CODES, several secondary outcomes favoured seizure-specific CBT plus standardized care while the primary seizure-frequency outcome did not. Preserve both findings. Broader psychotherapy evidence is heterogeneous and does not identify one best approach for all FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,15 +112,24 @@ This is a focused authoring template within Module 16. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Daily Living, Accessibility, and Equipment](../../part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md)
+**Continue:** [Next page: Consent, Trauma, and Recognizing Harm](03-consent-trauma-and-recognizing-harm.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Previous page](01-why-psychological-treatment-does-not-mean-imaginary.md) · [Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Choosing a Therapy, Setting Goals, and Recognizing Harm”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+The psychotherapy review found possible benefits but important quality and follow-up limits. Functional-seizure trials cannot be generalized to every FND symptom or therapy. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Gutkin M, McLean L, Brown R, Kanaan RA. Systematic review of psychotherapy for adults with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(1):36–44. [FND-CIT-0077](../../../research/citation-index.md#fnd-cit-0077). [https://doi.org/10.1136/jnnp-2019-321926](https://doi.org/10.1136/jnnp-2019-321926) |
+| <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
+| <a id="citation-3"></a>**[3]** | Figure 1 | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [FND-CIT-0033](../../../research/citation-index.md#fnd-cit-0033). [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0) |
+| <a id="citation-4"></a>**[4]** | — | LaFrance WC Jr, Baird GL, Barry JJ, et al. Multicenter pilot treatment trial for psychogenic nonepileptic seizures: a randomized clinical trial. *JAMA Psychiatry*. 2014;71(9):997–1005. [FND-CIT-0032](../../../research/citation-index.md#fnd-cit-0032). [https://doi.org/10.1001/jamapsychiatry.2014.817](https://doi.org/10.1001/jamapsychiatry.2014.817) |
+
+This page still needs review by people with varied therapy experiences, therapists from different modalities, functional-seizure specialists and accessibility reviewers.
+
+*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*

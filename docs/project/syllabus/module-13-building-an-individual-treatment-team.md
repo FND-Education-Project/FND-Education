@@ -12,6 +12,14 @@
 
 Help readers understand professional roles and assemble realistic care when specialist FND services are limited.
 
+## Focused lesson split
+
+- [Who May Be on the Treatment Team](../../../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md)
+- [Shared Goals and Clear Responsibilities](../../../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md)
+- [Care When No Local FND Specialist Is Available](../../../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md)
+
+The third page is a deliberate smaller reading bite: access, telehealth and supported local care no longer have to be absorbed alongside the whole coordination lesson.
+
 ## Essential knowledge
 
 - Why FND care may involve more than one kind of healthcare professional.
@@ -41,6 +49,7 @@ This section should focus on how clinicians can help the patient understand the 
 ## Practical work
 
 - Build a care-team map showing confirmed responsibilities, gaps, and next questions.
+- Write one access need or referral purpose that a local or remote service can act on.
 
 ## Support-person focus
 
