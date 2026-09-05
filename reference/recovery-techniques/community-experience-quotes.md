@@ -39,6 +39,12 @@ This page is intentionally not linked from the project navigation while quotatio
 | Functional swallowing symptoms and globus | 3 favourable / 3 difficult | [Swallowing and globus](#functional-swallowing-symptoms-and-globus) |
 | Functional cough and upper-airway symptoms | 2 favourable / 3 difficult | [Cough and upper airway](#functional-cough-and-upper-airway-symptoms) |
 | Functional Cognitive Disorder | 2 favourable / 3 difficult | [Cognitive symptoms](#functional-cognitive-disorder) |
+| Dissociation and altered awareness | 1 reported-help / 1 difficult-to-separate | [Dissociation](#dissociation-and-altered-awareness) |
+| Chronic pain | 1 reported-help / 1 mixed-cause | [Chronic pain](#chronic-pain) |
+| Migraine | 1 reported-help / 1 difficult interaction | [Migraine](#migraine) |
+| Fatigue and post-activity worsening | 2 reported-help / 1 difficult pattern | [Fatigue](#fatigue-and-post-activity-worsening) |
+| Sleep problems | 1 reported-help / 1 no-benefit or difficult | [Sleep](#sleep-problems-and-sleep-disorders) |
+| Autonomic and whole-body symptoms | 2 reported-help / 2 difficult or mixed | [Autonomic symptoms](#autonomic-and-whole-body-symptoms) |
 | Persistent postural-perceptual dizziness | 3 favourable / 3 difficult | [PPPD](#persistent-postural-perceptual-dizziness) |
 | Functional facial symptoms | 3 favourable / 3 difficult or mixed | [Facial symptoms](#functional-facial-symptoms) |
 | Functional paralysis | 3 favourable / 2 difficult or unresolved | [Paralysis](#functional-paralysis-candidate-community-reports) |
@@ -734,6 +740,142 @@ One discussion labels a catatonic seizure-like event as a drop attack; another a
 
 **Still unfilled with matched outcome pairs:** warning-based episode plans, controlled exposure to movement or light, and mouth, swallowing or eye-safety support.
 
+## Dissociation and altered awareness
+
+### Dissociation connected with an episode
+
+**Difficult symptom experience — person with symptoms**
+
+> “I feel like I’m floating away (dissociating) before an episode hits where I’m conscious but can’t move or speak.”
+
+— The writer described severe dissociation connected with their seizure-like episodes. [Source](https://www.reddit.com/r/FND/comments/1i2hxh5/anyone_else_diagnosed_with_did_feeling_scared/)
+
+### Difficulty separating overlapping symptoms
+
+**Difficult-to-separate experience — person with symptoms**
+
+> “For the FND part it’s memory issues, possible dissociation, brain fog, and just general poor function.”
+
+— The writer named several coexisting diagnoses and said it was difficult to know what caused what. [Source](https://www.reddit.com/r/FND/comments/1j7hmdb/what_do_cognitive_symptoms_look_like_for_you/)
+
+## Chronic pain
+
+### More than one source of pain
+
+**Mixed-cause experience — person with symptoms**
+
+> “I have chronic pain both related to and not related to fnd!!”
+
+— The writer distinguished coexisting pain from pain they associated with FND. [Source](https://www.reddit.com/r/FND/comments/1krfvpq/those_of_yall_with_chronic_pain_do_any_meds_help/)
+
+### Procedure discussed within a broader pain plan
+
+**Reported help with an important caution — person with symptoms**
+
+> “What has helped me the most is dry needling.”
+
+— The writer also described previous opioid dependence and suggested specialist pain review. This is not evidence that the procedure is safe or suitable for another person. [Source](https://www.reddit.com/r/FND/comments/1nd0tc9/does_chronic_pain_deserve_painkillers/)
+
+## Migraine
+
+### Migraine and FND interacting
+
+**Difficult symptom experience — person with symptoms**
+
+> “I do struggle alot with migraines and together with FND it’s not working well together. It triggers my FND alot.”
+
+— The writer described frequent, severe attacks and substantial distress. [Source](https://www.reddit.com/r/FND/comments/1klykcv/migraines/)
+
+### Migraine prevention
+
+**Reported help — person with symptoms; clinician-guided**
+
+> “My neuro put me on a migraine prophylactic and that’s helped tremendously.”
+
+— A single treatment experience; the post does not identify a best preventive treatment for others. [Source](https://www.reddit.com/r/FND/comments/1pxnpyx/mild_weird_migraines_after_fnd/)
+
+## Fatigue and post-activity worsening
+
+### Good-day overactivity and a later crash
+
+**Difficult pattern with a reported pacing adjustment — person with symptoms**
+
+> “I feel good, I’ll do it all—only to crash out later and feel awful.”
+
+— The writer described learning a baseline and resisting the urge to do much more on a good day. [Source](https://www.reddit.com/r/FND/comments/1qlwz51/exercise_and_fnd/)
+
+### Short activity chunks
+
+**Reported help — person with symptoms**
+
+> “I have used pacing for chronic pain and fatigue for many years and manage activity in 10-12 minute chunks. Then I must rest.”
+
+— The person also described ME/CFS and insomnia; the timing is an individual account, not a prescription. [Source](https://www.reddit.com/r/FND/comments/1grqq89/how_do_you_cope_with_having_a_chronic_illness/)
+
+**Reported help from several approaches — person with symptoms**
+
+> “Every day is an uphill battle, but these ‘simple’ approaches have helped me significantly.”
+
+— The writer referred to insomnia treatment, pain management and short activity chunks together, so benefit cannot be assigned to one part. [Source](https://www.reddit.com/r/FND/comments/1grqq89/how_do_you_cope_with_having_a_chronic_illness/)
+
+## Sleep problems and sleep disorders
+
+### Insomnia treatment and fatigue
+
+**Reported help — person with symptoms; clinician-guided**
+
+> “Managed the chronic insomnia with medication ... This helps to combat the fatigue.”
+
+— The writer also had ME/CFS and described pacing pain and fatigue. [Source](https://www.reddit.com/r/FND/comments/1grqq89/how_do_you_cope_with_having_a_chronic_illness/)
+
+**Reported no benefit or difficulty — person with symptoms; clinician-guided**
+
+> “Doc gave me meds to help me sleep. All they do is make me tired/sleepy ... so they rarely work.”
+
+— The same discussion included pain medication and financial barriers. [Source](https://www.reddit.com/r/FND/comments/1grqq89/how_do_you_cope_with_having_a_chronic_illness/)
+
+### Sleep loss as a symptom trigger
+
+**Difficult symptom interaction — person with symptoms**
+
+> “Sleep deprivation is the single biggest trigger for most of my symptoms, not just the FND ones.”
+
+— The writer said their threshold for feeling sleep deprived was low and wondered how sleep affected average symptom severity. [Source](https://www.reddit.com/r/FND/comments/1vk4k5l/what_flares_up_your_fnd/)
+
+## Autonomic and whole-body symptoms
+
+### Living with FND and a coexisting autonomic diagnosis
+
+**Difficult symptom interaction — person with symptoms**
+
+> “Trying to balance keeping my neurological symptoms ... from flaring up while simultaneously dealing with the blood pressure drops, dizziness, or tachycardia from dysautonomia is a full-time job.”
+
+> “Sometimes, the mental weight of having to micromanage every single aspect of my health is heavier than the physical symptoms themselves.”
+
+— Two excerpts from one writer describing the combined burden of FND and dysautonomia; they are not independent accounts. [Source](https://www.reddit.com/r/FND/comments/1swqti0/anyone_else_dealing_with_functional_neurologic/)
+
+**Coexisting-diagnosis experience — person with symptoms**
+
+> “I have POTS alongside FND ... it causes pre syncope (feeling faint/before fainting/dizziness).”
+
+— The public comment cannot confirm the diagnostic assessment. [Source](https://www.reddit.com/r/FND/comments/1ogxu0u/fnd_and_heart_rate_issues_tw_symptom_talk/)
+
+### Heart-rate tracking and activity adjustment
+
+**Reported help with an important limitation — person with symptoms**
+
+> “I use a heart rate monitor/app ... and adjust my daily activities accordingly.”
+
+— The writer described migraine and FND and found pacing useful; their HRV interpretation was personal and not clinically validated in the post. [Source](https://www.reddit.com/r/FND/comments/1iwcfcl/new_symptoms/)
+
+**Reported help — person with symptoms; clinician-guided**
+
+> “I track my HR during activity and take breaks when it starts to spike instead of pushing through.”
+
+> “Slowing my breathing and letting my HR drop before resuming has made my system a little less reactive over time.”
+
+— Two excerpts from one writer describing an FND rehabilitation program. They do not establish a safe threshold or treatment rule for others. [Source](https://www.reddit.com/r/FND/comments/1o76qrs/temperature_regulation_issues/)
+
 ## What this reorganization shows
 
 - The strongest public quotation clusters concern broad physiotherapy, mobility aids, supporter response during seizures, speech therapy and vestibular rehabilitation.
@@ -756,7 +898,7 @@ Before adding or replacing a quotation, confirm all of the following:
 7. A drawback is not mislabeled as complete failure, and an early flare is not mislabeled as a final outcome.
 8. New material remains grouped under the symptom first and then the exact indexed technique or support response it concerns.
 
-*Draft created: August 25, 2026 · Reorganized by symptom and technique September 1, 2026 · Functional paralysis and drop-attack sources added September 2, 2026 · Community, clinical and privacy review pending*
+*Draft created: August 25, 2026 · Reorganized by symptom and technique September 1, 2026 · Functional paralysis and drop-attack sources added September 2, 2026 · Part Three sources added September 5, 2026 · Community, clinical and privacy review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)

@@ -4,7 +4,7 @@
 [Home](../../README.md) › Project Documentation › **Course Organization Decisions**
 <!-- NAV-BREADCRUMB:END -->
 
-The course has now been reorganized into 23 module folders containing 83 planned pages. Every module has a short overview plus one to five focused pages. The earlier decision about using overview pages with focused child pages is therefore treated as accepted.
+The course has now been reorganized into 23 module folders containing 86 planned pages. Every module has a short overview plus one to five focused pages. The earlier decision about using overview pages with focused child pages is therefore treated as accepted.
 
 The questions below are the revised decisions revealed by the actual page structure. Nothing needs to be decided before authoring can begin; the current organization is usable as it stands.
 
@@ -52,19 +52,19 @@ Module 9 now separates speech and voice; swallowing and globus; cough, breathing
 
 ## Decision 6 — Is cognition sufficiently separated from dissociation?
 
-**Status: Accepted.** Cognition and dissociation will remain separate focused pages beneath one overview.
+**Status: Accepted.** Cognition, dissociation and practical cognitive supports will remain separate focused pages beneath one overview.
 
-Module 10 retains a shared overview but now has separate focused pages for cognition, memory, word finding, and Functional Cognitive Disorder; and for dissociation and altered awareness.
+Module 10 retains a shared overview but now has separate focused pages for cognition, memory, word finding, and Functional Cognitive Disorder; dissociation and altered awareness; and an external thinking and memory system.
 
-**Recommendation:** Keep this division. It preserves their possible overlap without teaching that cognitive symptoms are necessarily caused by dissociation. Functional seizures should link to the dissociation page rather than duplicate the full explanation.
+**Recommendation:** Keep this division. It preserves possible overlap without teaching that cognitive symptoms are necessarily caused by dissociation. The added practical page makes supports usable across diagnoses without overloading the FCD definition. Functional seizures should link to the dissociation page rather than duplicate the full explanation.
 
 ## Decision 7 — Should pain, migraine, fatigue, and sleep remain one module?
 
 **Status: Accepted.** Pain, migraine, fatigue, and sleep will remain separate focused pages within one module.
 
-Module 11 now uses the maximum five pages: one overview and one focused page for each of chronic pain, migraine, fatigue, and sleep.
+Module 11 now uses the maximum six pages: one overview, one focused page for each of chronic pain, migraine, fatigue and sleep, and one practical interaction page.
 
-**Recommendation:** Keep them as one course module because the overview can explain how they interact with FND and one another. Treat the four focused pages as medically distinct subjects with their own assessment, treatment, safety, and sources.
+**Recommendation:** Keep them as one course module. Treat the four symptom pages as medically distinct subjects with their own assessment, treatment, safety and sources. Use the interaction page for a small combined-symptom map rather than repeating the full loop on every symptom page.
 
 ## Decision 8 — Where should overlapping dizziness, faintness, breathing, and fatigue information live?
 
@@ -134,10 +134,10 @@ The clinician section on every overview and focused page will be centred on prac
 # Current Page Distribution
 
 - 2 pages: Modules 4 and 23
-- 3 pages: Modules 2, 10, 12–16, and 18–22
-- 4 pages: Modules 3, 5, and 17
-- 5 pages: Modules 1, 6, 8, 9, and 11
-- 6 pages: Module 7
+- 3 pages: Modules 2, 13–16, and 18–22
+- 4 pages: Modules 3, 5, 10, 12, and 17
+- 5 pages: Modules 1, 6, 8, and 9
+- 6 pages: Modules 7 and 11
 
 The median module length is three pages. No module exceeds six pages.
 

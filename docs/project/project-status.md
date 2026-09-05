@@ -6,15 +6,15 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-**Current stage: complete course structure, with reader-facing drafts through Part Two and human writing and review underway.**
+**Current stage: complete course structure, with reader-facing drafts through Part Three and human writing and review underway.**
 
-The repository contains all 83 course pages: 23 module overviews and 60 focused pages. Parts One and Two (Modules 1–9) contain reader-facing working drafts. Pages edited by the project lead are identified separately; the other pages remain clearly labelled as automatically generated. Modules 10–23 still contain shorter authoring templates. All temporary drafts require human writing or review, evidence checking, safety review and accessibility review.
+The repository contains all 86 course pages: 23 module overviews and 63 focused pages. Parts One through Three (Modules 1–12) contain reader-facing working drafts. Pages edited by the project lead are identified separately; the other pages remain clearly labelled as automatically generated. Modules 13–23 still contain shorter authoring templates. All temporary drafts require human writing or review, evidence checking, safety review and accessibility review.
 
 ## Completed foundation work
 
 - Established the evidence-first project voice, safety rules and accessibility goals.
 - Created the six-part, 23-module syllabus.
-- Organized the course into 23 module folders and 83 pages.
+- Organized the course into 23 module folders and 86 pages.
 - Kept the four reader-facing sections on every focused page.
 - Completed the initial Module 1 writing pattern.
 - Created a scoped authoring draft for every focused page.
@@ -27,12 +27,14 @@ The repository contains all 83 course pages: 23 module overviews and 60 focused 
 - Added an early Module 1 introduction to available capacity, Spoon Theory, related planning models and action before a possible flare.
 - Rewrote Part Two in shorter, layperson-facing lessons with definitions, illustration briefs, paired lived-experience quotations, personal reflection questions and complete page-level citation tables.
 - Added five Part Two pages so safety-plan use, life with functional seizures, movement retraining, sensory access and communication access can each be read separately.
+- Rewrote Part Three as 11 focused layperson lessons with definition illustrations, paired community quotations, personal reflection questions and full citation tables.
+- Added one practical page to each Part Three module for external thinking supports, interacting symptoms and a personal autonomic-symptom plan.
 - Added a repository change and page maintenance policy covering course and reference additions, removals, navigation, indexes, evidence and verification.
 
 ## Current priorities
 
 1. Human-edit or review the temporary drafts in Modules 2–9 so the wording reflects the project lead's own voice and decisions.
-2. Convert Modules 10–23 from authoring templates into cited, reader-facing lessons using the lower-reading-load pattern tested in Part Two.
+2. Convert Modules 13–23 from authoring templates into cited, reader-facing lessons using the lower-reading-load pattern tested in Parts Two and Three.
 3. Check every medical and safety statement against appropriate evidence and clinical guidance.
 4. Invite people with FND, supporters, clinicians and other reviewers to identify errors, missing perspectives and accessibility problems.
 5. Add lived-experience material only with clear consent and labelling.

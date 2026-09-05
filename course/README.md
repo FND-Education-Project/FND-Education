@@ -6,9 +6,9 @@
 
 > **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-This directory contains the complete structure and initial authoring drafts for the FND Education course: 23 module overviews and 60 focused pages, for 83 course pages in total. Each module begins with a short overview and links to one to five focused articles.
+This directory contains the complete structure and initial authoring drafts for the FND Education course: 23 module overviews and 63 focused pages, for 86 course pages in total. Each module begins with a short overview and links to one to five focused articles.
 
-Parts One and Two (Modules 1–9) now contain reader-facing working drafts based on the detailed human-planned syllabus and the wording pattern established in Module 1. Pages personally edited by the project lead are marked separately from temporary automatically generated drafts. Modules 10–23 remain shorter authoring templates and starting text. Contributors and reviewers are invited to help with human writing, evidence, safety, accessibility, lived experience and plain-language editing.
+Parts One through Three (Modules 1–12) now contain reader-facing working drafts based on the detailed human-planned syllabus and the wording pattern established in Module 1. Pages personally edited by the project lead are marked separately from temporary automatically generated drafts. Modules 13–23 remain shorter authoring templates and starting text. Contributors and reviewers are invited to help with human writing, evidence, safety, accessibility, lived experience and plain-language editing.
 
 Every focused article uses the same four sections:
 
@@ -38,9 +38,9 @@ The clinician section focuses on practical usefulness to the patient: helping th
 
 ## Part Three: Common Non-Motor Difficulties
 
-- [Thinking, Memory, and Dissociation](part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/README.md) — 3 pages
-- [Pain, Migraine, Fatigue, and Sleep](part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/README.md) — 5 pages
-- [Autonomic and Whole-Body Symptoms](part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/README.md) — 3 pages
+- [Thinking, Memory, and Dissociation](part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/README.md) — 4 pages
+- [Pain, Migraine, Fatigue, and Sleep](part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/README.md) — 6 pages
+- [Autonomic and Whole-Body Symptoms](part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/README.md) — 4 pages
 
 ## Part Four: Treatment and Rehabilitation
 

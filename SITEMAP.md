@@ -128,6 +128,7 @@ Use the sections below to drill down into the course, reference library, researc
 - [Module overview](course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/README.md)
 - [Attention, Memory, Word Finding, and Functional Cognitive Disorder](course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
 - [Dissociation and Altered Awareness](course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/02-dissociation-and-altered-awareness.md)
+- [Build an External Thinking and Memory System](course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/03-build-an-external-thinking-and-memory-system.md)
 
 </details>
 
@@ -139,6 +140,7 @@ Use the sections below to drill down into the course, reference library, researc
 - [Migraine](course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/02-migraine.md)
 - [Fatigue and Post-Activity Worsening](course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/03-fatigue-and-post-activity-worsening.md)
 - [Sleep Problems and Sleep Disorders](course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/04-sleep-problems-and-sleep-disorders.md)
+- [When Pain, Migraine, Fatigue, and Sleep Interact](course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/05-when-pain-migraine-fatigue-and-sleep-interact.md)
 
 </details>
 
@@ -148,6 +150,7 @@ Use the sections below to drill down into the course, reference library, researc
 - [Module overview](course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/README.md)
 - [Autonomic Symptoms, Overlap, and Other Causes](course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/01-autonomic-symptoms-overlap-and-other-causes.md)
 - [Useful Tracking, Measurements, and Clinical Assessment](course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/02-useful-tracking-measurements-and-clinical-assessment.md)
+- [Build a Personal Autonomic-Symptom Plan](course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/03-build-a-personal-autonomic-symptom-plan.md)
 
 </details>
 

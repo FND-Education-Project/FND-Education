@@ -1,28 +1,64 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 12: Autonomic and Whole-Body Symptoms](README.md) › **Autonomic Symptoms, Overlap, and Other Causes**
+[Home](../../../README.md) › [Course](../../README.md) › Part Three: Common Non-Motor Difficulties › [Module 12](README.md) › **Autonomic Symptoms, Overlap, and Other Causes**
 <!-- NAV-BREADCRUMB:END -->
 
 # Autonomic Symptoms, Overlap, and Other Causes
 
-This is a focused authoring template within Module 12. Build the completed page around this scope: Explain ordinary autonomic functions and symptoms such as sweating, temperature change, nausea, bowel change, dizziness, palpitations, and faintness; cover medication, illness, migraine, cardiac, endocrine, and recognized autonomic differentials without assuming “dysregulation.”
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+Automatic body functions can become noticeable when they are uncomfortable or unreliable. The symptom deserves attention even when its cause is not yet clear.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND autonomic symptoms; dysautonomia; sweating; temperature change; nausea; palpitations; dizziness; POTS; orthostatic intolerance; autonomic dysregulation. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Autonomic Symptoms, Overlap, and Other Causes.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Explain ordinary autonomic functions and symptoms such as sweating, temperature change, nausea, bowel change, dizziness, palpitations, and faintness; cover medication, illness, migraine, cardiac, endocrine, and recognized autonomic differentials without assuming “dysregulation.” The reader should not have to read the module overview first to understand the page.
+The **autonomic nervous system** helps regulate functions you do not have to consciously direct, including heart rate, blood pressure, sweating, digestion, bladder function and temperature responses.
 
-**Which common graph or “balance” explanation needs correcting?** Explain that sympathetic and parasympathetic activity is not one see-saw with a universally ideal midpoint. Responses are organ- and situation-specific: the two branches may oppose one another, change independently or be active together. Their activity changes throughout the day, but “switching from sympathetic to parasympathetic” is usually too simple a description. Group-level autonomic differences reported in FND research are mixed and cannot determine an individual’s diagnosis, fatigue, recovery state or number of “spoons.” Link readers seeking the capacity metaphor to [Available Capacity, Spoons, and Early Action](../../part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md#how-do-the-common-explanations-fit-together). ([autonomic-control source record](../../../research/citation-index.md#fnd-cit-0063); [FND systematic-review source record](../../../research/citation-index.md#fnd-cit-0064))
+![A body outline connects to heart and blood pressure, temperature and sweating, digestion, and bladder. Each area can have several possible causes.](../../../assets/module-12-page-1-autonomic-functions.svg)
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: What the autonomic nervous system does automatically, including heart rate, blood pressure, sweating, digestion, and temperature control. Why people with FND may report sweating, nausea, bowel changes, dizziness, palpitations, or temperature problems. Why these symptoms can also come from medication, dehydration, infection, pain, migraine, poor sleep, heart conditions, hormone problems, or autonomic disorders. Why the word dysregulation describes a possibility but does not identify the cause by itself. Why FND research has not proven that every whole-body symptom is part of FND. How a short record of timing, circumstances, medication changes, and useful measurements may help a clinician. Why consumer devices can provide clues but can also be inaccurate or easy to overinterpret. How too much checking can increase distress without improving decisions. When new, severe, or changing whole-body symptoms need medical assessment. Sympathetic, parasympathetic, enteric, baroreflex, thermoregulatory, and cardiorespiratory physiology relevant to reported symptoms. Evidence concerning autonomic measures in FND and the limitations of small, heterogeneous, state-dependent studies. Differential diagnosis involving orthostatic intolerance, POTS, vasovagal syncope, arrhythmia, endocrine disease, infection, medication effects, withdrawal, dehydration, migraine, and sleep disorders. Overlap and diagnostic boundaries among FND, autonomic disorders, panic physiology, functional somatic symptoms, and ordinary responses to pain or exertion. Clinical utility and limitations of orthostatic vitals, ambulatory monitoring, wearables, home oximetry, and symptom diaries. Risks of false precision, incidental findings, confirmation bias, and excessive physiological monitoring. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+*Illustration: “autonomic” names a body system, not one disease or one mechanism.*
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Emphasize that research has not established one autonomic abnormality across FND. Note small and state-dependent studies, unclear direction of effects, overlap with recognized autonomic disorders, and the scientific limitations of broad dysregulation or polyvagal claims. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+### If you read only one thing
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe sweating, chills, flushing, temperature difficulty, nausea, bowel changes, dizziness, racing or irregular heartbeat, and feeling faint. Explain that these sensations may occur with FND but can have many unrelated or overlapping causes. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+FND research has found mixed autonomic differences between groups. A pulse, heart-rate-variability value or symptom list cannot diagnose FND or prove that all symptoms share one cause. (*citation* [1](#citation-1))
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Create a brief pattern record including context, duration, medication changes, and objective data only where useful. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+### Symptoms can overlap
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: What objective pattern has been documented? Could medication, dehydration, migraine, sleep, heart rhythm, hormones, or an autonomic disorder contribute? Which measurements are useful? When should monitoring stop or prompt assessment? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+People may describe palpitations, faintness, nausea, bowel changes, sweating, flushing, chills, bladder urgency or trouble tolerating heat. These may occur during FND episodes, migraine, pain, panic or illness. They may also reflect a coexisting autonomic, cardiac, endocrine, gastrointestinal, medication-related or other condition.
+
+POTS, for example, requires chronic symptoms that are worse upright, a sustained heart-rate rise meeting age-based criteria, no substantial orthostatic blood-pressure fall, and exclusion of other explanations. Feeling dizzy or having one high pulse is not enough. (*citation* [2](#citation-2))
+
+### Avoid the one-pedal story
+
+“Fight or flight” and “rest and digest” are useful introductions, but the autonomic system is not a single balance dial. Sympathetic and parasympathetic activity can change reciprocally, independently or together. A simple “vagal tone” story should not be treated as a personal diagnosis. (*citation* [3](#citation-3))
+
+### Community experiences for review
+
+These accounts describe diagnosed or suspected coexisting problems; they do not establish cause.
+
+**Option 1 — balancing two conditions**
+
+> “Trying to balance keeping my neurological symptoms ... from flaring up while simultaneously dealing with the blood pressure drops, dizziness, or tachycardia from dysautonomia is a full-time job.”
+
+— The writer described FND and dysautonomia as interacting burdens. [Read the public source](https://www.reddit.com/r/FND/comments/1swqti0/anyone_else_dealing_with_functional_neurologic/).
+
+**Option 2 — faintness with a coexisting diagnosis**
+
+> “I have POTS alongside FND ... it causes pre syncope (feeling faint/before fainting/dizziness).”
+
+— A commenter described their own coexisting diagnosis; the post cannot confirm diagnostic testing. [Read the public source](https://www.reddit.com/r/FND/comments/1ogxu0u/fnd_and_heart_rate_issues_tw_symptom_talk/).
+
+### Questions
+
+#### Which body function is hardest for you, and what were you doing when it changed?
+
+#### What would respectful care look like if more than one condition contributes?
+
+### One small thing you can do
+
+Write one sentence: **“When I ___, I notice ___, and it affects ___.”** A lower-demand version is to fill only the first two blanks.
+
+Seek urgent care for fainting with injury, chest pain, severe breathlessness, signs of stroke, severe dehydration, blood in vomit or stool, or another emergency concern. A new or substantially changed pattern needs assessment.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -33,7 +69,9 @@ This is a focused authoring template within Module 12. Build the completed page 
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Autonomic Symptoms, Overlap, and Other Causes.” Develop the supporter guidance from these points: Helping document concerning patterns without dismissing them as anxiety or FND. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Help the person sit or lie safely according to their plan, reduce heat or crowding, and bring needed items. Do not tell them to push through faintness or diagnose the event from a watch.
+
+Know the agreed emergency signs. Support appropriate reassessment while avoiding both panic and automatic attribution to FND.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -44,13 +82,23 @@ This is a focused authoring template within Module 12. Build the completed page 
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Cover dehydration, infection, migraine, medication effects or withdrawal, pain, sleep loss, heart-rhythm problems, endocrine disease, POTS, orthostatic hypotension, vasovagal syncope, gastrointestinal illness, and ordinary responses to exertion or fear. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Evidence concerning autonomic measures in FND and the limitations of small, heterogeneous, state-dependent studies. Differential diagnosis involving orthostatic intolerance, POTS, vasovagal syncope, arrhythmia, endocrine disease, infection, medication effects, withdrawal, dehydration, migraine, and sleep disorders. Overlap and diagnostic boundaries among FND, autonomic disorders, panic physiology, functional somatic symptoms, and ordinary responses to pain or exertion. Clinical utility and limitations of orthostatic vitals, ambulatory monitoring, wearables, home oximetry, and symptom diaries. Risks of false precision, incidental findings, confirmation bias, and excessive physiological monitoring. Explain both the value and limitations of each step.
+**Option 1 — Paredes-Echeverri et al., 2022**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Explain whether this module is itself about treatment or instead directs readers to the professional or practical approaches covered elsewhere. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “Autonomic studies in adults with FND yielded mixed results”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Flag fainting with injury, chest pain, sustained or severe palpitations, breathing trouble, signs of dehydration, fever, blood loss, persistent vomiting, low oxygen readings with symptoms, or a new sustained change. Consumer measurements should support—not replace—clinical assessment. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Berntson et al., 1991**
+
+> “the modes of autonomic control”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [3](#citation-3))*
+
+### Keep physiology, symptoms and diagnoses separate
+
+Phenotype the symptom and its temporal context. Check medication, hydration, nutrition and relevant cardiac, autonomic, endocrine, neurological, gastrointestinal and psychiatric differentials. Use orthostatic vitals or specialist testing when clinically indicated.
+
+FND group studies include resting and peri-ictal autonomic findings with heterogeneous directions and methods. They do not validate HRV, resting heart rate or a “polyvagal state” as an FND diagnostic marker. Diagnose coexisting syndromes on their own evidence and explain uncertainty without invalidating symptoms. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -60,15 +108,23 @@ This is a focused authoring template within Module 12. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Useful Tracking, Measurements, and Clinical Assessment](02-useful-tracking-measurements-and-clinical-assessment.md)
+**Continue:** [Useful Tracking, Measurements, and Clinical Assessment →](02-useful-tracking-measurements-and-clinical-assessment.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [Module overview](README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Autonomic Symptoms, Overlap, and Other Causes”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+The FND review reports mixed group-level physiology. The POTS review provides criteria for a separate syndrome. The older physiology paper is conceptual and should not be treated as a clinical diagnostic standard. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Paredes-Echeverri S, Maggio J, Bègue I, Pick S, Nicholson TR, Perez DL. Autonomic, endocrine, and inflammation profiles in functional neurological disorder: a systematic review and meta-analysis. *Journal of Neuropsychiatry and Clinical Neurosciences*. 2022;34(1):30–43. [FND-CIT-0064](../../../research/citation-index.md#fnd-cit-0064). [https://doi.org/10.1176/appi.neuropsych.21010025](https://doi.org/10.1176/appi.neuropsych.21010025) |
+| <a id="citation-2"></a>**[2]** | — | Raj SR, Fedorowski A, Sheldon RS. Diagnosis and management of postural orthostatic tachycardia syndrome. *CMAJ*. 2022;194(10):E378–E385. [FND-CIT-0074](../../../research/citation-index.md#fnd-cit-0074). [https://doi.org/10.1503/cmaj.211373](https://doi.org/10.1503/cmaj.211373) |
+| <a id="citation-3"></a>**[3]** | Figure 1 | Berntson GG, Cacioppo JT, Quigley KS. Autonomic determinism: the modes of autonomic control, the doctrine of autonomic space, and the laws of autonomic constraint. *Psychological Review*. 1991;98(4):459–487. [FND-CIT-0063](../../../research/citation-index.md#fnd-cit-0063). [https://doi.org/10.1037/0033-295X.98.4.459](https://doi.org/10.1037/0033-295X.98.4.459) |
+
+This page still needs review by people with autonomic symptoms and FND, autonomic specialists, cardiologists, neurologists and accessibility reviewers.
+
+*Plain-language draft and research package prepared: September 5, 2026 · Clinical review pending*

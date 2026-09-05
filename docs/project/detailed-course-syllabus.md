@@ -46,7 +46,7 @@ A clinician or care-team member should be better able to:
 
 # Course Modules
 
-Each module title links to its complete syllabus page. The [course authoring index](../../course/README.md) links to the 23 module folders and their 83 overview and focused pages.
+Each module title links to its complete syllabus page. The [course authoring index](../../course/README.md) links to the 23 module folders and their 86 overview and focused pages.
 
 ## Part One: Understanding FND
 
@@ -64,6 +64,8 @@ Each module title links to its complete syllabus page. The [course authoring ind
 - [**Module 9 — Speech, Voice, Swallowing, and Breathing Symptoms**](syllabus/module-09-speech-voice-swallowing-and-breathing-symptoms.md) — Explain communication and upper-airway symptoms while giving safety issues appropriate weight.
 
 ## Part Three: Common Non-Motor Difficulties
+
+Part Three uses the same lower-reading-load pattern as Part Two. One practical page has been added to each module so definitions, safety and daily application do not have to be absorbed in one sitting.
 
 - [**Module 10 — Cognition, Memory, and Dissociation**](syllabus/module-10-cognition-memory-and-dissociation.md) — Explain cognitive symptoms without treating every memory difficulty as either neurodegeneration or “just FND.”
 - [**Module 11 — Pain, Migraine, Fatigue, and Sleep**](syllabus/module-11-pain-migraine-fatigue-and-sleep.md) — Show how these disabling problems may accompany, trigger, maintain, or remain distinct from FND.
