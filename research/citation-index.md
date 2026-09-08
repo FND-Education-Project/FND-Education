@@ -562,6 +562,78 @@ Ludwig L, Pasman JA, Nicholson T, et al. Stressful life events and maltreatment 
 
 Use this review for group-level associations between FND and stressful life events or maltreatment and for its finding that many cases reported no stressor. Included studies were heterogeneous and of moderate-to-low quality; the association cannot establish an individual's cause, make trauma a diagnostic requirement or indicate trauma-focused treatment.
 
+## FND-CIT-0080
+
+Szasz A, Korner A, McLean L. Qualitative systematic review on the lived experience of functional neurological disorder (FND): an epistemological and ontological analysis. *BMJ Neurology Open*. 2025;7(1):e000694. [https://doi.org/10.1136/bmjno-2024-000694](https://doi.org/10.1136/bmjno-2024-000694)
+
+Use this synthesis of eight qualitative papers for recurring accounts of loss, stigma, relationships, trust and efforts to live with FND. Its search ended in 2020, the included studies were small and the authors' interpretive theory is not a universal explanation of FND or of any individual's experience.
+
+## FND-CIT-0081
+
+Rezaei O, Stanley M. Understanding the lived experiences of individuals with functional neurological disorder in Australia: an interpretative phenomenological analysis. *Disability and Rehabilitation*. 2025;47(24):6408–6415. [https://doi.org/10.1080/09638288.2025.2481986](https://doi.org/10.1080/09638288.2025.2481986)
+
+Use this interview study of 11 adults in Australia for experiences of disrupted daily life, diagnosis, access, stigma and financial or employment strain. It offers detailed lived experience, not prevalence estimates or conclusions that apply to every person or service system.
+
+## FND-CIT-0082
+
+Leochico CFG, Speck ER, Mikaelian S, et al. Challenges and care recommendations of persons with functional neurological disorder and care partners: a qualitative study. *Canadian Journal of Neurological Sciences*. Published online July 23, 2026:1–12. [https://doi.org/10.1017/cjn.2026.10629](https://doi.org/10.1017/cjn.2026.10629)
+
+Use this Ontario focus-group study for accounts of delayed or dismissed diagnosis, fragmented services, forced self-advocacy, costs and participants' care recommendations. The sample comprised 11 people with FND and only two care partners in one Canadian province; it cannot represent all patients, supporters or health systems.
+
+## FND-CIT-0083
+
+Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826)
+
+Use this review of 15 quantitative studies for reported acceptance, understanding and satisfaction after diagnostic communication. Only four studies entered the pooled acceptance estimate, heterogeneity was substantial and comparative evidence was weak; structured, empathic explanation and follow-up are reasonable practices, but superiority for acceptance or recovery is not established.
+
+## FND-CIT-0084
+
+Woodward J, Guler S, Balcer LJ, et al. Work difficulties, work restrictions, and disability benefits in people with functional seizures: a survey study. *Epilepsy & Behavior Reports*. 2023;23:100610. [https://doi.org/10.1016/j.ebr.2023.100610](https://doi.org/10.1016/j.ebr.2023.100610)
+
+Use this open online survey of 118 respondents for self-reported workplace difficulties, restrictions, benefits and accommodations among people with functional seizures. Recruitment was self-selected, most respondents were women and the findings concern one FND presentation; they do not prescribe restrictions or estimate employment outcomes for all people with FND.
+
+## FND-CIT-0085
+
+Mohammadi Z, Nielsen G, Stone J, et al. Falls in functional neurological disorders: prevalence, risk factors, and relationship to disease characteristics. *European Journal of Neurology*. 2026;33(6):e70665. [https://doi.org/10.1111/ene.70665](https://doi.org/10.1111/ene.70665)
+
+Use this cross-sectional tertiary-clinic study of 100 people with motor FND for self-reported falls, injuries and the value of multidimensional falls assessment. Retrospective reporting and specialist-clinic selection limit generalisation; the study does not show that everyone with motor FND falls or identify one aid or treatment that prevents falls.
+
+## FND-CIT-0086
+
+Gatherer C, Garip G. “Look for Glimmers Instead of Triggers”: a qualitative exploration of the lived experiences of people with functional neurological disorder (FND). *Psychological Reports*. Published online June 15, 2025. [https://doi.org/10.1177/00332941251351234](https://doi.org/10.1177/00332941251351234)
+
+Use this interview study of 12 adults recruited through a UK charity's social media for accounts of isolation, stigma, family, peer support, grief, acceptance, hope and purpose. It is a small, self-selected qualitative sample and does not show one required emotional path or treatment.
+
+## FND-CIT-0087
+
+Tsamakis K, Papatriantafyllou E, Karavasilis E, et al. Depression and anxiety in caregivers of patients with functional seizures. *Epileptic Disorders*. 2023;25(2):200–207. [https://doi.org/10.1002/epd2.20014](https://doi.org/10.1002/epd2.20014)
+
+Use this cross-sectional study of 29 patient-caregiver pairs to support asking about caregiver wellbeing in functional-seizure care. The sample was small, one subtype was studied and screening symptoms are not diagnoses; the study cannot establish cause or describe every supporter.
+
+## FND-CIT-0088
+
+Pritomanova I, et al. The journey to diagnosis and care of functional neurological disorder. *PLOS ONE*. 2026;21(4):e0328321. [https://doi.org/10.1371/journal.pone.0328321](https://doi.org/10.1371/journal.pone.0328321)
+
+Use this interview study of 18 people recruited from a feasibility trial for experiences of diagnosis, treatment, day-to-day burden, agency and hope. Its setting and study-linked sample limit transferability, and its themes should not be turned into a required route to acceptance or recovery.
+
+## FND-CIT-0089
+
+Mcloughlin C, Ludwig L, Carson A, Stone J. Stigma in functional neurological disorder: a longitudinal study. *Journal of Psychosomatic Research*. 2026;203:112550. [https://doi.org/10.1016/j.jpsychores.2026.112550](https://doi.org/10.1016/j.jpsychores.2026.112550)
+
+Use this two-centre observational study for changing and anticipated stigma reported by participants with FND, including concerns about work and health care. It does not establish causation, represent every workplace or show that stigma is inevitable.
+
+## FND-CIT-0090
+
+Moss RSL, Lennon MJ, Anne S, et al. Disability, distress and delayed access to care in functional neurological disorder: cross-sectional study from an Australian tertiary clinic. *BJPsych Open*. 2026;12(3):e128. [https://doi.org/10.1192/bjo.2026.11038](https://doi.org/10.1192/bjo.2026.11038)
+
+Use this cross-sectional study of 105 patients at one Australian tertiary clinic for measured disability, quality of life, comorbidity, delays and vocational disruption. A selected specialist-service cohort cannot provide population prevalence or predict one person's capacity, prognosis or ability to work.
+
+## FND-CIT-0091
+
+Bailey C, Ellis M, Bate E, et al. Illness perceptions, experiences of stigma and engagement in functional neurological disorder before and after group education. *BMJ Neurology Open*. 2024;6(1):e000633. [https://doi.org/10.1136/bmjno-2024-000633](https://doi.org/10.1136/bmjno-2024-000633)
+
+Use this uncontrolled service evaluation for participant-reported needs, including personalized formulation, practical disability advice, help explaining FND and peer support, and for short-term changes after group education. Follow-up response was low and the study cannot establish that education caused the changes or improved symptoms or function.
+
 # How Course Pages Should Use the Index
 
 1. Assign a source one permanent ID and never renumber it.

@@ -1,26 +1,60 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 17: Daily Living, Accessibility, and Equipment](README.md) › **Sensory, Home, and Communication Access**
+[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 17](README.md) › **Sensory, Home, and Communication Access**
 <!-- NAV-BREADCRUMB:END -->
 
 # Sensory, Home, and Communication Access
 
-This is a focused authoring template within Module 17. Build the completed page around this scope: Cover lighting, sound, clutter, layout, navigation, communication cards or devices, remote access, printable information, home changes, temporary and long-term accommodations, and disability rights.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+Access can begin before symptoms improve. A quieter place, a safer layout or another way to communicate may make participation possible today.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND accessibility; daily living; occupational therapy; mobility aids; wheelchair; walker; cane; home adaptations; communication aids; disability equipment. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Sensory, Home, and Communication Access.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover lighting, sound, clutter, layout, navigation, communication cards or devices, remote access, printable information, home changes, temporary and long-term accommodations, and disability rights. The reader should not have to read the module overview first to understand the page.
+**Accessibility** means removing or reducing barriers so a person can take part. The barrier may be in the surroundings, the task or the way information is given—not in the person's worth.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: How FND may make washing, dressing, cooking, cleaning, shopping, communication, or moving around more difficult. How changing the task or environment may reduce physical, thinking, or sensory demands. How canes, walkers, wheelchairs, seating, braces, and other aids may improve safety, access, or independence. Why equipment does not automatically prevent recovery and does not automatically help every person. Why the right aid depends on the person’s symptoms, home, goals, strength, pain, fatigue, falls, and ability to use it safely. How home changes and communication aids may allow participation without requiring symptoms to disappear first. Why present accessibility needs and future rehabilitation goals can both matter. Why equipment and assistance should be reviewed when needs change. How funding and service rules may affect what is actually available. Activity analysis across personal care, instrumental activities, mobility, communication, cognition, and community access. Environmental modification, task simplification, fatigue management, sensory adaptation, seating, positioning, transfer, fall, and episode safety. Individual prescription of canes, walkers, wheelchairs, orthoses, bathroom equipment, and augmentative communication. Tensions among immediate access, secondary complications, deconditioning, learned reliance, participation, and rehabilitation goals. Lack of evidence supporting blanket prohibition or blanket endorsement of mobility aids in FND. Collaborative trials, functional goals, training, maintenance, funding documentation, and planned reassessment. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![Three access layers: sensory surroundings, home layout and communication method, surrounding the person's chosen activity.](../../../assets/module-17-page-3-access-layers.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Explain the lack of evidence for blanket rules about aids in FND. Note uncertainty about long-term effects, highly individual tradeoffs, funding limitations, and the need to balance safety, independence, participation, conditioning, and rehabilitation. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: more than one layer may need changing. Access is not limited to ramps.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe difficulty bathing, dressing, preparing food, cleaning, transferring, communicating, tolerating sensory environments, or leaving home. Include fluctuating ability and the tension between needing help now and fearing that equipment will be judged as preventing recovery. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Conduct a task-and-environment review: barrier, risk, current workaround, possible adaptation, and professional input needed. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+You do not have to wait until you are “better enough” to ask for dimmer light, less noise, a chair, clear written steps, extra time or another way to speak.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: What task or barrier is this aid meant to solve? Is it safe and properly fitted? Does it improve independence or participation? What training is needed? When will its usefulness and risks be reviewed? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### Three places to look
+
+- **Sensory:** light, noise, movement, touch, temperature, crowds or smells.
+- **Home:** steps, narrow routes, bathroom safety, seating, where items are stored and space to recover after an activity.
+- **Communication:** speech, voice, hearing, word-finding, memory, processing time and access to writing, typing, pictures or a communication device.
+
+An adaptation should fit the actual barrier. Sunglasses may help one setting but make another harder. A phone note may support a brief episode; a speech and language therapist may be needed for a fuller communication plan. FND guidance supports environmental and task changes, but individual trials still matter. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Community experiences for review
+
+**Option 1 — light**
+
+> “I’ve got FL-41 lens coating sunglasses to help with light sensitivity.”
+
+— One person's accessibility idea. [Read the public source](https://www.reddit.com/r/FND/comments/1h7poki/accessibility_aids/).
+
+**Option 2 — loss of speech can last**
+
+> “I have been mute for 2 weeks now and it doesn’t look like it’s going to resolve anytime soon.”
+
+— One person's account of a prolonged communication barrier. [Read the public source](https://www.reddit.com/r/FND/comments/1mer8ej/tw_symptom_discussion_anyone_else_mute/).
+
+These are experiences, not proof that the same aid or course applies to someone else.
+
+### Questions
+
+#### Which place asks your brain or body to filter too much at once?
+
+#### What would help you stay part of a conversation when speech, memory or processing becomes difficult?
+
+### One small thing you can do
+
+Choose one setting. Complete: “I can take part more safely if _____.” Try one reversible change. Seek assessment for new loss of speech, hearing or vision, swallowing difficulty, injury risk or a major unexplained change.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +65,7 @@ This is a focused authoring template within Module 17. Build the completed page 
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Sensory, Home, and Communication Access.” Develop the supporter guidance from these points: Asking before helping and avoiding automatic takeover. Recognizing when a task is unsafe for either person. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Ask before turning off lights, speaking for the person or moving their equipment. Give time for a reply. Agree a simple yes/no method and a way to pause if communication is unreliable. Keep addressing the person even when someone else is helping.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +76,23 @@ This is a focused authoring template within Module 17. Build the completed page 
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Use this section to separate functional limitations from injury, pain, joint instability, cardiopulmonary limits, visual or vestibular disease, cognitive impairment, and environmental inaccessibility. Several may require accommodation at the same time. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Collaborative trials, functional goals, training, maintenance, funding documentation, and planned reassessment. Explain both the value and limitations of each step.
+**Option 1 — Nicholson et al., 2020**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Activity analysis across personal care, instrumental activities, mobility, communication, cognition, and community access. Environmental modification, task simplification, fatigue management, sensory adaptation, seating, positioning, transfer, fall, and episode safety. Individual prescription of canes, walkers, wheelchairs, orthoses, bathroom equipment, and augmentative communication. Tensions among immediate access, secondary complications, deconditioning, learned reliance, participation, and rehabilitation goals. Lack of evidence supporting blanket prohibition or blanket endorsement of mobility aids in FND. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “environmental adaptations”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Recommend review after falls, skin problems, pain, unsafe transfers, caregiver injury, major functional change, equipment no longer fitting, or a change in rehabilitation goals. Equipment should be adjusted or replaced rather than treated as permanent by default. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Bailey et al., 2024**
+
+> “practical disability advice”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+
+### Make access part of care
+
+Ask which settings and communication demands restrict participation. Assess cognition, vision, hearing, vestibular symptoms, pain, fatigue, migraine, neurodevelopmental needs and other contributors rather than assuming every barrier is FND.
+
+Offer information in more than one format. Record the person's preferred communication method, response time, sensory needs and who may assist with consent. Coordinate occupational therapy, speech and language therapy, physiotherapy, audiology, optometry or other services according to the barrier. Evidence for specific sensory adaptations in FND is limited, so identify the goal, trial proportionately and review benefit and burden. (*citations* [1](#citation-1), [2](#citation-2))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,15 +102,20 @@ This is a focused authoring template within Module 17. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Relationships, Identity, and Grief](../module-18-relationships-identity-and-grief/README.md)
+**Continue:** [Next page: Try and Review Equipment as Needs Change](04-trying-and-reviewing-equipment-as-needs-change.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Previous page](02-mobility-aids-wheelchairs-seating-and-fall-safety.md) · [Module overview](README.md) · [Course](../../README.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Sensory, Home, and Communication Access”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Bailey C, Ellis M, Bate E, et al. Illness perceptions, experiences of stigma and engagement in functional neurological disorder before and after group education. *BMJ Neurology Open*. 2024;6(1):e000633. [FND-CIT-0091](../../../research/citation-index.md#fnd-cit-0091). [https://doi.org/10.1136/bmjno-2024-000633](https://doi.org/10.1136/bmjno-2024-000633) |
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+This page still needs review by people with sensory or communication barriers and relevant accessibility and clinical specialists.
+
+*Plain-language draft and research package prepared: September 8, 2026 · Clinical review pending*

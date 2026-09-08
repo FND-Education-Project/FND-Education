@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Four questions for a mobility aid</title>
+  <desc id="desc">Four boxes ask what task the aid should help, whether it fits and training is available, what safety and access issues matter, and when it will be reviewed.</desc>
+  <rect width="900" height="330" rx="24" fill="#f3f0f8"/>
+  <text x="450" y="43" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Fit the tool to the person and purpose</text>
+  <g font-family="Arial, sans-serif" fill="#17324d" text-anchor="middle">
+    <rect x="45" y="85" width="190" height="125" rx="18" fill="#fff" stroke="#39738c" stroke-width="3"/><text x="140" y="120" font-size="20" font-weight="700">1 · Task</text><text x="140" y="152" font-size="16">What should become</text><text x="140" y="175" font-size="16">safer or possible?</text>
+    <rect x="252" y="85" width="190" height="125" rx="18" fill="#fff" stroke="#18785b" stroke-width="3"/><text x="347" y="120" font-size="20" font-weight="700">2 · Fit</text><text x="347" y="152" font-size="16">Right size, training</text><text x="347" y="175" font-size="16">and transfer?</text>
+    <rect x="459" y="85" width="190" height="125" rx="18" fill="#fff" stroke="#a66a13" stroke-width="3"/><text x="554" y="120" font-size="20" font-weight="700">3 · Safety</text><text x="554" y="152" font-size="16">Falls, pressure, pain</text><text x="554" y="175" font-size="16">and real-world access?</text>
+    <rect x="666" y="85" width="190" height="125" rx="18" fill="#fff" stroke="#7350a0" stroke-width="3"/><text x="761" y="120" font-size="20" font-weight="700">4 · Review</text><text x="761" y="152" font-size="16">What change means</text><text x="761" y="175" font-size="16">we look again?</text>
+  </g>
+  <text x="450" y="274" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#17324d">An aid is a tool—not a verdict about recovery.</text>
+</svg>

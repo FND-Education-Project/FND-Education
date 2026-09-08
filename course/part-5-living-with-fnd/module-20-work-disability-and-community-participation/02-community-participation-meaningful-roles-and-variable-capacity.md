@@ -1,26 +1,58 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 20: Work, Disability, and Community Participation](README.md) › **Community Participation, Meaningful Roles, and Variable Capacity**
+[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 20](README.md) › **Community Participation and Meaningful Roles**
 <!-- NAV-BREADCRUMB:END -->
 
-# Community Participation, Meaningful Roles, and Variable Capacity
+# Community Participation and Meaningful Roles
 
-This is a focused authoring template within Module 20. Build the completed page around this scope: Cover volunteering, hobbies, family roles, creativity, advocacy, transportation, finances, access barriers, severe disability, flexible participation, dignity, and contribution beyond paid employment.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+Participation can mean belonging, choosing, learning, caring, creating or being present. It is not limited to paid work or visible productivity.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND work; return to work; disability; accommodations; education; vocational rehabilitation; community participation; variable capacity; disability benefits. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Community Participation, Meaningful Roles, and Variable Capacity.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover volunteering, hobbies, family roles, creativity, advocacy, transportation, finances, access barriers, severe disability, flexible participation, dignity, and contribution beyond paid employment. The reader should not have to read the module overview first to understand the page.
+**Participation** means involvement in life situations that matter to you. A **meaningful role** is a place you hold in your own life or with others; it can be small, changing or unpaid.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: Why returning to work or school may be a goal for some people but may be unsafe or impossible for others. How shorter hours, changed duties, rest breaks, remote access, reduced sensory load, or other accommodations may help. Why variable symptoms can make fixed schedules and attendance rules especially difficult. How disability forms need to describe what the person can and cannot do, not only name the diagnosis. How transportation, mobility, money, paperwork, and inaccessible buildings can limit participation. Why volunteering, hobbies, relationships, learning, caregiving, creativity, and advocacy are meaningful forms of participation. Why inability to work does not mean inability to contribute or a lack of effort. How to choose goals that respect present disability while leaving room for future change. Why severe or long-term FND deserves support even when recovery-focused services are unavailable. Functional capacity, job demands, educational participation, fluctuating disability, and task-specific restriction. Graduated return-to-work or education, accommodations, vocational rehabilitation, and relapse planning where appropriate. Risks of premature return, rigid progression, prolonged unnecessary exclusion, and making employment a treatment test. Documentation of function, reliability, endurance, cognitive or sensory load, safety, recovery time, and support needs. Disability-benefit, insurance, transportation, and accessibility systems as social determinants of health and participation. Severe and persistent FND, rehabilitation access, maintenance care, and palliative approaches to symptom burden without implying terminal illness. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![Several equal paths lead to participation: relationships, learning, creativity and community, with paid work shown as only one possible path.](../../../assets/module-20-page-2-participation.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Explain that return-to-work evidence is limited and highly dependent on occupation, benefits systems, accommodations, severity, and local law. Avoid treating employment as proof of recovery or inability to work as proof that rehabilitation has failed. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: no path is a ranking. Rest, receiving care and surviving a hard period do not make a person less valuable.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe difficulty with schedules, attendance, travel, sensory environments, thinking demands, physical tasks, and recovery after activity. Include grief about employment as well as meaningful contribution through family, hobbies, volunteering, learning, creativity, and advocacy. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Map desired roles, barriers, accommodations, supports, and realistic next steps. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+Your life does not have to wait until symptoms disappear. It also does not have to be turned into a rehabilitation exercise.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Which tasks are limited and why? What accommodation would address each barrier? Is return appropriate now? How will variable capacity and relapse be handled? What evidence is needed for disability or accommodation decisions? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### Find the smallest version that still means something
+
+Community may be one person, an online group, a faith community, a garden, a class, art, advocacy, parenting, gaming or caring for an animal. Access may mean joining for ten minutes, using a wheelchair, listening without speaking, leaving early or contributing from home.
+
+The aim is not to fill every gap left by work or health. Some days there may be no available capacity. Severe or persistent FND can make participation very limited. Recurrence or worsening is not proof that someone did the activity incorrectly or did not try hard enough.
+
+Qualitative studies report both isolation and the search for purpose, but small self-selected samples cannot define a good life for anyone else. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Community experiences for review
+
+**Option 1 — an aid enabling life**
+
+> “My mobility aids have been incredibly helpful and enable me to live life more fully.”
+
+— One person's account of mobility aids and access. [Read the public source](https://www.reddit.com/r/FND/comments/106utzh/advice_needed_considering_using_mobility_aid_for/).
+
+**Option 2 — support when recovery is not happening**
+
+> “therapy has switched to helping [me] function as someone who is paralyzed”
+
+— One person's account of changed rehabilitation goals. [Read the public source](https://www.reddit.com/r/FND/comments/1kchl1l/how_to_get_out_of_paralysis_epsiode/).
+
+### Questions
+
+#### Where do you feel known as a person rather than assessed as a patient?
+
+#### What tiny version of a valued role would still feel real to you—not like a consolation prize?
+
+### One small thing you can do
+
+Choose one person or place and ask for one access change. A lower-demand version could be sending an emoji, listening for five minutes or asking for a recording. Doing nothing today is also allowed.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +63,7 @@ This is a focused authoring template within Module 20. Build the completed page 
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Community Participation, Meaningful Roles, and Variable Capacity.” Develop the supporter guidance from these points: Respecting both rehabilitation hopes and current disability. Avoiding employment or productivity as a measure of worth. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Keep invitations open without making attendance a test. Offer the access details: quiet space, step-free route, flexible timing, transport, a place to lie down or permission to leave without apology. Ask what role the person wants instead of assigning only the role of care recipient.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +74,23 @@ This is a focused authoring template within Module 20. Build the completed page 
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Use this section to separate diagnosis from functional capacity. Limitations may come from FND, pain, migraine, fatigue, cognitive symptoms, equipment needs, another medical condition, or inaccessible surroundings, and the combination matters more than the label. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Risks of premature return, rigid progression, prolonged unnecessary exclusion, and making employment a treatment test. Jurisdiction-specific legal and benefits information requiring separate, current, locally reviewed resources. Explain both the value and limitations of each step.
+**Option 1 — Gatherer and Garip, 2025**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Graduated return-to-work or education, accommodations, vocational rehabilitation, and relapse planning where appropriate. Risks of premature return, rigid progression, prolonged unnecessary exclusion, and making employment a treatment test. Documentation of function, reliability, endurance, cognitive or sensory load, safety, recovery time, and support needs. Severe and persistent FND, rehabilitation access, maintenance care, and palliative approaches to symptom burden without implying terminal illness. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “Finding meaning and purpose”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Recommend review when work or school causes sustained deterioration, safety incidents, repeated absence, inability to recover, or when accommodations no longer match capacity. Benefits and legal guidance must be current and specific to the reader’s jurisdiction. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Pritomanova et al., 2026**
+
+> “hopes for the future”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+
+### Let the patient define participation
+
+Ask what matters beyond symptom reduction and paid employment. Assess environmental, financial, cognitive, sensory, mobility and communication barriers. Occupational therapy, social work, peer support and accessible community services may help; do not prescribe volunteering or social activity as proof of motivation.
+
+Research here is mainly qualitative and describes experience rather than intervention effects. A chosen role may support quality of life even if symptoms do not improve. When participation is severely limited, continue care for access, comfort, safety, relationships and supporter needs. There is no cure for FND, and a person's value is not contingent on rehabilitation gains. (*citations* [1](#citation-1), [2](#citation-2))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,15 +100,20 @@ This is a focused authoring template within Module 20. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Setbacks, Relapse, and Changing Symptoms](../../part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/README.md)
+**Continue:** [Next page: Describe Variable Function for Accommodations and Benefits](03-describing-variable-function-for-accommodations-and-benefits.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Previous page](01-work-school-disability-and-accommodations.md) · [Module overview](README.md) · [Course](../../README.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Community Participation, Meaningful Roles, and Variable Capacity”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Gatherer C, Garip G. “Look for Glimmers Instead of Triggers”: a qualitative exploration of the lived experiences of people with functional neurological disorder (FND). *Psychological Reports*. Published online June 15, 2025. [FND-CIT-0086](../../../research/citation-index.md#fnd-cit-0086). [https://doi.org/10.1177/00332941251351234](https://doi.org/10.1177/00332941251351234) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Pritomanova I, et al. The journey to diagnosis and care of functional neurological disorder. *PLOS ONE*. 2026;21(4):e0328321. [FND-CIT-0088](../../../research/citation-index.md#fnd-cit-0088). [https://doi.org/10.1371/journal.pone.0328321](https://doi.org/10.1371/journal.pone.0328321) |
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+This page still needs review by people with severe or variable FND, disability communities, occupational therapists and community-access specialists.
+
+*Plain-language draft and research package prepared: September 8, 2026 · Clinical review pending*

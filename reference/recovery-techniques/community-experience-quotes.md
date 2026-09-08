@@ -56,6 +56,34 @@ This page is intentionally not linked from the project navigation while quotatio
 
 The counts describe located quotations, not unique treatments or an estimate of how often people improve. When two quotations came from the same person or one account involved several treatments, that limitation is stated beside the quotation.
 
+## Part Five course-page source map
+
+This table records the community sources selected for the *Living With FND* draft. It is an editorial choice list, not a representative sample. The quotations remain lived experience rather than treatment or prognosis evidence.
+
+| Course page | Candidate source 1 | Candidate source 2 |
+|---|---|---|
+| Daily tasks | [Memory and basic care](https://www.reddit.com/r/FND/comments/13rzn9o/memory_issues/) | [Occupational therapy and sensory overwhelm](https://www.reddit.com/r/FND/comments/1j0nopp/tell_me_how_ot_will_help_my_fnd/) |
+| Mobility aids | [Aid enables fuller life](https://www.reddit.com/r/FND/comments/106utzh/advice_needed_considering_using_mobility_aid_for/) | [Wheelchair and independence](https://www.reddit.com/r/FND/comments/106utzh/advice_needed_considering_using_mobility_aid_for/) |
+| Sensory, home and communication access | [FL-41 lenses](https://www.reddit.com/r/FND/comments/1h7poki/accessibility_aids/) | [Prolonged loss of speech](https://www.reddit.com/r/FND/comments/1mer8ej/tw_symptom_discussion_anyone_else_mute/) |
+| Equipment trial and review | [Different aid use in different settings](https://www.reddit.com/r/FND/comments/1hypc8n/how_i_explain_fnd_to_others_and_how_i_wish_it_was/) | [Walker during paralysis episodes](https://www.reddit.com/r/FND/comments/1kchl1l/how_to_get_out_of_paralysis_epsiode/) |
+| Grief, identity and isolation | [Feeling on an island](https://www.reddit.com/r/FND/comments/16iyjst/dad_helping_recently_diagnosed_daughter/) | [Listening rather than fighting](https://www.reddit.com/r/FND/comments/1sedrnt/does_anyone_actually_get_better/) |
+| Relationships and intimacy | [Overhauling communication](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/) | [Pain and relationship strain](https://www.reddit.com/r/FND/comments/1dghzfz/people_with_experience_of_nhs_wheelchair_services/) |
+| Supporter wellbeing | [Conflict ground rules](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/) | [Partner's episode-safety role](https://www.reddit.com/r/FND/comments/1k8is0m/support_for_my_wife/) |
+| Appointments | [Bringing a support person](https://www.reddit.com/r/FND/comments/1vdyjnt/i_cant_walk_or_take_care_of_basic_needs_and/) | [Little information at diagnosis](https://www.reddit.com/r/FND/comments/1c35psh/tips_for_navigating_the_nhs/) |
+| Records and written plans | [Difficulty placing events in time](https://www.reddit.com/r/FND/comments/1mnw4fd/dae_have_functional_cognitive_disorder/) | [Individual treatment plan](https://www.reddit.com/r/FND/comments/11aerci/out_of_curiosity_have_any_of_you_actually_healed/) |
+| Communication breakdown | [Not safe, heard or understood](https://www.reddit.com/r/FND/comments/1il1abc/it_hard_for_me_to_accept_that_fnd_is/) | [Feeling on an island](https://www.reddit.com/r/FND/comments/16iyjst/dad_helping_recently_diagnosed_daughter/) |
+| Work and school | [Cognitive difficulty at work](https://www.reddit.com/r/FND/comments/1czpbko/major_cognitive_issues_with_fnd/) | [Reduced hours remain exhausting](https://www.reddit.com/r/FND/comments/1mwf0wq/can_you_hold_a_job_with_fnd/) |
+| Community participation | [Aid enables fuller life](https://www.reddit.com/r/FND/comments/106utzh/advice_needed_considering_using_mobility_aid_for/) | [Therapy goals shift toward function](https://www.reddit.com/r/FND/comments/1kchl1l/how_to_get_out_of_paralysis_epsiode/) |
+| Describing variable function | [Disconnected, collapsing legs](https://www.reddit.com/r/FND/comments/10jxpsn/how_do_you_deal_with_leg_problems/) | [Prompting for basic care](https://www.reddit.com/r/FND/comments/13rzn9o/memory_issues/) |
+
+### Work hours and sustainable capacity
+
+**Difficult pattern — person with symptoms**
+
+> “I have gone from full-time hours (about 38 hours) to about 8 hours per week, and even this can be overwhelming and exhausting.”
+
+— One person's account of trying to remain employed. It does not establish a suitable number of hours for anyone else. [Source](https://www.reddit.com/r/FND/comments/1mwf0wq/can_you_hold_a_job_with_fnd/)
+
 ## Functional limb weakness
 
 ### Individualized FND-informed physiotherapy and movement retraining
@@ -1070,7 +1098,7 @@ Before adding or replacing a quotation, confirm all of the following:
 7. A drawback is not mislabeled as complete failure, and an early flare is not mislabeled as a final outcome.
 8. New material remains grouped under the symptom first and then the exact indexed technique or support response it concerns.
 
-*Draft created: August 25, 2026 · Reorganized by symptom and technique September 1, 2026 · Functional paralysis and drop-attack sources added September 2, 2026 · Part Three and Part Four sources added September 5, 2026 · Community, clinical and privacy review pending*
+*Draft created: August 25, 2026 · Reorganized by symptom and technique September 1, 2026 · Functional paralysis and drop-attack sources added September 2, 2026 · Part Three and Part Four sources added September 5, 2026 · Part Five source map added September 8, 2026 · Community, clinical and privacy review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)

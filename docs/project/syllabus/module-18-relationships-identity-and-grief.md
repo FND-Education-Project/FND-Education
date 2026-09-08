@@ -12,6 +12,14 @@
 
 Address the personal and relational consequences of FND without implying that positivity cures illness.
 
+## Focused lesson split
+
+- [Grief, Identity, Purpose, and Social Isolation](../../../course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/01-grief-identity-purpose-and-social-isolation.md)
+- [Relationships, Intimacy, and Boundaries](../../../course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/02-relationships-intimacy-boundaries-and-supporter-wellbeing.md)
+- [Supporter Wellbeing and Shared Boundaries](../../../course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/03-supporter-wellbeing-and-shared-boundaries.md)
+
+Supporter wellbeing has its own page so care, limits, safety and access to outside help are not compressed into the person's relationship lesson.
+
 ## Essential knowledge
 
 - Why losing abilities, plans, work, roles, or independence can produce real grief.

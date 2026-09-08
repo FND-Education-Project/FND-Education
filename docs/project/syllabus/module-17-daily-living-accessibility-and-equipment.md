@@ -12,6 +12,15 @@
 
 Support present safety and participation while leaving room for reassessment and rehabilitation.
 
+## Focused lesson split
+
+- [Adapt Personal Care and Household Tasks](../../../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/01-adapting-personal-care-and-household-tasks.md)
+- [Mobility Aids, Wheelchairs, Seating, and Fall Safety](../../../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/02-mobility-aids-wheelchairs-seating-and-fall-safety.md)
+- [Sensory, Home, and Communication Access](../../../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/03-sensory-home-and-communication-access.md)
+- [Try and Review Equipment as Needs Change](../../../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/04-trying-and-reviewing-equipment-as-needs-change.md)
+
+Equipment trials and review have their own page so fitting, real-world benefit, burden and changing needs are not squeezed into the first decision.
+
 ## Essential knowledge
 
 - How FND may make washing, dressing, cooking, cleaning, shopping, communication, or moving around more difficult.
@@ -41,6 +50,7 @@ This section should focus on how clinicians can help the patient understand the 
 ## Practical work
 
 - Conduct a task-and-environment review: barrier, risk, current workaround, possible adaptation, and professional input needed.
+- Record one equipment goal, benefit, burden, and review trigger.
 
 ## Support-person focus
 

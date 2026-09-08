@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Loss, identity and possible growth can overlap</title>
+  <desc id="desc">Three overlapping circles are labelled what changed, what remains and what may grow. A note says no circle cancels another and growth is not required.</desc>
+  <rect width="900" height="330" rx="24" fill="#f3f0f8"/>
+  <text x="450" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">More than one truth can be present</text>
+  <g opacity="0.78"><circle cx="330" cy="155" r="100" fill="#f3c6c1" stroke="#9a3f36" stroke-width="3"/><circle cx="450" cy="155" r="100" fill="#cfe8dc" stroke="#18785b" stroke-width="3"/><circle cx="570" cy="155" r="100" fill="#ddd0ed" stroke="#7350a0" stroke-width="3"/></g>
+  <g font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#17324d" text-anchor="middle"><text x="282" y="150">What</text><text x="282" y="176">changed</text><text x="450" y="150">What</text><text x="450" y="176">remains</text><text x="618" y="150">What may</text><text x="618" y="176">grow</text></g>
+  <text x="450" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#17324d">No circle cancels another. Growth is not required.</text>
+</svg>

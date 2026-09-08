@@ -130,7 +130,7 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 **[Read the detailed course syllabus](docs/project/detailed-course-syllabus.md)** for the essential knowledge, professional and advanced detail, practical work, support-person focus, and expected takeaway planned for every module.
 
-**[Open the course structure and drafts](course/README.md)** to read all 90 course pages: 23 short module overviews and 67 focused pages.
+**[Open the course structure and drafts](course/README.md)** to read all 94 course pages: 23 short module overviews and 71 focused pages.
 
 *[(back to the top)](#on-this-page)*
 
@@ -218,7 +218,7 @@ When research has not answered an everyday question, the project may examine for
 
 The intended final educational material will be **human-authored and approved by a person living with FND**. The project lead works from research notes and source material, brings lived understanding to the wording, and decides how the subject is ultimately explained.
 
-Module 1 is the human-authored starting model. Pages personally edited by the project lead carry a reviewer notice without an automatic-generation label. Other pages in Parts One through Four (Modules 1–16) now contain reader-facing working drafts, short source quotations, personal reflection questions, definition illustrations and citations. Automatically drafted pages retain a visible automatic-generation notice. Modules 17–23 still contain shorter authoring templates and starting text. None of these pages is treated as final or medically reviewed until the required human, evidence and safety review is complete.
+Module 1 is the human-authored starting model. Pages personally edited by the project lead carry a reviewer notice without an automatic-generation label. Other pages in Parts One through Five (Modules 1–20) now contain reader-facing working drafts, short source quotations, personal reflection questions, definition illustrations and citations. Automatically drafted pages retain a visible automatic-generation notice. Modules 21–23 still contain shorter authoring templates and starting text. None of these pages is treated as final or medically reviewed until the required human, evidence and safety review is complete.
 
 AI may help create initial drafts, locate and organize research, prepare authoring notes, check citations and consistency, and identify questions or omissions. AI also maintains and updates this `README.md` as the project develops. AI assistance is not a source of medical authority and does not replace human editing, evidence review or final authorship.
 

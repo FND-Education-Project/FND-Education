@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Match an accommodation to a task barrier</title>
+  <desc id="desc">A task's demands and a person's present capacity are compared. A change to time, place, task or support can narrow the gap.</desc>
+  <rect width="900" height="330" rx="24" fill="#f3f0f8"/>
+  <text x="450" y="43" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Name the barrier before choosing the change</text>
+  <g font-family="Arial, sans-serif" fill="#17324d" text-anchor="middle">
+    <rect x="65" y="95" width="220" height="118" rx="18" fill="#fff4dc" stroke="#a66a13" stroke-width="3"/><text x="175" y="133" font-size="20" font-weight="700">Task demands</text><text x="175" y="165" font-size="16">time · travel · noise</text><text x="175" y="188" font-size="16">memory · safety</text>
+    <rect x="340" y="95" width="220" height="118" rx="18" fill="#fff" stroke="#39738c" stroke-width="3"/><text x="450" y="133" font-size="20" font-weight="700">Present capacity</text><text x="450" y="165" font-size="16">variable, supported</text><text x="450" y="188" font-size="16">and real-world</text>
+    <rect x="615" y="82" width="220" height="144" rx="18" fill="#e5f3eb" stroke="#18785b" stroke-width="3"/><text x="725" y="120" font-size="20" font-weight="700">Possible change</text><text x="725" y="153" font-size="16">task · time · place</text><text x="725" y="177" font-size="16">communication · support</text><text x="725" y="204" font-size="15">then review</text>
+  </g>
+  <text x="450" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#17324d">A remaining gap is not proof of low effort or low worth.</text>
+</svg>

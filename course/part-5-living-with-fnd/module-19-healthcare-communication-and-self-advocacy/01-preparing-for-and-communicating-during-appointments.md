@@ -1,26 +1,62 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 19: Healthcare Communication and Self-Advocacy](README.md) › **Preparing for and Communicating During Appointments**
+[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 19](README.md) › **Prepare for and Communicate During Appointments**
 <!-- NAV-BREADCRUMB:END -->
 
-# Preparing for and Communicating During Appointments
+# Prepare for and Communicate During Appointments
 
-This is a focused authoring template within Module 19. Build the completed page around this scope: Cover priorities, concise histories, symptom description, confirmed versus suspected explanations, communication accommodations, supporter roles, note-taking, teach-back, and leaving with clear responsibilities and timing.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+Appointments ask for memory, speech, timing, travel and concentration—exactly the things that may be difficult. A short note can carry some of that load.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND self-advocacy; medical appointment summary; diagnostic overshadowing; medical records; second opinion; healthcare communication; support person. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Preparing for and Communicating During Appointments.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover priorities, concise histories, symptom description, confirmed versus suspected explanations, communication accommodations, supporter roles, note-taking, teach-back, and leaving with clear responsibilities and timing. The reader should not have to read the module overview first to understand the page.
+An **appointment summary** is a one-page or shorter note containing the information most needed for this visit. It is not your entire medical history.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: How to prepare the most important one or two goals before an appointment. How a short medical summary can help when memory, speech, fatigue, or time is limited. Why confirmed diagnoses, a clinician’s opinion, and a personal theory should be labelled separately. How to describe what happens, how long it lasts, how often it occurs, what has changed, and how it affects daily life. How to ask for explanations, written instructions, and a clear follow-up plan. How to record who is responsible for each next step. What to do when a medical record contains an important factual error. How to request another opinion when a diagnosis or plan remains unclear. How a support person can take notes or help with memory without speaking over the person. Structured problem representation separating confirmed diagnoses, functional phenotypes, comorbidities, unresolved differentials, medication effects, and patient hypotheses. Communication of onset, temporal pattern, semiology, functional impact, contextual variation, and clinically meaningful change. Shared decision-making, teach-back, written after-visit information, communication accommodations, and supported decision-making. Documentation standards for positive diagnostic evidence, uncertainty, safety plans, and agreed responsibility. Correcting records while preserving an auditable history and distinguishing disagreement from factual error. Second opinions, referral quality, transfer of care, and avoiding adversarial framing. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![Three stages of an appointment: before, bring a short summary; during, agree priorities; after, record the plan.](../../../assets/module-19-page-1-appointments.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Note limited evidence for particular advocacy tools and the realities of power imbalance, time pressure, fragmented records, and uneven FND knowledge. Avoid suggesting that perfect communication can overcome every service or access barrier. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: preparation is support, not a test. You can use only the part that helps.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe short appointments, memory or speech difficulty, repeating a complex history, feeling dismissed, receiving unclear plans, and finding inaccurate statements in records. Include the benefit of a supporter who helps without taking over. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Create a one-page appointment summary and after-appointment record. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+Put your main reason for coming near the top. You do not have to tell everything in perfect order to deserve care.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: What are my top priorities today? What is confirmed and what remains uncertain? What happens next, who is responsible, and by when? Can I have that in writing? How do I request correction of a factual error or another opinion? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### A small structure
+
+Before the visit, write:
+
+1. **Today I most need help with:** one problem or decision.
+2. **What is new or different:** include when it changed and any safety concern.
+3. **What helps communication:** more time, written questions, quiet, a break or a support person.
+
+During the visit, you can say, “I may lose words or memory. Please write the plan.” Ask what is known, what remains uncertain and what happens next. Afterward, add only the agreed action and who is responsible.
+
+Research suggests that clear, empathic explanations repeated over time may improve understanding or satisfaction, but evidence that one communication method changes recovery is weak. Good communication is still part of respectful care. (*citation* [1](#citation-1))
+
+### Community experiences for review
+
+**Option 1 — bring support**
+
+> “don’t be afraid to have a family member or friend to support you”
+
+— One person's appointment advice. [Read the public source](https://www.reddit.com/r/FND/comments/1vdyjnt/i_cant_walk_or_take_care_of_basic_needs_and/).
+
+**Option 2 — too little explanation**
+
+> “I was told next to nothing, given no expectations”
+
+— One person's account of diagnosis and follow-up. [Read the public source](https://www.reddit.com/r/FND/comments/1c35psh/tips_for_navigating_the_nhs/).
+
+### Questions
+
+#### What do you most need the clinician to understand about your life, not only your symptoms?
+
+#### What happens to your thinking or speech in appointments, and what would make that easier?
+
+### One small thing you can do
+
+Write only: “Today I need help with _____.” If that is all you can prepare, it is enough. New or urgent symptoms still need appropriate assessment rather than being folded automatically into FND.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +67,7 @@ This is a focused authoring template within Module 19. Build the completed page 
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Preparing for and Communicating During Appointments.” Develop the supporter guidance from these points: Serving as witness, note-taker, and memory aid when invited without speaking over the person. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Before the visit, agree your role: transport, notes, remembering a timeline, emotional support or speaking only when invited. During the visit, do not answer every question first. Help the person ask for a pause and check that the written plan matches what they heard.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +78,23 @@ This is a focused authoring template within Module 19. Build the completed page 
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Use this section to distinguish a factual error from a difference of medical opinion, a confirmed diagnosis from a working diagnosis, and an unresolved question from a personal theory. Explain that disagreement alone does not establish negligence or diagnostic error. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Structured problem representation separating confirmed diagnoses, functional phenotypes, comorbidities, unresolved differentials, medication effects, and patient hypotheses. Documentation standards for positive diagnostic evidence, uncertainty, safety plans, and agreed responsibility. Correcting records while preserving an auditable history and distinguishing disagreement from factual error. Diagnostic overshadowing, stigma, trauma-informed communication, and power imbalance in contested or complex illness. Benefits and limitations of patient-generated data, internet research, recorded events, and supporter observations. Explain both the value and limitations of each step.
+**Option 1 — Silva and Silva, 2026**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Shared decision-making, teach-back, written after-visit information, communication accommodations, and supported decision-making. Second opinions, referral quality, transfer of care, and avoiding adversarial framing. Benefits and limitations of patient-generated data, internet research, recorded events, and supporter observations. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “clearly, empathically, and with reinforcement over time”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Review communication supports after a major diagnosis, change in capacity, repeated misunderstanding, failed follow-up, or when the supporter’s role no longer reflects the person’s wishes. Urgent symptoms still require appropriate care rather than an advocacy process first. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Leochico et al., 2026**
+
+> “forced to self-advocate”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+
+### Reduce the communication burden
+
+Ask the patient's priority, acknowledge the symptoms as real, explain the positive basis of an FND diagnosis and state what has and has not been assessed. Use ordinary language, short sections and teach-back: “What will you tell someone at home about today's plan?” Offer written information and follow-up clarification.
+
+Communication access may require extra processing time, quiet, alternative communication or a supporter chosen by the patient. Do not mistake word-finding, dissociation, fatigue or distress for lack of credibility. The diagnostic-communication literature is heterogeneous and mostly not comparative; do not promise that acceptance of an explanation will itself produce recovery. (*citations* [1](#citation-1), [2](#citation-2))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,15 +104,20 @@ This is a focused authoring template within Module 19. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Records, Written Plans, Second Opinions, and Follow-Up](02-records-written-plans-second-opinions-and-follow-up.md)
+**Continue:** [Next page: Records, Written Plans, and Follow-Up](02-records-written-plans-second-opinions-and-follow-up.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Preparing for and Communicating During Appointments”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [FND-CIT-0083](../../../research/citation-index.md#fnd-cit-0083). [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Leochico CFG, Speck ER, Mikaelian S, et al. Challenges and care recommendations of persons with functional neurological disorder and care partners: a qualitative study. *Canadian Journal of Neurological Sciences*. Published online July 23, 2026:1–12. [FND-CIT-0082](../../../research/citation-index.md#fnd-cit-0082). [https://doi.org/10.1017/cjn.2026.10629](https://doi.org/10.1017/cjn.2026.10629) |
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+This page still needs review by people with cognitive or communication symptoms, clinicians and appointment-accessibility specialists.
+
+*Plain-language draft and research package prepared: September 8, 2026 · Clinical review pending*

@@ -12,6 +12,14 @@
 
 Make appointments and medical records more accurate, efficient, and usable.
 
+## Focused lesson split
+
+- [Prepare for and Communicate During Appointments](../../../course/part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/01-preparing-for-and-communicating-during-appointments.md)
+- [Records, Written Plans, and Follow-Up](../../../course/part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/02-records-written-plans-second-opinions-and-follow-up.md)
+- [When Healthcare Communication Breaks Down](../../../course/part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/03-when-healthcare-communication-breaks-down.md)
+
+Communication repair has its own page so dismissal, record correction, second opinions and formal routes can be addressed without making perfect self-advocacy the patient's duty.
+
 ## Essential knowledge
 
 - How to prepare the most important one or two goals before an appointment.
