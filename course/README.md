@@ -6,9 +6,9 @@
 
 > **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-This directory contains the complete structure and initial authoring drafts for the FND Education course: 23 module overviews and 67 focused pages, for 90 course pages in total. Each module begins with a short overview and links to one to five focused articles.
+This directory contains the complete structure and initial authoring drafts for the FND Education course: 23 module overviews and 71 focused pages, for 94 course pages in total. Each module begins with a short overview and links to one to five focused articles.
 
-Parts One through Four (Modules 1–16) now contain reader-facing working drafts based on the detailed human-planned syllabus and the wording pattern established in Module 1. Pages personally edited by the project lead are marked separately from temporary automatically generated drafts. Modules 17–23 remain shorter authoring templates and starting text. Contributors and reviewers are invited to help with human writing, evidence, safety, accessibility, lived experience and plain-language editing.
+Parts One through Five (Modules 1–20) now contain reader-facing working drafts based on the detailed human-planned syllabus and the wording pattern established in Module 1. Pages personally edited by the project lead are marked separately from temporary automatically generated drafts. Modules 21–23 remain shorter authoring templates and starting text. Contributors and reviewers are invited to help with human writing, evidence, safety, accessibility, lived experience and plain-language editing.
 
 Every focused article uses the same four sections:
 
@@ -51,10 +51,10 @@ The clinician section focuses on practical usefulness to the patient: helping th
 
 ## Part Five: Living With FND
 
-- [Daily Living, Accessibility, and Equipment](part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md) — 4 pages
-- [Relationships, Identity, and Grief](part-5-living-with-fnd/module-18-relationships-identity-and-grief/README.md) — 3 pages
-- [Healthcare Communication and Self-Advocacy](part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/README.md) — 3 pages
-- [Work, Disability, and Community Participation](part-5-living-with-fnd/module-20-work-disability-and-community-participation/README.md) — 3 pages
+- [Daily Living, Accessibility, and Equipment](part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md) — 5 pages
+- [Relationships, Identity, and Grief](part-5-living-with-fnd/module-18-relationships-identity-and-grief/README.md) — 4 pages
+- [Healthcare Communication and Self-Advocacy](part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/README.md) — 4 pages
+- [Work, Disability, and Community Participation](part-5-living-with-fnd/module-20-work-disability-and-community-participation/README.md) — 4 pages
 
 ## Part Six: Long-Term Management
 

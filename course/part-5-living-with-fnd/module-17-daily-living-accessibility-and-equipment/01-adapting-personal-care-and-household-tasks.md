@@ -1,26 +1,60 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 17: Daily Living, Accessibility, and Equipment](README.md) › **Adapting Personal Care and Household Tasks**
+[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 17](README.md) › **Adapt Personal Care and Household Tasks**
 <!-- NAV-BREADCRUMB:END -->
 
-# Adapting Personal Care and Household Tasks
+# Adapt Personal Care and Household Tasks
 
-This is a focused authoring template within Module 17. Build the completed page around this scope: Cover washing, dressing, cooking, cleaning, shopping, transfers, task simplification, energy and cognitive demands, occupational analysis, safety, dignity, and asking before helping.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+A task can be hard for several reasons at once. Finding the hardest part often gives you more choices than trying harder at the whole task.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND accessibility; daily living; occupational therapy; mobility aids; wheelchair; walker; cane; home adaptations; communication aids; disability equipment. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Adapting Personal Care and Household Tasks.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover washing, dressing, cooking, cleaning, shopping, transfers, task simplification, energy and cognitive demands, occupational analysis, safety, dignity, and asking before helping. The reader should not have to read the module overview first to understand the page.
+**Task adaptation** means changing the task, the tool, the place or the help so that an activity is safer or takes less effort.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: How FND may make washing, dressing, cooking, cleaning, shopping, communication, or moving around more difficult. How changing the task or environment may reduce physical, thinking, or sensory demands. How canes, walkers, wheelchairs, seating, braces, and other aids may improve safety, access, or independence. Why equipment does not automatically prevent recovery and does not automatically help every person. Why the right aid depends on the person’s symptoms, home, goals, strength, pain, fatigue, falls, and ability to use it safely. How home changes and communication aids may allow participation without requiring symptoms to disappear first. Why present accessibility needs and future rehabilitation goals can both matter. Why equipment and assistance should be reviewed when needs change. How funding and service rules may affect what is actually available. Activity analysis across personal care, instrumental activities, mobility, communication, cognition, and community access. Environmental modification, task simplification, fatigue management, sensory adaptation, seating, positioning, transfer, fall, and episode safety. Individual prescription of canes, walkers, wheelchairs, orthoses, bathroom equipment, and augmentative communication. Tensions among immediate access, secondary complications, deconditioning, learned reliance, participation, and rehabilitation goals. Lack of evidence supporting blanket prohibition or blanket endorsement of mobility aids in FND. Collaborative trials, functional goals, training, maintenance, funding documentation, and planned reassessment. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![A daily task is examined for its main barrier, then one change is chosen from task, tool, place or help.](../../../assets/module-17-page-1-task-adaptation.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Explain the lack of evidence for blanket rules about aids in FND. Note uncertainty about long-term effects, highly individual tradeoffs, funding limitations, and the need to balance safety, independence, participation, conditioning, and rehabilitation. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: start with one real barrier. You do not have to change everything or prove how hard the task is.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe difficulty bathing, dressing, preparing food, cleaning, transferring, communicating, tolerating sensory environments, or leaving home. Include fluctuating ability and the tension between needing help now and fearing that equipment will be judged as preventing recovery. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Conduct a task-and-environment review: barrier, risk, current workaround, possible adaptation, and professional input needed. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+Needing help with washing, dressing, food or cleaning is not a failure. The aim is not to perform a task in the most “normal” way. The aim is safety, dignity and enough capacity for what matters.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: What task or barrier is this aid meant to solve? Is it safe and properly fitted? Does it improve independence or participation? What training is needed? When will its usefulness and risks be reviewed? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### Look inside the task
+
+A shower can involve standing, heat, balance, lifting your arms, remembering steps and dressing afterward. Cooking can involve knives, heat, timing, reaching, smells and several decisions. An occupational therapist may call this **activity analysis**: looking at the parts of an activity and the setting around it. (*citations* [1](#citation-1), [2](#citation-2))
+
+One useful question is: **Which single part creates the biggest barrier today?** A chair, prepared ingredients, a cooler room, written steps or another person's help may solve different problems.
+
+### Keep choice and dignity
+
+Help should be offered, not imposed. You can ask someone to do one part while you do another. An adaptation can support life now and sit alongside rehabilitation goals. It does not prove that improvement will or will not happen.
+
+### Community experiences for review
+
+**Option 1 — cognitive help can be daily help**
+
+> “Currently I can barely take care of myself ... My partner has to remind me.”
+
+— One person's account of memory problems. [Read the public source](https://www.reddit.com/r/FND/comments/13rzn9o/memory_issues/).
+
+**Option 2 — occupational therapy and overload**
+
+> “My OT helped me ... learn exercises to calm myself and avoid sensory overwhelm.”
+
+— One person's account of occupational therapy. [Read the public source](https://www.reddit.com/r/FND/comments/1j0nopp/tell_me_how_ot_will_help_my_fnd/).
+
+### Questions
+
+#### Which daily task costs you more than other people can see?
+
+#### If one part became easier, what would you want to keep doing for yourself?
+
+### One small thing you can do
+
+Choose one task. Write four words: **barrier — risk — current workaround — possible change**. Stop there. Ask for professional assessment if transfers, falls, burns, choking, injury or another person's safety may be involved.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +65,9 @@ This is a focused authoring template within Module 17. Build the completed page 
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Adapting Personal Care and Household Tasks.” Develop the supporter guidance from these points: Asking before helping and avoiding automatic takeover. Recognizing when a task is unsafe for either person. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Ask, “Which part would you like help with?” before taking over. A person may want practical help without being watched, corrected or hurried.
+
+Notice your own safety too. Get advice for lifting and transfers; do not improvise a carry. If the task is unsafe today, help find another way without turning that decision into a judgement about effort.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +78,25 @@ This is a focused authoring template within Module 17. Build the completed page 
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Use this section to separate functional limitations from injury, pain, joint instability, cardiopulmonary limits, visual or vestibular disease, cognitive impairment, and environmental inaccessibility. Several may require accommodation at the same time. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Collaborative trials, functional goals, training, maintenance, funding documentation, and planned reassessment. Explain both the value and limitations of each step.
+**Option 1 — Nicholson et al., 2020**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Activity analysis across personal care, instrumental activities, mobility, communication, cognition, and community access. Environmental modification, task simplification, fatigue management, sensory adaptation, seating, positioning, transfer, fall, and episode safety. Individual prescription of canes, walkers, wheelchairs, orthoses, bathroom equipment, and augmentative communication. Tensions among immediate access, secondary complications, deconditioning, learned reliance, participation, and rehabilitation goals. Lack of evidence supporting blanket prohibition or blanket endorsement of mobility aids in FND. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “rehabilitation within functional activity”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Recommend review after falls, skin problems, pain, unsafe transfers, caregiver injury, major functional change, equipment no longer fitting, or a change in rehabilitation goals. Equipment should be adjusted or replaced rather than treated as permanent by default. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Rezaei and Stanley, 2025**
+
+> “disruptions in daily life due to symptoms”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+
+### Begin with the person's activity
+
+Assess what the person needs or wants to do, the task sequence, symptom variability, cognition, sensory load, pain, fatigue, strength, the environment and available help. Separate FND-related difficulty from injury, joint problems, cardiopulmonary limits, visual or vestibular conditions and other coexisting causes. More than one can be present.
+
+Agree the goal before suggesting equipment. Trial the smallest useful change, teach safe use and record what changed: safety, assistance, time, effort, participation or recovery afterward. Consensus guidance is useful, but strong comparative evidence for specific daily-living adaptations in FND is limited. (*citation* [1](#citation-1))
+
+When improvement is limited, accessibility and continuing care remain valid goals. Review after falls, skin problems, pain, unsafe transfers, caregiver injury, a major functional change or equipment no longer fitting.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -60,13 +108,18 @@ This is a focused authoring template within Module 17. Build the completed page 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Mobility Aids, Wheelchairs, Seating, and Fall Safety](02-mobility-aids-wheelchairs-seating-and-fall-safety.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Adapting Personal Care and Household Tasks”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Rezaei O, Stanley M. Understanding the lived experiences of individuals with functional neurological disorder in Australia: an interpretative phenomenological analysis. *Disability and Rehabilitation*. 2025;47(24):6408–6415. [FND-CIT-0081](../../../research/citation-index.md#fnd-cit-0081). [https://doi.org/10.1080/09638288.2025.2481986](https://doi.org/10.1080/09638288.2025.2481986) |
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+This page still needs review by people needing help with daily activities, occupational therapists and accessibility reviewers.
+
+*Plain-language draft and research package prepared: September 8, 2026 · Clinical review pending*

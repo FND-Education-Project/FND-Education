@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Three layers of accessibility</title>
+  <desc id="desc">Sensory surroundings, home layout and communication methods are three layers around a person's chosen activity. More than one layer may need changing.</desc>
+  <rect width="900" height="330" rx="24" fill="#eef5f7"/>
+  <text x="450" y="43" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Access is wider than ramps</text>
+  <g font-family="Arial, sans-serif" fill="#17324d" text-anchor="middle">
+    <rect x="65" y="92" width="225" height="120" rx="18" fill="#fff4dc" stroke="#a66a13" stroke-width="3"/><text x="177" y="129" font-size="20" font-weight="700">Sensory</text><text x="177" y="160" font-size="16">light · noise · touch</text><text x="177" y="184" font-size="16">temperature · crowds</text>
+    <rect x="338" y="92" width="225" height="120" rx="18" fill="#e5f3eb" stroke="#18785b" stroke-width="3"/><text x="450" y="129" font-size="20" font-weight="700">Home</text><text x="450" y="160" font-size="16">routes · bathroom</text><text x="450" y="184" font-size="16">seating · storage</text>
+    <rect x="610" y="92" width="225" height="120" rx="18" fill="#f3f0f8" stroke="#7350a0" stroke-width="3"/><text x="722" y="129" font-size="20" font-weight="700">Communication</text><text x="722" y="160" font-size="16">time · writing · typing</text><text x="722" y="184" font-size="16">pictures · devices</text>
+  </g>
+  <text x="450" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#17324d">Change the barrier so the chosen activity becomes more possible.</text>
+</svg>

@@ -208,9 +208,10 @@ Use the sections below to drill down into the course, reference library, researc
 <summary><strong>Module 17: Daily Living, Accessibility, and Equipment</strong></summary>
 
 - [Module overview](course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md)
-- [Adapting Personal Care and Household Tasks](course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/01-adapting-personal-care-and-household-tasks.md)
+- [Adapt Personal Care and Household Tasks](course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/01-adapting-personal-care-and-household-tasks.md)
 - [Mobility Aids, Wheelchairs, Seating, and Fall Safety](course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/02-mobility-aids-wheelchairs-seating-and-fall-safety.md)
 - [Sensory, Home, and Communication Access](course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/03-sensory-home-and-communication-access.md)
+- [Try and Review Equipment as Needs Change](course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/04-trying-and-reviewing-equipment-as-needs-change.md)
 
 </details>
 
@@ -219,7 +220,8 @@ Use the sections below to drill down into the course, reference library, researc
 
 - [Module overview](course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/README.md)
 - [Grief, Identity, Purpose, and Social Isolation](course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/01-grief-identity-purpose-and-social-isolation.md)
-- [Relationships, Intimacy, Boundaries, and Supporter Wellbeing](course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/02-relationships-intimacy-boundaries-and-supporter-wellbeing.md)
+- [Relationships, Intimacy, and Boundaries](course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/02-relationships-intimacy-boundaries-and-supporter-wellbeing.md)
+- [Supporter Wellbeing and Shared Boundaries](course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/03-supporter-wellbeing-and-shared-boundaries.md)
 
 </details>
 
@@ -227,8 +229,9 @@ Use the sections below to drill down into the course, reference library, researc
 <summary><strong>Module 19: Healthcare Communication and Self-Advocacy</strong></summary>
 
 - [Module overview](course/part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/README.md)
-- [Preparing for and Communicating During Appointments](course/part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/01-preparing-for-and-communicating-during-appointments.md)
-- [Records, Written Plans, Second Opinions, and Follow-Up](course/part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/02-records-written-plans-second-opinions-and-follow-up.md)
+- [Prepare for and Communicate During Appointments](course/part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/01-preparing-for-and-communicating-during-appointments.md)
+- [Records, Written Plans, and Follow-Up](course/part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/02-records-written-plans-second-opinions-and-follow-up.md)
+- [When Healthcare Communication Breaks Down](course/part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/03-when-healthcare-communication-breaks-down.md)
 
 </details>
 
@@ -236,8 +239,9 @@ Use the sections below to drill down into the course, reference library, researc
 <summary><strong>Module 20: Work, Disability, and Community Participation</strong></summary>
 
 - [Module overview](course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/README.md)
-- [Work, School, Disability, and Accommodations](course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/01-work-school-disability-and-accommodations.md)
-- [Community Participation, Meaningful Roles, and Variable Capacity](course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/02-community-participation-meaningful-roles-and-variable-capacity.md)
+- [Work, School, and Accommodations](course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/01-work-school-disability-and-accommodations.md)
+- [Community Participation and Meaningful Roles](course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/02-community-participation-meaningful-roles-and-variable-capacity.md)
+- [Describe Variable Function for Accommodations and Benefits](course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/03-describing-variable-function-for-accommodations-and-benefits.md)
 
 </details>
 

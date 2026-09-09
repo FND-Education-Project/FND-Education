@@ -1,26 +1,58 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 20: Work, Disability, and Community Participation](README.md) › **Work, School, Disability, and Accommodations**
+[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 20](README.md) › **Work, School, and Accommodations**
 <!-- NAV-BREADCRUMB:END -->
 
-# Work, School, Disability, and Accommodations
+# Work, School, and Accommodations
 
-This is a focused authoring template within Module 20. Build the completed page around this scope: Cover functional demands, variable capacity, attendance, remote or reduced schedules, task changes, sensory and cognitive accommodations, vocational rehabilitation, disability documentation, benefits, and the risks of premature or forced return.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+The same job or class can contain many demands: travel, standing, screens, noise, memory, speed, attendance, safety and recovery afterward.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND work; return to work; disability; accommodations; education; vocational rehabilitation; community participation; variable capacity; disability benefits. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Work, School, Disability, and Accommodations.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover functional demands, variable capacity, attendance, remote or reduced schedules, task changes, sensory and cognitive accommodations, vocational rehabilitation, disability documentation, benefits, and the risks of premature or forced return. The reader should not have to read the module overview first to understand the page.
+An **accommodation** is a change to a task, schedule, setting or way of communicating that reduces a disability-related barrier. Whether a change is legally required depends on the local law and setting.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: Why returning to work or school may be a goal for some people but may be unsafe or impossible for others. How shorter hours, changed duties, rest breaks, remote access, reduced sensory load, or other accommodations may help. Why variable symptoms can make fixed schedules and attendance rules especially difficult. How disability forms need to describe what the person can and cannot do, not only name the diagnosis. How transportation, mobility, money, paperwork, and inaccessible buildings can limit participation. Why volunteering, hobbies, relationships, learning, caregiving, creativity, and advocacy are meaningful forms of participation. Why inability to work does not mean inability to contribute or a lack of effort. How to choose goals that respect present disability while leaving room for future change. Why severe or long-term FND deserves support even when recovery-focused services are unavailable. Functional capacity, job demands, educational participation, fluctuating disability, and task-specific restriction. Graduated return-to-work or education, accommodations, vocational rehabilitation, and relapse planning where appropriate. Risks of premature return, rigid progression, prolonged unnecessary exclusion, and making employment a treatment test. Documentation of function, reliability, endurance, cognitive or sensory load, safety, recovery time, and support needs. Disability-benefit, insurance, transportation, and accessibility systems as social determinants of health and participation. Severe and persistent FND, rehabilitation access, maintenance care, and palliative approaches to symptom burden without implying terminal illness. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![A task demand is compared with present capacity, then a change to task, time, place or support narrows the gap.](../../../assets/module-20-page-1-accommodations.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Explain that return-to-work evidence is limited and highly dependent on occupation, benefits systems, accommodations, severity, and local law. Avoid treating employment as proof of recovery or inability to work as proof that rehabilitation has failed. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: the gap is information about the task and setting. It is not a measure of intelligence, effort or worth.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe difficulty with schedules, attendance, travel, sensory environments, thinking demands, physical tasks, and recovery after activity. Include grief about employment as well as meaningful contribution through family, hobbies, volunteering, learning, creativity, and advocacy. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Map desired roles, barriers, accommodations, supports, and realistic next steps. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+An accommodation may make work or study possible. If it does not, inability to continue is not personal failure. FND has no cure, and rehabilitation does not guarantee that someone can work.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Which tasks are limited and why? What accommodation would address each barrier? Is return appropriate now? How will variable capacity and relapse be handled? What evidence is needed for disability or accommodation decisions? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### Name the barrier before the solution
+
+Examples include flexible start time, predictable breaks, remote attendance, fewer simultaneous tasks, written instructions, reduced noise or light, an accessible route, seating, a communication method or adjusted attendance. A useful request connects the change to a function: “Because processing slows during episodes, I need written instructions and one task at a time.”
+
+Sometimes no reasonable change makes the role safe, reliable or sustainable. Sick leave, reduced study, role change or stopping may be necessary. Rules for accommodations, disability status and benefits differ by jurisdiction; seek local advice rather than relying on this course as legal guidance.
+
+Research shows work difficulty in selected FND groups, but it cannot predict an individual's capacity. One survey concerned self-selected people with functional seizures; a 2026 disability study came from one Australian tertiary clinic. A separate two-centre study found that participants often anticipated stigma at work, but it does not show that every workplace will respond badly. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+### Community experiences for review
+
+**Option 1 — familiar tasks becoming difficult**
+
+> “Simple tasks I’ve done at work for years now demand major concentration ... I’ve been making many mistakes in my work.”
+
+— One person's account of cognitive symptoms at work. [Read the public source](https://www.reddit.com/r/FND/comments/1czpbko/major_cognitive_issues_with_fnd/).
+
+**Option 2 — reduced hours can still overwhelm**
+
+> “I have gone from full-time hours ... to about 8 hours per week, and even this can be overwhelming and exhausting.”
+
+— One person's account of trying to remain employed. [Read the public source](https://www.reddit.com/r/FND/comments/1mwf0wq/can_you_hold_a_job_with_fnd/).
+
+### Questions
+
+#### Which hidden demand of work or school costs you the most before or afterward?
+
+#### What would you want others to understand if an accommodation still did not make attendance possible?
+
+### One small thing you can do
+
+Choose one task and finish: **“The barrier is _____; a change that might help is _____.”** If safety-critical work, driving, machinery, heights, water, lone work or episodes are involved, seek individualized occupational and medical advice.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +63,7 @@ This is a focused authoring template within Module 20. Build the completed page 
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Work, School, Disability, and Accommodations.” Develop the supporter guidance from these points: Respecting both rehabilitation hopes and current disability. Avoiding employment or productivity as a measure of worth. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Do not use paid work as proof that the person is well, or unemployment as proof they have stopped trying. Help with one concrete task—forms, transport, a meeting note—if asked. Respect the person's decision about disclosure; employers or educators do not automatically need every medical detail.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +74,23 @@ This is a focused authoring template within Module 20. Build the completed page 
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Use this section to separate diagnosis from functional capacity. Limitations may come from FND, pain, migraine, fatigue, cognitive symptoms, equipment needs, another medical condition, or inaccessible surroundings, and the combination matters more than the label. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Risks of premature return, rigid progression, prolonged unnecessary exclusion, and making employment a treatment test. Jurisdiction-specific legal and benefits information requiring separate, current, locally reviewed resources. Explain both the value and limitations of each step.
+**Option 1 — Woodward et al., 2023**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Graduated return-to-work or education, accommodations, vocational rehabilitation, and relapse planning where appropriate. Risks of premature return, rigid progression, prolonged unnecessary exclusion, and making employment a treatment test. Documentation of function, reliability, endurance, cognitive or sensory load, safety, recovery time, and support needs. Severe and persistent FND, rehabilitation access, maintenance care, and palliative approaches to symptom burden without implying terminal illness. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “work difficulties are common”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Recommend review when work or school causes sustained deterioration, safety incidents, repeated absence, inability to recover, or when accommodations no longer match capacity. Benefits and legal guidance must be current and specific to the reader’s jurisdiction. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Mcloughlin et al., 2026**
+
+> “Anticipated stigma was experienced most from work”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [3](#citation-3))*
+
+### Describe demands and function
+
+Ask about the actual tasks, commute, schedule, cognitive and sensory load, safety, variability, recovery time and coexisting conditions. Separate capacity for a brief clinic task from reliable performance over a week. Document restrictions and possible changes without promising an employment result.
+
+The functional-seizure survey was self-selected and cannot prescribe universal restrictions. The tertiary-clinic study shows substantial disability in a selected group, not that all people with FND cannot work. Support graded return when chosen and safe; also support leave, benefits and ongoing care when work is not possible. Employment is not a recovery outcome that overrides health, access or the person's priorities. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,15 +100,21 @@ This is a focused authoring template within Module 20. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Community Participation, Meaningful Roles, and Variable Capacity](02-community-participation-meaningful-roles-and-variable-capacity.md)
+**Continue:** [Next page: Community Participation and Meaningful Roles](02-community-participation-meaningful-roles-and-variable-capacity.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Work, School, Disability, and Accommodations”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Woodward J, Guler S, Balcer LJ, et al. Work difficulties, work restrictions, and disability benefits in people with functional seizures: a survey study. *Epilepsy & Behavior Reports*. 2023;23:100610. [FND-CIT-0084](../../../research/citation-index.md#fnd-cit-0084). [https://doi.org/10.1016/j.ebr.2023.100610](https://doi.org/10.1016/j.ebr.2023.100610) |
+| <a id="citation-2"></a>**[2]** | — | Moss RSL, Lennon MJ, Anne S, et al. Disability, distress and delayed access to care in functional neurological disorder: cross-sectional study from an Australian tertiary clinic. *BJPsych Open*. 2026;12(3):e128. [FND-CIT-0090](../../../research/citation-index.md#fnd-cit-0090). [https://doi.org/10.1192/bjo.2026.11038](https://doi.org/10.1192/bjo.2026.11038) |
+| <a id="citation-3"></a>**[3]** | Figure 1 | Mcloughlin C, Ludwig L, Carson A, Stone J. Stigma in functional neurological disorder: a longitudinal study. *Journal of Psychosomatic Research*. 2026;203:112550. [FND-CIT-0089](../../../research/citation-index.md#fnd-cit-0089). [https://doi.org/10.1016/j.jpsychores.2026.112550](https://doi.org/10.1016/j.jpsychores.2026.112550) |
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+This page still needs review by workers, students, people unable to work, occupational-health clinicians, educators and legal reviewers from multiple jurisdictions.
+
+*Plain-language draft and research package prepared: September 8, 2026 · Clinical review pending*

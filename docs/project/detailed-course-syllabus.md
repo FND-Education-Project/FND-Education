@@ -46,7 +46,7 @@ A clinician or care-team member should be better able to:
 
 # Course Modules
 
-Each module title links to its complete syllabus page. The [course authoring index](../../course/README.md) links to the 23 module folders and their 90 overview and focused pages.
+Each module title links to its complete syllabus page. The [course authoring index](../../course/README.md) links to the 23 module folders and their 94 overview and focused pages.
 
 ## Part One: Understanding FND
 
@@ -81,6 +81,8 @@ Part Four continues the lower-reading-load pattern. One focused page has been ad
 - [**Module 16 — Psychological Treatment Without Blame**](syllabus/module-16-psychological-treatment-without-blame.md) — Explain why psychological treatment can be relevant without defining FND as imaginary or universally psychological.
 
 ## Part Five: Living With FND
+
+Part Five continues the lower-reading-load pattern. One focused page has been added to each module so equipment review, supporter wellbeing, communication repair and descriptions of variable function do not have to be absorbed inside broader lessons.
 
 - [**Module 17 — Daily Living, Accessibility, and Equipment**](syllabus/module-17-daily-living-accessibility-and-equipment.md) — Support present safety and participation while leaving room for reassessment and rehabilitation.
 - [**Module 18 — Relationships, Identity, and Grief**](syllabus/module-18-relationships-identity-and-grief.md) — Address the personal and relational consequences of FND without implying that positivity cures illness.
@@ -179,7 +181,7 @@ Each module folder contains:
 - stand-alone focused pages that remain understandable when reached directly from search;
 - one canonical home for each full explanation, with other pages summarizing and linking rather than duplicating it.
 
-Parts Two through Four use a lower-reading-load pattern: one main idea at a time, a plain-language definition beside an illustration, a short essential message, personal reflection questions, and a small optional action. Practical and safety-sensitive topics have their own pages so definitions, decisions and daily-life guidance do not have to be absorbed in one sitting.
+Parts Two through Five use a lower-reading-load pattern: one main idea at a time, a plain-language definition beside an illustration, a short essential message, personal reflection questions, and a small optional action. Practical and safety-sensitive topics have their own pages so definitions, decisions and daily-life guidance do not have to be absorbed in one sitting.
 
 Every overview and focused page uses four visible sections:
 

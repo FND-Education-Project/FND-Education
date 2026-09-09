@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Four prompts for a relationship conversation</title>
+  <desc id="desc">Four boxes prompt each person to name the need, state a boundary, preserve choice, and agree when to revisit the conversation.</desc>
+  <rect width="900" height="330" rx="24" fill="#eef5f7"/>
+  <text x="450" y="43" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">A calmer conversation can have four parts</text>
+  <g font-family="Arial, sans-serif" fill="#17324d" text-anchor="middle">
+    <rect x="45" y="94" width="190" height="108" rx="18" fill="#fff" stroke="#39738c" stroke-width="3"/><text x="140" y="132" font-size="20" font-weight="700">Need</text><text x="140" y="164" font-size="16">What is happening?</text>
+    <rect x="252" y="94" width="190" height="108" rx="18" fill="#fff" stroke="#9a3f36" stroke-width="3"/><text x="347" y="132" font-size="20" font-weight="700">Boundary</text><text x="347" y="164" font-size="16">What is not okay?</text>
+    <rect x="459" y="94" width="190" height="108" rx="18" fill="#fff" stroke="#18785b" stroke-width="3"/><text x="554" y="132" font-size="20" font-weight="700">Choice</text><text x="554" y="164" font-size="16">What is possible?</text>
+    <rect x="666" y="94" width="190" height="108" rx="18" fill="#fff" stroke="#7350a0" stroke-width="3"/><text x="761" y="132" font-size="20" font-weight="700">Revisit</text><text x="761" y="164" font-size="16">When will we check?</text>
+  </g>
+  <text x="450" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#17324d">Consent is freely given, specific and changeable.</text>
+</svg>

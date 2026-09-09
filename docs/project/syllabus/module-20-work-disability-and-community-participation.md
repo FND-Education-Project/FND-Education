@@ -12,6 +12,14 @@
 
 Address meaningful participation across a wide range of ability without making employment the sole measure of recovery.
 
+## Focused lesson split
+
+- [Work, School, and Accommodations](../../../course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/01-work-school-disability-and-accommodations.md)
+- [Community Participation and Meaningful Roles](../../../course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/02-community-participation-meaningful-roles-and-variable-capacity.md)
+- [Describe Variable Function for Accommodations and Benefits](../../../course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/03-describing-variable-function-for-accommodations-and-benefits.md)
+
+Describing variable function has its own page so reliability, safety, recovery time and support needs can be explained without overloading the work-and-school lesson.
+
 ## Essential knowledge
 
 - Why returning to work or school may be a goal for some people but may be unsafe or impossible for others.
@@ -40,6 +48,7 @@ This section should focus on how clinicians can help the patient understand the 
 ## Practical work
 
 - Map desired roles, barriers, accommodations, supports, and realistic next steps.
+- Describe one task using reliability, safety, recovery time, and support needed.
 
 ## Support-person focus
 

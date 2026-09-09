@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Two people with their own needs and a shared care space</title>
+  <desc id="desc">Two overlapping circles represent the person with FND and a supporter. Each has individual needs and boundaries. Their overlap contains agreed care and connection.</desc>
+  <rect width="900" height="330" rx="24" fill="#f3f0f8"/>
+  <text x="450" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Care can be shared without either person disappearing</text>
+  <circle cx="355" cy="160" r="115" fill="#d8eaf2" stroke="#39738c" stroke-width="3"/><circle cx="545" cy="160" r="115" fill="#e2d7ee" fill-opacity="0.78" stroke="#7350a0" stroke-width="3"/>
+  <g font-family="Arial, sans-serif" fill="#17324d" text-anchor="middle"><text x="295" y="126" font-size="20" font-weight="700">Person with FND</text><text x="290" y="160" font-size="16">needs · choices</text><text x="290" y="185" font-size="16">privacy · rest</text><text x="605" y="126" font-size="20" font-weight="700">Supporter</text><text x="610" y="160" font-size="16">needs · limits</text><text x="610" y="185" font-size="16">health · rest</text><text x="450" y="150" font-size="18" font-weight="700">agreed</text><text x="450" y="174" font-size="18" font-weight="700">care</text><text x="450" y="198" font-size="15">connection</text></g>
+  <text x="450" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#17324d">More people and services may be needed. One relationship need not carry everything.</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Choose one change for one daily task barrier</title>
+  <desc id="desc">A daily task leads to its main barrier. Four possible changes are shown: change the task, tool, place or help. The aim is safer, more possible participation.</desc>
+  <rect width="900" height="330" rx="24" fill="#eef5f7"/>
+  <text x="450" y="43" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Look inside one difficult task</text>
+  <g font-family="Arial, sans-serif" fill="#17324d" text-anchor="middle">
+    <rect x="50" y="100" width="180" height="82" rx="18" fill="#fff" stroke="#39738c" stroke-width="3"/><text x="140" y="134" font-size="20" font-weight="700">Daily task</text><text x="140" y="160" font-size="16">What matters today?</text>
+    <path d="M235 141H315" stroke="#39738c" stroke-width="4"/><path d="M304 132l16 9-16 9" fill="none" stroke="#39738c" stroke-width="4"/>
+    <rect x="325" y="100" width="200" height="82" rx="18" fill="#fff4dc" stroke="#a66a13" stroke-width="3"/><text x="425" y="134" font-size="20" font-weight="700">Main barrier</text><text x="425" y="160" font-size="16">Which part costs most?</text>
+    <path d="M530 141H600" stroke="#39738c" stroke-width="4"/><path d="M589 132l16 9-16 9" fill="none" stroke="#39738c" stroke-width="4"/>
+    <rect x="610" y="73" width="240" height="136" rx="18" fill="#e5f3eb" stroke="#18785b" stroke-width="3"/><text x="730" y="105" font-size="20" font-weight="700">Choose one change</text><text x="730" y="135" font-size="17">task · tool</text><text x="730" y="162" font-size="17">place · help</text><text x="730" y="190" font-size="15">Try, then review</text>
+  </g>
+  <text x="450" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#17324d">Aim: safer, more possible participation—not a “normal” performance.</text>
+</svg>

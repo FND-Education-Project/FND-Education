@@ -6,15 +6,15 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-**Current stage: complete course structure, with reader-facing drafts through Part Four and human writing and review underway.**
+**Current stage: complete course structure, with reader-facing drafts through Part Five and human writing and review underway.**
 
-The repository contains all 90 course pages: 23 module overviews and 67 focused pages. Parts One through Four (Modules 1–16) contain reader-facing working drafts. Pages edited by the project lead are identified separately; the other pages remain clearly labelled as automatically generated. Modules 17–23 still contain shorter authoring templates. All temporary drafts require human writing or review, evidence checking, safety review and accessibility review.
+The repository contains all 94 course pages: 23 module overviews and 71 focused pages. Parts One through Five (Modules 1–20) contain reader-facing working drafts. Pages edited by the project lead are identified separately; the other pages remain clearly labelled as automatically generated. Modules 21–23 still contain shorter authoring templates. All temporary drafts require human writing or review, evidence checking, safety review and accessibility review.
 
 ## Completed foundation work
 
 - Established the evidence-first project voice, safety rules and accessibility goals.
 - Created the six-part, 23-module syllabus.
-- Organized the course into 23 module folders and 90 pages.
+- Organized the course into 23 module folders and 94 pages.
 - Kept the four reader-facing sections on every focused page.
 - Completed the initial Module 1 writing pattern.
 - Created a scoped authoring draft for every focused page.
@@ -32,12 +32,14 @@ The repository contains all 90 course pages: 23 module overviews and 67 focused 
 - Added nine definition illustrations to the earlier Part One pages without rewriting the project lead's wording.
 - Rewrote Part Four as 12 shorter, illustrated layperson lessons with paired community quotations, personal reflection questions, practitioner research quotations and page-level citations.
 - Added one focused page to each Part Four module for care without local specialists, evaluating neuroplasticity claims, reviewing delayed worsening, and consent and trauma.
+- Rewrote Part Five as 13 short, illustrated layperson lessons with paired community quotations, personal reflection questions, practitioner research quotations and page-level citations.
+- Added one focused page to each Part Five module for equipment review, supporter wellbeing, healthcare communication repair, and describing variable function for accommodations or benefits.
 - Added a repository change and page maintenance policy covering course and reference additions, removals, navigation, indexes, evidence and verification.
 
 ## Current priorities
 
-1. Human-edit or review the temporary drafts in Modules 2–16 so the wording reflects the project lead's own voice and decisions.
-2. Convert Modules 17–23 from authoring templates into cited, reader-facing lessons using the lower-reading-load pattern tested in Parts Two through Four.
+1. Human-edit or review the temporary drafts in Modules 2–20 so the wording reflects the project lead's own voice and decisions.
+2. Convert Modules 21–23 from authoring templates into cited, reader-facing lessons using the lower-reading-load pattern tested in Parts Two through Five.
 3. Check every medical and safety statement against appropriate evidence and clinical guidance.
 4. Invite people with FND, supporters, clinicians and other reviewers to identify errors, missing perspectives and accessibility problems.
 5. Add lived-experience material only with clear consent and labelling.
