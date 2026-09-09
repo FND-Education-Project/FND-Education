@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Compare a familiar setback with medical change</title>
+  <desc id="desc">Three paths show a familiar pattern using the agreed plan, a meaningful change needing advice or reassessment, and immediate danger needing urgent help.</desc>
+  <rect width="900" height="330" rx="24" fill="#f3f0f8"/>
+  <text x="450" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">How does this compare with my usual pattern?</text>
+  <g font-family="Arial, sans-serif" fill="#17324d" text-anchor="middle">
+    <rect x="55" y="90" width="235" height="135" rx="18" fill="#fff" stroke="#18785b" stroke-width="3"/>
+    <text x="173" y="128" font-size="20" font-weight="700">Familiar pattern</text><text x="173" y="162" font-size="16">use the agreed plan</text><text x="173" y="190" font-size="15">watch for change</text>
+    <rect x="333" y="90" width="235" height="135" rx="18" fill="#fff" stroke="#a66a13" stroke-width="3"/>
+    <text x="451" y="128" font-size="20" font-weight="700">Meaningful change</text><text x="451" y="162" font-size="16">ask for advice or</text><text x="451" y="190" font-size="16">reassessment</text>
+    <rect x="610" y="90" width="235" height="135" rx="18" fill="#fff" stroke="#9a3f36" stroke-width="3"/>
+    <text x="728" y="128" font-size="20" font-weight="700">Immediate danger</text><text x="728" y="162" font-size="16">get urgent help</text><text x="728" y="190" font-size="15">do not delay</text>
+  </g>
+  <text x="450" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#17324d">A past FND diagnosis does not decide what every future symptom means.</text>
+</svg>

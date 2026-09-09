@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Five areas in a broad progress review</title>
+  <desc id="desc">Equal cards show understanding, safety, access, daily life, and symptoms and recovery. No single area defines success.</desc>
+  <rect width="900" height="330" rx="24" fill="#f3f0f8"/>
+  <text x="450" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Progress can appear in more than one place</text>
+  <g font-family="Arial, sans-serif" fill="#17324d" text-anchor="middle">
+    <rect x="25" y="95" width="160" height="110" rx="16" fill="#fff" stroke="#39738c" stroke-width="3"/><text x="105" y="137" font-size="18" font-weight="700">Understanding</text><text x="105" y="171" font-size="14">what makes sense?</text>
+    <rect x="198" y="95" width="160" height="110" rx="16" fill="#fff" stroke="#9a3f36" stroke-width="3"/><text x="278" y="137" font-size="18" font-weight="700">Safety</text><text x="278" y="171" font-size="14">what is clearer?</text>
+    <rect x="371" y="95" width="160" height="110" rx="16" fill="#fff" stroke="#18785b" stroke-width="3"/><text x="451" y="137" font-size="18" font-weight="700">Access</text><text x="451" y="171" font-size="14">what is possible?</text>
+    <rect x="544" y="95" width="160" height="110" rx="16" fill="#fff" stroke="#7350a0" stroke-width="3"/><text x="624" y="137" font-size="18" font-weight="700">Daily life</text><text x="624" y="171" font-size="14">what matters?</text>
+    <rect x="717" y="95" width="160" height="110" rx="16" fill="#fff" stroke="#a66a13" stroke-width="3"/><text x="797" y="130" font-size="17" font-weight="700">Symptoms</text><text x="797" y="153" font-size="17" font-weight="700">and recovery</text><text x="797" y="181" font-size="14">what changed?</text>
+  </g>
+  <text x="450" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#17324d">Compare with your own starting point—not someone else’s finish line.</text>
+</svg>

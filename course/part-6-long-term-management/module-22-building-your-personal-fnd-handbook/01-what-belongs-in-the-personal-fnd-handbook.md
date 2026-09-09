@@ -1,26 +1,61 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 22: Building Your Personal FND Handbook](README.md) › **What Belongs in the Personal FND Handbook**
+[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 22](README.md) › **Choose What Belongs in the Handbook**
 <!-- NAV-BREADCRUMB:END -->
 
-# What Belongs in the Personal FND Handbook
+# Choose What Belongs in the Handbook
 
-This is a focused authoring template within Module 22. Build the completed page around this scope: Define the layers of information: diagnosis and positive evidence, separate conditions, usual symptoms, warning signs, medications, accessibility and communication needs, episode and emergency criteria, care-team roles, goals, and supporter instructions.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+You do not need to remember the whole course. Your handbook can hold the few things you want available on a difficult day.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: Personal FND Handbook; FND emergency plan; symptom plan; appointment summary; medication list; support instructions; relapse plan; accessibility needs. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “What Belongs in the Personal FND Handbook.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Define the layers of information: diagnosis and positive evidence, separate conditions, usual symptoms, warning signs, medications, accessibility and communication needs, episode and emergency criteria, care-team roles, goals, and supporter instructions. The reader should not have to read the module overview first to understand the page.
+A **Personal FND Handbook** is a short reference about your diagnoses, familiar patterns, needs, plans and choices. It supports memory and communication; it does not diagnose a symptom or replace your medical record.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: What a Personal FND Handbook is and how it can reduce the need to remember everything during symptoms or appointments. A short explanation of the diagnosis and how it was established. Confirmed medical conditions, unresolved questions, and current medications. Main symptoms, usual patterns, warning signs, and possible triggers. What tends to help, what tends to make things harder, and what supporters should do. Communication, sensory, thinking, memory, mobility, and accessibility needs. Episode instructions and the person’s emergency criteria. Care-team roles, current goals, appointment questions, and follow-up responsibilities. A setback plan and the dates when information was last reviewed. A structured portable record separating confirmed diagnosis, positive evidence, comorbidity, uncertainty, and individualized formulation. Concise description of usual semiology, baseline function, communication access, mobility, sensory needs, and supporter roles. Medication reconciliation, treatment history, adverse responses, current goals, and discipline-specific responsibilities. Individualized episode and emergency plans with observable escalation criteria and safety-netting. Consent, privacy, decision-making authority, supporter boundaries, and information-sharing preferences. Layered design: emergency summary, appointment summary, personal action plans, and detailed background records. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![Four handbook sections hold health facts, usual patterns, support and access, and plans and contacts.](../../../assets/module-22-page-1-handbook-sections.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Explain that no universal handbook format has been proven best. The useful amount of detail depends on the reader, and emergency workers, clinicians, supporters, and the person may each need a different short view of the same information. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: collect a few decision-changing items under health facts, patterns, support and access, and plans and contacts.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe how symptoms, stress, memory problems, and rushed appointments make it difficult to recall a complex history. Explain that the handbook is a layered memory and communication tool, not a demand to record every detail of life. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Assemble, test, and revise the handbook in print and/or accessible digital form. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+Start with what another person needs to know to understand you or make a safer decision. Keep confirmed facts separate from open questions. Leave out detail that has no job.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: What must someone know in the first minute? Which information belongs in an appointment summary rather than an emergency card? Who may access it? Which clinician should review safety criteria? When is the next review date? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### Four useful sections
+
+1. **Health facts:** how FND was diagnosed; confirmed conditions; unresolved questions; medication list, allergies and important adverse responses.
+2. **Usual patterns:** main symptoms or event types; familiar warnings; usual length and recovery; meaningful changes that need advice.
+3. **Support and access:** mobility, sensory, speech, thinking or memory needs; equipment; what helps; what makes things harder; the role you want supporters to take.
+4. **Plans and contacts:** everyday strategies; episode or setback plans; emergency criteria agreed with clinicians; current goals; care-team roles and contact routes.
+
+You can keep a one-page summary at the front and detailed records elsewhere. Do not copy an uncertain theory into the “confirmed” section. Do not include a promise that a treatment will cure FND; there is no cure. A useful handbook can still support symptom relief, access, safer care and a better quality of life.
+
+Research supports clear written information, individual assessment and coordinated care, but the complete handbook described here has not been tested as an FND treatment. It is an organizing tool, not a validated medical instrument. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+### Community experiences for review
+
+**Option 1 — little information to work from**
+
+> “I was told next to nothing, given no expectations”
+
+— One person's experience after diagnosis. [Read the public source](https://www.reddit.com/r/FND/comments/1c35psh/tips_for_navigating_the_nhs/).
+
+**Option 2 — an individual plan**
+
+> “we worked on an individualized treatment plan.”
+
+— One person described private neuropsychology care; access and suitability vary. [Read the public source](https://www.reddit.com/r/FND/comments/11aerci/out_of_curiosity_have_any_of_you_actually_healed/).
+
+### Questions
+
+#### Which fact about you is most often missing when someone tries to help?
+
+#### Which part of your experience is important to record as uncertain rather than force into an answer?
+
+### One small thing you can do
+
+Open a blank page and write only four headings: **health — patterns — access — plans**. Add one item under the easiest heading. A supporter may write while you choose the words. New or changed symptoms belong in clinical reassessment, not in self-diagnosis.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +66,9 @@ This is a focused authoring template within Module 22. Build the completed page 
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “What Belongs in the Personal FND Handbook.” Develop the supporter guidance from these points: Learning where the handbook is, how to use it, and what remains the person’s decision. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Offer memory, typing or organizing help if wanted. Describe only what you actually observe and ask before adding it. The person decides what private information is included and shared.
+
+Learn the sections you may need during familiar episodes. Do not use the handbook to monitor treatment, activity, emotions or compliance. It should reduce load, not transfer control.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +79,23 @@ This is a focused authoring template within Module 22. Build the completed page 
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Use this section to distinguish the handbook’s categories: confirmed diagnosis, positive evidence, separate conditions, unresolved questions, usual patterns, possible triggers, emergency criteria, and personal preferences. Prevent uncertain theories from becoming recorded facts. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: A structured portable record separating confirmed diagnosis, positive evidence, comorbidity, uncertainty, and individualized formulation. Medication reconciliation, treatment history, adverse responses, current goals, and discipline-specific responsibilities. Layered design: emergency summary, appointment summary, personal action plans, and detailed background records. Version control, review dates, clinician input, accessibility, portability, and secure storage. Avoiding language that encourages emergency clinicians to dismiss changed presentations without assessment. Explain both the value and limitations of each step.
+**Option 1 — Silva and Silva, 2026**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Concise description of usual semiology, baseline function, communication access, mobility, sensory needs, and supporter roles. Medication reconciliation, treatment history, adverse responses, current goals, and discipline-specific responsibilities. Consent, privacy, decision-making authority, supporter boundaries, and information-sharing preferences. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “written informational resources”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Update the handbook after a new diagnosis, medication change, altered episode pattern, major accessibility change, new clinician, treatment decision, or revised emergency criteria. Outdated instructions can be more dangerous than having no detailed plan. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Nicholson et al., 2020**
+
+> “individualised assessment and treatment”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+
+### Help make the record accurate and usable
+
+Confirm the diagnostic label and positive basis, relevant comorbidity, current medication and observable reassessment criteria. Separate established findings, patient report, formulation and uncertainty. Name clinical responsibility and review routes.
+
+Ask which details improve the patient's care and which create burden or risk. Provide accessible written summaries and invite factual correction. The handbook should complement, not replace, the health record, emergency assessment or direct communication. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,15 +105,23 @@ This is a focused authoring template within Module 22. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Building, Using, and Reviewing the Handbook](02-building-using-and-reviewing-the-handbook.md)
+**Continue:** [Next page: Build a Short Safety and Communication Summary](02-building-using-and-reviewing-the-handbook.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “What Belongs in the Personal FND Handbook”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+These sources support written communication, individual assessment and coordinated care. None tested this complete handbook as an intervention. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [FND-CIT-0083](../../../research/citation-index.md#fnd-cit-0083). [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-3"></a>**[3]** | — | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
+
+This page still needs review by people with cognitive or communication symptoms, supporters, clinicians and health-information reviewers.
+
+*Plain-language draft and research package prepared: September 9, 2026 · Clinical review pending*

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Four calm first steps during a familiar setback</title>
+  <desc id="desc">The sequence is reduce danger, meet basic needs, use one known strategy, and ask for agreed help.</desc>
+  <rect width="900" height="330" rx="24" fill="#eef4f6"/>
+  <text x="450" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">Keep the first response small</text>
+  <g font-family="Arial, sans-serif" fill="#17324d" text-anchor="middle">
+    <rect x="35" y="95" width="185" height="115" rx="16" fill="#fff" stroke="#9a3f36" stroke-width="3"/><text x="128" y="134" font-size="20" font-weight="700">1 · Safety</text><text x="128" y="169" font-size="15">reduce danger</text>
+    <rect x="250" y="95" width="185" height="115" rx="16" fill="#fff" stroke="#39738c" stroke-width="3"/><text x="343" y="134" font-size="20" font-weight="700">2 · Basics</text><text x="343" y="169" font-size="15">meet body needs</text>
+    <rect x="465" y="95" width="185" height="115" rx="16" fill="#fff" stroke="#18785b" stroke-width="3"/><text x="558" y="134" font-size="20" font-weight="700">3 · Familiar</text><text x="558" y="169" font-size="15">one known strategy</text>
+    <rect x="680" y="95" width="185" height="115" rx="16" fill="#fff" stroke="#7350a0" stroke-width="3"/><text x="773" y="134" font-size="20" font-weight="700">4 · Help</text><text x="773" y="169" font-size="15">agreed support</text>
+  </g>
+  <text x="450" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#17324d">A temporary change is not giving up.</text>
+</svg>

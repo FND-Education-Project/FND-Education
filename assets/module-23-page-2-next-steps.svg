@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Four choices for a next-step plan</title>
+  <desc id="desc">Four equal cards show keep, adjust, stop, and reassess. The person's present priorities guide the choice.</desc>
+  <rect width="900" height="330" rx="24" fill="#eef4f6"/>
+  <text x="450" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">What fits the next period?</text>
+  <g font-family="Arial, sans-serif" fill="#17324d" text-anchor="middle">
+    <rect x="35" y="92" width="195" height="125" rx="16" fill="#fff" stroke="#18785b" stroke-width="3"/><text x="133" y="132" font-size="22" font-weight="700">Keep</text><text x="133" y="171" font-size="15">useful enough</text>
+    <rect x="247" y="92" width="195" height="125" rx="16" fill="#fff" stroke="#39738c" stroke-width="3"/><text x="345" y="132" font-size="22" font-weight="700">Adjust</text><text x="345" y="171" font-size="15">change dose or goal</text>
+    <rect x="459" y="92" width="195" height="125" rx="16" fill="#fff" stroke="#a66a13" stroke-width="3"/><text x="557" y="132" font-size="22" font-weight="700">Stop</text><text x="557" y="171" font-size="15">burden or harm</text>
+    <rect x="671" y="92" width="195" height="125" rx="16" fill="#fff" stroke="#7350a0" stroke-width="3"/><text x="769" y="132" font-size="22" font-weight="700">Reassess</text><text x="769" y="171" font-size="15">the plan no longer fits</text>
+  </g>
+  <text x="450" y="276" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#17324d">Present health, consent, access and priorities guide the choice.</text>
+</svg>

@@ -1,26 +1,60 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 21: Setbacks, Relapse, and Changing Symptoms](README.md) › **Recognizing a Setback Versus Medical Change**
+[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 21](README.md) › **Recognize a Setback Versus Medical Change**
 <!-- NAV-BREADCRUMB:END -->
 
-# Recognizing a Setback Versus Medical Change
+# Recognize a Setback Versus Medical Change
 
-This is a focused authoring template within Module 21. Build the completed page around this scope: Cover ordinary fluctuation, temporary setbacks, recurrence, sustained decline, altered symptom pattern, injury, illness, medication effects, new disease, accumulated load, and individualized reassessment criteria.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+The safest question is not “FND or emergency?” It is “How does this compare with my usual pattern, and what does my plan say?”
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND relapse; FND setback; symptom flare; changing symptoms; relapse plan; reassessment; recovery plan. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Recognizing a Setback Versus Medical Change.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover ordinary fluctuation, temporary setbacks, recurrence, sustained decline, altered symptom pattern, injury, illness, medication effects, new disease, accumulated load, and individualized reassessment criteria. The reader should not have to read the module overview first to understand the page.
+A **setback** is a period when familiar symptoms or difficulties return or worsen. A **medical change** is something new, substantially different, injured, severe or otherwise outside the plan you made with clinicians.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: Why FND symptoms may improve, worsen, disappear, return, or change over time. Why one bad day does not always mean a lasting relapse. How several smaller pressures—poor sleep, illness, pain, activity, stress, or sensory overload—may add together. How to return to strategies that helped before rather than trying everything at once. When activity or rehabilitation may need a temporary adjustment. Why an injury, a new symptom, or a clear change from the usual pattern may need medical reassessment. How a written setback plan can reduce panic and difficult decisions during worsening. Why relapse can bring grief, fear, anger, or loss of confidence. How to review what happened after the person is more stable without blaming them. Fluctuation, remission, recurrence, relapse, persistent symptoms, and phenotype change. Distinguishing expected variability from altered semiology, new neurological disease, medical comorbidity, medication effect, injury, or deconditioning. Accumulated physical, cognitive, emotional, environmental, interpersonal, and healthcare load. Relapse-prevention models, early-warning plans, graded re-entry, and reactivation of previously effective strategies. Temporary rehabilitation modification without abandoning goals or enforcing progression during instability. Reassessment thresholds, safety-netting, and avoiding diagnostic overshadowing. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![Three paths compare a familiar pattern, a meaningful change, and immediate danger.](../../../assets/module-21-page-1-setback-or-change.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Explain that individual relapse patterns and causes are often uncertain and that retrospective explanations may be wrong. Note limited evidence for specific relapse-prevention programs and avoid implying that every setback was preventable. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: a familiar pattern may use the familiar plan; a meaningful change may need advice or reassessment; immediate danger needs urgent help.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe symptoms returning after improvement, new symptom combinations, fear that all progress is lost, reduced confidence, and supporters not knowing whether to use the old plan. Include the possibility of several small pressures accumulating rather than one clear cause. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Write a tiered setback plan: early signs, immediate response, reassessment criteria, and recovery review. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+FND can fluctuate, and one difficult day does not prove that every gain is gone. But an FND diagnosis does not protect you from injury, medication effects, infection, migraine or another condition. Compare the event with **your** usual pattern. Use the agreed plan when it still fits; seek appropriate help when it does not. (*citations* [1](#citation-1), [2](#citation-2))
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Is this within my usual range? What changed before the setback? Which former strategy is safe to restart? What should be reduced temporarily? What finding would trigger medical review? What should be changed in my written plan afterward? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### Three questions
+
+1. **Is it familiar?** Compare the symptom, warning, length, recovery and help needed with what is usual for you.
+2. **What is different?** Notice a new symptom, a major change in pattern, sustained decline, injury, illness, medication change or loss of a skill that is normally reliable.
+3. **Is there immediate danger?** Use local emergency services for a possible emergency. Do not delay urgent care to finish a checklist.
+
+Your own clinician-approved safety plan matters more than a general webpage. The same symptom can have different meanings in different people.
+
+Researchers and clinical reviews warn against both under-investigating a new problem because “it is FND” and repeating burdensome or harmful treatment without considering a documented familiar pattern. There is no simple universal rule, and there is no cure for FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+### Community experiences for review
+
+**Option 1 — a new symptom after earlier improvement**
+
+> “Since half a year I have a resting tremor in my hands. This tremor just came out of nowhere.”
+
+— One person's report of a later symptom; it cannot establish its cause. [Read the public source](https://www.reddit.com/r/FND/comments/1dde4p6/my_journey_with_functional_neurological_disorder/).
+
+**Option 2 — reassessment found another explanation**
+
+> “He gave me steroid droplets ... and since then my light sensitivity is gone.”
+
+— An eye clinician identified severe pollen allergy after the symptom had been attributed to FND. This is a reassessment example, not advice to use steroids. [Read the public source](https://www.reddit.com/r/FND/comments/1ievray/sharing_my_success_story/).
+
+### Questions
+
+#### When symptoms vary but still feel familiar, what helps you recognize your usual pattern?
+
+#### What change would make you want reassessment instead of assuming it is FND?
+
+### One small thing you can do
+
+Write two lines: **“usual for me”** and **“different enough to get help.”** Add one example under each. Ask a clinician to review the second line when possible. A lower-demand version is to say the examples aloud while someone you trust writes them.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +65,9 @@ This is a focused authoring template within Module 21. Build the completed page 
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Recognizing a Setback Versus Medical Change.” Develop the supporter guidance from these points: Using the written plan instead of improvising during distress. Offering reminders without claiming to know why symptoms worsened. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Know where the plan is. During a familiar event, follow the person's agreed instructions and preserve privacy and dignity. During a changed event, describe what you actually observed: what began, when, what was different, possible injury and recovery.
+
+Do not announce either “it is only FND” or “it must be an emergency” without considering the situation and the plan. If immediate safety is uncertain, seek appropriate help. Support does not require you to diagnose the event.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +78,23 @@ This is a focused authoring template within Module 21. Build the completed page 
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Distinguish ordinary fluctuation from injury, infection, medication change, a new neurological or medical condition, deconditioning, sleep disruption, migraine, or a different episodic disorder. A setback should not become a label for every change. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Reassessment thresholds, safety-netting, and avoiding diagnostic overshadowing. Explain both the value and limitations of each step.
+**Option 1 — Finkelstein et al., 2021**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Accumulated physical, cognitive, emotional, environmental, interpersonal, and healthcare load. Temporary rehabilitation modification without abandoning goals or enforcing progression during instability. Using setbacks to update formulation and plans while avoiding unsupported causal certainty. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “the presence of positive clinical signs of FND does not exclude the presence of a concomitant neurological condition.”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Make the distinction central: use the established plan for familiar fluctuation, but seek reassessment for new, severe, injured, sustained, or substantially changed symptoms. Update the plan when the former baseline or event pattern no longer applies. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Mcloughlin et al., 2025**
+
+> “A balanced approach is needed not to over or under-investigate new symptoms on their own merits.”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+
+### Compare patterns without diagnostic overshadowing
+
+Stabilize urgent problems first. Then compare the current event with documented semiology, baseline function and recovery. Record confirmed conditions, medication or illness changes, objective observations and what remains uncertain.
+
+A previous FND diagnosis may explain a familiar recurrence but should not absorb every later symptom. Equally, repeated low-yield investigations or acute treatments can cause harm. Explain why reassessment is or is not indicated, give observable safety-netting and provide a route back if the pattern changes. (*citations* [1](#citation-1), [2](#citation-2))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,15 +104,23 @@ This is a focused authoring template within Module 21. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Responding, Recovering, and Updating the Plan](02-responding-recovering-and-updating-the-plan.md)
+**Continue:** [Next page: Respond During a Setback](02-responding-recovering-and-updating-the-plan.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Recognizing a Setback Versus Medical Change”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+These reviews support medical reassessment based on the current presentation while trying to reduce both diagnostic overshadowing and avoidable harm. They do not provide a personal emergency rule. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
+| <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+
+This page still needs review by emergency clinicians, neurologists, people with several diagnoses and people whose symptoms fluctuate.
+
+*Plain-language draft and research package prepared: September 9, 2026 · Clinical review pending*

@@ -1,26 +1,61 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 21: Setbacks, Relapse, and Changing Symptoms](README.md) › **Responding, Recovering, and Updating the Plan**
+[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 21](README.md) › **Respond During a Setback**
 <!-- NAV-BREADCRUMB:END -->
 
-# Responding, Recovering, and Updating the Plan
+# Respond During a Setback
 
-This is a focused authoring template within Module 21. Build the completed page around this scope: Cover calm first steps, returning to known strategies, temporary activity or rehabilitation changes, supporter roles, emotional effects, gradual re-entry, post-setback review, and updating the written plan without blame or false causal certainty.
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+When a familiar setback begins, the first job is not to explain it. The first job is to make the next part safer and more manageable.
 
 ## For the Person With FND
 
-**What other names and search terms should readers recognize?** Start with the module terminology—Use and explain the terms readers are likely to encounter: FND relapse; FND setback; symptom flare; changing symptoms; relapse plan; reassessment; recovery plan. Identify preferred, historical, disputed, or potentially stigmatizing terms rather than presenting every term as interchangeable.—then retain only terms relevant to “Responding, Recovering, and Updating the Plan.” Mark historical, disputed, or potentially stigmatizing language clearly.
+### Definition
 
-**What should a reader understand in about one minute?** Write a stand-alone summary of this focused subject: Cover calm first steps, returning to known strategies, temporary activity or rehabilitation changes, supporter roles, emotional effects, gradual re-entry, post-setback review, and updating the written plan without blame or false causal certainty. The reader should not have to read the module overview first to understand the page.
+A **setback response** is the small set of actions you use while familiar symptoms are worse. It can include safety, basic needs, a known strategy, temporary changes and help from another person.
 
-**What does research report?** Narrow the module’s research notes to findings directly relevant to this page. Develop this section from the following syllabus points, leading with the plain-language ideas and placing technical detail later: Why FND symptoms may improve, worsen, disappear, return, or change over time. Why one bad day does not always mean a lasting relapse. How several smaller pressures—poor sleep, illness, pain, activity, stress, or sensory overload—may add together. How to return to strategies that helped before rather than trying everything at once. When activity or rehabilitation may need a temporary adjustment. Why an injury, a new symptom, or a clear change from the usual pattern may need medical reassessment. How a written setback plan can reduce panic and difficult decisions during worsening. Why relapse can bring grief, fear, anger, or loss of confidence. How to review what happened after the person is more stable without blaming them. Fluctuation, remission, recurrence, relapse, persistent symptoms, and phenotype change. Distinguishing expected variability from altered semiology, new neurological disease, medical comorbidity, medication effect, injury, or deconditioning. Accumulated physical, cognitive, emotional, environmental, interpersonal, and healthcare load. Relapse-prevention models, early-warning plans, graded re-entry, and reactivation of previously effective strategies. Temporary rehabilitation modification without abandoning goals or enforcing progression during instability. Reassessment thresholds, safety-netting, and avoiding diagnostic overshadowing. Keep claims attributed to research or clinical guidance rather than making the page itself sound like the authority. Separate findings about this exact presentation from evidence borrowed from broader FND groups.
+![Four calm first steps show safety, basics, one known strategy and agreed help.](../../../assets/module-21-page-2-respond-now.svg)
 
-**What do researchers not yet know?** Apply the module’s uncertainties specifically to this subject. Explain that individual relapse patterns and causes are often uncertain and that retrospective explanations may be wrong. Note limited evidence for specific relapse-prevention programs and avoid implying that every setback was preventable. Clearly separate established findings, clinical consensus, emerging evidence, and proposed models; uncertainty should help the reader judge claims rather than leave them with an empty statement that “more research is needed.” State whether uncertainty concerns cause, diagnosis, prevalence, prognosis, treatment, or applicability to an individual.
+*Illustration: start with safety and basic needs, then use one familiar strategy and agreed support rather than trying everything.*
 
-**What can this feel or look like in ordinary life?** Select only examples that belong on this focused page from the broader experience notes. Describe symptoms returning after improvement, new symptom combinations, fear that all progress is lost, reduced confidence, and supporters not knowing whether to use the old plan. Include the possibility of several small pressures accumulating rather than one clear cause. Use several ordinary-life examples, acknowledge wide variation, and avoid turning the examples into a self-diagnostic checklist. Include variation without turning examples into a self-diagnostic checklist.
+### If you read only one thing
 
-**What can the person safely try at home?** Adapt the module’s practical notes to this focus. Turn the module’s practical work into a small, safe activity: Write a tiered setback plan: early signs, immediate response, reassessment criteria, and recovery review. Give a starting step, a way to reduce difficulty, reasons to stop, and circumstances in which professional guidance is more appropriate. Later community-reported ideas should be clearly labelled as lived experience rather than proven treatment. Give one small starting action, a lower-demand version, risks or reasons to stop, and the point at which professional guidance is more appropriate.
+Use the simplest version of the plan that fits today. Reduce immediate risk. Meet basic needs where possible. Return to a strategy already agreed or safely tested. Pause, reduce or adapt activities that are currently unsafe. A temporary change is not giving up.
 
-**What questions might the person ask a clinician?** Keep only questions relevant to this focused subject and add any needed safety or treatment-selection question. Turn these into a short appointment-ready list written in the first person: Suggest: Is this within my usual range? What changed before the setback? Which former strategy is safe to restart? What should be reduced temporarily? What finding would trigger medical review? What should be changed in my written plan afterward? Keep the final list limited to questions that could change understanding, safety, assessment, or treatment.
+### A short response
+
+1. **Safety:** move away from hazards; use the episode or fall plan if relevant.
+2. **Basics:** consider medication as prescribed, fluids or food if safe, toileting, temperature, rest and a quieter place.
+3. **One known strategy:** choose a cue, position, aid, communication method or calming practice that has helped before.
+4. **Agreed help:** tell a supporter what you want them to do, or contact a clinician if the familiar plan is no longer enough.
+
+Do not force movement, exposure, exercise or emotional processing through instability. Do not abruptly change prescribed medication without appropriate advice. If the presentation is new, severely changed or dangerous, use the medical-change guidance from the previous page.
+
+Research about FND rehabilitation supports individual plans and self-management, but specific “relapse prevention” packages have not been tested well across all FND presentations. A setback may reflect several overlapping loads—or no clear cause. It is not proof that you failed to prevent it. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Community experiences for review
+
+**Option 1 — the good-day surge**
+
+> “I feel good, I’ll do it all—only to crash out later and feel awful.”
+
+— One person's account of learning not to treat a better day as unlimited capacity. [Read the public source](https://www.reddit.com/r/FND/comments/1qlwz51/exercise_and_fnd/).
+
+**Option 2 — boundaries and body signals**
+
+> “It’s good to test out boundaries but listen to your body!!”
+
+— Lived-experience advice, not a universal activity rule or a substitute for a safety plan. [Read the public source](https://www.reddit.com/r/FND/comments/1ipf4gt/is_this_really_the_only_way/).
+
+### Questions
+
+#### When things worsen, which one familiar action helps you feel safer or less overwhelmed?
+
+#### What do you tend to push through because stopping feels like failure?
+
+### One small thing you can do
+
+Make a four-word prompt: **safe — basics — familiar — help**. Put it where you can find it. A lower-demand version is to ask a supporter to remember those four words. Stop and seek appropriate care when the event falls outside your plan.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -31,7 +66,9 @@ This is a focused authoring template within Module 21. Build the completed page 
 
 ## For Family, Friends, and Other Supporters
 
-**What should a support person understand and do?** Apply the module’s supporter guidance specifically to “Responding, Recovering, and Updating the Plan.” Develop the supporter guidance from these points: Using the written plan instead of improvising during distress. Offering reminders without claiming to know why symptoms worsened. Include what may help, what may unintentionally make things harder, and how the supporter can avoid becoming the clinician or supervisor. Separate practical care, communication, safety, and emotional support; include what not to do and preserve the person’s choices.
+Ask one short question: “Do you want quiet, practical help, the written plan or medical help?” Use agreed cues. Reduce hazards and help with essentials without taking over choices that the person can still make.
+
+Avoid searching for a cause during distress, testing the person's ability, demanding visible effort or turning rehabilitation into an emergency task. If the plan no longer fits, help obtain clinical advice. Your safety and capacity matter too.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,13 +79,23 @@ This is a focused authoring template within Module 21. Build the completed page 
 
 ## For Clinicians and the Care Team
 
-**How can clinicians help the patient understand this subject and their own presentation?** Frame the clinical explanation around what the patient needs to understand about their own symptoms or situation, the evidence supporting the clinical view, meaningful uncertainty, and conditions that may coexist. Narrow the differential and overlap material to this page. Distinguish ordinary fluctuation from injury, infection, medication change, a new neurological or medical condition, deconditioning, sleep disruption, migraine, or a different episodic disorder. A setback should not become a label for every change. Explain that this is educational differential information, not a way for readers to diagnose themselves or rule out illness. Separate urgent alternatives, common comorbidities, and conditions requiring a different specialist.
+### Research quotations for review
 
-**How can clinicians assess what may help this patient?** Explain how assessment can identify practical and individualized treatment, rehabilitation, safety, or support options—not only confirm a label. Adapt the module assessment notes to the exact focus, explaining history, positive findings, targeted tests, specialist roles, and limitations in a sequence understandable to non-clinicians. Explain the assessment process in the order a reader may encounter it: history, observation or examination, targeted testing, and specialist input where relevant. Include these module-specific points: Reassessment thresholds, safety-netting, and avoiding diagnostic overshadowing. Explain both the value and limitations of each step.
+**Option 1 — Nicholson et al., 2020**
 
-**How can clinicians help the patient improve this symptom, difficulty, or aspect of care?** Focus on what the clinician can explain, demonstrate, treat, adapt, refer for, or review with the patient, while keeping goals realistic and chosen with the patient. Keep only interventions relevant to this focus. Describe treatment or management options without promising an individual result. Build from these relevant syllabus points: Accumulated physical, cognitive, emotional, environmental, interpersonal, and healthcare load. Temporary rehabilitation modification without abandoning goals or enforcing progression during instability. Using setbacks to update formulation and plans while avoiding unsupported causal certainty. State who was studied, what outcome mattered, and where clinical practice is based more on consensus than strong trials when the eventual research notes are added. Distinguish direct research, guideline recommendations, specialist practice, low-risk self-management, and lived experience.
+> “individualised assessment and treatment”
 
-**How can clinicians support the patient when improvement is limited, unlikely, or not yet possible?** Include continuing care when symptoms persist: validation, symptom relief where possible, safety, function, accessibility, participation, quality of life, supporter needs, and an agreed plan for review or reassessment. Tailor the module safety notes to new, severe, injured, or substantially changed features relevant to this page. Make the distinction central: use the established plan for familiar fluctuation, but seek reassessment for new, severe, injured, sustained, or substantially changed symptoms. Update the plan when the former baseline or event pattern no longer applies. Keep this section proportionate and easy to find. It should reduce both automatic dismissal as FND and unnecessary alarm. Avoid both vague alarm and automatic attribution to FND.
+**Option 2 — Lehn et al., 2025**
+
+> “person-centred treatment”
+
+*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+
+### Agree the response before it is needed
+
+Co-produce a brief plan that distinguishes familiar recurrence from reassessment triggers. Specify safe immediate actions, communication access, medication instructions within scope, temporary rehabilitation modification, supporter roles and follow-up responsibility.
+
+Do not interpret worsening as poor motivation or prescribe automatic progression. Review injury, illness, medication effects and comorbid symptoms. Keep a route to symptom relief, accessibility and participation even when improvement is limited. The evidence here is mainly consensus and broad treatment guidance, not trials of one setback protocol. (*citations* [1](#citation-1), [2](#citation-2))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -58,15 +105,22 @@ This is a focused authoring template within Module 21. Build the completed page 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Build Your Personal FND Handbook](../module-22-building-your-personal-fnd-handbook/README.md)
+**Continue:** [Next page: Recover, Review, and Update the Plan](03-recovering-reviewing-and-updating-the-plan.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Previous page](01-recognizing-a-setback-versus-medical-change.md) · [Module overview](README.md) · [Course](../../README.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Which evidence and source notes will the completed page need?** Build a focused evidence record for “Responding, Recovering, and Updating the Plan”: diagnostic sources, mechanism research, treatment studies, safety guidance, major disagreements, and any lived-experience material. Reserve this section for the later research record. For each important claim, note the best available source type, the population studied, major limitations, disagreements, and whether the source supports diagnosis, mechanism, treatment, safety, or lived experience. Citations do not need to be added while drafting from these authoring notes. Do not add citations until the research package is prepared.
+These professional recommendations support individual, function-based planning. They do not show that one response prevents relapse or that a setback was preventable. (*citations* [1](#citation-1), [2](#citation-2))
 
-**When was the page last reviewed?** Replace this note with the date on which the completed page’s evidence, safety wording, terminology, internal links, and external links were checked. Until then, mark the page clearly as an authoring template rather than reviewed educational material. Record separate review dates if safety guidance or terminology is updated before the full evidence review.
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
+
+This page still needs review by people with recurrent or persistent symptoms, supporters, rehabilitation clinicians and emergency-care reviewers.
+
+*Plain-language draft and research package prepared: September 9, 2026 · Clinical review pending*
