@@ -14,7 +14,7 @@ Functional weakness can make a limb feel heavy, disconnected or impossible to mo
 
 **Functional weakness** is real difficulty making a limb move, even though examination shows that movement can still become available in some situations. **Functional paralysis** is the more complete end of that difficulty.
 
-![Two panels show movement feeling blocked in one task and becoming more available in another or more automatic task.](../../../assets/module-7-page-1-preserved-movement.svg)
+![Two panels show movement feeling blocked in one task and becoming more available in another or more automatic task.](../../../assets/illustrations/module-7-page-1-preserved-movement.svg)
 
 *Illustration: available movement in another task does not mean the difficulty is chosen.*
 

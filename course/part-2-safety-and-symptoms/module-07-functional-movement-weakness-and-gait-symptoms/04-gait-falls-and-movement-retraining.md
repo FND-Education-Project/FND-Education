@@ -14,7 +14,7 @@ Walking can become slow, effortful, unsteady or unpredictable. A person may drag
 
 A **functional gait disorder** is a problem with walking caused by functional changes in movement control. **Gait** simply means the way a person walks.
 
-![A walking route includes clear space, a suitable aid, a rest point and an agreed fall plan.](../../../assets/module-7-page-4-gait-safety-path.svg)
+![A walking route includes clear space, a suitable aid, a rest point and an agreed fall plan.](../../../assets/illustrations/module-7-page-4-gait-safety-path.svg)
 
 *Illustration: shape the route around the person’s safety and access needs.*
 

@@ -4,7 +4,7 @@
 
 # FND Education Assets
 
-This folder stores the illustrations, printable activities and other media used throughout the FND Education Project.
+This folder stores the illustrations, printable activities and other media used throughout the FND Education Project. Course illustrations are kept together in the `illustrations` folder.
 
 ## In this folder
 

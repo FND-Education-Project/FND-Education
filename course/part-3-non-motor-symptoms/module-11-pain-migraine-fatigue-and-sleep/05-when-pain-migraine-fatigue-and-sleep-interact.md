@@ -14,7 +14,7 @@ When several symptoms rise together, it can feel as though everything must be fi
 
 A **symptom interaction loop** is a pattern in which one difficulty changes another—for example, pain interrupts sleep, poor sleep lowers capacity, and overactivity on the next good day worsens pain.
 
-![Pain, poor sleep, lower capacity and overactivity form a loop. Several small exit ramps show that one helpful change can begin anywhere.](../../../assets/module-11-page-5-interaction-loop.svg)
+![Pain, poor sleep, lower capacity and overactivity form a loop. Several small exit ramps show that one helpful change can begin anywhere.](../../../assets/illustrations/module-11-page-5-interaction-loop.svg)
 
 *Illustration: the loop is not blame. It shows several possible entry points rather than one cause.*
 

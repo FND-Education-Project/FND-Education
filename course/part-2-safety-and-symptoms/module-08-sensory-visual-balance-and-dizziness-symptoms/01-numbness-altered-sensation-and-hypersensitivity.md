@@ -14,7 +14,7 @@ Functional sensory symptoms can include too little sensation, too much sensation
 
 **Altered sensation** means touch, temperature, pain, body position or another feeling is experienced differently. **Numbness** is reduced sensation. **Hypersensitivity** is an unusually strong or distressing response to sensory input.
 
-![Three body outlines are labelled less feeling, altered feeling and over-sensitive feeling.](../../../assets/module-8-page-1-sensation-map.svg)
+![Three body outlines are labelled less feeling, altered feeling and over-sensitive feeling.](../../../assets/illustrations/module-8-page-1-sensation-map.svg)
 
 *Illustration: a person’s sensory map can vary; this is not a self-diagnostic chart.*
 

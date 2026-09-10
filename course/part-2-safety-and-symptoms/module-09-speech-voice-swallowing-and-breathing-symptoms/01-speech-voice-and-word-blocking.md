@@ -14,7 +14,7 @@ Functional communication symptoms can change speech, voice, fluency, articulatio
 
 A **functional communication symptom** is a real difficulty with speech, voice or language. A clinician looks for positive signs in how communication changes across tasks. **Word blocking** means knowing or reaching for a word but being unable to say it at that moment.
 
-![Speech, writing, gesture and a device all connect with the person’s message.](../../../assets/module-9-page-1-communication-routes.svg)
+![Speech, writing, gesture and a device all connect with the person’s message.](../../../assets/illustrations/module-9-page-1-communication-routes.svg)
 
 *Illustration: communication is bigger than speech.*
 

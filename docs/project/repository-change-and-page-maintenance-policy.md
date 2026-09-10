@@ -100,14 +100,15 @@ Use this checklist whenever a course or reference page is added, removed, rename
 <details>
 <summary><strong>8. Update indexes, maps and stated totals</strong></summary>
 
-1. Keep a folder `README.md` short and reader-facing: explain the folder and link its nested folders or major sections under **In this folder**.
-2. Keep detailed catalogues on separately named index pages so a growing file list does not overwhelm the folder landing page.
-3. Update the closest module overview, collection index or collection guide first.
-4. Update the course index or reference-library landing page, detailed reference index, main README and site map.
-5. Update the detailed syllabus, planned repository structure, project status and other documents that describe the changed scope.
-6. Update master lists such as the technique index, glossary and citation index when their subject matter changes.
-7. Search for the old count and the old scope phrase, including forms such as “all 13,” “same 13,” “13 presentations” and “26 pages.”
-8. Use exact current totals rather than words such as “about” when the repository can be counted.
+1. Keep a folder `README.md` short and reader-facing: explain the folder and link its nested folders or major sections clearly.
+2. Use a separately named index page when a catalogue is long, such as the course-illustration or reference index. A compact collection, such as the current puzzles collection, may keep its linked index directly in the README.
+3. Treat user-created folders and filenames as deliberate. Do not rename, move or remove them—including revision dates and descriptors such as `easy` or `answer-key`—unless the project lead explicitly directs that change.
+4. Update the closest module overview, collection index or collection guide first.
+5. Update the course index or reference-library landing page, detailed reference index, main README and site map.
+6. Update the detailed syllabus, planned repository structure, project status and other documents that describe the changed scope.
+7. Update master lists such as the technique index, glossary and citation index when their subject matter changes.
+8. Search for the old count and the old scope phrase, including forms such as “all 13,” “same 13,” “13 presentations” and “26 pages.”
+9. Use exact current totals rather than words such as “about” when the repository can be counted.
 
 </details>
 

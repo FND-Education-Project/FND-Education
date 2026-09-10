@@ -14,7 +14,7 @@ Swallowing symptoms can feel frightening and can affect food, drink, medicines a
 
 **Dysphagia** means difficulty moving food, drink or saliva safely and effectively. **Globus** means a lump or tight feeling in the throat that is not the same as food sticking during a swallow. Functional forms can be diagnosed after appropriate assessment and with positive features. (*citations* [1](#citation-1))
 
-![One panel defines dysphagia as difficulty moving food or drink; another defines globus as a lump sensation between swallows.](../../../assets/module-9-page-2-dysphagia-and-globus.svg)
+![One panel defines dysphagia as difficulty moving food or drink; another defines globus as a lump sensation between swallows.](../../../assets/illustrations/module-9-page-2-dysphagia-and-globus.svg)
 
 *Illustration: similar throat feelings can need different assessment.*
 

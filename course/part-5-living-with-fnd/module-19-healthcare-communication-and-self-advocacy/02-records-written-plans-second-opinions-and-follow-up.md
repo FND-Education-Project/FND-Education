@@ -14,7 +14,7 @@ A written plan gives memory somewhere outside your head. A clear record also mak
 
 A **written care plan** records what was agreed, who will do it and when it will be reviewed. A **second opinion** is another qualified clinician's assessment; it is not a guarantee of a different diagnosis or treatment.
 
-![A health record is divided into confirmed information, uncertainty, changes and the next step.](../../../assets/module-19-page-2-records.svg)
+![A health record is divided into confirmed information, uncertainty, changes and the next step.](../../../assets/illustrations/module-19-page-2-records.svg)
 
 *Illustration: “not yet known” belongs in the record. It does not have to be disguised as certainty.*
 

@@ -14,7 +14,7 @@ Appointments ask for memory, speech, timing, travel and concentration—exactly 
 
 An **appointment summary** is a one-page or shorter note containing the information most needed for this visit. It is not your entire medical history.
 
-![Three stages of an appointment: before, bring a short summary; during, agree priorities; after, record the plan.](../../../assets/module-19-page-1-appointments.svg)
+![Three stages of an appointment: before, bring a short summary; during, agree priorities; after, record the plan.](../../../assets/illustrations/module-19-page-1-appointments.svg)
 
 *Illustration: preparation is support, not a test. You can use only the part that helps.*
 

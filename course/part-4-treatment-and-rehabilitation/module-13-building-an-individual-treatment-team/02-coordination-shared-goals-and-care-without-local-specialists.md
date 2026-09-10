@@ -14,7 +14,7 @@ A team is easier to use when everyone knows what matters now, who is doing what 
 
 A **shared care plan** is a short agreement about the person's priorities, each professional's job, how information will be shared and what will happen next.
 
-![A person's priority connects to named roles, one shared plan and a review point.](../../../assets/module-13-page-2-shared-goals.svg)
+![A person's priority connects to named roles, one shared plan and a review point.](../../../assets/illustrations/module-13-page-2-shared-goals.svg)
 
 *Illustration: a shared plan connects the person's priority to named responsibilities and a review—not simply to more referrals.*
 

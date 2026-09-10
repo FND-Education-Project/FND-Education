@@ -14,7 +14,7 @@ Physical health, thoughts and emotions, relationships, healthcare and living con
 
 A **biopsychosocial formulation** is an organized way to consider biological or physical, psychological, and social parts of a person's health and life. It should help build an individual picture rather than force everyone into one formula. (*citations* [1](#citation-1), [3](#citation-3), [4](#citation-4), [6](#citation-6))
 
-![Four questions ask what was observed, what is proposed, what else could explain it and what useful decision would change.](../../../assets/module-3-page-3-claim-check.svg)
+![Four questions ask what was observed, what is proposed, what else could explain it and what useful decision would change.](../../../assets/illustrations/module-3-page-3-claim-check.svg)
 
 *Illustration: a claim becomes more useful when evidence, uncertainty, alternatives and the decision are kept separate.*
 

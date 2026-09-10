@@ -14,7 +14,7 @@ A foot, hand, jaw, face or another body part may pull into a painful posture or 
 
 **Dystonia** means sustained or repeated muscle activity that causes twisting, movement or an unusual posture. In **functional dystonia**, a clinician finds positive signs in the movement itself that show control is working differently across tasks.
 
-![A curved limb rests on soft supports while a stop symbol marks forceful straightening.](../../../assets/module-7-page-3-supported-dystonia.svg)
+![A curved limb rests on soft supports while a stop symbol marks forceful straightening.](../../../assets/illustrations/module-7-page-3-supported-dystonia.svg)
 
 *Illustration: protect comfort and safety; do not force a painful posture straight.*
 

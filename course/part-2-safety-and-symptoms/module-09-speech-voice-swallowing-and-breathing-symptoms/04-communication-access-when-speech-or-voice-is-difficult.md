@@ -14,7 +14,7 @@ A person should not lose their choices because spoken communication is slow, cha
 
 **Communication access** means having a reliable way to understand, express yourself and make choices. **Augmentative and alternative communication (AAC)** includes tools that add to or replace speech, from gesture and writing to a letter board or speech-generating device.
 
-![A toolbox contains a yes-or-no card, phone text, paper and pen, gesture options and a request for extra time.](../../../assets/module-9-page-4-communication-toolbox.svg)
+![A toolbox contains a yes-or-no card, phone text, paper and pen, gesture options and a request for extra time.](../../../assets/illustrations/module-9-page-4-communication-toolbox.svg)
 
 *Illustration: use the lightest tool that works today; needing a tool does not reduce understanding.*
 

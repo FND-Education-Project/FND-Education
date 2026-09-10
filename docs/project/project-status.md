@@ -36,7 +36,7 @@ The repository contains all 97 course pages: 23 module overviews and 74 focused 
 - Added one focused page to each Part Five module for equipment review, supporter wellbeing, healthcare communication repair, and describing variable function for accommodations or benefits.
 - Rewrote Part Six as eight short, illustrated layperson lessons with paired community quotations, personal reflection questions, practitioner research quotations and page-level citations.
 - Added focused pages for post-setback review, handbook use and privacy, and choosing next steps so those tasks do not have to be absorbed inside broader lessons.
-- Separated detailed asset, puzzle and reference indexes from short, reader-friendly folder navigation pages.
+- Separated the long asset and reference indexes from their short folder guides, while keeping the compact crossword index directly in the puzzles README.
 - Added a repository change and page maintenance policy covering course and reference additions, removals, navigation, indexes, evidence and verification.
 
 ## Current priorities

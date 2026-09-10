@@ -14,7 +14,7 @@ Access can begin before symptoms improve. A quieter place, a safer layout or ano
 
 **Accessibility** means removing or reducing barriers so a person can take part. The barrier may be in the surroundings, the task or the way information is given—not in the person's worth.
 
-![Three access layers: sensory surroundings, home layout and communication method, surrounding the person's chosen activity.](../../../assets/module-17-page-3-access-layers.svg)
+![Three access layers: sensory surroundings, home layout and communication method, surrounding the person's chosen activity.](../../../assets/illustrations/module-17-page-3-access-layers.svg)
 
 *Illustration: more than one layer may need changing. Access is not limited to ramps.*
 

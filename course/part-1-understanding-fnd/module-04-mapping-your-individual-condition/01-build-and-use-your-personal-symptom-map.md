@@ -16,7 +16,7 @@ In this course, a **personal symptom map** means a short, updateable record of w
 
 The map can help you prepare for an appointment, explain your condition to a new clinician or supporter, notice a meaningful change and remember what has helped. It should reduce memory work, not require you to watch every sensation throughout the day. This one-page map is a project framework, not a validated diagnostic or treatment tool. (*citations* [2](#citation-2), [3](#citation-3), [6](#citation-6))
 
-![A one-page map separates confirmed FND symptoms, other diagnoses or open questions, warnings and safety, and what helps or remains possible.](../../../assets/module-4-page-1-symptom-map.svg)
+![A one-page map separates confirmed FND symptoms, other diagnoses or open questions, warnings and safety, and what helps or remains possible.](../../../assets/illustrations/module-4-page-1-symptom-map.svg)
 
 *Illustration: keeping the categories separate reduces memory work and leaves uncertain symptoms open for assessment.*
 

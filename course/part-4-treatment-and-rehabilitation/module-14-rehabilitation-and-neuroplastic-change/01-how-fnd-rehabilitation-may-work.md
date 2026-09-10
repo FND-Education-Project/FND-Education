@@ -14,7 +14,7 @@ Rehabilitation tries to make useful actions more available and daily life more w
 
 **Rehabilitation** is a planned process of practising, adapting or finding another route to a chosen activity. **Neuroplasticity** means that the nervous system can change with experience.
 
-![A loop links a chosen activity, a suitable practice attempt, feedback and adjustment, with access supports available throughout.](../../../assets/module-14-page-1-rehabilitation-learning.svg)
+![A loop links a chosen activity, a suitable practice attempt, feedback and adjustment, with access supports available throughout.](../../../assets/illustrations/module-14-page-1-rehabilitation-learning.svg)
 
 *Illustration: rehabilitation is a learning-and-adjustment loop. Access supports can be used while learning; the loop is not “try harder.”*
 

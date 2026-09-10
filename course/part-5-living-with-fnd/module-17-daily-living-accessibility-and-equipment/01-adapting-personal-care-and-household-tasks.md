@@ -14,7 +14,7 @@ A task can be hard for several reasons at once. Finding the hardest part often g
 
 **Task adaptation** means changing the task, the tool, the place or the help so that an activity is safer or takes less effort.
 
-![A daily task is examined for its main barrier, then one change is chosen from task, tool, place or help.](../../../assets/module-17-page-1-task-adaptation.svg)
+![A daily task is examined for its main barrier, then one change is chosen from task, tool, place or help.](../../../assets/illustrations/module-17-page-1-task-adaptation.svg)
 
 *Illustration: start with one real barrier. You do not have to change everything or prove how hard the task is.*
 

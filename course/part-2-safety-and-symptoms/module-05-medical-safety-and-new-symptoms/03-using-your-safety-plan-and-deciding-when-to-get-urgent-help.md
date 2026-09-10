@@ -14,7 +14,7 @@ This page is about using a plan in real time. It cannot tell you whether a parti
 
 An **escalation threshold** is a change or safety concern that your plan says needs more help. To **escalate** may mean contacting your usual team, an urgent service or emergency services, depending on the situation.
 
-![A path asks whether the event is familiar, whether anything is different and what the individual plan says.](../../../assets/module-5-page-3-safety-plan-path.svg)
+![A path asks whether the event is familiar, whether anything is different and what the individual plan says.](../../../assets/illustrations/module-5-page-3-safety-plan-path.svg)
 
 *Illustration: pause, compare and use the plan while responding to immediate danger.*
 

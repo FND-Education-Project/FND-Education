@@ -14,7 +14,7 @@ Participation can mean belonging, choosing, learning, caring, creating or being 
 
 **Participation** means involvement in life situations that matter to you. A **meaningful role** is a place you hold in your own life or with others; it can be small, changing or unpaid.
 
-![Several equal paths lead to participation: relationships, learning, creativity and community, with paid work shown as only one possible path.](../../../assets/module-20-page-2-participation.svg)
+![Several equal paths lead to participation: relationships, learning, creativity and community, with paid work shown as only one possible path.](../../../assets/illustrations/module-20-page-2-participation.svg)
 
 *Illustration: no path is a ranking. Rest, receiving care and surviving a hard period do not make a person less valuable.*
 

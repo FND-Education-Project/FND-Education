@@ -14,7 +14,7 @@ Finishing the course does not require finishing FND. It means choosing what, if 
 
 A **next-step plan** names what to keep, change, stop or reassess during the next period. It can include treatment, practical support, accessibility, relationships, safety or rest.
 
-![Four next-step choices show keep, adjust, stop, and reassess around the person's priorities.](../../../assets/module-23-page-2-next-steps.svg)
+![Four next-step choices show keep, adjust, stop, and reassess around the person's priorities.](../../../assets/illustrations/module-23-page-2-next-steps.svg)
 
 *Illustration: your next step may be to keep, adjust, stop or reassess something; none is automatically the “good patient” choice.*
 

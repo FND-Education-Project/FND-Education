@@ -14,7 +14,7 @@ Functional seizures can shape travel, relationships, study, work and time alone.
 
 A **participation plan** is a practical agreement for doing an activity as safely and independently as possible. It can include access needs, an episode response and a way back into the activity after a setback.
 
-![Planning, adaptation and small steps form different routes toward a valued place, role or activity.](../../../assets/module-6-page-4-participation-routes.svg)
+![Planning, adaptation and small steps form different routes toward a valued place, role or activity.](../../../assets/illustrations/module-6-page-4-participation-routes.svg)
 
 *Illustration: participation can have more than one route.*
 

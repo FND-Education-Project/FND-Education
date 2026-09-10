@@ -14,7 +14,7 @@ A later review can make the next setback less confusing. It should not become an
 
 A **setback review** is a short look back after you are more stable. Its purpose is to keep, change or remove parts of the plan—not to prove one cause.
 
-![A review loop asks what changed, what helped or harmed, what is needed now, and what should be revised.](../../../assets/module-21-page-3-review-loop.svg)
+![A review loop asks what changed, what helped or harmed, what is needed now, and what should be revised.](../../../assets/illustrations/module-21-page-3-review-loop.svg)
 
 *Illustration: look at what changed and what helped or harmed, then update the plan for present needs.*
 

@@ -12,7 +12,7 @@ FND should not be diagnosed simply because a scan was normal or because no other
 
 The word **positive** can be confusing here. It does not mean that the finding is good, nor does it mean that a blood test came back positive. A **positive sign**, sometimes called a **rule-in sign**, is something the clinician observes that gives evidence *for* an FND diagnosis.
 
-![A clinician compares how the same function behaves in two suitable tasks. A meaningful difference may support FND but does not test honesty.](../../../assets/module-2-page-1-positive-signs.svg)
+![A clinician compares how the same function behaves in two suitable tasks. A meaningful difference may support FND but does not test honesty.](../../../assets/illustrations/module-2-page-1-positive-signs.svg)
 
 *Illustration: a positive sign is an observed pattern. It is not proof that the person can choose the symptom.*
 

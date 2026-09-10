@@ -14,7 +14,7 @@ Activity is not only exercise. Thinking, speaking, sensory input, appointments, 
 
 **Load** is the combined demand of an activity and its setting. A **baseline** is a practical estimate of what is usually manageable now. **Boom-and-bust** describes doing much more on a better day and then losing activity during a flare or recovery period.
 
-![One line has high activity peaks followed by deep drops, while another shows smaller flexible amounts with planned space. Neither line is a moral score.](../../../assets/module-15-page-1-boom-bust.svg)
+![One line has high activity peaks followed by deep drops, while another shows smaller flexible amounts with planned space. Neither line is a moral score.](../../../assets/illustrations/module-15-page-1-boom-bust.svg)
 
 *Illustration: the lines describe patterns to investigate. They do not measure effort, character or how ill someone “should” be.*
 

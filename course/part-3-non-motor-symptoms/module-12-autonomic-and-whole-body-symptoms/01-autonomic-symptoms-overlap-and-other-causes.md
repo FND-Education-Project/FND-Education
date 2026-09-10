@@ -14,7 +14,7 @@ Automatic body functions can become noticeable when they are uncomfortable or un
 
 The **autonomic nervous system** helps regulate functions you do not have to consciously direct, including heart rate, blood pressure, sweating, digestion, bladder function and temperature responses.
 
-![A body outline connects to heart and blood pressure, temperature and sweating, digestion, and bladder. Each area can have several possible causes.](../../../assets/module-12-page-1-autonomic-functions.svg)
+![A body outline connects to heart and blood pressure, temperature and sweating, digestion, and bladder. Each area can have several possible causes.](../../../assets/illustrations/module-12-page-1-autonomic-functions.svg)
 
 *Illustration: “autonomic” names a body system, not one disease or one mechanism.*
 

@@ -14,7 +14,7 @@ Psychological treatment is one possible part of care. Being offered it should ne
 
 **Psychological treatment** uses conversation, skills, observation and a therapeutic relationship to work on an agreed problem. The target might be an FND symptom, the impact of illness or a separate mental-health condition.
 
-![Three separate starting points—an FND symptom, living with illness and a mental-health condition—can each lead to a chosen therapy target without proving what caused FND.](../../../assets/module-16-page-1-therapy-targets.svg)
+![Three separate starting points—an FND symptom, living with illness and a mental-health condition—can each lead to a chosen therapy target without proving what caused FND.](../../../assets/illustrations/module-16-page-1-therapy-targets.svg)
 
 *Illustration: what therapy works on is not automatically what caused FND.*
 

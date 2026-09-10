@@ -14,7 +14,7 @@ FND affects a network of people, but the person with FND and the supporter do no
 
 **Supporter wellbeing** means that the family member, friend or partner also has rest, information, health care, boundaries and a life beyond supporting. A **shared boundary** is an agreement about what each person can do and what needs another source of help.
 
-![Two people each have their own needs and boundaries, with a shared middle space for agreed care and connection.](../../../assets/module-18-page-3-supporter-wellbeing.svg)
+![Two people each have their own needs and boundaries, with a shared middle space for agreed care and connection.](../../../assets/illustrations/module-18-page-3-supporter-wellbeing.svg)
 
 *Illustration: care can be shared without either person disappearing. Not every need has to be met by one relationship.*
 

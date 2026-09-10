@@ -14,7 +14,7 @@ Migraine is more than a bad headache. It is a neurological disorder that may coe
 
 **Migraine** causes attacks that may include headache, nausea, light or sound sensitivity, dizziness, brain fog and sometimes aura. **Aura** is a temporary neurological symptom such as visual change, tingling or language difficulty, often—but not always—before headache.
 
-![A migraine attack is shown as phases: early change, possible aura, headache or other symptoms, and recovery. Not everyone has every phase.](../../../assets/module-11-page-2-migraine-phases.svg)
+![A migraine attack is shown as phases: early change, possible aura, headache or other symptoms, and recovery. Not everyone has every phase.](../../../assets/illustrations/module-11-page-2-migraine-phases.svg)
 
 *Illustration: migraine can unfold in phases, and headache is only one possible part.*
 

@@ -14,7 +14,7 @@ The front page of your handbook should work when you cannot give a long history,
 
 A **safety and communication summary** is a short page that tells another person what is usual, what helps, what to avoid and when the familiar plan no longer fits.
 
-![A one-page summary has four boxes: usual, helps, avoid, and get help when.](../../../assets/module-22-page-2-safety-summary.svg)
+![A one-page summary has four boxes: usual, helps, avoid, and get help when.](../../../assets/illustrations/module-22-page-2-safety-summary.svg)
 
 *Illustration: the page separates your usual pattern from helpful actions, actions to avoid and agreed reasons to seek help.*
 

@@ -14,7 +14,7 @@ Pain can dominate a day even when it is not listed as a core FND symptom. It sho
 
 **Pain** is an unpleasant sensory and emotional experience. **Chronic pain** lasts or returns beyond the usual healing time, often for more than three months. It may involve tissue injury, nerve changes, altered pain processing or more than one mechanism.
 
-![Three paths labelled tissue, nerves and pain processing meet at the lived experience of pain; more than one path can be active.](../../../assets/module-11-page-1-pain-paths.svg)
+![Three paths labelled tissue, nerves and pain processing meet at the lived experience of pain; more than one path can be active.](../../../assets/illustrations/module-11-page-1-pain-paths.svg)
 
 *Illustration: the experience is real, while the mechanism may be mixed and needs assessment.*
 

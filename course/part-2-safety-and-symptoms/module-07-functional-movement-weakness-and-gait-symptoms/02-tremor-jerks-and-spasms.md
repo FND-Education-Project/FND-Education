@@ -14,7 +14,7 @@ These movements can be brief, continuous or arrive in long bouts. They are invol
 
 A **tremor** is a repeated back-and-forth movement. A **jerk** is a sudden brief movement. **Spasm** is a broad everyday word for a sudden tightening or movement; a clinician may use a more specific term after assessment.
 
-![Three traces compare rhythmic tremor, a sudden jerk and a longer muscle spasm.](../../../assets/module-7-page-2-movement-types.svg)
+![Three traces compare rhythmic tremor, a sudden jerk and a longer muscle spasm.](../../../assets/illustrations/module-7-page-2-movement-types.svg)
 
 *Illustration: these words describe movement patterns; diagnosis still needs assessment.*
 

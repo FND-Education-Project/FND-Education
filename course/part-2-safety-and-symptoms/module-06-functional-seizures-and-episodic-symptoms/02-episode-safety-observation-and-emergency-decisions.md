@@ -14,7 +14,7 @@ Safe help during an episode is usually simple: protect from injury, follow the p
 
 **Episode first aid** means the immediate actions used to protect you during and just after an event. An **episode plan** describes the safe response for your diagnosed, familiar event type.
 
-![Four calm steps during a familiar event are protect, time, observe and follow the individual plan.](../../../assets/module-6-page-2-episode-first-aid.svg)
+![Four calm steps during a familiar event are protect, time, observe and follow the individual plan.](../../../assets/illustrations/module-6-page-2-episode-first-aid.svg)
 
 *Illustration: simple first-aid priorities for a familiar event with an agreed plan.*
 

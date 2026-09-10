@@ -14,7 +14,7 @@ There is no honest rule that says every person with FND should use an aid—or t
 
 A **mobility aid** is equipment used to make moving or positioning safer or more possible. Examples include a cane, walker, wheelchair, seating system or transfer equipment.
 
-![Four questions around a mobility aid: what task, correct fit and training, safety and access, and when to review.](../../../assets/module-17-page-2-mobility-aids.svg)
+![Four questions around a mobility aid: what task, correct fit and training, safety and access, and when to review.](../../../assets/illustrations/module-17-page-2-mobility-aids.svg)
 
 *Illustration: an aid is a tool for a particular person and purpose, not a verdict about recovery.*
 
