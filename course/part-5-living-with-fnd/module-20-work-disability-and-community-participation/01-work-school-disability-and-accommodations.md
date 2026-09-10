@@ -14,7 +14,7 @@ The same job or class can contain many demands: travel, standing, screens, noise
 
 An **accommodation** is a change to a task, schedule, setting or way of communicating that reduces a disability-related barrier. Whether a change is legally required depends on the local law and setting.
 
-![A task demand is compared with present capacity, then a change to task, time, place or support narrows the gap.](../../../assets/module-20-page-1-accommodations.svg)
+![A task demand is compared with present capacity, then a change to task, time, place or support narrows the gap.](../../../assets/illustrations/module-20-page-1-accommodations.svg)
 
 *Illustration: the gap is information about the task and setting. It is not a measure of intelligence, effort or worth.*
 

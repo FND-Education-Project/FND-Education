@@ -14,7 +14,7 @@ Vision may blur, narrow, double, darken or feel unreliable. Light and busy scene
 
 A **functional visual symptom** is a real change in seeing. A clinician supports the diagnosis by showing that vision works better in a different task or condition—not merely because a test was normal. **Photophobia** means light causes discomfort or worsens symptoms.
 
-![Four panels label clear vision, blur, a narrowed visual field and glare as examples.](../../../assets/module-8-page-2-visual-symptoms.svg)
+![Four panels label clear vision, blur, a narrowed visual field and glare as examples.](../../../assets/illustrations/module-8-page-2-visual-symptoms.svg)
 
 *Illustration: visual symptoms do not all look or feel the same.*
 

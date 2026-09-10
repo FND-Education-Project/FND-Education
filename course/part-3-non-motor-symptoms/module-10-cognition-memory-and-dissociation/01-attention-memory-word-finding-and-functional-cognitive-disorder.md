@@ -14,7 +14,7 @@ Losing a word, a plan or part of a conversation can feel frightening. The diffic
 
 **Cognition** is the work involved in noticing, thinking, planning, using words and remembering. **Functional Cognitive Disorder (FCD)** means distressing or disabling cognitive symptoms with positive signs that the difficulty is functional and not better explained by another condition.
 
-![Information moves through attention, taking it in, storing it and finding it again. A break at any stage can feel like forgetting.](../../../assets/module-10-page-1-memory-path.svg)
+![Information moves through attention, taking it in, storing it and finding it again. A break at any stage can feel like forgetting.](../../../assets/illustrations/module-10-page-1-memory-path.svg)
 
 *Illustration: memory is a path, not one box. Trouble at an earlier step can feel like lost storage.*
 

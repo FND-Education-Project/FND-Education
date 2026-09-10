@@ -14,7 +14,7 @@ Illness can change who does what, how people communicate and what closeness feel
 
 A **boundary** says what a person is and is not willing or able to do. **Intimacy** can mean emotional or physical closeness; it is wider than sex.
 
-![A calm conversation moves through four prompts: need, boundary, choice and a time to revisit.](../../../assets/module-18-page-2-relationships.svg)
+![A calm conversation moves through four prompts: need, boundary, choice and a time to revisit.](../../../assets/illustrations/module-18-page-2-relationships.svg)
 
 *Illustration: a boundary can change with symptoms and circumstances. Consent must be freely given each time.*
 

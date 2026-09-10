@@ -14,7 +14,7 @@ Therapy names describe broad families of treatment. The individual therapist, go
 
 **Therapy fit** means that the approach, therapist, setting, goals and access needs are a reasonable match for you. A **shared therapy goal** states what you want to change and how you will review benefit or harm together.
 
-![Five pieces—target, approach, therapist, access and review—surround a central question: does this fit me?](../../../assets/module-16-page-2-therapy-fit.svg)
+![Five pieces—target, approach, therapist, access and review—surround a central question: does this fit me?](../../../assets/illustrations/module-16-page-2-therapy-fit.svg)
 
 *Illustration: a therapy is more than its three-letter name. Fit includes the actual target, person, setting, access and review.*
 

@@ -14,7 +14,7 @@ Words such as “rewire,” “reset” and “retrain” can describe a treatme
 
 A **neuroplasticity claim** says that an activity will change the nervous system in a way that improves health. The claim needs evidence for the treatment, the condition and the outcome—not only proof that nervous systems can change.
 
-![Four filters ask what is offered, what evidence supports it, whether it fits this person, and how benefit and harm will be reviewed.](../../../assets/module-14-page-3-claim-check.svg)
+![Four filters ask what is offered, what evidence supports it, whether it fits this person, and how benefit and harm will be reviewed.](../../../assets/illustrations/module-14-page-3-claim-check.svg)
 
 *Illustration: “the brain can change” is the beginning of a claim check, not the end.*
 

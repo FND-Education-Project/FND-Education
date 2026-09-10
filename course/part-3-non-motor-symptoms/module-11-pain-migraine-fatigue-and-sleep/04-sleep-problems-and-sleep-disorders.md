@@ -14,7 +14,7 @@ Poor sleep can worsen pain, fatigue, thinking and symptom tolerance. It can be p
 
 A **sleep problem** is any difficulty with sleep or daytime alertness. A **sleep disorder** is a defined condition such as insomnia, obstructive sleep apnea, restless legs syndrome or a circadian-rhythm disorder.
 
-![Night-time problems such as trouble falling asleep, breathing pauses, restless legs and a shifted body clock point to different assessments.](../../../assets/module-11-page-4-sleep-differences.svg)
+![Night-time problems such as trouble falling asleep, breathing pauses, restless legs and a shifted body clock point to different assessments.](../../../assets/illustrations/module-11-page-4-sleep-differences.svg)
 
 *Illustration: “poor sleep” is a starting description, not one diagnosis.*
 

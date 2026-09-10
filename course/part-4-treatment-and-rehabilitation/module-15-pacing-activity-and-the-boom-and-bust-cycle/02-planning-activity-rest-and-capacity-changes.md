@@ -14,7 +14,7 @@ Pacing can protect access to essentials and valued life. It should not become a 
 
 **Pacing** is an individualized way of arranging activity, rest, support and recovery. A **flexible plan** changes when health, demands or priorities change.
 
-![Essential tasks, valued activities, supports and recovery time are arranged within a flexible day, with arrows showing that the plan can change.](../../../assets/module-15-page-2-flexible-pacing.svg)
+![Essential tasks, valued activities, supports and recovery time are arranged within a flexible day, with arrows showing that the plan can change.](../../../assets/illustrations/module-15-page-2-flexible-pacing.svg)
 
 *Illustration: a plan makes room for what is necessary and what matters. Support and rest are parts of participation, not prizes earned afterward.*
 

@@ -14,7 +14,7 @@ Treatment is not a test of whether you believe the diagnosis. It is a shared att
 
 **Seizure-specific treatment** is care designed around functional seizures rather than epilepsy. It may include education, medical follow-up, psychological therapy, rehabilitation or a clinician-taught skill, depending on your needs and choices.
 
-![A treatment menu surrounds “no single recipe” with explanation, an episode plan, chosen therapy and care for other health needs.](../../../assets/module-6-page-3-treatment-menu.svg)
+![A treatment menu surrounds “no single recipe” with explanation, an episode plan, chosen therapy and care for other health needs.](../../../assets/illustrations/module-6-page-3-treatment-menu.svg)
 
 *Illustration: care may combine several parts chosen and reviewed with the person.*
 

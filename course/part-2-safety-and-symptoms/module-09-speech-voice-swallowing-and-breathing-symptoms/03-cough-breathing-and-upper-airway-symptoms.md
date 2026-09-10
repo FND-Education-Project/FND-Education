@@ -14,7 +14,7 @@ Cough, throat closure, noisy breathing and breathlessness can have functional ca
 
 A **functional cough** is a real cough in which a clinician finds positive signs of altered control after checking other possible causes. **Functional upper-airway symptoms** involve altered control around the throat or voice box. Similar symptoms may instead be called **inducible laryngeal obstruction** or **vocal cord dysfunction** when a clinician diagnoses one of those specific conditions.
 
-![A simple side view labels the nose, throat, voice box and lungs.](../../../assets/module-9-page-3-airway-locations.svg)
+![A simple side view labels the nose, throat, voice box and lungs.](../../../assets/illustrations/module-9-page-3-airway-locations.svg)
 
 *Illustration: a breathing sound or feeling does not show where the problem is; assessment helps locate it.*
 

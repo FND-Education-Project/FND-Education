@@ -14,7 +14,7 @@
 
 **Functional capacity** is what you can do in real conditions. **Variable function** means that ability changes across time or situations. Disability forms and rules use different definitions, so local advice matters.
 
-![A function description contains five pieces: task, reliability, safety, recovery time and support needed.](../../../assets/module-20-page-3-variable-function.svg)
+![A function description contains five pieces: task, reliability, safety, recovery time and support needed.](../../../assets/illustrations/module-20-page-3-variable-function.svg)
 
 *Illustration: one successful attempt does not answer every question about sustainable function.*
 

@@ -12,7 +12,7 @@ Tests are important, but no test answers every question. A scan, blood test, ele
 
 A common description of the diagnostic process is, “All my tests were normal, so they said it was FND.” That explanation is incomplete. Normal test results may make some other diagnoses less likely, but they do not themselves show that a symptom is functional. The evidence for FND should come from positive features in the history, examination or nature of an event. (*citations* [1](#citation-1), [2](#citation-2))
 
-![History, examination, suitable tests and change over time are separate pieces in an individual assessment. FND and another condition may coexist.](../../../assets/module-2-page-2-evidence-pieces.svg)
+![History, examination, suitable tests and change over time are separate pieces in an individual assessment. FND and another condition may coexist.](../../../assets/illustrations/module-2-page-2-evidence-pieces.svg)
 
 *Illustration: each piece of evidence answers a limited question. No single result explains the whole illness.*
 

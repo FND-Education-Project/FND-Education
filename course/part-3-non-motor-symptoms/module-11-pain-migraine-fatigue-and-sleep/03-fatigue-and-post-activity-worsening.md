@@ -14,7 +14,7 @@ Fatigue can make washing, thinking or speaking feel like work. It is not a chara
 
 **Fatigue** is a felt lack of physical or mental energy that is not the same as ordinary sleepiness. **Post-activity worsening** means symptoms increase during or after physical, cognitive, emotional or sensory activity; the increase may be immediate or delayed.
 
-![A small activity is followed by either a steady response or delayed symptom worsening. The illustration says to learn the person's pattern rather than assume it.](../../../assets/module-11-page-3-fatigue-delay.svg)
+![A small activity is followed by either a steady response or delayed symptom worsening. The illustration says to learn the person's pattern rather than assume it.](../../../assets/illustrations/module-11-page-3-fatigue-delay.svg)
 
 *Illustration: the response may be delayed, so the activity and the worsening can be easy to disconnect.*
 

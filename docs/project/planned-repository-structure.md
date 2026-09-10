@@ -54,18 +54,16 @@ FND-Education-/
 ├── assets/
 │   ├── README.md
 │   ├── asset-index.md
-│   ├── course illustration files
+│   ├── illustrations/
+│   │   └── course illustration files
 │   └── puzzles/
 │       ├── README.md
-│       ├── puzzle-index.md
 │       └── crosswords/
-│           ├── easy/
-│           ├── normal/
-│           └── answer-keys/
+│           └── normal, easy and answer-key puzzle files
 └── website/
 ```
 
-The **syllabus** folder contains the planning outline for each module. The **course** folder contains 23 module folders and 97 working-draft pages. Each module folder begins with a short `README.md` overview and contains one to five focused pages. The **reference** folder uses short navigation READMEs and separate detailed indexes for its diagnostic and recovery collections. The **assets** folder follows the same pattern: short folder guides lead to the course-asset and puzzle indexes. The future **guides** folder will provide user-friendly routes for finding canonical course pages by symptom or practical need.
+The **syllabus** folder contains the planning outline for each module. The **course** folder contains 23 module folders and 97 working-draft pages. Each module folder begins with a short `README.md` overview and contains one to five focused pages. The **reference** folder uses short navigation READMEs and separate detailed indexes for its diagnostic and recovery collections. The **assets** folder keeps course illustrations together in `illustrations/`; its short README links to the detailed asset index and the puzzles collection. The puzzles README contains its compact puzzle index, while the original puzzle filenames retain their type, difficulty or answer-key descriptor, and revision date. The future **guides** folder will provide user-friendly routes for finding canonical course pages by symptom or practical need.
 
 The structure may change as the project develops. Priorities are predictable navigation, durable links, one canonical home for each full explanation, and avoiding information becoming trapped in very large documents. The [repository change and page maintenance policy](repository-change-and-page-maintenance-policy.md) lists the connected files that must change when a course or reference page is added, removed, renamed or moved.
 

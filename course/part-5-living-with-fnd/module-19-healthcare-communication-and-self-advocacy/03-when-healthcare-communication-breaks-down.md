@@ -14,7 +14,7 @@ Sometimes the problem is not that you need a better script. You may have been di
 
 A **communication breakdown** happens when information, respect, consent or shared understanding is lost enough to affect care. **Repair** means naming the problem and trying a safer route forward; it does not require you to excuse harm.
 
-![A stepped route shows pause, name the problem, ask for clarification, add support, then seek another opinion or formal route if needed.](../../../assets/module-19-page-3-communication-repair.svg)
+![A stepped route shows pause, name the problem, ask for clarification, add support, then seek another opinion or formal route if needed.](../../../assets/illustrations/module-19-page-3-communication-repair.svg)
 
 *Illustration: start at the step that fits. You do not have to complete every step or return to an unsafe clinician.*
 

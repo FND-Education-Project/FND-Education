@@ -14,7 +14,7 @@ A measurement is useful when it helps answer a specific question. More data is n
 
 **Symptom tracking** records what you experienced and its context. A **measurement** adds a number such as pulse or blood pressure. A **clinical assessment** combines history, examination and selected measurements to answer a health question.
 
-![A question leads to the smallest useful record, then a decision to continue, change or stop tracking. A watch alone does not equal a diagnosis.](../../../assets/module-12-page-2-useful-measurement.svg)
+![A question leads to the smallest useful record, then a decision to continue, change or stop tracking. A watch alone does not equal a diagnosis.](../../../assets/illustrations/module-12-page-2-useful-measurement.svg)
 
 *Illustration: begin with the question, not the device.*
 

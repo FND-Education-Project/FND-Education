@@ -14,7 +14,7 @@ Functional seizures are real, involuntary episodes. They can be frightening and 
 
 A **functional seizure** is a real episode in which movement, awareness or responsiveness changes because brain functioning is disrupted. It does not have the abnormal electrical activity that defines epilepsy. Other names include **dissociative seizure** and **psychogenic nonepileptic seizure (PNES)**. Some people dislike or do not identify with those terms.
 
-![A person’s account, witness description, event pattern and appropriate tests lead toward an individualized diagnosis.](../../../assets/module-6-page-1-event-evidence-path.svg)
+![A person’s account, witness description, event pattern and appropriate tests lead toward an individualized diagnosis.](../../../assets/illustrations/module-6-page-1-event-evidence-path.svg)
 
 *Illustration: diagnosis uses the whole event pattern, not one clue.*
 

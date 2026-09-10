@@ -14,7 +14,7 @@ Specialist FND services are not available everywhere. Lack of a nearby clinic is
 
 A **supported local-care model** means local clinicians provide appropriate care while using specialist advice, training, consultation or telehealth when those are available.
 
-![A person and local clinician connect to specialist guidance, while ordinary medical care and review stay local.](../../../assets/module-13-page-3-local-specialist-support.svg)
+![A person and local clinician connect to specialist guidance, while ordinary medical care and review stay local.](../../../assets/illustrations/module-13-page-3-local-specialist-support.svg)
 
 *Illustration: specialist knowledge can support local care. It does not remove the need for a clinician who knows you and follows what happens.*
 

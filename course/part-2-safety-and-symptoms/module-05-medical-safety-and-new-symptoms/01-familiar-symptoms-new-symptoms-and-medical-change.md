@@ -14,7 +14,7 @@ FND can explain real and disabling symptoms. It does not protect you from anothe
 
 A **familiar symptom** matches a pattern that has already been assessed. A **changed symptom** differs in an important way—for example, its start, length, severity or recovery is unusual for you. A **new symptom** has not yet been explained.
 
-![Three cards compare a familiar symptom with a changed symptom and a new symptom.](../../../assets/module-5-page-1-familiar-changed-new.svg)
+![Three cards compare a familiar symptom with a changed symptom and a new symptom.](../../../assets/illustrations/module-5-page-1-familiar-changed-new.svg)
 
 *Illustration: compare the current symptom with your own usual pattern before making an assumption.*
 

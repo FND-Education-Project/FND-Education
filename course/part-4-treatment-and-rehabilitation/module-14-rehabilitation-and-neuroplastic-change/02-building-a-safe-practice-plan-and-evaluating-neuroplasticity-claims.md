@@ -14,7 +14,7 @@ Practice is safer and easier to judge when the task, support, amount and review 
 
 A **practice dose** means what you will try, how much, under what conditions and when you will stop or adjust. It is not a standard medical dose, and more is not automatically better.
 
-![A plan moves from a chosen task to a small supported attempt, then checks immediate and delayed effects before repeating, reducing or reviewing.](../../../assets/module-14-page-2-practice-dose.svg)
+![A plan moves from a chosen task to a small supported attempt, then checks immediate and delayed effects before repeating, reducing or reviewing.](../../../assets/illustrations/module-14-page-2-practice-dose.svg)
 
 *Illustration: the effect may be immediate or delayed. What happens should change the next attempt.*
 

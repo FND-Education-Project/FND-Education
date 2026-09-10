@@ -20,7 +20,7 @@ Some FND theories propose that these ordinary processes are working together dif
 
 A **brain network** is a group of brain areas that work together. Movement, sensation, attention, emotion, memory and awareness are not each controlled by one isolated spot. Networks share information, and the same area may contribute to several functions. (*citations* [3](#citation-3))
 
-![Connected nodes show sensation, prediction and attention, and action and agency working as a network. The diagram is labelled as a useful model, not the whole story.](../../../assets/module-3-page-2-network-model.svg)
+![Connected nodes show sensation, prediction and attention, and action and agency working as a network. The diagram is labelled as a useful model, not the whole story.](../../../assets/illustrations/module-3-page-2-network-model.svg)
 
 *Illustration: networks help researchers organize possible relationships. They are not a complete personal explanation or diagnostic scan.*
 

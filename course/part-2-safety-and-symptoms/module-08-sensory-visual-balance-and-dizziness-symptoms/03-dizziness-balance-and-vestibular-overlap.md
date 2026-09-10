@@ -14,7 +14,7 @@
 
 The **vestibular system** uses inner-ear and brain signals to help with balance and steady vision. **Persistent postural-perceptual dizziness (PPPD)** is a diagnosed functional condition. It causes dizziness or unsteadiness on most days for at least three months and is made worse by standing upright, movement or complex visual scenes. Clinicians use five full criteria to diagnose it. (*citations* [1](#citation-1))
 
-![Vision, inner-ear signals and body-sensation signals point toward a central balance system.](../../../assets/module-8-page-3-balance-signals.svg)
+![Vision, inner-ear signals and body-sensation signals point toward a central balance system.](../../../assets/illustrations/module-8-page-3-balance-signals.svg)
 
 *Illustration: balance combines several streams of information; dizziness can have more than one cause.*
 

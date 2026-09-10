@@ -14,7 +14,7 @@ Trying harder at the exact movement that is stuck can sometimes add effort witho
 
 **Movement retraining** is guided practice that helps the nervous system find a more useful movement pattern. **Redirected attention** means focusing on a goal, rhythm or outside task rather than closely controlling each body part.
 
-![One panel shows close monitoring of movement; another shows attention on a target, rhythm or task.](../../../assets/module-7-page-5-redirected-attention.svg)
+![One panel shows close monitoring of movement; another shows attention on a target, rhythm or task.](../../../assets/illustrations/module-7-page-5-redirected-attention.svg)
 
 *Illustration: an external focus may make movement more automatic for some people.*
 

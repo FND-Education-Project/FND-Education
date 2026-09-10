@@ -14,7 +14,7 @@ Trauma can matter deeply for some people with FND. It is not present, relevant t
 
 **Informed consent** means you receive understandable information about the purpose, approach, possible benefits, risks and alternatives, then choose freely. **Trauma-informed care** aims to support safety, choice and control without requiring a trauma story.
 
-![A consent path moves through purpose, choice, boundaries and review, while a separate trauma question can lead to wanted support or no trauma work.](../../../assets/module-16-page-3-consent-and-trauma.svg)
+![A consent path moves through purpose, choice, boundaries and review, while a separate trauma question can lead to wanted support or no trauma work.](../../../assets/illustrations/module-16-page-3-consent-and-trauma.svg)
 
 *Illustration: consent continues through treatment. Trauma work is one possible branch, not a required route for FND.*
 

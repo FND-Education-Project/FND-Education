@@ -14,7 +14,7 @@ Symptoms matter. They are not the only part of life that matters or the only pla
 
 A **progress review** compares what matters to you now with your own earlier starting point. It can include symptoms, understanding, safety, access, function, participation and quality of life.
 
-![Five progress areas show understanding, safety, access, daily life and symptoms without putting one above the others.](../../../assets/module-23-page-1-progress-domains.svg)
+![Five progress areas show understanding, safety, access, daily life and symptoms without putting one above the others.](../../../assets/illustrations/module-23-page-1-progress-domains.svg)
 
 *Illustration: look across several areas; a symptom score is one source of information, not the whole result.*
 

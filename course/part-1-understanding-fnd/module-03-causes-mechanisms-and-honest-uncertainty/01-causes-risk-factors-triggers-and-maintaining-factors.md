@@ -24,7 +24,7 @@ There is not one proven cause or mechanism that explains every person's FND. Som
 | **Maintaining factor** | Something that may help symptoms continue or become harder to change after they have begun. This is also called a **perpetuating factor**. |
 | **Cause** | Something shown to produce an outcome. An event happening first, or a treatment helping later, does not by itself prove cause. |
 
-![A timeline separates a possible risk or vulnerability, possible trigger, symptom beginning, warning sign and consequence.](../../../assets/module-3-page-1-factor-timeline.svg)
+![A timeline separates a possible risk or vulnerability, possible trigger, symptom beginning, warning sign and consequence.](../../../assets/illustrations/module-3-page-1-factor-timeline.svg)
 
 *Illustration: timing helps organize possibilities. It does not prove what caused FND.*
 

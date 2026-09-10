@@ -14,7 +14,7 @@ A support system moves some thinking work out of your head and into your surroun
 
 An **external cognitive aid** holds information or prompts an action for you. Examples include a calendar, alarm, checklist, labelled storage place, written visit summary or another person giving an agreed cue.
 
-![One capture place leads to a short today list, one home for important objects, and one gentle reminder.](../../../assets/module-10-page-3-external-support-system.svg)
+![One capture place leads to a short today list, one home for important objects, and one gentle reminder.](../../../assets/illustrations/module-10-page-3-external-support-system.svg)
 
 *Illustration: a small dependable system is easier to use than many competing systems.*
 

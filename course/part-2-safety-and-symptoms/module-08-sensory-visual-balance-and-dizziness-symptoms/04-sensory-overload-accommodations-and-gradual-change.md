@@ -14,7 +14,7 @@ The world does not become accessible simply because someone is offered rehabilit
 
 An **accommodation** changes a task or environment so you can take part. **Gradual change** is carefully dosed practice toward a chosen goal. They solve different problems and can be used together.
 
-![Two parallel lanes show accommodations for access now and optional, consent-based gradual practice over time.](../../../assets/module-8-page-4-access-and-gradual-change.svg)
+![Two parallel lanes show accommodations for access now and optional, consent-based gradual practice over time.](../../../assets/illustrations/module-8-page-4-access-and-gradual-change.svg)
 
 *Illustration: access now and gradual change are separate choices that can work together.*
 

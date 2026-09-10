@@ -14,7 +14,7 @@ The safest question is not “FND or emergency?” It is “How does this compar
 
 A **setback** is a period when familiar symptoms or difficulties return or worsen. A **medical change** is something new, substantially different, injured, severe or otherwise outside the plan you made with clinicians.
 
-![Three paths compare a familiar pattern, a meaningful change, and immediate danger.](../../../assets/module-21-page-1-setback-or-change.svg)
+![Three paths compare a familiar pattern, a meaningful change, and immediate danger.](../../../assets/illustrations/module-21-page-1-setback-or-change.svg)
 
 *Illustration: a familiar pattern may use the familiar plan; a meaningful change may need advice or reassessment; immediate danger needs urgent help.*
 

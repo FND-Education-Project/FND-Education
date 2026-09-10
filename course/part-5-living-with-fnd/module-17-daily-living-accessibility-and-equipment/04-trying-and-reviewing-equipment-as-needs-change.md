@@ -14,7 +14,7 @@ Equipment decisions are easier to understand when they are treated as a trial wi
 
 An **equipment trial** is a planned chance to see whether an aid helps a named activity. A **review** checks whether it still helps and whether its fit, risks or purpose have changed.
 
-![A loop moves from a chosen goal to trial, notice benefit and burden, then adjust or review.](../../../assets/module-17-page-4-equipment-review.svg)
+![A loop moves from a chosen goal to trial, notice benefit and burden, then adjust or review.](../../../assets/illustrations/module-17-page-4-equipment-review.svg)
 
 *Illustration: the result may be keep, adjust, use only in some settings, replace or stop. None is a moral score.*
 

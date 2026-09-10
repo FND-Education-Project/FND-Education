@@ -14,7 +14,7 @@ FND care may involve more than one kind of professional. That does not mean ever
 
 A **treatment team** is the person with FND and the professionals who have agreed roles in their care. The right team depends on the person's symptoms, other conditions, goals and access.
 
-![The person with FND is at the centre while diagnosis and review, daily function, communication, emotional health and other conditions are possible areas of care.](../../../assets/module-13-page-1-team-roles.svg)
+![The person with FND is at the centre while diagnosis and review, daily function, communication, emotional health and other conditions are possible areas of care.](../../../assets/illustrations/module-13-page-1-team-roles.svg)
 
 *Illustration: the person is central. Team members are chosen for a need, not added because every person with FND must see them.*
 

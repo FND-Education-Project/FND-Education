@@ -14,7 +14,7 @@ You do not need to remember the whole course. Your handbook can hold the few thi
 
 A **Personal FND Handbook** is a short reference about your diagnoses, familiar patterns, needs, plans and choices. It supports memory and communication; it does not diagnose a symptom or replace your medical record.
 
-![Four handbook sections hold health facts, usual patterns, support and access, and plans and contacts.](../../../assets/module-22-page-1-handbook-sections.svg)
+![Four handbook sections hold health facts, usual patterns, support and access, and plans and contacts.](../../../assets/illustrations/module-22-page-1-handbook-sections.svg)
 
 *Illustration: collect a few decision-changing items under health facts, patterns, support and access, and plans and contacts.*
 

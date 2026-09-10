@@ -14,7 +14,7 @@ When a familiar setback begins, the first job is not to explain it. The first jo
 
 A **setback response** is the small set of actions you use while familiar symptoms are worse. It can include safety, basic needs, a known strategy, temporary changes and help from another person.
 
-![Four calm first steps show safety, basics, one known strategy and agreed help.](../../../assets/module-21-page-2-respond-now.svg)
+![Four calm first steps show safety, basics, one known strategy and agreed help.](../../../assets/illustrations/module-21-page-2-respond-now.svg)
 
 *Illustration: start with safety and basic needs, then use one familiar strategy and agreed support rather than trying everything.*
 

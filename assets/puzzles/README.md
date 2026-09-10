@@ -4,14 +4,15 @@
 
 # Course Puzzles
 
-These printable puzzles connect to different course pages and provide a lighter way to review important words and ideas. Each puzzle remains optional and should support the lesson rather than introduce essential information by itself.
+These printable puzzles connect to different course pages and provide a lighter way to review important words and ideas. They are optional and do not contain information that must be learned only through a puzzle.
 
-The collection currently begins with crosswords. Colouring activities, connect-the-dots puzzles and other formats can be added later without changing this navigation pattern.
+The collection currently contains crosswords. Colouring activities, connect-the-dots puzzles and other formats may be added later.
 
-## In this folder
+## Crosswords
 
-- **[Puzzle index](puzzle-index.md)** — find each available puzzle, its difficulty, its answer key and the course material it supports.
-- **[Crosswords](crosswords/README.md)** — browse easy and normal crossword folders and their answer keys.
+- **What is FND?** ([normal](crosswords/What-is-FND-crossword-09-2026.pdf)) ([easy](crosswords/What-is-FND-crossword-easy-09-2026.pdf)) ([answer key](crosswords/What-is-FND-crossword-answer-key-09-2026.pdf))
+- **Biopsychosocial What?** ([normal](crosswords/Biopsychosocial-What-crossword-09-2026.pdf)) ([easy](crosswords/Biopsychosocial-What-crossword-easy-09-2026.pdf)) ([answer key](crosswords/Biopsychosocial-What-crossword-answer-key-09-2026.pdf))
+- **Recovery** ([normal](crosswords/Recovery-crossword-09-2026.pdf)) ([easy](crosswords/Recovery-crossword-easy-09-2026.pdf)) ([answer key](crosswords/Recovery-crossword-answer-key-09-2026.pdf))
 
 <!-- NAV-CONTEXT:START -->
 **Assets:** [Assets](../README.md) · [Course Asset Index](../asset-index.md)

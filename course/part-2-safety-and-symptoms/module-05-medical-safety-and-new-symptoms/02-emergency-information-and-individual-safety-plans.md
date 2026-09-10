@@ -14,7 +14,7 @@ An emergency plan is easiest to use when it is brief, specific to you and agreed
 
 An **individual safety plan** is a short record of what usually happens, what helps, what should be avoided and when to get more help. An **emergency information card** is the quickest part of that plan for another person to read.
 
-![A short emergency card lists identity, diagnoses, usual events, agreed responses, medicines, contacts and review date.](../../../assets/module-5-page-2-emergency-information-card.svg)
+![A short emergency card lists identity, diagnoses, usual events, agreed responses, medicines, contacts and review date.](../../../assets/illustrations/module-5-page-2-emergency-information-card.svg)
 
 *Illustration: keep essential information short enough to use on a difficult day.*
 

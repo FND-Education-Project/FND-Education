@@ -14,7 +14,7 @@ Dissociation can be hard to describe. Words such as “far away,” “unreal,�
 
 **Dissociation** means a change in how parts of experience are connected. **Depersonalization** is feeling detached from yourself. **Derealization** is feeling that the world is unreal or distant. **Altered awareness** is a broader term for being less aware or responsive.
 
-![Three overlapping circles show feeling detached from self, feeling the world is unreal, and reduced awareness. They overlap but are not identical.](../../../assets/module-10-page-2-dissociation-overlap.svg)
+![Three overlapping circles show feeling detached from self, feeling the world is unreal, and reduced awareness. They overlap but are not identical.](../../../assets/illustrations/module-10-page-2-dissociation-overlap.svg)
 
 *Illustration: these experiences can overlap, but the words do not all mean the same thing.*
 

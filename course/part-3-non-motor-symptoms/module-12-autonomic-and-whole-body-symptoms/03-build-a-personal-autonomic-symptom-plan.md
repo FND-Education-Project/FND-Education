@@ -14,7 +14,7 @@ A short plan can reduce decisions during dizziness, nausea, heat intolerance or 
 
 A **personal symptom plan** is a short record of your usual pattern, what helps, what has been prescribed, what support you want and which changes need medical care.
 
-![A one-page plan has four boxes: my usual pattern, what helps, agreed treatment, and when to seek help.](../../../assets/module-12-page-3-personal-plan.svg)
+![A one-page plan has four boxes: my usual pattern, what helps, agreed treatment, and when to seek help.](../../../assets/illustrations/module-12-page-3-personal-plan.svg)
 
 *Illustration: daily coping and emergency decisions belong in different boxes.*
 

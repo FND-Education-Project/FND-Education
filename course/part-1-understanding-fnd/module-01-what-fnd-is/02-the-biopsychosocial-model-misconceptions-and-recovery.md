@@ -16,7 +16,7 @@ When we talk about the *biopsychosocial model*, it is in relation to how your **
 - **The *'psycho'* or *'psychological'* part of the word helps us to see that life stresses both past and present can strongly affect your symptoms.** The psychology we are talking about here also includes how you cope with those stresses and your emotional self.
 - **Finally, the *'social'* aspect of this not only includes your culture but also your access to health care and the family and social support you have.**
 
-![Body and brain, thoughts and feelings, and life and surroundings are three areas to consider. No area is required to cause FND.](../../../assets/module-1-page-2-biopsychosocial-influences.svg)
+![Body and brain, thoughts and feelings, and life and surroundings are three areas to consider. No area is required to cause FND.](../../../assets/illustrations/module-1-page-2-biopsychosocial-influences.svg)
 
 *Illustration: the three areas help organize an individual picture. They are not three required causes.*
 

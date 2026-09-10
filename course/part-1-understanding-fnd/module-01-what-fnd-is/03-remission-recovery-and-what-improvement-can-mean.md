@@ -22,7 +22,7 @@ Recovery has a few meanings. For instance, I might say, 'After a functional seiz
 
 > Recovery does not have to mean that every symptom has disappeared.
 
-![Four equally meaningful outcomes show fewer symptoms, safer days, more participation and better quality of life.](../../../assets/module-1-page-3-meaningful-improvement.svg)
+![Four equally meaningful outcomes show fewer symptoms, safer days, more participation and better quality of life.](../../../assets/illustrations/module-1-page-3-meaningful-improvement.svg)
 
 *Illustration: improvement can take more than one form. A person may value different outcomes at different times.*
 

@@ -14,7 +14,7 @@ Sometimes the cost of an activity appears hours later or the next day. A brief r
 
 **Delayed worsening** means symptoms or function change after a gap following activity. A **flare** is a period when symptoms are worse than the person's usual pattern; it does not by itself explain why.
 
-![An activity is followed by a delay, a short check of symptoms and function, and three possible responses: repeat, adapt or seek review.](../../../assets/module-15-page-3-review-and-adjust.svg)
+![An activity is followed by a delay, a short check of symptoms and function, and three possible responses: repeat, adapt or seek review.](../../../assets/illustrations/module-15-page-3-review-and-adjust.svg)
 
 *Illustration: the later response is one piece of information. It can lead to repeating, adapting or getting clinical advice.*
 

@@ -14,7 +14,7 @@ FND may interrupt work, study, parenting, friendships, independence and plans. G
 
 **Grief** is a response to loss. **Identity** is the changing story of who you are, including—but not limited to—illness, abilities, roles, relationships and values.
 
-![Three overlapping spaces show what changed, what remains and what may grow, with no demand to move in one direction.](../../../assets/module-18-page-1-grief-identity.svg)
+![Three overlapping spaces show what changed, what remains and what may grow, with no demand to move in one direction.](../../../assets/illustrations/module-18-page-1-grief-identity.svg)
 
 *Illustration: loss and growth can be present together. Growth is not required, and it does not cancel grief.*
 

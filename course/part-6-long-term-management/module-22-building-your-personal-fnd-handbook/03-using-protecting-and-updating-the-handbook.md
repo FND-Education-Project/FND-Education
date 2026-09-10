@@ -14,7 +14,7 @@ A handbook works only if you can find it, trust it and understand which version 
 
 A **handbook review** is a short check that the information is still correct, accessible and shared only in ways you want.
 
-![A usable handbook has one main home, a short front page, a review date and a protected backup.](../../../assets/module-22-page-3-use-and-update.svg)
+![A usable handbook has one main home, a short front page, a review date and a protected backup.](../../../assets/illustrations/module-22-page-3-use-and-update.svg)
 
 *Illustration: choose one main home, keep the front page short, date each review and protect a backup.*
 

@@ -384,25 +384,19 @@ Use the sections below to drill down into the course, reference library, researc
 - [Assets](assets/README.md)
 - [Course asset index](assets/asset-index.md)
 - [Puzzles](assets/puzzles/README.md)
-- [Puzzle index](assets/puzzles/puzzle-index.md)
 
 <details>
 <summary><strong>Crosswords</strong></summary>
 
-- [Crosswords](assets/puzzles/crosswords/README.md)
-- [Easy crosswords](assets/puzzles/crosswords/easy/README.md)
-- [Normal crosswords](assets/puzzles/crosswords/normal/README.md)
-- [Crossword answer keys](assets/puzzles/crosswords/answer-keys/README.md)
-- [Biopsychosocial What? — easy crossword](assets/puzzles/crosswords/easy/biopsychosocial-what.pdf)
-- [Biopsychosocial What? — answer key](assets/puzzles/crosswords/answer-keys/biopsychosocial-what-answer-key.pdf)
-- [Recovery — easy crossword](assets/puzzles/crosswords/easy/recovery.pdf)
-- [Recovery — normal crossword](assets/puzzles/crosswords/normal/recovery.pdf)
-- [Recovery — answer key](assets/puzzles/crosswords/answer-keys/recovery-answer-key.pdf)
-- [What is FND? — easy crossword](assets/puzzles/crosswords/easy/what-is-fnd.pdf)
-- [What is FND? — normal crossword](assets/puzzles/crosswords/normal/what-is-fnd.pdf)
-- [What is FND? — answer key](assets/puzzles/crosswords/answer-keys/what-is-fnd-answer-key.pdf)
-- [What is FND? — expanded normal crossword](assets/puzzles/crosswords/normal/what-is-fnd-expanded.pdf)
-- [What is FND? — expanded answer key](assets/puzzles/crosswords/answer-keys/what-is-fnd-expanded-answer-key.pdf)
+- [What is FND? — normal](assets/puzzles/crosswords/What-is-FND-crossword-09-2026.pdf)
+- [What is FND? — easy](assets/puzzles/crosswords/What-is-FND-crossword-easy-09-2026.pdf)
+- [What is FND? — answer key](assets/puzzles/crosswords/What-is-FND-crossword-answer-key-09-2026.pdf)
+- [Biopsychosocial What? — normal](assets/puzzles/crosswords/Biopsychosocial-What-crossword-09-2026.pdf)
+- [Biopsychosocial What? — easy](assets/puzzles/crosswords/Biopsychosocial-What-crossword-easy-09-2026.pdf)
+- [Biopsychosocial What? — answer key](assets/puzzles/crosswords/Biopsychosocial-What-crossword-answer-key-09-2026.pdf)
+- [Recovery — normal](assets/puzzles/crosswords/Recovery-crossword-09-2026.pdf)
+- [Recovery — easy](assets/puzzles/crosswords/Recovery-crossword-easy-09-2026.pdf)
+- [Recovery — answer key](assets/puzzles/crosswords/Recovery-crossword-answer-key-09-2026.pdf)
 
 </details>
 
