@@ -286,12 +286,14 @@ Use the sections below to drill down into the course, reference library, researc
 <details open>
 <summary><strong>Reference Library</strong></summary>
 
-- [Reference Library index](reference/README.md)
+- [Reference Library](reference/README.md)
+- [Detailed reference index and symptom-category map](reference/reference-index.md)
 
 <details>
 <summary><strong>Symptom-Specific Diagnostic Signs</strong></summary>
 
-- [Diagnostic Signs index](reference/diagnostic-signs/README.md)
+- [Diagnostic Techniques](reference/diagnostic-signs/README.md)
+- [Diagnostic Techniques index](reference/diagnostic-signs/diagnostic-index.md)
 - [Functional Limb Weakness](reference/diagnostic-signs/01-functional-limb-weakness.md)
 - [Functional Tremor](reference/diagnostic-signs/02-functional-tremor.md)
 - [Functional Jerks or Myoclonus](reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md)
@@ -314,7 +316,8 @@ Use the sections below to drill down into the course, reference library, researc
 <details>
 <summary><strong>Symptom Recovery and Management Techniques</strong></summary>
 
-- [Recovery Techniques index](reference/recovery-techniques/README.md)
+- [Recovery Techniques](reference/recovery-techniques/README.md)
+- [Recovery collection and safety guide](reference/recovery-techniques/collection-guide.md)
 - [Technique index](reference/recovery-techniques/technique-index.md)
 - [Recovery Techniques for Functional Limb Weakness](reference/recovery-techniques/01-functional-limb-weakness.md)
 - [Recovery Techniques for Functional Tremor](reference/recovery-techniques/02-functional-tremor.md)
@@ -370,6 +373,36 @@ Use the sections below to drill down into the course, reference library, researc
 
 - [Community Experience Quote Audit for Recovery Techniques](reference/recovery-techniques/community-experience-quotes.md)
 - [Episodic Symptoms and Flare-Onset Quote Review](reference/recovery-techniques/episodic-flare-community-quote-review.md)
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Assets and Puzzles</strong></summary>
+
+- [Assets](assets/README.md)
+- [Course asset index](assets/asset-index.md)
+- [Puzzles](assets/puzzles/README.md)
+- [Puzzle index](assets/puzzles/puzzle-index.md)
+
+<details>
+<summary><strong>Crosswords</strong></summary>
+
+- [Crosswords](assets/puzzles/crosswords/README.md)
+- [Easy crosswords](assets/puzzles/crosswords/easy/README.md)
+- [Normal crosswords](assets/puzzles/crosswords/normal/README.md)
+- [Crossword answer keys](assets/puzzles/crosswords/answer-keys/README.md)
+- [Biopsychosocial What? — easy crossword](assets/puzzles/crosswords/easy/biopsychosocial-what.pdf)
+- [Biopsychosocial What? — answer key](assets/puzzles/crosswords/answer-keys/biopsychosocial-what-answer-key.pdf)
+- [Recovery — easy crossword](assets/puzzles/crosswords/easy/recovery.pdf)
+- [Recovery — normal crossword](assets/puzzles/crosswords/normal/recovery.pdf)
+- [Recovery — answer key](assets/puzzles/crosswords/answer-keys/recovery-answer-key.pdf)
+- [What is FND? — easy crossword](assets/puzzles/crosswords/easy/what-is-fnd.pdf)
+- [What is FND? — normal crossword](assets/puzzles/crosswords/normal/what-is-fnd.pdf)
+- [What is FND? — answer key](assets/puzzles/crosswords/answer-keys/what-is-fnd-answer-key.pdf)
+- [What is FND? — expanded normal crossword](assets/puzzles/crosswords/normal/what-is-fnd-expanded.pdf)
+- [What is FND? — expanded answer key](assets/puzzles/crosswords/answer-keys/what-is-fnd-expanded-answer-key.pdf)
 
 </details>
 

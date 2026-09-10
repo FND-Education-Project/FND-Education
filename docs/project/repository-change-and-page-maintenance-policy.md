@@ -53,7 +53,7 @@ Use this checklist whenever a course or reference page is added, removed, rename
 
 1. Confirm that the page describes positive clinical evidence and its limits, not a self-diagnostic test or diagnosis by exclusion.
 2. Add a numbered page in `reference/diagnostic-signs/` using the three audience sections, emergency or reassessment guidance, media brief and standalone citation table.
-3. Add it to the diagnostic collection index, reference-library index and site map.
+3. Add it to the diagnostic collection index, reference-library landing page, detailed reference index and site map.
 4. Pair it with the matching recovery page, or state why no recovery page is ready and link to the closest safe material.
 5. Update the former last page’s navigation and give the new page a previous-page link; repair both directions if the page is inserted between existing pages.
 6. Update reference-page counts, scope statements, glossary terms, related course links and the central citation index.
@@ -66,8 +66,8 @@ Use this checklist whenever a course or reference page is added, removed, rename
 1. Add a numbered page in `reference/recovery-techniques/` paired to the diagnostic page.
 2. Separate research-supported, consensus, emerging and community-reported material; state when evidence applies only to a broader programme or another symptom group.
 3. Include practical person, supporter and clinician sections, episode or flare guidance, safety limits, reassessment triggers and continuing support when improvement is limited.
-4. Add the page and every indexed technique to the recovery collection index and master technique index.
-5. Add it to the reference-library index and site map, then update the former last page and all relevant cross-links.
+4. Add the page and every indexed technique to the recovery collection guide and master technique index.
+5. Add it to the reference-library landing page, detailed reference index and site map, then update the former last page and all relevant cross-links.
 6. Update reference-page counts, scope statements, central citations and any community source notebook affected by the new material.
 
 </details>
@@ -77,7 +77,7 @@ Use this checklist whenever a course or reference page is added, removed, rename
 
 1. Decide whether the old path needs a redirect or short moved-page notice.
 2. Repair collection-order navigation on the pages before and after it.
-3. Update its paired diagnostic or recovery page, collection README, reference-library README, master technique index and site map.
+3. Update its paired diagnostic or recovery page, collection README, separate collection index or guide, reference-library landing page, detailed reference index, master technique index and site map.
 4. Search the repository for the old title, filename and path; update course, glossary, research, community-notebook and project-documentation links.
 5. Update all affected collection counts and scope statements.
 6. Preserve stable citation IDs and exact source history even if a source becomes unused.
@@ -100,12 +100,14 @@ Use this checklist whenever a course or reference page is added, removed, rename
 <details>
 <summary><strong>8. Update indexes, maps and stated totals</strong></summary>
 
-1. Update the closest module or collection README first.
-2. Update the course or reference-library index, main README and site map.
-3. Update the detailed syllabus, planned repository structure, project status and other documents that describe the changed scope.
-4. Update master lists such as the technique index, glossary and citation index when their subject matter changes.
-5. Search for the old count and the old scope phrase, including forms such as “all 13,” “same 13,” “13 presentations” and “26 pages.”
-6. Use exact current totals rather than words such as “about” when the repository can be counted.
+1. Keep a folder `README.md` short and reader-facing: explain the folder and link its nested folders or major sections under **In this folder**.
+2. Keep detailed catalogues on separately named index pages so a growing file list does not overwhelm the folder landing page.
+3. Update the closest module overview, collection index or collection guide first.
+4. Update the course index or reference-library landing page, detailed reference index, main README and site map.
+5. Update the detailed syllabus, planned repository structure, project status and other documents that describe the changed scope.
+6. Update master lists such as the technique index, glossary and citation index when their subject matter changes.
+7. Search for the old count and the old scope phrase, including forms such as “all 13,” “same 13,” “13 presentations” and “26 pages.”
+8. Use exact current totals rather than words such as “about” when the repository can be counted.
 
 </details>
 
