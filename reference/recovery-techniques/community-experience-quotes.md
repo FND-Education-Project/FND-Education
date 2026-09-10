@@ -147,7 +147,26 @@ This table records the community sources selected for the *Long-Term Management*
 
 — The person described episodic leg problems while trying to continue attending school. [Source](https://www.reddit.com/r/FND/comments/10jxpsn/how_do_you_deal_with_leg_problems/)
 
-**Still unfilled with matched outcome pairs:** early weight-bearing, backward walking for ankle weakness, functional electrical stimulation and treadmill or harness practice.
+### Coverage against the detailed technique pages
+
+The [detailed functional-limb-weakness collection](functional_limb_weakness/README.md) now separates twelve techniques. The public accounts above support review of broad physiotherapy, activity, equipment and episodic experience; they do **not** supply two favourable and two unfavourable accounts for each technique.
+
+| Detailed technique | Current quotation coverage |
+|---|---|
+| Automatic and task-oriented movement | Broad physiotherapy reports only; technique-specific matched set not located |
+| External focus and divided attention | No technique-specific matched set located |
+| Supported loading and weight-bearing | No technique-specific matched set located |
+| Step initiation from weight shift | No technique-specific matched set located |
+| Foot sliding | No technique-specific matched set located |
+| Backward walking | No technique-specific matched set located |
+| Treadmill and body-weight-supported walking | No technique-specific matched set located |
+| Mirror and visual feedback | A relevant adverse mirror-attention account exists elsewhere in this notebook; no weakness-specific matched set located |
+| Meaningful upper-limb and two-handed tasks | No technique-specific matched set located |
+| Graded activity and reconditioning | Broad activity and fatigue accounts exist elsewhere in this notebook; no weakness-specific matched set located |
+| Electrical stimulation | No technique-specific matched set located |
+| Relapse and self-management planning | Episodic and broad physiotherapy accounts only; technique-specific matched set not located |
+
+Missing quotation sets are recorded rather than manufactured. Any future additions must remain in this review notebook, preserve context, distinguish the writer’s role and diagnosis, and stay separate from research evidence.
 
 ## Functional paralysis: candidate community reports
 
