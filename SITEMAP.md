@@ -339,6 +339,25 @@ Use the sections below to drill down into the course, reference library, researc
 </details>
 
 <details>
+<summary><strong>Functional Limb Weakness: Detailed Recovery Techniques</strong></summary>
+
+- [Detailed technique collection](reference/recovery-techniques/functional_limb_weakness/README.md)
+- [Automatic and task-oriented movement](reference/recovery-techniques/functional_limb_weakness/01-automatic-and-task-oriented-movement.md)
+- [External focus and divided attention](reference/recovery-techniques/functional_limb_weakness/02-external-focus-and-divided-attention.md)
+- [Supported loading and weight-bearing](reference/recovery-techniques/functional_limb_weakness/03-supported-loading-and-weight-bearing.md)
+- [Step initiation from weight shift](reference/recovery-techniques/functional_limb_weakness/04-step-initiation-from-weight-shift.md)
+- [Foot sliding for ankle and leg weakness](reference/recovery-techniques/functional_limb_weakness/05-foot-sliding-for-ankle-and-leg-weakness.md)
+- [Backward walking as a bridge](reference/recovery-techniques/functional_limb_weakness/06-backward-walking-as-a-bridge.md)
+- [Treadmill and body-weight-supported walking](reference/recovery-techniques/functional_limb_weakness/07-treadmill-and-body-weight-supported-walking.md)
+- [Mirror and visual feedback](reference/recovery-techniques/functional_limb_weakness/08-mirror-and-visual-feedback.md)
+- [Meaningful upper-limb and two-handed tasks](reference/recovery-techniques/functional_limb_weakness/09-meaningful-upper-limb-and-two-handed-tasks.md)
+- [Graded activity and reconditioning](reference/recovery-techniques/functional_limb_weakness/10-graded-activity-and-reconditioning.md)
+- [Electrical stimulation as an adjunct](reference/recovery-techniques/functional_limb_weakness/11-electrical-stimulation-as-an-adjunct.md)
+- [Relapse and self-management planning](reference/recovery-techniques/functional_limb_weakness/12-relapse-and-self-management-planning.md)
+
+</details>
+
+<details>
 <summary><strong>Functional Seizure Recovery Materials</strong></summary>
 
 - [Functional seizure materials index](reference/recovery-techniques/functional_seizures/README.md)

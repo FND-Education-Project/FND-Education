@@ -118,6 +118,25 @@ Part Six reuses established project sources rather than assigning duplicate IDs.
 | [Recognize progress across more than symptoms](../course/part-6-long-term-management/module-23-reviewing-progress/01-measuring-progress-and-choosing-next-steps.md) | [FND-CIT-0012](#fnd-cit-0012), [FND-CIT-0067](#fnd-cit-0067) |
 | [Choose next steps and finish the course](../course/part-6-long-term-management/module-23-reviewing-progress/02-choosing-next-steps-and-finishing-the-course.md) | [FND-CIT-0051](#fnd-cit-0051), [FND-CIT-0012](#fnd-cit-0012), [FND-CIT-0011](#fnd-cit-0011) |
 
+## Functional limb weakness detailed-technique citation use map
+
+The individual technique pages reuse stable project sources rather than assigning duplicate IDs. The consensus sources support selection principles and examples; programme-level trials do not prove each component independently.
+
+| Detailed technique page | Citation IDs |
+|---|---|
+| [Automatic and task-oriented movement](../reference/recovery-techniques/functional_limb_weakness/01-automatic-and-task-oriented-movement.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0029](#fnd-cit-0029) |
+| [External focus and divided attention](../reference/recovery-techniques/functional_limb_weakness/02-external-focus-and-divided-attention.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0029](#fnd-cit-0029) |
+| [Supported loading and weight-bearing](../reference/recovery-techniques/functional_limb_weakness/03-supported-loading-and-weight-bearing.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0029](#fnd-cit-0029) |
+| [Step initiation from weight shift](../reference/recovery-techniques/functional_limb_weakness/04-step-initiation-from-weight-shift.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0029](#fnd-cit-0029) |
+| [Foot sliding](../reference/recovery-techniques/functional_limb_weakness/05-foot-sliding-for-ankle-and-leg-weakness.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0029](#fnd-cit-0029) |
+| [Backward walking](../reference/recovery-techniques/functional_limb_weakness/06-backward-walking-as-a-bridge.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0029](#fnd-cit-0029) |
+| [Treadmill and body-weight-supported walking](../reference/recovery-techniques/functional_limb_weakness/07-treadmill-and-body-weight-supported-walking.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0029](#fnd-cit-0029) |
+| [Mirror and visual feedback](../reference/recovery-techniques/functional_limb_weakness/08-mirror-and-visual-feedback.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0029](#fnd-cit-0029) |
+| [Upper-limb and two-handed tasks](../reference/recovery-techniques/functional_limb_weakness/09-meaningful-upper-limb-and-two-handed-tasks.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0028](#fnd-cit-0028) |
+| [Graded activity and reconditioning](../reference/recovery-techniques/functional_limb_weakness/10-graded-activity-and-reconditioning.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0029](#fnd-cit-0029), [FND-CIT-0066](#fnd-cit-0066) |
+| [Electrical stimulation](../reference/recovery-techniques/functional_limb_weakness/11-electrical-stimulation-as-an-adjunct.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0029](#fnd-cit-0029) |
+| [Relapse and self-management planning](../reference/recovery-techniques/functional_limb_weakness/12-relapse-and-self-management-planning.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0012](#fnd-cit-0012), [FND-CIT-0028](#fnd-cit-0028) |
+
 ## FND-CIT-0001
 
 Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987)

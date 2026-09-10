@@ -14,15 +14,18 @@ This page provides two ways to find the same material. The first groups techniqu
 
 ### [Functional limb weakness](01-functional-limb-weakness.md)
 
-- **C** automatic and task-oriented movement retraining
-- **C** early weight-bearing and side-to-side weight shift
-- **C** external-focus and divided-attention practice
-- **C** familiar, meaningful upper-limb and two-handed tasks
-- **C** backward walking or foot-sliding practice for functional ankle weakness
-- **C** treadmill practice, sometimes with a harness or mirror
-- **C** graded general activity and reconditioning
-- **E** functional electrical stimulation or muscle stimulation as a rehabilitation adjunct
-- **R/C** individualized FND-informed physiotherapy and a relapse plan
+- [Automatic and task-oriented movement](functional_limb_weakness/01-automatic-and-task-oriented-movement.md) for movement that is more available inside a familiar action than during isolated strength testing. **[Clinical consensus]**
+- [External focus and divided attention](functional_limb_weakness/02-external-focus-and-divided-attention.md) for movement that becomes easier with a destination, rhythm or safe second task. **[Clinical consensus]**
+- [Supported loading and weight-bearing](functional_limb_weakness/03-supported-loading-and-weight-bearing.md) for difficulty accepting weight through a leg despite some available stance control. **[Clinical consensus]**
+- [Step initiation from weight shift](functional_limb_weakness/04-step-initiation-from-weight-shift.md) when standing is possible but the first step feels blocked. **[Clinical consensus]**
+- [Foot sliding](functional_limb_weakness/05-foot-sliding-for-ankle-and-leg-weakness.md) when floor contact makes limb advancement easier than toe clearance. **[Clinical consensus]**
+- [Backward walking as a bridge](functional_limb_weakness/06-backward-walking-as-a-bridge.md) when guarded backward stepping reveals a smoother pattern that may transfer to forward gait. **[Clinical consensus]**
+- [Treadmill and body-weight-supported walking](functional_limb_weakness/07-treadmill-and-body-weight-supported-walking.md) when external rhythm or partial unloading enables repeated stepping. **[Clinical consensus]**
+- [Mirror and visual feedback](functional_limb_weakness/08-mirror-and-visual-feedback.md) when selected visual information improves a task without increasing symptom monitoring. **[Clinical consensus; direct component evidence is limited]**
+- [Meaningful upper-limb and two-handed tasks](functional_limb_weakness/09-meaningful-upper-limb-and-two-handed-tasks.md) when the arm or hand contributes more naturally to stabilizing or manipulating an object. **[Clinical consensus]**
+- [Graded activity and reconditioning](functional_limb_weakness/10-graded-activity-and-reconditioning.md) when deconditioning or reduced tolerance adds to the motor limitation. **[Clinical consensus; no universal dosing formula]**
+- [Electrical stimulation as an adjunct](functional_limb_weakness/11-electrical-stimulation-as-an-adjunct.md) when a trained clinician identifies a specific movement that may benefit from a timed sensory or motor cue. **[Emerging and uncertain evidence]**
+- [Relapse and self-management planning](functional_limb_weakness/12-relapse-and-self-management-planning.md) for episodic, fluctuating or persistent weakness requiring a safety, fallback and return plan. **[Clinical consensus; supported as one component of structured rehabilitation]**
 
 ### [Functional tremor](02-functional-tremor.md)
 
@@ -350,7 +353,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 The pages cover the same 16 presentations as the current diagnostic-sign reference. They do not yet cover every reported FND-associated symptom. Hearing changes, bladder symptoms, breathing-pattern disorder outside functional cough/upper-airway symptoms, dissociation without seizures, pain, fatigue and several less common movement presentations require their own research package before symptom-specific technique pages are added.
 
-*Index created: August 25, 2026 · Functional paralysis and drop attacks added September 2, 2026 · Clinical and accessibility review pending*
+*Index created: August 25, 2026 · Functional paralysis and drop attacks added September 2, 2026 · Functional limb weakness entries expanded September 10, 2026 · Clinical and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Recovery Techniques](README.md) · [Reference Library](../README.md)
