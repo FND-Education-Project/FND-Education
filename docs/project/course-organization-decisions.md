@@ -4,7 +4,7 @@
 [Home](../../README.md) › Project Documentation › **Course Organization Decisions**
 <!-- NAV-BREADCRUMB:END -->
 
-The course has now been reorganized into 23 module folders containing 94 planned pages after lower-reading-load additions through Part Five. Every module has a short overview plus one to five focused pages. The earlier decision about using overview pages with focused child pages is therefore treated as accepted.
+The course has now been reorganized into 23 module folders containing 97 planned pages after lower-reading-load additions through Part Six. Every module has a short overview plus one to five focused pages. The earlier decision about using overview pages with focused child pages is therefore treated as accepted.
 
 The questions below are the revised decisions revealed by the actual page structure. Nothing needs to be decided before authoring can begin; the current organization is usable as it stands.
 
@@ -102,7 +102,7 @@ Every page already has a supporter section, while the planned mini-course covers
 
 ## Decision 12 — How should citations work on standalone pages?
 
-**Status: Citation structure selected for Module 1 and extended through Part Five.**
+**Status: Citation structure selected for Module 1 and extended through Part Six.**
 
 Every page will repeat the citations needed to support that page because readers may encounter it without the rest of the course. Repetition across pages is therefore intentional. Within one page, however, citations should not be repeated unnecessarily.
 
@@ -117,7 +117,7 @@ The selected structure is:
 7. Use paraphrase for the finished educational explanation; retain only quotations that are especially useful to the human author or reader.
 8. Keep a source section selective rather than exhaustive, adding evidence that changes or directly supports the page.
 
-The same structure now covers every reader-facing overview and focused page in Parts One through Four. Each overview shows the module reading order, navigation moves through the focused pages, and each page repeats only the compact source groups needed to stand alone. Stable citation IDs are tracked in the central index.
+The same structure now covers every reader-facing overview and focused page in Parts One through Six. Each overview shows the module reading order, navigation moves through the focused pages, and each page repeats only the compact source groups needed to stand alone. Stable citation IDs are tracked in the central index.
 
 ## Decision 13 — Where should available capacity and Spoon Theory be introduced?
 

@@ -6,15 +6,15 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-**Current stage: complete course structure, with reader-facing drafts through Part Five and human writing and review underway.**
+**Current stage: complete course structure, with reader-facing drafts through Part Six and human writing and review underway.**
 
-The repository contains all 94 course pages: 23 module overviews and 71 focused pages. Parts One through Five (Modules 1–20) contain reader-facing working drafts. Pages edited by the project lead are identified separately; the other pages remain clearly labelled as automatically generated. Modules 21–23 still contain shorter authoring templates. All temporary drafts require human writing or review, evidence checking, safety review and accessibility review.
+The repository contains all 97 course pages: 23 module overviews and 74 focused pages. Parts One through Six (Modules 1–23) contain reader-facing working drafts. Pages edited by the project lead are identified separately; the other pages remain clearly labelled as automatically generated. All temporary drafts require human writing or review, evidence checking, safety review and accessibility review.
 
 ## Completed foundation work
 
 - Established the evidence-first project voice, safety rules and accessibility goals.
 - Created the six-part, 23-module syllabus.
-- Organized the course into 23 module folders and 94 pages.
+- Organized the course into 23 module folders and 97 pages.
 - Kept the four reader-facing sections on every focused page.
 - Completed the initial Module 1 writing pattern.
 - Created a scoped authoring draft for every focused page.
@@ -34,16 +34,17 @@ The repository contains all 94 course pages: 23 module overviews and 71 focused 
 - Added one focused page to each Part Four module for care without local specialists, evaluating neuroplasticity claims, reviewing delayed worsening, and consent and trauma.
 - Rewrote Part Five as 13 short, illustrated layperson lessons with paired community quotations, personal reflection questions, practitioner research quotations and page-level citations.
 - Added one focused page to each Part Five module for equipment review, supporter wellbeing, healthcare communication repair, and describing variable function for accommodations or benefits.
+- Rewrote Part Six as eight short, illustrated layperson lessons with paired community quotations, personal reflection questions, practitioner research quotations and page-level citations.
+- Added focused pages for post-setback review, handbook use and privacy, and choosing next steps so those tasks do not have to be absorbed inside broader lessons.
 - Added a repository change and page maintenance policy covering course and reference additions, removals, navigation, indexes, evidence and verification.
 
 ## Current priorities
 
-1. Human-edit or review the temporary drafts in Modules 2–20 so the wording reflects the project lead's own voice and decisions.
-2. Convert Modules 21–23 from authoring templates into cited, reader-facing lessons using the lower-reading-load pattern tested in Parts Two through Five.
-3. Check every medical and safety statement against appropriate evidence and clinical guidance.
-4. Invite people with FND, supporters, clinicians and other reviewers to identify errors, missing perspectives and accessibility problems.
-5. Add lived-experience material only with clear consent and labelling.
-6. Review terminology, internal links, external links and page status before any page is marked published.
+1. Human-edit or review the temporary drafts in Modules 2–23 so the wording reflects the project lead's own voice and decisions.
+2. Check every medical and safety statement against appropriate evidence and clinical guidance.
+3. Invite people with FND, supporters, clinicians and other reviewers to identify errors, missing perspectives and accessibility problems.
+4. Add lived-experience material only with clear consent and labelling.
+5. Review terminology, internal links, external links and page status before any page is marked published.
 
 ## Status labels for course pages
 

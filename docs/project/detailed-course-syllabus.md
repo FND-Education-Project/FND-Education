@@ -46,7 +46,7 @@ A clinician or care-team member should be better able to:
 
 # Course Modules
 
-Each module title links to its complete syllabus page. The [course authoring index](../../course/README.md) links to the 23 module folders and their 94 overview and focused pages.
+Each module title links to its complete syllabus page. The [course authoring index](../../course/README.md) links to the 23 module folders and their 97 overview and focused pages.
 
 ## Part One: Understanding FND
 
@@ -90,6 +90,8 @@ Part Five continues the lower-reading-load pattern. One focused page has been ad
 - [**Module 20 — Work, Disability, and Community Participation**](syllabus/module-20-work-disability-and-community-participation.md) — Address meaningful participation across a wide range of ability without making employment the sole measure of recovery.
 
 ## Part Six: Long-Term Management
+
+Part Six completes the lower-reading-load draft. One focused page has been added to each module so later setback review, handbook upkeep and privacy, and choosing next steps can each be handled separately.
 
 - [**Module 21 — Setbacks, Relapse, and Changing Symptoms**](syllabus/module-21-setbacks-relapse-and-changing-symptoms.md) — Prepare readers to respond to fluctuation without assuming either disaster or “just FND.”
 - [**Module 22 — Building Your Personal FND Handbook**](syllabus/module-22-building-your-personal-fnd-handbook.md) — Combine the course’s practical work into one accessible personal reference.

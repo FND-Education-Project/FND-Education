@@ -42,6 +42,12 @@ This section should focus on how clinicians can help the patient understand the 
 
 - Assemble, test, and revise the handbook in print and/or accessible digital form.
 
+## Focused lesson split
+
+1. Choose what belongs in the handbook.
+2. Build a short safety and communication summary.
+3. Use, protect, and update the handbook.
+
 ## Support-person focus
 
 - Learning where the handbook is, how to use it, and what remains the person’s decision.

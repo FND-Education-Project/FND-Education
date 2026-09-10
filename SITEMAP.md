@@ -254,8 +254,9 @@ Use the sections below to drill down into the course, reference library, researc
 <summary><strong>Module 21: Setbacks, Relapse, and Changing Symptoms</strong></summary>
 
 - [Module overview](course/part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/README.md)
-- [Recognizing a Setback Versus Medical Change](course/part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/01-recognizing-a-setback-versus-medical-change.md)
-- [Responding, Recovering, and Updating the Plan](course/part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/02-responding-recovering-and-updating-the-plan.md)
+- [Recognize a Setback Versus Medical Change](course/part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/01-recognizing-a-setback-versus-medical-change.md)
+- [Respond During a Setback](course/part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/02-responding-recovering-and-updating-the-plan.md)
+- [Recover, Review, and Update the Plan](course/part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/03-recovering-reviewing-and-updating-the-plan.md)
 
 </details>
 
@@ -263,8 +264,9 @@ Use the sections below to drill down into the course, reference library, researc
 <summary><strong>Module 22: Building Your Personal FND Handbook</strong></summary>
 
 - [Module overview](course/part-6-long-term-management/module-22-building-your-personal-fnd-handbook/README.md)
-- [What Belongs in the Personal FND Handbook](course/part-6-long-term-management/module-22-building-your-personal-fnd-handbook/01-what-belongs-in-the-personal-fnd-handbook.md)
-- [Building, Using, and Reviewing the Handbook](course/part-6-long-term-management/module-22-building-your-personal-fnd-handbook/02-building-using-and-reviewing-the-handbook.md)
+- [Choose What Belongs in the Handbook](course/part-6-long-term-management/module-22-building-your-personal-fnd-handbook/01-what-belongs-in-the-personal-fnd-handbook.md)
+- [Build a Short Safety and Communication Summary](course/part-6-long-term-management/module-22-building-your-personal-fnd-handbook/02-building-using-and-reviewing-the-handbook.md)
+- [Use, Protect, and Update the Handbook](course/part-6-long-term-management/module-22-building-your-personal-fnd-handbook/03-using-protecting-and-updating-the-handbook.md)
 
 </details>
 
@@ -272,7 +274,8 @@ Use the sections below to drill down into the course, reference library, researc
 <summary><strong>Module 23: Reviewing Progress</strong></summary>
 
 - [Module overview](course/part-6-long-term-management/module-23-reviewing-progress/README.md)
-- [Measuring Progress and Choosing Next Steps](course/part-6-long-term-management/module-23-reviewing-progress/01-measuring-progress-and-choosing-next-steps.md)
+- [Recognize Progress Across More Than Symptoms](course/part-6-long-term-management/module-23-reviewing-progress/01-measuring-progress-and-choosing-next-steps.md)
+- [Choose Next Steps and Finish the Course](course/part-6-long-term-management/module-23-reviewing-progress/02-choosing-next-steps-and-finishing-the-course.md)
 
 </details>
 

@@ -42,6 +42,12 @@ This section should focus on how clinicians can help the patient understand the 
 
 - Write a tiered setback plan: early signs, immediate response, reassessment criteria, and recovery review.
 
+## Focused lesson split
+
+1. Recognize a setback versus medical change.
+2. Respond during a familiar setback.
+3. Recover, review, and update the plan without blame.
+
 ## Support-person focus
 
 - Using the written plan instead of improvising during distress.

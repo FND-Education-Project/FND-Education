@@ -42,6 +42,11 @@ This section should focus on how clinicians can help the patient understand the 
 
 - Complete a course review and update the Personal FND Handbook.
 
+## Focused lesson split
+
+1. Recognize progress across more than symptoms.
+2. Choose next steps and finish the course.
+
 ## Support-person focus
 
 - Review what support is useful, unwanted, unavailable, or unsustainable.

@@ -76,6 +76,21 @@ This table records the community sources selected for the *Living With FND* draf
 | Community participation | [Aid enables fuller life](https://www.reddit.com/r/FND/comments/106utzh/advice_needed_considering_using_mobility_aid_for/) | [Therapy goals shift toward function](https://www.reddit.com/r/FND/comments/1kchl1l/how_to_get_out_of_paralysis_epsiode/) |
 | Describing variable function | [Disconnected, collapsing legs](https://www.reddit.com/r/FND/comments/10jxpsn/how_do_you_deal_with_leg_problems/) | [Prompting for basic care](https://www.reddit.com/r/FND/comments/13rzn9o/memory_issues/) |
 
+## Part Six course-page source map
+
+This table records the community sources selected for the *Long-Term Management* draft. They remain candidate editorial choices and lived experience, not treatment, safety or prognosis evidence.
+
+| Course page | Candidate source 1 | Candidate source 2 |
+|---|---|---|
+| Setback versus medical change | [Later new tremor](https://www.reddit.com/r/FND/comments/1dde4p6/my_journey_with_functional_neurological_disorder/) | [Reassessment found severe pollen allergy](https://www.reddit.com/r/FND/comments/1ievray/sharing_my_success_story/) |
+| Responding during a setback | [Good-day surge and later crash](https://www.reddit.com/r/FND/comments/1qlwz51/exercise_and_fnd/) | [Testing boundaries while listening to the body](https://www.reddit.com/r/FND/comments/1ipf4gt/is_this_really_the_only_way/) |
+| Reviewing and updating the plan | [Quality-of-life help without a cure claim](https://www.reddit.com/r/FND/comments/1eskwez/doctors_think_it_is_all_caused_by_stress_and/) | [Harm from cure promises and blame](https://www.reddit.com/r/FND/comments/1skxv3t/am_i_the_only_one_who_hates_the_phrase_retraining/) |
+| Choosing handbook contents | [Little information at diagnosis](https://www.reddit.com/r/FND/comments/1c35psh/tips_for_navigating_the_nhs/) | [Individual treatment plan](https://www.reddit.com/r/FND/comments/11aerci/out_of_curiosity_have_any_of_you_actually_healed/) |
+| Safety and communication summary | [Partner's episode-safety role](https://www.reddit.com/r/FND/comments/1k8is0m/support_for_my_wife/) | [Planning communication before distress](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/) |
+| Using and updating the handbook | [Prompting for basic care](https://www.reddit.com/r/FND/comments/13rzn9o/memory_issues/) | [Difficulty placing events in time](https://www.reddit.com/r/FND/comments/1mnw4fd/dae_have_functional_cognitive_disorder/) |
+| Recognizing broader progress | [Aid enables fuller life](https://www.reddit.com/r/FND/comments/106utzh/advice_needed_considering_using_mobility_aid_for/) | [Therapy goals shift toward function](https://www.reddit.com/r/FND/comments/1kchl1l/how_to_get_out_of_paralysis_epsiode/) |
+| Choosing next steps | [PT and OT reported helpful](https://www.reddit.com/r/FND/comments/q3hz2r/im_so_embarrassed/) | [Six months of PT without progress](https://www.reddit.com/r/FND/comments/18gbf7f/how_did_you_regain_your_ability_to_walk/) |
+
 ### Work hours and sustainable capacity
 
 **Difficult pattern — person with symptoms**
@@ -1098,7 +1113,7 @@ Before adding or replacing a quotation, confirm all of the following:
 7. A drawback is not mislabeled as complete failure, and an early flare is not mislabeled as a final outcome.
 8. New material remains grouped under the symptom first and then the exact indexed technique or support response it concerns.
 
-*Draft created: August 25, 2026 · Reorganized by symptom and technique September 1, 2026 · Functional paralysis and drop-attack sources added September 2, 2026 · Part Three and Part Four sources added September 5, 2026 · Part Five source map added September 8, 2026 · Community, clinical and privacy review pending*
+*Draft created: August 25, 2026 · Reorganized by symptom and technique September 1, 2026 · Functional paralysis and drop-attack sources added September 2, 2026 · Part Three and Part Four sources added September 5, 2026 · Part Five source map added September 8, 2026 · Part Six source map added September 9, 2026 · Community, clinical and privacy review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)

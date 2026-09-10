@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Four boxes in a safety and communication summary</title>
+  <desc id="desc">The one-page summary states what is usual, what helps, what to avoid, and when to get more help.</desc>
+  <rect width="900" height="330" rx="24" fill="#f3f0f8"/>
+  <text x="450" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324d">A front page for low-capacity moments</text>
+  <g font-family="Arial, sans-serif" fill="#17324d" text-anchor="middle">
+    <rect x="35" y="92" width="195" height="125" rx="16" fill="#fff" stroke="#39738c" stroke-width="3"/><text x="133" y="133" font-size="21" font-weight="700">Usual</text><text x="133" y="171" font-size="15">pattern · recovery</text>
+    <rect x="247" y="92" width="195" height="125" rx="16" fill="#fff" stroke="#18785b" stroke-width="3"/><text x="345" y="133" font-size="21" font-weight="700">Helps</text><text x="345" y="171" font-size="15">safe agreed actions</text>
+    <rect x="459" y="92" width="195" height="125" rx="16" fill="#fff" stroke="#a66a13" stroke-width="3"/><text x="557" y="133" font-size="21" font-weight="700">Avoid</text><text x="557" y="171" font-size="15">harm · lost dignity</text>
+    <rect x="671" y="92" width="195" height="125" rx="16" fill="#fff" stroke="#9a3f36" stroke-width="3"/><text x="769" y="128" font-size="19" font-weight="700">Get help</text><text x="769" y="153" font-size="19" font-weight="700">when…</text><text x="769" y="185" font-size="15">observable change</text>
+  </g>
+  <text x="450" y="276" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#17324d">A summary supports assessment. It cannot rule out an emergency.</text>
+</svg>

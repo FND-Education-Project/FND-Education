@@ -6,9 +6,9 @@
 
 > **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-This directory contains the complete structure and initial authoring drafts for the FND Education course: 23 module overviews and 71 focused pages, for 94 course pages in total. Each module begins with a short overview and links to one to five focused articles.
+This directory contains the complete structure and initial authoring drafts for the FND Education course: 23 module overviews and 74 focused pages, for 97 course pages in total. Each module begins with a short overview and links to one to five focused articles.
 
-Parts One through Five (Modules 1–20) now contain reader-facing working drafts based on the detailed human-planned syllabus and the wording pattern established in Module 1. Pages personally edited by the project lead are marked separately from temporary automatically generated drafts. Modules 21–23 remain shorter authoring templates and starting text. Contributors and reviewers are invited to help with human writing, evidence, safety, accessibility, lived experience and plain-language editing.
+Parts One through Six (Modules 1–23) now contain reader-facing working drafts based on the detailed human-planned syllabus and the wording pattern established in Module 1. Pages personally edited by the project lead are marked separately from temporary automatically generated drafts. Contributors and reviewers are invited to help with human writing, evidence, safety, accessibility, lived experience and plain-language editing.
 
 Every focused article uses the same four sections:
 
@@ -58,9 +58,9 @@ The clinician section focuses on practical usefulness to the patient: helping th
 
 ## Part Six: Long-Term Management
 
-- [Setbacks, Relapse, and Changing Symptoms](part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/README.md) — 3 pages
-- [Build Your Personal FND Handbook](part-6-long-term-management/module-22-building-your-personal-fnd-handbook/README.md) — 3 pages
-- [Review Progress and Choose Next Steps](part-6-long-term-management/module-23-reviewing-progress/README.md) — 2 pages
+- [Setbacks, Relapse, and Changing Symptoms](part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/README.md) — 4 pages
+- [Build Your Personal FND Handbook](part-6-long-term-management/module-22-building-your-personal-fnd-handbook/README.md) — 4 pages
+- [Review Progress and Choose Next Steps](part-6-long-term-management/module-23-reviewing-progress/README.md) — 3 pages
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Start with Module 1](part-1-understanding-fnd/module-01-what-fnd-is/README.md)
