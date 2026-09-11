@@ -39,9 +39,23 @@ Compare useful function, not maximum strength: Was the action smoother? Did it r
 
 First become safe and reduce the demand that is making the situation harder. Then use one rehearsed external cue. If overload is part of the person’s pattern, adding conversation or mental arithmetic would contradict the purpose; the right cue may instead be a single quiet visual target.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Use the wording agreed in therapy. One calm cue—“to the blue tape”—is more useful than continuous coaching. Do not surprise the person with questions to “catch” automatic movement. If conversation or noise worsens their pattern, reduce it. External focus is collaborative rehabilitation, not covert distraction.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -71,6 +85,13 @@ Measure the meaningful movement plus dual-task cost when relevant. A better-look
 ### Safety and evidence boundary
 
 Do not introduce divided attention during unassessed standing, near stairs, in traffic, during driving or where hand failure could involve hot, sharp or heavy objects. Stop if the cue increases dissociation, panic, migraine, marked cognitive fatigue or post-activity worsening. Specialist consensus supports redirected attention; the exact cue and dual-task dose have not been validated as a stand-alone treatment. (*citations* [1](#citation-1), [2](#citation-2))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: Supported loading and weight-bearing](03-supported-loading-and-weight-bearing.md)

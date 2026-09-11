@@ -42,9 +42,23 @@ Surface electrodes detect a mixture of electrical signals near the skin. **Cross
 
 Ask what the equipment measures and what it cannot measure. Stop if the adhesive irritates the skin, the display increases distress or symptom checking, or the exercise causes pain or sustained worsening. Do not buy a consumer EMG device as a substitute for assessment and instruction.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Treat the display as private health information. Do not interpret, photograph or compare readings unless the person has asked you to take part. A higher signal does not mean the person is not trying to relax. Help carry the clinician’s functional cue into the task, not the device number into everyday surveillance.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -77,6 +91,13 @@ Measure the functional task, perceived effort, pain and carryover first. Report 
 ### Safety and evidence boundary
 
 Do not place routine surface electrodes over broken or infected skin; follow device-specific precautions and infection-control procedures. Distinguish this low-channel treatment feedback from specialist multichannel surface-EMG/accelerometry testing used to support tremor diagnosis. Consensus recommends EMG biofeedback as a possible aid to muscle relaxation in tremor, but dedicated controlled functional-tremor treatment evidence is lacking. The small retrainment study used externally paced tactile/visual feedback rather than surface-EMG feedback. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: Individualized whole-person treatment](08-individualized-whole-person-treatment.md)

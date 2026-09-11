@@ -46,9 +46,23 @@ Do not force a painful joint into neutral. “Good alignment” is not one shape
 
 With clinician supervision, a person whose leg tremor appears in standing may practise gentle side-to-side or forward–back weight transfer, then gradually make the shift smaller toward quiet standing. This should start with an appropriate support and falls plan. It is not suitable as an unsupervised test when knees buckle, consciousness changes or the cause of shaking is uncertain.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Help position the chair, object or agreed support. Ask before touching the shoulder, arm, pelvis or leg. Use one practical cue such as “bring the cup closer” rather than a stream of corrections about posture. Do not pin the limb, brace it by force or remove a support to test independence.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -79,6 +93,13 @@ Measure task reliability, support, pain, perceived effort, standing tolerance, w
 ### Safety and evidence boundary
 
 Avoid forced end-range positioning, prolonged bracing and unguarded balance experiments. Reassess for pain, swelling, injury, joint instability or a new neurological pattern. Specialist consensus gives posture-change examples for upper- and lower-limb functional tremor, but direct trials have not isolated this component or defined a universal alignment. (*citations* [1](#citation-1), [2](#citation-2))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: Contract–release and muscle relaxation](05-contract-release-and-muscle-relaxation.md)

@@ -37,9 +37,23 @@ Begin with a short step and the easier direction. Do not practise near stairs, t
 
 If a familiar episodic weakness begins while walking, safety comes before step practice. Use the usual aid or seat. A rehearsed weight-shift cue can be tried only after safe support is established and only if it is already part of the person’s plan.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Use the agreed cue and guarding position. Do not pull the moving foot forward or drag the person by the arms. Give time for the stance leg to accept weight. If the step does not come, return to the safe starting position rather than increasing pressure or repeating instructions rapidly.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -70,6 +84,13 @@ Measure latency to initiate, assistance, number of continuous sequences, stance-
 ### Safety and evidence boundary
 
 Guard against a fall in the expected direction without blocking the intended weight shift. Consider orthostatic intolerance, pain, joint instability and unpredictable drop attacks. This is a consensus-derived movement-retraining method, not a separately proven treatment and not a diagnostic test. (*citations* [1](#citation-1), [2](#citation-2))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: Foot sliding for ankle and leg weakness](05-foot-sliding-for-ankle-and-leg-weakness.md)

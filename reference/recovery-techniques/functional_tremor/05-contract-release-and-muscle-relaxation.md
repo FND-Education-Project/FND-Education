@@ -46,9 +46,23 @@ Progressive muscle relaxation may move through several body regions, but a long 
 
 If directing attention to muscles makes the tremor stronger or causes distress, an external target or competing rhythm may fit better. Do not contract through acute injury, severe pain, a recently operated area or a joint that is not stable. Ask the treating team how to adapt for dystonia, spasticity, hypermobility or a heart, vascular or respiratory condition that makes sustained straining unsafe.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Use the agreed cue—perhaps “soften the grip” or “let the forearm rest”—once. Do not repeatedly tell the person to relax, massage or stretch the limb without consent, or interpret continued shaking as refusal. Help move the task to a supported surface and allow rest.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -79,6 +93,13 @@ Measure task ease, grip or support needs, pain, fatigue, breathing, movement con
 ### Safety and evidence boundary
 
 Avoid maximal isometrics, Valsalva manoeuvre (straining while holding the breath), forceful stretching and repeated activation of painful or unstable structures. Contract–release and progressive muscle relaxation are listed in specialist consensus for upper-limb functional tremor, but this component has not been established by a dedicated controlled trial. (*citation* [1](#citation-1))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: Mirror and visual feedback](06-mirror-and-visual-feedback.md)

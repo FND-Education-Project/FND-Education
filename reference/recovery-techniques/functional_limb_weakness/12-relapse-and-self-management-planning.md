@@ -39,11 +39,25 @@ When weakness is present most of the time, planning may focus on a **baseline ve
 
 Seek appropriate assessment for new or substantially different weakness, new facial droop or speech change, severe headache, altered awareness, loss of bladder or bowel control, saddle numbness, fever, injury, repeated falls, skin breakdown or sustained loss of independence. A previous FND diagnosis does not identify the cause of every new event.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Know where the written plan and equipment are. Ask before giving physical help. During an event, use one agreed cue and avoid rapid questions, strength testing or arguments about whether the person moved earlier. Afterward, help with the planned return and practical recovery needs. Record facts needed for care without turning home life into surveillance.
 
 The plan should also name supporter limits and backup contacts. One person should not become the only safety system.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -75,6 +89,13 @@ Track falls, injuries, episode duration, time to resume the activity, assistance
 ### Evidence boundary
 
 Relapse planning and self-management are recommended in physiotherapy and occupational-therapy consensus. Trials test packages of care and do not establish this plan as an isolated treatment or guarantee prevention of setbacks. Patient-centred outcomes should include daily activity, independence and quality of life, not only symptom counts. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Previous:** [Electrical stimulation as an adjunct](11-electrical-stimulation-as-an-adjunct.md) · **Index:** [Detailed techniques](README.md)

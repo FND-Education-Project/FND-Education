@@ -44,11 +44,25 @@ Do not start with boiling water, knives, glass, heavy cookware or an unguarded s
 
 The task can still be successful. A lidded cup, two-handed hold, non-slip mat, forearm support, voice input or other adaptation may allow participation while retraining continues. Equipment is not failure. If the task consistently worsens pain, fatigue or tremor without carryover, the dose or technique should change.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Set up the destination and ask about the preferred amount of help. Give an outcome cue—“put the card in this box”—instead of repeated commands to steady the hand. Avoid staring at the tremor, taking the object away without asking or escalating immediately to a harder task after one successful attempt.
 
 Keep adaptations available. Supporting participation now and practising change can happen at the same time.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -80,6 +94,13 @@ Measure completion, accuracy, assistance, spills/drops, time, effort, pain, fati
 ### Safety and evidence boundary
 
 Assess sensation, vision, neglect, pain, joint stability, grip reliability, orthostatic symptoms and falls risk as relevant. Keep hazardous kitchen, workshop and medication tasks out of early experiments. Task-oriented and diverted-attention rehabilitation is supported by specialist consensus and included in broader FND physiotherapy programmes, but no trial isolates the exact exercises on this page. (*citations* [1](#citation-1), [2](#citation-2))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: Posture, alignment and movement-pattern adjustment](04-posture-alignment-and-movement-pattern-adjustment.md)

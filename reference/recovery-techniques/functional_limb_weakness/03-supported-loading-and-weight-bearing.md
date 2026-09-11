@@ -35,9 +35,23 @@ With a clinician’s safety setup, begin in a position where both feet can feel 
 
 Use a visual target or the purpose of the task, such as reaching for an object on the counter. Repeat a tolerable amount. Stop for a near fall, sharp or increasing joint pain, new swelling, marked dizziness, faintness, chest pain or a new neurological pattern.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Do not hold the person by the weak arm or pull them upright. Use the transfer and guarding method taught by the clinician. Keep the mobility aid and stable surface in the agreed position; a wheeled or unstable object is not a substitute. Let the person control how much weight is transferred. A smaller shift may be the correct dose.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -69,6 +83,13 @@ Record load tolerance, assistance, duration, number of controlled shifts, knee-c
 ### Safety and evidence boundary
 
 Follow surgical, fracture, inflammatory-joint, skin, vascular and weight-bearing precautions. Stop for syncope or presyncope, acute injury, unsafe recurrent knee collapse or a new symptom requiring assessment. Do not remove an aid simply to enact a theory about FND. Specialist consensus supports early weight-bearing in suitable functional weakness; the exact progression has not been independently tested. (*citations* [1](#citation-1), [2](#citation-2))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: Step initiation from weight shift](04-step-initiation-from-weight-shift.md)

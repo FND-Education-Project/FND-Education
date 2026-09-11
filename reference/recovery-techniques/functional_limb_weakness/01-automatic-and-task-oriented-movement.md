@@ -43,11 +43,25 @@ Change only one demand at a time: distance, object weight, speed, number of repe
 
 For persistent weakness, use a repeatable dose and connect practice to ordinary life. During a familiar episode, first become safe and reduce relevant load; then use one previously rehearsed task cue. Do not attempt a new standing or walking exercise during an unpredictable flare.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Ask what result the person is aiming for: “Shall we put the towel on the shelf?” is usually more useful than “Move your weak arm.” Arrange the task, give the agreed amount of physical help and let the person lead the movement. Do not pull the arm, lift under the shoulder, force the knee straight or celebrate a successful repetition by demanding that it be reproduced as proof.
 
 Support consistency without policing. A shorter version, an adaptation or stopping early can be part of a good plan when pain, fatigue or another symptom changes the person’s available capacity.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -78,6 +92,13 @@ Measure task completion, assistance, movement continuity, compensatory effort, p
 ### Safety and evidence boundary
 
 Screen for joint instability, fracture, tendon injury, painful shoulder subluxation, unsafe grip around hot or sharp objects, falls risk and other relevant contraindications. Automatic movement is a treatment principle, not permission to conceal risk or overload the person. Specialist consensus describes task-oriented automatic movement, but no trial establishes this exact task sequence as independently effective. (*citations* [1](#citation-1), [2](#citation-2))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: External focus and divided attention](02-external-focus-and-divided-attention.md)

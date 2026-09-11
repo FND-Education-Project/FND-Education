@@ -374,6 +374,22 @@ Use the sections below to drill down into the course, reference library, researc
 </details>
 
 <details>
+<summary><strong>Functional Jerks or Myoclonus: Detailed Recovery Techniques</strong></summary>
+
+- [Detailed technique collection](reference/recovery-techniques/functional_jerks_and_myoclonus/README.md)
+- [Pattern and warning mapping](reference/recovery-techniques/functional_jerks_and_myoclonus/01-pattern-and-warning-mapping.md)
+- [Early attention redirection](reference/recovery-techniques/functional_jerks_and_myoclonus/02-early-attention-redirection.md)
+- [Competing and continuous movement](reference/recovery-techniques/functional_jerks_and_myoclonus/03-competing-and-continuous-movement.md)
+- [Pain and muscle-overactivity management](reference/recovery-techniques/functional_jerks_and_myoclonus/04-pain-and-muscle-overactivity-management.md)
+- [Meaningful functional-task practice](reference/recovery-techniques/functional_jerks_and_myoclonus/05-meaningful-functional-task-practice.md)
+- [Graded activity and load planning](reference/recovery-techniques/functional_jerks_and_myoclonus/06-graded-activity-and-load-planning.md)
+- [Arousal and startle regulation](reference/recovery-techniques/functional_jerks_and_myoclonus/07-arousal-and-startle-regulation.md)
+- [Episode safety and relapse planning](reference/recovery-techniques/functional_jerks_and_myoclonus/08-episode-safety-and-relapse-planning.md)
+- [Individualized multidisciplinary treatment](reference/recovery-techniques/functional_jerks_and_myoclonus/09-individualized-multidisciplinary-treatment.md)
+
+</details>
+
+<details>
 <summary><strong>Functional Seizure Recovery Materials</strong></summary>
 
 - [Functional seizure materials index](reference/recovery-techniques/functional_seizures/README.md)

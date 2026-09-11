@@ -50,11 +50,25 @@ With persistent tremor, the clinician may practise a reproducible entry rhythm a
 
 Direct rhythmic practice may increase self-monitoring, pain or fatigue for some people. A competing rhythm or external task may be a better entry point. Head, trunk and voice tremor should not be copied into large deliberate movements without specialist assessment. A new voice tremor, swallowing change or breathing difficulty needs appropriate evaluation.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Help create a safe surface and remove hazards. If the person has asked you to give a beat, use the exact pace and wording agreed with the clinician; do not speed it up, turn it into a performance test or demand that the tremor stop. Praise completion of the practice or return to the activity rather than the absence of visible shaking.
 
 Do not hold the limb down. If the person reports pain, overload or increasing loss of control, help them stop and use the fallback plan.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -90,6 +104,13 @@ Measure functional task completion, time or assistance, perceived control, effor
 ### Safety and evidence boundary
 
 Protect painful or unstable joints and avoid large-amplitude movement at the cervical spine, jaw or larynx. The published study included ten people with chronic functional hand tremor, used specialized synchronous tactile and visual pacing, and lacked a control group. It supports feasibility and short-term signal, not a universal protocol or comparative effectiveness. Specialist consensus supplies broader clinical examples. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: Competing rhythm and entrainment practice](02-competing-rhythm-and-entrainment-practice.md)
