@@ -260,7 +260,23 @@ One discussion labels a catatonic seizure-like event as a drop attack; another a
 
 **Caregiver gap:** no qualifying public caregiver account focused specifically on functional tremor treatment was located. The second favourable quotation does show a person teaching supporters a useful redirection cue.
 
-**Still unfilled with matched outcome pairs:** formal tremor retrainment, EMG biofeedback, contract–release relaxation and posture adjustment.
+### Coverage against the detailed technique pages
+
+| Detailed technique | Current quotation coverage |
+|---|---|
+| Voluntary tremor retrainment | No matched outcome pair located |
+| Competing rhythm and entrainment practice | No rhythm-specific matched outcome pair located |
+| External focus and meaningful-task practice | Two favourable individual accounts above; no matched no-benefit account |
+| Posture, alignment and movement-pattern adjustment | No matched outcome pair located |
+| Contract–release and muscle relaxation | No matched outcome pair located |
+| Mirror and visual feedback | No matched outcome pair located |
+| Surface-EMG biofeedback | No matched outcome pair located |
+| Individualized whole-person treatment | No tremor-specific matched outcome pair located |
+| Relapse and self-management planning | No tremor-specific matched outcome pair located |
+
+The two favourable reports describe individual experiences with redirected attention or an absorbing hand task. They do not establish effectiveness, apply to every tremor or supply evidence for the other eight techniques.
+
+**Still unfilled with matched outcome pairs:** all nine detailed techniques. External-focus practice has favourable material but still lacks a matched no-benefit or difficult-experience account tied to that technique.
 
 ## Functional jerks or myoclonus
 

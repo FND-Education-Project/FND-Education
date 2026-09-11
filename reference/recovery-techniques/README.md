@@ -13,6 +13,7 @@ These pages collect research-informed rehabilitation, treatment and self-managem
 - **[Technique index](technique-index.md)** — browse recovery and management techniques by symptom or alphabetically, with evidence labels.
 - **[Collection and safety guide](collection-guide.md)** — understand the evidence labels, episode and flare guidance, safety limits and reassessment rules used throughout the collection.
 - **[Functional-limb-weakness detailed techniques](functional_limb_weakness/README.md)** — open the first symptom-specific collection of full technique pages, including clinician procedures and plain-language anatomy.
+- **[Functional-tremor detailed techniques](functional_tremor/README.md)** — open nine full pages covering retrainment, competing rhythm, task focus, posture, relaxation, visual and EMG feedback, coordinated care and relapse planning.
 - **[Functional-seizure learning materials](functional_seizures/README.md)** — explore the CBT resource map and five planned unified booklets.
 - **[Community experience quotations](community-experience-quotes.md)** — review lived-experience quotations organized by symptom and technique.
 - **[Episode and flare quotation review](episodic-flare-community-quote-review.md)** — review candidate community accounts about symptom onset, short episodes and longer flares.

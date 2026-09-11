@@ -39,6 +39,7 @@ The repository contains all 97 course pages: 23 module overviews and 74 focused 
 - Separated the long asset and reference indexes from their short folder guides, while keeping the compact crossword index directly in the puzzles README.
 - Added a repository change and page maintenance policy covering course and reference additions, removals, navigation, indexes, evidence and verification.
 - Expanded functional limb weakness into twelve standalone recovery-technique pages with appearance-specific selection guidance, clinician procedures, proper anatomical terms with plain-language translations, and explicit evidence limits; merged the project lead's diagnostic draft with the current safety and scope boundaries.
+- Expanded functional tremor into nine standalone recovery-technique pages, separating visual from surface-EMG feedback and adding phenotype-specific anatomy, clinician procedures, plain-language translations, flare guidance and explicit evidence limits.
 
 ## Current priorities
 

@@ -358,6 +358,22 @@ Use the sections below to drill down into the course, reference library, researc
 </details>
 
 <details>
+<summary><strong>Functional Tremor: Detailed Recovery Techniques</strong></summary>
+
+- [Detailed technique collection](reference/recovery-techniques/functional_tremor/README.md)
+- [Voluntary tremor retrainment](reference/recovery-techniques/functional_tremor/01-voluntary-tremor-retraining.md)
+- [Competing rhythm and entrainment practice](reference/recovery-techniques/functional_tremor/02-competing-rhythm-and-entrainment-practice.md)
+- [External focus and meaningful-task practice](reference/recovery-techniques/functional_tremor/03-external-focus-and-meaningful-task-practice.md)
+- [Posture, alignment and movement-pattern adjustment](reference/recovery-techniques/functional_tremor/04-posture-alignment-and-movement-pattern-adjustment.md)
+- [Contract–release and muscle relaxation](reference/recovery-techniques/functional_tremor/05-contract-release-and-muscle-relaxation.md)
+- [Mirror and visual feedback](reference/recovery-techniques/functional_tremor/06-mirror-and-visual-feedback.md)
+- [Surface-EMG biofeedback](reference/recovery-techniques/functional_tremor/07-surface-emg-biofeedback.md)
+- [Individualized whole-person treatment](reference/recovery-techniques/functional_tremor/08-individualized-whole-person-treatment.md)
+- [Relapse and self-management planning](reference/recovery-techniques/functional_tremor/09-relapse-and-self-management-planning.md)
+
+</details>
+
+<details>
 <summary><strong>Functional Seizure Recovery Materials</strong></summary>
 
 - [Functional seizure materials index](reference/recovery-techniques/functional_seizures/README.md)
