@@ -137,6 +137,22 @@ The individual technique pages reuse stable project sources rather than assignin
 | [Electrical stimulation](../reference/recovery-techniques/functional_limb_weakness/11-electrical-stimulation-as-an-adjunct.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0029](#fnd-cit-0029) |
 | [Relapse and self-management planning](../reference/recovery-techniques/functional_limb_weakness/12-relapse-and-self-management-planning.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0012](#fnd-cit-0012), [FND-CIT-0028](#fnd-cit-0028) |
 
+## Functional tremor detailed-technique citation use map
+
+The individual tremor pages reuse stable project sources. The Espay study is a small uncontrolled proof-of-concept study of externally paced hand-tremor retrainment; it did not test surface-EMG biofeedback. Consensus supports the other practical components, while programme-level trials do not prove any one technique independently.
+
+| Detailed technique page | Citation IDs |
+|---|---|
+| [Voluntary tremor retrainment](../reference/recovery-techniques/functional_tremor/01-voluntary-tremor-retraining.md) | [FND-CIT-0031](#fnd-cit-0031), [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0019](#fnd-cit-0019) |
+| [Competing rhythm and entrainment practice](../reference/recovery-techniques/functional_tremor/02-competing-rhythm-and-entrainment-practice.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0019](#fnd-cit-0019), [FND-CIT-0031](#fnd-cit-0031) |
+| [External focus and meaningful-task practice](../reference/recovery-techniques/functional_tremor/03-external-focus-and-meaningful-task-practice.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0029](#fnd-cit-0029) |
+| [Posture, alignment and movement-pattern adjustment](../reference/recovery-techniques/functional_tremor/04-posture-alignment-and-movement-pattern-adjustment.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0019](#fnd-cit-0019) |
+| [Contract–release and muscle relaxation](../reference/recovery-techniques/functional_tremor/05-contract-release-and-muscle-relaxation.md) | [FND-CIT-0028](#fnd-cit-0028) |
+| [Mirror and visual feedback](../reference/recovery-techniques/functional_tremor/06-mirror-and-visual-feedback.md) | [FND-CIT-0028](#fnd-cit-0028) |
+| [Surface-EMG biofeedback](../reference/recovery-techniques/functional_tremor/07-surface-emg-biofeedback.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0019](#fnd-cit-0019), [FND-CIT-0031](#fnd-cit-0031) |
+| [Individualized whole-person treatment](../reference/recovery-techniques/functional_tremor/08-individualized-whole-person-treatment.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0029](#fnd-cit-0029), [FND-CIT-0030](#fnd-cit-0030) |
+| [Relapse and self-management planning](../reference/recovery-techniques/functional_tremor/09-relapse-and-self-management-planning.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0029](#fnd-cit-0029) |
+
 ## FND-CIT-0001
 
 Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987)
@@ -321,7 +337,7 @@ Use this source for early controlled evidence on combined specialized physiother
 
 Espay AJ, Edwards MJ, Oggioni GD, et al. Tremor retrainment as therapeutic strategy in psychogenic (functional) tremor. *Parkinsonism & Related Disorders*. 2014;20(6):647–650. [https://doi.org/10.1016/j.parkreldis.2014.02.029](https://doi.org/10.1016/j.parkreldis.2014.02.029)
 
-Use this source for proof-of-concept evidence on tremor retrainment and biofeedback. Its small, uncontrolled design does not establish comparative effectiveness or suitability for every functional tremor.
+Use this source for proof-of-concept evidence on externally paced hand-tremor retrainment using tactile and visual feedback. Its sample of ten people and uncontrolled design do not establish comparative effectiveness or suitability for every functional tremor. Do not cite it as a trial of surface-EMG biofeedback.
 
 ## FND-CIT-0032
 

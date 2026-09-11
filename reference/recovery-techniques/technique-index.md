@@ -29,12 +29,15 @@ This page provides two ways to find the same material. The first groups techniqu
 
 ### [Functional tremor](02-functional-tremor.md)
 
-- **R/E** tremor retrainment using voluntary rhythm and gradual slowing
-- **C** competing rhythmic movement in another limb
-- **C** external-focus and meaningful-task practice
-- **C** posture and movement-pattern adjustment
-- **C** contract–release relaxation, mirror feedback or EMG biofeedback
-- **R/C** individualized FND-informed physiotherapy, with psychological treatment when relevant
+- [Voluntary tremor retrainment](functional_tremor/01-voluntary-tremor-retraining.md) for a rhythmic limb movement that can be deliberately reshaped by changing its speed or size and then slowing it toward stillness. **[Emerging evidence from a small proof-of-concept study; supported by clinical consensus]**
+- [Competing rhythm and entrainment practice](functional_tremor/02-competing-rhythm-and-entrainment-practice.md) when another limb’s beat changes tremor enough to create a bridge into function. **[Clinical consensus; informed by entrainment research, with limited direct component evidence]**
+- [External focus and meaningful-task practice](functional_tremor/03-external-focus-and-meaningful-task-practice.md) when handling a safe object or moving toward a result is more effective than monitoring the tremor. **[Clinical consensus]**
+- [Posture, alignment and movement-pattern adjustment](functional_tremor/04-posture-alignment-and-movement-pattern-adjustment.md) when a repeatable joint position, grip, support or loading pattern changes tremor interference. **[Clinical consensus]**
+- [Contract–release and muscle relaxation](functional_tremor/05-contract-release-and-muscle-relaxation.md) when excess bracing or co-contraction adds effort around the tremoring joint. **[Clinical consensus; direct component evidence is limited]**
+- [Mirror and visual feedback](functional_tremor/06-mirror-and-visual-feedback.md) when brief visual information improves alignment, rhythm or weight distribution without increasing monitoring. **[Clinical consensus; direct component evidence is limited]**
+- [Surface-EMG biofeedback](functional_tremor/07-surface-emg-biofeedback.md) when a clinician-selected muscle-activity signal supports release of unnecessary recruitment and functional transfer. **[Clinical consensus; direct functional-tremor treatment evidence is limited]**
+- [Individualized whole-person treatment](functional_tremor/08-individualized-whole-person-treatment.md) when motor rehabilitation needs coordination with occupational, psychological, communication or other care. **[Programme-level research and multidisciplinary clinical consensus; no single combination fits everyone]**
+- [Relapse and self-management planning](functional_tremor/09-relapse-and-self-management-planning.md) for a familiar episodic, fluctuating or persistent tremor requiring safety, fallback and graded-return instructions. **[Clinical consensus; supported as one component of structured rehabilitation]**
 
 ### [Functional jerks or myoclonus](03-functional-jerks-and-myoclonus.md)
 
@@ -339,7 +342,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Treadmill, mirror or body-weight-support walking** — Limb weakness; functional gait disorder. **C**
 
-**Tremor retrainment by changing voluntary rhythm, amplitude and speed** — Functional tremor. **R/E**
+**[Voluntary tremor retrainment by changing rhythm, amplitude and speed](functional_tremor/01-voluntary-tremor-retraining.md)** — Functional tremor. **[Emerging evidence from a small proof-of-concept study; supported by clinical consensus]**
 
 **Trigger, warning-sign and pattern mapping** — Functional seizures; jerks; cough; mixed episodic symptoms. **C**
 
@@ -353,7 +356,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 The pages cover the same 16 presentations as the current diagnostic-sign reference. They do not yet cover every reported FND-associated symptom. Hearing changes, bladder symptoms, breathing-pattern disorder outside functional cough/upper-airway symptoms, dissociation without seizures, pain, fatigue and several less common movement presentations require their own research package before symptom-specific technique pages are added.
 
-*Index created: August 25, 2026 · Functional paralysis and drop attacks added September 2, 2026 · Functional limb weakness entries expanded September 10, 2026 · Clinical and accessibility review pending*
+*Index created: August 25, 2026 · Functional paralysis and drop attacks added September 2, 2026 · Functional limb weakness entries expanded September 10, 2026 · Functional tremor entries expanded September 11, 2026 · Clinical and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Recovery Techniques](README.md) · [Reference Library](../README.md)
