@@ -440,7 +440,25 @@ These quotations describe individual experiences and do not establish effectiven
 
 — Relationship strain was described beside pain, limited walking and unhelpful clinical advice. [Source](https://www.reddit.com/r/FND/comments/1dghzfz/people_with_experience_of_nhs_wheelchair_services/)
 
-**Still unfilled with matched outcome pairs:** foot-sliding, external rhythm, deliberate speed changes, high steps, stairs, treadmill or harness and dual-task walking.
+### Detailed technique coverage check
+
+| Detailed technique | Current community material and limitation |
+|---|---|
+| Rhythmic weight shift and step initiation | No matched outcome pair located |
+| Foot sliding or “skating” progression | No matched outcome pair located |
+| Speed and continuous-walking transformation | No matched outcome pair located |
+| Backward, sideways and direction-change walking | One direct account reports worsening with backward walking; no matched favourable account located |
+| External rhythm and auditory cueing | No matched outcome pair located |
+| Exaggerated movement and marching | No matched outcome pair located |
+| External focus and purposeful dual-task walking | One no-benefit physiotherapy account says distraction methods were tried, but treatment was multi-component and another symptom worsened; no matched direct technique pair located |
+| Stairs as a supervised bridge | No matched outcome pair located |
+| Treadmill and body-weight-supported walking | No matched outcome pair located |
+| Mirror and visual feedback | No matched outcome pair located |
+| Graded community walking and environmental complexity | No matched outcome pair located |
+| Mobility aids, guarding and fall planning | One account reports greater independence with a wheelchair and another describes pain and partner strain; these are not a matched device-specific outcome pair |
+| Individualized FND-informed rehabilitation and relapse planning | Two accounts report help from physiotherapy or an intensive multidisciplinary programme and one reports no benefit after six months; treatment content, setting and diagnoses differ |
+
+These quotations describe individual experiences and do not establish effectiveness. No community-only gait technique was added, and no individual component currently has a closely matched favourable and no-benefit or difficult-experience pair.
 
 ## Functional seizures
 
