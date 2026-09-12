@@ -69,17 +69,19 @@ This page provides two ways to find the same material. The first groups techniqu
 
 ### [Functional gait disorder](05-functional-gait-disorder.md)
 
-- **C** rhythmic weight shift progressing into automatic steps
-- **C** deliberately faster or slower walking, selected individually
-- **C** foot-sliding or “skiing” progression
-- **C** backward or sideways walking
-- **C** music, counting or another external rhythm
-- **C** exaggerated high steps or carrying light hand weights
-- **C** stairs practice when safer or easier than level walking
-- **C** treadmill, mirror or body-weight-support practice
-- **C** dual-task and external-focus walking
-- **C** graded community walking, fall planning and individualized mobility aids
-- **R/C** individualized FND-informed physiotherapy and relapse planning
+- [Rhythmic weight shift and step initiation](functional_gait_disorder/01-rhythmic-weight-shift-and-step-initiation.md) when the body does not transfer smoothly onto one leg, the other foot feels unable to begin or a knee buckles during hesitant starting. **[Clinical consensus; direct component evidence is limited]**
+- [Foot sliding or “skating” progression](functional_gait_disorder/02-foot-sliding-or-skating-progression.md) when a foot feels stuck, the leg drags or deliberate lifting increases bracing, while surface contact permits forward travel. **[Clinical consensus; direct component evidence is limited]**
+- [Speed and continuous-walking transformation](functional_gait_disorder/03-speed-and-continuous-walking-transformation.md) when a very slow, stop–start pattern becomes smoother at another individually assessed safe pace. **[Clinical consensus; direct component evidence is limited]**
+- [Backward, sideways and direction-change walking](functional_gait_disorder/04-backward-sideways-and-direction-change-walking.md) when forward walking is disproportionately difficult but an alternative direction accesses a more organized step. **[Clinical consensus; not helpful or safe for everyone]**
+- [External rhythm and auditory cueing](functional_gait_disorder/05-external-rhythm-and-auditory-cueing.md) when irregular timing or repeated stopping improves with a comfortable count, beat or other accessible timing signal. **[Clinical consensus; no functional-gait trial isolates auditory cueing]**
+- [Exaggerated movement and marching](functional_gait_disorder/06-exaggerated-movement-and-marching.md) when low clearance, dragging, short steps, crouching or stiffness changes with a deliberately different movement that can be shaped toward ordinary gait. **[Clinical consensus; direct component evidence is limited]**
+- [External focus and purposeful dual-task walking](functional_gait_disorder/07-external-focus-and-purposeful-dual-task-walking.md) when monitoring each leg worsens walking but a destination or simple meaningful task supports automaticity without compromising safety. **[Clinical and occupational-therapy consensus]**
+- [Stairs as a supervised bridge](functional_gait_disorder/08-stairs-as-a-supervised-bridge.md) only when formal assessment finds a stair step safer or more automatic than level gait and appropriate rails and guarding are available. **[Clinical consensus; stairs carry greater mechanical and fall demands]**
+- [Treadmill and body-weight-supported walking](functional_gait_disorder/09-treadmill-and-body-weight-supported-walking.md) when a moving belt supports continuity or a harness provides the unloading or fall protection needed for safe repetition. **[Clinical consensus; direct device-specific evidence in functional gait disorder is limited]**
+- [Mirror and visual feedback](functional_gait_disorder/10-mirror-and-visual-feedback.md) when an external view of one selected alignment or movement variable simplifies the task without increasing visual or body-focused symptoms. **[Clinical consensus; direct component evidence is limited]**
+- [Graded community walking and environmental complexity](functional_gait_disorder/11-graded-community-walking-and-environmental-complexity.md) when clinic gait does not transfer to meaningful home, outdoor, crowded, visually busy or uneven settings. **[Clinical and occupational-therapy consensus; supported only as part of broader rehabilitation programmes]**
+- [Mobility aids, guarding and fall planning](functional_gait_disorder/12-mobility-aids-guarding-and-fall-planning.md) when buckling, swaying, sudden gait loss, fatigue or injury risk requires fitted equipment and a setting-specific safety plan. **[Clinical consensus; falls assessment is supported by observational evidence]**
+- [Individualized FND-informed rehabilitation and relapse planning](functional_gait_disorder/13-individualized-rehabilitation-and-relapse-planning.md) when gait disability requires selected movement techniques, conditioning or daily-task adaptation, coexisting-condition care and a written setback plan. **[Functional-gait-specific and mixed functional-motor programme evidence; no single component is established as the active ingredient]**
 
 ### [Functional seizures](06-functional-seizures.md)
 
@@ -218,7 +220,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Available-movement entry point for severe paralysis** — Functional paralysis. **C**
 
-**Backward or sideways walking** — Functional gait disorder; functional ankle weakness. **C**
+**[Backward, sideways and direction-change walking](functional_gait_disorder/04-backward-sideways-and-direction-change-walking.md)** — Functional gait disorder; functional ankle weakness when the alternative direction is assessed as safe and useful. **[Clinical consensus; not helpful or safe for everyone]**
 
 **Balance and gait exercises after vestibular assessment** — PPPD. **C**
 
@@ -248,7 +250,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Diet-restriction review after swallowing safety assessment** — Functional swallowing and globus. **C**
 
-**Dual-task walking** — Functional gait disorder. **C**
+**[External focus and purposeful dual-task walking](functional_gait_disorder/07-external-focus-and-purposeful-dual-task-walking.md)** — Functional gait disorder when an external destination or simple second task improves rather than compromises walking safety. **[Clinical and occupational-therapy consensus]**
 
 **[Electrical muscle stimulation, functional electrical stimulation or TENS as an adjunct](functional_dystonia/08-electrical-stimulation-as-an-adjunct.md)** — Weakness, dystonia and sensory symptoms when a qualified clinician identifies a specific sensory, motor or pain goal. **[Emerging and uncertain evidence]**
 
@@ -256,7 +258,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Fall-injury response and reassessment plan** — Functional drop attacks. **C**
 
-**Exaggerated high-step walking or light hand weights** — Functional gait disorder. **C**
+**[Exaggerated movement and marching](functional_gait_disorder/06-exaggerated-movement-and-marching.md)** — Functional gait disorder when a deliberately different step improves clearance or organization and can be shaped toward ordinary gait. **[Clinical consensus; direct component evidence is limited]**
 
 **External memory aids, routines and single-task planning** — Functional Cognitive Disorder. **C**
 
@@ -266,11 +268,13 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Fixed visual or sensory anchor at a familiar warning** — Functional seizures. **L**
 
-**Foot-sliding or “skiing” progression** — Functional gait disorder; functional ankle weakness. **C**
+**[Foot sliding or “skating” progression](functional_gait_disorder/02-foot-sliding-or-skating-progression.md)** — Functional gait disorder and functional ankle weakness when surface contact permits movement that deliberate foot lifting does not. **[Clinical consensus; direct component evidence is limited]**
 
 **Gaze-stability exercises when indicated** — PPPD. **C**
 
-**Graded activity and reconditioning** — Weakness; paralysis; gait; PPPD; mixed motor symptoms. **C**
+**Graded activity and reconditioning** — Weakness; paralysis; gait; PPPD; mixed motor symptoms. **[Clinical consensus]**
+
+**[Graded community walking and environmental complexity](functional_gait_disorder/11-graded-community-walking-and-environmental-complexity.md)** — Functional gait disorder when clinic gains do not yet transfer to meaningful real-world routes. **[Clinical and occupational-therapy consensus; supported only as part of broader rehabilitation programmes]**
 
 **Graded exposure to avoided tasks or triggers** — Dystonia; sensory symptoms; visual symptoms; swallowing; cough; PPPD; selected functional facial symptoms. **C/E**
 
@@ -290,17 +294,23 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **[Individualized multidisciplinary treatment for functional dystonia](functional_dystonia/13-individualized-multidisciplinary-treatment.md)** — Functional dystonia interacting with pain, daily activities, psychological needs when relevant, equipment, work or coexisting conditions. **[Small case-series, pilot-trial and programme-level evidence plus multidisciplinary clinical consensus; no single package fits everyone]**
 
+**[Individualized rehabilitation and relapse planning for functional gait disorder](functional_gait_disorder/13-individualized-rehabilitation-and-relapse-planning.md)** — Functional gait disability requiring selected movement, equipment, participation and coexisting-condition plans. **[Functional-gait-specific and mixed functional-motor programme evidence; no single component is established as the active ingredient]**
+
 **Meaningful functional-task practice** — Weakness; paralysis; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; Functional Cognitive Disorder; facial symptoms. **C**
 
 **Metacognitive prediction-versus-performance practice** — Functional Cognitive Disorder. **C**
 
 **[Mirror or visual feedback for functional dystonia](functional_dystonia/06-mirror-and-visual-feedback.md)** — Weakness, tremor, dystonia, sensory symptoms and functional visual symptoms when selected visual information supports a task without increasing checking. **[Clinical consensus; direct functional-dystonia component evidence is limited]**
 
+**[Mirror or visual feedback for functional gait disorder](functional_gait_disorder/10-mirror-and-visual-feedback.md)** — Functional gait disorder when one selected visual reference improves a task without increasing dizziness, visual overload or self-monitoring. **[Clinical consensus; direct component evidence is limited]**
+
 **[Mobility-aid, orthosis and equipment review](functional_dystonia/10-equipment-and-orthosis-review.md)** — Weakness, gait and dystonia when equipment has a defined safety, protection or access goal and a review plan. **[Clinical consensus]**
+
+**[Mobility aids, guarding and fall planning for functional gait disorder](functional_gait_disorder/12-mobility-aids-guarding-and-fall-planning.md)** — Functional gait disorder when buckling, swaying, sudden gait loss, fatigue or injury risk requires fitted equipment and a setting-specific plan. **[Clinical consensus; falls assessment is supported by observational evidence]**
 
 **Mobility, seating and transfer-equipment review** — Functional paralysis; functional drop attacks. **C**
 
-**Music, counting, singing or another external rhythm** — Gait; tremor; speech/voice. **C**
+**[Music, counting or another external rhythm for gait](functional_gait_disorder/05-external-rhythm-and-auditory-cueing.md)** — Gait, tremor and speech/voice; the linked page concerns accessible gait timing cues. **[Clinical consensus; no functional-gait trial isolates auditory cueing]**
 
 **Neck, jaw and laryngeal relaxation** — Swallowing/globus; speech/voice; cough/upper-airway. **C**
 
@@ -338,7 +348,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Relapse and self-management plan** — All 16 symptom groups. **C**
 
-**Rhythmic weight shift progressing into steps** — Functional gait disorder; limb weakness. **C**
+**[Rhythmic weight shift progressing into steps](functional_gait_disorder/01-rhythmic-weight-shift-and-step-initiation.md)** — Functional gait disorder and limb weakness when supported loading permits the opposite foot to begin a step. **[Clinical consensus; direct component evidence is limited]**
 
 **Responsive rehabilitation dose planning from current capacity** — Functional paralysis. **C**
 
@@ -350,15 +360,17 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Shaping an easier sound into speech** — Functional speech and voice symptoms. **C**
 
+**[Speed and continuous-walking transformation](functional_gait_disorder/03-speed-and-continuous-walking-transformation.md)** — Functional gait disorder when another assessed pace improves continuity without increasing risk. **[Clinical consensus; direct component evidence is limited]**
+
 **SSRI or SNRI discussion with a prescriber** — PPPD; evidence specifically meeting strict PPPD placebo-trial criteria remains absent. **C/uncertain**
 
-**Stairs practice when assessed as safe** — Functional gait disorder. **C**
+**[Stairs as a supervised bridge](functional_gait_disorder/08-stairs-as-a-supervised-bridge.md)** — Functional gait disorder only when formal assessment finds a stair step safer or more automatic than level walking. **[Clinical consensus; stairs carry greater mechanical and fall demands]**
 
 **[Supported positioning and non-forceful release](functional_dystonia/01-supported-positioning-and-non-forceful-release.md)** — Functional dystonia when pain, strong bracing or worsening with passive pulling makes a supported starting position most appropriate. **[Clinical consensus]**
 
 **[Surface-EMG biofeedback](functional_dystonia/07-surface-emg-biofeedback.md)** — Tremor and dystonia when a selected superficial muscle-activity signal supports a specific movement-learning goal. **[Clinical consensus; direct functional-dystonia treatment evidence is very limited]**
 
-**Treadmill, mirror or body-weight-support walking** — Limb weakness; functional gait disorder. **C**
+**[Treadmill and body-weight-supported walking](functional_gait_disorder/09-treadmill-and-body-weight-supported-walking.md)** — Limb weakness and functional gait disorder when equipment supplies a useful stepping condition or required fall protection. **[Clinical consensus; direct device-specific evidence in functional gait disorder is limited]**
 
 **[Voluntary tremor retrainment by changing rhythm, amplitude and speed](functional_tremor/01-voluntary-tremor-retraining.md)** — Functional tremor. **[Emerging evidence from a small proof-of-concept study; supported by clinical consensus]**
 
@@ -374,7 +386,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 The pages cover the same 16 presentations as the current diagnostic-sign reference. They do not yet cover every reported FND-associated symptom. Hearing changes, bladder symptoms, breathing-pattern disorder outside functional cough/upper-airway symptoms, dissociation without seizures, pain, fatigue and several less common movement presentations require their own research package before symptom-specific technique pages are added.
 
-*Index created: August 25, 2026 · Functional paralysis and drop attacks added September 2, 2026 · Functional limb weakness entries expanded September 10, 2026 · Functional tremor and functional jerks entries expanded September 11, 2026 · Clinical and accessibility review pending*
+*Index created: August 25, 2026 · Functional paralysis and drop attacks added September 2, 2026 · Functional limb weakness entries expanded September 10, 2026 · Functional tremor and functional jerks entries expanded September 11, 2026 · Functional dystonia and functional gait entries expanded September 12, 2026 · Clinical and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Recovery Techniques](README.md) · [Reference Library](../README.md)

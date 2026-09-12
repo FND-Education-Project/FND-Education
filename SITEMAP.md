@@ -410,6 +410,26 @@ Use the sections below to drill down into the course, reference library, researc
 </details>
 
 <details>
+<summary><strong>Functional Gait Disorder: Detailed Recovery Techniques</strong></summary>
+
+- [Detailed technique collection](reference/recovery-techniques/functional_gait_disorder/README.md)
+- [Rhythmic weight shift and step initiation](reference/recovery-techniques/functional_gait_disorder/01-rhythmic-weight-shift-and-step-initiation.md)
+- [Foot sliding or “skating” progression](reference/recovery-techniques/functional_gait_disorder/02-foot-sliding-or-skating-progression.md)
+- [Speed and continuous-walking transformation](reference/recovery-techniques/functional_gait_disorder/03-speed-and-continuous-walking-transformation.md)
+- [Backward, sideways and direction-change walking](reference/recovery-techniques/functional_gait_disorder/04-backward-sideways-and-direction-change-walking.md)
+- [External rhythm and auditory cueing](reference/recovery-techniques/functional_gait_disorder/05-external-rhythm-and-auditory-cueing.md)
+- [Exaggerated movement and marching](reference/recovery-techniques/functional_gait_disorder/06-exaggerated-movement-and-marching.md)
+- [External focus and purposeful dual-task walking](reference/recovery-techniques/functional_gait_disorder/07-external-focus-and-purposeful-dual-task-walking.md)
+- [Stairs as a supervised bridge](reference/recovery-techniques/functional_gait_disorder/08-stairs-as-a-supervised-bridge.md)
+- [Treadmill and body-weight-supported walking](reference/recovery-techniques/functional_gait_disorder/09-treadmill-and-body-weight-supported-walking.md)
+- [Mirror and visual feedback](reference/recovery-techniques/functional_gait_disorder/10-mirror-and-visual-feedback.md)
+- [Graded community walking and environmental complexity](reference/recovery-techniques/functional_gait_disorder/11-graded-community-walking-and-environmental-complexity.md)
+- [Mobility aids, guarding and fall planning](reference/recovery-techniques/functional_gait_disorder/12-mobility-aids-guarding-and-fall-planning.md)
+- [Individualized FND-informed rehabilitation and relapse planning](reference/recovery-techniques/functional_gait_disorder/13-individualized-rehabilitation-and-relapse-planning.md)
+
+</details>
+
+<details>
 <summary><strong>Functional Seizure Recovery Materials</strong></summary>
 
 - [Functional seizure materials index](reference/recovery-techniques/functional_seizures/README.md)
