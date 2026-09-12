@@ -376,7 +376,25 @@ These quotations describe individual experiences. They do not establish effectiv
 
 — The person described fluctuating torso posturing, cramps and difficulty walking upright. [Source](https://www.reddit.com/r/FND/comments/1jcjqlv/spasming/)
 
-**Still unfilled with matched outcome pairs:** supported release without force, ordinary-footwear practice, formal desensitization, mirror or EMG feedback and equipment review.
+### Detailed technique coverage check
+
+| Detailed technique | Current community material and limitation |
+|---|---|
+| Supported positioning and non-forceful release | The sustained-torso account describes burden but does not report an outcome from supported release |
+| Position and gravity change | No matched outcome pair located |
+| External focus and automatic movement | One facial-pulling account reports partial help from PT and distraction; no matched difficult or no-benefit account |
+| Graded weight-bearing and functional use | No matched outcome pair located |
+| Graded sensory reintroduction | No matched outcome pair located |
+| Mirror and visual feedback | No matched outcome pair located |
+| Surface-EMG biofeedback | No matched outcome pair located |
+| Electrical stimulation as an adjunct | No matched outcome pair located |
+| Pain, skin, joint-range and contracture management | The sustained-torso account includes pain and cramp but does not describe a complication-management outcome |
+| Splint, orthosis, footwear and mobility-equipment review | No matched outcome pair located |
+| Specialist botulinum-toxin review | One account describes no benefit or worsening with diagnosis unresolved; one facial account describes temporary benefit only. These are not a matched confirmed limb/trunk functional-dystonia pair |
+| Episode, flare and relapse planning | The temporary Botox account describes symptom return but not an evaluated flare plan |
+| Individualized multidisciplinary treatment | One facial-pulling account reports partial help from PT; no matched coordinated-care pair located |
+
+These quotations describe individual experiences and do not establish effectiveness. Several concern face-dominant symptoms, which are clinically adjacent but use the separate functional-facial pathway. No community-only technique was added, and no technique currently has a closely matched favourable and no-benefit/difficult-experience pair.
 
 ## Functional gait disorder
 

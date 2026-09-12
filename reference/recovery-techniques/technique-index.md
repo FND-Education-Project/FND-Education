@@ -53,14 +53,19 @@ This page provides two ways to find the same material. The first groups techniqu
 
 ### [Functional dystonia or fixed posturing](04-functional-dystonia.md)
 
-- **C** supported positioning and release of overactive muscles without force
-- **C** posture and alignment retraining away from sustained end-range positions
-- **C** external-focus practice during transfers, standing and walking
-- **C** graded weight-bearing, ordinary footwear and normal sensory experience as tolerated
-- **C** desensitization for hypersensitivity
-- **C** mirror or EMG feedback
-- **E** electrical muscle stimulation as an adjunct
-- **C** pain, contracture and equipment review; avoidance of unnecessary immobilization
+- [Supported positioning and non-forceful release](functional_dystonia/01-supported-positioning-and-non-forceful-release.md) when pain, strong bracing or worsening with passive pulling makes a fully supported, non-corrective starting position most appropriate. **[Clinical consensus]**
+- [Position and gravity change](functional_dystonia/02-position-and-gravity-change.md) when movement becomes more available lying, sitting, leaning or with the limb supported, creating a bridge toward the needed position. **[Clinical consensus]**
+- [External focus and automatic movement](functional_dystonia/03-external-focus-and-automatic-movement.md) when purposeful reaching, rolling, transferring or stepping is more organized than direct commands to straighten or relax. **[Clinical consensus]**
+- [Graded weight-bearing and functional use](functional_dystonia/04-graded-weight-bearing-and-functional-use.md) when a hand or foot avoids contact or can accept a little supported load but not yet participate fully in a task. **[Clinical consensus]**
+- [Graded sensory reintroduction](functional_dystonia/05-graded-sensory-reintroduction.md) when fabric, footwear, touch, pressure or object contact is unusually unpleasant and limits use. **[Clinical consensus; direct functional-dystonia component evidence is limited]**
+- [Mirror and visual feedback](functional_dystonia/06-mirror-and-visual-feedback.md) when a brief view improves joint-position accuracy or task alignment without encouraging constant symptom checking. **[Clinical consensus; direct functional-dystonia component evidence is limited]**
+- [Surface-EMG biofeedback](functional_dystonia/07-surface-emg-biofeedback.md) when a selected superficial muscle-activity signal helps the person reproduce a useful release or timing change. **[Clinical consensus; direct functional-dystonia treatment evidence is very limited]**
+- [Electrical stimulation as an adjunct](functional_dystonia/08-electrical-stimulation-as-an-adjunct.md) when a clinician identifies a specific sensory or motor cue that improves one functional action and can be faded. **[Emerging and uncertain evidence; use only as a clinician-selected adjunct]**
+- [Pain, skin, joint-range and contracture management](functional_dystonia/09-pain-skin-joint-and-contracture-management.md) when a secondary complication has become a distinct barrier to movement, care or participation. **[Clinical consensus; management must follow the identified complication]**
+- [Splint, orthosis, footwear and mobility-equipment review](functional_dystonia/10-equipment-and-orthosis-review.md) when a device has a defined protection, safety or access goal, or existing equipment is painful, poorly fitting or function-limiting. **[Clinical consensus; equipment requires a defined goal and regular review]**
+- [Specialist botulinum-toxin review](functional_dystonia/11-specialist-botulinum-toxin-review.md) only when a specialist identifies a specific target and functional goal or a coexisting nonfunctional dystonia. **[A small pilot randomized trial found no added benefit over placebo before cognitive behavioural therapy; selected use remains uncertain]**
+- [Episode, flare and relapse planning](functional_dystonia/12-episode-flare-and-relapse-planning.md) when posturing is intermittent, changes sharply or returns after improvement and needs a safety, no-warning fallback and graded-return plan. **[Clinical consensus]**
+- [Individualized multidisciplinary treatment](functional_dystonia/13-individualized-multidisciplinary-treatment.md) when movement work must be coordinated with pain, daily activities, psychological care when relevant, equipment, work or treatment of coexisting conditions. **[Small case-series, pilot-trial and programme-level evidence plus multidisciplinary clinical consensus; no single package fits everyone]**
 
 ### [Functional gait disorder](05-functional-gait-disorder.md)
 
@@ -217,7 +222,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Balance and gait exercises after vestibular assessment** — PPPD. **C**
 
-**Botulinum toxin discussion after specialist facial-phenotype assessment** — Functional facial symptoms; evidence is uncertain and does not support routine use. **uncertain**
+**[Botulinum toxin discussion after specialist phenotype review](functional_dystonia/11-specialist-botulinum-toxin-review.md)** — Selected functional dystonia and functional facial symptoms; routine use is not supported. **[A small functional-dystonia pilot randomized trial found no added benefit over placebo before cognitive behavioural therapy; selected use remains uncertain]**
 
 **Breathing control training, clinician taught** — Functional seizures. **E**
 
@@ -237,7 +242,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Cough substitute: sip-and-swallow, nasal sniff or selected competing response** — Functional cough and upper-airway symptoms. **C**
 
-**Desensitization or graded sensory stimulation** — Sensory symptoms; dystonia. **C**
+**[Desensitization or graded sensory reintroduction](functional_dystonia/05-graded-sensory-reintroduction.md)** — Functional sensory symptoms and dystonia when safe ordinary contact is unusually unpleasant and limits use. **[Clinical consensus; direct functional-dystonia component evidence is limited]**
 
 **Diagnostic explanation and education as part of treatment** — All 16 symptom groups. **C**
 
@@ -245,7 +250,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Dual-task walking** — Functional gait disorder. **C**
 
-**Electrical muscle stimulation, functional electrical stimulation or TENS as an adjunct** — Weakness; dystonia; sensory symptoms. **E**
+**[Electrical muscle stimulation, functional electrical stimulation or TENS as an adjunct](functional_dystonia/08-electrical-stimulation-as-an-adjunct.md)** — Weakness, dystonia and sensory symptoms when a qualified clinician identifies a specific sensory, motor or pain goal. **[Emerging and uncertain evidence]**
 
 **Episode safety and supporter-response plan** — Functional seizures. **C**
 
@@ -269,6 +274,8 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Graded exposure to avoided tasks or triggers** — Dystonia; sensory symptoms; visual symptoms; swallowing; cough; PPPD; selected functional facial symptoms. **C/E**
 
+**[Graded weight-bearing and functional use](functional_dystonia/04-graded-weight-bearing-and-functional-use.md)** — Functional dystonia when a hand or foot avoids contact or can accept some supported load but not yet participate fully in a task. **[Clinical consensus]**
+
 **Graded return to avoided activity with fall support** — Functional drop attacks. **E/C**
 
 **Graded light exposure and reduced dark adaptation** — Functional visual symptoms with photophobia. **C**
@@ -281,13 +288,15 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Hypnotherapy or suggestion combined with practice** — Functional visual symptoms. **E**
 
+**[Individualized multidisciplinary treatment for functional dystonia](functional_dystonia/13-individualized-multidisciplinary-treatment.md)** — Functional dystonia interacting with pain, daily activities, psychological needs when relevant, equipment, work or coexisting conditions. **[Small case-series, pilot-trial and programme-level evidence plus multidisciplinary clinical consensus; no single package fits everyone]**
+
 **Meaningful functional-task practice** — Weakness; paralysis; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; Functional Cognitive Disorder; facial symptoms. **C**
 
 **Metacognitive prediction-versus-performance practice** — Functional Cognitive Disorder. **C**
 
-**Mirror, visual or EMG feedback** — Weakness; tremor; dystonia; sensory symptoms; functional visual symptoms. **C/E**
+**[Mirror or visual feedback for functional dystonia](functional_dystonia/06-mirror-and-visual-feedback.md)** — Weakness, tremor, dystonia, sensory symptoms and functional visual symptoms when selected visual information supports a task without increasing checking. **[Clinical consensus; direct functional-dystonia component evidence is limited]**
 
-**Mobility-aid review with a safety, independence and weaning-or-long-term plan** — Weakness; gait; dystonia. **C**
+**[Mobility-aid, orthosis and equipment review](functional_dystonia/10-equipment-and-orthosis-review.md)** — Weakness, gait and dystonia when equipment has a defined safety, protection or access goal and a review plan. **[Clinical consensus]**
 
 **Mobility, seating and transfer-equipment review** — Functional paralysis; functional drop attacks. **C**
 
@@ -310,6 +319,10 @@ This page provides two ways to find the same material. The first groups techniqu
 **Orthoptist-guided visual feedback and graded visual tasks** — Functional visual symptoms. **C/E**
 
 **Pain, fatigue, sleep, migraine, mental-health and other comorbidity treatment** — Potentially all symptom groups, selected individually. **C**
+
+**[Pain, skin, joint-range and contracture management](functional_dystonia/09-pain-skin-joint-and-contracture-management.md)** — Functional dystonia when an identified secondary complication has become a separate barrier. **[Clinical consensus; management must follow the identified complication]**
+
+**[Position and gravity change](functional_dystonia/02-position-and-gravity-change.md)** — Functional dystonia when movement is more available lying, sitting, leaning or with the limb supported. **[Clinical consensus]**
 
 **Posture and alignment retraining** — Tremor; dystonia; weakness; gait. **C**
 
@@ -341,7 +354,9 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Stairs practice when assessed as safe** — Functional gait disorder. **C**
 
-**Supported positioning and release of overactive muscles without force** — Functional dystonia. **C**
+**[Supported positioning and non-forceful release](functional_dystonia/01-supported-positioning-and-non-forceful-release.md)** — Functional dystonia when pain, strong bracing or worsening with passive pulling makes a supported starting position most appropriate. **[Clinical consensus]**
+
+**[Surface-EMG biofeedback](functional_dystonia/07-surface-emg-biofeedback.md)** — Tremor and dystonia when a selected superficial muscle-activity signal supports a specific movement-learning goal. **[Clinical consensus; direct functional-dystonia treatment evidence is very limited]**
 
 **Treadmill, mirror or body-weight-support walking** — Limb weakness; functional gait disorder. **C**
 
