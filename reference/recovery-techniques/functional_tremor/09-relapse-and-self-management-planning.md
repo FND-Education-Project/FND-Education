@@ -48,11 +48,25 @@ Seek urgent medical help according to local emergency guidance when tremor occur
 
 FND and another condition can coexist. A previous functional-tremor diagnosis does not make every new movement functional.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Learn the plan when the person is relatively settled. During a flare, remove hazards, reduce competing demands and offer one agreed cue or form of help. Avoid holding the limb down, debating the diagnosis, filming without consent or repeating instructions when the person is overloaded.
 
 Afterward, help restore the ordinary activity in manageable steps if wanted. Do not interrogate the person about a trigger or treat a longer episode as failure. Know which changes require emergency help and which call for the treating team.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -87,6 +101,13 @@ Track injuries, falls/near-falls, task interruption, assistance, participation, 
 An emergency and reassessment section should be individualized to local services and relevant comorbidities; a written FND plan must never be used to deny assessment of a new presentation. Confirm that supporters understand consent boundaries and that equipment and transfer instructions have been assessed where needed.
 
 Relapse prevention and self-management are recommended within specialist FND physiotherapy and occupational-therapy guidance, and broader programmes include these components. Evidence does not establish one tremor-specific flare sequence as superior. The sequence here is a safety-oriented synthesis to individualize and review. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Previous:** [Individualized whole-person treatment](08-individualized-whole-person-treatment.md) · **Index:** [Detailed techniques](README.md)

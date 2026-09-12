@@ -33,9 +33,23 @@ In parallel bars or another assessed setup, the clinician clears the path and gu
 
 Do not practise by walking backward through the home while watching over your shoulder. Stop for dizziness, a near fall, pain, repeated knee collapse or loss of environmental awareness.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Do not walk behind the person and pull them backward. Outside a clinician-approved practice area, keep attention on safe forward mobility and the prescribed aid. If a home version exists, clear the exact route, use the taught guarding position and stop when the planned number of steps is complete.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -66,6 +80,13 @@ Measure assistance, step continuity, stance-knee control, foot placement, near f
 ### Safety and evidence boundary
 
 Do not use backward walking as an unsupervised challenge or where vision, balance, cognition or stance weakness makes it unsafe. Consensus documents list it as a possible movement-retraining strategy; controlled evidence for backward walking alone in functional weakness is absent. (*citations* [1](#citation-1), [2](#citation-2))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: Treadmill and body-weight-supported walking](07-treadmill-and-body-weight-supported-walking.md)

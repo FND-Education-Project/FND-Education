@@ -44,9 +44,23 @@ Do not repeatedly replay videos or compare sides without a clear therapeutic rea
 
 For standing tremor, visual feedback may show even loading while a clinician provides the necessary support. Looking down at feet can worsen balance; a forward-facing mirror or scale display may be safer. This is not a home balance test when falls risk is uncertain.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Do not film or photograph without specific consent. Help with the agreed mirror angle or target, then stop commenting on how the tremor looks. Ask whether the display should be removed. A person can be making meaningful progress even when shaking remains visible.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -77,6 +91,13 @@ Measure the chosen task, alignment or loading variable, support, perceived effor
 ### Safety and evidence boundary
 
 Secure mirrors and cables, preserve a safe visual horizon for standing, and stop for visually induced dizziness, migraine, dissociation, distress or worse motor control. Mirror and simple visual feedback appear in specialist consensus examples for functional tremor, but dedicated controlled evidence is lacking. This page is separate from surface-EMG biofeedback, which displays electrical muscle activity. (*citation* [1](#citation-1))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: Surface-EMG biofeedback](07-surface-emg-biofeedback.md)

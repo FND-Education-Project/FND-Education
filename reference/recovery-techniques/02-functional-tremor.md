@@ -19,9 +19,14 @@ Treatment often uses the fact that functional tremor can change with rhythm, att
 
 Each technique below now opens a full page with patient guidance, supporter guidance, clinician procedures, anatomy in clinical and everyday language, safety limits and linked sources. Most movement examples concern limb tremor; head, trunk and voice tremor require region-specific assessment and adaptation.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-## For the person with symptoms
+## For the Person With FND
 
 ### Techniques used in rehabilitation
 
@@ -54,7 +59,14 @@ Sit securely with the arm supported and use the unaffected hand or a foot to tap
 
 A tremor is new, suddenly different, follows a medication change or injury, or appears with new weakness, severe headache, confusion, fever or loss of consciousness. Reassessment is also appropriate when pain, falls, inability to eat or drink, or loss of daily function is increasing.
 
-## For family, friends and supporters
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For Family, Friends, and Other Supporters
 
 - Ask whether the person wants a rhythm cue, practical help, or simply time.
 - Keep attention on the shared activity rather than staring at or repeatedly commenting on the tremor.
@@ -65,7 +77,14 @@ A tremor is new, suddenly different, follows a medication change or injury, or a
 
 Remove hazards first. Offer one agreed cue or practical support and then give the person room to use it; repeated coaching can add cognitive load. A flare may settle quickly or continue much longer, so judge assistance by safety and function rather than how long you think a tremor “should” last. Afterward, help resume the ordinary activity in manageable steps if wanted.
 
-## For clinicians
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For Clinicians and the Care Team
 
 Use entrainment, variability and distractibility as part of a positive explanation where they are present. Demonstrate change collaboratively, then convert it into a treatment cue. Select the cue from the tremor distribution and activation condition rather than transferring one limb method to all tremor phenotypes.
 
@@ -81,7 +100,12 @@ Track episode frequency and duration, participation, fatigue, injury and time to
 
 Screen for medication effects, essential tremor, Parkinsonism and other relevant movement disorders as the history and examination require. Record functional outcomes such as drinking, device use, dressing or work participation. Coordinate treatment of pain, fatigue, anxiety, trauma or other conditions when relevant without treating any one of them as a universal cause.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/02-functional-tremor.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
@@ -89,7 +113,7 @@ Screen for medication effects, essential tremor, Parkinsonism and other relevant
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
-## Research and evidence
+## Research and Sources
 
 A small, uncontrolled proof-of-concept study of ten people reported improvement after externally paced hand-tremor retrainment using tactile and visual feedback, but it was not a definitive trial and did not test surface-EMG biofeedback (**FND-CIT-0031**). The other detailed practical recommendations come mainly from specialist physiotherapy consensus (**FND-CIT-0028**) and a systematic review of functional tremor treatment (**FND-CIT-0019**). Programme-level trials in mixed functional motor-disorder populations add context but do not establish which tremor component is active (**FND-CIT-0029**, **FND-CIT-0030**).
 

@@ -318,7 +318,23 @@ The two favourable reports describe individual experiences with redirected atten
 
 — The person mainly attributed the relationship strain to fatigue, pain and unequal household work rather than jerks alone. [Source](https://www.reddit.com/r/FND/comments/1rmqoyu/trigger_warning_for_relationship_problems_caused/)
 
-**Still unfilled with matched outcome pairs:** competing-task practice at a familiar warning, pain or muscle-overactivity treatment, and a jerk-specific supporter-response plan.
+### Coverage against the detailed technique pages
+
+| Detailed technique | Current quotation coverage |
+|---|---|
+| Pattern and warning mapping | One favourable individual warning/redirection account; no matched difficult- or no-benefit account |
+| Early attention redirection | One favourable individual account; no matched difficult- or no-benefit account |
+| Competing and continuous movement | No matched outcome pair located |
+| Pain and muscle-overactivity management | Medication accounts are adjacent but do not establish a functional-jerk phenotype or this technique |
+| Meaningful functional-task practice | The neurophysiotherapy account describes short control and later worsening but not this specific task method |
+| Graded activity and load planning | One account highlights delayed worsening after neurophysiotherapy; no matched graded-plan pair located |
+| Arousal and startle regulation | No matched outcome pair located |
+| Episode safety and relapse planning | No jerk-specific supporter-response pair located |
+| Individualized multidisciplinary treatment | One mixed neurophysiotherapy account; no matched coordinated-care pair located |
+
+These quotations describe individual experiences. They do not establish effectiveness, identify a universal cause or show that the reported medication was treating functional jerks. No community-only technique was added from this material.
+
+**Still unfilled with matched outcome pairs:** all nine detailed techniques. Pattern mapping and early redirection have favourable material but no matched no-benefit or difficult-experience account tied to the same technique.
 
 ## Functional dystonia or fixed posturing
 
@@ -1148,7 +1164,7 @@ Before adding or replacing a quotation, confirm all of the following:
 7. A drawback is not mislabeled as complete failure, and an early flare is not mislabeled as a final outcome.
 8. New material remains grouped under the symptom first and then the exact indexed technique or support response it concerns.
 
-*Draft created: August 25, 2026 · Reorganized by symptom and technique September 1, 2026 · Functional paralysis and drop-attack sources added September 2, 2026 · Part Three and Part Four sources added September 5, 2026 · Part Five source map added September 8, 2026 · Part Six source map added September 9, 2026 · Community, clinical and privacy review pending*
+*Draft created: August 25, 2026 · Reorganized by symptom and technique September 1, 2026 · Functional paralysis and drop-attack sources added September 2, 2026 · Part Three and Part Four sources added September 5, 2026 · Part Five source map added September 8, 2026 · Part Six source map added September 9, 2026 · Functional-jerks detailed-technique coverage added September 11, 2026 · Community, clinical and privacy review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)

@@ -33,9 +33,23 @@ Choose one meaningful activity and a dose that can usually be repeated: time, re
 
 Some discomfort or effort can be acceptable, but the plan should define what is expected and what means stop. New neurological symptoms, chest pain, fainting, severe breathlessness, injury or a major change from the established pattern needs assessment.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Help protect the repeatable plan from both pressure and good-day overexpansion. Do not equate a temporary increase with progress or a reduction with failure. Support practical pacing: transport, task sharing, a place to sit and a plan for the rest of the day. Notice participation and recovery time, not only exercise totals.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -64,6 +78,13 @@ For persistent weakness, build consistency before intensity. For episodic weakne
 ### Measures and evidence boundary
 
 Record the activity that matters, dose, assistance, falls, symptoms, recovery time and participation. Strength, sit-to-stand, gait speed or endurance measures can add information when safe. The large Physio4FMD trial did not show a significant advantage on the primary 12-month physical-function outcome, although some secondary and patient-rated outcomes favoured specialist treatment. Do not promise that a graded programme or one dosing method will work for every person. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: Electrical stimulation as an adjunct](11-electrical-stimulation-as-an-adjunct.md)

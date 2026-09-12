@@ -33,9 +33,23 @@ A seated version may start with the foot on a cloth or low-friction board, slidi
 
 The surface should be predictable: too much friction can catch the foot; too little can create a slip. Do not improvise with socks on a polished floor. Stop for skin rubbing, a near fall, increasing joint pain, repeated knee collapse or a new neurological change.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Set up only the surface and support approved by the clinician. Do not move the foot for the person unless you have been taught a specific assistance technique. Give the agreed destination cue and keep obstacles out of the slide path. If movement becomes rougher, shorter practice or returning to sitting may be more useful than urging greater effort.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -65,6 +79,13 @@ Measure slide distance, continuity, number of repetitions, degree of unloading, 
 ### Safety and evidence boundary
 
 Avoid unsafe slippery surfaces, unprotected standing and practice that repeatedly catches the toes. Inspect skin and footwear when sensation is impaired. This exact progression is a clinician-selected application of consensus examples; it has not been established as an independent treatment in a controlled trial. (*citations* [1](#citation-1), [2](#citation-2))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: Backward walking as a bridge](06-backward-walking-as-a-bridge.md)

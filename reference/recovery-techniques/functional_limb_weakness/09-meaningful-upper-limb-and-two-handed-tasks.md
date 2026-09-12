@@ -35,9 +35,23 @@ Choose a light, safe and meaningful object. Give the affected hand the simplest 
 
 Avoid hot pans, knives, glass, heavy overhead objects and any task where unexpected release could injure someone. Stop for sharp shoulder pain, new swelling, colour change, skin injury or a substantial new neurological pattern.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Place objects within the agreed range and ask before touching the person’s arm. Do not lift under the weak shoulder or pull the hand into position. Let the affected hand perform the role it can manage today. Adaptations—non-slip matting, lighter containers, larger handles or seated setup—can support both recovery and independence.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -68,6 +82,13 @@ Measure spontaneous use, task completion, assistance, object drops, reach, relea
 ### Safety and evidence boundary
 
 Protect a painful or unstable shoulder, avoid traction through the upper limb and consider splinting or adaptive equipment when clinically indicated. Task-oriented upper-limb practice is supported by physiotherapy and occupational-therapy consensus; the examples and progression on this page have not been separately tested. (*citations* [1](#citation-1), [2](#citation-2))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: Graded activity and reconditioning](10-graded-activity-and-reconditioning.md)

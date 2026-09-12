@@ -33,9 +33,23 @@ The clinician chooses what should be visible and what task should be completed. 
 
 Tell the clinician if the mirror makes you feel detached, visually overwhelmed, more self-conscious or more compelled to inspect the symptom. Turning the mirror away can be the correct treatment decision.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Do not record or show video without consent. Avoid directing the person to compare sides repeatedly or commenting on whether movement “looks normal.” Help set up the agreed angle and task, then keep feedback brief. If visual attention worsens movement or distress, use the alternative cue from the plan.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -67,6 +81,13 @@ Measure the selected alignment or task outcome, assistance, movement continuity,
 ### Safety and evidence boundary
 
 Secure large mirrors and keep gaze demands compatible with balance. Stop for visually induced dizziness, migraine escalation, dissociation, distress or worse motor control. Mirror feedback is included in specialist consensus, but direct functional-weakness evidence is limited and community responses can differ. (*citations* [1](#citation-1), [2](#citation-2))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: Meaningful upper-limb and two-handed tasks](09-meaningful-upper-limb-and-two-handed-tasks.md)

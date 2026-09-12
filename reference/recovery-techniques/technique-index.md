@@ -41,12 +41,15 @@ This page provides two ways to find the same material. The first groups techniqu
 
 ### [Functional jerks or myoclonus](03-functional-jerks-and-myoclonus.md)
 
-- **C** warning-sign recognition and redirected attention
-- **C** a competing or absorbing task during a familiar warning
-- **C** assessment and treatment of pain or muscle overactivity that precedes jerks
-- **C** graded functional activity rather than repeated isolated movement testing
-- **R/C** multidisciplinary rehabilitation and psychological treatment when relevant
-- **C** trigger, safety and relapse planning
+- [Pattern and warning mapping](functional_jerks_and_myoclonus/01-pattern-and-warning-mapping.md) for a recognizable context, cluster, sensation, posture or muscle change that may reveal an earlier treatment entry point. **[Clinical consensus]**
+- [Early attention redirection](functional_jerks_and_myoclonus/02-early-attention-redirection.md) when a familiar warning gives enough time to begin one safe external task before the usual jerk or cluster. **[Clinical consensus; only when a usable warning exists]**
+- [Competing and continuous movement](functional_jerks_and_myoclonus/03-competing-and-continuous-movement.md) when a brief jerk emerges from a recognizable posture while a smooth purposeful movement can remain more organized. **[Clinical consensus; direct component evidence is limited]**
+- [Pain and muscle-overactivity management](functional_jerks_and_myoclonus/04-pain-and-muscle-overactivity-management.md) when pain, cramp, protective bracing or excess activity between jerks is a separate barrier requiring assessment. **[Clinical consensus; treatment must follow the identified condition]**
+- [Meaningful functional-task practice](functional_jerks_and_myoclonus/05-meaningful-functional-task-practice.md) when repeated suppression increases effort while a safe daily action provides a more useful movement goal. **[Clinical consensus]**
+- [Graded activity and load planning](functional_jerks_and_myoclonus/06-graded-activity-and-load-planning.md) when bouts interact with fatigue, pain, deconditioning or an unsustainable physical, cognitive or sensory load. **[Clinical and occupational-therapy consensus; no universal dosing formula]**
+- [Arousal and startle regulation](functional_jerks_and_myoclonus/07-arousal-and-startle-regulation.md) only when surprise, anticipatory bracing or a high-alert state reliably increases the individual’s familiar jerks. **[Clinical consensus; relevant only when arousal or startle is part of the individual pattern]**
+- [Episode safety and relapse planning](functional_jerks_and_myoclonus/08-episode-safety-and-relapse-planning.md) when clusters create injury or object-dropping risk or require setting-specific instructions and a no-warning fallback. **[Clinical consensus; supported as a component of structured rehabilitation]**
+- [Individualized multidisciplinary treatment](functional_jerks_and_myoclonus/09-individualized-multidisciplinary-treatment.md) when movement work must be coordinated with daily-task adaptation, psychological care when relevant, or treatment of coexisting conditions. **[Programme-level research and clinical consensus; functional-jerk-specific controlled evidence is lacking]**
 
 ### [Functional dystonia or fixed posturing](04-functional-dystonia.md)
 
@@ -356,7 +359,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 The pages cover the same 16 presentations as the current diagnostic-sign reference. They do not yet cover every reported FND-associated symptom. Hearing changes, bladder symptoms, breathing-pattern disorder outside functional cough/upper-airway symptoms, dissociation without seizures, pain, fatigue and several less common movement presentations require their own research package before symptom-specific technique pages are added.
 
-*Index created: August 25, 2026 · Functional paralysis and drop attacks added September 2, 2026 · Functional limb weakness entries expanded September 10, 2026 · Functional tremor entries expanded September 11, 2026 · Clinical and accessibility review pending*
+*Index created: August 25, 2026 · Functional paralysis and drop attacks added September 2, 2026 · Functional limb weakness entries expanded September 10, 2026 · Functional tremor and functional jerks entries expanded September 11, 2026 · Clinical and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Recovery Techniques](README.md) · [Reference Library](../README.md)

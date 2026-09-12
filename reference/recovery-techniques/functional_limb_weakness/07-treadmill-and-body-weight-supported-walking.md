@@ -33,9 +33,23 @@ The clinician fits the harness, explains the stop procedure and finds a speed an
 
 This is not a home-treadmill recommendation. Stop for chest pain, faintness, severe breathlessness, a fall into the harness, unsafe foot placement, increasing pain, skin pressure or any new concerning symptom.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Do not operate rehabilitation harnesses, manually advance the legs or change treadmill speed unless you are trained and this is part of the clinical plan. Help with transport, clothing, footwear and recording the agreed carryover task. Improvement on the treadmill may not appear immediately over ground and should not be used as a demand.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -65,6 +79,13 @@ Record speed, duration, unloading, hand support, assistance, continuous steps, f
 ### Safety and evidence boundary
 
 Follow cardiopulmonary, orthopaedic, skin and device-specific precautions. Have an explicit response for seizure, syncope, drop attack or equipment failure. Treadmill and body-weight support are consensus-described options within rehabilitation; evidence does not establish a universal speed, unloading percentage or superiority for functional weakness alone. (*citations* [1](#citation-1), [2](#citation-2))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: Mirror and visual feedback](08-mirror-and-visual-feedback.md)

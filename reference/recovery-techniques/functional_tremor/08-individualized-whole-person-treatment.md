@@ -49,11 +49,25 @@ Different tremor locations involve different movement systems. An arm task links
 
 Severity, recurrence and response are not measures of effort. A person may improve in participation while tremor remains, or symptoms may change before daily function does.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Ask which goals and appointments the person wants help with. Support adaptations, transport, practice or note-taking without becoming a therapist or monitoring every symptom. Do not use a psychological referral to dismiss physical symptoms, and do not treat a difficult flare as failure to follow the plan.
 
 Supporters may also need information, respite and boundaries. Their wellbeing can be included without transferring responsibility for recovery to them.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -89,6 +103,13 @@ Avoid contradictory messages, repeated unstructured examinations, coercive psych
 Keep one clinician responsible for reviewing new or changed neurological features, medication effects, injuries and discipline-specific risks. A coordinated plan should reduce duplicated testing and treatment overload, not multiply appointments without a shared goal.
 
 Specialist physiotherapy and combined physiotherapy/CBT trials concern mixed functional motor-disorder groups and multi-component programmes; they do not identify which component works for functional tremor or who should receive the same combination. Consensus supports multidisciplinary, individualized care. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: Relapse and self-management planning](09-relapse-and-self-management-planning.md)

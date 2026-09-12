@@ -35,9 +35,23 @@ A trained clinician checks whether stimulation is suitable, examines the skin an
 
 Stop and report pain, burning, persistent redness, skin damage, marked distress, an unexpected movement or worsening that does not settle. Do not place electrodes or change settings based on an internet diagram.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Do not apply, reposition or increase a device unless you have been trained for that exact plan. Check that the person can reach the stop control and follow the written skin-check instructions. Electrical stimulation should never be used to force practice or test whether weakness is “real.”
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -67,6 +81,13 @@ Measure the actual target: toe clearance and trips, step continuity, grasp-relea
 ### Evidence boundary
 
 Specialist consensus mentions electrical stimulation as a possible adjunct for functional weakness. Direct controlled evidence for a specific device, target, parameter set or home protocol in FND is insufficient. The technique therefore remains emerging and uncertain even when it produces an immediate contraction. (*citations* [1](#citation-1), [2](#citation-2))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: Relapse and self-management planning](12-relapse-and-self-management-planning.md)

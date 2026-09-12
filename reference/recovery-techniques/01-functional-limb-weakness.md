@@ -16,9 +16,14 @@
 
 Functional limb weakness can improve when rehabilitation brings out movement that is more automatic, purposeful and less closely monitored. The aim is not to prove that the limb is “really strong.” It is to help the nervous system regain access to useful movement, one task at a time. Each technique below opens a detailed page written separately for people with FND, supporters and clinicians.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-## For the person with symptoms
+## For the Person With FND
 
 ### Start with an assessed, meaningful goal
 
@@ -58,7 +63,14 @@ If standing and walking are already assessed as safe, choose one seated, familia
 
 Weakness is new, rapidly changing, follows injury, or comes with new facial droop, speech change, severe headache, loss of bladder or bowel control, saddle numbness, fever or altered consciousness. Established functional weakness also deserves reassessment after a substantial change, repeated falls, progressive contracture, skin injury from equipment, or a sustained loss of independence.
 
-## For family, friends and supporters
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For Family, Friends, and Other Supporters
 
 - Agree on the person’s goal and the kind of help they want before practice begins.
 - Draw attention to the activity—where the cup is going or the rhythm of the walk—rather than repeatedly asking whether the limb is moving normally.
@@ -70,7 +82,14 @@ Weakness is new, rapidly changing, follows injury, or comes with new facial droo
 
 Help with safety first and bring the person’s usual aid or stable seat. Reduce relevant demands and use **one** agreed movement cue if they want it; avoid a stream of corrections or repeated strength checks. Once the episode settles, help the person return to the planned activity in smaller steps if needed. If this episode is different from the established pattern, treat that as new information rather than assuming the usual recovery technique applies.
 
-## For clinicians
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For Clinicians and the Care Team
 
 Confirm and explain positive diagnostic features; screen for relevant comorbidity, pain, fatigue, falls and equipment needs; and demonstrate preserved movement where appropriate. Select techniques from the individual movement pattern rather than applying a fixed protocol. Use functional outcome goals and carry gains into home and community tasks.
 
@@ -86,7 +105,12 @@ Mobility aids are neither automatically helpful nor automatically harmful. When 
 
 Coordinate physiotherapy with occupational therapy, psychological care and medical treatment when these address relevant maintaining factors or coexisting conditions. Persistent symptoms and quality-of-life goals are valid reasons for continuing support even when complete symptom remission is not occurring.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Related:** [Detailed technique collection](functional_limb_weakness/README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/01-functional-limb-weakness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
@@ -94,7 +118,7 @@ Coordinate physiotherapy with occupational therapy, psychological care and medic
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
-## Research and evidence
+## Research and Sources
 
 Specialist consensus provides the most detailed movement-retraining instructions (**FND-CIT-0028**). The large Physio4FMD trial did not show a clear advantage for specialist physiotherapy on its primary 12-month physical-function outcome, although several secondary and patient-rated outcomes favoured the specialist programme; both pathways were generally safe and valued (**FND-CIT-0029**). A smaller trial found improvement from combined specialized physiotherapy and CBT, but its size and single-centre design limit certainty (**FND-CIT-0030**).
 

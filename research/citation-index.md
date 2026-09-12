@@ -99,6 +99,7 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0089](#fnd-cit-0089) | Mcloughlin et al., 2026 | Longitudinal observational study | stigma, healthcare and work concerns | [work and school](../course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/01-work-school-disability-and-accommodations.md) |
 | [FND-CIT-0090](#fnd-cit-0090) | Moss et al., 2026 | Cross-sectional tertiary-clinic study | disability, quality of life, access and vocational disruption | [Module 20 overview](../course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/README.md); [work and school](../course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/01-work-school-disability-and-accommodations.md); [variable function](../course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/03-describing-variable-function-for-accommodations-and-benefits.md) |
 | [FND-CIT-0091](#fnd-cit-0091) | Bailey et al., 2024 | Uncontrolled service evaluation | education, illness perceptions, stigma and support needs | [sensory, home and communication access](../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/03-sensory-home-and-communication-access.md) |
+| [FND-CIT-0092](#fnd-cit-0092) | Peña & Caviness, 2020 | Peer-reviewed clinical review | myoclonus classification, differential diagnosis, physiology-based treatment and functional jerks | [functional jerks recovery overview](../reference/recovery-techniques/03-functional-jerks-and-myoclonus.md); [detailed jerk techniques](../reference/recovery-techniques/functional_jerks_and_myoclonus/README.md) |
 
 ## Part Six citation use map
 
@@ -152,6 +153,22 @@ The individual tremor pages reuse stable project sources. The Espay study is a s
 | [Surface-EMG biofeedback](../reference/recovery-techniques/functional_tremor/07-surface-emg-biofeedback.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0019](#fnd-cit-0019), [FND-CIT-0031](#fnd-cit-0031) |
 | [Individualized whole-person treatment](../reference/recovery-techniques/functional_tremor/08-individualized-whole-person-treatment.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0029](#fnd-cit-0029), [FND-CIT-0030](#fnd-cit-0030) |
 | [Relapse and self-management planning](../reference/recovery-techniques/functional_tremor/09-relapse-and-self-management-planning.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0029](#fnd-cit-0029) |
+
+## Functional jerks detailed-technique citation use map
+
+These pages rely mainly on functional-motor and occupational-therapy consensus. The myoclonus review supports diagnosis-led distinctions and treatment boundaries; mixed functional-motor trials provide programme-level evidence but do not establish a functional-jerk subgroup effect or the effectiveness of any single component.
+
+| Detailed technique page | Citation IDs |
+|---|---|
+| [Pattern and warning mapping](../reference/recovery-techniques/functional_jerks_and_myoclonus/01-pattern-and-warning-mapping.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0092](#fnd-cit-0092) |
+| [Early attention redirection](../reference/recovery-techniques/functional_jerks_and_myoclonus/02-early-attention-redirection.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0092](#fnd-cit-0092) |
+| [Competing and continuous movement](../reference/recovery-techniques/functional_jerks_and_myoclonus/03-competing-and-continuous-movement.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0011](#fnd-cit-0011) |
+| [Pain and muscle-overactivity management](../reference/recovery-techniques/functional_jerks_and_myoclonus/04-pain-and-muscle-overactivity-management.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0092](#fnd-cit-0092) |
+| [Meaningful functional-task practice](../reference/recovery-techniques/functional_jerks_and_myoclonus/05-meaningful-functional-task-practice.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0029](#fnd-cit-0029) |
+| [Graded activity and load planning](../reference/recovery-techniques/functional_jerks_and_myoclonus/06-graded-activity-and-load-planning.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0029](#fnd-cit-0029) |
+| [Arousal and startle regulation](../reference/recovery-techniques/functional_jerks_and_myoclonus/07-arousal-and-startle-regulation.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0011](#fnd-cit-0011) |
+| [Episode safety and relapse planning](../reference/recovery-techniques/functional_jerks_and_myoclonus/08-episode-safety-and-relapse-planning.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0092](#fnd-cit-0092) |
+| [Individualized multidisciplinary treatment](../reference/recovery-techniques/functional_jerks_and_myoclonus/09-individualized-multidisciplinary-treatment.md) | [FND-CIT-0092](#fnd-cit-0092), [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0029](#fnd-cit-0029), [FND-CIT-0030](#fnd-cit-0030) |
 
 ## FND-CIT-0001
 
@@ -698,6 +715,12 @@ Use this cross-sectional study of 105 patients at one Australian tertiary clinic
 Bailey C, Ellis M, Bate E, et al. Illness perceptions, experiences of stigma and engagement in functional neurological disorder before and after group education. *BMJ Neurology Open*. 2024;6(1):e000633. [https://doi.org/10.1136/bmjno-2024-000633](https://doi.org/10.1136/bmjno-2024-000633)
 
 Use this uncontrolled service evaluation for participant-reported needs, including personalized formulation, practical disability advice, help explaining FND and peer support, and for short-term changes after group education. Follow-up response was low and the study cannot establish that education caused the changes or improved symptoms or function.
+
+## FND-CIT-0092
+
+Peña AB, Caviness JN. Physiology-based treatment of myoclonus. *Neurotherapeutics*. 2020;17(4):1665–1680. [https://doi.org/10.1007/s13311-020-00922-6](https://doi.org/10.1007/s13311-020-00922-6)
+
+Use this clinical review for the diversity of myoclonus causes, the need for anatomical and physiological classification to guide treatment, coexistence of functional and organic movement disorders, and the distinction between diagnosis-led treatment for organic myoclonus and individualized multidisciplinary care for functional jerks. It is not a functional-jerk treatment trial and should not be used to claim that antimyoclonic medication or any one rehabilitation component treats functional jerks.
 
 # How Course Pages Should Use the Index
 

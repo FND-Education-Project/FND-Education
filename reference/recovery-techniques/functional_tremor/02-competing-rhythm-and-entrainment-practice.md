@@ -44,11 +44,25 @@ The goal is not to tap constantly through the day. The cue should eventually bec
 
 First put down hazards and reduce the relevant load. Use one rehearsed rhythm briefly, then return to the activity at an easier level. If the rhythm increases tremor, overload or frustration, stop and use the fallback cue. A new tremor or one accompanied by new neurological symptoms needs reassessment rather than more cueing.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Offer a beat only if it is part of the person’s plan. Keep it steady, simple and low-pressure. Do not change the speed to “catch out” the tremor or announce every visible change. Ask whether the person wants the cue stopped once the useful task begins.
 
 If the person uses a foot rhythm, make sure they are seated or safely supported unless a clinician has practised the standing version. Support return to the activity; do not make absence of tremor the price of continuing.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -81,6 +95,13 @@ Measure the functional outcome, cue duration, assistance, perceived effort and a
 ### Safety and evidence boundary
 
 Avoid standing foot-tapping when balance is unreliable, rapid repetitive movement in an acutely painful joint and cueing that worsens dissociation, migraine or overload. Entrainment is a recognized positive feature of functional tremor and is used in consensus rehabilitation, but trials have not isolated this everyday competing-rhythm component. The small retrainment study tested a more intensive, affected-wrist protocol and should not be treated as direct proof of this page’s sequence. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next technique: External focus and meaningful-task practice](03-external-focus-and-meaningful-task-practice.md)
