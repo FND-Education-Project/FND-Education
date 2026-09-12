@@ -45,7 +45,7 @@ These pages separate research-supported, clinical-consensus, emerging and commun
 - **[Functional limb weakness](recovery-techniques/01-functional-limb-weakness.md)** — meaningful-task and automatic-movement retraining within individualized rehabilitation.
 - **[Functional tremor](recovery-techniques/02-functional-tremor.md)** — rhythm, competing movement, external focus and individualized rehabilitation.
 - **[Functional jerks or myoclonus](recovery-techniques/03-functional-jerks-and-myoclonus.md)** — warning recognition, redirected attention, meaningful activity and safety planning, with a [nine-page detailed technique collection](recovery-techniques/functional_jerks_and_myoclonus/README.md).
-- **[Functional dystonia or fixed posturing](recovery-techniques/04-functional-dystonia.md)** — supported positioning, alignment, graded movement and pain or contracture review.
+- **[Functional dystonia or fixed posturing](recovery-techniques/04-functional-dystonia.md)** — non-forceful positioning, task and sensory retraining, complication and equipment review, with a [thirteen-page detailed technique collection](recovery-techniques/functional_dystonia/README.md).
 - **[Functional gait disorder](recovery-techniques/05-functional-gait-disorder.md)** — rhythm, weight shift, task variation, external focus and individualized mobility support.
 - **[Functional seizures](recovery-techniques/06-functional-seizures.md)** — diagnostic explanation, episode safety, psychological treatment options and management of coexisting conditions.
 - **[Functional sensory symptoms](recovery-techniques/07-functional-sensory-symptoms.md)** — graded sensory practice, meaningful movement, attention strategies and relevant comorbidity care.

@@ -390,6 +390,26 @@ Use the sections below to drill down into the course, reference library, researc
 </details>
 
 <details>
+<summary><strong>Functional Dystonia or Fixed Posturing: Detailed Recovery Techniques</strong></summary>
+
+- [Detailed technique collection](reference/recovery-techniques/functional_dystonia/README.md)
+- [Supported positioning and non-forceful release](reference/recovery-techniques/functional_dystonia/01-supported-positioning-and-non-forceful-release.md)
+- [Position and gravity change](reference/recovery-techniques/functional_dystonia/02-position-and-gravity-change.md)
+- [External focus and automatic movement](reference/recovery-techniques/functional_dystonia/03-external-focus-and-automatic-movement.md)
+- [Graded weight-bearing and functional use](reference/recovery-techniques/functional_dystonia/04-graded-weight-bearing-and-functional-use.md)
+- [Graded sensory reintroduction](reference/recovery-techniques/functional_dystonia/05-graded-sensory-reintroduction.md)
+- [Mirror and visual feedback](reference/recovery-techniques/functional_dystonia/06-mirror-and-visual-feedback.md)
+- [Surface-EMG biofeedback](reference/recovery-techniques/functional_dystonia/07-surface-emg-biofeedback.md)
+- [Electrical stimulation as an adjunct](reference/recovery-techniques/functional_dystonia/08-electrical-stimulation-as-an-adjunct.md)
+- [Pain, skin, joint-range and contracture management](reference/recovery-techniques/functional_dystonia/09-pain-skin-joint-and-contracture-management.md)
+- [Splint, orthosis, footwear and mobility-equipment review](reference/recovery-techniques/functional_dystonia/10-equipment-and-orthosis-review.md)
+- [Specialist botulinum-toxin review](reference/recovery-techniques/functional_dystonia/11-specialist-botulinum-toxin-review.md)
+- [Episode, flare and relapse planning](reference/recovery-techniques/functional_dystonia/12-episode-flare-and-relapse-planning.md)
+- [Individualized multidisciplinary treatment](reference/recovery-techniques/functional_dystonia/13-individualized-multidisciplinary-treatment.md)
+
+</details>
+
+<details>
 <summary><strong>Functional Seizure Recovery Materials</strong></summary>
 
 - [Functional seizure materials index](reference/recovery-techniques/functional_seizures/README.md)
