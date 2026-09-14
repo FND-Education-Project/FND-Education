@@ -4,101 +4,68 @@
 
 # Available Capacity, Spoons, and Early Action
 
-> **Working draft:** This page is looking for [reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Working draft:** This page is human-authored and is now looking for [reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-> **Available capacity is what you can use right now—not what you should be able to do, and not a measure of effort or worth.**
-
-FND can affect movement, sensation, episodes, speech, thinking and many other functions. Whatever a person's symptom pattern, daily life still places demands on the body and mind. Learning to notice changing capacity can help a person adjust those demands, use support earlier and prepare for worsening. It cannot explain every symptom or guarantee that a flare will be prevented.
+FND can affect movement, sensation, episodes, speech, thinking and many other functions. Whatever a person's symptom pattern, daily life still places demands on the body and mind. Learning to notice changing capacity can help a person adjust those demands. 
 
 ## For the Person With FND
 
 ### What does “available capacity” mean?
 
-**Available capacity** means the usable physical, thinking, sensory, emotional, social and upright-activity capacity you have at a particular time. It includes what you can do now and the recovery cost that may follow.
+**Available capacity** is the usable physical, thinking, sensory, emotional, social and upright-activity capacity you have at a particular time. It includes what you can do now and the recovery cost that may follow.
 
-A task can be possible but still cost too much. For example, you may be able to attend an appointment but have little capacity left to travel home, prepare food or manage symptoms afterwards. Ability in one moment is therefore not the same as a safe or repeatable level of activity.
+> **Available capacity is what you can use right now—not what you should be able to do, and not a measure of effort or worth.**
 
-Capacity may change within a day or over a longer period. It may be affected by FND symptoms, pain, migraine, sleep, infection, medication, food or fluids, sensory surroundings, emotional or social demands, time spent upright, another medical condition and the recovery available before or after an activity. This list describes possible influences; it does not prove why one person's capacity changed.
+A lot of people might think of capacity as 'available energy' but it's more than that. A tired brain feels different than a tired body and available capacity describes both together, in a way. Not everyone experiences FND quite the same way, and your available capacity is one of those ways. For those who notice drastic changes in their available capacity, or as some call it, changes in your available 'spoons', it is often related to the onset of symptoms or a worsening of symptoms. 
+
+> ### What are “spoons”?
+>
+> Christine Miserandino introduced **Spoon Theory** in 2003 to describe living with lupus. She used a limited number of spoons to represent the usable capacity needed for ordinary tasks. The metaphor spread through chronic-illness and disability communities because it gives people short phrases such as “I am low on spoons” or “it'll take more spoons than I have.” (*citations* [1](#citation-1))
+>
+> This course uses **available capacity** when a term needs to include more than fatigue alone.
+
+Available capacity changes everyday and throughout the day and is affected by your entire 'biopsychosocial' life such as social demands, pain, sleep, what you eat and drink, or that moment's sensory input (like a bright light or sharp sound).
+
+> "I can usually talk to someone for fifteen or twenty minutes before I become too tired. And, if two people are talking over each other or there's more than one conversation happening I might not last thirty seconds!"
+
+Functional Seizures often take a lot of available capacity; recovery may take days. And that tells us something else about our available capacity: it can be 're-fuelled', so to speak. 
+
+A task can be possible but still cost too much. For example, you may be able to attend an appointment but have little capacity left to travel home, prepare food or manage symptoms afterwards. 
+
+> "I learned that I only had enough capacity to do a certain amount of tasks in a day and those tasks had to include getting dressed, showering and even eating. All of these things lowered how much available capacity I had left"
 
 ![Available Capacity illustrated using a leaky bucket but with positive flows into it as well](../../../assets/images/available-capacity.png)
 
-### What are “spoons”?
-
-Christine Miserandino introduced **Spoon Theory** in 2003 to describe living with lupus. She used a limited number of spoons to represent the usable capacity needed for ordinary tasks. The metaphor spread through chronic-illness and disability communities because it gives people short phrases such as “I am low on spoons” or “that will take more spoons than I have.” (*citations* [1](#citation-1))
-
-Spoons can be helpful communication. They are not a medical unit, a diagnosis, a biomarker or a literal store of energy. This course uses **available capacity** when a term needs to include more than fatigue alone.
-
-### How do the common explanations fit together?
-
-People sometimes receive several explanations as though they were the same theory. They are better separated:
-
-| Explanation | What it can help describe | What it does not establish |
-|---|---|---|
-| **Spoon, battery or fuel-tank metaphor** | Capacity feels limited, variable and used by ordinary tasks. The metaphor can communicate invisible limits and choices. | It does not identify a biological mechanism or provide an exact measurement. |
-| **Load-and-recovery model** | Physical, thinking, sensory, emotional, social, upright and symptom-management demands interact with rest, support and recovery. | It does not prove which factor caused a symptom or mean that every flare came from doing too much. |
-| **Energy-envelope or pacing model** | Activity can be planned around perceived capacity, immediate cost and delayed recovery rather than a fixed target. | The named Energy Envelope Theory was developed for ME/CFS. It has not been validated as an FND mechanism, and FND fatigue alone does not establish post-exertional malaise or ME/CFS. (*citations* [3](#citation-3), [4](#citation-4)) |
-| **Autonomic or arousal explanation** | Sympathetic and parasympathetic activity may influence symptoms or effort in some situations. Autonomic activity changes across the day. | The two branches are not opposite ends of one simple slider, and an ideal midpoint has not been shown to equal “good spoons.” Spoon count cannot reveal a person's autonomic state. (*citations* [5](#citation-5), [6](#citation-6)) |
-
-These explanations do not compete for one correct answer. The first is community language, the second is a broad planning framework, the third comes from research and practice in a different condition, and the fourth is one possible physiological contributor. None is a complete theory of FND.
-
 ### What can low capacity look like?
 
-There is no universal low-capacity sign. A person's familiar pattern may include:
+It is unique to each individual, but a person's familiar pattern may include:
 
-- an ordinary task taking more concentration, effort, time, equipment or help;
-- reduced tolerance for standing, walking, conversation, decisions, light, sound or busy surroundings;
+- an ordinary task takes more concentration, effort, time, equipment or help;
+- reduced ability to stand, walk, converse, make decisions;
+- less tolerance for light, sound or busy surroundings;
 - familiar warning symptoms appearing earlier or becoming harder to settle;
-- less reserve for an unexpected delay, interruption or additional task;
-- a need for longer recovery after activity; or
+- less reserve for an unexpected delay, interruption or more tasks;
+- a need for longer recovery after an activity; or
 - symptoms becoming more frequent, intense or widespread.
 
-Low capacity does not mean that symptoms are imagined, that the person has failed to pace correctly, or that a flare is inevitable. Some flares arrive without a useful warning. New or substantially changed symptoms also need appropriate medical assessment rather than being assumed to be “low spoons.”
+Because available capacity can be affected by so many things, don't beat yourself up thinking you failed to do something to prevent it. Adapting to your new capacity is challenging and is ongoing with your changing disease. Something that would have been fine a week ago might not be today. And the reverse is true: Something you couldn't do a few months ago may be something you can try now. And sometimes it feels like low capcity equals a flare of symptoms or a functional seizure for those who have that symptom, but it isn't, every time. As you'll learn, there are things that might help!
 
-### A 60-second capacity check
-
-An exact score is not required. Pause and ask:
-
-1. **What is available?** Does capacity feel usual, limited or very low?
-2. **What is using it?** Count physical and upright, thinking, sensory, emotional and social demands—including the work of managing symptoms.
-3. **What is changing?** Notice your own early signs, including effects that commonly appear later rather than immediately.
-4. **What can change now?** Reduce, delay, divide, delegate or change the setting or method of one demand.
-5. **What must stay?** Protect essential care, safety and activities that matter to you; ask for help when the total does not fit.
-
-The purpose is to make one useful decision, not to monitor every sensation or produce a perfect number.
-
-### Changing circumstances before a flare
-
-| Capacity state | Possible response |
-|---|---|
-| **Usual range** | Plan necessary, recovery and meaningful activity together. Leave some reserve when possible instead of treating a better period as capacity that must all be spent. |
-| **Narrowing range** | Respond to familiar early signs. Change one demand: sit for a task, lower sensory input, use a simpler method, shorten or split an activity, move an optional task, use an aid or ask someone to take one part. |
-| **Very low or flaring** | Put safety first. Stop driving, climbing, cooking over heat or doing another risk-sensitive task if your symptoms make it unsafe. Use the personal episode or flare plan agreed with your care team and move to a safer, lower-demand setting when possible. |
-
-Changing circumstances is not limited to resting. It can mean changing the time, place, posture, pace, duration, communication method, equipment, help available or number of demands happening together.
-
-For example, if speech becomes effortful while lights and conversation feel harder, a person might send a message instead of speaking, reduce light or noise, sit down, choose a simpler meal and move a non-urgent call. This does not promise to stop a flare. It reduces avoidable demand and makes the situation safer if symptoms still worsen.
-
-More detailed planning belongs in [Module 15: Pacing, Activity, and the Boom-and-Bust Cycle](../../part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md).
+More details can be found in [Module 15: Pacing, Activity, and the Boom-and-Bust Cycle](../../part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md).
 
 ### What can you safely try at home?
 
-Choose one familiar activity or time of day when capacity often narrows. Write only three lines:
+If you haven't already, begin to notice when your available capacity goes lower.
 
-- **My early sign:** one change you can notice without constant monitoring.
-- **My first adjustment:** one realistic change to the task, setting or support.
-- **My safety limit:** the point at which you stop, follow your established plan or seek help.
+- **What changes did you notice?** Try to write just one down.
+- **What part of the activity or time of day did I notice?** 
 
-Test the plan on an ordinary day, not for the first time during a severe event. Review whether it made the activity safer, more sustainable or easier to recover from. A flare occurring anyway does not make the plan or the person a failure. (*citations* [2](#citation-2))
-
-### When should you seek medical help?
-
-A capacity explanation must not replace medical assessment. Seek urgent help for emergency warning signs such as sudden new one-sided weakness or facial droop, a first or very different seizure or blackout, serious injury, severe new headache, chest pain, major breathing difficulty or another change covered by your emergency plan. Persistent or markedly reduced capacity also deserves review for treatable contributors such as sleep problems, migraine, pain, medication effects, anemia, infection, endocrine illness or orthostatic problems. See [Module 5: Medical Safety and New Symptoms](../../part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md).
+As you learn to adapt to your available capacity, see if you can also 'recover' from lower capacity throughout the day. 
 
 ### Questions
 
 #### When your available capacity begins to narrow, what changes do you usually notice first?
 
-#### Which demand could you change early, and which necessary or meaningful activity would you most want to protect?
+#### What afre some of the things you do when that happens?
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -109,17 +76,23 @@ A capacity explanation must not replace medical assessment. Seek urgent help for
 
 ## For Family, Friends, and Other Supporters
 
-Available capacity can help explain why a person may manage one activity but not another, or manage something today and need help tomorrow. It also makes room for delayed cost: seeing the person complete a task does not tell you how much recovery it will require.
+What available capacity looks like to those around the FND sufferer can sometimes seem contrived. "Today they seem to be managing that walk without difficulty; yesterday they couldn't even go out. What was different?" Or, "they walk all day inside, but as soon as they are outside and around people, it's like their anxiety takes over and they can't walk anymore." 
 
-Useful questions include:
+But as you begin to understand the factors that affect the available capacity and that tasks have costs - even delayed costs to that available capacity you begin to also understand that the person's quality of life and independence is far more important than our managing their activities. So, what is it good for a caregiver to do?
 
-- “Which part costs the most right now?”
-- “Would it help if I changed the setting, took one step of the task or moved something optional?”
-- “Do you want quiet, practical help, company or space?”
+Since we're talking about helping to ensure some form of independence, then the best first step might be to talk to the person you are helping to support.
 
-Do not police the person's spoons, require them to justify every activity or say that a flare proves they spent capacity badly. People may reasonably choose an important activity even when it has a cost. Support can reduce avoidable demand while preserving choice, relationships and meaningful life.
+***Useful questions might be:***
 
-Learn the person's safety plan before a severe event. During worsening, help reduce immediate risk and follow that plan rather than debating the cause or urging the person to push through.
+- **“What kinds of things cost their available capacity the most right now?”** The phrase, *'right now'* because that can change day to day or even hour by hour.
+- **“Would it help if I changed the setting, took one step of the task or moved something around?”** Adapting is a good way to allow for freedom within the limitations they face.
+- **“Do you want quiet, practical help, company or space?”** These are key questions! And, to re-emphasize a point already made, the answer to this question changes hourly sometimes. Unfortunately, answering, 'space' and 'quiet' also has the undesired effect of the sufferer being left in a lonely state where friends and family begin to distance themselves.
+
+As an FND sufferer, myself, I'm conflicted on this next point. The advice is to not 'police the person's spoons', 'require them to justify the cost of every activity' nor say that 'a flare proves they spent capacity badly.' On the other hand, my caregiver let me know when she noticed something about me like that I was losing my speech or walking less automatically and these observations have been very helpful in learning the cues of when symptoms were getting more severe.
+
+It was also helpful, mainly because one of my FND symptoms is a loss of a particular kind of memory, that she reminded me before I began a project I had in mind that I might want to reserve spoons for company that was coming later or that I had a functional seizure the day before. However, she reminded me and didn't tell me I couldn't. I felt like I was given choice and I definitely chose incorrectly at times and it cost me - and unfortunately, my caregiver as well in their energy and time. I think as long as the principles here are kept in mind, then a balance can be found between you and the person you are caring for.
+
+Learn the person's safety plan before a severe event or use the reference section to come up with one. During worsening of their symptoms, help reduce immediate risks like falls or other hazards and follow their safety plan rather than debating the cause or urging the person to push through.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
