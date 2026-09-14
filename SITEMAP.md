@@ -432,7 +432,19 @@ Use the sections below to drill down into the course, reference library, researc
 <details>
 <summary><strong>Functional Seizure Recovery Materials</strong></summary>
 
-- [Functional seizure materials index](reference/recovery-techniques/functional_seizures/README.md)
+- [Functional seizure techniques and materials index](reference/recovery-techniques/functional_seizures/README.md)
+- [Diagnostic Explanation and Continuing Care](reference/recovery-techniques/functional_seizures/01-diagnostic-explanation-and-continuing-care.md)
+- [Individualized Episode Safety Plan](reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md)
+- [Warning and Pattern Mapping](reference/recovery-techniques/functional_seizures/03-warning-and-pattern-mapping.md)
+- [Sensory Grounding and an Attention Anchor](reference/recovery-techniques/functional_seizures/04-sensory-grounding-and-attention-anchor.md)
+- [Seizure-Focused Psychological Treatment](reference/recovery-techniques/functional_seizures/05-seizure-focused-psychological-treatment.md)
+- [ReACT for Children and Adolescents](reference/recovery-techniques/functional_seizures/06-react-for-children-and-adolescents.md)
+- [Clinician-Taught Breathing Control](reference/recovery-techniques/functional_seizures/07-clinician-taught-breathing-control.md)
+- [Coexisting-Condition and Load Review](reference/recovery-techniques/functional_seizures/08-coexisting-condition-and-load-review.md)
+- [Prescriber-Led Medication Review](reference/recovery-techniques/functional_seizures/09-prescriber-led-medication-review.md)
+- [Supported Return to Activities](reference/recovery-techniques/functional_seizures/10-supported-return-to-activities.md)
+- [Supporter Response Rehearsal](reference/recovery-techniques/functional_seizures/11-supporter-response-rehearsal.md)
+- [Recovery, Cluster and Flare Planning](reference/recovery-techniques/functional_seizures/12-recovery-cluster-and-flare-planning.md)
 - [What the Online Course Teaches and What the Booklets Repeat](reference/recovery-techniques/functional_seizures/course-and-booklet-content-boundary.md)
 - [How the Unified Booklets Will Weigh Evidence](reference/recovery-techniques/functional_seizures/evidence-and-unification-method.md)
 <details>

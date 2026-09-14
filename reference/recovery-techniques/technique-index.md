@@ -85,15 +85,18 @@ This page provides two ways to find the same material. The first groups techniqu
 
 ### [Functional seizures](06-functional-seizures.md)
 
-- **R/C** clear diagnostic explanation and continuing neurological follow-up
-- **R/C** seizure-focused psychological intervention, often CBT-informed
-- **C** individualized episode safety and supporter-response plan
-- **C** warning-sign, trigger and pattern mapping
-- **E** clinician-taught breathing control training
-- **C** treatment of coexisting mental-health, sleep, pain or neurological conditions
-- **C** prescriber-led review of antiseizure medication when epilepsy is absent
-- **L** cold or textured sensory grounding at a familiar warning
-- **L** a fixed visual or sensory anchor at a familiar warning
+- **[Diagnostic Explanation and Continuing Care](functional_seizures/01-diagnostic-explanation-and-continuing-care.md)** — Ask how the diagnosis was established for each event type and leave with a written explanation, a treatment contact and follow-up. **[Clinical guideline recommendation; explanation alone is not an established seizure-stopping treatment]**
+- **[Individualized Episode Safety Plan](functional_seizures/02-individualized-episode-safety-plan.md)** — Prepare the surroundings and response for shaking, still or unresponsive events, especially when there is no time to act on a warning. **[Clinical safety guidance; not a method for forcing an episode to stop]**
+- **[Warning and Pattern Mapping](functional_seizures/03-warning-and-pattern-mapping.md)** — Use a brief, low-burden record to find a usable early cue or recovery need; a trigger or remembered warning may never be identifiable. **[Specialist clinical guidance; no requirement to find a trigger]**
+- **[Sensory Grounding and an Attention Anchor](functional_seizures/04-sensory-grounding-and-attention-anchor.md)** — At a familiar warning with enough awareness, try one tolerable visual or touch cue already practised in safety; skip cues that add sensory overload. **[Specialist clinical guidance; individual grounding variants lack isolated efficacy evidence]**
+- **[Seizure-Focused Psychological Treatment](functional_seizures/05-seizure-focused-psychological-treatment.md)** — Choose a structured programme around the person’s goals, such as episode coping or returning to activities, with an honest discussion of mixed trial outcomes. **[Research-supported programmes with mixed outcomes; individual components are not independently proven]**
+- **[ReACT for Children and Adolescents](functional_seizures/06-react-for-children-and-adolescents.md)** — Consider a clinician-delivered paediatric programme with an individualized response and family plan; its evidence does not establish the same approach for adults. **[Emerging paediatric programme evidence; do not generalize directly to adults]**
+- **[Clinician-Taught Breathing Control](functional_seizures/07-clinician-taught-breathing-control.md)** — Seek respiratory assessment and comfortable, supervised practice when breathing patterns may be relevant; do not improvise breath-holding or deep-breathing drills. **[Emerging evidence; a published randomized-trial protocol is not an efficacy result]**
+- **[Coexisting-Condition and Load Review](functional_seizures/08-coexisting-condition-and-load-review.md)** — Address a specific untreated condition or practical burden, such as pain, sleep disruption or difficult access to care, even when seizures continue. **[Clinical guideline and multidisciplinary care; benefits for another condition do not prove a seizure effect]**
+- **[Prescriber-Led Medication Review](functional_seizures/09-prescriber-led-medication-review.md)** — Clarify the purpose of every regular and rescue medicine and arrange supervised changes only when indicated, including separate treatment for coexisting epilepsy. **[Clinical guideline recommendation; no unsupervised withdrawal]**
+- **[Supported Return to Activities](functional_seizures/10-supported-return-to-activities.md)** — Adapt one valued activity for event unpredictability, fatigue and safety, preserving the aids and help that make participation possible. **[Clinical and occupational-therapy guidance; programme evidence does not establish a fixed activity dose]**
+- **[Supporter Response Rehearsal](functional_seizures/11-supporter-response-rehearsal.md)** — Talk through the agreed response with chosen supporters between events, including who stays, who helps and when medical escalation is needed. **[Clinical guideline and safety guidance; rehearsal is an implementation aid]**
+- **[Recovery, Cluster and Flare Planning](functional_seizures/12-recovery-cluster-and-flare-planning.md)** — Separate the visible event from prolonged recovery or surrounding symptoms and plan safe transfers, communication and reassessment for a changed pattern. **[Individualized clinical care; distinguish familiar recovery from a new medical problem]**
 
 ### [Functional sensory symptoms](07-functional-sensory-symptoms.md)
 
@@ -210,9 +213,8 @@ This page provides two ways to find the same material. The first groups techniqu
 
 ## Alphabetical technique index
 
-**Acceptance and commitment therapy (ACT), FCD-specific online group** — Functional Cognitive Disorder. **E**
 
-**Antiseizure-medication review, prescriber led** — Functional seizures when epilepsy is absent. **C**
+**Acceptance and commitment therapy (ACT), FCD-specific online group** — Functional Cognitive Disorder. **E**
 
 **Attention redirection or external-focus practice** — Limb weakness; paralysis; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; swallowing; Functional Cognitive Disorder; facial symptoms. **C**
 
@@ -226,39 +228,39 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **[Botulinum toxin discussion after specialist phenotype review](functional_dystonia/11-specialist-botulinum-toxin-review.md)** — Selected functional dystonia and functional facial symptoms; routine use is not supported. **[A small functional-dystonia pilot randomized trial found no added benefit over placebo before cognitive behavioural therapy; selected use remains uncertain]**
 
-**Breathing control training, clinician taught** — Functional seizures. **E**
-
 **Breathing, posture and muscle-relaxation exercises** — Speech/voice; swallowing/globus; cough/upper-airway; tremor; facial symptoms. **C**
 
 **CBT- or metacognition-informed digital self-help** — Functional Cognitive Disorder. **E**
 
-**Cold or textured sensory grounding at a familiar warning** — Functional seizures. **L**
+**[Clinician-Taught Breathing Control](functional_seizures/07-clinician-taught-breathing-control.md)** — Functional seizures. Seek respiratory assessment and comfortable, supervised practice when breathing patterns may be relevant; do not improvise breath-holding or deep-breathing drills. **[Emerging evidence; a published randomized-trial protocol is not an efficacy result]**
+
+**[Coexisting-Condition and Load Review](functional_seizures/08-coexisting-condition-and-load-review.md)** — Functional seizures. Address a specific untreated condition or practical burden, such as pain, sleep disruption or difficult access to care, even when seizures continue. **[Clinical guideline and multidisciplinary care; benefits for another condition do not prove a seizure effect]**
+
+**[Cold or textured sensory grounding at a familiar warning](functional_seizures/04-sensory-grounding-and-attention-anchor.md)** — Functional seizures; a tolerable sensory variant, without isolated efficacy evidence. **[Specialist clinical guidance for grounding; cool-object variants also appear in community reports]**
 
 **Communication supports used alongside retraining** — Functional speech and voice symptoms. **C**
+
+**Competing movement or absorbing task** — Tremor; jerks. **C**
 
 **Continuing accessibility and participation support** — Functional paralysis and persistent functional drop attacks. **C**
 
 **Coordinated multidisciplinary care for severe motor loss** — Functional paralysis. **C**
 
-**Competing movement or absorbing task** — Tremor; jerks. **C**
-
 **Cough substitute: sip-and-swallow, nasal sniff or selected competing response** — Functional cough and upper-airway symptoms. **C**
 
 **[Desensitization or graded sensory reintroduction](functional_dystonia/05-graded-sensory-reintroduction.md)** — Functional sensory symptoms and dystonia when safe ordinary contact is unusually unpleasant and limits use. **[Clinical consensus; direct functional-dystonia component evidence is limited]**
+
+**[Diagnostic Explanation and Continuing Care](functional_seizures/01-diagnostic-explanation-and-continuing-care.md)** — Functional seizures. Ask how the diagnosis was established for each event type and leave with a written explanation, a treatment contact and follow-up. **[Clinical guideline recommendation; explanation alone is not an established seizure-stopping treatment]**
 
 **Diagnostic explanation and education as part of treatment** — All 16 symptom groups. **C**
 
 **Diet-restriction review after swallowing safety assessment** — Functional swallowing and globus. **C**
 
-**[External focus and purposeful dual-task walking](functional_gait_disorder/07-external-focus-and-purposeful-dual-task-walking.md)** — Functional gait disorder when an external destination or simple second task improves rather than compromises walking safety. **[Clinical and occupational-therapy consensus]**
-
 **[Electrical muscle stimulation, functional electrical stimulation or TENS as an adjunct](functional_dystonia/08-electrical-stimulation-as-an-adjunct.md)** — Weakness, dystonia and sensory symptoms when a qualified clinician identifies a specific sensory, motor or pain goal. **[Emerging and uncertain evidence]**
 
-**Episode safety and supporter-response plan** — Functional seizures. **C**
-
-**Fall-injury response and reassessment plan** — Functional drop attacks. **C**
-
 **[Exaggerated movement and marching](functional_gait_disorder/06-exaggerated-movement-and-marching.md)** — Functional gait disorder when a deliberately different step improves clearance or organization and can be shaped toward ordinary gait. **[Clinical consensus; direct component evidence is limited]**
+
+**[External focus and purposeful dual-task walking](functional_gait_disorder/07-external-focus-and-purposeful-dual-task-walking.md)** — Functional gait disorder when an external destination or simple second task improves rather than compromises walking safety. **[Clinical and occupational-therapy consensus]**
 
 **External memory aids, routines and single-task planning** — Functional Cognitive Disorder. **C**
 
@@ -266,7 +268,9 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Facial-spasm episode plan using warning signs, grounding and relaxation** — Functional facial symptoms. **E**
 
-**Fixed visual or sensory anchor at a familiar warning** — Functional seizures. **L**
+**Fall-injury response and reassessment plan** — Functional drop attacks. **C**
+
+**[Fixed visual or sensory anchor at a familiar warning](functional_seizures/04-sensory-grounding-and-attention-anchor.md)** — Functional seizures with a usable warning and tolerable cue. **[Specialist clinical guidance; no isolated efficacy evidence]**
 
 **[Foot sliding or “skating” progression](functional_gait_disorder/02-foot-sliding-or-skating-progression.md)** — Functional gait disorder and functional ankle weakness when surface contact permits movement that deliberate foot lifting does not. **[Clinical consensus; direct component evidence is limited]**
 
@@ -278,19 +282,21 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Graded exposure to avoided tasks or triggers** — Dystonia; sensory symptoms; visual symptoms; swallowing; cough; PPPD; selected functional facial symptoms. **C/E**
 
-**[Graded weight-bearing and functional use](functional_dystonia/04-graded-weight-bearing-and-functional-use.md)** — Functional dystonia when a hand or foot avoids contact or can accept some supported load but not yet participate fully in a task. **[Clinical consensus]**
+**Graded light exposure and reduced dark adaptation** — Functional visual symptoms with photophobia. **C**
 
 **Graded return to avoided activity with fall support** — Functional drop attacks. **E/C**
 
-**Graded light exposure and reduced dark adaptation** — Functional visual symptoms with photophobia. **C**
-
 **Graded return to food textures and volumes** — Functional swallowing symptoms. **C**
+
+**[Graded weight-bearing and functional use](functional_dystonia/04-graded-weight-bearing-and-functional-use.md)** — Functional dystonia when a hand or foot avoids contact or can accept some supported load but not yet participate fully in a task. **[Clinical consensus]**
 
 **Gut–brain neuromodulator discussion, prescriber led** — Globus after appropriate assessment; not established for functional dysphagia. **E/adjacent**
 
 **Habituation to head, body and visual motion** — PPPD. **R/C**
 
 **Hypnotherapy or suggestion combined with practice** — Functional visual symptoms. **E**
+
+**[Individualized Episode Safety Plan](functional_seizures/02-individualized-episode-safety-plan.md)** — Functional seizures. Prepare the surroundings and response for shaking, still or unresponsive events, especially when there is no time to act on a warning. **[Clinical safety guidance; not a method for forcing an episode to stop]**
 
 **[Individualized multidisciplinary treatment for functional dystonia](functional_dystonia/13-individualized-multidisciplinary-treatment.md)** — Functional dystonia interacting with pain, daily activities, psychological needs when relevant, equipment, work or coexisting conditions. **[Small case-series, pilot-trial and programme-level evidence plus multidisciplinary clinical consensus; no single package fits everyone]**
 
@@ -304,27 +310,25 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **[Mirror or visual feedback for functional gait disorder](functional_gait_disorder/10-mirror-and-visual-feedback.md)** — Functional gait disorder when one selected visual reference improves a task without increasing dizziness, visual overload or self-monitoring. **[Clinical consensus; direct component evidence is limited]**
 
-**[Mobility-aid, orthosis and equipment review](functional_dystonia/10-equipment-and-orthosis-review.md)** — Weakness, gait and dystonia when equipment has a defined safety, protection or access goal and a review plan. **[Clinical consensus]**
-
 **[Mobility aids, guarding and fall planning for functional gait disorder](functional_gait_disorder/12-mobility-aids-guarding-and-fall-planning.md)** — Functional gait disorder when buckling, swaying, sudden gait loss, fatigue or injury risk requires fitted equipment and a setting-specific plan. **[Clinical consensus; falls assessment is supported by observational evidence]**
 
 **Mobility, seating and transfer-equipment review** — Functional paralysis; functional drop attacks. **C**
+
+**[Mobility-aid, orthosis and equipment review](functional_dystonia/10-equipment-and-orthosis-review.md)** — Weakness, gait and dystonia when equipment has a defined safety, protection or access goal and a review plan. **[Clinical consensus]**
 
 **[Music, counting or another external rhythm for gait](functional_gait_disorder/05-external-rhythm-and-auditory-cueing.md)** — Gait, tremor and speech/voice; the linked page concerns accessible gait timing cues. **[Clinical consensus; no functional-gait trial isolates auditory cueing]**
 
 **Neck, jaw and laryngeal relaxation** — Swallowing/globus; speech/voice; cough/upper-airway. **C**
 
-**Neuropsychological, occupational or speech-language cognitive rehabilitation** — Functional Cognitive Disorder. **C/E**
-
 **Neuromodulation or galvanic vestibular stimulation, specialist/research setting** — PPPD. **E**
+
+**Neuropsychological, occupational or speech-language cognitive rehabilitation** — Functional Cognitive Disorder. **C/E**
 
 **Noticing examples of briefly better function** — Visual symptoms; movement symptoms; Functional Cognitive Disorder. **C**
 
 **Optokinetic or virtual-reality practice, supervised** — PPPD. **E**
 
 **Oral, swallowing, speech and eye-safety assessment** — Functional facial symptoms. **C**
-
-**Positioning, pressure relief, skin and contracture prevention** — Functional paralysis. **C**
 
 **Orthoptist-guided visual feedback and graded visual tasks** — Functional visual symptoms. **C/E**
 
@@ -334,13 +338,19 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **[Position and gravity change](functional_dystonia/02-position-and-gravity-change.md)** — Functional dystonia when movement is more available lying, sitting, leaning or with the limb supported. **[Clinical consensus]**
 
+**Positioning, pressure relief, skin and contracture prevention** — Functional paralysis. **C**
+
 **Posture and alignment retraining** — Tremor; dystonia; weakness; gait. **C**
+
+**[Prescriber-Led Medication Review](functional_seizures/09-prescriber-led-medication-review.md)** — Functional seizures. Clarify the purpose of every regular and rescue medicine and arrange supervised changes only when indicated, including separate treatment for coexisting epilepsy. **[Clinical guideline recommendation; no unsupervised withdrawal]**
 
 **Proportionate fall-hazard and activity review** — Functional drop attacks. **C**
 
-**Psychological intervention, seizure focused** — Functional seizures. **R/C**
-
 **Psychologically informed vestibular rehabilitation or CBT** — PPPD. **E**
+
+**[ReACT for Children and Adolescents](functional_seizures/06-react-for-children-and-adolescents.md)** — Functional seizures. Consider a clinician-delivered paediatric programme with an individualized response and family plan; its evidence does not establish the same approach for adults. **[Emerging paediatric programme evidence; do not generalize directly to adults]**
+
+**[Recovery, Cluster and Flare Planning](functional_seizures/12-recovery-cluster-and-flare-planning.md)** — Functional seizures. Separate the visible event from prolonged recovery or surrounding symptoms and plan safe transfers, communication and reassessment for a changed pattern. **[Individualized clinical care; distinguish familiar recovery from a new medical problem]**
 
 **Reducing repeated checking, reassurance seeking or self-testing** — Swallowing/globus; Functional Cognitive Disorder. **C**
 
@@ -348,13 +358,17 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Relapse and self-management plan** — All 16 symptom groups. **C**
 
-**[Rhythmic weight shift progressing into steps](functional_gait_disorder/01-rhythmic-weight-shift-and-step-initiation.md)** — Functional gait disorder and limb weakness when supported loading permits the opposite foot to begin a step. **[Clinical consensus; direct component evidence is limited]**
-
 **Responsive rehabilitation dose planning from current capacity** — Functional paralysis. **C**
+
+**[Rhythmic weight shift progressing into steps](functional_gait_disorder/01-rhythmic-weight-shift-and-step-initiation.md)** — Functional gait disorder and limb weakness when supported loading permits the opposite foot to begin a step. **[Clinical consensus; direct component evidence is limited]**
 
 **Safe recovery from the floor after a familiar event** — Functional drop attacks. **C**
 
+**[Seizure-Focused Psychological Treatment](functional_seizures/05-seizure-focused-psychological-treatment.md)** — Functional seizures. Choose a structured programme around the person’s goals, such as episode coping or returning to activities, with an honest discussion of mixed trial outcomes. **[Research-supported programmes with mixed outcomes; individual components are not independently proven]**
+
 **Sensory discrimination practice** — Functional sensory symptoms. **C**
+
+**[Sensory Grounding and an Attention Anchor](functional_seizures/04-sensory-grounding-and-attention-anchor.md)** — Functional seizures. At a familiar warning with enough awareness, try one tolerable visual or touch cue already practised in safety; skip cues that add sensory overload. **[Specialist clinical guidance; individual grounding variants lack isolated efficacy evidence]**
 
 **Sensory-profile assessment and sensory-based occupational therapy** — Functional sensory symptoms. **E**
 
@@ -368,25 +382,31 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **[Supported positioning and non-forceful release](functional_dystonia/01-supported-positioning-and-non-forceful-release.md)** — Functional dystonia when pain, strong bracing or worsening with passive pulling makes a supported starting position most appropriate. **[Clinical consensus]**
 
+**[Supported Return to Activities](functional_seizures/10-supported-return-to-activities.md)** — Functional seizures. Adapt one valued activity for event unpredictability, fatigue and safety, preserving the aids and help that make participation possible. **[Clinical and occupational-therapy guidance; programme evidence does not establish a fixed activity dose]**
+
+**[Supporter Response Rehearsal](functional_seizures/11-supporter-response-rehearsal.md)** — Functional seizures. Talk through the agreed response with chosen supporters between events, including who stays, who helps and when medical escalation is needed. **[Clinical guideline and safety guidance; rehearsal is an implementation aid]**
+
 **[Surface-EMG biofeedback](functional_dystonia/07-surface-emg-biofeedback.md)** — Tremor and dystonia when a selected superficial muscle-activity signal supports a specific movement-learning goal. **[Clinical consensus; direct functional-dystonia treatment evidence is very limited]**
 
 **[Treadmill and body-weight-supported walking](functional_gait_disorder/09-treadmill-and-body-weight-supported-walking.md)** — Limb weakness and functional gait disorder when equipment supplies a useful stepping condition or required fall protection. **[Clinical consensus; direct device-specific evidence in functional gait disorder is limited]**
 
-**[Voluntary tremor retrainment by changing rhythm, amplitude and speed](functional_tremor/01-voluntary-tremor-retraining.md)** — Functional tremor. **[Emerging evidence from a small proof-of-concept study; supported by clinical consensus]**
+**Treatment of overlapping fall and event phenotypes** — Functional drop attacks. **C**
 
 **Trigger, warning-sign and pattern mapping** — Functional seizures; jerks; cough; mixed episodic symptoms. **C**
 
-**Treatment of overlapping fall and event phenotypes** — Functional drop attacks. **C**
+**Vestibular rehabilitation, individualized** — PPPD. **R/C**
+
+**[Voluntary tremor retrainment by changing rhythm, amplitude and speed](functional_tremor/01-voluntary-tremor-retraining.md)** — Functional tremor. **[Emerging evidence from a small proof-of-concept study; supported by clinical consensus]**
+
+**[Warning and Pattern Mapping](functional_seizures/03-warning-and-pattern-mapping.md)** — Functional seizures. Use a brief, low-burden record to find a usable early cue or recovery need; a trigger or remembered warning may never be identifiable. **[Specialist clinical guidance; no requirement to find a trigger]**
 
 **Warning recognition when a reliable warning exists** — Functional drop attacks. **E**
-
-**Vestibular rehabilitation, individualized** — PPPD. **R/C**
 
 ## Scope and gaps
 
 The pages cover the same 16 presentations as the current diagnostic-sign reference. They do not yet cover every reported FND-associated symptom. Hearing changes, bladder symptoms, breathing-pattern disorder outside functional cough/upper-airway symptoms, dissociation without seizures, pain, fatigue and several less common movement presentations require their own research package before symptom-specific technique pages are added.
 
-*Index created: August 25, 2026 · Functional paralysis and drop attacks added September 2, 2026 · Functional limb weakness entries expanded September 10, 2026 · Functional tremor and functional jerks entries expanded September 11, 2026 · Functional dystonia and functional gait entries expanded September 12, 2026 · Clinical and accessibility review pending*
+*Index created: August 25, 2026 · Functional paralysis and drop attacks added September 2, 2026 · Functional limb weakness entries expanded September 10, 2026 · Functional tremor and functional jerks entries expanded September 11, 2026 · Functional dystonia and functional gait entries expanded September 12, 2026 · Functional seizure entries expanded September 14, 2026 · Clinical and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Recovery Techniques](README.md) · [Reference Library](../README.md)

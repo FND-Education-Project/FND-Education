@@ -103,6 +103,34 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0093](#fnd-cit-0093) | Vizcarra et al., 2019 | Pilot randomized clinical trial | functional dystonia, botulinum toxin, placebo and cognitive behavioural therapy | [functional dystonia recovery overview](../reference/recovery-techniques/04-functional-dystonia.md); [specialist botulinum-toxin review](../reference/recovery-techniques/functional_dystonia/11-specialist-botulinum-toxin-review.md); [multidisciplinary treatment](../reference/recovery-techniques/functional_dystonia/13-individualized-multidisciplinary-treatment.md) |
 | [FND-CIT-0094](#fnd-cit-0094) | Jordbru et al., 2014 | Randomized crossover rehabilitation trial | functional gait, inpatient rehabilitation, walking, independence and quality of life | [functional gait recovery overview](../reference/recovery-techniques/05-functional-gait-disorder.md); [community walking](../reference/recovery-techniques/functional_gait_disorder/11-graded-community-walking-and-environmental-complexity.md); [individualized rehabilitation](../reference/recovery-techniques/functional_gait_disorder/13-individualized-rehabilitation-and-relapse-planning.md) |
 
+| [FND-CIT-0095](#fnd-cit-0095) | Kanaan R, Duncan R, Mihalopoulos C, et al | Trial protocol; no efficacy results | functional seizures; evidence limits | [Seizure recovery overview](../reference/recovery-techniques/06-functional-seizures.md); [Clinician-Taught Breathing Control](../reference/recovery-techniques/functional_seizures/07-clinician-taught-breathing-control.md) |
+| [FND-CIT-0096](#fnd-cit-0096) | Zouki JJ, Ye H, Lo APK, et al | Scoping review | functional seizures; evidence limits | [Seizure recovery overview](../reference/recovery-techniques/06-functional-seizures.md); [Clinician-Taught Breathing Control](../reference/recovery-techniques/functional_seizures/07-clinician-taught-breathing-control.md) |
+| [FND-CIT-0097](#fnd-cit-0097) | Sheffield Non-Epileptic Attacks clinical resource | Specialist patient guidance | functional seizures; evidence limits | [Seizure recovery overview](../reference/recovery-techniques/06-functional-seizures.md); [Warning and Pattern Mapping](../reference/recovery-techniques/functional_seizures/03-warning-and-pattern-mapping.md); [Sensory Grounding and an Attention Anchor](../reference/recovery-techniques/functional_seizures/04-sensory-grounding-and-attention-anchor.md) |
+| [FND-CIT-0098](#fnd-cit-0098) | Stone J | Specialist patient guidance | functional seizures; evidence limits | [Seizure recovery overview](../reference/recovery-techniques/06-functional-seizures.md); [Individualized Episode Safety Plan](../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md); [Warning and Pattern Mapping](../reference/recovery-techniques/functional_seizures/03-warning-and-pattern-mapping.md); [Sensory Grounding and an Attention Anchor](../reference/recovery-techniques/functional_seizures/04-sensory-grounding-and-attention-anchor.md); [Supporter Response Rehearsal](../reference/recovery-techniques/functional_seizures/11-supporter-response-rehearsal.md) |
+| [FND-CIT-0099](#fnd-cit-0099) | Fobian AD, Long DM, Szaflarski JP | Paediatric pilot randomized trial | functional seizures; evidence limits | [Seizure recovery overview](../reference/recovery-techniques/06-functional-seizures.md); [ReACT for Children and Adolescents](../reference/recovery-techniques/functional_seizures/06-react-for-children-and-adolescents.md) |
+| [FND-CIT-0100](#fnd-cit-0100) | Watson C, Stager L, Valaiyapathi B, Goodin BR, Szaflarski JP, Fobian AD | Prospective observational study | functional seizures; evidence limits | [Seizure recovery overview](../reference/recovery-techniques/06-functional-seizures.md); [ReACT for Children and Adolescents](../reference/recovery-techniques/functional_seizures/06-react-for-children-and-adolescents.md) |
+
+| [FND-CIT-0101](#fnd-cit-0101) | NHS | General first-aid guidance | seizure safety; adjacent guidance | [06-functional-seizures](../reference/recovery-techniques/06-functional-seizures.md); [02-individualized-episode-safety-plan](../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md); [11-supporter-response-rehearsal](../reference/recovery-techniques/functional_seizures/11-supporter-response-rehearsal.md); [12-recovery-cluster-and-flare-planning](../reference/recovery-techniques/functional_seizures/12-recovery-cluster-and-flare-planning.md) |
+
+## Functional seizure detailed-page citation use map
+
+| Page | Citation IDs |
+|---|---|
+| [Diagnostic Explanation and Continuing Care](../reference/recovery-techniques/functional_seizures/01-diagnostic-explanation-and-continuing-care.md) | [FND-CIT-0010](#fnd-cit-0010) |
+| [Individualized Episode Safety Plan](../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md) | [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0098](#fnd-cit-0098) |
+| [Warning and Pattern Mapping](../reference/recovery-techniques/functional_seizures/03-warning-and-pattern-mapping.md) | [FND-CIT-0097](#fnd-cit-0097), [FND-CIT-0098](#fnd-cit-0098) |
+| [Sensory Grounding and an Attention Anchor](../reference/recovery-techniques/functional_seizures/04-sensory-grounding-and-attention-anchor.md) | [FND-CIT-0097](#fnd-cit-0097), [FND-CIT-0098](#fnd-cit-0098) |
+| [Seizure-Focused Psychological Treatment](../reference/recovery-techniques/functional_seizures/05-seizure-focused-psychological-treatment.md) | [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0033](#fnd-cit-0033), [FND-CIT-0032](#fnd-cit-0032) |
+| [ReACT for Children and Adolescents](../reference/recovery-techniques/functional_seizures/06-react-for-children-and-adolescents.md) | [FND-CIT-0099](#fnd-cit-0099), [FND-CIT-0100](#fnd-cit-0100), [FND-CIT-0010](#fnd-cit-0010) |
+| [Clinician-Taught Breathing Control](../reference/recovery-techniques/functional_seizures/07-clinician-taught-breathing-control.md) | [FND-CIT-0034](#fnd-cit-0034), [FND-CIT-0095](#fnd-cit-0095), [FND-CIT-0096](#fnd-cit-0096) |
+| [Coexisting-Condition and Load Review](../reference/recovery-techniques/functional_seizures/08-coexisting-condition-and-load-review.md) | [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0011](#fnd-cit-0011) |
+| [Prescriber-Led Medication Review](../reference/recovery-techniques/functional_seizures/09-prescriber-led-medication-review.md) | [FND-CIT-0010](#fnd-cit-0010) |
+| [Supported Return to Activities](../reference/recovery-techniques/functional_seizures/10-supported-return-to-activities.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0033](#fnd-cit-0033), [FND-CIT-0010](#fnd-cit-0010) |
+| [Supporter Response Rehearsal](../reference/recovery-techniques/functional_seizures/11-supporter-response-rehearsal.md) | [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0098](#fnd-cit-0098) |
+| [Recovery, Cluster and Flare Planning](../reference/recovery-techniques/functional_seizures/12-recovery-cluster-and-flare-planning.md) | [FND-CIT-0010](#fnd-cit-0010) |
+
+Each page identifies its educational procedure and evidence limits. This map includes reused sources and is part of their current-use record.
+
 ## Part Six citation use map
 
 Part Six reuses established project sources rather than assigning duplicate IDs. Each course page also contains its own compact full citations.
@@ -775,6 +803,48 @@ Use this pilot double-blind trial for its comparison of onabotulinumtoxinA with 
 Jordbru AA, Smedstad LM, Klungsøyr O, Martinsen EW. Psychogenic gait disorder: a randomized controlled trial of physical rehabilitation with one-year follow-up. *Journal of Rehabilitation Medicine*. 2014;46(2):181–187. [https://doi.org/10.2340/16501977-1246](https://doi.org/10.2340/16501977-1246)
 
 Use this randomized crossover study of 60 participants for evidence that a three-week inpatient programme using adapted physical activity within a cognitive-behavioural framework improved walking, independence and quality of life relative to a waiting period, with reported maintenance at one month and one year. It used an older diagnostic term and tested an intensive multi-component programme rather than one gait transformation, outpatient treatment or current person-centred equipment practice. Do not use it to claim that every person will improve, that one drill caused the result, or that safety support should be withheld to avoid “reinforcing” disability.
+
+## FND-CIT-0095
+
+Kanaan R, Duncan R, Mihalopoulos C, et al. Breathing control training as a treatment for functional seizures (BREATHS trial): a multicentre, assessor-blinded, randomised controlled efficacy and acceptability trial study protocol. *BMJ Open*. 2026;16(1):e107687. [doi:10.1136/bmjopen-2025-107687](https://doi.org/10.1136/bmjopen-2025-107687)
+
+A planned randomized comparison of breathing control with befriending. The publication is a protocol, not evidence of completed trial benefit.
+
+## FND-CIT-0096
+
+Zouki JJ, Ye H, Lo APK, et al. The therapeutic effect of breathing interventions for functional seizures: A scoping review. *Epilepsy & Behavior*. 2026;178:110919. [doi:10.1016/j.yebeh.2026.110919](https://doi.org/10.1016/j.yebeh.2026.110919)
+
+The 28 included reports were heterogeneous and usually incorporated breathing in a wider treatment. Evidence was preliminary and indirect; this is not a meta-analysis establishing a standalone breathing effect.
+
+## FND-CIT-0097
+
+Sheffield Non-Epileptic Attacks clinical resource. What can I do to help myself get better? [Specialist self-help guidance](https://non-epileptic-attacks.sites.sheffield.ac.uk/self-help/what-can-i-do-to-help-myself-get-better). Accessed September 14, 2026.
+
+Supports the clinical use of warning observation, sensory grounding and selected self-management. Not a controlled study. Do not reproduce acceptance/effort-based prognosis claims, assume psychological triggers, or interpret sensible safety restrictions as excessive caution.
+
+## FND-CIT-0098
+
+Stone J. Treatment of Functional Seizures. *Neurosymptoms*. [Specialist treatment overview](https://neurosymptoms.org/en/treatment/treatment-of-functional-seizures/). Accessed September 14, 2026.
+
+Used for warning variability and individualized attention/grounding options. Explicit editorial departure: do not adopt categorical injury or mortality reassurance, assumptions of retained awareness, or symptom-change-as-progress claims. Use current individualized safety guidance and the project’s no-blame policy.
+
+## FND-CIT-0099
+
+Fobian AD, Long DM, Szaflarski JP. Retraining and control therapy for pediatric psychogenic non-epileptic seizures. *Annals of Clinical and Translational Neurology*. 2020;7(8):1410–1419. [doi:10.1002/acn3.51138](https://doi.org/10.1002/acn3.51138)
+
+Thirty-two young people were randomized; 29 completed the seven-day assessment. Short-term results favoured ReACT. The small study and absent comparable 60-day control data limit conclusions. It does not establish an adult protocol or the effect of one competing response.
+
+## FND-CIT-0100
+
+Watson C, Stager L, Valaiyapathi B, Goodin BR, Szaflarski JP, Fobian AD. Telehealth provision of Retraining and Control Therapy (ReACT) on cognitive and biopsychosocial functioning in pediatric functional neurological disorder. *Journal of Psychosomatic Research*. 2025;192:112112. [doi:10.1016/j.jpsychores.2025.112112](https://doi.org/10.1016/j.jpsychores.2025.112112)
+
+Adolescent cohort with 34 post-treatment completers and 28 six-month completers; no randomized comparator. Supports feasibility questions, not proof of superiority or adult effectiveness. The author disclosure includes an equity interest in ReACT FND Health.
+
+## FND-CIT-0101
+
+NHS. What to do if someone has a seizure (fit). [General seizure first aid](https://www.nhs.uk/symptoms/what-to-do-if-someone-has-a-seizure-fit/). Reviewed December 19, 2023; accessed September 14, 2026.
+
+Use for general injury prevention, recovery positioning and emergency escalation. It is not FND-specific treatment evidence. Apply alongside an individualized clinician-approved plan, retaining urgent assessment for uncertain or changed events.
 
 # How Course Pages Should Use the Index
 

@@ -151,6 +151,8 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 The 32 symptom pages now explain that symptoms may be episodic, fluctuating, or longer-lasting. Diagnostic pages state which appearances they refer to and where symptoms overlap more than one category. They also include immediate safety or onset guidance and, where possible, show how a familiar recovery technique may be shortened for a flare. Community quotations are usually kept in source notebooks while their wording, source, privacy, representativeness and safety are evaluated. When selected quotations appear on an educational page, they remain clearly labelled as lived experience rather than treatment evidence.
 
+The [functional-seizure collection](reference/recovery-techniques/functional_seizures/README.md) includes twelve detailed recovery and care pages, covering warning and no-warning events, treatment choices, supporter response and recovery.
+
 The reference library also contains a developing [five-booklet functional-seizure CBT series](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/README.md), with separate outlines and content-creator guides.
 
 Current course and reference material can be found for:

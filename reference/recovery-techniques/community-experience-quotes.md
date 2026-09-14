@@ -504,7 +504,24 @@ These quotations describe individual experiences and do not establish effectiven
 
 — The writer was seeking a safer way to manage difficult conversations with a neurodivergent partner. [Source](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/)
 
-**Still unfilled with matched outcome pairs:** cold or textured grounding, fixed visual anchors, seizure-focused psychotherapy and clinician-taught breathing control as distinct techniques.
+### Coverage against the detailed technique pages
+
+The [twelve detailed pages](functional_seizures/README.md) now distinguish safety, warning work, therapies, prescribing and recovery. The existing accounts above give broad safety, medication and relationship context; they do not provide matched outcome pairs for each intervention.
+
+- [Diagnostic Explanation and Continuing Care](functional_seizures/01-diagnostic-explanation-and-continuing-care.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Individualized Episode Safety Plan](functional_seizures/02-individualized-episode-safety-plan.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Warning and Pattern Mapping](functional_seizures/03-warning-and-pattern-mapping.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Sensory Grounding and an Attention Anchor](functional_seizures/04-sensory-grounding-and-attention-anchor.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Seizure-Focused Psychological Treatment](functional_seizures/05-seizure-focused-psychological-treatment.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [ReACT for Children and Adolescents](functional_seizures/06-react-for-children-and-adolescents.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Clinician-Taught Breathing Control](functional_seizures/07-clinician-taught-breathing-control.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Coexisting-Condition and Load Review](functional_seizures/08-coexisting-condition-and-load-review.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Prescriber-Led Medication Review](functional_seizures/09-prescriber-led-medication-review.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Supported Return to Activities](functional_seizures/10-supported-return-to-activities.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Supporter Response Rehearsal](functional_seizures/11-supporter-response-rehearsal.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Recovery, Cluster and Flare Planning](functional_seizures/12-recovery-cluster-and-flare-planning.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+
+No new quotation or community-only technique is added in this expansion. Specialist grounding guidance changes the evidence label, not the meaning of the existing accounts. Medication anecdotes do not support routine rescue sedation for functional seizures.
 
 ## Functional sensory symptoms
 
