@@ -1,4 +1,4 @@
-# Functional-Seizure CBT Resources and Booklet Project
+# Functional-Seizure Recovery Techniques and CBT Resources
 
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../../README.md) › [Reference Library](../../README.md) › [Recovery Techniques](../README.md) › [Functional Seizure Recovery Materials](README.md)
@@ -6,7 +6,26 @@
 
 > **Working outline for review:** These pages plan an original, picture-led learning and practice series. They are not a finished treatment manual and do not replace diagnosis, individualized care, or an emergency plan.
 
-This folder does three things:
+## Detailed recovery techniques
+
+These twelve standalone working drafts expand the [seizure recovery overview](../06-functional-seizures.md). Choose pages that fit the person; they are not a required treatment sequence.
+
+1. [Diagnostic Explanation and Continuing Care](01-diagnostic-explanation-and-continuing-care.md)
+2. [Individualized Episode Safety Plan](02-individualized-episode-safety-plan.md)
+3. [Warning and Pattern Mapping](03-warning-and-pattern-mapping.md)
+4. [Sensory Grounding and an Attention Anchor](04-sensory-grounding-and-attention-anchor.md)
+5. [Seizure-Focused Psychological Treatment](05-seizure-focused-psychological-treatment.md)
+6. [ReACT for Children and Adolescents](06-react-for-children-and-adolescents.md)
+7. [Clinician-Taught Breathing Control](07-clinician-taught-breathing-control.md)
+8. [Coexisting-Condition and Load Review](08-coexisting-condition-and-load-review.md)
+9. [Prescriber-Led Medication Review](09-prescriber-led-medication-review.md)
+10. [Supported Return to Activities](10-supported-return-to-activities.md)
+11. [Supporter Response Rehearsal](11-supporter-response-rehearsal.md)
+12. [Recovery, Cluster and Flare Planning](12-recovery-cluster-and-flare-planning.md)
+
+## CBT resource map and booklet project
+
+The existing resource map below does three things:
 
 1. identifies manuals, workbooks, websites, and study materials that already exist, so the project does not recreate them unnecessarily;
 2. explains how useful material will be selected and unified when programmes differ; and
@@ -106,7 +125,7 @@ Link to existing resources and describe their broad ideas. Do not reproduce copy
 
 [Back to functional-seizure recovery techniques](../06-functional-seizures.md)
 
-*Resources and access checked August 25, 2026 · Clinical, lived-experience, copyright, and accessibility review pending*
+*Resource-map access check: August 25, 2026 · Detailed technique pages added September 14, 2026 · Clinical, lived-experience, copyright, and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Functional seizures:** [Recovery Techniques](../README.md) · [Functional-seizure recovery page](../06-functional-seizures.md) · [Unified CBT booklets](unified_cbt_booklets/README.md)
