@@ -153,6 +153,8 @@ The 32 symptom pages now explain that symptoms may be episodic, fluctuating, or 
 
 The [functional-seizure collection](reference/recovery-techniques/functional_seizures/README.md) includes twelve detailed recovery and care pages, covering warning and no-warning events, treatment choices, supporter response and recovery.
 
+The [functional-sensory collection](reference/recovery-techniques/functional_sensory_symptoms/README.md) adds twelve detailed pages on reduced sensation, painful touch, everyday activities, sensory access, medical review and protective care.
+
 The reference library also contains a developing [five-booklet functional-seizure CBT series](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/README.md), with separate outlines and content-creator guides.
 
 Current course and reference material can be found for:

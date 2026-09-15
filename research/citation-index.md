@@ -112,6 +112,25 @@ This table gives every source a stable project ID. Course pages repeat a compact
 
 | [FND-CIT-0101](#fnd-cit-0101) | NHS | General first-aid guidance | seizure safety; adjacent guidance | [06-functional-seizures](../reference/recovery-techniques/06-functional-seizures.md); [02-individualized-episode-safety-plan](../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md); [11-supporter-response-rehearsal](../reference/recovery-techniques/functional_seizures/11-supporter-response-rehearsal.md); [12-recovery-cluster-and-flare-planning](../reference/recovery-techniques/functional_seizures/12-recovery-cluster-and-flare-planning.md) |
 
+| [FND-CIT-0102](#fnd-cit-0102) | NHS, reviewed 2025 | Public clinical safety guidance | TENS contraindications; adjacent safety evidence | [Sensory overview](../reference/recovery-techniques/07-functional-sensory-symptoms.md); [TENS review](../reference/recovery-techniques/functional_sensory_symptoms/09-tens-and-electrical-stimulation-review.md) |
+
+## Functional sensory detailed-page citation use map
+
+| Page | Citation IDs |
+|---|---|
+| [Graded Sensory Input for Reduced or Altered Sensation](../reference/recovery-techniques/functional_sensory_symptoms/01-graded-sensory-input.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0023](#fnd-cit-0023) |
+| [Desensitization for Painful Touch and Hypersensitivity](../reference/recovery-techniques/functional_sensory_symptoms/02-desensitization-for-painful-touch.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0028](#fnd-cit-0028) |
+| [Sensory Discrimination: Texture, Location and Object Recognition](../reference/recovery-techniques/functional_sensory_symptoms/03-sensory-discrimination.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0035](#fnd-cit-0035) |
+| [Pairing Sensation With Meaningful Movement](../reference/recovery-techniques/functional_sensory_symptoms/04-sensation-with-meaningful-movement.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0028](#fnd-cit-0028) |
+| [Graded Return to Clothing, Footwear and Everyday Contact](../reference/recovery-techniques/functional_sensory_symptoms/05-ordinary-contact-and-clothing.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0028](#fnd-cit-0028) |
+| [Visual and Mirror Feedback for Altered Body Sensation](../reference/recovery-techniques/functional_sensory_symptoms/06-visual-and-mirror-feedback.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0028](#fnd-cit-0028) |
+| [External Attention and Task Focus](../reference/recovery-techniques/functional_sensory_symptoms/07-external-attention-and-task-focus.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0028](#fnd-cit-0028) |
+| [Sensory-Profile Assessment and Environmental Adaptation](../reference/recovery-techniques/functional_sensory_symptoms/08-sensory-profile-and-environment.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0035](#fnd-cit-0035) |
+| [TENS and Electrical Stimulation: Specialist Review and Safety](../reference/recovery-techniques/functional_sensory_symptoms/09-tens-and-electrical-stimulation-review.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0102](#fnd-cit-0102) |
+| [Coexisting Pain, Migraine and Medical Review](../reference/recovery-techniques/functional_sensory_symptoms/10-coexisting-pain-migraine-and-medical-review.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0023](#fnd-cit-0023) |
+| [Skin, Pressure and Injury Protection](../reference/recovery-techniques/functional_sensory_symptoms/11-skin-pressure-and-injury-protection.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0028](#fnd-cit-0028) |
+| [Episode, Flare and Available-Capacity Planning](../reference/recovery-techniques/functional_sensory_symptoms/12-episode-flare-and-capacity-planning.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0023](#fnd-cit-0023) |
+
 ## Functional seizure detailed-page citation use map
 
 | Page | Citation IDs |
@@ -845,6 +864,12 @@ Adolescent cohort with 34 post-treatment completers and 28 six-month completers;
 NHS. What to do if someone has a seizure (fit). [General seizure first aid](https://www.nhs.uk/symptoms/what-to-do-if-someone-has-a-seizure-fit/). Reviewed December 19, 2023; accessed September 14, 2026.
 
 Use for general injury prevention, recovery positioning and emergency escalation. It is not FND-specific treatment evidence. Apply alongside an individualized clinician-approved plan, retaining urgent assessment for uncertain or changed events.
+
+## FND-CIT-0102
+
+NHS. Transcutaneous electrical nerve stimulation (TENS). Reviewed February 14, 2025; accessed September 15, 2026. [TENS safety guidance](https://www.nhs.uk/tests-and-treatments/transcutaneous-electrical-nerve-stimulation-tens/).
+
+Use for the contraindication against TENS on numb or damaged skin and device safety. This is adjacent safety guidance, not evidence of efficacy for FND. The sensory collection explicitly does not reproduce older high-intensity sensory-loss stimulation suggestions as home instructions.
 
 # How Course Pages Should Use the Index
 

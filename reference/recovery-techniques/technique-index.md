@@ -100,14 +100,18 @@ This page provides two ways to find the same material. The first groups techniqu
 
 ### [Functional sensory symptoms](07-functional-sensory-symptoms.md)
 
-- **C** graded sensory stimulation and desensitization
-- **C** sensory discrimination practice
-- **C** meaningful movement combined with touch, position or object feedback
-- **C** graded return to ordinary clothing, footwear, touch or weight-bearing
-- **C** mirror and visual feedback
-- **E** TENS or electrical stimulation as a clinician-selected adjunct
-- **E** sensory-profile assessment and sensory-based occupational therapy
-- **C** attention redirection, activity planning and treatment of pain or migraine
+- **[Graded Sensory Input for Reduced or Altered Sensation](functional_sensory_symptoms/01-graded-sensory-input.md)** — Contact feels faint, absent or unfamiliar, and a safe, tolerable input can be paired with a simple task. **[Clinical consensus; the particular practice sequence is an educational adaptation, not a tested standalone treatment]**
+- **[Desensitization for Painful Touch and Hypersensitivity](functional_sensory_symptoms/02-desensitization-for-painful-touch.md)** — Clothing, washing or another normally non-painful contact hurts or overwhelms the person after relevant causes have been assessed. **[Clinical consensus; direct evidence for an isolated FND desensitization protocol is limited]**
+- **[Sensory Discrimination: Texture, Location and Object Recognition](functional_sensory_symptoms/03-sensory-discrimination.md)** — Touch is detectable but difficult to interpret, distinguish or connect with a familiar object. **[Clinical rehabilitation adaptation; FND-specific component efficacy is uncertain]**
+- **[Pairing Sensation With Meaningful Movement](functional_sensory_symptoms/04-sensation-with-meaningful-movement.md)** — An altered-feeling hand or foot is difficult to use, but a supported, useful task is possible. **[Clinical and occupational-therapy consensus; programme principles do not prove sensory recovery]**
+- **[Graded Return to Clothing, Footwear and Everyday Contact](functional_sensory_symptoms/05-ordinary-contact-and-clothing.md)** — A particular necessary contact is avoided or shortened because it is unpleasant, even though a smaller version may be manageable. **[Clinical consensus; use an individualized goal and retain necessary accommodations]**
+- **[Visual and Mirror Feedback for Altered Body Sensation](functional_sensory_symptoms/06-visual-and-mirror-feedback.md)** — Watching an affected area helps locate it or perform a safe task without increasing visual discomfort or disconnection. **[Clinical rehabilitation adaptation; direct FND sensory-specific mirror evidence is uncertain]**
+- **[External Attention and Task Focus](functional_sensory_symptoms/07-external-attention-and-task-focus.md)** — Repeatedly checking a familiar altered sensation disrupts an otherwise safe activity, and a simple external cue is tolerable. **[Clinical consensus principle; no isolated sensory-symptom efficacy claim]**
+- **[Sensory-Profile Assessment and Environmental Adaptation](functional_sensory_symptoms/08-sensory-profile-and-environment.md)** — Multiple forms of sensory input interfere with washing, appointments, rest or other activities, and a tailored OT assessment is needed. **[Emerging sensory-based OT evidence; uncontrolled cohort outcomes do not establish causation]**
+- **[TENS and Electrical Stimulation: Specialist Review and Safety](functional_sensory_symptoms/09-tens-and-electrical-stimulation-review.md)** — A qualified clinician is considering electrical input for a specific pain or rehabilitation goal and needs to establish whether it is suitable. **[Emerging and uncertain FND evidence; safety review is essential]**
+- **[Coexisting Pain, Migraine and Medical Review](functional_sensory_symptoms/10-coexisting-pain-migraine-and-medical-review.md)** — Burning, pain, spreading numbness or sensory overload may have more than one contributor, or a changed pattern needs reassessment. **[Clinical assessment and coordinated-care consensus; treatment follows the condition identified]**
+- **[Skin, Pressure and Injury Protection](functional_sensory_symptoms/11-skin-pressure-and-injury-protection.md)** — Reduced sensation makes heat, cuts, pressure or footwear injury difficult to notice, including during temporary episodes. **[Clinical safety adaptation; protection is supportive care rather than a proven sensory-restoration treatment]**
+- **[Episode, Flare and Available-Capacity Planning](functional_sensory_symptoms/12-episode-flare-and-capacity-planning.md)** — Sensation fluctuates or changes in familiar episodes, interrupting activity or creating hazards before a technique can be used. **[Clinical consensus and individualized care planning; no universal onset strategy]**
 
 ### [Functional visual symptoms](08-functional-visual-symptoms.md)
 
@@ -234,6 +238,8 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **[Clinician-Taught Breathing Control](functional_seizures/07-clinician-taught-breathing-control.md)** — Functional seizures. Seek respiratory assessment and comfortable, supervised practice when breathing patterns may be relevant; do not improvise breath-holding or deep-breathing drills. **[Emerging evidence; a published randomized-trial protocol is not an efficacy result]**
 
+**[Coexisting Pain, Migraine and Medical Review](functional_sensory_symptoms/10-coexisting-pain-migraine-and-medical-review.md)** — Functional sensory symptoms. Burning, pain, spreading numbness or sensory overload may have more than one contributor, or a changed pattern needs reassessment. **[Clinical assessment and coordinated-care consensus; treatment follows the condition identified]**
+
 **[Coexisting-Condition and Load Review](functional_seizures/08-coexisting-condition-and-load-review.md)** — Functional seizures. Address a specific untreated condition or practical burden, such as pain, sleep disruption or difficult access to care, even when seizures continue. **[Clinical guideline and multidisciplinary care; benefits for another condition do not prove a seizure effect]**
 
 **[Cold or textured sensory grounding at a familiar warning](functional_seizures/04-sensory-grounding-and-attention-anchor.md)** — Functional seizures; a tolerable sensory variant, without isolated efficacy evidence. **[Specialist clinical guidance for grounding; cool-object variants also appear in community reports]**
@@ -248,6 +254,8 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Cough substitute: sip-and-swallow, nasal sniff or selected competing response** — Functional cough and upper-airway symptoms. **C**
 
+**[Desensitization for Painful Touch and Hypersensitivity](functional_sensory_symptoms/02-desensitization-for-painful-touch.md)** — Functional sensory symptoms. Clothing, washing or another normally non-painful contact hurts or overwhelms the person after relevant causes have been assessed. **[Clinical consensus; direct evidence for an isolated FND desensitization protocol is limited]**
+
 **[Desensitization or graded sensory reintroduction](functional_dystonia/05-graded-sensory-reintroduction.md)** — Functional sensory symptoms and dystonia when safe ordinary contact is unusually unpleasant and limits use. **[Clinical consensus; direct functional-dystonia component evidence is limited]**
 
 **[Diagnostic Explanation and Continuing Care](functional_seizures/01-diagnostic-explanation-and-continuing-care.md)** — Functional seizures. Ask how the diagnosis was established for each event type and leave with a written explanation, a treatment contact and follow-up. **[Clinical guideline recommendation; explanation alone is not an established seizure-stopping treatment]**
@@ -258,7 +266,11 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **[Electrical muscle stimulation, functional electrical stimulation or TENS as an adjunct](functional_dystonia/08-electrical-stimulation-as-an-adjunct.md)** — Weakness, dystonia and sensory symptoms when a qualified clinician identifies a specific sensory, motor or pain goal. **[Emerging and uncertain evidence]**
 
+**[Episode, Flare and Available-Capacity Planning](functional_sensory_symptoms/12-episode-flare-and-capacity-planning.md)** — Functional sensory symptoms. Sensation fluctuates or changes in familiar episodes, interrupting activity or creating hazards before a technique can be used. **[Clinical consensus and individualized care planning; no universal onset strategy]**
+
 **[Exaggerated movement and marching](functional_gait_disorder/06-exaggerated-movement-and-marching.md)** — Functional gait disorder when a deliberately different step improves clearance or organization and can be shaped toward ordinary gait. **[Clinical consensus; direct component evidence is limited]**
+
+**[External Attention and Task Focus](functional_sensory_symptoms/07-external-attention-and-task-focus.md)** — Functional sensory symptoms. Repeatedly checking a familiar altered sensation disrupts an otherwise safe activity, and a simple external cue is tolerable. **[Clinical consensus principle; no isolated sensory-symptom efficacy claim]**
 
 **[External focus and purposeful dual-task walking](functional_gait_disorder/07-external-focus-and-purposeful-dual-task-walking.md)** — Functional gait disorder when an external destination or simple second task improves rather than compromises walking safety. **[Clinical and occupational-therapy consensus]**
 
@@ -286,7 +298,11 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Graded return to avoided activity with fall support** — Functional drop attacks. **E/C**
 
+**[Graded Return to Clothing, Footwear and Everyday Contact](functional_sensory_symptoms/05-ordinary-contact-and-clothing.md)** — Functional sensory symptoms. A particular necessary contact is avoided or shortened because it is unpleasant, even though a smaller version may be manageable. **[Clinical consensus; use an individualized goal and retain necessary accommodations]**
+
 **Graded return to food textures and volumes** — Functional swallowing symptoms. **C**
+
+**[Graded Sensory Input for Reduced or Altered Sensation](functional_sensory_symptoms/01-graded-sensory-input.md)** — Functional sensory symptoms. Contact feels faint, absent or unfamiliar, and a safe, tolerable input can be paired with a simple task. **[Clinical consensus; the particular practice sequence is an educational adaptation, not a tested standalone treatment]**
 
 **[Graded weight-bearing and functional use](functional_dystonia/04-graded-weight-bearing-and-functional-use.md)** — Functional dystonia when a hand or foot avoids contact or can accept some supported load but not yet participate fully in a task. **[Clinical consensus]**
 
@@ -336,6 +352,8 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **[Pain, skin, joint-range and contracture management](functional_dystonia/09-pain-skin-joint-and-contracture-management.md)** — Functional dystonia when an identified secondary complication has become a separate barrier. **[Clinical consensus; management must follow the identified complication]**
 
+**[Pairing Sensation With Meaningful Movement](functional_sensory_symptoms/04-sensation-with-meaningful-movement.md)** — Functional sensory symptoms. An altered-feeling hand or foot is difficult to use, but a supported, useful task is possible. **[Clinical and occupational-therapy consensus; programme principles do not prove sensory recovery]**
+
 **[Position and gravity change](functional_dystonia/02-position-and-gravity-change.md)** — Functional dystonia when movement is more available lying, sitting, leaning or with the limb supported. **[Clinical consensus]**
 
 **Positioning, pressure relief, skin and contracture prevention** — Functional paralysis. **C**
@@ -368,11 +386,17 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Sensory discrimination practice** — Functional sensory symptoms. **C**
 
+**[Sensory Discrimination: Texture, Location and Object Recognition](functional_sensory_symptoms/03-sensory-discrimination.md)** — Functional sensory symptoms. Touch is detectable but difficult to interpret, distinguish or connect with a familiar object. **[Clinical rehabilitation adaptation; FND-specific component efficacy is uncertain]**
+
 **[Sensory Grounding and an Attention Anchor](functional_seizures/04-sensory-grounding-and-attention-anchor.md)** — Functional seizures. At a familiar warning with enough awareness, try one tolerable visual or touch cue already practised in safety; skip cues that add sensory overload. **[Specialist clinical guidance; individual grounding variants lack isolated efficacy evidence]**
+
+**[Sensory-Profile Assessment and Environmental Adaptation](functional_sensory_symptoms/08-sensory-profile-and-environment.md)** — Functional sensory symptoms. Multiple forms of sensory input interfere with washing, appointments, rest or other activities, and a tailored OT assessment is needed. **[Emerging sensory-based OT evidence; uncontrolled cohort outcomes do not establish causation]**
 
 **Sensory-profile assessment and sensory-based occupational therapy** — Functional sensory symptoms. **E**
 
 **Shaping an easier sound into speech** — Functional speech and voice symptoms. **C**
+
+**[Skin, Pressure and Injury Protection](functional_sensory_symptoms/11-skin-pressure-and-injury-protection.md)** — Functional sensory symptoms. Reduced sensation makes heat, cuts, pressure or footwear injury difficult to notice, including during temporary episodes. **[Clinical safety adaptation; protection is supportive care rather than a proven sensory-restoration treatment]**
 
 **[Speed and continuous-walking transformation](functional_gait_disorder/03-speed-and-continuous-walking-transformation.md)** — Functional gait disorder when another assessed pace improves continuity without increasing risk. **[Clinical consensus; direct component evidence is limited]**
 
@@ -388,6 +412,8 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **[Surface-EMG biofeedback](functional_dystonia/07-surface-emg-biofeedback.md)** — Tremor and dystonia when a selected superficial muscle-activity signal supports a specific movement-learning goal. **[Clinical consensus; direct functional-dystonia treatment evidence is very limited]**
 
+**[TENS and Electrical Stimulation: Specialist Review and Safety](functional_sensory_symptoms/09-tens-and-electrical-stimulation-review.md)** — Functional sensory symptoms. A qualified clinician is considering electrical input for a specific pain or rehabilitation goal and needs to establish whether it is suitable. **[Emerging and uncertain FND evidence; safety review is essential]**
+
 **[Treadmill and body-weight-supported walking](functional_gait_disorder/09-treadmill-and-body-weight-supported-walking.md)** — Limb weakness and functional gait disorder when equipment supplies a useful stepping condition or required fall protection. **[Clinical consensus; direct device-specific evidence in functional gait disorder is limited]**
 
 **Treatment of overlapping fall and event phenotypes** — Functional drop attacks. **C**
@@ -395,6 +421,8 @@ This page provides two ways to find the same material. The first groups techniqu
 **Trigger, warning-sign and pattern mapping** — Functional seizures; jerks; cough; mixed episodic symptoms. **C**
 
 **Vestibular rehabilitation, individualized** — PPPD. **R/C**
+
+**[Visual and Mirror Feedback for Altered Body Sensation](functional_sensory_symptoms/06-visual-and-mirror-feedback.md)** — Functional sensory symptoms. Watching an affected area helps locate it or perform a safe task without increasing visual discomfort or disconnection. **[Clinical rehabilitation adaptation; direct FND sensory-specific mirror evidence is uncertain]**
 
 **[Voluntary tremor retrainment by changing rhythm, amplitude and speed](functional_tremor/01-voluntary-tremor-retraining.md)** — Functional tremor. **[Emerging evidence from a small proof-of-concept study; supported by clinical consensus]**
 

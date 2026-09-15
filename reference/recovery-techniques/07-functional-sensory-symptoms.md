@@ -18,84 +18,111 @@
 
 Functional sensory symptoms can involve too little, too much or distorted sensation. Rehabilitation usually pairs tolerable sensory input with attention, movement and a useful activity. The aim is not to insist that a sensation is harmless before relevant medical assessment is complete.
 
-**Evidence labels:** **R** research-supported · **C** clinical consensus · **E** emerging.
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+## For the Person With FND
 
-## For the person with symptoms
+### Choose by the problem you need help with
 
-### Techniques used in rehabilitation
+Reduced sensation, painful touch and difficulty interpreting sensation are different problems. A technique selected for one may be unhelpful for another. Begin with an assessed presentation and one useful goal. These twelve options include rehabilitation, adaptations and protective care; they are not a sequence to complete.
 
-1. **Graded sensory stimulation — C.** Start with a touch, texture, pressure, temperature or movement that is tolerable. Apply it briefly and predictably, then increase only one feature at a time—duration, area, intensity or complexity.
-2. **Desensitization for hypersensitivity — C.** Progress from an easier material or contact toward sensations needed in daily life, such as clothing, bedding, washing or footwear. The goal is improved tolerance and participation, not enduring severe pain.
-3. **Sensory discrimination — C.** Without repeatedly checking whether a body part feels “normal,” compare safe inputs: soft versus firm, one location versus another, or the shape of familiar objects. Begin with vision and feedback, then reduce feedback as accuracy and confidence improve.
-4. **Pair sensation with meaningful movement — C.** Use the affected area during a relevant task—placing a foot on the floor, holding fabric, locating an object or grooming—so sensation is connected to action rather than examined in isolation.
-5. **Graded return to ordinary contact — C.** Reintroduce shoes, socks, fabrics, surfaces, touch or weight-bearing in planned doses. Choose a level that can be repeated without a major flare and progress toward the person’s own goal.
-6. **Mirror or visual feedback — C.** Watching the limb or task may provide useful information when sensation is unreliable. A therapist may later vary or reduce visual dependence to support real-world function.
-7. **Attention redirection — C.** During a safe task, attend to the object’s purpose, a conversation or an external cue rather than continuously scanning the sensation. This is different from ignoring a new warning sign.
-8. **Sensory-profile assessment and OT strategies — E.** An occupational therapist may map patterns of sensory seeking, avoidance or sensitivity and adapt regulation, activity and environments. Early FND-specific outcome data are retrospective rather than definitive.
-9. **TENS or electrical stimulation — E.** A clinician may use electrical input as feedback or an adjunct to task practice. It requires skin-sensation checks, contraindication review and a defined goal; home use should follow device-specific professional advice.
-10. **Treat related pain or migraine — C.** Pain, migraine, neuropathy, skin conditions and other disorders can coexist. Their treatment should be integrated rather than assuming every sensory experience has one mechanism.
+1. **[Graded Sensory Input for Reduced or Altered Sensation](functional_sensory_symptoms/01-graded-sensory-input.md)** — Contact feels faint, absent or unfamiliar, and a safe, tolerable input can be paired with a simple task. **[Clinical consensus; the particular practice sequence is an educational adaptation, not a tested standalone treatment]**
+2. **[Desensitization for Painful Touch and Hypersensitivity](functional_sensory_symptoms/02-desensitization-for-painful-touch.md)** — Clothing, washing or another normally non-painful contact hurts or overwhelms the person after relevant causes have been assessed. **[Clinical consensus; direct evidence for an isolated FND desensitization protocol is limited]**
+3. **[Sensory Discrimination: Texture, Location and Object Recognition](functional_sensory_symptoms/03-sensory-discrimination.md)** — Touch is detectable but difficult to interpret, distinguish or connect with a familiar object. **[Clinical rehabilitation adaptation; FND-specific component efficacy is uncertain]**
+4. **[Pairing Sensation With Meaningful Movement](functional_sensory_symptoms/04-sensation-with-meaningful-movement.md)** — An altered-feeling hand or foot is difficult to use, but a supported, useful task is possible. **[Clinical and occupational-therapy consensus; programme principles do not prove sensory recovery]**
+5. **[Graded Return to Clothing, Footwear and Everyday Contact](functional_sensory_symptoms/05-ordinary-contact-and-clothing.md)** — A particular necessary contact is avoided or shortened because it is unpleasant, even though a smaller version may be manageable. **[Clinical consensus; use an individualized goal and retain necessary accommodations]**
+6. **[Visual and Mirror Feedback for Altered Body Sensation](functional_sensory_symptoms/06-visual-and-mirror-feedback.md)** — Watching an affected area helps locate it or perform a safe task without increasing visual discomfort or disconnection. **[Clinical rehabilitation adaptation; direct FND sensory-specific mirror evidence is uncertain]**
+7. **[External Attention and Task Focus](functional_sensory_symptoms/07-external-attention-and-task-focus.md)** — Repeatedly checking a familiar altered sensation disrupts an otherwise safe activity, and a simple external cue is tolerable. **[Clinical consensus principle; no isolated sensory-symptom efficacy claim]**
+8. **[Sensory-Profile Assessment and Environmental Adaptation](functional_sensory_symptoms/08-sensory-profile-and-environment.md)** — Multiple forms of sensory input interfere with washing, appointments, rest or other activities, and a tailored OT assessment is needed. **[Emerging sensory-based OT evidence; uncontrolled cohort outcomes do not establish causation]**
+9. **[TENS and Electrical Stimulation: Specialist Review and Safety](functional_sensory_symptoms/09-tens-and-electrical-stimulation-review.md)** — A qualified clinician is considering electrical input for a specific pain or rehabilitation goal and needs to establish whether it is suitable. **[Emerging and uncertain FND evidence; safety review is essential]**
+10. **[Coexisting Pain, Migraine and Medical Review](functional_sensory_symptoms/10-coexisting-pain-migraine-and-medical-review.md)** — Burning, pain, spreading numbness or sensory overload may have more than one contributor, or a changed pattern needs reassessment. **[Clinical assessment and coordinated-care consensus; treatment follows the condition identified]**
+11. **[Skin, Pressure and Injury Protection](functional_sensory_symptoms/11-skin-pressure-and-injury-protection.md)** — Reduced sensation makes heat, cuts, pressure or footwear injury difficult to notice, including during temporary episodes. **[Clinical safety adaptation; protection is supportive care rather than a proven sensory-restoration treatment]**
+12. **[Episode, Flare and Available-Capacity Planning](functional_sensory_symptoms/12-episode-flare-and-capacity-planning.md)** — Sensation fluctuates or changes in familiar episodes, interrupting activity or creating hazards before a technique can be used. **[Clinical consensus and individualized care planning; no universal onset strategy]**
 
-### If sensory symptoms come in episodes or sudden flares
+### Episodes, flares and limited available capacity
 
-Functional numbness, tingling, distorted sensation or hypersensitivity may be intermittent, fluctuate through the day or remain persistent. During a familiar flare:
+Symptoms may persist, fluctuate or come in familiar episodes. First put down hot or sharp objects and support the affected area; sit if balance is uncertain. Reduce a specific overwhelming demand if helpful. Use one already practised, tolerable cue only when it is useful. With no warning or insufficient capacity to use a technique, protection and assistance are the plan—not a missed opportunity.
 
-1. **Protect the affected area.** Stop using heat, sharp tools or another hazard when sensation is reduced; sit or stabilize yourself if altered sensation affects balance.
-2. **Reduce overwhelming input when that is part of your pattern.** Move away from intense noise, visual activity, touch or multitasking if this helps you reach a safer baseline.
-3. **Choose one familiar strategy.** Use a tolerable texture, sensory-discrimination task, meaningful movement or external-focus cue already practised in rehabilitation.
-4. **Avoid extreme stimulation.** Ice directly on skin, painful pressure, very hot/cold objects or sharp stimulation can cause injury, especially when sensation is unreliable.
-5. **Return gradually.** Once the flare settles, reconnect the affected area with an ordinary safe task instead of repeatedly checking whether sensation is fully normal.
+Return through a simpler version of the activity when ready. You do not need to catch up on missed practice. Continuing skin protection, comfortable clothing, equipment or sensory accommodations is compatible with rehabilitation. Recurrence does not erase earlier gains or establish treatment failure. See [the detailed flare plan](functional_sensory_symptoms/12-episode-flare-and-capacity-planning.md).
 
-A new rapidly spreading sensory change, new weakness or speech difficulty, severe headache or another substantially different pattern needs reassessment.
+### Safety and reassessment
 
-### A low-risk starting practice
+**Do not use painful stimulation, sharp objects, extreme heat or cold to test or restore feeling. Do not use TENS on numb skin or increase its intensity until sensation appears.** Scheduled checks for unnoticed injury are different from repeatedly checking whether sensation is normal. [TENS safety source: 5](#citation-5).
 
-Choose one safe, comfortable texture and one ordinary task. For a short period, touch or hold the texture while completing the task and describing neutral facts—warm, smooth, light—rather than rating danger. Stop for skin damage, escalating pain, dizziness or a sustained flare. Avoid extreme temperatures, sharp objects and areas where reduced sensation could hide injury.
+Seek emergency help for sudden one-sided numbness or weakness, facial or speech change, or another possible stroke presentation. New saddle numbness with bladder or bowel dysfunction, a suddenly cold or discoloured limb, or rapidly worsening neurological symptoms also require urgent assessment. New wounds, persistent swelling, rash, injury or a substantially changed sensory pattern need clinical review. Do not assume that an established FND diagnosis explains every new symptom.
 
-### Ask for reassessment when
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-Numbness or altered sensation is new or rapidly spreading, follows an injury, or occurs with new weakness, facial change, speech difficulty, severe headache, loss of bladder/bowel control, saddle numbness, fever, a rash or impaired circulation. Check numb areas regularly for unnoticed pressure, burns or wounds and seek care when these occur.
+## For Family, Friends, and Other Supporters
 
-## For family, friends and supporters
+Ask before touching and agree on materials, location and a stop signal. Offer practical help with dressing, washing, appointments or skin checks. No surprise exposure, painful testing or removal of needed protection is part of these examples.
 
-- Ask before touching and agree on the exact practice; surprise exposure can undermine safety and trust.
-- Help select neutral, safe materials and check skin or footwear where sensation is reduced.
-- Keep the focus on a useful activity rather than repeatedly asking for a symptom rating.
-- Accept that pain and hypersensitivity are real experiences; gradual exposure is not permission to force contact.
+During a familiar flare, remove hazards and follow the person’s short plan. Offer one agreed cue rather than repeated questions about sensation. If they cannot practise, help with essential activities. Notice whether a strategy makes daily life easier and whether it causes delayed worsening; symptom intensity does not measure effort.
 
-### During a sensory flare
+Help obtain reassessment when the pattern changes. Keep support available even if treatment brings little sensory improvement.
 
-Help remove burn, cut, pressure and fall hazards. Ask before reducing noise/light or touching the person; environmental simplification helps some people but is not a universal treatment. Offer one agreed sensory or functional cue rather than repeatedly testing whether they can feel. If the pattern is new or clearly different, support reassessment instead of assuming the usual technique is appropriate.
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-## For clinicians
+## For Clinicians and the Care Team
 
-Assess the sensory distribution, positive functional signs, skin integrity, pain, migraine, neuropathy and other medical or neurological explanations. Define whether the main problem is loss, distortion, hypersensitivity, sensory avoidance or broader processing difficulty. Select graded input from the person’s functional goal and monitor both tolerance and participation.
+### Match assessment and intervention
 
-### Adapting sensory rehabilitation for episodic symptoms
+Differentiate hypoaesthesia, paraesthesia, dysaesthesia, allodynia, impaired discrimination and altered position sense. Assess distribution, protective sensation, skin integrity, perfusion, pain, motor function and relevant peripheral or central neurological findings. Sensory splitting signs alone have limited diagnostic value; use the full clinical formulation and investigate changed features as indicated. [4](#citation-4)
 
-Document episode duration, frequency, warning, distribution, sensory environment, cognitive load, associated motor/migraine/seizure-like symptoms and recovery. Rehearse a short onset sequence between flares: **injury prevention → reduce relevant overload → one safe sensory-discrimination or functional-task cue → graded return**. For sensory loss, compensatory skin and burn precautions remain important even when the episode is expected to pass.
+Choose a participation goal and specify whether the intervention targets detection, discrimination, tolerance, function or protection. Preserve consent, accessible communication and necessary accommodations. Detailed pages supply explicit selection, procedure and review examples, not validated treatment protocols.
 
-Avoid noxious stimulation intended to prove preserved sensation. Use sensory retraining, environmental adaptation and compensatory safety together when needed. Persistent sensory loss may require long-term skin, pressure and burn precautions even while rehabilitation continues.
+### Dose, progression and continuing support
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+Agree a short, tolerable trial and change one demand at a time. Review immediate and delayed function, pain, fatigue, skin status and recovery. Reduce or stop a trial that causes prolonged deterioration. If benefit is limited, revisit the target, dose, diagnosis and coexisting conditions while maintaining access and support.
+
+For episodic symptoms, document onset, warning, duration and recovery; provide both warning-based options and a no-warning safety fallback. Coordinate with seizure, migraine, dissociation or motor pathways where appropriate. Do not prescribe stronger sensory stimulation to overcome absent sensation.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/07-functional-sensory-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/01-numbness-altered-sensation-and-hypersensitivity.md)
+**Continue:** [Previous symptom: Functional seizures](06-functional-seizures.md) · [Next symptom: Functional visual symptoms](08-functional-visual-symptoms.md)
+
+**Related:** [Detailed sensory techniques](functional_sensory_symptoms/README.md) · [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/07-functional-sensory-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/01-numbness-altered-sensation-and-hypersensitivity.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
-## Research and evidence
+## Research and Sources
 
-Graded sensory stimulation, desensitization, visual feedback and task-focused rehabilitation are described in physiotherapy and occupational-therapy consensus (**FND-CIT-0028**, **FND-CIT-0011**). A 2024 retrospective cohort of 77 people receiving sensory-based OT reported clinician-rated improvement in 62%, but the uncontrolled design provides Class IV evidence and cannot establish causation (**FND-CIT-0035**). The search did not locate a controlled FND trial of sensory retraining.
+OT and physiotherapy recommendations provide the broad rehabilitation framework, principally at consensus level. [1](#citation-1), [2](#citation-2) The 2024 sensory-based OT cohort included 77 adults with mixed FND presentations; clinicians rated 62% improved. Its uncontrolled retrospective design provides Class IV evidence and cannot establish that a particular sensory practice caused improvement. [3](#citation-3)
 
-No community-only technique was added. Repeated reports about texture, temperature and grounding overlapped with clinical sensory-retraining concepts, while other ideas did not meet both corroboration and safety criteria.
+The source check did not identify a controlled trial establishing the efficacy of the individual sensory exercises described here. Object sorting, clothing ladders and visual-feedback examples are transparent clinical adaptations, not independently validated protocols. The 2026 diagnostic study is not treatment evidence. [4](#citation-4)
 
-### Sources
+The older physiotherapy consensus mentions high-setting TENS for sensory loss. This collection does not adopt that practice: current NHS safety guidance advises against TENS over numb skin. It is cited for safety, not FND efficacy. [2](#citation-2), [5](#citation-5)
 
-- **FND-CIT-0011:** Nicholson C, Edwards MJ, Carson AJ, et al. *Occupational therapy consensus recommendations for functional neurological disorder.* JNNP. 2020;91:1037–1045. [doi:10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281)
-- **FND-CIT-0028:** Nielsen G, Stone J, Matthews A, et al. *Physiotherapy for functional motor disorders: a consensus recommendation.* JNNP. 2015;86:1113–1119. [doi:10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255)
-- **FND-CIT-0035:** McCombs KE, MacLean J, Finkelstein SA, et al. *Sensory processing difficulties and occupational therapy outcomes for functional neurological disorder: a retrospective cohort study.* Neurology: Clinical Practice. 2024;14(3):e200286. [doi:10.1212/CPJ.0000000000200286](https://doi.org/10.1212/CPJ.0000000000200286)
+No new community quotations or community-only techniques were added. Technique-specific experiences, including neutral and adverse responses, remain a contributor gap.
 
-*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Clinical and accessibility review pending*
+| Citation | Full citation |
+|---|---|
+| <a id="citation-1"></a>**[1]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *JNNP*. 2020;91:1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [Source](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-2"></a>**[2]** | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *JNNP*. 2015;86:1113–1119. [FND-CIT-0028](../../research/citation-index.md#fnd-cit-0028). [Source](https://doi.org/10.1136/jnnp-2014-309255) |
+| <a id="citation-3"></a>**[3]** | McCombs KE, MacLean J, Finkelstein SA, Goedeken S, Perez DL, Ranford J. Sensory processing difficulties and occupational therapy outcomes for functional neurological disorder: a retrospective cohort study. *Neurology: Clinical Practice*. 2024;14(3):e200286. [FND-CIT-0035](../../research/citation-index.md#fnd-cit-0035). [Source](https://doi.org/10.1212/CPJ.0000000000200286) |
+| <a id="citation-4"></a>**[4]** | Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031. [FND-CIT-0023](../../research/citation-index.md#fnd-cit-0023). [Source](https://doi.org/10.1093/braincomms/fcag031) |
+| <a id="citation-5"></a>**[5]** | NHS. Transcutaneous electrical nerve stimulation (TENS). Reviewed February 14, 2025; accessed September 15, 2026. [FND-CIT-0102](../../research/citation-index.md#fnd-cit-0102). [Source](https://www.nhs.uk/tests-and-treatments/transcutaneous-electrical-nerve-stimulation-tens/) |
+
+*Source check: September 15, 2026 · Clinical, lived-experience, supporter and accessibility review pending.*
