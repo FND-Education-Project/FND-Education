@@ -430,6 +430,25 @@ Use the sections below to drill down into the course, reference library, researc
 </details>
 
 <details>
+<summary><strong>Functional Sensory Recovery Techniques</strong></summary>
+
+- [Collection overview](reference/recovery-techniques/functional_sensory_symptoms/README.md)
+- [Graded Sensory Input for Reduced or Altered Sensation](reference/recovery-techniques/functional_sensory_symptoms/01-graded-sensory-input.md)
+- [Desensitization for Painful Touch and Hypersensitivity](reference/recovery-techniques/functional_sensory_symptoms/02-desensitization-for-painful-touch.md)
+- [Sensory Discrimination: Texture, Location and Object Recognition](reference/recovery-techniques/functional_sensory_symptoms/03-sensory-discrimination.md)
+- [Pairing Sensation With Meaningful Movement](reference/recovery-techniques/functional_sensory_symptoms/04-sensation-with-meaningful-movement.md)
+- [Graded Return to Clothing, Footwear and Everyday Contact](reference/recovery-techniques/functional_sensory_symptoms/05-ordinary-contact-and-clothing.md)
+- [Visual and Mirror Feedback for Altered Body Sensation](reference/recovery-techniques/functional_sensory_symptoms/06-visual-and-mirror-feedback.md)
+- [External Attention and Task Focus](reference/recovery-techniques/functional_sensory_symptoms/07-external-attention-and-task-focus.md)
+- [Sensory-Profile Assessment and Environmental Adaptation](reference/recovery-techniques/functional_sensory_symptoms/08-sensory-profile-and-environment.md)
+- [TENS and Electrical Stimulation: Specialist Review and Safety](reference/recovery-techniques/functional_sensory_symptoms/09-tens-and-electrical-stimulation-review.md)
+- [Coexisting Pain, Migraine and Medical Review](reference/recovery-techniques/functional_sensory_symptoms/10-coexisting-pain-migraine-and-medical-review.md)
+- [Skin, Pressure and Injury Protection](reference/recovery-techniques/functional_sensory_symptoms/11-skin-pressure-and-injury-protection.md)
+- [Episode, Flare and Available-Capacity Planning](reference/recovery-techniques/functional_sensory_symptoms/12-episode-flare-and-capacity-planning.md)
+
+</details>
+
+<details>
 <summary><strong>Functional Seizure Recovery Materials</strong></summary>
 
 - [Functional seizure techniques and materials index](reference/recovery-techniques/functional_seizures/README.md)

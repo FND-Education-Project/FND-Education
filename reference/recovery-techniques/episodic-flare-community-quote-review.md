@@ -99,6 +99,10 @@ When one or more quotations are chosen for publication:
 
 *Quote review created: August 31, 2026 · Public-source verification and final editorial selection pending*
 
+## Functional sensory technique experience gaps — September 15, 2026
+
+The [twelve detailed sensory pages](functional_sensory_symptoms/README.md) add no new community quotations. Contributor review is still needed for experiences of reduced sensation versus painful contact, sensory discrimination, visual feedback, clothing adaptation, environmental access, skin protection and no-warning flare support. Seek positive, neutral and adverse accounts, including clinician and supporter interactions. Do not relabel hazardous stimulation or forced exposure as community recommendations, and do not manufacture quotations to fill gaps.
+
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
