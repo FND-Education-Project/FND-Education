@@ -21,7 +21,13 @@ For deeper functional-seizure work, see the [CBT resource map and five-booklet p
 - **Emerging:** supported by a pilot, feasibility study, small series or developing treatment literature that needs confirmation.
 - **Community-reported:** repeated in at least two independent public lived-experience or patient-community sources but not found in the research reviewed for that exact technique.
 
-Many techniques are components of a larger rehabilitation program and have not been tested separately. The symptom pages say when evidence applies to a whole program rather than to one exercise. The [functional-limb-weakness](functional_limb_weakness/README.md), [functional-tremor](functional_tremor/README.md), [functional-jerks](functional_jerks_and_myoclonus/README.md), [functional-dystonia](functional_dystonia/README.md), [functional-gait-disorder](functional_gait_disorder/README.md) [functional-seizure](functional_seizures/README.md) and [functional-sensory](functional_sensory_symptoms/README.md) collections are the first sets of expanded individual-technique pages; their explicit procedures remain educational drafts rather than fixed protocols.
+Many techniques are components of a larger rehabilitation program and have not been tested separately. The symptom pages say when evidence applies to a whole program rather than to one exercise. The [functional-limb-weakness](functional_limb_weakness/README.md), [functional-tremor](functional_tremor/README.md), [functional-jerks](functional_jerks_and_myoclonus/README.md), [functional-dystonia](functional_dystonia/README.md), [functional-gait-disorder](functional_gait_disorder/README.md), [functional-seizure](functional_seizures/README.md) and [functional-sensory](functional_sensory_symptoms/README.md) collections are the first sets of expanded individual-technique pages; their explicit procedures remain educational drafts rather than fixed protocols.
+
+## Page counts and original technique lists
+
+The [history audit](../../docs/project/recovery-technique-history-audit.md) records the original entry counts for all sixteen symptoms and maps each entry in the seven expanded collections to its detailed coverage. Some original entries contain several components; some overlapping entries share a page. Extra care-planning or specialist-review pages are identified separately. Neither the original entry count nor the page count is a count of independently proven treatments.
+
+There is no target number of pages per symptom. Future expansion must begin with that symptom’s actual list and explain any split, combination, omission or addition.
 
 ## Required episode and flare coverage
 

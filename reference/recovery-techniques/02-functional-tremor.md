@@ -30,14 +30,24 @@ Each technique below now opens a full page with patient guidance, supporter guid
 
 ### Techniques used in rehabilitation
 
+**About this list:** 8 original entries became 9 pages because mirror feedback and surface-EMG feedback were separated. The [collection index](functional_tremor/README.md) preserves the original groupings. A page count is not a count of independently validated treatments.
+
 1. **[Voluntary tremor retrainment](functional_tremor/01-voluntary-tremor-retraining.md).** Most relevant when an affected wrist or limb can follow a deliberately slower or larger rhythm, creating a bridge from involuntary oscillation to a movement that can be shaped and gradually slowed. This is clinician-directed practice, not forced suppression or proof of voluntary symptoms. **[Emerging evidence from a small proof-of-concept study; supported by clinical consensus]**
+
 2. **[Competing rhythm and entrainment practice](functional_tremor/02-competing-rhythm-and-entrainment-practice.md).** Most relevant when tapping, clapping or making a flowing rhythm with another limb changes the tremor’s frequency, size or interference enough to begin a useful task. **[Clinical consensus; informed by functional-tremor entrainment research, with limited direct component evidence]**
+
 3. **[External focus and meaningful-task practice](functional_tremor/03-external-focus-and-meaningful-task-practice.md).** Most relevant when the limb works more steadily while rotating a safe object, reaching to a target, sorting items or completing another purposeful action than while the person watches or tests the shaking. **[Clinical consensus]**
+
 4. **[Posture, alignment and movement-pattern adjustment](functional_tremor/04-posture-alignment-and-movement-pattern-adjustment.md).** Most relevant when tremor is tied to a repeatable position or load—such as a raised shoulder, extended wrist, forceful grip, forefoot stance or uneven weight—and one less effortful alignment improves function. **[Clinical consensus]**
+
 5. **[Contract–release and muscle relaxation](functional_tremor/05-contract-release-and-muscle-relaxation.md).** Most relevant when bracing, gripping or co-contraction adds stiffness and effort around the tremoring joint; a gentle contraction followed by release may create a better starting point for movement. **[Clinical consensus; direct component evidence is limited]**
+
 6. **[Mirror and visual feedback](functional_tremor/06-mirror-and-visual-feedback.md).** Most relevant when a brief view of alignment, rhythm or weight distribution makes a useful change recognizable and reproducible without increasing visual overload or symptom surveillance. **[Clinical consensus; direct component evidence is limited]**
+
 7. **[Surface-EMG biofeedback](functional_tremor/07-surface-emg-biofeedback.md).** Most relevant when a clinician needs to make activity in a specific accessible muscle visible or audible so the person can practise reducing unnecessary recruitment before a task. It is separate from diagnostic electrophysiology and from the tactile/visual pacing used in the retrainment study. **[Clinical consensus; direct functional-tremor treatment evidence is limited]**
+
 8. **[Individualized whole-person treatment](functional_tremor/08-individualized-whole-person-treatment.md).** Most relevant when tremor affects several life roles or interacts with pain, fatigue, sleep, mood, trauma-related symptoms or another condition, requiring selected input from physiotherapy, occupational therapy, psychology, speech-language therapy or medical care. **[Programme-level research and multidisciplinary clinical consensus; no single combination fits everyone]**
+
 9. **[Relapse and self-management planning](functional_tremor/09-relapse-and-self-management-planning.md).** Most relevant for episodic, fluctuating or persistent tremor that requires a written hazard plan, one rehearsed cue, task adaptations, graded return and explicit thresholds for reassessment. **[Clinical consensus; supported as one component of structured rehabilitation]**
 
 ### If tremor starts in an episode or suddenly intensifies

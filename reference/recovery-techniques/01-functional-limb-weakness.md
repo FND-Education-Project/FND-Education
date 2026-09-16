@@ -31,17 +31,30 @@ Choose a task that matters—standing at the kitchen counter, carrying a light o
 
 ### Techniques used in rehabilitation
 
+**About this list:** 10 original entries became 12 pages by separating backward walking from foot sliding, and mirror feedback from treadmill/body-weight support. No extra list entry was needed. The [collection index](functional_limb_weakness/README.md) preserves the original groupings. A page count is not a count of independently validated treatments.
+
 1. **[Automatic and task-oriented movement](functional_limb_weakness/01-automatic-and-task-oriented-movement.md).** Best suited when the limb joins an ordinary action more easily than it responds to an isolated command—for example, a hand steadies paper despite weak grip testing, or a leg advances more freely toward a target than during repeated strength checks. **[Clinical consensus]**
+
 2. **[External focus and divided attention](functional_limb_weakness/02-external-focus-and-divided-attention.md).** Best suited when movement becomes more effortful while the person watches, judges or consciously controls the weak limb, but is easier with a destination, rhythm, conversation or simple second task. **[Clinical consensus]**
+
 3. **[Supported loading and weight-bearing](functional_limb_weakness/03-supported-loading-and-weight-bearing.md).** Best suited when a weak leg feels unable to accept body weight, the knee threatens to buckle, or the person overuses their arms during standing even though some hip, knee and ankle stability can be found with graded support. **[Clinical consensus]**
+
 4. **[Step initiation from weight shift](functional_limb_weakness/04-step-initiation-from-weight-shift.md).** Best suited when standing is possible but the first step feels blocked, delayed or excessively effortful. The technique turns controlled transfer of body mass onto the stance leg into release and placement of the other foot. **[Clinical consensus]**
+
 5. **[Foot sliding for ankle and leg weakness](functional_limb_weakness/05-foot-sliding-for-ankle-and-leg-weakness.md).** Best suited when the foot sticks, drags or will not lift cleanly during forward swing, while contact with the floor makes a smoother sliding movement available. **[Clinical consensus]**
+
 6. **[Backward walking as a bridge to forward walking](functional_limb_weakness/06-backward-walking-as-a-bridge.md).** Best suited when forward walking produces foot drag, knee buckling or an over-controlled step but a safer, more continuous pattern appears during therapist-supervised backward stepping. **[Clinical consensus]**
+
 7. **[Treadmill and body-weight-supported walking](functional_limb_weakness/07-treadmill-and-body-weight-supported-walking.md).** Best suited when an external belt rhythm or partial unloading allows repeated stepping that is difficult over ground, or when fall protection is required to practise a continuous gait pattern. **[Clinical consensus]**
+
 8. **[Mirror and visual feedback](functional_limb_weakness/08-mirror-and-visual-feedback.md).** Best suited when selected visual information improves alignment, weight transfer or recognition of a smoother movement. It is not a default choice when mirror attention increases checking, dissociation or symptoms. **[Clinical consensus; direct evidence for this component is limited]**
+
 9. **[Meaningful upper-limb and two-handed tasks](functional_limb_weakness/09-meaningful-upper-limb-and-two-handed-tasks.md).** Best suited when reaching, grip or dexterity is weak on command but the affected arm or hand contributes more naturally while stabilizing, carrying, folding, typing or completing a familiar two-handed task. **[Clinical consensus]**
+
 10. **[Graded activity and reconditioning](functional_limb_weakness/10-graded-activity-and-reconditioning.md).** Best suited when reduced activity has added deconditioning, reduced endurance or fear of ordinary movement to the original weakness. The dose must respond to pain, fatigue, orthostatic symptoms and delayed post-activity worsening. **[Clinical consensus; rehabilitation-programme evidence does not establish one dosing formula]**
+
 11. **[Electrical stimulation as a movement adjunct](functional_limb_weakness/11-electrical-stimulation-as-an-adjunct.md).** Best suited only after clinical assessment when a timed sensory or motor cue may help the person recognize and practise a specific movement, such as ankle dorsiflexion during swing. It is not a stand-alone treatment or a test of whether weakness is functional. **[Emerging and uncertain evidence]**
+
 12. **[Relapse and self-management planning](functional_limb_weakness/12-relapse-and-self-management-planning.md).** Best suited for fluctuating, episodic or persistent weakness when the person needs a rehearsed response to early change, a safe fallback during a flare and a graded route back to the interrupted activity. **[Clinical consensus; supported as a component of structured rehabilitation rather than as an isolated treatment]**
 
 ### If weakness comes in episodes or flares

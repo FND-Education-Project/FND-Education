@@ -10,6 +10,8 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Labels:** **R** research-supported · **C** clinical consensus · **E** emerging · **L** repeated community report. A label applies to the technique or treatment approach named, not to a promise of recovery.
 
+This index includes treatment options, rehabilitation components and supporting care. Its entries are not a count of distinct proven treatments. The [history audit](../../docs/project/recovery-technique-history-audit.md) maps the original lists to the expanded pages and identifies additions.
+
 ## Techniques by symptom
 
 ### [Functional limb weakness](01-functional-limb-weakness.md)
@@ -63,9 +65,12 @@ This page provides two ways to find the same material. The first groups techniqu
 - [Electrical stimulation as an adjunct](functional_dystonia/08-electrical-stimulation-as-an-adjunct.md) when a clinician identifies a specific sensory or motor cue that improves one functional action and can be faded. **[Emerging and uncertain evidence; use only as a clinician-selected adjunct]**
 - [Pain, skin, joint-range and contracture management](functional_dystonia/09-pain-skin-joint-and-contracture-management.md) when a secondary complication has become a distinct barrier to movement, care or participation. **[Clinical consensus; management must follow the identified complication]**
 - [Splint, orthosis, footwear and mobility-equipment review](functional_dystonia/10-equipment-and-orthosis-review.md) when a device has a defined protection, safety or access goal, or existing equipment is painful, poorly fitting or function-limiting. **[Clinical consensus; equipment requires a defined goal and regular review]**
-- [Specialist botulinum-toxin review](functional_dystonia/11-specialist-botulinum-toxin-review.md) only when a specialist identifies a specific target and functional goal or a coexisting nonfunctional dystonia. **[A small pilot randomized trial found no added benefit over placebo before cognitive behavioural therapy; selected use remains uncertain]**
-- [Episode, flare and relapse planning](functional_dystonia/12-episode-flare-and-relapse-planning.md) when posturing is intermittent, changes sharply or returns after improvement and needs a safety, no-warning fallback and graded-return plan. **[Clinical consensus]**
-- [Individualized multidisciplinary treatment](functional_dystonia/13-individualized-multidisciplinary-treatment.md) when movement work must be coordinated with pain, daily activities, psychological care when relevant, equipment, work or treatment of coexisting conditions. **[Small case-series, pilot-trial and programme-level evidence plus multidisciplinary clinical consensus; no single package fits everyone]**
+
+**Additional treatment-review and care pages (outside the original numbered list):**
+
+- **Additional specialist treatment review:** [Specialist botulinum-toxin review](functional_dystonia/11-specialist-botulinum-toxin-review.md) only when a specialist identifies a specific target and functional goal or a coexisting nonfunctional dystonia. **[A small pilot randomized trial found no added benefit over placebo before cognitive behavioural therapy; selected use remains uncertain]**
+- **Additional care-planning guidance:** [Episode, flare and relapse planning](functional_dystonia/12-episode-flare-and-relapse-planning.md) when posturing is intermittent, changes sharply or returns after improvement and needs a safety, no-warning fallback and graded-return plan. **[Clinical consensus]**
+- **Additional coordinated-care guidance:** [Individualized multidisciplinary treatment](functional_dystonia/13-individualized-multidisciplinary-treatment.md) when movement work must be coordinated with pain, daily activities, psychological care when relevant, equipment, work or treatment of coexisting conditions. **[Small case-series, pilot-trial and programme-level evidence plus multidisciplinary clinical consensus; no single package fits everyone]**
 
 ### [Functional gait disorder](05-functional-gait-disorder.md)
 
@@ -90,13 +95,16 @@ This page provides two ways to find the same material. The first groups techniqu
 - **[Warning and Pattern Mapping](functional_seizures/03-warning-and-pattern-mapping.md)** — Use a brief, low-burden record to find a usable early cue or recovery need; a trigger or remembered warning may never be identifiable. **[Specialist clinical guidance; no requirement to find a trigger]**
 - **[Sensory Grounding and an Attention Anchor](functional_seizures/04-sensory-grounding-and-attention-anchor.md)** — At a familiar warning with enough awareness, try one tolerable visual or touch cue already practised in safety; skip cues that add sensory overload. **[Specialist clinical guidance; individual grounding variants lack isolated efficacy evidence]**
 - **[Seizure-Focused Psychological Treatment](functional_seizures/05-seizure-focused-psychological-treatment.md)** — Choose a structured programme around the person’s goals, such as episode coping or returning to activities, with an honest discussion of mixed trial outcomes. **[Research-supported programmes with mixed outcomes; individual components are not independently proven]**
-- **[ReACT for Children and Adolescents](functional_seizures/06-react-for-children-and-adolescents.md)** — Consider a clinician-delivered paediatric programme with an individualized response and family plan; its evidence does not establish the same approach for adults. **[Emerging paediatric programme evidence; do not generalize directly to adults]**
 - **[Clinician-Taught Breathing Control](functional_seizures/07-clinician-taught-breathing-control.md)** — Seek respiratory assessment and comfortable, supervised practice when breathing patterns may be relevant; do not improvise breath-holding or deep-breathing drills. **[Emerging evidence; a published randomized-trial protocol is not an efficacy result]**
 - **[Coexisting-Condition and Load Review](functional_seizures/08-coexisting-condition-and-load-review.md)** — Address a specific untreated condition or practical burden, such as pain, sleep disruption or difficult access to care, even when seizures continue. **[Clinical guideline and multidisciplinary care; benefits for another condition do not prove a seizure effect]**
 - **[Prescriber-Led Medication Review](functional_seizures/09-prescriber-led-medication-review.md)** — Clarify the purpose of every regular and rescue medicine and arrange supervised changes only when indicated, including separate treatment for coexisting epilepsy. **[Clinical guideline recommendation; no unsupervised withdrawal]**
 - **[Supported Return to Activities](functional_seizures/10-supported-return-to-activities.md)** — Adapt one valued activity for event unpredictability, fatigue and safety, preserving the aids and help that make participation possible. **[Clinical and occupational-therapy guidance; programme evidence does not establish a fixed activity dose]**
-- **[Supporter Response Rehearsal](functional_seizures/11-supporter-response-rehearsal.md)** — Talk through the agreed response with chosen supporters between events, including who stays, who helps and when medical escalation is needed. **[Clinical guideline and safety guidance; rehearsal is an implementation aid]**
-- **[Recovery, Cluster and Flare Planning](functional_seizures/12-recovery-cluster-and-flare-planning.md)** — Separate the visible event from prolonged recovery or surrounding symptoms and plan safe transfers, communication and reassessment for a changed pattern. **[Individualized clinical care; distinguish familiar recovery from a new medical problem]**
+
+**Additional treatment-review and care pages (outside the original numbered list):**
+
+- **Additional age-specific treatment page:** **[ReACT for Children and Adolescents](functional_seizures/06-react-for-children-and-adolescents.md)** — Consider a clinician-delivered paediatric programme with an individualized response and family plan; its evidence does not establish the same approach for adults. **[Emerging paediatric programme evidence; do not generalize directly to adults]**
+- **Additional supporter-planning guidance:** **[Supporter Response Rehearsal](functional_seizures/11-supporter-response-rehearsal.md)** — Talk through the agreed response with chosen supporters between events, including who stays, who helps and when medical escalation is needed. **[Clinical guideline and safety guidance; rehearsal is an implementation aid]**
+- **Additional recovery-planning guidance:** **[Recovery, Cluster and Flare Planning](functional_seizures/12-recovery-cluster-and-flare-planning.md)** — Separate the visible event from prolonged recovery or surrounding symptoms and plan safe transfers, communication and reassessment for a changed pattern. **[Individualized clinical care; distinguish familiar recovery from a new medical problem]**
 
 ### [Functional sensory symptoms](07-functional-sensory-symptoms.md)
 
@@ -110,8 +118,11 @@ This page provides two ways to find the same material. The first groups techniqu
 - **[Sensory-Profile Assessment and Environmental Adaptation](functional_sensory_symptoms/08-sensory-profile-and-environment.md)** — Multiple forms of sensory input interfere with washing, appointments, rest or other activities, and a tailored OT assessment is needed. **[Emerging sensory-based OT evidence; uncontrolled cohort outcomes do not establish causation]**
 - **[TENS and Electrical Stimulation: Specialist Review and Safety](functional_sensory_symptoms/09-tens-and-electrical-stimulation-review.md)** — A qualified clinician is considering electrical input for a specific pain or rehabilitation goal and needs to establish whether it is suitable. **[Emerging and uncertain FND evidence; safety review is essential]**
 - **[Coexisting Pain, Migraine and Medical Review](functional_sensory_symptoms/10-coexisting-pain-migraine-and-medical-review.md)** — Burning, pain, spreading numbness or sensory overload may have more than one contributor, or a changed pattern needs reassessment. **[Clinical assessment and coordinated-care consensus; treatment follows the condition identified]**
-- **[Skin, Pressure and Injury Protection](functional_sensory_symptoms/11-skin-pressure-and-injury-protection.md)** — Reduced sensation makes heat, cuts, pressure or footwear injury difficult to notice, including during temporary episodes. **[Clinical safety adaptation; protection is supportive care rather than a proven sensory-restoration treatment]**
-- **[Episode, Flare and Available-Capacity Planning](functional_sensory_symptoms/12-episode-flare-and-capacity-planning.md)** — Sensation fluctuates or changes in familiar episodes, interrupting activity or creating hazards before a technique can be used. **[Clinical consensus and individualized care planning; no universal onset strategy]**
+
+**Additional treatment-review and care pages (outside the original numbered list):**
+
+- **Additional injury-protection guidance:** **[Skin, Pressure and Injury Protection](functional_sensory_symptoms/11-skin-pressure-and-injury-protection.md)** — Reduced sensation makes heat, cuts, pressure or footwear injury difficult to notice, including during temporary episodes. **[Clinical safety adaptation; protection is supportive care rather than a proven sensory-restoration treatment]**
+- **Additional flare-planning guidance:** **[Episode, Flare and Available-Capacity Planning](functional_sensory_symptoms/12-episode-flare-and-capacity-planning.md)** — Sensation fluctuates or changes in familiar episodes, interrupting activity or creating hazards before a technique can be used. **[Clinical consensus and individualized care planning; no universal onset strategy]**
 
 ### [Functional visual symptoms](08-functional-visual-symptoms.md)
 
@@ -230,7 +241,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Balance and gait exercises after vestibular assessment** — PPPD. **C**
 
-**[Botulinum toxin discussion after specialist phenotype review](functional_dystonia/11-specialist-botulinum-toxin-review.md)** — Selected functional dystonia and functional facial symptoms; routine use is not supported. **[A small functional-dystonia pilot randomized trial found no added benefit over placebo before cognitive behavioural therapy; selected use remains uncertain]**
+**[Botulinum toxin discussion after specialist phenotype review](functional_dystonia/11-specialist-botulinum-toxin-review.md)** — Additional specialist treatment review. Selected functional dystonia and functional facial symptoms; routine use is not supported. **[A small functional-dystonia pilot randomized trial found no added benefit over placebo before cognitive behavioural therapy; selected use remains uncertain]**
 
 **Breathing, posture and muscle-relaxation exercises** — Speech/voice; swallowing/globus; cough/upper-airway; tremor; facial symptoms. **C**
 
@@ -266,7 +277,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **[Electrical muscle stimulation, functional electrical stimulation or TENS as an adjunct](functional_dystonia/08-electrical-stimulation-as-an-adjunct.md)** — Weakness, dystonia and sensory symptoms when a qualified clinician identifies a specific sensory, motor or pain goal. **[Emerging and uncertain evidence]**
 
-**[Episode, Flare and Available-Capacity Planning](functional_sensory_symptoms/12-episode-flare-and-capacity-planning.md)** — Functional sensory symptoms. Sensation fluctuates or changes in familiar episodes, interrupting activity or creating hazards before a technique can be used. **[Clinical consensus and individualized care planning; no universal onset strategy]**
+**[Episode, Flare and Available-Capacity Planning](functional_sensory_symptoms/12-episode-flare-and-capacity-planning.md)** — Additional flare-planning guidance. Functional sensory symptoms. Sensation fluctuates or changes in familiar episodes, interrupting activity or creating hazards before a technique can be used. **[Clinical consensus and individualized care planning; no universal onset strategy]**
 
 **[Exaggerated movement and marching](functional_gait_disorder/06-exaggerated-movement-and-marching.md)** — Functional gait disorder when a deliberately different step improves clearance or organization and can be shaped toward ordinary gait. **[Clinical consensus; direct component evidence is limited]**
 
@@ -314,7 +325,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **[Individualized Episode Safety Plan](functional_seizures/02-individualized-episode-safety-plan.md)** — Functional seizures. Prepare the surroundings and response for shaking, still or unresponsive events, especially when there is no time to act on a warning. **[Clinical safety guidance; not a method for forcing an episode to stop]**
 
-**[Individualized multidisciplinary treatment for functional dystonia](functional_dystonia/13-individualized-multidisciplinary-treatment.md)** — Functional dystonia interacting with pain, daily activities, psychological needs when relevant, equipment, work or coexisting conditions. **[Small case-series, pilot-trial and programme-level evidence plus multidisciplinary clinical consensus; no single package fits everyone]**
+**[Individualized multidisciplinary treatment for functional dystonia](functional_dystonia/13-individualized-multidisciplinary-treatment.md)** — Additional coordinated-care guidance. Functional dystonia interacting with pain, daily activities, psychological needs when relevant, equipment, work or coexisting conditions. **[Small case-series, pilot-trial and programme-level evidence plus multidisciplinary clinical consensus; no single package fits everyone]**
 
 **[Individualized rehabilitation and relapse planning for functional gait disorder](functional_gait_disorder/13-individualized-rehabilitation-and-relapse-planning.md)** — Functional gait disability requiring selected movement, equipment, participation and coexisting-condition plans. **[Functional-gait-specific and mixed functional-motor programme evidence; no single component is established as the active ingredient]**
 
@@ -366,9 +377,9 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Psychologically informed vestibular rehabilitation or CBT** — PPPD. **E**
 
-**[ReACT for Children and Adolescents](functional_seizures/06-react-for-children-and-adolescents.md)** — Functional seizures. Consider a clinician-delivered paediatric programme with an individualized response and family plan; its evidence does not establish the same approach for adults. **[Emerging paediatric programme evidence; do not generalize directly to adults]**
+**[ReACT for Children and Adolescents](functional_seizures/06-react-for-children-and-adolescents.md)** — Additional age-specific treatment page. Functional seizures. Consider a clinician-delivered paediatric programme with an individualized response and family plan; its evidence does not establish the same approach for adults. **[Emerging paediatric programme evidence; do not generalize directly to adults]**
 
-**[Recovery, Cluster and Flare Planning](functional_seizures/12-recovery-cluster-and-flare-planning.md)** — Functional seizures. Separate the visible event from prolonged recovery or surrounding symptoms and plan safe transfers, communication and reassessment for a changed pattern. **[Individualized clinical care; distinguish familiar recovery from a new medical problem]**
+**[Recovery, Cluster and Flare Planning](functional_seizures/12-recovery-cluster-and-flare-planning.md)** — Additional recovery-planning guidance. Functional seizures. Separate the visible event from prolonged recovery or surrounding symptoms and plan safe transfers, communication and reassessment for a changed pattern. **[Individualized clinical care; distinguish familiar recovery from a new medical problem]**
 
 **Reducing repeated checking, reassurance seeking or self-testing** — Swallowing/globus; Functional Cognitive Disorder. **C**
 
@@ -396,7 +407,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **Shaping an easier sound into speech** — Functional speech and voice symptoms. **C**
 
-**[Skin, Pressure and Injury Protection](functional_sensory_symptoms/11-skin-pressure-and-injury-protection.md)** — Functional sensory symptoms. Reduced sensation makes heat, cuts, pressure or footwear injury difficult to notice, including during temporary episodes. **[Clinical safety adaptation; protection is supportive care rather than a proven sensory-restoration treatment]**
+**[Skin, Pressure and Injury Protection](functional_sensory_symptoms/11-skin-pressure-and-injury-protection.md)** — Additional injury-protection guidance. Functional sensory symptoms. Reduced sensation makes heat, cuts, pressure or footwear injury difficult to notice, including during temporary episodes. **[Clinical safety adaptation; protection is supportive care rather than a proven sensory-restoration treatment]**
 
 **[Speed and continuous-walking transformation](functional_gait_disorder/03-speed-and-continuous-walking-transformation.md)** — Functional gait disorder when another assessed pace improves continuity without increasing risk. **[Clinical consensus; direct component evidence is limited]**
 
@@ -408,7 +419,7 @@ This page provides two ways to find the same material. The first groups techniqu
 
 **[Supported Return to Activities](functional_seizures/10-supported-return-to-activities.md)** — Functional seizures. Adapt one valued activity for event unpredictability, fatigue and safety, preserving the aids and help that make participation possible. **[Clinical and occupational-therapy guidance; programme evidence does not establish a fixed activity dose]**
 
-**[Supporter Response Rehearsal](functional_seizures/11-supporter-response-rehearsal.md)** — Functional seizures. Talk through the agreed response with chosen supporters between events, including who stays, who helps and when medical escalation is needed. **[Clinical guideline and safety guidance; rehearsal is an implementation aid]**
+**[Supporter Response Rehearsal](functional_seizures/11-supporter-response-rehearsal.md)** — Additional supporter-planning guidance. Functional seizures. Talk through the agreed response with chosen supporters between events, including who stays, who helps and when medical escalation is needed. **[Clinical guideline and safety guidance; rehearsal is an implementation aid]**
 
 **[Surface-EMG biofeedback](functional_dystonia/07-surface-emg-biofeedback.md)** — Tremor and dystonia when a selected superficial muscle-activity signal supports a specific movement-learning goal. **[Clinical consensus; direct functional-dystonia treatment evidence is very limited]**
 

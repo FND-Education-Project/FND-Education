@@ -11,14 +11,15 @@ These pages collect research-informed rehabilitation, treatment and self-managem
 ## In this folder
 
 - **[Technique index](technique-index.md)** — browse recovery and management techniques by symptom or alphabetically, with evidence labels.
+- **[Original lists and page-count audit](../../docs/project/recovery-technique-history-audit.md)** — see where each expanded page came from and which pages were added for care or specialist review.
 - **[Collection and safety guide](collection-guide.md)** — understand the evidence labels, episode and flare guidance, safety limits and reassessment rules used throughout the collection.
 - **[Functional-limb-weakness detailed techniques](functional_limb_weakness/README.md)** — open the first symptom-specific collection of full technique pages, including clinician procedures and plain-language anatomy.
 - **[Functional-tremor detailed techniques](functional_tremor/README.md)** — open nine full pages covering retrainment, competing rhythm, task focus, posture, relaxation, visual and EMG feedback, coordinated care and relapse planning.
 - **[Functional-jerks detailed techniques](functional_jerks_and_myoclonus/README.md)** — open nine full pages covering pattern mapping, warning-based attention, continuous movement, pain and muscle work, meaningful tasks, load, startle, safety and coordinated care.
-- **[Functional-dystonia detailed techniques](functional_dystonia/README.md)** — open thirteen full pages covering supported positioning, gravity and task changes, loading, sensory work, visual and EMG feedback, stimulation, complications, equipment, injections, flare planning and coordinated care.
+- **[Functional-dystonia detailed techniques](functional_dystonia/README.md)** — open ten pages expanding the original list and three additional care/review pages covering supported positioning, gravity and task changes, loading, sensory work, visual and EMG feedback, stimulation, complications, equipment, injections, flare planning and coordinated care.
 - **[Functional-gait-disorder detailed techniques](functional_gait_disorder/README.md)** — open thirteen full pages covering step initiation, sliding, speed, direction, rhythm, task focus, stairs, treadmill and harness work, visual feedback, community transfer, mobility aids and coordinated rehabilitation.
-- **[Functional-seizure detailed techniques and learning materials](functional_seizures/README.md)** — open twelve technique pages, the existing CBT resource map and five planned unified booklets.
-- **[Functional-sensory detailed techniques](functional_sensory_symptoms/README.md)** — open twelve pages on sensory practice, daily contact, adaptation, stimulation safety, medical review, protection and flare planning.
+- **[Functional-seizure detailed techniques and learning materials](functional_seizures/README.md)** — open nine pages covering the original list, a paediatric programme page, two planning pages, the existing CBT resource map and five planned unified booklets.
+- **[Functional-sensory detailed techniques](functional_sensory_symptoms/README.md)** — open ten original-list expansions and two supporting care pages on sensory practice, daily contact, adaptation, stimulation safety, medical review, protection and flare planning.
 - **[Community experience quotations](community-experience-quotes.md)** — review lived-experience quotations organized by symptom and technique.
 - **[Episode and flare quotation review](episodic-flare-community-quote-review.md)** — review candidate community accounts about symptom onset, short episodes and longer flares.
 - **[Diagnostic techniques](../diagnostic-signs/README.md)** — find the separate collection about positive diagnostic signs and criteria.

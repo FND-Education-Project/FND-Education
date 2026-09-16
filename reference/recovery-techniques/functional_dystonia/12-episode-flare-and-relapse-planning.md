@@ -6,6 +6,8 @@
 
 > **Working draft:** Clinical and lived-experience review pending.
 
+**Page role:** Additional care-planning guidance. Develops the original unnumbered episode/flare guidance; it is not an additional distinct rehabilitation technique. See the [collection index](README.md) for the original technique groupings.
+
 **Most likely fit:** Posturing is intermittent, begins with a recognizable warning, changes sharply during a flare or returns after improvement. A written plan can reduce injury and indecision even when the person cannot stop the episode. **[Clinical consensus]**
 
 **Not the same as:** Promising prevention, searching obsessively for triggers, assuming every future symptom is FND, or asking supporters to straighten the body during an episode. No-warning episodes require a safety-first fallback.

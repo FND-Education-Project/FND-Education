@@ -6,17 +6,20 @@
 
 > **Working draft:** These clinician-explicit pages still need movement-disorder, neurophysiology, physiotherapy, occupational-therapy, psychological, lived-experience and accessibility review.
 
-This folder expands the brief descriptions on the [functional jerks or myoclonus recovery page](../03-functional-jerks-and-myoclonus.md). Each technique has its own page describing the appearance most likely to fit, relevant anatomy in clinical and everyday language, clinician selection and procedure, supporter guidance, safety limits and the evidence boundary.
+This folder expands the brief descriptions on the [functional jerks or myoclonus recovery page](../03-functional-jerks-and-myoclonus.md). Each detailed page describes the appearance most likely to fit, relevant anatomy in clinical and everyday language, clinician selection and procedure, supporter guidance, safety limits and the evidence boundary.
 
-1. [Pattern and warning mapping](01-pattern-and-warning-mapping.md)
-2. [Early attention redirection](02-early-attention-redirection.md)
-3. [Competing and continuous movement](03-competing-and-continuous-movement.md)
-4. [Pain and muscle-overactivity management](04-pain-and-muscle-overactivity-management.md)
-5. [Meaningful functional-task practice](05-meaningful-functional-task-practice.md)
-6. [Graded activity and load planning](06-graded-activity-and-load-planning.md)
-7. [Arousal and startle regulation](07-arousal-and-startle-regulation.md)
-8. [Episode safety and relapse planning](08-episode-safety-and-relapse-planning.md)
-9. [Individualized multidisciplinary treatment](09-individualized-multidisciplinary-treatment.md)
+## Original list: 8 entries
+
+8 original entries became 9 pages by separating activity/load planning from arousal regulation. The latter also elaborates startle-related selection; it is not a separately established treatment added by the count. These are document counts, not counts of independently proven treatments. [See the history audit](../../../docs/project/recovery-technique-history-audit.md).
+
+1. **Map the pattern:** [Pattern and Warning Mapping for Functional Jerks](01-pattern-and-warning-mapping.md).
+2. **Redirect attention at a familiar warning:** [Early Attention Redirection for Functional Jerks](02-early-attention-redirection.md).
+3. **Use a competing or continuous action:** [Competing and Continuous Movement for Functional Jerks](03-competing-and-continuous-movement.md).
+4. **Address pain or muscle overactivity before the jerk:** [Pain and Muscle-Overactivity Management for Functional Jerks](04-pain-and-muscle-overactivity-management.md).
+5. **Practise function, not repeated jerk suppression:** [Meaningful Functional-Task Practice for Functional Jerks](05-meaningful-functional-task-practice.md).
+6. **Graded activity and regulation:** [Graded Activity and Load Planning for Functional Jerks](06-graded-activity-and-load-planning.md); [Arousal and Startle Regulation for Functional Jerks](07-arousal-and-startle-regulation.md).
+7. **Safety and relapse plan:** [Episode Safety and Relapse Planning for Functional Jerks](08-episode-safety-and-relapse-planning.md).
+8. **Multidisciplinary treatment:** [Individualized Multidisciplinary Treatment for Functional Jerks](09-individualized-multidisciplinary-treatment.md).
 
 These pages use the repository’s existing category name, but **myoclonus has many functional and nonfunctional causes**. A sudden movement must not be assumed to be functional because it resembles a page example. Functional and nonfunctional movement disorders can coexist, and new or changed symptoms need assessment.
 

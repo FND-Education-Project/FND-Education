@@ -65,6 +65,12 @@ Compare internal body-focused cueing with a simple external goal before adding a
 
 Define the primary task and secondary task separately. A person using both hands on a walker should not be given a carrying task that compromises support. A person with visual-motion sensitivity may need an auditory or tactile destination cue rather than scanning.
 
+### Original hand-weight variant
+
+The physiotherapy consensus also lists walking while carrying small hand weights. This variant was present in the original overview but was lost when the hand-task and dual-task entries were combined. It is an optional clinician-selected variation, not a separate proven treatment or a general strengthening prescription. [1](#citation-1)
+
+If considered, first assess grip, upper-limb pain, fatigue, fall risk and whether the hands are needed for an aid or rail. Select any load individually; do not substitute weights for needed support. Compare with the unweighted task under appropriate guarding, and stop if gait, pain, fatigue or object control worsens. These safeguards adapt the consensus example; the source does not establish a universal load or an independently effective weighted-walking protocol.
+
 ### Explicit procedure
 
 1. Record baseline gait and the effect of internally focused correction.

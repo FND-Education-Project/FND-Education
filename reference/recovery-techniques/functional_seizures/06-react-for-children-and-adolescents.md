@@ -6,6 +6,8 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/). Clinical and lived-experience review pending.
 
+**Page role:** Additional age-specific treatment page. ReACT is a separately discussed paediatric programme within the psychological-treatment family. It was already mentioned in the CBT resource map, but was not a numbered entry in the original symptom list. See the [collection index](README.md) for the original technique groupings.
+
 **Most likely fit:** A child or adolescent with assessed functional seizures whose family and clinical team are considering a structured symptom-focused programme. **[Emerging paediatric programme evidence; do not generalize directly to adults]**
 
 ***

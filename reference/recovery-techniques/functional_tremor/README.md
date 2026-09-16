@@ -8,15 +8,18 @@
 
 This folder expands the brief technique descriptions on the [functional tremor recovery page](../02-functional-tremor.md). Each page explains which appearance of tremor may fit the technique, the relevant anatomy in clinical and everyday language, how a clinician may select and progress it, how supporters can help, and where the evidence stops.
 
-1. [Voluntary tremor retrainment](01-voluntary-tremor-retraining.md)
-2. [Competing rhythm and entrainment practice](02-competing-rhythm-and-entrainment-practice.md)
-3. [External focus and meaningful-task practice](03-external-focus-and-meaningful-task-practice.md)
-4. [Posture, alignment and movement-pattern adjustment](04-posture-alignment-and-movement-pattern-adjustment.md)
-5. [Contract–release and muscle relaxation](05-contract-release-and-muscle-relaxation.md)
-6. [Mirror and visual feedback](06-mirror-and-visual-feedback.md)
-7. [Surface-EMG biofeedback](07-surface-emg-biofeedback.md)
-8. [Individualized whole-person treatment](08-individualized-whole-person-treatment.md)
-9. [Relapse and self-management planning](09-relapse-and-self-management-planning.md)
+## Original list: 8 entries
+
+8 original entries became 9 pages because mirror feedback and surface-EMG feedback were separated. These are document counts, not counts of independently proven treatments. [See the history audit](../../../docs/project/recovery-technique-history-audit.md).
+
+1. **Tremor retrainment:** [Voluntary Tremor Retrainment for Functional Tremor](01-voluntary-tremor-retraining.md).
+2. **Competing rhythm:** [Competing Rhythm and Entrainment Practice for Functional Tremor](02-competing-rhythm-and-entrainment-practice.md).
+3. **External-focus task practice:** [External Focus and Meaningful-Task Practice for Functional Tremor](03-external-focus-and-meaningful-task-practice.md).
+4. **Posture and movement-pattern adjustment:** [Posture, Alignment and Movement-Pattern Adjustment for Functional Tremor](04-posture-alignment-and-movement-pattern-adjustment.md).
+5. **Contract–release relaxation:** [Contract–Release and Muscle Relaxation for Functional Tremor](05-contract-release-and-muscle-relaxation.md).
+6. **Mirror or EMG feedback:** [Mirror and Visual Feedback for Functional Tremor](06-mirror-and-visual-feedback.md); [Surface-EMG Biofeedback for Functional Tremor](07-surface-emg-biofeedback.md).
+7. **Whole-person treatment:** [Individualized Whole-Person Treatment for Functional Tremor](08-individualized-whole-person-treatment.md).
+8. **Relapse plan:** [Relapse and Self-Management Planning for Functional Tremor](09-relapse-and-self-management-planning.md).
 
 These are components a qualified clinician can combine, adapt or omit. They are not a fixed sequence, a self-test or a requirement to suppress every tremor. A technique helping or not helping does not confirm or disprove FND. New, substantially changed or medically concerning tremor needs appropriate assessment.
 

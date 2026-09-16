@@ -31,18 +31,32 @@ Each technique below opens a detailed page with the gait appearance most likely 
 
 ### Techniques used in rehabilitation
 
+**About this list:** 13 original entries still map to 13 pages: treadmill/support versus mirror feedback was split, while light-object/hand-task work and dual-task walking share one page. Equal totals therefore do not mean an unchanged one-to-one list. The [collection index](functional_gait_disorder/README.md) preserves the original groupings. A page count is not a count of independently validated treatments.
+
 1. **[Rhythmic weight shift and step initiation](functional_gait_disorder/01-rhythmic-weight-shift-and-step-initiation.md)** — most likely to help when the body does not transfer weight smoothly onto one leg, the other foot feels unable to begin its step, or a knee buckles during hesitant starting. Supported side-to-side movement is linked gradually to an unloaded step. **[Clinical consensus; direct component evidence is limited]**
+
 2. **[Foot sliding or “skating” progression](functional_gait_disorder/02-foot-sliding-or-skating-progression.md)** — most likely to help when a foot feels stuck, the leg drags, or trying deliberately to lift the whole foot makes the step harder. The foot first glides along the surface and is then shaped toward ordinary swing and clearance. **[Clinical consensus; direct component evidence is limited]**
+
 3. **[Speed and continuous-walking transformation](functional_gait_disorder/03-speed-and-continuous-walking-transformation.md)** — most likely to help a very slow, interrupted or over-controlled pattern that becomes smoother at a different safe pace. The useful change may be modestly faster walking or slower but continuous walking; the direction is assessed rather than assumed. **[Clinical consensus; direct component evidence is limited]**
+
 4. **[Backward, sideways and direction-change walking](functional_gait_disorder/04-backward-sideways-and-direction-change-walking.md)** — most likely to help when forward walking is disproportionately difficult but a different direction accesses a more organized step. The alternative direction is used briefly and under supervision as a bridge back to forward walking. **[Clinical consensus; not helpful or safe for everyone]**
+
 5. **[External rhythm and auditory cueing](functional_gait_disorder/05-external-rhythm-and-auditory-cueing.md)** — most likely to help irregular timing, unequal step rhythm or repeated stopping when the person can follow a comfortable count, beat, metronome or companion’s pace without rushing. **[Clinical consensus; no functional-gait trial isolates auditory cueing]**
+
 6. **[Exaggerated movement and marching](functional_gait_disorder/06-exaggerated-movement-and-marching.md)** — most likely to help low foot clearance, dragging, unusually short steps or a crouched or stiff pattern that changes when the movement is made deliberately different. High steps or marching are then reduced toward an efficient everyday step. **[Clinical consensus; direct component evidence is limited]**
+
 7. **[External focus and purposeful dual-task walking](functional_gait_disorder/07-external-focus-and-purposeful-dual-task-walking.md)** — most likely to help when watching and correcting every leg movement worsens walking but attention to a destination, object or simple meaningful task makes it more automatic. It is not suitable when divided attention itself increases falls or overload. **[Clinical and occupational-therapy consensus]**
+
 8. **[Stairs as a supervised bridge](functional_gait_disorder/08-stairs-as-a-supervised-bridge.md)** — considered only when stair stepping is demonstrably safer or more automatic than level walking and rails, guarding and adequate strength are available. It is not a home experiment or a universal treatment. **[Clinical consensus; stairs carry greater mechanical and fall demands]**
+
 9. **[Treadmill and body-weight-supported walking](functional_gait_disorder/09-treadmill-and-body-weight-supported-walking.md)** — most likely to help when a moving belt supplies continuous stepping or a harness permits safer repetition that cannot yet be obtained over ground. Equipment, staffing and emergency-stop procedures are essential. **[Clinical consensus; direct device-specific evidence in functional gait disorder is limited]**
+
 10. **[Mirror and visual feedback](functional_gait_disorder/10-mirror-and-visual-feedback.md)** — most likely to help when an external view of trunk, pelvis, knee or foot position simplifies one correction or reveals a more organized movement. It may be unsuitable when mirrors, visual motion or body watching increase symptoms. **[Clinical consensus; direct component evidence is limited]**
+
 11. **[Graded community walking and environmental complexity](functional_gait_disorder/11-graded-community-walking-and-environmental-complexity.md)** — most likely to help when walking achieved in the clinic does not transfer to home, outdoor, crowded, visually busy or uneven settings. Distance and one environmental demand are progressed at a time with a planned route back. **[Clinical and occupational-therapy consensus; supported only as part of broader rehabilitation programmes]**
+
 12. **[Mobility aids, guarding and fall planning](functional_gait_disorder/12-mobility-aids-guarding-and-fall-planning.md)** — most likely to help when buckling, swaying, sudden gait loss, fatigue or injury risk limits safe participation. The right aid is fitted, taught and reviewed; reducing an aid is only one possible future outcome. **[Clinical consensus; falls assessment is supported by observational evidence]**
+
 13. **[Individualized FND-informed rehabilitation and relapse planning](functional_gait_disorder/13-individualized-rehabilitation-and-relapse-planning.md)** — most likely to help persistent or mixed gait disability requiring selected movement techniques, education, conditioning, daily-task adaptation, treatment of relevant coexisting conditions and a written plan for setbacks. **[Functional-gait-specific and mixed functional-motor programme evidence; no single component is established as the active ingredient]**
 
 These are selectable components, not a thirteen-step programme. A person may use one, several or none. A technique that makes gait less safe, more painful or less functional should be stopped and reviewed rather than treated as a test of effort.

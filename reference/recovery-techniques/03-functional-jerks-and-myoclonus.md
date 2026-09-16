@@ -29,14 +29,24 @@ Functional jerks are often brief and difficult to retrain one movement at a time
 
 ### Techniques used in rehabilitation
 
+**About this list:** 8 original entries became 9 pages by separating activity/load planning from arousal regulation. The latter also elaborates startle-related selection; it is not a separately established treatment added by the count. The [collection index](functional_jerks_and_myoclonus/README.md) preserves the original groupings. A page count is not a count of independently validated treatments.
+
 1. **[Pattern and warning mapping](functional_jerks_and_myoclonus/01-pattern-and-warning-mapping.md)** — best when jerks occur in a recognizable context or cluster, or when a repeatable body sensation, posture or muscle change may reveal an earlier treatment entry point. **[Clinical consensus]**
+
 2. **[Early attention redirection](functional_jerks_and_myoclonus/02-early-attention-redirection.md)** — best when a familiar warning gives enough time to begin one safe external task before the usual jerk or cluster develops. **[Clinical consensus; only when a usable warning exists]**
+
 3. **[Competing and continuous movement](functional_jerks_and_myoclonus/03-competing-and-continuous-movement.md)** — best when a brief jerk emerges from a recognizable posture while a smooth, purposeful movement through the same region can remain more organized. **[Clinical consensus; direct component evidence is limited]**
+
 4. **[Pain and muscle-overactivity management](functional_jerks_and_myoclonus/04-pain-and-muscle-overactivity-management.md)** — best when pain, cramp, protective bracing or excess activity between jerks is a distinct barrier requiring its own assessment and treatment. **[Clinical consensus; treatment must follow the identified condition]**
+
 5. **[Meaningful functional-task practice](functional_jerks_and_myoclonus/05-meaningful-functional-task-practice.md)** — best when repeated suppression or testing increases effort, while a safe activity gives the whole movement system a useful goal. **[Clinical consensus]**
+
 6. **[Graded activity and load planning](functional_jerks_and_myoclonus/06-graded-activity-and-load-planning.md)** — best when longer bouts interact with fatigue, pain, deconditioning or an unsustainable physical, cognitive or sensory load. **[Clinical and occupational-therapy consensus; no universal dosing formula]**
+
 7. **[Arousal and startle regulation](functional_jerks_and_myoclonus/07-arousal-and-startle-regulation.md)** — best only when assessment and the person’s pattern show that surprise, anticipatory bracing or high alert reliably increases familiar jerks. **[Clinical consensus; relevant only when arousal or startle is part of the individual pattern]**
+
 8. **[Episode safety and relapse planning](functional_jerks_and_myoclonus/08-episode-safety-and-relapse-planning.md)** — best when jerks recur in clusters, create injury or object-dropping risk, or need setting-specific instructions and a no-warning fallback. **[Clinical consensus; supported as a component of structured rehabilitation]**
+
 9. **[Individualized multidisciplinary treatment](functional_jerks_and_myoclonus/09-individualized-multidisciplinary-treatment.md)** — best when movement rehabilitation must be coordinated with daily-task adaptation, psychological care when relevant, or treatment of pain, sleep and coexisting neurological conditions. **[Programme-level research and clinical consensus; functional-jerk-specific controlled evidence is lacking]**
 
 ### A brief jerk can still be part of a longer bout

@@ -6,6 +6,8 @@
 
 > **Working draft:** Clinical and lived-experience review pending.
 
+**Page role:** Additional coordinated-care guidance. Develops the original clinician discussion of multidisciplinary care; it is not an additional distinct exercise. See the [collection index](README.md) for the original technique groupings.
+
 **Most likely fit:** Posturing interacts with pain, skin or joint problems, daily activities, communication, sleep, mood, trauma-related symptoms, work, caregiving, medication or another neurological condition, so one discipline cannot safely address the whole problem. **[Small case-series, pilot-trial and programme-level evidence plus multidisciplinary clinical consensus; no single package fits everyone]**
 
 **Not the same as:** Requiring psychotherapy to validate the diagnosis, sending the person to every available service, withholding practical support until symptoms improve, or assuming a larger team is automatically better. Each referral needs a question and coordinated goal.
