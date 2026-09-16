@@ -103,6 +103,10 @@ When one or more quotations are chosen for publication:
 
 The [twelve detailed sensory pages](functional_sensory_symptoms/README.md) add no new community quotations. Contributor review is still needed for experiences of reduced sensation versus painful contact, sensory discrimination, visual feedback, clothing adaptation, environmental access, skin protection and no-warning flare support. Seek positive, neutral and adverse accounts, including clinician and supporter interactions. Do not relabel hazardous stimulation or forced exposure as community recommendations, and do not manufacture quotations to fill gaps.
 
+## Functional visual experience gaps — September 16, 2026
+
+The [nine detailed visual pages](functional_visual_symptoms/README.md) include no new community quotations. Review is needed for positive explanations, optical demonstrations, visual practice, light protection, coexisting conditions and uncertain specialist options, including no-warning episodes and adverse or neutral experiences. Preserve access needs and consent; personal accounts cannot establish treatment efficacy.
+
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

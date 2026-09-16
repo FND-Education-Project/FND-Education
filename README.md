@@ -153,6 +153,8 @@ The 32 symptom pages now explain that symptoms may be episodic, fluctuating, or 
 
 The [functional-seizure collection](reference/recovery-techniques/functional_seizures/README.md) has ten original entries represented by nine core pages, plus a paediatric programme page and two care-planning pages: twelve documents in total.
 
+The [functional-visual collection](reference/recovery-techniques/functional_visual_symptoms/README.md) expands its nine original entries into nine detailed pages, with no additional numbered approaches.
+
 The [functional-sensory collection](reference/recovery-techniques/functional_sensory_symptoms/README.md) has ten pages expanding the original list and two additional safety/flare-planning pages. The [history audit](docs/project/recovery-technique-history-audit.md) distinguishes original entries from document counts across all symptoms.
 
 The reference library also contains a developing [five-booklet functional-seizure CBT series](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/README.md), with separate outlines and content-creator guides.

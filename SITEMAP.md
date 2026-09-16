@@ -430,6 +430,22 @@ Use the sections below to drill down into the course, reference library, researc
 </details>
 
 <details>
+<summary><strong>Functional Visual Recovery Pages</strong></summary>
+
+- [Collection overview](reference/recovery-techniques/functional_visual_symptoms/README.md)
+- [Positive Explanation of Preserved Vision and Follow-Up](reference/recovery-techniques/functional_visual_symptoms/01-positive-explanation-and-follow-up.md)
+- [Noticing Briefly Better Vision Without Repeated Testing](reference/recovery-techniques/functional_visual_symptoms/02-noticing-briefly-better-vision.md)
+- [Orthoptist-Guided Visual Feedback](reference/recovery-techniques/functional_visual_symptoms/03-orthoptist-guided-visual-feedback.md)
+- [Graded Visual Tasks Linked to Daily Life](reference/recovery-techniques/functional_visual_symptoms/04-graded-visual-task-practice.md)
+- [Supported Visual Choice Without Waiting for Certainty](reference/recovery-techniques/functional_visual_symptoms/05-supported-choice-without-certainty.md)
+- [Photophobia: An Agreed Light and Protection Plan](reference/recovery-techniques/functional_visual_symptoms/06-photophobia-light-and-protection-plan.md)
+- [Treatment of Coexisting Eye, Migraine and Neurological Conditions](reference/recovery-techniques/functional_visual_symptoms/07-coexisting-eye-migraine-and-neurological-care.md)
+- [Hypnotherapy and Transparent Therapeutic Suggestion](reference/recovery-techniques/functional_visual_symptoms/08-hypnotherapy-and-therapeutic-suggestion.md)
+- [Advanced Visual Feedback and Non-Invasive Brain Stimulation: Specialist Review](reference/recovery-techniques/functional_visual_symptoms/09-advanced-feedback-and-brain-stimulation-review.md)
+
+</details>
+
+<details>
 <summary><strong>Functional Sensory Recovery Techniques</strong></summary>
 
 - [Collection overview](reference/recovery-techniques/functional_sensory_symptoms/README.md)

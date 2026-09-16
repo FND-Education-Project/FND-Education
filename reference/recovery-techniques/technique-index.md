@@ -126,13 +126,17 @@ This index includes treatment options, rehabilitation components and supporting 
 
 ### [Functional visual symptoms](08-functional-visual-symptoms.md)
 
-- **C** positive explanation using evidence of preserved vision
-- **C** noticing and recording brief examples of better vision
-- **E/C** orthoptist-guided visual feedback and graded visual tasks
-- **C** graded light exposure and planned reduction of dark adaptation or constant sunglasses use
-- **C** treatment of migraine and coexisting eye or neurological conditions
-- **E** hypnotherapy or suggestion combined with visual practice
-- **E** transcranial magnetic stimulation or advanced visual feedback in specialist/research settings
+Nine original entries, nine detailed pages; see the [collection mapping](functional_visual_symptoms/README.md).
+
+- **[Positive Explanation of Preserved Vision and Follow-Up](functional_visual_symptoms/01-positive-explanation-and-follow-up.md)** — The person has an assessed functional visual-loss pattern and needs to understand the positive findings, remaining uncertainty and continuing-care plan. **[Specialist clinical guidance; explanation is not a guaranteed vision-restoring treatment]**
+- **[Noticing Briefly Better Vision Without Repeated Testing](functional_visual_symptoms/02-noticing-briefly-better-vision.md)** — Occasional useful visual moments occur naturally and can help identify a workable task or setting without increasing checking. **[Specialist clinical guidance; no isolated efficacy evidence]**
+- **[Orthoptist-Guided Visual Feedback](functional_visual_symptoms/03-orthoptist-guided-visual-feedback.md)** — A specialist has identified a specific preserved visual response that can be explained and explored safely during an appointment. **[Specialist clinical practice; direct treatment evidence is limited]**
+- **[Graded Visual Tasks Linked to Daily Life](functional_visual_symptoms/04-graded-visual-task-practice.md)** — An assessed, low-risk visual task is possible and can be adjusted toward a specific reading, locating or everyday goal. **[Clinical rehabilitation adaptation; no established universal exercise dose]**
+- **[Supported Visual Choice Without Waiting for Certainty](functional_visual_symptoms/05-supported-choice-without-certainty.md)** — A clinician-selected matching or pointing task may reveal usable information even when the person cannot confidently describe what they see. **[Specialist clinical example; experimental therapeutic use rather than a validated home test]**
+- **[Photophobia: An Agreed Light and Protection Plan](functional_visual_symptoms/06-photophobia-light-and-protection-plan.md)** — Light sensitivity limits activities and specialist assessment supports considering a tolerable, individualized change alongside treatment of relevant causes. **[Specialist clinical guidance; FND-specific exposure evidence is limited and there is no universal schedule]**
+- **[Treatment of Coexisting Eye, Migraine and Neurological Conditions](functional_visual_symptoms/07-coexisting-eye-migraine-and-neurological-care.md)** — Functional visual symptoms coexist with a treatable eye, headache or neurological problem, or a changed presentation needs reassessment. **[Clinical assessment and condition-specific care; improvement does not identify a single mechanism]**
+- **[Hypnotherapy and Transparent Therapeutic Suggestion](functional_visual_symptoms/08-hypnotherapy-and-therapeutic-suggestion.md)** — A person wishes to discuss an optional clinician-delivered approach after the diagnosis and uncertain evidence have been explained. **[Emerging, very limited visual-specific evidence; not established routine treatment]**
+- **[Advanced Visual Feedback and Non-Invasive Brain Stimulation: Specialist Review](functional_visual_symptoms/09-advanced-feedback-and-brain-stimulation-review.md)** — A specialist or research team is evaluating an experimental visual-feedback or stimulation approach after discussing uncertainty and alternatives. **[Experimental or early clinical-report evidence; no established self-treatment protocol]**
 
 ### [Functional speech and voice symptoms](09-functional-speech-and-voice-symptoms.md)
 
@@ -231,6 +235,8 @@ This index includes treatment options, rehabilitation components and supporting 
 
 **Acceptance and commitment therapy (ACT), FCD-specific online group** — Functional Cognitive Disorder. **E**
 
+**[Advanced Visual Feedback and Non-Invasive Brain Stimulation: Specialist Review](functional_visual_symptoms/09-advanced-feedback-and-brain-stimulation-review.md)** — Functional visual symptoms. A specialist or research team is evaluating an experimental visual-feedback or stimulation approach after discussing uncertainty and alternatives. **[Experimental or early clinical-report evidence; no established self-treatment protocol]**
+
 **Attention redirection or external-focus practice** — Limb weakness; paralysis; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; swallowing; Functional Cognitive Disorder; facial symptoms. **C**
 
 **Automatic and task-oriented movement retraining** — Limb weakness; paralysis; gait; dystonia. **C**
@@ -305,8 +311,6 @@ This index includes treatment options, rehabilitation components and supporting 
 
 **Graded exposure to avoided tasks or triggers** — Dystonia; sensory symptoms; visual symptoms; swallowing; cough; PPPD; selected functional facial symptoms. **C/E**
 
-**Graded light exposure and reduced dark adaptation** — Functional visual symptoms with photophobia. **C**
-
 **Graded return to avoided activity with fall support** — Functional drop attacks. **E/C**
 
 **[Graded Return to Clothing, Footwear and Everyday Contact](functional_sensory_symptoms/05-ordinary-contact-and-clothing.md)** — Functional sensory symptoms. A particular necessary contact is avoided or shortened because it is unpleasant, even though a smaller version may be manageable. **[Clinical consensus; use an individualized goal and retain necessary accommodations]**
@@ -315,13 +319,15 @@ This index includes treatment options, rehabilitation components and supporting 
 
 **[Graded Sensory Input for Reduced or Altered Sensation](functional_sensory_symptoms/01-graded-sensory-input.md)** — Functional sensory symptoms. Contact feels faint, absent or unfamiliar, and a safe, tolerable input can be paired with a simple task. **[Clinical consensus; the particular practice sequence is an educational adaptation, not a tested standalone treatment]**
 
+**[Graded Visual Tasks Linked to Daily Life](functional_visual_symptoms/04-graded-visual-task-practice.md)** — Functional visual symptoms. An assessed, low-risk visual task is possible and can be adjusted toward a specific reading, locating or everyday goal. **[Clinical rehabilitation adaptation; no established universal exercise dose]**
+
 **[Graded weight-bearing and functional use](functional_dystonia/04-graded-weight-bearing-and-functional-use.md)** — Functional dystonia when a hand or foot avoids contact or can accept some supported load but not yet participate fully in a task. **[Clinical consensus]**
 
 **Gut–brain neuromodulator discussion, prescriber led** — Globus after appropriate assessment; not established for functional dysphagia. **E/adjacent**
 
 **Habituation to head, body and visual motion** — PPPD. **R/C**
 
-**Hypnotherapy or suggestion combined with practice** — Functional visual symptoms. **E**
+**[Hypnotherapy and Transparent Therapeutic Suggestion](functional_visual_symptoms/08-hypnotherapy-and-therapeutic-suggestion.md)** — Functional visual symptoms. A person wishes to discuss an optional clinician-delivered approach after the diagnosis and uncertain evidence have been explained. **[Emerging, very limited visual-specific evidence; not established routine treatment]**
 
 **[Individualized Episode Safety Plan](functional_seizures/02-individualized-episode-safety-plan.md)** — Functional seizures. Prepare the surroundings and response for shaking, still or unresponsive events, especially when there is no time to act on a warning. **[Clinical safety guidance; not a method for forcing an episode to stop]**
 
@@ -351,13 +357,15 @@ This index includes treatment options, rehabilitation components and supporting 
 
 **Neuropsychological, occupational or speech-language cognitive rehabilitation** — Functional Cognitive Disorder. **C/E**
 
+**[Noticing Briefly Better Vision Without Repeated Testing](functional_visual_symptoms/02-noticing-briefly-better-vision.md)** — Functional visual symptoms. Occasional useful visual moments occur naturally and can help identify a workable task or setting without increasing checking. **[Specialist clinical guidance; no isolated efficacy evidence]**
+
 **Noticing examples of briefly better function** — Visual symptoms; movement symptoms; Functional Cognitive Disorder. **C**
 
 **Optokinetic or virtual-reality practice, supervised** — PPPD. **E**
 
 **Oral, swallowing, speech and eye-safety assessment** — Functional facial symptoms. **C**
 
-**Orthoptist-guided visual feedback and graded visual tasks** — Functional visual symptoms. **C/E**
+**[Orthoptist-Guided Visual Feedback](functional_visual_symptoms/03-orthoptist-guided-visual-feedback.md)** — Functional visual symptoms. A specialist has identified a specific preserved visual response that can be explained and explored safely during an appointment. **[Specialist clinical practice; direct treatment evidence is limited]**
 
 **Pain, fatigue, sleep, migraine, mental-health and other comorbidity treatment** — Potentially all symptom groups, selected individually. **C**
 
@@ -365,9 +373,13 @@ This index includes treatment options, rehabilitation components and supporting 
 
 **[Pairing Sensation With Meaningful Movement](functional_sensory_symptoms/04-sensation-with-meaningful-movement.md)** — Functional sensory symptoms. An altered-feeling hand or foot is difficult to use, but a supported, useful task is possible. **[Clinical and occupational-therapy consensus; programme principles do not prove sensory recovery]**
 
+**[Photophobia: An Agreed Light and Protection Plan](functional_visual_symptoms/06-photophobia-light-and-protection-plan.md)** — Functional visual symptoms. Light sensitivity limits activities and specialist assessment supports considering a tolerable, individualized change alongside treatment of relevant causes. **[Specialist clinical guidance; FND-specific exposure evidence is limited and there is no universal schedule]**
+
 **[Position and gravity change](functional_dystonia/02-position-and-gravity-change.md)** — Functional dystonia when movement is more available lying, sitting, leaning or with the limb supported. **[Clinical consensus]**
 
 **Positioning, pressure relief, skin and contracture prevention** — Functional paralysis. **C**
+
+**[Positive Explanation of Preserved Vision and Follow-Up](functional_visual_symptoms/01-positive-explanation-and-follow-up.md)** — Functional visual symptoms. The person has an assessed functional visual-loss pattern and needs to understand the positive findings, remaining uncertainty and continuing-care plan. **[Specialist clinical guidance; explanation is not a guaranteed vision-restoring treatment]**
 
 **Posture and alignment retraining** — Tremor; dystonia; weakness; gait. **C**
 
@@ -419,6 +431,8 @@ This index includes treatment options, rehabilitation components and supporting 
 
 **[Supported Return to Activities](functional_seizures/10-supported-return-to-activities.md)** — Functional seizures. Adapt one valued activity for event unpredictability, fatigue and safety, preserving the aids and help that make participation possible. **[Clinical and occupational-therapy guidance; programme evidence does not establish a fixed activity dose]**
 
+**[Supported Visual Choice Without Waiting for Certainty](functional_visual_symptoms/05-supported-choice-without-certainty.md)** — Functional visual symptoms. A clinician-selected matching or pointing task may reveal usable information even when the person cannot confidently describe what they see. **[Specialist clinical example; experimental therapeutic use rather than a validated home test]**
+
 **[Supporter Response Rehearsal](functional_seizures/11-supporter-response-rehearsal.md)** — Additional supporter-planning guidance. Functional seizures. Talk through the agreed response with chosen supporters between events, including who stays, who helps and when medical escalation is needed. **[Clinical guideline and safety guidance; rehearsal is an implementation aid]**
 
 **[Surface-EMG biofeedback](functional_dystonia/07-surface-emg-biofeedback.md)** — Tremor and dystonia when a selected superficial muscle-activity signal supports a specific movement-learning goal. **[Clinical consensus; direct functional-dystonia treatment evidence is very limited]**
@@ -426,6 +440,8 @@ This index includes treatment options, rehabilitation components and supporting 
 **[TENS and Electrical Stimulation: Specialist Review and Safety](functional_sensory_symptoms/09-tens-and-electrical-stimulation-review.md)** — Functional sensory symptoms. A qualified clinician is considering electrical input for a specific pain or rehabilitation goal and needs to establish whether it is suitable. **[Emerging and uncertain FND evidence; safety review is essential]**
 
 **[Treadmill and body-weight-supported walking](functional_gait_disorder/09-treadmill-and-body-weight-supported-walking.md)** — Limb weakness and functional gait disorder when equipment supplies a useful stepping condition or required fall protection. **[Clinical consensus; direct device-specific evidence in functional gait disorder is limited]**
+
+**[Treatment of Coexisting Eye, Migraine and Neurological Conditions](functional_visual_symptoms/07-coexisting-eye-migraine-and-neurological-care.md)** — Functional visual symptoms. Functional visual symptoms coexist with a treatable eye, headache or neurological problem, or a changed presentation needs reassessment. **[Clinical assessment and condition-specific care; improvement does not identify a single mechanism]**
 
 **Treatment of overlapping fall and event phenotypes** — Functional drop attacks. **C**
 
