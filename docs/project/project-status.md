@@ -12,6 +12,8 @@ The repository contains all 97 course pages: 23 module overviews and 74 focused 
 
 ## Completed foundation work
 
+- Expanded functional visual symptoms on September 16, 2026: nine original entries map one-to-one to nine detailed pages. Added source records FND-CIT-0103–0105, updated visual-loss scope and photophobia safeguards, and retained specialist and lived-experience review as pending.
+
 - Established the evidence-first project voice, safety rules and accessibility goals.
 - Created the six-part, 23-module syllabus.
 - Organized the course into 23 module folders and 97 pages.

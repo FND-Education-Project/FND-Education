@@ -27,7 +27,7 @@ The first thirteen symptom lists were additionally checked against their initial
 | [Functional Gait Disorder](../../reference/recovery-techniques/05-functional-gait-disorder.md) | 13 | 13 | 13 original entries still map to 13 pages: treadmill/support versus mirror feedback was split, while light-object/hand-task work and dual-task walking share one page. Equal totals therefore do not mean an unchanged one-to-one list. |
 | [Functional Seizures](../../reference/recovery-techniques/06-functional-seizures.md) | 10 | 12 | 10 original entries map to 9 core pages after the two overlapping grounding entries were combined. One paediatric programme page and two care-planning pages bring the document total to 12. |
 | [Functional Sensory Symptoms](../../reference/recovery-techniques/07-functional-sensory-symptoms.md) | 10 | 12 | The 10 original entries each have one detailed page. Two additional safety/planning pages bring the document total to 12; there were not 12 original techniques. |
-| [Functional Visual Symptoms](../../reference/recovery-techniques/08-functional-visual-symptoms.md) | 9 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
+| [Functional Visual Symptoms](../../reference/recovery-techniques/08-functional-visual-symptoms.md) | 9 | 9 | Nine original entries expanded one-to-one; no additional pages. |
 | [Functional Speech and Voice Symptoms](../../reference/recovery-techniques/09-functional-speech-and-voice-symptoms.md) | 11 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
 | [Functional Swallowing Symptoms and Globus](../../reference/recovery-techniques/10-functional-swallowing-and-globus.md) | 10 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
 | [Functional Cough and Upper-Airway Symptoms](../../reference/recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md) | 10 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
@@ -205,3 +205,21 @@ Begin with the actual original list, record its commit and entry count, and map 
 
 **Navigate:** [Home](../../README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+## Subsequent expansion — September 16, 2026
+
+### Functional visual symptoms
+
+The nine entries at the common historical baseline also match the pre-expansion overview in commit `8194baf`. Each now has one detailed page, in the same order. The original final entry still contains separate discussions of advanced feedback and brain stimulation; keeping them together does not imply a shared evidence base. Scope and safety wording have been revised without inventing extra list entries.
+
+| Original entry | Current detailed coverage | Editorial relationship |
+|---|---|---|
+| 1. Positive explanation using preserved vision | [Positive Explanation of Preserved Vision and Follow-Up](../../reference/recovery-techniques/functional_visual_symptoms/01-positive-explanation-and-follow-up.md) | One-to-one expansion. |
+| 2. Notice brief examples of better vision | [Noticing Briefly Better Vision Without Repeated Testing](../../reference/recovery-techniques/functional_visual_symptoms/02-noticing-briefly-better-vision.md) | One-to-one expansion. |
+| 3. Orthoptist-guided visual feedback | [Orthoptist-Guided Visual Feedback](../../reference/recovery-techniques/functional_visual_symptoms/03-orthoptist-guided-visual-feedback.md) | One-to-one expansion. |
+| 4. Graded visual tasks | [Graded Visual Tasks Linked to Daily Life](../../reference/recovery-techniques/functional_visual_symptoms/04-graded-visual-task-practice.md) | One-to-one expansion. |
+| 5. Practise an answer rather than waiting for certainty | [Supported Visual Choice Without Waiting for Certainty](../../reference/recovery-techniques/functional_visual_symptoms/05-supported-choice-without-certainty.md) | One-to-one expansion. |
+| 6. Graded light exposure for photophobia | [Photophobia: An Agreed Light and Protection Plan](../../reference/recovery-techniques/functional_visual_symptoms/06-photophobia-light-and-protection-plan.md) | One-to-one expansion. |
+| 7. Treat coexisting conditions | [Treatment of Coexisting Eye, Migraine and Neurological Conditions](../../reference/recovery-techniques/functional_visual_symptoms/07-coexisting-eye-migraine-and-neurological-care.md) | One-to-one expansion. |
+| 8. Hypnotherapy or therapeutic suggestion | [Hypnotherapy and Transparent Therapeutic Suggestion](../../reference/recovery-techniques/functional_visual_symptoms/08-hypnotherapy-and-therapeutic-suggestion.md) | One-to-one expansion. |
+| 9. Specialist feedback or non-invasive brain stimulation | [Advanced Visual Feedback and Non-Invasive Brain Stimulation: Specialist Review](../../reference/recovery-techniques/functional_visual_symptoms/09-advanced-feedback-and-brain-stimulation-review.md) | One-to-one expansion. |

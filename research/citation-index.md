@@ -114,6 +114,25 @@ This table gives every source a stable project ID. Course pages repeat a compact
 
 | [FND-CIT-0102](#fnd-cit-0102) | NHS, reviewed 2025 | Public clinical safety guidance | TENS contraindications; adjacent safety evidence | [Sensory overview](../reference/recovery-techniques/07-functional-sensory-symptoms.md); [TENS review](../reference/recovery-techniques/functional_sensory_symptoms/09-tens-and-electrical-stimulation-review.md) |
 
+| [FND-CIT-0103](#fnd-cit-0103) | Ramsay N, Tessmann H, McKee J, Ercoli T, Stone J. Functional visual loss: a systematic review and meta-analysis of epidemiology, prognosis and treatment. *Eye*. 2026;40:1784–1793. Published online June 26, 2026. | Systematic review and meta-analysis; very limited treatment data. Descriptive epidemiology and heterogeneous prognosis findings do not establish efficacy of individual exercises. | Functional visual symptom care | [Visual overview](../reference/recovery-techniques/08-functional-visual-symptoms.md) |
+| [FND-CIT-0104](#fnd-cit-0104) | NHS. Vision loss. Reviewed August 28, 2025; accessed September 16, 2026. | Adjacent public safety guidance on urgent and emergency vision symptoms; not FND-specific treatment evidence. | Functional visual symptom care | [Visual overview](../reference/recovery-techniques/08-functional-visual-symptoms.md) |
+| [FND-CIT-0105](#fnd-cit-0105) | Digre KB, Brennan KC. Shedding light on photophobia. *Journal of Neuro-Ophthalmology*. 2012;32(1):68–81. | Review of ophthalmic and neurological causes of photophobia; not proof of efficacy for a functional-photophobia light-exposure programme. | Functional visual symptom care | [Visual overview](../reference/recovery-techniques/08-functional-visual-symptoms.md) |
+
+## Functional visual detailed-page citation use map
+
+| Page | Citation IDs |
+|---|---|
+| [Visual overview](../reference/recovery-techniques/08-functional-visual-symptoms.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0103](#fnd-cit-0103), [FND-CIT-0104](#fnd-cit-0104), [FND-CIT-0105](#fnd-cit-0105) |
+| [Positive Explanation of Preserved Vision and Follow-Up](../reference/recovery-techniques/functional_visual_symptoms/01-positive-explanation-and-follow-up.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0103](#fnd-cit-0103) |
+| [Noticing Briefly Better Vision Without Repeated Testing](../reference/recovery-techniques/functional_visual_symptoms/02-noticing-briefly-better-vision.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0103](#fnd-cit-0103) |
+| [Orthoptist-Guided Visual Feedback](../reference/recovery-techniques/functional_visual_symptoms/03-orthoptist-guided-visual-feedback.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0103](#fnd-cit-0103) |
+| [Graded Visual Tasks Linked to Daily Life](../reference/recovery-techniques/functional_visual_symptoms/04-graded-visual-task-practice.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0103](#fnd-cit-0103) |
+| [Supported Visual Choice Without Waiting for Certainty](../reference/recovery-techniques/functional_visual_symptoms/05-supported-choice-without-certainty.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0103](#fnd-cit-0103) |
+| [Photophobia: An Agreed Light and Protection Plan](../reference/recovery-techniques/functional_visual_symptoms/06-photophobia-light-and-protection-plan.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0103](#fnd-cit-0103), [FND-CIT-0105](#fnd-cit-0105) |
+| [Treatment of Coexisting Eye, Migraine and Neurological Conditions](../reference/recovery-techniques/functional_visual_symptoms/07-coexisting-eye-migraine-and-neurological-care.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0103](#fnd-cit-0103), [FND-CIT-0104](#fnd-cit-0104) |
+| [Hypnotherapy and Transparent Therapeutic Suggestion](../reference/recovery-techniques/functional_visual_symptoms/08-hypnotherapy-and-therapeutic-suggestion.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0103](#fnd-cit-0103) |
+| [Advanced Visual Feedback and Non-Invasive Brain Stimulation: Specialist Review](../reference/recovery-techniques/functional_visual_symptoms/09-advanced-feedback-and-brain-stimulation-review.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0103](#fnd-cit-0103) |
+
 ## Functional sensory detailed-page citation use map
 
 | Page | Citation IDs |
@@ -870,6 +889,24 @@ Use for general injury prevention, recovery positioning and emergency escalation
 NHS. Transcutaneous electrical nerve stimulation (TENS). Reviewed February 14, 2025; accessed September 15, 2026. [TENS safety guidance](https://www.nhs.uk/tests-and-treatments/transcutaneous-electrical-nerve-stimulation-tens/).
 
 Use for the contraindication against TENS on numb or damaged skin and device safety. This is adjacent safety guidance, not evidence of efficacy for FND. The sensory collection explicitly does not reproduce older high-intensity sensory-loss stimulation suggestions as home instructions.
+
+## FND-CIT-0103
+
+Ramsay N, Tessmann H, McKee J, Ercoli T, Stone J. Functional visual loss: a systematic review and meta-analysis of epidemiology, prognosis and treatment. *Eye*. 2026;40:1784–1793. Published online June 26, 2026. [Source](https://doi.org/10.1038/s41433-026-04648-1).
+
+Systematic review and meta-analysis; very limited treatment data. Descriptive epidemiology and heterogeneous prognosis findings do not establish efficacy of individual exercises.
+
+## FND-CIT-0104
+
+NHS. Vision loss. Reviewed August 28, 2025; accessed September 16, 2026. [Source](https://www.nhs.uk/conditions/vision-loss/).
+
+Adjacent public safety guidance on urgent and emergency vision symptoms; not FND-specific treatment evidence.
+
+## FND-CIT-0105
+
+Digre KB, Brennan KC. Shedding light on photophobia. *Journal of Neuro-Ophthalmology*. 2012;32(1):68–81. [Source](https://doi.org/10.1097/WNO.0b013e3182474548).
+
+Review of ophthalmic and neurological causes of photophobia; not proof of efficacy for a functional-photophobia light-exposure programme.
 
 # How Course Pages Should Use the Index
 

@@ -1,98 +1,115 @@
 # Recovery Techniques for Functional Visual Symptoms
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Visual Symptoms**
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Functional Visual Symptoms**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-**Refers to:**
+**Refers to:** assessed functional visual loss affecting clarity or visual fields, with separately assessed photophobia where relevant. The principal clinical review does not cover functional eye-movement disorders or visual snow; these approaches must not be generalized to double vision or every visual complaint. Migraine and eye or neurological disease can coexist. [1](#citation-1)
 
-- assessed functional visual loss or blindness;
-- blurred or reduced acuity, field or tunnel-type loss, and double-vision presentations; and
-- functional photophobia or difficulty accessing vision when supported by specialist assessment.
+**Also described as:** functional visual loss, functional visual disorder and, in older literature, non-organic visual loss.
 
-**Scope boundary:** Light sensitivity from migraine, eye disease or another cause is not automatically a functional visual symptom. The techniques below require ophthalmic or neuro-ophthalmic context and do not apply to generic dizziness or sensory overload.
+The [detailed collection](functional_visual_symptoms/README.md) expands the **nine original entries into nine pages**, in their original order. The [history audit](../../docs/project/recovery-technique-history-audit.md#functional-visual-symptoms) records the mapping. These are selectable approaches and treatment reviews, not nine proven treatments or a nine-step programme. Practical examples require individual assessment; human clinical and accessibility review remains pending.
 
-**Also described as:** functional visual loss, functional visual disorder, non-organic visual loss and functional photophobia.
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-Treatment starts by explaining the positive evidence that some visual function is available while continuing to assess eye, optic-nerve, brain and migraine conditions when appropriate. Because vision affects falls, driving and injury risk, graded visual practice should be based on a specialist assessment rather than copied from a demonstration.
+## For the Person With FND
 
-**Evidence labels:** **R** research-supported · **C** clinical consensus · **E** emerging. The practical literature is mostly specialist review and case-series evidence.
+Vision can be disabling even when examination shows that some visual function is available. Ask what the positive findings mean, what they cannot establish, and how the team will address daily access and any coexisting conditions. A brief useful response does not establish reliable vision for driving, work or walking. [1](#citation-1)
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+### Choose a relevant detailed page
 
-## For the person with symptoms
+- **[Positive Explanation of Preserved Vision and Follow-Up](functional_visual_symptoms/01-positive-explanation-and-follow-up.md)** — The person has an assessed functional visual-loss pattern and needs to understand the positive findings, remaining uncertainty and continuing-care plan. **[Specialist clinical guidance; explanation is not a guaranteed vision-restoring treatment]**
+- **[Noticing Briefly Better Vision Without Repeated Testing](functional_visual_symptoms/02-noticing-briefly-better-vision.md)** — Occasional useful visual moments occur naturally and can help identify a workable task or setting without increasing checking. **[Specialist clinical guidance; no isolated efficacy evidence]**
+- **[Orthoptist-Guided Visual Feedback](functional_visual_symptoms/03-orthoptist-guided-visual-feedback.md)** — A specialist has identified a specific preserved visual response that can be explained and explored safely during an appointment. **[Specialist clinical practice; direct treatment evidence is limited]**
+- **[Graded Visual Tasks Linked to Daily Life](functional_visual_symptoms/04-graded-visual-task-practice.md)** — An assessed, low-risk visual task is possible and can be adjusted toward a specific reading, locating or everyday goal. **[Clinical rehabilitation adaptation; no established universal exercise dose]**
+- **[Supported Visual Choice Without Waiting for Certainty](functional_visual_symptoms/05-supported-choice-without-certainty.md)** — A clinician-selected matching or pointing task may reveal usable information even when the person cannot confidently describe what they see. **[Specialist clinical example; experimental therapeutic use rather than a validated home test]**
+- **[Photophobia: An Agreed Light and Protection Plan](functional_visual_symptoms/06-photophobia-light-and-protection-plan.md)** — Light sensitivity limits activities and specialist assessment supports considering a tolerable, individualized change alongside treatment of relevant causes. **[Specialist clinical guidance; FND-specific exposure evidence is limited and there is no universal schedule]**
+- **[Treatment of Coexisting Eye, Migraine and Neurological Conditions](functional_visual_symptoms/07-coexisting-eye-migraine-and-neurological-care.md)** — Functional visual symptoms coexist with a treatable eye, headache or neurological problem, or a changed presentation needs reassessment. **[Clinical assessment and condition-specific care; improvement does not identify a single mechanism]**
+- **[Hypnotherapy and Transparent Therapeutic Suggestion](functional_visual_symptoms/08-hypnotherapy-and-therapeutic-suggestion.md)** — A person wishes to discuss an optional clinician-delivered approach after the diagnosis and uncertain evidence have been explained. **[Emerging, very limited visual-specific evidence; not established routine treatment]**
+- **[Advanced Visual Feedback and Non-Invasive Brain Stimulation: Specialist Review](functional_visual_symptoms/09-advanced-feedback-and-brain-stimulation-review.md)** — A specialist or research team is evaluating an experimental visual-feedback or stimulation approach after discussing uncertainty and alternatives. **[Experimental or early clinical-report evidence; no established self-treatment protocol]**
 
-### Techniques used in rehabilitation
+### If symptoms flare, with or without warning
 
-1. **Positive explanation using preserved vision — C.** Ask the clinician to show what an examination response means and what it does not mean. A preserved response is evidence that a pathway can function under some conditions; it is not an accusation and does not exclude coexisting disease.
-2. **Notice brief examples of better vision — C.** Record occasional moments when a task, object or area is seen more clearly without repeatedly testing vision. These examples can become starting points for treatment and show which conditions help.
-3. **Orthoptist-guided visual feedback — C/E.** An orthoptist or visual specialist may use mirrors, binocular tasks, lenses, feedback from eye movements or other structured methods to demonstrate and practise available function. The exact method depends on the symptom.
-4. **Graded visual tasks — C/E.** Begin with a comfortable target, distance, field, contrast and duration. Practise locating, matching or tracking a safe object; then change one demand at a time and connect the exercise to reading, navigation or another daily goal.
-5. **Practise an answer rather than waiting for certainty — C.** In selected tasks, a clinician may ask the person to point, match or “guess.” This can reduce over-monitoring and allow preserved processing to guide a response. It is a therapeutic method, not a home test of honesty.
-6. **Graded light exposure for photophobia — C.** If eye and migraine assessment supports it, plan small steps from a tolerable light level toward ordinary environments. Reduce constant dark adaptation or all-day sunglasses use gradually, while retaining appropriate protection for genuinely bright or hazardous conditions.
-7. **Treat coexisting conditions — C.** Migraine, dry eye, refractive error, vestibular problems and neurological or eye disease may require parallel treatment. Functional symptoms and other disorders can coexist.
-8. **Hypnotherapy or therapeutic suggestion — E.** Small reports describe suggestion combined with visual practice. This is not established treatment and should be delivered by a qualified clinician with realistic expectations.
-9. **Specialist feedback or non-invasive brain stimulation — E.** Advanced visual feedback and transcranial magnetic stimulation have limited early reports. They belong in specialist or research settings, not as do-it-yourself treatment.
+Stop visually hazardous activity. If you are already driving, stop as safely as possible and get assistance; do not resume until safe and consistent with medical and licensing advice. Ask for help reaching a stable place, and use your usual visual or mobility supports. Do not begin stairs, cooking or tools while vision is unreliable.
 
-### If visual symptoms come in episodes or suddenly intensify
+For a familiar episode, follow the agreed plan. One comfortable cue or task may help if previously selected with your clinician, but you do not have to practise during a flare. If there is no warning, plan access to help and environmental safety in advance. Resume an ordinary low-risk activity only when manageable, and review any prolonged or delayed worsening before increasing practice. These are practical care adaptations, not a tested universal flare protocol.
 
-Functional visual symptoms may be intermittent, fluctuate with environment or task, or remain troublesome for long periods. When a familiar flare begins:
+Retain needed light protection and accessible formats. A selected light-exposure trial is a shared treatment decision, not permission for anyone to remove glasses or make you endure worsening. Photophobia has multiple possible causes. [1](#citation-1) [4](#citation-4)
 
-1. **Stop visually hazardous activity.** Do not continue driving, cooking, using tools, navigating stairs or another task that requires reliable vision.
-2. **Reach a stable, familiar setting.** Sit or use the usual mobility/visual support and adjust light or visual complexity according to the person’s established plan.
-3. **Use one practised visual strategy.** This might be a stable target, an ordinary-object task, visual feedback or another specialist-selected cue.
-4. **Do not turn temporary symptom relief into permanent avoidance.** If graded light or visual exposure is part of treatment, return to the agreed level when safe rather than making an unplanned move into prolonged darkness.
-5. **Resume gradually.** Return first to a safe visual task and then to more complex activity.
+### A changed symptom pattern needs a new decision
 
-Sudden painful loss, new one-eye symptoms, flashes/floaters, a curtain-like shadow or acute neurological symptoms need urgent reassessment.
+Seek emergency help for sudden inability to see from one or both eyes or sudden severe eye pain. New flashes, a dark shadow, double vision or a red painful eye need urgent medical advice. Do not drive yourself for urgent assessment. An existing functional diagnosis does not explain every later symptom. [3](#citation-3)
 
-### A low-risk starting practice
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-Use only a task already approved as safe: seated, stable, and free of flashing, fast-moving or visually provocative material. Pick one ordinary object and notice its color, edge or position for a short period without repeatedly retesting acuity. Stop if symptoms escalate substantially. Do not practise near stairs, roads, cooking, water or driving.
+## For Family, Friends, and Other Supporters
 
-### Ask for urgent help or reassessment when
+Ask what kind of guidance or physical assistance the person wants. Keep routes predictable, offer accessible information and retain needed aids. Never surprise them with obstacles, wave objects to test vision, secretly record a response or use an examination finding to challenge their honesty.
 
-Visual loss is sudden, painful, new in one eye, accompanied by flashes/floaters, a curtain-like shadow, severe headache, weakness, speech change, eye injury or other acute neurological symptoms. A new pattern should be reassessed even after a functional diagnosis. Update safety advice when driving, falls or navigation change.
+During a familiar flare, help stop hazardous activity and follow the agreed plan. If symptoms are new or substantially changed, help obtain medical advice. Practice is optional and should stop when it becomes distressing or unsafe. Notice a useful adaptation neutrally; lack of improvement is not evidence of insufficient effort or belief.
 
-## For family, friends and supporters
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-- Do not startle, wave objects at the eyes, set up obstacles or secretly test what the person can see.
-- Keep routes and lighting safe and use the person’s current mobility and visual supports.
-- Help with planned graded practice only; do not remove sunglasses or aids without agreement.
-- Notice useful visual function neutrally and support specialist reassessment for change.
+## For Clinicians and the Care Team
 
-### During a visual flare
+Establish positive functional findings within an appropriate ophthalmic or neuro-ophthalmic assessment. Document the visual phenomenon, uncertainty and coexisting disease. Explain the difference between an available response and dependable everyday function. Coordinate orthoptics, ophthalmology, neurology and rehabilitation according to need. [1](#citation-1)
 
-Help stop driving, stairs, cooking or another unsafe activity and guide the person only in the way they prefer. Offer the usual aid and make the immediate visual environment manageable **without automatically removing every visual stimulus** if graded exposure is part of their treatment. Use one agreed cue; do not test vision by waving objects, removing aids or surprising the person.
+For an agreed trial:
 
-## For clinicians
+1. Identify a meaningful daily goal and the person’s current access requirements.
+2. Select one relevant approach, explaining the evidence limitations and alternatives.
+3. Demonstrate a tolerable task in a stable setting, with consent and a clear stopping signal.
+4. Specify assistance, light/contrast demand and the smallest manageable practice amount; avoid a universal dose.
+5. Review participation, discomfort, fatigue and delayed effects before changing one demand.
+6. Record the familiar-flare plan, urgent reassessment criteria and follow-up responsibility.
 
-Provide a positive diagnosis based on appropriate visual and neurological examination, explain preserved responses constructively, and assess comorbidity. Use examination methods therapeutically only with consent and clarity about their limits. Coordinate ophthalmology, neuro-ophthalmology, orthoptics, neurology and rehabilitation as required.
+These steps are an educational clinical adaptation, not a validated protocol. Do not reproduce optical examination procedures, rapid visual stimulation or brain-stimulation methods as unsupervised exercises. Hypnosis and stimulation require qualified specialist review and explicit discussion of uncertainty. Continuing disability warrants support whether or not practice changes vision. [1](#citation-1) [2](#citation-2)
 
-### Adapting visual rehabilitation for episodic symptoms
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-Document episode duration, frequency, visual environment, light/contrast/motion demand, migraine or sensory context, associated neurological symptoms and recovery. Rehearse a short plan: **stop hazardous visual activity → stabilize environment/support → one established visual strategy → graded return**. The environmental step should be individualized so acute safety does not unintentionally reinforce long-term dark adaptation or avoidance where graded exposure is the treatment goal.
+## Research and Sources
 
-For photophobia, distinguish adaptive protection from pervasive avoidance and reduce dark adaptation gradually. Specify fall, driving and workplace restrictions individually. Avoid exposure that risks injury or uses shame, surprise or deception.
+The 2024 clinical review supports positive explanation, selected demonstrations and rehabilitation, and management of comorbidity. Its practical recommendations are not controlled evidence for each individual exercise. The 2026 systematic review includes 44 studies and 2,284 patients across epidemiology, prognosis and treatment, but finds **very limited treatment data**. These are not 44 treatment trials, and heterogeneous prognosis findings do not establish a personal recovery timetable. [1](#citation-1) [2](#citation-2)
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+The NHS source supplies adjacent urgent-assessment guidance, not FND treatment evidence. The photophobia review supports considering ophthalmic and neurological causes; it does not validate a functional-photophobia exposure schedule. [3](#citation-3) [4](#citation-4)
+
+No new community quotations are included. Lived-experience review should cover helpful, neutral and adverse experiences, access needs and no-warning episodes without being presented as efficacy evidence.
+
+| Citation | Full citation |
+|---|---|
+| <a id="citation-1"></a>**[1]** | Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. [FND-CIT-0024](../../research/citation-index.md#fnd-cit-0024). [Source](https://doi.org/10.1038/s41433-024-03126-w) |
+| <a id="citation-2"></a>**[2]** | Ramsay N, Tessmann H, McKee J, Ercoli T, Stone J. Functional visual loss: a systematic review and meta-analysis of epidemiology, prognosis and treatment. *Eye*. 2026;40:1784–1793. Published online June 26, 2026. [FND-CIT-0103](../../research/citation-index.md#fnd-cit-0103). [Source](https://doi.org/10.1038/s41433-026-04648-1) |
+| <a id="citation-3"></a>**[3]** | NHS. Vision loss. Reviewed August 28, 2025; accessed September 16, 2026. [FND-CIT-0104](../../research/citation-index.md#fnd-cit-0104). [Source](https://www.nhs.uk/conditions/vision-loss/) |
+| <a id="citation-4"></a>**[4]** | Digre KB, Brennan KC. Shedding light on photophobia. *Journal of Neuro-Ophthalmology*. 2012;32(1):68–81. [FND-CIT-0105](../../research/citation-index.md#fnd-cit-0105). [Source](https://doi.org/10.1097/WNO.0b013e3182474548) |
+
+*Evidence checked September 16, 2026 · Ophthalmology, orthoptics, lived-experience and accessibility review pending.*
 
 <!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/08-functional-visual-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/02-visual-symptoms-photophobia-and-sensory-overload.md)
+**Related:** [Collection index](README.md) · [Detailed pages](functional_visual_symptoms/README.md) · [Diagnostic signs](../diagnostic-signs/08-functional-visual-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/02-visual-symptoms-photophobia-and-sensory-overload.md)
+
+**Previous:** [Functional sensory symptoms](07-functional-sensory-symptoms.md) · **Next:** [Functional speech and voice symptoms](09-functional-speech-and-voice-symptoms.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
-
-## Research and evidence
-
-The principal recent clinical review states that evidence-based treatment is limited and recommends positive explanation, demonstration of preserved vision, management of comorbidity, and selected graded visual or photophobia approaches (**FND-CIT-0024**). Hypnosis, suggestion, transcranial magnetic stimulation and advanced feedback are supported only by small or developing literature. The search did not locate a controlled trial establishing a specific home technique for functional visual symptoms.
-
-No community-only technique was added. Repeated reports about light, lenses and visual practice either matched the specialist review or carried enough risk and diagnostic uncertainty to require clinician selection.
-
-### Sources
-
-- **FND-CIT-0024:** Ramsay N, McKee J, Al-Ani G, Stone J. *How do I manage functional visual loss.* Eye. 2024;38:2257–2266. [doi:10.1038/s41433-024-03126-w](https://doi.org/10.1038/s41433-024-03126-w)
-
-*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Ophthalmology, orthoptics and accessibility review pending*
