@@ -6,6 +6,8 @@
 
 > **Working draft:** Clinical and lived-experience review pending.
 
+**Page role:** Additional specialist treatment review. New standalone specialist-option page; it was not a numbered original entry. The page states that the small pilot trial does not support routine injection. See the [collection index](README.md) for the original technique groupings.
+
 **Most likely fit:** A movement-disorder specialist has identified a particular muscle target and a limited goal—such as reducing selected painful tonic overactivity to enable care or rehabilitation—or suspects a coexisting nonfunctional dystonia for which injection is indicated. Routine injection solely because a functional posture is present is not supported. **[A small pilot randomized trial found no added benefit over placebo before cognitive behavioural therapy; selected use remains uncertain]**
 
 **Not the same as:** A cure for FND, a diagnostic test, an injection into every visibly tight muscle, or a reason to postpone active rehabilitation and complication care.

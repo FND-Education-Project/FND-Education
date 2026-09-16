@@ -6,22 +6,32 @@
 
 > **Working outline for review:** These pages plan an original, picture-led learning and practice series. They are not a finished treatment manual and do not replace diagnosis, individualized care, or an emergency plan.
 
-## Detailed recovery techniques
+## Detailed recovery and care pages
 
 These twelve standalone working drafts expand the [seizure recovery overview](../06-functional-seizures.md). Choose pages that fit the person; they are not a required treatment sequence.
 
-1. [Diagnostic Explanation and Continuing Care](01-diagnostic-explanation-and-continuing-care.md)
-2. [Individualized Episode Safety Plan](02-individualized-episode-safety-plan.md)
-3. [Warning and Pattern Mapping](03-warning-and-pattern-mapping.md)
-4. [Sensory Grounding and an Attention Anchor](04-sensory-grounding-and-attention-anchor.md)
-5. [Seizure-Focused Psychological Treatment](05-seizure-focused-psychological-treatment.md)
-6. [ReACT for Children and Adolescents](06-react-for-children-and-adolescents.md)
-7. [Clinician-Taught Breathing Control](07-clinician-taught-breathing-control.md)
-8. [Coexisting-Condition and Load Review](08-coexisting-condition-and-load-review.md)
-9. [Prescriber-Led Medication Review](09-prescriber-led-medication-review.md)
-10. [Supported Return to Activities](10-supported-return-to-activities.md)
-11. [Supporter Response Rehearsal](11-supporter-response-rehearsal.md)
-12. [Recovery, Cluster and Flare Planning](12-recovery-cluster-and-flare-planning.md)
+### Original list: 10 entries
+
+10 original entries map to 9 core pages after the two overlapping grounding entries were combined. One paediatric programme page and two care-planning pages bring the document total to 12. These are document counts, not counts of independently proven treatments. [See the history audit](../../../docs/project/recovery-technique-history-audit.md).
+
+1. **Clear diagnostic explanation and follow-up:** [Diagnostic Explanation and Continuing Care for Functional Seizures](01-diagnostic-explanation-and-continuing-care.md).
+2. **Individual episode-safety plan:** [Individualized Episode Safety Plan for Functional Seizures](02-individualized-episode-safety-plan.md).
+3. **Warning, trigger and pattern mapping:** [Warning and Pattern Mapping for Functional Seizures](03-warning-and-pattern-mapping.md).
+4. **Seizure-focused psychological treatment:** [Seizure-Focused Psychological Treatment for Functional Seizures](05-seizure-focused-psychological-treatment.md).
+5. **Breathing-control training:** [Clinician-Taught Breathing Control for Functional Seizures](07-clinician-taught-breathing-control.md).
+6. **Treat coexisting conditions:** [Coexisting-Condition and Load Review for Functional Seizures](08-coexisting-condition-and-load-review.md).
+7. **Medication review:** [Prescriber-Led Medication Review for Functional Seizures](09-prescriber-led-medication-review.md).
+8. **Graded return to activity:** [Supported Return to Activities for Functional Seizures](10-supported-return-to-activities.md).
+9. **Cold or textured sensory grounding at a familiar warning:** [Sensory Grounding and an Attention Anchor for Functional Seizures](04-sensory-grounding-and-attention-anchor.md).
+10. **A fixed visual or sensory anchor:** [Sensory Grounding and an Attention Anchor for Functional Seizures](04-sensory-grounding-and-attention-anchor.md).
+
+### Additional treatment-review and care pages
+
+These extend the collection but are not additional entries in the original list.
+
+- [ReACT for Children and Adolescents for Functional Seizures](06-react-for-children-and-adolescents.md) — **Additional age-specific treatment page.** ReACT is a separately discussed paediatric programme within the psychological-treatment family. It was already mentioned in the CBT resource map, but was not a numbered entry in the original symptom list.
+- [Supporter Response Rehearsal for Functional Seizures](11-supporter-response-rehearsal.md) — **Additional supporter-planning guidance.** Develops safety planning and supporter guidance; rehearsal is an implementation aid, not a separately proven seizure treatment.
+- [Recovery, Cluster and Flare Planning for Functional Seizures](12-recovery-cluster-and-flare-planning.md) — **Additional recovery-planning guidance.** Develops the original unnumbered cluster/recovery/flare section; it is not a separately proven seizure treatment.
 
 ## CBT resource map and booklet project
 

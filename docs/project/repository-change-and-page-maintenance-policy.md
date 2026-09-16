@@ -64,11 +64,12 @@ Use this checklist whenever a course or reference page is added, removed, rename
 <summary><strong>5. Add a recovery-technique reference page</strong></summary>
 
 1. Add a numbered page in `reference/recovery-techniques/` paired to the diagnostic page.
-2. Separate research-supported, consensus, emerging and community-reported material; state when evidence applies only to a broader programme or another symptom group.
-3. Include practical person, supporter and clinician sections, episode or flare guidance, safety limits, reassessment triggers and continuing support when improvement is limited.
-4. Add the page and every indexed technique to the recovery collection guide and master technique index.
-5. Add it to the reference-library landing page, detailed reference index and site map, then update the former last page and all relevant cross-links.
-6. Update reference-page counts, scope statements, central citations and any community source notebook affected by the new material.
+2. Before expanding an existing symptom into detailed pages, record its original commit and numbered entries. Map every entry to its destination. Explain splits and combinations, identify any omitted example, and give added interventions their own source and rationale. Keep additional safety, access, specialist-review and planning pages visibly separate from the original list. There is no target page count; report original entries and document totals separately. Follow the [history-audit example](recovery-technique-history-audit.md).
+3. Separate research-supported, consensus, emerging and community-reported material; state when evidence applies only to a broader programme or another symptom group.
+4. Include practical person, supporter and clinician sections, episode or flare guidance, safety limits, reassessment triggers and continuing support when improvement is limited.
+5. Add the page and every indexed technique to the recovery collection guide and master technique index.
+6. Add it to the reference-library landing page, detailed reference index and site map, then update the former last page and all relevant cross-links.
+7. Update reference-page counts, scope statements, central citations and any community source notebook affected by the new material.
 
 </details>
 

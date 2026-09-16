@@ -6,6 +6,8 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/). Clinical and lived-experience review pending.
 
+**Page role:** Additional supporter-planning guidance. Develops safety planning and supporter guidance; rehearsal is an implementation aid, not a separately proven seizure treatment. See the [collection index](README.md) for the original technique groupings.
+
 **Most likely fit:** When family, friends, school or care staff need a consistent, consent-based response before an event occurs. **[Clinical guideline and safety guidance; rehearsal is an implementation aid]**
 
 ***

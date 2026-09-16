@@ -548,6 +548,7 @@ Use the sections below to drill down into the course, reference library, researc
 - [Project Status](docs/project/project-status.md)
 - [Research and Citation Policy](docs/project/research-and-citation-policy.md)
 - [Repository Change and Page Maintenance Policy](docs/project/repository-change-and-page-maintenance-policy.md)
+- [Recovery Technique Lists: History Audit](docs/project/recovery-technique-history-audit.md)
 - [Safety and Editorial Rules](docs/project/safety-and-editorial-rules.md)
 - [Search and Usability Standards](docs/project/search-and-usability-standards.md)
 

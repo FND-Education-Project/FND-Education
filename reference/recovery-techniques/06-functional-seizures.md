@@ -27,6 +27,8 @@ There is no cure for FND. Treatment and support can still be useful. Safety, acc
 
 Start with a clear diagnosis and an individual safety plan. Then select a small number of relevant options with your team; this is not a twelve-step programme that everybody must complete. Each link opens a standalone page with practical examples, supporter guidance, clinician procedures and its own sources.
 
+**About this list:** 10 original entries map to 9 core pages after the two overlapping grounding entries were combined. One paediatric programme page and two care-planning pages bring the document total to 12. The [collection index](functional_seizures/README.md) preserves the original groupings. A page count is not a count of independently validated treatments.
+
 1. **[Diagnostic Explanation and Continuing Care](functional_seizures/01-diagnostic-explanation-and-continuing-care.md)** — Ask how the diagnosis was established for each event type and leave with a written explanation, a treatment contact and follow-up. **[Clinical guideline recommendation; explanation alone is not an established seizure-stopping treatment]**
 
 2. **[Individualized Episode Safety Plan](functional_seizures/02-individualized-episode-safety-plan.md)** — Prepare the surroundings and response for shaking, still or unresponsive events, especially when there is no time to act on a warning. **[Clinical safety guidance; not a method for forcing an episode to stop]**
@@ -37,19 +39,23 @@ Start with a clear diagnosis and an individual safety plan. Then select a small 
 
 5. **[Seizure-Focused Psychological Treatment](functional_seizures/05-seizure-focused-psychological-treatment.md)** — Choose a structured programme around the person’s goals, such as episode coping or returning to activities, with an honest discussion of mixed trial outcomes. **[Research-supported programmes with mixed outcomes; individual components are not independently proven]**
 
-6. **[ReACT for Children and Adolescents](functional_seizures/06-react-for-children-and-adolescents.md)** — Consider a clinician-delivered paediatric programme with an individualized response and family plan; its evidence does not establish the same approach for adults. **[Emerging paediatric programme evidence; do not generalize directly to adults]**
+6. **[Clinician-Taught Breathing Control](functional_seizures/07-clinician-taught-breathing-control.md)** — Seek respiratory assessment and comfortable, supervised practice when breathing patterns may be relevant; do not improvise breath-holding or deep-breathing drills. **[Emerging evidence; a published randomized-trial protocol is not an efficacy result]**
 
-7. **[Clinician-Taught Breathing Control](functional_seizures/07-clinician-taught-breathing-control.md)** — Seek respiratory assessment and comfortable, supervised practice when breathing patterns may be relevant; do not improvise breath-holding or deep-breathing drills. **[Emerging evidence; a published randomized-trial protocol is not an efficacy result]**
+7. **[Coexisting-Condition and Load Review](functional_seizures/08-coexisting-condition-and-load-review.md)** — Address a specific untreated condition or practical burden, such as pain, sleep disruption or difficult access to care, even when seizures continue. **[Clinical guideline and multidisciplinary care; benefits for another condition do not prove a seizure effect]**
 
-8. **[Coexisting-Condition and Load Review](functional_seizures/08-coexisting-condition-and-load-review.md)** — Address a specific untreated condition or practical burden, such as pain, sleep disruption or difficult access to care, even when seizures continue. **[Clinical guideline and multidisciplinary care; benefits for another condition do not prove a seizure effect]**
+8. **[Prescriber-Led Medication Review](functional_seizures/09-prescriber-led-medication-review.md)** — Clarify the purpose of every regular and rescue medicine and arrange supervised changes only when indicated, including separate treatment for coexisting epilepsy. **[Clinical guideline recommendation; no unsupervised withdrawal]**
 
-9. **[Prescriber-Led Medication Review](functional_seizures/09-prescriber-led-medication-review.md)** — Clarify the purpose of every regular and rescue medicine and arrange supervised changes only when indicated, including separate treatment for coexisting epilepsy. **[Clinical guideline recommendation; no unsupervised withdrawal]**
+9. **[Supported Return to Activities](functional_seizures/10-supported-return-to-activities.md)** — Adapt one valued activity for event unpredictability, fatigue and safety, preserving the aids and help that make participation possible. **[Clinical and occupational-therapy guidance; programme evidence does not establish a fixed activity dose]**
 
-10. **[Supported Return to Activities](functional_seizures/10-supported-return-to-activities.md)** — Adapt one valued activity for event unpredictability, fatigue and safety, preserving the aids and help that make participation possible. **[Clinical and occupational-therapy guidance; programme evidence does not establish a fixed activity dose]**
+### Additional treatment-review and care pages
 
-11. **[Supporter Response Rehearsal](functional_seizures/11-supporter-response-rehearsal.md)** — Talk through the agreed response with chosen supporters between events, including who stays, who helps and when medical escalation is needed. **[Clinical guideline and safety guidance; rehearsal is an implementation aid]**
+These pages add specialist detail or practical support; they are not extra entries in the original technique list.
 
-12. **[Recovery, Cluster and Flare Planning](functional_seizures/12-recovery-cluster-and-flare-planning.md)** — Separate the visible event from prolonged recovery or surrounding symptoms and plan safe transfers, communication and reassessment for a changed pattern. **[Individualized clinical care; distinguish familiar recovery from a new medical problem]**
+- **Additional age-specific treatment page:** **[ReACT for Children and Adolescents](functional_seizures/06-react-for-children-and-adolescents.md)** — Consider a clinician-delivered paediatric programme with an individualized response and family plan; its evidence does not establish the same approach for adults. **[Emerging paediatric programme evidence; do not generalize directly to adults]**
+
+- **Additional supporter-planning guidance:** **[Supporter Response Rehearsal](functional_seizures/11-supporter-response-rehearsal.md)** — Talk through the agreed response with chosen supporters between events, including who stays, who helps and when medical escalation is needed. **[Clinical guideline and safety guidance; rehearsal is an implementation aid]**
+
+- **Additional recovery-planning guidance:** **[Recovery, Cluster and Flare Planning](functional_seizures/12-recovery-cluster-and-flare-planning.md)** — Separate the visible event from prolonged recovery or surrounding symptoms and plan safe transfers, communication and reassessment for a changed pattern. **[Individualized clinical care; distinguish familiar recovery from a new medical problem]**
 
 ### Familiar onset, no warning and the surrounding flare
 

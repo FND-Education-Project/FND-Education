@@ -6,6 +6,8 @@
 
 > **Automatically generated working draft:** This page is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/). Clinical, lived-experience and accessibility review pending.
 
+**Page role:** Additional flare-planning guidance. Develops the original unnumbered episode/flare guidance and available-capacity planning; it is not a new sensory-restoration technique. See the [collection index](README.md) for the original technique groupings.
+
 **Most likely fit:** Sensation fluctuates or changes in familiar episodes, interrupting activity or creating hazards before a technique can be used. **[Clinical consensus and individualized care planning; no universal onset strategy]**
 
 ***

@@ -31,18 +31,35 @@ Functional sensory symptoms can involve too little, too much or distorted sensat
 
 Reduced sensation, painful touch and difficulty interpreting sensation are different problems. A technique selected for one may be unhelpful for another. Begin with an assessed presentation and one useful goal. These twelve options include rehabilitation, adaptations and protective care; they are not a sequence to complete.
 
+**About this list:** The 10 original entries each have one detailed page. Two additional safety/planning pages bring the document total to 12; there were not 12 original techniques. The [collection index](functional_sensory_symptoms/README.md) preserves the original groupings. A page count is not a count of independently validated treatments.
+
 1. **[Graded Sensory Input for Reduced or Altered Sensation](functional_sensory_symptoms/01-graded-sensory-input.md)** — Contact feels faint, absent or unfamiliar, and a safe, tolerable input can be paired with a simple task. **[Clinical consensus; the particular practice sequence is an educational adaptation, not a tested standalone treatment]**
+
 2. **[Desensitization for Painful Touch and Hypersensitivity](functional_sensory_symptoms/02-desensitization-for-painful-touch.md)** — Clothing, washing or another normally non-painful contact hurts or overwhelms the person after relevant causes have been assessed. **[Clinical consensus; direct evidence for an isolated FND desensitization protocol is limited]**
+
 3. **[Sensory Discrimination: Texture, Location and Object Recognition](functional_sensory_symptoms/03-sensory-discrimination.md)** — Touch is detectable but difficult to interpret, distinguish or connect with a familiar object. **[Clinical rehabilitation adaptation; FND-specific component efficacy is uncertain]**
+
 4. **[Pairing Sensation With Meaningful Movement](functional_sensory_symptoms/04-sensation-with-meaningful-movement.md)** — An altered-feeling hand or foot is difficult to use, but a supported, useful task is possible. **[Clinical and occupational-therapy consensus; programme principles do not prove sensory recovery]**
+
 5. **[Graded Return to Clothing, Footwear and Everyday Contact](functional_sensory_symptoms/05-ordinary-contact-and-clothing.md)** — A particular necessary contact is avoided or shortened because it is unpleasant, even though a smaller version may be manageable. **[Clinical consensus; use an individualized goal and retain necessary accommodations]**
+
 6. **[Visual and Mirror Feedback for Altered Body Sensation](functional_sensory_symptoms/06-visual-and-mirror-feedback.md)** — Watching an affected area helps locate it or perform a safe task without increasing visual discomfort or disconnection. **[Clinical rehabilitation adaptation; direct FND sensory-specific mirror evidence is uncertain]**
+
 7. **[External Attention and Task Focus](functional_sensory_symptoms/07-external-attention-and-task-focus.md)** — Repeatedly checking a familiar altered sensation disrupts an otherwise safe activity, and a simple external cue is tolerable. **[Clinical consensus principle; no isolated sensory-symptom efficacy claim]**
+
 8. **[Sensory-Profile Assessment and Environmental Adaptation](functional_sensory_symptoms/08-sensory-profile-and-environment.md)** — Multiple forms of sensory input interfere with washing, appointments, rest or other activities, and a tailored OT assessment is needed. **[Emerging sensory-based OT evidence; uncontrolled cohort outcomes do not establish causation]**
+
 9. **[TENS and Electrical Stimulation: Specialist Review and Safety](functional_sensory_symptoms/09-tens-and-electrical-stimulation-review.md)** — A qualified clinician is considering electrical input for a specific pain or rehabilitation goal and needs to establish whether it is suitable. **[Emerging and uncertain FND evidence; safety review is essential]**
+
 10. **[Coexisting Pain, Migraine and Medical Review](functional_sensory_symptoms/10-coexisting-pain-migraine-and-medical-review.md)** — Burning, pain, spreading numbness or sensory overload may have more than one contributor, or a changed pattern needs reassessment. **[Clinical assessment and coordinated-care consensus; treatment follows the condition identified]**
-11. **[Skin, Pressure and Injury Protection](functional_sensory_symptoms/11-skin-pressure-and-injury-protection.md)** — Reduced sensation makes heat, cuts, pressure or footwear injury difficult to notice, including during temporary episodes. **[Clinical safety adaptation; protection is supportive care rather than a proven sensory-restoration treatment]**
-12. **[Episode, Flare and Available-Capacity Planning](functional_sensory_symptoms/12-episode-flare-and-capacity-planning.md)** — Sensation fluctuates or changes in familiar episodes, interrupting activity or creating hazards before a technique can be used. **[Clinical consensus and individualized care planning; no universal onset strategy]**
+
+### Additional treatment-review and care pages
+
+These pages add specialist detail or practical support; they are not extra entries in the original technique list.
+
+- **Additional injury-protection guidance:** **[Skin, Pressure and Injury Protection](functional_sensory_symptoms/11-skin-pressure-and-injury-protection.md)** — Reduced sensation makes heat, cuts, pressure or footwear injury difficult to notice, including during temporary episodes. **[Clinical safety adaptation; protection is supportive care rather than a proven sensory-restoration treatment]**
+
+- **Additional flare-planning guidance:** **[Episode, Flare and Available-Capacity Planning](functional_sensory_symptoms/12-episode-flare-and-capacity-planning.md)** — Sensation fluctuates or changes in familiar episodes, interrupting activity or creating hazards before a technique can be used. **[Clinical consensus and individualized care planning; no universal onset strategy]**
 
 ### Episodes, flares and limited available capacity
 

@@ -6,6 +6,8 @@
 
 > **Automatically generated working draft:** This page is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/). Clinical, lived-experience and accessibility review pending.
 
+**Page role:** Additional injury-protection guidance. Develops skin, burn and pressure precautions from the original page; protective care is not a new sensory-restoration technique. See the [collection index](README.md) for the original technique groupings.
+
 **Most likely fit:** Reduced sensation makes heat, cuts, pressure or footwear injury difficult to notice, including during temporary episodes. **[Clinical safety adaptation; protection is supportive care rather than a proven sensory-restoration treatment]**
 
 ***

@@ -6,6 +6,8 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/). Clinical and lived-experience review pending.
 
+**Page role:** Additional recovery-planning guidance. Develops the original unnumbered cluster/recovery/flare section; it is not a separately proven seizure treatment. See the [collection index](README.md) for the original technique groupings.
+
 **Most likely fit:** When recovery outlasts the visible event, episodes repeat, or other functional symptoms continue around the seizure. **[Individualized clinical care; distinguish familiar recovery from a new medical problem]**
 
 ***
