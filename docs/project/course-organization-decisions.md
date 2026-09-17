@@ -28,7 +28,7 @@ A reader may arrive from a search engine without reading the module overview. Th
 
 **Status: Accepted.** Movement retraining has its own focused page.
 
-Module 7 now contains an overview plus pages for weakness and paralysis; tremor, jerks, and spasms; functional dystonia and fixed postures; gait and falls; and movement retraining.
+Module 7 now contains an overview plus pages for weakness and paralysis; tremor, jerks, tics, and spasms; functional dystonia and fixed postures; gait and falls; and movement retraining.
 
 **Reason:** Gait and fall safety already carry a high information load. A separate page can explain the unfamiliar idea of redirected attention through one illustration and a small example, while every movement page can link there for the fuller explanation.
 

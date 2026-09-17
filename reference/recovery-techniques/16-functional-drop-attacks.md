@@ -74,6 +74,8 @@ The account supports asking whether a reliable warning exists and whether rehabi
 [For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Community reports](#community-reports-what-people-try) · [Research and evidence](#research-and-evidence)
 
 <!-- NAV-CONTEXT:START -->
+**Continue:** [Functional Tics and Tic-Like Symptoms →](17-functional-tics-and-tic-like-symptoms.md)
+
 **Previous in this collection:** [← Functional Paralysis](15-functional-paralysis.md)
 
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/16-functional-drop-attacks.md) · [Functional gait techniques](05-functional-gait-disorder.md) · [Functional-seizure recovery](06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)

@@ -12,7 +12,7 @@
 
 **Status:** Project reference resource. Final wording remains subject to human editorial review.
 
-**Last evidence and terminology review:** 2 September 2026.
+**Last terminology addition:** 17 September 2026 (functional tics); other entries retain their earlier review status.
 
 ---
 
@@ -56,6 +56,10 @@ Another condition present in the same person. FND can coexist with neurological 
 **Type: classification and historical terminology**
 
 Terminology still encountered in psychiatric classification systems and medical records. Modern FND practice does not require clinicians to identify a psychological stressor or psychological cause before diagnosing FND. Many clinicians and researchers now use **Functional Neurological Disorder** as the broader clinical term.
+
+### Coprolalia
+
+Involuntary socially inappropriate or taboo words or phrases. It is not required for Tourette syndrome, not unique to it, and not a reliable expression of intent. See [functional tics](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) for assessment and sources.
 
 ## D
 
@@ -101,6 +105,10 @@ A change in the rhythm of a tremor when a person is asked to perform a different
 
 Epileptic seizures result from abnormal seizure-related electrical activity in the brain. They are different from functional seizures, although a person can have **both epilepsy and functional seizures**. The correct distinction can require specialist assessment and sometimes video-EEG.
 
+### Echolalia
+
+Repetition of another person’s words. This description can occur in different contexts and does not itself establish a functional diagnosis. See [functional tics](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) for assessment and sources.
+
 ## F
 
 ### Functional
@@ -131,7 +139,7 @@ A functional disorder affecting walking or standing. Patterns can include draggi
 ### Functional movement disorder (FMD)
 **Type: FND symptom group**
 
-Functional neurological symptoms involving movement. Examples include tremor, jerks, dystonia, gait problems, or other abnormal movements. FMD is part of the broader FND spectrum.
+Functional neurological symptoms involving movement. Examples include tremor, jerks, functional tic-like symptoms, dystonia, gait problems, or other abnormal movements. FMD is part of the broader FND spectrum.
 
 ### Functional neurological disorder (FND)
 **Type: preferred umbrella term in this project**
@@ -173,6 +181,10 @@ A tremor with clinical features supporting a functional movement disorder. Featu
 
 Weakness or loss of voluntary movement in which examination shows positive features supporting a functional mechanism. The weakness is experienced as real and involuntary. Functional weakness may affect one limb, one side of the body, both legs, or other distributions.
 
+### Functional tic-like symptoms
+
+Involuntary motor movements and vocal/phonic sounds or words assessed as functional. Research also uses “functional tic-like behaviours” (FTLBs); this does not mean deliberate action. Can coexist with a primary tic disorder. See [functional tics](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) for assessment and sources.
+
 ## H
 
 ### Hoover’s sign
@@ -213,6 +225,10 @@ Deliberate production or exaggeration of symptoms for an external purpose is con
 **Type: older broad terminology**
 
 A phrase historically used for symptoms without an identified conventional medical explanation. It is **not synonymous with FND**. Modern FND diagnosis aims to identify positive clinical features of FND rather than defining the disorder only by lack of explanation.
+
+### Motor tic
+
+A tic involving movement. Movement appearance alone does not distinguish a primary tic disorder from a functional tic-like symptom. See [functional tics](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) for assessment and sources.
 
 ## N
 
@@ -260,6 +276,14 @@ A neuroscience framework in which the brain continually combines incoming sensor
 
 Meaning caused primarily by psychological processes. The word appears in older diagnoses such as PNES and “psychogenic movement disorder.” Modern FND diagnosis does **not** require proof of psychological stress, trauma, or another psychological cause, so this project avoids using “psychogenic” as a default causal explanation.
 
+### Palilalia
+
+Repetition of one’s own words. The description alone does not determine its cause. See [functional tics](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) for assessment and sources.
+
+### Premonitory urge
+
+A sensation before a tic or tic-like symptom. Some people notice one and some do not. Its presence or absence does not decide the diagnosis. See [functional tics](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) for assessment and sources.
+
 ## R
 
 ### Rehabilitation
@@ -294,12 +318,29 @@ A metaphor introduced by Christine Miserandino to describe limited, fluctuating 
 
 A symptom changing in severity, pattern, context, or availability of function. Variability is common in FND and can sometimes form part of positive diagnostic findings. It does not mean symptoms are voluntary, and variability can also occur in other medical conditions.
 
+## T
+
+### Tic
+
+A sudden, recurrent, usually non-rhythmic movement or sound. Classification depends on clinical history and assessment, not the word alone. See [functional tics](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) for assessment and sources.
+
+### Tic attack
+
+A description of an intense or prolonged bout of tic or tic-like symptoms. It does not automatically mean a functional seizure; safety and treatment follow assessment. See [functional tics](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) for assessment and sources.
+
 ## V
 
 ### Video-EEG
 **Type: diagnostic test**
 
 Simultaneous video recording and EEG monitoring. When a person’s typical episode is captured, clinicians can compare the observable event with the brain’s electrical activity. Video-EEG is especially useful in distinguishing many functional seizures from epileptic seizures, although the appropriate diagnostic approach depends on the individual event and clinical context.
+
+### Vocal / phonic tic (also called a verbal tic)
+
+A tic involving a sound, which may be a non-word sound, a word or a phrase. “Verbal tic” is a common search phrase; vocal/phonic is broader because not all sounds are words. See [functional tics](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) for assessment and sources.
+
+
+---
 
 ---
 
@@ -318,6 +359,7 @@ Simultaneous video recording and EEG monitoring. When a person’s typical episo
 
 This glossary uses the project’s stable citation index. The most relevant sources are:
 
+- [FND-CIT-0110 — Malaty et al., 2022](../research/citation-index.md#fnd-cit-0110) and [FND-CIT-0114 — Szejko et al., 2022](../research/citation-index.md#fnd-cit-0114): tic terminology, assessment and coexistence.
 - [FND-CIT-0001 — Bennett et al., 2021](../research/citation-index.md#fnd-cit-0001): practical FND review, positive diagnosis, involuntary symptoms, coexistence with other disease.
 - [FND-CIT-0002 — Espay et al., 2018](../research/citation-index.md#fnd-cit-0002): modern diagnostic approach and removal of a required psychological-stressor criterion.
 - [FND-CIT-0003 — Hallett et al., 2022](../research/citation-index.md#fnd-cit-0003): FND subtypes, symptom variability, and developing shared-mechanism models.

@@ -12,6 +12,10 @@ The repository contains all 97 course pages: 23 module overviews and 74 focused 
 
 ## Completed foundation work
 
+- Added functional motor and vocal/phonic tics as presentation 17 on September 17, 2026: paired diagnostic and recovery drafts, eight evidence-labelled overview entries (five treatment/formulation/coordinated-care and three supporting-care entries), Module 7 teaching, access and scope links, glossary, navigation and citation records FND-CIT-0110–0114. No detailed technique folder was created; specialist and lived-experience review is pending. Historical sixteen-list counts remain intact.
+
+- Completed a repository-wide [functional tics coverage audit](functional-tics-repository-audit.md) on September 17, 2026. The recommended plan covers motor and vocal/phonic symptoms, diagnostic uncertainty, recovery-evidence limits, scope boundaries, access needs and the distinction between a new seventeenth presentation and the sixteen original recovery lists.
+
 - Expanded functional speech and voice symptoms on September 17, 2026: eleven original entries map one-to-one to eleven detailed pages. Added FND-CIT-0106–0109 for communication access, a broader dysphonia pilot, stroke safety and voice assessment. Explicitly distinguished broader voice research from individual FND technique evidence and retained human review as pending.
 
 - Expanded functional visual symptoms on September 16, 2026: nine original entries map one-to-one to nine detailed pages. Added source records FND-CIT-0103–0105, updated visual-loss scope and photophobia safeguards, and retained specialist and lived-experience review as pending.
@@ -27,7 +31,7 @@ The repository contains all 97 course pages: 23 module overviews and 74 focused 
 - Added breadcrumbs, global navigation, a nested site map, and a forward reading path from each module overview through its pages and into the next module.
 - Marked citations and evidence review as pending wherever a research package has not yet been completed.
 - Added paired diagnostic and recovery pages for functional facial symptoms, with direct diagnostic research, explicit treatment-evidence limits and labelled community quotations.
-- Added functional-paralysis and functional-drop-attack diagnostic and recovery pages, and made **Refers to** plus a scope boundary consistent across all 32 numbered reference pages.
+- Added functional-paralysis and functional-drop-attack diagnostic and recovery pages, and made **Refers to** plus a scope boundary consistent across the then-current 32 numbered reference pages.
 - Added an early Module 1 introduction to available capacity, Spoon Theory, related planning models and action before a possible flare.
 - Rewrote Part Two in shorter, layperson-facing lessons with definitions, illustration briefs, paired lived-experience quotations, personal reflection questions and complete page-level citation tables.
 - Added five Part Two pages so safety-plan use, life with functional seizures, movement retraining, sensory access and communication access can each be read separately.

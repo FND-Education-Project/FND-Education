@@ -14,7 +14,7 @@
 
 **Scope boundary:** Rhythmic oscillation belongs on the [tremor page](02-functional-tremor.md), patterned posturing on the [dystonia page](04-functional-dystonia.md), and a larger episodic event on the [functional-seizures page](06-functional-seizures.md). Recovery techniques must follow the actual movement or event pattern.
 
-**Also described as:** functional myoclonus, functional jerky movements and functional tic-like or shock-like movements. These terms are not interchangeable diagnoses; assessment matters.
+**Also described as:** functional myoclonus, functional jerky movements or shock-like movements. Tic-like symptoms need their own assessment and are not an alternate name for myoclonus.
 
 Functional jerks are often brief and difficult to retrain one movement at a time. Rehabilitation therefore tends to focus on a familiar warning, the movement or muscle state immediately before the jerk, safer activity, and attention or arousal patterns around episodes. The [detailed-technique collection](functional_jerks_and_myoclonus/README.md) separates these different clinical jobs into nine full pages.
 
@@ -24,6 +24,11 @@ Functional jerks are often brief and difficult to retrain one movement at a time
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
+
+### Motor and vocal tic-like symptoms
+
+Jerks and tic-like symptoms may look similar but are not interchangeable diagnoses. Motor tics can coexist with jerks. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
+
 
 ## For the Person With FND
 
@@ -124,6 +129,8 @@ Review medications and coexisting pain, sleep, psychiatric, neurological or musc
 <!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
+
+**Source for this boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
 
 The practical material comes primarily from the functional motor-disorder physiotherapy consensus (**FND-CIT-0028**) and broader occupational-therapy consensus (**FND-CIT-0011**). A physiology-based myoclonus review (**FND-CIT-0092**) supports diagnosis-led treatment and careful distinction between functional jerks and other forms of myoclonus. Mixed functional motor-disorder trials (**FND-CIT-0029**, **FND-CIT-0030**) provide programme-level evidence but do not provide a clear symptom-specific estimate for jerks or prove any one technique. The search did not locate a controlled treatment trial specifically for functional jerks.
 

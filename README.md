@@ -90,7 +90,7 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 5. **Medical Safety and New Symptoms** — diagnostic overshadowing, meaningful changes, emergency decisions, and individualized safety information.
 6. **Functional Seizures and Episodic Symptoms** — terminology, diagnosis, safety, recovery, coexistence with epilepsy, and individualized episode plans.
-7. **Functional Movement, Weakness, and Gait Symptoms** — weakness, paralysis, tremor, jerks, dystonia, gait, falls, and movement retraining.
+7. **Functional Movement, Weakness, and Gait Symptoms** — weakness, paralysis, tremor, jerks, functional motor and vocal/phonic tics, dystonia, gait, falls, and movement retraining.
 8. **Sensory, Visual, Balance, and Dizziness Symptoms** — altered sensation, functional visual symptoms, dizziness, sensory overload, accommodations, and rehabilitation.
 9. **Speech, Voice, Swallowing, and Breathing Symptoms** — communication symptoms, swallowing, cough, breathing, specialist roles, and safety.
 
@@ -147,7 +147,7 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 ## Find information by symptom or need
 
-**[Open the FND Reference Library](reference/README.md)** for two symptom-specific collections: positive diagnostic signs and recovery/management techniques. Each collection currently has one page for each of 16 symptom presentations, including separate pages for severe functional paralysis and functional drop attacks. The [master technique list](reference/recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
+**[Open the FND Reference Library](reference/README.md)** for two symptom-specific collections: positive diagnostic signs and recovery/management techniques. Each collection currently has one page for each of 17 symptom presentations, including motor and vocal/phonic functional tics, severe functional paralysis and functional drop attacks. The [master technique list](reference/recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
 
 The 32 symptom pages now explain that symptoms may be episodic, fluctuating, or longer-lasting. Diagnostic pages state which appearances they refer to and where symptoms overlap more than one category. They also include immediate safety or onset guidance and, where possible, show how a familiar recovery technique may be shortened for a flare. Community quotations are usually kept in source notebooks while their wording, source, privacy, representativeness and safety are evaluated. When selected quotations appear on an educational page, they remain clearly labelled as lived experience rather than treatment evidence.
 
@@ -164,7 +164,7 @@ The reference library also contains a developing [five-booklet functional-seizur
 Current course and reference material can be found for:
 
 - functional seizures, dissociative seizures, PNES, and altered-awareness episodes;
-- movement disorder, tremor, jerks, dystonia, weakness, paralysis, gait, falls, and functional drop attacks;
+- movement disorder, tremor, jerks, functional motor and vocal/phonic tics, dystonia, weakness, paralysis, gait, falls, and functional drop attacks;
 - speech, voice, swallowing, breathing, and communication symptoms;
 - functional facial spasm, apparent droop, weakness, eye closure, and related mouth-control symptoms;
 - sensory, visual, dizziness, and balance symptoms;

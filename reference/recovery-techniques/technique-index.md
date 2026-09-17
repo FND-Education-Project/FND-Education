@@ -53,6 +53,17 @@ This index includes treatment options, rehabilitation components and supporting 
 - [Episode safety and relapse planning](functional_jerks_and_myoclonus/08-episode-safety-and-relapse-planning.md) when clusters create injury or object-dropping risk or require setting-specific instructions and a no-warning fallback. **[Clinical consensus; supported as a component of structured rehabilitation]**
 - [Individualized multidisciplinary treatment](functional_jerks_and_myoclonus/09-individualized-multidisciplinary-treatment.md) when movement work must be coordinated with daily-task adaptation, psychological care when relevant, or treatment of coexisting conditions. **[Programme-level research and clinical consensus; functional-jerk-specific controlled evidence is lacking]**
 
+### [Functional Tics and Tic-Like Symptoms](17-functional-tics-and-tic-like-symptoms.md)
+
+- [Positive explanation and a shared plan](17-functional-tics-and-tic-like-symptoms.md#positive-explanation) — Ask the clinician to explain what supports the diagnosis, what remains uncertain and what help is available. Agree on one or two goals that matter to you, such as finishing a conversation or getting through a meal more comfortably. **[Clinical consensus]**
+- [Brief pattern and context mapping](17-functional-tics-and-tic-like-symptoms.md#pattern-mapping) — If useful, note a few examples of what happened before, during and after symptoms, including discomfort, urges, surroundings and other people’s responses. Stop if tracking makes life revolve around symptoms; no warning or trigger has to be found. **[Assessment and treatment-planning component; clinical consensus]**
+- [Individually formulated behavioral or psychological treatment](17-functional-tics-and-tic-like-symptoms.md#individualized-treatment) — A clinician familiar with both tics and FND can discuss an approach suited to your symptoms and priorities. I-CBiT combines several methods and has early case-series evidence. Its exercises, including exposure and response prevention, need individual assessment and consent; this page is not a home suppression programme. **[Emerging evidence; uncontrolled series of eight young people]**
+- [Supported return to routines and valued activity](17-functional-tics-and-tic-like-symptoms.md#participation) — Choose a manageable way to stay involved in something important, with breaks, help or adaptations as needed. Review effort, pain and recovery cost. Participation does not have to wait until symptoms disappear. **[Clinical consensus; individualized rehabilitation principle]**
+- [Coexisting-condition and medication review](17-functional-tics-and-tic-like-symptoms.md#coexisting-care) — Review a possible primary tic disorder, ADHD, OCD, anxiety, depression, pain, sleep difficulty or other FND when relevant. Medication may treat a coexisting condition; it is not automatically a treatment for the functional symptom mechanism. Change medicines only with the prescriber. **[Coordinated care; clinical consensus]**
+- [Motor and vocal safety and communication planning](17-functional-tics-and-tic-like-symptoms.md#safety-communication) — Plan safer handling of hot or sharp objects, seating and other tasks affected by movements. For vocal interruptions, agree how to finish a message: time, a pause, typing or writing may help. Accommodations protect access even when symptoms continue. **[Safety and access planning; not a separately proven treatment]**
+- [Family, school and workplace response planning](17-functional-tics-and-tic-like-symptoms.md#support-response) — Agree who should know, what help you want and how others should respond. Options include a private break space, alternative presentations and a simple explanation of involuntary words. Avoid punishment, shame or demands to suppress symptoms to earn access. **[Support and accommodation planning]**
+- [Tic-attack, cluster and flare planning](17-functional-tics-and-tic-like-symptoms.md#attack-plan) — For familiar intense bouts, agree how to reduce immediate hazards, offer calm support, allow recovery and recognize a change needing assessment. A prolonged bout is not automatically a functional seizure. A plan should work even when there is no warning. **[Safety and relapse planning; clinical consensus]**
+
 ### [Functional dystonia or fixed posturing](04-functional-dystonia.md)
 
 - [Supported positioning and non-forceful release](functional_dystonia/01-supported-positioning-and-non-forceful-release.md) when pain, strong bracing or worsening with passive pulling makes a fully supported, non-corrective starting position most appropriate. **[Clinical consensus]**
@@ -256,6 +267,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **Breathing, posture and muscle-relaxation exercises** — Speech/voice; swallowing/globus; cough/upper-airway; tremor; facial symptoms. **C**
 
+**[Brief pattern and context mapping](17-functional-tics-and-tic-like-symptoms.md#pattern-mapping)** — Functional tics: If useful, note a few examples of what happened before, during and after symptoms, including discomfort, urges, surroundings and other people’s responses. Stop if tracking makes life revolve around symptoms; no warning or trigger has to be found. **[Assessment and treatment-planning component; clinical consensus]**
+
 **[Building an Easier Sound Into Words and Conversation](functional_speech_and_voice_symptoms/04-building-sound-into-speech.md)** — Functional speech and voice symptoms. A sound, syllable or word is available with less effort, but carrying it into longer speech remains difficult. **[Professional consensus; the progression must follow the person’s response]**
 
 **CBT- or metacognition-informed digital self-help** — Functional Cognitive Disorder. **E**
@@ -267,6 +280,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **[Coexisting Pain, Migraine and Medical Review](functional_sensory_symptoms/10-coexisting-pain-migraine-and-medical-review.md)** — Functional sensory symptoms. Burning, pain, spreading numbness or sensory overload may have more than one contributor, or a changed pattern needs reassessment. **[Clinical assessment and coordinated-care consensus; treatment follows the condition identified]**
 
 **[Coexisting-Condition and Load Review](functional_seizures/08-coexisting-condition-and-load-review.md)** — Functional seizures. Address a specific untreated condition or practical burden, such as pain, sleep disruption or difficult access to care, even when seizures continue. **[Clinical guideline and multidisciplinary care; benefits for another condition do not prove a seizure effect]**
+
+**[Coexisting-condition and medication review](17-functional-tics-and-tic-like-symptoms.md#coexisting-care)** — Functional tics: Review a possible primary tic disorder, ADHD, OCD, anxiety, depression, pain, sleep difficulty or other FND when relevant. Medication may treat a coexisting condition; it is not automatically a treatment for the functional symptom mechanism. Change medicines only with the prescriber. **[Coordinated care; clinical consensus]**
 
 **[Cold or textured sensory grounding at a familiar warning](functional_seizures/04-sensory-grounding-and-attention-anchor.md)** — Functional seizures; a tolerable sensory variant, without isolated efficacy evidence. **[Specialist clinical guidance for grounding; cool-object variants also appear in community reports]**
 
@@ -286,7 +301,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Diagnostic Explanation and Continuing Care](functional_seizures/01-diagnostic-explanation-and-continuing-care.md)** — Functional seizures. Ask how the diagnosis was established for each event type and leave with a written explanation, a treatment contact and follow-up. **[Clinical guideline recommendation; explanation alone is not an established seizure-stopping treatment]**
 
-**Diagnostic explanation and education as part of treatment** — All 16 symptom groups. **C**
+**Diagnostic explanation and education as part of treatment** — All 17 symptom groups. **C**
 
 **Diet-restriction review after swallowing safety assessment** — Functional swallowing and globus. **C**
 
@@ -307,6 +322,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **Facial-spasm episode plan using warning signs, grounding and relaxation** — Functional facial symptoms. **E**
 
 **Fall-injury response and reassessment plan** — Functional drop attacks. **C**
+
+**[Family, school and workplace response planning](17-functional-tics-and-tic-like-symptoms.md#support-response)** — Functional tics: Agree who should know, what help you want and how others should respond. Options include a private break space, alternative presentations and a simple explanation of involuntary words. Avoid punishment, shame or demands to suppress symptoms to earn access. **[Support and accommodation planning]**
 
 **[Finding a Comfortable Automatic Voice](functional_speech_and_voice_symptoms/02-comfortable-automatic-voice.md)** — Functional speech and voice symptoms. Functional loss or strain of voice has been assessed, and a comfortable non-conversational sound may be easier than deliberate speech. **[Professional consensus; choice of sound requires voice and respiratory assessment]**
 
@@ -350,6 +367,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Individualized rehabilitation and relapse planning for functional gait disorder](functional_gait_disorder/13-individualized-rehabilitation-and-relapse-planning.md)** — Functional gait disability requiring selected movement, equipment, participation and coexisting-condition plans. **[Functional-gait-specific and mixed functional-motor programme evidence; no single component is established as the active ingredient]**
 
+**[Individually formulated behavioral or psychological treatment](17-functional-tics-and-tic-like-symptoms.md#individualized-treatment)** — Functional tics: A clinician familiar with both tics and FND can discuss an approach suited to your symptoms and priorities. I-CBiT combines several methods and has early case-series evidence. Its exercises, including exposure and response prevention, need individual assessment and consent; this page is not a home suppression programme. **[Emerging evidence; uncontrolled series of eight young people]**
+
 **[Making Speech More Comfortable: Breath, Posture and Muscle Release](functional_speech_and_voice_symptoms/07-breath-posture-and-release.md)** — Functional speech and voice symptoms. Assessment finds extra jaw, neck, laryngeal or breathing effort during speech, and a tailored adjustment may reduce strain. **[Professional consensus and adjacent voice guidance; generic deep breathing is not a prescription]**
 
 **Meaningful functional-task practice** — Weakness; paralysis; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; Functional Cognitive Disorder; facial symptoms. **C**
@@ -365,6 +384,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **Mobility, seating and transfer-equipment review** — Functional paralysis; functional drop attacks. **C**
 
 **[Mobility-aid, orthosis and equipment review](functional_dystonia/10-equipment-and-orthosis-review.md)** — Weakness, gait and dystonia when equipment has a defined safety, protection or access goal and a review plan. **[Clinical consensus]**
+
+**[Motor and vocal safety and communication planning](17-functional-tics-and-tic-like-symptoms.md#safety-communication)** — Functional tics: Plan safer handling of hot or sharp objects, seating and other tasks affected by movements. For vocal interruptions, agree how to finish a message: time, a pause, typing or writing may help. Accommodations protect access even when symptoms continue. **[Safety and access planning; not a separately proven treatment]**
 
 **[Music, counting or another external rhythm for gait](functional_gait_disorder/05-external-rhythm-and-auditory-cueing.md)** — Gait, tremor and speech/voice; the linked page concerns accessible gait timing cues. **[Clinical consensus; no functional-gait trial isolates auditory cueing]**
 
@@ -396,6 +417,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **Positioning, pressure relief, skin and contracture prevention** — Functional paralysis. **C**
 
+**[Positive explanation and a shared plan](17-functional-tics-and-tic-like-symptoms.md#positive-explanation)** — Functional tics: Ask the clinician to explain what supports the diagnosis, what remains uncertain and what help is available. Agree on one or two goals that matter to you, such as finishing a conversation or getting through a meal more comfortably. **[Clinical consensus]**
+
 **[Positive Explanation of Preserved Vision and Follow-Up](functional_visual_symptoms/01-positive-explanation-and-follow-up.md)** — Functional visual symptoms. The person has an assessed functional visual-loss pattern and needs to understand the positive findings, remaining uncertainty and continuing-care plan. **[Specialist clinical guidance; explanation is not a guaranteed vision-restoring treatment]**
 
 **Posture and alignment retraining** — Tremor; dystonia; weakness; gait. **C**
@@ -416,7 +439,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **Reducing repeated checking, reassurance seeking or self-testing** — Swallowing/globus; Functional Cognitive Disorder. **C**
 
-**Relapse and self-management plan** — All 16 symptom groups. **C**
+**Relapse and self-management plan** — All 17 symptom groups. **C**
 
 **Responsive rehabilitation dose planning from current capacity** — Functional paralysis. **C**
 
@@ -448,6 +471,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Supported Return to Activities](functional_seizures/10-supported-return-to-activities.md)** — Functional seizures. Adapt one valued activity for event unpredictability, fatigue and safety, preserving the aids and help that make participation possible. **[Clinical and occupational-therapy guidance; programme evidence does not establish a fixed activity dose]**
 
+**[Supported return to routines and valued activity](17-functional-tics-and-tic-like-symptoms.md#participation)** — Functional tics: Choose a manageable way to stay involved in something important, with breaks, help or adaptations as needed. Review effort, pain and recovery cost. Participation does not have to wait until symptoms disappear. **[Clinical consensus; individualized rehabilitation principle]**
+
 **[Supported Visual Choice Without Waiting for Certainty](functional_visual_symptoms/05-supported-choice-without-certainty.md)** — Functional visual symptoms. A clinician-selected matching or pointing task may reveal usable information even when the person cannot confidently describe what they see. **[Specialist clinical example; experimental therapeutic use rather than a validated home test]**
 
 **[Supporter Response Rehearsal](functional_seizures/11-supporter-response-rehearsal.md)** — Additional supporter-planning guidance. Functional seizures. Talk through the agreed response with chosen supporters between events, including who stays, who helps and when medical escalation is needed. **[Clinical guideline and safety guidance; rehearsal is an implementation aid]**
@@ -455,6 +480,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **[Surface-EMG biofeedback](functional_dystonia/07-surface-emg-biofeedback.md)** — Tremor and dystonia when a selected superficial muscle-activity signal supports a specific movement-learning goal. **[Clinical consensus; direct functional-dystonia treatment evidence is very limited]**
 
 **[TENS and Electrical Stimulation: Specialist Review and Safety](functional_sensory_symptoms/09-tens-and-electrical-stimulation-review.md)** — Functional sensory symptoms. A qualified clinician is considering electrical input for a specific pain or rehabilitation goal and needs to establish whether it is suitable. **[Emerging and uncertain FND evidence; safety review is essential]**
+
+**[Tic-attack, cluster and flare planning](17-functional-tics-and-tic-like-symptoms.md#attack-plan)** — Functional tics: For familiar intense bouts, agree how to reduce immediate hazards, offer calm support, allow recovery and recognize a change needing assessment. A prolonged bout is not automatically a functional seizure. A plan should work even when there is no warning. **[Safety and relapse planning; clinical consensus]**
 
 **[Treadmill and body-weight-supported walking](functional_gait_disorder/09-treadmill-and-body-weight-supported-walking.md)** — Limb weakness and functional gait disorder when equipment supplies a useful stepping condition or required fall protection. **[Clinical consensus; direct device-specific evidence in functional gait disorder is limited]**
 
@@ -480,7 +507,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 ## Scope and gaps
 
-The pages cover the same 16 presentations as the current diagnostic-sign reference. They do not yet cover every reported FND-associated symptom. Hearing changes, bladder symptoms, breathing-pattern disorder outside functional cough/upper-airway symptoms, dissociation without seizures, pain, fatigue and several less common movement presentations require their own research package before symptom-specific technique pages are added.
+The pages cover the same 17 presentations as the current diagnostic-sign reference. They do not yet cover every reported FND-associated symptom. Hearing changes, bladder symptoms, breathing-pattern disorder outside functional cough/upper-airway symptoms, dissociation without seizures, pain, fatigue and several less common movement presentations require their own research package before symptom-specific technique pages are added.
 
 *Index created: August 25, 2026 · Functional paralysis and drop attacks added September 2, 2026 · Functional limb weakness entries expanded September 10, 2026 · Functional tremor and functional jerks entries expanded September 11, 2026 · Functional dystonia and functional gait entries expanded September 12, 2026 · Functional seizure entries expanded September 14, 2026 · Clinical and accessibility review pending*
 

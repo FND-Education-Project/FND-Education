@@ -69,6 +69,10 @@ A separate source notebook is used to collect public lived-experience quotations
 
 *Collection created: August 25, 2026 · Functional paralysis and drop attacks added September 2, 2026 · Functional tremor, functional jerks, functional dystonia and functional gait detailed pages added September 11–12, 2026 · Functional seizure detailed pages added September 14, 2026 · Clinical and accessibility review pending*
 
+## Functional tics: a new presentation
+
+The collection now has 17 presentations. [Functional tics and tic-like symptoms](17-functional-tics-and-tic-like-symptoms.md) adds motor and vocal/phonic coverage after the sixteen original lists. Its first overview contains five treatment/formulation/coordinated-care entries and three safety/access/support entries. There is no detailed technique folder or target page count; expansion awaits specialist and lived-experience review.
+
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Reference Library](../README.md) · [Diagnostic Techniques](../diagnostic-signs/README.md) · [Recovery Techniques](README.md) · [Technique Index](technique-index.md)
 

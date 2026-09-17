@@ -28,9 +28,16 @@ Speech, voice, swallowing and breathing symptoms can affect safety, dignity and 
 
 ## Research and Sources
 
+**Source and limits:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../../research/citation-index.md#fnd-cit-0110); expert guidance, not a trial of these accommodations.
+
 | Citation | Figure | Full citation |
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | — | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
+
+### Vocal tic-like symptoms
+
+Involuntary sounds, words or phrases may be vocal/phonic tic-like symptoms and need their own assessment. Module 7 and the paired tics references cover this presentation; this module also supports communication access. [Diagnosis](../../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [Recovery and care](../../../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md).
+
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Start with Speech, Voice, and Word Blocking](01-speech-voice-and-word-blocking.md)

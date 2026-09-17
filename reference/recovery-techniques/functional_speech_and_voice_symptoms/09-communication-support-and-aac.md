@@ -15,6 +15,11 @@
 [Research and Sources](#research-and-sources)
 ***
 
+### Motor and vocal tic-like symptoms
+
+Motor or vocal tic-like symptoms may coexist with the symptoms discussed here. Their diagnosis and treatment should follow the individual formulation; communication access remains available when vocal symptoms interrupt a message. [See the dedicated functional-tics page](../17-functional-tics-and-tic-like-symptoms.md).
+
+
 ## For the Person With FND
 
 You still have things to say when speech is difficult. Writing, typing, a communication board or an agreed gesture may help you say them. You do not have to struggle through a spoken attempt before using support.
@@ -82,6 +87,8 @@ The procedure is an educational adaptation for individual clinical review, not a
 ***
 
 ## Research and Sources
+
+**Source for this boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
 
 ASHA supports individualized multimodal AAC and ongoing access to tools. This is adjacent communication-access guidance, not a trial showing that AAC treats FND. The distinction from the consensus paper’s caution about aids is deliberate and stated above.
 

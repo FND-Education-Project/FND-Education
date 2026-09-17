@@ -8,7 +8,11 @@
 
 These pages explain positive signs and criteria that qualified clinicians may use when assessing particular FND presentations. They are educational references, not do-it-yourself diagnostic tests.
 
+The collection now covers **17 symptom presentations**, including motor and vocal/phonic functional tic-like symptoms.
+
 ## In this folder
+
+- **[Functional Tics and Tic-Like Symptoms](17-functional-tics-and-tic-like-symptoms.md)** — motor and vocal symptoms, assessment limits and individualized care.
 
 - **[Diagnostic techniques index](diagnostic-index.md)** — browse every symptom-specific page and read how the signs should be interpreted and limited.
 - **[Recovery techniques](../recovery-techniques/README.md)** — find the separate collection about rehabilitation, treatment and symptom management after appropriate assessment.

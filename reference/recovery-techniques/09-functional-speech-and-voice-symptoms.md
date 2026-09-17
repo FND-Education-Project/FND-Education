@@ -21,6 +21,11 @@ The [detailed collection](functional_speech_and_voice_symptoms/README.md) expand
 [Research and Sources](#research-and-sources)
 ***
 
+### Motor and vocal tic-like symptoms
+
+Involuntary sounds, words or phrases may be vocal/phonic tic-like symptoms. They are not automatically a speech-production or voice impairment; communication support can still help. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
+
+
 ## For the Person With FND
 
 You may have a great deal to say while speech or voice is difficult to use. Treatment should help you communicate and take part in life, while making room for what you can manage today.
@@ -106,6 +111,8 @@ The original “temporary communication support” entry now explicitly includes
 ***
 
 ## Research and Sources
+
+**Source for this boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
 
 The principal reference is the international 2021 speech-language consensus, including its symptom-specific tables and supplementary recommendations. It draws on clinical experience and research with uneven coverage across presentations. Its discussion includes broader voice-therapy trial evidence, but those populations and treatment packages do not establish each listed technique as effective for every FND speech or voice presentation. (*citations* [1](#citation-1))
 

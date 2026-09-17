@@ -115,7 +115,7 @@ These short quotations are **lived-experience candidates, not treatment evidence
 
 > “I use Botox and it hasn’t seemed to impact it.”
 
-— Another person reporting that Botox used for migraine did not change their facial tics or spasms. This is one account, not an effectiveness study. [Source](https://www.reddit.com/r/FND/comments/1q94cj6/botox_and_facial_dystonia/)
+— Another person reporting that Botox used for migraine did not change their facial tics or spasms. The writer’s terms do not establish whether these were tics, dystonia or another movement; this account cannot be used as functional-tic treatment evidence. This is one account, not an effectiveness study. [Source](https://www.reddit.com/r/FND/comments/1q94cj6/botox_and_facial_dystonia/)
 
 > “It stopped the spasming for about three months ... then wore off and my dystonia returned.”
 
@@ -126,6 +126,15 @@ These short quotations are **lived-experience candidates, not treatment evidence
 The community material raises useful questions for clinical testing: whether light touch helps or overloads; whether an external language task makes facial movement easier; whether mirrors help or increase symptom focus; and how to protect vision and dignity during episodes. The reports do **not** establish massage, lifting the mouth corner, alphabet practice, darkness or Botox as treatments. Those ideas remain clearly separated from the research-supported and consensus-guided plan above.
 
 [For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Community reports](#community-reports-what-people-try) · [Research and evidence](#research-and-evidence)
+
+### Motor and vocal tic-like symptoms
+
+Facial tic-like movements need their own assessment. A facial location does not make a tic equivalent to dystonia, weakness or spasm. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
+
+
+## Research and Sources
+
+**Source for this boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
 
 <!-- NAV-CONTEXT:START -->
 **Previous in this collection:** [← Persistent Postural-Perceptual Dizziness](13-persistent-postural-perceptual-dizziness.md) · **Continue:** [Functional Paralysis →](15-functional-paralysis.md)

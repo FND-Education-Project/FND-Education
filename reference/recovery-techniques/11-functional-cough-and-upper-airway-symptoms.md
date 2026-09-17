@@ -80,6 +80,15 @@ Avoid generic breathwork that is not matched to the breathing phenotype. Coordin
 
 [For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
 
+### Motor and vocal tic-like symptoms
+
+Throat clearing or cough-like sounds can occur in tic disorders as well as airway conditions. The sound alone cannot identify the cause. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
+
+
+## Research and Sources
+
+**Source for this boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
+
 <!-- NAV-CONTEXT:START -->
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/03-cough-breathing-and-upper-airway-symptoms.md)
 

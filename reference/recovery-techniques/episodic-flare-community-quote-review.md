@@ -111,6 +111,10 @@ The [nine detailed visual pages](functional_visual_symptoms/README.md) include n
 
 The [eleven detailed speech-and-voice pages](functional_speech_and_voice_symptoms/README.md) add no community quotations. Human review should include different voice, fluency, articulation and accent experiences; clinician explanations; helpful or unwelcome prompting; communication aids; and episodes without warning. Seek neutral and adverse experiences as well as benefit. Do not invent quotations or treat a personal response to humming or singing as evidence for everyone.
 
+## Functional-tic quotation review gap
+
+Motor/vocal tics and tic attacks now have a [dedicated overview](17-functional-tics-and-tic-like-symptoms.md). Existing “jerks/tics” candidate descriptions remain diagnostically ambiguous and have not been promoted into verified functional-tic quotations. Seek source-checked accounts of vocal interruptions, clusters, supporter responses and unhelpful care; label each as lived experience, not evidence of efficacy.
+
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

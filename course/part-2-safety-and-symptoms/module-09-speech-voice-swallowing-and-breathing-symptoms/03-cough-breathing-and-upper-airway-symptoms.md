@@ -69,6 +69,11 @@ Do not practise breath-holding or copy a breathing exercise from this page. Seek
 [Research and Sources](#research-and-sources)
 ***
 
+### Cough-like sounds and tics
+
+Throat clearing and cough-like sounds can occur in tic disorders as well as airway conditions. The sound alone does not distinguish these. Persistent or changed symptoms need appropriate assessment; do not assume a breathing problem is a tic. [Diagnosis](../../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [Recovery and care](../../../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md).
+
+
 ## For Family, Friends, and Other Supporters
 
 Follow the person’s plan, help them reach the advised position or medicine, and keep the surroundings calm. Do not diagnose the sound or repeatedly instruct them to “just breathe.”
@@ -118,6 +123,8 @@ When positive functional features support the diagnosis, demonstrate them respec
 ***
 
 ## Research and Sources
+
+**Source and limits:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../../research/citation-index.md#fnd-cit-0110); expert guidance, not a trial of these accommodations.
 
 The main FND-specific source is expert consensus across related communication, swallowing, cough and upper-airway presentations. The emergency review supports fresh acute assessment but is not specific to functional breathing symptoms. (*citations* [1](#citation-1), [2](#citation-2))
 

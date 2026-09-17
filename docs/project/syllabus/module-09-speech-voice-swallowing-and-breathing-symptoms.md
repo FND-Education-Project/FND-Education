@@ -63,6 +63,8 @@ The reader knows that functional communication symptoms may be treatable while s
 
 [← Module 8: Sensory, Visual, Balance, and Dizziness Symptoms](module-08-sensory-visual-balance-and-dizziness-symptoms.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 10: Cognition, Memory, and Dissociation →](module-10-cognition-memory-and-dissociation.md)
 
+Functional motor and vocal/phonic tic-like symptoms are covered in Module 7, with [dedicated diagnosis and paired recovery guidance](../../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md). Vocal symptoms may also need the communication-access support in Module 9.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
 
