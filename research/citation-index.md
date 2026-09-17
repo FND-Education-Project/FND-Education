@@ -118,6 +118,28 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0104](#fnd-cit-0104) | NHS. Vision loss. Reviewed August 28, 2025; accessed September 16, 2026. | Adjacent public safety guidance on urgent and emergency vision symptoms; not FND-specific treatment evidence. | Functional visual symptom care | [Visual overview](../reference/recovery-techniques/08-functional-visual-symptoms.md) |
 | [FND-CIT-0105](#fnd-cit-0105) | Digre KB, Brennan KC. Shedding light on photophobia. *Journal of Neuro-Ophthalmology*. 2012;32(1):68–81. | Review of ophthalmic and neurological causes of photophobia; not proof of efficacy for a functional-photophobia light-exposure programme. | Functional visual symptom care | [Visual overview](../reference/recovery-techniques/08-functional-visual-symptoms.md) |
 
+| [FND-CIT-0106](#fnd-cit-0106) | American Speech-Language-Hearing Association. Augmentative and Alternative Communication (AAC). *Practice Portal*. Accessed September 17, 2026. | Professional communication-access guidance across conditions. Supports individualized AAC and continued access; not an FND treatment trial. The speech collection explicitly distinguishes this access approach from FND-CIT-0025’s caution about aids in functional mutism. | Speech/voice assessment and support | [Speech and voice overview](../reference/recovery-techniques/09-functional-speech-and-voice-symptoms.md) |
+| [FND-CIT-0107](#fnd-cit-0107) | Deary V, McColl E, Carding P, Miller T, Wilson J. A psychosocial intervention for the management of functional dysphonia: complex intervention development and pilot randomised trial. *Pilot and Feasibility Studies*. 2018;4:46. | Pilot randomized study of 74 people with broadly defined functional dysphonia, focused on feasibility and acceptability. One therapist delivered both arms and CBT elements entered usual care. Pre–post improvement does not establish added CBT efficacy or generalization to all FND speech phenotypes. | Speech/voice assessment and support | [Speech and voice overview](../reference/recovery-techniques/09-functional-speech-and-voice-symptoms.md) |
+| [FND-CIT-0108](#fnd-cit-0108) | NHS. Symptoms of a stroke. Reviewed September 12, 2024; accessed September 17, 2026. | Public clinical safety guidance: sudden speech/language symptoms can signal stroke and require emergency assessment, even when they resolve. Adjacent safety evidence, not FND treatment research. | Speech/voice assessment and support | [Speech and voice overview](../reference/recovery-techniques/09-functional-speech-and-voice-symptoms.md) |
+| [FND-CIT-0109](#fnd-cit-0109) | American Speech-Language-Hearing Association. Voice Disorders. *Practice Portal*. Accessed September 17, 2026. | Professional voice-assessment and management guidance across etiologies. Supports relevant medical/laryngeal assessment and coordinated care; broader functional-voice terminology is not interchangeable with an FND-defined sample. | Speech/voice assessment and support | [Speech and voice overview](../reference/recovery-techniques/09-functional-speech-and-voice-symptoms.md) |
+
+## Functional speech and voice detailed-page citation use map
+
+| Page | Citation IDs |
+|---|---|
+| [Speech and voice overview](../reference/recovery-techniques/09-functional-speech-and-voice-symptoms.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0106](#fnd-cit-0106), [FND-CIT-0107](#fnd-cit-0107), [FND-CIT-0108](#fnd-cit-0108), [FND-CIT-0109](#fnd-cit-0109) |
+| [Understanding the Diagnosis and Finding an Easier Starting Point](../reference/recovery-techniques/functional_speech_and_voice_symptoms/01-understanding-preserved-communication.md) | [FND-CIT-0025](#fnd-cit-0025) |
+| [Finding a Comfortable Automatic Voice](../reference/recovery-techniques/functional_speech_and_voice_symptoms/02-comfortable-automatic-voice.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0109](#fnd-cit-0109) |
+| [Using Rhythm, Singing or Familiar Sequences](../reference/recovery-techniques/functional_speech_and_voice_symptoms/03-rhythm-singing-and-familiar-sequences.md) | [FND-CIT-0025](#fnd-cit-0025) |
+| [Building an Easier Sound Into Words and Conversation](../reference/recovery-techniques/functional_speech_and_voice_symptoms/04-building-sound-into-speech.md) | [FND-CIT-0025](#fnd-cit-0025) |
+| [Finding a Helpful Speech Rate and Pattern](../reference/recovery-techniques/functional_speech_and_voice_symptoms/05-rate-and-prosody.md) | [FND-CIT-0025](#fnd-cit-0025) |
+| [Focusing on the Message and the Listener](../reference/recovery-techniques/functional_speech_and_voice_symptoms/06-focus-on-the-message.md) | [FND-CIT-0025](#fnd-cit-0025) |
+| [Making Speech More Comfortable: Breath, Posture and Muscle Release](../reference/recovery-techniques/functional_speech_and_voice_symptoms/07-breath-posture-and-release.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0109](#fnd-cit-0109) |
+| [Practising the Conversations You Want to Have](../reference/recovery-techniques/functional_speech_and_voice_symptoms/08-practice-real-conversations.md) | [FND-CIT-0025](#fnd-cit-0025) |
+| [Communication Support When Speech Is Difficult or Unavailable](../reference/recovery-techniques/functional_speech_and_voice_symptoms/09-communication-support-and-aac.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0106](#fnd-cit-0106) |
+| [Psychologically Informed Support for Communication](../reference/recovery-techniques/functional_speech_and_voice_symptoms/10-psychologically-informed-communication-care.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0107](#fnd-cit-0107) |
+| [Coexisting Conditions and Reassessment of Speech or Voice Changes](../reference/recovery-techniques/functional_speech_and_voice_symptoms/11-coexisting-conditions-and-reassessment.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0109](#fnd-cit-0109), [FND-CIT-0108](#fnd-cit-0108) |
+
 ## Functional visual detailed-page citation use map
 
 | Page | Citation IDs |
@@ -427,6 +449,8 @@ Use this source for a positive approach to functional visual symptoms that demon
 Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
 
 Use this source for professional consensus on positive assessment and speech-and-language therapy for functional communication, swallowing, cough and related disorders. Its grouping supports the combined page labels used in this reference, but the recommendations are consensus guidance rather than proof that one technique fits every presentation.
+
+**Speech-and-voice expansion note (September 17, 2026):** Reviewed the main article and supplementary recommendations. Broader dysphonia trials are discussed, but do not isolate each FND technique. The collection’s continuing-access approach to AAC is a stated qualification of this paper’s concern about aids perpetuating mutism; see FND-CIT-0106. The paper’s characterization of selective mutism as voluntary refusal is not adopted in these pages.
 
 ## FND-CIT-0026
 
@@ -907,6 +931,30 @@ Adjacent public safety guidance on urgent and emergency vision symptoms; not FND
 Digre KB, Brennan KC. Shedding light on photophobia. *Journal of Neuro-Ophthalmology*. 2012;32(1):68–81. [Source](https://doi.org/10.1097/WNO.0b013e3182474548).
 
 Review of ophthalmic and neurological causes of photophobia; not proof of efficacy for a functional-photophobia light-exposure programme.
+
+## FND-CIT-0106
+
+American Speech-Language-Hearing Association. Augmentative and Alternative Communication (AAC). *Practice Portal*. Accessed September 17, 2026. [Source](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/).
+
+Professional communication-access guidance across conditions. Supports individualized AAC and continued access; not an FND treatment trial. The speech collection explicitly distinguishes this access approach from FND-CIT-0025’s caution about aids in functional mutism.
+
+## FND-CIT-0107
+
+Deary V, McColl E, Carding P, Miller T, Wilson J. A psychosocial intervention for the management of functional dysphonia: complex intervention development and pilot randomised trial. *Pilot and Feasibility Studies*. 2018;4:46. [Source](https://doi.org/10.1186/s40814-018-0240-5).
+
+Pilot randomized study of 74 people with broadly defined functional dysphonia, focused on feasibility and acceptability. One therapist delivered both arms and CBT elements entered usual care. Pre–post improvement does not establish added CBT efficacy or generalization to all FND speech phenotypes.
+
+## FND-CIT-0108
+
+NHS. Symptoms of a stroke. Reviewed September 12, 2024; accessed September 17, 2026. [Source](https://www.nhs.uk/conditions/stroke/symptoms/).
+
+Public clinical safety guidance: sudden speech/language symptoms can signal stroke and require emergency assessment, even when they resolve. Adjacent safety evidence, not FND treatment research.
+
+## FND-CIT-0109
+
+American Speech-Language-Hearing Association. Voice Disorders. *Practice Portal*. Accessed September 17, 2026. [Source](https://www.asha.org/practice-portal/clinical-topics/voice-disorders/).
+
+Professional voice-assessment and management guidance across etiologies. Supports relevant medical/laryngeal assessment and coordinated care; broader functional-voice terminology is not interchangeable with an FND-defined sample.
 
 # How Course Pages Should Use the Index
 

@@ -430,6 +430,24 @@ Use the sections below to drill down into the course, reference library, researc
 </details>
 
 <details>
+<summary><strong>Functional Speech and Voice Recovery Pages</strong></summary>
+
+- [Collection overview](reference/recovery-techniques/functional_speech_and_voice_symptoms/README.md)
+- [Understanding the Diagnosis and Finding an Easier Starting Point](reference/recovery-techniques/functional_speech_and_voice_symptoms/01-understanding-preserved-communication.md)
+- [Finding a Comfortable Automatic Voice](reference/recovery-techniques/functional_speech_and_voice_symptoms/02-comfortable-automatic-voice.md)
+- [Using Rhythm, Singing or Familiar Sequences](reference/recovery-techniques/functional_speech_and_voice_symptoms/03-rhythm-singing-and-familiar-sequences.md)
+- [Building an Easier Sound Into Words and Conversation](reference/recovery-techniques/functional_speech_and_voice_symptoms/04-building-sound-into-speech.md)
+- [Finding a Helpful Speech Rate and Pattern](reference/recovery-techniques/functional_speech_and_voice_symptoms/05-rate-and-prosody.md)
+- [Focusing on the Message and the Listener](reference/recovery-techniques/functional_speech_and_voice_symptoms/06-focus-on-the-message.md)
+- [Making Speech More Comfortable: Breath, Posture and Muscle Release](reference/recovery-techniques/functional_speech_and_voice_symptoms/07-breath-posture-and-release.md)
+- [Practising the Conversations You Want to Have](reference/recovery-techniques/functional_speech_and_voice_symptoms/08-practice-real-conversations.md)
+- [Communication Support When Speech Is Difficult or Unavailable](reference/recovery-techniques/functional_speech_and_voice_symptoms/09-communication-support-and-aac.md)
+- [Psychologically Informed Support for Communication](reference/recovery-techniques/functional_speech_and_voice_symptoms/10-psychologically-informed-communication-care.md)
+- [Coexisting Conditions and Reassessment of Speech or Voice Changes](reference/recovery-techniques/functional_speech_and_voice_symptoms/11-coexisting-conditions-and-reassessment.md)
+
+</details>
+
+<details>
 <summary><strong>Functional Visual Recovery Pages</strong></summary>
 
 - [Collection overview](reference/recovery-techniques/functional_visual_symptoms/README.md)

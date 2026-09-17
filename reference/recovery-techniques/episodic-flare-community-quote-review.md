@@ -107,6 +107,10 @@ The [twelve detailed sensory pages](functional_sensory_symptoms/README.md) add n
 
 The [nine detailed visual pages](functional_visual_symptoms/README.md) include no new community quotations. Review is needed for positive explanations, optical demonstrations, visual practice, light protection, coexisting conditions and uncertain specialist options, including no-warning episodes and adverse or neutral experiences. Preserve access needs and consent; personal accounts cannot establish treatment efficacy.
 
+## Functional speech and voice experience gaps — September 17, 2026
+
+The [eleven detailed speech-and-voice pages](functional_speech_and_voice_symptoms/README.md) add no community quotations. Human review should include different voice, fluency, articulation and accent experiences; clinician explanations; helpful or unwelcome prompting; communication aids; and episodes without warning. Seek neutral and adverse experiences as well as benefit. Do not invent quotations or treat a personal response to humming or singing as evidence for everyone.
+
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

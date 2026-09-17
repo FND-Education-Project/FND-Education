@@ -1,105 +1,132 @@
 # Recovery Techniques for Functional Speech and Voice Symptoms
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Recovery Techniques for Functional Speech and Voice Symptoms**
+[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Functional Speech and Voice Symptoms**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-**Refers to:**
+**Refers to:** assessed functional stuttering; slurred, effortful, blocked or absent speech; functional loss or alteration of voice; and assessed changes in articulation, accent or speech rhythm.
 
-- stuttering, slurred, effortful, blocked or absent speech;
-- functional dysphonia, aphonia and changes in volume, pitch, accent or prosody; and
-- assessed functional articulation or speech-initiation difficulty.
+**Scope boundary:** These presentations need different assessment and treatment. Word-finding and other language difficulties may overlap the [cognitive page](12-functional-cognitive-disorder.md); mouth movement may overlap the [facial page](14-functional-facial-symptoms.md). Swallowing belongs on the [swallowing page](10-functional-swallowing-and-globus.md). A functional diagnosis must be supported by positive findings and does not rule out another condition. (*citations* [1](#citation-1))
 
-**Scope boundary:** Cognitive word-finding difficulty without a speech-motor or language-production pattern belongs on the [cognitive page](12-functional-cognitive-disorder.md), mouth mechanics may overlap the [facial page](14-functional-facial-symptoms.md), and swallowing belongs on the [swallowing page](10-functional-swallowing-and-globus.md). Recovery techniques must match the communication phenotype.
+**Also described as:** functional dysphonia, aphonia, dysarthria, stuttering, accent change and functional communication disorder.
 
-**Also described as:** functional dysphonia, functional aphonia, functional dysarthria, functional stuttering, functional accent change and functional communication disorder.
+The [detailed collection](functional_speech_and_voice_symptoms/README.md) expands **eleven original entries into eleven pages**, in their original order. The [history audit](../../docs/project/recovery-technique-history-audit.md#functional-speech-and-voice-symptoms) records the mapping. This is a menu of approaches and support, not an eleven-step programme or a count of proven treatments.
 
-Treatment looks for a more effective sound, word or communication pattern that is already available under some conditions, then shapes it into everyday speech. The useful starting task differs between voice, fluency, articulation, accent and word-blocking presentations.
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-**Evidence labels:** **R** research-supported · **C** clinical consensus · **E** emerging. The practical recommendations are professional consensus rather than symptom-specific controlled-trial evidence.
+## For the Person With FND
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+You may have a great deal to say while speech or voice is difficult to use. Treatment should help you communicate and take part in life, while making room for what you can manage today.
 
-## For the person with symptoms
+A speech-language therapist can help identify an easier starting point and explore how to use it in ordinary conversation. A useful sound in one task does not mean you can speak reliably in every setting. There is no need to keep proving that an easier response is available. (*citations* [1](#citation-1))
 
-### Techniques used in speech-language therapy
+### Find the page that fits your goal
 
-1. **Education and demonstration of preserved communication — C.** The therapist compares relevant tasks and explains any clearer or easier communication that appears. The purpose is to find a starting route for treatment, not to catch the person speaking “normally.”
-2. **Reflexive or automatic voice — C.** A comfortable sigh, yawn-sigh, hum, laugh, cough or easy vowel may produce voice with less effort. Only tasks appropriate to the person’s laryngeal and respiratory health are used.
-3. **Rhythm, singing or automatic sequences — C.** Counting, days of the week, familiar phrases, tapping or melody can change initiation, fluency or rate. The therapist then reduces the cue while carrying the easier pattern into ordinary words.
-4. **Shape an easy sound into speech — C.** Begin with the sound, syllable or word that is most available. Add a second sound, short phrase, sentence and conversation step by step while protecting ease rather than volume or perfection.
-5. **Rate and prosody adjustment — C.** Slower, faster, rhythmic or deliberately varied speech may interrupt an over-controlled pattern. The chosen rate should improve communication without straining voice or breath.
-6. **External-focus communication — C.** Direct attention toward the message, listener or shared activity instead of the mechanics of each sound. Practise first in a low-pressure exchange, then increase social and environmental complexity.
-7. **Breathing, posture and muscle-release work — C.** Where assessment finds excessive laryngeal, jaw, neck or respiratory effort, the therapist may teach comfortable breath flow, posture and release. Generic deep breathing is not suitable for every voice or breathing pattern.
-8. **Meaningful communication practice — C.** Rehearse a phone call, order, work phrase or conversation that the person actually needs. Progress length, spontaneity and listener familiarity rather than drilling unrelated sounds indefinitely.
-9. **Temporary communication support — C.** Writing, text-to-speech, alphabet boards or agreed gestures can preserve autonomy while active retraining continues. Supports should not be removed to force speech.
-10. **CBT-informed or psychologically informed strategies — C.** When attention, threat, avoidance or distress affects communication, treatment may include graded social exposure, coping skills or psychological care without treating stress as the sole explanation.
-11. **Treat coexisting conditions — C.** Hearing, reflux, respiratory disease, pain, migraine, structural laryngeal disorders and other neurological or language conditions need their own assessment and care.
+- **[Understanding the Diagnosis and Finding an Easier Starting Point](functional_speech_and_voice_symptoms/01-understanding-preserved-communication.md)** — An assessed speech or voice problem needs a clear explanation, and differences between tasks may help the therapist choose where to begin. **[Professional consensus; a useful demonstration does not prove dependable speech in daily life]**
+- **[Finding a Comfortable Automatic Voice](functional_speech_and_voice_symptoms/02-comfortable-automatic-voice.md)** — Functional loss or strain of voice has been assessed, and a comfortable non-conversational sound may be easier than deliberate speech. **[Professional consensus; choice of sound requires voice and respiratory assessment]**
+- **[Using Rhythm, Singing or Familiar Sequences](functional_speech_and_voice_symptoms/03-rhythm-singing-and-familiar-sequences.md)** — Speech initiation or fluency changes with a familiar sequence, a gentle rhythm or melody, and that cue is comfortable and useful. **[Professional consensus; evidence from other speech disorders cannot be assumed to apply to FND]**
+- **[Building an Easier Sound Into Words and Conversation](functional_speech_and_voice_symptoms/04-building-sound-into-speech.md)** — A sound, syllable or word is available with less effort, but carrying it into longer speech remains difficult. **[Professional consensus; the progression must follow the person’s response]**
+- **[Finding a Helpful Speech Rate and Pattern](functional_speech_and_voice_symptoms/05-rate-and-prosody.md)** — Assessed speech blocks, effort, timing or unwanted accent/prosody changes may respond to a different pace or emphasis. **[Professional consensus; no single rate or pitch pattern suits every presentation]**
+- **[Focusing on the Message and the Listener](functional_speech_and_voice_symptoms/06-focus-on-the-message.md)** — Monitoring each sound interrupts an otherwise manageable exchange, and a simple shared purpose may make speaking less effortful. **[Professional consensus; adding distraction or a second task is not universally helpful]**
+- **[Making Speech More Comfortable: Breath, Posture and Muscle Release](functional_speech_and_voice_symptoms/07-breath-posture-and-release.md)** — Assessment finds extra jaw, neck, laryngeal or breathing effort during speech, and a tailored adjustment may reduce strain. **[Professional consensus and adjacent voice guidance; generic deep breathing is not a prescription]**
+- **[Practising the Conversations You Want to Have](functional_speech_and_voice_symptoms/08-practice-real-conversations.md)** — A strategy helps in therapy but has not yet become usable in the conversations, calls or everyday exchanges that matter. **[Professional consensus; participation goals and practice demands should be individualized]**
+- **[Communication Support When Speech Is Difficult or Unavailable](functional_speech_and_voice_symptoms/09-communication-support-and-aac.md)** — Speech is unreliable, exhausting or unavailable, and another way to express needs, choices and ordinary conversation is needed. **[Communication-access guidance; aids can be temporary, intermittent or ongoing]**
+- **[Psychologically Informed Support for Communication](functional_speech_and_voice_symptoms/10-psychologically-informed-communication-care.md)** — Fear of difficult conversations, distress or unhelpful checking adds to the communication burden, and the person wants support with it. **[Professional consensus and limited broader dysphonia research; psychological treatment is not a requirement for all patients]**
+- **[Coexisting Conditions and Reassessment of Speech or Voice Changes](functional_speech_and_voice_symptoms/11-coexisting-conditions-and-reassessment.md)** — Hearing, laryngeal, respiratory, neurological or other health issues may add to communication difficulty, or the symptom pattern has changed. **[Clinical assessment and coordinated care; benefits depend on the condition identified]**
 
-### If speech or voice changes in episodes
+### During a familiar episode or a lower-capacity day
 
-Functional stuttering, slurred or effortful speech, word blocking, loss of voice or inability to speak may come in short episodes, last for hours or longer, or remain persistent. For some people, time pressure, competing conversation, fatigue, sensory/cognitive overload or another FND episode makes communication temporarily harder. These are individual patterns, not universal triggers.
+Let others know which support helps, when you can. Some people need less background noise or fewer questions; others need more time or a different way to answer. These preferences can be written into a short communication plan.
 
-When a familiar episode begins:
+1. Pause the demand to speak. Ask for one speaker and one question at a time if that helps.
+2. Use writing, text-to-speech, a board or an agreed signal straight away. You do not need to attempt speech first.
+3. If you want to try one therapist-selected cue, use the familiar version. Stop if it adds strain or frustration.
+4. Keep the exchange about what you need to say. A useful message matters more than a fluent performance.
+5. Return to speech when manageable, keeping support available. Review a plan that repeatedly leaves you exhausted or worse later.
 
-1. **Reduce communication demand.** Pause the conversation, move to a quieter setting when helpful, and ask others to use one question or idea at a time.
-2. **Use backup communication immediately if useful.** Writing, texting, text-to-speech or agreed gestures are communication—not failure to recover.
-3. **Use one therapist-selected cue.** A rhythm, automatic phrase, easy sound, rate change or other practised strategy may be tried without repeatedly forcing difficult words.
-4. **Keep the goal on the message.** Do not turn the episode into repeated tests of whether normal speech has returned.
-5. **Return gradually.** Resume low-pressure speech first, then increase conversation length and environmental complexity.
+These steps are practical care adaptations, not a tested universal flare treatment. If episodes happen without warning, make the backup method easy to reach and make sure your usual supporters know how to use it. A phone may be useful, but it should not be the only option if looking at a screen or using your hands becomes difficult. (*citations* [1](#citation-1), [2](#citation-2))
 
-Sudden new speech change with facial droop, weakness, severe headache, confusion, swallowing or breathing difficulty needs urgent assessment.
+### When a change needs medical help
 
-### A low-risk starting practice
+**Sudden new slurring, difficulty speaking or difficulty understanding language needs emergency assessment**, even without facial droop or arm weakness, and even if it stops. Use your local emergency number and do not drive yourself. An existing FND diagnosis is not a reason to try exercises before getting help. (*citations* [4](#citation-4))
 
-Use the easiest comfortable sound or automatic phrase already identified with the therapist. Practise briefly in a low-pressure setting, then use it to begin one useful word or sentence. Stop if there is throat pain, breathlessness, dizziness or voice strain. Persistent loss of voice should have appropriate laryngeal assessment before unsupervised exercises.
+Severe breathing difficulty also requires emergency help. Persistent or progressive voice change, pain, coughing blood, neck swelling or new swallowing problems needs medical review. Voice symptoms should have appropriate medical and laryngeal assessment; do not assume a throat or breathing problem can be resolved by relaxation exercises. (*citations* [1](#citation-1), [5](#citation-5))
 
-### Ask for urgent help or reassessment when
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-Speech or voice change is sudden or comes with facial droop, one-sided weakness, severe headache, confusion, swallowing or breathing difficulty. Reassessment is also appropriate for coughing blood, neck mass, persistent pain, progressive symptoms, unexplained weight loss or a substantial change in an established functional pattern.
+## For Family, Friends, and Other Supporters
 
-## For family, friends and supporters
+Give the person time to get their message across. Ask whether they want help with a word, a pause, or another communication method. Their preference may change from one conversation to the next.
 
-- Give time, reduce interruptions and ask how the person prefers to communicate.
-- Respond to the meaning of the message rather than correcting every sound.
-- Use therapist-agreed cues only; do not demand singing, coughing or “normal speech.”
-- Accept backup communication as communication, not refusal to practise.
-- Help expand practice into real conversations without creating a performance.
+Respond to the message before the quality of the speech. Avoid finishing sentences without permission, asking for repeated demonstrations or encouraging louder speech when it is already effortful. Keep talking to the person directly when they use an aid.
 
-### During a speech or voice episode
+A familiar flare is not a compulsory practice session. Offer an agreed cue once if wanted, then let the chosen communication method do its job. Never remove an aid to motivate speech. Make it possible to express disagreement, humour, questions and ordinary conversation—not just a few care needs. (*citations* [2](#citation-2))
 
-Lower the conversational load: fewer questions, one speaker at a time and extra response time. Offer the person’s backup communication without making them first prove that speech is unavailable. If there is one agreed speech-language cue, offer it once rather than repeatedly coaching every word. A brief episode and one lasting much longer can both occur; support communication throughout rather than waiting for speech to normalize before continuing life.
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-## For clinicians
+## For Clinicians and the Care Team
 
-Define the communication phenotype and identify positive functional features across relevant tasks. Complete or arrange laryngeal, respiratory, hearing, neurological and language assessment where indicated. Use the best preserved output as the treatment entry point, then shape and generalize it rapidly to meaningful communication.
+Define the affected domains: phonation, fluency, articulation, prosody, language and communication participation. Establish positive functional features in context, with relevant neurological, laryngeal, respiratory, hearing and language assessment. Variability or a response to a cue alone does not establish the diagnosis. Account for coexisting disease and distinguish broader functional-dysphonia terminology from a specifically FND-defined presentation. (*citations* [1](#citation-1), [5](#citation-5))
 
-### Adapting communication rehabilitation for episodic symptoms
+For a selected approach:
 
-Document episode duration, frequency, warning, social and sensory/cognitive load, fatigue, relationship to other FND symptoms and recovery. When possible, identify the lowest-demand output that remains available during an episode and rehearse a portable sequence: **reduce demand → preserve communication access → one effective speech/voice cue → graded return to ordinary conversation**.
+1. Ask which communication situation matters most and establish a way for the person to answer.
+2. Explain the rationale and uncertainty of the proposed trial.
+3. Start with a tolerable task, changing one demand rather than introducing several cues at once.
+4. Connect any useful response to a meaningful message while keeping alternative communication available.
+5. Review participation, effort, discomfort and delayed effects before extending practice.
+6. Agree a familiar-episode plan, reassessment criteria and follow-up responsibility.
 
-Augmentative or alternative communication should remain available while retraining continues. Do not remove it to increase motivation. Track communicative participation, ability to convey urgent needs, episode burden and recovery time as well as intelligibility or voice quality.
+These steps are educational adaptations, not a validated protocol. Do not reproduce hands-on laryngeal techniques, forced phonation or respiratory manoeuvres as generic home exercises. Let the person stop; do not interpret the need for a different approach as resistance. (*citations* [1](#citation-1), [5](#citation-5))
 
-Record intelligibility, communicative participation, fatigue, confidence and support use, not only symptom form. Coordinate speech-language therapy, laryngology, neurology, psychology and occupational or vocational care. Provide augmentative support when needed while keeping rehabilitation available.
+The original “temporary communication support” entry now explicitly includes intermittent and ongoing use. The 2021 consensus cautions that aids might perpetuate functional mutism. This collection takes a stated access-first approach, informed by ASHA AAC guidance: any review of support is collaborative, and aids are not removed to compel speech. That is communication-access guidance, not a claim that AAC treats the functional mechanism. (*citations* [1](#citation-1), [2](#citation-2))
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## Research and Sources
+
+The principal reference is the international 2021 speech-language consensus, including its symptom-specific tables and supplementary recommendations. It draws on clinical experience and research with uneven coverage across presentations. Its discussion includes broader voice-therapy trial evidence, but those populations and treatment packages do not establish each listed technique as effective for every FND speech or voice presentation. (*citations* [1](#citation-1))
+
+A 2018 randomized pilot of 74 people compared voice therapy with voice therapy plus CBT in broadly defined functional dysphonia. Its main purpose was feasibility and acceptability. Both groups improved on pre–post measures, but one therapist delivered both approaches and CBT elements entered usual care. The study cannot establish an added CBT benefit or be generalized to all speech presentations. (*citations* [3](#citation-3))
+
+ASHA’s pages provide broader assessment and communication-access guidance; the NHS source supports urgent stroke assessment. They are not FND technique trials. This is a targeted source update, not a new systematic review. No new community quotations have been added; human, clinical and lived-experience review remains pending.
+
+| Citation | Full citation | Figure |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). [Source](https://doi.org/10.1136/jnnp-2021-326767) | — |
+| <a id="citation-2"></a>**[2]** | American Speech-Language-Hearing Association. Augmentative and Alternative Communication (AAC). *Practice Portal*. Accessed September 17, 2026. [FND-CIT-0106](../../research/citation-index.md#fnd-cit-0106). [Source](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/) | — |
+| <a id="citation-3"></a>**[3]** | Deary V, McColl E, Carding P, Miller T, Wilson J. A psychosocial intervention for the management of functional dysphonia: complex intervention development and pilot randomised trial. *Pilot and Feasibility Studies*. 2018;4:46. [FND-CIT-0107](../../research/citation-index.md#fnd-cit-0107). [Source](https://doi.org/10.1186/s40814-018-0240-5) | — |
+| <a id="citation-4"></a>**[4]** | NHS. Symptoms of a stroke. Reviewed September 12, 2024; accessed September 17, 2026. [FND-CIT-0108](../../research/citation-index.md#fnd-cit-0108). [Source](https://www.nhs.uk/conditions/stroke/symptoms/) | — |
+| <a id="citation-5"></a>**[5]** | American Speech-Language-Hearing Association. Voice Disorders. *Practice Portal*. Accessed September 17, 2026. [FND-CIT-0109](../../research/citation-index.md#fnd-cit-0109). [Source](https://www.asha.org/practice-portal/clinical-topics/voice-disorders/) | — |
+
+*Sources checked September 17, 2026 · Speech-language, medical, lived-experience and accessibility review pending.*
 
 <!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/09-functional-speech-and-voice-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/01-speech-voice-and-word-blocking.md)
+**Related:** [Collection index](README.md) · [Detailed pages](functional_speech_and_voice_symptoms/README.md) · [Diagnostic signs](../diagnostic-signs/09-functional-speech-and-voice-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/01-speech-voice-and-word-blocking.md)
+
+**Previous:** [Functional visual symptoms](08-functional-visual-symptoms.md) · **Next:** [Functional swallowing symptoms and globus](10-functional-swallowing-and-globus.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
-
-## Research and evidence
-
-The technique list comes from international speech-language-therapy consensus covering functional communication, swallowing and cough disorders (**FND-CIT-0025**). That paper integrates clinical experience and related literature, but it is not a randomized trial. The search did not locate controlled treatment trials for the individual functional speech or voice techniques listed here.
-
-No community-only technique was added. Recurring lived-experience reports about humming, singing, rhythm and reduced pressure already appeared in the professional consensus; other claims lacked adequate corroboration or clinical screening.
-
-### Sources
-
-- **FND-CIT-0025:** Baker J, Barnett C, Cavalli L, et al. *Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.* JNNP. 2021;92(10):1112–1125. [doi:10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
-
-*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Speech-language-pathology and accessibility review pending*

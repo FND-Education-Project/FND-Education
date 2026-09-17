@@ -12,6 +12,8 @@ The repository contains all 97 course pages: 23 module overviews and 74 focused 
 
 ## Completed foundation work
 
+- Expanded functional speech and voice symptoms on September 17, 2026: eleven original entries map one-to-one to eleven detailed pages. Added FND-CIT-0106–0109 for communication access, a broader dysphonia pilot, stroke safety and voice assessment. Explicitly distinguished broader voice research from individual FND technique evidence and retained human review as pending.
+
 - Expanded functional visual symptoms on September 16, 2026: nine original entries map one-to-one to nine detailed pages. Added source records FND-CIT-0103–0105, updated visual-loss scope and photophobia safeguards, and retained specialist and lived-experience review as pending.
 
 - Established the evidence-first project voice, safety rules and accessibility goals.
