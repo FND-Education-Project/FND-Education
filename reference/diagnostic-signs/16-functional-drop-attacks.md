@@ -74,6 +74,8 @@ Do not stage a fall, withdraw an aid, provoke an event or use injury footage. Ca
 ***
 
 <!-- NAV-CONTEXT:START -->
+**Continue:** [Functional Tics and Tic-Like Symptoms →](17-functional-tics-and-tic-like-symptoms.md)
+
 **Previous in this collection:** [← Functional Paralysis](15-functional-paralysis.md)
 
 **Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/16-functional-drop-attacks.md) · [Functional gait disorder](05-functional-gait-disorder.md) · [Functional seizures](06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)

@@ -32,7 +32,7 @@ The clinician section focuses on practical usefulness to the patient: helping th
 
 - [Medical Safety and New Symptoms](part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md) — 4 pages
 - [Functional Seizures and Other Episodes](part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/README.md) — 5 pages
-- [Movement, Weakness, Walking, and Falls](part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/README.md) — 6 pages
+- [Movement, Tics, Weakness, Walking, and Falls](part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/README.md) — 6 pages
 - [Sensory, Visual, Balance, and Dizziness Symptoms](part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/README.md) — 5 pages
 - [Speech, Voice, Swallowing, and Breathing Symptoms](part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/README.md) — 5 pages
 

@@ -25,6 +25,11 @@
 [Research and Sources](#research-and-sources)
 ***
 
+### Motor and vocal tic-like symptoms
+
+Facial tic-like movements need their own assessment. A facial location does not make a tic equivalent to dystonia, weakness or spasm. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
+
+
 ## For the Person With FND
 
 **Facial droop is a description, not a diagnosis.** One person may have weakness of facial muscles. Another may have muscle overactivity pulling the corner of the mouth down and the jaw to one side, creating an appearance that resembles weakness. Functional facial symptoms can also involve narrowing or closure around an eye, lip or jaw spasm, facial pulling, tongue movement, difficulty holding the lips together, or, less commonly, functional facial weakness or a droopy eyelid. A photograph or online description cannot safely tell these mechanisms apart. (*citations* [1](#citation-1), [3](#citation-3), [5](#citation-5))
@@ -113,6 +118,8 @@ The caption must say that one image cannot distinguish stroke, facial-nerve weak
 <!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
+
+**Source for this boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
 
 ### Evidence notes
 

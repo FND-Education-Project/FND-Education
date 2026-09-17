@@ -77,6 +77,11 @@ Ask a speech and language professional about AAC if simple tools are not enough.
 [Research and Sources](#research-and-sources)
 ***
 
+### When vocal tics interrupt a message
+
+Ask how the person wants to finish their intended message. Time, a pause, writing or typing may help. Do not interpret involuntary words as the message they meant to send, and do not make suppression a condition of being heard. Communication support can be useful even when speech production itself is intact. [Diagnosis](../../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [Recovery and care](../../../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md).
+
+
 ## For Family, Friends, and Other Supporters
 
 Speak to the person, not around them. Ask how they want you to help and wait through silence. Offer the agreed tool without making them prove that speech is unavailable.
@@ -126,6 +131,8 @@ Use cross-task variability to support diagnosis and treatment only with consent 
 ***
 
 ## Research and Sources
+
+**Source and limits:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../../research/citation-index.md#fnd-cit-0110); expert guidance, not a trial of these accommodations.
 
 Both sources are professional consensus recommendations. They support functional activity and communication care but do not provide controlled evidence comparing AAC tools for FND. (*citations* [1](#citation-1), [2](#citation-2))
 

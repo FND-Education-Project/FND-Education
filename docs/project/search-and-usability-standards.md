@@ -66,6 +66,10 @@ Older terms should be labelled historical, outdated, disputed, or potentially st
 
 Use the [repository change and page maintenance policy](repository-change-and-page-maintenance-policy.md) as the operational checklist whenever a course or reference page is added, removed, renamed or moved.
 
+## Functional-tic search language
+
+Make functional tics, tic-like symptoms, functional tic-like behaviours, FTLB, motor tic, vocal tic, phonic tic and verbal tic findable. Prefer vocal/phonic in explanations; “verbal” is a search synonym. Route readers to the paired tics pages, with scope links from jerks, facial movement, cough and speech/voice.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 

@@ -158,7 +158,7 @@ Not everyone will want to read the complete course in order. These planned guide
 Planned guides include:
 
 - Functional seizures, dissociative seizures, PNES, and altered-awareness episodes
-- Functional movement disorder, tremor, jerks, and dystonia
+- Functional movement disorder, tremor, jerks, motor and vocal/phonic tics, and dystonia
 - Functional weakness, paralysis, gait disorder, and falls
 - Speech, voice, swallowing, breathing, and communication symptoms
 - Sensory, visual, dizziness, and balance symptoms

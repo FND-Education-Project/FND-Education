@@ -16,7 +16,7 @@ Explain functional motor symptoms and introduce evidence-informed rehabilitation
 
 - [Module overview](../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/README.md)
 - [Functional Weakness and Paralysis](../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
-- [Tremor, Jerks, and Spasms](../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+- [Tremor, Jerks, Tics, and Spasms](../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
 - [Functional Dystonia and Fixed Postures](../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md)
 - [Gait and Falls](../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
 - [How Movement Retraining Works](../../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/05-how-movement-retraining-works.md) — gives an unfamiliar rehabilitation idea its own short explanation and illustration.
@@ -24,7 +24,7 @@ Explain functional motor symptoms and introduce evidence-informed rehabilitation
 ## Essential knowledge
 
 - How FND can affect strength, walking, balance, posture, or movement.
-- What tremor, jerks, spasms, dystonia, weakness, paralysis, and gait problems mean in ordinary language.
+- What tremor, jerks, motor and vocal/phonic tics, spasms, dystonia, weakness, paralysis, and gait problems mean in ordinary language.
 - Why movement may be easier in one situation and harder in another without being voluntary.
 - How a clinician may find signs that normal movement is still possible but not being accessed reliably.
 - The difference between automatic movement and movement that requires close conscious control.
@@ -38,7 +38,7 @@ Explain functional motor symptoms and introduce evidence-informed rehabilitation
 
 This section should focus on how clinicians can help the patient understand the subject and their own presentation, identify what may help, support symptom or functional improvement, and remain helpful when improvement is limited or not yet possible. It should include safety, accessibility, quality of life, and appropriate reassessment rather than treating symptom reduction as the only worthwhile outcome.
 
-- Functional weakness, tremor, myoclonus, dystonia, parkinsonism, gait disorders, and mixed motor presentations.
+- Functional weakness, tremor, myoclonus, motor and vocal/phonic tic-like symptoms, dystonia, parkinsonism, gait disorders, and mixed motor presentations.
 - Positive signs including Hoover’s sign, hip abductor sign, drift without pronation, entrainment, distractibility, variability, and incongruent gait patterns.
 - Automatic versus explicit motor control, self-focused attention, agency, expectation, and motor prediction.
 - Physiotherapy principles emphasizing education, movement retraining, external focus, automatic movement, task orientation, and self-management.

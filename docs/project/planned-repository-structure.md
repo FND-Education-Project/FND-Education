@@ -40,12 +40,12 @@ FND-Education-/
 │   ├── diagnostic-signs/
 │   │   ├── README.md
 │   │   ├── diagnostic-index.md
-│   │   └── 16 symptom-specific sign pages
+│   │   └── 17 symptom-specific sign pages
 │   └── recovery-techniques/
 │       ├── README.md
 │       ├── collection-guide.md
 │       ├── technique-index.md
-│       ├── 16 symptom-specific overview pages
+│       ├── 17 symptom-specific overview pages
 │       └── symptom folders containing detailed individual-technique pages
 ├── guides/
 ├── support-persons/

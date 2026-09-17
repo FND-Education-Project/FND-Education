@@ -24,6 +24,11 @@
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+### Motor and vocal tic-like symptoms
+
+Throat clearing or cough-like sounds can occur in tic disorders as well as airway conditions. The sound alone cannot identify the cause. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
+
+
 ## For the Person With FND
 
 Functional cough and related upper-airway symptoms may include a repeated cough, throat clearing, unusual breathing or laryngeal symptoms that are not fully explained by structural disease. This page follows a speech-and-language-therapy consensus category; it does not claim that every persistent cough is FND.
@@ -95,6 +100,8 @@ Do not use strong odours, smoke, cold air, exercise or emotional provocation to 
 <!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
+
+**Source for this boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
 
 ### Evidence notes
 

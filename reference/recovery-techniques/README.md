@@ -8,7 +8,11 @@
 
 These pages collect research-informed rehabilitation, treatment and self-management approaches for particular FND symptoms. Recovery may mean fewer symptoms, safer self-management, greater participation or better quality of life; it does not promise remission or a cure.
 
+The collection now covers **17 symptom presentations**, including motor and vocal/phonic functional tic-like symptoms.
+
 ## In this folder
+
+- **[Functional Tics and Tic-Like Symptoms](17-functional-tics-and-tic-like-symptoms.md)** — motor and vocal symptoms, assessment limits and individualized care.
 
 - **[Technique index](technique-index.md)** — browse recovery and management techniques by symptom or alphabetically, with evidence labels.
 - **[Original lists and page-count audit](../../docs/project/recovery-technique-history-audit.md)** — see where each expanded page came from and which pages were added for care or specialist review.

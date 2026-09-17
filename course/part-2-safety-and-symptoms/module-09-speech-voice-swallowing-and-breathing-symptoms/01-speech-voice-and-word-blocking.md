@@ -69,6 +69,11 @@ Do not force repeated speech practice when it increases strain. Seek fresh asses
 [Research and Sources](#research-and-sources)
 ***
 
+### When sounds or words are involuntary
+
+Vocal/phonic tics can involve sounds, words or phrases. They are not automatically an impairment of speech production or voice, and primary tic disorders can coexist with functional symptoms. Ask for assessment of the whole pattern. A recognizable phrase does not mean the person chose to say it. [Diagnosis](../../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [Recovery and care](../../../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md).
+
+
 ## For Family, Friends, and Other Supporters
 
 Speak to the person directly and give them time. Ask whether they want yes/no questions, writing, typing or quiet. Do not finish every sentence, imitate the speech or speak as though understanding is impaired.
@@ -118,6 +123,8 @@ Use symptom-specific speech-and-language therapy within a supportive environment
 ***
 
 ## Research and Sources
+
+**Source and limits:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../../research/citation-index.md#fnd-cit-0110); expert guidance, not a trial of these accommodations.
 
 The central source is an international expert consensus paper, not a controlled treatment trial. It supports the presence and variety of these symptoms but cannot establish comparative treatment effectiveness. (*citation* [1](#citation-1))
 

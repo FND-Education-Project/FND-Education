@@ -61,6 +61,11 @@ Choose one task and finish: **“The barrier is _____; a change that might help 
 [Research and Sources](#research-and-sources)
 ***
 
+### A response plan for motor or vocal tics
+
+Discuss options with the person rather than prescribing the same accommodations to everyone. A private break space, an alternative presentation or communication route, safer equipment and one agreed contact may be useful. Record how others should respond to involuntary words, and protect the person from punishment or demanded suppression. Include what to do for injury or a changed event. [Diagnosis](../../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [Recovery and care](../../../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md).
+
+
 ## For Family, Friends, and Other Supporters
 
 Do not use paid work as proof that the person is well, or unemployment as proof they have stopped trying. Help with one concrete task—forms, transport, a meeting note—if asked. Respect the person's decision about disclosure; employers or educators do not automatically need every medical detail.
@@ -108,6 +113,8 @@ The functional-seizure survey was self-selected and cannot prescribe universal r
 ***
 
 ## Research and Sources
+
+**Source and limits:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../../research/citation-index.md#fnd-cit-0110); expert guidance, not a trial of these accommodations.
 
 | Citation | Figure | Full citation |
 |---|---|---|

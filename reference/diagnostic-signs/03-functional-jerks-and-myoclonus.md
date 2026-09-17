@@ -24,6 +24,11 @@
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+### Motor and vocal tic-like symptoms
+
+Jerks and tic-like symptoms may look similar but are not interchangeable diagnoses. Motor tics can coexist with jerks. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
+
+
 ## For the Person With FND
 
 **Myoclonus** is the clinical term for sudden, brief jerk-like movements. Functional jerks may vary in timing, distribution and response to attention, but some non-functional forms of myoclonus can also be irregular. Complex cases may need specialist neurophysiology rather than visual judgement alone.
@@ -93,6 +98,8 @@ If a laboratory video is contributed, it should show electrode placement on a he
 <!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
+
+**Source for this boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
 
 ### Evidence notes
 

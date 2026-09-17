@@ -63,6 +63,11 @@ Choose one setting. Complete: “I can take part more safely if _____.” Try on
 [Research and Sources](#research-and-sources)
 ***
 
+### Access when vocal symptoms interrupt
+
+For someone with vocal tic-like symptoms, agree on a backup way to finish a message: a pause, writing or typing may help. Ask what response they prefer in public. Access should remain available while symptoms continue; the person does not need to prove they can suppress them. [Diagnosis](../../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [Recovery and care](../../../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md).
+
+
 ## For Family, Friends, and Other Supporters
 
 Ask before turning off lights, speaking for the person or moving their equipment. Give time for a reply. Agree a simple yes/no method and a way to pause if communication is unreliable. Keep addressing the person even when someone else is helping.
@@ -110,6 +115,8 @@ Offer information in more than one format. Record the person's preferred communi
 ***
 
 ## Research and Sources
+
+**Source and limits:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../../research/citation-index.md#fnd-cit-0110); expert guidance, not a trial of these accommodations.
 
 | Citation | Figure | Full citation |
 |---|---|---|

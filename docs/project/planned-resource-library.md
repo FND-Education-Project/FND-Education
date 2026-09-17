@@ -25,6 +25,10 @@ Planned downloadable or printable resources include:
 
 Each resource should state its purpose, intended audience, limitations, creation or review date, and the research, guidance, or lived experience that informed it.
 
+## Functional-tic support resources
+
+After clinical and lived-experience review, consider a one-page motor/vocal symptom, safety and communication plan and a school/work response plan. Include consent, individual preferences, familiar-bout support and reassessment thresholds. These remain planned resources, not published treatment tools.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 

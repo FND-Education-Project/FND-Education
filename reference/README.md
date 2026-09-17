@@ -24,6 +24,7 @@ These pages explain what a clinician may examine, what a positive finding can su
 - **[Functional limb weakness](diagnostic-signs/01-functional-limb-weakness.md)** — Hoover's sign and related comparisons of deliberate and automatic movement.
 - **[Functional tremor](diagnostic-signs/02-functional-tremor.md)** — distractibility, entrainment and changes during another task.
 - **[Functional jerks or myoclonus](diagnostic-signs/03-functional-jerks-and-myoclonus.md)** — specialist EEG–EMG assessment and jerk-locked back-averaging.
+- **[Functional Tics and Tic-Like Symptoms](diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md)** — motor and vocal/phonic symptoms, individualized assessment and care with explicit evidence limits.
 - **[Functional dystonia or fixed posturing](diagnostic-signs/04-functional-dystonia.md)** — pattern-based history and movement examination, including inconsistency and incongruity.
 - **[Functional gait disorder](diagnostic-signs/05-functional-gait-disorder.md)** — safe comparison across walking tasks rather than judging an unusual gait by appearance alone.
 - **[Functional seizures](diagnostic-signs/06-functional-seizures.md)** — event history and, when feasible, video-EEG of each typical event type.
@@ -45,6 +46,7 @@ These pages separate research-supported, clinical-consensus, emerging and commun
 - **[Functional limb weakness](recovery-techniques/01-functional-limb-weakness.md)** — meaningful-task and automatic-movement retraining within individualized rehabilitation.
 - **[Functional tremor](recovery-techniques/02-functional-tremor.md)** — rhythm, competing movement, external focus and individualized rehabilitation.
 - **[Functional jerks or myoclonus](recovery-techniques/03-functional-jerks-and-myoclonus.md)** — warning recognition, redirected attention, meaningful activity and safety planning, with a [nine-page detailed technique collection](recovery-techniques/functional_jerks_and_myoclonus/README.md).
+- **[Functional Tics and Tic-Like Symptoms](recovery-techniques/17-functional-tics-and-tic-like-symptoms.md)** — motor and vocal/phonic symptoms, individualized assessment and care with explicit evidence limits.
 - **[Functional dystonia or fixed posturing](recovery-techniques/04-functional-dystonia.md)** — non-forceful positioning, task and sensory retraining, complication and equipment review, with a [ten original-list expansions and three additional review/care pages](recovery-techniques/functional_dystonia/README.md).
 - **[Functional gait disorder](recovery-techniques/05-functional-gait-disorder.md)** — phenotype-matched step, rhythm, direction, task and equipment strategies, with a [thirteen-page detailed technique collection](recovery-techniques/functional_gait_disorder/README.md).
 - **[Functional seizures](recovery-techniques/06-functional-seizures.md)** — safety, warning strategies, treatment choices and recovery support, with a [nine original-list expansions and three additional programme/care pages](recovery-techniques/functional_seizures/README.md).

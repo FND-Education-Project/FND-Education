@@ -110,7 +110,7 @@ Assess falls, pain, fatigue, comorbidity, task demands and equipment needs. Use 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Tremor, Jerks, and Spasms](02-tremor-jerks-and-spasms.md)
+**Continue:** [Next page: Tremor, Jerks, Tics, and Spasms](02-tremor-jerks-and-spasms.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

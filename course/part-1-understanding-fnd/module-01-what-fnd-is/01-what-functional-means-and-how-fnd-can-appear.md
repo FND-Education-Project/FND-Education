@@ -66,7 +66,7 @@ So what does [functional](../../../glossary/README.md#functional) actually mean?
 - overactive bladder and other bowel and bladder problems
 - visual blurring, light sensitivity
 - sound sensitivity
-- functional tics
+- [functional motor and vocal/phonic tic-like symptoms](../../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) — see also the [movement and tics lesson](../../part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
 
 And these are problems that are commonly experienced among sufferers but aren't necessarily part of FND (we'll talk about that later and why researchers differ in what they consider FND and what they consider "*comorbid*"): (*citations* [3](#citation-3), [9](#citation-9))
 - Not feeling like quite yourself, 'spaced out'

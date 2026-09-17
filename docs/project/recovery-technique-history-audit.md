@@ -200,6 +200,21 @@ The added botulinum-toxin and paediatric ReACT pages retain their existing sourc
 
 Begin with the actual original list, record its commit and entry count, and map each entry to its destination. Split only for a clear instructional or clinical distinction; combine overlapping entries transparently. Label any added intervention with its source, evidence limits and reason for inclusion. Put additional safety, access and planning material in a clearly named supporting section. Never choose a target page count. Report original entries, resulting pages and additions separately.
 
+## Functional tics: post-baseline addition
+
+Added September 17, 2026, after the original sixteen lists. There was no separate functional-tic recovery list in the historical baseline. The first version of [the new overview](../../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md) establishes the following baseline; this implementation commit is its provenance.
+
+1. Positive explanation and a shared plan — treatment/formulation/coordinated care.
+2. Brief pattern and context mapping — treatment/formulation/coordinated care.
+3. Individually formulated behavioral or psychological treatment — treatment/formulation/coordinated care.
+4. Supported return to routines and valued activity — treatment/formulation/coordinated care.
+5. Coexisting-condition and medication review — treatment/formulation/coordinated care.
+6. Motor and vocal safety and communication planning — supporting safety/access/care planning.
+7. Family, school and workplace response planning — supporting safety/access/care planning.
+8. Tic-attack, cluster and flare planning — supporting safety/access/care planning.
+
+Eight overview entries; zero detailed technique pages. These are not eight proven treatments. Any later expansion must map splits, combinations and new additions against this list. The historical sixteen-list tables above remain unchanged.
+
 <!-- NAV-CONTEXT:START -->
 **Related:** [Recovery collection guide](../../reference/recovery-techniques/collection-guide.md) · [Technique index](../../reference/recovery-techniques/technique-index.md) · [Page maintenance policy](repository-change-and-page-maintenance-policy.md)
 

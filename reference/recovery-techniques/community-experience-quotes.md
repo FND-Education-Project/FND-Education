@@ -29,6 +29,7 @@ This page is intentionally not linked from the project navigation while quotatio
 |---|---:|---|
 | Functional limb weakness | 3 favourable / 3 difficult | [Limb weakness](#functional-limb-weakness) |
 | Functional tremor | 2 favourable / 2 difficult | [Tremor](#functional-tremor) |
+| Functional tics and tic-like symptoms | Verification pending | [Tics](#functional-tics-and-tic-like-symptoms) |
 | Functional jerks or myoclonus | 2 favourable / 3 difficult | [Jerks or myoclonus](#functional-jerks-or-myoclonus) |
 | Functional dystonia or fixed posturing | 2 favourable / 3 difficult | [Dystonia](#functional-dystonia-or-fixed-posturing) |
 | Functional gait disorder | 3 favourable / 3 difficult | [Gait disorder](#functional-gait-disorder) |
@@ -1218,6 +1219,12 @@ Before adding or replacing a quotation, confirm all of the following:
 8. New material remains grouped under the symptom first and then the exact indexed technique or support response it concerns.
 
 *Draft created: August 25, 2026 · Reorganized by symptom and technique September 1, 2026 · Functional paralysis and drop-attack sources added September 2, 2026 · Part Three and Part Four sources added September 5, 2026 · Part Five source map added September 8, 2026 · Part Six source map added September 9, 2026 · Functional-jerks detailed-technique coverage added September 11, 2026 · Community, clinical and privacy review pending*
+
+## Functional tics and tic-like symptoms
+
+**Quotation gap — September 17, 2026:** No new functional motor/vocal tic quotations verified for this addition. Seek public, contextualized accounts of living with motor and vocal symptoms; helpful and harmful clinician/supporter responses; young and older adults; and coexistence with primary tics. Preserve self-described diagnostic uncertainty. Existing jerks/tics or facial-spasm accounts have not been reassigned as verified functional-tic diagnoses.
+
+See the [recovery overview](17-functional-tics-and-tic-like-symptoms.md). These gaps should not be filled with invented quotes or private-group material.
 
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)

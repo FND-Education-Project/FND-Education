@@ -17,6 +17,11 @@
 [Research and Sources](#research-and-sources)
 ***
 
+### Motor and vocal tic-like symptoms
+
+Motor or vocal tic-like symptoms may coexist with the symptoms discussed here. Their diagnosis and treatment should follow the individual formulation; communication access remains available when vocal symptoms interrupt a message. [See the dedicated functional-tics page](../17-functional-tics-and-tic-like-symptoms.md).
+
+
 ## For the Person With FND
 
 ### What this technique does
@@ -111,6 +116,8 @@ The functional-motor physiotherapy consensus specifically notes that conventiona
 <!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
+
+**Source for this boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
 
 | Citation | Full citation |
 |---|---|

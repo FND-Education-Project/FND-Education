@@ -63,6 +63,11 @@ Write two lines: **“usual for me”** and **“different enough to get help.�
 [Research and Sources](#research-and-sources)
 ***
 
+### When tic-like symptoms become vocal
+
+New sounds or words may deserve a review of the symptom pattern and its effect on communication. Becoming vocal does not by itself prove or disprove a functional diagnosis. Use the familiar-symptom plan where appropriate, while getting urgent help for serious injury, breathing danger or acute neurological change. [Diagnosis](../../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [Recovery and care](../../../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md).
+
+
 ## For Family, Friends, and Other Supporters
 
 Know where the plan is. During a familiar event, follow the person's agreed instructions and preserve privacy and dignity. During a changed event, describe what you actually observed: what began, when, what was different, possible injury and recovery.
@@ -112,6 +117,8 @@ A previous FND diagnosis may explain a familiar recurrence but should not absorb
 ***
 
 ## Research and Sources
+
+**Source and limits:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../../research/citation-index.md#fnd-cit-0110); expert guidance, not a trial of these accommodations.
 
 These reviews support medical reassessment based on the current presentation while trying to reduce both diagnostic overshadowing and avoidable harm. They do not provide a personal emergency rule. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
