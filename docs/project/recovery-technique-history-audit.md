@@ -28,7 +28,7 @@ The first thirteen symptom lists were additionally checked against their initial
 | [Functional Seizures](../../reference/recovery-techniques/06-functional-seizures.md) | 10 | 12 | 10 original entries map to 9 core pages after the two overlapping grounding entries were combined. One paediatric programme page and two care-planning pages bring the document total to 12. |
 | [Functional Sensory Symptoms](../../reference/recovery-techniques/07-functional-sensory-symptoms.md) | 10 | 12 | The 10 original entries each have one detailed page. Two additional safety/planning pages bring the document total to 12; there were not 12 original techniques. |
 | [Functional Visual Symptoms](../../reference/recovery-techniques/08-functional-visual-symptoms.md) | 9 | 9 | Nine original entries expanded one-to-one; no additional pages. |
-| [Functional Speech and Voice Symptoms](../../reference/recovery-techniques/09-functional-speech-and-voice-symptoms.md) | 11 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
+| [Functional Speech and Voice Symptoms](../../reference/recovery-techniques/09-functional-speech-and-voice-symptoms.md) | 11 | 11 | Eleven original entries expanded one-to-one; no additional pages. |
 | [Functional Swallowing Symptoms and Globus](../../reference/recovery-techniques/10-functional-swallowing-and-globus.md) | 10 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
 | [Functional Cough and Upper-Airway Symptoms](../../reference/recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md) | 10 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
 | [Functional Cognitive Disorder](../../reference/recovery-techniques/12-functional-cognitive-disorder.md) | 13 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
@@ -223,3 +223,23 @@ The nine entries at the common historical baseline also match the pre-expansion 
 | 7. Treat coexisting conditions | [Treatment of Coexisting Eye, Migraine and Neurological Conditions](../../reference/recovery-techniques/functional_visual_symptoms/07-coexisting-eye-migraine-and-neurological-care.md) | One-to-one expansion. |
 | 8. Hypnotherapy or therapeutic suggestion | [Hypnotherapy and Transparent Therapeutic Suggestion](../../reference/recovery-techniques/functional_visual_symptoms/08-hypnotherapy-and-therapeutic-suggestion.md) | One-to-one expansion. |
 | 9. Specialist feedback or non-invasive brain stimulation | [Advanced Visual Feedback and Non-Invasive Brain Stimulation: Specialist Review](../../reference/recovery-techniques/functional_visual_symptoms/09-advanced-feedback-and-brain-stimulation-review.md) | One-to-one expansion. |
+
+## Subsequent expansion — September 17, 2026
+
+### Functional speech and voice symptoms
+
+The eleven entries at the common historical baseline also match the [pre-expansion overview](https://github.com/FND-Education-Project/FND-Education/blob/7d8c656ab05fe08c967010477c5b33b346683f1b/reference/recovery-techniques/09-functional-speech-and-voice-symptoms.md). Each now has one detailed page, in the same order. No original entry was dropped or combined. The historical “Temporary communication support” label is retained in this map; its page also covers intermittent and ongoing support. Higher-force or specialist procedures are not reproduced as home instructions.
+
+| Original entry | Current detailed coverage | Editorial relationship |
+|---|---|---|
+| 1. Education and demonstration of preserved communication | [Understanding the Diagnosis and Finding an Easier Starting Point](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/01-understanding-preserved-communication.md) | One-to-one expansion. |
+| 2. Reflexive or automatic voice | [Finding a Comfortable Automatic Voice](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/02-comfortable-automatic-voice.md) | One-to-one expansion. |
+| 3. Rhythm, singing or automatic sequences | [Using Rhythm, Singing or Familiar Sequences](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/03-rhythm-singing-and-familiar-sequences.md) | One-to-one expansion. |
+| 4. Shape an easy sound into speech | [Building an Easier Sound Into Words and Conversation](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/04-building-sound-into-speech.md) | One-to-one expansion. |
+| 5. Rate and prosody adjustment | [Finding a Helpful Speech Rate and Pattern](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/05-rate-and-prosody.md) | One-to-one expansion. |
+| 6. External-focus communication | [Focusing on the Message and the Listener](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/06-focus-on-the-message.md) | One-to-one expansion. |
+| 7. Breathing, posture and muscle-release work | [Making Speech More Comfortable: Breath, Posture and Muscle Release](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/07-breath-posture-and-release.md) | One-to-one expansion. |
+| 8. Meaningful communication practice | [Practising the Conversations You Want to Have](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/08-practice-real-conversations.md) | One-to-one expansion. |
+| 9. Temporary communication support | [Communication Support When Speech Is Difficult or Unavailable](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/09-communication-support-and-aac.md) | One-to-one expansion. |
+| 10. CBT-informed or psychologically informed strategies | [Psychologically Informed Support for Communication](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/10-psychologically-informed-communication-care.md) | One-to-one expansion. |
+| 11. Treat coexisting conditions | [Coexisting Conditions and Reassessment of Speech or Voice Changes](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/11-coexisting-conditions-and-reassessment.md) | One-to-one expansion. |

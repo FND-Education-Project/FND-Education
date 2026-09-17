@@ -140,14 +140,19 @@ Nine original entries, nine detailed pages; see the [collection mapping](functio
 
 ### [Functional speech and voice symptoms](09-functional-speech-and-voice-symptoms.md)
 
-- **C** education and demonstration of preserved or more automatic communication
-- **C** reflexive and automatic voice tasks such as sighing, yawning, humming or easy sound
-- **C** rhythm, singing, automatic sequences and rate adjustment
-- **C** shaping an easier sound into words and conversation
-- **C** external-focus and meaningful-communication practice
-- **C** tailored breathing, posture, muscle-relaxation and voice exercises
-- **C** temporary communication supports alongside active retraining
-- **C** CBT-informed strategies and treatment of relevant comorbidity
+Eleven original entries, eleven detailed pages; see the [collection mapping](functional_speech_and_voice_symptoms/README.md).
+
+- **[Understanding the Diagnosis and Finding an Easier Starting Point](functional_speech_and_voice_symptoms/01-understanding-preserved-communication.md)** — An assessed speech or voice problem needs a clear explanation, and differences between tasks may help the therapist choose where to begin. **[Professional consensus; a useful demonstration does not prove dependable speech in daily life]**
+- **[Finding a Comfortable Automatic Voice](functional_speech_and_voice_symptoms/02-comfortable-automatic-voice.md)** — Functional loss or strain of voice has been assessed, and a comfortable non-conversational sound may be easier than deliberate speech. **[Professional consensus; choice of sound requires voice and respiratory assessment]**
+- **[Using Rhythm, Singing or Familiar Sequences](functional_speech_and_voice_symptoms/03-rhythm-singing-and-familiar-sequences.md)** — Speech initiation or fluency changes with a familiar sequence, a gentle rhythm or melody, and that cue is comfortable and useful. **[Professional consensus; evidence from other speech disorders cannot be assumed to apply to FND]**
+- **[Building an Easier Sound Into Words and Conversation](functional_speech_and_voice_symptoms/04-building-sound-into-speech.md)** — A sound, syllable or word is available with less effort, but carrying it into longer speech remains difficult. **[Professional consensus; the progression must follow the person’s response]**
+- **[Finding a Helpful Speech Rate and Pattern](functional_speech_and_voice_symptoms/05-rate-and-prosody.md)** — Assessed speech blocks, effort, timing or unwanted accent/prosody changes may respond to a different pace or emphasis. **[Professional consensus; no single rate or pitch pattern suits every presentation]**
+- **[Focusing on the Message and the Listener](functional_speech_and_voice_symptoms/06-focus-on-the-message.md)** — Monitoring each sound interrupts an otherwise manageable exchange, and a simple shared purpose may make speaking less effortful. **[Professional consensus; adding distraction or a second task is not universally helpful]**
+- **[Making Speech More Comfortable: Breath, Posture and Muscle Release](functional_speech_and_voice_symptoms/07-breath-posture-and-release.md)** — Assessment finds extra jaw, neck, laryngeal or breathing effort during speech, and a tailored adjustment may reduce strain. **[Professional consensus and adjacent voice guidance; generic deep breathing is not a prescription]**
+- **[Practising the Conversations You Want to Have](functional_speech_and_voice_symptoms/08-practice-real-conversations.md)** — A strategy helps in therapy but has not yet become usable in the conversations, calls or everyday exchanges that matter. **[Professional consensus; participation goals and practice demands should be individualized]**
+- **[Communication Support When Speech Is Difficult or Unavailable](functional_speech_and_voice_symptoms/09-communication-support-and-aac.md)** — Speech is unreliable, exhausting or unavailable, and another way to express needs, choices and ordinary conversation is needed. **[Communication-access guidance; aids can be temporary, intermittent or ongoing]**
+- **[Psychologically Informed Support for Communication](functional_speech_and_voice_symptoms/10-psychologically-informed-communication-care.md)** — Fear of difficult conversations, distress or unhelpful checking adds to the communication burden, and the person wants support with it. **[Professional consensus and limited broader dysphonia research; psychological treatment is not a requirement for all patients]**
+- **[Coexisting Conditions and Reassessment of Speech or Voice Changes](functional_speech_and_voice_symptoms/11-coexisting-conditions-and-reassessment.md)** — Hearing, laryngeal, respiratory, neurological or other health issues may add to communication difficulty, or the symptom pattern has changed. **[Clinical assessment and coordinated care; benefits depend on the condition identified]**
 
 ### [Functional swallowing symptoms and globus](10-functional-swallowing-and-globus.md)
 
@@ -251,9 +256,13 @@ Nine original entries, nine detailed pages; see the [collection mapping](functio
 
 **Breathing, posture and muscle-relaxation exercises** — Speech/voice; swallowing/globus; cough/upper-airway; tremor; facial symptoms. **C**
 
+**[Building an Easier Sound Into Words and Conversation](functional_speech_and_voice_symptoms/04-building-sound-into-speech.md)** — Functional speech and voice symptoms. A sound, syllable or word is available with less effort, but carrying it into longer speech remains difficult. **[Professional consensus; the progression must follow the person’s response]**
+
 **CBT- or metacognition-informed digital self-help** — Functional Cognitive Disorder. **E**
 
 **[Clinician-Taught Breathing Control](functional_seizures/07-clinician-taught-breathing-control.md)** — Functional seizures. Seek respiratory assessment and comfortable, supervised practice when breathing patterns may be relevant; do not improvise breath-holding or deep-breathing drills. **[Emerging evidence; a published randomized-trial protocol is not an efficacy result]**
+
+**[Coexisting Conditions and Reassessment of Speech or Voice Changes](functional_speech_and_voice_symptoms/11-coexisting-conditions-and-reassessment.md)** — Functional speech and voice symptoms. Hearing, laryngeal, respiratory, neurological or other health issues may add to communication difficulty, or the symptom pattern has changed. **[Clinical assessment and coordinated care; benefits depend on the condition identified]**
 
 **[Coexisting Pain, Migraine and Medical Review](functional_sensory_symptoms/10-coexisting-pain-migraine-and-medical-review.md)** — Functional sensory symptoms. Burning, pain, spreading numbness or sensory overload may have more than one contributor, or a changed pattern needs reassessment. **[Clinical assessment and coordinated-care consensus; treatment follows the condition identified]**
 
@@ -261,7 +270,7 @@ Nine original entries, nine detailed pages; see the [collection mapping](functio
 
 **[Cold or textured sensory grounding at a familiar warning](functional_seizures/04-sensory-grounding-and-attention-anchor.md)** — Functional seizures; a tolerable sensory variant, without isolated efficacy evidence. **[Specialist clinical guidance for grounding; cool-object variants also appear in community reports]**
 
-**Communication supports used alongside retraining** — Functional speech and voice symptoms. **C**
+**[Communication Support When Speech Is Difficult or Unavailable](functional_speech_and_voice_symptoms/09-communication-support-and-aac.md)** — Functional speech and voice symptoms. Speech is unreliable, exhausting or unavailable, and another way to express needs, choices and ordinary conversation is needed. **[Communication-access guidance; aids can be temporary, intermittent or ongoing]**
 
 **Competing movement or absorbing task** — Tremor; jerks. **C**
 
@@ -299,7 +308,13 @@ Nine original entries, nine detailed pages; see the [collection mapping](functio
 
 **Fall-injury response and reassessment plan** — Functional drop attacks. **C**
 
+**[Finding a Comfortable Automatic Voice](functional_speech_and_voice_symptoms/02-comfortable-automatic-voice.md)** — Functional speech and voice symptoms. Functional loss or strain of voice has been assessed, and a comfortable non-conversational sound may be easier than deliberate speech. **[Professional consensus; choice of sound requires voice and respiratory assessment]**
+
+**[Finding a Helpful Speech Rate and Pattern](functional_speech_and_voice_symptoms/05-rate-and-prosody.md)** — Functional speech and voice symptoms. Assessed speech blocks, effort, timing or unwanted accent/prosody changes may respond to a different pace or emphasis. **[Professional consensus; no single rate or pitch pattern suits every presentation]**
+
 **[Fixed visual or sensory anchor at a familiar warning](functional_seizures/04-sensory-grounding-and-attention-anchor.md)** — Functional seizures with a usable warning and tolerable cue. **[Specialist clinical guidance; no isolated efficacy evidence]**
+
+**[Focusing on the Message and the Listener](functional_speech_and_voice_symptoms/06-focus-on-the-message.md)** — Functional speech and voice symptoms. Monitoring each sound interrupts an otherwise manageable exchange, and a simple shared purpose may make speaking less effortful. **[Professional consensus; adding distraction or a second task is not universally helpful]**
 
 **[Foot sliding or “skating” progression](functional_gait_disorder/02-foot-sliding-or-skating-progression.md)** — Functional gait disorder and functional ankle weakness when surface contact permits movement that deliberate foot lifting does not. **[Clinical consensus; direct component evidence is limited]**
 
@@ -334,6 +349,8 @@ Nine original entries, nine detailed pages; see the [collection mapping](functio
 **[Individualized multidisciplinary treatment for functional dystonia](functional_dystonia/13-individualized-multidisciplinary-treatment.md)** — Additional coordinated-care guidance. Functional dystonia interacting with pain, daily activities, psychological needs when relevant, equipment, work or coexisting conditions. **[Small case-series, pilot-trial and programme-level evidence plus multidisciplinary clinical consensus; no single package fits everyone]**
 
 **[Individualized rehabilitation and relapse planning for functional gait disorder](functional_gait_disorder/13-individualized-rehabilitation-and-relapse-planning.md)** — Functional gait disability requiring selected movement, equipment, participation and coexisting-condition plans. **[Functional-gait-specific and mixed functional-motor programme evidence; no single component is established as the active ingredient]**
+
+**[Making Speech More Comfortable: Breath, Posture and Muscle Release](functional_speech_and_voice_symptoms/07-breath-posture-and-release.md)** — Functional speech and voice symptoms. Assessment finds extra jaw, neck, laryngeal or breathing effort during speech, and a tailored adjustment may reduce strain. **[Professional consensus and adjacent voice guidance; generic deep breathing is not a prescription]**
 
 **Meaningful functional-task practice** — Weakness; paralysis; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; Functional Cognitive Disorder; facial symptoms. **C**
 
@@ -383,9 +400,13 @@ Nine original entries, nine detailed pages; see the [collection mapping](functio
 
 **Posture and alignment retraining** — Tremor; dystonia; weakness; gait. **C**
 
+**[Practising the Conversations You Want to Have](functional_speech_and_voice_symptoms/08-practice-real-conversations.md)** — Functional speech and voice symptoms. A strategy helps in therapy but has not yet become usable in the conversations, calls or everyday exchanges that matter. **[Professional consensus; participation goals and practice demands should be individualized]**
+
 **[Prescriber-Led Medication Review](functional_seizures/09-prescriber-led-medication-review.md)** — Functional seizures. Clarify the purpose of every regular and rescue medicine and arrange supervised changes only when indicated, including separate treatment for coexisting epilepsy. **[Clinical guideline recommendation; no unsupervised withdrawal]**
 
 **Proportionate fall-hazard and activity review** — Functional drop attacks. **C**
+
+**[Psychologically Informed Support for Communication](functional_speech_and_voice_symptoms/10-psychologically-informed-communication-care.md)** — Functional speech and voice symptoms. Fear of difficult conversations, distress or unhelpful checking adds to the communication burden, and the person wants support with it. **[Professional consensus and limited broader dysphonia research; psychological treatment is not a requirement for all patients]**
 
 **Psychologically informed vestibular rehabilitation or CBT** — PPPD. **E**
 
@@ -394,8 +415,6 @@ Nine original entries, nine detailed pages; see the [collection mapping](functio
 **[Recovery, Cluster and Flare Planning](functional_seizures/12-recovery-cluster-and-flare-planning.md)** — Additional recovery-planning guidance. Functional seizures. Separate the visible event from prolonged recovery or surrounding symptoms and plan safe transfers, communication and reassessment for a changed pattern. **[Individualized clinical care; distinguish familiar recovery from a new medical problem]**
 
 **Reducing repeated checking, reassurance seeking or self-testing** — Swallowing/globus; Functional Cognitive Disorder. **C**
-
-**Reflexive or automatic voice tasks** — Functional speech and voice symptoms. **C**
 
 **Relapse and self-management plan** — All 16 symptom groups. **C**
 
@@ -416,8 +435,6 @@ Nine original entries, nine detailed pages; see the [collection mapping](functio
 **[Sensory-Profile Assessment and Environmental Adaptation](functional_sensory_symptoms/08-sensory-profile-and-environment.md)** — Functional sensory symptoms. Multiple forms of sensory input interfere with washing, appointments, rest or other activities, and a tailored OT assessment is needed. **[Emerging sensory-based OT evidence; uncontrolled cohort outcomes do not establish causation]**
 
 **Sensory-profile assessment and sensory-based occupational therapy** — Functional sensory symptoms. **E**
-
-**Shaping an easier sound into speech** — Functional speech and voice symptoms. **C**
 
 **[Skin, Pressure and Injury Protection](functional_sensory_symptoms/11-skin-pressure-and-injury-protection.md)** — Additional injury-protection guidance. Functional sensory symptoms. Reduced sensation makes heat, cuts, pressure or footwear injury difficult to notice, including during temporary episodes. **[Clinical safety adaptation; protection is supportive care rather than a proven sensory-restoration treatment]**
 
@@ -446,6 +463,10 @@ Nine original entries, nine detailed pages; see the [collection mapping](functio
 **Treatment of overlapping fall and event phenotypes** — Functional drop attacks. **C**
 
 **Trigger, warning-sign and pattern mapping** — Functional seizures; jerks; cough; mixed episodic symptoms. **C**
+
+**[Understanding the Diagnosis and Finding an Easier Starting Point](functional_speech_and_voice_symptoms/01-understanding-preserved-communication.md)** — Functional speech and voice symptoms. An assessed speech or voice problem needs a clear explanation, and differences between tasks may help the therapist choose where to begin. **[Professional consensus; a useful demonstration does not prove dependable speech in daily life]**
+
+**[Using Rhythm, Singing or Familiar Sequences](functional_speech_and_voice_symptoms/03-rhythm-singing-and-familiar-sequences.md)** — Functional speech and voice symptoms. Speech initiation or fluency changes with a familiar sequence, a gentle rhythm or melody, and that cue is comfortable and useful. **[Professional consensus; evidence from other speech disorders cannot be assumed to apply to FND]**
 
 **Vestibular rehabilitation, individualized** — PPPD. **R/C**
 
