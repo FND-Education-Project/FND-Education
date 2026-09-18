@@ -127,6 +127,8 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0112](#fnd-cit-0112) | Andersen K, Cavanna AE, Szejko N, et al | Review | Functional motor and vocal tic-like symptoms | [reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md](../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md); [reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md); [course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md](../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md) |
 | [FND-CIT-0113](#fnd-cit-0113) | Maxwell A, Zouki JJ, Eapen V | Case series | Functional motor and vocal tic-like symptoms | [reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md](../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md); [reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md); [course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md](../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md) |
 | [FND-CIT-0114](#fnd-cit-0114) | Szejko N, Robinson S, Hartmann A, et al | Guideline | Functional motor and vocal tic-like symptoms | [glossary/README.md](../glossary/README.md); [reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md](../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md); [reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md); [course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md](../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md) |
+| [FND-CIT-0115](#fnd-cit-0115) | American Speech-Language-Hearing Association. Adult Dysphagia. *Practice Portal*. Accessed September 18, 2026. | Professional adult dysphagia guidance across etiologies. Supports assessment, silent aspiration, individualized texture/posture decisions, nutrition and hydration review; not FND-specific efficacy evidence. | Swallowing assessment and care | [Swallowing collection](../reference/recovery-techniques/functional_swallowing_and_globus/README.md) |
+| [FND-CIT-0116](#fnd-cit-0116) | Miles A, Baker J, Barker-Collo S, Leadley S. Functional dysphagia: Developing a framework for assessment and treatment. *International Journal of Speech-Language Pathology*. 2026;28:155–170. Published online March 11, 2025. | Expert-opinion framework illustrated by six clients; uncontrolled exemplar case series. Supports individualized formulation, not efficacy of a specific exercise, exposure schedule or promise of rapid recovery. Bibliographic metadata and abstract checked; full-text publisher access was unavailable during this update. | Swallowing assessment and care | [Swallowing collection](../reference/recovery-techniques/functional_swallowing_and_globus/README.md) |
 
 ## Functional speech and voice detailed-page citation use map
 
@@ -1000,6 +1002,36 @@ Szejko N, Robinson S, Hartmann A, et al. European clinical guidelines for Touret
 Primary tic-disorder assessment guideline; adjacent evidence for terminology and differential diagnosis, not functional-tic treatment evidence.
 
 **Current use:** [glossary/README.md](../glossary/README.md); [reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md](../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md); [reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md); [course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md](../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md).
+
+## FND-CIT-0115
+
+American Speech-Language-Hearing Association. Adult Dysphagia. *Practice Portal*. Accessed September 18, 2026. [Source](https://www.asha.org/practice-portal/clinical-topics/adult-dysphagia/).
+
+Professional adult dysphagia guidance across etiologies. Supports assessment, silent aspiration, individualized texture/posture decisions, nutrition and hydration review; not FND-specific efficacy evidence.
+
+## FND-CIT-0116
+
+Miles A, Baker J, Barker-Collo S, Leadley S. Functional dysphagia: Developing a framework for assessment and treatment. *International Journal of Speech-Language Pathology*. 2026;28:155–170. Published online March 11, 2025. [Source](https://doi.org/10.1080/17549507.2025.2473071).
+
+Expert-opinion framework illustrated by six clients; uncontrolled exemplar case series. Supports individualized formulation, not efficacy of a specific exercise, exposure schedule or promise of rapid recovery. Bibliographic metadata and abstract checked; full-text publisher access was unavailable during this update.
+
+## Functional swallowing and globus detailed-page citation use map
+
+The overview uses FND-CIT-0025, 0042, 0115 and 0116. Each standalone page carries its own full citations. The first two are existing records; 0115–0116 are new.
+
+| Detailed page | Stable source IDs |
+|---|---|
+| [Understanding Your Swallowing Assessment and Plan](../reference/recovery-techniques/functional_swallowing_and_globus/01-understanding-the-assessment.md) | FND-CIT-0025; FND-CIT-0115 |
+| [Comfortable Breathing and Supported Positioning for Meals](../reference/recovery-techniques/functional_swallowing_and_globus/02-comfortable-breathing-and-posture.md) | FND-CIT-0025; FND-CIT-0115 |
+| [Reducing Extra Jaw, Neck and Throat Effort](../reference/recovery-techniques/functional_swallowing_and_globus/03-jaw-neck-and-laryngeal-release.md) | FND-CIT-0025; FND-CIT-0115 |
+| [Practising With Assessed Food Textures and Amounts](../reference/recovery-techniques/functional_swallowing_and_globus/04-assessed-texture-and-volume-practice.md) | FND-CIT-0025; FND-CIT-0115 |
+| [Making Meals More Manageable in Different Settings](../reference/recovery-techniques/functional_swallowing_and_globus/05-meal-setting-and-participation.md) | FND-CIT-0025; FND-CIT-0115 |
+| [Stepping Back From Repeated Throat Checking](../reference/recovery-techniques/functional_swallowing_and_globus/06-reducing-test-swallows.md) | FND-CIT-0025; FND-CIT-0115 |
+| [Using a Gentle External Focus During Assessed Practice](../reference/recovery-techniques/functional_swallowing_and_globus/07-safe-external-focus.md) | FND-CIT-0025; FND-CIT-0115 |
+| [Working With Fear of Choking Without Pressure](../reference/recovery-techniques/functional_swallowing_and_globus/08-fear-and-avoidance-support.md) | FND-CIT-0025; FND-CIT-0115; FND-CIT-0116 |
+| [Treating Other Conditions That Make Swallowing Harder](../reference/recovery-techniques/functional_swallowing_and_globus/09-coexisting-conditions.md) | FND-CIT-0025; FND-CIT-0115 |
+| [A Prescriber-Led Medication Discussion for Assessed Globus](../reference/recovery-techniques/functional_swallowing_and_globus/10-globus-medication-review.md) | FND-CIT-0025; FND-CIT-0115; FND-CIT-0042 |
+| [Reviewing Diet and Equipment Restrictions Together](../reference/recovery-techniques/functional_swallowing_and_globus/11-reviewing-diet-and-equipment-restrictions.md) | FND-CIT-0025; FND-CIT-0115 |
 
 # How Course Pages Should Use the Index
 

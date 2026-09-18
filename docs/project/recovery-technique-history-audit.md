@@ -29,7 +29,7 @@ The first thirteen symptom lists were additionally checked against their initial
 | [Functional Sensory Symptoms](../../reference/recovery-techniques/07-functional-sensory-symptoms.md) | 10 | 12 | The 10 original entries each have one detailed page. Two additional safety/planning pages bring the document total to 12; there were not 12 original techniques. |
 | [Functional Visual Symptoms](../../reference/recovery-techniques/08-functional-visual-symptoms.md) | 9 | 9 | Nine original entries expanded one-to-one; no additional pages. |
 | [Functional Speech and Voice Symptoms](../../reference/recovery-techniques/09-functional-speech-and-voice-symptoms.md) | 11 | 11 | Eleven original entries expanded one-to-one; no additional pages. |
-| [Functional Swallowing Symptoms and Globus](../../reference/recovery-techniques/10-functional-swallowing-and-globus.md) | 10 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
+| [Functional Swallowing Symptoms and Globus](../../reference/recovery-techniques/10-functional-swallowing-and-globus.md) | 11 | 11 | Eleven original entries expanded one-to-one; the September 16 audit incorrectly reported ten for swallowing. |
 | [Functional Cough and Upper-Airway Symptoms](../../reference/recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md) | 10 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
 | [Functional Cognitive Disorder](../../reference/recovery-techniques/12-functional-cognitive-disorder.md) | 13 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
 | [Persistent Postural-Perceptual Dizziness](../../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md) | 12 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
@@ -38,6 +38,28 @@ The first thirteen symptom lists were additionally checked against their initial
 | [Recovery and Safety Techniques for Functional Drop Attacks](../../reference/recovery-techniques/16-functional-drop-attacks.md) | 7 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
 
 ## Original-entry to current-page mapping
+
+## Functional swallowing symptoms and globus
+
+**Correction checked September 18, 2026:** The September 16 table reported ten entries in error. Both the [initial list at a67567b](https://github.com/FND-Education-Project/FND-Education/blob/a67567b/reference/recovery-techniques/10-functional-swallowing-and-globus.md) and the [pre-expansion baseline at 74138f3](https://github.com/FND-Education-Project/FND-Education/blob/74138f34797ae840f794f0c809da64fad30dc401/reference/recovery-techniques/10-functional-swallowing-and-globus.md) contain **eleven**. The immediate pre-expansion list at `17b97f2` also contains eleven. The medication discussion was already original entry 10; restriction review was entry 11. Neither was newly invented to reach a page count.
+
+Eleven original entries map one-to-one to eleven detailed pages. No additional page or omitted entry. The flare guidance remains in the overview and relevant details. Safety wording now explicitly limits the old sip example to assessed intake, and limits external focus to clinician-selected practice rather than conversation with a mouthful.
+
+| Original entry | Detailed coverage | Relationship |
+|---|---|---|
+| 1. Positive explanation | [Understanding Your Swallowing Assessment and Plan](../../reference/recovery-techniques/functional_swallowing_and_globus/01-understanding-the-assessment.md) | One-to-one expansion; individualized safety limits retained. |
+| 2. Comfortable breathing and posture | [Comfortable Breathing and Supported Positioning for Meals](../../reference/recovery-techniques/functional_swallowing_and_globus/02-comfortable-breathing-and-posture.md) | One-to-one expansion; individualized safety limits retained. |
+| 3. Jaw, neck and laryngeal release | [Reducing Extra Jaw, Neck and Throat Effort](../../reference/recovery-techniques/functional_swallowing_and_globus/03-jaw-neck-and-laryngeal-release.md) | One-to-one expansion; individualized safety limits retained. |
+| 4. Graded food texture or volume | [Practising With Assessed Food Textures and Amounts](../../reference/recovery-techniques/functional_swallowing_and_globus/04-assessed-texture-and-volume-practice.md) | One-to-one expansion; individualized safety limits retained. |
+| 5. Graded meal-setting practice | [Making Meals More Manageable in Different Settings](../../reference/recovery-techniques/functional_swallowing_and_globus/05-meal-setting-and-participation.md) | One-to-one expansion; individualized safety limits retained. |
+| 6. Reduce repeated checking and dry swallows | [Stepping Back From Repeated Throat Checking](../../reference/recovery-techniques/functional_swallowing_and_globus/06-reducing-test-swallows.md) | One-to-one expansion; individualized safety limits retained. |
+| 7. External focus or distraction | [Using a Gentle External Focus During Assessed Practice](../../reference/recovery-techniques/functional_swallowing_and_globus/07-safe-external-focus.md) | One-to-one expansion; individualized safety limits retained. |
+| 8. Address fear and avoidance | [Working With Fear of Choking Without Pressure](../../reference/recovery-techniques/functional_swallowing_and_globus/08-fear-and-avoidance-support.md) | One-to-one expansion; individualized safety limits retained. |
+| 9. Treat coexisting conditions | [Treating Other Conditions That Make Swallowing Harder](../../reference/recovery-techniques/functional_swallowing_and_globus/09-coexisting-conditions.md) | One-to-one expansion; individualized safety limits retained. |
+| 10. Discuss gut–brain neuromodulator medication for assessed globus | [A Prescriber-Led Medication Discussion for Assessed Globus](../../reference/recovery-techniques/functional_swallowing_and_globus/10-globus-medication-review.md) | One-to-one expansion; individualized safety limits retained. |
+| 11. Review unnecessary restrictions | [Reviewing Diet and Equipment Restrictions Together](../../reference/recovery-techniques/functional_swallowing_and_globus/11-reviewing-diet-and-equipment-restrictions.md) | One-to-one expansion; individualized safety limits retained. |
+
+
 
 “Split” and “combined” below describe editorial organization. They do not establish separate mechanisms or treatment efficacy. Additional pages are shown separately and excluded from original-entry counts.
 

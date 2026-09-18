@@ -73,6 +73,8 @@ A separate source notebook is used to collect public lived-experience quotations
 
 The collection now has 17 presentations. [Functional tics and tic-like symptoms](17-functional-tics-and-tic-like-symptoms.md) adds motor and vocal/phonic coverage after the sixteen original lists. Its first overview contains five treatment/formulation/coordinated-care entries and three safety/access/support entries. There is no detailed technique folder or target page count; expansion awaits specialist and lived-experience review.
 
+**[Functional swallowing and globus: eleven detailed pages](functional_swallowing_and_globus/README.md)** — one page per original entry, with assessment, nutrition, airway safety and treatment-evidence limits.
+
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Reference Library](../README.md) · [Diagnostic Techniques](../diagnostic-signs/README.md) · [Recovery Techniques](README.md) · [Technique Index](technique-index.md)
 

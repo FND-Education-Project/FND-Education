@@ -70,6 +70,8 @@ The **syllabus** folder contains the planning outline for each module. The **cou
 
 The structure may change as the project develops. Priorities are predictable navigation, durable links, one canonical home for each full explanation, and avoiding information becoming trapped in very large documents. The [repository change and page maintenance policy](repository-change-and-page-maintenance-policy.md) lists the connected files that must change when a course or reference page is added, removed, renamed or moved.
 
+**Swallowing expansion:** `reference/recovery-techniques/functional_swallowing_and_globus/` contains a README and eleven detailed pages corresponding to the eleven original entries. This does not change the seventeen symptom-presentation count.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 

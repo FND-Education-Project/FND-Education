@@ -167,14 +167,17 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 ### [Functional swallowing symptoms and globus](10-functional-swallowing-and-globus.md)
 
-- **C** positive explanation after appropriate swallowing assessment
-- **C** neck, jaw and laryngeal relaxation with comfortable breathing
-- **C** graded return to food textures, volumes and meal settings under speech-language guidance
-- **C** reducing repeated checking, dry swallows and avoidant patterns
-- **C** distraction or external-focus practice during a clinician-selected swallowing task
-- **C** treatment of coexisting reflux, pain, voice or gastrointestinal conditions
-- **E** prescriber-led gut–brain neuromodulator discussion for assessed globus; adjacent esophageal-disorder evidence, not FND-specific dysphagia proof
-- **C** review and removal of unnecessary diet restriction only after safety assessment
+- [Positive explanation](functional_swallowing_and_globus/01-understanding-the-assessment.md) — When uncertainty about the diagnosis or safe eating is making every meal feel like a test. **[Professional consensus; diagnostic explanation and continuing care]**
+- [Comfortable breathing and posture](functional_swallowing_and_globus/02-comfortable-breathing-and-posture.md) — When assessment identifies bracing, awkward seating or excess effort around a meal. **[Professional consensus and general dysphagia guidance; individual positioning required]**
+- [Jaw, neck and laryngeal release](functional_swallowing_and_globus/03-jaw-neck-and-laryngeal-release.md) — When a clinician identifies excess muscle effort or bracing that contributes to discomfort. **[Professional consensus; manual techniques require trained assessment]**
+- [Graded food texture or volume](functional_swallowing_and_globus/04-assessed-texture-and-volume-practice.md) — When the swallowing team has identified a safe starting intake and a reason to practise a specific change. **[Professional consensus and dysphagia safety guidance; no universal texture ladder]**
+- [Graded meal-setting practice](functional_swallowing_and_globus/05-meal-setting-and-participation.md) — When a safe intake is established but pressure, sensory load or unfamiliar settings restrict participation. **[Professional consensus; individualized participation planning]**
+- [Reduce repeated checking and dry swallows](functional_swallowing_and_globus/06-reducing-test-swallows.md) — When assessment suggests repeated test swallows or throat checking are adding irritation or symptom focus. **[Professional consensus; applies only to unnecessary checking, not protective swallowing]**
+- [External focus or distraction](functional_swallowing_and_globus/07-safe-external-focus.md) — When a clinician finds that excessive conscious monitoring interferes with an otherwise assessed swallowing task. **[Professional consensus; external focus does not establish airway safety]**
+- [Address fear and avoidance](functional_swallowing_and_globus/08-fear-and-avoidance-support.md) — When fear or vigilance is restricting eating after safety has been assessed, including after a frightening event. **[Professional consensus; preliminary formulation-based evidence, not a universal exposure protocol]**
+- [Treat coexisting conditions](functional_swallowing_and_globus/09-coexisting-conditions.md) — When dryness, pain, dental, reflux, gastrointestinal, neurological or other problems may be adding to symptoms. **[Coordinated clinical care; treatment follows the identified condition]**
+- [Discuss gut–brain neuromodulator medication for assessed globus](functional_swallowing_and_globus/10-globus-medication-review.md) — Selected people with assessed globus for whom a prescriber judges a medication discussion appropriate. **[Adjacent globus trial evidence; benefit for functional dysphagia is not established]**
+- [Review unnecessary restrictions](functional_swallowing_and_globus/11-reviewing-diet-and-equipment-restrictions.md) — When an existing restriction may no longer be needed, or its burden warrants reassessment. **[Clinical and dysphagia guidance; safety and nutritional review before removal]**
 
 ### [Functional cough and upper-airway symptoms](11-functional-cough-and-upper-airway-symptoms.md)
 
@@ -249,11 +252,13 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 ## Alphabetical technique index
 
 
+**[A Prescriber-Led Medication Discussion for Assessed Globus](functional_swallowing_and_globus/10-globus-medication-review.md)** — Swallowing/globus: Selected people with assessed globus for whom a prescriber judges a medication discussion appropriate. **[Adjacent globus trial evidence; benefit for functional dysphagia is not established]**
+
 **Acceptance and commitment therapy (ACT), FCD-specific online group** — Functional Cognitive Disorder. **E**
 
 **[Advanced Visual Feedback and Non-Invasive Brain Stimulation: Specialist Review](functional_visual_symptoms/09-advanced-feedback-and-brain-stimulation-review.md)** — Functional visual symptoms. A specialist or research team is evaluating an experimental visual-feedback or stimulation approach after discussing uncertainty and alternatives. **[Experimental or early clinical-report evidence; no established self-treatment protocol]**
 
-**Attention redirection or external-focus practice** — Limb weakness; paralysis; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; swallowing; Functional Cognitive Disorder; facial symptoms. **C**
+**Attention redirection or external-focus practice** — Limb weakness; paralysis; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; Functional Cognitive Disorder; facial symptoms. **C**
 
 **Automatic and task-oriented movement retraining** — Limb weakness; paralysis; gait; dystonia. **C**
 
@@ -265,7 +270,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Botulinum toxin discussion after specialist phenotype review](functional_dystonia/11-specialist-botulinum-toxin-review.md)** — Additional specialist treatment review. Selected functional dystonia and functional facial symptoms; routine use is not supported. **[A small functional-dystonia pilot randomized trial found no added benefit over placebo before cognitive behavioural therapy; selected use remains uncertain]**
 
-**Breathing, posture and muscle-relaxation exercises** — Speech/voice; swallowing/globus; cough/upper-airway; tremor; facial symptoms. **C**
+**Breathing, posture and muscle-relaxation exercises** — Speech/voice; cough/upper-airway; tremor; facial symptoms. **C**
 
 **[Brief pattern and context mapping](17-functional-tics-and-tic-like-symptoms.md#pattern-mapping)** — Functional tics: If useful, note a few examples of what happened before, during and after symptoms, including discomfort, urges, surroundings and other people’s responses. Stop if tracking makes life revolve around symptoms; no warning or trigger has to be found. **[Assessment and treatment-planning component; clinical consensus]**
 
@@ -285,6 +290,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Cold or textured sensory grounding at a familiar warning](functional_seizures/04-sensory-grounding-and-attention-anchor.md)** — Functional seizures; a tolerable sensory variant, without isolated efficacy evidence. **[Specialist clinical guidance for grounding; cool-object variants also appear in community reports]**
 
+**[Comfortable Breathing and Supported Positioning for Meals](functional_swallowing_and_globus/02-comfortable-breathing-and-posture.md)** — Swallowing/globus: When assessment identifies bracing, awkward seating or excess effort around a meal. **[Professional consensus and general dysphagia guidance; individual positioning required]**
+
 **[Communication Support When Speech Is Difficult or Unavailable](functional_speech_and_voice_symptoms/09-communication-support-and-aac.md)** — Functional speech and voice symptoms. Speech is unreliable, exhausting or unavailable, and another way to express needs, choices and ordinary conversation is needed. **[Communication-access guidance; aids can be temporary, intermittent or ongoing]**
 
 **Competing movement or absorbing task** — Tremor; jerks. **C**
@@ -302,8 +309,6 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **[Diagnostic Explanation and Continuing Care](functional_seizures/01-diagnostic-explanation-and-continuing-care.md)** — Functional seizures. Ask how the diagnosis was established for each event type and leave with a written explanation, a treatment contact and follow-up. **[Clinical guideline recommendation; explanation alone is not an established seizure-stopping treatment]**
 
 **Diagnostic explanation and education as part of treatment** — All 17 symptom groups. **C**
-
-**Diet-restriction review after swallowing safety assessment** — Functional swallowing and globus. **C**
 
 **[Electrical muscle stimulation, functional electrical stimulation or TENS as an adjunct](functional_dystonia/08-electrical-stimulation-as-an-adjunct.md)** — Weakness, dystonia and sensory symptoms when a qualified clinician identifies a specific sensory, motor or pain goal. **[Emerging and uncertain evidence]**
 
@@ -341,21 +346,17 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Graded community walking and environmental complexity](functional_gait_disorder/11-graded-community-walking-and-environmental-complexity.md)** — Functional gait disorder when clinic gains do not yet transfer to meaningful real-world routes. **[Clinical and occupational-therapy consensus; supported only as part of broader rehabilitation programmes]**
 
-**Graded exposure to avoided tasks or triggers** — Dystonia; sensory symptoms; visual symptoms; swallowing; cough; PPPD; selected functional facial symptoms. **C/E**
+**Graded exposure to avoided tasks or triggers** — Dystonia; sensory symptoms; visual symptoms; cough; PPPD; selected functional facial symptoms. **C/E**
 
 **Graded return to avoided activity with fall support** — Functional drop attacks. **E/C**
 
 **[Graded Return to Clothing, Footwear and Everyday Contact](functional_sensory_symptoms/05-ordinary-contact-and-clothing.md)** — Functional sensory symptoms. A particular necessary contact is avoided or shortened because it is unpleasant, even though a smaller version may be manageable. **[Clinical consensus; use an individualized goal and retain necessary accommodations]**
-
-**Graded return to food textures and volumes** — Functional swallowing symptoms. **C**
 
 **[Graded Sensory Input for Reduced or Altered Sensation](functional_sensory_symptoms/01-graded-sensory-input.md)** — Functional sensory symptoms. Contact feels faint, absent or unfamiliar, and a safe, tolerable input can be paired with a simple task. **[Clinical consensus; the particular practice sequence is an educational adaptation, not a tested standalone treatment]**
 
 **[Graded Visual Tasks Linked to Daily Life](functional_visual_symptoms/04-graded-visual-task-practice.md)** — Functional visual symptoms. An assessed, low-risk visual task is possible and can be adjusted toward a specific reading, locating or everyday goal. **[Clinical rehabilitation adaptation; no established universal exercise dose]**
 
 **[Graded weight-bearing and functional use](functional_dystonia/04-graded-weight-bearing-and-functional-use.md)** — Functional dystonia when a hand or foot avoids contact or can accept some supported load but not yet participate fully in a task. **[Clinical consensus]**
-
-**Gut–brain neuromodulator discussion, prescriber led** — Globus after appropriate assessment; not established for functional dysphagia. **E/adjacent**
 
 **Habituation to head, body and visual motion** — PPPD. **R/C**
 
@@ -368,6 +369,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **[Individualized rehabilitation and relapse planning for functional gait disorder](functional_gait_disorder/13-individualized-rehabilitation-and-relapse-planning.md)** — Functional gait disability requiring selected movement, equipment, participation and coexisting-condition plans. **[Functional-gait-specific and mixed functional-motor programme evidence; no single component is established as the active ingredient]**
 
 **[Individually formulated behavioral or psychological treatment](17-functional-tics-and-tic-like-symptoms.md#individualized-treatment)** — Functional tics: A clinician familiar with both tics and FND can discuss an approach suited to your symptoms and priorities. I-CBiT combines several methods and has early case-series evidence. Its exercises, including exposure and response prevention, need individual assessment and consent; this page is not a home suppression programme. **[Emerging evidence; uncontrolled series of eight young people]**
+
+**[Making Meals More Manageable in Different Settings](functional_swallowing_and_globus/05-meal-setting-and-participation.md)** — Swallowing/globus: When a safe intake is established but pressure, sensory load or unfamiliar settings restrict participation. **[Professional consensus; individualized participation planning]**
 
 **[Making Speech More Comfortable: Breath, Posture and Muscle Release](functional_speech_and_voice_symptoms/07-breath-posture-and-release.md)** — Functional speech and voice symptoms. Assessment finds extra jaw, neck, laryngeal or breathing effort during speech, and a tailored adjustment may reduce strain. **[Professional consensus and adjacent voice guidance; generic deep breathing is not a prescription]**
 
@@ -389,7 +392,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Music, counting or another external rhythm for gait](functional_gait_disorder/05-external-rhythm-and-auditory-cueing.md)** — Gait, tremor and speech/voice; the linked page concerns accessible gait timing cues. **[Clinical consensus; no functional-gait trial isolates auditory cueing]**
 
-**Neck, jaw and laryngeal relaxation** — Swallowing/globus; speech/voice; cough/upper-airway. **C**
+**Neck, jaw and laryngeal relaxation** — speech/voice; cough/upper-airway. **C**
 
 **Neuromodulation or galvanic vestibular stimulation, specialist/research setting** — PPPD. **E**
 
@@ -425,6 +428,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Practising the Conversations You Want to Have](functional_speech_and_voice_symptoms/08-practice-real-conversations.md)** — Functional speech and voice symptoms. A strategy helps in therapy but has not yet become usable in the conversations, calls or everyday exchanges that matter. **[Professional consensus; participation goals and practice demands should be individualized]**
 
+**[Practising With Assessed Food Textures and Amounts](functional_swallowing_and_globus/04-assessed-texture-and-volume-practice.md)** — Swallowing/globus: When the swallowing team has identified a safe starting intake and a reason to practise a specific change. **[Professional consensus and dysphagia safety guidance; no universal texture ladder]**
+
 **[Prescriber-Led Medication Review](functional_seizures/09-prescriber-led-medication-review.md)** — Functional seizures. Clarify the purpose of every regular and rescue medicine and arrange supervised changes only when indicated, including separate treatment for coexisting epilepsy. **[Clinical guideline recommendation; no unsupervised withdrawal]**
 
 **Proportionate fall-hazard and activity review** — Functional drop attacks. **C**
@@ -437,11 +442,15 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Recovery, Cluster and Flare Planning](functional_seizures/12-recovery-cluster-and-flare-planning.md)** — Additional recovery-planning guidance. Functional seizures. Separate the visible event from prolonged recovery or surrounding symptoms and plan safe transfers, communication and reassessment for a changed pattern. **[Individualized clinical care; distinguish familiar recovery from a new medical problem]**
 
-**Reducing repeated checking, reassurance seeking or self-testing** — Swallowing/globus; Functional Cognitive Disorder. **C**
+**[Reducing Extra Jaw, Neck and Throat Effort](functional_swallowing_and_globus/03-jaw-neck-and-laryngeal-release.md)** — Swallowing/globus: When a clinician identifies excess muscle effort or bracing that contributes to discomfort. **[Professional consensus; manual techniques require trained assessment]**
+
+**Reducing repeated checking, reassurance seeking or self-testing** — Functional Cognitive Disorder. **C**
 
 **Relapse and self-management plan** — All 17 symptom groups. **C**
 
 **Responsive rehabilitation dose planning from current capacity** — Functional paralysis. **C**
+
+**[Reviewing Diet and Equipment Restrictions Together](functional_swallowing_and_globus/11-reviewing-diet-and-equipment-restrictions.md)** — Swallowing/globus: When an existing restriction may no longer be needed, or its burden warrants reassessment. **[Clinical and dysphagia guidance; safety and nutritional review before removal]**
 
 **[Rhythmic weight shift progressing into steps](functional_gait_disorder/01-rhythmic-weight-shift-and-step-initiation.md)** — Functional gait disorder and limb weakness when supported loading permits the opposite foot to begin a step. **[Clinical consensus; direct component evidence is limited]**
 
@@ -467,6 +476,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Stairs as a supervised bridge](functional_gait_disorder/08-stairs-as-a-supervised-bridge.md)** — Functional gait disorder only when formal assessment finds a stair step safer or more automatic than level walking. **[Clinical consensus; stairs carry greater mechanical and fall demands]**
 
+**[Stepping Back From Repeated Throat Checking](functional_swallowing_and_globus/06-reducing-test-swallows.md)** — Swallowing/globus: When assessment suggests repeated test swallows or throat checking are adding irritation or symptom focus. **[Professional consensus; applies only to unnecessary checking, not protective swallowing]**
+
 **[Supported positioning and non-forceful release](functional_dystonia/01-supported-positioning-and-non-forceful-release.md)** — Functional dystonia when pain, strong bracing or worsening with passive pulling makes a supported starting position most appropriate. **[Clinical consensus]**
 
 **[Supported Return to Activities](functional_seizures/10-supported-return-to-activities.md)** — Functional seizures. Adapt one valued activity for event unpredictability, fatigue and safety, preserving the aids and help that make participation possible. **[Clinical and occupational-therapy guidance; programme evidence does not establish a fixed activity dose]**
@@ -485,6 +496,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Treadmill and body-weight-supported walking](functional_gait_disorder/09-treadmill-and-body-weight-supported-walking.md)** — Limb weakness and functional gait disorder when equipment supplies a useful stepping condition or required fall protection. **[Clinical consensus; direct device-specific evidence in functional gait disorder is limited]**
 
+**[Treating Other Conditions That Make Swallowing Harder](functional_swallowing_and_globus/09-coexisting-conditions.md)** — Swallowing/globus: When dryness, pain, dental, reflux, gastrointestinal, neurological or other problems may be adding to symptoms. **[Coordinated clinical care; treatment follows the identified condition]**
+
 **[Treatment of Coexisting Eye, Migraine and Neurological Conditions](functional_visual_symptoms/07-coexisting-eye-migraine-and-neurological-care.md)** — Functional visual symptoms. Functional visual symptoms coexist with a treatable eye, headache or neurological problem, or a changed presentation needs reassessment. **[Clinical assessment and condition-specific care; improvement does not identify a single mechanism]**
 
 **Treatment of overlapping fall and event phenotypes** — Functional drop attacks. **C**
@@ -492,6 +505,10 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **Trigger, warning-sign and pattern mapping** — Functional seizures; jerks; cough; mixed episodic symptoms. **C**
 
 **[Understanding the Diagnosis and Finding an Easier Starting Point](functional_speech_and_voice_symptoms/01-understanding-preserved-communication.md)** — Functional speech and voice symptoms. An assessed speech or voice problem needs a clear explanation, and differences between tasks may help the therapist choose where to begin. **[Professional consensus; a useful demonstration does not prove dependable speech in daily life]**
+
+**[Understanding Your Swallowing Assessment and Plan](functional_swallowing_and_globus/01-understanding-the-assessment.md)** — Swallowing/globus: When uncertainty about the diagnosis or safe eating is making every meal feel like a test. **[Professional consensus; diagnostic explanation and continuing care]**
+
+**[Using a Gentle External Focus During Assessed Practice](functional_swallowing_and_globus/07-safe-external-focus.md)** — Swallowing/globus: When a clinician finds that excessive conscious monitoring interferes with an otherwise assessed swallowing task. **[Professional consensus; external focus does not establish airway safety]**
 
 **[Using Rhythm, Singing or Familiar Sequences](functional_speech_and_voice_symptoms/03-rhythm-singing-and-familiar-sequences.md)** — Functional speech and voice symptoms. Speech initiation or fluency changes with a familiar sequence, a gentle rhythm or melody, and that cue is comfortable and useful. **[Professional consensus; evidence from other speech disorders cannot be assumed to apply to FND]**
 
@@ -504,6 +521,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **[Warning and Pattern Mapping](functional_seizures/03-warning-and-pattern-mapping.md)** — Functional seizures. Use a brief, low-burden record to find a usable early cue or recovery need; a trigger or remembered warning may never be identifiable. **[Specialist clinical guidance; no requirement to find a trigger]**
 
 **Warning recognition when a reliable warning exists** — Functional drop attacks. **E**
+
+**[Working With Fear of Choking Without Pressure](functional_swallowing_and_globus/08-fear-and-avoidance-support.md)** — Swallowing/globus: When fear or vigilance is restricting eating after safety has been assessed, including after a frightening event. **[Professional consensus; preliminary formulation-based evidence, not a universal exposure protocol]**
 
 ## Scope and gaps
 

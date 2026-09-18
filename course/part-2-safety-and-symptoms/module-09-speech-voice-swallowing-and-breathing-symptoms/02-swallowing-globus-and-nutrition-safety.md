@@ -109,6 +109,8 @@ When a functional diagnosis is supported, explain the positive findings and offe
 [Research and Sources](#research-and-sources)
 ***
 
+**Recovery reading:** [Eleven detailed swallowing and globus pages](../../../reference/recovery-techniques/functional_swallowing_and_globus/README.md) explain individual selection and safety limits after assessment.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Cough, Breathing, and Upper-Airway Symptoms](03-cough-breathing-and-upper-airway-symptoms.md)
 

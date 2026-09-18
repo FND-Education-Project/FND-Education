@@ -83,6 +83,8 @@ Do not ask a participant to swallow a chosen food, large bolus or difficult text
 [Research and Sources](#research-and-sources)
 ***
 
+**Recovery reading:** [Eleven detailed swallowing and globus pages](../recovery-techniques/functional_swallowing_and_globus/README.md) explain individual selection and safety limits after assessment.
+
 <!-- NAV-CONTEXT:START -->
 **Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/10-functional-swallowing-and-globus.md) · [Functional facial symptoms](14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/02-swallowing-globus-and-nutrition-safety.md)
 
