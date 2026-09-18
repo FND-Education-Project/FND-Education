@@ -670,6 +670,8 @@ No new quotation or community-only technique is added in this expansion. Special
 
 ## Functional swallowing symptoms and globus
 
+**Expansion note — September 18, 2026:** [Eleven detailed pages](functional_swallowing_and_globus/README.md) now map the original list. Existing quotes below retain their diagnostic and outcome limitations; they were not newly verified or promoted into technique evidence. No advice about smaller mouthfuls, extra chewing or distraction should override the assessed swallowing plan.
+
 ### Graded return to food and clinician-taught swallowing strategies
 
 **Reported help — person with symptoms; clinician-guided**

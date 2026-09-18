@@ -12,6 +12,8 @@ The repository contains all 97 course pages: 23 module overviews and 74 focused 
 
 ## Completed foundation work
 
+- Expanded functional swallowing and globus on September 18, 2026: eleven original entries map one-to-one to eleven detailed pages. Corrected the earlier history audit’s count of ten using both original and baseline commits. Added ASHA safety guidance and a six-client expert framework (FND-CIT-0115–0116), with explicit aspiration, nutrition, texture, posture and medication limits. Human and specialist review remains pending.
+
 - Added functional motor and vocal/phonic tics as presentation 17 on September 17, 2026: paired diagnostic and recovery drafts, eight evidence-labelled overview entries (five treatment/formulation/coordinated-care and three supporting-care entries), Module 7 teaching, access and scope links, glossary, navigation and citation records FND-CIT-0110–0114. No detailed technique folder was created; specialist and lived-experience review is pending. Historical sixteen-list counts remain intact.
 
 - Completed a repository-wide [functional tics coverage audit](functional-tics-repository-audit.md) on September 17, 2026. The recommended plan covers motor and vocal/phonic symptoms, diagnostic uncertainty, recovery-evidence limits, scope boundaries, access needs and the distinction between a new seventeenth presentation and the sixteen original recovery lists.

@@ -527,6 +527,24 @@ Use the sections below to drill down into the course, reference library, researc
 </details>
 
 <details>
+<summary><strong>Functional Swallowing and Globus Recovery Pages</strong></summary>
+
+- [Collection overview](reference/recovery-techniques/functional_swallowing_and_globus/README.md)
+- [Understanding Your Swallowing Assessment and Plan](reference/recovery-techniques/functional_swallowing_and_globus/01-understanding-the-assessment.md)
+- [Comfortable Breathing and Supported Positioning for Meals](reference/recovery-techniques/functional_swallowing_and_globus/02-comfortable-breathing-and-posture.md)
+- [Reducing Extra Jaw, Neck and Throat Effort](reference/recovery-techniques/functional_swallowing_and_globus/03-jaw-neck-and-laryngeal-release.md)
+- [Practising With Assessed Food Textures and Amounts](reference/recovery-techniques/functional_swallowing_and_globus/04-assessed-texture-and-volume-practice.md)
+- [Making Meals More Manageable in Different Settings](reference/recovery-techniques/functional_swallowing_and_globus/05-meal-setting-and-participation.md)
+- [Stepping Back From Repeated Throat Checking](reference/recovery-techniques/functional_swallowing_and_globus/06-reducing-test-swallows.md)
+- [Using a Gentle External Focus During Assessed Practice](reference/recovery-techniques/functional_swallowing_and_globus/07-safe-external-focus.md)
+- [Working With Fear of Choking Without Pressure](reference/recovery-techniques/functional_swallowing_and_globus/08-fear-and-avoidance-support.md)
+- [Treating Other Conditions That Make Swallowing Harder](reference/recovery-techniques/functional_swallowing_and_globus/09-coexisting-conditions.md)
+- [A Prescriber-Led Medication Discussion for Assessed Globus](reference/recovery-techniques/functional_swallowing_and_globus/10-globus-medication-review.md)
+- [Reviewing Diet and Equipment Restrictions Together](reference/recovery-techniques/functional_swallowing_and_globus/11-reviewing-diet-and-equipment-restrictions.md)
+
+</details>
+
+<details>
 <summary><strong>Community and Review Working Material</strong></summary>
 
 - [Community Experience Quote Audit for Recovery Techniques](reference/recovery-techniques/community-experience-quotes.md)

@@ -33,6 +33,8 @@ The collection now covers **17 symptom presentations**, including motor and voca
 > [!IMPORTANT]
 > A technique helping or not helping does not confirm or disprove FND. Symptoms involving falls, choking, breathing, injury, vision or seizures may require clinician-guided selection and adaptation.
 
+**[Functional swallowing and globus: eleven detailed pages](functional_swallowing_and_globus/README.md)** — one page per original entry, with assessment, nutrition, airway safety and treatment-evidence limits.
+
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Reference Library](../README.md) · [Reference Index](../reference-index.md) · [Diagnostic Techniques](../diagnostic-signs/README.md)
 
