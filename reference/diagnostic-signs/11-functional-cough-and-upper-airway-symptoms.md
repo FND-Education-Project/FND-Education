@@ -14,11 +14,12 @@
 
 **Scope boundary:** This category does not include generic breathlessness or every chronic cough. Swallow-related coughing belongs in a swallowing and airway-safety assessment, and respiratory, cardiac, allergic, infectious, medication-related and structural causes still require appropriate evaluation.
 
-**Primary technique:** Multidisciplinary history and laryngeal-respiratory assessment across relevant conditions.  
+**Featured technique:** Multidisciplinary history and laryngeal-respiratory assessment across relevant conditions.  
 **Diagnostic method:** Identify a positive symptom pattern while assessing respiratory, laryngeal, medication-related and other causes; there is no single decisive bedside sign.  
 **Media needed:** Speech-pathology or laryngoscopy process demonstration without deliberately provoking symptoms.
 
 ***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
@@ -28,6 +29,42 @@
 
 Throat clearing or cough-like sounds can occur in tic disorders as well as airway conditions. The sound alone cannot identify the cause. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
 
+
+## Diagnostic techniques at a glance
+
+These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
+
+The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
+
+### Tic-cough assessment
+
+The clinician considers suppressibility, distractibility, suggestibility, variability and any preceding urge after appropriate cough assessment. CHEST recommendations use a tic framework, supported by low-quality evidence. These features do not automatically classify every cough as an FND symptom. (*citations* [2](#citation-2))
+
+### Somatic cough syndrome criteria
+
+This formulation requires a comprehensive medical assessment and applicable somatic-symptom criteria. It is distinct from tic cough and cannot be diagnosed merely because tests are normal. The guideline found no validated diagnostic criteria for the older cough labels. (*citations* [2](#citation-2))
+
+### Cough sound and sleep pattern
+
+A barking or honking quality and absence during sleep have been historically emphasized. CHEST advises against using these to diagnose or exclude the syndrome. They are history observations, not reliable positive signs. (*citations* [2](#citation-2))
+
+### Task and attention comparisons
+
+Changes during conversation, breathing or another appropriate activity can characterize the cough. They may inform specialist assessment but lack standalone FND accuracy evidence. Avoid repetitive provocation, especially when discussion itself triggers symptoms. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Laryngoscopy during typical airway symptoms
+
+Visualization can document inducible laryngeal narrowing. Normal examination between episodes may miss it. This supports inducible laryngeal obstruction when the pattern matches; it does not by itself establish a neurological FND diagnosis. (*citations* [3](#citation-3))
+
+### Continuous laryngoscopy during exercise
+
+For exertional symptoms, a specialist may observe the larynx through a monitored exercise challenge. The test addresses exercise-induced laryngeal obstruction, not FND in general. Suitability and safety determine whether provocation is justified. (*citations* [3](#citation-3))
+
+### Respiratory and other differential testing
+
+History, examination and selected investigations assess asthma, infection, reflux, medication effects and other causes. These tests answer specific differential questions; normal results do not positively diagnose functional cough or airway symptoms. (*citations* [2](#citation-2), [3](#citation-3))
+
+***
 
 ## For the Person With FND
 
@@ -112,5 +149,8 @@ Do not use strong odours, smoke, cold air, exercise or emotional provocation to 
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
+
+| <a id="citation-2"></a>**[2]** | Vertigan AE, Murad MH, Pringsheim T, et al. Somatic Cough Syndrome (Previously Referred to as Psychogenic Cough) and Tic Cough (Previously Referred to as Habit Cough) in Adults and Children: CHEST Guideline and Expert Panel Report. *Chest*. 2015;148(1):24-31. [DOI](https://doi.org/10.1378/chest.15-0423). [PMID: 25856777](https://pubmed.ncbi.nlm.nih.gov/25856777/). [FND-CIT-0129](../../research/citation-index.md#fnd-cit-0129). |
+| <a id="citation-3"></a>**[3]** | Haines J, Esposito K, Slinger C, et al. UK consensus statement on the diagnosis of inducible laryngeal obstruction in light of the COVID-19 pandemic. *Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology*. 2020;50(12):1287-1293. [DOI](https://doi.org/10.1111/cea.13745). [PMID: 33034142](https://pubmed.ncbi.nlm.nih.gov/33034142/). [FND-CIT-0147](../../research/citation-index.md#fnd-cit-0147). |
 
 *Technique outline created: August 24, 2026 · Speech-language-pathology, ENT and respiratory review pending*

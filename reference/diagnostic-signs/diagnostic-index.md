@@ -26,6 +26,8 @@ The distinction matters. A single jerk is brief but jerks may occur in prolonged
 
 ## Pages in this collection
 
+Each page has a linked **Diagnostic techniques at a glance** section. These are brief, cited inventories for staged human review, not home-testing instructions. Detailed individual technique pages remain a later, one-at-a-time task. See the [collection review status](README.md) for the current evidence-search limits.
+
 - [Functional limb weakness](01-functional-limb-weakness.md)
 - [Functional tremor](02-functional-tremor.md)
 - [Functional jerks or myoclonus](03-functional-jerks-and-myoclonus.md)

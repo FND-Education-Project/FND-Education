@@ -1033,6 +1033,453 @@ The overview uses FND-CIT-0025, 0042, 0115 and 0116. Each standalone page carrie
 | [A Prescriber-Led Medication Discussion for Assessed Globus](../reference/recovery-techniques/functional_swallowing_and_globus/10-globus-medication-review.md) | FND-CIT-0025; FND-CIT-0115; FND-CIT-0042 |
 | [Reviewing Diet and Equipment Restrictions Together](../reference/recovery-techniques/functional_swallowing_and_globus/11-reviewing-diet-and-equipment-restrictions.md) | FND-CIT-0025; FND-CIT-0115 |
 
+## Diagnostic inventory sources added September 19, 2026
+
+These sources support the brief diagnostic inventories. Original terminology is retained in paper titles only. Page entries state whether evidence is comparative, observational, consensus-based, descriptive or insufficient; a citation is not a declaration that a technique has been independently validated.
+
+## FND-CIT-0117
+
+Lin D, Castro P, Edwards A, et al. Dissociated motor learning and de-adaptation in patients with functional gait disorders. *Brain : a journal of neurology*. 2020;143(8):2594-2606. [DOI](https://doi.org/10.1093/brain/awaa190). [PMID: 32779724](https://pubmed.ncbi.nlm.nih.gov/32779724/).
+
+**Diagnostic use:** [05-functional-gait-disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md).
+
+## FND-CIT-0118
+
+van der Salm SM, Koelman JH, Henneke S, et al. Axial jerks: a clinical spectrum ranging from propriospinal to psychogenic myoclonus. *Journal of neurology*. 2010;257(8):1349-1355. [DOI](https://doi.org/10.1007/s00415-010-5531-6). [PMID: 20352254](https://pubmed.ncbi.nlm.nih.gov/20352254/).
+
+**Diagnostic use:** [03-functional-jerks-and-myoclonus](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md).
+
+## FND-CIT-0119
+
+Bacchi S, Slee M. Physical examination in functional unresponsiveness. *Practical neurology*. 2023;23(1):54-56. [DOI](https://doi.org/10.1136/pn-2022-003494). [PMID: 36717206](https://pubmed.ncbi.nlm.nih.gov/36717206/).
+
+**Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+
+## FND-CIT-0120
+
+Baker JH, Silver JR. Hysterical paraplegia. *Journal of neurology, neurosurgery, and psychiatry*. 1987;50(4):375-382. [DOI](https://doi.org/10.1136/jnnp.50.4.375). [PMID: 3585346](https://pubmed.ncbi.nlm.nih.gov/3585346/).
+
+**Diagnostic use:** [15-functional-paralysis](../reference/diagnostic-signs/15-functional-paralysis.md).
+
+## FND-CIT-0121
+
+Kumru H, Valls-Solé J, Valldeoriola F, et al. Transient arrest of psychogenic tremor induced by contralateral ballistic movements. *Neuroscience letters*. 2004;370(2-3):135-139. [DOI](https://doi.org/10.1016/j.neulet.2004.08.009). [PMID: 15488310](https://pubmed.ncbi.nlm.nih.gov/15488310/).
+
+**Diagnostic use:** [02-functional-tremor](../reference/diagnostic-signs/02-functional-tremor.md).
+
+## FND-CIT-0122
+
+Beudel M, Zutt R, Meppelink AM, et al. Improving neurophysiological biomarkers for functional myoclonic movements. *Parkinsonism & related disorders*. 2018;51:3-8. [DOI](https://doi.org/10.1016/j.parkreldis.2018.03.029). [PMID: 29653908](https://pubmed.ncbi.nlm.nih.gov/29653908/).
+
+**Diagnostic use:** [03-functional-jerks-and-myoclonus](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md).
+
+## FND-CIT-0123
+
+Chen DK, So YT, Fisher RS, Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology. Use of serum prolactin in diagnosing epileptic seizures: report of the Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology. *Neurology*. 2005;65(5):668-675. [DOI](https://doi.org/10.1212/01.wnl.0000178391.96957.d0). [PMID: 16157897](https://pubmed.ncbi.nlm.nih.gov/16157897/).
+
+**Diagnostic use:** [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+
+## FND-CIT-0124
+
+Schwingenschuh P, Katschnig P, Edwards MJ, et al. The blink reflex recovery cycle differs between essential and presumed psychogenic blepharospasm. *Neurology*. 2011;76(7):610-614. [DOI](https://doi.org/10.1212/wnl.0b013e31820c3074). [PMID: 21321334](https://pubmed.ncbi.nlm.nih.gov/21321334/).
+
+**Diagnostic use:** [14-functional-facial-symptoms](../reference/diagnostic-signs/14-functional-facial-symptoms.md).
+
+## FND-CIT-0125
+
+van der Salm SM, Tijssen MA, Koelman JH, van Rootselaar AF. The bereitschaftspotential in jerky movement disorders. *Journal of neurology, neurosurgery, and psychiatry*. 2012;83(12):1162-1167. [DOI](https://doi.org/10.1136/jnnp-2012-303081). [PMID: 22952323](https://pubmed.ncbi.nlm.nih.gov/22952323/).
+
+**Diagnostic use:** [03-functional-jerks-and-myoclonus](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md), [17-functional-tics-and-tic-like-symptoms](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md).
+
+## FND-CIT-0126
+
+Chabrol H, Peresson G, Clanet M. Lack of specificity of the traditional criteria for conversion disorders. *European psychiatry : the journal of the Association of European Psychiatrists*. 1995;10(6):317-319. [DOI](https://doi.org/10.1016/0924-9338%2896%2980314-2). [PMID: 19698360](https://pubmed.ncbi.nlm.nih.gov/19698360/).
+
+**Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [07-functional-sensory-symptoms](../reference/diagnostic-signs/07-functional-sensory-symptoms.md).
+
+## FND-CIT-0127
+
+Okun MS, Rodriguez RL, Foote KD, Fernandez HH. The "chair test" to aid in the diagnosis of psychogenic gait disorders. *The neurologist*. 2007;13(2):87-91. [DOI](https://doi.org/10.1097/01.nrl.0000256358.52613.cc). [PMID: 17351529](https://pubmed.ncbi.nlm.nih.gov/17351529/).
+
+**Diagnostic use:** [05-functional-gait-disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md).
+
+## FND-CIT-0128
+
+Raethjen J, Kopper F, Govindan RB, et al. Two different pathogenetic mechanisms in psychogenic tremor. *Neurology*. 2004;63(5):812-815. [DOI](https://doi.org/10.1212/01.wnl.0000137012.35029.6b). [PMID: 15365128](https://pubmed.ncbi.nlm.nih.gov/15365128/).
+
+**Diagnostic use:** [02-functional-tremor](../reference/diagnostic-signs/02-functional-tremor.md).
+
+## FND-CIT-0129
+
+Vertigan AE, Murad MH, Pringsheim T, et al. Somatic Cough Syndrome (Previously Referred to as Psychogenic Cough) and Tic Cough (Previously Referred to as Habit Cough) in Adults and Children: CHEST Guideline and Expert Panel Report. *Chest*. 2015;148(1):24-31. [DOI](https://doi.org/10.1378/chest.15-0423). [PMID: 25856777](https://pubmed.ncbi.nlm.nih.gov/25856777/).
+
+**Diagnostic use:** [11-functional-cough-and-upper-airway-symptoms](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md).
+
+## FND-CIT-0130
+
+Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of bedside 'positive signs' for functional weakness, sensory and gait disorders in conversion disorder: a pilot study. *Journal of neurology, neurosurgery, and psychiatry*. 2015;86(4):425-430. [DOI](https://doi.org/10.1136/jnnp-2013-307381). [PMID: 24994927](https://pubmed.ncbi.nlm.nih.gov/24994927/).
+
+**Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [05-functional-gait-disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md), [07-functional-sensory-symptoms](../reference/diagnostic-signs/07-functional-sensory-symptoms.md), [15-functional-paralysis](../reference/diagnostic-signs/15-functional-paralysis.md).
+
+## FND-CIT-0131
+
+Daum C, Aybek S. Validity of the "Drift without pronation" sign in conversion disorder. *BMC neurology*. 2013;13:31. [DOI](https://doi.org/10.1186/1471-2377-13-31). [PMID: 23548051](https://pubmed.ncbi.nlm.nih.gov/23548051/).
+
+**Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [15-functional-paralysis](../reference/diagnostic-signs/15-functional-paralysis.md).
+
+## FND-CIT-0132
+
+Gandolfi M, Fiorio M, Geroin C, et al. Dual tasking affects gait performance but not automaticity in functional gait disorders: A new diagnostic biomarker. *Parkinsonism & related disorders*. 2023;108:105291. [DOI](https://doi.org/10.1016/j.parkreldis.2023.105291). [PMID: 36764083](https://pubmed.ncbi.nlm.nih.gov/36764083/).
+
+**Diagnostic use:** [05-functional-gait-disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md).
+
+## FND-CIT-0133
+
+Seneviratne U, Minato E, Paul E. How reliable is ictal duration to differentiate psychogenic nonepileptic seizures from epileptic seizures? *Epilepsy & behavior : E&B*. 2017;66:127-131. [DOI](https://doi.org/10.1016/j.yebeh.2016.10.024). [PMID: 28039841](https://pubmed.ncbi.nlm.nih.gov/28039841/).
+
+**Diagnostic use:** [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+
+## FND-CIT-0134
+
+Lombardi TL, Barton E, Wang J, et al. The elbow flex-ex: a new sign to detect unilateral upper extremity non-organic paresis. *Journal of neurology, neurosurgery, and psychiatry*. 2014;85(2):165-167. [DOI](https://doi.org/10.1136/jnnp-2012-304314). [PMID: 23695497](https://pubmed.ncbi.nlm.nih.gov/23695497/).
+
+**Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [15-functional-paralysis](../reference/diagnostic-signs/15-functional-paralysis.md).
+
+## FND-CIT-0135
+
+McAuley J, Rothwell J. Identification of psychogenic, dystonic, and other organic tremors by a coherence entrainment test. *Movement disorders : official journal of the Movement Disorder Society*. 2004;19(3):253-267. [DOI](https://doi.org/10.1002/mds.10707). [PMID: 15022179](https://pubmed.ncbi.nlm.nih.gov/15022179/).
+
+**Diagnostic use:** [02-functional-tremor](../reference/diagnostic-signs/02-functional-tremor.md).
+
+## FND-CIT-0136
+
+Ercoli T, Defazio G, Geroin C, et al. Sudden Onset, Fixed Dystonia and Acute Peripheral Trauma as Diagnostic Clues for Functional Dystonia. *Movement disorders clinical practice*. 2021;8(7):1107-1111. [DOI](https://doi.org/10.1002/mdc3.13322). [PMID: 34631946](https://pubmed.ncbi.nlm.nih.gov/34631946/).
+
+**Diagnostic use:** [04-functional-dystonia](../reference/diagnostic-signs/04-functional-dystonia.md).
+
+## FND-CIT-0137
+
+Meppelink AM, Little S, Oswal A, et al. Event related desynchronisation predicts functional propriospinal myoclonus. *Parkinsonism & related disorders*. 2016;31:116-118. [DOI](https://doi.org/10.1016/j.parkreldis.2016.07.010). [PMID: 27477621](https://pubmed.ncbi.nlm.nih.gov/27477621/).
+
+**Diagnostic use:** [03-functional-jerks-and-myoclonus](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md).
+
+## FND-CIT-0138
+
+Erro R, Bhatia KP, Edwards MJ, et al. Clinical diagnosis of propriospinal myoclonus is unreliable: an electrophysiologic study. *Movement disorders : official journal of the Movement Disorder Society*. 2013;28(13):1868-1873. [DOI](https://doi.org/10.1002/mds.25627). [PMID: 24105950](https://pubmed.ncbi.nlm.nih.gov/24105950/).
+
+**Diagnostic use:** [03-functional-jerks-and-myoclonus](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md).
+
+## FND-CIT-0139
+
+Chung SS, Gerber P, Kirlin KA. Ictal eye closure is a reliable indicator for psychogenic nonepileptic seizures. *Neurology*. 2006;66(11):1730-1731. [DOI](https://doi.org/10.1212/01.wnl.0000218160.31537.87). [PMID: 16769949](https://pubmed.ncbi.nlm.nih.gov/16769949/).
+
+**Diagnostic use:** [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+
+## FND-CIT-0140
+
+Cabreira V, Alty J, Antic S, et al. Development of a diagnostic checklist to identify functional cognitive disorder versus other neurocognitive disorders. *BMJ neurology open*. 2025;7(1):e000918. [DOI](https://doi.org/10.1136/bmjno-2024-000918). [PMID: 40034653](https://pubmed.ncbi.nlm.nih.gov/40034653/).
+
+**Diagnostic use:** [12-functional-cognitive-disorder](../reference/diagnostic-signs/12-functional-cognitive-disorder.md).
+
+## FND-CIT-0141
+
+Ball HA, Swirski M, Newson M, et al. Differentiating Functional Cognitive Disorder from Early Neurodegeneration: A Clinic-Based Study. *Brain sciences*. 2021;11(6):800. [DOI](https://doi.org/10.3390/brainsci11060800). [PMID: 34204389](https://pubmed.ncbi.nlm.nih.gov/34204389/).
+
+**Diagnostic use:** [12-functional-cognitive-disorder](../reference/diagnostic-signs/12-functional-cognitive-disorder.md).
+
+## FND-CIT-0142
+
+Schrag A, Trimble M, Quinn N, Bhatia K. The syndrome of fixed dystonia: an evaluation of 103 patients. *Brain : a journal of neurology*. 2004;127(Pt 10):2360-2372. [DOI](https://doi.org/10.1093/brain/awh262). [PMID: 15342362](https://pubmed.ncbi.nlm.nih.gov/15342362/).
+
+**Diagnostic use:** [04-functional-dystonia](../reference/diagnostic-signs/04-functional-dystonia.md).
+
+## FND-CIT-0143
+
+Hayes MW, Graham S, Heldorf P, et al. A video review of the diagnosis of psychogenic gait: appendix and commentary. *Movement disorders : official journal of the Movement Disorder Society*. 1999;14(6):914-921. [DOI](https://doi.org/10.1002/1531-8257%28199911%2914:6%3C914::aid-mds1002%3E3.0.co;2-b). [PMID: 10584664](https://pubmed.ncbi.nlm.nih.gov/10584664/).
+
+**Diagnostic use:** [05-functional-gait-disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md).
+
+## FND-CIT-0144
+
+Gates JR, Ramani V, Whalen S, Loewenson R. Ictal characteristics of pseudoseizures. *Archives of neurology*. 1985;42(12):1183-1187. [DOI](https://doi.org/10.1001/archneur.1985.04060110065017). [PMID: 3933461](https://pubmed.ncbi.nlm.nih.gov/3933461/).
+
+**Diagnostic use:** [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+
+## FND-CIT-0145
+
+Laub HN, Dwivedi AK, Revilla FJ, et al. Diagnostic performance of the "Huffing and Puffing" sign in psychogenic (functional) movement disorders. *Movement disorders clinical practice*. 2015;2(1):29-32. [DOI](https://doi.org/10.1002/mdc3.12102). [PMID: 25961068](https://pubmed.ncbi.nlm.nih.gov/25961068/).
+
+**Diagnostic use:** [05-functional-gait-disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md).
+
+## FND-CIT-0146
+
+LaFrance WC, Baker GA, Duncan R, et al. Minimum requirements for the diagnosis of psychogenic nonepileptic seizures: a staged approach: a report from the International League Against Epilepsy Nonepileptic Seizures Task Force. *Epilepsia*. 2013;54(11):2005-2018. [DOI](https://doi.org/10.1111/epi.12356). [PMID: 24111933](https://pubmed.ncbi.nlm.nih.gov/24111933/).
+
+**Diagnostic use:** [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+
+## FND-CIT-0147
+
+Haines J, Esposito K, Slinger C, et al. UK consensus statement on the diagnosis of inducible laryngeal obstruction in light of the COVID-19 pandemic. *Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology*. 2020;50(12):1287-1293. [DOI](https://doi.org/10.1111/cea.13745). [PMID: 33034142](https://pubmed.ncbi.nlm.nih.gov/33034142/).
+
+**Diagnostic use:** [11-functional-cough-and-upper-airway-symptoms](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md).
+
+## FND-CIT-0148
+
+Popkirov S, Grönheit W, Wellmer J. A systematic review of suggestive seizure induction for the diagnosis of psychogenic nonepileptic seizures. *Seizure*. 2015;31:124-132. [DOI](https://doi.org/10.1016/j.seizure.2015.07.016). [PMID: 26362389](https://pubmed.ncbi.nlm.nih.gov/26362389/).
+
+**Diagnostic use:** [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+
+## FND-CIT-0149
+
+Espay AJ, Morgante F, Purzner J, et al. Cortical and spinal abnormalities in psychogenic dystonia. *Annals of neurology*. 2006;59(5):825-834. [DOI](https://doi.org/10.1002/ana.20837). [PMID: 16634038](https://pubmed.ncbi.nlm.nih.gov/16634038/).
+
+**Diagnostic use:** [04-functional-dystonia](../reference/diagnostic-signs/04-functional-dystonia.md).
+
+## FND-CIT-0150
+
+Knutsson E, Mårtensson A. Isokinetic measurements of muscle strength in hysterical paresis. *Electroencephalography and clinical neurophysiology*. 1985;61(5):370-374. [DOI](https://doi.org/10.1016/0013-4694%2885%2991027-2). [PMID: 2412788](https://pubmed.ncbi.nlm.nih.gov/2412788/).
+
+**Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md).
+
+## FND-CIT-0151
+
+van der Veen S, Caviness JN, Dreissen YEM, et al. Myoclonus and other jerky movement disorders. *Clinical neurophysiology practice*. 2022;7:285-316. [DOI](https://doi.org/10.1016/j.cnp.2022.09.003). [PMID: 36324989](https://pubmed.ncbi.nlm.nih.gov/36324989/).
+
+**Diagnostic use:** [03-functional-jerks-and-myoclonus](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md).
+
+## FND-CIT-0152
+
+van der Ploeg RJ, Oosterhuis HJ. The "make/break test" as a diagnostic tool in functional weakness. *Journal of neurology, neurosurgery, and psychiatry*. 1991;54(3):248-251. [DOI](https://doi.org/10.1136/jnnp.54.3.248). [PMID: 2030354](https://pubmed.ncbi.nlm.nih.gov/2030354/).
+
+**Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md).
+
+## FND-CIT-0153
+
+Marcus H, Aldam P, Lennox G, Laing R. Medically unexplained neurological symptoms. *JRSM short reports*. 2010;1(3):25. [DOI](https://doi.org/10.1258/shorts.2010.010035). [PMID: 21103117](https://pubmed.ncbi.nlm.nih.gov/21103117/).
+
+**Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+
+## FND-CIT-0154
+
+Merchant SH, Haubenberger D, Hallett M. Mirror movements or functional tremor masking organic tremor. *Clinical neurophysiology practice*. 2018;3:107-113. [DOI](https://doi.org/10.1016/j.cnp.2018.05.001). [PMID: 30215019](https://pubmed.ncbi.nlm.nih.gov/30215019/).
+
+**Diagnostic use:** [02-functional-tremor](../reference/diagnostic-signs/02-functional-tremor.md).
+
+## FND-CIT-0155
+
+Horn D, Galli S, Berney A, et al. Testing Head Rotation and Flexion Is Useful in Functional Limb Weakness. *Movement disorders clinical practice*. 2017;4(4):597-602. [DOI](https://doi.org/10.1002/mdc3.12492). [PMID: 30363481](https://pubmed.ncbi.nlm.nih.gov/30363481/).
+
+**Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [14-functional-facial-symptoms](../reference/diagnostic-signs/14-functional-facial-symptoms.md).
+
+## FND-CIT-0156
+
+Yagi C, Morita Y, Kitazawa M, et al. A Validated Questionnaire to Assess the Severity of Persistent Postural-Perceptual Dizziness (PPPD): The Niigata PPPD Questionnaire (NPQ). *Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology*. 2019;40(7):e747-e752. [DOI](https://doi.org/10.1097/mao.0000000000002325). [PMID: 31219964](https://pubmed.ncbi.nlm.nih.gov/31219964/).
+
+**Diagnostic use:** [13-persistent-postural-perceptual-dizziness](../reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md).
+
+## FND-CIT-0157
+
+Geyer JD, Payne TA, Drury I. The value of pelvic thrusting in the diagnosis of seizures and pseudoseizures. *Neurology*. 2000;54(1):227-229. [DOI](https://doi.org/10.1212/wnl.54.1.227). [PMID: 10636155](https://pubmed.ncbi.nlm.nih.gov/10636155/).
+
+**Diagnostic use:** [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+
+## FND-CIT-0158
+
+Morgante F, Naro A, Terranova C, et al. Normal sensorimotor plasticity in complex regional pain syndrome with fixed posture of the hand. *Movement disorders : official journal of the Movement Disorder Society*. 2017;32(1):149-157. [DOI](https://doi.org/10.1002/mds.26836). [PMID: 28124436](https://pubmed.ncbi.nlm.nih.gov/28124436/).
+
+**Diagnostic use:** [04-functional-dystonia](../reference/diagnostic-signs/04-functional-dystonia.md).
+
+## FND-CIT-0159
+
+Azar NJ, Tayah TF, Wang L, et al. Postictal breathing pattern distinguishes epileptic from nonepileptic convulsive seizures. *Epilepsia*. 2008;49(1):132-137. [DOI](https://doi.org/10.1111/j.1528-1167.2007.01215.x). [PMID: 17651411](https://pubmed.ncbi.nlm.nih.gov/17651411/).
+
+**Diagnostic use:** [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+
+## FND-CIT-0160
+
+Wolfsegger T, Pischinger B, Topakian R. Objectification of psychogenic postural instability by trunk sway analysis. *Journal of the neurological sciences*. 2013;334(1-2):14-17. [DOI](https://doi.org/10.1016/j.jns.2013.07.006). [PMID: 23932398](https://pubmed.ncbi.nlm.nih.gov/23932398/).
+
+**Diagnostic use:** [05-functional-gait-disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md).
+
+## FND-CIT-0161
+
+Duncan AJ, Peric I, Boston R, Seneviratne U. Predictive semiology of psychogenic non-epileptic seizures in an epilepsy monitoring unit. *Journal of neurology*. 2022;269(4):2172-2178. [DOI](https://doi.org/10.1007/s00415-021-10805-1). [PMID: 34550469](https://pubmed.ncbi.nlm.nih.gov/34550469/).
+
+**Diagnostic use:** [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+
+## FND-CIT-0162
+
+Ziv I, Djaldetti R, Zoldan Y, et al. Diagnosis of "non-organic" limb paresis by a novel objective motor assessment: the quantitative Hoover's test. *Journal of neurology*. 1998;245(12):797-802. [DOI](https://doi.org/10.1007/s004150050289). [PMID: 9840352](https://pubmed.ncbi.nlm.nih.gov/9840352/).
+
+**Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md).
+
+## FND-CIT-0163
+
+Wardrope A, Wong S, McLaughlan J, et al. Peri-ictal responsiveness to the social environment is greater in psychogenic nonepileptic than epileptic seizures. *Epilepsia*. 2020;61(4):758-765. [DOI](https://doi.org/10.1111/epi.16471). [PMID: 32154929](https://pubmed.ncbi.nlm.nih.gov/32154929/).
+
+**Diagnostic use:** [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+
+## FND-CIT-0164
+
+Aziz Q, Fass R, Gyawali CP, et al. Functional Esophageal Disorders. *Gastroenterology*. 2016;:S0016-5085(16)00178-5. [DOI](https://doi.org/10.1053/j.gastro.2016.02.012). [PMID: 27144625](https://pubmed.ncbi.nlm.nih.gov/27144625/).
+
+**Diagnostic use:** [10-functional-swallowing-and-globus](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md).
+
+## FND-CIT-0165
+
+Muthusamy S, Seneviratne U, Ding C, Phan TG. Using Semiology to Classify Epileptic Seizures vs Psychogenic Nonepileptic Seizures: A Meta-analysis. *Neurology. Clinical practice*. 2022;12(3):234-247. [DOI](https://doi.org/10.1212/cpj.0000000000001170). [PMID: 35747545](https://pubmed.ncbi.nlm.nih.gov/35747545/).
+
+**Diagnostic use:** [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+
+## FND-CIT-0166
+
+Yugué I, Shiba K, Ueta T, Iwamoto Y. A new clinical evaluation for hysterical paralysis. *Spine*. 2004;29(17):1910-3; discussion 1913. [DOI](https://doi.org/10.1097/01.brs.0000137055.55350.37). [PMID: 15534415](https://pubmed.ncbi.nlm.nih.gov/15534415/).
+
+**Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [15-functional-paralysis](../reference/diagnostic-signs/15-functional-paralysis.md).
+
+## FND-CIT-0167
+
+De Paola L, Terra VC, Silvado CE, et al. Improving first responders' psychogenic nonepileptic seizures diagnosis accuracy: Development and validation of a 6-item bedside diagnostic tool. *Epilepsy & behavior : E&B*. 2016;54:40-46. [DOI](https://doi.org/10.1016/j.yebeh.2015.10.025). [PMID: 26645799](https://pubmed.ncbi.nlm.nih.gov/26645799/).
+
+**Diagnostic use:** [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+
+## FND-CIT-0168
+
+Tatum WO, Hirsch LJ, Gelfand MA, et al. Assessment of the Predictive Value of Outpatient Smartphone Videos for Diagnosis of Epileptic Seizures. *JAMA neurology*. 2020;77(5):593-600. [DOI](https://doi.org/10.1001/jamaneurol.2019.4785). [PMID: 31961382](https://pubmed.ncbi.nlm.nih.gov/31961382/).
+
+**Diagnostic use:** [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+
+## FND-CIT-0169
+
+Chung DS, Wettroth C, Hallett M, Maurer CW. Functional Speech and Voice Disorders: Case Series and Literature Review. *Movement disorders clinical practice*. 2018;5(3):312-316. [DOI](https://doi.org/10.1002/mdc3.12609). [PMID: 30800702](https://pubmed.ncbi.nlm.nih.gov/30800702/).
+
+**Diagnostic use:** [09-functional-speech-and-voice-symptoms](../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md).
+
+## FND-CIT-0170
+
+Saranza G, Vargas-Mendez D, Lang AE, Chen R. Suggestibility as a valuable criterion for laboratory-supported definite functional movement disorders. *Clinical neurophysiology practice*. 2021;6:103-108. [DOI](https://doi.org/10.1016/j.cnp.2021.03.001). [PMID: 33869904](https://pubmed.ncbi.nlm.nih.gov/33869904/).
+
+**Diagnostic use:** [02-functional-tremor](../reference/diagnostic-signs/02-functional-tremor.md).
+
+## FND-CIT-0171
+
+Morgante F, Tinazzi M, Squintani G, et al. Abnormal tactile temporal discrimination in psychogenic dystonia. *Neurology*. 2011;77(12):1191-1197. [DOI](https://doi.org/10.1212/wnl.0b013e31822f0449). [PMID: 21900627](https://pubmed.ncbi.nlm.nih.gov/21900627/).
+
+**Diagnostic use:** [04-functional-dystonia](../reference/diagnostic-signs/04-functional-dystonia.md).
+
+## FND-CIT-0172
+
+Cavanna AE, Caimi V, Capriolo E, et al. Neurodevelopmental Tics with Co-Morbid Functional Tic-like Behaviors: Diagnostic Challenges of a Complex Tourette Syndrome Phenotype. *Brain sciences*. 2025;15(5):435. [DOI](https://doi.org/10.3390/brainsci15050435). [PMID: 40426606](https://pubmed.ncbi.nlm.nih.gov/40426606/).
+
+**Diagnostic use:** [17-functional-tics-and-tic-like-symptoms](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md).
+
+## FND-CIT-0173
+
+Pringsheim T, Ganos C, McGuire JF, et al. Rapid Onset Functional Tic-Like Behaviors in Young Females During the COVID-19 Pandemic. *Movement disorders : official journal of the Movement Disorder Society*. 2021;36(12):2707-2713. [DOI](https://doi.org/10.1002/mds.28778). [PMID: 34387394](https://pubmed.ncbi.nlm.nih.gov/34387394/).
+
+**Diagnostic use:** [17-functional-tics-and-tic-like-symptoms](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md).
+
+## FND-CIT-0174
+
+Tannemaat MR, van Niekerk J, Reijntjes RH, et al. The semiology of tilt-induced psychogenic pseudosyncope. *Neurology*. 2013;81(8):752-758. [DOI](https://doi.org/10.1212/wnl.0b013e3182a1aa88). [PMID: 23873974](https://pubmed.ncbi.nlm.nih.gov/23873974/).
+
+**Diagnostic use:** [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+
+## FND-CIT-0175
+
+O'Suilleabhain PE, Matsumoto JY. Time-frequency analysis of tremors. *Brain : a journal of neurology*. 1998;121 ( Pt 11):2127-2134. [DOI](https://doi.org/10.1093/brain/121.11.2127). [PMID: 9827772](https://pubmed.ncbi.nlm.nih.gov/9827772/).
+
+**Diagnostic use:** [02-functional-tremor](../reference/diagnostic-signs/02-functional-tremor.md).
+
+## FND-CIT-0176
+
+Deuschl G, Köster B, Lücking CH, Scheidt C. Diagnostic and pathophysiological aspects of psychogenic tremors. *Movement disorders : official journal of the Movement Disorder Society*. 1998;13(2):294-302. [DOI](https://doi.org/10.1002/mds.870130216). [PMID: 9539344](https://pubmed.ncbi.nlm.nih.gov/9539344/).
+
+**Diagnostic use:** [02-functional-tremor](../reference/diagnostic-signs/02-functional-tremor.md).
+
+## FND-CIT-0177
+
+Schwingenschuh P, Katschnig P, Seiler S, et al. Moving toward "laboratory-supported" criteria for psychogenic tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2011;26(14):2509-2515. [DOI](https://doi.org/10.1002/mds.23922). [PMID: 21956485](https://pubmed.ncbi.nlm.nih.gov/21956485/).
+
+**Diagnostic use:** [02-functional-tremor](../reference/diagnostic-signs/02-functional-tremor.md).
+
+## FND-CIT-0178
+
+Schwingenschuh P, Saifee TA, Katschnig-Winter P, et al. Validation of "laboratory-supported" criteria for functional (psychogenic) tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2016;31(4):555-562. [DOI](https://doi.org/10.1002/mds.26525). [PMID: 26879346](https://pubmed.ncbi.nlm.nih.gov/26879346/).
+
+**Diagnostic use:** [02-functional-tremor](../reference/diagnostic-signs/02-functional-tremor.md).
+
+## FND-CIT-0179
+
+Raviskanthan S, Wendt S, Ugoh PM, et al. Functional vision disorders in adults: a paradigm and nomenclature shift for ophthalmology. *Survey of ophthalmology*. 2022;67(1):8-18. [DOI](https://doi.org/10.1016/j.survophthal.2021.03.002). [PMID: 33737039](https://pubmed.ncbi.nlm.nih.gov/33737039/).
+
+**Diagnostic use:** [08-functional-visual-symptoms](../reference/diagnostic-signs/08-functional-visual-symptoms.md).
+
+## FND-CIT-0180
+
+Scott JA, Egan RA. Prevalence of organic neuro-ophthalmologic disease in patients with functional visual loss. *American journal of ophthalmology*. 2003;135(5):670-675. [DOI](https://doi.org/10.1016/s0002-9394%2802%2902254-7). [PMID: 12719075](https://pubmed.ncbi.nlm.nih.gov/12719075/).
+
+**Diagnostic use:** [08-functional-visual-symptoms](../reference/diagnostic-signs/08-functional-visual-symptoms.md).
+
+## FND-CIT-0181
+
+Lagrand TJ, Brusse-Keizer M, Charmley A, et al. A Critical Appraisal of the Whack-a-Mole and Swivel Chair Signs in the Diagnosis of Functional Movement Disorders. *Movement disorders clinical practice*. 2024;11(1):63-68. [DOI](https://doi.org/10.1002/mdc3.13895). [PMID: 38291841](https://pubmed.ncbi.nlm.nih.gov/38291841/).
+
+**Diagnostic use:** [02-functional-tremor](../reference/diagnostic-signs/02-functional-tremor.md), [05-functional-gait-disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md).
+
+## FND-CIT-0182
+
+Kramer G, Van der Stouwe AMM, Maurits NM, et al. Wavelet coherence analysis: A new approach to distinguish organic and functional tremor types. *Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology*. 2018;129(1):13-20. [DOI](https://doi.org/10.1016/j.clinph.2017.10.002). [PMID: 29136548](https://pubmed.ncbi.nlm.nih.gov/29136548/).
+
+**Diagnostic use:** [02-functional-tremor](../reference/diagnostic-signs/02-functional-tremor.md).
+
+## FND-CIT-0183
+
+Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functional motor weakness: a review of validated techniques. *Journal of neurology*. 2025;272(6):427. [DOI](https://doi.org/10.1007/s00415-025-13139-4). [PMID: 40423819](https://pubmed.ncbi.nlm.nih.gov/40423819/).
+
+**Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md).
+
+## FND-CIT-0184
+
+Walczak TS, Bogolioubov A. Weeping during psychogenic nonepileptic seizures. *Epilepsia*. 1996;37(2):208-210. [DOI](https://doi.org/10.1111/j.1528-1157.1996.tb00013.x). [PMID: 8635432](https://pubmed.ncbi.nlm.nih.gov/8635432/).
+
+**Diagnostic use:** [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+
+## FND-CIT-0185
+
+Sonoo M. Paradoxical wrist flexion: A new test to detect functional weakness of the upper limb. *eNeurologicalSci*. 2021;22:100302. [DOI](https://doi.org/10.1016/j.ensci.2020.100302). [PMID: 33344786](https://pubmed.ncbi.nlm.nih.gov/33344786/).
+
+**Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [15-functional-paralysis](../reference/diagnostic-signs/15-functional-paralysis.md).
+
+## FND-CIT-0186
+
+Zutt R, Elting JW, van der Hoeven JH, et al. Myoclonus subtypes in tertiary referral center. Cortical myoclonus and functional jerks are common. *Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology*. 2017;128(1):253-259. [DOI](https://doi.org/10.1016/j.clinph.2016.10.093). [PMID: 27940047](https://pubmed.ncbi.nlm.nih.gov/27940047/).
+
+**Diagnostic use:** [03-functional-jerks-and-myoclonus](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md).
+
+## Existing sources used in the diagnostic inventories
+
+- [FND-CIT-0010](#fnd-cit-0010): [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+- [FND-CIT-0058](#fnd-cit-0058): [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [15-functional-paralysis](../reference/diagnostic-signs/15-functional-paralysis.md).
+- [FND-CIT-0115](#fnd-cit-0115): [10-functional-swallowing-and-globus](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md).
+- [FND-CIT-0059](#fnd-cit-0059): [16-functional-drop-attacks](../reference/diagnostic-signs/16-functional-drop-attacks.md).
+- [FND-CIT-0021](#fnd-cit-0021): [04-functional-dystonia](../reference/diagnostic-signs/04-functional-dystonia.md).
+- [FND-CIT-0052](#fnd-cit-0052): [14-functional-facial-symptoms](../reference/diagnostic-signs/14-functional-facial-symptoms.md).
+- [FND-CIT-0071](#fnd-cit-0071): [12-functional-cognitive-disorder](../reference/diagnostic-signs/12-functional-cognitive-disorder.md).
+- [FND-CIT-0026](#fnd-cit-0026): [12-functional-cognitive-disorder](../reference/diagnostic-signs/12-functional-cognitive-disorder.md).
+- [FND-CIT-0057](#fnd-cit-0057): [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [15-functional-paralysis](../reference/diagnostic-signs/15-functional-paralysis.md).
+- [FND-CIT-0020](#fnd-cit-0020): [05-functional-gait-disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md).
+- [FND-CIT-0018](#fnd-cit-0018): [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [15-functional-paralysis](../reference/diagnostic-signs/15-functional-paralysis.md).
+- [FND-CIT-0053](#fnd-cit-0053): [14-functional-facial-symptoms](../reference/diagnostic-signs/14-functional-facial-symptoms.md).
+- [FND-CIT-0022](#fnd-cit-0022): [03-functional-jerks-and-myoclonus](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md), [04-functional-dystonia](../reference/diagnostic-signs/04-functional-dystonia.md), [07-functional-sensory-symptoms](../reference/diagnostic-signs/07-functional-sensory-symptoms.md), [15-functional-paralysis](../reference/diagnostic-signs/15-functional-paralysis.md), [17-functional-tics-and-tic-like-symptoms](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md).
+- [FND-CIT-0027](#fnd-cit-0027): [13-persistent-postural-perceptual-dizziness](../reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md).
+- [FND-CIT-0023](#fnd-cit-0023): [07-functional-sensory-symptoms](../reference/diagnostic-signs/07-functional-sensory-symptoms.md).
+- [FND-CIT-0025](#fnd-cit-0025): [09-functional-speech-and-voice-symptoms](../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md), [10-functional-swallowing-and-globus](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md), [11-functional-cough-and-upper-airway-symptoms](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md).
+- [FND-CIT-0047](#fnd-cit-0047): [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [15-functional-paralysis](../reference/diagnostic-signs/15-functional-paralysis.md).
+- [FND-CIT-0111](#fnd-cit-0111): [17-functional-tics-and-tic-like-symptoms](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md).
+- [FND-CIT-0112](#fnd-cit-0112): [17-functional-tics-and-tic-like-symptoms](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md).
+- [FND-CIT-0024](#fnd-cit-0024): [08-functional-visual-symptoms](../reference/diagnostic-signs/08-functional-visual-symptoms.md).
+
 # How Course Pages Should Use the Index
 
 1. Assign a source one permanent ID and never renumber it.
