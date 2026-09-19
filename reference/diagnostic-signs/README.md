@@ -10,6 +10,10 @@ These pages explain positive signs and criteria that qualified clinicians may us
 
 The collection now covers **17 symptom presentations**, including motor and vocal/phonic functional tic-like symptoms.
 
+Each symptom page now includes a **Diagnostic techniques at a glance** inventory: brief descriptions with source citations, evidence limitations and safety boundaries. These inventories include positive signs, descriptive observations, formal criteria and differential investigations; they are not 170 independently validated tests.
+
+**Staged review:** The September 19, 2026 inventory contains 170 entries across the 17 pages. It is a broad starting inventory, not a completed systematic review of every technique and every replication. Primary studies are cited where identified; some entries rely on specialist descriptions or consensus guidance because standalone validation has not been established. Expand and review individual technique pages one at a time, checking original full texts, later replications, conflicting findings and additional techniques before describing their evidence trail as complete.
+
 ## In this folder
 
 - **[Functional Tics and Tic-Like Symptoms](17-functional-tics-and-tic-like-symptoms.md)** — motor and vocal symptoms, assessment limits and individualized care.

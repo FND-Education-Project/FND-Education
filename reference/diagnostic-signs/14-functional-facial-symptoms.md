@@ -14,11 +14,12 @@
 
 **Scope boundary:** This category may overlap dystonia, limb weakness, speech or swallowing, but its diagnostic and recovery techniques must follow the actual facial mechanism—overactive pulling, weakness, eye closure, mouth control or another assessed pattern. Limb-only symptoms use the [partial-weakness](01-functional-limb-weakness.md) or [paralysis](15-functional-paralysis.md) page.
 
-**Primary technique:** Specialist history and examination of facial movement, muscle activation and weakness.  
+**Featured technique:** Specialist history and examination of facial movement, muscle activation and weakness.  
 **Diagnostic method:** Identify a positive functional facial pattern in the wider neurological examination while assessing stroke, facial-nerve disease, hemifacial spasm, non-functional dystonia and other alternatives.  
 **Media needed:** A consented, captioned still-image sequence or continuous examination clip showing the observed muscles and change without presenting one facial appearance as diagnostic.
 
 ***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
@@ -29,6 +30,42 @@
 
 Facial tic-like movements need their own assessment. A facial location does not make a tic equivalent to dystonia, weakness or spasm. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
 
+
+## Diagnostic techniques at a glance
+
+These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
+
+The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
+
+### Lower-lip pulling with jaw deviation
+
+The clinician observes sustained unilateral lip pulling, often with jaw movement and neck-muscle activation. A multicentre series describes this functional phenotype, but a characteristic appearance is not a standalone validated test. Facial weakness and other dystonias require assessment. (*citations* [1](#citation-1))
+
+### Platysma overactivity
+
+Visible activation of the superficial neck muscle can accompany functional facial pulling. This is a descriptive pattern distinct from reduced platysma activation in weakness testing. Neither finding should be interpreted without the corresponding facial and limb examination. (*citations* [1](#citation-1), [6](#citation-6))
+
+### Task inconsistency and distractibility
+
+Facial movement is compared during conversation, expression and other comfortable tasks. A clear inconsistency can support the diagnosis; fluctuation alone cannot. The published evidence is mainly observational rather than a validated universal facial test battery. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Jaw, tongue and stomatognathic assessment
+
+Specialist examination characterizes mouth, jaw and tongue movements and their task dependence. A clinical cohort proposed a structured approach, but its selected sample limits generalisation. Dental, medication-related and neurological causes remain relevant. (*citations* [2](#citation-2))
+
+### Hemifacial-spasm comparison
+
+The clinician compares the distribution and timing of eyelid and lower-face movements, including eyebrow behaviour where useful. Functional mimics are described, but unusual facial movement alone is insufficient; neurological assessment and selected testing address genuine hemifacial spasm. (*citations* [1](#citation-1))
+
+### Blink-reflex recovery cycle
+
+A small comparative study examined an electrophysiological difference between essential and presumed functional blepharospasm. It is a specialist adjunct with limited validation, not a routine diagnostic test for all facial FND. (*citations* [7](#citation-7))
+
+### Facial strength, reflexes and targeted investigations
+
+Testing facial power and associated neurological findings helps distinguish weakness from overactivity and identify other causes. Imaging or neurophysiology may be appropriate. Normal tests alone do not establish functional facial symptoms. (*citations* [1](#citation-1), [6](#citation-6))
+
+***
 
 ## For the Person With FND
 
@@ -138,5 +175,8 @@ The caption must say that one image cannot distinguish stroke, facial-nerve weak
 | <a id="citation-3"></a>**[3]** | Popkirov S, Stone J, Buchan AM. Functional neurological disorder: a common and treatable stroke mimic. *Stroke*. 2020;51(5):1629–1635. [FND-CIT-0054](../../research/citation-index.md#fnd-cit-0054). [https://doi.org/10.1161/STROKEAHA.120.029076](https://doi.org/10.1161/STROKEAHA.120.029076) |
 | <a id="citation-4"></a>**[4]** | Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [FND-CIT-0021](../../research/citation-index.md#fnd-cit-0021). [https://doi.org/10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262) |
 | <a id="citation-5"></a>**[5]** | Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed September 1, 2026. [FND-CIT-0056](../../research/citation-index.md#fnd-cit-0056). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/) |
+
+| <a id="citation-6"></a>**[6]** | Horn D, Galli S, Berney A, et al. Testing Head Rotation and Flexion Is Useful in Functional Limb Weakness. *Movement disorders clinical practice*. 2017;4(4):597-602. [DOI](https://doi.org/10.1002/mdc3.12492). [PMID: 30363481](https://pubmed.ncbi.nlm.nih.gov/30363481/). [FND-CIT-0155](../../research/citation-index.md#fnd-cit-0155). |
+| <a id="citation-7"></a>**[7]** | Schwingenschuh P, Katschnig P, Edwards MJ, et al. The blink reflex recovery cycle differs between essential and presumed psychogenic blepharospasm. *Neurology*. 2011;76(7):610-614. [DOI](https://doi.org/10.1212/wnl.0b013e31820c3074). [PMID: 21321334](https://pubmed.ncbi.nlm.nih.gov/21321334/). [FND-CIT-0124](../../research/citation-index.md#fnd-cit-0124). |
 
 *Evidence search current to September 1, 2026 · Movement-disorders, stroke, speech-language and lived-experience review pending*

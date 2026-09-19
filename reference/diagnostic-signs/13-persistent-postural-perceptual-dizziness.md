@@ -14,16 +14,57 @@
 
 **Scope boundary:** PPPD is persistent by diagnostic definition—present on most days for at least three months—although severity can fluctuate. This page does not cover every brief dizzy spell, faint, balance problem or sudden fall; those appearances need their own differential assessment.
 
-**Primary technique:** Criteria-based clinical interview with appropriate vestibular and medical assessment.  
+**Featured technique:** Criteria-based clinical interview with appropriate vestibular and medical assessment.  
 **Diagnostic method:** Confirm all five Bárány Society PPPD criteria; there is no single bedside manoeuvre or scan that establishes the diagnosis.  
 **Media needed:** A static criteria diagram. Moving visual patterns are not preferred because they may worsen symptoms.
 
 ***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
 [For the Person With FND](#for-the-person-with-fnd)  
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+## Diagnostic techniques at a glance
+
+These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
+
+The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
+
+### Criterion A: persistent dizziness pattern
+
+The history establishes dizziness, unsteadiness or non-spinning vertigo on most days for at least three months. Symptoms typically last hours and may fluctuate. This is a required part of Bárány consensus criteria, not a standalone test. (*citations* [1](#citation-1))
+
+### Criterion B: three exacerbating factors
+
+Symptoms are worsened by upright posture, active or passive movement, and moving or visually complex surroundings. The clinician establishes all three domains from history; deliberate symptom provocation is unnecessary. Other vestibular conditions can share individual features. (*citations* [1](#citation-1))
+
+### Criterion C: precipitating condition
+
+The clinician establishes onset following a condition producing dizziness, imbalance or distress, such as an acute or chronic vestibular disorder. The course may consolidate as the precipitant changes. This requirement does not mean a psychological trigger must be present. (*citations* [1](#citation-1))
+
+### Criterion D: meaningful impact
+
+Symptoms must cause significant distress or functional impairment. The assessment records effects on daily life rather than requiring a particular severity score. Disability establishes impact, not the cause by itself. (*citations* [1](#citation-1))
+
+### Criterion E: no better explanation
+
+The full pattern must not be better accounted for by another disorder. Other conditions may coexist with PPPD. This differential requirement sits alongside positive symptom criteria; normal tests alone do not establish the syndrome. (*citations* [1](#citation-1))
+
+### Vestibular and positional examinations
+
+Head-impulse, nystagmus, positional and other indicated vestibular assessments investigate coexisting or alternative causes. There is no pathognomonic examination or laboratory test for PPPD. An abnormal vestibular test does not automatically exclude it. (*citations* [1](#citation-1))
+
+### Orthostatic and neurological assessment
+
+Where indicated, standing blood pressure, heart rate and neurological examination help distinguish cardiovascular or neurological causes of dizziness. These are differential investigations, not positive PPPD tests. (*citations* [1](#citation-1))
+
+### Symptom questionnaires
+
+Scales can characterize exacerbating situations and severity. The Niigata PPPD Questionnaire has validation research, but a questionnaire score supplements rather than replaces the full consensus criteria and differential assessment. (*citations* [1](#citation-1), [2](#citation-2))
+
+***
+
 ## For the Person With FND
 
 Persistent postural-perceptual dizziness (PPPD) is a specific diagnosis. This page does not apply its criteria to every kind of dizziness. The symptoms may be described as dizziness, unsteadiness or non-spinning vertigo and are often worse when upright, moving or looking at busy visual scenes.
@@ -108,5 +149,7 @@ Add a separate note that all five criteria are required and that testing is sele
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [FND-CIT-0027](../../research/citation-index.md#fnd-cit-0027). [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622) |
+
+| <a id="citation-2"></a>**[2]** | Yagi C, Morita Y, Kitazawa M, et al. A Validated Questionnaire to Assess the Severity of Persistent Postural-Perceptual Dizziness (PPPD): The Niigata PPPD Questionnaire (NPQ). *Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology*. 2019;40(7):e747-e752. [DOI](https://doi.org/10.1097/mao.0000000000002325). [PMID: 31219964](https://pubmed.ncbi.nlm.nih.gov/31219964/). [FND-CIT-0156](../../research/citation-index.md#fnd-cit-0156). |
 
 *Technique outline created: August 24, 2026 · Vestibular-neurology and physiotherapy review pending*
