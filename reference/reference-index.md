@@ -56,6 +56,8 @@ Please follow the project’s [repository change and page maintenance policy](..
 
 *Reference library reviewed: September 14, 2026 · Functional tremor, functional jerks, functional dystonia and functional gait detailed recovery pages added · Clinical, lived-experience and accessibility review pending*
 
+**[Functional cough and upper-airway symptoms: ten detailed recovery pages](recovery-techniques/functional_cough_and_upper_airway_symptoms/README.md)** — all ten original entries expanded one-to-one, plus a collection overview. Assessed cough responses, breathing coordination, everyday care and coexisting conditions; professional-consensus evidence with diagnostic and airway-safety boundaries. Added September 20, 2026; human review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Browse:** [Reference Library](README.md) · [Diagnostic Techniques](diagnostic-signs/README.md) · [Recovery Techniques](recovery-techniques/README.md)
 

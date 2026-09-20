@@ -1228,6 +1228,10 @@ Before adding or replacing a quotation, confirm all of the following:
 
 See the [recovery overview](17-functional-tics-and-tic-like-symptoms.md). These gaps should not be filled with invented quotes or private-group material.
 
+### Cough collection expansion: September 20, 2026
+
+The [ten detailed pages](functional_cough_and_upper_airway_symptoms/README.md) add no community quotations or community-only techniques. Everyday examples are explicitly illustrative. Existing reports do not establish diagnosis or efficacy, and reports about chronic cough or ILO must not be relabelled as FND experiences. A broader lived-experience review remains pending.
+
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

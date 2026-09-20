@@ -638,6 +638,20 @@ Use the sections below to drill down into the course, reference library, researc
 
 </details>
 
+## Functional cough and upper-airway recovery collection
+
+- [Collection overview](reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/README.md)
+- [Noticing the Earliest Cough Urge](reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/01-noticing-the-earliest-urge.md)
+- [Using a Sip and Swallow When It Is Safe](reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/02-sip-and-swallow.md)
+- [Choosing One Comfortable Cough Substitute](reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/03-clinician-selected-substitute.md)
+- [Finding a Less Effortful Breathing Pattern](reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/04-relaxed-throat-breathing.md)
+- [Coordinating Gentle Lower-Rib Breathing](reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/05-lower-rib-coordination.md)
+- [Easing Repeated Throat Clearing](reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/06-reducing-throat-clearing.md)
+- [Returning to Activities With Graded Trigger Practice](reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/07-graded-trigger-practice.md)
+- [Making Daily Life Kinder to Your Throat](reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/08-hydration-and-laryngeal-care.md)
+- [Working With Attention, Worry and the Cough Urge](reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/09-attention-and-arousal-support.md)
+- [Keeping Other Causes and Conditions in the Care Plan](reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/10-treating-coexisting-conditions.md)
+
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](README.md) · [Course](course/README.md) · [Reference Library](reference/README.md) · [Site Map](SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

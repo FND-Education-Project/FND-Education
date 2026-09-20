@@ -181,14 +181,16 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 ### [Functional cough and upper-airway symptoms](11-functional-cough-and-upper-airway-symptoms.md)
 
-- **C** cough-urge awareness followed by a competing response
-- **C** sip-and-swallow, nasal sniff or another clinician-selected cough substitute
-- **C** relaxed-throat or lower-rib breathing retraining
-- **C** reducing habitual throat clearing with a safer substitute
-- **C** graded exposure to identified triggers
-- **C** hydration and individualized voice/laryngeal care
-- **C** treatment of asthma, reflux, allergy or other coexisting conditions
-- **C** CBT-informed attention and arousal strategies when relevant
+- **[Noticing the Earliest Cough Urge](functional_cough_and_upper_airway_symptoms/01-noticing-the-earliest-urge.md)** — Notice the first tickle, tightness, breath change, situation or throat-clear urge before the full cough begins. Track briefly enough to find an intervention point, not to monitor the throat all day. **[Professional consensus; individual assessment required]**
+- **[Using a Sip and Swallow When It Is Safe](functional_cough_and_upper_airway_symptoms/02-sip-and-swallow.md)** — For some assessed patterns, take a small sip and complete one comfortable swallow instead of coughing or clearing repeatedly. Do not use this when swallowing safety is uncertain or when the person is choking. **[Professional consensus; individual assessment required]**
+- **[Choosing One Comfortable Cough Substitute](functional_cough_and_upper_airway_symptoms/03-clinician-selected-substitute.md)** — A small nasal sniff, dry swallow, pursed-lip exhale or another specific response may interrupt the urge. Selection depends on the person’s respiratory, laryngeal and swallowing assessment. **[Professional consensus; individual assessment required]**
+- **[Finding a Less Effortful Breathing Pattern](functional_cough_and_upper_airway_symptoms/04-relaxed-throat-breathing.md)** — Release the jaw and shoulders and use quiet, efficient breathing taught by the clinician. Avoid repeated huge inhalations, which may worsen light-headedness or some breathing patterns. **[Professional consensus; individual assessment required]**
+- **[Coordinating Gentle Lower-Rib Breathing](functional_cough_and_upper_airway_symptoms/05-lower-rib-coordination.md)** — When indicated, practise gentle lower-rib movement and unforced exhalation at rest before applying it around triggers. The goal is coordinated breathing, not maximal breath depth. **[Professional consensus; individual assessment required]**
+- **[Easing Repeated Throat Clearing](functional_cough_and_upper_airway_symptoms/06-reducing-throat-clearing.md)** — Substitute one sip, swallow or gentle breath when safe, and address dryness or irritation. Repeated throat clearing can itself maintain irritation, but a new airway warning should never be suppressed without assessment. **[Professional consensus; individual assessment required]**
+- **[Returning to Activities With Graded Trigger Practice](functional_cough_and_upper_airway_symptoms/07-graded-trigger-practice.md)** — After medical causes and safety are reviewed, practise the selected response with a mild version of a familiar trigger, then progress slowly toward real situations. Do not provoke severe respiratory symptoms at home. **[Professional consensus; individual assessment required]**
+- **[Making Daily Life Kinder to Your Throat](functional_cough_and_upper_airway_symptoms/08-hydration-and-laryngeal-care.md)** — Follow individualized advice about fluids, humidity, voice use and irritants. Generic rules may not suit fluid restrictions, reflux or occupational exposure. **[Professional consensus; individual assessment required]**
+- **[Working With Attention, Worry and the Cough Urge](functional_cough_and_upper_airway_symptoms/09-attention-and-arousal-support.md)** — Where threat, vigilance or stress amplifies the urge, treatment may include attention shifting, paced exposure or psychological care. This does not imply that the cough is fabricated. **[Professional consensus; individual assessment required]**
+- **[Keeping Other Causes and Conditions in the Care Plan](functional_cough_and_upper_airway_symptoms/10-treating-coexisting-conditions.md)** — Asthma, eosinophilic disease, reflux, rhinitis, infection, medication effects and structural or neurological laryngeal problems need appropriate treatment. **[Professional consensus; individual assessment required]**
 
 ### [Functional Cognitive Disorder](12-functional-cognitive-disorder.md)
 
@@ -270,13 +272,15 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Botulinum toxin discussion after specialist phenotype review](functional_dystonia/11-specialist-botulinum-toxin-review.md)** — Additional specialist treatment review. Selected functional dystonia and functional facial symptoms; routine use is not supported. **[A small functional-dystonia pilot randomized trial found no added benefit over placebo before cognitive behavioural therapy; selected use remains uncertain]**
 
-**Breathing, posture and muscle-relaxation exercises** — Speech/voice; cough/upper-airway; tremor; facial symptoms. **C**
+**Breathing, posture and muscle-relaxation exercises** — Speech/voice; tremor; facial symptoms. **C**
 
 **[Brief pattern and context mapping](17-functional-tics-and-tic-like-symptoms.md#pattern-mapping)** — Functional tics: If useful, note a few examples of what happened before, during and after symptoms, including discomfort, urges, surroundings and other people’s responses. Stop if tracking makes life revolve around symptoms; no warning or trigger has to be found. **[Assessment and treatment-planning component; clinical consensus]**
 
 **[Building an Easier Sound Into Words and Conversation](functional_speech_and_voice_symptoms/04-building-sound-into-speech.md)** — Functional speech and voice symptoms. A sound, syllable or word is available with less effort, but carrying it into longer speech remains difficult. **[Professional consensus; the progression must follow the person’s response]**
 
 **CBT- or metacognition-informed digital self-help** — Functional Cognitive Disorder. **E**
+
+**[Choosing One Comfortable Cough Substitute](functional_cough_and_upper_airway_symptoms/03-clinician-selected-substitute.md)** — A small nasal sniff, dry swallow, pursed-lip exhale or another specific response may interrupt the urge. Selection depends on the person’s respiratory, laryngeal and swallowing assessment. **[Professional consensus; individual assessment required]**
 
 **[Clinician-Taught Breathing Control](functional_seizures/07-clinician-taught-breathing-control.md)** — Functional seizures. Seek respiratory assessment and comfortable, supervised practice when breathing patterns may be relevant; do not improvise breath-holding or deep-breathing drills. **[Emerging evidence; a published randomized-trial protocol is not an efficacy result]**
 
@@ -300,7 +304,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **Coordinated multidisciplinary care for severe motor loss** — Functional paralysis. **C**
 
-**Cough substitute: sip-and-swallow, nasal sniff or selected competing response** — Functional cough and upper-airway symptoms. **C**
+**[Coordinating Gentle Lower-Rib Breathing](functional_cough_and_upper_airway_symptoms/05-lower-rib-coordination.md)** — When indicated, practise gentle lower-rib movement and unforced exhalation at rest before applying it around triggers. The goal is coordinated breathing, not maximal breath depth. **[Professional consensus; individual assessment required]**
 
 **[Desensitization for Painful Touch and Hypersensitivity](functional_sensory_symptoms/02-desensitization-for-painful-touch.md)** — Functional sensory symptoms. Clothing, washing or another normally non-painful contact hurts or overwhelms the person after relevant causes have been assessed. **[Clinical consensus; direct evidence for an isolated FND desensitization protocol is limited]**
 
@@ -309,6 +313,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **[Diagnostic Explanation and Continuing Care](functional_seizures/01-diagnostic-explanation-and-continuing-care.md)** — Functional seizures. Ask how the diagnosis was established for each event type and leave with a written explanation, a treatment contact and follow-up. **[Clinical guideline recommendation; explanation alone is not an established seizure-stopping treatment]**
 
 **Diagnostic explanation and education as part of treatment** — All 17 symptom groups. **C**
+
+**[Easing Repeated Throat Clearing](functional_cough_and_upper_airway_symptoms/06-reducing-throat-clearing.md)** — Substitute one sip, swallow or gentle breath when safe, and address dryness or irritation. Repeated throat clearing can itself maintain irritation, but a new airway warning should never be suppressed without assessment. **[Professional consensus; individual assessment required]**
 
 **[Electrical muscle stimulation, functional electrical stimulation or TENS as an adjunct](functional_dystonia/08-electrical-stimulation-as-an-adjunct.md)** — Weakness, dystonia and sensory symptoms when a qualified clinician identifies a specific sensory, motor or pain goal. **[Emerging and uncertain evidence]**
 
@@ -334,6 +340,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Finding a Helpful Speech Rate and Pattern](functional_speech_and_voice_symptoms/05-rate-and-prosody.md)** — Functional speech and voice symptoms. Assessed speech blocks, effort, timing or unwanted accent/prosody changes may respond to a different pace or emphasis. **[Professional consensus; no single rate or pitch pattern suits every presentation]**
 
+**[Finding a Less Effortful Breathing Pattern](functional_cough_and_upper_airway_symptoms/04-relaxed-throat-breathing.md)** — Release the jaw and shoulders and use quiet, efficient breathing taught by the clinician. Avoid repeated huge inhalations, which may worsen light-headedness or some breathing patterns. **[Professional consensus; individual assessment required]**
+
 **[Fixed visual or sensory anchor at a familiar warning](functional_seizures/04-sensory-grounding-and-attention-anchor.md)** — Functional seizures with a usable warning and tolerable cue. **[Specialist clinical guidance; no isolated efficacy evidence]**
 
 **[Focusing on the Message and the Listener](functional_speech_and_voice_symptoms/06-focus-on-the-message.md)** — Functional speech and voice symptoms. Monitoring each sound interrupts an otherwise manageable exchange, and a simple shared purpose may make speaking less effortful. **[Professional consensus; adding distraction or a second task is not universally helpful]**
@@ -346,7 +354,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Graded community walking and environmental complexity](functional_gait_disorder/11-graded-community-walking-and-environmental-complexity.md)** — Functional gait disorder when clinic gains do not yet transfer to meaningful real-world routes. **[Clinical and occupational-therapy consensus; supported only as part of broader rehabilitation programmes]**
 
-**Graded exposure to avoided tasks or triggers** — Dystonia; sensory symptoms; visual symptoms; cough; PPPD; selected functional facial symptoms. **C/E**
+**Graded exposure to avoided tasks or triggers** — Dystonia; sensory symptoms; visual symptoms; PPPD; selected functional facial symptoms. **C/E**
 
 **Graded return to avoided activity with fall support** — Functional drop attacks. **E/C**
 
@@ -370,6 +378,10 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Individually formulated behavioral or psychological treatment](17-functional-tics-and-tic-like-symptoms.md#individualized-treatment)** — Functional tics: A clinician familiar with both tics and FND can discuss an approach suited to your symptoms and priorities. I-CBiT combines several methods and has early case-series evidence. Its exercises, including exposure and response prevention, need individual assessment and consent; this page is not a home suppression programme. **[Emerging evidence; uncontrolled series of eight young people]**
 
+**[Keeping Other Causes and Conditions in the Care Plan](functional_cough_and_upper_airway_symptoms/10-treating-coexisting-conditions.md)** — Asthma, eosinophilic disease, reflux, rhinitis, infection, medication effects and structural or neurological laryngeal problems need appropriate treatment. **[Professional consensus; individual assessment required]**
+
+**[Making Daily Life Kinder to Your Throat](functional_cough_and_upper_airway_symptoms/08-hydration-and-laryngeal-care.md)** — Follow individualized advice about fluids, humidity, voice use and irritants. Generic rules may not suit fluid restrictions, reflux or occupational exposure. **[Professional consensus; individual assessment required]**
+
 **[Making Meals More Manageable in Different Settings](functional_swallowing_and_globus/05-meal-setting-and-participation.md)** — Swallowing/globus: When a safe intake is established but pressure, sensory load or unfamiliar settings restrict participation. **[Professional consensus; individualized participation planning]**
 
 **[Making Speech More Comfortable: Breath, Posture and Muscle Release](functional_speech_and_voice_symptoms/07-breath-posture-and-release.md)** — Functional speech and voice symptoms. Assessment finds extra jaw, neck, laryngeal or breathing effort during speech, and a tailored adjustment may reduce strain. **[Professional consensus and adjacent voice guidance; generic deep breathing is not a prescription]**
@@ -392,7 +404,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Music, counting or another external rhythm for gait](functional_gait_disorder/05-external-rhythm-and-auditory-cueing.md)** — Gait, tremor and speech/voice; the linked page concerns accessible gait timing cues. **[Clinical consensus; no functional-gait trial isolates auditory cueing]**
 
-**Neck, jaw and laryngeal relaxation** — speech/voice; cough/upper-airway. **C**
+**Neck, jaw and laryngeal relaxation** — speech/voice. **C**
 
 **Neuromodulation or galvanic vestibular stimulation, specialist/research setting** — PPPD. **E**
 
@@ -401,6 +413,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **[Noticing Briefly Better Vision Without Repeated Testing](functional_visual_symptoms/02-noticing-briefly-better-vision.md)** — Functional visual symptoms. Occasional useful visual moments occur naturally and can help identify a workable task or setting without increasing checking. **[Specialist clinical guidance; no isolated efficacy evidence]**
 
 **Noticing examples of briefly better function** — Visual symptoms; movement symptoms; Functional Cognitive Disorder. **C**
+
+**[Noticing the Earliest Cough Urge](functional_cough_and_upper_airway_symptoms/01-noticing-the-earliest-urge.md)** — Notice the first tickle, tightness, breath change, situation or throat-clear urge before the full cough begins. Track briefly enough to find an intervention point, not to monitor the throat all day. **[Professional consensus; individual assessment required]**
 
 **Optokinetic or virtual-reality practice, supervised** — PPPD. **E**
 
@@ -449,6 +463,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **Relapse and self-management plan** — All 17 symptom groups. **C**
 
 **Responsive rehabilitation dose planning from current capacity** — Functional paralysis. **C**
+
+**[Returning to Activities With Graded Trigger Practice](functional_cough_and_upper_airway_symptoms/07-graded-trigger-practice.md)** — After medical causes and safety are reviewed, practise the selected response with a mild version of a familiar trigger, then progress slowly toward real situations. Do not provoke severe respiratory symptoms at home. **[Professional consensus; individual assessment required]**
 
 **[Reviewing Diet and Equipment Restrictions Together](functional_swallowing_and_globus/11-reviewing-diet-and-equipment-restrictions.md)** — Swallowing/globus: When an existing restriction may no longer be needed, or its burden warrants reassessment. **[Clinical and dysphagia guidance; safety and nutritional review before removal]**
 
@@ -502,13 +518,15 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **Treatment of overlapping fall and event phenotypes** — Functional drop attacks. **C**
 
-**Trigger, warning-sign and pattern mapping** — Functional seizures; jerks; cough; mixed episodic symptoms. **C**
+**Trigger, warning-sign and pattern mapping** — Functional seizures; jerks; mixed episodic symptoms. **C**
 
 **[Understanding the Diagnosis and Finding an Easier Starting Point](functional_speech_and_voice_symptoms/01-understanding-preserved-communication.md)** — Functional speech and voice symptoms. An assessed speech or voice problem needs a clear explanation, and differences between tasks may help the therapist choose where to begin. **[Professional consensus; a useful demonstration does not prove dependable speech in daily life]**
 
 **[Understanding Your Swallowing Assessment and Plan](functional_swallowing_and_globus/01-understanding-the-assessment.md)** — Swallowing/globus: When uncertainty about the diagnosis or safe eating is making every meal feel like a test. **[Professional consensus; diagnostic explanation and continuing care]**
 
 **[Using a Gentle External Focus During Assessed Practice](functional_swallowing_and_globus/07-safe-external-focus.md)** — Swallowing/globus: When a clinician finds that excessive conscious monitoring interferes with an otherwise assessed swallowing task. **[Professional consensus; external focus does not establish airway safety]**
+
+**[Using a Sip and Swallow When It Is Safe](functional_cough_and_upper_airway_symptoms/02-sip-and-swallow.md)** — For some assessed patterns, take a small sip and complete one comfortable swallow instead of coughing or clearing repeatedly. Do not use this when swallowing safety is uncertain or when the person is choking. **[Professional consensus; individual assessment required]**
 
 **[Using Rhythm, Singing or Familiar Sequences](functional_speech_and_voice_symptoms/03-rhythm-singing-and-familiar-sequences.md)** — Functional speech and voice symptoms. Speech initiation or fluency changes with a familiar sequence, a gentle rhythm or melody, and that cue is comfortable and useful. **[Professional consensus; evidence from other speech disorders cannot be assumed to apply to FND]**
 
@@ -521,6 +539,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **[Warning and Pattern Mapping](functional_seizures/03-warning-and-pattern-mapping.md)** — Functional seizures. Use a brief, low-burden record to find a usable early cue or recovery need; a trigger or remembered warning may never be identifiable. **[Specialist clinical guidance; no requirement to find a trigger]**
 
 **Warning recognition when a reliable warning exists** — Functional drop attacks. **E**
+
+**[Working With Attention, Worry and the Cough Urge](functional_cough_and_upper_airway_symptoms/09-attention-and-arousal-support.md)** — Where threat, vigilance or stress amplifies the urge, treatment may include attention shifting, paced exposure or psychological care. This does not imply that the cough is fabricated. **[Professional consensus; individual assessment required]**
 
 **[Working With Fear of Choking Without Pressure](functional_swallowing_and_globus/08-fear-and-avoidance-support.md)** — Swallowing/globus: When fear or vigilance is restricting eating after safety has been assessed, including after a frightening event. **[Professional consensus; preliminary formulation-based evidence, not a universal exposure protocol]**
 

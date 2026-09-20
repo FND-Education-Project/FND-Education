@@ -114,6 +114,8 @@ When positive functional features support the diagnosis, demonstrate them respec
 [Research and Sources](#research-and-sources)
 ***
 
+**Recovery reading:** [Ten detailed cough and upper-airway recovery pages](../../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/README.md), with individualized safety limits and separate guidance for the person, supporters and clinicians.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Communication Access When Speech or Voice Is Difficult](04-communication-access-when-speech-or-voice-is-difficult.md)
 

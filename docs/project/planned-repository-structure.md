@@ -72,6 +72,8 @@ The structure may change as the project develops. Priorities are predictable nav
 
 **Swallowing expansion:** `reference/recovery-techniques/functional_swallowing_and_globus/` contains a README and eleven detailed pages corresponding to the eleven original entries. This does not change the seventeen symptom-presentation count.
 
+**[Functional cough and upper-airway symptoms: ten detailed recovery pages](../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/README.md)** — all ten original entries expanded one-to-one, plus a collection overview. Assessed cough responses, breathing coordination, everyday care and coexisting conditions; professional-consensus evidence with diagnostic and airway-safety boundaries. Added September 20, 2026; human review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 

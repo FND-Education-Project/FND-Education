@@ -75,6 +75,8 @@ The collection now has 17 presentations. [Functional tics and tic-like symptoms]
 
 **[Functional swallowing and globus: eleven detailed pages](functional_swallowing_and_globus/README.md)** — one page per original entry, with assessment, nutrition, airway safety and treatment-evidence limits.
 
+**[Functional cough and upper-airway symptoms: ten detailed recovery pages](functional_cough_and_upper_airway_symptoms/README.md)** — all ten original entries expanded one-to-one, plus a collection overview. Assessed cough responses, breathing coordination, everyday care and coexisting conditions; professional-consensus evidence with diagnostic and airway-safety boundaries. Added September 20, 2026; human review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Reference Library](../README.md) · [Diagnostic Techniques](../diagnostic-signs/README.md) · [Recovery Techniques](README.md) · [Technique Index](technique-index.md)
 
