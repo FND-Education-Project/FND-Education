@@ -31,7 +31,7 @@ The first thirteen symptom lists were additionally checked against their initial
 | [Functional Speech and Voice Symptoms](../../reference/recovery-techniques/09-functional-speech-and-voice-symptoms.md) | 11 | 11 | Eleven original entries expanded one-to-one; no additional pages. |
 | [Functional Swallowing Symptoms and Globus](../../reference/recovery-techniques/10-functional-swallowing-and-globus.md) | 11 | 11 | Eleven original entries expanded one-to-one; the September 16 audit incorrectly reported ten for swallowing. |
 | [Functional Cough and Upper-Airway Symptoms](../../reference/recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md) | 10 | 10 | Ten original entries expanded one-to-one; collection overview is an additional navigation document. |
-| [Functional Cognitive Disorder](../../reference/recovery-techniques/12-functional-cognitive-disorder.md) | 13 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
+| [Functional Cognitive Disorder](../../reference/recovery-techniques/12-functional-cognitive-disorder.md) | 13 | 13 | Thirteen original entries expanded one-to-one; collection overview is an additional navigation document. |
 | [Persistent Postural-Perceptual Dizziness](../../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md) | 12 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
 | [Functional Facial Symptoms](../../reference/recovery-techniques/14-functional-facial-symptoms.md) | 8 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
 | [Functional Paralysis](../../reference/recovery-techniques/15-functional-paralysis.md) | 7 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
@@ -253,6 +253,26 @@ Checked September 20, 2026: the initial list at `a67567b`, pre-expansion baselin
 | 8. Hydration and laryngeal care | [Making Daily Life Kinder to Your Throat](../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/08-hydration-and-laryngeal-care.md) |
 | 9. CBT-informed attention and arousal strategies | [Working With Attention, Worry and the Cough Urge](../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/09-attention-and-arousal-support.md) |
 | 10. Treat coexisting conditions | [Keeping Other Causes and Conditions in the Care Plan](../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/10-treating-coexisting-conditions.md) |
+
+## Functional Cognitive Disorder
+
+Checked September 21, 2026: the initial list at `a67567b`, historical baseline `74138f34797ae840f794f0c809da64fad30dc401`, and immediate base `c7dab88` contain the same thirteen entries. Each maps to one detailed page, with no split, combination or omission. Fourteen documents comprise thirteen detailed pages and one navigation README. The newer workbook development report informs original entry 13; it does not add an intervention page. Original examples remain covered; reassurance and testing advice is qualified to preserve necessary information, aids and safety checks.
+
+| Original entry | Detailed destination |
+| --- | --- |
+| 1. Positive explanation of the cognitive pattern | [Understanding Your Cognitive Assessment](../../reference/recovery-techniques/functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md) |
+| 2. Reduce repeated self-testing | [Taking a Break From Repeated Memory Tests](../../reference/recovery-techniques/functional_cognitive_disorder/02-reducing-self-testing.md) |
+| 3. Reduce reassurance loops | [Finding Reassurance That Still Helps](../../reference/recovery-techniques/functional_cognitive_disorder/03-reassurance-without-loops.md) |
+| 4. Attention retraining | [Giving One Task Your Attention](../../reference/recovery-techniques/functional_cognitive_disorder/04-attending-to-one-task.md) |
+| 5. Prediction versus performance | [Comparing What You Expect With What Happens](../../reference/recovery-techniques/functional_cognitive_disorder/05-prediction-and-performance.md) |
+| 6. Success record | [Keeping a Small Record of What Helped](../../reference/recovery-techniques/functional_cognitive_disorder/06-noticing-what-helped.md) |
+| 7. Graded return to meaningful cognitive tasks | [Returning to Reading, Conversation and Other Valued Tasks](../../reference/recovery-techniques/functional_cognitive_disorder/07-returning-to-meaningful-tasks.md) |
+| 8. External memory supports | [Building a Memory System You Can Actually Use](../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md) |
+| 9. Single-task routines and pacing | [Making the Day Easier With Routines and Pacing](../../reference/recovery-techniques/functional_cognitive_disorder/09-single-task-routines-and-pacing.md) |
+| 10. Treat contributors and comorbidity | [Keeping Other Contributors in the Care Plan](../../reference/recovery-techniques/functional_cognitive_disorder/10-contributors-and-coexisting-conditions.md) |
+| 11. Online group ACT | [Considering an Online ACT Group](../../reference/recovery-techniques/functional_cognitive_disorder/11-online-group-act.md) |
+| 12. CBT- and metacognition-informed digital self-help | [Considering FCD-Specific Digital Self-Help](../../reference/recovery-techniques/functional_cognitive_disorder/12-digital-self-help.md) |
+| 13. Individual cognitive rehabilitation | [Planning Individual Cognitive Rehabilitation](../../reference/recovery-techniques/functional_cognitive_disorder/13-individual-cognitive-rehabilitation.md) |
 
 <!-- NAV-CONTEXT:START -->
 **Related:** [Recovery collection guide](../../reference/recovery-techniques/collection-guide.md) · [Technique index](../../reference/recovery-techniques/technique-index.md) · [Page maintenance policy](repository-change-and-page-maintenance-policy.md)

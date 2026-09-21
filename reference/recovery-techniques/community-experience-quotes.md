@@ -1232,6 +1232,10 @@ See the [recovery overview](17-functional-tics-and-tic-like-symptoms.md). These 
 
 The [ten detailed pages](functional_cough_and_upper_airway_symptoms/README.md) add no community quotations or community-only techniques. Everyday examples are explicitly illustrative. Existing reports do not establish diagnosis or efficacy, and reports about chronic cough or ILO must not be relabelled as FND experiences. A broader lived-experience review remains pending.
 
+### Functional Cognitive Disorder expansion: September 21, 2026
+
+The [thirteen detailed pages](functional_cognitive_disorder/README.md) add no community quotations or community-only techniques. Everyday examples are illustrative, not patient reports. A balanced, verified lived-experience review remains pending. Trial participant feedback is described as research evidence, not presented as community endorsement.
+
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

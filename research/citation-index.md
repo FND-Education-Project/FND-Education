@@ -129,6 +129,7 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0114](#fnd-cit-0114) | Szejko N, Robinson S, Hartmann A, et al | Guideline | Functional motor and vocal tic-like symptoms | [glossary/README.md](../glossary/README.md); [reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md](../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md); [reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md); [course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md](../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md) |
 | [FND-CIT-0115](#fnd-cit-0115) | American Speech-Language-Hearing Association. Adult Dysphagia. *Practice Portal*. Accessed September 18, 2026. | Professional adult dysphagia guidance across etiologies. Supports assessment, silent aspiration, individualized texture/posture decisions, nutrition and hydration review; not FND-specific efficacy evidence. | Swallowing assessment and care | [Swallowing collection](../reference/recovery-techniques/functional_swallowing_and_globus/README.md) |
 | [FND-CIT-0116](#fnd-cit-0116) | Miles A, Baker J, Barker-Collo S, Leadley S. Functional dysphagia: Developing a framework for assessment and treatment. *International Journal of Speech-Language Pathology*. 2026;28:155–170. Published online March 11, 2025. | Expert-opinion framework illustrated by six clients; uncontrolled exemplar case series. Supports individualized formulation, not efficacy of a specific exercise, exposure schedule or promise of rapid recovery. Bibliographic metadata and abstract checked; full-text publisher access was unavailable during this update. | Swallowing assessment and care | [Swallowing collection](../reference/recovery-techniques/functional_swallowing_and_globus/README.md) |
+| [FND-CIT-0187](#fnd-cit-0187) | Cotton et al., 2026 (online 2025) | Intervention development; initial feedback from two people | FCD therapist-guided workbook; no efficacy inference | [Individual cognitive rehabilitation](../reference/recovery-techniques/functional_cognitive_disorder/13-individual-cognitive-rehabilitation.md) |
 
 ## Functional speech and voice detailed-page citation use map
 
@@ -1507,6 +1508,34 @@ September 20, 2026: existing stable sources reused; no new source IDs. FND-CIT-0
 | [Making Daily Life Kinder to Your Throat](../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/08-hydration-and-laryngeal-care.md) | FND-CIT-0025 |
 | [Working With Attention, Worry and the Cough Urge](../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/09-attention-and-arousal-support.md) | FND-CIT-0025 |
 | [Keeping Other Causes and Conditions in the Care Plan](../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/10-treating-coexisting-conditions.md) | FND-CIT-0025; FND-CIT-0129; FND-CIT-0147 |
+
+## FND-CIT-0187
+
+Cotton E, Mordecai K, McWhirter L, et al. Taking Control of Your Functional Cognitive Symptoms: Workbook—A Novel Intervention. *Journal of Neuropsychiatry and Clinical Neurosciences*. 2026;38(2):153–162. Published online October 3, 2025. [DOI](https://doi.org/10.1176/appi.neuropsych.20240231). [PubMed record](https://pubmed.ncbi.nlm.nih.gov/41039861/).
+
+Intervention development with initial feedback from two people; efficacy remains untested. Bibliographic record and abstract reviewed. This updates the evidence context for an existing rehabilitation entry rather than establishing a new proven treatment.
+
+**Current use:** [FCD recovery overview](../reference/recovery-techniques/12-functional-cognitive-disorder.md); [individual rehabilitation](../reference/recovery-techniques/functional_cognitive_disorder/13-individual-cognitive-rehabilitation.md).
+
+## Functional Cognitive Disorder detailed-page citation use map
+
+Reviewed September 21, 2026. Existing sources 0011, 0026, 0036 and 0037 are retained; 0187 adds an early workbook development report. Source 0011 supplies broader rehabilitation consensus, 0026 diagnostic/formulation context, and 0036–0037 programme-level feasibility evidence. None establishes efficacy of each practical component. The overview uses all five sources.
+
+| Page | Sources |
+| --- | --- |
+| [Understanding Your Cognitive Assessment](../reference/recovery-techniques/functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md) | [FND-CIT-0026](#fnd-cit-0026); [FND-CIT-0011](#fnd-cit-0011) |
+| [Taking a Break From Repeated Memory Tests](../reference/recovery-techniques/functional_cognitive_disorder/02-reducing-self-testing.md) | [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0037](#fnd-cit-0037) |
+| [Finding Reassurance That Still Helps](../reference/recovery-techniques/functional_cognitive_disorder/03-reassurance-without-loops.md) | [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0037](#fnd-cit-0037) |
+| [Giving One Task Your Attention](../reference/recovery-techniques/functional_cognitive_disorder/04-attending-to-one-task.md) | [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0037](#fnd-cit-0037) |
+| [Comparing What You Expect With What Happens](../reference/recovery-techniques/functional_cognitive_disorder/05-prediction-and-performance.md) | [FND-CIT-0026](#fnd-cit-0026); [FND-CIT-0037](#fnd-cit-0037) |
+| [Keeping a Small Record of What Helped](../reference/recovery-techniques/functional_cognitive_disorder/06-noticing-what-helped.md) | [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0037](#fnd-cit-0037) |
+| [Returning to Reading, Conversation and Other Valued Tasks](../reference/recovery-techniques/functional_cognitive_disorder/07-returning-to-meaningful-tasks.md) | [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0037](#fnd-cit-0037) |
+| [Building a Memory System You Can Actually Use](../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md) | [FND-CIT-0011](#fnd-cit-0011) |
+| [Making the Day Easier With Routines and Pacing](../reference/recovery-techniques/functional_cognitive_disorder/09-single-task-routines-and-pacing.md) | [FND-CIT-0011](#fnd-cit-0011) |
+| [Keeping Other Contributors in the Care Plan](../reference/recovery-techniques/functional_cognitive_disorder/10-contributors-and-coexisting-conditions.md) | [FND-CIT-0026](#fnd-cit-0026); [FND-CIT-0011](#fnd-cit-0011) |
+| [Considering an Online ACT Group](../reference/recovery-techniques/functional_cognitive_disorder/11-online-group-act.md) | [FND-CIT-0036](#fnd-cit-0036) |
+| [Considering FCD-Specific Digital Self-Help](../reference/recovery-techniques/functional_cognitive_disorder/12-digital-self-help.md) | [FND-CIT-0037](#fnd-cit-0037) |
+| [Planning Individual Cognitive Rehabilitation](../reference/recovery-techniques/functional_cognitive_disorder/13-individual-cognitive-rehabilitation.md) | [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0026](#fnd-cit-0026); [FND-CIT-0187](#fnd-cit-0187) |
 
 <!-- NAV-CONTEXT:START -->
 **Research:** [Research and citation policy](../docs/project/research-and-citation-policy.md)

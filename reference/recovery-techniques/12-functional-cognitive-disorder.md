@@ -18,27 +18,28 @@
 
 Functional Cognitive Disorder can involve disabling problems with attention, memory, word finding or mental efficiency alongside evidence that cognitive ability is working better in some contexts than the person experiences. Treatment aims to reduce unhelpful checking and threat, make better use of preserved ability, and address sleep, pain, fatigue, mood and other contributors.
 
-**Evidence labels:** **R** research-supported · **C** clinical consensus · **E** emerging. FCD-specific treatment research remains at feasibility and early-intervention stages.
 
 [For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
 
 ## For the person with symptoms
 
+[Explore the thirteen detailed pages](functional_cognitive_disorder/README.md). Each original entry has one page; you do not need to try every approach.
+
 ### Techniques used in rehabilitation
 
-1. **Positive explanation of the cognitive pattern — C.** Review the specific evidence for preserved ability and internal inconsistency, plus the conditions that were considered. The message is that the difficulty is genuine and potentially changeable—not that testing found “nothing wrong.”
-2. **Reduce repeated self-testing — C.** Replace constant memory checks, internet tests or rereading with one planned way to capture what matters. Repeated testing can consume attention and strengthen the sense that every lapse is dangerous.
-3. **Reduce reassurance loops — C.** Agree when and how to check an important fact, then move on. Supporters can answer once or point to the shared note rather than restarting the same assessment repeatedly.
-4. **Attention retraining — C.** Practise attending to one meaningful task for a realistic interval, remove avoidable competing demands, take a planned break, and increase duration gradually. This is training attention, not testing maximum endurance.
-5. **Prediction versus performance — C.** Before a modest task, write a concrete prediction: “I will remember none of three points.” Complete the task once, then record what actually happened and what helped. Look for patterns over several attempts rather than using one result as proof.
-6. **Success record — C.** Keep brief examples of cognitive function used in life—following a recipe step, recalling an appointment with an aid, finishing a conversation. Record strategies and context, not only failures.
-7. **Graded return to meaningful cognitive tasks — C.** Begin with a manageable part of reading, finances, study, work or conversation. Progress one dimension at a time: length, distraction, complexity or independence.
-8. **External memory supports — C.** Use one calendar, consistent object locations, alarms, written steps or checklists. The aid reduces unnecessary load; it is not evidence of permanent damage or treatment failure.
-9. **Single-task routines and pacing — C.** Build predictable start/stop points, reduce rapid switching and schedule demanding tasks for a better time of day. Balance pacing with gradual expansion so the person’s world does not keep shrinking.
-10. **Treat contributors and comorbidity — C.** Review sleep, pain, fatigue, migraine, hearing, medication/substance effects, ADHD, anxiety, depression and neurological or medical conditions. Treatment should be individualized, not a generic stress prescription.
-11. **Online group ACT — E.** A small randomized feasibility study found that an FCD-specific online acceptance and commitment therapy group could be delivered and studied. It was not powered to prove effectiveness.
-12. **CBT- and metacognition-informed digital self-help — E.** A single-arm feasibility study supports further testing of a guided digital intervention; it does not yet establish benefit.
-13. **Individual cognitive rehabilitation — C/E.** Neuropsychology, occupational therapy or speech-language therapy may combine metacognitive work, strategy training and functional goals when needs are more complex.
+1. **[Positive explanation of the cognitive pattern](functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md).** When the diagnosis is new or the explanation has left you feeling that your difficulties were dismissed. **[Clinical guidance; individual technique efficacy not established]**
+2. **[Reduce repeated self-testing](functional_cognitive_disorder/02-reducing-self-testing.md).** When unplanned quizzes, internet tests or restarting have become more burdensome than helpful. **[Clinical guidance; individual technique efficacy not established]**
+3. **[Reduce reassurance loops](functional_cognitive_disorder/03-reassurance-without-loops.md).** When repeated requests for certainty bring only brief relief, after unmet information needs have been addressed. **[Clinical guidance; individual technique efficacy not established]**
+4. **[Attention retraining](functional_cognitive_disorder/04-attending-to-one-task.md).** When competing sounds, screens, thoughts or tasks make it hard to take information in. **[Clinical guidance; individual technique efficacy not established]**
+5. **[Prediction versus performance](functional_cognitive_disorder/05-prediction-and-performance.md).** When a strongly negative prediction makes a modest, safe task feel impossible. **[Clinical guidance; individual technique efficacy not established]**
+6. **[Success record](functional_cognitive_disorder/06-noticing-what-helped.md).** When difficulties dominate recall and useful strategies or moments of participation are easily lost. **[Clinical guidance; individual technique efficacy not established]**
+7. **[Graded return to meaningful cognitive tasks](functional_cognitive_disorder/07-returning-to-meaningful-tasks.md).** When cognitive symptoms have interrupted an activity you want to resume or adapt. **[Clinical guidance; individual technique efficacy not established]**
+8. **[External memory supports](functional_cognitive_disorder/08-external-memory-supports.md).** When appointments, objects, instructions or unfinished tasks need a reliable place outside memory. **[Clinical guidance; individual technique efficacy not established]**
+9. **[Single-task routines and pacing](functional_cognitive_disorder/09-single-task-routines-and-pacing.md).** When rapid switching or poorly timed demands leave too little capacity for the next task. **[Clinical guidance; individual technique efficacy not established]**
+10. **[Treat contributors and comorbidity](functional_cognitive_disorder/10-contributors-and-coexisting-conditions.md).** When sleep, pain, fatigue, migraine, medicines or another condition may be adding to cognitive difficulty. **[Clinical guidance; individual technique efficacy not established]**
+11. **[Online group ACT](functional_cognitive_disorder/11-online-group-act.md).** When a person wants therapist-led help with symptom interference and valued activities, and an appropriate group is available. **[Emerging evidence; randomized feasibility study, not proof of efficacy]**
+12. **[CBT- and metacognition-informed digital self-help](functional_cognitive_disorder/12-digital-self-help.md).** When a person prefers flexible self-help and can access a suitable programme with an agreed clinical follow-up plan. **[Emerging evidence; uncontrolled feasibility study, not proof of efficacy]**
+13. **[Individual cognitive rehabilitation](functional_cognitive_disorder/13-individual-cognitive-rehabilitation.md).** When needs are complex, basic adaptations are insufficient or a person needs support applying strategies in daily life. **[Clinical rehabilitation guidance and early intervention development; efficacy uncertain]**
 
 ### During a cognitive flare
 
@@ -54,7 +55,7 @@ A sudden new confusion state, altered consciousness, new focal neurological symp
 
 ### A low-risk starting practice
 
-Choose one task that matters and set a short, repeatable interval. Make one specific prediction, complete the task without restarting, then record the result and one helpful condition. Use the same method several times before drawing a conclusion. Stop if the exercise becomes compulsive self-testing or substantially increases distress.
+Choose one low-stakes task that matters and make its next step easier to find: a note, a reminder or fewer competing demands. Prediction-versus-performance work is a separate optional exercise to agree with your clinician. Keep necessary safety checks and stop any exercise that becomes repeated self-testing or substantially increases distress.
 
 ### Ask for urgent help or reassessment when
 
@@ -64,7 +65,7 @@ Confusion is sudden, consciousness changes, or cognitive symptoms occur with new
 
 - Do not quiz, secretly score or use a remembered success to dismiss a later difficulty.
 - With permission, help create one shared calendar or checklist instead of multiple competing systems.
-- Answer agreed reassurance questions once and redirect to the plan compassionately.
+- Distinguish a recurring worry from information the person could not retain. Use an agreed reassurance plan compassionately; repeat essential information and never withhold needed support.
 - Notice strategy use and participation, not just correct recall.
 - Report genuine progression or safety problems rather than assuming all change is functional.
 
@@ -90,16 +91,24 @@ Build treatment around functional goals, metacognition, attention, reduced check
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
-## Research and evidence
+<a id="research-and-evidence"></a>
 
-The diagnostic and formulation framework is described in the proposed FCD risk model (**FND-CIT-0026**). An online group ACT randomized feasibility study of 44 participants assessed feasibility and acceptability, not definitive efficacy (**FND-CIT-0036**). A CBT/metacognition-informed digital self-help study was also single-arm and designed to prepare for a future trial (**FND-CIT-0037**). The search did not find a definitive FCD-specific efficacy trial.
+## Research and Sources
+
+The diagnostic and formulation framework is described in the proposed FCD risk model (**FND-CIT-0026**). An online group ACT randomized feasibility study of 44 participants assessed feasibility and acceptability, not definitive efficacy (**FND-CIT-0036**). A CBT/metacognition-informed digital self-help study was single-arm, involved independent use with technical support, and was designed to prepare for a future trial (**FND-CIT-0037**). These feasibility studies do not establish definitive efficacy. A newer therapist-guided workbook report describes intervention development and feedback from only two people, not an efficacy trial (**FND-CIT-0187**). General occupational-therapy consensus (**FND-CIT-0011**) supports individualized rehabilitation but does not prove each FCD technique separately.
 
 No community-only technique was added. Repeated user suggestions about planners, pacing and reducing multitasking were already represented in clinical rehabilitation practice; unsupported supplement or “brain training” claims did not meet the project’s evidence and safety rules.
 
+The digital study also reported negative experiences, including increased anxiety and dissatisfaction with limited personalization. Access needs, adverse effects and a route beyond self-help belong in the treatment plan.
+
 ### Sources
 
-- **FND-CIT-0026:** McWhirter L, Ritchie C, Stone J, Carson A. *Identifying functional cognitive disorder: a proposed diagnostic risk model.* CNS Spectrums. 2022;27(6):754–763. [doi:10.1017/S1092852921000845](https://doi.org/10.1017/S1092852921000845)
-- **FND-CIT-0036:** Poole N, Cope S, Vanzan S, et al. *Randomised controlled feasibility trial of online group acceptance and commitment therapy for functional cognitive disorder.* BJPsych Open. 2025;11(3):e91. [doi:10.1192/bjo.2025.33](https://doi.org/10.1192/bjo.2025.33)
-- **FND-CIT-0037:** Cabreira V, Frostholm L, Stone J, Carson A. *Feasibility trial of a self-help digital intervention for functional cognitive disorder.* Brain Communications. 2025;7(4):fcaf248. [doi:10.1093/braincomms/fcaf248](https://doi.org/10.1093/braincomms/fcaf248)
+| Citation | Source | What it supports and its limits | Figure |
+| --- | --- | --- | --- |
+| <a id="citation-1"></a>1 | [FND-CIT-0026](../../research/citation-index.md#fnd-cit-0026) — McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. [DOI](https://doi.org/10.1017/S1092852921000845). | Diagnostic/formulation evidence; does not test the effectiveness of this practice. | — |
+| <a id="citation-2"></a>2 | [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011) — Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *JNNP*. 2020;91(10):1037–1045. [DOI](https://doi.org/10.1136/jnnp-2019-322281). | Professional consensus for individualized rehabilitation, activity and support; not an FCD component efficacy trial. | — |
+| <a id="citation-3"></a>3 | [FND-CIT-0036](../../research/citation-index.md#fnd-cit-0036) — Poole N, Cope S, Vanzan S, et al. Randomised controlled feasibility trial of online group acceptance and commitment therapy for functional cognitive disorder. *BJPsych Open*. 2025;11(3):e91. [DOI](https://doi.org/10.1192/bjo.2025.33). | Small randomized feasibility study; not a definitive efficacy trial. | — |
+| <a id="citation-4"></a>4 | [FND-CIT-0037](../../research/citation-index.md#fnd-cit-0037) — Cabreira V, Frostholm L, Stone J, Carson A. Feasibility trial of a self-help digital intervention for functional cognitive disorder. *Brain Communications*. 2025;7(4):fcaf248. [DOI](https://doi.org/10.1093/braincomms/fcaf248). | Single-arm feasibility study of a whole programme; cannot establish causation or individual-component benefit. Some participants reported negative effects. | — |
+| <a id="citation-5"></a>5 | [FND-CIT-0187](../../research/citation-index.md#fnd-cit-0187) — Cotton E, Mordecai K, McWhirter L, et al. Taking Control of Your Functional Cognitive Symptoms: Workbook—A Novel Intervention. *Journal of Neuropsychiatry and Clinical Neurosciences*. 2026;38(2):153–162. Published online October 3, 2025. [DOI](https://doi.org/10.1176/appi.neuropsych.20240231). | Intervention development with initial feedback from two people; efficacy remains untested. Bibliographic record and abstract reviewed. | — |
 
-*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Cognitive-neurology, neuropsychology and accessibility review pending*
+*Source review: September 21, 2026 · Cognitive-neurology, neuropsychology, lived-experience and accessibility review pending*
