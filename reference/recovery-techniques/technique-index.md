@@ -194,7 +194,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 ### [Functional Cognitive Disorder](12-functional-cognitive-disorder.md)
 
-- **[Understanding Your Cognitive Assessment](functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md)** — When the diagnosis is new or the explanation has left you feeling that your difficulties were dismissed. **[Clinical guidance; individual technique efficacy not established]**
+- **[Understanding Memory and Thinking Difficulties in FCD](functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md)** — Explains memory and other thinking difficulties and connects them with practical support. **[Foundation for recovery; educational guidance, not a memory-training exercise]**
 - **[Taking a Break From Repeated Memory Tests](functional_cognitive_disorder/02-reducing-self-testing.md)** — When unplanned quizzes, internet tests or restarting have become more burdensome than helpful. **[Clinical guidance; individual technique efficacy not established]**
 - **[Finding Reassurance That Still Helps](functional_cognitive_disorder/03-reassurance-without-loops.md)** — When repeated requests for certainty bring only brief relief, after unmet information needs have been addressed. **[Clinical guidance; individual technique efficacy not established]**
 - **[Giving One Task Your Attention](functional_cognitive_disorder/04-attending-to-one-task.md)** — When competing sounds, screens, thoughts or tasks make it hard to take information in. **[Clinical guidance; individual technique efficacy not established]**
@@ -538,7 +538,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Understanding the Diagnosis and Finding an Easier Starting Point](functional_speech_and_voice_symptoms/01-understanding-preserved-communication.md)** — Functional speech and voice symptoms. An assessed speech or voice problem needs a clear explanation, and differences between tasks may help the therapist choose where to begin. **[Professional consensus; a useful demonstration does not prove dependable speech in daily life]**
 
-**[Understanding Your Cognitive Assessment](functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md)** — When the diagnosis is new or the explanation has left you feeling that your difficulties were dismissed. **[Clinical guidance; individual technique efficacy not established]**
+**[Understanding Memory and Thinking Difficulties in FCD](functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md)** — Explains memory and other thinking difficulties and connects them with practical support. **[Foundation for recovery; educational guidance, not a memory-training exercise]**
 
 **[Understanding Your Swallowing Assessment and Plan](functional_swallowing_and_globus/01-understanding-the-assessment.md)** — Swallowing/globus: When uncertainty about the diagnosis or safe eating is making every meal feel like a test. **[Professional consensus; diagnostic explanation and continuing care]**
 

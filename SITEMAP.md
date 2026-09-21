@@ -655,7 +655,7 @@ Use the sections below to drill down into the course, reference library, researc
 ## Functional Cognitive Disorder recovery collection
 
 - [Collection overview](reference/recovery-techniques/functional_cognitive_disorder/README.md)
-- [Understanding Your Cognitive Assessment](reference/recovery-techniques/functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md)
+- [Understanding Memory and Thinking Difficulties in FCD](reference/recovery-techniques/functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md)
 - [Taking a Break From Repeated Memory Tests](reference/recovery-techniques/functional_cognitive_disorder/02-reducing-self-testing.md)
 - [Finding Reassurance That Still Helps](reference/recovery-techniques/functional_cognitive_disorder/03-reassurance-without-loops.md)
 - [Giving One Task Your Attention](reference/recovery-techniques/functional_cognitive_disorder/04-attending-to-one-task.md)

@@ -6,9 +6,11 @@
 
 These thirteen pages expand the thirteen original entries one-to-one. This overview is an additional navigation document. [See the original-entry mapping](../../../docs/project/recovery-technique-history-audit.md#functional-cognitive-disorder).
 
+The first page provides foundational education about memory and thinking, rather than a training exercise.
+
 Start with an assessed problem and one useful next step. You do not need to complete a course of all thirteen techniques. Memory aids and human help remain valid during recovery. Reducing unnecessary checking must never mean removing needed information or safety checks.
 
-1. [Understanding Your Cognitive Assessment](01-understanding-the-cognitive-pattern.md)
+1. [Understanding Memory and Thinking Difficulties in FCD](01-understanding-the-cognitive-pattern.md)
 2. [Taking a Break From Repeated Memory Tests](02-reducing-self-testing.md)
 3. [Finding Reassurance That Still Helps](03-reassurance-without-loops.md)
 4. [Giving One Task Your Attention](04-attending-to-one-task.md)

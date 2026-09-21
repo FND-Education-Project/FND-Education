@@ -27,7 +27,7 @@ Functional Cognitive Disorder can involve disabling problems with attention, mem
 
 ### Techniques used in rehabilitation
 
-1. **[Positive explanation of the cognitive pattern](functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md).** When the diagnosis is new or the explanation has left you feeling that your difficulties were dismissed. **[Clinical guidance; individual technique efficacy not established]**
+1. **[Positive explanation of the cognitive pattern](functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md).** An explanation of memory, attention, word finding and other thinking difficulties, linked to practical support. **[Foundation for recovery; educational guidance, not a memory-training exercise]**
 2. **[Reduce repeated self-testing](functional_cognitive_disorder/02-reducing-self-testing.md).** When unplanned quizzes, internet tests or restarting have become more burdensome than helpful. **[Clinical guidance; individual technique efficacy not established]**
 3. **[Reduce reassurance loops](functional_cognitive_disorder/03-reassurance-without-loops.md).** When repeated requests for certainty bring only brief relief, after unmet information needs have been addressed. **[Clinical guidance; individual technique efficacy not established]**
 4. **[Attention retraining](functional_cognitive_disorder/04-attending-to-one-task.md).** When competing sounds, screens, thoughts or tasks make it hard to take information in. **[Clinical guidance; individual technique efficacy not established]**
