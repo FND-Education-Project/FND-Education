@@ -131,6 +131,7 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0116](#fnd-cit-0116) | Miles A, Baker J, Barker-Collo S, Leadley S. Functional dysphagia: Developing a framework for assessment and treatment. *International Journal of Speech-Language Pathology*. 2026;28:155–170. Published online March 11, 2025. | Expert-opinion framework illustrated by six clients; uncontrolled exemplar case series. Supports individualized formulation, not efficacy of a specific exercise, exposure schedule or promise of rapid recovery. Bibliographic metadata and abstract checked; full-text publisher access was unavailable during this update. | Swallowing assessment and care | [Swallowing collection](../reference/recovery-techniques/functional_swallowing_and_globus/README.md) |
 | [FND-CIT-0187](#fnd-cit-0187) | Cotton et al., 2026 (online 2025) | Intervention development; initial feedback from two people | FCD therapist-guided workbook; no efficacy inference | [Individual cognitive rehabilitation](../reference/recovery-techniques/functional_cognitive_disorder/13-individual-cognitive-rehabilitation.md) |
 | [FND-CIT-0188](#fnd-cit-0188) | Neurosymptoms.org, accessed September 21, 2026 | Specialist patient education | Functional cognitive symptoms, attention and explanatory care | [Memory and thinking explanation](../reference/recovery-techniques/functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md) |
+| [FND-CIT-0189](#fnd-cit-0189) | Centre for Clinical Interventions, accessed September 21, 2026 | Health-anxiety psychoeducation | Checking/reassurance concepts; adjacent guidance, not FCD efficacy evidence | [Self-testing](../reference/recovery-techniques/functional_cognitive_disorder/02-reducing-self-testing.md); [reassurance](../reference/recovery-techniques/functional_cognitive_disorder/03-reassurance-without-loops.md) |
 
 ## Functional speech and voice detailed-page citation use map
 
@@ -1525,8 +1526,8 @@ Reviewed September 21, 2026. Existing sources 0011, 0026, 0036 and 0037 are reta
 | Page | Sources |
 | --- | --- |
 | [Understanding Memory and Thinking Difficulties in FCD](../reference/recovery-techniques/functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md) | [FND-CIT-0026](#fnd-cit-0026); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0071](#fnd-cit-0071); [FND-CIT-0141](#fnd-cit-0141); [FND-CIT-0188](#fnd-cit-0188) |
-| [Taking a Break From Repeated Memory Tests](../reference/recovery-techniques/functional_cognitive_disorder/02-reducing-self-testing.md) | [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0037](#fnd-cit-0037) |
-| [Finding Reassurance That Still Helps](../reference/recovery-techniques/functional_cognitive_disorder/03-reassurance-without-loops.md) | [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0037](#fnd-cit-0037) |
+| [Taking a Break From Repeated Memory Tests](../reference/recovery-techniques/functional_cognitive_disorder/02-reducing-self-testing.md) | [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0037](#fnd-cit-0037); [FND-CIT-0188](#fnd-cit-0188); [FND-CIT-0189](#fnd-cit-0189) |
+| [Finding Reassurance That Still Helps](../reference/recovery-techniques/functional_cognitive_disorder/03-reassurance-without-loops.md) | [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0037](#fnd-cit-0037); [FND-CIT-0189](#fnd-cit-0189) |
 | [Giving One Task Your Attention](../reference/recovery-techniques/functional_cognitive_disorder/04-attending-to-one-task.md) | [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0037](#fnd-cit-0037) |
 | [Comparing What You Expect With What Happens](../reference/recovery-techniques/functional_cognitive_disorder/05-prediction-and-performance.md) | [FND-CIT-0026](#fnd-cit-0026); [FND-CIT-0037](#fnd-cit-0037) |
 | [Keeping a Small Record of What Helped](../reference/recovery-techniques/functional_cognitive_disorder/06-noticing-what-helped.md) | [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0037](#fnd-cit-0037) |
@@ -1551,3 +1552,11 @@ Neurosymptoms.org. *Functional Cognitive Symptoms*. [Source](https://neurosympto
 Specialist patient education on memory, attention and understanding functional cognitive symptoms. This is not an efficacy trial or a source for ranking the prevalence of memory-system impairments. Use individualized assessment when deciding which supports to retain or adapt.
 
 **Current use:** [Understanding Memory and Thinking Difficulties in FCD](../reference/recovery-techniques/functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md).
+
+## FND-CIT-0189
+
+Centre for Clinical Interventions, Government of Western Australia. *Helping Health Anxiety, Module 6: Reducing Checking and Reassurance Seeking*. [Source](https://www.cci.health.wa.gov.au/~/media/CCI/Consumer-Modules/Helping-Health-Anxiety/Helping-Health-Anxiety---06---Reducing-Checking-and-Reassurance-Seeking.pdf). Accessed September 21, 2026.
+
+Adjacent clinical education defining checking, brief relief and repeated reassurance seeking. This is not an FCD treatment trial. Use only when an individualized assessment identifies the pattern; preserve information access, needed assistance and safety checks.
+
+**Current use:** [Self-testing](../reference/recovery-techniques/functional_cognitive_disorder/02-reducing-self-testing.md); [reassurance](../reference/recovery-techniques/functional_cognitive_disorder/03-reassurance-without-loops.md).

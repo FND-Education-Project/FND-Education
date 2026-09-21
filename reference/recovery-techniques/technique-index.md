@@ -195,8 +195,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 ### [Functional Cognitive Disorder](12-functional-cognitive-disorder.md)
 
 - **[Understanding Memory and Thinking Difficulties in FCD](functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md)** — Explains memory and other thinking difficulties and connects them with practical support. **[Foundation for recovery; educational guidance, not a memory-training exercise]**
-- **[Taking a Break From Repeated Memory Tests](functional_cognitive_disorder/02-reducing-self-testing.md)** — When unplanned quizzes, internet tests or restarting have become more burdensome than helpful. **[Clinical guidance; individual technique efficacy not established]**
-- **[Finding Reassurance That Still Helps](functional_cognitive_disorder/03-reassurance-without-loops.md)** — When repeated requests for certainty bring only brief relief, after unmet information needs have been addressed. **[Clinical guidance; individual technique efficacy not established]**
+- **[Taking a Break From Repeated Memory Tests](functional_cognitive_disorder/02-reducing-self-testing.md)** — When repeatedly testing your own recall to check whether memory works has become distressing or disruptive; keep necessary checks and reminders. **[Clinical guidance; individual technique efficacy not established]**
+- **[Finding Reassurance That Still Helps](functional_cognitive_disorder/03-reassurance-without-loops.md)** — When asking someone else for the same assurance briefly settles a worry that soon returns; distinguish this from forgetting or not understanding the answer. **[Clinical guidance; individual technique efficacy not established]**
 - **[Giving One Task Your Attention](functional_cognitive_disorder/04-attending-to-one-task.md)** — When competing sounds, screens, thoughts or tasks make it hard to take information in. **[Clinical guidance; individual technique efficacy not established]**
 - **[Comparing What You Expect With What Happens](functional_cognitive_disorder/05-prediction-and-performance.md)** — When a strongly negative prediction makes a modest, safe task feel impossible. **[Clinical guidance; individual technique efficacy not established]**
 - **[Keeping a Small Record of What Helped](functional_cognitive_disorder/06-noticing-what-helped.md)** — When difficulties dominate recall and useful strategies or moments of participation are easily lost. **[Clinical guidance; individual technique efficacy not established]**
@@ -348,7 +348,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Finding a Less Effortful Breathing Pattern](functional_cough_and_upper_airway_symptoms/04-relaxed-throat-breathing.md)** — Release the jaw and shoulders and use quiet, efficient breathing taught by the clinician. Avoid repeated huge inhalations, which may worsen light-headedness or some breathing patterns. **[Professional consensus; individual assessment required]**
 
-**[Finding Reassurance That Still Helps](functional_cognitive_disorder/03-reassurance-without-loops.md)** — When repeated requests for certainty bring only brief relief, after unmet information needs have been addressed. **[Clinical guidance; individual technique efficacy not established]**
+**[Finding Reassurance That Still Helps](functional_cognitive_disorder/03-reassurance-without-loops.md)** — When asking someone else for the same assurance briefly settles a worry that soon returns; distinguish this from forgetting or not understanding the answer. **[Clinical guidance; individual technique efficacy not established]**
 
 **[Fixed visual or sensory anchor at a familiar warning](functional_seizures/04-sensory-grounding-and-attention-anchor.md)** — Functional seizures with a usable warning and tolerable cue. **[Specialist clinical guidance; no isolated efficacy evidence]**
 
@@ -520,7 +520,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Surface-EMG biofeedback](functional_dystonia/07-surface-emg-biofeedback.md)** — Tremor and dystonia when a selected superficial muscle-activity signal supports a specific movement-learning goal. **[Clinical consensus; direct functional-dystonia treatment evidence is very limited]**
 
-**[Taking a Break From Repeated Memory Tests](functional_cognitive_disorder/02-reducing-self-testing.md)** — When unplanned quizzes, internet tests or restarting have become more burdensome than helpful. **[Clinical guidance; individual technique efficacy not established]**
+**[Taking a Break From Repeated Memory Tests](functional_cognitive_disorder/02-reducing-self-testing.md)** — When repeatedly testing your own recall to check whether memory works has become distressing or disruptive; keep necessary checks and reminders. **[Clinical guidance; individual technique efficacy not established]**
 
 **[TENS and Electrical Stimulation: Specialist Review and Safety](functional_sensory_symptoms/09-tens-and-electrical-stimulation-review.md)** — Functional sensory symptoms. A qualified clinician is considering electrical input for a specific pain or rehabilitation goal and needs to establish whether it is suitable. **[Emerging and uncertain FND evidence; safety review is essential]**
 
