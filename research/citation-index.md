@@ -1491,6 +1491,23 @@ Zutt R, Elting JW, van der Hoeven JH, et al. Myoclonus subtypes in tertiary refe
 7. Record the article section or page location when research notes are prepared.
 8. Use paraphrase for the educational prose; quotations are evidence notes for the human author, not a substitute for explanation.
 
+## Functional cough detailed-page citation use map
+
+September 20, 2026: existing stable sources reused; no new source IDs. FND-CIT-0025 supports professional consensus, 0115 swallowing safety, 0129 cough terminology, and 0147 specialist ILO assessment. The latter two also support the symptom overview. These are not component-specific FND efficacy trials.
+
+| Page | Sources |
+| --- | --- |
+| [Noticing the Earliest Cough Urge](../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/01-noticing-the-earliest-urge.md) | FND-CIT-0025; FND-CIT-0129 |
+| [Using a Sip and Swallow When It Is Safe](../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/02-sip-and-swallow.md) | FND-CIT-0025; FND-CIT-0115 |
+| [Choosing One Comfortable Cough Substitute](../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/03-clinician-selected-substitute.md) | FND-CIT-0025; FND-CIT-0147 |
+| [Finding a Less Effortful Breathing Pattern](../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/04-relaxed-throat-breathing.md) | FND-CIT-0025; FND-CIT-0147 |
+| [Coordinating Gentle Lower-Rib Breathing](../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/05-lower-rib-coordination.md) | FND-CIT-0025; FND-CIT-0147 |
+| [Easing Repeated Throat Clearing](../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/06-reducing-throat-clearing.md) | FND-CIT-0025; FND-CIT-0129 |
+| [Returning to Activities With Graded Trigger Practice](../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/07-graded-trigger-practice.md) | FND-CIT-0025; FND-CIT-0147 |
+| [Making Daily Life Kinder to Your Throat](../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/08-hydration-and-laryngeal-care.md) | FND-CIT-0025 |
+| [Working With Attention, Worry and the Cough Urge](../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/09-attention-and-arousal-support.md) | FND-CIT-0025 |
+| [Keeping Other Causes and Conditions in the Care Plan](../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/10-treating-coexisting-conditions.md) | FND-CIT-0025; FND-CIT-0129; FND-CIT-0147 |
+
 <!-- NAV-CONTEXT:START -->
 **Research:** [Research and citation policy](../docs/project/research-and-citation-policy.md)
 

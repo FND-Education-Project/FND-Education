@@ -130,6 +130,8 @@ Do not use strong odours, smoke, cold air, exercise or emotional provocation to 
 [Research and Sources](#research-and-sources)
 ***
 
+**Recovery reading:** [Ten detailed cough and upper-airway recovery pages](../recovery-techniques/functional_cough_and_upper_airway_symptoms/README.md), with individualized safety limits and separate guidance for the person, supporters and clinicians.
+
 <!-- NAV-CONTEXT:START -->
 **Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/03-cough-breathing-and-upper-airway-symptoms.md)
 

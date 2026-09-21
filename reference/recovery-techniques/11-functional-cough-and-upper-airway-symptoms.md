@@ -14,11 +14,11 @@
 
 **Scope boundary:** This category does not include generic breathlessness or every chronic cough. Swallow-related coughing belongs in a swallowing and airway-safety assessment, and respiratory, cardiac, allergic, infectious, medication-related and structural causes still require appropriate evaluation.
 
-**Also described as:** functional cough, habit cough, somatic cough syndrome, functional throat clearing and inducible laryngeal or breathing symptoms. These labels overlap imperfectly; respiratory and laryngeal assessment determines which treatment is appropriate.
+**Terminology:** Functional cough, tic cough (historically called habit cough), somatic cough syndrome, chronic refractory cough and inducible laryngeal obstruction are not synonyms. ILO is not automatically FND. The diagnosis and respiratory/laryngeal assessment determine which treatment fits. See FND-CIT-0129 and FND-CIT-0147 below.
 
 Treatment often teaches the person to recognize an early cough or throat sensation, use a safer competing response, and return to comfortable breathing and voice. Asthma, reflux, allergy, infection and other causes must not be overlooked.
 
-**Evidence labels:** **R** research-supported · **C** clinical consensus · **E** emerging. FND-specific technique evidence is mainly professional consensus.
+**Evidence:** Professional consensus for FND-related care; evidence from adjacent diagnoses or whole treatment programmes does not prove each component separately. [Explore all ten detailed pages](functional_cough_and_upper_airway_symptoms/README.md).
 
 [For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
 
@@ -26,16 +26,16 @@ Treatment often teaches the person to recognize an early cough or throat sensati
 
 ### Techniques used in speech-language or respiratory therapy
 
-1. **Map the earliest urge — C.** Notice the first tickle, tightness, breath change, situation or throat-clear urge before the full cough begins. Track briefly enough to find an intervention point, not to monitor the throat all day.
-2. **Sip and swallow — C.** For some assessed patterns, take a small sip and complete one comfortable swallow instead of coughing or clearing repeatedly. Do not use this when swallowing safety is uncertain or when the person is choking.
-3. **Gentle nasal sniff or clinician-selected substitute — C.** A small nasal sniff, dry swallow, pursed-lip exhale or another specific response may interrupt the urge. Selection depends on the person’s respiratory, laryngeal and swallowing assessment.
-4. **Relaxed-throat breathing — C.** Release the jaw and shoulders and use quiet, efficient breathing taught by the clinician. Avoid repeated huge inhalations, which may worsen light-headedness or some breathing patterns.
-5. **Lower-rib or diaphragmatic coordination — C.** When indicated, practise gentle lower-rib movement and unforced exhalation at rest before applying it around triggers. The goal is coordinated breathing, not maximal breath depth.
-6. **Reduce habitual throat clearing — C.** Substitute one sip, swallow or gentle breath when safe, and address dryness or irritation. Repeated throat clearing can itself maintain irritation, but a new airway warning should never be suppressed without assessment.
-7. **Graded trigger exposure — C.** After medical causes and safety are reviewed, practise the selected response with a mild version of a familiar trigger, then progress slowly toward real situations. Do not provoke severe respiratory symptoms at home.
-8. **Hydration and laryngeal care — C.** Follow individualized advice about fluids, humidity, voice use and irritants. Generic rules may not suit fluid restrictions, reflux or occupational exposure.
-9. **CBT-informed attention and arousal strategies — C.** Where threat, vigilance or stress amplifies the urge, treatment may include attention shifting, paced exposure or psychological care. This does not imply that the cough is fabricated.
-10. **Treat coexisting conditions — C.** Asthma, eosinophilic disease, reflux, rhinitis, infection, medication effects and structural or neurological laryngeal problems need appropriate treatment.
+1. **[Map the earliest urge](functional_cough_and_upper_airway_symptoms/01-noticing-the-earliest-urge.md).** Notice the first tickle, tightness, breath change, situation or throat-clear urge before the full cough begins. Track briefly enough to find an intervention point, not to monitor the throat all day. **[Professional consensus; individual assessment required]**
+2. **[Sip and swallow](functional_cough_and_upper_airway_symptoms/02-sip-and-swallow.md).** For some assessed patterns, take a small sip and complete one comfortable swallow instead of coughing or clearing repeatedly. Do not use this when swallowing safety is uncertain or when the person is choking. **[Professional consensus; individual assessment required]**
+3. **[Gentle nasal sniff or clinician-selected substitute](functional_cough_and_upper_airway_symptoms/03-clinician-selected-substitute.md).** A small nasal sniff, dry swallow, pursed-lip exhale or another specific response may interrupt the urge. Selection depends on the person’s respiratory, laryngeal and swallowing assessment. **[Professional consensus; individual assessment required]**
+4. **[Relaxed-throat breathing](functional_cough_and_upper_airway_symptoms/04-relaxed-throat-breathing.md).** Release the jaw and shoulders and use quiet, efficient breathing taught by the clinician. Avoid repeated huge inhalations, which may worsen light-headedness or some breathing patterns. **[Professional consensus; individual assessment required]**
+5. **[Lower-rib or diaphragmatic coordination](functional_cough_and_upper_airway_symptoms/05-lower-rib-coordination.md).** When indicated, practise gentle lower-rib movement and unforced exhalation at rest before applying it around triggers. The goal is coordinated breathing, not maximal breath depth. **[Professional consensus; individual assessment required]**
+6. **[Reduce habitual throat clearing](functional_cough_and_upper_airway_symptoms/06-reducing-throat-clearing.md).** Substitute one sip, swallow or gentle breath when safe, and address dryness or irritation. Repeated throat clearing can itself maintain irritation, but a new airway warning should never be suppressed without assessment. **[Professional consensus; individual assessment required]**
+7. **[Graded trigger exposure](functional_cough_and_upper_airway_symptoms/07-graded-trigger-practice.md).** After medical causes and safety are reviewed, practise the selected response with a mild version of a familiar trigger, then progress slowly toward real situations. Do not provoke severe respiratory symptoms at home. **[Professional consensus; individual assessment required]**
+8. **[Hydration and laryngeal care](functional_cough_and_upper_airway_symptoms/08-hydration-and-laryngeal-care.md).** Follow individualized advice about fluids, humidity, voice use and irritants. Generic rules may not suit fluid restrictions, reflux or occupational exposure. **[Professional consensus; individual assessment required]**
+9. **[CBT-informed attention and arousal strategies](functional_cough_and_upper_airway_symptoms/09-attention-and-arousal-support.md).** Where threat, vigilance or stress amplifies the urge, treatment may include attention shifting, paced exposure or psychological care. This does not imply that the cough is fabricated. **[Professional consensus; individual assessment required]**
+10. **[Treat coexisting conditions](functional_cough_and_upper_airway_symptoms/10-treating-coexisting-conditions.md).** Asthma, eosinophilic disease, reflux, rhinitis, infection, medication effects and structural or neurological laryngeal problems need appropriate treatment. **[Professional consensus; individual assessment required]**
 
 ### If symptoms come in bouts or longer flares
 
@@ -85,7 +85,7 @@ Avoid generic breathwork that is not matched to the breathing phenotype. Coordin
 Throat clearing or cough-like sounds can occur in tic disorders as well as airway conditions. The sound alone cannot identify the cause. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
 
 
-## Research and Sources
+### Source for the tic boundary
 
 **Source for this boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
 
@@ -95,9 +95,11 @@ Throat clearing or cough-like sounds can occur in tic disorders as well as airwa
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
-## Research and evidence
+<a id="research-and-evidence"></a>
 
-The FND-specific techniques are drawn from international speech-language-therapy consensus (**FND-CIT-0025**). Related cough-suppression and laryngeal-control research exists in adjacent diagnoses, but the search did not find a controlled treatment trial specifically for functional cough or upper-airway symptoms within FND. The evidence label therefore remains clinical consensus rather than borrowed trial proof.
+## Research and Sources
+
+The FND-specific techniques are drawn from international speech-language-therapy consensus (**FND-CIT-0025**). Related cough-suppression and laryngeal-control research exists in adjacent diagnoses, but this collection does not establish controlled-trial support for each technique in an FND-specific population. The evidence label therefore remains clinical consensus rather than borrowed trial proof.
 
 No community-only technique was added. Recurring reports about sipping, swallowing and breathing matched professional guidance; more provocative or improvised methods lacked adequate safety support.
 
@@ -105,4 +107,7 @@ No community-only technique was added. Recurring reports about sipping, swallowi
 
 - **FND-CIT-0025:** Baker J, Barnett C, Cavalli L, et al. *Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.* JNNP. 2021;92(10):1112–1125. [doi:10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
 
-*Evidence search current to August 25, 2026 · Episodic-flare guidance added August 31, 2026 · Respiratory, laryngology and accessibility review pending*
+*Detailed-page source review: September 20, 2026 · Respiratory, laryngology, lived-experience and accessibility review pending*
+
+- **[FND-CIT-0129](../../research/citation-index.md#fnd-cit-0129):** Vertigan AE, Murad MH, Pringsheim T, et al. Somatic Cough Syndrome and Tic Cough in Adults and Children: CHEST Guideline and Expert Panel Report. *Chest*. 2015;148(1):24–31. [DOI](https://doi.org/10.1378/chest.15-0423). Diagnostic boundaries.
+- **[FND-CIT-0147](../../research/citation-index.md#fnd-cit-0147):** Haines J, Esposito K, Slinger C, et al. UK consensus statement on the diagnosis of inducible laryngeal obstruction in light of the COVID-19 pandemic. *Clinical & Experimental Allergy*. 2020;50(12):1287–1293. [DOI](https://doi.org/10.1111/cea.13745). Specialist diagnostic assessment; historical pandemic guidance.

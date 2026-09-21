@@ -30,7 +30,7 @@ The first thirteen symptom lists were additionally checked against their initial
 | [Functional Visual Symptoms](../../reference/recovery-techniques/08-functional-visual-symptoms.md) | 9 | 9 | Nine original entries expanded one-to-one; no additional pages. |
 | [Functional Speech and Voice Symptoms](../../reference/recovery-techniques/09-functional-speech-and-voice-symptoms.md) | 11 | 11 | Eleven original entries expanded one-to-one; no additional pages. |
 | [Functional Swallowing Symptoms and Globus](../../reference/recovery-techniques/10-functional-swallowing-and-globus.md) | 11 | 11 | Eleven original entries expanded one-to-one; the September 16 audit incorrectly reported ten for swallowing. |
-| [Functional Cough and Upper-Airway Symptoms](../../reference/recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md) | 10 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
+| [Functional Cough and Upper-Airway Symptoms](../../reference/recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md) | 10 | 10 | Ten original entries expanded one-to-one; collection overview is an additional navigation document. |
 | [Functional Cognitive Disorder](../../reference/recovery-techniques/12-functional-cognitive-disorder.md) | 13 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
 | [Persistent Postural-Perceptual Dizziness](../../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md) | 12 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
 | [Functional Facial Symptoms](../../reference/recovery-techniques/14-functional-facial-symptoms.md) | 8 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
@@ -236,6 +236,23 @@ Added September 17, 2026, after the original sixteen lists. There was no separat
 8. Tic-attack, cluster and flare planning — supporting safety/access/care planning.
 
 Eight overview entries; zero detailed technique pages. These are not eight proven treatments. Any later expansion must map splits, combinations and new additions against this list. The historical sixteen-list tables above remain unchanged.
+
+## Functional cough and upper-airway symptoms
+
+Checked September 20, 2026: the initial list at `a67567b`, pre-expansion baseline `74138f34797ae840f794f0c809da64fad30dc401`, and immediate base `7d3cc15` each contain the same ten entries. Ten detailed pages preserve every entry and example; no added interventions, splits, combinations or omissions. The README adds one navigation document, making eleven documents in the folder.
+
+| Original entry | Detailed destination |
+| --- | --- |
+| 1. Map the earliest urge | [Noticing the Earliest Cough Urge](../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/01-noticing-the-earliest-urge.md) |
+| 2. Sip and swallow | [Using a Sip and Swallow When It Is Safe](../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/02-sip-and-swallow.md) |
+| 3. Gentle nasal sniff or clinician-selected substitute | [Choosing One Comfortable Cough Substitute](../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/03-clinician-selected-substitute.md) |
+| 4. Relaxed-throat breathing | [Finding a Less Effortful Breathing Pattern](../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/04-relaxed-throat-breathing.md) |
+| 5. Lower-rib or diaphragmatic coordination | [Coordinating Gentle Lower-Rib Breathing](../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/05-lower-rib-coordination.md) |
+| 6. Reduce habitual throat clearing | [Easing Repeated Throat Clearing](../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/06-reducing-throat-clearing.md) |
+| 7. Graded trigger exposure | [Returning to Activities With Graded Trigger Practice](../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/07-graded-trigger-practice.md) |
+| 8. Hydration and laryngeal care | [Making Daily Life Kinder to Your Throat](../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/08-hydration-and-laryngeal-care.md) |
+| 9. CBT-informed attention and arousal strategies | [Working With Attention, Worry and the Cough Urge](../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/09-attention-and-arousal-support.md) |
+| 10. Treat coexisting conditions | [Keeping Other Causes and Conditions in the Care Plan](../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/10-treating-coexisting-conditions.md) |
 
 <!-- NAV-CONTEXT:START -->
 **Related:** [Recovery collection guide](../../reference/recovery-techniques/collection-guide.md) · [Technique index](../../reference/recovery-techniques/technique-index.md) · [Page maintenance policy](repository-change-and-page-maintenance-policy.md)

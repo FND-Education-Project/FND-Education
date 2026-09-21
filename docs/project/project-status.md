@@ -84,6 +84,8 @@ Module 1 remains the wording and structure model for later human edits:
 4. [Remission, Recovery, and What Improvement Can Mean](../../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md)
 5. [Available Capacity, Spoons, and Early Action](../../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md)
 
+**[Functional cough and upper-airway symptoms: ten detailed recovery pages](../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/README.md)** — all ten original entries expanded one-to-one, plus a collection overview. Assessed cough responses, breathing coordination, everyday care and coexisting conditions; professional-consensus evidence with diagnostic and airway-safety boundaries. Added September 20, 2026; human review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 
