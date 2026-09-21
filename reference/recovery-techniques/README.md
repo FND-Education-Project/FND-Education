@@ -37,6 +37,8 @@ The collection now covers **17 symptom presentations**, including motor and voca
 
 **[Functional cough and upper-airway symptoms: ten detailed recovery pages](functional_cough_and_upper_airway_symptoms/README.md)** — all ten original entries expanded one-to-one, plus a collection overview. Assessed cough responses, breathing coordination, everyday care and coexisting conditions; professional-consensus evidence with diagnostic and airway-safety boundaries. Added September 20, 2026; human review pending.
 
+**[Functional Cognitive Disorder: thirteen detailed recovery pages](functional_cognitive_disorder/README.md)** — thirteen original entries expanded one-to-one, plus a collection overview. Practical memory and attention support, individualized rehabilitation and clearly labelled early research options. Added September 21, 2026; human review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Reference Library](../README.md) · [Reference Index](../reference-index.md) · [Diagnostic Techniques](../diagnostic-signs/README.md)
 

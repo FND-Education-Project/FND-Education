@@ -117,6 +117,8 @@ Treat contributing conditions and reduce cognitive load. Consider occupational t
 [Research and Sources](#research-and-sources)
 ***
 
+**Recovery reading:** [Thirteen detailed Functional Cognitive Disorder recovery pages](../../../reference/recovery-techniques/functional_cognitive_disorder/README.md), with practical support, individual safety limits and clear distinctions between clinical guidance and early research.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Dissociation and Altered Awareness →](02-dissociation-and-altered-awareness.md)
 

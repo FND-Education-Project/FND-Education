@@ -127,6 +127,8 @@ Show how the clinician looks for a meaningful pattern across all four, rather th
 [Research and Sources](#research-and-sources)
 ***
 
+**Recovery reading:** [Thirteen detailed Functional Cognitive Disorder recovery pages](../recovery-techniques/functional_cognitive_disorder/README.md), with practical support, individual safety limits and clear distinctions between clinical guidance and early research.
+
 <!-- NAV-CONTEXT:START -->
 **Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/12-functional-cognitive-disorder.md) · [Related course page](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
 

@@ -652,6 +652,23 @@ Use the sections below to drill down into the course, reference library, researc
 - [Working With Attention, Worry and the Cough Urge](reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/09-attention-and-arousal-support.md)
 - [Keeping Other Causes and Conditions in the Care Plan](reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/10-treating-coexisting-conditions.md)
 
+## Functional Cognitive Disorder recovery collection
+
+- [Collection overview](reference/recovery-techniques/functional_cognitive_disorder/README.md)
+- [Understanding Your Cognitive Assessment](reference/recovery-techniques/functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md)
+- [Taking a Break From Repeated Memory Tests](reference/recovery-techniques/functional_cognitive_disorder/02-reducing-self-testing.md)
+- [Finding Reassurance That Still Helps](reference/recovery-techniques/functional_cognitive_disorder/03-reassurance-without-loops.md)
+- [Giving One Task Your Attention](reference/recovery-techniques/functional_cognitive_disorder/04-attending-to-one-task.md)
+- [Comparing What You Expect With What Happens](reference/recovery-techniques/functional_cognitive_disorder/05-prediction-and-performance.md)
+- [Keeping a Small Record of What Helped](reference/recovery-techniques/functional_cognitive_disorder/06-noticing-what-helped.md)
+- [Returning to Reading, Conversation and Other Valued Tasks](reference/recovery-techniques/functional_cognitive_disorder/07-returning-to-meaningful-tasks.md)
+- [Building a Memory System You Can Actually Use](reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md)
+- [Making the Day Easier With Routines and Pacing](reference/recovery-techniques/functional_cognitive_disorder/09-single-task-routines-and-pacing.md)
+- [Keeping Other Contributors in the Care Plan](reference/recovery-techniques/functional_cognitive_disorder/10-contributors-and-coexisting-conditions.md)
+- [Considering an Online ACT Group](reference/recovery-techniques/functional_cognitive_disorder/11-online-group-act.md)
+- [Considering FCD-Specific Digital Self-Help](reference/recovery-techniques/functional_cognitive_disorder/12-digital-self-help.md)
+- [Planning Individual Cognitive Rehabilitation](reference/recovery-techniques/functional_cognitive_disorder/13-individual-cognitive-rehabilitation.md)
+
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](README.md) · [Course](course/README.md) · [Reference Library](reference/README.md) · [Site Map](SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
