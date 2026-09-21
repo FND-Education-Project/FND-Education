@@ -1,8 +1,10 @@
-# Building a Memory System You Can Actually Use
+# Building a Thinking and Memory System You Can Actually Use
 
 [Home](../../../README.md) › [Recovery Techniques](../README.md) › [Functional Cognitive Disorder](README.md)
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+
+**Background:** [Everything We Know About FCD](../../functional-cognitive-disorder.md) — the concepts behind this page.
 
 **When this may fit:** When appointments, objects, instructions or unfinished tasks need a reliable place outside memory. **[Clinical guidance; individual technique efficacy not established]**
 
@@ -11,6 +13,20 @@
 ## For the Person With FND
 
 A reminder is useful even when you understand perfectly why you forgot. You do not have to earn the right to use one, and you do not need to stop using it to show improvement. The best system is often the simplest one you can find and use on a difficult day.
+
+### More than reminders: external cognitive supports
+
+An external support carries some of the thinking outside your head. It can help information register, keep a step available, cue an action at the right time or help you restart. These are practical adaptations of rehabilitation guidance, not separately proven FCD treatments. (*citation* [1](#citation-1))
+
+| Difficulty | A support to try |
+| --- | --- |
+| Information does not register clearly—encoding. | Ask for a short written summary while the information is available. |
+| Remembering to act later—prospective memory. | Use a reminder that says what to do and when. |
+| Losing the sequence or your place. | Put short steps beside the task; mark “next: …” before a break. |
+| Finding a name or placing a person. | With permission, keep names, context and labelled photographs if photos are helpful. Ask people to introduce themselves with context. |
+| Visual recall or imagery is difficult. | Use an actual picture, written description, spoken cue or labelled layout rather than relying on a mental picture. Choose what remains accessible. |
+
+A photo may not help when recognition itself is difficult. A spoken name and context may be more useful. New recognition problems need assessment, not just another aid. Using support does not in itself “weaken memory,” and aids need not be removed to prove recovery. Their benefit does not identify the cause of the difficulty.
 
 ### A manageable way to begin
 
@@ -29,7 +45,7 @@ When symptoms are worse, use fewer steps, larger text or another accessible form
 
 ### When to seek assessment
 
-Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. Progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
+Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. New difficulty recognizing highly familiar people, progressive loss of familiar knowledge, major visual-spatial change, progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
 

@@ -4,6 +4,8 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Background:** [Everything We Know About FCD](../../functional-cognitive-disorder.md) — the concepts behind this page.
+
 **When this may fit:** When repeated requests for certainty bring only brief relief, after unmet information needs have been addressed. **[Clinical guidance; individual technique efficacy not established]**
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
@@ -37,6 +39,11 @@ Several needs can occur together. Neither the person nor a supporter has to sort
 
 Where this pattern is present, another assurance may offer only brief relief. The intended change is to support the person through the returning worry without needing a new guarantee each time. This idea comes partly from work on health anxiety; it does not mean that FCD is health anxiety or that the memory difficulty is imagined. (*citation* [3](#citation-3))
 
+### Where reassurance fits
+
+A frightening cognitive lapse can leave a worry that returns even after an answer was understood and remembered. Seeking the same assurance may briefly ease that worry, then become a loop that takes time and attention. This is one possible maintaining process after symptoms begin; it does not explain everybody's FCD. Asking again because you forgot, missed or did not understand the answer is an information need. Keep providing that information. This approach is optional, and benefit would not establish the cause of the cognitive problem. (*citations* [1](#citation-1), [2](#citation-2))
+
+
 ### What is the technique, in practice?
 
 1. **Make sure the question has actually been answered.** Discuss the concern with your clinician. Check that the explanation is understandable, accessible and includes when to seek review.
@@ -58,7 +65,7 @@ During a familiar flare, fewer words and one trusted note may help. If the note 
 
 ### When to seek assessment
 
-Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. Progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
+Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. New difficulty recognizing highly familiar people, progressive loss of familiar knowledge, major visual-spatial change, progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
 

@@ -124,6 +124,12 @@ Co-create grounding or episode strategies that the patient finds tolerable. Trau
 
 ***
 
+### A limited structural-imaging finding
+
+In the Perez motor-FND study, the whole group showed no corrected cortical-thickness difference. Higher somatoform dissociation related to thinner left caudal ACC; greater depersonalization/derealization related to thicker right lateral occipital cortex. These cross-sectional associations neither establish cause nor explain FCD visual symptoms. See [Module 3](../../part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md#what-a-structural-imaging-study-can-show) for the sample and visual-association interpretation, including imagery and visual working memory. (*citation* [2](#citation-2))
+
+[Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
+
 ## Research and Sources
 
 The review combines many study designs and FND subgroups. It supports asking about dissociation but not using a questionnaire score as a stand-alone diagnosis or assuming one mechanism. (*citation* [1](#citation-1))
@@ -131,6 +137,7 @@ The review combines many study designs and FND subgroups. It supports asking abo
 | Citation | Figure | Full citation |
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | Figure 1 | Campbell MC, Smakowski A, Rojas-Aguiluz M, et al. Dissociation and its biological and clinical associations in functional neurological disorder: systematic review and meta-analysis. *BJPsych Open*. 2023;9(1):e2. [FND-CIT-0072](../../../research/citation-index.md#fnd-cit-0072). [https://doi.org/10.1192/bjo.2022.597](https://doi.org/10.1192/bjo.2022.597) |
+| <a id="citation-2"></a>**[2]** | — | Perez DL, Matin N, Williams B, et al. Cortical thickness alterations linked to somatoform and psychological dissociation in functional neurological disorders. *Human Brain Mapping*. 2018;39(1):428–439. [DOI](https://doi.org/10.1002/hbm.23853). [FND-CIT-0190](../../../research/citation-index.md#fnd-cit-0190). Motor-FND sample, not FCD; no causal or individual diagnostic inference. |
 
 This page still needs review by people with dissociative experiences, neurologists, psychologists, psychiatrists, trauma specialists and accessibility reviewers.
 

@@ -4,6 +4,8 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Background:** [Everything We Know About FCD](../../functional-cognitive-disorder.md) — the concepts behind this page.
+
 **When this may fit:** When cognitive symptoms have interrupted an activity you want to resume or adapt. **[Clinical guidance; individual technique efficacy not established]**
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
@@ -11,6 +13,12 @@
 ## For the Person With FND
 
 You may miss reading for pleasure, joining a conversation or managing part of your day. Returning does not have to mean doing it exactly as before. A smaller version, a different format or help from someone else can be a worthwhile starting point.
+
+### Why practise an ordinary activity?
+
+A familiar activity brings several processes together: taking in information, holding the next step, retrieving knowledge and following a sequence. Practice in the setting where you need the skill can show what makes participation possible. You do not need certainty about the exact mechanism before receiving this help.
+
+Restorative practice (aiming to improve ability), compensation (using a cue or another route) and accommodation (changing demands) can work together. Reading one paragraph with notes is still reading. Increase demands only in response to what is manageable, including the later cost; supported success counts. A response to practice does not prove what caused FCD. (*citation* [1](#citation-1))
 
 ### A manageable way to begin
 
@@ -29,7 +37,7 @@ In a familiar flare, pause high-consequence tasks and return later to a smaller 
 
 ### When to seek assessment
 
-Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. Progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
+Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. New difficulty recognizing highly familiar people, progressive loss of familiar knowledge, major visual-spatial change, progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
 

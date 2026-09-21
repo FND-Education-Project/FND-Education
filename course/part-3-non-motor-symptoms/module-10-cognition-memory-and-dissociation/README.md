@@ -10,12 +10,15 @@ Thinking problems can be as disabling as movement symptoms. This module separate
 
 ## What this module teaches
 
-- **Cognition** includes attention, thinking speed, finding words, planning and memory.
+- **Cognition** includes attention, encoding, working memory, thinking speed, language access, recognition, visual/nonverbal recall, imagery and executive functions. These are assessment domains, not a list of hallmark FCD symptoms.
 - A memory problem can begin earlier than memory: if attention does not take information in, there is less to remember later.
 - **Functional Cognitive Disorder (FCD)** is one possible diagnosis, not a label for every cognitive symptom in someone with FND.
 - **Dissociation** can involve feeling detached, unreal or less aware. It overlaps with FND for some people, but not everyone.
-- Sleep, pain, migraine, fatigue, medication, mood and other neurological or medical conditions may contribute.
+- Sleep, pain, migraine, fatigue, ADHD, sensory impairment, medication, mood and other conditions may independently affect cognition or coexist with FCD; they are not automatically FCD.
+- Attention/load, monitoring and prediction are working models with limits, not one established cause.
 - A new, rapid or progressive change still needs appropriate assessment. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+**Background reference:** [Everything We Know About FCD](../../../reference/functional-cognitive-disorder.md), including face recognition, visual recall, imagery and supported recovery.
 
 ## Pages
 

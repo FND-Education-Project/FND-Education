@@ -33,7 +33,7 @@ If you have been recently diagnosed, you might be wondering if your symptoms are
 
 > The biggest question everyone has is, **"Is FND a psychological disorder??"** Emphatically, *No!* 
 
-There is now building evidence that FND changes the brain but not in easily measured ways. One research paper shows thinning and thickening in parts of the brain and another study in children with functional seizures shows changes in the way our brain chemicals interact with one another. The important thing to know is **Your symptoms ARE REAL** and they are not faked or imaginary. (*citations* [2](#citation-2), [3](#citation-3), [5](#citation-5), [6](#citation-6), [9](#citation-9))
+Researchers have found differences in brain structure, activity or chemistry when groups of people with FND are compared with other groups. These findings are still being studied. They cannot yet diagnose FND in one person or tell us whether a difference caused FND or developed afterward. The chemistry study cited here involved young people with functional seizures; it does not speak for everyone with FND. The important thing to know is **Your symptoms ARE REAL** and they are not faked or imaginary. (*citations* [2](#citation-2), [3](#citation-3), [5](#citation-5), [6](#citation-6), [9](#citation-9))
 
 So what does [functional](../../../glossary/README.md#functional) actually mean? In short it describes how your nervous system is processing motor and sensory information. In FND there is a problem with how our brain and nervous system interact. FND belongs to a wider family of overlapping functional disorders that can include fibromyalgia, chronic fatigue and irritable bowel syndrome. (*citations* [1](#citation-1), [3](#citation-3), [13](#citation-13)) 
 
@@ -187,9 +187,9 @@ This free online course is contributed to by those with lived experience in Func
 *Last reviewed: August 26, 2026*
 
 <details>
-<summary><strong>Author accuracy review — suggested wording not yet applied</strong></summary>
+<summary><strong>Author accuracy review — brain-research wording updated; other suggestions pending</strong></summary>
 
-These notes are for the author and reviewers. They identify wording that may overstate the evidence, blur an important distinction, or be misunderstood. The suggested replacements are written in the course's direct, plain-language tone. They have not been inserted into the lesson.
+These notes are for the author and reviewers. They identify wording that may overstate the evidence, blur an important distinction, or be misunderstood. The suggested replacements are written in the course's direct, plain-language tone. The brain-research wording in item 2 was updated with the project lead’s authorization on September 21, 2026. Other suggested replacements have not been inserted into the lesson.
 
 ### 1. What tests can and cannot establish
 
@@ -198,6 +198,8 @@ These notes are for the author and reviewers. They identify wording that may ove
 **Suggested wording:**
 
 > If you have been recently diagnosed, you might still wonder whether your symptoms really are FND. You may have had tests to look for other medical or neurological conditions. Those tests do not prove that a symptom is functional, and anxiety, depression, trauma, or another psychological condition does not rule FND in or out. FND should be diagnosed from positive clinical signs. Unfortunately, some people are still given the diagnosis without those signs being clearly shown or explained.
+
+**Item 2 status:** Group-level and causal limits now appear in the lesson; clinical review remains pending.
 
 ### 2. What “FND changes the brain” can mean
 

@@ -34,6 +34,14 @@ FND research has examined or discussed networks involved in:
 
 Studies have reported group differences in several of these areas, but not every proposed process has been tested directly and the findings are not uniform. A difference on a research brain scan may help scientists form and test ideas, but it is not automatically a cause, a diagnostic biomarker or an explanation that applies to every participant. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
+### What a structural imaging study can show
+
+Perez and colleagues compared 26 motor-FND patients with 27 controls. There was **no whole-brain-corrected cortical-thickness difference for the complete FND group**. Higher somatoform dissociation—a questionnaire measure concerning disrupted bodily experiences—was linked to thinner **left caudal anterior cingulate cortex (ACC)**, in a high-score subgroup comparison and within-group analysis. Greater depersonalization/derealization was associated with thicker **right lateral occipital cortex**, not right ACC. (*citation* [6](#citation-6))
+
+The caudal ACC participates in integrating cognitive control, sensory/body information, affect and nociception (processing potentially harmful stimuli); it is not an FND centre. The paper discusses lateral occipital cortex in relation to higher-order visual processing, imagery and visual working memory. These are interpretations, not demonstrated explanations of FCD visual complaints.
+
+This small cross-sectional motor-FND study was not an FCD study. Associations cannot determine cause, provide an individual diagnostic biomarker or identify a treatment target. Structural and functional research can coexist without making either a complete explanation. (*citation* [6](#citation-6))
+
 ### What do prediction and sensory evidence mean?
 
 **Predictive processing** is a proposed way of describing how the nervous system combines expectations with incoming information. In simple terms, the brain anticipates what a signal probably means and checks that anticipation against **sensory evidence** from the body and surroundings. (*citations* [1](#citation-1), [3](#citation-3))
@@ -184,6 +192,7 @@ The broad Hallett review and Drane perspective describe developing network and p
 | <a id="citation-3"></a>**[3]** | Figure 1 | Drane DL, Fani N, Hallett M, Khalsa SS, Perez DL, Roberts NA. A framework for understanding the pathophysiology of functional neurological disorder. *CNS Spectrums*. 2021;26(6):555–561. [FND-CIT-0006](../../../research/citation-index.md#fnd-cit-0006). [https://doi.org/10.1017/S1092852920001789](https://doi.org/10.1017/S1092852920001789) |
 | <a id="citation-4"></a>**[4]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
 | <a id="citation-5"></a>**[5]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
+| <a id="citation-6"></a>**[6]** | — | Perez DL, Matin N, Williams B, et al. Cortical thickness alterations linked to somatoform and psychological dissociation in functional neurological disorders. *Human Brain Mapping*. 2018;39(1):428–439. [DOI](https://doi.org/10.1002/hbm.23853). [FND-CIT-0190](../../../research/citation-index.md#fnd-cit-0190). Motor-FND/dissociation associations; not causal evidence or an FCD biomarker. |
 
 This page still needs review by people with FND, supporters, clinicians and researchers, especially to ensure that proposed models remain clearly separate from diagnostic evidence.
 

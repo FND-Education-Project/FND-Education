@@ -4,6 +4,8 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Background:** [Everything We Know About FCD](../../functional-cognitive-disorder.md) — the concepts behind this page.
+
 **When this may fit:** When unplanned quizzes, internet tests or restarting have become more burdensome than helpful. **[Clinical guidance; individual technique efficacy not established]**
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
@@ -32,6 +34,11 @@ The difference is the purpose and effect of the checking, not a fixed number of 
 
 Continually watching and testing memory can draw attention away from the conversation or activity you are trying to follow. For some people, a reassuring result also settles worry only briefly, so another test soon feels necessary. The aim is to free attention and time for daily life, not to ignore genuine difficulties. This is a possible maintaining pattern, not an explanation for everyone’s FCD. (*citations* [2](#citation-2), [3](#citation-3), [4](#citation-4))
 
+### Which process might this help?
+
+This page addresses **performance monitoring**: attention repeatedly turning from an activity to checking whether your mind is working. After real lapses, that response is understandable. In some people it adds load and keeps uncertainty going. It is a possible maintaining process, not an explanation for everyone's FCD or its original cause. The aim is to free attention for the activity when this pattern fits. Improvement would not prove that monitoring caused the disorder. Keep needed rereading, information and safety checks. (*citations* [1](#citation-1), [2](#citation-2))
+
+
 ### How is this different from the next page?
 
 Here, you check your own performance. On the [reassurance page](03-reassurance-without-loops.md), the main issue is repeatedly seeking an answer or assurance from someone else. Both may be attempts to settle the same worry, so they can be addressed together. They are described separately because changing a personal testing habit differs from agreeing how another person should respond.
@@ -55,7 +62,7 @@ On a difficult day, use shorter instructions and familiar aids. If resisting a t
 
 ### When to seek assessment
 
-Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. Progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
+Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. New difficulty recognizing highly familiar people, progressive loss of familiar knowledge, major visual-spatial change, progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
 

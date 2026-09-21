@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="660" viewBox="0 0 1000 660" role="img" aria-labelledby="title desc">
+<title id="title">Cognitive processes, contributors and a possible maintaining loop</title>
+<desc id="desc">A meaningful task draws on cognitive processes. Difficulty can lead to a lapse. In some people monitoring or predictions after a lapse add demands to the processes. Migraine, pain, fatigue, sleep and other contributors affect cognition but are not automatically FCD. These are possible relationships, not a diagnostic model.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0 0 L10 4 L0 8" fill="#45657a"/></marker></defs>
+<rect width="1000" height="660" fill="#f8fafc"/>
+<g font-family="Arial, sans-serif" fill="#182c3d">
+<text x="36" y="42" font-size="28" font-weight="700">Thinking involves several processes</text>
+<rect x="36" y="75" width="560" height="66" rx="14" fill="#e5f2f4" stroke="#45657a" stroke-width="2"/>
+<text x="58" y="112" font-size="21">A task that matters to you</text>
+<rect x="36" y="188" width="560" height="122" rx="14" fill="#e5f2f4" stroke="#45657a" stroke-width="2"/>
+<text x="58" y="225" font-size="21">Attention, encoding, working memory,</text>
+<text x="58" y="254" font-size="21">retrieval, recognition and executive work</text>
+<text x="58" y="283" font-size="21">Difficulty here may disrupt the task</text>
+<rect x="655" y="172" width="310" height="160" rx="14" fill="#fff0d7" stroke="#45657a" stroke-width="2"/>
+<text x="677" y="209" font-size="21">Other contributors</text>
+<text x="677" y="238" font-size="21">Migraine, pain, fatigue,</text>
+<text x="677" y="267" font-size="21">sleep, medicines and more</text>
+<text x="655" y="363" font-size="20" font-weight="700">Not automatically FCD</text>
+<rect x="36" y="362" width="560" height="66" rx="14" fill="#e5f2f4" stroke="#45657a" stroke-width="2"/>
+<text x="58" y="399" font-size="21">A lapse or unfinished task</text>
+<rect x="36" y="485" width="560" height="94" rx="14" fill="#e5f2f4" stroke="#45657a" stroke-width="2"/>
+<text x="58" y="522" font-size="21">Possible monitoring or prediction loop</text>
+<text x="58" y="551" font-size="21">Only when this fits the person</text>
+<path d="M316 141 L316 184" fill="none" stroke="#45657a" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M316 310 L316 358" fill="none" stroke="#45657a" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M316 428 L316 481" fill="none" stroke="#45657a" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M655 248 L600 248" fill="none" stroke="#45657a" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M596 532 L624 532 L624 291 L600 291" fill="none" stroke="#45657a" stroke-width="3" marker-end="url(#arrow)" stroke-dasharray="8 7"/>
+<text x="648" y="482" font-size="20">For some people,</text>
+<text x="648" y="511" font-size="20">monitoring adds load</text>
+<text x="648" y="540" font-size="20">back into the task</text>
+<text x="36" y="622" font-size="21">A working model, not a diagnostic test or one proven cause.</text>
+</g></svg>

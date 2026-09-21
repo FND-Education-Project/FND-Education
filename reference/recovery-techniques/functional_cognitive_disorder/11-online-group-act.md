@@ -4,6 +4,8 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Background:** [Everything We Know About FCD](../../functional-cognitive-disorder.md) — the concepts behind this page.
+
 **When this may fit:** When a person wants therapist-led help with symptom interference and valued activities, and an appropriate group is available. **[Emerging evidence; randomized feasibility study, not proof of efficacy]**
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
@@ -29,7 +31,7 @@ If a session or inward-focused exercise makes symptoms or distress worse, tell t
 
 ### When to seek assessment
 
-Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. Progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
+Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. New difficulty recognizing highly familiar people, progressive loss of familiar knowledge, major visual-spatial change, progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
 
@@ -50,6 +52,8 @@ Agree a written next step, accessible prompts and a review point. Assess symptom
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
 
 ## Research and Sources
+
+Benefit from ACT would not establish that psychological factors, beliefs or excessive monitoring caused FCD. Package-level findings also cannot establish which component helped.
 
 This page expands original entry 11, **Online group ACT**. Everyday examples are illustrations, not patient quotations. Practical steps are educational adaptations of the clinical approach; they are not a reproduced trial protocol or an individually validated treatment. Evidence for a whole programme must not be transferred to each component.
 

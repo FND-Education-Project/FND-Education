@@ -4,6 +4,8 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Background:** [Everything We Know About FCD](../../functional-cognitive-disorder.md) — the concepts behind this page.
+
 **When this may fit:** When sleep, pain, fatigue, migraine, medicines or another condition may be adding to cognitive difficulty. **[Clinical guidance; individual technique efficacy not established]**
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
@@ -11,6 +13,12 @@
 ## For the Person With FND
 
 Having FCD should not close the door on other explanations or treatments. Poor sleep, pain or difficulty hearing can make a conversation harder to follow, while medication effects or another illness may also matter. Sorting this out is a shared clinical task, not something you must diagnose alone.
+
+### These conditions are not automatically FCD
+
+Migraine, chronic pain, fatigue, poor sleep, ADHD, mood disorders, medicine effects, sensory impairment and neurological illness may independently cause cognitive symptoms, coexist with FCD, or worsen an established functional pattern. They are not components of FCD simply because thinking becomes harder when they are present.
+
+For example, treatment that makes migraine less frequent might leave more days when reading is manageable. That matters, even if another cognitive difficulty remains. Improvement would not show that migraine caused FCD—or that every previous lapse was functional. Keep both questions in the care plan. See [Module 11: Pain, Migraine, Fatigue, and Sleep](../../../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/README.md). (*citations* [1](#citation-1), [2](#citation-2))
 
 ### A manageable way to begin
 
@@ -29,7 +37,7 @@ If a familiar flare follows poor sleep or migraine, use your established plan an
 
 ### When to seek assessment
 
-Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. Progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
+Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. New difficulty recognizing highly familiar people, progressive loss of familiar knowledge, major visual-spatial change, progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
 

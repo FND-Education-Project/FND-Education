@@ -86,10 +86,12 @@ Module 1 remains the wording and structure model for later human edits:
 
 **[Functional cough and upper-airway symptoms: ten detailed recovery pages](../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/README.md)** — all ten original entries expanded one-to-one, plus a collection overview. Assessed cough responses, breathing coordination, everyday care and coexisting conditions; professional-consensus evidence with diagnostic and airway-safety boundaries. Added September 20, 2026; human review pending.
 
-**[Functional Cognitive Disorder: thirteen detailed recovery pages](../../reference/recovery-techniques/functional_cognitive_disorder/README.md)** — thirteen original entries expanded one-to-one, plus a collection overview. Practical memory and attention support, individualized rehabilitation and clearly labelled early research options. Added September 21, 2026; human review pending.
+**[Functional Cognitive Disorder: thirteen detailed recovery pages](../../reference/recovery-techniques/functional_cognitive_disorder/README.md)** — thirteen original entries expanded one-to-one, plus a collection overview. Cognitive-process support, individualized rehabilitation and clearly labelled early research options. The additional [Everything We Know About FCD](../../reference/functional-cognitive-disorder.md) background page keeps the diagnostic and recovery landings concise. Thirteen original-entry pages plus one collection overview and one separate background document; no new intervention. Updated September 21, 2026; human review pending.
 
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+FCD framework alignment, September 21, 2026: added a separate background page and conceptual SVG; grouped the original thirteen recovery entries; broadened Module 10, diagnostic scope and support examples; bounded the motor-FND/dissociation MRI evidence in Module 3 and the dissociation lesson. Added FND-CIT-0190–0191. Applied only the authorized brain-research accuracy edit within the human-authored Module 1 lesson. No Module 11 disease explanations were changed. Clinical, lived-experience and accessibility review remains pending.

@@ -194,19 +194,19 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 ### [Functional Cognitive Disorder](12-functional-cognitive-disorder.md)
 
-- **[Understanding Memory and Thinking Difficulties in FCD](functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md)** — Explains memory and other thinking difficulties and connects them with practical support. **[Foundation for recovery; educational guidance, not a memory-training exercise]**
-- **[Taking a Break From Repeated Memory Tests](functional_cognitive_disorder/02-reducing-self-testing.md)** — When repeatedly testing your own recall to check whether memory works has become distressing or disruptive; keep necessary checks and reminders. **[Clinical guidance; individual technique efficacy not established]**
-- **[Finding Reassurance That Still Helps](functional_cognitive_disorder/03-reassurance-without-loops.md)** — When asking someone else for the same assurance briefly settles a worry that soon returns; distinguish this from forgetting or not understanding the answer. **[Clinical guidance; individual technique efficacy not established]**
-- **[Giving One Task Your Attention](functional_cognitive_disorder/04-attending-to-one-task.md)** — When competing sounds, screens, thoughts or tasks make it hard to take information in. **[Clinical guidance; individual technique efficacy not established]**
-- **[Comparing What You Expect With What Happens](functional_cognitive_disorder/05-prediction-and-performance.md)** — When a strongly negative prediction makes a modest, safe task feel impossible. **[Clinical guidance; individual technique efficacy not established]**
-- **[Keeping a Small Record of What Helped](functional_cognitive_disorder/06-noticing-what-helped.md)** — When difficulties dominate recall and useful strategies or moments of participation are easily lost. **[Clinical guidance; individual technique efficacy not established]**
-- **[Returning to Reading, Conversation and Other Valued Tasks](functional_cognitive_disorder/07-returning-to-meaningful-tasks.md)** — When cognitive symptoms have interrupted an activity you want to resume or adapt. **[Clinical guidance; individual technique efficacy not established]**
-- **[Building a Memory System You Can Actually Use](functional_cognitive_disorder/08-external-memory-supports.md)** — When appointments, objects, instructions or unfinished tasks need a reliable place outside memory. **[Clinical guidance; individual technique efficacy not established]**
-- **[Making the Day Easier With Routines and Pacing](functional_cognitive_disorder/09-single-task-routines-and-pacing.md)** — When rapid switching or poorly timed demands leave too little capacity for the next task. **[Clinical guidance; individual technique efficacy not established]**
-- **[Keeping Other Contributors in the Care Plan](functional_cognitive_disorder/10-contributors-and-coexisting-conditions.md)** — When sleep, pain, fatigue, migraine, medicines or another condition may be adding to cognitive difficulty. **[Clinical guidance; individual technique efficacy not established]**
-- **[Considering an Online ACT Group](functional_cognitive_disorder/11-online-group-act.md)** — When a person wants therapist-led help with symptom interference and valued activities, and an appropriate group is available. **[Emerging evidence; randomized feasibility study, not proof of efficacy]**
-- **[Considering FCD-Specific Digital Self-Help](functional_cognitive_disorder/12-digital-self-help.md)** — When a person prefers flexible self-help and can access a suitable programme with an agreed clinical follow-up plan. **[Emerging evidence; uncontrolled feasibility study, not proof of efficacy]**
-- **[Planning Individual Cognitive Rehabilitation](functional_cognitive_disorder/13-individual-cognitive-rehabilitation.md)** — When needs are complex, basic adaptations are insufficient or a person needs support applying strategies in daily life. **[Clinical rehabilitation guidance and early intervention development; efficacy uncertain]**
+- [FCD background](../functional-cognitive-disorder.md) → **[Understanding Memory and Thinking Difficulties in FCD](functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md)** — Connects the assessed cognitive pattern with an individual support and review plan. **[Foundation for recovery; educational guidance, not a memory-training exercise]**
+- [FCD background](../functional-cognitive-disorder.md) → **[Taking a Break From Repeated Memory Tests](functional_cognitive_disorder/02-reducing-self-testing.md)** — When repeatedly testing your own recall to check whether memory works has become distressing or disruptive; keep necessary checks and reminders. **[Clinical guidance; individual technique efficacy not established]**
+- [FCD background](../functional-cognitive-disorder.md) → **[Finding Reassurance That Still Helps](functional_cognitive_disorder/03-reassurance-without-loops.md)** — When asking someone else for the same assurance briefly settles a worry that soon returns; distinguish this from forgetting or not understanding the answer. **[Clinical guidance; individual technique efficacy not established]**
+- [FCD background](../functional-cognitive-disorder.md) → **[Giving One Task Your Attention](functional_cognitive_disorder/04-attending-to-one-task.md)** — Reduce competing input to support attention, encoding and working memory. **[Clinical guidance; individual technique efficacy not established]**
+- [FCD background](../functional-cognitive-disorder.md) → **[Comparing What You Expect With What Happens](functional_cognitive_disorder/05-prediction-and-performance.md)** — When a strongly negative prediction makes a modest, safe task feel impossible. **[Clinical guidance; individual technique efficacy not established]**
+- [FCD background](../functional-cognitive-disorder.md) → **[Keeping a Small Record of What Helped](functional_cognitive_disorder/06-noticing-what-helped.md)** — When difficulties dominate recall and useful strategies or moments of participation are easily lost. **[Clinical guidance; individual technique efficacy not established]**
+- [FCD background](../functional-cognitive-disorder.md) → **[Returning to Reading, Conversation and Other Valued Tasks](functional_cognitive_disorder/07-returning-to-meaningful-tasks.md)** — When cognitive symptoms have interrupted an activity you want to resume or adapt. **[Clinical guidance; individual technique efficacy not established]**
+- [FCD background](../functional-cognitive-disorder.md) → **[Building a Thinking and Memory System You Can Actually Use](functional_cognitive_disorder/08-external-memory-supports.md)** — External cognitive supports for encoding, future intentions, retrieval, recognition cues and task sequences. **[Clinical guidance; individual technique efficacy not established]**
+- [FCD background](../functional-cognitive-disorder.md) → **[Making the Day Easier With Routines and Pacing](functional_cognitive_disorder/09-single-task-routines-and-pacing.md)** — Reduce switching and sequencing demands; pace tasks to capacity and delayed cost. **[Clinical guidance; individual technique efficacy not established]**
+- [FCD background](../functional-cognitive-disorder.md) → **[Keeping Other Contributors in the Care Plan](functional_cognitive_disorder/10-contributors-and-coexisting-conditions.md)** — Assess and treat independent or coexisting contributors without automatically calling them FCD. **[Clinical guidance; individual technique efficacy not established]**
+- [FCD background](../functional-cognitive-disorder.md) → **[Considering an Online ACT Group](functional_cognitive_disorder/11-online-group-act.md)** — When a person wants therapist-led help with symptom interference and valued activities, and an appropriate group is available. **[Emerging evidence; randomized feasibility study, not proof of efficacy]**
+- [FCD background](../functional-cognitive-disorder.md) → **[Considering FCD-Specific Digital Self-Help](functional_cognitive_disorder/12-digital-self-help.md)** — When a person prefers flexible self-help and can access a suitable programme with an agreed clinical follow-up plan. **[Emerging evidence; uncontrolled feasibility study, not proof of efficacy]**
+- [FCD background](../functional-cognitive-disorder.md) → **[Planning Individual Cognitive Rehabilitation](functional_cognitive_disorder/13-individual-cognitive-rehabilitation.md)** — When needs are complex, basic adaptations are insufficient or a person needs support applying strategies in daily life. **[Clinical rehabilitation guidance and early intervention development; efficacy uncertain]**
 
 ### [Persistent postural-perceptual dizziness](13-persistent-postural-perceptual-dizziness.md)
 
@@ -278,7 +278,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Brief pattern and context mapping](17-functional-tics-and-tic-like-symptoms.md#pattern-mapping)** — Functional tics: If useful, note a few examples of what happened before, during and after symptoms, including discomfort, urges, surroundings and other people’s responses. Stop if tracking makes life revolve around symptoms; no warning or trigger has to be found. **[Assessment and treatment-planning component; clinical consensus]**
 
-**[Building a Memory System You Can Actually Use](functional_cognitive_disorder/08-external-memory-supports.md)** — When appointments, objects, instructions or unfinished tasks need a reliable place outside memory. **[Clinical guidance; individual technique efficacy not established]**
+[FCD background](../functional-cognitive-disorder.md) → **[Building a Thinking and Memory System You Can Actually Use](functional_cognitive_disorder/08-external-memory-supports.md)** — External cognitive supports for encoding, future intentions, retrieval, recognition cues and task sequences. **[Clinical guidance; individual technique efficacy not established]**
 
 **[Building an Easier Sound Into Words and Conversation](functional_speech_and_voice_symptoms/04-building-sound-into-speech.md)** — Functional speech and voice symptoms. A sound, syllable or word is available with less effort, but carrying it into longer speech remains difficult. **[Professional consensus; the progression must follow the person’s response]**
 
@@ -300,13 +300,13 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Communication Support When Speech Is Difficult or Unavailable](functional_speech_and_voice_symptoms/09-communication-support-and-aac.md)** — Functional speech and voice symptoms. Speech is unreliable, exhausting or unavailable, and another way to express needs, choices and ordinary conversation is needed. **[Communication-access guidance; aids can be temporary, intermittent or ongoing]**
 
-**[Comparing What You Expect With What Happens](functional_cognitive_disorder/05-prediction-and-performance.md)** — When a strongly negative prediction makes a modest, safe task feel impossible. **[Clinical guidance; individual technique efficacy not established]**
+[FCD background](../functional-cognitive-disorder.md) → **[Comparing What You Expect With What Happens](functional_cognitive_disorder/05-prediction-and-performance.md)** — When a strongly negative prediction makes a modest, safe task feel impossible. **[Clinical guidance; individual technique efficacy not established]**
 
 **Competing movement or absorbing task** — Tremor; jerks. **C**
 
-**[Considering an Online ACT Group](functional_cognitive_disorder/11-online-group-act.md)** — When a person wants therapist-led help with symptom interference and valued activities, and an appropriate group is available. **[Emerging evidence; randomized feasibility study, not proof of efficacy]**
+[FCD background](../functional-cognitive-disorder.md) → **[Considering an Online ACT Group](functional_cognitive_disorder/11-online-group-act.md)** — When a person wants therapist-led help with symptom interference and valued activities, and an appropriate group is available. **[Emerging evidence; randomized feasibility study, not proof of efficacy]**
 
-**[Considering FCD-Specific Digital Self-Help](functional_cognitive_disorder/12-digital-self-help.md)** — When a person prefers flexible self-help and can access a suitable programme with an agreed clinical follow-up plan. **[Emerging evidence; uncontrolled feasibility study, not proof of efficacy]**
+[FCD background](../functional-cognitive-disorder.md) → **[Considering FCD-Specific Digital Self-Help](functional_cognitive_disorder/12-digital-self-help.md)** — When a person prefers flexible self-help and can access a suitable programme with an agreed clinical follow-up plan. **[Emerging evidence; uncontrolled feasibility study, not proof of efficacy]**
 
 **Continuing accessibility and participation support** — Functional paralysis and persistent functional drop attacks. **C**
 
@@ -348,7 +348,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Finding a Less Effortful Breathing Pattern](functional_cough_and_upper_airway_symptoms/04-relaxed-throat-breathing.md)** — Release the jaw and shoulders and use quiet, efficient breathing taught by the clinician. Avoid repeated huge inhalations, which may worsen light-headedness or some breathing patterns. **[Professional consensus; individual assessment required]**
 
-**[Finding Reassurance That Still Helps](functional_cognitive_disorder/03-reassurance-without-loops.md)** — When asking someone else for the same assurance briefly settles a worry that soon returns; distinguish this from forgetting or not understanding the answer. **[Clinical guidance; individual technique efficacy not established]**
+[FCD background](../functional-cognitive-disorder.md) → **[Finding Reassurance That Still Helps](functional_cognitive_disorder/03-reassurance-without-loops.md)** — When asking someone else for the same assurance briefly settles a worry that soon returns; distinguish this from forgetting or not understanding the answer. **[Clinical guidance; individual technique efficacy not established]**
 
 **[Fixed visual or sensory anchor at a familiar warning](functional_seizures/04-sensory-grounding-and-attention-anchor.md)** — Functional seizures with a usable warning and tolerable cue. **[Specialist clinical guidance; no isolated efficacy evidence]**
 
@@ -358,7 +358,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **Gaze-stability exercises when indicated** — PPPD. **C**
 
-**[Giving One Task Your Attention](functional_cognitive_disorder/04-attending-to-one-task.md)** — When competing sounds, screens, thoughts or tasks make it hard to take information in. **[Clinical guidance; individual technique efficacy not established]**
+[FCD background](../functional-cognitive-disorder.md) → **[Giving One Task Your Attention](functional_cognitive_disorder/04-attending-to-one-task.md)** — Reduce competing input to support attention, encoding and working memory. **[Clinical guidance; individual technique efficacy not established]**
 
 **Graded activity and reconditioning** — Weakness; paralysis; gait; PPPD; mixed motor symptoms. **[Clinical consensus]**
 
@@ -388,11 +388,11 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Individually formulated behavioral or psychological treatment](17-functional-tics-and-tic-like-symptoms.md#individualized-treatment)** — Functional tics: A clinician familiar with both tics and FND can discuss an approach suited to your symptoms and priorities. I-CBiT combines several methods and has early case-series evidence. Its exercises, including exposure and response prevention, need individual assessment and consent; this page is not a home suppression programme. **[Emerging evidence; uncontrolled series of eight young people]**
 
-**[Keeping a Small Record of What Helped](functional_cognitive_disorder/06-noticing-what-helped.md)** — When difficulties dominate recall and useful strategies or moments of participation are easily lost. **[Clinical guidance; individual technique efficacy not established]**
+[FCD background](../functional-cognitive-disorder.md) → **[Keeping a Small Record of What Helped](functional_cognitive_disorder/06-noticing-what-helped.md)** — When difficulties dominate recall and useful strategies or moments of participation are easily lost. **[Clinical guidance; individual technique efficacy not established]**
 
 **[Keeping Other Causes and Conditions in the Care Plan](functional_cough_and_upper_airway_symptoms/10-treating-coexisting-conditions.md)** — Asthma, eosinophilic disease, reflux, rhinitis, infection, medication effects and structural or neurological laryngeal problems need appropriate treatment. **[Professional consensus; individual assessment required]**
 
-**[Keeping Other Contributors in the Care Plan](functional_cognitive_disorder/10-contributors-and-coexisting-conditions.md)** — When sleep, pain, fatigue, migraine, medicines or another condition may be adding to cognitive difficulty. **[Clinical guidance; individual technique efficacy not established]**
+[FCD background](../functional-cognitive-disorder.md) → **[Keeping Other Contributors in the Care Plan](functional_cognitive_disorder/10-contributors-and-coexisting-conditions.md)** — Assess and treat independent or coexisting contributors without automatically calling them FCD. **[Clinical guidance; individual technique efficacy not established]**
 
 **[Making Daily Life Kinder to Your Throat](functional_cough_and_upper_airway_symptoms/08-hydration-and-laryngeal-care.md)** — Follow individualized advice about fluids, humidity, voice use and irritants. Generic rules may not suit fluid restrictions, reflux or occupational exposure. **[Professional consensus; individual assessment required]**
 
@@ -400,7 +400,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Making Speech More Comfortable: Breath, Posture and Muscle Release](functional_speech_and_voice_symptoms/07-breath-posture-and-release.md)** — Functional speech and voice symptoms. Assessment finds extra jaw, neck, laryngeal or breathing effort during speech, and a tailored adjustment may reduce strain. **[Professional consensus and adjacent voice guidance; generic deep breathing is not a prescription]**
 
-**[Making the Day Easier With Routines and Pacing](functional_cognitive_disorder/09-single-task-routines-and-pacing.md)** — When rapid switching or poorly timed demands leave too little capacity for the next task. **[Clinical guidance; individual technique efficacy not established]**
+[FCD background](../functional-cognitive-disorder.md) → **[Making the Day Easier With Routines and Pacing](functional_cognitive_disorder/09-single-task-routines-and-pacing.md)** — Reduce switching and sequencing demands; pace tasks to capacity and delayed cost. **[Clinical guidance; individual technique efficacy not established]**
 
 **Meaningful functional-task practice** — Weakness; paralysis; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; facial symptoms. **C**
 
@@ -442,7 +442,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Photophobia: An Agreed Light and Protection Plan](functional_visual_symptoms/06-photophobia-light-and-protection-plan.md)** — Functional visual symptoms. Light sensitivity limits activities and specialist assessment supports considering a tolerable, individualized change alongside treatment of relevant causes. **[Specialist clinical guidance; FND-specific exposure evidence is limited and there is no universal schedule]**
 
-**[Planning Individual Cognitive Rehabilitation](functional_cognitive_disorder/13-individual-cognitive-rehabilitation.md)** — When needs are complex, basic adaptations are insufficient or a person needs support applying strategies in daily life. **[Clinical rehabilitation guidance and early intervention development; efficacy uncertain]**
+[FCD background](../functional-cognitive-disorder.md) → **[Planning Individual Cognitive Rehabilitation](functional_cognitive_disorder/13-individual-cognitive-rehabilitation.md)** — When needs are complex, basic adaptations are insufficient or a person needs support applying strategies in daily life. **[Clinical rehabilitation guidance and early intervention development; efficacy uncertain]**
 
 **[Position and gravity change](functional_dystonia/02-position-and-gravity-change.md)** — Functional dystonia when movement is more available lying, sitting, leaning or with the limb supported. **[Clinical consensus]**
 
@@ -478,7 +478,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Returning to Activities With Graded Trigger Practice](functional_cough_and_upper_airway_symptoms/07-graded-trigger-practice.md)** — After medical causes and safety are reviewed, practise the selected response with a mild version of a familiar trigger, then progress slowly toward real situations. Do not provoke severe respiratory symptoms at home. **[Professional consensus; individual assessment required]**
 
-**[Returning to Reading, Conversation and Other Valued Tasks](functional_cognitive_disorder/07-returning-to-meaningful-tasks.md)** — When cognitive symptoms have interrupted an activity you want to resume or adapt. **[Clinical guidance; individual technique efficacy not established]**
+[FCD background](../functional-cognitive-disorder.md) → **[Returning to Reading, Conversation and Other Valued Tasks](functional_cognitive_disorder/07-returning-to-meaningful-tasks.md)** — When cognitive symptoms have interrupted an activity you want to resume or adapt. **[Clinical guidance; individual technique efficacy not established]**
 
 **[Reviewing Diet and Equipment Restrictions Together](functional_swallowing_and_globus/11-reviewing-diet-and-equipment-restrictions.md)** — Swallowing/globus: When an existing restriction may no longer be needed, or its burden warrants reassessment. **[Clinical and dysphagia guidance; safety and nutritional review before removal]**
 
@@ -520,7 +520,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Surface-EMG biofeedback](functional_dystonia/07-surface-emg-biofeedback.md)** — Tremor and dystonia when a selected superficial muscle-activity signal supports a specific movement-learning goal. **[Clinical consensus; direct functional-dystonia treatment evidence is very limited]**
 
-**[Taking a Break From Repeated Memory Tests](functional_cognitive_disorder/02-reducing-self-testing.md)** — When repeatedly testing your own recall to check whether memory works has become distressing or disruptive; keep necessary checks and reminders. **[Clinical guidance; individual technique efficacy not established]**
+[FCD background](../functional-cognitive-disorder.md) → **[Taking a Break From Repeated Memory Tests](functional_cognitive_disorder/02-reducing-self-testing.md)** — When repeatedly testing your own recall to check whether memory works has become distressing or disruptive; keep necessary checks and reminders. **[Clinical guidance; individual technique efficacy not established]**
 
 **[TENS and Electrical Stimulation: Specialist Review and Safety](functional_sensory_symptoms/09-tens-and-electrical-stimulation-review.md)** — Functional sensory symptoms. A qualified clinician is considering electrical input for a specific pain or rehabilitation goal and needs to establish whether it is suitable. **[Emerging and uncertain FND evidence; safety review is essential]**
 
@@ -538,7 +538,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Understanding the Diagnosis and Finding an Easier Starting Point](functional_speech_and_voice_symptoms/01-understanding-preserved-communication.md)** — Functional speech and voice symptoms. An assessed speech or voice problem needs a clear explanation, and differences between tasks may help the therapist choose where to begin. **[Professional consensus; a useful demonstration does not prove dependable speech in daily life]**
 
-**[Understanding Memory and Thinking Difficulties in FCD](functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md)** — Explains memory and other thinking difficulties and connects them with practical support. **[Foundation for recovery; educational guidance, not a memory-training exercise]**
+[FCD background](../functional-cognitive-disorder.md) → **[Understanding Memory and Thinking Difficulties in FCD](functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md)** — Connects the assessed cognitive pattern with an individual support and review plan. **[Foundation for recovery; educational guidance, not a memory-training exercise]**
 
 **[Understanding Your Swallowing Assessment and Plan](functional_swallowing_and_globus/01-understanding-the-assessment.md)** — Swallowing/globus: When uncertainty about the diagnosis or safe eating is making every meal feel like a test. **[Professional consensus; diagnostic explanation and continuing care]**
 

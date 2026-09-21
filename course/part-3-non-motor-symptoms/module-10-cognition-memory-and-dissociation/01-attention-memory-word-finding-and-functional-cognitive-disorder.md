@@ -12,7 +12,7 @@ Losing a word, a plan or part of a conversation can feel frightening. The diffic
 
 ### Definition
 
-**Cognition** is the work involved in noticing, thinking, planning, using words and remembering. **Functional Cognitive Disorder (FCD)** means distressing or disabling cognitive symptoms with positive signs that the difficulty is functional and not better explained by another condition.
+**Cognition** includes attention, processing speed, working memory, remembering, language, recognition, mental imagery and executive functions such as planning and restarting. **Functional Cognitive Disorder (FCD)** means distressing or disabling cognitive symptoms with positive signs that the difficulty is functional and not better explained by another condition.
 
 ![Information moves through attention, taking it in, storing it and finding it again. A break at any stage can feel like forgetting.](../../../assets/illustrations/module-10-page-1-memory-path.svg)
 
@@ -22,6 +22,14 @@ Losing a word, a plan or part of a conversation can feel frightening. The diffic
 
 FCD is not “imagined memory loss,” and it is not the name for every thinking problem in FND. A clinician should look for features supporting the diagnosis and check for other contributors. (*citations* [1](#citation-1), [2](#citation-2))
 
+### Different processes need different help
+
+**Encoding** means taking information in well enough to form a usable memory. **Working memory** holds and uses it briefly; **consolidation** helps stabilize learning; **retrieval** brings it back later. A lapse at different stages can feel like forgetting. This does not mean all information was stored intact. (*citations* [1](#citation-1), [2](#citation-2))
+
+Recognizing a face while seeing it differs from knowing who the person is, finding their name, recalling their appearance later or voluntarily picturing them. **Semantic knowledge** includes facts about people and things, not only words. Visual recall, spatial abilities and imagery deserve separate description when affected.
+
+A new loss of imagery, including imagery that used to be unusually vivid, deserves assessment. Face-recognition or imagery complaints are not established hallmark FCD findings. The [full FCD background page](../../../reference/functional-cognitive-disorder.md#faces-visual-recall-and-mental-imagery) explains the distinctions and evidence limits; they are not additional diagnostic signs. (*citation* [5](#citation-5))
+
 ### One everyday example
 
 Imagine being told three instructions while a television is on and pain is flaring. If attention catches only the first instruction, the other two may never be stored. Later, this feels like forgetting.
@@ -30,15 +38,21 @@ Word finding can work similarly: you know the person or object, but the word doe
 
 ### What “internal inconsistency” means
 
-In FCD research, **internal inconsistency** means a person’s cognitive ability is available at some times or in some tasks but becomes hard to access in others. It is not proof of pretending. It can appear in the history, conversation or testing and must be interpreted carefully.
+In FCD research, **internal inconsistency** means a person’s cognitive ability is available at some times or in some tasks but becomes hard to access in others. The comparison must concern the same domain and account for demands, cues, fatigue and other explanations. One good performance does not establish the diagnosis or cancel disability. It is not proof of pretending. It can appear in the history, conversation or testing and must be interpreted carefully.
 
 Some people with FCD have persistent disability. Others improve. A normal score on one test does not describe the demands of a whole day. (*citations* [1](#citation-1), [2](#citation-2))
 
+### Working models are not settled causes
+
+Competing load can leave less attention for encoding or holding information in working memory. After real failures, monitoring and predictions about the next failure may add further demands in some people. **Metacognition** means judging and responding to your own thinking. Monitoring work can help when an unhelpful loop is present; it is not an explanation for everybody's symptoms. Predictions can also reflect real limitations.
+
+A trigger at onset, a process causing today's lapse and a factor keeping difficulties going are different questions. Improvement with an aid or therapy does not answer all of them or prove a psychological cause. See [working models and their limits](../../../reference/functional-cognitive-disorder.md#working-models-not-one-proven-cause). (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
 ### Other causes still matter
 
-Poor sleep, migraine, pain, fatigue, medication or substance effects, depression, anxiety, seizures, head injury, nutritional or hormone problems and neurological disease can all affect cognition. More than one can be present.
+Poor sleep, migraine, pain, fatigue, medication or substance effects, depression, anxiety, seizures, head injury, nutritional or hormone problems and neurological disease can all affect cognition. More than one can be present. Migraine, pain, fatigue, sleep disorders, ADHD and sensory impairment may independently affect cognition or coexist with FCD; they are not automatically part of that diagnosis.
 
-Seek prompt assessment for a sudden new confusion, new neurological signs, getting lost in familiar places, a major safety error, a changed seizure pattern, decline after a head injury, or rapid or progressive worsening.
+New loss of recognition of highly familiar people, familiar knowledge or spatial abilities also deserves reassessment. Seek prompt assessment for a sudden new confusion, new neurological signs, getting lost in familiar places, a major safety error, a changed seizure pattern, decline after a head injury, or rapid or progressive worsening.
 
 ### Community experiences for review
 
@@ -55,6 +69,8 @@ These are lived experiences, not evidence that one approach will work for everyo
 > “Simple tasks I’ve done at work for years now demand major concentration ... I’ve been making many mistakes in my work.”
 
 — The writer described the effect on a business run with their husband. [Read the public source](https://www.reddit.com/r/FND/comments/1czpbko/major_cognitive_issues_with_fnd/).
+
+Supported participation counts: a written cue, extra time or contextual help can be part of recovery. Useful aids need not be removed to demonstrate improvement. (*citation* [3](#citation-3))
 
 ### Questions
 
@@ -104,7 +120,7 @@ Do not assume that an inconsistent ability is voluntary. Also do not take over e
 
 ### Make a positive but proportionate assessment
 
-Characterize attention, processing speed, working memory, prospective memory, episodic encoding and retrieval, semantic access and executive function. Look for positive internal inconsistency across history, observation and testing; do not infer FCD from distress, normal imaging or an invalid score alone.
+Characterize attention, processing speed, working memory, prospective memory, episodic encoding and retrieval, semantic access and executive function, with recognition/familiarity, visual or nonverbal memory, visuospatial function, imagery and cognitive communication when relevant. Look for positive internal inconsistency across history, observation and testing; do not infer FCD from distress, normal imaging or an invalid score alone.
 
 Review onset, course, functional impact, medication and substances, sleep, pain, migraine, mood, epilepsy, head injury and systemic contributors. Neuropsychological assessment may clarify a profile and practical needs, but test performance has imperfect ecological validity. Discuss validity measures without accusation.
 
@@ -139,6 +155,7 @@ The FCD sources offer a proposed diagnostic model and preliminary definition rat
 | <a id="citation-2"></a>**[2]** | Figure 1 | McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. [FND-CIT-0026](../../../research/citation-index.md#fnd-cit-0026). [https://doi.org/10.1017/S1092852921000845](https://doi.org/10.1017/S1092852921000845) |
 | <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
 | <a id="citation-4"></a>**[4]** | — | Poole N, Cope S, Vanzan S, et al. Randomised controlled feasibility trial of online group acceptance and commitment therapy for functional cognitive disorder. *BJPsych Open*. 2025;11(3):e91. [FND-CIT-0036](../../../research/citation-index.md#fnd-cit-0036). [https://doi.org/10.1192/bjo.2025.33](https://doi.org/10.1192/bjo.2025.33) |
+| <a id="citation-5"></a>**[5]** | — | Zeman AZJ, Della Sala S, Torrens LA, et al. Loss of imagery phenomenology with intact visuo-spatial task performance: a case of “blind imagination”. *Neuropsychologia*. 2010;48(1):145–155. [DOI](https://doi.org/10.1016/j.neuropsychologia.2009.08.024). [FND-CIT-0191](../../../research/citation-index.md#fnd-cit-0191). Single acquired-imagery case, not FCD prevalence or treatment evidence; imagery experience and task performance may differ. |
 
 This page still needs review by people with cognitive symptoms, neuropsychologists, occupational therapists, neurologists and accessibility reviewers.
 

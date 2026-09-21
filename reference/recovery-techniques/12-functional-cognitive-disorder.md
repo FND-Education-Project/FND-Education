@@ -8,38 +8,57 @@
 
 **Refers to:**
 
-- memory, attention or concentration difficulty;
-- word-finding and mental-efficiency problems; and
+- difficulties with memory, attention, language access, processing speed or executive tasks;
+- recognition, visual/nonverbal recall or imagery complaints when clinically relevant, without assuming they are FCD; and
 - “brain fog” only when it forms part of an assessed functional cognitive presentation.
 
 **Scope boundary:** Speech-motor blocking belongs on the [speech page](09-functional-speech-and-voice-symptoms.md), and altered awareness within an event may require a [functional-seizure recovery plan](06-functional-seizures.md). Cognitive symptoms can also arise from sleep, medication, pain, migraine, mood, neurological disease and other causes.
 
 **Also described as:** FCD, functional memory symptoms, functional cognitive symptoms and cognitive symptoms within FND.
 
-Functional Cognitive Disorder can involve disabling problems with attention, memory, word finding or mental efficiency alongside evidence that cognitive ability is working better in some contexts than the person experiences. Treatment aims to reduce unhelpful checking and threat, make better use of preserved ability, and address sleep, pain, fatigue, mood and other contributors.
+FCD involves cognition, not only memory. Care may combine process-based support, meaningful rehabilitation, accommodations and treatment of coexisting conditions. Monitoring work fits some people; it is not a universal explanation.
+
+For the fuller explanation—including faces, visual recall, imagery and evidence limits—see [Everything We Know About FCD](../functional-cognitive-disorder.md). Migraine, pain, fatigue, sleep disorders and other contributors are not automatically FCD.
 
 
 [For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
 
 ## For the person with symptoms
 
-[Explore the thirteen detailed pages](functional_cognitive_disorder/README.md). Each original entry has one page; you do not need to try every approach.
+[Explore the thirteen detailed pages](functional_cognitive_disorder/README.md). Each original entry has one page; you do not need to try every approach. Supported success counts, and useful aids can stay in place.
 
 ### Techniques used in rehabilitation
 
-1. **[Positive explanation of the cognitive pattern](functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md).** An explanation of memory, attention, word finding and other thinking difficulties, linked to practical support. **[Foundation for recovery; educational guidance, not a memory-training exercise]**
-2. **[Reduce repeated self-testing](functional_cognitive_disorder/02-reducing-self-testing.md).** When repeatedly testing your own recall to check whether memory works has become distressing or disruptive; keep necessary checks and reminders. **[Clinical guidance; individual technique efficacy not established]**
-3. **[Reduce reassurance loops](functional_cognitive_disorder/03-reassurance-without-loops.md).** When asking someone else for the same assurance briefly settles a worry that soon returns; distinguish this from forgetting or not understanding the answer. **[Clinical guidance; individual technique efficacy not established]**
-4. **[Attention retraining](functional_cognitive_disorder/04-attending-to-one-task.md).** When competing sounds, screens, thoughts or tasks make it hard to take information in. **[Clinical guidance; individual technique efficacy not established]**
-5. **[Prediction versus performance](functional_cognitive_disorder/05-prediction-and-performance.md).** When a strongly negative prediction makes a modest, safe task feel impossible. **[Clinical guidance; individual technique efficacy not established]**
-6. **[Success record](functional_cognitive_disorder/06-noticing-what-helped.md).** When difficulties dominate recall and useful strategies or moments of participation are easily lost. **[Clinical guidance; individual technique efficacy not established]**
-7. **[Graded return to meaningful cognitive tasks](functional_cognitive_disorder/07-returning-to-meaningful-tasks.md).** When cognitive symptoms have interrupted an activity you want to resume or adapt. **[Clinical guidance; individual technique efficacy not established]**
-8. **[External memory supports](functional_cognitive_disorder/08-external-memory-supports.md).** When appointments, objects, instructions or unfinished tasks need a reliable place outside memory. **[Clinical guidance; individual technique efficacy not established]**
-9. **[Single-task routines and pacing](functional_cognitive_disorder/09-single-task-routines-and-pacing.md).** When rapid switching or poorly timed demands leave too little capacity for the next task. **[Clinical guidance; individual technique efficacy not established]**
-10. **[Treat contributors and comorbidity](functional_cognitive_disorder/10-contributors-and-coexisting-conditions.md).** When sleep, pain, fatigue, migraine, medicines or another condition may be adding to cognitive difficulty. **[Clinical guidance; individual technique efficacy not established]**
-11. **[Online group ACT](functional_cognitive_disorder/11-online-group-act.md).** When a person wants therapist-led help with symptom interference and valued activities, and an appropriate group is available. **[Emerging evidence; randomized feasibility study, not proof of efficacy]**
-12. **[CBT- and metacognition-informed digital self-help](functional_cognitive_disorder/12-digital-self-help.md).** When a person prefers flexible self-help and can access a suitable programme with an agreed clinical follow-up plan. **[Emerging evidence; uncontrolled feasibility study, not proof of efficacy]**
-13. **[Individual cognitive rehabilitation](functional_cognitive_disorder/13-individual-cognitive-rehabilitation.md).** When needs are complex, basic adaptations are insufficient or a person needs support applying strategies in daily life. **[Clinical rehabilitation guidance and early intervention development; efficacy uncertain]**
+#### Foundation and formulation
+
+- [FCD background](../functional-cognitive-disorder.md) → **1.** **[Positive explanation of the cognitive pattern](functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md).** Turn the assessed cognitive pattern into an individual support and review plan. **[Foundation for recovery; educational guidance, not a memory-training exercise]**
+
+#### Attention and cognitive load
+
+- [FCD background](../functional-cognitive-disorder.md) → **4.** **[Attention retraining](functional_cognitive_disorder/04-attending-to-one-task.md).** When competing sounds, screens, thoughts or tasks make it hard to take information in. **[Clinical guidance; individual technique efficacy not established]**
+- [FCD background](../functional-cognitive-disorder.md) → **9.** **[Single-task routines and pacing](functional_cognitive_disorder/09-single-task-routines-and-pacing.md).** When rapid switching or poorly timed demands leave too little capacity for the next task. **[Clinical guidance; individual technique efficacy not established]**
+
+#### Metacognition and monitoring
+
+- [FCD background](../functional-cognitive-disorder.md) → **2.** **[Reduce repeated self-testing](functional_cognitive_disorder/02-reducing-self-testing.md).** When repeatedly testing your own recall to check whether memory works has become distressing or disruptive; keep necessary checks and reminders. **[Clinical guidance; individual technique efficacy not established]**
+- [FCD background](../functional-cognitive-disorder.md) → **3.** **[Reduce reassurance loops](functional_cognitive_disorder/03-reassurance-without-loops.md).** When asking someone else for the same assurance briefly settles a worry that soon returns; distinguish this from forgetting or not understanding the answer. **[Clinical guidance; individual technique efficacy not established]**
+- [FCD background](../functional-cognitive-disorder.md) → **5.** **[Prediction versus performance](functional_cognitive_disorder/05-prediction-and-performance.md).** When a strongly negative prediction makes a modest, safe task feel impossible. **[Clinical guidance; individual technique efficacy not established]**
+- [FCD background](../functional-cognitive-disorder.md) → **6.** **[Success record](functional_cognitive_disorder/06-noticing-what-helped.md).** When difficulties dominate recall and useful strategies or moments of participation are easily lost. **[Clinical guidance; individual technique efficacy not established]**
+
+#### Meaningful rehabilitation and compensation
+
+- [FCD background](../functional-cognitive-disorder.md) → **7.** **[Graded return to meaningful cognitive tasks](functional_cognitive_disorder/07-returning-to-meaningful-tasks.md).** When cognitive symptoms have interrupted an activity you want to resume or adapt. **[Clinical guidance; individual technique efficacy not established]**
+- [FCD background](../functional-cognitive-disorder.md) → **8.** **[External memory supports](functional_cognitive_disorder/08-external-memory-supports.md).** Support encoding, future intentions, recognition cues and task sequences outside memory. **[Clinical guidance; individual technique efficacy not established]**
+- [FCD background](../functional-cognitive-disorder.md) → **13.** **[Individual cognitive rehabilitation](functional_cognitive_disorder/13-individual-cognitive-rehabilitation.md).** When needs are complex, basic adaptations are insufficient or a person needs support applying strategies in daily life. **[Clinical rehabilitation guidance and early intervention development; efficacy uncertain]**
+
+#### Contributors and coexisting conditions
+
+- [FCD background](../functional-cognitive-disorder.md) → **10.** **[Treat contributors and comorbidity](functional_cognitive_disorder/10-contributors-and-coexisting-conditions.md).** When sleep, pain, fatigue, migraine, medicines or another condition may be adding to cognitive difficulty. **[Clinical guidance; individual technique efficacy not established]**
+
+#### Treatment packages with emerging evidence
+
+- [FCD background](../functional-cognitive-disorder.md) → **11.** **[Online group ACT](functional_cognitive_disorder/11-online-group-act.md).** When a person wants therapist-led help with symptom interference and valued activities, and an appropriate group is available. **[Emerging evidence; randomized feasibility study, not proof of efficacy]**
+- [FCD background](../functional-cognitive-disorder.md) → **12.** **[CBT- and metacognition-informed digital self-help](functional_cognitive_disorder/12-digital-self-help.md).** When a person prefers flexible self-help and can access a suitable programme with an agreed clinical follow-up plan. **[Emerging evidence; uncontrolled feasibility study, not proof of efficacy]**
 
 ### During a cognitive flare
 
@@ -48,7 +67,7 @@ Functional cognitive symptoms may fluctuate sharply or remain persistent. During
 1. **Stop multitasking.** Pause competing conversation, screens or tasks and choose one immediate goal.
 2. **Reduce the information load.** Use one short instruction, one question or one written step at a time.
 3. **Use one established external support.** A checklist, calendar, note, alarm or text prompt can carry information while access is poor.
-4. **Do not repeatedly self-test.** Re-reading, quizzing yourself or restarting a task may consume more of the attention you are trying to recover.
+4. **Pause unhelpful self-testing when that pattern fits.** Keep necessary rereading, reminders and safety checks.
 5. **Resume with a smaller task.** When the flare eases, return to a manageable piece of the original activity and build complexity gradually.
 
 A sudden new confusion state, altered consciousness, new focal neurological symptoms or a major departure from the established pattern needs medical assessment.
@@ -59,7 +78,7 @@ Choose one low-stakes task that matters and make its next step easier to find: a
 
 ### Ask for urgent help or reassessment when
 
-Confusion is sudden, consciousness changes, or cognitive symptoms occur with new weakness, speech change, severe headache, seizure, fever, head injury or another acute medical concern. Progressive decline, getting lost in familiar places, unsafe medication or financial errors, new neurological signs or a marked change from the established pattern also need review.
+Confusion is sudden, consciousness changes, or cognitive symptoms occur with new weakness, speech change, severe headache, seizure, fever, head injury or another acute medical concern. New difficulty recognizing highly familiar people, progressive loss of familiar knowledge, major visual-spatial change, progressive decline, getting lost in familiar places, unsafe medication or financial errors, new neurological signs or a marked change from the established pattern also need review.
 
 ## For family, friends and supporters
 
@@ -81,7 +100,7 @@ Establish a positive FCD formulation while evaluating neurodegenerative, neurolo
 
 Document which cognitive domain changes, episode duration, frequency, sensory/cognitive load, fatigue, pain, sleep, migraine/seizure context and recovery. Rehearse a portable sequence: **single task → reduced input → one external support → graded return to the meaningful task**. Distinguish this established fluctuation from acute delirium, medication effects, seizures, migraine phenomena or progressive decline.
 
-Build treatment around functional goals, metacognition, attention, reduced checking and appropriate compensatory supports. Monitor participation, confidence, distress and daily errors as well as symptom report. Persistent symptoms may still benefit from practical rehabilitation and quality-of-life support.
+Build treatment around assessed cognitive processes, functional goals, compensation and accommodations; address monitoring only when it is relevant. Supported success counts, and treatment response does not prove a mechanism. Monitor participation, confidence, distress and daily errors as well as symptom report. Persistent symptoms may still benefit from practical rehabilitation and quality-of-life support.
 
 [For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
 

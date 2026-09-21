@@ -4,6 +4,8 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Background:** [Everything We Know About FCD](../../functional-cognitive-disorder.md) — the concepts behind this page.
+
 **When this may fit:** When competing sounds, screens, thoughts or tasks make it hard to take information in. **[Clinical guidance; individual technique efficacy not established]**
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
@@ -52,6 +54,13 @@ Imagine you want to answer a friend’s message about meeting for a chat. This i
 
 The useful result might be that the reply was easier to write, or that stopping and restarting felt less confusing. Using the message as a reference still counts. If it remained too difficult, that tells you the task or support needs adjusting.
 
+### How attention connects with later remembering
+
+**Encoding** means taking information in well enough to form a usable memory. **Working memory** holds and uses information briefly—for example, keeping the beginning of an instruction in mind while hearing its end. Selecting the relevant input and staying with it gives both processes a better chance. If competing input interrupts either, later “forgetting” may have begun before retrieval.
+
+Reducing input can help information register and remain usable during the task. It does not guarantee that storage or retrieval is intact, or show that attention caused FCD. These are general support principles, applied to an individually assessed difficulty. (*citation* [1](#citation-1))
+
+
 ### Choosing your own practice
 
 Pick a low-stakes activity you want to do: following a little conversation, reading a short message or choosing a photograph to send. Start with a natural stopping point, such as one sentence or one photograph, rather than a fixed number of minutes. You can stop sooner.
@@ -66,7 +75,7 @@ When symptoms rise, shorten the task or switch to a more accessible format. A br
 
 ### When to seek assessment
 
-Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. Progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
+Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. New difficulty recognizing highly familiar people, progressive loss of familiar knowledge, major visual-spatial change, progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
 
