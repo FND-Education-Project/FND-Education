@@ -260,7 +260,7 @@ Checked September 21, 2026: the initial list at `a67567b`, historical baseline `
 
 | Original entry | Detailed destination |
 | --- | --- |
-| 1. Positive explanation of the cognitive pattern | [Understanding Your Cognitive Assessment](../../reference/recovery-techniques/functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md) |
+| 1. Positive explanation of the cognitive pattern | [Understanding Memory and Thinking Difficulties in FCD](../../reference/recovery-techniques/functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md) |
 | 2. Reduce repeated self-testing | [Taking a Break From Repeated Memory Tests](../../reference/recovery-techniques/functional_cognitive_disorder/02-reducing-self-testing.md) |
 | 3. Reduce reassurance loops | [Finding Reassurance That Still Helps](../../reference/recovery-techniques/functional_cognitive_disorder/03-reassurance-without-loops.md) |
 | 4. Attention retraining | [Giving One Task Your Attention](../../reference/recovery-techniques/functional_cognitive_disorder/04-attending-to-one-task.md) |
@@ -317,3 +317,5 @@ The eleven entries at the common historical baseline also match the [pre-expansi
 | 9. Temporary communication support | [Communication Support When Speech Is Difficult or Unavailable](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/09-communication-support-and-aac.md) | One-to-one expansion. |
 | 10. CBT-informed or psychologically informed strategies | [Psychologically Informed Support for Communication](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/10-psychologically-informed-communication-care.md) | One-to-one expansion. |
 | 11. Treat coexisting conditions | [Coexisting Conditions and Reassessment of Speech or Voice Changes](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/11-coexisting-conditions-and-reassessment.md) | One-to-one expansion. |
+
+September 21, 2026 clarification: FCD entry 1 is foundational education and care planning, not a memory-training exercise. Its page now explains memory categories and other cognitive functions; the original thirteen-entry mapping and page count are unchanged.
