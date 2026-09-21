@@ -4,6 +4,8 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Background:** [Everything We Know About FCD](../../functional-cognitive-disorder.md) — the concepts behind this page.
+
 **When this may fit:** When rapid switching or poorly timed demands leave too little capacity for the next task. **[Clinical guidance; individual technique efficacy not established]**
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
@@ -11,6 +13,12 @@
 ## For the Person With FND
 
 Some days the hard part is not any single task but moving between all of them. A predictable place to start and stop can make that easier. Pacing is allowed to protect energy for something enjoyable as well as something necessary.
+
+### Why switching tasks can make thinking harder
+
+Each interruption can require you to stop, hold your place, work out a different task, then reconstruct where you were. That **switching cost** adds executive load—the work of starting, sequencing and resuming. Working memory may lose the next step while attention is elsewhere, and new information may not be encoded clearly.
+
+A routine reduces how many decisions must be rebuilt. A restart note can hold your place; a quieter time can reduce competing input. Capacity varies with the task, symptoms and environment, so pacing should account for effort and delayed worsening. Less activity is not automatically avoidance or fear. This support targets demands, and its usefulness does not prove an FCD mechanism. (*citation* [1](#citation-1))
 
 ### A manageable way to begin
 
@@ -29,7 +37,7 @@ For a familiar flare, reduce competing input and choose only the next necessary 
 
 ### When to seek assessment
 
-Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. Progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
+Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. New difficulty recognizing highly familiar people, progressive loss of familiar knowledge, major visual-spatial change, progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
 

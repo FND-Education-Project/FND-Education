@@ -4,6 +4,8 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Background:** [Everything We Know About FCD](../../functional-cognitive-disorder.md) — the concepts behind this page.
+
 **Purpose:** Understand what may be happening to memory and thinking, and connect that explanation with useful support. This is a foundation for recovery and care planning, rather than a memory-training exercise. **[Clinical explanation and education; standalone treatment benefit is not established]**
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
@@ -16,57 +18,20 @@ Being able to remember something at one moment does not make the times you canno
 
 An explanation can help you choose a useful response to a difficulty. If information never registered clearly, trying harder to recall it later may not help; fewer distractions or a written summary may. If the problem is remembering to do something later, a reminder at the right time may be more useful than a memory quiz. Understanding the pattern can guide care, but information alone may not improve symptoms. Needing further help is not a failure. (*citations* [2](#citation-2), [5](#citation-5))
 
-### How can memory feel unreliable?
+### Turn the explanation into your own care plan
 
-Remembering involves several processes working together:
+The fuller explanation is now on [Everything We Know About FCD](../../functional-cognitive-disorder.md), including memory types, recognition, visual recall, imagery and what remains uncertain. Here the task is to connect that information with your own assessment.
 
-- **Taking information in — attention and encoding.** If pain, competing input or a lapse in attention interrupts this stage, a conversation may never become a clear memory. It can feel as though you have forgotten something you heard only moments ago.
-- **Keeping information over time — storage and consolidation.** This includes stabilizing new learning. A report of forgetting does not, by itself, show whether this stage is impaired.
-- **Bringing information back — retrieval.** You may know that you know something but be unable to bring it to mind when you need it. Sometimes context or a cue helps; sometimes it does not.
+1. **Describe one situation.** “I lose the beginning of an instruction before it ends,” or “The actor looks familiar, but I cannot place who they are.” You do not have to name the cognitive process yourself.
+2. **Ask what supports the explanation.** Which finding suggests FCD in this particular ability? What role might hearing, migraine, medicines or another condition have? A normal scan alone is not an answer.
+3. **Agree one support and its purpose.** Written steps may help information register and stay available. A name plus context may support a conversation. Neither response proves the cause.
+4. **Choose a review point.** Record the task, what helped, remaining difficulty and any effort or delayed cost. Ask what change should prompt reassessment.
 
-In FCD, attention and access to information can work inconsistently. That does not mean every memory is safely stored and merely waiting to be unlocked, or that everyone has the same difficulty. Assessment considers the whole pattern, including other conditions that may contribute. (*citations* [3](#citation-3), [4](#citation-4), [5](#citation-5))
+A useful formulation is a shared, revisable explanation of your pattern—not a verdict that one mechanism explains every symptom. It should distinguish what is observed from what is hypothesized. Internal inconsistency concerns the same cognitive domain, with task demands and context taken into account; one good performance is not enough. (*citations* [1](#citation-1), [3](#citation-3))
 
-### Which kinds of memory are we talking about?
+### Choose help that fits the task
 
-These terms help describe a difficulty. They are not separate diagnoses or a checklist of problems everyone with FCD should have. Some categories overlap: remembering an appointment, for example, uses attention, knowledge of the plan and remembering to act later.
-
-| Kind of memory | Plain-language meaning | How to describe a difficulty |
-| --- | --- | --- |
-| **Episodic memory** | Remembering events you experienced, including their context. | “I cannot bring back yesterday’s conversation,” or “I remember the event but cannot place when it happened.” Autobiographical memory includes personal events, as well as facts about your life. |
-| **Semantic memory** | Knowledge of facts, concepts and word meanings. | “I cannot bring a familiar fact to mind.” A word being temporarily unavailable is different from no longer understanding its meaning. The assessment needs to distinguish these. |
-| **Short-term and working memory** | Briefly holding information; working memory also uses or rearranges it. | “I lose the first part of an instruction before the person finishes,” or “I lose track of the numbers while working something out.” |
-| **Prospective memory** | Remembering to carry out an intention later. | “I knew about the appointment, but did not remember to leave,” or “I meant to pass on a message and it slipped away.” |
-| **Procedural memory** | Learned skills that become relatively automatic, such as typing. | Struggling with a familiar activity does not necessarily mean the skill itself has been lost. Attention, sequencing, pain or functional movement symptoms may interfere with carrying it out. |
-
-This is a general vocabulary for describing memory, applied here to assessment and support. The examples illustrate experiences to discuss; they do not show which memory system is impaired or establish FCD. (*citations* [1](#citation-1), [3](#citation-3))
-
-### Are episodic and semantic memory the most commonly affected?
-
-**The research cited here does not establish that ranking.** Memory and concentration complaints are prominent in FCD, but a reported difficulty, the mental process involved and an impairment measured on a test are not the same thing.
-
-Episodic-memory tasks have been studied. In one small clinic study, people with FCD had difficulties on some memory measures while delayed recall and retention were relatively preserved. That illustrates why “memory loss” needs unpacking; it is not a pattern everyone must show. The study does not establish semantic memory loss as a typical or leading feature. (*citation* [4](#citation-4))
-
-In particular, **word-finding difficulty does not automatically mean loss of semantic knowledge**. Knowing what an object is and what it does, while being unable to find its name, differs from losing the concept itself. Persistent or progressive loss of familiar meanings or knowledge needs clinical review rather than an automatic FCD explanation. (*citation* [3](#citation-3))
-
-### What else can be difficult besides memory?
-
-“Cognition” includes more than remembering. Someone may describe these experiences as brain fog, but that phrase does not identify the cause.
-
-| Function | What the difficulty may feel like | A practical starting point |
-| --- | --- | --- |
-| **Attention and concentration** | Losing the thread, being pulled away by noise, or reading without taking in the meaning. | One speaker or task at a time; reduce avoidable competing input. |
-| **Processing speed** | Needing longer to understand a question or prepare an answer; conversation moves on before you are ready. | Allow a pause and give information in smaller portions. |
-| **Planning, sequencing and switching — executive functions** | Knowing the goal but losing the next step, struggling to start, or becoming muddled when interrupted. | Use a short sequence and leave a clear marker of where to restart. |
-| **Word finding and cognitive communication** | A familiar word will not come; organizing an explanation or following a long conversation takes extra effort. | Give time, use a description or written cue, and avoid several people prompting at once. |
-| **Judging your own performance — metacognition** | Feeling uncertain about what you remembered or whether a task is complete; confidence and performance may not match. | Review concrete examples kindly with the clinician, while preserving needed checks. |
-
-These functions interact. Trouble following a conversation may involve attention, hearing, language, fatigue and memory together. The table is an aid to describing symptoms and adapting tasks, not evidence that each function is impaired in every person with FCD. Sleep, medicines, migraine, pain, mood and other neurological or medical conditions also need consideration. (*citations* [2](#citation-2), [3](#citation-3))
-
-### Turning this explanation into a useful plan
-
-Choose one situation rather than trying to monitor every mental process. You might write: “When someone gives me several instructions, I lose the beginning. One written step at a time helps.” Bring that example to the care team and ask which process they think is involved, what supports that explanation, and what to try next.
-
-Start with the relevant page on [attention](04-attending-to-one-task.md), [memory supports](08-external-memory-supports.md), [routines and pacing](09-single-task-routines-and-pacing.md) or [coexisting contributors](10-contributors-and-coexisting-conditions.md). Keep effective aids and help while exploring recovery. These functions depend on interacting brain systems; the descriptions do not identify damage to a particular brain part. A normal scan alone cannot establish FCD. (*citations* [1](#citation-1), [2](#citation-2))
+Start with [attention](04-attending-to-one-task.md), [external cognitive supports](08-external-memory-supports.md), [routines and pacing](09-single-task-routines-and-pacing.md) or [contributors](10-contributors-and-coexisting-conditions.md), depending on the difficulty. Monitoring work is optional when that pattern fits. Keep useful aids: supported success counts, and education does not have to resolve symptoms before practical help begins. (*citation* [2](#citation-2))
 
 ### During a familiar flare
 
@@ -74,7 +39,7 @@ If the explanation is hard to absorb today, ask to revisit it with the same shor
 
 ### When to seek assessment
 
-Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. Progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
+Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. New difficulty recognizing highly familiar people, progressive loss of familiar knowledge, major visual-spatial change, progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
 
@@ -100,7 +65,7 @@ Agree a written next step, accessible prompts and a review point. Assess symptom
 
 ## Research and Sources
 
-This page expands original entry 1, **Positive explanation of the cognitive pattern**, as foundational education rather than a stand-alone exercise. The memory categories are descriptive vocabulary, not an FCD prevalence ranking. The functional examples are educational applications; not every example has been separately measured in an FCD cohort. Everyday examples are illustrations, not patient quotations. Practical steps are educational adaptations of the clinical approach; they are not a reproduced trial protocol or an individually validated treatment. Evidence for a whole programme must not be transferred to each component.
+This page expands original entry 1, **Positive explanation of the cognitive pattern**, as foundational education rather than a stand-alone exercise. The detailed cognitive-process and memory explanation now lives on the separate background page; this page applies it to formulation and care planning. The functional examples are educational applications; not every example has been separately measured in an FCD cohort. Everyday examples are illustrations, not patient quotations. Practical steps are educational adaptations of the clinical approach; they are not a reproduced trial protocol or an individually validated treatment. Evidence for a whole programme must not be transferred to each component.
 
 | Citation | Source | What it supports and its limits | Figure |
 | --- | --- | --- | --- |

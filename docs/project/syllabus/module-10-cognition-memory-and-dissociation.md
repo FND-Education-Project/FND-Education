@@ -47,6 +47,14 @@ This section should focus on how clinicians can help the patient understand the 
 - Cognitive rehabilitation, external supports, reduced competing load, metacognitive strategies, and treatment of contributing conditions.
 - Research limitations involving heterogeneous measures, small samples, psychiatric confounding, and overreliance on group averages.
 
+### Expanded cognition scope
+
+Teach recognition/familiarity, person knowledge and name retrieval separately from visual/nonverbal recall, visuospatial function and voluntary imagery. Include reported loss of previously vivid imagery as an assessment question, not an established FCD hallmark. Explain encoding, working memory and executive demands before presenting strategies.
+
+Distinguish cause/predisposition, trigger, mechanism and maintaining factor. Present attention/load, metacognitive monitoring and prediction as working models with limits. Migraine, pain, fatigue, sleep disorders and other illnesses remain independent contributors or coexisting conditions, not automatically FCD. Treatment response cannot prove a mechanism.
+
+Link to [Everything We Know About FCD](../../../reference/functional-cognitive-disorder.md). Teach restoration, compensation and accommodation together: supported success counts. Keep the motor-FND/dissociation imaging example bounded to its population and correlational design.
+
 ## Practical work
 
 - Build a small external-memory system using consistent locations, written summaries, alarms, and one-step prompts.

@@ -18,6 +18,8 @@ There is not one complete explanation for why FND begins or continues in every p
 - A useful treatment or explanation does not automatically prove why FND began. (*citations* [1](#citation-1), [3](#citation-3))
 - Research claims can be judged by what was measured, who was studied, what remains uncertain and whether the result applies to an individual. (*citations* [3](#citation-3), [4](#citation-4), [5](#citation-5))
 
+Research into brain networks and group-level structural differences can coexist: “functional” and “structural” are not simple opposites. Neither provides one settled cause or an individual diagnostic biomarker. The [brain-networks page](02-brain-networks-prediction-attention-and-agency.md#what-a-structural-imaging-study-can-show) explains an imaging example and its limits.
+
 ## Pages
 
 - **[Causes, Risk Factors, Triggers, and Maintaining Factors](01-causes-risk-factors-triggers-and-maintaining-factors.md)** — how the terms differ, why the beginning and the present may differ, and how to keep facts separate from possibilities.

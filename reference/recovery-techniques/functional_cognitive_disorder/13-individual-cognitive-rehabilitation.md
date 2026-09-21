@@ -4,6 +4,8 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Background:** [Everything We Know About FCD](../../functional-cognitive-disorder.md) — the concepts behind this page.
+
 **When this may fit:** When needs are complex, basic adaptations are insufficient or a person needs support applying strategies in daily life. **[Clinical rehabilitation guidance and early intervention development; efficacy uncertain]**
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
@@ -11,6 +13,12 @@
 ## For the Person With FND
 
 You may understand the advice and still struggle to make it work at home. Individual rehabilitation offers a chance to look at the actual task with someone who can help adapt it. The starting point can be a problem you want less of, not an exercise you are expected to master.
+
+### Match rehabilitation to the difficulty you actually have
+
+Assessment can look beyond remembering words. If relevant, describe difficulty with visual or nonverbal memory, recognizing or placing people, finding a person's name, judging layouts or routes, forming mental pictures, or following and organizing conversation. These are different functions. Face-recognition and imagery complaints are not established hallmark FCD signs and may need separate investigation.
+
+Your team can combine practice aimed at improving ability, ways of compensating and changes that make the task accessible. A written description can replace visualization; introductions with names and context can support participation. These are examples to individualize, not a proven FCD face-recognition or imagery-restoration programme. Useful aids can remain, and rehabilitation does not require certainty about every mechanism. Benefit cannot establish the cause or diagnosis. (*citations* [1](#citation-1), [2](#citation-2))
 
 ### A manageable way to begin
 
@@ -29,7 +37,7 @@ During a flare, return to a simpler agreed plan. If progress is limited, ask the
 
 ### When to seek assessment
 
-Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. Progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
+Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. New difficulty recognizing highly familiar people, progressive loss of familiar knowledge, major visual-spatial change, progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
 

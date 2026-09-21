@@ -25,6 +25,8 @@
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+**Further reading:** [Everything We Know About FCD](../functional-cognitive-disorder.md) explains cognitive processes, visual experiences and recovery principles. These experiences do not add new positive signs to the inventory below.
+
 ## Diagnostic techniques at a glance
 
 These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
@@ -67,11 +69,13 @@ Follow-up and selected laboratory, imaging or other tests address plausible comp
 
 ## For the Person With FND
 
-Functional Cognitive Disorder (FCD) can involve disabling problems with memory, attention, concentration, word finding or thinking. The difficulty is real. The central positive feature is **internal inconsistency**: cognitive ability may be available in one situation but difficult to access in another in a way that does not fit a progressive brain disease alone.
+Functional Cognitive Disorder (FCD) can involve disabling problems with memory, attention, concentration, word finding or thinking. The difficulty is real. The central positive feature is **internal inconsistency**: a clinically meaningful difference in access to the same cognitive ability across contexts, after accounting for task demands and other explanations. Ordinary fluctuation or one good performance is not enough.
 
 For example, the detailed history a person gives during an appointment may show abilities that appear unavailable in a formal task, or everyday successes may not fit the degree of loss expected from the reported problem. These are clues to examine, not contradictions that prove a person is unreliable. (*citations* [1](#citation-1))
 
-Normal imaging or one average screening score does not diagnose FCD. Sleep, pain, medication, mood, attention disorders, neurological disease and many other conditions may affect cognition and can coexist with FCD.
+Normal imaging or one average screening score does not diagnose FCD. Sleep, pain, migraine, fatigue, medication, mood, ADHD, sensory impairment and neurological disease may independently affect cognition or coexist with FCD; they are not automatically part of FCD. Recognition, visual recall and imagery complaints deserve assessment but are not established hallmark signs.
+
+New loss of recognition of highly familiar people, familiar knowledge or spatial abilities needs reassessment; sudden changes need urgent assessment. Getting lost or making unsafe medication or financial errors also warrants review.
 
 ### Cognitive difficulty may fluctuate or remain for long periods
 
@@ -92,6 +96,8 @@ A short period of difficulty and a longer cognitive flare can both be genuine. I
 
 ***
 ## For Clinicians and the Care Team
+
+Characterize the relevant domain: attention, encoding, working memory, language/semantic access, executive function, recognition/familiarity, visual or nonverbal recall, visuospatial function and imagery as indicated. Face-recognition and imagery complaints are not established hallmark FCD signs; investigate the differential. Internal inconsistency should concern the same domain with context and demands accounted for. A single good performance, normal scan, normal score or treatment response cannot establish FCD. (*citations* [1](#citation-1), [2](#citation-2))
 
 ### Episodic and prolonged presentations
 

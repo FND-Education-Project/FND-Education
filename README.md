@@ -273,3 +273,5 @@ FND Education provides general educational information only. It does not provide
 
 **Navigate:** [Home](README.md) · [Course](course/README.md) · [Reference Library](reference/README.md) · [Site Map](SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+**FCD background:** [Everything We Know About FCD](reference/functional-cognitive-disorder.md) explains cognition, recognition, visual recall, imagery and evidence limits. The [thirteen recovery pages](reference/recovery-techniques/functional_cognitive_disorder/README.md) remain a separate practical collection.

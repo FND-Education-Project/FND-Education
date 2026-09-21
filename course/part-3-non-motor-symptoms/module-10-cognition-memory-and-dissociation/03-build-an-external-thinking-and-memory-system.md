@@ -75,6 +75,14 @@ If aids become another source of distress, repeated checking or conflict, pause 
 [Research and Sources](#research-and-sources)
 ***
 
+### Supports beyond remembering appointments
+
+A restart marker (“next: read paragraph three”) can hold your place through an interruption. A short sequence beside a task reduces the need to rebuild its steps. With consent, names, context and labelled photographs may help place people when photographs remain useful. If imagery is difficult, an actual picture or written description can replace “picture it in your mind”; if recognition is difficult, a spoken introduction may help more than a photo.
+
+These are individualized adaptations, not proven treatments for restoring recognition or imagery. See [external cognitive supports](../../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md). Keeping a useful aid is compatible with recovery. (*citation* [1](#citation-1))
+
+[Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
+
 ## For Family, Friends, and Other Supporters
 
 Ask how reminders should be given. Use the agreed system rather than creating parallel calendars, surprise tests or repeated verbal prompts. Leave room for the person to do what they can.

@@ -4,6 +4,8 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Background:** [Everything We Know About FCD](../../functional-cognitive-disorder.md) — the concepts behind this page.
+
 **When this may fit:** When a strongly negative prediction makes a modest, safe task feel impossible. **[Clinical guidance; individual technique efficacy not established]**
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
@@ -11,6 +13,12 @@
 ## For the Person With FND
 
 After enough difficult experiences, it is easy to expect the next one to go badly too. A carefully chosen experiment can explore that expectation. Its purpose is curiosity, not catching you out or proving that your symptoms are less serious than you say.
+
+### What prediction means here
+
+A prediction is what you expect will happen: “I will lose the thread before I finish.” It may follow many genuine failures. One working hypothesis is that this expectation can influence where attention goes, which strategy you use, your confidence and whether you attempt the task. That is different from saying thoughts manufacture symptoms.
+
+This optional exercise explores the prediction **with support in place**. It does not require optimism. A prediction may be accurate; a difficult result can show that demands need changing. Any benefit would not prove that expectations caused your FCD. (*citations* [1](#citation-1), [2](#citation-2))
 
 ### A manageable way to begin
 
@@ -29,7 +37,7 @@ If you are already overloaded, leave the experiment for another day. Prediction 
 
 ### When to seek assessment
 
-Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. Progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
+Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. New difficulty recognizing highly familiar people, progressive loss of familiar knowledge, major visual-spatial change, progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
 

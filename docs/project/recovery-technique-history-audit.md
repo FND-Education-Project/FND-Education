@@ -31,7 +31,7 @@ The first thirteen symptom lists were additionally checked against their initial
 | [Functional Speech and Voice Symptoms](../../reference/recovery-techniques/09-functional-speech-and-voice-symptoms.md) | 11 | 11 | Eleven original entries expanded one-to-one; no additional pages. |
 | [Functional Swallowing Symptoms and Globus](../../reference/recovery-techniques/10-functional-swallowing-and-globus.md) | 11 | 11 | Eleven original entries expanded one-to-one; the September 16 audit incorrectly reported ten for swallowing. |
 | [Functional Cough and Upper-Airway Symptoms](../../reference/recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md) | 10 | 10 | Ten original entries expanded one-to-one; collection overview is an additional navigation document. |
-| [Functional Cognitive Disorder](../../reference/recovery-techniques/12-functional-cognitive-disorder.md) | 13 | 13 | Thirteen original entries expanded one-to-one; collection overview is an additional navigation document. |
+| [Functional Cognitive Disorder](../../reference/recovery-techniques/12-functional-cognitive-disorder.md) | 13 | 13 | Thirteen original entries expanded one-to-one; collection overview and separate FCD background are additional navigation/education documents, not interventions. |
 | [Persistent Postural-Perceptual Dizziness](../../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md) | 12 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
 | [Functional Facial Symptoms](../../reference/recovery-techniques/14-functional-facial-symptoms.md) | 8 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
 | [Functional Paralysis](../../reference/recovery-techniques/15-functional-paralysis.md) | 7 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
@@ -267,7 +267,7 @@ Checked September 21, 2026: the initial list at `a67567b`, historical baseline `
 | 5. Prediction versus performance | [Comparing What You Expect With What Happens](../../reference/recovery-techniques/functional_cognitive_disorder/05-prediction-and-performance.md) |
 | 6. Success record | [Keeping a Small Record of What Helped](../../reference/recovery-techniques/functional_cognitive_disorder/06-noticing-what-helped.md) |
 | 7. Graded return to meaningful cognitive tasks | [Returning to Reading, Conversation and Other Valued Tasks](../../reference/recovery-techniques/functional_cognitive_disorder/07-returning-to-meaningful-tasks.md) |
-| 8. External memory supports | [Building a Memory System You Can Actually Use](../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md) |
+| 8. External memory supports | [Building a Thinking and Memory System You Can Actually Use](../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md) |
 | 9. Single-task routines and pacing | [Making the Day Easier With Routines and Pacing](../../reference/recovery-techniques/functional_cognitive_disorder/09-single-task-routines-and-pacing.md) |
 | 10. Treat contributors and comorbidity | [Keeping Other Contributors in the Care Plan](../../reference/recovery-techniques/functional_cognitive_disorder/10-contributors-and-coexisting-conditions.md) |
 | 11. Online group ACT | [Considering an Online ACT Group](../../reference/recovery-techniques/functional_cognitive_disorder/11-online-group-act.md) |
@@ -319,3 +319,5 @@ The eleven entries at the common historical baseline also match the [pre-expansi
 | 11. Treat coexisting conditions | [Coexisting Conditions and Reassessment of Speech or Voice Changes](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/11-coexisting-conditions-and-reassessment.md) | One-to-one expansion. |
 
 September 21, 2026 clarification: FCD entry 1 is foundational education and care planning, not a memory-training exercise. Its page now explains memory categories and other cognitive functions; the original thirteen-entry mapping and page count are unchanged.
+
+September 21, 2026 background separation: [Everything We Know About FCD](../../reference/functional-cognitive-disorder.md) now holds the fuller conceptual explanation. Original entry 1 applies that explanation to an individual care plan. The thirteen original entries and their numbers remain intact; the collection overview and separate background bring this set to fifteen documents, not fifteen techniques. Recovery families do not imply independent mechanism validation.

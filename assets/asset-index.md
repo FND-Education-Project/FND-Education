@@ -129,3 +129,9 @@ Important meaning must also appear in the page text rather than being available 
 
 **Navigate:** [Home](../README.md) · [Course](../course/README.md) · [Reference Library](../reference/README.md) · [Site Map](../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+## FCD reference background
+
+| Asset | Reference page | Illustration meaning |
+| --- | --- | --- |
+| [fcd-cognitive-processes.svg](illustrations/fcd-cognitive-processes.svg) | [Everything We Know About FCD](../reference/functional-cognitive-disorder.md) | Cognitive tasks, possible process difficulties and an optional monitoring/prediction loop; other contributors remain separate from FCD. Original educational synthesis, not a measured causal model. |

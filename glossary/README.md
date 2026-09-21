@@ -116,10 +116,18 @@ Repetition of another person’s words. This description can occur in different 
 
 In FND, **functional** refers to a disorder of how nervous-system processes are functioning rather than a diagnosis defined by one specific structural lesion. It does not mean “imaginary,” “minor,” “voluntary,” or “nothing is wrong.” Research has also reported group-level structural and network differences in FND, so the word should not be interpreted as proof that the brain is structurally normal in every possible sense.
 
+### Internal inconsistency in cognition
+
+A clinically meaningful difference in access to the same cognitive ability across contexts, interpreted with task demands, cues and other explanations taken into account. It is involuntary; ordinary fluctuation or one good result is not enough to diagnose FCD. See [FCD diagnostic signs](../reference/diagnostic-signs/12-functional-cognitive-disorder.md).
+
+### Metacognition
+
+Judging and responding to your own thinking—for example, assessing whether you understood an instruction. Repeated monitoring can become unhelpful for some people, but is not the cause of everyone's FCD. See [working models](../reference/functional-cognitive-disorder.md#working-models-not-one-proven-cause).
+
 ### Functional Cognitive Disorder (FCD)
 **Type: clinical diagnosis / related functional disorder**
 
-A term used for persistent cognitive difficulties—such as problems with memory, attention, or thinking—when the clinical pattern shows features characteristic of functional cognitive symptoms. FCD may occur with or without other FND symptoms. Cognitive complaints can also have many other causes, so assessment should consider alternatives and coexisting conditions.
+FCD involves disabling or distressing cognitive difficulties with positive clinical evidence of a functional pattern. Cognition includes memory, attention, language access, processing speed and executive functions. Recognition, visual recall or imagery complaints deserve assessment but are not established hallmark FCD signs. Migraine, pain, fatigue, sleep disorders and other conditions may independently affect cognition or coexist; they are not automatically FCD. See [Everything We Know About FCD](../reference/functional-cognitive-disorder.md).
 
 ### Functional facial symptoms
 **Type: FND symptom group**

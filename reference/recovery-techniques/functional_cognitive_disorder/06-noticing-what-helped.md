@@ -4,6 +4,8 @@
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
+**Background:** [Everything We Know About FCD](../../functional-cognitive-disorder.md) — the concepts behind this page.
+
 **When this may fit:** When difficulties dominate recall and useful strategies or moments of participation are easily lost. **[Clinical guidance; individual technique efficacy not established]**
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
@@ -11,6 +13,12 @@
 ## For the Person With FND
 
 A success record does not have to be cheerful. It is simply a place to keep evidence of what helped: a reminder that worked, a conversation you enjoyed, or a recipe step you completed with support. Difficulties still belong in the picture.
+
+### What the record is for
+
+The aim is a balanced account of **context and strategy**: what you were doing, which conditions mattered and whether support helped. That can make it easier to judge your thinking without checking it all day. This optional metacognitive approach concerns how you understand performance, not the origin of everyone's FCD.
+
+For example: “A written cue helped me finish the call, but I needed an hour of quiet afterwards.” Include failures, effort, delayed effects and help from others. This is useful information for adapting the plan, not an instruction to replace difficult memories with positive ones. Improvement does not prove that beliefs caused the problem. (*citations* [1](#citation-1), [2](#citation-2))
 
 ### A manageable way to begin
 
@@ -29,7 +37,7 @@ If writing is too much during a flare, leave it. You can ask someone to help rec
 
 ### When to seek assessment
 
-Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. Progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
+Sudden new confusion, altered consciousness, or cognitive difficulty with new weakness, speech change, severe headache, fever, a seizure or head injury needs urgent medical assessment. New difficulty recognizing highly familiar people, progressive loss of familiar knowledge, major visual-spatial change, progressive decline, getting lost in familiar places, unsafe medication or financial errors, or a marked change from your usual pattern also needs review. Pause safety-sensitive activities when you cannot manage them safely. Existing FCD does not explain every new symptom.
 
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
 
