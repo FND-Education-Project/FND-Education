@@ -338,6 +338,10 @@ A description of an intense or prolonged bout of tic or tic-like symptoms. It do
 
 ## V
 
+### Vestibular rehabilitation and gaze stability
+
+Vestibular rehabilitation uses individually selected movement, balance and visual tasks to support function after assessment. Gaze stability means keeping vision steady during head movement; gaze exercises are not necessary for everyone with PPPD. A guideline for impaired inner-ear function does not automatically apply to PPPD. See [the individual plan](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/01-individual-vestibular-plan.md) and [gaze-stability discussion](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/05-gaze-stability.md).
+
 ### Video-EEG
 **Type: diagnostic test**
 

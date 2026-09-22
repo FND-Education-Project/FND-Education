@@ -671,6 +671,23 @@ Use the sections below to drill down into the course, reference library, researc
 - [FCD background](reference/functional-cognitive-disorder.md) → [Considering FCD-Specific Digital Self-Help](reference/recovery-techniques/functional_cognitive_disorder/12-digital-self-help.md)
 - [FCD background](reference/functional-cognitive-disorder.md) → [Planning Individual Cognitive Rehabilitation](reference/recovery-techniques/functional_cognitive_disorder/13-individual-cognitive-rehabilitation.md)
 
+## Persistent Postural-Perceptual Dizziness detailed recovery pages
+
+- [Collection overview](reference/recovery-techniques/persistent_postural_perceptual_dizziness/README.md)
+- [Building a Vestibular Rehabilitation Plan That Fits You](reference/recovery-techniques/persistent_postural_perceptual_dizziness/01-individual-vestibular-plan.md)
+- [Practising Head and Body Movement in Manageable Steps](reference/recovery-techniques/persistent_postural_perceptual_dizziness/02-head-and-body-motion.md)
+- [Making Sitting, Standing and Walking More Manageable](reference/recovery-techniques/persistent_postural_perceptual_dizziness/03-upright-activity.md)
+- [Making Busy Visual Settings More Manageable](reference/recovery-techniques/persistent_postural_perceptual_dizziness/04-visual-motion.md)
+- [Using Gaze-Stability Exercises Only When They Fit](reference/recovery-techniques/persistent_postural_perceptual_dizziness/05-gaze-stability.md)
+- [Practising Balance and Walking With Appropriate Support](reference/recovery-techniques/persistent_postural_perceptual_dizziness/06-balance-and-walking.md)
+- [Returning to Places and Activities That Matter](reference/recovery-techniques/persistent_postural_perceptual_dizziness/07-community-activities.md)
+- [Working With Worry and Attention During Vestibular Rehabilitation](reference/recovery-techniques/persistent_postural_perceptual_dizziness/08-psychologically-informed-rehabilitation.md)
+- [Keeping Other Causes of Dizziness in the Care Plan](reference/recovery-techniques/persistent_postural_perceptual_dizziness/09-coexisting-conditions.md)
+- [Considering Supervised Visual-Motion or Virtual-Reality Practice](reference/recovery-techniques/persistent_postural_perceptual_dizziness/10-visual-motion-technology.md)
+- [Discussing Experimental Stimulation With a Specialist](reference/recovery-techniques/persistent_postural_perceptual_dizziness/11-specialist-stimulation-review.md)
+- [Discussing an SSRI or SNRI With Your Prescriber](reference/recovery-techniques/persistent_postural_perceptual_dizziness/12-medication-discussion.md)
+- [Making a Plan for Flares and Changing Dizziness](reference/recovery-techniques/persistent_postural_perceptual_dizziness/13-flare-and-review-plan.md)
+
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](README.md) · [Course](course/README.md) · [Reference Library](reference/README.md) · [Site Map](SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

@@ -136,6 +136,8 @@ Facial tic-like movements need their own assessment. A facial location does not 
 
 **Source for this boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
 
+**Previous symptom:** [PPPD recovery overview](13-persistent-postural-perceptual-dizziness.md) · [PPPD flare and review plan](persistent_postural_perceptual_dizziness/13-flare-and-review-plan.md)
+
 <!-- NAV-CONTEXT:START -->
 **Previous in this collection:** [← Persistent Postural-Perceptual Dizziness](13-persistent-postural-perceptual-dizziness.md) · **Continue:** [Functional Paralysis →](15-functional-paralysis.md)
 

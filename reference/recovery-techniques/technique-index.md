@@ -210,16 +210,19 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 ### [Persistent postural-perceptual dizziness](13-persistent-postural-perceptual-dizziness.md)
 
-- **R/C** individualized vestibular rehabilitation
-- **R/C** habituation to head, body and visual motion
-- **C** gaze-stability, balance and gait exercises when assessment identifies a need
-- **R/C** graded exposure to upright posture, movement and visually busy environments
-- **E** psychologically informed vestibular rehabilitation, CBT or ACT
-- **C** treatment of vestibular migraine and other precipitating or coexisting conditions
-- **C** graded return to physical and community activity
-- **E** supervised optokinetic or virtual-reality practice
-- **E** specialist neuromodulation or galvanic vestibular stimulation; promising but low-certainty evidence
-- **C/uncertain** clinician-led SSRI or SNRI discussion; placebo-controlled PPPD evidence remains absent
+- **[Building a Vestibular Rehabilitation Plan That Fits You](persistent_postural_perceptual_dizziness/01-individual-vestibular-plan.md)** — When ongoing dizziness affects several parts of daily life and exercises need to match your assessed pattern. **[Clinical rehabilitation with emerging PPPD evidence; no universal programme]**
+- **[Practising Head and Body Movement in Manageable Steps](persistent_postural_perceptual_dizziness/02-head-and-body-motion.md)** — When familiar, assessed movements such as turning towards a person or bending during a task reliably bring on dizziness. **[Clinical adaptation within rehabilitation; standalone efficacy uncertain]**
+- **[Making Sitting, Standing and Walking More Manageable](persistent_postural_perceptual_dizziness/03-upright-activity.md)** — When upright activity worsens an established PPPD pattern, with faintness and other causes assessed separately. **[Individualized rehabilitation guidance; component efficacy uncertain]**
+- **[Making Busy Visual Settings More Manageable](persistent_postural_perceptual_dizziness/04-visual-motion.md)** — When scrolling, passing traffic, shelves or moving crowds worsen assessed visually induced dizziness. **[Clinical adaptation with limited PPPD-specific evidence]**
+- **[Using Gaze-Stability Exercises Only When They Fit](persistent_postural_perceptual_dizziness/05-gaze-stability.md)** — When assessment identifies a problem keeping vision clear during head movement that a gaze exercise is intended to address. **[Adjacent vestibular-hypofunction guideline; not mandatory PPPD treatment]**
+- **[Practising Balance and Walking With Appropriate Support](persistent_postural_perceptual_dizziness/06-balance-and-walking.md)** — When assessed unsteadiness affects standing, turning or walking and practice needs to account for fall risk. **[Clinical rehabilitation; adjacent balance evidence and limited PPPD component evidence]**
+- **[Returning to Places and Activities That Matter](persistent_postural_perceptual_dizziness/07-community-activities.md)** — When dizziness has made a valued outing difficult and a practical, supported version could be explored. **[Individualized participation planning within rehabilitation; standalone efficacy uncertain]**
+- **[Working With Worry and Attention During Vestibular Rehabilitation](persistent_postural_perceptual_dizziness/08-psychologically-informed-rehabilitation.md)** — When symptom-related worry, constant monitoring or an assessed avoidance pattern makes rehabilitation harder and the person wants help with it. **[Emerging CBT-informed package evidence; not proof of psychological causation]**
+- **[Keeping Other Causes of Dizziness in the Care Plan](persistent_postural_perceptual_dizziness/09-coexisting-conditions.md)** — When migraine, positional vertigo, faintness, medicines or another condition may coexist with PPPD or change the treatment plan. **[Diagnostic and clinical care guidance; not an isolated PPPD treatment]**
+- **[Considering Supervised Visual-Motion or Virtual-Reality Practice](persistent_postural_perceptual_dizziness/10-visual-motion-technology.md)** — When a specialist proposes technology to tailor visual practice and simpler options have been considered. **[Emerging small-study evidence; optional specialist-selected adjunct]**
+- **[Discussing Experimental Stimulation With a Specialist](persistent_postural_perceptual_dizziness/11-specialist-stimulation-review.md)** — When a qualified team proposes a stimulation device or research study and you want to understand its limits and alternatives. **[Experimental or emerging evidence; no established self-treatment protocol]**
+- **[Discussing an SSRI or SNRI With Your Prescriber](persistent_postural_perceptual_dizziness/12-medication-discussion.md)** — When medication is being considered for persistent dizziness or a coexisting condition and the benefits, risks and follow-up need to be clear. **[Used in clinical practice; PPPD-specific placebo-controlled evidence uncertain]**
+- **[Making a Plan for Flares and Changing Dizziness](persistent_postural_perceptual_dizziness/13-flare-and-review-plan.md)** — When stronger periods of familiar dizziness disrupt daily life and you need a clear plan for support, activity and reassessment. **[Clinical self-management and care planning; standalone efficacy untested]**
 
 ### [Functional facial symptoms](14-functional-facial-symptoms.md)
 
@@ -270,8 +273,6 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Backward, sideways and direction-change walking](functional_gait_disorder/04-backward-sideways-and-direction-change-walking.md)** — Functional gait disorder; functional ankle weakness when the alternative direction is assessed as safe and useful. **[Clinical consensus; not helpful or safe for everyone]**
 
-**Balance and gait exercises after vestibular assessment** — PPPD. **C**
-
 **[Botulinum toxin discussion after specialist phenotype review](functional_dystonia/11-specialist-botulinum-toxin-review.md)** — Additional specialist treatment review. Selected functional dystonia and functional facial symptoms; routine use is not supported. **[A small functional-dystonia pilot randomized trial found no added benefit over placebo before cognitive behavioural therapy; selected use remains uncertain]**
 
 **Breathing, posture and muscle-relaxation exercises** — Speech/voice; tremor; facial symptoms. **C**
@@ -279,6 +280,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **[Brief pattern and context mapping](17-functional-tics-and-tic-like-symptoms.md#pattern-mapping)** — Functional tics: If useful, note a few examples of what happened before, during and after symptoms, including discomfort, urges, surroundings and other people’s responses. Stop if tracking makes life revolve around symptoms; no warning or trigger has to be found. **[Assessment and treatment-planning component; clinical consensus]**
 
 [FCD background](../functional-cognitive-disorder.md) → **[Building a Thinking and Memory System You Can Actually Use](functional_cognitive_disorder/08-external-memory-supports.md)** — External cognitive supports for encoding, future intentions, retrieval, recognition cues and task sequences. **[Clinical guidance; individual technique efficacy not established]**
+
+**[Building a Vestibular Rehabilitation Plan That Fits You](persistent_postural_perceptual_dizziness/01-individual-vestibular-plan.md)** — PPPD: When ongoing dizziness affects several parts of daily life and exercises need to match your assessed pattern. **[Clinical rehabilitation with emerging PPPD evidence; no universal programme]**
 
 **[Building an Easier Sound Into Words and Conversation](functional_speech_and_voice_symptoms/04-building-sound-into-speech.md)** — Functional speech and voice symptoms. A sound, syllable or word is available with less effort, but carrying it into longer speech remains difficult. **[Professional consensus; the progression must follow the person’s response]**
 
@@ -308,6 +311,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 [FCD background](../functional-cognitive-disorder.md) → **[Considering FCD-Specific Digital Self-Help](functional_cognitive_disorder/12-digital-self-help.md)** — When a person prefers flexible self-help and can access a suitable programme with an agreed clinical follow-up plan. **[Emerging evidence; uncontrolled feasibility study, not proof of efficacy]**
 
+**[Considering Supervised Visual-Motion or Virtual-Reality Practice](persistent_postural_perceptual_dizziness/10-visual-motion-technology.md)** — PPPD: When a specialist proposes technology to tailor visual practice and simpler options have been considered. **[Emerging small-study evidence; optional specialist-selected adjunct]**
+
 **Continuing accessibility and participation support** — Functional paralysis and persistent functional drop attacks. **C**
 
 **Coordinated multidisciplinary care for severe motor loss** — Functional paralysis. **C**
@@ -321,6 +326,10 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **[Diagnostic Explanation and Continuing Care](functional_seizures/01-diagnostic-explanation-and-continuing-care.md)** — Functional seizures. Ask how the diagnosis was established for each event type and leave with a written explanation, a treatment contact and follow-up. **[Clinical guideline recommendation; explanation alone is not an established seizure-stopping treatment]**
 
 **Diagnostic explanation and education as part of treatment** — All 17 symptom groups. **C**
+
+**[Discussing an SSRI or SNRI With Your Prescriber](persistent_postural_perceptual_dizziness/12-medication-discussion.md)** — PPPD: When medication is being considered for persistent dizziness or a coexisting condition and the benefits, risks and follow-up need to be clear. **[Used in clinical practice; PPPD-specific placebo-controlled evidence uncertain]**
+
+**[Discussing Experimental Stimulation With a Specialist](persistent_postural_perceptual_dizziness/11-specialist-stimulation-review.md)** — PPPD: When a qualified team proposes a stimulation device or research study and you want to understand its limits and alternatives. **[Experimental or emerging evidence; no established self-treatment protocol]**
 
 **[Easing Repeated Throat Clearing](functional_cough_and_upper_airway_symptoms/06-reducing-throat-clearing.md)** — Substitute one sip, swallow or gentle breath when safe, and address dryness or irritation. Repeated throat clearing can itself maintain irritation, but a new airway warning should never be suppressed without assessment. **[Professional consensus; individual assessment required]**
 
@@ -356,8 +365,6 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Foot sliding or “skating” progression](functional_gait_disorder/02-foot-sliding-or-skating-progression.md)** — Functional gait disorder and functional ankle weakness when surface contact permits movement that deliberate foot lifting does not. **[Clinical consensus; direct component evidence is limited]**
 
-**Gaze-stability exercises when indicated** — PPPD. **C**
-
 [FCD background](../functional-cognitive-disorder.md) → **[Giving One Task Your Attention](functional_cognitive_disorder/04-attending-to-one-task.md)** — Reduce competing input to support attention, encoding and working memory. **[Clinical guidance; individual technique efficacy not established]**
 
 **Graded activity and reconditioning** — Weakness; paralysis; gait; PPPD; mixed motor symptoms. **[Clinical consensus]**
@@ -376,8 +383,6 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Graded weight-bearing and functional use](functional_dystonia/04-graded-weight-bearing-and-functional-use.md)** — Functional dystonia when a hand or foot avoids contact or can accept some supported load but not yet participate fully in a task. **[Clinical consensus]**
 
-**Habituation to head, body and visual motion** — PPPD. **R/C**
-
 **[Hypnotherapy and Transparent Therapeutic Suggestion](functional_visual_symptoms/08-hypnotherapy-and-therapeutic-suggestion.md)** — Functional visual symptoms. A person wishes to discuss an optional clinician-delivered approach after the diagnosis and uncertain evidence have been explained. **[Emerging, very limited visual-specific evidence; not established routine treatment]**
 
 **[Individualized Episode Safety Plan](functional_seizures/02-individualized-episode-safety-plan.md)** — Functional seizures. Prepare the surroundings and response for shaking, still or unresponsive events, especially when there is no time to act on a warning. **[Clinical safety guidance; not a method for forcing an episode to stop]**
@@ -392,11 +397,19 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Keeping Other Causes and Conditions in the Care Plan](functional_cough_and_upper_airway_symptoms/10-treating-coexisting-conditions.md)** — Asthma, eosinophilic disease, reflux, rhinitis, infection, medication effects and structural or neurological laryngeal problems need appropriate treatment. **[Professional consensus; individual assessment required]**
 
+**[Keeping Other Causes of Dizziness in the Care Plan](persistent_postural_perceptual_dizziness/09-coexisting-conditions.md)** — PPPD: When migraine, positional vertigo, faintness, medicines or another condition may coexist with PPPD or change the treatment plan. **[Diagnostic and clinical care guidance; not an isolated PPPD treatment]**
+
 [FCD background](../functional-cognitive-disorder.md) → **[Keeping Other Contributors in the Care Plan](functional_cognitive_disorder/10-contributors-and-coexisting-conditions.md)** — Assess and treat independent or coexisting contributors without automatically calling them FCD. **[Clinical guidance; individual technique efficacy not established]**
+
+**[Making a Plan for Flares and Changing Dizziness](persistent_postural_perceptual_dizziness/13-flare-and-review-plan.md)** — PPPD: When stronger periods of familiar dizziness disrupt daily life and you need a clear plan for support, activity and reassessment. **[Clinical self-management and care planning; standalone efficacy untested]**
+
+**[Making Busy Visual Settings More Manageable](persistent_postural_perceptual_dizziness/04-visual-motion.md)** — PPPD: When scrolling, passing traffic, shelves or moving crowds worsen assessed visually induced dizziness. **[Clinical adaptation with limited PPPD-specific evidence]**
 
 **[Making Daily Life Kinder to Your Throat](functional_cough_and_upper_airway_symptoms/08-hydration-and-laryngeal-care.md)** — Follow individualized advice about fluids, humidity, voice use and irritants. Generic rules may not suit fluid restrictions, reflux or occupational exposure. **[Professional consensus; individual assessment required]**
 
 **[Making Meals More Manageable in Different Settings](functional_swallowing_and_globus/05-meal-setting-and-participation.md)** — Swallowing/globus: When a safe intake is established but pressure, sensory load or unfamiliar settings restrict participation. **[Professional consensus; individualized participation planning]**
+
+**[Making Sitting, Standing and Walking More Manageable](persistent_postural_perceptual_dizziness/03-upright-activity.md)** — PPPD: When upright activity worsens an established PPPD pattern, with faintness and other causes assessed separately. **[Individualized rehabilitation guidance; component efficacy uncertain]**
 
 **[Making Speech More Comfortable: Breath, Posture and Muscle Release](functional_speech_and_voice_symptoms/07-breath-posture-and-release.md)** — Functional speech and voice symptoms. Assessment finds extra jaw, neck, laryngeal or breathing effort during speech, and a tailored adjustment may reduce strain. **[Professional consensus and adjacent voice guidance; generic deep breathing is not a prescription]**
 
@@ -420,15 +433,11 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **Neck, jaw and laryngeal relaxation** — speech/voice. **C**
 
-**Neuromodulation or galvanic vestibular stimulation, specialist/research setting** — PPPD. **E**
-
 **[Noticing Briefly Better Vision Without Repeated Testing](functional_visual_symptoms/02-noticing-briefly-better-vision.md)** — Functional visual symptoms. Occasional useful visual moments occur naturally and can help identify a workable task or setting without increasing checking. **[Specialist clinical guidance; no isolated efficacy evidence]**
 
 **Noticing examples of briefly better function** — Visual symptoms; movement symptoms. **C**
 
 **[Noticing the Earliest Cough Urge](functional_cough_and_upper_airway_symptoms/01-noticing-the-earliest-urge.md)** — Notice the first tickle, tightness, breath change, situation or throat-clear urge before the full cough begins. Track briefly enough to find an intervention point, not to monitor the throat all day. **[Professional consensus; individual assessment required]**
-
-**Optokinetic or virtual-reality practice, supervised** — PPPD. **E**
 
 **Oral, swallowing, speech and eye-safety assessment** — Functional facial symptoms. **C**
 
@@ -454,6 +463,10 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **Posture and alignment retraining** — Tremor; dystonia; weakness; gait. **C**
 
+**[Practising Balance and Walking With Appropriate Support](persistent_postural_perceptual_dizziness/06-balance-and-walking.md)** — PPPD: When assessed unsteadiness affects standing, turning or walking and practice needs to account for fall risk. **[Clinical rehabilitation; adjacent balance evidence and limited PPPD component evidence]**
+
+**[Practising Head and Body Movement in Manageable Steps](persistent_postural_perceptual_dizziness/02-head-and-body-motion.md)** — PPPD: When familiar, assessed movements such as turning towards a person or bending during a task reliably bring on dizziness. **[Clinical adaptation within rehabilitation; standalone efficacy uncertain]**
+
 **[Practising the Conversations You Want to Have](functional_speech_and_voice_symptoms/08-practice-real-conversations.md)** — Functional speech and voice symptoms. A strategy helps in therapy but has not yet become usable in the conversations, calls or everyday exchanges that matter. **[Professional consensus; participation goals and practice demands should be individualized]**
 
 **[Practising With Assessed Food Textures and Amounts](functional_swallowing_and_globus/04-assessed-texture-and-volume-practice.md)** — Swallowing/globus: When the swallowing team has identified a safe starting intake and a reason to practise a specific change. **[Professional consensus and dysphagia safety guidance; no universal texture ladder]**
@@ -463,8 +476,6 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **Proportionate fall-hazard and activity review** — Functional drop attacks. **C**
 
 **[Psychologically Informed Support for Communication](functional_speech_and_voice_symptoms/10-psychologically-informed-communication-care.md)** — Functional speech and voice symptoms. Fear of difficult conversations, distress or unhelpful checking adds to the communication burden, and the person wants support with it. **[Professional consensus and limited broader dysphonia research; psychological treatment is not a requirement for all patients]**
-
-**Psychologically informed vestibular rehabilitation or CBT** — PPPD. **E**
 
 **[ReACT for Children and Adolescents](functional_seizures/06-react-for-children-and-adolescents.md)** — Additional age-specific treatment page. Functional seizures. Consider a clinician-delivered paediatric programme with an individualized response and family plan; its evidence does not establish the same approach for adults. **[Emerging paediatric programme evidence; do not generalize directly to adults]**
 
@@ -477,6 +488,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **Responsive rehabilitation dose planning from current capacity** — Functional paralysis. **C**
 
 **[Returning to Activities With Graded Trigger Practice](functional_cough_and_upper_airway_symptoms/07-graded-trigger-practice.md)** — After medical causes and safety are reviewed, practise the selected response with a mild version of a familiar trigger, then progress slowly toward real situations. Do not provoke severe respiratory symptoms at home. **[Professional consensus; individual assessment required]**
+
+**[Returning to Places and Activities That Matter](persistent_postural_perceptual_dizziness/07-community-activities.md)** — PPPD: When dizziness has made a valued outing difficult and a practical, supported version could be explored. **[Individualized participation planning within rehabilitation; standalone efficacy uncertain]**
 
 [FCD background](../functional-cognitive-disorder.md) → **[Returning to Reading, Conversation and Other Valued Tasks](functional_cognitive_disorder/07-returning-to-meaningful-tasks.md)** — When cognitive symptoms have interrupted an activity you want to resume or adapt. **[Clinical guidance; individual technique efficacy not established]**
 
@@ -501,8 +514,6 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **[Skin, Pressure and Injury Protection](functional_sensory_symptoms/11-skin-pressure-and-injury-protection.md)** — Additional injury-protection guidance. Functional sensory symptoms. Reduced sensation makes heat, cuts, pressure or footwear injury difficult to notice, including during temporary episodes. **[Clinical safety adaptation; protection is supportive care rather than a proven sensory-restoration treatment]**
 
 **[Speed and continuous-walking transformation](functional_gait_disorder/03-speed-and-continuous-walking-transformation.md)** — Functional gait disorder when another assessed pace improves continuity without increasing risk. **[Clinical consensus; direct component evidence is limited]**
-
-**SSRI or SNRI discussion with a prescriber** — PPPD; evidence specifically meeting strict PPPD placebo-trial criteria remains absent. **C/uncertain**
 
 **[Stairs as a supervised bridge](functional_gait_disorder/08-stairs-as-a-supervised-bridge.md)** — Functional gait disorder only when formal assessment finds a stair step safer or more automatic than level walking. **[Clinical consensus; stairs carry greater mechanical and fall demands]**
 
@@ -536,9 +547,9 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **Trigger, warning-sign and pattern mapping** — Functional seizures; jerks; mixed episodic symptoms. **C**
 
-**[Understanding the Diagnosis and Finding an Easier Starting Point](functional_speech_and_voice_symptoms/01-understanding-preserved-communication.md)** — Functional speech and voice symptoms. An assessed speech or voice problem needs a clear explanation, and differences between tasks may help the therapist choose where to begin. **[Professional consensus; a useful demonstration does not prove dependable speech in daily life]**
-
 [FCD background](../functional-cognitive-disorder.md) → **[Understanding Memory and Thinking Difficulties in FCD](functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md)** — Connects the assessed cognitive pattern with an individual support and review plan. **[Foundation for recovery; educational guidance, not a memory-training exercise]**
+
+**[Understanding the Diagnosis and Finding an Easier Starting Point](functional_speech_and_voice_symptoms/01-understanding-preserved-communication.md)** — Functional speech and voice symptoms. An assessed speech or voice problem needs a clear explanation, and differences between tasks may help the therapist choose where to begin. **[Professional consensus; a useful demonstration does not prove dependable speech in daily life]**
 
 **[Understanding Your Swallowing Assessment and Plan](functional_swallowing_and_globus/01-understanding-the-assessment.md)** — Swallowing/globus: When uncertainty about the diagnosis or safe eating is making every meal feel like a test. **[Professional consensus; diagnostic explanation and continuing care]**
 
@@ -546,9 +557,9 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Using a Sip and Swallow When It Is Safe](functional_cough_and_upper_airway_symptoms/02-sip-and-swallow.md)** — For some assessed patterns, take a small sip and complete one comfortable swallow instead of coughing or clearing repeatedly. Do not use this when swallowing safety is uncertain or when the person is choking. **[Professional consensus; individual assessment required]**
 
-**[Using Rhythm, Singing or Familiar Sequences](functional_speech_and_voice_symptoms/03-rhythm-singing-and-familiar-sequences.md)** — Functional speech and voice symptoms. Speech initiation or fluency changes with a familiar sequence, a gentle rhythm or melody, and that cue is comfortable and useful. **[Professional consensus; evidence from other speech disorders cannot be assumed to apply to FND]**
+**[Using Gaze-Stability Exercises Only When They Fit](persistent_postural_perceptual_dizziness/05-gaze-stability.md)** — PPPD: When assessment identifies a problem keeping vision clear during head movement that a gaze exercise is intended to address. **[Adjacent vestibular-hypofunction guideline; not mandatory PPPD treatment]**
 
-**Vestibular rehabilitation, individualized** — PPPD. **R/C**
+**[Using Rhythm, Singing or Familiar Sequences](functional_speech_and_voice_symptoms/03-rhythm-singing-and-familiar-sequences.md)** — Functional speech and voice symptoms. Speech initiation or fluency changes with a familiar sequence, a gentle rhythm or melody, and that cue is comfortable and useful. **[Professional consensus; evidence from other speech disorders cannot be assumed to apply to FND]**
 
 **[Visual and Mirror Feedback for Altered Body Sensation](functional_sensory_symptoms/06-visual-and-mirror-feedback.md)** — Functional sensory symptoms. Watching an affected area helps locate it or perform a safe task without increasing visual discomfort or disconnection. **[Clinical rehabilitation adaptation; direct FND sensory-specific mirror evidence is uncertain]**
 
@@ -561,6 +572,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **[Working With Attention, Worry and the Cough Urge](functional_cough_and_upper_airway_symptoms/09-attention-and-arousal-support.md)** — Where threat, vigilance or stress amplifies the urge, treatment may include attention shifting, paced exposure or psychological care. This does not imply that the cough is fabricated. **[Professional consensus; individual assessment required]**
 
 **[Working With Fear of Choking Without Pressure](functional_swallowing_and_globus/08-fear-and-avoidance-support.md)** — Swallowing/globus: When fear or vigilance is restricting eating after safety has been assessed, including after a frightening event. **[Professional consensus; preliminary formulation-based evidence, not a universal exposure protocol]**
+
+**[Working With Worry and Attention During Vestibular Rehabilitation](persistent_postural_perceptual_dizziness/08-psychologically-informed-rehabilitation.md)** — PPPD: When symptom-related worry, constant monitoring or an assessed avoidance pattern makes rehabilitation harder and the person wants help with it. **[Emerging CBT-informed package evidence; not proof of psychological causation]**
 
 ## Scope and gaps
 
