@@ -74,5 +74,7 @@ Clinical reviewers can assess accuracy, limits and safety. People with FND and s
 **[Functional cough and upper-airway symptoms: ten detailed recovery pages](recovery-techniques/functional_cough_and_upper_airway_symptoms/README.md)** — all ten original entries expanded one-to-one, plus a collection overview. Assessed cough responses, breathing coordination, everyday care and coexisting conditions; professional-consensus evidence with diagnostic and airway-safety boundaries. Added September 20, 2026; human review pending.
 
 <!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: FND Reference Library Index](reference-index.md)
+
 **Navigate:** [Home](../README.md) · [Course](../course/README.md) · [Reference Library](README.md) · [Site Map](../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

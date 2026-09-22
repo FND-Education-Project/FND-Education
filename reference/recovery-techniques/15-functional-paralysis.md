@@ -18,9 +18,18 @@ Functional-paralysis-specific treatment trials were not located. The approaches 
 
 **Evidence labels:** **R** research-supported in broader functional motor disorder · **C** clinical consensus · **E** emerging or extrapolated.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Community reports](#community-reports-what-people-try) · [Research and evidence](#research-and-evidence)
+[Community reports](#community-reports-what-people-try)
 
-## For the person with symptoms
+<a id="for-the-person-with-symptoms"></a>
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For the Person With FND
 
 ### Protect the body and preserve access first
 
@@ -44,7 +53,16 @@ Ask the treating team: “What movement or task is reliably available now, and w
 
 Paralysis is new, suddenly different or follows injury; occurs with new facial droop, speech or understanding difficulty, severe headache, loss of bladder or bowel control, saddle numbness, fever or altered consciousness; or causes repeated falls, pressure injury, progressive contracture, swelling, severe pain or a major loss of independence. An established FND diagnosis does not determine every new episode.
 
-## For family, friends and supporters
+<a id="for-family-friends-and-supporters"></a>
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For Family, Friends, and Other Supporters
 
 - Ask before helping and use only transfer methods for which you have been trained; do not pull an arm or lift alone when equipment or a second helper is required.
 - Keep mobility and communication aids within reach. Check pathways, seating, charging and transport rather than hiding or withholding equipment to encourage movement.
@@ -54,7 +72,16 @@ Paralysis is new, suddenly different or follows injury; occurs with new facial d
 
 During a familiar episode, follow the agreed sequence and watch for injury or a changed pattern. If no active technique is accessible, calm practical support is still useful.
 
-## For clinicians
+<a id="for-clinicians"></a>
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For Clinicians and the Care Team
 
 Confirm the motor phenotype and distinguish persistent or episodic limb paralysis from immobility within a functional seizure, cataplexy, postictal paresis and structural disease. Document positive diagnostic evidence and explain it without overstating what any one sign proves.
 
@@ -86,19 +113,20 @@ These quotations are **lived-experience candidates, not treatment evidence or in
 
 The accounts support asking about aids, gradual rehabilitation and participation goals, and they preserve both benefit and non-benefit. They do not establish a paralysis-specific treatment, dose or prognosis. They also show why future community review must classify the actual appearance rather than rely on the poster’s label.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Community reports](#community-reports-what-people-try) · [Research and evidence](#research-and-evidence)
+[Community reports](#community-reports-what-people-try)
 
 **Previous symptom:** [Functional facial symptoms: detailed pages](functional_facial_symptoms/README.md).
 
-<!-- NAV-CONTEXT:START -->
-**Previous in this collection:** [← Functional Facial Symptoms](14-functional-facial-symptoms.md) · **Continue:** [Functional Drop Attacks →](16-functional-drop-attacks.md)
+<a id="research-and-evidence"></a>
 
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/15-functional-paralysis.md) · [Partial functional limb weakness](01-functional-limb-weakness.md) · [Functional-seizure recovery](06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
-## Research and evidence
+## Research and Sources
 
 There is **no located controlled trial specific to functional paralysis as a complete or near-complete movement-loss phenotype**. Physiotherapy consensus recommends education, retraining movement with diverted attention and functional rehabilitation for functional motor disorder. The Physio4FMD phase 3 trial evaluated a broader functional motor population: specialist physiotherapy did not produce a statistically significant difference in the primary physical-function outcome at 12 months, although some secondary outcomes favoured the intervention. These findings do not establish which approach works for severe paralysis. (*citations* [1](#citation-1), [2](#citation-2))
 
@@ -115,3 +143,18 @@ There is **no located controlled trial specific to functional paralysis as a com
 - [Reddit — “First paralysis episode”](https://www.reddit.com/r/FND/comments/1v2tbfb/first_paralysis_episode/)
 
 *Evidence and public-community search current to September 2, 2026 · Neurology, physiotherapy, occupational-therapy, nursing, lived-experience and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Recovery and Safety Techniques for Functional Drop Attacks](16-functional-drop-attacks.md)
+
+**Related:** [← Functional Facial Symptoms](14-functional-facial-symptoms.md) · [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/15-functional-paralysis.md) · [Partial functional limb weakness](01-functional-limb-weakness.md) · [Functional-seizure recovery](06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

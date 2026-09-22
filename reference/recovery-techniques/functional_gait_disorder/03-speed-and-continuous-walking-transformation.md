@@ -90,14 +90,6 @@ Measure gait continuity, interruptions, assistance, safe speed range, route comp
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique: Foot sliding or “skating” progression](02-foot-sliding-or-skating-progression.md) · [Next technique: Backward, sideways and direction-change walking](04-backward-sideways-and-direction-change-walking.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional gait overview](../05-functional-gait-disorder.md) · [Diagnostic signs](../../diagnostic-signs/05-functional-gait-disorder.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -106,3 +98,18 @@ Measure gait continuity, interruptions, assistance, safe speed range, route comp
 | <a id="citation-2"></a>**[2]** | Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. [FND-CIT-0020](../../../research/citation-index.md#fnd-cit-0020). [https://doi.org/10.1212/WNL.0000000000009649](https://doi.org/10.1212/WNL.0000000000009649) |
 
 *Detailed technique page created September 12, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Backward, Sideways and Direction-Change Walking for Functional Gait Disorder](04-backward-sideways-and-direction-change-walking.md)
+
+**Related:** [Previous technique: Foot sliding or “skating” progression](02-foot-sliding-or-skating-progression.md) · [Detailed technique index](README.md) · [Functional gait overview](../05-functional-gait-disorder.md) · [Diagnostic signs](../../diagnostic-signs/05-functional-gait-disorder.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

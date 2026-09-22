@@ -90,14 +90,6 @@ Measure step initiation, toe clearance, foot placement, distance, assistance, ai
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique: Rhythmic weight shift and step initiation](01-rhythmic-weight-shift-and-step-initiation.md) · [Next technique: Speed and continuous-walking transformation](03-speed-and-continuous-walking-transformation.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional gait overview](../05-functional-gait-disorder.md) · [Functional limb-weakness sliding page](../functional_limb_weakness/05-foot-sliding-for-ankle-and-leg-weakness.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -106,3 +98,18 @@ Measure step initiation, toe clearance, foot placement, distance, assistance, ai
 | <a id="citation-2"></a>**[2]** | Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. [FND-CIT-0020](../../../research/citation-index.md#fnd-cit-0020). [https://doi.org/10.1212/WNL.0000000000009649](https://doi.org/10.1212/WNL.0000000000009649) |
 
 *Detailed technique page created September 12, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Speed and Continuous-Walking Transformation for Functional Gait Disorder](03-speed-and-continuous-walking-transformation.md)
+
+**Related:** [Previous technique: Rhythmic weight shift and step initiation](01-rhythmic-weight-shift-and-step-initiation.md) · [Detailed technique index](README.md) · [Functional gait overview](../05-functional-gait-disorder.md) · [Functional limb-weakness sliding page](../functional_limb_weakness/05-foot-sliding-for-ankle-and-leg-weakness.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

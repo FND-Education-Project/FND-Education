@@ -125,12 +125,6 @@ Coordinate physiotherapy with occupational therapy, psychological care and medic
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Related:** [Detailed technique collection](functional_limb_weakness/README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/01-functional-limb-weakness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 Specialist consensus provides the most detailed movement-retraining instructions (**FND-CIT-0028**). The large Physio4FMD trial did not show a clear advantage for specialist physiotherapy on its primary 12-month physical-function outcome, although several secondary and patient-rated outcomes favoured the specialist programme; both pathways were generally safe and valued (**FND-CIT-0029**). A smaller trial found improvement from combined specialized physiotherapy and CBT, but its size and single-centre design limit certainty (**FND-CIT-0030**).
@@ -144,3 +138,18 @@ This means there is research support for structured FND rehabilitation as a pack
 - **FND-CIT-0030:** Macías-García D, et al. *Combined physiotherapy and cognitive behavioral therapy for functional movement disorders: a randomized clinical trial.* JAMA Neurology. 2024;81(9):966–976. [doi:10.1001/jamaneurol.2024.2393](https://doi.org/10.1001/jamaneurol.2024.2393)
 
 *Technique collection expanded: September 10, 2026 · Physiotherapy, occupational-therapy, lived-experience and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Limb Weakness: Detailed Recovery Techniques](functional_limb_weakness/README.md)
+
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/01-functional-limb-weakness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

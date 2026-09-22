@@ -8,17 +8,16 @@
 
 **Most likely fit:** Speech is unreliable, exhausting or unavailable, and another way to express needs, choices and ordinary conversation is needed. **[Communication-access guidance; aids can be temporary, intermittent or ongoing]**
 
+### Motor and vocal tic-like symptoms
+
+Motor or vocal tic-like symptoms may coexist with the symptoms discussed here. Their diagnosis and treatment should follow the individual formulation; communication access remains available when vocal symptoms interrupt a message. [See the dedicated functional-tics page](../17-functional-tics-and-tic-like-symptoms.md).
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-### Motor and vocal tic-like symptoms
-
-Motor or vocal tic-like symptoms may coexist with the symptoms discussed here. Their diagnosis and treatment should follow the individual formulation; communication access remains available when vocal symptoms interrupt a message. [See the dedicated functional-tics page](../17-functional-tics-and-tic-like-symptoms.md).
-
 
 ## For the Person With FND
 
@@ -99,10 +98,17 @@ ASHA supports individualized multimodal AAC and ongoing access to tools. This is
 
 *Sources checked September 17, 2026 · Speech-language pathology, relevant medical specialties, lived-experience, supporter and accessibility review pending.*
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous page](08-practice-real-conversations.md) · [Next page](10-psychologically-informed-communication-care.md)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-**Related:** [Original eleven-entry collection](README.md) · [Symptom overview and safety guidance](../09-functional-speech-and-voice-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/09-functional-speech-and-voice-symptoms.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Psychologically Informed Support for Communication](10-psychologically-informed-communication-care.md)
+
+**Related:** [Previous page](08-practice-real-conversations.md) · [Original eleven-entry collection](README.md) · [Symptom overview and safety guidance](../09-functional-speech-and-voice-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/09-functional-speech-and-voice-symptoms.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

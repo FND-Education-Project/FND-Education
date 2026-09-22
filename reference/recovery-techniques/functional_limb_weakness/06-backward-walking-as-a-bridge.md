@@ -88,14 +88,6 @@ Do not use backward walking as an unsupervised challenge or where vision, balanc
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Next technique: Treadmill and body-weight-supported walking](07-treadmill-and-body-weight-supported-walking.md)
-
-**Previous:** [Foot sliding](05-foot-sliding-for-ankle-and-leg-weakness.md) · **Index:** [Detailed techniques](README.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -104,3 +96,18 @@ Do not use backward walking as an unsupervised challenge or where vision, balanc
 | <a id="citation-2"></a>**[2]** | Nielsen G, Stone J, Lee TC, et al. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD). *The Lancet Neurology*. 2024;23(7):675–686. [FND-CIT-0029](../../../research/citation-index.md#fnd-cit-0029). [https://doi.org/10.1016/S1474-4422(24)00135-2](https://doi.org/10.1016/S1474-4422(24)00135-2) |
 
 *Detailed technique page created: September 10, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Treadmill and Body-Weight-Supported Walking](07-treadmill-and-body-weight-supported-walking.md)
+
+**Related:** [Foot sliding](05-foot-sliding-for-ankle-and-leg-weakness.md) · [Detailed techniques](README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

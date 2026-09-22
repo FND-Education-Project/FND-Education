@@ -81,14 +81,6 @@ AAN describes psychological interventions as possibly effective. CODES and the p
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique](04-sensory-grounding-and-attention-anchor.md) · [Next technique](06-react-for-children-and-adolescents.md)
-
-**Related:** [Technique collection and CBT resources](README.md) · [Seizure recovery overview](../06-functional-seizures.md) · [Episode safety plan](02-individualized-episode-safety-plan.md) · [Diagnostic reference](../../diagnostic-signs/06-functional-seizures.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation and source |
@@ -98,3 +90,18 @@ AAN describes psychological interventions as possibly effective. CODES and the p
 | <a id="citation-3"></a>**[3]** | LaFrance WC Jr, Baird GL, Barry JJ, et al. Multicenter pilot treatment trial for psychogenic nonepileptic seizures: a randomized clinical trial. *JAMA Psychiatry*. 2014;71(9):997–1005. [https://doi.org/10.1001/jamapsychiatry.2014.817](https://doi.org/10.1001/jamapsychiatry.2014.817) [FND-CIT-0032](../../../research/citation-index.md#fnd-cit-0032). |
 
 *Created September 14, 2026 · Neurology, relevant therapy, lived-experience, caregiver and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: ReACT for Children and Adolescents for Functional Seizures](06-react-for-children-and-adolescents.md)
+
+**Related:** [Previous technique](04-sensory-grounding-and-attention-anchor.md) · [Technique collection and CBT resources](README.md) · [Seizure recovery overview](../06-functional-seizures.md) · [Episode safety plan](02-individualized-episode-safety-plan.md) · [Diagnostic reference](../../diagnostic-signs/06-functional-seizures.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

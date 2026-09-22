@@ -18,18 +18,11 @@
 **Diagnostic method:** Identify a positive functional facial pattern in the wider neurological examination while assessing stroke, facial-nerve disease, hemifacial spasm, non-functional dystonia and other alternatives.  
 **Media needed:** A consented, captioned still-image sequence or continuous examination clip showing the observed muscles and change without presenting one facial appearance as diagnostic.
 
-***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
 
 ### Motor and vocal tic-like symptoms
 
 Facial tic-like movements need their own assessment. A facial location does not make a tic equivalent to dystonia, weakness or spasm. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
-
 
 ## Diagnostic techniques at a glance
 
@@ -66,6 +59,11 @@ A small comparative study examined an electrophysiological difference between es
 Testing facial power and associated neurological findings helps distinguish weakness from overactivity and identify other causes. Imaging or neurophysiology may be appropriate. Normal tests alone do not establish functional facial symptoms. (*citations* [1](#citation-1), [6](#citation-6))
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -85,6 +83,11 @@ During a **familiar, medically assessed** episode, stop driving, eating or anoth
 Drooling may occur when lip or mouth control is reduced, but it can also accompany swallowing, dental, medication, facial-nerve or other medical problems. New drooling, coughing or choking with food or drink, a wet or gurgly voice, food remaining in the mouth, recurrent chest infection, dehydration or weight loss deserves swallowing and medical assessment. See [Functional Swallowing Symptoms and Globus](10-functional-swallowing-and-globus.md).
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Family, Friends, and Other Supporters
 
@@ -103,6 +106,11 @@ If the person has already had the facial symptom assessed and it matches their e
 
 A familiar episode may be brief or may last much longer. Support safety and dignity rather than expecting the person to stop it on command. An inability to change the symptom says nothing about effort.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
 ***
 
 ## For Clinicians and the Care Team
@@ -140,21 +148,15 @@ Use one continuous, consented clip or a short still-image sequence showing:
 The caption must say that one image cannot distinguish stroke, facial-nerve weakness, hemifacial spasm, dystonia and functional facial symptoms. Do not ask a person to repeat a painful spasm, remove ordinary supports, eat or drink for a demonstration, or delay acute medical assessment to obtain media.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 
 **Recovery reading:** [Ten detailed facial recovery and care pages](../recovery-techniques/functional_facial_symptoms/README.md), selected according to the assessed movement, oral function and eye-safety needs.
 
-<!-- NAV-CONTEXT:START -->
-**Previous in this collection:** [← Persistent Postural-Perceptual Dizziness](13-persistent-postural-perceptual-dizziness.md) · **Continue:** [Functional Paralysis →](15-functional-paralysis.md)
-
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md) · [Swallowing symptoms](10-functional-swallowing-and-globus.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## Research and Sources
 
@@ -182,3 +184,18 @@ The caption must say that one image cannot distinguish stroke, facial-nerve weak
 | <a id="citation-7"></a>**[7]** | Schwingenschuh P, Katschnig P, Edwards MJ, et al. The blink reflex recovery cycle differs between essential and presumed psychogenic blepharospasm. *Neurology*. 2011;76(7):610-614. [DOI](https://doi.org/10.1212/wnl.0b013e31820c3074). [PMID: 21321334](https://pubmed.ncbi.nlm.nih.gov/21321334/). [FND-CIT-0124](../../research/citation-index.md#fnd-cit-0124). |
 
 *Evidence search current to September 1, 2026 · Movement-disorders, stroke, speech-language and lived-experience review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Paralysis](15-functional-paralysis.md)
+
+**Related:** [← Persistent Postural-Perceptual Dizziness](13-persistent-postural-perceptual-dizziness.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md) · [Swallowing symptoms](10-functional-swallowing-and-globus.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

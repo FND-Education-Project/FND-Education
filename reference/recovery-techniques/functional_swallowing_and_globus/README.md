@@ -40,7 +40,7 @@ Most guidance comes from professional consensus. A six-client exemplar series of
 - Miles A, Baker J, Barker-Collo S, Leadley S. Functional dysphagia: Developing a framework for assessment and treatment. *International Journal of Speech-Language Pathology*. 2026;28:155–170. Online March 11, 2025. [FND-CIT-0116](../../../research/citation-index.md#fnd-cit-0116). [Source](https://doi.org/10.1080/17549507.2025.2473071). Expert framework and six illustrative cases; not a controlled trial.
 
 <!-- NAV-CONTEXT:START -->
-**Begin:** [Understanding the assessment](01-understanding-the-assessment.md)
+**Continue:** [Next page: Understanding Your Swallowing Assessment and Plan](01-understanding-the-assessment.md)
 
 **Related:** [Symptom overview](../10-functional-swallowing-and-globus.md) · [Diagnostic assessment](../../diagnostic-signs/10-functional-swallowing-and-globus.md) · [Technique index](../technique-index.md)
 

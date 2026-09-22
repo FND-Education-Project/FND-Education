@@ -92,4 +92,10 @@ The sources describe motor-retraining and communication principles. They do not 
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](05-selected-facial-or-mouth-task.md) · [Previous page](03-familiar-episode-plan.md) · [Symptom overview](../14-functional-facial-symptoms.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Choosing a Facial or Mouth Task With Your Therapist](05-selected-facial-or-mouth-task.md)
+
+**Related:** [Collection index](README.md) · [Previous page](03-familiar-episode-plan.md) · [Symptom overview](../14-functional-facial-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

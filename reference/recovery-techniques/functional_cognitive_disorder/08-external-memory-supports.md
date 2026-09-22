@@ -102,4 +102,10 @@ This page expands original entry 8, **External memory supports**. Everyday examp
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](09-single-task-routines-and-pacing.md) · [Previous page](07-returning-to-meaningful-tasks.md) · [Symptom overview](../12-functional-cognitive-disorder.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Making the Day Easier With Routines and Pacing](09-single-task-routines-and-pacing.md)
+
+**Related:** [Collection index](README.md) · [Previous page](07-returning-to-meaningful-tasks.md) · [Symptom overview](../12-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

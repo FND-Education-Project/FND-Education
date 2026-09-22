@@ -97,4 +97,10 @@ The Choi study randomized patients to VR vestibular exercise with or without add
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](11-specialist-stimulation-review.md) · [Previous page](09-coexisting-conditions.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Discussing Experimental Stimulation With a Specialist](11-specialist-stimulation-review.md)
+
+**Related:** [Collection index](README.md) · [Previous page](09-coexisting-conditions.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

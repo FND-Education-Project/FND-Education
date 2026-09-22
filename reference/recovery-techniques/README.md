@@ -44,7 +44,9 @@ The collection now covers **17 symptom presentations**, including motor and voca
 **[Functional facial symptoms: ten detailed pages](functional_facial_symptoms/README.md)** — all ten original entries expanded, plus a collection overview. Includes pattern-specific rehabilitation, practical support and a bounded specialist-injection discussion.
 
 <!-- NAV-CONTEXT:START -->
-**Reference:** [Reference Library](../README.md) · [Reference Index](../reference-index.md) · [Diagnostic Techniques](../diagnostic-signs/README.md)
+**Continue:** [Next page: Recovery and Management Technique Index](technique-index.md)
+
+**Related:** [Reference Index](../reference-index.md) · [Diagnostic Techniques](../diagnostic-signs/README.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

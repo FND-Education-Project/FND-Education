@@ -100,4 +100,10 @@ The 2026 network included 11 trials and 518 participants; 81.8% of studies were 
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](12-medication-discussion.md) · [Previous page](10-visual-motion-technology.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Discussing an SSRI or SNRI With Your Prescriber](12-medication-discussion.md)
+
+**Related:** [Collection index](README.md) · [Previous page](10-visual-motion-technology.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

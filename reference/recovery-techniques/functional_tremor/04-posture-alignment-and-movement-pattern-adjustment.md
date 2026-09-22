@@ -101,14 +101,6 @@ Avoid forced end-range positioning, prolonged bracing and unguarded balance expe
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Next technique: Contract–release and muscle relaxation](05-contract-release-and-muscle-relaxation.md)
-
-**Previous:** [External focus and meaningful-task practice](03-external-focus-and-meaningful-task-practice.md) · **Index:** [Detailed techniques](README.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -117,3 +109,18 @@ Avoid forced end-range positioning, prolonged bracing and unguarded balance expe
 | <a id="citation-2"></a>**[2]** | Bartl M, Kewitsch R, Hallett M, Tegenthoff M, Paulus W. Diagnosis and therapy of functional tremor: a systematic review illustrated by a case report. *Neurological Research and Practice*. 2020;2:35. [FND-CIT-0019](../../../research/citation-index.md#fnd-cit-0019). [https://doi.org/10.1186/s42466-020-00073-1](https://doi.org/10.1186/s42466-020-00073-1) |
 
 *Detailed technique page created: September 11, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Contract–Release and Muscle Relaxation for Functional Tremor](05-contract-release-and-muscle-relaxation.md)
+
+**Related:** [External focus and meaningful-task practice](03-external-focus-and-meaningful-task-practice.md) · [Detailed techniques](README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

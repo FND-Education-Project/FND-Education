@@ -11,7 +11,6 @@
 **Scope boundary:** Tics are not another name for [functional jerks](03-functional-jerks-and-myoclonus.md), [speech or voice impairment](09-functional-speech-and-voice-symptoms.md), or [cough](11-functional-cough-and-upper-airway-symptoms.md). Tourette syndrome and other primary tic disorders need their own assessment and may coexist with functional tic-like symptoms. A new sound or word does not by itself establish which diagnosis applies.
 
 [Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
-[For the Person With FND](#for-the-person-with-fnd) · [For Supporters](#for-family-friends-and-other-supporters) · [For Clinicians](#for-clinicians-and-the-care-team) · [Research and Sources](#research-and-sources)
 
 **Featured approach:** Specialist assessment of the symptom history, developmental course and overall clinical pattern.<br>
 **Diagnostic method:** Explain the positive clinical reasons for the formulation and their limits. No single movement, demographic feature or normal test establishes functional tic-like symptoms.<br>
@@ -60,6 +59,11 @@ Follow-up, childhood records and consensual collateral information can clarify m
 EEG–EMG may address a differential with jerks, but premovement potentials also occur in primary tics. There is no established high-accuracy laboratory test that independently separates functional tic-like symptoms from Tourette syndrome. Other tests answer specific differential questions. (*citations* [8](#citation-8), [9](#citation-9))
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -81,6 +85,13 @@ Functional tic-like symptoms and a primary tic disorder can occur together. A us
 
 Follow the agreed plan for familiar symptoms. Ask for reassessment when new sounds or movements persist or substantially change the pattern. Seek urgent help for serious injury, breathing or swallowing danger, new weakness or other acute neurological change, marked confusion, or a possible serious medication reaction. Do not assume every new symptom is part of an established FND diagnosis.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Believe that the symptom is happening without the person choosing it. Ask how they want you to respond to a sound or phrase, especially in public. They may prefer a brief acknowledgment and then time to finish their intended message. Avoid demanding an apology for involuntary words, asking them to demonstrate symptoms, or repeatedly testing whether they can stop.
@@ -88,6 +99,13 @@ Believe that the symptom is happening without the person choosing it. Ask how th
 For a consultation, a short description of the sequence and its impact may be more useful than a large symptom log. Record only with consent and never at the expense of safety. A quiet appointment, breaks or written information may help someone for whom discussing symptoms is difficult.
 
 Do not use online examples, a psychiatric history or a social-media habit to decide the diagnosis yourself. These can be discussed respectfully as context; none establishes that the person is copying deliberately. [1](#citation-1)
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -100,6 +118,13 @@ Do not transfer the diagnostic significance of tremor entrainment or jerk neurop
 ### Media contributor brief
 
 Use a fictional consultation or static diagram, with captions and a full text equivalent. Show routes for motor symptoms, vocal symptoms and coexistence. Explain why history and longitudinal assessment matter. Avoid symptom montages, provocative exercises, offensive example phrases and any visual suggestion that movement shape alone distinguishes diagnoses.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## Research and Sources
 
@@ -120,10 +145,17 @@ The review and assessment guideline support terminology and individualized evalu
 
 *Evidence check: September 17, 2026 · Human, clinical, lived-experience and accessibility review pending.*
 
-<!-- NAV-CONTEXT:START -->
-**Previous in this collection:** [← Functional Drop Attacks](16-functional-drop-attacks.md)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-**Related:** [Collection index](README.md) · [Paired recovery page](../recovery-techniques/17-functional-tics-and-tic-like-symptoms.md) · [Movement course lesson](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Recovery Techniques](../recovery-techniques/README.md)
+
+**Related:** [← Functional Drop Attacks](16-functional-drop-attacks.md) · [Collection index](README.md) · [Paired recovery page](../recovery-techniques/17-functional-tics-and-tic-like-symptoms.md) · [Movement course lesson](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

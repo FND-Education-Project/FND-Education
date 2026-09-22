@@ -85,14 +85,6 @@ The procedures are educational implementation examples requiring clinical adapta
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique](11-skin-pressure-and-injury-protection.md)
-
-**Related:** [Detailed technique index](README.md) · [Symptom overview and reassessment guidance](../07-functional-sensory-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/07-functional-sensory-symptoms.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 OT consensus supports individualized routines, adaptation and relapse planning. The sequence on this page is an educational planning aid; it has not been validated as a way to prevent functional sensory episodes.
@@ -103,3 +95,18 @@ OT consensus supports individualized routines, adaptation and relapse planning. 
 | <a id="citation-2"></a>**[2]** | Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031. [FND-CIT-0023](../../../research/citation-index.md#fnd-cit-0023). [Source](https://doi.org/10.1093/braincomms/fcag031) |
 
 *Source check: September 15, 2026 · Occupational-therapy, physiotherapy, neurology, pain, equipment, lived-experience, supporter and accessibility review pending.*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Recovery Techniques for Functional Visual Symptoms](../08-functional-visual-symptoms.md)
+
+**Related:** [Previous technique](11-skin-pressure-and-injury-protection.md) · [Detailed technique index](README.md) · [Symptom overview and reassessment guidance](../07-functional-sensory-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/07-functional-sensory-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

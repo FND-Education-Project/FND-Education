@@ -106,10 +106,17 @@ No new community quotations are included. Lived-experience review should cover h
 
 *Evidence checked September 16, 2026 · Ophthalmology, orthoptics, lived-experience and accessibility review pending.*
 
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Detailed pages](functional_visual_symptoms/README.md) · [Diagnostic signs](../diagnostic-signs/08-functional-visual-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/02-visual-symptoms-photophobia-and-sensory-overload.md)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-**Previous:** [Functional sensory symptoms](07-functional-sensory-symptoms.md) · **Next:** [Functional speech and voice symptoms](09-functional-speech-and-voice-symptoms.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Visual Symptoms: Detailed Recovery and Treatment Review](functional_visual_symptoms/README.md)
+
+**Related:** [Collection index](README.md) · [Diagnostic signs](../diagnostic-signs/08-functional-visual-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/02-visual-symptoms-photophobia-and-sensory-overload.md) · [Functional sensory symptoms](07-functional-sensory-symptoms.md) · [Functional speech and voice symptoms](09-functional-speech-and-voice-symptoms.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

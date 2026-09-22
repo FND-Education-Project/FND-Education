@@ -20,13 +20,7 @@
 
 **Technique scope:** The detailed sign below applies to a suitable presentation of unilateral leg weakness. It is not an arm, facial, bilateral-paralysis or drop-attack test. When the appearance differs, clinicians need a matching positive assessment; this page does not claim that Hoover’s sign fills that gap.
 
-***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
 
 ## Diagnostic techniques at a glance
 
@@ -101,6 +95,11 @@ Face avoidance during arm release has appeared in clinical descriptions, includi
 **Evidence map:** The 2025 review helps locate the original weakness studies; those primary papers are cited separately above. Its search ended in March 2024, so it cannot establish that later replication literature is complete. (*citations* [18](#citation-18))
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -137,6 +136,11 @@ New weakness, a substantially different pattern, or weakness with new facial dro
 Do not repeatedly perform Hoover’s sign on yourself or ask someone at home to interpret it. A useful question for the clinician is: **“Which positive sign supported my diagnosis, and what did it show in my examination?”**
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Family, Friends, and Other Supporters
 
@@ -152,6 +156,11 @@ Use **one** agreed movement cue if the person wants it; avoid a stream of correc
 
 Useful observations include what the person was doing when the change began, which limb was affected, how long it lasted, whether another symptom occurred with it, and what recovery looked like. These details can help the clinical team without turning family life into constant monitoring.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
 ***
 
 ## For Clinicians and the Care Team
@@ -199,17 +208,11 @@ Keep both phases in their true order. Do not edit together different attempts to
 **Suggested alternative image:** Two matching side-view diagrams labelled “direct hip extension” and “automatic hip extension during opposite hip flexion,” with arrows showing heel pressure.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/01-functional-limb-weakness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
 
@@ -244,3 +247,18 @@ Keep both phases in their true order. Do not edit together different attempts to
 | <a id="citation-18"></a>**[18]** | Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functional motor weakness: a review of validated techniques. *Journal of neurology*. 2025;272(6):427. [DOI](https://doi.org/10.1007/s00415-025-13139-4). [PMID: 40423819](https://pubmed.ncbi.nlm.nih.gov/40423819/). [FND-CIT-0183](../../research/citation-index.md#fnd-cit-0183). |
 
 *Merged with project-lead draft: September 10, 2026 · Neurology, physiotherapy, lived-experience and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Tremor](02-functional-tremor.md)
+
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/01-functional-limb-weakness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

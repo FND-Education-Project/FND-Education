@@ -97,4 +97,10 @@ Activity planning and real-world practice are represented in clinical programmes
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](08-psychologically-informed-rehabilitation.md) · [Previous page](06-balance-and-walking.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Working With Worry and Attention During Vestibular Rehabilitation](08-psychologically-informed-rehabilitation.md)
+
+**Related:** [Collection index](README.md) · [Previous page](06-balance-and-walking.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

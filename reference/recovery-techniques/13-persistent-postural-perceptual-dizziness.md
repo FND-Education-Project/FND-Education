@@ -18,14 +18,14 @@
 
 PPPD treatment usually combines an individualized explanation with gradual return to upright posture, head/body motion, visual motion and everyday activity. Practice should fit assessed capacity, fall risk and coexisting conditions. Stronger symptoms are not a target, and useful support can remain in place.
 
+<a id="for-the-person-with-symptoms"></a>
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<a id="for-the-person-with-symptoms"></a>
 
 ## For the Person With FND
 
@@ -68,6 +68,7 @@ Choose one already-safe activity—such as sitting upright or a short walk on a 
 
 Dizziness is sudden or distinctly different, or occurs with new weakness, double vision, speech trouble, inability to walk, severe headache, fainting, chest pain, hearing loss, head injury or persistent vomiting. Even established PPPD requires reassessment when falls, new ear/neurological signs or progressive functional loss occur.
 
+<a id="for-family-friends-and-supporters"></a>
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -75,8 +76,6 @@ Dizziness is sudden or distinctly different, or occurs with new weakness, double
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<a id="for-family-friends-and-supporters"></a>
 
 ## For Family, Friends, and Other Supporters
 
@@ -90,6 +89,7 @@ Dizziness is sudden or distinctly different, or occurs with new weakness, double
 
 Help with fall safety and the person’s planned exit or recovery strategy. A temporary reduction in activity may be appropriate, but do not insist on either pushing through or prolonged complete avoidance. Support an easier activity if it is manageable; accept a pause when it is not. Help the person review the plan before building back up. New or distinctly different dizziness still deserves reassessment.
 
+<a id="for-clinicians"></a>
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -97,8 +97,6 @@ Help with fall safety and the person’s planned exit or recovery strategy. A te
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<a id="for-clinicians"></a>
 
 ## For Clinicians and the Care Team
 
@@ -110,6 +108,7 @@ Document the Criterion A background separately from exacerbations: usual hours/d
 
 Set a baseline dose and progress one dimension at a time. Discuss CBT-informed support when an assessed monitoring, worry or avoidance pattern is relevant; do not infer that it caused PPPD. Measure participation and visually complex real-world function, not only symptom provocation. Discuss medication evidence honestly and coordinate migraine or psychiatric treatment as appropriate.
 
+<a id="research-and-evidence"></a>
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -117,8 +116,6 @@ Set a baseline dose and progress one dimension at a time. Discuss CBT-informed s
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<a id="research-and-evidence"></a>
 
 ## Research and Sources
 
@@ -151,9 +148,9 @@ No community-only technique or new quotation has been added. Everyday examples a
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Detailed PPPD recovery pages →](persistent_postural_perceptual_dizziness/README.md) · [Previous symptom: FCD](12-functional-cognitive-disorder.md) · [Next symptom: Functional facial symptoms](14-functional-facial-symptoms.md)
+**Continue:** [Next page: Persistent Postural-Perceptual Dizziness: Detailed Recovery Pages](persistent_postural_perceptual_dizziness/README.md)
 
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/03-dizziness-balance-and-vestibular-overlap.md)
+**Related:** [Previous symptom: FCD](12-functional-cognitive-disorder.md) · [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/03-dizziness-balance-and-vestibular-overlap.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

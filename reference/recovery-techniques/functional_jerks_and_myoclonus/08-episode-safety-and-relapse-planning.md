@@ -98,14 +98,6 @@ Outcomes include injuries and near misses, successful hazard control, supporter 
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous: Arousal and startle regulation](07-arousal-and-startle-regulation.md) · [Next technique: Individualized multidisciplinary treatment](09-individualized-multidisciplinary-treatment.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional jerks overview](../03-functional-jerks-and-myoclonus.md) · [Diagnostic signs](../../diagnostic-signs/03-functional-jerks-and-myoclonus.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -115,3 +107,18 @@ Outcomes include injuries and near misses, successful hazard control, supporter 
 | <a id="citation-3"></a>**[3]** | Peña AB, Caviness JN. Physiology-based treatment of myoclonus. *Neurotherapeutics*. 2020;17(4):1665–1680. [FND-CIT-0092](../../../research/citation-index.md#fnd-cit-0092). [https://doi.org/10.1007/s13311-020-00922-6](https://doi.org/10.1007/s13311-020-00922-6) |
 
 *Detailed technique page created: September 11, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Individualized Multidisciplinary Treatment for Functional Jerks](09-individualized-multidisciplinary-treatment.md)
+
+**Related:** [Previous: Arousal and startle regulation](07-arousal-and-startle-regulation.md) · [Detailed technique index](README.md) · [Functional jerks overview](../03-functional-jerks-and-myoclonus.md) · [Diagnostic signs](../../diagnostic-signs/03-functional-jerks-and-myoclonus.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

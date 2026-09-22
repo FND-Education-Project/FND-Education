@@ -91,4 +91,10 @@ Neurosymptoms offers facial-specific expert guidance on movement/light triggers.
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](07-comfort-and-less-effort.md) · [Previous page](05-selected-facial-or-mouth-task.md) · [Symptom overview](../14-functional-facial-symptoms.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Making Your Face, Jaw and Neck More Comfortable](07-comfort-and-less-effort.md)
+
+**Related:** [Collection index](README.md) · [Previous page](05-selected-facial-or-mouth-task.md) · [Symptom overview](../14-functional-facial-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

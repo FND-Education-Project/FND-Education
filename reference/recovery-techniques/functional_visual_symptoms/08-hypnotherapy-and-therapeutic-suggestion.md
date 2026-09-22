@@ -83,14 +83,6 @@ This is an educational implementation example, not a validated standalone treatm
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous page](07-coexisting-eye-migraine-and-neurological-care.md) · [Next page](09-advanced-feedback-and-brain-stimulation-review.md)
-
-**Related:** [Original nine-entry collection](README.md) · [Visual overview and safety guidance](../08-functional-visual-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/08-functional-visual-symptoms.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 The 2024 review describes small visual-loss reports and broader FND hypnosis/suggestion literature. Mixed diagnoses, younger populations, uncontrolled designs and combined treatments limit inference. Broader FND trials do not establish visual-specific efficacy; the 2026 synthesis still finds very limited treatment data.
@@ -101,3 +93,18 @@ The 2024 review describes small visual-loss reports and broader FND hypnosis/sug
 | <a id="citation-2"></a>**[2]** | Ramsay N, Tessmann H, McKee J, Ercoli T, Stone J. Functional visual loss: a systematic review and meta-analysis of epidemiology, prognosis and treatment. *Eye*. 2026;40:1784–1793. Published online June 26, 2026. [FND-CIT-0103](../../../research/citation-index.md#fnd-cit-0103). [Source](https://doi.org/10.1038/s41433-026-04648-1) |
 
 *Source check: September 16, 2026 · Ophthalmology, neuro-ophthalmology, orthoptics, migraine, psychological, lived-experience, supporter and accessibility review pending.*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Advanced Visual Feedback and Non-Invasive Brain Stimulation: Specialist Review](09-advanced-feedback-and-brain-stimulation-review.md)
+
+**Related:** [Previous page](07-coexisting-eye-migraine-and-neurological-care.md) · [Original nine-entry collection](README.md) · [Visual overview and safety guidance](../08-functional-visual-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/08-functional-visual-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

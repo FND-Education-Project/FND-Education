@@ -104,4 +104,10 @@ This page expands original entry 1, **Positive explanation of the cognitive patt
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](02-reducing-self-testing.md) · [Previous page](README.md) · [Symptom overview](../12-functional-cognitive-disorder.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Taking a Break From Repeated Memory Tests](02-reducing-self-testing.md)
+
+**Related:** [Previous page](README.md) · [Symptom overview](../12-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

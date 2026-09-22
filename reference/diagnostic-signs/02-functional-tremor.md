@@ -17,13 +17,8 @@
 **Diagnostic method:** Observe whether tremor frequency, amplitude or presence changes during a separate task or while another limb follows imposed rhythms.  
 **Media needed:** One continuous clinician-led video with visible or audible pacing.
 
-***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+
 ## Diagnostic techniques at a glance
 
 These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
@@ -79,6 +74,11 @@ Movement may become more apparent elsewhere when one affected body part is stead
 Symptoms may change after a clinician’s suggestion or sensory cue. Small descriptive reports exist, but suggestion is not specific to FND. Transparent explanation and consent are essential; deceptive or painful provocation is not justified for this observation. (*citations* [13](#citation-13))
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -95,6 +95,12 @@ Functional tremor may be intermittent, appear in repeated bouts, fluctuate marke
 If a familiar tremor suddenly becomes strong, first make the activity safe: put down hot, sharp or breakable objects, stop driving or another hazardous task, and sit or stabilize the affected limb if needed. If rehabilitation has already identified a helpful rhythm, posture or external-focus task, use that one familiar cue rather than rapidly trying many strategies. A new or substantially different tremor, especially with other neurological symptoms, needs reassessment.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Do not repeatedly distract the person, surprise them or demand that they copy rhythms to see whether the tremor changes. Diagnostic observation belongs in a clinical assessment. At home, changes in tremor may be useful information for the person’s treatment team, but should not become surveillance or a test of credibility.
@@ -106,6 +112,12 @@ A person may have little visible tremor at one time and a disabling episode at a
 After safety is established, noting the activity, setting, duration, other symptoms and recovery may be more useful than describing how dramatic the movement looked.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 ### Episodic and prolonged presentations
@@ -140,17 +152,11 @@ The video should contain:
 Do not use rapid cuts, speed changes or music over the examination. Those edits would make frequency comparison unreliable. Captions should describe the task rather than declare that the sign “proves FND.”
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/02-functional-tremor.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
 
@@ -179,3 +185,18 @@ Do not use rapid cuts, speed changes or music over the examination. Those edits 
 | <a id="citation-13"></a>**[13]** | Saranza G, Vargas-Mendez D, Lang AE, Chen R. Suggestibility as a valuable criterion for laboratory-supported definite functional movement disorders. *Clinical neurophysiology practice*. 2021;6:103-108. [DOI](https://doi.org/10.1016/j.cnp.2021.03.001). [PMID: 33869904](https://pubmed.ncbi.nlm.nih.gov/33869904/). [FND-CIT-0170](../../research/citation-index.md#fnd-cit-0170). |
 
 *Technique outline created: August 24, 2026 · Movement-disorders review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Jerks or Myoclonus](03-functional-jerks-and-myoclonus.md)
+
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/02-functional-tremor.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

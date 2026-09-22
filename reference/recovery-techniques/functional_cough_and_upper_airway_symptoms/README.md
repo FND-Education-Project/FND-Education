@@ -22,3 +22,9 @@ Start with assessment and one approach that fits your care plan. You do not need
 Each page includes guidance for the person, supporters and clinicians, with its own sources and safety limits. Evidence is chiefly professional consensus for FND-related care; broader cough-programme research does not prove each component separately. No new community quotations or community-only techniques have been added.
 
 [Begin with noticing the earliest urge](01-noticing-the-earliest-urge.md) · [Diagnostic assessment](../../diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) · [Next symptom: Functional Cognitive Disorder](../12-functional-cognitive-disorder.md)
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Noticing the Earliest Cough Urge](01-noticing-the-earliest-urge.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

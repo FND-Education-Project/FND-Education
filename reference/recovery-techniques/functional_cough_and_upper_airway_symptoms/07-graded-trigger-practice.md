@@ -6,6 +6,13 @@
 
 **Original entry 7: Graded trigger exposure.** This page expands the original list rather than adding a new intervention. **[Professional consensus; individual assessment required]**
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For the Person With FND
 
 After repeated bouts, an ordinary phone call or short conversation may start to feel risky. Carefully planned practice can help you return to an activity you miss. This is a treatment plan made after assessment, not an invitation to test how much coughing or breathlessness you can withstand.
@@ -24,17 +31,38 @@ For a familiar, mild bout, use your agreed plan and reduce the activity demand i
 
 Do not use cough suppression to manage choking, serious breathlessness or a new unexplained breathing pattern. Seek emergency help for severe difficulty breathing, blue or grey colour, inability to speak because of breathlessness, collapse or suspected airway obstruction. Chest pain or coughing blood needs urgent medical assessment. New noisy breathing, fever, weight loss, repeated chest infections or a changed persistent cough warrants reassessment. Follow prescribed respiratory treatment and your individual emergency plan.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Let the person choose a worthwhile goal and an easy exit. Do not surprise them with a trigger or turn practice into a public challenge. If the activity is too much today, help preserve connection in another way.
 
 Agree beforehand how the person wants help during a familiar bout. A changed or severe episode calls for the medical plan rather than more coaching. Coughing can be exhausting even after the visible bout has ended; leave room for recovery and practical help.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 Distinguish exposure to a safe feared context from hazardous irritant exposure or medically indicated provocation testing. Establish stable respiratory care and clear escalation rules. Adjust one task demand at a time with consent. Measure participation and tolerability; neither symptoms during practice nor short-term improvement confirms a functional diagnosis.
 
 These pages concern assessed presentations. Chronic cough, cough hypersensitivity, tic cough, somatic cough syndrome and inducible laryngeal obstruction are not interchangeable diagnoses, and upper-airway symptoms are not automatically FND. Use the [paired diagnostic page](../../diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) and coordinate an individualized plan. Agree a review point, meaningful participation goals and access adaptations rather than prescribing an arbitrary exercise dose.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## Research and Sources
 
@@ -46,4 +74,17 @@ The practical explanation adapts professional consensus into everyday language. 
 
 *Source review: September 20, 2026 · Human review pending*
 
-**Continue:** [Next page](08-hydration-and-laryngeal-care.md) · [Previous page](06-reducing-throat-clearing.md) · [Symptom overview](../11-functional-cough-and-upper-airway-symptoms.md) · [Site map](../../../SITEMAP.md)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Making Daily Life Kinder to Your Throat](08-hydration-and-laryngeal-care.md)
+
+**Related:** [Collection index](README.md) · [Previous page](06-reducing-throat-clearing.md) · [Symptom overview](../11-functional-cough-and-upper-airway-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

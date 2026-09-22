@@ -99,14 +99,6 @@ Secure mirrors and cables, preserve a safe visual horizon for standing, and stop
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Next technique: Surface-EMG biofeedback](07-surface-emg-biofeedback.md)
-
-**Previous:** [Contract–release and muscle relaxation](05-contract-release-and-muscle-relaxation.md) · **Index:** [Detailed techniques](README.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -114,3 +106,18 @@ Secure mirrors and cables, preserve a safe visual horizon for standing, and stop
 | <a id="citation-1"></a>**[1]** | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
 
 *Detailed technique page created: September 11, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Surface-EMG Biofeedback for Functional Tremor](07-surface-emg-biofeedback.md)
+
+**Related:** [Contract–release and muscle relaxation](05-contract-release-and-muscle-relaxation.md) · [Detailed techniques](README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -91,7 +91,6 @@ Episodic-memory tasks have been studied. In one small clinic study, people with 
 
 In particular, **word-finding difficulty does not automatically mean loss of semantic knowledge**. Knowing what an object is and what it does, while being unable to find its name, differs from losing the concept itself. Persistent or progressive loss of familiar meanings or knowledge needs clinical review rather than an automatic FCD explanation. (*citation* [3](#citation-3))
 
-
 ### What supports a positive FCD diagnosis?
 
 **Internal inconsistency** means a clinically meaningful difference in access to the same cognitive ability across contexts. A clinician needs to account for different task demands, cues, fatigue and other explanations. Ordinary fluctuation, one good performance, or a gap between a complaint and a test score is not enough by itself. The pattern is involuntary; a good moment does not cancel disability. Normal imaging and a normal cognitive score do not diagnose FCD. (*citations* [1](#citation-1), [3](#citation-3))
@@ -213,4 +212,10 @@ The conceptual diagram is an original educational synthesis of sources 1, 2, 3 a
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Choose a recovery page](recovery-techniques/functional_cognitive_disorder/README.md) · [Diagnostic signs](diagnostic-signs/12-functional-cognitive-disorder.md) · [Course explanation](../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md) · [Site map](../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Cognitive Disorder: Detailed Recovery Pages](recovery-techniques/functional_cognitive_disorder/README.md)
+
+**Related:** [Collection index](README.md) · [Diagnostic signs](diagnostic-signs/12-functional-cognitive-disorder.md) · [Course explanation](../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../README.md) · [Course](../course/README.md) · [Reference Library](README.md) · [Site Map](../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

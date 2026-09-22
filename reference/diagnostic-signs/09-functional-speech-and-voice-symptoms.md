@@ -18,17 +18,11 @@
 **Diagnostic method:** Look for a positive pattern of internal inconsistency or preserved automatic function that fits a functional communication disorder.  
 **Media needed:** Continuous, captioned audio-video samples recorded with the same microphone and camera position.
 
-***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+
 ### Motor and vocal tic-like symptoms
 
 Involuntary sounds, words or phrases may be vocal/phonic tic-like symptoms. They are not automatically a speech-production or voice impairment; communication support can still help. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
-
 
 ## Diagnostic techniques at a glance
 
@@ -69,6 +63,11 @@ Visualization of the vocal folds assesses motion, closure and structural disease
 A gentle clinician-led cue may reveal more accessible speech or phonation. This is a described assessment observation, not a validated diagnostic trial. Improvement does not prove FND, and lack of improvement does not rule it out. (*citations* [1](#citation-1), [2](#citation-2))
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -85,6 +84,12 @@ Stuttering, slurred or effortful speech, loss of voice, word blocking or inabili
 At the onset of a familiar episode, reduce communication demand: pause, move to a quieter or less pressured setting if possible, use writing, text-to-speech or another established backup, and use one speech-language strategy that has already proved helpful. Do not force repeated words or demand normal speech. Sudden new speech change with facial droop, weakness, severe headache, confusion or another acute neurological symptom needs urgent assessment.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Do not demand singing, repetition or “normal speech” to test the person. Give them time, reduce interruptions and use their preferred backup communication when needed. If a speech-and-language therapist has identified a helpful task, use it only in the agreed therapeutic way rather than as proof that the symptom can be switched off.
@@ -96,6 +101,12 @@ A short episode may need only time and one familiar cue; another may continue fo
 If the person has an agreed speech cue—such as rhythm, an automatic phrase or another speech-language strategy—offer it once rather than repeatedly coaching. Note the setting, duration, associated symptoms and recovery when that information would help their clinician.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 ### Episodic and prolonged presentations
@@ -126,17 +137,11 @@ Record one continuous sequence with the same camera distance, microphone and bac
 Use captions and a full transcript, but do not “correct” the person’s wording or imitate their symptom in narration. Label whether the participant is a patient, actor or healthy volunteer. Avoid edited before-and-after clips that hide different recording conditions.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/09-functional-speech-and-voice-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/01-speech-voice-and-word-blocking.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
 
@@ -155,3 +160,18 @@ Use captions and a full transcript, but do not “correct” the person’s word
 | <a id="citation-2"></a>**[2]** | Chung DS, Wettroth C, Hallett M, Maurer CW. Functional Speech and Voice Disorders: Case Series and Literature Review. *Movement disorders clinical practice*. 2018;5(3):312-316. [DOI](https://doi.org/10.1002/mdc3.12609). [PMID: 30800702](https://pubmed.ncbi.nlm.nih.gov/30800702/). [FND-CIT-0169](../../research/citation-index.md#fnd-cit-0169). |
 
 *Technique outline created: August 24, 2026 · Speech-language-pathology and laryngology review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Swallowing Symptoms and Globus](10-functional-swallowing-and-globus.md)
+
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/09-functional-speech-and-voice-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/01-speech-voice-and-word-blocking.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

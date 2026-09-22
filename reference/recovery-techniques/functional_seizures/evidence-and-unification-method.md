@@ -109,7 +109,9 @@ Before an exercise enters the final PDF, its authoring note must state:
 *Decision framework created August 25, 2026 · Formal evidence grading and clinical review pending*
 
 <!-- NAV-CONTEXT:START -->
-**Functional seizures:** [Recovery Techniques](../README.md) · [Functional-seizure recovery page](../06-functional-seizures.md) · [Unified CBT booklets](unified_cbt_booklets/README.md)
+**Continue:** [Next page: What the Online Course Teaches and What the Booklets Repeat](course-and-booklet-content-boundary.md)
+
+**Related:** [Collection index](README.md) · [Recovery Techniques](../README.md) · [Functional-seizure recovery page](../06-functional-seizures.md) · [Unified CBT booklets](unified_cbt_booklets/README.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

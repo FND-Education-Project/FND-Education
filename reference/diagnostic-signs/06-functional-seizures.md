@@ -19,13 +19,8 @@
 **Diagnostic method:** Interpret the complete event, its clinical context and simultaneous video and EEG—not one movement viewed alone.  
 **Media needed:** A video-EEG process diagram or a consented clinical recording with specialist explanation; never provoke an event for filming.
 
-***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+
 ## Diagnostic techniques at a glance
 
 These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
@@ -113,6 +108,11 @@ Selected post-event blood tests may help answer a differential question, but tim
 When the phenotype suggests syncope or apparent unresponsiveness, specialist tilt assessment with blood pressure, heart rate and sometimes EEG can distinguish mechanisms. Evidence for psychogenic pseudosyncope does not automatically apply to convulsive functional seizures; the diagnoses can coexist. (*citations* [19](#citation-19))
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -129,6 +129,12 @@ Functional seizures are episodic by definition, but their duration and recovery 
 At a familiar warning or onset, follow the person’s established safety plan: move away from traffic, water, stairs, heat or other hazards; get into the safest practical position; and use a pre-agreed grounding, attention or breathing strategy only if the person remains able to use it. A first event, a substantially different event, serious injury, unusual breathing or colour change, or prolonged/repeated events outside the person’s plan need appropriate urgent assessment.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 During an event, follow the person’s safety plan, protect them from injury and seek urgent help when the situation calls for it. Recording is secondary to care. If a spontaneous event can be filmed safely, record the whole person and surrounding context, note the time, and do not restrain them, test their response in painful ways or try to make the episode continue.
@@ -142,6 +148,12 @@ The visible seizure-like event may be only one part of a longer period of sympto
 Time the event when practical, but do not let timing or filming interfere with safety. Note whether the person returned to their usual baseline between repeated events; that information can be important to the emergency plan and clinical review.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 ### Episodic pattern and longer surrounding flares
@@ -172,17 +184,11 @@ The preferred first contribution is an **annotated process diagram**:
 If an authentic clinical recording is used, it must come from an event that occurred during clinically indicated monitoring and have separate, specific permission for public use. Show the synchronized video and EEG context before any short excerpt. Never induce, prolong or repeat a seizure solely to create educational media, and never present an isolated gesture as diagnostic.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/01-what-functional-seizures-are-and-how-they-are-diagnosed.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
 
@@ -217,3 +223,18 @@ If an authentic clinical recording is used, it must come from an event that occu
 | <a id="citation-19"></a>**[19]** | Tannemaat MR, van Niekerk J, Reijntjes RH, et al. The semiology of tilt-induced psychogenic pseudosyncope. *Neurology*. 2013;81(8):752-758. [DOI](https://doi.org/10.1212/wnl.0b013e3182a1aa88). [PMID: 23873974](https://pubmed.ncbi.nlm.nih.gov/23873974/). [FND-CIT-0174](../../research/citation-index.md#fnd-cit-0174). |
 
 *Technique outline created: August 24, 2026 · Epileptology and emergency-care review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Sensory Symptoms](07-functional-sensory-symptoms.md)
+
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/01-what-functional-seizures-are-and-how-they-are-diagnosed.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

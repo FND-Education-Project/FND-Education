@@ -48,7 +48,6 @@ Where this pattern is present, another assurance may offer only brief relief. Th
 
 A frightening cognitive lapse can leave a worry that returns even after an answer was understood and remembered. Seeking the same assurance may briefly ease that worry, then become a loop that takes time and attention. This is one possible maintaining process after symptoms begin; it does not explain everybody's FCD. Asking again because you forgot, missed or did not understand the answer is an information need. Keep providing that information. This approach is optional, and benefit would not establish the cause of the cognitive problem. (*citations* [1](#citation-1), [2](#citation-2))
 
-
 ### What is the technique, in practice?
 
 1. **Make sure the question has actually been answered.** Discuss the concern with your clinician. Check that the explanation is understandable, accessible and includes when to seek review.
@@ -124,4 +123,10 @@ This page expands original entry 3, **Reduce reassurance loops**. Everyday examp
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](04-attending-to-one-task.md) · [Previous page](02-reducing-self-testing.md) · [Symptom overview](../12-functional-cognitive-disorder.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Giving One Task Your Attention](04-attending-to-one-task.md)
+
+**Related:** [Collection index](README.md) · [Previous page](02-reducing-self-testing.md) · [Symptom overview](../12-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

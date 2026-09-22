@@ -65,7 +65,6 @@ The useful result might be that the reply was easier to write, or that stopping 
 
 Reducing input can help information register and remain usable during the task. It does not guarantee that storage or retrieval is intact, or show that attention caused FCD. These are general support principles, applied to an individually assessed difficulty. (*citation* [1](#citation-1))
 
-
 ### Choosing your own practice
 
 Pick a low-stakes activity you want to do: following a little conversation, reading a short message or choosing a photograph to send. Start with a natural stopping point, such as one sentence or one photograph, rather than a fixed number of minutes. You can stop sooner.
@@ -134,4 +133,10 @@ This page expands original entry 4, **Attention retraining**. Everyday examples 
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](05-prediction-and-performance.md) · [Previous page](03-reassurance-without-loops.md) · [Symptom overview](../12-functional-cognitive-disorder.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Comparing What You Expect With What Happens](05-prediction-and-performance.md)
+
+**Related:** [Collection index](README.md) · [Previous page](03-reassurance-without-loops.md) · [Symptom overview](../12-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

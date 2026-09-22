@@ -180,7 +180,9 @@ If the draft cannot answer these questions, it is not ready for reader testing.
 *Content-creator teaching guide created August 25, 2026 · Clinical and lived-experience review pending*
 
 <!-- NAV-CONTEXT:START -->
-**CBT materials:** [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md) · [Next →](02-content-creator-guide-discovering-your-seizure-pattern.md)
+**Continue:** [Next page: Content-Creator Guide 2 — Discovering Your Seizure Pattern](02-content-creator-guide-discovering-your-seizure-pattern.md)
+
+**Related:** [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
 
 **Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

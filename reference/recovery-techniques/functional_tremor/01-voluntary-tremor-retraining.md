@@ -112,14 +112,6 @@ Protect painful or unstable joints and avoid large-amplitude movement at the cer
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Next technique: Competing rhythm and entrainment practice](02-competing-rhythm-and-entrainment-practice.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional tremor overview](../02-functional-tremor.md) · [Diagnostic signs](../../diagnostic-signs/02-functional-tremor.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -129,3 +121,18 @@ Protect painful or unstable joints and avoid large-amplitude movement at the cer
 | <a id="citation-3"></a>**[3]** | Bartl M, Kewitsch R, Hallett M, Tegenthoff M, Paulus W. Diagnosis and therapy of functional tremor: a systematic review illustrated by a case report. *Neurological Research and Practice*. 2020;2:35. [FND-CIT-0019](../../../research/citation-index.md#fnd-cit-0019). [https://doi.org/10.1186/s42466-020-00073-1](https://doi.org/10.1186/s42466-020-00073-1) |
 
 *Detailed technique page created: September 11, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Competing Rhythm and Entrainment Practice for Functional Tremor](02-competing-rhythm-and-entrainment-practice.md)
+
+**Related:** [Detailed technique index](README.md) · [Functional tremor overview](../02-functional-tremor.md) · [Diagnostic signs](../../diagnostic-signs/02-functional-tremor.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

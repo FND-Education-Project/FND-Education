@@ -83,14 +83,6 @@ This is an educational implementation example, not a validated standalone treatm
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous page](06-photophobia-light-and-protection-plan.md) · [Next page](08-hypnotherapy-and-therapeutic-suggestion.md)
-
-**Related:** [Original nine-entry collection](README.md) · [Visual overview and safety guidance](../08-functional-visual-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/08-functional-visual-symptoms.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 The visual-loss reviews emphasize coexisting ocular and neurological conditions. The 2026 synthesis supports taking comorbidity seriously but does not show that treating it reliably resolves functional visual loss. NHS guidance is used for urgent visual-change triage, not FND treatment efficacy.
@@ -102,3 +94,18 @@ The visual-loss reviews emphasize coexisting ocular and neurological conditions.
 | <a id="citation-3"></a>**[3]** | NHS. Vision loss. Reviewed August 28, 2025; accessed September 16, 2026. [FND-CIT-0104](../../../research/citation-index.md#fnd-cit-0104). [Source](https://www.nhs.uk/conditions/vision-loss/) |
 
 *Source check: September 16, 2026 · Ophthalmology, neuro-ophthalmology, orthoptics, migraine, psychological, lived-experience, supporter and accessibility review pending.*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Hypnotherapy and Transparent Therapeutic Suggestion](08-hypnotherapy-and-therapeutic-suggestion.md)
+
+**Related:** [Previous page](06-photophobia-light-and-protection-plan.md) · [Original nine-entry collection](README.md) · [Visual overview and safety guidance](../08-functional-visual-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/08-functional-visual-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

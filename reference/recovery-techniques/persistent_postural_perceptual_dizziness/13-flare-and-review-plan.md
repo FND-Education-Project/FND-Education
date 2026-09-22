@@ -102,4 +102,10 @@ Relapse management is one element of integrated rehabilitation, not a separately
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](../14-functional-facial-symptoms.md) · [Previous page](12-medication-discussion.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Recovery Techniques for Functional Facial Symptoms](../14-functional-facial-symptoms.md)
+
+**Related:** [Collection index](README.md) · [Previous page](12-medication-discussion.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

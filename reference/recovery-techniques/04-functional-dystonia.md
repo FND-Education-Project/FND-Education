@@ -126,12 +126,6 @@ Coordinate medical, neurological, rehabilitation, pain, psychological and social
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Related:** [Detailed technique collection](functional_dystonia/README.md) · [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/04-functional-dystonia.md) · [Functional facial techniques](14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 Functional-dystonia rehabilitation remains under-studied. Physiotherapy and occupational-therapy consensus provide most component-level guidance (**FND-CIT-0028**, **FND-CIT-0011**). A focused clinical review provides functional-dystonia phenotype, complication and multidisciplinary-treatment guidance (**FND-CIT-0021**). A four-case rehabilitation report describes improvement within integrated care but cannot identify which component caused change (**FND-CIT-0055**).
@@ -151,3 +145,18 @@ Community accounts are retained as individual experiences, not effectiveness evi
 - **FND-CIT-0093:** Vizcarra JA, Lopez-Castellanos JR, Dwivedi AK, Schmerler DA, Ries S, Espay AJ. *OnabotulinumtoxinA and cognitive behavioral therapy in functional dystonia: a pilot randomized clinical trial.* Parkinsonism & Related Disorders. 2019;63:174–178. [doi:10.1016/j.parkreldis.2019.02.009](https://doi.org/10.1016/j.parkreldis.2019.02.009)
 
 *Evidence search updated September 12, 2026 · Clinical, lived-experience and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Dystonia or Fixed Posturing: Detailed Recovery and Care Pages](functional_dystonia/README.md)
+
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/04-functional-dystonia.md) · [Functional facial techniques](14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

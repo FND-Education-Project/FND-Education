@@ -116,14 +116,6 @@ For episodic symptoms, document onset, warning, duration and recovery; provide b
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous symptom: Functional seizures](06-functional-seizures.md) · [Next symptom: Functional visual symptoms](08-functional-visual-symptoms.md)
-
-**Related:** [Detailed sensory techniques](functional_sensory_symptoms/README.md) · [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/07-functional-sensory-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/01-numbness-altered-sensation-and-hypersensitivity.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 OT and physiotherapy recommendations provide the broad rehabilitation framework, principally at consensus level. [1](#citation-1), [2](#citation-2) The 2024 sensory-based OT cohort included 77 adults with mixed FND presentations; clinicians rated 62% improved. Its uncontrolled retrospective design provides Class IV evidence and cannot establish that a particular sensory practice caused improvement. [3](#citation-3)
@@ -143,3 +135,18 @@ No new community quotations or community-only techniques were added. Technique-s
 | <a id="citation-5"></a>**[5]** | NHS. Transcutaneous electrical nerve stimulation (TENS). Reviewed February 14, 2025; accessed September 15, 2026. [FND-CIT-0102](../../research/citation-index.md#fnd-cit-0102). [Source](https://www.nhs.uk/tests-and-treatments/transcutaneous-electrical-nerve-stimulation-tens/) |
 
 *Source check: September 15, 2026 · Clinical, lived-experience, supporter and accessibility review pending.*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Sensory Symptoms: Detailed Recovery and Care Pages](functional_sensory_symptoms/README.md)
+
+**Related:** [Previous symptom: Functional seizures](06-functional-seizures.md) · [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/07-functional-sensory-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/01-numbness-altered-sensation-and-hypersensitivity.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

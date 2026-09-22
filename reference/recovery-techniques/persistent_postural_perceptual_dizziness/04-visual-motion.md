@@ -98,4 +98,10 @@ Visual exercises occur within small, varied rehabilitation studies. A short VR s
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](05-gaze-stability.md) · [Previous page](03-upright-activity.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Using Gaze-Stability Exercises Only When They Fit](05-gaze-stability.md)
+
+**Related:** [Collection index](README.md) · [Previous page](03-upright-activity.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

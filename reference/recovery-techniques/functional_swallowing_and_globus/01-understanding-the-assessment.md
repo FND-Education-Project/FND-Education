@@ -10,7 +10,12 @@
 
 **Original-list entry 1:** Positive explanation. This is one of eleven original entries; it is not a claim of eleven independently proven treatments.
 
-[For the Person With FND](#for-the-person-with-fnd) · [For Supporters](#for-family-friends-and-other-supporters) · [For Clinicians](#for-clinicians-and-the-care-team) · [Research and Sources](#research-and-sources)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -38,11 +43,25 @@ Follow your written swallowing plan and stop oral practice if safety becomes unc
 
 Call emergency services for choking with inability to breathe, speak or cough effectively, severe breathing difficulty or sudden neurological symptoms. Inability to swallow saliva or suspected food obstruction needs urgent medical assessment; do not try to force it down with food or drink. Progressive difficulty, painful swallowing, dehydration, weight loss or recurrent chest infections need prompt review. These safety boundaries concern dysphagia generally, including possible coexisting disease; they do not mean that globus alone is an airway obstruction. [2](#citation-2)
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Help the person bring their questions and retain the written plan. Avoid turning “the test was reassuring” into “there is nothing wrong.” If they remain unable to eat enough, help arrange follow-up rather than urging them to prove they can swallow.
 
 Use the person’s written flare and emergency plan. If they cannot safely continue eating, do not make the next mouthful a persuasion exercise. Ask for help with ongoing intake and let them recover without repeated tests.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -58,6 +77,13 @@ Distinguish oropharyngeal impairment, esophageal dysphagia, globus and fear-rela
 
 The sequence is an educational adaptation for clinical review, not a validated standalone protocol. Agree review thresholds, including a route back to assessment if symptoms change. Preserve appropriate nutrition and hydration support throughout.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## Research and Sources
 
 Baker et al. is professional consensus, not controlled proof that this individual component works. ASHA provides broader adult dysphagia assessment and safety guidance; its recommendations are not FND-specific efficacy evidence. The practical examples here require individual clinical selection.
@@ -71,10 +97,17 @@ Baker et al. is professional consensus, not controlled proof that this individua
 
 *Source review: September 18, 2026 · Human and clinical review pending.*
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous](README.md) · [Next](02-comfortable-breathing-and-posture.md)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-**Related:** [Eleven-entry collection](README.md) · [Swallowing overview and flare plan](../10-functional-swallowing-and-globus.md) · [Diagnostic assessment](../../diagnostic-signs/10-functional-swallowing-and-globus.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Comfortable Breathing and Supported Positioning for Meals](02-comfortable-breathing-and-posture.md)
+
+**Related:** [Previous](README.md) · [Swallowing overview and flare plan](../10-functional-swallowing-and-globus.md) · [Diagnostic assessment](../../diagnostic-signs/10-functional-swallowing-and-globus.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

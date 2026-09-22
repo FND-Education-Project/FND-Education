@@ -33,6 +33,8 @@ The visible gait is not the only valid outcome. Fewer falls, safer transfers, re
 Evidence is uneven. One small randomized crossover trial tested a three-week inpatient programme in people diagnosed using the older term “psychogenic gait disorder.” Later trials tested mixed functional motor-disorder programmes. None identifies one named gait transformation as the active ingredient.
 
 <!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Rhythmic Weight Shift and Step Initiation for Functional Gait Disorder](01-rhythmic-weight-shift-and-step-initiation.md)
+
 **Related:** [Functional gait overview](../05-functional-gait-disorder.md) · [Diagnostic signs](../../diagnostic-signs/05-functional-gait-disorder.md) · [Technique index](../technique-index.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)

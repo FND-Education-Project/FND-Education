@@ -211,7 +211,9 @@ Could the worksheets support a useful conversation with school, work, occupation
 *Outline revised August 25, 2026 · Clinical, lived-experience, legal-safety, and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
-**CBT materials:** [← Previous](03-skills-for-warnings-and-seizure-onset.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md) · [Next →](05-support-setbacks-and-maintaining-progress.md)
+**Continue:** [Next page: Booklet 5 Outline — Support, Setbacks, and Maintaining Progress](05-support-setbacks-and-maintaining-progress.md)
+
+**Related:** [← Previous](03-skills-for-warnings-and-seizure-onset.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
 
 **Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

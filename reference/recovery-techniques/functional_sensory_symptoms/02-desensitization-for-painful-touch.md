@@ -83,14 +83,6 @@ The procedures are educational implementation examples requiring clinical adapta
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique](01-graded-sensory-input.md) · [Next technique](03-sensory-discrimination.md)
-
-**Related:** [Detailed technique index](README.md) · [Symptom overview and reassessment guidance](../07-functional-sensory-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/07-functional-sensory-symptoms.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 OT and physiotherapy consensus describe graded contact within functional rehabilitation. These recommendations do not establish an optimal texture, frequency or dose for functional sensory symptoms.
@@ -101,3 +93,18 @@ OT and physiotherapy consensus describe graded contact within functional rehabil
 | <a id="citation-2"></a>**[2]** | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *JNNP*. 2015;86:1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [Source](https://doi.org/10.1136/jnnp-2014-309255) |
 
 *Source check: September 15, 2026 · Occupational-therapy, physiotherapy, neurology, pain, equipment, lived-experience, supporter and accessibility review pending.*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Sensory Discrimination: Texture, Location and Object Recognition](03-sensory-discrimination.md)
+
+**Related:** [Previous technique](01-graded-sensory-input.md) · [Detailed technique index](README.md) · [Symptom overview and reassessment guidance](../07-functional-sensory-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/07-functional-sensory-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

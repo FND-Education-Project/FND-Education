@@ -99,14 +99,6 @@ Do not place routine surface electrodes over broken or infected skin; follow dev
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Next technique: Individualized whole-person treatment](08-individualized-whole-person-treatment.md)
-
-**Previous:** [Mirror and visual feedback](06-mirror-and-visual-feedback.md) · **Index:** [Detailed techniques](README.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -116,3 +108,18 @@ Do not place routine surface electrodes over broken or infected skin; follow dev
 | <a id="citation-3"></a>**[3]** | Espay AJ, Edwards MJ, Oggioni GD, et al. Tremor retrainment as therapeutic strategy in psychogenic (functional) tremor. *Parkinsonism & Related Disorders*. 2014;20(6):647–650. [FND-CIT-0031](../../../research/citation-index.md#fnd-cit-0031). [https://doi.org/10.1016/j.parkreldis.2014.02.029](https://doi.org/10.1016/j.parkreldis.2014.02.029) |
 
 *Detailed technique page created: September 11, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Individualized Whole-Person Treatment for Functional Tremor](08-individualized-whole-person-treatment.md)
+
+**Related:** [Mirror and visual feedback](06-mirror-and-visual-feedback.md) · [Detailed techniques](README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

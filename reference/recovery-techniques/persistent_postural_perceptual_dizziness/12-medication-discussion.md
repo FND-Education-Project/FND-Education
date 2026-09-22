@@ -104,4 +104,10 @@ The Cochrane finding concerns strict modern PPPD criteria and an appropriate con
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](13-flare-and-review-plan.md) · [Previous page](11-specialist-stimulation-review.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Making a Plan for Flares and Changing Dizziness](13-flare-and-review-plan.md)
+
+**Related:** [Collection index](README.md) · [Previous page](11-specialist-stimulation-review.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

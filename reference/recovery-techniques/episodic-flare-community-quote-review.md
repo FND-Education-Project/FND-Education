@@ -116,5 +116,9 @@ The [eleven detailed speech-and-voice pages](functional_speech_and_voice_symptom
 Motor/vocal tics and tic attacks now have a [dedicated overview](17-functional-tics-and-tic-like-symptoms.md). Existing “jerks/tics” candidate descriptions remain diagnostically ambiguous and have not been promoted into verified functional-tic quotations. Seek source-checked accounts of vocal interruptions, clusters, supporter responses and unhelpful care; label each as lived experience, not evidence of efficacy.
 
 <!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Recovery Techniques](README.md)
+
+**Related:** [Collection index](README.md)
+
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

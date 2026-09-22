@@ -105,14 +105,6 @@ A four-case report describes improvement with integrated functional-dystonia reh
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique: Episode, flare and relapse planning](12-episode-flare-and-relapse-planning.md) · [Return to detailed technique index](README.md)
-
-**Related:** [Functional dystonia overview](../04-functional-dystonia.md) · [Diagnostic signs](../../diagnostic-signs/04-functional-dystonia.md) · [Coordination and shared goals course page](../../../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -125,3 +117,18 @@ A four-case report describes improvement with integrated functional-dystonia reh
 | <a id="citation-6"></a>**[6]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
 
 *Detailed technique page created September 12, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Recovery Techniques for Functional Gait Disorder](../05-functional-gait-disorder.md)
+
+**Related:** [Previous technique: Episode, flare and relapse planning](12-episode-flare-and-relapse-planning.md) · [Return to detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Diagnostic signs](../../diagnostic-signs/04-functional-dystonia.md) · [Coordination and shared goals course page](../../../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

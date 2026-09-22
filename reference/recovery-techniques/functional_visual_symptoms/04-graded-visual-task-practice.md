@@ -83,14 +83,6 @@ This is an educational implementation example, not a validated standalone treatm
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous page](03-orthoptist-guided-visual-feedback.md) · [Next page](05-supported-choice-without-certainty.md)
-
-**Related:** [Original nine-entry collection](README.md) · [Visual overview and safety guidance](../08-functional-visual-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/08-functional-visual-symptoms.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 This page translates the original graded-task entry into practical examples. The specialist literature supplies a rationale for selected visual practice but does not validate this progression, dose or transfer to every visual presentation.
@@ -101,3 +93,18 @@ This page translates the original graded-task entry into practical examples. The
 | <a id="citation-2"></a>**[2]** | Ramsay N, Tessmann H, McKee J, Ercoli T, Stone J. Functional visual loss: a systematic review and meta-analysis of epidemiology, prognosis and treatment. *Eye*. 2026;40:1784–1793. Published online June 26, 2026. [FND-CIT-0103](../../../research/citation-index.md#fnd-cit-0103). [Source](https://doi.org/10.1038/s41433-026-04648-1) |
 
 *Source check: September 16, 2026 · Ophthalmology, neuro-ophthalmology, orthoptics, migraine, psychological, lived-experience, supporter and accessibility review pending.*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Supported Visual Choice Without Waiting for Certainty](05-supported-choice-without-certainty.md)
+
+**Related:** [Previous page](03-orthoptist-guided-visual-feedback.md) · [Original nine-entry collection](README.md) · [Visual overview and safety guidance](../08-functional-visual-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/08-functional-visual-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

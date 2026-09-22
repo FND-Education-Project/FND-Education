@@ -86,14 +86,6 @@ Record the activity that matters, dose, assistance, falls, symptoms, recovery ti
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Next technique: Electrical stimulation as an adjunct](11-electrical-stimulation-as-an-adjunct.md)
-
-**Previous:** [Upper-limb and two-handed tasks](09-meaningful-upper-limb-and-two-handed-tasks.md) · **Index:** [Detailed techniques](README.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -104,3 +96,18 @@ Record the activity that matters, dose, assistance, falls, symptoms, recovery ti
 | <a id="citation-4"></a>**[4]** | Sanal-Hayes NEM, McLaughlin M, Hayes LD, et al. A scoping review of pacing for ME/CFS. *Journal of Translational Medicine*. 2023;21:720. This adjacent evidence does not establish FND treatment. [FND-CIT-0066](../../../research/citation-index.md#fnd-cit-0066). [https://doi.org/10.1186/s12967-023-04587-5](https://doi.org/10.1186/s12967-023-04587-5) |
 
 *Detailed technique page created: September 10, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Electrical Stimulation as a Movement Adjunct](11-electrical-stimulation-as-an-adjunct.md)
+
+**Related:** [Upper-limb and two-handed tasks](09-meaningful-upper-limb-and-two-handed-tasks.md) · [Detailed techniques](README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

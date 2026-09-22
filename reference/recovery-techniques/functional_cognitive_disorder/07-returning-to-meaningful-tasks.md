@@ -95,4 +95,10 @@ This page expands original entry 7, **Graded return to meaningful cognitive task
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](08-external-memory-supports.md) · [Previous page](06-noticing-what-helped.md) · [Symptom overview](../12-functional-cognitive-disorder.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Building a Thinking and Memory System You Can Actually Use](08-external-memory-supports.md)
+
+**Related:** [Collection index](README.md) · [Previous page](06-noticing-what-helped.md) · [Symptom overview](../12-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

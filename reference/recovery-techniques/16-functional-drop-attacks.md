@@ -18,9 +18,18 @@ Drop-attack-specific treatment evidence is limited. The first aim is injury prev
 
 **Evidence labels:** **C** clinical or specialist consensus · **E** emerging model or indirect evidence. No drop-attack-specific controlled treatment trial was located.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Community reports](#community-reports-what-people-try) · [Research and evidence](#research-and-evidence)
+[Community reports](#community-reports-what-people-try)
 
-## For the person with symptoms
+<a id="for-the-person-with-symptoms"></a>
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For the Person With FND
 
 ### Build a response around the event you actually have
 
@@ -41,7 +50,16 @@ Drop-attack-specific treatment evidence is limited. The first aim is injury prev
 
 Do not deliberately provoke an attack, stop a prescribed medicine or practise falling without a qualified team and appropriate environment.
 
-## For family, friends and supporters
+<a id="for-family-friends-and-supporters"></a>
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For Family, Friends, and Other Supporters
 
 - Learn the person’s preferred response and thresholds for first aid or emergency help.
 - Move hazards when safe, protect privacy and avoid rapidly hauling the person upright.
@@ -51,7 +69,16 @@ Do not deliberately provoke an attack, stop a prescribed medicine or practise fa
 
 If the event differs from the established pattern, treat that difference as new clinical information.
 
-## For clinicians
+<a id="for-clinicians"></a>
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For Clinicians and the Care Team
 
 Confirm the event phenotype and differential before assigning this plan. Record warning, recall, awareness, fall mechanics, injury, recovery and overlap with gait, weakness, dissociation or seizure-like events. Review medications, cardiovascular and orthostatic features, epilepsy risk, cataplexy or sleep symptoms, vestibular features and mechanical contributors as indicated.
 
@@ -71,19 +98,18 @@ Public posts show that people use “drop attack” for several different events
 
 The account supports asking whether a reliable warning exists and whether rehabilitation is helping or worsening real-world function. It does not validate warning-based treatment for no-warning drop attacks. Posts that call prolonged paralysis, catatonic events, fainting or seizures “drop attacks” are retained in the [community source notebook](community-experience-quotes.md) as taxonomy examples, not treatment outcomes for this page.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Community reports](#community-reports-what-people-try) · [Research and evidence](#research-and-evidence)
+[Community reports](#community-reports-what-people-try)
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Functional Tics and Tic-Like Symptoms →](17-functional-tics-and-tic-like-symptoms.md)
+<a id="research-and-evidence"></a>
 
-**Previous in this collection:** [← Functional Paralysis](15-functional-paralysis.md)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/16-functional-drop-attacks.md) · [Functional gait techniques](05-functional-gait-disorder.md) · [Functional-seizure recovery](06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
-## Research and evidence
+## Research and Sources
 
 No controlled trial of a functional-drop-attack-specific recovery program was located. A retrospective cohort documented overlap with dissociative symptoms and other functional presentations but did not test treatment. A qualitative study of seven people proposed a cognitive-behavioural model that may inform future intervention research; it was not an effectiveness study. Specialist educational guidance recommends understanding the diagnosis, noticing warnings where they exist, injury prevention and carefully addressing avoidance, while acknowledging weak evidence. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
@@ -100,3 +126,18 @@ No controlled trial of a functional-drop-attack-specific recovery program was lo
 - [Reddit — “Physio not helping”](https://www.reddit.com/r/FND/comments/1emw4ah/physio_not_helping/)
 
 *Evidence and public-community search current to September 2, 2026 · Neurology, falls, rehabilitation, sleep, cardiology, vestibular, lived-experience and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Tics and Tic-Like Symptoms](17-functional-tics-and-tic-like-symptoms.md)
+
+**Related:** [← Functional Paralysis](15-functional-paralysis.md) · [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/16-functional-drop-attacks.md) · [Functional gait techniques](05-functional-gait-disorder.md) · [Functional-seizure recovery](06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -18,10 +18,16 @@
 
 Swallowing treatment must begin with an appropriate assessment of airway and nutrition risk. Once the relevant structural, neurological and gastrointestinal questions have been addressed, therapy may reduce excess effort, checking and avoidance and rebuild a more automatic, comfortable swallow.
 
+<a id="for-the-person-with-symptoms"></a>
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-## For the person with symptoms
+## For the Person With FND
 
 ### Techniques used after swallowing assessment
 
@@ -63,7 +69,16 @@ There is no universal at-home food challenge. If a clinician has already confirm
 
 There is inability to swallow saliva, choking with breathing difficulty, suspected airway obstruction, blue/grey color, sudden neurological symptoms, vomiting blood or another emergency. Prompt review is also needed for recurrent chest infections, dehydration, weight loss, food sticking, progressive difficulty, pain, coughing during meals or a substantially new pattern.
 
-## For family, friends and supporters
+<a id="for-family-friends-and-supporters"></a>
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For Family, Friends, and Other Supporters
 
 - Follow the written swallowing and emergency plan; do not offer an unapproved food to prove that swallowing is possible.
 - Keep meals calm without supervising every mouthful unless that supervision is clinically required.
@@ -74,7 +89,16 @@ There is inability to swallow saliva, choking with breathing difficulty, suspect
 
 Stop adding food or drink when the person’s current plan says swallowing is unsafe. Support the exact posture, pacing or texture already prescribed; do not improvise a harder food, larger sip or distraction exercise. Keep the setting calm without turning each swallow into a test. If the pattern is outside the established plan or there are airway warning signs, seek appropriate assessment.
 
-## For clinicians
+<a id="for-clinicians"></a>
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For Clinicians and the Care Team
 
 Clarify whether the main presentation is oropharyngeal dysphagia, esophageal symptoms, globus, fear of choking, excessive effort or another functional upper-aerodigestive pattern. Perform or arrange clinical and instrumental swallowing, ENT, gastrointestinal and neurological assessment as indicated. State explicitly what has and has not been shown to be safe.
 
@@ -84,17 +108,16 @@ Document episode duration, meal phase, food/liquid consistency and volume, setti
 
 Use positive explanation, tension reduction, attention change and graded functional swallowing only within that assessment. Monitor nutrition, hydration, aspiration indicators and quality of life. Coordinate speech-language pathology, dietetics, ENT, gastroenterology, neurology and psychological care where relevant.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+<a id="research-and-evidence"></a>
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [First detailed page](functional_swallowing_and_globus/01-understanding-the-assessment.md) · [Next symptom: cough and upper-airway symptoms](11-functional-cough-and-upper-airway-symptoms.md)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/10-functional-swallowing-and-globus.md) · [Functional facial techniques](14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/02-swallowing-globus-and-nutrition-safety.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
-## Research and evidence
+## Research and Sources
 
 The component approaches are mainly professional consensus, not individually proven treatments. ASHA adds general adult dysphagia safety guidance. Miles et al. offers an expert framework with six illustrative clients; this is preliminary, uncontrolled evidence. Wang et al. reviews 29 trials across several functional esophageal disorders, with some support for globus medication but no convincing evidence for functional dysphagia. These populations and outcomes must not be silently treated as FND-specific treatment efficacy.
 
@@ -108,3 +131,18 @@ The source check did not establish controlled efficacy for the individual functi
 | <a id="citation-4"></a>**[4]** | Miles A, Baker J, Barker-Collo S, Leadley S. Functional dysphagia: Developing a framework for assessment and treatment. *International Journal of Speech-Language Pathology*. 2026;28:155–170. Published online March 11, 2025. [FND-CIT-0116](../../research/citation-index.md#fnd-cit-0116). [Source](https://doi.org/10.1080/17549507.2025.2473071) |
 
 *Source review: September 18, 2026 · Eleven-entry expansion; swallowing-safety, clinical, lived-experience and accessibility review pending.*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Swallowing Symptoms and Globus: Recovery Pages](functional_swallowing_and_globus/README.md)
+
+**Related:** [First detailed page](functional_swallowing_and_globus/01-understanding-the-assessment.md) · [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/10-functional-swallowing-and-globus.md) · [Functional facial techniques](14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/02-swallowing-globus-and-nutrition-safety.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

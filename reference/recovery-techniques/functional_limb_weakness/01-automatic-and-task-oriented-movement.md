@@ -100,14 +100,6 @@ Screen for joint instability, fracture, tendon injury, painful shoulder subluxat
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Next technique: External focus and divided attention](02-external-focus-and-divided-attention.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional limb weakness overview](../01-functional-limb-weakness.md) · [Diagnostic signs](../../diagnostic-signs/01-functional-limb-weakness.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 The detailed method is based on specialist consensus. Programme-level trials cannot identify the independent effect of this one component.
@@ -118,3 +110,18 @@ The detailed method is based on specialist consensus. Programme-level trials can
 | <a id="citation-2"></a>**[2]** | Nielsen G, Stone J, Lee TC, et al. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial. *The Lancet Neurology*. 2024;23(7):675–686. [FND-CIT-0029](../../../research/citation-index.md#fnd-cit-0029). [https://doi.org/10.1016/S1474-4422(24)00135-2](https://doi.org/10.1016/S1474-4422(24)00135-2) |
 
 *Detailed technique page created: September 10, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: External Focus and Divided Attention for Functional Limb Weakness](02-external-focus-and-divided-attention.md)
+
+**Related:** [Detailed technique index](README.md) · [Functional limb weakness overview](../01-functional-limb-weakness.md) · [Diagnostic signs](../../diagnostic-signs/01-functional-limb-weakness.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

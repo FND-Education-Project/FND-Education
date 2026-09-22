@@ -83,14 +83,6 @@ This is an educational implementation example, not a validated standalone treatm
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous page](05-supported-choice-without-certainty.md) · [Next page](07-coexisting-eye-migraine-and-neurological-care.md)
-
-**Related:** [Original nine-entry collection](README.md) · [Visual overview and safety guidance](../08-functional-visual-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/08-functional-visual-symptoms.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 The functional-visual-loss review proposes graded light approaches from clinical experience. The broader photophobia review supports the need to consider ophthalmic and neurological causes; it is not an FND exposure trial. The exact light, tint and timing plan must be individualized, and the 2026 review does not establish a standard regimen.
@@ -102,3 +94,18 @@ The functional-visual-loss review proposes graded light approaches from clinical
 | <a id="citation-3"></a>**[3]** | Digre KB, Brennan KC. Shedding light on photophobia. *Journal of Neuro-Ophthalmology*. 2012;32(1):68–81. [FND-CIT-0105](../../../research/citation-index.md#fnd-cit-0105). [Source](https://doi.org/10.1097/WNO.0b013e3182474548) |
 
 *Source check: September 16, 2026 · Ophthalmology, neuro-ophthalmology, orthoptics, migraine, psychological, lived-experience, supporter and accessibility review pending.*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Treatment of Coexisting Eye, Migraine and Neurological Conditions](07-coexisting-eye-migraine-and-neurological-care.md)
+
+**Related:** [Previous page](05-supported-choice-without-certainty.md) · [Original nine-entry collection](README.md) · [Visual overview and safety guidance](../08-functional-visual-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/08-functional-visual-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

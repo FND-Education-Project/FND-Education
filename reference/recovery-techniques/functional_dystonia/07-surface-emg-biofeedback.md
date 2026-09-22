@@ -91,14 +91,6 @@ Measure signal reproducibility alongside joint movement, task success, effort, p
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique: Mirror and visual feedback](06-mirror-and-visual-feedback.md) · [Next technique: Electrical stimulation](08-electrical-stimulation-as-an-adjunct.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Surface-EMG biofeedback for functional tremor](../functional_tremor/07-surface-emg-biofeedback.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -108,3 +100,18 @@ Measure signal reproducibility alongside joint movement, task success, effort, p
 | <a id="citation-3"></a>**[3]** | Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [FND-CIT-0021](../../../research/citation-index.md#fnd-cit-0021). [https://doi.org/10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262) |
 
 *Detailed technique page created September 12, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Electrical Stimulation as an Adjunct for Functional Dystonia](08-electrical-stimulation-as-an-adjunct.md)
+
+**Related:** [Previous technique: Mirror and visual feedback](06-mirror-and-visual-feedback.md) · [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Surface-EMG biofeedback for functional tremor](../functional_tremor/07-surface-emg-biofeedback.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

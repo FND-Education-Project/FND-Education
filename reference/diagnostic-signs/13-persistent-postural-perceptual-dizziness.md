@@ -18,13 +18,8 @@
 **Diagnostic method:** Confirm all five Bárány Society PPPD criteria; there is no single bedside manoeuvre or scan that establishes the diagnosis.  
 **Media needed:** A static criteria diagram. Moving visual patterns are not preferred because they may worsen symptoms.
 
-***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)<br>
-[For the Person With FND](#for-the-person-with-fnd)<br>
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
-[Research and Sources](#research-and-sources)
-***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+
 **Recovery reading:** [Thirteen detailed PPPD recovery and care pages](../recovery-techniques/persistent_postural_perceptual_dizziness/README.md), selected after assessment; treatment response does not establish the diagnosis.
 
 ## Diagnostic techniques at a glance
@@ -66,6 +61,11 @@ Where indicated, standing blood pressure, heart rate and neurological examinatio
 Scales can characterize exacerbating situations and severity. The Niigata PPPD Questionnaire has validation research, but a questionnaire score supplements rather than replaces the full consensus criteria and differential assessment. (*citations* [1](#citation-1), [2](#citation-2))
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -81,7 +81,6 @@ PPPD is an important exception to a simple “episodic or persistent” rule. By
 
 When a familiar flare rises, protect against falls, stop driving or another hazardous activity, use the support or vestibular strategy already prescribed, and allow symptoms to settle enough to continue the graded plan safely. A new severe dizziness pattern, fainting, new hearing loss or focal neurological symptoms requires reassessment rather than being assumed to be a PPPD flare.
 
-***
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -101,7 +100,6 @@ Useful history distinguishes the usual daily background from the stronger flare:
 
 New severe dizziness, fainting, new neurological symptoms, chest pain or another concerning change requires appropriate assessment even after PPPD has been diagnosed.
 
-***
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -139,7 +137,6 @@ Create a static, accessible five-part diagram:
 
 Add a separate note that all five criteria are required and that testing is selected to evaluate other or coexisting conditions. Avoid scrolling stripes, virtual supermarket footage, rotating patterns or autoplay animation. If visual examples are ever added, provide a static alternative first and a clear motion warning.
 
-
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -171,7 +168,7 @@ Add a separate note that all five criteria are required and that testing is sele
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Functional Facial Symptoms →](14-functional-facial-symptoms.md)
+**Continue:** [Next page: Functional Facial Symptoms — Spasm, Droop and Weakness](14-functional-facial-symptoms.md)
 
 **Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/13-persistent-postural-perceptual-dizziness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/03-dizziness-balance-and-vestibular-overlap.md)
 

@@ -260,7 +260,6 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 ## Alphabetical technique index
 
-
 **[A Prescriber-Led Medication Discussion for Assessed Globus](functional_swallowing_and_globus/10-globus-medication-review.md)** — Swallowing/globus: Selected people with assessed globus for whom a prescriber judges a medication discussion appropriate. **[Adjacent globus trial evidence; benefit for functional dysphagia is not established]**
 
 **[Advanced Visual Feedback and Non-Invasive Brain Stimulation: Specialist Review](functional_visual_symptoms/09-advanced-feedback-and-brain-stimulation-review.md)** — Functional visual symptoms. A specialist or research team is evaluating an experimental visual-feedback or stimulation approach after discussing uncertainty and alternatives. **[Experimental or early clinical-report evidence; no established self-treatment protocol]**
@@ -596,7 +595,9 @@ The pages cover the same 17 presentations as the current diagnostic-sign referen
 *Index created: August 25, 2026 · Functional paralysis and drop attacks added September 2, 2026 · Functional limb weakness entries expanded September 10, 2026 · Functional tremor and functional jerks entries expanded September 11, 2026 · Functional dystonia and functional gait entries expanded September 12, 2026 · Functional seizure entries expanded September 14, 2026 · Clinical and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
-**Reference:** [Recovery Techniques](README.md) · [Reference Library](../README.md)
+**Continue:** [Next page: Recovery Techniques for Functional Limb Weakness](01-functional-limb-weakness.md)
+
+**Related:** [Recovery Techniques](README.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

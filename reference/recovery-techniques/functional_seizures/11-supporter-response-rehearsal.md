@@ -81,14 +81,6 @@ Guidance supports involving chosen supporters and consistent care. The verbal re
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique](10-supported-return-to-activities.md) · [Next technique](12-recovery-cluster-and-flare-planning.md)
-
-**Related:** [Technique collection and CBT resources](README.md) · [Seizure recovery overview](../06-functional-seizures.md) · [Episode safety plan](02-individualized-episode-safety-plan.md) · [Diagnostic reference](../../diagnostic-signs/06-functional-seizures.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 General first-aid precautions are drawn from NHS guidance. Its emergency advice is adjacent safety guidance, not a functional-seizure treatment trial; an individualized event plan must address duration, uncertainty and coexisting epilepsy. (*citations* [3](#citation-3))
@@ -100,3 +92,18 @@ General first-aid precautions are drawn from NHS guidance. Its emergency advice 
 | <a id="citation-3"></a>**[3]** | NHS. What to do if someone has a seizure (fit). [General seizure first aid](https://www.nhs.uk/symptoms/what-to-do-if-someone-has-a-seizure-fit/). Reviewed December 19, 2023; accessed September 14, 2026. [FND-CIT-0101](../../../research/citation-index.md#fnd-cit-0101). |
 
 *Created September 14, 2026 · Neurology, relevant therapy, lived-experience, caregiver and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Recovery, Cluster and Flare Planning for Functional Seizures](12-recovery-cluster-and-flare-planning.md)
+
+**Related:** [Previous technique](10-supported-return-to-activities.md) · [Technique collection and CBT resources](README.md) · [Seizure recovery overview](../06-functional-seizures.md) · [Episode safety plan](02-individualized-episode-safety-plan.md) · [Diagnostic reference](../../diagnostic-signs/06-functional-seizures.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

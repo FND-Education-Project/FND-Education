@@ -10,17 +10,16 @@
 
 **Not the same as:** Watching the body continuously, proving a psychological trigger, or diagnosing a movement from a diary. Some people have no warning and no simple trigger. Mapping should stop if it increases vigilance, distress or symptoms without producing a useful decision.
 
+### Motor and vocal tic-like symptoms
+
+Motor or vocal tic-like symptoms may coexist with the symptoms discussed here. Their diagnosis and treatment should follow the individual formulation; communication access remains available when vocal symptoms interrupt a message. [See the dedicated functional-tics page](../17-functional-tics-and-tic-like-symptoms.md).
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-### Motor and vocal tic-like symptoms
-
-Motor or vocal tic-like symptoms may coexist with the symptoms discussed here. Their diagnosis and treatment should follow the individual formulation; communication access remains available when vocal symptoms interrupt a message. [See the dedicated functional-tics page](../17-functional-tics-and-tic-like-symptoms.md).
-
 
 ## For the Person With FND
 
@@ -107,14 +106,6 @@ The functional-motor physiotherapy consensus specifically notes that conventiona
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Next technique: Early attention redirection](02-early-attention-redirection.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional jerks overview](../03-functional-jerks-and-myoclonus.md) · [Diagnostic signs](../../diagnostic-signs/03-functional-jerks-and-myoclonus.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 **Source for this boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
@@ -126,3 +117,18 @@ The functional-motor physiotherapy consensus specifically notes that conventiona
 | <a id="citation-3"></a>**[3]** | Peña AB, Caviness JN. Physiology-based treatment of myoclonus. *Neurotherapeutics*. 2020;17(4):1665–1680. [FND-CIT-0092](../../../research/citation-index.md#fnd-cit-0092). [https://doi.org/10.1007/s13311-020-00922-6](https://doi.org/10.1007/s13311-020-00922-6) |
 
 *Detailed technique page created: September 11, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Early Attention Redirection for Functional Jerks](02-early-attention-redirection.md)
+
+**Related:** [Detailed technique index](README.md) · [Functional jerks overview](../03-functional-jerks-and-myoclonus.md) · [Diagnostic signs](../../diagnostic-signs/03-functional-jerks-and-myoclonus.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

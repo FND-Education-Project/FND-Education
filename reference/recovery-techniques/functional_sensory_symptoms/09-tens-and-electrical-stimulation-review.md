@@ -83,14 +83,6 @@ The procedures are educational implementation examples requiring clinical adapta
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique](08-sensory-profile-and-environment.md) · [Next technique](10-coexisting-pain-migraine-and-medical-review.md)
-
-**Related:** [Detailed technique index](README.md) · [Symptom overview and reassessment guidance](../07-functional-sensory-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/07-functional-sensory-symptoms.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 Older FND consensus and small motor-disorder reports are not proof of efficacy for functional sensory loss. NHS guidance supports device safety, not FND treatment efficacy. The safety boundary here explicitly differs from the older high-intensity sensory-loss description.
@@ -101,3 +93,18 @@ Older FND consensus and small motor-disorder reports are not proof of efficacy f
 | <a id="citation-2"></a>**[2]** | NHS. Transcutaneous electrical nerve stimulation (TENS). Reviewed February 14, 2025; accessed September 15, 2026. [FND-CIT-0102](../../../research/citation-index.md#fnd-cit-0102). [Source](https://www.nhs.uk/tests-and-treatments/transcutaneous-electrical-nerve-stimulation-tens/) |
 
 *Source check: September 15, 2026 · Occupational-therapy, physiotherapy, neurology, pain, equipment, lived-experience, supporter and accessibility review pending.*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Coexisting Pain, Migraine and Medical Review](10-coexisting-pain-migraine-and-medical-review.md)
+
+**Related:** [Previous technique](08-sensory-profile-and-environment.md) · [Detailed technique index](README.md) · [Symptom overview and reassessment guidance](../07-functional-sensory-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/07-functional-sensory-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -95,4 +95,10 @@ This page expands original entry 6, **Success record**. Everyday examples are il
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](07-returning-to-meaningful-tasks.md) · [Previous page](05-prediction-and-performance.md) · [Symptom overview](../12-functional-cognitive-disorder.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Returning to Reading, Conversation and Other Valued Tasks](07-returning-to-meaningful-tasks.md)
+
+**Related:** [Collection index](README.md) · [Previous page](05-prediction-and-performance.md) · [Symptom overview](../12-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

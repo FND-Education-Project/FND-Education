@@ -103,14 +103,6 @@ Measure falls and near-falls, transfers, assistance, meaningful-route completion
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique: Mobility aids, guarding and fall planning](12-mobility-aids-guarding-and-fall-planning.md) · **Index:** [Detailed techniques](README.md)
-
-**Related:** [Functional gait overview](../05-functional-gait-disorder.md) · [Diagnostic signs](../../diagnostic-signs/05-functional-gait-disorder.md) · [Setback plan course page](../../../course/part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/02-responding-recovering-and-updating-the-plan.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -122,3 +114,18 @@ Measure falls and near-falls, transfers, assistance, meaningful-route completion
 | <a id="citation-5"></a>**[5]** | Macías-García D, et al. Combined physiotherapy and cognitive behavioral therapy for functional movement disorders: a randomized clinical trial. *JAMA Neurology*. 2024;81(9):966–976. [FND-CIT-0030](../../../research/citation-index.md#fnd-cit-0030). [https://doi.org/10.1001/jamaneurol.2024.2393](https://doi.org/10.1001/jamaneurol.2024.2393) |
 
 *Detailed technique page created September 12, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Recovery Techniques for Functional Seizures](../06-functional-seizures.md)
+
+**Related:** [Previous technique: Mobility aids, guarding and fall planning](12-mobility-aids-guarding-and-fall-planning.md) · [Detailed techniques](README.md) · [Functional gait overview](../05-functional-gait-disorder.md) · [Diagnostic signs](../../diagnostic-signs/05-functional-gait-disorder.md) · [Setback plan course page](../../../course/part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/02-responding-recovering-and-updating-the-plan.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

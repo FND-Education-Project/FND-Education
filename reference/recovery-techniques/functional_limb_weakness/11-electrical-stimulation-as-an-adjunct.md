@@ -89,14 +89,6 @@ Specialist consensus mentions electrical stimulation as a possible adjunct for f
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Next technique: Relapse and self-management planning](12-relapse-and-self-management-planning.md)
-
-**Previous:** [Graded activity and reconditioning](10-graded-activity-and-reconditioning.md) · **Index:** [Detailed techniques](README.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -105,3 +97,18 @@ Specialist consensus mentions electrical stimulation as a possible adjunct for f
 | <a id="citation-2"></a>**[2]** | Nielsen G, Stone J, Lee TC, et al. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD). *The Lancet Neurology*. 2024;23(7):675–686. This programme-level trial does not establish electrical stimulation itself. [FND-CIT-0029](../../../research/citation-index.md#fnd-cit-0029). [https://doi.org/10.1016/S1474-4422(24)00135-2](https://doi.org/10.1016/S1474-4422(24)00135-2) |
 
 *Detailed technique page created: September 10, 2026 · Specialist electrotherapy and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Relapse and Self-Management Planning for Functional Limb Weakness](12-relapse-and-self-management-planning.md)
+
+**Related:** [Graded activity and reconditioning](10-graded-activity-and-reconditioning.md) · [Detailed techniques](README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

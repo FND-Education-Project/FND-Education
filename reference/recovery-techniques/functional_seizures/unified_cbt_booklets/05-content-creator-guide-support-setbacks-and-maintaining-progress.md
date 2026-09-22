@@ -239,7 +239,9 @@ Before drafting, the creator should be able to explain:
 *Content-creator teaching guide created August 25, 2026 · Clinical, supporter, lived-experience, safeguarding, and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
-**CBT materials:** [← Previous](04-content-creator-guide-returning-to-activities-and-independence.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
+**Continue:** [Next page: Unified CBT-Informed Booklets for Functional Seizures](README.md)
+
+**Related:** [Collection index](README.md) · [← Previous](04-content-creator-guide-returning-to-activities-and-independence.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
 
 **Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

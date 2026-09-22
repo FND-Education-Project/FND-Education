@@ -10,7 +10,12 @@
 
 **Original-list entry 10:** Discuss gut–brain neuromodulator medication for assessed globus. This is one of eleven original entries; it is not a claim of eleven independently proven treatments.
 
-[For the Person With FND](#for-the-person-with-fnd) · [For Supporters](#for-family-friends-and-other-supporters) · [For Clinicians](#for-clinicians-and-the-care-team) · [Research and Sources](#research-and-sources)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -38,11 +43,25 @@ Follow your written swallowing plan and stop oral practice if safety becomes unc
 
 Call emergency services for choking with inability to breathe, speak or cough effectively, severe breathing difficulty or sudden neurological symptoms. Inability to swallow saliva or suspected food obstruction needs urgent medical assessment; do not try to force it down with food or drink. Progressive difficulty, painful swallowing, dehydration, weight loss or recurrent chest infections need prompt review. These safety boundaries concern dysphagia generally, including possible coexisting disease; they do not mean that globus alone is an airway obstruction. [3](#citation-3)
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Support the person in reporting benefit and side effects without treating willingness to take medicine as commitment to recovery. If sedation or another change affects eating, help them contact the care team. Continue the existing swallowing plan.
 
 Use the person’s written flare and emergency plan. If they cannot safely continue eating, do not make the next mouthful a persuasion exercise. Ask for help with ongoing intake and let them recover without repeated tests.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -58,6 +77,13 @@ Confirm the symptom phenotype and exclude indicated alternatives. Interpret Wang
 
 The sequence is an educational adaptation for clinical review, not a validated standalone protocol. Agree review thresholds, including a route back to assessment if symptoms change. Preserve appropriate nutrition and hydration support throughout.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## Research and Sources
 
 Wang et al. concerns several functional esophageal disorders and is adjacent to this FND collection. It offers some support for globus medication, not convincing evidence for functional dysphagia. Baker et al. provides professional guidance; ASHA supports the general swallowing-safety boundaries. No direct FND-swallowing medication efficacy is claimed.
@@ -72,10 +98,17 @@ Wang et al. concerns several functional esophageal disorders and is adjacent to 
 
 *Source review: September 18, 2026 · Human and clinical review pending.*
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous](09-coexisting-conditions.md) · [Next](11-reviewing-diet-and-equipment-restrictions.md)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-**Related:** [Eleven-entry collection](README.md) · [Swallowing overview and flare plan](../10-functional-swallowing-and-globus.md) · [Diagnostic assessment](../../diagnostic-signs/10-functional-swallowing-and-globus.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Reviewing Diet and Equipment Restrictions Together](11-reviewing-diet-and-equipment-restrictions.md)
+
+**Related:** [Previous](09-coexisting-conditions.md) · [Eleven-entry collection](README.md) · [Swallowing overview and flare plan](../10-functional-swallowing-and-globus.md) · [Diagnostic assessment](../../diagnostic-signs/10-functional-swallowing-and-globus.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

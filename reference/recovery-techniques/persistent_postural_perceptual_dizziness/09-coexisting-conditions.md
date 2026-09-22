@@ -101,4 +101,10 @@ Bárány criteria allow PPPD to coexist with other disorders. Diagnostic and spe
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](10-visual-motion-technology.md) · [Previous page](08-psychologically-informed-rehabilitation.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Considering Supervised Visual-Motion or Virtual-Reality Practice](10-visual-motion-technology.md)
+
+**Related:** [Collection index](README.md) · [Previous page](08-psychologically-informed-rehabilitation.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

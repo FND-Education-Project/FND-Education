@@ -91,4 +91,10 @@ The reviews and consensus offer relaxation, positioning and individualized rehab
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](08-mouth-eye-and-communication-support.md) · [Previous page](06-planned-trigger-practice.md) · [Symptom overview](../14-functional-facial-symptoms.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Protecting Eating, Vision and Communication](08-mouth-eye-and-communication-support.md)
+
+**Related:** [Collection index](README.md) · [Previous page](06-planned-trigger-practice.md) · [Symptom overview](../14-functional-facial-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -97,4 +97,10 @@ INVEST randomized 40 adults to six sessions of integrated CBT-VRT or time-matche
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](09-coexisting-conditions.md) · [Previous page](07-community-activities.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Keeping Other Causes of Dizziness in the Care Plan](09-coexisting-conditions.md)
+
+**Related:** [Collection index](README.md) · [Previous page](07-community-activities.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

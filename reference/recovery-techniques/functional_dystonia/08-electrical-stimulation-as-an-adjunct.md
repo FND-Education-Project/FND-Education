@@ -97,14 +97,6 @@ Functional-motor consensus and focused review mention electrical stimulation amo
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique: Surface-EMG biofeedback](07-surface-emg-biofeedback.md) · [Next technique: Pain, skin, joint-range and contracture management](09-pain-skin-joint-and-contracture-management.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Electrical stimulation for functional limb weakness](../functional_limb_weakness/11-electrical-stimulation-as-an-adjunct.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -113,3 +105,18 @@ Functional-motor consensus and focused review mention electrical stimulation amo
 | <a id="citation-2"></a>**[2]** | Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [FND-CIT-0021](../../../research/citation-index.md#fnd-cit-0021). [https://doi.org/10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262) |
 
 *Detailed technique page created September 12, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Pain, Skin, Joint-Range and Contracture Management for Functional Dystonia](09-pain-skin-joint-and-contracture-management.md)
+
+**Related:** [Previous technique: Surface-EMG biofeedback](07-surface-emg-biofeedback.md) · [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Electrical stimulation for functional limb weakness](../functional_limb_weakness/11-electrical-stimulation-as-an-adjunct.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

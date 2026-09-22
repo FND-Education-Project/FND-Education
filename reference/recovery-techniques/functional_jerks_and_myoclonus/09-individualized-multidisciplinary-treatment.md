@@ -10,17 +10,16 @@
 
 **Not the same as:** Requiring every discipline, treating psychological care as proof symptoms are imaginary, or giving several disconnected treatments at once. One clinician may coordinate a focused plan when specialist access is limited.
 
+### Motor and vocal tic-like symptoms
+
+Motor or vocal tic-like symptoms may coexist with the symptoms discussed here. Their diagnosis and treatment should follow the individual formulation; communication access remains available when vocal symptoms interrupt a message. [See the dedicated functional-tics page](../17-functional-tics-and-tic-like-symptoms.md).
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-### Motor and vocal tic-like symptoms
-
-Motor or vocal tic-like symptoms may coexist with the symptoms discussed here. Their diagnosis and treatment should follow the individual formulation; communication access remains available when vocal symptoms interrupt a message. [See the dedicated functional-tics page](../17-functional-tics-and-tic-like-symptoms.md).
-
 
 ## For the Person With FND
 
@@ -112,14 +111,6 @@ The physiology-based myoclonus review supports diagnosis-led treatment and descr
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous: Episode safety and relapse planning](08-episode-safety-and-relapse-planning.md) · [Return to the detailed technique index](README.md)
-
-**Related:** [Functional jerks overview](../03-functional-jerks-and-myoclonus.md) · [Diagnostic signs](../../diagnostic-signs/03-functional-jerks-and-myoclonus.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 **Source for this boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
@@ -133,3 +124,18 @@ The physiology-based myoclonus review supports diagnosis-led treatment and descr
 | <a id="citation-5"></a>**[5]** | Macías-García D, Méndez-Del Barrio M, Canal-Rivero M, et al. Combined physiotherapy and cognitive behavioral therapy for functional movement disorders: a randomized clinical trial. *JAMA Neurology*. 2024;81(9):966–976. [FND-CIT-0030](../../../research/citation-index.md#fnd-cit-0030). [https://doi.org/10.1001/jamaneurol.2024.2393](https://doi.org/10.1001/jamaneurol.2024.2393) |
 
 *Detailed technique page created: September 11, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Recovery Techniques for Functional Dystonia or Fixed Posturing](../04-functional-dystonia.md)
+
+**Related:** [Previous: Episode safety and relapse planning](08-episode-safety-and-relapse-planning.md) · [Return to the detailed technique index](README.md) · [Functional jerks overview](../03-functional-jerks-and-myoclonus.md) · [Diagnostic signs](../../diagnostic-signs/03-functional-jerks-and-myoclonus.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

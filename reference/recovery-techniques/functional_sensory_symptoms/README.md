@@ -35,6 +35,8 @@ Each page includes plain-language terms, a practical example, supporter guidance
 Protective care and accommodations can continue alongside rehabilitation. TENS must not be applied to numb skin or increased until sensation appears. A changed sensory pattern needs reassessment; special-sense, seizure, paralysis and dissociation presentations may need a different care pathway.
 
 <!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Graded Sensory Input for Reduced or Altered Sensation](01-graded-sensory-input.md)
+
 **Related:** [Sensory recovery overview](../07-functional-sensory-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/07-functional-sensory-symptoms.md) · [Master technique index](../technique-index.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)

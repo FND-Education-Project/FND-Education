@@ -27,3 +27,9 @@ Pages 1–7 cover selecting and adapting rehabilitation. Page 8 discusses option
 Each page explains the concept before practical steps and has person, supporter, clinician and research sections. Treatment-package evidence does not validate every component separately. Gaze exercises need an assessed indication; visual practice should be controllable; equipment and human support can remain throughout recovery.
 
 [Begin with an individual plan](01-individual-vestibular-plan.md) · [Diagnostic criteria and assessment](../../diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) · [Previous symptom: FCD](../12-functional-cognitive-disorder.md) · [Next symptom: Functional facial symptoms](../14-functional-facial-symptoms.md)
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Building a Vestibular Rehabilitation Plan That Fits You](01-individual-vestibular-plan.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

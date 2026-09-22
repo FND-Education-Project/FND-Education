@@ -80,14 +80,6 @@ The AAN guideline supports a clear rationale, shared decisions and continuity. T
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Recovery overview](../06-functional-seizures.md) · [Next technique](02-individualized-episode-safety-plan.md)
-
-**Related:** [Technique collection and CBT resources](README.md) · [Seizure recovery overview](../06-functional-seizures.md) · [Episode safety plan](02-individualized-episode-safety-plan.md) · [Diagnostic reference](../../diagnostic-signs/06-functional-seizures.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation and source |
@@ -95,3 +87,18 @@ The AAN guideline supports a clear rationale, shared decisions and continuity. T
 | <a id="citation-1"></a>**[1]** | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). |
 
 *Created September 14, 2026 · Neurology, relevant therapy, lived-experience, caregiver and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Individualized Episode Safety Plan for Functional Seizures](02-individualized-episode-safety-plan.md)
+
+**Related:** [Recovery overview](../06-functional-seizures.md) · [Technique collection and CBT resources](README.md) · [Diagnostic reference](../../diagnostic-signs/06-functional-seizures.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

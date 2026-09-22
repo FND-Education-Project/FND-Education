@@ -100,4 +100,10 @@ The sources describe clinical distinctions and adjacent safety care, not a test 
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](10-specialist-injection-discussion.md) · [Previous page](08-mouth-eye-and-communication-support.md) · [Symptom overview](../14-functional-facial-symptoms.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Discussing Botulinum Toxin With a Specialist](10-specialist-injection-discussion.md)
+
+**Related:** [Collection index](README.md) · [Previous page](08-mouth-eye-and-communication-support.md) · [Symptom overview](../14-functional-facial-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

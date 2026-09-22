@@ -97,14 +97,6 @@ Relapse planning and self-management are recommended in physiotherapy and occupa
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Previous:** [Electrical stimulation as an adjunct](11-electrical-stimulation-as-an-adjunct.md) · **Index:** [Detailed techniques](README.md)
-
-**Related:** [Functional limb weakness overview](../01-functional-limb-weakness.md) · [Community quotation review](../community-experience-quotes.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -114,3 +106,18 @@ Relapse planning and self-management are recommended in physiotherapy and occupa
 | <a id="citation-3"></a>**[3]** | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
 
 *Detailed technique page created: September 10, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Recovery Techniques for Functional Tremor](../02-functional-tremor.md)
+
+**Related:** [Electrical stimulation as an adjunct](11-electrical-stimulation-as-an-adjunct.md) · [Detailed techniques](README.md) · [Functional limb weakness overview](../01-functional-limb-weakness.md) · [Community quotation review](../community-experience-quotes.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -103,4 +103,10 @@ The Vizcarra pilot randomized 14 people and had 10 completers; it found no added
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](../15-functional-paralysis.md) · [Previous page](09-other-conditions-and-review.md) · [Symptom overview](../14-functional-facial-symptoms.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Recovery Techniques for Functional Paralysis](../15-functional-paralysis.md)
+
+**Related:** [Collection index](README.md) · [Previous page](09-other-conditions-and-review.md) · [Symptom overview](../14-functional-facial-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

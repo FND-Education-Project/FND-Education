@@ -80,7 +80,9 @@ The collection now has 17 presentations. [Functional tics and tic-like symptoms]
 **[Functional Cognitive Disorder: thirteen detailed recovery pages](functional_cognitive_disorder/README.md)** — thirteen original entries expanded one-to-one, plus a collection overview. Practical memory and attention support, individualized rehabilitation and clearly labelled early research options. Added September 21, 2026; human review pending.
 
 <!-- NAV-CONTEXT:START -->
-**Reference:** [Reference Library](../README.md) · [Diagnostic Techniques](../diagnostic-signs/README.md) · [Recovery Techniques](README.md) · [Technique Index](technique-index.md)
+**Continue:** [Next page: Recovery and Management Technique Index](technique-index.md)
+
+**Related:** [Diagnostic Techniques](../diagnostic-signs/README.md) · [Recovery Techniques](README.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

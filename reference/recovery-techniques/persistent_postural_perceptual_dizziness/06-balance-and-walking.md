@@ -98,4 +98,10 @@ Balance and gait work are components of rehabilitation rather than separately pr
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](07-community-activities.md) · [Previous page](05-gaze-stability.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Returning to Places and Activities That Matter](07-community-activities.md)
+
+**Related:** [Collection index](README.md) · [Previous page](05-gaze-stability.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

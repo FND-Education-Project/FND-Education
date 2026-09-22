@@ -61,7 +61,9 @@ Use a one-page “What you need before this booklet” illustrated recap, a marg
 *Boundary agreed August 25, 2026 · Course-link and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
-**Functional seizures:** [Recovery Techniques](../README.md) · [Functional-seizure recovery page](../06-functional-seizures.md) · [Unified CBT booklets](unified_cbt_booklets/README.md)
+**Continue:** [Next page: Unified CBT-Informed Booklets for Functional Seizures](unified_cbt_booklets/README.md)
+
+**Related:** [Collection index](README.md) · [Recovery Techniques](../README.md) · [Functional-seizure recovery page](../06-functional-seizures.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

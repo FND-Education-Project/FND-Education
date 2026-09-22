@@ -18,13 +18,8 @@
 **Diagnostic method:** Compare reported vision with objective visual behaviours or responses, such as optokinetic nystagmus, while also looking for eye and brain disease.  
 **Media needed:** An orthoptist-, ophthalmologist- or neuro-ophthalmologist-led close-up demonstration.
 
-***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+
 ## Diagnostic techniques at a glance
 
 These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
@@ -84,6 +79,11 @@ Selected targets visible separately to each eye can reveal visual capacity not a
 Retinal imaging and electrical-response tests address structural or physiological differential diagnoses. They are not positive FND tests; normal results alone do not establish functional visual loss, and coexisting eye disease is common. (*citations* [1](#citation-1), [3](#citation-3))
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -100,6 +100,12 @@ Functional visual loss, blur, field change or visual access may come and go, flu
 When a familiar visual episode starts, stop driving, cooking, using tools, navigating stairs or another activity that depends on reliable vision. Sit or move to a safe position, use the visual aid and lighting strategy already recommended, and use only a previously trained visual or attention cue. Sudden new or painful visual loss, flashes/floaters, a curtain-like shadow or visual change with acute neurological symptoms needs urgent assessment.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Do not wave objects toward the person’s eyes, set up obstacles or surprise them to see whether they avoid something. Those demonstrations can cause falls, distress or eye injury and are not a responsible diagnostic assessment. Support the person’s current visual-safety plan and report changes to the appropriate clinician.
@@ -113,6 +119,12 @@ Once safe, note what the person was doing, the type of visual change, whether on
 New, sudden or painful visual loss still needs urgent assessment according to local medical advice, even if the person has had functional visual symptoms before.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 ### Episodic and prolonged presentations
@@ -144,17 +156,11 @@ Use a clinician and healthy volunteer or a specifically consenting patient. Reco
 Provide a static diagram as the default media for readers who are sensitive to moving patterns. Do not film obstacle avoidance, menace responses or any demonstration that risks startling or shaming the participant.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/08-functional-visual-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/02-visual-symptoms-photophobia-and-sensory-overload.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
 
@@ -172,3 +178,18 @@ Provide a static diagram as the default media for readers who are sensitive to m
 | <a id="citation-3"></a>**[3]** | Scott JA, Egan RA. Prevalence of organic neuro-ophthalmologic disease in patients with functional visual loss. *American journal of ophthalmology*. 2003;135(5):670-675. [DOI](https://doi.org/10.1016/s0002-9394%2802%2902254-7). [PMID: 12719075](https://pubmed.ncbi.nlm.nih.gov/12719075/). [FND-CIT-0180](../../research/citation-index.md#fnd-cit-0180). |
 
 *Technique outline created: August 24, 2026 · Ophthalmology and orthoptics review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Speech and Voice Symptoms](09-functional-speech-and-voice-symptoms.md)
+
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/08-functional-visual-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/02-visual-symptoms-photophobia-and-sensory-overload.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
