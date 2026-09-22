@@ -196,6 +196,8 @@ Every overview and focused page uses four visible sections:
 
 Within those sections, 15 recurring authoring questions preserve the original page requirements: terminology, short summary, research findings, uncertainty, lived presentation, at-home ideas, personal reflection questions, related reading, supporter guidance, clinician explanation, individualized assessment, support for improvement, continuing support when improvement is limited, evidence notes, and last-reviewed date. Differential diagnosis, safety-netting, and medical reassessment remain within the clinician questions rather than disappearing from the page.
 
+**Module 7 reference extension:** [Ten detailed functional facial recovery and care pages](../../reference/recovery-techniques/functional_facial_symptoms/README.md), one per original entry, plus a collection overview. Added September 22, 2026; specialist and human review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 

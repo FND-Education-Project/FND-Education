@@ -19,10 +19,10 @@
 **Media needed:** A static criteria diagram. Moving visual patterns are not preferred because they may worsen symptoms.
 
 ***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)<br>
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
 **Recovery reading:** [Thirteen detailed PPPD recovery and care pages](../recovery-techniques/persistent_postural_perceptual_dizziness/README.md), selected after assessment; treatment response does not establish the diagnosis.
@@ -82,6 +82,13 @@ PPPD is an important exception to a simple “episodic or persistent” rule. By
 When a familiar flare rises, protect against falls, stop driving or another hazardous activity, use the support or vestibular strategy already prescribed, and allow symptoms to settle enough to continue the graded plan safely. A new severe dizziness pattern, fainting, new hearing loss or focal neurological symptoms requires reassessment rather than being assumed to be a PPPD flare.
 
 ***
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Do not deliberately expose the person to supermarkets, scrolling patterns or rapid movement to test whether symptoms appear. These environments may be part of a carefully paced treatment plan, but diagnostic history does not require forcing an episode. Help describe the time course, triggers and daily impact instead.
@@ -95,6 +102,13 @@ Useful history distinguishes the usual daily background from the stronger flare:
 New severe dizziness, fainting, new neurological symptoms, chest pain or another concerning change requires appropriate assessment even after PPPD has been diagnosed.
 
 ***
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 ### Persistent baseline, intermittent exacerbations
@@ -125,20 +139,13 @@ Create a static, accessible five-part diagram:
 
 Add a separate note that all five criteria are required and that testing is selected to evaluate other or coexisting conditions. Avoid scrolling stripes, virtual supermarket footage, rotating patterns or autoplay animation. If visual examples are ever added, provide a static alternative first and a clear motion warning.
 
+
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Functional Facial Symptoms →](14-functional-facial-symptoms.md)
-
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/13-persistent-postural-perceptual-dizziness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/03-dizziness-balance-and-vestibular-overlap.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
 
@@ -155,3 +162,18 @@ Add a separate note that all five criteria are required and that testing is sele
 | <a id="citation-2"></a>**[2]** | Yagi C, Morita Y, Kitazawa M, et al. A Validated Questionnaire to Assess the Severity of Persistent Postural-Perceptual Dizziness (PPPD): The Niigata PPPD Questionnaire (NPQ). *Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology*. 2019;40(7):e747-e752. [DOI](https://doi.org/10.1097/mao.0000000000002325). [PMID: 31219964](https://pubmed.ncbi.nlm.nih.gov/31219964/). [FND-CIT-0156](../../research/citation-index.md#fnd-cit-0156). |
 
 *Technique outline created: August 24, 2026 · Vestibular-neurology and physiotherapy review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Functional Facial Symptoms →](14-functional-facial-symptoms.md)
+
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/13-persistent-postural-perceptual-dizziness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/03-dizziness-balance-and-vestibular-overlap.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

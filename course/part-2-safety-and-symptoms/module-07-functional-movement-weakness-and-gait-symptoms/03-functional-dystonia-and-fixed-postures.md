@@ -109,6 +109,8 @@ Use supported positioning and gentle, task-relevant exploration. Avoid forced co
 [Research and Sources](#research-and-sources)
 ***
 
+**Facial symptom recovery:** [Ten detailed pages](../../../reference/recovery-techniques/functional_facial_symptoms/README.md) explain the assessed facial pattern, practical rehabilitation and mouth/eye support. Facial tic-like movements have a separate [functional-tics page](../../../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md).
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Gait and Falls](04-gait-falls-and-movement-retraining.md)
 

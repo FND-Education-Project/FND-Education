@@ -65,6 +65,8 @@ The reader understands why motor retraining often works with automatic movement 
 
 [← Module 6: Functional Seizures and Episodic Symptoms](module-06-functional-seizures-and-episodic-symptoms.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 8: Sensory, Visual, Balance, and Dizziness Symptoms →](module-08-sensory-visual-balance-and-dizziness-symptoms.md)
 
+**Module 7 reference extension:** [Ten detailed functional facial recovery and care pages](../../../reference/recovery-techniques/functional_facial_symptoms/README.md), one per original entry, plus a collection overview. Added September 22, 2026; specialist and human review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
 

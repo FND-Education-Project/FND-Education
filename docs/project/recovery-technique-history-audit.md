@@ -33,7 +33,7 @@ The first thirteen symptom lists were additionally checked against their initial
 | [Functional Cough and Upper-Airway Symptoms](../../reference/recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md) | 10 | 10 | Ten original entries expanded one-to-one; collection overview is an additional navigation document. |
 | [Functional Cognitive Disorder](../../reference/recovery-techniques/12-functional-cognitive-disorder.md) | 13 | 13 | Thirteen original entries expanded one-to-one; collection overview and separate FCD background are additional navigation/education documents, not interventions. |
 | [Persistent Postural-Perceptual Dizziness](../../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md) | 13 | 13 | Thirteen original entries expanded one-to-one; September 16 audit count of twelve corrected. Collection overview is an additional navigation document. |
-| [Functional Facial Symptoms](../../reference/recovery-techniques/14-functional-facial-symptoms.md) | 8 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
+| [Functional Facial Symptoms](../../reference/recovery-techniques/14-functional-facial-symptoms.md) | 10 | 10 | Ten original entries expanded one-to-one; September 16 audit count of eight corrected. Collection overview is an additional navigation document. |
 | [Functional Paralysis](../../reference/recovery-techniques/15-functional-paralysis.md) | 7 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
 | [Recovery and Safety Techniques for Functional Drop Attacks](../../reference/recovery-techniques/16-functional-drop-attacks.md) | 7 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
 
@@ -343,3 +343,20 @@ All thirteen entries expand one-to-one, with no split, merger or omitted interve
 | 11. Specialist neuromodulation or galvanic vestibular stimulation | [Discussing Experimental Stimulation With a Specialist](../../reference/recovery-techniques/persistent_postural_perceptual_dizziness/11-specialist-stimulation-review.md) | One-to-one expansion; individual scope and evidence limits retained. |
 | 12. SSRI or SNRI discussion | [Discussing an SSRI or SNRI With Your Prescriber](../../reference/recovery-techniques/persistent_postural_perceptual_dizziness/12-medication-discussion.md) | One-to-one expansion; individual scope and evidence limits retained. |
 | 13. Relapse plan | [Making a Plan for Flares and Changing Dizziness](../../reference/recovery-techniques/persistent_postural_perceptual_dizziness/13-flare-and-review-plan.md) | One-to-one expansion; individual scope and evidence limits retained. |
+
+## Functional facial symptoms
+
+**Correction checked September 22, 2026:** The initial facial-reference commit `84b7bd8`, common baseline `74138f34797ae840f794f0c809da64fad30dc401` and pre-expansion commit `1dc9cc2` all contain **ten** numbered rehabilitation entries. The earlier audit reported eight incorrectly. Count the main technique list, not the eight numbered clinician planning steps. No entry was split, merged or added: ten entries become ten detailed pages, plus one navigation overview.
+
+| Original entry | Detailed page |
+| --- | --- |
+| 1. A clear explanation of the facial pattern | [Understanding What Your Face Is Doing](../../reference/recovery-techniques/functional_facial_symptoms/01-understanding-the-facial-pattern.md) |
+| 2. Individualized FND-informed rehabilitation | [Building a Rehabilitation Plan Around Daily Life](../../reference/recovery-techniques/functional_facial_symptoms/02-individual-rehabilitation-plan.md) |
+| 3. A rehearsed episode plan | [Making a Plan for Familiar Facial Episodes](../../reference/recovery-techniques/functional_facial_symptoms/03-familiar-episode-plan.md) |
+| 4. Attention redirection and more automatic expression | [Finding Easier Movement During Conversation](../../reference/recovery-techniques/functional_facial_symptoms/04-attention-and-natural-expression.md) |
+| 5. A clinician-selected facial, speech or mouth task | [Choosing a Facial or Mouth Task With Your Therapist](../../reference/recovery-techniques/functional_facial_symptoms/05-selected-facial-or-mouth-task.md) |
+| 6. Controlled exposure to an identified trigger | [Planning Gentle Practice Around an Assessed Trigger](../../reference/recovery-techniques/functional_facial_symptoms/06-planned-trigger-practice.md) |
+| 7. Comfort and reduction of unnecessary muscle effort | [Making Your Face, Jaw and Neck More Comfortable](../../reference/recovery-techniques/functional_facial_symptoms/07-comfort-and-less-effort.md) |
+| 8. Protect mouth, swallowing, communication and eye function | [Protecting Eating, Vision and Communication](../../reference/recovery-techniques/functional_facial_symptoms/08-mouth-eye-and-communication-support.md) |
+| 9. Treat coexisting conditions | [Keeping Other Causes and Conditions in the Care Plan](../../reference/recovery-techniques/functional_facial_symptoms/09-other-conditions-and-review.md) |
+| 10. Botulinum toxin or other invasive treatment only after specialist review | [Discussing Botulinum Toxin With a Specialist](../../reference/recovery-techniques/functional_facial_symptoms/10-specialist-injection-discussion.md) |

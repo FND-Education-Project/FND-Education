@@ -8,7 +8,12 @@ This is our current guide to Functional Cognitive Disorder (FCD), including what
 
 [What cognition involves](#what-cognition-involves) · [Faces and visual recall](#faces-visual-recall-and-mental-imagery) · [Working models](#working-models-not-one-proven-cause) · [Recovery principles](#what-this-means-for-recovery) · [Recovery pages](recovery-techniques/functional_cognitive_disorder/README.md) · [Diagnostic signs](diagnostic-signs/12-functional-cognitive-disorder.md)
 
-[Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -146,7 +151,12 @@ Use the short summary or aid you already know. Reduce competing input, ask for o
 
 Seek urgent medical assessment for sudden confusion, altered consciousness or a cognitive change with new weakness, speech difficulty, severe headache, seizure, fever or head injury. New inability to recognize highly familiar people, progressive loss of familiar knowledge, getting lost in familiar places, major visual-spatial change or unsafe medication or financial errors also need reassessment. Urgency depends on onset and associated symptoms; sudden changes should not wait for routine follow-up. Existing FCD does not account automatically for something new. Pause activities you cannot manage safely. (*citation* [3](#citation-3))
 
-[Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Family, Friends, and Other Supporters
 
@@ -156,7 +166,12 @@ Repeat essential information when it was forgotten or not understood. An agreed 
 
 Keep useful notes, pictures or spoken cues available with permission. A supported conversation still belongs to the person; an aid is not evidence that they failed. Agree how much help they want, and protect privacy when using photographs or shared records. (*citation* [2](#citation-2))
 
-[Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -166,7 +181,12 @@ Demonstrate internal inconsistency within the relevant domain, accounting for cu
 
 Document the target of each intervention: a cognitive process, an optional maintaining loop, a contributor or an access need. A response does not retrospectively prove the diagnosis or mechanism. Use participation, error burden, support needs, effort and delayed cost alongside symptoms. Provide continuing practical assistance when restoration is limited. (*citations* [2](#citation-2), [3](#citation-3))
 
-[Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## Research and Sources
 
@@ -186,6 +206,11 @@ The conceptual diagram is an original educational synthesis of sources 1, 2, 3 a
 
 *Source review: September 21, 2026 · Clinical, lived-experience and accessibility review pending*
 
-[Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 **Continue:** [Choose a recovery page](recovery-techniques/functional_cognitive_disorder/README.md) · [Diagnostic signs](diagnostic-signs/12-functional-cognitive-disorder.md) · [Course explanation](../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md) · [Site map](../SITEMAP.md)

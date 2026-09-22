@@ -6,7 +6,12 @@
 
 **When this may fit:** When upright activity worsens an established PPPD pattern, with faintness and other causes assessed separately. **[Individualized rehabilitation guidance; component efficacy uncertain]**
 
-[Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -39,7 +44,12 @@ Return to the position or support that is currently manageable. If even that is 
 
 Stop unsafe activity. Sudden or distinctly different dizziness with new weakness, double vision, speech trouble, inability to walk, severe headache, fainting or chest pain needs urgent assessment. Sudden hearing loss, head injury or persistent vomiting also needs prompt medical attention. Increasing falls or progressive loss of function warrants reassessment. Existing PPPD does not explain every new symptom. See the [diagnostic and differential-assessment page](../../diagnostic-signs/13-persistent-postural-perceptual-dizziness.md).
 
-[Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Family, Friends, and Other Supporters
 
@@ -47,7 +57,12 @@ Plan seating and an easy exit before leaving home. Ask before offering physical 
 
 During a familiar flare, follow the agreed support and safety plan. Ask before taking over. New or substantially different symptoms need their own assessment; an exercise should never delay that care.
 
-[Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -55,7 +70,12 @@ Evaluate orthostatic and cardiovascular symptoms alongside the PPPD history. Doc
 
 Agree an accessible next step and review point. Consider meaningful activity, safety, access, effort and delayed effects alongside dizziness severity. Limited improvement is not grounds to withdraw assistance or infer lack of effort.
 
-[Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## Research and Sources
 
@@ -70,6 +90,11 @@ Graded activity has been included in PPPD rehabilitation, but evidence does not 
 
 *Sources checked: September 22, 2026 · Vestibular, neurological, lived-experience and accessibility review pending*
 
-[Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 **Continue:** [Next page](04-visual-motion.md) · [Previous page](02-head-and-body-motion.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md) · [Site map](../../../SITEMAP.md)
