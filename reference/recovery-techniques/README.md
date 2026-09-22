@@ -39,6 +39,8 @@ The collection now covers **17 symptom presentations**, including motor and voca
 
 **[Functional Cognitive Disorder: thirteen detailed recovery pages](functional_cognitive_disorder/README.md)** — thirteen original entries expanded one-to-one, plus a collection overview. Cognitive-process support, individualized rehabilitation and clearly labelled early research options. The additional [Everything We Know About FCD](../functional-cognitive-disorder.md) background page keeps the diagnostic and recovery landings concise. Thirteen original-entry pages plus one collection overview and one separate background document; no new intervention. Updated September 21, 2026; human review pending.
 
+**[PPPD: thirteen detailed recovery and care pages](persistent_postural_perceptual_dizziness/README.md)** — Thirteen original entries expanded one-to-one, plus one collection overview. Includes individualized rehabilitation, care planning and clearly bounded specialist/medication discussions. Added September 22, 2026; clinical, lived-experience and accessibility review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Reference Library](../README.md) · [Reference Index](../reference-index.md) · [Diagnostic Techniques](../diagnostic-signs/README.md)
 

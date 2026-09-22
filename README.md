@@ -268,6 +268,8 @@ The project should be willing to say **“researchers do not yet know”** when 
 
 FND Education provides general educational information only. It does not provide individual medical advice, diagnosis, emergency assessment, or treatment. Research findings describe groups and do not determine what is true or appropriate for a particular individual. A person’s own healthcare professionals remain responsible for individualized medical decisions. New, severe, or substantially changed symptoms should not be assumed to be FND solely because a person already has an FND diagnosis.
 
+**[PPPD: thirteen detailed recovery and care pages](reference/recovery-techniques/persistent_postural_perceptual_dizziness/README.md)** — Thirteen original entries expanded one-to-one, plus one collection overview. Includes individualized rehabilitation, care planning and clearly bounded specialist/medication discussions. Added September 22, 2026; clinical, lived-experience and accessibility review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Explore:** [Course](course/README.md) · [Reference Library](reference/README.md) · [Glossary](glossary/README.md)
 

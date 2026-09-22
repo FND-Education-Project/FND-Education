@@ -25,6 +25,8 @@
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
 [Research and Sources](#research-and-sources)
 ***
+**Recovery reading:** [Thirteen detailed PPPD recovery and care pages](../recovery-techniques/persistent_postural_perceptual_dizziness/README.md), selected after assessment; treatment response does not establish the diagnosis.
+
 ## Diagnostic techniques at a glance
 
 These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.

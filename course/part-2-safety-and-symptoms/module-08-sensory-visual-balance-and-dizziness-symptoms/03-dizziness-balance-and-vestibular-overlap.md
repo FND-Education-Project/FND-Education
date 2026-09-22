@@ -107,6 +107,8 @@ If using vestibular rehabilitation, customize the tasks and progression. The 202
 [Research and Sources](#research-and-sources)
 ***
 
+**Recovery reading:** [Thirteen detailed PPPD pages](../../../reference/recovery-techniques/persistent_postural_perceptual_dizziness/README.md) explain rehabilitation, visual-motion practice, coexisting conditions, treatment discussions and flare planning, with individual safety and evidence limits.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Sensory Overload, Accommodations, and Gradual Change](04-sensory-overload-accommodations-and-gradual-change.md)
 

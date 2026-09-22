@@ -63,6 +63,8 @@ Each module title links to its complete syllabus page. The [course authoring ind
 - [**Module 8 — Sensory, Visual, Balance, and Dizziness Symptoms**](syllabus/module-08-sensory-visual-balance-and-dizziness-symptoms.md) — Organize several frequently overlapping symptom areas and clarify when adaptations, rehabilitation, or further assessment may be appropriate.
 - [**Module 9 — Speech, Voice, Swallowing, and Breathing Symptoms**](syllabus/module-09-speech-voice-swallowing-and-breathing-symptoms.md) — Explain communication and upper-airway symptoms while giving safety issues appropriate weight.
 
+**Module 8 reference extension:** [Thirteen detailed PPPD recovery and care pages](../../reference/recovery-techniques/persistent_postural_perceptual_dizziness/README.md), with concept-first explanations, individualized safety limits and separate medication/device discussions.
+
 ## Part Three: Common Non-Motor Difficulties
 
 Part Three uses the same lower-reading-load pattern as Part Two. One practical page has been added to each module so definitions, safety and daily application do not have to be absorbed in one sitting.

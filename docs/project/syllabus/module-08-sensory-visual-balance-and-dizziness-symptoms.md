@@ -45,6 +45,8 @@ This section should focus on how clinicians can help the patient understand the 
 - Accessibility versus avoidance, including the danger of using rehabilitation theory to deny needed accommodations.
 - Evidence gaps concerning severe photophobia, phonophobia, visual disability, and complex multisensory presentations in FND.
 
+**Reference extension:** [Thirteen detailed PPPD recovery pages](../../../reference/recovery-techniques/persistent_postural_perceptual_dizziness/README.md). Distinguish habituation, gaze stability, balance, upright and visual tasks; retain fall protection, access support and separate assessment of faintness. Medicine and device pages are discussions, not exercise prescriptions.
+
 ## Practical work
 
 - Make a sensory-load and adaptation map.
