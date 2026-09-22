@@ -103,14 +103,6 @@ Avoid standing foot-tapping when balance is unreliable, rapid repetitive movemen
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Next technique: External focus and meaningful-task practice](03-external-focus-and-meaningful-task-practice.md)
-
-**Previous:** [Voluntary tremor retrainment](01-voluntary-tremor-retraining.md) · **Index:** [Detailed techniques](README.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -120,3 +112,18 @@ Avoid standing foot-tapping when balance is unreliable, rapid repetitive movemen
 | <a id="citation-3"></a>**[3]** | Espay AJ, Edwards MJ, Oggioni GD, et al. Tremor retrainment as therapeutic strategy in psychogenic (functional) tremor. *Parkinsonism & Related Disorders*. 2014;20(6):647–650. [FND-CIT-0031](../../../research/citation-index.md#fnd-cit-0031). [https://doi.org/10.1016/j.parkreldis.2014.02.029](https://doi.org/10.1016/j.parkreldis.2014.02.029) |
 
 *Detailed technique page created: September 11, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: External Focus and Meaningful-Task Practice for Functional Tremor](03-external-focus-and-meaningful-task-practice.md)
+
+**Related:** [Voluntary tremor retrainment](01-voluntary-tremor-retraining.md) · [Detailed techniques](README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

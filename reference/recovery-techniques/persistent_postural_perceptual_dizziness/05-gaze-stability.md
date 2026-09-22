@@ -97,4 +97,10 @@ The guideline offers strong recommendations for its defined hypofunction populat
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](06-balance-and-walking.md) · [Previous page](04-visual-motion.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Practising Balance and Walking With Appropriate Support](06-balance-and-walking.md)
+
+**Related:** [Collection index](README.md) · [Previous page](04-visual-motion.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

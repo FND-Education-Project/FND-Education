@@ -99,14 +99,6 @@ Focused review discusses occasional targeted use, particularly with objective pa
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique: Equipment and orthosis review](10-equipment-and-orthosis-review.md) · [Next technique: Episode, flare and relapse planning](12-episode-flare-and-relapse-planning.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Functional facial symptoms](../14-functional-facial-symptoms.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -116,3 +108,18 @@ Focused review discusses occasional targeted use, particularly with objective pa
 | <a id="citation-3"></a>**[3]** | Gros P, Bhatt H, Gilmour GS, Lidstone SC. Rehabilitation for functional dystonia: cases and review of the literature. *Movement Disorders Clinical Practice*. 2024;11(8):1018–1024. [FND-CIT-0055](../../../research/citation-index.md#fnd-cit-0055). [https://doi.org/10.1002/mdc3.14121](https://doi.org/10.1002/mdc3.14121) |
 
 *Detailed technique page created September 12, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Episode, Flare and Relapse Planning for Functional Dystonia](12-episode-flare-and-relapse-planning.md)
+
+**Related:** [Previous technique: Equipment and orthosis review](10-equipment-and-orthosis-review.md) · [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Functional facial symptoms](../14-functional-facial-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

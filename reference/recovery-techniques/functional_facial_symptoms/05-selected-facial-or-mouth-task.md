@@ -96,4 +96,10 @@ Speech-language consensus and functional-dystonia reviews support individualized
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](06-planned-trigger-practice.md) · [Previous page](04-attention-and-natural-expression.md) · [Symptom overview](../14-functional-facial-symptoms.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Planning Gentle Practice Around an Assessed Trigger](06-planned-trigger-practice.md)
+
+**Related:** [Collection index](README.md) · [Previous page](04-attention-and-natural-expression.md) · [Symptom overview](../14-functional-facial-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

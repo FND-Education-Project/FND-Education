@@ -96,4 +96,10 @@ This page expands original entry 13, **Individual cognitive rehabilitation**. Ev
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](../13-persistent-postural-perceptual-dizziness.md) · [Previous page](12-digital-self-help.md) · [Symptom overview](../12-functional-cognitive-disorder.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Recovery Techniques for Persistent Postural-Perceptual Dizziness](../13-persistent-postural-perceptual-dizziness.md)
+
+**Related:** [Collection index](README.md) · [Previous page](12-digital-self-help.md) · [Symptom overview](../12-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

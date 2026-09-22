@@ -18,13 +18,8 @@
 **Diagnostic method:** Look for a combination of recognized functional dystonia features, internal inconsistency and incongruity with established non-functional dystonia patterns.  
 **Media needed:** Still-image sequence or gentle continuous examination; no forced repositioning.
 
-***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+
 ## Diagnostic techniques at a glance
 
 These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
@@ -72,6 +67,11 @@ Specialist testing measures the ability to distinguish closely timed touches. Si
 Paired-stimulation research examines how motor responses change after repeated sensory–motor pairing. Group differences have been investigated, but no sufficiently validated individual diagnostic threshold is established for routine practice. (*citations* [5](#citation-5), [8](#citation-8))
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -88,6 +88,12 @@ At the onset of a familiar painful posture, protect the limb and find the suppor
 The examination should not be used to force a painful limb into a different position or to prove that a fixed posture is under voluntary control.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Do not pull, straighten or manipulate a fixed limb for a photograph or demonstration. Ask what positioning is comfortable and follow the person’s clinical plan. Visible changes in posture over time are useful history, but they do not allow a supporter to decide whether the dystonia is functional.
@@ -99,6 +105,12 @@ An episode may be brief, recur in bouts, or settle into a posture that lasts muc
 Useful observations after safety comes first include how the posture began, whether it was fixed or moving, the task or setting, pain and swelling, other symptoms, duration and recovery.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 ### Episodic and prolonged presentations
@@ -129,17 +141,11 @@ The safest first contribution is a **three- or four-image clinical teaching sequ
 If a real patient is filmed, use one continuous clip and permit their normal supports. Do not remove splints, force passive range, ask for painful repetition or present one posture as diagnostic by itself. The narration should explain the combination of history, pattern and examination that matters.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/04-functional-dystonia.md) · [Functional facial symptoms](14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
 
@@ -163,3 +169,18 @@ If a real patient is filmed, use one continuous clip and permit their normal sup
 | <a id="citation-8"></a>**[8]** | Morgante F, Naro A, Terranova C, et al. Normal sensorimotor plasticity in complex regional pain syndrome with fixed posture of the hand. *Movement disorders : official journal of the Movement Disorder Society*. 2017;32(1):149-157. [DOI](https://doi.org/10.1002/mds.26836). [PMID: 28124436](https://pubmed.ncbi.nlm.nih.gov/28124436/). [FND-CIT-0158](../../research/citation-index.md#fnd-cit-0158). |
 
 *Technique outline created: August 24, 2026 · Movement-disorders and pain review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Gait Disorder](05-functional-gait-disorder.md)
+
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/04-functional-dystonia.md) · [Functional facial symptoms](14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -18,13 +18,7 @@
 **Diagnostic method:** Demonstrate a reproducible difference between voluntary access and movement recruited in another task, interpreted with the history, complete examination and appropriate investigation. No one sign covers bilateral or widespread paralysis.<br>
 **Media needed:** Clinician-led video with separate upper- and lower-limb examples plus a diagram explaining why the selected sign applies only to that movement pattern.
 
-***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
-[For the Person With FND](#for-the-person-with-fnd)<br>
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
-[Research and Sources](#research-and-sources)
-***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
 
 ## Diagnostic techniques at a glance
 
@@ -69,6 +63,11 @@ Selected nerve-conduction, EMG, evoked-potential or imaging studies investigate 
 Drift without pronation, collapsing weakness and paradoxical wrist flexion require movement or force that may be absent in complete paralysis. Inability to perform them is not a positive result. Use the limb-weakness page only when the phenotype fits. (*citations* [11](#citation-11), [12](#citation-12))
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -87,6 +86,11 @@ Some people report marked weakness or paralysis around functional seizures or pe
 When familiar paralysis begins or worsens, stop driving, standing, transferring, carrying dangerous objects or using machinery; get into a safe position; and use the support or mobility plan already agreed. New paralysis, a sudden changed pattern or paralysis with facial droop, new speech or understanding difficulty, severe headache, new bladder or bowel change, saddle numbness, fever, injury or altered consciousness needs urgent assessment rather than automatic attribution to FND.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Family, Friends, and Other Supporters
 
@@ -96,6 +100,11 @@ If the established episode plan identifies an automatic movement cue, offer it o
 
 A previous functional diagnosis does not determine the cause of every new paralysis episode. Follow the person’s emergency plan and seek reassessment for a new, markedly changed, prolonged or injured presentation.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
 ***
 
 ## For Clinicians and the Care Team
@@ -131,14 +140,6 @@ Do not combine footage from different people or attempts to manufacture a contra
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Previous in this collection:** [← Functional Facial Symptoms](14-functional-facial-symptoms.md) · **Continue:** [Functional Drop Attacks →](16-functional-drop-attacks.md)
-
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/15-functional-paralysis.md) · [Partial functional limb weakness](01-functional-limb-weakness.md) · [Functional seizures](06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 ### Evidence notes
@@ -165,3 +166,18 @@ Do not combine footage from different people or attempts to manufacture a contra
 | <a id="citation-12"></a>**[12]** | Sonoo M. Paradoxical wrist flexion: A new test to detect functional weakness of the upper limb. *eNeurologicalSci*. 2021;22:100302. [DOI](https://doi.org/10.1016/j.ensci.2020.100302). [PMID: 33344786](https://pubmed.ncbi.nlm.nih.gov/33344786/). [FND-CIT-0185](../../research/citation-index.md#fnd-cit-0185). |
 
 *Technique outline created: September 2, 2026 · Neurology, rehabilitation, lived-experience and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Drop Attacks](16-functional-drop-attacks.md)
+
+**Related:** [← Functional Facial Symptoms](14-functional-facial-symptoms.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/15-functional-paralysis.md) · [Partial functional limb weakness](01-functional-limb-weakness.md) · [Functional seizures](06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

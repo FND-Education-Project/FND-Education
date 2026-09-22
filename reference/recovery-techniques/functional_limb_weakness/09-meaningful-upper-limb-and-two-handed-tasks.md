@@ -90,14 +90,6 @@ Protect a painful or unstable shoulder, avoid traction through the upper limb an
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Next technique: Graded activity and reconditioning](10-graded-activity-and-reconditioning.md)
-
-**Previous:** [Mirror and visual feedback](08-mirror-and-visual-feedback.md) · **Index:** [Detailed techniques](README.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -106,3 +98,18 @@ Protect a painful or unstable shoulder, avoid traction through the upper limb an
 | <a id="citation-2"></a>**[2]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
 
 *Detailed technique page created: September 10, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Graded Activity and Reconditioning for Functional Limb Weakness](10-graded-activity-and-reconditioning.md)
+
+**Related:** [Mirror and visual feedback](08-mirror-and-visual-feedback.md) · [Detailed techniques](README.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

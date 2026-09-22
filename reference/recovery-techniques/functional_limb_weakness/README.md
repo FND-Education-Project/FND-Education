@@ -26,6 +26,8 @@ This folder expands the brief technique descriptions on the [functional limb wea
 These are components a qualified clinician can combine, adapt or omit. They are not a fixed sequence. A technique helping or not helping does not confirm or disprove FND. New or substantially changed weakness needs appropriate assessment.
 
 <!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Automatic and Task-Oriented Movement for Functional Limb Weakness](01-automatic-and-task-oriented-movement.md)
+
 **Related:** [Functional limb weakness overview](../01-functional-limb-weakness.md) · [Diagnostic signs](../../diagnostic-signs/01-functional-limb-weakness.md) · [Technique index](../technique-index.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)

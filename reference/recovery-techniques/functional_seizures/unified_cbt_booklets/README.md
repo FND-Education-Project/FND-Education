@@ -110,7 +110,9 @@ These pages can form the functional-seizure section of the person's broader FND 
 *Outline created August 25, 2026 · All five booklets require clinical, lived-experience, and accessibility review*
 
 <!-- NAV-CONTEXT:START -->
-**CBT materials:** [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
+**Continue:** [Next page: Booklet 1 Outline — Understanding Functional Seizures and CBT](01-understanding-functional-seizures-and-cbt.md)
+
+**Related:** [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
 
 **Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

@@ -90,4 +90,10 @@ This page expands original entry 12, **CBT- and metacognition-informed digital s
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](13-individual-cognitive-rehabilitation.md) · [Previous page](11-online-group-act.md) · [Symptom overview](../12-functional-cognitive-disorder.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Planning Individual Cognitive Rehabilitation](13-individual-cognitive-rehabilitation.md)
+
+**Related:** [Collection index](README.md) · [Previous page](11-online-group-act.md) · [Symptom overview](../12-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

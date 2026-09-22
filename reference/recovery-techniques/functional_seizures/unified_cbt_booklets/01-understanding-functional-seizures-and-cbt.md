@@ -153,7 +153,9 @@ This booklet repeats only the facts needed for standalone safety, then adds a se
 *Outline revised August 25, 2026 · Clinical, lived-experience, and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
-**CBT materials:** [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md) · [Next →](02-discovering-your-seizure-pattern.md)
+**Continue:** [Next page: Booklet 2 Outline — Discovering Your Seizure Pattern](02-discovering-your-seizure-pattern.md)
+
+**Related:** [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
 
 **Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

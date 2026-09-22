@@ -14,17 +14,16 @@
 
 The [detailed collection](functional_speech_and_voice_symptoms/README.md) expands **eleven original entries into eleven pages**, in their original order. The [history audit](../../docs/project/recovery-technique-history-audit.md#functional-speech-and-voice-symptoms) records the mapping. This is a menu of approaches and support, not an eleven-step programme or a count of proven treatments.
 
+### Motor and vocal tic-like symptoms
+
+Involuntary sounds, words or phrases may be vocal/phonic tic-like symptoms. They are not automatically a speech-production or voice impairment; communication support can still help. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-### Motor and vocal tic-like symptoms
-
-Involuntary sounds, words or phrases may be vocal/phonic tic-like symptoms. They are not automatically a speech-production or voice impairment; communication support can still help. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
-
 
 ## For the Person With FND
 
@@ -130,10 +129,17 @@ ASHA’s pages provide broader assessment and communication-access guidance; the
 
 *Sources checked September 17, 2026 · Speech-language, medical, lived-experience and accessibility review pending.*
 
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Detailed pages](functional_speech_and_voice_symptoms/README.md) · [Diagnostic signs](../diagnostic-signs/09-functional-speech-and-voice-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/01-speech-voice-and-word-blocking.md)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-**Previous:** [Functional visual symptoms](08-functional-visual-symptoms.md) · **Next:** [Functional swallowing symptoms and globus](10-functional-swallowing-and-globus.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Speech and Voice Symptoms: Detailed Recovery and Communication Support](functional_speech_and_voice_symptoms/README.md)
+
+**Related:** [Collection index](README.md) · [Diagnostic signs](../diagnostic-signs/09-functional-speech-and-voice-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/01-speech-voice-and-word-blocking.md) · [Functional visual symptoms](08-functional-visual-symptoms.md) · [Functional swallowing symptoms and globus](10-functional-swallowing-and-globus.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

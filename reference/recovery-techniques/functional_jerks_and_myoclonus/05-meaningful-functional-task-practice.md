@@ -102,14 +102,6 @@ Measure completion, quality relevant to safety, assistance, effort, confidence, 
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous: Pain and muscle-overactivity management](04-pain-and-muscle-overactivity-management.md) · [Next technique: Graded activity and load planning](06-graded-activity-and-load-planning.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional jerks overview](../03-functional-jerks-and-myoclonus.md) · [Diagnostic signs](../../diagnostic-signs/03-functional-jerks-and-myoclonus.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -119,3 +111,18 @@ Measure completion, quality relevant to safety, assistance, effort, confidence, 
 | <a id="citation-3"></a>**[3]** | Nielsen G, Stone J, Lee TC, et al.; Physio4FMD study group. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial. *The Lancet Neurology*. 2024;23(7):675–686. [FND-CIT-0029](../../../research/citation-index.md#fnd-cit-0029). [https://doi.org/10.1016/S1474-4422(24)00135-2](https://doi.org/10.1016/S1474-4422(24)00135-2) |
 
 *Detailed technique page created: September 11, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Graded Activity and Load Planning for Functional Jerks](06-graded-activity-and-load-planning.md)
+
+**Related:** [Previous: Pain and muscle-overactivity management](04-pain-and-muscle-overactivity-management.md) · [Detailed technique index](README.md) · [Functional jerks overview](../03-functional-jerks-and-myoclonus.md) · [Diagnostic signs](../../diagnostic-signs/03-functional-jerks-and-myoclonus.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

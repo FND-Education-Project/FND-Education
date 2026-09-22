@@ -97,14 +97,6 @@ Consensus and focused review provide cautionary principles, not a trial-derived 
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique: Pain, skin, joint-range and contracture management](09-pain-skin-joint-and-contracture-management.md) · [Next technique: Specialist botulinum-toxin review](11-specialist-botulinum-toxin-review.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Trying and reviewing equipment course page](../../../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/04-trying-and-reviewing-equipment-as-needs-change.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -114,3 +106,18 @@ Consensus and focused review provide cautionary principles, not a trial-derived 
 | <a id="citation-3"></a>**[3]** | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
 
 *Detailed technique page created September 12, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Specialist Botulinum-Toxin Review for Functional Dystonia](11-specialist-botulinum-toxin-review.md)
+
+**Related:** [Previous technique: Pain, skin, joint-range and contracture management](09-pain-skin-joint-and-contracture-management.md) · [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Trying and reviewing equipment course page](../../../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/04-trying-and-reviewing-equipment-as-needs-change.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

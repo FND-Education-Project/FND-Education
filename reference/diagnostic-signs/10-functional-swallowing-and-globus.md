@@ -18,13 +18,8 @@
 **Diagnostic method:** Distinguish swallowing impairment from globus, look for a positive functional pattern and investigate structural or neurological alternatives.  
 **Media needed:** A clinician explanation or a consented, annotated FEES or videofluoroscopy excerpt—not a contributor-designed food challenge.
 
-***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+
 ## Diagnostic techniques at a glance
 
 These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
@@ -60,6 +55,11 @@ Globus describes a non-painful lump or foreign-body sensation, usually between m
 Selected endoscopy, mucosal sampling, manometry or reflux testing investigate plausible alternative explanations. These are differential tests. Findings and symptoms must be interpreted together; a series of normal results is not itself a positive functional sign. (*citations* [3](#citation-3))
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -76,6 +76,12 @@ If familiar difficulty begins during eating or drinking, follow the person’s a
 Weight loss, dehydration, recurrent chest infection, progressive difficulty, pain, bleeding or other concerning features need appropriate medical investigation. Do not test your swallowing with increasingly difficult foods at home.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Follow the person’s current swallowing plan, including recommended texture, position, pace and supervision. Do not offer a difficult food or large drink to see whether the symptom changes with distraction. If choking or another emergency occurs, follow local emergency guidance and the person’s care plan.
@@ -89,6 +95,12 @@ An intermittent problem can still carry real choking, aspiration or nutrition ri
 Record duration and meal context only after immediate swallowing and breathing safety has been addressed.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 ### Episodic and prolonged presentations
@@ -114,19 +126,15 @@ The safest contribution is a clinician-led explanation using a swallowing diagra
 Do not ask a participant to swallow a chosen food, large bolus or difficult texture for public filming. Do not imply that a normal-looking swallow in one clip proves every meal is safe. The written page and narration must distinguish globus from dysphagia and include the need for individual safety guidance.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 
 **Recovery reading:** [Eleven detailed swallowing and globus pages](../recovery-techniques/functional_swallowing_and_globus/README.md) explain individual selection and safety limits after assessment.
 
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/10-functional-swallowing-and-globus.md) · [Functional facial symptoms](14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/02-swallowing-globus-and-nutrition-safety.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## Research and Sources
 
@@ -144,3 +152,18 @@ Do not ask a participant to swallow a chosen food, large bolus or difficult text
 | <a id="citation-3"></a>**[3]** | Aziz Q, Fass R, Gyawali CP, et al. Functional Esophageal Disorders. *Gastroenterology*. 2016;:S0016-5085(16)00178-5. [DOI](https://doi.org/10.1053/j.gastro.2016.02.012). [PMID: 27144625](https://pubmed.ncbi.nlm.nih.gov/27144625/). [FND-CIT-0164](../../research/citation-index.md#fnd-cit-0164). |
 
 *Technique outline created: August 24, 2026 · Speech-language-pathology and gastroenterology review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Cough and Upper-Airway Symptoms](11-functional-cough-and-upper-airway-symptoms.md)
+
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/10-functional-swallowing-and-globus.md) · [Functional facial symptoms](14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/02-swallowing-globus-and-nutrition-safety.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

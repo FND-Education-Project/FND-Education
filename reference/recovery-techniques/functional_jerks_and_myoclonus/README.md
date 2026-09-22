@@ -28,6 +28,8 @@ A jerk may be too brief for a person to use a movement strategy. Some people hav
 The nine techniques are components a qualified clinician can combine, adapt or omit. They are not a fixed sequence, and current evidence does not identify a functional-jerk-specific protocol or controlled treatment effect for each component.
 
 <!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Pattern and Warning Mapping for Functional Jerks](01-pattern-and-warning-mapping.md)
+
 **Related:** [Functional jerks overview](../03-functional-jerks-and-myoclonus.md) · [Diagnostic signs](../../diagnostic-signs/03-functional-jerks-and-myoclonus.md) · [Technique index](../technique-index.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)

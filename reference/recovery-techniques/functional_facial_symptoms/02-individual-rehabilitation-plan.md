@@ -100,4 +100,10 @@ Physio4FMD did not find a significant between-group difference in its primary ph
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](03-familiar-episode-plan.md) · [Previous page](01-understanding-the-facial-pattern.md) · [Symptom overview](../14-functional-facial-symptoms.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Making a Plan for Familiar Facial Episodes](03-familiar-episode-plan.md)
+
+**Related:** [Collection index](README.md) · [Previous page](01-understanding-the-facial-pattern.md) · [Symptom overview](../14-functional-facial-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -25,6 +25,8 @@ The [history audit](../../../docs/project/recovery-technique-history-audit.md#fu
 The main literature addresses functional visual loss. It must not be applied automatically to double vision, eye-movement disorders, visual snow or all photophobia. Treatment evidence remains limited. Symptoms, disability, needed protection and access supports are real whether or not visual practice helps.
 
 <!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Positive Explanation of Preserved Vision and Follow-Up](01-positive-explanation-and-follow-up.md)
+
 **Related:** [Symptom overview](../08-functional-visual-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/08-functional-visual-symptoms.md) · [Master technique index](../technique-index.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)

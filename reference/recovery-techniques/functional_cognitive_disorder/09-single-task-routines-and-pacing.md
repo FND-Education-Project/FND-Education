@@ -94,4 +94,10 @@ This page expands original entry 9, **Single-task routines and pacing**. Everyda
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](10-contributors-and-coexisting-conditions.md) · [Previous page](08-external-memory-supports.md) · [Symptom overview](../12-functional-cognitive-disorder.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Keeping Other Contributors in the Care Plan](10-contributors-and-coexisting-conditions.md)
+
+**Related:** [Collection index](README.md) · [Previous page](08-external-memory-supports.md) · [Symptom overview](../12-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

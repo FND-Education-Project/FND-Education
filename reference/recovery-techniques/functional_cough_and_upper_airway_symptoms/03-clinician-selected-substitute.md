@@ -6,6 +6,13 @@
 
 **Original entry 3: Gentle nasal sniff or clinician-selected substitute.** This page expands the original list rather than adding a new intervention. **[Professional consensus; individual assessment required]**
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For the Person With FND
 
 There is no single trick that suits every cough or throat sensation. A speech and language therapist may teach a small nasal sniff, a comfortable dry swallow, a gentle pursed-lip exhale or another response after checking what your airway and breathing are doing. You only need the response that fits your assessment.
@@ -24,17 +31,38 @@ For a familiar, mild bout, use your agreed plan and reduce the activity demand i
 
 Do not use cough suppression to manage choking, serious breathlessness or a new unexplained breathing pattern. Seek emergency help for severe difficulty breathing, blue or grey colour, inability to speak because of breathlessness, collapse or suspected airway obstruction. Chest pain or coughing blood needs urgent medical assessment. New noisy breathing, fever, weight loss, repeated chest infections or a changed persistent cough warrants reassessment. Follow prescribed respiratory treatment and your individual emergency plan.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Use the person’s agreed cue, if invited, rather than adding your own breathing instructions. Several people coaching at once can be overwhelming. Give them room to use their plan and keep prescribed respiratory treatment available.
 
 Agree beforehand how the person wants help during a familiar bout. A changed or severe episode calls for the medical plan rather than more coaching. Coughing can be exhausting even after the visible bout has ended; leave room for recovery and practical help.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 Select according to cough, laryngeal, nasal, swallowing and respiratory findings. Demonstrate the exact response and check teach-back. Distinguish assessed inducible laryngeal obstruction from FND and asthma; they can coexist, and their action plans must remain clear. These examples are options within therapy, not a validated sequence for all patients.
 
 These pages concern assessed presentations. Chronic cough, cough hypersensitivity, tic cough, somatic cough syndrome and inducible laryngeal obstruction are not interchangeable diagnoses, and upper-airway symptoms are not automatically FND. Use the [paired diagnostic page](../../diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) and coordinate an individualized plan. Agree a review point, meaningful participation goals and access adaptations rather than prescribing an arbitrary exercise dose.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## Research and Sources
 
@@ -46,4 +74,17 @@ The practical explanation adapts professional consensus into everyday language. 
 
 *Source review: September 20, 2026 · Human review pending*
 
-**Continue:** [Next page](04-relaxed-throat-breathing.md) · [Previous page](02-sip-and-swallow.md) · [Symptom overview](../11-functional-cough-and-upper-airway-symptoms.md) · [Site map](../../../SITEMAP.md)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Finding a Less Effortful Breathing Pattern](04-relaxed-throat-breathing.md)
+
+**Related:** [Collection index](README.md) · [Previous page](02-sip-and-swallow.md) · [Symptom overview](../11-functional-cough-and-upper-airway-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

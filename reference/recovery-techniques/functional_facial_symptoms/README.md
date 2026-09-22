@@ -24,3 +24,9 @@ Facial-specific treatment evidence is limited. Broader motor studies, specialist
 New sudden facial droop, weakness or speech difficulty needs emergency assessment, even with an existing FND diagnosis. Needed eye care, eating support and communication aids remain available during rehabilitation.
 
 [Start with understanding the pattern](01-understanding-the-facial-pattern.md) · [Diagnostic signs](../../diagnostic-signs/14-functional-facial-symptoms.md) · [Next symptom: Functional paralysis](../15-functional-paralysis.md)
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Understanding What Your Face Is Doing](01-understanding-the-facial-pattern.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

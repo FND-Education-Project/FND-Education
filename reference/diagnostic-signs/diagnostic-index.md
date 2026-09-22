@@ -55,7 +55,9 @@ The safest demonstrations usually show what a qualified clinician observes and h
 *Collection index created: August 25, 2026 · Functional paralysis and drop attacks added: September 2, 2026 · Clinical and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
-**Reference:** [Reference Library](../README.md) · [Diagnostic Techniques](README.md) · [Recovery Techniques](../recovery-techniques/README.md)
+**Continue:** [Next page: Functional Limb Weakness](01-functional-limb-weakness.md)
+
+**Related:** [Diagnostic Techniques](README.md) · [Recovery Techniques](../recovery-techniques/README.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

@@ -95,4 +95,10 @@ This page expands original entry 5, **Prediction versus performance**. Everyday 
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](06-noticing-what-helped.md) · [Previous page](04-attending-to-one-task.md) · [Symptom overview](../12-functional-cognitive-disorder.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Keeping a Small Record of What Helped](06-noticing-what-helped.md)
+
+**Related:** [Collection index](README.md) · [Previous page](04-attending-to-one-task.md) · [Symptom overview](../12-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -43,7 +43,6 @@ Continually watching and testing memory can draw attention away from the convers
 
 This page addresses **performance monitoring**: attention repeatedly turning from an activity to checking whether your mind is working. After real lapses, that response is understandable. In some people it adds load and keeps uncertainty going. It is a possible maintaining process, not an explanation for everyone's FCD or its original cause. The aim is to free attention for the activity when this pattern fits. Improvement would not prove that monitoring caused the disorder. Keep needed rereading, information and safety checks. (*citations* [1](#citation-1), [2](#citation-2))
 
-
 ### How is this different from the next page?
 
 Here, you check your own performance. On the [reassurance page](03-reassurance-without-loops.md), the main issue is repeatedly seeking an answer or assurance from someone else. Both may be attempts to settle the same worry, so they can be addressed together. They are described separately because changing a personal testing habit differs from agreeing how another person should respond.
@@ -122,4 +121,10 @@ This page expands original entry 2, **Reduce repeated self-testing**. Everyday e
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](03-reassurance-without-loops.md) · [Previous page](01-understanding-the-cognitive-pattern.md) · [Symptom overview](../12-functional-cognitive-disorder.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Finding Reassurance That Still Helps](03-reassurance-without-loops.md)
+
+**Related:** [Collection index](README.md) · [Previous page](01-understanding-the-cognitive-pattern.md) · [Symptom overview](../12-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

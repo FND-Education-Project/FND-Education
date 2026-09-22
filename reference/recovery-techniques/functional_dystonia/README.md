@@ -38,6 +38,8 @@ The visible posture is not the only valid outcome. Safer transfers, protected sk
 Evidence is limited. Most component-level recommendations come from professional consensus. The collection identifies case-series and programme-level evidence separately and describes the small botulinum-toxin/CBT pilot trial without turning it into a general treatment promise.
 
 <!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Supported Positioning and Non-Forceful Release for Functional Dystonia](01-supported-positioning-and-non-forceful-release.md)
+
 **Related:** [Functional dystonia overview](../04-functional-dystonia.md) · [Diagnostic signs](../../diagnostic-signs/04-functional-dystonia.md) · [Technique index](../technique-index.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)

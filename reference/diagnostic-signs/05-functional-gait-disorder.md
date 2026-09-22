@@ -18,13 +18,8 @@
 **Diagnostic method:** Identify reproducible inconsistency or incongruity rather than diagnosing from an unusual-looking gait alone.  
 **Media needed:** One continuous, safely spotted walking sequence from more than one angle.
 
-***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+
 ## Diagnostic techniques at a glance
 
 These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
@@ -84,6 +79,11 @@ A video study examined marked effort-related sounds and expressions during stand
 Posturography and moving-platform research assess sway and gait adaptation under controlled conditions. These are specialist or research approaches with limited generalisability; group differences do not yet supply a routine individual diagnostic test. (*citations* [8](#citation-8), [9](#citation-9))
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -100,6 +100,12 @@ Functional gait difficulty may be present most of the time, fluctuate over a day
 If a familiar gait problem starts suddenly, preventing a fall comes first. Stop before continuing into an unsafe step, use the usual wall, rail, seat, mobility aid or trained supporter, and reduce extra tasks or stimulation if that is part of the person’s plan. Once safe, use one gait cue already practised with rehabilitation—such as an external target or rhythm—rather than trying multiple difficult walking tests. New inability to walk, new one-sided weakness, severe dizziness or another changed neurological pattern needs reassessment.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Do not ask the person to walk without their usual aid or try harder tasks to see whether they “can really walk.” Gait comparison has to be selected and guarded by a clinician. A safer role is to report what walking looks like in ordinary settings and which supports, surfaces or tasks seem to change it.
@@ -111,6 +117,12 @@ A person may walk relatively well in one setting and suddenly need an aid, seat 
 Afterward, useful details include the environment, walking task, other symptoms, duration, falls or near-falls, and what helped the person resume safe movement.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 ### Episodic and prolonged presentations
@@ -141,17 +153,11 @@ Film the same short walkway in this order:
 Use a wide side view and a front or rear view, but show the complete uninterrupted pass before any close-up. Keep the usual aid and safety person visible. Do not stage a fall, ask for repeated knee buckling or use slow motion to sensationalize the gait. Captions should identify the task and observed change, not diagnose from appearance alone.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/05-functional-gait-disorder.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
 
@@ -175,3 +181,18 @@ Use a wide side view and a front or rear view, but show the complete uninterrupt
 | <a id="citation-9"></a>**[9]** | Lin D, Castro P, Edwards A, et al. Dissociated motor learning and de-adaptation in patients with functional gait disorders. *Brain : a journal of neurology*. 2020;143(8):2594-2606. [DOI](https://doi.org/10.1093/brain/awaa190). [PMID: 32779724](https://pubmed.ncbi.nlm.nih.gov/32779724/). [FND-CIT-0117](../../research/citation-index.md#fnd-cit-0117). |
 
 *Technique outline created: August 24, 2026 · Neurology, physiotherapy and falls-safety review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Seizures](06-functional-seizures.md)
+
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/05-functional-gait-disorder.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

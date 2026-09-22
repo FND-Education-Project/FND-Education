@@ -20,6 +20,7 @@ FCD involves cognition, not only memory. Care may combine process-based support,
 
 For the fuller explanation—including faces, visual recall, imagery and evidence limits—see [Everything We Know About FCD](../functional-cognitive-disorder.md). Migraine, pain, fatigue, sleep disorders and other contributors are not automatically FCD.
 
+<a id="for-the-person-with-symptoms"></a>
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -27,8 +28,6 @@ For the fuller explanation—including faces, visual recall, imagery and evidenc
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<a id="for-the-person-with-symptoms"></a>
 
 ## For the Person With FND
 
@@ -87,6 +86,7 @@ Choose one low-stakes task that matters and make its next step easier to find: a
 
 Confusion is sudden, consciousness changes, or cognitive symptoms occur with new weakness, speech change, severe headache, seizure, fever, head injury or another acute medical concern. New difficulty recognizing highly familiar people, progressive loss of familiar knowledge, major visual-spatial change, progressive decline, getting lost in familiar places, unsafe medication or financial errors, new neurological signs or a marked change from the established pattern also need review.
 
+<a id="for-family-friends-and-supporters"></a>
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -94,8 +94,6 @@ Confusion is sudden, consciousness changes, or cognitive symptoms occur with new
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<a id="for-family-friends-and-supporters"></a>
 
 ## For Family, Friends, and Other Supporters
 
@@ -109,6 +107,7 @@ Confusion is sudden, consciousness changes, or cognitive symptoms occur with new
 
 Use one speaker and one idea at a time. Give extra processing time, point to the person’s usual external support and avoid repeated correction or memory quizzes. If the person needs to stop a safety-sensitive task—driving, medication preparation, cooking or finances—help preserve safety without treating the temporary loss of access as a permanent loss of ability.
 
+<a id="for-clinicians"></a>
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -116,8 +115,6 @@ Use one speaker and one idea at a time. Give extra processing time, point to the
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<a id="for-clinicians"></a>
 
 ## For Clinicians and the Care Team
 
@@ -129,6 +126,7 @@ Document which cognitive domain changes, episode duration, frequency, sensory/co
 
 Build treatment around assessed cognitive processes, functional goals, compensation and accommodations; address monitoring only when it is relevant. Supported success counts, and treatment response does not prove a mechanism. Monitor participation, confidence, distress and daily errors as well as symptom report. Persistent symptoms may still benefit from practical rehabilitation and quality-of-life support.
 
+<a id="research-and-evidence"></a>
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -136,8 +134,6 @@ Build treatment around assessed cognitive processes, functional goals, compensat
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<a id="research-and-evidence"></a>
 
 ## Research and Sources
 
@@ -167,6 +163,8 @@ The digital study also reported negative experiences, including increased anxiet
 ***
 
 <!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Cognitive Disorder: Detailed Recovery Pages](functional_cognitive_disorder/README.md)
+
 **Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/12-functional-cognitive-disorder.md) · [Related course page](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)

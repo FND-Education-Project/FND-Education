@@ -80,14 +80,6 @@ AAN supports assessing and treating co-occurring conditions; occupational-therap
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique](07-clinician-taught-breathing-control.md) · [Next technique](09-prescriber-led-medication-review.md)
-
-**Related:** [Technique collection and CBT resources](README.md) · [Seizure recovery overview](../06-functional-seizures.md) · [Episode safety plan](02-individualized-episode-safety-plan.md) · [Diagnostic reference](../../diagnostic-signs/06-functional-seizures.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation and source |
@@ -96,3 +88,18 @@ AAN supports assessing and treating co-occurring conditions; occupational-therap
 | <a id="citation-2"></a>**[2]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). |
 
 *Created September 14, 2026 · Neurology, relevant therapy, lived-experience, caregiver and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Prescriber-Led Medication Review for Functional Seizures](09-prescriber-led-medication-review.md)
+
+**Related:** [Previous technique](07-clinician-taught-breathing-control.md) · [Technique collection and CBT resources](README.md) · [Seizure recovery overview](../06-functional-seizures.md) · [Episode safety plan](02-individualized-episode-safety-plan.md) · [Diagnostic reference](../../diagnostic-signs/06-functional-seizures.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

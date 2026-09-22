@@ -25,7 +25,9 @@ Each symptom page now includes a **Diagnostic techniques at a glance** inventory
 > A positive sign supports diagnosis only in the right clinical setting. New, severe, injured or substantially changed symptoms still need appropriate medical assessment.
 
 <!-- NAV-CONTEXT:START -->
-**Reference:** [Reference Library](../README.md) · [Reference Index](../reference-index.md) · [Recovery Techniques](../recovery-techniques/README.md)
+**Continue:** [Next page: Diagnostic Techniques Index](diagnostic-index.md)
+
+**Related:** [Reference Index](../reference-index.md) · [Recovery Techniques](../recovery-techniques/README.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

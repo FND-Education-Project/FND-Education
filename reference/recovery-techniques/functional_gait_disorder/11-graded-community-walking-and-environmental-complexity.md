@@ -90,14 +90,6 @@ Professional consensus supports graded meaningful activity and transfer beyond t
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique: Mirror and visual feedback](10-mirror-and-visual-feedback.md) · [Next technique: Mobility aids, guarding and fall planning](12-mobility-aids-guarding-and-fall-planning.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional gait overview](../05-functional-gait-disorder.md) · [Available capacity course page](../../../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -108,3 +100,18 @@ Professional consensus supports graded meaningful activity and transfer beyond t
 | <a id="citation-4"></a>**[4]** | Nielsen G, Stone J, Lee TC, et al. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial. *The Lancet Neurology*. 2024;23(7):675–686. [FND-CIT-0029](../../../research/citation-index.md#fnd-cit-0029). [https://doi.org/10.1016/S1474-4422(24)00135-2](https://doi.org/10.1016/S1474-4422(24)00135-2) |
 
 *Detailed technique page created September 12, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Mobility Aids, Guarding and Fall Planning for Functional Gait Disorder](12-mobility-aids-guarding-and-fall-planning.md)
+
+**Related:** [Previous technique: Mirror and visual feedback](10-mirror-and-visual-feedback.md) · [Detailed technique index](README.md) · [Functional gait overview](../05-functional-gait-disorder.md) · [Available capacity course page](../../../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

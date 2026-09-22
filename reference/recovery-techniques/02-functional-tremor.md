@@ -117,12 +117,6 @@ Screen for medication effects, essential tremor, Parkinsonism and other relevant
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/02-functional-tremor.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 A small, uncontrolled proof-of-concept study of ten people reported improvement after externally paced hand-tremor retrainment using tactile and visual feedback, but it was not a definitive trial and did not test surface-EMG biofeedback (**FND-CIT-0031**). The other detailed practical recommendations come mainly from specialist physiotherapy consensus (**FND-CIT-0028**) and a systematic review of functional tremor treatment (**FND-CIT-0019**). Programme-level trials in mixed functional motor-disorder populations add context but do not establish which tremor component is active (**FND-CIT-0029**, **FND-CIT-0030**).
@@ -138,3 +132,18 @@ No community-only technique was added. Recurring lived-experience suggestions fo
 - **FND-CIT-0031:** Espay AJ, Edwards MJ, Oggioni GD, et al. *Tremor retrainment as therapeutic strategy in psychogenic (functional) tremor.* Parkinsonism & Related Disorders. 2014;20(6):647–650. [doi:10.1016/j.parkreldis.2014.02.029](https://doi.org/10.1016/j.parkreldis.2014.02.029)
 
 *Evidence search current to September 11, 2026 · Detailed technique expansion added September 11, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Tremor: Detailed Recovery Techniques](functional_tremor/README.md)
+
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/02-functional-tremor.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -99,14 +99,6 @@ Measure task completion, assistance, time, effort, pain and delayed response, al
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique: Position and gravity change](02-position-and-gravity-change.md) · [Next technique: Graded weight-bearing and functional use](04-graded-weight-bearing-and-functional-use.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Diagnostic signs](../../diagnostic-signs/04-functional-dystonia.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -117,3 +109,18 @@ Measure task completion, assistance, time, effort, pain and delayed response, al
 | <a id="citation-4"></a>**[4]** | Nielsen G, Stone J, Lee TC, et al. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial. *The Lancet Neurology*. 2024;23(7):675–686. [FND-CIT-0029](../../../research/citation-index.md#fnd-cit-0029). [https://doi.org/10.1016/S1474-4422(24)00135-2](https://doi.org/10.1016/S1474-4422(24)00135-2) |
 
 *Detailed technique page created September 12, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Graded Weight-Bearing and Functional Use for Functional Dystonia](04-graded-weight-bearing-and-functional-use.md)
+
+**Related:** [Previous technique: Position and gravity change](02-position-and-gravity-change.md) · [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Diagnostic signs](../../diagnostic-signs/04-functional-dystonia.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

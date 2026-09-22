@@ -83,14 +83,6 @@ This is an educational implementation example, not a validated standalone treatm
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous page](02-noticing-briefly-better-vision.md) · [Next page](04-graded-visual-task-practice.md)
-
-**Related:** [Original nine-entry collection](README.md) · [Visual overview and safety guidance](../08-functional-visual-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/08-functional-visual-symptoms.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 The 2024 review proposes turning selected diagnostic demonstrations into transparent therapeutic opportunities. It does not establish a standard orthoptic programme for functional visual loss. Evidence for exercises for other eye conditions cannot be transferred automatically to FND.
@@ -101,3 +93,18 @@ The 2024 review proposes turning selected diagnostic demonstrations into transpa
 | <a id="citation-2"></a>**[2]** | Ramsay N, Tessmann H, McKee J, Ercoli T, Stone J. Functional visual loss: a systematic review and meta-analysis of epidemiology, prognosis and treatment. *Eye*. 2026;40:1784–1793. Published online June 26, 2026. [FND-CIT-0103](../../../research/citation-index.md#fnd-cit-0103). [Source](https://doi.org/10.1038/s41433-026-04648-1) |
 
 *Source check: September 16, 2026 · Ophthalmology, neuro-ophthalmology, orthoptics, migraine, psychological, lived-experience, supporter and accessibility review pending.*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Graded Visual Tasks Linked to Daily Life](04-graded-visual-task-practice.md)
+
+**Related:** [Previous page](02-noticing-briefly-better-vision.md) · [Original nine-entry collection](README.md) · [Visual overview and safety guidance](../08-functional-visual-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/08-functional-visual-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

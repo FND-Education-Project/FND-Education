@@ -109,14 +109,6 @@ Relapse prevention and self-management are recommended within specialist FND phy
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Previous:** [Individualized whole-person treatment](08-individualized-whole-person-treatment.md) · **Index:** [Detailed techniques](README.md)
-
-**Related:** [Functional tremor overview](../02-functional-tremor.md) · [Collection and safety guide](../collection-guide.md) · [Diagnostic signs](../../diagnostic-signs/02-functional-tremor.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -126,3 +118,18 @@ Relapse prevention and self-management are recommended within specialist FND phy
 | <a id="citation-3"></a>**[3]** | Nielsen G, Stone J, Lee TC, et al. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD). *The Lancet Neurology*. 2024;23(7):675–686. [FND-CIT-0029](../../../research/citation-index.md#fnd-cit-0029). [https://doi.org/10.1016/S1474-4422(24)00135-2](https://doi.org/10.1016/S1474-4422(24)00135-2) |
 
 *Detailed technique page created: September 11, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Recovery Techniques for Functional Jerks or Myoclonus](../03-functional-jerks-and-myoclonus.md)
+
+**Related:** [Individualized whole-person treatment](08-individualized-whole-person-treatment.md) · [Detailed techniques](README.md) · [Functional tremor overview](../02-functional-tremor.md) · [Collection and safety guide](../collection-guide.md) · [Diagnostic signs](../../diagnostic-signs/02-functional-tremor.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

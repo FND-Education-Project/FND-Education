@@ -20,9 +20,16 @@ Treatment often teaches the person to recognize an early cough or throat sensati
 
 **Evidence:** Professional consensus for FND-related care; evidence from adjacent diagnoses or whole treatment programmes does not prove each component separately. [Explore all ten detailed pages](functional_cough_and_upper_airway_symptoms/README.md).
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+<a id="for-the-person-with-symptoms"></a>
 
-## For the person with symptoms
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For the Person With FND
 
 ### Techniques used in speech-language or respiratory therapy
 
@@ -56,7 +63,16 @@ Only use the competing response selected during assessment. Practise it first wh
 
 Seek urgent help for severe breathing difficulty, blue/grey color, chest pain, coughing blood, suspected choking, reduced consciousness or other emergency features. Fever, weight loss, nighttime respiratory symptoms, progressive voice change, new noisy breathing, recurrent infection or a substantially changed cough also needs reassessment.
 
-## For family, friends and supporters
+<a id="for-family-friends-and-supporters"></a>
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For Family, Friends, and Other Supporters
 
 - Learn the agreed breathing or cough-response cue and use it calmly; do not coach several steps at once.
 - Do not withhold prescribed inhalers or other treatment because a functional component is suspected.
@@ -68,7 +84,16 @@ Seek urgent help for severe breathing difficulty, blue/grey color, chest pain, c
 
 Help reduce known irritants and extra talking, then offer one agreed cue. Do not repeatedly instruct the person how to breathe, and do not withhold prescribed respiratory treatment. A brief cough bout can leave irritation or fatigue that lasts longer than the obvious coughing. If the person cannot speak, develops severe breathing difficulty or the pattern is different from usual, follow the medical or emergency plan rather than continuing a functional-symptom technique.
 
-## For clinicians
+<a id="for-clinicians"></a>
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For Clinicians and the Care Team
 
 Phenotype the problem and assess pulmonary, ENT/laryngeal, swallowing, reflux, allergy, infection, medication and neurological contributors. Explain positive functional features where present. Teach a small number of competing responses and efficient breathing patterns, then practise across graded real-life triggers.
 
@@ -78,24 +103,22 @@ Document earliest urge, active-bout duration, frequency, trigger context, voice/
 
 Avoid generic breathwork that is not matched to the breathing phenotype. Coordinate speech-language pathology, respiratory physiotherapy, pulmonology, ENT, gastroenterology and psychology as indicated. Track cough/urge control, voice, breathing, sleep, participation and healthcare use.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
-
 ### Motor and vocal tic-like symptoms
 
 Throat clearing or cough-like sounds can occur in tic disorders as well as airway conditions. The sound alone cannot identify the cause. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
-
 
 ### Source for the tic boundary
 
 **Source for this boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
 
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/03-cough-breathing-and-upper-airway-symptoms.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 <a id="research-and-evidence"></a>
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## Research and Sources
 
@@ -111,3 +134,18 @@ No community-only technique was added. Recurring reports about sipping, swallowi
 
 - **[FND-CIT-0129](../../research/citation-index.md#fnd-cit-0129):** Vertigan AE, Murad MH, Pringsheim T, et al. Somatic Cough Syndrome and Tic Cough in Adults and Children: CHEST Guideline and Expert Panel Report. *Chest*. 2015;148(1):24–31. [DOI](https://doi.org/10.1378/chest.15-0423). Diagnostic boundaries.
 - **[FND-CIT-0147](../../research/citation-index.md#fnd-cit-0147):** Haines J, Esposito K, Slinger C, et al. UK consensus statement on the diagnosis of inducible laryngeal obstruction in light of the COVID-19 pandemic. *Clinical & Experimental Allergy*. 2020;50(12):1287–1293. [DOI](https://doi.org/10.1111/cea.13745). Specialist diagnostic assessment; historical pandemic guidance.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Cough and Upper-Airway Symptoms: Detailed Recovery Pages](functional_cough_and_upper_airway_symptoms/README.md)
+
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/03-cough-breathing-and-upper-airway-symptoms.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

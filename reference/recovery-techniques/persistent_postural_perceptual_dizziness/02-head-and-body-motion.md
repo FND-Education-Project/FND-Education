@@ -98,4 +98,10 @@ Motion practice is part of studied rehabilitation packages; its separate contrib
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](03-upright-activity.md) · [Previous page](01-individual-vestibular-plan.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Making Sitting, Standing and Walking More Manageable](03-upright-activity.md)
+
+**Related:** [Collection index](README.md) · [Previous page](01-individual-vestibular-plan.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

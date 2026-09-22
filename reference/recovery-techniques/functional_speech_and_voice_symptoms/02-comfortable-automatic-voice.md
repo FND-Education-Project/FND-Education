@@ -92,10 +92,17 @@ The consensus describes automatic and reflexive voice approaches. Broader voice-
 
 *Sources checked September 17, 2026 · Speech-language pathology, relevant medical specialties, lived-experience, supporter and accessibility review pending.*
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous page](01-understanding-preserved-communication.md) · [Next page](03-rhythm-singing-and-familiar-sequences.md)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-**Related:** [Original eleven-entry collection](README.md) · [Symptom overview and safety guidance](../09-functional-speech-and-voice-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/09-functional-speech-and-voice-symptoms.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Using Rhythm, Singing or Familiar Sequences](03-rhythm-singing-and-familiar-sequences.md)
+
+**Related:** [Previous page](01-understanding-preserved-communication.md) · [Original eleven-entry collection](README.md) · [Symptom overview and safety guidance](../09-functional-speech-and-voice-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/09-functional-speech-and-voice-symptoms.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

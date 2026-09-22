@@ -97,4 +97,10 @@ Graded activity has been included in PPPD rehabilitation, but evidence does not 
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](04-visual-motion.md) · [Previous page](02-head-and-body-motion.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Making Busy Visual Settings More Manageable](04-visual-motion.md)
+
+**Related:** [Collection index](README.md) · [Previous page](02-head-and-body-motion.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

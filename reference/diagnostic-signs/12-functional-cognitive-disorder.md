@@ -18,13 +18,8 @@
 **Diagnostic method:** Compare the reported difficulty with observed abilities and valid assessment results while evaluating other causes of cognitive symptoms.  
 **Media needed:** A fictional appointment example or annotated comparison diagram; never publish protected cognitive-test material.
 
-***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)<br>
-[For the Person With FND](#for-the-person-with-fnd)<br>
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
-[Research and Sources](#research-and-sources)
-***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+
 **Further reading:** [Everything We Know About FCD](../functional-cognitive-disorder.md) explains cognitive processes, visual experiences and recovery principles. These experiences do not add new positive signs to the inventory below.
 
 ## Diagnostic techniques at a glance
@@ -66,6 +61,11 @@ These tests help interpret whether cognitive scores represent usable estimates o
 Follow-up and selected laboratory, imaging or other tests address plausible competing or coexisting causes. Stability may contribute to the formulation but does not prove FCD. A positive diagnosis should explain current findings and what would prompt review. (*citations* [2](#citation-2))
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -84,7 +84,6 @@ Functional cognitive symptoms can change markedly within a day or between situat
 When a familiar cognitive episode starts, reduce incoming information and multitasking. Pause the task, use one written step, calendar, checklist or other established external aid, and resume only when it is safe and useful. Sudden confusion, altered consciousness, new focal neurological symptoms or a major departure from the established pattern needs medical assessment.
 
 ***
-***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
@@ -101,7 +100,6 @@ Reduce the amount of information being presented. Use one question or instructio
 
 A short period of difficulty and a longer cognitive flare can both be genuine. If useful, note the task, competing demands, duration, associated FND or migraine symptoms and recovery. New confusion, a rapid change in thinking or other urgent neurological or medical symptoms still needs appropriate assessment.
 
-***
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -140,9 +138,7 @@ Use a fictional case with an actor or an annotated diagram showing four informat
 
 Show how the clinician looks for a meaningful pattern across all four, rather than setting up a “gotcha” memory test. Do not display copyrighted or secured test items, scoring keys or a real patient’s identifiable daily-life details. Make clear that one inconsistency is a clue, not a diagnosis.
 
-
 **Recovery reading:** [Thirteen detailed Functional Cognitive Disorder recovery pages](../recovery-techniques/functional_cognitive_disorder/README.md), with practical support, individual safety limits and clear distinctions between clinical guidance and early research.
-
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -177,6 +173,8 @@ Show how the clinician looks for a meaningful pattern across all four, rather th
 ***
 
 <!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Persistent Postural-Perceptual Dizziness](13-persistent-postural-perceptual-dizziness.md)
+
 **Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/12-functional-cognitive-disorder.md) · [Related course page](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)

@@ -93,8 +93,15 @@ The consensus supports a positive explanation and demonstration when useful. It 
 
 *Sources checked September 17, 2026 · Speech-language pathology, relevant medical specialties, lived-experience, supporter and accessibility review pending.*
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page](02-comfortable-automatic-voice.md)
+**Continue:** [Next page: Finding a Comfortable Automatic Voice](02-comfortable-automatic-voice.md)
 
 **Related:** [Original eleven-entry collection](README.md) · [Symptom overview and safety guidance](../09-functional-speech-and-voice-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/09-functional-speech-and-voice-symptoms.md)
 

@@ -26,6 +26,8 @@ These are components a qualified clinician can combine, adapt or omit. They are 
 Most movement examples in these pages concern limb tremor. Head, trunk and voice tremor require phenotype-specific assessment; voice symptoms may need speech-language therapy and laryngeal evaluation. A clinician should not transfer a limb exercise to another body region without adapting its goal and safety conditions.
 
 <!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Voluntary Tremor Retrainment for Functional Tremor](01-voluntary-tremor-retraining.md)
+
 **Related:** [Functional tremor overview](../02-functional-tremor.md) · [Diagnostic signs](../../diagnostic-signs/02-functional-tremor.md) · [Technique index](../technique-index.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)

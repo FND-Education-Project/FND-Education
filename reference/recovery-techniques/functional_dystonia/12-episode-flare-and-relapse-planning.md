@@ -103,14 +103,6 @@ Review changes in health, medication, sleep, pain, activity demand and environme
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique: Specialist botulinum-toxin review](11-specialist-botulinum-toxin-review.md) · [Next technique: Individualized multidisciplinary treatment](13-individualized-multidisciplinary-treatment.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Episode and flare quotation review](../episodic-flare-community-quote-review.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -120,3 +112,18 @@ Review changes in health, medication, sleep, pain, activity demand and environme
 | <a id="citation-3"></a>**[3]** | Gros P, Bhatt H, Gilmour GS, Lidstone SC. Rehabilitation for functional dystonia: cases and review of the literature. *Movement Disorders Clinical Practice*. 2024;11(8):1018–1024. [FND-CIT-0055](../../../research/citation-index.md#fnd-cit-0055). [https://doi.org/10.1002/mdc3.14121](https://doi.org/10.1002/mdc3.14121) |
 
 *Detailed technique page created September 12, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Individualized Multidisciplinary Treatment for Functional Dystonia](13-individualized-multidisciplinary-treatment.md)
+
+**Related:** [Previous technique: Specialist botulinum-toxin review](11-specialist-botulinum-toxin-review.md) · [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Episode and flare quotation review](../episodic-flare-community-quote-review.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -99,4 +99,10 @@ The 2025 review pooled eight studies and found improvement in dizziness-related 
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](02-head-and-body-motion.md) · [Previous page](README.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Practising Head and Body Movement in Manageable Steps](02-head-and-body-motion.md)
+
+**Related:** [Previous page](README.md) · [Symptom overview](../13-persistent-postural-perceptual-dizziness.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

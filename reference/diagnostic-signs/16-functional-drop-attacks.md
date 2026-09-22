@@ -18,13 +18,7 @@
 **Diagnostic method:** Establish the event phenotype and positive clinical formulation rather than inferring FND from normal tests. No validated single bedside sign for functional drop attacks was located.<br>
 **Media needed:** An event-classification flow diagram and clinician-led history example; never provoke a fall for filming.
 
-***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
-[For the Person With FND](#for-the-person-with-fnd)<br>
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
-[Research and Sources](#research-and-sources)
-***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
 
 ## Diagnostic techniques at a glance
 
@@ -61,6 +55,11 @@ Event characteristics guide seizure investigation or assessment for cataplexy an
 The clinician evaluates vestibular drop attacks, leg buckling, medications and environmental or musculoskeletal causes as appropriate. No single normal balance or gait test proves functional drop attacks. (*citations* [1](#citation-1))
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -71,6 +70,11 @@ Many conditions can cause sudden falls. The diagnosis is therefore based on the 
 If an event is new, changing, associated with definite loss of consciousness, chest pain, sustained palpitations, new neurological symptoms, prolonged confusion or injury, seek appropriate medical assessment. Do not deliberately recreate a fall or walk without needed support to obtain a recording.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Family, Friends, and Other Supporters
 
@@ -80,6 +84,11 @@ Useful witness observations include posture and activity before the fall; warnin
 
 Do not assume that every fall in a person with FND is another functional drop attack. Follow emergency guidance for a changed event, serious injury, definite blackout, breathing difficulty or delayed recovery.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
 ***
 
 ## For Clinicians and the Care Team
@@ -110,16 +119,6 @@ Do not stage a fall, withdraw an aid, provoke an event or use injury footage. Ca
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Functional Tics and Tic-Like Symptoms →](17-functional-tics-and-tic-like-symptoms.md)
-
-**Previous in this collection:** [← Functional Paralysis](15-functional-paralysis.md)
-
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/16-functional-drop-attacks.md) · [Functional gait disorder](05-functional-gait-disorder.md) · [Functional seizures](06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 ### Evidence notes
@@ -136,5 +135,19 @@ Do not stage a fall, withdraw an aid, provoke an event or use injury footage. Ca
 | <a id="citation-2"></a>**[2]** | Revell ER, Gillespie D, Morris PG, Stone J. Drop attacks as a subtype of FND: a cognitive behavioural model using grounded theory. *Epilepsy & Behavior Reports*. 2021;16:100491. [FND-CIT-0060](../../research/citation-index.md#fnd-cit-0060). [https://doi.org/10.1016/j.ebr.2021.100491](https://doi.org/10.1016/j.ebr.2021.100491) |
 | <a id="citation-3"></a>**[3]** | Stone J. Functional drop attacks. *Neurosymptoms.org*. Accessed September 2, 2026. [FND-CIT-0061](../../research/citation-index.md#fnd-cit-0061). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/) |
 
-
 *Technique outline created: September 2, 2026 · Neurology, cardiology, vestibular, sleep, rehabilitation, lived-experience and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Tics and Tic-Like Symptoms](17-functional-tics-and-tic-like-symptoms.md)
+
+**Related:** [← Functional Paralysis](15-functional-paralysis.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/16-functional-drop-attacks.md) · [Functional gait disorder](05-functional-gait-disorder.md) · [Functional seizures](06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

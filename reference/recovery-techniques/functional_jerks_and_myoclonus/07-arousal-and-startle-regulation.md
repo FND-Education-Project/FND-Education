@@ -97,14 +97,6 @@ Measure exposure or activity completed, cue independence, respiratory symptoms, 
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous: Graded activity and load planning](06-graded-activity-and-load-planning.md) · [Next technique: Episode safety and relapse planning](08-episode-safety-and-relapse-planning.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional jerks overview](../03-functional-jerks-and-myoclonus.md) · [Diagnostic signs](../../diagnostic-signs/03-functional-jerks-and-myoclonus.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -113,3 +105,18 @@ Measure exposure or activity completed, cue independence, respiratory symptoms, 
 | <a id="citation-2"></a>**[2]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
 
 *Detailed technique page created: September 11, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Episode Safety and Relapse Planning for Functional Jerks](08-episode-safety-and-relapse-planning.md)
+
+**Related:** [Previous: Graded activity and load planning](06-graded-activity-and-load-planning.md) · [Detailed technique index](README.md) · [Functional jerks overview](../03-functional-jerks-and-myoclonus.md) · [Diagnostic signs](../../diagnostic-signs/03-functional-jerks-and-myoclonus.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -18,17 +18,11 @@
 **Diagnostic method:** Compare muscle-burst timing with brain activity before repeated jerks.  
 **Media needed:** Laboratory-process diagram or specialist demonstration; do not provoke jerks for filming.
 
-***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+
 ### Motor and vocal tic-like symptoms
 
 Jerks and tic-like symptoms may look similar but are not interchangeable diagnoses. Motor tics can coexist with jerks. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
-
 
 ## Diagnostic techniques at a glance
 
@@ -73,6 +67,11 @@ Jerk-linked cortical spikes, somatosensory evoked potentials and long-loop refle
 Urges and temporary suppressibility can occur in both tics and functional jerks. Premovement potentials also overlap. The clinical course and tic history remain necessary; jerk laboratory findings cannot simply be transferred to functional tic-like symptoms. (*citations* [1](#citation-1), [6](#citation-6))
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -89,6 +88,12 @@ An individual jerk is brief, but that does not mean the *problem* has to be brie
 At the start of a familiar bout, move away from fall, heat, sharp-object or driving hazards and sit or obtain support if needed. If the person already has a rehabilitation plan, one familiar external-focus or continuous-movement cue may be tried without forcefully suppressing every jerk. A new pattern, repeated injury, altered awareness or another major change deserves reassessment.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Do not startle, tap or expose the person to loud sounds to try to bring out a jerk. Even when stimulus sensitivity is assessed clinically, it requires a planned specialist protocol and attention to distress, falls and injury. A home video may help only if a spontaneous event can be recorded safely without delaying care.
@@ -100,6 +105,12 @@ The jerks themselves may each last only a moment while the bout continues much l
 If it can be done without making the episode the centre of attention, note whether the jerks came singly or in clusters, the setting, approximate duration, associated awareness or other symptoms, injury and recovery. This is more useful than assuming a brief movement means a brief illness episode.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 ### Episodic and prolonged presentations
@@ -130,17 +141,11 @@ The preferred media is an **annotated process diagram** with four frames:
 If a laboratory video is contributed, it should show electrode placement on a healthy volunteer or consenting patient and use an existing de-identified trace. Do not ask the participant to produce, imitate or endure repeated symptoms solely for the recording. State that only a qualified clinical-neurophysiology service can perform and interpret the analysis.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/03-functional-jerks-and-myoclonus.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
 
@@ -165,3 +170,18 @@ If a laboratory video is contributed, it should show electrode placement on a he
 | <a id="citation-8"></a>**[8]** | Meppelink AM, Little S, Oswal A, et al. Event related desynchronisation predicts functional propriospinal myoclonus. *Parkinsonism & related disorders*. 2016;31:116-118. [DOI](https://doi.org/10.1016/j.parkreldis.2016.07.010). [PMID: 27477621](https://pubmed.ncbi.nlm.nih.gov/27477621/). [FND-CIT-0137](../../research/citation-index.md#fnd-cit-0137). |
 
 *Technique outline created: August 24, 2026 · Clinical-neurophysiology review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Dystonia or Fixed Posturing](04-functional-dystonia.md)
+
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/03-functional-jerks-and-myoclonus.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

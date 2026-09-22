@@ -203,7 +203,9 @@ This booklet adds seizure-specific choice routes, original skill instructions, a
 *Outline revised August 25, 2026 · Clinical, lived-experience, and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
-**CBT materials:** [← Previous](02-discovering-your-seizure-pattern.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md) · [Next →](04-returning-to-activities-and-independence.md)
+**Continue:** [Next page: Booklet 4 Outline — Returning to Activities and Independence](04-returning-to-activities-and-independence.md)
+
+**Related:** [← Previous](02-discovering-your-seizure-pattern.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
 
 **Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

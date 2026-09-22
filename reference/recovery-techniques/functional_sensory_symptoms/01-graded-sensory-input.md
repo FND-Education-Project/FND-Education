@@ -83,14 +83,6 @@ The procedures are educational implementation examples requiring clinical adapta
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Next technique](02-desensitization-for-painful-touch.md)
-
-**Related:** [Detailed technique index](README.md) · [Symptom overview and reassessment guidance](../07-functional-sensory-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/07-functional-sensory-symptoms.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 Professional consensus supports sensory input within rehabilitation. The examples here make that broad principle practical; they have not been validated as a fixed sensory-restoration protocol. Diagnostic research concerns assessment, not treatment efficacy.
@@ -102,3 +94,18 @@ Professional consensus supports sensory input within rehabilitation. The example
 | <a id="citation-3"></a>**[3]** | Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031. [FND-CIT-0023](../../../research/citation-index.md#fnd-cit-0023). [Source](https://doi.org/10.1093/braincomms/fcag031) |
 
 *Source check: September 15, 2026 · Occupational-therapy, physiotherapy, neurology, pain, equipment, lived-experience, supporter and accessibility review pending.*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Desensitization for Painful Touch and Hypersensitivity](02-desensitization-for-painful-touch.md)
+
+**Related:** [Detailed technique index](README.md) · [Symptom overview and reassessment guidance](../07-functional-sensory-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/07-functional-sensory-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

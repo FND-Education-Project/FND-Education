@@ -140,12 +140,6 @@ Track falls and near-falls, assistance, gait speed where appropriate, distance, 
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Related:** [Detailed technique collection](functional_gait_disorder/README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/05-functional-gait-disorder.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 The named gait transformations come mainly from specialist physiotherapy consensus and have not been isolated in controlled functional-gait trials. A randomized crossover study of 60 people using the older term “psychogenic gait disorder” found better walking, independence and quality-of-life outcomes after a three-week inpatient rehabilitation programme than during a waiting period, with gains reported at later follow-up. It tested a whole programme using adapted physical activity and a cognitive-behavioural framework, not one drill, outpatient care or every current gait presentation.
@@ -164,3 +158,18 @@ The larger Physio4FMD trial studied mixed functional motor disorders. Its primar
 No community-only treatment was added. Public accounts include both benefit and no benefit from physiotherapy, worsening with backward walking for one person, and increased independence with mobility aids. These experiences are useful for identifying questions and safety concerns but cannot establish effectiveness.
 
 *Evidence search current to September 12, 2026 · Detailed technique collection added · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Gait Disorder: Detailed Recovery Techniques](functional_gait_disorder/README.md)
+
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/05-functional-gait-disorder.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

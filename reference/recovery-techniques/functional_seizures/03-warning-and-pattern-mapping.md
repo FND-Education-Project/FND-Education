@@ -76,14 +76,6 @@ Specialist resources describe warning observation. The limited-record format and
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique](02-individualized-episode-safety-plan.md) · [Next technique](04-sensory-grounding-and-attention-anchor.md)
-
-**Related:** [Technique collection and CBT resources](README.md) · [Seizure recovery overview](../06-functional-seizures.md) · [Episode safety plan](02-individualized-episode-safety-plan.md) · [Diagnostic reference](../../diagnostic-signs/06-functional-seizures.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation and source |
@@ -92,3 +84,18 @@ Specialist resources describe warning observation. The limited-record format and
 | <a id="citation-2"></a>**[2]** | Stone J. Treatment of Functional Seizures. *Neurosymptoms*. [Specialist treatment overview](https://neurosymptoms.org/en/treatment/treatment-of-functional-seizures/). Accessed September 14, 2026. [FND-CIT-0098](../../../research/citation-index.md#fnd-cit-0098). |
 
 *Created September 14, 2026 · Neurology, relevant therapy, lived-experience, caregiver and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Sensory Grounding and an Attention Anchor for Functional Seizures](04-sensory-grounding-and-attention-anchor.md)
+
+**Related:** [Previous technique](02-individualized-episode-safety-plan.md) · [Technique collection and CBT resources](README.md) · [Seizure recovery overview](../06-functional-seizures.md) · [Diagnostic reference](../../diagnostic-signs/06-functional-seizures.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

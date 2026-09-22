@@ -18,13 +18,8 @@
 **Diagnostic method:** Map the pattern, repeat selected comparisons and interpret any inconsistency cautiously; traditional sensory signs are not reliable enough to stand alone.  
 **Media needed:** A clinician-led examination diagram that states the limitations as clearly as the technique.
 
-***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+
 ## Diagnostic techniques at a glance
 
 These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
@@ -60,6 +55,11 @@ Standardized equipment measures thresholds for sensory detection or pain. Recent
 These assess selected peripheral or central pathways when indicated. They help investigate other or coexisting disease; normal results are not positive proof of FND and do not test every sensory pathway. (*citations* [5](#citation-5))
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -76,6 +76,12 @@ Functional numbness, tingling, altered sensation or hypersensitivity may be inte
 At the onset of familiar reduced or distorted sensation, protect the affected area from falls, burns, sharp objects and pressure injury. Use a previously taught sensory or attention strategy only if it is safe. Sudden new one-sided numbness, rapidly spreading symptoms or sensory change with weakness, speech difficulty or another acute neurological symptom needs medical assessment rather than being assumed to be FND.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Do not use pins, heat, ice or repeated touching to map another person’s sensation at home. Reduced sensation can make injury easier, and interpretation requires anatomical knowledge and the rest of the examination. Help the person describe the location, timing and practical effect of the symptom instead.
@@ -89,6 +95,12 @@ Once safe, note location, quality, onset, duration, associated symptoms and reco
 Sudden one-sided numbness, a rapidly changing pattern or sensory loss with other urgent symptoms needs appropriate medical assessment even when the person already has FND.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 ### Episodic and prolonged presentations
@@ -119,17 +131,11 @@ Use an actor or healthy volunteer to show the **method**, not a staged abnormal 
 Do not use needles, painful pressure, extreme temperature or concealed startling stimuli. Keep the participant’s answers out of the title and thumbnail; the important teaching point is disciplined mapping and cautious interpretation.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/07-functional-sensory-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/01-numbness-altered-sensation-and-hypersensitivity.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
 
@@ -150,3 +156,18 @@ Do not use needles, painful pressure, extreme temperature or concealed startling
 | <a id="citation-5"></a>**[5]** | Edwards MJ, Koens LH, Liepert J, et al. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical neurophysiology practice*. 2024;9:69-77. [DOI](https://doi.org/10.1016/j.cnp.2023.12.006). [PMID: 38352251](https://pubmed.ncbi.nlm.nih.gov/38352251/). [FND-CIT-0022](../../research/citation-index.md#fnd-cit-0022). |
 
 *Technique outline created: August 24, 2026 · Neurology and sensory-testing review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Visual Symptoms](08-functional-visual-symptoms.md)
+
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/07-functional-sensory-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/01-numbness-altered-sensation-and-hypersensitivity.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

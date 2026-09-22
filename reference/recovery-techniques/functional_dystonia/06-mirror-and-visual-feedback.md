@@ -94,14 +94,6 @@ Measure task performance, joint contact or alignment relevant to the goal, assis
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique: Graded sensory reintroduction](05-graded-sensory-reintroduction.md) · [Next technique: Surface-EMG biofeedback](07-surface-emg-biofeedback.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Mirror and visual feedback for functional tremor](../functional_tremor/06-mirror-and-visual-feedback.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -111,3 +103,18 @@ Measure task performance, joint contact or alignment relevant to the goal, assis
 | <a id="citation-3"></a>**[3]** | Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [FND-CIT-0021](../../../research/citation-index.md#fnd-cit-0021). [https://doi.org/10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262) |
 
 *Detailed technique page created September 12, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Surface-EMG Biofeedback for Functional Dystonia](07-surface-emg-biofeedback.md)
+
+**Related:** [Previous technique: Graded sensory reintroduction](05-graded-sensory-reintroduction.md) · [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Mirror and visual feedback for functional tremor](../functional_tremor/06-mirror-and-visual-feedback.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

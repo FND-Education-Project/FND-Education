@@ -102,14 +102,6 @@ Consensus functional-motor guidance and focused functional-dystonia reviews desc
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique: External focus and automatic movement](03-external-focus-and-automatic-movement.md) · [Next technique: Graded sensory reintroduction](05-graded-sensory-reintroduction.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Diagnostic signs](../../diagnostic-signs/04-functional-dystonia.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -120,3 +112,18 @@ Consensus functional-motor guidance and focused functional-dystonia reviews desc
 | <a id="citation-4"></a>**[4]** | Gros P, Bhatt H, Gilmour GS, Lidstone SC. Rehabilitation for functional dystonia: cases and review of the literature. *Movement Disorders Clinical Practice*. 2024;11(8):1018–1024. [FND-CIT-0055](../../../research/citation-index.md#fnd-cit-0055). [https://doi.org/10.1002/mdc3.14121](https://doi.org/10.1002/mdc3.14121) |
 
 *Detailed technique page created September 12, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Graded Sensory Reintroduction for Functional Dystonia](05-graded-sensory-reintroduction.md)
+
+**Related:** [Previous technique: External focus and automatic movement](03-external-focus-and-automatic-movement.md) · [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Diagnostic signs](../../diagnostic-signs/04-functional-dystonia.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

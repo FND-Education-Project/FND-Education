@@ -95,4 +95,10 @@ The educational and review sources support explanation and pattern-specific asse
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](02-individual-rehabilitation-plan.md) · [Previous page](README.md) · [Symptom overview](../14-functional-facial-symptoms.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Building a Rehabilitation Plan Around Daily Life](02-individual-rehabilitation-plan.md)
+
+**Related:** [Previous page](README.md) · [Symptom overview](../14-functional-facial-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

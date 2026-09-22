@@ -138,7 +138,9 @@ Link to existing resources and describe their broad ideas. Do not reproduce copy
 *Resource-map access check: August 25, 2026 · Detailed technique pages added September 14, 2026 · Clinical, lived-experience, copyright, and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
-**Functional seizures:** [Recovery Techniques](../README.md) · [Functional-seizure recovery page](../06-functional-seizures.md) · [Unified CBT booklets](unified_cbt_booklets/README.md)
+**Continue:** [Next page: Diagnostic Explanation and Continuing Care for Functional Seizures](01-diagnostic-explanation-and-continuing-care.md)
+
+**Related:** [Recovery Techniques](../README.md) · [Functional-seizure recovery page](../06-functional-seizures.md) · [Unified CBT booklets](unified_cbt_booklets/README.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

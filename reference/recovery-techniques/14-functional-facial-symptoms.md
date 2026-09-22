@@ -20,6 +20,9 @@ Functional facial symptoms require an individualized plan because **droop can de
 
 The facial-specific treatment evidence is very limited. The research reviewed contains specialist clinical guidance and one published episodic facial-dystonia case inside a broader case series and literature review—not a facial-symptom randomized trial. (*citations* [7](#citation-7), [8](#citation-8))
 
+[Community reports](#community-reports-what-people-try)
+
+<a id="for-the-person-with-symptoms"></a>
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -27,10 +30,6 @@ The facial-specific treatment evidence is very limited. The research reviewed co
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-[Community reports](#community-reports-what-people-try)
-
-<a id="for-the-person-with-symptoms"></a>
 
 ## For the Person With FND
 
@@ -68,14 +67,14 @@ Before practising, obtain a clear diagnosis of the facial pattern. Choose **one 
 
 Facial droop is new, sudden or distinctly changed; occurs with new limb weakness, speech or understanding difficulty, severe headache, double vision, loss of balance, confusion or reduced consciousness; or follows a head injury. Reassessment is also needed for inability to close an eye, eye pain or injury, progressive ptosis, jaw locking, major swelling, new medication-related movements, persistent drooling, choking, a wet voice, dehydration, weight loss or breathing difficulty.
 
+<a id="for-family-friends-and-supporters"></a>
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<a id="for-family-friends-and-supporters"></a>
 
 ## For Family, Friends, and Other Supporters
 
@@ -91,14 +90,14 @@ Facial droop is new, sudden or distinctly changed; occurs with new limb weakness
 
 Move from repeated symptom correction to a simple sequence: **safety → one agreed cue or support → communication and comfort → gradual return**. If the episode does not match the established pattern, or speech, swallowing, breathing, vision or awareness changes in a concerning way, seek reassessment.
 
+<a id="for-clinicians"></a>
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<a id="for-clinicians"></a>
 
 ## For Clinicians and the Care Team
 
@@ -153,25 +152,17 @@ These short quotations are **lived-experience candidates, not treatment evidence
 
 The community material raises useful questions for clinical testing: whether light touch helps or overloads; whether an external language task makes facial movement easier; whether mirrors help or increase symptom focus; and how to protect vision and dignity during episodes. The reports do **not** establish massage, lifting the mouth corner, alphabet practice, darkness or Botox as treatments. Those ideas remain clearly separated from the research-supported and consensus-guided plan above.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)<br>
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
-[Research and Sources](#research-and-sources)
-***
-
 [Community reports](#community-reports-what-people-try)
 
 ### Motor and vocal tic-like symptoms
 
 Facial tic-like movements need their own assessment. A facial location does not make a tic equivalent to dystonia, weakness or spasm. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
 
-
 **Source for the tic boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
 
 **Previous symptom:** [PPPD recovery overview](13-persistent-postural-perceptual-dizziness.md) · [PPPD flare and review plan](persistent_postural_perceptual_dizziness/13-flare-and-review-plan.md)
 
-
+<a id="research-and-evidence"></a>
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -179,8 +170,6 @@ Facial tic-like movements need their own assessment. A facial location does not 
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
-
-<a id="research-and-evidence"></a>
 
 ## Research and Sources
 
@@ -220,9 +209,9 @@ A small randomized pilot in broader persistent functional dystonia also found no
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Previous in this collection:** [← Persistent Postural-Perceptual Dizziness](13-persistent-postural-perceptual-dizziness.md) · **Continue:** [Functional Paralysis →](15-functional-paralysis.md)
+**Continue:** [Next page: Functional Facial Symptoms: Detailed Recovery Pages](functional_facial_symptoms/README.md)
 
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md) · [Swallowing techniques](10-functional-swallowing-and-globus.md)
+**Related:** [← Persistent Postural-Perceptual Dizziness](13-persistent-postural-perceptual-dizziness.md) · [Functional Paralysis →](15-functional-paralysis.md) · [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md) · [Swallowing techniques](10-functional-swallowing-and-globus.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

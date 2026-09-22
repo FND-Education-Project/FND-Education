@@ -90,14 +90,6 @@ Physiotherapy and occupational-therapy consensus support individualized equipmen
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique: Graded community walking and environmental complexity](11-graded-community-walking-and-environmental-complexity.md) · [Next technique: Individualized FND-informed rehabilitation and relapse planning](13-individualized-rehabilitation-and-relapse-planning.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional gait overview](../05-functional-gait-disorder.md) · [Mobility aids course page](../../../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/02-mobility-aids-wheelchairs-seating-and-fall-safety.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -107,3 +99,18 @@ Physiotherapy and occupational-therapy consensus support individualized equipmen
 | <a id="citation-3"></a>**[3]** | Mohammadi Z, Nielsen G, Stone J, et al. Falls in functional neurological disorders: prevalence, risk factors, and relationship to disease characteristics. *European Journal of Neurology*. 2026;33(6):e70665. [FND-CIT-0085](../../../research/citation-index.md#fnd-cit-0085). [https://doi.org/10.1111/ene.70665](https://doi.org/10.1111/ene.70665) |
 
 *Detailed technique page created September 12, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Individualized FND-Informed Rehabilitation and Relapse Planning for Functional Gait Disorder](13-individualized-rehabilitation-and-relapse-planning.md)
+
+**Related:** [Previous technique: Graded community walking and environmental complexity](11-graded-community-walking-and-environmental-complexity.md) · [Detailed technique index](README.md) · [Functional gait overview](../05-functional-gait-disorder.md) · [Mobility aids course page](../../../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/02-mobility-aids-wheelchairs-seating-and-fall-safety.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

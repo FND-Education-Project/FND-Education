@@ -18,17 +18,11 @@
 **Diagnostic method:** Identify a positive symptom pattern while assessing respiratory, laryngeal, medication-related and other causes; there is no single decisive bedside sign.  
 **Media needed:** Speech-pathology or laryngoscopy process demonstration without deliberately provoking symptoms.
 
-***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+
 ### Motor and vocal tic-like symptoms
 
 Throat clearing or cough-like sounds can occur in tic disorders as well as airway conditions. The sound alone cannot identify the cause. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
-
 
 ## Diagnostic techniques at a glance
 
@@ -65,6 +59,11 @@ For exertional symptoms, a specialist may observe the larynx through a monitored
 History, examination and selected investigations assess asthma, infection, reflux, medication effects and other causes. These tests answer specific differential questions; normal results do not positively diagnose functional cough or airway symptoms. (*citations* [2](#citation-2), [3](#citation-3))
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -81,6 +80,12 @@ Functional cough, throat clearing or upper-airway symptoms may occur in discrete
 At the onset of a familiar mild episode, use only the breathing or competing response already selected during respiratory or speech-language assessment and reduce known irritants when practical. Do not force breath-holding or suppress a serious airway warning. Severe breathlessness, blue/grey colour, chest pain, coughing blood, reduced consciousness or a substantially new pattern requires urgent care.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Do not expose the person to scents, smoke, exercise or stressful situations to see whether coughing or breathing changes. Follow the respiratory or speech-therapy plan they have been given. During serious breathing difficulty, prioritize emergency care rather than recording.
@@ -94,6 +99,12 @@ Reduce avoidable irritants and extra talking, and use one agreed cue rather than
 A short cough bout and a flare lasting much longer should both be described accurately. Note what happened before the episode, how long the active symptoms and recovery lasted, and whether the pattern was typical.
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 ### Episodic and prolonged presentations
@@ -124,19 +135,15 @@ Prefer a process demonstration using a clinician and healthy volunteer:
 Do not use strong odours, smoke, cold air, exercise or emotional provocation to create symptoms. If a spontaneous clinical episode is included, retain the context and obtain specific consent. Provide captions and a transcript that describe sounds without requiring the audience to hear them.
 
 ***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 
 **Recovery reading:** [Ten detailed cough and upper-airway recovery pages](../recovery-techniques/functional_cough_and_upper_airway_symptoms/README.md), with individualized safety limits and separate guidance for the person, supporters and clinicians.
 
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/03-cough-breathing-and-upper-airway-symptoms.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## Research and Sources
 
@@ -156,3 +163,18 @@ Do not use strong odours, smoke, cold air, exercise or emotional provocation to 
 | <a id="citation-3"></a>**[3]** | Haines J, Esposito K, Slinger C, et al. UK consensus statement on the diagnosis of inducible laryngeal obstruction in light of the COVID-19 pandemic. *Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology*. 2020;50(12):1287-1293. [DOI](https://doi.org/10.1111/cea.13745). [PMID: 33034142](https://pubmed.ncbi.nlm.nih.gov/33034142/). [FND-CIT-0147](../../research/citation-index.md#fnd-cit-0147). |
 
 *Technique outline created: August 24, 2026 · Speech-language-pathology, ENT and respiratory review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional Cognitive Disorder](12-functional-cognitive-disorder.md)
+
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/03-cough-breathing-and-upper-airway-symptoms.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

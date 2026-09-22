@@ -92,4 +92,10 @@ The direct facial evidence is a single case within Gros and colleagues’ four-c
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](04-attention-and-natural-expression.md) · [Previous page](02-individual-rehabilitation-plan.md) · [Symptom overview](../14-functional-facial-symptoms.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Finding Easier Movement During Conversation](04-attention-and-natural-expression.md)
+
+**Related:** [Collection index](README.md) · [Previous page](02-individual-rehabilitation-plan.md) · [Symptom overview](../14-functional-facial-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -46,3 +46,9 @@ The ACT and digital self-help pages describe emerging research options. Feasibil
 New confusion or a major change in cognition needs medical assessment. These pages cannot diagnose FCD or replace review of sleep, medicines, neurological disease and other contributors.
 
 [Begin with the assessment explanation](01-understanding-the-cognitive-pattern.md) · [Diagnostic signs](../../diagnostic-signs/12-functional-cognitive-disorder.md) · [Next symptom: Persistent postural-perceptual dizziness](../13-persistent-postural-perceptual-dizziness.md)
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Understanding Memory and Thinking Difficulties in FCD](01-understanding-the-cognitive-pattern.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

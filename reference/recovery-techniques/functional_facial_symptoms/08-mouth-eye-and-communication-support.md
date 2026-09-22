@@ -96,4 +96,10 @@ These sources support differential assessment, safety and communication/swallowi
 [Research and Sources](#research-and-sources)
 ***
 
-**Continue:** [Next page](09-other-conditions-and-review.md) · [Previous page](07-comfort-and-less-effort.md) · [Symptom overview](../14-functional-facial-symptoms.md) · [Site map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Keeping Other Causes and Conditions in the Care Plan](09-other-conditions-and-review.md)
+
+**Related:** [Collection index](README.md) · [Previous page](07-comfort-and-less-effort.md) · [Symptom overview](../14-functional-facial-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -10,7 +10,12 @@
 
 **Scope boundary:** Tics are not another name for [functional jerks](03-functional-jerks-and-myoclonus.md), [speech or voice impairment](09-functional-speech-and-voice-symptoms.md), or [cough](11-functional-cough-and-upper-airway-symptoms.md). Tourette syndrome and other primary tic disorders need their own assessment and may coexist with functional tic-like symptoms. A new sound or word does not by itself establish which diagnosis applies.
 
-[For the Person With FND](#for-the-person-with-fnd) · [For Supporters](#for-family-friends-and-other-supporters) · [For Clinicians](#for-clinicians-and-the-care-team) · [Research and Sources](#research-and-sources)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For the Person With FND
 
@@ -60,6 +65,13 @@ Use the plan you agreed with your care team. Where possible, put down dangerous 
 
 Seek appropriate medical assessment for a new or substantially different pattern. Serious injury, breathing or swallowing danger, marked confusion, acute neurological change or a possible serious medication reaction need urgent help. Do not automatically treat these as a familiar flare.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Ask privately what would help. A person may want you to carry on with the conversation, offer a break or explain the symptoms to someone else—but they should have a say. Involuntary words are not a reliable expression of intent. Do not punish, mock or require an apology for them.
@@ -67,6 +79,13 @@ Ask privately what would help. A person may want you to carry on with the conver
 A calm response still includes care. It does not mean ignoring pain, injury or a request for help. If a clinician discusses how interactions affect symptoms, the aim should be to find helpful patterns together, without blaming the person or family. [1](#citation-1)
 
 For school or work, write down a few agreed choices: who can be contacted, where a break is available, how the person can communicate or complete a presentation, and what counts as a medical change. Do not require suppression as a condition of participation.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## For Clinicians and the Care Team
 
@@ -79,6 +98,13 @@ Review medication indications and adverse effects with the prescriber. Avoid ass
 ### Community experience and review
 
 No new patient quotations have been verified for this page. Motor and vocal experiences, helpful and harmful care, adult perspectives and supporter accounts remain explicit gaps in the [source notebook](community-experience-quotes.md#functional-tics-and-tic-like-symptoms). A quote about jerks or facial spasms will not be silently reassigned as a functional-tic diagnosis.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## Research and Sources
 
@@ -94,10 +120,17 @@ Entries 1, 2, 4 and 5 reflect individualized clinical guidance rather than indep
 
 *Evidence check: September 17, 2026 · Human, clinical, lived-experience and accessibility review pending.*
 
-<!-- NAV-CONTEXT:START -->
-**Previous in this collection:** [← Functional Drop Attacks](16-functional-drop-attacks.md)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-**Related:** [Collection index](README.md) · [Paired diagnostic page](../diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [Movement course lesson](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Recovery and Management Technique Index](technique-index.md)
+
+**Related:** [← Functional Drop Attacks](16-functional-drop-attacks.md) · [Collection index](README.md) · [Paired diagnostic page](../diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [Movement course lesson](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

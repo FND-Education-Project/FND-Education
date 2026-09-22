@@ -122,14 +122,6 @@ Breathing control remains emerging. The 2024 pilot was small with substantial lo
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous symptom: Functional gait disorder](05-functional-gait-disorder.md) · [Next symptom: Functional sensory symptoms](07-functional-sensory-symptoms.md)
-
-**Related:** [Detailed techniques and existing CBT resources](functional_seizures/README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/03-recovery-treatment-and-daily-life.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 General first-aid precautions are drawn from NHS guidance. Its emergency advice is adjacent safety guidance, not a functional-seizure treatment trial; an individualized event plan must address duration, uncertainty and coexisting epilepsy. (*citations* [10](#citation-10))
@@ -154,3 +146,18 @@ Neurosymptoms informs warning and grounding discussion, but this collection does
 | <a id="citation-10"></a>**[10]** | NHS. What to do if someone has a seizure (fit). [General seizure first aid](https://www.nhs.uk/symptoms/what-to-do-if-someone-has-a-seizure-fit/). Reviewed December 19, 2023; accessed September 14, 2026. [FND-CIT-0101](../../research/citation-index.md#fnd-cit-0101). |
 
 *Evidence checked and detailed collection added September 14, 2026 · Neurology, psychological, respiratory, occupational-therapy, paediatric, lived-experience, caregiver and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Functional-Seizure Recovery Techniques and CBT Resources](functional_seizures/README.md)
+
+**Related:** [Collection index](README.md) · [Previous symptom: Functional gait disorder](05-functional-gait-disorder.md) · [Diagnostic signs for this symptom](../diagnostic-signs/06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/03-recovery-treatment-and-daily-life.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

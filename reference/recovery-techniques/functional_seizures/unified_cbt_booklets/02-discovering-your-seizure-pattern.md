@@ -209,7 +209,9 @@ This booklet repeats that no single cause is required, then adds a functional-se
 *Outline revised August 25, 2026 · Clinical, lived-experience, and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
-**CBT materials:** [← Previous](01-understanding-functional-seizures-and-cbt.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md) · [Next →](03-skills-for-warnings-and-seizure-onset.md)
+**Continue:** [Next page: Booklet 3 Outline — Skills for Warnings and Seizure Onset](03-skills-for-warnings-and-seizure-onset.md)
+
+**Related:** [← Previous](01-understanding-functional-seizures-and-cbt.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
 
 **Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

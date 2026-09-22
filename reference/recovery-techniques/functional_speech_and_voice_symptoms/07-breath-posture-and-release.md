@@ -92,10 +92,17 @@ The consensus includes selected breathing, posture and muscle-release approaches
 
 *Sources checked September 17, 2026 · Speech-language pathology, relevant medical specialties, lived-experience, supporter and accessibility review pending.*
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous page](06-focus-on-the-message.md) · [Next page](08-practice-real-conversations.md)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-**Related:** [Original eleven-entry collection](README.md) · [Symptom overview and safety guidance](../09-functional-speech-and-voice-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/09-functional-speech-and-voice-symptoms.md)
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Practising the Conversations You Want to Have](08-practice-real-conversations.md)
+
+**Related:** [Previous page](06-focus-on-the-message.md) · [Original eleven-entry collection](README.md) · [Symptom overview and safety guidance](../09-functional-speech-and-voice-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/09-functional-speech-and-voice-symptoms.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

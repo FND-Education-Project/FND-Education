@@ -83,14 +83,6 @@ The procedures are educational implementation examples requiring clinical adapta
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique](02-desensitization-for-painful-touch.md) · [Next technique](04-sensation-with-meaningful-movement.md)
-
-**Related:** [Detailed technique index](README.md) · [Symptom overview and reassessment guidance](../07-functional-sensory-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/07-functional-sensory-symptoms.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 Sensory discrimination is presented here as a clinician-adapted rehabilitation option within broader sensory work. The sources do not establish this two-object sequence as effective for isolated functional sensory loss; broader sensory-based OT outcomes cannot supply that missing proof.
@@ -101,3 +93,18 @@ Sensory discrimination is presented here as a clinician-adapted rehabilitation o
 | <a id="citation-2"></a>**[2]** | McCombs KE, MacLean J, Finkelstein SA, Goedeken S, Perez DL, Ranford J. Sensory processing difficulties and occupational therapy outcomes for functional neurological disorder: a retrospective cohort study. *Neurology: Clinical Practice*. 2024;14(3):e200286. [FND-CIT-0035](../../../research/citation-index.md#fnd-cit-0035). [Source](https://doi.org/10.1212/CPJ.0000000000200286) |
 
 *Source check: September 15, 2026 · Occupational-therapy, physiotherapy, neurology, pain, equipment, lived-experience, supporter and accessibility review pending.*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Pairing Sensation With Meaningful Movement](04-sensation-with-meaningful-movement.md)
+
+**Related:** [Previous technique](02-desensitization-for-painful-touch.md) · [Detailed technique index](README.md) · [Symptom overview and reassessment guidance](../07-functional-sensory-symptoms.md) · [Diagnostic assessment](../../diagnostic-signs/07-functional-sensory-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

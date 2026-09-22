@@ -6,6 +6,13 @@
 
 **Original entry 4: Relaxed-throat breathing.** This page expands the original list rather than adding a new intervention. **[Professional consensus; individual assessment required]**
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For the Person With FND
 
 Being told to “just relax” is rarely helpful when your throat feels tight. This approach is more practical: your clinician helps you find a breathing pattern that asks less of your jaw, shoulders and throat. The aim is comfort and coordination, not taking the biggest possible breath.
@@ -24,17 +31,38 @@ For a familiar, mild bout, use your agreed plan and reduce the activity demand i
 
 Do not use cough suppression to manage choking, serious breathlessness or a new unexplained breathing pattern. Seek emergency help for severe difficulty breathing, blue or grey colour, inability to speak because of breathlessness, collapse or suspected airway obstruction. Chest pain or coughing blood needs urgent medical assessment. New noisy breathing, fever, weight loss, repeated chest infections or a changed persistent cough warrants reassessment. Follow prescribed respiratory treatment and your individual emergency plan.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 A calm presence can be more useful than constant instructions. Ask whether the person wants their cue or a quiet pause. Do not insist they demonstrate the exercise to prove that they can breathe normally.
 
 Agree beforehand how the person wants help during a familiar bout. A changed or severe episode calls for the medical plan rather than more coaching. Coughing can be exhausting even after the visible bout has ended; leave room for recovery and practical help.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 Assess the breathing and laryngeal phenotype before selecting retraining. Avoid generic deep-breathing prescriptions and distinguish upper-airway symptoms from lower-airway obstruction. Agree an onset cue, stop criteria and a route back to meaningful activity. Persistent dyspnoea requires reassessment, not an assumption that the patient is failing to relax.
 
 These pages concern assessed presentations. Chronic cough, cough hypersensitivity, tic cough, somatic cough syndrome and inducible laryngeal obstruction are not interchangeable diagnoses, and upper-airway symptoms are not automatically FND. Use the [paired diagnostic page](../../diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) and coordinate an individualized plan. Agree a review point, meaningful participation goals and access adaptations rather than prescribing an arbitrary exercise dose.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## Research and Sources
 
@@ -46,4 +74,17 @@ The practical explanation adapts professional consensus into everyday language. 
 
 *Source review: September 20, 2026 · Human review pending*
 
-**Continue:** [Next page](05-lower-rib-coordination.md) · [Previous page](03-clinician-selected-substitute.md) · [Symptom overview](../11-functional-cough-and-upper-airway-symptoms.md) · [Site map](../../../SITEMAP.md)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Coordinating Gentle Lower-Rib Breathing](05-lower-rib-coordination.md)
+
+**Related:** [Collection index](README.md) · [Previous page](03-clinician-selected-substitute.md) · [Symptom overview](../11-functional-cough-and-upper-airway-symptoms.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

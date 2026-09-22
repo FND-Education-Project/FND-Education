@@ -105,14 +105,6 @@ Measures may include pain interference, active range, excess recruitment, effort
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous: Competing and continuous movement](03-competing-and-continuous-movement.md) · [Next technique: Meaningful functional-task practice](05-meaningful-functional-task-practice.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional jerks overview](../03-functional-jerks-and-myoclonus.md) · [Diagnostic signs](../../diagnostic-signs/03-functional-jerks-and-myoclonus.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -122,3 +114,18 @@ Measures may include pain interference, active range, excess recruitment, effort
 | <a id="citation-3"></a>**[3]** | Peña AB, Caviness JN. Physiology-based treatment of myoclonus. *Neurotherapeutics*. 2020;17(4):1665–1680. [FND-CIT-0092](../../../research/citation-index.md#fnd-cit-0092). [https://doi.org/10.1007/s13311-020-00922-6](https://doi.org/10.1007/s13311-020-00922-6) |
 
 *Detailed technique page created: September 11, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Meaningful Functional-Task Practice for Functional Jerks](05-meaningful-functional-task-practice.md)
+
+**Related:** [Previous: Competing and continuous movement](03-competing-and-continuous-movement.md) · [Detailed technique index](README.md) · [Functional jerks overview](../03-functional-jerks-and-myoclonus.md) · [Diagnostic signs](../../diagnostic-signs/03-functional-jerks-and-myoclonus.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

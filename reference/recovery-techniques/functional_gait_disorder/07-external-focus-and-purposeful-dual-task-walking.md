@@ -96,14 +96,6 @@ Functional-motor and occupational-therapy consensus support external focus, auto
 [Research and Sources](#research-and-sources)
 ***
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Previous technique: Exaggerated movement and marching](06-exaggerated-movement-and-marching.md) · [Next technique: Stairs as a supervised bridge](08-stairs-as-a-supervised-bridge.md)
-
-**Related:** [Detailed technique index](README.md) · [Functional gait overview](../05-functional-gait-disorder.md) · [Cognitive symptoms course page](../../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
 ## Research and Sources
 
 | Citation | Full citation |
@@ -113,3 +105,18 @@ Functional-motor and occupational-therapy consensus support external focus, auto
 | <a id="citation-3"></a>**[3]** | Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. [FND-CIT-0020](../../../research/citation-index.md#fnd-cit-0020). [https://doi.org/10.1212/WNL.0000000000009649](https://doi.org/10.1212/WNL.0000000000009649) |
 
 *Detailed technique page created September 12, 2026 · Clinical and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Next page: Stairs as a Supervised Bridge for Functional Gait Disorder](08-stairs-as-a-supervised-bridge.md)
+
+**Related:** [Previous technique: Exaggerated movement and marching](06-exaggerated-movement-and-marching.md) · [Detailed technique index](README.md) · [Functional gait overview](../05-functional-gait-disorder.md) · [Cognitive symptoms course page](../../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
