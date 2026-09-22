@@ -18,9 +18,16 @@
 
 PPPD treatment usually combines an individualized explanation with gradual return to upright posture, head/body motion, visual motion and everyday activity. Practice should fit assessed capacity, fall risk and coexisting conditions. Stronger symptoms are not a target, and useful support can remain in place.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-## For the person with symptoms
+<a id="for-the-person-with-symptoms"></a>
+
+## For the Person With FND
 
 ### Techniques used in treatment
 
@@ -61,9 +68,17 @@ Choose one already-safe activity—such as sitting upright or a short walk on a 
 
 Dizziness is sudden or distinctly different, or occurs with new weakness, double vision, speech trouble, inability to walk, severe headache, fainting, chest pain, hearing loss, head injury or persistent vomiting. Even established PPPD requires reassessment when falls, new ear/neurological signs or progressive functional loss occur.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
 
-## For family, friends and supporters
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<a id="for-family-friends-and-supporters"></a>
+
+## For Family, Friends, and Other Supporters
 
 - Do not deliberately expose the person to scrolling, supermarkets or rapid head movement to test the diagnosis.
 - Help repeat the agreed dose and leave before symptoms become unmanageable.
@@ -75,9 +90,17 @@ Dizziness is sudden or distinctly different, or occurs with new weakness, double
 
 Help with fall safety and the person’s planned exit or recovery strategy. A temporary reduction in activity may be appropriate, but do not insist on either pushing through or prolonged complete avoidance. Support an easier activity if it is manageable; accept a pause when it is not. Help the person review the plan before building back up. New or distinctly different dizziness still deserves reassessment.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
 
-## For clinicians
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<a id="for-clinicians"></a>
+
+## For Clinicians and the Care Team
 
 Confirm the Bárány criteria and evaluate the precipitating and coexisting vestibular, migraine, neurological, cardiovascular and psychological conditions. Profile visual dependence, motion sensitivity, gaze, balance, gait, avoidance and fall risk. Explain the model without implying that symptoms are imaginary.
 
@@ -87,17 +110,17 @@ Document the Criterion A background separately from exacerbations: usual hours/d
 
 Set a baseline dose and progress one dimension at a time. Discuss CBT-informed support when an assessed monitoring, worry or avoidance pattern is relevant; do not infer that it caused PPPD. Measure participation and visually complex real-world function, not only symptom provocation. Discuss medication evidence honestly and coordinate migraine or psychiatric treatment as appropriate.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
 
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Detailed PPPD recovery pages →](persistent_postural_perceptual_dizziness/README.md) · [Previous symptom: FCD](12-functional-cognitive-disorder.md) · [Next symptom: Functional facial symptoms](14-functional-facial-symptoms.md)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/03-dizziness-balance-and-vestibular-overlap.md)
+<a id="research-and-evidence"></a>
 
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
-
-## Research and evidence
+## Research and Sources
 
 Rehabilitation research is encouraging but does not identify one universal protocol. The 2025 vestibular-rehabilitation review included eight heterogeneous studies. The 2023 Cochrane reviews used strict diagnostic, comparator and follow-up criteria: no eligible medication trials and only one small non-drug trial remained. These results answer different questions; neither justifies saying every exercise works or that nothing can help. (*citations* [2](#citation-2), [3](#citation-3), [4](#citation-4))
 
@@ -120,4 +143,17 @@ No community-only technique or new quotation has been added. Everyday examples a
 
 *Evidence checked: September 22, 2026 · Vestibular, neurology, lived-experience and accessibility review pending*
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Continue:** [Detailed PPPD recovery pages →](persistent_postural_perceptual_dizziness/README.md) · [Previous symptom: FCD](12-functional-cognitive-disorder.md) · [Next symptom: Functional facial symptoms](14-functional-facial-symptoms.md)
+
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/03-dizziness-balance-and-vestibular-overlap.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

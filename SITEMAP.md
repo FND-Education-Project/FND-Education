@@ -688,6 +688,20 @@ Use the sections below to drill down into the course, reference library, researc
 - [Discussing an SSRI or SNRI With Your Prescriber](reference/recovery-techniques/persistent_postural_perceptual_dizziness/12-medication-discussion.md)
 - [Making a Plan for Flares and Changing Dizziness](reference/recovery-techniques/persistent_postural_perceptual_dizziness/13-flare-and-review-plan.md)
 
+## Functional facial symptoms: detailed recovery pages
+
+- [Collection overview](reference/recovery-techniques/functional_facial_symptoms/README.md)
+- [Understanding What Your Face Is Doing](reference/recovery-techniques/functional_facial_symptoms/01-understanding-the-facial-pattern.md)
+- [Building a Rehabilitation Plan Around Daily Life](reference/recovery-techniques/functional_facial_symptoms/02-individual-rehabilitation-plan.md)
+- [Making a Plan for Familiar Facial Episodes](reference/recovery-techniques/functional_facial_symptoms/03-familiar-episode-plan.md)
+- [Finding Easier Movement During Conversation](reference/recovery-techniques/functional_facial_symptoms/04-attention-and-natural-expression.md)
+- [Choosing a Facial or Mouth Task With Your Therapist](reference/recovery-techniques/functional_facial_symptoms/05-selected-facial-or-mouth-task.md)
+- [Planning Gentle Practice Around an Assessed Trigger](reference/recovery-techniques/functional_facial_symptoms/06-planned-trigger-practice.md)
+- [Making Your Face, Jaw and Neck More Comfortable](reference/recovery-techniques/functional_facial_symptoms/07-comfort-and-less-effort.md)
+- [Protecting Eating, Vision and Communication](reference/recovery-techniques/functional_facial_symptoms/08-mouth-eye-and-communication-support.md)
+- [Keeping Other Causes and Conditions in the Care Plan](reference/recovery-techniques/functional_facial_symptoms/09-other-conditions-and-review.md)
+- [Discussing Botulinum Toxin With a Specialist](reference/recovery-techniques/functional_facial_symptoms/10-specialist-injection-discussion.md)
+
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](README.md) · [Course](course/README.md) · [Reference Library](reference/README.md) · [Site Map](SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

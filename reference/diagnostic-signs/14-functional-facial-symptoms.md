@@ -146,6 +146,8 @@ The caption must say that one image cannot distinguish stroke, facial-nerve weak
 [Research and Sources](#research-and-sources)
 ***
 
+**Recovery reading:** [Ten detailed facial recovery and care pages](../recovery-techniques/functional_facial_symptoms/README.md), selected according to the assessed movement, oral function and eye-safety needs.
+
 <!-- NAV-CONTEXT:START -->
 **Previous in this collection:** [← Persistent Postural-Perceptual Dizziness](13-persistent-postural-perceptual-dizziness.md) · **Continue:** [Functional Paralysis →](15-functional-paralysis.md)
 

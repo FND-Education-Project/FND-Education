@@ -88,6 +88,8 @@ The accounts support asking about aids, gradual rehabilitation and participation
 
 [For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Community reports](#community-reports-what-people-try) · [Research and evidence](#research-and-evidence)
 
+**Previous symptom:** [Functional facial symptoms: detailed pages](functional_facial_symptoms/README.md).
+
 <!-- NAV-CONTEXT:START -->
 **Previous in this collection:** [← Functional Facial Symptoms](14-functional-facial-symptoms.md) · **Continue:** [Functional Drop Attacks →](16-functional-drop-attacks.md)
 

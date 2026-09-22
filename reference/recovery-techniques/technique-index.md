@@ -226,16 +226,16 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 ### [Functional facial symptoms](14-functional-facial-symptoms.md)
 
-- **C** clear explanation of overactive pulling, weakness or another assessed facial pattern
-- **R/C, broader evidence** individualized FND-informed rehabilitation
-- **E** warning- and trigger-based episode plan using early grounding, relaxation and graded return
-- **C** attention redirection and more automatic facial expression
-- **C/E** clinician-selected facial, speech or mouth task
-- **C/E** controlled exposure to an assessed movement or light trigger
-- **C** comfortable positioning and reduction of unnecessary facial, jaw and neck effort without force
-- **C** mouth, swallowing, communication and eye-safety assessment and support
-- **C** treatment of coexisting facial, dental, eye, movement, migraine or swallowing conditions
-- **uncertain** specialist botulinum-toxin discussion for a selected phenotype
+- **[Understanding What Your Face Is Doing](functional_facial_symptoms/01-understanding-the-facial-pattern.md)** — When a clinician has diagnosed a functional facial symptom and you need to understand what the finding means for care. **[Specialist clinical guidance; explanation is a foundation for care]**
+- **[Building a Rehabilitation Plan Around Daily Life](functional_facial_symptoms/02-individual-rehabilitation-plan.md)** — When facial symptoms affect several daily activities and you need help choosing a practical starting point. **[Broader motor rehabilitation evidence; facial-specific effectiveness uncertain]**
+- **[Making a Plan for Familiar Facial Episodes](functional_facial_symptoms/03-familiar-episode-plan.md)** — When an assessed facial symptom comes in episodes and it would help to decide in advance what you and others will do. **[One facial case within a case series; individualized care planning]**
+- **[Finding Easier Movement During Conversation](functional_facial_symptoms/04-attention-and-natural-expression.md)** — When a therapist has noticed that a facial movement is easier during an ordinary activity than during deliberate testing. **[Clinical motor-retraining guidance; facial component efficacy untested]**
+- **[Choosing a Facial or Mouth Task With Your Therapist](functional_facial_symptoms/05-selected-facial-or-mouth-task.md)** — When assessment has identified one movement or everyday function that could be practised safely. **[Individualized clinical guidance; no standard facial exercise prescription]**
+- **[Planning Gentle Practice Around an Assessed Trigger](functional_facial_symptoms/06-planned-trigger-practice.md)** — When an assessed movement or lighting situation reliably brings on familiar symptoms and a clinician considers planned practice appropriate. **[Specialist guidance; facial exposure efficacy uncertain]**
+- **[Making Your Face, Jaw and Neck More Comfortable](functional_facial_symptoms/07-comfort-and-less-effort.md)** — When pulling or an effort to correct it leaves your jaw, face or neck uncomfortable. **[Clinical comfort guidance; direct facial-treatment evidence limited]**
+- **[Protecting Eating, Vision and Communication](functional_facial_symptoms/08-mouth-eye-and-communication-support.md)** — When facial symptoms interfere with mouth closure, eating, communication or usable vision. **[Clinical safety and access support; recovery does not require removing aids]**
+- **[Keeping Other Causes and Conditions in the Care Plan](functional_facial_symptoms/09-other-conditions-and-review.md)** — When pain, eye symptoms, jaw problems, medicines or another condition may be contributing alongside FND. **[Clinical differential assessment and coordinated care]**
+- **[Discussing Botulinum Toxin With a Specialist](functional_facial_symptoms/10-specialist-injection-discussion.md)** — When a specialist proposes an injection for a specific facial pattern or a coexisting movement disorder. **[Uncertain selected use; evidence does not support routine injection for functional facial symptoms]**
 
 ### [Functional paralysis](15-functional-paralysis.md)
 
@@ -281,9 +281,13 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 [FCD background](../functional-cognitive-disorder.md) → **[Building a Thinking and Memory System You Can Actually Use](functional_cognitive_disorder/08-external-memory-supports.md)** — External cognitive supports for encoding, future intentions, retrieval, recognition cues and task sequences. **[Clinical guidance; individual technique efficacy not established]**
 
+**[Building a Rehabilitation Plan Around Daily Life](functional_facial_symptoms/02-individual-rehabilitation-plan.md)** — Functional facial symptoms: When facial symptoms affect several daily activities and you need help choosing a practical starting point. **[Broader motor rehabilitation evidence; facial-specific effectiveness uncertain]**
+
 **[Building a Vestibular Rehabilitation Plan That Fits You](persistent_postural_perceptual_dizziness/01-individual-vestibular-plan.md)** — PPPD: When ongoing dizziness affects several parts of daily life and exercises need to match your assessed pattern. **[Clinical rehabilitation with emerging PPPD evidence; no universal programme]**
 
 **[Building an Easier Sound Into Words and Conversation](functional_speech_and_voice_symptoms/04-building-sound-into-speech.md)** — Functional speech and voice symptoms. A sound, syllable or word is available with less effort, but carrying it into longer speech remains difficult. **[Professional consensus; the progression must follow the person’s response]**
+
+**[Choosing a Facial or Mouth Task With Your Therapist](functional_facial_symptoms/05-selected-facial-or-mouth-task.md)** — Functional facial symptoms: When assessment has identified one movement or everyday function that could be practised safely. **[Individualized clinical guidance; no standard facial exercise prescription]**
 
 **[Choosing One Comfortable Cough Substitute](functional_cough_and_upper_airway_symptoms/03-clinician-selected-substitute.md)** — A small nasal sniff, dry swallow, pursed-lip exhale or another specific response may interrupt the urge. Selection depends on the person’s respiratory, laryngeal and swallowing assessment. **[Professional consensus; individual assessment required]**
 
@@ -329,6 +333,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Discussing an SSRI or SNRI With Your Prescriber](persistent_postural_perceptual_dizziness/12-medication-discussion.md)** — PPPD: When medication is being considered for persistent dizziness or a coexisting condition and the benefits, risks and follow-up need to be clear. **[Used in clinical practice; PPPD-specific placebo-controlled evidence uncertain]**
 
+**[Discussing Botulinum Toxin With a Specialist](functional_facial_symptoms/10-specialist-injection-discussion.md)** — Functional facial symptoms: When a specialist proposes an injection for a specific facial pattern or a coexisting movement disorder. **[Uncertain selected use; evidence does not support routine injection for functional facial symptoms]**
+
 **[Discussing Experimental Stimulation With a Specialist](persistent_postural_perceptual_dizziness/11-specialist-stimulation-review.md)** — PPPD: When a qualified team proposes a stimulation device or research study and you want to understand its limits and alternatives. **[Experimental or emerging evidence; no established self-treatment protocol]**
 
 **[Easing Repeated Throat Clearing](functional_cough_and_upper_airway_symptoms/06-reducing-throat-clearing.md)** — Substitute one sip, swallow or gentle breath when safe, and address dryness or irritation. Repeated throat clearing can itself maintain irritation, but a new airway warning should never be suppressed without assessment. **[Professional consensus; individual assessment required]**
@@ -343,10 +349,6 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[External focus and purposeful dual-task walking](functional_gait_disorder/07-external-focus-and-purposeful-dual-task-walking.md)** — Functional gait disorder when an external destination or simple second task improves rather than compromises walking safety. **[Clinical and occupational-therapy consensus]**
 
-**Facial, speech or mouth task, clinician selected** — Functional facial symptoms. **C/E**
-
-**Facial-spasm episode plan using warning signs, grounding and relaxation** — Functional facial symptoms. **E**
-
 **Fall-injury response and reassessment plan** — Functional drop attacks. **C**
 
 **[Family, school and workplace response planning](17-functional-tics-and-tic-like-symptoms.md#support-response)** — Functional tics: Agree who should know, what help you want and how others should respond. Options include a private break space, alternative presentations and a simple explanation of involuntary words. Avoid punishment, shame or demands to suppress symptoms to earn access. **[Support and accommodation planning]**
@@ -358,6 +360,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **[Finding a Less Effortful Breathing Pattern](functional_cough_and_upper_airway_symptoms/04-relaxed-throat-breathing.md)** — Release the jaw and shoulders and use quiet, efficient breathing taught by the clinician. Avoid repeated huge inhalations, which may worsen light-headedness or some breathing patterns. **[Professional consensus; individual assessment required]**
 
 [FCD background](../functional-cognitive-disorder.md) → **[Finding Reassurance That Still Helps](functional_cognitive_disorder/03-reassurance-without-loops.md)** — When asking someone else for the same assurance briefly settles a worry that soon returns; distinguish this from forgetting or not understanding the answer. **[Clinical guidance; individual technique efficacy not established]**
+
+**[Finding Easier Movement During Conversation](functional_facial_symptoms/04-attention-and-natural-expression.md)** — Functional facial symptoms: When a therapist has noticed that a facial movement is easier during an ordinary activity than during deliberate testing. **[Clinical motor-retraining guidance; facial component efficacy untested]**
 
 **[Fixed visual or sensory anchor at a familiar warning](functional_seizures/04-sensory-grounding-and-attention-anchor.md)** — Functional seizures with a usable warning and tolerable cue. **[Specialist clinical guidance; no isolated efficacy evidence]**
 
@@ -397,9 +401,13 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Keeping Other Causes and Conditions in the Care Plan](functional_cough_and_upper_airway_symptoms/10-treating-coexisting-conditions.md)** — Asthma, eosinophilic disease, reflux, rhinitis, infection, medication effects and structural or neurological laryngeal problems need appropriate treatment. **[Professional consensus; individual assessment required]**
 
+**[Keeping Other Causes and Conditions in the Care Plan](functional_facial_symptoms/09-other-conditions-and-review.md)** — Functional facial symptoms: When pain, eye symptoms, jaw problems, medicines or another condition may be contributing alongside FND. **[Clinical differential assessment and coordinated care]**
+
 **[Keeping Other Causes of Dizziness in the Care Plan](persistent_postural_perceptual_dizziness/09-coexisting-conditions.md)** — PPPD: When migraine, positional vertigo, faintness, medicines or another condition may coexist with PPPD or change the treatment plan. **[Diagnostic and clinical care guidance; not an isolated PPPD treatment]**
 
 [FCD background](../functional-cognitive-disorder.md) → **[Keeping Other Contributors in the Care Plan](functional_cognitive_disorder/10-contributors-and-coexisting-conditions.md)** — Assess and treat independent or coexisting contributors without automatically calling them FCD. **[Clinical guidance; individual technique efficacy not established]**
+
+**[Making a Plan for Familiar Facial Episodes](functional_facial_symptoms/03-familiar-episode-plan.md)** — Functional facial symptoms: When an assessed facial symptom comes in episodes and it would help to decide in advance what you and others will do. **[One facial case within a case series; individualized care planning]**
 
 **[Making a Plan for Flares and Changing Dizziness](persistent_postural_perceptual_dizziness/13-flare-and-review-plan.md)** — PPPD: When stronger periods of familiar dizziness disrupt daily life and you need a clear plan for support, activity and reassessment. **[Clinical self-management and care planning; standalone efficacy untested]**
 
@@ -414,6 +422,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **[Making Speech More Comfortable: Breath, Posture and Muscle Release](functional_speech_and_voice_symptoms/07-breath-posture-and-release.md)** — Functional speech and voice symptoms. Assessment finds extra jaw, neck, laryngeal or breathing effort during speech, and a tailored adjustment may reduce strain. **[Professional consensus and adjacent voice guidance; generic deep breathing is not a prescription]**
 
 [FCD background](../functional-cognitive-disorder.md) → **[Making the Day Easier With Routines and Pacing](functional_cognitive_disorder/09-single-task-routines-and-pacing.md)** — Reduce switching and sequencing demands; pace tasks to capacity and delayed cost. **[Clinical guidance; individual technique efficacy not established]**
+
+**[Making Your Face, Jaw and Neck More Comfortable](functional_facial_symptoms/07-comfort-and-less-effort.md)** — Functional facial symptoms: When pulling or an effort to correct it leaves your jaw, face or neck uncomfortable. **[Clinical comfort guidance; direct facial-treatment evidence limited]**
 
 **Meaningful functional-task practice** — Weakness; paralysis; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; facial symptoms. **C**
 
@@ -439,8 +449,6 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Noticing the Earliest Cough Urge](functional_cough_and_upper_airway_symptoms/01-noticing-the-earliest-urge.md)** — Notice the first tickle, tightness, breath change, situation or throat-clear urge before the full cough begins. Track briefly enough to find an intervention point, not to monitor the throat all day. **[Professional consensus; individual assessment required]**
 
-**Oral, swallowing, speech and eye-safety assessment** — Functional facial symptoms. **C**
-
 **[Orthoptist-Guided Visual Feedback](functional_visual_symptoms/03-orthoptist-guided-visual-feedback.md)** — Functional visual symptoms. A specialist has identified a specific preserved visual response that can be explained and explored safely during an appointment. **[Specialist clinical practice; direct treatment evidence is limited]**
 
 **Pain, fatigue, sleep, migraine, mental-health and other comorbidity treatment** — Potentially all symptom groups, selected individually. **C**
@@ -452,6 +460,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **[Photophobia: An Agreed Light and Protection Plan](functional_visual_symptoms/06-photophobia-light-and-protection-plan.md)** — Functional visual symptoms. Light sensitivity limits activities and specialist assessment supports considering a tolerable, individualized change alongside treatment of relevant causes. **[Specialist clinical guidance; FND-specific exposure evidence is limited and there is no universal schedule]**
 
 [FCD background](../functional-cognitive-disorder.md) → **[Planning Individual Cognitive Rehabilitation](functional_cognitive_disorder/13-individual-cognitive-rehabilitation.md)** — When needs are complex, basic adaptations are insufficient or a person needs support applying strategies in daily life. **[Clinical rehabilitation guidance and early intervention development; efficacy uncertain]**
+
+**[Planning Gentle Practice Around an Assessed Trigger](functional_facial_symptoms/06-planned-trigger-practice.md)** — Functional facial symptoms: When an assessed movement or lighting situation reliably brings on familiar symptoms and a clinician considers planned practice appropriate. **[Specialist guidance; facial exposure efficacy uncertain]**
 
 **[Position and gravity change](functional_dystonia/02-position-and-gravity-change.md)** — Functional dystonia when movement is more available lying, sitting, leaning or with the limb supported. **[Clinical consensus]**
 
@@ -474,6 +484,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **[Prescriber-Led Medication Review](functional_seizures/09-prescriber-led-medication-review.md)** — Functional seizures. Clarify the purpose of every regular and rescue medicine and arrange supervised changes only when indicated, including separate treatment for coexisting epilepsy. **[Clinical guideline recommendation; no unsupervised withdrawal]**
 
 **Proportionate fall-hazard and activity review** — Functional drop attacks. **C**
+
+**[Protecting Eating, Vision and Communication](functional_facial_symptoms/08-mouth-eye-and-communication-support.md)** — Functional facial symptoms: When facial symptoms interfere with mouth closure, eating, communication or usable vision. **[Clinical safety and access support; recovery does not require removing aids]**
 
 **[Psychologically Informed Support for Communication](functional_speech_and_voice_symptoms/10-psychologically-informed-communication-care.md)** — Functional speech and voice symptoms. Fear of difficult conversations, distress or unhelpful checking adds to the communication burden, and the person wants support with it. **[Professional consensus and limited broader dysphonia research; psychological treatment is not a requirement for all patients]**
 
@@ -550,6 +562,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 [FCD background](../functional-cognitive-disorder.md) → **[Understanding Memory and Thinking Difficulties in FCD](functional_cognitive_disorder/01-understanding-the-cognitive-pattern.md)** — Connects the assessed cognitive pattern with an individual support and review plan. **[Foundation for recovery; educational guidance, not a memory-training exercise]**
 
 **[Understanding the Diagnosis and Finding an Easier Starting Point](functional_speech_and_voice_symptoms/01-understanding-preserved-communication.md)** — Functional speech and voice symptoms. An assessed speech or voice problem needs a clear explanation, and differences between tasks may help the therapist choose where to begin. **[Professional consensus; a useful demonstration does not prove dependable speech in daily life]**
+
+**[Understanding What Your Face Is Doing](functional_facial_symptoms/01-understanding-the-facial-pattern.md)** — Functional facial symptoms: When a clinician has diagnosed a functional facial symptom and you need to understand what the finding means for care. **[Specialist clinical guidance; explanation is a foundation for care]**
 
 **[Understanding Your Swallowing Assessment and Plan](functional_swallowing_and_globus/01-understanding-the-assessment.md)** — Swallowing/globus: When uncertainty about the diagnosis or safe eating is making every meal feel like a test. **[Professional consensus; diagnostic explanation and continuing care]**
 

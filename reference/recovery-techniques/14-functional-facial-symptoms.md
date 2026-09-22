@@ -20,24 +20,34 @@ Functional facial symptoms require an individualized plan because **droop can de
 
 The facial-specific treatment evidence is very limited. The research reviewed contains specialist clinical guidance and one published episodic facial-dystonia case inside a broader case series and literature review—not a facial-symptom randomized trial. (*citations* [7](#citation-7), [8](#citation-8))
 
-**Evidence labels:** **R** research-supported in broader functional motor disorder · **C** clinical consensus or specialist guidance · **E** emerging or case-level evidence · **L** repeated community report. The community quotations on this page remain candidates and are **not** labelled **L** because the named techniques were not repeated in two independent qualifying accounts.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Community reports](#community-reports-what-people-try) · [Research and evidence](#research-and-evidence)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-## For the person with symptoms
+[Community reports](#community-reports-what-people-try)
+
+<a id="for-the-person-with-symptoms"></a>
+
+## For the Person With FND
 
 ### Techniques used in rehabilitation
 
-1. **A clear explanation of the facial pattern — C.** Ask the clinician to show whether the visible change is overactive pulling, weakness, eye closure, ptosis or another movement. Knowing which muscles are overactive and which functions remain available can prevent repeatedly strengthening or stretching the wrong movement. (*citations* [1](#citation-1), [3](#citation-3), [8](#citation-8))
-2. **Individualized FND-informed rehabilitation — R/C, broader evidence.** Physiotherapy, occupational therapy or speech-language therapy may use education, attention redirection, automatic movement and meaningful tasks. Controlled research has evaluated specialist physiotherapy for broader functional motor disorder, with mixed results across outcomes, but it has not established which program or facial exercise works for functional facial symptoms specifically. (*citations* [2](#citation-2), [3](#citation-3), [4](#citation-4))
-3. **A rehearsed episode plan — E.** One published case of episodic functional facial dystonia used trigger and warning-sign identification, early grounding, body relaxation and modified CBT strategies. Attack frequency and duration improved after three months, but one person’s improvement cannot establish effectiveness for others. (*citations* [7](#citation-7))
-4. **Attention redirection and more automatic expression — C.** A therapist may compare a deliberately tested movement with facial movement during ordinary conversation, laughter, singing, chewing or another safe activity. Practice can then focus on the easier, more automatic route rather than repeated effortful checking. (*citations* [3](#citation-3), [8](#citation-8))
-5. **A clinician-selected facial, speech or mouth task — C/E.** Depending on the assessed problem, practice might involve gentle lip closure, a small facial expression, an easy speech sound or another functional task. The target, dose, mirror use and amount of sensory feedback should be selected individually; generic facial-palsy exercise programs address a different mechanism and should not be assumed to treat FND. (*citations* [2](#citation-2), [3](#citation-3), [8](#citation-8))
-6. **Controlled exposure to an identified trigger — C/E.** Specialist guidance describes gradually practising an assessed facial movement or light exposure when stretching or light reliably triggers functional spasm. This should be planned and graded, not used to provoke a severe attack, and is inappropriate until other causes and eye safety have been assessed. (*citations* [8](#citation-8))
-7. **Comfort and reduction of unnecessary muscle effort — C.** Use a comfortable jaw, head and neck position; avoid forceful correction; and address pain or jaw strain. Gentle relaxation, touch or massage may be considered by a treating clinician when muscle overactivity is present, but self-massage has not been tested as a treatment for functional facial droop. (*citations* [1](#citation-1), [3](#citation-3), [7](#citation-7))
-8. **Protect mouth, swallowing, communication and eye function — C.** Speech-language assessment may be useful when mouth closure, drooling, chewing, swallowing or speech is affected. Eye or movement-disorder review is appropriate for ptosis or involuntary eye closure. Practical support can include tissues, skin protection, communication alternatives and safe food or drink recommendations after assessment. (*citations* [2](#citation-2), [8](#citation-8))
-9. **Treat coexisting conditions — C.** Migraine, dental or jaw problems, pain, facial-nerve disease, non-functional dystonia, blepharospasm, hemifacial spasm, medication effects and swallowing disorders can coexist with FND and may require their own treatment. (*citations* [1](#citation-1), [2](#citation-2), [5](#citation-5), [6](#citation-6))
-10. **Botulinum toxin or other invasive treatment only after specialist review — uncertain.** Sources do not give one uniform answer. Neurosymptoms reports that Botox does not appear helpful for typical functional facial spasm, while two retrospective specialist cohorts reported uncontrolled, partly subjective improvement in some selected patients. Those observations cannot establish effectiveness. They do not support routine injection, surgery or using treatment response as a diagnostic test. (*citations* [1](#citation-1), [5](#citation-5), [6](#citation-6), [8](#citation-8))
+[Open all ten detailed pages](functional_facial_symptoms/README.md). These preserve the original entries; the number is not a count of independently validated treatments.
+
+1. **[Understanding What Your Face Is Doing](functional_facial_symptoms/01-understanding-the-facial-pattern.md)** — When a clinician has diagnosed a functional facial symptom and you need to understand what the finding means for care. **[Specialist clinical guidance; explanation is a foundation for care]**
+2. **[Building a Rehabilitation Plan Around Daily Life](functional_facial_symptoms/02-individual-rehabilitation-plan.md)** — When facial symptoms affect several daily activities and you need help choosing a practical starting point. **[Broader motor rehabilitation evidence; facial-specific effectiveness uncertain]**
+3. **[Making a Plan for Familiar Facial Episodes](functional_facial_symptoms/03-familiar-episode-plan.md)** — When an assessed facial symptom comes in episodes and it would help to decide in advance what you and others will do. **[One facial case within a case series; individualized care planning]**
+4. **[Finding Easier Movement During Conversation](functional_facial_symptoms/04-attention-and-natural-expression.md)** — When a therapist has noticed that a facial movement is easier during an ordinary activity than during deliberate testing. **[Clinical motor-retraining guidance; facial component efficacy untested]**
+5. **[Choosing a Facial or Mouth Task With Your Therapist](functional_facial_symptoms/05-selected-facial-or-mouth-task.md)** — When assessment has identified one movement or everyday function that could be practised safely. **[Individualized clinical guidance; no standard facial exercise prescription]**
+6. **[Planning Gentle Practice Around an Assessed Trigger](functional_facial_symptoms/06-planned-trigger-practice.md)** — When an assessed movement or lighting situation reliably brings on familiar symptoms and a clinician considers planned practice appropriate. **[Specialist guidance; facial exposure efficacy uncertain]**
+7. **[Making Your Face, Jaw and Neck More Comfortable](functional_facial_symptoms/07-comfort-and-less-effort.md)** — When pulling or an effort to correct it leaves your jaw, face or neck uncomfortable. **[Clinical comfort guidance; direct facial-treatment evidence limited]**
+8. **[Protecting Eating, Vision and Communication](functional_facial_symptoms/08-mouth-eye-and-communication-support.md)** — When facial symptoms interfere with mouth closure, eating, communication or usable vision. **[Clinical safety and access support; recovery does not require removing aids]**
+9. **[Keeping Other Causes and Conditions in the Care Plan](functional_facial_symptoms/09-other-conditions-and-review.md)** — When pain, eye symptoms, jaw problems, medicines or another condition may be contributing alongside FND. **[Clinical differential assessment and coordinated care]**
+10. **[Discussing Botulinum Toxin With a Specialist](functional_facial_symptoms/10-specialist-injection-discussion.md)** — When a specialist proposes an injection for a specific facial pattern or a coexisting movement disorder. **[Uncertain selected use; evidence does not support routine injection for functional facial symptoms]**
 
 ### When a familiar episode begins
 
@@ -58,7 +68,16 @@ Before practising, obtain a clear diagnosis of the facial pattern. Choose **one 
 
 Facial droop is new, sudden or distinctly changed; occurs with new limb weakness, speech or understanding difficulty, severe headache, double vision, loss of balance, confusion or reduced consciousness; or follows a head injury. Reassessment is also needed for inability to close an eye, eye pain or injury, progressive ptosis, jaw locking, major swelling, new medication-related movements, persistent drooling, choking, a wet voice, dehydration, weight loss or breathing difficulty.
 
-## For family, friends and supporters
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<a id="for-family-friends-and-supporters"></a>
+
+## For Family, Friends, and Other Supporters
 
 - Treat a new facial droop as a possible medical emergency; do not assume it is FND.
 - During an established episode, ask before touching the person’s face, jaw or neck.
@@ -72,7 +91,16 @@ Facial droop is new, sudden or distinctly changed; occurs with new limb weakness
 
 Move from repeated symptom correction to a simple sequence: **safety → one agreed cue or support → communication and comfort → gradual return**. If the episode does not match the established pattern, or speech, swallowing, breathing, vision or awareness changes in a concerning way, seek reassessment.
 
-## For clinicians
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<a id="for-clinicians"></a>
+
+## For Clinicians and the Care Team
 
 Confirm whether the treatment target is dystonic pulling, facial weakness, active eye closure, ptosis, jaw or tongue movement, mouth seal, speech, swallowing or a combination. Demonstrate the positive finding to the patient without implying that variability means voluntariness. A functional facial symptom should not prevent investigation or treatment of a coexisting cranial nerve, movement, neuromuscular, vascular, dental, eye or swallowing disorder.
 
@@ -125,32 +153,42 @@ These short quotations are **lived-experience candidates, not treatment evidence
 
 The community material raises useful questions for clinical testing: whether light touch helps or overloads; whether an external language task makes facial movement easier; whether mirrors help or increase symptom focus; and how to protect vision and dignity during episodes. The reports do **not** establish massage, lifting the mouth corner, alphabet practice, darkness or Botox as treatments. Those ideas remain clearly separated from the research-supported and consensus-guided plan above.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Community reports](#community-reports-what-people-try) · [Research and evidence](#research-and-evidence)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+[Community reports](#community-reports-what-people-try)
 
 ### Motor and vocal tic-like symptoms
 
 Facial tic-like movements need their own assessment. A facial location does not make a tic equivalent to dystonia, weakness or spasm. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
 
 
-## Research and Sources
-
-**Source for this boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
+**Source for the tic boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
 
 **Previous symptom:** [PPPD recovery overview](13-persistent-postural-perceptual-dizziness.md) · [PPPD flare and review plan](persistent_postural_perceptual_dizziness/13-flare-and-review-plan.md)
 
-<!-- NAV-CONTEXT:START -->
-**Previous in this collection:** [← Persistent Postural-Perceptual Dizziness](13-persistent-postural-perceptual-dizziness.md) · **Continue:** [Functional Paralysis →](15-functional-paralysis.md)
 
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md) · [Swallowing techniques](10-functional-swallowing-and-globus.md)
 
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-## Research and evidence
+<a id="research-and-evidence"></a>
+
+## Research and Sources
 
 There is **no located controlled trial of a facial-symptom-specific FND rehabilitation program**. Gros and colleagues reported one person with episodic functional facial dystonia within a four-case series and reviewed a functional-dystonia literature made up mainly of case reports and series. Broader functional motor rehabilitation principles come from physiotherapy consensus and a phase 3 specialist-physiotherapy trial whose reported outcomes were not facial-specific. Functional-dystonia and speech-language guidance supports multidisciplinary, phenotype-specific care but describes little direct evidence for individual facial techniques. Retrospective facial and stomatognathic cohorts contain uncontrolled treatment observations, including some reported improvement after botulinum toxin, but do not test efficacy. Neurosymptoms provides facial-specific specialist guidance on explanation, triggers, graded exposure and Botox, but it is an expert educational source rather than a trial. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4), [5](#citation-5), [6](#citation-6), [7](#citation-7), [8](#citation-8))
 
-The community quotations above are included for reviewable lived-experience wording and practical ideas. They do not satisfy the project’s two-independent-report rule for a new **L** technique and are not entered in the technique index as established community practices.
+The community quotations above are included for reviewable lived-experience wording and practical ideas. They do not satisfy the project’s two-independent-report rule for a new repeated community-report technique and are not entered in the technique index as established community practices.
+
+A small randomized pilot in broader persistent functional dystonia also found no added benefit from botulinum toxin over placebo before CBT. It was not a facial-specific study. (*citation* [9](#citation-9))
 
 ### Citation table
 
@@ -164,6 +202,7 @@ The community quotations above are included for reviewable lived-experience word
 | <a id="citation-6"></a>**[6]** | Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. [FND-CIT-0053](../../research/citation-index.md#fnd-cit-0053). [https://doi.org/10.3389/fneur.2020.00123](https://doi.org/10.3389/fneur.2020.00123) |
 | <a id="citation-7"></a>**[7]** | Gros P, Bhatt H, Gilmour GS, Lidstone SC. Rehabilitation for functional dystonia: cases and review of the literature. *Movement Disorders Clinical Practice*. 2024;11(8):1018–1024. [FND-CIT-0055](../../research/citation-index.md#fnd-cit-0055). [https://doi.org/10.1002/mdc3.14121](https://doi.org/10.1002/mdc3.14121) |
 | <a id="citation-8"></a>**[8]** | Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed September 1, 2026. [FND-CIT-0056](../../research/citation-index.md#fnd-cit-0056). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/) |
+| <a id="citation-9"></a>**[9]** | Vizcarra JA, Lopez-Castellanos JR, Dwivedi AK, et al. OnabotulinumtoxinA and cognitive behavioral therapy in functional dystonia: a pilot randomized clinical trial. *Parkinsonism & Related Disorders*. 2019;63:174–178. [DOI](https://doi.org/10.1016/j.parkreldis.2019.02.009). [FND-CIT-0093](../../research/citation-index.md#fnd-cit-0093). |
 
 ### Community sources
 
@@ -171,4 +210,19 @@ The community quotations above are included for reviewable lived-experience word
 - [Reddit — “Anyone get weird muscle spasms ... like this one”](https://www.reddit.com/r/FND/comments/1bj0pht/anyone_get_weird_muscle_spasms_like_this_one/)
 - [Reddit — “Botox and facial dystonia”](https://www.reddit.com/r/FND/comments/1q94cj6/botox_and_facial_dystonia/)
 
-*Evidence and public-community search current to September 1, 2026 · Movement-disorders, stroke, speech-language, lived-experience and accessibility review pending*
+*Clinical sources rechecked September 22, 2026; existing community material last searched September 1, 2026 · Movement-disorders, stroke, speech-language, lived-experience and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Previous in this collection:** [← Persistent Postural-Perceptual Dizziness](13-persistent-postural-perceptual-dizziness.md) · **Continue:** [Functional Paralysis →](15-functional-paralysis.md)
+
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md) · [Swallowing techniques](10-functional-swallowing-and-globus.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

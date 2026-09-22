@@ -41,6 +41,8 @@ The collection now covers **17 symptom presentations**, including motor and voca
 
 **[PPPD: thirteen detailed recovery and care pages](persistent_postural_perceptual_dizziness/README.md)** — Thirteen original entries expanded one-to-one, plus one collection overview. Includes individualized rehabilitation, care planning and clearly bounded specialist/medication discussions. Added September 22, 2026; clinical, lived-experience and accessibility review pending.
 
+**[Functional facial symptoms: ten detailed pages](functional_facial_symptoms/README.md)** — all ten original entries expanded, plus a collection overview. Includes pattern-specific rehabilitation, practical support and a bounded specialist-injection discussion.
+
 <!-- NAV-CONTEXT:START -->
 **Reference:** [Reference Library](../README.md) · [Reference Index](../reference-index.md) · [Diagnostic Techniques](../diagnostic-signs/README.md)
 

@@ -270,6 +270,8 @@ FND Education provides general educational information only. It does not provide
 
 **[PPPD: thirteen detailed recovery and care pages](reference/recovery-techniques/persistent_postural_perceptual_dizziness/README.md)** — Thirteen original entries expanded one-to-one, plus one collection overview. Includes individualized rehabilitation, care planning and clearly bounded specialist/medication discussions. Added September 22, 2026; clinical, lived-experience and accessibility review pending.
 
+**[Functional facial symptoms: ten detailed recovery and care pages](reference/recovery-techniques/functional_facial_symptoms/README.md)** — explanations, practical examples, oral/eye safety and clearly stated evidence limits.
+
 <!-- NAV-CONTEXT:START -->
 **Explore:** [Course](course/README.md) · [Reference Library](reference/README.md) · [Glossary](glossary/README.md)
 

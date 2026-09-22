@@ -21,9 +21,16 @@ FCD involves cognition, not only memory. Care may combine process-based support,
 For the fuller explanation—including faces, visual recall, imagery and evidence limits—see [Everything We Know About FCD](../functional-cognitive-disorder.md). Migraine, pain, fatigue, sleep disorders and other contributors are not automatically FCD.
 
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
-## For the person with symptoms
+<a id="for-the-person-with-symptoms"></a>
+
+## For the Person With FND
 
 [Explore the thirteen detailed pages](functional_cognitive_disorder/README.md). Each original entry has one page; you do not need to try every approach. Supported success counts, and useful aids can stay in place.
 
@@ -80,7 +87,17 @@ Choose one low-stakes task that matters and make its next step easier to find: a
 
 Confusion is sudden, consciousness changes, or cognitive symptoms occur with new weakness, speech change, severe headache, seizure, fever, head injury or another acute medical concern. New difficulty recognizing highly familiar people, progressive loss of familiar knowledge, major visual-spatial change, progressive decline, getting lost in familiar places, unsafe medication or financial errors, new neurological signs or a marked change from the established pattern also need review.
 
-## For family, friends and supporters
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<a id="for-family-friends-and-supporters"></a>
+
+## For Family, Friends, and Other Supporters
 
 - Do not quiz, secretly score or use a remembered success to dismiss a later difficulty.
 - With permission, help create one shared calendar or checklist instead of multiple competing systems.
@@ -92,7 +109,17 @@ Confusion is sudden, consciousness changes, or cognitive symptoms occur with new
 
 Use one speaker and one idea at a time. Give extra processing time, point to the person’s usual external support and avoid repeated correction or memory quizzes. If the person needs to stop a safety-sensitive task—driving, medication preparation, cooking or finances—help preserve safety without treating the temporary loss of access as a permanent loss of ability.
 
-## For clinicians
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<a id="for-clinicians"></a>
+
+## For Clinicians and the Care Team
 
 Establish a positive FCD formulation while evaluating neurodegenerative, neurological, sleep, pain, medication, mood and neurodevelopmental explanations and comorbidities. Use concrete examples of inconsistency and preserved function without adversarial validity testing. Explain uncertainty and follow-up thresholds.
 
@@ -102,13 +129,13 @@ Document which cognitive domain changes, episode duration, frequency, sensory/co
 
 Build treatment around assessed cognitive processes, functional goals, compensation and accommodations; address monitoring only when it is relevant. Supported success counts, and treatment response does not prove a mechanism. Monitor participation, confidence, distress and daily errors as well as symptom report. Persistent symptoms may still benefit from practical rehabilitation and quality-of-life support.
 
-[For the person with symptoms](#for-the-person-with-symptoms) · [For family, friends and supporters](#for-family-friends-and-supporters) · [For clinicians](#for-clinicians) · [Research and evidence](#research-and-evidence)
 
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/12-functional-cognitive-disorder.md) · [Related course page](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
-
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 <a id="research-and-evidence"></a>
 
@@ -131,3 +158,16 @@ The digital study also reported negative experiences, including increased anxiet
 | <a id="citation-5"></a>5 | [FND-CIT-0187](../../research/citation-index.md#fnd-cit-0187) — Cotton E, Mordecai K, McWhirter L, et al. Taking Control of Your Functional Cognitive Symptoms: Workbook—A Novel Intervention. *Journal of Neuropsychiatry and Clinical Neurosciences*. 2026;38(2):153–162. Published online October 3, 2025. [DOI](https://doi.org/10.1176/appi.neuropsych.20240231). | Intervention development with initial feedback from two people; efficacy remains untested. Bibliographic record and abstract reviewed. | — |
 
 *Source review: September 21, 2026 · Cognitive-neurology, neuropsychology, lived-experience and accessibility review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/12-functional-cognitive-disorder.md) · [Related course page](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

@@ -139,6 +139,8 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0194](#fnd-cit-0194) | Choi et al., 2021 | Small randomized active comparison | VR vestibular exercise and optokinetic stimulation | [PPPD overview](../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md); [Making Busy Visual Settings More Manageable](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/04-visual-motion.md); [Considering Supervised Visual-Motion or Virtual-Reality Practice](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/10-visual-motion-technology.md) |
 | [FND-CIT-0195](#fnd-cit-0195) | NHS, accessed September 22, 2026 | Public medicine guidance | Antidepressant safety and withdrawal | [PPPD overview](../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md); [Discussing an SSRI or SNRI With Your Prescriber](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/12-medication-discussion.md) |
 | [FND-CIT-0196](#fnd-cit-0196) | Neurosymptoms.org, accessed September 22, 2026 | Specialist patient education | PPPD explanation and care context | [PPPD overview](../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md); [Building a Vestibular Rehabilitation Plan That Fits You](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/01-individual-vestibular-plan.md); [Returning to Places and Activities That Matter](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/07-community-activities.md); [Keeping Other Causes of Dizziness in the Care Plan](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/09-coexisting-conditions.md); [Discussing an SSRI or SNRI With Your Prescriber](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/12-medication-discussion.md); [Making a Plan for Flares and Changing Dizziness](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/13-flare-and-review-plan.md) |
+| [FND-CIT-0197](#fnd-cit-0197) | NHS. Bell’s palsy. [Source](https://www.nhs.uk/conditions/bells-palsy/). Accessed September 22, 2026. | Adjacent facial-nerve and eye-protection guidance; does not diagnose FND or establish an FND exercise programme. | Functional facial symptoms | [Detailed collection](../reference/recovery-techniques/functional_facial_symptoms/README.md) |
+| [FND-CIT-0198](#fnd-cit-0198) | University College London Hospitals NHS Foundation Trust. Complex Facial Clinic: botulinum toxin injections as part of the clinic treatment. [Source](https://www.uclh.nhs.uk/patients-and-visitors/patient-information-pages/complex-facial-clinic-botulinum-toxin-injections-part-clinic-treatment). Accessed September 22, 2026. | Adjacent facial-palsy/synkinesis treatment and adverse-effect information; not evidence of efficacy for functional facial symptoms. | Functional facial symptoms | [Detailed collection](../reference/recovery-techniques/functional_facial_symptoms/README.md) |
 
 ## Functional speech and voice detailed-page citation use map
 
@@ -1644,3 +1646,36 @@ Thirteen original entries expanded September 22, 2026. No new intervention was a
 | [Discussing Experimental Stimulation With a Specialist](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/11-specialist-stimulation-review.md) | [FND-CIT-0041](#fnd-cit-0041); [FND-CIT-0040](#fnd-cit-0040) |
 | [Discussing an SSRI or SNRI With Your Prescriber](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/12-medication-discussion.md) | [FND-CIT-0039](#fnd-cit-0039); [FND-CIT-0195](#fnd-cit-0195); [FND-CIT-0196](#fnd-cit-0196) |
 | [Making a Plan for Flares and Changing Dizziness](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/13-flare-and-review-plan.md) | [FND-CIT-0027](#fnd-cit-0027); [FND-CIT-0192](#fnd-cit-0192); [FND-CIT-0196](#fnd-cit-0196) |
+
+## FND-CIT-0197
+
+NHS. Bell’s palsy. [Source](https://www.nhs.uk/conditions/bells-palsy/). Accessed September 22, 2026.
+
+Adjacent facial-nerve and eye-protection guidance; does not diagnose FND or establish an FND exercise programme.
+
+**Current use:** [Functional facial detailed pages](../reference/recovery-techniques/functional_facial_symptoms/README.md); see the use map below.
+
+## FND-CIT-0198
+
+University College London Hospitals NHS Foundation Trust. Complex Facial Clinic: botulinum toxin injections as part of the clinic treatment. [Source](https://www.uclh.nhs.uk/patients-and-visitors/patient-information-pages/complex-facial-clinic-botulinum-toxin-injections-part-clinic-treatment). Accessed September 22, 2026.
+
+Adjacent facial-palsy/synkinesis treatment and adverse-effect information; not evidence of efficacy for functional facial symptoms.
+
+**Current use:** [Functional facial detailed pages](../reference/recovery-techniques/functional_facial_symptoms/README.md); see the use map below.
+
+## Functional facial detailed-page citation use map
+
+Ten original entries expanded September 22, 2026. Most sources are clinical guidance or adjacent evidence. The Gros facial case does not establish component efficacy; retrospective cohorts do not establish injection benefit. Source 0093 adds the small randomized functional-dystonia comparison to the injection discussion. Sources 0197–0198 concern adjacent facial-nerve/eye safety and injection counselling, not FND efficacy. Source 0108 supports emergency assessment.
+
+| Page | Stable sources |
+| --- | --- |
+| [Understanding What Your Face Is Doing](../reference/recovery-techniques/functional_facial_symptoms/01-understanding-the-facial-pattern.md) | [FND-CIT-0056](#fnd-cit-0056); [FND-CIT-0021](#fnd-cit-0021); [FND-CIT-0028](#fnd-cit-0028); [FND-CIT-0108](#fnd-cit-0108) |
+| [Building a Rehabilitation Plan Around Daily Life](../reference/recovery-techniques/functional_facial_symptoms/02-individual-rehabilitation-plan.md) | [FND-CIT-0028](#fnd-cit-0028); [FND-CIT-0025](#fnd-cit-0025); [FND-CIT-0029](#fnd-cit-0029); [FND-CIT-0108](#fnd-cit-0108) |
+| [Making a Plan for Familiar Facial Episodes](../reference/recovery-techniques/functional_facial_symptoms/03-familiar-episode-plan.md) | [FND-CIT-0055](#fnd-cit-0055); [FND-CIT-0108](#fnd-cit-0108) |
+| [Finding Easier Movement During Conversation](../reference/recovery-techniques/functional_facial_symptoms/04-attention-and-natural-expression.md) | [FND-CIT-0028](#fnd-cit-0028); [FND-CIT-0021](#fnd-cit-0021); [FND-CIT-0025](#fnd-cit-0025); [FND-CIT-0108](#fnd-cit-0108) |
+| [Choosing a Facial or Mouth Task With Your Therapist](../reference/recovery-techniques/functional_facial_symptoms/05-selected-facial-or-mouth-task.md) | [FND-CIT-0025](#fnd-cit-0025); [FND-CIT-0021](#fnd-cit-0021); [FND-CIT-0056](#fnd-cit-0056); [FND-CIT-0108](#fnd-cit-0108) |
+| [Planning Gentle Practice Around an Assessed Trigger](../reference/recovery-techniques/functional_facial_symptoms/06-planned-trigger-practice.md) | [FND-CIT-0056](#fnd-cit-0056); [FND-CIT-0021](#fnd-cit-0021); [FND-CIT-0108](#fnd-cit-0108) |
+| [Making Your Face, Jaw and Neck More Comfortable](../reference/recovery-techniques/functional_facial_symptoms/07-comfort-and-less-effort.md) | [FND-CIT-0021](#fnd-cit-0021); [FND-CIT-0028](#fnd-cit-0028); [FND-CIT-0108](#fnd-cit-0108) |
+| [Protecting Eating, Vision and Communication](../reference/recovery-techniques/functional_facial_symptoms/08-mouth-eye-and-communication-support.md) | [FND-CIT-0025](#fnd-cit-0025); [FND-CIT-0021](#fnd-cit-0021); [FND-CIT-0056](#fnd-cit-0056); [FND-CIT-0197](#fnd-cit-0197); [FND-CIT-0108](#fnd-cit-0108) |
+| [Keeping Other Causes and Conditions in the Care Plan](../reference/recovery-techniques/functional_facial_symptoms/09-other-conditions-and-review.md) | [FND-CIT-0056](#fnd-cit-0056); [FND-CIT-0197](#fnd-cit-0197); [FND-CIT-0198](#fnd-cit-0198); [FND-CIT-0021](#fnd-cit-0021); [FND-CIT-0108](#fnd-cit-0108) |
+| [Discussing Botulinum Toxin With a Specialist](../reference/recovery-techniques/functional_facial_symptoms/10-specialist-injection-discussion.md) | [FND-CIT-0198](#fnd-cit-0198); [FND-CIT-0056](#fnd-cit-0056); [FND-CIT-0052](#fnd-cit-0052); [FND-CIT-0053](#fnd-cit-0053); [FND-CIT-0093](#fnd-cit-0093); [FND-CIT-0055](#fnd-cit-0055); [FND-CIT-0108](#fnd-cit-0108) |

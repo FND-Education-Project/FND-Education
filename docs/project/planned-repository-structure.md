@@ -78,6 +78,8 @@ The structure may change as the project develops. Priorities are predictable nav
 
 **[PPPD: thirteen detailed recovery and care pages](../../reference/recovery-techniques/persistent_postural_perceptual_dizziness/README.md)** — Thirteen original entries expanded one-to-one, plus one collection overview. Includes individualized rehabilitation, care planning and clearly bounded specialist/medication discussions. Added September 22, 2026; clinical, lived-experience and accessibility review pending.
 
+**Module 7 reference extension:** [Ten detailed functional facial recovery and care pages](../../reference/recovery-techniques/functional_facial_symptoms/README.md), one per original entry, plus a collection overview. Added September 22, 2026; specialist and human review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 

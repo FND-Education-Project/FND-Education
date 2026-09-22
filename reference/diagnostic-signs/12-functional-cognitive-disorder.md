@@ -19,10 +19,10 @@
 **Media needed:** A fictional appointment example or annotated comparison diagram; never publish protected cognitive-test material.
 
 ***
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)<br>
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
 **Further reading:** [Everything We Know About FCD](../functional-cognitive-disorder.md) explains cognitive processes, visual experiences and recovery principles. These experiences do not add new positive signs to the inventory below.
@@ -84,6 +84,13 @@ Functional cognitive symptoms can change markedly within a day or between situat
 When a familiar cognitive episode starts, reduce incoming information and multitasking. Pause the task, use one written step, calendar, checklist or other established external aid, and resume only when it is safe and useful. Sudden confusion, altered consciousness, new focal neurological symptoms or a major departure from the established pattern needs medical assessment.
 
 ***
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Family, Friends, and Other Supporters
 
 Do not quiz the person, secretly keep score or use a remembered success to dismiss a later difficulty. With permission, you can provide examples of what has changed, what remains possible and how the pattern affects daily life. Try to describe actual events rather than deciding whether the person “really forgot.”
@@ -95,6 +102,13 @@ Reduce the amount of information being presented. Use one question or instructio
 A short period of difficulty and a longer cognitive flare can both be genuine. If useful, note the task, competing demands, duration, associated FND or migraine symptoms and recovery. New confusion, a rapid change in thinking or other urgent neurological or medical symptoms still needs appropriate assessment.
 
 ***
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
 ## For Clinicians and the Care Team
 
 Characterize the relevant domain: attention, encoding, working memory, language/semantic access, executive function, recognition/familiarity, visual or nonverbal recall, visuospatial function and imagery as indicated. Face-recognition and imagery complaints are not established hallmark FCD signs; investigate the differential. Internal inconsistency should concern the same domain with context and demands accounted for. A single good performance, normal scan, normal score or treatment response cannot establish FCD. (*citations* [1](#citation-1), [2](#citation-2))
@@ -126,20 +140,16 @@ Use a fictional case with an actor or an annotated diagram showing four informat
 
 Show how the clinician looks for a meaningful pattern across all four, rather than setting up a “gotcha” memory test. Do not display copyrighted or secured test items, scoring keys or a real patient’s identifiable daily-life details. Make clear that one inconsistency is a clue, not a diagnosis.
 
-***
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
-[Research and Sources](#research-and-sources)
-***
 
 **Recovery reading:** [Thirteen detailed Functional Cognitive Disorder recovery pages](../recovery-techniques/functional_cognitive_disorder/README.md), with practical support, individual safety limits and clear distinctions between clinical guidance and early research.
 
-<!-- NAV-CONTEXT:START -->
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/12-functional-cognitive-disorder.md) · [Related course page](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
 
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
 
 ## Research and Sources
 
@@ -158,3 +168,16 @@ Show how the clinician looks for a meaningful pattern across all four, rather th
 | <a id="citation-4"></a>**[4]** | Cabreira V, Alty J, Antic S, et al. Development of a diagnostic checklist to identify functional cognitive disorder versus other neurocognitive disorders. *BMJ neurology open*. 2025;7(1):e000918. [DOI](https://doi.org/10.1136/bmjno-2024-000918). [PMID: 40034653](https://pubmed.ncbi.nlm.nih.gov/40034653/). [FND-CIT-0140](../../research/citation-index.md#fnd-cit-0140). |
 
 *Technique outline created: August 24, 2026 · Cognitive-neurology and neuropsychology review pending*
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+<!-- NAV-CONTEXT:START -->
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/12-functional-cognitive-disorder.md) · [Related course page](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
+
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->

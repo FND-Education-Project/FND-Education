@@ -12,6 +12,8 @@ The repository contains all 97 course pages: 23 module overviews and 74 focused 
 
 ## Completed foundation work
 
+- Expanded functional facial symptoms on September 22, 2026: ten original entries map one-to-one to ten pages, plus one navigation overview. Corrected the earlier audit count of eight against the initial, common-baseline and pre-expansion commits. Added adjacent safety sources FND-CIT-0197–0198. Restored full, vertically stacked audience menus in FCD and PPPD to the Module 1, page 1 format, repaired the FCD research link and retained legacy anchors. Clinical, lived-experience and accessibility review remains pending.
+
 - Expanded functional swallowing and globus on September 18, 2026: eleven original entries map one-to-one to eleven detailed pages. Corrected the earlier history audit’s count of ten using both original and baseline commits. Added ASHA safety guidance and a six-client expert framework (FND-CIT-0115–0116), with explicit aspiration, nutrition, texture, posture and medication limits. Human and specialist review remains pending.
 
 - Added functional motor and vocal/phonic tics as presentation 17 on September 17, 2026: paired diagnostic and recovery drafts, eight evidence-labelled overview entries (five treatment/formulation/coordinated-care and three supporting-care entries), Module 7 teaching, access and scope links, glossary, navigation and citation records FND-CIT-0110–0114. No detailed technique folder was created; specialist and lived-experience review is pending. Historical sixteen-list counts remain intact.
