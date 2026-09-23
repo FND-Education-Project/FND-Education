@@ -94,6 +94,8 @@ Module 1 remains the wording and structure model for later human edits:
 
 **September 23, 2026 — [Common Co-occurring Conditions](../../reference/co-occurring-conditions/README.md):** Added nine topic overviews and one collection overview, with initial treatment/recovery inventories, shared-principle explanations and FND interactions. Topics: migraine, persistent headache, tinnitus, persistent pain, fibromyalgia, fatigue, insomnia, autonomic symptoms and IBS. PPPD links to its existing collection. No new standalone technique pages or changes to the 17 diagnostic/recovery presentation count. Four audience sections and local source tables on every topic page; clinical, lived-experience and accessibility reviews remain pending.
 
+**September 23, 2026 — [Functional paralysis expansion](../../reference/recovery-techniques/functional_paralysis/README.md):** Seven original entries expanded into seven detailed pages plus one navigation overview. Body-protection material remains within equipment/care, not an extra numbered technique. Corrected the claim that no paralysis-specific controlled trial existed: the 2022 rTMS trial showed no significant active–sham advantage. No new recommended intervention; human, clinical, lived-experience and accessibility review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 

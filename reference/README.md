@@ -88,6 +88,8 @@ Clinical reviewers can assess accuracy, limits and safety. People with FND and s
 
 **[Functional cough and upper-airway symptoms: ten detailed recovery pages](recovery-techniques/functional_cough_and_upper_airway_symptoms/README.md)** — all ten original entries expanded one-to-one, plus a collection overview. Assessed cough responses, breathing coordination, everyday care and coexisting conditions; professional-consensus evidence with diagnostic and airway-safety boundaries. Added September 20, 2026; human review pending.
 
+**[Functional paralysis: seven detailed recovery and care pages](recovery-techniques/functional_paralysis/README.md)** — seven original entries expanded one-to-one, from assessed movement and task practice to equipment, responsive planning, coordinated care, familiar episodes and continuing participation. Added September 23, 2026; human and clinical review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: FND Reference Library Index](reference-index.md)
 

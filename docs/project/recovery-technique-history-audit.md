@@ -34,7 +34,7 @@ The first thirteen symptom lists were additionally checked against their initial
 | [Functional Cognitive Disorder](../../reference/recovery-techniques/12-functional-cognitive-disorder.md) | 13 | 13 | Thirteen original entries expanded one-to-one; collection overview and separate FCD background are additional navigation/education documents, not interventions. |
 | [Persistent Postural-Perceptual Dizziness](../../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md) | 13 | 13 | Thirteen original entries expanded one-to-one; September 16 audit count of twelve corrected. Collection overview is an additional navigation document. |
 | [Functional Facial Symptoms](../../reference/recovery-techniques/14-functional-facial-symptoms.md) | 10 | 10 | Ten original entries expanded one-to-one; September 16 audit count of eight corrected. Collection overview is an additional navigation document. |
-| [Functional Paralysis](../../reference/recovery-techniques/15-functional-paralysis.md) | 7 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
+| [Functional Paralysis](../../reference/recovery-techniques/15-functional-paralysis.md) | 7 | 7 | Seven original entries expanded one-to-one, plus one navigation overview. Body care stays within equipment/care; rTMS is an evidence-correction note, not an added recommended technique. |
 | [Recovery and Safety Techniques for Functional Drop Attacks](../../reference/recovery-techniques/16-functional-drop-attacks.md) | 7 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
 
 ## Original-entry to current-page mapping
@@ -360,3 +360,19 @@ All thirteen entries expand one-to-one, with no split, merger or omitted interve
 | 8. Protect mouth, swallowing, communication and eye function | [Protecting Eating, Vision and Communication](../../reference/recovery-techniques/functional_facial_symptoms/08-mouth-eye-and-communication-support.md) |
 | 9. Treat coexisting conditions | [Keeping Other Causes and Conditions in the Care Plan](../../reference/recovery-techniques/functional_facial_symptoms/09-other-conditions-and-review.md) |
 | 10. Botulinum toxin or other invasive treatment only after specialist review | [Discussing Botulinum Toxin With a Specialist](../../reference/recovery-techniques/functional_facial_symptoms/10-specialist-injection-discussion.md) |
+
+## Functional paralysis
+
+**Verified September 23, 2026:** all seven numbered entry texts match at initial commit `89c276f`, common baseline `74138f3`, and immediate pre-expansion main `b7f7a6c`. The initial commit is [89c276f](https://github.com/FND-Education-Project/FND-Education/commit/89c276f). Seven entries map one-to-one to seven pages; no split, merger or omission. The navigation README is an eighth document, not an eighth technique.
+
+| Original entry | Detailed page | Coverage note |
+| --- | --- | --- |
+| 1. Begin with movement that is actually available | [Finding a Movement You Can Start With](../../reference/recovery-techniques/functional_paralysis/01-available-movement.md) | Supported loading, rolling, reaching and contralateral/linked activity retained as assessed starting points; no unsafe standing assumption. |
+| 2. Practise a meaningful task with external focus | [Practising a Useful Task With Attention on Its Purpose](../../reference/recovery-techniques/functional_paralysis/02-meaningful-task-and-attention.md) | Objects, destination and rhythm explained; bed, sitting, transfer and mobility tasks remain conditional on current ability. |
+| 3. Use equipment to enable participation | [Using Equipment and Protecting Your Body](../../reference/recovery-techniques/functional_paralysis/03-equipment-and-body-care.md) | Wheelchairs, walkers/transfer devices, selected splints and environmental access retained; positioning, pressure/skin and joint care integrated here. |
+| 4. Build dose gradually and responsively | [Choosing a Manageable Amount of Practice](../../reference/recovery-techniques/functional_paralysis/04-responsive-practice-plan.md) | Duration, load and complexity retained; pain, sleep, fatigue, sensory/cognitive demand, orthostatic symptoms and delayed worsening included. |
+| 5. Coordinate disciplines around one plan | [Getting the Team Working From One Plan](../../reference/recovery-techniques/functional_paralysis/05-coordinated-care.md) | Physiotherapy, OT, nursing, speech-language, medical and psychological roles retained. A new rTMS research note corrects the old evidence claim without endorsing an extra intervention. |
+| 6. Prepare for episodic paralysis | [Making a Plan for Familiar Paralysis Episodes](../../reference/recovery-techniques/functional_paralysis/06-familiar-episode-plan.md) | Safe positioning, optional known movement cue and supported return retained; seizure-confined immobility follows its own event plan. |
+| 7. Plan for life even when movement does not return quickly | [Keeping Life Open While Movement Is Limited](../../reference/recovery-techniques/functional_paralysis/07-participation-and-continuing-support.md) | Education/work, relationships, parenting, transport, benefits/support applications, personal assistance and enjoyable activity retained. |
+
+The old master index had eight bullets because it separately listed body protection. That supportive-care content remains visible but was never an eighth numbered entry in the symptom overview. The 2022 sham-controlled rTMS trial is recorded as FND-CIT-0215; it does not support the former blanket “no controlled trial” statement or a claim of specific stimulation efficacy.

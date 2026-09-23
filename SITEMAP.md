@@ -715,6 +715,17 @@ Use the sections below to drill down into the course, reference library, researc
 - [Autonomic Symptoms Alongside FND](reference/co-occurring-conditions/08-autonomic-symptoms.md)
 - [Irritable Bowel Syndrome Alongside FND](reference/co-occurring-conditions/09-irritable-bowel-syndrome.md)
 
+## Functional paralysis: detailed recovery and care
+
+- [Collection overview](reference/recovery-techniques/functional_paralysis/README.md)
+- [Finding a Movement You Can Start With](reference/recovery-techniques/functional_paralysis/01-available-movement.md)
+- [Practising a Useful Task With Attention on Its Purpose](reference/recovery-techniques/functional_paralysis/02-meaningful-task-and-attention.md)
+- [Using Equipment and Protecting Your Body](reference/recovery-techniques/functional_paralysis/03-equipment-and-body-care.md)
+- [Choosing a Manageable Amount of Practice](reference/recovery-techniques/functional_paralysis/04-responsive-practice-plan.md)
+- [Getting the Team Working From One Plan](reference/recovery-techniques/functional_paralysis/05-coordinated-care.md)
+- [Making a Plan for Familiar Paralysis Episodes](reference/recovery-techniques/functional_paralysis/06-familiar-episode-plan.md)
+- [Keeping Life Open While Movement Is Limited](reference/recovery-techniques/functional_paralysis/07-participation-and-continuing-support.md)
+
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](README.md) · [Course](course/README.md) · [Reference Library](reference/README.md) · [Site Map](SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

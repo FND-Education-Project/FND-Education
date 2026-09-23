@@ -67,6 +67,8 @@ The reader understands why motor retraining often works with automatic movement 
 
 **Module 7 reference extension:** [Ten detailed functional facial recovery and care pages](../../../reference/recovery-techniques/functional_facial_symptoms/README.md), one per original entry, plus a collection overview. Added September 22, 2026; specialist and human review pending.
 
+**Module 7 reference extension:** [Seven detailed functional-paralysis recovery and care pages](../../../reference/recovery-techniques/functional_paralysis/README.md). The course-page count is unchanged.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
 

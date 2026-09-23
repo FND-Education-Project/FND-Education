@@ -37,6 +37,8 @@ Movement symptoms can look and feel very different from one another. This module
 
 Functional motor and vocal/phonic tic-like symptoms are covered in Module 7, with [dedicated diagnosis and paired recovery guidance](../../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md). Vocal symptoms may also need the communication-access support in Module 9.
 
+**Related reference:** [Functional paralysis: seven detailed recovery and care pages](../../../reference/recovery-techniques/functional_paralysis/README.md).
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Start with Functional Weakness and Paralysis](01-functional-weakness-and-paralysis.md)
 
