@@ -6,12 +6,27 @@
 
 > **Working draft:** This reference was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-This detailed index maps practical, symptom-specific material that is easier to use as a reference than as part of a course. It currently has two collections:
+This detailed index maps practical, symptom-specific material that is easier to use as a reference than as part of a course. It currently has three collections:
 
 - **[Symptom-Specific Diagnostic Signs](diagnostic-signs/README.md)** explains positive diagnostic signs and criteria, their limits, and how contributors could demonstrate them with accessible media. The collection currently covers 17 symptom presentations.
 - **[Symptom Recovery and Management Techniques](recovery-techniques/README.md)** collects research-informed rehabilitation, treatment and self-management techniques for the same 17 presentations. Its [master technique list](recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
+- **[Common Co-occurring Conditions](co-occurring-conditions/README.md)** explains nine related conditions or symptom groups, their interactions with FND and available recovery or management options. It does not add them to the 17 FND presentation categories.
 
 The diagnostic and recovery collections answer different questions. A diagnostic sign helps a qualified clinician establish or explain a diagnosis. A recovery technique is an approach that may be tried after appropriate assessment. A technique working or not working does not confirm or disprove FND.
+
+## Co-occurring conditions and symptom groups
+
+- [Migraine Alongside FND](co-occurring-conditions/01-migraine.md)
+- [Persistent Headache Alongside FND](co-occurring-conditions/02-persistent-headache.md)
+- [Tinnitus Alongside FND](co-occurring-conditions/03-tinnitus.md)
+- [Persistent Pain Alongside FND](co-occurring-conditions/04-persistent-pain.md)
+- [Fibromyalgia Alongside FND](co-occurring-conditions/05-fibromyalgia.md)
+- [Fatigue and Post-Activity Worsening Alongside FND](co-occurring-conditions/06-fatigue.md)
+- [Insomnia and Sleep Difficulties Alongside FND](co-occurring-conditions/07-insomnia.md)
+- [Autonomic Symptoms Alongside FND](co-occurring-conditions/08-autonomic-symptoms.md)
+- [Irritable Bowel Syndrome Alongside FND](co-occurring-conditions/09-irritable-bowel-syndrome.md)
+
+[PPPD remains in its existing collection](recovery-techniques/persistent_postural_perceptual_dizziness/README.md); it is linked rather than duplicated.
 
 ## Which symptoms refer to which category?
 

@@ -105,6 +105,8 @@ Co-design a baseline that protects function and avoids boom–bust cycles. If in
 [Research and Sources](#research-and-sources)
 ***
 
+**Related reference:** [Fatigue: management options and post-exertional worsening](../../../reference/co-occurring-conditions/06-fatigue.md).
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Sleep Problems and Sleep Disorders →](04-sleep-problems-and-sleep-disorders.md)
 

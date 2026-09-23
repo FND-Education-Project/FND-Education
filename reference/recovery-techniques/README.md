@@ -43,6 +43,10 @@ The collection now covers **17 symptom presentations**, including motor and voca
 
 **[Functional facial symptoms: ten detailed pages](functional_facial_symptoms/README.md)** — all ten original entries expanded, plus a collection overview. Includes pattern-specific rehabilitation, practical support and a bounded specialist-injection discussion.
 
+## Co-occurring conditions: treatment and recovery options
+
+The separate [Common Co-occurring Conditions collection](../co-occurring-conditions/README.md) introduces migraine, persistent headache, tinnitus, persistent pain, fibromyalgia, fatigue, insomnia, autonomic symptoms and IBS. Each topic has one overview with an initial technique list. These pages do not change this collection’s 17 symptom-presentation count or its original technique lists.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Recovery and Management Technique Index](technique-index.md)
 

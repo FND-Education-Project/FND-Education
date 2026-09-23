@@ -12,7 +12,7 @@
 
 **Status:** Project reference resource. Final wording remains subject to human editorial review.
 
-**Last terminology addition:** 17 September 2026 (functional tics); other entries retain their earlier review status.
+**Last terminology addition:** September 23, 2026 (co-occurring condition terms, automatically generated draft; human review pending); other entries retain their earlier review status.
 
 ---
 
@@ -202,6 +202,17 @@ An examination sign used particularly when assessing functional leg weakness. It
 
 ## I
 
+### Insomnia
+**Type: clinical term**
+
+Difficulty falling asleep, staying asleep or returning to sleep despite an adequate opportunity, with daytime effects. Exhaustion and insomnia can occur together. See [insomnia and treatment options](../reference/co-occurring-conditions/07-insomnia.md).
+
+### Irritable bowel syndrome (IBS)
+**Type: clinical diagnosis**
+
+Recurrent abdominal pain with changes in bowel habit, understood as a disorder of gut–brain interaction. It is distinct from inflammatory bowel disease and from FND. See [IBS](../reference/co-occurring-conditions/09-irritable-bowel-syndrome.md).
+
+
 ### Incongruence
 **Type: diagnostic concept**
 
@@ -240,6 +251,12 @@ A tic involving movement. Movement appearance alone does not distinguish a prima
 
 ## N
 
+### Nociplastic pain
+**Type: pain-mechanism descriptor**
+
+Pain associated with altered pain processing when tissue damage or a lesion of the sensory nervous system does not adequately explain it. Different mechanisms may coexist; this term is not a synonym for FND. See [persistent pain](../reference/co-occurring-conditions/04-persistent-pain.md).
+
+
 ### Neuroplasticity
 **Type: general neuroscience term**
 
@@ -247,12 +264,24 @@ The nervous system’s ability to change through learning, practice, experience,
 
 ## O
 
+### Orthostatic intolerance
+**Type: clinical term**
+
+Symptoms that worsen when upright and often improve when lying down. POTS is one possible syndrome, not a synonym for all upright symptoms. See [autonomic symptoms](../reference/co-occurring-conditions/08-autonomic-symptoms.md).
+
+
 ### Organic
 **Type: older contrast term — use cautiously**
 
 Historically, clinicians sometimes contrasted “organic” neurological disease with “functional” disease. This can misleadingly imply that FND is not biological or not neurological. Modern writing is usually clearer when it names the actual comparison—for example, FND versus stroke, epilepsy, multiple sclerosis, neuropathy, or another specific condition.
 
 ## P
+
+### Post-exertional malaise (PEM)
+**Type: clinical term**
+
+Worsening after exertion that may be delayed and prolonged, involving more than ordinary tiredness. Physical, cognitive, emotional and social demands can contribute. It changes activity planning, particularly in ME/CFS. See [fatigue and post-activity worsening](../reference/co-occurring-conditions/06-fatigue.md).
+
 
 ### PNES
 **Type: common older/current search term**
@@ -327,6 +356,12 @@ A metaphor introduced by Christine Miserandino to describe limited, fluctuating 
 A symptom changing in severity, pattern, context, or availability of function. Variability is common in FND and can sometimes form part of positive diagnostic findings. It does not mean symptoms are voluntary, and variability can also occur in other medical conditions.
 
 ## T
+
+### Tinnitus
+**Type: symptom term**
+
+Hearing a sound without a corresponding external sound. Management may improve sleep and reduce intrusion even when the sound remains. See [tinnitus](../reference/co-occurring-conditions/03-tinnitus.md).
+
 
 ### Tic
 

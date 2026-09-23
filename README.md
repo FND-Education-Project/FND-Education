@@ -147,9 +147,9 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 ## Find information by symptom or need
 
-**[Open the FND Reference Library](reference/README.md)** for two symptom-specific collections: positive diagnostic signs and recovery/management techniques. Each collection currently has one page for each of 17 symptom presentations, including motor and vocal/phonic functional tics, severe functional paralysis and functional drop attacks. The [master technique list](reference/recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
+**[Open the FND Reference Library](reference/README.md)** for three collections: positive diagnostic signs, recovery/management techniques, and [Common Co-occurring Conditions](reference/co-occurring-conditions/README.md). The diagnostic and recovery collections each have one overview for each of 17 symptom presentations, including motor and vocal/phonic functional tics, severe functional paralysis and functional drop attacks. The co-occurring collection adds nine topic overviews with treatment options and interactions with FND. The [master technique list](reference/recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
 
-The 32 symptom pages now explain that symptoms may be episodic, fluctuating, or longer-lasting. Diagnostic pages state which appearances they refer to and where symptoms overlap more than one category. They also include immediate safety or onset guidance and, where possible, show how a familiar recovery technique may be shortened for a flare. Community quotations are usually kept in source notebooks while their wording, source, privacy, representativeness and safety are evaluated. When selected quotations appear on an educational page, they remain clearly labelled as lived experience rather than treatment evidence.
+The 34 diagnostic and recovery overview pages explain that symptoms may be episodic, fluctuating, or longer-lasting. Diagnostic pages state which appearances they refer to and where symptoms overlap more than one category. They also include immediate safety or onset guidance and, where possible, show how a familiar recovery technique may be shortened for a flare. Community quotations are usually kept in source notebooks while their wording, source, privacy, representativeness and safety are evaluated. When selected quotations appear on an educational page, they remain clearly labelled as lived experience rather than treatment evidence.
 
 The [functional-seizure collection](reference/recovery-techniques/functional_seizures/README.md) has ten original entries represented by nine core pages, plus a paediatric programme page and two care-planning pages: twelve documents in total.
 
@@ -251,6 +251,7 @@ The project should be willing to say **“researchers do not yet know”** when 
 - [FND reference library](reference/README.md)
   - [Symptom-specific diagnostic signs](reference/diagnostic-signs/README.md)
   - [Symptom recovery and management techniques](reference/recovery-techniques/README.md)
+  - [Common Co-occurring Conditions](reference/co-occurring-conditions/README.md)
   - [Functional-seizure CBT booklet project](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/README.md)
 - [Evidence standard](docs/project/evidence-standard.md)
 - [Search and usability standards](docs/project/search-and-usability-standards.md)

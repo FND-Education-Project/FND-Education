@@ -109,6 +109,8 @@ Offer guideline-concordant migraine care and coordinate it with FND rehabilitati
 [Research and Sources](#research-and-sources)
 ***
 
+**Related reference:** [Migraine: treatment and recovery options](../../../reference/co-occurring-conditions/01-migraine.md).
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Fatigue and Post-Activity Worsening →](03-fatigue-and-post-activity-worsening.md)
 

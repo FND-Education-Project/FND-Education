@@ -101,6 +101,8 @@ Bárány criteria allow PPPD to coexist with other disorders. Diagnostic and spe
 [Research and Sources](#research-and-sources)
 ***
 
+**Related condition reference:** [Migraine alongside FND](../../co-occurring-conditions/01-migraine.md) introduces migraine treatment options and their interaction with rehabilitation.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Considering Supervised Visual-Motion or Virtual-Reality Practice](10-visual-motion-technology.md)
 

@@ -67,6 +67,8 @@ The reader understands why these problems deserve care in their own right and sh
 
 [← Module 10: Cognition, Memory, and Dissociation](module-10-cognition-memory-and-dissociation.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 12: Autonomic and Whole-Body Symptoms →](module-12-autonomic-and-whole-body-symptoms.md)
 
+**Related reference collection:** [Common Co-occurring Conditions](../../../reference/co-occurring-conditions/README.md) — nine short overviews with recovery and treatment options; separate from the course-page count.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
 

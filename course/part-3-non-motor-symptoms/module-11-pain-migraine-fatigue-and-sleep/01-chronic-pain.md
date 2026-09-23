@@ -109,6 +109,8 @@ Set pain-specific outcomes alongside FND outcomes. Explain mechanism as a workin
 [Research and Sources](#research-and-sources)
 ***
 
+**Related reference:** [Persistent pain: recovery and management options](../../../reference/co-occurring-conditions/04-persistent-pain.md).
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Migraine →](02-migraine.md)
 

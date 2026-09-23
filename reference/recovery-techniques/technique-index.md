@@ -594,6 +594,91 @@ The pages cover the same 17 presentations as the current diagnostic-sign referen
 
 *Index created: August 25, 2026 · Functional paralysis and drop attacks added September 2, 2026 · Functional limb weakness entries expanded September 10, 2026 · Functional tremor and functional jerks entries expanded September 11, 2026 · Functional dystonia and functional gait entries expanded September 12, 2026 · Functional seizure entries expanded September 14, 2026 · Clinical and accessibility review pending*
 
+## Options for co-occurring conditions
+
+These nine [condition overviews](../co-occurring-conditions/README.md) contain initial treatment and recovery lists, separate from the FND symptom techniques above. They are not additional FND diagnoses or counts of proven FND treatments. Evidence labels and limits appear beside each option.
+
+### [Migraine Alongside FND](../co-occurring-conditions/01-migraine.md)
+
+- [An attack plan](../co-occurring-conditions/01-migraine.md#recovery-and-treatment-options)
+- [Preventive treatment](../co-occurring-conditions/01-migraine.md#recovery-and-treatment-options)
+- [Specialist options for chronic migraine](../co-occurring-conditions/01-migraine.md#recovery-and-treatment-options)
+- [Reviewing frequent rescue-medication use](../co-occurring-conditions/01-migraine.md#recovery-and-treatment-options)
+- [A manageable daily rhythm](../co-occurring-conditions/01-migraine.md#recovery-and-treatment-options)
+- [Selected procedural or non-drug options](../co-occurring-conditions/01-migraine.md#recovery-and-treatment-options)
+- [Migraine-focused behavioural treatment](../co-occurring-conditions/01-migraine.md#recovery-and-treatment-options)
+
+### [Persistent Headache Alongside FND](../co-occurring-conditions/02-persistent-headache.md)
+
+- [Match treatment to the headache pattern](../co-occurring-conditions/02-persistent-headache.md#recovery-and-treatment-options)
+- [Consider prevention](../co-occurring-conditions/02-persistent-headache.md#recovery-and-treatment-options)
+- [Make acute relief sustainable](../co-occurring-conditions/02-persistent-headache.md#recovery-and-treatment-options)
+- [Consider acupuncture for chronic tension-type headache](../co-occurring-conditions/02-persistent-headache.md#recovery-and-treatment-options)
+- [Use a pain rehabilitation plan when pain remains](../co-occurring-conditions/02-persistent-headache.md#recovery-and-treatment-options)
+
+### [Tinnitus Alongside FND](../co-occurring-conditions/03-tinnitus.md)
+
+- [Hearing assessment and explanation](../co-occurring-conditions/03-tinnitus.md#recovery-and-management-options)
+- [Hearing aids when hearing loss is present](../co-occurring-conditions/03-tinnitus.md#recovery-and-management-options)
+- [Tinnitus-focused CBT](../co-occurring-conditions/03-tinnitus.md#recovery-and-management-options)
+- [Comfortable background sound](../co-occurring-conditions/03-tinnitus.md#recovery-and-management-options)
+- [Treat persistent insomnia](../co-occurring-conditions/03-tinnitus.md#recovery-and-management-options)
+- [Adjust everyday listening and demands](../co-occurring-conditions/03-tinnitus.md#recovery-and-management-options)
+
+### [Persistent Pain Alongside FND](../co-occurring-conditions/04-persistent-pain.md)
+
+- [A shared explanation and meaningful goals](../co-occurring-conditions/04-persistent-pain.md#recovery-and-management-options)
+- [Individually adapted movement](../co-occurring-conditions/04-persistent-pain.md#recovery-and-management-options)
+- [Activity planning and occupational therapy](../co-occurring-conditions/04-persistent-pain.md#recovery-and-management-options)
+- [Pain-focused CBT or acceptance and commitment therapy](../co-occurring-conditions/04-persistent-pain.md#recovery-and-management-options)
+- [Selected medicines](../co-occurring-conditions/04-persistent-pain.md#recovery-and-management-options)
+- [Acupuncture in appropriate services](../co-occurring-conditions/04-persistent-pain.md#recovery-and-management-options)
+
+### [Fibromyalgia Alongside FND](../co-occurring-conditions/05-fibromyalgia.md)
+
+- [An understandable explanation and priorities](../co-occurring-conditions/05-fibromyalgia.md#recovery-and-management-options)
+- [Adapted aerobic or strengthening activity](../co-occurring-conditions/05-fibromyalgia.md#recovery-and-management-options)
+- [Pacing and practical task changes](../co-occurring-conditions/05-fibromyalgia.md#recovery-and-management-options)
+- [Psychological treatment when useful](../co-occurring-conditions/05-fibromyalgia.md#recovery-and-management-options)
+- [Selected medication for the main difficulty](../co-occurring-conditions/05-fibromyalgia.md#recovery-and-management-options)
+- [Coordinated rehabilitation for substantial disability](../co-occurring-conditions/05-fibromyalgia.md#recovery-and-management-options)
+
+### [Fatigue and Post-Activity Worsening Alongside FND](../co-occurring-conditions/06-fatigue.md)
+
+- [Identify treatable contributors](../co-occurring-conditions/06-fatigue.md#recovery-and-management-options)
+- [Plan around available energy](../co-occurring-conditions/06-fatigue.md#recovery-and-management-options)
+- [Use equipment and practical help](../co-occurring-conditions/06-fatigue.md#recovery-and-management-options)
+- [Make activity adjustment symptom-led](../co-occurring-conditions/06-fatigue.md#recovery-and-management-options)
+- [Treat coexisting insomnia or other sleep problems](../co-occurring-conditions/06-fatigue.md#recovery-and-management-options)
+- [Review what the plan actually achieves](../co-occurring-conditions/06-fatigue.md#recovery-and-management-options)
+
+### [Insomnia and Sleep Difficulties Alongside FND](../co-occurring-conditions/07-insomnia.md)
+
+- [Multicomponent CBT-I](../co-occurring-conditions/07-insomnia.md#recovery-and-treatment-options)
+- [Rebuild the bed–sleep connection](../co-occurring-conditions/07-insomnia.md#recovery-and-treatment-options)
+- [Adjust sleep timing with clinical guidance](../co-occurring-conditions/07-insomnia.md#recovery-and-treatment-options)
+- [Reduce the struggle around sleep](../co-occurring-conditions/07-insomnia.md#recovery-and-treatment-options)
+- [Make the surroundings and routine supportive](../co-occurring-conditions/07-insomnia.md#recovery-and-treatment-options)
+
+### [Autonomic Symptoms Alongside FND](../co-occurring-conditions/08-autonomic-symptoms.md)
+
+- [Understand the measured pattern](../co-occurring-conditions/08-autonomic-symptoms.md#management-and-recovery-options)
+- [Use practical upright-tolerance strategies](../co-occurring-conditions/08-autonomic-symptoms.md#management-and-recovery-options)
+- [Discuss fluid, salt and compression where appropriate](../co-occurring-conditions/08-autonomic-symptoms.md#management-and-recovery-options)
+- [Adapt physical rehabilitation to the pattern](../co-occurring-conditions/08-autonomic-symptoms.md#management-and-recovery-options)
+- [Discuss targeted medication if needed](../co-occurring-conditions/08-autonomic-symptoms.md#management-and-recovery-options)
+- [Reduce unnecessary daily effort](../co-occurring-conditions/08-autonomic-symptoms.md#management-and-recovery-options)
+
+### [Irritable Bowel Syndrome Alongside FND](../co-occurring-conditions/09-irritable-bowel-syndrome.md)
+
+- [Match care to the bowel pattern](../co-occurring-conditions/09-irritable-bowel-syndrome.md#recovery-and-management-options)
+- [Review meals and fibre](../co-occurring-conditions/09-irritable-bowel-syndrome.md#recovery-and-management-options)
+- [Consider a dietitian-supported low-FODMAP trial](../co-occurring-conditions/09-irritable-bowel-syndrome.md#recovery-and-management-options)
+- [Use subtype-directed medicines](../co-occurring-conditions/09-irritable-bowel-syndrome.md#recovery-and-management-options)
+- [IBS-focused CBT](../co-occurring-conditions/09-irritable-bowel-syndrome.md#recovery-and-management-options)
+- [Gut-directed hypnotherapy](../co-occurring-conditions/09-irritable-bowel-syndrome.md#recovery-and-management-options)
+- [Plan access around real life](../co-occurring-conditions/09-irritable-bowel-syndrome.md#recovery-and-management-options)
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Recovery Techniques for Functional Limb Weakness](01-functional-limb-weakness.md)
 

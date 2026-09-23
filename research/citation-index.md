@@ -385,6 +385,8 @@ Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recomm
 
 Use this consensus source for flexible, person-chosen functional goals and its description of recovery as potentially involving remission and exacerbation. It is professional guidance rather than a prognosis study and should not be used to predict one person’s outcome.
 
+**Additional current use — co-occurring conditions:** [Persistent Pain Alongside FND](../reference/co-occurring-conditions/04-persistent-pain.md); [Fibromyalgia Alongside FND](../reference/co-occurring-conditions/05-fibromyalgia.md); [Fatigue and Post-Activity Worsening Alongside FND](../reference/co-occurring-conditions/06-fatigue.md); [Autonomic Symptoms Alongside FND](../reference/co-occurring-conditions/08-autonomic-symptoms.md); [Irritable Bowel Syndrome Alongside FND](../reference/co-occurring-conditions/09-irritable-bowel-syndrome.md).
+
 ## FND-CIT-0012
 
 Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9)
@@ -408,6 +410,8 @@ Use this source for patient-reported associated symptoms, psychiatric comorbidit
 Steinruecke M, Mason I, Keen M, McWhirter L, Carson AJ, Stone J, Hoeritzauer I. Pain and functional neurological disorder: a systematic review and meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*. 2024;95(9):874–885. [https://doi.org/10.1136/jnnp-2023-332810](https://doi.org/10.1136/jnnp-2023-332810)
 
 Use this source for the frequency and clinical importance of pain and pain-related diagnoses, including complex regional pain syndrome, irritable bowel syndrome and fibromyalgia. Its pooled estimates are heterogeneous group findings and should not be used to predict one person’s presentation.
+
+**Additional current use — co-occurring conditions:** [Persistent Headache Alongside FND](../reference/co-occurring-conditions/02-persistent-headache.md); [Persistent Pain Alongside FND](../reference/co-occurring-conditions/04-persistent-pain.md); [Fibromyalgia Alongside FND](../reference/co-occurring-conditions/05-fibromyalgia.md); [Irritable Bowel Syndrome Alongside FND](../reference/co-occurring-conditions/09-irritable-bowel-syndrome.md).
 
 ## FND-CIT-0016
 
@@ -615,6 +619,8 @@ Stone J, Coebergh J, Khoja L, Butler M, Nicholson TR, Dodick DW. Migraine and fu
 
 Use this source for the relationship between migraine and FND. The review found clearer evidence of increased migraine frequency in functional seizures than in functional motor or wider FND groups; it should not be used alone to establish a general family of functional disorders.
 
+**Additional current use — co-occurring conditions:** [Migraine Alongside FND](../reference/co-occurring-conditions/01-migraine.md); [Persistent Headache Alongside FND](../reference/co-occurring-conditions/02-persistent-headache.md).
+
 ## FND-CIT-0050
 
 Nightscales R, McCartney L, Auvrez C, et al. Mortality in patients with psychogenic nonepileptic seizures. *Neurology*. 2020;95(6):e643–e652. [https://doi.org/10.1212/WNL.0000000000009855](https://doi.org/10.1212/WNL.0000000000009855)
@@ -705,6 +711,8 @@ Paredes-Echeverri S, Maggio J, Bègue I, Pick S, Nicholson TR, Perez DL. Autonom
 
 Use this review for heterogeneous group-level autonomic findings in FND and its call for larger, phenotype-aware research. Do not turn resting heart rate, heart-rate variability or peri-ictal findings into an individual FND diagnostic test, universal mechanism or measure of “spoons.”
 
+**Additional current use — co-occurring conditions:** [Autonomic Symptoms Alongside FND](../reference/co-occurring-conditions/08-autonomic-symptoms.md).
+
 ## FND-CIT-0065
 
 Jason LA, Muldowney K, Torres-Harding S. The Energy Envelope Theory and myalgic encephalomyelitis/chronic fatigue syndrome. *AAOHN Journal*. 2008;56(5):189–195. [https://doi.org/10.3928/08910162-20080501-06](https://doi.org/10.3928/08910162-20080501-06)
@@ -716,6 +724,8 @@ Use this source to describe the Energy Envelope Theory in its actual ME/CFS cont
 Sanal-Hayes NEM, McLaughlin M, Hayes LD, et al. A scoping review of “pacing” for management of myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS): lessons learned for the long COVID pandemic. *Journal of Translational Medicine*. 2023;21:720. [https://doi.org/10.1186/s12967-023-04587-5](https://doi.org/10.1186/s12967-023-04587-5)
 
 Use this review for the diversity and uncertainty of pacing evidence in ME/CFS. Across 17 included studies, 11 reported benefits, four no effect and two a detrimental effect relative to their comparison; designs, delivery and outcomes varied, and methodological quality was poor to fair. Do not present this as FND-specific treatment evidence or as support for one universal pacing formula.
+
+**Additional current use — co-occurring conditions:** [Fatigue and Post-Activity Worsening Alongside FND](../reference/co-occurring-conditions/06-fatigue.md).
 
 ## FND-CIT-0067
 
@@ -759,11 +769,15 @@ Kannan S, Dutta A, Das A. Sleep disorders in functional neurological disorder—
 
 Use this nine-study review for evidence that sleep disturbance and insomnia are frequently reported in studied FND groups. The underlying studies and FND phenotypes were heterogeneous, and a pooled questionnaire result cannot diagnose an individual sleep disorder or establish causation.
 
+**Additional current use — co-occurring conditions:** [Tinnitus Alongside FND](../reference/co-occurring-conditions/03-tinnitus.md); [Fatigue and Post-Activity Worsening Alongside FND](../reference/co-occurring-conditions/06-fatigue.md); [Insomnia and Sleep Difficulties Alongside FND](../reference/co-occurring-conditions/07-insomnia.md).
+
 ## FND-CIT-0074
 
 Raj SR, Fedorowski A, Sheldon RS. Diagnosis and management of postural orthostatic tachycardia syndrome. *CMAJ*. 2022;194(10):E378–E385. [https://doi.org/10.1503/cmaj.211373](https://doi.org/10.1503/cmaj.211373)
 
 Use this review for POTS criteria, orthostatic assessment, conditions that can explain tachycardia and diagnosis-aware management. It is included to distinguish a coexisting autonomic syndrome from FND; it does not show that autonomic symptoms in FND are POTS.
+
+**Additional current use — co-occurring conditions:** [Autonomic Symptoms Alongside FND](../reference/co-occurring-conditions/08-autonomic-symptoms.md).
 
 ## FND-CIT-0075
 
@@ -1679,3 +1693,123 @@ Ten original entries expanded September 22, 2026. Most sources are clinical guid
 | [Protecting Eating, Vision and Communication](../reference/recovery-techniques/functional_facial_symptoms/08-mouth-eye-and-communication-support.md) | [FND-CIT-0025](#fnd-cit-0025); [FND-CIT-0021](#fnd-cit-0021); [FND-CIT-0056](#fnd-cit-0056); [FND-CIT-0197](#fnd-cit-0197); [FND-CIT-0108](#fnd-cit-0108) |
 | [Keeping Other Causes and Conditions in the Care Plan](../reference/recovery-techniques/functional_facial_symptoms/09-other-conditions-and-review.md) | [FND-CIT-0056](#fnd-cit-0056); [FND-CIT-0197](#fnd-cit-0197); [FND-CIT-0198](#fnd-cit-0198); [FND-CIT-0021](#fnd-cit-0021); [FND-CIT-0108](#fnd-cit-0108) |
 | [Discussing Botulinum Toxin With a Specialist](../reference/recovery-techniques/functional_facial_symptoms/10-specialist-injection-discussion.md) | [FND-CIT-0198](#fnd-cit-0198); [FND-CIT-0056](#fnd-cit-0056); [FND-CIT-0052](#fnd-cit-0052); [FND-CIT-0053](#fnd-cit-0053); [FND-CIT-0093](#fnd-cit-0093); [FND-CIT-0055](#fnd-cit-0055); [FND-CIT-0108](#fnd-cit-0108) |
+
+## FND-CIT-0199
+
+National Institute for Health and Care Excellence. *Headaches in over 12s: diagnosis and management*. CG150. [Recommendations](https://www.nice.org.uk/guidance/cg150/chapter/recommendations). Accessed September 23, 2026.
+
+Guideline for headache treatment and medication-overuse management; not an FND treatment trial.
+
+**Current use:** [Migraine Alongside FND](../reference/co-occurring-conditions/01-migraine.md); [Persistent Headache Alongside FND](../reference/co-occurring-conditions/02-persistent-headache.md).
+
+## FND-CIT-0200
+
+Headache Classification Committee of the International Headache Society. The International Classification of Headache Disorders, 3rd edition. *Cephalalgia*. 2018;38:1–211. [Classification](https://ichd-3.org/). doi:10.1177/0333102417738202.
+
+Diagnostic classification; supports distinctions between migraine and other persistent headache patterns, not treatment efficacy.
+
+**Current use:** [Migraine Alongside FND](../reference/co-occurring-conditions/01-migraine.md); [Persistent Headache Alongside FND](../reference/co-occurring-conditions/02-persistent-headache.md).
+
+## FND-CIT-0201
+
+National Institute for Health and Care Excellence. *Tinnitus: assessment and management*. NG155. [Recommendations](https://www.nice.org.uk/guidance/ng155/chapter/Recommendations). Accessed September 23, 2026.
+
+Tinnitus assessment and management guideline; CBT addresses tinnitus-related distress; evidence for standalone sound therapy remains limited.
+
+**Current use:** [Tinnitus Alongside FND](../reference/co-occurring-conditions/03-tinnitus.md).
+
+## FND-CIT-0202
+
+National Institute on Deafness and Other Communication Disorders. *Tinnitus*. [Patient information](https://www.nidcd.nih.gov/health/tinnitus). Accessed September 23, 2026.
+
+Official patient information on auditory pathways and management. Central-processing explanations are theories, not proof of an FND mechanism.
+
+**Current use:** [Tinnitus Alongside FND](../reference/co-occurring-conditions/03-tinnitus.md).
+
+## FND-CIT-0203
+
+International Association for the Study of Pain. *Terminology: nociplastic pain*. [Definitions](https://www.iasp-pain.org/resources/terminology/). Accessed September 23, 2026.
+
+Terminology and pain-mechanism distinctions; not a diagnostic test or intervention study.
+
+**Current use:** [Persistent Headache Alongside FND](../reference/co-occurring-conditions/02-persistent-headache.md); [Persistent Pain Alongside FND](../reference/co-occurring-conditions/04-persistent-pain.md); [Fibromyalgia Alongside FND](../reference/co-occurring-conditions/05-fibromyalgia.md).
+
+## FND-CIT-0204
+
+National Institute for Health and Care Excellence. *Chronic pain (primary and secondary) in over 16s: assessment of all chronic pain and management of chronic primary pain*. NG193. [Recommendations](https://www.nice.org.uk/guidance/ng193/chapter/recommendations). Accessed September 23, 2026.
+
+Chronic primary pain guideline; recommendations must not be generalized to every pain cause or to FND efficacy.
+
+**Current use:** [Persistent Headache Alongside FND](../reference/co-occurring-conditions/02-persistent-headache.md); [Persistent Pain Alongside FND](../reference/co-occurring-conditions/04-persistent-pain.md); [Fibromyalgia Alongside FND](../reference/co-occurring-conditions/05-fibromyalgia.md).
+
+## FND-CIT-0205
+
+Macfarlane GJ, Kronisch C, Dean LE, et al. EULAR revised recommendations for the management of fibromyalgia. *Ann Rheum Dis*. 2017;76:318–328. [doi:10.1136/annrheumdis-2016-209724](https://doi.org/10.1136/annrheumdis-2016-209724).
+
+Evidence-based recommendations: exercise received the strongest recommendation, with tailoring essential; most other interventions have weaker recommendations and modest average benefits. Not an FND cohort.
+
+**Current use:** [Fibromyalgia Alongside FND](../reference/co-occurring-conditions/05-fibromyalgia.md).
+
+## FND-CIT-0206
+
+National Institute for Health and Care Excellence. *Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management*. NG206. [Recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations). Accessed September 23, 2026.
+
+ME/CFS guideline: energy management is not a cure; fixed incremental exercise programmes are not recommended. Does not establish the cause or treatment of all FND-associated fatigue.
+
+**Current use:** [Fibromyalgia Alongside FND](../reference/co-occurring-conditions/05-fibromyalgia.md); [Fatigue and Post-Activity Worsening Alongside FND](../reference/co-occurring-conditions/06-fatigue.md); [Insomnia and Sleep Difficulties Alongside FND](../reference/co-occurring-conditions/07-insomnia.md); [Autonomic Symptoms Alongside FND](../reference/co-occurring-conditions/08-autonomic-symptoms.md).
+
+## FND-CIT-0207
+
+Edinger JD, Arnedt JT, Bertisch SM, et al. Behavioral and psychological treatments for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline. *J Clin Sleep Med*. 2021;17:255–262. [doi:10.5664/jcsm.8986](https://doi.org/10.5664/jcsm.8986).
+
+Adult insomnia guideline: strong recommendation for multicomponent CBT-I; sleep hygiene alone is insufficient. Application in complex FND requires individual adaptation.
+
+**Current use:** [Tinnitus Alongside FND](../reference/co-occurring-conditions/03-tinnitus.md); [Fatigue and Post-Activity Worsening Alongside FND](../reference/co-occurring-conditions/06-fatigue.md); [Insomnia and Sleep Difficulties Alongside FND](../reference/co-occurring-conditions/07-insomnia.md).
+
+## FND-CIT-0208
+
+Vasant DH, Paine PA, Black CJ, et al. British Society of Gastroenterology guidelines on the management of irritable bowel syndrome. *Gut*. 2021;70:1214–1240. [doi:10.1136/gutjnl-2021-324598](https://doi.org/10.1136/gutjnl-2021-324598).
+
+IBS guideline: subtype-directed care, selected dietary approaches and gut–brain behavioural therapies. Evidence strength varies; restrictive diets need nutritional safeguards. Not proof of a common FND cause.
+
+**Current use:** [Irritable Bowel Syndrome Alongside FND](../reference/co-occurring-conditions/09-irritable-bowel-syndrome.md).
+
+## FND-CIT-0209
+
+Duque L, Garza I, Cascino GD, Staab JP. Functional neurological seizures and migraine: A systematic review and case series. *Epilepsy Behav*. 2023;147:109437. [doi:10.1016/j.yebeh.2023.109437](https://doi.org/10.1016/j.yebeh.2023.109437).
+
+Review and uncontrolled case series suggest migraine can trigger functional seizures in some people; treatment associations require prospective confirmation.
+
+**Current use:** [Migraine Alongside FND](../reference/co-occurring-conditions/01-migraine.md).
+
+## FND-CIT-0210
+
+Neurosymptoms.org. *Fatigue*. [Specialist patient information](https://neurosymptoms.org/en/symptoms/common-associated-symptoms/fatigue/). Accessed September 23, 2026.
+
+Specialist account of fatigue in FND; not a controlled trial of pacing, exercise or a cure programme.
+
+**Current use:** [Fatigue and Post-Activity Worsening Alongside FND](../reference/co-occurring-conditions/06-fatigue.md).
+
+## FND-CIT-0211
+
+Robbins M. New Daily Persistent Headache. *Continuum (Minneap Minn)*. 2024;30:425–437. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38568492/).
+
+Clinical review: treatment commonly follows the migraine-like or tension-type-like phenotype; controlled NDPH-specific evidence is limited.
+
+**Current use:** [Persistent Headache Alongside FND](../reference/co-occurring-conditions/02-persistent-headache.md).
+
+## FND-CIT-0212
+
+Chowdhury D, Tomar A, Deorari V, Duggal A, Krishnan A, Koul A. Greater occipital nerve blockade for the preventive treatment of chronic migraine: A randomized double-blind placebo-controlled study. *Cephalalgia*. 2023;43:03331024221143541. [doi:10.1177/03331024221143541](https://doi.org/10.1177/03331024221143541).
+
+Small, short-term chronic migraine trial; supports a selected specialist option, not a lasting neurological reset or established FND treatment.
+
+**Current use:** [Migraine Alongside FND](../reference/co-occurring-conditions/01-migraine.md).
+
+## FND-CIT-0213
+
+Agency for Healthcare Research and Quality. *Behavioral Interventions for Migraine Prevention*. Comparative Effectiveness Review No. 270. 2024. [Report](https://effectivehealthcare.ahrq.gov/sites/default/files/related_files/cer-270-bimp.pdf).
+
+Systematic review: low-strength evidence for adult CBT, relaxation and mindfulness-based approaches; evidence insufficient for firm conclusions about adult biofeedback alone. Not an FND trial.
+
+**Current use:** [Migraine Alongside FND](../reference/co-occurring-conditions/01-migraine.md).

@@ -109,6 +109,8 @@ Treat identified disorders and coordinate sleep interventions with the person’
 [Research and Sources](#research-and-sources)
 ***
 
+**Related reference:** [Insomnia: treatment options](../../../reference/co-occurring-conditions/07-insomnia.md).
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [When Pain, Migraine, Fatigue, and Sleep Interact →](05-when-pain-migraine-fatigue-and-sleep-interact.md)
 

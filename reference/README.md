@@ -6,12 +6,13 @@
 
 > **Working draft:** This reference was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-This library contains practical material that can be opened when it is needed, without reading the course in order. Each symptom has separate pages for diagnosis and for recovery or management.
+This library contains practical material that can be opened when it is needed, without reading the course in order. The symptom collections have separate pages for diagnosis and recovery or management. A third collection covers co-occurring conditions and their interactions with FND.
 
 ## In this folder
 
 - **[Detailed reference index](reference-index.md)** — see how symptoms fit into the different categories and where important overlaps or boundaries occur.
 - **[Diagnostic techniques](#diagnostic-techniques)** — find positive signs and diagnostic criteria used by qualified clinicians.
+- **[Common co-occurring conditions](co-occurring-conditions/README.md)** — nine concise pages linking shared principles, interactions with FND and condition-specific treatment options.
 - **[Recovery techniques](#recovery-techniques)** — find research-informed treatment, rehabilitation and self-management approaches.
 
 > [!IMPORTANT]
@@ -60,6 +61,20 @@ These pages separate research-supported, clinical-consensus, emerging and commun
 - **[Functional facial symptoms](recovery-techniques/14-functional-facial-symptoms.md)** — individualized movement, positioning, communication and safety support; facial-specific evidence remains limited. [Ten detailed pages](recovery-techniques/functional_facial_symptoms/README.md) explain the original entries.
 - **[Functional paralysis](recovery-techniques/15-functional-paralysis.md)** — body protection and access first, followed by movement retraining from movement that is currently available.
 - **[Functional drop attacks](recovery-techniques/16-functional-drop-attacks.md)** — injury response, fall-risk review, mobility planning and graded return where appropriate.
+
+## Common co-occurring conditions
+
+Start with the [collection overview](co-occurring-conditions/README.md). These are separate conditions or symptom groups, not nine additional FND diagnoses. Each page introduces recovery and management options; detailed technique pages can follow later.
+
+- [Migraine Alongside FND](co-occurring-conditions/01-migraine.md)
+- [Persistent Headache Alongside FND](co-occurring-conditions/02-persistent-headache.md)
+- [Tinnitus Alongside FND](co-occurring-conditions/03-tinnitus.md)
+- [Persistent Pain Alongside FND](co-occurring-conditions/04-persistent-pain.md)
+- [Fibromyalgia Alongside FND](co-occurring-conditions/05-fibromyalgia.md)
+- [Fatigue and Post-Activity Worsening Alongside FND](co-occurring-conditions/06-fatigue.md)
+- [Insomnia and Sleep Difficulties Alongside FND](co-occurring-conditions/07-insomnia.md)
+- [Autonomic Symptoms Alongside FND](co-occurring-conditions/08-autonomic-symptoms.md)
+- [Irritable Bowel Syndrome Alongside FND](co-occurring-conditions/09-irritable-bowel-syndrome.md)
 
 ## Other recovery material
 
