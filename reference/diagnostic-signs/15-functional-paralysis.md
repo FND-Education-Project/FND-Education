@@ -177,7 +177,7 @@ Do not combine footage from different people or attempts to manufacture a contra
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Drop Attacks](16-functional-drop-attacks.md)
 
-**Related:** [← Functional Facial Symptoms](14-functional-facial-symptoms.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/15-functional-paralysis.md) · [Partial functional limb weakness](01-functional-limb-weakness.md) · [Functional seizures](06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
+**Related:** [Seven detailed recovery and care pages](../recovery-techniques/functional_paralysis/README.md) · [← Functional Facial Symptoms](14-functional-facial-symptoms.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/15-functional-paralysis.md) · [Partial functional limb weakness](01-functional-limb-weakness.md) · [Functional seizures](06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

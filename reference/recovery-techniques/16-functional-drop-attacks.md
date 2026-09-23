@@ -137,7 +137,7 @@ No controlled trial of a functional-drop-attack-specific recovery program was lo
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Tics and Tic-Like Symptoms](17-functional-tics-and-tic-like-symptoms.md)
 
-**Related:** [← Functional Paralysis](15-functional-paralysis.md) · [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/16-functional-drop-attacks.md) · [Functional gait techniques](05-functional-gait-disorder.md) · [Functional-seizure recovery](06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
+**Related:** [Previous symptom: Functional paralysis detailed pages](functional_paralysis/README.md) · [← Functional Paralysis](15-functional-paralysis.md) · [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/16-functional-drop-attacks.md) · [Functional gait techniques](05-functional-gait-disorder.md) · [Functional-seizure recovery](06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

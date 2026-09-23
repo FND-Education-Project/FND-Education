@@ -47,6 +47,8 @@ The collection now covers **17 symptom presentations**, including motor and voca
 
 The separate [Common Co-occurring Conditions collection](../co-occurring-conditions/README.md) introduces migraine, persistent headache, tinnitus, persistent pain, fibromyalgia, fatigue, insomnia, autonomic symptoms and IBS. Each topic has one overview with an initial technique list. These pages do not change this collection’s 17 symptom-presentation count or its original technique lists.
 
+**[Functional paralysis: seven detailed recovery and care pages](functional_paralysis/README.md)** — seven original entries expanded one-to-one, from assessed movement and task practice to equipment, responsive planning, coordinated care, familiar episodes and continuing participation. Added September 23, 2026; human and clinical review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Recovery and Management Technique Index](technique-index.md)
 

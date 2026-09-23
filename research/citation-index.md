@@ -325,6 +325,8 @@ Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J.
 
 Use this source for its broad clinical overview, diagnostic-pitfall table, positive-diagnosis explanation, involuntary-symptom statement, coexistence with neurological disease, and introductory treatment discussion. Do not use it as proof that one mechanism or treatment applies to every person.
 
+**Additional current use — functional paralysis:** [Finding a Movement You Can Start With](../reference/recovery-techniques/functional_paralysis/01-available-movement.md); [Practising a Useful Task With Attention on Its Purpose](../reference/recovery-techniques/functional_paralysis/02-meaningful-task-and-attention.md); [Using Equipment and Protecting Your Body](../reference/recovery-techniques/functional_paralysis/03-equipment-and-body-care.md); [Choosing a Manageable Amount of Practice](../reference/recovery-techniques/functional_paralysis/04-responsive-practice-plan.md); [Making a Plan for Familiar Paralysis Episodes](../reference/recovery-techniques/functional_paralysis/06-familiar-episode-plan.md); [Keeping Life Open While Movement Is Limited](../reference/recovery-techniques/functional_paralysis/07-participation-and-continuing-support.md); [Functional paralysis overview](../reference/recovery-techniques/15-functional-paralysis.md).
+
 ## FND-CIT-0002
 
 Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264)
@@ -387,6 +389,8 @@ Use this consensus source for flexible, person-chosen functional goals and its d
 
 **Additional current use — co-occurring conditions:** [Persistent Pain Alongside FND](../reference/co-occurring-conditions/04-persistent-pain.md); [Fibromyalgia Alongside FND](../reference/co-occurring-conditions/05-fibromyalgia.md); [Fatigue and Post-Activity Worsening Alongside FND](../reference/co-occurring-conditions/06-fatigue.md); [Autonomic Symptoms Alongside FND](../reference/co-occurring-conditions/08-autonomic-symptoms.md); [Irritable Bowel Syndrome Alongside FND](../reference/co-occurring-conditions/09-irritable-bowel-syndrome.md).
 
+**Additional current use — functional paralysis:** [Finding a Movement You Can Start With](../reference/recovery-techniques/functional_paralysis/01-available-movement.md); [Practising a Useful Task With Attention on Its Purpose](../reference/recovery-techniques/functional_paralysis/02-meaningful-task-and-attention.md); [Using Equipment and Protecting Your Body](../reference/recovery-techniques/functional_paralysis/03-equipment-and-body-care.md); [Choosing a Manageable Amount of Practice](../reference/recovery-techniques/functional_paralysis/04-responsive-practice-plan.md); [Getting the Team Working From One Plan](../reference/recovery-techniques/functional_paralysis/05-coordinated-care.md); [Making a Plan for Familiar Paralysis Episodes](../reference/recovery-techniques/functional_paralysis/06-familiar-episode-plan.md); [Keeping Life Open While Movement Is Limited](../reference/recovery-techniques/functional_paralysis/07-participation-and-continuing-support.md); [Functional paralysis overview](../reference/recovery-techniques/15-functional-paralysis.md).
+
 ## FND-CIT-0012
 
 Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9)
@@ -418,6 +422,8 @@ Use this source for the frequency and clinical importance of pain and pain-relat
 Hoeritzauer I, Pronin S, Carson A, Statham P, Demetriades AK, Stone J. The clinical features and outcome of scan-negative and scan-positive cases in suspected cauda equina syndrome: a retrospective study of 276 patients. *Journal of Neurology*. 2018;265(12):2916–2926. [https://doi.org/10.1007/s00415-018-9078-2](https://doi.org/10.1007/s00415-018-9078-2)
 
 Use this source to distinguish scan-positive from scan-negative suspected cauda equina syndrome and to support careful assessment of structural, neurological and functional explanations. It does not support withholding urgent assessment or imaging when cauda equina syndrome is suspected.
+
+**Additional current use — functional paralysis:** [Making a Plan for Familiar Paralysis Episodes](../reference/recovery-techniques/functional_paralysis/06-familiar-episode-plan.md); [Functional paralysis overview](../reference/recovery-techniques/15-functional-paralysis.md).
 
 ## FND-CIT-0017
 
@@ -493,11 +499,15 @@ Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disord
 
 Use this source for education, redirected attention, task-oriented automatic movement, symptom-specific motor retraining examples, graded activity and relapse planning. It is professional consensus, not evidence that every listed exercise has been independently tested.
 
+**Additional current use — functional paralysis:** [Finding a Movement You Can Start With](../reference/recovery-techniques/functional_paralysis/01-available-movement.md); [Practising a Useful Task With Attention on Its Purpose](../reference/recovery-techniques/functional_paralysis/02-meaningful-task-and-attention.md); [Using Equipment and Protecting Your Body](../reference/recovery-techniques/functional_paralysis/03-equipment-and-body-care.md); [Choosing a Manageable Amount of Practice](../reference/recovery-techniques/functional_paralysis/04-responsive-practice-plan.md); [Getting the Team Working From One Plan](../reference/recovery-techniques/functional_paralysis/05-coordinated-care.md); [Making a Plan for Familiar Paralysis Episodes](../reference/recovery-techniques/functional_paralysis/06-familiar-episode-plan.md); [Keeping Life Open While Movement Is Limited](../reference/recovery-techniques/functional_paralysis/07-participation-and-continuing-support.md); [Functional paralysis overview](../reference/recovery-techniques/15-functional-paralysis.md).
+
 ## FND-CIT-0029
 
 Nielsen G, Stone J, Lee TC, et al.; Physio4FMD study group. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial. *The Lancet Neurology*. 2024;23(7):675–686. [https://doi.org/10.1016/S1474-4422(24)00135-2](https://doi.org/10.1016/S1474-4422(24)00135-2)
 
 Use this source for program-level evidence about specialist FND physiotherapy. The primary 12-month physical-function outcome was not clearly superior, although several secondary and patient-rated outcomes favored specialist care; do not cite it as proof of one exercise or universal response.
+
+**Additional current use — functional paralysis:** [Finding a Movement You Can Start With](../reference/recovery-techniques/functional_paralysis/01-available-movement.md); [Getting the Team Working From One Plan](../reference/recovery-techniques/functional_paralysis/05-coordinated-care.md); [Functional paralysis overview](../reference/recovery-techniques/15-functional-paralysis.md).
 
 ## FND-CIT-0030
 
@@ -982,6 +992,8 @@ Pilot randomized study of 74 people with broadly defined functional dysphonia, f
 NHS. Symptoms of a stroke. Reviewed September 12, 2024; accessed September 17, 2026. [Source](https://www.nhs.uk/conditions/stroke/symptoms/).
 
 Public clinical safety guidance: sudden speech/language symptoms can signal stroke and require emergency assessment, even when they resolve. Adjacent safety evidence, not FND treatment research.
+
+**Additional current use — functional paralysis:** [Finding a Movement You Can Start With](../reference/recovery-techniques/functional_paralysis/01-available-movement.md); [Practising a Useful Task With Attention on Its Purpose](../reference/recovery-techniques/functional_paralysis/02-meaningful-task-and-attention.md); [Choosing a Manageable Amount of Practice](../reference/recovery-techniques/functional_paralysis/04-responsive-practice-plan.md); [Making a Plan for Familiar Paralysis Episodes](../reference/recovery-techniques/functional_paralysis/06-familiar-episode-plan.md); [Functional paralysis overview](../reference/recovery-techniques/15-functional-paralysis.md).
 
 ## FND-CIT-0109
 
@@ -1758,6 +1770,8 @@ ME/CFS guideline: energy management is not a cure; fixed incremental exercise pr
 
 **Current use:** [Fibromyalgia Alongside FND](../reference/co-occurring-conditions/05-fibromyalgia.md); [Fatigue and Post-Activity Worsening Alongside FND](../reference/co-occurring-conditions/06-fatigue.md); [Insomnia and Sleep Difficulties Alongside FND](../reference/co-occurring-conditions/07-insomnia.md); [Autonomic Symptoms Alongside FND](../reference/co-occurring-conditions/08-autonomic-symptoms.md).
 
+**Additional current use — functional paralysis:** [Choosing a Manageable Amount of Practice](../reference/recovery-techniques/functional_paralysis/04-responsive-practice-plan.md).
+
 ## FND-CIT-0207
 
 Edinger JD, Arnedt JT, Bertisch SM, et al. Behavioral and psychological treatments for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline. *J Clin Sleep Med*. 2021;17:255–262. [doi:10.5664/jcsm.8986](https://doi.org/10.5664/jcsm.8986).
@@ -1813,3 +1827,33 @@ Agency for Healthcare Research and Quality. *Behavioral Interventions for Migrai
 Systematic review: low-strength evidence for adult CBT, relaxation and mindfulness-based approaches; evidence insufficient for firm conclusions about adult biofeedback alone. Not an FND trial.
 
 **Current use:** [Migraine Alongside FND](../reference/co-occurring-conditions/01-migraine.md).
+
+## FND-CIT-0214
+
+National Institute for Health and Care Excellence. *Pressure ulcers: prevention and management*. CG179. [Recommendations](https://www.nice.org.uk/guidance/cg179/chapter/Recommendations). Accessed September 23, 2026.
+
+General pressure-injury prevention guidance for people at risk; supports assessment, repositioning and pressure redistribution, not recovery of functional movement.
+
+**Current use:** [Using Equipment and Protecting Your Body](../reference/recovery-techniques/functional_paralysis/03-equipment-and-body-care.md); [Making a Plan for Familiar Paralysis Episodes](../reference/recovery-techniques/functional_paralysis/06-familiar-episode-plan.md); [Functional paralysis overview](../reference/recovery-techniques/15-functional-paralysis.md).
+
+## FND-CIT-0215
+
+Chastan N, Etard O, Parain D, et al. Repetitive transcranial magnetic stimulation for patients with functional paralysis: a randomized controlled study. *Eur J Neurol*. 2022;29(5):1293–1302. [doi:10.1111/ene.15264](https://doi.org/10.1111/ene.15264).
+
+Sham-controlled trial, 62 participants: two active sessions did not outperform sham. Direct paralysis research, but no demonstrated specific benefit for that stimulation protocol.
+
+**Current use:** [Getting the Team Working From One Plan](../reference/recovery-techniques/functional_paralysis/05-coordinated-care.md); [Functional paralysis overview](../reference/recovery-techniques/15-functional-paralysis.md).
+
+## Functional paralysis detailed-page citation use map
+
+Seven original-entry expansions, September 23, 2026. General safety guidance, FND consensus and whole-programme trials are distinguished from technique-specific evidence. The rTMS record corrects the former no-trial claim; it does not support routine stimulation.
+
+| Page | Stable sources |
+| --- | --- |
+| [Finding a Movement You Can Start With](../reference/recovery-techniques/functional_paralysis/01-available-movement.md) | [FND-CIT-0001](#fnd-cit-0001); [FND-CIT-0028](#fnd-cit-0028); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0029](#fnd-cit-0029); [FND-CIT-0108](#fnd-cit-0108) |
+| [Practising a Useful Task With Attention on Its Purpose](../reference/recovery-techniques/functional_paralysis/02-meaningful-task-and-attention.md) | [FND-CIT-0001](#fnd-cit-0001); [FND-CIT-0028](#fnd-cit-0028); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0108](#fnd-cit-0108) |
+| [Using Equipment and Protecting Your Body](../reference/recovery-techniques/functional_paralysis/03-equipment-and-body-care.md) | [FND-CIT-0001](#fnd-cit-0001); [FND-CIT-0028](#fnd-cit-0028); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0214](#fnd-cit-0214) |
+| [Choosing a Manageable Amount of Practice](../reference/recovery-techniques/functional_paralysis/04-responsive-practice-plan.md) | [FND-CIT-0001](#fnd-cit-0001); [FND-CIT-0028](#fnd-cit-0028); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0108](#fnd-cit-0108); [FND-CIT-0206](#fnd-cit-0206) |
+| [Getting the Team Working From One Plan](../reference/recovery-techniques/functional_paralysis/05-coordinated-care.md) | [FND-CIT-0028](#fnd-cit-0028); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0029](#fnd-cit-0029); [FND-CIT-0215](#fnd-cit-0215) |
+| [Making a Plan for Familiar Paralysis Episodes](../reference/recovery-techniques/functional_paralysis/06-familiar-episode-plan.md) | [FND-CIT-0001](#fnd-cit-0001); [FND-CIT-0028](#fnd-cit-0028); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0108](#fnd-cit-0108); [FND-CIT-0214](#fnd-cit-0214); [FND-CIT-0016](#fnd-cit-0016) |
+| [Keeping Life Open While Movement Is Limited](../reference/recovery-techniques/functional_paralysis/07-participation-and-continuing-support.md) | [FND-CIT-0001](#fnd-cit-0001); [FND-CIT-0028](#fnd-cit-0028); [FND-CIT-0011](#fnd-cit-0011) |

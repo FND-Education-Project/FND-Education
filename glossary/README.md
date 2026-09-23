@@ -12,7 +12,7 @@
 
 **Status:** Project reference resource. Final wording remains subject to human editorial review.
 
-**Last terminology addition:** September 23, 2026 (co-occurring condition terms, automatically generated draft; human review pending); other entries retain their earlier review status.
+**Last terminology addition:** September 23, 2026 (co-occurring condition and functional-paralysis rehabilitation terms, automatically generated draft; human review pending); other entries retain their earlier review status.
 
 ---
 
@@ -46,6 +46,11 @@ The brain’s selective focus on some information while filtering other informat
 A way of organizing biological, psychological, and social factors that may influence illness, disability, recovery, or treatment. In FND, it should not be used as shorthand for “psychological cause.” Different factors may matter for different people, and psychological trauma or stress is not required for the diagnosis.
 
 ## C
+
+### Contracture
+**Type: physical complication**
+
+A lasting restriction in a joint’s movement. It needs assessment and is different from a limb temporarily not moving on command. See [equipment, positioning and joint care](../reference/recovery-techniques/functional_paralysis/03-equipment-and-body-care.md#protect-skin-and-joints).
 
 ### Coexisting condition / comorbidity
 **Type: general clinical term**
@@ -89,6 +94,11 @@ A sudden fall from standing or walking. In the functional-drop-attack literature
 A change in a symptom when attention is directed elsewhere. For example, some functional tremors or movements may lessen, stop, or change during distraction. Clinicians interpret distractibility together with the history and other examination findings; it is not a self-test and does not mean the symptom is deliberate.
 
 ## E
+
+### External focus
+**Type: rehabilitation term**
+
+Directing attention toward the purpose or result of an action, such as turning a page, rather than continually checking the moving body part. In FND it is an individually assessed practice option, not a test of whether symptoms are real. See [meaningful task practice](../reference/recovery-techniques/functional_paralysis/02-meaningful-task-and-attention.md).
 
 ### EEG
 **Type: diagnostic test**

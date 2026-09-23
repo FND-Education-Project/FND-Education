@@ -109,6 +109,8 @@ Assess falls, pain, fatigue, comorbidity, task demands and equipment needs. Use 
 [Research and Sources](#research-and-sources)
 ***
 
+**Related reference:** [Functional paralysis: seven detailed recovery and care pages](../../../reference/recovery-techniques/functional_paralysis/README.md).
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Tremor, Jerks, Tics, and Spasms](02-tremor-jerks-and-spasms.md)
 

@@ -200,6 +200,8 @@ Within those sections, 15 recurring authoring questions preserve the original pa
 
 **Related reference collection:** [Common Co-occurring Conditions](../../reference/co-occurring-conditions/README.md) — nine short overviews with recovery and treatment options; separate from the course-page count.
 
+**Module 7 reference extension:** [Seven detailed functional-paralysis recovery and care pages](../../reference/recovery-techniques/functional_paralysis/README.md). The course-page count is unchanged.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 

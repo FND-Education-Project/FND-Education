@@ -239,14 +239,17 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 ### [Functional paralysis](15-functional-paralysis.md)
 
-- **C** positioning, pressure relief, skin, joint and contracture prevention
-- **C** individually assessed transfers, seating, mobility aids and environmental access
-- **C** movement retraining from an available automatic, synergistic or task-linked movement
-- **C** meaningful task practice with external focus, progressed from current ability
-- **C** responsive dose planning that accounts for fatigue, pain, orthostatic and post-activity effects
-- **C** coordinated physiotherapy, occupational therapy, nursing and other relevant care
-- **E/C** a phenotype-specific episodic plan; seizure-confined immobility uses the seizure plan
-- **C** continuing participation, accessibility and quality-of-life support when movement remains limited
+Seven original entries, expanded one-to-one. [Collection overview](functional_paralysis/README.md).
+
+- **[Finding a Movement You Can Start With](functional_paralysis/01-available-movement.md)** — When a limb will not move on request, a therapist looks for a safe movement that is available within another action. **[Clinical motor-rehabilitation consensus; isolated technique efficacy uncertain]**
+- **[Practising a Useful Task With Attention on Its Purpose](functional_paralysis/02-meaningful-task-and-attention.md)** — When some movement is available, practise an everyday action with attention on its result rather than repeatedly checking the limb. **[Clinical and occupational-therapy consensus; severe-paralysis-specific component evidence limited]**
+- **[Using Equipment and Protecting Your Body](functional_paralysis/03-equipment-and-body-care.md)** — When severe movement loss makes transfers, positioning or daily access difficult, choose equipment and a body-care plan that meet current needs. **[Clinical safety and access guidance; equipment is not a proven movement-restoration treatment]**
+- **[Choosing a Manageable Amount of Practice](functional_paralysis/04-responsive-practice-plan.md)** — When practice or daily care leaves too little capacity for the rest of the day, adjust the amount and review delayed effects before increasing it. **[Individualized rehabilitation consensus; no universal progression schedule]**
+- **[Getting the Team Working From One Plan](functional_paralysis/05-coordinated-care.md)** — When movement, personal care, symptoms and practical support involve several services, agree who does what and how the plans fit together. **[Multidisciplinary clinical consensus; broader programme evidence with important limits]**
+- **[Making a Plan for Familiar Paralysis Episodes](functional_paralysis/06-familiar-episode-plan.md)** — When assessed limb immobility comes in episodes, agree safe positioning, communication, optional movement cues and a route back to the interrupted activity. **[Individualized clinical planning; an episode-stopping effect is unproven]**
+- **[Keeping Life Open While Movement Is Limited](functional_paralysis/07-participation-and-continuing-support.md)** — When paralysis continues, protect everyday choices, relationships, transport and practical support while keeping future treatment options open. **[Rehabilitation and occupational-therapy consensus; participation is a valid outcome]**
+
+**Body protection:** Positioning, pressure relief, skin and joint care are retained within [equipment and body care](functional_paralysis/03-equipment-and-body-care.md), not counted as an eighth original entry.
 
 ### [Functional drop attacks](16-functional-drop-attacks.md)
 
@@ -268,7 +271,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **Automatic and task-oriented movement retraining** — Limb weakness; paralysis; gait; dystonia. **C**
 
-**Available-movement entry point for severe paralysis** — Functional paralysis. **C**
+**[Available-movement entry point for severe paralysis](functional_paralysis/01-available-movement.md)** — When a limb will not move on request, a therapist looks for a safe movement that is available within another action. **[Clinical motor-rehabilitation consensus; isolated technique efficacy uncertain]**
 
 **[Backward, sideways and direction-change walking](functional_gait_disorder/04-backward-sideways-and-direction-change-walking.md)** — Functional gait disorder; functional ankle weakness when the alternative direction is assessed as safe and useful. **[Clinical consensus; not helpful or safe for everyone]**
 
@@ -316,9 +319,9 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Considering Supervised Visual-Motion or Virtual-Reality Practice](persistent_postural_perceptual_dizziness/10-visual-motion-technology.md)** — PPPD: When a specialist proposes technology to tailor visual practice and simpler options have been considered. **[Emerging small-study evidence; optional specialist-selected adjunct]**
 
-**Continuing accessibility and participation support** — Functional paralysis and persistent functional drop attacks. **C**
+**[Continuing accessibility and participation support](functional_paralysis/07-participation-and-continuing-support.md)** — Functional paralysis; persistent drop attacks also require access support. **[Rehabilitation and occupational-therapy consensus; participation is a valid outcome]**
 
-**Coordinated multidisciplinary care for severe motor loss** — Functional paralysis. **C**
+**[Coordinated multidisciplinary care for severe motor loss](functional_paralysis/05-coordinated-care.md)** — When movement, personal care, symptoms and practical support involve several services, agree who does what and how the plans fit together. **[Multidisciplinary clinical consensus; broader programme evidence with important limits]**
 
 **[Coordinating Gentle Lower-Rib Breathing](functional_cough_and_upper_airway_symptoms/05-lower-rib-coordination.md)** — When indicated, practise gentle lower-rib movement and unforced exhalation at rest before applying it around triggers. The goal is coordinated breathing, not maximal breath depth. **[Professional consensus; individual assessment required]**
 
@@ -345,6 +348,8 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 **[Exaggerated movement and marching](functional_gait_disorder/06-exaggerated-movement-and-marching.md)** — Functional gait disorder when a deliberately different step improves clearance or organization and can be shaped toward ordinary gait. **[Clinical consensus; direct component evidence is limited]**
 
 **[External Attention and Task Focus](functional_sensory_symptoms/07-external-attention-and-task-focus.md)** — Functional sensory symptoms. Repeatedly checking a familiar altered sensation disrupts an otherwise safe activity, and a simple external cue is tolerable. **[Clinical consensus principle; no isolated sensory-symptom efficacy claim]**
+
+**[Episode plan for familiar paralysis](functional_paralysis/06-familiar-episode-plan.md)** — When assessed limb immobility comes in episodes, agree safe positioning, communication, optional movement cues and a route back to the interrupted activity. **[Individualized clinical planning; an episode-stopping effect is unproven]**
 
 **[External focus and purposeful dual-task walking](functional_gait_disorder/07-external-focus-and-purposeful-dual-task-walking.md)** — Functional gait disorder when an external destination or simple second task improves rather than compromises walking safety. **[Clinical and occupational-therapy consensus]**
 
@@ -424,7 +429,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Making Your Face, Jaw and Neck More Comfortable](functional_facial_symptoms/07-comfort-and-less-effort.md)** — Functional facial symptoms: When pulling or an effort to correct it leaves your jaw, face or neck uncomfortable. **[Clinical comfort guidance; direct facial-treatment evidence limited]**
 
-**Meaningful functional-task practice** — Weakness; paralysis; tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; facial symptoms. **C**
+**Meaningful functional-task practice** — Weakness; [severe paralysis](functional_paralysis/02-meaningful-task-and-attention.md); tremor; jerks; dystonia; gait; sensory symptoms; speech/voice; facial symptoms. **[Clinical consensus; application differs by presentation]**
 
 **[Mirror or visual feedback for functional dystonia](functional_dystonia/06-mirror-and-visual-feedback.md)** — Weakness, tremor, dystonia, sensory symptoms and functional visual symptoms when selected visual information supports a task without increasing checking. **[Clinical consensus; direct functional-dystonia component evidence is limited]**
 
@@ -432,7 +437,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Mobility aids, guarding and fall planning for functional gait disorder](functional_gait_disorder/12-mobility-aids-guarding-and-fall-planning.md)** — Functional gait disorder when buckling, swaying, sudden gait loss, fatigue or injury risk requires fitted equipment and a setting-specific plan. **[Clinical consensus; falls assessment is supported by observational evidence]**
 
-**Mobility, seating and transfer-equipment review** — Functional paralysis; functional drop attacks. **C**
+**[Mobility, seating and transfer-equipment review](functional_paralysis/03-equipment-and-body-care.md)** — Functional paralysis; drop attacks require their own fall and mobility assessment. **[Clinical safety and access guidance; equipment is not a proven movement-restoration treatment]**
 
 **[Mobility-aid, orthosis and equipment review](functional_dystonia/10-equipment-and-orthosis-review.md)** — Weakness, gait and dystonia when equipment has a defined safety, protection or access goal and a review plan. **[Clinical consensus]**
 
@@ -464,7 +469,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **[Position and gravity change](functional_dystonia/02-position-and-gravity-change.md)** — Functional dystonia when movement is more available lying, sitting, leaning or with the limb supported. **[Clinical consensus]**
 
-**Positioning, pressure relief, skin and contracture prevention** — Functional paralysis. **C**
+**[Positioning, pressure relief, skin and contracture prevention](functional_paralysis/03-equipment-and-body-care.md#protect-skin-and-joints)** — Functional paralysis: supportive care within the equipment page. **[Clinical safety guidance; not a separate original intervention]**
 
 **[Positive explanation and a shared plan](17-functional-tics-and-tic-like-symptoms.md#positive-explanation)** — Functional tics: Ask the clinician to explain what supports the diagnosis, what remains uncertain and what help is available. Agree on one or two goals that matter to you, such as finishing a conversation or getting through a meal more comfortably. **[Clinical consensus]**
 
@@ -496,7 +501,7 @@ Eleven original entries, eleven detailed pages; see the [collection mapping](fun
 
 **Relapse and self-management plan** — All 17 symptom groups. **C**
 
-**Responsive rehabilitation dose planning from current capacity** — Functional paralysis. **C**
+**[Responsive rehabilitation dose planning from current capacity](functional_paralysis/04-responsive-practice-plan.md)** — When practice or daily care leaves too little capacity for the rest of the day, adjust the amount and review delayed effects before increasing it. **[Individualized rehabilitation consensus; no universal progression schedule]**
 
 **[Returning to Activities With Graded Trigger Practice](functional_cough_and_upper_airway_symptoms/07-graded-trigger-practice.md)** — After medical causes and safety are reviewed, practise the selected response with a mild version of a familiar trigger, then progress slowly toward real situations. Do not provoke severe respiratory symptoms at home. **[Professional consensus; individual assessment required]**
 
