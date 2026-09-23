@@ -31,6 +31,8 @@ The fifth page is a practical map for combined flares. It avoids repeating the f
 
 [For the Person With FND](01-chronic-pain.md#for-the-person-with-fnd) · [For Family, Friends, and Other Supporters](01-chronic-pain.md#for-family-friends-and-other-supporters) · [For Clinicians and the Care Team](01-chronic-pain.md#for-clinicians-and-the-care-team) · [Research and Sources](01-chronic-pain.md#research-and-sources)
 
+**Related reference:** [Common Co-occurring Conditions](../../../reference/co-occurring-conditions/README.md).
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Chronic Pain →](01-chronic-pain.md)
 

@@ -112,6 +112,8 @@ Use separate outcome measures where possible. Improvement in movement does not g
 [Research and Sources](#research-and-sources)
 ***
 
+**Related reference:** [Common Co-occurring Conditions](../../../reference/co-occurring-conditions/README.md).
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Module 12: Autonomic and Whole-Body Symptoms →](../module-12-autonomic-and-whole-body-symptoms/README.md)
 

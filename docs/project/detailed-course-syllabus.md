@@ -198,6 +198,8 @@ Within those sections, 15 recurring authoring questions preserve the original pa
 
 **Module 7 reference extension:** [Ten detailed functional facial recovery and care pages](../../reference/recovery-techniques/functional_facial_symptoms/README.md), one per original entry, plus a collection overview. Added September 22, 2026; specialist and human review pending.
 
+**Related reference collection:** [Common Co-occurring Conditions](../../reference/co-occurring-conditions/README.md) — nine short overviews with recovery and treatment options; separate from the course-page count.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 

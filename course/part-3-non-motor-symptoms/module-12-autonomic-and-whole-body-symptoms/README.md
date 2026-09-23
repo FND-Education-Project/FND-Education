@@ -29,6 +29,8 @@ The third page separates living with symptoms from learning physiology and measu
 
 [For the Person With FND](01-autonomic-symptoms-overlap-and-other-causes.md#for-the-person-with-fnd) · [For Family, Friends, and Other Supporters](01-autonomic-symptoms-overlap-and-other-causes.md#for-family-friends-and-other-supporters) · [For Clinicians and the Care Team](01-autonomic-symptoms-overlap-and-other-causes.md#for-clinicians-and-the-care-team) · [Research and Sources](01-autonomic-symptoms-overlap-and-other-causes.md#research-and-sources)
 
+**Related reference:** [Autonomic symptoms: assessment and management options](../../../reference/co-occurring-conditions/08-autonomic-symptoms.md).
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Autonomic Symptoms, Overlap, and Other Causes →](01-autonomic-symptoms-overlap-and-other-causes.md)
 

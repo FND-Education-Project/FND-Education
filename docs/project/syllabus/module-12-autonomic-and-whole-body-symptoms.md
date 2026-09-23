@@ -61,6 +61,8 @@ The reader can discuss autonomic symptoms more precisely while remaining open to
 
 [← Module 11: Pain, Migraine, Fatigue, and Sleep](module-11-pain-migraine-fatigue-and-sleep.md) · [Course syllabus](../detailed-course-syllabus.md) · [Module 13: Building an Individual Treatment Team →](module-13-building-an-individual-treatment-team.md)
 
+**Related reference collection:** [Common Co-occurring Conditions](../../../reference/co-occurring-conditions/README.md) — nine short overviews with recovery and treatment options; separate from the course-page count.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](../project-status.md) · [Core principles](../core-principles.md)
 

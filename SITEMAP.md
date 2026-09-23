@@ -702,6 +702,19 @@ Use the sections below to drill down into the course, reference library, researc
 - [Keeping Other Causes and Conditions in the Care Plan](reference/recovery-techniques/functional_facial_symptoms/09-other-conditions-and-review.md)
 - [Discussing Botulinum Toxin With a Specialist](reference/recovery-techniques/functional_facial_symptoms/10-specialist-injection-discussion.md)
 
+## Common Co-occurring Conditions
+
+- [Collection overview](reference/co-occurring-conditions/README.md)
+- [Migraine Alongside FND](reference/co-occurring-conditions/01-migraine.md)
+- [Persistent Headache Alongside FND](reference/co-occurring-conditions/02-persistent-headache.md)
+- [Tinnitus Alongside FND](reference/co-occurring-conditions/03-tinnitus.md)
+- [Persistent Pain Alongside FND](reference/co-occurring-conditions/04-persistent-pain.md)
+- [Fibromyalgia Alongside FND](reference/co-occurring-conditions/05-fibromyalgia.md)
+- [Fatigue and Post-Activity Worsening Alongside FND](reference/co-occurring-conditions/06-fatigue.md)
+- [Insomnia and Sleep Difficulties Alongside FND](reference/co-occurring-conditions/07-insomnia.md)
+- [Autonomic Symptoms Alongside FND](reference/co-occurring-conditions/08-autonomic-symptoms.md)
+- [Irritable Bowel Syndrome Alongside FND](reference/co-occurring-conditions/09-irritable-bowel-syndrome.md)
+
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](README.md) · [Course](course/README.md) · [Reference Library](reference/README.md) · [Site Map](SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
