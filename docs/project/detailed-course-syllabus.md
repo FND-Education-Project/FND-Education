@@ -202,6 +202,8 @@ Within those sections, 15 recurring authoring questions preserve the original pa
 
 **Module 7 reference extension:** [Seven detailed functional-paralysis recovery and care pages](../../reference/recovery-techniques/functional_paralysis/README.md). The course-page count is unchanged.
 
+**Module 7 reference extension:** [Seven detailed functional-drop-attack recovery and safety pages](../../reference/recovery-techniques/functional_drop_attacks/README.md). The course-page count is unchanged.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 

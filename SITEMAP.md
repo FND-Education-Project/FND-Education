@@ -726,6 +726,17 @@ Use the sections below to drill down into the course, reference library, researc
 - [Making a Plan for Familiar Paralysis Episodes](reference/recovery-techniques/functional_paralysis/06-familiar-episode-plan.md)
 - [Keeping Life Open While Movement Is Limited](reference/recovery-techniques/functional_paralysis/07-participation-and-continuing-support.md)
 
+## Functional drop attacks: detailed recovery and safety
+
+- [Collection overview](reference/recovery-techniques/functional_drop_attacks/README.md)
+- [Agreeing What to Do After a Fall](reference/recovery-techniques/functional_drop_attacks/01-injury-response-plan.md)
+- [Making Everyday Places Safer](reference/recovery-techniques/functional_drop_attacks/02-hazards-and-daily-activities.md)
+- [Choosing Support for Getting Around](reference/recovery-techniques/functional_drop_attacks/03-mobility-and-access.md)
+- [Looking for a Warning Only If There Is One](reference/recovery-techniques/functional_drop_attacks/04-warning-and-safe-response.md)
+- [Getting Up Safely After an Uninjured Event](reference/recovery-techniques/functional_drop_attacks/05-recovering-from-the-floor.md)
+- [Returning to Activities With the Right Support](reference/recovery-techniques/functional_drop_attacks/06-supported-return-to-activity.md)
+- [Keeping Other Conditions in the Care Plan](reference/recovery-techniques/functional_drop_attacks/07-overlapping-conditions-and-review.md)
+
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](README.md) · [Course](course/README.md) · [Reference Library](reference/README.md) · [Site Map](SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

@@ -96,7 +96,7 @@ Physiotherapy and occupational-therapy consensus support individualized equipmen
 |---|---|
 | <a id="citation-1"></a>**[1]** | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
 | <a id="citation-2"></a>**[2]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-3"></a>**[3]** | Mohammadi Z, Nielsen G, Stone J, et al. Falls in functional neurological disorders: prevalence, risk factors, and relationship to disease characteristics. *European Journal of Neurology*. 2026;33(6):e70665. [FND-CIT-0085](../../../research/citation-index.md#fnd-cit-0085). [https://doi.org/10.1111/ene.70665](https://doi.org/10.1111/ene.70665) |
+| <a id="citation-3"></a>**[3]** | Mohammadi Z, Keyvanfar A, Higgins R, et al. Falls in Functional Neurological Disorder: Prevalence, Risk Factors and Clinical Implications. *European Journal of Neurology*. 2026;33(6):e70665. [FND-CIT-0085](../../../research/citation-index.md#fnd-cit-0085). [https://doi.org/10.1111/ene.70665](https://doi.org/10.1111/ene.70665) |
 
 *Detailed technique page created September 12, 2026 · Clinical and accessibility review pending*
 

@@ -35,7 +35,7 @@ The first thirteen symptom lists were additionally checked against their initial
 | [Persistent Postural-Perceptual Dizziness](../../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md) | 13 | 13 | Thirteen original entries expanded one-to-one; September 16 audit count of twelve corrected. Collection overview is an additional navigation document. |
 | [Functional Facial Symptoms](../../reference/recovery-techniques/14-functional-facial-symptoms.md) | 10 | 10 | Ten original entries expanded one-to-one; September 16 audit count of eight corrected. Collection overview is an additional navigation document. |
 | [Functional Paralysis](../../reference/recovery-techniques/15-functional-paralysis.md) | 7 | 7 | Seven original entries expanded one-to-one, plus one navigation overview. Body care stays within equipment/care; rTMS is an evidence-correction note, not an added recommended technique. |
-| [Recovery and Safety Techniques for Functional Drop Attacks](../../reference/recovery-techniques/16-functional-drop-attacks.md) | 7 | Not yet expanded | Original symptom list remains the baseline for future expansion. |
+| [Recovery and Safety Techniques for Functional Drop Attacks](../../reference/recovery-techniques/16-functional-drop-attacks.md) | 7 | 7 | Seven original entries expanded one-to-one, plus one navigation overview; no additional intervention. |
 
 ## Original-entry to current-page mapping
 
@@ -376,3 +376,19 @@ All thirteen entries expand one-to-one, with no split, merger or omitted interve
 | 7. Plan for life even when movement does not return quickly | [Keeping Life Open While Movement Is Limited](../../reference/recovery-techniques/functional_paralysis/07-participation-and-continuing-support.md) | Education/work, relationships, parenting, transport, benefits/support applications, personal assistance and enjoyable activity retained. |
 
 The old master index had eight bullets because it separately listed body protection. That supportive-care content remains visible but was never an eighth numbered entry in the symptom overview. The 2022 sham-controlled rTMS trial is recorded as FND-CIT-0215; it does not support the former blanket “no controlled trial” statement or a claim of specific stimulation efficacy.
+
+## Functional drop attacks
+
+**Verified September 24, 2026:** the seven numbered entries match exactly at initial commit [89c276f](https://github.com/FND-Education-Project/FND-Education/blob/89c276f/reference/recovery-techniques/16-functional-drop-attacks.md), common baseline `74138f3` and immediate pre-expansion main `15ffb97`. Seven entries map one-to-one to seven detailed pages, with no split, merger or omission. The README is an eighth navigation document, not an eighth technique.
+
+| Original entry | Detailed page | Coverage note |
+| --- | --- | --- |
+| 1. Agree on an injury-response plan | [Agreeing What to Do After a Fall](../../reference/recovery-techniques/functional_drop_attacks/01-injury-response-plan.md) | Injury check, first aid/help thresholds, head injury, bleeding, severe pain and inability to rise or bear weight retained. |
+| 2. Reduce avoidable fall hazards | [Making Everyday Places Safer](../../reference/recovery-techniques/functional_drop_attacks/02-hazards-and-daily-activities.md) | Footwear, stairs, bathroom, sharp edges, hot items, driving assessment, heights and lone activities retained without blanket withdrawal. |
+| 3. Use the prescribed mobility strategy | [Choosing Support for Getting Around](../../reference/recovery-techniques/functional_drop_attacks/03-mobility-and-access.md) | Assessed aids, seating, companions and routes retained, including residual risk and ongoing access support. |
+| 4. Look for a warning without inventing one | [Looking for a Warning Only If There Is One](../../reference/recovery-techniques/functional_drop_attacks/04-warning-and-safe-response.md) | Brief disconnection or movement changes considered only if genuinely pre-event; no-warning pathway remains explicit. |
+| 5. Recover without turning the floor into a test | [Getting Up Safely After an Uninjured Event](../../reference/recovery-techniques/functional_drop_attacks/05-recovering-from-the-floor.md) | Pause, orientation, injury check and assessed rising method retained; no repeated standing test or untrained lifting. |
+| 6. Rebuild avoided activity gradually | [Returning to Activities With the Right Support](../../reference/recovery-techniques/functional_drop_attacks/06-supported-return-to-activity.md) | Meaningful setting, adequate support, manageable demands and responsive progression retained; CBT explained with qualitative-evidence limits. |
+| 7. Treat overlapping conditions separately | [Keeping Other Conditions in the Care Plan](../../reference/recovery-techniques/functional_drop_attacks/07-overlapping-conditions-and-review.md) | Gait/weakness, seizures, pain, dizziness, syncope, sleep/cataplexy and other contributors retained as separately assessed problems. |
+
+Evidence updates add general falls and head-injury safety records (FND-CIT-0216–0217) and correct the title/author order of existing FND-CIT-0085 without changing its ID. The targeted search did not identify a controlled drop-attack-specific treatment trial. The qualitative model is not presented as an established cause or treatment. Inherited community material remains in the overview, with its prior review date.

@@ -327,6 +327,8 @@ Use this source for its broad clinical overview, diagnostic-pitfall table, posit
 
 **Additional current use — functional paralysis:** [Finding a Movement You Can Start With](../reference/recovery-techniques/functional_paralysis/01-available-movement.md); [Practising a Useful Task With Attention on Its Purpose](../reference/recovery-techniques/functional_paralysis/02-meaningful-task-and-attention.md); [Using Equipment and Protecting Your Body](../reference/recovery-techniques/functional_paralysis/03-equipment-and-body-care.md); [Choosing a Manageable Amount of Practice](../reference/recovery-techniques/functional_paralysis/04-responsive-practice-plan.md); [Making a Plan for Familiar Paralysis Episodes](../reference/recovery-techniques/functional_paralysis/06-familiar-episode-plan.md); [Keeping Life Open While Movement Is Limited](../reference/recovery-techniques/functional_paralysis/07-participation-and-continuing-support.md); [Functional paralysis overview](../reference/recovery-techniques/15-functional-paralysis.md).
 
+**Additional current use — functional drop attacks:** [Agreeing What to Do After a Fall](../reference/recovery-techniques/functional_drop_attacks/01-injury-response-plan.md); [Making Everyday Places Safer](../reference/recovery-techniques/functional_drop_attacks/02-hazards-and-daily-activities.md); [Looking for a Warning Only If There Is One](../reference/recovery-techniques/functional_drop_attacks/04-warning-and-safe-response.md); [Getting Up Safely After an Uninjured Event](../reference/recovery-techniques/functional_drop_attacks/05-recovering-from-the-floor.md); [Keeping Other Conditions in the Care Plan](../reference/recovery-techniques/functional_drop_attacks/07-overlapping-conditions-and-review.md).
+
 ## FND-CIT-0002
 
 Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264)
@@ -390,6 +392,8 @@ Use this consensus source for flexible, person-chosen functional goals and its d
 **Additional current use — co-occurring conditions:** [Persistent Pain Alongside FND](../reference/co-occurring-conditions/04-persistent-pain.md); [Fibromyalgia Alongside FND](../reference/co-occurring-conditions/05-fibromyalgia.md); [Fatigue and Post-Activity Worsening Alongside FND](../reference/co-occurring-conditions/06-fatigue.md); [Autonomic Symptoms Alongside FND](../reference/co-occurring-conditions/08-autonomic-symptoms.md); [Irritable Bowel Syndrome Alongside FND](../reference/co-occurring-conditions/09-irritable-bowel-syndrome.md).
 
 **Additional current use — functional paralysis:** [Finding a Movement You Can Start With](../reference/recovery-techniques/functional_paralysis/01-available-movement.md); [Practising a Useful Task With Attention on Its Purpose](../reference/recovery-techniques/functional_paralysis/02-meaningful-task-and-attention.md); [Using Equipment and Protecting Your Body](../reference/recovery-techniques/functional_paralysis/03-equipment-and-body-care.md); [Choosing a Manageable Amount of Practice](../reference/recovery-techniques/functional_paralysis/04-responsive-practice-plan.md); [Getting the Team Working From One Plan](../reference/recovery-techniques/functional_paralysis/05-coordinated-care.md); [Making a Plan for Familiar Paralysis Episodes](../reference/recovery-techniques/functional_paralysis/06-familiar-episode-plan.md); [Keeping Life Open While Movement Is Limited](../reference/recovery-techniques/functional_paralysis/07-participation-and-continuing-support.md); [Functional paralysis overview](../reference/recovery-techniques/15-functional-paralysis.md).
+
+**Additional current use — functional drop attacks:** [Agreeing What to Do After a Fall](../reference/recovery-techniques/functional_drop_attacks/01-injury-response-plan.md); [Making Everyday Places Safer](../reference/recovery-techniques/functional_drop_attacks/02-hazards-and-daily-activities.md); [Choosing Support for Getting Around](../reference/recovery-techniques/functional_drop_attacks/03-mobility-and-access.md); [Looking for a Warning Only If There Is One](../reference/recovery-techniques/functional_drop_attacks/04-warning-and-safe-response.md); [Getting Up Safely After an Uninjured Event](../reference/recovery-techniques/functional_drop_attacks/05-recovering-from-the-floor.md); [Returning to Activities With the Right Support](../reference/recovery-techniques/functional_drop_attacks/06-supported-return-to-activity.md); [Keeping Other Conditions in the Care Plan](../reference/recovery-techniques/functional_drop_attacks/07-overlapping-conditions-and-review.md); [Functional drop attacks overview](../reference/recovery-techniques/16-functional-drop-attacks.md).
 
 ## FND-CIT-0012
 
@@ -500,6 +504,8 @@ Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disord
 Use this source for education, redirected attention, task-oriented automatic movement, symptom-specific motor retraining examples, graded activity and relapse planning. It is professional consensus, not evidence that every listed exercise has been independently tested.
 
 **Additional current use — functional paralysis:** [Finding a Movement You Can Start With](../reference/recovery-techniques/functional_paralysis/01-available-movement.md); [Practising a Useful Task With Attention on Its Purpose](../reference/recovery-techniques/functional_paralysis/02-meaningful-task-and-attention.md); [Using Equipment and Protecting Your Body](../reference/recovery-techniques/functional_paralysis/03-equipment-and-body-care.md); [Choosing a Manageable Amount of Practice](../reference/recovery-techniques/functional_paralysis/04-responsive-practice-plan.md); [Getting the Team Working From One Plan](../reference/recovery-techniques/functional_paralysis/05-coordinated-care.md); [Making a Plan for Familiar Paralysis Episodes](../reference/recovery-techniques/functional_paralysis/06-familiar-episode-plan.md); [Keeping Life Open While Movement Is Limited](../reference/recovery-techniques/functional_paralysis/07-participation-and-continuing-support.md); [Functional paralysis overview](../reference/recovery-techniques/15-functional-paralysis.md).
+
+**Additional current use — functional drop attacks:** [Choosing Support for Getting Around](../reference/recovery-techniques/functional_drop_attacks/03-mobility-and-access.md); [Returning to Activities With the Right Support](../reference/recovery-techniques/functional_drop_attacks/06-supported-return-to-activity.md).
 
 ## FND-CIT-0029
 
@@ -691,17 +697,23 @@ Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evi
 
 Use this retrospective cohort for the event definition, clinical features and reported overlap with dissociative symptoms, functional limb weakness and nonepileptic attacks. It supports considering FND in some idiopathic drop attacks; it does not show that every unexplained fall is functional or validate a bedside sign or treatment.
 
+**Additional current use — functional drop attacks:** [Agreeing What to Do After a Fall](../reference/recovery-techniques/functional_drop_attacks/01-injury-response-plan.md); [Choosing Support for Getting Around](../reference/recovery-techniques/functional_drop_attacks/03-mobility-and-access.md); [Looking for a Warning Only If There Is One](../reference/recovery-techniques/functional_drop_attacks/04-warning-and-safe-response.md); [Getting Up Safely After an Uninjured Event](../reference/recovery-techniques/functional_drop_attacks/05-recovering-from-the-floor.md); [Keeping Other Conditions in the Care Plan](../reference/recovery-techniques/functional_drop_attacks/07-overlapping-conditions-and-review.md); [Functional drop attacks overview](../reference/recovery-techniques/16-functional-drop-attacks.md).
+
 ## FND-CIT-0060
 
 Revell ER, Gillespie D, Morris PG, Stone J. Drop attacks as a subtype of FND: a cognitive behavioural model using grounded theory. *Epilepsy & Behavior Reports*. 2021;16:100491. [https://doi.org/10.1016/j.ebr.2021.100491](https://doi.org/10.1016/j.ebr.2021.100491)
 
 Use this interview-and-diary study of seven people for its proposed cognitive-behavioural formulation and participant experiences. It is a qualitative model-building study, not a diagnostic-accuracy study or controlled treatment trial.
 
+**Additional current use — functional drop attacks:** [Making Everyday Places Safer](../reference/recovery-techniques/functional_drop_attacks/02-hazards-and-daily-activities.md); [Looking for a Warning Only If There Is One](../reference/recovery-techniques/functional_drop_attacks/04-warning-and-safe-response.md); [Returning to Activities With the Right Support](../reference/recovery-techniques/functional_drop_attacks/06-supported-return-to-activity.md); [Functional drop attacks overview](../reference/recovery-techniques/16-functional-drop-attacks.md).
+
 ## FND-CIT-0061
 
-Stone J. Functional drop attacks. *Neurosymptoms.org*. Accessed September 2, 2026. [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/)
+Stone J. Functional drop attacks. *Neurosymptoms.org*. Accessed September 24, 2026. [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/)
 
 Use this changing specialist educational page for a plain-language description of sudden falls without obvious blackout, multiple possible causes, typical rapid recovery, injury risk and practical treatment ideas. Treat it as expert guidance rather than a trial, and preserve an access date.
+
+**Additional current use — functional drop attacks:** [Agreeing What to Do After a Fall](../reference/recovery-techniques/functional_drop_attacks/01-injury-response-plan.md); [Making Everyday Places Safer](../reference/recovery-techniques/functional_drop_attacks/02-hazards-and-daily-activities.md); [Choosing Support for Getting Around](../reference/recovery-techniques/functional_drop_attacks/03-mobility-and-access.md); [Looking for a Warning Only If There Is One](../reference/recovery-techniques/functional_drop_attacks/04-warning-and-safe-response.md); [Keeping Other Conditions in the Care Plan](../reference/recovery-techniques/functional_drop_attacks/07-overlapping-conditions-and-review.md); [Functional drop attacks overview](../reference/recovery-techniques/16-functional-drop-attacks.md).
 
 ## FND-CIT-0062
 
@@ -851,9 +863,11 @@ Use this open online survey of 118 respondents for self-reported workplace diffi
 
 ## FND-CIT-0085
 
-Mohammadi Z, Nielsen G, Stone J, et al. Falls in functional neurological disorders: prevalence, risk factors, and relationship to disease characteristics. *European Journal of Neurology*. 2026;33(6):e70665. [https://doi.org/10.1111/ene.70665](https://doi.org/10.1111/ene.70665)
+Mohammadi Z, Keyvanfar A, Higgins R, et al. Falls in Functional Neurological Disorder: Prevalence, Risk Factors and Clinical Implications. *European Journal of Neurology*. 2026;33(6):e70665. [https://doi.org/10.1111/ene.70665](https://doi.org/10.1111/ene.70665)
 
 Use this cross-sectional tertiary-clinic study of 100 people with motor FND for self-reported falls, injuries and the value of multidimensional falls assessment. Retrospective reporting and specialist-clinic selection limit generalisation; the study does not show that everyone with motor FND falls or identify one aid or treatment that prevents falls.
+
+**Additional current use — functional drop attacks:** [Making Everyday Places Safer](../reference/recovery-techniques/functional_drop_attacks/02-hazards-and-daily-activities.md); [Functional drop attacks overview](../reference/recovery-techniques/16-functional-drop-attacks.md).
 
 ## FND-CIT-0086
 
@@ -994,6 +1008,8 @@ NHS. Symptoms of a stroke. Reviewed September 12, 2024; accessed September 17, 2
 Public clinical safety guidance: sudden speech/language symptoms can signal stroke and require emergency assessment, even when they resolve. Adjacent safety evidence, not FND treatment research.
 
 **Additional current use — functional paralysis:** [Finding a Movement You Can Start With](../reference/recovery-techniques/functional_paralysis/01-available-movement.md); [Practising a Useful Task With Attention on Its Purpose](../reference/recovery-techniques/functional_paralysis/02-meaningful-task-and-attention.md); [Choosing a Manageable Amount of Practice](../reference/recovery-techniques/functional_paralysis/04-responsive-practice-plan.md); [Making a Plan for Familiar Paralysis Episodes](../reference/recovery-techniques/functional_paralysis/06-familiar-episode-plan.md); [Functional paralysis overview](../reference/recovery-techniques/15-functional-paralysis.md).
+
+**Additional current use — functional drop attacks:** [Agreeing What to Do After a Fall](../reference/recovery-techniques/functional_drop_attacks/01-injury-response-plan.md); [Keeping Other Conditions in the Care Plan](../reference/recovery-techniques/functional_drop_attacks/07-overlapping-conditions-and-review.md).
 
 ## FND-CIT-0109
 
@@ -1772,6 +1788,8 @@ ME/CFS guideline: energy management is not a cure; fixed incremental exercise pr
 
 **Additional current use — functional paralysis:** [Choosing a Manageable Amount of Practice](../reference/recovery-techniques/functional_paralysis/04-responsive-practice-plan.md).
 
+**Additional current use — functional drop attacks:** [Returning to Activities With the Right Support](../reference/recovery-techniques/functional_drop_attacks/06-supported-return-to-activity.md).
+
 ## FND-CIT-0207
 
 Edinger JD, Arnedt JT, Bertisch SM, et al. Behavioral and psychological treatments for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline. *J Clin Sleep Med*. 2021;17:255–262. [doi:10.5664/jcsm.8986](https://doi.org/10.5664/jcsm.8986).
@@ -1857,3 +1875,33 @@ Seven original-entry expansions, September 23, 2026. General safety guidance, FN
 | [Getting the Team Working From One Plan](../reference/recovery-techniques/functional_paralysis/05-coordinated-care.md) | [FND-CIT-0028](#fnd-cit-0028); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0029](#fnd-cit-0029); [FND-CIT-0215](#fnd-cit-0215) |
 | [Making a Plan for Familiar Paralysis Episodes](../reference/recovery-techniques/functional_paralysis/06-familiar-episode-plan.md) | [FND-CIT-0001](#fnd-cit-0001); [FND-CIT-0028](#fnd-cit-0028); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0108](#fnd-cit-0108); [FND-CIT-0214](#fnd-cit-0214); [FND-CIT-0016](#fnd-cit-0016) |
 | [Keeping Life Open While Movement Is Limited](../reference/recovery-techniques/functional_paralysis/07-participation-and-continuing-support.md) | [FND-CIT-0001](#fnd-cit-0001); [FND-CIT-0028](#fnd-cit-0028); [FND-CIT-0011](#fnd-cit-0011) |
+
+## FND-CIT-0216
+
+NHS. *Falls*. Reviewed March 6, 2025; accessed September 24, 2026. [Source](https://www.nhs.uk/conditions/falls/).
+
+General falls safety and care guidance; not an FND trial. Transfer and activity advice needs adaptation to the person and any injury.
+
+**Current use:** [Agreeing What to Do After a Fall](../reference/recovery-techniques/functional_drop_attacks/01-injury-response-plan.md); [Making Everyday Places Safer](../reference/recovery-techniques/functional_drop_attacks/02-hazards-and-daily-activities.md); [Choosing Support for Getting Around](../reference/recovery-techniques/functional_drop_attacks/03-mobility-and-access.md); [Getting Up Safely After an Uninjured Event](../reference/recovery-techniques/functional_drop_attacks/05-recovering-from-the-floor.md); [Keeping Other Conditions in the Care Plan](../reference/recovery-techniques/functional_drop_attacks/07-overlapping-conditions-and-review.md); [Functional drop attacks overview](../reference/recovery-techniques/16-functional-drop-attacks.md).
+
+## FND-CIT-0217
+
+NHS. *Head injury and concussion*. Reviewed May 29, 2025; accessed September 24, 2026. [Source](https://www.nhs.uk/conditions/head-injury-and-concussion/).
+
+General head-injury assessment and safety guidance; applies regardless of the cause of the fall.
+
+**Current use:** [Agreeing What to Do After a Fall](../reference/recovery-techniques/functional_drop_attacks/01-injury-response-plan.md); [Getting Up Safely After an Uninjured Event](../reference/recovery-techniques/functional_drop_attacks/05-recovering-from-the-floor.md); [Functional drop attacks overview](../reference/recovery-techniques/16-functional-drop-attacks.md).
+
+## Functional drop attacks detailed-page citation use map
+
+Seven original-entry expansions, September 24, 2026. The qualitative model and observational cohorts do not establish treatment efficacy. General falls/head-injury sources provide safety guidance; broader rehabilitation recommendations are identified as indirect. Bibliographic title and author order for FND-CIT-0085 corrected against the published record; stable ID retained.
+
+| Page | Stable sources |
+| --- | --- |
+| [Agreeing What to Do After a Fall](../reference/recovery-techniques/functional_drop_attacks/01-injury-response-plan.md) | [FND-CIT-0059](#fnd-cit-0059); [FND-CIT-0061](#fnd-cit-0061); [FND-CIT-0216](#fnd-cit-0216); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0108](#fnd-cit-0108); [FND-CIT-0217](#fnd-cit-0217); [FND-CIT-0001](#fnd-cit-0001) |
+| [Making Everyday Places Safer](../reference/recovery-techniques/functional_drop_attacks/02-hazards-and-daily-activities.md) | [FND-CIT-0061](#fnd-cit-0061); [FND-CIT-0216](#fnd-cit-0216); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0001](#fnd-cit-0001); [FND-CIT-0085](#fnd-cit-0085); [FND-CIT-0060](#fnd-cit-0060) |
+| [Choosing Support for Getting Around](../reference/recovery-techniques/functional_drop_attacks/03-mobility-and-access.md) | [FND-CIT-0059](#fnd-cit-0059); [FND-CIT-0061](#fnd-cit-0061); [FND-CIT-0216](#fnd-cit-0216); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0028](#fnd-cit-0028) |
+| [Looking for a Warning Only If There Is One](../reference/recovery-techniques/functional_drop_attacks/04-warning-and-safe-response.md) | [FND-CIT-0059](#fnd-cit-0059); [FND-CIT-0061](#fnd-cit-0061); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0001](#fnd-cit-0001); [FND-CIT-0060](#fnd-cit-0060) |
+| [Getting Up Safely After an Uninjured Event](../reference/recovery-techniques/functional_drop_attacks/05-recovering-from-the-floor.md) | [FND-CIT-0059](#fnd-cit-0059); [FND-CIT-0216](#fnd-cit-0216); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0217](#fnd-cit-0217); [FND-CIT-0001](#fnd-cit-0001) |
+| [Returning to Activities With the Right Support](../reference/recovery-techniques/functional_drop_attacks/06-supported-return-to-activity.md) | [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0060](#fnd-cit-0060); [FND-CIT-0028](#fnd-cit-0028); [FND-CIT-0206](#fnd-cit-0206) |
+| [Keeping Other Conditions in the Care Plan](../reference/recovery-techniques/functional_drop_attacks/07-overlapping-conditions-and-review.md) | [FND-CIT-0059](#fnd-cit-0059); [FND-CIT-0061](#fnd-cit-0061); [FND-CIT-0216](#fnd-cit-0216); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0108](#fnd-cit-0108); [FND-CIT-0001](#fnd-cit-0001) |

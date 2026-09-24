@@ -275,6 +275,8 @@ FND Education provides general educational information only. It does not provide
 
 **[Functional paralysis: seven detailed recovery and care pages](reference/recovery-techniques/functional_paralysis/README.md)** — practical explanations of the seven original entries, with safety, access and evidence limits. One collection overview plus seven detailed pages; the 17-presentation count is unchanged.
 
+**[Functional drop attacks: seven detailed recovery and safety pages](reference/recovery-techniques/functional_drop_attacks/README.md)** — seven original entries expanded one-to-one, with clear concepts, practical examples and evidence limits. One additional navigation overview; the 17-presentation count is unchanged.
+
 <!-- NAV-CONTEXT:START -->
 **Explore:** [Course](course/README.md) · [Reference Library](reference/README.md) · [Glossary](glossary/README.md)
 

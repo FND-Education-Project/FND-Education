@@ -130,7 +130,7 @@ Entries 1, 2, 4 and 5 reflect individualized clinical guidance rather than indep
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Recovery and Management Technique Index](technique-index.md)
 
-**Related:** [← Functional Drop Attacks](16-functional-drop-attacks.md) · [Collection index](README.md) · [Paired diagnostic page](../diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [Movement course lesson](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+**Related:** [Previous symptom: Functional drop attacks detailed pages](functional_drop_attacks/README.md) · [← Functional Drop Attacks](16-functional-drop-attacks.md) · [Collection index](README.md) · [Paired diagnostic page](../diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [Movement course lesson](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

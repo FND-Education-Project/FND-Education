@@ -253,13 +253,15 @@ Seven original entries, expanded one-to-one. [Collection overview](functional_pa
 
 ### [Functional drop attacks](16-functional-drop-attacks.md)
 
-- **C** individualized injury-response and reassessment plan
-- **C** proportionate fall-hazard and activity review
-- **C** individually assessed mobility strategy and equipment
-- **E** warning recognition only when a reliable warning exists
-- **C** safe recovery from the floor without repeated testing
-- **E/C** graded return to avoided activity with adequate support
-- **C** separate treatment of overlapping gait, weakness, seizure, dizziness, sleep or syncope presentations
+Seven original entries expanded one-to-one. [Collection overview](functional_drop_attacks/README.md).
+
+- **[Agreeing What to Do After a Fall](functional_drop_attacks/01-injury-response-plan.md)** — When a sudden fall happens, a short plan helps you and others check safety, recognize injury and get the right help. **[Clinical safety guidance; injury response is supportive care]**
+- **[Making Everyday Places Safer](functional_drop_attacks/02-hazards-and-daily-activities.md)** — When attacks can arrive without warning, change the surroundings and the way an activity is done to reduce avoidable harm. **[Clinical safety and occupational-therapy guidance; direct attack prevention unproven]**
+- **[Choosing Support for Getting Around](functional_drop_attacks/03-mobility-and-access.md)** — When walking or standing leaves you vulnerable to sudden falls, choose assessed aids, seating, assistance and routes that support daily access. **[Individualized clinical and access guidance; no aid guarantees prevention]**
+- **[Looking for a Warning Only If There Is One](functional_drop_attacks/04-warning-and-safe-response.md)** — When a repeatable change genuinely comes before an attack, agree one safe response; if there is no warning, use planning that does not depend on it. **[Specialist guidance and emerging model; preventive effect uncertain]**
+- **[Getting Up Safely After an Uninjured Event](functional_drop_attacks/05-recovering-from-the-floor.md)** — After a familiar event without injury, use a previously assessed way to rise or obtain help, without repeated standing tests. **[Clinical falls-safety guidance; not an attack-stopping treatment]**
+- **[Returning to Activities With the Right Support](functional_drop_attacks/06-supported-return-to-activity.md)** — When fear, symptoms or practical barriers have narrowed daily life, choose a meaningful activity and an adequately supported first step. **[Individualized rehabilitation guidance; drop-attack-specific effectiveness uncertain]**
+- **[Keeping Other Conditions in the Care Plan](functional_drop_attacks/07-overlapping-conditions-and-review.md)** — When more than one symptom or event contributes to falls, identify the patterns and give each the assessment and treatment it needs. **[Clinical assessment and coordinated care; treatment response does not establish cause]**
 
 ## Alphabetical technique index
 
@@ -353,7 +355,7 @@ Seven original entries, expanded one-to-one. [Collection overview](functional_pa
 
 **[External focus and purposeful dual-task walking](functional_gait_disorder/07-external-focus-and-purposeful-dual-task-walking.md)** — Functional gait disorder when an external destination or simple second task improves rather than compromises walking safety. **[Clinical and occupational-therapy consensus]**
 
-**Fall-injury response and reassessment plan** — Functional drop attacks. **C**
+**[Fall-injury response and reassessment plan](functional_drop_attacks/01-injury-response-plan.md)** — When a sudden fall happens, a short plan helps you and others check safety, recognize injury and get the right help. **[Clinical safety guidance; injury response is supportive care]**
 
 **[Family, school and workplace response planning](17-functional-tics-and-tic-like-symptoms.md#support-response)** — Functional tics: Agree who should know, what help you want and how others should respond. Options include a private break space, alternative presentations and a simple explanation of involuntary words. Avoid punishment, shame or demands to suppress symptoms to earn access. **[Support and accommodation planning]**
 
@@ -381,7 +383,7 @@ Seven original entries, expanded one-to-one. [Collection overview](functional_pa
 
 **Graded exposure to avoided tasks or triggers** — Dystonia; sensory symptoms; visual symptoms; PPPD; selected functional facial symptoms. **C/E**
 
-**Graded return to avoided activity with fall support** — Functional drop attacks. **E/C**
+**[Graded return to avoided activity with fall support](functional_drop_attacks/06-supported-return-to-activity.md)** — When fear, symptoms or practical barriers have narrowed daily life, choose a meaningful activity and an adequately supported first step. **[Individualized rehabilitation guidance; drop-attack-specific effectiveness uncertain]**
 
 **[Graded Return to Clothing, Footwear and Everyday Contact](functional_sensory_symptoms/05-ordinary-contact-and-clothing.md)** — Functional sensory symptoms. A particular necessary contact is avoided or shortened because it is unpleasant, even though a smaller version may be manageable. **[Clinical consensus; use an individualized goal and retain necessary accommodations]**
 
@@ -437,7 +439,7 @@ Seven original entries, expanded one-to-one. [Collection overview](functional_pa
 
 **[Mobility aids, guarding and fall planning for functional gait disorder](functional_gait_disorder/12-mobility-aids-guarding-and-fall-planning.md)** — Functional gait disorder when buckling, swaying, sudden gait loss, fatigue or injury risk requires fitted equipment and a setting-specific plan. **[Clinical consensus; falls assessment is supported by observational evidence]**
 
-**[Mobility, seating and transfer-equipment review](functional_paralysis/03-equipment-and-body-care.md)** — Functional paralysis; drop attacks require their own fall and mobility assessment. **[Clinical safety and access guidance; equipment is not a proven movement-restoration treatment]**
+**Mobility, seating and transfer-equipment review** — [Functional paralysis](functional_paralysis/03-equipment-and-body-care.md); [functional drop attacks](functional_drop_attacks/03-mobility-and-access.md). Equipment and assistance are chosen for the assessed presentation and current access needs. **[Clinical safety and access guidance; no guarantee of attack prevention]**
 
 **[Mobility-aid, orthosis and equipment review](functional_dystonia/10-equipment-and-orthosis-review.md)** — Weakness, gait and dystonia when equipment has a defined safety, protection or access goal and a review plan. **[Clinical consensus]**
 
@@ -487,7 +489,7 @@ Seven original entries, expanded one-to-one. [Collection overview](functional_pa
 
 **[Prescriber-Led Medication Review](functional_seizures/09-prescriber-led-medication-review.md)** — Functional seizures. Clarify the purpose of every regular and rescue medicine and arrange supervised changes only when indicated, including separate treatment for coexisting epilepsy. **[Clinical guideline recommendation; no unsupervised withdrawal]**
 
-**Proportionate fall-hazard and activity review** — Functional drop attacks. **C**
+**[Proportionate fall-hazard and activity review](functional_drop_attacks/02-hazards-and-daily-activities.md)** — When attacks can arrive without warning, change the surroundings and the way an activity is done to reduce avoidable harm. **[Clinical safety and occupational-therapy guidance; direct attack prevention unproven]**
 
 **[Protecting Eating, Vision and Communication](functional_facial_symptoms/08-mouth-eye-and-communication-support.md)** — Functional facial symptoms: When facial symptoms interfere with mouth closure, eating, communication or usable vision. **[Clinical safety and access support; recovery does not require removing aids]**
 
@@ -513,7 +515,7 @@ Seven original entries, expanded one-to-one. [Collection overview](functional_pa
 
 **[Rhythmic weight shift progressing into steps](functional_gait_disorder/01-rhythmic-weight-shift-and-step-initiation.md)** — Functional gait disorder and limb weakness when supported loading permits the opposite foot to begin a step. **[Clinical consensus; direct component evidence is limited]**
 
-**Safe recovery from the floor after a familiar event** — Functional drop attacks. **C**
+**[Safe recovery from the floor after a familiar event](functional_drop_attacks/05-recovering-from-the-floor.md)** — After a familiar event without injury, use a previously assessed way to rise or obtain help, without repeated standing tests. **[Clinical falls-safety guidance; not an attack-stopping treatment]**
 
 **[Seizure-Focused Psychological Treatment](functional_seizures/05-seizure-focused-psychological-treatment.md)** — Functional seizures. Choose a structured programme around the person’s goals, such as episode coping or returning to activities, with an honest discussion of mixed trial outcomes. **[Research-supported programmes with mixed outcomes; individual components are not independently proven]**
 
@@ -559,7 +561,7 @@ Seven original entries, expanded one-to-one. [Collection overview](functional_pa
 
 **[Treatment of Coexisting Eye, Migraine and Neurological Conditions](functional_visual_symptoms/07-coexisting-eye-migraine-and-neurological-care.md)** — Functional visual symptoms. Functional visual symptoms coexist with a treatable eye, headache or neurological problem, or a changed presentation needs reassessment. **[Clinical assessment and condition-specific care; improvement does not identify a single mechanism]**
 
-**Treatment of overlapping fall and event phenotypes** — Functional drop attacks. **C**
+**[Treatment of overlapping fall and event phenotypes](functional_drop_attacks/07-overlapping-conditions-and-review.md)** — When more than one symptom or event contributes to falls, identify the patterns and give each the assessment and treatment it needs. **[Clinical assessment and coordinated care; treatment response does not establish cause]**
 
 **Trigger, warning-sign and pattern mapping** — Functional seizures; jerks; mixed episodic symptoms. **C**
 
@@ -585,7 +587,7 @@ Seven original entries, expanded one-to-one. [Collection overview](functional_pa
 
 **[Warning and Pattern Mapping](functional_seizures/03-warning-and-pattern-mapping.md)** — Functional seizures. Use a brief, low-burden record to find a usable early cue or recovery need; a trigger or remembered warning may never be identifiable. **[Specialist clinical guidance; no requirement to find a trigger]**
 
-**Warning recognition when a reliable warning exists** — Functional drop attacks. **E**
+**[Warning recognition when a reliable warning exists](functional_drop_attacks/04-warning-and-safe-response.md)** — When a repeatable change genuinely comes before an attack, agree one safe response; if there is no warning, use planning that does not depend on it. **[Specialist guidance and emerging model; preventive effect uncertain]**
 
 **[Working With Attention, Worry and the Cough Urge](functional_cough_and_upper_airway_symptoms/09-attention-and-arousal-support.md)** — Where threat, vigilance or stress amplifies the urge, treatment may include attention shifting, paced exposure or psychological care. This does not imply that the cough is fabricated. **[Professional consensus; individual assessment required]**
 
