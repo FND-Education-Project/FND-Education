@@ -71,7 +71,7 @@ A separate source notebook is used to collect public lived-experience quotations
 
 ## Functional tics: a new presentation
 
-The collection now has 17 presentations. [Functional tics and tic-like symptoms](17-functional-tics-and-tic-like-symptoms.md) adds motor and vocal/phonic coverage after the sixteen original lists. Its first overview contains five treatment/formulation/coordinated-care entries and three safety/access/support entries. There is no detailed technique folder or target page count; expansion awaits specialist and lived-experience review.
+The collection now has 17 presentations. [Functional tics and tic-like symptoms](17-functional-tics-and-tic-like-symptoms.md) adds motor and vocal/phonic coverage after the sixteen original lists. Its first overview contains five treatment/formulation/coordinated-care entries and three safety/access/support entries. The [eight detailed pages](functional_tics/README.md) expand those entries one-to-one, with an additional navigation overview. Specialist and lived-experience review remains pending.
 
 **[Functional swallowing and globus: eleven detailed pages](functional_swallowing_and_globus/README.md)** — one page per original entry, with assessment, nutrition, airway safety and treatment-evidence limits.
 

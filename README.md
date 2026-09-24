@@ -277,6 +277,8 @@ FND Education provides general educational information only. It does not provide
 
 **[Functional drop attacks: seven detailed recovery and safety pages](reference/recovery-techniques/functional_drop_attacks/README.md)** — seven original entries expanded one-to-one, with clear concepts, practical examples and evidence limits. One additional navigation overview; the 17-presentation count is unchanged.
 
+**[Functional tics: eight detailed recovery and supporting-care pages](reference/recovery-techniques/functional_tics/README.md)** — five original treatment/coordinated-care entries and three original safety/access/support entries, expanded one-to-one. One additional navigation overview; 17 symptom presentations and course-page counts are unchanged. Added September 24, 2026; human review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Explore:** [Course](course/README.md) · [Reference Library](reference/README.md) · [Glossary](glossary/README.md)
 

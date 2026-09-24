@@ -204,6 +204,8 @@ Within those sections, 15 recurring authoring questions preserve the original pa
 
 **Module 7 reference extension:** [Seven detailed functional-drop-attack recovery and safety pages](../../reference/recovery-techniques/functional_drop_attacks/README.md). The course-page count is unchanged.
 
+**[Functional tics: eight detailed recovery and supporting-care pages](../../reference/recovery-techniques/functional_tics/README.md)** — five original treatment/coordinated-care entries and three original safety/access/support entries, expanded one-to-one. One additional navigation overview; 17 symptom presentations and course-page counts are unchanged. Added September 24, 2026; human review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 

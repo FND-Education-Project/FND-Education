@@ -98,6 +98,8 @@ Module 1 remains the wording and structure model for later human edits:
 
 **September 24, 2026 — [Functional drop attacks expansion](../../reference/recovery-techniques/functional_drop_attacks/README.md):** Seven original entries expanded into seven detailed pages plus one navigation overview. No-warning attacks, injury response, assessed mobility and floor recovery, consent-based activity planning and separate care for overlapping conditions are explicit. The 17-presentation and course counts are unchanged. Clinical, lived-experience and accessibility reviews remain pending.
 
+**[Functional tics: eight detailed recovery and supporting-care pages](../../reference/recovery-techniques/functional_tics/README.md)** — five original treatment/coordinated-care entries and three original safety/access/support entries, expanded one-to-one. One additional navigation overview; 17 symptom presentations and course-page counts are unchanged. Added September 24, 2026; human review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 

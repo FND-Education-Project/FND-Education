@@ -737,6 +737,18 @@ Use the sections below to drill down into the course, reference library, researc
 - [Returning to Activities With the Right Support](reference/recovery-techniques/functional_drop_attacks/06-supported-return-to-activity.md)
 - [Keeping Other Conditions in the Care Plan](reference/recovery-techniques/functional_drop_attacks/07-overlapping-conditions-and-review.md)
 
+## Functional tics: detailed recovery and supporting care
+
+- [Collection overview](reference/recovery-techniques/functional_tics/README.md)
+- [Understanding Functional Tics and Agreeing on a Plan](reference/recovery-techniques/functional_tics/01-explanation-and-shared-plan.md)
+- [Noticing Useful Patterns Without Watching Every Tic](reference/recovery-techniques/functional_tics/02-brief-pattern-mapping.md)
+- [Understanding Therapy Options for Functional Tics](reference/recovery-techniques/functional_tics/03-individualized-therapy.md)
+- [Returning to Activities With Support](reference/recovery-techniques/functional_tics/04-supported-activities.md)
+- [Keeping Other Conditions and Medicines in the Plan](reference/recovery-techniques/functional_tics/05-coexisting-conditions.md)
+- [Making Movement and Communication Safer](reference/recovery-techniques/functional_tics/06-safety-and-communication.md)
+- [Helping Other People Respond Usefully](reference/recovery-techniques/functional_tics/07-supporter-school-and-work-plan.md)
+- [Planning for Intense Bouts and Difficult Days](reference/recovery-techniques/functional_tics/08-clusters-and-flare-plan.md)
+
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](README.md) · [Course](course/README.md) · [Reference Library](reference/README.md) · [Site Map](SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

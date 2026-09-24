@@ -235,7 +235,18 @@ Added September 17, 2026, after the original sixteen lists. There was no separat
 7. Family, school and workplace response planning — supporting safety/access/care planning.
 8. Tic-attack, cluster and flare planning — supporting safety/access/care planning.
 
-Eight overview entries; zero detailed technique pages. These are not eight proven treatments. Any later expansion must map splits, combinations and new additions against this list. The historical sixteen-list tables above remain unchanged.
+Checked September 24, 2026: the first list at `17b97f2` and immediate pre-expansion base `ecf0c3b` contain the same eight entries. They now map one-to-one to eight detailed pages, plus one navigation overview (nine documents). No splits, combinations, added interventions or omitted original examples. These are not eight proven treatments. The historical sixteen-list tables above remain unchanged.
+
+| Original entry | Detailed destination |
+|---|---|
+| 1. Positive explanation and a shared plan | [Understanding Functional Tics and Agreeing on a Plan](../../reference/recovery-techniques/functional_tics/01-explanation-and-shared-plan.md) |
+| 2. Brief pattern and context mapping | [Noticing Useful Patterns Without Watching Every Tic](../../reference/recovery-techniques/functional_tics/02-brief-pattern-mapping.md) |
+| 3. Individually formulated behavioral or psychological treatment | [Understanding Therapy Options for Functional Tics](../../reference/recovery-techniques/functional_tics/03-individualized-therapy.md) |
+| 4. Supported return to routines and valued activity | [Returning to Activities With Support](../../reference/recovery-techniques/functional_tics/04-supported-activities.md) |
+| 5. Coexisting-condition and medication review | [Keeping Other Conditions and Medicines in the Plan](../../reference/recovery-techniques/functional_tics/05-coexisting-conditions.md) |
+| 6. Motor and vocal safety and communication planning | [Making Movement and Communication Safer](../../reference/recovery-techniques/functional_tics/06-safety-and-communication.md) |
+| 7. Family, school and workplace response planning | [Helping Other People Respond Usefully](../../reference/recovery-techniques/functional_tics/07-supporter-school-and-work-plan.md) |
+| 8. Tic-attack, cluster and flare planning | [Planning for Intense Bouts and Difficult Days](../../reference/recovery-techniques/functional_tics/08-clusters-and-flare-plan.md) |
 
 ## Functional cough and upper-airway symptoms
 
