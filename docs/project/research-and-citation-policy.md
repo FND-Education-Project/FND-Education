@@ -39,6 +39,16 @@ Where relevant, explain:
 - whether other studies agree;
 - funding or conflicts of interest that materially affect interpretation.
 
+## Clinical relevance, life impact and outcome coverage
+
+Apply the [clinician-awareness and life-impact principles](core-principles.md#write-with-the-whole-clinical-team-in-mind) in each research plan. Search for quality-of-life and mental-health evidence as well as diagnostic accuracy or symptom change. Include function, participation, everyday demands, assistance, recovery cost, work/education, relationships, stigma, caregiver burden and patient-reported outcomes where relevant. Record meaningful gaps rather than manufacturing a research finding for every domain.
+
+For measures and study outcomes, explain what was assessed, under what conditions and over what period. Identify the population and whether a tool's validity, responsiveness or applicability to the relevant FND presentation is established. A normal score in a brief assessment must not be used as a proxy for low disability without evidence supporting that inference.
+
+Connect findings to everyday implications cautiously: distinguish measured impact from a plausible interpretation or an unanswered question. Do not infer sustained activity, safety, reduced assistance or improved quality of life solely from a stronger movement or lower symptom score. Patient-reported outcomes and contextual observations provide different information from examination performance; preserve that distinction.
+
+Discuss psychological symptoms, mental-health needs and quality-of-life burden without treating them as proof of the cause of FND. Explain selection effects, confounding, follow-up, measurement limits and individual variation where they affect the conclusion. No fixed number of citations or outcome domains substitutes for a relevant, balanced evidence review.
+
 ## Lived experience and community sources
 
 Patient forums and community discussions may be examined for day-to-day adaptations, coping strategies, accessibility, communication, and self-management questions that formal research has not adequately addressed.
