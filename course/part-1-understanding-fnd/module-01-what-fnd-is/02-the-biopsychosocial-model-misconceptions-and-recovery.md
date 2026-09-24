@@ -35,6 +35,9 @@ If you are able, journal or at least begin to write down when your symptoms get 
 
 Don't worry if you can't journal! Personally, my functional symptoms prevent me from remembering and I found journaling nearly impossible. However, I have been successful, over time, in understanding what triggers my symptoms to get worse.
 
+> ## Crosswords
+> - **Biopsychosocial What?** ([normal](crosswords/Biopsychosocial-What-crossword-09-2026.pdf)) ([easy](crosswords/Biopsychosocial-What-crossword-easy-09-2026.pdf)) ([answer key](crosswords/Biopsychosocial-What-crossword-answer-key-09-2026.pdf))
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>

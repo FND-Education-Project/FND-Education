@@ -38,6 +38,9 @@ A key thing to take away in this section is that FND symptoms can grow worse or 
 
 Choose one small sign of improvement that would matter in your life. It might be a symptom change, but it could also be recovering more quickly after an episode, preparing part of a meal, enjoying time with someone, asking for help more clearly, or doing an activity with less fear. Write down one sentence if it's useful. (*citations* [3](#citation-3))
 
+> ## Crosswords
+> - **Recovery** ([normal](crosswords/Recovery-crossword-09-2026.pdf)) ([easy](crosswords/Recovery-crossword-easy-09-2026.pdf)) ([answer key](crosswords/Recovery-crossword-answer-key-09-2026.pdf))
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
