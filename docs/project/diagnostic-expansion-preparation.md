@@ -97,6 +97,14 @@ These are editorial routing decisions based on the current inventory, not a new 
 | Spinal Injuries Center test | Canonical detailed home under paralysis; weakness page links with scope boundary |
 | Arm/hand-drop avoidance | Retain caution and link to unresponsiveness discussion; never convert into a weakness manoeuvre tutorial |
 
+## Clinician-awareness addition — September 24, 2026
+
+The [core principles](core-principles.md#write-with-the-whole-clinical-team-in-mind) now also require profession-aware wording, interpretation of assessment limits, and evidence on everyday function, quality of life and mental health. Apply this before the first expansion.
+
+For functional weakness, plan language useful to neurology and general practice as well as occupational therapy, physiotherapy and psychological care. At symptom level, investigate what clinical findings mean for activities, repeated performance, assistance, participation and recovery cost. At Hoover's-sign level, distinguish the diagnostic comparison from measurement of overall disability. Preserve human experience as attributed experience, and obtain sources for broader conclusions.
+
+Shared concepts own recurring assessment-versus-life-impact explanations; symptom pages own their application and related evidence; technique pages retain the specific interpretation limit and a link. Recovery pages should apply the same principles when next edited. This is an addition to the ownership plan, not authorization to infer disability from a single test or to introduce unsupported clinical claims.
+
 ## Implementation sequence
 
 1. Review this ownership map and baseline; preserve the current human material and source associations.

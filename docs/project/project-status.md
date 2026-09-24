@@ -102,6 +102,8 @@ Module 1 remains the wording and structure model for later human edits:
 
 **September 24, 2026 — diagnostic expansion preparation:** [Ownership map and first-symptom migration plan](diagnostic-expansion-preparation.md), [baseline ledger](diagnostic-expansion-baseline.md) and [authoring structures](diagnostic-page-authoring-structures.md) are ready for review. All 17 recovery symptom folders have detailed pages (179 directly contained numbered pages, excluding nested booklets and background/method documents). The 170 diagnostic inventory entries are preserved. No shared clinical pages or diagnostic-technique pages were created; the human-authored weakness page and image remain unchanged.
 
+**September 24, 2026 — clinician-awareness guidance:** Incorporated the agreed principles from the “Sitemap URL guidance” discussion into [core principles](core-principles.md#write-with-the-whole-clinical-team-in-mind), research policy, diagnostic authoring structures, the ownership plan and the maintenance review checklist. Future diagnostic and recovery work must consider professional perspectives, assessment limits, daily-life implications, quality of life and mental health. This update changes project guidance only; existing clinical pages have not been retrospectively rewritten or re-reviewed.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 

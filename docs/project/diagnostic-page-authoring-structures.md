@@ -49,6 +49,16 @@ Definitions are authored explanatory text, not patient or research quotations. T
 
 Use a question-led introduction, enough explanation to stand alone, relevant examples across symptoms, and links back to symptom applications. Retain the existing audience-and-research format where useful for the different audiences. Avoid a shared page becoming a second recovery manual or duplicating the course verbatim.
 
+## Clinician awareness and everyday impact
+
+Apply the [shared project principles](core-principles.md#write-with-the-whole-clinical-team-in-mind) during planning and review. Identify likely professional users and include familiar language and decision points while keeping the page useful to the whole team. Do not add a separate section for every profession or reinstate person/supporter sections on individual technique pages.
+
+On **symptom pages**, connect the clinical presentation to relevant daily function, quality of life and mental health, with sources and the person's perspective. Describe what brief or standard assessments may leave unanswered about variability, repeated activity, cognitive/sensory demands, recovery time and support needs.
+
+On **technique pages**, state what the particular finding can establish and what it cannot establish about severity, endurance, safety, independence or participation. Include a concise relevant implication or follow-up question, then link to the symptom page for fuller life-impact context. A positive diagnostic finding is not a disability scale.
+
+On **shared concept pages**, own the recurring distinctions between diagnosis, observed performance and everyday disability. Retain enough context on each symptom/technique page for safe interpretation. Research quality of life and mental health at the level where those claims belong, rather than duplicating unrelated studies in every manoeuvre page.
+
 ## Editorial safeguards
 
 - Preserve human wording, lived-experience attribution and qualifications. Track relocation in the ownership map and pull request.

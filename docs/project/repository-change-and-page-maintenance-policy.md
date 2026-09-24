@@ -150,7 +150,8 @@ Use this checklist whenever a course or reference page is added, removed, rename
 3. Confirm paired diagnostic and recovery links work in both directions.
 4. Confirm collection-order, breadcrumb, related-page and global navigation links.
 5. Check that working-draft, review-status and evidence-search dates are accurate.
-6. Run the repository’s available formatting, link and site-build checks, then review the rendered pages where layout may have changed.
+6. Check the [clinician-awareness principles](core-principles.md#write-with-the-whole-clinical-team-in-mind): likely professional users, accessible familiar terminology, limits of brief/standard assessments, and the connection to daily function, support needs, quality of life and mental health. Confirm that implications are sourced or clearly identified as questions/inferences; do not equate a positive sign or normal score with low disability. Apply proportionately to the page rather than duplicating every domain.
+7. Run the repository’s available formatting, link and site-build checks, then review the rendered pages where layout may have changed.
 
 </details>
 
