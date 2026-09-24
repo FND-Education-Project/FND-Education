@@ -86,7 +86,7 @@ A term used for seizure-like episodes that are not epileptic seizures and are co
 ### Drop attack
 **Type: event description**
 
-A sudden fall from standing or walking. In the functional-drop-attack literature, the usual presentation has no definite blackout, often little or no warning and relatively rapid recovery. The term alone does not identify the cause: syncope, epilepsy, cataplexy, vestibular events, gait or weakness problems and other conditions may also cause sudden falls. See [Functional Drop Attacks](../reference/diagnostic-signs/16-functional-drop-attacks.md).
+A sudden fall from standing or walking. In the functional-drop-attack literature, the usual presentation has no definite blackout, often little or no warning and relatively rapid recovery. The term alone does not identify the cause: syncope, epilepsy, cataplexy, vestibular events, gait or weakness problems and other conditions may also cause sudden falls. See [Functional Drop Attacks](../reference/diagnostic-signs/16-functional-drop-attacks.md) and the [seven recovery and safety pages](../reference/recovery-techniques/functional_drop_attacks/README.md).
 
 ### Distractibility
 **Type: positive clinical sign**

@@ -96,6 +96,8 @@ Module 1 remains the wording and structure model for later human edits:
 
 **September 23, 2026 — [Functional paralysis expansion](../../reference/recovery-techniques/functional_paralysis/README.md):** Seven original entries expanded into seven detailed pages plus one navigation overview. Body-protection material remains within equipment/care, not an extra numbered technique. Corrected the claim that no paralysis-specific controlled trial existed: the 2022 rTMS trial showed no significant active–sham advantage. No new recommended intervention; human, clinical, lived-experience and accessibility review pending.
 
+**September 24, 2026 — [Functional drop attacks expansion](../../reference/recovery-techniques/functional_drop_attacks/README.md):** Seven original entries expanded into seven detailed pages plus one navigation overview. No-warning attacks, injury response, assessed mobility and floor recovery, consent-based activity planning and separate care for overlapping conditions are explicit. The 17-presentation and course counts are unchanged. Clinical, lived-experience and accessibility reviews remain pending.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 

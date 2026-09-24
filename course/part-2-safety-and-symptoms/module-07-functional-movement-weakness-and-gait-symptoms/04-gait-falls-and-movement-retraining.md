@@ -109,6 +109,8 @@ Characterize falls separately: buckling, imbalance, loss of consciousness, seizu
 [Research and Sources](#research-and-sources)
 ***
 
+**Related reference:** [Functional drop attacks: seven detailed recovery and safety pages](../../../reference/recovery-techniques/functional_drop_attacks/README.md).
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: How Movement Retraining Works](05-how-movement-retraining-works.md)
 

@@ -49,6 +49,8 @@ The separate [Common Co-occurring Conditions collection](../co-occurring-conditi
 
 **[Functional paralysis: seven detailed recovery and care pages](functional_paralysis/README.md)** — seven original entries expanded one-to-one, from assessed movement and task practice to equipment, responsive planning, coordinated care, familiar episodes and continuing participation. Added September 23, 2026; human and clinical review pending.
 
+**[Functional drop attacks: seven detailed recovery and safety pages](functional_drop_attacks/README.md)** — seven original entries expanded one-to-one, covering injury response, hazards, mobility, optional warning strategies, floor recovery, supported activity and overlapping conditions. Added September 24, 2026; human and clinical review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Recovery and Management Technique Index](technique-index.md)
 

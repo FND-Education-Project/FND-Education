@@ -39,6 +39,8 @@ Functional motor and vocal/phonic tic-like symptoms are covered in Module 7, wit
 
 **Related reference:** [Functional paralysis: seven detailed recovery and care pages](../../../reference/recovery-techniques/functional_paralysis/README.md).
 
+**Related reference:** [Functional drop attacks: seven detailed recovery and safety pages](../../../reference/recovery-techniques/functional_drop_attacks/README.md).
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Start with Functional Weakness and Paralysis](01-functional-weakness-and-paralysis.md)
 
