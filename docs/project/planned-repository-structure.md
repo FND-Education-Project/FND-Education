@@ -91,6 +91,8 @@ The structure may change as the project develops. Priorities are predictable nav
 
 **[Functional tics: eight detailed recovery and supporting-care pages](../../reference/recovery-techniques/functional_tics/README.md)** — five original treatment/coordinated-care entries and three original safety/access/support entries, expanded one-to-one. One additional navigation overview; 17 symptom presentations and course-page counts are unchanged. Added September 24, 2026; human review pending.
 
+**September 24, 2026 — diagnostic expansion preparation:** [Ownership map and first-symptom migration plan](diagnostic-expansion-preparation.md), [baseline ledger](diagnostic-expansion-baseline.md) and [authoring structures](diagnostic-page-authoring-structures.md) are ready for review. All 17 recovery symptom folders have detailed pages (179 directly contained numbered pages, excluding nested booklets and background/method documents). The 170 diagnostic inventory entries are preserved. No shared clinical pages or diagnostic-technique pages were created; the human-authored weakness page and image remain unchanged.
+
 <!-- NAV-CONTEXT:START -->
 **Project:** [Project status](project-status.md) · [Core principles](core-principles.md)
 

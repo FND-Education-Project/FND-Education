@@ -749,6 +749,12 @@ Use the sections below to drill down into the course, reference library, researc
 - [Helping Other People Respond Usefully](reference/recovery-techniques/functional_tics/07-supporter-school-and-work-plan.md)
 - [Planning for Intense Bouts and Difficult Days](reference/recovery-techniques/functional_tics/08-clusters-and-flare-plan.md)
 
+## Diagnostic expansion project preparation
+
+- [Diagnostic Expansion: Ownership and Migration Plan](docs/project/diagnostic-expansion-preparation.md)
+- [Diagnostic Expansion Baseline and Recovery Completion](docs/project/diagnostic-expansion-baseline.md)
+- [Diagnostic Page Authoring Structures](docs/project/diagnostic-page-authoring-structures.md)
+
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](README.md) · [Course](course/README.md) · [Reference Library](reference/README.md) · [Site Map](SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

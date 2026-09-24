@@ -52,7 +52,7 @@ Use this checklist whenever a course or reference page is added, removed, rename
 <summary><strong>4. Add a diagnostic-sign reference page</strong></summary>
 
 1. Confirm that the page describes positive clinical evidence and its limits, not a self-diagnostic test or diagnosis by exclusion.
-2. Add a numbered page in `reference/diagnostic-signs/` using the three audience sections, emergency or reassessment guidance, media brief and standalone citation table.
+2. Follow the [diagnostic ownership plan](diagnostic-expansion-preparation.md) and [authoring structures](diagnostic-page-authoring-structures.md). Symptom pages keep a short Quick Reference and audience sections. Individual technique pages use clinician-focused topic sections, accessible blockquote definitions and topic navigation; they do not repeat separate person/supporter sections. Shared concepts own recurring explanation. Every educational page needs its own citations and appropriate safety/interpretation boundaries.
 3. Add it to the diagnostic collection index, reference-library landing page, detailed reference index and site map.
 4. Pair it with the matching recovery page, or state why no recovery page is ready and link to the closest safe material.
 5. Update the former last page’s navigation and give the new page a previous-page link; repair both directions if the page is inserted between existing pages.
@@ -108,7 +108,8 @@ Use this checklist whenever a course or reference page is added, removed, rename
 5. Update the course index or reference-library landing page, detailed reference index, main README and site map.
 6. Update the detailed syllabus, planned repository structure, project status and other documents that describe the changed scope.
 7. Update master lists such as the technique index, glossary and citation index when their subject matter changes.
-8. Search for the old count and the old scope phrase, including forms such as “all 13,” “same 13,” “13 presentations” and “26 pages.”
+8. Whenever `SITEMAP.md` changes, update `sitemap.xml` in the same change. Match actual published destinations, avoid planned placeholder URLs, remove duplicates and validate XML. Preserve the established public URL convention unless a separate hosting check justifies changing it.
+9. Search for the old count and the old scope phrase, including forms such as “all 13,” “same 13,” “13 presentations” and “26 pages.”
 9. Use exact current totals rather than words such as “about” when the repository can be counted.
 
 </details>
