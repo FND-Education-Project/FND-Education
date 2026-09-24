@@ -1,99 +1,272 @@
-# FND Reference Library
+# FND Reference
 
-<!-- NAV-BREADCRUMB:START -->
-[Home](../README.md) › **Reference Library**
-<!-- NAV-BREADCRUMB:END -->
+Functional Neurological Disorder (FND) is a neurological disorder that affects how brain networks control and experience functions such as movement, sensation, awareness, speech, vision and thinking.
 
-> **Working draft:** This reference was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+Different people can experience very different combinations of symptoms. FND is diagnosed using positive clinical features—patterns and examination findings that show how a function is working and help the clinician recognize FND.
 
-This library contains practical material that can be opened when it is needed, without reading the course in order. The symptom collections have separate pages for diagnosis and recovery or management. A third collection covers co-occurring conditions and their interactions with FND.
+This reference is designed for finding information quickly. If you already know the symptom you want to learn about, you can start below. Each symptom has one path for **understanding and diagnosis** and another for **recovery techniques**.
 
-## In this folder
+For a step-by-step introduction to FND, including how current research helps us understand it, visit the [FND Course](../course/).
 
-- **[Detailed reference index](reference-index.md)** — see how symptoms fit into the different categories and where important overlaps or boundaries occur.
-- **[Diagnostic techniques](#diagnostic-techniques)** — find positive signs and diagnostic criteria used by qualified clinicians.
-- **[Common co-occurring conditions](co-occurring-conditions/README.md)** — nine concise pages linking shared principles, interactions with FND and condition-specific treatment options.
-- **[Recovery techniques](#recovery-techniques)** — find research-informed treatment, rehabilitation and self-management approaches.
+---
 
-> [!IMPORTANT]
-> These pages provide general education, not individual diagnosis or treatment. New, severe, injured or substantially changed symptoms need appropriate medical assessment and should not automatically be assumed to be FND.
+***
+[Find an FND Symptom](#find-an-fnd-symptom)
+[Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)
+[Understanding FND](#understanding-fnd)
+[More Reference Topics](#more-fnd-reference-topics)
+***
 
-## Diagnostic techniques
+# Find an FND Symptom
 
-These pages explain what a clinician may examine, what a positive finding can support and what it cannot prove. Start with the short [Diagnostic Techniques guide](diagnostic-signs/README.md), or choose a symptom below.
+## Functional Limb Weakness
 
-- **[Functional limb weakness](diagnostic-signs/01-functional-limb-weakness.md)** — Hoover's sign and related comparisons of deliberate and automatic movement.
-- **[Functional tremor](diagnostic-signs/02-functional-tremor.md)** — distractibility, entrainment and changes during another task.
-- **[Functional jerks or myoclonus](diagnostic-signs/03-functional-jerks-and-myoclonus.md)** — specialist EEG–EMG assessment and jerk-locked back-averaging.
-- **[Functional Tics and Tic-Like Symptoms](diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md)** — motor and vocal/phonic symptoms, individualized assessment and care with explicit evidence limits.
-- **[Functional dystonia or fixed posturing](diagnostic-signs/04-functional-dystonia.md)** — pattern-based history and movement examination, including inconsistency and incongruity.
-- **[Functional gait disorder](diagnostic-signs/05-functional-gait-disorder.md)** — safe comparison across walking tasks rather than judging an unusual gait by appearance alone.
-- **[Functional seizures](diagnostic-signs/06-functional-seizures.md)** — event history and, when feasible, video-EEG of each typical event type.
-- **[Functional sensory symptoms](diagnostic-signs/07-functional-sensory-symptoms.md)** — structured examination across sensory modalities, with limits on traditional sensory signs.
-- **[Functional visual symptoms](diagnostic-signs/08-functional-visual-symptoms.md)** — positive evidence of preserved vision during ophthalmic or neuro-ophthalmic assessment.
-- **[Functional speech and voice symptoms](diagnostic-signs/09-functional-speech-and-voice-symptoms.md)** — speech-language comparison across natural, automatic and structured communication tasks.
-- **[Functional swallowing symptoms and globus](diagnostic-signs/10-functional-swallowing-and-globus.md)** — clinical and, when indicated, instrumental assessment of swallowing and structural alternatives.
-- **[Functional cough and upper-airway symptoms](diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md)** — multidisciplinary laryngeal and respiratory assessment; no single bedside sign is decisive.
-- **[Functional Cognitive Disorder](diagnostic-signs/12-functional-cognitive-disorder.md)** — structured history and cognitive assessment for internal inconsistency while considering other causes.
-- **[Persistent postural-perceptual dizziness](diagnostic-signs/13-persistent-postural-perceptual-dizziness.md)** — assessment using all five Bárány Society PPPD criteria.
-- **[Functional facial symptoms](diagnostic-signs/14-functional-facial-symptoms.md)** — specialist assessment of facial movement, muscle activation and weakness while considering important alternatives.
-- **[Functional paralysis](diagnostic-signs/15-functional-paralysis.md)** — phenotype-specific comparison of attempted movement with automatic or synergistic movement.
-- **[Functional drop attacks](diagnostic-signs/16-functional-drop-attacks.md)** — structured event and falls assessment; no validated single bedside sign was located.
+[Understanding & Diagnosis](diagnosis/functional-limb-weakness.md) · [Recovery Techniques](recovery/functional-limb-weakness.md)
 
-## Recovery techniques
+An arm or leg may feel weak, heavy or difficult to control. Movement may be possible in some activities or circumstances but much more difficult when trying to perform another movement deliberately.
 
-These pages separate research-supported, clinical-consensus, emerging and community-reported approaches. Start with the [Recovery Techniques guide](recovery-techniques/README.md), browse the [master technique index](recovery-techniques/technique-index.md), or choose a symptom below.
+## Functional Paralysis
 
-- **[Functional limb weakness](recovery-techniques/01-functional-limb-weakness.md)** — meaningful-task and automatic-movement retraining within individualized rehabilitation.
-- **[Functional tremor](recovery-techniques/02-functional-tremor.md)** — rhythm, competing movement, external focus and individualized rehabilitation.
-- **[Functional jerks or myoclonus](recovery-techniques/03-functional-jerks-and-myoclonus.md)** — warning recognition, redirected attention, meaningful activity and safety planning, with a [nine-page detailed technique collection](recovery-techniques/functional_jerks_and_myoclonus/README.md).
-- **[Functional Tics and Tic-Like Symptoms](recovery-techniques/17-functional-tics-and-tic-like-symptoms.md)** — motor and vocal/phonic symptoms, individualized assessment and care with explicit evidence limits.
-- **[Functional dystonia or fixed posturing](recovery-techniques/04-functional-dystonia.md)** — non-forceful positioning, task and sensory retraining, complication and equipment review, with a [ten original-list expansions and three additional review/care pages](recovery-techniques/functional_dystonia/README.md).
-- **[Functional gait disorder](recovery-techniques/05-functional-gait-disorder.md)** — phenotype-matched step, rhythm, direction, task and equipment strategies, with a [thirteen-page detailed technique collection](recovery-techniques/functional_gait_disorder/README.md).
-- **[Functional seizures](recovery-techniques/06-functional-seizures.md)** — safety, warning strategies, treatment choices and recovery support, with a [nine original-list expansions and three additional programme/care pages](recovery-techniques/functional_seizures/README.md).
-- **[Functional sensory symptoms](recovery-techniques/07-functional-sensory-symptoms.md)** — sensory practice, meaningful activity, accommodations and safety, with a [ten original-list expansions and two additional care pages](recovery-techniques/functional_sensory_symptoms/README.md).
-- **[Functional visual symptoms](recovery-techniques/08-functional-visual-symptoms.md)** — [nine original-list expansions](recovery-techniques/functional_visual_symptoms/README.md) on explanation, selected visual practice, photophobia, coexisting conditions and uncertain specialist options.
-- **[Functional speech and voice symptoms](recovery-techniques/09-functional-speech-and-voice-symptoms.md)** — [eleven original-list expansions](recovery-techniques/functional_speech_and_voice_symptoms/README.md), with selected speech and voice practice, everyday communication goals and access support.
-- **[Functional swallowing symptoms and globus](recovery-techniques/10-functional-swallowing-and-globus.md)** — [eleven detailed pages](recovery-techniques/functional_swallowing_and_globus/README.md) on assessed practice, meal access, coexisting care and restriction/medication review, with swallowing-safety limits.
-- **[Functional cough and upper-airway symptoms](recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md)** — urge awareness, competing responses, breathing retraining and laryngeal care.
-- **[Functional Cognitive Disorder](recovery-techniques/12-functional-cognitive-disorder.md)** — cognitive-process assessment, meaningful rehabilitation, external supports, optional monitoring work and treatment of contributors. [Everything We Know About FCD](functional-cognitive-disorder.md) supplies the background. [Thirteen detailed pages](recovery-techniques/functional_cognitive_disorder/README.md) cover each original entry, with memory-support safeguards and evidence limits.
-- **[Persistent postural-perceptual dizziness](recovery-techniques/13-persistent-postural-perceptual-dizziness.md)** — vestibular rehabilitation, habituation and graded exposure, with evidence limits stated. [Thirteen detailed pages](recovery-techniques/persistent_postural_perceptual_dizziness/README.md) explain each original entry and its limits.
-- **[Functional facial symptoms](recovery-techniques/14-functional-facial-symptoms.md)** — individualized movement, positioning, communication and safety support; facial-specific evidence remains limited. [Ten detailed pages](recovery-techniques/functional_facial_symptoms/README.md) explain the original entries.
-- **[Functional paralysis](recovery-techniques/15-functional-paralysis.md)** — body protection and access first, followed by movement retraining from movement that is currently available.
-- **[Functional drop attacks](recovery-techniques/16-functional-drop-attacks.md)** — injury response, fall-risk review, mobility planning and graded return where appropriate.
+[Understanding & Diagnosis](diagnosis/functional-paralysis.md) · [Recovery Techniques](recovery/functional-paralysis.md)
 
-## Common co-occurring conditions
+A person may experience periods when voluntary movement of a limb or larger part of the body becomes extremely limited or temporarily unavailable. The symptom is more extensive than the partial loss of strength usually described as functional weakness.
 
-Start with the [collection overview](co-occurring-conditions/README.md). These are separate conditions or symptom groups, not nine additional FND diagnoses. Each page introduces recovery and management options; detailed technique pages can follow later.
+## Functional Tremor
 
-- [Migraine Alongside FND](co-occurring-conditions/01-migraine.md)
-- [Persistent Headache Alongside FND](co-occurring-conditions/02-persistent-headache.md)
-- [Tinnitus Alongside FND](co-occurring-conditions/03-tinnitus.md)
-- [Persistent Pain Alongside FND](co-occurring-conditions/04-persistent-pain.md)
-- [Fibromyalgia Alongside FND](co-occurring-conditions/05-fibromyalgia.md)
-- [Fatigue and Post-Activity Worsening Alongside FND](co-occurring-conditions/06-fatigue.md)
-- [Insomnia and Sleep Difficulties Alongside FND](co-occurring-conditions/07-insomnia.md)
-- [Autonomic Symptoms Alongside FND](co-occurring-conditions/08-autonomic-symptoms.md)
-- [Irritable Bowel Syndrome Alongside FND](co-occurring-conditions/09-irritable-bowel-syndrome.md)
+[Understanding & Diagnosis](diagnosis/functional-tremor.md) · [Recovery Techniques](recovery/functional-tremor.md)
 
-## Other recovery material
+A hand, arm, leg or another part of the body may shake rhythmically or irregularly. The speed, strength or pattern of the shaking may change during different movements, tasks or situations.
 
-- **[Functional-seizure learning materials](recovery-techniques/functional_seizures/README.md)** — research mapping and five planned CBT-informed booklets.
-- **[Community experience quotations](recovery-techniques/community-experience-quotes.md)** — lived-experience material organized by symptom and technique for review.
-- **[Episode and flare quotation review](recovery-techniques/episodic-flare-community-quote-review.md)** — candidate accounts about immediate responses and variable symptom duration.
+## Functional Jerks / Myoclonus
 
-## Contributing and review
+[Understanding & Diagnosis](diagnosis/functional-jerks.md) · [Recovery Techniques](recovery/functional-jerks.md)
 
-Clinical reviewers can assess accuracy, limits and safety. People with FND and supporters can identify unclear wording, missing experiences and practical access problems. See the [project policies](../docs/project/repository-change-and-page-maintenance-policy.md) before changing or adding a reference page.
+A body part may make sudden, brief movements that feel involuntary. These jerks may happen occasionally, repeatedly or in bursts.
 
-**[Functional cough and upper-airway symptoms: ten detailed recovery pages](recovery-techniques/functional_cough_and_upper_airway_symptoms/README.md)** — all ten original entries expanded one-to-one, plus a collection overview. Assessed cough responses, breathing coordination, everyday care and coexisting conditions; professional-consensus evidence with diagnostic and airway-safety boundaries. Added September 20, 2026; human review pending.
+## Functional Dystonia and Fixed Postures
 
-**[Functional paralysis: seven detailed recovery and care pages](recovery-techniques/functional_paralysis/README.md)** — seven original entries expanded one-to-one, from assessed movement and task practice to equipment, responsive planning, coordinated care, familiar episodes and continuing participation. Added September 23, 2026; human and clinical review pending.
+[Understanding & Diagnosis](diagnosis/functional-dystonia.md) · [Recovery Techniques](recovery/functional-dystonia.md)
 
-**[Functional drop attacks: seven detailed recovery and safety pages](recovery-techniques/functional_drop_attacks/README.md)** — seven original entries expanded one-to-one, covering injury response, hazards, mobility, optional warning strategies, floor recovery, supported activity and overlapping conditions. Added September 24, 2026; human and clinical review pending.
+A hand, foot, limb, neck or another body part may pull, twist, curl or become held in an unusual posture. The position can sometimes become painful or difficult to release.
+
+## Functional Gait Disorder
+
+[Understanding & Diagnosis](diagnosis/functional-gait.md) · [Recovery Techniques](recovery/functional-gait.md)
+
+Walking may become difficult because of changes such as leg dragging, knee buckling, unusual stepping, swaying, freezing or difficulty coordinating the normal sequence of walking.
+
+## Functional Seizures
+
+[Understanding & Diagnosis](diagnosis/functional-seizures.md) · [Recovery Techniques](recovery/functional-seizures.md)
+
+Episodes can include changes in awareness, responsiveness or movement. A person may collapse, shake, stiffen, become still, lose awareness of their surroundings or experience another recurring seizure-like event.
+
+## Functional Drop Attacks
+
+[Understanding & Diagnosis](diagnosis/functional-drop-attacks.md) · [Recovery Techniques](recovery/functional-drop-attacks.md)
+
+A person may suddenly drop or fall toward the ground, sometimes with very little warning, and may recover from the event quickly.
+
+## Functional Tics
+
+[Understanding & Diagnosis](diagnosis/functional-tics.md) · [Recovery Techniques](recovery/functional-tics.md)
+
+Sudden movements, gestures or sounds may occur repeatedly and feel difficult or impossible to prevent at the moment they happen.
+
+## Functional Sensory Symptoms
+
+[Understanding & Diagnosis](diagnosis/functional-sensory-symptoms.md) · [Recovery Techniques](recovery/functional-sensory-symptoms.md)
+
+Touch, temperature, pain or awareness of part of the body may feel altered. An area may feel numb, strange, unusually sensitive or less connected to the person's normal sense of their body.
+
+## Functional Visual Symptoms
+
+[Understanding & Diagnosis](diagnosis/functional-visual-symptoms.md) · [Recovery Techniques](recovery/functional-visual-symptoms.md)
+
+Vision may become blurred, narrowed, doubled, intermittently absent or otherwise altered. The way the visual difficulty changes across situations can provide important diagnostic information.
+
+## Functional Speech and Voice Symptoms
+
+[Understanding & Diagnosis](diagnosis/functional-speech-voice.md) · [Recovery Techniques](recovery/functional-speech-voice.md)
+
+Speech or voice may become quiet, strained, slowed, stuttered, unusually accented or temporarily difficult to produce. The person's ability to speak can sometimes vary considerably across circumstances.
+
+## Functional Swallowing Symptoms and Globus
+
+[Understanding & Diagnosis](diagnosis/functional-swallowing.md) · [Recovery Techniques](recovery/functional-swallowing.md)
+
+Swallowing may feel difficult, effortful or unusual. Some people experience persistent tightness or the feeling of a lump or obstruction in the throat.
+
+## Functional Cough and Upper-Airway Symptoms
+
+[Understanding & Diagnosis](diagnosis/functional-cough.md) · [Recovery Techniques](recovery/functional-cough.md)
+
+Coughing, throat clearing or other upper-airway responses may become persistent or repeatedly triggered as the nervous system develops an established pattern of responding.
+
+## Functional Cognitive Disorder
+
+[Understanding & Diagnosis](diagnosis/functional-cognitive-disorder.md) · [Recovery Techniques](recovery/functional-cognitive-disorder.md)
+
+Memory, concentration, word finding, attention or thinking may become unreliable in everyday life. A characteristic feature can be a large difference between what feels inaccessible in one situation and what the brain can successfully do in another.
+
+## Functional Facial Symptoms
+
+[Understanding & Diagnosis](diagnosis/functional-facial-symptoms.md) · [Recovery Techniques](recovery/functional-facial-symptoms.md)
+
+Part of the face may pull, tighten, spasm, droop or feel difficult to control. These changes may affect the mouth, jaw, eye or larger areas of the face.
+
+---
+
+***
+[Find an FND Symptom](#find-an-fnd-symptom)
+[Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)
+[Understanding FND](#understanding-fnd)
+[More Reference Topics](#more-fnd-reference-topics)
+***
+
+# Common Symptoms and Conditions That Occur Alongside FND
+
+- [Migraine and Chronic Headache](associated/migraine-headache.md)
+- [Tinnitus](associated/tinnitus.md)
+- [Chronic Pain](associated/chronic-pain.md)
+- [Fatigue](associated/fatigue.md)
+- [Sleep Disorders](associated/sleep.md)
+- [Persistent Postural-Perceptual Dizziness (PPPD) and Persistent Dizziness](associated/pppd.md)
+- [Autonomic Symptoms](associated/autonomic-symptoms.md)
+
+---
+
+***
+[Find an FND Symptom](#find-an-fnd-symptom)
+[Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)
+[Understanding FND](#understanding-fnd)
+[More Reference Topics](#more-fnd-reference-topics)
+***
+
+# Understanding FND
+
+FND involves changes in how the brain and nervous system organize and control important functions.
+
+The nervous system performs an enormous amount of work automatically. When you walk across a room, you do not consciously calculate which muscles should contract, how far each joint should move or exactly where your foot should land. Your brain normally coordinates those processes automatically.
+
+The same principle applies to many other abilities. Speaking, maintaining balance, recognizing sensations, directing attention and retrieving familiar information all depend heavily on processes that normally operate without conscious supervision.
+
+In FND, these systems can become disrupted.
+
+That helps explain why a person may have the physical capacity needed for a function while still being unable to access that function normally at a particular moment. It also helps explain why the same function can sometimes work differently during another activity or under different circumstances.
+
+These changes in function are important in diagnosis. Clinicians can sometimes demonstrate them during an examination. For example, a movement that is difficult when performed deliberately may become easier when the nervous system produces part of the same movement automatically.
+
+This is called **internal inconsistency**, and in the right clinical context it can provide positive evidence for FND.
+
+The same observation has important implications for rehabilitation.
+
+If the nervous system can sometimes produce a movement more normally, rehabilitation may be able to build upon that available function. Treatment often works toward making movement, speech, attention or another affected ability more automatic again rather than relying on greater conscious effort.
+
+## FND Can Change From Moment to Moment
+
+Brain function is dynamic. The ability to perform a task can change depending on what the nervous system is doing at that moment.
+
+Attention can influence symptoms. So can pain, fatigue, sleep, illness, sensory stimulation, previous experiences, expectations, emotional states and the demands being placed on the brain and body.
+
+These influences vary greatly between people. Understanding an individual's pattern can help identify circumstances in which normal function becomes easier to access and circumstances in which symptoms become more difficult.
+
+This variability is therefore useful information. It can help with diagnosis, help a person understand their symptoms and sometimes reveal opportunities for rehabilitation.
+
+## FND Can Affect Many Different Systems
+
+The brain networks involved in movement do not work in isolation.
+
+Movement interacts with sensation. Sensation interacts with attention. Attention interacts with awareness, prediction and memory. All of these processes interact with the brain's understanding of the body and the environment around it.
+
+Researchers therefore study FND as a disorder involving networks and interactions between networks rather than searching for one single brain area that explains every symptom.
+
+This also helps explain why two people with FND can have very different experiences. One person may predominantly experience weakness. Another may experience seizures. Another may have difficulties involving movement, cognition and sensation together.
+
+There is unlikely to be one mechanism that completely explains every symptom in every person with FND.
+
+## FND and Other Health Conditions
+
+People with FND can also have other neurological, medical or psychological conditions.
+
+Each condition can contribute something different to a person's health. They can also interact. Migraine may increase sensory sensitivity. Chronic pain may change movement and attention. Poor sleep may make concentration or movement more difficult. An existing neurological condition can occur alongside functional neurological symptoms.
+
+Recognizing these interactions helps build a more complete understanding of the person rather than trying to make one diagnosis explain everything.
+
+The pages throughout this reference explore these ideas in greater detail.
+
+For a more structured explanation beginning with the basic concepts and building progressively, continue to the **[FND Course](../course/)**.
+
+---
+
+***
+[Find an FND Symptom](#find-an-fnd-symptom)
+[Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)
+[Understanding FND](#understanding-fnd)
+[More Reference Topics](#more-fnd-reference-topics)
+***
+
+# More FND Reference Topics
+
+## Positive Diagnosis of FND
+
+[Read about positive diagnosis](positive-diagnosis.md)
+
+FND has recognizable clinical features. This section explains how clinicians use the history, examination and positive diagnostic signs to build evidence for an FND diagnosis.
+
+## Understanding Positive Diagnostic Signs
+
+[Read about positive diagnostic signs](positive-diagnostic-signs.md)
+
+Positive signs can show how an affected function changes under different conditions. This section explains why those changes matter and what they can tell the clinician.
+
+## Diagnostic Techniques
+
+[Explore diagnostic techniques](diagnostic-techniques/)
+
+Some positive signs can be demonstrated using specific examination techniques. These pages explain how the techniques work, what clinicians observe, the anatomy and physiology involved, and the limits of each finding.
+
+## Tests and Investigations
+
+[Read about tests and investigations](tests-and-investigations.md)
+
+Scans, EEGs, blood tests and other investigations answer different clinical questions. This section explains what these tests can contribute to an assessment and how they fit alongside the positive diagnosis of FND.
+
+## FND Alongside Other Conditions
+
+[Read about coexisting conditions](fnd-and-other-conditions.md)
+
+More than one diagnosis can contribute to a person's symptoms. This section looks at how FND can interact with other neurological and medical conditions.
+
+## Why Symptoms Vary
+
+[Read about symptom variability](symptom-variability.md)
+
+FND symptoms can change across movements, situations and times of day. These variations can provide useful clues about how the affected function is being controlled.
+
+## Explaining an FND Diagnosis
+
+[Read about explaining FND](explaining-fnd.md)
+
+A useful explanation can help a person understand what has been found during the assessment, why the diagnosis was made and what the diagnosis may mean for treatment and recovery.
+
+## Family, Friends and Other Supporters
+
+[Visit the supporter reference](supporters.md)
+
+Supporters can play an important role in understanding symptoms, responding during difficult periods, helping with rehabilitation and supporting greater independence.
+
+---
+
+***
+[Find an FND Symptom](#find-an-fnd-symptom)
+[Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)
+[Understanding FND](#understanding-fnd)
+[More Reference Topics](#more-fnd-reference-topics)
+***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: FND Reference Library Index](reference-index.md)
+**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/01-functional-limb-weakness.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
 
-**Navigate:** [Home](../README.md) · [Course](../course/README.md) · [Reference Library](README.md) · [Site Map](../SITEMAP.md)
+**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
