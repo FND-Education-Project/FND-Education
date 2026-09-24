@@ -127,6 +127,8 @@ If a positive sign is clear, show it respectfully as evidence of preserved movem
 [Research and Sources](#research-and-sources)
 ***
 
+**[Functional tics: eight detailed recovery and supporting-care pages](../../../reference/recovery-techniques/functional_tics/README.md)** — five original treatment/coordinated-care entries and three original safety/access/support entries, expanded one-to-one. One additional navigation overview; 17 symptom presentations and course-page counts are unchanged. Added September 24, 2026; human review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Dystonia and Fixed Postures](03-functional-dystonia-and-fixed-postures.md)
 

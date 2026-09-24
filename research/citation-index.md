@@ -1591,6 +1591,29 @@ Reviewed September 21, 2026. Existing sources 0011, 0026, 0036 and 0037 are reta
 | [Considering FCD-Specific Digital Self-Help](../reference/recovery-techniques/functional_cognitive_disorder/12-digital-self-help.md) | [FND-CIT-0037](#fnd-cit-0037) |
 | [Planning Individual Cognitive Rehabilitation](../reference/recovery-techniques/functional_cognitive_disorder/13-individual-cognitive-rehabilitation.md) | [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0026](#fnd-cit-0026); [FND-CIT-0187](#fnd-cit-0187) |
 
+## FND-CIT-0218
+
+Nilles C, Szejko N, Martino D, Pringsheim T. Prospective follow-up study of youth and adults with onset of functional tic-like behaviours during the COVID-19 pandemic. *European Journal of Neurology*. 2024;31(1):e16051. [Source](https://doi.org/10.1111/ene.16051). Prospective observational cohort; treatment associations are not causal treatment comparisons.
+
+**Current use:** [Functional-tic overview](../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md). Detailed-page uses are listed below.
+
+## FND-CIT-0219
+
+Ducroizet A, Eccles C, Lancaster R, et al. Outcomes of functional tics in adolescents: a single-centre tertiary study. *Archives of Disease in Childhood*. 2025;110(7):528–532. [Source](https://doi.org/10.1136/archdischild-2024-327408). Parent/carer interviews concerning 43 adolescents; selected service population and reported outcomes limit generalization.
+
+**Current use:** [Functional-tic overview](../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md). Detailed-page uses are listed below.
+
+## Functional tics detailed-page citation use map
+
+- [FND-CIT-0110](#fnd-cit-0110): [Understanding Functional Tics and Agreeing on a Plan](../reference/recovery-techniques/functional_tics/01-explanation-and-shared-plan.md); [Noticing Useful Patterns Without Watching Every Tic](../reference/recovery-techniques/functional_tics/02-brief-pattern-mapping.md); [Understanding Therapy Options for Functional Tics](../reference/recovery-techniques/functional_tics/03-individualized-therapy.md); [Returning to Activities With Support](../reference/recovery-techniques/functional_tics/04-supported-activities.md); [Keeping Other Conditions and Medicines in the Plan](../reference/recovery-techniques/functional_tics/05-coexisting-conditions.md); [Making Movement and Communication Safer](../reference/recovery-techniques/functional_tics/06-safety-and-communication.md); [Helping Other People Respond Usefully](../reference/recovery-techniques/functional_tics/07-supporter-school-and-work-plan.md); [Planning for Intense Bouts and Difficult Days](../reference/recovery-techniques/functional_tics/08-clusters-and-flare-plan.md).
+- [FND-CIT-0113](#fnd-cit-0113): [Understanding Therapy Options for Functional Tics](../reference/recovery-techniques/functional_tics/03-individualized-therapy.md).
+- [FND-CIT-0206](#fnd-cit-0206): [Returning to Activities With Support](../reference/recovery-techniques/functional_tics/04-supported-activities.md).
+- [FND-CIT-0217](#fnd-cit-0217): [Planning for Intense Bouts and Difficult Days](../reference/recovery-techniques/functional_tics/08-clusters-and-flare-plan.md).
+- [FND-CIT-0218](#fnd-cit-0218): [Understanding Therapy Options for Functional Tics](../reference/recovery-techniques/functional_tics/03-individualized-therapy.md); [Keeping Other Conditions and Medicines in the Plan](../reference/recovery-techniques/functional_tics/05-coexisting-conditions.md).
+- [FND-CIT-0219](#fnd-cit-0219): [Planning for Intense Bouts and Difficult Days](../reference/recovery-techniques/functional_tics/08-clusters-and-flare-plan.md).
+
+**Editorial boundaries:** The 2022 expert review informs individualized care. Its reinforcement language is not used to justify withholding empathy, necessary assistance or accommodations. The I-CBiT paper describes a combined programme; these pages do not prescribe home suppression exercises or claim independent efficacy for its components. The new follow-up studies are observational. No new community quotations were added.
+
 <!-- NAV-CONTEXT:START -->
 **Research:** [Research and citation policy](../docs/project/research-and-citation-policy.md)
 

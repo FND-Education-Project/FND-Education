@@ -432,6 +432,8 @@ This glossary uses the project’s stable citation index. The most relevant sour
 - [How FND Is Diagnosed](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md)
 - [Functional Seizures and Episodic Symptoms](../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/README.md)
 
+**Functional tics — further reading:** [Eight recovery and supporting-care pages](../reference/recovery-techniques/functional_tics/README.md), including explanations of CBT, CBIT, urge acceptance and pattern mapping.
+
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](../README.md) · [Course](../course/README.md) · [Reference Library](../reference/README.md) · [Site Map](../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

@@ -152,6 +152,8 @@ The review and assessment guideline support terminology and individualized evalu
 [Research and Sources](#research-and-sources)
 ***
 
+**Recovery and support:** [Eight detailed pages](../recovery-techniques/functional_tics/README.md) explain treatment discussions, motor and vocal access, supporter responses and flare planning.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Recovery Techniques](../recovery-techniques/README.md)
 

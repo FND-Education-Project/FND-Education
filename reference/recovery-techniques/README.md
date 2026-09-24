@@ -51,6 +51,8 @@ The separate [Common Co-occurring Conditions collection](../co-occurring-conditi
 
 **[Functional drop attacks: seven detailed recovery and safety pages](functional_drop_attacks/README.md)** — seven original entries expanded one-to-one, covering injury response, hazards, mobility, optional warning strategies, floor recovery, supported activity and overlapping conditions. Added September 24, 2026; human and clinical review pending.
 
+**[Functional tics: eight detailed recovery and supporting-care pages](functional_tics/README.md)** — five original treatment/coordinated-care entries and three original safety/access/support entries, expanded one-to-one. One additional navigation overview; 17 symptom presentations and course-page counts are unchanged. Added September 24, 2026; human review pending.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Recovery and Management Technique Index](technique-index.md)
 
