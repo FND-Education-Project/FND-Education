@@ -24,6 +24,8 @@ Each symptom page now includes a **Diagnostic techniques at a glance** inventory
 > [!IMPORTANT]
 > A positive sign supports diagnosis only in the right clinical setting. New, severe, injured or substantially changed symptoms still need appropriate medical assessment.
 
+**Diagnostic expansion preparation:** [Content ownership and functional-weakness migration plan](../../docs/project/diagnostic-expansion-preparation.md) · [Baseline inventory](../../docs/project/diagnostic-expansion-baseline.md) · [Page structures](../../docs/project/diagnostic-page-authoring-structures.md). Preparation is recorded; individual diagnostic expansion has not started.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Diagnostic Techniques Index](diagnostic-index.md)
 

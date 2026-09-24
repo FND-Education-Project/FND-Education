@@ -19,10 +19,14 @@ Every symptom page in this collection should explain the symptom’s **actual te
 - whether that symptom may be intermittent, episodic, fluctuating, persistent or fixed, using symptom-specific evidence rather than a universal rule;
 - what immediate safety steps are appropriate when a familiar episode or flare begins;
 - what contextual information is useful to record, such as task, environment, duration, associated symptoms and recovery;
-- how an established rehabilitation strategy may be shortened into a safe onset response when appropriate; and
+- where to find the paired recovery plan, without duplicating its rehabilitation programme; and
 - when a new or changed episode requires reassessment rather than automatic attribution to FND.
 
 The distinction matters. A single jerk is brief but jerks may occur in prolonged clusters; functional gait or speech symptoms may appear mainly in particular situations or around other episodes; functional dystonia may be intermittent or fixed. PPPD is different again: established PPPD is persistent by diagnostic definition, although its severity waxes and wanes and brief flares can occur.
+
+## Expansion structure
+
+The [preparation plan](../../docs/project/diagnostic-expansion-preparation.md) records shared concepts → symptom pages → clinician-focused technique pages. The [baseline inventory](../../docs/project/diagnostic-expansion-baseline.md) preserves all 170 existing entries and their unequal symptom counts. Inventory entries include observations, criteria, investigations and cautions; they do not automatically become separate validated-test pages.
 
 ## Pages in this collection
 
