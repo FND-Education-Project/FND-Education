@@ -93,6 +93,9 @@ If you haven't already asked these of the diagnosing doctor, here's a few good q
 
 Another useful thing to do is put into your own words what FND is and how to explain to your family and friends.
 
+>## Crosswords
+>- **What is FND?** ([normal](crosswords/What-is-FND-crossword-09-2026.pdf)) ([easy](crosswords/What-is-FND-crossword-easy-09-2026.pdf)) ([answer key](crosswords/What-is-FND-crossword-answer-key-09-2026.pdf))
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
