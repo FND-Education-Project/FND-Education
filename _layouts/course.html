@@ -2,21 +2,83 @@
 layout: default
 ---
 
-{% assign info = site.data.generated.pages[page.path] %}
+{% assign page_info = nil %}
 
-<article class="course-page">
+{% if site.data.generated and site.data.generated.pages %}
+  {% assign page_info = site.data.generated.pages[page.path] %}
+{% endif %}
 
-  {% include breadcrumb.html info=info %}
+<article class="course-page reading-column">
 
-  {% include page-status.html
-     status=page.status
-     authorship=page.authorship
-     reviewed=page.last_reviewed %}
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <span aria-hidden="true">›</span>
+    <a href="{{ '/course/' | relative_url }}">Course</a>
+
+    {% if page_info.part_number %}
+      <span aria-hidden="true">›</span>
+      <span>Part {{ page_info.part_number }}</span>
+    {% endif %}
+
+    {% if page_info.module_number %}
+      <span aria-hidden="true">›</span>
+      <span>Module {{ page_info.module_number }}</span>
+    {% endif %}
+  </nav>
+
+  <header class="page-heading">
+
+    <p class="page-context">
+      COURSE
+
+      {% if page_info.part_number %}
+        · PART {{ page_info.part_number }}
+      {% endif %}
+
+      {% if page_info.module_number %}
+        · MODULE {{ page_info.module_number }}
+      {% endif %}
+    </p>
+
+    <h1>{{ page.title | escape }}</h1>
+
+    {% if page.description %}
+      <p class="page-description">
+        {{ page.description }}
+      </p>
+    {% endif %}
+
+    {% if page.status or page.authorship or page.last_reviewed %}
+      <aside class="page-status" aria-label="Page status">
+
+        {% if page.status %}
+          <span>
+            <strong>Status:</strong>
+            {{ page.status | replace: "-", " " | capitalize }}
+          </span>
+        {% endif %}
+
+        {% if page.authorship %}
+          <span>
+            <strong>Authorship:</strong>
+            {{ page.authorship | replace: "-", " " | capitalize }}
+          </span>
+        {% endif %}
+
+        {% if page.last_reviewed %}
+          <span>
+            <strong>Last reviewed:</strong>
+            {{ page.last_reviewed }}
+          </span>
+        {% endif %}
+
+      </aside>
+    {% endif %}
+
+  </header>
 
   <div class="course-content">
     {{ content }}
   </div>
-
-  {% include course-navigation.html info=info %}
 
 </article>
