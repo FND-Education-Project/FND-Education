@@ -1,0 +1,8 @@
+title: FND Education Project
+url: https://fnd-education-project.github.io
+baseurl: /FND-Education
+
+markdown: kramdown
+
+defaults:
+  # broad site defaults go here
