@@ -1,4 +1,13 @@
-<!-- NAV-BREADCRUMB:START -->
+---
+layout: course
+title: "What “Functional” Means and How FND Can Appear"
+description: "An introduction to what functional means in FND, how symptoms can appear, and how FND is positively diagnosed."
+status: working-draft
+authorship: human
+last_reviewed: 2026-08-26
+permalink: /course/m1/1/
+---
+\<!-- NAV-BREADCRUMB:START -->
 [Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 1: What FND Is](README.md) › **What “Functional” Means and How FND Can Appear**
 <!-- NAV-BREADCRUMB:END -->
 
