@@ -4,5 +4,4 @@ baseurl: /FND-Education
 
 markdown: kramdown
 
-defaults:
-  # broad site defaults go here
+permalink: pretty
