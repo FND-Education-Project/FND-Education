@@ -1,1 +1,22 @@
+---
+layout: default
+---
 
+{% assign info = site.data.generated.pages[page.path] %}
+
+<article class="course-page">
+
+  {% include breadcrumb.html info=info %}
+
+  {% include page-status.html
+     status=page.status
+     authorship=page.authorship
+     reviewed=page.last_reviewed %}
+
+  <div class="course-content">
+    {{ content }}
+  </div>
+
+  {% include course-navigation.html info=info %}
+
+</article>
