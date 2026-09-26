@@ -446,8 +446,44 @@ def write_generated_page_data(pages: list[CoursePage]) -> None:
         encoding="utf-8",
     )
 
-    # Detailed previous/next/parent navigation comes in the next site pass.
-    (generated_dir / "navigation.yml").write_text("{}\n", encoding="utf-8")
+    # Course sequence navigation. The order is already module, then lesson.
+    title_by_source = {
+        page.source: extract_title(
+            page.source.read_text(encoding="utf-8"),
+            page.source,
+        )
+        for page in pages
+    }
+
+    nav_lines: list[str] = []
+
+    for index, page in enumerate(pages):
+        nav_lines.append(f"{yaml_string(page.jekyll_path)}:")
+
+        if index > 0:
+            previous = pages[index - 1]
+            nav_lines.extend(
+                [
+                    "  previous:",
+                    f"    title: {yaml_string(title_by_source[previous.source])}",
+                    f"    url: {yaml_string(previous.public_url)}",
+                ]
+            )
+
+        if index < len(pages) - 1:
+            following = pages[index + 1]
+            nav_lines.extend(
+                [
+                    "  next:",
+                    f"    title: {yaml_string(title_by_source[following.source])}",
+                    f"    url: {yaml_string(following.public_url)}",
+                ]
+            )
+
+    (generated_dir / "navigation.yml").write_text(
+        "\n".join(nav_lines) + "\n",
+        encoding="utf-8",
+    )
 
 
 def prepare_course(pages: list[CoursePage]) -> None:
