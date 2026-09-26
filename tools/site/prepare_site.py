@@ -26,7 +26,7 @@ GITHUB_BLOB_BASE = (
     "https://github.com/FND-Education-Project/FND-Education/blob/main/"
 )
 
-NAV_BLOCKS = ("BREADCRUMB", "CONTEXT")
+NAV_BLOCKS = ("BREADCRUMB",)
 
 PART_RE = re.compile(r"^part-(\d+)-", re.IGNORECASE)
 MODULE_RE = re.compile(r"^module-(\d+)-", re.IGNORECASE)
@@ -87,6 +87,25 @@ def remove_nav_blocks(text: str) -> str:
         )
         text = pattern.sub("", text)
     return text
+
+
+def replace_context_navigation(text: str) -> str:
+    """
+    Replace the repository NAV-CONTEXT block with website previous/next
+    navigation at the same location in the article.
+
+    On lesson pages this is immediately after the clinician section and its
+    audience links, before Research and Sources.
+    """
+    pattern = re.compile(
+        r"\\?<!--\s*NAV-CONTEXT:START\s*-->.*?"
+        r"<!--\s*NAV-CONTEXT:END\s*-->\s*",
+        re.IGNORECASE | re.DOTALL,
+    )
+    return pattern.sub(
+        "\n{% include page-navigation.html %}\n\n",
+        text,
+    )
 
 
 def normalize_audience_separators(text: str) -> str:
@@ -240,6 +259,7 @@ def strip_website_header_material(text: str, source: Path) -> tuple[str, str]:
         cleaned Markdown body
         opening description
     """
+    text = replace_context_navigation(text)
     text = remove_nav_blocks(text)
     text = normalize_audience_separators(text)
 
@@ -441,7 +461,18 @@ def render_front_matter(
     status: str,
     authorship: str,
     last_reviewed: str | None,
+    previous_page: CoursePage | None,
+    previous_title: str | None,
+    next_page: CoursePage | None,
+    next_title: str | None,
 ) -> str:
+    """
+    Build Jekyll-only front matter for the generated copy.
+
+    Structural and previous/next information lives directly on each generated
+    page so navigation does not depend on matching page.path against a data
+    lookup at render time.
+    """
     lines = [
         "---",
         f"layout: {page.layout}",
@@ -449,10 +480,42 @@ def render_front_matter(
         f"description: {yaml_string(description)}",
         f"status: {status}",
         f"authorship: {authorship}",
+        f"page_kind: {page.kind}",
     ]
+
+    if page.part_number is not None:
+        lines.append(f"part_number: {page.part_number}")
+
+    if page.module_number is not None:
+        lines.extend(
+            [
+                f"module_number: {page.module_number}",
+                f"module_url: "
+                f"{yaml_string(f'/course/m{page.module_number}/')}",
+            ]
+        )
+
+    if page.lesson_number is not None:
+        lines.append(f"lesson_number: {page.lesson_number}")
 
     if last_reviewed:
         lines.append(f"last_reviewed: {yaml_string(last_reviewed)}")
+
+    if previous_page is not None and previous_title is not None:
+        lines.extend(
+            [
+                f"previous_page_url: {yaml_string(previous_page.public_url)}",
+                f"previous_page_title: {yaml_string(previous_title)}",
+            ]
+        )
+
+    if next_page is not None and next_title is not None:
+        lines.extend(
+            [
+                f"next_page_url: {yaml_string(next_page.public_url)}",
+                f"next_page_title: {yaml_string(next_title)}",
+            ]
+        )
 
     lines.extend(
         [
@@ -546,13 +609,23 @@ def prepare_course(pages: list[CoursePage]) -> None:
         for page in pages
     }
 
+    source_text_by_page = {
+        page: page.source.read_text(encoding="utf-8")
+        for page in pages
+    }
+
+    title_by_page = {
+        page: extract_title(source_text_by_page[page], page.source)
+        for page in pages
+    }
+
     errors: list[str] = []
 
-    for page in pages:
+    for index, page in enumerate(pages):
         try:
-            source_text = page.source.read_text(encoding="utf-8")
+            source_text = source_text_by_page[page]
+            title = title_by_page[page]
 
-            title = extract_title(source_text, page.source)
             status, authorship = extract_status_and_authorship(
                 source_text,
                 page.source,
@@ -570,6 +643,9 @@ def prepare_course(pages: list[CoursePage]) -> None:
                 page_url_map,
             )
 
+            previous_page = pages[index - 1] if index > 0 else None
+            next_page = pages[index + 1] if index < len(pages) - 1 else None
+
             page.destination.parent.mkdir(parents=True, exist_ok=True)
             page.destination.write_text(
                 render_front_matter(
@@ -579,6 +655,18 @@ def prepare_course(pages: list[CoursePage]) -> None:
                     status=status,
                     authorship=authorship,
                     last_reviewed=last_reviewed,
+                    previous_page=previous_page,
+                    previous_title=(
+                        title_by_page[previous_page]
+                        if previous_page is not None
+                        else None
+                    ),
+                    next_page=next_page,
+                    next_title=(
+                        title_by_page[next_page]
+                        if next_page is not None
+                        else None
+                    ),
                 )
                 + body,
                 encoding="utf-8",

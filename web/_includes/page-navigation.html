@@ -1,26 +1,20 @@
-{% assign nav_info = nil %}
-
-{% if site.data.generated and site.data.generated.navigation %}
-  {% assign nav_info = site.data.generated.navigation[page.path] %}
-{% endif %}
-
-{% if nav_info %}
+{% if page.previous_page_url or page.next_page_url %}
 <nav class="page-navigation" aria-label="Course page navigation">
 
   <div class="page-navigation-slot page-navigation-previous">
-    {% if nav_info.previous %}
-      <a href="{{ nav_info.previous.url | relative_url }}" rel="prev">
+    {% if page.previous_page_url %}
+      <a href="{{ page.previous_page_url | relative_url }}" rel="prev">
         <span class="page-navigation-label">← Previous page</span>
-        <span class="page-navigation-title">{{ nav_info.previous.title | escape }}</span>
+        <span class="page-navigation-title">{{ page.previous_page_title | escape }}</span>
       </a>
     {% endif %}
   </div>
 
   <div class="page-navigation-slot page-navigation-next">
-    {% if nav_info.next %}
-      <a href="{{ nav_info.next.url | relative_url }}" rel="next">
+    {% if page.next_page_url %}
+      <a href="{{ page.next_page_url | relative_url }}" rel="next">
         <span class="page-navigation-label">Next page →</span>
-        <span class="page-navigation-title">{{ nav_info.next.title | escape }}</span>
+        <span class="page-navigation-title">{{ page.next_page_title | escape }}</span>
       </a>
     {% endif %}
   </div>
