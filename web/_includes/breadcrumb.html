@@ -1,38 +1,32 @@
-{% assign page_info = nil %}
-
-{% if site.data.generated and site.data.generated.pages %}
-  {% assign page_info = site.data.generated.pages[page.path] %}
-{% endif %}
-
 <nav class="breadcrumb" aria-label="Breadcrumb">
   <a href="{{ '/' | relative_url }}">Home</a>
   <span aria-hidden="true">›</span>
 
-  {% if page_info.kind == "course" %}
+  {% if page.page_kind == "course" %}
     <span>Course</span>
   {% else %}
     <a href="{{ '/course/' | relative_url }}">Course</a>
   {% endif %}
 
-  {% if page_info.part_number %}
+  {% if page.part_number %}
     <span aria-hidden="true">›</span>
-    <span>Part {{ page_info.part_number }}</span>
+    <span>Part {{ page.part_number }}</span>
   {% endif %}
 
-  {% if page_info.module_number %}
+  {% if page.module_number %}
     <span aria-hidden="true">›</span>
 
-    {% if page_info.kind == "module" %}
-      <span>Module {{ page_info.module_number }}</span>
+    {% if page.page_kind == "module" %}
+      <span>Module {{ page.module_number }}</span>
       <span aria-hidden="true">›</span>
       <span>Intro</span>
     {% else %}
-      <a href="{{ page_info.module_url | relative_url }}">Module {{ page_info.module_number }}</a>
+      <a href="{{ page.module_url | relative_url }}">Module {{ page.module_number }}</a>
     {% endif %}
   {% endif %}
 
-  {% if page_info.lesson_number %}
+  {% if page.lesson_number %}
     <span aria-hidden="true">›</span>
-    <span>Page {{ page_info.lesson_number }}</span>
+    <span>Page {{ page.lesson_number }}</span>
   {% endif %}
 </nav>
