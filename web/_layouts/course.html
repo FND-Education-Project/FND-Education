@@ -10,21 +10,7 @@ layout: default
 
 <article class="course-page reading-column">
 
-  <nav class="breadcrumb" aria-label="Breadcrumb">
-    <a href="{{ '/' | relative_url }}">Home</a>
-    <span aria-hidden="true">›</span>
-    <a href="{{ '/course/' | relative_url }}">Course</a>
-
-    {% if page_info.part_number %}
-      <span aria-hidden="true">›</span>
-      <span>Part {{ page_info.part_number }}</span>
-    {% endif %}
-
-    {% if page_info.module_number %}
-      <span aria-hidden="true">›</span>
-      <span>Module {{ page_info.module_number }}</span>
-    {% endif %}
-  </nav>
+  {% include breadcrumb.html %}
 
   <header class="page-heading">
 
@@ -37,6 +23,10 @@ layout: default
 
       {% if page_info.module_number %}
         · MODULE {{ page_info.module_number }}
+      {% endif %}
+
+      {% if page_info.lesson_number %}
+        · PAGE {{ page_info.lesson_number }}
       {% endif %}
     </p>
 
