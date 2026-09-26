@@ -89,23 +89,19 @@ def remove_nav_blocks(text: str) -> str:
     return text
 
 
-def replace_context_navigation(text: str) -> str:
+def remove_context_navigation(text: str) -> str:
     """
-    Replace the repository NAV-CONTEXT block with website previous/next
-    navigation at the same location in the article.
+    Remove repository-only NAV-CONTEXT content from the website copy.
 
-    On lesson pages this is immediately after the clinician section and its
-    audience links, before Research and Sources.
+    Website previous/next controls are inserted separately after each audience
+    section and again after Research and Sources by the layout.
     """
     pattern = re.compile(
         r"\\?<!--\s*NAV-CONTEXT:START\s*-->.*?"
         r"<!--\s*NAV-CONTEXT:END\s*-->\s*",
         re.IGNORECASE | re.DOTALL,
     )
-    return pattern.sub(
-        "\n{% include page-navigation.html %}\n\n",
-        text,
-    )
+    return pattern.sub("", text)
 
 
 def normalize_audience_separators(text: str) -> str:
@@ -122,6 +118,36 @@ def normalize_audience_separators(text: str) -> str:
         r"\1\n---\n",
         text,
     )
+
+
+def insert_navigation_after_audience_blocks(text: str) -> tuple[str, int]:
+    """
+    Insert website previous/next controls after each of the three audience
+    sections.
+
+    The match is intentionally the complete four-link audience navigation
+    block, not a bare *** or --- marker, so ordinary Markdown emphasis and
+    unrelated horizontal rules are untouched.
+    """
+    pattern = re.compile(
+        r"(?P<block>"
+        r"\[For the Person With FND\]\(#for-the-person-with-fnd\)<br>[ \t]*\n"
+        r"\[For Family, Friends, and Other Supporters\]"
+        r"\(#for-family-friends-and-other-supporters\)<br>[ \t]*\n"
+        r"\[For Clinicians and the Care Team\]"
+        r"\(#for-clinicians-and-the-care-team\)<br>[ \t]*\n"
+        r"\[Research and Sources\]\(#research-and-sources\)[ \t]*\n"
+        r"[ \t]*---[ \t]*"
+        r")",
+        re.MULTILINE,
+    )
+
+    replacement = (
+        r"\g<block>\n\n"
+        "{% include page-navigation.html %}\n"
+    )
+
+    return pattern.subn(replacement, text)
 
 
 def discover_course_pages() -> list[CoursePage]:
@@ -259,9 +285,10 @@ def strip_website_header_material(text: str, source: Path) -> tuple[str, str]:
         cleaned Markdown body
         opening description
     """
-    text = replace_context_navigation(text)
+    text = remove_context_navigation(text)
     text = remove_nav_blocks(text)
     text = normalize_audience_separators(text)
+    text, _ = insert_navigation_after_audience_blocks(text)
 
     text, count = re.subn(
         r"^#\s+.+?\s*$",
@@ -636,6 +663,16 @@ def prepare_course(pages: list[CoursePage]) -> None:
                 source_text,
                 page.source,
             )
+
+            if page.kind == "lesson":
+                section_nav_count = body.count(
+                    "{% include page-navigation.html %}"
+                )
+                if section_nav_count != 3:
+                    raise ValueError(
+                        "Expected three audience-section navigation points; "
+                        f"found {section_nav_count}"
+                    )
 
             body = rewrite_relative_links(
                 body,
