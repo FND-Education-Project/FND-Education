@@ -4,7 +4,7 @@
   {% assign nav_info = site.data.generated.navigation[page.path] %}
 {% endif %}
 
-{% if nav_info and (nav_info.previous or nav_info.next) %}
+{% if nav_info %}
 <nav class="page-navigation" aria-label="Course page navigation">
 
   <div class="page-navigation-slot page-navigation-previous">
