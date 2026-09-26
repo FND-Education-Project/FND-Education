@@ -1,13 +1,6 @@
 ---
 layout: default
 ---
-
-{% assign page_info = nil %}
-
-{% if site.data.generated and site.data.generated.pages %}
-  {% assign page_info = site.data.generated.pages[page.path] %}
-{% endif %}
-
 <article class="course-page reading-column">
 
   {% include breadcrumb.html %}
@@ -17,12 +10,12 @@ layout: default
     <p class="page-context">
       COURSE
 
-      {% if page_info.part_number %}
-        · PART {{ page_info.part_number }}
+      {% if page.part_number %}
+        · PART {{ page.part_number }}
       {% endif %}
 
-      {% if page_info.module_number %}
-        · MODULE {{ page_info.module_number }}
+      {% if page.module_number %}
+        · MODULE {{ page.module_number }}
       {% endif %}
     </p>
 
@@ -66,7 +59,4 @@ layout: default
   <div class="course-content">
     {{ content }}
   </div>
-
-  {% include page-navigation.html %}
-
 </article>
