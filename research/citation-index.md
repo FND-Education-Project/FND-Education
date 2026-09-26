@@ -1928,3 +1928,11 @@ Seven original-entry expansions, September 24, 2026. The qualitative model and o
 | [Getting Up Safely After an Uninjured Event](../reference/recovery-techniques/functional_drop_attacks/05-recovering-from-the-floor.md) | [FND-CIT-0059](#fnd-cit-0059); [FND-CIT-0216](#fnd-cit-0216); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0217](#fnd-cit-0217); [FND-CIT-0001](#fnd-cit-0001) |
 | [Returning to Activities With the Right Support](../reference/recovery-techniques/functional_drop_attacks/06-supported-return-to-activity.md) | [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0060](#fnd-cit-0060); [FND-CIT-0028](#fnd-cit-0028); [FND-CIT-0206](#fnd-cit-0206) |
 | [Keeping Other Conditions in the Care Plan](../reference/recovery-techniques/functional_drop_attacks/07-overlapping-conditions-and-review.md) | [FND-CIT-0059](#fnd-cit-0059); [FND-CIT-0061](#fnd-cit-0061); [FND-CIT-0216](#fnd-cit-0216); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0108](#fnd-cit-0108); [FND-CIT-0001](#fnd-cit-0001) |
+
+## First diagnostic expansion: additional uses
+
+- [01-positive-diagnosis](../reference/diagnostic-concepts/01-positive-diagnosis.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0018](#fnd-cit-0018).
+- [03-tests-and-investigations](../reference/diagnostic-concepts/03-tests-and-investigations.md): [FND-CIT-0001](#fnd-cit-0001).
+- [10-assessment-and-everyday-function](../reference/diagnostic-concepts/10-assessment-and-everyday-function.md): [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0047](#fnd-cit-0047).
+- [01-hoovers-sign](../reference/diagnostic-signs/functional_limb_weakness/01-hoovers-sign.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0018](#fnd-cit-0018), [FND-CIT-0183](#fnd-cit-0183).
+- [technique-inventory](../reference/diagnostic-signs/functional_limb_weakness/technique-inventory.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0018](#fnd-cit-0018), [FND-CIT-0047](#fnd-cit-0047), [FND-CIT-0057](#fnd-cit-0057), [FND-CIT-0058](#fnd-cit-0058), [FND-CIT-0119](#fnd-cit-0119), [FND-CIT-0126](#fnd-cit-0126), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0131](#fnd-cit-0131), [FND-CIT-0134](#fnd-cit-0134), [FND-CIT-0150](#fnd-cit-0150), [FND-CIT-0152](#fnd-cit-0152), [FND-CIT-0153](#fnd-cit-0153), [FND-CIT-0155](#fnd-cit-0155), [FND-CIT-0162](#fnd-cit-0162), [FND-CIT-0166](#fnd-cit-0166), [FND-CIT-0183](#fnd-cit-0183), [FND-CIT-0185](#fnd-cit-0185).

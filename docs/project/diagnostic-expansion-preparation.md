@@ -124,3 +124,7 @@ This preparation is complete when the inventory, ownership map, structures and m
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+## Implementation update — September 26, 2026
+
+The [first-stage implementation record](functional-weakness-diagnostic-expansion.md) documents the weakness overview, Hoover’s sign, shared topics 1 and 3, and new shared topic 10 (assessment and everyday function). The historical preparation and baseline above remain unchanged. Remaining foundations and individual techniques are pending.

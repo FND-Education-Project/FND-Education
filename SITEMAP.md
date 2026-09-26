@@ -758,3 +758,13 @@ Use the sections below to drill down into the course, reference library, researc
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](README.md) · [Course](course/README.md) · [Reference Library](reference/README.md) · [Site Map](SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+## First diagnostic expansion
+
+- [Functional limb weakness: first diagnostic expansion](docs/project/functional-weakness-diagnostic-expansion.md)
+- [Understanding a Positive FND Diagnosis](reference/diagnostic-concepts/01-positive-diagnosis.md)
+- [What Tests and Investigations Can Tell Us](reference/diagnostic-concepts/03-tests-and-investigations.md)
+- [Understanding Assessment Results and Everyday Function](reference/diagnostic-concepts/10-assessment-and-everyday-function.md)
+- [Understanding an FND Diagnosis](reference/diagnostic-concepts/README.md)
+- [Hoover’s Sign](reference/diagnostic-signs/functional_limb_weakness/01-hoovers-sign.md)
+- [Functional Limb Weakness: Diagnostic Inventory](reference/diagnostic-signs/functional_limb_weakness/technique-inventory.md)

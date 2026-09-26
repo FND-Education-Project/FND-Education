@@ -10,6 +10,8 @@ Different people can experience very different combinations of symptoms. FND is 
 
 This reference is designed for finding information quickly. If you already know the symptom you want to learn about, you can start below. Each symptom has one path for **understanding and diagnosis** and another for **recovery techniques**.
 
+For shared explanations of diagnosis, investigations and everyday function, see [Understanding an FND Diagnosis](diagnostic-concepts/README.md).
+
 For a step-by-step introduction to FND, including how current research helps us understand it, visit the [FND Course](../course/).
 
 ---
