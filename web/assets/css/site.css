@@ -482,6 +482,77 @@ button:focus-visible {
 }
 
 
+/* ---------- Course page navigation ---------- */
+
+.page-navigation {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+
+  gap: 1rem;
+
+  padding:
+    0
+    clamp(1.1rem, 4vw, 2.5rem)
+    2.5rem;
+}
+
+
+.page-navigation-slot {
+  min-width: 0;
+}
+
+
+.page-navigation-slot a {
+  display: block;
+
+  height: 100%;
+
+  padding: 0.9rem 1rem;
+
+  border: 1px solid var(--border);
+  border-radius: 0.45rem;
+
+  background: var(--surface);
+
+  text-decoration: none;
+}
+
+
+.page-navigation-slot a:hover,
+.page-navigation-slot a:focus-visible {
+  border-color: var(--accent);
+}
+
+
+.page-navigation-next {
+  text-align: right;
+}
+
+
+.page-navigation-label,
+.page-navigation-title {
+  display: block;
+}
+
+
+.page-navigation-label {
+  margin-bottom: 0.25rem;
+
+  color: var(--accent-strong);
+
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+
+.page-navigation-title {
+  color: var(--text);
+
+  font-size: 0.95rem;
+  line-height: 1.35;
+}
+
+
 /* ---------- Bottom site navigation ---------- */
 
 .site-nav-bottom {
@@ -610,6 +681,16 @@ button:focus-visible {
 
   .page-heading h1 {
     max-width: none;
+  }
+
+
+  .page-navigation {
+    grid-template-columns: 1fr;
+  }
+
+
+  .page-navigation-next {
+    text-align: left;
   }
 
 
