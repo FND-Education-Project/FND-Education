@@ -94,6 +94,22 @@ def extract_last_reviewed(text: str) -> str | None:
     return match.group(1).strip() if match else None
 
 
+def normalize_audience_separators(text: str) -> str:
+    """
+    Replace only the horizontal-rule marker immediately following the
+    Research and Sources audience link.
+
+    This deliberately does not replace arbitrary *** sequences because those
+    can legitimately represent emphasis elsewhere in Markdown.
+    """
+    return re.sub(
+        r"(\[Research and Sources\]\(#research-and-sources\)[ \t]*\n)"
+        r"[ \t]*\*\*\*[ \t]*(?=\n|$)",
+        r"\1\n---\n",
+        text,
+    )
+
+
 def strip_website_header_material(text: str) -> tuple[str, str]:
     """
     Remove material already represented by the Jekyll page heading.
@@ -103,6 +119,7 @@ def strip_website_header_material(text: str) -> tuple[str, str]:
         opening description
     """
     text = remove_nav_blocks(text)
+    text = normalize_audience_separators(text)
 
     # The Jekyll course layout supplies the H1.
     text, count = re.subn(
