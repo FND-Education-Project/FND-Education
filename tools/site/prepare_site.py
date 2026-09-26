@@ -137,6 +137,7 @@ def insert_navigation_after_audience_blocks(text: str) -> tuple[str, int]:
         r"\[For Clinicians and the Care Team\]"
         r"\(#for-clinicians-and-the-care-team\)<br>[ \t]*\n"
         r"\[Research and Sources\]\(#research-and-sources\)[ \t]*\n"
+        r"(?:[ \t]*\n)*"
         r"[ \t]*---[ \t]*"
         r")",
         re.MULTILINE,
