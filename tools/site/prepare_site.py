@@ -36,16 +36,25 @@ LESSON_RE = re.compile(r"^(\d+)-.+\.md$", re.IGNORECASE)
 @dataclass(frozen=True)
 class CoursePage:
     source: Path
-    part_number: int
-    module_number: int
-    lesson_number: int
+    kind: str
+    part_number: int | None = None
+    module_number: int | None = None
+    lesson_number: int | None = None
 
     @property
     def public_url(self) -> str:
+        if self.kind == "course":
+            return "/course/"
+        if self.kind == "module":
+            return f"/course/m{self.module_number}/"
         return f"/course/m{self.module_number}/{self.lesson_number}/"
 
     @property
     def destination(self) -> Path:
+        if self.kind == "course":
+            return WEB / "course" / "index.md"
+        if self.kind == "module":
+            return WEB / "course" / f"m{self.module_number}" / "index.md"
         return (
             WEB
             / "course"
@@ -57,6 +66,10 @@ class CoursePage:
     @property
     def jekyll_path(self) -> str:
         return self.destination.relative_to(WEB).as_posix()
+
+    @property
+    def layout(self) -> str:
+        return "landing" if self.kind in {"course", "module"} else "course"
 
 
 def yaml_string(value: str) -> str:
@@ -93,42 +106,81 @@ def normalize_audience_separators(text: str) -> str:
 
 
 def discover_course_pages() -> list[CoursePage]:
-    """Find numbered lesson pages and derive their structural numbers."""
+    """
+    Find the course landing page, 23 module landing pages, and numbered lessons.
+
+    The module README remains part of the public course sequence:
+        /course/m1/       -> module README
+        /course/m1/1/     -> first lesson
+    """
     pages: list[CoursePage] = []
 
-    for source in COURSE_ROOT.rglob("*.md"):
-        lesson_match = LESSON_RE.match(source.name)
-        module_match = MODULE_RE.match(source.parent.name)
+    course_readme = COURSE_ROOT / "README.md"
+    if not course_readme.exists():
+        raise ValueError("course/README.md is missing")
 
-        if not lesson_match or not module_match:
+    pages.append(CoursePage(source=course_readme, kind="course"))
+
+    for part_dir in sorted(COURSE_ROOT.iterdir()):
+        if not part_dir.is_dir():
             continue
 
-        part_dir = source.parent.parent.name
-        part_match = PART_RE.match(part_dir)
-
+        part_match = PART_RE.match(part_dir.name)
         if not part_match:
-            raise ValueError(
-                f"Could not determine course part from {source.relative_to(ROOT)}"
+            continue
+
+        part_number = int(part_match.group(1))
+
+        for module_dir in sorted(part_dir.iterdir()):
+            if not module_dir.is_dir():
+                continue
+
+            module_match = MODULE_RE.match(module_dir.name)
+            if not module_match:
+                continue
+
+            module_number = int(module_match.group(1))
+            module_readme = module_dir / "README.md"
+
+            if not module_readme.exists():
+                raise ValueError(
+                    f"Module landing page missing: "
+                    f"{module_dir.relative_to(ROOT)}/README.md"
+                )
+
+            pages.append(
+                CoursePage(
+                    source=module_readme,
+                    kind="module",
+                    part_number=part_number,
+                    module_number=module_number,
+                )
             )
 
-        pages.append(
-            CoursePage(
-                source=source,
-                part_number=int(part_match.group(1)),
-                module_number=int(module_match.group(1)),
-                lesson_number=int(lesson_match.group(1)),
-            )
-        )
+            for source in sorted(module_dir.glob("*.md")):
+                lesson_match = LESSON_RE.match(source.name)
+                if not lesson_match:
+                    continue
 
-    pages.sort(
-        key=lambda page: (
-            page.module_number,
-            page.lesson_number,
-            page.source.as_posix(),
-        )
-    )
+                pages.append(
+                    CoursePage(
+                        source=source,
+                        kind="lesson",
+                        part_number=part_number,
+                        module_number=module_number,
+                        lesson_number=int(lesson_match.group(1)),
+                    )
+                )
 
-    # A short URL must identify exactly one source page.
+    def sequence_key(page: CoursePage) -> tuple[int, int, int]:
+        if page.kind == "course":
+            return (0, 0, 0)
+        if page.kind == "module":
+            return (page.module_number or 0, 0, 0)
+        return (page.module_number or 0, 1, page.lesson_number or 0)
+
+    pages.sort(key=sequence_key)
+
     seen: dict[str, Path] = {}
     for page in pages:
         if page.public_url in seen:
@@ -215,8 +267,6 @@ def strip_website_header_material(text: str, source: Path) -> tuple[str, str]:
             f"Expected one Working draft block in {source.relative_to(ROOT)}"
         )
 
-    # After the repository breadcrumb, H1 and Working draft box are removed,
-    # the first ordinary paragraph is the website description.
     text = text.lstrip()
     parts = re.split(r"\n\s*\n", text, maxsplit=1)
 
@@ -229,8 +279,6 @@ def strip_website_header_material(text: str, source: Path) -> tuple[str, str]:
     description = " ".join(line.strip() for line in parts[0].splitlines()).strip()
     body = parts[1].lstrip()
 
-    # If a page has this editorial line in its body, the website status area
-    # already carries the same information.
     body = re.sub(
         r"^\*Last reviewed:\s*.+?\*\s*$",
         "",
@@ -282,7 +330,6 @@ def copy_referenced_asset(resolved: Path) -> None:
     except ValueError:
         return
 
-    # Shared assets are copied as complete approved trees above.
     if relative.parts and relative.parts[0] == "assets":
         return
 
@@ -305,14 +352,10 @@ def rewrite_relative_links(
     """
     Translate links in the generated website copy.
 
-    - Course lesson Markdown -> its short website URL.
+    - Course/module Markdown -> its short website URL.
     - Published non-Markdown assets -> corresponding public asset path.
     - Other repository Markdown -> canonical GitHub source for now.
     - External URLs and same-page fragments -> unchanged.
-
-    As landing/reference layouts are generated, their Markdown paths will be
-    added to the website URL map and will automatically stop falling back to
-    GitHub.
     """
     pattern = re.compile(
         r"(?P<prefix>!?\[[^\]]*\]\()"
@@ -334,8 +377,6 @@ def rewrite_relative_links(
         path_part, separator, fragment = target.partition("#")
         resolved = (source_file.parent / path_part).resolve()
 
-        # Older course links sometimes used a local crosswords/ folder. The
-        # canonical puzzle PDFs now live in assets/puzzles/crosswords/.
         if not resolved.exists() and path_part.startswith("crosswords/"):
             fallback = (
                 ROOT
@@ -403,7 +444,7 @@ def render_front_matter(
 ) -> str:
     lines = [
         "---",
-        "layout: course",
+        f"layout: {page.layout}",
         f"title: {yaml_string(title)}",
         f"description: {yaml_string(description)}",
         f"status: {status}",
@@ -425,28 +466,41 @@ def render_front_matter(
 
 
 def write_generated_page_data(pages: list[CoursePage]) -> None:
-    """Write structural data used by layouts, regenerated from scratch."""
+    """Write structure and sequence data used by Jekyll layouts."""
     generated_dir = WEB / "_data" / "generated"
     generated_dir.mkdir(parents=True, exist_ok=True)
 
-    lines: list[str] = []
+    page_lines: list[str] = []
 
     for page in pages:
-        lines.extend(
+        page_lines.extend(
             [
                 f"{yaml_string(page.jekyll_path)}:",
-                f"  part_number: {page.part_number}",
-                f"  module_number: {page.module_number}",
-                f"  lesson_number: {page.lesson_number}",
+                f"  kind: {page.kind}",
+                f"  course_url: {yaml_string('/course/')}",
             ]
         )
 
+        if page.part_number is not None:
+            page_lines.append(f"  part_number: {page.part_number}")
+
+        if page.module_number is not None:
+            page_lines.extend(
+                [
+                    f"  module_number: {page.module_number}",
+                    f"  module_url: "
+                    f"{yaml_string(f'/course/m{page.module_number}/')}",
+                ]
+            )
+
+        if page.lesson_number is not None:
+            page_lines.append(f"  lesson_number: {page.lesson_number}")
+
     (generated_dir / "pages.yml").write_text(
-        "\n".join(lines) + "\n",
+        "\n".join(page_lines) + "\n",
         encoding="utf-8",
     )
 
-    # Course sequence navigation. The order is already module, then lesson.
     title_by_source = {
         page.source: extract_title(
             page.source.read_text(encoding="utf-8"),
@@ -530,7 +584,7 @@ def prepare_course(pages: list[CoursePage]) -> None:
                 encoding="utf-8",
             )
 
-        except Exception as exc:  # collect all page problems in one run
+        except Exception as exc:
             errors.append(f"{page.source.relative_to(ROOT)}: {exc}")
 
     if errors:
@@ -549,10 +603,17 @@ def main() -> None:
     prepare_course(pages)
     write_generated_page_data(pages)
 
+    module_count = sum(page.kind == "module" for page in pages)
+    lesson_count = sum(page.kind == "lesson" for page in pages)
+
     print("Prepared Jekyll website source.")
-    print(f"  Course lessons generated: {len(pages)}")
-    print("  Public course pattern:     /course/m{module}/{lesson}/")
-    print("  Canonical Markdown files:  unchanged")
+    print("  Course landing pages:       1")
+    print(f"  Module landing pages:       {module_count}")
+    print(f"  Course lessons:             {lesson_count}")
+    print(f"  Total generated course:     {len(pages)}")
+    print("  Module pattern:             /course/m{module}/")
+    print("  Lesson pattern:             /course/m{module}/{lesson}/")
+    print("  Canonical Markdown files:   unchanged")
 
 
 if __name__ == "__main__":
