@@ -3,3 +3,20 @@ _site/
 .sass-cache/
 .bundle/
 vendor/
+
+# Generated Jekyll source. These files are recreated by tools/site/prepare_site.py.
+web/course/*
+!web/course/.gitkeep
+web/reference/*
+!web/reference/.gitkeep
+web/glossary/*
+!web/glossary/.gitkeep
+web/research/*
+!web/research/.gitkeep
+
+web/_data/generated/*
+!web/_data/generated/.gitkeep
+
+web/assets/illustrations/
+web/assets/images/
+web/assets/puzzles/
