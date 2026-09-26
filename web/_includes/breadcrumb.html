@@ -21,8 +21,11 @@
 
   {% if page_info.module_number %}
     <span aria-hidden="true">›</span>
+
     {% if page_info.kind == "module" %}
       <span>Module {{ page_info.module_number }}</span>
+      <span aria-hidden="true">›</span>
+      <span>Intro</span>
     {% else %}
       <a href="{{ page_info.module_url | relative_url }}">Module {{ page_info.module_number }}</a>
     {% endif %}
