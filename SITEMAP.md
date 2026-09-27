@@ -503,29 +503,6 @@ Use the sections below to drill down into the course, reference library, researc
 - [Supported Return to Activities](reference/recovery-techniques/functional_seizures/10-supported-return-to-activities.md)
 - [Supporter Response Rehearsal](reference/recovery-techniques/functional_seizures/11-supporter-response-rehearsal.md)
 - [Recovery, Cluster and Flare Planning](reference/recovery-techniques/functional_seizures/12-recovery-cluster-and-flare-planning.md)
-- [What the Online Course Teaches and What the Booklets Repeat](reference/recovery-techniques/functional_seizures/course-and-booklet-content-boundary.md)
-- [How the Unified Booklets Will Weigh Evidence](reference/recovery-techniques/functional_seizures/evidence-and-unification-method.md)
-<details>
-<summary><strong>Unified CBT Booklets</strong></summary>
-
-- [Booklet collection index](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/README.md)
-- [Booklet 1 Outline — Understanding Functional Seizures and CBT](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/01-understanding-functional-seizures-and-cbt.md)
-- [Booklet 2 Outline — Discovering Your Seizure Pattern](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/02-discovering-your-seizure-pattern.md)
-- [Booklet 3 Outline — Skills for Warnings and Seizure Onset](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/03-skills-for-warnings-and-seizure-onset.md)
-- [Booklet 4 Outline — Returning to Activities and Independence](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/04-returning-to-activities-and-independence.md)
-- [Booklet 5 Outline — Support, Setbacks, and Maintaining Progress](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/05-support-setbacks-and-maintaining-progress.md)
-
-</details>
-<details>
-<summary><strong>Content-Creator Guides</strong></summary>
-
-- [Content-Creator Guide 1 — Understanding Functional Seizures and CBT](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/01-content-creator-guide-understanding-functional-seizures-and-cbt.md)
-- [Content-Creator Guide 2 — Discovering Your Seizure Pattern](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/02-content-creator-guide-discovering-your-seizure-pattern.md)
-- [Content-Creator Guide 3 — Skills for Warnings and Seizure Onset](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/03-content-creator-guide-skills-for-warnings-and-seizure-onset.md)
-- [Content-Creator Guide 4 — Returning to Activities and Independence](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/04-content-creator-guide-returning-to-activities-and-independence.md)
-- [Content-Creator Guide 5 — Support, Setbacks, and Maintaining Progress](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/05-content-creator-guide-support-setbacks-and-maintaining-progress.md)
-
-</details>
 
 </details>
 
@@ -544,14 +521,6 @@ Use the sections below to drill down into the course, reference library, researc
 - [Treating Other Conditions That Make Swallowing Harder](reference/recovery-techniques/functional_swallowing_and_globus/09-coexisting-conditions.md)
 - [A Prescriber-Led Medication Discussion for Assessed Globus](reference/recovery-techniques/functional_swallowing_and_globus/10-globus-medication-review.md)
 - [Reviewing Diet and Equipment Restrictions Together](reference/recovery-techniques/functional_swallowing_and_globus/11-reviewing-diet-and-equipment-restrictions.md)
-
-</details>
-
-<details>
-<summary><strong>Community and Review Working Material</strong></summary>
-
-- [Community Experience Quote Audit for Recovery Techniques](reference/recovery-techniques/community-experience-quotes.md)
-- [Episodic Symptoms and Flare-Onset Quote Review](reference/recovery-techniques/episodic-flare-community-quote-review.md)
 
 </details>
 
