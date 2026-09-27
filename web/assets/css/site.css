@@ -705,30 +705,79 @@ button:focus-visible {
 }
 
 
-.return-to-top span {
+.return-to-top-icon {
   position: relative;
 
-  display: inline-block;
+  display: block;
 
-  font-weight: 900;
+  width: 1.35rem;
+  height: 1.55rem;
 
-  transform: scaleX(1.16);
+  margin: 0 auto;
 }
 
 
-.return-to-top span::before {
+.return-to-top-target {
+  position: absolute;
+
+  left: 50%;
+  top: 0.08rem;
+
+  width: 1.15rem;
+
+  border-top: 3px solid currentColor;
+
+  transform: translateX(-50%);
+}
+
+
+.return-to-top-arrow {
+  position: absolute;
+
+  left: 50%;
+  bottom: 0.05rem;
+
+  width: 0.9rem;
+  height: 1.05rem;
+
+  transform: translateX(-50%);
+}
+
+
+.return-to-top-arrow::before {
   content: "";
 
   position: absolute;
 
   left: 50%;
-  top: -0.18rem;
+  bottom: 0;
 
-  width: 0.9rem;
+  width: 3px;
+  height: 0.9rem;
 
-  border-top: 2px solid currentColor;
+  background: currentColor;
 
   transform: translateX(-50%);
+}
+
+
+.return-to-top-arrow::after {
+  content: "";
+
+  position: absolute;
+
+  left: 50%;
+  top: 0.02rem;
+
+  width: 0.62rem;
+  height: 0.62rem;
+
+  border-top: 3px solid currentColor;
+  border-left: 3px solid currentColor;
+
+  transform:
+    translateX(-50%)
+    rotate(45deg);
 }
 
 
