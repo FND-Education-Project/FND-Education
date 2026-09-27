@@ -1,7 +1,7 @@
 # Content-Creator Guide 1 — Understanding Functional Seizures and CBT
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Content-Creator Guide 1 — Understanding Functional Seizures and CBT**
+[Home](../../../../../README.md) › [Reference Library](../../../../README.md) › [Recovery Techniques](../../../../recovery-techniques/README.md) › [Functional Seizure Recovery Materials](../../../../recovery-techniques/functional_seizures/README.md) › [Unified CBT Booklets](README.md) › **Content-Creator Guide 1 — Understanding Functional Seizures and CBT**
 <!-- NAV-BREADCRUMB:END -->
 
 This guide teaches the ideas behind [Booklet 1: Understanding Functional Seizures and CBT](01-understanding-functional-seizures-and-cbt.md). It is written for an author, illustrator, reviewer, or educator who may never have received CBT and should not be expected to infer a therapy model from a list of page titles.
@@ -182,7 +182,7 @@ If the draft cannot answer these questions, it is not ready for reader testing.
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Content-Creator Guide 2 — Discovering Your Seizure Pattern](02-content-creator-guide-discovering-your-seizure-pattern.md)
 
-**Related:** [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
+**Related:** [Booklet collection](README.md) · [Functional-seizure recovery materials](../../../../recovery-techniques/functional_seizures/README.md) · [Functional-seizure recovery page](../../../../recovery-techniques/06-functional-seizures.md)
 
-**Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
+**Navigate:** [Home](../../../../../README.md) · [Course](../../../../../course/README.md) · [Reference Library](../../../../README.md) · [Site Map](../../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

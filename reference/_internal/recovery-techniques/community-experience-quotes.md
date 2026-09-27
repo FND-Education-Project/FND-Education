@@ -1,7 +1,7 @@
 # Community Experience Quotes by Symptom and Technique
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Community Experience Quotes by Symptom and Technique**
+[Home](../../../README.md) › [Reference Library](../../README.md) › [Recovery Techniques](../../recovery-techniques/README.md) › **Community Experience Quotes by Symptom and Technique**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
@@ -150,7 +150,7 @@ This table records the community sources selected for the *Long-Term Management*
 
 ### Coverage against the detailed technique pages
 
-The [detailed functional-limb-weakness collection](functional_limb_weakness/README.md) now separates twelve techniques. The public accounts above support review of broad physiotherapy, activity, equipment and episodic experience; they do **not** supply two favourable and two unfavourable accounts for each technique.
+The [detailed functional-limb-weakness collection](../../recovery-techniques/functional_limb_weakness/README.md) now separates twelve techniques. The public accounts above support review of broad physiotherapy, activity, equipment and episodic experience; they do **not** supply two favourable and two unfavourable accounts for each technique.
 
 | Detailed technique | Current quotation coverage |
 |---|---|
@@ -211,7 +211,7 @@ Community use of “paralysis” includes complete movement loss, severe weaknes
 
 ## Functional drop attacks: taxonomy before outcome
 
-The located public discussions frequently used “drop attack” for prolonged immobility, catatonic or seizure-like events, knee buckling, syncope or any fall. Those are not interchangeable with the narrower presentation used on the [functional drop-attacks page](16-functional-drop-attacks.md): a sudden fall from standing or walking without definite blackout and often with rapid recovery.
+The located public discussions frequently used “drop attack” for prolonged immobility, catatonic or seizure-like events, knee buckling, syncope or any fall. Those are not interchangeable with the narrower presentation used on the [functional drop-attacks page](../../recovery-techniques/16-functional-drop-attacks.md): a sudden fall from standing or walking without definite blackout and often with rapid recovery.
 
 One discussion labels a catatonic seizure-like event as a drop attack; another applies “drop attack” to temporary inability to move. A physiotherapy discussion includes useful experience about heeding warnings and about rehabilitation worsening for some participants, but does not describe enough event detail to confirm functional drop attacks. These sources are valuable evidence that community terminology needs clarification, not outcome evidence for a drop-attack technique.
 
@@ -507,20 +507,20 @@ These quotations describe individual experiences and do not establish effectiven
 
 ### Coverage against the detailed technique pages
 
-The [twelve detailed pages](functional_seizures/README.md) now distinguish safety, warning work, therapies, prescribing and recovery. The existing accounts above give broad safety, medication and relationship context; they do not provide matched outcome pairs for each intervention.
+The [twelve detailed pages](../../recovery-techniques/functional_seizures/README.md) now distinguish safety, warning work, therapies, prescribing and recovery. The existing accounts above give broad safety, medication and relationship context; they do not provide matched outcome pairs for each intervention.
 
-- [Diagnostic Explanation and Continuing Care](functional_seizures/01-diagnostic-explanation-and-continuing-care.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
-- [Individualized Episode Safety Plan](functional_seizures/02-individualized-episode-safety-plan.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
-- [Warning and Pattern Mapping](functional_seizures/03-warning-and-pattern-mapping.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
-- [Sensory Grounding and an Attention Anchor](functional_seizures/04-sensory-grounding-and-attention-anchor.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
-- [Seizure-Focused Psychological Treatment](functional_seizures/05-seizure-focused-psychological-treatment.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
-- [ReACT for Children and Adolescents](functional_seizures/06-react-for-children-and-adolescents.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
-- [Clinician-Taught Breathing Control](functional_seizures/07-clinician-taught-breathing-control.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
-- [Coexisting-Condition and Load Review](functional_seizures/08-coexisting-condition-and-load-review.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
-- [Prescriber-Led Medication Review](functional_seizures/09-prescriber-led-medication-review.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
-- [Supported Return to Activities](functional_seizures/10-supported-return-to-activities.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
-- [Supporter Response Rehearsal](functional_seizures/11-supporter-response-rehearsal.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
-- [Recovery, Cluster and Flare Planning](functional_seizures/12-recovery-cluster-and-flare-planning.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Diagnostic Explanation and Continuing Care](../../recovery-techniques/functional_seizures/01-diagnostic-explanation-and-continuing-care.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Individualized Episode Safety Plan](../../recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Warning and Pattern Mapping](../../recovery-techniques/functional_seizures/03-warning-and-pattern-mapping.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Sensory Grounding and an Attention Anchor](../../recovery-techniques/functional_seizures/04-sensory-grounding-and-attention-anchor.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Seizure-Focused Psychological Treatment](../../recovery-techniques/functional_seizures/05-seizure-focused-psychological-treatment.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [ReACT for Children and Adolescents](../../recovery-techniques/functional_seizures/06-react-for-children-and-adolescents.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Clinician-Taught Breathing Control](../../recovery-techniques/functional_seizures/07-clinician-taught-breathing-control.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Coexisting-Condition and Load Review](../../recovery-techniques/functional_seizures/08-coexisting-condition-and-load-review.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Prescriber-Led Medication Review](../../recovery-techniques/functional_seizures/09-prescriber-led-medication-review.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Supported Return to Activities](../../recovery-techniques/functional_seizures/10-supported-return-to-activities.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Supporter Response Rehearsal](../../recovery-techniques/functional_seizures/11-supporter-response-rehearsal.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
+- [Recovery, Cluster and Flare Planning](../../recovery-techniques/functional_seizures/12-recovery-cluster-and-flare-planning.md): matched favourable and difficult/no-benefit accounts remain to be sourced and reviewed.
 
 No new quotation or community-only technique is added in this expansion. Specialist grounding guidance changes the evidence label, not the meaning of the existing accounts. Medication anecdotes do not support routine rescue sedation for functional seizures.
 
@@ -670,7 +670,7 @@ No new quotation or community-only technique is added in this expansion. Special
 
 ## Functional swallowing symptoms and globus
 
-**Expansion note — September 18, 2026:** [Eleven detailed pages](functional_swallowing_and_globus/README.md) now map the original list. Existing quotes below retain their diagnostic and outcome limitations; they were not newly verified or promoted into technique evidence. No advice about smaller mouthfuls, extra chewing or distraction should override the assessed swallowing plan.
+**Expansion note — September 18, 2026:** [Eleven detailed pages](../../recovery-techniques/functional_swallowing_and_globus/README.md) now map the original list. Existing quotes below retain their diagnostic and outcome limitations; they were not newly verified or promoted into technique evidence. No advice about smaller mouthfuls, extra chewing or distraction should override the assessed swallowing plan.
 
 ### Graded return to food and clinician-taught swallowing strategies
 
@@ -1226,20 +1226,20 @@ Before adding or replacing a quotation, confirm all of the following:
 
 **Quotation gap — September 17, 2026:** No new functional motor/vocal tic quotations verified for this addition. Seek public, contextualized accounts of living with motor and vocal symptoms; helpful and harmful clinician/supporter responses; young and older adults; and coexistence with primary tics. Preserve self-described diagnostic uncertainty. Existing jerks/tics or facial-spasm accounts have not been reassigned as verified functional-tic diagnoses.
 
-See the [recovery overview](17-functional-tics-and-tic-like-symptoms.md). These gaps should not be filled with invented quotes or private-group material.
+See the [recovery overview](../../recovery-techniques/17-functional-tics-and-tic-like-symptoms.md). These gaps should not be filled with invented quotes or private-group material.
 
 ### Cough collection expansion: September 20, 2026
 
-The [ten detailed pages](functional_cough_and_upper_airway_symptoms/README.md) add no community quotations or community-only techniques. Everyday examples are explicitly illustrative. Existing reports do not establish diagnosis or efficacy, and reports about chronic cough or ILO must not be relabelled as FND experiences. A broader lived-experience review remains pending.
+The [ten detailed pages](../../recovery-techniques/functional_cough_and_upper_airway_symptoms/README.md) add no community quotations or community-only techniques. Everyday examples are explicitly illustrative. Existing reports do not establish diagnosis or efficacy, and reports about chronic cough or ILO must not be relabelled as FND experiences. A broader lived-experience review remains pending.
 
 ### Functional Cognitive Disorder expansion: September 21, 2026
 
-The [thirteen detailed pages](functional_cognitive_disorder/README.md) add no community quotations or community-only techniques. Everyday examples are illustrative, not patient reports. A balanced, verified lived-experience review remains pending. Trial participant feedback is described as research evidence, not presented as community endorsement.
+The [thirteen detailed pages](../../recovery-techniques/functional_cognitive_disorder/README.md) add no community quotations or community-only techniques. Everyday examples are illustrative, not patient reports. A balanced, verified lived-experience review remains pending. Trial participant feedback is described as research evidence, not presented as community endorsement.
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Episodic Symptoms and Flare-Onset Quote Review](episodic-flare-community-quote-review.md)
 
-**Related:** [Collection index](README.md)
+**Related:** [Collection index](../../recovery-techniques/README.md)
 
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

@@ -1,7 +1,7 @@
 # How the Unified Booklets Will Weigh Evidence
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Reference Library](../../README.md) › [Recovery Techniques](../README.md) › [Functional Seizure Recovery Materials](README.md) › **How the Unified Booklets Will Weigh Evidence**
+[Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../../recovery-techniques/README.md) › [Functional Seizure Recovery Materials](../../../recovery-techniques/functional_seizures/README.md) › **How the Unified Booklets Will Weigh Evidence**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Decision framework for reviewers:** This page explains how material from different CBT-informed programmes will be selected, changed, or left out. “Better outcomes” receive more weight only after the study and the outcome have been examined carefully.
@@ -104,14 +104,14 @@ Before an exercise enters the final PDF, its authoring note must state:
 - Are safety, function, and continued care visible even when seizure control is limited?
 - Could any reward, supporter, exposure, thought-challenging, breathing, or monitoring instruction be experienced as coercive, blaming, or unsafe?
 
-[Resource map](README.md) · [Course/booklet boundary](course-and-booklet-content-boundary.md) · [Booklet outlines](unified_cbt_booklets/README.md)
+[Resource map](../../../recovery-techniques/functional_seizures/README.md) · [Course/booklet boundary](course-and-booklet-content-boundary.md) · [Booklet outlines](unified_cbt_booklets/README.md)
 
 *Decision framework created August 25, 2026 · Formal evidence grading and clinical review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: What the Online Course Teaches and What the Booklets Repeat](course-and-booklet-content-boundary.md)
 
-**Related:** [Collection index](README.md) · [Recovery Techniques](../README.md) · [Functional-seizure recovery page](../06-functional-seizures.md) · [Unified CBT booklets](unified_cbt_booklets/README.md)
+**Related:** [Collection index](../../../recovery-techniques/functional_seizures/README.md) · [Recovery Techniques](../../../recovery-techniques/README.md) · [Functional-seizure recovery page](../../../recovery-techniques/06-functional-seizures.md) · [Unified CBT booklets](unified_cbt_booklets/README.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
