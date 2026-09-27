@@ -20,3 +20,7 @@ web/_data/generated/*
 web/assets/illustrations/
 web/assets/images/
 web/assets/puzzles/
+
+web/sitemap/*
+web/sitemap.xml
+web/robots.txt
