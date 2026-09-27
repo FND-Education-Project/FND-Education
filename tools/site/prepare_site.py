@@ -246,13 +246,32 @@ def insert_recovery_diagnosis_link(
         f"[Understanding & Diagnosis]({relative_url_liquid(diagnosis_url)})."
     )
 
-    pattern = re.compile(
+    standalone = re.compile(
         r"(?P<label>^\*\*Refers to:\*\*[ \t]*$)",
         re.MULTILINE,
     )
 
-    updated, count = pattern.subn(
+    updated, count = standalone.subn(
         lambda match: match.group("label") + "\n\n" + sentence,
+        text,
+        count=1,
+    )
+
+    if count == 1:
+        return updated
+
+    inline = re.compile(
+        r"^\*\*Refers to:\*\*[ \t]+(?P<description>.+?)\s*$",
+        re.MULTILINE,
+    )
+
+    updated, count = inline.subn(
+        lambda match: (
+            "**Refers to:**\n\n"
+            + sentence
+            + "\n\n"
+            + match.group("description").strip()
+        ),
         text,
         count=1,
     )
