@@ -98,7 +98,7 @@ Public posts show that people use “drop attack” for several different events
 
 ### What this account adds—and does not add
 
-The account supports asking whether a reliable warning exists and whether rehabilitation is helping or worsening real-world function. It does not validate warning-based treatment for no-warning drop attacks. Posts that call prolonged paralysis, catatonic events, fainting or seizures “drop attacks” are retained in the [community source notebook](community-experience-quotes.md) as taxonomy examples, not treatment outcomes for this page.
+The account supports asking whether a reliable warning exists and whether rehabilitation is helping or worsening real-world function. It does not validate warning-based treatment for no-warning drop attacks. Posts that call prolonged paralysis, catatonic events, fainting or seizures “drop attacks” are retained in the [community source notebook](../_internal/recovery-techniques/community-experience-quotes.md) as taxonomy examples, not treatment outcomes for this page.
 
 [Community reports](#community-reports-what-people-try)
 

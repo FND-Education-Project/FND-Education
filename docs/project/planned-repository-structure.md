@@ -98,3 +98,5 @@ The structure may change as the project develops. Priorities are predictable nav
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+**September 27, 2026 — Diagnostic expansion:** Shared concept pages support the functional-weakness and functional-tremor overviews. Detailed diagnostic drafts now comprise Hoover’s sign, distractibility and entrainment; two preserved symptom inventories remain distinct from these three detailed pages. See the [tremor implementation record](functional-tremor-diagnostic-expansion.md). Source content stays under `reference/`; reference website generation and shared layouts remain separate migration work.

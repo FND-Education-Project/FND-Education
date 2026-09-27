@@ -12,6 +12,8 @@ The repository contains all 97 course pages: 23 module overviews and 74 focused 
 
 ## Completed foundation work
 
+- Expanded the next diagnostic symptom, functional tremor, on September 27, 2026: one revised symptom overview, two detailed diagnostic comparisons (distractibility and entrainment), and the preserved twelve-entry inventory. Added sources FND-CIT-0220–0224, including the 2026 evidence synthesis. See the [implementation and review record](functional-tremor-diagnostic-expansion.md). No new symptom category or recovery technique was added; all branches remain for review.
+
 - Began the first diagnostic expansion on September 26, 2026: revised functional limb weakness, one detailed Hoover’s-sign draft, three shared explanations, and a preserved sixteen-entry inventory. See the [implementation and review record](functional-weakness-diagnostic-expansion.md). Clinical review and primary-study full-text review remain pending; reference publishing is a separate Pages migration step.
 
 - Expanded functional facial symptoms on September 22, 2026: ten original entries map one-to-one to ten pages, plus one navigation overview. Corrected the earlier audit count of eight against the initial, common-baseline and pre-expansion commits. Added adjacent safety sources FND-CIT-0197–0198. Restored full, vertically stacked audience menus in FCD and PPPD to the Module 1, page 1 format, repaired the FCD research link and retained legacy anchors. Clinical, lived-experience and accessibility review remains pending.

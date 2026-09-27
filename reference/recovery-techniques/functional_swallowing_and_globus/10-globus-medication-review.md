@@ -94,7 +94,7 @@ Wang et al. concerns several functional esophageal disorders and is adjacent to 
 | <a id="citation-2"></a>**[2]** | Wang Z, Zheng Z, Wei X, et al. Efficacy of gut-brain neuromodulators in functional esophageal disorders: a systematic review. *BMC Gastroenterology*. 2026. [FND-CIT-0042](../../../research/citation-index.md#fnd-cit-0042). [Source](https://doi.org/10.1186/s12876-026-05089-6) |
 | <a id="citation-3"></a>**[3]** | American Speech-Language-Hearing Association. Adult Dysphagia. *Practice Portal*. Accessed September 18, 2026. [FND-CIT-0115](../../../research/citation-index.md#fnd-cit-0115). [Source](https://www.asha.org/practice-portal/clinical-topics/adult-dysphagia/) |
 
-**Lived experience:** Existing accounts and gaps are recorded in the [swallowing source notebook](../community-experience-quotes.md#functional-swallowing-symptoms-and-globus). No new quotation is presented as verified technique evidence.
+**Lived experience:** Existing accounts and gaps are recorded in the [swallowing source notebook](../../_internal/recovery-techniques/community-experience-quotes.md#functional-swallowing-symptoms-and-globus). No new quotation is presented as verified technique evidence.
 
 *Source review: September 18, 2026 · Human and clinical review pending.*
 

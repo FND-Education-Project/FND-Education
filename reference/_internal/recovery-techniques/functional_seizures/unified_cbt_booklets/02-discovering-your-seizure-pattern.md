@@ -1,7 +1,7 @@
 # Booklet 2 Outline — Discovering Your Seizure Pattern
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Booklet 2 Outline — Discovering Your Seizure Pattern**
+[Home](../../../../../README.md) › [Reference Library](../../../../README.md) › [Recovery Techniques](../../../../recovery-techniques/README.md) › [Functional Seizure Recovery Materials](../../../../recovery-techniques/functional_seizures/README.md) › [Unified CBT Booklets](README.md) › **Booklet 2 Outline — Discovering Your Seizure Pattern**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Reader-facing promise:** “Build a useful picture of what happens before, during, and after your episodes—without being told that you must have a trigger.”
@@ -184,7 +184,7 @@ End with one small test and one outcome to observe. The worksheet must visibly e
 
 ## 6. Relationship to the online course
 
-The course fully explains [causes and honest uncertainty](../../../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/README.md) and [general personal symptom mapping](../../../../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/README.md).
+The course fully explains [causes and honest uncertainty](../../../../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/README.md) and [general personal symptom mapping](../../../../../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/README.md).
 
 This booklet repeats that no single cause is required, then adds a functional-seizure timeline, warning/no-warning routes, a monitoring stop rule, and a treatment opportunity point.
 
@@ -211,7 +211,7 @@ This booklet repeats that no single cause is required, then adds a functional-se
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Booklet 3 Outline — Skills for Warnings and Seizure Onset](03-skills-for-warnings-and-seizure-onset.md)
 
-**Related:** [← Previous](01-understanding-functional-seizures-and-cbt.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
+**Related:** [← Previous](01-understanding-functional-seizures-and-cbt.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../../../../recovery-techniques/functional_seizures/README.md) · [Functional-seizure recovery page](../../../../recovery-techniques/06-functional-seizures.md)
 
-**Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
+**Navigate:** [Home](../../../../../README.md) · [Course](../../../../../course/README.md) · [Reference Library](../../../../README.md) · [Site Map](../../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

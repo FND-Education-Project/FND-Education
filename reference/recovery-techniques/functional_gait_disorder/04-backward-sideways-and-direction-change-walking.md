@@ -109,7 +109,7 @@ Backward and sideways transformations are described in functional-motor consensu
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: External Rhythm and Auditory Cueing for Functional Gait Disorder](05-external-rhythm-and-auditory-cueing.md)
 
-**Related:** [Previous technique: Speed and continuous-walking transformation](03-speed-and-continuous-walking-transformation.md) · [Detailed technique index](README.md) · [Functional gait overview](../05-functional-gait-disorder.md) · [Community experience notebook](../community-experience-quotes.md#functional-gait-disorder)
+**Related:** [Previous technique: Speed and continuous-walking transformation](03-speed-and-continuous-walking-transformation.md) · [Detailed technique index](README.md) · [Functional gait overview](../05-functional-gait-disorder.md) · [Community experience notebook](../../_internal/recovery-techniques/community-experience-quotes.md#functional-gait-disorder)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

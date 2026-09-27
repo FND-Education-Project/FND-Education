@@ -1,7 +1,7 @@
 # Booklet 1 Outline — Understanding Functional Seizures and CBT
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Booklet 1 Outline — Understanding Functional Seizures and CBT**
+[Home](../../../../../README.md) › [Reference Library](../../../../README.md) › [Recovery Techniques](../../../../recovery-techniques/README.md) › [Functional Seizure Recovery Materials](../../../../recovery-techniques/functional_seizures/README.md) › [Unified CBT Booklets](README.md) › **Booklet 1 Outline — Understanding Functional Seizures and CBT**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Reader-facing promise:** “Understand what functional seizures are, what CBT is trying to change, and how to choose goals without blame.”
@@ -128,7 +128,7 @@ Include questions such as: “What positive evidence supports my diagnosis?”, 
 
 ## 5. Relationship to the online course
 
-The course fully teaches [what FND is](../../../../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md), [how it is diagnosed](../../../../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md), [functional-seizure diagnosis and safety](../../../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/README.md), and [psychological treatment without blame](../../../../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md).
+The course fully teaches [what FND is](../../../../../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md), [how it is diagnosed](../../../../../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md), [functional-seizure diagnosis and safety](../../../../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/README.md), and [psychological treatment without blame](../../../../../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md).
 
 This booklet repeats only the facts needed for standalone safety, then adds a seizure-focused explanation of CBT, a treatment-goal exercise, and appointment-ready worksheets.
 
@@ -155,7 +155,7 @@ This booklet repeats only the facts needed for standalone safety, then adds a se
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Booklet 2 Outline — Discovering Your Seizure Pattern](02-discovering-your-seizure-pattern.md)
 
-**Related:** [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
+**Related:** [Booklet collection](README.md) · [Functional-seizure recovery materials](../../../../recovery-techniques/functional_seizures/README.md) · [Functional-seizure recovery page](../../../../recovery-techniques/06-functional-seizures.md)
 
-**Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
+**Navigate:** [Home](../../../../../README.md) · [Course](../../../../../course/README.md) · [Reference Library](../../../../README.md) · [Site Map](../../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

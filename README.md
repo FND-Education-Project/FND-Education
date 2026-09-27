@@ -147,7 +147,9 @@ The course is designed as a **self-paced reference course**, not a rigid week-by
 
 ## Find information by symptom or need
 
-**[Open the FND Reference Library](reference/README.md)** for three collections: positive diagnostic signs, recovery/management techniques, and [Common Co-occurring Conditions](reference/co-occurring-conditions/README.md). The diagnostic and recovery collections each have one overview for each of 17 symptom presentations, including motor and vocal/phonic functional tics, severe functional paralysis and functional drop attacks. The co-occurring collection adds nine topic overviews with treatment options and interactions with FND. The [master technique list](reference/recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
+**[Open the FND Reference Library](reference/README.md)** for shared [diagnostic explanations](reference/diagnostic-concepts/README.md), positive diagnostic signs, recovery/management techniques, and [Common Co-occurring Conditions](reference/co-occurring-conditions/README.md). The diagnostic and recovery collections each have one overview for each of 17 symptom presentations, including motor and vocal/phonic functional tics, severe functional paralysis and functional drop attacks. The co-occurring collection adds nine topic overviews with treatment options and interactions with FND. The [master technique list](reference/recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
+
+Detailed diagnostic expansion has begun with [functional limb weakness](reference/diagnostic-signs/01-functional-limb-weakness.md) and [functional tremor](reference/diagnostic-signs/02-functional-tremor.md). The original inventories remain available while individual techniques undergo staged review.
 
 The 34 diagnostic and recovery overview pages explain that symptoms may be episodic, fluctuating, or longer-lasting. Diagnostic pages state which appearances they refer to and where symptoms overlap more than one category. They also include immediate safety or onset guidance and, where possible, show how a familiar recovery technique may be shortened for a flare. Community quotations are usually kept in source notebooks while their wording, source, privacy, representativeness and safety are evaluated. When selected quotations appear on an educational page, they remain clearly labelled as lived experience rather than treatment evidence.
 
@@ -159,7 +161,7 @@ The [functional-visual collection](reference/recovery-techniques/functional_visu
 
 The [functional-sensory collection](reference/recovery-techniques/functional_sensory_symptoms/README.md) has ten pages expanding the original list and two additional safety/flare-planning pages. The [history audit](docs/project/recovery-technique-history-audit.md) distinguishes original entries from document counts across all symptoms.
 
-The reference library also contains a developing [five-booklet functional-seizure CBT series](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/README.md), with separate outlines and content-creator guides.
+A five-booklet functional-seizure CBT series is also being developed. Its production outlines and content-creator guides are kept with the repository's internal Reference working material until reader-ready resources exist.
 
 Current course and reference material can be found for:
 
@@ -252,7 +254,7 @@ The project should be willing to say **“researchers do not yet know”** when 
   - [Symptom-specific diagnostic signs](reference/diagnostic-signs/README.md)
   - [Symptom recovery and management techniques](reference/recovery-techniques/README.md)
   - [Common Co-occurring Conditions](reference/co-occurring-conditions/README.md)
-  - [Functional-seizure CBT booklet project](reference/recovery-techniques/functional_seizures/unified_cbt_booklets/README.md)
+  - [Internal Reference working material](reference/_internal/README.md)
 - [Evidence standard](docs/project/evidence-standard.md)
 - [Search and usability standards](docs/project/search-and-usability-standards.md)
 - [Accessibility standards](docs/project/accessibility-standards.md)
