@@ -548,6 +548,13 @@ button:focus-visible {
 }
 
 
+.course-content .page-navigation {
+  padding-top: 0;
+
+  border-top: 0;
+}
+
+
 .page-navigation-slot {
   min-width: 0;
 }
@@ -715,7 +722,7 @@ button:focus-visible {
   position: absolute;
 
   left: 50%;
-  top: 0.05rem;
+  top: -0.18rem;
 
   width: 0.9rem;
 
