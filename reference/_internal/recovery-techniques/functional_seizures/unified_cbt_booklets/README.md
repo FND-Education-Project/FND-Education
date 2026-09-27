@@ -1,7 +1,7 @@
 # Unified CBT-Informed Booklets for Functional Seizures
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md)
+[Home](../../../../../README.md) › [Reference Library](../../../../README.md) › [Recovery Techniques](../../../../recovery-techniques/README.md) › [Functional Seizure Recovery Materials](../../../../recovery-techniques/functional_seizures/README.md) › [Unified CBT Booklets](README.md)
 <!-- NAV-BREADCRUMB:END -->
 
 > **Five-booklet production plan:** Each booklet has a numbered, reviewer-ready page outline and a separate in-depth guide that teaches the future content creator the CBT concepts, functional-seizure applications, worked examples, visual possibilities, and language cautions behind the outline. The final booklets are intended for reading on screen or downloading and printing. They are education and guided self-reflection, not a substitute for individualized therapy or medical care.
@@ -105,14 +105,14 @@ These pages can form the functional-seizure section of the person's broader FND 
 6. Copyright and image-licensing review.
 7. Small usability test: can a reader explain what is being taught, why it may help, how to try it, and when to stop?
 
-[Functional-seizure resource map](../README.md) · [Course/booklet boundary](../course-and-booklet-content-boundary.md) · [Functional-seizure recovery techniques](../../06-functional-seizures.md)
+[Functional-seizure resource map](../../../../recovery-techniques/functional_seizures/README.md) · [Course/booklet boundary](../course-and-booklet-content-boundary.md) · [Functional-seizure recovery techniques](../../../../recovery-techniques/06-functional-seizures.md)
 
 *Outline created August 25, 2026 · All five booklets require clinical, lived-experience, and accessibility review*
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Booklet 1 Outline — Understanding Functional Seizures and CBT](01-understanding-functional-seizures-and-cbt.md)
 
-**Related:** [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
+**Related:** [Booklet collection](README.md) · [Functional-seizure recovery materials](../../../../recovery-techniques/functional_seizures/README.md) · [Functional-seizure recovery page](../../../../recovery-techniques/06-functional-seizures.md)
 
-**Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
+**Navigate:** [Home](../../../../../README.md) · [Course](../../../../../course/README.md) · [Reference Library](../../../../README.md) · [Site Map](../../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

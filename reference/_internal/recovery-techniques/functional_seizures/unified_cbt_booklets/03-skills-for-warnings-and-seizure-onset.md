@@ -1,7 +1,7 @@
 # Booklet 3 Outline — Skills for Warnings and Seizure Onset
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Booklet 3 Outline — Skills for Warnings and Seizure Onset**
+[Home](../../../../../README.md) › [Reference Library](../../../../README.md) › [Recovery Techniques](../../../../recovery-techniques/README.md) › [Functional Seizure Recovery Materials](../../../../recovery-techniques/functional_seizures/README.md) › [Unified CBT Booklets](README.md) › **Booklet 3 Outline — Skills for Warnings and Seizure Onset**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Reader-facing promise:** “Choose, practise, and test a small number of safe skills for your own established warning pattern. If you have no warning, this booklet still offers useful routes.”
@@ -178,7 +178,7 @@ Use no more than five short lines. Large type and simple icons should make it us
 
 ## 5. Relationship to the online course
 
-Repeat the minimum episode-safety information from [Module 6](../../../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/README.md) and the general explanation of practice from [rehabilitation and neuroplastic change](../../../../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/README.md).
+Repeat the minimum episode-safety information from [Module 6](../../../../../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/README.md) and the general explanation of practice from [rehabilitation and neuroplastic change](../../../../../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/README.md).
 
 This booklet adds seizure-specific choice routes, original skill instructions, a monitored behavioural experiment, and a complete no-warning route.
 
@@ -205,7 +205,7 @@ This booklet adds seizure-specific choice routes, original skill instructions, a
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Booklet 4 Outline — Returning to Activities and Independence](04-returning-to-activities-and-independence.md)
 
-**Related:** [← Previous](02-discovering-your-seizure-pattern.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
+**Related:** [← Previous](02-discovering-your-seizure-pattern.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../../../../recovery-techniques/functional_seizures/README.md) · [Functional-seizure recovery page](../../../../recovery-techniques/06-functional-seizures.md)
 
-**Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
+**Navigate:** [Home](../../../../../README.md) · [Course](../../../../../course/README.md) · [Reference Library](../../../../README.md) · [Site Map](../../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

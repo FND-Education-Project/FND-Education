@@ -1,7 +1,7 @@
 # Booklet 4 Outline — Returning to Activities and Independence
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Booklet 4 Outline — Returning to Activities and Independence**
+[Home](../../../../../README.md) › [Reference Library](../../../../README.md) › [Recovery Techniques](../../../../recovery-techniques/README.md) › [Functional Seizure Recovery Materials](../../../../recovery-techniques/functional_seizures/README.md) › [Unified CBT Booklets](README.md) › **Booklet 4 Outline — Returning to Activities and Independence**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Reader-facing promise:** “Build life outward in safe, manageable steps instead of waiting for every seizure to stop first.”
@@ -168,7 +168,7 @@ Involve occupational therapy, physiotherapy, the treating clinician, school, wor
 
 ## 5. What belongs in the online course and what is specific to this booklet
 
-The course teaches general [rehabilitation](../../../../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/README.md), [pacing](../../../../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md), [daily-living accessibility](../../../../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md), and [work and community participation](../../../../course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/README.md). This booklet briefly repeats those ideas only when needed to understand the exercise. Its distinctive contribution is the functional-seizure fear-and-avoidance example, the high-consequence safety boundary, the seizure-specific prediction and experiment, the planned supporter role, and the multi-outcome participation review.
+The course teaches general [rehabilitation](../../../../../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/README.md), [pacing](../../../../../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md), [daily-living accessibility](../../../../../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md), and [work and community participation](../../../../../course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/README.md). This booklet briefly repeats those ideas only when needed to understand the exercise. Its distinctive contribution is the functional-seizure fear-and-avoidance example, the high-consequence safety boundary, the seizure-specific prediction and experiment, the planned supporter role, and the multi-outcome participation review.
 
 ## 6. Evidence and safety notes for the content creator
 
@@ -213,7 +213,7 @@ Could the worksheets support a useful conversation with school, work, occupation
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Booklet 5 Outline — Support, Setbacks, and Maintaining Progress](05-support-setbacks-and-maintaining-progress.md)
 
-**Related:** [← Previous](03-skills-for-warnings-and-seizure-onset.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
+**Related:** [← Previous](03-skills-for-warnings-and-seizure-onset.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../../../../recovery-techniques/functional_seizures/README.md) · [Functional-seizure recovery page](../../../../recovery-techniques/06-functional-seizures.md)
 
-**Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
+**Navigate:** [Home](../../../../../README.md) · [Course](../../../../../course/README.md) · [Reference Library](../../../../README.md) · [Site Map](../../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

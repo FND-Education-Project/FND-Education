@@ -1,7 +1,7 @@
 # Episodic Symptoms and Flare-Onset Quote Review
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Reference Library](../README.md) › [Recovery Techniques](README.md) › **Episodic Symptoms and Flare-Onset Quote Review**
+[Home](../../../README.md) › [Reference Library](../../README.md) › [Recovery Techniques](../../recovery-techniques/README.md) › **Episodic Symptoms and Flare-Onset Quote Review**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Internal review draft:** These quotations are collected for editorial review before any are moved onto public symptom pages.
@@ -101,24 +101,24 @@ When one or more quotations are chosen for publication:
 
 ## Functional sensory technique experience gaps — September 15, 2026
 
-The [twelve detailed sensory pages](functional_sensory_symptoms/README.md) add no new community quotations. Contributor review is still needed for experiences of reduced sensation versus painful contact, sensory discrimination, visual feedback, clothing adaptation, environmental access, skin protection and no-warning flare support. Seek positive, neutral and adverse accounts, including clinician and supporter interactions. Do not relabel hazardous stimulation or forced exposure as community recommendations, and do not manufacture quotations to fill gaps.
+The [twelve detailed sensory pages](../../recovery-techniques/functional_sensory_symptoms/README.md) add no new community quotations. Contributor review is still needed for experiences of reduced sensation versus painful contact, sensory discrimination, visual feedback, clothing adaptation, environmental access, skin protection and no-warning flare support. Seek positive, neutral and adverse accounts, including clinician and supporter interactions. Do not relabel hazardous stimulation or forced exposure as community recommendations, and do not manufacture quotations to fill gaps.
 
 ## Functional visual experience gaps — September 16, 2026
 
-The [nine detailed visual pages](functional_visual_symptoms/README.md) include no new community quotations. Review is needed for positive explanations, optical demonstrations, visual practice, light protection, coexisting conditions and uncertain specialist options, including no-warning episodes and adverse or neutral experiences. Preserve access needs and consent; personal accounts cannot establish treatment efficacy.
+The [nine detailed visual pages](../../recovery-techniques/functional_visual_symptoms/README.md) include no new community quotations. Review is needed for positive explanations, optical demonstrations, visual practice, light protection, coexisting conditions and uncertain specialist options, including no-warning episodes and adverse or neutral experiences. Preserve access needs and consent; personal accounts cannot establish treatment efficacy.
 
 ## Functional speech and voice experience gaps — September 17, 2026
 
-The [eleven detailed speech-and-voice pages](functional_speech_and_voice_symptoms/README.md) add no community quotations. Human review should include different voice, fluency, articulation and accent experiences; clinician explanations; helpful or unwelcome prompting; communication aids; and episodes without warning. Seek neutral and adverse experiences as well as benefit. Do not invent quotations or treat a personal response to humming or singing as evidence for everyone.
+The [eleven detailed speech-and-voice pages](../../recovery-techniques/functional_speech_and_voice_symptoms/README.md) add no community quotations. Human review should include different voice, fluency, articulation and accent experiences; clinician explanations; helpful or unwelcome prompting; communication aids; and episodes without warning. Seek neutral and adverse experiences as well as benefit. Do not invent quotations or treat a personal response to humming or singing as evidence for everyone.
 
 ## Functional-tic quotation review gap
 
-Motor/vocal tics and tic attacks now have a [dedicated overview](17-functional-tics-and-tic-like-symptoms.md). Existing “jerks/tics” candidate descriptions remain diagnostically ambiguous and have not been promoted into verified functional-tic quotations. Seek source-checked accounts of vocal interruptions, clusters, supporter responses and unhelpful care; label each as lived experience, not evidence of efficacy.
+Motor/vocal tics and tic attacks now have a [dedicated overview](../../recovery-techniques/17-functional-tics-and-tic-like-symptoms.md). Existing “jerks/tics” candidate descriptions remain diagnostically ambiguous and have not been promoted into verified functional-tic quotations. Seek source-checked accounts of vocal interruptions, clusters, supporter responses and unhelpful care; label each as lived experience, not evidence of efficacy.
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Recovery Techniques](README.md)
+**Continue:** [Next page: Recovery Techniques](../../recovery-techniques/README.md)
 
-**Related:** [Collection index](README.md)
+**Related:** [Collection index](../../recovery-techniques/README.md)
 
-**Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
+**Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

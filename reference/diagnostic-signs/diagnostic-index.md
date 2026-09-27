@@ -14,6 +14,8 @@ Every page begins with **Refers to** and a scope boundary. Symptoms can appear i
 
 Start with the [shared diagnostic explanations](../diagnostic-concepts/README.md). The first expanded symptom is [functional limb weakness](01-functional-limb-weakness.md), with a detailed [Hoover’s-sign draft](functional_limb_weakness/01-hoovers-sign.md) and the preserved [sixteen-entry inventory](functional_limb_weakness/technique-inventory.md).
 
+The next expanded symptom is [functional tremor](02-functional-tremor.md), with [distractibility](functional_tremor/01-distractibility.md), [entrainment](functional_tremor/02-entrainment.md) and its preserved [twelve-entry inventory](functional_tremor/technique-inventory.md). Detailed drafts do not replace the rest of the assessment.
+
 ## Required time-course coverage
 
 Every symptom page in this collection should explain the symptom’s **actual temporal pattern**, rather than assuming that the symptom seen in clinic is continuously present. In each of the three audience sections, the page should address:

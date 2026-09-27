@@ -93,7 +93,7 @@ Baker et al. is professional consensus, not controlled proof that this individua
 | <a id="citation-1"></a>**[1]** | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../../research/citation-index.md#fnd-cit-0025). [Source](https://doi.org/10.1136/jnnp-2021-326767) |
 | <a id="citation-2"></a>**[2]** | American Speech-Language-Hearing Association. Adult Dysphagia. *Practice Portal*. Accessed September 18, 2026. [FND-CIT-0115](../../../research/citation-index.md#fnd-cit-0115). [Source](https://www.asha.org/practice-portal/clinical-topics/adult-dysphagia/) |
 
-**Lived experience:** Existing accounts and gaps are recorded in the [swallowing source notebook](../community-experience-quotes.md#functional-swallowing-symptoms-and-globus). No new quotation is presented as verified technique evidence.
+**Lived experience:** Existing accounts and gaps are recorded in the [swallowing source notebook](../../_internal/recovery-techniques/community-experience-quotes.md#functional-swallowing-symptoms-and-globus). No new quotation is presented as verified technique evidence.
 
 *Source review: September 18, 2026 · Human and clinical review pending.*
 

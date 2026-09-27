@@ -1,7 +1,7 @@
 # Content-Creator Guide 3 — Skills for Warnings and Seizure Onset
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Content-Creator Guide 3 — Skills for Warnings and Seizure Onset**
+[Home](../../../../../README.md) › [Reference Library](../../../../README.md) › [Recovery Techniques](../../../../recovery-techniques/README.md) › [Functional Seizure Recovery Materials](../../../../recovery-techniques/functional_seizures/README.md) › [Unified CBT Booklets](README.md) › **Content-Creator Guide 3 — Skills for Warnings and Seizure Onset**
 <!-- NAV-BREADCRUMB:END -->
 
 This guide teaches the ideas behind [Booklet 3: Skills for Warnings and Seizure Onset](03-skills-for-warnings-and-seizure-onset.md). It is for a content creator who needs to understand why an onset skill is used, how it differs from generic relaxation, and how to present practice without implying that a person should be able to stop every seizure.
@@ -207,7 +207,7 @@ Before drafting, the creator should be able to explain:
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Content-Creator Guide 4 — Returning to Activities and Independence](04-content-creator-guide-returning-to-activities-and-independence.md)
 
-**Related:** [← Previous](02-content-creator-guide-discovering-your-seizure-pattern.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
+**Related:** [← Previous](02-content-creator-guide-discovering-your-seizure-pattern.md) · [Booklet collection](README.md) · [Functional-seizure recovery materials](../../../../recovery-techniques/functional_seizures/README.md) · [Functional-seizure recovery page](../../../../recovery-techniques/06-functional-seizures.md)
 
-**Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
+**Navigate:** [Home](../../../../../README.md) · [Course](../../../../../course/README.md) · [Reference Library](../../../../README.md) · [Site Map](../../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

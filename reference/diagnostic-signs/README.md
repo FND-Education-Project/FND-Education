@@ -16,6 +16,8 @@ Each symptom page now includes a **Diagnostic techniques at a glance** inventory
 
 ## In this folder
 
+- **[Functional Tremor](02-functional-tremor.md)** — expanded overview, with separate [distractibility](functional_tremor/01-distractibility.md) and [entrainment](functional_tremor/02-entrainment.md) drafts. All twelve original entries remain in the [inventory](functional_tremor/technique-inventory.md).
+
 - **[Functional Tics and Tic-Like Symptoms](17-functional-tics-and-tic-like-symptoms.md)** — motor and vocal symptoms, assessment limits and individualized care.
 
 - **[Diagnostic techniques index](diagnostic-index.md)** — browse every symptom-specific page and read how the signs should be interpreted and limited.
@@ -24,7 +26,7 @@ Each symptom page now includes a **Diagnostic techniques at a glance** inventory
 > [!IMPORTANT]
 > A positive sign supports diagnosis only in the right clinical setting. New, severe, injured or substantially changed symptoms still need appropriate medical assessment.
 
-**Diagnostic expansion preparation:** [Content ownership and functional-weakness migration plan](../../docs/project/diagnostic-expansion-preparation.md) · [Baseline inventory](../../docs/project/diagnostic-expansion-baseline.md) · [Page structures](../../docs/project/diagnostic-page-authoring-structures.md). The first stage now includes the revised [functional limb weakness overview](01-functional-limb-weakness.md), [Hoover’s sign](functional_limb_weakness/01-hoovers-sign.md), and [shared diagnostic explanations](../diagnostic-concepts/README.md). All sixteen original entries remain in the [technique inventory](functional_limb_weakness/technique-inventory.md); the other fifteen await individual review. See the [implementation record](../../docs/project/functional-weakness-diagnostic-expansion.md).
+**Diagnostic expansion preparation:** [Content ownership and functional-weakness migration plan](../../docs/project/diagnostic-expansion-preparation.md) · [Baseline inventory](../../docs/project/diagnostic-expansion-baseline.md) · [Page structures](../../docs/project/diagnostic-page-authoring-structures.md). The first stage now includes the revised [functional limb weakness overview](01-functional-limb-weakness.md), [Hoover’s sign](functional_limb_weakness/01-hoovers-sign.md), and [shared diagnostic explanations](../diagnostic-concepts/README.md). All sixteen original entries remain in the [technique inventory](functional_limb_weakness/technique-inventory.md); the other fifteen await individual review. See the [weakness implementation record](../../docs/project/functional-weakness-diagnostic-expansion.md). The next stage is recorded in the [functional-tremor expansion](../../docs/project/functional-tremor-diagnostic-expansion.md); staged review remains incomplete.
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Diagnostic Techniques Index](diagnostic-index.md)

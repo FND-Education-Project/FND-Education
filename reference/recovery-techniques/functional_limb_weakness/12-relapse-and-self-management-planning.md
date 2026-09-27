@@ -117,7 +117,7 @@ Relapse planning and self-management are recommended in physiotherapy and occupa
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Recovery Techniques for Functional Tremor](../02-functional-tremor.md)
 
-**Related:** [Electrical stimulation as an adjunct](11-electrical-stimulation-as-an-adjunct.md) · [Detailed techniques](README.md) · [Functional limb weakness overview](../01-functional-limb-weakness.md) · [Community quotation review](../community-experience-quotes.md)
+**Related:** [Electrical stimulation as an adjunct](11-electrical-stimulation-as-an-adjunct.md) · [Detailed techniques](README.md) · [Functional limb weakness overview](../01-functional-limb-weakness.md) · [Community quotation review](../../_internal/recovery-techniques/community-experience-quotes.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

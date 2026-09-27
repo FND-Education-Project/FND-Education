@@ -1,7 +1,7 @@
 # Booklet 5 Outline — Support, Setbacks, and Maintaining Progress
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../../README.md) › [Reference Library](../../../README.md) › [Recovery Techniques](../../README.md) › [Functional Seizure Recovery Materials](../README.md) › [Unified CBT Booklets](README.md) › **Booklet 5 Outline — Support, Setbacks, and Maintaining Progress**
+[Home](../../../../../README.md) › [Reference Library](../../../../README.md) › [Recovery Techniques](../../../../recovery-techniques/README.md) › [Functional Seizure Recovery Materials](../../../../recovery-techniques/functional_seizures/README.md) › [Unified CBT Booklets](README.md) › **Booklet 5 Outline — Support, Setbacks, and Maintaining Progress**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Reader-facing promise:** “Agree on helpful support, prepare for symptom changes, and protect safety, access, and the person’s priorities—whether seizures change or not.”
@@ -168,7 +168,7 @@ If a supporter is coercive, frightening, or unreliable, develop the plan with a 
 
 ## 5. What belongs in the online course and what is specific to this booklet
 
-The course teaches broad principles for [relationships and supporters](../../../../course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/README.md), [setbacks and changing symptoms](../../../../course/part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/README.md), [building a personal handbook](../../../../course/part-6-long-term-management/module-22-building-your-personal-fnd-handbook/README.md), and [reviewing progress](../../../../course/part-6-long-term-management/module-23-reviewing-progress/README.md). This booklet repeats those ideas only enough to make its plan understandable. It adds a functional-seizure episode and recovery agreement, consent-based supporter language, a familiar-versus-changed-event checkpoint, seizure-specific outcome review, and a compact maintenance plan.
+The course teaches broad principles for [relationships and supporters](../../../../../course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/README.md), [setbacks and changing symptoms](../../../../../course/part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/README.md), [building a personal handbook](../../../../../course/part-6-long-term-management/module-22-building-your-personal-fnd-handbook/README.md), and [reviewing progress](../../../../../course/part-6-long-term-management/module-23-reviewing-progress/README.md). This booklet repeats those ideas only enough to make its plan understandable. It adds a functional-seizure episode and recovery agreement, consent-based supporter language, a familiar-versus-changed-event checkpoint, seizure-specific outcome review, and a compact maintenance plan.
 
 ## 6. Evidence and safety notes for the content creator
 
@@ -206,14 +206,14 @@ Is supporter wellbeing included without transferring clinical responsibility to 
 
 Does the ending offer worthwhile goals, accommodations, and continuing care to people whose seizures persist?
 
-[Previous: Returning to Activities and Independence](04-returning-to-activities-and-independence.md) · [Series overview](README.md) · [Functional-seizure resource map](../README.md)
+[Previous: Returning to Activities and Independence](04-returning-to-activities-and-independence.md) · [Series overview](README.md) · [Functional-seizure resource map](../../../../recovery-techniques/functional_seizures/README.md)
 
 *Outline revised August 25, 2026 · Clinical, lived-experience, supporter, medical-safety, and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Unified CBT-Informed Booklets for Functional Seizures](README.md)
 
-**Related:** [Collection index](README.md) · [← Previous](04-returning-to-activities-and-independence.md) · [Functional-seizure recovery materials](../README.md) · [Functional-seizure recovery page](../../06-functional-seizures.md)
+**Related:** [Collection index](README.md) · [← Previous](04-returning-to-activities-and-independence.md) · [Functional-seizure recovery materials](../../../../recovery-techniques/functional_seizures/README.md) · [Functional-seizure recovery page](../../../../recovery-techniques/06-functional-seizures.md)
 
-**Navigate:** [Home](../../../../README.md) · [Course](../../../../course/README.md) · [Reference Library](../../../README.md) · [Site Map](../../../../SITEMAP.md)
+**Navigate:** [Home](../../../../../README.md) · [Course](../../../../../course/README.md) · [Reference Library](../../../../README.md) · [Site Map](../../../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

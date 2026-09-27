@@ -143,7 +143,7 @@ No community-only technique was added. Recurring lived-experience suggestions fo
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Tremor: Detailed Recovery Techniques](functional_tremor/README.md)
 
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/02-functional-tremor.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+**Related:** [Diagnostic comparisons: distractibility](../diagnostic-signs/functional_tremor/01-distractibility.md) · [Entrainment](../diagnostic-signs/functional_tremor/02-entrainment.md) · [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/02-functional-tremor.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
