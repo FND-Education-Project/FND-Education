@@ -8,6 +8,13 @@
 
 Functional seizures can shape travel, relationships, study, work and time alone. Planning can create room for life; it should not turn every activity into a risk exercise.
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 
 ### Definition

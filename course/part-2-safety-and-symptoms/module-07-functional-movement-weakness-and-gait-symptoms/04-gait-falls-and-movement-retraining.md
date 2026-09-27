@@ -8,6 +8,13 @@
 
 Walking can become slow, effortful, unsteady or unpredictable. A person may drag a leg, buckle, sway, freeze or fall. An unusual-looking walk is not a diagnosis by itself. (*citations* [1](#citation-1), [2](#citation-2))
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 
 ### Definition

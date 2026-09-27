@@ -8,6 +8,13 @@
 
 Trying harder at the exact movement that is stuck can sometimes add effort without restoring control. Rehabilitation may begin where movement is easier or more automatic.
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 
 ### Definition

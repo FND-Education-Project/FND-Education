@@ -8,6 +8,13 @@
 
 A foot, hand, jaw, face or another body part may pull into a painful posture or feel stuck there. Functional dystonia is one possible explanation, but posture alone does not decide the diagnosis. (*citations* [1](#citation-1))
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 
 ### Definition
