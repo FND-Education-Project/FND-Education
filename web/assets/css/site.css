@@ -706,78 +706,15 @@ button:focus-visible {
 
 
 .return-to-top-icon {
-  position: relative;
-
   display: block;
 
-  width: 1.35rem;
-  height: 1.55rem;
+  width: 1.55rem;
+  height: 1.65rem;
 
   margin: 0 auto;
-}
 
-
-.return-to-top-target {
-  position: absolute;
-
-  left: 50%;
-  top: 0.08rem;
-
-  width: 1.15rem;
-
-  border-top: 3px solid currentColor;
-
-  transform: translateX(-50%);
-}
-
-
-.return-to-top-arrow {
-  position: absolute;
-
-  left: 50%;
-  bottom: 0.05rem;
-
-  width: 0.9rem;
-  height: 1.05rem;
-
-  transform: translateX(-50%);
-}
-
-
-.return-to-top-arrow::before {
-  content: "";
-
-  position: absolute;
-
-  left: 50%;
-  bottom: 0;
-
-  width: 3px;
-  height: 0.9rem;
-
-  background: currentColor;
-
-  transform: translateX(-50%);
-}
-
-
-.return-to-top-arrow::after {
-  content: "";
-
-  position: absolute;
-
-  left: 50%;
-  top: 0.02rem;
-
-  width: 0.62rem;
-  height: 0.62rem;
-
-  border-top: 3px solid currentColor;
-  border-left: 3px solid currentColor;
-
-  transform:
-    translateX(-50%)
-    rotate(45deg);
+  color: var(--accent-strong);
+  fill: currentColor;
 }
 
 
