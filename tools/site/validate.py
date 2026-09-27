@@ -35,20 +35,46 @@ VERIFICATION_FILE = "google65d5cac3c1021024.html"
 
 
 class LinkCollector(HTMLParser):
-    """Collect href/src values from rendered HTML."""
+    """Collect rendered links and Previous/Next relations."""
 
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
         self.links: list[str] = []
+        self.previous_links: list[str] = []
+        self.next_links: list[str] = []
 
     def handle_starttag(
         self,
         tag: str,
         attrs: list[tuple[str, str | None]],
     ) -> None:
-        for name, value in attrs:
-            if value and name.lower() in {"href", "src"}:
+        attributes = {
+            name.lower(): value
+            for name, value in attrs
+            if value is not None
+        }
+
+        for name in ("href", "src"):
+            value = attributes.get(name)
+            if value:
                 self.links.append(value)
+
+        if tag.lower() != "a":
+            return
+
+        href = attributes.get("href")
+        rel = attributes.get("rel", "")
+        relations = {
+            item.strip().lower()
+            for item in rel.split()
+            if item.strip()
+        }
+
+        if href and "prev" in relations:
+            self.previous_links.append(href)
+
+        if href and "next" in relations:
+            self.next_links.append(href)
 
 
 def configured_baseurl() -> str:
@@ -285,12 +311,110 @@ def target_exists(site_root: Path, target: str) -> bool:
     return False
 
 
+def navigation_target_route(
+    current_route: str,
+    target: str,
+    baseurl: str,
+) -> str | None:
+    """Resolve one Previous/Next href to its public route."""
+    resolved = local_target_path(
+        current_route=current_route,
+        raw_target=target,
+        baseurl=baseurl,
+    )
+    if resolved is None:
+        return None
+
+    if resolved.endswith("/index.html"):
+        resolved = resolved[: -len("index.html")]
+
+    return resolved
+
+
+def audit_page_navigation(
+    current_route: str,
+    parser: LinkCollector,
+    expected: prepare_site.NavigationLinks | None,
+    baseurl: str,
+    errors: list[str],
+) -> None:
+    """
+    Require Previous and Next navigation everywhere except Home and Contact.
+
+    Educational pages can repeat the same control after audience sections.
+    Every repeated rel=prev/rel=next target must agree with the site-wide
+    sequence so duplicated controls cannot silently diverge.
+    """
+    exempt = {"/", "/contact/"}
+
+    if current_route in exempt:
+        if parser.previous_links or parser.next_links:
+            errors.append(
+                f"Navigation should be absent on exempt page {current_route}"
+            )
+        return
+
+    if expected is None:
+        errors.append(
+            f"No expected navigation sequence defined for {current_route}"
+        )
+        return
+
+    if not parser.previous_links:
+        errors.append(
+            f"Missing Previous page navigation on {current_route}"
+        )
+
+    if not parser.next_links:
+        errors.append(
+            f"Missing Next page navigation on {current_route}"
+        )
+
+    expected_pairs = (
+        (
+            "Previous",
+            parser.previous_links,
+            expected.previous_url,
+        ),
+        (
+            "Next",
+            parser.next_links,
+            expected.next_url,
+        ),
+    )
+
+    for label, links, expected_url in expected_pairs:
+        if not links or not expected_url:
+            continue
+
+        resolved_targets = {
+            navigation_target_route(
+                current_route=current_route,
+                target=target,
+                baseurl=baseurl,
+            )
+            for target in links
+        }
+        resolved_targets.discard(None)
+
+        if resolved_targets != {expected_url}:
+            errors.append(
+                f"{label} navigation mismatch on {current_route}: "
+                f"expected {expected_url}, found "
+                + ", ".join(sorted(resolved_targets))
+            )
+
+
 def check_built_site(
     site_root: Path,
     baseurl: str,
     errors: list[str],
 ) -> int:
-    _course, _reference, routes = expected_routes()
+    course_pages, reference_pages, routes = expected_routes()
+    navigation_map = prepare_site.build_global_navigation(
+        course_pages,
+        reference_pages,
+    )
 
     if not site_root.exists():
         errors.append(f"Built site does not exist: {site_root}")
@@ -323,6 +447,15 @@ def check_built_site(
         parser.feed(text)
 
         current_route = built_file_to_route(site_root, html_file)
+
+        if current_route in routes:
+            audit_page_navigation(
+                current_route=current_route,
+                parser=parser,
+                expected=navigation_map.get(current_route),
+                baseurl=baseurl,
+                errors=errors,
+            )
 
         for target in parser.links:
             resolved = local_target_path(
