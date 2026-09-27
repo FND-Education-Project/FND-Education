@@ -141,6 +141,8 @@ If a positive sign is clear, show it respectfully as evidence of preserved movem
 
 The tremor review and neurophysiology chapter describe supportive clinical and laboratory features. The physiotherapy paper is consensus guidance; individual exercises have not all been tested in controlled trials. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
+**Detailed diagnostic comparisons:** [Distractibility](../../../reference/diagnostic-signs/functional_tremor/01-distractibility.md) · [Entrainment](../../../reference/diagnostic-signs/functional_tremor/02-entrainment.md). These explain examination findings, separately from rehabilitation exercises.
+
 **Related reference pages:** [tremor signs](../../../reference/diagnostic-signs/02-functional-tremor.md) · [tremor recovery ideas](../../../reference/recovery-techniques/02-functional-tremor.md) · [jerk signs](../../../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md) · [jerk recovery ideas](../../../reference/recovery-techniques/03-functional-jerks-and-myoclonus.md)
 
 | Citation | Figure | Full citation |

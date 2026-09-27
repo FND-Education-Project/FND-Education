@@ -181,7 +181,7 @@ If a laboratory video is contributed, it should show electrode placement on a he
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Dystonia or Fixed Posturing](04-functional-dystonia.md)
 
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/03-functional-jerks-and-myoclonus.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+**Related:** [Previous: Tremor Entrainment](functional_tremor/02-entrainment.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/03-functional-jerks-and-myoclonus.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

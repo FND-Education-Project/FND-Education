@@ -296,6 +296,9 @@ Use the sections below to drill down into the course, reference library, researc
 - [Diagnostic Techniques index](reference/diagnostic-signs/diagnostic-index.md)
 - [Functional Limb Weakness](reference/diagnostic-signs/01-functional-limb-weakness.md)
 - [Functional Tremor](reference/diagnostic-signs/02-functional-tremor.md)
+- [Distractibility in Functional Tremor](reference/diagnostic-signs/functional_tremor/01-distractibility.md)
+- [Entrainment in Functional Tremor](reference/diagnostic-signs/functional_tremor/02-entrainment.md)
+- [Functional Tremor: Diagnostic Technique Inventory](reference/diagnostic-signs/functional_tremor/technique-inventory.md)
 - [Functional Jerks or Myoclonus](reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md)
 - [Functional Tics and Tic-Like Symptoms](reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md)
 - [Functional Dystonia or Fixed Posturing](reference/diagnostic-signs/04-functional-dystonia.md)
@@ -754,6 +757,7 @@ Use the sections below to drill down into the course, reference library, researc
 - [Diagnostic Expansion: Ownership and Migration Plan](docs/project/diagnostic-expansion-preparation.md)
 - [Diagnostic Expansion Baseline and Recovery Completion](docs/project/diagnostic-expansion-baseline.md)
 - [Diagnostic Page Authoring Structures](docs/project/diagnostic-page-authoring-structures.md)
+- [Functional tremor diagnostic expansion record](docs/project/functional-tremor-diagnostic-expansion.md)
 
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](README.md) · [Course](course/README.md) · [Reference Library](reference/README.md) · [Site Map](SITEMAP.md)

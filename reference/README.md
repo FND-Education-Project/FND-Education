@@ -41,7 +41,7 @@ A person may experience periods when voluntary movement of a limb or larger part
 
 ## Functional Tremor
 
-[Understanding & Diagnosis](diagnostic-signs/02-functional-tremor.md)<br>
+[Understanding & Diagnosis](diagnostic-signs/02-functional-tremor.md) — includes detailed distractibility and entrainment explanations.<br>
 [Recovery Techniques](recovery-techniques/02-functional-tremor.md)
 
 A hand, arm, leg or another part of the body may shake rhythmically or irregularly. The speed, strength or pattern of the shaking may change during different movements, tasks or situations.

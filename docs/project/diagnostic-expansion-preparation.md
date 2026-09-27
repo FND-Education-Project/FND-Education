@@ -128,3 +128,5 @@ This preparation is complete when the inventory, ownership map, structures and m
 ## Implementation update — September 26, 2026
 
 The [first-stage implementation record](functional-weakness-diagnostic-expansion.md) documents the weakness overview, Hoover’s sign, shared topics 1 and 3, and new shared topic 10 (assessment and everyday function). The historical preparation and baseline above remain unchanged. Remaining foundations and individual techniques are pending.
+
+The next symptom stage is [functional tremor](functional-tremor-diagnostic-expansion.md), with two distinct diagnostic comparisons and all twelve original inventory entries preserved. The same ownership and authoring rules apply.
