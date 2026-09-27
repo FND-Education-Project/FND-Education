@@ -211,7 +211,7 @@ def format_inline_citations(text: str) -> str:
             href = item.group("href")
             links.append(
                 f'<a href="{href}" aria-label="Citation {number}">'
-                f'{number}</a>'
+                f'[{number}]</a>'
             )
 
         if not links:
