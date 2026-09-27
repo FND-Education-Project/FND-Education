@@ -8,6 +8,13 @@
 
 Losing a word, a plan or part of a conversation can feel frightening. The difficulty is real even when a scan is normal or a formal test shows an uneven pattern.
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 
 ### Definition
