@@ -5,6 +5,9 @@ _site/
 vendor/
 
 # Generated Jekyll source. These files are recreated by tools/site/prepare_site.py.
+web/index.md
+web/contact/
+web/about/
 web/course/*
 !web/course/.gitkeep
 web/reference/*

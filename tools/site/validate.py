@@ -24,8 +24,9 @@ ROOT = Path(__file__).resolve().parents[2]
 WEB = ROOT / "web"
 
 FIXED_ROUTES = {
-    "/": WEB / "index.html",
+    "/": WEB / "index.md",
     "/contact/": WEB / "contact" / "index.md",
+    "/about/": WEB / "about" / "index.md",
     "/glossary/": WEB / "glossary" / "index.md",
     "/sitemap/": WEB / "sitemap" / "index.md",
 }

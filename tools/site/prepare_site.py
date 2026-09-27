@@ -1517,6 +1517,16 @@ def prepare_resource_page(
 
     text = source.read_text(encoding="utf-8")
     body = strip_resource_header(text, source)
+
+    if layout == "home":
+        body = re.sub(
+            r"^\*\*.+?\*\*[ \t]*(?:\n+|$)",
+            "",
+            body,
+            count=1,
+            flags=re.DOTALL,
+        ).lstrip()
+
     body = rewrite_relative_links(body, source, page_url_map)
     body = format_inline_citations(body)
 
