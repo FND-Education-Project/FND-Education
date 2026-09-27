@@ -6,8 +6,9 @@
 
 > **Working draft:** This reference was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-This detailed index maps practical, symptom-specific material that is easier to use as a reference than as part of a course. It currently has three collections:
+This detailed index maps practical, symptom-specific material that is easier to use as a reference than as part of a course. It currently has four collections:
 
+- **[Understanding an FND Diagnosis](diagnostic-concepts/README.md)** explains positive diagnosis, investigations, and the relationship between assessment results and everyday function.
 - **[Symptom-Specific Diagnostic Signs](diagnostic-signs/README.md)** explains positive diagnostic signs and criteria, their limits, and how contributors could demonstrate them with accessible media. The collection currently covers 17 symptom presentations.
 - **[Symptom Recovery and Management Techniques](recovery-techniques/README.md)** collects research-informed rehabilitation, treatment and self-management techniques for the same 17 presentations. Its [master technique list](recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
 - **[Common Co-occurring Conditions](co-occurring-conditions/README.md)** explains nine related conditions or symptom groups, their interactions with FND and available recovery or management options. It does not add them to the 17 FND presentation categories.

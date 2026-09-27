@@ -24,7 +24,7 @@ Each symptom page now includes a **Diagnostic techniques at a glance** inventory
 > [!IMPORTANT]
 > A positive sign supports diagnosis only in the right clinical setting. New, severe, injured or substantially changed symptoms still need appropriate medical assessment.
 
-**Diagnostic expansion preparation:** [Content ownership and functional-weakness migration plan](../../docs/project/diagnostic-expansion-preparation.md) · [Baseline inventory](../../docs/project/diagnostic-expansion-baseline.md) · [Page structures](../../docs/project/diagnostic-page-authoring-structures.md). Preparation is recorded; individual diagnostic expansion has not started.
+**Diagnostic expansion preparation:** [Content ownership and functional-weakness migration plan](../../docs/project/diagnostic-expansion-preparation.md) · [Baseline inventory](../../docs/project/diagnostic-expansion-baseline.md) · [Page structures](../../docs/project/diagnostic-page-authoring-structures.md). The first stage now includes the revised [functional limb weakness overview](01-functional-limb-weakness.md), [Hoover’s sign](functional_limb_weakness/01-hoovers-sign.md), and [shared diagnostic explanations](../diagnostic-concepts/README.md). All sixteen original entries remain in the [technique inventory](functional_limb_weakness/technique-inventory.md); the other fifteen await individual review. See the [implementation record](../../docs/project/functional-weakness-diagnostic-expansion.md).
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Diagnostic Techniques Index](diagnostic-index.md)

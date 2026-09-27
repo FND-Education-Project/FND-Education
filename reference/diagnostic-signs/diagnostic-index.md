@@ -12,6 +12,8 @@ A positive sign is more than a normal test or the absence of another diagnosis. 
 
 Every page begins with **Refers to** and a scope boundary. Symptoms can appear in more than one category, but the method must match the actual appearance. A sign for unilateral leg weakness does not become a sign for facial droop, bilateral paralysis or a sudden fall merely because all may be described as “weakness.” Where no appearance-specific validated technique was located, the page says so.
 
+Start with the [shared diagnostic explanations](../diagnostic-concepts/README.md). The first expanded symptom is [functional limb weakness](01-functional-limb-weakness.md), with a detailed [Hoover’s-sign draft](functional_limb_weakness/01-hoovers-sign.md) and the preserved [sixteen-entry inventory](functional_limb_weakness/technique-inventory.md).
+
 ## Required time-course coverage
 
 Every symptom page in this collection should explain the symptom’s **actual temporal pattern**, rather than assuming that the symptom seen in clinic is continuously present. In each of the three audience sections, the page should address:
