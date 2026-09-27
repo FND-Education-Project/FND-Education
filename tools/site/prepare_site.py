@@ -18,6 +18,7 @@ import re
 import shutil
 from dataclasses import dataclass
 from pathlib import Path
+from xml.sax.saxutils import escape as xml_escape
 
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -26,6 +27,8 @@ WEB = ROOT / "web"
 COURSE_ROOT = ROOT / "course"
 REFERENCE_ROOT = ROOT / "reference"
 INTERNAL_REFERENCE_ROOT = REFERENCE_ROOT / "_internal"
+GLOSSARY_SOURCE = ROOT / "glossary" / "README.md"
+HUMAN_SITEMAP_SOURCE = ROOT / "SITEMAP.md"
 
 GITHUB_BLOB_BASE = (
     "https://github.com/FND-Education-Project/FND-Education/blob/main/"
@@ -1440,6 +1443,153 @@ def prepare_reference(
         )
 
 
+def strip_resource_header(text: str, source: Path) -> str:
+    """Remove repository-only header/navigation from a simple public resource."""
+    text = remove_context_navigation(text)
+    text = remove_nav_blocks(text)
+    text = normalize_generated_horizontal_rules(text)
+
+    text, count = re.subn(
+        r"^#\s+.+?\s*$",
+        "",
+        text,
+        count=1,
+        flags=re.MULTILINE,
+    )
+    if count != 1:
+        raise ValueError(
+            f"Expected one H1 in {source.relative_to(ROOT)}"
+        )
+
+    return text.lstrip()
+
+
+def render_resource_front_matter(
+    title: str,
+    description: str,
+    context_label: str,
+    public_url: str,
+) -> str:
+    """Build front matter for glossary and human-readable sitemap pages."""
+    lines = [
+        "---",
+        "layout: resource",
+        f"title: {yaml_string(title)}",
+        f"description: {yaml_string(description)}",
+        f"page_context_label: {yaml_string(context_label)}",
+        f"permalink: {public_url}",
+        "---",
+        "",
+    ]
+    return "\n".join(lines)
+
+
+def prepare_resource_page(
+    source: Path,
+    destination: Path,
+    public_url: str,
+    title: str,
+    description: str,
+    context_label: str,
+    page_url_map: dict[Path, str],
+) -> None:
+    """Generate one simple reader-facing resource from canonical Markdown."""
+    if not source.exists():
+        raise ValueError(f"Missing resource source: {source.relative_to(ROOT)}")
+
+    text = source.read_text(encoding="utf-8")
+    body = strip_resource_header(text, source)
+    body = rewrite_relative_links(body, source, page_url_map)
+    body = format_inline_citations(body)
+
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    destination.write_text(
+        render_resource_front_matter(
+            title=title,
+            description=description,
+            context_label=context_label,
+            public_url=public_url,
+        )
+        + body.strip()
+        + "\n",
+        encoding="utf-8",
+    )
+
+
+def read_config_scalar(name: str) -> str:
+    """Read one simple scalar from web/_config.yml without adding YAML deps."""
+    config = (WEB / "_config.yml").read_text(encoding="utf-8")
+    match = re.search(
+        rf"^{re.escape(name)}:\s*(.*?)\s*$",
+        config,
+        re.MULTILINE,
+    )
+    if not match:
+        raise ValueError(f"Missing {name} in web/_config.yml")
+
+    value = match.group(1).strip()
+    if (
+        len(value) >= 2
+        and value[0] == value[-1]
+        and value[0] in {"'", '"'}
+    ):
+        value = value[1:-1]
+
+    return value
+
+
+def public_origin_with_base() -> str:
+    """Return configured public origin including the current Pages base path."""
+    origin = read_config_scalar("url").rstrip("/")
+    baseurl = read_config_scalar("baseurl").strip()
+
+    if baseurl and not baseurl.startswith("/"):
+        baseurl = "/" + baseurl
+
+    return origin + baseurl.rstrip("/")
+
+
+def write_machine_sitemap(public_urls: list[str]) -> None:
+    """Generate the search-engine sitemap from the final public route map."""
+    origin = public_origin_with_base()
+    routes = sorted(set(public_urls))
+
+    lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    ]
+
+    for route in routes:
+        if not route.startswith("/"):
+            raise ValueError(f"Public URL must start with '/': {route}")
+
+        if route == "/":
+            absolute = origin + "/"
+        else:
+            absolute = origin + route
+
+        lines.extend(
+            [
+                "  <url>",
+                f"    <loc>{xml_escape(absolute)}</loc>",
+                "  </url>",
+            ]
+        )
+
+    lines.append("</urlset>")
+    (WEB / "sitemap.xml").write_text(
+        "\n".join(lines) + "\n",
+        encoding="utf-8",
+    )
+
+    (WEB / "robots.txt").write_text(
+        "User-agent: *\n"
+        "Allow: /\n"
+        f"Sitemap: {origin}/sitemap.xml\n",
+        encoding="utf-8",
+    )
+
+
 def write_generated_page_data(pages: list[CoursePage]) -> None:
     """
     Keep the small generated course data files for compatibility.
@@ -1493,6 +1643,8 @@ def main() -> None:
 
     clean_generated_area("course")
     clean_generated_area("reference")
+    clean_generated_area("glossary")
+    clean_generated_area("sitemap")
     copy_public_asset_trees()
 
     page_url_map = {
@@ -1505,9 +1657,48 @@ def main() -> None:
             for page in reference_pages
         }
     )
+    page_url_map[(ROOT / "README.md").resolve()] = "/"
+    page_url_map[GLOSSARY_SOURCE.resolve()] = "/glossary/"
+    page_url_map[HUMAN_SITEMAP_SOURCE.resolve()] = "/sitemap/"
 
     prepare_course(course_pages, page_url_map)
     prepare_reference(reference_pages, page_url_map)
+
+    prepare_resource_page(
+        source=GLOSSARY_SOURCE,
+        destination=WEB / "glossary" / "index.md",
+        public_url="/glossary/",
+        title="FND Terminology Glossary",
+        description=(
+            "Plain-language explanations of terms used in FND research, "
+            "clinical care, rehabilitation, and this project."
+        ),
+        context_label="GLOSSARY",
+        page_url_map=page_url_map,
+    )
+
+    prepare_resource_page(
+        source=HUMAN_SITEMAP_SOURCE,
+        destination=WEB / "sitemap" / "index.md",
+        public_url="/sitemap/",
+        title="FND Education Site Map",
+        description=(
+            "Browse the current course, Reference Library, glossary, "
+            "research links, and project documentation."
+        ),
+        context_label="SITE MAP",
+        page_url_map=page_url_map,
+    )
+
+    public_urls = [
+        "/",
+        "/contact/",
+        "/glossary/",
+        "/sitemap/",
+        *[page.public_url for page in course_pages],
+        *[page.public_url for page in reference_pages],
+    ]
+    write_machine_sitemap(public_urls)
     write_generated_page_data(course_pages)
 
     module_count = sum(
@@ -1530,7 +1721,10 @@ def main() -> None:
     print(f"  Course lessons:             {lesson_count}")
     print(f"  Total generated course:     {len(course_pages)}")
     print(f"  Public Reference pages:     {len(reference_pages)}")
+    print("  Glossary pages:             1")
+    print("  Human sitemap pages:        1")
     print(f"  Internal Reference ignored: {internal_count}")
+    print(f"  Total public routes:        {len(set(public_urls))}")
     print("  Module pattern:             /course/m{module}/")
     print("  Lesson pattern:             /course/m{module}/{lesson}/")
     print("  Reference root:             /reference/")
