@@ -26,8 +26,8 @@ The collection now covers **17 symptom presentations**, including motor and voca
 - **[Functional-sensory detailed techniques](functional_sensory_symptoms/README.md)** — open ten original-list expansions and two supporting care pages on sensory practice, daily contact, adaptation, stimulation safety, medical review, protection and flare planning.
 - **[Functional-visual detailed pages](functional_visual_symptoms/README.md)** — nine original entries expanded one-to-one, with explicit treatment-evidence limits and individualized visual safety.
 - **[Functional-speech-and-voice detailed pages](functional_speech_and_voice_symptoms/README.md)** — eleven original entries expanded one-to-one, with selected speech and voice approaches, practical conversation goals and continuing communication access.
-- **[Community experience quotations](community-experience-quotes.md)** — review lived-experience quotations organized by symptom and technique.
-- **[Episode and flare quotation review](episodic-flare-community-quote-review.md)** — review candidate community accounts about symptom onset, short episodes and longer flares.
+- **[Community experience quotations](../_internal/recovery-techniques/community-experience-quotes.md)** — review lived-experience quotations organized by symptom and technique.
+- **[Episode and flare quotation review](../_internal/recovery-techniques/episodic-flare-community-quote-review.md)** — review candidate community accounts about symptom onset, short episodes and longer flares.
 - **[Diagnostic techniques](../diagnostic-signs/README.md)** — find the separate collection about positive diagnostic signs and criteria.
 
 > [!IMPORTANT]

@@ -141,7 +141,7 @@ Coordinate physiotherapy with occupational therapy, psychological care and medic
 
 Specialist consensus provides the most detailed movement-retraining instructions (**FND-CIT-0028**). The large Physio4FMD trial did not show a clear advantage for specialist physiotherapy on its primary 12-month physical-function outcome, although several secondary and patient-rated outcomes favoured the specialist programme; both pathways were generally safe and valued (**FND-CIT-0029**). A smaller trial found improvement from combined specialized physiotherapy and CBT, but its size and single-centre design limit certainty (**FND-CIT-0030**).
 
-This means there is research support for structured FND rehabilitation as a package, but not proof that every exercise listed above works independently. Community accounts are kept in the separate [community quotation review notebook](community-experience-quotes.md) and are not treated as clinical evidence.
+This means there is research support for structured FND rehabilitation as a package, but not proof that every exercise listed above works independently. Community accounts are kept in the separate [community quotation review notebook](../_internal/recovery-techniques/community-experience-quotes.md) and are not treated as clinical evidence.
 
 ### Sources
 
