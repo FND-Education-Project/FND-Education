@@ -8,6 +8,13 @@
 
 FND can explain real and disabling symptoms. It does not protect you from another illness, injury or medical emergency. The safest question is often not “Is this FND?” but “Is this my usual, medically assessed pattern?” (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 
 ### Definition
