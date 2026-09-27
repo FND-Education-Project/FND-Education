@@ -163,19 +163,107 @@ def remove_context_navigation(text: str) -> str:
     return pattern.sub("", text)
 
 
-def normalize_audience_separators(text: str) -> str:
+def normalize_generated_horizontal_rules(text: str) -> str:
     """
-    Replace only the *** immediately following the Research and Sources link.
+    Normalize standalone thematic breaks in the generated website copy.
 
-    Arbitrary *** sequences remain untouched because they can be legitimate
-    strong+italic Markdown.
+    A line containing only *** is Markdown's horizontal-rule syntax, not
+    strong/italic text. Converting that exact standalone form to --- avoids
+    Kramdown edge cases after <br>-based navigation menus. Adjacent thematic
+    rules are then collapsed so audience menus never render double rules.
+    Inline *** emphasis is untouched.
     """
-    return re.sub(
-        r"(\[Research and Sources\]\(#research-and-sources\)[ \t]*\n)"
-        r"[ \t]*\*\*\*[ \t]*(?=\n|$)",
-        r"\1\n---\n",
+    text = re.sub(
+        r"^[ \t]*\*\*\*[ \t]*$",
+        "---",
         text,
+        flags=re.MULTILINE,
     )
+
+    return re.sub(
+        r"^[ \t]*---[ \t]*\n(?:[ \t]*\n)*^[ \t]*---[ \t]*$",
+        "---",
+        text,
+        flags=re.MULTILINE,
+    )
+
+
+def format_inline_citations(text: str) -> str:
+    """
+    Turn compact (*citations* [1]...) markers into accessible citation chips.
+
+    The numbered links keep their original anchors while CSS makes them smaller
+    than body text, visually distinct, and easy to click or tap.
+    """
+    cluster = re.compile(
+        r"\(\*citations?\*\s*"
+        r"(?P<links>"
+        r"(?:\[\d+\]\(#[^)]+\)(?:,\s*)?)+"
+        r")\)",
+        re.IGNORECASE,
+    )
+    link = re.compile(r"\[(?P<number>\d+)\]\((?P<href>#[^)]+)\)")
+
+    def replace(match: re.Match[str]) -> str:
+        links = []
+        for item in link.finditer(match.group("links")):
+            number = item.group("number")
+            href = item.group("href")
+            links.append(
+                f'<a href="{href}" aria-label="Citation {number}">'
+                f'{number}</a>'
+            )
+
+        if not links:
+            return match.group(0)
+
+        return (
+            '<span class="inline-citations" aria-label="Citations">'
+            + "".join(links)
+            + "</span>"
+        )
+
+    return cluster.sub(replace, text)
+
+
+def insert_recovery_diagnosis_link(
+    text: str,
+    page: "ReferencePage",
+) -> str:
+    """
+    Add a non-bulleted diagnosis cross-link at the top of Refers to on each
+    symptom recovery landing page. Canonical Markdown remains unchanged.
+    """
+    if page.kind != "recovery-overview" or not page.symptom_slug:
+        return text
+
+    diagnosis_url = (
+        f"/reference/{page.symptom_slug}/diagnosis/"
+    )
+    sentence = (
+        "For a fuller description of this symptom and the diagnostic "
+        "techniques used to assess it, see "
+        f"[Understanding & Diagnosis]({relative_url_liquid(diagnosis_url)})."
+    )
+
+    pattern = re.compile(
+        r"(?P<label>^\*\*Refers to:\*\*[ \t]*$)",
+        re.MULTILINE,
+    )
+
+    updated, count = pattern.subn(
+        lambda match: match.group("label") + "\n\n" + sentence,
+        text,
+        count=1,
+    )
+
+    if count != 1:
+        raise ValueError(
+            "Recovery overview is missing the expected **Refers to:** label: "
+            f"{page.source.relative_to(ROOT)}"
+        )
+
+    return updated
 
 
 def insert_navigation_after_audience_sections(text: str) -> tuple[str, int]:
@@ -281,12 +369,12 @@ def extract_reference_editorial_status(
         if not editorial:
             continue
 
-        if "human draft" in wording:
+        if "human draft" in wording or "human authored" in wording:
             authorship = "human"
         elif "automatically generated" in wording:
             authorship = "automatically-generated"
         else:
-            authorship = "unspecified"
+            authorship = None
 
         cleaned = text[: match.start()] + text[match.end() :]
         return "working-draft", authorship, cleaned
@@ -831,7 +919,7 @@ def strip_course_header_material(
     """Transform one course source page into its generated website body."""
     text = remove_context_navigation(text)
     text = remove_nav_blocks(text)
-    text = normalize_audience_separators(text)
+    text = normalize_generated_horizontal_rules(text)
     text, _ = insert_navigation_after_audience_sections(text)
 
     text, count = re.subn(
@@ -896,7 +984,7 @@ def strip_reference_header_material(
     text = remove_context_navigation(text)
     text = remove_nav_blocks(text)
     text = remove_plain_reference_breadcrumb(text)
-    text = normalize_audience_separators(text)
+    text = normalize_generated_horizontal_rules(text)
     text, _ = insert_navigation_after_audience_sections(text)
 
     text, count = re.subn(
@@ -1159,6 +1247,7 @@ def prepare_course(
                 page.source,
                 page_url_map,
             )
+            body = format_inline_citations(body)
 
             previous_page = pages[index - 1] if index > 0 else None
             next_page = pages[index + 1] if index < len(pages) - 1 else None
@@ -1282,11 +1371,16 @@ def prepare_reference(
                 page.source,
             )
 
+            body = insert_recovery_diagnosis_link(
+                body,
+                page,
+            )
             body = rewrite_relative_links(
                 body,
                 page.source,
                 page_url_map,
             )
+            body = format_inline_citations(body)
 
             previous_page = previous_by_page[page]
             next_page = next_by_page[page]
