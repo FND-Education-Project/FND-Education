@@ -113,6 +113,14 @@ class ReferencePage:
         return "reference"
 
 
+@dataclass(frozen=True)
+class NavigationLinks:
+    previous_url: str | None
+    previous_title: str | None
+    next_url: str | None
+    next_title: str | None
+
+
 def yaml_string(value: str) -> str:
     """Return a double-quoted YAML-safe scalar using JSON escaping."""
     return json.dumps(value, ensure_ascii=False)
@@ -791,6 +799,180 @@ def discover_reference_pages() -> list[ReferencePage]:
     return pages
 
 
+def ordered_reference_pages(
+    pages: list[ReferencePage],
+) -> list[ReferencePage]:
+    """
+    Return a stable reader-facing order for Previous/Next navigation.
+
+    The sequence follows the Reference Library hierarchy rather than raw
+    filesystem order: shared diagnosis concepts, symptom diagnosis, recovery,
+    co-occurring conditions, and other reference topics.
+    """
+    diagnostic_order = {
+        page.symptom_slug: page.number
+        for page in pages
+        if page.kind == "diagnostic-overview"
+        and page.symptom_slug
+        and page.number is not None
+    }
+    recovery_order = {
+        page.symptom_slug: page.number
+        for page in pages
+        if page.kind == "recovery-overview"
+        and page.symptom_slug
+        and page.number is not None
+    }
+
+    kind_rank = {
+        "reference-home": 0,
+        "reference-index": 1,
+        "diagnostic-concepts-home": 2,
+        "diagnostic-concept": 3,
+        "diagnostic-home": 4,
+        "diagnostic-index": 5,
+        "diagnostic-overview": 6,
+        "diagnostic-techniques-home": 6,
+        "diagnostic-technique": 6,
+        "diagnostic-inventory": 6,
+        "reference-topic": 7,
+        "recovery-home": 8,
+        "recovery-guide": 9,
+        "recovery-index": 10,
+        "recovery-overview": 11,
+        "recovery-techniques-home": 11,
+        "recovery-technique": 11,
+        "co-occurring-home": 12,
+        "co-occurring-condition": 13,
+    }
+
+    detail_rank = {
+        "diagnostic-overview": 0,
+        "diagnostic-techniques-home": 1,
+        "diagnostic-technique": 2,
+        "diagnostic-inventory": 999,
+        "recovery-overview": 0,
+        "recovery-techniques-home": 1,
+        "recovery-technique": 2,
+    }
+
+    def key(page: ReferencePage) -> tuple[int, int, int, str]:
+        rank = kind_rank.get(page.kind, 100)
+
+        if page.kind.startswith("diagnostic-") and page.symptom_slug:
+            symptom_number = diagnostic_order.get(page.symptom_slug, 999)
+            detail_number = (
+                page.number
+                if page.kind == "diagnostic-technique"
+                and page.number is not None
+                else 0
+            )
+            return (
+                rank,
+                symptom_number,
+                detail_rank.get(page.kind, 0) * 1000 + detail_number,
+                page.public_url,
+            )
+
+        if page.kind.startswith("recovery-") and page.symptom_slug:
+            symptom_number = recovery_order.get(page.symptom_slug, 999)
+            detail_number = (
+                page.number
+                if page.kind == "recovery-technique"
+                and page.number is not None
+                else 0
+            )
+            return (
+                rank,
+                symptom_number,
+                detail_rank.get(page.kind, 0) * 1000 + detail_number,
+                page.public_url,
+            )
+
+        return (
+            rank,
+            page.number or 0,
+            0,
+            page.public_url,
+        )
+
+    return sorted(pages, key=key)
+
+
+def build_global_navigation(
+    course_pages: list[CoursePage],
+    reference_pages: list[ReferencePage],
+) -> dict[str, NavigationLinks]:
+    """
+    Build one complete Previous/Next sequence across the public site.
+
+    Home and Contact are intentionally outside the controls. The reading path
+    starts Home -> Course and continues through Course, Reference, Glossary,
+    Sitemap, and Additional Information. The last page returns to Home.
+    """
+    course_titles = {
+        page.public_url: extract_title(
+            page.source.read_text(encoding="utf-8"),
+            page.source,
+        )
+        for page in course_pages
+    }
+    reference_titles = {
+        page.public_url: extract_title(
+            page.source.read_text(encoding="utf-8"),
+            page.source,
+        )
+        for page in reference_pages
+    }
+
+    sequence: list[tuple[str, str]] = [
+        ("/", "FND Education Project"),
+    ]
+    sequence.extend(
+        (page.public_url, course_titles[page.public_url])
+        for page in course_pages
+    )
+    sequence.extend(
+        (page.public_url, reference_titles[page.public_url])
+        for page in ordered_reference_pages(reference_pages)
+    )
+    sequence.extend(
+        [
+            ("/glossary/", "FND Terminology Glossary"),
+            ("/sitemap/", "FND Education Site Map"),
+            ("/about/", "Additional Project Information"),
+        ]
+    )
+
+    navigation: dict[str, NavigationLinks] = {}
+
+    for index, (url, _title) in enumerate(sequence):
+        if url == "/":
+            navigation[url] = NavigationLinks(
+                previous_url=None,
+                previous_title=None,
+                next_url=None,
+                next_title=None,
+            )
+            continue
+
+        previous_url, previous_title = sequence[index - 1]
+
+        if index + 1 < len(sequence):
+            next_url, next_title = sequence[index + 1]
+        else:
+            next_url, next_title = sequence[0]
+
+        navigation[url] = NavigationLinks(
+            previous_url=previous_url,
+            previous_title=previous_title,
+            next_url=next_url,
+            next_title=next_title,
+        )
+
+    return navigation
+
+
 def clean_generated_area(name: str) -> None:
     """Erase one known generated web tree, preserving its .gitkeep."""
     area = WEB / name
@@ -1057,10 +1239,7 @@ def render_course_front_matter(
     status: str,
     authorship: str,
     last_reviewed: str | None,
-    previous_page: CoursePage | None,
-    previous_title: str | None,
-    next_page: CoursePage | None,
-    next_title: str | None,
+    navigation: NavigationLinks,
 ) -> str:
     """Build Jekyll-only front matter for a generated course page."""
     lines = [
@@ -1091,19 +1270,19 @@ def render_course_front_matter(
     if last_reviewed:
         lines.append(f"last_reviewed: {yaml_string(last_reviewed)}")
 
-    if previous_page is not None and previous_title is not None:
+    if navigation.previous_url and navigation.previous_title:
         lines.extend(
             [
-                f"previous_page_url: {yaml_string(previous_page.public_url)}",
-                f"previous_page_title: {yaml_string(previous_title)}",
+                f"previous_page_url: {yaml_string(navigation.previous_url)}",
+                f"previous_page_title: {yaml_string(navigation.previous_title)}",
             ]
         )
 
-    if next_page is not None and next_title is not None:
+    if navigation.next_url and navigation.next_title:
         lines.extend(
             [
-                f"next_page_url: {yaml_string(next_page.public_url)}",
-                f"next_page_title: {yaml_string(next_title)}",
+                f"next_page_url: {yaml_string(navigation.next_url)}",
+                f"next_page_title: {yaml_string(navigation.next_title)}",
             ]
         )
 
@@ -1149,10 +1328,7 @@ def render_reference_front_matter(
     description: str | None,
     status: str | None,
     authorship: str | None,
-    previous_page: ReferencePage | None,
-    previous_title: str | None,
-    next_page: ReferencePage | None,
-    next_title: str | None,
+    navigation: NavigationLinks,
 ) -> str:
     """Build Jekyll-only front matter for a generated Reference page."""
     lines = [
@@ -1188,19 +1364,19 @@ def render_reference_front_matter(
     if page.number is not None:
         lines.append(f"reference_number: {page.number}")
 
-    if previous_page is not None and previous_title is not None:
+    if navigation.previous_url and navigation.previous_title:
         lines.extend(
             [
-                f"previous_page_url: {yaml_string(previous_page.public_url)}",
-                f"previous_page_title: {yaml_string(previous_title)}",
+                f"previous_page_url: {yaml_string(navigation.previous_url)}",
+                f"previous_page_title: {yaml_string(navigation.previous_title)}",
             ]
         )
 
-    if next_page is not None and next_title is not None:
+    if navigation.next_url and navigation.next_title:
         lines.extend(
             [
-                f"next_page_url: {yaml_string(next_page.public_url)}",
-                f"next_page_title: {yaml_string(next_title)}",
+                f"next_page_url: {yaml_string(navigation.next_url)}",
+                f"next_page_title: {yaml_string(navigation.next_title)}",
             ]
         )
 
@@ -1241,6 +1417,7 @@ def extract_continue_target(source_text: str, source: Path) -> Path | None:
 def prepare_course(
     pages: list[CoursePage],
     page_url_map: dict[Path, str],
+    navigation_map: dict[str, NavigationLinks],
 ) -> None:
     source_text_by_page = {
         page: page.source.read_text(encoding="utf-8")
@@ -1287,8 +1464,7 @@ def prepare_course(
             )
             body = format_inline_citations(body)
 
-            previous_page = pages[index - 1] if index > 0 else None
-            next_page = pages[index + 1] if index < len(pages) - 1 else None
+            navigation = navigation_map[page.public_url]
 
             page.destination.parent.mkdir(parents=True, exist_ok=True)
             page.destination.write_text(
@@ -1299,18 +1475,7 @@ def prepare_course(
                     status=status,
                     authorship=authorship,
                     last_reviewed=last_reviewed,
-                    previous_page=previous_page,
-                    previous_title=(
-                        title_by_page[previous_page]
-                        if previous_page is not None
-                        else None
-                    ),
-                    next_page=next_page,
-                    next_title=(
-                        title_by_page[next_page]
-                        if next_page is not None
-                        else None
-                    ),
+                    navigation=navigation,
                 )
                 + body,
                 encoding="utf-8",
@@ -1376,6 +1541,7 @@ def build_reference_navigation(
 def prepare_reference(
     pages: list[ReferencePage],
     page_url_map: dict[Path, str],
+    navigation_map: dict[str, NavigationLinks],
 ) -> None:
     source_text_by_page = {
         page: page.source.read_text(encoding="utf-8")
@@ -1386,11 +1552,6 @@ def prepare_reference(
         page: extract_title(source_text_by_page[page], page.source)
         for page in pages
     }
-
-    previous_by_page, next_by_page = build_reference_navigation(
-        pages,
-        source_text_by_page,
-    )
 
     errors: list[str] = []
 
@@ -1420,8 +1581,7 @@ def prepare_reference(
             )
             body = format_inline_citations(body)
 
-            previous_page = previous_by_page[page]
-            next_page = next_by_page[page]
+            navigation = navigation_map[page.public_url]
 
             page.destination.parent.mkdir(parents=True, exist_ok=True)
             page.destination.write_text(
@@ -1431,18 +1591,7 @@ def prepare_reference(
                     description=description,
                     status=status,
                     authorship=authorship,
-                    previous_page=previous_page,
-                    previous_title=(
-                        title_by_page[previous_page]
-                        if previous_page is not None
-                        else None
-                    ),
-                    next_page=next_page,
-                    next_title=(
-                        title_by_page[next_page]
-                        if next_page is not None
-                        else None
-                    ),
+                    navigation=navigation,
                 )
                 + body,
                 encoding="utf-8",
@@ -1486,6 +1635,7 @@ def render_resource_front_matter(
     context_label: str,
     public_url: str,
     layout: str = "resource",
+    navigation: NavigationLinks | None = None,
 ) -> str:
     """Build front matter for simple public resource pages."""
     lines = [
@@ -1495,9 +1645,25 @@ def render_resource_front_matter(
         f"description: {yaml_string(description)}",
         f"page_context_label: {yaml_string(context_label)}",
         f"permalink: {public_url}",
-        "---",
-        "",
     ]
+
+    if navigation is not None:
+        if navigation.previous_url and navigation.previous_title:
+            lines.extend(
+                [
+                    f"previous_page_url: {yaml_string(navigation.previous_url)}",
+                    f"previous_page_title: {yaml_string(navigation.previous_title)}",
+                ]
+            )
+        if navigation.next_url and navigation.next_title:
+            lines.extend(
+                [
+                    f"next_page_url: {yaml_string(navigation.next_url)}",
+                    f"next_page_title: {yaml_string(navigation.next_title)}",
+                ]
+            )
+
+    lines.extend(["---", ""])
     return "\n".join(lines)
 
 
@@ -1510,6 +1676,7 @@ def prepare_resource_page(
     context_label: str,
     page_url_map: dict[Path, str],
     layout: str = "resource",
+    navigation: NavigationLinks | None = None,
 ) -> None:
     """Generate one simple reader-facing resource from canonical Markdown."""
     if not source.exists():
@@ -1538,6 +1705,7 @@ def prepare_resource_page(
             context_label=context_label,
             public_url=public_url,
             layout=layout,
+            navigation=navigation,
         )
         + body.strip()
         + "\n",
@@ -1699,8 +1867,21 @@ def main() -> None:
     page_url_map[ADDITIONAL_INFO_SOURCE.resolve()] = "/about/"
     page_url_map[HUMAN_SITEMAP_SOURCE.resolve()] = "/sitemap/"
 
-    prepare_course(course_pages, page_url_map)
-    prepare_reference(reference_pages, page_url_map)
+    navigation_map = build_global_navigation(
+        course_pages,
+        reference_pages,
+    )
+
+    prepare_course(
+        course_pages,
+        page_url_map,
+        navigation_map,
+    )
+    prepare_reference(
+        reference_pages,
+        page_url_map,
+        navigation_map,
+    )
 
     prepare_resource_page(
         source=HOME_SOURCE,
@@ -1714,6 +1895,7 @@ def main() -> None:
         context_label="FND EDUCATION PROJECT",
         page_url_map=page_url_map,
         layout="home",
+        navigation=None,
     )
 
     prepare_resource_page(
@@ -1727,6 +1909,7 @@ def main() -> None:
         ),
         context_label="CONTACT",
         page_url_map=page_url_map,
+        navigation=None,
     )
 
     prepare_resource_page(
@@ -1740,6 +1923,7 @@ def main() -> None:
         ),
         context_label="ABOUT THE PROJECT",
         page_url_map=page_url_map,
+        navigation=navigation_map["/about/"],
     )
 
     prepare_resource_page(
@@ -1753,6 +1937,7 @@ def main() -> None:
         ),
         context_label="GLOSSARY",
         page_url_map=page_url_map,
+        navigation=navigation_map["/glossary/"],
     )
 
     prepare_resource_page(
@@ -1766,6 +1951,7 @@ def main() -> None:
         ),
         context_label="SITE MAP",
         page_url_map=page_url_map,
+        navigation=navigation_map["/sitemap/"],
     )
 
     public_urls = [
