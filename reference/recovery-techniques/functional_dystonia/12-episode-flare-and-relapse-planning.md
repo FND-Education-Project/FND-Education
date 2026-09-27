@@ -123,7 +123,7 @@ Review changes in health, medication, sleep, pain, activity demand and environme
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Individualized Multidisciplinary Treatment for Functional Dystonia](13-individualized-multidisciplinary-treatment.md)
 
-**Related:** [Previous technique: Specialist botulinum-toxin review](11-specialist-botulinum-toxin-review.md) · [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Episode and flare quotation review](../episodic-flare-community-quote-review.md)
+**Related:** [Previous technique: Specialist botulinum-toxin review](11-specialist-botulinum-toxin-review.md) · [Detailed technique index](README.md) · [Functional dystonia overview](../04-functional-dystonia.md) · [Episode and flare quotation review](../../_internal/recovery-techniques/episodic-flare-community-quote-review.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
