@@ -1009,6 +1009,13 @@ def copy_public_asset_trees() -> None:
         if src.exists():
             shutil.copytree(src, dst)
 
+            # The puzzle README is published separately at /puzzles/.
+            # Keep only downloadable puzzle assets under /assets/puzzles/.
+            if dirname == "puzzles":
+                copied_readme = dst / "README.md"
+                if copied_readme.exists():
+                    copied_readme.unlink()
+
 
 def copy_referenced_asset(resolved: Path) -> None:
     """Copy a referenced non-Markdown repository file to the same public path."""

@@ -14,6 +14,8 @@ web/reference/*
 !web/reference/.gitkeep
 web/glossary/*
 !web/glossary/.gitkeep
+web/booklets/
+web/puzzles/
 web/research/*
 !web/research/.gitkeep
 
