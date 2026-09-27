@@ -628,33 +628,63 @@ button:focus-visible {
 .home-card {
   display: block;
 
-  padding: 1.15rem;
+  min-height: 11.5rem;
+
+  padding: 1.2rem;
 
   background: var(--accent-soft);
 
   border: 1px solid var(--border);
-  border-radius: 0.55rem;
+  border-radius: 0.65rem;
 
   color: var(--text);
 
   text-decoration: none;
+
+  box-shadow:
+    0 4px 14px rgba(23, 36, 43, 0.05);
+
+  transition:
+    transform 140ms ease,
+    border-color 140ms ease,
+    box-shadow 140ms ease;
 }
 
 
 .home-card:hover,
 .home-card:focus-visible {
   border-color: var(--accent);
+
+  box-shadow:
+    0 8px 22px rgba(23, 36, 43, 0.1);
+
+  transform: translateY(-2px);
+}
+
+
+.home-card-label {
+  display: block;
+
+  margin-bottom: 0.55rem;
+
+  color: var(--muted);
+
+  font-size: 0.72rem;
+  font-weight: 800;
+
+  letter-spacing: 0.09em;
 }
 
 
 .home-card strong {
   display: block;
 
-  margin-bottom: 0.35rem;
+  margin-bottom: 0.45rem;
 
   color: var(--accent-strong);
 
-  font-size: 1.05rem;
+  font-size: 1.12rem;
+  line-height: 1.3;
 }
 
 
