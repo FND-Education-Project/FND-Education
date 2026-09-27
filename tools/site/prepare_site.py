@@ -113,6 +113,17 @@ def yaml_string(value: str) -> str:
     return json.dumps(value, ensure_ascii=False)
 
 
+def reference_folder_slug(folder_name: str) -> str:
+    """Map canonical Reference folder names to their public symptom slug."""
+    aliases = {
+        "functional_tics": "functional-tics-and-tic-like-symptoms",
+    }
+    return aliases.get(
+        folder_name,
+        folder_name.replace("_", "-"),
+    )
+
+
 def humanize_slug(slug: str) -> str:
     """Create a readable breadcrumb label from a stable URL slug."""
     special = {
@@ -656,7 +667,7 @@ def discover_reference_pages() -> list[ReferencePage]:
                     number=number,
                 )
             elif len(parts) == 3:
-                slug = parts[1].replace("_", "-")
+                slug = reference_folder_slug(parts[1])
                 if parts[2] == "README.md":
                     page = ReferencePage(
                         source=source,
@@ -723,7 +734,7 @@ def discover_reference_pages() -> list[ReferencePage]:
                     number=number,
                 )
             elif len(parts) == 3:
-                slug = parts[1].replace("_", "-")
+                slug = reference_folder_slug(parts[1])
                 if parts[2] == "README.md":
                     page = ReferencePage(
                         source=source,
