@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<article class="course-page reading-column home-page">
+
+  <header class="page-heading">
+    <p class="page-context">FND EDUCATION PROJECT</p>
+    <h1>{{ page.title | escape }}</h1>
+
+    {% if page.description %}
+      <p class="page-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
+
+  <div class="course-content">
+    {{ content }}
+  </div>
+
+</article>
