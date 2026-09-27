@@ -161,7 +161,7 @@ The [functional-visual collection](reference/recovery-techniques/functional_visu
 
 The [functional-sensory collection](reference/recovery-techniques/functional_sensory_symptoms/README.md) has ten pages expanding the original list and two additional safety/flare-planning pages. The [history audit](docs/project/recovery-technique-history-audit.md) distinguishes original entries from document counts across all symptoms.
 
-The reference library also contains a developing [five-booklet functional-seizure CBT series](reference/_internal/recovery-techniques/functional_seizures/unified_cbt_booklets/README.md), with separate outlines and content-creator guides.
+A five-booklet functional-seizure CBT series is also being developed. Its production outlines and content-creator guides are kept with the repository's internal Reference working material until reader-ready resources exist.
 
 Current course and reference material can be found for:
 
@@ -254,7 +254,7 @@ The project should be willing to say **“researchers do not yet know”** when 
   - [Symptom-specific diagnostic signs](reference/diagnostic-signs/README.md)
   - [Symptom recovery and management techniques](reference/recovery-techniques/README.md)
   - [Common Co-occurring Conditions](reference/co-occurring-conditions/README.md)
-  - [Functional-seizure CBT booklet project](reference/_internal/recovery-techniques/functional_seizures/unified_cbt_booklets/README.md)
+  - [Internal Reference working material](reference/_internal/README.md)
 - [Evidence standard](docs/project/evidence-standard.md)
 - [Search and usability standards](docs/project/search-and-usability-standards.md)
 - [Accessibility standards](docs/project/accessibility-standards.md)

@@ -41,7 +41,7 @@ The existing resource map below does three things:
 2. explains how useful material will be selected and unified when programmes differ; and
 3. defines five short, printable CBT-informed booklets for people with functional seizures and their supporters.
 
-**Project pages:** [How evidence will be weighed](../../_internal/recovery-techniques/functional_seizures/evidence-and-unification-method.md) · [What belongs in the course and what belongs in the booklets](../../_internal/recovery-techniques/functional_seizures/course-and-booklet-content-boundary.md) · [Five-booklet plan](../../_internal/recovery-techniques/functional_seizures/unified_cbt_booklets/README.md)
+**Production status:** The evidence method, course/booklet boundary, five outlines and content-creator guides are maintained as internal working material until reader-ready booklets exist.
 
 ## Complete or substantial resources already online
 
@@ -140,7 +140,7 @@ Link to existing resources and describe their broad ideas. Do not reproduce copy
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Diagnostic Explanation and Continuing Care for Functional Seizures](01-diagnostic-explanation-and-continuing-care.md)
 
-**Related:** [Recovery Techniques](../README.md) · [Functional-seizure recovery page](../06-functional-seizures.md) · [Unified CBT booklets](../../_internal/recovery-techniques/functional_seizures/unified_cbt_booklets/README.md)
+**Related:** [Recovery Techniques](../README.md) · [Functional-seizure recovery page](../06-functional-seizures.md)
 
 **Navigate:** [Home](../../../README.md) · [Course](../../../course/README.md) · [Reference Library](../../README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
