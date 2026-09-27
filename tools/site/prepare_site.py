@@ -312,6 +312,77 @@ def insert_recovery_diagnosis_link(
     return updated
 
 
+AUDIENCE_SECTION_HEADINGS = (
+    "## For the Person With FND",
+    "## For Family, Friends, and Other Supporters",
+    "## For Clinicians and the Care Team",
+    "## Research and Sources",
+)
+
+AUDIENCE_MENU_MARKDOWN = """---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+"""
+
+
+def ensure_audience_menu_before_sections(text: str) -> str:
+    """
+    Ensure the standard audience menu precedes every audience section.
+
+    Older Course pages often began directly with the Person section while
+    later Reference pages already had the menu. The generated website should
+    present one consistent pattern without rewriting canonical Markdown.
+    """
+    menu_pattern = re.compile(
+        r"\[For the Person With FND\]\(#for-the-person-with-fnd\)<br>\s*\n"
+        r"\[For Family, Friends, and Other Supporters\]"
+        r"\(#for-family-friends-and-other-supporters\)<br>\s*\n"
+        r"\[For Clinicians and the Care Team\]"
+        r"\(#for-clinicians-and-the-care-team\)<br>\s*\n"
+        r"\[Research and Sources\]\(#research-and-sources\)",
+        re.MULTILINE,
+    )
+
+    found = [
+        (heading, text.find(heading))
+        for heading in AUDIENCE_SECTION_HEADINGS
+    ]
+    present = [
+        (heading, position)
+        for heading, position in found
+        if position >= 0
+    ]
+
+    # Pages with a different intentional structure are left unchanged.
+    if not any(
+        heading != "## Research and Sources"
+        for heading, _position in present
+    ):
+        return text
+
+    for heading, position in reversed(present):
+        # Looking back to the preceding section heading keeps a menu belonging
+        # to an earlier section from satisfying this section by accident.
+        earlier_positions = [
+            previous_position
+            for _previous_heading, previous_position in present
+            if 0 <= previous_position < position
+        ]
+        boundary = max(earlier_positions) if earlier_positions else 0
+        preceding = text[boundary:position]
+
+        if menu_pattern.search(preceding):
+            continue
+
+        insertion = AUDIENCE_MENU_MARKDOWN + "\n"
+        text = text[:position] + insertion + text[position:]
+
+    return text
+
+
 def insert_navigation_after_audience_sections(text: str) -> tuple[str, int]:
     """
     Insert previous/next controls after Person, Supporter and Clinician sections.
@@ -1140,6 +1211,7 @@ def strip_course_header_material(
     text = remove_context_navigation(text)
     text = remove_nav_blocks(text)
     text = normalize_generated_horizontal_rules(text)
+    text = ensure_audience_menu_before_sections(text)
     text, _ = insert_navigation_after_audience_sections(text)
 
     text, count = re.subn(
