@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<article class="course-page reading-column">
+
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <span aria-hidden="true">›</span>
+    <span>{{ page.title | escape }}</span>
+  </nav>
+
+  <header class="page-heading">
+    {% if page.page_context_label %}
+      <p class="page-context">{{ page.page_context_label }}</p>
+    {% endif %}
+
+    <h1>{{ page.title | escape }}</h1>
+
+    {% if page.description %}
+      <p class="page-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
+
+  <div class="course-content">
+    {{ content }}
+  </div>
+
+</article>
