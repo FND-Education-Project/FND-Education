@@ -8,6 +8,13 @@
 
 When a familiar setback begins, the first job is not to explain it. The first job is to make the next part safer and more manageable.
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 
 ### Definition

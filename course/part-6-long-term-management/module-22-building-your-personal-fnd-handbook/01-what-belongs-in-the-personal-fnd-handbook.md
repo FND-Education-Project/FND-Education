@@ -8,6 +8,13 @@
 
 You do not need to remember the whole course. Your handbook can hold the few things you want available on a difficult day.
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 
 ### Definition
