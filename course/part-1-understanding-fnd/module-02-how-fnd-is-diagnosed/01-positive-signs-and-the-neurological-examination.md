@@ -8,6 +8,13 @@
 
 FND should not be diagnosed simply because a scan was normal or because no other explanation has been found. The diagnosis should be supported by features in the history or examination that positively fit a functional neurological problem. This page explains what those features may show, as well as what they cannot show.
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 
 The word **positive** can be confusing here. It does not mean that the finding is good, nor does it mean that a blood test came back positive. A **positive sign**, sometimes called a **rule-in sign**, is something the clinician observes that gives evidence *for* an FND diagnosis.
