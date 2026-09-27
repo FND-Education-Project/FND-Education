@@ -35,11 +35,13 @@ VERIFICATION_FILE = "google65d5cac3c1021024.html"
 
 
 class LinkCollector(HTMLParser):
-    """Collect rendered links and Previous/Next relations."""
+    """Collect rendered links, fragment targets and navigation relations."""
 
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
         self.links: list[str] = []
+        self.hrefs: list[str] = []
+        self.ids: list[str] = []
         self.previous_links: list[str] = []
         self.next_links: list[str] = []
 
@@ -54,15 +56,28 @@ class LinkCollector(HTMLParser):
             if value is not None
         }
 
-        for name in ("href", "src"):
-            value = attributes.get(name)
-            if value:
-                self.links.append(value)
+        element_id = attributes.get("id")
+        if element_id:
+            self.ids.append(element_id)
+
+        if tag.lower() == "a":
+            legacy_name = attributes.get("name")
+            if legacy_name:
+                self.ids.append(legacy_name)
+
+        href = attributes.get("href")
+        src = attributes.get("src")
+
+        if href:
+            self.links.append(href)
+            self.hrefs.append(href)
+
+        if src:
+            self.links.append(src)
 
         if tag.lower() != "a":
             return
 
-        href = attributes.get("href")
         rel = attributes.get("rel", "")
         relations = {
             item.strip().lower()
@@ -117,6 +132,83 @@ def ensure_unique_routes(routes: list[str], errors: list[str]) -> None:
         )
 
 
+AUDIENCE_HEADINGS = (
+    "## For the Person With FND",
+    "## For Family, Friends, and Other Supporters",
+    "## For Clinicians and the Care Team",
+    "## Research and Sources",
+)
+
+AUDIENCE_MENU_RE = re.compile(
+    r"\[For the Person With FND\]\(#for-the-person-with-fnd\)<br>\s*\n"
+    r"\[For Family, Friends, and Other Supporters\]"
+    r"\(#for-family-friends-and-other-supporters\)<br>\s*\n"
+    r"\[For Clinicians and the Care Team\]"
+    r"\(#for-clinicians-and-the-care-team\)<br>\s*\n"
+    r"\[Research and Sources\]\(#research-and-sources\)",
+    re.MULTILINE,
+)
+
+
+def audit_audience_structure(
+    path: Path,
+    require_audiences: bool,
+    errors: list[str],
+) -> None:
+    """
+    Check the four-audience educational structure in generated Markdown.
+
+    Course lessons always require it. Reference pages require it whenever any
+    of the three audience headings is present, which lets technique/index pages
+    use their intentionally different structures without false failures.
+    """
+    if not path.exists():
+        return
+
+    text = path.read_text(encoding="utf-8")
+    audience_present = any(
+        heading in text
+        for heading in AUDIENCE_HEADINGS[:3]
+    )
+
+    if not require_audiences and not audience_present:
+        return
+
+    label = str(path.relative_to(ROOT))
+
+    positions: list[int] = []
+    for heading in AUDIENCE_HEADINGS:
+        count = text.count(heading)
+
+        if count != 1:
+            errors.append(
+                f"Audience heading count on {label}: "
+                f"{heading!r} appears {count} times"
+            )
+            continue
+
+        positions.append(text.index(heading))
+
+    if len(positions) == len(AUDIENCE_HEADINGS):
+        if positions != sorted(positions):
+            errors.append(
+                f"Audience sections are out of order on {label}"
+            )
+
+        previous_boundary = 0
+        for heading, position in zip(AUDIENCE_HEADINGS, positions):
+            preceding = text[previous_boundary:position]
+            menus = list(AUDIENCE_MENU_RE.finditer(preceding))
+
+            if not menus:
+                errors.append(
+                    f"Audience menu missing immediately before "
+                    f"{heading!r} on {label}"
+                )
+
+            previous_boundary = position + len(heading)
+
+
 def check_generated_source(errors: list[str]) -> tuple[int, int, int]:
     course_pages, reference_pages, routes = expected_routes()
     ensure_unique_routes(routes, errors)
@@ -127,6 +219,13 @@ def check_generated_source(errors: list[str]) -> tuple[int, int, int]:
                 "Missing generated course page: "
                 + str(page.destination.relative_to(ROOT))
             )
+            continue
+
+        audit_audience_structure(
+            path=page.destination,
+            require_audiences=(page.kind == "lesson"),
+            errors=errors,
+        )
 
     for page in reference_pages:
         if not page.destination.exists():
@@ -134,6 +233,13 @@ def check_generated_source(errors: list[str]) -> tuple[int, int, int]:
                 "Missing generated Reference page: "
                 + str(page.destination.relative_to(ROOT))
             )
+            continue
+
+        audit_audience_structure(
+            path=page.destination,
+            require_audiences=False,
+            errors=errors,
+        )
 
     for route, path in FIXED_ROUTES.items():
         if not path.exists():
@@ -405,6 +511,112 @@ def audit_page_navigation(
             )
 
 
+def normalize_route_path(path: str) -> str:
+    """Normalize one local HTML destination to the site's pretty route form."""
+    if not path:
+        return "/"
+
+    clean = "/" + path.lstrip("/")
+
+    if clean.endswith("/index.html"):
+        clean = clean[: -len("index.html")]
+
+    if clean == "/index.html":
+        return "/"
+
+    if "." not in Path(clean).name and not clean.endswith("/"):
+        clean += "/"
+
+    return clean
+
+
+def resolve_fragment_href(
+    current_route: str,
+    raw_href: str,
+    baseurl: str,
+) -> tuple[str, str] | None:
+    """Resolve a local href containing #fragment to (route, fragment)."""
+    parsed = urlparse(raw_href)
+
+    if parsed.scheme or parsed.netloc or not parsed.fragment:
+        return None
+
+    fragment = unquote(parsed.fragment)
+
+    if not fragment:
+        return None
+
+    if not parsed.path:
+        return current_route, fragment
+
+    path = unquote(parsed.path)
+
+    if path.startswith("/"):
+        if baseurl and (
+            path == baseurl
+            or path.startswith(baseurl + "/")
+        ):
+            path = path[len(baseurl):] or "/"
+    else:
+        path = urljoin(current_route, path)
+
+    return normalize_route_path(path), fragment
+
+
+def audit_fragment_links(
+    parsed_by_route: dict[str, LinkCollector],
+    baseurl: str,
+    errors: list[str],
+) -> None:
+    """
+    Verify same-site #fragment links and duplicate HTML IDs.
+
+    This catches broken citation numbers, section-jump links, glossary anchors,
+    and accidental duplicate IDs after Markdown/Jekyll rendering.
+    """
+    ids_by_route = {
+        route: set(parser.ids)
+        for route, parser in parsed_by_route.items()
+    }
+
+    for route, parser in parsed_by_route.items():
+        duplicates = sorted(
+            {
+                element_id
+                for element_id in parser.ids
+                if parser.ids.count(element_id) > 1
+            }
+        )
+
+        if duplicates:
+            errors.append(
+                f"Duplicate HTML IDs on {route}: "
+                + ", ".join(duplicates)
+            )
+
+        for href in parser.hrefs:
+            resolved = resolve_fragment_href(
+                current_route=route,
+                raw_href=href,
+                baseurl=baseurl,
+            )
+            if resolved is None:
+                continue
+
+            target_route, fragment = resolved
+            target_ids = ids_by_route.get(target_route)
+
+            # Fragments on PDFs or other non-HTML files are not DOM anchors.
+            if target_ids is None:
+                continue
+
+            if fragment not in target_ids:
+                errors.append(
+                    f"Broken fragment link on {route}: "
+                    f"{href} (missing #{fragment} on {target_route})"
+                )
+
+
 def check_built_site(
     site_root: Path,
     baseurl: str,
@@ -433,20 +645,35 @@ def check_built_site(
             errors.append(f"Built artifact missing {filename}")
 
     html_files = sorted(site_root.rglob("*.html"))
+    parsed_by_route: dict[str, LinkCollector] = {}
+    text_by_route: dict[str, str] = {}
 
     for html_file in html_files:
         text = html_file.read_text(encoding="utf-8")
+        current_route = built_file_to_route(site_root, html_file)
+
+        parser = LinkCollector()
+        parser.feed(text)
+
+        parsed_by_route[current_route] = parser
+        text_by_route[current_route] = text
+
+    audit_fragment_links(
+        parsed_by_route=parsed_by_route,
+        baseurl=baseurl,
+        errors=errors,
+    )
+
+    for html_file in html_files:
+        current_route = built_file_to_route(site_root, html_file)
+        text = text_by_route[current_route]
+        parser = parsed_by_route[current_route]
 
         if "reference/_internal/" in text or "/_internal/" in text:
             errors.append(
                 "Internal Reference path leaked into built HTML: "
                 + str(html_file.relative_to(site_root))
             )
-
-        parser = LinkCollector()
-        parser.feed(text)
-
-        current_route = built_file_to_route(site_root, html_file)
 
         if current_route in routes:
             audit_page_navigation(
