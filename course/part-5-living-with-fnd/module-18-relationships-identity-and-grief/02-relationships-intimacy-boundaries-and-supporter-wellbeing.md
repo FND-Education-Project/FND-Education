@@ -8,6 +8,13 @@
 
 Illness can change who does what, how people communicate and what closeness feels possible. Love does not remove the need for consent or boundaries.
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 
 ### Definition
