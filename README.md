@@ -6,8 +6,7 @@
 
 **Free, evidence-informed education about Functional Neurological Disorder (FND) for people with FND, the people who support them, and clinicians.**
 
-> [!IMPORTANT]
-> This project is under active development. It provides general education, not individual medical advice, diagnosis, emergency assessment, or treatment.
+> **Important:** This project is under active development. It provides general education, not individual medical advice, diagnosis, emergency assessment, or treatment.
 
 ## Start here
 
@@ -40,7 +39,7 @@ A **Research and Sources** section supports those three audiences with citations
 
 FND Education is looking for people with FND, family members and other supporters, clinicians, researchers, writers, illustrators, and accessibility reviewers.
 
-**[Visit the contact page](https://fndeducationproject.org/contact/)** if you would like to contribute, review material, suggest an improvement, or help with the project in another way.
+**[Visit the contact page](contact/README.md)** if you would like to contribute, review material, suggest an improvement, or help with the project in another way.
 
 ## Additional information
 

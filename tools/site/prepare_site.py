@@ -24,10 +24,15 @@ from xml.sax.saxutils import escape as xml_escape
 ROOT = Path(__file__).resolve().parents[2]
 WEB = ROOT / "web"
 
+HOME_SOURCE = ROOT / "README.md"
 COURSE_ROOT = ROOT / "course"
 REFERENCE_ROOT = ROOT / "reference"
 INTERNAL_REFERENCE_ROOT = REFERENCE_ROOT / "_internal"
 GLOSSARY_SOURCE = ROOT / "glossary" / "README.md"
+CONTACT_SOURCE = ROOT / "contact" / "README.md"
+ADDITIONAL_INFO_SOURCE = (
+    ROOT / "docs" / "project" / "additional-project-information.md"
+)
 HUMAN_SITEMAP_SOURCE = ROOT / "SITEMAP.md"
 
 GITHUB_BLOB_BASE = (
@@ -1480,11 +1485,12 @@ def render_resource_front_matter(
     description: str,
     context_label: str,
     public_url: str,
+    layout: str = "resource",
 ) -> str:
-    """Build front matter for glossary and human-readable sitemap pages."""
+    """Build front matter for simple public resource pages."""
     lines = [
         "---",
-        "layout: resource",
+        f"layout: {layout}",
         f"title: {yaml_string(title)}",
         f"description: {yaml_string(description)}",
         f"page_context_label: {yaml_string(context_label)}",
@@ -1503,6 +1509,7 @@ def prepare_resource_page(
     description: str,
     context_label: str,
     page_url_map: dict[Path, str],
+    layout: str = "resource",
 ) -> None:
     """Generate one simple reader-facing resource from canonical Markdown."""
     if not source.exists():
@@ -1520,6 +1527,7 @@ def prepare_resource_page(
             description=description,
             context_label=context_label,
             public_url=public_url,
+            layout=layout,
         )
         + body.strip()
         + "\n",
@@ -1655,7 +1663,14 @@ def main() -> None:
     clean_generated_area("course")
     clean_generated_area("reference")
     clean_generated_area("glossary")
+    clean_generated_area("contact")
+    clean_generated_area("about")
     clean_generated_area("sitemap")
+
+    generated_home = WEB / "index.md"
+    if generated_home.exists():
+        generated_home.unlink()
+
     copy_public_asset_trees()
 
     page_url_map = {
@@ -1668,12 +1683,54 @@ def main() -> None:
             for page in reference_pages
         }
     )
-    page_url_map[(ROOT / "README.md").resolve()] = "/"
+    page_url_map[HOME_SOURCE.resolve()] = "/"
     page_url_map[GLOSSARY_SOURCE.resolve()] = "/glossary/"
+    page_url_map[CONTACT_SOURCE.resolve()] = "/contact/"
+    page_url_map[ADDITIONAL_INFO_SOURCE.resolve()] = "/about/"
     page_url_map[HUMAN_SITEMAP_SOURCE.resolve()] = "/sitemap/"
 
     prepare_course(course_pages, page_url_map)
     prepare_reference(reference_pages, page_url_map)
+
+    prepare_resource_page(
+        source=HOME_SOURCE,
+        destination=WEB / "index.md",
+        public_url="/",
+        title="FND Education Project",
+        description=(
+            "Free, evidence-informed education about Functional Neurological "
+            "Disorder for people with FND, supporters, and clinicians."
+        ),
+        context_label="FND EDUCATION PROJECT",
+        page_url_map=page_url_map,
+        layout="home",
+    )
+
+    prepare_resource_page(
+        source=CONTACT_SOURCE,
+        destination=WEB / "contact" / "index.md",
+        public_url="/contact/",
+        title="Contact the FND Education Project",
+        description=(
+            "Contact the FND Education Project or volunteer as a contributor "
+            "or reviewer."
+        ),
+        context_label="CONTACT",
+        page_url_map=page_url_map,
+    )
+
+    prepare_resource_page(
+        source=ADDITIONAL_INFO_SOURCE,
+        destination=WEB / "about" / "index.md",
+        public_url="/about/",
+        title="Additional Project Information",
+        description=(
+            "Project purpose, editorial approach, authorship, evidence "
+            "standards, planned supporter material, and documentation links."
+        ),
+        context_label="ABOUT THE PROJECT",
+        page_url_map=page_url_map,
+    )
 
     prepare_resource_page(
         source=GLOSSARY_SOURCE,
@@ -1704,6 +1761,7 @@ def main() -> None:
     public_urls = [
         "/",
         "/contact/",
+        "/about/",
         "/glossary/",
         "/sitemap/",
         *[page.public_url for page in course_pages],
@@ -1732,6 +1790,9 @@ def main() -> None:
     print(f"  Course lessons:             {lesson_count}")
     print(f"  Total generated course:     {len(course_pages)}")
     print(f"  Public Reference pages:     {len(reference_pages)}")
+    print("  Homepage:                   1")
+    print("  Contact pages:              1")
+    print("  Additional info pages:      1")
     print("  Glossary pages:             1")
     print("  Human sitemap pages:        1")
     print(f"  Internal Reference ignored: {internal_count}")
