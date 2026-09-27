@@ -28,6 +28,8 @@ FIXED_ROUTES = {
     "/contact/": WEB / "contact" / "index.md",
     "/about/": WEB / "about" / "index.md",
     "/glossary/": WEB / "glossary" / "index.md",
+    "/booklets/": WEB / "booklets" / "index.md",
+    "/puzzles/": WEB / "puzzles" / "index.md",
     "/sitemap/": WEB / "sitemap" / "index.md",
 }
 
@@ -266,6 +268,8 @@ def check_generated_source(errors: list[str]) -> tuple[int, int, int]:
         WEB / "course",
         WEB / "reference",
         WEB / "glossary",
+        WEB / "booklets",
+        WEB / "puzzles",
         WEB / "sitemap",
     ]
 

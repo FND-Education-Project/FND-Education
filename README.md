@@ -25,6 +25,8 @@ The **[Reference Library](reference/README.md)** is for looking up a symptom, cl
 
 The **[glossary](glossary/README.md)** explains clinical, research, and rehabilitation terms in plain language.
 
+For shorter printable material, visit **[Booklets](booklets/README.md)** and **[Course Puzzles](assets/puzzles/README.md)**.
+
 ## Three main audiences
 
 Most educational pages are organized for three audiences:

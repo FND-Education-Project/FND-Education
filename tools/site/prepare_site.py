@@ -29,6 +29,8 @@ COURSE_ROOT = ROOT / "course"
 REFERENCE_ROOT = ROOT / "reference"
 INTERNAL_REFERENCE_ROOT = REFERENCE_ROOT / "_internal"
 GLOSSARY_SOURCE = ROOT / "glossary" / "README.md"
+BOOKLETS_SOURCE = ROOT / "booklets" / "README.md"
+PUZZLES_SOURCE = ROOT / "assets" / "puzzles" / "README.md"
 CONTACT_SOURCE = ROOT / "contact" / "README.md"
 ADDITIONAL_INFO_SOURCE = (
     ROOT / "docs" / "project" / "additional-project-information.md"
@@ -310,77 +312,6 @@ def insert_recovery_diagnosis_link(
         )
 
     return updated
-
-
-AUDIENCE_SECTION_HEADINGS = (
-    "## For the Person With FND",
-    "## For Family, Friends, and Other Supporters",
-    "## For Clinicians and the Care Team",
-    "## Research and Sources",
-)
-
-AUDIENCE_MENU_MARKDOWN = """---
-[For the Person With FND](#for-the-person-with-fnd)<br>
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
-[Research and Sources](#research-and-sources)
----
-"""
-
-
-def ensure_audience_menu_before_sections(text: str) -> str:
-    """
-    Ensure the standard audience menu precedes every audience section.
-
-    Older Course pages often began directly with the Person section while
-    later Reference pages already had the menu. The generated website should
-    present one consistent pattern without rewriting canonical Markdown.
-    """
-    menu_pattern = re.compile(
-        r"\[For the Person With FND\]\(#for-the-person-with-fnd\)<br>\s*\n"
-        r"\[For Family, Friends, and Other Supporters\]"
-        r"\(#for-family-friends-and-other-supporters\)<br>\s*\n"
-        r"\[For Clinicians and the Care Team\]"
-        r"\(#for-clinicians-and-the-care-team\)<br>\s*\n"
-        r"\[Research and Sources\]\(#research-and-sources\)",
-        re.MULTILINE,
-    )
-
-    found = [
-        (heading, text.find(heading))
-        for heading in AUDIENCE_SECTION_HEADINGS
-    ]
-    present = [
-        (heading, position)
-        for heading, position in found
-        if position >= 0
-    ]
-
-    # Pages with a different intentional structure are left unchanged.
-    if not any(
-        heading != "## Research and Sources"
-        for heading, _position in present
-    ):
-        return text
-
-    for heading, position in reversed(present):
-        # Looking back to the preceding section heading keeps a menu belonging
-        # to an earlier section from satisfying this section by accident.
-        earlier_positions = [
-            previous_position
-            for _previous_heading, previous_position in present
-            if 0 <= previous_position < position
-        ]
-        boundary = max(earlier_positions) if earlier_positions else 0
-        preceding = text[boundary:position]
-
-        if menu_pattern.search(preceding):
-            continue
-
-        insertion = AUDIENCE_MENU_MARKDOWN + "\n"
-        text = text[:position] + insertion + text[position:]
-
-    return text
 
 
 def insert_navigation_after_audience_sections(text: str) -> tuple[str, int]:
@@ -979,7 +910,8 @@ def build_global_navigation(
 
     Home and Contact are intentionally outside the controls. The reading path
     starts Home -> Course and continues through Course, Reference, Glossary,
-    Sitemap, and Additional Information. The last page returns to Home.
+    Booklets, Puzzles, Sitemap, and Additional Information. The last page
+    returns to Home.
     """
     course_titles = {
         page.public_url: extract_title(
@@ -1010,6 +942,8 @@ def build_global_navigation(
     sequence.extend(
         [
             ("/glossary/", "FND Terminology Glossary"),
+            ("/booklets/", "Booklets"),
+            ("/puzzles/", "Course Puzzles"),
             ("/sitemap/", "FND Education Site Map"),
             ("/about/", "Additional Project Information"),
         ]
@@ -1211,7 +1145,6 @@ def strip_course_header_material(
     text = remove_context_navigation(text)
     text = remove_nav_blocks(text)
     text = normalize_generated_horizontal_rules(text)
-    text = ensure_audience_menu_before_sections(text)
     text, _ = insert_navigation_after_audience_sections(text)
 
     text, count = re.subn(
@@ -1913,6 +1846,8 @@ def main() -> None:
     clean_generated_area("course")
     clean_generated_area("reference")
     clean_generated_area("glossary")
+    clean_generated_area("booklets")
+    clean_generated_area("puzzles")
     clean_generated_area("contact")
     clean_generated_area("about")
     clean_generated_area("sitemap")
@@ -1935,6 +1870,8 @@ def main() -> None:
     )
     page_url_map[HOME_SOURCE.resolve()] = "/"
     page_url_map[GLOSSARY_SOURCE.resolve()] = "/glossary/"
+    page_url_map[BOOKLETS_SOURCE.resolve()] = "/booklets/"
+    page_url_map[PUZZLES_SOURCE.resolve()] = "/puzzles/"
     page_url_map[CONTACT_SOURCE.resolve()] = "/contact/"
     page_url_map[ADDITIONAL_INFO_SOURCE.resolve()] = "/about/"
     page_url_map[HUMAN_SITEMAP_SOURCE.resolve()] = "/sitemap/"
@@ -2013,6 +1950,34 @@ def main() -> None:
     )
 
     prepare_resource_page(
+        source=BOOKLETS_SOURCE,
+        destination=WEB / "booklets" / "index.md",
+        public_url="/booklets/",
+        title="Booklets",
+        description=(
+            "Free FND Education Project booklet resources and booklet "
+            "projects being prepared for readers."
+        ),
+        context_label="BOOKLETS",
+        page_url_map=page_url_map,
+        navigation=navigation_map["/booklets/"],
+    )
+
+    prepare_resource_page(
+        source=PUZZLES_SOURCE,
+        destination=WEB / "puzzles" / "index.md",
+        public_url="/puzzles/",
+        title="Course Puzzles",
+        description=(
+            "Printable puzzles connected to FND Education Project course "
+            "pages and terminology."
+        ),
+        context_label="PUZZLES",
+        page_url_map=page_url_map,
+        navigation=navigation_map["/puzzles/"],
+    )
+
+    prepare_resource_page(
         source=HUMAN_SITEMAP_SOURCE,
         destination=WEB / "sitemap" / "index.md",
         public_url="/sitemap/",
@@ -2031,6 +1996,8 @@ def main() -> None:
         "/contact/",
         "/about/",
         "/glossary/",
+        "/booklets/",
+        "/puzzles/",
         "/sitemap/",
         *[page.public_url for page in course_pages],
         *[page.public_url for page in reference_pages],
@@ -2062,6 +2029,8 @@ def main() -> None:
     print("  Contact pages:              1")
     print("  Additional info pages:      1")
     print("  Glossary pages:             1")
+    print("  Booklet landing pages:      1")
+    print("  Puzzle landing pages:       1")
     print("  Human sitemap pages:        1")
     print(f"  Internal Reference ignored: {internal_count}")
     print(f"  Total public routes:        {len(set(public_urls))}")

@@ -10,6 +10,8 @@ Use the sections below to drill down into the course, reference library, researc
 - [Course index](course/README.md)
 - [Reference Library](reference/README.md)
 - [Glossary](glossary/README.md)
+- [Booklets](booklets/README.md)
+- [Course Puzzles](assets/puzzles/README.md)
 - [Additional Project Information](docs/project/additional-project-information.md)
 - [Contact](contact/README.md)
 
