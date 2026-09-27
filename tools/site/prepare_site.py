@@ -2,11 +2,13 @@
 """
 Prepare canonical repository content for the Jekyll website.
 
-The repository Markdown remains untouched. This script creates generated
-website copies under web/, adding Jekyll front matter, removing repository-only
-navigation/header material, and translating links for the public site.
+Canonical Markdown remains optimized for GitHub and is never edited here.
+This script creates a generated website copy under web/, adds Jekyll front
+matter, removes repository-only navigation, translates public links, and copies
+approved public assets.
 
-Generated output is safe to erase and rebuild on every run.
+Publication is allowlist-based. In particular, reference/_internal/ is a
+permanent repository-only area and is never published.
 """
 
 from __future__ import annotations
@@ -20,7 +22,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 WEB = ROOT / "web"
+
 COURSE_ROOT = ROOT / "course"
+REFERENCE_ROOT = ROOT / "reference"
+INTERNAL_REFERENCE_ROOT = REFERENCE_ROOT / "_internal"
 
 GITHUB_BLOB_BASE = (
     "https://github.com/FND-Education-Project/FND-Education/blob/main/"
@@ -31,6 +36,7 @@ NAV_BLOCKS = ("BREADCRUMB",)
 PART_RE = re.compile(r"^part-(\d+)-", re.IGNORECASE)
 MODULE_RE = re.compile(r"^module-(\d+)-", re.IGNORECASE)
 LESSON_RE = re.compile(r"^(\d+)-.+\.md$", re.IGNORECASE)
+NUMBERED_MD_RE = re.compile(r"^(\d+)-(.+)\.md$", re.IGNORECASE)
 
 
 @dataclass(frozen=True)
@@ -72,13 +78,53 @@ class CoursePage:
         return "landing" if self.kind in {"course", "module"} else "course"
 
 
+@dataclass(frozen=True)
+class ReferencePage:
+    source: Path
+    kind: str
+    public_url: str
+    section: str | None = None
+    symptom_slug: str | None = None
+    number: int | None = None
+
+    @property
+    def destination(self) -> Path:
+        relative = self.public_url.strip("/")
+        if not relative:
+            raise ValueError("Reference public URL cannot be the site root")
+        return WEB / relative / "index.md"
+
+    @property
+    def jekyll_path(self) -> str:
+        return self.destination.relative_to(WEB).as_posix()
+
+    @property
+    def layout(self) -> str:
+        if self.kind in {"diagnostic-technique", "recovery-technique"}:
+            return "technique"
+        return "reference"
+
+
 def yaml_string(value: str) -> str:
     """Return a double-quoted YAML-safe scalar using JSON escaping."""
     return json.dumps(value, ensure_ascii=False)
 
 
+def humanize_slug(slug: str) -> str:
+    """Create a readable breadcrumb label from a stable URL slug."""
+    special = {
+        "fnd": "FND",
+        "fcd": "FCD",
+        "pppd": "PPPD",
+    }
+    return " ".join(
+        special.get(word.lower(), word.capitalize())
+        for word in slug.split("-")
+    )
+
+
 def remove_nav_blocks(text: str) -> str:
-    """Remove repository-only navigation blocks from the website copy."""
+    """Remove repository-only breadcrumb blocks from the website copy."""
     for name in NAV_BLOCKS:
         pattern = re.compile(
             rf"\\?<!--\s*NAV-{name}:START\s*-->.*?"
@@ -89,13 +135,26 @@ def remove_nav_blocks(text: str) -> str:
     return text
 
 
-def remove_context_navigation(text: str) -> str:
+def remove_plain_reference_breadcrumb(text: str) -> str:
     """
-    Remove repository-only NAV-CONTEXT content from the website copy.
+    Remove the older one-line breadcrumb form used on some Reference pages.
 
-    Website previous/next controls are inserted separately after each audience
-    section and again after Research and Sources by the layout.
+    It is intentionally limited to a line beginning with [Home] near the top
+    and containing the Reference Library link.
     """
+    top = text[:2500]
+    match = re.search(
+        r"^\[Home\]\([^)]+\).*?\[Reference Library\]\([^)]+\).*?$",
+        top,
+        re.MULTILINE,
+    )
+    if not match:
+        return text
+    return text[: match.start()] + text[match.end() :].lstrip("\n")
+
+
+def remove_context_navigation(text: str) -> str:
+    """Remove repository-only NAV-CONTEXT blocks from the website copy."""
     pattern = re.compile(
         r"\\?<!--\s*NAV-CONTEXT:START\s*-->.*?"
         r"<!--\s*NAV-CONTEXT:END\s*-->\s*",
@@ -106,11 +165,10 @@ def remove_context_navigation(text: str) -> str:
 
 def normalize_audience_separators(text: str) -> str:
     """
-    Replace only the horizontal-rule marker immediately following the
-    Research and Sources audience link.
+    Replace only the *** immediately following the Research and Sources link.
 
-    Arbitrary *** sequences are left alone because they can legitimately mean
-    strong+italic emphasis in Markdown.
+    Arbitrary *** sequences remain untouched because they can be legitimate
+    strong+italic Markdown.
     """
     return re.sub(
         r"(\[Research and Sources\]\(#research-and-sources\)[ \t]*\n)"
@@ -120,14 +178,14 @@ def normalize_audience_separators(text: str) -> str:
     )
 
 
-def insert_navigation_after_audience_blocks(text: str) -> tuple[str, int]:
+def insert_navigation_after_audience_sections(text: str) -> tuple[str, int]:
     """
-    Insert website previous/next controls after each of the three audience
-    sections.
+    Insert previous/next controls after Person, Supporter and Clinician sections.
 
-    The match is intentionally the complete four-link audience navigation
-    block, not a bare *** or --- marker, so ordinary Markdown emphasis and
-    unrelated horizontal rules are untouched.
+    The complete four-link audience block is the insertion marker. A block
+    before the Person section is introductory navigation and is skipped. A
+    block after Research and Sources is also skipped because the layout supplies
+    the final previous/next control after the article.
     """
     pattern = re.compile(
         r"(?P<block>"
@@ -143,22 +201,155 @@ def insert_navigation_after_audience_blocks(text: str) -> tuple[str, int]:
         re.MULTILINE,
     )
 
-    replacement = (
-        r"\g<block>\n\n"
-        "{% include page-navigation.html %}\n"
-    )
+    person_pos = text.find("## For the Person With FND")
+    research_pos = text.find("## Research and Sources")
 
-    return pattern.subn(replacement, text)
+    matches = list(pattern.finditer(text))
+    eligible = [
+        match
+        for match in matches
+        if person_pos >= 0
+        and match.start() > person_pos
+        and (research_pos < 0 or match.start() < research_pos)
+    ]
+
+    for match in reversed(eligible):
+        replacement = (
+            match.group("block")
+            + "\n\n{% include page-navigation.html %}\n"
+        )
+        text = text[: match.start()] + replacement + text[match.end() :]
+
+    return text, len(eligible)
+
+
+def extract_title(text: str, source: Path) -> str:
+    match = re.search(r"^#\s+(.+?)\s*$", text, re.MULTILINE)
+    if not match:
+        raise ValueError(f"No level-1 title found in {source.relative_to(ROOT)}")
+    return match.group(1).strip()
+
+
+def extract_course_status_and_authorship(
+    text: str,
+    source: Path,
+) -> tuple[str, str]:
+    match = re.search(
+        r"^>\s*\*\*Working draft:\*\*\s*(.+?)\s*$",
+        text,
+        re.MULTILINE,
+    )
+    if not match:
+        raise ValueError(
+            f"No Working draft line found in {source.relative_to(ROOT)}"
+        )
+
+    wording = match.group(1).lower()
+
+    if "automatically generated" in wording:
+        authorship = "automatically-generated"
+    elif "human authored" in wording:
+        authorship = "human"
+    else:
+        authorship = "unspecified"
+
+    return "working-draft", authorship
+
+
+def extract_reference_editorial_status(
+    text: str,
+) -> tuple[str | None, str | None, str]:
+    """
+    Extract only obvious editorial draft/status blockquotes near the page top.
+
+    Clinical explanatory blockquotes elsewhere are preserved.
+    """
+    for match in re.finditer(r"^>\s*(.+?)\s*$", text, re.MULTILINE):
+        if match.start() > 3500:
+            break
+
+        wording = match.group(1).lower()
+        editorial = any(
+            phrase in wording
+            for phrase in (
+                "working draft",
+                "draft in progress",
+                "working inventory",
+                "automatically generated expansion",
+            )
+        )
+        if not editorial:
+            continue
+
+        if "human draft" in wording:
+            authorship = "human"
+        elif "automatically generated" in wording:
+            authorship = "automatically-generated"
+        else:
+            authorship = "unspecified"
+
+        cleaned = text[: match.start()] + text[match.end() :]
+        return "working-draft", authorship, cleaned
+
+    return None, None, text
+
+
+def extract_last_reviewed(text: str) -> str | None:
+    match = re.search(
+        r"^\*Last reviewed:\s*(.+?)\*\s*$",
+        text,
+        re.MULTILINE | re.IGNORECASE,
+    )
+    return match.group(1).strip() if match else None
+
+
+def extract_reference_description(text: str) -> tuple[str, str | None]:
+    """
+    Move one suitable introductory prose paragraph into page.description.
+
+    Structured labels, lists, navigation blocks and headings stay in the body.
+    """
+    h2_pos = text.find("\n## ")
+    search_area = text if h2_pos < 0 else text[:h2_pos]
+
+    offset = 0
+    for block in re.split(r"(\n\s*\n)", search_area):
+        block_start = offset
+        offset += len(block)
+
+        stripped = block.strip()
+        if not stripped or re.fullmatch(r"\n\s*\n", block):
+            continue
+
+        first = stripped[0]
+        if (
+            first in "#>*-|<"
+            or first.isdigit()
+            or stripped.startswith("[")
+            or stripped.startswith("**")
+            or "<br>" in stripped
+            or "{%" in stripped
+        ):
+            continue
+
+        description = " ".join(
+            line.strip()
+            for line in stripped.splitlines()
+        ).strip()
+
+        if not description:
+            continue
+
+        before = text[:block_start]
+        after = text[block_start + len(block):]
+        cleaned = (before + after).lstrip("\n")
+        return cleaned, description
+
+    return text, None
 
 
 def discover_course_pages() -> list[CoursePage]:
-    """
-    Find the course landing page, 23 module landing pages, and numbered lessons.
-
-    The module README remains part of the public course sequence:
-        /course/m1/       -> module README
-        /course/m1/1/     -> first lesson
-    """
+    """Find the course landing page, module intros and numbered lessons."""
     pages: list[CoursePage] = []
 
     course_readme = COURSE_ROOT / "README.md"
@@ -239,110 +430,247 @@ def discover_course_pages() -> list[CoursePage]:
     return pages
 
 
-def extract_title(text: str, source: Path) -> str:
-    match = re.search(r"^#\s+(.+?)\s*$", text, re.MULTILINE)
-    if not match:
-        raise ValueError(f"No level-1 title found in {source.relative_to(ROOT)}")
-    return match.group(1).strip()
-
-
-def extract_status_and_authorship(text: str, source: Path) -> tuple[str, str]:
-    match = re.search(
-        r"^>\s*\*\*Working draft:\*\*\s*(.+?)\s*$",
-        text,
-        re.MULTILINE,
-    )
+def numbered_slug(source: Path) -> tuple[int, str]:
+    match = NUMBERED_MD_RE.match(source.name)
     if not match:
         raise ValueError(
-            f"No Working draft line found in {source.relative_to(ROOT)}"
+            f"Expected numbered Markdown filename: {source.relative_to(ROOT)}"
         )
-
-    wording = match.group(1).lower()
-
-    if "automatically generated" in wording:
-        authorship = "automatically-generated"
-    elif "human authored" in wording:
-        authorship = "human"
-    else:
-        authorship = "unspecified"
-
-    return "working-draft", authorship
+    return int(match.group(1)), match.group(2)
 
 
-def extract_last_reviewed(text: str) -> str | None:
-    match = re.search(
-        r"^\*Last reviewed:\s*(.+?)\*\s*$",
-        text,
-        re.MULTILINE | re.IGNORECASE,
-    )
-    return match.group(1).strip() if match else None
-
-
-def strip_website_header_material(text: str, source: Path) -> tuple[str, str]:
+def discover_reference_pages() -> list[ReferencePage]:
     """
-    Remove source-only material already represented by the website layout.
+    Discover only explicitly supported reader-facing Reference page patterns.
 
-    Returns:
-        cleaned Markdown body
-        opening description
+    reference/_internal/ is never traversed. Any unexpected Markdown elsewhere
+    under reference/ fails the build so new publication types are deliberate.
     """
-    text = remove_context_navigation(text)
-    text = remove_nav_blocks(text)
-    text = normalize_audience_separators(text)
-    text, _ = insert_navigation_after_audience_blocks(text)
+    pages: list[ReferencePage] = []
+    unknown: list[Path] = []
 
-    text, count = re.subn(
-        r"^#\s+.+?\s*$",
-        "",
-        text,
-        count=1,
-        flags=re.MULTILINE,
-    )
-    if count != 1:
+    for source in sorted(REFERENCE_ROOT.rglob("*.md")):
+        if INTERNAL_REFERENCE_ROOT in source.parents:
+            continue
+
+        rel = source.relative_to(REFERENCE_ROOT)
+        parts = rel.parts
+
+        page: ReferencePage | None = None
+
+        if rel.as_posix() == "README.md":
+            page = ReferencePage(
+                source=source,
+                kind="reference-home",
+                public_url="/reference/",
+                section="reference",
+            )
+
+        elif rel.as_posix() == "reference-index.md":
+            page = ReferencePage(
+                source=source,
+                kind="reference-index",
+                public_url="/reference/index/",
+                section="reference",
+            )
+
+        elif rel.as_posix() == "functional-cognitive-disorder.md":
+            page = ReferencePage(
+                source=source,
+                kind="reference-topic",
+                public_url="/reference/functional-cognitive-disorder/",
+                section="reference",
+                symptom_slug="functional-cognitive-disorder",
+            )
+
+        elif parts[0] == "co-occurring-conditions":
+            if len(parts) == 2 and parts[1] == "README.md":
+                page = ReferencePage(
+                    source=source,
+                    kind="co-occurring-home",
+                    public_url="/reference/co-occurring/",
+                    section="co-occurring",
+                )
+            elif len(parts) == 2:
+                number, slug = numbered_slug(source)
+                page = ReferencePage(
+                    source=source,
+                    kind="co-occurring-condition",
+                    public_url=f"/reference/co-occurring/{slug}/",
+                    section="co-occurring",
+                    symptom_slug=slug,
+                    number=number,
+                )
+
+        elif parts[0] == "diagnostic-concepts":
+            if len(parts) == 2 and parts[1] == "README.md":
+                page = ReferencePage(
+                    source=source,
+                    kind="diagnostic-concepts-home",
+                    public_url="/reference/diagnosis/concepts/",
+                    section="diagnosis",
+                )
+            elif len(parts) == 2:
+                number, _slug = numbered_slug(source)
+                page = ReferencePage(
+                    source=source,
+                    kind="diagnostic-concept",
+                    public_url=f"/reference/diagnosis/concepts/{number}/",
+                    section="diagnosis",
+                    number=number,
+                )
+
+        elif parts[0] == "diagnostic-signs":
+            if len(parts) == 2 and parts[1] == "README.md":
+                page = ReferencePage(
+                    source=source,
+                    kind="diagnostic-home",
+                    public_url="/reference/diagnosis/",
+                    section="diagnosis",
+                )
+            elif len(parts) == 2 and parts[1] == "diagnostic-index.md":
+                page = ReferencePage(
+                    source=source,
+                    kind="diagnostic-index",
+                    public_url="/reference/diagnosis/index/",
+                    section="diagnosis",
+                )
+            elif len(parts) == 2:
+                number, slug = numbered_slug(source)
+                page = ReferencePage(
+                    source=source,
+                    kind="diagnostic-overview",
+                    public_url=f"/reference/{slug}/diagnosis/",
+                    section="diagnosis",
+                    symptom_slug=slug,
+                    number=number,
+                )
+            elif len(parts) == 3:
+                slug = parts[1].replace("_", "-")
+                if parts[2] == "README.md":
+                    page = ReferencePage(
+                        source=source,
+                        kind="diagnostic-techniques-home",
+                        public_url=(
+                            f"/reference/{slug}/diagnosis/techniques/"
+                        ),
+                        section="diagnosis",
+                        symptom_slug=slug,
+                    )
+                elif parts[2] == "technique-inventory.md":
+                    page = ReferencePage(
+                        source=source,
+                        kind="diagnostic-inventory",
+                        public_url=(
+                            f"/reference/{slug}/diagnosis/inventory/"
+                        ),
+                        section="diagnosis",
+                        symptom_slug=slug,
+                    )
+                else:
+                    number, _technique_slug = numbered_slug(source)
+                    page = ReferencePage(
+                        source=source,
+                        kind="diagnostic-technique",
+                        public_url=(
+                            f"/reference/{slug}/diagnosis/{number}/"
+                        ),
+                        section="diagnosis",
+                        symptom_slug=slug,
+                        number=number,
+                    )
+
+        elif parts[0] == "recovery-techniques":
+            if len(parts) == 2 and parts[1] == "README.md":
+                page = ReferencePage(
+                    source=source,
+                    kind="recovery-home",
+                    public_url="/reference/recovery/",
+                    section="recovery",
+                )
+            elif len(parts) == 2 and parts[1] == "collection-guide.md":
+                page = ReferencePage(
+                    source=source,
+                    kind="recovery-guide",
+                    public_url="/reference/recovery/guide/",
+                    section="recovery",
+                )
+            elif len(parts) == 2 and parts[1] == "technique-index.md":
+                page = ReferencePage(
+                    source=source,
+                    kind="recovery-index",
+                    public_url="/reference/recovery/index/",
+                    section="recovery",
+                )
+            elif len(parts) == 2:
+                number, slug = numbered_slug(source)
+                page = ReferencePage(
+                    source=source,
+                    kind="recovery-overview",
+                    public_url=f"/reference/{slug}/recovery/",
+                    section="recovery",
+                    symptom_slug=slug,
+                    number=number,
+                )
+            elif len(parts) == 3:
+                slug = parts[1].replace("_", "-")
+                if parts[2] == "README.md":
+                    page = ReferencePage(
+                        source=source,
+                        kind="recovery-techniques-home",
+                        public_url=(
+                            f"/reference/{slug}/recovery/techniques/"
+                        ),
+                        section="recovery",
+                        symptom_slug=slug,
+                    )
+                else:
+                    number, _technique_slug = numbered_slug(source)
+                    page = ReferencePage(
+                        source=source,
+                        kind="recovery-technique",
+                        public_url=(
+                            f"/reference/{slug}/recovery/{number}/"
+                        ),
+                        section="recovery",
+                        symptom_slug=slug,
+                        number=number,
+                    )
+
+        if page is None:
+            unknown.append(source)
+        else:
+            pages.append(page)
+
+    if unknown:
+        formatted = "\n  - ".join(
+            str(path.relative_to(ROOT))
+            for path in unknown
+        )
         raise ValueError(
-            f"Expected one opening H1 in {source.relative_to(ROOT)}"
+            "Unclassified public Reference Markdown. Either add an explicit "
+            "public route or move repository-only material under "
+            f"reference/_internal/:\n  - {formatted}"
         )
 
-    text, count = re.subn(
-        r"^>\s*\*\*Working draft:\*\*.*?\s*$",
-        "",
-        text,
-        count=1,
-        flags=re.MULTILINE,
-    )
-    if count != 1:
-        raise ValueError(
-            f"Expected one Working draft block in {source.relative_to(ROOT)}"
-        )
+    seen: dict[str, Path] = {}
+    for page in pages:
+        if page.public_url in seen:
+            raise ValueError(
+                "Duplicate public Reference URL "
+                f"{page.public_url}: {seen[page.public_url]} and {page.source}"
+            )
+        seen[page.public_url] = page.source
 
-    text = text.lstrip()
-    parts = re.split(r"\n\s*\n", text, maxsplit=1)
-
-    if len(parts) != 2:
-        raise ValueError(
-            f"Could not identify opening description in "
-            f"{source.relative_to(ROOT)}"
-        )
-
-    description = " ".join(line.strip() for line in parts[0].splitlines()).strip()
-    body = parts[1].lstrip()
-
-    body = re.sub(
-        r"^\*Last reviewed:\s*.+?\*\s*$",
-        "",
-        body,
-        flags=re.MULTILINE | re.IGNORECASE,
-    )
-
-    return body.strip() + "\n", description
+    return pages
 
 
-def clean_generated_course() -> None:
-    """Erase only the generated course tree, preserving its placeholder."""
-    course_web = WEB / "course"
-    course_web.mkdir(parents=True, exist_ok=True)
+def clean_generated_area(name: str) -> None:
+    """Erase one known generated web tree, preserving its .gitkeep."""
+    area = WEB / name
+    area.mkdir(parents=True, exist_ok=True)
 
-    for child in course_web.iterdir():
+    for child in area.iterdir():
         if child.name == ".gitkeep":
             continue
         if child.is_dir():
@@ -353,10 +681,10 @@ def clean_generated_course() -> None:
 
 def copy_public_asset_trees() -> None:
     """
-    Copy the explicitly approved shared asset trees into the Jekyll source.
+    Copy explicitly approved shared assets.
 
-    Site-owned CSS, JavaScript and icons already live directly under web/assets
-    and are not touched.
+    Site-owned CSS, JavaScript and icons already live under web/assets and are
+    not touched.
     """
     for dirname in ("illustrations", "images", "puzzles"):
         src = ROOT / "assets" / dirname
@@ -392,6 +720,15 @@ def relative_url_liquid(public_path: str) -> str:
     return "{{ " + yaml_string(public_path) + " | relative_url }}"
 
 
+def is_internal_reference_path(path: Path) -> bool:
+    """Return True when a repository path is under reference/_internal/."""
+    try:
+        path.resolve().relative_to(INTERNAL_REFERENCE_ROOT.resolve())
+        return True
+    except ValueError:
+        return False
+
+
 def rewrite_relative_links(
     markdown: str,
     source_file: Path,
@@ -400,15 +737,16 @@ def rewrite_relative_links(
     """
     Translate links in the generated website copy.
 
-    - Course/module Markdown -> its short website URL.
-    - Published non-Markdown assets -> corresponding public asset path.
+    - Published Markdown -> its website URL.
+    - Internal Reference working material -> plain link text, never published.
+    - Approved non-Markdown assets -> corresponding public asset path.
     - Other repository Markdown -> canonical GitHub source for now.
     - External URLs and same-page fragments -> unchanged.
     """
     pattern = re.compile(
-        r"(?P<prefix>!?\[[^\]]*\]\()"
-        r"(?P<target>[^)\s]+)"
-        r"(?P<suffix>\))"
+        r"(?P<image>!)?"
+        r"\[(?P<label>[^\]]*)\]"
+        r"\((?P<target>[^)\s]+)\)"
     )
 
     def replace(match: re.Match[str]) -> str:
@@ -439,17 +777,21 @@ def rewrite_relative_links(
         if not resolved.exists():
             return match.group(0)
 
+        if is_internal_reference_path(resolved):
+            if match.group("image"):
+                return ""
+            return match.group("label")
+
         mapped_url = page_url_map.get(resolved)
 
         if mapped_url:
             public_path = mapped_url
             if separator:
                 public_path += "#" + fragment
-
             return (
-                f"{match.group('prefix')}"
-                f"{relative_url_liquid(public_path)}"
-                f"{match.group('suffix')}"
+                f"{'!' if match.group('image') else ''}"
+                f"[{match.group('label')}]"
+                f"({relative_url_liquid(public_path)})"
             )
 
         try:
@@ -462,9 +804,9 @@ def rewrite_relative_links(
             if separator:
                 github_url += "#" + fragment
             return (
-                f"{match.group('prefix')}"
-                f"{github_url}"
-                f"{match.group('suffix')}"
+                f"{'!' if match.group('image') else ''}"
+                f"[{match.group('label')}]"
+                f"({github_url})"
             )
 
         copy_referenced_asset(resolved)
@@ -474,15 +816,115 @@ def rewrite_relative_links(
             public_path += "#" + fragment
 
         return (
-            f"{match.group('prefix')}"
-            f"{relative_url_liquid(public_path)}"
-            f"{match.group('suffix')}"
+            f"{'!' if match.group('image') else ''}"
+            f"[{match.group('label')}]"
+            f"({relative_url_liquid(public_path)})"
         )
 
     return pattern.sub(replace, markdown)
 
 
-def render_front_matter(
+def strip_course_header_material(
+    text: str,
+    source: Path,
+) -> tuple[str, str]:
+    """Transform one course source page into its generated website body."""
+    text = remove_context_navigation(text)
+    text = remove_nav_blocks(text)
+    text = normalize_audience_separators(text)
+    text, _ = insert_navigation_after_audience_sections(text)
+
+    text, count = re.subn(
+        r"^#\s+.+?\s*$",
+        "",
+        text,
+        count=1,
+        flags=re.MULTILINE,
+    )
+    if count != 1:
+        raise ValueError(
+            f"Expected one opening H1 in {source.relative_to(ROOT)}"
+        )
+
+    text, count = re.subn(
+        r"^>\s*\*\*Working draft:\*\*.*?\s*$",
+        "",
+        text,
+        count=1,
+        flags=re.MULTILINE,
+    )
+    if count != 1:
+        raise ValueError(
+            f"Expected one Working draft block in {source.relative_to(ROOT)}"
+        )
+
+    text = text.lstrip()
+    parts = re.split(r"\n\s*\n", text, maxsplit=1)
+
+    if len(parts) != 2:
+        raise ValueError(
+            f"Could not identify opening description in "
+            f"{source.relative_to(ROOT)}"
+        )
+
+    description = " ".join(
+        line.strip()
+        for line in parts[0].splitlines()
+    ).strip()
+    body = parts[1].lstrip()
+
+    body = re.sub(
+        r"^\*Last reviewed:\s*.+?\*\s*$",
+        "",
+        body,
+        flags=re.MULTILINE | re.IGNORECASE,
+    )
+
+    return body.strip() + "\n", description
+
+
+def strip_reference_header_material(
+    text: str,
+    source: Path,
+) -> tuple[
+    str,
+    str | None,
+    str | None,
+    str | None,
+]:
+    """Transform one reader-facing Reference source page."""
+    text = remove_context_navigation(text)
+    text = remove_nav_blocks(text)
+    text = remove_plain_reference_breadcrumb(text)
+    text = normalize_audience_separators(text)
+    text, _ = insert_navigation_after_audience_sections(text)
+
+    text, count = re.subn(
+        r"^#\s+.+?\s*$",
+        "",
+        text,
+        count=1,
+        flags=re.MULTILINE,
+    )
+    if count != 1:
+        raise ValueError(
+            f"Expected one H1 in {source.relative_to(ROOT)}"
+        )
+
+    status, authorship, text = extract_reference_editorial_status(text)
+    text = text.lstrip()
+
+    text, description = extract_reference_description(text)
+
+    return (
+        text.strip() + "\n",
+        description,
+        status,
+        authorship,
+    )
+
+
+def render_course_front_matter(
     page: CoursePage,
     title: str,
     description: str,
@@ -494,13 +936,7 @@ def render_front_matter(
     next_page: CoursePage | None,
     next_title: str | None,
 ) -> str:
-    """
-    Build Jekyll-only front matter for the generated copy.
-
-    Structural and previous/next information lives directly on each generated
-    page so navigation does not depend on matching page.path against a data
-    lookup at render time.
-    """
+    """Build Jekyll-only front matter for a generated course page."""
     lines = [
         "---",
         f"layout: {page.layout}",
@@ -556,87 +992,130 @@ def render_front_matter(
     return "\n".join(lines)
 
 
-def write_generated_page_data(pages: list[CoursePage]) -> None:
-    """Write structure and sequence data used by Jekyll layouts."""
-    generated_dir = WEB / "_data" / "generated"
-    generated_dir.mkdir(parents=True, exist_ok=True)
+def reference_context_label(page: ReferencePage) -> str:
+    labels = {
+        "reference-home": "REFERENCE LIBRARY",
+        "reference-index": "REFERENCE LIBRARY",
+        "reference-topic": "REFERENCE LIBRARY",
+        "diagnostic-home": "REFERENCE · DIAGNOSIS",
+        "diagnostic-index": "REFERENCE · DIAGNOSIS",
+        "diagnostic-overview": "REFERENCE · DIAGNOSIS",
+        "diagnostic-concepts-home": "REFERENCE · UNDERSTANDING DIAGNOSIS",
+        "diagnostic-concept": "REFERENCE · UNDERSTANDING DIAGNOSIS",
+        "diagnostic-techniques-home": "REFERENCE · DIAGNOSTIC TECHNIQUES",
+        "diagnostic-inventory": "REFERENCE · DIAGNOSTIC TECHNIQUES",
+        "diagnostic-technique": "REFERENCE · DIAGNOSTIC TECHNIQUE",
+        "recovery-home": "REFERENCE · RECOVERY",
+        "recovery-guide": "REFERENCE · RECOVERY",
+        "recovery-index": "REFERENCE · RECOVERY",
+        "recovery-overview": "REFERENCE · RECOVERY",
+        "recovery-techniques-home": "REFERENCE · RECOVERY TECHNIQUES",
+        "recovery-technique": "REFERENCE · RECOVERY TECHNIQUE",
+        "co-occurring-home": "REFERENCE · CO-OCCURRING CONDITIONS",
+        "co-occurring-condition": "REFERENCE · CO-OCCURRING CONDITION",
+    }
+    return labels.get(page.kind, "REFERENCE LIBRARY")
 
-    page_lines: list[str] = []
 
-    for page in pages:
-        page_lines.extend(
+def render_reference_front_matter(
+    page: ReferencePage,
+    title: str,
+    description: str | None,
+    status: str | None,
+    authorship: str | None,
+    previous_page: ReferencePage | None,
+    previous_title: str | None,
+    next_page: ReferencePage | None,
+    next_title: str | None,
+) -> str:
+    """Build Jekyll-only front matter for a generated Reference page."""
+    lines = [
+        "---",
+        f"layout: {page.layout}",
+        f"title: {yaml_string(title)}",
+        f"page_kind: {page.kind}",
+        f"page_context_label: {yaml_string(reference_context_label(page))}",
+        f"permalink: {page.public_url}",
+    ]
+
+    if description:
+        lines.append(f"description: {yaml_string(description)}")
+
+    if status:
+        lines.append(f"status: {status}")
+
+    if authorship:
+        lines.append(f"authorship: {authorship}")
+
+    if page.section:
+        lines.append(f"reference_section: {page.section}")
+
+    if page.symptom_slug:
+        lines.extend(
             [
-                f"{yaml_string(page.jekyll_path)}:",
-                f"  kind: {page.kind}",
-                f"  course_url: {yaml_string('/course/')}",
+                f"symptom_slug: {yaml_string(page.symptom_slug)}",
+                f"symptom_label: "
+                f"{yaml_string(humanize_slug(page.symptom_slug))}",
             ]
         )
 
-        if page.part_number is not None:
-            page_lines.append(f"  part_number: {page.part_number}")
+    if page.number is not None:
+        lines.append(f"reference_number: {page.number}")
 
-        if page.module_number is not None:
-            page_lines.extend(
-                [
-                    f"  module_number: {page.module_number}",
-                    f"  module_url: "
-                    f"{yaml_string(f'/course/m{page.module_number}/')}",
-                ]
-            )
-
-        if page.lesson_number is not None:
-            page_lines.append(f"  lesson_number: {page.lesson_number}")
-
-    (generated_dir / "pages.yml").write_text(
-        "\n".join(page_lines) + "\n",
-        encoding="utf-8",
-    )
-
-    title_by_source = {
-        page.source: extract_title(
-            page.source.read_text(encoding="utf-8"),
-            page.source,
+    if previous_page is not None and previous_title is not None:
+        lines.extend(
+            [
+                f"previous_page_url: {yaml_string(previous_page.public_url)}",
+                f"previous_page_title: {yaml_string(previous_title)}",
+            ]
         )
-        for page in pages
-    }
 
-    nav_lines: list[str] = []
+    if next_page is not None and next_title is not None:
+        lines.extend(
+            [
+                f"next_page_url: {yaml_string(next_page.public_url)}",
+                f"next_page_title: {yaml_string(next_title)}",
+            ]
+        )
 
-    for index, page in enumerate(pages):
-        nav_lines.append(f"{yaml_string(page.jekyll_path)}:")
+    lines.extend(["---", ""])
+    return "\n".join(lines)
 
-        if index > 0:
-            previous = pages[index - 1]
-            nav_lines.extend(
-                [
-                    "  previous:",
-                    f"    title: {yaml_string(title_by_source[previous.source])}",
-                    f"    url: {yaml_string(previous.public_url)}",
-                ]
-            )
 
-        if index < len(pages) - 1:
-            following = pages[index + 1]
-            nav_lines.extend(
-                [
-                    "  next:",
-                    f"    title: {yaml_string(title_by_source[following.source])}",
-                    f"    url: {yaml_string(following.public_url)}",
-                ]
-            )
-
-    (generated_dir / "navigation.yml").write_text(
-        "\n".join(nav_lines) + "\n",
-        encoding="utf-8",
+def extract_continue_target(source_text: str, source: Path) -> Path | None:
+    """Resolve the authored NAV-CONTEXT Continue link, when it is public."""
+    block = re.search(
+        r"\\?<!--\s*NAV-CONTEXT:START\s*-->(.*?)"
+        r"<!--\s*NAV-CONTEXT:END\s*-->",
+        source_text,
+        re.IGNORECASE | re.DOTALL,
     )
+    if not block:
+        return None
+
+    match = re.search(
+        r"\*\*Continue:\*\*\s*\[[^\]]+\]\(([^)#]+)(?:#[^)]+)?\)",
+        block.group(1),
+        re.IGNORECASE,
+    )
+    if not match:
+        return None
+
+    target = match.group(1).strip()
+    if (
+        target.startswith("/")
+        or re.match(r"^[a-zA-Z][a-zA-Z0-9+.-]*:", target)
+    ):
+        return None
+
+    resolved = (source.parent / target).resolve()
+    return resolved if resolved.exists() else None
 
 
-def prepare_course(pages: list[CoursePage]) -> None:
-    page_url_map = {
-        page.source.resolve(): page.public_url
-        for page in pages
-    }
-
+def prepare_course(
+    pages: list[CoursePage],
+    page_url_map: dict[Path, str],
+) -> None:
     source_text_by_page = {
         page: page.source.read_text(encoding="utf-8")
         for page in pages
@@ -654,13 +1133,13 @@ def prepare_course(pages: list[CoursePage]) -> None:
             source_text = source_text_by_page[page]
             title = title_by_page[page]
 
-            status, authorship = extract_status_and_authorship(
+            status, authorship = extract_course_status_and_authorship(
                 source_text,
                 page.source,
             )
             last_reviewed = extract_last_reviewed(source_text)
 
-            body, description = strip_website_header_material(
+            body, description = strip_course_header_material(
                 source_text,
                 page.source,
             )
@@ -686,7 +1165,7 @@ def prepare_course(pages: list[CoursePage]) -> None:
 
             page.destination.parent.mkdir(parents=True, exist_ok=True)
             page.destination.write_text(
-                render_front_matter(
+                render_course_front_matter(
                     page=page,
                     title=title,
                     description=description,
@@ -721,24 +1200,227 @@ def prepare_course(pages: list[CoursePage]) -> None:
         )
 
 
+def build_reference_navigation(
+    pages: list[ReferencePage],
+    source_text_by_page: dict[ReferencePage, str],
+) -> tuple[
+    dict[ReferencePage, ReferencePage | None],
+    dict[ReferencePage, ReferencePage | None],
+]:
+    """
+    Use authored NAV-CONTEXT Continue links as the Reference reading sequence.
+
+    Previous links are inferred only when exactly one public page points to the
+    current page, avoiding invented navigation when several paths converge.
+    """
+    by_source = {
+        page.source.resolve(): page
+        for page in pages
+    }
+
+    next_by_page: dict[ReferencePage, ReferencePage | None] = {}
+    incoming: dict[ReferencePage, list[ReferencePage]] = {
+        page: []
+        for page in pages
+    }
+
+    for page in pages:
+        target = extract_continue_target(
+            source_text_by_page[page],
+            page.source,
+        )
+        next_page = by_source.get(target) if target else None
+        next_by_page[page] = next_page
+        if next_page is not None:
+            incoming[next_page].append(page)
+
+    previous_by_page: dict[ReferencePage, ReferencePage | None] = {}
+    for page in pages:
+        candidates = incoming[page]
+        previous_by_page[page] = (
+            candidates[0]
+            if len(candidates) == 1
+            else None
+        )
+
+    return previous_by_page, next_by_page
+
+
+def prepare_reference(
+    pages: list[ReferencePage],
+    page_url_map: dict[Path, str],
+) -> None:
+    source_text_by_page = {
+        page: page.source.read_text(encoding="utf-8")
+        for page in pages
+    }
+
+    title_by_page = {
+        page: extract_title(source_text_by_page[page], page.source)
+        for page in pages
+    }
+
+    previous_by_page, next_by_page = build_reference_navigation(
+        pages,
+        source_text_by_page,
+    )
+
+    errors: list[str] = []
+
+    for page in pages:
+        try:
+            source_text = source_text_by_page[page]
+            title = title_by_page[page]
+
+            (
+                body,
+                description,
+                status,
+                authorship,
+            ) = strip_reference_header_material(
+                source_text,
+                page.source,
+            )
+
+            body = rewrite_relative_links(
+                body,
+                page.source,
+                page_url_map,
+            )
+
+            previous_page = previous_by_page[page]
+            next_page = next_by_page[page]
+
+            page.destination.parent.mkdir(parents=True, exist_ok=True)
+            page.destination.write_text(
+                render_reference_front_matter(
+                    page=page,
+                    title=title,
+                    description=description,
+                    status=status,
+                    authorship=authorship,
+                    previous_page=previous_page,
+                    previous_title=(
+                        title_by_page[previous_page]
+                        if previous_page is not None
+                        else None
+                    ),
+                    next_page=next_page,
+                    next_title=(
+                        title_by_page[next_page]
+                        if next_page is not None
+                        else None
+                    ),
+                )
+                + body,
+                encoding="utf-8",
+            )
+
+        except Exception as exc:
+            errors.append(f"{page.source.relative_to(ROOT)}: {exc}")
+
+    if errors:
+        joined = "\n  - ".join(errors)
+        raise RuntimeError(
+            "Reference preparation stopped because some pages did not match "
+            f"the expected source pattern:\n  - {joined}"
+        )
+
+
+def write_generated_page_data(pages: list[CoursePage]) -> None:
+    """
+    Keep the small generated course data files for compatibility.
+
+    Current layouts read structural navigation directly from generated page
+    front matter; these files remain rebuildable and may support future indexes.
+    """
+    generated_dir = WEB / "_data" / "generated"
+    generated_dir.mkdir(parents=True, exist_ok=True)
+
+    page_lines: list[str] = []
+
+    for page in pages:
+        page_lines.extend(
+            [
+                f"{yaml_string(page.jekyll_path)}:",
+                f"  kind: {page.kind}",
+                f"  course_url: {yaml_string('/course/')}",
+            ]
+        )
+
+        if page.part_number is not None:
+            page_lines.append(f"  part_number: {page.part_number}")
+
+        if page.module_number is not None:
+            page_lines.extend(
+                [
+                    f"  module_number: {page.module_number}",
+                    f"  module_url: "
+                    f"{yaml_string(f'/course/m{page.module_number}/')}",
+                ]
+            )
+
+        if page.lesson_number is not None:
+            page_lines.append(f"  lesson_number: {page.lesson_number}")
+
+    (generated_dir / "pages.yml").write_text(
+        "\n".join(page_lines) + "\n",
+        encoding="utf-8",
+    )
+
+    (generated_dir / "navigation.yml").write_text(
+        "{}\n",
+        encoding="utf-8",
+    )
+
+
 def main() -> None:
-    pages = discover_course_pages()
+    course_pages = discover_course_pages()
+    reference_pages = discover_reference_pages()
 
-    clean_generated_course()
+    clean_generated_area("course")
+    clean_generated_area("reference")
     copy_public_asset_trees()
-    prepare_course(pages)
-    write_generated_page_data(pages)
 
-    module_count = sum(page.kind == "module" for page in pages)
-    lesson_count = sum(page.kind == "lesson" for page in pages)
+    page_url_map = {
+        page.source.resolve(): page.public_url
+        for page in course_pages
+    }
+    page_url_map.update(
+        {
+            page.source.resolve(): page.public_url
+            for page in reference_pages
+        }
+    )
+
+    prepare_course(course_pages, page_url_map)
+    prepare_reference(reference_pages, page_url_map)
+    write_generated_page_data(course_pages)
+
+    module_count = sum(
+        page.kind == "module"
+        for page in course_pages
+    )
+    lesson_count = sum(
+        page.kind == "lesson"
+        for page in course_pages
+    )
+    internal_count = (
+        len(list(INTERNAL_REFERENCE_ROOT.rglob("*.md")))
+        if INTERNAL_REFERENCE_ROOT.exists()
+        else 0
+    )
 
     print("Prepared Jekyll website source.")
     print("  Course landing pages:       1")
     print(f"  Module landing pages:       {module_count}")
     print(f"  Course lessons:             {lesson_count}")
-    print(f"  Total generated course:     {len(pages)}")
+    print(f"  Total generated course:     {len(course_pages)}")
+    print(f"  Public Reference pages:     {len(reference_pages)}")
+    print(f"  Internal Reference ignored: {internal_count}")
     print("  Module pattern:             /course/m{module}/")
     print("  Lesson pattern:             /course/m{module}/{lesson}/")
+    print("  Reference root:             /reference/")
     print("  Canonical Markdown files:   unchanged")
 
 
