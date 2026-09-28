@@ -785,6 +785,13 @@ button:focus-visible {
 }
 
 
+.footer-project-name {
+  margin-left: auto;
+
+  text-align: right;
+}
+
+
 .footer-inner nav {
   display: flex;
   gap: 1rem;
@@ -896,6 +903,13 @@ button:focus-visible {
   .footer-inner {
     align-items: flex-start;
     flex-direction: column;
+  }
+
+
+  .footer-project-name {
+    margin-left: 0;
+
+    text-align: left;
   }
 
 }
