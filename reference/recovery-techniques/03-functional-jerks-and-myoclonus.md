@@ -149,7 +149,7 @@ No community-only technique was added. Reports found online were either versions
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Jerks or Myoclonus: Detailed Recovery Techniques](functional_jerks_and_myoclonus/README.md)
 
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/03-functional-jerks-and-myoclonus.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/03-functional-jerks-and-myoclonus.md) · [EEG–EMG assessment](../diagnostic-signs/functional_jerks_and_myoclonus/01-eeg-emg-and-jerk-locked-back-averaging.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

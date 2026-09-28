@@ -115,3 +115,5 @@ Module 1 remains the wording and structure model for later human edits:
 <!-- NAV-CONTEXT:END -->
 
 FCD framework alignment, September 21, 2026: added a separate background page and conceptual SVG; grouped the original thirteen recovery entries; broadened Module 10, diagnostic scope and support examples; bounded the motor-FND/dissociation MRI evidence in Module 3 and the dissociation lesson. Added FND-CIT-0190–0191. Applied only the authorized brain-research accuracy edit within the human-authored Module 1 lesson. No Module 11 disease explanations were changed. Clinical, lived-experience and accessibility review remains pending.
+
+**September 28 diagnostic update:** [Functional jerks expansion](functional-jerks-diagnostic-expansion.md) adds the symptom overview, a separate EEG–EMG assessment and the preserved nine-entry inventory. Human/clinical review and remaining individual technique expansions are pending.

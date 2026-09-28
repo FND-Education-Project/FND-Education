@@ -1975,3 +1975,21 @@ Abstract-level review on September 27, 2026; full main text not retrieved. Ten s
 - [01-distractibility](../reference/diagnostic-signs/functional_tremor/01-distractibility.md): [FND-CIT-0019](#fnd-cit-0019), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0177](#fnd-cit-0177), [FND-CIT-0178](#fnd-cit-0178), [FND-CIT-0220](#fnd-cit-0220), [FND-CIT-0224](#fnd-cit-0224).
 - [02-entrainment](../reference/diagnostic-signs/functional_tremor/02-entrainment.md): [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0154](#fnd-cit-0154), [FND-CIT-0177](#fnd-cit-0177), [FND-CIT-0178](#fnd-cit-0178), [FND-CIT-0222](#fnd-cit-0222), [FND-CIT-0224](#fnd-cit-0224).
 - [technique-inventory](../reference/diagnostic-signs/functional_tremor/technique-inventory.md): [FND-CIT-0002](#fnd-cit-0002), [FND-CIT-0019](#fnd-cit-0019), [FND-CIT-0121](#fnd-cit-0121), [FND-CIT-0128](#fnd-cit-0128), [FND-CIT-0135](#fnd-cit-0135), [FND-CIT-0154](#fnd-cit-0154), [FND-CIT-0170](#fnd-cit-0170), [FND-CIT-0175](#fnd-cit-0175), [FND-CIT-0176](#fnd-cit-0176), [FND-CIT-0177](#fnd-cit-0177), [FND-CIT-0178](#fnd-cit-0178), [FND-CIT-0181](#fnd-cit-0181), [FND-CIT-0182](#fnd-cit-0182).
+
+## FND-CIT-0225
+
+Zutt R, Gelauff JM, Smit M, van Zijl JC, Stone J, Tijssen MAJ. The presence of depression and anxiety do not distinguish between functional jerks and cortical myoclonus. *Parkinsonism & Related Disorders*. 2017;45:90–93. [DOI](https://doi.org/10.1016/j.parkreldis.2017.09.023). [Accepted manuscript](https://www.pure.ed.ac.uk/ws/files/44477842/PIIS1353802017303553.pdf).
+
+Small tertiary-centre case-control study: 16 functional-jerk and 23 cortical-myoclonus participants. Questionnaire scores and quality of life, not causal psychiatric diagnosis. Accepted manuscript checked in full September 28, 2026.
+
+## FND-CIT-0226
+
+Latorre A, Ganos C, Hamada M, et al. Diagnostic utility of clinical neurophysiology in jerky movement disorders: a review from the MDS Clinical Neurophysiology Study Group. *Movement Disorders Clinical Practice*. 2025;12(3):272–284. [DOI](https://doi.org/10.1002/mdc3.14306). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11952955/).
+
+Narrative study-group review of diagnostic methods and limitations. Evidence largely comprises case series and limited case-control studies; protocol heterogeneity and incomplete validation matter. Full text checked September 28, 2026.
+
+### Current uses in the jerks diagnostic expansion
+
+- [03-functional-jerks-and-myoclonus](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md): [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0110](#fnd-cit-0110), [FND-CIT-0118](#fnd-cit-0118), [FND-CIT-0122](#fnd-cit-0122), [FND-CIT-0125](#fnd-cit-0125), [FND-CIT-0137](#fnd-cit-0137), [FND-CIT-0138](#fnd-cit-0138), [FND-CIT-0151](#fnd-cit-0151), [FND-CIT-0186](#fnd-cit-0186), [FND-CIT-0225](#fnd-cit-0225), [FND-CIT-0226](#fnd-cit-0226).
+- [01-eeg-emg-and-jerk-locked-back-averaging](../reference/diagnostic-signs/functional_jerks_and_myoclonus/01-eeg-emg-and-jerk-locked-back-averaging.md): [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0122](#fnd-cit-0122), [FND-CIT-0125](#fnd-cit-0125), [FND-CIT-0151](#fnd-cit-0151), [FND-CIT-0226](#fnd-cit-0226).
+- [technique-inventory](../reference/diagnostic-signs/functional_jerks_and_myoclonus/technique-inventory.md): [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0118](#fnd-cit-0118), [FND-CIT-0122](#fnd-cit-0122), [FND-CIT-0125](#fnd-cit-0125), [FND-CIT-0137](#fnd-cit-0137), [FND-CIT-0138](#fnd-cit-0138), [FND-CIT-0151](#fnd-cit-0151), [FND-CIT-0186](#fnd-cit-0186).
