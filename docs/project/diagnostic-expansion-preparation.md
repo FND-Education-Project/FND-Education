@@ -111,7 +111,7 @@ Shared concepts own recurring assessment-versus-life-impact explanations; sympto
 2. Draft shared foundations needed by the first symptom, with evidence checks and existing-course cross-links. Publish only complete pages, not placeholders.
 3. Prepare the weakness symptom revision and Hoover's page together so relocation leaves no gap. Keep a short Quick Reference at the top; use the structures in the linked authoring document.
 4. Compare old/new human passages, citations, image treatment and all sixteen inventory entries. Record every move, split or combination.
-5. Repair navigation, indexes, citation uses, `SITEMAP.md` and `sitemap.xml` together; check local files/anchors and rendered structure.
+5. Repair navigation, indexes, citation uses and `SITEMAP.md` together; then run the site preparation and validation pipeline so the machine-readable `sitemap.xml`, local links, anchors and rendered structure are checked from the final public route map.
 6. Open a reviewable pull request. Do not merge automatically. Continue subsequent techniques/symptoms in reviewable batches without a fixed page target.
 
 ## Completion boundary
