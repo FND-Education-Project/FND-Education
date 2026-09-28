@@ -16,6 +16,8 @@ Each symptom page now includes a **Diagnostic techniques at a glance** inventory
 
 ## In this folder
 
+- **[Functional Jerks or Myoclonus](03-functional-jerks-and-myoclonus.md)** — expanded overview and [EEG–EMG assessment](functional_jerks_and_myoclonus/01-eeg-emg-and-jerk-locked-back-averaging.md). All nine original entries remain in the [inventory](functional_jerks_and_myoclonus/technique-inventory.md).
+
 - **[Functional Tremor](02-functional-tremor.md)** — expanded overview, with separate [distractibility](functional_tremor/01-distractibility.md) and [entrainment](functional_tremor/02-entrainment.md) drafts. All twelve original entries remain in the [inventory](functional_tremor/technique-inventory.md).
 
 - **[Functional Tics and Tic-Like Symptoms](17-functional-tics-and-tic-like-symptoms.md)** — motor and vocal symptoms, assessment limits and individualized care.

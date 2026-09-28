@@ -38,7 +38,7 @@ Each page has a linked **Diagnostic techniques at a glance** section. These are 
 
 - [Functional limb weakness](01-functional-limb-weakness.md)
 - [Functional tremor](02-functional-tremor.md)
-- [Functional jerks or myoclonus](03-functional-jerks-and-myoclonus.md)
+- [Functional jerks or myoclonus](03-functional-jerks-and-myoclonus.md) — [EEG–EMG assessment](functional_jerks_and_myoclonus/01-eeg-emg-and-jerk-locked-back-averaging.md); [nine-entry inventory](functional_jerks_and_myoclonus/technique-inventory.md).
 - [Functional tics and tic-like symptoms — motor and vocal/phonic](17-functional-tics-and-tic-like-symptoms.md) (presentation 17; specialist pattern assessment)
 - [Functional dystonia or fixed posturing](04-functional-dystonia.md)
 - [Functional gait disorder](05-functional-gait-disorder.md)

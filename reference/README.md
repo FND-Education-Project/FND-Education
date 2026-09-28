@@ -49,6 +49,7 @@ A hand, arm, leg or another part of the body may shake rhythmically or irregular
 ## Functional Jerks / Myoclonus
 
 [Understanding & Diagnosis](diagnostic-signs/03-functional-jerks-and-myoclonus.md)<br>
+[EEG–EMG diagnostic assessment](diagnostic-signs/functional_jerks_and_myoclonus/01-eeg-emg-and-jerk-locked-back-averaging.md)<br>
 [Recovery Techniques](recovery-techniques/03-functional-jerks-and-myoclonus.md)
 
 A body part may make sudden, brief movements that feel involuntary. These jerks may happen occasionally, repeatedly or in bursts.
