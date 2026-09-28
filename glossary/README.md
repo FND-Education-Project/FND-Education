@@ -401,7 +401,7 @@ A tic involving a sound, which may be a non-word sound, a word or a phrase. “V
 
 ---
 
-# Terminology principles used by this project
+## Terminology principles used by this project
 
 - Prefer **Functional Neurological Disorder (FND)** as the umbrella term.
 - Prefer **functional seizures** in ordinary project language while recognizing the 2025 ILAE proposal **functional/dissociative seizures (FDS)** and the continued use of **dissociative seizures** in some settings.
@@ -412,7 +412,7 @@ A tic involving a sound, which may be a non-word sound, a word or a phrase. “V
 - Do not present attention, predictive processing, interoception, agency, network models, or other proposed mechanisms as settled causes.
 - Keep open the possibility of **coexisting neurological and medical disease**.
 
-# Main evidence sources
+## Main evidence sources
 
 This glossary uses the project’s stable citation index. The most relevant sources are:
 
