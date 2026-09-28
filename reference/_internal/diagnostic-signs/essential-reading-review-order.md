@@ -701,4 +701,509 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_jerks_
 - [ ] Later replication or conflicting evidence still needs an external literature check before calling the evidence trail complete.
 - [ ] Safety, differential diagnosis, coexistence and everyday-function claims checked separately from the positive sign itself.
 
-<!-- CONTINUE WITH SYMPTOMS 9–17 BELOW -->
+---
+
+## 9. Functional Speech and Voice Symptoms
+
+**Page to review:** [Functional Speech and Voice Symptoms](../../diagnostic-signs/09-functional-speech-and-voice-symptoms.md)
+
+### Read first — symptom-level evidence
+
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
+
+### Technique / inventory review order
+
+#### Automatic versus requested speech
+
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
+- [ ] Chung DS, Wettroth C, Hallett M, Maurer CW. Functional Speech and Voice Disorders: Case Series and Literature Review. *Movement disorders clinical practice*. 2018;5(3):312-316. [DOI](https://doi.org/10.1002/mdc3.12609). [PMID: 30800702](https://pubmed.ncbi.nlm.nih.gov/30800702/).
+
+#### Phonation during cough or laughter
+
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
+- [ ] Chung DS, Wettroth C, Hallett M, Maurer CW. Functional Speech and Voice Disorders: Case Series and Literature Review. *Movement disorders clinical practice*. 2018;5(3):312-316. [DOI](https://doi.org/10.1002/mdc3.12609). [PMID: 30800702](https://pubmed.ncbi.nlm.nih.gov/30800702/).
+
+#### Singing versus speech
+
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
+
+#### Distractibility and variability
+
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
+- [ ] Chung DS, Wettroth C, Hallett M, Maurer CW. Functional Speech and Voice Disorders: Case Series and Literature Review. *Movement disorders clinical practice*. 2018;5(3):312-316. [DOI](https://doi.org/10.1002/mdc3.12609). [PMID: 30800702](https://pubmed.ncbi.nlm.nih.gov/30800702/).
+
+#### Stuttering and prosody assessment
+
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
+- [ ] Chung DS, Wettroth C, Hallett M, Maurer CW. Functional Speech and Voice Disorders: Case Series and Literature Review. *Movement disorders clinical practice*. 2018;5(3):312-316. [DOI](https://doi.org/10.1002/mdc3.12609). [PMID: 30800702](https://pubmed.ncbi.nlm.nih.gov/30800702/).
+
+#### Articulation and language comparison
+
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
+
+#### Laryngoscopy and stroboscopy
+
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
+
+#### Immediate response to a speech or voice cue
+
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
+- [ ] Chung DS, Wettroth C, Hallett M, Maurer CW. Functional Speech and Voice Disorders: Case Series and Literature Review. *Movement disorders clinical practice*. 2018;5(3):312-316. [DOI](https://doi.org/10.1002/mdc3.12609). [PMID: 30800702](https://pubmed.ncbi.nlm.nih.gov/30800702/).
+
+### Review completion
+
+- [ ] Symptom-level claims checked.
+- [ ] Each technique claim checked against its attached source(s).
+- [ ] Population, comparator, methods and limitations checked where accuracy or specificity is discussed.
+- [ ] Later replication or conflicting evidence still needs an external literature check before calling the evidence trail complete.
+- [ ] Safety, differential diagnosis, coexistence and everyday-function claims checked separately from the positive sign itself.
+
+---
+
+## 10. Functional Swallowing Symptoms and Globus
+
+**Page to review:** [Functional Swallowing Symptoms and Globus](../../diagnostic-signs/10-functional-swallowing-and-globus.md)
+
+### Read first — symptom-level evidence
+
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
+
+### Technique / inventory review order
+
+#### Clinical swallowing assessment
+
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
+- [ ] American Speech-Language-Hearing Association. Adult Dysphagia. *Practice Portal*. [Source](https://www.asha.org/practice-portal/clinical-topics/adult-dysphagia/). Accessed September 19, 2026.
+
+#### Cross-task swallowing comparison
+
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
+
+#### FEES
+
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
+- [ ] American Speech-Language-Hearing Association. Adult Dysphagia. *Practice Portal*. [Source](https://www.asha.org/practice-portal/clinical-topics/adult-dysphagia/). Accessed September 19, 2026.
+
+#### Videofluoroscopic swallowing study
+
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
+- [ ] American Speech-Language-Hearing Association. Adult Dysphagia. *Practice Portal*. [Source](https://www.asha.org/practice-portal/clinical-topics/adult-dysphagia/). Accessed September 19, 2026.
+
+#### Rome criteria for functional dysphagia
+
+- [ ] Aziz Q, Fass R, Gyawali CP, et al. Functional Esophageal Disorders. *Gastroenterology*. 2016;:S0016-5085(16)00178-5. [DOI](https://doi.org/10.1053/j.gastro.2016.02.012). [PMID: 27144625](https://pubmed.ncbi.nlm.nih.gov/27144625/).
+
+#### Rome criteria for globus
+
+- [ ] Aziz Q, Fass R, Gyawali CP, et al. Functional Esophageal Disorders. *Gastroenterology*. 2016;:S0016-5085(16)00178-5. [DOI](https://doi.org/10.1053/j.gastro.2016.02.012). [PMID: 27144625](https://pubmed.ncbi.nlm.nih.gov/27144625/).
+
+#### Endoscopy, biopsy and oesophageal physiology
+
+- [ ] Aziz Q, Fass R, Gyawali CP, et al. Functional Esophageal Disorders. *Gastroenterology*. 2016;:S0016-5085(16)00178-5. [DOI](https://doi.org/10.1053/j.gastro.2016.02.012). [PMID: 27144625](https://pubmed.ncbi.nlm.nih.gov/27144625/).
+
+### Review completion
+
+- [ ] Symptom-level claims checked.
+- [ ] Each technique claim checked against its attached source(s).
+- [ ] Population, comparator, methods and limitations checked where accuracy or specificity is discussed.
+- [ ] Later replication or conflicting evidence still needs an external literature check before calling the evidence trail complete.
+- [ ] Safety, differential diagnosis, coexistence and everyday-function claims checked separately from the positive sign itself.
+
+---
+
+## 11. Functional Cough and Upper-Airway Symptoms
+
+**Page to review:** [Functional Cough and Upper-Airway Symptoms](../../diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md)
+
+### Read first — symptom-level evidence
+
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
+
+### Technique / inventory review order
+
+#### Tic-cough assessment
+
+- [ ] Vertigan AE, Murad MH, Pringsheim T, et al. Somatic Cough Syndrome (Previously Referred to as Psychogenic Cough) and Tic Cough (Previously Referred to as Habit Cough) in Adults and Children: CHEST Guideline and Expert Panel Report. *Chest*. 2015;148(1):24-31. [DOI](https://doi.org/10.1378/chest.15-0423). [PMID: 25856777](https://pubmed.ncbi.nlm.nih.gov/25856777/).
+
+#### Somatic cough syndrome criteria
+
+- [ ] Vertigan AE, Murad MH, Pringsheim T, et al. Somatic Cough Syndrome (Previously Referred to as Psychogenic Cough) and Tic Cough (Previously Referred to as Habit Cough) in Adults and Children: CHEST Guideline and Expert Panel Report. *Chest*. 2015;148(1):24-31. [DOI](https://doi.org/10.1378/chest.15-0423). [PMID: 25856777](https://pubmed.ncbi.nlm.nih.gov/25856777/).
+
+#### Cough sound and sleep pattern
+
+- [ ] Vertigan AE, Murad MH, Pringsheim T, et al. Somatic Cough Syndrome (Previously Referred to as Psychogenic Cough) and Tic Cough (Previously Referred to as Habit Cough) in Adults and Children: CHEST Guideline and Expert Panel Report. *Chest*. 2015;148(1):24-31. [DOI](https://doi.org/10.1378/chest.15-0423). [PMID: 25856777](https://pubmed.ncbi.nlm.nih.gov/25856777/).
+
+#### Task and attention comparisons
+
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
+- [ ] Vertigan AE, Murad MH, Pringsheim T, et al. Somatic Cough Syndrome (Previously Referred to as Psychogenic Cough) and Tic Cough (Previously Referred to as Habit Cough) in Adults and Children: CHEST Guideline and Expert Panel Report. *Chest*. 2015;148(1):24-31. [DOI](https://doi.org/10.1378/chest.15-0423). [PMID: 25856777](https://pubmed.ncbi.nlm.nih.gov/25856777/).
+
+#### Laryngoscopy during typical airway symptoms
+
+- [ ] Haines J, Esposito K, Slinger C, et al. UK consensus statement on the diagnosis of inducible laryngeal obstruction in light of the COVID-19 pandemic. *Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology*. 2020;50(12):1287-1293. [DOI](https://doi.org/10.1111/cea.13745). [PMID: 33034142](https://pubmed.ncbi.nlm.nih.gov/33034142/).
+
+#### Continuous laryngoscopy during exercise
+
+- [ ] Haines J, Esposito K, Slinger C, et al. UK consensus statement on the diagnosis of inducible laryngeal obstruction in light of the COVID-19 pandemic. *Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology*. 2020;50(12):1287-1293. [DOI](https://doi.org/10.1111/cea.13745). [PMID: 33034142](https://pubmed.ncbi.nlm.nih.gov/33034142/).
+
+#### Respiratory and other differential testing
+
+- [ ] Vertigan AE, Murad MH, Pringsheim T, et al. Somatic Cough Syndrome (Previously Referred to as Psychogenic Cough) and Tic Cough (Previously Referred to as Habit Cough) in Adults and Children: CHEST Guideline and Expert Panel Report. *Chest*. 2015;148(1):24-31. [DOI](https://doi.org/10.1378/chest.15-0423). [PMID: 25856777](https://pubmed.ncbi.nlm.nih.gov/25856777/).
+- [ ] Haines J, Esposito K, Slinger C, et al. UK consensus statement on the diagnosis of inducible laryngeal obstruction in light of the COVID-19 pandemic. *Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology*. 2020;50(12):1287-1293. [DOI](https://doi.org/10.1111/cea.13745). [PMID: 33034142](https://pubmed.ncbi.nlm.nih.gov/33034142/).
+
+### Review completion
+
+- [ ] Symptom-level claims checked.
+- [ ] Each technique claim checked against its attached source(s).
+- [ ] Population, comparator, methods and limitations checked where accuracy or specificity is discussed.
+- [ ] Later replication or conflicting evidence still needs an external literature check before calling the evidence trail complete.
+- [ ] Safety, differential diagnosis, coexistence and everyday-function claims checked separately from the positive sign itself.
+
+---
+
+## 12. Functional Cognitive Disorder
+
+**Page to review:** [Functional Cognitive Disorder](../../diagnostic-signs/12-functional-cognitive-disorder.md)
+
+### Read first — symptom-level evidence
+
+- [ ] McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. [https://doi.org/10.1017/S1092852921000845](https://doi.org/10.1017/S1092852921000845)
+- [ ] Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain : a journal of neurology*. 2020;143(10):2895-2903. [DOI](https://doi.org/10.1093/brain/awaa224). [PMID: 32791521](https://pubmed.ncbi.nlm.nih.gov/32791521/).
+
+### Technique / inventory review order
+
+#### Internal inconsistency
+
+- [ ] Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain : a journal of neurology*. 2020;143(10):2895-2903. [DOI](https://doi.org/10.1093/brain/awaa224). [PMID: 32791521](https://pubmed.ncbi.nlm.nih.gov/32791521/).
+
+#### Conversation versus formal performance
+
+- [ ] McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. [https://doi.org/10.1017/S1092852921000845](https://doi.org/10.1017/S1092852921000845)
+- [ ] Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain : a journal of neurology*. 2020;143(10):2895-2903. [DOI](https://doi.org/10.1093/brain/awaa224). [PMID: 32791521](https://pubmed.ncbi.nlm.nih.gov/32791521/).
+
+#### Everyday function and collateral history
+
+- [ ] McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. [https://doi.org/10.1017/S1092852921000845](https://doi.org/10.1017/S1092852921000845)
+- [ ] Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain : a journal of neurology*. 2020;143(10):2895-2903. [DOI](https://doi.org/10.1093/brain/awaa224). [PMID: 32791521](https://pubmed.ncbi.nlm.nih.gov/32791521/).
+
+#### Neuropsychological pattern
+
+- [ ] Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain : a journal of neurology*. 2020;143(10):2895-2903. [DOI](https://doi.org/10.1093/brain/awaa224). [PMID: 32791521](https://pubmed.ncbi.nlm.nih.gov/32791521/).
+- [ ] Ball HA, Swirski M, Newson M, et al. Differentiating Functional Cognitive Disorder from Early Neurodegeneration: A Clinic-Based Study. *Brain sciences*. 2021;11(6):800. [DOI](https://doi.org/10.3390/brainsci11060800). [PMID: 34204389](https://pubmed.ncbi.nlm.nih.gov/34204389/).
+
+#### Proposed diagnostic risk model
+
+- [ ] McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. [https://doi.org/10.1017/S1092852921000845](https://doi.org/10.1017/S1092852921000845)
+
+#### Functional cognitive disorder checklist
+
+- [ ] Cabreira V, Alty J, Antic S, et al. Development of a diagnostic checklist to identify functional cognitive disorder versus other neurocognitive disorders. *BMJ neurology open*. 2025;7(1):e000918. [DOI](https://doi.org/10.1136/bmjno-2024-000918). [PMID: 40034653](https://pubmed.ncbi.nlm.nih.gov/40034653/).
+
+#### Performance-validity testing
+
+- [ ] Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain : a journal of neurology*. 2020;143(10):2895-2903. [DOI](https://doi.org/10.1093/brain/awaa224). [PMID: 32791521](https://pubmed.ncbi.nlm.nih.gov/32791521/).
+- [ ] Ball HA, Swirski M, Newson M, et al. Differentiating Functional Cognitive Disorder from Early Neurodegeneration: A Clinic-Based Study. *Brain sciences*. 2021;11(6):800. [DOI](https://doi.org/10.3390/brainsci11060800). [PMID: 34204389](https://pubmed.ncbi.nlm.nih.gov/34204389/).
+
+#### Longitudinal assessment and investigations
+
+- [ ] Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain : a journal of neurology*. 2020;143(10):2895-2903. [DOI](https://doi.org/10.1093/brain/awaa224). [PMID: 32791521](https://pubmed.ncbi.nlm.nih.gov/32791521/).
+
+### Review completion
+
+- [ ] Symptom-level claims checked.
+- [ ] Each technique claim checked against its attached source(s).
+- [ ] Population, comparator, methods and limitations checked where accuracy or specificity is discussed.
+- [ ] Later replication or conflicting evidence still needs an external literature check before calling the evidence trail complete.
+- [ ] Safety, differential diagnosis, coexistence and everyday-function claims checked separately from the positive sign itself.
+
+---
+
+## 13. Persistent Postural-Perceptual Dizziness
+
+**Page to review:** [Persistent Postural-Perceptual Dizziness](../../diagnostic-signs/13-persistent-postural-perceptual-dizziness.md)
+
+### Read first — symptom-level evidence
+
+- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622)
+
+### Technique / inventory review order
+
+#### Criterion A: persistent dizziness pattern
+
+- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622)
+
+#### Criterion B: three exacerbating factors
+
+- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622)
+
+#### Criterion C: precipitating condition
+
+- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622)
+
+#### Criterion D: meaningful impact
+
+- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622)
+
+#### Criterion E: no better explanation
+
+- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622)
+
+#### Vestibular and positional examinations
+
+- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622)
+
+#### Orthostatic and neurological assessment
+
+- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622)
+
+#### Symptom questionnaires
+
+- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622)
+- [ ] Yagi C, Morita Y, Kitazawa M, et al. A Validated Questionnaire to Assess the Severity of Persistent Postural-Perceptual Dizziness (PPPD): The Niigata PPPD Questionnaire (NPQ). *Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology*. 2019;40(7):e747-e752. [DOI](https://doi.org/10.1097/mao.0000000000002325). [PMID: 31219964](https://pubmed.ncbi.nlm.nih.gov/31219964/).
+
+### Review completion
+
+- [ ] Symptom-level claims checked.
+- [ ] Each technique claim checked against its attached source(s).
+- [ ] Population, comparator, methods and limitations checked where accuracy or specificity is discussed.
+- [ ] Later replication or conflicting evidence still needs an external literature check before calling the evidence trail complete.
+- [ ] Safety, differential diagnosis, coexistence and everyday-function claims checked separately from the positive sign itself.
+
+---
+
+## 14. Functional Facial Symptoms — Spasm, Droop and Weakness
+
+**Page to review:** [Functional Facial Symptoms — Spasm, Droop and Weakness](../../diagnostic-signs/14-functional-facial-symptoms.md)
+
+### Read first — symptom-level evidence
+
+- [ ] Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. [https://doi.org/10.1002/mds.25190](https://doi.org/10.1002/mds.25190)
+- [ ] Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. [https://doi.org/10.3389/fneur.2020.00123](https://doi.org/10.3389/fneur.2020.00123)
+- [ ] Popkirov S, Stone J, Buchan AM. Functional neurological disorder: a common and treatable stroke mimic. *Stroke*. 2020;51(5):1629–1635. [https://doi.org/10.1161/STROKEAHA.120.029076](https://doi.org/10.1161/STROKEAHA.120.029076)
+- [ ] Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed September 1, 2026. [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/)
+
+### Technique / inventory review order
+
+#### Lower-lip pulling with jaw deviation
+
+- [ ] Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. [https://doi.org/10.1002/mds.25190](https://doi.org/10.1002/mds.25190)
+
+#### Platysma overactivity
+
+- [ ] Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. [https://doi.org/10.1002/mds.25190](https://doi.org/10.1002/mds.25190)
+- [ ] Horn D, Galli S, Berney A, et al. Testing Head Rotation and Flexion Is Useful in Functional Limb Weakness. *Movement disorders clinical practice*. 2017;4(4):597-602. [DOI](https://doi.org/10.1002/mdc3.12492). [PMID: 30363481](https://pubmed.ncbi.nlm.nih.gov/30363481/).
+
+#### Task inconsistency and distractibility
+
+- [ ] Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. [https://doi.org/10.1002/mds.25190](https://doi.org/10.1002/mds.25190)
+- [ ] Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. [https://doi.org/10.3389/fneur.2020.00123](https://doi.org/10.3389/fneur.2020.00123)
+
+#### Jaw, tongue and stomatognathic assessment
+
+- [ ] Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. [https://doi.org/10.3389/fneur.2020.00123](https://doi.org/10.3389/fneur.2020.00123)
+
+#### Hemifacial-spasm comparison
+
+- [ ] Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. [https://doi.org/10.1002/mds.25190](https://doi.org/10.1002/mds.25190)
+
+#### Blink-reflex recovery cycle
+
+- [ ] Schwingenschuh P, Katschnig P, Edwards MJ, et al. The blink reflex recovery cycle differs between essential and presumed psychogenic blepharospasm. *Neurology*. 2011;76(7):610-614. [DOI](https://doi.org/10.1212/wnl.0b013e31820c3074). [PMID: 21321334](https://pubmed.ncbi.nlm.nih.gov/21321334/).
+
+#### Facial strength, reflexes and targeted investigations
+
+- [ ] Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. [https://doi.org/10.1002/mds.25190](https://doi.org/10.1002/mds.25190)
+- [ ] Horn D, Galli S, Berney A, et al. Testing Head Rotation and Flexion Is Useful in Functional Limb Weakness. *Movement disorders clinical practice*. 2017;4(4):597-602. [DOI](https://doi.org/10.1002/mdc3.12492). [PMID: 30363481](https://pubmed.ncbi.nlm.nih.gov/30363481/).
+
+### Review completion
+
+- [ ] Symptom-level claims checked.
+- [ ] Each technique claim checked against its attached source(s).
+- [ ] Population, comparator, methods and limitations checked where accuracy or specificity is discussed.
+- [ ] Later replication or conflicting evidence still needs an external literature check before calling the evidence trail complete.
+- [ ] Safety, differential diagnosis, coexistence and everyday-function claims checked separately from the positive sign itself.
+
+---
+
+## 15. Functional Paralysis
+
+**Page to review:** [Functional Paralysis](../../diagnostic-signs/15-functional-paralysis.md)
+
+### Read first — symptom-level evidence
+
+- [ ] Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987)
+- [ ] McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. [https://doi.org/10.1016/j.jpsychores.2011.09.003](https://doi.org/10.1016/j.jpsychores.2011.09.003)
+- [ ] Tinazzi M, Simonetto S, Franco L, et al. Abduction finger sign: a new sign to detect unilateral functional paralysis of the upper limb. *Movement Disorders*. 2008;23(16):2415–2419. [https://doi.org/10.1002/mds.22268](https://doi.org/10.1002/mds.22268)
+- [ ] Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of Neurology, Neurosurgery & Psychiatry*. 2004;75(1):121–125. Historical terminology retained in the article title. [https://pmc.ncbi.nlm.nih.gov/articles/PMC1757483/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1757483/)
+
+### Technique / inventory review order
+
+#### Hoover’s sign in suitable unilateral paralysis
+
+- [ ] McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. [https://doi.org/10.1016/j.jpsychores.2011.09.003](https://doi.org/10.1016/j.jpsychores.2011.09.003)
+
+#### Hip-abductor sign
+
+- [ ] Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of Neurology, Neurosurgery & Psychiatry*. 2004;75(1):121–125. Historical terminology retained in the article title. [https://pmc.ncbi.nlm.nih.gov/articles/PMC1757483/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1757483/)
+
+#### Abduction-finger sign
+
+- [ ] Tinazzi M, Simonetto S, Franco L, et al. Abduction finger sign: a new sign to detect unilateral functional paralysis of the upper limb. *Movement Disorders*. 2008;23(16):2415–2419. [https://doi.org/10.1002/mds.22268](https://doi.org/10.1002/mds.22268)
+
+#### Spinal Injuries Center test
+
+- [ ] Yugué I, Shiba K, Ueta T, Iwamoto Y. A new clinical evaluation for hysterical paralysis. *Spine*. 2004;29(17):1910-3; discussion 1913. [DOI](https://doi.org/10.1097/01.brs.0000137055.55350.37). [PMID: 15534415](https://pubmed.ncbi.nlm.nih.gov/15534415/).
+
+#### Elbow flex-ex comparison
+
+- [ ] Lombardi TL, Barton E, Wang J, et al. The elbow flex-ex: a new sign to detect unilateral upper extremity non-organic paresis. *Journal of neurology, neurosurgery, and psychiatry*. 2014;85(2):165-167. [DOI](https://doi.org/10.1136/jnnp-2012-304314). [PMID: 23695497](https://pubmed.ncbi.nlm.nih.gov/23695497/).
+
+#### Preserved automatic or task-linked movement
+
+- [ ] Stone J, Warlow C, Sharpe M. The symptom of functional weakness: a controlled study of 107 patients. *Brain : a journal of neurology*. 2010;133(Pt 5):1537-1551. [DOI](https://doi.org/10.1093/brain/awq068). [PMID: 20395262](https://pubmed.ncbi.nlm.nih.gov/20395262/).
+- [ ] Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of bedside 'positive signs' for functional weakness, sensory and gait disorders in conversion disorder: a pilot study. *Journal of neurology, neurosurgery, and psychiatry*. 2015;86(4):425-430. [DOI](https://doi.org/10.1136/jnnp-2013-307381). [PMID: 24994927](https://pubmed.ncbi.nlm.nih.gov/24994927/).
+
+#### Tone, reflexes and plantar responses
+
+- [ ] Baker JH, Silver JR. Hysterical paraplegia. *Journal of neurology, neurosurgery, and psychiatry*. 1987;50(4):375-382. [DOI](https://doi.org/10.1136/jnnp.50.4.375). [PMID: 3585346](https://pubmed.ncbi.nlm.nih.gov/3585346/).
+
+#### Motor and sensory pathway investigations
+
+- [ ] Edwards MJ, Koens LH, Liepert J, et al. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical neurophysiology practice*. 2024;9:69-77. [DOI](https://doi.org/10.1016/j.cnp.2023.12.006). [PMID: 38352251](https://pubmed.ncbi.nlm.nih.gov/38352251/).
+
+#### Tests that require residual voluntary movement
+
+- [ ] Daum C, Aybek S. Validity of the "Drift without pronation" sign in conversion disorder. *BMC neurology*. 2013;13:31. [DOI](https://doi.org/10.1186/1471-2377-13-31). [PMID: 23548051](https://pubmed.ncbi.nlm.nih.gov/23548051/).
+- [ ] Sonoo M. Paradoxical wrist flexion: A new test to detect functional weakness of the upper limb. *eNeurologicalSci*. 2021;22:100302. [DOI](https://doi.org/10.1016/j.ensci.2020.100302). [PMID: 33344786](https://pubmed.ncbi.nlm.nih.gov/33344786/).
+
+### Review completion
+
+- [ ] Symptom-level claims checked.
+- [ ] Each technique claim checked against its attached source(s).
+- [ ] Population, comparator, methods and limitations checked where accuracy or specificity is discussed.
+- [ ] Later replication or conflicting evidence still needs an external literature check before calling the evidence trail complete.
+- [ ] Safety, differential diagnosis, coexistence and everyday-function claims checked separately from the positive sign itself.
+
+---
+
+## 16. Functional Drop Attacks
+
+**Page to review:** [Functional Drop Attacks](../../diagnostic-signs/16-functional-drop-attacks.md)
+
+### Read first — symptom-level evidence
+
+- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. [https://doi.org/10.1136/jnnp-2017-317396](https://doi.org/10.1136/jnnp-2017-317396)
+- [ ] Revell ER, Gillespie D, Morris PG, Stone J. Drop attacks as a subtype of FND: a cognitive behavioural model using grounded theory. *Epilepsy & Behavior Reports*. 2021;16:100491. [https://doi.org/10.1016/j.ebr.2021.100491](https://doi.org/10.1016/j.ebr.2021.100491)
+- [ ] Stone J. Functional drop attacks. *Neurosymptoms.org*. Accessed September 2, 2026. [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/)
+
+### Technique / inventory review order
+
+#### Structured event reconstruction
+
+- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. [https://doi.org/10.1136/jnnp-2017-317396](https://doi.org/10.1136/jnnp-2017-317396)
+
+#### Witness account or safe video
+
+- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. [https://doi.org/10.1136/jnnp-2017-317396](https://doi.org/10.1136/jnnp-2017-317396)
+
+#### Awareness and recovery profile
+
+- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. [https://doi.org/10.1136/jnnp-2017-317396](https://doi.org/10.1136/jnnp-2017-317396)
+
+#### Associated positive functional signs
+
+- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. [https://doi.org/10.1136/jnnp-2017-317396](https://doi.org/10.1136/jnnp-2017-317396)
+
+#### Cardiovascular and orthostatic assessment
+
+- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. [https://doi.org/10.1136/jnnp-2017-317396](https://doi.org/10.1136/jnnp-2017-317396)
+
+#### Epilepsy and sleep assessment
+
+- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. [https://doi.org/10.1136/jnnp-2017-317396](https://doi.org/10.1136/jnnp-2017-317396)
+
+#### Vestibular, gait and mechanical assessment
+
+- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. [https://doi.org/10.1136/jnnp-2017-317396](https://doi.org/10.1136/jnnp-2017-317396)
+
+### Review completion
+
+- [ ] Symptom-level claims checked.
+- [ ] Each technique claim checked against its attached source(s).
+- [ ] Population, comparator, methods and limitations checked where accuracy or specificity is discussed.
+- [ ] Later replication or conflicting evidence still needs an external literature check before calling the evidence trail complete.
+- [ ] Safety, differential diagnosis, coexistence and everyday-function claims checked separately from the positive sign itself.
+
+---
+
+## 17. Functional Tics and Tic-Like Symptoms
+
+**Page to review:** [Functional Tics and Tic-Like Symptoms](../../diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md)
+
+### Read first — symptom-level evidence
+
+- [ ] Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). Expert review; diagnostic formulation and individualized management. The review reported no controlled treatment studies specific to functional tic-like symptoms.
+- [ ] Szejko N, Robinson S, Hartmann A, et al. European clinical guidelines for Tourette syndrome and other tic disorders—version 2.0. Part I: assessment. *European Child & Adolescent Psychiatry*. 2022;31:383–402. [Source](https://doi.org/10.1007/s00787-021-01842-2). Primary tic-disorder assessment guideline; adjacent evidence for terminology and differential diagnosis, not functional-tic treatment evidence.
+- [ ] Pringsheim T, Ganos C, McGuire JF, et al. European Society for the Study of Tourette Syndrome 2022 criteria for clinical diagnosis of functional tic-like behaviours: international consensus from experts in tic disorders. *European Journal of Neurology*. 2023;30(4):902–910. [Source](https://doi.org/10.1111/ene.15672). Expert Delphi consensus. The publication explicitly states that prospective sensitivity and specificity testing was lacking; not a validated self-diagnostic checklist.
+- [ ] Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. [Source](https://doi.org/10.1002/mdc3.14150). Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms.
+
+### Technique / inventory review order
+
+#### Developmental and onset history
+
+- [ ] Pringsheim T, Ganos C, McGuire JF, et al. European Society for the Study of Tourette Syndrome 2022 criteria for clinical diagnosis of functional tic-like behaviours: international consensus from experts in tic disorders. *European Journal of Neurology*. 2023;30(4):902–910. [Source](https://doi.org/10.1111/ene.15672). Expert Delphi consensus. The publication explicitly states that prospective sensitivity and specificity testing was lacking; not a validated self-diagnostic checklist.
+- [ ] Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. [Source](https://doi.org/10.1002/mdc3.14150). Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms.
+
+#### Motor and vocal phenomenology
+
+- [ ] Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. [Source](https://doi.org/10.1002/mdc3.14150). Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms.
+- [ ] Pringsheim T, Ganos C, McGuire JF, et al. Rapid Onset Functional Tic-Like Behaviors in Young Females During the COVID-19 Pandemic. *Movement disorders : official journal of the Movement Disorder Society*. 2021;36(12):2707-2713. [DOI](https://doi.org/10.1002/mds.28778). [PMID: 34387394](https://pubmed.ncbi.nlm.nih.gov/34387394/).
+
+#### Context dependence and variability
+
+- [ ] Pringsheim T, Ganos C, McGuire JF, et al. European Society for the Study of Tourette Syndrome 2022 criteria for clinical diagnosis of functional tic-like behaviours: international consensus from experts in tic disorders. *European Journal of Neurology*. 2023;30(4):902–910. [Source](https://doi.org/10.1111/ene.15672). Expert Delphi consensus. The publication explicitly states that prospective sensitivity and specificity testing was lacking; not a validated self-diagnostic checklist.
+- [ ] Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. [Source](https://doi.org/10.1002/mdc3.14150). Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms.
+
+#### Suppressibility
+
+- [ ] Pringsheim T, Ganos C, McGuire JF, et al. European Society for the Study of Tourette Syndrome 2022 criteria for clinical diagnosis of functional tic-like behaviours: international consensus from experts in tic disorders. *European Journal of Neurology*. 2023;30(4):902–910. [Source](https://doi.org/10.1111/ene.15672). Expert Delphi consensus. The publication explicitly states that prospective sensitivity and specificity testing was lacking; not a validated self-diagnostic checklist.
+- [ ] Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. [Source](https://doi.org/10.1002/mdc3.14150). Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms.
+
+#### Premonitory sensations
+
+- [ ] Pringsheim T, Ganos C, McGuire JF, et al. European Society for the Study of Tourette Syndrome 2022 criteria for clinical diagnosis of functional tic-like behaviours: international consensus from experts in tic disorders. *European Journal of Neurology*. 2023;30(4):902–910. [Source](https://doi.org/10.1111/ene.15672). Expert Delphi consensus. The publication explicitly states that prospective sensitivity and specificity testing was lacking; not a validated self-diagnostic checklist.
+- [ ] Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. [Source](https://doi.org/10.1002/mdc3.14150). Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms.
+
+#### Suggestibility
+
+- [ ] Pringsheim T, Ganos C, McGuire JF, et al. European Society for the Study of Tourette Syndrome 2022 criteria for clinical diagnosis of functional tic-like behaviours: international consensus from experts in tic disorders. *European Journal of Neurology*. 2023;30(4):902–910. [Source](https://doi.org/10.1111/ene.15672). Expert Delphi consensus. The publication explicitly states that prospective sensitivity and specificity testing was lacking; not a validated self-diagnostic checklist.
+- [ ] Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. [Source](https://doi.org/10.1002/mdc3.14150). Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms.
+
+#### ESSTS consensus criteria
+
+- [ ] Pringsheim T, Ganos C, McGuire JF, et al. European Society for the Study of Tourette Syndrome 2022 criteria for clinical diagnosis of functional tic-like behaviours: international consensus from experts in tic disorders. *European Journal of Neurology*. 2023;30(4):902–910. [Source](https://doi.org/10.1111/ene.15672). Expert Delphi consensus. The publication explicitly states that prospective sensitivity and specificity testing was lacking; not a validated self-diagnostic checklist.
+- [ ] Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. [Source](https://doi.org/10.1002/mdc3.14150). Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms.
+
+#### Longitudinal reassessment
+
+- [ ] Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. [Source](https://doi.org/10.1002/mdc3.14150). Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms.
+- [ ] Cavanna AE, Caimi V, Capriolo E, et al. Neurodevelopmental Tics with Co-Morbid Functional Tic-like Behaviors: Diagnostic Challenges of a Complex Tourette Syndrome Phenotype. *Brain sciences*. 2025;15(5):435. [DOI](https://doi.org/10.3390/brainsci15050435). [PMID: 40426606](https://pubmed.ncbi.nlm.nih.gov/40426606/).
+
+#### Neurophysiology and other investigations
+
+- [ ] van der Salm SM, Tijssen MA, Koelman JH, van Rootselaar AF. The bereitschaftspotential in jerky movement disorders. *Journal of neurology, neurosurgery, and psychiatry*. 2012;83(12):1162-1167. [DOI](https://doi.org/10.1136/jnnp-2012-303081). [PMID: 22952323](https://pubmed.ncbi.nlm.nih.gov/22952323/).
+- [ ] Edwards MJ, Koens LH, Liepert J, et al. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical neurophysiology practice*. 2024;9:69-77. [DOI](https://doi.org/10.1016/j.cnp.2023.12.006). [PMID: 38352251](https://pubmed.ncbi.nlm.nih.gov/38352251/).
+
+### Review completion
+
+- [ ] Symptom-level claims checked.
+- [ ] Each technique claim checked against its attached source(s).
+- [ ] Population, comparator, methods and limitations checked where accuracy or specificity is discussed.
+- [ ] Later replication or conflicting evidence still needs an external literature check before calling the evidence trail complete.
+- [ ] Safety, differential diagnosis, coexistence and everyday-function claims checked separately from the positive sign itself.
+
+---
+
+## What this guide does not establish
+
+This list tells the reviewer **which papers the current diagnostic pages rely on and the order in which to read them**. It does not prove that the present source set is complete. A final evidence review for an individual technique should still ask whether newer validation studies, replications, systematic reviews, guideline updates or contradictory findings exist beyond the papers currently cited here.
