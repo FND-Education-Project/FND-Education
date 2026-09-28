@@ -23,7 +23,7 @@ For a step-by-step introduction to FND, including how current research helps us 
 [More Reference Topics](#more-fnd-reference-topics)
 ***
 
-# Find an FND Symptom
+## Find an FND Symptom
 
 ## Functional Limb Weakness
 
@@ -148,7 +148,7 @@ Part of the face may pull, tighten, spasm, droop or feel difficult to control. T
 [More Reference Topics](#more-fnd-reference-topics)
 ***
 
-# Common Symptoms and Conditions That Occur Alongside FND
+## Common Symptoms and Conditions That Occur Alongside FND
 
 - [Migraine](co-occurring-conditions/01-migraine.md) and [Chronic Headache](co-occurring-conditions/02-persistent-headache.md)
 - [Tinnitus](co-occurring-conditions/03-tinnitus.md)
@@ -167,7 +167,7 @@ Part of the face may pull, tighten, spasm, droop or feel difficult to control. T
 [More Reference Topics](#more-fnd-reference-topics)
 ***
 
-# Understanding FND
+## Understanding FND
 
 FND involves changes in how the brain and nervous system organize and control important functions.
 
@@ -230,7 +230,7 @@ For a more structured explanation beginning with the basic concepts and building
 [More Reference Topics](#more-fnd-reference-topics)
 ***
 
-# More FND Reference Topics
+## More FND Reference Topics
 
 ## Positive Diagnosis of FND
 
