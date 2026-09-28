@@ -46,6 +46,11 @@ class LinkCollector(HTMLParser):
         self.ids: list[str] = []
         self.previous_links: list[str] = []
         self.next_links: list[str] = []
+        self.html_lang: str | None = None
+        self.main_count = 0
+        self.h1_count = 0
+        self.images_without_alt = 0
+        self.canonical_links: list[str] = []
 
     def handle_starttag(
         self,
@@ -58,11 +63,35 @@ class LinkCollector(HTMLParser):
             if value is not None
         }
 
+        lowered_tag = tag.lower()
+
+        if lowered_tag == "html":
+            self.html_lang = attributes.get("lang")
+
+        if lowered_tag == "main":
+            self.main_count += 1
+
+        if lowered_tag == "h1":
+            self.h1_count += 1
+
+        if lowered_tag == "img" and "alt" not in attributes:
+            self.images_without_alt += 1
+
+        if lowered_tag == "link":
+            relations = {
+                item.strip().lower()
+                for item in attributes.get("rel", "").split()
+                if item.strip()
+            }
+            canonical_href = attributes.get("href")
+            if canonical_href and "canonical" in relations:
+                self.canonical_links.append(canonical_href)
+
         element_id = attributes.get("id")
         if element_id:
             self.ids.append(element_id)
 
-        if tag.lower() == "a":
+        if lowered_tag == "a":
             legacy_name = attributes.get("name")
             if legacy_name:
                 self.ids.append(legacy_name)
@@ -621,6 +650,107 @@ def audit_fragment_links(
                 )
 
 
+def audit_document_shell(
+    current_route: str,
+    text: str,
+    parser: LinkCollector,
+    baseurl: str,
+    errors: list[str],
+) -> None:
+    """Audit the common rendered shell, accessibility basics and site nav."""
+    if parser.html_lang != "en":
+        errors.append(
+            f"Missing or unexpected html lang on {current_route}: "
+            f"{parser.html_lang!r}"
+        )
+
+    if parser.main_count != 1:
+        errors.append(
+            f"Expected one <main> on {current_route}; "
+            f"found {parser.main_count}"
+        )
+
+    if parser.h1_count != 1:
+        errors.append(
+            f"Expected one <h1> on {current_route}; "
+            f"found {parser.h1_count}"
+        )
+
+    if parser.images_without_alt:
+        errors.append(
+            f"Images without alt attributes on {current_route}: "
+            f"{parser.images_without_alt}"
+        )
+
+    if len(parser.canonical_links) != 1:
+        errors.append(
+            f"Expected one canonical URL on {current_route}; "
+            f"found {len(parser.canonical_links)}"
+        )
+    else:
+        origin = prepare_site.public_origin_with_base().rstrip("/")
+        expected_canonical = (
+            origin + "/"
+            if current_route == "/"
+            else origin + current_route
+        )
+        if parser.canonical_links[0] != expected_canonical:
+            errors.append(
+                f"Canonical URL mismatch on {current_route}: "
+                f"expected {expected_canonical}, "
+                f"found {parser.canonical_links[0]}"
+            )
+
+    nav_blocks = re.findall(
+        r'<nav class="site-nav(?: site-nav-bottom)?" '
+        r'aria-label="Main navigation">(.*?)</nav>',
+        text,
+        re.DOTALL,
+    )
+
+    if len(nav_blocks) != 2:
+        errors.append(
+            f"Expected top and bottom main navigation on {current_route}; "
+            f"found {len(nav_blocks)}"
+        )
+    else:
+        for index, block in enumerate(nav_blocks, start=1):
+            if 'href="/contact/"' not in block:
+                errors.append(
+                    f"Contact missing from main navigation {index} "
+                    f"on {current_route}"
+                )
+
+    footer = re.search(
+        r'<footer class="site-footer">(.*?)</footer>',
+        text,
+        re.DOTALL,
+    )
+    if footer is None:
+        errors.append(f"Missing site footer on {current_route}")
+        return
+
+    footer_html = footer.group(1)
+    sitemap_pos = footer_html.find('href="/sitemap/"')
+    contact_pos = footer_html.find('href="/contact/"')
+    project_pos = footer_html.find("footer-project-name")
+
+    if sitemap_pos < 0 or contact_pos < 0:
+        errors.append(
+            f"Footer Sitemap/Contact links missing on {current_route}"
+        )
+
+    if (
+        sitemap_pos >= 0
+        and contact_pos >= 0
+        and project_pos >= 0
+        and max(sitemap_pos, contact_pos) > project_pos
+    ):
+        errors.append(
+            f"Footer links must precede project name on {current_route}"
+        )
+
+
 def check_built_site(
     site_root: Path,
     baseurl: str,
@@ -680,6 +810,13 @@ def check_built_site(
             )
 
         if current_route in routes:
+            audit_document_shell(
+                current_route=current_route,
+                text=text,
+                parser=parser,
+                baseurl=baseurl,
+                errors=errors,
+            )
             audit_page_navigation(
                 current_route=current_route,
                 parser=parser,
