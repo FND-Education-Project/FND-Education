@@ -35,6 +35,10 @@ FIXED_ROUTES = {
 
 VERIFICATION_FILE = "google65d5cac3c1021024.html"
 
+LEGACY_PAGES_ORIGIN = (
+    "https://fnd-education-project.github.io/FND-Education"
+)
+
 
 class LinkCollector(HTMLParser):
     """Collect rendered links, fragment targets and navigation relations."""
@@ -318,6 +322,12 @@ def check_generated_source(errors: list[str]) -> tuple[int, int, int]:
             if "reference/_internal/" in text or "/_internal/" in text:
                 errors.append(
                     "Internal Reference path leaked into generated site: "
+                    + str(path.relative_to(ROOT))
+                )
+
+            if LEGACY_PAGES_ORIGIN in text:
+                errors.append(
+                    "Legacy GitHub Pages URL leaked into generated site: "
                     + str(path.relative_to(ROOT))
                 )
 
@@ -806,6 +816,12 @@ def check_built_site(
         if "reference/_internal/" in text or "/_internal/" in text:
             errors.append(
                 "Internal Reference path leaked into built HTML: "
+                + str(html_file.relative_to(site_root))
+            )
+
+        if LEGACY_PAGES_ORIGIN in text:
+            errors.append(
+                "Legacy GitHub Pages URL leaked into built HTML: "
                 + str(html_file.relative_to(site_root))
             )
 
