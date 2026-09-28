@@ -94,7 +94,7 @@ Baker et al. is professional consensus, not controlled proof that this individua
 | <a id="citation-2"></a>**[2]** | American Speech-Language-Hearing Association. Adult Dysphagia. *Practice Portal*. Accessed September 18, 2026. [FND-CIT-0115](../../../research/citation-index.md#fnd-cit-0115). [Source](https://www.asha.org/practice-portal/clinical-topics/adult-dysphagia/) |
 | <a id="citation-3"></a>**[3]** | Miles A, Baker J, Barker-Collo S, Leadley S. Functional dysphagia: Developing a framework for assessment and treatment. *International Journal of Speech-Language Pathology*. 2026;28:155–170. Published online March 11, 2025. [FND-CIT-0116](../../../research/citation-index.md#fnd-cit-0116). [Source](https://doi.org/10.1080/17549507.2025.2473071) |
 
-**Lived experience:** Existing accounts and gaps are recorded in the [swallowing source notebook](../community-experience-quotes.md#functional-swallowing-symptoms-and-globus). No new quotation is presented as verified technique evidence.
+**Lived experience:** Existing accounts and gaps are recorded in the [swallowing source notebook](../../_internal/recovery-techniques/community-experience-quotes.md#functional-swallowing-symptoms-and-globus). No new quotation is presented as verified technique evidence.
 
 *Source review: September 18, 2026 · Human and clinical review pending.*
 

@@ -8,6 +8,13 @@
 
 Vision may blur, narrow, double, darken or feel unreliable. Light and busy scenes may become painful or overwhelming. Functional visual symptoms are one possible diagnosis; eye, migraine and neurological causes still matter. (*citations* [1](#citation-1), [2](#citation-2))
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 
 ### Definition

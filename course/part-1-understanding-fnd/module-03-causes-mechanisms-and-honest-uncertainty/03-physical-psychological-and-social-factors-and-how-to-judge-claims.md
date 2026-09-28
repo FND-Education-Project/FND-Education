@@ -8,6 +8,13 @@
 
 Physical health, thoughts and emotions, relationships, healthcare and living conditions can all affect a person's life with FND. This does not mean that every category caused the disorder, that each category matters equally, or that a factor found in research must apply to you. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4), [6](#citation-6))
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 
 ### What does “biopsychosocial” mean here?

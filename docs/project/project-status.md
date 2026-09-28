@@ -12,6 +12,10 @@ The repository contains all 97 course pages: 23 module overviews and 74 focused 
 
 ## Completed foundation work
 
+- Expanded the next diagnostic symptom, functional tremor, on September 27, 2026: one revised symptom overview, two detailed diagnostic comparisons (distractibility and entrainment), and the preserved twelve-entry inventory. Added sources FND-CIT-0220–0224, including the 2026 evidence synthesis. See the [implementation and review record](functional-tremor-diagnostic-expansion.md). No new symptom category or recovery technique was added; all branches remain for review.
+
+- Began the first diagnostic expansion on September 26, 2026: revised functional limb weakness, one detailed Hoover’s-sign draft, three shared explanations, and a preserved sixteen-entry inventory. See the [implementation and review record](functional-weakness-diagnostic-expansion.md). Clinical review and primary-study full-text review remain pending; reference publishing is a separate Pages migration step.
+
 - Expanded functional facial symptoms on September 22, 2026: ten original entries map one-to-one to ten pages, plus one navigation overview. Corrected the earlier audit count of eight against the initial, common-baseline and pre-expansion commits. Added adjacent safety sources FND-CIT-0197–0198. Restored full, vertically stacked audience menus in FCD and PPPD to the Module 1, page 1 format, repaired the FCD research link and retained legacy anchors. Clinical, lived-experience and accessibility review remains pending.
 
 - Expanded functional swallowing and globus on September 18, 2026: eleven original entries map one-to-one to eleven detailed pages. Corrected the earlier history audit’s count of ten using both original and baseline commits. Added ASHA safety guidance and a six-client expert framework (FND-CIT-0115–0116), with explicit aspiration, nutrition, texture, posture and medication limits. Human and specialist review remains pending.
@@ -111,3 +115,5 @@ Module 1 remains the wording and structure model for later human edits:
 <!-- NAV-CONTEXT:END -->
 
 FCD framework alignment, September 21, 2026: added a separate background page and conceptual SVG; grouped the original thirteen recovery entries; broadened Module 10, diagnostic scope and support examples; bounded the motor-FND/dissociation MRI evidence in Module 3 and the dissociation lesson. Added FND-CIT-0190–0191. Applied only the authorized brain-research accuracy edit within the human-authored Module 1 lesson. No Module 11 disease explanations were changed. Clinical, lived-experience and accessibility review remains pending.
+
+**September 28 diagnostic update:** [Functional jerks expansion](functional-jerks-diagnostic-expansion.md) adds the symptom overview, a separate EEG–EMG assessment and the preserved nine-entry inventory. Human/clinical review and remaining individual technique expansions are pending.

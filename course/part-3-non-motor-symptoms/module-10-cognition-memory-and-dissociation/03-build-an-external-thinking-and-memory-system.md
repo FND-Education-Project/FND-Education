@@ -8,6 +8,13 @@
 
 A support system moves some thinking work out of your head and into your surroundings. It can help whether the cause is FCD, fatigue, migraine, pain, poor sleep or a mixture.
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 
 ### Definition

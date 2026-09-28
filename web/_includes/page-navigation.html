@@ -1,0 +1,23 @@
+{% if page.previous_page_url or page.next_page_url %}
+<nav class="page-navigation" aria-label="Previous and next page navigation">
+
+  <div class="page-navigation-slot page-navigation-previous">
+    {% if page.previous_page_url %}
+      <a href="{{ page.previous_page_url | relative_url }}" rel="prev">
+        <span class="page-navigation-label">← Previous page</span>
+        <span class="page-navigation-title">{{ page.previous_page_title | escape }}</span>
+      </a>
+    {% endif %}
+  </div>
+
+  <div class="page-navigation-slot page-navigation-next">
+    {% if page.next_page_url %}
+      <a href="{{ page.next_page_url | relative_url }}" rel="next">
+        <span class="page-navigation-label">Next page →</span>
+        <span class="page-navigation-title">{{ page.next_page_title | escape }}</span>
+      </a>
+    {% endif %}
+  </div>
+
+</nav>
+{% endif %}

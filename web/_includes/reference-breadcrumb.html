@@ -1,0 +1,108 @@
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <a href="{{ '/' | relative_url }}">Home</a>
+  <span aria-hidden="true">›</span>
+
+  {% if page.page_kind == "reference-home" %}
+    <span>Reference</span>
+  {% else %}
+    <a href="{{ '/reference/' | relative_url }}">Reference</a>
+
+    {% if page.reference_section == "diagnosis" %}
+      <span aria-hidden="true">›</span>
+
+      {% if page.page_kind == "diagnostic-home" %}
+        <span>Diagnosis</span>
+      {% else %}
+        <a href="{{ '/reference/diagnosis/' | relative_url }}">Diagnosis</a>
+
+        {% if page.page_kind == "diagnostic-concepts-home" %}
+          <span aria-hidden="true">›</span>
+          <span>Understanding Diagnosis</span>
+
+        {% elsif page.page_kind == "diagnostic-concept" %}
+          <span aria-hidden="true">›</span>
+          <a href="{{ '/reference/diagnosis/concepts/' | relative_url }}">Understanding Diagnosis</a>
+          <span aria-hidden="true">›</span>
+          <span>{{ page.title | escape }}</span>
+
+        {% elsif page.symptom_slug %}
+          <span aria-hidden="true">›</span>
+
+          {% if page.page_kind == "diagnostic-overview" %}
+            <span>{{ page.symptom_label | escape }}</span>
+          {% else %}
+            {% capture diagnosis_url %}/reference/{{ page.symptom_slug }}/diagnosis/{% endcapture %}
+            <a href="{{ diagnosis_url | relative_url }}">{{ page.symptom_label | escape }}</a>
+            <span aria-hidden="true">›</span>
+
+            {% if page.page_kind == "diagnostic-inventory" %}
+              <span>Technique Inventory</span>
+            {% elsif page.page_kind == "diagnostic-techniques-home" %}
+              <span>Techniques</span>
+            {% else %}
+              <span>{{ page.title | escape }}</span>
+            {% endif %}
+          {% endif %}
+
+        {% elsif page.page_kind != "diagnostic-index" %}
+          <span aria-hidden="true">›</span>
+          <span>{{ page.title | escape }}</span>
+        {% endif %}
+
+        {% if page.page_kind == "diagnostic-index" %}
+          <span aria-hidden="true">›</span>
+          <span>Index</span>
+        {% endif %}
+      {% endif %}
+
+    {% elsif page.reference_section == "recovery" %}
+      <span aria-hidden="true">›</span>
+
+      {% if page.page_kind == "recovery-home" %}
+        <span>Recovery</span>
+      {% else %}
+        <a href="{{ '/reference/recovery/' | relative_url }}">Recovery</a>
+
+        {% if page.symptom_slug %}
+          <span aria-hidden="true">›</span>
+
+          {% if page.page_kind == "recovery-overview" %}
+            <span>{{ page.symptom_label | escape }}</span>
+          {% else %}
+            {% capture recovery_url %}/reference/{{ page.symptom_slug }}/recovery/{% endcapture %}
+            <a href="{{ recovery_url | relative_url }}">{{ page.symptom_label | escape }}</a>
+            <span aria-hidden="true">›</span>
+
+            {% if page.page_kind == "recovery-techniques-home" %}
+              <span>Techniques</span>
+            {% else %}
+              <span>{{ page.title | escape }}</span>
+            {% endif %}
+          {% endif %}
+
+        {% elsif page.page_kind == "recovery-index" %}
+          <span aria-hidden="true">›</span>
+          <span>Technique Index</span>
+        {% elsif page.page_kind == "recovery-guide" %}
+          <span aria-hidden="true">›</span>
+          <span>Guide</span>
+        {% endif %}
+      {% endif %}
+
+    {% elsif page.reference_section == "co-occurring" %}
+      <span aria-hidden="true">›</span>
+
+      {% if page.page_kind == "co-occurring-home" %}
+        <span>Co-occurring Conditions</span>
+      {% else %}
+        <a href="{{ '/reference/co-occurring/' | relative_url }}">Co-occurring Conditions</a>
+        <span aria-hidden="true">›</span>
+        <span>{{ page.title | escape }}</span>
+      {% endif %}
+
+    {% else %}
+      <span aria-hidden="true">›</span>
+      <span>{{ page.title | escape }}</span>
+    {% endif %}
+  {% endif %}
+</nav>

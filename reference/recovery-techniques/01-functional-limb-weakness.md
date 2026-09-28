@@ -95,6 +95,18 @@ Weakness is new, rapidly changing, follows injury, or comes with new facial droo
 
 Help with safety first and bring the person’s usual aid or stable seat. Reduce relevant demands and use **one** agreed movement cue if they want it; avoid a stream of corrections or repeated strength checks. Once the episode settles, help the person return to the planned activity in smaller steps if needed. If this episode is different from the established pattern, treat that as new information rather than assuming the usual recovery technique applies.
 
+
+### Episodic weakness and supporter cues
+
+When the symptom is episodic, give the patient a brief onset plan that starts with safety and uses a rehabilitation cue already demonstrated between episodes.
+
+If familiar weakness begins suddenly, make the immediate situation safe first: stop driving, walking without adequate support, carrying something dangerous or using machinery; sit or lie down if needed; use the aid or safety plan already recommended; then use any rehabilitation cue that has been practised for this situation.
+
+Talk with the person about what recovery, participation and support mean to them. During a difficult day, pain, fatigue, another symptom or ordinary life demands may make formal practice too much. The useful goal may be rest, protection from a fall and a later return to the plan. During a more stable period, the goal may be repeated practice of a meaningful task. Neither situation is evidence of weak motivation.
+
+Use **one** agreed movement cue if the person wants it; avoid a stream of corrections or repeated strength checks. Once the episode settles, help the person return to the interrupted activity in smaller steps if appropriate. If this episode is different from the established pattern, treat that as new information rather than assuming the usual technique applies.
+
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -129,7 +141,7 @@ Coordinate physiotherapy with occupational therapy, psychological care and medic
 
 Specialist consensus provides the most detailed movement-retraining instructions (**FND-CIT-0028**). The large Physio4FMD trial did not show a clear advantage for specialist physiotherapy on its primary 12-month physical-function outcome, although several secondary and patient-rated outcomes favoured the specialist programme; both pathways were generally safe and valued (**FND-CIT-0029**). A smaller trial found improvement from combined specialized physiotherapy and CBT, but its size and single-centre design limit certainty (**FND-CIT-0030**).
 
-This means there is research support for structured FND rehabilitation as a package, but not proof that every exercise listed above works independently. Community accounts are kept in the separate [community quotation review notebook](community-experience-quotes.md) and are not treated as clinical evidence.
+This means there is research support for structured FND rehabilitation as a package, but not proof that every exercise listed above works independently. Community accounts are kept in the separate [community quotation review notebook](../_internal/recovery-techniques/community-experience-quotes.md) and are not treated as clinical evidence.
 
 ### Sources
 

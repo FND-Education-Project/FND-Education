@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<article class="course-page reading-column home-page">
+
+  <header class="page-heading">
+    <p class="page-context">FND EDUCATION PROJECT</p>
+    <h1>{{ page.title | escape }}</h1>
+
+    {% if page.description %}
+      <p class="page-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
+
+  <div class="course-content">
+
+    <nav class="home-grid" aria-label="Start here">
+      <a class="home-card" href="{{ '/course/' | relative_url }}">
+        <span class="home-card-label">COURSE</span>
+        <strong>Learn about FND</strong>
+        <span>Follow the step-by-step course from understanding FND through diagnosis, symptoms, safety, rehabilitation, and daily life.</span>
+      </a>
+
+      <a class="home-card" href="{{ '/reference/' | relative_url }}">
+        <span class="home-card-label">REFERENCE</span>
+        <strong>Find a symptom</strong>
+        <span>Look up diagnosis information, diagnostic techniques, recovery approaches, and common co-occurring symptoms and conditions.</span>
+      </a>
+
+      <a class="home-card" href="{{ '/contact/' | relative_url }}">
+        <span class="home-card-label">CONTRIBUTE</span>
+        <strong>Help build the project</strong>
+        <span>Contribute, review material, suggest improvements, or help with research, accessibility, writing, or artwork.</span>
+      </a>
+    </nav>
+
+    {{ content }}
+  </div>
+
+</article>

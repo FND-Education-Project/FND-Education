@@ -27,6 +27,13 @@ The word 'functional' tells us that the way the nervous system transmits informa
 > - *Functional Movement Disorder (FMD) (a subtype)*
 > However, Conversion Disorder and PNES are going out of use. Also, the term 'pseudoseizures' is offensive to many sufferers. (*citations* [2](#citation-2), [4](#citation-4), [9](#citation-9))
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 
 If you have been recently diagnosed, you might be wondering if your symptoms are even FND or not. Likely, tests were done to determine you didn't have some other medical issue or a psychological issue. It's also very likely that you didn't undergo any tests to *prove* you do have Functional Neurological Disorder. The reason is that education about FND is limited and many doctors have not been taught what to do when they encounter someone who displays all these 'bizarre' symptoms. (*citations* [1](#citation-1)) 

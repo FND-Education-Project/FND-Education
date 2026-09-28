@@ -8,6 +8,13 @@
 
 When symptoms, diagnoses, possible triggers, medications and unanswered questions are held in memory as one large list, it can be difficult to know what is established and what still needs attention. A personal symptom map separates these parts without asking you to diagnose them yourself. (*citations* [1](#citation-1), [3](#citation-3), [6](#citation-6))
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 
 ### What is a personal symptom map?

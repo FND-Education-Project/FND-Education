@@ -8,6 +8,13 @@
 
 Functional sensory symptoms can include too little sensation, too much sensation or a sensation that feels changed. The experience is real even when routine tests do not show tissue damage. (*citations* [1](#citation-1))
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 
 ### Definition

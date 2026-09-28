@@ -1,0 +1,7 @@
+title: FND Education Project
+url: https://fndeducationproject.org
+baseurl: ""
+
+markdown: kramdown
+
+permalink: pretty

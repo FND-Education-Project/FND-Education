@@ -121,7 +121,7 @@ Use positive explanation, tension reduction, attention change and graded functio
 
 The component approaches are mainly professional consensus, not individually proven treatments. ASHA adds general adult dysphagia safety guidance. Miles et al. offers an expert framework with six illustrative clients; this is preliminary, uncontrolled evidence. Wang et al. reviews 29 trials across several functional esophageal disorders, with some support for globus medication but no convincing evidence for functional dysphagia. These populations and outcomes must not be silently treated as FND-specific treatment efficacy.
 
-The source check did not establish controlled efficacy for the individual functional-swallowing techniques. Existing community accounts remain in the [source notebook](community-experience-quotes.md#functional-swallowing-symptoms-and-globus); they do not establish safe textures, aspiration risk or treatment benefit.
+The source check did not establish controlled efficacy for the individual functional-swallowing techniques. Existing community accounts remain in the [source notebook](../_internal/recovery-techniques/community-experience-quotes.md#functional-swallowing-symptoms-and-globus); they do not establish safe textures, aspiration risk or treatment benefit.
 
 | Citation | Full citation |
 |---|---|

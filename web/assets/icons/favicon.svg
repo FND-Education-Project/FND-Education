@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+
+  <title>FND Education Project</title>
+
+  <rect width="64" height="64" rx="12" fill="#176b78"></rect>
+
+  <path d="
+      M19 14
+      H48
+      V23
+      H29
+      V30
+      H45
+      V39
+      H29
+      V51
+      H19
+      Z
+    " fill="#ffffff"></path>
+
+</svg>

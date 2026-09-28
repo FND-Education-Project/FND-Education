@@ -10,6 +10,8 @@ Different people can experience very different combinations of symptoms. FND is 
 
 This reference is designed for finding information quickly. If you already know the symptom you want to learn about, you can start below. Each symptom has one path for **understanding and diagnosis** and another for **recovery techniques**.
 
+For shared explanations of diagnosis, investigations and everyday function, see [Understanding an FND Diagnosis](diagnostic-concepts/README.md).
+
 For a step-by-step introduction to FND, including how current research helps us understand it, visit the [FND Course](../course/).
 
 ---
@@ -21,7 +23,7 @@ For a step-by-step introduction to FND, including how current research helps us 
 [More Reference Topics](#more-fnd-reference-topics)
 ***
 
-# Find an FND Symptom
+## Find an FND Symptom
 
 ## Functional Limb Weakness
 
@@ -39,7 +41,7 @@ A person may experience periods when voluntary movement of a limb or larger part
 
 ## Functional Tremor
 
-[Understanding & Diagnosis](diagnostic-signs/02-functional-tremor.md)<br>
+[Understanding & Diagnosis](diagnostic-signs/02-functional-tremor.md) — includes detailed distractibility and entrainment explanations.<br>
 [Recovery Techniques](recovery-techniques/02-functional-tremor.md)
 
 A hand, arm, leg or another part of the body may shake rhythmically or irregularly. The speed, strength or pattern of the shaking may change during different movements, tasks or situations.
@@ -47,6 +49,7 @@ A hand, arm, leg or another part of the body may shake rhythmically or irregular
 ## Functional Jerks / Myoclonus
 
 [Understanding & Diagnosis](diagnostic-signs/03-functional-jerks-and-myoclonus.md)<br>
+[EEG–EMG diagnostic assessment](diagnostic-signs/functional_jerks_and_myoclonus/01-eeg-emg-and-jerk-locked-back-averaging.md)<br>
 [Recovery Techniques](recovery-techniques/03-functional-jerks-and-myoclonus.md)
 
 A body part may make sudden, brief movements that feel involuntary. These jerks may happen occasionally, repeatedly or in bursts.
@@ -145,7 +148,7 @@ Part of the face may pull, tighten, spasm, droop or feel difficult to control. T
 [More Reference Topics](#more-fnd-reference-topics)
 ***
 
-# Common Symptoms and Conditions That Occur Alongside FND
+## Common Symptoms and Conditions That Occur Alongside FND
 
 - [Migraine](co-occurring-conditions/01-migraine.md) and [Chronic Headache](co-occurring-conditions/02-persistent-headache.md)
 - [Tinnitus](co-occurring-conditions/03-tinnitus.md)
@@ -164,7 +167,7 @@ Part of the face may pull, tighten, spasm, droop or feel difficult to control. T
 [More Reference Topics](#more-fnd-reference-topics)
 ***
 
-# Understanding FND
+## Understanding FND
 
 FND involves changes in how the brain and nervous system organize and control important functions.
 
@@ -227,7 +230,7 @@ For a more structured explanation beginning with the basic concepts and building
 [More Reference Topics](#more-fnd-reference-topics)
 ***
 
-# More FND Reference Topics
+## More FND Reference Topics
 
 ## Positive Diagnosis of FND
 

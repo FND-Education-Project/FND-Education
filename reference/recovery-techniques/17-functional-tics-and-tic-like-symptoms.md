@@ -101,7 +101,7 @@ Review medication indications and adverse effects with the prescriber. Avoid ass
 
 ### Community experience and review
 
-No new patient quotations have been verified for this page. Motor and vocal experiences, helpful and harmful care, adult perspectives and supporter accounts remain explicit gaps in the [source notebook](community-experience-quotes.md#functional-tics-and-tic-like-symptoms). A quote about jerks or facial spasms will not be silently reassigned as a functional-tic diagnosis.
+No new patient quotations have been verified for this page. Motor and vocal experiences, helpful and harmful care, adult perspectives and supporter accounts remain explicit gaps in the [source notebook](../_internal/recovery-techniques/community-experience-quotes.md#functional-tics-and-tic-like-symptoms). A quote about jerks or facial spasms will not be silently reassigned as a functional-tic diagnosis.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>

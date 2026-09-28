@@ -62,7 +62,7 @@ Older terms should be labelled historical, outdated, disputed, or potentially st
 - Symptom reference pages should link to their collection index, the corresponding diagnostic or recovery page, and the most directly related course page where one exists.
 - Deeper collections should use contextual links that reflect their real hierarchy rather than treating a numbered booklet or subdocument as a numbered symptom page.
 - Maintain the human-readable root [`SITEMAP.md`](../../SITEMAP.md) whenever a reader-facing page is added, moved, renamed, or removed. It should use collapsible nested sections so the whole project can be explored without displaying the entire hierarchy at once.
-- `SITEMAP.md` is the reader navigation map. A machine-readable `sitemap.xml`, when used for search engines, serves a different purpose and does not replace it.
+- `SITEMAP.md` is the reader navigation map. The machine-readable website `sitemap.xml` is generated from the final public route map by `tools/site/prepare_site.py`; do not hand-maintain a second root XML map.
 
 Use the [repository change and page maintenance policy](repository-change-and-page-maintenance-policy.md) as the operational checklist whenever a course or reference page is added, removed, renamed or moved.
 

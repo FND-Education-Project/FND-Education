@@ -1928,3 +1928,68 @@ Seven original-entry expansions, September 24, 2026. The qualitative model and o
 | [Getting Up Safely After an Uninjured Event](../reference/recovery-techniques/functional_drop_attacks/05-recovering-from-the-floor.md) | [FND-CIT-0059](#fnd-cit-0059); [FND-CIT-0216](#fnd-cit-0216); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0217](#fnd-cit-0217); [FND-CIT-0001](#fnd-cit-0001) |
 | [Returning to Activities With the Right Support](../reference/recovery-techniques/functional_drop_attacks/06-supported-return-to-activity.md) | [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0060](#fnd-cit-0060); [FND-CIT-0028](#fnd-cit-0028); [FND-CIT-0206](#fnd-cit-0206) |
 | [Keeping Other Conditions in the Care Plan](../reference/recovery-techniques/functional_drop_attacks/07-overlapping-conditions-and-review.md) | [FND-CIT-0059](#fnd-cit-0059); [FND-CIT-0061](#fnd-cit-0061); [FND-CIT-0216](#fnd-cit-0216); [FND-CIT-0011](#fnd-cit-0011); [FND-CIT-0108](#fnd-cit-0108); [FND-CIT-0001](#fnd-cit-0001) |
+
+## First diagnostic expansion: additional uses
+
+- [01-positive-diagnosis](../reference/diagnostic-concepts/01-positive-diagnosis.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0018](#fnd-cit-0018).
+- [03-tests-and-investigations](../reference/diagnostic-concepts/03-tests-and-investigations.md): [FND-CIT-0001](#fnd-cit-0001).
+- [10-assessment-and-everyday-function](../reference/diagnostic-concepts/10-assessment-and-everyday-function.md): [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0047](#fnd-cit-0047).
+- [01-hoovers-sign](../reference/diagnostic-signs/functional_limb_weakness/01-hoovers-sign.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0018](#fnd-cit-0018), [FND-CIT-0183](#fnd-cit-0183).
+- [technique-inventory](../reference/diagnostic-signs/functional_limb_weakness/technique-inventory.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0018](#fnd-cit-0018), [FND-CIT-0047](#fnd-cit-0047), [FND-CIT-0057](#fnd-cit-0057), [FND-CIT-0058](#fnd-cit-0058), [FND-CIT-0119](#fnd-cit-0119), [FND-CIT-0126](#fnd-cit-0126), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0131](#fnd-cit-0131), [FND-CIT-0134](#fnd-cit-0134), [FND-CIT-0150](#fnd-cit-0150), [FND-CIT-0152](#fnd-cit-0152), [FND-CIT-0153](#fnd-cit-0153), [FND-CIT-0155](#fnd-cit-0155), [FND-CIT-0162](#fnd-cit-0162), [FND-CIT-0166](#fnd-cit-0166), [FND-CIT-0183](#fnd-cit-0183), [FND-CIT-0185](#fnd-cit-0185).
+
+## Functional tremor diagnostic expansion — September 27, 2026
+
+## FND-CIT-0220
+
+Huys ACML, Haggard P, Bhatia KP, Edwards MJ. Misdirected attentional focus in functional tremor. *Brain*. 2021;144(11):3436–3450. [DOI](https://doi.org/10.1093/brain/awab230). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8677517/).
+
+Experimental movement/attention study; selected functional action-tremor participants, not a bedside diagnostic-accuracy validation. Supports attention-related models, not a universal cause or a guaranteed treatment.
+
+## FND-CIT-0221
+
+Gelauff JM, Rosmalen JGM, Gardien J, Stone J, Tijssen MAJ. Shared demographics and comorbidities in different functional motor disorders. *Parkinsonism & Related Disorders*. 2020;70:1–6. [DOI](https://doi.org/10.1016/j.parkreldis.2019.11.018). [Authors’ institutional full text](https://pure.rug.nl/ws/portalfiles/portal/123711333/Shared_demographics_and_comorbidities_in_different_functional_motor_disorders.pdf).
+
+Cross-sectional baseline analysis of a Dutch trial cohort: 160 classifiable dominant motor presentations, including 31 tremor. Supports assessment of function, quality of life and non-motor symptoms; selection and self-report limit generalization. No causal psychiatric conclusion.
+
+## FND-CIT-0222
+
+Murgai A, Iskhakova S. Entrainment characteristics of functional tremor. *Movement Disorders Clinical Practice*. 2025;12(2):253–254. Published online November 4, 2024. [DOI](https://doi.org/10.1002/mdc3.14258). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11802637/).
+
+Retrospective ten-patient kinematic series without a comparison group. Describes pure and mixed spectral patterns; does not establish specificity or resolve the mirror-movement differential.
+
+## FND-CIT-0223
+
+Bhatia KP, Bain P, Bajaj N, et al. Consensus Statement on the classification of tremors. From the task force on tremor of the International Parkinson and Movement Disorder Society. *Movement Disorders*. 2018;33(1):75–87. [DOI](https://doi.org/10.1002/mds.27121). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6530552/).
+
+Professional consensus classification: activation conditions, distribution, associated signs and possible causes. Not validation of one functional sign, and not a requirement for every listed investigation.
+
+## FND-CIT-0224
+
+Rujirussawarawong S, Ounmuang C, Aungsumart S, Kasemsuk C, Limotai N. Electrophysiology in distinguishing functional tremor from organic tremor: a systematic review and meta-analysis of diagnostic accuracy. *Movement Disorders Clinical Practice*. Published online June 11, 2026. [DOI](https://doi.org/10.1002/mdc3.70707). [PubMed](https://pubmed.ncbi.nlm.nih.gov/42281242/).
+
+Abstract-level review on September 27, 2026; full main text not retrieved. Ten studies, 37 test evaluations, 14 test subgroups; heterogeneous protocols and accuracy. Do not apply pooled estimates to one bedside sign. Full-text risk-of-bias and subgroup review remain pending.
+
+### Current uses in the tremor diagnostic expansion
+
+- [02-functional-tremor](../reference/diagnostic-signs/02-functional-tremor.md): [FND-CIT-0002](#fnd-cit-0002), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0019](#fnd-cit-0019), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0108](#fnd-cit-0108), [FND-CIT-0121](#fnd-cit-0121), [FND-CIT-0128](#fnd-cit-0128), [FND-CIT-0135](#fnd-cit-0135), [FND-CIT-0154](#fnd-cit-0154), [FND-CIT-0170](#fnd-cit-0170), [FND-CIT-0175](#fnd-cit-0175), [FND-CIT-0176](#fnd-cit-0176), [FND-CIT-0177](#fnd-cit-0177), [FND-CIT-0178](#fnd-cit-0178), [FND-CIT-0181](#fnd-cit-0181), [FND-CIT-0182](#fnd-cit-0182), [FND-CIT-0220](#fnd-cit-0220), [FND-CIT-0221](#fnd-cit-0221), [FND-CIT-0222](#fnd-cit-0222), [FND-CIT-0223](#fnd-cit-0223), [FND-CIT-0224](#fnd-cit-0224).
+- [01-distractibility](../reference/diagnostic-signs/functional_tremor/01-distractibility.md): [FND-CIT-0019](#fnd-cit-0019), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0177](#fnd-cit-0177), [FND-CIT-0178](#fnd-cit-0178), [FND-CIT-0220](#fnd-cit-0220), [FND-CIT-0224](#fnd-cit-0224).
+- [02-entrainment](../reference/diagnostic-signs/functional_tremor/02-entrainment.md): [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0154](#fnd-cit-0154), [FND-CIT-0177](#fnd-cit-0177), [FND-CIT-0178](#fnd-cit-0178), [FND-CIT-0222](#fnd-cit-0222), [FND-CIT-0224](#fnd-cit-0224).
+- [technique-inventory](../reference/diagnostic-signs/functional_tremor/technique-inventory.md): [FND-CIT-0002](#fnd-cit-0002), [FND-CIT-0019](#fnd-cit-0019), [FND-CIT-0121](#fnd-cit-0121), [FND-CIT-0128](#fnd-cit-0128), [FND-CIT-0135](#fnd-cit-0135), [FND-CIT-0154](#fnd-cit-0154), [FND-CIT-0170](#fnd-cit-0170), [FND-CIT-0175](#fnd-cit-0175), [FND-CIT-0176](#fnd-cit-0176), [FND-CIT-0177](#fnd-cit-0177), [FND-CIT-0178](#fnd-cit-0178), [FND-CIT-0181](#fnd-cit-0181), [FND-CIT-0182](#fnd-cit-0182).
+
+## FND-CIT-0225
+
+Zutt R, Gelauff JM, Smit M, van Zijl JC, Stone J, Tijssen MAJ. The presence of depression and anxiety do not distinguish between functional jerks and cortical myoclonus. *Parkinsonism & Related Disorders*. 2017;45:90–93. [DOI](https://doi.org/10.1016/j.parkreldis.2017.09.023). [Accepted manuscript](https://www.pure.ed.ac.uk/ws/files/44477842/PIIS1353802017303553.pdf).
+
+Small tertiary-centre case-control study: 16 functional-jerk and 23 cortical-myoclonus participants. Questionnaire scores and quality of life, not causal psychiatric diagnosis. Accepted manuscript checked in full September 28, 2026.
+
+## FND-CIT-0226
+
+Latorre A, Ganos C, Hamada M, et al. Diagnostic utility of clinical neurophysiology in jerky movement disorders: a review from the MDS Clinical Neurophysiology Study Group. *Movement Disorders Clinical Practice*. 2025;12(3):272–284. [DOI](https://doi.org/10.1002/mdc3.14306). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11952955/).
+
+Narrative study-group review of diagnostic methods and limitations. Evidence largely comprises case series and limited case-control studies; protocol heterogeneity and incomplete validation matter. Full text checked September 28, 2026.
+
+### Current uses in the jerks diagnostic expansion
+
+- [03-functional-jerks-and-myoclonus](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md): [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0110](#fnd-cit-0110), [FND-CIT-0118](#fnd-cit-0118), [FND-CIT-0122](#fnd-cit-0122), [FND-CIT-0125](#fnd-cit-0125), [FND-CIT-0137](#fnd-cit-0137), [FND-CIT-0138](#fnd-cit-0138), [FND-CIT-0151](#fnd-cit-0151), [FND-CIT-0186](#fnd-cit-0186), [FND-CIT-0225](#fnd-cit-0225), [FND-CIT-0226](#fnd-cit-0226).
+- [01-eeg-emg-and-jerk-locked-back-averaging](../reference/diagnostic-signs/functional_jerks_and_myoclonus/01-eeg-emg-and-jerk-locked-back-averaging.md): [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0122](#fnd-cit-0122), [FND-CIT-0125](#fnd-cit-0125), [FND-CIT-0151](#fnd-cit-0151), [FND-CIT-0226](#fnd-cit-0226).
+- [technique-inventory](../reference/diagnostic-signs/functional_jerks_and_myoclonus/technique-inventory.md): [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0118](#fnd-cit-0118), [FND-CIT-0122](#fnd-cit-0122), [FND-CIT-0125](#fnd-cit-0125), [FND-CIT-0137](#fnd-cit-0137), [FND-CIT-0138](#fnd-cit-0138), [FND-CIT-0151](#fnd-cit-0151), [FND-CIT-0186](#fnd-cit-0186).

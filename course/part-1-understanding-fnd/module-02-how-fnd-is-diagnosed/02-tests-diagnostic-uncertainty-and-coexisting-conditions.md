@@ -8,6 +8,13 @@
 
 Tests are important, but no test answers every question. A scan, blood test, electroencephalogram or specialist assessment is useful when it is chosen to investigate a particular possibility. This page explains why normal results do not diagnose FND on their own, why another condition can exist alongside FND, and when it may be reasonable to revisit a diagnosis.
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 
 A common description of the diagnostic process is, “All my tests were normal, so they said it was FND.” That explanation is incomplete. Normal test results may make some other diagnoses less likely, but they do not themselves show that a symptom is functional. The evidence for FND should come from positive features in the history, examination or nature of an event. (*citations* [1](#citation-1), [2](#citation-2))

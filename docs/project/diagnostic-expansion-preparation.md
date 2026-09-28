@@ -111,7 +111,7 @@ Shared concepts own recurring assessment-versus-life-impact explanations; sympto
 2. Draft shared foundations needed by the first symptom, with evidence checks and existing-course cross-links. Publish only complete pages, not placeholders.
 3. Prepare the weakness symptom revision and Hoover's page together so relocation leaves no gap. Keep a short Quick Reference at the top; use the structures in the linked authoring document.
 4. Compare old/new human passages, citations, image treatment and all sixteen inventory entries. Record every move, split or combination.
-5. Repair navigation, indexes, citation uses, `SITEMAP.md` and `sitemap.xml` together; check local files/anchors and rendered structure.
+5. Repair navigation, indexes, citation uses and `SITEMAP.md` together; then run the site preparation and validation pipeline so the machine-readable `sitemap.xml`, local links, anchors and rendered structure are checked from the final public route map.
 6. Open a reviewable pull request. Do not merge automatically. Continue subsequent techniques/symptoms in reviewable batches without a fixed page target.
 
 ## Completion boundary
@@ -124,3 +124,11 @@ This preparation is complete when the inventory, ownership map, structures and m
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+## Implementation update — September 26, 2026
+
+The [first-stage implementation record](functional-weakness-diagnostic-expansion.md) documents the weakness overview, Hoover’s sign, shared topics 1 and 3, and new shared topic 10 (assessment and everyday function). The historical preparation and baseline above remain unchanged. Remaining foundations and individual techniques are pending.
+
+The next symptom stage is [functional tremor](functional-tremor-diagnostic-expansion.md), with two distinct diagnostic comparisons and all twelve original inventory entries preserved. The same ownership and authoring rules apply.
+
+**September 28 diagnostic update:** [Functional jerks expansion](functional-jerks-diagnostic-expansion.md) adds the symptom overview, a separate EEG–EMG assessment and the preserved nine-entry inventory. Human/clinical review and remaining individual technique expansions are pending.

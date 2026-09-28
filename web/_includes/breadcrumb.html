@@ -1,0 +1,32 @@
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <a href="{{ '/' | relative_url }}">Home</a>
+  <span aria-hidden="true">›</span>
+
+  {% if page.page_kind == "course" %}
+    <span>Course</span>
+  {% else %}
+    <a href="{{ '/course/' | relative_url }}">Course</a>
+  {% endif %}
+
+  {% if page.part_number %}
+    <span aria-hidden="true">›</span>
+    <span>Part {{ page.part_number }}</span>
+  {% endif %}
+
+  {% if page.module_number %}
+    <span aria-hidden="true">›</span>
+
+    {% if page.page_kind == "module" %}
+      <span>Module {{ page.module_number }}</span>
+      <span aria-hidden="true">›</span>
+      <span>Intro</span>
+    {% else %}
+      <a href="{{ page.module_url | relative_url }}">Module {{ page.module_number }}</a>
+    {% endif %}
+  {% endif %}
+
+  {% if page.lesson_number %}
+    <span aria-hidden="true">›</span>
+    <span>Page {{ page.lesson_number }}</span>
+  {% endif %}
+</nav>
