@@ -22,6 +22,8 @@ Each symptom page now includes a **Diagnostic techniques at a glance** inventory
 
 - **[Functional Tics and Tic-Like Symptoms](17-functional-tics-and-tic-like-symptoms.md)** — motor and vocal symptoms, assessment limits and individualized care.
 
+- **[Scan-Negative Cauda Equina Presentations](scan-negative-cauda-equina.md)** — special overlap page for cauda-equina-like presentations without explanatory compression on imaging; this does not add an 18th FND presentation category.
+
 - **[Diagnostic techniques index](diagnostic-index.md)** — browse every symptom-specific page and read how the signs should be interpreted and limited.
 - **[Recovery techniques](../recovery-techniques/README.md)** — find the separate collection about rehabilitation, treatment and symptom management after appropriate assessment.
 
