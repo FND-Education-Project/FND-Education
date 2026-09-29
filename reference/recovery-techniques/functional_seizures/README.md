@@ -108,9 +108,9 @@ The existing resource map below does three things:
 ### Neurosymptoms: Treatment of Functional Seizures
 
 - **Author:** Jon Stone, with linked material from collaborators and other clinical groups.
-- **General premise:** a patient-facing explanation of warning recognition, alarm and avoidance, attention-shifting or grounding, supporter response, and signs of progress.
+- **General premise:** a patient-facing explanation of warning recognition; possible alarm, arousal or avoidance patterns when they fit the individual; attention-shifting or grounding; supporter response; and signs of progress. These are treatment ideas and possible formulations, not a universal account of why functional seizures occur.
 - **Access:** [Treatment of Functional Seizures](https://neurosymptoms.org/en/treatment/treatment-of-functional-seizures/) is free and multilingual site navigation is available.
-- **Use here:** a useful concise overview and gateway to other resources. Some statements and explanatory models require updating or qualification against current guideline and safety language before adaptation.
+- **Use here:** a useful concise overview and gateway to other resources. Any statement that presents panic, alarm, avoidance, stress, trauma or another psychological process as the cause of functional seizures requires qualification against current guideline evidence and the person's own pattern before adaptation.
 
 ### ILAE functional/dissociative-seizure resource directory
 
