@@ -132,3 +132,5 @@ The [first-stage implementation record](functional-weakness-diagnostic-expansion
 The next symptom stage is [functional tremor](functional-tremor-diagnostic-expansion.md), with two distinct diagnostic comparisons and all twelve original inventory entries preserved. The same ownership and authoring rules apply.
 
 **September 28 diagnostic update:** [Functional jerks expansion](functional-jerks-diagnostic-expansion.md) adds the symptom overview, a separate EEG–EMG assessment and the preserved nine-entry inventory. Human/clinical review and remaining individual technique expansions are pending.
+
+**September 29 diagnostic update:** [Functional dystonia expansion](functional-dystonia-diagnostic-expansion.md) adds the revised overview, combined pattern-based assessment, preserved ten-entry baseline and one dated research addition. Current diagnostic catalogue: 171 entries; human/clinical review and remaining individual expansions are pending.

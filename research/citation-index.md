@@ -1993,3 +1993,39 @@ Narrative study-group review of diagnostic methods and limitations. Evidence lar
 - [03-functional-jerks-and-myoclonus](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md): [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0110](#fnd-cit-0110), [FND-CIT-0118](#fnd-cit-0118), [FND-CIT-0122](#fnd-cit-0122), [FND-CIT-0125](#fnd-cit-0125), [FND-CIT-0137](#fnd-cit-0137), [FND-CIT-0138](#fnd-cit-0138), [FND-CIT-0151](#fnd-cit-0151), [FND-CIT-0186](#fnd-cit-0186), [FND-CIT-0225](#fnd-cit-0225), [FND-CIT-0226](#fnd-cit-0226).
 - [01-eeg-emg-and-jerk-locked-back-averaging](../reference/diagnostic-signs/functional_jerks_and_myoclonus/01-eeg-emg-and-jerk-locked-back-averaging.md): [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0122](#fnd-cit-0122), [FND-CIT-0125](#fnd-cit-0125), [FND-CIT-0151](#fnd-cit-0151), [FND-CIT-0226](#fnd-cit-0226).
 - [technique-inventory](../reference/diagnostic-signs/functional_jerks_and_myoclonus/technique-inventory.md): [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0118](#fnd-cit-0118), [FND-CIT-0122](#fnd-cit-0122), [FND-CIT-0125](#fnd-cit-0125), [FND-CIT-0137](#fnd-cit-0137), [FND-CIT-0138](#fnd-cit-0138), [FND-CIT-0151](#fnd-cit-0151), [FND-CIT-0186](#fnd-cit-0186).
+
+## FND-CIT-0227
+
+Albanese A, Bhatia KP, Fung VSC, et al. Definition and Classification of Dystonia. *Movement Disorders*. 2025;40(7):1248–1259. [DOI](https://doi.org/10.1002/mds.30220). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC12273609/).
+
+Expert consensus on clinical description and causes, not validation of a functional-dystonia test. Full text checked September 29, 2026.
+
+## FND-CIT-0228
+
+Stephen CD, Perez DL, Chibnik LB, Sharma N. Functional dystonia: A case-control study and risk prediction algorithm. *Annals of Clinical and Translational Neurology*. 2021;8(4):732–748. [DOI](https://doi.org/10.1002/acn3.51307). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8045924/).
+
+Retrospective specialist-clinic comparison of 99 functional and 99 other-primary-dystonia cases. Prediction is not diagnostic confirmation; internal cross-validation is not external prospective validation. Disability and mental-health associations are not causes. Full text checked September 29, 2026.
+
+## FND-CIT-0229
+
+Eleopra R, Paio F, Rinaldo S, et al. Polyelectromyography Under Propofol to Differentiate Functional from Idiopathic Dystonia: A Pilot Study. *Movement Disorders*. 2026;41(2):395–405. Published online November 12, 2025. [DOI/full text](https://doi.org/10.1002/mds.70094).
+
+Single-centre pilot: 10 functional and 17 idiopathic cases with established diagnoses. Specialist anaesthetic and neurophysiology setting; not a routine validated discriminator. Main-text methods and results checked September 29, 2026; supplementary protocol not independently reviewed.
+
+## FND-CIT-0230
+
+Marín-Medina DS, Miño Zambrano J, Espay AJ, Merello M. Systematic review of movement disorders mislabeled as functional: when incongruence misleads. *Journal of Neurology*. 2026. [DOI](https://doi.org/10.1007/s00415-026-13795-0). [Authors’ institutional record](https://repositorio.fleni.org.ar/handle/123456789/1564).
+
+Abstract/institutional-record review September 29, 2026; full text not retrieved. Selected published misdiagnoses identify pitfalls, not a population misdiagnosis rate or a newly validated sign-count rule.
+
+## FND-CIT-0231
+
+Hsieh Y, Deshpande S. A therapy-led, multidisciplinary programme for treatment-resistant functional fixed dystonia. *BMJ Case Reports*. 2020;13(7):e235213. [DOI](https://doi.org/10.1136/bcr-2020-235213). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC7373327/).
+
+One-person rehabilitation case report with clinician and patient-reported measures; illustrates different outcome domains, not expected treatment response or diagnostic accuracy. Full text checked September 29, 2026.
+
+### Current uses in the dystonia diagnostic expansion
+
+- [04-functional-dystonia](../reference/diagnostic-signs/04-functional-dystonia.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0021](#fnd-cit-0021), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0136](#fnd-cit-0136), [FND-CIT-0142](#fnd-cit-0142), [FND-CIT-0149](#fnd-cit-0149), [FND-CIT-0158](#fnd-cit-0158), [FND-CIT-0171](#fnd-cit-0171), [FND-CIT-0227](#fnd-cit-0227), [FND-CIT-0228](#fnd-cit-0228), [FND-CIT-0229](#fnd-cit-0229), [FND-CIT-0230](#fnd-cit-0230), [FND-CIT-0231](#fnd-cit-0231).
+- [01-pattern-based-history-and-movement-examination](../reference/diagnostic-signs/functional_dystonia/01-pattern-based-history-and-movement-examination.md): [FND-CIT-0021](#fnd-cit-0021), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0136](#fnd-cit-0136), [FND-CIT-0142](#fnd-cit-0142), [FND-CIT-0227](#fnd-cit-0227), [FND-CIT-0228](#fnd-cit-0228), [FND-CIT-0229](#fnd-cit-0229), [FND-CIT-0230](#fnd-cit-0230).
+- [technique-inventory](../reference/diagnostic-signs/functional_dystonia/technique-inventory.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0021](#fnd-cit-0021), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0136](#fnd-cit-0136), [FND-CIT-0142](#fnd-cit-0142), [FND-CIT-0149](#fnd-cit-0149), [FND-CIT-0158](#fnd-cit-0158), [FND-CIT-0171](#fnd-cit-0171), [FND-CIT-0229](#fnd-cit-0229).

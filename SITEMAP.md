@@ -308,6 +308,8 @@ Use the sections below to drill down into the course, reference library, researc
 - [Functional Jerks: Diagnostic Technique Inventory](reference/diagnostic-signs/functional_jerks_and_myoclonus/technique-inventory.md)
 - [Functional Tics and Tic-Like Symptoms](reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md)
 - [Functional Dystonia or Fixed Posturing](reference/diagnostic-signs/04-functional-dystonia.md)
+- [Pattern-Based Assessment for Functional Dystonia](reference/diagnostic-signs/functional_dystonia/01-pattern-based-history-and-movement-examination.md)
+- [Functional Dystonia: Diagnostic Technique Inventory](reference/diagnostic-signs/functional_dystonia/technique-inventory.md)
 - [Functional Gait Disorder](reference/diagnostic-signs/05-functional-gait-disorder.md)
 - [Functional Seizures](reference/diagnostic-signs/06-functional-seizures.md)
 - [Functional Sensory Symptoms](reference/diagnostic-signs/07-functional-sensory-symptoms.md)
@@ -734,6 +736,7 @@ Use the sections below to drill down into the course, reference library, researc
 - [Diagnostic Page Authoring Structures](docs/project/diagnostic-page-authoring-structures.md)
 - [Functional tremor diagnostic expansion record](docs/project/functional-tremor-diagnostic-expansion.md)
 - [Functional jerks diagnostic expansion record](docs/project/functional-jerks-diagnostic-expansion.md)
+- [Functional dystonia diagnostic expansion record](docs/project/functional-dystonia-diagnostic-expansion.md)
 
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](README.md) · [Course](course/README.md) · [Reference Library](reference/README.md) · [Site Map](SITEMAP.md)
