@@ -20,27 +20,27 @@ FND is a neurological disease that can be understood through a **biopsychosocial
 
 When we talk about the *biopsychosocial model*, it is in relation to how your **symptoms** are affected by, well, all aspects of your life and health, really. (*citations* [1](#citation-1), [3](#citation-3)) 
 - **The *'bio'* part refers to your biology;** your current health issues and how your nervous system responds to things. It also includes what we talked about in module 1, that the way your brain talks to the rest of your body and nervous system is disrupted.
-- **The *'psycho'* or *'psychological'* part of the word helps us to see that life stresses both past and present can strongly affect your symptoms.** The psychology we are talking about here also includes how you cope with those stresses and your emotional self.
+- **The *'psycho'* or *'psychological'* part includes thoughts, emotions, coping, and stresses past or present.** These may affect symptoms for some people, but they are not present or important in the same way for everyone. They are not required to explain or diagnose FND.
 - **Finally, the *'social'* aspect of this not only includes your culture but also your access to health care and the family and social support you have.**
 
 ![Body and brain, thoughts and feelings, and life and surroundings are three areas to consider. No area is required to cause FND.](../../../assets/illustrations/module-1-page-2-biopsychosocial-influences.svg)
 
 *Illustration: the three areas help organize an individual picture. They are not three required causes.*
 
-Let's talk about this in a way that is more familiar: the common headache. A headache can be triggered by lots of things: sore muscles, stress, an injury to your head. Likewise, FND can be triggered by a health issue, a specific injury or even a very stressful situation. When you have a headache, those same things can make it feel worse. (*citations* [1](#citation-1), [3](#citation-3)) 
-> With FND your symptoms can flare or become worse temporarily because of a stressful situation including a health situation.
-Like a headache, there are some medications that can make your symptoms less and, also like a headache, you might find meditation and relaxation a way to lower your symptoms as well. (*citations* [1](#citation-1), [4](#citation-4))
+Let's talk about this in a way that is more familiar: the common headache. A headache can change with many influences, such as muscle tension, illness, sleep, stress, or injury. FND symptoms can also change with different physical, psychological, or social influences, but the pattern is individual and sometimes no clear influence is found. Something that happens before a flare may be relevant without proving that it caused the FND. (*citations* [1](#citation-1), [3](#citation-3)) 
+
+Some people notice that stress, illness, pain, poor sleep, sensory overload, activity, or another demand is followed by worse symptoms; others do not. Relaxation or meditation may help some people when they fit that person's pattern, but they are optional tools rather than evidence that stress caused the symptoms. (*citations* [1](#citation-1), [4](#citation-4))
 
 However, FND is not a headache. In fact, quality of life can be very poor. But, both your symptoms and that quality of life can improve. (*citations* [1](#citation-1), [6](#citation-6))
 
 ### Questions
 #### • How do you think building a good support group around you can improve the way you cope with your symptoms?
-#### • How do you think stress affects your symptoms? Have you noticed when your symptoms become worse?
+#### • Have you noticed any repeatable influences around symptom changes—physical, psychological, social, or none that you can identify?
 
 ### What can the person safely try at home?
-If you are able, journal or at least begin to write down when your symptoms get worse. Did something happen just before? Taking note of this is a large part of improving your symptoms. Here's an idea: on the piece of paper make three columns. Each column has one of these headings: *"body and brain"*, *"thoughts and feelings"*, *"life and surroundings"*. Each time you find your symptoms worse, try to put something into each column.
+If you are able and find it useful, you might write down what was happening around a symptom change. This is optional. It may help you or your clinician notice a pattern, but some changes have no identifiable trigger, and keeping records does not determine whether symptoms improve. You could use three headings—*"body and brain"*, *"thoughts and feelings"*, and *"life and surroundings"*—but leave any column blank when nothing relevant is known rather than trying to find an explanation.
 
-Don't worry if you can't journal! Personally, my functional symptoms prevent me from remembering and I found journaling nearly impossible. However, I have been successful, over time, in understanding what triggers my symptoms to get worse.
+Don't worry if you can't journal! Personally, my functional symptoms prevent me from remembering and I found journaling nearly impossible. Over time I have still been able to notice some patterns in my own symptoms. Your experience may be different, and not finding a pattern is useful information too.
 
 > ## Crosswords
 > - **Biopsychosocial What?** ([normal](crosswords/Biopsychosocial-What-crossword-09-2026.pdf)) ([easy](crosswords/Biopsychosocial-What-crossword-easy-09-2026.pdf)) ([answer key](crosswords/Biopsychosocial-What-crossword-answer-key-09-2026.pdf))
@@ -54,9 +54,9 @@ Don't worry if you can't journal! Personally, my functional symptoms prevent me 
 
 ## For Family, Friends, and Other Supporters
 
-As described earlier on this page, the 'biopsychosocial model' for FND talks about how those areas of life affect the sufferer's symptoms - both in positive ways and in negative ways. As a support person, we are not able to change the biology of the person. Their symptoms, regardless of how strange they can sometimes look, are just what a disrupted communication between brain and nervous system looks like. There is currently no medication to treat FND. A key way to help is assisting with personal care, when needed, and access to healthcare
+As described earlier on this page, the biopsychosocial model is a way to organize possible influences on health and daily life; it is not a map of three required causes. As a support person, you cannot control the person's symptoms, but you can help across all three areas: access to medical care, rehabilitation and equipment; psychological care when the person wants it for an agreed reason; and practical support with safety, personal care, transport, relationships, housing, work, or other daily needs. Good support can make life safer and more manageable without guaranteeing a change in symptoms.
 
-That leaves just two areas: the psycho and the social. If there are other psychological stresses like a past or present trauma or a disorder that they have been diagnosed with it might be good to encourage them to carry on therapy. That said, I want to express a lot of caution: most therapists don't understand FND and even when some say they do, I personally have found that their concept isn't up to date.  In some parts of the world there are great FND clinics. It is probably not a good idea to push anyone with FND into therapy or a particular therapist. 
+If the person has trauma, anxiety, depression, or another psychological difficulty that they want help with, appropriate therapy may be valuable for that reason. It should not be presented as a requirement for FND care or as proof of what caused the neurological symptoms. I also want to express caution: many therapists have limited FND training, and some still use older explanations. In some parts of the world there are specialist FND clinics. It is probably not a good idea to push anyone with FND into therapy or a particular therapist. 
 
 > For the first few years, it was too triggering for me to attempt therapy but later, when I was ready, it proved helpful to work with some of my past traumas. The biggest thing I got from therapy was a better attitude towards my symptoms.
 — *(Lived experience)*
@@ -92,7 +92,7 @@ The biopsychosocial model is a way of guiding individual support by looking at a
 | **Psychological** | Anxiety, panic disorder, depression, post-traumatic stress disorder and dissociative symptoms or disorders. These should be treated when present, but they are **not required for FND** and should not be assumed to have caused it. (*citations* [2](#citation-2), [6](#citation-6)) |
 | **Social** | Loss of employment or education; financial pressure; reduced independence; isolation; strained relationships; caregiver burden; stigma; unsuitable housing or transportation; and difficulty accessing knowledgeable healthcare or rehabilitation. (*citations* [6](#citation-6), [9](#citation-9)) |
 
-One of the key complaints on reddit among sufferers of FND is how after diagnosis they are given a link to a website and little further care is afforded them. Clearly, however, good communication leads to appropriately triaging the patient. For instance, this page on [neurosymptoms.org](https://neurosymptoms.org/en/symptoms/), clearly show which symptoms are part of FND and which are likely not to be.
+One of the key complaints on reddit among sufferers of FND is how after diagnosis they are given a link to a website and little further care is afforded them. Good communication and follow-up matter. [NeuroSymptoms.org](https://neurosymptoms.org/en/symptoms/) explains symptoms that clinicians may diagnose as functional, symptoms that often occur alongside FND, and diagnostic principles. It cannot decide whether a particular new symptom in one person is FND; that still requires appropriate medical assessment.
 
 Symptoms not associated with FND need to be investigated both at diagnosis and during the course of the disease. (*citations* [5](#citation-5), [8](#citation-8)) 
 
@@ -148,36 +148,8 @@ Investigating symptoms and referring your patient to other resources including s
 
 These notes are for the author and reviewers. They identify wording that may overstate the evidence, blur an important distinction, or be misunderstood. The suggested replacements are written in the course's direct, plain-language tone. They have not been inserted into the lesson.
 
-### 1. Stress and the psychological part of the biopsychosocial model
+### Applied accuracy review — September 29, 2026
 
-**Accuracy warning:** The current wording can sound as though past or present stress strongly affects every person's symptoms. References [1] and [3] support psychological factors as potentially relevant, not required or equally important for everyone. They are not necessary for the diagnosis.
-
-**Suggested wording:**
-
-> The psychological part includes thoughts, emotions, coping, and stresses past or present. These may affect symptoms for some people, but they are not present or important in the same way for everyone. They are not required to explain or diagnose FND.
-
-### 2. Journaling and improvement
-
-**Accuracy warning:** Calling journaling a large part of improving is stronger than the evidence supports. It may help some people notice patterns, but it is optional. A person may find no trigger, and record-keeping does not determine whether symptoms improve.
-
-**Suggested wording:**
-
-> If you are able, you might write down what was happening around a symptom change. This is optional. It may help you or your clinician notice a pattern, but some changes have no identifiable trigger, and keeping records does not determine whether symptoms improve.
-
-### 3. What supporters can and cannot change
-
-**Accuracy warning:** The current wording separates biology from the psychological and social parts too sharply. These areas interact. A supporter cannot control another person's symptoms, but may help with medical access, rehabilitation, equipment, safety, practical needs, or wanted psychological support. None of this guarantees a symptom change.
-
-**Suggested wording:**
-
-> As a support person, you cannot control the person's symptoms. You can still help across all three areas: access to medical care, equipment, and rehabilitation; psychological care when the person wants it; and practical support with safety, personal care, transport, relationships, housing, or work. Good support can make life safer and more manageable, but it cannot guarantee a change in symptoms.
-
-### 4. What NeuroSymptoms.org can establish
-
-**Accuracy warning:** An educational website can explain symptoms and diagnostic principles, but it cannot decide whether a new symptom in one person is functional. New or substantially changed symptoms still require appropriate medical assessment.
-
-**Suggested wording:**
-
-> NeuroSymptoms.org explains symptoms that clinicians may diagnose as functional, symptoms that often occur alongside FND, and how clinicians tell them apart. It cannot decide whether a particular new symptom is FND. That still requires appropriate medical assessment.
+The stress, journaling, supporter-role, and NeuroSymptoms wording identified in this review has now been corrected in the reader-facing lesson. The remaining note is retained only to record that these statements were deliberately changed to avoid treating psychological factors as universal causes or requiring a trigger to be found.
 
 </details>
