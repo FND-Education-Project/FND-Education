@@ -36,9 +36,9 @@ The word 'functional' tells us that the way the nervous system transmits informa
 
 ## For the Person With FND
 
-If you have been recently diagnosed, you might be wondering if your symptoms are even FND or not. Likely, tests were done to determine you didn't have some other medical issue or a psychological issue. It's also very likely that you didn't undergo any tests to *prove* you do have Functional Neurological Disorder. The reason is that education about FND is limited and many doctors have not been taught what to do when they encounter someone who displays all these 'bizarre' symptoms. (*citations* [1](#citation-1)) 
+If you have been recently diagnosed, you might be wondering how the clinician knew your symptoms were FND. You may have had tests looking for other neurological or medical explanations, but FND should not be diagnosed only because those tests were normal. Clinicians can also look for **positive signs**—recognizable features on the history or examination that show how the nervous system is functioning differently. Education about these positive diagnostic methods is still uneven, so some people are not shown the evidence supporting their diagnosis. (*citations* [1](#citation-1)) 
 
-> The biggest question everyone has is, **"Is FND a psychological disorder??"** Emphatically, *No!* 
+> A very common question is, **"Does an FND diagnosis mean my symptoms are caused by a psychological problem?"** *No.* A psychological stressor, trauma history, or psychiatric diagnosis is not required to diagnose FND. 
 
 Researchers have found differences in brain structure, activity or chemistry when groups of people with FND are compared with other groups. These findings are still being studied. They cannot yet diagnose FND in one person or tell us whether a difference caused FND or developed afterward. The chemistry study cited here involved young people with functional seizures; it does not speak for everyone with FND. The important thing to know is **Your symptoms ARE REAL** and they are not faked or imaginary. (*citations* [2](#citation-2), [3](#citation-3), [5](#citation-5), [6](#citation-6), [9](#citation-9))
 
@@ -47,7 +47,7 @@ So what does [functional](../../../glossary/README.md#functional) actually mean?
 ***
 
 **How did I get Functional Neurological Disorder?**
-*Researchers have found that FND can begin at any age. It is diagnosed more often in women. One [website](https://www.bmj.com/content/371/bmj.m3745/infographic) explains that the triggering event could be a physical injury, migraine, trauma, or even a fainting experience!* (*citations* [1](#citation-1), [2](#citation-2), [7](#citation-7), [9](#citation-9)) 
+*Researchers have not identified one cause that explains every person's FND. Symptoms may begin around a physical illness or injury, migraine, fainting episode, stressful event, trauma, or with no clear preceding event at all. Something happening near the beginning can be a useful clue without proving that it caused the disorder. Later in the course we separate possible causes, risk factors, triggers, mechanisms, and things that may affect symptoms now.* (*citations* [1](#citation-1), [2](#citation-2), [7](#citation-7), [9](#citation-9)) 
 
 **Can FND be cured? Is it permanent?**
 *There is no cure for FND but many have found improvements in their condition that can be considered 'remission' of the disease. Many believe that understanding your disease is the key first step in making improvements.* (*citations* [1](#citation-1), [3](#citation-3), [8](#citation-8))
@@ -70,7 +70,7 @@ So what does [functional](../../../glossary/README.md#functional) actually mean?
 - speech and swallowing problems
 - dizziness (a type associated with FND)
 - falls to the ground
-- overactive bladder and other bowel and bladder problems
+- bladder or bowel symptoms can occur alongside FND, but they are not automatically functional symptoms and need their own appropriate assessment
 - visual blurring, light sensitivity
 - sound sensitivity
 - [functional motor and vocal/phonic tic-like symptoms](../../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) — see also the [movement and tics lesson](../../part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
@@ -112,7 +112,7 @@ Another useful thing to do is put into your own words what FND is and how to exp
 
 ## For Family, Friends, and Other Supporters
 
-Functional Neurological Disorder is a very disabling disease and it can vary in how many symptoms or how sensitive those symptoms are. This used to be considered a psychiatric diagnosis called 'conversion disorder,' however, that term and the idea that these symptoms must be of a psychogenic (from the mind or emotions) or psychiatric cause is false. In fact, recent findings have shown that diagnosis of FND does not need a psychological precipitating factor. (*citations* [2](#citation-2), [4](#citation-4), [9](#citation-9)) 
+Functional Neurological Disorder can be very disabling and can vary greatly from person to person. Historically, these symptoms were often framed through the psychiatric diagnosis 'conversion disorder' and were assumed to require a psychological explanation. Current diagnostic practice does **not** require a psychological stressor, trauma, or psychiatric disorder, and a positive FND diagnosis should not be inferred from psychological history. (*citations* [2](#citation-2), [4](#citation-4), [9](#citation-9)) 
 
 Support the person you are showing care to often involves assuring the person that their symptoms are real and not faked. They did not cause their disease. It's also very important to understand that not every new symptom is FND. All new symptoms should be looked at by a doctor because many serious medical issues look like an FND symptom. (*citations* [3](#citation-3), [9](#citation-9))
 
@@ -137,7 +137,7 @@ A 2022 paper titled, ***"Functional Neurological Disorder: new subtypes and shar
 3. "Psychological stressors **are common *risk factors*** for functional neurological disorder, but are often absent."
 4. "Four entities—functional seizures, functional movement disorders, persistent perceptual postural dizziness, and functional cognitive disorder—show similarities in aetiology and pathophysiology and are variants of a disorder at the interface between neurology and psychiatry."
 
-Clearly, this is a disease that is based on real dysfunction with a variety of causes that does not necessarily require a psychological stress. It's subtypes are well recognized and importantly, diagnosis can be made using positive clinical features. **For a complete list of those diagnosis techniques, see our [reference](https://github.com/FND-Education-Project/FND-Education/blob/main/reference/diagnostic-signs/README.md) section.**
+FND involves real dysfunction, but current research does not establish one cause—or a fixed set of causes—that explains every person. Psychological stress may be relevant for some people and absent in others. Importantly, diagnosis can be made using positive clinical features rather than by requiring a psychological explanation. **For a complete list of those diagnostic techniques, see our [reference](https://github.com/FND-Education-Project/FND-Education/blob/main/reference/diagnostic-signs/README.md) section.**
 
 Here are some resources:
 - **[FND Hope - Medical Professionals](https://fndhope.org/living-fnd/physicians)**
