@@ -29,6 +29,10 @@ The diagnostic and recovery collections answer different questions. A diagnostic
 
 [PPPD remains in its existing collection](recovery-techniques/persistent_postural_perceptual_dizziness/README.md); it is linked rather than duplicated.
 
+## Special diagnostic and recovery overlap topic
+
+- [Scan-Negative Cauda Equina Presentations — diagnosis](diagnostic-signs/scan-negative-cauda-equina.md) · [recovery and management](recovery-techniques/scan-negative-cauda-equina.md) — a cauda-equina-like presentation without explanatory compression on imaging. It is kept outside the 17 FND presentation categories because scan-negative cauda equina syndrome is not automatically FND.
+
 ## Which symptoms refer to which category?
 
 A symptom may appear in more than one row when its **appearance, severity or event context** changes what should be assessed or tried. The category is not chosen from one word alone. For example, apparent facial droop may reflect overactive pulling or true weakness; partial limb weakness and complete paralysis require different starting points; and immobility during a functional seizure follows the seizure-event pathway unless a separate motor symptom persists outside it.
