@@ -118,6 +118,8 @@ Use supported positioning and gentle, task-relevant exploration. Avoid forced co
 
 **Facial symptom recovery:** [Ten detailed pages](../../../reference/recovery-techniques/functional_facial_symptoms/README.md) explain the assessed facial pattern, practical rehabilitation and mouth/eye support. Facial tic-like movements have a separate [functional-tics page](../../../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md).
 
+**Detailed diagnostic assessment:** [Pattern-based history and movement examination](../../../reference/diagnostic-signs/functional_dystonia/01-pattern-based-history-and-movement-examination.md). This explains the clinical comparisons and their limits.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Gait and Falls](04-gait-falls-and-movement-retraining.md)
 

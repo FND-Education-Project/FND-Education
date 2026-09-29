@@ -192,7 +192,7 @@ Use a wide side view and a front or rear view, but show the complete uninterrupt
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Seizures](06-functional-seizures.md)
 
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/05-functional-gait-disorder.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
+**Related:** [Previous: Functional Dystonia Inventory](functional_dystonia/technique-inventory.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/05-functional-gait-disorder.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

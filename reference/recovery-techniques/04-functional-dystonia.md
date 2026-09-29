@@ -156,7 +156,7 @@ Community accounts are retained as individual experiences, not effectiveness evi
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Dystonia or Fixed Posturing: Detailed Recovery and Care Pages](functional_dystonia/README.md)
 
-**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/04-functional-dystonia.md) · [Functional facial techniques](14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md)
+**Related:** [Collection index](README.md) · [Diagnostic signs for this symptom](../diagnostic-signs/04-functional-dystonia.md) · [Pattern-based assessment](../diagnostic-signs/functional_dystonia/01-pattern-based-history-and-movement-examination.md) · [Functional facial techniques](14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

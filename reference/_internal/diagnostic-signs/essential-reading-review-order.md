@@ -329,6 +329,21 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_jerks_
 - [ ] Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [https://doi.org/10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262)
 - [ ] Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987)
 
+### Expanded assessment and updated evidence — September 29, 2026
+
+**Detailed page:** [Pattern-based history and movement examination](../../diagnostic-signs/functional_dystonia/01-pattern-based-history-and-movement-examination.md) · [Inventory](../../diagnostic-signs/functional_dystonia/technique-inventory.md)
+
+Read the overview sources above, then the following additions before assessing the detailed page. For the detailed page's full citation order: Frucht → Albanese → Ercoli → Stephen → IFCN → Eleopra → Marín-Medina → Schrag. The existing inventory-specific papers follow below. All boxes remain for human review.
+
+- [ ] Albanese A, Bhatia KP, Fung VSC, et al. Definition and Classification of Dystonia. *Movement Disorders*. 2025;40(7):1248–1259. [DOI](https://doi.org/10.1002/mds.30220). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC12273609/). Expert consensus on clinical description and causes, not validation of a functional-dystonia test. Full text checked September 29, 2026.
+- [ ] Stephen CD, Perez DL, Chibnik LB, Sharma N. Functional dystonia: A case-control study and risk prediction algorithm. *Annals of Clinical and Translational Neurology*. 2021;8(4):732–748. [DOI](https://doi.org/10.1002/acn3.51307). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8045924/). Retrospective specialist-clinic comparison of 99 functional and 99 other-primary-dystonia cases. Prediction is not diagnostic confirmation; internal cross-validation is not external prospective validation. Disability and mental-health associations are not causes. Full text checked September 29, 2026.
+- [ ] Eleopra R, Paio F, Rinaldo S, et al. Polyelectromyography Under Propofol to Differentiate Functional from Idiopathic Dystonia: A Pilot Study. *Movement Disorders*. 2026;41(2):395–405. Published online November 12, 2025. [DOI/full text](https://doi.org/10.1002/mds.70094). Single-centre pilot: 10 functional and 17 idiopathic cases with established diagnoses. Specialist anaesthetic and neurophysiology setting; not a routine validated discriminator. Main-text methods and results checked September 29, 2026; supplementary protocol not independently reviewed.
+- [ ] Marín-Medina DS, Miño Zambrano J, Espay AJ, Merello M. Systematic review of movement disorders mislabeled as functional: when incongruence misleads. *Journal of Neurology*. 2026. [DOI](https://doi.org/10.1007/s00415-026-13795-0). [Authors’ institutional record](https://repositorio.fleni.org.ar/handle/123456789/1564). Abstract/institutional-record review September 29, 2026; full text not retrieved. Selected published misdiagnoses identify pitfalls, not a population misdiagnosis rate or a newly validated sign-count rule.
+- [ ] Hsieh Y, Deshpande S. A therapy-led, multidisciplinary programme for treatment-resistant functional fixed dystonia. *BMJ Case Reports*. 2020;13(7):e235213. [DOI](https://doi.org/10.1136/bcr-2020-235213). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC7373327/). One-person rehabilitation case report with clinician and patient-reported measures; illustrates different outcome domains, not expected treatment response or diagnostic accuracy. Full text checked September 29, 2026.
+- [ ] Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *JNNP*. 2020;91:1037–1045. [DOI](https://doi.org/10.1136/jnnp-2019-322281). Read for everyday assessment and care-team context; professional consensus.
+
+**Access gaps:** Schrag 2004 and Marín-Medina 2026 were checked at abstract level in this expansion. Eleopra's main-text methods/results/limitations were checked; its supplementary protocol still needs independent review. Retaining an inventory citation is not a fresh full-text review of it.
+
 ### Technique / inventory review order
 
 #### Onset and fixed-posture pattern
@@ -385,6 +400,10 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_jerks_
 - [ ] Safety, differential diagnosis, coexistence and everyday-function claims checked separately from the positive sign itself.
 
 ---
+
+#### Research addition: polyelectromyography during propofol sedation
+
+- [ ] Eleopra R, Paio F, Rinaldo S, et al. Polyelectromyography Under Propofol to Differentiate Functional from Idiopathic Dystonia: A Pilot Study. *Movement Disorders*. 2026;41(2):395–405. Published online November 12, 2025. [DOI/full text](https://doi.org/10.1002/mds.70094). Read the selection criteria, blinding, qualitative scoring and limitations before interpreting the pilot results. This is one added research entry, not a routine validated test.
 
 ## 5. Functional Gait Disorder
 

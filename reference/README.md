@@ -57,6 +57,7 @@ A body part may make sudden, brief movements that feel involuntary. These jerks 
 ## Functional Dystonia and Fixed Postures
 
 [Understanding & Diagnosis](diagnostic-signs/04-functional-dystonia.md)<br>
+[Pattern-based diagnostic assessment](diagnostic-signs/functional_dystonia/01-pattern-based-history-and-movement-examination.md)<br>
 [Recovery Techniques](recovery-techniques/04-functional-dystonia.md)
 
 A hand, foot, limb, neck or another body part may pull, twist, curl or become held in an unusual posture. The position can sometimes become painful or difficult to release.

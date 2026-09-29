@@ -12,9 +12,11 @@ The collection now covers **17 symptom presentations**, including motor and voca
 
 Each symptom page now includes a **Diagnostic techniques at a glance** inventory: brief descriptions with source citations, evidence limitations and safety boundaries. These inventories include positive signs, descriptive observations, formal criteria and differential investigations; they are not 170 independently validated tests.
 
-**Staged review:** The September 19, 2026 inventory contains 170 entries across the 17 pages. It is a broad starting inventory, not a completed systematic review of every technique and every replication. Primary studies are cited where identified; some entries rely on specialist descriptions or consensus guidance because standalone validation has not been established. Expand and review individual technique pages one at a time, checking original full texts, later replications, conflicting findings and additional techniques before describing their evidence trail as complete.
+**Staged review:** The September 19, 2026 baseline inventory contains 170 entries across the 17 pages. The September 29 dystonia update adds one separately dated research entry, bringing the current catalogue to 171 entries; this does not change the historical baseline. It is a broad starting inventory, not a completed systematic review of every technique and every replication. Primary studies are cited where identified; some entries rely on specialist descriptions or consensus guidance because standalone validation has not been established. Expand and review individual technique pages one at a time, checking original full texts, later replications, conflicting findings and additional techniques before describing their evidence trail as complete.
 
 ## In this folder
+
+- **[Functional Dystonia or Fixed Posturing](04-functional-dystonia.md)** — expanded overview and [pattern-based assessment](functional_dystonia/01-pattern-based-history-and-movement-examination.md). The [inventory](functional_dystonia/technique-inventory.md) preserves ten original entries and adds one dated exploratory method.
 
 - **[Functional Jerks or Myoclonus](03-functional-jerks-and-myoclonus.md)** — expanded overview and [EEG–EMG assessment](functional_jerks_and_myoclonus/01-eeg-emg-and-jerk-locked-back-averaging.md). All nine original entries remain in the [inventory](functional_jerks_and_myoclonus/technique-inventory.md).
 
