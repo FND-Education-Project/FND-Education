@@ -263,6 +263,10 @@ Seven original entries expanded one-to-one. [Collection overview](functional_dro
 - **[Returning to Activities With the Right Support](functional_drop_attacks/06-supported-return-to-activity.md)** — When fear, symptoms or practical barriers have narrowed daily life, choose a meaningful activity and an adequately supported first step. **[Individualized rehabilitation guidance; drop-attack-specific effectiveness uncertain]**
 - **[Keeping Other Conditions in the Care Plan](functional_drop_attacks/07-overlapping-conditions-and-review.md)** — When more than one symptom or event contributes to falls, identify the patterns and give each the assessment and treatment it needs. **[Clinical assessment and coordinated care; treatment response does not establish cause]**
 
+## Special overlap topic
+
+**[Scan-Negative Cauda Equina Presentations](scan-negative-cauda-equina.md)** — recovery and management after appropriate exclusion of compressive cauda equina syndrome. Care is organized by the remaining bladder, bowel, pain, sensory, motor, pelvic-floor, mobility or other findings rather than by assuming one functional mechanism. **[Initial evidence summary; specialist expansion pending]**
+
 ## Alphabetical technique index
 
 **[A Prescriber-Led Medication Discussion for Assessed Globus](functional_swallowing_and_globus/10-globus-medication-review.md)** — Swallowing/globus: Selected people with assessed globus for whom a prescriber judges a medication discussion appropriate. **[Adjacent globus trial evidence; benefit for functional dysphagia is not established]**
