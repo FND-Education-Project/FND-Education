@@ -54,6 +54,10 @@ Each page has a linked **Diagnostic techniques at a glance** section. These are 
 - [Functional paralysis](15-functional-paralysis.md)
 - [Functional drop attacks](16-functional-drop-attacks.md)
 
+## Special overlap topic
+
+- [Scan-Negative Cauda Equina Presentations](scan-negative-cauda-equina.md) — emergency differential and overlap page; a negative compressive scan does not itself diagnose FND, so this page sits outside the 17-presentation diagnostic count.
+
 ## A note for media contributors
 
 The safest demonstrations usually show what a qualified clinician observes and how the observation is interpreted, not instructions for viewers to diagnose themselves. A proposed video or image should include captions or a transcript, avoid identifiable patient material without documented consent, and state what the demonstration cannot prove. Pages involving seizures, swallowing, breathing, falls or visual provocation need clinical review before filming.
