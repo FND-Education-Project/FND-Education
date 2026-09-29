@@ -320,6 +320,7 @@ Use the sections below to drill down into the course, reference library, researc
 - [Functional Facial Symptoms — Spasm, Droop and Weakness](reference/diagnostic-signs/14-functional-facial-symptoms.md)
 - [Functional Paralysis](reference/diagnostic-signs/15-functional-paralysis.md)
 - [Functional Drop Attacks](reference/diagnostic-signs/16-functional-drop-attacks.md)
+- [Scan-Negative Cauda Equina Presentations — diagnostic overlap](reference/diagnostic-signs/scan-negative-cauda-equina.md)
 
 </details>
 
@@ -346,6 +347,7 @@ Use the sections below to drill down into the course, reference library, researc
 - [Recovery Techniques for Functional Facial Symptoms](reference/recovery-techniques/14-functional-facial-symptoms.md)
 - [Recovery Techniques for Functional Paralysis](reference/recovery-techniques/15-functional-paralysis.md)
 - [Recovery and Safety Techniques for Functional Drop Attacks](reference/recovery-techniques/16-functional-drop-attacks.md)
+- [Scan-Negative Cauda Equina Presentations — recovery and management](reference/recovery-techniques/scan-negative-cauda-equina.md)
 
 </details>
 
