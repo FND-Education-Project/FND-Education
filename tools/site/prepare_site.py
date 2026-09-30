@@ -671,6 +671,15 @@ def discover_reference_pages() -> list[ReferencePage]:
                     public_url="/reference/diagnosis/index/",
                     section="diagnosis",
                 )
+            elif len(parts) == 2 and parts[1] == "scan-negative-cauda-equina.md":
+                # Unnumbered overlap page, outside the 17 symptom categories.
+                page = ReferencePage(
+                    source=source,
+                    kind="diagnostic-overview",
+                    public_url="/reference/scan-negative-cauda-equina/diagnosis/",
+                    section="diagnosis",
+                    symptom_slug="scan-negative-cauda-equina",
+                )
             elif len(parts) == 2:
                 number, slug = numbered_slug(source)
                 page = ReferencePage(
@@ -737,6 +746,15 @@ def discover_reference_pages() -> list[ReferencePage]:
                     kind="recovery-index",
                     public_url="/reference/recovery/index/",
                     section="recovery",
+                )
+            elif len(parts) == 2 and parts[1] == "scan-negative-cauda-equina.md":
+                # Unnumbered overlap page, outside the 17 symptom categories.
+                page = ReferencePage(
+                    source=source,
+                    kind="recovery-overview",
+                    public_url="/reference/scan-negative-cauda-equina/recovery/",
+                    section="recovery",
+                    symptom_slug="scan-negative-cauda-equina",
                 )
             elif len(parts) == 2:
                 number, slug = numbered_slug(source)

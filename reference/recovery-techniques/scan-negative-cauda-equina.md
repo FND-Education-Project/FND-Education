@@ -18,7 +18,8 @@
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## For the Person With FND
 
@@ -37,11 +38,27 @@ A useful plan may include some of the following:
 
 The aim is not to prove whether symptoms are “structural” or “functional” through treatment response. Different parts of the presentation can have different mechanisms.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+
+---
+
 ## For Family, Friends, and Other Supporters
 
 Help the person follow the plan that was actually agreed for bladder care, mobility, pain, transfers and medical follow-up. Assistance with toileting or mobility may still be necessary even when imaging did not show cauda equina compression.
 
 Do not pressure the person to test leg strength, delay toileting, reduce equipment or ignore bladder/bowel changes in order to demonstrate recovery. If the pattern changes significantly, help them obtain reassessment.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+
+---
 
 ## For Clinicians and the Care Team
 
@@ -69,7 +86,8 @@ A previous negative scan answers a previous clinical question. It does not guara
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## Research and Sources
 
@@ -83,6 +101,13 @@ Direct treatment evidence for a distinct scan-negative cauda equina rehabilitati
 *Starter page added September 29, 2026 · neurourology, pelvic-floor, spine, pain, rehabilitation, lived-experience and accessibility review pending*
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+
+---
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Diagnostic Overview of Scan-Negative Cauda Equina Presentations](../diagnostic-signs/scan-negative-cauda-equina.md)
 

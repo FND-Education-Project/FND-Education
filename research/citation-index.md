@@ -2029,3 +2029,16 @@ One-person rehabilitation case report with clinician and patient-reported measur
 - [04-functional-dystonia](../reference/diagnostic-signs/04-functional-dystonia.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0021](#fnd-cit-0021), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0136](#fnd-cit-0136), [FND-CIT-0142](#fnd-cit-0142), [FND-CIT-0149](#fnd-cit-0149), [FND-CIT-0158](#fnd-cit-0158), [FND-CIT-0171](#fnd-cit-0171), [FND-CIT-0227](#fnd-cit-0227), [FND-CIT-0228](#fnd-cit-0228), [FND-CIT-0229](#fnd-cit-0229), [FND-CIT-0230](#fnd-cit-0230), [FND-CIT-0231](#fnd-cit-0231).
 - [01-pattern-based-history-and-movement-examination](../reference/diagnostic-signs/functional_dystonia/01-pattern-based-history-and-movement-examination.md): [FND-CIT-0021](#fnd-cit-0021), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0136](#fnd-cit-0136), [FND-CIT-0142](#fnd-cit-0142), [FND-CIT-0227](#fnd-cit-0227), [FND-CIT-0228](#fnd-cit-0228), [FND-CIT-0229](#fnd-cit-0229), [FND-CIT-0230](#fnd-cit-0230).
 - [technique-inventory](../reference/diagnostic-signs/functional_dystonia/technique-inventory.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0021](#fnd-cit-0021), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0136](#fnd-cit-0136), [FND-CIT-0142](#fnd-cit-0142), [FND-CIT-0149](#fnd-cit-0149), [FND-CIT-0158](#fnd-cit-0158), [FND-CIT-0171](#fnd-cit-0171), [FND-CIT-0229](#fnd-cit-0229).
+
+## FND-CIT-0232
+
+Issak S, Williams G, Kanaan RA, Fini NA, Nielsen G. Self-Reported Motor and Non-Motor Symptoms in People With Functional Gait Disorder: A Cross-Sectional Study. *Brain and Behavior*. 2025;15(2):e70208. [DOI](https://doi.org/10.1002/brb3.70208). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11802242/).
+
+Cross-sectional online survey of 156 people reporting medically diagnosed FND and altered walking. Self-selected, self-reported eligibility and symptoms; nonambulant people excluded. Associations with participation and quality of life do not establish causes. Full text checked September 30, 2026.
+
+### Current uses in the gait diagnostic expansion
+
+- [05-functional-gait-disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md): [FND-CIT-0020](#fnd-cit-0020), [FND-CIT-0117](#fnd-cit-0117), [FND-CIT-0127](#fnd-cit-0127), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0132](#fnd-cit-0132), [FND-CIT-0143](#fnd-cit-0143), [FND-CIT-0145](#fnd-cit-0145), [FND-CIT-0160](#fnd-cit-0160), [FND-CIT-0181](#fnd-cit-0181), [FND-CIT-0232](#fnd-cit-0232).
+- [01-sign-based-gait-comparison](../reference/diagnostic-signs/functional_gait_disorder/01-sign-based-gait-comparison.md): [FND-CIT-0020](#fnd-cit-0020), [FND-CIT-0132](#fnd-cit-0132).
+- [02-swivel-chair-assessment](../reference/diagnostic-signs/functional_gait_disorder/02-swivel-chair-assessment.md): [FND-CIT-0127](#fnd-cit-0127), [FND-CIT-0181](#fnd-cit-0181).
+- [technique-inventory](../reference/diagnostic-signs/functional_gait_disorder/technique-inventory.md): [FND-CIT-0020](#fnd-cit-0020), [FND-CIT-0117](#fnd-cit-0117), [FND-CIT-0127](#fnd-cit-0127), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0132](#fnd-cit-0132), [FND-CIT-0143](#fnd-cit-0143), [FND-CIT-0145](#fnd-cit-0145), [FND-CIT-0160](#fnd-cit-0160), [FND-CIT-0181](#fnd-cit-0181).

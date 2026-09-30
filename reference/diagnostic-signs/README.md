@@ -14,7 +14,11 @@ Each symptom page now includes a **Diagnostic techniques at a glance** inventory
 
 **Staged review:** The September 19, 2026 baseline inventory contains 170 entries across the 17 pages. The September 29 dystonia update adds one separately dated research entry, bringing the current catalogue to 171 entries; this does not change the historical baseline. It is a broad starting inventory, not a completed systematic review of every technique and every replication. Primary studies are cited where identified; some entries rely on specialist descriptions or consensus guidance because standalone validation has not been established. Expand and review individual technique pages one at a time, checking original full texts, later replications, conflicting findings and additional techniques before describing their evidence trail as complete.
 
+**Expansion progress:** Initial drafts now cover **5 of the original 17 symptom sets**, leaving **12**. The scan-negative cauda equina starter is a separate pending overlap page. This counts initial symptom expansions, not completion of every inventory technique or human review. See the [running tracker](../../docs/project/diagnostic-expansion-progress.md).
+
 ## In this folder
+
+- **[Functional Gait Disorder](05-functional-gait-disorder.md)** — expanded overview, [sign-based comparison](functional_gait_disorder/01-sign-based-gait-comparison.md), [swivel-chair assessment](functional_gait_disorder/02-swivel-chair-assessment.md) and the preserved [thirteen-entry inventory](functional_gait_disorder/technique-inventory.md).
 
 - **[Functional Dystonia or Fixed Posturing](04-functional-dystonia.md)** — expanded overview and [pattern-based assessment](functional_dystonia/01-pattern-based-history-and-movement-examination.md). The [inventory](functional_dystonia/technique-inventory.md) preserves ten original entries and adds one dated exploratory method.
 

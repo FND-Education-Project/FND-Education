@@ -22,7 +22,8 @@
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## For the Person With FND
 
@@ -32,11 +33,27 @@ That does **not** mean the symptoms were imaginary, and it does not by itself pr
 
 If a clinician thinks part of the presentation is functional, that conclusion should rest on positive evidence from the neurological examination or another appropriate assessment. A normal or non-compressive MRI alone is not a positive FND sign.
 
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+
+---
+
 ## For Family, Friends, and Other Supporters
 
 Take new bladder, bowel, saddle-sensation or major leg changes seriously, even when the person has had a previous scan-negative episode.
 
 After an emergency cause has been assessed, practical support may include help with mobility, toileting, transport, pain management, appointments and following the agreed bladder or rehabilitation plan. Do not assume that reassurance, distraction or psychological treatment is the correct response simply because imaging did not show cauda equina compression.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+
+---
 
 ## For Clinicians and the Care Team
 
@@ -71,7 +88,8 @@ A functional formulation should identify the positive evidence for the functiona
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## Research and Sources
 
@@ -85,6 +103,13 @@ The main source currently used by this starter page is the retrospective cohort 
 *Starter page added September 29, 2026 · spinal-surgery, emergency medicine, neurourology, pelvic-floor, neurology, lived-experience and accessibility review pending*
 
 ***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+
+---
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Recovery and Management for Scan-Negative Cauda Equina Presentations](../recovery-techniques/scan-negative-cauda-equina.md)
 
