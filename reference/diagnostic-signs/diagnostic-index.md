@@ -41,7 +41,7 @@ Each page has a linked **Diagnostic techniques at a glance** section. These are 
 - [Functional jerks or myoclonus](03-functional-jerks-and-myoclonus.md) — [EEG–EMG assessment](functional_jerks_and_myoclonus/01-eeg-emg-and-jerk-locked-back-averaging.md); [nine-entry inventory](functional_jerks_and_myoclonus/technique-inventory.md).
 - [Functional tics and tic-like symptoms — motor and vocal/phonic](17-functional-tics-and-tic-like-symptoms.md) (presentation 17; specialist pattern assessment)
 - [Functional dystonia or fixed posturing](04-functional-dystonia.md) — [pattern-based assessment](functional_dystonia/01-pattern-based-history-and-movement-examination.md); [inventory with dated research addition](functional_dystonia/technique-inventory.md).
-- [Functional gait disorder](05-functional-gait-disorder.md)
+- [Functional gait disorder](05-functional-gait-disorder.md) — [sign-based comparison](functional_gait_disorder/01-sign-based-gait-comparison.md); [swivel-chair assessment](functional_gait_disorder/02-swivel-chair-assessment.md); [thirteen-entry inventory](functional_gait_disorder/technique-inventory.md).
 - [Functional seizures](06-functional-seizures.md)
 - [Functional sensory symptoms](07-functional-sensory-symptoms.md)
 - [Functional visual symptoms](08-functional-visual-symptoms.md)

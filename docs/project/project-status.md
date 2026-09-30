@@ -10,6 +10,10 @@
 
 The repository contains all 97 course pages: 23 module overviews and 74 focused pages. Parts One through Six (Modules 1–23) contain reader-facing working drafts. Pages edited by the project lead are identified separately; the other pages remain clearly labelled as automatically generated. All temporary drafts require human writing or review, evidence checking, safety review and accessibility review.
 
+## Diagnostic expansion progress
+
+As of September 30, 2026, five of the original seventeen symptom sets have initial expansion drafts; twelve remain, beginning with functional seizures. A separate scan-negative cauda equina overlap starter also awaits expansion. These counts do not mean every individual diagnostic method has been fully reviewed. See the [running tracker](diagnostic-expansion-progress.md) and [gait implementation record](functional-gait-diagnostic-expansion.md). Gait is prepared for review; human and clinical approval remain pending.
+
 ## Completed foundation work
 
 - Expanded the next diagnostic symptom, functional tremor, on September 27, 2026: one revised symptom overview, two detailed diagnostic comparisons (distractibility and entrainment), and the preserved twelve-entry inventory. Added sources FND-CIT-0220–0224, including the 2026 evidence synthesis. See the [implementation and review record](functional-tremor-diagnostic-expansion.md). No new symptom category or recovery technique was added; all branches remain for review.

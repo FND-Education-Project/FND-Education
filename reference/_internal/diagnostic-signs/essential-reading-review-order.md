@@ -407,7 +407,11 @@ Read the overview sources above, then the following additions before assessing t
 
 ## 5. Functional Gait Disorder
 
-**Page to review:** [Functional Gait Disorder](../../diagnostic-signs/05-functional-gait-disorder.md)
+**Pages to review:** [Functional Gait Disorder](../../diagnostic-signs/05-functional-gait-disorder.md) → [sign-based comparison](../../diagnostic-signs/functional_gait_disorder/01-sign-based-gait-comparison.md) → [swivel-chair assessment](../../diagnostic-signs/functional_gait_disorder/02-swivel-chair-assessment.md) → [preserved inventory](../../diagnostic-signs/functional_gait_disorder/technique-inventory.md).
+
+**Access record — September 30, 2026:** Nonnekes 2020, Lagrand 2024 and Issak 2025 checked in full; Okun 2007 and Gandolfi 2023 checked at primary-abstract level. Fresh full-text review of the other inherited inventory papers remains pending. This is a targeted update, not a completed systematic review. Human-review boxes remain unchecked.
+
+- [ ] Issak S, Williams G, Kanaan RA, Fini NA, Nielsen G. Self-Reported Motor and Non-Motor Symptoms in People With Functional Gait Disorder: A Cross-Sectional Study. *Brain and Behavior*. 2025;15(2):e70208. [DOI](https://doi.org/10.1002/brb3.70208). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11802242/). Read eligibility, self-selection, exclusion of nonambulant people and the limits of cross-sectional associations. This supports daily-function context, not a psychological-cause inference.
 
 ### Read first — symptom-level evidence
 

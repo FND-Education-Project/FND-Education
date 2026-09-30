@@ -311,6 +311,9 @@ Use the sections below to drill down into the course, reference library, researc
 - [Pattern-Based Assessment for Functional Dystonia](reference/diagnostic-signs/functional_dystonia/01-pattern-based-history-and-movement-examination.md)
 - [Functional Dystonia: Diagnostic Technique Inventory](reference/diagnostic-signs/functional_dystonia/technique-inventory.md)
 - [Functional Gait Disorder](reference/diagnostic-signs/05-functional-gait-disorder.md)
+- [Sign-Based Gait Comparison](reference/diagnostic-signs/functional_gait_disorder/01-sign-based-gait-comparison.md)
+- [Swivel-Chair Assessment](reference/diagnostic-signs/functional_gait_disorder/02-swivel-chair-assessment.md)
+- [Functional Gait Disorder: Diagnostic Technique Inventory](reference/diagnostic-signs/functional_gait_disorder/technique-inventory.md)
 - [Functional Seizures](reference/diagnostic-signs/06-functional-seizures.md)
 - [Functional Sensory Symptoms](reference/diagnostic-signs/07-functional-sensory-symptoms.md)
 - [Functional Visual Symptoms](reference/diagnostic-signs/08-functional-visual-symptoms.md)
@@ -739,6 +742,8 @@ Use the sections below to drill down into the course, reference library, researc
 - [Functional tremor diagnostic expansion record](docs/project/functional-tremor-diagnostic-expansion.md)
 - [Functional jerks diagnostic expansion record](docs/project/functional-jerks-diagnostic-expansion.md)
 - [Functional dystonia diagnostic expansion record](docs/project/functional-dystonia-diagnostic-expansion.md)
+- [Functional gait diagnostic expansion record](docs/project/functional-gait-diagnostic-expansion.md)
+- [Diagnostic expansion progress](docs/project/diagnostic-expansion-progress.md)
 
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](README.md) · [Course](course/README.md) · [Reference Library](reference/README.md) · [Site Map](SITEMAP.md)

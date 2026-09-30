@@ -4,86 +4,56 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Gait Disorder**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Automatically generated working draft — September 30, 2026.** Human, neurology, physiotherapy and accessibility review pending.
 
-**Refers to:**
+## Quick Reference
 
-- dragging, knee buckling, hesitant or very slow walking;
-- swaying, crouching, unusual balance strategies or an astasia–abasia pattern; and
-- a functional movement pattern expressed mainly during standing or walking.
+**Functional gait disorder** is an involuntary difficulty with walking in which positive clinical findings support altered movement control. Legs may drag, knees may give way, steps may hesitate, or balance may feel unreliable. Appearance alone cannot identify the cause.
 
 **Scope boundary:** Primary limb weakness also belongs on the [weakness page](01-functional-limb-weakness.md), complete movement loss on the [paralysis page](15-functional-paralysis.md), a sudden fall without definite blackout on the [drop-attacks page](16-functional-drop-attacks.md), and persistent dizziness on the [PPPD page](13-persistent-postural-perceptual-dizziness.md). Gait comparisons apply only when standing and walking can be assessed safely.
 
-**Featured technique:** Sign-based gait comparison across several safe walking tasks.  
-**Diagnostic method:** Identify reproducible inconsistency or incongruity rather than diagnosing from an unusual-looking gait alone.  
-**Media needed:** One continuous, safely spotted walking sequence from more than one angle.
-
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+- **[Sign-based gait comparison](functional_gait_disorder/01-sign-based-gait-comparison.md):** selected, guarded walking tasks help a clinician assess a meaningful mismatch in the movement pattern. This is a clinical approach, not one scored test.
+- **[Swivel-chair assessment](functional_gait_disorder/02-swivel-chair-assessment.md):** an optional comparison of walking with seated leg propulsion. Many people with functional gait disorder do not show this sign.
+- **[Original 13-entry inventory](functional_gait_disorder/technique-inventory.md):** includes observations, comparisons and research investigations; not thirteen independently validated tests.
 
 ## Diagnostic techniques at a glance
 
-These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
+The original descriptions and citations have moved to the inventory. These links preserve earlier section destinations. Not everyone needs every comparison.
 
-The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
-
-### Knee buckling with preserved support
-
-The clinician compares visible knee yielding with demonstrated leg strength and balance. A mismatch can support functional gait disorder, but negative myoclonus, pain and other causes can also buckle knees. Never withdraw support to see whether someone falls. (*citations* [1](#citation-1), [2](#citation-2))
-
-### Dragging and uneconomic postures
-
-The examiner describes dragging, excessive slowness or energy-demanding postures and compares them with strength and balance. These are phenotype clues, not diagnostic shapes: dystonia, spasticity and other disorders may look unusual. (*citations* [1](#citation-1), [3](#citation-3))
-
-### Cautious “walking on ice” pattern
-
-A wide-based, hesitant gait with unexpected preservation of balance can contribute to a functional assessment. Fear of falling and vestibular or sensory disease can produce similar caution. The clinician must show the actual inconsistency rather than diagnose from appearance. (*citations* [1](#citation-1), [3](#citation-3))
-
-### Dual-task walking
-
-Walking is compared with walking while carrying out another safe task. Unexpected improvement may support a functional pattern. Other disorders can also respond to attention or cueing; instrumented research is promising but not a universal diagnostic rule. (*citations* [1](#citation-1), [4](#citation-4))
-
-### Backward walking
-
-A safely guarded comparison may reveal substantially better movement backward than forward. This is a supportive observation, not a standalone test, because task-specific dystonia and other gait disorders may also improve backward. (*citations* [1](#citation-1))
-
-### Running or another automatic movement
-
-Only when safe and clinically appropriate, a different movement may reveal capacity absent during ordinary walking. Improvement is an observation to explain, not proof or a requirement. Many patients cannot safely undertake such comparisons. (*citations* [1](#citation-1))
-
-### Rhythm and externally cued walking
-
-A clinician compares gait with a tolerable external rhythm or cue. Improvement may show task-dependent access to movement but is not specific: Parkinsonian freezing and other disorders can respond too. (*citations* [1](#citation-1))
-
-### Tandem gait
-
-Guarded heel-to-toe walking may reveal preserved balance despite apparent instability in ordinary walking. Unusual compensatory movements require context. This comparison must not expose someone to a fall and has no universal standalone accuracy estimate. (*citations* [1](#citation-1), [2](#citation-2))
-
-### Romberg comparison
-
-A supported standing assessment compares balance with eyes open and closed. Disproportionate sway without the expected loss of balance can be informative, but sensory or vestibular disease also changes performance. The examiner must be ready to prevent falling. (*citations* [1](#citation-1), [2](#citation-2))
-
-### Postural-response comparison
-
-A clinician may compare responses to a carefully controlled balance challenge with ordinary transfers or walking. Inconsistency can be supportive; musculoskeletal limits and neurological postural impairment remain relevant. This is a guarded clinical examination, never a home push test. (*citations* [1](#citation-1))
-
-### Swivel-chair test
-
-The person’s ability to propel a wheeled chair with their legs is compared with walking. Original research and later blinded testing support cautious use; low sensitivity means many functional gait disorders will not show the sign. Chair mobility does not prove safe walking. (*citations* [5](#citation-5), [6](#citation-6))
-
-### Effort-associated behaviour (“huffing and puffing”)
-
-A video study examined marked effort-related sounds and expressions during standing and walking. Such behaviour can be supportive within a wider pattern, but pain, breathlessness and distress must be considered. It is neither evidence of pretence nor required for diagnosis. (*citations* [7](#citation-7))
-
-### Instrumented balance and adaptation studies
-
-Posturography and moving-platform research assess sway and gait adaptation under controlled conditions. These are specialist or research approaches with limited generalisability; group differences do not yet supply a routine individual diagnostic test. (*citations* [8](#citation-8), [9](#citation-9))
+<a id="knee-buckling-with-preserved-support"></a>
+- [Knee buckling with preserved support](functional_gait_disorder/technique-inventory.md#knee-buckling-with-preserved-support)
+<a id="dragging-and-uneconomic-postures"></a>
+- [Dragging and uneconomic postures](functional_gait_disorder/technique-inventory.md#dragging-and-uneconomic-postures)
+<a id="cautious-walking-on-ice-pattern"></a>
+- [Cautious “walking on ice” pattern](functional_gait_disorder/technique-inventory.md#cautious-walking-on-ice-pattern)
+<a id="dual-task-walking"></a>
+- [Dual-task walking](functional_gait_disorder/technique-inventory.md#dual-task-walking)
+<a id="backward-walking"></a>
+- [Backward walking](functional_gait_disorder/technique-inventory.md#backward-walking)
+<a id="running-or-another-automatic-movement"></a>
+- [Running or another automatic movement](functional_gait_disorder/technique-inventory.md#running-or-another-automatic-movement)
+<a id="rhythm-and-externally-cued-walking"></a>
+- [Rhythm and externally cued walking](functional_gait_disorder/technique-inventory.md#rhythm-and-externally-cued-walking)
+<a id="tandem-gait"></a>
+- [Tandem gait](functional_gait_disorder/technique-inventory.md#tandem-gait)
+<a id="romberg-comparison"></a>
+- [Romberg comparison](functional_gait_disorder/technique-inventory.md#romberg-comparison)
+<a id="postural-response-comparison"></a>
+- [Postural-response comparison](functional_gait_disorder/technique-inventory.md#postural-response-comparison)
+<a id="swivel-chair-test"></a>
+- [Swivel-chair test](functional_gait_disorder/technique-inventory.md#swivel-chair-test)
+<a id="effort-associated-behaviour-huffing-and-puffing"></a>
+- [Effort-associated behaviour (“huffing and puffing”)](functional_gait_disorder/technique-inventory.md#effort-associated-behaviour-huffing-and-puffing)
+<a id="instrumented-balance-and-adaptation-studies"></a>
+- [Instrumented balance and adaptation studies](functional_gait_disorder/technique-inventory.md#instrumented-balance-and-adaptation-studies)
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## For the Person With FND
 
@@ -99,12 +69,30 @@ Functional gait difficulty may be present most of the time, fluctuate over a day
 
 If a familiar gait problem starts suddenly, preventing a fall comes first. Stop before continuing into an unsafe step, use the usual wall, rail, seat, mobility aid or trained supporter, and reduce extra tasks or stimulation if that is part of the person’s plan. Once safe, use one gait cue already practised with rehabilitation—such as an external target or rhythm—rather than trying multiple difficult walking tests. New inability to walk, new one-sided weakness, severe dizziness or another changed neurological pattern needs reassessment.
 
+
+### What the examination is trying to understand
+
+Walking usually happens without having to plan each muscle contraction. Functional gait disorder can make that familiar activity unreliable. Changing a task gives the clinician another view of how movement is working; it is not a challenge to prove yourself. Ask them to show you which comparison matters and explain why other causes do not account for it.
+
+> **Internal inconsistency:** A meaningful mismatch between related functions in the examination. Ordinary good days and bad days are not enough to establish it.
+
+A scan may investigate another suspected cause, but a normal scan does not itself diagnose functional gait disorder. Another neurological or joint condition can coexist. Anxiety, trauma or stress need not be present for a positive diagnosis. (*citations* [1](#citation-1))
+
+### Walking in the clinic and living your life
+
+A short walk down a quiet corridor leaves many questions unanswered. Can you get to the bathroom at night, negotiate a kerb, carry something, or repeat the distance after lunch? How much help do you need, and how long does it take to recover? Bring those details to the assessment, even if your walking looks better during the appointment.
+
+A 2025 online survey of 156 people reporting FND with walking difficulties found substantial effects on work, social life and quality of life. Pain, fatigue and emotional symptoms were among the associated difficulties. This does not show that mood caused the gait disorder or describe everyone's experience. (*citations* [10](#citation-10))
+
+A helpful care plan records both the diagnostic findings and your actual mobility needs. Physiotherapy and occupational therapy can assess the routes, activities, equipment and assistance that matter to you. See [assessment and everyday function](../diagnostic-concepts/10-assessment-and-everyday-function.md) and the separate [gait recovery techniques](../recovery-techniques/05-functional-gait-disorder.md).
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## For Family, Friends, and Other Supporters
 
@@ -116,12 +104,20 @@ A person may walk relatively well in one setting and suddenly need an aid, seat 
 
 Afterward, useful details include the environment, walking task, other symptoms, duration, falls or near-falls, and what helped the person resume safe movement.
 
+
+### Helping the assessment reflect ordinary life
+
+With the person's agreement, bring a short account of their usual distances, aids, assistance and recovery time. Describe what you observed rather than interpreting whether they were trying. A video already recorded safely may help with an intermittent problem; do not provoke an episode to obtain one.
+
+Leave room for the person to describe their experience. Afterward, ask what the examination established, what remains uncertain, and whether there is a separate plan for falls, equipment and getting around outside the clinic. A diagnosis does not by itself answer those practical questions.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## For Clinicians and the Care Team
 
@@ -131,66 +127,71 @@ Document baseline walking as well as episodes: onset, frequency, duration, warni
 
 When appropriate, review safely obtained video from the person’s usual environment. Translate positive gait transformations found in examination into a brief flare plan that starts with fall prevention and uses a previously successful rhythm, direction, external target or automatic stepping strategy only when it is safe for that person.
 
+### Differential, coexistence and investigations
+
+Describe the gait before assigning a cause. Consider weakness, sensory loss, cerebellar or vestibular dysfunction, parkinsonism and freezing, dystonia, negative myoclonus, pain, joint disease and medication effects as appropriate to the history and examination. Several can coexist with a functional component. Task-dependent improvement can also occur in other movement disorders. (*citations* [1](#citation-1))
+
+> **Negative myoclonus:** Brief interruptions of muscle activity that can cause a limb to give way. **Freezing:** A brief difficulty starting or continuing movement despite the intention to move.
+
+Choose imaging, nerve studies or vestibular assessment to answer a specific unresolved question; they are not a universal battery for this diagnosis. Record what the positive findings explain and what they leave unexplained. New neurological deficits, injury or a substantially changed gait need reassessment.
+
 ### Technique outline: sign-based gait comparison
 
-1. Obtain the history and complete a neurological, vestibular and musculoskeletal assessment appropriate to the presentation before interpreting gait variation.
-2. Prepare a clear walkway with a trained spotter, gait belt when indicated, and the person’s usual aid. Do not remove an aid merely to make the sign more visible.
-3. Record comfortable forward walking first. Note base, step length, rhythm, knee control, foot placement, trunk movement, arm swing and recovery from imbalance.
-4. Select only safe comparison tasks relevant to the observed pattern. These may include a change in speed, backward walking, tandem walking, rhythmic cueing, a dual task or—in a person for whom it is genuinely safe—brief running.
-5. Look for a reproducible change that is internally inconsistent with the baseline pattern or incongruent with recognized neurological gait disorders. An improvement during a more demanding task may be especially informative, but is not universal.
-6. Consider fear of falling, pain, fatigue, footwear, environment, medication and coexisting disease. An unusual or dramatic gait is not automatically functional.
-7. Explain any positive sign collaboratively and, where useful, connect the improved condition to physiotherapy rather than treating it only as a diagnostic observation.
+The original seven-step outline is preserved in the [detailed comparison page](functional_gait_disorder/01-sign-based-gait-comparison.md#performing-the-assessment), with preparation, definitions, interpretation and evidence limits. The [chair assessment](functional_gait_disorder/02-swivel-chair-assessment.md) has its own source-based protocol and accuracy discussion.
+
+### Documenting diagnosis and function separately
+
+Record the exact tasks, usual aid, assistance, pain, fatigue, observed change and competing explanations. Avoid a bare statement such as “better with distraction.” Explain the comparison to the patient and record their understanding and remaining questions.
+
+Ask about repeated walking, stairs, uneven ground, time pressure, visual/cognitive demands, near-falls and recovery afterward. Nursing, rehabilitation and occupational assessments may reveal support needs that a neurological examination cannot measure. A better brief performance does not justify withdrawing assistance. Ask about wellbeing as part of care, without making a psychiatric history a prerequisite for diagnosis. The gait-specific survey supports broad assessment but cannot identify causes or individual prognosis. (*citations* [10](#citation-10))
 
 ### Media contributor brief
 
-Film the same short walkway in this order:
-
-1. Forward walking at the person’s comfortable pace.
-2. One selected comparison task.
-3. A second comparison only if clinically useful and safe.
-4. A clinician summary explaining the observed change.
-
-Use a wide side view and a front or rear view, but show the complete uninterrupted pass before any close-up. Keep the usual aid and safety person visible. Do not stage a fall, ask for repeated knee buckling or use slow motion to sensationalize the gait. Captions should identify the task and observed change, not diagnose from appearance alone.
+The original filming sequence and safeguards are retained on the [comparison page](functional_gait_disorder/01-sign-based-gait-comparison.md#media-and-accessibility). No patient footage or attributed lived-experience quotation has been added.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## Research and Sources
 
 ### Evidence notes
 
-- The sign-based review organizes supportive functional gait findings into gait patterns, shows comparison tasks with clinical videos and repeatedly emphasizes pitfalls and coexisting neurological disease. (*citations* [1](#citation-1))
+- The sign-based review provides clinical reasoning and pitfalls, rather than a validated accuracy figure for an entire gait examination. (*citations* [1](#citation-1))
+- The chair-sign study used blinded video raters and found limited sensitivity. See the [detailed evidence](functional_gait_disorder/02-swivel-chair-assessment.md#evidence-and-limitations); a negative result cannot rule out functional gait disorder. (*citations* [6](#citation-6))
+- The 2025 survey recruited online and relied on self-reported eligibility and symptoms; nonambulant people were excluded. Its cross-sectional associations cannot establish causation, and its selected sample does not represent every person with functional gait disorder. (*citations* [10](#citation-10))
+
+Targeted update: September 30, 2026. Full text checked for the sign-based review, 2024 chair study and 2025 survey; primary abstracts checked for the original chair and dual-task studies. Fresh full-text review of every inherited inventory source remains pending. The inventory retains its nine original citation numbers below.
 
 ### Citation table
 
-| Citation | Full citation |
-|---|---|
-| <a id="citation-1"></a>**[1]** | Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. [FND-CIT-0020](../../research/citation-index.md#fnd-cit-0020). [https://doi.org/10.1212/WNL.0000000000009649](https://doi.org/10.1212/WNL.0000000000009649) |
-
-| <a id="citation-2"></a>**[2]** | Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of bedside 'positive signs' for functional weakness, sensory and gait disorders in conversion disorder: a pilot study. *Journal of neurology, neurosurgery, and psychiatry*. 2015;86(4):425-430. [DOI](https://doi.org/10.1136/jnnp-2013-307381). [PMID: 24994927](https://pubmed.ncbi.nlm.nih.gov/24994927/). [FND-CIT-0130](../../research/citation-index.md#fnd-cit-0130). |
-| <a id="citation-3"></a>**[3]** | Hayes MW, Graham S, Heldorf P, et al. A video review of the diagnosis of psychogenic gait: appendix and commentary. *Movement disorders : official journal of the Movement Disorder Society*. 1999;14(6):914-921. [DOI](https://doi.org/10.1002/1531-8257%28199911%2914:6%3C914::aid-mds1002%3E3.0.co;2-b). [PMID: 10584664](https://pubmed.ncbi.nlm.nih.gov/10584664/). [FND-CIT-0143](../../research/citation-index.md#fnd-cit-0143). |
-| <a id="citation-4"></a>**[4]** | Gandolfi M, Fiorio M, Geroin C, et al. Dual tasking affects gait performance but not automaticity in functional gait disorders: A new diagnostic biomarker. *Parkinsonism & related disorders*. 2023;108:105291. [DOI](https://doi.org/10.1016/j.parkreldis.2023.105291). [PMID: 36764083](https://pubmed.ncbi.nlm.nih.gov/36764083/). [FND-CIT-0132](../../research/citation-index.md#fnd-cit-0132). |
-| <a id="citation-5"></a>**[5]** | Okun MS, Rodriguez RL, Foote KD, Fernandez HH. The "chair test" to aid in the diagnosis of psychogenic gait disorders. *The neurologist*. 2007;13(2):87-91. [DOI](https://doi.org/10.1097/01.nrl.0000256358.52613.cc). [PMID: 17351529](https://pubmed.ncbi.nlm.nih.gov/17351529/). [FND-CIT-0127](../../research/citation-index.md#fnd-cit-0127). |
-| <a id="citation-6"></a>**[6]** | Lagrand TJ, Brusse-Keizer M, Charmley A, et al. A Critical Appraisal of the Whack-a-Mole and Swivel Chair Signs in the Diagnosis of Functional Movement Disorders. *Movement disorders clinical practice*. 2024;11(1):63-68. [DOI](https://doi.org/10.1002/mdc3.13895). [PMID: 38291841](https://pubmed.ncbi.nlm.nih.gov/38291841/). [FND-CIT-0181](../../research/citation-index.md#fnd-cit-0181). |
-| <a id="citation-7"></a>**[7]** | Laub HN, Dwivedi AK, Revilla FJ, et al. Diagnostic performance of the "Huffing and Puffing" sign in psychogenic (functional) movement disorders. *Movement disorders clinical practice*. 2015;2(1):29-32. [DOI](https://doi.org/10.1002/mdc3.12102). [PMID: 25961068](https://pubmed.ncbi.nlm.nih.gov/25961068/). [FND-CIT-0145](../../research/citation-index.md#fnd-cit-0145). |
-| <a id="citation-8"></a>**[8]** | Wolfsegger T, Pischinger B, Topakian R. Objectification of psychogenic postural instability by trunk sway analysis. *Journal of the neurological sciences*. 2013;334(1-2):14-17. [DOI](https://doi.org/10.1016/j.jns.2013.07.006). [PMID: 23932398](https://pubmed.ncbi.nlm.nih.gov/23932398/). [FND-CIT-0160](../../research/citation-index.md#fnd-cit-0160). |
-| <a id="citation-9"></a>**[9]** | Lin D, Castro P, Edwards A, et al. Dissociated motor learning and de-adaptation in patients with functional gait disorders. *Brain : a journal of neurology*. 2020;143(8):2594-2606. [DOI](https://doi.org/10.1093/brain/awaa190). [PMID: 32779724](https://pubmed.ncbi.nlm.nih.gov/32779724/). [FND-CIT-0117](../../research/citation-index.md#fnd-cit-0117). |
-
-*Technique outline created: August 24, 2026 · Neurology, physiotherapy and falls-safety review pending*
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | — | Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. [FND-CIT-0020](../../research/citation-index.md#fnd-cit-0020). [https://doi.org/10.1212/WNL.0000000000009649](https://doi.org/10.1212/WNL.0000000000009649) |
+| <a id="citation-2"></a>**[2]** | — | Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of bedside 'positive signs' for functional weakness, sensory and gait disorders in conversion disorder: a pilot study. *Journal of neurology, neurosurgery, and psychiatry*. 2015;86(4):425-430. [DOI](https://doi.org/10.1136/jnnp-2013-307381). [PMID: 24994927](https://pubmed.ncbi.nlm.nih.gov/24994927/). [FND-CIT-0130](../../research/citation-index.md#fnd-cit-0130). |
+| <a id="citation-3"></a>**[3]** | — | Hayes MW, Graham S, Heldorf P, et al. A video review of the diagnosis of psychogenic gait: appendix and commentary. *Movement disorders : official journal of the Movement Disorder Society*. 1999;14(6):914-921. [DOI](https://doi.org/10.1002/1531-8257%28199911%2914:6%3C914::aid-mds1002%3E3.0.co;2-b). [PMID: 10584664](https://pubmed.ncbi.nlm.nih.gov/10584664/). [FND-CIT-0143](../../research/citation-index.md#fnd-cit-0143). |
+| <a id="citation-4"></a>**[4]** | — | Gandolfi M, Fiorio M, Geroin C, et al. Dual tasking affects gait performance but not automaticity in functional gait disorders: A new diagnostic biomarker. *Parkinsonism & related disorders*. 2023;108:105291. [DOI](https://doi.org/10.1016/j.parkreldis.2023.105291). [PMID: 36764083](https://pubmed.ncbi.nlm.nih.gov/36764083/). [FND-CIT-0132](../../research/citation-index.md#fnd-cit-0132). |
+| <a id="citation-5"></a>**[5]** | — | Okun MS, Rodriguez RL, Foote KD, Fernandez HH. The "chair test" to aid in the diagnosis of psychogenic gait disorders. *The neurologist*. 2007;13(2):87-91. [DOI](https://doi.org/10.1097/01.nrl.0000256358.52613.cc). [PMID: 17351529](https://pubmed.ncbi.nlm.nih.gov/17351529/). [FND-CIT-0127](../../research/citation-index.md#fnd-cit-0127). |
+| <a id="citation-6"></a>**[6]** | — | Lagrand TJ, Brusse-Keizer M, Charmley A, et al. A Critical Appraisal of the Whack-a-Mole and Swivel Chair Signs in the Diagnosis of Functional Movement Disorders. *Movement disorders clinical practice*. 2024;11(1):63-68. [DOI](https://doi.org/10.1002/mdc3.13895). [PMID: 38291841](https://pubmed.ncbi.nlm.nih.gov/38291841/). [FND-CIT-0181](../../research/citation-index.md#fnd-cit-0181). |
+| <a id="citation-7"></a>**[7]** | — | Laub HN, Dwivedi AK, Revilla FJ, et al. Diagnostic performance of the "Huffing and Puffing" sign in psychogenic (functional) movement disorders. *Movement disorders clinical practice*. 2015;2(1):29-32. [DOI](https://doi.org/10.1002/mdc3.12102). [PMID: 25961068](https://pubmed.ncbi.nlm.nih.gov/25961068/). [FND-CIT-0145](../../research/citation-index.md#fnd-cit-0145). |
+| <a id="citation-8"></a>**[8]** | — | Wolfsegger T, Pischinger B, Topakian R. Objectification of psychogenic postural instability by trunk sway analysis. *Journal of the neurological sciences*. 2013;334(1-2):14-17. [DOI](https://doi.org/10.1016/j.jns.2013.07.006). [PMID: 23932398](https://pubmed.ncbi.nlm.nih.gov/23932398/). [FND-CIT-0160](../../research/citation-index.md#fnd-cit-0160). |
+| <a id="citation-9"></a>**[9]** | — | Lin D, Castro P, Edwards A, et al. Dissociated motor learning and de-adaptation in patients with functional gait disorders. *Brain : a journal of neurology*. 2020;143(8):2594-2606. [DOI](https://doi.org/10.1093/brain/awaa190). [PMID: 32779724](https://pubmed.ncbi.nlm.nih.gov/32779724/). [FND-CIT-0117](../../research/citation-index.md#fnd-cit-0117). |
+| <a id="citation-10"></a>**[10]** | — | Issak S, Williams G, Kanaan RA, Fini NA, Nielsen G. Self-Reported Motor and Non-Motor Symptoms in People With Functional Gait Disorder: A Cross-Sectional Study. *Brain and Behavior*. 2025;15(2):e70208. [DOI](https://doi.org/10.1002/brb3.70208). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11802242/). [FND-CIT-0232](../../research/citation-index.md#fnd-cit-0232). |
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Functional Seizures](06-functional-seizures.md)
+**Continue:** [Next page: Sign-Based Gait Comparison](functional_gait_disorder/01-sign-based-gait-comparison.md)
 
 **Related:** [Previous: Functional Dystonia Inventory](functional_dystonia/technique-inventory.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/05-functional-gait-disorder.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
 
