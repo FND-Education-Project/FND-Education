@@ -6,10 +6,23 @@
 
 > **Automatically generated expansion — September 28, 2026.** Human, movement-disorders, clinical-neurophysiology and accessibility review pending.
 
+**Refers to:**
+
+- sudden, brief, non-rhythmic limb, trunk or whole-body jerks;
+- isolated jerks or repeated clusters; and
+- assessed functional myoclonus or startle-like jerks.
+
+**Scope boundary:** Rhythmic oscillation belongs on the [tremor page](02-functional-tremor.md), patterned posturing on the [dystonia page](04-functional-dystonia.md), and a larger episodic event on the [functional-seizures page](06-functional-seizures.md). The laboratory method below applies to repeated jerks that can be recorded, not every sudden movement.
+
 ## Quick Reference
+
+**Presentation:** Brief jerks assessed through their timing, pattern and appropriate clinical or electrophysiological comparisons.
 
 - [EEG–EMG and jerk-locked back-averaging](functional_jerks_and_myoclonus/01-eeg-emg-and-jerk-locked-back-averaging.md) — compare brain and muscle recordings around repeated jerks.
 - [All jerk assessments](functional_jerks_and_myoclonus/technique-inventory.md) — clinical observations and additional investigations.
+- [Understanding positive diagnosis](../diagnostic-concepts/01-positive-diagnosis.md) — how findings support an explanation.
+
+**More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -23,15 +36,7 @@
 
 A sudden jerk may move your arm, leg or body before you can stop it. It might interrupt a sip of water or a movement you were trying to make. The jerks may happen one at a time or in repeated clusters. This page concerns assessment of these brief movements, including functional jerks. **Myoclonus** is the clinical term for sudden, brief jerk-like movements. (*citations* [1](#citation-1), [2](#citation-2))
 
-### What this page covers
-
-**Refers to:**
-
-- sudden, brief, non-rhythmic limb, trunk or whole-body jerks;
-- isolated jerks or repeated clusters; and
-- assessed functional myoclonus or startle-like jerks.
-
-**Scope boundary:** Rhythmic oscillation belongs on the [tremor page](02-functional-tremor.md), patterned posturing on the [dystonia page](04-functional-dystonia.md), and a larger episodic event on the [functional-seizures page](06-functional-seizures.md). The laboratory method below applies to repeated jerks that can be recorded, not every sudden movement.
+<a id="what-this-page-covers"></a>
 
 ### Motor and vocal tic-like symptoms
 

@@ -445,8 +445,10 @@ def extract_reference_description(text: str) -> tuple[str, str | None]:
 
     Structured labels, lists, navigation blocks and headings stay in the body.
     """
-    h2_pos = text.find("\n## ")
-    search_area = text if h2_pos < 0 else text[:h2_pos]
+    # A leading H2 is already body content, including Quick Reference links.
+    # Do not promote its prose into the plain-text page description.
+    first_heading = re.search(r"^##\s+", text, re.MULTILINE)
+    search_area = text[:first_heading.start()] if first_heading else text
 
     offset = 0
     for block in re.split(r"(\n\s*\n)", search_area):

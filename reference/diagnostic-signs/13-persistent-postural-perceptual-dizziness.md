@@ -14,51 +14,15 @@
 
 **Scope boundary:** PPPD is persistent by diagnostic definition—present on most days for at least three months—although severity can fluctuate. This page does not cover every brief dizzy spell, faint, balance problem or sudden fall; those appearances need their own differential assessment.
 
-**Featured technique:** Criteria-based clinical interview with appropriate vestibular and medical assessment.  
-**Diagnostic method:** Confirm all five Bárány Society PPPD criteria; there is no single bedside manoeuvre or scan that establishes the diagnosis.  
-**Media needed:** A static criteria diagram. Moving visual patterns are not preferred because they may worsen symptoms.
+## Quick Reference
 
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+**Presentation:** Confirm all five Bárány Society PPPD criteria; there is no single bedside manoeuvre or scan that establishes the diagnosis.
 
-**Recovery reading:** [Thirteen detailed PPPD recovery and care pages](../recovery-techniques/persistent_postural_perceptual_dizziness/README.md), selected after assessment; treatment response does not establish the diagnosis.
+- [Criterion A: persistent dizziness pattern](#criterion-a-persistent-dizziness-pattern) — establish the required persistent symptom pattern.
+- [Criterion B: three exacerbating factors](#criterion-b-three-exacerbating-factors) — assess posture, movement and visual context.
+- [Vestibular and positional examinations](#vestibular-and-positional-examinations) — evaluate other or coexisting balance conditions.
 
-## Diagnostic techniques at a glance
-
-These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
-
-The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
-
-### Criterion A: persistent dizziness pattern
-
-The history establishes dizziness, unsteadiness or non-spinning vertigo on most days for at least three months. Symptoms typically last hours and may fluctuate. This is a required part of Bárány consensus criteria, not a standalone test. (*citations* [1](#citation-1))
-
-### Criterion B: three exacerbating factors
-
-Symptoms are worsened by upright posture, active or passive movement, and moving or visually complex surroundings. The clinician establishes all three domains from history; deliberate symptom provocation is unnecessary. Other vestibular conditions can share individual features. (*citations* [1](#citation-1))
-
-### Criterion C: precipitating condition
-
-The clinician establishes onset following a condition producing dizziness, imbalance or distress, such as an acute or chronic vestibular disorder. The course may consolidate as the precipitant changes. This requirement does not mean a psychological trigger must be present. (*citations* [1](#citation-1))
-
-### Criterion D: meaningful impact
-
-Symptoms must cause significant distress or functional impairment. The assessment records effects on daily life rather than requiring a particular severity score. Disability establishes impact, not the cause by itself. (*citations* [1](#citation-1))
-
-### Criterion E: no better explanation
-
-The full pattern must not be better accounted for by another disorder. Other conditions may coexist with PPPD. This differential requirement sits alongside positive symptom criteria; normal tests alone do not establish the syndrome. (*citations* [1](#citation-1))
-
-### Vestibular and positional examinations
-
-Head-impulse, nystagmus, positional and other indicated vestibular assessments investigate coexisting or alternative causes. There is no pathognomonic examination or laboratory test for PPPD. An abnormal vestibular test does not automatically exclude it. (*citations* [1](#citation-1))
-
-### Orthostatic and neurological assessment
-
-Where indicated, standing blood pressure, heart rate and neurological examination help distinguish cardiovascular or neurological causes of dizziness. These are differential investigations, not positive PPPD tests. (*citations* [1](#citation-1))
-
-### Symptom questionnaires
-
-Scales can characterize exacerbating situations and severity. The Niigata PPPD Questionnaire has validation research, but a questionnaire score supplements rather than replaces the full consensus criteria and differential assessment. (*citations* [1](#citation-1), [2](#citation-2))
+**More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -109,6 +73,12 @@ New severe dizziness, fainting, new neurological symptoms, chest pain or another
 
 ## For Clinicians and the Care Team
 
+**Featured technique:** Criteria-based clinical interview with appropriate vestibular and medical assessment.<br>
+**Diagnostic method:** Confirm all five Bárány Society PPPD criteria; there is no single bedside manoeuvre or scan that establishes the diagnosis.<br>
+**Media needed:** A static criteria diagram. Moving visual patterns are not preferred because they may worsen symptoms.
+
+**Recovery reading:** [Thirteen detailed PPPD recovery and care pages](../recovery-techniques/persistent_postural_perceptual_dizziness/README.md), selected after assessment; treatment response does not establish the diagnosis.
+
 ### Persistent baseline, intermittent exacerbations
 
 Document both the Criterion A background and superimposed exacerbations: how many days symptoms are present, typical hours per day, variation in severity, upright/motion/visual triggers, momentary flares, precipitating condition and recovery toward baseline. When an acute or episodic precipitant is involved, clarify whether early intermittent symptoms consolidated into a persistent course. Brief attacks alone should prompt consideration of episodic vestibular disorders rather than being labelled PPPD.
@@ -142,6 +112,46 @@ Add a separate note that all five criteria are required and that testing is sele
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
+## Diagnostic techniques at a glance
+
+These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
+
+The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
+
+### Criterion A: persistent dizziness pattern
+
+The history establishes dizziness, unsteadiness or non-spinning vertigo on most days for at least three months. Symptoms typically last hours and may fluctuate. This is a required part of Bárány consensus criteria, not a standalone test. (*citations* [1](#citation-1))
+
+### Criterion B: three exacerbating factors
+
+Symptoms are worsened by upright posture, active or passive movement, and moving or visually complex surroundings. The clinician establishes all three domains from history; deliberate symptom provocation is unnecessary. Other vestibular conditions can share individual features. (*citations* [1](#citation-1))
+
+### Criterion C: precipitating condition
+
+The clinician establishes onset following a condition producing dizziness, imbalance or distress, such as an acute or chronic vestibular disorder. The course may consolidate as the precipitant changes. This requirement does not mean a psychological trigger must be present. (*citations* [1](#citation-1))
+
+### Criterion D: meaningful impact
+
+Symptoms must cause significant distress or functional impairment. The assessment records effects on daily life rather than requiring a particular severity score. Disability establishes impact, not the cause by itself. (*citations* [1](#citation-1))
+
+### Criterion E: no better explanation
+
+The full pattern must not be better accounted for by another disorder. Other conditions may coexist with PPPD. This differential requirement sits alongside positive symptom criteria; normal tests alone do not establish the syndrome. (*citations* [1](#citation-1))
+
+### Vestibular and positional examinations
+
+Head-impulse, nystagmus, positional and other indicated vestibular assessments investigate coexisting or alternative causes. There is no pathognomonic examination or laboratory test for PPPD. An abnormal vestibular test does not automatically exclude it. (*citations* [1](#citation-1))
+
+### Orthostatic and neurological assessment
+
+Where indicated, standing blood pressure, heart rate and neurological examination help distinguish cardiovascular or neurological causes of dizziness. These are differential investigations, not positive PPPD tests. (*citations* [1](#citation-1))
+
+### Symptom questionnaires
+
+Scales can characterize exacerbating situations and severity. The Niigata PPPD Questionnaire has validation research, but a questionnaire score supplements rather than replaces the full consensus criteria and differential assessment. (*citations* [1](#citation-1), [2](#citation-2))
+
+
 ***
 
 ## Research and Sources

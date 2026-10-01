@@ -97,8 +97,7 @@ A person may suddenly drop or fall toward the ground, sometimes with very little
 ## Functional Tics
 
 [Understanding & Diagnosis](diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md)<br>
-[Recovery Techniques](recovery-techniques/17-functional-tics-and-tic-like-symptoms.md)<br>
-[Eight Detailed Recovery and Support Pages](recovery-techniques/functional_tics/README.md)
+[Recovery Techniques](recovery-techniques/17-functional-tics-and-tic-like-symptoms.md)
 
 Sudden movements, gestures or sounds may occur repeatedly and feel difficult or impossible to prevent at the moment they happen.
 

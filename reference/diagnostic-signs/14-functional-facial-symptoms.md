@@ -14,49 +14,15 @@
 
 **Scope boundary:** This category may overlap dystonia, limb weakness, speech or swallowing, but its diagnostic and recovery techniques must follow the actual facial mechanism—overactive pulling, weakness, eye closure, mouth control or another assessed pattern. Limb-only symptoms use the [partial-weakness](01-functional-limb-weakness.md) or [paralysis](15-functional-paralysis.md) page.
 
-**Featured technique:** Specialist history and examination of facial movement, muscle activation and weakness.  
-**Diagnostic method:** Identify a positive functional facial pattern in the wider neurological examination while assessing stroke, facial-nerve disease, hemifacial spasm, non-functional dystonia and other alternatives.  
-**Media needed:** A consented, captioned still-image sequence or continuous examination clip showing the observed muscles and change without presenting one facial appearance as diagnostic.
+## Quick Reference
 
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+**Presentation:** Identify a positive functional facial pattern in the wider neurological examination while assessing stroke, facial-nerve disease, hemifacial spasm, non-functional dystonia and other alternatives.
 
-### Motor and vocal tic-like symptoms
+- [Lower-lip pulling with jaw deviation](#lower-lip-pulling-with-jaw-deviation) — describe the facial movement pattern.
+- [Task inconsistency and distractibility](#task-inconsistency-and-distractibility) — compare selected facial tasks.
+- [Facial strength, reflexes and targeted investigations](#facial-strength-reflexes-and-targeted-investigations) — assess weakness and alternative explanations.
 
-Facial tic-like movements need their own assessment. A facial location does not make a tic equivalent to dystonia, weakness or spasm. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
-
-## Diagnostic techniques at a glance
-
-These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
-
-The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
-
-### Lower-lip pulling with jaw deviation
-
-The clinician observes sustained unilateral lip pulling, often with jaw movement and neck-muscle activation. A multicentre series describes this functional phenotype, but a characteristic appearance is not a standalone validated test. Facial weakness and other dystonias require assessment. (*citations* [1](#citation-1))
-
-### Platysma overactivity
-
-Visible activation of the superficial neck muscle can accompany functional facial pulling. This is a descriptive pattern distinct from reduced platysma activation in weakness testing. Neither finding should be interpreted without the corresponding facial and limb examination. (*citations* [1](#citation-1), [6](#citation-6))
-
-### Task inconsistency and distractibility
-
-Facial movement is compared during conversation, expression and other comfortable tasks. A clear inconsistency can support the diagnosis; fluctuation alone cannot. The published evidence is mainly observational rather than a validated universal facial test battery. (*citations* [1](#citation-1), [2](#citation-2))
-
-### Jaw, tongue and stomatognathic assessment
-
-Specialist examination characterizes mouth, jaw and tongue movements and their task dependence. A clinical cohort proposed a structured approach, but its selected sample limits generalisation. Dental, medication-related and neurological causes remain relevant. (*citations* [2](#citation-2))
-
-### Hemifacial-spasm comparison
-
-The clinician compares the distribution and timing of eyelid and lower-face movements, including eyebrow behaviour where useful. Functional mimics are described, but unusual facial movement alone is insufficient; neurological assessment and selected testing address genuine hemifacial spasm. (*citations* [1](#citation-1))
-
-### Blink-reflex recovery cycle
-
-A small comparative study examined an electrophysiological difference between essential and presumed functional blepharospasm. It is a specialist adjunct with limited validation, not a routine diagnostic test for all facial FND. (*citations* [7](#citation-7))
-
-### Facial strength, reflexes and targeted investigations
-
-Testing facial power and associated neurological findings helps distinguish weakness from overactivity and identify other causes. Imaging or neurophysiology may be appropriate. Normal tests alone do not establish functional facial symptoms. (*citations* [1](#citation-1), [6](#citation-6))
+**More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -115,6 +81,14 @@ A familiar episode may be brief or may last much longer. Support safety and dign
 
 ## For Clinicians and the Care Team
 
+**Featured technique:** Specialist history and examination of facial movement, muscle activation and weakness.<br>
+**Diagnostic method:** Identify a positive functional facial pattern in the wider neurological examination while assessing stroke, facial-nerve disease, hemifacial spasm, non-functional dystonia and other alternatives.<br>
+**Media needed:** A consented, captioned still-image sequence or continuous examination clip showing the observed muscles and change without presenting one facial appearance as diagnostic.
+
+### Motor and vocal tic-like symptoms
+
+Facial tic-like movements need their own assessment. A facial location does not make a tic equivalent to dystonia, weakness or spasm. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
+
 Start by deciding what the word **droop** describes: reduced facial activation, sustained downward lip pulling, jaw deviation, platysma or orbicularis oculi overactivity, ptosis, impaired mouth closure, or a mixed presentation. Functional facial dystonia and genuine functional facial weakness are not interchangeable labels. Explain the observed mechanism to the patient and show the positive evidence when it is safe and clear.
 
 ### Episodic and persistent presentations
@@ -156,6 +130,42 @@ The caption must say that one image cannot distinguish stroke, facial-nerve weak
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
+## Diagnostic techniques at a glance
+
+These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
+
+The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
+
+### Lower-lip pulling with jaw deviation
+
+The clinician observes sustained unilateral lip pulling, often with jaw movement and neck-muscle activation. A multicentre series describes this functional phenotype, but a characteristic appearance is not a standalone validated test. Facial weakness and other dystonias require assessment. (*citations* [1](#citation-1))
+
+### Platysma overactivity
+
+Visible activation of the superficial neck muscle can accompany functional facial pulling. This is a descriptive pattern distinct from reduced platysma activation in weakness testing. Neither finding should be interpreted without the corresponding facial and limb examination. (*citations* [1](#citation-1), [6](#citation-6))
+
+### Task inconsistency and distractibility
+
+Facial movement is compared during conversation, expression and other comfortable tasks. A clear inconsistency can support the diagnosis; fluctuation alone cannot. The published evidence is mainly observational rather than a validated universal facial test battery. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Jaw, tongue and stomatognathic assessment
+
+Specialist examination characterizes mouth, jaw and tongue movements and their task dependence. A clinical cohort proposed a structured approach, but its selected sample limits generalisation. Dental, medication-related and neurological causes remain relevant. (*citations* [2](#citation-2))
+
+### Hemifacial-spasm comparison
+
+The clinician compares the distribution and timing of eyelid and lower-face movements, including eyebrow behaviour where useful. Functional mimics are described, but unusual facial movement alone is insufficient; neurological assessment and selected testing address genuine hemifacial spasm. (*citations* [1](#citation-1))
+
+### Blink-reflex recovery cycle
+
+A small comparative study examined an electrophysiological difference between essential and presumed functional blepharospasm. It is a specialist adjunct with limited validation, not a routine diagnostic test for all facial FND. (*citations* [7](#citation-7))
+
+### Facial strength, reflexes and targeted investigations
+
+Testing facial power and associated neurological findings helps distinguish weakness from overactivity and identify other causes. Imaging or neurophysiology may be appropriate. Normal tests alone do not establish functional facial symptoms. (*citations* [1](#citation-1), [6](#citation-6))
+
+
 ***
 
 ## Research and Sources

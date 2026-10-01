@@ -6,11 +6,22 @@
 
 > **Automatically generated working draft — September 30, 2026.** Human, neurology, physiotherapy and accessibility review pending.
 
+**Refers to:**
+
+- difficulty walking, such as hesitation, dragging, knee giving way or unusual unsteadiness; and
+- episodic, fluctuating or persistent gait difficulty requiring assessment of its cause.
+
+**Scope boundary:** Primary limb weakness also belongs on the [weakness page](01-functional-limb-weakness.md), complete movement loss on the [paralysis page](15-functional-paralysis.md), a sudden fall without definite blackout on the [drop-attacks page](16-functional-drop-attacks.md), and persistent dizziness on the [PPPD page](13-persistent-postural-perceptual-dizziness.md). Gait comparisons apply only when standing and walking can be assessed safely.
+
 ## Quick Reference
+
+**Presentation:** Walking difficulty assessed by comparing safe tasks with appropriate support.
 
 - [Sign-based gait comparison](functional_gait_disorder/01-sign-based-gait-comparison.md) — compare selected walking tasks with appropriate guarding.
 - [Swivel-chair assessment](functional_gait_disorder/02-swivel-chair-assessment.md) — compare walking with seated leg propulsion.
 - [All gait assessments](functional_gait_disorder/technique-inventory.md) — further observations and investigations.
+
+**More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -24,9 +35,7 @@
 
 Walking may become hesitant or unusually slow. A foot may drag, a knee may give way, or your body may sway even while you are trying to stay steady. Functional gait disorder can take these and other forms. This page explains how clinicians assess the walking difficulty and distinguish it from other conditions that can look similar.
 
-### What this page covers
-
-**Scope boundary:** Primary limb weakness also belongs on the [weakness page](01-functional-limb-weakness.md), complete movement loss on the [paralysis page](15-functional-paralysis.md), a sudden fall without definite blackout on the [drop-attacks page](16-functional-drop-attacks.md), and persistent dizziness on the [PPPD page](13-persistent-postural-perceptual-dizziness.md). Gait comparisons apply only when standing and walking can be assessed safely.
+<a id="what-this-page-covers"></a>
 
 A clinician looks for the *pattern across tasks*. For example, a gait difficulty may unexpectedly improve during safe backward walking, tandem walking, rhythmical stepping or another task that is normally more demanding. The improvement is not proof that the original difficulty was chosen. It may demonstrate that a more effective walking pattern remains available under different conditions. (*citations* [1](#citation-1))
 

@@ -14,53 +14,15 @@
 
 **Scope boundary:** Cognitive word-finding difficulty without a speech-motor or language-production pattern belongs on the [cognitive page](12-functional-cognitive-disorder.md), mouth mechanics may overlap the [facial page](14-functional-facial-symptoms.md), and swallowing belongs on the [swallowing page](10-functional-swallowing-and-globus.md). The comparison tasks must match the communication phenotype.
 
-**Featured technique:** Speech-and-language assessment comparing communication across several natural and structured tasks.  
-**Diagnostic method:** Look for a positive pattern of internal inconsistency or preserved automatic function that fits a functional communication disorder.  
-**Media needed:** Continuous, captioned audio-video samples recorded with the same microphone and camera position.
+## Quick Reference
 
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+**Presentation:** Look for a positive pattern of internal inconsistency or preserved automatic function that fits a functional communication disorder.
 
-### Motor and vocal tic-like symptoms
+- [Automatic versus requested speech](#automatic-versus-requested-speech) — compare communication across tasks.
+- [Stuttering and prosody assessment](#stuttering-and-prosody-assessment) — describe the speech pattern and its context.
+- [Laryngoscopy and stroboscopy](#laryngoscopy-and-stroboscopy) — investigate voice and laryngeal function when indicated.
 
-Involuntary sounds, words or phrases may be vocal/phonic tic-like symptoms. They are not automatically a speech-production or voice impairment; communication support can still help. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
-
-## Diagnostic techniques at a glance
-
-These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
-
-The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
-
-### Automatic versus requested speech
-
-The speech-language clinician compares ordinary conversation with requested speech. A specific inconsistency may support functional communication symptoms. Task dependence also occurs in neurological speech disorders, so the comparison requires a full language and motor-speech assessment. (*citations* [1](#citation-1), [2](#citation-2))
-
-### Phonation during cough or laughter
-
-Voice may be available during spontaneous coughing or laughing despite difficulty producing requested speech. This can demonstrate preserved capacity but does not independently identify the cause. Do not force coughing or trigger distress to obtain it. (*citations* [1](#citation-1), [2](#citation-2))
-
-### Singing versus speech
-
-A clinician may compare comfortable singing and speaking where suitable. Different access to voice can be informative, but improvement with singing also occurs in non-functional disorders. This is a supportive comparison, not a specific diagnostic sign. (*citations* [1](#citation-1))
-
-### Distractibility and variability
-
-Speech or voice may change during an alternative task or a change of attention. Case-series and consensus descriptions support this observation, but spontaneous fluctuation is insufficient for diagnosis and need not occur in every functional presentation. (*citations* [1](#citation-1), [2](#citation-2))
-
-### Stuttering and prosody assessment
-
-The clinician examines fluency, rhythm, stress and their consistency across tasks. Particular incongruities can contribute to diagnosis, but acquired neurological stuttering and developmental differences need assessment. No single stuttering pattern proves FND. (*citations* [1](#citation-1), [2](#citation-2))
-
-### Articulation and language comparison
-
-Reading, repetition, naming and conversation help determine whether the main difficulty concerns speech movement, language or voice. A specific internal inconsistency may support a functional formulation; normal performance on one task does not exclude aphasia or other disease. (*citations* [1](#citation-1))
-
-### Laryngoscopy and stroboscopy
-
-Visualization of the vocal folds assesses motion, closure and structural disease. Findings help interpret task-dependent voice changes and coexisting conditions. A normal laryngeal examination by itself does not diagnose functional voice symptoms. (*citations* [1](#citation-1))
-
-### Immediate response to a speech or voice cue
-
-A gentle clinician-led cue may reveal more accessible speech or phonation. This is a described assessment observation, not a validated diagnostic trial. Improvement does not prove FND, and lack of improvement does not rule it out. (*citations* [1](#citation-1), [2](#citation-2))
+**More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -109,6 +71,14 @@ If the person has an agreed speech cue—such as rhythm, an automatic phrase or 
 
 ## For Clinicians and the Care Team
 
+**Featured technique:** Speech-and-language assessment comparing communication across several natural and structured tasks.<br>
+**Diagnostic method:** Look for a positive pattern of internal inconsistency or preserved automatic function that fits a functional communication disorder.<br>
+**Media needed:** Continuous, captioned audio-video samples recorded with the same microphone and camera position.
+
+### Motor and vocal tic-like symptoms
+
+Involuntary sounds, words or phrases may be vocal/phonic tic-like symptoms. They are not automatically a speech-production or voice impairment; communication support can still help. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
+
 ### Episodic and prolonged presentations
 
 Document whether the communication problem is persistent, intermittent or context-dependent and record duration, frequency, warning symptoms, fatigue and sensory/cognitive load, social or task demands, relationship to other FND symptoms and recovery. Functional communication symptoms may be highly variable, but variability by itself is not diagnostic.
@@ -141,6 +111,46 @@ Use captions and a full transcript, but do not “correct” the person’s word
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
+## Diagnostic techniques at a glance
+
+These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
+
+The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
+
+### Automatic versus requested speech
+
+The speech-language clinician compares ordinary conversation with requested speech. A specific inconsistency may support functional communication symptoms. Task dependence also occurs in neurological speech disorders, so the comparison requires a full language and motor-speech assessment. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Phonation during cough or laughter
+
+Voice may be available during spontaneous coughing or laughing despite difficulty producing requested speech. This can demonstrate preserved capacity but does not independently identify the cause. Do not force coughing or trigger distress to obtain it. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Singing versus speech
+
+A clinician may compare comfortable singing and speaking where suitable. Different access to voice can be informative, but improvement with singing also occurs in non-functional disorders. This is a supportive comparison, not a specific diagnostic sign. (*citations* [1](#citation-1))
+
+### Distractibility and variability
+
+Speech or voice may change during an alternative task or a change of attention. Case-series and consensus descriptions support this observation, but spontaneous fluctuation is insufficient for diagnosis and need not occur in every functional presentation. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Stuttering and prosody assessment
+
+The clinician examines fluency, rhythm, stress and their consistency across tasks. Particular incongruities can contribute to diagnosis, but acquired neurological stuttering and developmental differences need assessment. No single stuttering pattern proves FND. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Articulation and language comparison
+
+Reading, repetition, naming and conversation help determine whether the main difficulty concerns speech movement, language or voice. A specific internal inconsistency may support a functional formulation; normal performance on one task does not exclude aphasia or other disease. (*citations* [1](#citation-1))
+
+### Laryngoscopy and stroboscopy
+
+Visualization of the vocal folds assesses motion, closure and structural disease. Findings help interpret task-dependent voice changes and coexisting conditions. A normal laryngeal examination by itself does not diagnose functional voice symptoms. (*citations* [1](#citation-1))
+
+### Immediate response to a speech or voice cue
+
+A gentle clinician-led cue may reveal more accessible speech or phonation. This is a described assessment observation, not a validated diagnostic trial. Improvement does not prove FND, and lack of improvement does not rule it out. (*citations* [1](#citation-1), [2](#citation-2))
+
+
 ***
 
 ## Research and Sources

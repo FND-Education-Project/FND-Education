@@ -14,51 +14,15 @@
 
 **Scope boundary:** Speech-motor blocking belongs on the [speech page](09-functional-speech-and-voice-symptoms.md), and altered awareness within an event may require [functional-seizure assessment](06-functional-seizures.md). Cognitive symptoms can also arise from sleep, medication, pain, migraine, mood, neurological disease and other causes.
 
-**Featured technique:** Structured history and cognitive assessment looking for internal inconsistency.  
-**Diagnostic method:** Compare the reported difficulty with observed abilities and valid assessment results while evaluating other causes of cognitive symptoms.  
-**Media needed:** A fictional appointment example or annotated comparison diagram; never publish protected cognitive-test material.
+## Quick Reference
 
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+**Presentation:** Compare the reported difficulty with observed abilities and valid assessment results while evaluating other causes of cognitive symptoms.
 
-**Further reading:** [Everything We Know About FCD](../functional-cognitive-disorder.md) explains cognitive processes, visual experiences and recovery principles. These experiences do not add new positive signs to the inventory below.
+- [Internal inconsistency](#internal-inconsistency) — assess a specific mismatch in cognitive functioning.
+- [Everyday function and collateral history](#everyday-function-and-collateral-history) — understand difficulties outside the appointment.
+- [Longitudinal assessment and investigations](#longitudinal-assessment-and-investigations) — review change and alternative explanations.
 
-## Diagnostic techniques at a glance
-
-These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
-
-The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
-
-### Internal inconsistency
-
-The clinician identifies a specific mismatch within a cognitive ability, such as better use during ordinary interaction than during focused testing. This is the central positive concept. Ordinary fluctuation, distress or a normal screening score alone is insufficient. (*citations* [2](#citation-2))
-
-### Conversation versus formal performance
-
-Detailed, coherent accounts can be compared with the particular impairment claimed during testing. The comparison must concern the same ability and allow for anxiety, pain, fatigue, language and sensory barriers. It is supportive clinical reasoning, not a test of honesty. (*citations* [1](#citation-1), [2](#citation-2))
-
-### Everyday function and collateral history
-
-With consent, the clinician compares the person’s account, a supporter’s observations and actual daily tasks. A specific inconsistency may be useful, but compensatory strategies can preserve daily function despite neurological disease. Disagreement alone is not a positive sign. (*citations* [1](#citation-1), [2](#citation-2))
-
-### Neuropsychological pattern
-
-Assessment compares acquisition, delayed recall, recognition and other domains. Particular internal discrepancies may support FCD; isolated low scores or a normal total score do not. Coexisting neurological disease and test conditions remain part of interpretation. (*citations* [2](#citation-2), [3](#citation-3))
-
-### Proposed diagnostic risk model
-
-A published model combines clinical features to estimate diagnostic likelihood. It supports structured assessment rather than replacing judgment. Its development population and validation limits prevent treating the score as a universal diagnostic threshold. (*citations* [1](#citation-1))
-
-### Functional cognitive disorder checklist
-
-An 11-item and shorter 7-item checklist were developed through literature review, expert consensus and a multicentre pilot study. Results support further use and study, but prospective blinded external validation was still needed. This is not a self-diagnosis checklist. (*citations* [4](#citation-4))
-
-### Performance-validity testing
-
-These tests help interpret whether cognitive scores represent usable estimates of ability. Passing or failing does not itself diagnose FCD, malingering or a particular cause. Interpret results within the full clinical and testing context. (*citations* [2](#citation-2), [3](#citation-3))
-
-### Longitudinal assessment and investigations
-
-Follow-up and selected laboratory, imaging or other tests address plausible competing or coexisting causes. Stability may contribute to the formulation but does not prove FCD. A positive diagnosis should explain current findings and what would prompt review. (*citations* [2](#citation-2))
+**More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -109,6 +73,12 @@ A short period of difficulty and a longer cognitive flare can both be genuine. I
 
 ## For Clinicians and the Care Team
 
+**Featured technique:** Structured history and cognitive assessment looking for internal inconsistency.<br>
+**Diagnostic method:** Compare the reported difficulty with observed abilities and valid assessment results while evaluating other causes of cognitive symptoms.<br>
+**Media needed:** A fictional appointment example or annotated comparison diagram; never publish protected cognitive-test material.
+
+**Further reading:** [Everything We Know About FCD](../functional-cognitive-disorder.md) explains cognitive processes, visual experiences and recovery principles. These experiences do not add new positive signs to the inventory below.
+
 Characterize the relevant domain: attention, encoding, working memory, language/semantic access, executive function, recognition/familiarity, visual or nonverbal recall, visuospatial function and imagery as indicated. Face-recognition and imagery complaints are not established hallmark FCD signs; investigate the differential. Internal inconsistency should concern the same domain with context and demands accounted for. A single good performance, normal scan, normal score or treatment response cannot establish FCD. (*citations* [1](#citation-1), [2](#citation-2))
 
 ### Episodic and prolonged presentations
@@ -145,6 +115,46 @@ Show how the clinician looks for a meaningful pattern across all four, rather th
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
+## Diagnostic techniques at a glance
+
+These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
+
+The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
+
+### Internal inconsistency
+
+The clinician identifies a specific mismatch within a cognitive ability, such as better use during ordinary interaction than during focused testing. This is the central positive concept. Ordinary fluctuation, distress or a normal screening score alone is insufficient. (*citations* [2](#citation-2))
+
+### Conversation versus formal performance
+
+Detailed, coherent accounts can be compared with the particular impairment claimed during testing. The comparison must concern the same ability and allow for anxiety, pain, fatigue, language and sensory barriers. It is supportive clinical reasoning, not a test of honesty. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Everyday function and collateral history
+
+With consent, the clinician compares the person’s account, a supporter’s observations and actual daily tasks. A specific inconsistency may be useful, but compensatory strategies can preserve daily function despite neurological disease. Disagreement alone is not a positive sign. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Neuropsychological pattern
+
+Assessment compares acquisition, delayed recall, recognition and other domains. Particular internal discrepancies may support FCD; isolated low scores or a normal total score do not. Coexisting neurological disease and test conditions remain part of interpretation. (*citations* [2](#citation-2), [3](#citation-3))
+
+### Proposed diagnostic risk model
+
+A published model combines clinical features to estimate diagnostic likelihood. It supports structured assessment rather than replacing judgment. Its development population and validation limits prevent treating the score as a universal diagnostic threshold. (*citations* [1](#citation-1))
+
+### Functional cognitive disorder checklist
+
+An 11-item and shorter 7-item checklist were developed through literature review, expert consensus and a multicentre pilot study. Results support further use and study, but prospective blinded external validation was still needed. This is not a self-diagnosis checklist. (*citations* [4](#citation-4))
+
+### Performance-validity testing
+
+These tests help interpret whether cognitive scores represent usable estimates of ability. Passing or failing does not itself diagnose FCD, malingering or a particular cause. Interpret results within the full clinical and testing context. (*citations* [2](#citation-2), [3](#citation-3))
+
+### Longitudinal assessment and investigations
+
+Follow-up and selected laboratory, imaging or other tests address plausible competing or coexisting causes. Stability may contribute to the formulation but does not prove FCD. A positive diagnosis should explain current findings and what would prompt review. (*citations* [2](#citation-2))
+
+
 ***
 
 ## Research and Sources

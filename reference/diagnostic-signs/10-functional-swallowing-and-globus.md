@@ -14,45 +14,15 @@
 
 **Scope boundary:** Not every cough, choking episode or breathing symptom is functional dysphagia. Mouth closure may also need [facial assessment](14-functional-facial-symptoms.md), while cough and laryngeal symptoms have a [separate page](11-functional-cough-and-upper-airway-symptoms.md). Technique choice follows whether the problem is swallowing, globus, mouth control or airway protection.
 
-**Featured technique:** Structured swallowing history and clinical assessment, with instrumental assessment when indicated.  
-**Diagnostic method:** Distinguish swallowing impairment from globus, look for a positive functional pattern and investigate structural or neurological alternatives.  
-**Media needed:** A clinician explanation or a consented, annotated FEES or videofluoroscopy excerpt—not a contributor-designed food challenge.
+## Quick Reference
 
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+**Presentation:** Distinguish swallowing impairment from globus, look for a positive functional pattern and investigate structural or neurological alternatives.
 
-## Diagnostic techniques at a glance
+- [Clinical swallowing assessment](#clinical-swallowing-assessment) — clarify the complaint and swallowing safety.
+- [FEES](#fees) — examine swallowing with an endoscope when indicated.
+- [Rome criteria for globus](#rome-criteria-for-globus) — assess the distinct globus presentation.
 
-These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
-
-The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
-
-### Clinical swallowing assessment
-
-The clinician distinguishes mouth/throat swallowing difficulty from oesophageal symptoms and reviews safety, nutrition and examination findings. A specific task inconsistency can contribute to a formulation, but a normal bedside examination cannot exclude aspiration or other swallowing disease. (*citations* [1](#citation-1), [2](#citation-2))
-
-### Cross-task swallowing comparison
-
-Swallowing behaviour is compared across clinically appropriate contexts, including spontaneous and requested actions. A reproducible mismatch may be informative. Different textures or volumes are only used within an assessed safety plan; variability is not a standalone FND sign. (*citations* [1](#citation-1))
-
-### FEES
-
-A flexible endoscope evaluates pharyngeal swallowing and airway protection. Findings can identify impairment or preserved function for tested conditions. This is a differential and safety investigation, not an independent positive test for functional dysphagia. (*citations* [1](#citation-1), [2](#citation-2))
-
-### Videofluoroscopic swallowing study
-
-Moving X-ray images assess bolus movement and aspiration during selected swallows. The study can identify structural or physiological problems and guide safe interpretation of symptoms. Normal sampled swallows do not automatically establish a functional diagnosis. (*citations* [1](#citation-1), [2](#citation-2))
-
-### Rome criteria for functional dysphagia
-
-Formal oesophageal criteria require a characteristic sticking or passage complaint and evaluation for structural, mucosal, reflux-related and major motility causes. These are consensus criteria for an oesophageal disorder, not simply a positive motor-FND sign. (*citations* [3](#citation-3))
-
-### Rome criteria for globus
-
-Globus describes a non-painful lump or foreign-body sensation, usually between meals, without dysphagia or painful swallowing in the defined syndrome. Required duration and differential assessment matter; a persistent lump sensation is not automatically FND. (*citations* [3](#citation-3))
-
-### Endoscopy, biopsy and oesophageal physiology
-
-Selected endoscopy, mucosal sampling, manometry or reflux testing investigate plausible alternative explanations. These are differential tests. Findings and symptoms must be interpreted together; a series of normal results is not itself a positive functional sign. (*citations* [3](#citation-3))
+**More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -103,6 +73,10 @@ Record duration and meal context only after immediate swallowing and breathing s
 
 ## For Clinicians and the Care Team
 
+**Featured technique:** Structured swallowing history and clinical assessment, with instrumental assessment when indicated.<br>
+**Diagnostic method:** Distinguish swallowing impairment from globus, look for a positive functional pattern and investigate structural or neurological alternatives.<br>
+**Media needed:** A clinician explanation or a consented, annotated FEES or videofluoroscopy excerpt—not a contributor-designed food challenge.
+
 ### Episodic and prolonged presentations
 
 Characterize whether dysphagia, globus or choking fear is persistent, intermittent or meal/context-specific. Record episode duration, consistency and volume, time within the meal, associated respiratory/voice symptoms, nutritional effect, warning and recovery. Fluctuation can be clinically informative but does not establish functional dysphagia and does not remove the need for appropriate airway, neurological and structural assessment.
@@ -134,6 +108,42 @@ Do not ask a participant to swallow a chosen food, large bolus or difficult text
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
+## Diagnostic techniques at a glance
+
+These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
+
+The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
+
+### Clinical swallowing assessment
+
+The clinician distinguishes mouth/throat swallowing difficulty from oesophageal symptoms and reviews safety, nutrition and examination findings. A specific task inconsistency can contribute to a formulation, but a normal bedside examination cannot exclude aspiration or other swallowing disease. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Cross-task swallowing comparison
+
+Swallowing behaviour is compared across clinically appropriate contexts, including spontaneous and requested actions. A reproducible mismatch may be informative. Different textures or volumes are only used within an assessed safety plan; variability is not a standalone FND sign. (*citations* [1](#citation-1))
+
+### FEES
+
+A flexible endoscope evaluates pharyngeal swallowing and airway protection. Findings can identify impairment or preserved function for tested conditions. This is a differential and safety investigation, not an independent positive test for functional dysphagia. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Videofluoroscopic swallowing study
+
+Moving X-ray images assess bolus movement and aspiration during selected swallows. The study can identify structural or physiological problems and guide safe interpretation of symptoms. Normal sampled swallows do not automatically establish a functional diagnosis. (*citations* [1](#citation-1), [2](#citation-2))
+
+### Rome criteria for functional dysphagia
+
+Formal oesophageal criteria require a characteristic sticking or passage complaint and evaluation for structural, mucosal, reflux-related and major motility causes. These are consensus criteria for an oesophageal disorder, not simply a positive motor-FND sign. (*citations* [3](#citation-3))
+
+### Rome criteria for globus
+
+Globus describes a non-painful lump or foreign-body sensation, usually between meals, without dysphagia or painful swallowing in the defined syndrome. Required duration and differential assessment matter; a persistent lump sensation is not automatically FND. (*citations* [3](#citation-3))
+
+### Endoscopy, biopsy and oesophageal physiology
+
+Selected endoscopy, mucosal sampling, manometry or reflux testing investigate plausible alternative explanations. These are differential tests. Findings and symptoms must be interpreted together; a series of normal results is not itself a positive functional sign. (*citations* [3](#citation-3))
+
+
 ***
 
 ## Research and Sources

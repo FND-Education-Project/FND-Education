@@ -14,53 +14,15 @@
 
 **Scope boundary:** This page treats paralysis as the severe end of a functional limb-weakness presentation, not as a separate proven mechanism. Facial weakness belongs on the [facial symptoms page](14-functional-facial-symptoms.md). Immobility that occurs only within a stereotyped functional seizure belongs on the [functional-seizures page](06-functional-seizures.md). Sleep paralysis, cataplexy, postictal weakness and structural neurological causes are different presentations requiring appropriate assessment.
 
-**Primary techniques:** Phenotype-specific comparison of attempted movement with automatic or synergistic movement—for example Hoover’s or the hip-abductor sign for unilateral leg paralysis, and the finger-abduction sign for unilateral arm paralysis.<br>
-**Diagnostic method:** Demonstrate a reproducible difference between voluntary access and movement recruited in another task, interpreted with the history, complete examination and appropriate investigation. No one sign covers bilateral or widespread paralysis.<br>
-**Media needed:** Clinician-led video with separate upper- and lower-limb examples plus a diagram explaining why the selected sign applies only to that movement pattern.
+## Quick Reference
 
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+**Presentation:** Demonstrate a reproducible difference between voluntary access and movement recruited in another task, interpreted with the history, complete examination and appropriate investigation. No one sign covers bilateral or widespread paralysis.
 
-## Diagnostic techniques at a glance
+- [Hoover’s sign in suitable unilateral paralysis](#hoovers-sign-in-suitable-unilateral-paralysis) — compare leg movement in the appropriate presentation.
+- [Hip-abductor sign](#hip-abductor-sign) — compare hip abduction across tasks.
+- [Abduction-finger sign](#abduction-finger-sign) — assess an appropriate upper-limb presentation.
 
-These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
-
-The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
-
-### Hoover’s sign in suitable unilateral paralysis
-
-Automatic heel pressure may be preserved during movement of the other leg despite absent requested movement. This comparison can support functional weakness when the opposite leg is sufficiently strong. It cannot be assumed valid in severe bilateral paralysis. (*citations* [2](#citation-2))
-
-### Hip-abductor sign
-
-The clinician compares sideways leg force during paired and separate tasks. Preserved associated force may support a functional component in a suitable asymmetric presentation. The primary study was small and unblinded; pain and limitations in the comparison leg matter. (*citations* [4](#citation-4))
-
-### Abduction-finger sign
-
-Resisted spreading of fingers in the less affected hand may produce associated spreading in the paralysed hand. The original severe-unilateral-paralysis study supports this sign. Extrapolation to partial weakness is unsafe because associated movements also occur without functional paralysis. (*citations* [3](#citation-3))
-
-### Spinal Injuries Center test
-
-A severely weak leg may maintain a bent-knee position after being placed there, despite inability to lift voluntarily. A primary comparative study supports this restricted use. Milder neurological weakness can also maintain the position, and mechanical support must be considered. (*citations* [5](#citation-5))
-
-### Elbow flex-ex comparison
-
-Opposite-direction force may emerge in the weak arm during resisted movement of the other arm. The original unilateral-weakness study supports a possible functional contrast, but evidence is small and does not establish a universal test for complete bilateral paralysis. (*citations* [6](#citation-6))
-
-### Preserved automatic or task-linked movement
-
-A clinician may observe movement during a comfortable repositioning or another spontaneous action that is unavailable on request. This can provide positive evidence only when the comparison truly tests the same capacity and excludes compensation or reflex movement. (*citations* [7](#citation-7), [8](#citation-8))
-
-### Tone, reflexes and plantar responses
-
-These help localize disease and interpret the paralysis. An older comparative series described preserved findings, but normal tone or reflexes alone do not establish FND and may occur in other disorders. Historical psychiatric or compensation-based assumptions are not diagnostic signs. (*citations* [9](#citation-9))
-
-### Motor and sensory pathway investigations
-
-Selected nerve-conduction, EMG, evoked-potential or imaging studies investigate competing and coexisting disease. They are not positive FND tests. Normal findings do not establish the cause of paralysis or rule out every neurological condition. (*citations* [10](#citation-10))
-
-### Tests that require residual voluntary movement
-
-Drift without pronation, collapsing weakness and paradoxical wrist flexion require movement or force that may be absent in complete paralysis. Inability to perform them is not a positive result. Use the limb-weakness page only when the phenotype fits. (*citations* [11](#citation-11), [12](#citation-12))
+**More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -109,6 +71,10 @@ A previous functional diagnosis does not determine the cause of every new paraly
 
 ## For Clinicians and the Care Team
 
+**Primary techniques:** Phenotype-specific comparison of attempted movement with automatic or synergistic movement—for example Hoover’s or the hip-abductor sign for unilateral leg paralysis, and the finger-abduction sign for unilateral arm paralysis.<br>
+**Diagnostic method:** Demonstrate a reproducible difference between voluntary access and movement recruited in another task, interpreted with the history, complete examination and appropriate investigation. No one sign covers bilateral or widespread paralysis.<br>
+**Media needed:** Clinician-led video with separate upper- and lower-limb examples plus a diagram explaining why the selected sign applies only to that movement pattern.
+
 ### Match the sign to the phenotype
 
 1. Define whether the presentation is unilateral or bilateral, upper- or lower-limb, focal or widespread, persistent or episodic, and isolated or part of a larger event.
@@ -138,6 +104,50 @@ Do not combine footage from different people or attempts to manufacture a contra
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
+## Diagnostic techniques at a glance
+
+These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
+
+The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
+
+### Hoover’s sign in suitable unilateral paralysis
+
+Automatic heel pressure may be preserved during movement of the other leg despite absent requested movement. This comparison can support functional weakness when the opposite leg is sufficiently strong. It cannot be assumed valid in severe bilateral paralysis. (*citations* [2](#citation-2))
+
+### Hip-abductor sign
+
+The clinician compares sideways leg force during paired and separate tasks. Preserved associated force may support a functional component in a suitable asymmetric presentation. The primary study was small and unblinded; pain and limitations in the comparison leg matter. (*citations* [4](#citation-4))
+
+### Abduction-finger sign
+
+Resisted spreading of fingers in the less affected hand may produce associated spreading in the paralysed hand. The original severe-unilateral-paralysis study supports this sign. Extrapolation to partial weakness is unsafe because associated movements also occur without functional paralysis. (*citations* [3](#citation-3))
+
+### Spinal Injuries Center test
+
+A severely weak leg may maintain a bent-knee position after being placed there, despite inability to lift voluntarily. A primary comparative study supports this restricted use. Milder neurological weakness can also maintain the position, and mechanical support must be considered. (*citations* [5](#citation-5))
+
+### Elbow flex-ex comparison
+
+Opposite-direction force may emerge in the weak arm during resisted movement of the other arm. The original unilateral-weakness study supports a possible functional contrast, but evidence is small and does not establish a universal test for complete bilateral paralysis. (*citations* [6](#citation-6))
+
+### Preserved automatic or task-linked movement
+
+A clinician may observe movement during a comfortable repositioning or another spontaneous action that is unavailable on request. This can provide positive evidence only when the comparison truly tests the same capacity and excludes compensation or reflex movement. (*citations* [7](#citation-7), [8](#citation-8))
+
+### Tone, reflexes and plantar responses
+
+These help localize disease and interpret the paralysis. An older comparative series described preserved findings, but normal tone or reflexes alone do not establish FND and may occur in other disorders. Historical psychiatric or compensation-based assumptions are not diagnostic signs. (*citations* [9](#citation-9))
+
+### Motor and sensory pathway investigations
+
+Selected nerve-conduction, EMG, evoked-potential or imaging studies investigate competing and coexisting disease. They are not positive FND tests. Normal findings do not establish the cause of paralysis or rule out every neurological condition. (*citations* [10](#citation-10))
+
+### Tests that require residual voluntary movement
+
+Drift without pronation, collapsing weakness and paradoxical wrist flexion require movement or force that may be absent in complete paralysis. Inability to perform them is not a positive result. Use the limb-weakness page only when the phenotype fits. (*citations* [11](#citation-11), [12](#citation-12))
+
+
 ***
 
 ## Research and Sources

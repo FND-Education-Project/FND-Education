@@ -10,53 +10,15 @@
 
 **Scope boundary:** Tics are not another name for [functional jerks](03-functional-jerks-and-myoclonus.md), [speech or voice impairment](09-functional-speech-and-voice-symptoms.md), or [cough](11-functional-cough-and-upper-airway-symptoms.md). Tourette syndrome and other primary tic disorders need their own assessment and may coexist with functional tic-like symptoms. A new sound or word does not by itself establish which diagnosis applies.
 
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)  
+## Quick Reference
 
-**Featured approach:** Specialist assessment of the symptom history, developmental course and overall clinical pattern.<br>
-**Diagnostic method:** Explain the positive clinical reasons for the formulation and their limits. No single movement, demographic feature or normal test establishes functional tic-like symptoms.<br>
-**Media needed:** A captioned consultation diagram showing movement **and sound**, possible coexistence and the questions used in assessment. Do not provoke symptoms for a demonstration.
+**Presentation:** Explain the positive clinical reasons for the formulation and their limits. No single movement, demographic feature or normal test establishes functional tic-like symptoms.
 
-## Diagnostic techniques at a glance
+- [Developmental and onset history](#developmental-and-onset-history) — establish how symptoms began and developed.
+- [Motor and vocal phenomenology](#motor-and-vocal-phenomenology) — assess movement and sound together.
+- [ESSTS consensus criteria](#essts-consensus-criteria) — consider the specialist criteria and their limits.
 
-These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
-
-The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
-
-### Developmental and onset history
-
-The clinician compares childhood tic history, onset speed and progression. Rapid emergence of complex symptoms can contribute to a functional formulation, but no onset pattern, age or gender determines the diagnosis alone. Earlier primary tics may coexist. (*citations* [2](#citation-2), [3](#citation-3))
-
-### Motor and vocal phenomenology
-
-The assessment describes movements, sounds and phrases, their complexity and evolution. Observational cohorts identify group differences, but individual overlap with Tourette syndrome is substantial. Coprolalia or a complex phrase alone cannot establish functional symptoms. (*citations* [3](#citation-3), [6](#citation-6))
-
-### Context dependence and variability
-
-Symptoms are compared across ordinary settings and tasks using history and respectful observation. Context sensitivity occurs in both functional and primary tics, so changes with attention or an audience are not independently diagnostic. (*citations* [2](#citation-2), [3](#citation-3))
-
-### Suppressibility
-
-The clinician asks about temporary ability to delay symptoms rather than demanding a prolonged demonstration. Both diagnoses can include suppressibility or difficulty suppressing. This is a history feature with limited individual discriminative value. (*citations* [2](#citation-2), [3](#citation-3))
-
-### Premonitory sensations
-
-An urge or sensation before movement or sound is documented in the person’s own words. Its presence or absence contributes context but does not reliably divide functional from primary tic disorders, particularly across ages. (*citations* [2](#citation-2), [3](#citation-3))
-
-### Suggestibility
-
-Symptoms may change when discussed or observed. This can occur in both functional and primary tics and is not proof of deliberate imitation. Avoid provoking symptoms to demonstrate it; use the history when discussion itself is difficult. (*citations* [2](#citation-2), [3](#citation-3))
-
-### ESSTS consensus criteria
-
-The framework combines clinical history and phenomenology rather than relying on a single sign. Its original publication was expert consensus, not prospective diagnostic-accuracy validation. Apply alongside the published critique and an assessment for coexistence. (*citations* [2](#citation-2), [3](#citation-3))
-
-### Longitudinal reassessment
-
-Follow-up, childhood records and consensual collateral information can clarify mixed or uncertain presentations. A changing formulation is preferable to forcing a binary classification. This is a clinical process, not an independently validated positive sign. (*citations* [3](#citation-3), [7](#citation-7))
-
-### Neurophysiology and other investigations
-
-EEG–EMG may address a differential with jerks, but premovement potentials also occur in primary tics. There is no established high-accuracy laboratory test that independently separates functional tic-like symptoms from Tourette syndrome. Other tests answer specific differential questions. (*citations* [8](#citation-8), [9](#citation-9))
+**More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -109,6 +71,10 @@ Do not use online examples, a psychiatric history or a social-media habit to dec
 
 ## For Clinicians and the Care Team
 
+**Featured approach:** Specialist assessment of the symptom history, developmental course and overall clinical pattern.<br>
+**Diagnostic method:** Explain the positive clinical reasons for the formulation and their limits. No single movement, demographic feature or normal test establishes functional tic-like symptoms.<br>
+**Media needed:** A captioned consultation diagram showing movement **and sound**, possible coexistence and the questions used in assessment. Do not provoke symptoms for a demonstration.
+
 Assess onset and longitudinal course, childhood motor/vocal history, family history, phenomenology, urges, suppressibility, context, medications/substances, other neurological findings and functional impact. Consider Tourette syndrome, persistent motor or vocal tic disorder, provisional tic disorder, stereotypies, compulsions, myoclonus, dystonia, epileptic events and medication or other medical causes as indicated. Document coexisting primary and functional symptoms where appropriate. [1](#citation-1), [5](#citation-5)
 
 The 2023 ESSTS criteria provide an expert-consensus framework, not a prospectively validated diagnostic-accuracy test in that publication. Consider the entire clinical pattern rather than treating abrupt onset, age, sex/gender, complex vocalizations or social exposure as decisive. A 2024 critical review questions aspects of the diagnostic literature, including circular reasoning and clinical benchmarks. Communicate these limits while offering care and follow-up. [2](#citation-2), [3](#citation-3)
@@ -124,6 +90,50 @@ Use a fictional consultation or static diagram, with captions and a full text eq
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
+## Diagnostic techniques at a glance
+
+These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
+
+The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
+
+### Developmental and onset history
+
+The clinician compares childhood tic history, onset speed and progression. Rapid emergence of complex symptoms can contribute to a functional formulation, but no onset pattern, age or gender determines the diagnosis alone. Earlier primary tics may coexist. (*citations* [2](#citation-2), [3](#citation-3))
+
+### Motor and vocal phenomenology
+
+The assessment describes movements, sounds and phrases, their complexity and evolution. Observational cohorts identify group differences, but individual overlap with Tourette syndrome is substantial. Coprolalia or a complex phrase alone cannot establish functional symptoms. (*citations* [3](#citation-3), [6](#citation-6))
+
+### Context dependence and variability
+
+Symptoms are compared across ordinary settings and tasks using history and respectful observation. Context sensitivity occurs in both functional and primary tics, so changes with attention or an audience are not independently diagnostic. (*citations* [2](#citation-2), [3](#citation-3))
+
+### Suppressibility
+
+The clinician asks about temporary ability to delay symptoms rather than demanding a prolonged demonstration. Both diagnoses can include suppressibility or difficulty suppressing. This is a history feature with limited individual discriminative value. (*citations* [2](#citation-2), [3](#citation-3))
+
+### Premonitory sensations
+
+An urge or sensation before movement or sound is documented in the person’s own words. Its presence or absence contributes context but does not reliably divide functional from primary tic disorders, particularly across ages. (*citations* [2](#citation-2), [3](#citation-3))
+
+### Suggestibility
+
+Symptoms may change when discussed or observed. This can occur in both functional and primary tics and is not proof of deliberate imitation. Avoid provoking symptoms to demonstrate it; use the history when discussion itself is difficult. (*citations* [2](#citation-2), [3](#citation-3))
+
+### ESSTS consensus criteria
+
+The framework combines clinical history and phenomenology rather than relying on a single sign. Its original publication was expert consensus, not prospective diagnostic-accuracy validation. Apply alongside the published critique and an assessment for coexistence. (*citations* [2](#citation-2), [3](#citation-3))
+
+### Longitudinal reassessment
+
+Follow-up, childhood records and consensual collateral information can clarify mixed or uncertain presentations. A changing formulation is preferable to forcing a binary classification. This is a clinical process, not an independently validated positive sign. (*citations* [3](#citation-3), [7](#citation-7))
+
+### Neurophysiology and other investigations
+
+EEG–EMG may address a differential with jerks, but premovement potentials also occur in primary tics. There is no established high-accuracy laboratory test that independently separates functional tic-like symptoms from Tourette syndrome. Other tests answer specific differential questions. (*citations* [8](#citation-8), [9](#citation-9))
+
+
 ***
 
 ## Research and Sources
