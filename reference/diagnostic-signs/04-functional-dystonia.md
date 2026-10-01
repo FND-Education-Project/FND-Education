@@ -6,10 +6,23 @@
 
 > **Automatically generated expansion — September 29, 2026.** Human, movement-disorders, pain and accessibility review pending.
 
+**Refers to:**
+
+- fixed, sustained or intermittent patterned postures;
+- pulling, twisting or spasm affecting a limb, trunk or neck; and
+- an assessed functional dystonia phenotype rather than muscle tightness alone.
+
+**Scope boundary:** Face- or jaw-dominant pulling belongs on the [facial symptoms page](14-functional-facial-symptoms.md), while weakness and brief jerks use their own pages. Diagnostic and recovery techniques must follow whether the observed problem is overactivity, weakness or another movement pattern.
+
 ## Quick Reference
+
+**Presentation:** Patterned pulling or fixed posturing assessed through history, movement and the wider examination.
 
 - [Pattern-based history and movement examination](functional_dystonia/01-pattern-based-history-and-movement-examination.md) — assess posture, time course and changes across tasks.
 - [All dystonia assessments](functional_dystonia/technique-inventory.md) — other observations and specialist research methods.
+- [Understanding positive diagnosis](../diagnostic-concepts/01-positive-diagnosis.md) — how findings support an explanation.
+
+**More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -25,13 +38,7 @@ A hand that stays curled or a foot that turns inward can make ordinary things aw
 
 ### What this page covers
 
-**Refers to:**
 
-- fixed, sustained or intermittent patterned postures;
-- pulling, twisting or spasm affecting a limb, trunk or neck; and
-- an assessed functional dystonia phenotype rather than muscle tightness alone.
-
-**Scope boundary:** Face- or jaw-dominant pulling belongs on the [facial symptoms page](14-functional-facial-symptoms.md), while weakness and brief jerks use their own pages. Diagnostic and recovery techniques must follow whether the observed problem is overactivity, weakness or another movement pattern.
 
 > **Fixed posture:** A position that persists at rest. **Mobile posture:** A position that changes as the movement continues. These describe what is seen, rather than its cause.
 

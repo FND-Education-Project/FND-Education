@@ -14,11 +14,102 @@
 
 **Scope boundary:** Light sensitivity from migraine, eye disease or another cause is not automatically a functional visual symptom. The techniques below require ophthalmic or neuro-ophthalmic context and do not apply to generic dizziness or sensory overload.
 
-**Featured technique:** Positive demonstration of preserved visual function during a complete ophthalmic or neuro-ophthalmic assessment.  
-**Diagnostic method:** Compare reported vision with objective visual behaviours or responses, such as optokinetic nystagmus, while also looking for eye and brain disease.  
+## Quick Reference
+
+**Presentation:** Compare reported vision with objective visual behaviours or responses, such as optokinetic nystagmus, while also looking for eye and brain disease.
+
+- [Visual acuity at different distances](#visual-acuity-at-different-distances) — compare acuity under selected viewing conditions.
+- [Binocular versus monocular fields](#binocular-versus-monocular-fields) — compare field findings with one or both eyes viewing.
+- [Optokinetic response](#optokinetic-response) — assess a visual response within specialist examination.
+
+**More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For the Person With FND
+
+Functional visual symptoms may affect sharpness, the visual field or the sense that vision is available. The symptoms are real. Diagnosis depends on showing that some visual function is preserved in a way that does not match the reported difficulty, while also completing the examination needed to look for eye, optic-nerve and brain conditions.
+
+One possible observation is **optokinetic nystagmus**: a striped target moving across the visual field can produce small tracking and resetting eye movements. That response may demonstrate that enough of the visual pathway is working to detect the moving pattern. It does not measure full visual acuity and cannot, by itself, diagnose functional visual symptoms. (*citations* [1](#citation-1))
+
+The clinician may choose other methods, such as fogging one eye or using a mirror, depending on the symptom. These are specialist examination tools, not tricks and not tests to repeat at home.
+
+### Visual symptoms may be episodic or prolonged
+
+Functional visual loss, blur, field change or visual access may come and go, fluctuate with the task or environment, or remain troublesome for long periods. Busy visual scenes, fatigue, migraine, light or sensory load may intensify symptoms for some people. A symptom being absent in a quiet examination room does not show that it was not disabling elsewhere.
+
+When a familiar visual episode starts, stop driving, cooking, using tools, navigating stairs or another activity that depends on reliable vision. Sit or move to a safe position, use the visual aid and lighting strategy already recommended, and use only a previously trained visual or attention cue. Sudden new or painful visual loss, flashes/floaters, a curtain-like shadow or visual change with acute neurological symptoms needs urgent assessment.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For Family, Friends, and Other Supporters
+
+Do not wave objects toward the person’s eyes, set up obstacles or surprise them to see whether they avoid something. Those demonstrations can cause falls, distress or eye injury and are not a responsible diagnostic assessment. Support the person’s current visual-safety plan and report changes to the appropriate clinician.
+
+### When vision suddenly becomes less usable
+
+An episode may settle quickly or last much longer. Help stop visually hazardous activity, provide the person’s usual mobility or visual support and reduce unnecessary visual complexity if that is part of their plan. Do not secretly test what they can see or remove sunglasses, lenses or another aid to make them practise.
+
+Once safe, note what the person was doing, the type of visual change, whether one or both eyes seemed affected, duration, associated headache or neurological symptoms and recovery.
+
+New, sudden or painful visual loss still needs urgent assessment according to local medical advice, even if the person has had functional visual symptoms before.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+***
+
+## For Clinicians and the Care Team
+
+**Featured technique:** Positive demonstration of preserved visual function during a complete ophthalmic or neuro-ophthalmic assessment.<br>
+**Diagnostic method:** Compare reported vision with objective visual behaviours or responses, such as optokinetic nystagmus, while also looking for eye and brain disease.<br>
 **Media needed:** An orthoptist-, ophthalmologist- or neuro-ophthalmologist-led close-up demonstration.
 
-[Diagnostic techniques at a glance](#diagnostic-techniques-at-a-glance)
+### Episodic and prolonged presentations
+
+Clarify whether visual symptoms are continuous, intermittent or situational; document duration, frequency, visual environment, migraine or sensory context, associated neurological symptoms, functional risk and recovery. A normal interval examination does not itself establish a functional cause, and symptom fluctuation does not replace the positive visual examination and appropriate exclusion of ocular, optic-nerve and neurological disease.
+
+For established episodic functional visual symptoms, give an onset plan that starts with driving/fall/injury safety and adapts a previously demonstrated preserved visual response, graded visual task or environmental strategy. Do not deliberately reproduce a visually provocative episode merely to confirm the history.
+
+### Technique outline: optokinetic response within a positive visual examination
+
+1. Define the complaint precisely and complete the indicated assessment of acuity, pupils, ocular movements, anterior and posterior segments, fields and neurological function before interpreting a functional sign.
+2. Explain that the moving striped target helps demonstrate one preserved visual response and does not quantify all aspects of sight.
+3. Seat the patient safely and present an optokinetic drum, strip or validated digital target at an appropriate distance and field size.
+4. Move the pattern smoothly in one direction while observing both eyes for a slow following phase and quick resetting phase. Repeat in the opposite direction if clinically useful.
+5. Relate the response only to the level of visual function it can support. Do not convert its presence into a precise acuity estimate or assume it excludes coexisting disease.
+6. Select other positive methods—such as mirror tracking, fogging or binocular visual-field comparison—according to the presentation and the examiner’s training.
+7. Explain the preserved function respectfully and connect it to a treatment or rehabilitation plan. Arrange reassessment when the pattern changes or the evidence is incomplete.
+
+### Media contributor brief
+
+Use a clinician and healthy volunteer or a specifically consenting patient. Record:
+
+1. A wide view showing safe seating, clinician and striped target.
+2. The smooth movement of the target, without rapid flashing or an abrupt start.
+3. A close-up of both eyes showing the tracking and resetting response.
+4. A simple diagram of the slow and fast eye-movement phases.
+5. A closing statement: “This response demonstrates some preserved visual processing. It does not measure all vision or diagnose the cause alone.”
+
+Provide a static diagram as the default media for readers who are sensitive to moving patterns. Do not film obstacle avoidance, menace responses or any demonstration that risks startling or shaming the participant.
+
+***
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
 
 ## Diagnostic techniques at a glance
 
@@ -78,88 +169,7 @@ Selected targets visible separately to each eye can reveal visual capacity not a
 
 Retinal imaging and electrical-response tests address structural or physiological differential diagnoses. They are not positive FND tests; normal results alone do not establish functional visual loss, and coexisting eye disease is common. (*citations* [1](#citation-1), [3](#citation-3))
 
-***
-[For the Person With FND](#for-the-person-with-fnd)<br>
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
-[Research and Sources](#research-and-sources)
-***
 
-## For the Person With FND
-
-Functional visual symptoms may affect sharpness, the visual field or the sense that vision is available. The symptoms are real. Diagnosis depends on showing that some visual function is preserved in a way that does not match the reported difficulty, while also completing the examination needed to look for eye, optic-nerve and brain conditions.
-
-One possible observation is **optokinetic nystagmus**: a striped target moving across the visual field can produce small tracking and resetting eye movements. That response may demonstrate that enough of the visual pathway is working to detect the moving pattern. It does not measure full visual acuity and cannot, by itself, diagnose functional visual symptoms. (*citations* [1](#citation-1))
-
-The clinician may choose other methods, such as fogging one eye or using a mirror, depending on the symptom. These are specialist examination tools, not tricks and not tests to repeat at home.
-
-### Visual symptoms may be episodic or prolonged
-
-Functional visual loss, blur, field change or visual access may come and go, fluctuate with the task or environment, or remain troublesome for long periods. Busy visual scenes, fatigue, migraine, light or sensory load may intensify symptoms for some people. A symptom being absent in a quiet examination room does not show that it was not disabling elsewhere.
-
-When a familiar visual episode starts, stop driving, cooking, using tools, navigating stairs or another activity that depends on reliable vision. Sit or move to a safe position, use the visual aid and lighting strategy already recommended, and use only a previously trained visual or attention cue. Sudden new or painful visual loss, flashes/floaters, a curtain-like shadow or visual change with acute neurological symptoms needs urgent assessment.
-
-***
-[For the Person With FND](#for-the-person-with-fnd)<br>
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
-[Research and Sources](#research-and-sources)
-***
-
-## For Family, Friends, and Other Supporters
-
-Do not wave objects toward the person’s eyes, set up obstacles or surprise them to see whether they avoid something. Those demonstrations can cause falls, distress or eye injury and are not a responsible diagnostic assessment. Support the person’s current visual-safety plan and report changes to the appropriate clinician.
-
-### When vision suddenly becomes less usable
-
-An episode may settle quickly or last much longer. Help stop visually hazardous activity, provide the person’s usual mobility or visual support and reduce unnecessary visual complexity if that is part of their plan. Do not secretly test what they can see or remove sunglasses, lenses or another aid to make them practise.
-
-Once safe, note what the person was doing, the type of visual change, whether one or both eyes seemed affected, duration, associated headache or neurological symptoms and recovery.
-
-New, sudden or painful visual loss still needs urgent assessment according to local medical advice, even if the person has had functional visual symptoms before.
-
-***
-[For the Person With FND](#for-the-person-with-fnd)<br>
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
-[Research and Sources](#research-and-sources)
-***
-
-## For Clinicians and the Care Team
-
-### Episodic and prolonged presentations
-
-Clarify whether visual symptoms are continuous, intermittent or situational; document duration, frequency, visual environment, migraine or sensory context, associated neurological symptoms, functional risk and recovery. A normal interval examination does not itself establish a functional cause, and symptom fluctuation does not replace the positive visual examination and appropriate exclusion of ocular, optic-nerve and neurological disease.
-
-For established episodic functional visual symptoms, give an onset plan that starts with driving/fall/injury safety and adapts a previously demonstrated preserved visual response, graded visual task or environmental strategy. Do not deliberately reproduce a visually provocative episode merely to confirm the history.
-
-### Technique outline: optokinetic response within a positive visual examination
-
-1. Define the complaint precisely and complete the indicated assessment of acuity, pupils, ocular movements, anterior and posterior segments, fields and neurological function before interpreting a functional sign.
-2. Explain that the moving striped target helps demonstrate one preserved visual response and does not quantify all aspects of sight.
-3. Seat the patient safely and present an optokinetic drum, strip or validated digital target at an appropriate distance and field size.
-4. Move the pattern smoothly in one direction while observing both eyes for a slow following phase and quick resetting phase. Repeat in the opposite direction if clinically useful.
-5. Relate the response only to the level of visual function it can support. Do not convert its presence into a precise acuity estimate or assume it excludes coexisting disease.
-6. Select other positive methods—such as mirror tracking, fogging or binocular visual-field comparison—according to the presentation and the examiner’s training.
-7. Explain the preserved function respectfully and connect it to a treatment or rehabilitation plan. Arrange reassessment when the pattern changes or the evidence is incomplete.
-
-### Media contributor brief
-
-Use a clinician and healthy volunteer or a specifically consenting patient. Record:
-
-1. A wide view showing safe seating, clinician and striped target.
-2. The smooth movement of the target, without rapid flashing or an abrupt start.
-3. A close-up of both eyes showing the tracking and resetting response.
-4. A simple diagram of the slow and fast eye-movement phases.
-5. A closing statement: “This response demonstrates some preserved visual processing. It does not measure all vision or diagnose the cause alone.”
-
-Provide a static diagram as the default media for readers who are sensitive to moving patterns. Do not film obstacle avoidance, menace responses or any demonstration that risks startling or shaming the participant.
-
-***
-[For the Person With FND](#for-the-person-with-fnd)<br>
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
-[Research and Sources](#research-and-sources)
 ***
 
 ## Research and Sources

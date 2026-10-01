@@ -6,13 +6,23 @@
 
 > **Automatically generated working draft — October 1, 2026.** Human, neurology, occupational therapy and accessibility review pending.
 
+**Refers to:**
+
+- numbness or reduced, absent or altered touch sensation;
+- tingling, burning, hypersensitivity or unusual bodily sensation; and
+- an assessed body part feeling different, distant or absent when this is a sensory presentation.
+
+**Scope boundary:** Visual and other special-sense symptoms need their own assessment, and dissociative disconnection is not automatically a sensory sign. This page’s examinations concern sensory modalities and should not be substituted for motor, seizure or cognitive assessment.
+
 ## Quick Reference
+
+**Presentation:** Altered bodily sensation assessed through its quality, distribution and carefully interpreted comparisons.
 
 - [Sensory mapping](functional_sensory_symptoms/01-sensory-mapping-and-comparison.md) — clarify the altered sensation and examine its distribution.
 - [Consistency across sensory tasks](functional_sensory_symptoms/01-sensory-mapping-and-comparison.md#interpreting-findings) — assess a specific comparison and its confounders.
 - [Midline and vibration splitting](functional_sensory_symptoms/02-midline-and-vibration-splitting.md) — understand why these traditional signs need caution.
 
-More assessments are linked [below](#diagnostic-techniques-at-a-glance).
+**More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>

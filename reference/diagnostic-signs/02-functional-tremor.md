@@ -6,11 +6,22 @@
 
 > **Automatically generated expansion — September 27, 2026.** Movement-disorders, lived-experience and accessibility review pending. Earlier inventory entries are preserved separately.
 
+**Refers to:**
+
+- rhythmic or oscillating shaking of a hand, arm, leg, head, trunk or voice; and
+- tremor that may be intermittent, task-specific, position-dependent or persistent.
+
+**Scope boundary:** Discrete non-rhythmic jerks belong on the [jerks page](03-functional-jerks-and-myoclonus.md), and a whole episodic event with altered responsiveness belongs on the [functional-seizures page](06-functional-seizures.md). Tremor techniques should not be applied to those different appearances without assessment.
+
 ## Quick Reference
+
+**Presentation:** Rhythmic shaking assessed through selected movement comparisons and, when indicated, laboratory recording.
 
 - [Distractibility](functional_tremor/01-distractibility.md) — compare tremor during another manageable task.
 - [Entrainment](functional_tremor/02-entrainment.md) — compare tremor with a rhythm tapped by the other limb.
 - [All tremor assessments](functional_tremor/technique-inventory.md) — further signs and laboratory comparisons.
+
+**More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -26,12 +37,7 @@ Tremor is a repeated back-and-forth shaking. It may interrupt something as ordin
 
 ### What this page covers
 
-**Refers to:**
 
-- rhythmic or oscillating shaking of a hand, arm, leg, head, trunk or voice; and
-- tremor that may be intermittent, task-specific, position-dependent or persistent.
-
-**Scope boundary:** Discrete non-rhythmic jerks belong on the [jerks page](03-functional-jerks-and-myoclonus.md), and a whole episodic event with altered responsiveness belongs on the [functional-seizures page](06-functional-seizures.md). Tremor techniques should not be applied to those different appearances without assessment.
 
 A functional tremor may change when attention or movement rhythm changes. **Distractibility** means that the tremor becomes different, smaller or briefly absent during another task. **Entrainment** means that the tremor takes on the same rhythm being produced by the other hand or foot.
 

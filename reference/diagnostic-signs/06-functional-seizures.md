@@ -6,12 +6,23 @@
 
 > **Automatically generated working draft — October 1, 2026.** Human, epileptology, emergency-care, lived-experience and accessibility review pending.
 
+**Refers to:**
+
+- episodes of shaking, jerking or stillness with altered responsiveness;
+- changes in awareness or memory during seizure-like events; and
+- functional seizures assessed through the whole event and its recovery.
+
+**Scope boundary:** Isolated or persistent limb paralysis belongs on the [paralysis page](15-functional-paralysis.md). A brief sudden fall without definite blackout and with rapid recovery may belong on the [drop-attacks page](16-functional-drop-attacks.md). The diagnostic method below assesses the whole event, not one shared symptom such as shaking or immobility.
+
 ## Quick Reference
+
+**Presentation:** Seizure-like episodes assessed from onset through recovery, using the history and appropriate recordings.
 
 - [Typical-event assessment and video-EEG](functional_seizures/01-typical-event-assessment-and-video-eeg.md) — assess a usual event alongside its brain electrical recording.
 - [Smartphone-video assessment](functional_seizures/02-smartphone-video-assessment.md) — expert review of a safely recorded event.
 - [Semiology and the whole event sequence](functional_seizures/03-semiology-and-event-sequence.md) — interpret signs from onset through recovery.
-More assessments are linked [below](#diagnostic-techniques-at-a-glance), with all twenty entries in the [full inventory](functional_seizures/technique-inventory.md).
+
+**More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -25,9 +36,7 @@ More assessments are linked [below](#diagnostic-techniques-at-a-glance), with al
 
 You may have episodes of shaking or jerking, or become still and unable to move or answer. You might hear people around you, feel distant from what is happening, or find gaps in your memory afterward. This page covers assessment of these seizure-like episodes, including functional seizures. The symptoms can take different forms; you do not need to experience all of them. (*citations* [1](#citation-1), [22](#citation-22))
 
-### What this page covers
-
-**Scope boundary:** Isolated or persistent limb paralysis belongs on the [paralysis page](15-functional-paralysis.md). A brief sudden fall without definite blackout and with rapid recovery may belong on the [drop-attacks page](16-functional-drop-attacks.md). The diagnostic method below assesses the whole event, not one shared symptom such as shaking or immobility.
+<a id="what-this-page-covers"></a>
 
 **Also called:** Dissociative seizures, functional/dissociative seizures or psychogenic nonepileptic seizures (PNES). The ILAE task force proposed “functional/dissociative seizures” in 2025; terminology in older papers varies. (*citations* [22](#citation-22))
 
