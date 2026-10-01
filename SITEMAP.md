@@ -292,6 +292,8 @@ Use the sections below to drill down into the course, reference library, researc
 
 - [Reference Library](reference/README.md)
 - [Detailed reference index and symptom-category map](reference/reference-index.md)
+- [Professional Roles in FND Care](reference/professional-roles-in-fnd-care.md)
+- [History of FND](reference/history-of-fnd.md)
 
 <details>
 <summary><strong>Symptom-Specific Diagnostic Signs</strong></summary>
