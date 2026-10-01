@@ -13,6 +13,8 @@ This detailed index maps practical, symptom-specific material that is easier to 
 - **[Symptom Recovery and Management Techniques](recovery-techniques/README.md)** collects research-informed rehabilitation, treatment and self-management techniques for the same 17 presentations. Its [master technique list](recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
 - **[Common Co-occurring Conditions](co-occurring-conditions/README.md)** explains nine related conditions or symptom groups, their interactions with FND and available recovery or management options. It does not add them to the 17 FND presentation categories.
 
+Two cross-cutting pages sit alongside those collections: **[Professional Roles in FND Care](professional-roles-in-fnd-care.md)** maps clinical and allied-health roles to relevant material across the site, while **[A Brief History of FND](history-of-fnd.md)** provides a selective research-linked timeline for readers who want historical context.
+
 The diagnostic and recovery collections answer different questions. A diagnostic sign helps a qualified clinician establish or explain a diagnosis. A recovery technique is an approach that may be tried after appropriate assessment. A technique working or not working does not confirm or disprove FND.
 
 ## Co-occurring conditions and symptom groups
@@ -81,7 +83,7 @@ Please follow the project’s [repository change and page maintenance policy](..
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Diagnostic Techniques](diagnostic-signs/README.md)
 
-**Related:** [Collection index](README.md) · [Recovery Techniques](recovery-techniques/README.md)
+**Related:** [Collection index](README.md) · [Professional Roles in FND Care](professional-roles-in-fnd-care.md) · [History of FND](history-of-fnd.md) · [Recovery Techniques](recovery-techniques/README.md)
 
 **Navigate:** [Home](../README.md) · [Course](../course/README.md) · [Reference Library](README.md) · [Site Map](../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
