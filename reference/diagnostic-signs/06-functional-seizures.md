@@ -8,61 +8,10 @@
 
 ## Quick Reference
 
-Functional seizures are involuntary episodes affecting movement, awareness, responsiveness, sensation or memory. Some involve shaking; others involve stillness or inability to respond. Assessment considers the whole event and its recovery.
-
-**Also called:** Dissociative seizures, functional/dissociative seizures or psychogenic nonepileptic seizures (PNES). The ILAE task force proposed “functional/dissociative seizures” in 2025; terminology in older papers varies. (*citations* [22](#citation-22))
-
-**Scope boundary:** Isolated or persistent limb paralysis belongs on the [paralysis page](15-functional-paralysis.md). A brief sudden fall without definite blackout and with rapid recovery may belong on the [drop-attacks page](16-functional-drop-attacks.md). The diagnostic method below assesses the whole event, not one shared symptom such as shaking or immobility.
-
-- **[Typical-event assessment and video-EEG](functional_seizures/01-typical-event-assessment-and-video-eeg.md):** history, witness accounts and synchronized recording help distinguish event types and state diagnostic certainty.
-- **[Smartphone-video assessment](functional_seizures/02-smartphone-video-assessment.md):** expert review of an existing, safely obtained recording can supplement the assessment.
-- **[Semiology and the whole event sequence](functional_seizures/03-semiology-and-event-sequence.md):** explains how clinicians interpret observed features together and why isolated signs can mislead.
-- **[Twenty-entry inventory](functional_seizures/technique-inventory.md):** preserves all original observations, frameworks, investigations and cautions. These are not twenty independently validated tests.
-
-## Diagnostic techniques at a glance
-
-The original descriptions and citations are preserved in the inventory. Earlier section links continue to work here.
-
-<a id="typical-event-video-eeg"></a>
-- [Typical-event video-EEG](functional_seizures/technique-inventory.md#typical-event-video-eeg)
-<a id="smartphone-video-assessment"></a>
-- [Smartphone-video assessment](functional_seizures/technique-inventory.md#smartphone-video-assessment)
-<a id="ictal-eye-closure"></a>
-- [Ictal eye closure](functional_seizures/technique-inventory.md#ictal-eye-closure)
-<a id="asynchronous-limb-movements"></a>
-- [Asynchronous limb movements](functional_seizures/technique-inventory.md#asynchronous-limb-movements)
-<a id="fluctuating-course"></a>
-- [Fluctuating course](functional_seizures/technique-inventory.md#fluctuating-course)
-<a id="event-duration"></a>
-- [Event duration](functional_seizures/technique-inventory.md#event-duration)
-<a id="side-to-side-head-movement"></a>
-- [Side-to-side head movement](functional_seizures/technique-inventory.md#side-to-side-head-movement)
-<a id="pelvic-thrusting"></a>
-- [Pelvic thrusting](functional_seizures/technique-inventory.md#pelvic-thrusting)
-<a id="back-arching"></a>
-- [Back arching](functional_seizures/technique-inventory.md#back-arching)
-<a id="ictal-responsiveness"></a>
-- [Ictal responsiveness](functional_seizures/technique-inventory.md#ictal-responsiveness)
-<a id="recall-of-the-event"></a>
-- [Recall of the event](functional_seizures/technique-inventory.md#recall-of-the-event)
-<a id="postictal-breathing-and-recovery"></a>
-- [Postictal breathing and recovery](functional_seizures/technique-inventory.md#postictal-breathing-and-recovery)
-<a id="ictal-crying-or-weeping"></a>
-- [Ictal crying or weeping](functional_seizures/technique-inventory.md#ictal-crying-or-weeping)
-<a id="combined-semiology-tools"></a>
-- [Combined semiology tools](functional_seizures/technique-inventory.md#combined-semiology-tools)
-<a id="ilae-diagnostic-certainty-framework"></a>
-- [ILAE diagnostic-certainty framework](functional_seizures/technique-inventory.md#ilae-diagnostic-certainty-framework)
-<a id="handarm-drop-avoidance-during-unresponsiveness"></a>
-- [Hand/arm-drop avoidance during unresponsiveness](functional_seizures/technique-inventory.md#handarm-drop-avoidance-during-unresponsiveness)
-<a id="modified-hand-drop-and-eyelid-observations"></a>
-- [Modified hand-drop and eyelid observations](functional_seizures/technique-inventory.md#modified-hand-drop-and-eyelid-observations)
-<a id="suggestion-and-induction-protocols"></a>
-- [Suggestion and induction protocols](functional_seizures/technique-inventory.md#suggestion-and-induction-protocols)
-<a id="prolactin-lactate-and-creatine-kinase"></a>
-- [Prolactin, lactate and creatine kinase](functional_seizures/technique-inventory.md#prolactin-lactate-and-creatine-kinase)
-<a id="tilt-testing-for-apparent-blackouts"></a>
-- [Tilt testing for apparent blackouts](functional_seizures/technique-inventory.md#tilt-testing-for-apparent-blackouts)
+- [Typical-event assessment and video-EEG](functional_seizures/01-typical-event-assessment-and-video-eeg.md) — assess a usual event alongside its brain electrical recording.
+- [Smartphone-video assessment](functional_seizures/02-smartphone-video-assessment.md) — expert review of a safely recorded event.
+- [Semiology and the whole event sequence](functional_seizures/03-semiology-and-event-sequence.md) — interpret signs from onset through recovery.
+- [All seizure assessments](functional_seizures/technique-inventory.md) — further signs, investigations and their limits.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -74,7 +23,15 @@ The original descriptions and citations are preserved in the inventory. Earlier 
 
 ## For the Person With FND
 
-Functional seizures are real episodes that may include changes in movement, awareness, sensation, responsiveness or memory. They can resemble epileptic seizures, fainting and other episodic conditions. No single behaviour—closed eyes, shaking, crying, a long event or remembering part of it—proves that an event is functional.
+You may have episodes of shaking or jerking, or become still and unable to move or answer. You might hear people around you, feel distant from what is happening, or find gaps in your memory afterward. This page covers assessment of these seizure-like episodes, including functional seizures. The symptoms can take different forms; you do not need to experience all of them. (*citations* [1](#citation-1), [22](#citation-22))
+
+### What this page covers
+
+**Scope boundary:** Isolated or persistent limb paralysis belongs on the [paralysis page](15-functional-paralysis.md). A brief sudden fall without definite blackout and with rapid recovery may belong on the [drop-attacks page](16-functional-drop-attacks.md). The diagnostic method below assesses the whole event, not one shared symptom such as shaking or immobility.
+
+**Also called:** Dissociative seizures, functional/dissociative seizures or psychogenic nonepileptic seizures (PNES). The ILAE task force proposed “functional/dissociative seizures” in 2025; terminology in older papers varies. (*citations* [22](#citation-22))
+
+Functional seizures are involuntary. Epileptic seizures, fainting and other episodic conditions can share some of these experiences, so the clinician needs to assess the whole event. No single behaviour establishes its cause.
 
 The most reliable assessment begins with a detailed account from you and anyone who witnessed the event. A clinician may review a safely obtained home video. When it is feasible, the diagnostic standard is to record a **typical event** using video-EEG, so the person’s behaviour and the brain’s electrical activity can be interpreted together. More than one type of event may need to be recorded. (*citations* [1](#citation-1), [2](#citation-2))
 
@@ -187,6 +144,57 @@ Antiseizure medication decisions require a prescriber-led review of epilepsy and
 ### Media contributor brief
 
 The original process-diagram brief is preserved on the [video-EEG page](functional_seizures/01-typical-event-assessment-and-video-eeg.md#media-and-accessibility). No seizure footage or attributed patient quotation has been added.
+
+
+<details>
+<summary>Full diagnostic inventory and earlier section links</summary>
+
+## Diagnostic techniques at a glance
+
+The original descriptions and citations are preserved in the inventory. Earlier section links continue to work here.
+
+<a id="typical-event-video-eeg"></a>
+- [Typical-event video-EEG](functional_seizures/technique-inventory.md#typical-event-video-eeg)
+<a id="smartphone-video-assessment"></a>
+- [Smartphone-video assessment](functional_seizures/technique-inventory.md#smartphone-video-assessment)
+<a id="ictal-eye-closure"></a>
+- [Ictal eye closure](functional_seizures/technique-inventory.md#ictal-eye-closure)
+<a id="asynchronous-limb-movements"></a>
+- [Asynchronous limb movements](functional_seizures/technique-inventory.md#asynchronous-limb-movements)
+<a id="fluctuating-course"></a>
+- [Fluctuating course](functional_seizures/technique-inventory.md#fluctuating-course)
+<a id="event-duration"></a>
+- [Event duration](functional_seizures/technique-inventory.md#event-duration)
+<a id="side-to-side-head-movement"></a>
+- [Side-to-side head movement](functional_seizures/technique-inventory.md#side-to-side-head-movement)
+<a id="pelvic-thrusting"></a>
+- [Pelvic thrusting](functional_seizures/technique-inventory.md#pelvic-thrusting)
+<a id="back-arching"></a>
+- [Back arching](functional_seizures/technique-inventory.md#back-arching)
+<a id="ictal-responsiveness"></a>
+- [Ictal responsiveness](functional_seizures/technique-inventory.md#ictal-responsiveness)
+<a id="recall-of-the-event"></a>
+- [Recall of the event](functional_seizures/technique-inventory.md#recall-of-the-event)
+<a id="postictal-breathing-and-recovery"></a>
+- [Postictal breathing and recovery](functional_seizures/technique-inventory.md#postictal-breathing-and-recovery)
+<a id="ictal-crying-or-weeping"></a>
+- [Ictal crying or weeping](functional_seizures/technique-inventory.md#ictal-crying-or-weeping)
+<a id="combined-semiology-tools"></a>
+- [Combined semiology tools](functional_seizures/technique-inventory.md#combined-semiology-tools)
+<a id="ilae-diagnostic-certainty-framework"></a>
+- [ILAE diagnostic-certainty framework](functional_seizures/technique-inventory.md#ilae-diagnostic-certainty-framework)
+<a id="handarm-drop-avoidance-during-unresponsiveness"></a>
+- [Hand/arm-drop avoidance during unresponsiveness](functional_seizures/technique-inventory.md#handarm-drop-avoidance-during-unresponsiveness)
+<a id="modified-hand-drop-and-eyelid-observations"></a>
+- [Modified hand-drop and eyelid observations](functional_seizures/technique-inventory.md#modified-hand-drop-and-eyelid-observations)
+<a id="suggestion-and-induction-protocols"></a>
+- [Suggestion and induction protocols](functional_seizures/technique-inventory.md#suggestion-and-induction-protocols)
+<a id="prolactin-lactate-and-creatine-kinase"></a>
+- [Prolactin, lactate and creatine kinase](functional_seizures/technique-inventory.md#prolactin-lactate-and-creatine-kinase)
+<a id="tilt-testing-for-apparent-blackouts"></a>
+- [Tilt testing for apparent blackouts](functional_seizures/technique-inventory.md#tilt-testing-for-apparent-blackouts)
+
+</details>
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>

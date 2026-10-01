@@ -6,22 +6,11 @@
 
 > **Automatically generated expansion — September 27, 2026.** Movement-disorders, lived-experience and accessibility review pending. Earlier inventory entries are preserved separately.
 
-**Refers to:**
-
-- rhythmic or oscillating shaking of a hand, arm, leg, head, trunk or voice; and
-- tremor that may be intermittent, task-specific, position-dependent or persistent.
-
-**Scope boundary:** Discrete non-rhythmic jerks belong on the [jerks page](03-functional-jerks-and-myoclonus.md), and a whole episodic event with altered responsiveness belongs on the [functional-seizures page](06-functional-seizures.md). Tremor techniques should not be applied to those different appearances without assessment.
-
 ## Quick Reference
 
-Functional tremor is involuntary rhythmic shaking assessed through positive movement patterns in the wider neurological examination.
-
-- **[Distractibility](functional_tremor/01-distractibility.md):** compare the tremor during another manageable task; distinguish a clear change from ordinary fluctuation.
-- **[Entrainment](functional_tremor/02-entrainment.md):** assess whether a limb tremor follows the rhythm tapped by the other limb; a pause alone is not entrainment.
-- **[Complete twelve-entry inventory](functional_tremor/technique-inventory.md):** other signs, laboratory comparisons and the combined test battery, with their limits.
-
-[Understanding a positive diagnosis](../diagnostic-concepts/01-positive-diagnosis.md) explains how findings fit together. [Tests and investigations](../diagnostic-concepts/03-tests-and-investigations.md) explains the different questions a test can answer.
+- [Distractibility](functional_tremor/01-distractibility.md) — compare tremor during another manageable task.
+- [Entrainment](functional_tremor/02-entrainment.md) — compare tremor with a rhythm tapped by the other limb.
+- [All tremor assessments](functional_tremor/technique-inventory.md) — further signs and laboratory comparisons.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -34,6 +23,15 @@ Functional tremor is involuntary rhythmic shaking assessed through positive move
 ## For the Person With FND
 
 Tremor is a repeated back-and-forth shaking. It may interrupt something as ordinary as holding a cup, using a phone or bringing food to your mouth. Those examples are useful starting points for telling the clinician what matters to you; the appearance of the shaking is only part of the assessment.
+
+### What this page covers
+
+**Refers to:**
+
+- rhythmic or oscillating shaking of a hand, arm, leg, head, trunk or voice; and
+- tremor that may be intermittent, task-specific, position-dependent or persistent.
+
+**Scope boundary:** Discrete non-rhythmic jerks belong on the [jerks page](03-functional-jerks-and-myoclonus.md), and a whole episodic event with altered responsiveness belongs on the [functional-seizures page](06-functional-seizures.md). Tremor techniques should not be applied to those different appearances without assessment.
 
 A functional tremor may change when attention or movement rhythm changes. **Distractibility** means that the tremor becomes different, smaller or briefly absent during another task. **Entrainment** means that the tremor takes on the same rhythm being produced by the other hand or foot.
 

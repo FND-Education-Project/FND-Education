@@ -6,22 +6,10 @@
 
 > **Automatically generated expansion — September 29, 2026.** Human, movement-disorders, pain and accessibility review pending.
 
-**Refers to:**
-
-- fixed, sustained or intermittent patterned postures;
-- pulling, twisting or spasm affecting a limb, trunk or neck; and
-- an assessed functional dystonia phenotype rather than muscle tightness alone.
-
-**Scope boundary:** Face- or jaw-dominant pulling belongs on the [facial symptoms page](14-functional-facial-symptoms.md), while weakness and brief jerks use their own pages. Diagnostic and recovery techniques must follow whether the observed problem is overactivity, weakness or another movement pattern.
-
 ## Quick Reference
 
-Functional dystonia involves involuntary postures or patterned movements assessed through the history and examination together.
-
-- **[Pattern-based history and movement examination](functional_dystonia/01-pattern-based-history-and-movement-examination.md):** the main specialist assessment, used to compare the observed movement with possible causes and look for meaningful positive findings.
-- **[Diagnostic inventory](functional_dystonia/technique-inventory.md):** ten original entries, plus one separately dated research addition. Observations and research methods have different roles.
-- **[Understanding positive diagnosis](../diagnostic-concepts/01-positive-diagnosis.md):** how findings support a diagnosis while allowing for uncertainty and coexisting conditions.
-
+- [Pattern-based history and movement examination](functional_dystonia/01-pattern-based-history-and-movement-examination.md) — assess posture, time course and changes across tasks.
+- [All dystonia assessments](functional_dystonia/technique-inventory.md) — other observations and specialist research methods.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -33,11 +21,23 @@ Functional dystonia involves involuntary postures or patterned movements assesse
 
 ## For the Person With FND
 
-**Dystonia** describes involuntary muscle activity that produces abnormal postures or movements. Functional dystonia may appear as a fixed posture, often involving a hand or foot, or as variable episodes of posturing. Pain, swelling and overlap with complex regional pain syndrome may complicate the picture. (*citations* [1](#citation-1))
+A hand that stays curled or a foot that turns inward can make ordinary things awkward, painful or impossible. You may feel a part of your body pulling or twisting into a position, either for a short time or for much longer. This page explains assessment of these postures and movements, including functional dystonia. (*citations* [1](#citation-1))
+
+### What this page covers
+
+**Refers to:**
+
+- fixed, sustained or intermittent patterned postures;
+- pulling, twisting or spasm affecting a limb, trunk or neck; and
+- an assessed functional dystonia phenotype rather than muscle tightness alone.
+
+**Scope boundary:** Face- or jaw-dominant pulling belongs on the [facial symptoms page](14-functional-facial-symptoms.md), while weakness and brief jerks use their own pages. Diagnostic and recovery techniques must follow whether the observed problem is overactivity, weakness or another movement pattern.
 
 > **Fixed posture:** A position that persists at rest. **Mobile posture:** A position that changes as the movement continues. These describe what is seen, rather than its cause.
 
-A hand that stays curled or a foot that turns inward can make ordinary things awkward, painful or impossible. At the appointment, it helps to explain the task you are trying to do: getting a shoe on, washing your palm, reaching something or finding a comfortable sleeping position. These are examples to help start the conversation, not effects that everyone has.
+**Dystonia** describes involuntary muscle activity that produces abnormal postures or movements. Functional dystonia may appear as a fixed posture, often involving a hand or foot, or as variable episodes of posturing. Pain, swelling and overlap with complex regional pain syndrome may complicate the picture. (*citations* [1](#citation-1))
+
+At the appointment, it helps to explain the task you are trying to do: getting a shoe on, washing your palm, reaching something or finding a comfortable sleeping position. These are examples to help start the conversation, not effects that everyone has.
 
 ### Episodic and fixed presentations
 
