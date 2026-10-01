@@ -22,6 +22,8 @@ Current recommendations support individualized multidisciplinary care and clear 
 - **[Shared Goals and Clear Responsibilities](02-coordination-shared-goals-and-care-without-local-specialists.md)** — connect what matters to you with named responsibilities and review.
 - **[Care When No Local FND Specialist Is Available](03-care-when-no-local-fnd-specialist-is-available.md)** — consider supported local care, remote advice and their limits.
 
+For a profession-facing version of this question, see **[Professional Roles in FND Care](../../../reference/professional-roles-in-fnd-care.md)**. It starts with a specialty table, then gives each profession a short role description, cautions, search tags and links to relevant FND material.
+
 > **Inside each page:** [Person with FND](01-who-may-be-on-the-treatment-team.md#for-the-person-with-fnd) · [Supporters](01-who-may-be-on-the-treatment-team.md#for-family-friends-and-other-supporters) · [Clinicians](01-who-may-be-on-the-treatment-team.md#for-clinicians-and-the-care-team) · [Research](01-who-may-be-on-the-treatment-team.md#research-and-sources)
 >
 > Every page in this module uses these same four main sections.

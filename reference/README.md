@@ -12,16 +12,27 @@ This reference is designed for finding information quickly. If you already know 
 
 For shared explanations of diagnosis, investigations and everyday function, see [Understanding an FND Diagnosis](diagnostic-concepts/README.md).
 
+Health professionals can use **[Professional Roles in FND Care](professional-roles-in-fnd-care.md)** to find where their specialty may fit and jump directly to relevant pages across the site.
+
 For a step-by-step introduction to FND, including how current research helps us understand it, visit the [FND Course](../course/).
 
 ---
 
 ***
+[Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
 [More Reference Topics](#more-fnd-reference-topics)
 ***
+
+## For Health Professionals: Find Your Role in FND Care
+
+**[Professional Roles in FND Care](professional-roles-in-fnd-care.md)** provides a specialty table and short profession-by-profession guidance for neurologists, primary care, physiotherapy, occupational therapy, speech-language therapy, psychology, psychiatry, neuropsychology, rehabilitation medicine, nursing, emergency care, social work and other specialties.
+
+Use it when the question is not only *what does this patient have?* but also *what part of their care belongs to me, and where should I continue reading?*
+
+---
 
 ## Find an FND Symptom
 
@@ -143,6 +154,7 @@ Part of the face may pull, tighten, spasm, droop or feel difficult to control. T
 ---
 
 ***
+[Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
@@ -162,6 +174,7 @@ Part of the face may pull, tighten, spasm, droop or feel difficult to control. T
 ---
 
 ***
+[Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
@@ -225,6 +238,7 @@ For a more structured explanation beginning with the basic concepts and building
 ---
 
 ***
+[Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
@@ -275,6 +289,18 @@ FND symptoms can change across movements, situations and times of day. These var
 
 A useful explanation can help a person understand what has been found during the assessment, why the diagnosis was made and what the diagnosis may mean for treatment and recovery.
 
+## Professional Roles in FND Care
+
+[Find your profession and relevant FND pages](professional-roles-in-fnd-care.md)
+
+A profession-facing map of diagnosis, rehabilitation, daily function, communication, cognition, mental health, acute care and social support. Each profession includes search-oriented tags and links to the parts of this site most relevant to that role.
+
+## A Brief History of FND
+
+[View the FND timeline](history-of-fnd.md)
+
+A selective timeline of major changes in FND diagnosis, mechanisms, rehabilitation and clinical guidance, with links to representative papers and sources. This is background reading rather than a required starting point.
+
 ## Family, Friends and Other Supporters
 
 [Visit the supporter reference](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md#for-family-friends-and-other-supporters)
@@ -284,6 +310,7 @@ Supporters can play an important role in understanding symptoms, responding duri
 ---
 
 ***
+[Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
