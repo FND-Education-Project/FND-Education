@@ -8,44 +8,9 @@
 
 ## Quick Reference
 
-**Functional gait disorder** is an involuntary difficulty with walking in which positive clinical findings support altered movement control. Legs may drag, knees may give way, steps may hesitate, or balance may feel unreliable. Appearance alone cannot identify the cause.
-
-**Scope boundary:** Primary limb weakness also belongs on the [weakness page](01-functional-limb-weakness.md), complete movement loss on the [paralysis page](15-functional-paralysis.md), a sudden fall without definite blackout on the [drop-attacks page](16-functional-drop-attacks.md), and persistent dizziness on the [PPPD page](13-persistent-postural-perceptual-dizziness.md). Gait comparisons apply only when standing and walking can be assessed safely.
-
-- **[Sign-based gait comparison](functional_gait_disorder/01-sign-based-gait-comparison.md):** selected, guarded walking tasks help a clinician assess a meaningful mismatch in the movement pattern. This is a clinical approach, not one scored test.
-- **[Swivel-chair assessment](functional_gait_disorder/02-swivel-chair-assessment.md):** an optional comparison of walking with seated leg propulsion. Many people with functional gait disorder do not show this sign.
-- **[Original 13-entry inventory](functional_gait_disorder/technique-inventory.md):** includes observations, comparisons and research investigations; not thirteen independently validated tests.
-
-## Diagnostic techniques at a glance
-
-The original descriptions and citations have moved to the inventory. These links preserve earlier section destinations. Not everyone needs every comparison.
-
-<a id="knee-buckling-with-preserved-support"></a>
-- [Knee buckling with preserved support](functional_gait_disorder/technique-inventory.md#knee-buckling-with-preserved-support)
-<a id="dragging-and-uneconomic-postures"></a>
-- [Dragging and uneconomic postures](functional_gait_disorder/technique-inventory.md#dragging-and-uneconomic-postures)
-<a id="cautious-walking-on-ice-pattern"></a>
-- [Cautious “walking on ice” pattern](functional_gait_disorder/technique-inventory.md#cautious-walking-on-ice-pattern)
-<a id="dual-task-walking"></a>
-- [Dual-task walking](functional_gait_disorder/technique-inventory.md#dual-task-walking)
-<a id="backward-walking"></a>
-- [Backward walking](functional_gait_disorder/technique-inventory.md#backward-walking)
-<a id="running-or-another-automatic-movement"></a>
-- [Running or another automatic movement](functional_gait_disorder/technique-inventory.md#running-or-another-automatic-movement)
-<a id="rhythm-and-externally-cued-walking"></a>
-- [Rhythm and externally cued walking](functional_gait_disorder/technique-inventory.md#rhythm-and-externally-cued-walking)
-<a id="tandem-gait"></a>
-- [Tandem gait](functional_gait_disorder/technique-inventory.md#tandem-gait)
-<a id="romberg-comparison"></a>
-- [Romberg comparison](functional_gait_disorder/technique-inventory.md#romberg-comparison)
-<a id="postural-response-comparison"></a>
-- [Postural-response comparison](functional_gait_disorder/technique-inventory.md#postural-response-comparison)
-<a id="swivel-chair-test"></a>
-- [Swivel-chair test](functional_gait_disorder/technique-inventory.md#swivel-chair-test)
-<a id="effort-associated-behaviour-huffing-and-puffing"></a>
-- [Effort-associated behaviour (“huffing and puffing”)](functional_gait_disorder/technique-inventory.md#effort-associated-behaviour-huffing-and-puffing)
-<a id="instrumented-balance-and-adaptation-studies"></a>
-- [Instrumented balance and adaptation studies](functional_gait_disorder/technique-inventory.md#instrumented-balance-and-adaptation-studies)
+- [Sign-based gait comparison](functional_gait_disorder/01-sign-based-gait-comparison.md) — compare selected walking tasks with appropriate guarding.
+- [Swivel-chair assessment](functional_gait_disorder/02-swivel-chair-assessment.md) — compare walking with seated leg propulsion.
+- [All gait assessments](functional_gait_disorder/technique-inventory.md) — further observations and investigations.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -57,7 +22,11 @@ The original descriptions and citations have moved to the inventory. These links
 
 ## For the Person With FND
 
-There is no single “functional gait.” People may have knee buckling, dragging, very slow walking, excessive swaying, a crouched posture or another pattern. Some of these appearances also occur in neurological, vestibular, musculoskeletal or medication-related conditions.
+Walking may become hesitant or unusually slow. A foot may drag, a knee may give way, or your body may sway even while you are trying to stay steady. Functional gait disorder can take these and other forms. This page explains how clinicians assess the walking difficulty and distinguish it from other conditions that can look similar.
+
+### What this page covers
+
+**Scope boundary:** Primary limb weakness also belongs on the [weakness page](01-functional-limb-weakness.md), complete movement loss on the [paralysis page](15-functional-paralysis.md), a sudden fall without definite blackout on the [drop-attacks page](16-functional-drop-attacks.md), and persistent dizziness on the [PPPD page](13-persistent-postural-perceptual-dizziness.md). Gait comparisons apply only when standing and walking can be assessed safely.
 
 A clinician looks for the *pattern across tasks*. For example, a gait difficulty may unexpectedly improve during safe backward walking, tandem walking, rhythmical stepping or another task that is normally more demanding. The improvement is not proof that the original difficulty was chosen. It may demonstrate that a more effective walking pattern remains available under different conditions. (*citations* [1](#citation-1))
 
@@ -148,6 +117,43 @@ Ask about repeated walking, stairs, uneven ground, time pressure, visual/cogniti
 ### Media contributor brief
 
 The original filming sequence and safeguards are retained on the [comparison page](functional_gait_disorder/01-sign-based-gait-comparison.md#media-and-accessibility). No patient footage or attributed lived-experience quotation has been added.
+
+
+<details>
+<summary>Full diagnostic inventory and earlier section links</summary>
+
+## Diagnostic techniques at a glance
+
+The original descriptions and citations have moved to the inventory. These links preserve earlier section destinations. Not everyone needs every comparison.
+
+<a id="knee-buckling-with-preserved-support"></a>
+- [Knee buckling with preserved support](functional_gait_disorder/technique-inventory.md#knee-buckling-with-preserved-support)
+<a id="dragging-and-uneconomic-postures"></a>
+- [Dragging and uneconomic postures](functional_gait_disorder/technique-inventory.md#dragging-and-uneconomic-postures)
+<a id="cautious-walking-on-ice-pattern"></a>
+- [Cautious “walking on ice” pattern](functional_gait_disorder/technique-inventory.md#cautious-walking-on-ice-pattern)
+<a id="dual-task-walking"></a>
+- [Dual-task walking](functional_gait_disorder/technique-inventory.md#dual-task-walking)
+<a id="backward-walking"></a>
+- [Backward walking](functional_gait_disorder/technique-inventory.md#backward-walking)
+<a id="running-or-another-automatic-movement"></a>
+- [Running or another automatic movement](functional_gait_disorder/technique-inventory.md#running-or-another-automatic-movement)
+<a id="rhythm-and-externally-cued-walking"></a>
+- [Rhythm and externally cued walking](functional_gait_disorder/technique-inventory.md#rhythm-and-externally-cued-walking)
+<a id="tandem-gait"></a>
+- [Tandem gait](functional_gait_disorder/technique-inventory.md#tandem-gait)
+<a id="romberg-comparison"></a>
+- [Romberg comparison](functional_gait_disorder/technique-inventory.md#romberg-comparison)
+<a id="postural-response-comparison"></a>
+- [Postural-response comparison](functional_gait_disorder/technique-inventory.md#postural-response-comparison)
+<a id="swivel-chair-test"></a>
+- [Swivel-chair test](functional_gait_disorder/technique-inventory.md#swivel-chair-test)
+<a id="effort-associated-behaviour-huffing-and-puffing"></a>
+- [Effort-associated behaviour (“huffing and puffing”)](functional_gait_disorder/technique-inventory.md#effort-associated-behaviour-huffing-and-puffing)
+<a id="instrumented-balance-and-adaptation-studies"></a>
+- [Instrumented balance and adaptation studies](functional_gait_disorder/technique-inventory.md#instrumented-balance-and-adaptation-studies)
+
+</details>
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>

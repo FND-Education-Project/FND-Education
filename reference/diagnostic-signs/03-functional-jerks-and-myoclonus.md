@@ -6,25 +6,10 @@
 
 > **Automatically generated expansion — September 28, 2026.** Human, movement-disorders, clinical-neurophysiology and accessibility review pending.
 
-**Refers to:**
-
-- sudden, brief, non-rhythmic limb, trunk or whole-body jerks;
-- isolated jerks or repeated clusters; and
-- assessed functional myoclonus or startle-like jerks.
-
-**Scope boundary:** Rhythmic oscillation belongs on the [tremor page](02-functional-tremor.md), patterned posturing on the [dystonia page](04-functional-dystonia.md), and a larger episodic event on the [functional-seizures page](06-functional-seizures.md). The laboratory method below applies to repeated jerks that can be recorded, not every sudden movement.
-
 ## Quick Reference
 
-Functional jerks are involuntary sudden movements assessed through their clinical pattern and, when needed, specialist recordings.
-
-- **[EEG–EMG with jerk-locked back-averaging](functional_jerks_and_myoclonus/01-eeg-emg-and-jerk-locked-back-averaging.md):** compares scalp electrical activity with the start of repeated muscle jerks; useful when the source of the movements is uncertain.
-- **[Nine-entry diagnostic inventory](functional_jerks_and_myoclonus/technique-inventory.md):** clinical observations, muscle recordings, additional analyses and investigations for other causes.
-- **[Understanding a positive diagnosis](../diagnostic-concepts/01-positive-diagnosis.md):** how findings fit together. A missing premovement signal does not exclude functional jerks.
-
-### Motor and vocal tic-like symptoms
-
-Jerks and tic-like symptoms may look similar but are not interchangeable diagnoses. Motor tics can coexist with jerks. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
+- [EEG–EMG and jerk-locked back-averaging](functional_jerks_and_myoclonus/01-eeg-emg-and-jerk-locked-back-averaging.md) — compare brain and muscle recordings around repeated jerks.
+- [All jerk assessments](functional_jerks_and_myoclonus/technique-inventory.md) — clinical observations and additional investigations.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -36,11 +21,28 @@ Jerks and tic-like symptoms may look similar but are not interchangeable diagnos
 
 ## For the Person With FND
 
-**Myoclonus** is the clinical term for sudden, brief jerk-like movements. Functional jerks may vary in timing, distribution and response to attention, but some non-functional forms of myoclonus can also be irregular. Complex cases may need specialist neurophysiology rather than visual judgement alone. (*citations* [1](#citation-1), [2](#citation-2))
+A sudden jerk may move your arm, leg or body before you can stop it. It might interrupt a sip of water or a movement you were trying to make. The jerks may happen one at a time or in repeated clusters. This page concerns assessment of these brief movements, including functional jerks. **Myoclonus** is the clinical term for sudden, brief jerk-like movements. (*citations* [1](#citation-1), [2](#citation-2))
+
+### What this page covers
+
+**Refers to:**
+
+- sudden, brief, non-rhythmic limb, trunk or whole-body jerks;
+- isolated jerks or repeated clusters; and
+- assessed functional myoclonus or startle-like jerks.
+
+**Scope boundary:** Rhythmic oscillation belongs on the [tremor page](02-functional-tremor.md), patterned posturing on the [dystonia page](04-functional-dystonia.md), and a larger episodic event on the [functional-seizures page](06-functional-seizures.md). The laboratory method below applies to repeated jerks that can be recorded, not every sudden movement.
+
+### Motor and vocal tic-like symptoms
+
+Jerks and tic-like symptoms may look similar but are not interchangeable diagnoses. Motor tics can coexist with jerks. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
+
 
 > **Neurophysiology:** Tests of how nerves, muscles and the brain work, often using electrical recordings.
 
-A jerk might interrupt a sip of water or a movement you were trying to make. What matters at the appointment includes both the movement and what it interrupts. Tell the clinician which activities become difficult, what help makes them possible, and what happens afterwards. These are conversation prompts, not a list of effects everyone must have.
+What matters at the appointment includes both the movement and what it interrupts. Tell the clinician which activities become difficult, what help makes them possible, and what happens afterwards. These are conversation prompts, not a list of effects everyone must have.
+
+Functional jerks may vary in timing, distribution and response to attention, but some other forms of myoclonus can also be irregular. Complex cases may need specialist neurophysiology rather than visual judgement alone. (*citations* [1](#citation-1), [2](#citation-2))
 
 ### What the recordings are looking for
 
