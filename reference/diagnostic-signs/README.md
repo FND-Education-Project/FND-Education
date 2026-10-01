@@ -14,9 +14,11 @@ Each symptom page now includes a **Diagnostic techniques at a glance** inventory
 
 **Staged review:** The September 19, 2026 baseline inventory contains 170 entries across the 17 pages. The September 29 dystonia update adds one separately dated research entry, bringing the current catalogue to 171 entries; this does not change the historical baseline. It is a broad starting inventory, not a completed systematic review of every technique and every replication. Primary studies are cited where identified; some entries rely on specialist descriptions or consensus guidance because standalone validation has not been established. Expand and review individual technique pages one at a time, checking original full texts, later replications, conflicting findings and additional techniques before describing their evidence trail as complete.
 
-**Expansion progress:** Initial drafts now cover **6 of the original 17 symptom sets**, leaving **11**. The scan-negative cauda equina starter is a separate pending overlap page. This counts initial symptom expansions, not completion of every inventory technique or human review. See the [running tracker](../../docs/project/diagnostic-expansion-progress.md).
+**Expansion progress:** Initial drafts now cover **7 of the original 17 symptom sets**, leaving **10**. The scan-negative cauda equina starter is a separate pending overlap page. This counts initial symptom expansions, not completion of every inventory technique or human review. See the [running tracker](../../docs/project/diagnostic-expansion-progress.md).
 
 ## In this folder
+
+- **[Functional Sensory Symptoms](07-functional-sensory-symptoms.md)** — expanded overview, [sensory mapping](functional_sensory_symptoms/01-sensory-mapping-and-comparison.md), [splitting-sign limitations](functional_sensory_symptoms/02-midline-and-vibration-splitting.md) and the preserved [seven-entry inventory](functional_sensory_symptoms/technique-inventory.md).
 
 - **[Functional Seizures](06-functional-seizures.md)** — expanded overview, [typical-event video-EEG](functional_seizures/01-typical-event-assessment-and-video-eeg.md), [smartphone video](functional_seizures/02-smartphone-video-assessment.md), [whole-event semiology](functional_seizures/03-semiology-and-event-sequence.md) and the preserved [twenty-entry inventory](functional_seizures/technique-inventory.md).
 

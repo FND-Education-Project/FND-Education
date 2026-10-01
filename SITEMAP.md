@@ -322,6 +322,9 @@ Use the sections below to drill down into the course, reference library, researc
 - [Semiology and the Whole Event Sequence](reference/diagnostic-signs/functional_seizures/03-semiology-and-event-sequence.md)
 - [Functional Seizures: Diagnostic Technique Inventory](reference/diagnostic-signs/functional_seizures/technique-inventory.md)
 - [Functional Sensory Symptoms](reference/diagnostic-signs/07-functional-sensory-symptoms.md)
+- [Sensory Mapping and Comparison](reference/diagnostic-signs/functional_sensory_symptoms/01-sensory-mapping-and-comparison.md)
+- [Midline and Vibration Splitting: Interpretation and Limits](reference/diagnostic-signs/functional_sensory_symptoms/02-midline-and-vibration-splitting.md)
+- [Functional Sensory Symptoms: Diagnostic Technique Inventory](reference/diagnostic-signs/functional_sensory_symptoms/technique-inventory.md)
 - [Functional Visual Symptoms](reference/diagnostic-signs/08-functional-visual-symptoms.md)
 - [Functional Speech and Voice Symptoms](reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md)
 - [Functional Swallowing Symptoms and Globus](reference/diagnostic-signs/10-functional-swallowing-and-globus.md)
@@ -765,3 +768,5 @@ Use the sections below to drill down into the course, reference library, researc
 - [Understanding an FND Diagnosis](reference/diagnostic-concepts/README.md)
 - [Hoover’s Sign](reference/diagnostic-signs/functional_limb_weakness/01-hoovers-sign.md)
 - [Functional Limb Weakness: Diagnostic Inventory](reference/diagnostic-signs/functional_limb_weakness/technique-inventory.md)
+
+- [Functional sensory diagnostic expansion record](docs/project/functional-sensory-diagnostic-expansion.md)

@@ -2132,3 +2132,32 @@ Current use: [History of FND](../reference/history-of-fnd.md).
 ### Current uses: professional-roles-in-fnd-care.md
 
 [professional-roles-in-fnd-care.md](../reference/professional-roles-in-fnd-care.md): [FND-CIT-0002](#fnd-cit-0002), [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0012](#fnd-cit-0012), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0029](#fnd-cit-0029), [FND-CIT-0070](#fnd-cit-0070), [FND-CIT-0071](#fnd-cit-0071), [FND-CIT-0076](#fnd-cit-0076), [FND-CIT-0077](#fnd-cit-0077), [FND-CIT-0083](#fnd-cit-0083).
+
+## Functional sensory diagnostic expansion source-use map
+
+Checked October 1, 2026. Includes inherited sources; full reappraisal is not claimed for every inventory paper.
+
+| Page | Stable sources |
+|---|---|
+| [07-functional-sensory-symptoms.md](../reference/diagnostic-signs/07-functional-sensory-symptoms.md) | [FND-CIT-0002](#fnd-cit-0002), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0023](#fnd-cit-0023), [FND-CIT-0126](#fnd-cit-0126), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0243](#fnd-cit-0243), [FND-CIT-0244](#fnd-cit-0244), [FND-CIT-0245](#fnd-cit-0245) |
+| [functional_sensory_symptoms/01-sensory-mapping-and-comparison.md](../reference/diagnostic-signs/functional_sensory_symptoms/01-sensory-mapping-and-comparison.md) | [FND-CIT-0023](#fnd-cit-0023), [FND-CIT-0002](#fnd-cit-0002), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0245](#fnd-cit-0245) |
+| [functional_sensory_symptoms/02-midline-and-vibration-splitting.md](../reference/diagnostic-signs/functional_sensory_symptoms/02-midline-and-vibration-splitting.md) | [FND-CIT-0023](#fnd-cit-0023), [FND-CIT-0126](#fnd-cit-0126), [FND-CIT-0243](#fnd-cit-0243) |
+| [functional_sensory_symptoms/technique-inventory.md](../reference/diagnostic-signs/functional_sensory_symptoms/technique-inventory.md) | [FND-CIT-0023](#fnd-cit-0023), [FND-CIT-0002](#fnd-cit-0002), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0126](#fnd-cit-0126), [FND-CIT-0022](#fnd-cit-0022) |
+
+## FND-CIT-0243
+
+Koh PX, Ti J, Saffari SE, Lim ZYIC, Tu T. Hemisensory syndrome: Hyperacute symptom onset and age differentiates ischemic stroke from other aetiologies. *BMC Neurology*. 2021;21:179. [DOI](https://doi.org/10.1186/s12883-021-02206-8).
+
+Full methods/results and limitations checked. Selected hospitalized hemisensory cohort; not a population prevalence or FND validation study. Checked October 1, 2026. Current uses are listed in the sensory diagnostic map above.
+
+## FND-CIT-0244
+
+Urman I, Sabah K, Naftali J, Djaldetti R. Rate of neurological diagnosis in patients with hemisensory syndrome – A retrospective cross-sectional study. *Acta Neurologica Belgica*. 2026;126:1201–1207. [DOI](https://doi.org/10.1007/s13760-026-03044-6).
+
+Publisher abstract checked; full text unavailable. Retrospective emergency cohort; undiagnosed cases must not be reclassified as FND. Checked October 1, 2026. Current uses are listed in the sensory diagnostic map above.
+
+## FND-CIT-0245
+
+Newman G. How to assess sensation. *MSD Manual Professional Edition*. Reviewed August 2025. [Clinical examination reference](https://www.msdmanuals.com/professional/neurologic-disorders/neurologic-examination/how-to-assess-sensation). Accessed October 1, 2026.
+
+General clinical examination guidance, not an FND accuracy study. Anatomy and modality selection only; project terminology and consent safeguards are independently stated. Checked October 1, 2026. Current uses are listed in the sensory diagnostic map above.
