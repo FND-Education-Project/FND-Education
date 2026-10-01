@@ -610,6 +610,19 @@ def discover_reference_pages() -> list[ReferencePage]:
                 section="reference",
             )
 
+        elif rel.as_posix() in {
+            "history-of-fnd.md",
+            "professional-roles-in-fnd-care.md",
+        }:
+            # These cross-cutting topics share the existing reference layout.
+            # Keep an explicit allowlist so working documents remain private.
+            page = ReferencePage(
+                source=source,
+                kind="reference-topic",
+                public_url=f"/reference/{source.stem}/",
+                section="reference",
+            )
+
         elif rel.as_posix() == "functional-cognitive-disorder.md":
             page = ReferencePage(
                 source=source,
