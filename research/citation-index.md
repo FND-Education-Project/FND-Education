@@ -2042,3 +2042,37 @@ Cross-sectional online survey of 156 people reporting medically diagnosed FND an
 - [01-sign-based-gait-comparison](../reference/diagnostic-signs/functional_gait_disorder/01-sign-based-gait-comparison.md): [FND-CIT-0020](#fnd-cit-0020), [FND-CIT-0132](#fnd-cit-0132).
 - [02-swivel-chair-assessment](../reference/diagnostic-signs/functional_gait_disorder/02-swivel-chair-assessment.md): [FND-CIT-0127](#fnd-cit-0127), [FND-CIT-0181](#fnd-cit-0181).
 - [technique-inventory](../reference/diagnostic-signs/functional_gait_disorder/technique-inventory.md): [FND-CIT-0020](#fnd-cit-0020), [FND-CIT-0117](#fnd-cit-0117), [FND-CIT-0127](#fnd-cit-0127), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0132](#fnd-cit-0132), [FND-CIT-0143](#fnd-cit-0143), [FND-CIT-0145](#fnd-cit-0145), [FND-CIT-0160](#fnd-cit-0160), [FND-CIT-0181](#fnd-cit-0181).
+
+## FND-CIT-0233
+
+Whitehead K, Kane N, Wardrope A, Kandler R, Reuber M. Proposal for best practice in the use of video-EEG when psychogenic non-epileptic seizures are a possible diagnosis. *Clinical Neurophysiology Practice*. 2017;2:130–139. [DOI](https://doi.org/10.1016/j.cnp.2017.06.002). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/).
+
+Clinical practice review; relevant full-text recording, interpretation and reporting sections checked October 1, 2026. Not a new accuracy cohort. Historical manoeuvres are not automatically endorsed or reproduced.
+
+## FND-CIT-0234
+
+Freund B, Tatum WO. Pitfalls using smartphones videos in diagnosing functional seizures. *Epilepsy & Behavior Reports*. 2021;16:100497. [DOI](https://doi.org/10.1016/j.ebr.2021.100497). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646964/).
+
+One case report of postictal agitation appearing functional on a smartphone clip. Full case and interpretation checked October 1, 2026. Illustrates a pitfall, not a misdiagnosis rate.
+
+## FND-CIT-0235
+
+Hingray C, Popkirov S, Kozlowska K, et al. Functional/dissociative seizures: Proposal for a new diagnostic label and definition by the ILAE task force. *Epilepsia*. 2025;66(11):4162–4182. [DOI](https://doi.org/10.1111/epi.18574). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC12661283/).
+
+ILAE task-force terminology and definition proposal, not a diagnostic-accuracy study or proof of a universal mechanism. Relevant full-text definition and explanatory sections checked October 1, 2026.
+
+## FND-CIT-0236
+
+Goldstein LH, Robinson EJ, Mellers JDC, et al. Psychological and demographic characteristics of 368 patients with dissociative seizures: data from the CODES cohort. *Psychological Medicine*. 2021;51(14):2433–2445. Published online May 11, 2020. [DOI](https://doi.org/10.1017/S0033291720001051). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8506352/).
+
+CODES baseline cross-sectional study of 368 adults selected for a treatment trial; interviews/questionnaires measured mental health, function and quality of life. Selection limits generalizability; associations do not establish causes. Main-text methods, results and limitations checked October 1, 2026.
+
+### Current uses in the functional-seizures diagnostic expansion
+
+- [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0119](#fnd-cit-0119), [FND-CIT-0123](#fnd-cit-0123), [FND-CIT-0133](#fnd-cit-0133), [FND-CIT-0139](#fnd-cit-0139), [FND-CIT-0144](#fnd-cit-0144), [FND-CIT-0146](#fnd-cit-0146), [FND-CIT-0148](#fnd-cit-0148), [FND-CIT-0153](#fnd-cit-0153), [FND-CIT-0157](#fnd-cit-0157), [FND-CIT-0159](#fnd-cit-0159), [FND-CIT-0161](#fnd-cit-0161), [FND-CIT-0163](#fnd-cit-0163), [FND-CIT-0165](#fnd-cit-0165), [FND-CIT-0167](#fnd-cit-0167), [FND-CIT-0168](#fnd-cit-0168), [FND-CIT-0174](#fnd-cit-0174), [FND-CIT-0184](#fnd-cit-0184), [FND-CIT-0233](#fnd-cit-0233), [FND-CIT-0234](#fnd-cit-0234), [FND-CIT-0235](#fnd-cit-0235), [FND-CIT-0236](#fnd-cit-0236).
+- [01-typical-event-assessment-and-video-eeg](../reference/diagnostic-signs/functional_seizures/01-typical-event-assessment-and-video-eeg.md): [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0146](#fnd-cit-0146), [FND-CIT-0233](#fnd-cit-0233).
+- [02-smartphone-video-assessment](../reference/diagnostic-signs/functional_seizures/02-smartphone-video-assessment.md): [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0168](#fnd-cit-0168), [FND-CIT-0234](#fnd-cit-0234).
+- [03-semiology-and-event-sequence](../reference/diagnostic-signs/functional_seizures/03-semiology-and-event-sequence.md): [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0165](#fnd-cit-0165), [FND-CIT-0233](#fnd-cit-0233).
+- [technique-inventory](../reference/diagnostic-signs/functional_seizures/technique-inventory.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0119](#fnd-cit-0119), [FND-CIT-0123](#fnd-cit-0123), [FND-CIT-0133](#fnd-cit-0133), [FND-CIT-0139](#fnd-cit-0139), [FND-CIT-0144](#fnd-cit-0144), [FND-CIT-0146](#fnd-cit-0146), [FND-CIT-0148](#fnd-cit-0148), [FND-CIT-0153](#fnd-cit-0153), [FND-CIT-0157](#fnd-cit-0157), [FND-CIT-0159](#fnd-cit-0159), [FND-CIT-0161](#fnd-cit-0161), [FND-CIT-0163](#fnd-cit-0163), [FND-CIT-0165](#fnd-cit-0165), [FND-CIT-0167](#fnd-cit-0167), [FND-CIT-0168](#fnd-cit-0168), [FND-CIT-0174](#fnd-cit-0174), [FND-CIT-0184](#fnd-cit-0184).
+
+Access update: AAN clinician summary read October 1, 2026; full evidence supplement not independently reappraised. Smartphone-study and semiology-synthesis main-text methods/results/limitations checked. The original ILAE 2013 framework and the remaining inherited inventory papers await fresh full-text review.

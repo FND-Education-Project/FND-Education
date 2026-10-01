@@ -2,9 +2,9 @@
 
 [Home](../../README.md) › Project Documentation › **Diagnostic Expansion Progress**
 
-Updated September 30, 2026. Editorial tracker; clinical and human review are separate.
+Updated October 1, 2026. Editorial tracker; clinical and human review are separate.
 
-**Initial expansion drafts: 5 of 17. Remaining original symptom sets: 12. Next: functional seizures.**
+**Initial expansion drafts: 6 of 17. Remaining original symptom sets: 11. Next: functional sensory symptoms.**
 
 An initial expansion means a revised symptom overview plus the selected detailed diagnostic pages and preserved inventory. It does not mean every inventory entry has a standalone page, every primary paper has been reviewed, or clinical approval is complete. Counts are symptom sets, not technique pages.
 
@@ -14,8 +14,8 @@ An initial expansion means a revised symptom overview plus the selected detailed
 | 2 | [Functional Tremor](../../reference/diagnostic-signs/02-functional-tremor.md) | Initial expansion merged |
 | 3 | [Functional Jerks or Myoclonus](../../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md) | Initial expansion merged |
 | 4 | [Functional Dystonia or Fixed Posturing](../../reference/diagnostic-signs/04-functional-dystonia.md) | Initial expansion merged |
-| 5 | [Functional Gait Disorder](../../reference/diagnostic-signs/05-functional-gait-disorder.md) | Initial expansion prepared for review |
-| 6 | [Functional Seizures](../../reference/diagnostic-signs/06-functional-seizures.md) | Pending |
+| 5 | [Functional Gait Disorder](../../reference/diagnostic-signs/05-functional-gait-disorder.md) | Initial expansion merged |
+| 6 | [Functional Seizures](../../reference/diagnostic-signs/06-functional-seizures.md) | Initial expansion prepared for review |
 | 7 | [Functional Sensory Symptoms](../../reference/diagnostic-signs/07-functional-sensory-symptoms.md) | Pending |
 | 8 | [Functional Visual Symptoms](../../reference/diagnostic-signs/08-functional-visual-symptoms.md) | Pending |
 | 9 | [Functional Speech and Voice Symptoms](../../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md) | Pending |
@@ -30,6 +30,6 @@ An initial expansion means a revised symptom overview plus the selected detailed
 
 The [scan-negative cauda equina starter](../../reference/diagnostic-signs/scan-negative-cauda-equina.md) is an additional pending overlap-page expansion, **not an eighteenth FND category**.
 
-The historical collection baseline remains 170 entries. Dystonia's separately dated research addition makes the current catalogue 171. Gait preserves its original thirteen without additions; entries are not a quota of validated tests.
+The historical collection baseline remains 170 entries. Dystonia's separately dated research addition makes the current catalogue 171. Gait preserves its original thirteen and seizures its original twenty without additions; entries are not a quota of validated tests.
 
-[Collection](../../reference/diagnostic-signs/README.md) · [Authoring structures](diagnostic-page-authoring-structures.md) · [Gait implementation record](functional-gait-diagnostic-expansion.md) · [Site Map](../../SITEMAP.md)
+[Collection](../../reference/diagnostic-signs/README.md) · [Authoring structures](diagnostic-page-authoring-structures.md) · [Gait implementation record](functional-gait-diagnostic-expansion.md) · [Seizures implementation record](functional-seizures-diagnostic-expansion.md) · [Site Map](../../SITEMAP.md)

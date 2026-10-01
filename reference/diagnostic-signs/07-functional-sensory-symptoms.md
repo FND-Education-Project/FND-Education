@@ -167,7 +167,7 @@ Do not use needles, painful pressure, extreme temperature or concealed startling
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Visual Symptoms](08-functional-visual-symptoms.md)
 
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/07-functional-sensory-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/01-numbness-altered-sensation-and-hypersensitivity.md)
+**Related:** [Previous: Functional Seizures Inventory](functional_seizures/technique-inventory.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/07-functional-sensory-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/01-numbness-altered-sensation-and-hypersensitivity.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
