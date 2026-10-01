@@ -315,6 +315,10 @@ Use the sections below to drill down into the course, reference library, researc
 - [Swivel-Chair Assessment](reference/diagnostic-signs/functional_gait_disorder/02-swivel-chair-assessment.md)
 - [Functional Gait Disorder: Diagnostic Technique Inventory](reference/diagnostic-signs/functional_gait_disorder/technique-inventory.md)
 - [Functional Seizures](reference/diagnostic-signs/06-functional-seizures.md)
+- [Typical-Event Assessment and Video-EEG](reference/diagnostic-signs/functional_seizures/01-typical-event-assessment-and-video-eeg.md)
+- [Smartphone-Video Assessment](reference/diagnostic-signs/functional_seizures/02-smartphone-video-assessment.md)
+- [Semiology and the Whole Event Sequence](reference/diagnostic-signs/functional_seizures/03-semiology-and-event-sequence.md)
+- [Functional Seizures: Diagnostic Technique Inventory](reference/diagnostic-signs/functional_seizures/technique-inventory.md)
 - [Functional Sensory Symptoms](reference/diagnostic-signs/07-functional-sensory-symptoms.md)
 - [Functional Visual Symptoms](reference/diagnostic-signs/08-functional-visual-symptoms.md)
 - [Functional Speech and Voice Symptoms](reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md)
@@ -744,6 +748,7 @@ Use the sections below to drill down into the course, reference library, researc
 - [Functional dystonia diagnostic expansion record](docs/project/functional-dystonia-diagnostic-expansion.md)
 - [Functional gait diagnostic expansion record](docs/project/functional-gait-diagnostic-expansion.md)
 - [Diagnostic expansion progress](docs/project/diagnostic-expansion-progress.md)
+- [Functional seizures diagnostic expansion record](docs/project/functional-seizures-diagnostic-expansion.md)
 
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](README.md) · [Course](course/README.md) · [Reference Library](reference/README.md) · [Site Map](SITEMAP.md)

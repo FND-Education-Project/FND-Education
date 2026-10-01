@@ -491,7 +491,19 @@ Read the overview sources above, then the following additions before assessing t
 
 ## 6. Functional Seizures
 
-**Page to review:** [Functional Seizures](../../diagnostic-signs/06-functional-seizures.md)
+**Reading path:** [Symptom overview](../../diagnostic-signs/06-functional-seizures.md) → [typical-event video-EEG](../../diagnostic-signs/functional_seizures/01-typical-event-assessment-and-video-eeg.md) → [smartphone video](../../diagnostic-signs/functional_seizures/02-smartphone-video-assessment.md) → [whole-event semiology](../../diagnostic-signs/functional_seizures/03-semiology-and-event-sequence.md) → [twenty-entry inventory](../../diagnostic-signs/functional_seizures/technique-inventory.md).
+
+**Access record — October 1, 2026:** AAN clinician summary read; full evidence supplement not independently reappraised. Smartphone-study, semiology-synthesis and CODES-baseline main-text methods/results/limitations checked; relevant full-text sections checked for Whitehead, Freund and Hingray. Original 2013 ILAE full criteria and fresh individual review of remaining inherited papers are pending. Human-review boxes remain unchecked.
+
+### Added essential reading
+
+- [ ] Whitehead K, Kane N, Wardrope A, Kandler R, Reuber M. Proposal for best practice in the use of video-EEG when psychogenic non-epileptic seizures are a possible diagnosis. *Clinical Neurophysiology Practice*. 2017;2:130–139. [DOI](https://doi.org/10.1016/j.cnp.2017.06.002). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/).
+- [ ] Freund B, Tatum WO. Pitfalls using smartphones videos in diagnosing functional seizures. *Epilepsy & Behavior Reports*. 2021;16:100497. [DOI](https://doi.org/10.1016/j.ebr.2021.100497). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646964/).
+- [ ] Hingray C, Popkirov S, Kozlowska K, et al. Functional/dissociative seizures: Proposal for a new diagnostic label and definition by the ILAE task force. *Epilepsia*. 2025;66(11):4162–4182. [DOI](https://doi.org/10.1111/epi.18574). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC12661283/).
+- [ ] Goldstein LH, Robinson EJ, Mellers JDC, et al. Psychological and demographic characteristics of 368 patients with dissociative seizures: data from the CODES cohort. *Psychological Medicine*. 2021;51(14):2433–2445. Published online May 11, 2020. [DOI](https://doi.org/10.1017/S0033291720001051). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8506352/).
+
+Read the definition as a proposal, the CODES findings as associations, the Whitehead paper as guidance, and the smartphone pitfall as a case report. Use current AAN recommendations alongside the older staged-certainty framework.
+
 
 ### Read first — symptom-level evidence
 
