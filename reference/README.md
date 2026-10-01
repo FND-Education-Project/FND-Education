@@ -104,7 +104,7 @@ Sudden movements, gestures or sounds may occur repeatedly and feel difficult or 
 
 ## Functional Sensory Symptoms
 
-[Understanding & Diagnosis](diagnostic-signs/07-functional-sensory-symptoms.md)<br>
+[Understanding & Diagnosis](diagnostic-signs/07-functional-sensory-symptoms.md) · [Assessment inventory](diagnostic-signs/functional_sensory_symptoms/technique-inventory.md)<br>
 [Recovery Techniques](recovery-techniques/07-functional-sensory-symptoms.md)
 
 Touch, temperature, pain or awareness of part of the body may feel altered. An area may feel numb, strange, unusually sensitive or less connected to the person's normal sense of their body.

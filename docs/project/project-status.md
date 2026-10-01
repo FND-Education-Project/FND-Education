@@ -12,7 +12,7 @@ The repository contains all 97 course pages: 23 module overviews and 74 focused 
 
 ## Diagnostic expansion progress
 
-As of October 1, 2026, six of the original seventeen symptom sets have initial expansion drafts; eleven remain, beginning with functional sensory symptoms. A separate scan-negative cauda equina overlap starter also awaits expansion. These counts do not mean every individual diagnostic method has been fully reviewed. See the [running tracker](diagnostic-expansion-progress.md) and [seizures implementation record](functional-seizures-diagnostic-expansion.md). The first five expansions are merged; seizures is prepared for review. Human and clinical approval remain separate.
+As of October 1, 2026, seven of the original seventeen symptom sets have initial expansion drafts; ten remain, beginning with functional visual symptoms. A separate scan-negative cauda equina overlap starter also awaits expansion. These counts do not mean every individual diagnostic method has been fully reviewed. See the [sensory implementation record](functional-sensory-diagnostic-expansion.md), [running tracker](diagnostic-expansion-progress.md) and [seizures implementation record](functional-seizures-diagnostic-expansion.md). The first six expansions are merged; sensory symptoms are prepared for review. Human and clinical approval remain separate.
 
 
 ## Completed foundation work

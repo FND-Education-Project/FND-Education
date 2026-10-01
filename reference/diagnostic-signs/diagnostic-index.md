@@ -43,7 +43,7 @@ Each page has a linked **Diagnostic techniques at a glance** section. These are 
 - [Functional dystonia or fixed posturing](04-functional-dystonia.md) — [pattern-based assessment](functional_dystonia/01-pattern-based-history-and-movement-examination.md); [inventory with dated research addition](functional_dystonia/technique-inventory.md).
 - [Functional gait disorder](05-functional-gait-disorder.md) — [sign-based comparison](functional_gait_disorder/01-sign-based-gait-comparison.md); [swivel-chair assessment](functional_gait_disorder/02-swivel-chair-assessment.md); [thirteen-entry inventory](functional_gait_disorder/technique-inventory.md).
 - [Functional seizures](06-functional-seizures.md) — [typical-event video-EEG](functional_seizures/01-typical-event-assessment-and-video-eeg.md); [smartphone video](functional_seizures/02-smartphone-video-assessment.md); [whole-event semiology](functional_seizures/03-semiology-and-event-sequence.md); [twenty-entry inventory](functional_seizures/technique-inventory.md).
-- [Functional sensory symptoms](07-functional-sensory-symptoms.md)
+- [Functional Sensory Symptoms](07-functional-sensory-symptoms.md) — expanded overview, [sensory mapping](functional_sensory_symptoms/01-sensory-mapping-and-comparison.md), [splitting-sign limitations](functional_sensory_symptoms/02-midline-and-vibration-splitting.md) and the preserved [seven-entry inventory](functional_sensory_symptoms/technique-inventory.md).
 - [Functional visual symptoms](08-functional-visual-symptoms.md)
 - [Functional speech and voice symptoms](09-functional-speech-and-voice-symptoms.md)
 - [Functional swallowing symptoms and globus](10-functional-swallowing-and-globus.md)

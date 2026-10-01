@@ -617,6 +617,15 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 **Page to review:** [Functional Sensory Symptoms](../../diagnostic-signs/07-functional-sensory-symptoms.md)
 
+**Expanded reading path:** [Mapping](../../diagnostic-signs/functional_sensory_symptoms/01-sensory-mapping-and-comparison.md) → [splitting-sign limitations](../../diagnostic-signs/functional_sensory_symptoms/02-midline-and-vibration-splitting.md) → [seven-entry inventory](../../diagnostic-signs/functional_sensory_symptoms/technique-inventory.md).
+
+### Additional differential and examination sources — October 1, 2026
+
+- [ ] Koh PX, Ti J, Saffari SE, Lim ZYIC, Tu T. Hemisensory syndrome: Hyperacute symptom onset and age differentiates ischemic stroke from other aetiologies. *BMC Neurology*. 2021;21:179. [DOI](https://doi.org/10.1186/s12883-021-02206-8). Full methods/results and limitations checked. Selected hospitalized hemisensory cohort; not a population prevalence or FND validation study.
+- [ ] Urman I, Sabah K, Naftali J, Djaldetti R. Rate of neurological diagnosis in patients with hemisensory syndrome – A retrospective cross-sectional study. *Acta Neurologica Belgica*. 2026;126:1201–1207. [DOI](https://doi.org/10.1007/s13760-026-03044-6). Publisher abstract checked; full text unavailable. Retrospective emergency cohort; undiagnosed cases must not be reclassified as FND.
+- [ ] Newman G. How to assess sensation. *MSD Manual Professional Edition*. Reviewed August 2025. [Clinical examination reference](https://www.msdmanuals.com/professional/neurologic-disorders/neurologic-examination/how-to-assess-sensation). Accessed October 1, 2026. General clinical examination guidance, not an FND accuracy study. Anatomy and modality selection only; project terminology and consent safeguards are independently stated.
+
+
 ### Read first — symptom-level evidence
 
 - [ ] Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031. [https://doi.org/10.1093/braincomms/fcag031](https://doi.org/10.1093/braincomms/fcag031)

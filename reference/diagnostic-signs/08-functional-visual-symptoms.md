@@ -189,7 +189,7 @@ Provide a static diagram as the default media for readers who are sensitive to m
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Speech and Voice Symptoms](09-functional-speech-and-voice-symptoms.md)
 
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/08-functional-visual-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/02-visual-symptoms-photophobia-and-sensory-overload.md)
+**Related:** [Previous: Sensory inventory](functional_sensory_symptoms/technique-inventory.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/08-functional-visual-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/02-visual-symptoms-photophobia-and-sensory-overload.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

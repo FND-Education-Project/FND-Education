@@ -11,7 +11,7 @@
 - [Typical-event assessment and video-EEG](functional_seizures/01-typical-event-assessment-and-video-eeg.md) — assess a usual event alongside its brain electrical recording.
 - [Smartphone-video assessment](functional_seizures/02-smartphone-video-assessment.md) — expert review of a safely recorded event.
 - [Semiology and the whole event sequence](functional_seizures/03-semiology-and-event-sequence.md) — interpret signs from onset through recovery.
-- [All seizure assessments](functional_seizures/technique-inventory.md) — further signs, investigations and their limits.
+More assessments are linked [below](#diagnostic-techniques-at-a-glance), with all twenty entries in the [full inventory](functional_seizures/technique-inventory.md).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -146,55 +146,32 @@ Antiseizure medication decisions require a prescriber-led review of epilepsy and
 The original process-diagram brief is preserved on the [video-EEG page](functional_seizures/01-typical-event-assessment-and-video-eeg.md#media-and-accessibility). No seizure footage or attributed patient quotation has been added.
 
 
-<details>
-<summary>Full diagnostic inventory and earlier section links</summary>
-
 ## Diagnostic techniques at a glance
 
 The original descriptions and citations are preserved in the inventory. Earlier section links continue to work here.
 
-<a id="typical-event-video-eeg"></a>
-- [Typical-event video-EEG](functional_seizures/technique-inventory.md#typical-event-video-eeg)
-<a id="smartphone-video-assessment"></a>
-- [Smartphone-video assessment](functional_seizures/technique-inventory.md#smartphone-video-assessment)
-<a id="ictal-eye-closure"></a>
-- [Ictal eye closure](functional_seizures/technique-inventory.md#ictal-eye-closure)
-<a id="asynchronous-limb-movements"></a>
-- [Asynchronous limb movements](functional_seizures/technique-inventory.md#asynchronous-limb-movements)
-<a id="fluctuating-course"></a>
-- [Fluctuating course](functional_seizures/technique-inventory.md#fluctuating-course)
-<a id="event-duration"></a>
-- [Event duration](functional_seizures/technique-inventory.md#event-duration)
-<a id="side-to-side-head-movement"></a>
-- [Side-to-side head movement](functional_seizures/technique-inventory.md#side-to-side-head-movement)
-<a id="pelvic-thrusting"></a>
-- [Pelvic thrusting](functional_seizures/technique-inventory.md#pelvic-thrusting)
-<a id="back-arching"></a>
-- [Back arching](functional_seizures/technique-inventory.md#back-arching)
-<a id="ictal-responsiveness"></a>
-- [Ictal responsiveness](functional_seizures/technique-inventory.md#ictal-responsiveness)
-<a id="recall-of-the-event"></a>
-- [Recall of the event](functional_seizures/technique-inventory.md#recall-of-the-event)
-<a id="postictal-breathing-and-recovery"></a>
-- [Postictal breathing and recovery](functional_seizures/technique-inventory.md#postictal-breathing-and-recovery)
-<a id="ictal-crying-or-weeping"></a>
-- [Ictal crying or weeping](functional_seizures/technique-inventory.md#ictal-crying-or-weeping)
-<a id="combined-semiology-tools"></a>
-- [Combined semiology tools](functional_seizures/technique-inventory.md#combined-semiology-tools)
-<a id="ilae-diagnostic-certainty-framework"></a>
-- [ILAE diagnostic-certainty framework](functional_seizures/technique-inventory.md#ilae-diagnostic-certainty-framework)
-<a id="handarm-drop-avoidance-during-unresponsiveness"></a>
-- [Hand/arm-drop avoidance during unresponsiveness](functional_seizures/technique-inventory.md#handarm-drop-avoidance-during-unresponsiveness)
-<a id="modified-hand-drop-and-eyelid-observations"></a>
-- [Modified hand-drop and eyelid observations](functional_seizures/technique-inventory.md#modified-hand-drop-and-eyelid-observations)
-<a id="suggestion-and-induction-protocols"></a>
-- [Suggestion and induction protocols](functional_seizures/technique-inventory.md#suggestion-and-induction-protocols)
-<a id="prolactin-lactate-and-creatine-kinase"></a>
-- [Prolactin, lactate and creatine kinase](functional_seizures/technique-inventory.md#prolactin-lactate-and-creatine-kinase)
-<a id="tilt-testing-for-apparent-blackouts"></a>
-- [Tilt testing for apparent blackouts](functional_seizures/technique-inventory.md#tilt-testing-for-apparent-blackouts)
+- <a id="typical-event-video-eeg"></a>[Typical-event video-EEG](functional_seizures/technique-inventory.md#typical-event-video-eeg)
+- <a id="smartphone-video-assessment"></a>[Smartphone-video assessment](functional_seizures/technique-inventory.md#smartphone-video-assessment)
+- <a id="ictal-eye-closure"></a>[Ictal eye closure](functional_seizures/technique-inventory.md#ictal-eye-closure)
+- <a id="asynchronous-limb-movements"></a>[Asynchronous limb movements](functional_seizures/technique-inventory.md#asynchronous-limb-movements)
+- <a id="fluctuating-course"></a>[Fluctuating course](functional_seizures/technique-inventory.md#fluctuating-course)
+- <a id="event-duration"></a>[Event duration](functional_seizures/technique-inventory.md#event-duration)
+- <a id="side-to-side-head-movement"></a>[Side-to-side head movement](functional_seizures/technique-inventory.md#side-to-side-head-movement)
+- <a id="pelvic-thrusting"></a>[Pelvic thrusting](functional_seizures/technique-inventory.md#pelvic-thrusting)
+- <a id="back-arching"></a>[Back arching](functional_seizures/technique-inventory.md#back-arching)
+- <a id="ictal-responsiveness"></a>[Ictal responsiveness](functional_seizures/technique-inventory.md#ictal-responsiveness)
+- <a id="recall-of-the-event"></a>[Recall of the event](functional_seizures/technique-inventory.md#recall-of-the-event)
+- <a id="postictal-breathing-and-recovery"></a>[Postictal breathing and recovery](functional_seizures/technique-inventory.md#postictal-breathing-and-recovery)
+- <a id="ictal-crying-or-weeping"></a>[Ictal crying or weeping](functional_seizures/technique-inventory.md#ictal-crying-or-weeping)
+- <a id="combined-semiology-tools"></a>[Combined semiology tools](functional_seizures/technique-inventory.md#combined-semiology-tools)
+- <a id="ilae-diagnostic-certainty-framework"></a>[ILAE diagnostic-certainty framework](functional_seizures/technique-inventory.md#ilae-diagnostic-certainty-framework)
+- <a id="handarm-drop-avoidance-during-unresponsiveness"></a>[Hand/arm-drop avoidance during unresponsiveness](functional_seizures/technique-inventory.md#handarm-drop-avoidance-during-unresponsiveness)
+- <a id="modified-hand-drop-and-eyelid-observations"></a>[Modified hand-drop and eyelid observations](functional_seizures/technique-inventory.md#modified-hand-drop-and-eyelid-observations)
+- <a id="suggestion-and-induction-protocols"></a>[Suggestion and induction protocols](functional_seizures/technique-inventory.md#suggestion-and-induction-protocols)
+- <a id="prolactin-lactate-and-creatine-kinase"></a>[Prolactin, lactate and creatine kinase](functional_seizures/technique-inventory.md#prolactin-lactate-and-creatine-kinase)
+- <a id="tilt-testing-for-apparent-blackouts"></a>[Tilt testing for apparent blackouts](functional_seizures/technique-inventory.md#tilt-testing-for-apparent-blackouts)
 
-</details>
+
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
