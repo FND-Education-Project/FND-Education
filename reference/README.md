@@ -154,6 +154,7 @@ Part of the face may pull, tighten, spasm, droop or feel difficult to control. T
 ---
 
 ***
+[Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
@@ -173,6 +174,7 @@ Part of the face may pull, tighten, spasm, droop or feel difficult to control. T
 ---
 
 ***
+[Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
@@ -236,6 +238,7 @@ For a more structured explanation beginning with the basic concepts and building
 ---
 
 ***
+[Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
@@ -307,6 +310,7 @@ Supporters can play an important role in understanding symptoms, responding duri
 ---
 
 ***
+[Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
