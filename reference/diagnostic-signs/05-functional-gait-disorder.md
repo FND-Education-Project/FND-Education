@@ -128,41 +128,24 @@ Ask about repeated walking, stairs, uneven ground, time pressure, visual/cogniti
 The original filming sequence and safeguards are retained on the [comparison page](functional_gait_disorder/01-sign-based-gait-comparison.md#media-and-accessibility). No patient footage or attributed lived-experience quotation has been added.
 
 
-<details>
-<summary>Full diagnostic inventory and earlier section links</summary>
-
 ## Diagnostic techniques at a glance
 
 The original descriptions and citations have moved to the inventory. These links preserve earlier section destinations. Not everyone needs every comparison.
 
-<a id="knee-buckling-with-preserved-support"></a>
-- [Knee buckling with preserved support](functional_gait_disorder/technique-inventory.md#knee-buckling-with-preserved-support)
-<a id="dragging-and-uneconomic-postures"></a>
-- [Dragging and uneconomic postures](functional_gait_disorder/technique-inventory.md#dragging-and-uneconomic-postures)
-<a id="cautious-walking-on-ice-pattern"></a>
-- [Cautious “walking on ice” pattern](functional_gait_disorder/technique-inventory.md#cautious-walking-on-ice-pattern)
-<a id="dual-task-walking"></a>
-- [Dual-task walking](functional_gait_disorder/technique-inventory.md#dual-task-walking)
-<a id="backward-walking"></a>
-- [Backward walking](functional_gait_disorder/technique-inventory.md#backward-walking)
-<a id="running-or-another-automatic-movement"></a>
-- [Running or another automatic movement](functional_gait_disorder/technique-inventory.md#running-or-another-automatic-movement)
-<a id="rhythm-and-externally-cued-walking"></a>
-- [Rhythm and externally cued walking](functional_gait_disorder/technique-inventory.md#rhythm-and-externally-cued-walking)
-<a id="tandem-gait"></a>
-- [Tandem gait](functional_gait_disorder/technique-inventory.md#tandem-gait)
-<a id="romberg-comparison"></a>
-- [Romberg comparison](functional_gait_disorder/technique-inventory.md#romberg-comparison)
-<a id="postural-response-comparison"></a>
-- [Postural-response comparison](functional_gait_disorder/technique-inventory.md#postural-response-comparison)
-<a id="swivel-chair-test"></a>
-- [Swivel-chair test](functional_gait_disorder/technique-inventory.md#swivel-chair-test)
-<a id="effort-associated-behaviour-huffing-and-puffing"></a>
-- [Effort-associated behaviour (“huffing and puffing”)](functional_gait_disorder/technique-inventory.md#effort-associated-behaviour-huffing-and-puffing)
-<a id="instrumented-balance-and-adaptation-studies"></a>
-- [Instrumented balance and adaptation studies](functional_gait_disorder/technique-inventory.md#instrumented-balance-and-adaptation-studies)
+- <a id="knee-buckling-with-preserved-support"></a>[Knee buckling with preserved support](functional_gait_disorder/technique-inventory.md#knee-buckling-with-preserved-support)
+- <a id="dragging-and-uneconomic-postures"></a>[Dragging and uneconomic postures](functional_gait_disorder/technique-inventory.md#dragging-and-uneconomic-postures)
+- <a id="cautious-walking-on-ice-pattern"></a>[Cautious “walking on ice” pattern](functional_gait_disorder/technique-inventory.md#cautious-walking-on-ice-pattern)
+- <a id="dual-task-walking"></a>[Dual-task walking](functional_gait_disorder/technique-inventory.md#dual-task-walking)
+- <a id="backward-walking"></a>[Backward walking](functional_gait_disorder/technique-inventory.md#backward-walking)
+- <a id="running-or-another-automatic-movement"></a>[Running or another automatic movement](functional_gait_disorder/technique-inventory.md#running-or-another-automatic-movement)
+- <a id="rhythm-and-externally-cued-walking"></a>[Rhythm and externally cued walking](functional_gait_disorder/technique-inventory.md#rhythm-and-externally-cued-walking)
+- <a id="tandem-gait"></a>[Tandem gait](functional_gait_disorder/technique-inventory.md#tandem-gait)
+- <a id="romberg-comparison"></a>[Romberg comparison](functional_gait_disorder/technique-inventory.md#romberg-comparison)
+- <a id="postural-response-comparison"></a>[Postural-response comparison](functional_gait_disorder/technique-inventory.md#postural-response-comparison)
+- <a id="swivel-chair-test"></a>[Swivel-chair test](functional_gait_disorder/technique-inventory.md#swivel-chair-test)
+- <a id="effort-associated-behaviour-huffing-and-puffing"></a>[Effort-associated behaviour (“huffing and puffing”)](functional_gait_disorder/technique-inventory.md#effort-associated-behaviour-huffing-and-puffing)
+- <a id="instrumented-balance-and-adaptation-studies"></a>[Instrumented balance and adaptation studies](functional_gait_disorder/technique-inventory.md#instrumented-balance-and-adaptation-studies)
 
-</details>
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
