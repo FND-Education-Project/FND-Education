@@ -100,6 +100,17 @@
         <span>{{ page.title | escape }}</span>
       {% endif %}
 
+    {% elsif page.reference_section == "biopsychosocial" %}
+      <span aria-hidden="true">›</span>
+
+      {% if page.page_kind == "biopsychosocial-home" %}
+        <span>Biopsychosocial Experiences</span>
+      {% else %}
+        <a href="{{ '/reference/biopsychosocial-experiences/' | relative_url }}">Biopsychosocial Experiences</a>
+        <span aria-hidden="true">›</span>
+        <span>{{ page.title | escape }}</span>
+      {% endif %}
+
     {% else %}
       <span aria-hidden="true">›</span>
       <span>{{ page.title | escape }}</span>
