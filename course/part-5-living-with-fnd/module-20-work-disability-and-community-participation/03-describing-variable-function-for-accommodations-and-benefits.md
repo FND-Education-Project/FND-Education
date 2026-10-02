@@ -112,6 +112,12 @@ Outcome measures can support care but are imperfect and cover different domains.
 [Research and Sources](#research-and-sources)
 ***
 
+## Further reading in the Reference Library
+
+- **[Self-Doubt, Legitimacy, and Dignity in Variable Disability](../../../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md)** — why a better moment does not erase disability and why reliability matters more than a single performance.
+
+***
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next part: Long-Term Management](../../part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/README.md)
 
