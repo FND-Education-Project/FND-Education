@@ -12,7 +12,7 @@ This detailed index maps practical material that is easier to use as a reference
 - **[Symptom-Specific Diagnostic Signs](diagnostic-signs/README.md)** explains positive diagnostic signs and criteria, their limits, and how contributors could demonstrate them with accessible media. The collection currently covers 17 symptom presentations.
 - **[Symptom Recovery and Management Techniques](recovery-techniques/README.md)** collects research-informed rehabilitation, treatment and self-management techniques for the same 17 presentations. Its [master technique list](recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
 - **[Common Co-occurring Conditions](co-occurring-conditions/README.md)** explains nine related conditions or symptom groups, their interactions with FND and available recovery or management options. It does not add them to the 17 FND presentation categories.
-- **[Biopsychosocial Experiences Associated with FND](biopsychosocial-experiences/README.md)** covers cross-cutting experiences that may matter in daily life without making them diagnostic criteria or evidence of a universal FND cause. It currently contains two focused pages.
+- **[Biopsychosocial Experiences Associated with FND](biopsychosocial-experiences/README.md)** covers cross-cutting experiences that may matter in daily life without making them diagnostic criteria or evidence of a universal FND cause. It currently contains six focused pages.
 
 Two cross-cutting pages sit alongside those collections: **[Professional Roles in FND Care](professional-roles-in-fnd-care.md)** maps clinical and allied-health roles to relevant material across the site, while **[A Brief History of FND](history-of-fnd.md)** provides a selective research-linked timeline for readers who want historical context.
 
@@ -37,6 +37,10 @@ The diagnostic and recovery collections answer different questions. A diagnostic
 - [Collection overview](biopsychosocial-experiences/README.md)
 - [Emotional Regulation, Irritability, and Overwhelm](biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md)
 - [Mental Health, Stigma, and Being Believed](biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md)
+- [Self-Doubt, Legitimacy, and Dignity in Variable Disability](biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md)
+- [Guilt, Dependence, and Receiving Help](biopsychosocial-experiences/04-guilt-dependence-and-receiving-help.md)
+- [Unpredictability, Overload, and Trusting Your Body](biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md)
+- [Recovery Pressure, Self-Blame, and Feeling Like You Are Failing](biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md)
 
 This collection is separate from the 17 diagnostic presentations and from the co-occurring-condition catalogue. Associated experiences may be relevant to formulation, treatment or daily support, but they do not establish the FND diagnosis or its cause.
 
