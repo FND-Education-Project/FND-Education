@@ -331,6 +331,10 @@ Use the sections below to drill down into the course, reference library, researc
 - [Optokinetic Response](reference/diagnostic-signs/functional_visual_symptoms/03-optokinetic-response.md)
 - [Visual Diagnostic Inventory](reference/diagnostic-signs/functional_visual_symptoms/technique-inventory.md)
 - [Functional Speech and Voice Symptoms](reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md)
+- [Cross-Task Speech Comparison](reference/diagnostic-signs/functional_speech_and_voice_symptoms/01-cross-task-speech-comparison.md)
+- [Stuttering and Prosody Assessment](reference/diagnostic-signs/functional_speech_and_voice_symptoms/02-stuttering-and-prosody-assessment.md)
+- [Voice and Laryngeal Assessment](reference/diagnostic-signs/functional_speech_and_voice_symptoms/03-voice-and-laryngeal-assessment.md)
+- [Speech and Voice Diagnostic Inventory](reference/diagnostic-signs/functional_speech_and_voice_symptoms/technique-inventory.md)
 - [Functional Swallowing Symptoms and Globus](reference/diagnostic-signs/10-functional-swallowing-and-globus.md)
 - [Functional Cough and Upper-Airway Symptoms](reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md)
 - [Functional Cognitive Disorder](reference/diagnostic-signs/12-functional-cognitive-disorder.md)
@@ -776,3 +780,5 @@ Use the sections below to drill down into the course, reference library, researc
 - [Functional sensory diagnostic expansion record](docs/project/functional-sensory-diagnostic-expansion.md)
 
 - [Visual diagnostic expansion record](docs/project/functional-visual-diagnostic-expansion.md)
+
+- [Speech and voice diagnostic expansion record](docs/project/functional-speech-voice-diagnostic-expansion.md)
