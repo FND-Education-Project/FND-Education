@@ -713,6 +713,11 @@ Use the sections below to drill down into the course, reference library, researc
 - [Autonomic Symptoms Alongside FND](reference/co-occurring-conditions/08-autonomic-symptoms.md)
 - [Irritable Bowel Syndrome Alongside FND](reference/co-occurring-conditions/09-irritable-bowel-syndrome.md)
 
+## Biopsychosocial Experiences Associated with FND
+
+- [Collection overview](reference/biopsychosocial-experiences/README.md)
+- [Emotional Regulation, Irritability, and Overwhelm](reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md)
+
 ## Functional paralysis: detailed recovery and care
 
 - [Collection overview](reference/recovery-techniques/functional_paralysis/README.md)
