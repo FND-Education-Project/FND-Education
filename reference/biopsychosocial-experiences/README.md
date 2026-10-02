@@ -56,9 +56,11 @@ For one person, pain and poor sleep may be the biggest part of the picture. For 
 
 More than one thing can be true at the same time.
 
-### Current focused page
+### Current focused pages
 
 **[Emotional Regulation, Irritability, and Overwhelm](01-emotional-regulation-irritability-and-overwhelm.md)** looks at becoming overwhelmed, losing patience more easily, strong emotions that rise quickly, and what may help before an interaction becomes harmful.
+
+**[Mental Health, Stigma, and Being Believed](02-mental-health-stigma-and-being-believed.md)** looks at how FND and mental-health conditions can coexist or affect each other, how stigma can change support, and why believing a person's disability does not require certainty about the cause of every symptom.
 
 ### Related experiences already covered elsewhere
 
