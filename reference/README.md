@@ -181,6 +181,10 @@ Some important experiences do not fit neatly into either an FND diagnostic-sign 
 - **[Collection overview](biopsychosocial-experiences/README.md)** — explains what “biopsychosocial experiences” means here and links related material already covered elsewhere.
 - **[Emotional Regulation, Irritability, and Overwhelm](biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md)** — discusses strong or fast emotional responses, alternative contributors, practical support and the limits of current FND evidence.
 - **[Mental Health, Stigma, and Being Believed](biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md)** — separates psychiatric comorbidity from FND causation and gives practical guidance for disbelief, family support, credibility and diagnostic overshadowing.
+- **[Self-Doubt, Legitimacy, and Dignity in Variable Disability](biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md)** — addresses self-doubt, variable disability, aid-related stigma and dignity around visible symptoms.
+- **[Guilt, Dependence, and Receiving Help](biopsychosocial-experiences/04-guilt-dependence-and-receiving-help.md)** — addresses feeling like a burden, supported autonomy, caregiver limits and sustainable practical help.
+- **[Unpredictability, Overload, and Trusting Your Body](biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md)** — addresses symptom unpredictability, combined load, practical safety planning and participation.
+- **[Recovery Pressure, Self-Blame, and Feeling Like You Are Failing](biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md)** — separates treatment outcomes and setbacks from motivation, worth and blame.
 
 ---
 
