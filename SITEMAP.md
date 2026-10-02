@@ -721,6 +721,7 @@ Use the sections below to drill down into the course, reference library, researc
 
 - [Collection overview](reference/biopsychosocial-experiences/README.md)
 - [Emotional Regulation, Irritability, and Overwhelm](reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md)
+- [Mental Health, Stigma, and Being Believed](reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md)
 
 ## Functional paralysis: detailed recovery and care
 
