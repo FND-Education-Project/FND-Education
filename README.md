@@ -22,6 +22,7 @@ The **[Reference Library](reference/README.md)** is for looking up a symptom, cl
 - **[Diagnostic techniques](reference/diagnostic-signs/README.md)** — symptom-specific positive signs, examination techniques, diagnostic criteria, limitations, and differential considerations.
 - **[Recovery techniques](reference/recovery-techniques/README.md)** — symptom-specific rehabilitation, treatment, self-management, safety, access, and continuing-care approaches.
 - **[Common co-occurring symptoms and conditions](reference/co-occurring-conditions/README.md)** — topics such as migraine, persistent headache, tinnitus, pain, fatigue, sleep difficulty, autonomic symptoms, and other conditions that may occur alongside FND.
+- **[Biopsychosocial experiences associated with FND](reference/biopsychosocial-experiences/README.md)** — cross-cutting experiences that can matter in daily life without being diagnostic signs or proof of what caused FND, beginning with emotional regulation, irritability and overwhelm.
 
 The **[glossary](glossary/README.md)** explains clinical, research, and rehabilitation terms in plain language.
 
