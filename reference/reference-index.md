@@ -6,7 +6,7 @@
 
 > **Working draft:** This reference was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-This detailed index maps practical, symptom-specific material that is easier to use as a reference than as part of a course. It currently has five collections:
+This detailed index maps practical material that is easier to use as a reference than as part of a course. It currently has five collections:
 
 - **[Understanding an FND Diagnosis](diagnostic-concepts/README.md)** explains positive diagnosis, investigations, and the relationship between assessment results and everyday function.
 - **[Symptom-Specific Diagnostic Signs](diagnostic-signs/README.md)** explains positive diagnostic signs and criteria, their limits, and how contributors could demonstrate them with accessible media. The collection currently covers 17 symptom presentations.
