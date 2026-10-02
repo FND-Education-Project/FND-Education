@@ -121,6 +121,14 @@ Evidence varies by modality, phenotype and outcome. Discuss mixed trial findings
 [Research and Sources](#research-and-sources)
 ***
 
+## Further reading in the Reference Library
+
+- **[Mental Health, Stigma, and Being Believed](../../../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md)** — psychiatric comorbidity, credibility, stigma and diagnostic overshadowing.
+- **[Emotional Regulation, Irritability, and Overwhelm](../../../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md)** — emotional regulation as a possible treatment target without treating it as proof of FND causation.
+- **[Recovery Pressure, Self-Blame, and Feeling Like You Are Failing](../../../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md)** — how treatment language can become pressure or self-blame when improvement is limited.
+
+***
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Choose a Therapy and Set Goals](02-choosing-a-therapy-setting-goals-and-recognizing-harm.md)
 
