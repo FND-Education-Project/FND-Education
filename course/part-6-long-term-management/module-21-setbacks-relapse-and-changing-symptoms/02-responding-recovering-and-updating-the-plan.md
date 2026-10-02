@@ -111,6 +111,13 @@ Do not interpret worsening as poor motivation or prescribe automatic progression
 [Research and Sources](#research-and-sources)
 ***
 
+## Further reading in the Reference Library
+
+- **[Recovery Pressure, Self-Blame, and Feeling Like You Are Failing](../../../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md)** — why recurrence and treatment non-response should not be interpreted as poor effort.
+- **[Unpredictability, Overload, and Trusting Your Body](../../../reference/biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md)** — planning for uncertainty without requiring zero risk or constant symptom monitoring.
+
+***
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Recover, Review, and Update the Plan](03-recovering-reviewing-and-updating-the-plan.md)
 
