@@ -95,6 +95,11 @@ A change in a symptom when attention is directed elsewhere. For example, some fu
 
 ## E
 
+### Emotional regulation
+**Type: descriptive and clinical term**
+
+The ability to notice an emotional response, adjust to it and choose what to do next. It does not mean suppressing emotion or remaining calm all the time. Emotional processing and regulation are studied in FND, but difficulty regulating emotion is not a diagnostic sign of FND and does not prove what caused it. See [Emotional Regulation, Irritability, and Overwhelm](../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md).
+
 ### External focus
 **Type: rehabilitation term**
 
