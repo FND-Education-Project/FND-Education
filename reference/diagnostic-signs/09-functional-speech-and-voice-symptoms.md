@@ -181,7 +181,7 @@ A gentle clinician-led cue may reveal more accessible speech or phonation. This 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Swallowing Symptoms and Globus](10-functional-swallowing-and-globus.md)
 
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/09-functional-speech-and-voice-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/01-speech-voice-and-word-blocking.md)
+**Related:** [Previous: Visual diagnostic inventory](functional_visual_symptoms/technique-inventory.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/09-functional-speech-and-voice-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/01-speech-voice-and-word-blocking.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

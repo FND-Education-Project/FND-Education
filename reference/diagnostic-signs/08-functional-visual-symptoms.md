@@ -4,7 +4,7 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Visual Symptoms**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Automatically generated working draft — October 2, 2026.** Human, ophthalmology, orthoptics and accessibility review pending.
 
 **Refers to:**
 
@@ -18,9 +18,9 @@
 
 **Presentation:** Compare reported vision with objective visual behaviours or responses, such as optokinetic nystagmus, while also looking for eye and brain disease.
 
-- [Visual acuity at different distances](#visual-acuity-at-different-distances) — compare acuity under selected viewing conditions.
-- [Binocular versus monocular fields](#binocular-versus-monocular-fields) — compare field findings with one or both eyes viewing.
-- [Optokinetic response](#optokinetic-response) — assess a visual response within specialist examination.
+- [Visual acuity at different distances](functional_visual_symptoms/01-visual-acuity-and-fogging.md) — compare acuity under selected viewing conditions.
+- [Binocular versus monocular fields](functional_visual_symptoms/02-visual-field-comparisons.md) — compare field findings with one or both eyes viewing.
+- [Optokinetic response](functional_visual_symptoms/03-optokinetic-response.md) — assess a visual response within specialist examination.
 
 **More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
@@ -33,17 +33,29 @@
 
 ## For the Person With FND
 
+Words may look blurred, part of the scene may seem missing, or sight may feel unavailable despite your eyes being open. Some people describe a narrow tunnel of vision. These experiences help explain what needs assessing; they do not identify the cause by themselves. Double vision and light sensitivity also need their own assessment rather than being assumed to be functional visual loss.
+
 Functional visual symptoms may affect sharpness, the visual field or the sense that vision is available. The symptoms are real. Diagnosis depends on showing that some visual function is preserved in a way that does not match the reported difficulty, while also completing the examination needed to look for eye, optic-nerve and brain conditions.
 
 One possible observation is **optokinetic nystagmus**: a striped target moving across the visual field can produce small tracking and resetting eye movements. That response may demonstrate that enough of the visual pathway is working to detect the moving pattern. It does not measure full visual acuity and cannot, by itself, diagnose functional visual symptoms. (*citations* [1](#citation-1))
 
 The clinician may choose other methods, such as fogging one eye or using a mirror, depending on the symptom. These are specialist examination tools, not tricks and not tests to repeat at home.
 
+### What the assessment can explain
+
+A positive explanation should name the comparison that showed preserved vision and what it means for your particular symptom. A normal scan alone is not that explanation. Psychological distress is not required to establish the visual diagnosis. Ask which symptoms the finding explains and which still need investigation. (*citations* [1](#citation-1))
+
+### Being understood in everyday life
+
+Tell the team what happens when reading, recognizing faces, using a phone, travelling or working. A short chart test may leave unanswered how long you can use vision, what happens in busy surroundings and how much help you need. You can ask for information in an accessible format and for the explanation to be shared with your usual care team.
+
+A useful assessment record separates the observed response from these daily needs. Ask about confidence, isolation, school or work participation and emotional strain without assuming they caused the symptoms. These are suggested discussion prompts, not a visual-disability score. Evidence about long-term outcomes is variable, and research often mixes visual signs with symptoms that actually trouble the person. (*citations* [4](#citation-4))
+
 ### Visual symptoms may be episodic or prolonged
 
 Functional visual loss, blur, field change or visual access may come and go, fluctuate with the task or environment, or remain troublesome for long periods. Busy visual scenes, fatigue, migraine, light or sensory load may intensify symptoms for some people. A symptom being absent in a quiet examination room does not show that it was not disabling elsewhere.
 
-When a familiar visual episode starts, stop driving, cooking, using tools, navigating stairs or another activity that depends on reliable vision. Sit or move to a safe position, use the visual aid and lighting strategy already recommended, and use only a previously trained visual or attention cue. Sudden new or painful visual loss, flashes/floaters, a curtain-like shadow or visual change with acute neurological symptoms needs urgent assessment.
+When a familiar visual episode starts, stop driving, cooking, using tools, navigating stairs or another activity that depends on reliable vision. Sit or move to a safe position, use the visual aid and lighting strategy already recommended, and use only a previously trained visual or attention cue. Suddenly being unable to see from one or both eyes, or sudden severe eye pain, needs emergency assessment. New flashes, a dark shadow, painful eyes or changed vision need urgent advice. Do not drive yourself for emergency care; use the appropriate local service. (*citations* [5](#citation-5))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -55,6 +67,10 @@ When a familiar visual episode starts, stop driving, cooking, using tools, navig
 ## For Family, Friends, and Other Supporters
 
 Do not wave objects toward the person’s eyes, set up obstacles or surprise them to see whether they avoid something. Those demonstrations can cause falls, distress or eye injury and are not a responsible diagnostic assessment. Support the person’s current visual-safety plan and report changes to the appropriate clinician.
+
+### Helping with the appointment
+
+With permission, help prepare examples of the difficulty and questions about the findings. Ask whether lighting, large print, audio information, breaks or an accompanying person would make the visit easier. Let the person answer for themselves where possible. Ask for a written account of the positive evidence, any coexisting diagnosis and the follow-up plan.
 
 ### When vision suddenly becomes less usable
 
@@ -83,111 +99,103 @@ Clarify whether visual symptoms are continuous, intermittent or situational; doc
 
 For established episodic functional visual symptoms, give an onset plan that starts with driving/fall/injury safety and adapts a previously demonstrated preserved visual response, graded visual task or environmental strategy. Do not deliberately reproduce a visually provocative episode merely to confirm the history.
 
+### Choosing and documenting the assessment
+
+Ophthalmology or neuro-ophthalmology leads the differential assessment; an orthoptist may contribute specialist binocular and visual-function testing. The whole care team needs the explanation and its limits. Record the symptom being tested, correction and viewing conditions, observed responses, alternative explanations, confidence and outstanding questions.
+
+Coexisting disease must remain an active consideration. In a retrospective specialist series, 71 of 133 patients had abnormal neuro-ophthalmologic findings; this referral sample is not a population prevalence estimate. A functional finding does not make a new central field defect safe to dismiss. (*citations* [3](#citation-3))
+
+Choose [acuity comparisons and fogging](functional_visual_symptoms/01-visual-acuity-and-fogging.md), [field comparisons](functional_visual_symptoms/02-visual-field-comparisons.md) or the [optokinetic observation](functional_visual_symptoms/03-optokinetic-response.md) to answer a defined clinical question. If the comparison is unreliable or does not address the reported symptom, document that limitation rather than forcing a positive diagnosis. Treatment planning belongs in the [paired recovery section](../recovery-techniques/08-functional-visual-symptoms.md).
+
 ### Technique outline: optokinetic response within a positive visual examination
 
-1. Define the complaint precisely and complete the indicated assessment of acuity, pupils, ocular movements, anterior and posterior segments, fields and neurological function before interpreting a functional sign.
-2. Explain that the moving striped target helps demonstrate one preserved visual response and does not quantify all aspects of sight.
-3. Seat the patient safely and present an optokinetic drum, strip or validated digital target at an appropriate distance and field size.
-4. Move the pattern smoothly in one direction while observing both eyes for a slow following phase and quick resetting phase. Repeat in the opposite direction if clinically useful.
-5. Relate the response only to the level of visual function it can support. Do not convert its presence into a precise acuity estimate or assume it excludes coexisting disease.
-6. Select other positive methods—such as mirror tracking, fogging or binocular visual-field comparison—according to the presentation and the examiner’s training.
-7. Explain the preserved function respectfully and connect it to a treatment or rehabilitation plan. Arrange reassessment when the pattern changes or the evidence is incomplete.
+The original seven-step outline is retained on the [detailed optokinetic page](functional_visual_symptoms/03-optokinetic-response.md#performing-the-assessment).
 
 ### Media contributor brief
 
-Use a clinician and healthy volunteer or a specifically consenting patient. Record:
+The original recording brief is retained with [optokinetic media and accessibility](functional_visual_symptoms/03-optokinetic-response.md#media-and-accessibility).
 
-1. A wide view showing safe seating, clinician and striped target.
-2. The smooth movement of the target, without rapid flashing or an abrupt start.
-3. A close-up of both eyes showing the tracking and resetting response.
-4. A simple diagram of the slow and fast eye-movement phases.
-5. A closing statement: “This response demonstrates some preserved visual processing. It does not measure all vision or diagnose the cause alone.”
+## Diagnostic techniques at a glance
 
-Provide a static diagram as the default media for readers who are sensitive to moving patterns. Do not film obstacle avoidance, menace responses or any demonstration that risks startling or shaming the participant.
+All thirteen entries are linked below. The [full inventory](functional_visual_symptoms/technique-inventory.md) preserves their descriptions and citations. Detailed guides cover selected comparisons; investigations are not positive FND tests.
+
+### Visual acuity at different distances
+
+[Read the assessment description and limitations](functional_visual_symptoms/technique-inventory.md#visual-acuity-at-different-distances).
+
+### Tubular visual fields
+
+[Read the assessment description and limitations](functional_visual_symptoms/technique-inventory.md#tubular-visual-fields).
+
+### Spiralling, crossing or stacked isopters
+
+[Read the assessment description and limitations](functional_visual_symptoms/technique-inventory.md#spiralling-crossing-or-stacked-isopters).
+
+### Binocular versus monocular fields
+
+[Read the assessment description and limitations](functional_visual_symptoms/technique-inventory.md#binocular-versus-monocular-fields).
+
+### Optokinetic response
+
+[Read the assessment description and limitations](functional_visual_symptoms/technique-inventory.md#optokinetic-response).
+
+### Mirror tracking
+
+[Read the assessment description and limitations](functional_visual_symptoms/technique-inventory.md#mirror-tracking).
+
+### Fogging
+
+[Read the assessment description and limitations](functional_visual_symptoms/technique-inventory.md#fogging).
+
+### Prism dissociation
+
+[Read the assessment description and limitations](functional_visual_symptoms/technique-inventory.md#prism-dissociation).
+
+### Prism fusion response
+
+[Read the assessment description and limitations](functional_visual_symptoms/technique-inventory.md#prism-fusion-response).
+
+### Stereopsis
+
+[Read the assessment description and limitations](functional_visual_symptoms/technique-inventory.md#stereopsis).
+
+### Bagolini lens testing
+
+[Read the assessment description and limitations](functional_visual_symptoms/technique-inventory.md#bagolini-lens-testing).
+
+### Colour or polarizing dissociation
+
+[Read the assessment description and limitations](functional_visual_symptoms/technique-inventory.md#colour-or-polarizing-dissociation).
+
+### OCT, retinal testing and visual evoked potentials
+
+[Read the assessment description and limitations](functional_visual_symptoms/technique-inventory.md#oct-retinal-testing-and-visual-evoked-potentials).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-
-## Diagnostic techniques at a glance
-
-These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
-
-The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
-
-### Visual acuity at different distances
-
-A specialist compares reading performance with the change expected when distance changes. A reproducible optical inconsistency may demonstrate better vision than the person experiences. This is a clinical demonstration with limited test-specific accuracy evidence, not a test of honesty. (*citations* [1](#citation-1))
-
-### Tubular visual fields
-
-A field retaining the same physical width at different viewing distances conflicts with the expected widening of a visual field. It can support functional visual loss, but careful technique, understanding and ocular assessment remain essential. (*citations* [1](#citation-1))
-
-### Spiralling, crossing or stacked isopters
-
-Formal field testing may produce contours that change or cross unexpectedly. These patterns can support a functional formulation, but fatigue, poor technique and eye disease can also produce unreliable fields. A cloverleaf pattern alone is insufficient. (*citations* [1](#citation-1))
-
-### Binocular versus monocular fields
-
-The specialist checks whether binocular vision compensates for a field deficit in the expected way. A reproducible inconsistency may demonstrate preserved function. Interpretation depends on the claimed deficit, fixation and complete eye examination. (*citations* [2](#citation-2))
-
-### Optokinetic response
-
-A moving visual target can elicit an automatic tracking response, demonstrating some preserved visual function. It does not establish normal conscious vision or explain every deficit. Avoid intolerable moving patterns; this is a specialist observation with limited standalone validation. (*citations* [1](#citation-1))
-
-### Mirror tracking
-
-Following a reflected image may demonstrate visual capacity during apparent severe loss. This is a described bedside observation rather than a broadly validated diagnostic-accuracy test. Preserved tracking must be interpreted with neurological and ophthalmic findings. (*citations* [2](#citation-2))
-
-### Fogging
-
-The clinician blurs the better-seeing eye with lenses and assesses what can still be read. Reading beyond that eye’s available vision can demonstrate function in the affected eye. Explain the finding openly; this is not a covert test of truthfulness. (*citations* [1](#citation-1))
-
-### Prism dissociation
-
-Prisms separate images so reported double vision or corresponding eye movements can demonstrate input from both eyes. Interpretation depends on alignment and the specific protocol. Clinical descriptions support its use, but universal sensitivity and specificity are not established. (*citations* [1](#citation-1))
-
-### Prism fusion response
-
-A prism-induced eye adjustment can demonstrate binocular visual function even when double vision is not reported. This requires specialist interpretation and differs from the subjective prism-dissociation comparison. It does not exclude coexisting ocular disease. (*citations* [1](#citation-1))
-
-### Stereopsis
-
-Depth-perception testing can establish a minimum level of binocular function. It may contradict a particular degree of reported loss, but estimates of each eye’s acuity have limits. It does not establish that all visual symptoms are functional. (*citations* [1](#citation-1))
-
-### Bagolini lens testing
-
-Striated lenses produce a binocular pattern that requires input from both eyes. Seeing the expected pattern can demonstrate preserved binocular function. This is a specialist clinical method, with limited standalone diagnostic-accuracy evidence for FND. (*citations* [1](#citation-1))
-
-### Colour or polarizing dissociation
-
-Selected targets visible separately to each eye can reveal visual capacity not accessible during ordinary testing. These are described ophthalmic comparisons, not interchangeable validated tests; optical setup and coexisting disease matter. (*citations* [2](#citation-2))
-
-### OCT, retinal testing and visual evoked potentials
-
-Retinal imaging and electrical-response tests address structural or physiological differential diagnoses. They are not positive FND tests; normal results alone do not establish functional visual loss, and coexisting eye disease is common. (*citations* [1](#citation-1), [3](#citation-3))
-
-
 ***
 
 ## Research and Sources
 
 ### Evidence notes
 
-- The 2024 clinical article recommends making a positive diagnosis by demonstrating preserved vision, explaining the finding constructively and assessing possible comorbid eye or neurological disease. (*citations* [1](#citation-1))
+- The 2024 clinical article supports a positive, constructive explanation and assessment of coexisting disease. It is clinical guidance, not validation of a universal diagnostic battery. (*citations* [1](#citation-1))
+- The 2022 specialist review describes optical and field comparisons. Test selection and interpretation require appropriate training. (*citations* [2](#citation-2))
+- The 2003 referral study supports vigilance for coexisting disease; its abstract was reviewed, not its full methods. (*citations* [3](#citation-3))
+- The 2026 systematic review included 44 studies and 2,284 participants, with a search ending October 31, 2024. Most studies were retrospective. Prognosis data were heterogeneous, and signs were often not distinguished from symptomatic disability. This is not a diagnostic-accuracy meta-analysis and supplies no universal sensitivity or specificity for the methods here. (*citations* [4](#citation-4))
 
 ### Citation table
 
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. [FND-CIT-0024](../../research/citation-index.md#fnd-cit-0024). [https://doi.org/10.1038/s41433-024-03126-w](https://doi.org/10.1038/s41433-024-03126-w) |
-
 | <a id="citation-2"></a>**[2]** | Raviskanthan S, Wendt S, Ugoh PM, et al. Functional vision disorders in adults: a paradigm and nomenclature shift for ophthalmology. *Survey of ophthalmology*. 2022;67(1):8-18. [DOI](https://doi.org/10.1016/j.survophthal.2021.03.002). [PMID: 33737039](https://pubmed.ncbi.nlm.nih.gov/33737039/). [FND-CIT-0179](../../research/citation-index.md#fnd-cit-0179). |
 | <a id="citation-3"></a>**[3]** | Scott JA, Egan RA. Prevalence of organic neuro-ophthalmologic disease in patients with functional visual loss. *American journal of ophthalmology*. 2003;135(5):670-675. [DOI](https://doi.org/10.1016/s0002-9394%2802%2902254-7). [PMID: 12719075](https://pubmed.ncbi.nlm.nih.gov/12719075/). [FND-CIT-0180](../../research/citation-index.md#fnd-cit-0180). |
-
-*Technique outline created: August 24, 2026 · Ophthalmology and orthoptics review pending*
+| <a id="citation-4"></a>**[4]** | Ramsay N, Tessmann H, McKee J, Ercoli T, Stone J. Functional visual loss: a systematic review and meta-analysis of epidemiology, prognosis and treatment. *Eye*. 2026;40:1784–1793. [DOI](https://doi.org/10.1038/s41433-026-04648-1). [FND-CIT-0103](../../research/citation-index.md#fnd-cit-0103). |
+| <a id="citation-5"></a>**[5]** | NHS. Vision loss. Reviewed August 28, 2025; accessed October 2, 2026. [Safety guidance](https://www.nhs.uk/conditions/vision-loss/). [FND-CIT-0104](../../research/citation-index.md#fnd-cit-0104). |
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -197,7 +205,7 @@ Retinal imaging and electrical-response tests address structural or physiologica
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Functional Speech and Voice Symptoms](09-functional-speech-and-voice-symptoms.md)
+**Continue:** [Next: Visual Acuity Comparisons and Fogging](functional_visual_symptoms/01-visual-acuity-and-fogging.md)
 
 **Related:** [Previous: Sensory inventory](functional_sensory_symptoms/technique-inventory.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/08-functional-visual-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/02-visual-symptoms-photophobia-and-sensory-overload.md)
 

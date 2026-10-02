@@ -326,6 +326,10 @@ Use the sections below to drill down into the course, reference library, researc
 - [Midline and Vibration Splitting: Interpretation and Limits](reference/diagnostic-signs/functional_sensory_symptoms/02-midline-and-vibration-splitting.md)
 - [Functional Sensory Symptoms: Diagnostic Technique Inventory](reference/diagnostic-signs/functional_sensory_symptoms/technique-inventory.md)
 - [Functional Visual Symptoms](reference/diagnostic-signs/08-functional-visual-symptoms.md)
+- [Visual Acuity Comparisons and Fogging](reference/diagnostic-signs/functional_visual_symptoms/01-visual-acuity-and-fogging.md)
+- [Visual Field Comparisons](reference/diagnostic-signs/functional_visual_symptoms/02-visual-field-comparisons.md)
+- [Optokinetic Response](reference/diagnostic-signs/functional_visual_symptoms/03-optokinetic-response.md)
+- [Visual Diagnostic Inventory](reference/diagnostic-signs/functional_visual_symptoms/technique-inventory.md)
 - [Functional Speech and Voice Symptoms](reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md)
 - [Functional Swallowing Symptoms and Globus](reference/diagnostic-signs/10-functional-swallowing-and-globus.md)
 - [Functional Cough and Upper-Airway Symptoms](reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md)
@@ -770,3 +774,5 @@ Use the sections below to drill down into the course, reference library, researc
 - [Functional Limb Weakness: Diagnostic Inventory](reference/diagnostic-signs/functional_limb_weakness/technique-inventory.md)
 
 - [Functional sensory diagnostic expansion record](docs/project/functional-sensory-diagnostic-expansion.md)
+
+- [Visual diagnostic expansion record](docs/project/functional-visual-diagnostic-expansion.md)
