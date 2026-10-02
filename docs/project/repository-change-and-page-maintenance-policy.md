@@ -30,7 +30,7 @@ Use this checklist whenever a course or reference page is added, removed, rename
 3. Update the previous and next reading links so the module remains one uninterrupted route.
 4. Update focused-page and total-page counts wherever they appear.
 5. Add the page’s research package, compact citation table and central citation-index links before changing its evidence-review status.
-6. Add relevant glossary and reference-library cross-links without duplicating the full explanation.
+6. Add relevant glossary and reference-library cross-links without duplicating the full explanation. When deeper canonical reference material exists, add a short **Further reading in the Reference Library** block near the end of the course page, before its Continue/Next navigation.
 
 </details>
 

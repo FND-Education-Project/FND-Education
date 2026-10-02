@@ -108,6 +108,12 @@ Persistent disability deserves continued equipment, pressure, pain, bone-health,
 [Research and Sources](#research-and-sources)
 ***
 
+## Further reading in the Reference Library
+
+- **[Self-Doubt, Legitimacy, and Dignity in Variable Disability](../../../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md)** — “am I disabled enough?”, aid-related shame, variable ability and dignity when support needs change.
+
+***
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Sensory, Home, and Communication Access](03-sensory-home-and-communication-access.md)
 

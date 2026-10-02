@@ -131,6 +131,13 @@ Co-produce a brief plan that names the person's early signs, the first change in
 [Research and Sources](#research-and-sources)
 ***
 
+## Further reading in the Reference Library
+
+- **[Emotional Regulation, Irritability, and Overwhelm](../../../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md)** — how reduced capacity can interact with strong emotions, communication and boundaries.
+- **[Unpredictability, Overload, and Trusting Your Body](../../../reference/biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md)** — combined physical, sensory, cognitive and social load, planning and uncertainty.
+
+***
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next module: How Is FND Diagnosed?](../module-02-how-fnd-is-diagnosed/README.md)
 

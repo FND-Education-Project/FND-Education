@@ -113,6 +113,13 @@ Offer information in more than one format. Record the person's preferred communi
 [Research and Sources](#research-and-sources)
 ***
 
+## Further reading in the Reference Library
+
+- **[Unpredictability, Overload, and Trusting Your Body](../../../reference/biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md)** — how sensory, social, cognitive and physical demands can stack without making “overload” a diagnosis.
+- **[Self-Doubt, Legitimacy, and Dignity in Variable Disability](../../../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md)** — using adaptations without treating them as evidence of failure.
+
+***
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Try and Review Equipment as Needs Change](04-trying-and-reviewing-equipment-as-needs-change.md)
 

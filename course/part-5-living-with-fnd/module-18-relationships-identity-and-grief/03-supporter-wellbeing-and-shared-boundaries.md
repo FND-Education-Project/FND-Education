@@ -106,6 +106,13 @@ Care-partner evidence in FND is very limited: the functional-seizure survey had 
 [Research and Sources](#research-and-sources)
 ***
 
+## Further reading in the Reference Library
+
+- **[Guilt, Dependence, and Receiving Help](../../../reference/biopsychosocial-experiences/04-guilt-dependence-and-receiving-help.md)** — sustainable care, supported autonomy, guilt and the difference between a need and being a burden.
+- **[Mental Health, Stigma, and Being Believed](../../../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md)** — how disbelief and psychiatric labels can affect family support without making supporters responsible for diagnosing symptoms.
+
+***
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next module: Healthcare Communication and Self-Advocacy](../module-19-healthcare-communication-and-self-advocacy/README.md)
 

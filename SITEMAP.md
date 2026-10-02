@@ -721,6 +721,11 @@ Use the sections below to drill down into the course, reference library, researc
 
 - [Collection overview](reference/biopsychosocial-experiences/README.md)
 - [Emotional Regulation, Irritability, and Overwhelm](reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md)
+- [Mental Health, Stigma, and Being Believed](reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md)
+- [Self-Doubt, Legitimacy, and Dignity in Variable Disability](reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md)
+- [Guilt, Dependence, and Receiving Help](reference/biopsychosocial-experiences/04-guilt-dependence-and-receiving-help.md)
+- [Unpredictability, Overload, and Trusting Your Body](reference/biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md)
+- [Recovery Pressure, Self-Blame, and Feeling Like You Are Failing](reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md)
 
 ## Functional paralysis: detailed recovery and care
 

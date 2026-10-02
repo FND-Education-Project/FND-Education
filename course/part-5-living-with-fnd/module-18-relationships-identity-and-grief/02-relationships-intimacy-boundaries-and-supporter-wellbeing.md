@@ -106,6 +106,13 @@ Consider pain, sensory loss, fatigue, autonomic symptoms, medication effects, pe
 [Research and Sources](#research-and-sources)
 ***
 
+## Further reading in the Reference Library
+
+- **[Emotional Regulation, Irritability, and Overwhelm](../../../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md)** — practical examples of setting and holding boundaries during difficult interactions.
+- **[Guilt, Dependence, and Receiving Help](../../../reference/biopsychosocial-experiences/04-guilt-dependence-and-receiving-help.md)** — receiving care while preserving autonomy and the relationship outside caregiving.
+
+***
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Supporter Wellbeing and Shared Boundaries](03-supporter-wellbeing-and-shared-boundaries.md)
 

@@ -115,6 +115,12 @@ Clinicians should explain the intent of a particular referral. On this site, the
 [Research and Sources](#research-and-sources)
 ***
 
+## Further reading in the Reference Library
+
+- **[Recovery Pressure, Self-Blame, and Feeling Like You Are Failing](../../../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md)** — setbacks, treatment non-response, adaptation and why recovery is not a test of effort or worth.
+
+***
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Available Capacity, Spoons, and Early Action](04-available-capacity-spoons-and-early-action.md)
 

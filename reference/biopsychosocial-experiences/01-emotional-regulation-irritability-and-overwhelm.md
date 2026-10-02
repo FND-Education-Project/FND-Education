@@ -295,6 +295,8 @@ The practical boundary-setting examples on this page are general relationship an
 *Page created: October 2, 2026 · Plain-language and boundaries revision: October 2, 2026 · Clinical, lived-experience and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
+**Continue:** [Mental Health, Stigma, and Being Believed →](02-mental-health-stigma-and-being-believed.md)
+
 **Related:** [Collection overview](README.md) · [Available Capacity](../../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md) · [Dissociation and Altered Awareness](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/02-dissociation-and-altered-awareness.md) · [Relationships, Intimacy, and Boundaries](../../course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/02-relationships-intimacy-boundaries-and-supporter-wellbeing.md) · [Psychological Treatment Without Blame](../../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)

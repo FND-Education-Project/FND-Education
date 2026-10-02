@@ -106,6 +106,12 @@ Document diagnostic reasoning without pejorative shortcuts. Offer written explan
 [Research and Sources](#research-and-sources)
 ***
 
+## Further reading in the Reference Library
+
+- **[Mental Health, Stigma, and Being Believed](../../../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md)** — credibility, stigma, diagnostic overshadowing and the distinction between believing a symptom and knowing its cause.
+
+***
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next module: Work, Disability, and Community Participation](../module-20-work-disability-and-community-participation/README.md)
 
