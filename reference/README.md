@@ -22,6 +22,7 @@ For a step-by-step introduction to FND, including how current research helps us 
 [Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
+[Biopsychosocial Experiences](#biopsychosocial-experiences-associated-with-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
 [More Reference Topics](#more-fnd-reference-topics)
 ***
@@ -156,6 +157,7 @@ Part of the face may pull, tighten, spasm, droop or feel difficult to control. T
 [Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
+[Biopsychosocial Experiences](#biopsychosocial-experiences-associated-with-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
 [More Reference Topics](#more-fnd-reference-topics)
 ***
@@ -172,10 +174,20 @@ Part of the face may pull, tighten, spasm, droop or feel difficult to control. T
 
 ---
 
+## Biopsychosocial Experiences Associated with FND
+
+Some important experiences do not fit neatly into either an FND diagnostic-sign page or a separate co-occurring diagnosis. This collection keeps those cross-cutting topics visible without turning them into diagnostic criteria or assuming they caused the disorder.
+
+- **[Collection overview](biopsychosocial-experiences/README.md)** — explains what “biopsychosocial experiences” means here and links related material already covered elsewhere.
+- **[Emotional Regulation, Irritability, and Overwhelm](biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md)** — discusses strong or fast emotional responses, alternative contributors, practical support and the limits of current FND evidence.
+
+---
+
 ***
 [Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
+[Biopsychosocial Experiences](#biopsychosocial-experiences-associated-with-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
 [More Reference Topics](#more-fnd-reference-topics)
 ***
@@ -240,6 +252,7 @@ For a more structured explanation beginning with the basic concepts and building
 [Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
+[Biopsychosocial Experiences](#biopsychosocial-experiences-associated-with-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
 [More Reference Topics](#more-fnd-reference-topics)
 ***
@@ -312,6 +325,7 @@ Supporters can play an important role in understanding symptoms, responding duri
 [Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
+[Biopsychosocial Experiences](#biopsychosocial-experiences-associated-with-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
 [More Reference Topics](#more-fnd-reference-topics)
 ***
@@ -321,6 +335,7 @@ Supporters can play an important role in understanding symptoms, responding duri
 
 **Explore:** [Recovery Techniques](recovery-techniques/README.md)<br>
 [Common Co-occurring Conditions](co-occurring-conditions/README.md)<br>
+[Biopsychosocial Experiences](biopsychosocial-experiences/README.md)<br>
 [Complete Reference Index](reference-index.md)
 
 **Navigate:** [Home](../README.md)<br>
