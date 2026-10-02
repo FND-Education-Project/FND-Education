@@ -110,6 +110,13 @@ Investigating symptoms and referring your patient to other resources including s
 [Research and Sources](#research-and-sources)
 ***
 
+## Further reading in the Reference Library
+
+- **[Biopsychosocial Experiences Associated with FND](../../../reference/biopsychosocial-experiences/README.md)** — cross-cutting experiences that may matter in daily life without being diagnostic signs or proof of cause.
+- **[Mental Health, Stigma, and Being Believed](../../../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md)** — how FND and mental-health conditions can coexist without one automatically explaining the other.
+
+***
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Remission, Recovery, and What Improvement Can Mean](03-remission-recovery-and-what-improvement-can-mean.md)
 
