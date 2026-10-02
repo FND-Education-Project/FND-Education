@@ -110,6 +110,13 @@ Offer psychological care for chosen goals such as grief, adjustment, anxiety or 
 [Research and Sources](#research-and-sources)
 ***
 
+## Further reading in the Reference Library
+
+- **[Self-Doubt, Legitimacy, and Dignity in Variable Disability](../../../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md)** — self-trust, internalized stigma and dignity when symptoms or ability vary.
+- **[Guilt, Dependence, and Receiving Help](../../../reference/biopsychosocial-experiences/04-guilt-dependence-and-receiving-help.md)** — feeling like a burden, changing independence and receiving practical care.
+
+***
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Relationships, Intimacy, and Boundaries](02-relationships-intimacy-boundaries-and-supporter-wellbeing.md)
 
