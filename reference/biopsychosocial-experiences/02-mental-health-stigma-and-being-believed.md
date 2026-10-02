@@ -316,6 +316,8 @@ The iatrogenic-harm review documents risks including stigma and diagnostic overs
 *Page created: October 2, 2026 · Clinical, lived-experience, supporter and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
+**Continue:** [Self-Doubt, Legitimacy, and Dignity in Variable Disability →](03-self-doubt-legitimacy-and-dignity-in-variable-disability.md)
+
 **Related:** [Collection overview](README.md) · [Emotional Regulation, Irritability, and Overwhelm](01-emotional-regulation-irritability-and-overwhelm.md) · [Psychological Treatment Without Blame](../../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md) · [Relationships, Identity, and Grief](../../course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/README.md) · [Medical Safety and New Symptoms](../../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
