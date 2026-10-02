@@ -35,9 +35,9 @@ For example, you may be able to handle a difficult conversation on a fairly good
 
 ### This does not mean “FND made me angry”
 
-Researchers have found differences in emotional processing in some groups of people with FND. That tells us emotion is worth studying. It does **not** tell us that everyone with FND has emotional-regulation problems, that anger is an FND symptom, or that emotion caused a particular person's FND. (*citation* [1](#citation-1))
+Researchers have studied how people with FND notice, feel and respond to emotions. Some studies have found differences when groups of people with FND are compared with other groups. That tells us emotion is worth studying. It does **not** tell us that everyone with FND has trouble managing emotions, that anger is an FND symptom, or that emotion caused a particular person's FND. (*citation* [1](#citation-1))
 
-FND research also looks at how attention, body signals, emotion and the sense of control interact. These are still developing models, not tests that can tell a person why their FND began. (*citations* [2](#citation-2), [3](#citation-3))
+Researchers also study how attention, body signals, emotions and the feeling of being in control of an action may interact. These ideas are still being worked out. They are not tests that can tell a person why their FND began. (*citations* [2](#citation-2), [3](#citation-3))
 
 There is another direction to remember too: **FND itself can give you plenty to be emotional about.**
 
