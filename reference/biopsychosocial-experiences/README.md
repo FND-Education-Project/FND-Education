@@ -8,6 +8,8 @@
 
 FND is a neurological disorder, but living with FND can involve experiences that cut across physical, cognitive, emotional and social parts of life. Some of those experiences are important enough to discuss even when they are **not diagnostic signs of FND** and are **not separate diagnoses on their own**.
 
+**“Biopsychosocial Experiences” is a project navigation label, not a formal diagnosis, recognized FND subtype or established medical classification.**
+
 In this collection, **biopsychosocial** describes the different domains that may be relevant to a person's experience. It does **not** mean that psychological or social factors caused the person's FND, and it does not mean that every domain is important for every person. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 > [!IMPORTANT]
