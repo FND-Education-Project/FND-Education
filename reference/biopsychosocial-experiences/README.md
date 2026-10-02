@@ -46,6 +46,7 @@ Some cross-cutting experiences already have stronger homes elsewhere on the site
 - **[Arousal and Startle Regulation](../recovery-techniques/functional_jerks_and_myoclonus/07-arousal-and-startle-regulation.md)** — a symptom-specific page for functional jerks when startle or high alertness is part of the individual's pattern.
 - **[Functional Sensory Symptoms](../diagnostic-signs/07-functional-sensory-symptoms.md)** and the [sensory-symptom course material](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/01-numbness-altered-sensation-and-hypersensitivity.md) — numbness, altered sensation and hypersensitivity.
 - **[Common Co-occurring Conditions](../co-occurring-conditions/README.md)** — migraine, pain, fatigue, sleep problems, autonomic symptoms and other conditions that may strongly affect day-to-day capacity.
+- **[Relationships, Identity, and Grief](../../course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/README.md)** — grief, changing roles and identity, social isolation, relationships, intimacy, boundaries and supporter wellbeing.
 
 Keeping these topics connected but not collapsed into one diagnosis helps preserve an important principle: **more than one process can be real at the same time**.
 
