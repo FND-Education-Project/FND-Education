@@ -2161,3 +2161,15 @@ Publisher abstract checked; full text unavailable. Retrospective emergency cohor
 Newman G. How to assess sensation. *MSD Manual Professional Edition*. Reviewed August 2025. [Clinical examination reference](https://www.msdmanuals.com/professional/neurologic-disorders/neurologic-examination/how-to-assess-sensation). Accessed October 1, 2026.
 
 General clinical examination guidance, not an FND accuracy study. Anatomy and modality selection only; project terminology and consent safeguards are independently stated. Checked October 1, 2026. Current uses are listed in the sensory diagnostic map above.
+
+## Functional visual diagnostic expansion source-use map
+
+Checked October 2, 2026. Existing IDs reused; no duplicate source records. Targeted review, not exhaustive primary-study reappraisal.
+
+| Page | Stable sources |
+|---|---|
+| [08-functional-visual-symptoms.md](../reference/diagnostic-signs/08-functional-visual-symptoms.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0179](#fnd-cit-0179), [FND-CIT-0180](#fnd-cit-0180), [FND-CIT-0103](#fnd-cit-0103), [FND-CIT-0104](#fnd-cit-0104) |
+| [functional_visual_symptoms/01-visual-acuity-and-fogging.md](../reference/diagnostic-signs/functional_visual_symptoms/01-visual-acuity-and-fogging.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0179](#fnd-cit-0179) |
+| [functional_visual_symptoms/02-visual-field-comparisons.md](../reference/diagnostic-signs/functional_visual_symptoms/02-visual-field-comparisons.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0179](#fnd-cit-0179) |
+| [functional_visual_symptoms/03-optokinetic-response.md](../reference/diagnostic-signs/functional_visual_symptoms/03-optokinetic-response.md) | [FND-CIT-0024](#fnd-cit-0024) |
+| [functional_visual_symptoms/technique-inventory.md](../reference/diagnostic-signs/functional_visual_symptoms/technique-inventory.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0179](#fnd-cit-0179), [FND-CIT-0180](#fnd-cit-0180) |

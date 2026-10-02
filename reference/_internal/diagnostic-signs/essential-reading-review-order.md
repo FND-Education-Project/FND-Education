@@ -678,6 +678,13 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 **Page to review:** [Functional Visual Symptoms](../../diagnostic-signs/08-functional-visual-symptoms.md)
 
+**Expanded reading path:** [Acuity and fogging](../../diagnostic-signs/functional_visual_symptoms/01-visual-acuity-and-fogging.md) → [field comparisons](../../diagnostic-signs/functional_visual_symptoms/02-visual-field-comparisons.md) → [optokinetic response](../../diagnostic-signs/functional_visual_symptoms/03-optokinetic-response.md) → [thirteen-entry inventory](../../diagnostic-signs/functional_visual_symptoms/technique-inventory.md).
+
+**Evidence update — October 2, 2026:** The 2024 clinical framework and 2022 review inform technique descriptions; this is not a complete reappraisal of every primary validation paper. The Scott–Egan abstract supports the coexistence warning, with full-methods review pending.
+
+- [ ] Ramsay N, Tessmann H, McKee J, Ercoli T, Stone J. Functional visual loss: a systematic review and meta-analysis of epidemiology, prognosis and treatment. *Eye*. 2026;40:1784–1793. [DOI](https://doi.org/10.1038/s41433-026-04648-1). Search ends October 2024; heterogeneous prognosis and symptom/sign definitions. Not a diagnostic-accuracy meta-analysis.
+- [ ] NHS. Vision loss. [Safety guidance](https://www.nhs.uk/conditions/vision-loss/). Reviewed August 2025; checked October 2, 2026. Adjacent emergency guidance, not FND validation.
+
 ### Read first — symptom-level evidence
 
 - [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. [https://doi.org/10.1038/s41433-024-03126-w](https://doi.org/10.1038/s41433-024-03126-w)
