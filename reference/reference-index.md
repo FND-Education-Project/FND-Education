@@ -6,12 +6,13 @@
 
 > **Working draft:** This reference was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-This detailed index maps practical, symptom-specific material that is easier to use as a reference than as part of a course. It currently has four collections:
+This detailed index maps practical, symptom-specific material that is easier to use as a reference than as part of a course. It currently has five collections:
 
 - **[Understanding an FND Diagnosis](diagnostic-concepts/README.md)** explains positive diagnosis, investigations, and the relationship between assessment results and everyday function.
 - **[Symptom-Specific Diagnostic Signs](diagnostic-signs/README.md)** explains positive diagnostic signs and criteria, their limits, and how contributors could demonstrate them with accessible media. The collection currently covers 17 symptom presentations.
 - **[Symptom Recovery and Management Techniques](recovery-techniques/README.md)** collects research-informed rehabilitation, treatment and self-management techniques for the same 17 presentations. Its [master technique list](recovery-techniques/technique-index.md) can be browsed by symptom or by technique name.
 - **[Common Co-occurring Conditions](co-occurring-conditions/README.md)** explains nine related conditions or symptom groups, their interactions with FND and available recovery or management options. It does not add them to the 17 FND presentation categories.
+- **[Biopsychosocial Experiences Associated with FND](biopsychosocial-experiences/README.md)** covers cross-cutting experiences that may matter in daily life without making them diagnostic criteria or evidence of a universal FND cause. It currently contains one focused page.
 
 Two cross-cutting pages sit alongside those collections: **[Professional Roles in FND Care](professional-roles-in-fnd-care.md)** maps clinical and allied-health roles to relevant material across the site, while **[A Brief History of FND](history-of-fnd.md)** provides a selective research-linked timeline for readers who want historical context.
 
@@ -30,6 +31,13 @@ The diagnostic and recovery collections answer different questions. A diagnostic
 - [Irritable Bowel Syndrome Alongside FND](co-occurring-conditions/09-irritable-bowel-syndrome.md)
 
 [PPPD remains in its existing collection](recovery-techniques/persistent_postural_perceptual_dizziness/README.md); it is linked rather than duplicated.
+
+## Biopsychosocial experiences associated with FND
+
+- [Collection overview](biopsychosocial-experiences/README.md)
+- [Emotional Regulation, Irritability, and Overwhelm](biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md)
+
+This collection is separate from the 17 diagnostic presentations and from the co-occurring-condition catalogue. Associated experiences may be relevant to formulation, treatment or daily support, but they do not establish the FND diagnosis or its cause.
 
 ## Special diagnostic and recovery overlap topic
 
