@@ -173,7 +173,7 @@ Selected endoscopy, mucosal sampling, manometry or reflux testing investigate pl
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Cough and Upper-Airway Symptoms](11-functional-cough-and-upper-airway-symptoms.md)
 
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/10-functional-swallowing-and-globus.md) · [Functional facial symptoms](14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/02-swallowing-globus-and-nutrition-safety.md)
+**Related:** [Previous: Speech and voice inventory](functional_speech_and_voice_symptoms/technique-inventory.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/10-functional-swallowing-and-globus.md) · [Functional facial symptoms](14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/02-swallowing-globus-and-nutrition-safety.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

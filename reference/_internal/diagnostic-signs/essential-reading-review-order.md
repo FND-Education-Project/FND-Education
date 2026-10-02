@@ -758,6 +758,16 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 **Page to review:** [Functional Speech and Voice Symptoms](../../diagnostic-signs/09-functional-speech-and-voice-symptoms.md)
 
+**Expanded reading path:** [Cross-task comparison](../../diagnostic-signs/functional_speech_and_voice_symptoms/01-cross-task-speech-comparison.md) → [stuttering and prosody](../../diagnostic-signs/functional_speech_and_voice_symptoms/02-stuttering-and-prosody-assessment.md) → [voice/laryngeal assessment](../../diagnostic-signs/functional_speech_and_voice_symptoms/03-voice-and-laryngeal-assessment.md) → [eight-entry inventory](../../diagnostic-signs/functional_speech_and_voice_symptoms/technique-inventory.md).
+
+**Evidence update — October 2, 2026:** Consensus and case-series sources remain the clinical framework. Publisher/PMC full-text retrieval was blocked; indexed excerpts and abstracts were checked. No complete primary-study reappraisal is claimed.
+
+- [ ] Freeburn JL, Finkelstein SA, Westlin C, Perez DL, Rezaii N. Using Digital Speech Markers to Classify Functional Speech Disorder: A Proof-of-Concept Pilot Study. *Movement Disorders*. 2025;40(8):1704–1708. [DOI](https://doi.org/10.1002/mds.30256). [PMID: 40448475](https://pubmed.ncbi.nlm.nih.gov/40448475/). Abstract only; external neurological-control validation needed.
+- [ ] American Speech-Language-Hearing Association. Stuttering, Cluttering, and Fluency. *Practice Portal*. Accessed October 2, 2026. [Professional guidance](https://www.asha.org/practice-portal/clinical-topics/fluency-disorders/). Adjacent assessment guidance, not FND diagnostic evidence.
+- [ ] American Speech-Language-Hearing Association. Voice Disorders. *Practice Portal*. Accessed October 2, 2026. [Professional guidance](https://www.asha.org/practice-portal/clinical-topics/voice-disorders/). Broader voice terminology and laryngeal assessment.
+- [ ] American Speech-Language-Hearing Association. Augmentative and Alternative Communication (AAC). *Practice Portal*. Accessed October 2, 2026. [Communication-access guidance](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/). Access guidance rather than an FND treatment trial.
+- [ ] NHS. Symptoms of a stroke. Reviewed September 12, 2024; accessed October 2, 2026. [Safety guidance](https://www.nhs.uk/conditions/stroke/symptoms/).
+
 ### Read first — symptom-level evidence
 
 - [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)

@@ -141,6 +141,8 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0196](#fnd-cit-0196) | Neurosymptoms.org, accessed September 22, 2026 | Specialist patient education | PPPD explanation and care context | [PPPD overview](../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md); [Building a Vestibular Rehabilitation Plan That Fits You](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/01-individual-vestibular-plan.md); [Returning to Places and Activities That Matter](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/07-community-activities.md); [Keeping Other Causes of Dizziness in the Care Plan](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/09-coexisting-conditions.md); [Discussing an SSRI or SNRI With Your Prescriber](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/12-medication-discussion.md); [Making a Plan for Flares and Changing Dizziness](../reference/recovery-techniques/persistent_postural_perceptual_dizziness/13-flare-and-review-plan.md) |
 | [FND-CIT-0197](#fnd-cit-0197) | NHS. Bell’s palsy. [Source](https://www.nhs.uk/conditions/bells-palsy/). Accessed September 22, 2026. | Adjacent facial-nerve and eye-protection guidance; does not diagnose FND or establish an FND exercise programme. | Functional facial symptoms | [Detailed collection](../reference/recovery-techniques/functional_facial_symptoms/README.md) |
 | [FND-CIT-0198](#fnd-cit-0198) | University College London Hospitals NHS Foundation Trust. Complex Facial Clinic: botulinum toxin injections as part of the clinic treatment. [Source](https://www.uclh.nhs.uk/patients-and-visitors/patient-information-pages/complex-facial-clinic-botulinum-toxin-injections-part-clinic-treatment). Accessed September 22, 2026. | Adjacent facial-palsy/synkinesis treatment and adverse-effect information; not evidence of efficacy for functional facial symptoms. | Functional facial symptoms | [Detailed collection](../reference/recovery-techniques/functional_facial_symptoms/README.md) |
+| [FND-CIT-0246](#fnd-cit-0246) | Freeburn et al., 2025 | Proof-of-concept case-control pilot; abstract reviewed | Emerging digital speech classification, not routine differential diagnosis | [Speech/voice diagnosis](../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md) |
+| [FND-CIT-0247](#fnd-cit-0247) | ASHA, accessed 2026 | Adjacent professional fluency guidance; excludes functional and acquired neurogenic fluency disorders | History, linguistic context and participation | [Stuttering assessment](../reference/diagnostic-signs/functional_speech_and_voice_symptoms/02-stuttering-and-prosody-assessment.md) |
 
 ## Functional speech and voice detailed-page citation use map
 
@@ -2173,3 +2175,27 @@ Checked October 2, 2026. Existing IDs reused; no duplicate source records. Targe
 | [functional_visual_symptoms/02-visual-field-comparisons.md](../reference/diagnostic-signs/functional_visual_symptoms/02-visual-field-comparisons.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0179](#fnd-cit-0179) |
 | [functional_visual_symptoms/03-optokinetic-response.md](../reference/diagnostic-signs/functional_visual_symptoms/03-optokinetic-response.md) | [FND-CIT-0024](#fnd-cit-0024) |
 | [functional_visual_symptoms/technique-inventory.md](../reference/diagnostic-signs/functional_visual_symptoms/technique-inventory.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0179](#fnd-cit-0179), [FND-CIT-0180](#fnd-cit-0180) |
+
+## FND-CIT-0246
+
+Freeburn JL, Finkelstein SA, Westlin C, Perez DL, Rezaii N. Using Digital Speech Markers to Classify Functional Speech Disorder: A Proof-of-Concept Pilot Study. *Movement Disorders*. 2025;40(8):1704–1708. [DOI](https://doi.org/10.1002/mds.30256). [PMID: 40448475](https://pubmed.ncbi.nlm.nih.gov/40448475/).
+
+Publisher abstract reviewed October 2, 2026; full classifier methods and external validation not appraised. Healthy-control comparison is not validation against neurological speech disorders.
+
+## FND-CIT-0247
+
+American Speech-Language-Hearing Association. Stuttering, Cluttering, and Fluency. *Practice Portal*. Accessed October 2, 2026. [Professional guidance](https://www.asha.org/practice-portal/clinical-topics/fluency-disorders/).
+
+Professional guidance checked October 2, 2026. Adjacent assessment context only; the page explicitly excludes functional and acquired neurogenic fluency disorders.
+
+## Functional speech and voice diagnostic expansion source-use map
+
+Checked October 2, 2026. New stable IDs 0246–0247; existing sources retained.
+
+| Page | Stable sources |
+|---|---|
+| [09-functional-speech-and-voice-symptoms.md](../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0169](#fnd-cit-0169), [FND-CIT-0109](#fnd-cit-0109), [FND-CIT-0106](#fnd-cit-0106), [FND-CIT-0108](#fnd-cit-0108), [FND-CIT-0246](#fnd-cit-0246), [FND-CIT-0247](#fnd-cit-0247), [FND-CIT-0110](#fnd-cit-0110) |
+| [functional_speech_and_voice_symptoms/01-cross-task-speech-comparison.md](../reference/diagnostic-signs/functional_speech_and_voice_symptoms/01-cross-task-speech-comparison.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0169](#fnd-cit-0169), [FND-CIT-0106](#fnd-cit-0106) |
+| [functional_speech_and_voice_symptoms/02-stuttering-and-prosody-assessment.md](../reference/diagnostic-signs/functional_speech_and_voice_symptoms/02-stuttering-and-prosody-assessment.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0169](#fnd-cit-0169), [FND-CIT-0247](#fnd-cit-0247) |
+| [functional_speech_and_voice_symptoms/03-voice-and-laryngeal-assessment.md](../reference/diagnostic-signs/functional_speech_and_voice_symptoms/03-voice-and-laryngeal-assessment.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0169](#fnd-cit-0169), [FND-CIT-0109](#fnd-cit-0109) |
+| [functional_speech_and_voice_symptoms/technique-inventory.md](../reference/diagnostic-signs/functional_speech_and_voice_symptoms/technique-inventory.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0169](#fnd-cit-0169) |
