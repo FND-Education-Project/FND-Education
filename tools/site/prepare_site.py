@@ -653,6 +653,27 @@ def discover_reference_pages() -> list[ReferencePage]:
                     number=number,
                 )
 
+        elif parts[0] == "biopsychosocial-experiences":
+            if len(parts) == 2 and parts[1] == "README.md":
+                page = ReferencePage(
+                    source=source,
+                    kind="biopsychosocial-home",
+                    public_url="/reference/biopsychosocial-experiences/",
+                    section="biopsychosocial",
+                )
+            elif len(parts) == 2:
+                number, slug = numbered_slug(source)
+                page = ReferencePage(
+                    source=source,
+                    kind="biopsychosocial-experience",
+                    public_url=(
+                        f"/reference/biopsychosocial-experiences/{slug}/"
+                    ),
+                    section="biopsychosocial",
+                    symptom_slug=slug,
+                    number=number,
+                )
+
         elif parts[0] == "diagnostic-concepts":
             if len(parts) == 2 and parts[1] == "README.md":
                 page = ReferencePage(
@@ -842,7 +863,8 @@ def ordered_reference_pages(
 
     The sequence follows the Reference Library hierarchy rather than raw
     filesystem order: shared diagnosis concepts, symptom diagnosis, recovery,
-    co-occurring conditions, and other reference topics.
+    co-occurring conditions, biopsychosocial experiences, and other
+    reference topics.
     """
     diagnostic_order = {
         page.symptom_slug: page.number
@@ -879,6 +901,8 @@ def ordered_reference_pages(
         "recovery-technique": 11,
         "co-occurring-home": 12,
         "co-occurring-condition": 13,
+        "biopsychosocial-home": 14,
+        "biopsychosocial-experience": 15,
     }
 
     detail_rank = {
@@ -1363,6 +1387,8 @@ def reference_context_label(page: ReferencePage) -> str:
         "recovery-technique": "REFERENCE · RECOVERY TECHNIQUE",
         "co-occurring-home": "REFERENCE · CO-OCCURRING CONDITIONS",
         "co-occurring-condition": "REFERENCE · CO-OCCURRING CONDITION",
+        "biopsychosocial-home": "REFERENCE · BIOPSYCHOSOCIAL EXPERIENCES",
+        "biopsychosocial-experience": "REFERENCE · BIOPSYCHOSOCIAL EXPERIENCE",
     }
     return labels.get(page.kind, "REFERENCE LIBRARY")
 
