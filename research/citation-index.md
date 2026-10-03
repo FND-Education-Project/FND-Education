@@ -143,6 +143,12 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0198](#fnd-cit-0198) | University College London Hospitals NHS Foundation Trust. Complex Facial Clinic: botulinum toxin injections as part of the clinic treatment. [Source](https://www.uclh.nhs.uk/patients-and-visitors/patient-information-pages/complex-facial-clinic-botulinum-toxin-injections-part-clinic-treatment). Accessed September 22, 2026. | Adjacent facial-palsy/synkinesis treatment and adverse-effect information; not evidence of efficacy for functional facial symptoms. | Functional facial symptoms | [Detailed collection](../reference/recovery-techniques/functional_facial_symptoms/README.md) |
 | [FND-CIT-0246](#fnd-cit-0246) | Freeburn et al., 2025 | Proof-of-concept case-control pilot; abstract reviewed | Emerging digital speech classification, not routine differential diagnosis | [Speech/voice diagnosis](../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md) |
 | [FND-CIT-0247](#fnd-cit-0247) | ASHA, accessed 2026 | Adjacent professional fluency guidance; excludes functional and acquired neurogenic fluency disorders | History, linguistic context and participation | [Stuttering assessment](../reference/diagnostic-signs/functional_speech_and_voice_symptoms/02-stuttering-and-prosody-assessment.md) |
+| [FND-CIT-0248](#fnd-cit-0248) | Rome Foundation, current criteria | Diagnostic criteria/consensus | Swallowing assessment and limits | [Swallowing/globus diagnosis](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md) |
+| [FND-CIT-0249](#fnd-cit-0249) | Gyawali et al., 2026 | Diagnostic criteria/consensus | Swallowing assessment and limits | [Swallowing/globus diagnosis](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md) |
+| [FND-CIT-0250](#fnd-cit-0250) | ASHA procedure guidance | Professional procedure guidance | Swallowing assessment and limits | [Swallowing/globus diagnosis](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md) |
+| [FND-CIT-0251](#fnd-cit-0251) | ASHA procedure guidance | Professional procedure guidance | Swallowing assessment and limits | [Swallowing/globus diagnosis](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md) |
+| [FND-CIT-0252](#fnd-cit-0252) | Lu et al., 2022 | Selected oesophageal referral cohort; abstract reviewed | Swallowing assessment and limits | [Swallowing/globus diagnosis](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md) |
+| [FND-CIT-0253](#fnd-cit-0253) | NHS safety guidance | Public safety guidance | Swallowing assessment and limits | [Swallowing/globus diagnosis](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md) |
 
 ## Functional speech and voice detailed-page citation use map
 
@@ -2199,3 +2205,51 @@ Checked October 2, 2026. New stable IDs 0246–0247; existing sources retained.
 | [functional_speech_and_voice_symptoms/02-stuttering-and-prosody-assessment.md](../reference/diagnostic-signs/functional_speech_and_voice_symptoms/02-stuttering-and-prosody-assessment.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0169](#fnd-cit-0169), [FND-CIT-0247](#fnd-cit-0247) |
 | [functional_speech_and_voice_symptoms/03-voice-and-laryngeal-assessment.md](../reference/diagnostic-signs/functional_speech_and_voice_symptoms/03-voice-and-laryngeal-assessment.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0169](#fnd-cit-0169), [FND-CIT-0109](#fnd-cit-0109) |
 | [functional_speech_and_voice_symptoms/technique-inventory.md](../reference/diagnostic-signs/functional_speech_and_voice_symptoms/technique-inventory.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0169](#fnd-cit-0169) |
+
+## FND-CIT-0248
+
+Rome Foundation. Rome V Criteria. Sections A4 (Globus) and A5 (Functional Dysphagia). [Current criteria](https://theromefoundation.org/rome-v-criteria/). Accessed October 3, 2026.
+
+Current criteria checked directly. Educational paraphrase on the detailed criteria page; not the licensed questionnaire. Checked October 3, 2026.
+
+## FND-CIT-0249
+
+Gyawali CP, Roman S, Zerbib F, Savarino EV, Bhatia S, Fass R, Pandolfino JE. Functional Esophageal Disorders. *Gastroenterology*. 2026;170(6):1224–1239. [DOI](https://doi.org/10.1053/j.gastro.2026.02.005). [PMID: 42031441](https://pubmed.ncbi.nlm.nih.gov/42031441/).
+
+Current oesophageal diagnostic framework. Bibliographic and indexed abstract information checked; full-text appraisal unavailable. Checked October 3, 2026.
+
+## FND-CIT-0250
+
+American Speech-Language-Hearing Association. Flexible Endoscopic Evaluation of Swallowing (FEES). *Practice Portal*. [Procedure guidance](https://www.asha.org/practice-portal/resources/flexible-endoscopic-evaluation-of-swallowing/). Accessed October 3, 2026.
+
+Professional procedure guidance checked directly. Supports method, selection and visibility limits, not FND diagnostic accuracy. Checked October 3, 2026.
+
+## FND-CIT-0251
+
+American Speech-Language-Hearing Association. Videofluoroscopic Swallow Study (VFSS). *Practice Portal*. [Procedure guidance](https://www.asha.org/practice-portal/resources/videofluoroscopic-swallow-study/). Accessed October 3, 2026.
+
+Professional procedure guidance checked directly. Supports method and sampling limits, not FND diagnostic accuracy. Checked October 3, 2026.
+
+## FND-CIT-0252
+
+Lu PW, Chen CC, Wu JF, et al. Clinical Characteristics and Associated Psychosocial Dysfunction in Patients With Functional Dysphagia: A Study Based on High-Resolution Impedance Manometry and Rome IV Criteria. *Clinical and Translational Gastroenterology*. 2022;13(7):e00511. [DOI](https://doi.org/10.14309/ctg.0000000000000511). [PMID: 35905413](https://pubmed.ncbi.nlm.nih.gov/35905413/).
+
+Institutional abstract reviewed. Selected Rome-IV-defined cohort and questionnaire associations; not causal evidence or validation of motor-FND signs. Checked October 3, 2026.
+
+## FND-CIT-0253
+
+NHS. Dysphagia (swallowing problems). [Public safety guidance](https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/). Accessed October 3, 2026.
+
+Public symptom and escalation guidance checked directly; not FND-specific evidence. Checked October 3, 2026.
+
+## Functional swallowing and globus diagnostic expansion source-use map
+
+Checked October 3, 2026. New IDs 0248–0253; older Rome IV source retained for provenance.
+
+| Page | Stable sources |
+|---|---|
+| [10-functional-swallowing-and-globus.md](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0115](#fnd-cit-0115), [FND-CIT-0164](#fnd-cit-0164), [FND-CIT-0248](#fnd-cit-0248), [FND-CIT-0249](#fnd-cit-0249), [FND-CIT-0250](#fnd-cit-0250), [FND-CIT-0251](#fnd-cit-0251), [FND-CIT-0252](#fnd-cit-0252), [FND-CIT-0253](#fnd-cit-0253) |
+| [functional_swallowing_and_globus/01-clinical-swallowing-assessment.md](../reference/diagnostic-signs/functional_swallowing_and_globus/01-clinical-swallowing-assessment.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0115](#fnd-cit-0115) |
+| [functional_swallowing_and_globus/02-fees-and-videofluoroscopy.md](../reference/diagnostic-signs/functional_swallowing_and_globus/02-fees-and-videofluoroscopy.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0115](#fnd-cit-0115), [FND-CIT-0250](#fnd-cit-0250), [FND-CIT-0251](#fnd-cit-0251) |
+| [functional_swallowing_and_globus/03-globus-and-oesophageal-criteria.md](../reference/diagnostic-signs/functional_swallowing_and_globus/03-globus-and-oesophageal-criteria.md) | [FND-CIT-0164](#fnd-cit-0164), [FND-CIT-0248](#fnd-cit-0248), [FND-CIT-0249](#fnd-cit-0249) |
+| [functional_swallowing_and_globus/technique-inventory.md](../reference/diagnostic-signs/functional_swallowing_and_globus/technique-inventory.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0115](#fnd-cit-0115), [FND-CIT-0164](#fnd-cit-0164) |

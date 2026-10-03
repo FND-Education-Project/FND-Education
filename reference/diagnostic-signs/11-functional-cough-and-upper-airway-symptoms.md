@@ -184,7 +184,7 @@ History, examination and selected investigations assess asthma, infection, reflu
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Cognitive Disorder](12-functional-cognitive-disorder.md)
 
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/03-cough-breathing-and-upper-airway-symptoms.md)
+**Related:** [Previous: Swallowing and globus inventory](functional_swallowing_and_globus/technique-inventory.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/03-cough-breathing-and-upper-airway-symptoms.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

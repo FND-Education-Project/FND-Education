@@ -118,6 +118,10 @@ When a functional diagnosis is supported, explain the positive findings and offe
 
 **Recovery reading:** [Eleven detailed swallowing and globus pages](../../../reference/recovery-techniques/functional_swallowing_and_globus/README.md) explain individual selection and safety limits after assessment.
 
+## Further reading in the Reference Library
+
+For a fuller explanation of how clinicians distinguish swallowing difficulty from globus, see [swallowing and globus assessment](../../../reference/diagnostic-signs/10-functional-swallowing-and-globus.md). The [instrumental-assessment guide](../../../reference/diagnostic-signs/functional_swallowing_and_globus/02-fees-and-videofluoroscopy.md) explains what FEES and videofluoroscopy can—and cannot—show.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Cough, Breathing, and Upper-Airway Symptoms](03-cough-breathing-and-upper-airway-symptoms.md)
 
