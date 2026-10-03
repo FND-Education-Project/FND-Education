@@ -135,7 +135,7 @@ Offer information in more than one format. Record the person's preferred communi
 | Citation | Figure | Full citation |
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Bailey C, Ellis M, Bate E, et al. Illness perceptions, experiences of stigma and engagement in functional neurological disorder before and after group education. *BMJ Neurology Open*. 2024;6(1):e000633. [FND-CIT-0091](../../../research/citation-index.md#fnd-cit-0091). [https://doi.org/10.1136/bmjno-2024-000633](https://doi.org/10.1136/bmjno-2024-000633) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Bailey C, Agrawal N, Cope S, et al. Illness perceptions, experiences of stigma and engagement in functional neurological disorder (FND): exploring the role of multidisciplinary group education sessions. *BMJ Neurology Open*. 2024;6(1):e000633. [FND-CIT-0091](../../../research/citation-index.md#fnd-cit-0091). [https://doi.org/10.1136/bmjno-2024-000633](https://doi.org/10.1136/bmjno-2024-000633) |
 
 This page still needs review by people with sensory or communication barriers and relevant accessibility and clinical specialists.
 

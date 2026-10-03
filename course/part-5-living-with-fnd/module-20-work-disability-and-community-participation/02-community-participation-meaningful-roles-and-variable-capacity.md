@@ -118,8 +118,8 @@ Research here is mainly qualitative and describes experience rather than interve
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Gatherer C, Garip G. “Look for Glimmers Instead of Triggers”: a qualitative exploration of the lived experiences of people with functional neurological disorder (FND). *Psychological Reports*. Published online June 15, 2025. [FND-CIT-0086](../../../research/citation-index.md#fnd-cit-0086). [https://doi.org/10.1177/00332941251351234](https://doi.org/10.1177/00332941251351234) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Pritomanova I, et al. The journey to diagnosis and care of functional neurological disorder. *PLOS ONE*. 2026;21(4):e0328321. [FND-CIT-0088](../../../research/citation-index.md#fnd-cit-0088). [https://doi.org/10.1371/journal.pone.0328321](https://doi.org/10.1371/journal.pone.0328321) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Gatherer C, Garip G. “Look for Glimmers Instead of Triggers”: An Exploration Into the Lived Experiences of Functional Neurological Disorder Using Interpretative Phenomenological Analysis. *Psychological Reports*. Published online June 15, 2025. [FND-CIT-0086](../../../research/citation-index.md#fnd-cit-0086). [https://doi.org/10.1177/00332941251351234](https://doi.org/10.1177/00332941251351234) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Pritomanova I, Cope SR, James B, et al. The journey to diagnosis and care of functional neurological disorder (FND). *PLOS ONE*. 2026;21(4):e0328321. [FND-CIT-0088](../../../research/citation-index.md#fnd-cit-0088). [https://doi.org/10.1371/journal.pone.0328321](https://doi.org/10.1371/journal.pone.0328321) |
 
 This page still needs review by people with severe or variable FND, disability communities, occupational therapists and community-access specialists.
 
