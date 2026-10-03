@@ -336,6 +336,10 @@ Use the sections below to drill down into the course, reference library, researc
 - [Voice and Laryngeal Assessment](reference/diagnostic-signs/functional_speech_and_voice_symptoms/03-voice-and-laryngeal-assessment.md)
 - [Speech and Voice Diagnostic Inventory](reference/diagnostic-signs/functional_speech_and_voice_symptoms/technique-inventory.md)
 - [Functional Swallowing Symptoms and Globus](reference/diagnostic-signs/10-functional-swallowing-and-globus.md)
+- [Clinical Swallowing Assessment](reference/diagnostic-signs/functional_swallowing_and_globus/01-clinical-swallowing-assessment.md)
+- [FEES and Videofluoroscopy](reference/diagnostic-signs/functional_swallowing_and_globus/02-fees-and-videofluoroscopy.md)
+- [Globus and Oesophageal Diagnostic Criteria](reference/diagnostic-signs/functional_swallowing_and_globus/03-globus-and-oesophageal-criteria.md)
+- [Swallowing and Globus Diagnostic Inventory](reference/diagnostic-signs/functional_swallowing_and_globus/technique-inventory.md)
 - [Functional Cough and Upper-Airway Symptoms](reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md)
 - [Functional Cognitive Disorder](reference/diagnostic-signs/12-functional-cognitive-disorder.md)
 - [Persistent Postural-Perceptual Dizziness](reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md)
@@ -792,3 +796,5 @@ Use the sections below to drill down into the course, reference library, researc
 - [Visual diagnostic expansion record](docs/project/functional-visual-diagnostic-expansion.md)
 
 - [Speech and voice diagnostic expansion record](docs/project/functional-speech-voice-diagnostic-expansion.md)
+
+- [Swallowing and globus diagnostic expansion record](docs/project/functional-swallowing-diagnostic-expansion.md)

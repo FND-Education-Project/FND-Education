@@ -825,6 +825,17 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 **Page to review:** [Functional Swallowing Symptoms and Globus](../../diagnostic-signs/10-functional-swallowing-and-globus.md)
 
+**Expanded reading path:** [Clinical assessment](../../diagnostic-signs/functional_swallowing_and_globus/01-clinical-swallowing-assessment.md) → [FEES/VFSS](../../diagnostic-signs/functional_swallowing_and_globus/02-fees-and-videofluoroscopy.md) → [globus and oesophageal criteria](../../diagnostic-signs/functional_swallowing_and_globus/03-globus-and-oesophageal-criteria.md) → [seven-entry inventory](../../diagnostic-signs/functional_swallowing_and_globus/technique-inventory.md).
+
+**Version update — October 3, 2026:** Use Rome V for current oesophageal criteria; the repeated 2016 source below remains historical. Clinical comparisons, formal criteria and investigations are separate types of evidence.
+
+- [ ] Rome Foundation. Rome V Criteria. Sections A4 (Globus) and A5 (Functional Dysphagia). [Current criteria](https://theromefoundation.org/rome-v-criteria/). Accessed October 3, 2026. Current criteria checked directly. Educational paraphrase on the detailed criteria page; not the licensed questionnaire.
+- [ ] Gyawali CP, Roman S, Zerbib F, Savarino EV, Bhatia S, Fass R, Pandolfino JE. Functional Esophageal Disorders. *Gastroenterology*. 2026;170(6):1224–1239. [DOI](https://doi.org/10.1053/j.gastro.2026.02.005). [PMID: 42031441](https://pubmed.ncbi.nlm.nih.gov/42031441/). Current oesophageal diagnostic framework. Bibliographic and indexed abstract information checked; full-text appraisal unavailable.
+- [ ] American Speech-Language-Hearing Association. Flexible Endoscopic Evaluation of Swallowing (FEES). *Practice Portal*. [Procedure guidance](https://www.asha.org/practice-portal/resources/flexible-endoscopic-evaluation-of-swallowing/). Accessed October 3, 2026. Professional procedure guidance checked directly. Supports method, selection and visibility limits, not FND diagnostic accuracy.
+- [ ] American Speech-Language-Hearing Association. Videofluoroscopic Swallow Study (VFSS). *Practice Portal*. [Procedure guidance](https://www.asha.org/practice-portal/resources/videofluoroscopic-swallow-study/). Accessed October 3, 2026. Professional procedure guidance checked directly. Supports method and sampling limits, not FND diagnostic accuracy.
+- [ ] Lu PW, Chen CC, Wu JF, et al. Clinical Characteristics and Associated Psychosocial Dysfunction in Patients With Functional Dysphagia: A Study Based on High-Resolution Impedance Manometry and Rome IV Criteria. *Clinical and Translational Gastroenterology*. 2022;13(7):e00511. [DOI](https://doi.org/10.14309/ctg.0000000000000511). [PMID: 35905413](https://pubmed.ncbi.nlm.nih.gov/35905413/). Institutional abstract reviewed. Selected Rome-IV-defined cohort and questionnaire associations; not causal evidence or validation of motor-FND signs.
+- [ ] NHS. Dysphagia (swallowing problems). [Public safety guidance](https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/). Accessed October 3, 2026. Public symptom and escalation guidance checked directly; not FND-specific evidence.
+
 ### Read first — symptom-level evidence
 
 - [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. https://doi.org/10.1136/jnnp-2021-326767
