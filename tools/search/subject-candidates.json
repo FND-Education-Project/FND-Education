@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "status": "review-needed",
+  "candidates": [
+    {
+      "status": "needs-human-review",
+      "proposed_id": "biopsychosocial-experiences",
+      "route_prefix": "/reference/biopsychosocial-experiences/",
+      "label": "Biopsychosocial Experiences Associated with FND",
+      "page_count": 7,
+      "page_titles": [
+        {
+          "route": "/reference/biopsychosocial-experiences/",
+          "title": "Biopsychosocial Experiences Associated with FND"
+        },
+        {
+          "route": "/reference/biopsychosocial-experiences/emotional-regulation-irritability-and-overwhelm/",
+          "title": "Emotional Regulation, Irritability, and Overwhelm Around FND"
+        },
+        {
+          "route": "/reference/biopsychosocial-experiences/mental-health-stigma-and-being-believed/",
+          "title": "Mental Health, Stigma, and Being Believed Around FND"
+        },
+        {
+          "route": "/reference/biopsychosocial-experiences/self-doubt-legitimacy-and-dignity-in-variable-disability/",
+          "title": "Self-Doubt, Legitimacy, and Dignity in Variable Disability"
+        },
+        {
+          "route": "/reference/biopsychosocial-experiences/guilt-dependence-and-receiving-help/",
+          "title": "Guilt, Dependence, and Receiving Help"
+        },
+        {
+          "route": "/reference/biopsychosocial-experiences/unpredictability-overload-and-trusting-your-body/",
+          "title": "Unpredictability, Overload, and Trusting Your Body"
+        },
+        {
+          "route": "/reference/biopsychosocial-experiences/recovery-pressure-self-blame-and-feeling-like-you-are-failing/",
+          "title": "Recovery Pressure, Self-Blame, and Feeling Like You Are Failing"
+        }
+      ],
+      "approval_action": "If this is a real search subject, add it to subject-index.json and add its route prefix to structure-map.json. Otherwise explicitly ignore or map the folder to an existing subject."
+    }
+  ]
+}

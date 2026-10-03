@@ -1,0 +1,178 @@
+{
+  "version": 1,
+  "purpose": "High-confidence route-to-subject inheritance. Structure supplies known context; AI may add only supplementary approved subjects.",
+  "reference_root": "/reference/",
+  "route_prefix_rules": [
+    {
+      "prefix": "/reference/functional-cognitive-disorder/",
+      "subjects": [
+        "functional-cognitive"
+      ]
+    },
+    {
+      "prefix": "/reference/functional-cough-and-upper-airway-symptoms/",
+      "subjects": [
+        "functional-cough-airway"
+      ]
+    },
+    {
+      "prefix": "/reference/functional-drop-attacks/",
+      "subjects": [
+        "functional-drop-attacks"
+      ]
+    },
+    {
+      "prefix": "/reference/functional-dystonia/",
+      "subjects": [
+        "functional-dystonia"
+      ]
+    },
+    {
+      "prefix": "/reference/functional-facial-symptoms/",
+      "subjects": [
+        "functional-facial"
+      ]
+    },
+    {
+      "prefix": "/reference/functional-gait-disorder/",
+      "subjects": [
+        "functional-gait"
+      ]
+    },
+    {
+      "prefix": "/reference/functional-jerks-and-myoclonus/",
+      "subjects": [
+        "functional-jerks"
+      ]
+    },
+    {
+      "prefix": "/reference/functional-limb-weakness/",
+      "subjects": [
+        "functional-limb-weakness"
+      ]
+    },
+    {
+      "prefix": "/reference/functional-paralysis/",
+      "subjects": [
+        "functional-paralysis"
+      ]
+    },
+    {
+      "prefix": "/reference/functional-seizures/",
+      "subjects": [
+        "functional-seizures"
+      ]
+    },
+    {
+      "prefix": "/reference/functional-sensory-symptoms/",
+      "subjects": [
+        "functional-sensory"
+      ]
+    },
+    {
+      "prefix": "/reference/functional-speech-and-voice-symptoms/",
+      "subjects": [
+        "functional-speech-voice"
+      ]
+    },
+    {
+      "prefix": "/reference/functional-swallowing-and-globus/",
+      "subjects": [
+        "functional-swallowing-globus"
+      ]
+    },
+    {
+      "prefix": "/reference/functional-tics-and-tic-like-symptoms/",
+      "subjects": [
+        "functional-tics"
+      ]
+    },
+    {
+      "prefix": "/reference/functional-tremor/",
+      "subjects": [
+        "functional-tremor"
+      ]
+    },
+    {
+      "prefix": "/reference/functional-visual-symptoms/",
+      "subjects": [
+        "functional-visual"
+      ]
+    },
+    {
+      "prefix": "/reference/persistent-postural-perceptual-dizziness/",
+      "subjects": [
+        "pppd"
+      ]
+    },
+    {
+      "prefix": "/reference/scan-negative-cauda-equina/",
+      "subjects": [
+        "scan-negative-cauda-equina"
+      ]
+    },
+    {
+      "prefix": "/reference/co-occurring/",
+      "subjects": [
+        "co-occurring-conditions"
+      ]
+    },
+    {
+      "prefix": "/reference/history-of-fnd/",
+      "subjects": [
+        "history-of-fnd"
+      ]
+    },
+    {
+      "prefix": "/reference/professional-roles-in-fnd-care/",
+      "subjects": [
+        "professional-roles"
+      ]
+    },
+    {
+      "prefix": "/reference/diagnosis/",
+      "subjects": [
+        "fnd-diagnosis"
+      ]
+    },
+    {
+      "prefix": "/reference/recovery/",
+      "subjects": [
+        "fnd-recovery"
+      ]
+    }
+  ],
+  "segment_modifier_rules": [
+    {
+      "segment": "diagnosis",
+      "subjects": [
+        "fnd-diagnosis"
+      ]
+    },
+    {
+      "segment": "recovery",
+      "subjects": [
+        "fnd-recovery"
+      ]
+    }
+  ],
+  "candidate_discovery": {
+    "root": "/reference/",
+    "ignore_top_level_segments": [
+      "index"
+    ],
+    "require_landing_page": true,
+    "note": "Any substantive top-level Reference folder not covered by a route-prefix rule becomes a review candidate rather than silently creating an approved subject."
+  },
+  "ignored_section_titles": [
+    "For the Person With FND",
+    "For Family, Friends, and Other Supporters",
+    "For Clinicians and the Care Team",
+    "Research and Sources",
+    "Citation table",
+    "Crosswords",
+    "Questions",
+    "Three focused quotations",
+    "Research quotations for review"
+  ]
+}

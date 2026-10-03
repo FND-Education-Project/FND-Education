@@ -291,6 +291,10 @@ def check_generated_source(errors: list[str]) -> tuple[int, int, int]:
 
     machine_sitemap = WEB / "sitemap.xml"
     robots = WEB / "robots.txt"
+    search_source = WEB / "search" / "index.html"
+
+    if not search_source.exists():
+        errors.append("Missing website search source: web/search/index.html")
 
     if not machine_sitemap.exists():
         errors.append("Missing generated web/sitemap.xml")
@@ -788,6 +792,16 @@ def check_built_site(
         if not (site_root / filename).exists():
             errors.append(f"Built artifact missing {filename}")
 
+    required_search_files = (
+        "search/index.html",
+        "pagefind/pagefind.js",
+        "pagefind/pagefind-ui.js",
+        "pagefind/pagefind-ui.css",
+    )
+    for filename in required_search_files:
+        if not (site_root / filename).exists():
+            errors.append(f"Built search artifact missing {filename}")
+
     html_files = sorted(site_root.rglob("*.html"))
     parsed_by_route: dict[str, LinkCollector] = {}
     text_by_route: dict[str, str] = {}
@@ -799,8 +813,10 @@ def check_built_site(
         parser = LinkCollector()
         parser.feed(text)
 
+
         parsed_by_route[current_route] = parser
         text_by_route[current_route] = text
+
 
     audit_fragment_links(
         parsed_by_route=parsed_by_route,
@@ -825,7 +841,7 @@ def check_built_site(
                 + str(html_file.relative_to(site_root))
             )
 
-        if current_route in routes:
+        if current_route in routes or current_route == "/search/":
             audit_document_shell(
                 current_route=current_route,
                 text=text,
@@ -833,6 +849,8 @@ def check_built_site(
                 baseurl=baseurl,
                 errors=errors,
             )
+
+        if current_route in routes:
             audit_page_navigation(
                 current_route=current_route,
                 parser=parser,

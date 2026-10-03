@@ -1,0 +1,2531 @@
+{
+  "version": 1,
+  "status": "seeded-for-review",
+  "purpose": "Controlled subject index for search discovery, page classification, and section classification. Search terms are not diagnostic statements.",
+  "fields": {
+    "aliases": "Near-equivalent accepted terms.",
+    "abbreviations": "Common abbreviations or initialisms.",
+    "lay_phrases": "Common plain-language wording that may lead a reader to this subject.",
+    "misspellings": "Only reviewed common misspellings.",
+    "broader": "Broader approved subject IDs.",
+    "narrower": "Narrower approved subject IDs.",
+    "related": "Related but not equivalent subject IDs."
+  },
+  "subjects": [
+    {
+      "id": "fnd",
+      "label": "Functional neurological disorder",
+      "category": "foundation",
+      "definition": "The overall condition and general information about FND.",
+      "aliases": [
+        "functional neurological disorder",
+        "functional neurologic disorder",
+        "functional neurological symptoms"
+      ],
+      "abbreviations": [
+        "FND"
+      ],
+      "lay_phrases": [
+        "what is FND",
+        "functional symptoms",
+        "how FND works"
+      ],
+      "misspellings": [
+        "functional nurological disorder"
+      ],
+      "broader": [],
+      "narrower": [
+        "fnd-diagnosis",
+        "fnd-mechanisms",
+        "fnd-recovery",
+        "fnd-symptoms"
+      ],
+      "related": []
+    },
+    {
+      "id": "fnd-symptoms",
+      "label": "FND symptoms",
+      "category": "foundation",
+      "definition": "The range of functional neurological symptoms and symptom groups.",
+      "aliases": [
+        "functional neurological symptoms",
+        "functional symptoms"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "types of FND symptoms",
+        "what symptoms can FND cause"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd"
+      ],
+      "narrower": [
+        "functional-limb-weakness",
+        "functional-paralysis",
+        "functional-tremor",
+        "functional-jerks",
+        "functional-dystonia",
+        "functional-gait",
+        "functional-seizures",
+        "functional-sensory",
+        "functional-visual",
+        "functional-speech-voice",
+        "functional-swallowing-globus",
+        "functional-cough-airway",
+        "functional-cognitive",
+        "pppd",
+        "functional-facial",
+        "functional-drop-attacks",
+        "functional-tics"
+      ],
+      "related": [
+        "co-occurring-conditions"
+      ]
+    },
+    {
+      "id": "fnd-diagnosis",
+      "label": "FND diagnosis",
+      "category": "diagnosis",
+      "definition": "Positive diagnosis of FND, diagnostic reasoning, tests, uncertainty, and explanation.",
+      "aliases": [
+        "diagnosing FND",
+        "positive diagnosis",
+        "FND assessment"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "how is FND diagnosed",
+        "how doctors know it is FND",
+        "tests for FND"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd"
+      ],
+      "narrower": [
+        "positive-signs",
+        "tests-investigations",
+        "diagnostic-uncertainty",
+        "differential-diagnosis",
+        "diagnostic-techniques"
+      ],
+      "related": [
+        "coexisting-conditions"
+      ]
+    },
+    {
+      "id": "positive-signs",
+      "label": "Positive diagnostic signs",
+      "category": "diagnosis",
+      "definition": "Clinical signs and examination features used to positively support an FND diagnosis.",
+      "aliases": [
+        "positive signs",
+        "rule-in signs",
+        "positive examination signs"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "signs doctors use to diagnose FND",
+        "positive exam signs"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-diagnosis"
+      ],
+      "narrower": [
+        "hoovers-sign",
+        "tremor-distractibility",
+        "tremor-entrainment"
+      ],
+      "related": [
+        "diagnostic-techniques"
+      ]
+    },
+    {
+      "id": "tests-investigations",
+      "label": "Tests and investigations",
+      "category": "diagnosis",
+      "definition": "Tests used to assess symptoms, look for other conditions, and support diagnostic reasoning.",
+      "aliases": [
+        "medical tests",
+        "investigations",
+        "testing"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "what tests do I need",
+        "MRI EEG blood tests"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-diagnosis"
+      ],
+      "narrower": [
+        "video-eeg",
+        "eeg-emg"
+      ],
+      "related": [
+        "differential-diagnosis",
+        "coexisting-conditions"
+      ]
+    },
+    {
+      "id": "diagnostic-uncertainty",
+      "label": "Diagnostic uncertainty",
+      "category": "diagnosis",
+      "definition": "How uncertainty is handled when symptoms, tests, or diagnoses are not straightforward.",
+      "aliases": [
+        "uncertain diagnosis",
+        "diagnostic doubt"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "what if the doctor is not sure",
+        "could it be something else"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-diagnosis"
+      ],
+      "narrower": [],
+      "related": [
+        "differential-diagnosis",
+        "coexisting-conditions"
+      ]
+    },
+    {
+      "id": "differential-diagnosis",
+      "label": "Differential diagnosis",
+      "category": "diagnosis",
+      "definition": "Distinguishing FND from other neurological or medical conditions without assuming exclusivity.",
+      "aliases": [
+        "differential",
+        "alternative diagnosis"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "what else could cause this",
+        "how FND differs from other conditions"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-diagnosis"
+      ],
+      "narrower": [],
+      "related": [
+        "tests-investigations",
+        "coexisting-conditions"
+      ]
+    },
+    {
+      "id": "diagnostic-techniques",
+      "label": "Diagnostic techniques",
+      "category": "diagnosis",
+      "definition": "Specific examination maneuvers, observations, and test techniques used in diagnosis.",
+      "aliases": [
+        "diagnostic maneuvers",
+        "examination techniques",
+        "diagnostic signs"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "tests doctors do in the room",
+        "exam tricks for FND"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-diagnosis"
+      ],
+      "narrower": [
+        "hoovers-sign",
+        "tremor-distractibility",
+        "tremor-entrainment",
+        "video-eeg",
+        "smartphone-video",
+        "seizure-semiology",
+        "eeg-emg",
+        "swivel-chair",
+        "sensory-mapping"
+      ],
+      "related": []
+    },
+    {
+      "id": "hoovers-sign",
+      "label": "Hoover's sign",
+      "category": "diagnostic-technique",
+      "definition": "A positive examination sign used in functional leg weakness.",
+      "aliases": [
+        "Hoover sign",
+        "Hoover's test"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "leg weakness test",
+        "push down with other leg"
+      ],
+      "misspellings": [
+        "Hoovers sign"
+      ],
+      "broader": [
+        "positive-signs",
+        "diagnostic-techniques"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-limb-weakness"
+      ]
+    },
+    {
+      "id": "tremor-distractibility",
+      "label": "Tremor distractibility",
+      "category": "diagnostic-technique",
+      "definition": "Change in tremor when attention is redirected or another task is performed.",
+      "aliases": [
+        "distractibility"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "tremor changes when distracted"
+      ],
+      "misspellings": [],
+      "broader": [
+        "positive-signs",
+        "diagnostic-techniques"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-tremor"
+      ]
+    },
+    {
+      "id": "tremor-entrainment",
+      "label": "Tremor entrainment",
+      "category": "diagnostic-technique",
+      "definition": "Change in tremor rhythm toward an externally paced voluntary rhythm.",
+      "aliases": [
+        "entrainment"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "tremor copies another rhythm"
+      ],
+      "misspellings": [],
+      "broader": [
+        "positive-signs",
+        "diagnostic-techniques"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-tremor"
+      ]
+    },
+    {
+      "id": "video-eeg",
+      "label": "Video EEG assessment",
+      "category": "diagnostic-technique",
+      "definition": "Video and EEG recording used to capture typical events and evaluate seizure-like episodes.",
+      "aliases": [
+        "video EEG",
+        "video-electroencephalography"
+      ],
+      "abbreviations": [
+        "VEEG",
+        "vEEG"
+      ],
+      "lay_phrases": [
+        "EEG during a seizure",
+        "hospital seizure video test"
+      ],
+      "misspellings": [
+        "video EGG"
+      ],
+      "broader": [
+        "tests-investigations",
+        "diagnostic-techniques"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-seizures",
+        "epilepsy"
+      ]
+    },
+    {
+      "id": "smartphone-video",
+      "label": "Smartphone video assessment",
+      "category": "diagnostic-technique",
+      "definition": "Clinical review of a safely recorded typical event on a phone or similar device.",
+      "aliases": [
+        "phone video assessment",
+        "home video"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "record a seizure for the doctor",
+        "video an episode"
+      ],
+      "misspellings": [],
+      "broader": [
+        "diagnostic-techniques"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-seizures",
+        "seizure-semiology"
+      ]
+    },
+    {
+      "id": "seizure-semiology",
+      "label": "Seizure semiology and event sequence",
+      "category": "diagnostic-technique",
+      "definition": "Observation of how an event starts, unfolds, and resolves.",
+      "aliases": [
+        "event semiology",
+        "seizure semiology"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "what happens during the episode",
+        "order of seizure symptoms"
+      ],
+      "misspellings": [],
+      "broader": [
+        "diagnostic-techniques"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-seizures",
+        "epilepsy"
+      ]
+    },
+    {
+      "id": "eeg-emg",
+      "label": "EEG-EMG and jerk-locked back averaging",
+      "category": "diagnostic-technique",
+      "definition": "Neurophysiological techniques used in selected jerking or myoclonus presentations.",
+      "aliases": [
+        "EEG EMG",
+        "jerk-locked back averaging"
+      ],
+      "abbreviations": [
+        "EEG",
+        "EMG"
+      ],
+      "lay_phrases": [
+        "brain and muscle test for jerks"
+      ],
+      "misspellings": [],
+      "broader": [
+        "diagnostic-techniques",
+        "tests-investigations"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-jerks"
+      ]
+    },
+    {
+      "id": "swivel-chair",
+      "label": "Swivel-chair assessment",
+      "category": "diagnostic-technique",
+      "definition": "A gait comparison technique using seated propulsion in selected functional gait presentations.",
+      "aliases": [
+        "swivel chair test",
+        "chair walking test"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "walking better in a chair"
+      ],
+      "misspellings": [],
+      "broader": [
+        "diagnostic-techniques"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-gait"
+      ]
+    },
+    {
+      "id": "sensory-mapping",
+      "label": "Sensory mapping and comparison",
+      "category": "diagnostic-technique",
+      "definition": "Structured comparison of sensory patterns during examination.",
+      "aliases": [
+        "sensory mapping",
+        "sensory examination"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "mapping numbness",
+        "testing sensation"
+      ],
+      "misspellings": [],
+      "broader": [
+        "diagnostic-techniques"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-sensory"
+      ]
+    },
+    {
+      "id": "functional-limb-weakness",
+      "label": "Functional limb weakness",
+      "category": "symptom",
+      "definition": "Functional weakness affecting an arm, leg, or other limb.",
+      "aliases": [
+        "functional weakness",
+        "limb weakness",
+        "functional motor weakness"
+      ],
+      "abbreviations": [
+        "FLW"
+      ],
+      "lay_phrases": [
+        "leg won't move",
+        "arm won't move",
+        "leg feels weak",
+        "dragging a leg",
+        "loss of power",
+        "limb gives way"
+      ],
+      "misspellings": [
+        "functional limb weekness"
+      ],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-paralysis",
+        "functional-gait",
+        "hoovers-sign",
+        "movement-retraining"
+      ]
+    },
+    {
+      "id": "functional-paralysis",
+      "label": "Functional paralysis",
+      "category": "symptom",
+      "definition": "Functional loss of voluntary movement affecting part or all of the body.",
+      "aliases": [
+        "functional motor paralysis"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "can't move",
+        "unable to move",
+        "temporary paralysis",
+        "whole body won't move",
+        "frozen body"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-limb-weakness",
+        "functional-seizures",
+        "movement-retraining"
+      ]
+    },
+    {
+      "id": "functional-tremor",
+      "label": "Functional tremor",
+      "category": "symptom",
+      "definition": "Functional shaking or tremor with characteristic variability and examination features.",
+      "aliases": [
+        "functional shaking"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "shaking hand",
+        "shaky arm",
+        "leg tremor",
+        "body shaking"
+      ],
+      "misspellings": [
+        "functional temmor"
+      ],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "tremor-distractibility",
+        "tremor-entrainment",
+        "movement-retraining"
+      ]
+    },
+    {
+      "id": "functional-jerks",
+      "label": "Functional jerks and myoclonus",
+      "category": "symptom",
+      "definition": "Sudden functional jerking movements or myoclonus-like symptoms.",
+      "aliases": [
+        "functional myoclonus",
+        "functional jerks"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "body jerks",
+        "muscle jerks",
+        "sudden involuntary jerking"
+      ],
+      "misspellings": [
+        "myoclonous"
+      ],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "eeg-emg",
+        "movement-retraining"
+      ]
+    },
+    {
+      "id": "functional-dystonia",
+      "label": "Functional dystonia",
+      "category": "symptom",
+      "definition": "Functional abnormal postures or sustained twisting movements.",
+      "aliases": [
+        "functional fixed dystonia"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "twisted limb",
+        "foot turns in",
+        "hand clenches",
+        "fixed posture",
+        "abnormal posture"
+      ],
+      "misspellings": [
+        "functional distonia"
+      ],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "movement-retraining",
+        "pain"
+      ]
+    },
+    {
+      "id": "functional-gait",
+      "label": "Functional gait disorder",
+      "category": "symptom",
+      "definition": "Functional difficulty with walking, balance, or gait patterns.",
+      "aliases": [
+        "functional gait disturbance",
+        "functional walking disorder"
+      ],
+      "abbreviations": [
+        "FGD"
+      ],
+      "lay_phrases": [
+        "trouble walking",
+        "unsteady walking",
+        "knees buckle",
+        "legs buckle",
+        "dragging leg",
+        "strange walking"
+      ],
+      "misspellings": [
+        "functional gate disorder"
+      ],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-limb-weakness",
+        "functional-drop-attacks",
+        "movement-retraining",
+        "mobility-aids"
+      ]
+    },
+    {
+      "id": "functional-seizures",
+      "label": "Functional seizures",
+      "category": "symptom",
+      "definition": "Functional seizure episodes, including seizure-like events without epileptic seizure physiology.",
+      "aliases": [
+        "dissociative seizures",
+        "non-epileptic seizures",
+        "psychogenic non-epileptic seizures"
+      ],
+      "abbreviations": [
+        "PNES",
+        "FS",
+        "NEAD"
+      ],
+      "lay_phrases": [
+        "seizure-like episode",
+        "shaking attack",
+        "blackout episode",
+        "collapse and shake",
+        "seizure but EEG normal"
+      ],
+      "misspellings": [
+        "functional siezures",
+        "functional seziures"
+      ],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [
+        "seizure-safety",
+        "seizure-recovery"
+      ],
+      "related": [
+        "epilepsy",
+        "dissociation",
+        "video-eeg",
+        "seizure-semiology"
+      ]
+    },
+    {
+      "id": "seizure-safety",
+      "label": "Functional seizure safety",
+      "category": "safety",
+      "definition": "Practical safety and supporter response during functional seizures.",
+      "aliases": [
+        "episode safety",
+        "seizure safety plan"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "what to do during a functional seizure",
+        "keep someone safe during an episode"
+      ],
+      "misspellings": [],
+      "broader": [
+        "functional-seizures",
+        "medical-safety"
+      ],
+      "narrower": [],
+      "related": [
+        "supporter-guidance",
+        "emergency-planning"
+      ]
+    },
+    {
+      "id": "seizure-recovery",
+      "label": "Functional seizure recovery and treatment",
+      "category": "treatment",
+      "definition": "Treatment, recovery planning, warning recognition, and return to activity for functional seizures.",
+      "aliases": [
+        "functional seizure treatment",
+        "PNES treatment"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "how to reduce functional seizures",
+        "recover after seizures",
+        "stop attacks"
+      ],
+      "misspellings": [],
+      "broader": [
+        "functional-seizures",
+        "fnd-recovery"
+      ],
+      "narrower": [],
+      "related": [
+        "psychological-treatment",
+        "pacing",
+        "supporter-guidance"
+      ]
+    },
+    {
+      "id": "epilepsy",
+      "label": "Epilepsy and epileptic seizures",
+      "category": "related-condition",
+      "definition": "Epilepsy as a distinct condition that may be considered in differential diagnosis or coexist with functional seizures.",
+      "aliases": [
+        "epileptic seizures"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "epilepsy versus functional seizures",
+        "can I have both epilepsy and FND"
+      ],
+      "misspellings": [],
+      "broader": [
+        "coexisting-conditions"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-seizures",
+        "video-eeg",
+        "seizure-semiology"
+      ]
+    },
+    {
+      "id": "functional-sensory",
+      "label": "Functional sensory symptoms",
+      "category": "symptom",
+      "definition": "Functional changes in sensation such as numbness, tingling, altered touch, or hypersensitivity.",
+      "aliases": [
+        "functional sensory loss",
+        "functional numbness"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "numbness",
+        "tingling",
+        "pins and needles",
+        "reduced sensation",
+        "altered sensation",
+        "painful touch"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "sensory-mapping",
+        "sensory-overload"
+      ]
+    },
+    {
+      "id": "functional-visual",
+      "label": "Functional visual symptoms",
+      "category": "symptom",
+      "definition": "Functional changes in vision or visual processing.",
+      "aliases": [
+        "functional vision symptoms",
+        "functional visual loss"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "blurred vision",
+        "tunnel vision",
+        "double vision",
+        "vision comes and goes",
+        "can't see properly"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "sensory-overload",
+        "photophobia"
+      ]
+    },
+    {
+      "id": "functional-speech-voice",
+      "label": "Functional speech and voice symptoms",
+      "category": "symptom",
+      "definition": "Functional changes in speech, fluency, articulation, language output, or voice.",
+      "aliases": [
+        "functional speech disorder",
+        "functional voice disorder",
+        "functional dysphonia"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "can't speak",
+        "speech gets stuck",
+        "voice disappears",
+        "stuttering",
+        "whispering voice",
+        "word blocking"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "communication-access",
+        "speech-language-therapy"
+      ]
+    },
+    {
+      "id": "functional-swallowing-globus",
+      "label": "Functional swallowing and globus symptoms",
+      "category": "symptom",
+      "definition": "Functional swallowing difficulty and persistent lump-in-throat sensations.",
+      "aliases": [
+        "functional dysphagia",
+        "globus"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "trouble swallowing",
+        "lump in throat",
+        "food feels stuck",
+        "hard to swallow"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "nutrition-safety",
+        "speech-language-therapy"
+      ]
+    },
+    {
+      "id": "functional-cough-airway",
+      "label": "Functional cough and upper airway symptoms",
+      "category": "symptom",
+      "definition": "Functional cough, throat clearing, breathing pattern, or upper-airway symptoms.",
+      "aliases": [
+        "functional cough",
+        "functional upper airway symptoms"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "chronic cough",
+        "constant throat clearing",
+        "throat closes",
+        "breathing feels stuck"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "speech-language-therapy",
+        "breathing-retraining"
+      ]
+    },
+    {
+      "id": "functional-cognitive",
+      "label": "Functional cognitive disorder",
+      "category": "symptom",
+      "definition": "Functional cognitive symptoms involving memory, attention, concentration, word finding, or thinking.",
+      "aliases": [
+        "functional cognitive symptoms"
+      ],
+      "abbreviations": [
+        "FCD"
+      ],
+      "lay_phrases": [
+        "brain fog",
+        "memory problems",
+        "forgetfulness",
+        "can't concentrate",
+        "word finding trouble",
+        "thinking problems"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "dissociation",
+        "external-memory-supports",
+        "pacing"
+      ]
+    },
+    {
+      "id": "dissociation",
+      "label": "Dissociation and altered awareness",
+      "category": "symptom",
+      "definition": "Altered awareness, detachment, zoning out, or dissociative experiences in the context of FND.",
+      "aliases": [
+        "dissociative symptoms",
+        "altered awareness"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "zoning out",
+        "feel unreal",
+        "lose time",
+        "not fully aware",
+        "detached from body"
+      ],
+      "misspellings": [
+        "dissasociation"
+      ],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-seizures",
+        "functional-cognitive"
+      ]
+    },
+    {
+      "id": "pppd",
+      "label": "Persistent postural-perceptual dizziness",
+      "category": "symptom",
+      "definition": "Persistent dizziness or unsteadiness affected by posture, movement, or visual environments.",
+      "aliases": [
+        "persistent postural perceptual dizziness"
+      ],
+      "abbreviations": [
+        "PPPD"
+      ],
+      "lay_phrases": [
+        "rocking dizziness",
+        "swaying dizziness",
+        "visual dizziness",
+        "dizzy when standing",
+        "busy places make me dizzy"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "balance",
+        "vestibular-overlap",
+        "sensory-overload"
+      ]
+    },
+    {
+      "id": "functional-facial",
+      "label": "Functional facial symptoms",
+      "category": "symptom",
+      "definition": "Functional changes in facial movement, posture, spasm, weakness, or sensation.",
+      "aliases": [
+        "functional facial movement disorder"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "face pulls to one side",
+        "facial spasm",
+        "face droop",
+        "jaw movement",
+        "eye closes"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "movement-retraining",
+        "communication-access"
+      ]
+    },
+    {
+      "id": "functional-drop-attacks",
+      "label": "Functional drop attacks",
+      "category": "symptom",
+      "definition": "Sudden functional falls or collapses.",
+      "aliases": [
+        "functional falls",
+        "drop attacks"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "sudden falls",
+        "collapse without warning",
+        "legs suddenly give way",
+        "drop to the floor"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-gait",
+        "fall-safety",
+        "mobility-aids"
+      ]
+    },
+    {
+      "id": "functional-tics",
+      "label": "Functional tics and tic-like symptoms",
+      "category": "symptom",
+      "definition": "Functional tic-like movements or vocalizations.",
+      "aliases": [
+        "functional tic-like behaviors",
+        "functional tics"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "sudden repeated movements",
+        "tic-like sounds",
+        "new tics",
+        "involuntary vocalizations"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "movement-retraining"
+      ]
+    },
+    {
+      "id": "scan-negative-cauda-equina",
+      "label": "Scan-negative cauda equina presentations",
+      "category": "symptom",
+      "definition": "Cauda equina-type symptoms without compressive cauda equina syndrome identified on imaging.",
+      "aliases": [
+        "scan-negative cauda equina syndrome",
+        "scan negative cauda equina"
+      ],
+      "abbreviations": [
+        "SN-CES"
+      ],
+      "lay_phrases": [
+        "cauda equina symptoms but MRI normal",
+        "bladder numbness normal scan",
+        "suspected cauda equina no compression"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "medical-safety",
+        "differential-diagnosis"
+      ]
+    },
+    {
+      "id": "fnd-mechanisms",
+      "label": "FND mechanisms and neuroscience",
+      "category": "foundation",
+      "definition": "Current models of brain networks, prediction, attention, agency, learning, and other mechanisms relevant to FND.",
+      "aliases": [
+        "FND mechanisms",
+        "FND neuroscience",
+        "how FND happens"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "what happens in the brain in FND",
+        "why symptoms happen",
+        "how the nervous system produces symptoms"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd"
+      ],
+      "narrower": [
+        "brain-networks",
+        "prediction-attention-agency",
+        "biopsychosocial-model",
+        "causes-triggers-risk"
+      ],
+      "related": [
+        "neuroplasticity"
+      ]
+    },
+    {
+      "id": "brain-networks",
+      "label": "Brain networks in FND",
+      "category": "mechanism",
+      "definition": "Network-level neuroscience relevant to functional neurological symptoms.",
+      "aliases": [
+        "brain network changes"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "brain scans in FND",
+        "which brain areas are involved"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-mechanisms"
+      ],
+      "narrower": [],
+      "related": [
+        "prediction-attention-agency"
+      ]
+    },
+    {
+      "id": "prediction-attention-agency",
+      "label": "Prediction, attention and agency",
+      "category": "mechanism",
+      "definition": "Models involving prediction, attention, sense of control, and automatic versus voluntary movement.",
+      "aliases": [
+        "predictive processing",
+        "attention and agency"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "why attention changes symptoms",
+        "why movement feels involuntary",
+        "loss of control"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-mechanisms"
+      ],
+      "narrower": [],
+      "related": [
+        "movement-retraining",
+        "neuroplasticity"
+      ]
+    },
+    {
+      "id": "biopsychosocial-model",
+      "label": "Biopsychosocial model",
+      "category": "foundation",
+      "definition": "A framework considering biological, psychological, and social contributors without assuming one universal cause.",
+      "aliases": [
+        "biopsychosocial framework"
+      ],
+      "abbreviations": [
+        "BPS"
+      ],
+      "lay_phrases": [
+        "bio psycho social",
+        "physical psychological social factors"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-mechanisms"
+      ],
+      "narrower": [],
+      "related": [
+        "causes-triggers-risk"
+      ]
+    },
+    {
+      "id": "causes-triggers-risk",
+      "label": "Causes, risk factors, triggers and maintaining factors",
+      "category": "foundation",
+      "definition": "Evidence and uncertainty around factors associated with onset, triggering, or persistence of FND symptoms.",
+      "aliases": [
+        "FND causes",
+        "FND triggers",
+        "risk factors",
+        "maintaining factors"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "what caused my FND",
+        "what triggers symptoms",
+        "why did FND start"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-mechanisms"
+      ],
+      "narrower": [],
+      "related": [
+        "biopsychosocial-model",
+        "medical-change"
+      ]
+    },
+    {
+      "id": "fnd-recovery",
+      "label": "FND recovery and rehabilitation",
+      "category": "treatment",
+      "definition": "Recovery, rehabilitation, treatment, self-management, and functional improvement in FND.",
+      "aliases": [
+        "FND recovery",
+        "FND treatment",
+        "FND rehabilitation"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "how to get better with FND",
+        "treatments for FND",
+        "retraining the nervous system"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd"
+      ],
+      "narrower": [
+        "movement-retraining",
+        "neuroplasticity",
+        "pacing",
+        "psychological-treatment",
+        "multidisciplinary-care",
+        "recovery-techniques",
+        "relapse-setbacks"
+      ],
+      "related": [
+        "treatment-team"
+      ]
+    },
+    {
+      "id": "recovery-techniques",
+      "label": "Recovery techniques",
+      "category": "treatment",
+      "definition": "Specific practical techniques used in symptom-focused rehabilitation and self-management.",
+      "aliases": [
+        "rehabilitation techniques",
+        "recovery strategies",
+        "symptom techniques"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "things I can try for symptoms",
+        "exercises for FND",
+        "practical recovery methods"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-recovery"
+      ],
+      "narrower": [
+        "movement-retraining",
+        "sensory-retraining",
+        "external-memory-supports",
+        "breathing-retraining"
+      ],
+      "related": [
+        "pacing"
+      ]
+    },
+    {
+      "id": "movement-retraining",
+      "label": "Movement retraining",
+      "category": "treatment",
+      "definition": "Rehabilitation approaches that promote automatic, task-focused, and functional movement.",
+      "aliases": [
+        "motor retraining",
+        "movement rehabilitation"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "learn to walk normally again",
+        "retrain movement",
+        "automatic movement exercises"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-recovery",
+        "recovery-techniques"
+      ],
+      "narrower": [],
+      "related": [
+        "physiotherapy",
+        "functional-gait",
+        "functional-limb-weakness",
+        "functional-tremor",
+        "functional-dystonia"
+      ]
+    },
+    {
+      "id": "sensory-retraining",
+      "label": "Sensory retraining",
+      "category": "treatment",
+      "definition": "Graded sensory input, discrimination, desensitization, and sensory-motor integration approaches.",
+      "aliases": [
+        "sensory rehabilitation",
+        "sensory re-education"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "retrain numbness",
+        "desensitize painful touch",
+        "practice sensation"
+      ],
+      "misspellings": [],
+      "broader": [
+        "recovery-techniques"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-sensory"
+      ]
+    },
+    {
+      "id": "breathing-retraining",
+      "label": "Breathing and upper-airway retraining",
+      "category": "treatment",
+      "definition": "Clinician-guided breathing, throat, and upper-airway strategies used for selected symptoms.",
+      "aliases": [
+        "breathing control",
+        "breathing retraining"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "breathing exercises",
+        "relax throat breathing"
+      ],
+      "misspellings": [],
+      "broader": [
+        "recovery-techniques"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-cough-airway",
+        "speech-language-therapy"
+      ]
+    },
+    {
+      "id": "neuroplasticity",
+      "label": "Neuroplasticity and relearning",
+      "category": "treatment",
+      "definition": "Neuroplastic change and relearning concepts used to explain rehabilitation while evaluating overstated claims.",
+      "aliases": [
+        "brain retraining",
+        "rewiring",
+        "neural plasticity"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "retrain the brain",
+        "rewire the nervous system",
+        "brain plasticity"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-recovery"
+      ],
+      "narrower": [],
+      "related": [
+        "movement-retraining",
+        "prediction-attention-agency"
+      ]
+    },
+    {
+      "id": "pacing",
+      "label": "Pacing, activity and capacity",
+      "category": "treatment",
+      "definition": "Balancing activity, rest, load, capacity, and delayed worsening.",
+      "aliases": [
+        "activity pacing",
+        "energy management",
+        "boom and bust"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "how much should I do",
+        "avoid overdoing it",
+        "boom and bust cycle",
+        "manage limited energy"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-recovery"
+      ],
+      "narrower": [],
+      "related": [
+        "fatigue",
+        "relapse-setbacks"
+      ]
+    },
+    {
+      "id": "psychological-treatment",
+      "label": "Psychological treatment in FND",
+      "category": "treatment",
+      "definition": "Psychological therapies used as part of individualized FND care without implying symptoms are imagined.",
+      "aliases": [
+        "psychotherapy for FND",
+        "CBT for FND",
+        "talk therapy for FND"
+      ],
+      "abbreviations": [
+        "CBT"
+      ],
+      "lay_phrases": [
+        "therapy for FND",
+        "why psychology is involved",
+        "trauma therapy and FND"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-recovery"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-seizures",
+        "trauma",
+        "consent"
+      ]
+    },
+    {
+      "id": "multidisciplinary-care",
+      "label": "Multidisciplinary FND care",
+      "category": "treatment",
+      "definition": "Coordinated care involving multiple relevant professions and shared treatment goals.",
+      "aliases": [
+        "multidisciplinary treatment",
+        "interdisciplinary care"
+      ],
+      "abbreviations": [
+        "MDT"
+      ],
+      "lay_phrases": [
+        "FND team",
+        "who should treat FND",
+        "different specialists working together"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-recovery"
+      ],
+      "narrower": [
+        "treatment-team"
+      ],
+      "related": [
+        "professional-roles"
+      ]
+    },
+    {
+      "id": "relapse-setbacks",
+      "label": "Setbacks, relapse and changing symptoms",
+      "category": "long-term",
+      "definition": "Recognizing and responding to symptom setbacks, recurrence, or changing patterns over time.",
+      "aliases": [
+        "FND relapse",
+        "setbacks",
+        "flare planning"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "symptoms came back",
+        "FND flare",
+        "getting worse again",
+        "new symptoms after improvement"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-recovery"
+      ],
+      "narrower": [],
+      "related": [
+        "medical-change",
+        "pacing"
+      ]
+    },
+    {
+      "id": "co-occurring-conditions",
+      "label": "Co-occurring conditions",
+      "category": "related-condition",
+      "definition": "Conditions and symptoms that may occur alongside FND.",
+      "aliases": [
+        "comorbidities",
+        "coexisting conditions",
+        "overlapping conditions"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "other conditions with FND",
+        "can I have FND and something else"
+      ],
+      "misspellings": [],
+      "broader": [],
+      "narrower": [
+        "migraine",
+        "persistent-headache",
+        "tinnitus",
+        "pain",
+        "fibromyalgia",
+        "fatigue",
+        "insomnia",
+        "autonomic-symptoms",
+        "ibs",
+        "epilepsy"
+      ],
+      "related": [
+        "coexisting-conditions"
+      ]
+    },
+    {
+      "id": "coexisting-conditions",
+      "label": "FND with other diagnoses",
+      "category": "diagnosis",
+      "definition": "The principle that FND can coexist with neurological, medical, psychiatric, or other diagnoses.",
+      "aliases": [
+        "coexisting diagnoses",
+        "dual diagnosis"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "can I have FND and another disease",
+        "FND plus another condition"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-diagnosis"
+      ],
+      "narrower": [],
+      "related": [
+        "co-occurring-conditions",
+        "differential-diagnosis"
+      ]
+    },
+    {
+      "id": "migraine",
+      "label": "Migraine",
+      "category": "related-condition",
+      "definition": "Migraine occurring alongside FND or affecting symptoms and function.",
+      "aliases": [
+        "chronic migraine"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "migraine with FND",
+        "headache and light sensitivity"
+      ],
+      "misspellings": [],
+      "broader": [
+        "co-occurring-conditions"
+      ],
+      "narrower": [],
+      "related": [
+        "persistent-headache",
+        "photophobia"
+      ]
+    },
+    {
+      "id": "persistent-headache",
+      "label": "Persistent headache",
+      "category": "related-condition",
+      "definition": "Persistent or chronic headache occurring alongside FND.",
+      "aliases": [
+        "chronic headache",
+        "daily headache"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "headache every day",
+        "constant headache"
+      ],
+      "misspellings": [],
+      "broader": [
+        "co-occurring-conditions"
+      ],
+      "narrower": [],
+      "related": [
+        "migraine",
+        "pain"
+      ]
+    },
+    {
+      "id": "tinnitus",
+      "label": "Tinnitus",
+      "category": "related-condition",
+      "definition": "Persistent ringing or other sound perception occurring alongside FND.",
+      "aliases": [
+        "ringing in ears"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "constant ringing",
+        "noise in ears"
+      ],
+      "misspellings": [],
+      "broader": [
+        "co-occurring-conditions"
+      ],
+      "narrower": [],
+      "related": [
+        "sensory-overload"
+      ]
+    },
+    {
+      "id": "pain",
+      "label": "Persistent pain",
+      "category": "related-condition",
+      "definition": "Persistent or chronic pain in people with FND.",
+      "aliases": [
+        "chronic pain"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "pain all the time",
+        "body pain"
+      ],
+      "misspellings": [],
+      "broader": [
+        "co-occurring-conditions"
+      ],
+      "narrower": [],
+      "related": [
+        "fibromyalgia",
+        "fatigue",
+        "pacing"
+      ]
+    },
+    {
+      "id": "fibromyalgia",
+      "label": "Fibromyalgia",
+      "category": "related-condition",
+      "definition": "Fibromyalgia as a condition that may coexist with FND.",
+      "aliases": [],
+      "abbreviations": [
+        "FM"
+      ],
+      "lay_phrases": [
+        "fibromyalgia and FND",
+        "widespread pain and fatigue"
+      ],
+      "misspellings": [
+        "fibromialgia"
+      ],
+      "broader": [
+        "co-occurring-conditions"
+      ],
+      "narrower": [],
+      "related": [
+        "pain",
+        "fatigue"
+      ]
+    },
+    {
+      "id": "fatigue",
+      "label": "Fatigue and post-activity worsening",
+      "category": "related-condition",
+      "definition": "Fatigue, limited capacity, and symptom worsening after activity.",
+      "aliases": [
+        "persistent fatigue",
+        "post-activity worsening"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "exhausted after activity",
+        "crash after doing too much",
+        "no energy"
+      ],
+      "misspellings": [],
+      "broader": [
+        "co-occurring-conditions"
+      ],
+      "narrower": [],
+      "related": [
+        "pacing",
+        "insomnia",
+        "pain"
+      ]
+    },
+    {
+      "id": "insomnia",
+      "label": "Sleep problems and insomnia",
+      "category": "related-condition",
+      "definition": "Insomnia, disrupted sleep, and sleep-related difficulties.",
+      "aliases": [
+        "sleep problems",
+        "sleep disturbance"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "can't sleep",
+        "wake up all night",
+        "poor sleep"
+      ],
+      "misspellings": [],
+      "broader": [
+        "co-occurring-conditions"
+      ],
+      "narrower": [],
+      "related": [
+        "fatigue"
+      ]
+    },
+    {
+      "id": "autonomic-symptoms",
+      "label": "Autonomic symptoms",
+      "category": "related-condition",
+      "definition": "Symptoms involving automatic body functions such as heart rate, sweating, temperature, or blood pressure.",
+      "aliases": [
+        "dysautonomia symptoms",
+        "autonomic nervous system symptoms"
+      ],
+      "abbreviations": [
+        "ANS"
+      ],
+      "lay_phrases": [
+        "heart racing",
+        "sweating",
+        "temperature problems",
+        "lightheaded standing",
+        "body won't regulate"
+      ],
+      "misspellings": [
+        "autonomic symtoms"
+      ],
+      "broader": [
+        "co-occurring-conditions"
+      ],
+      "narrower": [],
+      "related": [
+        "pppd"
+      ]
+    },
+    {
+      "id": "ibs",
+      "label": "Irritable bowel syndrome",
+      "category": "related-condition",
+      "definition": "Irritable bowel syndrome as a condition that may coexist with FND.",
+      "aliases": [
+        "irritable bowel"
+      ],
+      "abbreviations": [
+        "IBS"
+      ],
+      "lay_phrases": [
+        "bowel problems with FND"
+      ],
+      "misspellings": [],
+      "broader": [
+        "co-occurring-conditions"
+      ],
+      "narrower": [],
+      "related": []
+    },
+    {
+      "id": "medical-safety",
+      "label": "Medical safety and new symptoms",
+      "category": "safety",
+      "definition": "Recognizing new or changed symptoms, urgent concerns, and appropriate medical review.",
+      "aliases": [
+        "medical safety",
+        "new symptom safety"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "is this an emergency",
+        "new symptom with FND",
+        "when should I get checked"
+      ],
+      "misspellings": [],
+      "broader": [],
+      "narrower": [
+        "medical-change",
+        "emergency-planning",
+        "fall-safety",
+        "nutrition-safety"
+      ],
+      "related": [
+        "scan-negative-cauda-equina"
+      ]
+    },
+    {
+      "id": "medical-change",
+      "label": "Familiar symptoms versus medical change",
+      "category": "safety",
+      "definition": "Distinguishing a familiar FND pattern from a new or materially changed medical presentation.",
+      "aliases": [
+        "new symptoms",
+        "changed symptoms"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "is this just FND",
+        "symptom is different this time",
+        "new symptom"
+      ],
+      "misspellings": [],
+      "broader": [
+        "medical-safety"
+      ],
+      "narrower": [],
+      "related": [
+        "relapse-setbacks",
+        "diagnostic-uncertainty"
+      ]
+    },
+    {
+      "id": "emergency-planning",
+      "label": "Emergency information and safety plans",
+      "category": "safety",
+      "definition": "Individual emergency information, safety planning, and decisions about urgent help.",
+      "aliases": [
+        "emergency plan",
+        "safety plan"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "what should emergency staff know",
+        "when to call an ambulance",
+        "FND emergency card"
+      ],
+      "misspellings": [],
+      "broader": [
+        "medical-safety"
+      ],
+      "narrower": [],
+      "related": [
+        "seizure-safety"
+      ]
+    },
+    {
+      "id": "fall-safety",
+      "label": "Falls and injury prevention",
+      "category": "safety",
+      "definition": "Reducing injury risk from falls, gait symptoms, or drop attacks.",
+      "aliases": [
+        "fall prevention",
+        "injury prevention"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "keep safe from falls",
+        "what to do if I collapse"
+      ],
+      "misspellings": [],
+      "broader": [
+        "medical-safety"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-drop-attacks",
+        "functional-gait",
+        "mobility-aids"
+      ]
+    },
+    {
+      "id": "nutrition-safety",
+      "label": "Swallowing and nutrition safety",
+      "category": "safety",
+      "definition": "Safety considerations around swallowing, eating, hydration, and nutrition.",
+      "aliases": [
+        "swallow safety"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "safe to eat with swallowing trouble",
+        "food getting stuck"
+      ],
+      "misspellings": [],
+      "broader": [
+        "medical-safety"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-swallowing-globus"
+      ]
+    },
+    {
+      "id": "professional-roles",
+      "label": "Professional roles in FND care",
+      "category": "care-team",
+      "definition": "What different health professions contribute to diagnosis, explanation, rehabilitation, and support.",
+      "aliases": [
+        "FND professionals",
+        "who does what in FND care"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "which doctor treats FND",
+        "what should my neurologist do",
+        "who should be on my team"
+      ],
+      "misspellings": [],
+      "broader": [],
+      "narrower": [
+        "neurology",
+        "physiotherapy",
+        "occupational-therapy",
+        "speech-language-therapy",
+        "psychology-psychiatry",
+        "primary-care"
+      ],
+      "related": [
+        "treatment-team"
+      ]
+    },
+    {
+      "id": "treatment-team",
+      "label": "Building an FND treatment team",
+      "category": "care-team",
+      "definition": "Choosing, coordinating, and working with an individualized care team.",
+      "aliases": [
+        "FND care team",
+        "treatment team"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "who should be on my FND team",
+        "no FND specialist near me"
+      ],
+      "misspellings": [],
+      "broader": [
+        "multidisciplinary-care"
+      ],
+      "narrower": [],
+      "related": [
+        "professional-roles",
+        "healthcare-communication"
+      ]
+    },
+    {
+      "id": "neurology",
+      "label": "Neurology and neurologists",
+      "category": "care-team",
+      "definition": "The role of neurology in FND diagnosis, explanation, follow-up, and coordination.",
+      "aliases": [
+        "neurologist",
+        "neurology"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "what should my neurologist do",
+        "does a neurologist treat FND"
+      ],
+      "misspellings": [],
+      "broader": [
+        "professional-roles"
+      ],
+      "narrower": [],
+      "related": [
+        "fnd-diagnosis"
+      ]
+    },
+    {
+      "id": "physiotherapy",
+      "label": "Physiotherapy and physical therapy",
+      "category": "care-team",
+      "definition": "The role of physiotherapy in movement-focused FND rehabilitation.",
+      "aliases": [
+        "physical therapy",
+        "physiotherapy",
+        "physio"
+      ],
+      "abbreviations": [
+        "PT"
+      ],
+      "lay_phrases": [
+        "physical therapist for FND",
+        "walking therapy"
+      ],
+      "misspellings": [
+        "physiotheraphy"
+      ],
+      "broader": [
+        "professional-roles"
+      ],
+      "narrower": [],
+      "related": [
+        "movement-retraining"
+      ]
+    },
+    {
+      "id": "occupational-therapy",
+      "label": "Occupational therapy",
+      "category": "care-team",
+      "definition": "The role of occupational therapy in daily activities, function, equipment, pacing, and participation.",
+      "aliases": [
+        "occupational therapist"
+      ],
+      "abbreviations": [
+        "OT"
+      ],
+      "lay_phrases": [
+        "OT for FND",
+        "help with daily activities"
+      ],
+      "misspellings": [],
+      "broader": [
+        "professional-roles"
+      ],
+      "narrower": [],
+      "related": [
+        "daily-living",
+        "mobility-aids",
+        "pacing"
+      ]
+    },
+    {
+      "id": "speech-language-therapy",
+      "label": "Speech and language therapy",
+      "category": "care-team",
+      "definition": "The role of speech-language professionals in speech, voice, swallowing, cough, and communication symptoms.",
+      "aliases": [
+        "speech therapy",
+        "speech-language pathology",
+        "speech and language therapy"
+      ],
+      "abbreviations": [
+        "SLP",
+        "SLT"
+      ],
+      "lay_phrases": [
+        "speech therapist for FND",
+        "voice therapy",
+        "swallow therapist"
+      ],
+      "misspellings": [],
+      "broader": [
+        "professional-roles"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-speech-voice",
+        "functional-swallowing-globus",
+        "functional-cough-airway"
+      ]
+    },
+    {
+      "id": "psychology-psychiatry",
+      "label": "Psychology and psychiatry",
+      "category": "care-team",
+      "definition": "Roles of psychology and psychiatry in selected FND treatment, comorbidity care, and psychological therapies.",
+      "aliases": [
+        "psychologist",
+        "psychiatrist",
+        "mental health professional"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "why see a psychologist for FND",
+        "psychiatrist and FND"
+      ],
+      "misspellings": [],
+      "broader": [
+        "professional-roles"
+      ],
+      "narrower": [],
+      "related": [
+        "psychological-treatment"
+      ]
+    },
+    {
+      "id": "primary-care",
+      "label": "Primary care",
+      "category": "care-team",
+      "definition": "The role of family medicine and primary care in ongoing health care, coordination, and non-FND medical needs.",
+      "aliases": [
+        "family doctor",
+        "general practitioner",
+        "primary care doctor"
+      ],
+      "abbreviations": [
+        "GP",
+        "PCP"
+      ],
+      "lay_phrases": [
+        "family doctor and FND",
+        "who handles general medical care"
+      ],
+      "misspellings": [],
+      "broader": [
+        "professional-roles"
+      ],
+      "narrower": [],
+      "related": [
+        "medical-safety"
+      ]
+    },
+    {
+      "id": "daily-living",
+      "label": "Daily living with FND",
+      "category": "living",
+      "definition": "Practical adaptation of personal care, household tasks, routines, and daily participation.",
+      "aliases": [
+        "activities of daily living",
+        "daily life"
+      ],
+      "abbreviations": [
+        "ADLs"
+      ],
+      "lay_phrases": [
+        "how to manage daily life with FND",
+        "help at home"
+      ],
+      "misspellings": [],
+      "broader": [],
+      "narrower": [
+        "mobility-aids",
+        "communication-access",
+        "sensory-overload",
+        "work-school-accommodations"
+      ],
+      "related": [
+        "occupational-therapy"
+      ]
+    },
+    {
+      "id": "mobility-aids",
+      "label": "Mobility aids, wheelchairs and equipment",
+      "category": "living",
+      "definition": "Use and review of mobility aids, wheelchairs, seating, and related equipment.",
+      "aliases": [
+        "mobility equipment",
+        "wheelchair",
+        "walking aids"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "should I use a wheelchair",
+        "walking stick for FND",
+        "mobility aid"
+      ],
+      "misspellings": [],
+      "broader": [
+        "daily-living"
+      ],
+      "narrower": [],
+      "related": [
+        "fall-safety",
+        "functional-gait",
+        "occupational-therapy"
+      ]
+    },
+    {
+      "id": "communication-access",
+      "label": "Communication access",
+      "category": "living",
+      "definition": "Ways to communicate when speech, voice, cognition, or sensory symptoms make communication difficult.",
+      "aliases": [
+        "communication accommodations",
+        "accessible communication"
+      ],
+      "abbreviations": [
+        "AAC"
+      ],
+      "lay_phrases": [
+        "can't talk during symptoms",
+        "ways to communicate without speaking"
+      ],
+      "misspellings": [],
+      "broader": [
+        "daily-living"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-speech-voice",
+        "functional-cognitive"
+      ]
+    },
+    {
+      "id": "sensory-overload",
+      "label": "Sensory overload and accommodations",
+      "category": "living",
+      "definition": "Managing sensory overload and using appropriate environmental accommodations.",
+      "aliases": [
+        "sensory sensitivity",
+        "sensory accommodations"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "light and sound are too much",
+        "overwhelmed by noise",
+        "busy places trigger symptoms"
+      ],
+      "misspellings": [],
+      "broader": [
+        "daily-living"
+      ],
+      "narrower": [
+        "photophobia"
+      ],
+      "related": [
+        "functional-sensory",
+        "functional-visual",
+        "pppd"
+      ]
+    },
+    {
+      "id": "photophobia",
+      "label": "Photophobia and light sensitivity",
+      "category": "living",
+      "definition": "Light sensitivity and its overlap with visual symptoms, migraine, and sensory overload.",
+      "aliases": [
+        "light sensitivity"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "light hurts my eyes",
+        "bright light worsens symptoms"
+      ],
+      "misspellings": [],
+      "broader": [
+        "sensory-overload"
+      ],
+      "narrower": [],
+      "related": [
+        "migraine",
+        "functional-visual"
+      ]
+    },
+    {
+      "id": "external-memory-supports",
+      "label": "External memory and thinking supports",
+      "category": "living",
+      "definition": "Notes, routines, reminders, and other external supports for cognitive symptoms.",
+      "aliases": [
+        "memory aids",
+        "external cognitive supports"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "ways to remember things",
+        "notes and reminders for brain fog"
+      ],
+      "misspellings": [],
+      "broader": [
+        "daily-living",
+        "recovery-techniques"
+      ],
+      "narrower": [],
+      "related": [
+        "functional-cognitive"
+      ]
+    },
+    {
+      "id": "work-school-accommodations",
+      "label": "Work, school, disability and accommodations",
+      "category": "living",
+      "definition": "Participation, accommodations, variable function, and disability-related documentation for work or school.",
+      "aliases": [
+        "work accommodations",
+        "school accommodations",
+        "disability accommodations"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "can I work with FND",
+        "workplace accommodations",
+        "school with FND",
+        "describe variable disability"
+      ],
+      "misspellings": [],
+      "broader": [
+        "daily-living"
+      ],
+      "narrower": [],
+      "related": [
+        "healthcare-communication",
+        "pacing"
+      ]
+    },
+    {
+      "id": "healthcare-communication",
+      "label": "Healthcare communication and self-advocacy",
+      "category": "living",
+      "definition": "Preparing for appointments, records, written plans, second opinions, and communication when care is difficult.",
+      "aliases": [
+        "self advocacy",
+        "medical communication",
+        "appointment preparation"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "how to talk to my doctor about FND",
+        "second opinion",
+        "doctor doesn't understand FND"
+      ],
+      "misspellings": [],
+      "broader": [],
+      "narrower": [],
+      "related": [
+        "treatment-team",
+        "work-school-accommodations"
+      ]
+    },
+    {
+      "id": "supporter-guidance",
+      "label": "Family, friends and supporter guidance",
+      "category": "living",
+      "definition": "Information for supporters helping someone with FND.",
+      "aliases": [
+        "caregiver guidance",
+        "family support",
+        "carer support"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "how to help someone with FND",
+        "what should family do",
+        "support a partner with FND"
+      ],
+      "misspellings": [],
+      "broader": [],
+      "narrower": [],
+      "related": [
+        "seizure-safety",
+        "relationships"
+      ]
+    },
+    {
+      "id": "relationships",
+      "label": "Relationships, identity and grief",
+      "category": "living",
+      "definition": "Relationships, intimacy, identity, grief, purpose, isolation, and supporter wellbeing.",
+      "aliases": [
+        "relationships and FND",
+        "identity and grief"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "FND changed my identity",
+        "relationship problems with FND",
+        "grief after disability"
+      ],
+      "misspellings": [],
+      "broader": [],
+      "narrower": [],
+      "related": [
+        "supporter-guidance"
+      ]
+    },
+    {
+      "id": "personal-handbook",
+      "label": "Personal FND handbook and symptom map",
+      "category": "long-term",
+      "definition": "Building a personal reference for symptoms, safety, helpful strategies, and care information.",
+      "aliases": [
+        "FND handbook",
+        "symptom map",
+        "personal FND plan"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "make my own FND plan",
+        "track my symptom patterns"
+      ],
+      "misspellings": [],
+      "broader": [],
+      "narrower": [],
+      "related": [
+        "emergency-planning",
+        "relapse-setbacks"
+      ]
+    },
+    {
+      "id": "progress-review",
+      "label": "Reviewing progress",
+      "category": "long-term",
+      "definition": "Measuring meaningful progress and choosing next steps without reducing recovery to symptom counts alone.",
+      "aliases": [
+        "progress tracking",
+        "review recovery"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "am I getting better",
+        "how to measure FND progress"
+      ],
+      "misspellings": [],
+      "broader": [],
+      "narrower": [],
+      "related": [
+        "fnd-recovery",
+        "personal-handbook"
+      ]
+    },
+    {
+      "id": "history-of-fnd",
+      "label": "History of FND",
+      "category": "reference",
+      "definition": "Historical development of FND concepts, discoveries, terminology, and clinical understanding.",
+      "aliases": [
+        "FND history",
+        "history of functional neurological disorder",
+        "history of hysteria"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "where FND came from",
+        "history of functional symptoms"
+      ],
+      "misspellings": [],
+      "broader": [],
+      "narrower": [],
+      "related": [
+        "fnd"
+      ]
+    },
+    {
+      "id": "trauma",
+      "label": "Trauma and FND",
+      "category": "foundation",
+      "definition": "Trauma as one possible factor for some people, without treating it as necessary or universal.",
+      "aliases": [
+        "trauma history",
+        "psychological trauma"
+      ],
+      "abbreviations": [
+        "PTSD",
+        "CPTSD"
+      ],
+      "lay_phrases": [
+        "does trauma cause FND",
+        "FND without trauma"
+      ],
+      "misspellings": [],
+      "broader": [
+        "causes-triggers-risk"
+      ],
+      "narrower": [],
+      "related": [
+        "psychological-treatment",
+        "consent"
+      ]
+    },
+    {
+      "id": "consent",
+      "label": "Consent and treatment safety",
+      "category": "treatment",
+      "definition": "Consent, choice, treatment boundaries, and recognizing potentially harmful care.",
+      "aliases": [
+        "treatment consent",
+        "therapy boundaries"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "can I say no to therapy",
+        "unsafe treatment",
+        "therapy harmed me"
+      ],
+      "misspellings": [],
+      "broader": [
+        "psychological-treatment"
+      ],
+      "narrower": [],
+      "related": [
+        "trauma"
+      ]
+    },
+    {
+      "id": "balance",
+      "label": "Balance symptoms",
+      "category": "symptom",
+      "definition": "Balance and unsteadiness symptoms that may overlap with gait, vestibular, or dizziness problems.",
+      "aliases": [
+        "balance problems",
+        "unsteadiness"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "feel off balance",
+        "unsteady standing"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-symptoms"
+      ],
+      "narrower": [],
+      "related": [
+        "pppd",
+        "functional-gait",
+        "vestibular-overlap"
+      ]
+    },
+    {
+      "id": "vestibular-overlap",
+      "label": "Vestibular overlap",
+      "category": "related-condition",
+      "definition": "Overlap and differential considerations between functional dizziness and vestibular disorders.",
+      "aliases": [
+        "vestibular symptoms",
+        "vestibular disorder overlap"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "inner ear versus FND dizziness"
+      ],
+      "misspellings": [],
+      "broader": [
+        "co-occurring-conditions"
+      ],
+      "narrower": [],
+      "related": [
+        "pppd",
+        "balance"
+      ]
+    }
+  ]
+}
