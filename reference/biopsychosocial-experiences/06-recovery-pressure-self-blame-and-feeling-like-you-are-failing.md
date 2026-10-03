@@ -4,18 +4,18 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Biopsychosocial Experiences](README.md) › **Recovery Pressure, Self-Blame, and Feeling Like You Are Failing**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Automatically generated working draft — October 2, 2026.** Clinical, lived-experience, rehabilitation and accessibility review pending.
+> **Working draft — created October 2, 2026; source verification revised October 3, 2026.** Clinical, lived-experience, rehabilitation and accessibility review pending.
 
 **This page covers:** Feeling pressured to recover, blaming yourself when symptoms continue, interpreting a setback as failure, being judged for using adaptations, and deciding what meaningful improvement looks like when recovery is incomplete or uncertain.
 
 **Scope boundary:** Motivation, rehabilitation, beliefs and behaviour can matter in treatment, but persistent FND symptoms do not prove poor effort, unwillingness or a hidden wish to remain ill. Treatment response is not a diagnostic test of character. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For the Person With FND
 
@@ -147,7 +147,7 @@ A communication aid can preserve a conversation when speech is unavailable.
 
 Using an adaptation does not automatically mean that you have stopped trying to improve.
 
-At the same time, equipment and adaptations should be reviewed when needs change.
+Equipment and adaptations should be reviewed with your team when needs change. FND guidance weighs possible effects on movement rehabilitation against safety and continuing disability; it does not justify blanket withdrawal of necessary support. (*citations* [3](#citation-3))
 
 The question is not:
 
@@ -233,12 +233,12 @@ Treatment should connect to what matters to you.
 
 #### Is there something you call “failure” that would be more accurately described as “this approach did not help enough”?
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For Family, Friends, and Other Supporters
 
@@ -310,12 +310,12 @@ Return to the plan and reassess when appropriate.
 
 Do not begin with motivation as the explanation.
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For Clinicians and the Care Team
 
@@ -379,36 +379,62 @@ Benefit does not prove psychological causation.
 
 Lack of benefit does not disprove FND.
 
-The referral should have a clear reason that the patient understands. (*citation* [5](#citation-5))
+The referral should have a clear reason that the patient understands. (*citations* [5](#citation-5))
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## Research and Sources
 
-The FND outcome-measurement literature supports looking beyond a single symptom count and acknowledges gaps in well-validated FND-specific outcome measures. A qualitative study of patients, caregivers and clinicians similarly identified multiple outcomes that matter in real life. (*citations* [1](#citation-1), [2](#citation-2))
+The scripts, reflection questions and everyday planning examples are project suggestions. They are not diagnostic criteria, prevalence findings or a tested treatment programme.
 
-Occupational-therapy consensus supports individualized goals, participation, adaptation and relapse planning. It is professional consensus, not proof that a particular activity dose or recovery strategy works for every person. (*citation* [3](#citation-3))
+The FND outcome-measurement literature supports looking beyond a single symptom count and acknowledges gaps in well-validated FND-specific outcome measures. Rutten and colleagues interviewed 22 patients, 18 caregivers and 21 healthcare professionals in the UK about outcomes that matter in real life. Neither source tests whether a treatment improves those outcomes. (*citations* [1](#citation-1), [2](#citation-2))
 
-Broad FND reviews describe variable outcomes and multidisciplinary treatment rather than a universal curative intervention. (*citation* [4](#citation-4))
+Occupational-therapy consensus supports individualized goals, participation, adaptation and relapse planning. It is professional consensus, not proof that a particular activity dose or recovery strategy works for every person. (*citations* [3](#citation-3))
 
-Psychological-management guidance supports individualized treatment targets and care without requiring a psychological explanation for the diagnosis. (*citation* [5](#citation-5))
+Broad FND reviews describe variable outcomes and multidisciplinary treatment rather than a universal curative intervention. (*citations* [4](#citation-4))
 
-| Citation | Full citation |
-|---|---|
-| <a id="citation-1"></a>**[1]** | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
-| <a id="citation-2"></a>**[2]** | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
-| <a id="citation-3"></a>**[3]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-4"></a>**[4]** | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) |
-| <a id="citation-5"></a>**[5]** | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
+The British Psychological Society briefing recommends care matched to the person’s presentation. It distinguishes the FND diagnosis from psychiatric comorbidity and supports rehabilitation or psychological input according to individual need. (*citations* [5](#citation-5))
 
-*Page created: October 2, 2026 · Clinical, lived-experience, rehabilitation and accessibility review pending*
+### Short source excerpts
+
+These excerpts are evidence notes. The explanations and study limits below matter more than a phrase read on its own.
+
+> “life impact”
+
+*Figure 1*
+
+Pick and colleagues, abstract: one domain recommended for outcome assessment. (*citations* [1](#citation-1))
+
+> “the patient’s subjective experience should be central”
+
+*Figure 2*
+
+Rutten and colleagues, abstract: an outcome-assessment recommendation drawn from stakeholder interviews. (*citations* [2](#citation-2))
+
+> “based on expert opinion”
+
+*Figure 3*
+
+Nicholson and colleagues, “Limitations” section: the occupational-therapy recommendations are consensus guidance. (*citations* [3](#citation-3))
+
+| Citation | Full citation | What it supports and its limits | Figure |
+|---|---|---|---|
+| <a id="citation-1"></a>**[1]** | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) | Systematic review; measurement recommendations do not demonstrate treatment efficacy. | 1 |
+| <a id="citation-2"></a>**[2]** | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) | 22 patients, 18 caregivers and 21 professionals in UK interviews; priorities, not efficacy. | 2 |
+| <a id="citation-3"></a>**[3]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) | Expert consensus; individualized rehabilitation and continuing disability support. | 3 |
+| <a id="citation-4"></a>**[4]** | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) | Clinical review; treatment possibilities do not guarantee recovery. | — |
+| <a id="citation-5"></a>**[5]** | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) | Professional guidance; individualized targets, not one required psychological explanation. | — |
+
+*Page created: October 2, 2026 · Source verification and editorial revision: October 3, 2026 · Clinical, lived-experience, rehabilitation and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
+**Previous:** [← Unpredictability, Overload, and Trusting Your Body](05-unpredictability-overload-and-trusting-your-body.md)
+
 **Related:** [Collection overview](README.md) · [Remission, Recovery, and What Improvement Can Mean](../../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) · [Pacing and the Boom-and-Bust Cycle](../../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md) · [Setbacks, Relapse, and Changing Symptoms](../../course/part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/README.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)

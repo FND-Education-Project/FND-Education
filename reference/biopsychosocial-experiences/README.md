@@ -4,13 +4,13 @@
 [Home](../../README.md) › [Reference Library](../README.md) › **Biopsychosocial Experiences Associated with FND**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Automatically generated working draft — October 2, 2026.** Clinical, lived-experience and accessibility review pending.
+> **Working draft — created October 2, 2026; source verification revised October 3, 2026.** Clinical, lived-experience and accessibility review pending.
 
 Some parts of living with FND do not fit neatly into a symptom list.
 
 A person may become overwhelmed more easily, have less patience when they are exhausted or in pain, feel unusually alert or easily startled, or find that noise, light, thinking, emotions and social demands all become harder to manage at the same time.
 
-These experiences can matter a great deal. They are still not automatically FND symptoms, and they do not tell us what caused a person's FND.
+These experiences can matter a great deal. They are still not automatically FND symptoms, and they do not tell us what caused a person's FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 > **Biopsychosocial:** A way of looking at health that includes the body, thoughts and emotions, relationships, surroundings and life circumstances. It does **not** mean “psychological cause.”
 
@@ -19,14 +19,16 @@ These experiences can matter a great deal. They are still not automatically FND 
 > **Associated experience:** Something that may happen alongside FND or while living with FND, without necessarily being caused by FND.
 
 > [!IMPORTANT]
-> A new problem should not automatically be blamed on FND. Pain, migraine, poor sleep, medication or substance effects, another medical or neurological condition, anxiety or depression, environmental strain and many other things can affect how a person feels and functions.
+> A new problem should not automatically be blamed on FND. Other conditions or treatment effects may need their own assessment.
 
-***
+Clinical guidance supports positive FND diagnosis and assessment of relevant coexisting conditions. (*citations* [4](#citation-4))
+
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For the Person With FND
 
@@ -90,12 +92,12 @@ Some subjects already have a fuller home on the site.
 
 Keeping these subjects connected without calling all of them FND helps us keep the whole person in view.
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For Family, Friends, and Other Supporters
 
@@ -115,12 +117,12 @@ That is different from “You are not allowed to be angry” or “You need to c
 
 Both the person with FND and the supporter are allowed to have boundaries. Illness can explain why someone has less capacity without making threats, intimidation or violence acceptable.
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For Clinicians and the Care Team
 
@@ -132,24 +134,47 @@ Use plain descriptions before technical labels when possible. “Noise and sever
 
 Where a cross-cutting experience is severe or new, review relevant neurological, medical, sleep, medication, substance and psychiatric contributors proportionately. A useful formulation can contain uncertainty and more than one explanation.
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## Research and Sources
 
-The evidence supports studying emotional processing, interoception, attention, salience and other cross-cutting processes in FND. It does not establish one biopsychosocial pattern that applies to every person or one associated experience that can diagnose FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+The sources here are reviews and proposed frameworks, rather than trials of this collection’s practical suggestions. They support studying emotional processing, interoception, attention, salience and other cross-cutting processes in FND. It does not establish one biopsychosocial pattern that applies to every person or one associated experience that can diagnose FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
-| Citation | Full citation |
-|---|---|
-| <a id="citation-1"></a>**[1]** | Pick S, Goldstein LH, Perez DL, Nicholson TR. Emotional processing in functional neurological disorder: a review, biopsychosocial model and research agenda. *Journal of Neurology, Neurosurgery & Psychiatry*. 2019;90(6):704–711. [FND-CIT-0005](../../research/citation-index.md#fnd-cit-0005). [https://doi.org/10.1136/jnnp-2018-319201](https://doi.org/10.1136/jnnp-2018-319201) |
-| <a id="citation-2"></a>**[2]** | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) |
-| <a id="citation-3"></a>**[3]** | Drane DL, Fani N, Hallett M, Khalsa SS, Perez DL, Roberts NA. A framework for understanding the pathophysiology of functional neurological disorder. *CNS Spectrums*. 2021;26(6):555–561. [FND-CIT-0006](../../research/citation-index.md#fnd-cit-0006). [https://doi.org/10.1017/S1092852920001789](https://doi.org/10.1017/S1092852920001789) |
+### Short source excerpts
 
-*Collection created: October 2, 2026 · Plain-language revision: October 2, 2026 · Clinical, lived-experience and accessibility review pending*
+These excerpts are evidence notes. The explanations and study limits below matter more than a phrase read on its own.
+
+> “genuinely experienced alterations”
+
+*Figure 1*
+
+Hallett and colleagues, opening definition of FND: the review describes symptoms as real experiences. (*citations* [2](#citation-2))
+
+> “need for replication of existing findings”
+
+*Figure 2*
+
+Pick and colleagues, abstract: the emotional-processing review identifies an unfinished research agenda. (*citations* [1](#citation-1))
+
+> “we propose a pathophysiology-focused research agenda”
+
+*Figure 3*
+
+Drane and colleagues, abstract: this is a proposed research framework. (*citations* [3](#citation-3))
+
+| Citation | Full citation | What it supports and its limits | Figure |
+|---|---|---|---|
+| <a id="citation-1"></a>**[1]** | Pick S, Goldstein LH, Perez DL, Nicholson TR. Emotional processing in functional neurological disorder: a review, biopsychosocial model and research agenda. *Journal of Neurology, Neurosurgery & Psychiatry*. 2019;90(6):704–711. [FND-CIT-0005](../../research/citation-index.md#fnd-cit-0005). [https://doi.org/10.1136/jnnp-2018-319201](https://doi.org/10.1136/jnnp-2018-319201) | Review and proposed model; group findings do not establish individual causation. | 2 |
+| <a id="citation-2"></a>**[2]** | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) | Clinical review; symptoms, mechanisms and care, rather than a new experience subtype. | 1 |
+| <a id="citation-3"></a>**[3]** | Drane DL, Fani N, Hallett M, Khalsa SS, Perez DL, Roberts NA. A framework for understanding the pathophysiology of functional neurological disorder. *CNS Spectrums*. 2021;26(6):555–561. [FND-CIT-0006](../../research/citation-index.md#fnd-cit-0006). [https://doi.org/10.1017/S1092852920001789](https://doi.org/10.1017/S1092852920001789) | Mechanistic perspective and research agenda; no individual diagnostic biomarker. | 3 |
+| <a id="citation-4"></a>**[4]** | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) | Clinical review; positive diagnosis and proportionate review of other conditions. | — |
+
+*Collection created: October 2, 2026 · Plain-language revision: October 2, 2026 · Source verification and editorial revision: October 3, 2026 · Clinical, lived-experience and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Emotional Regulation, Irritability, and Overwhelm →](01-emotional-regulation-irritability-and-overwhelm.md)

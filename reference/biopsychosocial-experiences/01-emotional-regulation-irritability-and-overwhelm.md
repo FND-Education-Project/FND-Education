@@ -4,18 +4,18 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Biopsychosocial Experiences](README.md) › **Emotional Regulation, Irritability, and Overwhelm**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Automatically generated working draft — October 2, 2026.** Clinical, lived-experience and accessibility review pending.
+> **Working draft — created October 2, 2026; source verification revised October 3, 2026.** Clinical, lived-experience and accessibility review pending.
 
 **This page covers:** Becoming overwhelmed more easily, losing patience faster than usual, strong emotions that rise quickly, crying more easily, taking longer to settle after an argument or upsetting event, or sometimes feeling shut down and disconnected instead.
 
 **Scope boundary:** These experiences may happen in some people with FND, but **anger and irritability are not diagnostic signs of FND**. Research has looked at emotional processing in FND, but it does not show one emotional pattern that applies to everyone or prove that emotional difficulty caused an individual's FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For the Person With FND
 
@@ -35,7 +35,7 @@ For example, you may be able to handle a difficult conversation on a fairly good
 
 ### This does not mean “FND made me angry”
 
-Researchers have studied how people with FND notice, feel and respond to emotions. Some studies have found differences when groups of people with FND are compared with other groups. That tells us emotion is worth studying. It does **not** tell us that everyone with FND has trouble managing emotions, that anger is an FND symptom, or that emotion caused a particular person's FND. (*citation* [1](#citation-1))
+Researchers have studied how people with FND notice, feel and respond to emotions. Some studies have found differences when groups of people with FND are compared with other groups. That tells us emotion is worth studying. It does **not** tell us that everyone with FND has trouble managing emotions, that anger is an FND symptom, or that emotion caused a particular person's FND. (*citations* [1](#citation-1))
 
 Researchers also study how attention, body signals, emotions and the feeling of being in control of an action may interact. These ideas are still being worked out. They are not tests that can tell a person why their FND began. (*citations* [2](#citation-2), [3](#citation-3))
 
@@ -57,11 +57,11 @@ If much of your available capacity is already being used by pain, symptoms or se
 
 That can help explain a lower threshold. It still does not tell us which one thing caused it.
 
-If irritability or emotional intensity changed after starting, reducing or stopping a medication or substance, tell the prescriber or appropriate clinician. Do not assume the change is simply FND.
+If irritability or emotional intensity changed around a medication or substance change, ask the prescriber or appropriate clinician to review it. Do not stop or change prescribed medication on your own. New or substantially changed problems deserve assessment rather than an automatic FND explanation. (*citations* [5](#citation-5))
 
 ### Notice the earlier signs, not just the explosion
 
-The easiest time to change course is often **before** you are fully overwhelmed.
+If you have recognizable early signs, acting before you are fully overwhelmed may be easier. Some episodes arrive without useful warning; that is not a failure to notice or try.
 
 Your early signs may be physical: a tight jaw, heat, shaking, faster breathing or pacing.
 
@@ -69,7 +69,7 @@ They may be thinking changes: losing words, not being able to follow what someon
 
 They may be emotional: suddenly feeling trapped, attacked, desperate to leave or far angrier than the situation seemed to deserve a few minutes earlier.
 
-You do not need to monitor yourself every minute. The aim is simply to learn one or two signs that tell you, “I am getting close to my limit.”
+You do not need to monitor yourself every minute. If this is useful and does not increase distress, choose one or two signs that tell you, “I am getting close to my limit.”
 
 ### What is a boundary?
 
@@ -191,12 +191,12 @@ Immediate help may be needed when there is danger to you or someone else.
 
 #### If you pause a difficult conversation, what would make it easier to return to it later?
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For Family, Friends, and Other Supporters
 
@@ -226,12 +226,12 @@ Both people should be able to say, “Not now,” “I need space,” “I need 
 
 For fuller relationship guidance, see **[Relationships, Intimacy, and Boundaries](../../course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/02-relationships-intimacy-boundaries-and-supporter-wellbeing.md)**.
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For Clinicians and the Care Team
 
@@ -258,7 +258,7 @@ A severe new change in behaviour should prompt proportionate medical and psychia
 
 ### Match treatment to the actual target
 
-Psychological treatment may be useful when the person wants help with emotion regulation, trauma, anxiety, depression, symptom fear, coping or interpersonal consequences. That does not mean psychotherapy is required to validate the FND diagnosis, nor does improvement with therapy prove a psychological cause. (*citation* [4](#citation-4))
+Psychological treatment may be useful when the person wants help with emotion regulation, trauma, anxiety, depression, symptom fear, coping or interpersonal consequences. That does not mean psychotherapy is required to validate the FND diagnosis, nor does improvement with therapy prove a psychological cause. (*citations* [4](#citation-4))
 
 Occupational, rehabilitation, neurological and primary-care work may also matter when pain, sleep, medication effects, sensory load or activity demands are major contributors.
 
@@ -266,35 +266,62 @@ The aim is not compulsory calmness. A better target may be earlier recognition, 
 
 Boundary-setting and pause-and-return examples on this page are general communication and safety tools. They should not be presented as a tested FND treatment.
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## Research and Sources
 
+The scripts, reflection questions and everyday planning examples are project suggestions. They are not diagnostic criteria, prevalence findings or a tested treatment programme.
+
 ### What the evidence can and cannot support
 
-Pick and colleagues reviewed research on emotional processing in FND and proposed a biopsychosocial research model. The literature included multiple emotional domains and varied methods. It supports studying emotion as one potentially relevant system, not treating anger, irritability or emotional dysregulation as universal FND symptoms or proven causes. (*citation* [1](#citation-1))
+Pick and colleagues reviewed research on emotional processing in FND and proposed a biopsychosocial research model. The literature included multiple emotional domains and varied methods. It supports studying emotion as one potentially relevant system, not treating anger, irritability or emotional dysregulation as universal FND symptoms or proven causes. (*citations* [1](#citation-1))
 
 Broader FND mechanism reviews discuss interactions among emotion, salience, attention, interoception, agency and motor control. These are research frameworks rather than individual diagnostic biomarkers. (*citations* [2](#citation-2), [3](#citation-3))
 
-Psychological-management guidance supports individualized treatment targets and attention to comorbidity without requiring a psychological stressor to establish FND. (*citation* [4](#citation-4))
+Psychological-management guidance supports individualized treatment targets and attention to comorbidity without requiring a psychological stressor to establish FND. (*citations* [4](#citation-4))
 
 The practical boundary-setting examples on this page are general relationship and safety guidance. They have not been presented here as an FND-specific evidence-based treatment.
 
-| Citation | Full citation |
-|---|---|
-| <a id="citation-1"></a>**[1]** | Pick S, Goldstein LH, Perez DL, Nicholson TR. Emotional processing in functional neurological disorder: a review, biopsychosocial model and research agenda. *Journal of Neurology, Neurosurgery & Psychiatry*. 2019;90(6):704–711. [FND-CIT-0005](../../research/citation-index.md#fnd-cit-0005). [https://doi.org/10.1136/jnnp-2018-319201](https://doi.org/10.1136/jnnp-2018-319201) |
-| <a id="citation-2"></a>**[2]** | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) |
-| <a id="citation-3"></a>**[3]** | Drane DL, Fani N, Hallett M, Khalsa SS, Perez DL, Roberts NA. A framework for understanding the pathophysiology of functional neurological disorder. *CNS Spectrums*. 2021;26(6):555–561. [FND-CIT-0006](../../research/citation-index.md#fnd-cit-0006). [https://doi.org/10.1017/S1092852920001789](https://doi.org/10.1017/S1092852920001789) |
-| <a id="citation-4"></a>**[4]** | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
+### Short source excerpts
 
-*Page created: October 2, 2026 · Plain-language and boundaries revision: October 2, 2026 · Clinical, lived-experience and accessibility review pending*
+These excerpts are evidence notes. The explanations and study limits below matter more than a phrase read on its own.
+
+> “need for replication of existing findings”
+
+*Figure 1*
+
+Pick and colleagues, abstract: group findings need confirmation. (*citations* [1](#citation-1))
+
+> “there is more work to be done”
+
+*Figure 2*
+
+Drane and colleagues, abstract: the mechanism framework includes substantial uncertainty. (*citations* [3](#citation-3))
+
+> “A matched care model”
+
+*Figure 3*
+
+British Psychological Society, recommendations, page 6: a briefing about psychological services recommends matching their range to individual need within a neurological care pathway. (*citations* [4](#citation-4))
+
+| Citation | Full citation | What it supports and its limits | Figure |
+|---|---|---|---|
+| <a id="citation-1"></a>**[1]** | Pick S, Goldstein LH, Perez DL, Nicholson TR. Emotional processing in functional neurological disorder: a review, biopsychosocial model and research agenda. *Journal of Neurology, Neurosurgery & Psychiatry*. 2019;90(6):704–711. [FND-CIT-0005](../../research/citation-index.md#fnd-cit-0005). [https://doi.org/10.1136/jnnp-2018-319201](https://doi.org/10.1136/jnnp-2018-319201) | Emotional-processing review; not evidence that everyone with FND is irritable. | 1 |
+| <a id="citation-2"></a>**[2]** | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) | Clinical review; mechanisms remain heterogeneous. | — |
+| <a id="citation-3"></a>**[3]** | Drane DL, Fani N, Hallett M, Khalsa SS, Perez DL, Roberts NA. A framework for understanding the pathophysiology of functional neurological disorder. *CNS Spectrums*. 2021;26(6):555–561. [FND-CIT-0006](../../research/citation-index.md#fnd-cit-0006). [https://doi.org/10.1017/S1092852920001789](https://doi.org/10.1017/S1092852920001789) | Proposed framework; not a personal causal explanation. | 2 |
+| <a id="citation-4"></a>**[4]** | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) | Professional guidance; individualized care, not a treatment trial. | 3 |
+| <a id="citation-5"></a>**[5]** | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) | Clinical review; comorbidity and diagnostic safety. | — |
+
+*Page created: October 2, 2026 · Source verification and editorial revision: October 3, 2026 · Plain-language and boundaries revision: October 2, 2026 · Clinical, lived-experience and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
+**Previous:** [← Biopsychosocial Experiences Associated with FND](README.md)
+
 **Continue:** [Mental Health, Stigma, and Being Believed →](02-mental-health-stigma-and-being-believed.md)
 
 **Related:** [Collection overview](README.md) · [Available Capacity](../../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md) · [Dissociation and Altered Awareness](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/02-dissociation-and-altered-awareness.md) · [Relationships, Intimacy, and Boundaries](../../course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/02-relationships-intimacy-boundaries-and-supporter-wellbeing.md) · [Psychological Treatment Without Blame](../../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md)

@@ -125,8 +125,8 @@ Care-partner evidence in FND is very limited: the functional-seizure survey had 
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Tsamakis K, Papatriantafyllou E, Karavasilis E, et al. Depression and anxiety in caregivers of patients with functional seizures. *Epileptic Disorders*. 2023;25(2):200–207. [FND-CIT-0087](../../../research/citation-index.md#fnd-cit-0087). [https://doi.org/10.1002/epd2.20014](https://doi.org/10.1002/epd2.20014) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Leochico CFG, Speck ER, Mikaelian S, et al. Challenges and care recommendations of persons with functional neurological disorder and care partners: a qualitative study. *Canadian Journal of Neurological Sciences*. Published online July 23, 2026:1–12. [FND-CIT-0082](../../../research/citation-index.md#fnd-cit-0082). [https://doi.org/10.1017/cjn.2026.10629](https://doi.org/10.1017/cjn.2026.10629) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Tsamakis K, Teagarden DL, Villarreal HK, et al. Depression and anxiety in caregivers of patients with functional seizures. *Epileptic Disorders*. 2023;25(2):200–208. [FND-CIT-0087](../../../research/citation-index.md#fnd-cit-0087). [https://doi.org/10.1002/epd2.20014](https://doi.org/10.1002/epd2.20014) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Leochico CFG, Kashif D, Bhatt H, et al. Challenges and care recommendations of persons with functional neurological disorder and care partners: a qualitative study. *Canadian Journal of Neurological Sciences*. Published online July 23, 2026:1–12. [FND-CIT-0082](../../../research/citation-index.md#fnd-cit-0082). [https://doi.org/10.1017/cjn.2026.10629](https://doi.org/10.1017/cjn.2026.10629) |
 
 This page still needs review by people with FND, unpaid supporters, carer organisations, social workers and safeguarding specialists.
 

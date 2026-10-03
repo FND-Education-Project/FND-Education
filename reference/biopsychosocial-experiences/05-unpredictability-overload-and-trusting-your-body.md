@@ -4,18 +4,18 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Biopsychosocial Experiences](README.md) › **Unpredictability, Overload, and Trusting Your Body**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Automatically generated working draft — October 2, 2026.** Clinical, lived-experience and accessibility review pending.
+> **Working draft — created October 2, 2026; source verification revised October 3, 2026.** Clinical, lived-experience and accessibility review pending.
 
 **This page covers:** Fear of what your body may do next, difficulty making plans, sensory and social overload, uncertainty about warning signs, and rebuilding enough trust to participate in life without pretending risk is zero.
 
-**Scope boundary:** Unpredictability and overload can occur in many neurological, medical, psychiatric and neurodevelopmental conditions. They are not diagnostic signs of FND. Sensory overload in particular may have several causes, including migraine, autism, PTSD, fatigue, pain, sleep problems or environmental demands. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+**Scope boundary:** These experiences are not diagnostic signs of FND. Sensory hypersensitivity also occurs with migraine, chronic pain and fatigue; other contributors need individual assessment. (*citations* [4](#citation-4))
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For the Person With FND
 
@@ -95,6 +95,8 @@ It may be the stack.
 
 Reducing one demand can sometimes make the rest manageable.
 
+Sensory guidance includes differing approaches to protection and graded exposure. Agree an individual plan; do not abruptly remove necessary protection or force exposure. (*citations* [4](#citation-4))
+
 ### You do not need to predict everything to make a plan
 
 A plan can be useful even when symptoms remain unpredictable.
@@ -168,6 +170,8 @@ try:
 “I will go into one store and see how I am doing.”
 
 A planned exit can make participation possible.
+
+If activity causes delayed or prolonged worsening, tell your team before increasing it. Use the site’s [pacing guidance](../../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md) to discuss an appropriate plan.
 
 It is not failure to use it.
 
@@ -245,12 +249,12 @@ Use the smallest amount of monitoring that actually improves safety.
 
 #### What would make one meaningful activity feel safer without requiring a guarantee that symptoms will not happen?
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For Family, Friends, and Other Supporters
 
@@ -312,12 +316,12 @@ For familiar events, use the agreed response where one exists.
 
 For new or clearly changed symptoms, seek appropriate medical advice rather than assuming the event is FND.
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For Clinicians and the Care Team
 
@@ -373,31 +377,57 @@ A safety plan should distinguish familiar symptoms from changes that need review
 
 Avoid both repeated unnecessary emergency escalation and automatic dismissal of new symptoms.
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## Research and Sources
 
+The scripts, reflection questions and everyday planning examples are project suggestions. They are not diagnostic criteria, prevalence findings or a tested treatment programme.
+
 Qualitative studies describe uncertainty, altered agency, isolation, day-to-day burden and the effort of continuing meaningful life with FND. They support treating unpredictability as an important lived issue, but they do not establish one fear or avoidance pattern for all people. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
-Occupational-therapy consensus supports individualized environmental adaptation, activity planning and participation. It does not validate one universal “overload” mechanism or one exposure programme. (*citation* [4](#citation-4))
+Occupational-therapy recommendations are expert consensus, not trials of a universal overload or exposure programme. (*citations* [4](#citation-4))
 
-The evidence for severe multisensory overload as a distinct FND-specific phenomenon remains limited. Other diagnoses and contributors should be considered where relevant.
+These sources do not establish severe multisensory overload as a distinct FND-specific phenomenon. Other diagnoses and contributors should be considered where relevant. The practical planning examples are project suggestions, not a tested FND treatment protocol.
 
-| Citation | Full citation |
-|---|---|
-| <a id="citation-1"></a>**[1]** | Szasz A, Korner A, McLean L. Qualitative systematic review on the lived experience of functional neurological disorder (FND): an epistemological and ontological analysis. *BMJ Neurology Open*. 2025;7(1):e000694. [FND-CIT-0080](../../research/citation-index.md#fnd-cit-0080). [https://doi.org/10.1136/bmjno-2024-000694](https://doi.org/10.1136/bmjno-2024-000694) |
-| <a id="citation-2"></a>**[2]** | Gatherer C, Garip G. “Look for Glimmers Instead of Triggers”: a qualitative exploration of the lived experiences of people with functional neurological disorder (FND). *Psychological Reports*. Published online June 15, 2025. [FND-CIT-0086](../../research/citation-index.md#fnd-cit-0086). [https://doi.org/10.1177/00332941251351234](https://doi.org/10.1177/00332941251351234) |
-| <a id="citation-3"></a>**[3]** | Pritomanova I, et al. The journey to diagnosis and care of functional neurological disorder. *PLOS ONE*. 2026;21(4):e0328321. [FND-CIT-0088](../../research/citation-index.md#fnd-cit-0088). [https://doi.org/10.1371/journal.pone.0328321](https://doi.org/10.1371/journal.pone.0328321) |
-| <a id="citation-4"></a>**[4]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+### Short source excerpts
 
-*Page created: October 2, 2026 · Clinical, lived-experience and accessibility review pending*
+These excerpts are evidence notes. The explanations and study limits below matter more than a phrase read on its own.
+
+> “the burden of FND in day-to-day life”
+
+*Figure 1*
+
+Pritomanova and colleagues, abstract: one interview theme, not a universal symptom pattern. (*citations* [3](#citation-3))
+
+> “trust versus mistrust”
+
+*Figure 2*
+
+Szasz and colleagues, abstract: a theme about living with FND. (*citations* [1](#citation-1))
+
+> “not unique to FND”
+
+*Figure 3*
+
+Nicholson and colleagues, “Hypersensitivity” section: sensory hypersensitivity also occurs in other conditions. (*citations* [4](#citation-4))
+
+| Citation | Full citation | What it supports and its limits | Figure |
+|---|---|---|---|
+| <a id="citation-1"></a>**[1]** | Szasz A, Korner A, McLean L. Qualitative systematic review on the lived experience of functional neurological disorder. *BMJ Neurology Open*. 2025;7(1):e000694. [FND-CIT-0080](../../research/citation-index.md#fnd-cit-0080). [https://doi.org/10.1136/bmjno-2024-000694](https://doi.org/10.1136/bmjno-2024-000694) | Eight-paper qualitative synthesis; themes are not universal experiences. | 2 |
+| <a id="citation-2"></a>**[2]** | Gatherer C, Garip G. “Look for Glimmers Instead of Triggers”: An Exploration Into the Lived Experiences of Functional Neurological Disorder Using Interpretative Phenomenological Analysis. *Psychological Reports*. Published online June 15, 2025. [FND-CIT-0086](../../research/citation-index.md#fnd-cit-0086). [https://doi.org/10.1177/00332941251351234](https://doi.org/10.1177/00332941251351234) | 12 UK interviewees recruited through charity social media; selection limits. | — |
+| <a id="citation-3"></a>**[3]** | Pritomanova I, Cope SR, James B, et al. The journey to diagnosis and care of functional neurological disorder (FND). *PLOS ONE*. 2026;21(4):e0328321. [FND-CIT-0088](../../research/citation-index.md#fnd-cit-0088). [https://doi.org/10.1371/journal.pone.0328321](https://doi.org/10.1371/journal.pone.0328321) | 18 interviewees recruited through a feasibility trial; context limits transferability. | 1 |
+| <a id="citation-4"></a>**[4]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) | Expert consensus; differing sensory approaches, not a validated universal exposure programme. | 3 |
+
+*Page created: October 2, 2026 · Source verification and editorial revision: October 3, 2026 · Clinical, lived-experience and accessibility review pending*
 
 <!-- NAV-CONTEXT:START -->
+**Previous:** [← Guilt, Dependence, and Receiving Help](04-guilt-dependence-and-receiving-help.md)
+
 **Continue:** [Recovery Pressure, Self-Blame, and Feeling Like You Are Failing →](06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md)
 
 **Related:** [Available Capacity](../../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md) · [Medical Safety and New Symptoms](../../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md) · [Daily Living and Accessibility](../../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md)
