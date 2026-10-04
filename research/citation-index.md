@@ -149,6 +149,8 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0251](#fnd-cit-0251) | ASHA procedure guidance | Professional procedure guidance | Swallowing assessment and limits | [Swallowing/globus diagnosis](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md) |
 | [FND-CIT-0252](#fnd-cit-0252) | Lu et al., 2022 | Selected oesophageal referral cohort; abstract reviewed | Swallowing assessment and limits | [Swallowing/globus diagnosis](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md) |
 | [FND-CIT-0253](#fnd-cit-0253) | NHS safety guidance | Public safety guidance | Swallowing assessment and limits | [Swallowing/globus diagnosis](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md) |
+| [FND-CIT-0254](#fnd-cit-0254) | Parker et al., 2023 | Adult chronic-cough clinical statement | Cough/upper-airway assessment and limits | [Cough diagnosis](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) |
+| [FND-CIT-0255](#fnd-cit-0255) | Leong et al., 2023 | International Delphi consensus; abstract reviewed | Cough/upper-airway assessment and limits | [Cough diagnosis](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) |
 
 ## Functional speech and voice detailed-page citation use map
 
@@ -2255,3 +2257,27 @@ Checked October 3, 2026. New IDs 0248–0253; older Rome IV source retained for 
 | [functional_swallowing_and_globus/02-fees-and-videofluoroscopy.md](../reference/diagnostic-signs/functional_swallowing_and_globus/02-fees-and-videofluoroscopy.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0115](#fnd-cit-0115), [FND-CIT-0250](#fnd-cit-0250), [FND-CIT-0251](#fnd-cit-0251) |
 | [functional_swallowing_and_globus/03-globus-and-oesophageal-criteria.md](../reference/diagnostic-signs/functional_swallowing_and_globus/03-globus-and-oesophageal-criteria.md) | [FND-CIT-0164](#fnd-cit-0164), [FND-CIT-0248](#fnd-cit-0248), [FND-CIT-0249](#fnd-cit-0249) |
 | [functional_swallowing_and_globus/technique-inventory.md](../reference/diagnostic-signs/functional_swallowing_and_globus/technique-inventory.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0115](#fnd-cit-0115), [FND-CIT-0164](#fnd-cit-0164) |
+
+## FND-CIT-0254
+
+Parker SM, Smith JA, Birring SS, et al. British Thoracic Society Clinical Statement on chronic cough in adults. *Thorax*. 2023;78(Suppl 6):s3–s19. [DOI](https://doi.org/10.1136/thorax-2023-220592).
+
+Publisher metadata and accepted manuscript checked, including adult scope, systematic assessment and life impact. Broad respiratory guidance, not FND-specific validation. Checked October 4, 2026.
+
+## FND-CIT-0255
+
+Leong P, Vertigan AE, Hew M, et al. Diagnosis of vocal cord dysfunction/inducible laryngeal obstruction: An International Delphi Consensus Study. *Journal of Allergy and Clinical Immunology*. 2023;152(4):899–906. [DOI](https://doi.org/10.1016/j.jaci.2023.06.007).
+
+PubMed abstract and metadata checked. Forty-seven experts, two rounds; consensus rather than diagnostic-accuracy estimates. Full-text methodological appraisal pending. Checked October 4, 2026.
+
+## Functional cough and upper-airway diagnostic expansion source-use map
+
+Checked October 4, 2026. New stable IDs 0254–0255.
+
+| Page | Stable sources |
+|---|---|
+| [11-functional-cough-and-upper-airway-symptoms.md](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0129](#fnd-cit-0129), [FND-CIT-0147](#fnd-cit-0147), [FND-CIT-0110](#fnd-cit-0110), [FND-CIT-0254](#fnd-cit-0254), [FND-CIT-0255](#fnd-cit-0255) |
+| [functional_cough_and_upper_airway_symptoms/01-clinical-cough-assessment.md](../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/01-clinical-cough-assessment.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0254](#fnd-cit-0254), [FND-CIT-0129](#fnd-cit-0129) |
+| [functional_cough_and_upper_airway_symptoms/02-tic-and-somatic-cough-assessment.md](../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/02-tic-and-somatic-cough-assessment.md) | [FND-CIT-0129](#fnd-cit-0129), [FND-CIT-0110](#fnd-cit-0110) |
+| [functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md](../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md) | [FND-CIT-0147](#fnd-cit-0147), [FND-CIT-0255](#fnd-cit-0255) |
+| [functional_cough_and_upper_airway_symptoms/technique-inventory.md](../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/technique-inventory.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0129](#fnd-cit-0129), [FND-CIT-0147](#fnd-cit-0147) |

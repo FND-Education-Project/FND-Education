@@ -341,6 +341,10 @@ Use the sections below to drill down into the course, reference library, researc
 - [Globus and Oesophageal Diagnostic Criteria](reference/diagnostic-signs/functional_swallowing_and_globus/03-globus-and-oesophageal-criteria.md)
 - [Swallowing and Globus Diagnostic Inventory](reference/diagnostic-signs/functional_swallowing_and_globus/technique-inventory.md)
 - [Functional Cough and Upper-Airway Symptoms](reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md)
+- [Clinical Cough Assessment](reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/01-clinical-cough-assessment.md)
+- [Tic and Somatic Cough Assessment](reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/02-tic-and-somatic-cough-assessment.md)
+- [Laryngoscopy and Upper-Airway Assessment](reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md)
+- [Cough and Upper-Airway Diagnostic Inventory](reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/technique-inventory.md)
 - [Functional Cognitive Disorder](reference/diagnostic-signs/12-functional-cognitive-disorder.md)
 - [Persistent Postural-Perceptual Dizziness](reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md)
 - [Functional Facial Symptoms — Spasm, Droop and Weakness](reference/diagnostic-signs/14-functional-facial-symptoms.md)
@@ -798,3 +802,5 @@ Use the sections below to drill down into the course, reference library, researc
 - [Speech and voice diagnostic expansion record](docs/project/functional-speech-voice-diagnostic-expansion.md)
 
 - [Swallowing and globus diagnostic expansion record](docs/project/functional-swallowing-diagnostic-expansion.md)
+
+- [Cough and upper-airway diagnostic expansion record](docs/project/functional-cough-diagnostic-expansion.md)

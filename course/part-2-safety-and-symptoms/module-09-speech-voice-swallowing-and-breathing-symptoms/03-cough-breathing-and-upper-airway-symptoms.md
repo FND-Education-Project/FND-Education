@@ -123,6 +123,8 @@ When positive functional features support the diagnosis, demonstrate them respec
 
 **Recovery reading:** [Ten detailed cough and upper-airway recovery pages](../../../reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/README.md), with individualized safety limits and separate guidance for the person, supporters and clinicians.
 
+**Further reading in the Reference Library:** [Clinical Cough Assessment](../../../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/01-clinical-cough-assessment.md) · [Tic and Somatic Cough Assessment](../../../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/02-tic-and-somatic-cough-assessment.md) · [Laryngoscopy and Upper-Airway Assessment](../../../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md)
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Communication Access When Speech or Voice Is Difficult](04-communication-access-when-speech-or-voice-is-difficult.md)
 
