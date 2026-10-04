@@ -114,3 +114,5 @@ The structure may change as the project develops. Priorities are predictable nav
 **September 28 diagnostic update:** [Functional jerks expansion](functional-jerks-diagnostic-expansion.md) adds the symptom overview, a separate EEG–EMG assessment and the preserved nine-entry inventory. Human/clinical review and remaining individual technique expansions are pending.
 
 **September 29 diagnostic update:** [Functional dystonia expansion](functional-dystonia-diagnostic-expansion.md) adds the revised overview, combined pattern-based assessment, preserved ten-entry baseline and one dated research addition. Current diagnostic catalogue: 171 entries; human/clinical review and remaining individual expansions are pending.
+
+**October 4 diagnostic update:** [FCD diagnostic and measurement expansion](functional-cognitive-diagnostic-expansion.md) preserves eight original entries and adds one dated preliminary classifier. Current catalogue: 172 entries; historical baseline: 170. Outcome tools are separate from diagnostic-sign counts.

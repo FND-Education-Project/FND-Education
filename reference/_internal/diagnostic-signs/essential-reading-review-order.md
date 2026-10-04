@@ -946,6 +946,12 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 **Page to review:** [Functional Cognitive Disorder](../../diagnostic-signs/12-functional-cognitive-disorder.md)
 
+
+
+**Expanded reading path:** [Internal Inconsistency and Clinical Assessment](../../diagnostic-signs/functional_cognitive_disorder/01-internal-inconsistency-and-clinical-assessment.md) → [Neuropsychological Assessment and Validity](../../diagnostic-signs/functional_cognitive_disorder/02-neuropsychological-assessment-and-validity.md) → [Everyday Function and Occupational Therapy Measurement](../../diagnostic-signs/functional_cognitive_disorder/03-everyday-function-and-ot-measurement.md) → [FCD Diagnostic Models and Checklists](../../diagnostic-signs/functional_cognitive_disorder/04-diagnostic-models-and-checklists.md) → [Functional Cognitive Disorder Diagnostic Inventory](../../diagnostic-signs/functional_cognitive_disorder/technique-inventory.md).
+
+**October 4 update:** Diagnostic reasoning and everyday measurement are separate. Original eight entries preserved; FCD-Q8 is a dated research addition. Full-text Ball/Cabreira and Q8 methods/results were checked; risk-model and EFPT-study appraisal remains abstract-level. Clinical and human review remains pending.
+
 ### Read first — symptom-level evidence
 
 - [ ] McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. [https://doi.org/10.1017/S1092852921000845](https://doi.org/10.1017/S1092852921000845)
@@ -988,6 +994,16 @@ Read the definition as a proposal, the CODES findings as associations, the White
 #### Longitudinal assessment and investigations
 
 - [ ] Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain : a journal of neurology*. 2020;143(10):2895-2903. DOI. PMID: 32791521.
+
+### Measurement tools and dated research addition
+
+- [ ] Nicholson et al., 2020. Occupational therapy consensus recommendations for FND. FND-CIT-0011 (see earlier linked source).
+- [ ] Canadian Occupational Performance Measure. Learn to Use the COPM. [Official administration overview](https://www.thecopm.ca/learn/). Accessed October 4, 2026. Official measure-owner guidance; patient-rated performance and satisfaction, not FCD validation.
+- [ ] Washington University Program in Occupational Therapy. Executive Function Performance Test (EFPT). [Official resources and manual access](https://www.ot.wustl.edu/about/resources/executive-function-performance-test-efpt-308). Accessed October 4, 2026. Developer resource page checked. Public-domain access and manual/training route; not FCD-specific validation.
+- [ ] PhenX Toolkit. Protocol: Cognitive Function (320301). PROMIS Cognitive Function v2.0, Short Form 6a. [Protocol and scoring guidance](https://www.phenxtoolkit.org/protocols/view/320301). Accessed October 4, 2026. Protocol checked directly; patient-perceived cognition, seven-day recall and version-specific T-score interpretation. No FCD-specific change threshold established here.
+- [ ] Alberta Health Services, Provincial Occupational Therapy Practice Council. Occupational Therapy Clinical Guide for Activities of Daily Living & Functional Cognition in Adult Acute Care. 2022. [Clinical guide](https://www.albertahealthservices.ca/assets/info/hp/hpsp/if-hp-hpsp-ot-adl-and-functional-cognition-adult-acute-care-clinical-guide.pdf). Accessed October 4, 2026. Clinical guide checked directly. Adjacent adult acute-care guidance on functional cognition and occupation-based assessment; not an FCD diagnostic standard.
+- [ ] García-Roldán E, Almodóvar-Sierra Á, Luque-Tirado A, et al. Preliminary Validation of the FCD-Q8 Tool in Functional Cognitive Disorder and Early Alzheimer's Disease: A Biomarker-Verified Case–Control Study. *European Journal of Neurology*. 2025;32(11):e70383. [DOI](https://doi.org/10.1111/ene.70383). Publisher methods/results/limitations checked. Selected single-centre phase 1 case-control study, 34 FCD and 44 early Alzheimer cases; requires broader prospective validation.
+- [ ] Baum CM, Connor LT, Morrison T, Hahn M, Dromerick AW, Edwards DF. Reliability, validity, and clinical utility of the Executive Function Performance Test: a measure of executive function in a sample of people with stroke. *American Journal of Occupational Therapy*. 2008;62(4):446–455. [DOI](https://doi.org/10.5014/ajot.62.4.446). Institutional abstract and metadata checked; 73 stroke participants and 22 controls. Full-text appraisal pending; does not establish FCD validity.
 
 ### Review completion
 

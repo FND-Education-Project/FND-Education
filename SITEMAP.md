@@ -346,6 +346,11 @@ Use the sections below to drill down into the course, reference library, researc
 - [Laryngoscopy and Upper-Airway Assessment](reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md)
 - [Cough and Upper-Airway Diagnostic Inventory](reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/technique-inventory.md)
 - [Functional Cognitive Disorder](reference/diagnostic-signs/12-functional-cognitive-disorder.md)
+- [Internal Inconsistency and Clinical Assessment](reference/diagnostic-signs/functional_cognitive_disorder/01-internal-inconsistency-and-clinical-assessment.md)
+- [Neuropsychological Assessment and Validity](reference/diagnostic-signs/functional_cognitive_disorder/02-neuropsychological-assessment-and-validity.md)
+- [Everyday Function and Occupational Therapy Measurement](reference/diagnostic-signs/functional_cognitive_disorder/03-everyday-function-and-ot-measurement.md)
+- [FCD Diagnostic Models and Checklists](reference/diagnostic-signs/functional_cognitive_disorder/04-diagnostic-models-and-checklists.md)
+- [Functional Cognitive Disorder Diagnostic Inventory](reference/diagnostic-signs/functional_cognitive_disorder/technique-inventory.md)
 - [Persistent Postural-Perceptual Dizziness](reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md)
 - [Functional Facial Symptoms — Spasm, Droop and Weakness](reference/diagnostic-signs/14-functional-facial-symptoms.md)
 - [Functional Paralysis](reference/diagnostic-signs/15-functional-paralysis.md)
@@ -804,3 +809,5 @@ Use the sections below to drill down into the course, reference library, researc
 - [Swallowing and globus diagnostic expansion record](docs/project/functional-swallowing-diagnostic-expansion.md)
 
 - [Cough and upper-airway diagnostic expansion record](docs/project/functional-cough-diagnostic-expansion.md)
+
+- [FCD diagnostic and measurement expansion record](docs/project/functional-cognitive-diagnostic-expansion.md)

@@ -174,6 +174,8 @@ Keep useful notes, pictures or spoken cues available with permission. A supporte
 
 ## For Clinicians and the Care Team
 
+**Assessment and measurement:** [Clinical diagnostic reasoning](diagnostic-signs/functional_cognitive_disorder/01-internal-inconsistency-and-clinical-assessment.md) · [Everyday function, OT tools and review planning](diagnostic-signs/functional_cognitive_disorder/03-everyday-function-and-ot-measurement.md).
+
 Separate complaint, process-level hypothesis, observed impairment and diagnosis. Assess relevant domains rather than assuming a verbal-memory complaint: encoding, working memory, retention/retrieval, language, person knowledge/name access, recognition/familiarity, visual or nonverbal memory, visuospatial function, imagery, executive demands and cognitive communication as indicated. An imagery report is not interchangeable with visuospatial task performance. New face-recognition or imagery symptoms require a differential formulation, not inclusion as additional positive FCD signs. (*citations* [1](#citation-1), [3](#citation-3), [7](#citation-7))
 
 Demonstrate internal inconsistency within the relevant domain, accounting for cueing, load, fatigue and task demands. Explain uncertainty without equating variability with voluntary control. Review coexisting neurological, sensory, developmental, psychiatric, sleep, medication and systemic factors proportionately.

@@ -66,6 +66,8 @@ During a familiar flare, use one speaker and one idea at a time. Give processing
 
 ## For Clinicians and the Care Team
 
+**Measuring the starting point and change:** [Everyday function and OT measurement](../../diagnostic-signs/functional_cognitive_disorder/03-everyday-function-and-ot-measurement.md) distinguishes patient-rated outcomes, observed task performance and diagnosis.
+
 Use an individualized interdisciplinary formulation and ecological goals; clarify the respective roles of restorative work, compensation and access. A therapist-guided FCD workbook has an early development report with feedback from only two people. It is not an efficacy trial and does not validate all cognitive rehabilitation. Agree review criteria, monitor adverse effects and coordinate ongoing medical assessment. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 Agree a written next step, accessible prompts and a review point. Assess symptom burden, daily function, support needs and adverse effects. FCD is a positive clinical diagnosis; normal tests alone, a good moment or the response to an exercise cannot establish it. Practical assistance should continue when symptom improvement is limited. See the [paired diagnostic page](../../diagnostic-signs/12-functional-cognitive-disorder.md).
