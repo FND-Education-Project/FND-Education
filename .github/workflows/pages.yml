@@ -39,6 +39,11 @@ jobs:
           ruby-version: "3.3"
           bundler-cache: true
 
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+
       - name: Prepare website source
         run: python tools/site/prepare_site.py
 
@@ -49,6 +54,16 @@ jobs:
         run: bundle exec jekyll build --source web --destination _site
         env:
           JEKYLL_ENV: production
+
+      - name: Apply reviewed subject search metadata
+        run: |
+          python tools/search/build_subject_metadata.py \
+            --site _site \
+            --cache-only \
+            --report /tmp/fnd-search-subject-report.json
+
+      - name: Build Pagefind search index
+        run: npx --yes pagefind@1.5.2 --site _site
 
       - name: Validate built artifact
         run: python tools/site/validate.py --built-site _site

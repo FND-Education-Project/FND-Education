@@ -11,6 +11,34 @@
 
 document.addEventListener("DOMContentLoaded", () => {
 
+  /*
+   * Keep site-wide search terms out of the HTTP request URL when JavaScript
+   * is available. URL fragments are handled only by the browser and are not
+   * sent to the web server. The normal GET form remains a no-JavaScript
+   * fallback so search navigation still works without scripting.
+   */
+  for (const form of document.querySelectorAll(".site-search-form")) {
+    form.addEventListener("submit", (event) => {
+      const input = form.querySelector('input[name="q"]');
+      const query = input ? input.value.trim() : "";
+
+      if (!query) {
+        return;
+      }
+
+      event.preventDefault();
+
+      const target = new URL(
+        form.getAttribute("action") || "/search/",
+        window.location.href
+      );
+
+      target.search = "";
+      target.hash = "q=" + encodeURIComponent(query);
+      window.location.assign(target.toString());
+    });
+  }
+
   const returnToTopButton =
     document.getElementById("return-to-top");
 

@@ -29,3 +29,8 @@ web/assets/puzzles/
 web/sitemap/*
 web/sitemap.xml
 web/robots.txt
+
+# Local Python/search diagnostics
+__pycache__/
+*.py[cod]
+subject-search-report.json
