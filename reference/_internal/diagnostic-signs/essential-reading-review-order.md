@@ -887,9 +887,18 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 **Page to review:** [Functional Cough and Upper-Airway Symptoms](../../diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md)
 
+
+
+**Expanded reading path:** [Clinical Cough Assessment](../../diagnostic-signs/functional_cough_and_upper_airway_symptoms/01-clinical-cough-assessment.md) → [Tic and Somatic Cough Assessment](../../diagnostic-signs/functional_cough_and_upper_airway_symptoms/02-tic-and-somatic-cough-assessment.md) → [Laryngoscopy and Upper-Airway Assessment](../../diagnostic-signs/functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md) → [Cough and Upper-Airway Diagnostic Inventory](../../diagnostic-signs/functional_cough_and_upper_airway_symptoms/technique-inventory.md).
+
+**Evidence update — October 4, 2026:** Original seven entries preserved. CHEST recommendations and limitations and the UK ILO statement were checked directly; the newer ILO Delphi abstract was checked. Baker/Stone remains the main functional framework; respiratory hypersensitivity, tic/somatic criteria and ILO are kept distinct. Human review remains pending.
+
 ### Read first — symptom-level evidence
 
 - [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. https://doi.org/10.1136/jnnp-2021-326767
+
+- [ ] Parker SM, Smith JA, Birring SS, et al. British Thoracic Society Clinical Statement on chronic cough in adults. *Thorax*. 2023;78(Suppl 6):s3–s19. [DOI](https://doi.org/10.1136/thorax-2023-220592).
+- [ ] Leong P, Vertigan AE, Hew M, et al. Diagnosis of vocal cord dysfunction/inducible laryngeal obstruction: An International Delphi Consensus Study. *Journal of Allergy and Clinical Immunology*. 2023;152(4):899–906. [DOI](https://doi.org/10.1016/j.jaci.2023.06.007).
 
 ### Technique / inventory review order
 

@@ -4,7 +4,7 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Cough and Upper-Airway Symptoms**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Automatically generated working draft — October 4, 2026.** Human, respiratory, ENT, speech-language pathology, lived-experience and accessibility review pending.
 
 **Refers to:**
 
@@ -18,9 +18,9 @@
 
 **Presentation:** Identify a positive symptom pattern while assessing respiratory, laryngeal, medication-related and other causes; there is no single decisive bedside sign.
 
-- [Tic-cough assessment](#tic-cough-assessment) — assess a possible tic-related pattern.
-- [Laryngoscopy during typical airway symptoms](#laryngoscopy-during-typical-airway-symptoms) — examine the larynx in the relevant clinical context.
-- [Respiratory and other differential testing](#respiratory-and-other-differential-testing) — investigate competing or coexisting causes.
+- [Tic-cough assessment](functional_cough_and_upper_airway_symptoms/02-tic-and-somatic-cough-assessment.md) — assess a possible tic-related pattern.
+- [Laryngoscopy during typical airway symptoms](functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md) — examine the larynx in the relevant clinical context.
+- [Respiratory and other differential testing](functional_cough_and_upper_airway_symptoms/01-clinical-cough-assessment.md) — investigate competing or coexisting causes.
 
 **More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
@@ -33,11 +33,23 @@
 
 ## For the Person With FND
 
+You may find yourself coughing repeatedly, clearing your throat again and again, or noticing throat tightness, a changed voice or difficulty getting air in during an episode. These descriptions help you decide whether this page is relevant; they do not identify the cause.
+
 Functional cough and related upper-airway symptoms may include a repeated cough, throat clearing, unusual breathing or laryngeal symptoms that are not fully explained by structural disease. This page follows a speech-and-language-therapy consensus category; it does not claim that every persistent cough is FND.
 
 The assessment looks at the whole pattern: onset, triggers, sound, timing, breathing, voice, speaking, sleep and what happens during different tasks. Depending on the symptom, respiratory testing, ear-nose-throat examination or laryngoscopy may be needed. Asthma, infection, reflux, medication effects, inducible laryngeal obstruction and other causes must be considered. (*citations* [1](#citation-1))
 
 There is no single cough sound or response to distraction that confirms a functional diagnosis. New breathing difficulty, blue colour, chest pain, coughing blood or another emergency feature requires urgent care.
+
+### Understanding the different labels
+
+Ask which diagnosis is being considered and what supports it. Cough hypersensitivity, tic cough, somatic cough disorder and inducible laryngeal obstruction (ILO) are different frameworks; a referral to speech-language therapy does not by itself establish FND. Baker and colleagues propose a broad functional framework for laryngeal hypersensitivity, whereas respiratory guidance describes it as a treatable feature across conditions. This page retains that distinction. (*citations* [1](#citation-1), [2](#citation-2), [5](#citation-5))
+
+### Daily life and the limits of a brief assessment
+
+Chronic cough research describes exhaustion, discomfort, urinary leakage and effects on mood and quality of life. These findings concern chronic cough broadly, not a defined functional-cough population. (*citations* [5](#citation-5))
+
+Tell the team what happens during meals, conversations, travel, work or school, including recovery time and help you need. A quiet appointment or one successful breathing cue leaves those questions open. Written communication, breaks and changes to the environment can be discussed while assessment continues. These are practical planning prompts, not assumptions about what everyone experiences.
 
 ### Episodes, bouts and persistent symptoms
 
@@ -57,6 +69,8 @@ At the onset of a familiar mild episode, use only the breathing or competing res
 Do not expose the person to scents, smoke, exercise or stressful situations to see whether coughing or breathing changes. Follow the respiratory or speech-therapy plan they have been given. During serious breathing difficulty, prioritize emergency care rather than recording.
 
 It can help to note the context, duration, sound, voice changes and recovery of spontaneous episodes, including whether the symptom occurs during sleep. These observations support clinical history but do not settle the diagnosis.
+
+Ask permission before keeping notes or sharing a recording. Help communicate what an ordinary day is like, including activities the appointment did not sample. Ask who will coordinate respiratory, ENT and speech-language follow-up and when the explanation should be revisited.
 
 ### When a familiar episode begins
 
@@ -79,7 +93,7 @@ A short cough bout and a flare lasting much longer should both be described accu
 
 ### Motor and vocal tic-like symptoms
 
-Throat clearing or cough-like sounds can occur in tic disorders as well as airway conditions. The sound alone cannot identify the cause. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
+Throat clearing or cough-like sounds can occur in tic disorders as well as airway conditions. The sound alone cannot identify the cause. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md). (*citations* [4](#citation-4))
 
 ### Episodic and prolonged presentations
 
@@ -89,24 +103,11 @@ When the phenotype is established, provide a short onset plan using one or two a
 
 ### Technique outline: cough and upper-airway pattern assessment
 
-1. Characterize onset, frequency, sound, known triggers, night-time pattern, voice change, breathing sensation, medication exposure and prior respiratory or laryngeal disease.
-2. Observe quiet breathing, spontaneous speech and any naturally occurring cough or throat clearing. Do not begin by provoking the symptom.
-3. Perform respiratory, voice and neurological examination appropriate to the complaint. Refer for ENT, respiratory, allergy or gastroenterology assessment when indicated.
-4. Use laryngoscopy, pulmonary-function testing or a clinically indicated supervised challenge to answer a defined question. A public media demonstration is not a reason to perform a challenge.
-5. Compare the symptom across ordinary tasks and therapeutic strategies selected by a trained clinician. Look for a reproducible positive pattern, not a single moment of suppression.
-6. Consider asthma, infection, reflux, medication-related cough, tic disorders, inducible laryngeal obstruction, structural laryngeal disease and other relevant alternatives or comorbidities.
-7. Explain the formulation and provide a symptom-management and follow-up plan. Avoid implying that the person should simply suppress the cough.
+The preserved seven-step outline is now in [Clinical Cough Assessment](functional_cough_and_upper_airway_symptoms/01-clinical-cough-assessment.md#performing-the-assessment).
 
 ### Media contributor brief
 
-Prefer a process demonstration using a clinician and healthy volunteer:
-
-1. The history domains shown as on-screen prompts.
-2. Comfortable posture and quiet breathing observation.
-3. A larynx diagram or de-identified laryngoscopy excerpt explaining what is being assessed.
-4. One clinician-selected breathing or cough-management strategy, labelled as treatment rather than diagnosis.
-
-Do not use strong odours, smoke, cold air, exercise or emotional provocation to create symptoms. If a spontaneous clinical episode is included, retain the context and obtain specific consent. Provide captions and a transcript that describe sounds without requiring the audience to hear them.
+The original brief is preserved in [Clinical Cough Assessment: Media and Accessibility](functional_cough_and_upper_airway_symptoms/01-clinical-cough-assessment.md#media-and-accessibility).
 
 ***
 
@@ -122,55 +123,58 @@ Do not use strong odours, smoke, cold air, exercise or emotional provocation to 
 
 These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
 
-The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
+All seven original descriptions and their sources remain in the [preserved inventory](functional_cough_and_upper_airway_symptoms/technique-inventory.md). The three detailed guides group related questions without presenting every entry as a separate validated test.
 
 ### Tic-cough assessment
 
-The clinician considers suppressibility, distractibility, suggestibility, variability and any preceding urge after appropriate cough assessment. CHEST recommendations use a tic framework, supported by low-quality evidence. These features do not automatically classify every cough as an FND symptom. (*citations* [2](#citation-2))
+[Tic-cough assessment](functional_cough_and_upper_airway_symptoms/technique-inventory.md#tic-cough-assessment) — Tic features after medical cough assessment.
 
 ### Somatic cough syndrome criteria
 
-This formulation requires a comprehensive medical assessment and applicable somatic-symptom criteria. It is distinct from tic cough and cannot be diagnosed merely because tests are normal. The guideline found no validated diagnostic criteria for the older cough labels. (*citations* [2](#citation-2))
+[Somatic cough syndrome criteria](functional_cough_and_upper_airway_symptoms/technique-inventory.md#somatic-cough-syndrome-criteria) — A separate clinical criteria framework; normal tests alone are insufficient.
 
 ### Cough sound and sleep pattern
 
-A barking or honking quality and absence during sleep have been historically emphasized. CHEST advises against using these to diagnose or exclude the syndrome. They are history observations, not reliable positive signs. (*citations* [2](#citation-2))
+[Cough sound and sleep pattern](functional_cough_and_upper_airway_symptoms/technique-inventory.md#cough-sound-and-sleep-pattern) — Historical observations with important diagnostic limitations.
 
 ### Task and attention comparisons
 
-Changes during conversation, breathing or another appropriate activity can characterize the cough. They may inform specialist assessment but lack standalone FND accuracy evidence. Avoid repetitive provocation, especially when discussion itself triggers symptoms. (*citations* [1](#citation-1), [2](#citation-2))
+[Task and attention comparisons](functional_cough_and_upper_airway_symptoms/technique-inventory.md#task-and-attention-comparisons) — Clinician-selected comparisons and their interpretive limits.
 
 ### Laryngoscopy during typical airway symptoms
 
-Visualization can document inducible laryngeal narrowing. Normal examination between episodes may miss it. This supports inducible laryngeal obstruction when the pattern matches; it does not by itself establish a neurological FND diagnosis. (*citations* [3](#citation-3))
+[Laryngoscopy during typical airway symptoms](functional_cough_and_upper_airway_symptoms/technique-inventory.md#laryngoscopy-during-typical-airway-symptoms) — Specialist assessment of relevant laryngeal narrowing.
 
 ### Continuous laryngoscopy during exercise
 
-For exertional symptoms, a specialist may observe the larynx through a monitored exercise challenge. The test addresses exercise-induced laryngeal obstruction, not FND in general. Suitability and safety determine whether provocation is justified. (*citations* [3](#citation-3))
+[Continuous laryngoscopy during exercise](functional_cough_and_upper_airway_symptoms/technique-inventory.md#continuous-laryngoscopy-during-exercise) — A supervised investigation for exertional laryngeal symptoms.
 
 ### Respiratory and other differential testing
 
-History, examination and selected investigations assess asthma, infection, reflux, medication effects and other causes. These tests answer specific differential questions; normal results do not positively diagnose functional cough or airway symptoms. (*citations* [2](#citation-2), [3](#citation-3))
+[Respiratory and other differential testing](functional_cough_and_upper_airway_symptoms/technique-inventory.md#respiratory-and-other-differential-testing) — Investigation of competing or coexisting causes.
 
 
 ***
 
 ## Research and Sources
 
-**Source for this boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
-
 ### Evidence notes
 
-- The international consensus recommendations place functional cough and related upper-airway symptoms within speech-and-language-therapy practice while emphasizing appropriate differential assessment and treatment. (*citations* [1](#citation-1))
+- Baker/Stone and colleagues supply the principal clinical consensus framework. Its broad terminology does not erase the separate criteria and respiratory investigations described here. (*citations* [1](#citation-1))
+- The CHEST cough framework has low-quality evidence; its limitations are detailed in the linked guide. Functional tic-like phenomena require their own assessment. (*citations* [2](#citation-2), [4](#citation-4))
+- ILO sources support specialist airway assessment. The newer Delphi study is consensus, not diagnostic-accuracy validation; its abstract was reviewed. (*citations* [3](#citation-3), [6](#citation-6))
+- Adult chronic-cough guidance informs the respiratory differential and life-impact discussion, with no automatic extrapolation to children or all people with FND. (*citations* [5](#citation-5))
 
 ### Citation table
 
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
-
 | <a id="citation-2"></a>**[2]** | Vertigan AE, Murad MH, Pringsheim T, et al. Somatic Cough Syndrome (Previously Referred to as Psychogenic Cough) and Tic Cough (Previously Referred to as Habit Cough) in Adults and Children: CHEST Guideline and Expert Panel Report. *Chest*. 2015;148(1):24-31. [DOI](https://doi.org/10.1378/chest.15-0423). [PMID: 25856777](https://pubmed.ncbi.nlm.nih.gov/25856777/). [FND-CIT-0129](../../research/citation-index.md#fnd-cit-0129). |
 | <a id="citation-3"></a>**[3]** | Haines J, Esposito K, Slinger C, et al. UK consensus statement on the diagnosis of inducible laryngeal obstruction in light of the COVID-19 pandemic. *Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology*. 2020;50(12):1287-1293. [DOI](https://doi.org/10.1111/cea.13745). [PMID: 33034142](https://pubmed.ncbi.nlm.nih.gov/33034142/). [FND-CIT-0147](../../research/citation-index.md#fnd-cit-0147). |
+| <a id="citation-4"></a>**[4]** | Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [DOI](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110). |
+| <a id="citation-5"></a>**[5]** | Parker SM, Smith JA, Birring SS, et al. British Thoracic Society Clinical Statement on chronic cough in adults. *Thorax*. 2023;78(Suppl 6):s3–s19. [DOI](https://doi.org/10.1136/thorax-2023-220592). [FND-CIT-0254](../../research/citation-index.md#fnd-cit-0254). |
+| <a id="citation-6"></a>**[6]** | Leong P, Vertigan AE, Hew M, et al. Diagnosis of vocal cord dysfunction/inducible laryngeal obstruction: An International Delphi Consensus Study. *Journal of Allergy and Clinical Immunology*. 2023;152(4):899–906. [DOI](https://doi.org/10.1016/j.jaci.2023.06.007). [FND-CIT-0255](../../research/citation-index.md#fnd-cit-0255). |
 
 *Technique outline created: August 24, 2026 · Speech-language-pathology, ENT and respiratory review pending*
 
@@ -182,7 +186,7 @@ History, examination and selected investigations assess asthma, infection, reflu
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Functional Cognitive Disorder](12-functional-cognitive-disorder.md)
+**Continue:** [Next page: Clinical Cough Assessment](functional_cough_and_upper_airway_symptoms/01-clinical-cough-assessment.md)
 
 **Related:** [Previous: Swallowing and globus inventory](functional_swallowing_and_globus/technique-inventory.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/03-cough-breathing-and-upper-airway-symptoms.md)
 

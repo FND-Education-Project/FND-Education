@@ -185,7 +185,7 @@ Follow-up and selected laboratory, imaging or other tests address plausible comp
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Persistent Postural-Perceptual Dizziness](13-persistent-postural-perceptual-dizziness.md)
 
-**Related:** [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/12-functional-cognitive-disorder.md) · [Related course page](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
+**Related:** [Previous: Cough and upper-airway inventory](functional_cough_and_upper_airway_symptoms/technique-inventory.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/12-functional-cognitive-disorder.md) · [Related course page](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
