@@ -40,16 +40,42 @@
     [/\bnon[-\s]?epileptic\s+seizures?\b/gi, "functional seizures"],
     [/\bnonepileptic\s+seizures?\b/gi, "functional seizures"],
     [/\bpnes\b/gi, "functional seizures"],
+    [/\bnead\b/gi, "functional seizures"],
     [/\bhoovers?\s+sign\b/gi, "Hoover's sign"]
   ];
 
 
+  function updateInterpretationNote(original, normalized) {
+    const note = document.getElementById("search-interpretation");
+
+    if (!note) {
+      return;
+    }
+
+    if (
+      original &&
+      normalized &&
+      original.localeCompare(normalized, undefined, { sensitivity: "accent" }) !== 0
+    ) {
+      note.textContent =
+        `Search interpreted “${original}” as “${normalized}”. Exact words may not appear in every matching excerpt.`;
+      note.hidden = false;
+      return;
+    }
+
+    note.hidden = true;
+    note.textContent = "";
+  }
+
+
   function normalizeSearchTerm(term) {
-    let normalized = String(term || "")
+    const original = String(term || "")
       .normalize("NFKC")
       .replace(/[‘’]/g, "'")
       .replace(/\s+/g, " ")
       .trim();
+
+    let normalized = original;
 
     for (const [pattern, replacement] of SPELLING_REPLACEMENTS) {
       normalized = normalized.replace(pattern, replacement);
@@ -58,6 +84,8 @@
     for (const [pattern, replacement] of TERM_ALIASES) {
       normalized = normalized.replace(pattern, replacement);
     }
+
+    updateInterpretationNote(original, normalized);
 
     return normalized;
   }
@@ -132,10 +160,24 @@
       }
     });
 
-    const initialQuery =
-      new URLSearchParams(window.location.search).get("q");
+    const hashQuery = (() => {
+      const rawHash = window.location.hash.replace(/^#/, "");
 
-    if (initialQuery && initialQuery.trim()) {
+      if (!rawHash) {
+        return "";
+      }
+
+      return new URLSearchParams(rawHash).get("q") || "";
+    })();
+
+    // Keep support for older /search/?q= links and no-JavaScript form
+    // submissions, but prefer the fragment because it is not sent to the host.
+    const initialQuery =
+      hashQuery ||
+      new URLSearchParams(window.location.search).get("q") ||
+      "";
+
+    if (initialQuery.trim()) {
       search.triggerSearch(initialQuery.trim());
     }
   });
