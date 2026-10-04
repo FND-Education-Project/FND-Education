@@ -6,6 +6,8 @@ Automatically generated editorial record — October 4, 2026. Cognitive-neurolog
 
 Prepared after cough PR #110 at `43f8550623c969a3c134c6446b1fd89af4f2b827`, with main at `f6dd359ed75d67a55edf357d30d3c865873276d7` at the start. Four clinician-focused guides and an inventory accompany the expanded overview. All eight original inventory descriptions/source associations, old overview headings, seven-step outline and media brief are preserved. The outline/brief now belong to the clinical guide.
 
+PR #110 has since been merged into main at `072bba3`. PR #111's conflicts were resolved by merging that main commit into its branch on October 4, 2026. The merged cough tree matches the original dependency commit; all FCD content, citation IDs and index additions are preserved. Progress records now show the first eleven expansions merged and FCD awaiting review.
+
 The user specifically requested tools to measure everyday difficulties alongside diagnosis. The OT guide therefore provides a question-led selection table, official routes to COPM, EFPT and PROMIS Cognitive Function, interpretation limits and an authored task/context/support/review record. This is an educational framework, not a new validated instrument or prescribed battery. Other specialties and shared roles are named. Functional cognition as an OT term is explicitly distinguished from FCD.
 
 ## Ownership and inventory

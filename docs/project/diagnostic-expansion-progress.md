@@ -20,7 +20,7 @@ An initial expansion means a revised symptom overview plus the selected detailed
 | 8 | [Functional Visual Symptoms](../../reference/diagnostic-signs/08-functional-visual-symptoms.md) | Initial expansion merged |
 | 9 | [Functional Speech and Voice Symptoms](../../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md) | Initial expansion merged |
 | 10 | [Functional Swallowing Symptoms and Globus](../../reference/diagnostic-signs/10-functional-swallowing-and-globus.md) | Initial expansion merged |
-| 11 | [Functional Cough and Upper-Airway Symptoms](../../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) | Initial expansion prepared for review |
+| 11 | [Functional Cough and Upper-Airway Symptoms](../../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) | Initial expansion merged |
 | 12 | [Functional Cognitive Disorder](../../reference/diagnostic-signs/12-functional-cognitive-disorder.md) | Initial diagnostic and measurement expansion prepared for review |
 | 13 | [Persistent Postural-Perceptual Dizziness](../../reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) | Pending |
 | 14 | [Functional Facial Symptoms — Spasm, Droop and Weakness](../../reference/diagnostic-signs/14-functional-facial-symptoms.md) | Pending |
