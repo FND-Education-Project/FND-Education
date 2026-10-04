@@ -1039,6 +1039,45 @@ button:focus-visible {
 }
 
 
+.search-interpretation {
+  margin: 0 0 1rem;
+  padding: 0.8rem 1rem;
+
+  background: var(--accent-soft);
+
+  border-left: 4px solid var(--accent);
+  border-radius: 0.35rem;
+
+  color: var(--text);
+
+  font-size: 0.95rem;
+}
+
+
+.search-interpretation[hidden] {
+  display: none;
+}
+
+
+.search-privacy {
+  margin-top: 1.25rem;
+
+  font-size: 0.95rem;
+}
+
+
+.search-privacy summary {
+  color: var(--accent-strong);
+
+  font-weight: 700;
+}
+
+
+.search-privacy p {
+  color: var(--muted);
+}
+
+
 .search-unavailable {
   padding: 0.9rem 1rem;
 
