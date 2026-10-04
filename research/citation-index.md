@@ -151,6 +151,12 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0253](#fnd-cit-0253) | NHS safety guidance | Public safety guidance | Swallowing assessment and limits | [Swallowing/globus diagnosis](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md) |
 | [FND-CIT-0254](#fnd-cit-0254) | Parker et al., 2023 | Adult chronic-cough clinical statement | Cough/upper-airway assessment and limits | [Cough diagnosis](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) |
 | [FND-CIT-0255](#fnd-cit-0255) | Leong et al., 2023 | International Delphi consensus; abstract reviewed | Cough/upper-airway assessment and limits | [Cough diagnosis](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) |
+| [FND-CIT-0256](#fnd-cit-0256) | Canadian Occupational Performance Measure | Assessment / measurement source | FCD evidence and population limits | [FCD overview](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) |
+| [FND-CIT-0257](#fnd-cit-0257) | Washington University Program in Occupational Therapy | Assessment / measurement source | FCD evidence and population limits | [FCD overview](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) |
+| [FND-CIT-0258](#fnd-cit-0258) | PhenX Toolkit | Assessment / measurement source | FCD evidence and population limits | [FCD overview](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) |
+| [FND-CIT-0259](#fnd-cit-0259) | Alberta Health Services, Provincial Occupational Therapy Practice Council | Assessment / measurement source | FCD evidence and population limits | [FCD overview](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) |
+| [FND-CIT-0260](#fnd-cit-0260) | García-Roldán E, Almodóvar-Sierra Á, Luque-Tirado A, et al | Assessment / measurement source | FCD evidence and population limits | [FCD overview](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) |
+| [FND-CIT-0261](#fnd-cit-0261) | Baum CM, Connor LT, Morrison T, Hahn M, Dromerick AW, Edwards DF | Assessment / measurement source | FCD evidence and population limits | [FCD overview](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) |
 
 ## Functional speech and voice detailed-page citation use map
 
@@ -2281,3 +2287,52 @@ Checked October 4, 2026. New stable IDs 0254–0255.
 | [functional_cough_and_upper_airway_symptoms/02-tic-and-somatic-cough-assessment.md](../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/02-tic-and-somatic-cough-assessment.md) | [FND-CIT-0129](#fnd-cit-0129), [FND-CIT-0110](#fnd-cit-0110) |
 | [functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md](../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md) | [FND-CIT-0147](#fnd-cit-0147), [FND-CIT-0255](#fnd-cit-0255) |
 | [functional_cough_and_upper_airway_symptoms/technique-inventory.md](../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/technique-inventory.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0129](#fnd-cit-0129), [FND-CIT-0147](#fnd-cit-0147) |
+
+## FND-CIT-0256
+
+Canadian Occupational Performance Measure. Learn to Use the COPM. [Official administration overview](https://www.thecopm.ca/learn/). Accessed October 4, 2026.
+
+Official measure-owner guidance; patient-rated performance and satisfaction, not FCD validation. Checked October 4, 2026.
+
+## FND-CIT-0257
+
+Washington University Program in Occupational Therapy. Executive Function Performance Test (EFPT). [Official resources and manual access](https://www.ot.wustl.edu/about/resources/executive-function-performance-test-efpt-308). Accessed October 4, 2026.
+
+Developer resource page checked. Public-domain access and manual/training route; not FCD-specific validation. Checked October 4, 2026.
+
+## FND-CIT-0258
+
+PhenX Toolkit. Protocol: Cognitive Function (320301). PROMIS Cognitive Function v2.0, Short Form 6a. [Protocol and scoring guidance](https://www.phenxtoolkit.org/protocols/view/320301). Accessed October 4, 2026.
+
+Protocol checked directly; patient-perceived cognition, seven-day recall and version-specific T-score interpretation. No FCD-specific change threshold established here. Checked October 4, 2026.
+
+## FND-CIT-0259
+
+Alberta Health Services, Provincial Occupational Therapy Practice Council. Occupational Therapy Clinical Guide for Activities of Daily Living & Functional Cognition in Adult Acute Care. 2022. [Clinical guide](https://www.albertahealthservices.ca/assets/info/hp/hpsp/if-hp-hpsp-ot-adl-and-functional-cognition-adult-acute-care-clinical-guide.pdf). Accessed October 4, 2026.
+
+Clinical guide checked directly. Adjacent adult acute-care guidance on functional cognition and occupation-based assessment; not an FCD diagnostic standard. Checked October 4, 2026.
+
+## FND-CIT-0260
+
+García-Roldán E, Almodóvar-Sierra Á, Luque-Tirado A, et al. Preliminary Validation of the FCD-Q8 Tool in Functional Cognitive Disorder and Early Alzheimer's Disease: A Biomarker-Verified Case–Control Study. *European Journal of Neurology*. 2025;32(11):e70383. [DOI](https://doi.org/10.1111/ene.70383).
+
+Publisher methods/results/limitations checked. Selected single-centre phase 1 case-control study, 34 FCD and 44 early Alzheimer cases; requires broader prospective validation. Checked October 4, 2026.
+
+## FND-CIT-0261
+
+Baum CM, Connor LT, Morrison T, Hahn M, Dromerick AW, Edwards DF. Reliability, validity, and clinical utility of the Executive Function Performance Test: a measure of executive function in a sample of people with stroke. *American Journal of Occupational Therapy*. 2008;62(4):446–455. [DOI](https://doi.org/10.5014/ajot.62.4.446).
+
+Institutional abstract and metadata checked; 73 stroke participants and 22 controls. Full-text appraisal pending; does not establish FCD validity. Checked October 4, 2026.
+
+## Functional cognitive diagnostic and measurement expansion source-use map
+
+Original IDs retained; new sources 0256–0261. Checked October 4, 2026.
+
+| Page | Stable sources |
+|---|---|
+| [12-functional-cognitive-disorder.md](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) | [FND-CIT-0026](#fnd-cit-0026), [FND-CIT-0071](#fnd-cit-0071), [FND-CIT-0141](#fnd-cit-0141), [FND-CIT-0140](#fnd-cit-0140), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0260](#fnd-cit-0260) |
+| [functional_cognitive_disorder/01-internal-inconsistency-and-clinical-assessment.md](../reference/diagnostic-signs/functional_cognitive_disorder/01-internal-inconsistency-and-clinical-assessment.md) | [FND-CIT-0071](#fnd-cit-0071), [FND-CIT-0026](#fnd-cit-0026) |
+| [functional_cognitive_disorder/02-neuropsychological-assessment-and-validity.md](../reference/diagnostic-signs/functional_cognitive_disorder/02-neuropsychological-assessment-and-validity.md) | [FND-CIT-0071](#fnd-cit-0071), [FND-CIT-0141](#fnd-cit-0141) |
+| [functional_cognitive_disorder/03-everyday-function-and-ot-measurement.md](../reference/diagnostic-signs/functional_cognitive_disorder/03-everyday-function-and-ot-measurement.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0259](#fnd-cit-0259), [FND-CIT-0256](#fnd-cit-0256), [FND-CIT-0257](#fnd-cit-0257), [FND-CIT-0261](#fnd-cit-0261), [FND-CIT-0258](#fnd-cit-0258) |
+| [functional_cognitive_disorder/04-diagnostic-models-and-checklists.md](../reference/diagnostic-signs/functional_cognitive_disorder/04-diagnostic-models-and-checklists.md) | [FND-CIT-0026](#fnd-cit-0026), [FND-CIT-0140](#fnd-cit-0140), [FND-CIT-0260](#fnd-cit-0260) |
+| [functional_cognitive_disorder/technique-inventory.md](../reference/diagnostic-signs/functional_cognitive_disorder/technique-inventory.md) | [FND-CIT-0026](#fnd-cit-0026), [FND-CIT-0071](#fnd-cit-0071), [FND-CIT-0141](#fnd-cit-0141), [FND-CIT-0140](#fnd-cit-0140), [FND-CIT-0260](#fnd-cit-0260) |

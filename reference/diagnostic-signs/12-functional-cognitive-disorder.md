@@ -4,7 +4,7 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Cognitive Disorder**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Automatically generated working draft — October 4, 2026.** Human, cognitive-neurology, neuropsychology, occupational therapy, speech-language, lived-experience and accessibility review pending.
 
 **Refers to:**
 
@@ -16,11 +16,11 @@
 
 ## Quick Reference
 
-**Presentation:** Compare the reported difficulty with observed abilities and valid assessment results while evaluating other causes of cognitive symptoms.
+**Presentation:** Assess positive internal inconsistency and other causes of cognitive symptoms, then measure everyday impact and support needs separately.
 
-- [Internal inconsistency](#internal-inconsistency) — assess a specific mismatch in cognitive functioning.
-- [Everyday function and collateral history](#everyday-function-and-collateral-history) — understand difficulties outside the appointment.
-- [Longitudinal assessment and investigations](#longitudinal-assessment-and-investigations) — review change and alternative explanations.
+- [Clinical assessment and internal inconsistency](functional_cognitive_disorder/01-internal-inconsistency-and-clinical-assessment.md) — evaluate the positive diagnostic pattern and alternatives.
+- [Neuropsychological assessment](functional_cognitive_disorder/02-neuropsychological-assessment-and-validity.md) — interpret cognitive profiles and test validity.
+- [Everyday function and OT measurement](functional_cognitive_disorder/03-everyday-function-and-ot-measurement.md) — select tools for daily performance, support and change.
 
 **More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
@@ -33,6 +33,8 @@
 
 ## For the Person With FND
 
+You might lose the thread of a conversation, reread a message without taking it in, forget an intended task or struggle to organize familiar steps. These experiences help describe the problem; they do not by themselves establish FCD.
+
 Functional Cognitive Disorder (FCD) can involve disabling problems with memory, attention, concentration, word finding or thinking. The difficulty is real. The central positive feature is **internal inconsistency**: a clinically meaningful difference in access to the same cognitive ability across contexts, after accounting for task demands and other explanations. Ordinary fluctuation or one good performance is not enough.
 
 For example, the detailed history a person gives during an appointment may show abilities that appear unavailable in a formal task, or everyday successes may not fit the degree of loss expected from the reported problem. These are clues to examine, not contradictions that prove a person is unreliable. (*citations* [1](#citation-1))
@@ -40,6 +42,14 @@ For example, the detailed history a person gives during an appointment may show 
 Normal imaging or one average screening score does not diagnose FCD. Sleep, pain, migraine, fatigue, medication, mood, ADHD, sensory impairment and neurological disease may independently affect cognition or coexist with FCD; they are not automatically part of FCD. Recognition, visual recall and imagery complaints deserve assessment but are not established hallmark signs.
 
 New loss of recognition of highly familiar people, familiar knowledge or spatial abilities needs reassessment; sudden changes need urgent assessment. Getting lost or making unsafe medication or financial errors also warrants review.
+
+### Understanding the diagnosis and measuring its impact
+
+Assessment should answer both “What explains this pattern?” and “What support helps me manage daily life?” An occupational therapist can examine activities that matter to you; neuropsychology can examine thinking skills in more detail, and speech-language therapy may help assess communication demands. The team should choose assessments for the questions you need answered. (*citations* [2](#citation-2), [5](#citation-5))
+
+Ask the team to record aids, reminders, extra time and help that make an activity possible. Success with those supports does not show what would happen without them. A short appointment also leaves open whether you can repeat the activity and what recovery costs. These are practical assessment questions, not assumptions about every person with FCD.
+
+Daily difficulties can affect confidence, relationships, work and participation. Discuss distress and support alongside performance; a mood score does not establish why a cognitive problem happens. Measurement should help plan care, not become a daily test you have to pass. (*citations* [2](#citation-2), [5](#citation-5)) See the [plain-language FCD background](../functional-cognitive-disorder.md).
 
 ### Cognitive difficulty may fluctuate or remain for long periods
 
@@ -57,6 +67,8 @@ When a familiar cognitive episode starts, reduce incoming information and multit
 ## For Family, Friends, and Other Supporters
 
 Do not quiz the person, secretly keep score or use a remembered success to dismiss a later difficulty. With permission, you can provide examples of what has changed, what remains possible and how the pattern affects daily life. Try to describe actual events rather than deciding whether the person “really forgot.”
+
+For assessment, describe what you actually do to help—setting up a task, giving reminders, checking errors or taking over a step. With permission, explain what happens after the appointment or activity as well as during it. Your account supplements the person's perspective; disagreement is something to understand, not proof of a diagnosis.
 
 ### When thinking or word finding suddenly becomes harder
 
@@ -81,6 +93,12 @@ A short period of difficulty and a longer cognitive flare can both be genuine. I
 
 Characterize the relevant domain: attention, encoding, working memory, language/semantic access, executive function, recognition/familiarity, visual or nonverbal recall, visuospatial function and imagery as indicated. Face-recognition and imagery complaints are not established hallmark FCD signs; investigate the differential. Internal inconsistency should concern the same domain with context and demands accounted for. A single good performance, normal scan, normal score or treatment response cannot establish FCD. (*citations* [1](#citation-1), [2](#citation-2))
 
+### A measurement plan alongside diagnosis
+
+The [OT measurement guide](functional_cognitive_disorder/03-everyday-function-and-ot-measurement.md) covers COPM, EFPT, PROMIS Cognitive Function and an authored task/context/support record. It distinguishes self-report, observed performance and diagnostic evidence, with official tool access and FCD-specific evidence limits. These outcome tools are not extra positive signs of FCD.
+
+Coordinate the referral question: neurology/general practice for the clinical differential and follow-up; neuropsychology for cognitive profiles and validity; OT for daily activity and support; speech-language therapy for relevant cognitive-communication demands. Roles overlap and depend on local competence and services. Agree who integrates the findings and supplies an accessible written plan.
+
 ### Episodic and prolonged presentations
 
 Characterize fluctuations rather than reducing them to “good days and bad days”: onset, duration, frequency, cognitive domain, task and sensory load, fatigue, pain, sleep, medication, mood, migraine or seizure context, and recovery. Internal inconsistency may include preserved function at some times and impaired access at others, but the contrast must be clinically meaningful and not better explained by differing task demands or another disorder.
@@ -89,24 +107,11 @@ For episodic deterioration, develop a brief plan using reduced cognitive load, s
 
 ### Technique outline: assessing internal cognitive inconsistency
 
-1. Define the cognitive complaint, onset, course, variability and functional consequences. Ask for specific recent examples rather than accepting or rejecting a global label such as “memory loss.”
-2. Observe how the patient follows the conversation, recalls autobiographical and appointment details, uses aids, corrects errors and manages multistep information during the encounter.
-3. With consent, obtain collateral examples of both difficulty and preserved ability. Interpret differences between accounts respectfully and in context.
-4. Use validated cognitive screening or neuropsychological assessment when it will answer a clinical question. Follow test-security, language, education and performance-validity standards.
-5. Look for internal inconsistency across history, observed behaviour, day-to-day function and test performance. The contrast should be clinically meaningful and not explained more plausibly by task demands or fluctuating health.
-6. Evaluate sleep, pain, fatigue, medication and substance effects, mood, anxiety, ADHD, epilepsy, head injury, neurodevelopmental factors, neurodegenerative disease and other relevant causes or comorbidities.
-7. Explain the positive formulation without saying “nothing is wrong.” State the degree of certainty and arrange follow-up if progression or a new pattern emerges.
+The original seven-step outline is preserved in [Internal Inconsistency and Clinical Assessment](functional_cognitive_disorder/01-internal-inconsistency-and-clinical-assessment.md#performing-the-assessment).
 
 ### Media contributor brief
 
-Use a fictional case with an actor or an annotated diagram showing four information sources:
-
-1. The person’s description of the problem.
-2. Examples of everyday difficulty and preserved ability.
-3. Abilities observed during the appointment.
-4. Results of appropriate validated assessment and medical evaluation.
-
-Show how the clinician looks for a meaningful pattern across all four, rather than setting up a “gotcha” memory test. Do not display copyrighted or secured test items, scoring keys or a real patient’s identifiable daily-life details. Make clear that one inconsistency is a clue, not a diagnosis.
+The original brief is preserved in [Clinical Assessment: Media and Accessibility](functional_cognitive_disorder/01-internal-inconsistency-and-clinical-assessment.md#media-and-accessibility).
 
 **Recovery reading:** [Thirteen detailed Functional Cognitive Disorder recovery pages](../recovery-techniques/functional_cognitive_disorder/README.md), with practical support, individual safety limits and clear distinctions between clinical guidance and early research.
 
@@ -120,40 +125,43 @@ Show how the clinician looks for a meaningful pattern across all four, rather th
 
 These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
 
-The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
+All eight original descriptions remain in the [preserved inventory](functional_cognitive_disorder/technique-inventory.md), followed by one dated research addition. Detailed pages group related questions; they are not a compulsory battery.
 
 ### Internal inconsistency
 
-The clinician identifies a specific mismatch within a cognitive ability, such as better use during ordinary interaction than during focused testing. This is the central positive concept. Ordinary fluctuation, distress or a normal screening score alone is insufficient. (*citations* [2](#citation-2))
+[Internal inconsistency](functional_cognitive_disorder/technique-inventory.md#internal-inconsistency) — Positive same-domain clinical comparison.
 
 ### Conversation versus formal performance
 
-Detailed, coherent accounts can be compared with the particular impairment claimed during testing. The comparison must concern the same ability and allow for anxiety, pain, fatigue, language and sensory barriers. It is supportive clinical reasoning, not a test of honesty. (*citations* [1](#citation-1), [2](#citation-2))
+[Conversation versus formal performance](functional_cognitive_disorder/technique-inventory.md#conversation-versus-formal-performance) — Interpret conversational and testing demands carefully.
 
 ### Everyday function and collateral history
 
-With consent, the clinician compares the person’s account, a supporter’s observations and actual daily tasks. A specific inconsistency may be useful, but compensatory strategies can preserve daily function despite neurological disease. Disagreement alone is not a positive sign. (*citations* [1](#citation-1), [2](#citation-2))
+[Everyday function and collateral history](functional_cognitive_disorder/technique-inventory.md#everyday-function-and-collateral-history) — Consensual daily examples, supports and context.
 
 ### Neuropsychological pattern
 
-Assessment compares acquisition, delayed recall, recognition and other domains. Particular internal discrepancies may support FCD; isolated low scores or a normal total score do not. Coexisting neurological disease and test conditions remain part of interpretation. (*citations* [2](#citation-2), [3](#citation-3))
+[Neuropsychological pattern](functional_cognitive_disorder/technique-inventory.md#neuropsychological-pattern) — Cognitive profiles and their diagnostic limits.
 
 ### Proposed diagnostic risk model
 
-A published model combines clinical features to estimate diagnostic likelihood. It supports structured assessment rather than replacing judgment. Its development population and validation limits prevent treating the score as a universal diagnostic threshold. (*citations* [1](#citation-1))
+[Proposed diagnostic risk model](functional_cognitive_disorder/technique-inventory.md#proposed-diagnostic-risk-model) — A small-cohort development model.
 
 ### Functional cognitive disorder checklist
 
-An 11-item and shorter 7-item checklist were developed through literature review, expert consensus and a multicentre pilot study. Results support further use and study, but prospective blinded external validation was still needed. This is not a self-diagnosis checklist. (*citations* [4](#citation-4))
+[Functional cognitive disorder checklist](functional_cognitive_disorder/technique-inventory.md#functional-cognitive-disorder-checklist) — Pilot evidence and external-validation needs.
 
 ### Performance-validity testing
 
-These tests help interpret whether cognitive scores represent usable estimates of ability. Passing or failing does not itself diagnose FCD, malingering or a particular cause. Interpret results within the full clinical and testing context. (*citations* [2](#citation-2), [3](#citation-3))
+[Performance-validity testing](functional_cognitive_disorder/technique-inventory.md#performance-validity-testing) — Interpretability of test results, with limits.
 
 ### Longitudinal assessment and investigations
 
-Follow-up and selected laboratory, imaging or other tests address plausible competing or coexisting causes. Stability may contribute to the formulation but does not prove FCD. A positive diagnosis should explain current findings and what would prompt review. (*citations* [2](#citation-2))
+[Longitudinal assessment and investigations](functional_cognitive_disorder/technique-inventory.md#longitudinal-assessment-and-investigations) — Course over time and clinically selected investigations.
 
+### FCD-Q8 preliminary classifier
+
+[Research addition — October 4, 2026](functional_cognitive_disorder/technique-inventory.md#fcd-q8-preliminary-classifier) — Separate early-stage questionnaire evidence; not a daily-function measure.
 
 ***
 
@@ -161,17 +169,21 @@ Follow-up and selected laboratory, imaging or other tests address plausible comp
 
 ### Evidence notes
 
-- The proposed diagnostic risk model describes internal inconsistency as central to identifying FCD and discusses features that must be distinguished from neurodegenerative and other cognitive disorders. It is a proposed model, not a universally validated diagnostic calculator. (*citations* [1](#citation-1))
+- The clinical framework centres on positive internal inconsistency with appropriate differential assessment. Model and checklist evidence does not make a normal screen sufficient. (*citations* [1](#citation-1), [2](#citation-2), [4](#citation-4))
+- Neuropsychological research includes a small clinic comparison, not a universal FCD profile or cutoff. (*citations* [3](#citation-3))
+- OT consensus supports measuring activity and participation; selected tool details and population limits are in the dedicated measurement guide. That guide does not claim FCD-specific validation of its tool set. (*citations* [5](#citation-5))
+- FCD-Q8 is a separately dated preliminary diagnostic research addition. Its selected study does not establish everyday disability measurement or validate the Cabreira checklist. (*citations* [6](#citation-6))
 
 ### Citation table
 
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. [FND-CIT-0026](../../research/citation-index.md#fnd-cit-0026). [https://doi.org/10.1017/S1092852921000845](https://doi.org/10.1017/S1092852921000845) |
-
 | <a id="citation-2"></a>**[2]** | Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain : a journal of neurology*. 2020;143(10):2895-2903. [DOI](https://doi.org/10.1093/brain/awaa224). [PMID: 32791521](https://pubmed.ncbi.nlm.nih.gov/32791521/). [FND-CIT-0071](../../research/citation-index.md#fnd-cit-0071). |
 | <a id="citation-3"></a>**[3]** | Ball HA, Swirski M, Newson M, et al. Differentiating Functional Cognitive Disorder from Early Neurodegeneration: A Clinic-Based Study. *Brain sciences*. 2021;11(6):800. [DOI](https://doi.org/10.3390/brainsci11060800). [PMID: 34204389](https://pubmed.ncbi.nlm.nih.gov/34204389/). [FND-CIT-0141](../../research/citation-index.md#fnd-cit-0141). |
 | <a id="citation-4"></a>**[4]** | Cabreira V, Alty J, Antic S, et al. Development of a diagnostic checklist to identify functional cognitive disorder versus other neurocognitive disorders. *BMJ neurology open*. 2025;7(1):e000918. [DOI](https://doi.org/10.1136/bmjno-2024-000918). [PMID: 40034653](https://pubmed.ncbi.nlm.nih.gov/40034653/). [FND-CIT-0140](../../research/citation-index.md#fnd-cit-0140). |
+| <a id="citation-5"></a>**[5]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [DOI](https://doi.org/10.1136/jnnp-2019-322281). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
+| <a id="citation-6"></a>**[6]** | García-Roldán E, Almodóvar-Sierra Á, Luque-Tirado A, et al. Preliminary Validation of the FCD-Q8 Tool in Functional Cognitive Disorder and Early Alzheimer's Disease: A Biomarker-Verified Case–Control Study. *European Journal of Neurology*. 2025;32(11):e70383. [DOI](https://doi.org/10.1111/ene.70383). [FND-CIT-0260](../../research/citation-index.md#fnd-cit-0260). |
 
 *Technique outline created: August 24, 2026 · Cognitive-neurology and neuropsychology review pending*
 
@@ -183,7 +195,7 @@ Follow-up and selected laboratory, imaging or other tests address plausible comp
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Persistent Postural-Perceptual Dizziness](13-persistent-postural-perceptual-dizziness.md)
+**Continue:** [Next page: Internal Inconsistency and Clinical Assessment](functional_cognitive_disorder/01-internal-inconsistency-and-clinical-assessment.md)
 
 **Related:** [Previous: Cough and upper-airway inventory](functional_cough_and_upper_airway_symptoms/technique-inventory.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/12-functional-cognitive-disorder.md) · [Related course page](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
 

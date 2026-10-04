@@ -142,6 +142,8 @@ Treat contributing conditions and reduce cognitive load. Consider occupational t
 
 **Recovery reading:** [Thirteen detailed Functional Cognitive Disorder recovery pages](../../../reference/recovery-techniques/functional_cognitive_disorder/README.md), with practical support, individual safety limits and clear distinctions between clinical guidance and early research.
 
+**Further reading in the Reference Library:** [Internal Inconsistency and Clinical Assessment](../../../reference/diagnostic-signs/functional_cognitive_disorder/01-internal-inconsistency-and-clinical-assessment.md) · [Neuropsychological Assessment and Validity](../../../reference/diagnostic-signs/functional_cognitive_disorder/02-neuropsychological-assessment-and-validity.md) · [Everyday Function and Occupational Therapy Measurement](../../../reference/diagnostic-signs/functional_cognitive_disorder/03-everyday-function-and-ot-measurement.md)
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Dissociation and Altered Awareness →](02-dissociation-and-altered-awareness.md)
 
