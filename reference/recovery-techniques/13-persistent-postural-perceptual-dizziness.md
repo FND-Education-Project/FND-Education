@@ -147,6 +147,8 @@ No community-only technique or new quotation has been added. Everyday examples a
 [Research and Sources](#research-and-sources)
 ***
 
+**Assessment reading:** [PPPD diagnostic guides](../diagnostic-signs/13-persistent-postural-perceptual-dizziness.md#quick-reference) include criteria, differential assessment and everyday measurement.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Persistent Postural-Perceptual Dizziness: Detailed Recovery Pages](persistent_postural_perceptual_dizziness/README.md)
 

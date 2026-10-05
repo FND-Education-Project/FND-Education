@@ -1023,40 +1023,53 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 - [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622)
 
+### Detailed-page reading — October 5, 2026
+
+- [PPPD Criteria and Clinical History](../../diagnostic-signs/persistent_postural_perceptual_dizziness/01-criteria-and-clinical-history.md)
+- [Vestibular and Differential Assessment for PPPD](../../diagnostic-signs/persistent_postural_perceptual_dizziness/02-vestibular-and-differential-assessment.md)
+- [PPPD Questionnaires and Everyday Function](../../diagnostic-signs/persistent_postural_perceptual_dizziness/03-questionnaires-and-everyday-function.md)
+- [PPPD Diagnostic Inventory](../../diagnostic-signs/persistent_postural_perceptual_dizziness/technique-inventory.md)
+
+- [ ] Staab et al., 2017. Criteria, making a diagnosis and differential sections (source linked above).
+- [ ] Yagi C, Morita Y, Kitazawa M, et al. A Validated Questionnaire to Assess the Severity of Persistent Postural-Perceptual Dizziness (PPPD): The Niigata PPPD Questionnaire (NPQ). *Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology*. 2019;40(7):e747-e752. [DOI](https://doi.org/10.1097/mao.0000000000002325). [PMID: 31219964](https://pubmed.ncbi.nlm.nih.gov/31219964/).
+- [ ] Meletaki V, Gobinet M, Léonard J, Elzière M, Lopez C. French adaptation and validation of the Niigata PPPD Questionnaire: measure of severity of Persistent Postural-Perceptual Dizziness and its association with psychiatric comorbidities and perceived handicap. *Frontiers in Neurology*. 2024;15:1388805. [DOI](https://doi.org/10.3389/fneur.2024.1388805). Publisher methods/results/limitations checked; independent human appraisal pending.
+
+Read NPQ scores as symptom information; review later validation and measurement limits before applying thresholds. The activity record is authored, not validated.
+
 ### Technique / inventory review order
 
 #### Criterion A: persistent dizziness pattern
 
-- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. https://doi.org/10.3233/VES-170622
+- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. DOI (linked above)
 
 #### Criterion B: three exacerbating factors
 
-- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. https://doi.org/10.3233/VES-170622
+- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. DOI (linked above)
 
 #### Criterion C: precipitating condition
 
-- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. https://doi.org/10.3233/VES-170622
+- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. DOI (linked above)
 
 #### Criterion D: meaningful impact
 
-- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. https://doi.org/10.3233/VES-170622
+- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. DOI (linked above)
 
 #### Criterion E: no better explanation
 
-- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. https://doi.org/10.3233/VES-170622
+- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. DOI (linked above)
 
 #### Vestibular and positional examinations
 
-- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. https://doi.org/10.3233/VES-170622
+- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. DOI (linked above)
 
 #### Orthostatic and neurological assessment
 
-- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. https://doi.org/10.3233/VES-170622
+- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. DOI (linked above)
 
 #### Symptom questionnaires
 
-- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. https://doi.org/10.3233/VES-170622
-- [ ] Yagi C, Morita Y, Kitazawa M, et al. A Validated Questionnaire to Assess the Severity of Persistent Postural-Perceptual Dizziness (PPPD): The Niigata PPPD Questionnaire (NPQ). *Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology*. 2019;40(7):e747-e752. [DOI](https://doi.org/10.1097/mao.0000000000002325). [PMID: 31219964](https://pubmed.ncbi.nlm.nih.gov/31219964/).
+- [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. DOI (linked above)
+- [ ] Yagi C, Morita Y, Kitazawa M, et al. A Validated Questionnaire to Assess the Severity of Persistent Postural-Perceptual Dizziness (PPPD): The Niigata PPPD Questionnaire (NPQ). *Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology*. 2019;40(7):e747-e752. DOI. PMID: 31219964.
 
 ### Review completion
 

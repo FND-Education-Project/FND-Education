@@ -169,7 +169,7 @@ Part of the face may pull, tighten, spasm, droop or feel difficult to control. T
 - [Chronic Pain](co-occurring-conditions/04-persistent-pain.md)
 - [Fatigue](co-occurring-conditions/06-fatigue.md)
 - [Sleep Disorders](co-occurring-conditions/07-insomnia.md)
-- [Persistent Postural-Perceptual Dizziness (PPPD) and Persistent Dizziness](recovery-techniques/13-persistent-postural-perceptual-dizziness.md)
+- Persistent Postural-Perceptual Dizziness (PPPD): [Understanding & Diagnosis](diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) · [Recovery Techniques](recovery-techniques/13-persistent-postural-perceptual-dizziness.md)
 - [Autonomic Symptoms](co-occurring-conditions/08-autonomic-symptoms.md)
 
 ---

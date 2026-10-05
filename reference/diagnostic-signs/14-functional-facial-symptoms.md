@@ -205,7 +205,7 @@ Testing facial power and associated neurological findings helps distinguish weak
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Paralysis](15-functional-paralysis.md)
 
-**Related:** [← Persistent Postural-Perceptual Dizziness](13-persistent-postural-perceptual-dizziness.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md) · [Swallowing symptoms](10-functional-swallowing-and-globus.md)
+**Related:** [Previous: PPPD diagnostic inventory](persistent_postural_perceptual_dizziness/technique-inventory.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md) · [Swallowing symptoms](10-functional-swallowing-and-globus.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
