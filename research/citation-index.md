@@ -157,6 +157,7 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0259](#fnd-cit-0259) | Alberta Health Services, Provincial Occupational Therapy Practice Council | Assessment / measurement source | FCD evidence and population limits | [FCD overview](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) |
 | [FND-CIT-0260](#fnd-cit-0260) | García-Roldán E, Almodóvar-Sierra Á, Luque-Tirado A, et al | Assessment / measurement source | FCD evidence and population limits | [FCD overview](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) |
 | [FND-CIT-0261](#fnd-cit-0261) | Baum CM, Connor LT, Morrison T, Hahn M, Dromerick AW, Edwards DF | Assessment / measurement source | FCD evidence and population limits | [FCD overview](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) |
+| [FND-CIT-0262](#fnd-cit-0262) | Meletaki et al., 2024 | French NPQ validation | PPPD symptom measurement and clinical overlap | [PPPD source-use map](#pppd-diagnostic-expansion-source-use-map) |
 
 ## Functional speech and voice detailed-page citation use map
 
@@ -514,6 +515,8 @@ Use this source for internal inconsistency as a central positive feature of Func
 Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622)
 
 Use this source for the five consensus diagnostic criteria for PPPD and for the role of examination and testing in identifying alternative or coexisting conditions. Do not apply these criteria to dizziness in general or treat normal vestibular testing as sufficient for diagnosis.
+
+**Additional diagnostic uses:** [PPPD expansion source-use map](#pppd-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0028
 
@@ -1348,6 +1351,8 @@ Horn D, Galli S, Berney A, et al. Testing Head Rotation and Flexion Is Useful in
 Yagi C, Morita Y, Kitazawa M, et al. A Validated Questionnaire to Assess the Severity of Persistent Postural-Perceptual Dizziness (PPPD): The Niigata PPPD Questionnaire (NPQ). *Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology*. 2019;40(7):e747-e752. [DOI](https://doi.org/10.1097/mao.0000000000002325). [PMID: 31219964](https://pubmed.ncbi.nlm.nih.gov/31219964/).
 
 **Diagnostic use:** [13-persistent-postural-perceptual-dizziness](../reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md).
+
+**Additional diagnostic uses:** [PPPD expansion source-use map](#pppd-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0157
 
@@ -2336,3 +2341,21 @@ Original IDs retained; new sources 0256–0261. Checked October 4, 2026.
 | [functional_cognitive_disorder/03-everyday-function-and-ot-measurement.md](../reference/diagnostic-signs/functional_cognitive_disorder/03-everyday-function-and-ot-measurement.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0259](#fnd-cit-0259), [FND-CIT-0256](#fnd-cit-0256), [FND-CIT-0257](#fnd-cit-0257), [FND-CIT-0261](#fnd-cit-0261), [FND-CIT-0258](#fnd-cit-0258) |
 | [functional_cognitive_disorder/04-diagnostic-models-and-checklists.md](../reference/diagnostic-signs/functional_cognitive_disorder/04-diagnostic-models-and-checklists.md) | [FND-CIT-0026](#fnd-cit-0026), [FND-CIT-0140](#fnd-cit-0140), [FND-CIT-0260](#fnd-cit-0260) |
 | [functional_cognitive_disorder/technique-inventory.md](../reference/diagnostic-signs/functional_cognitive_disorder/technique-inventory.md) | [FND-CIT-0026](#fnd-cit-0026), [FND-CIT-0071](#fnd-cit-0071), [FND-CIT-0141](#fnd-cit-0141), [FND-CIT-0140](#fnd-cit-0140), [FND-CIT-0260](#fnd-cit-0260) |
+
+## FND-CIT-0262
+
+Meletaki V, Gobinet M, Léonard J, Elzière M, Lopez C. French adaptation and validation of the Niigata PPPD Questionnaire: measure of severity of Persistent Postural-Perceptual Dizziness and its association with psychiatric comorbidities and perceived handicap. *Frontiers in Neurology*. 2024;15:1388805. [DOI](https://doi.org/10.3389/fneur.2024.1388805).
+
+French-language cross-sectional validation; publisher methods, results and limitations checked October 5, 2026. Supports measurement limits and reported burden, not causation or universal thresholds.
+
+## PPPD diagnostic expansion source-use map
+
+Existing IDs 0027 and 0156 retained; new source 0262. October 5, 2026. No diagnostic inventory addition.
+
+| Page | Stable sources |
+|---|---|
+| [13-persistent-postural-perceptual-dizziness.md](../reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) | [FND-CIT-0027](#fnd-cit-0027), [FND-CIT-0156](#fnd-cit-0156), [FND-CIT-0262](#fnd-cit-0262) |
+| [persistent_postural_perceptual_dizziness/01-criteria-and-clinical-history.md](../reference/diagnostic-signs/persistent_postural_perceptual_dizziness/01-criteria-and-clinical-history.md) | [FND-CIT-0027](#fnd-cit-0027) |
+| [persistent_postural_perceptual_dizziness/02-vestibular-and-differential-assessment.md](../reference/diagnostic-signs/persistent_postural_perceptual_dizziness/02-vestibular-and-differential-assessment.md) | [FND-CIT-0027](#fnd-cit-0027) |
+| [persistent_postural_perceptual_dizziness/03-questionnaires-and-everyday-function.md](../reference/diagnostic-signs/persistent_postural_perceptual_dizziness/03-questionnaires-and-everyday-function.md) | [FND-CIT-0027](#fnd-cit-0027), [FND-CIT-0156](#fnd-cit-0156), [FND-CIT-0262](#fnd-cit-0262) |
+| [persistent_postural_perceptual_dizziness/technique-inventory.md](../reference/diagnostic-signs/persistent_postural_perceptual_dizziness/technique-inventory.md) | [FND-CIT-0027](#fnd-cit-0027), [FND-CIT-0156](#fnd-cit-0156) |

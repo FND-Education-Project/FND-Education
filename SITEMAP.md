@@ -352,6 +352,10 @@ Use the sections below to drill down into the course, reference library, researc
 - [FCD Diagnostic Models and Checklists](reference/diagnostic-signs/functional_cognitive_disorder/04-diagnostic-models-and-checklists.md)
 - [Functional Cognitive Disorder Diagnostic Inventory](reference/diagnostic-signs/functional_cognitive_disorder/technique-inventory.md)
 - [Persistent Postural-Perceptual Dizziness](reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md)
+- [PPPD Criteria and Clinical History](reference/diagnostic-signs/persistent_postural_perceptual_dizziness/01-criteria-and-clinical-history.md)
+- [Vestibular and Differential Assessment for PPPD](reference/diagnostic-signs/persistent_postural_perceptual_dizziness/02-vestibular-and-differential-assessment.md)
+- [PPPD Questionnaires and Everyday Function](reference/diagnostic-signs/persistent_postural_perceptual_dizziness/03-questionnaires-and-everyday-function.md)
+- [PPPD Diagnostic Inventory](reference/diagnostic-signs/persistent_postural_perceptual_dizziness/technique-inventory.md)
 - [Functional Facial Symptoms — Spasm, Droop and Weakness](reference/diagnostic-signs/14-functional-facial-symptoms.md)
 - [Functional Paralysis](reference/diagnostic-signs/15-functional-paralysis.md)
 - [Functional Drop Attacks](reference/diagnostic-signs/16-functional-drop-attacks.md)
@@ -811,3 +815,5 @@ Use the sections below to drill down into the course, reference library, researc
 - [Cough and upper-airway diagnostic expansion record](docs/project/functional-cough-diagnostic-expansion.md)
 
 - [FCD diagnostic and measurement expansion record](docs/project/functional-cognitive-diagnostic-expansion.md)
+
+- [PPPD diagnostic expansion record](docs/project/pppd-diagnostic-expansion.md)
