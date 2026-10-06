@@ -2,9 +2,9 @@
 
 [Home](../../README.md) › Project Documentation › **Diagnostic Expansion Progress**
 
-Updated October 5, 2026. Editorial tracker; clinical and human review are separate.
+Updated October 6, 2026. Editorial tracker; clinical and human review are separate.
 
-**Initial expansion drafts: 13 of 17. Remaining original symptom sets: 4. Next: functional facial symptoms.**
+**Initial expansion drafts: 14 of 17. Remaining original symptom sets: 3. Next: functional paralysis.**
 
 An initial expansion means a revised symptom overview plus the selected detailed diagnostic pages and preserved inventory. It does not mean every inventory entry has a standalone page, every primary paper has been reviewed, or clinical approval is complete. Counts are symptom sets, not technique pages.
 
@@ -22,15 +22,15 @@ An initial expansion means a revised symptom overview plus the selected detailed
 | 10 | [Functional Swallowing Symptoms and Globus](../../reference/diagnostic-signs/10-functional-swallowing-and-globus.md) | Initial expansion merged |
 | 11 | [Functional Cough and Upper-Airway Symptoms](../../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) | Initial expansion merged |
 | 12 | [Functional Cognitive Disorder](../../reference/diagnostic-signs/12-functional-cognitive-disorder.md) | Initial diagnostic and measurement expansion merged; clinical review pending |
-| 13 | [Persistent Postural-Perceptual Dizziness](../../reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) | Initial expansion prepared for review |
-| 14 | [Functional Facial Symptoms — Spasm, Droop and Weakness](../../reference/diagnostic-signs/14-functional-facial-symptoms.md) | Pending |
+| 13 | [Persistent Postural-Perceptual Dizziness](../../reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) | Initial expansion merged; clinical review pending |
+| 14 | [Functional Facial Symptoms — Spasm, Droop and Weakness](../../reference/diagnostic-signs/14-functional-facial-symptoms.md) | Initial expansion prepared for review |
 | 15 | [Functional Paralysis](../../reference/diagnostic-signs/15-functional-paralysis.md) | Pending |
 | 16 | [Functional Drop Attacks](../../reference/diagnostic-signs/16-functional-drop-attacks.md) | Pending |
 | 17 | [Functional Tics and Tic-Like Symptoms](../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) | Pending |
 
 The [scan-negative cauda equina starter](../../reference/diagnostic-signs/scan-negative-cauda-equina.md) is an additional pending overlap-page expansion, **not an eighteenth FND category**.
 
-The historical collection baseline remains 170 entries. Dystonia's and FCD's separately dated research additions make the current catalogue 172. FCD preserves its original eight entries and separately adds the preliminary FCD-Q8 classifier; OT outcome tools are not counted as diagnostic signs. Gait preserves its original thirteen, seizures its original twenty and sensory symptoms their original seven without additions; visual symptoms preserve their original thirteen and speech/voice their original eight, and swallowing/globus and cough/upper-airway symptoms their original seven each. PPPD preserves its original eight without additions. Entries are not a quota of validated tests.
+The historical collection baseline remains 170 entries. Dystonia's and FCD's separately dated research additions make the current catalogue 172. FCD preserves its original eight entries and separately adds the preliminary FCD-Q8 classifier; OT outcome tools are not counted as diagnostic signs. Gait preserves its original thirteen, seizures its original twenty and sensory symptoms their original seven without additions; visual symptoms preserve their original thirteen and speech/voice their original eight, and swallowing/globus and cough/upper-airway symptoms their original seven each. PPPD preserves its original eight and facial symptoms their original seven without additions. Entries are not a quota of validated tests.
 
 [Collection](../../reference/diagnostic-signs/README.md) · [Authoring structures](diagnostic-page-authoring-structures.md) · [Gait implementation record](functional-gait-diagnostic-expansion.md) · [Seizures implementation record](functional-seizures-diagnostic-expansion.md) · [Site Map](../../SITEMAP.md)
 
@@ -47,3 +47,5 @@ The historical collection baseline remains 170 entries. Dystonia's and FCD's sep
 [FCD diagnostic and measurement implementation record](functional-cognitive-diagnostic-expansion.md)
 
 [PPPD implementation record](pppd-diagnostic-expansion.md)
+
+[Functional facial implementation record](functional-facial-diagnostic-expansion.md)
