@@ -348,6 +348,8 @@ Use this source for its broad clinical overview, diagnostic-pitfall table, posit
 
 **Additional current use — biopsychosocial source verification, October 3, 2026:** [Collection overview](../reference/biopsychosocial-experiences/README.md); [Emotional regulation and overwhelm](../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md); [Self-doubt and variable disability](../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md).
 
+**Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0002
 
 Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264)
@@ -448,6 +450,8 @@ Use this source to distinguish scan-positive from scan-negative suspected cauda 
 
 **Additional current use — functional paralysis:** [Making a Plan for Familiar Paralysis Episodes](../reference/recovery-techniques/functional_paralysis/06-familiar-episode-plan.md); [Functional paralysis overview](../reference/recovery-techniques/15-functional-paralysis.md).
 
+**Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0017
 
 Sekine ER, Kanaan RA, McMillan J, Oxford S, Iles RA. Biopsychosocial prognostic indicators in Functional Neurological Disorder: a systematic review. *Journal of Psychosomatic Research*. 2025;195:112201. [https://doi.org/10.1016/j.jpsychores.2025.112201](https://doi.org/10.1016/j.jpsychores.2025.112201)
@@ -459,6 +463,8 @@ Use this source for evidence about biological, psychological and social factors 
 McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. [https://doi.org/10.1016/j.jpsychores.2011.09.003](https://doi.org/10.1016/j.jpsychores.2011.09.003)
 
 Use this source for the operational description and prospective assessment of Hoover’s sign in people presenting with suspected stroke. The functional-weakness subgroup was very small, so its reported sensitivity and specificity must not be presented as universal accuracy estimates.
+
+**Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0019
 
@@ -485,6 +491,8 @@ Use this source for recognized functional dystonia presentations, including fixe
 Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. [https://doi.org/10.1016/j.cnp.2023.12.006](https://doi.org/10.1016/j.cnp.2023.12.006)
 
 Use this source for specialist clinical-neurophysiology methods in functional motor disorders, including EEG–EMG assessment and jerk-locked back-averaging. Laboratory findings support clinical diagnosis; an absent Bereitschaftspotential does not exclude functional jerks.
+
+**Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0023
 
@@ -646,6 +654,8 @@ Stone J, Warlow C, Sharpe M. The symptom of functional weakness: a controlled st
 
 Use this source for the disability comparison and clinical characteristics of functional weakness in the studied cohort. It addresses one FND presentation and should not be generalized to every symptom type without additional evidence.
 
+**Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0048
 
 Jones B, Reuber M, Norman P. Correlates of health-related quality of life in adults with psychogenic nonepileptic seizures: a systematic review. *Epilepsia*. 2016;57(2):171–181. [https://doi.org/10.1111/epi.13268](https://doi.org/10.1111/epi.13268)
@@ -716,11 +726,15 @@ Tinazzi M, Simonetto S, Franco L, et al. Abduction finger sign: a new sign to de
 
 Use this source for its described finger-abduction comparison in unilateral upper-limb functional paralysis. Do not extrapolate it to bilateral, lower-limb, facial or widespread paralysis, or present one study as a universal diagnostic test.
 
+**Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0058
 
 Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of Neurology, Neurosurgery & Psychiatry*. 2004;75(1):121–125. [https://pmc.ncbi.nlm.nih.gov/articles/PMC1757483/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1757483/)
 
 Use this source for the bilateral hip-abductor comparison described in unilateral lower-limb paresis. Preserve the historical terminology only when quoting or giving the article title; use current non-stigmatizing language elsewhere. Do not extrapolate the result to bilateral or widespread paralysis.
+
+**Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0059
 
@@ -1044,6 +1058,8 @@ Public clinical safety guidance: sudden speech/language symptoms can signal stro
 
 **Additional diagnostic uses:** [Functional facial expansion source-use map](#functional-facial-diagnostic-expansion-source-use-map).
 
+**Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0109
 
 American Speech-Language-Hearing Association. Voice Disorders. *Practice Portal*. Accessed September 17, 2026. [Source](https://www.asha.org/practice-portal/clinical-topics/voice-disorders/).
@@ -1150,6 +1166,8 @@ Baker JH, Silver JR. Hysterical paraplegia. *Journal of neurology, neurosurgery,
 
 **Diagnostic use:** [15-functional-paralysis](../reference/diagnostic-signs/15-functional-paralysis.md).
 
+**Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0121
 
 Kumru H, Valls-Solé J, Valldeoriola F, et al. Transient arrest of psychogenic tremor induced by contralateral ballistic movements. *Neuroscience letters*. 2004;370(2-3):135-139. [DOI](https://doi.org/10.1016/j.neulet.2004.08.009). [PMID: 15488310](https://pubmed.ncbi.nlm.nih.gov/15488310/).
@@ -1212,11 +1230,15 @@ Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of 
 
 **Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [05-functional-gait-disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md), [07-functional-sensory-symptoms](../reference/diagnostic-signs/07-functional-sensory-symptoms.md), [15-functional-paralysis](../reference/diagnostic-signs/15-functional-paralysis.md).
 
+**Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0131
 
 Daum C, Aybek S. Validity of the "Drift without pronation" sign in conversion disorder. *BMC neurology*. 2013;13:31. [DOI](https://doi.org/10.1186/1471-2377-13-31). [PMID: 23548051](https://pubmed.ncbi.nlm.nih.gov/23548051/).
 
 **Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [15-functional-paralysis](../reference/diagnostic-signs/15-functional-paralysis.md).
+
+**Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0132
 
@@ -1235,6 +1257,8 @@ Seneviratne U, Minato E, Paul E. How reliable is ictal duration to differentiate
 Lombardi TL, Barton E, Wang J, et al. The elbow flex-ex: a new sign to detect unilateral upper extremity non-organic paresis. *Journal of neurology, neurosurgery, and psychiatry*. 2014;85(2):165-167. [DOI](https://doi.org/10.1136/jnnp-2012-304314). [PMID: 23695497](https://pubmed.ncbi.nlm.nih.gov/23695497/).
 
 **Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [15-functional-paralysis](../reference/diagnostic-signs/15-functional-paralysis.md).
+
+**Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0135
 
@@ -1432,6 +1456,8 @@ Yugué I, Shiba K, Ueta T, Iwamoto Y. A new clinical evaluation for hysterical p
 
 **Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [15-functional-paralysis](../reference/diagnostic-signs/15-functional-paralysis.md).
 
+**Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0167
 
 De Paola L, Terra VC, Silvado CE, et al. Improving first responders' psychogenic nonepileptic seizures diagnosis accuracy: Development and validation of a 6-item bedside diagnostic tool. *Epilepsy & behavior : E&B*. 2016;54:40-46. [DOI](https://doi.org/10.1016/j.yebeh.2015.10.025). [PMID: 26645799](https://pubmed.ncbi.nlm.nih.gov/26645799/).
@@ -1545,6 +1571,8 @@ Walczak TS, Bogolioubov A. Weeping during psychogenic nonepileptic seizures. *Ep
 Sonoo M. Paradoxical wrist flexion: A new test to detect functional weakness of the upper limb. *eNeurologicalSci*. 2021;22:100302. [DOI](https://doi.org/10.1016/j.ensci.2020.100302). [PMID: 33344786](https://pubmed.ncbi.nlm.nih.gov/33344786/).
 
 **Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [15-functional-paralysis](../reference/diagnostic-signs/15-functional-paralysis.md).
+
+**Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0186
 
@@ -2391,3 +2419,15 @@ October 6, 2026. Existing stable IDs retained; no new source or diagnostic entry
 | [functional_facial_symptoms/02-jaw-tongue-and-mouth-assessment.md](../reference/diagnostic-signs/functional_facial_symptoms/02-jaw-tongue-and-mouth-assessment.md) | [FND-CIT-0053](#fnd-cit-0053) |
 | [functional_facial_symptoms/03-eye-closure-weakness-and-differential-testing.md](../reference/diagnostic-signs/functional_facial_symptoms/03-eye-closure-weakness-and-differential-testing.md) | [FND-CIT-0056](#fnd-cit-0056), [FND-CIT-0052](#fnd-cit-0052), [FND-CIT-0124](#fnd-cit-0124), [FND-CIT-0155](#fnd-cit-0155), [FND-CIT-0108](#fnd-cit-0108), [FND-CIT-0197](#fnd-cit-0197) |
 | [functional_facial_symptoms/technique-inventory.md](../reference/diagnostic-signs/functional_facial_symptoms/technique-inventory.md) | [FND-CIT-0052](#fnd-cit-0052), [FND-CIT-0053](#fnd-cit-0053), [FND-CIT-0054](#fnd-cit-0054), [FND-CIT-0021](#fnd-cit-0021), [FND-CIT-0056](#fnd-cit-0056), [FND-CIT-0155](#fnd-cit-0155), [FND-CIT-0124](#fnd-cit-0124) |
+
+## Functional paralysis diagnostic expansion source-use map
+
+October 6, 2026. Existing stable IDs and original inventory source associations retained; no new source ID or diagnostic entry.
+
+| Page | Stable sources |
+|---|---|
+| [15-functional-paralysis.md](../reference/diagnostic-signs/15-functional-paralysis.md) | [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0018](#fnd-cit-0018), [FND-CIT-0057](#fnd-cit-0057), [FND-CIT-0058](#fnd-cit-0058), [FND-CIT-0166](#fnd-cit-0166), [FND-CIT-0134](#fnd-cit-0134), [FND-CIT-0047](#fnd-cit-0047), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0120](#fnd-cit-0120), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0131](#fnd-cit-0131), [FND-CIT-0185](#fnd-cit-0185), [FND-CIT-0108](#fnd-cit-0108), [FND-CIT-0016](#fnd-cit-0016) |
+| [functional_paralysis/01-severe-immobility-assessment.md](../reference/diagnostic-signs/functional_paralysis/01-severe-immobility-assessment.md) | [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0108](#fnd-cit-0108), [FND-CIT-0016](#fnd-cit-0016) |
+| [functional_paralysis/02-leg-comparisons-and-limits.md](../reference/diagnostic-signs/functional_paralysis/02-leg-comparisons-and-limits.md) | [FND-CIT-0018](#fnd-cit-0018), [FND-CIT-0058](#fnd-cit-0058), [FND-CIT-0166](#fnd-cit-0166) |
+| [functional_paralysis/03-arm-comparisons-and-limits.md](../reference/diagnostic-signs/functional_paralysis/03-arm-comparisons-and-limits.md) | [FND-CIT-0057](#fnd-cit-0057), [FND-CIT-0134](#fnd-cit-0134) |
+| [functional_paralysis/technique-inventory.md](../reference/diagnostic-signs/functional_paralysis/technique-inventory.md) | [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0018](#fnd-cit-0018), [FND-CIT-0057](#fnd-cit-0057), [FND-CIT-0058](#fnd-cit-0058), [FND-CIT-0166](#fnd-cit-0166), [FND-CIT-0134](#fnd-cit-0134), [FND-CIT-0047](#fnd-cit-0047), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0120](#fnd-cit-0120), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0131](#fnd-cit-0131), [FND-CIT-0185](#fnd-cit-0185) |

@@ -46,6 +46,8 @@ An arm or leg may feel weak, heavy or difficult to control. Movement may be poss
 
 ## Functional Paralysis
 
+The diagnosis overview links to assessment of severe immobility, care needs and the limits of arm and leg comparisons.
+
 [Understanding & Diagnosis](diagnostic-signs/15-functional-paralysis.md)<br>
 [Recovery Techniques](recovery-techniques/15-functional-paralysis.md)
 
