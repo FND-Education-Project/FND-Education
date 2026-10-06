@@ -1156,16 +1156,25 @@ Read Fasano's methods, exclusions and pattern descriptions; Yoshida's selection 
 
 ### Read first — symptom-level evidence
 
-- [ ] Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. https://doi.org/10.7861/clinmed.2020-0987
-- [ ] McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. https://doi.org/10.1016/j.jpsychores.2011.09.003
-- [ ] Tinazzi M, Simonetto S, Franco L, et al. Abduction finger sign: a new sign to detect unilateral functional paralysis of the upper limb. *Movement Disorders*. 2008;23(16):2415–2419. https://doi.org/10.1002/mds.22268
+- [ ] Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. Source linked earlier
+- [ ] McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. Source linked earlier
+- [ ] Tinazzi M, Simonetto S, Franco L, et al. Abduction finger sign: a new sign to detect unilateral functional paralysis of the upper limb. *Movement Disorders*. 2008;23(16):2415–2419. Source linked earlier
 - [ ] Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of Neurology, Neurosurgery & Psychiatry*. 2004;75(1):121–125. Historical terminology retained in the article title. https://pmc.ncbi.nlm.nih.gov/articles/PMC1757483/
+
+### Detailed-page review — October 6, 2026
+
+- [Severe Immobility: Assessment and Care Needs](../../diagnostic-signs/functional_paralysis/01-severe-immobility-assessment.md)
+- [Leg Comparisons in Functional Paralysis](../../diagnostic-signs/functional_paralysis/02-leg-comparisons-and-limits.md)
+- [Arm Comparisons in Functional Paralysis](../../diagnostic-signs/functional_paralysis/03-arm-comparisons-and-limits.md)
+- [Functional Paralysis Diagnostic Inventory](../../diagnostic-signs/functional_paralysis/technique-inventory.md)
+
+Primary indexed abstracts were checked for Sonoo’s abductor sign, Tinazzi’s finger sign, Yugué’s spinal injuries centre test and Lombardi’s elbow sign. Full-text appraisal remains pending. Review selection, unilateral versus bilateral applicability, comparator conditions and the distinction between legs and independent participants. These small selected studies do not validate an overall care assessment or disability score. Existing framework sources remain inherited evidence; all human review checkboxes remain open.
 
 ### Technique / inventory review order
 
 #### Hoover’s sign in suitable unilateral paralysis
 
-- [ ] McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. https://doi.org/10.1016/j.jpsychores.2011.09.003
+- [ ] McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. Source linked earlier
 
 #### Hip-abductor sign
 
@@ -1173,7 +1182,7 @@ Read Fasano's methods, exclusions and pattern descriptions; Yoshida's selection 
 
 #### Abduction-finger sign
 
-- [ ] Tinazzi M, Simonetto S, Franco L, et al. Abduction finger sign: a new sign to detect unilateral functional paralysis of the upper limb. *Movement Disorders*. 2008;23(16):2415–2419. https://doi.org/10.1002/mds.22268
+- [ ] Tinazzi M, Simonetto S, Franco L, et al. Abduction finger sign: a new sign to detect unilateral functional paralysis of the upper limb. *Movement Disorders*. 2008;23(16):2415–2419. Source linked earlier
 
 #### Spinal Injuries Center test
 

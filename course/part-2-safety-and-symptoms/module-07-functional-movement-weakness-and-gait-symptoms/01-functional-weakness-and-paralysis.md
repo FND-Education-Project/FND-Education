@@ -118,6 +118,8 @@ Assess falls, pain, fatigue, comorbidity, task demands and equipment needs. Use 
 
 **Related reference:** [Functional paralysis: seven detailed recovery and care pages](../../../reference/recovery-techniques/functional_paralysis/README.md).
 
+**Further reading in the Reference Library:** [Severe Immobility: Assessment and Care Needs](../../../reference/diagnostic-signs/functional_paralysis/01-severe-immobility-assessment.md), [Leg Comparisons in Functional Paralysis](../../../reference/diagnostic-signs/functional_paralysis/02-leg-comparisons-and-limits.md), [Arm Comparisons in Functional Paralysis](../../../reference/diagnostic-signs/functional_paralysis/03-arm-comparisons-and-limits.md).
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Tremor, Jerks, Tics, and Spasms](02-tremor-jerks-and-spasms.md)
 

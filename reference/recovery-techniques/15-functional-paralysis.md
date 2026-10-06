@@ -161,6 +161,8 @@ The seven original entries are mainly supported by professional consensus and br
 [Research and Sources](#research-and-sources)
 ***
 
+**Assessment reading:** The [paralysis diagnostic overview](../diagnostic-signs/15-functional-paralysis.md#quick-reference) links to three detailed guides and the preserved inventory.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Finding a Movement You Can Start With](functional_paralysis/01-available-movement.md)
 

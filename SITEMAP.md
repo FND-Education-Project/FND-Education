@@ -362,6 +362,10 @@ Use the sections below to drill down into the course, reference library, researc
 - [Eye Closure, Facial Weakness and Differential Testing](reference/diagnostic-signs/functional_facial_symptoms/03-eye-closure-weakness-and-differential-testing.md)
 - [Functional Facial Symptoms Diagnostic Inventory](reference/diagnostic-signs/functional_facial_symptoms/technique-inventory.md)
 - [Functional Paralysis](reference/diagnostic-signs/15-functional-paralysis.md)
+- [Severe Immobility: Assessment and Care Needs](reference/diagnostic-signs/functional_paralysis/01-severe-immobility-assessment.md)
+- [Leg Comparisons in Functional Paralysis](reference/diagnostic-signs/functional_paralysis/02-leg-comparisons-and-limits.md)
+- [Arm Comparisons in Functional Paralysis](reference/diagnostic-signs/functional_paralysis/03-arm-comparisons-and-limits.md)
+- [Functional Paralysis Diagnostic Inventory](reference/diagnostic-signs/functional_paralysis/technique-inventory.md)
 - [Functional Drop Attacks](reference/diagnostic-signs/16-functional-drop-attacks.md)
 - [Scan-Negative Cauda Equina Presentations — diagnostic overlap](reference/diagnostic-signs/scan-negative-cauda-equina.md)
 
@@ -823,3 +827,5 @@ Use the sections below to drill down into the course, reference library, researc
 - [PPPD diagnostic expansion record](docs/project/pppd-diagnostic-expansion.md)
 
 - [Functional facial diagnostic expansion record](docs/project/functional-facial-diagnostic-expansion.md)
+
+- [Functional paralysis diagnostic expansion record](docs/project/functional-paralysis-diagnostic-expansion.md)
