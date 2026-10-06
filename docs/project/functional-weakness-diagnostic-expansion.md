@@ -2,6 +2,8 @@
 
 September 26, 2026. Working draft; clinical, lived-experience and accessibility review remains pending.
 
+**October 6, 2026 update:** At the project lead’s request, personal accounts and the human-draft notice have been removed from the public diagnosis page. The complete pre-edit source and attributed passages are preserved in the [internal human-content archive](../../reference/_internal/diagnostic-signs/human-content-archive.md). The preservation statements below describe the original September expansion, not the current publication state.
+
 ## Scope and migration
 
 This implements the first stage of the [preparation plan](diagnostic-expansion-preparation.md) using the [authoring structures](diagnostic-page-authoring-structures.md). It adds one detailed technique, Hoover’s sign, three shared explanations and their navigation overview. The original sixteen-entry inventory is retained separately. These are not sixteen newly validated tests or sixteen completed expansions; the historical [170-entry baseline](diagnostic-expansion-baseline.md) remains unchanged.

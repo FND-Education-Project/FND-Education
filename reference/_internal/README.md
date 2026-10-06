@@ -6,6 +6,10 @@ This folder contains repository-only editorial, review and production material f
 
 If a document becomes reader-ready, move it out of `_internal` into the appropriate public Reference location instead of adding a publication exception.
 
+## Diagnostic editorial archive
+
+- [Human-content archive](diagnostic-signs/human-content-archive.md) — preserved project-lead accounts and the complete pre-removal limb-weakness source. Repository-only; not private.
+
 ## Community-source review material
 
 - [Community experience quote notebook](recovery-techniques/community-experience-quotes.md) — working source notebook that groups public lived-experience quotations by symptom and technique. These accounts are review material, not evidence that a treatment works or fails.
