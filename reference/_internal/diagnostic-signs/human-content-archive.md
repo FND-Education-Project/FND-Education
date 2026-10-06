@@ -1,10 +1,37 @@
+# Diagnosis pages: human-content archive
+
+Archived October 6, 2026, at the project lead’s request. Repository-only editorial material; excluded from the public website and search. This is not private storage: the repository remains public.
+
+## Provenance and scope
+
+Source: `reference/diagnostic-signs/01-functional-limb-weakness.md` on main at `c2ef6fc8cb0f07a0bea37af14b51b2e6e42a0a18`.
+
+The diagnostic-sign and shared diagnostic-concept pages were checked for human-authorship labels, project-lead attribution and personal accounts. The limb-weakness overview was the only page explicitly identified as a human draft. Its two attributed personal accounts are preserved below, including their original qualifications. Its complete pre-edit source is also preserved verbatim because the mixed-authorship page does not mark every sentence’s individual provenance. The snapshot must not be treated as wholly human-authored.
+
+The public page’s personal passages and human-draft notice were removed, its opening wording revised, and its obsolete preservation notes updated. Existing research, clinician guidance and example questions are not personal testimony. No personal account should be restored to diagnosis pages without a new editorial decision from the project lead.
+
+## Attributed personal passages — verbatim
+
+> “For me, my legs respond less and less when I become distracted or overwhelmed by too many things happening around me. It also happens around one of my functional seizures.”
+
+— Project-lead lived experience. This is one person’s pattern, not a rule about what causes functional weakness.
+
+> “In my own case, the neurologist adapted *Hoover’s Sign* to show that the weakness of my arms appeared to be restored under a certain distraction. That became like evidence to me that this was not an injury preventing use of my arms.”
+
+— Project-lead lived experience. In clinical terminology, **Hoover’s sign refers specifically to a leg comparison**. An upper-limb examination may use the same broader idea—comparing deliberate movement with movement that becomes more available during another action—but the clinician should name and explain the actual arm sign or task rather than call it Hoover’s sign.
+
+## Complete pre-edit page — verbatim source
+
+The relative links inside this source snapshot retain their original spelling and resolve from the original page location.
+
+````markdown
 # Functional Limb Weakness
 
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Limb Weakness**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Automatically generated working draft — October 6, 2026.** Human, neurology, physiotherapy, lived-experience and accessibility review pending.
+> **Human draft in progress:** This page includes wording and lived experience from the project lead. It still needs neurology, physiotherapy, lived-experience and accessibility review.
 
 **Refers to:**
 
@@ -32,9 +59,13 @@
 
 ## For the Person With FND
 
-An arm or leg may feel heavy or have less strength than usual. You may struggle to grip, lift your foot or keep a limb steady. Functional limb weakness affects voluntary movement and is not something the person chooses. This page covers partial weakness; complete or near-complete loss of voluntary movement has its own [functional paralysis page](15-functional-paralysis.md), and apparent facial weakness has its own [functional facial symptoms page](14-functional-facial-symptoms.md).
+The thought is there, but the movement does not come—or it comes with much less power than expected. Functional limb weakness is a real, involuntary difficulty accessing movement. It can affect an arm, hand, leg or foot. This page covers partial weakness; complete or near-complete loss of voluntary movement has its own [functional paralysis page](15-functional-paralysis.md), and apparent facial weakness has its own [functional facial symptoms page](14-functional-facial-symptoms.md).
 
 Functional weakness does not have to look the same all day. It may persist, fluctuate in severity or appear mainly in episodes. The limb involved can sometimes vary. A person may notice a relationship with a particular task, fatigue, pain, competing attention, sensory or cognitive load, or another FND symptom. These are possible patterns to describe—not required causes or proof that the person should be able to prevent the symptom.
+
+> “For me, my legs respond less and less when I become distracted or overwhelmed by too many things happening around me. It also happens around one of my functional seizures.”
+
+— Project-lead lived experience. This is one person’s pattern, not a rule about what causes functional weakness.
 
 A symptom that is absent or milder during an appointment is no less real. The clinician should listen to the history and look for **positive features** that fit the person’s actual presentation, while also assessing other possible or coexisting causes.
 
@@ -44,6 +75,10 @@ The clinician looks for findings that fit your particular weakness. A leg compar
 
 <a id="what-hoovers-sign-can-show"></a>
 Hoover’s sign is one example: the affected leg may press down more strongly during the other leg’s movement than when asked to press down directly. [The separate Hoover’s-sign page](functional_limb_weakness/01-hoovers-sign.md) explains the anatomy, examination and limits. It supports a diagnosis in the right context; it does not measure your whole ability to walk or manage a day. (*citations* [2](#citation-2))
+
+> “In my own case, the neurologist adapted *Hoover’s Sign* to show that the weakness of my arms appeared to be restored under a certain distraction. That became like evidence to me that this was not an injury preventing use of my arms.”
+
+— Project-lead lived experience. In clinical terminology, **Hoover’s sign refers specifically to a leg comparison**. An upper-limb examination may use the same broader idea—comparing deliberate movement with movement that becomes more available during another action—but the clinician should name and explain the actual arm sign or task rather than call it Hoover’s sign.
 
 ### What else can cause weakness?
 
@@ -172,7 +207,7 @@ The [media brief and image review](functional_limb_weakness/01-hoovers-sign.md#m
 
 ### Evidence notes
 
-This page separates diagnostic reasoning from examination technique and daily-life impact. The explanations below are based on the cited clinical literature.
+This expansion separates diagnostic reasoning from examination technique and daily-life impact. The two first-person passages remain project-lead lived experience, with their wording and qualifications preserved. They are not diagnostic evidence.
 
 The clinical review supplies context, the Hoover cohort supplies a narrow validation result, the functional-weakness study supplies group-level disability and mental-health information, and OT guidance supplies an assessment framework. None defines an individual’s severity or prognosis. The remaining inventory entries retain their original sources and await individual re-review.
 
@@ -203,7 +238,7 @@ The clinical review supplies context, the Hoover cohort supplies a narrow valida
 
 *Sources 4–18 remain for the preserved inventory links and their historical anchors; see the [inventory](functional_limb_weakness/technique-inventory.md) for the associated claims.*
 
-*Expanded September 26, 2026; personal material removed October 6, 2026. Human, clinical, lived-experience and accessibility review pending.*
+*Expanded September 26, 2026, preserving project-lead material from the September 10 draft. Clinical, lived-experience and accessibility review pending.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -220,3 +255,4 @@ The clinical review supplies context, the Hoover cohort supplies a narrow valida
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+````
