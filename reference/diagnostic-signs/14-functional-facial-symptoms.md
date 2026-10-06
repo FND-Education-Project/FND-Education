@@ -4,7 +4,7 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Facial Symptoms**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Automatically generated working draft — October 6, 2026.** Human, movement-disorders, neuro-ophthalmology, speech-language, dental/oral medicine, physiotherapy, OT, lived-experience and accessibility review pending.
 
 **Refers to:**
 
@@ -18,9 +18,9 @@
 
 **Presentation:** Identify a positive functional facial pattern in the wider neurological examination while assessing stroke, facial-nerve disease, hemifacial spasm, non-functional dystonia and other alternatives.
 
-- [Lower-lip pulling with jaw deviation](#lower-lip-pulling-with-jaw-deviation) — describe the facial movement pattern.
-- [Task inconsistency and distractibility](#task-inconsistency-and-distractibility) — compare selected facial tasks.
-- [Facial strength, reflexes and targeted investigations](#facial-strength-reflexes-and-targeted-investigations) — assess weakness and alternative explanations.
+- [Pattern-based facial examination](functional_facial_symptoms/01-pattern-based-facial-examination.md) — distinguish pulling from weakness and compare comfortable tasks.
+- [Jaw, tongue and mouth assessment](functional_facial_symptoms/02-jaw-tongue-and-mouth-assessment.md) — assess the movement alongside oral function.
+- [Eye symptoms and differential testing](functional_facial_symptoms/03-eye-closure-weakness-and-differential-testing.md) — assess eye closure, weakness and alternative explanations.
 
 **More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
@@ -33,6 +33,8 @@
 
 ## For the Person With FND
 
+Your mouth may feel pulled to one side, your jaw may sit off-centre, or an eye may keep narrowing or closing. Speaking, keeping your lips together or looking at someone may become difficult. This page concerns those facial movement difficulties; their appearance alone cannot tell you their cause. (*citations* [1](#citation-1), [2](#citation-2), [5](#citation-5))
+
 **Facial droop is a description, not a diagnosis.** One person may have weakness of facial muscles. Another may have muscle overactivity pulling the corner of the mouth down and the jaw to one side, creating an appearance that resembles weakness. Functional facial symptoms can also involve narrowing or closure around an eye, lip or jaw spasm, facial pulling, tongue movement, difficulty holding the lips together, or, less commonly, functional facial weakness or a droopy eyelid. A photograph or online description cannot safely tell these mechanisms apart. (*citations* [1](#citation-1), [3](#citation-3), [5](#citation-5))
 
 The best-described functional facial movement pattern is sustained downward or sideways pulling of one side of the lower lip, often with the jaw pulled toward the same side and visible tightening of the thin platysma muscle across the front of the neck. This is **muscle overactivity**, not proof that the lower half of the face is weak. The pattern is useful evidence only when a clinician recognizes it in the full history and examination. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
@@ -44,9 +46,17 @@ Functional facial spasm or pulling may occur in episodes, fluctuate through the 
 During a **familiar, medically assessed** episode, stop driving, eating or another activity made unsafe by impaired vision, mouth control or awareness. Use only the positioning or onset strategy already agreed with the treating team. Do not repeatedly force the mouth straight, stretch the jaw, pry open an eyelid or test the face until it is painful.
 
 > [!CAUTION]
-> **New, sudden or distinctly changed facial droop needs urgent medical assessment.** Stroke, transient ischemic attack and other neurological conditions must not be dismissed because the person has FND or has experienced facial symptoms before. Call emergency services when facial droop begins suddenly or occurs with new arm or leg weakness, speech or understanding difficulty, severe headache, loss of balance, double vision, confusion or reduced consciousness.
+> **New, sudden or distinctly changed facial droop needs urgent medical assessment.** Stroke, transient ischemic attack and other neurological conditions must not be dismissed because the person has FND or has experienced facial symptoms before. Call emergency services when facial droop begins suddenly or occurs with new arm or leg weakness, speech or understanding difficulty, severe headache, loss of balance, double vision, confusion or reduced consciousness. (*citations* [9](#citation-9))
 
 Drooling may occur when lip or mouth control is reduced, but it can also accompany swallowing, dental, medication, facial-nerve or other medical problems. New drooling, coughing or choking with food or drink, a wet or gurgly voice, food remaining in the mouth, recurrent chest infection, dehydration or weight loss deserves swallowing and medical assessment. See [Functional Swallowing Symptoms and Globus](10-functional-swallowing-and-globus.md).
+
+### What to bring to the assessment
+
+A few ordinary examples can help: what your face does, how long it lasts, whether it hurts, and what it interrupts. You can describe the help needed for communication, meals, mouth care, reading or going out. You do not have to reproduce a painful episode to explain its impact.
+
+Ask the clinician to explain what supports the diagnosis and what still needs assessment. A short successful movement does not settle whether you can repeat it comfortably all day. If embarrassment, worry or being misunderstood is affecting you, that also deserves attention without being assumed to be the cause.
+
+If you cannot fully close an eye, seek prompt advice about protecting it. This is a different problem from an eye being pulled shut; an individual assessment should guide care. (*citations* [10](#citation-10))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -72,6 +82,10 @@ If the person has already had the facial symptom assessed and it matches their e
 
 A familiar episode may be brief or may last much longer. Support safety and dignity rather than expecting the person to stop it on command. An inability to change the symptom says nothing about effort.
 
+### Helping with an appointment
+
+With permission, help recall the sequence and timing, bring previous reports and describe practical assistance you provide. Distinguish what you saw from what the person felt. Ask whether they want help taking notes or communicating, and leave time for their own answers. An existing video may help if safely obtained and shared with consent; do not arrange a performance of symptoms for the appointment.
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -87,7 +101,7 @@ A familiar episode may be brief or may last much longer. Support safety and dign
 
 ### Motor and vocal tic-like symptoms
 
-Facial tic-like movements need their own assessment. A facial location does not make a tic equivalent to dystonia, weakness or spasm. [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
+Facial tic-like movements need their own assessment. A facial location does not make a tic equivalent to dystonia, weakness or spasm. (*citations* [8](#citation-8)) [See the dedicated functional-tics page](17-functional-tics-and-tic-like-symptoms.md).
 
 Start by deciding what the word **droop** describes: reduced facial activation, sustained downward lip pulling, jaw deviation, platysma or orbicularis oculi overactivity, ptosis, impaired mouth closure, or a mixed presentation. Functional facial dystonia and genuine functional facial weakness are not interchangeable labels. Explain the observed mechanism to the patient and show the positive evidence when it is safe and clear.
 
@@ -97,29 +111,23 @@ Document onset, duration, frequency, side, stereotypy, warning symptoms, pain, s
 
 ### Technique outline: pattern-based facial examination
 
-1. **Clarify the phenotype.** Observe the face at rest, during spontaneous speech and expression, and during selected facial movements. Record actual movement and muscle activation rather than beginning with the label “weakness.”
-2. **Look for the recognized lower-face pattern.** Sustained unilateral downward or lateral lower-lip pulling, ipsilateral jaw deviation and platysma contraction support functional facial dystonia in the appropriate setting.
-3. **Assess the eye carefully.** Distinguish orbicularis oculi overactivity and active eye closure from ptosis or impaired eye closure. Functional ptosis and functional eye closure are uncommon and require appropriate neuro-ophthalmic or movement-disorder expertise.
-4. **Test for positive functional features without provocation.** Look for reproducible internal inconsistency, variability across tasks, distractibility or a change with automatic expression. Do not diagnose from abrupt onset, psychiatric history, normal imaging, pain or one unusual movement alone.
-5. **Examine connected functions.** Assess speech, tongue and jaw movement, lip seal, swallowing safety, limb findings, gait and awareness when the history indicates. Facial spasm may coexist with other functional symptoms, including ipsilateral functional limb weakness.
-6. **Assess alternatives and coexistence.** Consider acute stroke or TIA, Bell palsy and other facial neuropathies, post-palsy synkinesis, hemifacial spasm, blepharospasm, non-functional cranial or oromandibular dystonia, myasthenia gravis and other causes of ptosis, medication-induced movement disorders, structural lesions, dental or temporomandibular disease, migraine and seizure-related phenomena.
-7. **Use tests to answer a clinical question.** Imaging, vascular assessment, electrodiagnostic testing, laboratory work, swallow assessment or specialist review may be needed according to onset and phenotype. Normal tests do not create a positive FND diagnosis.
-8. **Explain limits and safety.** State which positive features support the diagnosis, which alternatives were assessed, whether more than one condition may be present, and what new pattern should trigger reassessment.
+The original eight-step outline is preserved in [Pattern-Based Facial Examination](functional_facial_symptoms/01-pattern-based-facial-examination.md#technique-outline-pattern-based-facial-examination). The [mouth guide](functional_facial_symptoms/02-jaw-tongue-and-mouth-assessment.md) and [eye/differential guide](functional_facial_symptoms/03-eye-closure-weakness-and-differential-testing.md) expand the relevant questions and limits.
 
-The classic-pattern evidence comes from selected specialist cohorts, not a validated stand-alone bedside test. In a 61-person, seven-centre retrospective group, 84.3% had sustained lateral or downward lower-lip movement with jaw deviation; in a separate selected 58-person stomatognathic cohort, the classic pattern appeared in 44.8%. The different estimates reflect different referral groups and methods and should not be presented as the prevalence of this pattern in all people with FND. (*citations* [1](#citation-1), [2](#citation-2))
+The classic-pattern evidence comes from selected specialist cohorts: a 61-person seven-centre retrospective group and a separate 58-person stomatognathic group. Their patterns and referral populations differ. Frequencies within these selected samples are not diagnostic sensitivity or prevalence in all people with FND. (*citations* [1](#citation-1), [2](#citation-2))
 
 When improvement is limited, continuing care may still address drooling and skin care, communication access, eating and swallowing safety, eye comfort and vision access, pain, dental or jaw complications, social embarrassment, work or school adaptations and an agreed reassessment plan.
 
+### Everyday impact and coordinated assessment
+
+Record diagnostic evidence, observed performance and daily disability separately. Ask which tasks matter, how often they are possible, what help is needed and what pain or recovery follows. Include communication, meals, eye comfort, dental access and social participation when relevant; these are questions for the individual, not assumed consequences for everyone.
+
+Neurology/movement-disorders assessment may clarify the pattern; neuro-ophthalmology, speech-language services and oral medicine/dentistry may address different unresolved questions. OT and physiotherapy can contribute task and support assessment within their expertise. Agree who coordinates the plan and when a changed presentation needs review.
+
+The [mouth guide's activity record](functional_facial_symptoms/02-jaw-tongue-and-mouth-assessment.md#daily-activity-record) is an authored discussion aid, not a validated facial disability scale. Support should not depend on demonstrating a positive sign during every appointment.
+
 ### Media contributor brief
 
-Use one continuous, consented clip or a short still-image sequence showing:
-
-1. a neutral view at comfortable rest;
-2. the exact lower-lip, jaw, eyelid or neck-muscle change;
-3. one safe comparison during spontaneous expression or another clinically appropriate task; and
-4. an anatomical overlay naming the active muscle when this is known.
-
-The caption must say that one image cannot distinguish stroke, facial-nerve weakness, hemifacial spasm, dystonia and functional facial symptoms. Do not ask a person to repeat a painful spasm, remove ordinary supports, eat or drink for a demonstration, or delay acute medical assessment to obtain media.
+The original brief is preserved in the [pattern-based examination guide](functional_facial_symptoms/01-pattern-based-facial-examination.md#media-contributor-brief), with consent, captions and accessibility guidance.
 
 ***
 
@@ -133,44 +141,39 @@ The caption must say that one image cannot distinguish stroke, facial-nerve weak
 
 ## Diagnostic techniques at a glance
 
-These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
-
-The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
+The [seven-entry inventory](functional_facial_symptoms/technique-inventory.md) preserves every original description and source association. The detailed guides expand their interpretation; patterns and investigations are not interchangeable with validated diagnostic tests.
 
 ### Lower-lip pulling with jaw deviation
 
-The clinician observes sustained unilateral lip pulling, often with jaw movement and neck-muscle activation. A multicentre series describes this functional phenotype, but a characteristic appearance is not a standalone validated test. Facial weakness and other dystonias require assessment. (*citations* [1](#citation-1))
+[Describe the lower-face pattern in context.](functional_facial_symptoms/technique-inventory.md#lower-lip-pulling-with-jaw-deviation)
 
 ### Platysma overactivity
 
-Visible activation of the superficial neck muscle can accompany functional facial pulling. This is a descriptive pattern distinct from reduced platysma activation in weakness testing. Neither finding should be interpreted without the corresponding facial and limb examination. (*citations* [1](#citation-1), [6](#citation-6))
+[Distinguish neck-muscle overactivity from weakness comparisons.](functional_facial_symptoms/technique-inventory.md#platysma-overactivity)
 
 ### Task inconsistency and distractibility
 
-Facial movement is compared during conversation, expression and other comfortable tasks. A clear inconsistency can support the diagnosis; fluctuation alone cannot. The published evidence is mainly observational rather than a validated universal facial test battery. (*citations* [1](#citation-1), [2](#citation-2))
+[Compare comfortable tasks and interpret the differences.](functional_facial_symptoms/technique-inventory.md#task-inconsistency-and-distractibility)
 
 ### Jaw, tongue and stomatognathic assessment
 
-Specialist examination characterizes mouth, jaw and tongue movements and their task dependence. A clinical cohort proposed a structured approach, but its selected sample limits generalisation. Dental, medication-related and neurological causes remain relevant. (*citations* [2](#citation-2))
+[Assess regional movement and the tasks affected.](functional_facial_symptoms/technique-inventory.md#jaw-tongue-and-stomatognathic-assessment)
 
 ### Hemifacial-spasm comparison
 
-The clinician compares the distribution and timing of eyelid and lower-face movements, including eyebrow behaviour where useful. Functional mimics are described, but unusual facial movement alone is insufficient; neurological assessment and selected testing address genuine hemifacial spasm. (*citations* [1](#citation-1))
+[Compare the whole pattern and consider facial-nerve-related spasm.](functional_facial_symptoms/technique-inventory.md#hemifacial-spasm-comparison)
 
 ### Blink-reflex recovery cycle
 
-A small comparative study examined an electrophysiological difference between essential and presumed functional blepharospasm. It is a specialist adjunct with limited validation, not a routine diagnostic test for all facial FND. (*citations* [7](#citation-7))
+[Understand the small specialist study and its limits.](functional_facial_symptoms/technique-inventory.md#blink-reflex-recovery-cycle)
 
 ### Facial strength, reflexes and targeted investigations
 
-Testing facial power and associated neurological findings helps distinguish weakness from overactivity and identify other causes. Imaging or neurophysiology may be appropriate. Normal tests alone do not establish functional facial symptoms. (*citations* [1](#citation-1), [6](#citation-6))
-
+[Select investigations for the actual clinical question.](functional_facial_symptoms/technique-inventory.md#facial-strength-reflexes-and-targeted-investigations)
 
 ***
 
 ## Research and Sources
-
-**Source for this boundary:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); [source](https://doi.org/10.3390/jcm11216470).
 
 ### Evidence notes
 
@@ -182,18 +185,20 @@ Testing facial power and associated neurological findings helps distinguish weak
 
 ### Citation table
 
-| Citation | Full citation |
-|---|---|
-| <a id="citation-1"></a>**[1]** | Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. [FND-CIT-0052](../../research/citation-index.md#fnd-cit-0052). [https://doi.org/10.1002/mds.25190](https://doi.org/10.1002/mds.25190) |
-| <a id="citation-2"></a>**[2]** | Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. [FND-CIT-0053](../../research/citation-index.md#fnd-cit-0053). [https://doi.org/10.3389/fneur.2020.00123](https://doi.org/10.3389/fneur.2020.00123) |
-| <a id="citation-3"></a>**[3]** | Popkirov S, Stone J, Buchan AM. Functional neurological disorder: a common and treatable stroke mimic. *Stroke*. 2020;51(5):1629–1635. [FND-CIT-0054](../../research/citation-index.md#fnd-cit-0054). [https://doi.org/10.1161/STROKEAHA.120.029076](https://doi.org/10.1161/STROKEAHA.120.029076) |
-| <a id="citation-4"></a>**[4]** | Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [FND-CIT-0021](../../research/citation-index.md#fnd-cit-0021). [https://doi.org/10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262) |
-| <a id="citation-5"></a>**[5]** | Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed September 1, 2026. [FND-CIT-0056](../../research/citation-index.md#fnd-cit-0056). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/) |
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | — | Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. [FND-CIT-0052](../../research/citation-index.md#fnd-cit-0052). [https://doi.org/10.1002/mds.25190](https://doi.org/10.1002/mds.25190) |
+| <a id="citation-2"></a>**[2]** | — | Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. [FND-CIT-0053](../../research/citation-index.md#fnd-cit-0053). [https://doi.org/10.3389/fneur.2020.00123](https://doi.org/10.3389/fneur.2020.00123) |
+| <a id="citation-3"></a>**[3]** | — | Popkirov S, Stone J, Buchan AM. Functional neurological disorder: a common and treatable stroke mimic. *Stroke*. 2020;51(5):1629–1635. [FND-CIT-0054](../../research/citation-index.md#fnd-cit-0054). [https://doi.org/10.1161/STROKEAHA.120.029076](https://doi.org/10.1161/STROKEAHA.120.029076) |
+| <a id="citation-4"></a>**[4]** | — | Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [FND-CIT-0021](../../research/citation-index.md#fnd-cit-0021). [https://doi.org/10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262) |
+| <a id="citation-5"></a>**[5]** | — | Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed September 1, 2026. [FND-CIT-0056](../../research/citation-index.md#fnd-cit-0056). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/) |
+| <a id="citation-6"></a>**[6]** | — | Horn D, Galli S, Berney A, et al. Testing Head Rotation and Flexion Is Useful in Functional Limb Weakness. *Movement disorders clinical practice*. 2017;4(4):597-602. [DOI](https://doi.org/10.1002/mdc3.12492). [PMID: 30363481](https://pubmed.ncbi.nlm.nih.gov/30363481/). [FND-CIT-0155](../../research/citation-index.md#fnd-cit-0155). |
+| <a id="citation-7"></a>**[7]** | — | Schwingenschuh P, Katschnig P, Edwards MJ, et al. The blink reflex recovery cycle differs between essential and presumed psychogenic blepharospasm. *Neurology*. 2011;76(7):610-614. [DOI](https://doi.org/10.1212/wnl.0b013e31820c3074). [PMID: 21321334](https://pubmed.ncbi.nlm.nih.gov/21321334/). [FND-CIT-0124](../../research/citation-index.md#fnd-cit-0124). |
+| <a id="citation-8"></a>**[8]** | — | Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [DOI](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110). |
+| <a id="citation-9"></a>**[9]** | — | NHS. Symptoms of a stroke. Reviewed September 12, 2024; accessed October 6, 2026. [Source](https://www.nhs.uk/conditions/stroke/symptoms/). [FND-CIT-0108](../../research/citation-index.md#fnd-cit-0108). |
+| <a id="citation-10"></a>**[10]** | — | NHS. Bell’s palsy. Accessed October 6, 2026. [Source](https://www.nhs.uk/conditions/bells-palsy/). [FND-CIT-0197](../../research/citation-index.md#fnd-cit-0197). |
 
-| <a id="citation-6"></a>**[6]** | Horn D, Galli S, Berney A, et al. Testing Head Rotation and Flexion Is Useful in Functional Limb Weakness. *Movement disorders clinical practice*. 2017;4(4):597-602. [DOI](https://doi.org/10.1002/mdc3.12492). [PMID: 30363481](https://pubmed.ncbi.nlm.nih.gov/30363481/). [FND-CIT-0155](../../research/citation-index.md#fnd-cit-0155). |
-| <a id="citation-7"></a>**[7]** | Schwingenschuh P, Katschnig P, Edwards MJ, et al. The blink reflex recovery cycle differs between essential and presumed psychogenic blepharospasm. *Neurology*. 2011;76(7):610-614. [DOI](https://doi.org/10.1212/wnl.0b013e31820c3074). [PMID: 21321334](https://pubmed.ncbi.nlm.nih.gov/21321334/). [FND-CIT-0124](../../research/citation-index.md#fnd-cit-0124). |
-
-*Evidence search current to September 1, 2026 · Movement-disorders, stroke, speech-language and lived-experience review pending*
+*Targeted evidence update: October 6, 2026. Complete systematic review and human clinical review remain pending.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -203,7 +208,7 @@ Testing facial power and associated neurological findings helps distinguish weak
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Functional Paralysis](15-functional-paralysis.md)
+**Continue:** [Next page: Pattern-Based Facial Examination](functional_facial_symptoms/01-pattern-based-facial-examination.md)
 
 **Related:** [Previous: PPPD diagnostic inventory](persistent_postural_perceptual_dizziness/technique-inventory.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/14-functional-facial-symptoms.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md) · [Swallowing symptoms](10-functional-swallowing-and-globus.md)
 

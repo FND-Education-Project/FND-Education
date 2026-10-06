@@ -1092,29 +1092,44 @@ Read NPQ scores as symptom information; review later validation and measurement 
 - [ ] Popkirov S, Stone J, Buchan AM. Functional neurological disorder: a common and treatable stroke mimic. *Stroke*. 2020;51(5):1629–1635. [https://doi.org/10.1161/STROKEAHA.120.029076](https://doi.org/10.1161/STROKEAHA.120.029076)
 - [ ] Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed September 1, 2026. [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/)
 
+### Detailed-page review — October 6, 2026
+
+- [Pattern-Based Facial Examination](../../diagnostic-signs/functional_facial_symptoms/01-pattern-based-facial-examination.md)
+- [Jaw, Tongue and Mouth Assessment](../../diagnostic-signs/functional_facial_symptoms/02-jaw-tongue-and-mouth-assessment.md)
+- [Eye Closure, Facial Weakness and Differential Testing](../../diagnostic-signs/functional_facial_symptoms/03-eye-closure-weakness-and-differential-testing.md)
+- [Functional Facial Symptoms Diagnostic Inventory](../../diagnostic-signs/functional_facial_symptoms/technique-inventory.md)
+
+Read Fasano's methods, exclusions and pattern descriptions; Yoshida's selection criteria and referral limitations; and the limits of the small Schwingenschuh blink-reflex study. Horn's unilateral limb-weakness population must not be treated as isolated facial validation. The cohort full texts were checked for this expansion; the blink-reflex paper's indexed abstract was checked, and full-text appraisal remains pending. All human review checkboxes remain open.
+
+- [ ] Frucht et al., 2021. Functional dystonia review (FND-CIT-0021; linked earlier).
+- [ ] Stone. Functional facial symptoms. [Specialist explanation](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/). Diagnostic sections checked October 6, 2026.
+- [ ] Malaty et al., 2022. Functional tic-like phenomena (FND-CIT-0110; linked earlier).
+- [ ] NHS. Symptoms of a stroke (FND-CIT-0108; linked earlier). Rechecked October 6, 2026.
+- [ ] NHS. Bell’s palsy. [Eye protection and time-sensitive assessment](https://www.nhs.uk/conditions/bells-palsy/). Rechecked October 6, 2026; adjacent safety guidance.
+
 ### Technique / inventory review order
 
 #### Lower-lip pulling with jaw deviation
 
-- [ ] Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. https://doi.org/10.1002/mds.25190
+- [ ] Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. DOI (linked above)
 
 #### Platysma overactivity
 
-- [ ] Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. https://doi.org/10.1002/mds.25190
+- [ ] Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. DOI (linked above)
 - [ ] Horn D, Galli S, Berney A, et al. Testing Head Rotation and Flexion Is Useful in Functional Limb Weakness. *Movement disorders clinical practice*. 2017;4(4):597-602. DOI. PMID: 30363481.
 
 #### Task inconsistency and distractibility
 
-- [ ] Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. https://doi.org/10.1002/mds.25190
-- [ ] Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. https://doi.org/10.3389/fneur.2020.00123
+- [ ] Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. DOI (linked above)
+- [ ] Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. DOI (linked above)
 
 #### Jaw, tongue and stomatognathic assessment
 
-- [ ] Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. https://doi.org/10.3389/fneur.2020.00123
+- [ ] Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. DOI (linked above)
 
 #### Hemifacial-spasm comparison
 
-- [ ] Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. https://doi.org/10.1002/mds.25190
+- [ ] Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. DOI (linked above)
 
 #### Blink-reflex recovery cycle
 
@@ -1122,7 +1137,7 @@ Read NPQ scores as symptom information; review later validation and measurement 
 
 #### Facial strength, reflexes and targeted investigations
 
-- [ ] Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. https://doi.org/10.1002/mds.25190
+- [ ] Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. DOI (linked above)
 - [ ] Horn D, Galli S, Berney A, et al. Testing Head Rotation and Flexion Is Useful in Functional Limb Weakness. *Movement disorders clinical practice*. 2017;4(4):597-602. DOI. PMID: 30363481.
 
 ### Review completion

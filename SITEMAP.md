@@ -357,6 +357,10 @@ Use the sections below to drill down into the course, reference library, researc
 - [PPPD Questionnaires and Everyday Function](reference/diagnostic-signs/persistent_postural_perceptual_dizziness/03-questionnaires-and-everyday-function.md)
 - [PPPD Diagnostic Inventory](reference/diagnostic-signs/persistent_postural_perceptual_dizziness/technique-inventory.md)
 - [Functional Facial Symptoms — Spasm, Droop and Weakness](reference/diagnostic-signs/14-functional-facial-symptoms.md)
+- [Pattern-Based Facial Examination](reference/diagnostic-signs/functional_facial_symptoms/01-pattern-based-facial-examination.md)
+- [Jaw, Tongue and Mouth Assessment](reference/diagnostic-signs/functional_facial_symptoms/02-jaw-tongue-and-mouth-assessment.md)
+- [Eye Closure, Facial Weakness and Differential Testing](reference/diagnostic-signs/functional_facial_symptoms/03-eye-closure-weakness-and-differential-testing.md)
+- [Functional Facial Symptoms Diagnostic Inventory](reference/diagnostic-signs/functional_facial_symptoms/technique-inventory.md)
 - [Functional Paralysis](reference/diagnostic-signs/15-functional-paralysis.md)
 - [Functional Drop Attacks](reference/diagnostic-signs/16-functional-drop-attacks.md)
 - [Scan-Negative Cauda Equina Presentations — diagnostic overlap](reference/diagnostic-signs/scan-negative-cauda-equina.md)
@@ -817,3 +821,5 @@ Use the sections below to drill down into the course, reference library, researc
 - [FCD diagnostic and measurement expansion record](docs/project/functional-cognitive-diagnostic-expansion.md)
 
 - [PPPD diagnostic expansion record](docs/project/pppd-diagnostic-expansion.md)
+
+- [Functional facial diagnostic expansion record](docs/project/functional-facial-diagnostic-expansion.md)

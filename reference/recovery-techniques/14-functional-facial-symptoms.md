@@ -208,6 +208,8 @@ A small randomized pilot in broader persistent functional dystonia also found no
 [Research and Sources](#research-and-sources)
 ***
 
+**Assessment reading:** The [facial diagnostic overview](../diagnostic-signs/14-functional-facial-symptoms.md#quick-reference) links to three detailed guides and the preserved diagnostic inventory.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Facial Symptoms: Detailed Recovery Pages](functional_facial_symptoms/README.md)
 

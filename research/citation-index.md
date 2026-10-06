@@ -478,6 +478,8 @@ Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from
 
 Use this source for recognized functional dystonia presentations, including fixed postures, pain, differential diagnosis and multidisciplinary care. It does not provide a single decisive bedside sign or justify forced manipulation of a painful posture.
 
+**Additional diagnostic uses:** [Functional facial expansion source-use map](#functional-facial-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0022
 
 Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. [https://doi.org/10.1016/j.cnp.2023.12.006](https://doi.org/10.1016/j.cnp.2023.12.006)
@@ -676,17 +678,23 @@ Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: cl
 
 Use this source for its seven-centre retrospective description of 61 selected patients with functional facial movement disorders, including the common lower-lip and jaw pattern, associated platysma activation, fluctuation over time and uncontrolled treatment outcomes. Do not treat the pattern frequency in this referral cohort as population prevalence, a validated stand-alone diagnostic test or its heterogeneous treatment observations as proof of efficacy.
 
+**Additional diagnostic uses:** [Functional facial expansion source-use map](#functional-facial-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0053
 
 Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. [https://doi.org/10.3389/fneur.2020.00123](https://doi.org/10.3389/fneur.2020.00123)
 
 Use this source for its retrospective description of 58 patients selected with a study-specific feature scale, including jaw deviation, lower-lip pulling, tongue movement, paroxysmal symptoms, inconsistency, incongruity and uncontrolled subjective treatment outcomes. The study did not independently validate its scale for routine diagnosis or establish treatment efficacy.
 
+**Additional diagnostic uses:** [Functional facial expansion source-use map](#functional-facial-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0054
 
 Popkirov S, Stone J, Buchan AM. Functional neurological disorder: a common and treatable stroke mimic. *Stroke*. 2020;51(5):1629–1635. [https://doi.org/10.1161/STROKEAHA.120.029076](https://doi.org/10.1161/STROKEAHA.120.029076)
 
 Use this clinical review to explain how unilateral lower-lip pulling from muscle overactivity may resemble facial weakness and how positive FND signs fit stroke assessment. Do not use the review to bypass acute stroke pathways or attribute new facial droop to FND without appropriate assessment.
+
+**Additional diagnostic uses:** [Functional facial expansion source-use map](#functional-facial-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0055
 
@@ -699,6 +707,8 @@ Use this source for case-level integrated-rehabilitation examples across axial, 
 Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed September 1, 2026. [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/)
 
 Use this changing specialist educational page for a plain-language description of functional facial spasm, rarer functional facial weakness and ptosis, differential diagnosis, explanation, trigger work, graded exposure and uncertainty about Botox. Treat it as expert guidance rather than a controlled study, and preserve an access date whenever it is cited.
+
+**Additional diagnostic uses:** [Functional facial expansion source-use map](#functional-facial-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0057
 
@@ -1032,6 +1042,8 @@ Public clinical safety guidance: sudden speech/language symptoms can signal stro
 
 **Additional current use — functional drop attacks:** [Agreeing What to Do After a Fall](../reference/recovery-techniques/functional_drop_attacks/01-injury-response-plan.md); [Keeping Other Conditions in the Care Plan](../reference/recovery-techniques/functional_drop_attacks/07-overlapping-conditions-and-review.md).
 
+**Additional diagnostic uses:** [Functional facial expansion source-use map](#functional-facial-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0109
 
 American Speech-Language-Hearing Association. Voice Disorders. *Practice Portal*. Accessed September 17, 2026. [Source](https://www.asha.org/practice-portal/clinical-topics/voice-disorders/).
@@ -1045,6 +1057,8 @@ Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional
 Expert review; diagnostic formulation and individualized management. The review reported no controlled treatment studies specific to functional tic-like symptoms.
 
 **Current use:** [glossary/README.md](../glossary/README.md); [docs/project/project-status.md](../docs/project/project-status.md); [reference/recovery-techniques/03-functional-jerks-and-myoclonus.md](../reference/recovery-techniques/03-functional-jerks-and-myoclonus.md); [reference/recovery-techniques/09-functional-speech-and-voice-symptoms.md](../reference/recovery-techniques/09-functional-speech-and-voice-symptoms.md); [reference/recovery-techniques/14-functional-facial-symptoms.md](../reference/recovery-techniques/14-functional-facial-symptoms.md); [reference/recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md](../reference/recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md); [reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md](../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md); [reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md); [reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md](../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md); [reference/diagnostic-signs/14-functional-facial-symptoms.md](../reference/diagnostic-signs/14-functional-facial-symptoms.md); [reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md); [reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md); [reference/recovery-techniques/functional_jerks_and_myoclonus/01-pattern-and-warning-mapping.md](../reference/recovery-techniques/functional_jerks_and_myoclonus/01-pattern-and-warning-mapping.md); [reference/recovery-techniques/functional_jerks_and_myoclonus/09-individualized-multidisciplinary-treatment.md](../reference/recovery-techniques/functional_jerks_and_myoclonus/09-individualized-multidisciplinary-treatment.md); [reference/recovery-techniques/functional_speech_and_voice_symptoms/09-communication-support-and-aac.md](../reference/recovery-techniques/functional_speech_and_voice_symptoms/09-communication-support-and-aac.md); [reference/recovery-techniques/functional_speech_and_voice_symptoms/README.md](../reference/recovery-techniques/functional_speech_and_voice_symptoms/README.md); [course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md](../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md); [course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/03-cough-breathing-and-upper-airway-symptoms.md](../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/03-cough-breathing-and-upper-airway-symptoms.md); [course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/01-speech-voice-and-word-blocking.md](../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/01-speech-voice-and-word-blocking.md); [course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/04-communication-access-when-speech-or-voice-is-difficult.md](../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/04-communication-access-when-speech-or-voice-is-difficult.md); [course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/README.md](../course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/README.md); [course/part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/01-recognizing-a-setback-versus-medical-change.md](../course/part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/01-recognizing-a-setback-versus-medical-change.md); [course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/01-work-school-disability-and-accommodations.md](../course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/01-work-school-disability-and-accommodations.md); [course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/03-sensory-home-and-communication-access.md](../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/03-sensory-home-and-communication-access.md).
+
+**Additional diagnostic uses:** [Functional facial expansion source-use map](#functional-facial-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0111
 
@@ -1159,6 +1173,8 @@ Chen DK, So YT, Fisher RS, Therapeutics and Technology Assessment Subcommittee o
 Schwingenschuh P, Katschnig P, Edwards MJ, et al. The blink reflex recovery cycle differs between essential and presumed psychogenic blepharospasm. *Neurology*. 2011;76(7):610-614. [DOI](https://doi.org/10.1212/wnl.0b013e31820c3074). [PMID: 21321334](https://pubmed.ncbi.nlm.nih.gov/21321334/).
 
 **Diagnostic use:** [14-functional-facial-symptoms](../reference/diagnostic-signs/14-functional-facial-symptoms.md).
+
+**Additional diagnostic uses:** [Functional facial expansion source-use map](#functional-facial-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0125
 
@@ -1345,6 +1361,8 @@ Merchant SH, Haubenberger D, Hallett M. Mirror movements or functional tremor ma
 Horn D, Galli S, Berney A, et al. Testing Head Rotation and Flexion Is Useful in Functional Limb Weakness. *Movement disorders clinical practice*. 2017;4(4):597-602. [DOI](https://doi.org/10.1002/mdc3.12492). [PMID: 30363481](https://pubmed.ncbi.nlm.nih.gov/30363481/).
 
 **Diagnostic use:** [01-functional-limb-weakness](../reference/diagnostic-signs/01-functional-limb-weakness.md), [14-functional-facial-symptoms](../reference/diagnostic-signs/14-functional-facial-symptoms.md).
+
+**Additional diagnostic uses:** [Functional facial expansion source-use map](#functional-facial-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0156
 
@@ -1742,6 +1760,8 @@ NHS. Bell’s palsy. [Source](https://www.nhs.uk/conditions/bells-palsy/). Acces
 Adjacent facial-nerve and eye-protection guidance; does not diagnose FND or establish an FND exercise programme.
 
 **Current use:** [Functional facial detailed pages](../reference/recovery-techniques/functional_facial_symptoms/README.md); see the use map below.
+
+**Additional diagnostic uses:** [Functional facial expansion source-use map](#functional-facial-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0198
 
@@ -2359,3 +2379,15 @@ Existing IDs 0027 and 0156 retained; new source 0262. October 5, 2026. No diagno
 | [persistent_postural_perceptual_dizziness/02-vestibular-and-differential-assessment.md](../reference/diagnostic-signs/persistent_postural_perceptual_dizziness/02-vestibular-and-differential-assessment.md) | [FND-CIT-0027](#fnd-cit-0027) |
 | [persistent_postural_perceptual_dizziness/03-questionnaires-and-everyday-function.md](../reference/diagnostic-signs/persistent_postural_perceptual_dizziness/03-questionnaires-and-everyday-function.md) | [FND-CIT-0027](#fnd-cit-0027), [FND-CIT-0156](#fnd-cit-0156), [FND-CIT-0262](#fnd-cit-0262) |
 | [persistent_postural_perceptual_dizziness/technique-inventory.md](../reference/diagnostic-signs/persistent_postural_perceptual_dizziness/technique-inventory.md) | [FND-CIT-0027](#fnd-cit-0027), [FND-CIT-0156](#fnd-cit-0156) |
+
+## Functional facial diagnostic expansion source-use map
+
+October 6, 2026. Existing stable IDs retained; no new source or diagnostic entry. The inventory retains its original source associations, with a separate qualification of the limb-weakness evidence.
+
+| Page | Stable sources |
+|---|---|
+| [14-functional-facial-symptoms.md](../reference/diagnostic-signs/14-functional-facial-symptoms.md) | [FND-CIT-0052](#fnd-cit-0052), [FND-CIT-0053](#fnd-cit-0053), [FND-CIT-0054](#fnd-cit-0054), [FND-CIT-0021](#fnd-cit-0021), [FND-CIT-0056](#fnd-cit-0056), [FND-CIT-0155](#fnd-cit-0155), [FND-CIT-0124](#fnd-cit-0124), [FND-CIT-0110](#fnd-cit-0110), [FND-CIT-0108](#fnd-cit-0108), [FND-CIT-0197](#fnd-cit-0197) |
+| [functional_facial_symptoms/01-pattern-based-facial-examination.md](../reference/diagnostic-signs/functional_facial_symptoms/01-pattern-based-facial-examination.md) | [FND-CIT-0052](#fnd-cit-0052), [FND-CIT-0053](#fnd-cit-0053), [FND-CIT-0021](#fnd-cit-0021), [FND-CIT-0056](#fnd-cit-0056) |
+| [functional_facial_symptoms/02-jaw-tongue-and-mouth-assessment.md](../reference/diagnostic-signs/functional_facial_symptoms/02-jaw-tongue-and-mouth-assessment.md) | [FND-CIT-0053](#fnd-cit-0053) |
+| [functional_facial_symptoms/03-eye-closure-weakness-and-differential-testing.md](../reference/diagnostic-signs/functional_facial_symptoms/03-eye-closure-weakness-and-differential-testing.md) | [FND-CIT-0056](#fnd-cit-0056), [FND-CIT-0052](#fnd-cit-0052), [FND-CIT-0124](#fnd-cit-0124), [FND-CIT-0155](#fnd-cit-0155), [FND-CIT-0108](#fnd-cit-0108), [FND-CIT-0197](#fnd-cit-0197) |
+| [functional_facial_symptoms/technique-inventory.md](../reference/diagnostic-signs/functional_facial_symptoms/technique-inventory.md) | [FND-CIT-0052](#fnd-cit-0052), [FND-CIT-0053](#fnd-cit-0053), [FND-CIT-0054](#fnd-cit-0054), [FND-CIT-0021](#fnd-cit-0021), [FND-CIT-0056](#fnd-cit-0056), [FND-CIT-0155](#fnd-cit-0155), [FND-CIT-0124](#fnd-cit-0124) |

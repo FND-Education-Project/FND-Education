@@ -120,6 +120,8 @@ Use supported positioning and gentle, task-relevant exploration. Avoid forced co
 
 **Detailed diagnostic assessment:** [Pattern-based history and movement examination](../../../reference/diagnostic-signs/functional_dystonia/01-pattern-based-history-and-movement-examination.md). This explains the clinical comparisons and their limits.
 
+**Further reading in the Reference Library:** Facial symptoms have detailed guides for [pattern-based examination](../../../reference/diagnostic-signs/functional_facial_symptoms/01-pattern-based-facial-examination.md), [jaw, tongue and mouth assessment](../../../reference/diagnostic-signs/functional_facial_symptoms/02-jaw-tongue-and-mouth-assessment.md) and [eye symptoms and differential testing](../../../reference/diagnostic-signs/functional_facial_symptoms/03-eye-closure-weakness-and-differential-testing.md).
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Gait and Falls](04-gait-falls-and-movement-retraining.md)
 

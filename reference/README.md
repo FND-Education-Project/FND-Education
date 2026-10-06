@@ -149,7 +149,7 @@ Memory, concentration, word finding, attention or thinking may become unreliable
 [Understanding & Diagnosis](diagnostic-signs/14-functional-facial-symptoms.md)<br>
 [Recovery Techniques](recovery-techniques/14-functional-facial-symptoms.md)
 
-Part of the face may pull, tighten, spasm, droop or feel difficult to control. These changes may affect the mouth, jaw, eye or larger areas of the face.
+Part of the face may pull, tighten, spasm, droop or feel difficult to control. These changes may affect the mouth, jaw, eye or larger areas of the face. The diagnosis overview links to detailed assessment of facial patterns, mouth function and eye symptoms.
 
 ---
 
