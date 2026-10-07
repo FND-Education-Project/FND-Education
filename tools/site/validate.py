@@ -9,6 +9,7 @@ checked too. The validator never edits canonical or generated content.
 from __future__ import annotations
 
 import argparse
+import json
 import posixpath
 import re
 import sys
@@ -765,6 +766,165 @@ def audit_document_shell(
         )
 
 
+def audit_structured_data(
+    current_route: str,
+    text: str,
+    errors: list[str],
+) -> int:
+    """
+    Validate the site-wide JSON-LD graph and glossary DefinedTermSet.
+
+    Only claims implemented in this schema round are checked here. Page-level
+    WebPage/Article/MedicalWebPage schema is intentionally out of scope.
+    """
+    blocks = re.findall(
+        r'<script\s+type=["\']application/ld\+json["\']\s*>(.*?)</script>',
+        text,
+        re.IGNORECASE | re.DOTALL,
+    )
+    if len(blocks) != 1:
+        errors.append(
+            f"Expected one JSON-LD block on {current_route}; found {len(blocks)}"
+        )
+        return 0
+
+    try:
+        payload = json.loads(blocks[0])
+    except json.JSONDecodeError as exc:
+        errors.append(
+            f"Invalid JSON-LD on {current_route}: {exc}"
+        )
+        return 0
+
+    if payload.get("@context") != "https://schema.org":
+        errors.append(
+            f"Unexpected JSON-LD context on {current_route}: "
+            f"{payload.get('@context')!r}"
+        )
+
+    graph = payload.get("@graph")
+    if not isinstance(graph, list):
+        errors.append(f"JSON-LD @graph missing on {current_route}")
+        return 0
+
+    by_type: dict[str, list[dict[str, object]]] = {}
+    for node in graph:
+        if not isinstance(node, dict):
+            errors.append(
+                f"Non-object JSON-LD node on {current_route}"
+            )
+            continue
+
+        raw_type = node.get("@type")
+        types = raw_type if isinstance(raw_type, list) else [raw_type]
+        for node_type in types:
+            if isinstance(node_type, str):
+                by_type.setdefault(node_type, []).append(node)
+
+    for required_type in ("Organization", "WebSite", "MedicalCondition"):
+        count = len(by_type.get(required_type, []))
+        if count != 1:
+            errors.append(
+                f"Expected one {required_type} node on {current_route}; "
+                f"found {count}"
+            )
+
+    origin = prepare_site.public_origin_with_base().rstrip("/")
+    expected_ids = {
+        "Organization": f"{origin}/#organization",
+        "WebSite": f"{origin}/#website",
+        "MedicalCondition": (
+            f"{origin}/#functional-neurological-disorder"
+        ),
+    }
+    for node_type, expected_id in expected_ids.items():
+        nodes = by_type.get(node_type, [])
+        if len(nodes) == 1 and nodes[0].get("@id") != expected_id:
+            errors.append(
+                f"{node_type} @id mismatch on {current_route}: "
+                f"{nodes[0].get('@id')!r}"
+            )
+
+    glossary_sets = by_type.get("DefinedTermSet", [])
+    if current_route != "/glossary/":
+        if glossary_sets:
+            errors.append(
+                f"Glossary DefinedTermSet leaked onto {current_route}"
+            )
+        return 0
+
+    if len(glossary_sets) != 1:
+        errors.append(
+            f"Expected one DefinedTermSet on /glossary/; "
+            f"found {len(glossary_sets)}"
+        )
+        return 0
+
+    term_set = glossary_sets[0]
+    raw_terms = term_set.get("hasDefinedTerm")
+    if not isinstance(raw_terms, list):
+        errors.append("Glossary hasDefinedTerm is not a list")
+        return 0
+
+    type_map = prepare_site.load_glossary_type_map()
+    expected_codes = {
+        entry["term_code"]
+        for entry in type_map.values()
+    }
+
+    actual_codes: list[str] = []
+    for index, term in enumerate(raw_terms, start=1):
+        if not isinstance(term, dict):
+            errors.append(
+                f"Glossary DefinedTerm #{index} is not an object"
+            )
+            continue
+
+        if term.get("@type") != "DefinedTerm":
+            errors.append(
+                f"Glossary term {term.get('name')!r} has unexpected @type "
+                f"{term.get('@type')!r}"
+            )
+
+        code = term.get("termCode")
+        if not isinstance(code, str) or not code:
+            errors.append(
+                f"Glossary term {term.get('name')!r} has no termCode"
+            )
+        else:
+            actual_codes.append(code)
+
+        if not term.get("name") or not term.get("description"):
+            errors.append(
+                f"Glossary DefinedTerm #{index} is missing name/description"
+            )
+
+        in_set = term.get("inDefinedTermSet")
+        expected_set_id = f"{origin}/glossary/#defined-term-set"
+        if (
+            not isinstance(in_set, dict)
+            or in_set.get("@id") != expected_set_id
+        ):
+            errors.append(
+                f"Glossary term {term.get('name')!r} has invalid "
+                "inDefinedTermSet"
+            )
+
+    if len(actual_codes) != len(set(actual_codes)):
+        errors.append("Glossary schema contains duplicate termCode values")
+
+    actual_code_set = set(actual_codes)
+    if actual_code_set != expected_codes:
+        missing = sorted(expected_codes - actual_code_set)
+        extra = sorted(actual_code_set - expected_codes)
+        errors.append(
+            "Glossary schema/type-map code mismatch: "
+            f"missing={missing}, extra={extra}"
+        )
+
+    return len(raw_terms)
+
+
 def audit_reference_menu_separators(text: str, errors: list[str]) -> None:
     """Catch a menu's trailing Markdown rule rendered as an inline dash."""
     menus = list(re.finditer(
@@ -858,6 +1018,11 @@ def check_built_site(
             )
 
         if current_route in routes or current_route == "/search/":
+            audit_structured_data(
+                current_route=current_route,
+                text=text,
+                errors=errors,
+            )
             audit_document_shell(
                 current_route=current_route,
                 text=text,
