@@ -8,6 +8,9 @@ If a document becomes reader-ready, move it out of `_internal` into the appropri
 
 ## Diagnostic editorial archive
 
+- [Diagnostic reading guide](diagnostic-signs/essential-reading-review-order.md) — papers in symptom review order.
+- [Limb-weakness evidence review](diagnostic-signs/limb-weakness-evidence-review.md) — October 7 source decisions, access gaps and follow-up candidates.
+
 - [Human-content archive](diagnostic-signs/human-content-archive.md) — preserved project-lead accounts and the complete pre-removal limb-weakness source. Repository-only; not private.
 
 ## Community-source review material

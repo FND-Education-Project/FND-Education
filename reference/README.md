@@ -18,14 +18,14 @@ For a step-by-step introduction to FND, including how current research helps us 
 
 ---
 
-***
 [Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
 [Biopsychosocial Experiences](#biopsychosocial-experiences-associated-with-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
 [More Reference Topics](#more-fnd-reference-topics)
-***
+
+---
 
 ## For Health Professionals: Find Your Role in FND Care
 
@@ -46,8 +46,6 @@ An arm or leg may feel weak, heavy or difficult to control. Movement may be poss
 
 ## Functional Paralysis
 
-The diagnosis overview links to assessment of severe immobility, care needs and the limits of arm and leg comparisons.
-
 [Understanding & Diagnosis](diagnostic-signs/15-functional-paralysis.md)<br>
 [Recovery Techniques](recovery-techniques/15-functional-paralysis.md)
 
@@ -55,7 +53,7 @@ A person may experience periods when voluntary movement of a limb or larger part
 
 ## Functional Tremor
 
-[Understanding & Diagnosis](diagnostic-signs/02-functional-tremor.md) — includes detailed distractibility and entrainment explanations.<br>
+[Understanding & Diagnosis](diagnostic-signs/02-functional-tremor.md)<br>
 [Recovery Techniques](recovery-techniques/02-functional-tremor.md)
 
 A hand, arm, leg or another part of the body may shake rhythmically or irregularly. The speed, strength or pattern of the shaking may change during different movements, tasks or situations.
@@ -63,7 +61,6 @@ A hand, arm, leg or another part of the body may shake rhythmically or irregular
 ## Functional Jerks / Myoclonus
 
 [Understanding & Diagnosis](diagnostic-signs/03-functional-jerks-and-myoclonus.md)<br>
-[EEG–EMG diagnostic assessment](diagnostic-signs/functional_jerks_and_myoclonus/01-eeg-emg-and-jerk-locked-back-averaging.md)<br>
 [Recovery Techniques](recovery-techniques/03-functional-jerks-and-myoclonus.md)
 
 A body part may make sudden, brief movements that feel involuntary. These jerks may happen occasionally, repeatedly or in bursts.
@@ -71,7 +68,6 @@ A body part may make sudden, brief movements that feel involuntary. These jerks 
 ## Functional Dystonia and Fixed Postures
 
 [Understanding & Diagnosis](diagnostic-signs/04-functional-dystonia.md)<br>
-[Pattern-based diagnostic assessment](diagnostic-signs/functional_dystonia/01-pattern-based-history-and-movement-examination.md)<br>
 [Recovery Techniques](recovery-techniques/04-functional-dystonia.md)
 
 A hand, foot, limb, neck or another body part may pull, twist, curl or become held in an unusual posture. The position can sometimes become painful or difficult to release.
@@ -92,21 +88,21 @@ Episodes can include changes in awareness, responsiveness or movement. A person 
 
 ## Functional Drop Attacks
 
-[Understanding & Diagnosis](diagnostic-signs/16-functional-drop-attacks.md) — includes event, differential and everyday-function assessment.<br>
+[Understanding & Diagnosis](diagnostic-signs/16-functional-drop-attacks.md)<br>
 [Recovery Techniques](recovery-techniques/16-functional-drop-attacks.md)
 
 A person may suddenly drop or fall toward the ground, sometimes with very little warning, and may recover from the event quickly.
 
 ## Functional Tics
 
-[Understanding & Diagnosis](diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) — includes history, criteria and measurement guides.<br>
+[Understanding & Diagnosis](diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md)<br>
 [Recovery Techniques](recovery-techniques/17-functional-tics-and-tic-like-symptoms.md)
 
 Sudden movements, gestures or sounds may occur repeatedly and feel difficult or impossible to prevent at the moment they happen.
 
 ## Functional Sensory Symptoms
 
-[Understanding & Diagnosis](diagnostic-signs/07-functional-sensory-symptoms.md) · [Assessment inventory](diagnostic-signs/functional_sensory_symptoms/technique-inventory.md)<br>
+[Understanding & Diagnosis](diagnostic-signs/07-functional-sensory-symptoms.md)<br>
 [Recovery Techniques](recovery-techniques/07-functional-sensory-symptoms.md)
 
 Touch, temperature, pain or awareness of part of the body may feel altered. An area may feel numb, strange, unusually sensitive or less connected to the person's normal sense of their body.
@@ -151,18 +147,18 @@ Memory, concentration, word finding, attention or thinking may become unreliable
 [Understanding & Diagnosis](diagnostic-signs/14-functional-facial-symptoms.md)<br>
 [Recovery Techniques](recovery-techniques/14-functional-facial-symptoms.md)
 
-Part of the face may pull, tighten, spasm, droop or feel difficult to control. These changes may affect the mouth, jaw, eye or larger areas of the face. The diagnosis overview links to detailed assessment of facial patterns, mouth function and eye symptoms.
+Part of the face may pull, tighten, spasm, droop or feel difficult to control. These changes may affect the mouth, jaw, eye or larger areas of the face.
 
 ---
 
-***
 [Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
 [Biopsychosocial Experiences](#biopsychosocial-experiences-associated-with-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
 [More Reference Topics](#more-fnd-reference-topics)
-***
+
+---
 
 ## Common Symptoms and Conditions That Occur Alongside FND
 
@@ -190,14 +186,14 @@ Some important experiences do not fit neatly into either an FND diagnostic-sign 
 
 ---
 
-***
 [Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
 [Biopsychosocial Experiences](#biopsychosocial-experiences-associated-with-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
 [More Reference Topics](#more-fnd-reference-topics)
-***
+
+---
 
 ## Understanding FND
 
@@ -255,14 +251,14 @@ For a more structured explanation beginning with the basic concepts and building
 
 ---
 
-***
 [Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
 [Biopsychosocial Experiences](#biopsychosocial-experiences-associated-with-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
 [More Reference Topics](#more-fnd-reference-topics)
-***
+
+---
 
 ## More FND Reference Topics
 
@@ -328,14 +324,14 @@ Supporters can play an important role in understanding symptoms, responding duri
 
 ---
 
-***
 [Professional Roles in FND Care](#for-health-professionals-find-your-role-in-fnd-care)<br>
 [Find an FND Symptom](#find-an-fnd-symptom)<br>
 [Common Symptoms and Conditions](#common-symptoms-and-conditions-that-occur-alongside-fnd)<br>
 [Biopsychosocial Experiences](#biopsychosocial-experiences-associated-with-fnd)<br>
 [Understanding FND](#understanding-fnd)<br>
 [More Reference Topics](#more-fnd-reference-topics)
-***
+
+---
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Understanding and Diagnosing FND Symptoms](diagnostic-signs/README.md)

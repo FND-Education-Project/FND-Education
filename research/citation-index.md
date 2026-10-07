@@ -2484,3 +2484,7 @@ October 7, 2026. Drop attacks and tics retain all original entries and stable so
 | [functional_tics/02-criteria-and-diagnostic-uncertainty.md](../reference/diagnostic-signs/functional_tics/02-criteria-and-diagnostic-uncertainty.md) | [FND-CIT-0111](#fnd-cit-0111), [FND-CIT-0112](#fnd-cit-0112), [FND-CIT-0264](#fnd-cit-0264) |
 | [functional_tics/03-measurement-and-everyday-function.md](../reference/diagnostic-signs/functional_tics/03-measurement-and-everyday-function.md) | [FND-CIT-0114](#fnd-cit-0114), [FND-CIT-0172](#fnd-cit-0172) |
 | [functional_tics/technique-inventory.md](../reference/diagnostic-signs/functional_tics/technique-inventory.md) | [FND-CIT-0110](#fnd-cit-0110), [FND-CIT-0111](#fnd-cit-0111), [FND-CIT-0112](#fnd-cit-0112), [FND-CIT-0113](#fnd-cit-0113), [FND-CIT-0114](#fnd-cit-0114), [FND-CIT-0173](#fnd-cit-0173), [FND-CIT-0172](#fnd-cit-0172), [FND-CIT-0125](#fnd-cit-0125), [FND-CIT-0022](#fnd-cit-0022) |
+
+## Limb-weakness evidence-presentation review
+
+October 7, 2026. Existing source IDs retained; no new public source added. Overview, Hoover guide and inventory prioritize current clinical explanation and FND-CIT-0183 for technique reading. In the weakness overview and inventory, FND-CIT-0058, FND-CIT-0150 and FND-CIT-0166 remain plain-text historical citations without paper or central-index hyperlinks. Their source records and original links remain here and in the internal reading guide for editorial traceability. Other symptom pages are outside this first review pass.

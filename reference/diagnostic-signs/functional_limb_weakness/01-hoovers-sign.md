@@ -4,7 +4,7 @@
 [Home](../../../README.md) › [Reference Library](../../README.md) › [Diagnostic Signs](../README.md) › [Functional Limb Weakness](../01-functional-limb-weakness.md) › **Hoover’s Sign**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Automatically generated expansion using existing project material — September 26, 2026.** Neurology, physiotherapy, lived-experience and accessibility review pending. Primary full-text verification remains incomplete as described below.
+> **Automatically generated working draft — October 7, 2026.** Neurology, physiotherapy, lived-experience and accessibility review pending.
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -42,7 +42,7 @@ The finding belongs in a clinician’s neurological assessment. It is not a home
 
 The medical term for pressing the thigh backward is **hip extension** (moving the thigh behind the body, or pressing the heel downward while lying flat). The main hip extensor is the **gluteus maximus** (the large buttock muscle), assisted by the **hamstrings** (muscles at the back of the thigh). Hoover’s sign compares deliberate access to that movement with the automatic contribution that normally occurs when the opposite hip flexes (the other thigh moves toward the chest). (*citations* [1](#citation-1), [2](#citation-2))
 
-This contrast is not a test of honesty, motivation or effort. It may demonstrate that a movement pathway is available under one condition but is not reliably accessible during deliberate movement. That can provide positive evidence for functional leg weakness and a possible starting point for rehabilitation. It is not a simple yes-or-no test for every kind of weakness, and it cannot establish that an injury or another neurological condition is absent by itself.
+The contrast can demonstrate access to movement during an automatic task despite difficulty producing it on request. This provides positive evidence for functional leg weakness and may offer a starting point for rehabilitation. (*citations* [1](#citation-1), [3](#citation-3))
 
 > **Hip flexion:** Bringing the thigh toward the chest. **Hamstrings:** Muscles at the back of the thigh.
 
@@ -64,12 +64,12 @@ Explain the comparison, obtain consent and check comfort before positioning. Agr
 
 > **Supine:** Lying on the back. **Calcaneus:** Heel bone. **Proximal to the knee:** Just above the knee, toward the hip.
 
-The following clinician-oriented outline preserves the existing project explanation. The resisted opposite-hip comparison is described in the 2011 study; fuller paired comparisons are discussed in the 2025 review. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+The outline below includes the direct and automatic comparisons. The clinical review describes the resisted opposite-hip task, and the 2025 assessment review describes baseline testing of both legs and the reverse comparison. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 1. **Confirm suitability.** The classic comparison is most useful for unilateral lower-limb weakness. Identify pain, hip or pelvic injury, restricted range, impaired comprehension, neglect, severe bilateral weakness or other factors that could invalidate the comparison.
 2. **Explain the purpose.** Tell the patient that you will compare direct and automatic activation of the same hip-extension movement. Avoid framing the procedure as a test of effort.
 3. **Position the patient.** Use a comfortable supine position (lying on the back) with the legs supported and hips close to neutral. The examiner needs access beneath each calcaneus (heel bone) without forcing the ankle or hip.
-4. **Assess direct hip extension.** Ask the patient to press the heel of the weak leg downward into the examination surface while you assess the force beneath that heel. Note pain, substitution through lumbar extension or pelvic rotation, and whether the instruction was understood.
+4. **Assess direct hip extension.** Assess each leg in turn: ask the patient to press the heel downward into the examination surface while you assess the force beneath it. This establishes a baseline for both comparisons. Note pain, substitution through lumbar extension or pelvic rotation, and whether the instruction was understood.
 5. **Assess the automatic comparison.** Keep a hand beneath the heel of the weak leg. Ask the patient to flex the contralateral hip (lift the opposite thigh toward the chest) against resistance applied just proximal to the knee, using only as much resistance as is safe and necessary.
 6. **Feel for associated extension.** In ordinary reciprocal lower-limb recruitment, resisted hip flexion on one side is accompanied by downward extension pressure from the other heel. A clear increase in pressure beneath the weak heel during this opposite-leg task, compared with direct requested extension, is the positive contrast.
 7. **Record the reverse comparison.** When the affected leg is asked to lift, associated downward pressure beneath the opposite heel may be reduced compared with that leg’s directly demonstrated extension force. Interpret the comparison cautiously, including pain, attention, comprehension and mechanical leverage.
@@ -97,7 +97,7 @@ Pain, difficulty understanding the task, neglect, severe weakness in both legs, 
 
 > **Neglect:** Difficulty attending to one side of space or the body, often due to neurological disease; it can affect the comparison.
 
-An example explanation is: “Your leg contributed more force automatically during the other-leg movement. This finding helps explain the functional pattern. We still need to understand how weakness affects your day and what support you need.”
+An authored example explanation is: “Your leg contributed more force automatically during the other-leg movement. This finding helps explain the functional pattern. We still need to understand how weakness affects your day and what support you need.”
 
 For neurology and general practice, document which comparison was positive and the remaining diagnostic questions. For physiotherapy and occupational therapy, it may identify movement worth assessing further, but does not establish safe walking, sustained activity or independence. Psychological care can address distress where appropriate without treating the sign as evidence of a psychological cause. See [assessment and everyday function](../../diagnostic-concepts/10-assessment-and-everyday-function.md).
 
@@ -114,13 +114,12 @@ For neurology and general practice, document which comparison was positive and t
 
 ## Evidence and Limitations
 
+The 2025 assessment review is a useful starting point for the examination protocol. Its account of Hoover’s sign shows why the exact comparison and suitable one-sided weakness matter when interpreting a finding. (*citations* [3](#citation-3))
+
 McWhirter and colleagues recruited 337 people presenting with suspected stroke; 124 had leg weakness and eight were diagnosed with functional disorder. Reported sensitivity was 63% (95% confidence interval 24–91%) and specificity 100% (97–100%). The study was unblinded and the functional subgroup small. These figures do not mean the sign is infallible or equally accurate in every setting. (*citations* [2](#citation-2))
 
 > **Sensitivity:** How often the test detects the condition among people who have it. **Specificity:** How often it is negative among people without the condition. **Confidence interval:** A range showing statistical uncertainty around the estimate.
 
-The 2025 review describes protocol differences, limited prospective evidence and confounding factors. Its search ended in March 2024. A targeted update search on September 26, 2026 did not establish a newer large prospective replication; this was not an exhaustive systematic review. (*citations* [3](#citation-3))
-
-**Access limit:** The 2011 study’s primary abstract and institutional record were checked; its complete article was not retrieved. Detailed technique wording was cross-checked against the accessible clinical review and 2025 review. Full primary-text verification and clinical review remain outstanding; this draft does not claim a completed evidence trail.
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -166,7 +165,7 @@ A useful alternative description for a corrected image would identify the affect
 
 ## Research and Sources
 
-The general review provides clinical context; the 2011 cohort provides the prospective accuracy estimates; the 2025 review compares examination descriptions and limitations. No result here measures everyday disability or guarantees treatment response.
+Read the clinical review for context and the 2025 assessment review for technique. The 2011 cohort is the primary source for the accuracy estimates above.
 
 | Citation | Figure | Full citation and scope |
 |---|---|---|
