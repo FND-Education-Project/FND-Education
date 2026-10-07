@@ -978,6 +978,8 @@ def check_built_site(
     html_files = sorted(site_root.rglob("*.html"))
     parsed_by_route: dict[str, LinkCollector] = {}
     text_by_route: dict[str, str] = {}
+    schema_pages_checked = 0
+    glossary_terms_checked = 0
 
     for html_file in html_files:
         text = html_file.read_text(encoding="utf-8")
@@ -1018,11 +1020,14 @@ def check_built_site(
             )
 
         if current_route in routes or current_route == "/search/":
-            audit_structured_data(
+            glossary_term_count = audit_structured_data(
                 current_route=current_route,
                 text=text,
                 errors=errors,
             )
+            schema_pages_checked += 1
+            if current_route == "/glossary/":
+                glossary_terms_checked = glossary_term_count
             audit_document_shell(
                 current_route=current_route,
                 text=text,
@@ -1054,6 +1059,15 @@ def check_built_site(
                     "Broken built-site link: "
                     f"{html_file.relative_to(site_root)} -> {target}"
                 )
+
+    print(
+        "  Structured-data pages:     "
+        f"{schema_pages_checked}"
+    )
+    print(
+        "  Glossary DefinedTerm nodes:"
+        f" {glossary_terms_checked}"
+    )
 
     return len(html_files)
 
