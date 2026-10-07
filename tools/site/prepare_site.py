@@ -1858,6 +1858,126 @@ def write_machine_sitemap(public_urls: list[str]) -> None:
     )
 
 
+def markdown_inline_to_plain_text(value: str) -> str:
+    """Convert the glossary's inline Markdown to compact plain text."""
+    value = re.sub(r"!\\[([^\\]]*)\\]\\([^)]+\\)", r"\\1", value)
+    value = re.sub(r"\\[([^\\]]+)\\]\\([^)]+\\)", r"\\1", value)
+    value = re.sub(r"<[^>]+>", "", value)
+    value = re.sub(r"[\\*_`~]+", "", value)
+    return re.sub(r"\\s+", " ", value).strip()
+
+
+def glossary_schema_fragment(value: str) -> str:
+    """Return a stable ASCII identifier fragment for one glossary heading."""
+    fragment = re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
+    if not fragment:
+        raise ValueError(f"Glossary term has no usable identifier: {value!r}")
+    return fragment
+
+
+def extract_glossary_defined_terms(text: str) -> list[dict[str, object]]:
+    """Extract only explicit H3 glossary entries and their first definition."""
+    headings = list(re.finditer(r"^###\\s+(.+?)\\s*$", text, re.MULTILINE))
+    if not headings:
+        raise ValueError("Glossary contains no H3 term headings")
+
+    terms: list[dict[str, object]] = []
+    seen_fragments: set[str] = set()
+    origin = public_origin_with_base()
+    set_id = f"{origin}/glossary/#defined-term-set"
+
+    for index, match in enumerate(headings):
+        name = markdown_inline_to_plain_text(match.group(1))
+        block_end = (
+            headings[index + 1].start()
+            if index + 1 < len(headings)
+            else len(text)
+        )
+        block = text[match.end():block_end]
+        lines = block.splitlines()
+
+        paragraph_lines: list[str] = []
+        started = False
+        for raw_line in lines:
+            line = raw_line.strip()
+
+            if not started and not line:
+                continue
+
+            if not started and re.match(
+                r"^\\*\\*Type:\\s*.+?\\*\\*$",
+                line,
+                re.IGNORECASE,
+            ):
+                continue
+
+            if not line:
+                if started:
+                    break
+                continue
+
+            # A new Markdown heading before a definition means the entry is
+            # malformed; do not infer a definition from later content.
+            if line.startswith("#"):
+                break
+
+            paragraph_lines.append(line)
+            started = True
+
+        description = markdown_inline_to_plain_text(
+            " ".join(paragraph_lines)
+        )
+        if not description:
+            raise ValueError(
+                f"Glossary term {name!r} has no readable definition"
+            )
+
+        fragment = glossary_schema_fragment(name)
+        if fragment in seen_fragments:
+            raise ValueError(
+                f"Duplicate glossary schema identifier: {fragment!r}"
+            )
+        seen_fragments.add(fragment)
+
+        terms.append(
+            {
+                "@type": "DefinedTerm",
+                "@id": f"{origin}/glossary/#term-{fragment}",
+                "name": name,
+                "description": description,
+                "inDefinedTermSet": {"@id": set_id},
+            }
+        )
+
+    return terms
+
+
+def write_glossary_schema_data() -> None:
+    """Generate DefinedTermSet data from the canonical glossary Markdown."""
+    text = GLOSSARY_SOURCE.read_text(encoding="utf-8")
+    terms = extract_glossary_defined_terms(text)
+    origin = public_origin_with_base()
+
+    schema = {
+        "@type": "DefinedTermSet",
+        "@id": f"{origin}/glossary/#defined-term-set",
+        "url": f"{origin}/glossary/",
+        "name": "FND Terminology Glossary",
+        "description": (
+            "Plain-language explanations of terms used in FND research, "
+            "clinical care, rehabilitation, and this project."
+        ),
+        "hasDefinedTerm": terms,
+    }
+
+    generated_dir = WEB / "_data" / "generated"
+    generated_dir.mkdir(parents=True, exist_ok=True)
+    (generated_dir / "glossary_schema.json").write_text(
+        json.dumps(schema, ensure_ascii=False, indent=2) + "\\n",
+        encoding="utf-8",
+    )
+
+
 def write_generated_page_data(pages: list[CoursePage]) -> None:
     """
     Keep the small generated course data files for compatibility.
@@ -2070,6 +2190,7 @@ def main() -> None:
     ]
     write_machine_sitemap(public_urls)
     write_generated_page_data(course_pages)
+    write_glossary_schema_data()
 
     module_count = sum(
         page.kind == "module"
