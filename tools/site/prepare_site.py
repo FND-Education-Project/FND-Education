@@ -36,6 +36,7 @@ ADDITIONAL_INFO_SOURCE = (
     ROOT / "docs" / "project" / "additional-project-information.md"
 )
 HUMAN_SITEMAP_SOURCE = ROOT / "SITEMAP.md"
+GLOSSARY_TYPE_MAP = INTERNAL_REFERENCE_ROOT / "schema" / "glossary-type-map.json"
 
 GITHUB_BLOB_BASE = (
     "https://github.com/FND-Education-Project/FND-Education/blob/main/"
@@ -1868,26 +1869,95 @@ def markdown_inline_to_plain_text(value: str) -> str:
 
 
 def glossary_schema_fragment(value: str) -> str:
-    """Return a stable ASCII identifier fragment for one glossary heading."""
+    """Return a conservative fallback identifier fragment."""
     fragment = re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
     if not fragment:
         raise ValueError(f"Glossary term has no usable identifier: {value!r}")
     return fragment
 
 
-def extract_glossary_defined_terms(text: str) -> list[dict[str, object]]:
-    """Extract only explicit H3 glossary entries and their first definition."""
+def load_glossary_type_map() -> dict[str, dict[str, str]]:
+    """
+    Load the reviewed internal semantic map for glossary terms.
+
+    The map deliberately separates the lexical Schema.org DefinedTerm from the
+    thing the term describes. semantic_type is therefore internal-only in this
+    build; term_code is safe to expose as DefinedTerm.termCode.
+    """
+    if not GLOSSARY_TYPE_MAP.exists():
+        raise ValueError(
+            "Missing internal glossary type map: "
+            f"{GLOSSARY_TYPE_MAP.relative_to(ROOT)}"
+        )
+
+    data = json.loads(GLOSSARY_TYPE_MAP.read_text(encoding="utf-8"))
+    terms = data.get("terms")
+    if not isinstance(terms, dict) or not terms:
+        raise ValueError("Glossary type map has no terms object")
+
+    normalized: dict[str, dict[str, str]] = {}
+    seen_codes: set[str] = set()
+
+    for name, entry in terms.items():
+        if not isinstance(name, str) or not isinstance(entry, dict):
+            raise ValueError("Glossary type map contains an invalid term entry")
+
+        term_code = entry.get("term_code")
+        semantic_type = entry.get("semantic_type")
+
+        if not isinstance(term_code, str) or not term_code.strip():
+            raise ValueError(f"Glossary map term {name!r} has no term_code")
+        if not isinstance(semantic_type, str) or not semantic_type.strip():
+            raise ValueError(
+                f"Glossary map term {name!r} has no semantic_type"
+            )
+        if term_code in seen_codes:
+            raise ValueError(f"Duplicate glossary term_code: {term_code!r}")
+
+        seen_codes.add(term_code)
+        normalized[name] = {
+            "term_code": term_code,
+            "semantic_type": semantic_type,
+        }
+
+    return normalized
+
+
+def extract_glossary_defined_terms(
+    text: str,
+    type_map: dict[str, dict[str, str]],
+) -> list[dict[str, object]]:
+    """Extract explicit glossary entries and validate them against the map."""
     headings = list(re.finditer(r"^###\s+(.+?)\s*$", text, re.MULTILINE))
     if not headings:
         raise ValueError("Glossary contains no H3 term headings")
 
+    heading_names = [
+        markdown_inline_to_plain_text(match.group(1))
+        for match in headings
+    ]
+    heading_set = set(heading_names)
+    map_set = set(type_map)
+
+    unmapped = sorted(heading_set - map_set)
+    stale = sorted(map_set - heading_set)
+    if unmapped or stale:
+        details: list[str] = []
+        if unmapped:
+            details.append("unmapped: " + ", ".join(unmapped))
+        if stale:
+            details.append("stale map entries: " + ", ".join(stale))
+        raise ValueError(
+            "Glossary/type-map mismatch (" + "; ".join(details) + ")"
+        )
+
     terms: list[dict[str, object]] = []
-    seen_fragments: set[str] = set()
+    seen_codes: set[str] = set()
     origin = public_origin_with_base()
     set_id = f"{origin}/glossary/#defined-term-set"
 
     for index, match in enumerate(headings):
-        name = markdown_inline_to_plain_text(match.group(1))
+        name = heading_names[index]
         block_end = (
             headings[index + 1].start()
             if index + 1 < len(headings)
@@ -1904,20 +1974,11 @@ def extract_glossary_defined_terms(text: str) -> list[dict[str, object]]:
             if not started and not line:
                 continue
 
-            if not started and re.match(
-                r"^\*\*Type:\s*.+?\*\*$",
-                line,
-                re.IGNORECASE,
-            ):
-                continue
-
             if not line:
                 if started:
                     break
                 continue
 
-            # A new Markdown heading before a definition means the entry is
-            # malformed; do not infer a definition from later content.
             if line.startswith("#"):
                 break
 
@@ -1932,17 +1993,17 @@ def extract_glossary_defined_terms(text: str) -> list[dict[str, object]]:
                 f"Glossary term {name!r} has no readable definition"
             )
 
-        fragment = glossary_schema_fragment(name)
-        if fragment in seen_fragments:
-            raise ValueError(
-                f"Duplicate glossary schema identifier: {fragment!r}"
-            )
-        seen_fragments.add(fragment)
+        mapped = type_map[name]
+        term_code = mapped["term_code"]
+        if term_code in seen_codes:
+            raise ValueError(f"Duplicate glossary term_code: {term_code!r}")
+        seen_codes.add(term_code)
 
         terms.append(
             {
                 "@type": "DefinedTerm",
-                "@id": f"{origin}/glossary/#term-{fragment}",
+                "@id": f"{origin}/glossary/#term-{term_code}",
+                "termCode": term_code,
                 "name": name,
                 "description": description,
                 "inDefinedTermSet": {"@id": set_id},
@@ -1953,9 +2014,10 @@ def extract_glossary_defined_terms(text: str) -> list[dict[str, object]]:
 
 
 def write_glossary_schema_data() -> None:
-    """Generate DefinedTermSet data from the canonical glossary Markdown."""
+    """Generate DefinedTermSet data from the canonical glossary and type map."""
     text = GLOSSARY_SOURCE.read_text(encoding="utf-8")
-    terms = extract_glossary_defined_terms(text)
+    type_map = load_glossary_type_map()
+    terms = extract_glossary_defined_terms(text, type_map)
     origin = public_origin_with_base()
 
     schema = {
