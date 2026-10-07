@@ -1,0 +1,466 @@
+{
+  "version": 1,
+  "status": "reviewed-internal-map",
+  "purpose": "Stable semantic classification for the FND Education Project glossary. The public glossary remains a DefinedTermSet; semantic_type describes what a term refers to and must not be emitted as an additional Schema.org @type for the DefinedTerm itself.",
+  "policy": {
+    "public_schema_type": "DefinedTerm",
+    "semantic_type_visibility": "internal-only",
+    "term_code_visibility": "public-schema",
+    "markdown_metadata_required": false,
+    "on_unmapped_term": "fail-build",
+    "on_stale_map_entry": "fail-build"
+  },
+  "categories": {
+    "therapy-rehabilitation": "Therapy, rehabilitation method, or treatment-support technique.",
+    "communication-access": "Communication-access method or aid.",
+    "neuroscience-research-concept": "Neuroscience, cognitive-science, or research concept.",
+    "clinical-framework-or-concept": "General clinical framework, reasoning concept, or descriptive clinical concept.",
+    "positive-diagnostic-sign": "Positive examination sign or clinically interpreted positive feature.",
+    "diagnostic-test-or-assessment": "Diagnostic test, recording method, or structured assessment technique.",
+    "fnd-condition-or-presentation": "FND diagnosis, presentation, symptom subtype, or current seizure label.",
+    "other-condition-or-diagnosis": "Non-FND diagnosis or independently defined coexisting condition.",
+    "symptom-or-clinical-feature": "Symptom, clinical feature, physical complication, or descriptive health term.",
+    "terminology-or-classification": "Historical, classificatory, contested, or search terminology rather than a clinical entity type.",
+    "medication-class": "Prescription medication class.",
+    "safety-concept-or-presentation": "Safety concept or presentation requiring cautious medical assessment.",
+    "community-or-project-language": "Community metaphor or project-preferred plain-language concept."
+  },
+  "terms": {
+    "Acceptance and Commitment Therapy (ACT)": {
+      "term_code": "acceptance-and-commitment-therapy-act",
+      "semantic_type": "therapy-rehabilitation"
+    },
+    "Agency": {
+      "term_code": "agency",
+      "semantic_type": "neuroscience-research-concept"
+    },
+    "Associated symptoms": {
+      "term_code": "associated-symptoms",
+      "semantic_type": "clinical-framework-or-concept"
+    },
+    "Attention": {
+      "term_code": "attention",
+      "semantic_type": "neuroscience-research-concept"
+    },
+    "Augmentative and alternative communication (AAC)": {
+      "term_code": "augmentative-and-alternative-communication-aac",
+      "semantic_type": "communication-access"
+    },
+    "Automatic and task-oriented movement": {
+      "term_code": "automatic-and-task-oriented-movement",
+      "semantic_type": "therapy-rehabilitation"
+    },
+    "Autonomic arousal": {
+      "term_code": "autonomic-arousal",
+      "semantic_type": "neuroscience-research-concept"
+    },
+    "Available capacity": {
+      "term_code": "available-capacity",
+      "semantic_type": "community-or-project-language"
+    },
+    "Biofeedback": {
+      "term_code": "biofeedback",
+      "semantic_type": "therapy-rehabilitation"
+    },
+    "Biopsychosocial model": {
+      "term_code": "biopsychosocial-model",
+      "semantic_type": "clinical-framework-or-concept"
+    },
+    "Co-contraction": {
+      "term_code": "co-contraction",
+      "semantic_type": "positive-diagnostic-sign"
+    },
+    "Coexisting condition / comorbidity": {
+      "term_code": "coexisting-condition-comorbidity",
+      "semantic_type": "clinical-framework-or-concept"
+    },
+    "Cognitive behavioural therapy (CBT)": {
+      "term_code": "cognitive-behavioural-therapy-cbt",
+      "semantic_type": "therapy-rehabilitation"
+    },
+    "Comprehensive Behavioral Intervention for Tics (CBIT) / habit reversal": {
+      "term_code": "comprehensive-behavioral-intervention-for-tics-cbit-habit-reversal",
+      "semantic_type": "therapy-rehabilitation"
+    },
+    "Contracture": {
+      "term_code": "contracture",
+      "semantic_type": "symptom-or-clinical-feature"
+    },
+    "Conversion disorder / Functional Neurological Symptom Disorder": {
+      "term_code": "conversion-disorder-functional-neurological-symptom-disorder",
+      "semantic_type": "terminology-or-classification"
+    },
+    "Coprolalia": {
+      "term_code": "coprolalia",
+      "semantic_type": "symptom-or-clinical-feature"
+    },
+    "Desensitization / graded sensory reintroduction": {
+      "term_code": "desensitization-graded-sensory-reintroduction",
+      "semantic_type": "therapy-rehabilitation"
+    },
+    "Diagnostic overshadowing": {
+      "term_code": "diagnostic-overshadowing",
+      "semantic_type": "safety-concept-or-presentation"
+    },
+    "Differential diagnosis": {
+      "term_code": "differential-diagnosis",
+      "semantic_type": "clinical-framework-or-concept"
+    },
+    "Dissociation": {
+      "term_code": "dissociation",
+      "semantic_type": "symptom-or-clinical-feature"
+    },
+    "Dissociative seizures": {
+      "term_code": "dissociative-seizures",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Distractibility": {
+      "term_code": "distractibility",
+      "semantic_type": "positive-diagnostic-sign"
+    },
+    "Drift without pronation": {
+      "term_code": "drift-without-pronation",
+      "semantic_type": "positive-diagnostic-sign"
+    },
+    "Drop attack / functional drop attack": {
+      "term_code": "drop-attack-functional-drop-attack",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Dual-tasking / dual-task practice": {
+      "term_code": "dual-tasking-dual-task-practice",
+      "semantic_type": "therapy-rehabilitation"
+    },
+    "Echolalia": {
+      "term_code": "echolalia",
+      "semantic_type": "symptom-or-clinical-feature"
+    },
+    "EEG": {
+      "term_code": "eeg",
+      "semantic_type": "diagnostic-test-or-assessment"
+    },
+    "EEG-EMG and jerk-locked back averaging": {
+      "term_code": "eeg-emg-and-jerk-locked-back-averaging",
+      "semantic_type": "diagnostic-test-or-assessment"
+    },
+    "Electromyography (EMG)": {
+      "term_code": "electromyography-emg",
+      "semantic_type": "diagnostic-test-or-assessment"
+    },
+    "Emotional regulation": {
+      "term_code": "emotional-regulation",
+      "semantic_type": "clinical-framework-or-concept"
+    },
+    "Entrainment": {
+      "term_code": "entrainment",
+      "semantic_type": "positive-diagnostic-sign"
+    },
+    "Epilepsy / epileptic seizure": {
+      "term_code": "epilepsy-epileptic-seizure",
+      "semantic_type": "other-condition-or-diagnosis"
+    },
+    "External focus": {
+      "term_code": "external-focus",
+      "semantic_type": "therapy-rehabilitation"
+    },
+    "Functional": {
+      "term_code": "functional",
+      "semantic_type": "terminology-or-classification"
+    },
+    "Functional Cognitive Disorder (FCD)": {
+      "term_code": "functional-cognitive-disorder-fcd",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional cough and upper-airway symptoms": {
+      "term_code": "functional-cough-and-upper-airway-symptoms",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional/dissociative seizures (FDS)": {
+      "term_code": "functional-dissociative-seizures-fds",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional dystonia / fixed dystonia": {
+      "term_code": "functional-dystonia-fixed-dystonia",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional electrical stimulation (FES)": {
+      "term_code": "functional-electrical-stimulation-fes",
+      "semantic_type": "therapy-rehabilitation"
+    },
+    "Functional facial symptoms": {
+      "term_code": "functional-facial-symptoms",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional gait disorder": {
+      "term_code": "functional-gait-disorder",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional jerks / functional myoclonus": {
+      "term_code": "functional-jerks-functional-myoclonus",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional limb weakness / functional weakness": {
+      "term_code": "functional-limb-weakness-functional-weakness",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional movement disorder (FMD)": {
+      "term_code": "functional-movement-disorder-fmd",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional neurological disorder (FND)": {
+      "term_code": "functional-neurological-disorder-fnd",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional neurological symptoms": {
+      "term_code": "functional-neurological-symptoms",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional paralysis": {
+      "term_code": "functional-paralysis",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional seizures": {
+      "term_code": "functional-seizures",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional sensory symptoms": {
+      "term_code": "functional-sensory-symptoms",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional speech and voice symptoms": {
+      "term_code": "functional-speech-and-voice-symptoms",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional swallowing symptoms / functional dysphagia": {
+      "term_code": "functional-swallowing-symptoms-functional-dysphagia",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional tics / functional tic-like symptoms": {
+      "term_code": "functional-tics-functional-tic-like-symptoms",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional tremor": {
+      "term_code": "functional-tremor",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Functional visual symptoms": {
+      "term_code": "functional-visual-symptoms",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
+    "Give-way / collapsing weakness": {
+      "term_code": "give-way-collapsing-weakness",
+      "semantic_type": "positive-diagnostic-sign"
+    },
+    "Globus / globus sensation": {
+      "term_code": "globus-globus-sensation",
+      "semantic_type": "symptom-or-clinical-feature"
+    },
+    "Graded exposure / graded trigger practice": {
+      "term_code": "graded-exposure-graded-trigger-practice",
+      "semantic_type": "therapy-rehabilitation"
+    },
+    "Grounding": {
+      "term_code": "grounding",
+      "semantic_type": "therapy-rehabilitation"
+    },
+    "Habituation": {
+      "term_code": "habituation",
+      "semantic_type": "therapy-rehabilitation"
+    },
+    "Hoover’s sign": {
+      "term_code": "hoovers-sign",
+      "semantic_type": "positive-diagnostic-sign"
+    },
+    "Incongruence": {
+      "term_code": "incongruence",
+      "semantic_type": "clinical-framework-or-concept"
+    },
+    "Inconsistency": {
+      "term_code": "inconsistency",
+      "semantic_type": "clinical-framework-or-concept"
+    },
+    "Insomnia": {
+      "term_code": "insomnia",
+      "semantic_type": "other-condition-or-diagnosis"
+    },
+    "Internal inconsistency in cognition": {
+      "term_code": "internal-inconsistency-in-cognition",
+      "semantic_type": "positive-diagnostic-sign"
+    },
+    "Interoception": {
+      "term_code": "interoception",
+      "semantic_type": "neuroscience-research-concept"
+    },
+    "Involuntary symptom": {
+      "term_code": "involuntary-symptom",
+      "semantic_type": "clinical-framework-or-concept"
+    },
+    "Irritable bowel syndrome (IBS)": {
+      "term_code": "irritable-bowel-syndrome-ibs",
+      "semantic_type": "other-condition-or-diagnosis"
+    },
+    "Malingering / feigning": {
+      "term_code": "malingering-feigning",
+      "semantic_type": "terminology-or-classification"
+    },
+    "Medically unexplained symptoms": {
+      "term_code": "medically-unexplained-symptoms",
+      "semantic_type": "terminology-or-classification"
+    },
+    "Metacognition": {
+      "term_code": "metacognition",
+      "semantic_type": "neuroscience-research-concept"
+    },
+    "Motor tic": {
+      "term_code": "motor-tic",
+      "semantic_type": "symptom-or-clinical-feature"
+    },
+    "Neuroplasticity": {
+      "term_code": "neuroplasticity",
+      "semantic_type": "neuroscience-research-concept"
+    },
+    "Nociplastic pain": {
+      "term_code": "nociplastic-pain",
+      "semantic_type": "symptom-or-clinical-feature"
+    },
+    "Optokinetic response / optokinetic testing": {
+      "term_code": "optokinetic-response-optokinetic-testing",
+      "semantic_type": "diagnostic-test-or-assessment"
+    },
+    "Organic": {
+      "term_code": "organic",
+      "semantic_type": "terminology-or-classification"
+    },
+    "Orthostatic intolerance": {
+      "term_code": "orthostatic-intolerance",
+      "semantic_type": "symptom-or-clinical-feature"
+    },
+    "Pacing": {
+      "term_code": "pacing",
+      "semantic_type": "therapy-rehabilitation"
+    },
+    "Palilalia": {
+      "term_code": "palilalia",
+      "semantic_type": "symptom-or-clinical-feature"
+    },
+    "Persistent postural-perceptual dizziness (PPPD)": {
+      "term_code": "persistent-postural-perceptual-dizziness-pppd",
+      "semantic_type": "other-condition-or-diagnosis"
+    },
+    "Photophobia": {
+      "term_code": "photophobia",
+      "semantic_type": "symptom-or-clinical-feature"
+    },
+    "PNES": {
+      "term_code": "pnes",
+      "semantic_type": "terminology-or-classification"
+    },
+    "Positive clinical sign / positive diagnostic sign": {
+      "term_code": "positive-clinical-sign-positive-diagnostic-sign",
+      "semantic_type": "positive-diagnostic-sign"
+    },
+    "Positive diagnosis / rule-in diagnosis": {
+      "term_code": "positive-diagnosis-rule-in-diagnosis",
+      "semantic_type": "clinical-framework-or-concept"
+    },
+    "Post-exertional malaise (PEM)": {
+      "term_code": "post-exertional-malaise-pem",
+      "semantic_type": "symptom-or-clinical-feature"
+    },
+    "Predictive processing": {
+      "term_code": "predictive-processing",
+      "semantic_type": "neuroscience-research-concept"
+    },
+    "Predisposing, precipitating, perpetuating, and protective factors": {
+      "term_code": "predisposing-precipitating-perpetuating-and-protective-factors",
+      "semantic_type": "clinical-framework-or-concept"
+    },
+    "Premonitory urge": {
+      "term_code": "premonitory-urge",
+      "semantic_type": "symptom-or-clinical-feature"
+    },
+    "Proprioception": {
+      "term_code": "proprioception",
+      "semantic_type": "neuroscience-research-concept"
+    },
+    "Psychogenic": {
+      "term_code": "psychogenic",
+      "semantic_type": "terminology-or-classification"
+    },
+    "Rehabilitation": {
+      "term_code": "rehabilitation",
+      "semantic_type": "therapy-rehabilitation"
+    },
+    "Relapse / setback": {
+      "term_code": "relapse-setback",
+      "semantic_type": "clinical-framework-or-concept"
+    },
+    "Scan-negative cauda equina presentation": {
+      "term_code": "scan-negative-cauda-equina-presentation",
+      "semantic_type": "safety-concept-or-presentation"
+    },
+    "Selective serotonin reuptake inhibitor (SSRI) / serotonin-norepinephrine reuptake inhibitor (SNRI)": {
+      "term_code": "selective-serotonin-reuptake-inhibitor-ssri-serotonin-norepinephrine-reuptake-inhibitor-snri",
+      "semantic_type": "medication-class"
+    },
+    "Semiology": {
+      "term_code": "semiology",
+      "semantic_type": "clinical-framework-or-concept"
+    },
+    "Sensory trick": {
+      "term_code": "sensory-trick",
+      "semantic_type": "positive-diagnostic-sign"
+    },
+    "Somatic symptom disorder": {
+      "term_code": "somatic-symptom-disorder",
+      "semantic_type": "other-condition-or-diagnosis"
+    },
+    "Spoon theory": {
+      "term_code": "spoon-theory",
+      "semantic_type": "community-or-project-language"
+    },
+    "Swivel-chair assessment": {
+      "term_code": "swivel-chair-assessment",
+      "semantic_type": "diagnostic-test-or-assessment"
+    },
+    "Symptom variability": {
+      "term_code": "symptom-variability",
+      "semantic_type": "clinical-framework-or-concept"
+    },
+    "Tic": {
+      "term_code": "tic",
+      "semantic_type": "symptom-or-clinical-feature"
+    },
+    "Tic attack": {
+      "term_code": "tic-attack",
+      "semantic_type": "symptom-or-clinical-feature"
+    },
+    "Tinnitus": {
+      "term_code": "tinnitus",
+      "semantic_type": "symptom-or-clinical-feature"
+    },
+    "Transcutaneous electrical nerve stimulation (TENS)": {
+      "term_code": "transcutaneous-electrical-nerve-stimulation-tens",
+      "semantic_type": "therapy-rehabilitation"
+    },
+    "Vestibular rehabilitation and gaze stability": {
+      "term_code": "vestibular-rehabilitation-and-gaze-stability",
+      "semantic_type": "therapy-rehabilitation"
+    },
+    "Vestibulo-ocular reflex (VOR)": {
+      "term_code": "vestibulo-ocular-reflex-vor",
+      "semantic_type": "neuroscience-research-concept"
+    },
+    "Video-EEG": {
+      "term_code": "video-eeg",
+      "semantic_type": "diagnostic-test-or-assessment"
+    },
+    "Vocal / phonic tic (also called a verbal tic)": {
+      "term_code": "vocal-phonic-tic-also-called-a-verbal-tic",
+      "semantic_type": "symptom-or-clinical-feature"
+    },
+    "Whack-a-mole sign": {
+      "term_code": "whack-a-mole-sign",
+      "semantic_type": "positive-diagnostic-sign"
+    }
+  }
+}
