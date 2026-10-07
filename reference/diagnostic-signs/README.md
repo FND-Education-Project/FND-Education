@@ -14,9 +14,11 @@ Each symptom page now includes a **Diagnostic techniques at a glance** inventory
 
 **Staged review:** The September 19, 2026 baseline inventory contains 170 entries across the 17 pages. The September 29 dystonia and October 4 FCD updates each add one separately dated research entry, bringing the current catalogue to 172 entries; this does not change the historical baseline. It is a broad starting inventory, not a completed systematic review of every technique and every replication. Primary studies are cited where identified; some entries rely on specialist descriptions or consensus guidance because standalone validation has not been established. Expand and review individual technique pages one at a time, checking original full texts, later replications, conflicting findings and additional techniques before describing their evidence trail as complete.
 
-**Expansion progress:** Initial drafts now cover **15 of the original 17 symptom sets**, leaving **2**. The scan-negative cauda equina starter is a separate pending overlap page. This counts initial symptom expansions, not completion of every inventory technique or human review. See the [running tracker](../../docs/project/diagnostic-expansion-progress.md).
+**Expansion progress:** Initial drafts now cover **all 17 original symptom sets**, leaving **0** original sets awaiting an initial expansion. The scan-negative cauda equina starter is a separate pending overlap page. This counts initial symptom expansions, not completion of every inventory technique or human review. See the [running tracker](../../docs/project/diagnostic-expansion-progress.md).
 
 ## In this folder
+
+- **[Functional Drop Attacks](16-functional-drop-attacks.md)** — [event reconstruction](functional_drop_attacks/01-event-reconstruction.md), [differential assessment](functional_drop_attacks/02-differential-assessment.md), [falls impact and follow-up](functional_drop_attacks/03-falls-impact-and-follow-up.md), [seven-entry inventory](functional_drop_attacks/technique-inventory.md).
 
 - **[Functional Paralysis](15-functional-paralysis.md)** — [Severe Immobility: Assessment and Care Needs](functional_paralysis/01-severe-immobility-assessment.md), [Leg Comparisons in Functional Paralysis](functional_paralysis/02-leg-comparisons-and-limits.md), [Arm Comparisons in Functional Paralysis](functional_paralysis/03-arm-comparisons-and-limits.md), [Functional Paralysis Diagnostic Inventory](functional_paralysis/technique-inventory.md).
 
@@ -46,7 +48,7 @@ Each symptom page now includes a **Diagnostic techniques at a glance** inventory
 
 - **[Functional Tremor](02-functional-tremor.md)** — expanded overview, with separate [distractibility](functional_tremor/01-distractibility.md) and [entrainment](functional_tremor/02-entrainment.md) drafts. All twelve original entries remain in the [inventory](functional_tremor/technique-inventory.md).
 
-- **[Functional Tics and Tic-Like Symptoms](17-functional-tics-and-tic-like-symptoms.md)** — motor and vocal symptoms, assessment limits and individualized care.
+- **[Functional Tics and Tic-Like Symptoms](17-functional-tics-and-tic-like-symptoms.md)** — [history and motor–vocal assessment](functional_tics/01-history-and-phenomenology.md), [criteria and uncertainty](functional_tics/02-criteria-and-diagnostic-uncertainty.md), [measurement and everyday function](functional_tics/03-measurement-and-everyday-function.md), [nine-entry inventory](functional_tics/technique-inventory.md).
 
 - **[Scan-Negative Cauda Equina Presentations](scan-negative-cauda-equina.md)** — special overlap page for cauda-equina-like presentations without explanatory compression on imaging; this does not add an 18th FND presentation category.
 

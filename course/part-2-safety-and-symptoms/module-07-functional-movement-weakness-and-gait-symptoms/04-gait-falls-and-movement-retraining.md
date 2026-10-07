@@ -118,6 +118,8 @@ Characterize falls separately: buckling, imbalance, loss of consciousness, seizu
 
 **Related reference:** [Functional drop attacks: seven detailed recovery and safety pages](../../../reference/recovery-techniques/functional_drop_attacks/README.md).
 
+**Further reading in the Reference Library:** [Reconstructing a Sudden Fall](../../../reference/diagnostic-signs/functional_drop_attacks/01-event-reconstruction.md), [Differential Assessment of Drop Attacks](../../../reference/diagnostic-signs/functional_drop_attacks/02-differential-assessment.md), [Falls, Everyday Function and Follow-Up](../../../reference/diagnostic-signs/functional_drop_attacks/03-falls-impact-and-follow-up.md).
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: How Movement Retraining Works](05-how-movement-retraining-works.md)
 

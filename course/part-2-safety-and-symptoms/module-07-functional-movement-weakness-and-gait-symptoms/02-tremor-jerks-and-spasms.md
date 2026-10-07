@@ -136,6 +136,8 @@ If a positive sign is clear, show it respectfully as evidence of preserved movem
 
 **[Functional tics: eight detailed recovery and supporting-care pages](../../../reference/recovery-techniques/functional_tics/README.md)** — five original treatment/coordinated-care entries and three original safety/access/support entries, expanded one-to-one. One additional navigation overview; 17 symptom presentations and course-page counts are unchanged. Added September 24, 2026; human review pending.
 
+**Further reading in the Reference Library:** [Tic History and Motor–Vocal Assessment](../../../reference/diagnostic-signs/functional_tics/01-history-and-phenomenology.md), [Tic Diagnostic Criteria and Uncertainty](../../../reference/diagnostic-signs/functional_tics/02-criteria-and-diagnostic-uncertainty.md), [Measuring Tic Symptoms and Everyday Function](../../../reference/diagnostic-signs/functional_tics/03-measurement-and-everyday-function.md).
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Dystonia and Fixed Postures](03-functional-dystonia-and-fixed-postures.md)
 

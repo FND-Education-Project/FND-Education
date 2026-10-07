@@ -18,6 +18,12 @@ Preference should generally be given to:
 
 The most appropriate source depends on the claim. A newer primary study does not automatically overrule a careful systematic review, and a consensus recommendation should not be described as experimental proof.
 
+## Diagnostic evidence presentation
+
+Lead with current clinical understanding and suitable contemporary sources, weighing study quality and relevance rather than publication date alone. Keep the public explanation readable: include limitations that change the meaning or use of a finding; keep search histories, access gaps and detailed appraisal in the internal review record.
+
+When a necessary historical source contains misleading or stigmatizing framing, explain the current understanding positively before referring to it. Preserve its exact bibliographic citation and stable ID as plain text, without a public paper or central-index hyperlink. Keep one original-paper link in the internal reading guide for editorial review. This is an exception to the usual linked-ID convention below. Do not reproduce objectionable wording as a routine warning, or treat newer publication as proof of stronger evidence.
+
 ## Principal clinical reference framework
 
 The work of Jon Stone and his collaborators will provide the project’s principal clinical reference framework. Their work should be sought first when it directly addresses a clinical point, and departures from that framework should be identified clearly.

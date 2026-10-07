@@ -2,9 +2,9 @@
 
 [Home](../../README.md) › Project Documentation › **Diagnostic Expansion Progress**
 
-Updated October 6, 2026. Editorial tracker; clinical and human review are separate.
+Updated October 7, 2026. Editorial tracker; clinical and human review are separate.
 
-**Initial expansion drafts: 15 of 17. Remaining original symptom sets: 2. Next: functional drop attacks.**
+**Initial expansion drafts: 17 of 17. Remaining original symptom sets: 0. Initial expansion pass complete; review and refinement remain.**
 
 An initial expansion means a revised symptom overview plus the selected detailed diagnostic pages and preserved inventory. It does not mean every inventory entry has a standalone page, every primary paper has been reviewed, or clinical approval is complete. Counts are symptom sets, not technique pages.
 
@@ -24,9 +24,9 @@ An initial expansion means a revised symptom overview plus the selected detailed
 | 12 | [Functional Cognitive Disorder](../../reference/diagnostic-signs/12-functional-cognitive-disorder.md) | Initial diagnostic and measurement expansion merged; clinical review pending |
 | 13 | [Persistent Postural-Perceptual Dizziness](../../reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) | Initial expansion merged; clinical review pending |
 | 14 | [Functional Facial Symptoms — Spasm, Droop and Weakness](../../reference/diagnostic-signs/14-functional-facial-symptoms.md) | Initial expansion merged; clinical review pending |
-| 15 | [Functional Paralysis](../../reference/diagnostic-signs/15-functional-paralysis.md) | Initial expansion prepared for review |
-| 16 | [Functional Drop Attacks](../../reference/diagnostic-signs/16-functional-drop-attacks.md) | Pending |
-| 17 | [Functional Tics and Tic-Like Symptoms](../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) | Pending |
+| 15 | [Functional Paralysis](../../reference/diagnostic-signs/15-functional-paralysis.md) | Initial expansion merged; clinical review pending |
+| 16 | [Functional Drop Attacks](../../reference/diagnostic-signs/16-functional-drop-attacks.md) | Initial expansion prepared for review |
+| 17 | [Functional Tics and Tic-Like Symptoms](../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) | Initial expansion prepared for review |
 
 The [scan-negative cauda equina starter](../../reference/diagnostic-signs/scan-negative-cauda-equina.md) is an additional pending overlap-page expansion, **not an eighteenth FND category**.
 
@@ -51,3 +51,5 @@ The historical collection baseline remains 170 entries. Dystonia's and FCD's sep
 [Functional facial implementation record](functional-facial-diagnostic-expansion.md)
 
 Functional paralysis preserves its original nine inventory entries without additions. [Implementation record](functional-paralysis-diagnostic-expansion.md).
+
+Drop attacks preserve seven original entries and tics nine. [Final two implementation record](final-two-diagnostic-expansions.md).

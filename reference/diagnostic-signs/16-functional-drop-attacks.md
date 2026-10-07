@@ -4,7 +4,7 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Drop Attacks**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Working draft:** This page was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Automatically generated working draft — October 7, 2026.** Human, specialist clinical, lived-experience and accessibility review pending.
 
 **Refers to:**
 
@@ -18,9 +18,9 @@
 
 **Presentation:** Establish the event phenotype and positive clinical formulation rather than inferring FND from normal tests. No validated single bedside sign for functional drop attacks was located.
 
-- [Structured event reconstruction](#structured-event-reconstruction) — establish what happened before, during and after a fall.
-- [Witness account or safe video](#witness-account-or-safe-video) — add a witnessed account of the event.
-- [Cardiovascular and orthostatic assessment](#cardiovascular-and-orthostatic-assessment) — assess fainting and circulatory explanations.
+- [Reconstructing a Sudden Fall](functional_drop_attacks/01-event-reconstruction.md) — before, during and after the event, with witness information.
+- [Differential Assessment of Drop Attacks](functional_drop_attacks/02-differential-assessment.md) — other causes, coexistence and targeted investigations.
+- [Falls, Everyday Function and Follow-Up](functional_drop_attacks/03-falls-impact-and-follow-up.md) — injuries, assistance, participation and review.
 
 **More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
@@ -29,7 +29,8 @@
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## For the Person With FND
 
@@ -39,12 +40,18 @@ Many conditions can cause sudden falls. The diagnosis is therefore based on the 
 
 If an event is new, changing, associated with definite loss of consciousness, chest pain, sustained palpitations, new neurological symptoms, prolonged confusion or injury, seek appropriate medical assessment. Do not deliberately recreate a fall or walk without needed support to obtain a recording.
 
+### What assessment should also cover
+
+Tell the team about injuries, help needed after an event, activities affected and access to daily life. A brief walk in clinic does not show how safely you can manage a whole day. The [falls and follow-up guide](functional_drop_attacks/03-falls-impact-and-follow-up.md) explains how to record this separately from diagnosis.
+
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## For Family, Friends, and Other Supporters
 
@@ -59,7 +66,8 @@ Do not assume that every fall in a person with FND is another functional drop at
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## For Clinicians and the Care Team
 
@@ -69,22 +77,15 @@ Do not assume that every fall in a person with FND is another functional drop at
 
 ### Structured diagnostic approach
 
-1. Define the event from standing or walking through impact and recovery, including warning, recall, awareness, motor pattern, autonomic features, injury and duration.
-2. Obtain witness description or consensual video when available, recognizing selection and interpretation limits.
-3. Examine gait, strength, movement, cardiovascular and vestibular features as guided by the history.
-4. Consider syncope and orthostatic causes, epilepsy including atonic events, cataplexy or narcolepsy, vestibular or Tumarkin attacks, medication effects, mechanical falls and other neurological, cardiac or musculoskeletal causes.
-5. Identify whether the event is better formulated as functional gait/weakness, a functional seizure or a functional drop attack. Record overlap rather than forcing one label when two established phenotypes coexist.
-6. Explain the basis and limits of the formulation and provide an injury-response plan while diagnostic work continues where needed.
+[Read the six-step clinical outline and event record](functional_drop_attacks/01-event-reconstruction.md#performing-the-assessment).
 
 The retrospective “cryptogenic drop attack” cohort showed substantial overlap with dissociative symptoms, functional limb weakness and nonepileptic attacks, but it did not establish that all unexplained drop attacks are functional. The later qualitative study of seven people proposed a cognitive-behavioural model; it was not a diagnostic-accuracy or treatment trial. (*citations* [1](#citation-1), [2](#citation-2))
 
+**Targeted investigations:** Suspected blackouts require their own assessment pathway; the [differential guide](functional_drop_attacks/02-differential-assessment.md) explains the scope of the over-16 NICE guidance. (*citations* [4](#citation-4))
+
 ### Media contributor brief
 
-**Preferred format:** A narrated flow diagram beginning with “sudden fall” and separating definite blackout, prolonged seizure-like features, gait or weakness-related buckling, and the no-definite-blackout/rapid-recovery presentation. Keep differential branches non-exhaustive and direct viewers to assessment.
-
-**Clinical example:** Use a fictional consultation or actor. Show the questions asked before, during and after an event, what a witness can report, and why no single normal test proves the diagnosis.
-
-Do not stage a fall, withdraw an aid, provoke an event or use injury footage. Captions should distinguish “drop attack” as an event description from “functional drop attack” as a clinical formulation.
+[Read the preserved media brief](functional_drop_attacks/01-event-reconstruction.md#media-and-accessibility).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -96,35 +97,35 @@ Do not stage a fall, withdraw an aid, provoke an event or use injury footage. Ca
 
 These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
 
-The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
+The detailed guides above cover the main assessment questions. Every original entry is linked below and preserved in the separate inventory; an entry is not necessarily a validated test.
 
 ### Structured event reconstruction
 
-The clinician maps the sequence before, during and after the fall, including posture, warning, awareness, movement and recovery. A retrospective cohort describes a common functional phenotype, but no validated single bedside sign was established. (*citations* [1](#citation-1))
+[Read the preserved assessment description](functional_drop_attacks/technique-inventory.md#structured-event-reconstruction).
 
 ### Witness account or safe video
 
-A consensual account or existing recording may clarify whether there was blackout, knee buckling or a longer seizure-like event. This supports classification, not diagnosis from appearance alone. Never provoke a fall or withhold an aid for recording. (*citations* [1](#citation-1))
+[Read the preserved assessment description](functional_drop_attacks/technique-inventory.md#witness-account-or-safe-video).
 
 ### Awareness and recovery profile
 
-No definite loss of consciousness with relatively rapid recovery may fit the described phenotype. It also occurs in other disorders, including cataplexy and vestibular falls. Missing memory of impact does not by itself establish or exclude a functional cause. (*citations* [1](#citation-1))
+[Read the preserved assessment description](functional_drop_attacks/technique-inventory.md#awareness-and-recovery-profile).
 
 ### Associated positive functional signs
 
-Matching weakness, gait or seizure findings may support a wider functional formulation. The drop-attack cohort showed overlap, but a functional diagnosis elsewhere does not prove the cause of each fall. (*citations* [1](#citation-1))
+[Read the preserved assessment description](functional_drop_attacks/technique-inventory.md#associated-positive-functional-signs).
 
 ### Cardiovascular and orthostatic assessment
 
-History, examination, ECG and selected monitoring or tilt testing address syncope and arrhythmia when indicated. These are differential investigations; normal results alone do not classify a fall as functional. (*citations* [1](#citation-1))
+[Read the preserved assessment description](functional_drop_attacks/technique-inventory.md#cardiovascular-and-orthostatic-assessment).
 
 ### Epilepsy and sleep assessment
 
-Event characteristics guide seizure investigation or assessment for cataplexy and narcolepsy. These are differential pathways, not positive FND techniques. Preserved awareness is compatible with cataplexy and some epileptic events. (*citations* [1](#citation-1))
+[Read the preserved assessment description](functional_drop_attacks/technique-inventory.md#epilepsy-and-sleep-assessment).
 
 ### Vestibular, gait and mechanical assessment
 
-The clinician evaluates vestibular drop attacks, leg buckling, medications and environmental or musculoskeletal causes as appropriate. No single normal balance or gait test proves functional drop attacks. (*citations* [1](#citation-1))
+[Read the preserved assessment description](functional_drop_attacks/technique-inventory.md#vestibular-gait-and-mechanical-assessment).
 
 
 ***
@@ -144,6 +145,7 @@ The clinician evaluates vestibular drop attacks, leg buckling, medications and e
 | <a id="citation-1"></a>**[1]** | Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. [FND-CIT-0059](../../research/citation-index.md#fnd-cit-0059). [https://doi.org/10.1136/jnnp-2017-317396](https://doi.org/10.1136/jnnp-2017-317396) |
 | <a id="citation-2"></a>**[2]** | Revell ER, Gillespie D, Morris PG, Stone J. Drop attacks as a subtype of FND: a cognitive behavioural model using grounded theory. *Epilepsy & Behavior Reports*. 2021;16:100491. [FND-CIT-0060](../../research/citation-index.md#fnd-cit-0060). [https://doi.org/10.1016/j.ebr.2021.100491](https://doi.org/10.1016/j.ebr.2021.100491) |
 | <a id="citation-3"></a>**[3]** | Stone J. Functional drop attacks. *Neurosymptoms.org*. Accessed September 2, 2026. [FND-CIT-0061](../../research/citation-index.md#fnd-cit-0061). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/) |
+| <a id="citation-4"></a>**[4]** | NICE. Transient loss of consciousness ('blackouts') in over 16s. Clinical guideline CG109. [Recommendations](https://www.nice.org.uk/guidance/cg109/chapter/Recommendations). Accessed October 7, 2026. Adjacent guidance for suspected transient loss of consciousness; not functional-drop-attack diagnostic criteria. [FND-CIT-0263](../../research/citation-index.md#fnd-cit-0263). |
 
 *Technique outline created: September 2, 2026 · Neurology, cardiology, vestibular, sleep, rehabilitation, lived-experience and accessibility review pending*
 
@@ -152,10 +154,11 @@ The clinician evaluates vestibular drop attacks, leg buckling, medications and e
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Functional Tics and Tic-Like Symptoms](17-functional-tics-and-tic-like-symptoms.md)
+**Continue:** [Reconstructing a Sudden Fall](functional_drop_attacks/01-event-reconstruction.md)
 
 **Related:** [Seven detailed recovery and safety pages](../recovery-techniques/functional_drop_attacks/README.md) · [Previous: paralysis diagnostic inventory](functional_paralysis/technique-inventory.md) · [Collection index](README.md) · [Recovery techniques for this symptom](../recovery-techniques/16-functional-drop-attacks.md) · [Functional gait disorder](05-functional-gait-disorder.md) · [Functional seizures](06-functional-seizures.md) · [Related course page](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
 

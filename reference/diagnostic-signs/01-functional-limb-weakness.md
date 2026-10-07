@@ -4,7 +4,7 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Limb Weakness**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Automatically generated working draft — October 6, 2026.** Human, neurology, physiotherapy, lived-experience and accessibility review pending.
+> **Automatically generated working draft — October 7, 2026.** Human, neurology, physiotherapy, lived-experience and accessibility review pending.
 
 **Refers to:**
 
@@ -20,7 +20,9 @@
 
 - [Hoover’s sign: detailed assessment](functional_limb_weakness/01-hoovers-sign.md) — a deliberate/automatic hip-extension comparison for suitable one-sided leg weakness.
 - [Other leg and arm assessments](functional_limb_weakness/technique-inventory.md) — all sixteen baseline entries, including their limitations and links to the appropriate paralysis or unresponsiveness context. These include observations and investigations as well as signs.
-- [Understanding positive diagnosis](../diagnostic-concepts/01-positive-diagnosis.md), [investigation scope](../diagnostic-concepts/03-tests-and-investigations.md) and [everyday function](../diagnostic-concepts/10-assessment-and-everyday-function.md) — shared explanations supporting this page.
+- [Understanding positive diagnosis](../diagnostic-concepts/01-positive-diagnosis.md) — how examination findings support a diagnosis.
+
+[More assessments are listed below](#diagnostic-techniques-at-a-glance).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -110,7 +112,7 @@ If weakness is not present during the appointment, a credible history, a safely 
 ### Interpret the finding and its scope
 
 <a id="technique-outline-hoovers-sign"></a>
-The [Hoover’s-sign page](functional_limb_weakness/01-hoovers-sign.md#preparation-and-examination) now owns the examination outline, anatomy, explanation and evidence limits. Record which comparison was performed and any confounders. The prospective study involved only eight functional cases; its accuracy estimates should not be treated as universal. (*citations* [2](#citation-2))
+The [Hoover’s-sign page](functional_limb_weakness/01-hoovers-sign.md#preparation-and-examination) now owns the examination outline, anatomy, explanation and evidence limits. Record which comparison was performed and any confounders. The 2025 assessment review explains the comparison and its clinical use; the prospective cohort remains a small study of its accuracy. (*citations* [2](#citation-2), [18](#citation-18))
 
 ### Upper-limb comparisons
 
@@ -122,7 +124,7 @@ Report the diagnostic finding separately from observed task performance, sustain
 
 ### Diagnostic techniques at a glance
 
-The [full sixteen-entry inventory](functional_limb_weakness/technique-inventory.md) is preserved separately. The links below retain earlier incoming anchors; the inventory distinguishes detailed evidence-reviewed content from summaries awaiting expansion.
+The [sixteen-entry inventory](functional_limb_weakness/technique-inventory.md) explains these signs and assessments, when they may help and which have limited supporting evidence.
 
 <a id="hoovers-sign"></a>
 - [Hoover’s sign](functional_limb_weakness/technique-inventory.md#hoovers-sign)
@@ -172,9 +174,9 @@ The [media brief and image review](functional_limb_weakness/01-hoovers-sign.md#m
 
 ### Evidence notes
 
-This page separates diagnostic reasoning from examination technique and daily-life impact. The explanations below are based on the cited clinical literature.
+For clinical context, begin with Bennett and colleagues’ review; for examination comparisons, use the 2025 assessment review. The primary studies support particular findings, while occupational therapy guidance connects assessment with everyday activities. (*citations* [1](#citation-1), [18](#citation-18), [19](#citation-19))
 
-The clinical review supplies context, the Hoover cohort supplies a narrow validation result, the functional-weakness study supplies group-level disability and mental-health information, and OT guidance supplies an assessment framework. None defines an individual’s severity or prognosis. The remaining inventory entries retain their original sources and await individual re-review.
+Functional weakness is involuntary. Differences between requested and automatic movement help explain how movement is working; they do not establish intention or measure everyday independence. This is the clinical frame for the historical studies retained below. (*citations* [1](#citation-1))
 
 ### Citation table
 
@@ -183,7 +185,7 @@ The clinical review supplies context, the Hoover cohort supplies a narrow valida
 | <a id="citation-1"></a>**[1]** | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
 | <a id="citation-2"></a>**[2]** | McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. [FND-CIT-0018](../../research/citation-index.md#fnd-cit-0018). [https://doi.org/10.1016/j.jpsychores.2011.09.003](https://doi.org/10.1016/j.jpsychores.2011.09.003) |
 | <a id="citation-3"></a>**[3]** | Stone J, Warlow C, Sharpe M. The symptom of functional weakness: a controlled study of 107 patients. *Brain : a journal of neurology*. 2010;133(Pt 5):1537-1551. [DOI](https://doi.org/10.1093/brain/awq068). [PMID: 20395262](https://pubmed.ncbi.nlm.nih.gov/20395262/). [FND-CIT-0047](../../research/citation-index.md#fnd-cit-0047). |
-| <a id="citation-4"></a>**[4]** | Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of neurology, neurosurgery, and psychiatry*. 2004;75(1):121-125. [PMID: 14707320](https://pubmed.ncbi.nlm.nih.gov/14707320/). [FND-CIT-0058](../../research/citation-index.md#fnd-cit-0058). |
+| <a id="citation-4"></a>**[4]** | Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of neurology, neurosurgery, and psychiatry*. 2004;75(1):121-125. FND-CIT-0058. |
 | <a id="citation-5"></a>**[5]** | Daum C, Aybek S. Validity of the "Drift without pronation" sign in conversion disorder. *BMC neurology*. 2013;13:31. [DOI](https://doi.org/10.1186/1471-2377-13-31). [PMID: 23548051](https://pubmed.ncbi.nlm.nih.gov/23548051/). [FND-CIT-0131](../../research/citation-index.md#fnd-cit-0131). |
 | <a id="citation-6"></a>**[6]** | Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of bedside 'positive signs' for functional weakness, sensory and gait disorders in conversion disorder: a pilot study. *Journal of neurology, neurosurgery, and psychiatry*. 2015;86(4):425-430. [DOI](https://doi.org/10.1136/jnnp-2013-307381). [PMID: 24994927](https://pubmed.ncbi.nlm.nih.gov/24994927/). [FND-CIT-0130](../../research/citation-index.md#fnd-cit-0130). |
 | <a id="citation-7"></a>**[7]** | Sonoo M. Paradoxical wrist flexion: A new test to detect functional weakness of the upper limb. *eNeurologicalSci*. 2021;22:100302. [DOI](https://doi.org/10.1016/j.ensci.2020.100302). [PMID: 33344786](https://pubmed.ncbi.nlm.nih.gov/33344786/). [FND-CIT-0185](../../research/citation-index.md#fnd-cit-0185). |
@@ -191,10 +193,10 @@ The clinical review supplies context, the Hoover cohort supplies a narrow valida
 | <a id="citation-9"></a>**[9]** | Chabrol H, Peresson G, Clanet M. Lack of specificity of the traditional criteria for conversion disorders. *European psychiatry : the journal of the Association of European Psychiatrists*. 1995;10(6):317-319. [DOI](https://doi.org/10.1016/0924-9338%2896%2980314-2). [PMID: 19698360](https://pubmed.ncbi.nlm.nih.gov/19698360/). [FND-CIT-0126](../../research/citation-index.md#fnd-cit-0126). |
 | <a id="citation-10"></a>**[10]** | van der Ploeg RJ, Oosterhuis HJ. The "make/break test" as a diagnostic tool in functional weakness. *Journal of neurology, neurosurgery, and psychiatry*. 1991;54(3):248-251. [DOI](https://doi.org/10.1136/jnnp.54.3.248). [PMID: 2030354](https://pubmed.ncbi.nlm.nih.gov/2030354/). [FND-CIT-0152](../../research/citation-index.md#fnd-cit-0152). |
 | <a id="citation-11"></a>**[11]** | Ziv I, Djaldetti R, Zoldan Y, et al. Diagnosis of "non-organic" limb paresis by a novel objective motor assessment: the quantitative Hoover's test. *Journal of neurology*. 1998;245(12):797-802. [DOI](https://doi.org/10.1007/s004150050289). [PMID: 9840352](https://pubmed.ncbi.nlm.nih.gov/9840352/). [FND-CIT-0162](../../research/citation-index.md#fnd-cit-0162). |
-| <a id="citation-12"></a>**[12]** | Knutsson E, Mårtensson A. Isokinetic measurements of muscle strength in hysterical paresis. *Electroencephalography and clinical neurophysiology*. 1985;61(5):370-374. [DOI](https://doi.org/10.1016/0013-4694%2885%2991027-2). [PMID: 2412788](https://pubmed.ncbi.nlm.nih.gov/2412788/). [FND-CIT-0150](../../research/citation-index.md#fnd-cit-0150). |
+| <a id="citation-12"></a>**[12]** | Knutsson E, Mårtensson A. Isokinetic measurements of muscle strength in hysterical paresis. *Electroencephalography and clinical neurophysiology*. 1985;61(5):370-374. FND-CIT-0150. |
 | <a id="citation-13"></a>**[13]** | Horn D, Galli S, Berney A, et al. Testing Head Rotation and Flexion Is Useful in Functional Limb Weakness. *Movement disorders clinical practice*. 2017;4(4):597-602. [DOI](https://doi.org/10.1002/mdc3.12492). [PMID: 30363481](https://pubmed.ncbi.nlm.nih.gov/30363481/). [FND-CIT-0155](../../research/citation-index.md#fnd-cit-0155). |
 | <a id="citation-14"></a>**[14]** | Tinazzi M, Simonetto S, Franco L, et al. Abduction finger sign: a new sign to detect unilateral functional paralysis of the upper limb. *Movement disorders : official journal of the Movement Disorder Society*. 2008;23(16):2415-2419. [DOI](https://doi.org/10.1002/mds.22268). [PMID: 18951441](https://pubmed.ncbi.nlm.nih.gov/18951441/). [FND-CIT-0057](../../research/citation-index.md#fnd-cit-0057). |
-| <a id="citation-15"></a>**[15]** | Yugué I, Shiba K, Ueta T, Iwamoto Y. A new clinical evaluation for hysterical paralysis. *Spine*. 2004;29(17):1910-3; discussion 1913. [DOI](https://doi.org/10.1097/01.brs.0000137055.55350.37). [PMID: 15534415](https://pubmed.ncbi.nlm.nih.gov/15534415/). [FND-CIT-0166](../../research/citation-index.md#fnd-cit-0166). |
+| <a id="citation-15"></a>**[15]** | Yugué I, Shiba K, Ueta T, Iwamoto Y. A new clinical evaluation for hysterical paralysis. *Spine*. 2004;29(17):1910-3; discussion 1913. FND-CIT-0166. |
 | <a id="citation-16"></a>**[16]** | Marcus H, Aldam P, Lennox G, Laing R. Medically unexplained neurological symptoms. *JRSM short reports*. 2010;1(3):25. [DOI](https://doi.org/10.1258/shorts.2010.010035). [PMID: 21103117](https://pubmed.ncbi.nlm.nih.gov/21103117/). [FND-CIT-0153](../../research/citation-index.md#fnd-cit-0153). |
 | <a id="citation-17"></a>**[17]** | Bacchi S, Slee M. Physical examination in functional unresponsiveness. *Practical neurology*. 2023;23(1):54-56. [DOI](https://doi.org/10.1136/pn-2022-003494). [PMID: 36717206](https://pubmed.ncbi.nlm.nih.gov/36717206/). [FND-CIT-0119](../../research/citation-index.md#fnd-cit-0119). |
 | <a id="citation-18"></a>**[18]** | Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functional motor weakness: a review of validated techniques. *Journal of neurology*. 2025;272(6):427. [DOI](https://doi.org/10.1007/s00415-025-13139-4). [PMID: 40423819](https://pubmed.ncbi.nlm.nih.gov/40423819/). [FND-CIT-0183](../../research/citation-index.md#fnd-cit-0183). |
@@ -203,7 +205,7 @@ The clinical review supplies context, the Hoover cohort supplies a narrow valida
 
 *Sources 4–18 remain for the preserved inventory links and their historical anchors; see the [inventory](functional_limb_weakness/technique-inventory.md) for the associated claims.*
 
-*Expanded September 26, 2026; personal material removed October 6, 2026. Human, clinical, lived-experience and accessibility review pending.*
+*Expanded September 26, 2026; personal material removed October 6, 2026; evidence presentation reviewed October 7, 2026. Human, clinical, lived-experience and accessibility review pending.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>

@@ -142,6 +142,8 @@ General falls and head-injury guidance supports the safety recommendations. Broa
 [Research and Sources](#research-and-sources)
 ***
 
+**Assessment reading:** The [diagnostic overview](../diagnostic-signs/16-functional-drop-attacks.md#quick-reference) links to three detailed assessment guides and the preserved inventory.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Agreeing What to Do After a Fall](functional_drop_attacks/01-injury-response-plan.md)
 

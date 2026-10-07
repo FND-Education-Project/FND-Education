@@ -765,6 +765,19 @@ def audit_document_shell(
         )
 
 
+def audit_reference_menu_separators(text: str, errors: list[str]) -> None:
+    """Catch a menu's trailing Markdown rule rendered as an inline dash."""
+    menus = list(re.finditer(
+        r'<a\b[^>]*href="#more-fnd-reference-topics"[^>]*>More Reference Topics</a>',
+        text,
+    ))
+    if not menus or any(
+        not re.match(r'\s*</p>\s*<hr\s*/?>', text[menu.end():])
+        for menu in menus
+    ):
+        errors.append("Reference landing menu must end with a separate horizontal rule")
+
+
 def check_built_site(
     site_root: Path,
     baseurl: str,
@@ -828,6 +841,9 @@ def check_built_site(
         current_route = built_file_to_route(site_root, html_file)
         text = text_by_route[current_route]
         parser = parsed_by_route[current_route]
+
+        if current_route == "/reference/":
+            audit_reference_menu_separators(text, errors)
 
         if "reference/_internal/" in text or "/_internal/" in text:
             errors.append(

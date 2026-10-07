@@ -1,6 +1,6 @@
 # Diagnostic Review — Essential Reading in Review Order
 
-> **Internal editorial reading guide — September 28, 2026.** This file is a review aid, not a reader-facing clinical page. It is built from the sources currently cited in the diagnostic symptom, inventory and detailed-technique pages. It is **not an independent systematic literature search** and does not imply that uncited later studies, replications or conflicting evidence are unimportant.
+> **Internal editorial reading guide — October 7, 2026.** This file is a review aid, not a reader-facing clinical page. It is built from the sources currently cited in the diagnostic symptom, inventory and detailed-technique pages. It is **not an independent systematic literature search** and does not imply that uncited later studies, replications or conflicting evidence are unimportant.
 
 ## How to use this guide
 
@@ -29,11 +29,14 @@ Repeated papers appear under more than one technique on purpose. **Only the firs
 
 **Page to review:** [Functional Limb Weakness](../../diagnostic-signs/01-functional-limb-weakness.md)
 
+**Evidence-presentation review:** [October 7 decisions and remaining source checks](limb-weakness-evidence-review.md). This first-symptom pass does not mark every original paper as fully appraised.
+
 ### Read first — symptom-level evidence
 
 - [ ] Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987)
+- [ ] Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functional motor weakness: a review of validated techniques. *Journal of neurology*. 2025;272(6):427. [DOI](https://doi.org/10.1007/s00415-025-13139-4).
 - [ ] McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. [https://doi.org/10.1016/j.jpsychores.2011.09.003](https://doi.org/10.1016/j.jpsychores.2011.09.003)
-- [ ] Stone J, Warlow C, Sharpe M. The symptom of functional weakness: a controlled study of 107 patients. *Brain : a journal of neurology*. 2010;133(Pt 5):1537-1551. [DOI](https://doi.org/10.1093/brain/awq068). [PMID: 20395262](https://pubmed.ncbi.nlm.nih.gov/20395262/).
+- [ ] Stone J, Warlow C, Sharpe M. The symptom of functional weakness: a controlled study of 107 patients. *Brain : a journal of neurology*. 2010;133(Pt 5):1537-1551. [DOI](https://doi.org/10.1093/brain/awq068).
 - [ ] Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) Includes the authors’ [assessment supplement](https://neurosymptoms.org/wp-content/uploads/2020/12/jnnp-2019-322281-inline-supplementary-material-1.pdf). Professional consensus, not a validation study of every assessment tool.
 
 ### Detailed technique pages already written
@@ -42,10 +45,9 @@ Repeated papers appear under more than one technique on purpose. **Only the firs
 
 **Page:** [Hoover’s Sign](../../diagnostic-signs/functional_limb_weakness/01-hoovers-sign.md)
 
-- [ ] Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. https://doi.org/10.7861/clinmed.2020-0987
-- [ ] McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. https://doi.org/10.1016/j.jpsychores.2011.09.003
-- [ ] Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functional motor weakness: a review of validated techniques. *Journal of neurology*. 2025;272(6):427. [DOI](https://doi.org/10.1007/s00415-025-13139-4). [PMID: 40423819](https://pubmed.ncbi.nlm.nih.gov/40423819/).
-
+- [ ] Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36.
+- [ ] McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386.
+- [ ] Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functional motor weakness: a review of validated techniques. *Journal of neurology*. 2025;272(6):427.
 
 ### Technique / inventory review order
 
@@ -53,7 +55,7 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_limb_w
 
 #### Hoover’s sign
 
-- [ ] McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. https://doi.org/10.1016/j.jpsychores.2011.09.003
+- [ ] McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386.
 - [ ] Stone J, Warlow C, Sharpe M. The symptom of functional weakness: a controlled study of 107 patients. *Brain : a journal of neurology*. 2010;133(Pt 5):1537-1551. DOI. PMID: 20395262.
 
 #### Hip-abductor sign
@@ -62,26 +64,26 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_limb_w
 
 #### Drift without pronation
 
-- [ ] Daum C, Aybek S. Validity of the "Drift without pronation" sign in conversion disorder. *BMC neurology*. 2013;13:31. [DOI](https://doi.org/10.1186/1471-2377-13-31). [PMID: 23548051](https://pubmed.ncbi.nlm.nih.gov/23548051/).
-- [ ] Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of bedside 'positive signs' for functional weakness, sensory and gait disorders in conversion disorder: a pilot study. *Journal of neurology, neurosurgery, and psychiatry*. 2015;86(4):425-430. [DOI](https://doi.org/10.1136/jnnp-2013-307381). [PMID: 24994927](https://pubmed.ncbi.nlm.nih.gov/24994927/).
+- [ ] Daum C, Aybek S. Validity of the "Drift without pronation" sign in conversion disorder. *BMC neurology*. 2013;13:31. [DOI](https://doi.org/10.1186/1471-2377-13-31).
+- [ ] Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of bedside 'positive signs' for functional weakness, sensory and gait disorders in conversion disorder: a pilot study. *Journal of neurology, neurosurgery, and psychiatry*. 2015;86(4):425-430. [DOI](https://doi.org/10.1136/jnnp-2013-307381).
 
 #### Paradoxical wrist flexion
 
-- [ ] Sonoo M. Paradoxical wrist flexion: A new test to detect functional weakness of the upper limb. *eNeurologicalSci*. 2021;22:100302. [DOI](https://doi.org/10.1016/j.ensci.2020.100302). [PMID: 33344786](https://pubmed.ncbi.nlm.nih.gov/33344786/).
+- [ ] Sonoo M. Paradoxical wrist flexion: A new test to detect functional weakness of the upper limb. *eNeurologicalSci*. 2021;22:100302. [DOI](https://doi.org/10.1016/j.ensci.2020.100302).
 
 #### Elbow flex-ex sign
 
-- [ ] Lombardi TL, Barton E, Wang J, et al. The elbow flex-ex: a new sign to detect unilateral upper extremity non-organic paresis. *Journal of neurology, neurosurgery, and psychiatry*. 2014;85(2):165-167. [DOI](https://doi.org/10.1136/jnnp-2012-304314). [PMID: 23695497](https://pubmed.ncbi.nlm.nih.gov/23695497/).
+- [ ] Lombardi TL, Barton E, Wang J, et al. The elbow flex-ex: a new sign to detect unilateral upper extremity non-organic paresis. *Journal of neurology, neurosurgery, and psychiatry*. 2014;85(2):165-167. [DOI](https://doi.org/10.1136/jnnp-2012-304314).
 
 #### Give-way or collapsing weakness
 
 - [ ] Stone J, Warlow C, Sharpe M. The symptom of functional weakness: a controlled study of 107 patients. *Brain : a journal of neurology*. 2010;133(Pt 5):1537-1551. DOI. PMID: 20395262.
 - [ ] Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of bedside 'positive signs' for functional weakness, sensory and gait disorders in conversion disorder: a pilot study. *Journal of neurology, neurosurgery, and psychiatry*. 2015;86(4):425-430. DOI. PMID: 24994927.
-- [ ] Chabrol H, Peresson G, Clanet M. Lack of specificity of the traditional criteria for conversion disorders. *European psychiatry : the journal of the Association of European Psychiatrists*. 1995;10(6):317-319. [DOI](https://doi.org/10.1016/0924-9338%2896%2980314-2). [PMID: 19698360](https://pubmed.ncbi.nlm.nih.gov/19698360/).
+- [ ] Chabrol H, Peresson G, Clanet M. Lack of specificity of the traditional criteria for conversion disorders. *European psychiatry : the journal of the Association of European Psychiatrists*. 1995;10(6):317-319. [DOI](https://doi.org/10.1016/0924-9338%2896%2980314-2).
 
 #### Make-versus-break dynamometry
 
-- [ ] van der Ploeg RJ, Oosterhuis HJ. The "make/break test" as a diagnostic tool in functional weakness. *Journal of neurology, neurosurgery, and psychiatry*. 1991;54(3):248-251. [DOI](https://doi.org/10.1136/jnnp.54.3.248). [PMID: 2030354](https://pubmed.ncbi.nlm.nih.gov/2030354/).
+- [ ] van der Ploeg RJ, Oosterhuis HJ. The "make/break test" as a diagnostic tool in functional weakness. *Journal of neurology, neurosurgery, and psychiatry*. 1991;54(3):248-251. [DOI](https://doi.org/10.1136/jnnp.54.3.248).
 
 #### Task-related motor inconsistency
 
@@ -91,11 +93,11 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_limb_w
 
 #### Quantitative Hoover testing
 
-- [ ] Ziv I, Djaldetti R, Zoldan Y, et al. Diagnosis of "non-organic" limb paresis by a novel objective motor assessment: the quantitative Hoover's test. *Journal of neurology*. 1998;245(12):797-802. [DOI](https://doi.org/10.1007/s004150050289). [PMID: 9840352](https://pubmed.ncbi.nlm.nih.gov/9840352/).
+- [ ] Ziv I, Djaldetti R, Zoldan Y, et al. Diagnosis of "non-organic" limb paresis by a novel objective motor assessment: the quantitative Hoover's test. *Journal of neurology*. 1998;245(12):797-802. [DOI](https://doi.org/10.1007/s004150050289).
 
 #### Isokinetic strength testing
 
-- [ ] Knutsson E, Mårtensson A. Isokinetic measurements of muscle strength in hysterical paresis. *Electroencephalography and clinical neurophysiology*. 1985;61(5):370-374. [DOI](https://doi.org/10.1016/0013-4694%2885%2991027-2). [PMID: 2412788](https://pubmed.ncbi.nlm.nih.gov/2412788/).
+- [ ] Knutsson E, Mårtensson A. Isokinetic measurements of muscle strength in hysterical paresis. *Electroencephalography and clinical neurophysiology*. 1985;61(5):370-374. [DOI](https://doi.org/10.1016/0013-4694%2885%2991027-2).
 
 #### Antagonist co-contraction
 
@@ -103,7 +105,7 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_limb_w
 
 #### Sternocleidomastoid sign
 
-- [ ] Horn D, Galli S, Berney A, et al. Testing Head Rotation and Flexion Is Useful in Functional Limb Weakness. *Movement disorders clinical practice*. 2017;4(4):597-602. [DOI](https://doi.org/10.1002/mdc3.12492). [PMID: 30363481](https://pubmed.ncbi.nlm.nih.gov/30363481/).
+- [ ] Horn D, Galli S, Berney A, et al. Testing Head Rotation and Flexion Is Useful in Functional Limb Weakness. *Movement disorders clinical practice*. 2017;4(4):597-602. [DOI](https://doi.org/10.1002/mdc3.12492).
 
 #### Platysma comparison
 
@@ -111,17 +113,25 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_limb_w
 
 #### Abduction-finger sign
 
-- [ ] Tinazzi M, Simonetto S, Franco L, et al. Abduction finger sign: a new sign to detect unilateral functional paralysis of the upper limb. *Movement disorders : official journal of the Movement Disorder Society*. 2008;23(16):2415-2419. [DOI](https://doi.org/10.1002/mds.22268). [PMID: 18951441](https://pubmed.ncbi.nlm.nih.gov/18951441/).
+- [ ] Tinazzi M, Simonetto S, Franco L, et al. Abduction finger sign: a new sign to detect unilateral functional paralysis of the upper limb. *Movement disorders : official journal of the Movement Disorder Society*. 2008;23(16):2415-2419. [DOI](https://doi.org/10.1002/mds.22268).
 
 #### Spinal Injuries Center test
 
-- [ ] Yugué I, Shiba K, Ueta T, Iwamoto Y. A new clinical evaluation for hysterical paralysis. *Spine*. 2004;29(17):1910-3; discussion 1913. [DOI](https://doi.org/10.1097/01.brs.0000137055.55350.37). [PMID: 15534415](https://pubmed.ncbi.nlm.nih.gov/15534415/).
+- [ ] Yugué I, Shiba K, Ueta T, Iwamoto Y. A new clinical evaluation for hysterical paralysis. *Spine*. 2004;29(17):1910-3; discussion 1913. [DOI](https://doi.org/10.1097/01.brs.0000137055.55350.37).
 
 #### Arm/hand-drop avoidance: not a validated weakness sign
 
-- [ ] Marcus H, Aldam P, Lennox G, Laing R. Medically unexplained neurological symptoms. *JRSM short reports*. 2010;1(3):25. [DOI](https://doi.org/10.1258/shorts.2010.010035). [PMID: 21103117](https://pubmed.ncbi.nlm.nih.gov/21103117/).
-- [ ] Bacchi S, Slee M. Physical examination in functional unresponsiveness. *Practical neurology*. 2023;23(1):54-56. [DOI](https://doi.org/10.1136/pn-2022-003494). [PMID: 36717206](https://pubmed.ncbi.nlm.nih.gov/36717206/).
+- [ ] Marcus H, Aldam P, Lennox G, Laing R. Medically unexplained neurological symptoms. *JRSM short reports*. 2010;1(3):25. [DOI](https://doi.org/10.1258/shorts.2010.010035).
+- [ ] Bacchi S, Slee M. Physical examination in functional unresponsiveness. *Practical neurology*. 2023;23(1):54-56. [DOI](https://doi.org/10.1136/pn-2022-003494).
 - [ ] Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functional motor weakness: a review of validated techniques. *Journal of neurology*. 2025;272(6):427. DOI. PMID: 40423819.
+
+### Additional papers identified in the October 7 search
+
+These are candidates for further appraisal, not newly accepted public evidence. Paper links appear here once; detailed access and relevance decisions are in the review record.
+
+- [ ] Patwal R, Jolly AJ, Kumar A, Yadav R, Desai G, Thippeswamy H. Diagnostic accuracy of clinical signs and investigations for functional weakness, sensory and movement disorders: A systematic review. *Journal of Psychosomatic Research*. 2023;168:111196. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36868109/).
+- [ ] Contemporary positive signs of functional limb weakness in post-acute sequelae of SARS-CoV-2: an exploratory analysis of their utility in diagnosis and follow-up. *BMJ Neurology Open*. 2025;7:e000995. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40589563/).
+- [ ] Ishihara K, Tachiyama K, Naito H, Neshige S. Functional neurological disorder supported by unintentional synergic movement: the hip abductor sign. *BMJ Case Reports*. 2026;19:e269246. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41535057/).
 
 ### Review completion
 
@@ -327,7 +337,7 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_jerks_
 ### Read first — symptom-level evidence
 
 - [ ] Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [https://doi.org/10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262)
-- [ ] Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. https://doi.org/10.7861/clinmed.2020-0987
+- [ ] Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36.
 
 ### Expanded assessment and updated evidence — September 29, 2026
 
@@ -508,7 +518,7 @@ Read the definition as a proposal, the CODES findings as associations, the White
 ### Read first — symptom-level evidence
 
 - [ ] Tolchin B, Baslet G, Dworetzky BA, et al. Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee. *Neurology*. 2026. [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466)
-- [ ] Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. https://doi.org/10.7861/clinmed.2020-0987
+- [ ] Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36.
 
 ### Technique / inventory review order
 
@@ -1159,7 +1169,7 @@ Read Fasano's methods, exclusions and pattern descriptions; Yoshida's selection 
 - [ ] Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. Source linked earlier
 - [ ] McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. Source linked earlier
 - [ ] Tinazzi M, Simonetto S, Franco L, et al. Abduction finger sign: a new sign to detect unilateral functional paralysis of the upper limb. *Movement Disorders*. 2008;23(16):2415–2419. Source linked earlier
-- [ ] Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of Neurology, Neurosurgery & Psychiatry*. 2004;75(1):121–125. Historical terminology retained in the article title. https://pmc.ncbi.nlm.nih.gov/articles/PMC1757483/
+- [ ] Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of Neurology, Neurosurgery & Psychiatry*. 2004;75(1):121–125. Historical terminology retained in the article title.
 
 ### Detailed-page review — October 6, 2026
 
@@ -1178,7 +1188,7 @@ Primary indexed abstracts were checked for Sonoo’s abductor sign, Tinazzi’s 
 
 #### Hip-abductor sign
 
-- [ ] Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of Neurology, Neurosurgery & Psychiatry*. 2004;75(1):121–125. Historical terminology retained in the article title. https://pmc.ncbi.nlm.nih.gov/articles/PMC1757483/
+- [ ] Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of Neurology, Neurosurgery & Psychiatry*. 2004;75(1):121–125. Historical terminology retained in the article title.
 
 #### Abduction-finger sign
 
@@ -1230,6 +1240,17 @@ Primary indexed abstracts were checked for Sonoo’s abductor sign, Tinazzi’s 
 - [ ] Revell ER, Gillespie D, Morris PG, Stone J. Drop attacks as a subtype of FND: a cognitive behavioural model using grounded theory. *Epilepsy & Behavior Reports*. 2021;16:100491. [https://doi.org/10.1016/j.ebr.2021.100491](https://doi.org/10.1016/j.ebr.2021.100491)
 - [ ] Stone J. Functional drop attacks. *Neurosymptoms.org*. Accessed September 2, 2026. [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/)
 
+### Detailed-page review — October 7, 2026
+
+- [Reconstructing a Sudden Fall](../../diagnostic-signs/functional_drop_attacks/01-event-reconstruction.md)
+- [Differential Assessment of Drop Attacks](../../diagnostic-signs/functional_drop_attacks/02-differential-assessment.md)
+- [Falls, Everyday Function and Follow-Up](../../diagnostic-signs/functional_drop_attacks/03-falls-impact-and-follow-up.md)
+- [Functional Drop Attacks Diagnostic Inventory](../../diagnostic-signs/functional_drop_attacks/technique-inventory.md)
+
+Review the event formulation, differential routes and authored function record separately. Hoeritzauer primary abstract and Revell full-text methods/limitations checked; the latter is a seven-person qualitative model, not a diagnostic or treatment trial. Full official NICE recommendation-page retrieval was blocked; indexed official ECG guidance was checked. Full clinical protocol review remains pending.
+
+- [ ] NICE. Transient loss of consciousness in over 16s. [CG109 recommendations](https://www.nice.org.uk/guidance/cg109/chapter/Recommendations). FND-CIT-0263; adjacent differential guidance.
+
 ### Technique / inventory review order
 
 #### Structured event reconstruction
@@ -1280,6 +1301,17 @@ Primary indexed abstracts were checked for Sonoo’s abductor sign, Tinazzi’s 
 - [ ] Szejko N, Robinson S, Hartmann A, et al. European clinical guidelines for Tourette syndrome and other tic disorders—version 2.0. Part I: assessment. *European Child & Adolescent Psychiatry*. 2022;31:383–402. [Source](https://doi.org/10.1007/s00787-021-01842-2). Primary tic-disorder assessment guideline; adjacent evidence for terminology and differential diagnosis, not functional-tic treatment evidence.
 - [ ] Pringsheim T, Ganos C, McGuire JF, et al. European Society for the Study of Tourette Syndrome 2022 criteria for clinical diagnosis of functional tic-like behaviours: international consensus from experts in tic disorders. *European Journal of Neurology*. 2023;30(4):902–910. [Source](https://doi.org/10.1111/ene.15672). Expert Delphi consensus. The publication explicitly states that prospective sensitivity and specificity testing was lacking; not a validated self-diagnostic checklist.
 - [ ] Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. [Source](https://doi.org/10.1002/mdc3.14150). Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms.
+
+### Detailed-page review — October 7, 2026
+
+- [Tic History and Motor–Vocal Assessment](../../diagnostic-signs/functional_tics/01-history-and-phenomenology.md)
+- [Tic Diagnostic Criteria and Uncertainty](../../diagnostic-signs/functional_tics/02-criteria-and-diagnostic-uncertainty.md)
+- [Measuring Tic Symptoms and Everyday Function](../../diagnostic-signs/functional_tics/03-measurement-and-everyday-function.md)
+- [Functional Tics Diagnostic Inventory](../../diagnostic-signs/functional_tics/technique-inventory.md)
+
+Review original consensus, critique and later specificity evidence together. The primary ESSTS and Andersen abstracts were checked; full criteria-table and critique appraisal remain pending. Nilles methods/results/discussion and Szejko assessment/measurement sections were checked in full text. Scale validation in primary tics must not be assumed to apply unchanged to functional symptoms.
+
+- [ ] Nilles C, Martino D, Pringsheim T. Testing specificity of selected criteria. [2024 study](https://doi.org/10.1111/ene.16262). FND-CIT-0264.
 
 ### Technique / inventory review order
 
