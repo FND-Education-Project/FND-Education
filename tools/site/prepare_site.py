@@ -1860,11 +1860,11 @@ def write_machine_sitemap(public_urls: list[str]) -> None:
 
 def markdown_inline_to_plain_text(value: str) -> str:
     """Convert the glossary's inline Markdown to compact plain text."""
-    value = re.sub(r"!\\[([^\\]]*)\\]\\([^)]+\\)", r"\\1", value)
-    value = re.sub(r"\\[([^\\]]+)\\]\\([^)]+\\)", r"\\1", value)
+    value = re.sub(r"!\[([^\]]*)\]\([^)]+\)", r"\\1", value)
+    value = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\\1", value)
     value = re.sub(r"<[^>]+>", "", value)
-    value = re.sub(r"[\\*_`~]+", "", value)
-    return re.sub(r"\\s+", " ", value).strip()
+    value = re.sub(r"[\*_`~]+", "", value)
+    return re.sub(r"\s+", " ", value).strip()
 
 
 def glossary_schema_fragment(value: str) -> str:
@@ -1877,7 +1877,7 @@ def glossary_schema_fragment(value: str) -> str:
 
 def extract_glossary_defined_terms(text: str) -> list[dict[str, object]]:
     """Extract only explicit H3 glossary entries and their first definition."""
-    headings = list(re.finditer(r"^###\\s+(.+?)\\s*$", text, re.MULTILINE))
+    headings = list(re.finditer(r"^###\s+(.+?)\s*$", text, re.MULTILINE))
     if not headings:
         raise ValueError("Glossary contains no H3 term headings")
 
@@ -1905,7 +1905,7 @@ def extract_glossary_defined_terms(text: str) -> list[dict[str, object]]:
                 continue
 
             if not started and re.match(
-                r"^\\*\\*Type:\\s*.+?\\*\\*$",
+                r"^\*\*Type:\s*.+?\*\*$",
                 line,
                 re.IGNORECASE,
             ):
@@ -1973,7 +1973,7 @@ def write_glossary_schema_data() -> None:
     generated_dir = WEB / "_data" / "generated"
     generated_dir.mkdir(parents=True, exist_ok=True)
     (generated_dir / "glossary_schema.json").write_text(
-        json.dumps(schema, ensure_ascii=False, indent=2) + "\\n",
+        json.dumps(schema, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
 
