@@ -309,6 +309,10 @@ Use the sections below to drill down into the course, reference library, researc
 - [EEG–EMG and Jerk-Locked Back-Averaging](reference/diagnostic-signs/functional_jerks_and_myoclonus/01-eeg-emg-and-jerk-locked-back-averaging.md)
 - [Functional Jerks: Diagnostic Technique Inventory](reference/diagnostic-signs/functional_jerks_and_myoclonus/technique-inventory.md)
 - [Functional Tics and Tic-Like Symptoms](reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md)
+- [Tic History and Motor–Vocal Assessment](reference/diagnostic-signs/functional_tics/01-history-and-phenomenology.md)
+- [Tic Diagnostic Criteria and Uncertainty](reference/diagnostic-signs/functional_tics/02-criteria-and-diagnostic-uncertainty.md)
+- [Measuring Tic Symptoms and Everyday Function](reference/diagnostic-signs/functional_tics/03-measurement-and-everyday-function.md)
+- [Functional Tics Diagnostic Inventory](reference/diagnostic-signs/functional_tics/technique-inventory.md)
 - [Functional Dystonia or Fixed Posturing](reference/diagnostic-signs/04-functional-dystonia.md)
 - [Pattern-Based Assessment for Functional Dystonia](reference/diagnostic-signs/functional_dystonia/01-pattern-based-history-and-movement-examination.md)
 - [Functional Dystonia: Diagnostic Technique Inventory](reference/diagnostic-signs/functional_dystonia/technique-inventory.md)
@@ -367,6 +371,10 @@ Use the sections below to drill down into the course, reference library, researc
 - [Arm Comparisons in Functional Paralysis](reference/diagnostic-signs/functional_paralysis/03-arm-comparisons-and-limits.md)
 - [Functional Paralysis Diagnostic Inventory](reference/diagnostic-signs/functional_paralysis/technique-inventory.md)
 - [Functional Drop Attacks](reference/diagnostic-signs/16-functional-drop-attacks.md)
+- [Reconstructing a Sudden Fall](reference/diagnostic-signs/functional_drop_attacks/01-event-reconstruction.md)
+- [Differential Assessment of Drop Attacks](reference/diagnostic-signs/functional_drop_attacks/02-differential-assessment.md)
+- [Falls, Everyday Function and Follow-Up](reference/diagnostic-signs/functional_drop_attacks/03-falls-impact-and-follow-up.md)
+- [Functional Drop Attacks Diagnostic Inventory](reference/diagnostic-signs/functional_drop_attacks/technique-inventory.md)
 - [Scan-Negative Cauda Equina Presentations — diagnostic overlap](reference/diagnostic-signs/scan-negative-cauda-equina.md)
 
 </details>
@@ -829,3 +837,5 @@ Use the sections below to drill down into the course, reference library, researc
 - [Functional facial diagnostic expansion record](docs/project/functional-facial-diagnostic-expansion.md)
 
 - [Functional paralysis diagnostic expansion record](docs/project/functional-paralysis-diagnostic-expansion.md)
+
+- [Final two diagnostic expansion record](docs/project/final-two-diagnostic-expansions.md)

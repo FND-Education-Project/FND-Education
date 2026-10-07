@@ -494,6 +494,8 @@ Use this source for specialist clinical-neurophysiology methods in functional mo
 
 **Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
 
+**Additional diagnostic uses:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0023
 
 Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031. [https://doi.org/10.1093/braincomms/fcag031](https://doi.org/10.1093/braincomms/fcag031)
@@ -744,6 +746,8 @@ Use this retrospective cohort for the event definition, clinical features and re
 
 **Additional current use — functional drop attacks:** [Agreeing What to Do After a Fall](../reference/recovery-techniques/functional_drop_attacks/01-injury-response-plan.md); [Choosing Support for Getting Around](../reference/recovery-techniques/functional_drop_attacks/03-mobility-and-access.md); [Looking for a Warning Only If There Is One](../reference/recovery-techniques/functional_drop_attacks/04-warning-and-safe-response.md); [Getting Up Safely After an Uninjured Event](../reference/recovery-techniques/functional_drop_attacks/05-recovering-from-the-floor.md); [Keeping Other Conditions in the Care Plan](../reference/recovery-techniques/functional_drop_attacks/07-overlapping-conditions-and-review.md); [Functional drop attacks overview](../reference/recovery-techniques/16-functional-drop-attacks.md).
 
+**Additional diagnostic uses:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0060
 
 Revell ER, Gillespie D, Morris PG, Stone J. Drop attacks as a subtype of FND: a cognitive behavioural model using grounded theory. *Epilepsy & Behavior Reports*. 2021;16:100491. [https://doi.org/10.1016/j.ebr.2021.100491](https://doi.org/10.1016/j.ebr.2021.100491)
@@ -752,6 +756,8 @@ Use this interview-and-diary study of seven people for its proposed cognitive-be
 
 **Additional current use — functional drop attacks:** [Making Everyday Places Safer](../reference/recovery-techniques/functional_drop_attacks/02-hazards-and-daily-activities.md); [Looking for a Warning Only If There Is One](../reference/recovery-techniques/functional_drop_attacks/04-warning-and-safe-response.md); [Returning to Activities With the Right Support](../reference/recovery-techniques/functional_drop_attacks/06-supported-return-to-activity.md); [Functional drop attacks overview](../reference/recovery-techniques/16-functional-drop-attacks.md).
 
+**Additional diagnostic uses:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0061
 
 Stone J. Functional drop attacks. *Neurosymptoms.org*. Accessed September 24, 2026. [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/)
@@ -759,6 +765,8 @@ Stone J. Functional drop attacks. *Neurosymptoms.org*. Accessed September 24, 20
 Use this changing specialist educational page for a plain-language description of sudden falls without obvious blackout, multiple possible causes, typical rapid recovery, injury risk and practical treatment ideas. Treat it as expert guidance rather than a trial, and preserve an access date.
 
 **Additional current use — functional drop attacks:** [Agreeing What to Do After a Fall](../reference/recovery-techniques/functional_drop_attacks/01-injury-response-plan.md); [Making Everyday Places Safer](../reference/recovery-techniques/functional_drop_attacks/02-hazards-and-daily-activities.md); [Choosing Support for Getting Around](../reference/recovery-techniques/functional_drop_attacks/03-mobility-and-access.md); [Looking for a Warning Only If There Is One](../reference/recovery-techniques/functional_drop_attacks/04-warning-and-safe-response.md); [Keeping Other Conditions in the Care Plan](../reference/recovery-techniques/functional_drop_attacks/07-overlapping-conditions-and-review.md); [Functional drop attacks overview](../reference/recovery-techniques/16-functional-drop-attacks.md).
+
+**Additional diagnostic uses:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0062
 
@@ -1076,6 +1084,8 @@ Expert review; diagnostic formulation and individualized management. The review 
 
 **Additional diagnostic uses:** [Functional facial expansion source-use map](#functional-facial-diagnostic-expansion-source-use-map).
 
+**Additional diagnostic uses:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0111
 
 Pringsheim T, Ganos C, McGuire JF, et al. European Society for the Study of Tourette Syndrome 2022 criteria for clinical diagnosis of functional tic-like behaviours: international consensus from experts in tic disorders. *European Journal of Neurology*. 2023;30(4):902–910. [Source](https://doi.org/10.1111/ene.15672).
@@ -1083,6 +1093,8 @@ Pringsheim T, Ganos C, McGuire JF, et al. European Society for the Study of Tour
 Expert Delphi consensus. The publication explicitly states that prospective sensitivity and specificity testing was lacking; not a validated self-diagnostic checklist.
 
 **Current use:** [reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md](../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md); [reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md); [course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md](../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md).
+
+**Additional diagnostic uses:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0112
 
@@ -1092,6 +1104,8 @@ Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Su
 
 **Current use:** [reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md](../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md); [reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md); [course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md](../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md).
 
+**Additional diagnostic uses:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0113
 
 Maxwell A, Zouki JJ, Eapen V. Integrated cognitive behavioral intervention for functional tics (I-CBiT): case reports and treatment formulation. *Frontiers in Pediatrics*. 2023;11:1265123. [Source](https://doi.org/10.3389/fped.2023.1265123).
@@ -1100,6 +1114,8 @@ Uncontrolled case series of eight young people. Reported improvement cannot esta
 
 **Current use:** [reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md](../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md); [reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md); [course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md](../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md).
 
+**Additional diagnostic uses:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0114
 
 Szejko N, Robinson S, Hartmann A, et al. European clinical guidelines for Tourette syndrome and other tic disorders—version 2.0. Part I: assessment. *European Child & Adolescent Psychiatry*. 2022;31:383–402. [Source](https://doi.org/10.1007/s00787-021-01842-2).
@@ -1107,6 +1123,8 @@ Szejko N, Robinson S, Hartmann A, et al. European clinical guidelines for Touret
 Primary tic-disorder assessment guideline; adjacent evidence for terminology and differential diagnosis, not functional-tic treatment evidence.
 
 **Current use:** [glossary/README.md](../glossary/README.md); [reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md](../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md); [reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md); [course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md](../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md).
+
+**Additional diagnostic uses:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0115
 
@@ -1199,6 +1217,8 @@ Schwingenschuh P, Katschnig P, Edwards MJ, et al. The blink reflex recovery cycl
 van der Salm SM, Tijssen MA, Koelman JH, van Rootselaar AF. The bereitschaftspotential in jerky movement disorders. *Journal of neurology, neurosurgery, and psychiatry*. 2012;83(12):1162-1167. [DOI](https://doi.org/10.1136/jnnp-2012-303081). [PMID: 22952323](https://pubmed.ncbi.nlm.nih.gov/22952323/).
 
 **Diagnostic use:** [03-functional-jerks-and-myoclonus](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md), [17-functional-tics-and-tic-like-symptoms](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md).
+
+**Additional diagnostic uses:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0126
 
@@ -1494,11 +1514,15 @@ Cavanna AE, Caimi V, Capriolo E, et al. Neurodevelopmental Tics with Co-Morbid F
 
 **Diagnostic use:** [17-functional-tics-and-tic-like-symptoms](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md).
 
+**Additional diagnostic uses:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
+
 ## FND-CIT-0173
 
 Pringsheim T, Ganos C, McGuire JF, et al. Rapid Onset Functional Tic-Like Behaviors in Young Females During the COVID-19 Pandemic. *Movement disorders : official journal of the Movement Disorder Society*. 2021;36(12):2707-2713. [DOI](https://doi.org/10.1002/mds.28778). [PMID: 34387394](https://pubmed.ncbi.nlm.nih.gov/34387394/).
 
 **Diagnostic use:** [17-functional-tics-and-tic-like-symptoms](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md).
+
+**Additional diagnostic uses:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0174
 
@@ -2431,3 +2455,32 @@ October 6, 2026. Existing stable IDs and original inventory source associations 
 | [functional_paralysis/02-leg-comparisons-and-limits.md](../reference/diagnostic-signs/functional_paralysis/02-leg-comparisons-and-limits.md) | [FND-CIT-0018](#fnd-cit-0018), [FND-CIT-0058](#fnd-cit-0058), [FND-CIT-0166](#fnd-cit-0166) |
 | [functional_paralysis/03-arm-comparisons-and-limits.md](../reference/diagnostic-signs/functional_paralysis/03-arm-comparisons-and-limits.md) | [FND-CIT-0057](#fnd-cit-0057), [FND-CIT-0134](#fnd-cit-0134) |
 | [functional_paralysis/technique-inventory.md](../reference/diagnostic-signs/functional_paralysis/technique-inventory.md) | [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0018](#fnd-cit-0018), [FND-CIT-0057](#fnd-cit-0057), [FND-CIT-0058](#fnd-cit-0058), [FND-CIT-0166](#fnd-cit-0166), [FND-CIT-0134](#fnd-cit-0134), [FND-CIT-0047](#fnd-cit-0047), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0120](#fnd-cit-0120), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0131](#fnd-cit-0131), [FND-CIT-0185](#fnd-cit-0185) |
+
+## FND-CIT-0263
+
+NICE. Transient loss of consciousness ('blackouts') in over 16s. Clinical guideline CG109. [Recommendations](https://www.nice.org.uk/guidance/cg109/chapter/Recommendations). Accessed October 7, 2026. Adjacent guidance for suspected transient loss of consciousness; not functional-drop-attack diagnostic criteria.
+
+**Current use:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
+
+## FND-CIT-0264
+
+Nilles C, Martino D, Pringsheim T. Testing the specificity of phenomenological criteria for functional tic-like behaviours in youth with Tourette syndrome. *European Journal of Neurology*. 2024;31(6):e16262. [DOI](https://doi.org/10.1111/ene.16262). Cross-sectional specialist-registry study of selected criteria; not validation of the full diagnostic framework.
+
+**Current use:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
+
+## Final diagnostic expansion source-use map
+
+October 7, 2026. Drop attacks and tics retain all original entries and stable source IDs. New IDs 0263–0264 qualify differential assessment and later selected-criterion evidence; no new diagnostic inventory entry.
+
+| Page | Stable sources |
+|---|---|
+| [16-functional-drop-attacks.md](../reference/diagnostic-signs/16-functional-drop-attacks.md) | [FND-CIT-0059](#fnd-cit-0059), [FND-CIT-0060](#fnd-cit-0060), [FND-CIT-0061](#fnd-cit-0061), [FND-CIT-0263](#fnd-cit-0263) |
+| [functional_drop_attacks/01-event-reconstruction.md](../reference/diagnostic-signs/functional_drop_attacks/01-event-reconstruction.md) | [FND-CIT-0059](#fnd-cit-0059) |
+| [functional_drop_attacks/02-differential-assessment.md](../reference/diagnostic-signs/functional_drop_attacks/02-differential-assessment.md) | [FND-CIT-0059](#fnd-cit-0059), [FND-CIT-0263](#fnd-cit-0263) |
+| [functional_drop_attacks/03-falls-impact-and-follow-up.md](../reference/diagnostic-signs/functional_drop_attacks/03-falls-impact-and-follow-up.md) | [FND-CIT-0060](#fnd-cit-0060) |
+| [functional_drop_attacks/technique-inventory.md](../reference/diagnostic-signs/functional_drop_attacks/technique-inventory.md) | [FND-CIT-0059](#fnd-cit-0059), [FND-CIT-0060](#fnd-cit-0060), [FND-CIT-0061](#fnd-cit-0061) |
+| [17-functional-tics-and-tic-like-symptoms.md](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) | [FND-CIT-0110](#fnd-cit-0110), [FND-CIT-0111](#fnd-cit-0111), [FND-CIT-0112](#fnd-cit-0112), [FND-CIT-0113](#fnd-cit-0113), [FND-CIT-0114](#fnd-cit-0114), [FND-CIT-0173](#fnd-cit-0173), [FND-CIT-0172](#fnd-cit-0172), [FND-CIT-0125](#fnd-cit-0125), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0264](#fnd-cit-0264) |
+| [functional_tics/01-history-and-phenomenology.md](../reference/diagnostic-signs/functional_tics/01-history-and-phenomenology.md) | [FND-CIT-0110](#fnd-cit-0110), [FND-CIT-0114](#fnd-cit-0114) |
+| [functional_tics/02-criteria-and-diagnostic-uncertainty.md](../reference/diagnostic-signs/functional_tics/02-criteria-and-diagnostic-uncertainty.md) | [FND-CIT-0111](#fnd-cit-0111), [FND-CIT-0112](#fnd-cit-0112), [FND-CIT-0264](#fnd-cit-0264) |
+| [functional_tics/03-measurement-and-everyday-function.md](../reference/diagnostic-signs/functional_tics/03-measurement-and-everyday-function.md) | [FND-CIT-0114](#fnd-cit-0114), [FND-CIT-0172](#fnd-cit-0172) |
+| [functional_tics/technique-inventory.md](../reference/diagnostic-signs/functional_tics/technique-inventory.md) | [FND-CIT-0110](#fnd-cit-0110), [FND-CIT-0111](#fnd-cit-0111), [FND-CIT-0112](#fnd-cit-0112), [FND-CIT-0113](#fnd-cit-0113), [FND-CIT-0114](#fnd-cit-0114), [FND-CIT-0173](#fnd-cit-0173), [FND-CIT-0172](#fnd-cit-0172), [FND-CIT-0125](#fnd-cit-0125), [FND-CIT-0022](#fnd-cit-0022) |

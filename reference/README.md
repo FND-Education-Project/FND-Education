@@ -92,14 +92,14 @@ Episodes can include changes in awareness, responsiveness or movement. A person 
 
 ## Functional Drop Attacks
 
-[Understanding & Diagnosis](diagnostic-signs/16-functional-drop-attacks.md)<br>
+[Understanding & Diagnosis](diagnostic-signs/16-functional-drop-attacks.md) — includes event, differential and everyday-function assessment.<br>
 [Recovery Techniques](recovery-techniques/16-functional-drop-attacks.md)
 
 A person may suddenly drop or fall toward the ground, sometimes with very little warning, and may recover from the event quickly.
 
 ## Functional Tics
 
-[Understanding & Diagnosis](diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md)<br>
+[Understanding & Diagnosis](diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) — includes history, criteria and measurement guides.<br>
 [Recovery Techniques](recovery-techniques/17-functional-tics-and-tic-like-symptoms.md)
 
 Sudden movements, gestures or sounds may occur repeatedly and feel difficult or impossible to prevent at the moment they happen.

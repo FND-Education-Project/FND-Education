@@ -133,6 +133,8 @@ Entries 1, 2, 4 and 5 reflect individualized clinical guidance rather than indep
 [Research and Sources](#research-and-sources)
 ***
 
+**Assessment reading:** The [diagnostic overview](../diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md#quick-reference) links to three detailed assessment guides and the preserved inventory.
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Understanding Functional Tics and Agreeing on a Plan](functional_tics/01-explanation-and-shared-plan.md)
 

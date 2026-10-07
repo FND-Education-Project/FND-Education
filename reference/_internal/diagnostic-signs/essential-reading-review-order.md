@@ -1230,6 +1230,17 @@ Primary indexed abstracts were checked for Sonoo’s abductor sign, Tinazzi’s 
 - [ ] Revell ER, Gillespie D, Morris PG, Stone J. Drop attacks as a subtype of FND: a cognitive behavioural model using grounded theory. *Epilepsy & Behavior Reports*. 2021;16:100491. [https://doi.org/10.1016/j.ebr.2021.100491](https://doi.org/10.1016/j.ebr.2021.100491)
 - [ ] Stone J. Functional drop attacks. *Neurosymptoms.org*. Accessed September 2, 2026. [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/)
 
+### Detailed-page review — October 7, 2026
+
+- [Reconstructing a Sudden Fall](../../diagnostic-signs/functional_drop_attacks/01-event-reconstruction.md)
+- [Differential Assessment of Drop Attacks](../../diagnostic-signs/functional_drop_attacks/02-differential-assessment.md)
+- [Falls, Everyday Function and Follow-Up](../../diagnostic-signs/functional_drop_attacks/03-falls-impact-and-follow-up.md)
+- [Functional Drop Attacks Diagnostic Inventory](../../diagnostic-signs/functional_drop_attacks/technique-inventory.md)
+
+Review the event formulation, differential routes and authored function record separately. Hoeritzauer primary abstract and Revell full-text methods/limitations checked; the latter is a seven-person qualitative model, not a diagnostic or treatment trial. Full official NICE recommendation-page retrieval was blocked; indexed official ECG guidance was checked. Full clinical protocol review remains pending.
+
+- [ ] NICE. Transient loss of consciousness in over 16s. [CG109 recommendations](https://www.nice.org.uk/guidance/cg109/chapter/Recommendations). FND-CIT-0263; adjacent differential guidance.
+
 ### Technique / inventory review order
 
 #### Structured event reconstruction
@@ -1280,6 +1291,17 @@ Primary indexed abstracts were checked for Sonoo’s abductor sign, Tinazzi’s 
 - [ ] Szejko N, Robinson S, Hartmann A, et al. European clinical guidelines for Tourette syndrome and other tic disorders—version 2.0. Part I: assessment. *European Child & Adolescent Psychiatry*. 2022;31:383–402. [Source](https://doi.org/10.1007/s00787-021-01842-2). Primary tic-disorder assessment guideline; adjacent evidence for terminology and differential diagnosis, not functional-tic treatment evidence.
 - [ ] Pringsheim T, Ganos C, McGuire JF, et al. European Society for the Study of Tourette Syndrome 2022 criteria for clinical diagnosis of functional tic-like behaviours: international consensus from experts in tic disorders. *European Journal of Neurology*. 2023;30(4):902–910. [Source](https://doi.org/10.1111/ene.15672). Expert Delphi consensus. The publication explicitly states that prospective sensitivity and specificity testing was lacking; not a validated self-diagnostic checklist.
 - [ ] Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. [Source](https://doi.org/10.1002/mdc3.14150). Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms.
+
+### Detailed-page review — October 7, 2026
+
+- [Tic History and Motor–Vocal Assessment](../../diagnostic-signs/functional_tics/01-history-and-phenomenology.md)
+- [Tic Diagnostic Criteria and Uncertainty](../../diagnostic-signs/functional_tics/02-criteria-and-diagnostic-uncertainty.md)
+- [Measuring Tic Symptoms and Everyday Function](../../diagnostic-signs/functional_tics/03-measurement-and-everyday-function.md)
+- [Functional Tics Diagnostic Inventory](../../diagnostic-signs/functional_tics/technique-inventory.md)
+
+Review original consensus, critique and later specificity evidence together. The primary ESSTS and Andersen abstracts were checked; full criteria-table and critique appraisal remain pending. Nilles methods/results/discussion and Szejko assessment/measurement sections were checked in full text. Scale validation in primary tics must not be assumed to apply unchanged to functional symptoms.
+
+- [ ] Nilles C, Martino D, Pringsheim T. Testing specificity of selected criteria. [2024 study](https://doi.org/10.1111/ene.16262). FND-CIT-0264.
 
 ### Technique / inventory review order
 

@@ -4,7 +4,7 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Tics and Tic-Like Symptoms**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Automatically generated working draft:** This page is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/). Tic-specialist, FND, adult and pediatric, lived-experience, communication-access and stigma review pending.
+> **Automatically generated working draft — October 7, 2026.** Human, specialist clinical, lived-experience and accessibility review pending.
 
 **Refers to:** Assessed functional motor movements and vocal/phonic tic-like symptoms: sounds, throat clearing, words, phrases or combinations of movement and sound. Readers may call these **functional tics**, **tic-like behaviours (FTLBs)** or **verbal tics**. The research word “behaviours” does not mean intentional action.
 
@@ -14,9 +14,9 @@
 
 **Presentation:** Explain the positive clinical reasons for the formulation and their limits. No single movement, demographic feature or normal test establishes functional tic-like symptoms.
 
-- [Developmental and onset history](#developmental-and-onset-history) — establish how symptoms began and developed.
-- [Motor and vocal phenomenology](#motor-and-vocal-phenomenology) — assess movement and sound together.
-- [ESSTS consensus criteria](#essts-consensus-criteria) — consider the specialist criteria and their limits.
+- [Tic History and Motor–Vocal Assessment](functional_tics/01-history-and-phenomenology.md) — development, movement and sound, including coexistence.
+- [Tic Diagnostic Criteria and Uncertainty](functional_tics/02-criteria-and-diagnostic-uncertainty.md) — consensus, later research and remaining limitations.
+- [Measuring Tic Symptoms and Everyday Function](functional_tics/03-measurement-and-everyday-function.md) — rating tools, communication, participation and support.
 
 **More techniques:** [See the full list below](#diagnostic-techniques-at-a-glance).
 
@@ -25,7 +25,8 @@
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## For the Person With FND
 
@@ -47,12 +48,18 @@ Functional tic-like symptoms and a primary tic disorder can occur together. A us
 
 Follow the agreed plan for familiar symptoms. Ask for reassessment when new sounds or movements persist or substantially change the pattern. Seek urgent help for serious injury, breathing or swallowing danger, new weakness or other acute neurological change, marked confusion, or a possible serious medication reaction. Do not assume every new symptom is part of an established FND diagnosis.
 
+### Measuring impact as well as symptoms
+
+Ask the team to record communication, injuries, help and access to school, work or other activities as well as movements and sounds. A quiet appointment does not show the effort or support needed throughout your day. The [measurement guide](functional_tics/03-measurement-and-everyday-function.md) separates symptom ratings from everyday function.
+
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## For Family, Friends, and Other Supporters
 
@@ -67,7 +74,8 @@ Do not use online examples, a psychiatric history or a social-media habit to dec
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## For Clinicians and the Care Team
 
@@ -77,13 +85,13 @@ Do not use online examples, a psychiatric history or a social-media habit to dec
 
 Assess onset and longitudinal course, childhood motor/vocal history, family history, phenomenology, urges, suppressibility, context, medications/substances, other neurological findings and functional impact. Consider Tourette syndrome, persistent motor or vocal tic disorder, provisional tic disorder, stereotypies, compulsions, myoclonus, dystonia, epileptic events and medication or other medical causes as indicated. Document coexisting primary and functional symptoms where appropriate. [1](#citation-1), [5](#citation-5)
 
-The 2023 ESSTS criteria provide an expert-consensus framework, not a prospectively validated diagnostic-accuracy test in that publication. Consider the entire clinical pattern rather than treating abrupt onset, age, sex/gender, complex vocalizations or social exposure as decisive. A 2024 critical review questions aspects of the diagnostic literature, including circular reasoning and clinical benchmarks. Communicate these limits while offering care and follow-up. [2](#citation-2), [3](#citation-3)
+The 2023 ESSTS criteria provide an expert-consensus framework, not a prospectively validated diagnostic-accuracy test in that publication. Consider the entire clinical pattern rather than treating abrupt onset, age, sex/gender, complex vocalizations or social exposure as decisive. Later research tested the specificity of selected criteria in primary-tic cohorts; it did not validate the entire framework or establish its sensitivity. [10](#citation-10) A 2024 critical review questions aspects of the diagnostic literature, including circular reasoning and clinical benchmarks. Communicate these limits while offering care and follow-up. [2](#citation-2), [3](#citation-3)
 
 Do not transfer the diagnostic significance of tremor entrainment or jerk neurophysiology directly to tic-like symptoms. Stress, trauma, anxiety, autism and ADHD are not diagnostic prerequisites. Assessment should cover adults as well as young people; much rapid-onset research concerns younger clinic populations.
 
 ### Media contributor brief
 
-Use a fictional consultation or static diagram, with captions and a full text equivalent. Show routes for motor symptoms, vocal symptoms and coexistence. Explain why history and longitudinal assessment matter. Avoid symptom montages, provocative exercises, offensive example phrases and any visual suggestion that movement shape alone distinguishes diagnoses.
+[Read the preserved media brief](functional_tics/01-history-and-phenomenology.md#media-and-accessibility).
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -95,43 +103,43 @@ Use a fictional consultation or static diagram, with captions and a full text eq
 
 These brief entries describe signs, observations, criteria and investigations clinicians may consider. They are not a checklist of tests everyone needs. Evidence and limitations differ for each entry; a positive sign must fit the whole clinical picture, including possible coexisting disease.
 
-The longer explanations already on this page remain below. Individual technique pages will be developed and reviewed separately.
+The detailed guides above cover the main assessment questions. Every original entry is linked below and preserved in the separate inventory; an entry is not necessarily a validated test.
 
 ### Developmental and onset history
 
-The clinician compares childhood tic history, onset speed and progression. Rapid emergence of complex symptoms can contribute to a functional formulation, but no onset pattern, age or gender determines the diagnosis alone. Earlier primary tics may coexist. (*citations* [2](#citation-2), [3](#citation-3))
+[Read the preserved assessment description](functional_tics/technique-inventory.md#developmental-and-onset-history).
 
 ### Motor and vocal phenomenology
 
-The assessment describes movements, sounds and phrases, their complexity and evolution. Observational cohorts identify group differences, but individual overlap with Tourette syndrome is substantial. Coprolalia or a complex phrase alone cannot establish functional symptoms. (*citations* [3](#citation-3), [6](#citation-6))
+[Read the preserved assessment description](functional_tics/technique-inventory.md#motor-and-vocal-phenomenology).
 
 ### Context dependence and variability
 
-Symptoms are compared across ordinary settings and tasks using history and respectful observation. Context sensitivity occurs in both functional and primary tics, so changes with attention or an audience are not independently diagnostic. (*citations* [2](#citation-2), [3](#citation-3))
+[Read the preserved assessment description](functional_tics/technique-inventory.md#context-dependence-and-variability).
 
 ### Suppressibility
 
-The clinician asks about temporary ability to delay symptoms rather than demanding a prolonged demonstration. Both diagnoses can include suppressibility or difficulty suppressing. This is a history feature with limited individual discriminative value. (*citations* [2](#citation-2), [3](#citation-3))
+[Read the preserved assessment description](functional_tics/technique-inventory.md#suppressibility).
 
 ### Premonitory sensations
 
-An urge or sensation before movement or sound is documented in the person’s own words. Its presence or absence contributes context but does not reliably divide functional from primary tic disorders, particularly across ages. (*citations* [2](#citation-2), [3](#citation-3))
+[Read the preserved assessment description](functional_tics/technique-inventory.md#premonitory-sensations).
 
 ### Suggestibility
 
-Symptoms may change when discussed or observed. This can occur in both functional and primary tics and is not proof of deliberate imitation. Avoid provoking symptoms to demonstrate it; use the history when discussion itself is difficult. (*citations* [2](#citation-2), [3](#citation-3))
+[Read the preserved assessment description](functional_tics/technique-inventory.md#suggestibility).
 
 ### ESSTS consensus criteria
 
-The framework combines clinical history and phenomenology rather than relying on a single sign. Its original publication was expert consensus, not prospective diagnostic-accuracy validation. Apply alongside the published critique and an assessment for coexistence. (*citations* [2](#citation-2), [3](#citation-3))
+[Read the preserved assessment description](functional_tics/technique-inventory.md#essts-consensus-criteria).
 
 ### Longitudinal reassessment
 
-Follow-up, childhood records and consensual collateral information can clarify mixed or uncertain presentations. A changing formulation is preferable to forcing a binary classification. This is a clinical process, not an independently validated positive sign. (*citations* [3](#citation-3), [7](#citation-7))
+[Read the preserved assessment description](functional_tics/technique-inventory.md#longitudinal-reassessment).
 
 ### Neurophysiology and other investigations
 
-EEG–EMG may address a differential with jerks, but premovement potentials also occur in primary tics. There is no established high-accuracy laboratory test that independently separates functional tic-like symptoms from Tourette syndrome. Other tests answer specific differential questions. (*citations* [8](#citation-8), [9](#citation-9))
+[Read the preserved assessment description](functional_tics/technique-inventory.md#neurophysiology-and-other-investigations).
 
 
 ***
@@ -147,11 +155,11 @@ The review and assessment guideline support terminology and individualized evalu
 | <a id="citation-3"></a>**[3]** | Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. [FND-CIT-0112](../../research/citation-index.md#fnd-cit-0112). [Source](https://doi.org/10.1002/mdc3.14150). Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms. |
 | <a id="citation-4"></a>**[4]** | Maxwell A, Zouki JJ, Eapen V. Integrated cognitive behavioral intervention for functional tics (I-CBiT): case reports and treatment formulation. *Frontiers in Pediatrics*. 2023;11:1265123. [FND-CIT-0113](../../research/citation-index.md#fnd-cit-0113). [Source](https://doi.org/10.3389/fped.2023.1265123). Uncontrolled case series of eight young people. Reported improvement cannot establish causal efficacy, comparative benefit or generalizability to other populations. |
 | <a id="citation-5"></a>**[5]** | Szejko N, Robinson S, Hartmann A, et al. European clinical guidelines for Tourette syndrome and other tic disorders—version 2.0. Part I: assessment. *European Child & Adolescent Psychiatry*. 2022;31:383–402. [FND-CIT-0114](../../research/citation-index.md#fnd-cit-0114). [Source](https://doi.org/10.1007/s00787-021-01842-2). Primary tic-disorder assessment guideline; adjacent evidence for terminology and differential diagnosis, not functional-tic treatment evidence. |
-
 | <a id="citation-6"></a>**[6]** | Pringsheim T, Ganos C, McGuire JF, et al. Rapid Onset Functional Tic-Like Behaviors in Young Females During the COVID-19 Pandemic. *Movement disorders : official journal of the Movement Disorder Society*. 2021;36(12):2707-2713. [DOI](https://doi.org/10.1002/mds.28778). [PMID: 34387394](https://pubmed.ncbi.nlm.nih.gov/34387394/). [FND-CIT-0173](../../research/citation-index.md#fnd-cit-0173). |
 | <a id="citation-7"></a>**[7]** | Cavanna AE, Caimi V, Capriolo E, et al. Neurodevelopmental Tics with Co-Morbid Functional Tic-like Behaviors: Diagnostic Challenges of a Complex Tourette Syndrome Phenotype. *Brain sciences*. 2025;15(5):435. [DOI](https://doi.org/10.3390/brainsci15050435). [PMID: 40426606](https://pubmed.ncbi.nlm.nih.gov/40426606/). [FND-CIT-0172](../../research/citation-index.md#fnd-cit-0172). |
 | <a id="citation-8"></a>**[8]** | van der Salm SM, Tijssen MA, Koelman JH, van Rootselaar AF. The bereitschaftspotential in jerky movement disorders. *Journal of neurology, neurosurgery, and psychiatry*. 2012;83(12):1162-1167. [DOI](https://doi.org/10.1136/jnnp-2012-303081). [PMID: 22952323](https://pubmed.ncbi.nlm.nih.gov/22952323/). [FND-CIT-0125](../../research/citation-index.md#fnd-cit-0125). |
 | <a id="citation-9"></a>**[9]** | Edwards MJ, Koens LH, Liepert J, et al. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical neurophysiology practice*. 2024;9:69-77. [DOI](https://doi.org/10.1016/j.cnp.2023.12.006). [PMID: 38352251](https://pubmed.ncbi.nlm.nih.gov/38352251/). [FND-CIT-0022](../../research/citation-index.md#fnd-cit-0022). |
+| <a id="citation-10"></a>**[10]** | Nilles C, Martino D, Pringsheim T. Testing the specificity of phenomenological criteria for functional tic-like behaviours in youth with Tourette syndrome. *European Journal of Neurology*. 2024;31(6):e16262. [DOI](https://doi.org/10.1111/ene.16262). Cross-sectional specialist-registry study of selected criteria; not validation of the full diagnostic framework. [FND-CIT-0264](../../research/citation-index.md#fnd-cit-0264). |
 
 *Evidence check: September 17, 2026 · Human, clinical, lived-experience and accessibility review pending.*
 
@@ -160,14 +168,15 @@ The review and assessment guideline support terminology and individualized evalu
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 **Recovery and support:** [Eight detailed pages](../recovery-techniques/functional_tics/README.md) explain treatment discussions, motor and vocal access, supporter responses and flare planning.
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next page: Recovery Techniques](../recovery-techniques/README.md)
+**Continue:** [Tic History and Motor–Vocal Assessment](functional_tics/01-history-and-phenomenology.md)
 
-**Related:** [← Functional Drop Attacks](16-functional-drop-attacks.md) · [Collection index](README.md) · [Paired recovery page](../recovery-techniques/17-functional-tics-and-tic-like-symptoms.md) · [Movement course lesson](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+**Related:** [Previous: drop-attacks inventory](functional_drop_attacks/technique-inventory.md) · [Collection index](README.md) · [Paired recovery page](../recovery-techniques/17-functional-tics-and-tic-like-symptoms.md) · [Movement course lesson](../../course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
