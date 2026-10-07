@@ -1860,8 +1860,8 @@ def write_machine_sitemap(public_urls: list[str]) -> None:
 
 def markdown_inline_to_plain_text(value: str) -> str:
     """Convert the glossary's inline Markdown to compact plain text."""
-    value = re.sub(r"!\[([^\]]*)\]\([^)]+\)", r"\\1", value)
-    value = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\\1", value)
+    value = re.sub(r"!\[([^\]]*)\]\([^)]+\)", r"\1", value)
+    value = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", value)
     value = re.sub(r"<[^>]+>", "", value)
     value = re.sub(r"[\*_`~]+", "", value)
     return re.sub(r"\s+", " ", value).strip()
