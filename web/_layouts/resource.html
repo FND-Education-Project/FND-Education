@@ -22,6 +22,36 @@ layout: default
     {% endif %}
   </header>
 
+  {% if page.url == "/glossary/" %}
+  <section class="glossary-search" aria-labelledby="glossary-search-label">
+    <form id="glossary-search-form" role="search" autocomplete="off">
+      <label id="glossary-search-label" for="glossary-search-input">
+        Search this glossary
+      </label>
+      <div class="glossary-search-combobox">
+        <input
+          id="glossary-search-input"
+          type="search"
+          placeholder="Start typing a glossary term"
+          aria-autocomplete="list"
+          aria-controls="glossary-search-results"
+          aria-expanded="false"
+          aria-activedescendant=""
+        >
+        <ul
+          id="glossary-search-results"
+          class="glossary-search-results"
+          role="listbox"
+          hidden
+        ></ul>
+      </div>
+      <p class="glossary-search-help">
+        Choose a matching term, or press Enter to open the first match.
+      </p>
+    </form>
+  </section>
+  {% endif %}
+
   <div class="course-content">
     {{ content }}
   </div>
