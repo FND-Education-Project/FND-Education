@@ -381,6 +381,25 @@ def check_generated_source(errors: list[str]) -> tuple[int, int, int]:
         except ET.ParseError as exc:
             errors.append(f"web/sitemap.xml is not valid XML: {exc}")
 
+    page_schema_path = WEB / "_data" / "generated" / "page_schema.json"
+    if not page_schema_path.exists():
+        errors.append("Missing generated page-level schema data")
+    else:
+        try:
+            page_schema = json.loads(
+                page_schema_path.read_text(encoding="utf-8")
+            )
+            expected_schema_routes = set(routes) | {"/search/"}
+            actual_schema_routes = set(page_schema)
+            if actual_schema_routes != expected_schema_routes:
+                errors.append(
+                    "Page schema route set mismatch: "
+                    f"missing={sorted(expected_schema_routes - actual_schema_routes)}, "
+                    f"extra={sorted(actual_schema_routes - expected_schema_routes)}"
+                )
+        except json.JSONDecodeError as exc:
+            errors.append(f"Generated page schema is invalid JSON: {exc}")
+
     return len(course_pages), len(reference_pages), len(set(routes))
 
 
@@ -769,13 +788,15 @@ def audit_document_shell(
 def audit_structured_data(
     current_route: str,
     text: str,
+    expected_page_schema: dict[str, dict[str, object]],
     errors: list[str],
 ) -> int:
     """
-    Validate the site-wide JSON-LD graph and glossary DefinedTermSet.
+    Validate the rendered JSON-LD graph.
 
-    Only claims implemented in this schema round are checked here. Page-level
-    WebPage/Article/MedicalWebPage schema is intentionally out of scope.
+    Stage 1 checks the site-wide Organization, WebSite, FND MedicalCondition
+    and glossary DefinedTermSet. Stage 2 also requires exactly one conservative
+    page node whose type and relationships match the generated policy output.
     """
     blocks = re.findall(
         r'<script\s+type=["\']application/ld\+json["\']\s*>(.*?)</script>',
@@ -844,6 +865,50 @@ def audit_structured_data(
                 f"{node_type} @id mismatch on {current_route}: "
                 f"{nodes[0].get('@id')!r}"
             )
+
+    # Stage 2: exact page node generated from the reviewed page policy.
+    expected_page = expected_page_schema.get(current_route)
+    if expected_page is None:
+        errors.append(
+            f"No generated page schema expected for {current_route}"
+        )
+    else:
+        expected_page_id = expected_page.get("@id")
+        page_nodes = [
+            node
+            for node in graph
+            if isinstance(node, dict)
+            and node.get("@id") == expected_page_id
+        ]
+
+        if len(page_nodes) != 1:
+            errors.append(
+                f"Expected one page node on {current_route}; "
+                f"found {len(page_nodes)}"
+            )
+        else:
+            actual_page = page_nodes[0]
+            if actual_page != expected_page:
+                errors.append(
+                    f"Rendered page schema mismatch on {current_route}"
+                )
+
+            page_type = actual_page.get("@type")
+            if page_type not in {"WebPage", "CollectionPage"}:
+                errors.append(
+                    f"Unsupported page type on {current_route}: "
+                    f"{page_type!r}"
+                )
+
+            for forbidden in ("Article", "MedicalWebPage"):
+                if forbidden in (
+                    page_type
+                    if isinstance(page_type, list)
+                    else [page_type]
+                ):
+                    errors.append(
+                        f"Forbidden page type {forbidden} on {current_route}"
+                    )
 
     glossary_sets = by_type.get("DefinedTermSet", [])
     if current_route != "/glossary/":
@@ -922,6 +987,16 @@ def audit_structured_data(
             f"missing={missing}, extra={extra}"
         )
 
+    expected_glossary_page = expected_page_schema.get("/glossary/", {})
+    main_entity = expected_glossary_page.get("mainEntity")
+    if main_entity != {
+        "@id": f"{origin}/glossary/#defined-term-set"
+    }:
+        errors.append(
+            "Glossary page schema does not point to DefinedTermSet "
+            "as mainEntity"
+        )
+
     return len(raw_terms)
 
 
@@ -948,6 +1023,15 @@ def check_built_site(
         course_pages,
         reference_pages,
     )
+
+    page_schema_path = WEB / "_data" / "generated" / "page_schema.json"
+    try:
+        expected_page_schema = json.loads(
+            page_schema_path.read_text(encoding="utf-8")
+        )
+    except (OSError, json.JSONDecodeError) as exc:
+        errors.append(f"Could not load generated page schema: {exc}")
+        expected_page_schema = {}
 
     if not site_root.exists():
         errors.append(f"Built site does not exist: {site_root}")
@@ -1023,6 +1107,7 @@ def check_built_site(
             glossary_term_count = audit_structured_data(
                 current_route=current_route,
                 text=text,
+                expected_page_schema=expected_page_schema,
                 errors=errors,
             )
             schema_pages_checked += 1
