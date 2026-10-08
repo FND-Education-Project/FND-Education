@@ -37,6 +37,7 @@ ADDITIONAL_INFO_SOURCE = (
 )
 HUMAN_SITEMAP_SOURCE = ROOT / "SITEMAP.md"
 GLOSSARY_TYPE_MAP = INTERNAL_REFERENCE_ROOT / "schema" / "glossary-type-map.json"
+PAGE_SCHEMA_POLICY = INTERNAL_REFERENCE_ROOT / "schema" / "page-schema-policy.json"
 
 GITHUB_BLOB_BASE = (
     "https://github.com/FND-Education-Project/FND-Education/blob/main/"
@@ -2040,6 +2041,399 @@ def write_glossary_schema_data() -> None:
     )
 
 
+
+def load_page_schema_policy() -> dict[str, object]:
+    """Load and minimally validate the reviewed page-schema policy."""
+    if not PAGE_SCHEMA_POLICY.exists():
+        raise ValueError(
+            "Missing internal page schema policy: "
+            f"{PAGE_SCHEMA_POLICY.relative_to(ROOT)}"
+        )
+
+    data = json.loads(PAGE_SCHEMA_POLICY.read_text(encoding="utf-8"))
+
+    required_maps = (
+        "course_page_types",
+        "reference_page_types",
+        "resource_route_types",
+    )
+    for key in required_maps:
+        value = data.get(key)
+        if not isinstance(value, dict) or not value:
+            raise ValueError(f"Page schema policy has no usable {key}")
+
+        invalid = {
+            item
+            for item in value.values()
+            if item not in {"WebPage", "CollectionPage"}
+        }
+        if invalid:
+            raise ValueError(
+                f"Page schema policy {key} has unsupported types: "
+                + ", ".join(sorted(invalid))
+            )
+
+    return data
+
+
+def generated_front_matter_value(path: Path, key: str) -> str | None:
+    """Read one simple scalar from generated Jekyll front matter."""
+    text = path.read_text(encoding="utf-8")
+    match = re.match(r"^---\s*\n(.*?)\n---\s*\n", text, re.DOTALL)
+    if not match:
+        raise ValueError(
+            f"Generated page has no front matter: {path.relative_to(ROOT)}"
+        )
+
+    scalar = re.search(
+        rf"^{re.escape(key)}:\s*(.*?)\s*$",
+        match.group(1),
+        re.MULTILINE,
+    )
+    if not scalar:
+        return None
+
+    value = scalar.group(1).strip()
+    if not value:
+        return None
+
+    if value.startswith('"') and value.endswith('"'):
+        try:
+            decoded = json.loads(value)
+        except json.JSONDecodeError as exc:
+            raise ValueError(
+                f"Invalid generated JSON/YAML scalar {key!r} on "
+                f"{path.relative_to(ROOT)}"
+            ) from exc
+        return str(decoded)
+
+    return value
+
+
+def absolute_public_url(route: str) -> str:
+    """Return the configured canonical absolute URL for one pretty route."""
+    origin = public_origin_with_base().rstrip("/")
+    return origin + "/" if route == "/" else origin + route
+
+
+def page_schema_id(route: str) -> str:
+    """Return the stable page entity ID for one public route."""
+    return absolute_public_url(route) + "#webpage"
+
+
+def build_collection_children(
+    course_pages: list[CoursePage],
+    reference_pages: list[ReferencePage],
+) -> dict[str, list[str]]:
+    """
+    Build high-confidence collection membership from the route model.
+
+    These relations come from explicit page kinds and structural fields, never
+    from scraping body links. Empty collections are omitted from hasPart.
+    """
+    children: dict[str, list[str]] = {}
+
+    def add(parent: str, child: str) -> None:
+        if parent == child:
+            raise ValueError(f"Page cannot contain itself: {parent}")
+        children.setdefault(parent, [])
+        if child not in children[parent]:
+            children[parent].append(child)
+
+    # Home contains the site's main reader-facing resource collections.
+    for child in (
+        "/course/",
+        "/reference/",
+        "/glossary/",
+        "/booklets/",
+        "/puzzles/",
+    ):
+        add("/", child)
+
+    # Course hierarchy: Course -> Modules -> Lessons.
+    for page in course_pages:
+        if page.kind == "module":
+            add("/course/", page.public_url)
+        elif page.kind == "lesson":
+            add(f"/course/m{page.module_number}/", page.public_url)
+
+    # Reference root contains major collections and cross-cutting topics.
+    by_kind: dict[str, list[ReferencePage]] = {}
+    for page in reference_pages:
+        by_kind.setdefault(page.kind, []).append(page)
+
+    for kind in (
+        "reference-index",
+        "diagnostic-home",
+        "recovery-home",
+        "co-occurring-home",
+        "biopsychosocial-home",
+        "reference-topic",
+    ):
+        for page in by_kind.get(kind, []):
+            add("/reference/", page.public_url)
+
+    # Shared diagnostic concepts.
+    for page in by_kind.get("diagnostic-concepts-home", []):
+        add("/reference/diagnosis/", page.public_url)
+    for page in by_kind.get("diagnostic-concept", []):
+        add("/reference/diagnosis/concepts/", page.public_url)
+
+    # Diagnosis collections.
+    for page in by_kind.get("diagnostic-index", []):
+        add("/reference/diagnosis/", page.public_url)
+    for page in by_kind.get("diagnostic-overview", []):
+        add("/reference/diagnosis/", page.public_url)
+        add("/reference/diagnosis/index/", page.public_url)
+
+    diagnosis_by_symptom: dict[str, list[ReferencePage]] = {}
+    for page in reference_pages:
+        if page.symptom_slug and page.kind in {
+            "diagnostic-techniques-home",
+            "diagnostic-technique",
+            "diagnostic-inventory",
+        }:
+            diagnosis_by_symptom.setdefault(page.symptom_slug, []).append(page)
+
+    for symptom, pages in diagnosis_by_symptom.items():
+        techniques_home = (
+            f"/reference/{symptom}/diagnosis/techniques/"
+        )
+        inventory = f"/reference/{symptom}/diagnosis/inventory/"
+
+        existing_routes = {page.public_url for page in pages}
+        technique_routes = sorted(
+            page.public_url
+            for page in pages
+            if page.kind == "diagnostic-technique"
+        )
+
+        for route in technique_routes:
+            if techniques_home in existing_routes:
+                add(techniques_home, route)
+            if inventory in existing_routes:
+                add(inventory, route)
+
+    # Recovery collections.
+    for kind in ("recovery-guide", "recovery-index"):
+        for page in by_kind.get(kind, []):
+            add("/reference/recovery/", page.public_url)
+
+    for page in by_kind.get("recovery-overview", []):
+        add("/reference/recovery/", page.public_url)
+        add("/reference/recovery/index/", page.public_url)
+
+    recovery_by_symptom: dict[str, list[ReferencePage]] = {}
+    for page in reference_pages:
+        if page.symptom_slug and page.kind in {
+            "recovery-techniques-home",
+            "recovery-technique",
+        }:
+            recovery_by_symptom.setdefault(page.symptom_slug, []).append(page)
+
+    for symptom, pages in recovery_by_symptom.items():
+        techniques_home = (
+            f"/reference/{symptom}/recovery/techniques/"
+        )
+        existing_routes = {page.public_url for page in pages}
+        if techniques_home not in existing_routes:
+            continue
+
+        for page in sorted(pages, key=lambda item: item.public_url):
+            if page.kind == "recovery-technique":
+                add(techniques_home, page.public_url)
+
+    # Co-occurring and lived-experience collections.
+    for page in by_kind.get("co-occurring-condition", []):
+        add("/reference/co-occurring/", page.public_url)
+
+    for page in by_kind.get("biopsychosocial-experience", []):
+        add("/reference/biopsychosocial-experiences/", page.public_url)
+
+    return {
+        route: sorted(routes)
+        for route, routes in children.items()
+    }
+
+
+def write_page_schema_data(
+    course_pages: list[CoursePage],
+    reference_pages: list[ReferencePage],
+) -> None:
+    """
+    Generate conservative page-level Schema.org nodes for every normal page.
+
+    Page types come only from the reviewed internal policy. Titles and
+    descriptions come from generated front matter. Collection membership comes
+    only from explicit route structure. No page-specific medical concepts are
+    inferred from prose.
+    """
+    policy = load_page_schema_policy()
+    course_types = policy["course_page_types"]
+    reference_types = policy["reference_page_types"]
+    resource_types = policy["resource_route_types"]
+
+    course_kind_set = {page.kind for page in course_pages}
+    reference_kind_set = {page.kind for page in reference_pages}
+
+    stale_course = set(course_types) - course_kind_set
+    unknown_course = course_kind_set - set(course_types)
+    stale_reference = set(reference_types) - reference_kind_set
+    unknown_reference = reference_kind_set - set(reference_types)
+
+    if stale_course or unknown_course or stale_reference or unknown_reference:
+        raise ValueError(
+            "Page schema policy/page discovery mismatch: "
+            f"stale course={sorted(stale_course)}, "
+            f"unknown course={sorted(unknown_course)}, "
+            f"stale reference={sorted(stale_reference)}, "
+            f"unknown reference={sorted(unknown_reference)}"
+        )
+
+    route_paths: dict[str, Path] = {
+        page.public_url: page.destination
+        for page in course_pages
+    }
+    route_paths.update(
+        {
+            page.public_url: page.destination
+            for page in reference_pages
+        }
+    )
+    route_paths.update(
+        {
+            "/": WEB / "index.md",
+            "/contact/": WEB / "contact" / "index.md",
+            "/about/": WEB / "about" / "index.md",
+            "/glossary/": WEB / "glossary" / "index.md",
+            "/booklets/": WEB / "booklets" / "index.md",
+            "/puzzles/": WEB / "puzzles" / "index.md",
+            "/sitemap/": WEB / "sitemap" / "index.md",
+            "/search/": WEB / "search" / "index.html",
+        }
+    )
+
+    expected_resource_routes = set(resource_types)
+    actual_resource_routes = {
+        "/",
+        "/contact/",
+        "/about/",
+        "/glossary/",
+        "/booklets/",
+        "/puzzles/",
+        "/sitemap/",
+        "/search/",
+    }
+    if expected_resource_routes != actual_resource_routes:
+        raise ValueError(
+            "Page schema resource-route policy mismatch: "
+            f"expected={sorted(expected_resource_routes)}, "
+            f"actual={sorted(actual_resource_routes)}"
+        )
+
+    route_types: dict[str, str] = {}
+    for page in course_pages:
+        route_types[page.public_url] = str(course_types[page.kind])
+    for page in reference_pages:
+        route_types[page.public_url] = str(reference_types[page.kind])
+    route_types.update(
+        {
+            route: str(schema_type)
+            for route, schema_type in resource_types.items()
+        }
+    )
+
+    if set(route_types) != set(route_paths):
+        raise ValueError("Page schema route/type maps do not match")
+
+    collection_children = build_collection_children(
+        course_pages,
+        reference_pages,
+    )
+
+    course_routes = {page.public_url for page in course_pages}
+    reference_routes = {page.public_url for page in reference_pages}
+
+    fnd_about = policy.get("fnd_about")
+    if not isinstance(fnd_about, dict):
+        raise ValueError("Page schema policy has no fnd_about object")
+    fnd_routes = set(fnd_about.get("routes", []))
+    if fnd_about.get("course"):
+        fnd_routes.update(course_routes)
+    if fnd_about.get("reference"):
+        fnd_routes.update(reference_routes)
+
+    origin = public_origin_with_base().rstrip("/")
+    website_id = f"{origin}/#website"
+    organization_id = f"{origin}/#organization"
+    fnd_id = f"{origin}/#functional-neurological-disorder"
+    glossary_set_id = f"{origin}/glossary/#defined-term-set"
+
+    page_schema: dict[str, dict[str, object]] = {}
+
+    for route in sorted(route_paths):
+        path = route_paths[route]
+        title = generated_front_matter_value(path, "title")
+        description = generated_front_matter_value(path, "description")
+
+        if not title:
+            raise ValueError(
+                f"Page schema source has no title: {path.relative_to(ROOT)}"
+            )
+
+        node: dict[str, object] = {
+            "@type": route_types[route],
+            "@id": page_schema_id(route),
+            "url": absolute_public_url(route),
+            "name": title,
+            "inLanguage": "en",
+            "isPartOf": {"@id": website_id},
+            "publisher": {"@id": organization_id},
+        }
+
+        if description:
+            node["description"] = description
+
+        if route in fnd_routes:
+            node["about"] = {"@id": fnd_id}
+
+        child_routes = collection_children.get(route, [])
+        if child_routes:
+            if route_types[route] != "CollectionPage":
+                raise ValueError(
+                    f"Only CollectionPage may receive generated hasPart: "
+                    f"{route}"
+                )
+
+            unknown_children = [
+                child
+                for child in child_routes
+                if child not in route_types
+            ]
+            if unknown_children:
+                raise ValueError(
+                    f"Unknown collection children on {route}: "
+                    + ", ".join(unknown_children)
+                )
+
+            node["hasPart"] = [
+                {"@id": page_schema_id(child)}
+                for child in child_routes
+            ]
+
+        if route == "/glossary/" and policy.get("glossary_main_entity"):
+            node["mainEntity"] = {"@id": glossary_set_id}
+
+        page_schema[route] = node
+
+    generated_dir = WEB / "_data" / "generated"
+    generated_dir.mkdir(parents=True, exist_ok=True)
+    (generated_dir / "page_schema.json").write_text(
+        json.dumps(page_schema, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+
+
 def write_generated_page_data(pages: list[CoursePage]) -> None:
     """
     Keep the small generated course data files for compatibility.
@@ -2253,6 +2647,7 @@ def main() -> None:
     write_machine_sitemap(public_urls)
     write_generated_page_data(course_pages)
     write_glossary_schema_data()
+    write_page_schema_data(course_pages, reference_pages)
 
     module_count = sum(
         page.kind == "module"
