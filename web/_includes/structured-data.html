@@ -1,0 +1,36 @@
+{% assign schema_origin = site.url | append: site.baseurl %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": {{ schema_origin | append: "/#organization" | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "url": {{ schema_origin | append: "/" | jsonify }},
+      "description": {{ site.description | jsonify }}
+    },
+    {
+      "@type": "MedicalCondition",
+      "@id": {{ schema_origin | append: "/#functional-neurological-disorder" | jsonify }},
+      "name": "Functional Neurological Disorder",
+      "alternateName": "FND"
+    },
+    {
+      "@type": "WebSite",
+      "@id": {{ schema_origin | append: "/#website" | jsonify }},
+      "url": {{ schema_origin | append: "/" | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "description": {{ site.description | jsonify }},
+      "inLanguage": "en",
+      "publisher": {
+        "@id": {{ schema_origin | append: "/#organization" | jsonify }}
+      },
+      "about": {
+        "@id": {{ schema_origin | append: "/#functional-neurological-disorder" | jsonify }}
+      }
+    }{% if page.url == "/glossary/" and site.data.generated.glossary_schema %},
+    {{ site.data.generated.glossary_schema | jsonify }}{% endif %}
+  ]
+}
+</script>
