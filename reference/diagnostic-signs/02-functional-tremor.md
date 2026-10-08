@@ -4,7 +4,7 @@
 [Home](../../README.md) › [Reference Library](../README.md) › [Diagnostic Signs](README.md) › **Functional Tremor**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Automatically generated expansion — September 27, 2026.** Movement-disorders, lived-experience and accessibility review pending. Earlier inventory entries are preserved separately.
+> **Automatically generated working draft — October 7, 2026.** Movement-disorders, lived-experience and accessibility review pending.
 
 **Refers to:**
 
@@ -37,11 +37,9 @@ Tremor is a repeated back-and-forth shaking. It may interrupt something as ordin
 
 ### What this page covers
 
-
-
 A functional tremor may change when attention or movement rhythm changes. **Distractibility** means that the tremor becomes different, smaller or briefly absent during another task. **Entrainment** means that the tremor takes on the same rhythm being produced by the other hand or foot.
 
-The clinician might ask you to do a second task while watching the shaking limb. The two comparisons answer different questions: did the shaking change, and did it actually follow the other rhythm? A clear pattern can help explain a functional diagnosis. The movement remains involuntary, including when it briefly settles. (*citations* [1](#citation-1), [2](#citation-2))
+The clinician might ask you to do a second task while watching the shaking limb. The two comparisons answer different questions: did the shaking change, and did it actually follow the other rhythm? A clear pattern can help explain a functional diagnosis. The movement remains involuntary, including when it briefly settles. (*citations* [2](#citation-2), [14](#citation-14))
 
 ### What the finding can tell you
 
@@ -123,7 +121,7 @@ Most electrophysiological validation concerns limb tremor. Head, voice, trunk an
 
 ### Diagnostic techniques at a glance
 
-The original twelve entries remain in the [full inventory](functional_tremor/technique-inventory.md). Two now have detailed drafts; the others remain brief summaries pending individual expansion. These categories overlap within laboratory protocols and are not twelve separate required tests.
+The [twelve-entry inventory](functional_tremor/technique-inventory.md) explains further signs and laboratory assessments. Several are components of the same examination; the clinician selects the comparisons that answer the clinical question.
 
 - <a id="variability"></a>[Variability](functional_tremor/technique-inventory.md#variability)
 - <a id="distractibility"></a>[Distractibility](functional_tremor/01-distractibility.md)
@@ -140,7 +138,7 @@ The original twelve entries remain in the [full inventory](functional_tremor/tec
 
 <a id="technique-outline-distractibility-and-entrainment"></a>
 
-The former combined outline is now explained separately in [Distractibility](functional_tremor/01-distractibility.md#preparation-and-examination) and [Entrainment](functional_tremor/02-entrainment.md#preparation-and-examination).
+The examination steps are explained in [Distractibility](functional_tremor/01-distractibility.md#preparation-and-examination) and [Entrainment](functional_tremor/02-entrainment.md#preparation-and-examination).
 
 <a id="media-contributor-brief"></a>
 
@@ -152,7 +150,7 @@ Record diagnostic confidence separately from disability and participation. Neuro
 
 Ask about reliability over time, repeated utensil or keyboard use, assistance, sensory/cognitive demands and recovery cost when relevant. These are assessment prompts, not conclusions drawn from tremor amplitude. A reduction during a dual task is not a measure of sustained safety or independence.
 
-Gelauff and colleagues compared 160 participants with classifiable dominant functional motor symptoms, including 31 with tremor, using baseline questionnaires from an internet-intervention trial. Quality-of-life and mood measures did not distinguish the symptom groups; physical functioning differed for some groups. Referral, internet access, small subgroups and overlapping symptoms limit extrapolation. The data support broader assessment, not a disability estimate for an individual. (*citations* [16](#citation-16))
+Gelauff and colleagues compared 160 participants with classifiable dominant functional motor symptoms, including 31 with tremor, using baseline questionnaires from an internet-intervention trial. Quality-of-life and mood measures did not distinguish the symptom groups; physical functioning differed for some groups. These group findings support asking about daily function and wellbeing; they do not determine an individual’s disability. (*citations* [16](#citation-16))
 
 The [recovery overview](../recovery-techniques/02-functional-tremor.md) owns treatment and flare-management guidance. A diagnostic comparison may inform rehabilitation, but response to treatment is not proof of diagnosis or cause.
 
@@ -168,24 +166,24 @@ The [recovery overview](../recovery-techniques/02-functional-tremor.md) owns tre
 
 ### Evidence notes
 
-The older review provides the clinical overview. Primary studies and the IFCN chapter support the detailed comparisons, while classification consensus frames differential assessment. The 2026 meta-analysis reports varied accuracy across electrophysiological methods and stronger performance for combined batteries; those results cannot be assigned to either bedside sign alone. (*citations* [1](#citation-1), [14](#citation-14), [17](#citation-17), [19](#citation-19))
+Begin with the [2024 IFCN clinical review](#citation-14) for examination and interpretation, and the [2026 systematic review and meta-analysis](#citation-19) for the overall diagnostic evidence. Combined laboratory assessments have stronger support than treating each observation as a separate test. Their accuracy figures do not describe an informal bedside task. (*citations* [14](#citation-14), [19](#citation-19))
 
-Sources 3–13 retain their original numbers so earlier inventory citations and incoming links remain meaningful. Their presence is not a claim that every primary paper was re-reviewed in full for this stage. The two detailed drafts state their own evidence and access limits. No lived-experience quotation has been invented.
+Functional tremor is involuntary. Diagnosis draws on positive movement findings within the clinical assessment, while the person's history and everyday difficulties guide care. This is the clinical context for the earlier studies cited below. (*citations* [2](#citation-2), [14](#citation-14))
 
 ### Citation table
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Bartl M, Kewitsch R, Hallett M, Tegenthoff M, Paulus W. Diagnosis and therapy of functional tremor: a systematic review illustrated by a case report. *Neurological Research and Practice*. 2020;2:35. [FND-CIT-0019](../../research/citation-index.md#fnd-cit-0019). [https://doi.org/10.1186/s42466-020-00073-1](https://doi.org/10.1186/s42466-020-00073-1) |
+| <a id="citation-1"></a>**[1]** | — | Bartl M, Kewitsch R, Hallett M, Tegenthoff M, Paulus W. Diagnosis and therapy of functional tremor: a systematic review illustrated by a case report. *Neurological Research and Practice*. 2020;2:35. FND-CIT-0019. |
 | <a id="citation-2"></a>**[2]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
 | <a id="citation-3"></a>**[3]** | — | O'Suilleabhain PE, Matsumoto JY. Time-frequency analysis of tremors. *Brain : a journal of neurology*. 1998;121 ( Pt 11):2127-2134. [DOI](https://doi.org/10.1093/brain/121.11.2127). [PMID: 9827772](https://pubmed.ncbi.nlm.nih.gov/9827772/). [FND-CIT-0175](../../research/citation-index.md#fnd-cit-0175). |
-| <a id="citation-4"></a>**[4]** | — | Schwingenschuh P, Katschnig P, Seiler S, et al. Moving toward "laboratory-supported" criteria for psychogenic tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2011;26(14):2509-2515. [DOI](https://doi.org/10.1002/mds.23922). [PMID: 21956485](https://pubmed.ncbi.nlm.nih.gov/21956485/). [FND-CIT-0177](../../research/citation-index.md#fnd-cit-0177). |
+| <a id="citation-4"></a>**[4]** | — | Schwingenschuh P, Katschnig P, Seiler S, et al. Moving toward "laboratory-supported" criteria for psychogenic tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2011;26(14):2509-2515. FND-CIT-0177. |
 | <a id="citation-5"></a>**[5]** | — | Schwingenschuh P, Saifee TA, Katschnig-Winter P, et al. Validation of "laboratory-supported" criteria for functional (psychogenic) tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2016;31(4):555-562. [DOI](https://doi.org/10.1002/mds.26525). [PMID: 26879346](https://pubmed.ncbi.nlm.nih.gov/26879346/). [FND-CIT-0178](../../research/citation-index.md#fnd-cit-0178). |
-| <a id="citation-6"></a>**[6]** | — | McAuley J, Rothwell J. Identification of psychogenic, dystonic, and other organic tremors by a coherence entrainment test. *Movement disorders : official journal of the Movement Disorder Society*. 2004;19(3):253-267. [DOI](https://doi.org/10.1002/mds.10707). [PMID: 15022179](https://pubmed.ncbi.nlm.nih.gov/15022179/). [FND-CIT-0135](../../research/citation-index.md#fnd-cit-0135). |
+| <a id="citation-6"></a>**[6]** | — | McAuley J, Rothwell J. Identification of psychogenic, dystonic, and other organic tremors by a coherence entrainment test. *Movement disorders : official journal of the Movement Disorder Society*. 2004;19(3):253-267. FND-CIT-0135. |
 | <a id="citation-7"></a>**[7]** | — | Merchant SH, Haubenberger D, Hallett M. Mirror movements or functional tremor masking organic tremor. *Clinical neurophysiology practice*. 2018;3:107-113. [DOI](https://doi.org/10.1016/j.cnp.2018.05.001). [PMID: 30215019](https://pubmed.ncbi.nlm.nih.gov/30215019/). [FND-CIT-0154](../../research/citation-index.md#fnd-cit-0154). |
 | <a id="citation-8"></a>**[8]** | — | Kumru H, Valls-Solé J, Valldeoriola F, et al. Transient arrest of psychogenic tremor induced by contralateral ballistic movements. *Neuroscience letters*. 2004;370(2-3):135-139. [DOI](https://doi.org/10.1016/j.neulet.2004.08.009). [PMID: 15488310](https://pubmed.ncbi.nlm.nih.gov/15488310/). [FND-CIT-0121](../../research/citation-index.md#fnd-cit-0121). |
 | <a id="citation-9"></a>**[9]** | — | Deuschl G, Köster B, Lücking CH, Scheidt C. Diagnostic and pathophysiological aspects of psychogenic tremors. *Movement disorders : official journal of the Movement Disorder Society*. 1998;13(2):294-302. [DOI](https://doi.org/10.1002/mds.870130216). [PMID: 9539344](https://pubmed.ncbi.nlm.nih.gov/9539344/). [FND-CIT-0176](../../research/citation-index.md#fnd-cit-0176). |
-| <a id="citation-10"></a>**[10]** | — | Raethjen J, Kopper F, Govindan RB, et al. Two different pathogenetic mechanisms in psychogenic tremor. *Neurology*. 2004;63(5):812-815. [DOI](https://doi.org/10.1212/01.wnl.0000137012.35029.6b). [PMID: 15365128](https://pubmed.ncbi.nlm.nih.gov/15365128/). [FND-CIT-0128](../../research/citation-index.md#fnd-cit-0128). |
+| <a id="citation-10"></a>**[10]** | — | Raethjen J, Kopper F, Govindan RB, et al. Two different pathogenetic mechanisms in psychogenic tremor. *Neurology*. 2004;63(5):812-815. FND-CIT-0128. |
 | <a id="citation-11"></a>**[11]** | — | Kramer G, Van der Stouwe AMM, Maurits NM, et al. Wavelet coherence analysis: A new approach to distinguish organic and functional tremor types. *Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology*. 2018;129(1):13-20. [DOI](https://doi.org/10.1016/j.clinph.2017.10.002). [PMID: 29136548](https://pubmed.ncbi.nlm.nih.gov/29136548/). [FND-CIT-0182](../../research/citation-index.md#fnd-cit-0182). |
 | <a id="citation-12"></a>**[12]** | — | Lagrand TJ, Brusse-Keizer M, Charmley A, et al. A Critical Appraisal of the Whack-a-Mole and Swivel Chair Signs in the Diagnosis of Functional Movement Disorders. *Movement disorders clinical practice*. 2024;11(1):63-68. [DOI](https://doi.org/10.1002/mdc3.13895). [PMID: 38291841](https://pubmed.ncbi.nlm.nih.gov/38291841/). [FND-CIT-0181](../../research/citation-index.md#fnd-cit-0181). |
 | <a id="citation-13"></a>**[13]** | — | Saranza G, Vargas-Mendez D, Lang AE, Chen R. Suggestibility as a valuable criterion for laboratory-supported definite functional movement disorders. *Clinical neurophysiology practice*. 2021;6:103-108. [DOI](https://doi.org/10.1016/j.cnp.2021.03.001). [PMID: 33869904](https://pubmed.ncbi.nlm.nih.gov/33869904/). [FND-CIT-0170](../../research/citation-index.md#fnd-cit-0170). |
@@ -205,7 +203,6 @@ Sources 3–13 retain their original numbers so earlier inventory citations and 
 [Research and Sources](#research-and-sources)
 
 ---
-
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Distractibility](functional_tremor/01-distractibility.md)

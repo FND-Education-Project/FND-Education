@@ -4,7 +4,7 @@
 [Home](../../../README.md) › [Reference Library](../../README.md) › [Diagnostic Signs](../README.md) › [Functional Tremor](../02-functional-tremor.md) › **Entrainment in Functional Tremor**
 <!-- NAV-BREADCRUMB:END -->
 
-> **Automatically generated working draft — September 27, 2026.** Movement-disorders, neurophysiology, lived-experience and accessibility review pending. Full-text access limits are recorded below.
+> **Automatically generated working draft — October 7, 2026.** Movement-disorders, neurophysiology, lived-experience and accessibility review pending.
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -46,7 +46,7 @@ The important question is whether the original tremor changes into the tapping r
 
 > **Mirror movement:** An unintended movement on one side that accompanies a deliberate movement on the other.
 
-This comparison does not locate a single damaged brain area or establish a psychological cause.
+The comparison shows how the involuntary shaking responds to another movement rhythm. (*citations* [1](#citation-1))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -91,7 +91,7 @@ Record uncertainty if the original tremor persists beneath an added rhythm. In t
 
 A small later series described “mixed entrainment,” with both original and tapping-frequency peaks. It does not settle the differential or make every extra peak evidence of FND. (*citations* [5](#citation-5))
 
-An example explanation is: “When your other hand changed its tapping rhythm, the shaking followed it. That pattern helps explain why we think this tremor is functional. We still need to understand what it prevents you doing and whether another condition is present.”
+An authored example explanation is: “When your other hand changed its tapping rhythm, the shaking followed it. That pattern helps explain why we think this tremor is functional. We still need to understand what it prevents you doing and whether another condition is present.”
 
 A positive comparison does not establish reliable writing, eating or sustained hand use. Record assistance and everyday impact separately; see [assessment and everyday function](../../diagnostic-concepts/10-assessment-and-everyday-function.md).
 
@@ -108,17 +108,15 @@ A positive comparison does not establish reliable writing, eating or sustained h
 
 ## Evidence and Limitations
 
-**Development study:** In 2011, entrainment occurred in five of 13 functional tremors and none of 25 comparison tremors. The small selected cohort and older clinical reference criteria limit generalization. Most functional cases did not entrain, so absence is not an exclusion rule. (*citations* [2](#citation-2))
+The 2026 meta-analysis found variable results across methods, with comparatively good performance for combined electrophysiological tests. Its pooled results cover different tests and cannot be assigned to entrainment alone. (*citations* [6](#citation-6))
 
-**Prospective validation:** The 2016 study assessed a complete electrophysiological battery in a new cohort, with raters blinded to diagnosis. It supports the combined assessment; its accuracy estimates are not entrainment-only estimates. The [distractibility evidence section](01-distractibility.md#evidence-and-limitations) reports the cohort and battery figures. (*citations* [3](#citation-3))
+The 2016 prospective validation supports a complete battery assessed by raters blinded to diagnosis. The [distractibility evidence section](01-distractibility.md#evidence-and-limitations) reports its cohort and accuracy figures. Most validation concerns limb tremor; mixed tremors and other body sites require their own assessment. (*citations* [1](#citation-1), [3](#citation-3))
 
-**Newer exploratory evidence:** Murgai and Iskhakova retrospectively studied ten clinically diagnosed patients. Seven showed entrainment at one or more rates, with pure, mixed or both patterns. No non-functional comparison group was included, so specificity cannot be calculated. (*citations* [5](#citation-5))
+In the earlier 2011 development study, entrainment occurred in five of 13 functional tremors and none of 25 comparison tremors. Many functional tremors did not entrain, so its absence cannot exclude the diagnosis. (*citations* [2](#citation-2))
+
+Murgai and Iskhakova's later ten-patient series found pure, mixed or both entrainment patterns in seven patients. Without a comparison group, it cannot establish how specifically those patterns identify functional tremor. (*citations* [5](#citation-5))
 
 > **Specificity:** How often a test is negative in people without the condition being assessed.
-
-**Current synthesis:** The 2026 meta-analysis found heterogeneous results across electrophysiological tests and comparatively stronger performance for batteries. A pooled result across different tests is not the accuracy of this manoeuvre. (*citations* [6](#citation-6))
-
-**Access and scope:** Full texts were checked for the 2011 study, 2018 case report, newer ten-patient series and IFCN chapter. The 2016 validation and 2026 synthesis were available at abstract level only. Further full-text review remains pending. Most validation concerns limb tremors; coexisting tremor disorders and other body sites need particular caution.
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -139,7 +137,7 @@ Show baseline, clearly explained tapping at different rates, and return to basel
 
 Do not use rapid cuts, speed changes or music over the examination. Those edits would make frequency comparison unreliable. Captions should describe the task rather than declare that the sign “proves FND.”
 
-Provide a transcript describing each condition and what changed. Keep pacing sound comfortable and optional for viewers; a video should not need flashing cues. The earlier combined media brief is preserved here in scope, with no new illustration presented as clinically approved.
+Provide a transcript describing each condition and what changed. Keep pacing sound comfortable and optional for viewers; a video should not need flashing cues.
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -154,12 +152,12 @@ Provide a transcript describing each condition and what changed. Keep pacing sou
 
 ## Research and Sources
 
-The primary development and validation studies concern laboratory procedures. The mirror-movement report and newer small series identify interpretation questions; neither resolves all mixed tremor presentations. The example explanation is editorial wording, not a patient quotation.
+Begin with the [IFCN clinical review](#citation-1) and [2026 evidence synthesis](#citation-6). Functional tremor is involuntary, and diagnosis rests on the movement pattern within a clinical assessment. The older development study contributes laboratory observations; the later small series explores a question about mixed rhythms. (*citations* [1](#citation-1))
 
 | Citation | Figure | Full citation |
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | — | Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. [https://doi.org/10.1016/j.cnp.2023.12.006](https://doi.org/10.1016/j.cnp.2023.12.006) [FND-CIT-0022](../../../research/citation-index.md#fnd-cit-0022). |
-| <a id="citation-2"></a>**[2]** | — | Schwingenschuh P, Katschnig P, Seiler S, et al. Moving toward "laboratory-supported" criteria for psychogenic tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2011;26(14):2509-2515. [DOI](https://doi.org/10.1002/mds.23922). [PMID: 21956485](https://pubmed.ncbi.nlm.nih.gov/21956485/). [FND-CIT-0177](../../../research/citation-index.md#fnd-cit-0177). |
+| <a id="citation-2"></a>**[2]** | — | Schwingenschuh P, Katschnig P, Seiler S, et al. Moving toward "laboratory-supported" criteria for psychogenic tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2011;26(14):2509-2515. FND-CIT-0177. |
 | <a id="citation-3"></a>**[3]** | — | Schwingenschuh P, Saifee TA, Katschnig-Winter P, et al. Validation of "laboratory-supported" criteria for functional (psychogenic) tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2016;31(4):555-562. [DOI](https://doi.org/10.1002/mds.26525). [PMID: 26879346](https://pubmed.ncbi.nlm.nih.gov/26879346/). [FND-CIT-0178](../../../research/citation-index.md#fnd-cit-0178). |
 | <a id="citation-4"></a>**[4]** | — | Merchant SH, Haubenberger D, Hallett M. Mirror movements or functional tremor masking organic tremor. *Clinical neurophysiology practice*. 2018;3:107-113. [DOI](https://doi.org/10.1016/j.cnp.2018.05.001). [PMID: 30215019](https://pubmed.ncbi.nlm.nih.gov/30215019/). [FND-CIT-0154](../../../research/citation-index.md#fnd-cit-0154). |
 | <a id="citation-5"></a>**[5]** | — | Murgai A, Iskhakova S. Entrainment characteristics of functional tremor. *Movement Disorders Clinical Practice*. 2025;12(2):253–254. Published online November 4, 2024. [DOI](https://doi.org/10.1002/mdc3.14258). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11802637/). [FND-CIT-0222](../../../research/citation-index.md#fnd-cit-0222). |
