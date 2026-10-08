@@ -22,7 +22,6 @@ Repeated papers appear under more than one technique on purpose. **Only the firs
 - [Diagnostic page authoring structures](../../../docs/project/diagnostic-page-authoring-structures.md)
 - [Diagnostic expansion and ownership plan](../../../docs/project/diagnostic-expansion-preparation.md)
 
-
 ---
 
 ## 1. Functional Limb Weakness
@@ -147,12 +146,17 @@ These are candidates for further appraisal, not newly accepted public evidence. 
 
 **Page to review:** [Functional Tremor](../../diagnostic-signs/02-functional-tremor.md)
 
+**Evidence-presentation review:** [October 7 decisions and remaining checks](tremor-evidence-review.md). Current reading comes first; original papers remain available for claim checking.
+
 ### Read first — symptom-level evidence
 
+- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. [https://doi.org/10.1016/j.cnp.2023.12.006](https://doi.org/10.1016/j.cnp.2023.12.006)
+- [ ] Rujirussawarawong S, Ounmuang C, Aungsumart S, Kasemsuk C, Limotai N. Electrophysiology in distinguishing functional tremor from organic tremor: a systematic review and meta-analysis of diagnostic accuracy. *Movement Disorders Clinical Practice*. Published online June 11, 2026. [DOI](https://doi.org/10.1002/mdc3.70707).
 - [ ] Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264)
 - [ ] Bartl M, Kewitsch R, Hallett M, Tegenthoff M, Paulus W. Diagnosis and therapy of functional tremor: a systematic review illustrated by a case report. *Neurological Research and Practice*. 2020;2:35. [https://doi.org/10.1186/s42466-020-00073-1](https://doi.org/10.1186/s42466-020-00073-1)
-- [ ] Bhatia KP, Bain P, Bajaj N, et al. Consensus Statement on the classification of tremors. From the task force on tremor of the International Parkinson and Movement Disorder Society. *Movement Disorders*. 2018;33(1):75–87. [DOI](https://doi.org/10.1002/mds.27121). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6530552/).
-- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. [https://doi.org/10.1016/j.cnp.2023.12.006](https://doi.org/10.1016/j.cnp.2023.12.006)
+- [ ] Bhatia KP, Bain P, Bajaj N, et al. Consensus Statement on the classification of tremors. From the task force on tremor of the International Parkinson and Movement Disorder Society. *Movement Disorders*. 2018;33(1):75–87. [DOI](https://doi.org/10.1002/mds.27121).
+- [ ] Gelauff JM, Rosmalen JGM, Gardien J, Stone J, Tijssen MAJ. Shared demographics and comorbidities in different functional motor disorders. *Parkinsonism & Related Disorders*. 2020;70:1–6. [DOI](https://doi.org/10.1016/j.parkreldis.2019.11.018).
+- [ ] Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045.
 
 ### Detailed technique pages already written
 
@@ -160,24 +164,23 @@ These are candidates for further appraisal, not newly accepted public evidence. 
 
 **Page:** [Distractibility in Functional Tremor](../../diagnostic-signs/functional_tremor/01-distractibility.md)
 
-- [ ] Bartl M, Kewitsch R, Hallett M, Tegenthoff M, Paulus W. Diagnosis and therapy of functional tremor: a systematic review illustrated by a case report. *Neurological Research and Practice*. 2020;2:35. https://doi.org/10.1186/s42466-020-00073-1
-- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. https://doi.org/10.1016/j.cnp.2023.12.006
-- [ ] Huys ACML, Haggard P, Bhatia KP, Edwards MJ. Misdirected attentional focus in functional tremor. *Brain*. 2021;144(11):3436–3450. [DOI](https://doi.org/10.1093/brain/awab230). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8677517/).
-- [ ] Schwingenschuh P, Katschnig P, Seiler S, et al. Moving toward "laboratory-supported" criteria for psychogenic tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2011;26(14):2509-2515. [DOI](https://doi.org/10.1002/mds.23922). [PMID: 21956485](https://pubmed.ncbi.nlm.nih.gov/21956485/).
-- [ ] Schwingenschuh P, Saifee TA, Katschnig-Winter P, et al. Validation of "laboratory-supported" criteria for functional (psychogenic) tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2016;31(4):555-562. [DOI](https://doi.org/10.1002/mds.26525). [PMID: 26879346](https://pubmed.ncbi.nlm.nih.gov/26879346/).
-- [ ] Rujirussawarawong S, Ounmuang C, Aungsumart S, Kasemsuk C, Limotai N. Electrophysiology in distinguishing functional tremor from organic tremor: a systematic review and meta-analysis of diagnostic accuracy. *Movement Disorders Clinical Practice*. Published online June 11, 2026. [DOI](https://doi.org/10.1002/mdc3.70707). [PubMed](https://pubmed.ncbi.nlm.nih.gov/42281242/).
+- [ ] Bartl M, Kewitsch R, Hallett M, Tegenthoff M, Paulus W. Diagnosis and therapy of functional tremor: a systematic review illustrated by a case report. *Neurological Research and Practice*. 2020;2:35.
+- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77.
+- [ ] Huys ACML, Haggard P, Bhatia KP, Edwards MJ. Misdirected attentional focus in functional tremor. *Brain*. 2021;144(11):3436–3450. [DOI](https://doi.org/10.1093/brain/awab230).
+- [ ] Schwingenschuh P, Katschnig P, Seiler S, et al. Moving toward "laboratory-supported" criteria for psychogenic tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2011;26(14):2509-2515. [DOI](https://doi.org/10.1002/mds.23922).
+- [ ] Schwingenschuh P, Saifee TA, Katschnig-Winter P, et al. Validation of "laboratory-supported" criteria for functional (psychogenic) tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2016;31(4):555-562. [DOI](https://doi.org/10.1002/mds.26525).
+- [ ] Rujirussawarawong S, Ounmuang C, Aungsumart S, Kasemsuk C, Limotai N. Electrophysiology in distinguishing functional tremor from organic tremor: a systematic review and meta-analysis of diagnostic accuracy. *Movement Disorders Clinical Practice*. Published online June 11, 2026.
 
 #### Entrainment in Functional Tremor
 
 **Page:** [Entrainment in Functional Tremor](../../diagnostic-signs/functional_tremor/02-entrainment.md)
 
-- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. https://doi.org/10.1016/j.cnp.2023.12.006
+- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77.
 - [ ] Schwingenschuh P, Katschnig P, Seiler S, et al. Moving toward "laboratory-supported" criteria for psychogenic tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2011;26(14):2509-2515. DOI. PMID: 21956485.
 - [ ] Schwingenschuh P, Saifee TA, Katschnig-Winter P, et al. Validation of "laboratory-supported" criteria for functional (psychogenic) tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2016;31(4):555-562. DOI. PMID: 26879346.
-- [ ] Merchant SH, Haubenberger D, Hallett M. Mirror movements or functional tremor masking organic tremor. *Clinical neurophysiology practice*. 2018;3:107-113. [DOI](https://doi.org/10.1016/j.cnp.2018.05.001). [PMID: 30215019](https://pubmed.ncbi.nlm.nih.gov/30215019/).
-- [ ] Murgai A, Iskhakova S. Entrainment characteristics of functional tremor. *Movement Disorders Clinical Practice*. 2025;12(2):253–254. Published online November 4, 2024. [DOI](https://doi.org/10.1002/mdc3.14258). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11802637/).
+- [ ] Merchant SH, Haubenberger D, Hallett M. Mirror movements or functional tremor masking organic tremor. *Clinical neurophysiology practice*. 2018;3:107-113. [DOI](https://doi.org/10.1016/j.cnp.2018.05.001).
+- [ ] Murgai A, Iskhakova S. Entrainment characteristics of functional tremor. *Movement Disorders Clinical Practice*. 2025;12(2):253–254. Published online November 4, 2024. [DOI](https://doi.org/10.1002/mdc3.14258).
 - [ ] Rujirussawarawong S, Ounmuang C, Aungsumart S, Kasemsuk C, Limotai N. Electrophysiology in distinguishing functional tremor from organic tremor: a systematic review and meta-analysis of diagnostic accuracy. *Movement Disorders Clinical Practice*. Published online June 11, 2026. DOI. PubMed.
-
 
 ### Technique / inventory review order
 
@@ -185,61 +188,77 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_tremor
 
 #### Variability
 
-- [ ] O'Suilleabhain PE, Matsumoto JY. Time-frequency analysis of tremors. *Brain : a journal of neurology*. 1998;121 ( Pt 11):2127-2134. [DOI](https://doi.org/10.1093/brain/121.11.2127). [PMID: 9827772](https://pubmed.ncbi.nlm.nih.gov/9827772/).
+- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77.
+- [ ] O'Suilleabhain PE, Matsumoto JY. Time-frequency analysis of tremors. *Brain : a journal of neurology*. 1998;121 ( Pt 11):2127-2134. [DOI](https://doi.org/10.1093/brain/121.11.2127).
 - [ ] Schwingenschuh P, Katschnig P, Seiler S, et al. Moving toward "laboratory-supported" criteria for psychogenic tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2011;26(14):2509-2515. DOI. PMID: 21956485.
 
 #### Distractibility
 
+- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77.
 - [ ] Schwingenschuh P, Katschnig P, Seiler S, et al. Moving toward "laboratory-supported" criteria for psychogenic tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2011;26(14):2509-2515. DOI. PMID: 21956485.
 - [ ] Schwingenschuh P, Saifee TA, Katschnig-Winter P, et al. Validation of "laboratory-supported" criteria for functional (psychogenic) tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2016;31(4):555-562. DOI. PMID: 26879346.
 
 #### Entrainment
 
+- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77.
 - [ ] Schwingenschuh P, Saifee TA, Katschnig-Winter P, et al. Validation of "laboratory-supported" criteria for functional (psychogenic) tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2016;31(4):555-562. DOI. PMID: 26879346.
-- [ ] McAuley J, Rothwell J. Identification of psychogenic, dystonic, and other organic tremors by a coherence entrainment test. *Movement disorders : official journal of the Movement Disorder Society*. 2004;19(3):253-267. [DOI](https://doi.org/10.1002/mds.10707). [PMID: 15022179](https://pubmed.ncbi.nlm.nih.gov/15022179/).
+- [ ] McAuley J, Rothwell J. Identification of psychogenic, dystonic, and other organic tremors by a coherence entrainment test. *Movement disorders : official journal of the Movement Disorder Society*. 2004;19(3):253-267. [DOI](https://doi.org/10.1002/mds.10707).
 - [ ] Merchant SH, Haubenberger D, Hallett M. Mirror movements or functional tremor masking organic tremor. *Clinical neurophysiology practice*. 2018;3:107-113. DOI. PMID: 30215019.
 
 #### Tapping performance
 
+- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77.
 - [ ] Schwingenschuh P, Katschnig P, Seiler S, et al. Moving toward "laboratory-supported" criteria for psychogenic tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2011;26(14):2509-2515. DOI. PMID: 21956485.
 - [ ] Schwingenschuh P, Saifee TA, Katschnig-Winter P, et al. Validation of "laboratory-supported" criteria for functional (psychogenic) tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2016;31(4):555-562. DOI. PMID: 26879346.
 
 #### Ballistic-movement interruption
 
+- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77.
 - [ ] Schwingenschuh P, Saifee TA, Katschnig-Winter P, et al. Validation of "laboratory-supported" criteria for functional (psychogenic) tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2016;31(4):555-562. DOI. PMID: 26879346.
-- [ ] Kumru H, Valls-Solé J, Valldeoriola F, et al. Transient arrest of psychogenic tremor induced by contralateral ballistic movements. *Neuroscience letters*. 2004;370(2-3):135-139. [DOI](https://doi.org/10.1016/j.neulet.2004.08.009). [PMID: 15488310](https://pubmed.ncbi.nlm.nih.gov/15488310/).
+- [ ] Kumru H, Valls-Solé J, Valldeoriola F, et al. Transient arrest of psychogenic tremor induced by contralateral ballistic movements. *Neuroscience letters*. 2004;370(2-3):135-139. [DOI](https://doi.org/10.1016/j.neulet.2004.08.009).
 
 #### Tonic coactivation at onset
 
+- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77.
 - [ ] Schwingenschuh P, Katschnig P, Seiler S, et al. Moving toward "laboratory-supported" criteria for psychogenic tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2011;26(14):2509-2515. DOI. PMID: 21956485.
-- [ ] Deuschl G, Köster B, Lücking CH, Scheidt C. Diagnostic and pathophysiological aspects of psychogenic tremors. *Movement disorders : official journal of the Movement Disorder Society*. 1998;13(2):294-302. [DOI](https://doi.org/10.1002/mds.870130216). [PMID: 9539344](https://pubmed.ncbi.nlm.nih.gov/9539344/).
+- [ ] Deuschl G, Köster B, Lücking CH, Scheidt C. Diagnostic and pathophysiological aspects of psychogenic tremors. *Movement disorders : official journal of the Movement Disorder Society*. 1998;13(2):294-302. [DOI](https://doi.org/10.1002/mds.870130216).
 
 #### Loading response
 
+- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77.
 - [ ] Schwingenschuh P, Katschnig P, Seiler S, et al. Moving toward "laboratory-supported" criteria for psychogenic tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2011;26(14):2509-2515. DOI. PMID: 21956485.
 - [ ] Schwingenschuh P, Saifee TA, Katschnig-Winter P, et al. Validation of "laboratory-supported" criteria for functional (psychogenic) tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2016;31(4):555-562. DOI. PMID: 26879346.
 
 #### Interlimb coherence
 
+- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77.
 - [ ] Schwingenschuh P, Katschnig P, Seiler S, et al. Moving toward "laboratory-supported" criteria for psychogenic tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2011;26(14):2509-2515. DOI. PMID: 21956485.
-- [ ] Raethjen J, Kopper F, Govindan RB, et al. Two different pathogenetic mechanisms in psychogenic tremor. *Neurology*. 2004;63(5):812-815. [DOI](https://doi.org/10.1212/01.wnl.0000137012.35029.6b). [PMID: 15365128](https://pubmed.ncbi.nlm.nih.gov/15365128/).
+- [ ] Raethjen J, Kopper F, Govindan RB, et al. Two different pathogenetic mechanisms in psychogenic tremor. *Neurology*. 2004;63(5):812-815. [DOI](https://doi.org/10.1212/01.wnl.0000137012.35029.6b).
 
 #### Wavelet coherence analysis
 
-- [ ] Kramer G, Van der Stouwe AMM, Maurits NM, et al. Wavelet coherence analysis: A new approach to distinguish organic and functional tremor types. *Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology*. 2018;129(1):13-20. [DOI](https://doi.org/10.1016/j.clinph.2017.10.002). [PMID: 29136548](https://pubmed.ncbi.nlm.nih.gov/29136548/).
+- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77.
+- [ ] Kramer G, Van der Stouwe AMM, Maurits NM, et al. Wavelet coherence analysis: A new approach to distinguish organic and functional tremor types. *Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology*. 2018;129(1):13-20. [DOI](https://doi.org/10.1016/j.clinph.2017.10.002).
 
 #### Combined electrophysiological battery
 
+- [ ] Rujirussawarawong S, Ounmuang C, Aungsumart S, Kasemsuk C, Limotai N. Electrophysiology in distinguishing functional tremor from organic tremor: a systematic review and meta-analysis of diagnostic accuracy. *Movement Disorders Clinical Practice*. Published online June 11, 2026.
+- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77.
 - [ ] Schwingenschuh P, Katschnig P, Seiler S, et al. Moving toward "laboratory-supported" criteria for psychogenic tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2011;26(14):2509-2515. DOI. PMID: 21956485.
 - [ ] Schwingenschuh P, Saifee TA, Katschnig-Winter P, et al. Validation of "laboratory-supported" criteria for functional (psychogenic) tremor. *Movement disorders : official journal of the Movement Disorder Society*. 2016;31(4):555-562. DOI. PMID: 26879346.
 
 #### Whack-a-mole sign
 
-- [ ] Lagrand TJ, Brusse-Keizer M, Charmley A, et al. A Critical Appraisal of the Whack-a-Mole and Swivel Chair Signs in the Diagnosis of Functional Movement Disorders. *Movement disorders clinical practice*. 2024;11(1):63-68. [DOI](https://doi.org/10.1002/mdc3.13895). [PMID: 38291841](https://pubmed.ncbi.nlm.nih.gov/38291841/).
+- [ ] Lagrand TJ, Brusse-Keizer M, Charmley A, et al. A Critical Appraisal of the Whack-a-Mole and Swivel Chair Signs in the Diagnosis of Functional Movement Disorders. *Movement disorders clinical practice*. 2024;11(1):63-68. [DOI](https://doi.org/10.1002/mdc3.13895).
 
 #### Suggestibility
 
-- [ ] Saranza G, Vargas-Mendez D, Lang AE, Chen R. Suggestibility as a valuable criterion for laboratory-supported definite functional movement disorders. *Clinical neurophysiology practice*. 2021;6:103-108. [DOI](https://doi.org/10.1016/j.cnp.2021.03.001). [PMID: 33869904](https://pubmed.ncbi.nlm.nih.gov/33869904/).
+- [ ] Saranza G, Vargas-Mendez D, Lang AE, Chen R. Suggestibility as a valuable criterion for laboratory-supported definite functional movement disorders. *Clinical neurophysiology practice*. 2021;6:103-108. [DOI](https://doi.org/10.1016/j.cnp.2021.03.001).
+
+### Additional sources found in the October 7 search
+
+- [ ] Cibula M, Prezelj N, Berlot R, Kojović M. Diagnostic Sensitivity of a Shortened Accelerometry-Based Functional Tremor Battery. *Movement Disorders*. 2026;41(suppl 1). [Conference abstract](https://www.mdsabstracts.org/abstract/diagnostic-sensitivity-of-a-shortened-accelerometry-based-functional-tremor-battery/). Exploratory evidence; not adopted as a replacement protocol.
+- [ ] Functional Tremor. *Seminars in Neurology*. 2026 issue; PMID 41397453. [PubMed record](https://pubmed.ncbi.nlm.nih.gov/41397453/). Candidate review; full text and complete bibliographic details still need checking before public use.
 
 ### Review completion
 
@@ -257,7 +276,7 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_tremor
 
 ### Read first — symptom-level evidence
 
-- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. https://doi.org/10.1016/j.cnp.2023.12.006
+- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77.
 - [ ] van der Veen S, Caviness JN, Dreissen YEM, et al. Myoclonus and other jerky movement disorders. *Clinical neurophysiology practice*. 2022;7:285-316. [DOI](https://doi.org/10.1016/j.cnp.2022.09.003). [PMID: 36324989](https://pubmed.ncbi.nlm.nih.gov/36324989/).
 - [ ] Latorre A, Ganos C, Hamada M, et al. Diagnostic utility of clinical neurophysiology in jerky movement disorders: a review from the MDS Clinical Neurophysiology Study Group. *Movement Disorders Clinical Practice*. 2025;12(3):272–284. [DOI](https://doi.org/10.1002/mdc3.14306). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11952955/).
 - [ ] Beudel M, Zutt R, Meppelink AM, et al. Improving neurophysiological biomarkers for functional myoclonic movements. *Parkinsonism & related disorders*. 2018;51:3-8. [DOI](https://doi.org/10.1016/j.parkreldis.2018.03.029). [PMID: 29653908](https://pubmed.ncbi.nlm.nih.gov/29653908/).
@@ -268,12 +287,11 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_tremor
 
 **Page:** [EEG–EMG and Jerk-Locked Back-Averaging](../../diagnostic-signs/functional_jerks_and_myoclonus/01-eeg-emg-and-jerk-locked-back-averaging.md)
 
-- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. https://doi.org/10.1016/j.cnp.2023.12.006
+- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77.
 - [ ] van der Veen S, Caviness JN, Dreissen YEM, et al. Myoclonus and other jerky movement disorders. *Clinical neurophysiology practice*. 2022;7:285-316. DOI. PMID: 36324989.
 - [ ] van der Salm SM, Tijssen MA, Koelman JH, van Rootselaar AF. The bereitschaftspotential in jerky movement disorders. *Journal of neurology, neurosurgery, and psychiatry*. 2012;83(12):1162-1167. [DOI](https://doi.org/10.1136/jnnp-2012-303081). [PMID: 22952323](https://pubmed.ncbi.nlm.nih.gov/22952323/).
 - [ ] Beudel M, Zutt R, Meppelink AM, et al. Improving neurophysiological biomarkers for functional myoclonic movements. *Parkinsonism & related disorders*. 2018;51:3-8. DOI. PMID: 29653908.
 - [ ] Latorre A, Ganos C, Hamada M, et al. Diagnostic utility of clinical neurophysiology in jerky movement disorders: a review from the MDS Clinical Neurophysiology Study Group. *Movement Disorders Clinical Practice*. 2025;12(3):272–284. DOI. Full text.
-
 
 ### Technique / inventory review order
 
@@ -317,7 +335,7 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_jerks_
 
 #### Comparison with motor tics
 
-- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. https://doi.org/10.1016/j.cnp.2023.12.006
+- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77.
 - [ ] van der Salm SM, Tijssen MA, Koelman JH, van Rootselaar AF. The bereitschaftspotential in jerky movement disorders. *Journal of neurology, neurosurgery, and psychiatry*. 2012;83(12):1162-1167. DOI. PMID: 22952323.
 
 ### Review completion
@@ -514,7 +532,6 @@ Read the overview sources above, then the following additions before assessing t
 
 Read the definition as a proposal, the CODES findings as associations, the Whitehead paper as guidance, and the smartphone pitfall as a case report. Use current AAN recommendations alongside the older staged-certainty framework.
 
-
 ### Read first — symptom-level evidence
 
 - [ ] Tolchin B, Baslet G, Dworetzky BA, et al. Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee. *Neurology*. 2026. [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466)
@@ -635,11 +652,10 @@ Read the definition as a proposal, the CODES findings as associations, the White
 - [ ] Urman I, Sabah K, Naftali J, Djaldetti R. Rate of neurological diagnosis in patients with hemisensory syndrome – A retrospective cross-sectional study. *Acta Neurologica Belgica*. 2026;126:1201–1207. [DOI](https://doi.org/10.1007/s13760-026-03044-6). Publisher abstract checked; full text unavailable. Retrospective emergency cohort; undiagnosed cases must not be reclassified as FND.
 - [ ] Newman G. How to assess sensation. *MSD Manual Professional Edition*. Reviewed August 2025. [Clinical examination reference](https://www.msdmanuals.com/professional/neurologic-disorders/neurologic-examination/how-to-assess-sensation). Accessed October 1, 2026. General clinical examination guidance, not an FND accuracy study. Anatomy and modality selection only; project terminology and consent safeguards are independently stated.
 
-
 ### Read first — symptom-level evidence
 
 - [ ] Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031. [https://doi.org/10.1093/braincomms/fcag031](https://doi.org/10.1093/braincomms/fcag031)
-- [ ] Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. https://doi.org/10.1001/jamaneurol.2018.1264
+- [ ] Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141.
 
 ### Technique / inventory review order
 
@@ -897,8 +913,6 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 **Page to review:** [Functional Cough and Upper-Airway Symptoms](../../diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md)
 
-
-
 **Expanded reading path:** [Clinical Cough Assessment](../../diagnostic-signs/functional_cough_and_upper_airway_symptoms/01-clinical-cough-assessment.md) → [Tic and Somatic Cough Assessment](../../diagnostic-signs/functional_cough_and_upper_airway_symptoms/02-tic-and-somatic-cough-assessment.md) → [Laryngoscopy and Upper-Airway Assessment](../../diagnostic-signs/functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md) → [Cough and Upper-Airway Diagnostic Inventory](../../diagnostic-signs/functional_cough_and_upper_airway_symptoms/technique-inventory.md).
 
 **Evidence update — October 4, 2026:** Original seven entries preserved. CHEST recommendations and limitations and the UK ILO statement were checked directly; the newer ILO Delphi abstract was checked. Baker/Stone remains the main functional framework; respiratory hypersensitivity, tic/somatic criteria and ILO are kept distinct. Human review remains pending.
@@ -955,8 +969,6 @@ Read the definition as a proposal, the CODES findings as associations, the White
 ## 12. Functional Cognitive Disorder
 
 **Page to review:** [Functional Cognitive Disorder](../../diagnostic-signs/12-functional-cognitive-disorder.md)
-
-
 
 **Expanded reading path:** [Internal Inconsistency and Clinical Assessment](../../diagnostic-signs/functional_cognitive_disorder/01-internal-inconsistency-and-clinical-assessment.md) → [Neuropsychological Assessment and Validity](../../diagnostic-signs/functional_cognitive_disorder/02-neuropsychological-assessment-and-validity.md) → [Everyday Function and Occupational Therapy Measurement](../../diagnostic-signs/functional_cognitive_disorder/03-everyday-function-and-ot-measurement.md) → [FCD Diagnostic Models and Checklists](../../diagnostic-signs/functional_cognitive_disorder/04-diagnostic-models-and-checklists.md) → [Functional Cognitive Disorder Diagnostic Inventory](../../diagnostic-signs/functional_cognitive_disorder/technique-inventory.md).
 
