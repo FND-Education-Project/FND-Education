@@ -2276,17 +2276,16 @@ def write_page_schema_data(
     course_kind_set = {page.kind for page in course_pages}
     reference_kind_set = {page.kind for page in reference_pages}
 
-    stale_course = set(course_types) - course_kind_set
     unknown_course = course_kind_set - set(course_types)
-    stale_reference = set(reference_types) - reference_kind_set
     unknown_reference = reference_kind_set - set(reference_types)
 
-    if stale_course or unknown_course or stale_reference or unknown_reference:
+    # Policy may intentionally define a supported page kind that is not
+    # currently instantiated. Newly discovered kinds, however, must never
+    # receive an implicit schema type.
+    if unknown_course or unknown_reference:
         raise ValueError(
             "Page schema policy/page discovery mismatch: "
-            f"stale course={sorted(stale_course)}, "
             f"unknown course={sorted(unknown_course)}, "
-            f"stale reference={sorted(stale_reference)}, "
             f"unknown reference={sorted(unknown_reference)}"
         )
 
