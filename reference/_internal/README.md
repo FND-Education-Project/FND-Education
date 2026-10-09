@@ -15,6 +15,9 @@ If a document becomes reader-ready, move it out of `_internal` into the appropri
 
 - [Tremor evidence review](diagnostic-signs/tremor-evidence-review.md) — October 7 source decisions and currentness checks.
 
+- [Jerks evidence review](diagnostic-signs/jerks-evidence-review.md) — October 9 source decisions and remaining checks.
+- [Dystonia evidence review](diagnostic-signs/dystonia-evidence-review.md) — October 9 source decisions and newer cervical-dystonia candidate.
+
 ## Community-source review material
 
 - [Community experience quote notebook](recovery-techniques/community-experience-quotes.md) — working source notebook that groups public lived-experience quotations by symptom and technique. These accounts are review material, not evidence that a treatment works or fails.

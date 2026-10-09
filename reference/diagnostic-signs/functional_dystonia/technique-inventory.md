@@ -6,7 +6,7 @@
 
 > **Automatically generated working draft — September 29, 2026.** Human and clinical review pending.
 
-The ten entries below preserve the September 19 inventory. A separately dated research addition follows them, making eleven current entries on this page. The original 170-entry baseline across the collection remains a historical count, not a fixed quota or a count of validated tests.
+The eleven entries cover clinical observations, assessment of associated conditions and research methods. The original ten entries are followed by a newer sedation study.
 
 The [pattern-based assessment](01-pattern-based-history-and-movement-examination.md) is the expanded clinical page. Several entries contribute to it; others describe differential assessment or research methods. This is not a checklist of procedures everyone needs.
 
@@ -60,19 +60,20 @@ A pilot study compared muscle recordings during sedation and recovery in 10 peop
 
 ## Research and Sources
 
-The original citation numbers 1–8 are retained, with the pilot study added as citation 9. A fresh full-text review of every inherited experimental paper remains pending. The broader evidence and access record is on the detailed assessment page.
+Start with the current dystonia classification and specialist guidance. A fixed posture needs a clinical explanation; it does not establish FND on its own. The historical fixed-posture cohort is retained as context, while experimental methods remain distinct from routine clinical assessment. (*citations* [1](#citation-1), [3](#citation-3), [5](#citation-5), [10](#citation-10))
 
 | Citation | Figure | Full citation |
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | — | Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [FND-CIT-0021](../../../research/citation-index.md#fnd-cit-0021). [https://doi.org/10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262) |
 | <a id="citation-2"></a>**[2]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
-| <a id="citation-3"></a>**[3]** | — | Schrag A, Trimble M, Quinn N, Bhatia K. The syndrome of fixed dystonia: an evaluation of 103 patients. *Brain : a journal of neurology*. 2004;127(Pt 10):2360-2372. [DOI](https://doi.org/10.1093/brain/awh262). [PMID: 15342362](https://pubmed.ncbi.nlm.nih.gov/15342362/). [FND-CIT-0142](../../../research/citation-index.md#fnd-cit-0142). |
+| <a id="citation-3"></a>**[3]** | — | Schrag A, Trimble M, Quinn N, Bhatia K. The syndrome of fixed dystonia: an evaluation of 103 patients. *Brain : a journal of neurology*. 2004;127(Pt 10):2360-2372. FND-CIT-0142. |
 | <a id="citation-4"></a>**[4]** | — | Ercoli T, Defazio G, Geroin C, et al. Sudden Onset, Fixed Dystonia and Acute Peripheral Trauma as Diagnostic Clues for Functional Dystonia. *Movement disorders clinical practice*. 2021;8(7):1107-1111. [DOI](https://doi.org/10.1002/mdc3.13322). [PMID: 34631946](https://pubmed.ncbi.nlm.nih.gov/34631946/). [FND-CIT-0136](../../../research/citation-index.md#fnd-cit-0136). |
 | <a id="citation-5"></a>**[5]** | — | Edwards MJ, Koens LH, Liepert J, et al. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical neurophysiology practice*. 2024;9:69-77. [DOI](https://doi.org/10.1016/j.cnp.2023.12.006). [PMID: 38352251](https://pubmed.ncbi.nlm.nih.gov/38352251/). [FND-CIT-0022](../../../research/citation-index.md#fnd-cit-0022). |
 | <a id="citation-6"></a>**[6]** | — | Espay AJ, Morgante F, Purzner J, et al. Cortical and spinal abnormalities in psychogenic dystonia. *Annals of neurology*. 2006;59(5):825-834. [DOI](https://doi.org/10.1002/ana.20837). [PMID: 16634038](https://pubmed.ncbi.nlm.nih.gov/16634038/). [FND-CIT-0149](../../../research/citation-index.md#fnd-cit-0149). |
 | <a id="citation-7"></a>**[7]** | — | Morgante F, Tinazzi M, Squintani G, et al. Abnormal tactile temporal discrimination in psychogenic dystonia. *Neurology*. 2011;77(12):1191-1197. [DOI](https://doi.org/10.1212/wnl.0b013e31822f0449). [PMID: 21900627](https://pubmed.ncbi.nlm.nih.gov/21900627/). [FND-CIT-0171](../../../research/citation-index.md#fnd-cit-0171). |
 | <a id="citation-8"></a>**[8]** | — | Morgante F, Naro A, Terranova C, et al. Normal sensorimotor plasticity in complex regional pain syndrome with fixed posture of the hand. *Movement disorders : official journal of the Movement Disorder Society*. 2017;32(1):149-157. [DOI](https://doi.org/10.1002/mds.26836). [PMID: 28124436](https://pubmed.ncbi.nlm.nih.gov/28124436/). [FND-CIT-0158](../../../research/citation-index.md#fnd-cit-0158). |
 | <a id="citation-9"></a>**[9]** | — | Eleopra R, Paio F, Rinaldo S, et al. Polyelectromyography Under Propofol to Differentiate Functional from Idiopathic Dystonia: A Pilot Study. *Movement Disorders*. 2026;41(2):395–405. Published online November 12, 2025. [DOI/full text](https://doi.org/10.1002/mds.70094). [FND-CIT-0229](../../../research/citation-index.md#fnd-cit-0229). |
+| <a id="citation-10"></a>**[10]** | — | Albanese A, Bhatia KP, Fung VSC, et al. Definition and Classification of Dystonia. *Movement Disorders*. 2025;40(7):1248–1259. [DOI](https://doi.org/10.1002/mds.30220). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC12273609/). [FND-CIT-0227](../../../research/citation-index.md#fnd-cit-0227). |
 
 ---
 

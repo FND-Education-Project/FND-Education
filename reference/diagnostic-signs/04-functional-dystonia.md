@@ -138,7 +138,7 @@ The [media contribution brief](functional_dystonia/01-pattern-based-history-and-
 
 ### Diagnostic techniques at a glance
 
-The [full inventory](functional_dystonia/technique-inventory.md) preserves all ten original descriptions. One combined clinical assessment is expanded; the remaining entries are not ten completed or validated protocols.
+The [full inventory](functional_dystonia/technique-inventory.md) brings together clinical observations, differential assessments and research methods. The pattern-based assessment explains how the clinical findings fit together.
 
 - <a id="onset-and-fixed-posture-pattern"></a>[Onset and fixed-posture pattern](functional_dystonia/technique-inventory.md#onset-and-fixed-posture-pattern)
 - <a id="inconsistency-across-tasks"></a>[Inconsistency across tasks](functional_dystonia/technique-inventory.md#inconsistency-across-tasks)
@@ -151,13 +151,13 @@ The [full inventory](functional_dystonia/technique-inventory.md) preserves all t
 - <a id="tactile-temporal-discrimination"></a>[Tactile temporal discrimination](functional_dystonia/technique-inventory.md#tactile-temporal-discrimination)
 - <a id="sensorimotor-plasticity-testing"></a>[Sensorimotor plasticity testing](functional_dystonia/technique-inventory.md#sensorimotor-plasticity-testing)
 
-**New research entry, September 29, 2026:** [Polyelectromyography during propofol sedation](functional_dystonia/technique-inventory.md#polyelectromyography-during-propofol-sedation) is an exploratory specialist investigation, not a routine diagnostic requirement. (*citations* [11](#citation-11))
+**Exploratory research:** [Polyelectromyography during propofol sedation](functional_dystonia/technique-inventory.md#polyelectromyography-during-propofol-sedation) is an exploratory specialist investigation, not a routine diagnostic requirement. (*citations* [11](#citation-11))
 
 ### Function, pain and care-team roles
 
 Neurology should explain the diagnostic evidence and reassessment plan. Physiotherapy and OT can document positioning, comfortable movement, task performance, assistance and environmental barriers. Pain/rehabilitation input may be needed for suspected CRPS or contracture. Mental-health support should address the person's own needs and preferences. (*citations* [1](#citation-1), [14](#citation-14))
 
-The Stephen specialist-clinic study found disability and mental-health burden alongside functional dystonia. Retrospective records and referral selection limit inference; employment, benefits and psychiatric history are not diagnostic signs or evidence of motive. (*citations* [10](#citation-10))
+Assess disability and mental-health needs directly, alongside comfort and participation. These needs deserve care regardless of which findings establish the movement diagnosis. (*citations* [1](#citation-1), [14](#citation-14))
 
 Ask what is possible repeatedly and safely outside the appointment, including personal care and sustained mobility. Record assistance and recovery time where relevant. A successful movement does not justify withdrawing support without a separate functional assessment.
 
@@ -174,9 +174,9 @@ Ask what is possible repeatedly and safely outside the appointment, including pe
 
 ### Evidence notes
 
-Clinical differentiation is difficult, particularly in fixed painful presentations. The detailed page separates specialist guidance, historical cohorts, prediction studies and preliminary laboratory work. Original source numbers 1–8 remain stable; retaining them does not mean each primary paper has received a fresh full-text review.
+Begin with the 2025 dystonia classification for clinical description, the specialist functional-dystonia review for examination, and the IFCN chapter for laboratory context. The assessment page then explains the relevant comparative and exploratory studies. (*citations* [1](#citation-1), [5](#citation-5), [9](#citation-9))
 
-The updated classification is consensus, not a diagnostic-accuracy study. The 2020 rehabilitation report illustrates separately measured outcomes in one person and cannot establish expected benefit. A fuller dystonia-specific quality-of-life and caregiver-burden synthesis remains a review gap. (*citations* [9](#citation-9), [13](#citation-13))
+Functional dystonia is an involuntary movement disorder assessed through its clinical pattern and positive findings. A fixed posture, psychiatric history or need for benefits cannot establish that diagnosis. Earlier cohort and prediction studies remain part of the research history, read within this current framework. (*citations* [1](#citation-1), [3](#citation-3), [10](#citation-10))
 
 ### Citation table
 
@@ -184,14 +184,14 @@ The updated classification is consensus, not a diagnostic-accuracy study. The 20
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | — | Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [FND-CIT-0021](../../research/citation-index.md#fnd-cit-0021). [https://doi.org/10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262) |
 | <a id="citation-2"></a>**[2]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
-| <a id="citation-3"></a>**[3]** | — | Schrag A, Trimble M, Quinn N, Bhatia K. The syndrome of fixed dystonia: an evaluation of 103 patients. *Brain : a journal of neurology*. 2004;127(Pt 10):2360-2372. [DOI](https://doi.org/10.1093/brain/awh262). [PMID: 15342362](https://pubmed.ncbi.nlm.nih.gov/15342362/). [FND-CIT-0142](../../research/citation-index.md#fnd-cit-0142). |
+| <a id="citation-3"></a>**[3]** | — | Schrag A, Trimble M, Quinn N, Bhatia K. The syndrome of fixed dystonia: an evaluation of 103 patients. *Brain : a journal of neurology*. 2004;127(Pt 10):2360-2372. FND-CIT-0142. |
 | <a id="citation-4"></a>**[4]** | — | Ercoli T, Defazio G, Geroin C, et al. Sudden Onset, Fixed Dystonia and Acute Peripheral Trauma as Diagnostic Clues for Functional Dystonia. *Movement disorders clinical practice*. 2021;8(7):1107-1111. [DOI](https://doi.org/10.1002/mdc3.13322). [PMID: 34631946](https://pubmed.ncbi.nlm.nih.gov/34631946/). [FND-CIT-0136](../../research/citation-index.md#fnd-cit-0136). |
 | <a id="citation-5"></a>**[5]** | — | Edwards MJ, Koens LH, Liepert J, et al. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical neurophysiology practice*. 2024;9:69-77. [DOI](https://doi.org/10.1016/j.cnp.2023.12.006). [PMID: 38352251](https://pubmed.ncbi.nlm.nih.gov/38352251/). [FND-CIT-0022](../../research/citation-index.md#fnd-cit-0022). |
 | <a id="citation-6"></a>**[6]** | — | Espay AJ, Morgante F, Purzner J, et al. Cortical and spinal abnormalities in psychogenic dystonia. *Annals of neurology*. 2006;59(5):825-834. [DOI](https://doi.org/10.1002/ana.20837). [PMID: 16634038](https://pubmed.ncbi.nlm.nih.gov/16634038/). [FND-CIT-0149](../../research/citation-index.md#fnd-cit-0149). |
 | <a id="citation-7"></a>**[7]** | — | Morgante F, Tinazzi M, Squintani G, et al. Abnormal tactile temporal discrimination in psychogenic dystonia. *Neurology*. 2011;77(12):1191-1197. [DOI](https://doi.org/10.1212/wnl.0b013e31822f0449). [PMID: 21900627](https://pubmed.ncbi.nlm.nih.gov/21900627/). [FND-CIT-0171](../../research/citation-index.md#fnd-cit-0171). |
 | <a id="citation-8"></a>**[8]** | — | Morgante F, Naro A, Terranova C, et al. Normal sensorimotor plasticity in complex regional pain syndrome with fixed posture of the hand. *Movement disorders : official journal of the Movement Disorder Society*. 2017;32(1):149-157. [DOI](https://doi.org/10.1002/mds.26836). [PMID: 28124436](https://pubmed.ncbi.nlm.nih.gov/28124436/). [FND-CIT-0158](../../research/citation-index.md#fnd-cit-0158). |
 | <a id="citation-9"></a>**[9]** | — | Albanese A, Bhatia KP, Fung VSC, et al. Definition and Classification of Dystonia. *Movement Disorders*. 2025;40(7):1248–1259. [DOI](https://doi.org/10.1002/mds.30220). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC12273609/). [FND-CIT-0227](../../research/citation-index.md#fnd-cit-0227). |
-| <a id="citation-10"></a>**[10]** | — | Stephen CD, Perez DL, Chibnik LB, Sharma N. Functional dystonia: A case-control study and risk prediction algorithm. *Annals of Clinical and Translational Neurology*. 2021;8(4):732–748. [DOI](https://doi.org/10.1002/acn3.51307). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8045924/). [FND-CIT-0228](../../research/citation-index.md#fnd-cit-0228). |
+| <a id="citation-10"></a>**[10]** | — | Stephen CD, Perez DL, Chibnik LB, Sharma N. Functional dystonia: A case-control study and risk prediction algorithm. *Annals of Clinical and Translational Neurology*. 2021;8(4):732–748. FND-CIT-0228. |
 | <a id="citation-11"></a>**[11]** | — | Eleopra R, Paio F, Rinaldo S, et al. Polyelectromyography Under Propofol to Differentiate Functional from Idiopathic Dystonia: A Pilot Study. *Movement Disorders*. 2026;41(2):395–405. Published online November 12, 2025. [DOI/full text](https://doi.org/10.1002/mds.70094). [FND-CIT-0229](../../research/citation-index.md#fnd-cit-0229). |
 | <a id="citation-12"></a>**[12]** | — | Marín-Medina DS, Miño Zambrano J, Espay AJ, Merello M. Systematic review of movement disorders mislabeled as functional: when incongruence misleads. *Journal of Neurology*. 2026. [DOI](https://doi.org/10.1007/s00415-026-13795-0). [Authors’ institutional record](https://repositorio.fleni.org.ar/handle/123456789/1564). [FND-CIT-0230](../../research/citation-index.md#fnd-cit-0230). |
 | <a id="citation-13"></a>**[13]** | — | Hsieh Y, Deshpande S. A therapy-led, multidisciplinary programme for treatment-resistant functional fixed dystonia. *BMJ Case Reports*. 2020;13(7):e235213. [DOI](https://doi.org/10.1136/bcr-2020-235213). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC7373327/). [FND-CIT-0231](../../research/citation-index.md#fnd-cit-0231). |

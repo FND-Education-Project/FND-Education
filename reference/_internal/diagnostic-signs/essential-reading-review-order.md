@@ -1,6 +1,6 @@
 # Diagnostic Review — Essential Reading in Review Order
 
-> **Internal editorial reading guide — October 7, 2026.** This file is a review aid, not a reader-facing clinical page. It is built from the sources currently cited in the diagnostic symptom, inventory and detailed-technique pages. It is **not an independent systematic literature search** and does not imply that uncited later studies, replications or conflicting evidence are unimportant.
+> **Internal editorial reading guide — October 9, 2026.** This file is a review aid, not a reader-facing clinical page. It is built from the sources currently cited in the diagnostic symptom, inventory and detailed-technique pages. It is **not an independent systematic literature search** and does not imply that uncited later studies, replications or conflicting evidence are unimportant.
 
 ## How to use this guide
 
@@ -274,12 +274,18 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_tremor
 
 **Page to review:** [Functional Jerks or Myoclonus](../../diagnostic-signs/03-functional-jerks-and-myoclonus.md)
 
+**Evidence-presentation review:** [October 9 source decisions and follow-up](jerks-evidence-review.md). Human-review checkboxes remain open.
+
 ### Read first — symptom-level evidence
 
 - [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77.
-- [ ] van der Veen S, Caviness JN, Dreissen YEM, et al. Myoclonus and other jerky movement disorders. *Clinical neurophysiology practice*. 2022;7:285-316. [DOI](https://doi.org/10.1016/j.cnp.2022.09.003). [PMID: 36324989](https://pubmed.ncbi.nlm.nih.gov/36324989/).
-- [ ] Latorre A, Ganos C, Hamada M, et al. Diagnostic utility of clinical neurophysiology in jerky movement disorders: a review from the MDS Clinical Neurophysiology Study Group. *Movement Disorders Clinical Practice*. 2025;12(3):272–284. [DOI](https://doi.org/10.1002/mdc3.14306). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11952955/).
-- [ ] Beudel M, Zutt R, Meppelink AM, et al. Improving neurophysiological biomarkers for functional myoclonic movements. *Parkinsonism & related disorders*. 2018;51:3-8. [DOI](https://doi.org/10.1016/j.parkreldis.2018.03.029). [PMID: 29653908](https://pubmed.ncbi.nlm.nih.gov/29653908/).
+- [ ] Latorre A, Ganos C, Hamada M, et al. Diagnostic utility of clinical neurophysiology in jerky movement disorders: a review from the MDS Clinical Neurophysiology Study Group. *Movement Disorders Clinical Practice*. 2025;12(3):272–284. [DOI](https://doi.org/10.1002/mdc3.14306).
+- [ ] van der Veen S, Caviness JN, Dreissen YEM, et al. Myoclonus and other jerky movement disorders. *Clinical neurophysiology practice*. 2022;7:285-316. [DOI](https://doi.org/10.1016/j.cnp.2022.09.003).
+- [ ] Beudel M, Zutt R, Meppelink AM, et al. Improving neurophysiological biomarkers for functional myoclonic movements. *Parkinsonism & related disorders*. 2018;51:3-8. [DOI](https://doi.org/10.1016/j.parkreldis.2018.03.029).
+
+- [ ] Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470)
+- [ ] Zutt R, Gelauff JM, Smit M, van Zijl JC, Stone J, Tijssen MAJ. The presence of depression and anxiety do not distinguish between functional jerks and cortical myoclonus. *Parkinsonism & Related Disorders*. 2017;45:90–93. [Source](https://doi.org/10.1016/j.parkreldis.2017.09.023)
+- [ ] Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045.
 
 ### Detailed technique pages already written
 
@@ -289,7 +295,7 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_tremor
 
 - [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77.
 - [ ] van der Veen S, Caviness JN, Dreissen YEM, et al. Myoclonus and other jerky movement disorders. *Clinical neurophysiology practice*. 2022;7:285-316. DOI. PMID: 36324989.
-- [ ] van der Salm SM, Tijssen MA, Koelman JH, van Rootselaar AF. The bereitschaftspotential in jerky movement disorders. *Journal of neurology, neurosurgery, and psychiatry*. 2012;83(12):1162-1167. [DOI](https://doi.org/10.1136/jnnp-2012-303081). [PMID: 22952323](https://pubmed.ncbi.nlm.nih.gov/22952323/).
+- [ ] van der Salm SM, Tijssen MA, Koelman JH, van Rootselaar AF. The bereitschaftspotential in jerky movement disorders. *Journal of neurology, neurosurgery, and psychiatry*. 2012;83(12):1162-1167. [DOI](https://doi.org/10.1136/jnnp-2012-303081).
 - [ ] Beudel M, Zutt R, Meppelink AM, et al. Improving neurophysiological biomarkers for functional myoclonic movements. *Parkinsonism & related disorders*. 2018;51:3-8. DOI. PMID: 29653908.
 - [ ] Latorre A, Ganos C, Hamada M, et al. Diagnostic utility of clinical neurophysiology in jerky movement disorders: a review from the MDS Clinical Neurophysiology Study Group. *Movement Disorders Clinical Practice*. 2025;12(3):272–284. DOI. Full text.
 
@@ -304,12 +310,12 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_jerks_
 #### Surface EMG burst analysis
 
 - [ ] van der Veen S, Caviness JN, Dreissen YEM, et al. Myoclonus and other jerky movement disorders. *Clinical neurophysiology practice*. 2022;7:285-316. DOI. PMID: 36324989.
-- [ ] Zutt R, Elting JW, van der Hoeven JH, et al. Myoclonus subtypes in tertiary referral center. Cortical myoclonus and functional jerks are common. *Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology*. 2017;128(1):253-259. [DOI](https://doi.org/10.1016/j.clinph.2016.10.093). [PMID: 27940047](https://pubmed.ncbi.nlm.nih.gov/27940047/).
+- [ ] Zutt R, Elting JW, van der Hoeven JH, et al. Myoclonus subtypes in tertiary referral center. Cortical myoclonus and functional jerks are common. *Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology*. 2017;128(1):253-259. [DOI](https://doi.org/10.1016/j.clinph.2016.10.093).
 
 #### Recruitment order and propagation
 
-- [ ] van der Salm SM, Koelman JH, Henneke S, et al. Axial jerks: a clinical spectrum ranging from propriospinal to psychogenic myoclonus. *Journal of neurology*. 2010;257(8):1349-1355. [DOI](https://doi.org/10.1007/s00415-010-5531-6). [PMID: 20352254](https://pubmed.ncbi.nlm.nih.gov/20352254/).
-- [ ] Erro R, Bhatia KP, Edwards MJ, et al. Clinical diagnosis of propriospinal myoclonus is unreliable: an electrophysiologic study. *Movement disorders : official journal of the Movement Disorder Society*. 2013;28(13):1868-1873. [DOI](https://doi.org/10.1002/mds.25627). [PMID: 24105950](https://pubmed.ncbi.nlm.nih.gov/24105950/).
+- [ ] van der Salm SM, Koelman JH, Henneke S, et al. Axial jerks: a clinical spectrum ranging from propriospinal to psychogenic myoclonus. *Journal of neurology*. 2010;257(8):1349-1355. [DOI](https://doi.org/10.1007/s00415-010-5531-6).
+- [ ] Erro R, Bhatia KP, Edwards MJ, et al. Clinical diagnosis of propriospinal myoclonus is unreliable: an electrophysiologic study. *Movement disorders : official journal of the Movement Disorder Society*. 2013;28(13):1868-1873. [DOI](https://doi.org/10.1002/mds.25627).
 
 #### Stimulus latency and habituation
 
@@ -327,7 +333,7 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_jerks_
 #### Beta event-related desynchronisation
 
 - [ ] Beudel M, Zutt R, Meppelink AM, et al. Improving neurophysiological biomarkers for functional myoclonic movements. *Parkinsonism & related disorders*. 2018;51:3-8. DOI. PMID: 29653908.
-- [ ] Meppelink AM, Little S, Oswal A, et al. Event related desynchronisation predicts functional propriospinal myoclonus. *Parkinsonism & related disorders*. 2016;31:116-118. [DOI](https://doi.org/10.1016/j.parkreldis.2016.07.010). [PMID: 27477621](https://pubmed.ncbi.nlm.nih.gov/27477621/).
+- [ ] Meppelink AM, Little S, Oswal A, et al. Event related desynchronisation predicts functional propriospinal myoclonus. *Parkinsonism & related disorders*. 2016;31:116-118. [DOI](https://doi.org/10.1016/j.parkreldis.2016.07.010).
 
 #### Cortical-myoclonus investigations
 
@@ -348,12 +354,16 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_jerks_
 
 ---
 
+
 ## 4. Functional Dystonia or Fixed Posturing
 
 **Page to review:** [Functional Dystonia or Fixed Posturing](../../diagnostic-signs/04-functional-dystonia.md)
 
+**Evidence-presentation review:** [October 9 source decisions and follow-up](dystonia-evidence-review.md). Human-review checkboxes remain open.
+
 ### Read first — symptom-level evidence
 
+- [ ] Albanese A, Bhatia KP, Fung VSC, et al. Definition and Classification of Dystonia. *Movement Disorders*. 2025;40(7):1248–1259. [DOI](https://doi.org/10.1002/mds.30220). Expert consensus on clinical description and causes, not validation of a functional-dystonia test. Full text checked September 29, 2026.
 - [ ] Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [https://doi.org/10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262)
 - [ ] Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36.
 
@@ -363,11 +373,10 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_jerks_
 
 Read the overview sources above, then the following additions before assessing the detailed page. For the detailed page's full citation order: Frucht → Albanese → Ercoli → Stephen → IFCN → Eleopra → Marín-Medina → Schrag. The existing inventory-specific papers follow below. All boxes remain for human review.
 
-- [ ] Albanese A, Bhatia KP, Fung VSC, et al. Definition and Classification of Dystonia. *Movement Disorders*. 2025;40(7):1248–1259. [DOI](https://doi.org/10.1002/mds.30220). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC12273609/). Expert consensus on clinical description and causes, not validation of a functional-dystonia test. Full text checked September 29, 2026.
-- [ ] Stephen CD, Perez DL, Chibnik LB, Sharma N. Functional dystonia: A case-control study and risk prediction algorithm. *Annals of Clinical and Translational Neurology*. 2021;8(4):732–748. [DOI](https://doi.org/10.1002/acn3.51307). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8045924/). Retrospective specialist-clinic comparison of 99 functional and 99 other-primary-dystonia cases. Prediction is not diagnostic confirmation; internal cross-validation is not external prospective validation. Disability and mental-health associations are not causes. Full text checked September 29, 2026.
+- [ ] Stephen CD, Perez DL, Chibnik LB, Sharma N. Functional dystonia: A case-control study and risk prediction algorithm. *Annals of Clinical and Translational Neurology*. 2021;8(4):732–748. [DOI](https://doi.org/10.1002/acn3.51307). Retrospective specialist-clinic comparison of 99 functional and 99 other-primary-dystonia cases. Prediction is not diagnostic confirmation; internal cross-validation is not external prospective validation. Disability and mental-health associations are not causes. Full text checked September 29, 2026.
 - [ ] Eleopra R, Paio F, Rinaldo S, et al. Polyelectromyography Under Propofol to Differentiate Functional from Idiopathic Dystonia: A Pilot Study. *Movement Disorders*. 2026;41(2):395–405. Published online November 12, 2025. [DOI/full text](https://doi.org/10.1002/mds.70094). Single-centre pilot: 10 functional and 17 idiopathic cases with established diagnoses. Specialist anaesthetic and neurophysiology setting; not a routine validated discriminator. Main-text methods and results checked September 29, 2026; supplementary protocol not independently reviewed.
-- [ ] Marín-Medina DS, Miño Zambrano J, Espay AJ, Merello M. Systematic review of movement disorders mislabeled as functional: when incongruence misleads. *Journal of Neurology*. 2026. [DOI](https://doi.org/10.1007/s00415-026-13795-0). [Authors’ institutional record](https://repositorio.fleni.org.ar/handle/123456789/1564). Abstract/institutional-record review September 29, 2026; full text not retrieved. Selected published misdiagnoses identify pitfalls, not a population misdiagnosis rate or a newly validated sign-count rule.
-- [ ] Hsieh Y, Deshpande S. A therapy-led, multidisciplinary programme for treatment-resistant functional fixed dystonia. *BMJ Case Reports*. 2020;13(7):e235213. [DOI](https://doi.org/10.1136/bcr-2020-235213). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC7373327/). One-person rehabilitation case report with clinician and patient-reported measures; illustrates different outcome domains, not expected treatment response or diagnostic accuracy. Full text checked September 29, 2026.
+- [ ] Marín-Medina DS, Miño Zambrano J, Espay AJ, Merello M. Systematic review of movement disorders mislabeled as functional: when incongruence misleads. *Journal of Neurology*. 2026. [DOI](https://doi.org/10.1007/s00415-026-13795-0). Abstract/institutional-record review September 29, 2026; full text not retrieved. Selected published misdiagnoses identify pitfalls, not a population misdiagnosis rate or a newly validated sign-count rule.
+- [ ] Hsieh Y, Deshpande S. A therapy-led, multidisciplinary programme for treatment-resistant functional fixed dystonia. *BMJ Case Reports*. 2020;13(7):e235213. [DOI](https://doi.org/10.1136/bcr-2020-235213). One-person rehabilitation case report with clinician and patient-reported measures; illustrates different outcome domains, not expected treatment response or diagnostic accuracy. Full text checked September 29, 2026.
 - [ ] Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *JNNP*. 2020;91:1037–1045. DOI. Read for everyday assessment and care-team context; professional consensus.
 
 **Access gaps:** Schrag 2004 and Marín-Medina 2026 were checked at abstract level in this expansion. Eleopra's main-text methods/results/limitations were checked; its supplementary protocol still needs independent review. Retaining an inventory citation is not a fresh full-text review of it.
@@ -376,48 +385,48 @@ Read the overview sources above, then the following additions before assessing t
 
 #### Onset and fixed-posture pattern
 
-- [ ] Schrag A, Trimble M, Quinn N, Bhatia K. The syndrome of fixed dystonia: an evaluation of 103 patients. *Brain : a journal of neurology*. 2004;127(Pt 10):2360-2372. [DOI](https://doi.org/10.1093/brain/awh262). [PMID: 15342362](https://pubmed.ncbi.nlm.nih.gov/15342362/).
-- [ ] Ercoli T, Defazio G, Geroin C, et al. Sudden Onset, Fixed Dystonia and Acute Peripheral Trauma as Diagnostic Clues for Functional Dystonia. *Movement disorders clinical practice*. 2021;8(7):1107-1111. [DOI](https://doi.org/10.1002/mdc3.13322). [PMID: 34631946](https://pubmed.ncbi.nlm.nih.gov/34631946/).
+- [ ] Schrag A, Trimble M, Quinn N, Bhatia K. The syndrome of fixed dystonia: an evaluation of 103 patients. *Brain : a journal of neurology*. 2004;127(Pt 10):2360-2372. [DOI](https://doi.org/10.1093/brain/awh262).
+- [ ] Ercoli T, Defazio G, Geroin C, et al. Sudden Onset, Fixed Dystonia and Acute Peripheral Trauma as Diagnostic Clues for Functional Dystonia. *Movement disorders clinical practice*. 2021;8(7):1107-1111. [DOI](https://doi.org/10.1002/mdc3.13322).
 
 #### Inconsistency across tasks
 
-- [ ] Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. https://doi.org/10.3389/fneur.2020.605262
+- [ ] Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262.
 
 #### Distractibility in mobile dystonia
 
-- [ ] Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. https://doi.org/10.3389/fneur.2020.605262
+- [ ] Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262.
 
 #### Pattern incongruity
 
-- [ ] Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. https://doi.org/10.3389/fneur.2020.605262
+- [ ] Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262.
 - [ ] Schrag A, Trimble M, Quinn N, Bhatia K. The syndrome of fixed dystonia: an evaluation of 103 patients. *Brain : a journal of neurology*. 2004;127(Pt 10):2360-2372. DOI. PMID: 15342362.
 
 #### Sensory tricks and sensory examination
 
-- [ ] Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. https://doi.org/10.3389/fneur.2020.605262
+- [ ] Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262.
 
 #### Coexisting positive functional signs
 
-- [ ] Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. https://doi.org/10.3389/fneur.2020.605262
+- [ ] Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262.
 - [ ] Edwards MJ, Koens LH, Liepert J, et al. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical neurophysiology practice*. 2024;9:69-77. DOI. PMID: 38352251.
 
 #### Pain, CRPS and contracture assessment
 
-- [ ] Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. https://doi.org/10.3389/fneur.2020.605262
+- [ ] Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262.
 - [ ] Schrag A, Trimble M, Quinn N, Bhatia K. The syndrome of fixed dystonia: an evaluation of 103 patients. *Brain : a journal of neurology*. 2004;127(Pt 10):2360-2372. DOI. PMID: 15342362.
 
 #### Cortical and reciprocal inhibition studies
 
-- [ ] Espay AJ, Morgante F, Purzner J, et al. Cortical and spinal abnormalities in psychogenic dystonia. *Annals of neurology*. 2006;59(5):825-834. [DOI](https://doi.org/10.1002/ana.20837). [PMID: 16634038](https://pubmed.ncbi.nlm.nih.gov/16634038/).
+- [ ] Espay AJ, Morgante F, Purzner J, et al. Cortical and spinal abnormalities in psychogenic dystonia. *Annals of neurology*. 2006;59(5):825-834. [DOI](https://doi.org/10.1002/ana.20837).
 
 #### Tactile temporal discrimination
 
-- [ ] Morgante F, Tinazzi M, Squintani G, et al. Abnormal tactile temporal discrimination in psychogenic dystonia. *Neurology*. 2011;77(12):1191-1197. [DOI](https://doi.org/10.1212/wnl.0b013e31822f0449). [PMID: 21900627](https://pubmed.ncbi.nlm.nih.gov/21900627/).
+- [ ] Morgante F, Tinazzi M, Squintani G, et al. Abnormal tactile temporal discrimination in psychogenic dystonia. *Neurology*. 2011;77(12):1191-1197. [DOI](https://doi.org/10.1212/wnl.0b013e31822f0449).
 
 #### Sensorimotor plasticity testing
 
 - [ ] Edwards MJ, Koens LH, Liepert J, et al. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical neurophysiology practice*. 2024;9:69-77. DOI. PMID: 38352251.
-- [ ] Morgante F, Naro A, Terranova C, et al. Normal sensorimotor plasticity in complex regional pain syndrome with fixed posture of the hand. *Movement disorders : official journal of the Movement Disorder Society*. 2017;32(1):149-157. [DOI](https://doi.org/10.1002/mds.26836). [PMID: 28124436](https://pubmed.ncbi.nlm.nih.gov/28124436/).
+- [ ] Morgante F, Naro A, Terranova C, et al. Normal sensorimotor plasticity in complex regional pain syndrome with fixed posture of the hand. *Movement disorders : official journal of the Movement Disorder Society*. 2017;32(1):149-157. [DOI](https://doi.org/10.1002/mds.26836).
 
 ### Review completion
 
@@ -432,6 +441,11 @@ Read the overview sources above, then the following additions before assessing t
 #### Research addition: polyelectromyography during propofol sedation
 
 - [ ] Eleopra R, Paio F, Rinaldo S, et al. Polyelectromyography Under Propofol to Differentiate Functional from Idiopathic Dystonia: A Pilot Study. *Movement Disorders*. 2026;41(2):395–405. Published online November 12, 2025. DOI/full text. Read the selection criteria, blinding, qualitative scoring and limitations before interpreting the pilot results. This is one added research entry, not a routine validated test.
+
+
+### Additional source found in the October 9 search
+
+- [ ] Baizabal-Carvallo JF, Alonso-Juarez M, Jankovic J. Functional cervical dystonia: diagnostic accuracy of distinct clinical features. *Journal of Neurology*. 2026;273:31. Published online December 17, 2025. [Publisher record](https://doi.org/10.1007/s00415-025-13580-5). Primary abstract checked: 34 functional cervical cases compared with 120 non-functional cervical cases. Full text was subscription-only. Check selection, reference diagnosis, blinding and external validation before public use. The reported high sensitivity for absent alleviating manoeuvres and high specificity for changing pattern refer to different features, not one combined test.
 
 ## 5. Functional Gait Disorder
 
@@ -1309,7 +1323,7 @@ Review the event formulation, differential routes and authored function record s
 
 ### Read first — symptom-level evidence
 
-- [ ] Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). Expert review; diagnostic formulation and individualized management. The review reported no controlled treatment studies specific to functional tic-like symptoms.
+- [ ] Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. Expert review; diagnostic formulation and individualized management. The review reported no controlled treatment studies specific to functional tic-like symptoms.
 - [ ] Szejko N, Robinson S, Hartmann A, et al. European clinical guidelines for Tourette syndrome and other tic disorders—version 2.0. Part I: assessment. *European Child & Adolescent Psychiatry*. 2022;31:383–402. [Source](https://doi.org/10.1007/s00787-021-01842-2). Primary tic-disorder assessment guideline; adjacent evidence for terminology and differential diagnosis, not functional-tic treatment evidence.
 - [ ] Pringsheim T, Ganos C, McGuire JF, et al. European Society for the Study of Tourette Syndrome 2022 criteria for clinical diagnosis of functional tic-like behaviours: international consensus from experts in tic disorders. *European Journal of Neurology*. 2023;30(4):902–910. [Source](https://doi.org/10.1111/ene.15672). Expert Delphi consensus. The publication explicitly states that prospective sensitivity and specificity testing was lacking; not a validated self-diagnostic checklist.
 - [ ] Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. [Source](https://doi.org/10.1002/mdc3.14150). Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms.

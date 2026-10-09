@@ -2087,7 +2087,7 @@ Narrative study-group review of diagnostic methods and limitations. Evidence lar
 
 - [03-functional-jerks-and-myoclonus](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md): [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0110](#fnd-cit-0110), [FND-CIT-0118](#fnd-cit-0118), [FND-CIT-0122](#fnd-cit-0122), [FND-CIT-0125](#fnd-cit-0125), [FND-CIT-0137](#fnd-cit-0137), [FND-CIT-0138](#fnd-cit-0138), [FND-CIT-0151](#fnd-cit-0151), [FND-CIT-0186](#fnd-cit-0186), [FND-CIT-0225](#fnd-cit-0225), [FND-CIT-0226](#fnd-cit-0226).
 - [01-eeg-emg-and-jerk-locked-back-averaging](../reference/diagnostic-signs/functional_jerks_and_myoclonus/01-eeg-emg-and-jerk-locked-back-averaging.md): [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0122](#fnd-cit-0122), [FND-CIT-0125](#fnd-cit-0125), [FND-CIT-0151](#fnd-cit-0151), [FND-CIT-0226](#fnd-cit-0226).
-- [technique-inventory](../reference/diagnostic-signs/functional_jerks_and_myoclonus/technique-inventory.md): [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0118](#fnd-cit-0118), [FND-CIT-0122](#fnd-cit-0122), [FND-CIT-0125](#fnd-cit-0125), [FND-CIT-0137](#fnd-cit-0137), [FND-CIT-0138](#fnd-cit-0138), [FND-CIT-0151](#fnd-cit-0151), [FND-CIT-0186](#fnd-cit-0186).
+- [technique-inventory](../reference/diagnostic-signs/functional_jerks_and_myoclonus/technique-inventory.md): [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0118](#fnd-cit-0118), [FND-CIT-0122](#fnd-cit-0122), [FND-CIT-0125](#fnd-cit-0125), [FND-CIT-0137](#fnd-cit-0137), [FND-CIT-0138](#fnd-cit-0138), [FND-CIT-0151](#fnd-cit-0151), [FND-CIT-0186](#fnd-cit-0186), [FND-CIT-0226](#fnd-cit-0226).
 
 ## FND-CIT-0227
 
@@ -2123,7 +2123,7 @@ One-person rehabilitation case report with clinician and patient-reported measur
 
 - [04-functional-dystonia](../reference/diagnostic-signs/04-functional-dystonia.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0021](#fnd-cit-0021), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0136](#fnd-cit-0136), [FND-CIT-0142](#fnd-cit-0142), [FND-CIT-0149](#fnd-cit-0149), [FND-CIT-0158](#fnd-cit-0158), [FND-CIT-0171](#fnd-cit-0171), [FND-CIT-0227](#fnd-cit-0227), [FND-CIT-0228](#fnd-cit-0228), [FND-CIT-0229](#fnd-cit-0229), [FND-CIT-0230](#fnd-cit-0230), [FND-CIT-0231](#fnd-cit-0231).
 - [01-pattern-based-history-and-movement-examination](../reference/diagnostic-signs/functional_dystonia/01-pattern-based-history-and-movement-examination.md): [FND-CIT-0021](#fnd-cit-0021), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0136](#fnd-cit-0136), [FND-CIT-0142](#fnd-cit-0142), [FND-CIT-0227](#fnd-cit-0227), [FND-CIT-0228](#fnd-cit-0228), [FND-CIT-0229](#fnd-cit-0229), [FND-CIT-0230](#fnd-cit-0230).
-- [technique-inventory](../reference/diagnostic-signs/functional_dystonia/technique-inventory.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0021](#fnd-cit-0021), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0136](#fnd-cit-0136), [FND-CIT-0142](#fnd-cit-0142), [FND-CIT-0149](#fnd-cit-0149), [FND-CIT-0158](#fnd-cit-0158), [FND-CIT-0171](#fnd-cit-0171), [FND-CIT-0229](#fnd-cit-0229).
+- [technique-inventory](../reference/diagnostic-signs/functional_dystonia/technique-inventory.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0021](#fnd-cit-0021), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0136](#fnd-cit-0136), [FND-CIT-0142](#fnd-cit-0142), [FND-CIT-0149](#fnd-cit-0149), [FND-CIT-0158](#fnd-cit-0158), [FND-CIT-0171](#fnd-cit-0171), [FND-CIT-0227](#fnd-cit-0227), [FND-CIT-0229](#fnd-cit-0229).
 
 ## FND-CIT-0232
 
