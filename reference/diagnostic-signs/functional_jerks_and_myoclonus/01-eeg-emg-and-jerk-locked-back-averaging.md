@@ -134,15 +134,11 @@ These are suggested explanations, not research quotations. Discuss what the resu
 
 ## Evidence and Limitations
 
-**Primary comparisons:** The 2012 cross-sectional series included 48 patients across functional jerks, Tourette syndrome and myoclonus, plus 25 healthy participants imitating movements. BP findings overlapped with motor tics. The abstract's sensitivity/specificity figures for absence of BP during *intentional wrist extension* must not be relabelled as the accuracy of a BP preceding spontaneous jerks. Only the primary abstract/institutional record was retrieved for this study. (*citations* [3](#citation-3))
+The 2024 IFCN chapter and 2025 MDS study-group review support interpreting the history, muscle recordings and premovement EEG together. Evidence comes mainly from small series and comparative studies, with differing recording and analysis methods. There is no single accuracy figure that applies to every person with jerks. (*citations* [1](#citation-1), [5](#citation-5))
 
-**Later study:** Beudel and colleagues retrospectively compared 29 functional-jerk cases with 16 cortical-myoclonus cases. Visual BP was present in 14 functional cases and no cortical comparator. Combining quantitative BP and beta analysis improved detection within this dataset. Classification had already used clinical and electrophysiological information, including BP; thresholds were evaluated in the same cohort. Selection, incorporation of the sign into diagnosis, age differences and the limited comparator group constrain generalization. The full paper was checked. (*citations* [4](#citation-4))
+In Beudel and colleagues' 2018 retrospective comparison, a visually identified BP occurred in 14 of 29 functional-jerk cases and none of 16 cortical-myoclonus cases. Quantitative BP and beta analysis detected additional cases. The groups had already been classified using clinical and electrophysiological findings, so these results support specialist interpretation rather than establish accuracy in an unselected clinic population. (*citations* [4](#citation-4))
 
-> **Incorporation bias:** A test can appear more accurate when its result also helps define who has the diagnosis used as the reference.
-
-**Updated review:** The 2025 MDS study-group narrative review describes mostly case-series and limited case-control evidence, inconsistent methods and technical constraints on averaging. It supports combined interpretation while identifying a need for stronger diagnostic validation. It is not a new prospective validation cohort. (*citations* [5](#citation-5))
-
-Targeted evidence review: September 28, 2026. The IFCN chapter, general myoclonus review, 2018 primary study and 2025 review were available in full. The 2012 full text and a fresh review of every other inventory source remain outstanding. No universal accuracy estimate is assigned to this outline.
+BP can also precede motor tics. The 2012 comparison helps explain that overlap; its accuracy figures for a separate intentional wrist-extension task should not be applied to spontaneous jerks. The useful clinical question is which movement pattern the recording supports. A premovement signal does not establish conscious intention, and an absent signal does not exclude functional jerks. (*citations* [1](#citation-1), [3](#citation-3))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -184,7 +180,7 @@ Include an accessible text description and transcript. Label illustrative traces
 
 ## Research and Sources
 
-The sources distinguish clinical framing, laboratory methods, primary comparisons and newer evidence limitations. This page expands the featured combined assessment; the complete inventory is not a checklist of procedures everyone needs.
+Start with the IFCN chapter and MDS study-group review for clinical interpretation, then the primary comparisons for the evidence behind individual signal analyses.
 
 | Citation | Figure | Full citation |
 |---|---|---|

@@ -125,7 +125,7 @@ When jerks are too intermittent to observe in clinic, safely obtained video may 
 
 ### Diagnostic techniques at a glance
 
-All nine original entries remain in the [full inventory](functional_jerks_and_myoclonus/technique-inventory.md). One detailed page now explains the featured combined assessment. Other entries remain brief summaries or contextual adjuncts, not completed standalone protocols.
+The [full inventory](functional_jerks_and_myoclonus/technique-inventory.md) brings together nine clinical observations, recording methods and differential investigations. The combined EEG–EMG assessment has a detailed explanation below.
 
 - <a id="clinical-variability-and-distractibility"></a>[Clinical variability and distractibility](functional_jerks_and_myoclonus/technique-inventory.md#clinical-variability-and-distractibility)
 - <a id="surface-emg-burst-analysis"></a>[Surface EMG burst analysis](functional_jerks_and_myoclonus/technique-inventory.md#surface-emg-burst-analysis)
@@ -165,7 +165,9 @@ Ask about injury risk, reliable task completion, support, fatigue and recovery c
 
 ### Evidence notes
 
-The IFCN chapter and 2025 study-group review place recordings within clinical assessment. Primary evidence and access limits are described on the detailed technique page. Original citations 1–8 retain their identifiers for the inventory; this is not a claim that every inventory paper has undergone fresh full-text review. Tic-like symptoms retain their separate clinical framework. (*citations* [1](#citation-1), [9](#citation-9), [11](#citation-11))
+For current clinical reading, start with the 2024 IFCN chapter and 2025 MDS study-group review, followed by the broader myoclonus review. Together they explain what combined recordings can contribute and why comparison with tics and other causes remains necessary. (*citations* [1](#citation-1), [2](#citation-2), [11](#citation-11))
+
+Functional jerks are involuntary. Their diagnosis uses positive clinical and recording findings; psychiatric symptoms do not determine their cause. Earlier axial-jerk research remains part of the evidence history, interpreted through this current clinical framework. (*citations* [1](#citation-1), [4](#citation-4), [10](#citation-10))
 
 ### Citation table
 
@@ -174,7 +176,7 @@ The IFCN chapter and 2025 study-group review place recordings within clinical as
 | <a id="citation-1"></a>**[1]** | — | Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. [FND-CIT-0022](../../research/citation-index.md#fnd-cit-0022). [https://doi.org/10.1016/j.cnp.2023.12.006](https://doi.org/10.1016/j.cnp.2023.12.006) |
 | <a id="citation-2"></a>**[2]** | — | van der Veen S, Caviness JN, Dreissen YEM, et al. Myoclonus and other jerky movement disorders. *Clinical neurophysiology practice*. 2022;7:285-316. [DOI](https://doi.org/10.1016/j.cnp.2022.09.003). [PMID: 36324989](https://pubmed.ncbi.nlm.nih.gov/36324989/). [FND-CIT-0151](../../research/citation-index.md#fnd-cit-0151). |
 | <a id="citation-3"></a>**[3]** | — | Zutt R, Elting JW, van der Hoeven JH, et al. Myoclonus subtypes in tertiary referral center. Cortical myoclonus and functional jerks are common. *Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology*. 2017;128(1):253-259. [DOI](https://doi.org/10.1016/j.clinph.2016.10.093). [PMID: 27940047](https://pubmed.ncbi.nlm.nih.gov/27940047/). [FND-CIT-0186](../../research/citation-index.md#fnd-cit-0186). |
-| <a id="citation-4"></a>**[4]** | — | van der Salm SM, Koelman JH, Henneke S, et al. Axial jerks: a clinical spectrum ranging from propriospinal to psychogenic myoclonus. *Journal of neurology*. 2010;257(8):1349-1355. [DOI](https://doi.org/10.1007/s00415-010-5531-6). [PMID: 20352254](https://pubmed.ncbi.nlm.nih.gov/20352254/). [FND-CIT-0118](../../research/citation-index.md#fnd-cit-0118). |
+| <a id="citation-4"></a>**[4]** | — | van der Salm SM, Koelman JH, Henneke S, et al. Axial jerks: a clinical spectrum ranging from propriospinal to psychogenic myoclonus. *Journal of neurology*. 2010;257(8):1349-1355. FND-CIT-0118. |
 | <a id="citation-5"></a>**[5]** | — | Erro R, Bhatia KP, Edwards MJ, et al. Clinical diagnosis of propriospinal myoclonus is unreliable: an electrophysiologic study. *Movement disorders : official journal of the Movement Disorder Society*. 2013;28(13):1868-1873. [DOI](https://doi.org/10.1002/mds.25627). [PMID: 24105950](https://pubmed.ncbi.nlm.nih.gov/24105950/). [FND-CIT-0138](../../research/citation-index.md#fnd-cit-0138). |
 | <a id="citation-6"></a>**[6]** | — | van der Salm SM, Tijssen MA, Koelman JH, van Rootselaar AF. The bereitschaftspotential in jerky movement disorders. *Journal of neurology, neurosurgery, and psychiatry*. 2012;83(12):1162-1167. [DOI](https://doi.org/10.1136/jnnp-2012-303081). [PMID: 22952323](https://pubmed.ncbi.nlm.nih.gov/22952323/). [FND-CIT-0125](../../research/citation-index.md#fnd-cit-0125). |
 | <a id="citation-7"></a>**[7]** | — | Beudel M, Zutt R, Meppelink AM, et al. Improving neurophysiological biomarkers for functional myoclonic movements. *Parkinsonism & related disorders*. 2018;51:3-8. [DOI](https://doi.org/10.1016/j.parkreldis.2018.03.029). [PMID: 29653908](https://pubmed.ncbi.nlm.nih.gov/29653908/). [FND-CIT-0122](../../research/citation-index.md#fnd-cit-0122). |
