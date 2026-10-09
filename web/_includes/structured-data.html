@@ -29,7 +29,8 @@
       "about": {
         "@id": {{ schema_origin | append: "/#functional-neurological-disorder" | jsonify }}
       }
-    }{% if page.url == "/glossary/" and site.data.generated.glossary_schema %},
+    }{% assign current_page_schema = site.data.generated.page_schema[page.url] %}{% if current_page_schema %},
+    {{ current_page_schema | jsonify }}{% endif %}{% if page.url == "/glossary/" and site.data.generated.glossary_schema %},
     {{ site.data.generated.glossary_schema | jsonify }}{% endif %}
   ]
 }

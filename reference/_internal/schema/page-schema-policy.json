@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "status": "reviewed-conservative-policy",
+  "purpose": "Machine-readable policy for page-level Schema.org generation. It classifies existing generated page kinds without adding schema metadata to canonical Markdown.",
+  "principles": [
+    "WebPage is the default substantive page type.",
+    "CollectionPage is used only for pages whose primary function is to organize a real collection of child pages or resources.",
+    "MedicalWebPage is not used without an explicit authority/review signal.",
+    "Article is not used merely because a page is long or informative.",
+    "Breadcrumb schema is deferred.",
+    "Page-specific medical entities are not inferred from body prose.",
+    "Git commit dates are not medical review dates."
+  ],
+  "course_page_types": {
+    "course": "CollectionPage",
+    "module": "CollectionPage",
+    "lesson": "WebPage"
+  },
+  "reference_page_types": {
+    "reference-home": "CollectionPage",
+    "reference-index": "CollectionPage",
+    "reference-topic": "WebPage",
+    "diagnostic-concepts-home": "CollectionPage",
+    "diagnostic-concept": "WebPage",
+    "diagnostic-home": "CollectionPage",
+    "diagnostic-index": "CollectionPage",
+    "diagnostic-overview": "WebPage",
+    "diagnostic-techniques-home": "CollectionPage",
+    "diagnostic-inventory": "CollectionPage",
+    "diagnostic-technique": "WebPage",
+    "recovery-home": "CollectionPage",
+    "recovery-guide": "WebPage",
+    "recovery-index": "CollectionPage",
+    "recovery-overview": "WebPage",
+    "recovery-techniques-home": "CollectionPage",
+    "recovery-technique": "WebPage",
+    "co-occurring-home": "CollectionPage",
+    "co-occurring-condition": "WebPage",
+    "biopsychosocial-home": "CollectionPage",
+    "biopsychosocial-experience": "WebPage"
+  },
+  "resource_route_types": {
+    "/": "CollectionPage",
+    "/contact/": "WebPage",
+    "/about/": "WebPage",
+    "/glossary/": "CollectionPage",
+    "/booklets/": "CollectionPage",
+    "/puzzles/": "CollectionPage",
+    "/sitemap/": "CollectionPage",
+    "/search/": "WebPage"
+  },
+  "fnd_about": {
+    "course": true,
+    "reference": true,
+    "routes": [
+      "/",
+      "/glossary/",
+      "/booklets/",
+      "/puzzles/"
+    ]
+  },
+  "glossary_main_entity": true
+}
