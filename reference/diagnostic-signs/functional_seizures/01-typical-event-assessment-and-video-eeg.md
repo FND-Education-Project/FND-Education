@@ -161,13 +161,11 @@ Offer the explanation in writing, allow questions and specify who will review un
 
 ## Evidence and Limitations
 
-The AAN guideline recommends history and witness information, assessment for coexisting epilepsy and use of video-EEG where feasible to resolve ambiguity. Its clinician summary was reviewed; the complete evidence supplement was not independently reappraised. (*citations* [1](#citation-1))
+The 2026 AAN guideline is the current starting point: combine history and witness information, assess possible coexisting epilepsy, and use video-EEG when feasible to resolve uncertainty. When event capture is unavailable, use the available clinical and recording evidence and explain the supported level of certainty. (*citations* [1](#citation-1))
 
-Whitehead and colleagues provide practice guidance, not a new diagnostic-accuracy cohort. Their review emphasizes recording quality, habitual-event confirmation and risks of overlooking scalp-negative epilepsy or overinterpreting interictal findings. Some historical bedside suggestions in that paper are not reproduced here as instructions. (*citations* [2](#citation-2))
+Assessment should use safe, respectful observation. A movement or response during an event does not establish conscious control. Whitehead and colleagues' earlier guidance remains useful for recording quality, confirmation that an event is habitual and the risk of overlooking epilepsy without a clear scalp-EEG change. These are interpretive principles, not a diagnostic-accuracy estimate for the whole pathway. (*citations* [1](#citation-1), [2](#citation-2))
 
-The 2013 ILAE report is a consensus framework. Its staged approach is corroborated in current AAN guidance; fresh full-text review of all its original criteria remains pending. No universal sensitivity or specificity is assigned to this whole pathway. (*citations* [3](#citation-3))
-
-Targeted update: October 1, 2026. Diagnostic certainty and severity must be recorded separately.
+The ILAE's staged framework describes how different combinations of evidence support different levels of certainty. It is a consensus framework, not a severity scale; one captured event still cannot classify every event type. (*citations* [1](#citation-1), [3](#citation-3))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -215,7 +213,7 @@ The sources serve different purposes: current professional recommendations, prac
 | Citation | Figure | Full citation |
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | — | Tolchin B, Goldstein LH, Reuber M, et al. Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) [AAN clinician summary](https://aanfiles.blob.core.windows.net/guidelines/2cceae40-edcf-484d-9054-bbdf76206bca/25_FunctionalSeizure-ClinGL_v03b.pdf). |
-| <a id="citation-2"></a>**[2]** | — | Whitehead K, Kane N, Wardrope A, Kandler R, Reuber M. Proposal for best practice in the use of video-EEG when psychogenic non-epileptic seizures are a possible diagnosis. *Clinical Neurophysiology Practice*. 2017;2:130–139. [DOI](https://doi.org/10.1016/j.cnp.2017.06.002). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/). [FND-CIT-0233](../../../research/citation-index.md#fnd-cit-0233). |
+| <a id="citation-2"></a>**[2]** | — | Whitehead K, Kane N, Wardrope A, Kandler R, Reuber M. Proposal for best practice in the use of video-EEG when psychogenic non-epileptic seizures are a possible diagnosis. *Clinical Neurophysiology Practice*. 2017;2:130–139. FND-CIT-0233. |
 | <a id="citation-3"></a>**[3]** | — | LaFrance WC, Baker GA, Duncan R, et al. Minimum requirements for the diagnosis of psychogenic nonepileptic seizures: a staged approach: a report from the International League Against Epilepsy Nonepileptic Seizures Task Force. *Epilepsia*. 2013;54(11):2005-2018. [DOI](https://doi.org/10.1111/epi.12356). [PMID: 24111933](https://pubmed.ncbi.nlm.nih.gov/24111933/). [FND-CIT-0146](../../../research/citation-index.md#fnd-cit-0146). |
 
 ***

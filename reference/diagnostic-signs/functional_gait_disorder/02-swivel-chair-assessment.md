@@ -154,13 +154,11 @@ If it supports the diagnosis, explain why this particular comparison is informat
 
 ## Evidence and Limitations
 
-**Original study:** Okun and colleagues compared nine people with functional gait disorder with nine controls with other gait disorders. Eight of the functional group improved in the chair; controls showed comparable impairment across tasks. This small study cannot establish broad accuracy. The primary abstract was reviewed, not the full text. (*citations* [1](#citation-1))
+The later blinded study is the more useful starting point. Lagrand and colleagues assessed 26 people with functional and 22 with other gait disorders, using two specialist video raters. Mean sensitivity was **37%** and specificity **96%**. Many people with functional gait disorder therefore did not show the sign. Most comparison participants had Parkinson's disease, and severe contributing pain, severe cognitive impairment and coexisting functional seizures were exclusions. Those selection limits matter when applying the findings. (*citations* [2](#citation-2))
 
-**Later blinded assessment:** Lagrand and colleagues studied 26 functional and 22 other gait disorders; two specialists rated videos blinded to diagnosis. Reported mean sensitivity was **37%**, specificity **96%**, with inter-rater agreement κ = **0.69**. Controls were predominantly people with Parkinson's disease. Severe contributing pain, severe cognitive impairment and coexisting functional seizures were exclusions. Selected established diagnoses and subjective ratings limit generalizability; small differences require caution. These are chair-sign results, not the separate whack-a-mole results in the same paper. Full text was checked. (*citations* [2](#citation-2))
+> **Sensitivity:** How often a test detects the condition in those classified as having it. **Specificity:** How often it is negative in the chosen comparison group.
 
-> **Sensitivity:** How often a test detects the condition in those classified as having it. **Specificity:** How often it is negative in the chosen comparison group. **κ (kappa):** Agreement between raters after allowing for chance agreement.
-
-Targeted update: September 30, 2026. Neither study validates the sign as a measure of everyday fall risk, sustained mobility or support needs.
+The original study compared nine functional cases with nine other gait disorders. It introduced the comparison, but its small sample cannot establish broad accuracy. Neither study measures everyday fall risk, sustained mobility or support needs. (*citations* [1](#citation-1), [2](#citation-2))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

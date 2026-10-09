@@ -157,11 +157,11 @@ Then explain the specific clinical reasoning, possible coexistence and what rema
 
 ## Evidence and Limitations
 
-The 2020 sign-based review offers an expert clinical framework and illustrative videos, not a prospectively validated score or one sensitivity/specificity estimate for all these tasks. Full text was reviewed for this expansion. (*citations* [1](#citation-1))
+The sign-based review provides a clinical framework for comparing tasks and considering alternative explanations. It is not a validated score with one accuracy estimate for the whole examination. (*citations* [1](#citation-1))
 
-Gandolfi and colleagues compared 29 people with functional gait disorder with 49 healthy participants during instrumented single- and dual-task walking. Some performance measures differed, while effects on their automaticity measure did not. Healthy controls do not establish specificity against neurological gait mimics. Despite the paper's “biomarker” title, these findings do not validate a universal bedside rule. The primary abstract was checked; full-text methods and individual thresholds remain to be reviewed. (*citations* [2](#citation-2))
+Gandolfi and colleagues compared 29 people with functional gait disorder with 49 healthy participants during instrumented walking. Differences in some performance measures support further research, but healthy comparators cannot establish how well a test distinguishes functional gait disorder from other neurological gait conditions. (*citations* [2](#citation-2))
 
-Targeted update: September 30, 2026. This is not a systematic review of every gait sign. Each proposed standalone method needs its own validation review. A treatment response should not be substituted for diagnostic evidence.
+In a newer exploratory study, five raters used six frameworks to describe 34 gait videos; agreement was low. This concerns classification of the visible pattern, rather than the accuracy of diagnosing its cause. Clinical interpretation still needs the history, examination and meaningful task comparisons. (*citations* [3](#citation-3))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -210,6 +210,7 @@ The clinical outline comes from sign-based guidance. The instrumented study addr
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | — | Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. [FND-CIT-0020](../../../research/citation-index.md#fnd-cit-0020). [https://doi.org/10.1212/WNL.0000000000009649](https://doi.org/10.1212/WNL.0000000000009649) |
 | <a id="citation-2"></a>**[2]** | — | Gandolfi M, Fiorio M, Geroin C, et al. Dual tasking affects gait performance but not automaticity in functional gait disorders: A new diagnostic biomarker. *Parkinsonism & related disorders*. 2023;108:105291. [DOI](https://doi.org/10.1016/j.parkreldis.2023.105291). [PMID: 36764083](https://pubmed.ncbi.nlm.nih.gov/36764083/). [FND-CIT-0132](../../../research/citation-index.md#fnd-cit-0132). |
+| <a id="citation-3"></a>**[3]** | — | Issak S, Kanaan R, Fini NA, Nielsen G, Williams G. Phenotyping Functional Gait Disorder: An Exploratory Analysis of Existing Frameworks. *Movement Disorders Clinical Practice*. 2026;13(4):1006–1013. Published online November 11, 2025. [DOI](https://doi.org/10.1002/mdc3.70437). [FND-CIT-0265](../../../research/citation-index.md#fnd-cit-0265). |
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

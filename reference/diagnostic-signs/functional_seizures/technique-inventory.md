@@ -6,9 +6,9 @@
 
 > **Automatically generated working draft — October 1, 2026.** Human and clinical review pending.
 
-All twenty original descriptions are preserved below. They include signs, investigations, consensus frameworks and historical cautions, with different evidence strengths. They are not twenty validated tests or a home-testing checklist.
+These twenty entries include observed signs, investigations, consensus frameworks and historical cautions. They contribute different kinds of information to specialist assessment; they are not a home-testing checklist.
 
-Expanded pages: [typical-event video-EEG](01-typical-event-assessment-and-video-eeg.md), [smartphone-video assessment](02-smartphone-video-assessment.md) and [whole-event semiology](03-semiology-and-event-sequence.md). Individual methods not fully appraised there remain for staged review.
+Expanded pages: [typical-event video-EEG](01-typical-event-assessment-and-video-eeg.md), [smartphone-video assessment](02-smartphone-video-assessment.md) and [whole-event semiology](03-semiology-and-event-sequence.md).
 
 ## Original twenty entries
 
@@ -18,7 +18,7 @@ A specialist interprets a familiar event’s video together with its EEG. A comp
 
 ### Smartphone-video assessment
 
-With consent, a safely recorded spontaneous event can supplement history. A prospective masked study found added diagnostic value when experts reviewed recordings. Missing onset, poor visibility and unfamiliar events limit interpretation; recording must never delay first aid. (*citations* [4](#citation-4))
+With consent, a safely recorded spontaneous event can supplement history. A prospective masked study found added diagnostic value when experts reviewed recordings. Missing onset, poor visibility and unfamiliar events limit interpretation; recording must never delay first aid. (*citations* [1](#citation-1), [4](#citation-4), [20](#citation-20))
 
 ### Ictal eye closure
 
@@ -95,7 +95,7 @@ When the phenotype suggests syncope or apparent unresponsiveness, specialist til
 
 ## Research and Sources
 
-Original citation numbers 1–19 are retained. The AAN citation's author list and journal details have been corrected against its primary record. Expanded pages record newly reviewed evidence and access limits; inherited sources are not all freshly reviewed in full.
+Start with current AAN guidance and the semiology synthesis. Functional seizures are involuntary; assessment uses the whole event and safe clinical observations. Historical descriptions of arm-drop testing remain bibliographic references, not instructions to test conscious control. The newer smartphone review addresses epileptic-seizure diagnosis. (*citations* [1](#citation-1), [6](#citation-6), [15](#citation-15), [20](#citation-20))
 
 | Citation | Figure | Full citation |
 |---|---|---|
@@ -113,11 +113,12 @@ Original citation numbers 1–19 are retained. The AAN citation's author list an
 | <a id="citation-12"></a>**[12]** | — | Azar NJ, Tayah TF, Wang L, et al. Postictal breathing pattern distinguishes epileptic from nonepileptic convulsive seizures. *Epilepsia*. 2008;49(1):132-137. [DOI](https://doi.org/10.1111/j.1528-1167.2007.01215.x). [PMID: 17651411](https://pubmed.ncbi.nlm.nih.gov/17651411/). [FND-CIT-0159](../../../research/citation-index.md#fnd-cit-0159). |
 | <a id="citation-13"></a>**[13]** | — | Walczak TS, Bogolioubov A. Weeping during psychogenic nonepileptic seizures. *Epilepsia*. 1996;37(2):208-210. [DOI](https://doi.org/10.1111/j.1528-1157.1996.tb00013.x). [PMID: 8635432](https://pubmed.ncbi.nlm.nih.gov/8635432/). [FND-CIT-0184](../../../research/citation-index.md#fnd-cit-0184). |
 | <a id="citation-14"></a>**[14]** | — | De Paola L, Terra VC, Silvado CE, et al. Improving first responders' psychogenic nonepileptic seizures diagnosis accuracy: Development and validation of a 6-item bedside diagnostic tool. *Epilepsy & behavior : E&B*. 2016;54:40-46. [DOI](https://doi.org/10.1016/j.yebeh.2015.10.025). [PMID: 26645799](https://pubmed.ncbi.nlm.nih.gov/26645799/). [FND-CIT-0167](../../../research/citation-index.md#fnd-cit-0167). |
-| <a id="citation-15"></a>**[15]** | — | Marcus H, Aldam P, Lennox G, Laing R. Medically unexplained neurological symptoms. *JRSM short reports*. 2010;1(3):25. [DOI](https://doi.org/10.1258/shorts.2010.010035). [PMID: 21103117](https://pubmed.ncbi.nlm.nih.gov/21103117/). [FND-CIT-0153](../../../research/citation-index.md#fnd-cit-0153). |
+| <a id="citation-15"></a>**[15]** | — | Marcus H, Aldam P, Lennox G, Laing R. Medically unexplained neurological symptoms. *JRSM short reports*. 2010;1(3):25. FND-CIT-0153. |
 | <a id="citation-16"></a>**[16]** | — | Bacchi S, Slee M. Physical examination in functional unresponsiveness. *Practical neurology*. 2023;23(1):54-56. [DOI](https://doi.org/10.1136/pn-2022-003494). [PMID: 36717206](https://pubmed.ncbi.nlm.nih.gov/36717206/). [FND-CIT-0119](../../../research/citation-index.md#fnd-cit-0119). |
 | <a id="citation-17"></a>**[17]** | — | Popkirov S, Grönheit W, Wellmer J. A systematic review of suggestive seizure induction for the diagnosis of psychogenic nonepileptic seizures. *Seizure*. 2015;31:124-132. [DOI](https://doi.org/10.1016/j.seizure.2015.07.016). [PMID: 26362389](https://pubmed.ncbi.nlm.nih.gov/26362389/). [FND-CIT-0148](../../../research/citation-index.md#fnd-cit-0148). |
 | <a id="citation-18"></a>**[18]** | — | Chen DK, So YT, Fisher RS, Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology. Use of serum prolactin in diagnosing epileptic seizures: report of the Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology. *Neurology*. 2005;65(5):668-675. [DOI](https://doi.org/10.1212/01.wnl.0000178391.96957.d0). [PMID: 16157897](https://pubmed.ncbi.nlm.nih.gov/16157897/). [FND-CIT-0123](../../../research/citation-index.md#fnd-cit-0123). |
 | <a id="citation-19"></a>**[19]** | — | Tannemaat MR, van Niekerk J, Reijntjes RH, et al. The semiology of tilt-induced psychogenic pseudosyncope. *Neurology*. 2013;81(8):752-758. [DOI](https://doi.org/10.1212/wnl.0b013e3182a1aa88). [PMID: 23873974](https://pubmed.ncbi.nlm.nih.gov/23873974/). [FND-CIT-0174](../../../research/citation-index.md#fnd-cit-0174). |
+| <a id="citation-20"></a>**[20]** | — | Alva-Diaz C, Nieto-Gutierrez W, Rodriguez-López E, et al. Smartphone-based interventions for the diagnosis of epileptic seizures: A systematic review and meta-analysis. *Epilepsia*. 2025;66:3138–3152. [DOI](https://doi.org/10.1111/epi.18483). [FND-CIT-0266](../../../research/citation-index.md#fnd-cit-0266). |
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Sensory Symptoms](../07-functional-sensory-symptoms.md)

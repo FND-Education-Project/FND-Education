@@ -453,73 +453,94 @@ Read the overview sources above, then the following additions before assessing t
 
 **Access record — September 30, 2026:** Nonnekes 2020, Lagrand 2024 and Issak 2025 checked in full; Okun 2007 and Gandolfi 2023 checked at primary-abstract level. Fresh full-text review of the other inherited inventory papers remains pending. This is a targeted update, not a completed systematic review. Human-review boxes remain unchecked.
 
-- [ ] Issak S, Williams G, Kanaan RA, Fini NA, Nielsen G. Self-Reported Motor and Non-Motor Symptoms in People With Functional Gait Disorder: A Cross-Sectional Study. *Brain and Behavior*. 2025;15(2):e70208. [DOI](https://doi.org/10.1002/brb3.70208). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11802242/). Read eligibility, self-selection, exclusion of nonambulant people and the limits of cross-sectional associations. This supports daily-function context, not a psychological-cause inference.
+**Evidence-presentation review:** [October 9 decisions, currentness checks and remaining access gaps](gait-evidence-review.md).
+
 
 ### Read first — symptom-level evidence
 
 - [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. [https://doi.org/10.1212/WNL.0000000000009649](https://doi.org/10.1212/WNL.0000000000009649)
+- [ ] Issak S, Williams G, Kanaan RA, Fini NA, Nielsen G. Self-Reported Motor and Non-Motor Symptoms in People With Functional Gait Disorder: A Cross-Sectional Study. *Brain and Behavior*. 2025;15(2):e70208. [DOI](https://doi.org/10.1002/brb3.70208). Read eligibility, self-selection, exclusion of nonambulant people and the limits of cross-sectional associations. This supports daily-function context, not a psychological-cause inference.
+
+- [ ] Issak S, Kanaan R, Fini NA, Nielsen G, Williams G. Phenotyping Functional Gait Disorder: An Exploratory Analysis of Existing Frameworks. *Movement Disorders Clinical Practice*. 2026;13(4):1006–1013. Published online November 11, 2025. [DOI](https://doi.org/10.1002/mdc3.70437) Exploratory classification study; publisher abstract checked. Full methods and supplement remain to be appraised; classification agreement is not diagnostic accuracy.
+
+### Detailed assessment reading
+
+#### Sign-Based Gait Comparison
+
+**Page:** [Sign-Based Gait Comparison](../../diagnostic-signs/functional_gait_disorder/01-sign-based-gait-comparison.md)
+
+- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099.
+- [ ] Gandolfi M, Fiorio M, Geroin C, et al. Dual tasking affects gait performance but not automaticity in functional gait disorders: A new diagnostic biomarker. *Parkinsonism & related disorders*. 2023;108:105291. [Source](https://doi.org/10.1016/j.parkreldis.2023.105291)
+- [ ] Issak S, Kanaan R, Fini NA, Nielsen G, Williams G. Phenotyping Functional Gait Disorder: An Exploratory Analysis of Existing Frameworks. *Movement Disorders Clinical Practice*. 2026;13(4):1006–1013. Published online November 11, 2025.
+
+#### Swivel-Chair Assessment
+
+**Page:** [Swivel-Chair Assessment](../../diagnostic-signs/functional_gait_disorder/02-swivel-chair-assessment.md)
+
+- [ ] Okun MS, Rodriguez RL, Foote KD, Fernandez HH. The "chair test" to aid in the diagnosis of psychogenic gait disorders. *The neurologist*. 2007;13(2):87-91. [Source](https://doi.org/10.1097/01.nrl.0000256358.52613.cc)
+- [ ] Lagrand TJ, Brusse-Keizer M, Charmley A, et al. A Critical Appraisal of the Whack-a-Mole and Swivel Chair Signs in the Diagnosis of Functional Movement Disorders. *Movement disorders clinical practice*. 2024;11(1):63-68.
 
 ### Technique / inventory review order
 
 #### Knee buckling with preserved support
 
-- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. https://doi.org/10.1212/WNL.0000000000009649
+- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099.
 - [ ] Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of bedside 'positive signs' for functional weakness, sensory and gait disorders in conversion disorder: a pilot study. *Journal of neurology, neurosurgery, and psychiatry*. 2015;86(4):425-430. DOI. PMID: 24994927.
 
 #### Dragging and uneconomic postures
 
-- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. https://doi.org/10.1212/WNL.0000000000009649
-- [ ] Hayes MW, Graham S, Heldorf P, et al. A video review of the diagnosis of psychogenic gait: appendix and commentary. *Movement disorders : official journal of the Movement Disorder Society*. 1999;14(6):914-921. [DOI](https://doi.org/10.1002/1531-8257%28199911%2914:6%3C914::aid-mds1002%3E3.0.co;2-b). [PMID: 10584664](https://pubmed.ncbi.nlm.nih.gov/10584664/).
+- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099.
+- [ ] Hayes MW, Graham S, Heldorf P, et al. A video review of the diagnosis of psychogenic gait: appendix and commentary. *Movement disorders : official journal of the Movement Disorder Society*. 1999;14(6):914-921. [DOI](https://doi.org/10.1002/1531-8257%28199911%2914:6%3C914::aid-mds1002%3E3.0.co;2-b).
 
 #### Cautious “walking on ice” pattern
 
-- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. https://doi.org/10.1212/WNL.0000000000009649
+- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099.
 - [ ] Hayes MW, Graham S, Heldorf P, et al. A video review of the diagnosis of psychogenic gait: appendix and commentary. *Movement disorders : official journal of the Movement Disorder Society*. 1999;14(6):914-921. DOI. PMID: 10584664.
 
 #### Dual-task walking
 
-- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. https://doi.org/10.1212/WNL.0000000000009649
-- [ ] Gandolfi M, Fiorio M, Geroin C, et al. Dual tasking affects gait performance but not automaticity in functional gait disorders: A new diagnostic biomarker. *Parkinsonism & related disorders*. 2023;108:105291. [DOI](https://doi.org/10.1016/j.parkreldis.2023.105291). [PMID: 36764083](https://pubmed.ncbi.nlm.nih.gov/36764083/).
+- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099.
+- [ ] Gandolfi M, Fiorio M, Geroin C, et al. Dual tasking affects gait performance but not automaticity in functional gait disorders: A new diagnostic biomarker. *Parkinsonism & related disorders*. 2023;108:105291.
 
 #### Backward walking
 
-- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. https://doi.org/10.1212/WNL.0000000000009649
+- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099.
 
 #### Running or another automatic movement
 
-- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. https://doi.org/10.1212/WNL.0000000000009649
+- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099.
 
 #### Rhythm and externally cued walking
 
-- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. https://doi.org/10.1212/WNL.0000000000009649
+- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099.
 
 #### Tandem gait
 
-- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. https://doi.org/10.1212/WNL.0000000000009649
+- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099.
 - [ ] Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of bedside 'positive signs' for functional weakness, sensory and gait disorders in conversion disorder: a pilot study. *Journal of neurology, neurosurgery, and psychiatry*. 2015;86(4):425-430. DOI. PMID: 24994927.
 
 #### Romberg comparison
 
-- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. https://doi.org/10.1212/WNL.0000000000009649
+- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099.
 - [ ] Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of bedside 'positive signs' for functional weakness, sensory and gait disorders in conversion disorder: a pilot study. *Journal of neurology, neurosurgery, and psychiatry*. 2015;86(4):425-430. DOI. PMID: 24994927.
 
 #### Postural-response comparison
 
-- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099. https://doi.org/10.1212/WNL.0000000000009649
+- [ ] Nonnekes J, Růžička E, Serranová T, Reich SG, Bloem BR, Hallett M. Functional gait disorders: a sign-based approach. *Neurology*. 2020;94(24):1093–1099.
 
 #### Swivel-chair test
 
-- [ ] Okun MS, Rodriguez RL, Foote KD, Fernandez HH. The "chair test" to aid in the diagnosis of psychogenic gait disorders. *The neurologist*. 2007;13(2):87-91. [DOI](https://doi.org/10.1097/01.nrl.0000256358.52613.cc). [PMID: 17351529](https://pubmed.ncbi.nlm.nih.gov/17351529/).
+- [ ] Okun MS, Rodriguez RL, Foote KD, Fernandez HH. The "chair test" to aid in the diagnosis of psychogenic gait disorders. *The neurologist*. 2007;13(2):87-91.
 - [ ] Lagrand TJ, Brusse-Keizer M, Charmley A, et al. A Critical Appraisal of the Whack-a-Mole and Swivel Chair Signs in the Diagnosis of Functional Movement Disorders. *Movement disorders clinical practice*. 2024;11(1):63-68. DOI. PMID: 38291841.
 
 #### Effort-associated behaviour (“huffing and puffing”)
 
-- [ ] Laub HN, Dwivedi AK, Revilla FJ, et al. Diagnostic performance of the "Huffing and Puffing" sign in psychogenic (functional) movement disorders. *Movement disorders clinical practice*. 2015;2(1):29-32. [DOI](https://doi.org/10.1002/mdc3.12102). [PMID: 25961068](https://pubmed.ncbi.nlm.nih.gov/25961068/).
+- [ ] Laub HN, Dwivedi AK, Revilla FJ, et al. Diagnostic performance of the "Huffing and Puffing" sign in psychogenic (functional) movement disorders. *Movement disorders clinical practice*. 2015;2(1):29-32. [DOI](https://doi.org/10.1002/mdc3.12102).
 
 #### Instrumented balance and adaptation studies
 
-- [ ] Wolfsegger T, Pischinger B, Topakian R. Objectification of psychogenic postural instability by trunk sway analysis. *Journal of the neurological sciences*. 2013;334(1-2):14-17. [DOI](https://doi.org/10.1016/j.jns.2013.07.006). [PMID: 23932398](https://pubmed.ncbi.nlm.nih.gov/23932398/).
-- [ ] Lin D, Castro P, Edwards A, et al. Dissociated motor learning and de-adaptation in patients with functional gait disorders. *Brain : a journal of neurology*. 2020;143(8):2594-2606. [DOI](https://doi.org/10.1093/brain/awaa190). [PMID: 32779724](https://pubmed.ncbi.nlm.nih.gov/32779724/).
+- [ ] Wolfsegger T, Pischinger B, Topakian R. Objectification of psychogenic postural instability by trunk sway analysis. *Journal of the neurological sciences*. 2013;334(1-2):14-17. [DOI](https://doi.org/10.1016/j.jns.2013.07.006).
+- [ ] Lin D, Castro P, Edwards A, et al. Dissociated motor learning and de-adaptation in patients with functional gait disorders. *Brain : a journal of neurology*. 2020;143(8):2594-2606. [DOI](https://doi.org/10.1093/brain/awaa190).
 
 ### Review completion
 
@@ -537,48 +558,79 @@ Read the overview sources above, then the following additions before assessing t
 
 **Access record — October 1, 2026:** AAN clinician summary read; full evidence supplement not independently reappraised. Smartphone-study, semiology-synthesis and CODES-baseline main-text methods/results/limitations checked; relevant full-text sections checked for Whitehead, Freund and Hingray. Original 2013 ILAE full criteria and fresh individual review of remaining inherited papers are pending. Human-review boxes remain unchecked.
 
-### Added essential reading
-
-- [ ] Whitehead K, Kane N, Wardrope A, Kandler R, Reuber M. Proposal for best practice in the use of video-EEG when psychogenic non-epileptic seizures are a possible diagnosis. *Clinical Neurophysiology Practice*. 2017;2:130–139. [DOI](https://doi.org/10.1016/j.cnp.2017.06.002). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/).
-- [ ] Freund B, Tatum WO. Pitfalls using smartphones videos in diagnosing functional seizures. *Epilepsy & Behavior Reports*. 2021;16:100497. [DOI](https://doi.org/10.1016/j.ebr.2021.100497). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646964/).
-- [ ] Hingray C, Popkirov S, Kozlowska K, et al. Functional/dissociative seizures: Proposal for a new diagnostic label and definition by the ILAE task force. *Epilepsia*. 2025;66(11):4162–4182. [DOI](https://doi.org/10.1111/epi.18574). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC12661283/).
-- [ ] Goldstein LH, Robinson EJ, Mellers JDC, et al. Psychological and demographic characteristics of 368 patients with dissociative seizures: data from the CODES cohort. *Psychological Medicine*. 2021;51(14):2433–2445. Published online May 11, 2020. [DOI](https://doi.org/10.1017/S0033291720001051). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8506352/).
-
-Read the definition as a proposal, the CODES findings as associations, the Whitehead paper as guidance, and the smartphone pitfall as a case report. Use current AAN recommendations alongside the older staged-certainty framework.
+**Evidence-presentation review:** [October 9 decisions, currentness checks and remaining access gaps](seizures-evidence-review.md).
 
 ### Read first — symptom-level evidence
 
-- [ ] Tolchin B, Baslet G, Dworetzky BA, et al. Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee. *Neurology*. 2026. [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466)
+- [ ] Tolchin B, Goldstein LH, Reuber M, et al. Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466)
 - [ ] Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36.
+
+### Added essential reading
+
+- [ ] Whitehead K, Kane N, Wardrope A, Kandler R, Reuber M. Proposal for best practice in the use of video-EEG when psychogenic non-epileptic seizures are a possible diagnosis. *Clinical Neurophysiology Practice*. 2017;2:130–139. [DOI](https://doi.org/10.1016/j.cnp.2017.06.002).
+- [ ] Freund B, Tatum WO. Pitfalls using smartphones videos in diagnosing functional seizures. *Epilepsy & Behavior Reports*. 2021;16:100497. [DOI](https://doi.org/10.1016/j.ebr.2021.100497).
+- [ ] Hingray C, Popkirov S, Kozlowska K, et al. Functional/dissociative seizures: Proposal for a new diagnostic label and definition by the ILAE task force. *Epilepsia*. 2025;66(11):4162–4182. [DOI](https://doi.org/10.1111/epi.18574).
+- [ ] Goldstein LH, Robinson EJ, Mellers JDC, et al. Psychological and demographic characteristics of 368 patients with dissociative seizures: data from the CODES cohort. *Psychological Medicine*. 2021;51(14):2433–2445. Published online May 11, 2020. [DOI](https://doi.org/10.1017/S0033291720001051).
+
+Read the definition as a proposal, the CODES findings as associations, the Whitehead paper as guidance, and the smartphone pitfall as a case report. Use current AAN recommendations alongside the older staged-certainty framework.
+
+- [ ] Alva-Diaz C, Nieto-Gutierrez W, Rodriguez-López E, et al. Smartphone-based interventions for the diagnosis of epileptic seizures: A systematic review and meta-analysis. *Epilepsia*. 2025;66:3138–3152. [DOI](https://doi.org/10.1111/epi.18483) Systematic review of smartphone interventions for epileptic-seizure diagnosis; publisher abstract checked. Full methods, constituent studies and evidence-certainty appraisal remain pending. Do not relabel pooled epilepsy estimates as functional-seizure accuracy.
+
+### Detailed assessment reading
+
+#### Typical-Event Assessment and Video-EEG
+
+**Page:** [Typical-Event Assessment and Video-EEG](../../diagnostic-signs/functional_seizures/01-typical-event-assessment-and-video-eeg.md)
+
+- [ ] Tolchin B, Goldstein LH, Reuber M, et al. Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466.
+- [ ] Whitehead K, Kane N, Wardrope A, Kandler R, Reuber M. Proposal for best practice in the use of video-EEG when psychogenic non-epileptic seizures are a possible diagnosis. *Clinical Neurophysiology Practice*. 2017;2:130–139.
+- [ ] LaFrance WC, Baker GA, Duncan R, et al. Minimum requirements for the diagnosis of psychogenic nonepileptic seizures: a staged approach: a report from the International League Against Epilepsy Nonepileptic Seizures Task Force. *Epilepsia*. 2013;54(11):2005-2018. [Source](https://doi.org/10.1111/epi.12356)
+
+#### Smartphone-Video Assessment
+
+**Page:** [Smartphone-Video Assessment](../../diagnostic-signs/functional_seizures/02-smartphone-video-assessment.md)
+
+- [ ] Tolchin B, Goldstein LH, Reuber M, et al. Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466.
+- [ ] Tatum WO, Hirsch LJ, Gelfand MA, et al. Assessment of the Predictive Value of Outpatient Smartphone Videos for Diagnosis of Epileptic Seizures. *JAMA neurology*. 2020;77(5):593-600. [Source](https://doi.org/10.1001/jamaneurol.2019.4785)
+- [ ] Freund B, Tatum WO. Pitfalls using smartphones videos in diagnosing functional seizures. *Epilepsy & Behavior Reports*. 2021;16:100497.
+- [ ] Alva-Diaz C, Nieto-Gutierrez W, Rodriguez-López E, et al. Smartphone-based interventions for the diagnosis of epileptic seizures: A systematic review and meta-analysis. *Epilepsia*. 2025;66:3138–3152.
+
+#### Semiology and the Whole Event Sequence
+
+**Page:** [Semiology and the Whole Event Sequence](../../diagnostic-signs/functional_seizures/03-semiology-and-event-sequence.md)
+
+- [ ] Tolchin B, Goldstein LH, Reuber M, et al. Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466.
+- [ ] Muthusamy S, Seneviratne U, Ding C, Phan TG. Using Semiology to Classify Epileptic Seizures vs Psychogenic Nonepileptic Seizures: A Meta-analysis. *Neurology. Clinical practice*. 2022;12(3):234-247. [Source](https://doi.org/10.1212/cpj.0000000000001170)
+- [ ] Whitehead K, Kane N, Wardrope A, Kandler R, Reuber M. Proposal for best practice in the use of video-EEG when psychogenic non-epileptic seizures are a possible diagnosis. *Clinical Neurophysiology Practice*. 2017;2:130–139.
 
 ### Technique / inventory review order
 
 #### Typical-event video-EEG
 
-- [ ] Tolchin B, Baslet G, Dworetzky BA, et al. Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee. *Neurology*. 2026. https://doi.org/10.1212/WNL.0000000000214466
-- [ ] LaFrance WC, Baker GA, Duncan R, et al. Minimum requirements for the diagnosis of psychogenic nonepileptic seizures: a staged approach: a report from the International League Against Epilepsy Nonepileptic Seizures Task Force. *Epilepsia*. 2013;54(11):2005-2018. [DOI](https://doi.org/10.1111/epi.12356). [PMID: 24111933](https://pubmed.ncbi.nlm.nih.gov/24111933/).
+- [ ] Tolchin B, Goldstein LH, Reuber M, et al. Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466.
+- [ ] LaFrance WC, Baker GA, Duncan R, et al. Minimum requirements for the diagnosis of psychogenic nonepileptic seizures: a staged approach: a report from the International League Against Epilepsy Nonepileptic Seizures Task Force. *Epilepsia*. 2013;54(11):2005-2018.
 
 #### Smartphone-video assessment
 
-- [ ] Tatum WO, Hirsch LJ, Gelfand MA, et al. Assessment of the Predictive Value of Outpatient Smartphone Videos for Diagnosis of Epileptic Seizures. *JAMA neurology*. 2020;77(5):593-600. [DOI](https://doi.org/10.1001/jamaneurol.2019.4785). [PMID: 31961382](https://pubmed.ncbi.nlm.nih.gov/31961382/).
+- [ ] Tatum WO, Hirsch LJ, Gelfand MA, et al. Assessment of the Predictive Value of Outpatient Smartphone Videos for Diagnosis of Epileptic Seizures. *JAMA neurology*. 2020;77(5):593-600.
 
 #### Ictal eye closure
 
-- [ ] Chung SS, Gerber P, Kirlin KA. Ictal eye closure is a reliable indicator for psychogenic nonepileptic seizures. *Neurology*. 2006;66(11):1730-1731. [DOI](https://doi.org/10.1212/01.wnl.0000218160.31537.87). [PMID: 16769949](https://pubmed.ncbi.nlm.nih.gov/16769949/).
-- [ ] Muthusamy S, Seneviratne U, Ding C, Phan TG. Using Semiology to Classify Epileptic Seizures vs Psychogenic Nonepileptic Seizures: A Meta-analysis. *Neurology. Clinical practice*. 2022;12(3):234-247. [DOI](https://doi.org/10.1212/cpj.0000000000001170). [PMID: 35747545](https://pubmed.ncbi.nlm.nih.gov/35747545/).
+- [ ] Chung SS, Gerber P, Kirlin KA. Ictal eye closure is a reliable indicator for psychogenic nonepileptic seizures. *Neurology*. 2006;66(11):1730-1731. [DOI](https://doi.org/10.1212/01.wnl.0000218160.31537.87).
+- [ ] Muthusamy S, Seneviratne U, Ding C, Phan TG. Using Semiology to Classify Epileptic Seizures vs Psychogenic Nonepileptic Seizures: A Meta-analysis. *Neurology. Clinical practice*. 2022;12(3):234-247.
 
 #### Asynchronous limb movements
 
 - [ ] Muthusamy S, Seneviratne U, Ding C, Phan TG. Using Semiology to Classify Epileptic Seizures vs Psychogenic Nonepileptic Seizures: A Meta-analysis. *Neurology. Clinical practice*. 2022;12(3):234-247. DOI. PMID: 35747545.
-- [ ] Gates JR, Ramani V, Whalen S, Loewenson R. Ictal characteristics of pseudoseizures. *Archives of neurology*. 1985;42(12):1183-1187. [DOI](https://doi.org/10.1001/archneur.1985.04060110065017). [PMID: 3933461](https://pubmed.ncbi.nlm.nih.gov/3933461/).
+- [ ] Gates JR, Ramani V, Whalen S, Loewenson R. Ictal characteristics of pseudoseizures. *Archives of neurology*. 1985;42(12):1183-1187. [DOI](https://doi.org/10.1001/archneur.1985.04060110065017).
 
 #### Fluctuating course
 
-- [ ] Duncan AJ, Peric I, Boston R, Seneviratne U. Predictive semiology of psychogenic non-epileptic seizures in an epilepsy monitoring unit. *Journal of neurology*. 2022;269(4):2172-2178. [DOI](https://doi.org/10.1007/s00415-021-10805-1). [PMID: 34550469](https://pubmed.ncbi.nlm.nih.gov/34550469/).
+- [ ] Duncan AJ, Peric I, Boston R, Seneviratne U. Predictive semiology of psychogenic non-epileptic seizures in an epilepsy monitoring unit. *Journal of neurology*. 2022;269(4):2172-2178. [DOI](https://doi.org/10.1007/s00415-021-10805-1).
 
 #### Event duration
 
-- [ ] Seneviratne U, Minato E, Paul E. How reliable is ictal duration to differentiate psychogenic nonepileptic seizures from epileptic seizures? *Epilepsy & behavior : E&B*. 2017;66:127-131. [DOI](https://doi.org/10.1016/j.yebeh.2016.10.024). [PMID: 28039841](https://pubmed.ncbi.nlm.nih.gov/28039841/).
+- [ ] Seneviratne U, Minato E, Paul E. How reliable is ictal duration to differentiate psychogenic nonepileptic seizures from epileptic seizures? *Epilepsy & behavior : E&B*. 2017;66:127-131. [DOI](https://doi.org/10.1016/j.yebeh.2016.10.024).
 
 #### Side-to-side head movement
 
@@ -588,7 +640,7 @@ Read the definition as a proposal, the CODES findings as associations, the White
 #### Pelvic thrusting
 
 - [ ] Muthusamy S, Seneviratne U, Ding C, Phan TG. Using Semiology to Classify Epileptic Seizures vs Psychogenic Nonepileptic Seizures: A Meta-analysis. *Neurology. Clinical practice*. 2022;12(3):234-247. DOI. PMID: 35747545.
-- [ ] Geyer JD, Payne TA, Drury I. The value of pelvic thrusting in the diagnosis of seizures and pseudoseizures. *Neurology*. 2000;54(1):227-229. [DOI](https://doi.org/10.1212/wnl.54.1.227). [PMID: 10636155](https://pubmed.ncbi.nlm.nih.gov/10636155/).
+- [ ] Geyer JD, Payne TA, Drury I. The value of pelvic thrusting in the diagnosis of seizures and pseudoseizures. *Neurology*. 2000;54(1):227-229. [DOI](https://doi.org/10.1212/wnl.54.1.227).
 
 #### Back arching
 
@@ -597,7 +649,7 @@ Read the definition as a proposal, the CODES findings as associations, the White
 #### Ictal responsiveness
 
 - [ ] LaFrance WC, Baker GA, Duncan R, et al. Minimum requirements for the diagnosis of psychogenic nonepileptic seizures: a staged approach: a report from the International League Against Epilepsy Nonepileptic Seizures Task Force. *Epilepsia*. 2013;54(11):2005-2018. DOI. PMID: 24111933.
-- [ ] Wardrope A, Wong S, McLaughlan J, et al. Peri-ictal responsiveness to the social environment is greater in psychogenic nonepileptic than epileptic seizures. *Epilepsia*. 2020;61(4):758-765. [DOI](https://doi.org/10.1111/epi.16471). [PMID: 32154929](https://pubmed.ncbi.nlm.nih.gov/32154929/).
+- [ ] Wardrope A, Wong S, McLaughlan J, et al. Peri-ictal responsiveness to the social environment is greater in psychogenic nonepileptic than epileptic seizures. *Epilepsia*. 2020;61(4):758-765. [DOI](https://doi.org/10.1111/epi.16471).
 
 #### Recall of the event
 
@@ -606,16 +658,16 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 #### Postictal breathing and recovery
 
-- [ ] Azar NJ, Tayah TF, Wang L, et al. Postictal breathing pattern distinguishes epileptic from nonepileptic convulsive seizures. *Epilepsia*. 2008;49(1):132-137. [DOI](https://doi.org/10.1111/j.1528-1167.2007.01215.x). [PMID: 17651411](https://pubmed.ncbi.nlm.nih.gov/17651411/).
+- [ ] Azar NJ, Tayah TF, Wang L, et al. Postictal breathing pattern distinguishes epileptic from nonepileptic convulsive seizures. *Epilepsia*. 2008;49(1):132-137. [DOI](https://doi.org/10.1111/j.1528-1167.2007.01215.x).
 
 #### Ictal crying or weeping
 
 - [ ] Muthusamy S, Seneviratne U, Ding C, Phan TG. Using Semiology to Classify Epileptic Seizures vs Psychogenic Nonepileptic Seizures: A Meta-analysis. *Neurology. Clinical practice*. 2022;12(3):234-247. DOI. PMID: 35747545.
-- [ ] Walczak TS, Bogolioubov A. Weeping during psychogenic nonepileptic seizures. *Epilepsia*. 1996;37(2):208-210. [DOI](https://doi.org/10.1111/j.1528-1157.1996.tb00013.x). [PMID: 8635432](https://pubmed.ncbi.nlm.nih.gov/8635432/).
+- [ ] Walczak TS, Bogolioubov A. Weeping during psychogenic nonepileptic seizures. *Epilepsia*. 1996;37(2):208-210. [DOI](https://doi.org/10.1111/j.1528-1157.1996.tb00013.x).
 
 #### Combined semiology tools
 
-- [ ] De Paola L, Terra VC, Silvado CE, et al. Improving first responders' psychogenic nonepileptic seizures diagnosis accuracy: Development and validation of a 6-item bedside diagnostic tool. *Epilepsy & behavior : E&B*. 2016;54:40-46. [DOI](https://doi.org/10.1016/j.yebeh.2015.10.025). [PMID: 26645799](https://pubmed.ncbi.nlm.nih.gov/26645799/).
+- [ ] De Paola L, Terra VC, Silvado CE, et al. Improving first responders' psychogenic nonepileptic seizures diagnosis accuracy: Development and validation of a 6-item bedside diagnostic tool. *Epilepsy & behavior : E&B*. 2016;54:40-46. [DOI](https://doi.org/10.1016/j.yebeh.2015.10.025).
 
 #### ILAE diagnostic-certainty framework
 
@@ -632,17 +684,17 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 #### Suggestion and induction protocols
 
-- [ ] Tolchin B, Baslet G, Dworetzky BA, et al. Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee. *Neurology*. 2026. https://doi.org/10.1212/WNL.0000000000214466
-- [ ] Popkirov S, Grönheit W, Wellmer J. A systematic review of suggestive seizure induction for the diagnosis of psychogenic nonepileptic seizures. *Seizure*. 2015;31:124-132. [DOI](https://doi.org/10.1016/j.seizure.2015.07.016). [PMID: 26362389](https://pubmed.ncbi.nlm.nih.gov/26362389/).
+- [ ] Tolchin B, Goldstein LH, Reuber M, et al. Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466.
+- [ ] Popkirov S, Grönheit W, Wellmer J. A systematic review of suggestive seizure induction for the diagnosis of psychogenic nonepileptic seizures. *Seizure*. 2015;31:124-132. [DOI](https://doi.org/10.1016/j.seizure.2015.07.016).
 
 #### Prolactin, lactate and creatine kinase
 
-- [ ] Tolchin B, Baslet G, Dworetzky BA, et al. Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee. *Neurology*. 2026. https://doi.org/10.1212/WNL.0000000000214466
-- [ ] Chen DK, So YT, Fisher RS, Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology. Use of serum prolactin in diagnosing epileptic seizures: report of the Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology. *Neurology*. 2005;65(5):668-675. [DOI](https://doi.org/10.1212/01.wnl.0000178391.96957.d0). [PMID: 16157897](https://pubmed.ncbi.nlm.nih.gov/16157897/).
+- [ ] Tolchin B, Goldstein LH, Reuber M, et al. Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466.
+- [ ] Chen DK, So YT, Fisher RS, Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology. Use of serum prolactin in diagnosing epileptic seizures: report of the Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology. *Neurology*. 2005;65(5):668-675. [DOI](https://doi.org/10.1212/01.wnl.0000178391.96957.d0).
 
 #### Tilt testing for apparent blackouts
 
-- [ ] Tannemaat MR, van Niekerk J, Reijntjes RH, et al. The semiology of tilt-induced psychogenic pseudosyncope. *Neurology*. 2013;81(8):752-758. [DOI](https://doi.org/10.1212/wnl.0b013e3182a1aa88). [PMID: 23873974](https://pubmed.ncbi.nlm.nih.gov/23873974/).
+- [ ] Tannemaat MR, van Niekerk J, Reijntjes RH, et al. The semiology of tilt-induced psychogenic pseudosyncope. *Neurology*. 2013;81(8):752-758. [DOI](https://doi.org/10.1212/wnl.0b013e3182a1aa88).
 
 ### Review completion
 

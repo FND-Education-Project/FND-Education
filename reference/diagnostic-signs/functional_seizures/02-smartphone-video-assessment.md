@@ -154,13 +154,11 @@ When a clip supports a diagnosis, explain the actual combination of findings and
 
 ## Evidence and Limitations
 
-Tatum and colleagues prospectively studied **44 adult outpatients at eight specialist centres**: final diagnoses were 11 epileptic, 30 functional/psychogenic nonepileptic and three other physiological events. Ten experts and nine senior residents reviewed videos masked to the final video-EEG diagnosis. Adding video to history/examination improved diagnostic accuracy in the study. (*citations* [2](#citation-2))
+Current AAN guidance supports specialist use of smartphone videos alongside history and other findings. A 2025 systematic review also supports their diagnostic value, but its pooled video estimates concern identifying epileptic seizures, not confirming functional seizures. (*citations* [1](#citation-1), [4](#citation-4))
 
-The small, self-selected sample, specialist setting, multiple ratings of the same videos and handling of “unknown” responses limit generalization. The widely cited 89.1% expert accuracy concerned prediction of epileptic seizures; it is not a universal accuracy figure for functional seizures or for public interpretation of videos. (*citations* [2](#citation-2))
+In Tatum and colleagues' prospective study, experts and senior residents reviewed recordings from **44 adult outpatients at eight specialist centres**, masked to the final video-EEG diagnosis. Adding video to history and examination improved accuracy. The small selected adult sample does not establish equivalent performance for children, nonmotor events or public interpretation of clips. (*citations* [2](#citation-2))
 
-Freund and Tatum's report describes one postictal misclassification pitfall; it illustrates a failure mode, not its frequency in practice. (*citations* [3](#citation-3))
-
-Full-text methods/results/limitations of the prospective study and the pitfall report's case and interpretation were checked October 1, 2026. Evidence for children, nonmotor events and nonspecialist performance cannot simply be inferred from this adult specialist study.
+Freund and Tatum's case report illustrates why onset and recovery matter: a clip interpreted as functional showed recovery after an epileptic seizure. A useful recording still needs its clinical context. (*citations* [3](#citation-3))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -203,6 +201,7 @@ The prospective study supports video as an adjunct. The case report explains why
 | <a id="citation-1"></a>**[1]** | — | Tolchin B, Goldstein LH, Reuber M, et al. Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) [AAN clinician summary](https://aanfiles.blob.core.windows.net/guidelines/2cceae40-edcf-484d-9054-bbdf76206bca/25_FunctionalSeizure-ClinGL_v03b.pdf). |
 | <a id="citation-2"></a>**[2]** | — | Tatum WO, Hirsch LJ, Gelfand MA, et al. Assessment of the Predictive Value of Outpatient Smartphone Videos for Diagnosis of Epileptic Seizures. *JAMA neurology*. 2020;77(5):593-600. [DOI](https://doi.org/10.1001/jamaneurol.2019.4785). [PMID: 31961382](https://pubmed.ncbi.nlm.nih.gov/31961382/). [FND-CIT-0168](../../../research/citation-index.md#fnd-cit-0168). |
 | <a id="citation-3"></a>**[3]** | — | Freund B, Tatum WO. Pitfalls using smartphones videos in diagnosing functional seizures. *Epilepsy & Behavior Reports*. 2021;16:100497. [DOI](https://doi.org/10.1016/j.ebr.2021.100497). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8646964/). [FND-CIT-0234](../../../research/citation-index.md#fnd-cit-0234). |
+| <a id="citation-4"></a>**[4]** | — | Alva-Diaz C, Nieto-Gutierrez W, Rodriguez-López E, et al. Smartphone-based interventions for the diagnosis of epileptic seizures: A systematic review and meta-analysis. *Epilepsia*. 2025;66:3138–3152. [DOI](https://doi.org/10.1111/epi.18483). [FND-CIT-0266](../../../research/citation-index.md#fnd-cit-0266). |
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
