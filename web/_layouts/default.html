@@ -115,7 +115,7 @@
   <main
     id="main-content"
     class="site-main"
-    {% if page.search_page %}
+    {% if page.search_page or page.robots contains "noindex" %}
       data-pagefind-ignore="all"
     {% else %}
       data-pagefind-body
