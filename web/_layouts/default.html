@@ -30,6 +30,20 @@
 
   <link rel="canonical" href="{{ page.url | absolute_url }}">
 
+  {% assign social_title = page.title | default: site.title %}
+  {% assign social_description = page.description | default: site.description %}
+  <meta property="og:title" content="{{ social_title | escape }}">
+  <meta property="og:description" content="{{ social_description | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  {% if site.social_image %}
+  <meta property="og:image" content="{{ site.social_image | absolute_url }}">
+  {% if site.social_image_alt %}
+  <meta property="og:image:alt" content="{{ site.social_image_alt | escape }}">
+  {% endif %}
+  {% endif %}
+
   {% include structured-data.html %}
   
   <link
