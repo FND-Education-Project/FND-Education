@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="logo-title logo-description">
+<title id="logo-title">FND Education Project logo</title>
+<desc id="logo-description">A white bold hand-drawn F on a teal rounded square, with a gold inset border that becomes a gentle irregular wave down one edge.</desc>
+<rect width="64" height="64" rx="12" fill="#176b78"/>
+
+<defs>
+  <linearGradient id="fade-top" x1="34" y1="10" x2="51" y2="10" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#efc365"/>
+    <stop offset="1" stop-color="#efc365" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="fade-wave" x1="53" y1="17" x2="53" y2="51" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#efc365" stop-opacity="0"/>
+    <stop offset=".25" stop-color="#efc365"/>
+    <stop offset=".62" stop-color="#efc365"/>
+    <stop offset="1" stop-color="#efc365" stop-opacity=".12"/>
+  </linearGradient>
+</defs>
+
+
+<g fill="none" stroke="#efc365" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M10 35 V19 Q10 10 19 10 H34"/>
+  <path d="M10 39 V45 Q10 54 19 54 H25" opacity=".86"/>
+  <path d="M29 54 H34.5" opacity=".6"/>
+  <path d="M38 53.8 Q42 53.7 44 53.2" opacity=".4"/>
+</g>
+<g fill="none" stroke-width="2" stroke-linecap="round">
+  <path d="M34 10 H49" stroke="url(#fade-top)"/>
+  <path d="M52.6 17 C54 21 55.2 23 54.1 26.8 S51.2 32 53.8 35.1 S55.2 39.2 53.3 42.4 S52.8 47.8 50.5 50" stroke="url(#fade-wave)"/>
+</g>
+<path d="M47.5 51.2 l-1.8 .9" fill="none" stroke="#efc365" stroke-width="1.65" stroke-linecap="round" opacity=".39"/>
+
+
+<path fill="#ffffff" d="
+  M21.8 16.0
+  Q21.8 14.5 23.3 14.5
+  L41.2 14.0
+  Q42.8 14.0 43.0 15.6
+  L43.4 20.2
+  Q43.6 21.9 41.8 22.0
+  L29.1 22.3
+  L29.2 29.8
+  L40.6 29.8
+  Q42.2 29.8 42.2 31.4
+  L42.2 36.0
+  Q42.2 37.6 40.6 37.6
+  L29.2 37.6
+  L29.2 49.0
+  Q29.2 50.8 27.4 50.8
+  L22.8 50.8
+  Q21.0 50.8 21.0 49.0
+  Z"/>
+
+</svg>
