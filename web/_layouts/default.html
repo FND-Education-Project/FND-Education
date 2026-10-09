@@ -72,32 +72,39 @@
   </a>
 
   <header class="site-header">
-    <div class="site-wide">
+    <div class="site-wide site-header-grid">
 
-      <div class="site-header-row">
-        <a class="site-name" href="{{ '/' | relative_url }}">
-          FND Education Project
-        </a>
+      <img
+        class="site-logo"
+        src="{{ '/assets/icons/fnd-logo.svg' | relative_url }}"
+        alt=""
+        width="64"
+        height="64"
+        aria-hidden="true"
+      >
 
-        <form
-          class="site-search-form"
-          action="{{ '/search/' | relative_url }}"
-          method="get"
-          role="search"
+      <a class="site-name" href="{{ '/' | relative_url }}">
+        FND Education Project
+      </a>
+
+      <form
+        class="site-search-form"
+        action="{{ '/search/' | relative_url }}"
+        method="get"
+        role="search"
+      >
+        <label class="visually-hidden" for="site-search-query">
+          Search the FND Education Project
+        </label>
+        <input
+          id="site-search-query"
+          name="q"
+          type="search"
+          placeholder="Search"
+          autocomplete="off"
         >
-          <label class="visually-hidden" for="site-search-query">
-            Search the FND Education Project
-          </label>
-          <input
-            id="site-search-query"
-            name="q"
-            type="search"
-            placeholder="Search"
-            autocomplete="off"
-          >
-          <button type="submit">Search</button>
-        </form>
-      </div>
+        <button type="submit">Search</button>
+      </form>
 
       <nav class="site-nav" aria-label="Main navigation">
         <a href="{{ '/' | relative_url }}">Home</a>
