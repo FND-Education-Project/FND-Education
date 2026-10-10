@@ -6,9 +6,9 @@
 
 > **Automatically generated working draft — September 30, 2026.** Human and clinical review pending.
 
-All thirteen original entries are preserved below. No entry has been added to or removed from this symptom's baseline. These include descriptive observations and research methods as well as clinical comparisons; they are not a checklist or thirteen validated tests.
+These thirteen entries include clinical comparisons, descriptive observations and research methods. The clinician selects those that answer a relevant question safely.
 
-Expanded pages: [sign-based gait comparison](01-sign-based-gait-comparison.md) and [swivel-chair assessment](02-swivel-chair-assessment.md). Further individual evidence reviews remain pending.
+Expanded pages: [sign-based gait comparison](01-sign-based-gait-comparison.md) and [swivel-chair assessment](02-swivel-chair-assessment.md).
 
 ## Original thirteen entries
 
@@ -58,7 +58,7 @@ The person’s ability to propel a wheeled chair with their legs is compared wit
 
 ### Effort-associated behaviour (“huffing and puffing”)
 
-A video study examined marked effort-related sounds and expressions during standing and walking. Such behaviour can be supportive within a wider pattern, but pain, breathlessness and distress must be considered. It is neither evidence of pretence nor required for diagnosis. (*citations* [7](#citation-7))
+Describe effort-related sounds or expressions alongside pain, breathing and task demands. A video study found group differences but excluded people with pain as a major symptom. This observation is not a measure of honesty, willingness or actual disability, and is not required for diagnosis. (*citations* [7](#citation-7))
 
 ### Instrumented balance and adaptation studies
 
@@ -67,7 +67,7 @@ Posturography and moving-platform research assess sway and gait adaptation under
 
 ## Research and Sources
 
-Original citation numbering is retained. The detailed pages distinguish the studies reviewed in full from abstract-only access; the remaining inventory evidence awaits fresh individual review.
+The sign-based review provides the clinical framework; the later chair study evaluates one comparison. The newer gait-classification study concerns description rather than diagnostic accuracy. Read the earlier effort-behaviour study within the clinical context above. (*citations* [1](#citation-1), [6](#citation-6), [7](#citation-7), [10](#citation-10))
 
 | Citation | Figure | Full citation |
 |---|---|---|
@@ -77,9 +77,10 @@ Original citation numbering is retained. The detailed pages distinguish the stud
 | <a id="citation-4"></a>**[4]** | — | Gandolfi M, Fiorio M, Geroin C, et al. Dual tasking affects gait performance but not automaticity in functional gait disorders: A new diagnostic biomarker. *Parkinsonism & related disorders*. 2023;108:105291. [DOI](https://doi.org/10.1016/j.parkreldis.2023.105291). [PMID: 36764083](https://pubmed.ncbi.nlm.nih.gov/36764083/). [FND-CIT-0132](../../../research/citation-index.md#fnd-cit-0132). |
 | <a id="citation-5"></a>**[5]** | — | Okun MS, Rodriguez RL, Foote KD, Fernandez HH. The "chair test" to aid in the diagnosis of psychogenic gait disorders. *The neurologist*. 2007;13(2):87-91. [DOI](https://doi.org/10.1097/01.nrl.0000256358.52613.cc). [PMID: 17351529](https://pubmed.ncbi.nlm.nih.gov/17351529/). [FND-CIT-0127](../../../research/citation-index.md#fnd-cit-0127). |
 | <a id="citation-6"></a>**[6]** | — | Lagrand TJ, Brusse-Keizer M, Charmley A, et al. A Critical Appraisal of the Whack-a-Mole and Swivel Chair Signs in the Diagnosis of Functional Movement Disorders. *Movement disorders clinical practice*. 2024;11(1):63-68. [DOI](https://doi.org/10.1002/mdc3.13895). [PMID: 38291841](https://pubmed.ncbi.nlm.nih.gov/38291841/). [FND-CIT-0181](../../../research/citation-index.md#fnd-cit-0181). |
-| <a id="citation-7"></a>**[7]** | — | Laub HN, Dwivedi AK, Revilla FJ, et al. Diagnostic performance of the "Huffing and Puffing" sign in psychogenic (functional) movement disorders. *Movement disorders clinical practice*. 2015;2(1):29-32. [DOI](https://doi.org/10.1002/mdc3.12102). [PMID: 25961068](https://pubmed.ncbi.nlm.nih.gov/25961068/). [FND-CIT-0145](../../../research/citation-index.md#fnd-cit-0145). |
+| <a id="citation-7"></a>**[7]** | — | Laub HN, Dwivedi AK, Revilla FJ, et al. Diagnostic performance of the "Huffing and Puffing" sign in psychogenic (functional) movement disorders. *Movement disorders clinical practice*. 2015;2(1):29-32. FND-CIT-0145. |
 | <a id="citation-8"></a>**[8]** | — | Wolfsegger T, Pischinger B, Topakian R. Objectification of psychogenic postural instability by trunk sway analysis. *Journal of the neurological sciences*. 2013;334(1-2):14-17. [DOI](https://doi.org/10.1016/j.jns.2013.07.006). [PMID: 23932398](https://pubmed.ncbi.nlm.nih.gov/23932398/). [FND-CIT-0160](../../../research/citation-index.md#fnd-cit-0160). |
 | <a id="citation-9"></a>**[9]** | — | Lin D, Castro P, Edwards A, et al. Dissociated motor learning and de-adaptation in patients with functional gait disorders. *Brain : a journal of neurology*. 2020;143(8):2594-2606. [DOI](https://doi.org/10.1093/brain/awaa190). [PMID: 32779724](https://pubmed.ncbi.nlm.nih.gov/32779724/). [FND-CIT-0117](../../../research/citation-index.md#fnd-cit-0117). |
+| <a id="citation-10"></a>**[10]** | — | Issak S, Kanaan R, Fini NA, Nielsen G, Williams G. Phenotyping Functional Gait Disorder: An Exploratory Analysis of Existing Frameworks. *Movement Disorders Clinical Practice*. 2026;13(4):1006–1013. Published online November 11, 2025. [DOI](https://doi.org/10.1002/mdc3.70437). [FND-CIT-0265](../../../research/citation-index.md#fnd-cit-0265). |
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Seizures](../06-functional-seizures.md)

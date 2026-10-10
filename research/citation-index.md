@@ -1707,6 +1707,28 @@ Ducroizet A, Eccles C, Lancaster R, et al. Outcomes of functional tics in adoles
 
 **Editorial boundaries:** The 2022 expert review informs individualized care. Its reinforcement language is not used to justify withholding empathy, necessary assistance or accommodations. The I-CBiT paper describes a combined programme; these pages do not prescribe home suppression exercises or claim independent efficacy for its components. The new follow-up studies are observational. No new community quotations were added.
 
+
+## FND-CIT-0265
+
+Issak S, Kanaan R, Fini NA, Nielsen G, Williams G. Phenotyping Functional Gait Disorder: An Exploratory Analysis of Existing Frameworks. *Movement Disorders Clinical Practice*. 2026;13(4):1006–1013. Published online November 11, 2025. [DOI](https://doi.org/10.1002/mdc3.70437).
+
+Current uses:
+
+- [05-functional-gait-disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md).
+- [01-sign-based-gait-comparison](../reference/diagnostic-signs/functional_gait_disorder/01-sign-based-gait-comparison.md).
+- [technique-inventory](../reference/diagnostic-signs/functional_gait_disorder/technique-inventory.md).
+
+
+## FND-CIT-0266
+
+Alva-Diaz C, Nieto-Gutierrez W, Rodriguez-López E, et al. Smartphone-based interventions for the diagnosis of epileptic seizures: A systematic review and meta-analysis. *Epilepsia*. 2025;66:3138–3152. [DOI](https://doi.org/10.1111/epi.18483).
+
+Current uses:
+
+- [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md).
+- [02-smartphone-video-assessment](../reference/diagnostic-signs/functional_seizures/02-smartphone-video-assessment.md).
+- [technique-inventory](../reference/diagnostic-signs/functional_seizures/technique-inventory.md).
+
 <!-- NAV-CONTEXT:START -->
 **Research:** [Research and citation policy](../docs/project/research-and-citation-policy.md)
 
@@ -2133,10 +2155,10 @@ Cross-sectional online survey of 156 people reporting medically diagnosed FND an
 
 ### Current uses in the gait diagnostic expansion
 
-- [05-functional-gait-disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md): [FND-CIT-0020](#fnd-cit-0020), [FND-CIT-0117](#fnd-cit-0117), [FND-CIT-0127](#fnd-cit-0127), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0132](#fnd-cit-0132), [FND-CIT-0143](#fnd-cit-0143), [FND-CIT-0145](#fnd-cit-0145), [FND-CIT-0160](#fnd-cit-0160), [FND-CIT-0181](#fnd-cit-0181), [FND-CIT-0232](#fnd-cit-0232).
-- [01-sign-based-gait-comparison](../reference/diagnostic-signs/functional_gait_disorder/01-sign-based-gait-comparison.md): [FND-CIT-0020](#fnd-cit-0020), [FND-CIT-0132](#fnd-cit-0132).
+- [05-functional-gait-disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md): [FND-CIT-0020](#fnd-cit-0020), [FND-CIT-0117](#fnd-cit-0117), [FND-CIT-0127](#fnd-cit-0127), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0132](#fnd-cit-0132), [FND-CIT-0143](#fnd-cit-0143), [FND-CIT-0145](#fnd-cit-0145), [FND-CIT-0160](#fnd-cit-0160), [FND-CIT-0181](#fnd-cit-0181), [FND-CIT-0232](#fnd-cit-0232), [FND-CIT-0265](#fnd-cit-0265).
+- [01-sign-based-gait-comparison](../reference/diagnostic-signs/functional_gait_disorder/01-sign-based-gait-comparison.md): [FND-CIT-0020](#fnd-cit-0020), [FND-CIT-0132](#fnd-cit-0132), [FND-CIT-0265](#fnd-cit-0265).
 - [02-swivel-chair-assessment](../reference/diagnostic-signs/functional_gait_disorder/02-swivel-chair-assessment.md): [FND-CIT-0127](#fnd-cit-0127), [FND-CIT-0181](#fnd-cit-0181).
-- [technique-inventory](../reference/diagnostic-signs/functional_gait_disorder/technique-inventory.md): [FND-CIT-0020](#fnd-cit-0020), [FND-CIT-0117](#fnd-cit-0117), [FND-CIT-0127](#fnd-cit-0127), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0132](#fnd-cit-0132), [FND-CIT-0143](#fnd-cit-0143), [FND-CIT-0145](#fnd-cit-0145), [FND-CIT-0160](#fnd-cit-0160), [FND-CIT-0181](#fnd-cit-0181).
+- [technique-inventory](../reference/diagnostic-signs/functional_gait_disorder/technique-inventory.md): [FND-CIT-0020](#fnd-cit-0020), [FND-CIT-0117](#fnd-cit-0117), [FND-CIT-0127](#fnd-cit-0127), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0132](#fnd-cit-0132), [FND-CIT-0143](#fnd-cit-0143), [FND-CIT-0145](#fnd-cit-0145), [FND-CIT-0160](#fnd-cit-0160), [FND-CIT-0181](#fnd-cit-0181), [FND-CIT-0265](#fnd-cit-0265).
 
 ## FND-CIT-0233
 
@@ -2164,11 +2186,11 @@ CODES baseline cross-sectional study of 368 adults selected for a treatment tria
 
 ### Current uses in the functional-seizures diagnostic expansion
 
-- [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0119](#fnd-cit-0119), [FND-CIT-0123](#fnd-cit-0123), [FND-CIT-0133](#fnd-cit-0133), [FND-CIT-0139](#fnd-cit-0139), [FND-CIT-0144](#fnd-cit-0144), [FND-CIT-0146](#fnd-cit-0146), [FND-CIT-0148](#fnd-cit-0148), [FND-CIT-0153](#fnd-cit-0153), [FND-CIT-0157](#fnd-cit-0157), [FND-CIT-0159](#fnd-cit-0159), [FND-CIT-0161](#fnd-cit-0161), [FND-CIT-0163](#fnd-cit-0163), [FND-CIT-0165](#fnd-cit-0165), [FND-CIT-0167](#fnd-cit-0167), [FND-CIT-0168](#fnd-cit-0168), [FND-CIT-0174](#fnd-cit-0174), [FND-CIT-0184](#fnd-cit-0184), [FND-CIT-0233](#fnd-cit-0233), [FND-CIT-0234](#fnd-cit-0234), [FND-CIT-0235](#fnd-cit-0235), [FND-CIT-0236](#fnd-cit-0236).
+- [06-functional-seizures](../reference/diagnostic-signs/06-functional-seizures.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0119](#fnd-cit-0119), [FND-CIT-0123](#fnd-cit-0123), [FND-CIT-0133](#fnd-cit-0133), [FND-CIT-0139](#fnd-cit-0139), [FND-CIT-0144](#fnd-cit-0144), [FND-CIT-0146](#fnd-cit-0146), [FND-CIT-0148](#fnd-cit-0148), [FND-CIT-0153](#fnd-cit-0153), [FND-CIT-0157](#fnd-cit-0157), [FND-CIT-0159](#fnd-cit-0159), [FND-CIT-0161](#fnd-cit-0161), [FND-CIT-0163](#fnd-cit-0163), [FND-CIT-0165](#fnd-cit-0165), [FND-CIT-0167](#fnd-cit-0167), [FND-CIT-0168](#fnd-cit-0168), [FND-CIT-0174](#fnd-cit-0174), [FND-CIT-0184](#fnd-cit-0184), [FND-CIT-0233](#fnd-cit-0233), [FND-CIT-0234](#fnd-cit-0234), [FND-CIT-0235](#fnd-cit-0235), [FND-CIT-0236](#fnd-cit-0236), [FND-CIT-0266](#fnd-cit-0266).
 - [01-typical-event-assessment-and-video-eeg](../reference/diagnostic-signs/functional_seizures/01-typical-event-assessment-and-video-eeg.md): [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0146](#fnd-cit-0146), [FND-CIT-0233](#fnd-cit-0233).
-- [02-smartphone-video-assessment](../reference/diagnostic-signs/functional_seizures/02-smartphone-video-assessment.md): [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0168](#fnd-cit-0168), [FND-CIT-0234](#fnd-cit-0234).
+- [02-smartphone-video-assessment](../reference/diagnostic-signs/functional_seizures/02-smartphone-video-assessment.md): [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0168](#fnd-cit-0168), [FND-CIT-0234](#fnd-cit-0234), [FND-CIT-0266](#fnd-cit-0266).
 - [03-semiology-and-event-sequence](../reference/diagnostic-signs/functional_seizures/03-semiology-and-event-sequence.md): [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0165](#fnd-cit-0165), [FND-CIT-0233](#fnd-cit-0233).
-- [technique-inventory](../reference/diagnostic-signs/functional_seizures/technique-inventory.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0119](#fnd-cit-0119), [FND-CIT-0123](#fnd-cit-0123), [FND-CIT-0133](#fnd-cit-0133), [FND-CIT-0139](#fnd-cit-0139), [FND-CIT-0144](#fnd-cit-0144), [FND-CIT-0146](#fnd-cit-0146), [FND-CIT-0148](#fnd-cit-0148), [FND-CIT-0153](#fnd-cit-0153), [FND-CIT-0157](#fnd-cit-0157), [FND-CIT-0159](#fnd-cit-0159), [FND-CIT-0161](#fnd-cit-0161), [FND-CIT-0163](#fnd-cit-0163), [FND-CIT-0165](#fnd-cit-0165), [FND-CIT-0167](#fnd-cit-0167), [FND-CIT-0168](#fnd-cit-0168), [FND-CIT-0174](#fnd-cit-0174), [FND-CIT-0184](#fnd-cit-0184).
+- [technique-inventory](../reference/diagnostic-signs/functional_seizures/technique-inventory.md): [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0119](#fnd-cit-0119), [FND-CIT-0123](#fnd-cit-0123), [FND-CIT-0133](#fnd-cit-0133), [FND-CIT-0139](#fnd-cit-0139), [FND-CIT-0144](#fnd-cit-0144), [FND-CIT-0146](#fnd-cit-0146), [FND-CIT-0148](#fnd-cit-0148), [FND-CIT-0153](#fnd-cit-0153), [FND-CIT-0157](#fnd-cit-0157), [FND-CIT-0159](#fnd-cit-0159), [FND-CIT-0161](#fnd-cit-0161), [FND-CIT-0163](#fnd-cit-0163), [FND-CIT-0165](#fnd-cit-0165), [FND-CIT-0167](#fnd-cit-0167), [FND-CIT-0168](#fnd-cit-0168), [FND-CIT-0174](#fnd-cit-0174), [FND-CIT-0184](#fnd-cit-0184), [FND-CIT-0266](#fnd-cit-0266).
 
 Access update: AAN clinician summary read October 1, 2026; full evidence supplement not independently reappraised. Smartphone-study and semiology-synthesis main-text methods/results/limitations checked. The original ILAE 2013 framework and the remaining inherited inventory papers await fresh full-text review.
 

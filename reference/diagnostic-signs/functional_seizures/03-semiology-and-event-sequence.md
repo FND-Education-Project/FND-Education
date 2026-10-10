@@ -155,13 +155,11 @@ Explain which findings apply to this person. If the evidence is sufficient, give
 
 ## Evidence and Limitations
 
-The 2022 meta-analysis included **14 studies, 800 people with epileptic seizures and 452 with functional/psychogenic nonepileptic seizures**. Eye closure and asynchronous limb movements were the strongest pooled discriminators for functional events. Each estimate rested on only three studies. (*citations* [2](#citation-2))
+The 2022 meta-analysis combined **14 studies, with 800 people with epileptic seizures and 452 with functional seizures**. Observed eye closure and asynchronous limb movements were the strongest pooled discriminators for functional events, but no sign was exclusive to either diagnosis. Each of those pooled estimates rested on three studies. (*citations* [2](#citation-2))
 
-Definitions varied, most studies lacked blinded sign assessment, and epilepsy-monitoring-unit selection limits transfer to community practice. The analysis did not establish equivalent performance for subjective-only or still/unresponsive events, intellectual-disability populations or nonexpert observers. No sign was exclusive to either diagnosis. (*citations* [2](#citation-2))
+Most studies came from epilepsy-monitoring settings and lacked blinded assessment of the signs. Their findings support expert interpretation of the event sequence, rather than a universal sign-count rule or a home checklist. They do not establish equivalent performance for still or subjective-only events. (*citations* [2](#citation-2))
 
-These findings support careful observation; they do not validate a universal sign-count rule. We have not reproduced accuracy estimates as a bedside calculator. The remaining inventory features retain their original citations and await separate detailed appraisal where needed.
-
-Targeted update: October 1, 2026. Full-text methods, results and limitations of the synthesis were checked; its constituent primary studies were not all independently reappraised.
+Current guidance places these observations within an assessment of each habitual event and possible coexisting epilepsy. Safe observation and accessible communication help identify what the person can experience or do during an event without treating a response as proof of conscious control. (*citations* [1](#citation-1), [3](#citation-3))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -203,7 +201,7 @@ Current recommendations support event-level assessment. The synthesis addresses 
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | — | Tolchin B, Goldstein LH, Reuber M, et al. Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) [AAN clinician summary](https://aanfiles.blob.core.windows.net/guidelines/2cceae40-edcf-484d-9054-bbdf76206bca/25_FunctionalSeizure-ClinGL_v03b.pdf). |
 | <a id="citation-2"></a>**[2]** | — | Muthusamy S, Seneviratne U, Ding C, Phan TG. Using Semiology to Classify Epileptic Seizures vs Psychogenic Nonepileptic Seizures: A Meta-analysis. *Neurology. Clinical practice*. 2022;12(3):234-247. [DOI](https://doi.org/10.1212/cpj.0000000000001170). [PMID: 35747545](https://pubmed.ncbi.nlm.nih.gov/35747545/). [FND-CIT-0165](../../../research/citation-index.md#fnd-cit-0165). |
-| <a id="citation-3"></a>**[3]** | — | Whitehead K, Kane N, Wardrope A, Kandler R, Reuber M. Proposal for best practice in the use of video-EEG when psychogenic non-epileptic seizures are a possible diagnosis. *Clinical Neurophysiology Practice*. 2017;2:130–139. [DOI](https://doi.org/10.1016/j.cnp.2017.06.002). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/). [FND-CIT-0233](../../../research/citation-index.md#fnd-cit-0233). |
+| <a id="citation-3"></a>**[3]** | — | Whitehead K, Kane N, Wardrope A, Kandler R, Reuber M. Proposal for best practice in the use of video-EEG when psychogenic non-epileptic seizures are a possible diagnosis. *Clinical Neurophysiology Practice*. 2017;2:130–139. FND-CIT-0233. |
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

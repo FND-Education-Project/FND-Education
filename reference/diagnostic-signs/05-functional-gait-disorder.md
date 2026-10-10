@@ -130,7 +130,7 @@ The original filming sequence and safeguards are retained on the [comparison pag
 
 ## Diagnostic techniques at a glance
 
-The original descriptions and citations have moved to the inventory. These links preserve earlier section destinations. Not everyone needs every comparison.
+The inventory explains each observation or investigation. Not everyone needs every comparison.
 
 - <a id="knee-buckling-with-preserved-support"></a>[Knee buckling with preserved support](functional_gait_disorder/technique-inventory.md#knee-buckling-with-preserved-support)
 - <a id="dragging-and-uneconomic-postures"></a>[Dragging and uneconomic postures](functional_gait_disorder/technique-inventory.md#dragging-and-uneconomic-postures)
@@ -159,11 +159,11 @@ The original descriptions and citations have moved to the inventory. These links
 
 ### Evidence notes
 
-- The sign-based review provides clinical reasoning and pitfalls, rather than a validated accuracy figure for an entire gait examination. (*citations* [1](#citation-1))
-- The chair-sign study used blinded video raters and found limited sensitivity. See the [detailed evidence](functional_gait_disorder/02-swivel-chair-assessment.md#evidence-and-limitations); a negative result cannot rule out functional gait disorder. (*citations* [6](#citation-6))
-- The 2025 survey recruited online and relied on self-reported eligibility and symptoms; nonambulant people were excluded. Its cross-sectional associations cannot establish causation, and its selected sample does not represent every person with functional gait disorder. (*citations* [10](#citation-10))
+Start with the sign-based clinical review, then the later blinded chair-sign study for that specific comparison. The review explains clinical reasoning; the chair study tests a particular sign. Neither turns a brief examination into a measure of everyday mobility. (*citations* [1](#citation-1), [6](#citation-6))
 
-Targeted update: September 30, 2026. Full text checked for the sign-based review, 2024 chair study and 2025 survey; primary abstracts checked for the original chair and dual-task studies. Fresh full-text review of every inherited inventory source remains pending. The inventory retains its nine original citation numbers below.
+A 2026 study found limited agreement when clinicians classified gait videos using existing descriptive frameworks. Describing a walking pattern and establishing its cause are separate tasks. (*citations* [11](#citation-11))
+
+Visible effort deserves a clinical explanation that considers pain, breathlessness and the demands of the task. Earlier effort-behaviour research excluded people whose major symptom was pain, so it should not be used to dismiss these difficulties. The 2025 survey adds evidence about daily impact, although it excluded nonambulant people and cannot represent everyone with functional gait disorder. (*citations* [7](#citation-7), [10](#citation-10))
 
 ### Citation table
 
@@ -175,10 +175,11 @@ Targeted update: September 30, 2026. Full text checked for the sign-based review
 | <a id="citation-4"></a>**[4]** | — | Gandolfi M, Fiorio M, Geroin C, et al. Dual tasking affects gait performance but not automaticity in functional gait disorders: A new diagnostic biomarker. *Parkinsonism & related disorders*. 2023;108:105291. [DOI](https://doi.org/10.1016/j.parkreldis.2023.105291). [PMID: 36764083](https://pubmed.ncbi.nlm.nih.gov/36764083/). [FND-CIT-0132](../../research/citation-index.md#fnd-cit-0132). |
 | <a id="citation-5"></a>**[5]** | — | Okun MS, Rodriguez RL, Foote KD, Fernandez HH. The "chair test" to aid in the diagnosis of psychogenic gait disorders. *The neurologist*. 2007;13(2):87-91. [DOI](https://doi.org/10.1097/01.nrl.0000256358.52613.cc). [PMID: 17351529](https://pubmed.ncbi.nlm.nih.gov/17351529/). [FND-CIT-0127](../../research/citation-index.md#fnd-cit-0127). |
 | <a id="citation-6"></a>**[6]** | — | Lagrand TJ, Brusse-Keizer M, Charmley A, et al. A Critical Appraisal of the Whack-a-Mole and Swivel Chair Signs in the Diagnosis of Functional Movement Disorders. *Movement disorders clinical practice*. 2024;11(1):63-68. [DOI](https://doi.org/10.1002/mdc3.13895). [PMID: 38291841](https://pubmed.ncbi.nlm.nih.gov/38291841/). [FND-CIT-0181](../../research/citation-index.md#fnd-cit-0181). |
-| <a id="citation-7"></a>**[7]** | — | Laub HN, Dwivedi AK, Revilla FJ, et al. Diagnostic performance of the "Huffing and Puffing" sign in psychogenic (functional) movement disorders. *Movement disorders clinical practice*. 2015;2(1):29-32. [DOI](https://doi.org/10.1002/mdc3.12102). [PMID: 25961068](https://pubmed.ncbi.nlm.nih.gov/25961068/). [FND-CIT-0145](../../research/citation-index.md#fnd-cit-0145). |
+| <a id="citation-7"></a>**[7]** | — | Laub HN, Dwivedi AK, Revilla FJ, et al. Diagnostic performance of the "Huffing and Puffing" sign in psychogenic (functional) movement disorders. *Movement disorders clinical practice*. 2015;2(1):29-32. FND-CIT-0145. |
 | <a id="citation-8"></a>**[8]** | — | Wolfsegger T, Pischinger B, Topakian R. Objectification of psychogenic postural instability by trunk sway analysis. *Journal of the neurological sciences*. 2013;334(1-2):14-17. [DOI](https://doi.org/10.1016/j.jns.2013.07.006). [PMID: 23932398](https://pubmed.ncbi.nlm.nih.gov/23932398/). [FND-CIT-0160](../../research/citation-index.md#fnd-cit-0160). |
 | <a id="citation-9"></a>**[9]** | — | Lin D, Castro P, Edwards A, et al. Dissociated motor learning and de-adaptation in patients with functional gait disorders. *Brain : a journal of neurology*. 2020;143(8):2594-2606. [DOI](https://doi.org/10.1093/brain/awaa190). [PMID: 32779724](https://pubmed.ncbi.nlm.nih.gov/32779724/). [FND-CIT-0117](../../research/citation-index.md#fnd-cit-0117). |
 | <a id="citation-10"></a>**[10]** | — | Issak S, Williams G, Kanaan RA, Fini NA, Nielsen G. Self-Reported Motor and Non-Motor Symptoms in People With Functional Gait Disorder: A Cross-Sectional Study. *Brain and Behavior*. 2025;15(2):e70208. [DOI](https://doi.org/10.1002/brb3.70208). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11802242/). [FND-CIT-0232](../../research/citation-index.md#fnd-cit-0232). |
+| <a id="citation-11"></a>**[11]** | — | Issak S, Kanaan R, Fini NA, Nielsen G, Williams G. Phenotyping Functional Gait Disorder: An Exploratory Analysis of Existing Frameworks. *Movement Disorders Clinical Practice*. 2026;13(4):1006–1013. Published online November 11, 2025. [DOI](https://doi.org/10.1002/mdc3.70437). [FND-CIT-0265](../../research/citation-index.md#fnd-cit-0265). |
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
