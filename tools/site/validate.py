@@ -56,6 +56,8 @@ class LinkCollector(HTMLParser):
         self.h1_count = 0
         self.images_without_alt = 0
         self.canonical_links: list[str] = []
+        self.meta_properties: dict[str, list[str]] = {}
+        self.meta_names: dict[str, list[str]] = {}
 
     def handle_starttag(
         self,
@@ -81,6 +83,21 @@ class LinkCollector(HTMLParser):
 
         if lowered_tag == "img" and "alt" not in attributes:
             self.images_without_alt += 1
+
+        if lowered_tag == "meta":
+            property_name = attributes.get("property")
+            meta_name = attributes.get("name")
+            content = attributes.get("content", "")
+
+            if property_name:
+                self.meta_properties.setdefault(
+                    property_name.lower(), []
+                ).append(content)
+
+            if meta_name:
+                self.meta_names.setdefault(
+                    meta_name.lower(), []
+                ).append(content)
 
         if lowered_tag == "link":
             relations = {
@@ -684,6 +701,56 @@ def audit_fragment_links(
                 )
 
 
+def audit_open_graph(
+    current_route: str,
+    parser: LinkCollector,
+    errors: list[str],
+) -> None:
+    """Require one coherent set of automatic Open Graph metadata."""
+    required = (
+        "og:title",
+        "og:description",
+        "og:url",
+        "og:type",
+        "og:site_name",
+    )
+
+    for property_name in required:
+        values = parser.meta_properties.get(property_name, [])
+        if len(values) != 1:
+            errors.append(
+                f"Expected one {property_name} on {current_route}; "
+                f"found {len(values)}"
+            )
+            continue
+
+        if not values[0].strip():
+            errors.append(
+                f"Empty {property_name} on {current_route}"
+            )
+
+    canonical = parser.canonical_links[0] if len(parser.canonical_links) == 1 else None
+    og_url = parser.meta_properties.get("og:url", [])
+    if canonical and len(og_url) == 1 and og_url[0] != canonical:
+        errors.append(
+            f"Open Graph URL/canonical mismatch on {current_route}: "
+            f"{og_url[0]!r} != {canonical!r}"
+        )
+
+    og_type = parser.meta_properties.get("og:type", [])
+    if len(og_type) == 1 and og_type[0] != "website":
+        errors.append(
+            f"Unexpected og:type on {current_route}: {og_type[0]!r}"
+        )
+
+    site_name = parser.meta_properties.get("og:site_name", [])
+    if len(site_name) == 1 and site_name[0] != "FND Education Project":
+        errors.append(
+            f"Unexpected og:site_name on {current_route}: "
+            f"{site_name[0]!r}"
+        )
+
+
 def audit_document_shell(
     current_route: str,
     text: str,
@@ -1045,7 +1112,12 @@ def check_built_site(
                 f"{expected.relative_to(site_root)}"
             )
 
-    for filename in (VERIFICATION_FILE, "sitemap.xml", "robots.txt"):
+    for filename in (
+        VERIFICATION_FILE,
+        "sitemap.xml",
+        "robots.txt",
+        "404.html",
+    ):
         if not (site_root / filename).exists():
             errors.append(f"Built artifact missing {filename}")
 
@@ -1113,6 +1185,11 @@ def check_built_site(
             schema_pages_checked += 1
             if current_route == "/glossary/":
                 glossary_terms_checked = glossary_term_count
+
+        if (
+            current_route in routes
+            or current_route in {"/search/", "/404.html"}
+        ):
             audit_document_shell(
                 current_route=current_route,
                 text=text,
@@ -1120,6 +1197,37 @@ def check_built_site(
                 baseurl=baseurl,
                 errors=errors,
             )
+            audit_open_graph(
+                current_route=current_route,
+                parser=parser,
+                errors=errors,
+            )
+
+        if current_route == "/404.html":
+            robots_values = parser.meta_names.get("robots", [])
+            if not any("noindex" in value.lower() for value in robots_values):
+                errors.append("404 page must contain a noindex robots meta tag")
+
+            required_404_links = {
+                "/",
+                "/course/",
+                "/reference/",
+                "/glossary/",
+                "/booklets/",
+                "/puzzles/",
+                "/contact/",
+            }
+            missing_404_links = sorted(
+                required_404_links - set(parser.hrefs)
+            )
+            if missing_404_links:
+                errors.append(
+                    "404 page is missing main destination links: "
+                    + ", ".join(missing_404_links)
+                )
+
+            if 'aria-label="Search from page not found"' not in text:
+                errors.append("404 page is missing its dedicated search form")
 
         if current_route in routes:
             audit_page_navigation(

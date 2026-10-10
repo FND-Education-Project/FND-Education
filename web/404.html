@@ -1,0 +1,52 @@
+---
+layout: default
+title: Page not found
+description: The page you were looking for could not be found. Search the FND Education Project or choose a main section.
+permalink: /404.html
+robots: "noindex, follow"
+---
+
+<article class="course-page reading-column not-found-page">
+
+  <header class="page-heading">
+    <p class="page-context">PAGE NOT FOUND</p>
+    <h1>We couldn't find that page</h1>
+    <p class="page-description">
+      The address may have changed, or the link may be out of date.
+      Search the site or choose one of the main sections below.
+    </p>
+  </header>
+
+  <div class="course-content">
+    <form
+      class="site-search-form not-found-search"
+      action="{{ '/search/' | relative_url }}"
+      method="get"
+      role="search"
+      aria-label="Search from page not found"
+    >
+      <label class="visually-hidden" for="not-found-search-query">
+        Search the FND Education Project
+      </label>
+      <input
+        id="not-found-search-query"
+        name="q"
+        type="search"
+        placeholder="Search the site"
+        autocomplete="off"
+      >
+      <button type="submit">Search</button>
+    </form>
+
+    <nav class="home-actions" aria-label="Main destinations">
+      <a class="home-action" href="{{ '/' | relative_url }}">Home</a>
+      <a class="home-action" href="{{ '/course/' | relative_url }}">Course</a>
+      <a class="home-action" href="{{ '/reference/' | relative_url }}">Reference</a>
+      <a class="home-action" href="{{ '/glossary/' | relative_url }}">Glossary</a>
+      <a class="home-action" href="{{ '/booklets/' | relative_url }}">Booklets</a>
+      <a class="home-action" href="{{ '/puzzles/' | relative_url }}">Puzzles</a>
+      <a class="home-action" href="{{ '/contact/' | relative_url }}">Contact</a>
+    </nav>
+  </div>
+
+</article>

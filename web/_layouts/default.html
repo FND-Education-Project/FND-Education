@@ -30,6 +30,20 @@
 
   <link rel="canonical" href="{{ page.url | absolute_url }}">
 
+  {% assign social_title = page.title | default: site.title %}
+  {% assign social_description = page.description | default: site.description %}
+  <meta property="og:title" content="{{ social_title | escape }}">
+  <meta property="og:description" content="{{ social_description | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  {% if site.social_image %}
+  <meta property="og:image" content="{{ site.social_image | absolute_url }}">
+  {% if site.social_image_alt %}
+  <meta property="og:image:alt" content="{{ site.social_image_alt | escape }}">
+  {% endif %}
+  {% endif %}
+
   {% include structured-data.html %}
   
   <link
@@ -58,32 +72,39 @@
   </a>
 
   <header class="site-header">
-    <div class="site-wide">
+    <div class="site-wide site-header-grid">
 
-      <div class="site-header-row">
-        <a class="site-name" href="{{ '/' | relative_url }}">
-          FND Education Project
-        </a>
+      <img
+        class="site-logo"
+        src="{{ '/assets/icons/fnd-logo.svg' | relative_url }}"
+        alt=""
+        width="64"
+        height="64"
+        aria-hidden="true"
+      >
 
-        <form
-          class="site-search-form"
-          action="{{ '/search/' | relative_url }}"
-          method="get"
-          role="search"
+      <a class="site-name" href="{{ '/' | relative_url }}">
+        FND Education Project
+      </a>
+
+      <form
+        class="site-search-form"
+        action="{{ '/search/' | relative_url }}"
+        method="get"
+        role="search"
+      >
+        <label class="visually-hidden" for="site-search-query">
+          Search the FND Education Project
+        </label>
+        <input
+          id="site-search-query"
+          name="q"
+          type="search"
+          placeholder="Search"
+          autocomplete="off"
         >
-          <label class="visually-hidden" for="site-search-query">
-            Search the FND Education Project
-          </label>
-          <input
-            id="site-search-query"
-            name="q"
-            type="search"
-            placeholder="Search"
-            autocomplete="off"
-          >
-          <button type="submit">Search</button>
-        </form>
-      </div>
+        <button type="submit">Search</button>
+      </form>
 
       <nav class="site-nav" aria-label="Main navigation">
         <a href="{{ '/' | relative_url }}">Home</a>
@@ -101,7 +122,7 @@
   <main
     id="main-content"
     class="site-main"
-    {% if page.search_page %}
+    {% if page.search_page or page.robots contains "noindex" %}
       data-pagefind-ignore="all"
     {% else %}
       data-pagefind-body
