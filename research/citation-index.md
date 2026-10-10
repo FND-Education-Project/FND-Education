@@ -1460,7 +1460,7 @@ Wardrope A, Wong S, McLaughlan J, et al. Peri-ictal responsiveness to the social
 
 ## FND-CIT-0164
 
-Aziz Q, Fass R, Gyawali CP, et al. Functional Esophageal Disorders. *Gastroenterology*. 2016;:S0016-5085(16)00178-5. [DOI](https://doi.org/10.1053/j.gastro.2016.02.012). [PMID: 27144625](https://pubmed.ncbi.nlm.nih.gov/27144625/).
+Aziz Q, Fass R, Gyawali CP, et al. Functional Esophageal Disorders. *Gastroenterology*. 2016;150(6):1368–1379. [DOI](https://doi.org/10.1053/j.gastro.2016.02.012). [PMID: 27144625](https://pubmed.ncbi.nlm.nih.gov/27144625/).
 
 **Diagnostic use:** [10-functional-swallowing-and-globus](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md).
 
@@ -2361,7 +2361,7 @@ Checked October 3, 2026. New IDs 0248–0253; older Rome IV source retained for 
 | [functional_swallowing_and_globus/01-clinical-swallowing-assessment.md](../reference/diagnostic-signs/functional_swallowing_and_globus/01-clinical-swallowing-assessment.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0115](#fnd-cit-0115) |
 | [functional_swallowing_and_globus/02-fees-and-videofluoroscopy.md](../reference/diagnostic-signs/functional_swallowing_and_globus/02-fees-and-videofluoroscopy.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0115](#fnd-cit-0115), [FND-CIT-0250](#fnd-cit-0250), [FND-CIT-0251](#fnd-cit-0251) |
 | [functional_swallowing_and_globus/03-globus-and-oesophageal-criteria.md](../reference/diagnostic-signs/functional_swallowing_and_globus/03-globus-and-oesophageal-criteria.md) | [FND-CIT-0164](#fnd-cit-0164), [FND-CIT-0248](#fnd-cit-0248), [FND-CIT-0249](#fnd-cit-0249) |
-| [functional_swallowing_and_globus/technique-inventory.md](../reference/diagnostic-signs/functional_swallowing_and_globus/technique-inventory.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0115](#fnd-cit-0115), [FND-CIT-0164](#fnd-cit-0164) |
+| [functional_swallowing_and_globus/technique-inventory.md](../reference/diagnostic-signs/functional_swallowing_and_globus/technique-inventory.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0115](#fnd-cit-0115), [FND-CIT-0164](#fnd-cit-0164), [FND-CIT-0248](#fnd-cit-0248), [FND-CIT-0249](#fnd-cit-0249), [FND-CIT-0250](#fnd-cit-0250), [FND-CIT-0251](#fnd-cit-0251) |
 
 ## FND-CIT-0254
 

@@ -219,7 +219,7 @@ Allow transcript review where appropriate and explain storage and sharing arrang
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
-| <a id="citation-2"></a>**[2]** | Chung DS, Wettroth C, Hallett M, Maurer CW. Functional Speech and Voice Disorders: Case Series and Literature Review. *Movement disorders clinical practice*. 2018;5(3):312-316. [DOI](https://doi.org/10.1002/mdc3.12609). [PMID: 30800702](https://pubmed.ncbi.nlm.nih.gov/30800702/). [FND-CIT-0169](../../../research/citation-index.md#fnd-cit-0169). |
+| <a id="citation-2"></a>**[2]** | Chung DS, Wettroth C, Hallett M, Maurer CW. Functional Speech and Voice Disorders: Case Series and Literature Review. *Movement disorders clinical practice*. 2018;5(3):312-316. DOI: 10.1002/mdc3.12609. PMID: 30800702. FND-CIT-0169. |
 | <a id="citation-3"></a>**[3]** | American Speech-Language-Hearing Association. Augmentative and Alternative Communication (AAC). *Practice Portal*. Accessed October 2, 2026. [Communication-access guidance](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/). [FND-CIT-0106](../../../research/citation-index.md#fnd-cit-0106). |
 
 ***
