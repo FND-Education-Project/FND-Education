@@ -602,6 +602,114 @@ button:focus-visible {
 }
 
 
+
+/* ---------- Opt-in section sharing ----------
+   Kramdown: ## Section name
+             {: #permanent-section-id .shareable }
+   The button is added by site.js only for explicitly marked headings.
+   The heading remains readable and linkable without JavaScript.
+   ---------------------------------------------------------- */
+
+.course-content .share-heading-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 2.25rem;
+  height: 2.25rem;
+  margin-left: 0.4rem;
+  padding: 0;
+
+  vertical-align: middle;
+
+  background: transparent;
+  color: var(--muted);
+
+  border: 1px solid transparent;
+  border-radius: 0.4rem;
+
+  cursor: pointer;
+}
+
+.course-content .share-heading-button svg {
+  width: 1.15rem;
+  height: 1.15rem;
+
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.course-content .share-heading-button:hover,
+.course-content .share-heading-button:focus-visible {
+  background: var(--accent-soft);
+  color: var(--accent-strong);
+  border-color: var(--border);
+}
+
+.course-content .share-feedback {
+  margin-left: 0.4rem;
+
+  color: var(--accent-strong);
+  font-size: 0.75rem;
+  font-weight: 650;
+  vertical-align: middle;
+}
+
+.course-content .share-manual-copy {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+
+  margin: 0.5rem 0 1rem;
+  padding: 0.65rem 0.8rem;
+
+  background: var(--accent-soft);
+  border: 1px solid var(--border);
+  border-radius: 0.4rem;
+
+  font-size: 0.9rem;
+}
+
+.course-content .share-manual-copy[hidden] {
+  display: none;
+}
+
+.course-content .share-manual-copy input {
+  flex: 1 1 14rem;
+  min-width: 0;
+  padding: 0.35rem 0.5rem;
+
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 0.3rem;
+
+  font: inherit;
+}
+
+.course-content .share-manual-copy button {
+  padding: 0.35rem 0.6rem;
+
+  background: var(--surface);
+  color: var(--accent-strong);
+  border: 1px solid var(--border);
+  border-radius: 0.3rem;
+
+  font: inherit;
+  cursor: pointer;
+}
+
+@media (pointer: coarse) {
+  .course-content .share-heading-button {
+    width: 2.75rem;
+    height: 2.75rem;
+  }
+}
+
 /* ---------- Quotes ---------- */
 
 .course-content blockquote {
