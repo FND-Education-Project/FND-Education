@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Why a two-handed task can be different
 
@@ -43,6 +44,7 @@ Avoid hot pans, knives, glass, heavy overhead objects and any task where unexpec
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Place objects within the agreed range and ask before touching the person’s arm. Do not lift under the weak shoulder or pull the hand into position. Let the affected hand perform the role it can manage today. Adaptations—non-slip matting, lighter containers, larger handles or seated setup—can support both recovery and independence.
 
@@ -54,6 +56,7 @@ Place objects within the agreed range and ask before touching the person’s arm
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and occupational analysis
 

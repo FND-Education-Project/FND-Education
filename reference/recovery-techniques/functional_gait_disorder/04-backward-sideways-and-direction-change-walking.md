@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Why changing direction may change the pattern
 
@@ -45,6 +46,7 @@ Do not practise this alone near stairs, traffic, furniture, pets or uneven groun
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Backward or sideways walking should be used at home only when the therapist has specified the route, support and guarding. Clear the entire space first. Do not walk behind and pull the person, surprise them with a direction change or ask them to demonstrate the technique during a flare.
 
@@ -58,6 +60,7 @@ If the technique is part of the plan, use one cue and help the person return to 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and safety screen
 

@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this approach is for
 
@@ -43,6 +44,7 @@ These examples require selection for your assessed presentation. The clinical ra
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Respect the person’s choice about participation and privacy. Do not pressure them to “be suggestible” or interpret the response as evidence about willingness.
 
@@ -56,6 +58,7 @@ Support reporting adverse experiences and retaining ordinary visual assistance. 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

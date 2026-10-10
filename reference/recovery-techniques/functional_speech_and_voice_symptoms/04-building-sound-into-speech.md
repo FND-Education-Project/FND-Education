@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 An easier sound can be a starting point rather than an exercise to repeat forever. With a therapist, you might build from that sound to a word you want, then a short message.
 
@@ -41,6 +42,7 @@ The examples here are suggestions to discuss with your clinician, not a fixed ex
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Answer the message before offering feedback. If “more tea” is understood, there is no need to request three better repetitions before helping.
 
@@ -54,6 +56,7 @@ Use only the prompting agreed with the therapist and the person. Too many remind
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selecting the approach
 

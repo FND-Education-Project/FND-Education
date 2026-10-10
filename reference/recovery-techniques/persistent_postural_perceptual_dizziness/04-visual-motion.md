@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A supermarket aisle or moving screen can feel as though it is moving you, even while you are still. **Visually induced dizziness** means that moving or complex visual information brings on dizziness or unsteadiness. It is different from simply needing a stronger glasses prescription, and it can coexist with migraine or other visual problems.
 
@@ -52,6 +53,7 @@ Stop unsafe activity. Sudden or distinctly different dizziness with new weakness
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask before showing a moving video or changing a screen. Offer to read information aloud or help find a quieter part of a venue. Respect the person’s chosen exit and avoid telling them to keep watching until the symptoms stop.
 
@@ -65,6 +67,7 @@ During a familiar flare, follow the agreed support and safety plan. Ask before t
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Distinguish visual-motion sensitivity from ocular, migraine and other neurological symptoms. Assess symptom context, binocular/visual concerns and sensory tolerances as indicated. Do not equate light sensitivity or functional visual loss with PPPD. Tailor visual demand and evaluate real-world transfer; optokinetic technology is an optional specialist tool, covered separately.
 

@@ -20,6 +20,7 @@ Clinician-focused educational reference; assessment requires suitable training a
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 This page explains two traditional sensory observations and why neither should independently establish FND. It is not a recommendation to add them routinely or repeat them until a particular answer appears.
 
@@ -96,6 +97,7 @@ This is a description of the observations, not a standardized validated protocol
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **Finding present:** Consider it a description requiring context; it is not sufficient to rule in FND.
 
@@ -121,6 +123,7 @@ These observations do not quantify symptom severity, injury risk or assistance n
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 An authored example:
 
@@ -140,6 +143,7 @@ An authored example:
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The 2026 study separated reported midline boundaries, examination findings and degrees of vibration asymmetry. Reported midline splitting occurred in both groups; dense splitting on examination was rare. A small vibration difference was more frequent in motor-FND but also occurred after stroke. These are not interchangeable findings or a standalone diagnostic rule. Participants already had motor-FND or recent stroke, rather than an unselected sensory presentation. See the [study summary](../07-functional-sensory-symptoms.md#evidence-notes). (*citations* [1](#citation-1))
 

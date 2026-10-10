@@ -20,6 +20,7 @@ Clinician-focused educational reference; use within professional competence, con
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use this guide to select and interpret lower-limb comparisons in severe immobility. Hoover's sign already has a [dedicated guide](../functional_limb_weakness/01-hoovers-sign.md); it is linked here rather than duplicated. Hip-abductor and Spinal Injuries Center comparisons have different requirements.
 
@@ -114,6 +115,7 @@ This draft does not supply a new step-by-step hip-abductor or Spinal Injuries Ce
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 For an interpretable positive comparison, explain the specific contrast in the affected movement. A negative or indeterminate result does not settle the whole diagnosis. The opposite leg's limitations, pain or an altered technique can change what the comparison means.
 
@@ -135,6 +137,7 @@ Do not infer safe standing, walking or transfers from an examination-bed finding
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 **Authored explanation example:** “This comparison concerns a particular leg movement. We need to interpret it with the rest of the examination and any other condition affecting your legs. It does not tell us that standing or walking is safe, so we will assess those needs separately.”
 
@@ -154,6 +157,7 @@ If the sign could not be used, explain the reason—for example pain or lack of 
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 Sonoo studied 33 people with leg paresis: 16 classified as functional and 17 with other neurological causes. All were classified correctly in that sample. The original inventory notes the small, unblinded design; this is not evidence of perfect performance in new populations or widespread paralysis. (*citations* [2](#citation-2))
 

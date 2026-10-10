@@ -16,6 +16,7 @@ This page is about using a plan in real time. It cannot tell you whether a parti
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -80,6 +81,7 @@ Do not rehearse a symptom or provoke an event. If reading the plan reveals uncle
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Use the plan as a guide, not a script that overrides what you can see. Protect from hazards, keep your voice calm, time the event if useful and allow the person’s chosen communication method. Do not restrain them or put anything in their mouth during a seizure-like event.
 
@@ -93,6 +95,7 @@ Notice recovery as well as the visible episode. Help reduce demands if asked. Re
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

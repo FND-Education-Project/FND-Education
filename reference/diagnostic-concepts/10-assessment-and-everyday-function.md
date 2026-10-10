@@ -15,6 +15,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 An assessment can show something useful without showing everything. Lifting a leg during an examination, making one drink in a quiet room and preparing meals across a week are different tasks. When discussing an assessment, ask what it measured and what remains to be understood about your ordinary day.
 
@@ -35,6 +36,7 @@ Emotional wellbeing deserves attention too. Loss of familiar roles, uncertainty 
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 With permission, describe what assistance you provide and what happens over time. “I prepare the ingredients because repeated chopping becomes difficult” is more informative than a broad judgment about independence.
 
@@ -49,6 +51,7 @@ Keep the person’s priorities central. Support should help the assessment refle
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Distinguish impairment, performance of an observed task and participation in everyday roles. Use the individual’s report, relevant observations and appropriately selected measures together. OT consensus addresses daily activities and context; it does not establish that every standard tool is invalid for FND. Explain each measure’s scope and limitations. (*citations* [1](#citation-1))
 

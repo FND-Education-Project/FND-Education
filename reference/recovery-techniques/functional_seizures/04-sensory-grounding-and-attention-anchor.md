@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Choose one tolerable point of contact
 
@@ -41,6 +42,7 @@ A stationary visual cue may suit one person and worsen another person’s light 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask permission before offering a cue or touching the person. Offer the agreed object or a single quiet phrase only while they can use it. Do not add louder instructions, demand eye contact or cycle through many senses if the first cue is not useful.
 
@@ -54,6 +56,7 @@ When the person cannot respond, switch to safety and respectful presence. Do not
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and explicit procedure
 

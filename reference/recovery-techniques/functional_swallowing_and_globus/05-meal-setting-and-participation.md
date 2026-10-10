@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Eating with other people can bring pleasure, but it can also bring noise, questions and the feeling that everyone is watching. A quieter meal or a familiar place is a reasonable starting point. It does not have to become a test you must pass before you are included.
 
@@ -51,6 +52,7 @@ Call emergency services for choking with inability to breathe, speak or cough ef
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask whether company, quiet or privacy would help. Avoid comments on every mouthful or inviting others to watch an improvement. Inclusion can mean sitting together without requiring the person to eat the same food or stay for the whole meal.
 
@@ -64,6 +66,7 @@ Use the person’s written flare and emergency plan. If they cannot safely conti
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and formulation
 

@@ -16,6 +16,7 @@ Specialist FND services are not available everywhere. Lack of a nearby clinic is
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -80,6 +81,7 @@ Write one sentence for a referral or appointment: **“I am looking for help wit
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Practical help may include testing the video setup, writing down the question, arranging transport or helping compare recommendations after the appointment. Ask which task is wanted.
 
@@ -93,6 +95,7 @@ Do not pressure the person to buy an unproven program because local services are
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

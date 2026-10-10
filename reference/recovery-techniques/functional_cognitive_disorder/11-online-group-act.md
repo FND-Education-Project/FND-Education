@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Acceptance and commitment therapy, or ACT, can help people make room for difficult thoughts and feelings while taking part in things they value. “Acceptance” does not mean agreeing that symptoms are imaginary, giving up medical care or being content with poor support.
 
@@ -46,6 +47,7 @@ Sudden new confusion, altered consciousness, or cognitive difficulty with new we
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask what practical help would make attendance easier. Do not use “acceptance” to argue against accommodations or further medical review. Let the person decide what to share about a group discussion.
 
@@ -59,6 +61,7 @@ During a familiar flare, use one speaker and one idea at a time. Give processing
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 The trial tested five online group sessions alongside treatment as usual. It was not powered for efficacy; follow-up attrition and a small sample limit conclusions. Agree goals around participation, psychological flexibility and burden, without promising cognitive restoration. Assess suitability, accessibility and adverse effects and preserve usual clinical care. (*citations* [1](#citation-1))
 

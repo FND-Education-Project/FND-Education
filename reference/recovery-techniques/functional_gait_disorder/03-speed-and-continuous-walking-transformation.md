@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Why pace can change the walking pattern
 
@@ -45,6 +46,7 @@ Stop if increasing speed causes toe catching, uncontrolled momentum, chest pain,
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not call from ahead, tug the person forward or frame quicker walking as better effort. If a pace cue has been selected, use the same count or destination and remain in the guarding position you were taught. Keep the stopping point and seat available.
 
@@ -58,6 +60,7 @@ Useful observations include whether continuity, foot clearance, balance or effor
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and safety screen
 

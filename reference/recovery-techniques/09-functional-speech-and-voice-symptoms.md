@@ -26,6 +26,7 @@ Involuntary sounds, words or phrases may be vocal/phonic tic-like symptoms. They
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 You may have a great deal to say while speech or voice is difficult to use. Treatment should help you communicate and take part in life, while making room for what you can manage today.
 
@@ -71,6 +72,7 @@ Severe breathing difficulty also requires emergency help. Persistent or progress
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Give the person time to get their message across. Ask whether they want help with a word, a pause, or another communication method. Their preference may change from one conversation to the next.
 
@@ -86,6 +88,7 @@ A familiar flare is not a compulsory practice session. Offer an agreed cue once 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Define the affected domains: phonation, fluency, articulation, prosody, language and communication participation. Establish positive functional features in context, with relevant neurological, laryngeal, respiratory, hearing and language assessment. Variability or a response to a cue alone does not establish the diagnosis. Account for coexisting disease and distinguish broader functional-dysphonia terminology from a specifically FND-defined presentation. (*citations* [1](#citation-1), [5](#citation-5))
 

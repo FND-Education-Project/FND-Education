@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this approach is for
 
@@ -45,6 +46,7 @@ These are choices to discuss with your care team, not a required exercise schedu
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Learn the person’s brief plan and their preferred way to ask for help. Use one calm prompt rather than repeatedly asking what they can feel. Avoid surprise touch or stimulation intended to bring sensation back.
 
@@ -58,6 +60,7 @@ If no technique is possible, protect the person and follow the agreed response. 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

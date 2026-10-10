@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What visual feedback can add
 
@@ -45,6 +46,7 @@ Visual feedback can also be a line on the floor, a coloured foot target or a sho
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not film or position a mirror without consent. Use the one visual target selected in therapy and avoid commenting on the person’s whole appearance. The relevant question is whether the feedback supports a safer task.
 
@@ -58,6 +60,7 @@ Keep guarding and the route unchanged while visual feedback is introduced. Remov
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and visual-access screen
 

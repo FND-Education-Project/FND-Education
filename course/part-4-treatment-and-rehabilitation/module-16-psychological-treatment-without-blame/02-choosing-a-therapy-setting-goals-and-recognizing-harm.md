@@ -16,6 +16,7 @@ Therapy names describe broad families of treatment. The individual therapist, go
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -79,6 +80,7 @@ Write one question for a therapist: **“What would we work on first, and how wo
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 The person's therapy goals belong to them. Do not demand disclosure, ask the therapist for private details or treat a difficult session as proof that the therapy is working.
 
@@ -92,6 +94,7 @@ You can help with access or notice changes the person wants tracked. If you are 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

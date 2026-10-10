@@ -16,6 +16,7 @@ A person should not lose their choices because spoken communication is slow, cha
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -90,6 +91,7 @@ Ask how the person wants to finish their intended message. Time, a pause, writin
 
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Speak to the person, not around them. Ask how they want you to help and wait through silence. Offer the agreed tool without making them prove that speech is unavailable.
 
@@ -103,6 +105,7 @@ When interpreting, say what the person indicated and what is your own observatio
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

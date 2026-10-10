@@ -16,6 +16,7 @@ Treatment is not a test of whether you believe the diagnosis. It is a shared att
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -80,6 +81,7 @@ Do not start, stop or taper medication from this page. Ask the prescribing clini
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask which goal belongs to the person. Support chosen treatment without becoming a therapist, episode counter or compliance monitor. Acknowledge progress in recovery, participation or confidence even if episodes continue.
 
@@ -93,6 +95,7 @@ Help with transport, notes or protecting recovery time if invited. If a treatmen
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

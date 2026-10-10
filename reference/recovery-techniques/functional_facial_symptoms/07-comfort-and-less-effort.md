@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 After hours of pulling, you may be tired of hearing “just relax.” Comfort work should give you a specific way to reduce an extra demand, while recognizing that the involuntary movement may continue.
 
@@ -47,6 +48,7 @@ Persistent pain, a locked jaw, dental symptoms or injury should not be written o
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Offer practical comfort without trying to rearrange the person’s face. Ask whether changing the chair, screen position or conversation length would help. Touch requires permission each time; previous benefit does not make it automatically welcome.
 
@@ -60,6 +62,7 @@ Believe reports of pain even if the movement looks mild. Help arrange review whe
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Assess extra effort, pain, temporomandibular and dental factors, cervical symptoms and task ergonomics. Keep comfort goals distinct from claims of motor normalization. Do not infer voluntary control from an ability to reduce one compensatory contraction. If manual techniques are used, specify indication, consent, precautions and response; avoid forceful correction.
 

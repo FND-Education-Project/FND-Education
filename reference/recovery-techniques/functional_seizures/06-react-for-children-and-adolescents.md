@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What the name means
 
@@ -39,6 +40,7 @@ At onset, follow the individualized programme only when the young person can saf
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Parents and school staff need compatible instructions. Ask which response is appropriate during an event, who remains nearby and how the child can return to an activity safely. Quiet, consistent support does not mean ignoring danger or emotional needs.
 
@@ -52,6 +54,7 @@ Do not make privileges, affection, medical care or access to school conditional 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Referral and implementation boundaries
 

@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What individualized treatment means
 
@@ -57,6 +58,7 @@ Severity, recurrence and response are not measures of effort. A person may impro
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask which goals and appointments the person wants help with. Support adaptations, transport, practice or note-taking without becoming a therapist or monitoring every symptom. Do not use a psychological referral to dismiss physical symptoms, and do not treat a difficult flare as failure to follow the plan.
 
@@ -70,6 +72,7 @@ Supporters may also need information, respite and boundaries. Their wellbeing ca
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Build a shared formulation
 

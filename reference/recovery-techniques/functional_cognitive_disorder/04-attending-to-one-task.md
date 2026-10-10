@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What is attention?
 
@@ -89,6 +90,7 @@ Sudden new confusion, altered consciousness, or cognitive difficulty with new we
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help make the information easier to follow. Instead of giving three instructions while the television is on, ask whether a quieter setting would help and offer the first step on its own. Wait for the person to be ready before adding another. Ask before turning down sound or removing a screen; sometimes it is an access tool. Give one idea at a time and allow time for an answer. If the person loses the thread, offer a brief recap without making the conversation feel like a lesson.
 
@@ -102,6 +104,7 @@ During a familiar flare, use one speaker and one idea at a time. Give processing
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Clarify the proposed target—selective attention, sustained attention, reorientation after interruption, or another process—using the person’s actual activity. Explain the task, cue, stopping point and intended functional benefit before asking for practice. Distinguish environmental accommodation from attempts to improve capacity; both may be appropriate. Use meaningful task analysis rather than decontextualized endurance testing. Differentiate encoding load from retrieval difficulty and assess sensory, sleep and neurodevelopmental contributors. Tailor duration and cueing to response; no fixed dose is established for FCD. Record functional benefit, tolerability and delayed effects. (*citations* [1](#citation-1), [2](#citation-2))
 

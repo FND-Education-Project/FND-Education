@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What counts as a warning?
 
@@ -47,6 +48,7 @@ Put effort into the [environment](02-hazards-and-daily-activities.md), [mobility
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask permission before sharing observations. Be specific about timing rather than saying, “You must have known it was coming.” Avoid repeatedly prompting the person to check for a sensation.
 
@@ -60,6 +62,7 @@ If an agreed warning occurs, offer the agreed response calmly. If an attack occu
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Separate prodrome, trigger, peri-event experience and retrospective interpretation. Establish whether a cue is sufficiently reliable and early to support an actionable plan, including where the action is physically safe. (*citations* [1](#citation-1), [3](#citation-3))
 

@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 When pulling starts, it can be hard to decide what to do while someone beside you asks several questions at once. An episode plan is a short agreement made at a calmer time. It describes a familiar episode, immediate safety needs, helpful support and when to seek care.
 
@@ -49,6 +50,7 @@ The plan can still make the experience safer or less overwhelming. Do not keep a
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Agree beforehand whether the person prefers conversation, quiet company or practical help. Use one calm voice if several people are present. Do not hold the face or jaw in position, force eyelids open or put anything in the mouth.
 
@@ -62,6 +64,7 @@ Respect the agreed reassessment threshold. A familiar diagnosis should not becom
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Document a recognizable baseline, escalation criteria and any overlap with functional seizures, syncope or another disorder. Adapt grounding to visual, sensory and cognitive access. Warning monitoring should not become continuous symptom surveillance. The reported facial case involved several interventions and later flares; do not promise episode interruption or generalize its psychosocial formulation to others.
 

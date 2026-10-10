@@ -20,6 +20,7 @@ Clinician-focused educational reference; select assessment within professional c
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use this guide to plan the clinical questions that vestibular, neurological and cardiovascular assessment should answer in someone being considered for PPPD. It is a selection-and-interpretation guide, not a training protocol for examination manoeuvres.
 
@@ -114,6 +115,7 @@ After assessment, return to the [five-criteria history](01-criteria-and-clinical
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 An abnormal vestibular result does not automatically exclude PPPD; a normal result does not confirm it. Consider residual vestibular impairment, episodic conditions such as vestibular migraine or positional vertigo, autonomic conditions, medication effects and neurological disease according to the presentation. Coexistence requires attribution of each symptom pattern, not choosing one label for everything. (*citations* [1](#citation-1))
 
@@ -135,6 +137,7 @@ For daily-function decisions, add the person's account of repeated activity, env
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 **Authored explanation example:** “This assessment was looking for another balance problem. I will explain what it found and what it cannot tell us. We can consider PPPD and another condition together when the evidence supports both. Your day-to-day difficulties need their own assessment, even if a particular test is reassuring.”
 
@@ -154,6 +157,7 @@ Name the relevant finding and next step; do not offer this generic wording in pl
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The consensus supports clinical history with indicated testing; there is no pathognomonic examination or laboratory finding for PPPD. It is not a diagnostic-accuracy study of the selection table above. (*citations* [1](#citation-1))
 

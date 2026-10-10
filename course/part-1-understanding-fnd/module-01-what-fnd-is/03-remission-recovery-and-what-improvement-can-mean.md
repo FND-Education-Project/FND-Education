@@ -20,6 +20,7 @@ This is a short introduction. Later modules will discuss treatment, rehabilitati
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 One of the big questions, once, perhaps the shock of diagnosis fades, is "Can this go away?" Maybe instead of 'go away' words like remission, cure, or recovery might replace them. If we are talking about a cure, meaning, the disease functional neurological disorder is no longer present nor will ever come back, then as far as anyone currently knows, no. There is no cure. However, people do experience recovery or remission. Because the two words can be used to mean the same thing, let's give them definitions that this course will use.
 
@@ -56,6 +57,7 @@ Choose one small sign of improvement that would matter in your life. It might be
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Thank you for supporting someone's recovery process. It's important for both you and the sufferer to have a clear goal in mind with steps along the way of what recovery looks like. When a person has many symptoms at once, what recovery looks like can range from adapting to their most disabling symptom to just getting stable after the trauma of diagnosis. (*citations* [2](#citation-2), [3](#citation-3))
 
@@ -75,6 +77,7 @@ If symptoms return or don't respond to a treatment, help the person notice what 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 You are an essential part of recovery. The question is, what does recovery look like for your patient? Let's define key terms.
 **Symptom Remission.** Some or all of the patient's symptoms are absent for a period of time.

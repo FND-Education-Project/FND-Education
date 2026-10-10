@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A PPPD diagnosis should make care clearer, not close the door on every other explanation. You can have persistent rocking or unsteadiness and also have a different type of dizzy episode that needs its own treatment.
 
@@ -56,6 +57,7 @@ Stop unsafe activity. Sudden or distinctly different dizziness with new weakness
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 With permission, help describe the differences between episodes or prepare the medication list. Avoid deciding the diagnosis from a single trigger. Support attendance at relevant appointments and ask who to contact when the plan is unclear.
 
@@ -69,6 +71,7 @@ During a familiar flare, follow the agreed support and safety plan. Ask before t
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Differentiate persistent Criterion A symptoms from episodic vestibular, migraine, orthostatic and other events. Examine and investigate proportionately rather than defaulting to either repeat testing or diagnostic overshadowing. Review medications, vision, hearing, neuropathy and psychological comorbidity where relevant. Treat each identified condition on its own evidence and record reassessment thresholds.
 

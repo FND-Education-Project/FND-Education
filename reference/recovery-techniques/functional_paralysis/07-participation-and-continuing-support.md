@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### You do not have to put life on hold
 
@@ -47,6 +48,7 @@ If a rehabilitation approach has not helped, discuss whether its goals, intensit
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Invite the person into ordinary life without making walking or limb movement the price of inclusion. Ask what they want help with and what they prefer to direct themselves. Avoid turning every conversation into a recovery update.
 
@@ -60,6 +62,7 @@ Be honest about your limits and ask for additional support when needed. More sus
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Set participation and access outcomes alongside motor goals. Review activities of daily living, seating, transport, communication, social roles and available assistance. Document persistent disability clearly without implying that accommodations disprove the diagnosis or impede all future recovery. (*citations* [1](#citation-1), [2](#citation-2))
 

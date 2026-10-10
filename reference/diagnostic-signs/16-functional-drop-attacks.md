@@ -33,6 +33,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A drop attack is a sudden fall while standing or walking. In the presentation covered here, there is no definite blackout and recovery is often quick. Some people describe no warning; others later identify a very brief change in awareness, sensation or body control. Injuries can be significant even when the event itself is brief. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
@@ -54,6 +55,7 @@ Tell the team about injuries, help needed after an event, activities affected an
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask the person what they want others to do after a familiar event. Make the area safe, check for injury and allow recovery without rapidly lifting them or demanding an explanation. If moving them is necessary because of immediate danger, follow first-aid guidance and use trained help where possible.
 
@@ -70,6 +72,7 @@ Do not assume that every fall in a person with FND is another functional drop at
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 **Featured technique:** Specialist structured event and falls history, witness account or safely obtained recording when available, examination, and targeted differential assessment.<br>
 **Diagnostic method:** Establish the event phenotype and positive clinical formulation rather than inferring FND from normal tests. No validated single bedside sign for functional drop attacks was located.<br>

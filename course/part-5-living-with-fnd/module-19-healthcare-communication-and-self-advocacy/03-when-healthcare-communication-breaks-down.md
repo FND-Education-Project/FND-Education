@@ -16,6 +16,7 @@ Sometimes the problem is not that you need a better script. You may have been di
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -69,6 +70,7 @@ Write one sentence: **“The problem was _____, and I am asking for _____.”** 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask whether the person wants witnessing, notes, help with a letter or no action yet. Do not take over the complaint or pressure them to return to a clinician they experience as unsafe. In a new appointment, offer a brief factual account rather than arguing the whole history unless invited.
 
@@ -80,6 +82,7 @@ Ask whether the person wants witnessing, notes, help with a letter or no action 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

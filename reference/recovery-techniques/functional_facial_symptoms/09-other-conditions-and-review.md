@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Having an FND diagnosis should not mean that every later change in your face has already been explained. More than one condition can be present, and different parts of the problem may need different care.
 
@@ -54,6 +55,7 @@ For a familiar flare without new warning signs, follow the established plan. See
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help describe the change from the person’s usual pattern, with their agreement. Avoid explaining new symptoms to a clinician as “just their FND.” Equally, avoid insisting that an additional condition must explain everything.
 
@@ -67,6 +69,7 @@ Keep a shared medication and appointment list if that would help, while allowing
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Revisit the differential according to the new presentation, including facial neuropathy, synkinesis, hemifacial spasm, dystonia/blepharospasm, neuromuscular causes of ptosis, ocular disease, dental/TMJ pathology and drug effects. Positive functional signs and another diagnosis can coexist. Document which symptom each intervention targets and avoid serial invasive procedures without a clear indication.
 

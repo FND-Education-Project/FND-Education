@@ -20,6 +20,7 @@ Clinician-focused educational reference. Use within professional competence and 
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use this assessment to understand injuries, assistance and participation while diagnostic work continues and after a formulation is agreed. It does not diagnose the cause of a fall. Fall frequency and everyday safety answer different questions.
 
@@ -100,6 +101,7 @@ Review the same domains at follow-up, including changes in opportunity, equipmen
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 Consider diagnosis, observed performance and participation as separate parts of the record. Ask about fear, confidence, distress and mental-health needs without treating them as proof of a psychological cause. A new or changed event returns to the [differential assessment](02-differential-assessment.md), rather than being absorbed automatically into the old formulation.
 
@@ -117,6 +119,7 @@ Consider diagnosis, observed performance and participation as separate parts of 
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 **Authored explanation example:** “We will record both the falls and what you are able to do with support. That helps us see whether life is becoming safer and more manageable, even if the event count changes slowly.”
 
@@ -136,6 +139,7 @@ Agree one or two meaningful follow-up goals; keep treatment details in the [reco
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 Revell and colleagues interviewed seven women recruited through one specialist clinic; only three contributed event diary data. The qualitative model may inform discussion, but cannot establish a universal cause, diagnostic threshold or treatment effect. Recruitment and prior explanations may have influenced findings. Methods and limitations were checked in the full text. The record above is not the study instrument. [1](#citation-1)
 

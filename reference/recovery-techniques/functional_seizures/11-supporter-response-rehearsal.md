@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Decide how you want help to sound and feel
 
@@ -39,6 +40,7 @@ If discussion triggers symptoms, pause and use the real safety plan. You can ret
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Practise finding the plan and identifying the first safety action, not testing your ability to stop an attack. Agree who calls for help, who keeps the area clear and who supports other dependants if needed.
 
@@ -52,6 +54,7 @@ Use one speaker where practical. Do not restrain, shame, crowd, film without con
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Explicit procedure
 

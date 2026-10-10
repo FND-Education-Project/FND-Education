@@ -20,6 +20,7 @@ Clinician-focused educational reference. These comparisons require specialist tr
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Assess a defined complaint of reduced visual acuity using selected optical comparisons within a complete eye examination.
 
@@ -108,6 +109,7 @@ The specialist establishes each eye's baseline, then uses plus lenses over the b
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **Supportive comparison:** Document the specific visual capacity demonstrated and why the optical setup supports that conclusion. Keep the conclusion restricted to the tested task.
 
@@ -131,6 +133,7 @@ Stereopsis and other binocular methods have separate limitations; see the [inven
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 Authored explanation example, not a patient quotation:
 
@@ -152,6 +155,7 @@ If the setup was inconclusive, say so explicitly and explain the next assessment
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The cited clinical reviews describe these methods; this educational sequence is not a validated battery and has no assigned sensitivity, specificity or severity score. Do not convert a positive comparison into a judgment about intention. (*citations* [1](#citation-1), [2](#citation-2))
 

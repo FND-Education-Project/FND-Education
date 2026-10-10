@@ -16,6 +16,7 @@ These movements and sounds can be brief, continuous or arrive in long bouts. The
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -87,6 +88,7 @@ Stop if movement, pain, dizziness or fall risk increases. Do not practise with d
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Make the space safer and ask whether the person wants help. Avoid holding a moving limb down, drawing a crowd or repeatedly pointing out the movement. Quietly offer the agreed cue or a meaningful task if requested.
 
@@ -102,6 +104,7 @@ Variation is not evidence of pretending. Record a short video only with consent 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Tic-specific assessment and treatment limits
 

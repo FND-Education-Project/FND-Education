@@ -16,6 +16,7 @@ FND can explain real and disabling symptoms. It does not protect you from anothe
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -83,6 +84,7 @@ A lower-demand version is to name one familiar symptom and its usual recovery ti
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Follow the person’s plan for a familiar event, while noticing what is different today. Describe what you observe: timing, movement, responsiveness, breathing, colour, injury and recovery. You do not have to decide the diagnosis.
 
@@ -96,6 +98,7 @@ Avoid saying either “This is definitely FND” or “This must be an emergency
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

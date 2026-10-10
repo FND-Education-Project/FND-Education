@@ -16,6 +16,7 @@ A team is easier to use when everyone knows what matters now, who is doing what 
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -82,6 +83,7 @@ Write one priority and one name beside it. If there is no name, write **“gap t
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 If invited, help the person keep their own words at the centre. Ask whether they want you to listen, take notes, describe an event or speak when they lose words. Agree this before the appointment when possible.
 
@@ -95,6 +97,7 @@ You can notice conflicting instructions, but do not quietly choose which clinici
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

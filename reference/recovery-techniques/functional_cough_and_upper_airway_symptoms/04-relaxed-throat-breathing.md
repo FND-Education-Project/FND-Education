@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Being told to “just relax” is rarely helpful when your throat feels tight. This approach is more practical: your clinician helps you find a breathing pattern that asks less of your jaw, shoulders and throat. The aim is comfort and coordination, not taking the biggest possible breath.
 
@@ -39,6 +40,7 @@ Do not use cough suppression to manage choking, serious breathlessness or a new 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 A calm presence can be more useful than constant instructions. Ask whether the person wants their cue or a quiet pause. Do not insist they demonstrate the exercise to prove that they can breathe normally.
 
@@ -52,6 +54,7 @@ Agree beforehand how the person wants help during a familiar bout. A changed or 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Assess the breathing and laryngeal phenotype before selecting retraining. Avoid generic deep-breathing prescriptions and distinguish upper-airway symptoms from lower-airway obstruction. Agree an onset cue, stop criteria and a route back to meaningful activity. Persistent dyspnoea requires reassessment, not an assumption that the patient is failing to relax.
 

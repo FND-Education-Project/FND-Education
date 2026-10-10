@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -50,6 +51,7 @@ Still images or recordings should be made only with consent, stored securely and
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Use mirrors or video only if the person and clinician have included them in the plan. Do not film unexpectedly or replay symptoms to convince the person that they “can control it.” Avoid comments about appearance. A useful observation is tied to function: “the hand stayed on the towel while you folded it.”
 
@@ -63,6 +65,7 @@ If the person begins checking repeatedly, comparing sides or becoming distressed
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and setup
 

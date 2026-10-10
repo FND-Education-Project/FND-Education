@@ -32,6 +32,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 You may find yourself coughing repeatedly, clearing your throat again and again, or noticing throat tightness, a changed voice or difficulty getting air in during an episode. These descriptions help you decide whether this page is relevant; they do not identify the cause.
 
@@ -65,6 +66,7 @@ At the onset of a familiar mild episode, use only the breathing or competing res
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not expose the person to scents, smoke, exercise or stressful situations to see whether coughing or breathing changes. Follow the respiratory or speech-therapy plan they have been given. During serious breathing difficulty, prioritize emergency care rather than recording.
 
@@ -86,6 +88,7 @@ A short cough bout and a flare lasting much longer should both be described accu
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 **Featured technique:** Multidisciplinary history and laryngeal-respiratory assessment across relevant conditions.<br>
 **Diagnostic method:** Identify a positive symptom pattern while assessing respiratory, laryngeal, medication-related and other causes; there is no single decisive bedside sign.<br>

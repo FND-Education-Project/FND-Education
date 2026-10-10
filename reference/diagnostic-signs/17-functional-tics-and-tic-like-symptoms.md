@@ -29,6 +29,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 An unexpected sound or word can leave you worrying about what other people heard and what they think you meant. You deserve an explanation and practical help. Recognizable words can still be involuntary; their content is not a reliable account of your wishes or beliefs.
 
@@ -62,6 +63,7 @@ Ask the team to record communication, injuries, help and access to school, work 
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Believe that the symptom is happening without the person choosing it. Ask how they want you to respond to a sound or phrase, especially in public. They may prefer a brief acknowledgment and then time to finish their intended message. Avoid demanding an apology for involuntary words, asking them to demonstrate symptoms, or repeatedly testing whether they can stop.
 
@@ -78,6 +80,7 @@ Do not use online examples, a psychiatric history or a social-media habit to dec
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 **Featured approach:** Specialist assessment of the symptom history, developmental course and overall clinical pattern.<br>
 **Diagnostic method:** Explain the positive clinical reasons for the formulation and their limits. No single movement, demographic feature or normal test establishes functional tic-like symptoms.<br>

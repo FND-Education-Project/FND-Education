@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique is trying to change
 
@@ -45,6 +46,7 @@ The support level should be decided before starting. Stop and reset if the knee 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Set up the rail, walker, chair and route exactly as agreed with the therapist. If you have been taught to guard, stay in the trained position and avoid pulling the person sideways by an arm or shoulder. A useful cue may be “left–right” or the name of the step target; several anatomical corrections at once usually add work.
 
@@ -58,6 +60,7 @@ Do not increase the size of the weight shift, remove an aid or ask for another r
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and safety screen
 

@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -59,6 +60,7 @@ Stop if pain rises sharply, the joint feels mechanically blocked, colour or temp
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Set up the agreed supports before the person moves. Ask where and how they want help; do not take hold of a hand, foot, head or limb without consent. Support the weight of the affected part rather than pulling against the posture.
 
@@ -74,6 +76,7 @@ Check for folded fabric, hard seams, pressure under a heel or elbow, and a limb 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and examination
 

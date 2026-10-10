@@ -18,6 +18,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### “I am doing everything. Why am I still sick?”
 
@@ -241,6 +242,7 @@ Treatment should connect to what matters to you.
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 ### Encouragement and pressure are not the same
 
@@ -318,6 +320,7 @@ Do not begin with motivation as the explanation.
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Do not turn treatment theory into moral judgement
 

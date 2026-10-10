@@ -32,6 +32,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 You may be unable to move an arm or leg when you try, or have so little available movement that ordinary tasks need help. The loss may persist or occur in episodes. This page concerns complete or near-complete limb movement loss; the appearance alone does not establish its cause.
 
@@ -63,6 +64,7 @@ The [assessment and care guide](functional_paralysis/01-severe-immobility-assess
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Complete movement loss can vary without being voluntary. Do not pull the person upright, force a limb, remove an aid or demand that they demonstrate a previously observed movement. Ask what help is wanted, use trained transfer methods and bring the person’s usual aid or communication device.
 
@@ -82,6 +84,7 @@ With consent, help describe what was observed, what the person reported, which h
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 **Primary techniques:** Phenotype-specific comparison of attempted movement with automatic or synergistic movement—for example Hoover’s or the hip-abductor sign for unilateral leg paralysis, and the finger-abduction sign for unilateral arm paralysis.<br>
 **Diagnostic method:** Demonstrate a reproducible difference between voluntary access and movement recruited in another task, interpreted with the history, complete examination and appropriate investigation. No one sign covers bilateral or widespread paralysis.<br>

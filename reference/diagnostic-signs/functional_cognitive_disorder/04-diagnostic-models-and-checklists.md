@@ -20,6 +20,7 @@ Clinician-focused educational reference; use within professional competence, con
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Understand what published diagnostic models and checklists add to clinical assessment, and where their evidence stops. These tools estimate or classify diagnostic likelihood; they do not measure everyday disability or assistance needs.
 
@@ -110,6 +111,7 @@ For any research instrument, record the version, why it is appropriate, the clin
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 A high score may support further consideration within the studied framework; it does not replace a positive formulation and differential assessment. A low score does not automatically exclude FCD.
 
@@ -131,6 +133,7 @@ Reported accuracy in selected memory-clinic samples may not transfer to younger 
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 Authored example, not a patient quotation:
 
@@ -150,6 +153,7 @@ Authored example, not a patient quotation:
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 | Instrument | Study and findings | Main interpretation limit |
 |---|---|---|

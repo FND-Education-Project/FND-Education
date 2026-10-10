@@ -16,6 +16,7 @@ Tests are important, but no test answers every question. A scan, blood test, ele
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A common description of the diagnostic process is, “All my tests were normal, so they said it was FND.” That explanation is incomplete. Normal test results may make some other diagnoses less likely, but they do not themselves show that a symptom is functional. The evidence for FND should come from positive features in the history, examination or nature of an event. (*citations* [1](#citation-1), [2](#citation-2))
 
@@ -92,6 +93,7 @@ If writing the full record is too much, begin with one sentence: “The part of 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Diagnostic uncertainty can be exhausting. The person may be trying to understand several appointments, tests and explanations while also managing symptoms. If invited, you can help keep a simple record of what each clinician thought, what each test was meant to answer and what follow-up was promised.
 
@@ -109,6 +111,7 @@ Support can include helping the person prepare one or two questions, asking perm
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

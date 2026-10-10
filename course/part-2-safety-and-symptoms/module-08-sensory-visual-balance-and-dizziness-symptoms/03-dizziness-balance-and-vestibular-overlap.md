@@ -16,6 +16,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -75,6 +76,7 @@ Do not begin vestibular exercises from this page. Stop an activity if you are at
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Offer a stable arm or seat in the way the person prefers. Reduce immediate visual or motion load and allow recovery. Do not rapidly move the person’s head or test balance unexpectedly.
 
@@ -88,6 +90,7 @@ Notice whether the event involved fainting, injury, new neurological symptoms or
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

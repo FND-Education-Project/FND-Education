@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 When swallowing has become something you supervise in detail, a therapist may help you give a little less attention to each step. That can mean attending to the meal as a whole instead of mentally directing every muscle.
 
@@ -51,6 +52,7 @@ Call emergency services for choking with inability to breathe, speak or cough ef
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not turn on music, start a conversation or draw attention away during a difficult swallow unless that specific approach is in the plan. Never distract someone to get them to swallow an unapproved food. Respect consent and required monitoring.
 
@@ -64,6 +66,7 @@ Use the person’s written flare and emergency plan. If they cannot safely conti
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and formulation
 

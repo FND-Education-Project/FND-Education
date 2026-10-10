@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Being told that a test was normal can leave a very practical question unanswered: “What am I supposed to do at dinner?” A useful explanation connects the findings to a plan you can actually follow. It should leave room for questions and for the possibility that more than one condition is present.
 
@@ -51,6 +52,7 @@ Call emergency services for choking with inability to breathe, speak or cough ef
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help the person bring their questions and retain the written plan. Avoid turning “the test was reassuring” into “there is nothing wrong.” If they remain unable to eat enough, help arrange follow-up rather than urging them to prove they can swallow.
 
@@ -64,6 +66,7 @@ Use the person’s written flare and emergency plan. If they cannot safely conti
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and formulation
 

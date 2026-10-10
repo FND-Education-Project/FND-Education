@@ -16,6 +16,7 @@ The safest question is not “FND or emergency?” It is “How does this compar
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -76,6 +77,7 @@ New sounds or words may deserve a review of the symptom pattern and its effect o
 
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Know where the plan is. During a familiar event, follow the person's agreed instructions and preserve privacy and dignity. During a changed event, describe what you actually observed: what began, when, what was different, possible injury and recovery.
 
@@ -89,6 +91,7 @@ Do not announce either “it is only FND” or “it must be an emergency” wit
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

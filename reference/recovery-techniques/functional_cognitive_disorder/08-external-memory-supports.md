@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A reminder is useful even when you understand perfectly why you forgot. You do not have to earn the right to use one, and you do not need to stop using it to show improvement. The best system is often the simplest one you can find and use on a difficult day.
 
@@ -60,6 +61,7 @@ Sudden new confusion, altered consciousness, or cognitive difficulty with new we
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Set up the system together and avoid moving familiar objects without saying where they went. Ask before accessing a calendar or phone. A reminder should feel like help, not surveillance; do not remove it to make the person exercise their memory.
 
@@ -73,6 +75,7 @@ During a familiar flare, use one speaker and one idea at a time. Give processing
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Assess encoding, prospective memory (remembering to do something later), retrieval, sequencing and access barriers. Match the aid to the actual task and verify reliable use in context. Review safety-critical routines separately. Distinguish useful compensation from burdensome checking; an aid is not inherently a perpetuating factor. (*citations* [1](#citation-1))
 

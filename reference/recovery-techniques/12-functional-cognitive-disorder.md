@@ -30,6 +30,7 @@ For the fuller explanation—including faces, visual recall, imagery and evidenc
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 [Explore the thirteen detailed pages](functional_cognitive_disorder/README.md). Each original entry has one page; you do not need to try every approach. Supported success counts, and useful aids can stay in place.
 
@@ -96,6 +97,7 @@ Confusion is sudden, consciousness changes, or cognitive symptoms occur with new
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 - Do not quiz, secretly score or use a remembered success to dismiss a later difficulty.
 - With permission, help create one shared calendar or checklist instead of multiple competing systems.
@@ -117,6 +119,7 @@ Use one speaker and one idea at a time. Give extra processing time, point to the
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Establish a positive FCD formulation while evaluating neurodegenerative, neurological, sleep, pain, medication, mood and neurodevelopmental explanations and comorbidities. Use concrete examples of inconsistency and preserved function without adversarial validity testing. Explain uncertainty and follow-up thresholds.
 

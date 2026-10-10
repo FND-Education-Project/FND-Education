@@ -20,6 +20,7 @@ Clinician-focused educational reference; select assessment within professional c
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use this guide to organize a criteria-based interview for persistent dizziness. It owns the five-criteria outline previously on the symptom overview. The [differential guide](02-vestibular-and-differential-assessment.md) addresses investigations; the [measurement guide](03-questionnaires-and-everyday-function.md) addresses symptom burden and participation.
 
@@ -123,6 +124,7 @@ Invite corrections to the summary rather than seeking a particular answer. A sup
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 Record each criterion as supported, not supported or unresolved, with its evidence. An unresolved history calls for clarification or follow-up, not a guessed positive result. If a specific precipitant cannot be identified, particularly with gradual worsening, the consensus advises reassessment and prospective observation. (*citations* [1](#citation-1))
 
@@ -144,6 +146,7 @@ Criterion D establishes meaningful impact; it does not quantify required assista
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 **Authored explanation example, to adapt to the actual findings:** “We have discussed your usual dizziness, how long it has been happening, what makes it worse, how it started and what it interrupts. I will show you which parts fit PPPD and which still need an explanation. The assessment also needs to account for any other balance condition you have.”
 
@@ -163,6 +166,7 @@ If criteria remain unresolved, say so plainly: “We have enough information to 
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The Bárány document is consensus guidance drawing on earlier syndromes, not a diagnostic-accuracy trial of this authored interview record. This page supplies no sensitivity or specificity for the criteria as a combined test. (*citations* [1](#citation-1))
 

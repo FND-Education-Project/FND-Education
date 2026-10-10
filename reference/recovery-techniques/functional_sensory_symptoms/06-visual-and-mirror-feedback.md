@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this approach is for
 
@@ -43,6 +44,7 @@ These are choices to discuss with your care team, not a required exercise schedu
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask whether the person wants a mirror or simply a clear view. Keep lighting comfortable and avoid introducing a bright screen as a substitute without checking tolerance.
 
@@ -56,6 +58,7 @@ Describe the task outcome rather than demanding that the limb feel normal. Durin
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

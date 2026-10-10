@@ -21,6 +21,7 @@
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 This is a specialist clinical assessment of the history and movement pattern. It asks whether positive findings support functional dystonia and whether another condition also needs assessment. It combines observations rather than offering a single decisive manoeuvre. (*citations* [1](#citation-1))
 
@@ -116,6 +117,7 @@ For step 3, choose a suitable ordinary activity involving the affected region, a
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 > **Internal inconsistency:** A meaningful mismatch between comparable functions within the person's assessment. **Incongruity:** A pattern that conflicts with established clinical expectations. Both require knowledge of the alternatives.
 
@@ -141,6 +143,7 @@ Unexpected appearance needs a reasoned explanation, not an unfamiliarity-based d
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 A suggested opening is: “You have an involuntary posturing problem. Let me explain which findings help us understand it, and what we still need to check.” Then describe the actual observed comparison in everyday language; do not substitute a generic reassurance for the finding.
 
@@ -162,6 +165,7 @@ These are editorial examples, not research quotations. Ask whether the explanati
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The 2025 dystonia classification provides a current framework for describing the posture, timing and associated features. Specialist clinical guidance then helps interpret positive functional findings within that pattern. Classification is not a diagnostic-accuracy test, and fixed or painful posturing still requires assessment of other possible causes. (*citations* [1](#citation-1), [2](#citation-2))
 

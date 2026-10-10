@@ -22,6 +22,7 @@ Clinician-focused educational reference. Other readers are welcome; this is not 
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 This assessment asks what each recurring event is and how securely the evidence supports that conclusion. It combines history, witness information and, when feasible, synchronized video and EEG of a habitual event. It is especially useful when epilepsy and functional seizures remain difficult to distinguish or there is more than one event type. (*citations* [1](#citation-1))
 
@@ -112,6 +113,7 @@ During a suitable event, trained staff may use a simple spoken instruction or as
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **Evidence supporting functional seizures:** A representative event with a compatible clinical pattern and a recording that supports the specialist's conclusion after considering scalp-EEG limitations and alternative physiological events.
 
@@ -137,6 +139,7 @@ One captured event does not classify every event the person has. Nor does the re
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 An editorial example, to use only when it matches the evidence:
 
@@ -160,6 +163,7 @@ Offer the explanation in writing, allow questions and specify who will review un
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The 2026 AAN guideline is the current starting point: combine history and witness information, assess possible coexisting epilepsy, and use video-EEG when feasible to resolve uncertainty. When event capture is unavailable, use the available clinical and recording evidence and explain the supported level of certainty. (*citations* [1](#citation-1))
 

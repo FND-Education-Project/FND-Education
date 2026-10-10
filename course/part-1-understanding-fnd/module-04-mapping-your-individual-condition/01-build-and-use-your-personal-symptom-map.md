@@ -16,6 +16,7 @@ When symptoms, diagnoses, possible triggers, medications and unanswered question
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What is a personal symptom map?
 
@@ -126,6 +127,7 @@ Stop or simplify if mapping makes you constantly scan your body, increases distr
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 A symptom map can help the person communicate when memory, speech, fatigue or symptoms make a long explanation difficult. Offer to write, organize or bring the map to an appointment if the person wants that help.
 
@@ -143,6 +145,7 @@ Learn the person's familiar safety plan and which changes require reassessment. 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

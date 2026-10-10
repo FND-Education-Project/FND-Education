@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Understanding what “tired” can mean
 
@@ -42,6 +43,7 @@ Pain, disrupted sleep, sustained concentration and effortful movement can all ad
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask which task would free up the most energy. Remember that a visit, conversation or decision can be demanding too. A person may look well during an activity and pay for it later; do not use that brief appearance to judge what they can sustain.
 
@@ -53,6 +55,7 @@ Ask which task would free up the most energy. Remember that a visit, conversatio
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Characterize fatigue, sleepiness, fatigability and delayed worsening separately. Assess relevant medical contributors and medication burden. Where ME/CFS criteria are met, integrate its guidance; neither FND nor ME/CFS excludes the other. Use participation and tolerability goals without promising that activity progression will remove fatigue. (*citations* [1](#source-1), [2](#source-2), [4](#source-4))
 

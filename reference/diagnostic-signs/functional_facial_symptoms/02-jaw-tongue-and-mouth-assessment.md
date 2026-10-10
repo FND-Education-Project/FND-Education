@@ -20,6 +20,7 @@ Clinician-focused educational reference; use within professional competence, con
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use this guide when the principal difficulty involves jaw position or movement, tongue movement, lip pulling or mouth control. Identify the clinical question before selecting a task; oral medicine/dentistry, movement-disorders neurology and speech-language services may have complementary roles.
 
@@ -127,6 +128,7 @@ Record the source of each statement: person report, supporter observation with c
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 A change across tasks must be interpreted against the relevant differential, not merely labelled inconsistent. The selected cohort's study-specific criteria are not an independently validated clinical checklist. Coexisting non-functional disease was reported. (*citations* [1](#citation-1))
 
@@ -148,6 +150,7 @@ Preserved performance in one task may be useful to discuss, but it does not esta
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 **Authored explanation example:** “We are looking separately at how your jaw and tongue move and what that means for speaking, meals and mouth care. A difference between two tasks can help us understand the movement, but it does not settle every question about safety or daily function. We will agree which questions need another specialist.”
 
@@ -167,6 +170,7 @@ Avoid portraying the assessment as catching the person out. If communication is 
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 Yoshida retrospectively assessed a selected single-institution population. Of 157 people assessed after initial exclusions, 58 met the study's greater-than-seven-of-ten selection threshold. Features used to select the group were then described within it; this does not independently establish their diagnostic accuracy. The reported classic pattern occurred in 26/58 patients. Referral bias limits generalization. (*citations* [1](#citation-1))
 

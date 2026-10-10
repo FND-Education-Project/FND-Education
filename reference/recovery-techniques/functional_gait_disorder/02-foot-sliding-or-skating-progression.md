@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Why keeping contact may help
 
@@ -45,6 +46,7 @@ Use only the surface, footwear and support selected for you. Do not place socks,
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Clear the route and keep the person’s prescribed support available. Use the external target or short cue chosen in therapy. Do not make the floor more slippery, pull the leg forward, lift the foot manually during the step, or turn sliding into a speed exercise.
 
@@ -58,6 +60,7 @@ Notice whether the problem occurred before the foot moved, when it crossed the o
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and differential screen
 

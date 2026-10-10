@@ -20,6 +20,7 @@ Clinician-focused educational reference; assessment requires appropriate trainin
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Describe persistent cough, throat clearing and their clinical context before choosing a diagnostic label. This page is for clinicians coordinating respiratory and speech-language assessment; it does not provide a home suppression test or a paediatric cough algorithm.
 
@@ -119,6 +120,7 @@ Document the task, the person's experience, changes in effort or voice, and reco
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **A useful finding:** A reproducible clinical pattern can guide specialist formulation. Name the actual finding and its limits instead of writing only “functional features present.”
 
@@ -142,6 +144,7 @@ A quieter consultation does not establish reliable speech at work, safe exercise
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 Authored example, not a patient quotation:
 
@@ -163,6 +166,7 @@ Give a written summary and a named route for follow-up. Separate the diagnostic 
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 Baker and colleagues provide a multidisciplinary consensus framework, not diagnostic-accuracy validation of this outline. BTS is adult chronic-cough guidance, not a validation study of functional cough. No sensitivity, specificity or cutoff is assigned to the task comparison. (*citations* [1](#citation-1), [2](#citation-2))
 

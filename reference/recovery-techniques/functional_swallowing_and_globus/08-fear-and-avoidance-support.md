@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 After a frightening meal, being told “there is nothing to fear” may not help much. You may need someone who understands both swallowing and fear to work with you at a pace you can tolerate. Fear can deserve care whether it came before the swallowing symptoms or followed them.
 
@@ -51,6 +52,7 @@ Call emergency services for choking with inability to breathe, speak or cough ef
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Listen without promising that choking is impossible. Avoid surprise food challenges, bargaining, criticism or public encouragement that feels like pressure. Ask whether reassurance is helpful and support the agreed plan for both familiar difficulty and a medical change.
 
@@ -64,6 +66,7 @@ Use the person’s written flare and emergency plan. If they cannot safely conti
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and formulation
 

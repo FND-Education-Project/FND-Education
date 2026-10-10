@@ -16,6 +16,7 @@ A handbook works only if you can find it, trust it and understand which version 
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -79,6 +80,7 @@ Add **last reviewed: [date]** to the front page. Then remove one item that is ou
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Know where the agreed version is and how to open it. Offer to maintain formatting or backups, but let the person approve content and sharing. Do not keep a secret “real” version about them.
 
@@ -92,6 +94,7 @@ If you notice a plan no longer fits, ask for a review. Do not edit medical instr
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

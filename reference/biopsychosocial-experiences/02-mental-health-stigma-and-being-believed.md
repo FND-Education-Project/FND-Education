@@ -18,6 +18,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Two real conditions can exist at the same time
 
@@ -149,6 +150,7 @@ If mood, behaviour, sleep, judgement or safety changes suddenly or severely, see
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 ### Belief and certainty are different
 
@@ -224,6 +226,7 @@ For more on shared limits, see [Supporter Wellbeing and Shared Boundaries](../..
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Keep four questions separate
 

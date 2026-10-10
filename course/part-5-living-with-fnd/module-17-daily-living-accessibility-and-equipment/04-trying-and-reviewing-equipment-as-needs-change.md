@@ -16,6 +16,7 @@ Equipment decisions are easier to understand when they are treated as a trial wi
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -69,6 +70,7 @@ For one aid, write: **goal — benefit — burden — review date**. If the aid 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help observe practical outcomes without turning the trial into surveillance. Ask the person what counts as benefit. A less visible outcome—being able to stay at an event, wash privately or recover sooner—may matter most.
 
@@ -80,6 +82,7 @@ Help observe practical outcomes without turning the trial into surveillance. Ask
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

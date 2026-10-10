@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this approach is for
 
@@ -43,6 +44,7 @@ These are choices to discuss with your care team, not a required exercise schedu
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Offer two comfortable materials and let the person choose. Tell them where contact will occur and wait for permission. A neutral answer such as “I cannot feel it” is valid; there is no need to repeat the test until a different answer appears.
 
@@ -56,6 +58,7 @@ If the person cannot manage practice during a flare, remove hazards and help wit
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -47,6 +48,7 @@ Stop if the adhesive irritates the skin, the setup increases distress or symptom
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Treat the display as a temporary teaching tool, not a truth detector. Do not interpret a high signal as lack of relaxation or a low signal as recovery. Help the person attend to the functional task after the clinician fades the display.
 
@@ -60,6 +62,7 @@ Do not purchase or place electrodes based on an online diagram. Correct muscle s
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and recording boundary
 

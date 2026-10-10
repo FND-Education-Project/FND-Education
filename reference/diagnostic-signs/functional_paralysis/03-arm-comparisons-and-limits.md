@@ -20,6 +20,7 @@ Clinician-focused educational reference; use within professional competence, con
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use this guide to distinguish the severe-unilateral setting of finger abduction from other upper-limb comparisons. The elbow flex-ex study concerns unilateral arm weakness; neither method establishes a universal test for complete bilateral paralysis.
 
@@ -116,6 +117,7 @@ The [nine-entry inventory](technique-inventory.md) preserves these boundaries an
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 Associated finger movement in an incompletely weak hand must not be treated as diagnostic of functional paralysis: the study demonstrated associated movement in healthy hands too. Interpret the finding in its severe-unilateral context and with the entire examination. (*citations* [1](#citation-1))
 
@@ -137,6 +139,7 @@ Ask separately about reaching, gripping, operating a communication device, dress
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 **Authored explanation example:** “We saw a difference between trying that movement directly and what happened during the other hand's task. That can help us understand this specific movement. It does not mean you can choose to use the hand normally, and we still need to understand what help you need for everyday tasks.”
 
@@ -156,6 +159,7 @@ If the comparison is unclear, give that result without pressing for repeated max
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 Tinazzi included ten people with acute functional arm paralysis, eleven with acute paralysis from other causes and 36 healthy participants. The finger sign separated the two small patient groups perfectly in that sample. This does not establish universal accuracy, applicability to partial weakness or a measure of disability. Primary abstract reviewed; complete full-text appraisal remains pending. (*citations* [1](#citation-1))
 

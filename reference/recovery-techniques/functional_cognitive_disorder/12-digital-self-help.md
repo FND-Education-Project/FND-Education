@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Working through material at home can be appealing when appointments are tiring or hard to reach. But an app should fit your needs. A difficult programme, an inaccessible screen or content that leaves you feeling blamed is a reason to ask for something different.
 
@@ -46,6 +47,7 @@ Sudden new confusion, altered consciousness, or cognitive difficulty with new we
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Offer help operating the device if wanted, without taking over private exercises or monitoring completion. Difficulty using the programme may reflect design or access barriers. It does not demonstrate unwillingness to recover.
 
@@ -59,6 +61,7 @@ During a familiar flare, use one speaker and one idea at a time. Give processing
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 The study was single-arm and relied on self-report, with missing follow-up data and a selected clinic sample. It tested a package, not individual exercises. Discuss reported negative effects and lack of personalization, distinguish technical support from therapist guidance, and arrange escalation beyond self-help. Do not generalize findings to commercial cognitive-training products. (*citations* [1](#citation-1))
 

@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this approach is for
 
@@ -43,6 +44,7 @@ These examples require selection for your assessed presentation. The clinical ra
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not turn household activities into guessing games without agreement. Never say that an accurate answer means the person was pretending or withholding effort.
 
@@ -56,6 +58,7 @@ Support an alternative way to communicate if pointing or speech is difficult. A 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

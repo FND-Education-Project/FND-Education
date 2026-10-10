@@ -33,6 +33,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Your hand may feel numb, a patch of skin may tingle or burn, or touch may feel unusually strong. A limb may feel distant or absent even though you can see it. These are among the experiences people describe with functional sensory symptoms. Recognizing an experience here helps identify the relevant page; it does not establish its cause. The clinician first works out which kind of sensation has changed and whether the pattern fits a nerve, nerve root, spinal cord, brain or another recognized condition.
 
@@ -74,6 +75,7 @@ For practical management, see the separate [sensory recovery collection](../reco
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not use pins, heat, ice or repeated touching to map another person’s sensation at home. Reduced sensation can make injury easier, and interpretation requires anatomical knowledge and the rest of the examination. Help the person describe the location, timing and practical effect of the symptom instead.
 
@@ -99,6 +101,7 @@ With permission, help explain what happens between appointments and which activi
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Start with the actual sensory complaint
 

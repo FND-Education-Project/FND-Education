@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -52,6 +53,7 @@ The task can still be successful. A lidded cup, two-handed hold, non-slip mat, f
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Set up the destination and ask about the preferred amount of help. Give an outcome cue—“put the card in this box”—instead of repeated commands to steady the hand. Avoid staring at the tremor, taking the object away without asking or escalating immediately to a harder task after one successful attempt.
 
@@ -65,6 +67,7 @@ Keep adaptations available. Supporting participation now and practising change c
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and baseline
 

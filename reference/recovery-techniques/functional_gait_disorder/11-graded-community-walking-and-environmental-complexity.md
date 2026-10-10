@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Why clinic walking may not be enough
 
@@ -45,6 +46,7 @@ Before leaving, identify the aid, companion, seat, stopping point and return pla
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Plan the route together when the person is relatively settled. Know where the seats, exits and quieter alternatives are. Carry only the equipment you have agreed on, and leave enough capacity for the return journey.
 
@@ -58,6 +60,7 @@ Do not lengthen the route because the outward walk went well. During difficulty,
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Ecological assessment
 

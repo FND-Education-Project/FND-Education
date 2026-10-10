@@ -16,6 +16,7 @@ The world does not become accessible simply because someone is offered rehabilit
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -77,6 +78,7 @@ Do not force exposure or remove a needed aid to prove progress. Seek clinical he
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask what should be changed in the environment before suggesting the person work harder to tolerate it. Offer one practical adjustment and respect the answer. Do not remove sunglasses, headphones or another aid as a surprise test.
 
@@ -90,6 +92,7 @@ If the person chooses gradual practice, support the agreed dose and recovery. Yo
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

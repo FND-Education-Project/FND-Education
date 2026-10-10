@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Why returning can be difficult
 
@@ -49,6 +50,7 @@ Progress may mean more choice, less restriction or a more manageable day, even i
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask what the person would like to return to, rather than choosing a challenge for them. Help with practical arrangements and agree how to change plans without embarrassment.
 
@@ -62,6 +64,7 @@ Avoid both pressure to push through and assuming that every activity must now be
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Formulate actual fall risk, access barriers and any modifiable fear/avoidance separately. Establish the safety plan before exposure-based work, obtain consent and retain necessary equipment. The qualitative drop-attack model does not justify applying the same psychological explanation to everyone. (*citations* [2](#citation-2))
 

@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this approach is for
 
@@ -43,6 +44,7 @@ These are choices to discuss with your care team, not a required exercise schedu
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Use one agreed cue and allow time for a response. Avoid a stream of questions, loud counting or surprise distraction. Ask whether quiet support would be more helpful.
 
@@ -56,6 +58,7 @@ Do not hide an injury or claim that a successful distracted action proves volunt
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

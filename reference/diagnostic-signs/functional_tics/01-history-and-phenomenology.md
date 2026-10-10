@@ -20,6 +20,7 @@ Clinician-focused educational reference. Use within professional competence and 
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use this guide to describe movement and sound, onset and change over time before deciding whether symptoms are primary tics, functional tic-like symptoms, another disorder or a combination. A tic/FND-experienced clinician should explain the formulation. [1](#citation-1), [2](#citation-2)
 
@@ -99,6 +100,7 @@ This sequence organizes the existing assessment domains; it is not a diagnostic 
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 A feature becomes useful through its relationship to the whole history, examination and competing explanations. Demographics, psychiatric history, autism, ADHD or social-media exposure are not standalone diagnostic evidence. Primary tics and functional symptoms may coexist; do not force every sound and movement into one category. [1](#citation-1)
 
@@ -118,6 +120,7 @@ A recording captures a selected period. It does not measure the whole person's c
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 **Authored explanation example:** “We are considering the history and the pattern together. Some features may belong to an earlier tic disorder and others may need a different explanation. The symptoms are involuntary, and uncertainty does not prevent us from helping with their impact.”
 
@@ -135,6 +138,7 @@ A recording captures a selected period. It does not measure the whole person's c
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The review provides clinical synthesis, not a validated checklist. The assessment guideline concerns primary tic disorders and is adjacent evidence; it does not validate a functional-tic classifier. This guide retains their established assessment domains while keeping the [criteria and uncertainty](02-criteria-and-diagnostic-uncertainty.md) discussion separate. [1](#citation-1), [2](#citation-2)
 

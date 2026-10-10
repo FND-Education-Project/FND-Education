@@ -16,6 +16,7 @@ A task can be hard for several reasons at once. Finding the hardest part often g
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -71,6 +72,7 @@ Choose one task. Write four words: **barrier — risk — current workaround —
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask, “Which part would you like help with?” before taking over. A person may want practical help without being watched, corrected or hurried.
 
@@ -84,6 +86,7 @@ Notice your own safety too. Get advice for lifting and transfers; do not improvi
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

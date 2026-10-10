@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What surface EMG biofeedback does
 
@@ -50,6 +51,7 @@ Ask what the equipment measures and what it cannot measure. Stop if the adhesive
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Treat the display as private health information. Do not interpret, photograph or compare readings unless the person has asked you to take part. A higher signal does not mean the person is not trying to relax. Help carry the clinician’s functional cue into the task, not the device number into everyday surveillance.
 
@@ -61,6 +63,7 @@ Treat the display as private health information. Do not interpret, photograph or
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and baseline
 

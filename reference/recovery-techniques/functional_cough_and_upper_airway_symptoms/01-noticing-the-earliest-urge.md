@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A cough can seem to arrive before you have any say in it. Sometimes there is a small opening just before it: a familiar tickle, a change in your breathing, or the moment you begin speaking. Finding that opening can help you use a response your clinician has taught you. It does not mean you caused the cough.
 
@@ -39,6 +40,7 @@ Do not use cough suppression to manage choking, serious breathlessness or a new 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask whether a reminder would help before offering one. Counting coughs aloud or announcing every throat sound can make a person feel watched. Notice what they managed to do, such as finishing a call, rather than whether the room stayed silent.
 
@@ -52,6 +54,7 @@ Agree beforehand how the person wants help during a familiar bout. A changed or 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Use brief, collaborative mapping to identify an actionable cue without prescribing continuous interoceptive monitoring. Record context, urge, response and participation. An urge is not specific to FND: assess cough hypersensitivity and tic features where relevant. A diary cannot establish the diagnosis.
 

@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this approach is for
 
@@ -43,6 +44,7 @@ These are choices to discuss with your care team, not a required exercise schedu
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Keep the task collaborative. Show the answer without praise for “normal nerves” or criticism for a mistake. Offer pointing or matching instead of naming if speech or memory makes naming difficult.
 
@@ -56,6 +58,7 @@ During a flare, put the exercise away when necessary and help with a safe famili
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

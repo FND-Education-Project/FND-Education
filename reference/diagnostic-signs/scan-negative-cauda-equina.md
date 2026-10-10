@@ -26,6 +26,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A **scan-negative cauda equina presentation** means that symptoms looked concerning enough for cauda equina syndrome to be investigated, but the scan did not show the kind of nerve-root compression that would explain classic compressive cauda equina syndrome.
 
@@ -42,6 +43,7 @@ If a clinician thinks part of the presentation is functional, that conclusion sh
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Take new bladder, bowel, saddle-sensation or major leg changes seriously, even when the person has had a previous scan-negative episode.
 
@@ -56,6 +58,7 @@ After an emergency cause has been assessed, practical support may include help w
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### First establish the emergency question
 

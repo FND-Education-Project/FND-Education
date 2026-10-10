@@ -16,6 +16,7 @@ This is our current guide to Functional Cognitive Disorder (FCD), including what
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What FCD means
 
@@ -158,6 +159,7 @@ Seek urgent medical assessment for sudden confusion, altered consciousness or a 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask what is missing before offering help. “Would my name and where we met help?” is kinder than turning recognition into a quiz. The person might know you but be unable to find your name, or recognize you while being unable to picture you later. Let them describe the difference.
 
@@ -173,6 +175,7 @@ Keep useful notes, pictures or spoken cues available with permission. A supporte
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 **Assessment and measurement:** [Clinical diagnostic reasoning](diagnostic-signs/functional_cognitive_disorder/01-internal-inconsistency-and-clinical-assessment.md) · [Everyday function, OT tools and review planning](diagnostic-signs/functional_cognitive_disorder/03-everyday-function-and-ot-measurement.md).
 

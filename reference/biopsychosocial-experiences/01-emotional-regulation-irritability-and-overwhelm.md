@@ -18,6 +18,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### When your emotions feel harder to control
 
@@ -199,6 +200,7 @@ Immediate help may be needed when there is danger to you or someone else.
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 A fast emotional response can be difficult for everyone involved.
 
@@ -234,6 +236,7 @@ For fuller relationship guidance, see **[Relationships, Intimacy, and Boundaries
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Keep diagnosis and formulation separate
 

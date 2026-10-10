@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Equipment can make life possible now
 
@@ -47,6 +48,7 @@ Report persistent skin discoloration, breakdown or a new painful pressure area p
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask permission before touching or repositioning the person. Keep equipment, a call device and essential belongings within reach. Do not pull on an arm or improvise a lift when the agreed method needs a hoist or another trained helper.
 
@@ -60,6 +62,7 @@ Learn the specific pressure-care and transfer plan together. If you cannot safel
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Document assistance levels, seating and postural requirements, pressure risk, joint range, continence access, home constraints and caregiver capacity. Coordinate equipment selection and follow-up; review adverse effects as well as participation benefit. Splints are selected adjuncts, not a default response to immobility. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 

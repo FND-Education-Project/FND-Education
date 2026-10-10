@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### One jerk and one bout are different time scales
 
@@ -54,6 +55,7 @@ Seek appropriate urgent help for serious injury, prolonged altered awareness, br
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Read the plan before an episode. During a familiar bout, move hazards, guide the person to the agreed safe position if requested, and use one rehearsed cue. Do not restrain a limb, shout multiple instructions, test responsiveness in a way that causes harm, or insist on discussing triggers immediately.
 
@@ -67,6 +69,7 @@ Know the reassessment criteria and emergency contacts. Afterward, help with a gr
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Risk assessment
 

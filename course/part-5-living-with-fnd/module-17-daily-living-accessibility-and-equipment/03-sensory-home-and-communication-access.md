@@ -16,6 +16,7 @@ Access can begin before symptoms improve. A quieter place, a safer layout or ano
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -76,6 +77,7 @@ For someone with vocal tic-like symptoms, agree on a backup way to finish a mess
 
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask before turning off lights, speaking for the person or moving their equipment. Give time for a reply. Agree a simple yes/no method and a way to pause if communication is unreliable. Keep addressing the person even when someone else is helping.
 
@@ -87,6 +89,7 @@ Ask before turning off lights, speaking for the person or moving their equipment
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

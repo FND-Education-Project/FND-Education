@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What visual feedback is for
 
@@ -41,6 +42,7 @@ Tell the clinician if the mirror makes you feel detached, visually overwhelmed, 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not record or show video without consent. Avoid directing the person to compare sides repeatedly or commenting on whether movement “looks normal.” Help set up the agreed angle and task, then keep feedback brief. If visual attention worsens movement or distress, use the alternative cue from the plan.
 
@@ -52,6 +54,7 @@ Do not record or show video without consent. Avoid directing the person to compa
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Select the feedback question
 

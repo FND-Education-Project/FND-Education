@@ -16,6 +16,7 @@ Finishing the course does not require finishing FND. It means choosing what, if 
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -72,6 +73,7 @@ Write one sentence: **“For the next month, my priority is ___, and the support
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask what role, if any, the person wants you to carry forward. Say what you can do safely and sustainably. A boundary is not abandonment, and accepting help is not failure.
 
@@ -85,6 +87,7 @@ Do not make visible symptom reduction, walking, independence from aids or employ
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

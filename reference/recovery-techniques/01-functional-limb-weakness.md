@@ -24,6 +24,7 @@ Functional limb weakness can improve when rehabilitation brings out movement tha
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Start with an assessed, meaningful goal
 
@@ -84,6 +85,7 @@ Weakness is new, rapidly changing, follows injury, or comes with new facial droo
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 - Agree on the person’s goal and the kind of help they want before practice begins.
 - Draw attention to the activity—where the cup is going or the rhythm of the walk—rather than repeatedly asking whether the limb is moving normally.
@@ -115,6 +117,7 @@ Use **one** agreed movement cue if the person wants it; avoid a stream of correc
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Confirm and explain positive diagnostic features; screen for relevant comorbidity, pain, fatigue, falls and equipment needs; and demonstrate preserved movement where appropriate. Select techniques from the individual movement pattern rather than applying a fixed protocol. Use functional outcome goals and carry gains into home and community tasks.
 

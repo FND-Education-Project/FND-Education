@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What a response plan is
 
@@ -47,6 +48,7 @@ Share only the information needed for the purpose and with the person's agreemen
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Consistency is helpful when it means people understand the same plan. It does not mean rigidly using one response when the person's needs change. Ask privately about preferences and review them after difficult situations.
 
@@ -60,6 +62,7 @@ Supporters also need workable boundaries and help. Agree who can assist, what th
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Explain any discussion of reinforcement carefully: it is a hypothesis about how responses may influence involuntary patterns, not a conclusion about motivation. The expert review discusses environmental responses; this page explicitly does not translate that into withdrawing required accommodations or empathy. (*citations* [1](#citation-1))
 

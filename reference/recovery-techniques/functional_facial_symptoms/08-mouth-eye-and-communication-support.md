@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Drooling, struggling to speak or not being able to keep your eyes open can turn an ordinary outing into hard work. Practical support belongs in the care plan now, while assessment and rehabilitation continue.
 
@@ -50,6 +51,7 @@ During a familiar flare, use the agreed support plan and avoid driving or hazard
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Keep tissues and communication options available without drawing attention to them. Ask before wiping saliva or assisting with meals. Speak directly to the person and wait for the response rather than assuming that difficulty speaking means difficulty understanding.
 
@@ -63,6 +65,7 @@ Follow the assessed meal and eye-care plan. Do not coax repeated sips, force an 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Assess oral containment, swallowing, nutrition/hydration, communication access and ocular risk separately. Use instrumental swallowing assessment when clinically indicated. Distinguish ptosis/forced closure from incomplete closure and ensure appropriate ophthalmic review. Coordinate accessible medication administration with pharmacy/prescriber advice; do not improvise crushing or textures. Document both restoration goals and continuing support needs.
 

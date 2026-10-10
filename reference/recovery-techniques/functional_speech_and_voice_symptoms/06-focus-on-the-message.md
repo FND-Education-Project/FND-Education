@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 When speaking is difficult, it is understandable to watch every sound closely. Sometimes that adds another job to an already demanding conversation. This approach explores whether keeping attention on what you want the listener to know makes the exchange easier.
 
@@ -41,6 +42,7 @@ The examples here are suggestions to discuss with your clinician, not a fixed ex
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Be a listener rather than a running commentator. Give the person time to finish, and ask before offering a word or correction.
 
@@ -54,6 +56,7 @@ Choose topics they want to discuss, not a surprise test disguised as conversatio
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selecting the approach
 

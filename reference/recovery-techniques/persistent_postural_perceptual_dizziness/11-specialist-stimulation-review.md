@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A treatment that acts directly on nerves can sound more certain than exercise or talking therapy. For PPPD, certainty is still limited. This page helps you ask questions about a proposal; it is not instructions for using a device.
 
@@ -55,6 +56,7 @@ Stop unsafe activity. Sudden or distinctly different dizziness with new weakness
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help write down questions and compare the practical burden with the person’s goals, if invited. Be cautious about testimonials and pressure to pay quickly. Support a decision to stop or decline, and retain ordinary mobility and access help.
 
@@ -68,6 +70,7 @@ During a familiar flare, follow the agreed support and safety plan. Ask before t
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Separate modalities, indications and evidence populations. The network meta-analysis groups heterogeneous interventions and includes diagnostically equivalent conditions; it should not set a routine treatment hierarchy. Use appropriate device governance, contraindication screening, consent and adverse-event follow-up. Lack of benefit should lead to review, not escalating an unproven dose.
 

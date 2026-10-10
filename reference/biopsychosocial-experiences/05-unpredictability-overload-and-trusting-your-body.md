@@ -18,6 +18,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### “I do not know what my body will do”
 
@@ -257,6 +258,7 @@ Use the smallest amount of monitoring that actually improves safety.
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 ### Do not confuse planning with pessimism
 
@@ -324,6 +326,7 @@ For new or clearly changed symptoms, seek appropriate medical advice rather than
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Separate reasonable risk management from fear-maintained restriction
 

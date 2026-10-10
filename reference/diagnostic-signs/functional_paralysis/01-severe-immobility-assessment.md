@@ -20,6 +20,7 @@ Clinician-focused educational reference; use within professional competence, con
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use this guide to establish what “paralysis” means in this presentation, decide which comparison is interpretable and identify immediate care needs. It owns the original five-step examination outline and media brief. Severe functional weakness is the clinical frame; this page does not assert a separate paralysis mechanism. (*citations* [1](#citation-1))
 
@@ -127,6 +128,7 @@ Coordinate these questions across neurology, rehabilitation, physiotherapy, OT, 
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 The finding should support a specific movement formulation. A positive leg sign does not diagnose every affected limb, prove seizure type or quantify independence. If the comparison is unsuitable or cannot be interpreted, record that explicitly rather than calling it negative or positive.
 
@@ -150,6 +152,7 @@ A brief accessible movement may help explanation or planning. It does not establ
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 **Authored example, to adapt only to observed findings:** “This comparison shows that this movement can be recruited in one situation even though you cannot access it when asked. That helps us understand this part of the problem. It does not mean you are choosing the paralysis, or tell us how much help you need over the day.”
 
@@ -169,6 +172,7 @@ When evidence is incomplete: “We still need to clarify the cause. We can expla
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The general-physician review supplies the positive-diagnosis and coexistence framework. It is not a trial validating this authored care record or a test of all forms of complete paralysis. The neurophysiology chapter is specialist guidance, not proof that normal recordings rule out every neurological disorder. (*citations* [1](#citation-1), [2](#citation-2))
 

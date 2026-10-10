@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 “Relax your throat” can be frustrating advice when you have no idea what to change. A useful session identifies a specific pattern of effort and helps you notice a more comfortable alternative, without blaming you for the tension.
 
@@ -51,6 +52,7 @@ Call emergency services for choking with inability to breathe, speak or cough ef
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 You can help make space for a pause or bring the agreed support. Do not manipulate the throat or jaw or tell the person that visible tension proves anxiety is causing the problem. Let them decide whether a cue is welcome.
 
@@ -64,6 +66,7 @@ Use the person’s written flare and emergency plan. If they cannot safely conti
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and formulation
 

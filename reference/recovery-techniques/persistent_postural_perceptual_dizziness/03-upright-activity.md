@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Standing in a queue can be harder than it looks from the outside. This page is about adjusting upright activity so that it becomes more manageable, with a safe place to stop. It does not ask you to remain standing when you feel you may faint.
 
@@ -52,6 +53,7 @@ Stop unsafe activity. Sudden or distinctly different dizziness with new weakness
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Plan seating and an easy exit before leaving home. Ask before offering physical help, and use only assistance you have been taught. Do not remove a chair or aid because the person stood longer yesterday.
 
@@ -65,6 +67,7 @@ During a familiar flare, follow the agreed support and safety plan. Ask before t
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Evaluate orthostatic and cardiovascular symptoms alongside the PPPD history. Document transfers, fall risk, fatigue, pain and delayed exertional effects before progression. Separate a rehabilitation goal from essential mobility access. Agree functional endpoints and review criteria rather than automatic weekly increases.
 
