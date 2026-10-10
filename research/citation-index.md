@@ -2289,7 +2289,7 @@ Checked October 2, 2026. Existing IDs reused; no duplicate source records. Targe
 | [functional_visual_symptoms/01-visual-acuity-and-fogging.md](../reference/diagnostic-signs/functional_visual_symptoms/01-visual-acuity-and-fogging.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0179](#fnd-cit-0179) |
 | [functional_visual_symptoms/02-visual-field-comparisons.md](../reference/diagnostic-signs/functional_visual_symptoms/02-visual-field-comparisons.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0179](#fnd-cit-0179) |
 | [functional_visual_symptoms/03-optokinetic-response.md](../reference/diagnostic-signs/functional_visual_symptoms/03-optokinetic-response.md) | [FND-CIT-0024](#fnd-cit-0024) |
-| [functional_visual_symptoms/technique-inventory.md](../reference/diagnostic-signs/functional_visual_symptoms/technique-inventory.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0179](#fnd-cit-0179), [FND-CIT-0180](#fnd-cit-0180) |
+| [functional_visual_symptoms/technique-inventory.md](../reference/diagnostic-signs/functional_visual_symptoms/technique-inventory.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0179](#fnd-cit-0179), [FND-CIT-0180](#fnd-cit-0180), [FND-CIT-0103](#fnd-cit-0103) |
 
 ## FND-CIT-0246
 
@@ -2514,3 +2514,36 @@ October 7, 2026. Existing source IDs retained; no new public source added. Overv
 ## Tremor evidence-presentation review
 
 October 7, 2026. Existing IDs retained; no new public source. All four tremor diagnostic pages now use FND-CIT-0022 and FND-CIT-0224 for contemporary interpretation and synthesis. FND-CIT-0019, FND-CIT-0135, FND-CIT-0128 and FND-CIT-0177 remain exact plain-text citations without public paper or central-index links wherever cited on these pages. Original access is preserved in the central records and internal reading guide. Other symptom and recovery pages are outside this pass.
+
+## FND-CIT-0267
+
+NHS England, Getting It Right First Time (GIRFT). National Suspected Cauda Equina Syndrome Pathway. Updated March 2026. Accessed October 10, 2026. [Source](https://gettingitrightfirsttime.co.uk/wp-content/uploads/2026/04/National-Suspected-Cauda-Equina-Pathway-March-2026.pdf).
+
+**Type and scope:** National clinical pathway; emergency assessment of suspected CES, not FND diagnostic validation.
+
+**Current use:** [Scan-negative cauda equina presentations](../reference/diagnostic-signs/scan-negative-cauda-equina.md).
+
+## FND-CIT-0268
+
+Hoeritzauer I, Carson A, Statham P, et al. Scan-Negative Cauda Equina Syndrome: A Prospective Cohort Study. *Neurology*. 2021;96(3):e433–e447. [Source](https://doi.org/10.1212/WNL.0000000000011154).
+
+**Type and scope:** Prospective regional neurosurgical cohort; overlapping clinical presentations and follow-up, not proof that scan-negative CES is FND.
+
+**Current use:** [Scan-negative cauda equina presentations](../reference/diagnostic-signs/scan-negative-cauda-equina.md).
+
+## Sensory, visual and shared-page evidence review — October 10, 2026
+
+Existing source IDs retained. Raviskanthan 2022 (0179) remains cited as plain text on reviewed visual pages under the diagnostic evidence-presentation policy. Its source record is preserved. The visual inventory now also uses Ramsay 2026 (0103).
+
+| Page | Current sources |
+|---|---|
+| [07-functional-sensory-symptoms.md](../reference/diagnostic-signs/07-functional-sensory-symptoms.md) | [FND-CIT-0002](#fnd-cit-0002), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0023](#fnd-cit-0023), [FND-CIT-0126](#fnd-cit-0126), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0243](#fnd-cit-0243), [FND-CIT-0244](#fnd-cit-0244), [FND-CIT-0245](#fnd-cit-0245) |
+| [01-sensory-mapping-and-comparison.md](../reference/diagnostic-signs/functional_sensory_symptoms/01-sensory-mapping-and-comparison.md) | [FND-CIT-0002](#fnd-cit-0002), [FND-CIT-0023](#fnd-cit-0023), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0245](#fnd-cit-0245) |
+| [02-midline-and-vibration-splitting.md](../reference/diagnostic-signs/functional_sensory_symptoms/02-midline-and-vibration-splitting.md) | [FND-CIT-0023](#fnd-cit-0023), [FND-CIT-0126](#fnd-cit-0126), [FND-CIT-0243](#fnd-cit-0243) |
+| [technique-inventory.md](../reference/diagnostic-signs/functional_sensory_symptoms/technique-inventory.md) | [FND-CIT-0002](#fnd-cit-0002), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0023](#fnd-cit-0023), [FND-CIT-0126](#fnd-cit-0126), [FND-CIT-0130](#fnd-cit-0130) |
+| [08-functional-visual-symptoms.md](../reference/diagnostic-signs/08-functional-visual-symptoms.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0103](#fnd-cit-0103), [FND-CIT-0104](#fnd-cit-0104), [FND-CIT-0179](#fnd-cit-0179), [FND-CIT-0180](#fnd-cit-0180) |
+| [01-visual-acuity-and-fogging.md](../reference/diagnostic-signs/functional_visual_symptoms/01-visual-acuity-and-fogging.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0179](#fnd-cit-0179) |
+| [02-visual-field-comparisons.md](../reference/diagnostic-signs/functional_visual_symptoms/02-visual-field-comparisons.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0179](#fnd-cit-0179) |
+| [03-optokinetic-response.md](../reference/diagnostic-signs/functional_visual_symptoms/03-optokinetic-response.md) | [FND-CIT-0024](#fnd-cit-0024) |
+| [technique-inventory.md](../reference/diagnostic-signs/functional_visual_symptoms/technique-inventory.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0103](#fnd-cit-0103), [FND-CIT-0179](#fnd-cit-0179), [FND-CIT-0180](#fnd-cit-0180) |
+| [scan-negative-cauda-equina.md](../reference/diagnostic-signs/scan-negative-cauda-equina.md) | [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0016](#fnd-cit-0016), [FND-CIT-0267](#fnd-cit-0267), [FND-CIT-0268](#fnd-cit-0268) |

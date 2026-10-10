@@ -157,9 +157,9 @@ Do not describe a plot as proof that a person is pretending.
 
 ## Evidence and Limitations
 
-These are clinical comparisons described in the cited reviews, not an interchangeable set of validated standalone tests. No universal accuracy estimate is assigned. The inherited warning about cloverleaf patterns and unreliable fields remains explicit. (*citations* [1](#citation-1), [2](#citation-2))
+These are clinical comparisons described in the cited reviews, not an interchangeable set of validated standalone tests. No universal accuracy estimate is assigned. An unreliable plot or cloverleaf pattern alone does not establish FND. (*citations* [1](#citation-1), [2](#citation-2))
 
-Interpretation requires the complete eye and neurological assessment. Further primary-study appraisal is needed before making test-specific diagnostic-accuracy claims.
+Interpretation requires the complete eye and neurological assessment. The comparison must demonstrate a meaningful discrepancy under usable testing conditions.
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -196,7 +196,7 @@ A static diagram could show the same angular field at two distances with physica
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. [FND-CIT-0024](../../../research/citation-index.md#fnd-cit-0024). [https://doi.org/10.1038/s41433-024-03126-w](https://doi.org/10.1038/s41433-024-03126-w) |
-| <a id="citation-2"></a>**[2]** | Raviskanthan S, Wendt S, Ugoh PM, et al. Functional vision disorders in adults: a paradigm and nomenclature shift for ophthalmology. *Survey of ophthalmology*. 2022;67(1):8-18. [DOI](https://doi.org/10.1016/j.survophthal.2021.03.002). [PMID: 33737039](https://pubmed.ncbi.nlm.nih.gov/33737039/). [FND-CIT-0179](../../../research/citation-index.md#fnd-cit-0179). |
+| <a id="citation-2"></a>**[2]** | Raviskanthan S, Wendt S, Ugoh PM, et al. Functional vision disorders in adults: a paradigm and nomenclature shift for ophthalmology. *Survey of ophthalmology*. 2022;67(1):8-18. DOI: 10.1016/j.survophthal.2021.03.002. FND-CIT-0179. |
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

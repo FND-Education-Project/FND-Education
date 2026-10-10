@@ -103,7 +103,7 @@ This is a description of the observations, not a standardized validated protocol
 
 **Comparison unreliable:** Record the technical or clinical limitation and avoid a diagnostic conclusion.
 
-The inherited literature cautions that traditional criteria lack specificity. A seemingly clear dividing line must not delay assessment of an acute neurological change. (*citations* [2](#citation-2), [3](#citation-3))
+Comparative studies show overlap between diagnoses in traditional sensory findings. A seemingly clear dividing line must not delay assessment of an acute neurological change. (*citations* [2](#citation-2), [3](#citation-3))
 
 These observations do not quantify symptom severity, injury risk or assistance needs. Continue assessment of what the altered sensation means for daily activities.
 
@@ -141,11 +141,11 @@ An authored example:
 
 ## Evidence and Limitations
 
-The 2026 comparison found poor specificity for classic splitting signs. Participants already had motor-FND or recent stroke; this does not establish accuracy in an unselected sensory clinic. See the [study summary](../07-functional-sensory-symptoms.md#evidence-notes). (*citations* [1](#citation-1))
+The 2026 study separated reported midline boundaries, examination findings and degrees of vibration asymmetry. Reported midline splitting occurred in both groups; dense splitting on examination was rare. A small vibration difference was more frequent in motor-FND but also occurred after stroke. These are not interchangeable findings or a standalone diagnostic rule. Participants already had motor-FND or recent stroke, rather than an unselected sensory presentation. See the [study summary](../07-functional-sensory-symptoms.md#evidence-notes). (*citations* [1](#citation-1))
 
 > **Specificity:** How often a finding is absent in the comparison group without the target diagnosis.
 
-The older Chabrol source is retained from the inventory; its full methods have not been rechecked in this expansion. No numerical accuracy estimate is inferred from its title. (*citations* [2](#citation-2))
+The earlier Chabrol comparison also found substantial overlap in traditional signs between neurological and conversion-disorder groups. It supports caution, not a sensory-specific diagnostic threshold. (*citations* [2](#citation-2))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

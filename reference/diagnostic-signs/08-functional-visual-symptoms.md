@@ -103,7 +103,7 @@ For established episodic functional visual symptoms, give an onset plan that sta
 
 Ophthalmology or neuro-ophthalmology leads the differential assessment; an orthoptist may contribute specialist binocular and visual-function testing. The whole care team needs the explanation and its limits. Record the symptom being tested, correction and viewing conditions, observed responses, alternative explanations, confidence and outstanding questions.
 
-Coexisting disease must remain an active consideration. In a retrospective specialist series, 71 of 133 patients had abnormal neuro-ophthalmologic findings; this referral sample is not a population prevalence estimate. A functional finding does not make a new central field defect safe to dismiss. (*citations* [3](#citation-3))
+Coexisting eye and neurological conditions need their own assessment and care. The 2026 systematic review found ocular comorbidity across multiple studies, while an earlier specialist series documented abnormal neuro-ophthalmologic findings in 71 of 133 patients. These selected samples do not give a population prevalence. A functional finding does not make a new central field defect safe to dismiss. (*citations* [3](#citation-3), [4](#citation-4))
 
 Choose [acuity comparisons and fogging](functional_visual_symptoms/01-visual-acuity-and-fogging.md), [field comparisons](functional_visual_symptoms/02-visual-field-comparisons.md) or the [optokinetic observation](functional_visual_symptoms/03-optokinetic-response.md) to answer a defined clinical question. If the comparison is unreliable or does not address the reported symptom, document that limitation rather than forcing a positive diagnosis. Treatment planning belongs in the [paired recovery section](../recovery-techniques/08-functional-visual-symptoms.md).
 
@@ -183,16 +183,18 @@ All thirteen entries are linked below. The [full inventory](functional_visual_sy
 ### Evidence notes
 
 - The 2024 clinical article supports a positive, constructive explanation and assessment of coexisting disease. It is clinical guidance, not validation of a universal diagnostic battery. (*citations* [1](#citation-1))
-- The 2022 specialist review describes optical and field comparisons. Test selection and interpretation require appropriate training. (*citations* [2](#citation-2))
-- The 2003 referral study supports vigilance for coexisting disease; its abstract was reviewed, not its full methods. (*citations* [3](#citation-3))
+- Optical and field comparisons should demonstrate preserved visual function and support a clear explanation. The 2022 review supplies technical descriptions; interpretation rests on the specific comparison and complete examination. (*citations* [2](#citation-2))
+- The 2003 referral study supports vigilance for coexisting disease in a selected specialist population. (*citations* [3](#citation-3))
 - The 2026 systematic review included 44 studies and 2,284 participants, with a search ending October 31, 2024. Most studies were retrospective. Prognosis data were heterogeneous, and signs were often not distinguished from symptomatic disability. This is not a diagnostic-accuracy meta-analysis and supplies no universal sensitivity or specificity for the methods here. (*citations* [4](#citation-4))
+
+Evidence reviewed October 10, 2026.
 
 ### Citation table
 
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. [FND-CIT-0024](../../research/citation-index.md#fnd-cit-0024). [https://doi.org/10.1038/s41433-024-03126-w](https://doi.org/10.1038/s41433-024-03126-w) |
-| <a id="citation-2"></a>**[2]** | Raviskanthan S, Wendt S, Ugoh PM, et al. Functional vision disorders in adults: a paradigm and nomenclature shift for ophthalmology. *Survey of ophthalmology*. 2022;67(1):8-18. [DOI](https://doi.org/10.1016/j.survophthal.2021.03.002). [PMID: 33737039](https://pubmed.ncbi.nlm.nih.gov/33737039/). [FND-CIT-0179](../../research/citation-index.md#fnd-cit-0179). |
+| <a id="citation-2"></a>**[2]** | Raviskanthan S, Wendt S, Ugoh PM, et al. Functional vision disorders in adults: a paradigm and nomenclature shift for ophthalmology. *Survey of ophthalmology*. 2022;67(1):8-18. DOI: 10.1016/j.survophthal.2021.03.002. FND-CIT-0179. |
 | <a id="citation-3"></a>**[3]** | Scott JA, Egan RA. Prevalence of organic neuro-ophthalmologic disease in patients with functional visual loss. *American journal of ophthalmology*. 2003;135(5):670-675. [DOI](https://doi.org/10.1016/s0002-9394%2802%2902254-7). [PMID: 12719075](https://pubmed.ncbi.nlm.nih.gov/12719075/). [FND-CIT-0180](../../research/citation-index.md#fnd-cit-0180). |
 | <a id="citation-4"></a>**[4]** | Ramsay N, Tessmann H, McKee J, Ercoli T, Stone J. Functional visual loss: a systematic review and meta-analysis of epidemiology, prognosis and treatment. *Eye*. 2026;40:1784–1793. [DOI](https://doi.org/10.1038/s41433-026-04648-1). [FND-CIT-0103](../../research/citation-index.md#fnd-cit-0103). |
 | <a id="citation-5"></a>**[5]** | NHS. Vision loss. Reviewed August 28, 2025; accessed October 2, 2026. [Safety guidance](https://www.nhs.uk/conditions/vision-loss/). [FND-CIT-0104](../../research/citation-index.md#fnd-cit-0104). |

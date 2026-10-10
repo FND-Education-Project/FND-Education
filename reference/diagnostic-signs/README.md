@@ -12,9 +12,7 @@ The collection now covers **17 symptom presentations**, including motor and voca
 
 Each symptom page now includes a **Diagnostic techniques at a glance** inventory: brief descriptions with source citations, evidence limitations and safety boundaries. These inventories include positive signs, descriptive observations, formal criteria and differential investigations; they are not 170 independently validated tests.
 
-**Staged review:** The September 19, 2026 baseline inventory contains 170 entries across the 17 pages. The September 29 dystonia and October 4 FCD updates each add one separately dated research entry, bringing the current catalogue to 172 entries; this does not change the historical baseline. It is a broad starting inventory, not a completed systematic review of every technique and every replication. Primary studies are cited where identified; some entries rely on specialist descriptions or consensus guidance because standalone validation has not been established. Expand and review individual technique pages one at a time, checking original full texts, later replications, conflicting findings and additional techniques before describing their evidence trail as complete.
-
-**Expansion progress:** Initial drafts now cover **all 17 original symptom sets**, leaving **0** original sets awaiting an initial expansion. The scan-negative cauda equina starter is a separate pending overlap page. This counts initial symptom expansions, not completion of every inventory technique or human review. See the [running tracker](../../docs/project/diagnostic-expansion-progress.md).
+The collection contains 172 inventory entries across the 17 symptom sets. They have different purposes and levels of evidence: some are diagnostic comparisons, some describe symptoms, and others investigate alternative or coexisting conditions. Detailed assessment pages explain selected methods. All pages remain working drafts awaiting human and clinical review.
 
 ## In this folder
 
@@ -57,8 +55,6 @@ Each symptom page now includes a **Diagnostic techniques at a glance** inventory
 
 > [!IMPORTANT]
 > A positive sign supports diagnosis only in the right clinical setting. New, severe, injured or substantially changed symptoms still need appropriate medical assessment.
-
-**Diagnostic expansion preparation:** [Content ownership and functional-weakness migration plan](../../docs/project/diagnostic-expansion-preparation.md) · [Baseline inventory](../../docs/project/diagnostic-expansion-baseline.md) · [Page structures](../../docs/project/diagnostic-page-authoring-structures.md). The first stage now includes the revised [functional limb weakness overview](01-functional-limb-weakness.md), [Hoover’s sign](functional_limb_weakness/01-hoovers-sign.md), and [shared diagnostic explanations](../diagnostic-concepts/README.md). All sixteen original entries remain in the [technique inventory](functional_limb_weakness/technique-inventory.md); the other fifteen await individual review. See the [weakness implementation record](../../docs/project/functional-weakness-diagnostic-expansion.md). The next stage is recorded in the [functional-tremor expansion](../../docs/project/functional-tremor-diagnostic-expansion.md); staged review remains incomplete.
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Diagnostic Techniques Index](diagnostic-index.md)

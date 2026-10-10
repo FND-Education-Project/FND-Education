@@ -89,7 +89,7 @@ Do not persist through significant discomfort, dizziness or distress. Document a
 7. Explain the preserved function respectfully and connect it to a treatment or rehabilitation plan. Arrange reassessment when the pattern changes or the evidence is incomplete.
 
 
-This preserves the original seven-step educational outline. It is not a validated seven-item diagnostic battery. (*citations* [1](#citation-1))
+These steps describe a clinical observation, not a scored diagnostic battery. (*citations* [1](#citation-1))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

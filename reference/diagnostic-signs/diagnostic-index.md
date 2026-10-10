@@ -6,35 +6,25 @@
 
 > **Working draft:** This reference was automatically generated and is [looking for contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-This index lists pages explaining positive signs and criteria that clinicians may use when diagnosing particular FND presentations. They are written as practical briefs for future text, image and video contributors.
+This index links explanations of symptom assessment, positive clinical findings and their interpretation.
 
 A positive sign is more than a normal test or the absence of another diagnosis. It is a recognizable feature—such as internal inconsistency, incongruence or preserved function under particular conditions—that supports a functional diagnosis in the right clinical setting. No page is a do-it-yourself diagnostic test, and no single sign should be used outside the wider history and examination.
 
-Every page begins with **Refers to** and a scope boundary. Symptoms can appear in more than one category, but the method must match the actual appearance. A sign for unilateral leg weakness does not become a sign for facial droop, bilateral paralysis or a sudden fall merely because all may be described as “weakness.” Where no appearance-specific validated technique was located, the page says so.
+Each numbered symptom overview begins with **Refers to** and a scope boundary. Symptoms can appear in more than one category, but the method must match the actual appearance. A sign for unilateral leg weakness does not become a sign for facial droop, bilateral paralysis or a sudden fall merely because all may be described as “weakness.” Where no appearance-specific validated technique was located, the page says so.
 
-Start with the [shared diagnostic explanations](../diagnostic-concepts/README.md). The first expanded symptom is [functional limb weakness](01-functional-limb-weakness.md), with a detailed [Hoover’s-sign draft](functional_limb_weakness/01-hoovers-sign.md) and the preserved [sixteen-entry inventory](functional_limb_weakness/technique-inventory.md).
-
-The next expanded symptom is [functional tremor](02-functional-tremor.md), with [distractibility](functional_tremor/01-distractibility.md), [entrainment](functional_tremor/02-entrainment.md) and its preserved [twelve-entry inventory](functional_tremor/technique-inventory.md). Detailed drafts do not replace the rest of the assessment.
+Start with the [shared diagnostic explanations](../diagnostic-concepts/README.md), or choose a symptom below. Each symptom overview links to its detailed assessment pages and full inventory.
 
 ## Required time-course coverage
 
-Every symptom page in this collection should explain the symptom’s **actual temporal pattern**, rather than assuming that the symptom seen in clinic is continuously present. In each of the three audience sections, the page should address:
-
-- whether that symptom may be intermittent, episodic, fluctuating, persistent or fixed, using symptom-specific evidence rather than a universal rule;
-- what immediate safety steps are appropriate when a familiar episode or flare begins;
-- what contextual information is useful to record, such as task, environment, duration, associated symptoms and recovery;
-- where to find the paired recovery plan, without duplicating its rehabilitation programme; and
-- when a new or changed episode requires reassessment rather than automatic attribution to FND.
-
-The distinction matters. A single jerk is brief but jerks may occur in prolonged clusters; functional gait or speech symptoms may appear mainly in particular situations or around other episodes; functional dystonia may be intermittent or fixed. PPPD is different again: established PPPD is persistent by diagnostic definition, although its severity waxes and wanes and brief flares can occur.
+The history includes what happens over time as well as what is visible during an appointment: onset, duration, fluctuation, associated symptoms and recovery. A brief examination and the person’s experience between appointments provide different information. The symptom pages explain relevant changes that need reassessment and link to separate recovery guidance.
 
 ## Expansion structure
 
-The [preparation plan](../../docs/project/diagnostic-expansion-preparation.md) records shared concepts → symptom pages → clinician-focused technique pages. The [baseline inventory](../../docs/project/diagnostic-expansion-baseline.md) preserves all 170 existing entries and their unequal symptom counts. Inventory entries include observations, criteria, investigations and cautions; they do not automatically become separate validated-test pages.
+Symptom overviews introduce the assessment and its everyday context. Detailed technique pages explain selected clinical comparisons. Inventories preserve the wider set of observations, criteria and investigations; an inventory entry is not automatically a validated test.
 
 ## Pages in this collection
 
-Each page has a linked **Diagnostic techniques at a glance** section. These are brief, cited inventories for staged human review, not home-testing instructions. Detailed individual technique pages remain a later, one-at-a-time task. See the [collection review status](README.md) for the current evidence-search limits.
+Each page has a linked **Diagnostic techniques at a glance** section. These are brief, cited inventories for staged human review, not home-testing instructions. Detailed pages are available for selected assessments in every symptom set. See the [collection guide](README.md) for an overview.
 
 - [Functional limb weakness](01-functional-limb-weakness.md)
 - [Functional tremor](02-functional-tremor.md)

@@ -1,6 +1,6 @@
 # Diagnostic Review — Essential Reading in Review Order
 
-> **Internal editorial reading guide — October 9, 2026.** This file is a review aid, not a reader-facing clinical page. It is built from the sources currently cited in the diagnostic symptom, inventory and detailed-technique pages. It is **not an independent systematic literature search** and does not imply that uncited later studies, replications or conflicting evidence are unimportant.
+> **Internal editorial reading guide — October 10, 2026.** This file is a review aid, not a reader-facing clinical page. It is built from the sources currently cited in the diagnostic symptom, inventory and detailed-technique pages. It is **not an independent systematic literature search** and does not imply that uncited later studies, replications or conflicting evidence are unimportant.
 
 ## How to use this guide
 
@@ -64,7 +64,7 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_limb_w
 #### Drift without pronation
 
 - [ ] Daum C, Aybek S. Validity of the "Drift without pronation" sign in conversion disorder. *BMC neurology*. 2013;13:31. [DOI](https://doi.org/10.1186/1471-2377-13-31).
-- [ ] Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of bedside 'positive signs' for functional weakness, sensory and gait disorders in conversion disorder: a pilot study. *Journal of neurology, neurosurgery, and psychiatry*. 2015;86(4):425-430. [DOI](https://doi.org/10.1136/jnnp-2013-307381).
+- [ ] Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of bedside 'positive signs' for functional weakness, sensory and gait disorders in conversion disorder: a pilot study. *Journal of neurology, neurosurgery, and psychiatry*. 2015;86(4):425-430. [Source](https://doi.org/10.1136/jnnp-2013-307381)
 
 #### Paradoxical wrist flexion
 
@@ -78,7 +78,7 @@ Use the [preserved technique inventory](../../diagnostic-signs/functional_limb_w
 
 - [ ] Stone J, Warlow C, Sharpe M. The symptom of functional weakness: a controlled study of 107 patients. *Brain : a journal of neurology*. 2010;133(Pt 5):1537-1551. DOI. PMID: 20395262.
 - [ ] Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of bedside 'positive signs' for functional weakness, sensory and gait disorders in conversion disorder: a pilot study. *Journal of neurology, neurosurgery, and psychiatry*. 2015;86(4):425-430. DOI. PMID: 24994927.
-- [ ] Chabrol H, Peresson G, Clanet M. Lack of specificity of the traditional criteria for conversion disorders. *European psychiatry : the journal of the Association of European Psychiatrists*. 1995;10(6):317-319. [DOI](https://doi.org/10.1016/0924-9338%2896%2980314-2).
+- [ ] Chabrol H, Peresson G, Clanet M. Lack of specificity of the traditional criteria for conversion disorders. *European psychiatry : the journal of the Association of European Psychiatrists*. 1995;10(6):317-319. [Source](https://doi.org/10.1016/0924-9338%2896%2980314-2)
 
 #### Make-versus-break dynamometry
 
@@ -150,9 +150,9 @@ These are candidates for further appraisal, not newly accepted public evidence. 
 
 ### Read first — symptom-level evidence
 
-- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. [https://doi.org/10.1016/j.cnp.2023.12.006](https://doi.org/10.1016/j.cnp.2023.12.006)
+- [ ] Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. [Source](https://doi.org/10.1016/j.cnp.2023.12.006)
 - [ ] Rujirussawarawong S, Ounmuang C, Aungsumart S, Kasemsuk C, Limotai N. Electrophysiology in distinguishing functional tremor from organic tremor: a systematic review and meta-analysis of diagnostic accuracy. *Movement Disorders Clinical Practice*. Published online June 11, 2026. [DOI](https://doi.org/10.1002/mdc3.70707).
-- [ ] Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264)
+- [ ] Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [Source](https://doi.org/10.1001/jamaneurol.2018.1264)
 - [ ] Bartl M, Kewitsch R, Hallett M, Tegenthoff M, Paulus W. Diagnosis and therapy of functional tremor: a systematic review illustrated by a case report. *Neurological Research and Practice*. 2020;2:35. [https://doi.org/10.1186/s42466-020-00073-1](https://doi.org/10.1186/s42466-020-00073-1)
 - [ ] Bhatia KP, Bain P, Bajaj N, et al. Consensus Statement on the classification of tremors. From the task force on tremor of the International Parkinson and Movement Disorder Society. *Movement Disorders*. 2018;33(1):75–87. [DOI](https://doi.org/10.1002/mds.27121).
 - [ ] Gelauff JM, Rosmalen JGM, Gardien J, Stone J, Tijssen MAJ. Shared demographics and comorbidities in different functional motor disorders. *Parkinsonism & Related Disorders*. 2020;70:1–6. [DOI](https://doi.org/10.1016/j.parkreldis.2019.11.018).
@@ -710,38 +710,59 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 **Page to review:** [Functional Sensory Symptoms](../../diagnostic-signs/07-functional-sensory-symptoms.md)
 
+**Evidence-presentation review:** [October 10 source decisions and remaining checks](sensory-evidence-review.md).
+
 **Expanded reading path:** [Mapping](../../diagnostic-signs/functional_sensory_symptoms/01-sensory-mapping-and-comparison.md) → [splitting-sign limitations](../../diagnostic-signs/functional_sensory_symptoms/02-midline-and-vibration-splitting.md) → [seven-entry inventory](../../diagnostic-signs/functional_sensory_symptoms/technique-inventory.md).
 
 ### Additional differential and examination sources — October 1, 2026
 
-- [ ] Koh PX, Ti J, Saffari SE, Lim ZYIC, Tu T. Hemisensory syndrome: Hyperacute symptom onset and age differentiates ischemic stroke from other aetiologies. *BMC Neurology*. 2021;21:179. [DOI](https://doi.org/10.1186/s12883-021-02206-8). Full methods/results and limitations checked. Selected hospitalized hemisensory cohort; not a population prevalence or FND validation study.
-- [ ] Urman I, Sabah K, Naftali J, Djaldetti R. Rate of neurological diagnosis in patients with hemisensory syndrome – A retrospective cross-sectional study. *Acta Neurologica Belgica*. 2026;126:1201–1207. [DOI](https://doi.org/10.1007/s13760-026-03044-6). Publisher abstract checked; full text unavailable. Retrospective emergency cohort; undiagnosed cases must not be reclassified as FND.
-- [ ] Newman G. How to assess sensation. *MSD Manual Professional Edition*. Reviewed August 2025. [Clinical examination reference](https://www.msdmanuals.com/professional/neurologic-disorders/neurologic-examination/how-to-assess-sensation). Accessed October 1, 2026. General clinical examination guidance, not an FND accuracy study. Anatomy and modality selection only; project terminology and consent safeguards are independently stated.
+- [ ] Koh PX, Ti J, Saffari SE, Lim ZYIC, Tu T. Hemisensory syndrome: Hyperacute symptom onset and age differentiates ischemic stroke from other aetiologies. *BMC Neurology*. 2021;21:179. DOI. Full methods/results and limitations checked. Selected hospitalized hemisensory cohort; not a population prevalence or FND validation study. [Source](https://doi.org/10.1186/s12883-021-02206-8)
+- [ ] Urman I, Sabah K, Naftali J, Djaldetti R. Rate of neurological diagnosis in patients with hemisensory syndrome – A retrospective cross-sectional study. *Acta Neurologica Belgica*. 2026;126:1201–1207. DOI. Publisher abstract checked; full text unavailable. Retrospective emergency cohort; undiagnosed cases must not be reclassified as FND. [Source](https://doi.org/10.1007/s13760-026-03044-6)
+- [ ] Newman G. How to assess sensation. *MSD Manual Professional Edition*. Reviewed August 2025. Clinical examination reference. Accessed October 1, 2026. General clinical examination guidance, not an FND accuracy study. Anatomy and modality selection only; project terminology and consent safeguards are independently stated. [Source](https://www.msdmanuals.com/professional/neurologic-disorders/neurologic-examination/how-to-assess-sensation)
 
 ### Read first — symptom-level evidence
 
-- [ ] Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031. [https://doi.org/10.1093/braincomms/fcag031](https://doi.org/10.1093/braincomms/fcag031)
+- [ ] Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031. [Source](https://doi.org/10.1093/braincomms/fcag031)
 - [ ] Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141.
+
+### Detailed technique pages already written
+
+#### Sensory Mapping and Comparison
+
+**Page:** [Sensory Mapping and Comparison](../../diagnostic-signs/functional_sensory_symptoms/01-sensory-mapping-and-comparison.md)
+
+- [ ] Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031.
+- [ ] Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141.
+- [ ] Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of bedside 'positive signs' for functional weakness, sensory and gait disorders in conversion disorder: a pilot study. *Journal of neurology, neurosurgery, and psychiatry*. 2015;86(4):425-430. DOI. PMID: 24994927.
+- [ ] Newman G. How to assess sensation. *MSD Manual Professional Edition*. Reviewed August 2025. Clinical examination reference. Accessed October 1, 2026.
+
+#### Midline and Vibration Splitting: Interpretation and Limits
+
+**Page:** [Midline and Vibration Splitting: Interpretation and Limits](../../diagnostic-signs/functional_sensory_symptoms/02-midline-and-vibration-splitting.md)
+
+- [ ] Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031.
+- [ ] Chabrol H, Peresson G, Clanet M. Lack of specificity of the traditional criteria for conversion disorders. *European psychiatry : the journal of the Association of European Psychiatrists*. 1995;10(6):317-319. DOI. PMID: 19698360.
+- [ ] Koh PX, Ti J, Saffari SE, Lim ZYIC, Tu T. Hemisensory syndrome: Hyperacute symptom onset and age differentiates ischemic stroke from other aetiologies. *BMC Neurology*. 2021;21:179. DOI.
 
 ### Technique / inventory review order
 
 #### Sensory mapping
 
-- [ ] Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031. https://doi.org/10.1093/braincomms/fcag031
+- [ ] Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031.
 
 #### Sharply bounded or whole-limb sensory change
 
-- [ ] Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031. https://doi.org/10.1093/braincomms/fcag031
+- [ ] Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031.
 - [ ] Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of bedside 'positive signs' for functional weakness, sensory and gait disorders in conversion disorder: a pilot study. *Journal of neurology, neurosurgery, and psychiatry*. 2015;86(4):425-430. DOI. PMID: 24994927.
 
 #### Midline splitting of light touch
 
-- [ ] Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031. https://doi.org/10.1093/braincomms/fcag031
+- [ ] Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031.
 - [ ] Chabrol H, Peresson G, Clanet M. Lack of specificity of the traditional criteria for conversion disorders. *European psychiatry : the journal of the Association of European Psychiatrists*. 1995;10(6):317-319. DOI. PMID: 19698360.
 
 #### Vibration splitting
 
-- [ ] Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031. https://doi.org/10.1093/braincomms/fcag031
+- [ ] Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031.
 
 #### Consistency across sensory tasks
 
@@ -750,7 +771,7 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 #### Quantitative sensory testing
 
-- [ ] Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031. https://doi.org/10.1093/braincomms/fcag031
+- [ ] Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031.
 
 #### Nerve conduction and evoked potentials
 
@@ -770,38 +791,62 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 **Page to review:** [Functional Visual Symptoms](../../diagnostic-signs/08-functional-visual-symptoms.md)
 
+**Evidence-presentation review:** [October 10 source decisions and remaining checks](visual-evidence-review.md).
+
 **Expanded reading path:** [Acuity and fogging](../../diagnostic-signs/functional_visual_symptoms/01-visual-acuity-and-fogging.md) → [field comparisons](../../diagnostic-signs/functional_visual_symptoms/02-visual-field-comparisons.md) → [optokinetic response](../../diagnostic-signs/functional_visual_symptoms/03-optokinetic-response.md) → [thirteen-entry inventory](../../diagnostic-signs/functional_visual_symptoms/technique-inventory.md).
 
-**Evidence update — October 2, 2026:** The 2024 clinical framework and 2022 review inform technique descriptions; this is not a complete reappraisal of every primary validation paper. The Scott–Egan abstract supports the coexistence warning, with full-methods review pending.
+**Evidence update — October 10, 2026:** Lead with Ramsay 2024 and the 2026 systematic review. Raviskanthan 2022 remains an internal technical source with public links removed; see the review record for the behaviour-framing concern. Scott–Egan full-methods review remains pending.
 
-- [ ] Ramsay N, Tessmann H, McKee J, Ercoli T, Stone J. Functional visual loss: a systematic review and meta-analysis of epidemiology, prognosis and treatment. *Eye*. 2026;40:1784–1793. [DOI](https://doi.org/10.1038/s41433-026-04648-1). Search ends October 2024; heterogeneous prognosis and symptom/sign definitions. Not a diagnostic-accuracy meta-analysis.
+- [ ] Ramsay N, Tessmann H, McKee J, Ercoli T, Stone J. Functional visual loss: a systematic review and meta-analysis of epidemiology, prognosis and treatment. *Eye*. 2026;40:1784–1793. DOI. Search ends October 2024; heterogeneous prognosis and symptom/sign definitions. Not a diagnostic-accuracy meta-analysis. [Source](https://doi.org/10.1038/s41433-026-04648-1)
 - [ ] NHS. Vision loss. [Safety guidance](https://www.nhs.uk/conditions/vision-loss/). Reviewed August 2025; checked October 2, 2026. Adjacent emergency guidance, not FND validation.
 
 ### Read first — symptom-level evidence
 
-- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. [https://doi.org/10.1038/s41433-024-03126-w](https://doi.org/10.1038/s41433-024-03126-w)
+- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. [Source](https://doi.org/10.1038/s41433-024-03126-w)
+
+### Detailed technique pages already written
+
+#### Visual Acuity Comparisons and Fogging
+
+**Page:** [Visual Acuity Comparisons and Fogging](../../diagnostic-signs/functional_visual_symptoms/01-visual-acuity-and-fogging.md)
+
+- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266.
+- [ ] Raviskanthan S, Wendt S, Ugoh PM, et al. Functional vision disorders in adults: a paradigm and nomenclature shift for ophthalmology. *Survey of ophthalmology*. 2022;67(1):8-18. DOI: 10.1016/j.survophthal.2021.03.002. Source [Source](https://doi.org/10.1016/j.survophthal.2021.03.002)
+
+#### Visual Field Comparisons
+
+**Page:** [Visual Field Comparisons](../../diagnostic-signs/functional_visual_symptoms/02-visual-field-comparisons.md)
+
+- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266.
+- [ ] Raviskanthan S, Wendt S, Ugoh PM, et al. Functional vision disorders in adults: a paradigm and nomenclature shift for ophthalmology. *Survey of ophthalmology*. 2022;67(1):8-18. DOI: 10.1016/j.survophthal.2021.03.002. Source
+
+#### Optokinetic Response
+
+**Page:** [Optokinetic Response](../../diagnostic-signs/functional_visual_symptoms/03-optokinetic-response.md)
+
+- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266.
 
 ### Technique / inventory review order
 
 #### Visual acuity at different distances
 
-- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. https://doi.org/10.1038/s41433-024-03126-w
+- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266.
 
 #### Tubular visual fields
 
-- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. https://doi.org/10.1038/s41433-024-03126-w
+- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266.
 
 #### Spiralling, crossing or stacked isopters
 
-- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. https://doi.org/10.1038/s41433-024-03126-w
+- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266.
 
 #### Binocular versus monocular fields
 
-- [ ] Raviskanthan S, Wendt S, Ugoh PM, et al. Functional vision disorders in adults: a paradigm and nomenclature shift for ophthalmology. *Survey of ophthalmology*. 2022;67(1):8-18. [DOI](https://doi.org/10.1016/j.survophthal.2021.03.002). [PMID: 33737039](https://pubmed.ncbi.nlm.nih.gov/33737039/).
+- [ ] Raviskanthan S, Wendt S, Ugoh PM, et al. Functional vision disorders in adults: a paradigm and nomenclature shift for ophthalmology. *Survey of ophthalmology*. 2022;67(1):8-18. DOI. PMID: 33737039.
 
 #### Optokinetic response
 
-- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. https://doi.org/10.1038/s41433-024-03126-w
+- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266.
 
 #### Mirror tracking
 
@@ -809,23 +854,23 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 #### Fogging
 
-- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. https://doi.org/10.1038/s41433-024-03126-w
+- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266.
 
 #### Prism dissociation
 
-- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. https://doi.org/10.1038/s41433-024-03126-w
+- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266.
 
 #### Prism fusion response
 
-- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. https://doi.org/10.1038/s41433-024-03126-w
+- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266.
 
 #### Stereopsis
 
-- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. https://doi.org/10.1038/s41433-024-03126-w
+- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266.
 
 #### Bagolini lens testing
 
-- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. https://doi.org/10.1038/s41433-024-03126-w
+- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266.
 
 #### Colour or polarizing dissociation
 
@@ -833,8 +878,8 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 #### OCT, retinal testing and visual evoked potentials
 
-- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. https://doi.org/10.1038/s41433-024-03126-w
-- [ ] Scott JA, Egan RA. Prevalence of organic neuro-ophthalmologic disease in patients with functional visual loss. *American journal of ophthalmology*. 2003;135(5):670-675. [DOI](https://doi.org/10.1016/s0002-9394%2802%2902254-7). [PMID: 12719075](https://pubmed.ncbi.nlm.nih.gov/12719075/).
+- [ ] Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266.
+- [ ] Scott JA, Egan RA. Prevalence of organic neuro-ophthalmologic disease in patients with functional visual loss. *American journal of ophthalmology*. 2003;135(5):670-675. DOI. PMID: 12719075. [Source](https://doi.org/10.1016/s0002-9394%2802%2902254-7)
 
 ### Review completion
 
@@ -843,6 +888,12 @@ Read the definition as a proposal, the CODES findings as associations, the White
 - [ ] Population, comparator, methods and limitations checked where accuracy or specificity is discussed.
 - [ ] Later replication or conflicting evidence still needs an external literature check before calling the evidence trail complete.
 - [ ] Safety, differential diagnosis, coexistence and everyday-function claims checked separately from the positive sign itself.
+
+---
+
+### Newer candidate awaiting full appraisal
+
+- [ ] Na H, Hwang JM, Yang HK, Han SB. Characterizing Visual Field Defects with Tangent Screen Perimetry in Organic Versus Non-Organic Pathologies. *Diagnostics*. 2026;16(6):842. [DOI](https://doi.org/10.3390/diagnostics16060842). Not adopted publicly: selected retrospective sample, overlapping ratios and unresolved classification of intentional versus functional symptoms.
 
 ---
 
@@ -1314,7 +1365,7 @@ Primary indexed abstracts were checked for Sonoo’s abductor sign, Tinazzi’s 
 
 ### Read first — symptom-level evidence
 
-- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. [https://doi.org/10.1136/jnnp-2017-317396](https://doi.org/10.1136/jnnp-2017-317396)
+- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. [Source](https://doi.org/10.1136/jnnp-2017-317396)
 - [ ] Revell ER, Gillespie D, Morris PG, Stone J. Drop attacks as a subtype of FND: a cognitive behavioural model using grounded theory. *Epilepsy & Behavior Reports*. 2021;16:100491. [https://doi.org/10.1016/j.ebr.2021.100491](https://doi.org/10.1016/j.ebr.2021.100491)
 - [ ] Stone J. Functional drop attacks. *Neurosymptoms.org*. Accessed September 2, 2026. [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/)
 
@@ -1333,31 +1384,31 @@ Review the event formulation, differential routes and authored function record s
 
 #### Structured event reconstruction
 
-- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. https://doi.org/10.1136/jnnp-2017-317396
+- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776.
 
 #### Witness account or safe video
 
-- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. https://doi.org/10.1136/jnnp-2017-317396
+- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776.
 
 #### Awareness and recovery profile
 
-- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. https://doi.org/10.1136/jnnp-2017-317396
+- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776.
 
 #### Associated positive functional signs
 
-- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. https://doi.org/10.1136/jnnp-2017-317396
+- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776.
 
 #### Cardiovascular and orthostatic assessment
 
-- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. https://doi.org/10.1136/jnnp-2017-317396
+- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776.
 
 #### Epilepsy and sleep assessment
 
-- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. https://doi.org/10.1136/jnnp-2017-317396
+- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776.
 
 #### Vestibular, gait and mechanical assessment
 
-- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. https://doi.org/10.1136/jnnp-2017-317396
+- [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776.
 
 ### Review completion
 
@@ -1451,3 +1502,11 @@ Review original consensus, critique and later specificity evidence together. The
 ## What this guide does not establish
 
 This list tells the reviewer **which papers the current diagnostic pages rely on and the order in which to read them**. It does not prove that the present source set is complete. A final evidence review for an individual technique should still ask whether newer validation studies, replications, systematic reviews, guideline updates or contradictory findings exist beyond the papers currently cited here.
+
+## Surrounding diagnostic pages and overlap review
+
+[October 10 audit](shared-diagnostic-pages-evidence-review.md) covers the collection pages, shared explanations and [scan-negative cauda equina page](../../diagnostic-signs/scan-negative-cauda-equina.md).
+
+- [ ] NHS England, Getting It Right First Time (GIRFT). National Suspected Cauda Equina Syndrome Pathway. Updated March 2026. Accessed October 10, 2026. Source [Source](https://gettingitrightfirsttime.co.uk/wp-content/uploads/2026/04/National-Suspected-Cauda-Equina-Pathway-March-2026.pdf)
+- [ ] Hoeritzauer I, Carson A, Statham P, et al. Scan-Negative Cauda Equina Syndrome: A Prospective Cohort Study. *Neurology*. 2021;96(3):e433–e447. Source
+- [ ] Hoeritzauer I, Pronin S, Carson A, Statham P, Demetriades AK, Stone J. The clinical features and outcome of scan-negative and scan-positive cases in suspected cauda equina syndrome: a retrospective study of 276 patients. *Journal of Neurology*. 2018;265(12):2916–2926. [Source](https://doi.org/10.1007/s00415-018-9078-2)
