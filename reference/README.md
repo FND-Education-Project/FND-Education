@@ -52,6 +52,7 @@ An arm or leg may feel weak, heavy or difficult to control. Movement may be poss
 A person may experience periods when voluntary movement of a limb or larger part of the body becomes extremely limited or temporarily unavailable. The symptom is more extensive than the partial loss of strength usually described as functional weakness.
 
 ## Functional Tremor
+{: #functional-tremor .shareable }
 
 [Understanding & Diagnosis](diagnostic-signs/02-functional-tremor.md)<br>
 [Recovery Techniques](recovery-techniques/02-functional-tremor.md)
