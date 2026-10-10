@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Change the task, not just your confidence
 
@@ -49,6 +50,7 @@ After any fall, use the [injury-response plan](01-injury-response-plan.md). A fa
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask before rearranging the person's space. Familiar placement can help with access, so explain changes and check that essential items remain reachable. Practical help carrying a hot drink may be more useful than a repeated warning to “be careful.”
 
@@ -62,6 +64,7 @@ Avoid imposing a blanket ban on activity. Bring specific concerns to the care te
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Assess environment, footwear, transfers, sensation, balance, pain and the consequences of a sudden collapse during the particular task. The 2026 motor-FND falls study supports broad assessment; its associations do not prove which intervention prevents functional drop attacks. (*citations* [3](#citation-3))
 

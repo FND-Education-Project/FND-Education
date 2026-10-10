@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Why this belongs in recovery
 
@@ -45,6 +46,7 @@ Write down who to contact if symptoms change or treatment causes problems. New c
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help prepare the medicine list if asked, including over-the-counter products. Describe changes you have observed without deciding that a medicine is the cause.
 
@@ -58,6 +60,7 @@ Make room for the person's priorities. A problem that is less visible than tics,
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Review primary tic disorder coexistence, neurodevelopmental needs, psychiatric comorbidity, sleep, pain and other functional symptoms. Keep indications explicit and coordinate prescribers. Avoid escalation of anti-tic medication solely on the assumption that all tic-like phenomena share a treatment mechanism. (*citations* [1](#citation-1))
 

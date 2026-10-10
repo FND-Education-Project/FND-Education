@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -58,6 +59,7 @@ New or changed jerks, altered awareness, injury or associated neurological sympt
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help make the task accessible: stabilize the work surface, place materials within reach, reduce unnecessary steps or take over the hazardous part. Ask what level of help is wanted. Do not hover, count jerks aloud or repeatedly correct posture.
 
@@ -71,6 +73,7 @@ Use the one agreed cue and focus feedback on the goal: “the cup reached the tr
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Task analysis and selection
 

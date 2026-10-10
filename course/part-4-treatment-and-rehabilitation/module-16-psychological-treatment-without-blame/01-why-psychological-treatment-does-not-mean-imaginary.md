@@ -16,6 +16,7 @@ Psychological treatment is one possible part of care. Being offered it should ne
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -82,6 +83,7 @@ Finish this sentence: **“If I tried therapy, I would want it to help with ___.
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not treat therapy as a confession or ask what hidden event “really caused” FND. The person can find therapy useful without accepting that story, and can decline it without rejecting their diagnosis.
 
@@ -95,6 +97,7 @@ Support access if wanted: transport, privacy, technology, childcare or quiet rec
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

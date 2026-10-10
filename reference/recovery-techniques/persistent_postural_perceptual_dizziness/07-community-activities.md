@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 You may miss the ordinary parts of going out: choosing your own groceries, seeing a friend or sitting somewhere different. Community practice starts with what you want back. It is not a demand to visit the busiest shop to prove you can cope.
 
@@ -52,6 +53,7 @@ Stop unsafe activity. Sudden or distinctly different dizziness with new weakness
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Agree whether your role is company, transport, carrying items or helping leave. Keep the exit plan even if the outing is going well. Avoid surprise detours and praise participation in the terms the person values rather than endurance.
 
@@ -65,6 +67,7 @@ During a familiar flare, follow the agreed support and safety plan. Ask before t
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Use ecological goals and distinguish task practice from access to essential services. Account for transport, environmental load, orthostatic symptoms, sensory intolerance and delayed effects. If fear is relevant, address it collaboratively without interpreting all avoidance or reduced activity as fear-driven.
 

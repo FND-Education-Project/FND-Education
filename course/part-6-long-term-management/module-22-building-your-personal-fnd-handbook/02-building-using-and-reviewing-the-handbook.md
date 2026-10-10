@@ -16,6 +16,7 @@ The front page of your handbook should work when you cannot give a long history,
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -88,6 +89,7 @@ Write one line beginning **“What is usual for me is…”** and one beginning 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Practise finding and reading the page while things are calm. Ask which instructions belong to you and which require a clinician or emergency service. Keep the person involved whenever they can decide.
 
@@ -101,6 +103,7 @@ Follow the plan without treating it as permission to restrain, force, test or di
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

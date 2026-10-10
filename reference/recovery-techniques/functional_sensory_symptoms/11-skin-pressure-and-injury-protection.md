@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this approach is for
 
@@ -45,6 +46,7 @@ These are choices to discuss with your care team, not a required exercise schedu
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask before inspecting skin or repositioning a limb. Explain what you see and protect privacy. Do not drag the person across bedding or pull on a numb arm to move them.
 
@@ -58,6 +60,7 @@ Help follow the assessed transfer and pressure-care plan. A person may still nee
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

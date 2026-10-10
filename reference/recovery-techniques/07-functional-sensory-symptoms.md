@@ -26,6 +26,7 @@ Functional sensory symptoms can involve too little, too much or distorted sensat
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Choose by the problem you need help with
 
@@ -81,6 +82,7 @@ Seek emergency help for sudden one-sided numbness or weakness, facial or speech 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask before touching and agree on materials, location and a stop signal. Offer practical help with dressing, washing, appointments or skin checks. No surprise exposure, painful testing or removal of needed protection is part of these examples.
 
@@ -96,6 +98,7 @@ Help obtain reassessment when the pattern changes. Keep support available even i
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Match assessment and intervention
 

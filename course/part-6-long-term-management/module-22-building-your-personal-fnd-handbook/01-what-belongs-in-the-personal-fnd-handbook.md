@@ -16,6 +16,7 @@ You do not need to remember the whole course. Your handbook can hold the few thi
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -72,6 +73,7 @@ Open a blank page and write only four headings: **health — patterns — access
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Offer memory, typing or organizing help if wanted. Describe only what you actually observe and ask before adding it. The person decides what private information is included and shared.
 
@@ -85,6 +87,7 @@ Learn the sections you may need during familiar episodes. Do not use the handboo
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

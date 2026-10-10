@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 When tics interrupt a conversation, leave you sore or draw unwanted attention, “just ignore it” may not feel like much help. A useful plan makes room for both treatment and the life you are trying to live. You deserve help with distress, injury and communication even when symptoms are slow to change.
 
@@ -77,6 +78,7 @@ Seek appropriate medical assessment for a new or substantially different pattern
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask privately what would help. A person may want you to carry on with the conversation, offer a break or explain the symptoms to someone else—but they should have a say. Involuntary words are not a reliable expression of intent. Do not punish, mock or require an apology for them.
 
@@ -92,6 +94,7 @@ For school or work, write down a few agreed choices: who can be contacted, where
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Confirm the diagnostic formulation and record coexisting primary tics before selecting treatment. Develop goals with the person. Mapping should be brief and purposeful, avoiding excessive monitoring. Consider consent-based behavioral or psychological work, rehabilitation and treatment of coexisting conditions according to the individual formulation. Do not assume anxiety or trauma explains every presentation. (*citations* [1](#citation-1))
 

@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A flare is easier to navigate when you do not have to make every decision while dizzy. The purpose of a written plan is to carry some of that work for you and the people helping you.
 
@@ -56,6 +57,7 @@ Stop unsafe activity. Sudden or distinctly different dizziness with new weakness
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Know where the plan is and agree who to contact. Help with safety and essential tasks without adding exercises during the episode. Do not treat new symptoms as familiar simply because the person has PPPD, and do not turn each familiar flare into an argument about effort.
 
@@ -69,6 +71,7 @@ During a familiar flare, follow the agreed support and safety plan. Ask before t
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Co-create thresholds for familiar fluctuations, clinical review and emergency care. Account for falls, hearing change, acute vestibular syndromes, orthostatic events, medicine changes and coexisting illness. Define an optional reduced activity plan rather than a compulsory minimum dose. Review caregiver needs, transport and access when symptoms persist.
 

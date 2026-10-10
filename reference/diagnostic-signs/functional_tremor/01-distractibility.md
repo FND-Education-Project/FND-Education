@@ -18,6 +18,7 @@
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Distractibility is a change in tremor while attention is engaged in another task. A clinician compares the same shaking limb before, during and after that task. The tremor may lessen, pause or change its rhythm. The clinical question is whether a clear, task-linked contrast contributes to the diagnosis. (*citations* [2](#citation-2))
 
@@ -84,6 +85,7 @@ Any adaptation should be recorded. An accessible alternative can help the clinic
 ---
 
 ## Interpretation and Explanation
+{: #interpretation-and-explanation .shareable }
 
 A clear, repeatable change may support functional tremor. Ordinary fluctuation, altered posture, mechanical support and changes in task demand also require consideration. An absent change does not rule out functional tremor. (*citations* [1](#citation-1), [2](#citation-2))
 
@@ -105,6 +107,7 @@ The finding can inform a rehabilitation discussion. It does not measure daily in
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The 2026 meta-analysis brings together ten studies of electrophysiological testing. Results varied across methods. Test batteries performed comparatively well, while mental-task frequency measures need further evaluation. These findings support a structured laboratory assessment; they do not supply an accuracy figure for every bedside distraction task. (*citations* [6](#citation-6))
 

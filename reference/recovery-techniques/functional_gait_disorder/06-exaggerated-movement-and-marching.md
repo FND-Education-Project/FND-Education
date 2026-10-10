@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Why a deliberately different step may help
 
@@ -45,6 +46,7 @@ Stop if the stance knee buckles, the foot catches, the trunk leans beyond the sa
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Use the exact target, support and number of repetitions selected in therapy. Do not raise an obstacle, turn the activity into a challenge or praise only the largest movement. The goal is a safer useful step.
 
@@ -58,6 +60,7 @@ Keep the route clear and watch the supporting leg as well as the moving foot. St
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and movement analysis
 

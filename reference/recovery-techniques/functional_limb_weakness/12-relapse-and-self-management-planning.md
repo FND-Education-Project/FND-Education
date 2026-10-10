@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### A plan for the first minutes and the next days
 
@@ -47,6 +48,7 @@ Seek appropriate assessment for new or substantially different weakness, new fac
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Know where the written plan and equipment are. Ask before giving physical help. During an event, use one agreed cue and avoid rapid questions, strength testing or arguments about whether the person moved earlier. Afterward, help with the planned return and practical recovery needs. Record facts needed for care without turning home life into surveillance.
 
@@ -60,6 +62,7 @@ The plan should also name supporter limits and backup contacts. One person shoul
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Build from the phenotype and environment
 

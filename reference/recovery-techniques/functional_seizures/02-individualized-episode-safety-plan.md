@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Plan while you are well enough to choose
 
@@ -39,6 +40,7 @@ For a first event, serious injury, abnormal breathing, an event in water, or a s
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Clear nearby hazards, protect the head with something soft when feasible, and time the episode. Do not hold the person down, force limbs straight, put anything in their mouth or use painful stimulation. Do not give food, drink or oral medication while awareness is impaired. (*citations* [3](#citation-3))
 
@@ -54,6 +56,7 @@ If epilepsy also occurs, follow the separate prescribed rescue plan for the iden
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Explicit procedure
 

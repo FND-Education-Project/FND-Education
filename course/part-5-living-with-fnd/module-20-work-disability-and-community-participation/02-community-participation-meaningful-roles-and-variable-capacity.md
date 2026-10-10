@@ -16,6 +16,7 @@ Participation can mean belonging, choosing, learning, caring, creating or being 
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -69,6 +70,7 @@ Choose one person or place and ask for one access change. A lower-demand version
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Keep invitations open without making attendance a test. Offer the access details: quiet space, step-free route, flexible timing, transport, a place to lie down or permission to leave without apology. Ask what role the person wants instead of assigning only the role of care recipient.
 
@@ -80,6 +82,7 @@ Keep invitations open without making attendance a test. Offer the access details
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

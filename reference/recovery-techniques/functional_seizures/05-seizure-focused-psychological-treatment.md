@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What a seizure-focused therapy can address
 
@@ -39,6 +40,7 @@ The [existing resource map and booklet plans](README.md) explain learning materi
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 With permission, ask how to support one agreed treatment goal. Help arrange transport, appointment access, quiet practice time or note-taking. Avoid becoming a therapist who checks every thought or scores compliance.
 
@@ -52,6 +54,7 @@ During a flare, use the agreed response and postpone problem-solving. Review wha
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Explicit procedure
 

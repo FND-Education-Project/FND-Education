@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 You may know exactly what you want to say and still be unable to say it. Hearing a clearer sound during an appointment can be encouraging, confusing, or both. The therapist should explain what changed without suggesting you could have done it all along.
 
@@ -43,6 +44,7 @@ The examples here are suggestions to discuss with your clinician, not a fixed ex
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Listen to the explanation with the person’s permission and ask what support they want afterwards. A clearer word is not an invitation to demand a whole conversation.
 
@@ -56,6 +58,7 @@ Avoid telling others that the clinician has shown the person “can talk normall
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selecting the approach
 

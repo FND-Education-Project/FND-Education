@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Seeing your face change can be frightening, especially if someone has called it a “droop” without explaining what is happening. Before choosing an exercise, ask the clinician to describe the movement in ordinary words.
 
@@ -50,6 +51,7 @@ During a familiar flare, use the agreed safety and comfort plan. There is no nee
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask whether the person wants help remembering the clinician’s explanation. Use their chosen description rather than guessing that a low lip means weakness or that a smile means recovery. Facial expression may be difficult to control; it is not a reliable measure of mood, interest or agreement.
 
@@ -63,6 +65,7 @@ Avoid asking for repeated demonstrations for visitors or photographs. If recordi
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Name the phenotype and demonstrate relevant positive findings respectfully, within a full differential assessment. Distinguish lower-face pulling from facial paresis and ptosis from forced closure. Explain what remains uncertain and document baseline function, oral/ocular risks and the response to new symptoms. Absence of a stressor does not invalidate FND. Avoid using appearance, psychiatric history or response to suggestion as a stand-alone diagnosis.
 

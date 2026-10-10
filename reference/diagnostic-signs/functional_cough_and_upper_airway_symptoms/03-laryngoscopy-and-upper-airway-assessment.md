@@ -20,6 +20,7 @@ Clinician-focused educational reference; assessment requires appropriate trainin
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Investigate suspected inducible laryngeal obstruction (ILO) and structural alternatives in a specialist airway service. This is an examination of the larynx, not a general test for neurological FND.
 
@@ -112,6 +113,7 @@ Choose the clinical protocol through the responsible service. Document why the c
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **Concordant finding:** Relevant laryngeal narrowing during typical symptoms supports ILO. The 2023 Delphi panel endorsed provoked laryngoscopy and proposed at least 50% inspiratory closure or Maat grade at least 2 as abnormal. These are specialist consensus thresholds, not a self-scoring tool. (*citations* [2](#citation-2))
 
@@ -133,6 +135,7 @@ The result does not measure everyday activity tolerance or establish that all br
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 Authored example, not a patient quotation:
 
@@ -154,6 +157,7 @@ If the episode was not typical, say so in the explanation and report.
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The 2023 modified Delphi study involved 47 experts completing two rounds; 130 of 200 statements reached consensus. It established agreement, not sensitivity or specificity against an independent reference standard. The abstract and bibliographic record were reviewed; a full-text methodological appraisal remains pending. (*citations* [2](#citation-2))
 

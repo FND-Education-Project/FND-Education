@@ -31,6 +31,7 @@ Clinical guidance supports positive FND diagnosis and assessment of relevant coe
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Why have a section like this?
 
@@ -100,6 +101,7 @@ Keeping these subjects connected without calling all of them FND helps us keep t
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 An associated experience may help explain why something became harder without explaining everything about the person.
 
@@ -125,6 +127,7 @@ Both the person with FND and the supporter are allowed to have boundaries. Illne
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Keep the **positive neurological basis of the FND diagnosis** separate from a biopsychosocial formulation.
 

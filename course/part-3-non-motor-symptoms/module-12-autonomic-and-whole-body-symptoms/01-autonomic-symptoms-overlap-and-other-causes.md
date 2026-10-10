@@ -16,6 +16,7 @@ Automatic body functions can become noticeable when they are uncomfortable or un
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -75,6 +76,7 @@ Seek urgent care for fainting with injury, chest pain, severe breathlessness, si
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help the person sit or lie safely according to their plan, reduce heat or crowding, and bring needed items. Do not tell them to push through faintness or diagnose the event from a watch.
 
@@ -88,6 +90,7 @@ Know the agreed emergency signs. Support appropriate reassessment while avoiding
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

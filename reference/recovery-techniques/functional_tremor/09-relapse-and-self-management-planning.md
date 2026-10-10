@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What goes in a tremor plan
 
@@ -56,6 +57,7 @@ FND and another condition can coexist. A previous functional-tremor diagnosis do
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Learn the plan when the person is relatively settled. During a flare, remove hazards, reduce competing demands and offer one agreed cue or form of help. Avoid holding the limb down, debating the diagnosis, filming without consent or repeating instructions when the person is overloaded.
 
@@ -69,6 +71,7 @@ Afterward, help restore the ordinary activity in manageable steps if wanted. Do 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Build the plan from observed patterns
 

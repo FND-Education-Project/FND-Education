@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 You may understand the advice and still struggle to make it work at home. Individual rehabilitation offers a chance to look at the actual task with someone who can help adapt it. The starting point can be a problem you want less of, not an exercise you are expected to master.
 
@@ -52,6 +53,7 @@ Sudden new confusion, altered consciousness, or cognitive difficulty with new we
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Bring observations only with permission, and let the person’s priorities guide the work. Ask for clear instructions about any help you are expected to provide. The plan should also recognize supporter workload and the need for backup.
 
@@ -65,6 +67,7 @@ During a familiar flare, use one speaker and one idea at a time. Give processing
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 **Measuring the starting point and change:** [Everyday function and OT measurement](../../diagnostic-signs/functional_cognitive_disorder/03-everyday-function-and-ot-measurement.md) distinguishes patient-rated outcomes, observed task performance and diagnosis.
 

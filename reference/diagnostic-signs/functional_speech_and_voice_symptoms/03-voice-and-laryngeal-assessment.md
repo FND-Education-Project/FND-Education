@@ -20,6 +20,7 @@ Clinician-focused educational reference. Assessment requires relevant training, 
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Assess altered voice quality, pitch, loudness or absent voice, and determine whether medical examination or visualization is needed.
 
@@ -112,6 +113,7 @@ Visualization of the vocal folds assesses motion, closure and structural disease
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **Preserved phonation:** State what sound was observed and under which condition. A normal cough does not establish normal connected speech or identify the cause of voice loss.
 
@@ -137,6 +139,7 @@ Ask about vocal endurance and daily demands. A brief sound does not show that a 
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 Authored example:
 
@@ -158,6 +161,7 @@ When the evidence is incomplete, explain what further evaluation is needed.
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The FND-specific sources are consensus and descriptive case evidence, not a diagnostic-accuracy validation of cough, laughter or this sequence. (*citations* [1](#citation-1), [2](#citation-2))
 

@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -54,6 +55,7 @@ If directing attention to muscles makes the tremor stronger or causes distress, 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Use the agreed cue—perhaps “soften the grip” or “let the forearm rest”—once. Do not repeatedly tell the person to relax, massage or stretch the limb without consent, or interpret continued shaking as refusal. Help move the task to a supported surface and allow rest.
 
@@ -65,6 +67,7 @@ Use the agreed cue—perhaps “soften the grip” or “let the forearm rest”
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and baseline
 

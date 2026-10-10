@@ -28,6 +28,7 @@ PPPD treatment usually combines an individualized explanation with gradual retur
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Techniques used in treatment
 
@@ -78,6 +79,7 @@ Dizziness is sudden or distinctly different, or occurs with new weakness, double
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 - Do not deliberately expose the person to scrolling, supermarkets or rapid head movement to test the diagnosis.
 - Help repeat the agreed dose and leave before symptoms become unmanageable.
@@ -99,6 +101,7 @@ Help with fall safety and the person’s planned exit or recovery strategy. A te
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Confirm the Bárány criteria and evaluate the precipitating and coexisting vestibular, migraine, neurological, cardiovascular and psychological conditions. Profile visual dependence, motion sensitivity, gaze, balance, gait, avoidance and fall risk. Explain the model without implying that symptoms are imaginary.
 

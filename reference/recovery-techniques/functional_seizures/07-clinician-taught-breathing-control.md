@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Assessment before breathing exercises
 
@@ -37,6 +38,7 @@ Use a taught cue at a familiar warning only if your plan includes it and you are
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 A gentle reminder may be useful if requested during safe practice. “Take a deep breath” repeated urgently can add pressure and may not match what was taught.
 
@@ -50,6 +52,7 @@ Do not press on the chest or abdomen, obstruct the airway, coach someone through
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Explicit procedure and clinical anatomy
 

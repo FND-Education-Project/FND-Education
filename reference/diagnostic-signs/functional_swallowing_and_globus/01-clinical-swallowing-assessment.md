@@ -20,6 +20,7 @@ Clinician-focused educational reference. Swallowing assessment requires appropri
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Clarify what the person means by swallowing difficulty, investigate safety and decide what further assessment is needed.
 
@@ -113,6 +114,7 @@ Record the actual comparison, posture, assistance, observed response and the per
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **Potentially supportive:** A specific reproducible mismatch may contribute to the formulation after safety, anatomy and competing explanations are considered. Explain exactly why it is informative.
 
@@ -136,6 +138,7 @@ A normal bedside observation does not clear all food and drink or exclude aspira
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 Authored example, not a patient quotation:
 
@@ -157,6 +160,7 @@ Avoid promising that an improved swallow during assessment will transfer immedia
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The clinical outline draws on expert consensus and general swallowing guidance. It has no assigned sensitivity, specificity or universal cutoff for FND. A test of safety and a positive functional formulation are different judgments. (*citations* [1](#citation-1), [2](#citation-2))
 

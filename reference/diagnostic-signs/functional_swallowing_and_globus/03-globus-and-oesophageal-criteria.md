@@ -20,6 +20,7 @@ Clinician-focused educational reference. Swallowing assessment requires appropri
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Distinguish a between-meals lump sensation from impaired food passage and apply the appropriate oesophageal criteria with medical assessment.
 
@@ -114,6 +115,7 @@ Record which differential question each investigation addresses and what remains
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **Criteria supported:** Name the syndrome and version, relevant positive symptom pattern and completed differential assessment. Do not silently translate “Rome-defined functional dysphagia” into “motor FND.”
 
@@ -137,6 +139,7 @@ A criteria diagnosis does not measure nutrition, meal duration, assistance or pa
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 Authored example:
 
@@ -158,6 +161,7 @@ Keep distress and fear in the care discussion without using them as proof of a p
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The inventory originally cited Aziz and colleagues' 2016 Rome IV paper. It remains linked for provenance; the current criteria discussion uses the Foundation's Rome V page and the 2026 oesophageal update. These are diagnostic frameworks, not accuracy estimates for an FND bedside test. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 

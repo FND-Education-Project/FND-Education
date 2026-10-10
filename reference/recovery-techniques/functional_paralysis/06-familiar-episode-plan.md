@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What a familiar-episode plan is for
 
@@ -49,6 +50,7 @@ If episodes are becoming more disruptive without emergency features, ask for a p
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Use the agreed plan and a calm, ordinary voice. Ask before touch when possible, preserve privacy and keep the number of instructions small. Never use pain, startling or forced limb movement to check whether symptoms are real.
 
@@ -62,6 +64,7 @@ Follow only the transfer assistance you have been trained to provide. If the sit
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Describe the event phenotype, awareness, communication, expected variability and recovery pattern. Distinguish seizure-confined immobility from independently episodic motor loss. Avoid an arbitrary waiting period before emergency help when a new focal deficit or spinal warning is present. (*citations* [1](#citation-1), [5](#citation-5), [6](#citation-6))
 

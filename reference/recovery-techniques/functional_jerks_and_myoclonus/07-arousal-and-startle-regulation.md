@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -55,6 +56,7 @@ New jerks, loss or alteration of awareness, fainting, fever, injury, new weaknes
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Never test the pattern by clapping, shouting, touching without warning or creating a surprise. Ask before reducing sound or light; some people prefer ordinary conversation or a clear external task. Use one agreed phrase and allow time to respond.
 
@@ -68,6 +70,7 @@ Help control hazards and reduce simultaneous demands during a familiar bout. Do 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

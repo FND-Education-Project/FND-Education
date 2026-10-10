@@ -16,6 +16,7 @@ Activity is not only exercise. Thinking, speaking, sensory input, appointments, 
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -73,6 +74,7 @@ Choose one task and name two kinds of load inside it. Stop there; this is not a 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask what part of a task costs the most rather than judging it by distance or time. Driving, noise, decision-making or recovery afterward may matter more than the visible action.
 
@@ -86,6 +88,7 @@ Do not use “boom-and-bust” to scold someone for enjoying a better day. Help 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

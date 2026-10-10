@@ -20,6 +20,7 @@ The [detailed collection](functional_visual_symptoms/README.md) expands the **ni
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Vision can be disabling even when examination shows that some visual function is available. Ask what the positive findings mean, what they cannot establish, and how the team will address daily access and any coexisting conditions. A brief useful response does not establish reliable vision for driving, work or walking. [1](#citation-1)
 
@@ -55,6 +56,7 @@ Seek emergency help for sudden inability to see from one or both eyes or sudden 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask what kind of guidance or physical assistance the person wants. Keep routes predictable, offer accessible information and retain needed aids. Never surprise them with obstacles, wave objects to test vision, secretly record a response or use an examination finding to challenge their honesty.
 
@@ -68,6 +70,7 @@ During a familiar flare, help stop hazardous activity and follow the agreed plan
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Establish positive functional findings within an appropriate ophthalmic or neuro-ophthalmic assessment. Document the visual phenomenon, uncertainty and coexisting disease. Explain the difference between an available response and dependable everyday function. Coordinate orthoptics, ophthalmology, neurology and rehabilitation according to need. [1](#citation-1)
 

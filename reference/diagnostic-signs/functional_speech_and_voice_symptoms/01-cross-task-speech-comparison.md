@@ -20,6 +20,7 @@ Clinician-focused educational reference. Assessment requires relevant training, 
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Compare communication across tasks to investigate a defined speech feature. The aim is to identify a coherent positive pattern while considering other explanations, not to catch an unexpectedly clear word.
 
@@ -113,6 +114,7 @@ For reviewable documentation, list the task, target feature, observed change, pa
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 ### Distractibility and variability
 
@@ -144,6 +146,7 @@ One successful phrase does not establish reliable telephone use, consent communi
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 Authored example, not a patient quotation:
 
@@ -165,6 +168,7 @@ When the comparison is inconclusive, name the uncertainty and the next assessmen
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The consensus recommendations and six-case descriptive series support careful clinical comparison, not universal diagnostic accuracy. There is no assigned sensitivity, specificity or cutoff for this teaching sequence. (*citations* [1](#citation-1), [2](#citation-2))
 

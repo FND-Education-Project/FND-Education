@@ -22,6 +22,7 @@ Motor or vocal tic-like symptoms may coexist with the symptoms discussed here. T
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -62,6 +63,7 @@ Ask for reassessment if the jerks are new, substantially different, follow a med
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help only with information the person and clinician have agreed is useful. A brief factual note such as “three clusters while cooking; the right shoulder lifted first; hot pan was put down safely” is usually more useful than a detailed interpretation. Distinguish the number of individual jerks from the duration of the overall bout.
 
@@ -75,6 +77,7 @@ Do not stare, repeatedly ask whether a jerk is about to happen, or announce ever
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and differential boundary
 

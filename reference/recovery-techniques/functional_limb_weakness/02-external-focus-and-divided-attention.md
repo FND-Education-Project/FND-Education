@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### External focus is attention to the result
 
@@ -47,6 +48,7 @@ First become safe and reduce the demand that is making the situation harder. The
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Use the wording agreed in therapy. One calm cue—“to the blue tape”—is more useful than continuous coaching. Do not surprise the person with questions to “catch” automatic movement. If conversation or noise worsens their pattern, reduce it. External focus is collaborative rehabilitation, not covert distraction.
 
@@ -58,6 +60,7 @@ Use the wording agreed in therapy. One calm cue—“to the blue tape”—is mo
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Select the attentional direction, not a generic distraction
 

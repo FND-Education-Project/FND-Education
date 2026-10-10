@@ -22,6 +22,7 @@ Clinician-focused educational reference. Other readers are welcome; this is not 
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Expert review of a safely recorded spontaneous episode can add information that is difficult to describe from memory. It supplements the history and helps decide whether further testing is needed; it does not record brain electrical activity. (*citations* [1](#citation-1), [2](#citation-2))
 
@@ -109,6 +110,7 @@ This is an editorial clinical workflow, not a validated six-item scoring tool. A
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **Informative:** A clear, representative sequence may support a specialist diagnosis or help target further investigation.
 
@@ -132,6 +134,7 @@ Video-only assessment cannot independently exclude epilepsy, identify a cardiac 
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 An editorial example:
 
@@ -153,6 +156,7 @@ When a clip supports a diagnosis, explain the actual combination of findings and
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 Current AAN guidance supports specialist use of smartphone videos alongside history and other findings. A 2025 systematic review also supports their diagnostic value, but its pooled video estimates concern identifying epileptic seizures, not confirming functional seizures. (*citations* [1](#citation-1), [4](#citation-4))
 

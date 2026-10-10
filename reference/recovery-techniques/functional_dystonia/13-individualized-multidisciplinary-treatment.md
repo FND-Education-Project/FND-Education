@@ -20,6 +20,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Why care may involve more than one specialist
 
@@ -53,6 +54,7 @@ There is no established cure or guaranteed treatment package. Recovery and remis
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask the person what role they want you to have. With consent, help keep the plan consistent across home and appointments. If two clinicians give conflicting instructions about stretching, equipment, pain or episode response, help request clarification instead of choosing one yourself.
 
@@ -66,6 +68,7 @@ Support ordinary participation and necessary accommodations. Do not make access 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Formulation and team selection
 

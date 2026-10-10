@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What the equipment changes
 
@@ -41,6 +42,7 @@ This is not a home-treadmill recommendation. Stop for chest pain, faintness, sev
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not operate rehabilitation harnesses, manually advance the legs or change treadmill speed unless you are trained and this is part of the clinical plan. Help with transport, clothing, footwear and recording the agreed carryover task. Improvement on the treadmill may not appear immediately over ground and should not be used as a demand.
 
@@ -52,6 +54,7 @@ Do not operate rehabilitation harnesses, manually advance the legs or change tre
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and equipment check
 

@@ -15,6 +15,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A positive diagnosis means the clinician has identified features that support FND. The history and examination should fit together. A normal scan can answer an important question, but it does not itself identify FND. Other conditions can also occur alongside it. (*citations* [1](#citation-1))
 
@@ -33,6 +34,7 @@ A finding that supports the diagnosis does not describe your whole day. How reli
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 With permission, help write down the clinician’s explanation and the questions that remain. A person may want you to describe an episode they found difficult to recall. Give concrete observations without turning the appointment into a test of whether their account is believable.
 
@@ -47,6 +49,7 @@ Afterwards, ask whether they want to discuss the findings or need a break. Keep 
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Specify the positive feature, its suitability for the presentation and relevant confounders. Separate positive evidence from an unexplained symptom or unrevealing investigation. Explain coexistence and uncertainty rather than making the patient choose between mutually exclusive explanations. (*citations* [1](#citation-1))
 

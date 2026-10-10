@@ -16,6 +16,7 @@ Researchers have several ideas about how FND symptoms may be produced. These ide
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### The short version
 
@@ -117,6 +118,7 @@ Do not provoke symptoms, repeatedly test yourself, or ask someone to distract or
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 A change in a symptom during distraction, automatic movement or a different setting does not show that the person was pretending before the change. It may show that the nervous system can access a function under some conditions even though the person cannot reliably control when that happens.
 
@@ -134,6 +136,7 @@ New or substantially changed symptoms still deserve appropriate assessment. A br
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

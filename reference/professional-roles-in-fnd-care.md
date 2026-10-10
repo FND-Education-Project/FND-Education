@@ -19,6 +19,7 @@ Use this as a map of possible contributions. Professional titles, referral route
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
 ## Specialty quick reference
+{: #specialty-quick-reference .shareable }
 
 | Profession or specialty | Especially useful for | Start here |
 |---|---|---|
@@ -39,12 +40,14 @@ Use this as a map of possible contributions. Professional titles, referral route
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
 ## The person with FND remains central
+{: #the-person-with-fnd-remains-central .shareable }
 
 Professional roles should be organized around the person's actual problems and goals rather than around a fixed “FND team.” A clinician may contribute one focused piece of care without becoming an FND specialist. Clear ownership matters: the person should know who is responsible for diagnosis, new-symptom assessment, medication, rehabilitation and follow-up. (*citations* [1](#citation-1), [2](#citation-2))
 
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
 ## Neurology
+{: #neurology .shareable }
 
 **How neurology may help and when it is especially useful:** establish or review the diagnosis using the history, examination and appropriate positive signs; define the symptom phenotype; consider neurological alternatives and coexisting disease; explain diagnostic findings; and reassess major changes. Movement-disorder, epilepsy and neurophysiology expertise may be useful for particular presentations. (*citations* [3](#citation-3), [4](#citation-4))
 
@@ -57,6 +60,7 @@ Professional roles should be organized around the person's actual problems and g
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
 ## Primary care / family medicine
+{: #primary-care--family-medicine .shareable }
 
 **How primary care may help and when it is especially useful:** provide continuity, review ordinary health problems and medicines, assess new concerns, manage or refer coexisting conditions, coordinate specialist recommendations and help prevent fragmented care. (*citations* [1](#citation-1))
 
@@ -69,6 +73,7 @@ Professional roles should be organized around the person's actual problems and g
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
 ## Physiotherapy
+{: #physiotherapy .shareable }
 
 **How physiotherapy may help and when it is especially useful:** assess functional movement, gait, balance, transfers and physical activity; identify conditions in which movement becomes easier; and use individualized retraining that aims to restore more automatic and useful movement. (*citations* [5](#citation-5), [6](#citation-6))
 
@@ -81,6 +86,7 @@ Professional roles should be organized around the person's actual problems and g
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
 ## Occupational therapy
+{: #occupational-therapy .shareable }
 
 **How occupational therapy may help and when it is especially useful:** work with the activities that make up everyday life—personal care, household tasks, routines, work or study, fatigue and activity patterns, sensory/environmental barriers, equipment, access and participation. OT can also help translate rehabilitation into meaningful daily activity. (*citations* [7](#citation-7))
 
@@ -93,6 +99,7 @@ Professional roles should be organized around the person's actual problems and g
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
 ## Speech-language therapy / pathology
+{: #speech-language-therapy--pathology .shareable }
 
 **How speech-language professionals may help and when it is especially useful:** assess and treat functional speech, voice, swallowing, globus, cough and related upper-airway symptoms; distinguish the presenting problem from important structural or neurological alternatives; and support communication access when another symptom makes appointments difficult. (*citations* [8](#citation-8))
 
@@ -105,6 +112,7 @@ Professional roles should be organized around the person's actual problems and g
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
 ## Psychology / psychotherapy
+{: #psychology--psychotherapy .shareable }
 
 **How psychological therapy may help and when it is especially useful:** address coping, adjustment, fear, avoidance, distress, attention or behavioural patterns when these are relevant; treat trauma or another mental-health condition when present; and use evidence-informed therapies for particular FND presentations where appropriate.
 
@@ -117,6 +125,7 @@ Professional roles should be organized around the person's actual problems and g
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
 ## Psychiatry / neuropsychiatry
+{: #psychiatry--neuropsychiatry .shareable }
 
 **How psychiatry may help and when it is especially useful:** assess and treat coexisting psychiatric illness, help with complex neurological-psychiatric overlap, review psychotropic medication and participate in integrated care when psychiatric expertise is relevant. (*citations* [1](#citation-1), [3](#citation-3))
 
@@ -129,6 +138,7 @@ Professional roles should be organized around the person's actual problems and g
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
 ## Neuropsychology
+{: #neuropsychology .shareable }
 
 **How neuropsychology may help and when it is especially useful:** assess cognitive complaints in context, characterize strengths and difficulties, consider neurological and psychological differentials, identify internal inconsistency carefully and help develop practical cognitive strategies when appropriate. (*citations* [1](#citation-1), [12](#citation-12))
 
@@ -141,6 +151,7 @@ Professional roles should be organized around the person's actual problems and g
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
 ## Rehabilitation medicine / PM&R
+{: #rehabilitation-medicine--pmr .shareable }
 
 **How rehabilitation medicine may help and when it is especially useful:** integrate disability, mobility, equipment, rehabilitation goals, coexisting musculoskeletal or neurological problems and the work of several rehabilitation disciplines. (*citations* [1](#citation-1), [2](#citation-2))
 
@@ -153,6 +164,7 @@ Professional roles should be organized around the person's actual problems and g
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
 ## Nursing
+{: #nursing .shareable }
 
 **How nursing may help and when it is especially useful:** observe symptoms across longer periods and different activities, support safety plans, reinforce understandable explanations, identify practical care needs and communicate changes across inpatient, outpatient and community settings. (*citations* [1](#citation-1), [10](#citation-10))
 
@@ -165,6 +177,7 @@ Professional roles should be organized around the person's actual problems and g
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
 ## Emergency and acute care
+{: #emergency-and-acute-care .shareable }
 
 **How emergency and acute-care professionals may help and when it is especially useful:** assess new or substantially changed neurological symptoms, injuries, prolonged or unfamiliar seizure-like events and other acute presentations; identify time-sensitive alternatives; and use an existing FND diagnosis or event plan when it genuinely fits the current presentation. (*citations* [10](#citation-10), [13](#citation-13))
 
@@ -177,6 +190,7 @@ Professional roles should be organized around the person's actual problems and g
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
 ## Social work / case management
+{: #social-work--case-management .shareable }
 
 **How social work and case management may help and when it is especially useful:** address the practical consequences of disability, including housing, transportation, caregiving, finances, benefits, work or school, service navigation and barriers that prevent a care plan from being usable. (*citations* [1](#citation-1), [7](#citation-7))
 
@@ -189,6 +203,7 @@ Professional roles should be organized around the person's actual problems and g
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
 ## Other medical and allied specialties
+{: #other-medical-and-allied-specialties .shareable }
 
 **How other specialists may help and when they are especially useful:** evaluate and treat problems that fall within their own expertise, including conditions that coexist with FND or initially resemble it. Headache, pain, sleep, vestibular, ophthalmic, ENT, gastrointestinal, urological, autonomic and other specialty care may remain important. (*citations* [1](#citation-1), [3](#citation-3))
 
@@ -209,6 +224,7 @@ Pharmacists, dietitians, orthotists, rehabilitation engineers, vocational specia
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
 ## Working together without losing ownership
+{: #working-together-without-losing-ownership .shareable }
 
 A multidisciplinary plan works best when responsibilities are explicit. Record who is responsible for diagnostic review, new-symptom assessment, medication, rehabilitation, equipment, mental-health treatment, coexisting conditions and follow-up. The person with FND should not have to infer these responsibilities from a referral list. (*citations* [1](#citation-1), [2](#citation-2))
 

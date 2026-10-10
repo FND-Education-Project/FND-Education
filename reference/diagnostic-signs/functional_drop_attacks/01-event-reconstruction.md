@@ -20,6 +20,7 @@ Clinician-focused educational reference. Use within professional competence and 
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use a structured history when a person reports a sudden fall. First establish whether the event is a fall without definite blackout, a loss-of-consciousness event, sustained weakness, or a longer seizure-like episode. The description guides assessment; it does not itself establish a functional cause. [1](#citation-1)
 
@@ -112,6 +113,7 @@ Ask the person first, then add a witness account with consent. Review only an ex
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 A coherent event pattern can support a specialist formulation alongside examination and targeted investigations. An associated functional sign supports the symptom it tests; it does not prove why the person fell. If awareness is uncertain, document that uncertainty and assess the loss-of-consciousness possibilities. Do not convert a normal scan or ordinary clinic walk into a positive drop-attack sign.
 
@@ -129,6 +131,7 @@ A coherent event pattern can support a specialist formulation alongside examinat
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 **Authored explanation example:** “The sequence you and your witness described helps us decide which causes to assess. Some parts fit the working explanation, while these questions remain open. We can plan support for the falls while we investigate.”
 
@@ -148,6 +151,7 @@ Record the reasons supporting the diagnosis, alternatives considered and follow-
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 Hoeritzauer and colleagues retrospectively reviewed 83 patients seen by one clinician. Overlap with other functional symptoms supports further assessment, not a diagnostic-accuracy estimate. The study did not validate this authored record or a universal bedside test. Its abstract was checked for this expansion; full-text appraisal remains pending. [1](#citation-1)
 

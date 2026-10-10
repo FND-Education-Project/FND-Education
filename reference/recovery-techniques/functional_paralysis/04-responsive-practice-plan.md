@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What “dose” means in rehabilitation
 
@@ -47,6 +48,7 @@ During a familiar flare, use the agreed lower-demand plan or pause active practi
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help account for the whole day, not just the minutes spent exercising. Meals, appointments and conversation may draw on the same limited capacity. Offer practical help without pressuring the person to spend all the energy saved on more practice.
 
@@ -60,6 +62,7 @@ If the person reports delayed worsening, take it seriously even if the session l
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Specify task, frequency, duration, position, assistance, rest and stop/review criteria. Consider orthostatic, sensory, cognitive and travel demands alongside motor effort. Look for sustained or delayed deterioration and review coexisting pain, sleep problems and medication effects. (*citations* [1](#citation-1), [2](#citation-2))
 

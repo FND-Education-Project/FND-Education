@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 You may miss reading for pleasure, joining a conversation or managing part of your day. Returning does not have to mean doing it exactly as before. A smaller version, a different format or help from someone else can be a worthwhile starting point.
 
@@ -52,6 +53,7 @@ Sudden new confusion, altered consciousness, or cognitive difficulty with new we
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Let the person choose the goal and what help they want. Offer company without turning the activity into a performance. Help keep an enjoyable option available even when a more demanding goal has to wait.
 
@@ -65,6 +67,7 @@ During a familiar flare, use one speaker and one idea at a time. Give processing
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Use collaborative graded task practice, occupational analysis and appropriate risk management. Progress by response, including delayed effects and comorbid illness, not a mandatory schedule. Assess participation with and without supports only where useful and safe. Restoration and compensation can coexist; persistent disability still warrants access support. (*citations* [1](#citation-1), [2](#citation-2))
 

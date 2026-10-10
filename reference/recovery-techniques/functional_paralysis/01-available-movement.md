@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What “available movement” means
 
@@ -47,6 +48,7 @@ A useful response gives the team something to build on. It does not predict how 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask whether the person wants the agreed cue, then give them time. Do not keep changing commands, repeatedly test strength or surprise them into moving. A movement you saw yesterday may genuinely be unavailable today.
 
@@ -60,6 +62,7 @@ Follow the therapist's handling instructions. Never lift or pull someone by a we
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Identify the positively diagnosed motor phenotype and available task-related output. Document the action, position, assistance and repeatability rather than relying only on isolated power grades. Explain contralateral or whole-task recruitment without suggesting volitional inconsistency. (*citations* [1](#citation-1), [2](#citation-2))
 

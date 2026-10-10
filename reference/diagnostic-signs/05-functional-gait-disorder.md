@@ -32,6 +32,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Walking may become hesitant or unusually slow. A foot may drag, a knee may give way, or your body may sway even while you are trying to stay steady. Functional gait disorder can take these and other forms. This page explains how clinicians assess the walking difficulty and distinguish it from other conditions that can look similar.
 
@@ -73,6 +74,7 @@ A helpful care plan records both the diagnostic findings and your actual mobilit
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not ask the person to walk without their usual aid or try harder tasks to see whether they “can really walk.” Gait comparison has to be selected and guarded by a clinician. A safer role is to report what walking looks like in ordinary settings and which supports, surfaces or tasks seem to change it.
 
@@ -98,6 +100,7 @@ Leave room for the person to describe their experience. Afterward, ask what the 
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Episodic and prolonged presentations
 

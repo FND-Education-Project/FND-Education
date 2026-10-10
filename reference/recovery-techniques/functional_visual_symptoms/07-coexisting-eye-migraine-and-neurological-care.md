@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this approach is for
 
@@ -43,6 +44,7 @@ These examples require selection for your assessed presentation. The clinical ra
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help describe what is new compared with the usual pattern. Do not assume a new problem is functional or suggest that another diagnosis makes the FND diagnosis false.
 
@@ -56,6 +58,7 @@ Support access to care, including an escort or transport when vision is unreliab
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

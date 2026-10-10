@@ -16,6 +16,7 @@ Cough, throat closure, noisy breathing and breathlessness can have functional ca
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -82,6 +83,7 @@ Throat clearing and cough-like sounds can occur in tic disorders as well as airw
 
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Follow the person’s plan, help them reach the advised position or medicine, and keep the surroundings calm. Do not diagnose the sound or repeatedly instruct them to “just breathe.”
 
@@ -95,6 +97,7 @@ Notice objective changes and whether this matches the usual pattern. If the plan
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

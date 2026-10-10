@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A list of exercises can feel like another thing to get wrong when simply moving through the day is difficult. A vestibular rehabilitation plan starts by finding out what happens to you, then choosing a manageable way to work on something that matters.
 
@@ -52,6 +53,7 @@ Stop unsafe activity. Sudden or distinctly different dizziness with new weakness
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask which part of the plan the person wants help with: arranging space, keeping the written instructions nearby, transport or company. Avoid adding repetitions or evaluating effort. Describe practical problems to the therapist with the person’s permission.
 
@@ -65,6 +67,7 @@ During a familiar flare, follow the agreed support and safety plan. Ask before t
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Confirm Bárány criteria and identify active BPPV, vestibular hypofunction, migraine, orthostatic symptoms, medication effects and neurological causes. Select task-specific goals and examine gaze, balance, gait and visual-motion sensitivity as indicated. Semicircular canals signal angular head movement; otolith organs signal linear acceleration and gravity. Central vestibular pathways integrate these inputs with vision and somatosensation for gaze and postural control. PPPD does not by itself demonstrate peripheral loss; distinguish a functional formulation from an objectively identified vestibular deficit. Distinguish the diagnosis from any hypothesized sensory-weighting or threat mechanism. Rehabilitation response cannot establish PPPD. Track participation and delayed burden alongside symptom questionnaires; continuing access support remains appropriate.
 

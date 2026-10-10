@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -53,6 +54,7 @@ Keep practice short. Focus on the object, destination, sound or task result. Aft
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Join the purpose of the activity rather than watching the affected part. Hand over the safe object, name the destination or take part in a simple shared task. Use agreed cues such as “move the cloth to the blue square,” not repeated body corrections.
 
@@ -66,6 +68,7 @@ Do not hide the technique or turn daily life into a test. Saying “you moved no
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and task analysis
 

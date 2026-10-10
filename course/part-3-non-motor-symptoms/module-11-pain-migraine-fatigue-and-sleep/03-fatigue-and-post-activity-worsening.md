@@ -16,6 +16,7 @@ Fatigue can make washing, thinking or speaking feel like work. It is not a chara
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -73,6 +74,7 @@ Stop an activity that creates unsafe weakness, falls, chest pain, fainting or se
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not measure effort only by what you can see. Conversation, noise or decision-making may cost energy. Ask which task to protect and which can wait.
 
@@ -86,6 +88,7 @@ Avoid praising overexertion and blaming rest. Help the person compare plans with
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

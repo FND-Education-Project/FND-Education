@@ -27,6 +27,7 @@ Each technique below now opens a full page with patient guidance, supporter guid
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Techniques used in rehabilitation
 
@@ -77,6 +78,7 @@ A tremor is new, suddenly different, follows a medication change or injury, or a
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 - Ask whether the person wants a rhythm cue, practical help, or simply time.
 - Keep attention on the shared activity rather than staring at or repeatedly commenting on the tremor.
@@ -95,6 +97,7 @@ Remove hazards first. Offer one agreed cue or practical support and then give th
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Use entrainment, variability and distractibility as part of a positive explanation where they are present. Demonstrate change collaboratively, then convert it into a treatment cue. Select the cue from the tremor distribution and activation condition rather than transferring one limb method to all tremor phenotypes.
 

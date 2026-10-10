@@ -66,6 +66,37 @@ Older terms should be labelled historical, outdated, disputed, or potentially st
 
 Use the [repository change and page maintenance policy](repository-change-and-page-maintenance-policy.md) as the operational checklist whenever a course or reference page is added, removed, renamed or moved.
 
+## Shareable sections
+
+Section sharing is an editorial opt-in. Put a Kramdown attribute line directly
+under a selected heading, with no blank line between them:
+
+```markdown
+## Functional Tremor
+{: #functional-tremor .shareable }
+```
+
+Keep the existing rendered heading ID when marking an established section,
+including any doubled hyphens. Once explicit, keep that ID stable even if the
+heading wording changes. IDs must be unique within the page.
+
+Choose substantial sections that readers could reasonably send on their own:
+individual symptoms, the three audience sections, professional roles, glossary
+definitions, and selected explanations or practical reference material. Usually
+mark the audience section rather than its smaller subheadings. On diagnostic
+technique pages, favour purpose, interpretation, explanation and evidence limits
+over isolated examination steps.
+
+Leave page titles, navigation/grouping headings, alphabet letters, source lists,
+editorial records and routine subheadings unmarked. A page does not need a marker
+if sharing its ordinary URL is sufficient. Apply these choices to canonical
+reader-facing Markdown, never generated copies or internal research notes.
+
+The attribute line supplies an HTML ID and the `shareable` CSS class in the
+Jekyll website. It does not itself create a share button; the sharing interface
+must explicitly use this class. GitHub's Markdown preview may display the
+attribute line literally because GitHub does not support Kramdown attributes.
+
 ## Functional-tic search language
 
 Make functional tics, tic-like symptoms, functional tic-like behaviours, FTLB, motor tic, vocal tic, phonic tic and verbal tic findable. Prefer vocal/phonic in explanations; “verbal” is a search synonym. Route readers to the paired tics pages, with scope links from jerks, facial movement, cough and speech/voice.

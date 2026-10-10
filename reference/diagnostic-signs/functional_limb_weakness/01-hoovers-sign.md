@@ -18,6 +18,7 @@
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Hoover’s sign compares deliberately requested hip extension with associated extension during the opposite leg’s movement. It is used in the assessment of suitable unilateral leg weakness, with a sufficiently strong opposite leg for comparison. It is not a test for every weak limb or an upper-limb sign. (*citations* [1](#citation-1), [2](#citation-2))
 
@@ -92,6 +93,7 @@ The reverse comparison is part of the fuller description reviewed in 2025. Recor
 ---
 
 ## Interpretation and Explanation
+{: #interpretation-and-explanation .shareable }
 
 Pain, difficulty understanding the task, neglect, severe weakness in both legs, limited hip movement and other neurological or musculoskeletal conditions may make Hoover’s sign unsafe, absent or difficult to interpret. A negative Hoover’s sign does not rule out FND, and a positive sign is interpreted with the history and the rest of the neurological examination.
 
@@ -113,6 +115,7 @@ For neurology and general practice, document which comparison was positive and t
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The 2025 assessment review is a useful starting point for the examination protocol. Its account of Hoover’s sign shows why the exact comparison and suitable one-sided weakness matter when interpreting a finding. (*citations* [3](#citation-3))
 

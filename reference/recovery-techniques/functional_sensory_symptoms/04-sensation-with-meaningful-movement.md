@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this approach is for
 
@@ -43,6 +44,7 @@ These are choices to discuss with your care team, not a required exercise schedu
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Set up the task so a meaningful contribution is possible without hidden danger. Offer support rather than moving the person’s limb without warning. Avoid repeatedly asking whether sensation has returned.
 
@@ -56,6 +58,7 @@ Agree who will complete the activity if capacity runs out. Finishing with assist
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

@@ -16,6 +16,7 @@ Dissociation can be hard to describe. Words such as “far away,” “unreal,�
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -82,6 +83,7 @@ Stop a technique that increases panic, traumatic memories, pain or symptoms. See
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Use the person’s name and brief orientation cues: where they are, what is happening and that you are nearby. Ask before touching. Reduce noise and the number of people speaking.
 
@@ -95,6 +97,7 @@ Follow any agreed seizure or episode plan. Do not demand eye contact, quiz memor
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

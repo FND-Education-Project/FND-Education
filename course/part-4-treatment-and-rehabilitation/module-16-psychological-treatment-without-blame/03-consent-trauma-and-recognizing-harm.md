@@ -16,6 +16,7 @@ Trauma can matter deeply for some people with FND. It is not present, relevant t
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -82,6 +83,7 @@ Write one boundary: **“I do not consent to ___”** or **“Please ask before 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not search for a hidden cause, question the person's memory or press for session details. Believe their report of a boundary or harmful interaction. Ask what support they want before contacting a provider.
 
@@ -95,6 +97,7 @@ Therapy can bring temporary discomfort, but that phrase must not excuse coercion
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

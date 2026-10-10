@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What a mobility strategy includes
 
@@ -47,6 +48,7 @@ During a flare, choose the supported option that fits that day. After a fall, us
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Learn the agreed assistance and transfer method. Walking beside someone does not mean you can safely catch their full weight. Do not grab or lift in ways you have not been trained to use.
 
@@ -60,6 +62,7 @@ Help check routes, seating and equipment when asked. Support the person's decisi
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Assess the interaction between event mechanics and the device: abrupt loss of support, upper-limb control, braking, seating, transfers and environmental demands. Consider separate gait or weakness rehabilitation when indicated; improvement there may not remove drop attacks. (*citations* [1](#citation-1), [3](#citation-3), [5](#citation-5))
 

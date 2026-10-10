@@ -20,6 +20,7 @@ Clinician-focused educational reference; use within professional competence, con
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use this guide when eye closure, eyelid droop, suspected facial weakness or a hemifacial-spasm-like pattern needs clarification. It also explains the limited role of the blink-reflex recovery cycle. This is a specialist selection-and-interpretation guide, not a home examination or laboratory protocol.
 
@@ -123,6 +124,7 @@ Horn's study concerns neck/platysma signs in people with unilateral limb weaknes
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 The evidence should explain why the observed pattern fits the proposed diagnosis and how alternative or coexisting disease was considered. If the relevant sign is absent or interpretation is uncertain, document that instead of equating “unusual” with functional.
 
@@ -144,6 +146,7 @@ Do not use a single task comparison to overrule a new focal neurological symptom
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 **Authored explanation example:** “We need to distinguish an eyelid being pulled closed from a drooping lid or difficulty closing the eye. Those can look similar but need different care. I will explain what the examination shows, what any test was looking for and whether we need another specialist. Your vision and daily support needs matter whichever diagnosis is confirmed.”
 
@@ -163,6 +166,7 @@ Explain uncertainty directly and give a named follow-up plan. A reassuring resul
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 Schwingenschuh and colleagues prospectively compared 10 people with essential blepharospasm, nine with atypical/presumed functional blepharospasm and nine controls. The essential group had increased R2 recovery; the atypical group did not differ from controls at group level. This small selected comparison is not universal diagnostic validation. Normal physiology alone cannot establish FND. Indexed methods/results were checked; complete full-text appraisal and later replication review remain pending. (*citations* [3](#citation-3))
 

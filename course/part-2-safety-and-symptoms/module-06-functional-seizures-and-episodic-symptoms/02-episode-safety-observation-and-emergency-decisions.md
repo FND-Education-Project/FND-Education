@@ -16,6 +16,7 @@ Safe help during an episode is usually simple: protect from injury, follow the p
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -82,6 +83,7 @@ Do not practise by provoking an episode. Seek clinician review if you have no pl
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask before an event whether the person consents to touch, video or sharing information. During the event, protect from immediate harm, follow the plan and keep observers back. Do not pin limbs down, put anything in the mouth or use pain to test responsiveness.
 
@@ -95,6 +97,7 @@ Observe facts without trying to diagnose: timing, movement, awareness, colour, b
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

@@ -16,6 +16,7 @@ A short plan can reduce decisions during dizziness, nausea, heat intolerance or 
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -80,6 +81,7 @@ Do not add salt, restrict or force fluids, use compression, change medicine or b
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Learn where the plan is and follow the person’s chosen support steps. Ask before touching, moving or giving food, drink, salt or medicine. If the pattern differs from the plan, prioritize safety and appropriate assessment.
 
@@ -93,6 +95,7 @@ Help simplify the plan rather than adding more tracking. Your own limits and nee
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

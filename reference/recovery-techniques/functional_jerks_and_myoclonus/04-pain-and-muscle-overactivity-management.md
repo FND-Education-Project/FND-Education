@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -61,6 +62,7 @@ Seek assessment for new severe pain, injury, swelling, fever, progressive weakne
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help with the agreed positioning, work-surface change or equipment set-up. Ask before touching. Do not hold a jerking limb down, force it through range, or massage a painful area during an active jerk without a specific safe plan.
 
@@ -74,6 +76,7 @@ Support a medication review when jerks begin or change after a prescription, ove
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Assessment and formulation
 

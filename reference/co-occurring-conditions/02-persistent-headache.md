@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Understanding the pattern
 
@@ -41,6 +42,7 @@ Persistent pain can consume attention and disrupt sleep, leaving less room for F
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Continuous pain can be hard to see. Believe the person's report without requiring them to look unwell. Help protect meals, rest and appointments, and allow plans to change. Ask about what they managed or enjoyed as well as the pain score.
 
@@ -52,6 +54,7 @@ Continuous pain can be hard to see. Believe the person's report without requirin
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Establish onset, time course, phenotype, medication exposure and examination findings. Distinguish NDPH from gradually evolving chronic migraine and relevant secondary headaches. Do not repeatedly investigate an unchanged, assessed pattern without a clinical reason, or deny reassessment when it changes. Label phenotype-based NDPH treatment as extrapolated evidence. (*citations* [1](#source-1), [5](#source-5), [6](#source-6))
 

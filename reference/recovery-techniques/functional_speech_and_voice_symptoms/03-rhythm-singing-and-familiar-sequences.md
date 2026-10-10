@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A familiar phrase can sometimes come more easily than a sentence you are trying hard to build. Counting, saying the days of the week, or using a little rhythm may offer a way into speech. Singing is one option, not a requirement.
 
@@ -41,6 +42,7 @@ The examples here are suggestions to discuss with your clinician, not a fixed ex
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask whether the person wants you to join in. Speaking together may help in one exercise but make it harder for them to express an independent message in another.
 
@@ -54,6 +56,7 @@ Do not finish a song or count at someone to prove that speech is available. If a
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selecting the approach
 

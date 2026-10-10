@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Being able to remember something at one moment does not make the times you cannot remember it any less real. A useful explanation of FCD makes room for both experiences. Your clinician should show you what supports the diagnosis, what else was considered, and what help is available.
 
@@ -54,6 +55,7 @@ Sudden new confusion, altered consciousness, or cognitive difficulty with new we
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask what kind of help is needed: repeating information, allowing more time, finding a word, remembering a future task or working out the next step. These are different needs, even when they are all described as “my memory.” Describe observations rather than assigning a memory-system diagnosis.
 
@@ -69,6 +71,7 @@ During a familiar flare, use one speaker and one idea at a time. Give processing
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Separate the presenting complaint from the cognitive process hypothesized to underlie it and from objectively demonstrated impairment. Characterize attention/encoding, learning, retention, retrieval, working and prospective memory, language access, processing speed and executive demands as indicated. Do not assume that naming difficulty demonstrates degradation of semantic representations. No prevalence hierarchy of episodic versus semantic impairment is established by the sources used here.
 

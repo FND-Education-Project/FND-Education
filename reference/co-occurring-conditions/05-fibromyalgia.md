@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Understanding the overlap
 
@@ -40,6 +41,7 @@ Fibromyalgia has been reported alongside FND in clinical studies. The useful ove
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Unrefreshing sleep is not the same as choosing to stay in bed, and fatigue is not ordinary reluctance. Offer help with the tasks the person values. Keep support available through fluctuations rather than withdrawing it on a better day.
 
@@ -51,6 +53,7 @@ Unrefreshing sleep is not the same as choosing to stay in bed, and fatigue is no
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Use clinical diagnostic assessment and an individualized formulation. Consider pain, sleep, mood, fatigue and medication effects together without collapsing them into FND. Explain that the EULAR evidence concerns fibromyalgia; the strongest exercise recommendation does not authorize forced progression, particularly when post-exertional malaise is present. (*citations* [2](#source-2), [3](#source-3), [6](#source-6))
 

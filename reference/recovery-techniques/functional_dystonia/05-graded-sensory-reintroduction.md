@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -53,6 +54,7 @@ Stop and seek review for new swelling, persistent colour or temperature change, 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask which materials and pressure are acceptable. Never surprise the person with touch or test whether the area “really hurts.” Prepare the agreed items and let the person control contact and stopping.
 
@@ -66,6 +68,7 @@ Praise the practical action—putting on the sleeve, washing the hand, placing t
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and differential assessment
 

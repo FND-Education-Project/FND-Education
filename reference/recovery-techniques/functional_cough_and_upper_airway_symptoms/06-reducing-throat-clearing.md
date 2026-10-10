@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 The feeling that something needs clearing can be hard to leave alone. Sometimes repeated clearing adds irritation and keeps the sensation going. Treatment looks for a gentler response while also checking why the throat feels irritated in the first place.
 
@@ -39,6 +40,7 @@ Do not use cough suppression to manage choking, serious breathlessness or a new 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Please avoid “stop clearing your throat” reminders. Most people already wish they could. Offer the agreed alternative only if requested, and help reduce irritants without making the person feel responsible for every sound.
 
@@ -52,6 +54,7 @@ Agree beforehand how the person wants help during a familiar bout. A changed or 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Explain the proposed irritation–clearing cycle without presenting it as universal. Assess secretion management, aspiration risk, medication effects and ENT contributors. Clarify tic cough versus functional tic-like symptoms when relevant. Track comfort, voice use and participation as well as frequency; do not make silence the only outcome.
 

@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 “Slow down” can sound simple, but it is not a complete treatment plan. Some people find a slower pace easier; others become more stuck when they concentrate on every sound. A therapist can help you explore what actually makes your message easier to say.
 
@@ -41,6 +42,7 @@ The examples here are suggestions to discuss with your clinician, not a fixed ex
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Respond to the person’s meaning. Do not imitate an unfamiliar accent, make jokes about it or insist on the “old voice.” Ask which changes are troubling to the person themselves.
 
@@ -54,6 +56,7 @@ If a timing cue has been agreed, keep it brief. Repeated instructions to slow do
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selecting the approach
 

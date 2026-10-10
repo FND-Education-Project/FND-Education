@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this approach is for
 
@@ -43,6 +44,7 @@ These examples require selection for your assessed presentation. The clinical ra
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help communicate light, sound or motion sensitivity before the appointment. Do not reproduce examination tests at home to prove that vision is available. A clinician may interpret a response that the person still cannot consciously experience.
 
@@ -56,6 +58,7 @@ If a demonstration is upsetting or physically uncomfortable, support stopping an
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

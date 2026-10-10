@@ -16,6 +16,7 @@ Functional sensory symptoms can include too little sensation, too much sensation
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -77,6 +78,7 @@ Stop any experiment that causes pain, skin damage, dizziness or a lasting flare.
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask before touching an affected area or changing the environment. A light touch may feel painful, while numbness may hide pressure or heat injury. Help with skin checks or practical changes only if the person wants this.
 
@@ -90,6 +92,7 @@ Do not repeatedly test sensation or insist on exposure. Support immediate access
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

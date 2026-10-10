@@ -16,6 +16,7 @@ A measurement is useful when it helps answer a specific question. More data is n
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -77,6 +78,7 @@ Do not repeatedly stand, restrict fluids, overdrink, change salt, provoke sympto
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help record the agreed observation without interpreting every value. If the device and the person disagree, attend to symptoms and safety rather than arguing with the number.
 
@@ -90,6 +92,7 @@ Do not monitor someone without consent. Help stop tracking when it becomes burde
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

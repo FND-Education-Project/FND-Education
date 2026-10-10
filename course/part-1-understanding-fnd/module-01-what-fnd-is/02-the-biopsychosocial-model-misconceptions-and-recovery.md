@@ -16,6 +16,7 @@ This page explains the biopsychosocial model in simple terms, what it does and d
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 FND is a neurological disease that can be understood through a **biopsychosocial model**. *What does this mean?* (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3)) 
 
 When we talk about the *biopsychosocial model*, it is in relation to how your **symptoms** are affected by, well, all aspects of your life and health, really. (*citations* [1](#citation-1), [3](#citation-3)) 
@@ -53,6 +54,7 @@ Don't worry if you can't journal! Personally, my functional symptoms prevent me 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 As described earlier on this page, the biopsychosocial model is a way to organize possible influences on health and daily life; it is not a map of three required causes. As a support person, you cannot control the person's symptoms, but you can help across all three areas: access to medical care, rehabilitation and equipment; psychological care when the person wants it for an agreed reason; and practical support with safety, personal care, transport, relationships, housing, work, or other daily needs. Good support can make life safer and more manageable without guaranteeing a change in symptoms.
 
@@ -74,6 +76,7 @@ You are one of the sufferer's social group. You can help the person to try the v
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 In the previous article, it was shown that researchers have established that Functional Neurological Disorder sits *"at the interface between neurology and psychiatry"*. (*citations* [1](#citation-1)) 
 **What is the biopsychosocial model?**

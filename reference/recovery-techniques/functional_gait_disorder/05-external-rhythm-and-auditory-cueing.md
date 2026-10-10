@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What an external rhythm provides
 
@@ -45,6 +46,7 @@ Stop if you feel driven to chase the beat, your steps become too long or fast, y
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Use only the cue and volume the person has chosen with the therapist. Keep the count steady and neutral; do not speed up to encourage greater effort. Stop cueing when asked or when gait quality declines.
 
@@ -58,6 +60,7 @@ Avoid adding conversation, clapping and correction at the same time. The cue sho
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and access screen
 

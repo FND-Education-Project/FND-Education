@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -54,6 +55,7 @@ With clinician supervision, a person whose leg tremor appears in standing may pr
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help position the chair, object or agreed support. Ask before touching the shoulder, arm, pelvis or leg. Use one practical cue such as “bring the cup closer” rather than a stream of corrections about posture. Do not pin the limb, brace it by force or remove a support to test independence.
 
@@ -65,6 +67,7 @@ Help position the chair, object or agreed support. Ask before touching the shoul
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and baseline
 

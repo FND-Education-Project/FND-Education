@@ -16,6 +16,7 @@ Functional weakness can make a limb feel heavy, disconnected or impossible to mo
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -77,6 +78,7 @@ Do not repeatedly test strength, force a weak limb or practise near a fall risk.
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Believe the difficulty even when movement varies. Variation is part of the clinical information. Ask before lifting, pulling or physically guiding a limb. Help make the route safer and keep useful aids within reach.
 
@@ -90,6 +92,7 @@ Praise meaningful participation rather than normal-looking movement. Do not hide
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

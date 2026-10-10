@@ -16,6 +16,7 @@ Walking can become slow, effortful, unsteady or unpredictable. A person may drag
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -77,6 +78,7 @@ Do not practise a difficult walking pattern alone or without the aid you need. N
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask how the person wants help before reaching for them. Unexpected pulling can disturb balance. Keep aids available, reduce hazards and walk at the person’s pace.
 
@@ -90,6 +92,7 @@ Do not judge severity by how unusual the gait looks. Notice actual falls, near-f
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

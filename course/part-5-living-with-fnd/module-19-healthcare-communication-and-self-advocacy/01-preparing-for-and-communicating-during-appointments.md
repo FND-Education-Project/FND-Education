@@ -16,6 +16,7 @@ Appointments ask for memory, speech, timing, travel and concentration—exactly 
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -73,6 +74,7 @@ Write only: “Today I need help with _____.” If that is all you can prepare, 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Before the visit, agree your role: transport, notes, remembering a timeline, emotional support or speaking only when invited. During the visit, do not answer every question first. Help the person ask for a pause and check that the written plan matches what they heard.
 
@@ -84,6 +86,7 @@ Before the visit, agree your role: transport, notes, remembering a timeline, emo
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

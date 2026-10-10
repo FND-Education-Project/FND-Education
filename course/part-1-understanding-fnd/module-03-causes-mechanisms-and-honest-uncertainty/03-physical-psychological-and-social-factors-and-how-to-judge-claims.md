@@ -16,6 +16,7 @@ Physical health, thoughts and emotions, relationships, healthcare and living con
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What does “biopsychosocial” mean here?
 
@@ -132,6 +133,7 @@ Stop if evaluating the claim pulls you into constant symptom checking, distress 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 You do not need to solve the cause of FND in order to be helpful. Listen to the person's understanding and uncertainty. Ask whether they want emotional support, practical help, help recording a concern or space from the subject.
 
@@ -149,6 +151,7 @@ If you observe a new or substantially changed symptom, describe what you saw and
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

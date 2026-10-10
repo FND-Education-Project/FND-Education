@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this approach is for
 
@@ -43,6 +44,7 @@ These examples require selection for your assessed presentation. The clinical ra
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Use neutral observations only with permission. “That label was readable in this layout” is more useful than “You can see when you stop thinking about it.” Do not secretly film, test or arrange obstacles to catch a response.
 
@@ -56,6 +58,7 @@ Help preserve the conditions that made the activity manageable. Avoid demanding 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Having FCD should not close the door on other explanations or treatments. Poor sleep, pain or difficulty hearing can make a conversation harder to follow, while medication effects or another illness may also matter. Sorting this out is a shared clinical task, not something you must diagnose alone.
 
@@ -52,6 +53,7 @@ Sudden new confusion, altered consciousness, or cognitive difficulty with new we
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 With permission, help prepare a concise list or attend a review. Describe concrete changes without deciding their cause. Support access to hearing, sleep or other services and help clarify who is coordinating care.
 
@@ -65,6 +67,7 @@ During a familiar flare, use one speaker and one idea at a time. Give processing
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Review the differential and contributors proportionately, using history, examination and indicated investigations. Include medication/substance effects, sleep disorders, sensory impairment, mood, neurodevelopmental conditions and neurological disease. Avoid both endless low-yield investigation and diagnostic overshadowing. Record reassessment thresholds and an accountable follow-up plan. (*citations* [1](#citation-1), [2](#citation-2))
 

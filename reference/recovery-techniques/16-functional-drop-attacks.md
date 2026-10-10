@@ -30,6 +30,7 @@ Drop-attack-specific treatment evidence is limited. The first aim is injury prev
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Build a response around the event you actually have
 
@@ -62,6 +63,7 @@ Do not deliberately provoke an attack, stop a prescribed medicine or practise fa
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 - Learn the person’s preferred response and thresholds for first aid or emergency help.
 - Move hazards when safe, protect privacy and avoid rapidly hauling the person upright.
@@ -81,6 +83,7 @@ If the event differs from the established pattern, treat that difference as new 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Confirm the event phenotype and differential before assigning this plan. Record warning, recall, awareness, fall mechanics, injury, recovery and overlap with gait, weakness, dissociation or seizure-like events. Review medications, cardiovascular and orthostatic features, epilepsy risk, cataplexy or sleep symptoms, vestibular features and mechanical contributors as indicated.
 

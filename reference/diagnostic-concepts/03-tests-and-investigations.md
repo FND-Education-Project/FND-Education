@@ -15,6 +15,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 An investigation is most useful when it answers a question. A scan may assess a suspected brain or spinal problem; a nerve study asks a different question about peripheral nerve or muscle function. Which tests are appropriate depends on the history and examination. FND assessment can include investigations for another condition while also identifying positive functional signs. (*citations* [1](#citation-1))
 
@@ -35,6 +36,7 @@ For the specific questions raised by arm or leg weakness, return to [functional 
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help keep results and appointment questions together if the person wants this. Check what follow-up has been agreed and who will explain the result.
 
@@ -49,6 +51,7 @@ Avoid concluding that “normal” means nothing is wrong or that any abnormal r
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Define the clinical question before ordering or interpreting an investigation. Relate findings to phenotype and examination; preserve the possibility of coexisting disease. A negative investigation and a positive FND sign provide different kinds of information. (*citations* [1](#citation-1))
 

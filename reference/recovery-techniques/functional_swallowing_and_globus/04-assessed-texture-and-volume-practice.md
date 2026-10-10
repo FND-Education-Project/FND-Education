@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Wanting a wider choice of food is understandable. So is being cautious when meals have become difficult. Progress should start from a clear assessment, not from a challenge to eat something harder to show that you can.
 
@@ -51,6 +52,7 @@ Call emergency services for choking with inability to breathe, speak or cough ef
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Prepare only the agreed items and offer the specified help. Do not hide a harder texture, enlarge a mouthful or remove an alternative to encourage progress. Respect a pause and report intake problems without turning meals into a performance score.
 
@@ -64,6 +66,7 @@ Use the person’s written flare and emergency plan. If they cannot safely conti
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and formulation
 

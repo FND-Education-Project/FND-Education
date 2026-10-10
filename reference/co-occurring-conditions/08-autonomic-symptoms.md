@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Understanding the body's automatic regulation
 
@@ -42,6 +43,7 @@ A useful commonality is the interaction between bodily state, attention and acti
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Offer a seat or help the person lie safely when needed. Standing still in a queue can be more difficult than it looks. Do not turn standing time, hydration or exercise into a test of willingness, and respect the person's agreed clinical plan.
 
@@ -53,6 +55,7 @@ Offer a seat or help the person lie safely when needed. Standing still in a queu
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Assess orthostatic physiology and relevant alternatives before assigning a mechanism. Distinguish POTS, orthostatic hypotension, vasovagal episodes and arousal-associated symptoms where relevant. Autonomic findings in FND studies are heterogeneous and are not a clinical biomarker. Coordinate medication and activity recommendations across services. (*citations* [1](#source-1), [2](#source-2))
 

@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 You may find that being asked to smile is harder than reacting during a conversation. If that happens, it can feel confusing or even embarrassing. The difference does not make the difficulty less real.
 
@@ -47,6 +48,7 @@ During a familiar flare, a shorter exchange or a non-spoken response may be more
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Stay interested in the conversation itself. Repeatedly saying “your face looks better now” may pull attention back to the movement and make an ordinary exchange feel like an examination.
 
@@ -60,6 +62,7 @@ Do not infer emotion from an involuntary facial position. Ask what the person me
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Select a task with demonstrably available movement, establish consent and explain the rationale. Distinguish spontaneous expression from deliberate facial posing and speech-motor coordination. Avoid deceptive testing, provocative surprise or unsafe oral tasks. Judge communication and effort as well as appearance; do not assume absence of an immediate response excludes FND.
 
