@@ -32,6 +32,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Words may look blurred, part of the scene may seem missing, or sight may feel unavailable despite your eyes being open. Some people describe a narrow tunnel of vision. These experiences help explain what needs assessing; they do not identify the cause by themselves. Double vision and light sensitivity also need their own assessment rather than being assumed to be functional visual loss.
 
@@ -65,6 +66,7 @@ When a familiar visual episode starts, stop driving, cooking, using tools, navig
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not wave objects toward the person’s eyes, set up obstacles or surprise them to see whether they avoid something. Those demonstrations can cause falls, distress or eye injury and are not a responsible diagnostic assessment. Support the person’s current visual-safety plan and report changes to the appropriate clinician.
 
@@ -88,6 +90,7 @@ New, sudden or painful visual loss still needs urgent assessment according to lo
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 **Featured technique:** Positive demonstration of preserved visual function during a complete ophthalmic or neuro-ophthalmic assessment.<br>
 **Diagnostic method:** Compare reported vision with objective visual behaviours or responses, such as optokinetic nystagmus, while also looking for eye and brain disease.<br>

@@ -32,6 +32,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 You might lose the thread of a conversation, reread a message without taking it in, forget an intended task or struggle to organize familiar steps. These experiences help describe the problem; they do not by themselves establish FCD.
 
@@ -65,6 +66,7 @@ When a familiar cognitive episode starts, reduce incoming information and multit
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not quiz the person, secretly keep score or use a remembered success to dismiss a later difficulty. With permission, you can provide examples of what has changed, what remains possible and how the pattern affects daily life. Try to describe actual events rather than deciding whether the person “really forgot.”
 
@@ -84,6 +86,7 @@ A short period of difficulty and a longer cognitive flare can both be genuine. I
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 **Featured technique:** Structured history and cognitive assessment looking for internal inconsistency.<br>
 **Diagnostic method:** Compare the reported difficulty with observed abilities and valid assessment results while evaluating other causes of cognitive symptoms.<br>

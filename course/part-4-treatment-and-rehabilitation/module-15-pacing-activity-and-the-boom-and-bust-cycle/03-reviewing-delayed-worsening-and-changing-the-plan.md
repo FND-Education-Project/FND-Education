@@ -16,6 +16,7 @@ Sometimes the cost of an activity appears hours later or the next day. A brief r
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -81,6 +82,7 @@ After one planned activity, write only **same, better or worse** at the agreed r
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Believe the later effect even if the activity looked easy at the time. Ask what help is wanted now. Do not use the flare to forbid all future activity or to demand that the person repeat the same plan unchanged.
 
@@ -94,6 +96,7 @@ Help distinguish the familiar pattern from a medical change. Follow the person's
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Leave with an explanation you can use
 
@@ -37,6 +38,7 @@ At a familiar warning during an appointment, pause the discussion and use your e
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help record the person’s questions and the clinician’s answers without speaking over them. Ask whether they want you present for all or part of the visit. “We have not understood this yet” is useful information for the clinician.
 
@@ -50,6 +52,7 @@ If symptoms begin, stop questioning and follow the episode plan. Later, help obt
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Assessment and terminology
 

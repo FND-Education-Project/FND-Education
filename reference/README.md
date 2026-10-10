@@ -38,6 +38,7 @@ Use it when the question is not only *what does this patient have?* but also *wh
 ## Find an FND Symptom
 
 ## Functional Limb Weakness
+{: #functional-limb-weakness .shareable }
 
 [Understanding & Diagnosis](diagnostic-signs/01-functional-limb-weakness.md)<br>
 [Recovery Techniques](recovery-techniques/01-functional-limb-weakness.md)
@@ -45,6 +46,7 @@ Use it when the question is not only *what does this patient have?* but also *wh
 An arm or leg may feel weak, heavy or difficult to control. Movement may be possible in some activities or circumstances but much more difficult when trying to perform another movement deliberately.
 
 ## Functional Paralysis
+{: #functional-paralysis .shareable }
 
 [Understanding & Diagnosis](diagnostic-signs/15-functional-paralysis.md)<br>
 [Recovery Techniques](recovery-techniques/15-functional-paralysis.md)
@@ -52,6 +54,7 @@ An arm or leg may feel weak, heavy or difficult to control. Movement may be poss
 A person may experience periods when voluntary movement of a limb or larger part of the body becomes extremely limited or temporarily unavailable. The symptom is more extensive than the partial loss of strength usually described as functional weakness.
 
 ## Functional Tremor
+{: #functional-tremor .shareable }
 
 [Understanding & Diagnosis](diagnostic-signs/02-functional-tremor.md)<br>
 [Recovery Techniques](recovery-techniques/02-functional-tremor.md)
@@ -59,6 +62,7 @@ A person may experience periods when voluntary movement of a limb or larger part
 A hand, arm, leg or another part of the body may shake rhythmically or irregularly. The speed, strength or pattern of the shaking may change during different movements, tasks or situations.
 
 ## Functional Jerks / Myoclonus
+{: #functional-jerks--myoclonus .shareable }
 
 [Understanding & Diagnosis](diagnostic-signs/03-functional-jerks-and-myoclonus.md)<br>
 [Recovery Techniques](recovery-techniques/03-functional-jerks-and-myoclonus.md)
@@ -66,6 +70,7 @@ A hand, arm, leg or another part of the body may shake rhythmically or irregular
 A body part may make sudden, brief movements that feel involuntary. These jerks may happen occasionally, repeatedly or in bursts.
 
 ## Functional Dystonia and Fixed Postures
+{: #functional-dystonia-and-fixed-postures .shareable }
 
 [Understanding & Diagnosis](diagnostic-signs/04-functional-dystonia.md)<br>
 [Recovery Techniques](recovery-techniques/04-functional-dystonia.md)
@@ -73,6 +78,7 @@ A body part may make sudden, brief movements that feel involuntary. These jerks 
 A hand, foot, limb, neck or another body part may pull, twist, curl or become held in an unusual posture. The position can sometimes become painful or difficult to release.
 
 ## Functional Gait Disorder
+{: #functional-gait-disorder .shareable }
 
 [Understanding & Diagnosis](diagnostic-signs/05-functional-gait-disorder.md)<br>
 [Recovery Techniques](recovery-techniques/05-functional-gait-disorder.md)
@@ -80,6 +86,7 @@ A hand, foot, limb, neck or another body part may pull, twist, curl or become he
 Walking may become difficult because of changes such as leg dragging, knee buckling, unusual stepping, swaying, freezing or difficulty coordinating the normal sequence of walking.
 
 ## Functional Seizures
+{: #functional-seizures .shareable }
 
 [Understanding & Diagnosis](diagnostic-signs/06-functional-seizures.md)<br>
 [Recovery Techniques](recovery-techniques/06-functional-seizures.md)
@@ -87,6 +94,7 @@ Walking may become difficult because of changes such as leg dragging, knee buckl
 Episodes can include changes in awareness, responsiveness or movement. A person may collapse, shake, stiffen, become still, lose awareness of their surroundings or experience another recurring seizure-like event.
 
 ## Functional Drop Attacks
+{: #functional-drop-attacks .shareable }
 
 [Understanding & Diagnosis](diagnostic-signs/16-functional-drop-attacks.md)<br>
 [Recovery Techniques](recovery-techniques/16-functional-drop-attacks.md)
@@ -94,6 +102,7 @@ Episodes can include changes in awareness, responsiveness or movement. A person 
 A person may suddenly drop or fall toward the ground, sometimes with very little warning, and may recover from the event quickly.
 
 ## Functional Tics
+{: #functional-tics .shareable }
 
 [Understanding & Diagnosis](diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md)<br>
 [Recovery Techniques](recovery-techniques/17-functional-tics-and-tic-like-symptoms.md)
@@ -101,6 +110,7 @@ A person may suddenly drop or fall toward the ground, sometimes with very little
 Sudden movements, gestures or sounds may occur repeatedly and feel difficult or impossible to prevent at the moment they happen.
 
 ## Functional Sensory Symptoms
+{: #functional-sensory-symptoms .shareable }
 
 [Understanding & Diagnosis](diagnostic-signs/07-functional-sensory-symptoms.md)<br>
 [Recovery Techniques](recovery-techniques/07-functional-sensory-symptoms.md)
@@ -108,6 +118,7 @@ Sudden movements, gestures or sounds may occur repeatedly and feel difficult or 
 Touch, temperature, pain or awareness of part of the body may feel altered. An area may feel numb, strange, unusually sensitive or less connected to the person's normal sense of their body.
 
 ## Functional Visual Symptoms
+{: #functional-visual-symptoms .shareable }
 
 [Understanding & Diagnosis](diagnostic-signs/08-functional-visual-symptoms.md)<br>
 [Recovery Techniques](recovery-techniques/08-functional-visual-symptoms.md)
@@ -115,6 +126,7 @@ Touch, temperature, pain or awareness of part of the body may feel altered. An a
 Vision may become blurred, narrowed, doubled, intermittently absent or otherwise altered. The way the visual difficulty changes across situations can provide important diagnostic information.
 
 ## Functional Speech and Voice Symptoms
+{: #functional-speech-and-voice-symptoms .shareable }
 
 [Understanding & Diagnosis](diagnostic-signs/09-functional-speech-and-voice-symptoms.md)<br>
 [Recovery Techniques](recovery-techniques/09-functional-speech-and-voice-symptoms.md)
@@ -122,6 +134,7 @@ Vision may become blurred, narrowed, doubled, intermittently absent or otherwise
 Speech or voice may become quiet, strained, slowed, stuttered, unusually accented or temporarily difficult to produce. The person's ability to speak can sometimes vary considerably across circumstances.
 
 ## Functional Swallowing Symptoms and Globus
+{: #functional-swallowing-symptoms-and-globus .shareable }
 
 [Understanding & Diagnosis](diagnostic-signs/10-functional-swallowing-and-globus.md)<br>
 [Recovery Techniques](recovery-techniques/10-functional-swallowing-and-globus.md)
@@ -129,6 +142,7 @@ Speech or voice may become quiet, strained, slowed, stuttered, unusually accente
 Swallowing may feel difficult, effortful or unusual. Some people experience persistent tightness or the feeling of a lump or obstruction in the throat.
 
 ## Functional Cough and Upper-Airway Symptoms
+{: #functional-cough-and-upper-airway-symptoms .shareable }
 
 [Understanding & Diagnosis](diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md)<br>
 [Recovery Techniques](recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md)
@@ -136,6 +150,7 @@ Swallowing may feel difficult, effortful or unusual. Some people experience pers
 Coughing, throat clearing or other upper-airway responses may become persistent or repeatedly triggered as the nervous system develops an established pattern of responding.
 
 ## Functional Cognitive Disorder
+{: #functional-cognitive-disorder .shareable }
 
 [Understanding & Diagnosis](diagnostic-signs/12-functional-cognitive-disorder.md)<br>
 [Recovery Techniques](recovery-techniques/12-functional-cognitive-disorder.md)
@@ -143,6 +158,7 @@ Coughing, throat clearing or other upper-airway responses may become persistent 
 Memory, concentration, word finding, attention or thinking may become unreliable in everyday life. A characteristic feature can be a large difference between what feels inaccessible in one situation and what the brain can successfully do in another.
 
 ## Functional Facial Symptoms
+{: #functional-facial-symptoms .shareable }
 
 [Understanding & Diagnosis](diagnostic-signs/14-functional-facial-symptoms.md)<br>
 [Recovery Techniques](recovery-techniques/14-functional-facial-symptoms.md)
@@ -161,6 +177,7 @@ Part of the face may pull, tighten, spasm, droop or feel difficult to control. T
 ---
 
 ## Common Symptoms and Conditions That Occur Alongside FND
+{: #common-symptoms-and-conditions-that-occur-alongside-fnd .shareable }
 
 - [Migraine](co-occurring-conditions/01-migraine.md) and [Chronic Headache](co-occurring-conditions/02-persistent-headache.md)
 - [Tinnitus](co-occurring-conditions/03-tinnitus.md)
@@ -173,6 +190,7 @@ Part of the face may pull, tighten, spasm, droop or feel difficult to control. T
 ---
 
 ## Biopsychosocial Experiences Associated with FND
+{: #biopsychosocial-experiences-associated-with-fnd .shareable }
 
 Some important experiences do not fit neatly into either an FND diagnostic-sign page or a separate co-occurring diagnosis. This collection keeps those cross-cutting topics visible without turning them into diagnostic criteria or assuming they caused the disorder.
 
@@ -196,6 +214,7 @@ Some important experiences do not fit neatly into either an FND diagnostic-sign 
 ---
 
 ## Understanding FND
+{: #understanding-fnd .shareable }
 
 FND involves changes in how the brain and nervous system organize and control important functions.
 
@@ -216,6 +235,7 @@ The same observation has important implications for rehabilitation.
 If the nervous system can sometimes produce a movement more normally, rehabilitation may be able to build upon that available function. Treatment often works toward making movement, speech, attention or another affected ability more automatic again rather than relying on greater conscious effort.
 
 ## FND Can Change From Moment to Moment
+{: #fnd-can-change-from-moment-to-moment .shareable }
 
 Brain function is dynamic. The ability to perform a task can change depending on what the nervous system is doing at that moment.
 
@@ -226,6 +246,7 @@ These influences vary greatly between people. Understanding an individual's patt
 This variability is therefore useful information. It can help with diagnosis, help a person understand their symptoms and sometimes reveal opportunities for rehabilitation.
 
 ## FND Can Affect Many Different Systems
+{: #fnd-can-affect-many-different-systems .shareable }
 
 The brain networks involved in movement do not work in isolation.
 
@@ -238,6 +259,7 @@ This also helps explain why two people with FND can have very different experien
 There is unlikely to be one mechanism that completely explains every symptom in every person with FND.
 
 ## FND and Other Health Conditions
+{: #fnd-and-other-health-conditions .shareable }
 
 People with FND can also have other neurological, medical or psychological conditions.
 
@@ -263,60 +285,70 @@ For a more structured explanation beginning with the basic concepts and building
 ## More FND Reference Topics
 
 ## Positive Diagnosis of FND
+{: #positive-diagnosis-of-fnd .shareable }
 
 [Read about positive diagnosis](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md)
 
 FND has recognizable clinical features. This section explains how clinicians use the history, examination and positive diagnostic signs to build evidence for an FND diagnosis.
 
 ## Understanding Positive Diagnostic Signs
+{: #understanding-positive-diagnostic-signs .shareable }
 
 [Read about positive diagnostic signs](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md)
 
 Positive signs can show how an affected function changes under different conditions. This section explains why those changes matter and what they can tell the clinician.
 
 ## Diagnostic Techniques
+{: #diagnostic-techniques .shareable }
 
 [Explore diagnostic techniques](diagnostic-signs/diagnostic-index.md)
 
 Some positive signs can be demonstrated using specific examination techniques. These pages explain how the techniques work, what clinicians observe, the anatomy and physiology involved, and the limits of each finding.
 
 ## Tests and Investigations
+{: #tests-and-investigations .shareable }
 
 [Read about tests and investigations](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md)
 
 Scans, EEGs, blood tests and other investigations answer different clinical questions. This section explains what these tests can contribute to an assessment and how they fit alongside the positive diagnosis of FND.
 
 ## FND Alongside Other Conditions
+{: #fnd-alongside-other-conditions .shareable }
 
 [Read about coexisting conditions](co-occurring-conditions/README.md)
 
 More than one diagnosis can contribute to a person's symptoms. This section looks at how FND can interact with other neurological and medical conditions.
 
 ## Why Symptoms Vary
+{: #why-symptoms-vary .shareable }
 
 [Read about symptom variability](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md)
 
 FND symptoms can change across movements, situations and times of day. These variations can provide useful clues about how the affected function is being controlled.
 
 ## Explaining an FND Diagnosis
+{: #explaining-an-fnd-diagnosis .shareable }
 
 [Read about explaining FND](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md)
 
 A useful explanation can help a person understand what has been found during the assessment, why the diagnosis was made and what the diagnosis may mean for treatment and recovery.
 
 ## Professional Roles in FND Care
+{: #professional-roles-in-fnd-care .shareable }
 
 [Find your profession and relevant FND pages](professional-roles-in-fnd-care.md)
 
 A profession-facing map of diagnosis, rehabilitation, daily function, communication, cognition, mental health, acute care and social support. Each profession includes search-oriented tags and links to the parts of this site most relevant to that role.
 
 ## A Brief History of FND
+{: #a-brief-history-of-fnd .shareable }
 
 [View the FND timeline](history-of-fnd.md)
 
 A selective timeline of major changes in FND diagnosis, mechanisms, rehabilitation and clinical guidance, with links to representative papers and sources. This is background reading rather than a required starting point.
 
 ## Family, Friends and Other Supporters
+{: #family-friends-and-other-supporters .shareable }
 
 [Visit the supporter reference](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md#for-family-friends-and-other-supporters)
 

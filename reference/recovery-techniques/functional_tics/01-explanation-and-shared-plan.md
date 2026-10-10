@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What an explanation should give you
 
@@ -41,6 +42,7 @@ Improvement can mean fewer tics, less pain or an easier day. Persistent symptoms
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask what the person understood and what they want help remembering. With permission, write down the agreed next step. Avoid quizzing them about the explanation or expecting agreement to produce immediate improvement.
 
@@ -54,6 +56,7 @@ Let the person choose who receives the information. For a child or young person,
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Document the positive diagnostic formulation, differential diagnosis and possible coexistence of primary tics. Explain uncertainty explicitly. A vocal presentation is not sufficient evidence of FND. Coordinate a named follow-up route and assess comprehension without treating assent as a diagnostic test. (*citations* [1](#citation-1))
 

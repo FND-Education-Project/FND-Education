@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What loading means
 
@@ -43,6 +44,7 @@ Use a visual target or the purpose of the task, such as reaching for an object o
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not hold the person by the weak arm or pull them upright. Use the transfer and guarding method taught by the clinician. Keep the mobility aid and stable surface in the agreed position; a wheeled or unstable object is not a substitute. Let the person control how much weight is transferred. A smaller shift may be the correct dose.
 
@@ -54,6 +56,7 @@ Do not hold the person by the weak arm or pull them upright. Use the transfer an
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Pre-loading assessment
 

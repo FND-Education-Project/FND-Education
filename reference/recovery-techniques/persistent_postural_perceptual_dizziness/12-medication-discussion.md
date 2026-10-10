@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Being offered an antidepressant for dizziness can be confusing, particularly if nobody explains the reason. You are entitled to know what symptom the medicine is intended to help, how the decision was reached and what will happen if it does not suit you.
 
@@ -58,6 +59,7 @@ Stop unsafe activity. Sudden or distinctly different dizziness with new weakness
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Respect the person’s decision and privacy. With consent, help keep the medicine instructions and review date accessible. Do not suggest an extra dose, abrupt withdrawal or a shared prescription. If the person reports a difficult reaction, help them contact a clinician rather than persuading them to endure it.
 
@@ -71,6 +73,7 @@ During a familiar flare, follow the agreed support and safety plan. Ask before t
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Use shared decision-making with a specific indication, realistic outcome and review interval. Distinguish practice-based PPPD prescribing from stronger evidence for an independently diagnosed comorbidity. Review interactions, activation, mood risk, falls, cardiovascular considerations and other drug-specific precautions. Explain discontinuation symptoms and a personalized stopping plan before treatment; response does not confirm PPPD or psychological causation.
 

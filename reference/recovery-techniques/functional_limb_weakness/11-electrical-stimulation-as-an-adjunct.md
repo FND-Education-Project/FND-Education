@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What the terms mean
 
@@ -43,6 +44,7 @@ Stop and report pain, burning, persistent redness, skin damage, marked distress,
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not apply, reposition or increase a device unless you have been trained for that exact plan. Check that the person can reach the stop control and follow the written skin-check instructions. Electrical stimulation should never be used to force practice or test whether weakness is “real.”
 
@@ -54,6 +56,7 @@ Do not apply, reposition or increase a device unless you have been trained for t
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Define the modality and goal
 

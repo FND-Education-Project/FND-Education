@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A lump sensation can make you want to check whether it has gone. If every check leads to another, the throat may take up more and more of your attention. A clinician may help you interrupt that cycle without asking you to ignore a real change.
 
@@ -51,6 +52,7 @@ Call emergency services for choking with inability to breathe, speak or cough ef
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Offer the agreed reminder only if wanted. Avoid repeatedly asking whether the lump has gone or checking the person’s throat for reassurance. If a new symptom appears, take it seriously instead of treating all questions as reassurance-seeking.
 
@@ -64,6 +66,7 @@ Use the person’s written flare and emergency plan. If they cannot safely conti
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and formulation
 

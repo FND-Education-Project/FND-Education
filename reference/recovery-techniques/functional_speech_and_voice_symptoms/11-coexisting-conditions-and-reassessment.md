@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A functional diagnosis does not explain every change you may have in the future. It is possible to need speech rehabilitation and treatment for another condition at the same time.
 
@@ -41,6 +42,7 @@ The examples here are suggestions to discuss with your clinician, not a fixed ex
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help convey the timing and nature of a new change, using the person’s preferred communication method. Bring their usual plan, but do not let an FND label substitute for assessment of a possible emergency.
 
@@ -54,6 +56,7 @@ At routine visits, give them time to answer rather than supplying every response
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selecting the approach
 

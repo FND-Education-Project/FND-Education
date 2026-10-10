@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A success record does not have to be cheerful. It is simply a place to keep evidence of what helped: a reminder that worked, a conversation you enjoyed, or a recipe step you completed with support. Difficulties still belong in the picture.
 
@@ -52,6 +53,7 @@ Sudden new confusion, altered consciousness, or cognitive difficulty with new we
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Notice what mattered to the person, not what impressed you. Ask before adding entries. Include their support needs and recovery time so that an apparently easy task is not presented as effortless.
 
@@ -65,6 +67,7 @@ During a familiar flare, use one speaker and one idea at a time. Give processing
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Use a balanced record to explore strategy utility and context-dependent function. Do not require positive entries or reinterpret genuine failures as distorted beliefs. Review participation, burden and sustainability. This is an optional clinical tool informed by rehabilitation and metacognitive approaches, not a validated outcome measure or standalone treatment. (*citations* [1](#citation-1), [2](#citation-2))
 

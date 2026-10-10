@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 After enough difficult experiences, it is easy to expect the next one to go badly too. A carefully chosen experiment can explore that expectation. Its purpose is curiosity, not catching you out or proving that your symptoms are less serious than you say.
 
@@ -52,6 +53,7 @@ Sudden new confusion, altered consciousness, or cognitive difficulty with new we
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Join only with permission and agree your role beforehand. Do not secretly compare the person’s performance against predictions or say “See, you can remember.” Ask what the experience taught them and whether they want anything changed.
 
@@ -65,6 +67,7 @@ During a familiar flare, use one speaker and one idea at a time. Give processing
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 This is metacognitive work: exploring beliefs about cognitive performance alongside performance itself. Specify the task, supports and outcome before testing; avoid adversarial framing or overgeneralization. A single successful task neither establishes FCD nor excludes neurological disease. Component efficacy is unproven; evaluate whether the experiment helps this patient. (*citations* [1](#citation-1), [2](#citation-2))
 

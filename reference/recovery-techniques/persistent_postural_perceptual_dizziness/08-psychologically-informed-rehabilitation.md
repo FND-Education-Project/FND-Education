@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 After enough frightening episodes, it is understandable to wonder whether the next movement will go badly. You might hold yourself very stiffly, watch your balance constantly or avoid an activity you still want to do. Those experiences deserve care without being blamed for the whole condition.
 
@@ -52,6 +53,7 @@ Stop unsafe activity. Sudden or distinctly different dizziness with new weakness
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Listen before offering reassurance or encouragement. Ask whether the person wants help with a coping strategy, practical assistance or simply company. Do not use therapy language to dismiss symptoms or withhold aids.
 
@@ -65,6 +67,7 @@ During a familiar flare, follow the agreed support and safety plan. Ask before t
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Use a shared formulation and consent for behavioural experiments. Establish actual vestibular, visual, cardiovascular and fall constraints first. The INVEST programme used CBT-informed vestibular physiotherapy rather than generic psychotherapy. Its eligibility restrictions, including frequent migraine and active competing conditions, limit generalization to complex patients. Assess burden and adverse effects and preserve access support.
 

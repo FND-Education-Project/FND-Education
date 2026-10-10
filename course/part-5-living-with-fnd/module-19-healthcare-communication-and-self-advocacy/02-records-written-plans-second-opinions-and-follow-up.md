@@ -16,6 +16,7 @@ A written plan gives memory somewhere outside your head. A clear record also mak
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -72,6 +73,7 @@ After one visit, write three lines: **decision — next action — when to revie
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 With permission, take notes in plain language. Mark your own observation as an observation rather than fact about what the person felt. Read back the plan and ask the person what they want followed up. Keep private information private.
 
@@ -83,6 +85,7 @@ With permission, take notes in plain language. Mark your own observation as an o
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

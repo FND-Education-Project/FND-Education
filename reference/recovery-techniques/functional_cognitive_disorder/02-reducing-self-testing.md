@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What does “self-testing” mean here?
 
@@ -76,6 +77,7 @@ Sudden new confusion, altered consciousness, or cognitive difficulty with new we
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not introduce surprise memory quizzes or secretly keep score. Ask whether the person wants help finding a note. If they ask again because they could not retain your answer, give the information in a more usable form; do not assume they are seeking reassurance.
 
@@ -89,6 +91,7 @@ During a familiar flare, use one speaker and one idea at a time. Give processing
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Formulate the function of checking before proposing change. Preserve safety checks and compensatory aids. Agree a small behavioural experiment with consent, avoiding response prevention imposed by family. Evaluate participation and distress rather than counting correct answers. This is a clinical adaptation, not an independently validated FCD protocol. (*citations* [1](#citation-1), [2](#citation-2))
 

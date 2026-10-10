@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -52,6 +53,7 @@ First put down hazards and reduce the relevant load. Use one rehearsed rhythm br
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Offer a beat only if it is part of the person’s plan. Keep it steady, simple and low-pressure. Do not change the speed to “catch out” the tremor or announce every visible change. Ask whether the person wants the cue stopped once the useful task begins.
 
@@ -65,6 +67,7 @@ If the person uses a foot rhythm, make sure they are seated or safely supported 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and baseline
 

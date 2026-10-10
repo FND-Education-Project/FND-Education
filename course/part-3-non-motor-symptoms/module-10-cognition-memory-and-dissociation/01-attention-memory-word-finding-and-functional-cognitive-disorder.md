@@ -16,6 +16,7 @@ Losing a word, a plan or part of a conversation can feel frightening. The diffic
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -99,6 +100,7 @@ Stop if the experiment increases distress or makes a task unsafe. Ask for clinic
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Give one subject at a time and allow extra processing time. Offer a cue or written note instead of testing the person: “The appointment is at two” is usually kinder and more useful than “Don’t you remember?”
 
@@ -112,6 +114,7 @@ Do not assume that an inconsistent ability is voluntary. Also do not take over e
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

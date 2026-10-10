@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Why the weight shift comes first
 
@@ -45,6 +46,7 @@ If a familiar episodic weakness begins while walking, safety comes before step p
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Use the agreed cue and guarding position. Do not pull the moving foot forward or drag the person by the arms. Give time for the stance leg to accept weight. If the step does not come, return to the safe starting position rather than increasing pressure or repeating instructions rapidly.
 
@@ -56,6 +58,7 @@ Use the agreed cue and guarding position. Do not pull the moving foot forward or
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and task analysis
 

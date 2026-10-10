@@ -32,6 +32,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 You may feel unsteady while standing, as though you are rocking or swaying, or more dizzy when travelling or looking at a busy shop display. These are examples of what persistent postural-perceptual dizziness (PPPD) can feel like, but similar experiences have other causes. PPPD is a specific diagnosis; this page does not apply its criteria to every kind of dizziness. (*citations* [1](#citation-1))
 
@@ -59,6 +60,7 @@ The [questionnaire and everyday-function guide](persistent_postural_perceptual_d
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not deliberately expose the person to supermarkets, scrolling patterns or rapid movement to test whether symptoms appear. These environments may be part of a carefully paced treatment plan, but diagnostic history does not require forcing an episode. Help describe the time course, triggers and daily impact instead.
 
@@ -82,6 +84,7 @@ With permission, help assemble a short timeline and previous test results. Descr
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 **Featured technique:** Criteria-based clinical interview with appropriate vestibular and medical assessment.<br>
 **Diagnostic method:** Confirm all five Bárány Society PPPD criteria; there is no single bedside manoeuvre or scan that establishes the diagnosis.<br>

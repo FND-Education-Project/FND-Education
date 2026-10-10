@@ -22,6 +22,7 @@ Clinician-focused educational reference; assessment requires appropriate experti
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 This optional clinical comparison asks whether leg movement changes substantially when a person propels a wheeled chair while seated, compared with walking. It can contribute to an assessment of suspected functional gait disorder. It is not a test of honesty or a way to decide whether someone deserves a mobility aid. (*citations* [1](#citation-1), [2](#citation-2))
 
@@ -107,6 +108,7 @@ This is a teaching outline based on that comparison. If distances, support or eq
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **Supportive:** A substantial improvement may add evidence when it fits the wider examination and alternatives have been considered.
 
@@ -132,6 +134,7 @@ Chair propulsion does not establish safe unsupported walking, endurance or indep
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 An editorial example, not a patient or research quotation:
 
@@ -153,6 +156,7 @@ If it supports the diagnosis, explain why this particular comparison is informat
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The later blinded study is the more useful starting point. Lagrand and colleagues assessed 26 people with functional and 22 with other gait disorders, using two specialist video raters. Mean sensitivity was **37%** and specificity **96%**. Many people with functional gait disorder therefore did not show the sign. Most comparison participants had Parkinson's disease, and severe contributing pain, severe cognitive impairment and coexisting functional seizures were exclusions. Those selection limits matter when applying the findings. (*citations* [2](#citation-2))
 

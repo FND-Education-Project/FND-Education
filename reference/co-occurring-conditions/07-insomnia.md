@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Understanding why sleep becomes difficult
 
@@ -39,6 +40,7 @@ Sleep problems are frequently reported in FND studies, although the studies diff
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Protect a workable sleep routine without policing it. Help reduce household noise or morning demands when asked. “You would sleep if you were tired enough” is particularly unhelpful to someone who is already exhausted.
 
@@ -50,6 +52,7 @@ Protect a workable sleep routine without policing it. Help reduce household nois
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Differentiate insomnia from sleep-disordered breathing, circadian problems, movement-related sleep disturbance and medication effects. Offer adapted CBT-I and coordinate it with fatigue and seizure care. Avoid rigid instructions that increase fall risk or conflict with a PEM management plan. The FND sleep literature is heterogeneous and does not establish a single FND-specific sleep disorder. (*citations* [1](#source-1), [2](#source-2), [3](#source-3))
 

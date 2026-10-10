@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this approach is for
 
@@ -43,6 +44,7 @@ These examples require selection for your assessed presentation. The clinical ra
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help the person obtain an understandable explanation and avoid pressure to pay for a promised cure. Participation in a study or specialist trial should not become a condition for receiving practical help.
 
@@ -56,6 +58,7 @@ Do not treat an induced flash, recorded eye movement or short-lived change as pr
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

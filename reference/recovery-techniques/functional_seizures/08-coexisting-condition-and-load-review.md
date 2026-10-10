@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Treat the whole situation
 
@@ -39,6 +40,7 @@ During a familiar flare, pause optional demands and use the episode plan. New ch
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Offer a concrete choice: help with a meal, appointment notes, transport or reducing noise. Do not turn the person’s day into a regulation checklist. A calm day does not guarantee that seizures will stop.
 
@@ -52,6 +54,7 @@ Report medication effects or new symptoms accurately. Take your own need for res
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Explicit procedure
 

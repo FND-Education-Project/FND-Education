@@ -20,6 +20,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this treatment is—and what the evidence says
 
@@ -55,6 +56,7 @@ Seek urgent advice for swallowing or breathing difficulty, marked generalized we
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not pressure the person either to accept or refuse injection. Help write down the specific goal and track function over the expected onset and wearing-off period. A temporary change, no change or worsening should be reported without treating it as proof for or against FND.
 
@@ -68,6 +70,7 @@ Know the service’s instructions for adverse effects. If injection is intended 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and differential boundary
 

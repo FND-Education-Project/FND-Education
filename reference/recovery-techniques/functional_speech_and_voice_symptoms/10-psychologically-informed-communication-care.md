@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Losing reliable speech can make ordinary interactions feel uncertain. You might dread being interrupted or worry that people will not believe you. Support can address those experiences without assuming that worry caused the speech problem.
 
@@ -41,6 +42,7 @@ The examples here are suggestions to discuss with your clinician, not a fixed ex
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask what makes conversation feel safer and less pressured. Avoid interpreting symptoms as a sign that the person has not dealt with an emotion.
 
@@ -54,6 +56,7 @@ You can help by respecting pauses, following agreed communication arrangements a
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selecting the approach
 

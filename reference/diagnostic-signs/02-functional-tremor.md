@@ -32,6 +32,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Tremor is a repeated back-and-forth shaking. It may interrupt something as ordinary as holding a cup, using a phone or bringing food to your mouth. Those examples are useful starting points for telling the clinician what matters to you; the appearance of the shaking is only part of the assessment.
 
@@ -76,6 +77,7 @@ The appointment should leave room for the things shaking makes difficult, includ
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Before the appointment, ask what the person wants you to help explain. A short example is often enough: “The cup shakes more later in the meal, so I help carry it.” Include what they can do with support, rather than describing only what becomes difficult.
 
@@ -104,6 +106,7 @@ If the person wants, help write down which finding supported the diagnosis, whic
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Episodic and prolonged presentations
 

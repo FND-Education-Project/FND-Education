@@ -16,6 +16,7 @@ A foot, hand, jaw, face or another body part may pull into a painful posture or 
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -77,6 +78,7 @@ Stop if pain, colour, temperature, swelling or injury worsens. New fixed posturi
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask before touching or repositioning the person. Support the affected part as agreed, reduce nearby hazards and help with the task—not by overpowering the posture.
 
@@ -90,6 +92,7 @@ Notice pain, skin pressure, swelling and function. Avoid comments about how the 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

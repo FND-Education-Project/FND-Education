@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What the terms mean
 
@@ -45,6 +46,7 @@ Contact your care team if bouts become more frequent, more injurious or differen
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Keep your voice calm, reduce an audience where possible and use the agreed communication approach. Calmness is a way of offering care, not a reason to overlook injury or distress.
 
@@ -58,6 +60,7 @@ Do not restrain the person or put objects in their mouth. If you are unsure whet
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Document the event phenotype and differential diagnosis, including primary tic attacks, functional seizures and other episodic events where relevant. Specify individualized escalation criteria without using an arbitrary duration as proof of etiology. Review injury burden, medication effects and coexisting conditions. (*citations* [1](#citation-1))
 

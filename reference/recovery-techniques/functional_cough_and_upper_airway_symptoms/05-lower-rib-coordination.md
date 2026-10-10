@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 You do not have to make your belly move a certain amount or fill your lungs to capacity. When lower-rib coordination is part of your treatment, the purpose is to reduce unnecessary effort and find an easier rhythm. It is worth learning with someone who can see whether it actually helps your pattern.
 
@@ -39,6 +40,7 @@ Do not use cough suppression to manage choking, serious breathlessness or a new 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help arrange comfortable support if asked. Do not press on the person’s abdomen or judge progress by visible movement. A shorter, easier practice can be more useful than a longer session that leaves them exhausted.
 
@@ -52,6 +54,7 @@ Agree beforehand how the person wants help during a familiar bout. A changed or 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Use this option only when assessment identifies a coordination target. Establish whether tactile feedback helps or increases monitoring. Adapt for respiratory comorbidity, pain, mobility and fatigue; fade cues toward ordinary activity. Lower-rib movement is not a diagnostic test for FND, and this component has not been established as an independently effective FND treatment.
 

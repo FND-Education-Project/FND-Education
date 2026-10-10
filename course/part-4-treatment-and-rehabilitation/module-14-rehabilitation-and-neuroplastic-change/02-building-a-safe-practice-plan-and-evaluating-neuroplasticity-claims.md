@@ -16,6 +16,7 @@ Practice is safer and easier to judge when the task, support, amount and review 
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -82,6 +83,7 @@ Before one planned activity, finish this sentence: **“I will check how I am __
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Support the agreed endpoint. Do not add “just one more,” take away an aid or interpret stopping as fear or refusal. Help record delayed effects if the person wants that and memory is difficult.
 
@@ -95,6 +97,7 @@ If the person cannot speak or decide during an episode, follow their agreed plan
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Build a programme around your walking life
 
@@ -53,6 +54,7 @@ A setback does not erase learning or prove treatment has failed. It may require 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask which goals and forms of help the person wants. Learn the agreed cue, guarding method, equipment and emergency boundaries. Support participation without turning every movement into therapy.
 
@@ -66,6 +68,7 @@ During a setback, help the person use the written plan: prevent a fall, reduce t
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Formulation and team selection
 

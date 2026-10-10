@@ -22,6 +22,7 @@ Clinician-focused educational reference. Other readers are welcome; this is not 
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Semiology is the description of how an event begins, unfolds and ends. This assessment asks whether the combined pattern supports functional seizures, epilepsy, another explanation or continuing uncertainty. It should be carried out by a clinician with relevant seizure expertise. (*citations* [1](#citation-1), [2](#citation-2))
 
@@ -110,6 +111,7 @@ This is an editorial structure for documentation, not a validated five-step test
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 Observed eye closure and asynchronous limb movements have stronger discriminative evidence than many other individual features, but still require context. Their absence does not exclude functional seizures, and their presence does not remove the need to assess alternatives. Pelvic thrusting and side-to-side movements overlap with epileptic events. (*citations* [2](#citation-2))
 
@@ -133,6 +135,7 @@ Neither dramatic movement nor apparent stillness measures the full disability. A
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 An editorial example:
 
@@ -154,6 +157,7 @@ Explain which findings apply to this person. If the evidence is sufficient, give
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The 2022 meta-analysis combined **14 studies, with 800 people with epileptic seizures and 452 with functional seizures**. Observed eye closure and asynchronous limb movements were the strongest pooled discriminators for functional events, but no sign was exclusive to either diagnosis. Each of those pooled estimates rested on three studies. (*citations* [2](#citation-2))
 

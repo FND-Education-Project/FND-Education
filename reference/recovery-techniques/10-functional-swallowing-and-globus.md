@@ -28,6 +28,7 @@ Swallowing treatment must begin with an appropriate assessment of airway and nut
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Techniques used after swallowing assessment
 
@@ -79,6 +80,7 @@ There is inability to swallow saliva, choking with breathing difficulty, suspect
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 - Follow the written swallowing and emergency plan; do not offer an unapproved food to prove that swallowing is possible.
 - Keep meals calm without supervising every mouthful unless that supervision is clinically required.
@@ -99,6 +101,7 @@ Stop adding food or drink when the person’s current plan says swallowing is un
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Clarify whether the main presentation is oropharyngeal dysphagia, esophageal symptoms, globus, fear of choking, excessive effort or another functional upper-aerodigestive pattern. Perform or arrange clinical and instrumental swallowing, ENT, gastrointestinal and neurological assessment as indicated. State explicitly what has and has not been shown to be safe.
 

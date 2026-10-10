@@ -16,6 +16,7 @@ Symptoms matter. They are not the only part of life that matters or the only pla
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -73,6 +74,7 @@ Choose only one area from the list. Finish three lines: **before — now — wha
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask what the person counts as progress. Do not replace their priorities with walking, paid work, fewer visible symptoms or less need for you. Accessibility and support can improve life without being evidence of surrender.
 
@@ -86,6 +88,7 @@ Review your own wellbeing and role: confidence, workload, health, boundaries and
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

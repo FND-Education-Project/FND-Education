@@ -16,6 +16,7 @@ Migraine is more than a bad headache. It is a neurological disorder that may coe
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -77,6 +78,7 @@ Do not test triggers by provoking symptoms. Seek medical review if the pattern i
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Reduce light, sound and decision load if the person requests it. Help follow the agreed medication and safety plan without giving extra doses or assuming every changed neurological symptom is their usual migraine.
 
@@ -90,6 +92,7 @@ Ask what is helpful after an attack; recovery may include fatigue and cognitive 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

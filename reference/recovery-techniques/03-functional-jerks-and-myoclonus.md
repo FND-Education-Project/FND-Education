@@ -30,6 +30,7 @@ Jerks and tic-like symptoms may look similar but are not interchangeable diagnos
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Techniques used in rehabilitation
 
@@ -83,6 +84,7 @@ Jerks are new, follow a new medication or substance, occur with altered awarenes
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 - Learn the agreed safety response and move hazards without restraining the person unless an emergency requires immediate protection.
 - Use one calm cue that has already been chosen; rapid instructions and repeated questions may add load.
@@ -103,6 +105,7 @@ If useful for the clinical plan, distinguish the number or frequency of jerks fr
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Clarify whether the movement is functional myoclonus, a tic-like presentation, propriospinal movement, epileptic event, medication effect or another condition; overlap is possible. Use positive findings and explain them respectfully. Identify premonitory symptoms, muscle recruitment, pain and task context. Because the jerk itself may be too brief for conventional movement retraining, work at the earliest reliable point in the sequence and measure participation or injury outcomes as well as frequency.
 

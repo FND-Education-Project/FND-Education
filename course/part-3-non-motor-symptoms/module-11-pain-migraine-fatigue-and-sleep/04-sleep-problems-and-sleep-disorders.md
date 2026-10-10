@@ -16,6 +16,7 @@ Poor sleep can worsen pain, fatigue, thinking and symptom tolerance. It can be p
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -77,6 +78,7 @@ Stop tracking if it makes sleep more pressured. Do not change prescribed sleep o
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Share observations such as snoring, breathing pauses or unusual movements only with consent and without diagnosing. Protect the sleep environment where practical, but do not become the sleep police.
 
@@ -90,6 +92,7 @@ If daytime sleepiness affects driving, cooking or falls, help make a safety plan
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

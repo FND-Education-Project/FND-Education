@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Why sliding may help
 
@@ -41,6 +42,7 @@ The surface should be predictable: too much friction can catch the foot; too lit
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Set up only the surface and support approved by the clinician. Do not move the foot for the person unless you have been taught a specific assistance technique. Give the agreed destination cue and keep obstacles out of the slide path. If movement becomes rougher, shorter practice or returning to sitting may be more useful than urging greater effort.
 
@@ -52,6 +54,7 @@ Set up only the surface and support approved by the clinician. Do not move the f
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and differential assessment
 

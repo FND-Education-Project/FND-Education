@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A drink may be a useful alternative to repeated coughing for some people. For others, drinking is what brings on the cough. That difference matters: this page is for someone whose clinician has checked swallowing safety and specifically chosen a sip-and-swallow response.
 
@@ -39,6 +40,7 @@ Do not use cough suppression to manage choking, serious breathlessness or a new 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Make the agreed drink accessible without repeatedly pressing it into the person’s hand. Ask before reminding them. If drinking makes symptoms worse, help them stop and obtain advice rather than encouraging another try.
 
@@ -52,6 +54,7 @@ Agree beforehand how the person wants help during a familiar bout. A changed or 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Confirm whether oral fluids are appropriate and document relevant consistency, volume, positioning and fluid restrictions. Suspected aspiration warrants a swallowing assessment; consider instrumental assessment when indicated. Cough substitution is not an airway-clearance strategy and is not evidence that aspiration has been excluded.
 

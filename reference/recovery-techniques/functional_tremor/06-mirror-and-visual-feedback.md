@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What visual feedback is for
 
@@ -52,6 +53,7 @@ For standing tremor, visual feedback may show even loading while a clinician pro
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not film or photograph without specific consent. Help with the agreed mirror angle or target, then stop commenting on how the tremor looks. Ask whether the display should be removed. A person can be making meaningful progress even when shaking remains visible.
 
@@ -63,6 +65,7 @@ Do not film or photograph without specific consent. Help with the agreed mirror 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Select the feedback question
 

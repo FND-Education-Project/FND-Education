@@ -20,6 +20,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Choose the help that fits the event
 
@@ -75,6 +76,7 @@ Use your agreed emergency thresholds. A first event, serious injury, an event in
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 ### Before, during and after
 
@@ -92,6 +94,7 @@ Afterward, offer the agreed orientation and practical help without interrogation
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Match the plan to the whole event
 

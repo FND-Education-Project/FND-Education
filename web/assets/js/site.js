@@ -238,6 +238,149 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
+
+  /*
+   * Shareable headings are opt-in, not tied to a global heading level.
+   * A Kramdown heading followed by {: #stable-id .shareable } receives a
+   * small accessible button, keeping all other headings unchanged.
+   *
+   * The canonical URL avoids carrying query parameters or temporary
+   * navigation fragments into links people post in forums and messages.
+   * No external sharing services or trackers are loaded.
+   */
+  const canonicalLink = document.querySelector('link[rel="canonical"]');
+  const pageShareUrl = canonicalLink
+    ? canonicalLink.href
+    : window.location.href;
+
+  for (const heading of document.querySelectorAll(
+    ".course-content :is(h2, h3, h4, h5, h6).shareable[id]"
+  )) {
+    const sectionTitle = heading.textContent.trim().replace(/\s+/g, " ");
+
+    // Never produce an empty or unresolvable section link.
+    if (!sectionTitle || !heading.id) {
+      continue;
+    }
+
+    const sectionUrl = new URL(pageShareUrl);
+    sectionUrl.hash = heading.id;
+
+    const shareButton = document.createElement("button");
+    shareButton.type = "button";
+    shareButton.className = "share-heading-button";
+    shareButton.title = "Share a link to this section";
+    shareButton.setAttribute(
+      "aria-label",
+      "Share link to " + sectionTitle
+    );
+
+    // Static, decorative SVG: its visible shape is independent of fonts.
+    const icon = document.createElementNS(
+      "http://www.w3.org/2000/svg",
+      "svg"
+    );
+    icon.setAttribute("viewBox", "0 0 24 24");
+    icon.setAttribute("aria-hidden", "true");
+    icon.setAttribute("focusable", "false");
+    icon.innerHTML = [
+      '<circle cx="18" cy="5" r="3"></circle>',
+      '<circle cx="6" cy="12" r="3"></circle>',
+      '<circle cx="18" cy="19" r="3"></circle>',
+      '<path d="m8.7 13.5 6.6 4"></path>',
+      '<path d="m15.3 6.5-6.6 4"></path>'
+    ].join("");
+    shareButton.append(icon);
+
+    // Visible confirmation also serves as a screen-reader live region.
+    const feedback = document.createElement("span");
+    feedback.className = "share-feedback";
+    feedback.setAttribute("role", "status");
+    let feedbackTimeout;
+
+    function announce(message) {
+      window.clearTimeout(feedbackTimeout);
+      feedback.textContent = message;
+      feedbackTimeout = window.setTimeout(() => {
+        feedback.textContent = "";
+      }, 3500);
+    }
+
+    /*
+     * If the browser denies clipboard access, show selectable text instead
+     * of failing silently. Construct the fallback only when it is needed.
+     */
+    function showManualCopy() {
+      let panel = heading.nextElementSibling;
+      if (!panel || !panel.classList.contains("share-manual-copy")) {
+        panel = document.createElement("div");
+        panel.className = "share-manual-copy";
+
+        const label = document.createElement("label");
+        label.textContent = "Copy this section link:";
+        const input = document.createElement("input");
+        input.type = "text";
+        input.readOnly = true;
+        input.value = sectionUrl.href;
+        const inputId = "share-copy-" + heading.id;
+        input.id = inputId;
+        label.htmlFor = inputId;
+
+        const close = document.createElement("button");
+        close.type = "button";
+        close.textContent = "Close";
+        close.addEventListener("click", () => {
+          panel.hidden = true;
+          shareButton.focus();
+        });
+
+        panel.append(label, input, close);
+        heading.insertAdjacentElement("afterend", panel);
+      }
+
+      panel.hidden = false;
+      const input = panel.querySelector("input");
+      input.focus();
+      input.select();
+      announce("Select and copy the link shown below.");
+    }
+
+    shareButton.addEventListener("click", async () => {
+      /*
+       * Native share sheets are particularly useful on phones.
+       * Cancellation is intentional: do not copy unexpectedly.
+       */
+      if (typeof navigator.share === "function") {
+        try {
+          await navigator.share({
+            title: sectionTitle + " — FND Education Project",
+            text: "Read this section on FND Education Project.",
+            url: sectionUrl.href
+          });
+          return;
+        } catch (error) {
+          if (error && error.name === "AbortError") {
+            return;
+          }
+          // NotAllowedError and other share errors fall back to copying.
+        }
+      }
+
+      try {
+        if (!navigator.clipboard || !navigator.clipboard.writeText) {
+          showManualCopy();
+          return;
+        }
+        await navigator.clipboard.writeText(sectionUrl.href);
+        announce("Link copied");
+      } catch (error) {
+        showManualCopy();
+      }
+    });
+
+    heading.append(shareButton, feedback);
+  }
+
   const returnToTopButton =
     document.getElementById("return-to-top");
 

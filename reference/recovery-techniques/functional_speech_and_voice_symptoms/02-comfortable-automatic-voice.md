@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Sometimes a small hum or an unplanned sound is easier than trying to speak. A voice therapist may explore that difference with you. The aim is to find a comfortable sound that can become useful speech, not to make you louder.
 
@@ -41,6 +42,7 @@ The examples here are suggestions to discuss with your clinician, not a fixed ex
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Keep the exchange ordinary. If a sound appears, respond to what the person is trying to communicate rather than calling everyone over to hear it.
 
@@ -54,6 +56,7 @@ Do not tickle, startle or provoke laughter to obtain a voice. Offer a practised 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selecting the approach
 

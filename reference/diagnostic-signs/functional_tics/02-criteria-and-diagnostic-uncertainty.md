@@ -20,6 +20,7 @@ Clinician-focused educational reference. Use within professional competence and 
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use this guide when considering the ESSTS consensus framework alongside a complete specialist assessment. It is not a self-diagnostic checklist or a score to be applied to a social-media clip. Review primary tics and possible coexistence before assigning a single explanation. [1](#citation-1), [2](#citation-2)
 
@@ -98,6 +99,7 @@ For each proposed criterion, document the source of information, whether it is m
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 The 2024 specificity study examined selected features in primary-tic registry cohorts of 156 and 149 young people. It provides later empirical evidence, but does not establish sensitivity or validate the complete framework in all ages and mixed presentations. Individual complex movements were less discriminating than some combinations. [3](#citation-3)
 
@@ -117,6 +119,7 @@ Keep the published critique in view: diagnostic benchmarks and circular reasonin
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 **Authored explanation example:** “There are published criteria that help organize the assessment. They have limits, so I will explain which findings support this conclusion, which could fit another diagnosis, and what we will review over time.”
 
@@ -136,6 +139,7 @@ Avoid using “definite” to imply that another condition cannot coexist or tha
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The original framework used expert Delphi consensus and acknowledged absent prospective accuracy testing at publication. Its primary abstract was checked; complete primary criteria-table appraisal remains pending. [1](#citation-1) The later registry study's methods, results and discussion were checked in full text; selected-criterion specificity is a narrower question than overall diagnostic accuracy. [3](#citation-3) The critique remains a methodological perspective, not evidence that all functional tic diagnoses are wrong. [2](#citation-2)
 

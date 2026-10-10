@@ -20,6 +20,7 @@ Clinician-focused educational reference; use within professional competence, con
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Establish whether the cognitive complaint has a positive functional pattern, assess alternatives and decide what remains uncertain. Cognitive neurology, general practice, neuropsychology and the rehabilitation team contribute different observations.
 
@@ -118,6 +119,7 @@ Write down the task, the ability being compared, assistance and competing explan
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **Supportive:** Name a specific same-domain inconsistency and why it remains informative after contextual differences are considered.
 
@@ -145,6 +147,7 @@ Record a review interval, responsible clinician and specific changes that should
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 Authored example, not a patient quotation:
 
@@ -166,6 +169,7 @@ Offer a short written explanation. Ask the person to explain the plan in their o
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 Ball and colleagues proposed a clinical framework; it is not an accuracy-validated bedside manoeuvre. McWhirter and colleagues studied a small clinical cohort and proposed a risk model. Neither source makes conversational fluency or a normal score sufficient for diagnosis. (*citations* [1](#citation-1), [2](#citation-2))
 

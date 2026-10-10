@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Recovery begins before standing
 
@@ -47,6 +48,7 @@ During clusters of attacks, a plan may need more assistance or a different setti
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Give space and privacy without leaving someone who needs help alone. Ask what support is wanted and follow the trained plan. Do not pull them up by the wrists or insist they demonstrate walking before you help.
 
@@ -60,6 +62,7 @@ If the person cannot use the agreed method, call for appropriate assistance. Pro
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Assess floor-to-seat or floor-to-stand ability when clinically appropriate, including upper-limb loading, hip/knee range, pain, balance and orthostatic tolerance. Specify the equipment and assistance required, plus a contingency for injury or unavailable movement. (*citations* [2](#citation-2), [4](#citation-4))
 

@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### One person can have more than one kind of event
 
@@ -58,6 +59,7 @@ When attacks persist without an emergency change, ask for follow-up, continuing 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help describe what was observed rather than deciding the cause: “you said you felt faint before this one” is more useful than “that was another functional attack.” Respect what the person does and does not remember.
 
@@ -71,6 +73,7 @@ With permission, help keep separate instructions easy to find. An event plan sho
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Phenotype each event, including prodrome, recall, consciousness, mechanics, duration, injury and recovery. Consider syncope, epilepsy, cataplexy, vestibular disorders and mechanical or structural contributors where indicated. A prior functional diagnosis and normal earlier investigations do not settle a new presentation. (*citations* [1](#citation-1), [2](#citation-2))
 

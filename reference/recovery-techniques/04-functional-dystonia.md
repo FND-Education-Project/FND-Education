@@ -28,6 +28,7 @@ The techniques below are options to select, adapt or omit—not a required seque
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Techniques used in rehabilitation
 
@@ -79,6 +80,7 @@ Seek reassessment for a new or substantially changed posture; rapidly increasing
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 - Never pull, straighten, pin down or restrain an affected limb, trunk or neck to make it look normal.
 - Ask before touching. Pain and sensory hypersensitivity are genuine experiences and may require separate treatment.
@@ -98,6 +100,7 @@ If the presentation is new, markedly different, follows injury or includes a red
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Phenotype and complication assessment
 

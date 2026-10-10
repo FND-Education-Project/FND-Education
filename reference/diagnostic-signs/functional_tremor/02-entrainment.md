@@ -18,6 +18,7 @@
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Entrainment means that an involuntary tremor takes on the rhythm of a deliberate movement made by another limb. The clinician compares the tremor with the rhythm the person actually produces, not simply with the metronome's setting. A pause, irregularity or smaller movement is recorded separately. (*citations* [1](#citation-1))
 
@@ -84,6 +85,7 @@ Keep the camera or recording position stable. Never steady a limb by force to pr
 ---
 
 ## Interpretation and Explanation
+{: #interpretation-and-explanation .shareable }
 
 Matching at one rate close to the original tremor is difficult to interpret. Following more than one distinctly different tapping rhythm provides a clearer comparison. Suppression during tapping can be relevant to [distractibility](01-distractibility.md); it should not be relabelled as entrainment. (*citations* [1](#citation-1), [2](#citation-2))
 
@@ -107,6 +109,7 @@ A positive comparison does not establish reliable writing, eating or sustained h
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The 2026 meta-analysis found variable results across methods, with comparatively good performance for combined electrophysiological tests. Its pooled results cover different tests and cannot be assigned to entrainment alone. (*citations* [6](#citation-6))
 

@@ -16,6 +16,7 @@ Vision may blur, narrow, double, darken or feel unreliable. Light and busy scene
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -75,6 +76,7 @@ Do not test vision while driving or near hazards. Seek appropriate care for a ne
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Guide only with permission. Describe obstacles and offer an arm in the way the person prefers. Reduce glare, motion or crowding when practical without insisting that they tolerate more.
 
@@ -88,6 +90,7 @@ Do not wave fingers, flash lights or create surprise tests. Help the person acce
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

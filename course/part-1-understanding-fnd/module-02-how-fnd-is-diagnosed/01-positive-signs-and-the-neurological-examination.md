@@ -16,6 +16,7 @@ FND should not be diagnosed simply because a scan was normal or because no other
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 The word **positive** can be confusing here. It does not mean that the finding is good, nor does it mean that a blood test came back positive. A **positive sign**, sometimes called a **rule-in sign**, is something the clinician observes that gives evidence *for* an FND diagnosis.
 
@@ -83,6 +84,7 @@ Do not repeatedly perform Hoover’s sign, tremor tests or other neurological te
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 A positive sign can be reassuring when it shows that an ability is still present under some conditions. It can also be upsetting if the explanation sounds like, “You moved once, so you must be able to move whenever you want.” That is not what the sign means. The useful message is that the symptom is genuine and involuntary, while the nervous system may still have capacity that treatment can work with.
 
@@ -100,6 +102,7 @@ Continue to take new or substantially changed symptoms seriously. A previous FND
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

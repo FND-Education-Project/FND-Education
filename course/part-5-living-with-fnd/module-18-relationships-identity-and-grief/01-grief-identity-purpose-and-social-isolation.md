@@ -16,6 +16,7 @@ FND may interrupt work, study, parenting, friendships, independence and plans. G
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -71,6 +72,7 @@ If grief becomes unbearable, you feel unable to stay safe or you are thinking of
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Witnessing loss can help more than immediate encouragement. Try: “I can see how much that mattered.” Keep inviting the person in ways that allow cancellation, shorter visits, quiet space, mobility access or remote participation.
 
@@ -84,6 +86,7 @@ Do not demand gratitude, acceptance or optimism. Also do not assume a person has
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

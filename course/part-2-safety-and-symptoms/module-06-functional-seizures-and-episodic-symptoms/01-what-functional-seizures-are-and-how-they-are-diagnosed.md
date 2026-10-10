@@ -16,6 +16,7 @@ Functional seizures are real, involuntary episodes. They can be frightening and 
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -81,6 +82,7 @@ Do not try to trigger or record an event if doing so could be unsafe, invasive o
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Your calm description can help. Note what happened before the event, the order of changes, responsiveness, movement, breathing, injuries, length and recovery. If recording is safe and permitted, ask in advance how the person feels about video and who may see it.
 
@@ -94,6 +96,7 @@ Do not test whether the person can hear you, accuse them of pretending or demand
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

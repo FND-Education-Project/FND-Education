@@ -19,6 +19,7 @@
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 This specialist assessment records scalp EEG and surface EMG together to investigate repeated jerks. Back-averaging aligns the recordings to muscle onset and looks for preceding brain signals that may be hard to see in an ordinary trace. It can support a functional diagnosis or provide evidence for another kind of myoclonus. (*citations* [1](#citation-1), [2](#citation-2))
 
@@ -85,6 +86,7 @@ Additional stimulus testing is a separate clinical decision with its own rationa
 ---
 
 ## Analysis and Interpretation
+{: #analysis-and-interpretation .shareable }
 
 For accepted events, align EEG segments to the EMG onset, average them and inspect the preceding waveform alongside the raw recordings. The purpose is to reveal reproducible time-linked activity while reducing unrelated background noise. Technical settings must preserve the slow signals being sought; movement or eye artefacts need particular attention. (*citations* [1](#citation-1), [2](#citation-2))
 
@@ -113,6 +115,7 @@ Quantified BP and beta event-related desynchronisation are additional analyses d
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 An example explanation is: “We aligned the brain recording with the start of your jerks. The pattern before them adds evidence for functional jerks. That is a finding about how movement is being organized; it does not mean you chose the movement.”
 
@@ -133,6 +136,7 @@ These are suggested explanations, not research quotations. Discuss what the resu
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The 2024 IFCN chapter and 2025 MDS study-group review support interpreting the history, muscle recordings and premovement EEG together. Evidence comes mainly from small series and comparative studies, with differing recording and analysis methods. There is no single accuracy figure that applies to every person with jerks. (*citations* [1](#citation-1), [5](#citation-5))
 

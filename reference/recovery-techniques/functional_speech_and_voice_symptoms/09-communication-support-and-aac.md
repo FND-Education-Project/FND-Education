@@ -20,6 +20,7 @@ Motor or vocal tic-like symptoms may coexist with the symptoms discussed here. T
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 You still have things to say when speech is difficult. Writing, typing, a communication board or an agreed gesture may help you say them. You do not have to struggle through a spoken attempt before using support.
 
@@ -45,6 +46,7 @@ The examples here are suggestions to discuss with your clinician, not a fixed ex
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Speak to the person directly and give them time to compose an answer. Ask before reading over their shoulder, speaking their message aloud or completing a sentence. Repeat the meaning back when it is uncertain, and let them correct you.
 
@@ -58,6 +60,7 @@ Do not move an aid out of reach to encourage speech. If a yes/no response is unc
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selecting the approach
 

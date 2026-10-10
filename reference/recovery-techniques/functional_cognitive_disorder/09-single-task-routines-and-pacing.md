@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Some days the hard part is not any single task but moving between all of them. A predictable place to start and stop can make that easier. Pacing is allowed to protect energy for something enjoyable as well as something necessary.
 
@@ -52,6 +53,7 @@ Sudden new confusion, altered consciousness, or cognitive difficulty with new we
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Agree when conversation or questions are welcome during a task. If you interrupt, help restore the place the person lost. Share household demands where possible rather than asking them to manage an increasingly elaborate schedule alone.
 
@@ -65,6 +67,7 @@ During a familiar flare, use one speaker and one idea at a time. Give processing
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Assess executive demands including initiation, switching and sequencing in context. Use flexible routines and pacing within occupational goals. Avoid both automatic escalation and an assumption that all reduced activity is fear-driven. Monitor symptom burden, meaningful participation and post-activity effects; adapt for coexisting conditions. (*citations* [1](#citation-1))
 

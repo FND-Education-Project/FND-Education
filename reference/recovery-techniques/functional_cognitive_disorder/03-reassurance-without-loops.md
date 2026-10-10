@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What does “reassurance” mean?
 
@@ -79,6 +80,7 @@ Sudden new confusion, altered consciousness, or cognitive difficulty with new we
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 You might say, “I can see this is worrying. Shall we look at the plan together?” Treat that as an example, not a script the person must accept. Avoid irritation, ridicule or declaring every repeated question “the FND.” Agree boundaries around your own rest without withdrawing care.
 
@@ -92,6 +94,7 @@ During a familiar flare, use one speaker and one idea at a time. Give processing
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Distinguish repetitive threat-driven reassurance seeking from impaired encoding, retrieval, communication access or an unresolved diagnostic question. Collaborative plans should include exceptions and review. Consider relevant anxiety or obsessive-compulsive symptoms when present, without assuming they explain the cognitive presentation. (*citations* [1](#citation-1), [2](#citation-2))
 

@@ -33,6 +33,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 You may have episodes of shaking or jerking, or become still and unable to move or answer. You might hear people around you, feel distant from what is happening, or find gaps in your memory afterward. This page covers assessment of these seizure-like episodes, including functional seizures. The symptoms can take different forms; you do not need to experience all of them. (*citations* [1](#citation-1), [22](#citation-22))
 
@@ -90,6 +91,7 @@ Ask for care that addresses your goals, wellbeing and practical support as well 
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 During an event, follow the person’s safety plan, protect them from injury and seek urgent help when the situation calls for it. Recording is secondary to care. If a spontaneous event can be filmed safely, record the whole person and surrounding context, note the time, and do not restrain them, test their response in painful ways or try to make the episode continue.
 
@@ -119,6 +121,7 @@ After the assessment, ask for a written plan that you and the person can underst
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Episodic pattern and longer surrounding flares
 

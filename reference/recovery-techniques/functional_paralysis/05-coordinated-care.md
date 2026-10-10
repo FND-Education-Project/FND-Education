@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Why coordination is part of recovery care
 
@@ -56,6 +57,7 @@ If services are unavailable, ask what primary care, local rehabilitation and rem
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 With the person's permission, help bring the short plan to appointments and record decisions. A useful question is, “Who will follow up on this?” Avoid taking over decisions simply because the person needs physical assistance.
 
@@ -69,6 +71,7 @@ Tell the team about tasks you cannot safely provide and the effect of care deman
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Assign responsibility for transfers, equipment, pressure care, continence, symptom treatment, emergency planning and follow-up. Agree meaningful outcomes with the person and separate motor change from access and quality-of-life outcomes. Do not interpret nonresponse as proof of a psychological barrier. (*citations* [1](#citation-1), [2](#citation-2))
 

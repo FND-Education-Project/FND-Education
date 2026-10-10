@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 “Look at a letter and turn your head” sounds simple. It is still a specific exercise, and it is worth knowing why it has been prescribed. Dizziness alone does not tell you whether this is the right practice.
 
@@ -52,6 +53,7 @@ Stop unsafe activity. Sudden or distinctly different dizziness with new weakness
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help arrange the prescribed target only if asked. Do not move it unexpectedly, hold the person’s head or increase the speed. Repeating the instructions is useful support, not a reason to test their memory.
 
@@ -65,6 +67,7 @@ During a familiar flare, follow the agreed support and safety plan. Ask before t
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Clarify whether the target is VOR adaptation, substitution or another goal. The Hall guideline addresses peripheral vestibular hypofunction and should not be presented as a PPPD-specific dosing rule. Assess visual, cervical and neurological limits. Record the impairment and functional outcome supporting selection, and discontinue or revise when the rationale or response does not fit.
 

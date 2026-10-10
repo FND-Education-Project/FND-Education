@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 You may start arranging your day to avoid moving your head because every turn has a cost. Motion practice is meant to make a chosen everyday movement more manageable. It is not a test of how much dizziness you can endure.
 
@@ -52,6 +53,7 @@ Stop unsafe activity. Sudden or distinctly different dizziness with new weakness
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Let the person control when the movement starts and ends. Sit within an easy line of sight rather than repeatedly calling from behind to make them turn. Never move their head for them or create a surprise challenge.
 
@@ -65,6 +67,7 @@ During a familiar flare, follow the agreed support and safety plan. Ask before t
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Distinguish habituation from VOR adaptation, repositioning and general conditioning. Examine positional vertigo, cervical limitations and orthostatic triggers as relevant. Specify the selected stimulus, support, acceptable recovery and cumulative burden. Do not import hypofunction exercise doses into PPPD without individual reasoning. Progress only when the response supports it.
 

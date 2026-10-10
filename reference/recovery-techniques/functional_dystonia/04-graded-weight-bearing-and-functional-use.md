@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -55,6 +56,7 @@ Progress can mean tolerating contact longer, using less upper-body support, acce
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Prepare the exact surface and supports agreed with the therapist. Guard the person as trained, without pulling the affected limb into position. Focus conversation on the task—holding the page, reaching the target, completing the transfer—rather than on how much pressure the person “should” tolerate.
 
@@ -68,6 +70,7 @@ Do not add weight, remove a walking aid or advance from sitting to standing on y
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and safety screen
 

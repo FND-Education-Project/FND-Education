@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 The point of therapy is not to become good at therapy exercises. It is to help you take part in your life. A useful practice goal might be asking a question at an appointment, telling a partner something funny or speaking briefly to a friend.
 
@@ -41,6 +42,7 @@ The examples here are suggestions to discuss with your clinician, not a fixed ex
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask what role the person wants you to take: listener, practice partner, reminder, or someone who helps if a message is missed. Agree before a call or appointment rather than taking over automatically.
 
@@ -54,6 +56,7 @@ Keep the exchange worthwhile even when speech is difficult. Do not turn every fa
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selecting the approach
 

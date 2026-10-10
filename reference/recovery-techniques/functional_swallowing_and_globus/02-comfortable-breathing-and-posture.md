@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Trying hard to swallow can involve the whole body: shoulders lift, the jaw braces and the next mouthful feels like another task to get right. Sometimes a therapist can help reduce that extra work by adjusting support or the way a meal begins.
 
@@ -51,6 +52,7 @@ Call emergency services for choking with inability to breathe, speak or cough ef
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Offer help with the agreed chair or supports. Avoid moving the person’s head or shoulders into a position you think looks right. Repeated instructions to breathe can become another demand; use only the cue the person and clinician agreed.
 
@@ -64,6 +66,7 @@ Use the person’s written flare and emergency plan. If they cannot safely conti
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and formulation
 

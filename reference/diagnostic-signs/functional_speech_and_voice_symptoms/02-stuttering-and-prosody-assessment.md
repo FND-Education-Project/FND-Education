@@ -20,6 +20,7 @@ Clinician-focused educational reference. Assessment requires relevant training, 
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Assess interruptions in speech flow or changes in rhythm, emphasis and intonation. Describe the pattern and history before assigning an aetiology.
 
@@ -106,6 +107,7 @@ A clinician may compare comfortable singing and speaking where suitable. Differe
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **Potentially supportive:** A specific incongruity may contribute to a positive formulation when interpreted by a clinician familiar with the differential.
 
@@ -129,6 +131,7 @@ Do not classify an unfamiliar accent as inherently functional. Likewise, audible
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 Authored example:
 
@@ -150,6 +153,7 @@ Use the person's preferred terminology for their speech and check that the expla
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 Chung and colleagues provide a six-case illustration, not a blinded diagnostic-accuracy study. The consensus recommendations guide formulation without establishing a single diagnostic stuttering pattern. (*citations* [1](#citation-1), [2](#citation-2))
 

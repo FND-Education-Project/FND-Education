@@ -16,6 +16,7 @@ An emergency plan is easiest to use when it is brief, specific to you and agreed
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -86,6 +87,7 @@ A lower-demand version is to write only your name, one emergency contact and you
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask the person what role they want you to have before an event happens. Know where the current plan is kept. During an event, make the space safer, follow the agreed plan and record useful observations without crowding, restraining or arguing.
 
@@ -99,6 +101,7 @@ A supporter is not expected to make a diagnosis. If the event differs from the p
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

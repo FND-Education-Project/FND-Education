@@ -28,6 +28,7 @@ Each technique below opens a detailed page with the gait appearance most likely 
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Techniques used in rehabilitation
 
@@ -90,6 +91,7 @@ Walking difficulty is new, rapidly worse, follows a fall or head injury, or occu
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 - Ask how much physical help is wanted and learn safe guarding from the treating therapist; pulling an arm or trunk can destabilize both people.
 - Keep the practice route clear and use only the selected task, direction, speed and equipment.
@@ -108,6 +110,7 @@ During a gait flare, help the person stop before a fall, bring the usual aid or 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Define the gait phenotype before selecting a transformation
 

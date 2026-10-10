@@ -16,6 +16,7 @@ The same job or class can contain many demands: travel, standing, screens, noise
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -74,6 +75,7 @@ Discuss options with the person rather than prescribing the same accommodations 
 
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not use paid work as proof that the person is well, or unemployment as proof they have stopped trying. Help with one concrete task—forms, transport, a meeting note—if asked. Respect the person's decision about disclosure; employers or educators do not automatically need every medical detail.
 
@@ -85,6 +87,7 @@ Do not use paid work as proof that the person is well, or unemployment as proof 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

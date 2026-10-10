@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Know what each medicine is for
 
@@ -37,6 +38,7 @@ During an event, use only the prescribed event-specific rescue plan. Do not add 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help keep one current medication list if the person wants assistance. Do not hide medicines, skip doses, improvise a taper or pressure them to stop because an event was labelled functional.
 
@@ -50,6 +52,7 @@ Make sure emergency staff know about both functional seizures and any epilepsy. 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Explicit procedure
 

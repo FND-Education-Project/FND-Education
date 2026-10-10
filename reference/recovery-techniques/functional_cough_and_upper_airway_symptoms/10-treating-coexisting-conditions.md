@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A functional component does not cancel asthma, reflux, allergy or another illness. You should not have to choose between working on recovery techniques and receiving ordinary medical care. Both can belong in the same plan.
 
@@ -39,6 +40,7 @@ Do not use cough suppression to manage choking, serious breathlessness or a new 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help keep a clear medication and appointment list if wanted. Never withhold an inhaler because someone has also been diagnosed with FND. Support practical access to appointments and ask who to contact when different clinicians give conflicting advice.
 
@@ -52,6 +54,7 @@ Agree beforehand how the person wants help during a familiar bout. A changed or 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Review the differential and treat established contributors using the relevant condition-specific guidance. Integrate respiratory, ENT/laryngology, swallowing and primary-care input; refer further when indicated. Do not use normal initial tests, treatment nonresponse or anxiety alone as proof of FND or somatic cough syndrome. Specify which symptoms call for the respiratory action plan, the learned cough response, or urgent assessment. Avoid leaving refractory symptoms without continuing care.
 

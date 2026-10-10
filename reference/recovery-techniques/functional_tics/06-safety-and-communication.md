@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Two different needs
 
@@ -45,6 +46,7 @@ Breathing or swallowing danger, significant injury or a new neurological change 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Listen for the intended message and ask how to check it if you are unsure. Offer a communication option without taking the person's voice away. Speak directly to them, even when someone else helps convey the answer.
 
@@ -58,6 +60,7 @@ Agree how to respond to involuntary offensive words privately. Protect dignity a
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Assess the actual motor hazard and communication barrier, with occupational therapy or speech-language input as appropriate. Distinguish vocal tic-like symptoms from dysphonia, language impairment and airway symptoms; they may coexist and require different assessment. (*citations* [1](#citation-1))
 

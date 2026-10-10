@@ -16,6 +16,7 @@ A support system moves some thinking work out of your head and into your surroun
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -91,6 +92,7 @@ These are individualized adaptations, not proven treatments for restoring recogn
 [Person](#for-the-person-with-fnd) · [Supporters](#for-family-friends-and-other-supporters) · [Clinicians](#for-clinicians-and-the-care-team) · [Research](#research-and-sources)
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask how reminders should be given. Use the agreed system rather than creating parallel calendars, surprise tests or repeated verbal prompts. Leave room for the person to do what they can.
 
@@ -104,6 +106,7 @@ A useful cue points toward information: “Your list is beside the kettle.” It
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

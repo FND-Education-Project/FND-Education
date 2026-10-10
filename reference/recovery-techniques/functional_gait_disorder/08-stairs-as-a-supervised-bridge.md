@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Why stairs can sometimes change the movement
 
@@ -45,6 +46,7 @@ Do not practise this alone or during an unpredictable flare. Stop if the support
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not suggest stairs as practice unless the therapist has taught the exact method. Keep hands free, lighting adequate and the route clear. Bring the required aid to both ends of the stairs rather than leaving the person without support after the task.
 
@@ -58,6 +60,7 @@ If you have been trained to guard, use the specified position and belt. Never pu
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and safety screen
 

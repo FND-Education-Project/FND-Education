@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 If a certain movement or room lighting repeatedly starts a spasm, avoiding it may be the only workable choice for now. Planned practice is an optional way to explore whether a smaller, more manageable version becomes possible with support.
 
@@ -47,6 +48,7 @@ During a familiar flare, return to the comfortable setting or pause practice. A 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Let the person control the agreed environment and stopping point. Never switch on lights unexpectedly or provoke a movement to test their response. Ask before changing blinds, screens or seating.
 
@@ -60,6 +62,7 @@ Support access to the activity even if practice is paused. The visit or conversa
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Identify the putative trigger and assess ocular, migraine, movement-disorder and seizure-related alternatives as indicated. Agree consent, adjustable intensity, stopping criteria and delayed-response review. Do not transfer exposure assumptions from another condition or interpret distress as proof that a task is therapeutically necessary. Preserve protective measures for independently assessed risks.
 

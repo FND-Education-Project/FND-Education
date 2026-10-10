@@ -16,6 +16,7 @@ A later review can make the next setback less confusing. It should not become an
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -74,6 +75,7 @@ Complete one sentence: **“Next time, keep ___ and change ___.”** “I do not
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Wait until the person has enough capacity, then ask whether they want to review together. Offer observations as observations: “I noticed recovery took longer,” not “You caused this by…”
 
@@ -87,6 +89,7 @@ Review your role too. What help was wanted? What was unsustainable, unsafe or ou
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 
