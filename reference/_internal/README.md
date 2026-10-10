@@ -21,6 +21,10 @@ If a document becomes reader-ready, move it out of `_internal` into the appropri
 - [Gait evidence review](diagnostic-signs/gait-evidence-review.md) — October 9 source decisions and classification update.
 - [Functional-seizures evidence review](diagnostic-signs/seizures-evidence-review.md) — October 9 source decisions and smartphone-review update.
 
+- [Sensory evidence review](diagnostic-signs/sensory-evidence-review.md) — October 10 comparison and source-scope checks.
+- [Visual evidence review](diagnostic-signs/visual-evidence-review.md) — October 10 source decisions and newer field-study candidate.
+- [Surrounding diagnostic pages audit](diagnostic-signs/shared-diagnostic-pages-evidence-review.md) — collection, shared explanations and cauda equina overlap.
+
 ## Community-source review material
 
 - [Community experience quote notebook](recovery-techniques/community-experience-quotes.md) — working source notebook that groups public lived-experience quotations by symptom and technique. These accounts are review material, not evidence that a treatment works or fails.

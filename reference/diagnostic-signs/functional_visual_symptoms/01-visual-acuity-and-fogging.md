@@ -153,7 +153,7 @@ If the setup was inconclusive, say so explicitly and explain the next assessment
 
 ## Evidence and Limitations
 
-The cited clinical reviews describe these methods; this educational sequence is not a validated battery and has no assigned sensitivity, specificity or severity score. Do not convert a positive comparison into a judgment about intention. The full review of each historical validation study remains pending. (*citations* [1](#citation-1), [2](#citation-2))
+The cited clinical reviews describe these methods; this educational sequence is not a validated battery and has no assigned sensitivity, specificity or severity score. Do not convert a positive comparison into a judgment about intention. (*citations* [1](#citation-1), [2](#citation-2))
 
 Record what the finding leaves unanswered, including coexisting disease and sustained visual use. See the [overview](../08-functional-visual-symptoms.md#being-understood-in-everyday-life).
 
@@ -192,7 +192,7 @@ A useful static illustration would label the two eyes, lens position and chart d
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. [FND-CIT-0024](../../../research/citation-index.md#fnd-cit-0024). [https://doi.org/10.1038/s41433-024-03126-w](https://doi.org/10.1038/s41433-024-03126-w) |
-| <a id="citation-2"></a>**[2]** | Raviskanthan S, Wendt S, Ugoh PM, et al. Functional vision disorders in adults: a paradigm and nomenclature shift for ophthalmology. *Survey of ophthalmology*. 2022;67(1):8-18. [DOI](https://doi.org/10.1016/j.survophthal.2021.03.002). [PMID: 33737039](https://pubmed.ncbi.nlm.nih.gov/33737039/). [FND-CIT-0179](../../../research/citation-index.md#fnd-cit-0179). |
+| <a id="citation-2"></a>**[2]** | Raviskanthan S, Wendt S, Ugoh PM, et al. Functional vision disorders in adults: a paradigm and nomenclature shift for ophthalmology. *Survey of ophthalmology*. 2022;67(1):8-18. DOI: 10.1016/j.survophthal.2021.03.002. FND-CIT-0179. |
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

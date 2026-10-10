@@ -20,7 +20,7 @@ A clear boundary at a joint or a distribution unlike a single nerve can be a cli
 
 ### Midline splitting of light touch
 
-The person reports a sharply divided sensation across the body’s midline. Historically considered a functional sign, it showed poor specificity in recent comparative research. Central neurological disease can produce similar findings; this should not independently rule in FND. (*citations* [1](#citation-1), [4](#citation-4))
+The person reports a sharply divided sensation across the body’s midline. Recent comparative research found such reports in both motor-FND and stroke; dense splitting during examination was uncommon. The reported boundary and the examination finding should be documented separately. Neither should independently rule in FND. (*citations* [1](#citation-1), [4](#citation-4))
 
 ### Vibration splitting
 
@@ -41,7 +41,7 @@ These assess selected peripheral or central pathways when indicated. They help i
 
 ## Research and Sources
 
-The inherited descriptions retain their original citations. The IFCN chapter concerns functional motor neurophysiology; it is background rather than a validation of normal sensory studies as an FND test. Individual investigation protocols remain outside this initial expansion.
+The 2026 sensory cohort provides the principal comparative evidence. The IFCN chapter concerns motor neurophysiology and supplies background on investigation scope; it does not validate normal sensory studies as an FND test.
 
 | Citation | Full citation |
 |---|---|

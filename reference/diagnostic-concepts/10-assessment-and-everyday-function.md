@@ -24,7 +24,7 @@ Bring one or two examples if useful. What could you do? What help or equipment m
 
 A study comparing 107 people with functional weakness with 46 people whose weakness was attributed to neurological disease found similar disability levels in the groups. More people in the functional-weakness group reported being unable to work because of symptoms. These group findings cannot determine any one person’s ability or support needs. (*citations* [2](#citation-2))
 
-Emotional wellbeing deserves attention too. Loss of familiar roles, uncertainty or distress may matter alongside physical symptoms. You can ask for support with what is troubling you without having to accept that it caused your weakness.
+Emotional wellbeing deserves attention too. Loss of familiar roles, uncertainty or distress may matter alongside physical symptoms. You can ask for support with what is troubling you without having to accept that it caused your symptoms.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>

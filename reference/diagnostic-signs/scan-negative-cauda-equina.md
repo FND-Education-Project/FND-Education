@@ -59,7 +59,7 @@ After an emergency cause has been assessed, practical support may include help w
 
 ### First establish the emergency question
 
-When the presentation could represent compressive cauda equina syndrome, assess and investigate it on that basis. The term **scan-negative** should only be used after the relevant structural emergency has been considered and imaging interpreted in the clinical context.
+When the presentation could represent compressive cauda equina syndrome, follow the emergency spinal assessment and imaging pathway. A normal bedside finding or low post-void bladder volume cannot independently rule it out. The March 2026 NHS England GIRFT pathway supports urgent MRI according to the clinical presentation; clinicians elsewhere should use their local emergency pathway. The term **scan-negative** applies only after appropriate imaging and clinical interpretation. (*citations* [3](#citation-3))
 
 ### Then separate the remaining questions
 
@@ -73,7 +73,7 @@ After compression is not demonstrated, avoid collapsing the presentation into on
 - other neurological or medical explanations; and
 - coexistence of more than one condition.
 
-A functional formulation should identify the positive evidence for the functional component. It should not be inferred from normal imaging, psychiatric history, stress or the absence of a surgical lesion.
+A functional formulation should identify the positive evidence for the functional component. It should not be inferred from normal imaging, psychiatric history, stress or the absence of a surgical lesion. The prospective cohort found functional signs in some patients across scan categories and identified alternative neurological causes during admission and follow-up. Persistent or changing symptoms therefore need a named follow-up plan, including bladder care and further neurological assessment when indicated. (*citations* [4](#citation-4))
 
 ### Keep the terminology precise
 
@@ -93,14 +93,16 @@ A functional formulation should identify the positive evidence for the functiona
 
 ## Research and Sources
 
-The main source currently used by this starter page is the retrospective cohort by Hoeritzauer and colleagues comparing scan-positive and scan-negative suspected cauda equina presentations. It supports the importance of distinguishing a negative compressive scan from a conclusion that symptoms are functional or psychological. The Bennett review provides broader FND context but should not be used by itself to define scan-negative cauda equina syndrome. A later expansion should add current spinal-surgery, emergency, neurourology and pelvic-floor guidance. (*citations* [1](#citation-1), [2](#citation-2))
+The 2026 GIRFT pathway provides current emergency assessment guidance. The 2021 prospective cohort extends the earlier retrospective study: these observational studies describe overlap and possible contributing factors, rather than proving one mechanism for every scan-negative presentation. The broader FND review supports positive diagnosis of any functional component. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
 
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Hoeritzauer I, Pronin S, Carson A, Statham P, Demetriades AK, Stone J. The clinical features and outcome of scan-negative and scan-positive cases in suspected cauda equina syndrome: a retrospective study of 276 patients. *Journal of Neurology*. 2018;265(12):2916–2926. [https://doi.org/10.1007/s00415-018-9078-2](https://doi.org/10.1007/s00415-018-9078-2). [FND-CIT-0016](../../research/citation-index.md#fnd-cit-0016). |
 | <a id="citation-2"></a>**[2]** | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987). [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). |
+| <a id="citation-3"></a>**[3]** | NHS England, Getting It Right First Time (GIRFT). National Suspected Cauda Equina Syndrome Pathway. Updated March 2026. Accessed October 10, 2026. [Source](https://gettingitrightfirsttime.co.uk/wp-content/uploads/2026/04/National-Suspected-Cauda-Equina-Pathway-March-2026.pdf). [FND-CIT-0267](../../research/citation-index.md#fnd-cit-0267). |
+| <a id="citation-4"></a>**[4]** | Hoeritzauer I, Carson A, Statham P, et al. Scan-Negative Cauda Equina Syndrome: A Prospective Cohort Study. *Neurology*. 2021;96(3):e433–e447. [Source](https://doi.org/10.1212/WNL.0000000000011154). [FND-CIT-0268](../../research/citation-index.md#fnd-cit-0268). |
 
-*Starter page added September 29, 2026 · spinal-surgery, emergency medicine, neurourology, pelvic-floor, neurology, lived-experience and accessibility review pending*
+*Starter page added September 29, 2026 · evidence updated October 10, 2026 · spinal-surgery, emergency medicine, neurourology, pelvic-floor, neurology, lived-experience and accessibility review pending*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>

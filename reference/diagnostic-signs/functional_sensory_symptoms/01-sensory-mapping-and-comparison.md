@@ -157,7 +157,7 @@ If a comparison supports FND, describe that comparison in ordinary words. Give t
 
 Sensory mapping is a clinical examination method, not a validated numerical discriminator for FND. The [overview's evidence notes](../07-functional-sensory-symptoms.md#evidence-notes) distinguish the current motor-FND cohort from isolated sensory presentations. No sensitivity or specificity is assigned to this educational sequence.
 
-The general examination reference supports modality selection and localization; it is not an FND validation study. The older pilot study remains relevant background, with fresh full-text reappraisal pending. (*citations* [3](#citation-3), [4](#citation-4))
+The general examination reference supports modality selection and localization; it is not an FND validation study. The pilot study combines several symptom groups and does not establish the accuracy of sensory mapping alone. (*citations* [3](#citation-3), [4](#citation-4))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -200,7 +200,7 @@ Provide captions, a transcript and a written description. No media has been adde
 
 ## Research and Sources
 
-Local citation numbers match the symptom overview so the relocated outline remains traceable. Each source is included below; shared IDs remain stable.
+The sensory cohort informs interpretation; the general examination reference supports how to describe and localize sensory change.
 
 | Citation | Full citation |
 |---|---|

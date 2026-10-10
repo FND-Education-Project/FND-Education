@@ -4,7 +4,7 @@
 
 > **Automatically generated working draft — October 2, 2026.** Human, ophthalmology, orthoptics and accessibility review pending.
 
-All thirteen original entries are preserved below, with their original descriptions and source associations. They include specialist observations and differential investigations, not thirteen independently validated FND tests.
+All thirteen original entries are retained below. They include specialist observations and differential investigations, not thirteen independently validated FND tests.
 
 [Acuity comparisons](01-visual-acuity-and-fogging.md) · [Field comparisons](02-visual-field-comparisons.md) · [Optokinetic response](03-optokinetic-response.md)
 
@@ -65,13 +65,15 @@ Retinal imaging and electrical-response tests address structural or physiologica
 
 ## Research and Sources
 
-The reviews describe clinical methods; these entries do not establish universal diagnostic accuracy. The coexistence study concerns a selected referral population.
+The 2024 clinical framework leads the assessment approach. The 2026 systematic review supports attending to coexisting conditions and the person’s actual visual difficulties; it does not validate the accuracy of these individual tests. The older optical review and referral study supply supporting descriptions and selected-population evidence. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
 
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Ramsay N, McKee J, Al-Ani G, Stone J. How do I manage functional visual loss. *Eye*. 2024;38:2257–2266. [FND-CIT-0024](../../../research/citation-index.md#fnd-cit-0024). [https://doi.org/10.1038/s41433-024-03126-w](https://doi.org/10.1038/s41433-024-03126-w) |
-| <a id="citation-2"></a>**[2]** | Raviskanthan S, Wendt S, Ugoh PM, et al. Functional vision disorders in adults: a paradigm and nomenclature shift for ophthalmology. *Survey of ophthalmology*. 2022;67(1):8-18. [DOI](https://doi.org/10.1016/j.survophthal.2021.03.002). [PMID: 33737039](https://pubmed.ncbi.nlm.nih.gov/33737039/). [FND-CIT-0179](../../../research/citation-index.md#fnd-cit-0179). |
+| <a id="citation-2"></a>**[2]** | Raviskanthan S, Wendt S, Ugoh PM, et al. Functional vision disorders in adults: a paradigm and nomenclature shift for ophthalmology. *Survey of ophthalmology*. 2022;67(1):8-18. DOI: 10.1016/j.survophthal.2021.03.002. FND-CIT-0179. |
 | <a id="citation-3"></a>**[3]** | Scott JA, Egan RA. Prevalence of organic neuro-ophthalmologic disease in patients with functional visual loss. *American journal of ophthalmology*. 2003;135(5):670-675. [DOI](https://doi.org/10.1016/s0002-9394%2802%2902254-7). [PMID: 12719075](https://pubmed.ncbi.nlm.nih.gov/12719075/). [FND-CIT-0180](../../../research/citation-index.md#fnd-cit-0180). |
+| <a id="citation-4"></a>**[4]** | Ramsay N, Tessmann H, McKee J, Ercoli T, Stone J. Functional visual loss: a systematic review and meta-analysis of epidemiology, prognosis and treatment. *Eye*. 2026;40:1784–1793. [DOI](https://doi.org/10.1038/s41433-026-04648-1). [FND-CIT-0103](../../../research/citation-index.md#fnd-cit-0103). |
+
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next: Functional Speech and Voice Symptoms](../09-functional-speech-and-voice-symptoms.md)

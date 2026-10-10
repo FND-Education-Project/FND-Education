@@ -36,7 +36,7 @@
 
 Your hand may feel numb, a patch of skin may tingle or burn, or touch may feel unusually strong. A limb may feel distant or absent even though you can see it. These are among the experiences people describe with functional sensory symptoms. Recognizing an experience here helps identify the relevant page; it does not establish its cause. The clinician first works out which kind of sensation has changed and whether the pattern fits a nerve, nerve root, spinal cord, brain or another recognized condition.
 
-Older teaching sometimes treated sharply split sensation at the body’s midline, or a difference when a vibrating tuning fork crossed a single bone, as strong proof of a functional symptom. Newer evidence shows that these findings also occur in people with other neurological diagnoses and have limited diagnostic value. A sensory diagnosis therefore needs more than one traditional bedside sign. (*citations* [1](#citation-1), [2](#citation-2))
+A sensory assessment brings together the type and distribution of altered feeling, the history and the rest of the neurological examination. A sharp dividing line or a difference in vibration between the two sides cannot establish the cause alone: similar reports occur after stroke. These observations need careful interpretation rather than being treated as proof of FND. (*citations* [1](#citation-1), [2](#citation-2))
 
 Your examination may still help by documenting the symptom accurately and placing it beside the history, motor examination and necessary tests. The aim is not to catch you giving two different answers.
 
@@ -117,7 +117,7 @@ One-sided sensory loss can arise from a brain lesion, including a thalamic strok
 
 Migraine, pain disorders and coexisting neurological disease remain relevant even when functional symptoms are present. Select imaging, laboratory or neurophysiological investigations to answer a clinical question, rather than requiring every person to complete every test in the inventory. A normal investigation is not itself a positive functional sign. See [what tests can and cannot show](../diagnostic-concepts/03-tests-and-investigations.md).
 
-In a 2026 retrospective emergency-department series, a neurological diagnosis was identified in 55 of 194 people with hemisensory complaints, including stroke/TIA, migraine and multiple sclerosis. The study does not establish that the remaining patients had FND. Its abstract was reviewed; the full paper was not available. (*citations* [7](#citation-7))
+In a 2026 retrospective emergency-department series, a neurological diagnosis was identified in 55 of 194 people with hemisensory complaints, including stroke/TIA, migraine and multiple sclerosis. The study does not establish that the remaining patients had FND. (*citations* [7](#citation-7))
 
 ### Explain the degree of certainty
 
@@ -165,9 +165,9 @@ The [media brief](functional_sensory_symptoms/01-sensory-mapping-and-comparison.
 
 **Koh et al., 2021:** MRI showed acute ischaemic stroke in 18 of 79 hospitalized people with isolated hemisensory symptoms. This selected inpatient sample is not a community risk estimate. It supports taking an acute sensory presentation seriously, including when weakness is absent. (*citations* [6](#citation-6))
 
-**Older sign literature:** The Daum pilot and Chabrol report remain part of the inherited inventory's evidence trail. Their complete methods and sensory-specific estimates have not been freshly reappraised in this expansion. Mixed motor/sensory findings must not be presented as sensory-only diagnostic accuracy. (*citations* [3](#citation-3), [4](#citation-4))
+**Earlier comparative evidence:** Chabrol compared traditional signs in 40 people with neurological disease and 15 with conversion disorder and found substantial overlap. Daum's pilot combined motor, sensory and gait findings; its combined results are not sensory-only diagnostic accuracy. (*citations* [3](#citation-3), [4](#citation-4))
 
-Targeted source check: October 1, 2026; not a systematic review. Sensory-only prognosis, sustained participation, caregiver burden and treatment-specific quality-of-life outcomes remain evidence gaps for this page.
+Evidence reviewed October 10, 2026. Research in isolated sensory presentations remains limited.
 
 ### Citation table
 
