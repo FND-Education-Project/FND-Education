@@ -16,6 +16,7 @@ This page is a selective timeline of major changes in how clinicians have **reco
 **On this page:** [Timeline](#timeline-at-a-glance) · [Main changes](#what-changed-most) · [Recent findings](#reading-the-recent-findings-carefully) · [Today](#where-the-field-is-now) · [Sources](#research-and-sources)
 
 ## Timeline at a glance
+{: #timeline-at-a-glance .shareable }
 
 | Period | What changed | Why it mattered | Representative source |
 |---|---|---|---|
@@ -72,6 +73,7 @@ Recent studies increasingly measure daily function, participation, quality of li
 **On this page:** [Timeline](#timeline-at-a-glance) · [Main changes](#what-changed-most) · [Recent findings](#reading-the-recent-findings-carefully) · [Today](#where-the-field-is-now) · [Sources](#research-and-sources)
 
 ## Where the field is now
+{: #where-the-field-is-now .shareable }
 
 As of this selective source check on **October 1, 2026**, FND is understood as a genuine disorder of nervous-system functioning that can often be diagnosed using positive clinical features. Structural disease can coexist with FND, and new or substantially changed symptoms still require appropriate assessment. (*citations* [1](#citation-1), [4](#citation-4))
 

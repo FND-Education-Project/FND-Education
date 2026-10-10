@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A list of facial exercises can make it seem as if every movement needs strengthening. That can be a poor fit when the problem is excessive pulling, effortful coordination or an eyelid that closes involuntarily.
 
@@ -51,6 +52,7 @@ Stop forceful stretching, resisted grimacing or pulling a mouth corner into plac
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask the person to show you the written plan only if they want help with it. Follow the agreed task rather than adding exercises found online. Do not touch the face, jaw or eyelids to “correct” a movement.
 
@@ -64,6 +66,7 @@ Give useful feedback when requested—for example whether you understood a word�
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Specify target, rationale, assistance, feedback, dose, stopping criteria and transfer to meaningful activity. Assess oral function before introducing bolus tasks; tongue or lip performance in isolation does not establish swallow safety. Review pain and mechanical jaw problems. Use facial-palsy protocols only for an identified indication, not by analogy alone.
 

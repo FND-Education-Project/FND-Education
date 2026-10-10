@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this approach is for
 
@@ -43,6 +44,7 @@ These examples require selection for your assessed presentation. The clinical ra
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask before altering lights, curtains or screens. Never remove sunglasses or insist that the person prove they can tolerate a brighter room. Keep appointment and transport settings accessible.
 
@@ -56,6 +58,7 @@ Help report both practical benefit and delayed worsening. Being unable to increa
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

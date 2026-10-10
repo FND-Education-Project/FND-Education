@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What external focus means
 
@@ -45,6 +46,7 @@ Use another way to accomplish the goal—help, equipment or postponing it. That 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help set up the agreed activity, then let its purpose lead the conversation. “Would you like the book closer?” can be more useful than “Is your arm working yet?” Ask before adding prompts or music.
 
@@ -58,6 +60,7 @@ Do not turn ordinary activities into hidden tests. If you are providing physical
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Translate external focus into a specific environmental target or activity goal. Select the movement demand and support according to available proximal stability, limb loading, sensation, balance and orthostatic tolerance. A meaningful task must not become an unsafe dual-task challenge. (*citations* [1](#citation-1), [2](#citation-2))
 

@@ -32,6 +32,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Your mouth may feel pulled to one side, your jaw may sit off-centre, or an eye may keep narrowing or closing. Speaking, keeping your lips together or looking at someone may become difficult. This page concerns those facial movement difficulties; their appearance alone cannot tell you their cause. (*citations* [1](#citation-1), [2](#citation-2), [5](#citation-5))
 
@@ -66,6 +67,7 @@ If you cannot fully close an eye, seek prompt advice about protecting it. This i
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Treat a new facial droop as new medical information. Note when the change began and whether there is new weakness, speech trouble, confusion, severe headache, altered awareness, breathing or swallowing difficulty. Do not delay emergency assessment while trying to decide whether the face looks “functional.”
 
@@ -94,6 +96,7 @@ With permission, help recall the sequence and timing, bring previous reports and
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 **Featured technique:** Specialist history and examination of facial movement, muscle activation and weakness.<br>
 **Diagnostic method:** Identify a positive functional facial pattern in the wider neurological examination while assessing stroke, facial-nerve disease, hemifacial spasm, non-functional dystonia and other alternatives.<br>

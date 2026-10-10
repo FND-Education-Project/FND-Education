@@ -1965,6 +1965,13 @@ def extract_glossary_defined_terms(
             else len(text)
         )
         block = text[match.end():block_end]
+        # A Kramdown attribute line belongs to the preceding term heading,
+        # not its definition. Keep shareable IDs/classes out of schema text.
+        block = re.sub(
+            r"\A[ \t]*\n\{:[^\n]*\}[ \t]*(?:\n|$)",
+            "",
+            block,
+        )
         lines = block.splitlines()
 
         paragraph_lines: list[str] = []

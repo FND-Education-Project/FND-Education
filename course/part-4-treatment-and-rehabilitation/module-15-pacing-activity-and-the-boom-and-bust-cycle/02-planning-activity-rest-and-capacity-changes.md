@@ -16,6 +16,7 @@ Pacing can protect access to essentials and valued life. It should not become a 
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -80,6 +81,7 @@ Put one essential task and one valued activity on tomorrow's page. Add only one 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not fill the person's available time only with treatment and essential tasks. Ask what they want to preserve. Offer a specific form of help and make it easy to decline.
 
@@ -93,6 +95,7 @@ Rest may not look like sleep, and using an aid may make activity possible rather
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

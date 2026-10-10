@@ -20,6 +20,7 @@ Clinician-focused educational reference. These comparisons require specialist tr
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use field comparisons to investigate a described area of missing vision and look for a reproducible mismatch within the complete visual examination.
 
@@ -112,6 +113,7 @@ Formal field testing may produce contours that change or cross unexpectedly. The
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **Potentially supportive:** State the precise repeated discrepancy and explain why the particular field geometry or binocular comparison is informative.
 
@@ -135,6 +137,7 @@ Preserve the plots and testing conditions so another clinician can understand th
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 Authored explanation example:
 
@@ -156,6 +159,7 @@ Do not describe a plot as proof that a person is pretending.
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 These are clinical comparisons described in the cited reviews, not an interchangeable set of validated standalone tests. No universal accuracy estimate is assigned. An unreliable plot or cloverleaf pattern alone does not establish FND. (*citations* [1](#citation-1), [2](#citation-2))
 

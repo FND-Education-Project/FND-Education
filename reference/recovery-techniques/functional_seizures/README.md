@@ -44,6 +44,7 @@ The existing resource map below does three things:
 **Production status:** The evidence method, course/booklet boundary, five outlines and content-creator guides are maintained as internal working material until reader-ready booklets exist.
 
 ## Complete or substantial resources already online
+{: #complete-or-substantial-resources-already-online .shareable }
 
 ### Treatment of Functional Seizures in Children and Adolescents: A Mind-Body Manual for Health Professionals
 
@@ -83,6 +84,7 @@ The existing resource map below does three things:
 - **Outcome caution:** the small paediatric trial reported striking short-term seizure outcomes. It remains a small study in young people and should not be silently generalized to adults or treated as proof that each component works independently.
 
 ## Free education, self-help, and worksheet collections
+{: #free-education-self-help-and-worksheet-collections .shareable }
 
 ### NEUROkid: Living with Neurological Symptoms
 

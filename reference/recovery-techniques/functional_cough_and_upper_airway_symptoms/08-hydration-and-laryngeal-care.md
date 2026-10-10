@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Not every helpful change is an exercise. A less irritating environment, comfortable voice use and a manageable drinking routine may make everyday life easier. These measures support care; they do not mean that a persistent cough is simply the result of not drinking enough water.
 
@@ -39,6 +40,7 @@ Do not use cough suppression to manage choking, serious breathlessness or a new 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask which environmental change would actually help. A fragrance-free visit or permission to pause a conversation may matter more than another reminder to drink. Keep changes proportionate so that home does not become a place where everything feels dangerous.
 
@@ -52,6 +54,7 @@ Agree beforehand how the person wants help during a familiar bout. A changed or 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Review hydration access, dysphagia, prescribed restrictions, voice demand, irritants and occupational exposures. Coordinate condition-specific reflux or rhinitis care where indicated. Avoid unsupported blanket restrictions and clarify that laryngeal care is an adjunct; response does not establish a diagnosis or demonstrate efficacy of any individual component.
 

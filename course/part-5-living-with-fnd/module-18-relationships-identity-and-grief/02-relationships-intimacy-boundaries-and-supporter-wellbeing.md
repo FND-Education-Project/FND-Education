@@ -16,6 +16,7 @@ Illness can change who does what, how people communicate and what closeness feel
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -67,6 +68,7 @@ Choose a calm moment and finish: “When _____ happens, I need _____.” The oth
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask before touching, moving, speaking for or helping with personal care. “I helped last time” is not consent this time. Keep affection and shared interests that are not about symptoms where both people want them.
 
@@ -80,6 +82,7 @@ Your needs and boundaries also matter. State them without making care conditiona
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

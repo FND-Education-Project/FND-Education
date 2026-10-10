@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A headset or moving-pattern screen is one way to present visual tasks. It is not a more advanced stage that everyone must reach, and you can ask for an ordinary screen, real-world task or non-moving alternative.
 
@@ -52,6 +53,7 @@ Stop unsafe activity. Sudden or distinctly different dizziness with new weakness
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Make sure the person can communicate and stop while using equipment. Help keep the space clear and avoid moving or startling them. Do not buy stronger visual software or increase settings to speed recovery.
 
@@ -65,6 +67,7 @@ During a familiar flare, follow the agreed support and safety plan. Ask before t
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Document the device, visual field, task, exposure and stop plan without generalizing across systems. Assess sensory, migraine, seizure and balance risks; provide a static and non-headset option. Evaluate ordinary activity and delayed tolerability. Device-specific contraindications and governance apply, and informed consent should include uncertain added value.
 

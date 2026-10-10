@@ -33,6 +33,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A hand that stays curled or a foot that turns inward can make ordinary things awkward, painful or impossible. You may feel a part of your body pulling or twisting into a position, either for a short time or for much longer. This page explains assessment of these postures and movements, including functional dystonia. (*citations* [1](#citation-1))
 
@@ -82,6 +83,7 @@ At the onset of a familiar painful posture, protect the limb and find the suppor
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not pull, straighten or manipulate a fixed limb for a photograph or demonstration. Ask what positioning is comfortable and follow the person’s clinical plan. Visible changes in posture over time are useful history, but they do not allow a supporter to decide whether the dystonia is functional.
 
@@ -113,6 +115,7 @@ If the person wants, write down the finding supporting the diagnosis, what remai
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Episodic and prolonged presentations
 

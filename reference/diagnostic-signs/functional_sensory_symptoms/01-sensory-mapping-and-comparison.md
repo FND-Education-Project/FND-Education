@@ -20,6 +20,7 @@ Clinician-focused educational reference; assessment requires suitable training a
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use this assessment to describe the symptom accurately and investigate its anatomical pattern. Mapping can guide a differential diagnosis; it is not a standalone FND test. Acute symptoms require the appropriate urgent pathway before elective comparisons.
 
@@ -108,6 +109,7 @@ For joint position, small supported finger or toe movements can be assessed with
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **Potentially supportive:** Describe the actual reproducible discrepancy and why competing explanations do not adequately explain it. A boundary alone does not settle the diagnosis.
 
@@ -133,6 +135,7 @@ One detected touch does not demonstrate safe cooking, walking, repeated hand use
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 An authored explanation example, not a research or patient quotation:
 
@@ -154,6 +157,7 @@ If a comparison supports FND, describe that comparison in ordinary words. Give t
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 Sensory mapping is a clinical examination method, not a validated numerical discriminator for FND. The [overview's evidence notes](../07-functional-sensory-symptoms.md#evidence-notes) distinguish the current motor-FND cohort from isolated sensory presentations. No sensitivity or specificity is assigned to this educational sequence.
 

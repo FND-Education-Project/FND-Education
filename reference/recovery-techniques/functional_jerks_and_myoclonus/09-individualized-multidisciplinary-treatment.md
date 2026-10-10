@@ -22,6 +22,7 @@ Motor or vocal tic-like symptoms may coexist with the symptoms discussed here. T
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -61,6 +62,7 @@ Seek reassessment for a new or substantially changed movement, altered awareness
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask what role the person wants you to have. You might help carry one-page instructions between services, set up safe practice, attend an appointment or protect recovery time. Avoid becoming the treatment enforcer or reporting every jerk.
 
@@ -74,6 +76,7 @@ Use the same agreed cue and safety plan as the team. Tell clinicians about injur
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Diagnostic and treatment formulation
 

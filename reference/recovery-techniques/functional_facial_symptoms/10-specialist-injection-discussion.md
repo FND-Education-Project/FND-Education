@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 An injection can sound appealing when pulling has become painful or exhausting. You deserve a clear explanation of what it is meant to treat, what benefit is realistic and what could become harder afterward.
 
@@ -55,6 +56,7 @@ During a familiar flare, use your care plan and contact the treating team if nee
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Support an informed choice without urging the person to accept a procedure because you want the face to look different. Help keep the agreed goals and contact instructions available if requested.
 
@@ -68,6 +70,7 @@ After treatment, take new functional difficulties seriously. Report benefit and 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Define phenotype and indication, distinguishing coexisting nonfunctional disease from selected symptomatic treatment of functional overactivity. Discuss uncontrolled cohort bias and the small negative add-on trial. Document oral/ocular function, informed consent, expected onset, outcome review and stopping criteria. Avoid using immediate response diagnostically or offering an escalating procedural pathway without evidence. No dosing or injection-site guidance is provided here.
 

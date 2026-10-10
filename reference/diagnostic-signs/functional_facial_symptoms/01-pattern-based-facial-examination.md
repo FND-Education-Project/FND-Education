@@ -20,6 +20,7 @@ Clinician-focused educational reference; use within professional competence, con
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use this guide to distinguish the observed movement from the word “droop,” document a recognized facial pattern and compare comfortable tasks. It owns the eight-step outline and media brief previously on the symptom page. This is an assessment framework, not a validated score.
 
@@ -129,6 +130,7 @@ Do not turn a fleeting smile or moment of easier movement into a claim about sus
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 Interpret a clear, clinically meaningful inconsistency in the full pattern. Fluctuation, sudden onset, psychiatric history, pain, an unusual appearance or normal imaging alone does not establish functional facial symptoms. Absence of a change with distraction does not by itself exclude them. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
@@ -152,6 +154,7 @@ Record whether the conclusion is supported, uncertain or better explained by ano
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 **Authored example, only when supported by the examination:** “The corner of your mouth looks lower because these muscles are pulling it, rather than because that appearance alone shows weakness. We compared a few comfortable movements to understand the pattern. I will explain which findings support a functional diagnosis and which other conditions we considered.”
 
@@ -171,6 +174,7 @@ Invite questions and corrections. If the evidence is uncertain, explain what is 
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 Fasano's seven-centre retrospective series included 61 selected patients; Yoshida's single-centre series included 58 selected patients. The existing overview describes their different referral groups and clinical patterns. Neither validates this page as an independent bedside battery. (*citations* [1](#citation-1), [2](#citation-2))
 

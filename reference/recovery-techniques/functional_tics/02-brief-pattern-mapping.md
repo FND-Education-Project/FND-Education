@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What “pattern mapping” means
 
@@ -47,6 +48,7 @@ Patterns are clues, not a scorecard. Finding none does not prevent a care plan.
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Offer an observation only with permission. “Would it help if I noted what was happening?” leaves room for a no. Do not film symptoms without consent or ask the person to reproduce a tic.
 
@@ -60,6 +62,7 @@ Your role is to help identify a useful adjustment, not to investigate whether sy
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Use a focused functional assessment: antecedents are preceding circumstances; consequences are what follows, not punishment or proof of motivation. Agree what decision the information will inform and limit monitoring accordingly. Formulate hypotheses collaboratively and review competing explanations such as pain, sleep disruption or medication effects. (*citations* [1](#citation-1))
 

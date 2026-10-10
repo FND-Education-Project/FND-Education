@@ -16,6 +16,7 @@ There is no honest rule that says every person with FND should use an aid—or t
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -69,6 +70,7 @@ Name one journey or task and the barrier within it. If falls, transfers, pressur
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not hide an aid to make someone “try harder,” or insist on it when they have said no. Ask what makes the activity safer and what kind of help is wanted. Learn safe transfer and wheelchair handling from a qualified professional; supporter injury matters too.
 
@@ -80,6 +82,7 @@ Do not hide an aid to make someone “try harder,” or insist on it when they h
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

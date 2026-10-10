@@ -33,6 +33,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 An arm or leg may feel heavy or have less strength than usual. You may struggle to grip, lift your foot or keep a limb steady. Functional limb weakness affects voluntary movement and is not something the person chooses. This page covers partial weakness; complete or near-complete loss of voluntary movement has its own [functional paralysis page](15-functional-paralysis.md), and apparent facial weakness has its own [functional facial symptoms page](14-functional-facial-symptoms.md).
 
@@ -82,6 +83,7 @@ Do not repeatedly perform Hoover’s sign on yourself or ask someone at home to 
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help with safety first. If the person cannot safely remain standing, bring their usual walking aid or help them reach a stable seat without pulling on the weak arm or forcing a joint.
 
@@ -102,6 +104,7 @@ Afterwards, check that the person knows who to contact about unanswered question
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Define the phenotype before choosing a sign
 

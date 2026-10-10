@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Start with something that matters to you
 
@@ -39,6 +40,7 @@ Driving, swimming, heights, machinery and responsibility for someone else’s sa
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help create the agreed setup and exit plan. Ask whether the person wants company or privacy and avoid surprise increases in duration or sensory load. Do not remove an aid to encourage independence.
 
@@ -52,6 +54,7 @@ If an episode interrupts the activity, follow the safety plan without treating t
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Explicit procedure
 

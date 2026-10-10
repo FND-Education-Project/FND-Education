@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### External focus before a second task
 
@@ -45,6 +46,7 @@ If conversation, crowds, visual activity or cognitive effort usually worsens you
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask before speaking, handing over an object or changing the task while the person walks. If an external-focus cue is agreed, refer to the destination or activity rather than correcting joints. Keep objects light, unbreakable and easy to release.
 
@@ -58,6 +60,7 @@ Do not use surprise distraction, difficult questions or teasing. During an unsaf
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and task analysis
 

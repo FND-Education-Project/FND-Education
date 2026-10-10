@@ -49,6 +49,7 @@ This collection is separate from the 17 diagnostic presentations and from the co
 - [Scan-Negative Cauda Equina Presentations — diagnosis](diagnostic-signs/scan-negative-cauda-equina.md) · [recovery and management](recovery-techniques/scan-negative-cauda-equina.md) — a cauda-equina-like presentation without explanatory compression on imaging. It is kept outside the 17 FND presentation categories because scan-negative cauda equina syndrome is not automatically FND.
 
 ## Which symptoms refer to which category?
+{: #which-symptoms-refer-to-which-category .shareable }
 
 A symptom may appear in more than one row when its **appearance, severity or event context** changes what should be assessed or tried. The category is not chosen from one word alone. For example, apparent facial droop may reflect overactive pulling or true weakness; partial limb weakness and complete paralysis require different starting points; and immobility during a functional seizure follows the seizure-event pathway unless a separate motor symptom persists outside it.
 
@@ -78,6 +79,7 @@ Every numbered diagnostic and recovery page now begins with **Refers to** and a 
 > These pages provide general education, not individual diagnosis or treatment. New, severe, injured or substantially changed symptoms need appropriate medical assessment and should not automatically be assumed to be FND.
 
 ## How evidence is labelled
+{: #how-evidence-is-labelled .shareable }
 
 The project separates trial evidence, professional consensus, emerging evidence and community-reported practice. A long list does not mean that every technique has equally strong support or is suitable for every person.
 

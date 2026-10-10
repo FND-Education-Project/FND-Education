@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -52,6 +53,7 @@ Do not repeatedly sweep a painful joint through its full range. Seek reassessmen
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help reproduce the therapist’s setup: chair height, foot surface, pillow placement or table position may matter. Let the person generate the movement. Moving the limb for them changes the task and can provoke guarding.
 
@@ -65,6 +67,7 @@ Avoid comments such as “you could do it lying down, so you should be able to d
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and biomechanical description
 

@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Why complications need their own plan
 
@@ -52,6 +53,7 @@ Do not ask an untrained supporter to stretch a fixed limb. Seek urgent or timely
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help with skin inspection, hygiene and pressure relief only as agreed and with consent. Use adequate light and check areas where nails, fingers, toes, footwear, fabric or equipment press. Do not insert an object into a clenched hand or between toes if doing so requires force.
 
@@ -65,6 +67,7 @@ Report changes factually: location, colour, swelling, wound, pain, temperature a
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Differential assessment
 

@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Look for usable information, not a hidden fault
 
@@ -37,6 +38,7 @@ Stop or simplify the record if it consumes your day, increases fear or triggers 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Record only what was agreed and avoid interpreting motives. “Stopped talking before the event” is an observation; “did not want to answer” is an assumption. Do not search for a psychological explanation behind every episode.
 
@@ -50,6 +52,7 @@ If the person cannot remember a warning, do not insist that they must have had o
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Explicit procedure
 

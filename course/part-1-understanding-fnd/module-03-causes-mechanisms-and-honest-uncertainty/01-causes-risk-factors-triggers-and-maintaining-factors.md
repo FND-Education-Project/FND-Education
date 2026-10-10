@@ -16,6 +16,7 @@ People often use words such as **cause**, **trigger** and **risk factor** as tho
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 There is not one proven cause or mechanism that explains every person's FND. Some people remember a clear event near the beginning of their symptoms. Others remember several possible influences, and some cannot identify a beginning at all. None of these experiences makes the diagnosis more or less real. (*citations* [2](#citation-2), [3](#citation-3), [4](#citation-4))
 
@@ -102,6 +103,7 @@ Stop if the exercise sharply increases distress, symptoms or pressure to uncover
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 The person may want to understand why FND happened, but they may not have a single answer. Listen to what they know and what they are unsure about without enforcing your preferred theory.
 
@@ -119,6 +121,7 @@ If a symptom is new or substantially different, help the person obtain appropria
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

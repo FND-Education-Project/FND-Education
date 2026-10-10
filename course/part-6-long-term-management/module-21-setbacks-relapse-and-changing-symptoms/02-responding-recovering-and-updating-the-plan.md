@@ -16,6 +16,7 @@ When a familiar setback begins, the first job is not to explain it. The first jo
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -72,6 +73,7 @@ Make a four-word prompt: **safe — basics — familiar — help**. Put it where
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask one short question: “Do you want quiet, practical help, the written plan or medical help?” Use agreed cues. Reduce hazards and help with essentials without taking over choices that the person can still make.
 
@@ -85,6 +87,7 @@ Avoid searching for a cause during distress, testing the person's ability, deman
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 “Try physiotherapy” is not much of a plan when the difficulty is speaking to your child or keeping your eyes open long enough to read. Rehabilitation should begin with the activity you want help with and the reason it has become difficult.
 
@@ -55,6 +56,7 @@ Use the agreed easier task or prioritize comfort and essential care. Keep commun
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Offer the kind of help requested: transport, a quiet appointment space, writing down instructions or joining a conversation without rushing. Do not become an exercise supervisor unless that role has been agreed.
 
@@ -68,6 +70,7 @@ Acknowledge gains the person values, such as less effort or more choice. Avoid m
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Identify an activity-level goal and the assessed mechanism limiting it. Coordinate disciplines and distinguish restorative practice from compensatory access. Record burden, pain, participation and oral/ocular safety alongside movement observations. Do not import a limb protocol, a fixed therapy dose or facial-palsy strengthening into an unassessed facial pattern. Failure of one programme warrants review, not withdrawal of support.
 

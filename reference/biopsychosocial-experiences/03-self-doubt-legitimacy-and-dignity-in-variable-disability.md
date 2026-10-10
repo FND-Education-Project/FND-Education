@@ -18,6 +18,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### “What if I am somehow doing this?”
 
@@ -200,6 +201,7 @@ That gives you information without making your honesty the thing being tested.
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 ### Do not turn variability into a credibility test
 
@@ -254,6 +256,7 @@ Judge the tool by what it helps the person do and by appropriate clinical review
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Describe variability without implying deception
 

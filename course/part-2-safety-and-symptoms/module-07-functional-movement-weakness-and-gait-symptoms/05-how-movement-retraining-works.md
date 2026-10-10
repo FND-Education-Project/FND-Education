@@ -16,6 +16,7 @@ Trying harder at the exact movement that is stuck can sometimes add effort witho
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -77,6 +78,7 @@ Stop for unsafe balance, new pain, injury or a significant symptom flare. Do not
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Support the goal without supervising every repetition. Ask whether the person wants a cue, practical help or quiet. Do not withhold aids to create practice or treat a symptom increase as lack of effort.
 
@@ -90,6 +92,7 @@ Notice costs after the session as well as performance during it. Help protect re
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

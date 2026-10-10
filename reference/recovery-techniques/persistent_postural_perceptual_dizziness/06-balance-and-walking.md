@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Feeling unsteady can make a short walk demand your full attention. Balance practice should give you a safer way to explore movement. It should not put you in a position where falling is the price of trying.
 
@@ -52,6 +53,7 @@ Stop unsafe activity. Sudden or distinctly different dizziness with new weakness
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask what help is wanted and learn safe assistance from a professional. Pulling an arm or surprising someone with a balance challenge can make things worse. Clear obstacles and keep the chosen aid within reach.
 
@@ -65,6 +67,7 @@ During a familiar flare, follow the agreed support and safety plan. Ask before t
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Assess actual balance performance, falls, transfers and sensory, motor and musculoskeletal contributors. A strong subjective sense of instability does not quantify fall risk; neither does a normal brief test exclude problems in daily settings. Specify guarding and assistive equipment. Track safe participation, confidence and burden without treating confidence as the sole cause.
 

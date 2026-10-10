@@ -20,6 +20,7 @@ Clinician-focused educational reference; use within professional competence, con
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use cognitive screening or neuropsychological assessment when it can answer a defined question about the cognitive profile, differential diagnosis or rehabilitation planning. Select domains from the history rather than giving everyone the same long battery.
 
@@ -115,6 +116,7 @@ Examples of domains include learning versus delayed recall, attention, processin
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **Interpretable profile:** Describe strengths and weaknesses, the clinical question answered and the conditions under which the results were obtained.
 
@@ -138,6 +140,7 @@ Record whether the next need is additional diagnostic assessment, practical supp
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 Authored example, not a patient quotation:
 
@@ -159,6 +162,7 @@ Use an accessible written summary of the findings and recommended supports inste
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 A tertiary-clinic study compared 21 people with FCD, 17 with neurodegenerative mild cognitive impairment and 25 healthy controls. FCD and neurodegenerative groups had similar difficulty on several measures, including embedded validity indicators, but delayed recall and retention were relatively better in FCD. The small selected sample and age differences limit generalization; this is not an individual diagnostic cutoff. (*citations* [2](#citation-2))
 

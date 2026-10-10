@@ -16,6 +16,7 @@ When several symptoms rise together, it can feel as though everything must be fi
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -80,6 +81,7 @@ Stop mapping if it becomes constant symptom surveillance. Seek clinical help for
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help with the chosen entry point rather than proposing a complete new routine. Ask what support would remove load today. Do not use the loop to blame activity, sleep habits, emotions or motivation.
 
@@ -93,6 +95,7 @@ Notice caregiver capacity too. A sustainable plan may require outside help, equi
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

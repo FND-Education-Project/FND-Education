@@ -16,6 +16,7 @@ FND can affect movement, sensation, episodes, speech, thinking and many other fu
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What does “available capacity” mean?
 
@@ -82,6 +83,7 @@ As you learn to adapt to your available capacity, see if you can also 'recover' 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 What available capacity looks like to those around the FND sufferer can sometimes seem contrived. "Today they seem to be managing that walk without difficulty; yesterday they couldn't even go out. What was different?" Or, "they walk all day inside, but as soon as they are outside and around people, it's like their anxiety takes over and they can't walk anymore." 
 
@@ -109,6 +111,7 @@ Learn the person's safety plan before a severe event or use the reference sectio
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Use **available capacity** as patient-centred descriptive language, not as a physiological conclusion. Ask what the person can do, what it costs during and afterwards, which domains add load, what changes first and which adjustments are useful. A clinic performance, step count, heart-rate-variability value or “spoon number” is not a complete measure of sustainable capacity.
 

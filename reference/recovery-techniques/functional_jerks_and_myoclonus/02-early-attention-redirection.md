@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -57,6 +58,7 @@ New or changed jerks, altered awareness, fever, new weakness, severe headache, i
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask in advance whether the person wants a cue and agree on the exact words. At a familiar warning, use that cue once in a calm voice—such as “red marker” or “keep the foot beat”—then give the person time. Rapid questions, multiple strategies or repeated commands can increase cognitive load.
 
@@ -70,6 +72,7 @@ Move hazards and help the person reach a safe position. Do not surprise them to 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and clinical reasoning
 

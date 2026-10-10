@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this approach is for
 
@@ -45,6 +46,7 @@ These examples require selection for your assessed presentation. The clinical ra
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Listen to the person’s account of what they can and cannot experience. Ask whether they want help writing questions or remembering the plan. Avoid turning the explanation into “the doctor says you can see, so you should be able to do this.”
 
@@ -58,6 +60,7 @@ Support a second explanation or follow-up when uncertainty remains. If improveme
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

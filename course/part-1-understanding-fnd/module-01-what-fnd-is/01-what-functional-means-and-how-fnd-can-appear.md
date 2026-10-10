@@ -35,6 +35,7 @@ The word 'functional' tells us that the way the nervous system transmits informa
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 If you have been recently diagnosed, you might be wondering how the clinician knew your symptoms were FND. You may have had tests looking for other neurological or medical explanations, but FND should not be diagnosed only because those tests were normal. Clinicians can also look for **positive signs**—recognizable features on the history or examination that show how the nervous system is functioning differently. Education about these positive diagnostic methods is still uneven, so some people are not shown the evidence supporting their diagnosis. (*citations* [1](#citation-1)) 
 
@@ -111,6 +112,7 @@ Another useful thing to do is put into your own words what FND is and how to exp
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Functional Neurological Disorder can be very disabling and can vary greatly from person to person. Historically, these symptoms were often framed through the psychiatric diagnosis 'conversion disorder' and were assumed to require a psychological explanation. Current diagnostic practice does **not** require a psychological stressor, trauma, or psychiatric disorder, and a positive FND diagnosis should not be inferred from psychological history. (*citations* [2](#citation-2), [4](#citation-4), [9](#citation-9)) 
 
@@ -130,6 +132,7 @@ Support the person you are showing care to often involves assuring the person th
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 A 2022 paper titled, ***"Functional Neurological Disorder: new subtypes and shared mechanisms"*** makes three statements worth repeating here verbatim:
 1. "The pathophysiology of functional neurological disorder includes overactivity of the limbic system, the development of an **internal symptom model as part of a predictive coding framework**, and **dysfunction of brain networks that gives movement the sense of voluntariness**."

@@ -16,6 +16,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -75,6 +76,7 @@ Write one example using only **task — reliability — safety — recovery — 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 With consent, add specific observations: the prompting given, the recovery you saw or why a task stopped. Do not exaggerate, minimize or turn a rare better day into the person's usual capacity. Let the person decide what private information is shared.
 
@@ -86,6 +88,7 @@ With consent, add specific observations: the prompting given, the recovery you s
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

@@ -22,6 +22,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 After the emergency question has been answered, recovery usually means treating the **specific problems that are still present**, rather than trying to recover from one single condition called “scan-negative cauda equina.”
 
@@ -47,6 +48,7 @@ The aim is not to prove whether symptoms are “structural” or “functional�
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help the person follow the plan that was actually agreed for bladder care, mobility, pain, transfers and medical follow-up. Assistance with toileting or mobility may still be necessary even when imaging did not show cauda equina compression.
 
@@ -61,6 +63,7 @@ Do not pressure the person to test leg strength, delay toileting, reduce equipme
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Build the plan by phenotype
 

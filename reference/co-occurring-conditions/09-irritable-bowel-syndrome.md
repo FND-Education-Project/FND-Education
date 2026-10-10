@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Understanding gut–brain interaction
 
@@ -43,6 +44,7 @@ IBS is different from inflammatory bowel disease. The two can coexist, and chang
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Believe the urgency and protect privacy. Help find toilets or adjust meal arrangements without monitoring every mouthful. The person should not have to disclose bowel symptoms repeatedly to receive a practical accommodation.
 
@@ -54,6 +56,7 @@ Believe the urgency and protect privacy. Help find toilets or adjust meal arrang
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Make a positive IBS assessment with appropriate targeted investigation. Separate IBS from active inflammatory disease and other relevant causes; they may coexist. Integrate nutrition, medication, gut-directed therapies and disability access. Do not interpret response to CBT or hypnotherapy as proof that symptoms were psychological or part of FND. (*citations* [1](#source-1))
 

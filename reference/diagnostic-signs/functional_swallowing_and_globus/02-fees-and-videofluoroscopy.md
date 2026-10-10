@@ -20,6 +20,7 @@ Clinician-focused educational reference. Swallowing assessment requires appropri
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use an instrumental study to answer a defined swallowing-physiology or safety question. It may demonstrate impairment or preserved performance; neither FEES nor VFSS independently diagnoses FND.
 
@@ -116,6 +117,7 @@ Moving X-ray images assess bolus movement and aspiration during selected swallow
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 | Finding or limit | What to document |
 |---|---|
@@ -143,6 +145,7 @@ An abnormal finding can coexist with functional symptoms. A normal sample still 
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 Authored example:
 
@@ -164,6 +167,7 @@ Use the images only with consent, explain the key observation in ordinary langua
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 ASHA's sources describe professional procedures and their limitations across swallowing disorders; they are not FND diagnostic-accuracy trials. No universal sensitivity or specificity for functional dysphagia is assigned here. (*citations* [2](#citation-2), [3](#citation-3), [4](#citation-4))
 

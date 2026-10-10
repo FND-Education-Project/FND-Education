@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Understanding pain that continues
 
@@ -42,6 +43,7 @@ Pain may interrupt movement and sleep, while the effort of coping with several s
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help make the chosen activity possible—perhaps by carrying something or providing a seat. Do not turn help, mobility aids or pain relief into rewards for progress. A day with more participation can still involve considerable pain.
 
@@ -53,6 +55,7 @@ Help make the chosen activity possible—perhaps by carrying something or provid
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Formulate nociceptive, neuropathic and nociplastic contributions rather than inferring mechanism from normal imaging. Keep pain and FND outcomes separate. NG193 recommendations concern chronic primary pain; apply condition-specific guidance to secondary pain and review existing medicines collaboratively rather than abruptly withdrawing them. (*citations* [1](#source-1), [2](#source-2), [3](#source-3))
 

@@ -20,6 +20,7 @@ Clinician-focused educational reference. These comparisons require specialist tr
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use the optokinetic response as one specialist observation when assessing apparent severe visual loss.
 
@@ -105,6 +106,7 @@ These steps describe a clinical observation, not a scored diagnostic battery. (*
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **Response present:** Describe the slow following and quick resetting phases observed, target and conditions. Interpret only the preserved function the observation supports.
 
@@ -128,6 +130,7 @@ Mirror tracking is a different observation, retained in the [inventory](techniqu
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 Authored explanation example:
 
@@ -149,6 +152,7 @@ Relate this to the person's specific question, the rest of the examination and a
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 This is a specialist clinical observation with limited standalone validation, not a substitute for a complete ophthalmic or neuro-ophthalmic assessment. The cited article provides clinical guidance; no sensitivity or specificity is assigned to this educational outline. (*citations* [1](#citation-1))
 

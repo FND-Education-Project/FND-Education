@@ -20,6 +20,7 @@ Clinician-focused educational reference; assessment requires appropriate trainin
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Consider a tic-related cough pattern after appropriate medical cough assessment. Keep tic cough, somatic cough disorder and functional tic-like symptoms distinct; a cough-like sound alone does not choose among them.
 
@@ -112,6 +113,7 @@ A barking or honking quality and absence during sleep have been historically emp
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **Pattern supports tic cough:** Explain the features and how medical alternatives were assessed. Do not automatically relabel it functional neurological disorder.
 
@@ -135,6 +137,7 @@ Brief suppressibility does not measure the effort of suppression, endurance thro
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 Authored example, not a patient quotation:
 
@@ -156,6 +159,7 @@ Avoid introducing “psychogenic” as shorthand for medically unexplained sympt
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The CHEST review included 18 uncontrolled studies, 223 participants and a predominantly paediatric population (96% children or adolescents). Definitions varied and evidence quality was low. These are not validated accuracy estimates for diagnosing adult functional cough. (*citations* [1](#citation-1))
 

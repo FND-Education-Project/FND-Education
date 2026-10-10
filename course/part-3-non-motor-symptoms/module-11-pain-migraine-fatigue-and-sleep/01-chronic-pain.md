@@ -16,6 +16,7 @@ Pain can dominate a day even when it is not listed as a core FND symptom. It sho
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -77,6 +78,7 @@ Stop tracking if it increases fear or monitoring. Seek help when pain is new, ra
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Believe the pain without deciding its cause. Ask whether the person wants comfort, practical help, quiet company or help following the agreed plan. Do not push through, force rest or police medication.
 
@@ -90,6 +92,7 @@ Help notice a meaningful change—new location, injury, fever or neurological ch
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

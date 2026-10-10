@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this approach is for
 
@@ -43,6 +44,7 @@ These examples require selection for your assessed presentation. The clinical ra
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Prepare the agreed layout and let the person control the attempt. Offer the alternative method without describing it as giving in: audio, assistance or larger text may remain necessary.
 
@@ -56,6 +58,7 @@ Avoid increasing brightness, target speed or task length without agreement. Chec
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

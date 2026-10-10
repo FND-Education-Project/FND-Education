@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A restricted diet or special equipment may have helped you get through a difficult period. It can also take away choice and make ordinary meals harder to arrange. Asking for a review is reasonable; needing the support for longer is reasonable too.
 
@@ -51,6 +52,7 @@ Call emergency services for choking with inability to breathe, speak or cough ef
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not discard equipment, remove thickener, change a prescribed texture or withdraw nutrition support without the agreed review. Help arrange the options the person chooses. Continued use of an aid is not a measure of effort or character.
 
@@ -64,6 +66,7 @@ Use the person’s written flare and emergency plan. If they cannot safely conti
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and formulation
 

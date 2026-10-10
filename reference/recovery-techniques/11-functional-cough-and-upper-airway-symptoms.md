@@ -30,6 +30,7 @@ Treatment often teaches the person to recognize an early cough or throat sensati
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Techniques used in speech-language or respiratory therapy
 
@@ -73,6 +74,7 @@ Seek urgent help for severe breathing difficulty, blue/grey color, chest pain, c
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 - Learn the agreed breathing or cough-response cue and use it calmly; do not coach several steps at once.
 - Do not withhold prescribed inhalers or other treatment because a functional component is suspected.
@@ -94,6 +96,7 @@ Help reduce known irritants and extra talking, then offer one agreed cue. Do not
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Phenotype the problem and assess pulmonary, ENT/laryngeal, swallowing, reflux, allergy, infection, medication and neurological contributors. Explain positive functional features where present. Teach a small number of competing responses and efficient breathing patterns, then practise across graded real-life triggers.
 

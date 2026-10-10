@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 There is no single trick that suits every cough or throat sensation. A speech and language therapist may teach a small nasal sniff, a comfortable dry swallow, a gentle pursed-lip exhale or another response after checking what your airway and breathing are doing. You only need the response that fits your assessment.
 
@@ -39,6 +40,7 @@ Do not use cough suppression to manage choking, serious breathlessness or a new 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Use the person’s agreed cue, if invited, rather than adding your own breathing instructions. Several people coaching at once can be overwhelming. Give them room to use their plan and keep prescribed respiratory treatment available.
 
@@ -52,6 +54,7 @@ Agree beforehand how the person wants help during a familiar bout. A changed or 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Select according to cough, laryngeal, nasal, swallowing and respiratory findings. Demonstrate the exact response and check teach-back. Distinguish assessed inducible laryngeal obstruction from FND and asthma; they can coexist, and their action plans must remain clear. These examples are options within therapy, not a validated sequence for all patients.
 

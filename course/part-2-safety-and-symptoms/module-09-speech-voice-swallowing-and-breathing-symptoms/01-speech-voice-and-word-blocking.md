@@ -16,6 +16,7 @@ Functional communication symptoms can change speech, voice, fluency, articulatio
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -82,6 +83,7 @@ Vocal/phonic tics can involve sounds, words or phrases. They are not automatical
 
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Speak to the person directly and give them time. Ask whether they want yes/no questions, writing, typing or quiet. Do not finish every sentence, imitate the speech or speak as though understanding is impaired.
 
@@ -95,6 +97,7 @@ Keep the conversation adult and ordinary. Help others respect the person’s cho
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

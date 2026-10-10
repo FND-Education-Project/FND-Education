@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 After repeated bouts, an ordinary phone call or short conversation may start to feel risky. Carefully planned practice can help you return to an activity you miss. This is a treatment plan made after assessment, not an invitation to test how much coughing or breathlessness you can withstand.
 
@@ -39,6 +40,7 @@ Do not use cough suppression to manage choking, serious breathlessness or a new 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Let the person choose a worthwhile goal and an easy exit. Do not surprise them with a trigger or turn practice into a public challenge. If the activity is too much today, help preserve connection in another way.
 
@@ -52,6 +54,7 @@ Agree beforehand how the person wants help during a familiar bout. A changed or 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Distinguish exposure to a safe feared context from hazardous irritant exposure or medically indicated provocation testing. Establish stable respiratory care and clear escalation rules. Adjust one task demand at a time with consent. Measure participation and tolerability; neither symptoms during practice nor short-term improvement confirms a functional diagnosis.
 

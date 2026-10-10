@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A functional diagnosis does not mean every throat or swallowing problem has the same cause. A sore mouth, a medicine that dries the mouth or a separate food-pipe condition can add difficulty. You should not have to choose between treatment for FND and investigation of another problem.
 
@@ -51,6 +52,7 @@ Call emergency services for choking with inability to breathe, speak or cough ef
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help share the relevant history across clinicians if the person wants you to. Avoid explaining every new difficulty as stress or FND. Practical support with appointments, prescriptions and suitable meals may matter more than another exercise.
 
@@ -64,6 +66,7 @@ Use the person’s written flare and emergency plan. If they cannot safely conti
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and formulation
 

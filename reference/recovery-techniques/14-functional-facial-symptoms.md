@@ -32,6 +32,7 @@ The facial-specific treatment evidence is very limited. The research reviewed co
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Techniques used in rehabilitation
 
@@ -77,6 +78,7 @@ Facial droop is new, sudden or distinctly changed; occurs with new limb weakness
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 - Treat a new facial droop as a possible medical emergency; do not assume it is FND.
 - During an established episode, ask before touching the person’s face, jaw or neck.
@@ -100,6 +102,7 @@ Move from repeated symptom correction to a simple sequence: **safety → one agr
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Confirm whether the treatment target is dystonic pulling, facial weakness, active eye closure, ptosis, jaw or tongue movement, mouth seal, speech, swallowing or a combination. Demonstrate the positive finding to the patient without implying that variability means voluntariness. A functional facial symptom should not prevent investigation or treatment of a coexisting cranial nerve, movement, neuromuscular, vascular, dental, eye or swallowing disorder.
 

@@ -20,6 +20,7 @@ Clinician-focused educational reference. Use within professional competence and 
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use measurement to document symptom burden, function and change after describing the diagnostic formulation. A severity score does not decide whether symptoms are functional. This page is relevant to tic specialists, OT, psychology, general practice and communication support.
 
@@ -101,6 +102,7 @@ For the authored record, ask about one or two chosen activities: what was attemp
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 Review symptom ratings alongside opportunity and support. A lower count during withdrawal from everyday activities is not equivalent to restored participation. A higher count while returning to a valued activity may coexist with a meaningful gain. These are interpretation questions, not assumed outcomes.
 
@@ -120,6 +122,7 @@ Document whether change concerns longstanding tics, newly assessed functional sy
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 **Authored explanation example:** “The rating describes part of the symptom burden. We also need to know whether you can communicate, do the things that matter to you, and get the help you need. We will track those separately.”
 
@@ -137,6 +140,7 @@ Document whether change concerns longstanding tics, newly assessed functional sy
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The guideline supports primary-tic measurement, including the YGTSS; it does not establish functional-tic-specific thresholds or validate this authored activity record. Its assessment and measurement sections were checked. [1](#citation-1) The existing mixed-presentation literature supports keeping coexisting symptom histories visible; response to treatment must not be used retrospectively as proof of diagnosis. [2](#citation-2)
 

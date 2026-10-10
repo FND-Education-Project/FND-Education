@@ -16,6 +16,7 @@ FND care may involve more than one kind of professional. That does not mean ever
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -81,6 +82,7 @@ Write one line: **“The person I contact about ___ is ___.”** A lower-demand 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask what role the person wants you to have. You might take notes, help carry information between appointments or notice an access problem. Do not become the treatment supervisor or assume that more appointments must be better.
 
@@ -94,6 +96,7 @@ Help keep other diagnoses and ordinary healthcare visible. If a symptom is new, 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

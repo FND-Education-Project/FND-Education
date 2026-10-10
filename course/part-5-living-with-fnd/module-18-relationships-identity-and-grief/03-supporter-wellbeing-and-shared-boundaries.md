@@ -16,6 +16,7 @@ FND affects a network of people, but the person with FND and the supporter do no
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -67,6 +68,7 @@ Agree one sentence for a difficult moment, such as: “Please sit nearby but do 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 You may love the person and still be unable to provide every kind of care. Be specific: “I can drive on Tuesday, but I cannot lift you safely.” Ask clinicians for training and a written safety plan when the person consents.
 
@@ -80,6 +82,7 @@ Keep your own medical care, sleep, relationships and time where possible. Seek s
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

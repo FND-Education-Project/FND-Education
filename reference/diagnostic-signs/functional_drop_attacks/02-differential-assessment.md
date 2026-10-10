@@ -20,6 +20,7 @@ Clinician-focused educational reference. Use within professional competence and 
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use this guide to select the next clinical pathway after reconstructing the event. Syncope, epilepsy, cataplexy, vestibular events, mechanical falls and functional symptoms can require different investigations and can coexist. [1](#citation-1)
 
@@ -102,6 +103,7 @@ These routes expand the original differential inventory; they are not a mandator
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 Document what each investigation answers and what it leaves unresolved. Abnormal findings may be relevant, incidental or coexist with functional symptoms. Negative investigations narrow particular possibilities; they do not establish FND by subtraction. If a finding concerns gait or weakness, explain its actual scope and link it to the event account.
 
@@ -119,6 +121,7 @@ Document what each investigation answers and what it leaves unresolved. Abnormal
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 **Authored explanation example:** “We are checking several possible contributors to these falls. This test addresses one of them. Whatever the result, we still need to explain the event pattern and make a safe plan.”
 
@@ -138,6 +141,7 @@ Give the person a named follow-up route and reasons to seek earlier reassessment
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The drop-attack cohort is descriptive and cannot validate a differential-testing algorithm. NICE supplies a separate clinical pathway for suspected blackouts; it should not be applied as if it were a positive functional-drop-attack test. Full recommendation-page retrieval was unavailable during this check; the indexed official recommendation was verified. Detailed protocols remain with the guideline and treating service. [1](#citation-1), [2](#citation-2)
 

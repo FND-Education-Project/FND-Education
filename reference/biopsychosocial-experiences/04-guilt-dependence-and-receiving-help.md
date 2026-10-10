@@ -18,6 +18,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### “I hate needing this much help”
 
@@ -213,6 +214,7 @@ There may not always be enough services available. That is a real systems proble
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 ### Name your limits without making the person feel unwanted
 
@@ -278,6 +280,7 @@ Needing backup does not mean you care less.
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Ask who is actually providing the care
 

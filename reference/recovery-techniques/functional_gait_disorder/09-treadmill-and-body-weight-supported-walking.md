@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What the equipment can change
 
@@ -45,6 +46,7 @@ This is not home treadmill advice. Stop for foot catching, harness pain, skin pr
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not operate the treadmill, change speed, alter harness unloading or provide manual stepping assistance unless you are trained and authorized within the clinical setting. Stay clear of the belt and equipment path.
 
@@ -58,6 +60,7 @@ At home, support the over-ground practice specifically prescribed after the sess
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection, equipment and staffing
 

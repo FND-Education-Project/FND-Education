@@ -16,6 +16,7 @@ Rehabilitation tries to make useful actions more available and daily life more w
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -82,6 +83,7 @@ Name one **activity**, not a body part: for example, â€œstand to brush my teethâ
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Support the chosen goal without counting repetitions, correcting every movement or treating symptoms as a confidence problem. Ask whether the person wants practical help, encouragement, quiet, observation or no involvement.
 
@@ -95,6 +97,7 @@ Equipment and assistance may protect access now while rehabilitation continues. 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

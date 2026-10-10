@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Why a plan helps
 
@@ -53,6 +54,7 @@ When you have recovered enough, a brief factual note can help: where it happened
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Stay with the person when needed, protect privacy and explain what you are doing. Move nearby hazards if safe. Do not haul them upright, pull on an arm or assume that ignoring the event is treatment.
 
@@ -66,6 +68,7 @@ If emergency signs are present, seek help. Otherwise follow the person's agreed 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Specify emergency thresholds, injury assessment, manual-handling limits, access to help and follow-up. Consider head injury, fracture risk, anticoagulant use and whether floor recovery is feasible. Typical drop-attack phenomenology does not rule out serious injury. (*citations* [3](#citation-3), [6](#citation-6))
 

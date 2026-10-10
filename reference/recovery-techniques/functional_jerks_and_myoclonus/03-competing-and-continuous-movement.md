@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -56,6 +57,7 @@ Improvement may be fewer interruptions, safer object handling, lower effort, a s
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Set up the surface or lightweight object the person uses in practice. If invited, name the goal once: “slide to the blue line.” Do not grab the limb, push it into the opposite direction or add resistance. A competing task is not a contest between you and the movement.
 
@@ -69,6 +71,7 @@ During a familiar bout, remove hazards first. Offer the rehearsed action only if
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and movement analysis
 

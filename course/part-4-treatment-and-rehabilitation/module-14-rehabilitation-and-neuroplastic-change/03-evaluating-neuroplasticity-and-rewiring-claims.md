@@ -16,6 +16,7 @@ Words such as “rewire,” “reset” and “retrain” can describe a treatme
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -85,6 +86,7 @@ Choose one treatment claim and write its promised outcome in plain words. If the
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not purchase, praise or enforce a program on the person's behalf without their informed agreement. Hope does not require certainty, and scepticism does not mean someone has chosen illness.
 
@@ -98,6 +100,7 @@ Help compare the claim with the person's priorities, other conditions, finances 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

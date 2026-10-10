@@ -16,6 +16,7 @@ Swallowing symptoms can feel frightening and can affect food, drink, medicines a
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -77,6 +78,7 @@ Do not change food texture, practise difficult swallows or alter medication form
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Follow the person’s assessed plan for food, drink, position, pace and supervision. Do not offer a difficult texture to see whether distraction changes the symptom. In an emergency, use your local first-aid and emergency guidance.
 
@@ -90,6 +92,7 @@ Keep meals as dignified and social as the person wants. Avoid watching every mou
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

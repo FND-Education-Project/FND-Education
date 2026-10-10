@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -56,6 +57,7 @@ Plan separately for hazards such as roads, stairs, water, heat, machinery and he
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help protect the planned dose. On a better day, avoid adding every postponed task; during a difficult period, avoid assuming all activity must stop. Offer practical help with high-load parts such as transport, shopping or meal preparation so the person can preserve the chosen rehabilitation activity.
 
@@ -69,6 +71,7 @@ If a bout begins, use the agreed safety and cue plan. Do not coach repeated exer
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Baseline and formulation
 

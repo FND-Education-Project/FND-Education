@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 When a lump sensation keeps intruding, it is reasonable to ask what treatment options exist. Some medicines used for gut–brain symptoms have been studied in globus. That does not mean everyone should try one or that medication makes swallowing safe.
 
@@ -51,6 +52,7 @@ Call emergency services for choking with inability to breathe, speak or cough ef
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Support the person in reporting benefit and side effects without treating willingness to take medicine as commitment to recovery. If sedation or another change affects eating, help them contact the care team. Continue the existing swallowing plan.
 
@@ -64,6 +66,7 @@ Use the person’s written flare and emergency plan. If they cannot safely conti
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and formulation
 

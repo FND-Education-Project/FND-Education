@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What equipment is meant to do
 
@@ -45,6 +46,7 @@ Do not change device height, remove brakes or practise without the aid because o
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Learn how the device is positioned, braked, folded, transported and checked. Ask the therapist to teach guarding and transfers; do not hold around the neck, pull an arm or catch a falling adult in a way likely to injure both people.
 
@@ -58,6 +60,7 @@ During a gait flare, bring the established device or seat and clear the route. D
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Person–task–environment assessment
 

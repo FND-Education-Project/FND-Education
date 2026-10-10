@@ -16,6 +16,7 @@ Functional seizures can shape travel, relationships, study, work and time alone.
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Definition
 
@@ -81,6 +82,7 @@ Do not test safety restrictions on your own. Ask for professional advice when an
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask, “What would make this activity possible?” rather than deciding the person cannot do it. Offer specific help and accept no. Agree on episode responses before the activity, including when you should step in and when you should give space.
 
@@ -94,6 +96,7 @@ Supporters also need realistic boundaries and their own rest. A shared plan is s
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Research quotations for review
 

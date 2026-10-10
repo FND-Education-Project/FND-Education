@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### The event and the recovery are different parts of the day
 
@@ -41,6 +42,7 @@ Repeated events without the usual recovery, a new pattern, serious injury or abn
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Offer brief orientation without repeatedly quizzing memory: where the person is, that you are nearby and what help is available. Ask before touch. Avoid an immediate detailed discussion of why the event happened.
 
@@ -54,6 +56,7 @@ Notice whether the person returns to their usual state between events and report
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Explicit procedure
 

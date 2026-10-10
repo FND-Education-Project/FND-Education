@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -51,6 +52,7 @@ Do not copy a brace or splint from the internet. Stop using a device and seek pr
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Learn the exact fitting, fastening, wear and skin-check procedure. Never tighten straps to make the posture look straighter. Do not use the device as restraint or leave it on longer than prescribed.
 
@@ -64,6 +66,7 @@ Help record function: safer bathroom access, reduced pressure, easier hygiene, d
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and prescription boundary
 

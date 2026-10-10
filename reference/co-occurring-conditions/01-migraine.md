@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Understanding the connection
 
@@ -44,6 +45,7 @@ An attack may leave less capacity for walking practice, conversation or sensory 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Offer a quieter space, practical help and flexibility with plans. Ask which help is useful rather than assuming the person should practise through an attack. Do not make every food, emotion or missed activity into an explanation for the migraine. A shorter attack or easier recovery can matter even when attacks still occur.
 
@@ -55,6 +57,7 @@ Offer a quieter space, practical help and flexibility with plans. Ask which help
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Document migraine phenotype, headache and migraine days, disability, acute-medication days and possible aura. Coordinate migraine and FND treatment rather than making one contingent on success with the other. Track migraine outcomes separately from functional symptoms. Migraine–functional seizure treatment evidence is preliminary and does not establish causality for every event. (*citations* [2](#source-2), [3](#source-3), [4](#source-4))
 

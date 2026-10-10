@@ -32,6 +32,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 You may know what you want to say but find that sounds repeat, words stop, speech becomes effortful or your voice will not come out. Your voice may sound strained, unusually quiet or different in pitch. A change in accent or the rhythm of speech can also be unsettling. These descriptions help identify what needs assessment; none establishes a functional diagnosis by itself.
 
@@ -69,6 +70,7 @@ At the onset of a familiar episode, reduce communication demand: pause, move to 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not demand singing, repetition or “normal speech” to test the person. Give them time, reduce interruptions and use their preferred backup communication when needed. If a speech-and-language therapist has identified a helpful task, use it only in the agreed therapeutic way rather than as proof that the symptom can be switched off.
 
@@ -92,6 +94,7 @@ If the person has an agreed speech cue—such as rhythm, an automatic phrase or 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 **Featured technique:** Speech-and-language assessment comparing communication across several natural and structured tasks.<br>
 **Diagnostic method:** Look for a positive pattern of internal inconsistency or preserved automatic function that fits a functional communication disorder.<br>

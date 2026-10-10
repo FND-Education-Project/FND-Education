@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Speech can become tiring when you are bracing your jaw, shoulders or throat in an effort to get words out. A therapist may help you find a more comfortable position or coordinate an easy phrase with breathing.
 
@@ -41,6 +42,7 @@ The examples here are suggestions to discuss with your clinician, not a fixed ex
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help arrange a comfortable setting if asked. Avoid pulling shoulders back, moving the jaw or placing hands on the person’s neck to make them “release.”
 
@@ -54,6 +56,7 @@ If a phrase is difficult, allow a pause instead of repeatedly instructing the pe
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selecting the approach
 

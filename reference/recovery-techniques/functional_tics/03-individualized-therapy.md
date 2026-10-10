@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What therapy is trying to help with
 
@@ -45,6 +46,7 @@ If specialist therapy is unavailable, ask what local support can address distres
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help the person remember their questions or attend with permission. Ask what support they want between appointments. Do not take over as a therapist, set suppression targets or practise exposure without an agreed professional plan.
 
@@ -58,6 +60,7 @@ Notice whether the programme leaves enough energy for ordinary life. A successfu
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Differentiate primary tic treatment evidence from functional-tic evidence. I-CBiT is a multicomponent uncontrolled series; it does not validate a universal ERP dose or mechanism. Obtain consent, assess risks and adapt to motor/vocal phenomenology, neurodevelopmental needs and comorbidity. (*citations* [2](#citation-2))
 

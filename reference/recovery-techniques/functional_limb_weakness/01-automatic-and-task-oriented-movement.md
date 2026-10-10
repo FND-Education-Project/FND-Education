@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -51,6 +52,7 @@ For persistent weakness, use a repeatable dose and connect practice to ordinary 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask what result the person is aiming for: “Shall we put the towel on the shelf?” is usually more useful than “Move your weak arm.” Arrange the task, give the agreed amount of physical help and let the person lead the movement. Do not pull the arm, lift under the shoulder, force the knee straight or celebrate a successful repetition by demanding that it be reproduced as proof.
 
@@ -64,6 +66,7 @@ Support consistency without policing. A shorter version, an adaptation or stoppi
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and baseline
 

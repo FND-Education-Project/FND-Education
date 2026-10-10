@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -58,6 +59,7 @@ Direct rhythmic practice may increase self-monitoring, pain or fatigue for some 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help create a safe surface and remove hazards. If the person has asked you to give a beat, use the exact pace and wording agreed with the clinician; do not speed it up, turn it into a performance test or demand that the tremor stop. Praise completion of the practice or return to the activity rather than the absence of visible shaking.
 
@@ -71,6 +73,7 @@ Do not hold the limb down. If the person reports pain, overload or increasing lo
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and baseline
 

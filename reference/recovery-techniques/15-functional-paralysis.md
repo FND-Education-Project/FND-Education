@@ -30,6 +30,7 @@ The seven approaches below draw mainly on broader functional motor rehabilitatio
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Protect the body and preserve access first
 
@@ -65,6 +66,7 @@ Arrange prompt review for repeated falls, skin damage, progressive joint stiffne
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 - Ask before helping and use only transfer methods for which you have been trained; do not pull an arm or lift alone when equipment or a second helper is required.
 - Keep mobility and communication aids within reach. Check pathways, seating, charging and transport rather than hiding or withholding equipment to encourage movement.
@@ -84,6 +86,7 @@ During a familiar episode, follow the agreed sequence and watch for injury or a 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Confirm the motor phenotype and distinguish persistent or episodic limb paralysis from immobility within a functional seizure, cataplexy, postictal paresis and structural disease. Document positive diagnostic evidence and explain it without overstating what any one sign proves.
 

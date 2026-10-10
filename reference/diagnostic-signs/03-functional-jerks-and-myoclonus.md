@@ -33,6 +33,7 @@
 ---
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 A sudden jerk may move your arm, leg or body before you can stop it. It might interrupt a sip of water or a movement you were trying to make. The jerks may happen one at a time or in repeated clusters. This page concerns assessment of these brief movements, including functional jerks. **Myoclonus** is the clinical term for sudden, brief jerk-like movements. (*citations* [1](#citation-1), [2](#citation-2))
 
@@ -84,6 +85,7 @@ One small study found similarly affected quality of life and similar depression 
 ---
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask what the person would like you to explain before the appointment. With permission, describe an ordinary example: what they were doing, whether the jerks came singly or in clusters, how awareness was affected, and what help or recovery time was needed.
 
@@ -108,6 +110,7 @@ If wanted, help record the clinician's explanation: what finding supported the d
 ---
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Episodic and prolonged presentations
 

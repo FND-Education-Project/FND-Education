@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What “return to activity” means
 
@@ -45,6 +46,7 @@ Persistent pain, repeated injury or a substantially changed symptom pattern need
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help make the chosen activity possible. Offer a lift, prepare a quieter place or help arrange an alternative format. Ask before adding time or difficulty.
 
@@ -58,6 +60,7 @@ Talk about the enjoyable parts of the experience as well as symptoms. Inclusion 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Agree a participation goal and record access needs, symptom burden and recovery cost. Distinguish a rehabilitation opportunity from unsafe exposure, inaccessible conditions or untreated comorbidity. Occupational therapy can help analyse task demands and adaptations. (*citations* [1](#citation-1))
 

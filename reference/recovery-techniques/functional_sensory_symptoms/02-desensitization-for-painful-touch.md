@@ -16,6 +16,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this approach is for
 
@@ -43,6 +44,7 @@ These are choices to discuss with your care team, not a required exercise schedu
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Agree on a stop signal before helping. The person should not have to justify using it. Prepare a tolerable version of washing or dressing and accept adaptations when contact remains difficult.
 
@@ -56,6 +58,7 @@ Do not take away comfortable clothing to make practice unavoidable. Help describ
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and assessment
 

@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 When coughing has interrupted sleep, conversations or work, it makes sense to worry about the next bout. That worry may become another burden. Psychological support can help with this burden and, for some people, with patterns that amplify symptoms. You do not need to accept that stress caused your cough to benefit from support.
 
@@ -39,6 +40,7 @@ Do not use cough suppression to manage choking, serious breathlessness or a new 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Listen without explaining the cough away as anxiety. Ask what would make the activity feel manageable. Encouragement is helpful when it leaves room for a pause and does not turn improvement into a test of optimism.
 
@@ -52,6 +54,7 @@ Agree beforehand how the person wants help during a familiar bout. A changed or 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Offer CBT-informed formulation where fear, vigilance or avoidance is relevant, without making psychiatric morbidity a prerequisite for care. Establish shared goals and obtain consent for graded practice. Address sleep, mood and social consequences as appropriate. Evidence here is consensus-based and does not establish a cough-specific FND psychotherapy protocol or prove psychological causation.
 

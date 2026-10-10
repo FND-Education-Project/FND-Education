@@ -20,6 +20,7 @@ Clinician-focused educational reference; select assessment within professional c
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Use this guide to select a symptom measure and record what dizziness changes in ordinary life. Vestibular physiotherapists, occupational therapists and the wider team can agree complementary questions and avoid asking the person to complete overlapping forms without a purpose.
 
@@ -119,6 +120,7 @@ A dizziness-impact questionnaire such as DHI and a separate mood assessment may 
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 Interpret the NPQ alongside the complete history and differential assessment. Its score does not establish all five criteria. A score should not determine work capacity, driving safety or withdrawal of assistance.
 
@@ -140,6 +142,7 @@ This draft supplies no universal meaningful-change threshold for PPPD. Use the r
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 **Authored explanation example:** “The questionnaire helps us describe the situations that are difficult. The activity record tells us what you can do, what help makes it possible and what happens afterwards. Neither score alone decides your diagnosis or how much support you need. At review we will compare those details and your own priorities.”
 
@@ -159,6 +162,7 @@ Offer the person a copy. Distinguish what they reported, what was observed and w
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 Yagi and colleagues compared 50 PPPD patients with 50 other vestibular patients in a tertiary-centre retrospective study. A total-score threshold of 27 had 70% sensitivity and 68% specificity in that sample. These values leave substantial overlap; they are not universal diagnostic or disability cutoffs. (*citations* [2](#citation-2))
 

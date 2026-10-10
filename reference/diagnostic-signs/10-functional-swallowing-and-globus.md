@@ -32,6 +32,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 Starting a swallow may feel difficult, food may seem to stick, or meals may take much longer than before. You may instead notice a lump in your throat when you are not eating. These experiences help the clinician choose the right assessment; the sensation alone does not establish its cause.
 
@@ -65,6 +66,7 @@ Weight loss, dehydration, recurrent chest infection, progressive difficulty, pai
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Follow the person’s current swallowing plan, including recommended texture, position, pace and supervision. Do not offer a difficult food or large drink to see whether the symptom changes with distraction. If choking or another emergency occurs, follow local emergency guidance and the person’s care plan.
 
@@ -90,6 +92,7 @@ Record duration and meal context only after immediate swallowing and breathing s
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 **Featured technique:** Structured swallowing history and clinical assessment, with instrumental assessment when indicated.<br>
 **Diagnostic method:** Distinguish swallowing impairment from globus, look for a positive functional pattern and investigate structural or neurological alternatives.<br>

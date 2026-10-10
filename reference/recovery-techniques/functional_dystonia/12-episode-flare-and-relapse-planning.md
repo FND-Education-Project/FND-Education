@@ -20,6 +20,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What a plan can and cannot do
 
@@ -55,6 +56,7 @@ Afterward, avoid repeated testing to see whether the posture is gone. Resume a s
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Learn the agreed safety actions before an episode. Remove hazards, help the person reach the supported position and ask before touching. Offer the rehearsed cue once if the person wants it. Do not pull against the posture, restrain the person or repeatedly say “relax.”
 
@@ -70,6 +72,7 @@ Discuss any review later and briefly. Supporters can record duration, injury and
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Characterization and differential boundary
 

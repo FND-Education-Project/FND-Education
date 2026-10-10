@@ -22,6 +22,7 @@ Clinician-focused educational reference; assessment requires appropriate experti
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 This assessment compares walking under selected conditions to ask whether a positive functional pattern is present. It is useful when the person can safely undertake a meaningful comparison; it is not suitable as a compulsory series of challenges for someone who cannot stand or walk safely.
 
@@ -110,6 +111,7 @@ For each comparison, describe what changed and what stayed the same: speed, dire
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 **Supportive:** A clinically meaningful, reproducible mismatch that the examiner can explain in relation to the rest of the neurological examination.
 
@@ -135,6 +137,7 @@ Keep the diagnostic finding separate from endurance, fall risk and community mob
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 An editorial example, to adapt only to a finding actually observed:
 
@@ -156,6 +159,7 @@ Then explain the specific clinical reasoning, possible coexistence and what rema
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The sign-based review provides a clinical framework for comparing tasks and considering alternative explanations. It is not a validated score with one accuracy estimate for the whole examination. (*citations* [1](#citation-1))
 

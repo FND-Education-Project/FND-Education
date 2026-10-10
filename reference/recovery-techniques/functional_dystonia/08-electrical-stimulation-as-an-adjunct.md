@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What this technique does
 
@@ -52,6 +53,7 @@ Stop for burning, marked pain, skin injury, unexpected symptoms, dizziness or an
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not change electrode placement, intensity, timing or session length. Check that the person is in the position specified by the clinician and that the device is being used for the agreed task. Help inspect the skin if that is part of the written plan.
 
@@ -65,6 +67,7 @@ The visible contraction is not the treatment outcome. Ask whether the task impro
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and safety
 

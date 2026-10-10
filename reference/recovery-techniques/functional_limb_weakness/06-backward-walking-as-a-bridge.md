@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Why changing direction may change the pattern
 
@@ -41,6 +42,7 @@ Do not practise by walking backward through the home while watching over your sh
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Do not walk behind the person and pull them backward. Outside a clinician-approved practice area, keep attention on safe forward mobility and the prescribed aid. If a home version exists, clear the exact route, use the taught guarding position and stop when the planned number of steps is complete.
 
@@ -52,6 +54,7 @@ Do not walk behind the person and pull them backward. Outside a clinician-approv
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Selection and baseline
 

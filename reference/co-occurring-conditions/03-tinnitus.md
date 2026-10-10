@@ -14,6 +14,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### Understanding the sound
 
@@ -42,6 +43,7 @@ Recovery may mean less intrusion, better sleep and easier participation even if 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Ask whether background sound helps before switching it on. Face the person when speaking and reduce competing noise if hearing is difficult. Avoid telling them to “just ignore it”; less attention to tinnitus often develops through successful support, not an act of will.
 
@@ -53,6 +55,7 @@ Ask whether background sound helps before switching it on. Face the person when 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 Record laterality, pulsatility, hearing and vestibular symptoms, distress and sleep effects. Follow tinnitus assessment and referral guidance. Measure impact and participation as well as perceived loudness. Do not describe tinnitus CBT or auditory-gain theories as evidence for an FND diagnosis. (*citations* [1](#source-1), [3](#source-3))
 

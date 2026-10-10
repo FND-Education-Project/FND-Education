@@ -20,6 +20,7 @@ Clinician-focused educational reference; use within professional competence, con
 ---
 
 ## Purpose and Suitability
+{: #purpose-and-suitability .shareable }
 
 Measure how cognitive difficulties affect daily activities, identify useful support and review change. This guide is especially relevant to occupational therapists (OTs), with contributions from neuropsychology, speech-language therapy, nursing and the medical team.
 
@@ -151,6 +152,7 @@ Start with a supported baseline that is safe. Observe a relevant everyday activi
 ---
 
 ## Interpreting Findings
+{: #interpreting-findings .shareable }
 
 Keep three results separate: **the diagnostic formulation**, **performance in the sampled task**, and **everyday disability/support needs**. Do not merge COPM, EFPT and PROMIS into an invented total FCD score.
 
@@ -174,6 +176,7 @@ Use observations to recommend specific support and the circumstances for review.
 ---
 
 ## Explaining the Result
+{: #explaining-the-result .shareable }
 
 Authored example, not a patient quotation:
 
@@ -195,6 +198,7 @@ Give the person a short written summary of what was observed, what they reported
 ---
 
 ## Evidence and Limitations
+{: #evidence-and-limitations .shareable }
 
 The FND OT recommendations are expert consensus; their assessment tools were not FND-validated in that publication. COPM's official guidance supports its use and scoring, not an FCD-specific disability threshold. AHS provides adjacent acute-care guidance. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 

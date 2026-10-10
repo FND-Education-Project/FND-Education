@@ -18,6 +18,7 @@
 ***
 
 ## For the Person With FND
+{: #for-the-person-with-fnd .shareable }
 
 ### What reconditioning can and cannot do
 
@@ -41,6 +42,7 @@ Some discomfort or effort can be acceptable, but the plan should define what is 
 ***
 
 ## For Family, Friends, and Other Supporters
+{: #for-family-friends-and-other-supporters .shareable }
 
 Help protect the repeatable plan from both pressure and good-day overexpansion. Do not equate a temporary increase with progress or a reduction with failure. Support practical pacing: transport, task sharing, a place to sit and a plan for the rest of the day. Notice participation and recovery time, not only exercise totals.
 
@@ -52,6 +54,7 @@ Help protect the repeatable plan from both pressure and good-day overexpansion. 
 ***
 
 ## For Clinicians and the Care Team
+{: #for-clinicians-and-the-care-team .shareable }
 
 ### Assessment before prescription
 
