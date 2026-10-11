@@ -165,7 +165,7 @@ Keep distress and fear in the care discussion without using them as proof of a p
 
 The inventory originally cited Aziz and colleagues' 2016 Rome IV paper. It remains linked for provenance; the current criteria discussion uses the Foundation's Rome V page and the 2026 oesophageal update. These are diagnostic frameworks, not accuracy estimates for an FND bedside test. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
-The official Rome V criteria were checked directly. Full-text appraisal of the 2026 journal article was unavailable. Do not treat a normal investigation as evidence of voluntary control or use a criteria diagnosis to infer low disability.
+Assessment also considers nutrition, safety and daily participation. Neither a normal investigation nor a criteria diagnosis measures the person’s degree of disability.
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -201,7 +201,7 @@ A simple labelled mouth–throat–oesophagus diagram can locate the questions w
 
 | Citation | Full citation |
 |---|---|
-| <a id="citation-1"></a>**[1]** | Aziz Q, Fass R, Gyawali CP, et al. Functional Esophageal Disorders. *Gastroenterology*. 2016;:S0016-5085(16)00178-5. [DOI](https://doi.org/10.1053/j.gastro.2016.02.012). [PMID: 27144625](https://pubmed.ncbi.nlm.nih.gov/27144625/). [FND-CIT-0164](../../../research/citation-index.md#fnd-cit-0164). |
+| <a id="citation-1"></a>**[1]** | Aziz Q, Fass R, Gyawali CP, et al. Functional Esophageal Disorders. *Gastroenterology*. 2016;150(6):1368–1379. [DOI](https://doi.org/10.1053/j.gastro.2016.02.012). [PMID: 27144625](https://pubmed.ncbi.nlm.nih.gov/27144625/). [FND-CIT-0164](../../../research/citation-index.md#fnd-cit-0164). |
 | <a id="citation-2"></a>**[2]** | Rome Foundation. Rome V Criteria. Sections A4 (Globus) and A5 (Functional Dysphagia). [Current criteria](https://theromefoundation.org/rome-v-criteria/). Accessed October 3, 2026. [FND-CIT-0248](../../../research/citation-index.md#fnd-cit-0248). |
 | <a id="citation-3"></a>**[3]** | Gyawali CP, Roman S, Zerbib F, Savarino EV, Bhatia S, Fass R, Pandolfino JE. Functional Esophageal Disorders. *Gastroenterology*. 2026;170(6):1224–1239. [DOI](https://doi.org/10.1053/j.gastro.2026.02.005). [PMID: 42031441](https://pubmed.ncbi.nlm.nih.gov/42031441/). [FND-CIT-0249](../../../research/citation-index.md#fnd-cit-0249). |
 

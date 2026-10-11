@@ -903,9 +903,9 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 **Expanded reading path:** [Cross-task comparison](../../diagnostic-signs/functional_speech_and_voice_symptoms/01-cross-task-speech-comparison.md) → [stuttering and prosody](../../diagnostic-signs/functional_speech_and_voice_symptoms/02-stuttering-and-prosody-assessment.md) → [voice/laryngeal assessment](../../diagnostic-signs/functional_speech_and_voice_symptoms/03-voice-and-laryngeal-assessment.md) → [eight-entry inventory](../../diagnostic-signs/functional_speech_and_voice_symptoms/technique-inventory.md).
 
-**Evidence update — October 2, 2026:** Consensus and case-series sources remain the clinical framework. Publisher/PMC full-text retrieval was blocked; indexed excerpts and abstracts were checked. No complete primary-study reappraisal is claimed.
+**Evidence review — October 10, 2026:** Baker’s long supplementary version remains the principal clinical framework. The historical case series is descriptive and is unlinked publicly because of its causal framing. Access and currentness decisions are in the [speech/voice review](speech-voice-evidence-review.md).
 
-- [ ] Freeburn JL, Finkelstein SA, Westlin C, Perez DL, Rezaii N. Using Digital Speech Markers to Classify Functional Speech Disorder: A Proof-of-Concept Pilot Study. *Movement Disorders*. 2025;40(8):1704–1708. [DOI](https://doi.org/10.1002/mds.30256). [PMID: 40448475](https://pubmed.ncbi.nlm.nih.gov/40448475/). Abstract only; external neurological-control validation needed.
+- [ ] Freeburn JL, Finkelstein SA, Westlin C, Perez DL, Rezaii N. Using Digital Speech Markers to Classify Functional Speech Disorder: A Proof-of-Concept Pilot Study. *Movement Disorders*. 2025;40(8):1704–1708. [DOI](https://doi.org/10.1002/mds.30256). PMID: 40448475. Abstract only; external neurological-control validation needed.
 - [ ] American Speech-Language-Hearing Association. Stuttering, Cluttering, and Fluency. *Practice Portal*. Accessed October 2, 2026. [Professional guidance](https://www.asha.org/practice-portal/clinical-topics/fluency-disorders/). Adjacent assessment guidance, not FND diagnostic evidence.
 - [ ] American Speech-Language-Hearing Association. Voice Disorders. *Practice Portal*. Accessed October 2, 2026. [Professional guidance](https://www.asha.org/practice-portal/clinical-topics/voice-disorders/). Broader voice terminology and laryngeal assessment.
 - [ ] American Speech-Language-Hearing Association. Augmentative and Alternative Communication (AAC). *Practice Portal*. Accessed October 2, 2026. [Communication-access guidance](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/). Access guidance rather than an FND treatment trial.
@@ -915,43 +915,53 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 - [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767)
 
+### Detailed-page source map
+
+- **Cross-task comparison:** Baker 2021 (positive clinical assessment), Chung 2018 (descriptive cases), ASHA AAC (communication access).
+- **Stuttering/prosody:** Baker 2021 and Chung 2018; ASHA Fluency supports adjacent participation assessment only, not functional-stuttering validation.
+- **Voice/larynx:** Baker 2021, Chung 2018 and ASHA Voice; distinguish laryngeal investigation from positive functional assessment.
+
+### Newer candidate awaiting full appraisal
+
+- [ ] Freeburn JL, Baker J. Functional Speech and Voice Disorders: Approaches to Diagnosis and Management. *Neurologic Clinics*. 2023;41(4):635–646. [DOI](https://doi.org/10.1016/j.ncl.2023.02.005). Institutional abstract/metadata checked; full text pending. A review, not new diagnostic validation.
+
 ### Technique / inventory review order
 
 #### Automatic versus requested speech
 
-- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. https://doi.org/10.1136/jnnp-2021-326767
-- [ ] Chung DS, Wettroth C, Hallett M, Maurer CW. Functional Speech and Voice Disorders: Case Series and Literature Review. *Movement disorders clinical practice*. 2018;5(3):312-316. [DOI](https://doi.org/10.1002/mdc3.12609). [PMID: 30800702](https://pubmed.ncbi.nlm.nih.gov/30800702/).
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. DOI: 10.1136/jnnp-2021-326767
+- [ ] Chung DS, Wettroth C, Hallett M, Maurer CW. Functional Speech and Voice Disorders: Case Series and Literature Review. *Movement disorders clinical practice*. 2018;5(3):312-316. [DOI](https://doi.org/10.1002/mdc3.12609). PMID: 30800702.
 
 #### Phonation during cough or laughter
 
-- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. https://doi.org/10.1136/jnnp-2021-326767
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. DOI: 10.1136/jnnp-2021-326767
 - [ ] Chung DS, Wettroth C, Hallett M, Maurer CW. Functional Speech and Voice Disorders: Case Series and Literature Review. *Movement disorders clinical practice*. 2018;5(3):312-316. DOI. PMID: 30800702.
 
 #### Singing versus speech
 
-- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. https://doi.org/10.1136/jnnp-2021-326767
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. DOI: 10.1136/jnnp-2021-326767
 
 #### Distractibility and variability
 
-- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. https://doi.org/10.1136/jnnp-2021-326767
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. DOI: 10.1136/jnnp-2021-326767
 - [ ] Chung DS, Wettroth C, Hallett M, Maurer CW. Functional Speech and Voice Disorders: Case Series and Literature Review. *Movement disorders clinical practice*. 2018;5(3):312-316. DOI. PMID: 30800702.
 
 #### Stuttering and prosody assessment
 
-- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. https://doi.org/10.1136/jnnp-2021-326767
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. DOI: 10.1136/jnnp-2021-326767
 - [ ] Chung DS, Wettroth C, Hallett M, Maurer CW. Functional Speech and Voice Disorders: Case Series and Literature Review. *Movement disorders clinical practice*. 2018;5(3):312-316. DOI. PMID: 30800702.
 
 #### Articulation and language comparison
 
-- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. https://doi.org/10.1136/jnnp-2021-326767
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. DOI: 10.1136/jnnp-2021-326767
 
 #### Laryngoscopy and stroboscopy
 
-- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. https://doi.org/10.1136/jnnp-2021-326767
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. DOI: 10.1136/jnnp-2021-326767
 
 #### Immediate response to a speech or voice cue
 
-- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. https://doi.org/10.1136/jnnp-2021-326767
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. DOI: 10.1136/jnnp-2021-326767
 - [ ] Chung DS, Wettroth C, Hallett M, Maurer CW. Functional Speech and Voice Disorders: Case Series and Literature Review. *Movement disorders clinical practice*. 2018;5(3):312-316. DOI. PMID: 30800702.
 
 ### Review completion
@@ -973,48 +983,60 @@ Read the definition as a proposal, the CODES findings as associations, the White
 **Version update — October 3, 2026:** Use Rome V for current oesophageal criteria; the repeated 2016 source below remains historical. Clinical comparisons, formal criteria and investigations are separate types of evidence.
 
 - [ ] Rome Foundation. Rome V Criteria. Sections A4 (Globus) and A5 (Functional Dysphagia). [Current criteria](https://theromefoundation.org/rome-v-criteria/). Accessed October 3, 2026. Current criteria checked directly. Educational paraphrase on the detailed criteria page; not the licensed questionnaire.
-- [ ] Gyawali CP, Roman S, Zerbib F, Savarino EV, Bhatia S, Fass R, Pandolfino JE. Functional Esophageal Disorders. *Gastroenterology*. 2026;170(6):1224–1239. [DOI](https://doi.org/10.1053/j.gastro.2026.02.005). [PMID: 42031441](https://pubmed.ncbi.nlm.nih.gov/42031441/). Current oesophageal diagnostic framework. Bibliographic and indexed abstract information checked; full-text appraisal unavailable.
+- [ ] Gyawali CP, Roman S, Zerbib F, Savarino EV, Bhatia S, Fass R, Pandolfino JE. Functional Esophageal Disorders. *Gastroenterology*. 2026;170(6):1224–1239. [DOI](https://doi.org/10.1053/j.gastro.2026.02.005). PMID: 42031441. Current oesophageal diagnostic framework. Bibliographic and indexed abstract information checked; full-text appraisal unavailable.
 - [ ] American Speech-Language-Hearing Association. Flexible Endoscopic Evaluation of Swallowing (FEES). *Practice Portal*. [Procedure guidance](https://www.asha.org/practice-portal/resources/flexible-endoscopic-evaluation-of-swallowing/). Accessed October 3, 2026. Professional procedure guidance checked directly. Supports method, selection and visibility limits, not FND diagnostic accuracy.
 - [ ] American Speech-Language-Hearing Association. Videofluoroscopic Swallow Study (VFSS). *Practice Portal*. [Procedure guidance](https://www.asha.org/practice-portal/resources/videofluoroscopic-swallow-study/). Accessed October 3, 2026. Professional procedure guidance checked directly. Supports method and sampling limits, not FND diagnostic accuracy.
-- [ ] Lu PW, Chen CC, Wu JF, et al. Clinical Characteristics and Associated Psychosocial Dysfunction in Patients With Functional Dysphagia: A Study Based on High-Resolution Impedance Manometry and Rome IV Criteria. *Clinical and Translational Gastroenterology*. 2022;13(7):e00511. [DOI](https://doi.org/10.14309/ctg.0000000000000511). [PMID: 35905413](https://pubmed.ncbi.nlm.nih.gov/35905413/). Institutional abstract reviewed. Selected Rome-IV-defined cohort and questionnaire associations; not causal evidence or validation of motor-FND signs.
+- [ ] Lu PW, Chen CC, Wu JF, et al. Clinical Characteristics and Associated Psychosocial Dysfunction in Patients With Functional Dysphagia: A Study Based on High-Resolution Impedance Manometry and Rome IV Criteria. *Clinical and Translational Gastroenterology*. 2022;13(7):e00511. [DOI](https://doi.org/10.14309/ctg.0000000000000511). PMID: 35905413. Institutional abstract reviewed. Selected Rome-IV-defined cohort and questionnaire associations; not causal evidence or validation of motor-FND signs.
 - [ ] NHS. Dysphagia (swallowing problems). [Public safety guidance](https://www.nhs.uk/symptoms/swallowing-problems-dysphagia/). Accessed October 3, 2026. Public symptom and escalation guidance checked directly; not FND-specific evidence.
 
 ### Read first — symptom-level evidence
 
-- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. https://doi.org/10.1136/jnnp-2021-326767
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. DOI: 10.1136/jnnp-2021-326767
+
+### Detailed-page source map
+
+- **Clinical swallowing:** Baker 2021 and ASHA Adult Dysphagia; assess safety, nutrition and positive findings separately.
+- **FEES/VFSS:** Baker 2021, ASHA Adult Dysphagia and the individual ASHA procedure pages; neither investigation independently diagnoses FND.
+- **Globus/oesophageal criteria:** Rome Foundation Rome V and Gyawali 2026 first; Aziz 2016 for historical provenance only. The inventory now follows the same current criteria.
+
+### Newer candidate awaiting full appraisal
+
+- [ ] Anderson J, Blonski W, Gaziano J, et al. Multidisciplinary Assessment and Management of Functional Dysphagia. *Gastro Hep Advances*. 2026;5(1):100762 (online 2025). [DOI](https://doi.org/10.1016/j.gastha.2025.100762). Abstract/metadata checked; full text pending. Narrative multidisciplinary review using Rome IV, not a replacement for Rome V.
+
+See the [swallowing/globus review](swallowing-globus-evidence-review.md) for the October 10 source-access record.
 
 ### Technique / inventory review order
 
 #### Clinical swallowing assessment
 
-- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. https://doi.org/10.1136/jnnp-2021-326767
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. DOI: 10.1136/jnnp-2021-326767
 - [ ] American Speech-Language-Hearing Association. Adult Dysphagia. *Practice Portal*. [Source](https://www.asha.org/practice-portal/clinical-topics/adult-dysphagia/). Accessed September 19, 2026.
 
 #### Cross-task swallowing comparison
 
-- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. https://doi.org/10.1136/jnnp-2021-326767
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. DOI: 10.1136/jnnp-2021-326767
 
 #### FEES
 
-- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. https://doi.org/10.1136/jnnp-2021-326767
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. DOI: 10.1136/jnnp-2021-326767
 - [ ] American Speech-Language-Hearing Association. Adult Dysphagia. *Practice Portal*. Source. Accessed September 19, 2026.
 
 #### Videofluoroscopic swallowing study
 
-- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. https://doi.org/10.1136/jnnp-2021-326767
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. DOI: 10.1136/jnnp-2021-326767
 - [ ] American Speech-Language-Hearing Association. Adult Dysphagia. *Practice Portal*. Source. Accessed September 19, 2026.
 
 #### Rome criteria for functional dysphagia
 
-- [ ] Aziz Q, Fass R, Gyawali CP, et al. Functional Esophageal Disorders. *Gastroenterology*. 2016;:S0016-5085(16)00178-5. [DOI](https://doi.org/10.1053/j.gastro.2016.02.012). [PMID: 27144625](https://pubmed.ncbi.nlm.nih.gov/27144625/).
+- [ ] Aziz Q, Fass R, Gyawali CP, et al. Functional Esophageal Disorders. *Gastroenterology*. 2016;150(6):1368–1379. [DOI](https://doi.org/10.1053/j.gastro.2016.02.012). PMID: 27144625.
 
 #### Rome criteria for globus
 
-- [ ] Aziz Q, Fass R, Gyawali CP, et al. Functional Esophageal Disorders. *Gastroenterology*. 2016;:S0016-5085(16)00178-5. DOI. PMID: 27144625.
+- [ ] Aziz Q, Fass R, Gyawali CP, et al. Functional Esophageal Disorders. *Gastroenterology*. 2016;150(6):1368–1379. DOI. PMID: 27144625.
 
 #### Endoscopy, biopsy and oesophageal physiology
 
-- [ ] Aziz Q, Fass R, Gyawali CP, et al. Functional Esophageal Disorders. *Gastroenterology*. 2016;:S0016-5085(16)00178-5. DOI. PMID: 27144625.
+- [ ] Aziz Q, Fass R, Gyawali CP, et al. Functional Esophageal Disorders. *Gastroenterology*. 2016;150(6):1368–1379. DOI. PMID: 27144625.
 
 ### Review completion
 
@@ -1036,7 +1058,7 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 ### Read first — symptom-level evidence
 
-- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. https://doi.org/10.1136/jnnp-2021-326767
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. DOI: 10.1136/jnnp-2021-326767
 
 - [ ] Parker SM, Smith JA, Birring SS, et al. British Thoracic Society Clinical Statement on chronic cough in adults. *Thorax*. 2023;78(Suppl 6):s3–s19. [DOI](https://doi.org/10.1136/thorax-2023-220592).
 - [ ] Leong P, Vertigan AE, Hew M, et al. Diagnosis of vocal cord dysfunction/inducible laryngeal obstruction: An International Delphi Consensus Study. *Journal of Allergy and Clinical Immunology*. 2023;152(4):899–906. [DOI](https://doi.org/10.1016/j.jaci.2023.06.007).
@@ -1057,7 +1079,7 @@ Read the definition as a proposal, the CODES findings as associations, the White
 
 #### Task and attention comparisons
 
-- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. https://doi.org/10.1136/jnnp-2021-326767
+- [ ] Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. DOI: 10.1136/jnnp-2021-326767
 - [ ] Vertigan AE, Murad MH, Pringsheim T, et al. Somatic Cough Syndrome (Previously Referred to as Psychogenic Cough) and Tic Cough (Previously Referred to as Habit Cough) in Adults and Children: CHEST Guideline and Expert Panel Report. *Chest*. 2015;148(1):24-31. DOI. PMID: 25856777.
 
 #### Laryngoscopy during typical airway symptoms

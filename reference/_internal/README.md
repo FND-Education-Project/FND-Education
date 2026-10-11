@@ -25,6 +25,9 @@ If a document becomes reader-ready, move it out of `_internal` into the appropri
 - [Visual evidence review](diagnostic-signs/visual-evidence-review.md) — October 10 source decisions and newer field-study candidate.
 - [Surrounding diagnostic pages audit](diagnostic-signs/shared-diagnostic-pages-evidence-review.md) — collection, shared explanations and cauda equina overlap.
 
+- [Speech and voice evidence review](diagnostic-signs/speech-voice-evidence-review.md) — October 10 source framing and currentness checks.
+- [Swallowing and globus evidence review](diagnostic-signs/swallowing-globus-evidence-review.md) — October 10 Rome V and instrumental-assessment checks.
+
 ## Community-source review material
 
 - [Community experience quote notebook](recovery-techniques/community-experience-quotes.md) — working source notebook that groups public lived-experience quotations by symptom and technique. These accounts are review material, not evidence that a treatment works or fails.

@@ -174,19 +174,19 @@ All eight original entries are linked below. Their complete descriptions and cit
 ### Evidence notes
 
 - The 2021 international consensus is the principal clinical framework, including Stone and colleagues. It provides expert recommendations, not a validated diagnostic battery. (*citations* [1](#citation-1))
-- Chung and colleagues illustrate speech and voice presentations with six clinical cases and a literature review. This descriptive series cannot supply generalizable sensitivity, specificity or prognosis. Its older psychological-causation terminology should not be read as establishing a necessary cause. (*citations* [2](#citation-2))
+- Chung and colleagues illustrate speech and voice presentations with six clinical cases and a literature review. This descriptive series cannot supply generalizable sensitivity, specificity or prognosis. Diagnosis rests on positive clinical features; a psychological cause does not have to be demonstrated. (*citations* [2](#citation-2))
 - ASHA voice and AAC guidance supports coordinated assessment and communication access. Its fluency page explicitly excludes acquired neurogenic and functional fluency disorders; it is used here for adjacent assessment and participation principles, not FND validation. (*citations* [3](#citation-3), [4](#citation-4), [7](#citation-7))
 
 ### Emerging research: digital speech markers
 
-A 2025 pilot compared a picture-description task in 30 adults with functional speech disorder and 47 healthy controls. Acoustic and combined models reported AUC 0.98. AUC measures discrimination across thresholds; it does not mean 98% clinical diagnostic accuracy. Neurological speech-disorder controls and independent replication are needed. Only the publisher abstract was available for this update, so classifier methods were not fully appraised. This remains research, not a new recommended clinical test. (*citations* [6](#citation-6))
+A 2025 pilot compared a picture-description task in 30 adults with functional speech disorder and 47 healthy controls. Acoustic and combined models reported AUC 0.98. AUC measures discrimination across thresholds; it does not mean 98% clinical diagnostic accuracy. Neurological speech-disorder controls and independent replication are needed. This remains research, not a new recommended clinical test. (*citations* [6](#citation-6))
 
 ### Citation table
 
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
-| <a id="citation-2"></a>**[2]** | Chung DS, Wettroth C, Hallett M, Maurer CW. Functional Speech and Voice Disorders: Case Series and Literature Review. *Movement disorders clinical practice*. 2018;5(3):312-316. [DOI](https://doi.org/10.1002/mdc3.12609). [PMID: 30800702](https://pubmed.ncbi.nlm.nih.gov/30800702/). [FND-CIT-0169](../../research/citation-index.md#fnd-cit-0169). |
+| <a id="citation-2"></a>**[2]** | Chung DS, Wettroth C, Hallett M, Maurer CW. Functional Speech and Voice Disorders: Case Series and Literature Review. *Movement disorders clinical practice*. 2018;5(3):312-316. DOI: 10.1002/mdc3.12609. PMID: 30800702. FND-CIT-0169. |
 | <a id="citation-3"></a>**[3]** | American Speech-Language-Hearing Association. Voice Disorders. *Practice Portal*. Accessed October 2, 2026. [Professional guidance](https://www.asha.org/practice-portal/clinical-topics/voice-disorders/). [FND-CIT-0109](../../research/citation-index.md#fnd-cit-0109). |
 | <a id="citation-4"></a>**[4]** | American Speech-Language-Hearing Association. Augmentative and Alternative Communication (AAC). *Practice Portal*. Accessed October 2, 2026. [Communication-access guidance](https://www.asha.org/practice-portal/professional-issues/augmentative-and-alternative-communication/). [FND-CIT-0106](../../research/citation-index.md#fnd-cit-0106). |
 | <a id="citation-5"></a>**[5]** | NHS. Symptoms of a stroke. Reviewed September 12, 2024; accessed October 2, 2026. [Safety guidance](https://www.nhs.uk/conditions/stroke/symptoms/). [FND-CIT-0108](../../research/citation-index.md#fnd-cit-0108). |
