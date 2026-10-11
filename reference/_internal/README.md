@@ -31,6 +31,9 @@ If a document becomes reader-ready, move it out of `_internal` into the appropri
 - [Cough and upper-airway evidence review](diagnostic-signs/cough-upper-airway-evidence-review.md) — October 11 current assessment sources and classification boundaries.
 - [Cognitive evidence review](diagnostic-signs/cognitive-evidence-review.md) — October 11 neuropsychological evidence and OT measurement review.
 
+- [PPPD evidence review](diagnostic-signs/pppd-evidence-review.md) — October 11 criteria and questionnaire evidence checks.
+- [Facial symptoms evidence review](diagnostic-signs/facial-evidence-review.md) — October 11 clinical framing and descriptive-cohort decisions.
+
 ## Community-source review material
 
 - [Community experience quote notebook](recovery-techniques/community-experience-quotes.md) — working source notebook that groups public lived-experience quotations by symptom and technique. These accounts are review material, not evidence that a treatment works or fails.

@@ -2568,3 +2568,13 @@ Current ASHA ILO guidance and the October 2026 FCD review added. Public access n
 |---|---|
 | [FND-CIT-0269](#fnd-cit-0269) | [11-functional-cough-and-upper-airway-symptoms.md](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) · [functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md](../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md) · [functional_cough_and_upper_airway_symptoms/technique-inventory.md](../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/technique-inventory.md) |
 | [FND-CIT-0270](#fnd-cit-0270) | [12-functional-cognitive-disorder.md](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) · [functional_cognitive_disorder/02-neuropsychological-assessment-and-validity.md](../reference/diagnostic-signs/functional_cognitive_disorder/02-neuropsychological-assessment-and-validity.md) |
+
+## FND-CIT-0271
+
+Kim HJ, Park JH, Kim JS. Diagnostic utility of Niigata Persistent Postural-Perceptual Dizziness (PPPD) Questionnaire (NPQ) for PPPD in comparison to dizziness handicap inventory. *Journal of Vestibular Research*. 2026;36(3):154–163. Published online September 23, 2025. [DOI](https://doi.org/10.1177/09574271251382800).
+
+**Type and scope:** Korean NPQ validation in a tertiary dizziness population; symptom measurement and limited diagnostic discrimination, not a replacement for consensus criteria.
+
+## PPPD and facial evidence-presentation review — October 11, 2026
+
+PPPD overview, questionnaire guide and inventory now cite 0271 alongside the original NPQ and French validation; the inventory also adds 0262. The facial jaw/tongue guide adds the existing functional-dystonia review (0021). Fasano (0052) and Yoshida (0053) retain their exact bibliographies and IDs as plain text on the reviewed facial pages; original source records remain intact.

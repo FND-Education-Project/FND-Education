@@ -1212,11 +1212,13 @@ Evidence-presentation pass complete; specialist/human appraisal remains open. Se
 
 **Page to review:** [Persistent Postural-Perceptual Dizziness](../../diagnostic-signs/13-persistent-postural-perceptual-dizziness.md)
 
+**Evidence-presentation review:** [October 11 source decisions and remaining checks](pppd-evidence-review.md).
+
 ### Read first — symptom-level evidence
 
 - [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622)
 
-### Detailed-page reading — October 5, 2026
+### Detailed-page reading — updated October 11, 2026
 
 - [PPPD Criteria and Clinical History](../../diagnostic-signs/persistent_postural_perceptual_dizziness/01-criteria-and-clinical-history.md)
 - [Vestibular and Differential Assessment for PPPD](../../diagnostic-signs/persistent_postural_perceptual_dizziness/02-vestibular-and-differential-assessment.md)
@@ -1224,8 +1226,10 @@ Evidence-presentation pass complete; specialist/human appraisal remains open. Se
 - [PPPD Diagnostic Inventory](../../diagnostic-signs/persistent_postural_perceptual_dizziness/technique-inventory.md)
 
 - [ ] Staab et al., 2017. Criteria, making a diagnosis and differential sections (source linked above).
-- [ ] Yagi C, Morita Y, Kitazawa M, et al. A Validated Questionnaire to Assess the Severity of Persistent Postural-Perceptual Dizziness (PPPD): The Niigata PPPD Questionnaire (NPQ). *Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology*. 2019;40(7):e747-e752. [DOI](https://doi.org/10.1097/mao.0000000000002325). [PMID: 31219964](https://pubmed.ncbi.nlm.nih.gov/31219964/).
+- [ ] Yagi C, Morita Y, Kitazawa M, et al. A Validated Questionnaire to Assess the Severity of Persistent Postural-Perceptual Dizziness (PPPD): The Niigata PPPD Questionnaire (NPQ). *Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology*. 2019;40(7):e747-e752. [DOI](https://doi.org/10.1097/mao.0000000000002325). PMID: 31219964.
 - [ ] Meletaki V, Gobinet M, Léonard J, Elzière M, Lopez C. French adaptation and validation of the Niigata PPPD Questionnaire: measure of severity of Persistent Postural-Perceptual Dizziness and its association with psychiatric comorbidities and perceived handicap. *Frontiers in Neurology*. 2024;15:1388805. [DOI](https://doi.org/10.3389/fneur.2024.1388805). Publisher methods/results/limitations checked; independent human appraisal pending.
+
+- [ ] Kim HJ, Park JH, Kim JS. Diagnostic utility of Niigata Persistent Postural-Perceptual Dizziness (PPPD) Questionnaire (NPQ) for PPPD in comparison to dizziness handicap inventory. *Journal of Vestibular Research*. 2026;36(3):154–163. Published online September 23, 2025. [DOI](https://doi.org/10.1177/09574271251382800). FND-CIT-0271. Publisher abstract and metadata checked; full methods and supplement appraisal pending.
 
 Read NPQ scores as symptom information; review later validation and measurement limits before applying thresholds. The activity record is authored, not validated.
 
@@ -1264,6 +1268,9 @@ Read NPQ scores as symptom information; review later validation and measurement 
 - [ ] Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. DOI (linked above)
 - [ ] Yagi C, Morita Y, Kitazawa M, et al. A Validated Questionnaire to Assess the Severity of Persistent Postural-Perceptual Dizziness (PPPD): The Niigata PPPD Questionnaire (NPQ). *Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology*. 2019;40(7):e747-e752. DOI. PMID: 31219964.
 
+- [ ] Meletaki et al., 2024. French NPQ validation (FND-CIT-0262; linked above).
+- [ ] Kim et al., 2026. Korean NPQ validation (FND-CIT-0271; linked above).
+
 ### Review completion
 
 - [ ] Symptom-level claims checked.
@@ -1278,24 +1285,27 @@ Read NPQ scores as symptom information; review later validation and measurement 
 
 **Page to review:** [Functional Facial Symptoms — Spasm, Droop and Weakness](../../diagnostic-signs/14-functional-facial-symptoms.md)
 
+**Evidence-presentation review:** [October 11 source decisions and remaining checks](facial-evidence-review.md).
+
 ### Read first — symptom-level evidence
 
+- [ ] Frucht et al., 2021. Functional dystonia review (FND-CIT-0021; linked earlier).
+- [ ] Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed October 11, 2026. [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/)
 - [ ] Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. [https://doi.org/10.1002/mds.25190](https://doi.org/10.1002/mds.25190)
 - [ ] Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. [https://doi.org/10.3389/fneur.2020.00123](https://doi.org/10.3389/fneur.2020.00123)
 - [ ] Popkirov S, Stone J, Buchan AM. Functional neurological disorder: a common and treatable stroke mimic. *Stroke*. 2020;51(5):1629–1635. [https://doi.org/10.1161/STROKEAHA.120.029076](https://doi.org/10.1161/STROKEAHA.120.029076)
-- [ ] Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed September 1, 2026. [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/)
 
-### Detailed-page review — October 6, 2026
+### Detailed-page review — updated October 11, 2026
 
 - [Pattern-Based Facial Examination](../../diagnostic-signs/functional_facial_symptoms/01-pattern-based-facial-examination.md)
 - [Jaw, Tongue and Mouth Assessment](../../diagnostic-signs/functional_facial_symptoms/02-jaw-tongue-and-mouth-assessment.md)
 - [Eye Closure, Facial Weakness and Differential Testing](../../diagnostic-signs/functional_facial_symptoms/03-eye-closure-weakness-and-differential-testing.md)
 - [Functional Facial Symptoms Diagnostic Inventory](../../diagnostic-signs/functional_facial_symptoms/technique-inventory.md)
 
-Read Fasano's methods, exclusions and pattern descriptions; Yoshida's selection criteria and referral limitations; and the limits of the small Schwingenschuh blink-reflex study. Horn's unilateral limb-weakness population must not be treated as isolated facial validation. The cohort full texts were checked for this expansion; the blink-reflex paper's indexed abstract was checked, and full-text appraisal remains pending. All human review checkboxes remain open.
+Read Frucht and Stone for the current clinical framework before the descriptive cohorts. Fasano (0052) and Yoshida (0053) retain plain-text public citations; see the review log for framing and research-method concerns. Read Fasano's methods, exclusions and pattern descriptions; Yoshida's selection criteria and referral limitations; and the limits of the small Schwingenschuh blink-reflex study. Horn's unilateral limb-weakness population must not be treated as isolated facial validation. The cohort full texts were checked for this expansion; the blink-reflex paper's indexed abstract was checked, and full-text appraisal remains pending. All human review checkboxes remain open.
 
 - [ ] Frucht et al., 2021. Functional dystonia review (FND-CIT-0021; linked earlier).
-- [ ] Stone. Functional facial symptoms. [Specialist explanation](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/). Diagnostic sections checked October 6, 2026.
+- [ ] Stone. Functional facial symptoms. Specialist explanation (linked earlier). Diagnostic sections rechecked October 11, 2026.
 - [ ] Malaty et al., 2022. Functional tic-like phenomena (FND-CIT-0110; linked earlier).
 - [ ] NHS. Symptoms of a stroke (FND-CIT-0108; linked earlier). Rechecked October 6, 2026.
 - [ ] NHS. Bell’s palsy. [Eye protection and time-sensitive assessment](https://www.nhs.uk/conditions/bells-palsy/). Rechecked October 6, 2026; adjacent safety guidance.
@@ -1326,7 +1336,7 @@ Read Fasano's methods, exclusions and pattern descriptions; Yoshida's selection 
 
 #### Blink-reflex recovery cycle
 
-- [ ] Schwingenschuh P, Katschnig P, Edwards MJ, et al. The blink reflex recovery cycle differs between essential and presumed psychogenic blepharospasm. *Neurology*. 2011;76(7):610-614. [DOI](https://doi.org/10.1212/wnl.0b013e31820c3074). [PMID: 21321334](https://pubmed.ncbi.nlm.nih.gov/21321334/).
+- [ ] Schwingenschuh P, Katschnig P, Edwards MJ, et al. The blink reflex recovery cycle differs between essential and presumed psychogenic blepharospasm. *Neurology*. 2011;76(7):610-614. [DOI](https://doi.org/10.1212/wnl.0b013e31820c3074). PMID: 21321334.
 
 #### Facial strength, reflexes and targeted investigations
 

@@ -176,9 +176,11 @@ Invite questions and corrections. If the evidence is uncertain, explain what is 
 ## Evidence and Limitations
 {: #evidence-and-limitations .shareable }
 
+Current clinical assessment combines a recognized movement pattern with positive functional features and examination for alternative or coexisting conditions. Functional symptoms are involuntary; psychiatric history or a normal scan does not establish the diagnosis. (*citations* [3](#citation-3), [4](#citation-4))
+
 Fasano's seven-centre retrospective series included 61 selected patients; Yoshida's single-centre series included 58 selected patients. The existing overview describes their different referral groups and clinical patterns. Neither validates this page as an independent bedside battery. (*citations* [1](#citation-1), [2](#citation-2))
 
-The Fasano paper uses historical terminology and diagnostic categories. Its description of movement patterns must not be used to infer intention or psychological cause in an individual. Selection and retrospective assessment limit generalization; a comparison based on a cohort already diagnosed by experts is not a prospective test of all new facial presentations. (*citations* [1](#citation-1))
+Selection and retrospective assessment limit generalization: describing people already diagnosed by experts does not establish accuracy in all new facial presentations.
 
 The draft does not assign sensitivity or specificity to lower-lip pulling, distractibility or the authored record. Outcome measurement and lived-experience review remain separate from assessing diagnostic signs.
 
@@ -225,14 +227,14 @@ Provide a text description, captions and a transcript. Make any comparison's tim
 
 ## Research and Sources
 
-The original outline is retained intact. Its pattern framework draws on the two clinical cohorts, the functional-dystonia review and Stone's specialist explanation. Authored recording prompts and explanation examples are not research quotations or validated instruments.
+The pattern framework draws on the functional-dystonia review and Stone's specialist explanation, with descriptive evidence from two clinical cohorts. Authored recording prompts and explanation examples are not research quotations or validated instruments.
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. [FND-CIT-0052](../../../research/citation-index.md#fnd-cit-0052). [https://doi.org/10.1002/mds.25190](https://doi.org/10.1002/mds.25190) |
-| <a id="citation-2"></a>**[2]** | — | Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. [FND-CIT-0053](../../../research/citation-index.md#fnd-cit-0053). [https://doi.org/10.3389/fneur.2020.00123](https://doi.org/10.3389/fneur.2020.00123) |
+| <a id="citation-1"></a>**[1]** | — | Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. FND-CIT-0052. DOI: 10.1002/mds.25190 |
+| <a id="citation-2"></a>**[2]** | — | Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. FND-CIT-0053. DOI: 10.3389/fneur.2020.00123 |
 | <a id="citation-3"></a>**[3]** | — | Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [FND-CIT-0021](../../../research/citation-index.md#fnd-cit-0021). [https://doi.org/10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262) |
-| <a id="citation-4"></a>**[4]** | — | Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed September 1, 2026. [FND-CIT-0056](../../../research/citation-index.md#fnd-cit-0056). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/) |
+| <a id="citation-4"></a>**[4]** | — | Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed October 11, 2026. [FND-CIT-0056](../../../research/citation-index.md#fnd-cit-0056). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/) |
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

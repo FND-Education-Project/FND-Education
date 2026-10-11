@@ -48,12 +48,14 @@ Scales can characterize exacerbating situations and severity. The Niigata PPPD Q
 
 ## Research and Sources
 
-Original local citation numbers are retained. Later questionnaire evidence is discussed in the measurement guide.
+Later French and Korean validation studies are discussed in the [questionnaire guide](03-questionnaires-and-everyday-function.md#evidence-and-limitations). They reinforce the distinction between describing symptoms and establishing the complete diagnosis. (*citations* [3](#citation-3), [4](#citation-4))
 
 | Citation | Figure | Full citation |
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | — | Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [FND-CIT-0027](../../../research/citation-index.md#fnd-cit-0027). [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622) |
 | <a id="citation-2"></a>**[2]** | — | Yagi C, Morita Y, Kitazawa M, et al. A Validated Questionnaire to Assess the Severity of Persistent Postural-Perceptual Dizziness (PPPD): The Niigata PPPD Questionnaire (NPQ). *Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology*. 2019;40(7):e747-e752. [DOI](https://doi.org/10.1097/mao.0000000000002325). [PMID: 31219964](https://pubmed.ncbi.nlm.nih.gov/31219964/). [FND-CIT-0156](../../../research/citation-index.md#fnd-cit-0156). |
+| <a id="citation-3"></a>**[3]** | — | Meletaki V, Gobinet M, Léonard J, Elzière M, Lopez C. French adaptation and validation of the Niigata PPPD Questionnaire: measure of severity of Persistent Postural-Perceptual Dizziness and its association with psychiatric comorbidities and perceived handicap. *Frontiers in Neurology*. 2024;15:1388805. [DOI](https://doi.org/10.3389/fneur.2024.1388805). [FND-CIT-0262](../../../research/citation-index.md#fnd-cit-0262). |
+| <a id="citation-4"></a>**[4]** | — | Kim HJ, Park JH, Kim JS. Diagnostic utility of Niigata Persistent Postural-Perceptual Dizziness (PPPD) Questionnaire (NPQ) for PPPD in comparison to dizziness handicap inventory. *Journal of Vestibular Research*. 2026;36(3):154–163. Published online September 23, 2025. [DOI](https://doi.org/10.1177/09574271251382800). [FND-CIT-0271](../../../research/citation-index.md#fnd-cit-0271). |
 
 **Continue:** [Functional Facial Symptoms — Spasm, Droop and Weakness](../14-functional-facial-symptoms.md)
 

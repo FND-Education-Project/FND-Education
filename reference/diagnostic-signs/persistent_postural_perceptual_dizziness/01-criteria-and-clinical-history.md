@@ -22,7 +22,7 @@ Clinician-focused educational reference; select assessment within professional c
 ## Purpose and Suitability
 {: #purpose-and-suitability .shareable }
 
-Use this guide to organize a criteria-based interview for persistent dizziness. It owns the five-criteria outline previously on the symptom overview. The [differential guide](02-vestibular-and-differential-assessment.md) addresses investigations; the [measurement guide](03-questionnaires-and-everyday-function.md) addresses symptom burden and participation.
+Use this guide to organize a criteria-based interview for persistent dizziness. Work through all five criteria together. The [differential guide](02-vestibular-and-differential-assessment.md) addresses investigations; the [measurement guide](03-questionnaires-and-everyday-function.md) addresses symptom burden and participation.
 
 > **Criterion:** A required feature of a defined diagnosis, considered together with the other required features.
 
@@ -89,7 +89,7 @@ Agree how much detail is useful. A brief retrospective timeline can be more mana
 2. **Criterion B—exacerbating factors:** Confirm that persistent symptoms are worsened by upright posture, active or passive motion, and exposure to moving or complex visual stimuli. All three characteristic factors must be represented, although their effects may differ.
 3. **Criterion C—precipitant:** Identify the vestibular, medical, neurological or psychological event that caused acute, episodic or chronic dizziness, unsteadiness or balance disruption, and establish a plausible transition into the persistent pattern.
 4. **Criterion D—impact:** Confirm clinically significant distress or functional impairment.
-5. **Criterion E—exclusion:** Determine that the symptoms are not better accounted for by another disease or disorder. Perform vestibular, neurological, cardiovascular or other assessment according to the presentation.
+5. **Criterion E—no better explanation:** Determine that the symptoms are not better accounted for by another disease or disorder. Perform vestibular, neurological, cardiovascular or other assessment according to the presentation.
 6. Document comorbid conditions rather than assuming they exclude PPPD. A person may have PPPD alongside a vestibular disorder, migraine or another condition when the complete criteria are met.
 7. Explain which criteria are present, which alternative diagnoses were considered and what will prompt reassessment.
 
@@ -128,7 +128,7 @@ Invite corrections to the summary rather than seeking a particular answer. A sup
 
 Record each criterion as supported, not supported or unresolved, with its evidence. An unresolved history calls for clarification or follow-up, not a guessed positive result. If a specific precipitant cannot be identified, particularly with gradual worsening, the consensus advises reassessment and prospective observation. (*citations* [1](#citation-1))
 
-The headings “Criterion E—exclusion” in the preserved outline and “no better explanation” in the inventory refer to the same requirement. They do not mean exhaustive normal testing establishes PPPD. Explain the positive pattern and the differential reasoning together.
+Explain the positive symptom pattern and the differential reasoning together. Criterion E allows other conditions to coexist when they do not better explain the full presentation.
 
 Criterion D establishes meaningful impact; it does not quantify required assistance or prove capacity for an entire workday. For those questions, agree a separate [everyday-function record](03-questionnaires-and-everyday-function.md#performing-the-assessment).
 
@@ -216,7 +216,7 @@ Keep text selectable, use a clear reading order and describe all five boxes in a
 
 ## Research and Sources
 
-The preserved outline and inventory are grounded in the Bárány consensus. New interview prompts and example explanations are authored educational aids. Relevant criteria, diagnostic and differential sections were checked for this expansion; clinical review remains pending.
+The criteria and differential framework come from the Bárány consensus. Interview prompts and example explanations are authored educational aids.
 
 | Citation | Figure | Full citation |
 |---|---|---|

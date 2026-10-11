@@ -4,7 +4,7 @@
 
 > **Automatically generated working draft — October 6, 2026.** Human, movement-disorders, neuro-ophthalmology, speech-language, dental/oral medicine, physiotherapy, OT, lived-experience and accessibility review pending.
 
-Seven original descriptions and their original source associations are preserved below. They include clinical patterns, comparisons and differential investigations; they are not seven independently validated tests. No new inventory entry is added.
+These seven entries cover clinical patterns, comparisons and differential investigations. Assessment combines positive functional features with examination for alternative or coexisting conditions; the entries are not seven independently validated tests. (*citations* [4](#citation-4), [5](#citation-5))
 
 ## Detailed guides
 
@@ -44,7 +44,7 @@ Testing facial power and associated neurological findings helps distinguish weak
 
 ## Interpretation update — October 6, 2026
 
-The Horn source attached to the platysma and strength entries studied people with unilateral limb weakness. It does not validate isolated facial findings. The [eye and differential guide](03-eye-closure-weakness-and-differential-testing.md#evidence-and-limitations) distinguishes this adjacent evidence from the facial cohorts and the small blink-reflex study. This note qualifies use without changing the historical inventory.
+The Horn source attached to the platysma and strength entries studied people with unilateral limb weakness. It does not validate isolated facial findings. The [eye and differential guide](03-eye-closure-weakness-and-differential-testing.md#evidence-and-limitations) distinguishes this adjacent evidence from the facial cohorts and the small blink-reflex study.
 
 ## Research and Sources
 
@@ -52,11 +52,11 @@ Original local citation numbers are retained for traceability.
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. [FND-CIT-0052](../../../research/citation-index.md#fnd-cit-0052). [https://doi.org/10.1002/mds.25190](https://doi.org/10.1002/mds.25190) |
-| <a id="citation-2"></a>**[2]** | — | Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. [FND-CIT-0053](../../../research/citation-index.md#fnd-cit-0053). [https://doi.org/10.3389/fneur.2020.00123](https://doi.org/10.3389/fneur.2020.00123) |
+| <a id="citation-1"></a>**[1]** | — | Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. FND-CIT-0052. DOI: 10.1002/mds.25190 |
+| <a id="citation-2"></a>**[2]** | — | Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. FND-CIT-0053. DOI: 10.3389/fneur.2020.00123 |
 | <a id="citation-3"></a>**[3]** | — | Popkirov S, Stone J, Buchan AM. Functional neurological disorder: a common and treatable stroke mimic. *Stroke*. 2020;51(5):1629–1635. [FND-CIT-0054](../../../research/citation-index.md#fnd-cit-0054). [https://doi.org/10.1161/STROKEAHA.120.029076](https://doi.org/10.1161/STROKEAHA.120.029076) |
 | <a id="citation-4"></a>**[4]** | — | Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [FND-CIT-0021](../../../research/citation-index.md#fnd-cit-0021). [https://doi.org/10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262) |
-| <a id="citation-5"></a>**[5]** | — | Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed September 1, 2026. [FND-CIT-0056](../../../research/citation-index.md#fnd-cit-0056). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/) |
+| <a id="citation-5"></a>**[5]** | — | Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed October 11, 2026. [FND-CIT-0056](../../../research/citation-index.md#fnd-cit-0056). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/) |
 | <a id="citation-6"></a>**[6]** | — | Horn D, Galli S, Berney A, et al. Testing Head Rotation and Flexion Is Useful in Functional Limb Weakness. *Movement disorders clinical practice*. 2017;4(4):597-602. [DOI](https://doi.org/10.1002/mdc3.12492). [PMID: 30363481](https://pubmed.ncbi.nlm.nih.gov/30363481/). [FND-CIT-0155](../../../research/citation-index.md#fnd-cit-0155). |
 | <a id="citation-7"></a>**[7]** | — | Schwingenschuh P, Katschnig P, Edwards MJ, et al. The blink reflex recovery cycle differs between essential and presumed psychogenic blepharospasm. *Neurology*. 2011;76(7):610-614. [DOI](https://doi.org/10.1212/wnl.0b013e31820c3074). [PMID: 21321334](https://pubmed.ncbi.nlm.nih.gov/21321334/). [FND-CIT-0124](../../../research/citation-index.md#fnd-cit-0124). |
 
