@@ -1,6 +1,6 @@
 # Diagnostic Review — Essential Reading in Review Order
 
-> **Internal editorial reading guide — October 10, 2026.** This file is a review aid, not a reader-facing clinical page. It is built from the sources currently cited in the diagnostic symptom, inventory and detailed-technique pages. It is **not an independent systematic literature search** and does not imply that uncited later studies, replications or conflicting evidence are unimportant.
+> **Internal editorial reading guide — October 11, 2026.** This file is a review aid, not a reader-facing clinical page. It is built from the sources currently cited in the diagnostic symptom, inventory and detailed-technique pages. It is **not an independent systematic literature search** and does not imply that uncited later studies, replications or conflicting evidence are unimportant.
 
 ## How to use this guide
 
@@ -1063,11 +1063,26 @@ See the [swallowing/globus review](swallowing-globus-evidence-review.md) for the
 - [ ] Parker SM, Smith JA, Birring SS, et al. British Thoracic Society Clinical Statement on chronic cough in adults. *Thorax*. 2023;78(Suppl 6):s3–s19. [DOI](https://doi.org/10.1136/thorax-2023-220592).
 - [ ] Leong P, Vertigan AE, Hew M, et al. Diagnosis of vocal cord dysfunction/inducible laryngeal obstruction: An International Delphi Consensus Study. *Journal of Allergy and Clinical Immunology*. 2023;152(4):899–906. [DOI](https://doi.org/10.1016/j.jaci.2023.06.007).
 
+### Detailed-page source map — October 11, 2026
+
+- **Clinical cough:** Baker 2021, BTS 2023 and CHEST 2015; distinguish functional formulation from respiratory differential assessment.
+- **Tic/somatic cough:** CHEST 2015 first; Malaty 2022 for the functional tic-like boundary (source first linked in the speech section).
+- **Laryngoscopy:** current ASHA guidance and Leong 2023; Haines 2020 for historical context. The inventory now includes the same contemporary sources.
+
+- [ ] American Speech-Language-Hearing Association. Inducible Laryngeal Obstruction (ILO). *Practice Portal*. [Professional guidance](https://www.asha.org/practice-portal/clinical-topics/inducible-laryngeal-obstruction/). Accessed October 11, 2026.
+
+### Later primary studies awaiting full appraisal
+
+- [ ] Stojanovic S, et al. Mannitol provocation enhances laryngoscopic diagnosis of suspected inducible laryngeal obstruction. *Annals of Allergy, Asthma & Immunology*. 2025;134(5):563–569. [DOI](https://doi.org/10.1016/j.anai.2025.02.001).
+- [ ] Wong M, Gardner L, Denton E, et al. Interrater reliability of laryngoscopic visual criteria for diagnosis of inducible laryngeal obstruction. *Journal of Allergy and Clinical Immunology: In Practice*. 2026;14(3):722–724. [DOI](https://doi.org/10.1016/j.jaip.2025.11.034). Use this final report rather than relying on the earlier conference abstract.
+
+Evidence-presentation pass complete; specialist/human appraisal remains open. See the [cough review record](cough-upper-airway-evidence-review.md).
+
 ### Technique / inventory review order
 
 #### Tic-cough assessment
 
-- [ ] Vertigan AE, Murad MH, Pringsheim T, et al. Somatic Cough Syndrome (Previously Referred to as Psychogenic Cough) and Tic Cough (Previously Referred to as Habit Cough) in Adults and Children: CHEST Guideline and Expert Panel Report. *Chest*. 2015;148(1):24-31. [DOI](https://doi.org/10.1378/chest.15-0423). [PMID: 25856777](https://pubmed.ncbi.nlm.nih.gov/25856777/).
+- [ ] Vertigan AE, Murad MH, Pringsheim T, et al. Somatic Cough Syndrome (Previously Referred to as Psychogenic Cough) and Tic Cough (Previously Referred to as Habit Cough) in Adults and Children: CHEST Guideline and Expert Panel Report. *Chest*. 2015;148(1):24-31. [DOI](https://doi.org/10.1378/chest.15-0423). PMID: 25856777.
 
 #### Somatic cough syndrome criteria
 
@@ -1084,7 +1099,7 @@ See the [swallowing/globus review](swallowing-globus-evidence-review.md) for the
 
 #### Laryngoscopy during typical airway symptoms
 
-- [ ] Haines J, Esposito K, Slinger C, et al. UK consensus statement on the diagnosis of inducible laryngeal obstruction in light of the COVID-19 pandemic. *Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology*. 2020;50(12):1287-1293. [DOI](https://doi.org/10.1111/cea.13745). [PMID: 33034142](https://pubmed.ncbi.nlm.nih.gov/33034142/).
+- [ ] Haines J, Esposito K, Slinger C, et al. UK consensus statement on the diagnosis of inducible laryngeal obstruction in light of the COVID-19 pandemic. *Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology*. 2020;50(12):1287-1293. [DOI](https://doi.org/10.1111/cea.13745). PMID: 33034142.
 
 #### Continuous laryngoscopy during exercise
 
@@ -1116,7 +1131,24 @@ See the [swallowing/globus review](swallowing-globus-evidence-review.md) for the
 ### Read first — symptom-level evidence
 
 - [ ] McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. [https://doi.org/10.1017/S1092852921000845](https://doi.org/10.1017/S1092852921000845)
-- [ ] Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain : a journal of neurology*. 2020;143(10):2895-2903. [DOI](https://doi.org/10.1093/brain/awaa224). [PMID: 32791521](https://pubmed.ncbi.nlm.nih.gov/32791521/).
+- [ ] Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain : a journal of neurology*. 2020;143(10):2895-2903. [DOI](https://doi.org/10.1093/brain/awaa224). PMID: 32791521.
+
+### Detailed-page source map — October 11, 2026
+
+- **Clinical assessment:** Ball 2020 first, then McWhirter 2022; positive same-domain comparison and differential diagnosis.
+- **Neuropsychology:** current Mammì review below, Ball 2020 and Ball 2021; profiles interpreted within the full assessment.
+- **OT measurement:** Nicholson consensus, AHS guide, then the official COPM/EFPT/PROMIS routes and Baum stroke validation below. Measure daily function separately from diagnosis.
+- **Models/checklists:** McWhirter, Cabreira checklist and FCD-Q8; separate instruments and validation stages.
+
+- [ ] Mammì A, Reuber M, Pascarella A, et al. Neuropsychological assessment in functional cognitive disorder: a scoping review. *Psychiatry Research*. 2026;117508. Online October 8; journal pre-proof. [DOI](https://doi.org/10.1016/j.psychres.2026.117508). Publisher preview checked; full appraisal pending.
+
+### Additional contextual reading and follow-up
+
+- [ ] Cabreira V, Frostholm L, McWhirter L, Stone J, Carson A. Clinical signs in functional cognitive disorders: A systematic review and diagnostic meta-analysis. *Journal of Psychosomatic Research*. 2023;173:111447. [DOI](https://doi.org/10.1016/j.jpsychores.2023.111447). Background for checklist development; not a reason to remove accommodations.
+- [ ] Millman LSM, Williams IA, Jungilligens J, Pick S. Neurocognitive performance in functional neurological disorder: A systematic review and meta-analysis. *European Journal of Neurology*. 2025;32(1):e16386 (online 2024). [DOI](https://doi.org/10.1111/ene.16386). Mixed FND populations, not an FCD-specific diagnostic standard.
+- [ ] The long-term memory sign: A clinical marker of functional cognitive disorders. 2026. [DOI](https://doi.org/10.1080/23279095.2026.2658676). Primary abstract identified; complete bibliography and methods appraisal pending before any public sign addition.
+
+Evidence-presentation pass complete; specialist/human appraisal remains open. See the [cognitive review record](cognitive-evidence-review.md).
 
 ### Technique / inventory review order
 
@@ -1126,26 +1158,26 @@ See the [swallowing/globus review](swallowing-globus-evidence-review.md) for the
 
 #### Conversation versus formal performance
 
-- [ ] McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. https://doi.org/10.1017/S1092852921000845
+- [ ] McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. DOI: 10.1017/S1092852921000845
 - [ ] Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain : a journal of neurology*. 2020;143(10):2895-2903. DOI. PMID: 32791521.
 
 #### Everyday function and collateral history
 
-- [ ] McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. https://doi.org/10.1017/S1092852921000845
+- [ ] McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. DOI: 10.1017/S1092852921000845
 - [ ] Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain : a journal of neurology*. 2020;143(10):2895-2903. DOI. PMID: 32791521.
 
 #### Neuropsychological pattern
 
 - [ ] Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain : a journal of neurology*. 2020;143(10):2895-2903. DOI. PMID: 32791521.
-- [ ] Ball HA, Swirski M, Newson M, et al. Differentiating Functional Cognitive Disorder from Early Neurodegeneration: A Clinic-Based Study. *Brain sciences*. 2021;11(6):800. [DOI](https://doi.org/10.3390/brainsci11060800). [PMID: 34204389](https://pubmed.ncbi.nlm.nih.gov/34204389/).
+- [ ] Ball HA, Swirski M, Newson M, et al. Differentiating Functional Cognitive Disorder from Early Neurodegeneration: A Clinic-Based Study. *Brain sciences*. 2021;11(6):800. [DOI](https://doi.org/10.3390/brainsci11060800). PMID: 34204389.
 
 #### Proposed diagnostic risk model
 
-- [ ] McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. https://doi.org/10.1017/S1092852921000845
+- [ ] McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. DOI: 10.1017/S1092852921000845
 
 #### Functional cognitive disorder checklist
 
-- [ ] Cabreira V, Alty J, Antic S, et al. Development of a diagnostic checklist to identify functional cognitive disorder versus other neurocognitive disorders. *BMJ neurology open*. 2025;7(1):e000918. [DOI](https://doi.org/10.1136/bmjno-2024-000918). [PMID: 40034653](https://pubmed.ncbi.nlm.nih.gov/40034653/).
+- [ ] Cabreira V, Alty J, Antic S, et al. Development of a diagnostic checklist to identify functional cognitive disorder versus other neurocognitive disorders. *BMJ neurology open*. 2025;7(1):e000918. [DOI](https://doi.org/10.1136/bmjno-2024-000918). PMID: 40034653.
 
 #### Performance-validity testing
 

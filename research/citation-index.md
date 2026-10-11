@@ -2381,11 +2381,11 @@ Checked October 4, 2026. New stable IDs 0254–0255.
 
 | Page | Stable sources |
 |---|---|
-| [11-functional-cough-and-upper-airway-symptoms.md](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0129](#fnd-cit-0129), [FND-CIT-0147](#fnd-cit-0147), [FND-CIT-0110](#fnd-cit-0110), [FND-CIT-0254](#fnd-cit-0254), [FND-CIT-0255](#fnd-cit-0255) |
+| [11-functional-cough-and-upper-airway-symptoms.md](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0129](#fnd-cit-0129), [FND-CIT-0147](#fnd-cit-0147), [FND-CIT-0110](#fnd-cit-0110), [FND-CIT-0254](#fnd-cit-0254), [FND-CIT-0255](#fnd-cit-0255), [FND-CIT-0269](#fnd-cit-0269) |
 | [functional_cough_and_upper_airway_symptoms/01-clinical-cough-assessment.md](../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/01-clinical-cough-assessment.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0254](#fnd-cit-0254), [FND-CIT-0129](#fnd-cit-0129) |
 | [functional_cough_and_upper_airway_symptoms/02-tic-and-somatic-cough-assessment.md](../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/02-tic-and-somatic-cough-assessment.md) | [FND-CIT-0129](#fnd-cit-0129), [FND-CIT-0110](#fnd-cit-0110) |
-| [functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md](../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md) | [FND-CIT-0147](#fnd-cit-0147), [FND-CIT-0255](#fnd-cit-0255) |
-| [functional_cough_and_upper_airway_symptoms/technique-inventory.md](../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/technique-inventory.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0129](#fnd-cit-0129), [FND-CIT-0147](#fnd-cit-0147) |
+| [functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md](../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md) | [FND-CIT-0147](#fnd-cit-0147), [FND-CIT-0255](#fnd-cit-0255), [FND-CIT-0269](#fnd-cit-0269) |
+| [functional_cough_and_upper_airway_symptoms/technique-inventory.md](../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/technique-inventory.md) | [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0129](#fnd-cit-0129), [FND-CIT-0147](#fnd-cit-0147), [FND-CIT-0254](#fnd-cit-0254), [FND-CIT-0255](#fnd-cit-0255), [FND-CIT-0269](#fnd-cit-0269) |
 
 ## FND-CIT-0256
 
@@ -2429,9 +2429,9 @@ Original IDs retained; new sources 0256–0261. Checked October 4, 2026.
 
 | Page | Stable sources |
 |---|---|
-| [12-functional-cognitive-disorder.md](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) | [FND-CIT-0026](#fnd-cit-0026), [FND-CIT-0071](#fnd-cit-0071), [FND-CIT-0141](#fnd-cit-0141), [FND-CIT-0140](#fnd-cit-0140), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0260](#fnd-cit-0260) |
+| [12-functional-cognitive-disorder.md](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) | [FND-CIT-0026](#fnd-cit-0026), [FND-CIT-0071](#fnd-cit-0071), [FND-CIT-0141](#fnd-cit-0141), [FND-CIT-0140](#fnd-cit-0140), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0260](#fnd-cit-0260), [FND-CIT-0270](#fnd-cit-0270) |
 | [functional_cognitive_disorder/01-internal-inconsistency-and-clinical-assessment.md](../reference/diagnostic-signs/functional_cognitive_disorder/01-internal-inconsistency-and-clinical-assessment.md) | [FND-CIT-0071](#fnd-cit-0071), [FND-CIT-0026](#fnd-cit-0026) |
-| [functional_cognitive_disorder/02-neuropsychological-assessment-and-validity.md](../reference/diagnostic-signs/functional_cognitive_disorder/02-neuropsychological-assessment-and-validity.md) | [FND-CIT-0071](#fnd-cit-0071), [FND-CIT-0141](#fnd-cit-0141) |
+| [functional_cognitive_disorder/02-neuropsychological-assessment-and-validity.md](../reference/diagnostic-signs/functional_cognitive_disorder/02-neuropsychological-assessment-and-validity.md) | [FND-CIT-0071](#fnd-cit-0071), [FND-CIT-0141](#fnd-cit-0141), [FND-CIT-0270](#fnd-cit-0270) |
 | [functional_cognitive_disorder/03-everyday-function-and-ot-measurement.md](../reference/diagnostic-signs/functional_cognitive_disorder/03-everyday-function-and-ot-measurement.md) | [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0259](#fnd-cit-0259), [FND-CIT-0256](#fnd-cit-0256), [FND-CIT-0257](#fnd-cit-0257), [FND-CIT-0261](#fnd-cit-0261), [FND-CIT-0258](#fnd-cit-0258) |
 | [functional_cognitive_disorder/04-diagnostic-models-and-checklists.md](../reference/diagnostic-signs/functional_cognitive_disorder/04-diagnostic-models-and-checklists.md) | [FND-CIT-0026](#fnd-cit-0026), [FND-CIT-0140](#fnd-cit-0140), [FND-CIT-0260](#fnd-cit-0260) |
 | [functional_cognitive_disorder/technique-inventory.md](../reference/diagnostic-signs/functional_cognitive_disorder/technique-inventory.md) | [FND-CIT-0026](#fnd-cit-0026), [FND-CIT-0071](#fnd-cit-0071), [FND-CIT-0141](#fnd-cit-0141), [FND-CIT-0140](#fnd-cit-0140), [FND-CIT-0260](#fnd-cit-0260) |
@@ -2547,3 +2547,24 @@ Existing source IDs retained. Raviskanthan 2022 (0179) remains cited as plain te
 | [03-optokinetic-response.md](../reference/diagnostic-signs/functional_visual_symptoms/03-optokinetic-response.md) | [FND-CIT-0024](#fnd-cit-0024) |
 | [technique-inventory.md](../reference/diagnostic-signs/functional_visual_symptoms/technique-inventory.md) | [FND-CIT-0024](#fnd-cit-0024), [FND-CIT-0103](#fnd-cit-0103), [FND-CIT-0179](#fnd-cit-0179), [FND-CIT-0180](#fnd-cit-0180) |
 | [scan-negative-cauda-equina.md](../reference/diagnostic-signs/scan-negative-cauda-equina.md) | [FND-CIT-0001](#fnd-cit-0001), [FND-CIT-0016](#fnd-cit-0016), [FND-CIT-0267](#fnd-cit-0267), [FND-CIT-0268](#fnd-cit-0268) |
+
+## FND-CIT-0269
+
+American Speech-Language-Hearing Association. Inducible Laryngeal Obstruction (ILO). *Practice Portal*. [Professional guidance](https://www.asha.org/practice-portal/clinical-topics/inducible-laryngeal-obstruction/). Accessed October 11, 2026.
+
+**Type and scope:** Professional guidance on ILO assessment; not validation of neurological FND signs.
+
+## FND-CIT-0270
+
+Mammì A, Reuber M, Pascarella A, et al. Neuropsychological assessment in functional cognitive disorder: a scoping review. *Psychiatry Research*. 2026;117508. Published online October 8, 2026; journal pre-proof. [DOI](https://doi.org/10.1016/j.psychres.2026.117508).
+
+**Type and scope:** FCD neuropsychological scoping review; heterogeneous profiles, not a new diagnostic instrument.
+
+## Cough and cognitive evidence-presentation review — October 11, 2026
+
+Current ASHA ILO guidance and the October 2026 FCD review added. Public access notes moved to the internal review records. Existing source IDs and inventory entries retained.
+
+| Added source | Current pages |
+|---|---|
+| [FND-CIT-0269](#fnd-cit-0269) | [11-functional-cough-and-upper-airway-symptoms.md](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) · [functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md](../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/03-laryngoscopy-and-upper-airway-assessment.md) · [functional_cough_and_upper_airway_symptoms/technique-inventory.md](../reference/diagnostic-signs/functional_cough_and_upper_airway_symptoms/technique-inventory.md) |
+| [FND-CIT-0270](#fnd-cit-0270) | [12-functional-cognitive-disorder.md](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) · [functional_cognitive_disorder/02-neuropsychological-assessment-and-validity.md](../reference/diagnostic-signs/functional_cognitive_disorder/02-neuropsychological-assessment-and-validity.md) |

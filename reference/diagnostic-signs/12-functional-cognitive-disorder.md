@@ -173,7 +173,7 @@ All eight original descriptions remain in the [preserved inventory](functional_c
 ### Evidence notes
 
 - The clinical framework centres on positive internal inconsistency with appropriate differential assessment. Model and checklist evidence does not make a normal screen sufficient. (*citations* [1](#citation-1), [2](#citation-2), [4](#citation-4))
-- Neuropsychological research includes a small clinic comparison, not a universal FCD profile or cutoff. (*citations* [3](#citation-3))
+- A 2026 scoping review of 23 studies found varied neuropsychological patterns and no standalone cognitive test with diagnostic specificity. The earlier clinic comparison provides one example, rather than a universal FCD profile. (*citations* [3](#citation-3), [7](#citation-7))
 - OT consensus supports measuring activity and participation; selected tool details and population limits are in the dedicated measurement guide. That guide does not claim FCD-specific validation of its tool set. (*citations* [5](#citation-5))
 - FCD-Q8 is a separately dated preliminary diagnostic research addition. Its selected study does not establish everyday disability measurement or validate the Cabreira checklist. (*citations* [6](#citation-6))
 
@@ -187,6 +187,7 @@ All eight original descriptions remain in the [preserved inventory](functional_c
 | <a id="citation-4"></a>**[4]** | Cabreira V, Alty J, Antic S, et al. Development of a diagnostic checklist to identify functional cognitive disorder versus other neurocognitive disorders. *BMJ neurology open*. 2025;7(1):e000918. [DOI](https://doi.org/10.1136/bmjno-2024-000918). [PMID: 40034653](https://pubmed.ncbi.nlm.nih.gov/40034653/). [FND-CIT-0140](../../research/citation-index.md#fnd-cit-0140). |
 | <a id="citation-5"></a>**[5]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [DOI](https://doi.org/10.1136/jnnp-2019-322281). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
 | <a id="citation-6"></a>**[6]** | García-Roldán E, Almodóvar-Sierra Á, Luque-Tirado A, et al. Preliminary Validation of the FCD-Q8 Tool in Functional Cognitive Disorder and Early Alzheimer's Disease: A Biomarker-Verified Case–Control Study. *European Journal of Neurology*. 2025;32(11):e70383. [DOI](https://doi.org/10.1111/ene.70383). [FND-CIT-0260](../../research/citation-index.md#fnd-cit-0260). |
+| <a id="citation-7"></a>**[7]** | Mammì A, Reuber M, Pascarella A, et al. Neuropsychological assessment in functional cognitive disorder: a scoping review. *Psychiatry Research*. 2026;117508. Published online October 8, 2026; journal pre-proof. [DOI](https://doi.org/10.1016/j.psychres.2026.117508). [FND-CIT-0270](../../research/citation-index.md#fnd-cit-0270). |
 
 *Technique outline created: August 24, 2026 · Cognitive-neurology and neuropsychology review pending*
 

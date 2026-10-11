@@ -68,7 +68,7 @@ The proposed clinical framework describes a functional pattern; it does not esta
 
 Explain the assessment in advance and invite written examples or an existing calendar if helpful. Agree breaks and communication access. Document hearing, vision, language, pain, fatigue and medication context before interpreting differences.
 
-Teaching safeguards: do not remove essential aids, create overload or exhaust the person to reveal a discrepancy. Sudden confusion, altered consciousness or new focal neurological symptoms needs urgent assessment; a progressive change also needs review. Obtain permission for supporter information, and explain confidentiality.
+Do not remove essential aids, create overload or exhaust the person to reveal a discrepancy. Sudden confusion, altered consciousness or new focal neurological symptoms needs urgent assessment; a progressive change also needs review. Obtain permission for supporter information, and explain confidentiality.
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -93,7 +93,7 @@ Teaching safeguards: do not remove essential aids, create overload or exhaust th
 6. Evaluate sleep, pain, fatigue, medication and substance effects, mood, anxiety, ADHD, epilepsy, head injury, neurodevelopmental factors, neurodegenerative disease and other relevant causes or comorbidities.
 7. Explain the positive formulation without saying “nothing is wrong.” State the degree of certainty and arrange follow-up if progression or a new pattern emerges.
 
-This original sequence is an educational outline, not a validated seven-item score. (*citations* [1](#citation-1), [2](#citation-2))
+Use this sequence to organize clinical reasoning; it is not a scored diagnostic instrument. (*citations* [1](#citation-1), [2](#citation-2))
 
 ### Conversation versus formal performance
 
@@ -214,7 +214,7 @@ Show how the clinician looks for a meaningful pattern across all four, rather th
 
 ## Research and Sources
 
-The original clinical outline and media brief are preserved. Practical documentation, consent and accessibility suggestions are editorial safeguards. The proposed criteria and positive-diagnosis framework remain subject to clinical judgment and differential assessment.
+The proposed criteria support a positive clinical formulation alongside differential assessment. Documentation should make the finding, its context and any remaining uncertainty clear.
 
 | Citation | Full citation |
 |---|---|
