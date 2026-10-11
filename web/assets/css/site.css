@@ -947,6 +947,68 @@ button:focus-visible {
 
 
 
+/* ---------- Direct course-entry links ---------- */
+
+/* Put the first lesson one click from home without adding to mobile menus. */
+.home-course-start {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem 1.5rem;
+  padding: 1.15rem 1.3rem;
+  background: var(--accent-soft);
+  border: 1px solid var(--border);
+  border-radius: 0.65rem;
+}
+
+.home-course-start-copy {
+  flex: 1 1 15rem;
+}
+
+.home-course-start-copy strong,
+.home-course-start-copy span {
+  display: block;
+}
+
+.home-course-start-copy strong {
+  margin-bottom: 0.35rem;
+  color: var(--accent-strong);
+  font-size: 1.12rem;
+}
+
+.home-course-start-copy span {
+  line-height: 1.45;
+}
+
+.course-entry-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.65rem 1.15rem;
+  margin-top: 1.3rem;
+}
+
+.course-entry-secondary {
+  color: var(--accent-strong);
+  font-weight: 700;
+  text-underline-offset: 0.16em;
+}
+
+.course-entry-secondary:hover,
+.course-entry-secondary:focus-visible {
+  text-decoration-thickness: 0.13em;
+}
+
+@media (max-width: 38rem) {
+  .home-course-start .home-action,
+  .course-entry-actions .home-action {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+}
+
 /* ---------- Home and resource cards ---------- */
 
 .home-grid {
