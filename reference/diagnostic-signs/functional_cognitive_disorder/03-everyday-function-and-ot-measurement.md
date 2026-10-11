@@ -202,7 +202,7 @@ Give the person a short written summary of what was observed, what they reported
 
 The FND OT recommendations are expert consensus; their assessment tools were not FND-validated in that publication. COPM's official guidance supports its use and scoring, not an FCD-specific disability threshold. AHS provides adjacent acute-care guidance. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
-The original EFPT validation compared 73 stroke participants with 22 controls. It supports a measure of support during functional tasks in that population; it does not establish FCD accuracy or responsiveness. The institutional abstract was reviewed, not the full study. (*citations* [5](#citation-5))
+The original EFPT validation compared 73 stroke participants with 22 controls. It supports a measure of support during functional tasks in that population; it does not establish FCD accuracy or responsiveness. (*citations* [5](#citation-5))
 
 PROMIS measures patient-perceived cognition. The protocol reviewed here does not establish FCD-specific diagnostic or meaningful-change cutoffs. (*citations* [6](#citation-6))
 
@@ -247,11 +247,11 @@ Measure-owner and official protocol sources describe what the tools measure and 
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [DOI](https://doi.org/10.1136/jnnp-2019-322281). [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). |
-| <a id="citation-2"></a>**[2]** | Alberta Health Services, Provincial Occupational Therapy Practice Council. Occupational Therapy Clinical Guide for Activities of Daily Living & Functional Cognition in Adult Acute Care. 2022. [Clinical guide](https://www.albertahealthservices.ca/assets/info/hp/hpsp/if-hp-hpsp-ot-adl-and-functional-cognition-adult-acute-care-clinical-guide.pdf). Accessed October 4, 2026. [FND-CIT-0259](../../../research/citation-index.md#fnd-cit-0259). |
-| <a id="citation-3"></a>**[3]** | Canadian Occupational Performance Measure. Learn to Use the COPM. [Official administration overview](https://www.thecopm.ca/learn/). Accessed October 4, 2026. [FND-CIT-0256](../../../research/citation-index.md#fnd-cit-0256). |
-| <a id="citation-4"></a>**[4]** | Washington University Program in Occupational Therapy. Executive Function Performance Test (EFPT). [Official resources and manual access](https://www.ot.wustl.edu/about/resources/executive-function-performance-test-efpt-308). Accessed October 4, 2026. [FND-CIT-0257](../../../research/citation-index.md#fnd-cit-0257). |
+| <a id="citation-2"></a>**[2]** | Alberta Health Services, Provincial Occupational Therapy Practice Council. Occupational Therapy Clinical Guide for Activities of Daily Living & Functional Cognition in Adult Acute Care. 2022. [Clinical guide](https://www.albertahealthservices.ca/assets/info/hp/hpsp/if-hp-hpsp-ot-adl-and-functional-cognition-adult-acute-care-clinical-guide.pdf). Accessed October 11, 2026. [FND-CIT-0259](../../../research/citation-index.md#fnd-cit-0259). |
+| <a id="citation-3"></a>**[3]** | Canadian Occupational Performance Measure. Learn to Use the COPM. [Official administration overview](https://www.thecopm.ca/learn/). Accessed October 11, 2026. [FND-CIT-0256](../../../research/citation-index.md#fnd-cit-0256). |
+| <a id="citation-4"></a>**[4]** | Washington University Program in Occupational Therapy. Executive Function Performance Test (EFPT). [Official resources and manual access](https://www.ot.wustl.edu/about/resources/executive-function-performance-test-efpt-308). Accessed October 11, 2026. [FND-CIT-0257](../../../research/citation-index.md#fnd-cit-0257). |
 | <a id="citation-5"></a>**[5]** | Baum CM, Connor LT, Morrison T, Hahn M, Dromerick AW, Edwards DF. Reliability, validity, and clinical utility of the Executive Function Performance Test: a measure of executive function in a sample of people with stroke. *American Journal of Occupational Therapy*. 2008;62(4):446–455. [DOI](https://doi.org/10.5014/ajot.62.4.446). [FND-CIT-0261](../../../research/citation-index.md#fnd-cit-0261). |
-| <a id="citation-6"></a>**[6]** | PhenX Toolkit. Protocol: Cognitive Function (320301). PROMIS Cognitive Function v2.0, Short Form 6a. [Protocol and scoring guidance](https://www.phenxtoolkit.org/protocols/view/320301). Accessed October 4, 2026. [FND-CIT-0258](../../../research/citation-index.md#fnd-cit-0258). |
+| <a id="citation-6"></a>**[6]** | PhenX Toolkit. Protocol: Cognitive Function (320301). PROMIS Cognitive Function v2.0, Short Form 6a. [Protocol and scoring guidance](https://www.phenxtoolkit.org/protocols/view/320301). Accessed October 11, 2026. [FND-CIT-0258](../../../research/citation-index.md#fnd-cit-0258). |
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

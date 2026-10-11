@@ -36,7 +36,7 @@
 
 You may find yourself coughing repeatedly, clearing your throat again and again, or noticing throat tightness, a changed voice or difficulty getting air in during an episode. These descriptions help you decide whether this page is relevant; they do not identify the cause.
 
-Functional cough and related upper-airway symptoms may include a repeated cough, throat clearing, unusual breathing or laryngeal symptoms that are not fully explained by structural disease. This page follows a speech-and-language-therapy consensus category; it does not claim that every persistent cough is FND.
+This page brings together repeated cough, throat clearing and assessed functional laryngeal symptoms. Diagnosis depends on the particular symptom pattern and appropriate respiratory or laryngeal assessment. Persistent cough without an identified structural cause is not enough to establish FND. (*citations* [1](#citation-1), [5](#citation-5))
 
 The assessment looks at the whole pattern: onset, triggers, sound, timing, breathing, voice, speaking, sleep and what happens during different tasks. Depending on the symptom, respiratory testing, ear-nose-throat examination or laryngoscopy may be needed. Asthma, infection, reflux, medication effects, inducible laryngeal obstruction and other causes must be considered. (*citations* [1](#citation-1))
 
@@ -165,7 +165,7 @@ All seven original descriptions and their sources remain in the [preserved inven
 
 - Baker/Stone and colleagues supply the principal clinical consensus framework. Its broad terminology does not erase the separate criteria and respiratory investigations described here. (*citations* [1](#citation-1))
 - The CHEST cough framework has low-quality evidence; its limitations are detailed in the linked guide. Functional tic-like phenomena require their own assessment. (*citations* [2](#citation-2), [4](#citation-4))
-- ILO sources support specialist airway assessment. The newer Delphi study is consensus, not diagnostic-accuracy validation; its abstract was reviewed. (*citations* [3](#citation-3), [6](#citation-6))
+- ILO sources support specialist airway assessment. The 2023 Delphi study supplies consensus criteria, and current ASHA guidance describes multidisciplinary assessment and laryngoscopy during relevant symptoms. (*citations* [3](#citation-3), [6](#citation-6), [7](#citation-7))
 - Adult chronic-cough guidance informs the respiratory differential and life-impact discussion, with no automatic extrapolation to children or all people with FND. (*citations* [5](#citation-5))
 
 ### Citation table
@@ -178,6 +178,7 @@ All seven original descriptions and their sources remain in the [preserved inven
 | <a id="citation-4"></a>**[4]** | Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [DOI](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110). |
 | <a id="citation-5"></a>**[5]** | Parker SM, Smith JA, Birring SS, et al. British Thoracic Society Clinical Statement on chronic cough in adults. *Thorax*. 2023;78(Suppl 6):s3–s19. [DOI](https://doi.org/10.1136/thorax-2023-220592). [FND-CIT-0254](../../research/citation-index.md#fnd-cit-0254). |
 | <a id="citation-6"></a>**[6]** | Leong P, Vertigan AE, Hew M, et al. Diagnosis of vocal cord dysfunction/inducible laryngeal obstruction: An International Delphi Consensus Study. *Journal of Allergy and Clinical Immunology*. 2023;152(4):899–906. [DOI](https://doi.org/10.1016/j.jaci.2023.06.007). [FND-CIT-0255](../../research/citation-index.md#fnd-cit-0255). |
+| <a id="citation-7"></a>**[7]** | American Speech-Language-Hearing Association. Inducible Laryngeal Obstruction (ILO). *Practice Portal*. [Professional guidance](https://www.asha.org/practice-portal/clinical-topics/inducible-laryngeal-obstruction/). Accessed October 11, 2026. [FND-CIT-0269](../../research/citation-index.md#fnd-cit-0269). |
 
 *Technique outline created: August 24, 2026 · Speech-language-pathology, ENT and respiratory review pending*
 

@@ -201,7 +201,7 @@ Provide a plain-language explanation beside any accuracy statistic; do not use c
 
 ## Research and Sources
 
-McWhirter's indexed abstract was reviewed; full-text methodological appraisal remains pending. Cabreira's full text and FCD-Q8 publisher methods, results and limitations were checked. This is a targeted evidence update, not a completed systematic review of all FCD diagnostic instruments.
+These studies address complementary diagnostic questions. Their selected populations and validation stages determine how the findings can be used.
 
 | Citation | Full citation |
 |---|---|

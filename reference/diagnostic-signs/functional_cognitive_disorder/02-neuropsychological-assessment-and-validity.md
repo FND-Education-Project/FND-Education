@@ -164,6 +164,8 @@ Use an accessible written summary of the findings and recommended supports inste
 ## Evidence and Limitations
 {: #evidence-and-limitations .shareable }
 
+A 2026 scoping review found heterogeneous cognitive profiles across 23 studies and no single cognitive test that establishes FCD. Assessment integrates the profile with history, observed behaviour and clinical context. (*citations* [3](#citation-3))
+
 A tertiary-clinic study compared 21 people with FCD, 17 with neurodegenerative mild cognitive impairment and 25 healthy controls. FCD and neurodegenerative groups had similar difficulty on several measures, including embedded validity indicators, but delayed recall and retention were relatively better in FCD. The small selected sample and age differences limit generalization; this is not an individual diagnostic cutoff. (*citations* [2](#citation-2))
 
 The clinical framework also cautions that apparent inconsistencies may have other explanations. Interpretation requires the full assessment. (*citations* [1](#citation-1))
@@ -202,12 +204,13 @@ Provide text alternatives and clearly label hypothetical examples. Do not publis
 
 ## Research and Sources
 
-The clinic study's abstract, methods and limitations were reviewed. It informs profile interpretation, not validation of a universal FCD battery. Accessibility and reporting suggestions are editorial safeguards.
+The sources support integrated profile interpretation; they do not define a universal diagnostic battery.
 
 | Citation | Full citation |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain : a journal of neurology*. 2020;143(10):2895-2903. [DOI](https://doi.org/10.1093/brain/awaa224). [PMID: 32791521](https://pubmed.ncbi.nlm.nih.gov/32791521/). [FND-CIT-0071](../../../research/citation-index.md#fnd-cit-0071). |
 | <a id="citation-2"></a>**[2]** | Ball HA, Swirski M, Newson M, et al. Differentiating Functional Cognitive Disorder from Early Neurodegeneration: A Clinic-Based Study. *Brain sciences*. 2021;11(6):800. [DOI](https://doi.org/10.3390/brainsci11060800). [PMID: 34204389](https://pubmed.ncbi.nlm.nih.gov/34204389/). [FND-CIT-0141](../../../research/citation-index.md#fnd-cit-0141). |
+| <a id="citation-3"></a>**[3]** | Mammì A, Reuber M, Pascarella A, et al. Neuropsychological assessment in functional cognitive disorder: a scoping review. *Psychiatry Research*. 2026;117508. Published online October 8, 2026; journal pre-proof. [DOI](https://doi.org/10.1016/j.psychres.2026.117508). [FND-CIT-0270](../../../research/citation-index.md#fnd-cit-0270). |
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

@@ -28,6 +28,9 @@ If a document becomes reader-ready, move it out of `_internal` into the appropri
 - [Speech and voice evidence review](diagnostic-signs/speech-voice-evidence-review.md) — October 10 source framing and currentness checks.
 - [Swallowing and globus evidence review](diagnostic-signs/swallowing-globus-evidence-review.md) — October 10 Rome V and instrumental-assessment checks.
 
+- [Cough and upper-airway evidence review](diagnostic-signs/cough-upper-airway-evidence-review.md) — October 11 current assessment sources and classification boundaries.
+- [Cognitive evidence review](diagnostic-signs/cognitive-evidence-review.md) — October 11 neuropsychological evidence and OT measurement review.
+
 ## Community-source review material
 
 - [Community experience quote notebook](recovery-techniques/community-experience-quotes.md) — working source notebook that groups public lived-experience quotations by symptom and technique. These accounts are review material, not evidence that a treatment works or fails.

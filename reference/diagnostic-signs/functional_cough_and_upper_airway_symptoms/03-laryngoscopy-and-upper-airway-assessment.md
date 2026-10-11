@@ -26,7 +26,7 @@ Investigate suspected inducible laryngeal obstruction (ILO) and structural alter
 
 > **Inducible laryngeal obstruction:** Episodic narrowing at the voice box associated with breathing difficulty. **Laryngoscopy:** Viewing the larynx with a scope.
 
-The person's typical symptoms and the visible finding must be related. An examination between episodes can miss the relevant narrowing. (*citations* [1](#citation-1))
+Current assessment combines the symptom history, relevant respiratory investigations and laryngeal visualization during the usual symptoms or a clinically appropriate provocation. The team relates the visible finding to the person’s typical episode; an examination between episodes can miss the relevant narrowing. (*citations* [2](#citation-2), [3](#citation-3))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -159,9 +159,9 @@ If the episode was not typical, say so in the explanation and report.
 ## Evidence and Limitations
 {: #evidence-and-limitations .shareable }
 
-The 2023 modified Delphi study involved 47 experts completing two rounds; 130 of 200 statements reached consensus. It established agreement, not sensitivity or specificity against an independent reference standard. The abstract and bibliographic record were reviewed; a full-text methodological appraisal remains pending. (*citations* [2](#citation-2))
+The 2023 modified Delphi study involved 47 experts completing two rounds; 130 of 200 statements reached consensus. It established agreement, not sensitivity or specificity against an independent reference standard. (*citations* [2](#citation-2))
 
-The 2020 UK statement addressed pandemic restrictions. Its provisional pathways should not be presented as current permission to replace laryngoscopy routinely. (*citations* [1](#citation-1))
+Current ASHA guidance supports multidisciplinary assessment and continuous laryngoscopy during relevant provocation, including exercise when indicated. The 2020 UK statement also discusses temporary pandemic pathways; those pathways do not replace current assessment. (*citations* [1](#citation-1), [3](#citation-3))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -203,6 +203,7 @@ The sources concern ILO assessment. They do not validate ILO as a universal FND 
 |---|---|
 | <a id="citation-1"></a>**[1]** | Haines J, Esposito K, Slinger C, et al. UK consensus statement on the diagnosis of inducible laryngeal obstruction in light of the COVID-19 pandemic. *Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology*. 2020;50(12):1287-1293. [DOI](https://doi.org/10.1111/cea.13745). [PMID: 33034142](https://pubmed.ncbi.nlm.nih.gov/33034142/). [FND-CIT-0147](../../../research/citation-index.md#fnd-cit-0147). |
 | <a id="citation-2"></a>**[2]** | Leong P, Vertigan AE, Hew M, et al. Diagnosis of vocal cord dysfunction/inducible laryngeal obstruction: An International Delphi Consensus Study. *Journal of Allergy and Clinical Immunology*. 2023;152(4):899–906. [DOI](https://doi.org/10.1016/j.jaci.2023.06.007). [FND-CIT-0255](../../../research/citation-index.md#fnd-cit-0255). |
+| <a id="citation-3"></a>**[3]** | American Speech-Language-Hearing Association. Inducible Laryngeal Obstruction (ILO). *Practice Portal*. [Professional guidance](https://www.asha.org/practice-portal/clinical-topics/inducible-laryngeal-obstruction/). Accessed October 11, 2026. [FND-CIT-0269](../../../research/citation-index.md#fnd-cit-0269). |
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
