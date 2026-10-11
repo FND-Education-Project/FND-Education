@@ -26,7 +26,7 @@ Use this guide when the principal difficulty involves jaw position or movement, 
 
 > **Stomatognathic system:** The jaws, tongue, lips, teeth and associated tissues involved in mouth function.
 
-A study of this region described a range of functional movements rather than a single universal sign. Dental, medication-related and neurological explanations remain relevant. (*citations* [1](#citation-1))
+Assess a recognizable movement pattern and positive functional features in the full clinical context. Functional jaw and tongue movements are involuntary, and dental, medication-related and other neurological explanations remain relevant. (*citations* [2](#citation-2))
 
 Use the separate [speech](../09-functional-speech-and-voice-symptoms.md) and [swallowing](../10-functional-swallowing-and-globus.md) pathways when those functions are the central concern.
 
@@ -174,7 +174,7 @@ Avoid portraying the assessment as catching the person out. If communication is 
 
 Yoshida retrospectively assessed a selected single-institution population. Of 157 people assessed after initial exclusions, 58 met the study's greater-than-seven-of-ten selection threshold. Features used to select the group were then described within it; this does not independently establish their diagnostic accuracy. The reported classic pattern occurred in 26/58 patients. Referral bias limits generalization. (*citations* [1](#citation-1))
 
-The research scale included suggestibility and placebo manoeuvres. This educational workflow does not reproduce deceptive testing or offer the threshold for self-diagnosis. Response to a dental device, injection or rehabilitation technique is not substituted for diagnostic reasoning.
+Use explained, agreed task comparisons to examine the movement. Response to a dental device, injection or rehabilitation technique does not replace diagnostic reasoning.
 
 The authored daily-activity table is not a validated outcome measure. This targeted review does not establish a functional-facial-specific threshold for disability, assistance or meaningful change. Measure selection should follow the individual's question and the instrument's population limits.
 
@@ -212,11 +212,12 @@ Any later clinical video needs specific consent, captions, a transcript and an e
 
 ## Research and Sources
 
-The regional cohort is the direct source for the inventory entry and research-scale limitations. The safe task-selection workflow and everyday questions are authored educational aids; they do not validate a new method or reproduce study treatments.
+The functional-dystonia review supports the clinical framework; the regional cohort supplies descriptive findings and the research-scale limitations. The safe task-selection workflow and everyday questions are authored educational aids; they do not validate a new method or reproduce study treatments.
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. [FND-CIT-0053](../../../research/citation-index.md#fnd-cit-0053). [https://doi.org/10.3389/fneur.2020.00123](https://doi.org/10.3389/fneur.2020.00123) |
+| <a id="citation-1"></a>**[1]** | — | Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. FND-CIT-0053. DOI: 10.3389/fneur.2020.00123 |
+| <a id="citation-2"></a>**[2]** | — | Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [DOI](https://doi.org/10.3389/fneur.2020.605262). [FND-CIT-0021](../../../research/citation-index.md#fnd-cit-0021). |
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

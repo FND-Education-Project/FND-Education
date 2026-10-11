@@ -180,28 +180,26 @@ The [seven-entry inventory](functional_facial_symptoms/technique-inventory.md) p
 
 ### Evidence notes
 
-- Fasano and colleagues retrospectively described 61 people seen across seven tertiary movement-disorder centres. The study supports a recognizable functional facial-movement phenotype and a fluctuating course, but selection, retrospective assessment and exclusion of known non-functional facial disorders limit generalization. (*citations* [1](#citation-1))
-- Yoshida reported a separate, single-centre group selected with a study-specific 10-feature scale. It supports jaw deviation, lip pulling, tongue movement, paroxysmal symptoms, inconsistency and incongruity as useful pattern information; it did not validate a diagnostic score for independent clinical use. (*citations* [2](#citation-2))
-- Popkirov, Stone and Buchan describe unilateral lip pulling as a functional dystonic stroke mimic caused by muscle overactivity. Their article is a clinical review, not a diagnostic-accuracy study, and acute stroke pathways remain necessary when onset is new. (*citations* [3](#citation-3))
 - The functional-dystonia review emphasizes positive pattern recognition, coexistence with non-functional disorders and individualized multidisciplinary care. (*citations* [4](#citation-4))
 - The specialist Neurosymptoms page distinguishes functional facial spasm, rarer functional facial weakness and functional ptosis, while stressing the differential diagnosis. It is an expert educational source rather than a controlled study. (*citations* [5](#citation-5))
+- Popkirov, Stone and Buchan describe unilateral lip pulling as a functional dystonic stroke mimic caused by muscle overactivity. Their article is a clinical review, not a diagnostic-accuracy study, and acute stroke pathways remain necessary when onset is new. (*citations* [3](#citation-3))
+- Fasano and colleagues retrospectively described 61 people seen across seven tertiary movement-disorder centres. The study supports a recognizable functional facial-movement phenotype and a fluctuating course, but selection, retrospective assessment and exclusion of known non-functional facial disorders limit generalization. (*citations* [1](#citation-1))
+- Yoshida reported a separate, single-centre group selected with a study-specific 10-feature scale. It supports jaw deviation, lip pulling, tongue movement, paroxysmal symptoms, inconsistency and incongruity as useful pattern information; it did not validate a diagnostic score for independent clinical use. (*citations* [2](#citation-2))
 
 ### Citation table
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. [FND-CIT-0052](../../research/citation-index.md#fnd-cit-0052). [https://doi.org/10.1002/mds.25190](https://doi.org/10.1002/mds.25190) |
-| <a id="citation-2"></a>**[2]** | — | Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. [FND-CIT-0053](../../research/citation-index.md#fnd-cit-0053). [https://doi.org/10.3389/fneur.2020.00123](https://doi.org/10.3389/fneur.2020.00123) |
+| <a id="citation-1"></a>**[1]** | — | Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. FND-CIT-0052. DOI: 10.1002/mds.25190 |
+| <a id="citation-2"></a>**[2]** | — | Yoshida K. Clinical characteristics of functional movement disorders in the stomatognathic system. *Frontiers in Neurology*. 2020;11:123. FND-CIT-0053. DOI: 10.3389/fneur.2020.00123 |
 | <a id="citation-3"></a>**[3]** | — | Popkirov S, Stone J, Buchan AM. Functional neurological disorder: a common and treatable stroke mimic. *Stroke*. 2020;51(5):1629–1635. [FND-CIT-0054](../../research/citation-index.md#fnd-cit-0054). [https://doi.org/10.1161/STROKEAHA.120.029076](https://doi.org/10.1161/STROKEAHA.120.029076) |
 | <a id="citation-4"></a>**[4]** | — | Frucht L, Perez DL, Callahan J, et al. Functional dystonia: differentiation from primary dystonia and multidisciplinary treatments. *Frontiers in Neurology*. 2021;11:605262. [FND-CIT-0021](../../research/citation-index.md#fnd-cit-0021). [https://doi.org/10.3389/fneur.2020.605262](https://doi.org/10.3389/fneur.2020.605262) |
-| <a id="citation-5"></a>**[5]** | — | Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed September 1, 2026. [FND-CIT-0056](../../research/citation-index.md#fnd-cit-0056). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/) |
+| <a id="citation-5"></a>**[5]** | — | Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed October 11, 2026. [FND-CIT-0056](../../research/citation-index.md#fnd-cit-0056). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/) |
 | <a id="citation-6"></a>**[6]** | — | Horn D, Galli S, Berney A, et al. Testing Head Rotation and Flexion Is Useful in Functional Limb Weakness. *Movement disorders clinical practice*. 2017;4(4):597-602. [DOI](https://doi.org/10.1002/mdc3.12492). [PMID: 30363481](https://pubmed.ncbi.nlm.nih.gov/30363481/). [FND-CIT-0155](../../research/citation-index.md#fnd-cit-0155). |
 | <a id="citation-7"></a>**[7]** | — | Schwingenschuh P, Katschnig P, Edwards MJ, et al. The blink reflex recovery cycle differs between essential and presumed psychogenic blepharospasm. *Neurology*. 2011;76(7):610-614. [DOI](https://doi.org/10.1212/wnl.0b013e31820c3074). [PMID: 21321334](https://pubmed.ncbi.nlm.nih.gov/21321334/). [FND-CIT-0124](../../research/citation-index.md#fnd-cit-0124). |
 | <a id="citation-8"></a>**[8]** | — | Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [DOI](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110). |
 | <a id="citation-9"></a>**[9]** | — | NHS. Symptoms of a stroke. Reviewed September 12, 2024; accessed October 6, 2026. [Source](https://www.nhs.uk/conditions/stroke/symptoms/). [FND-CIT-0108](../../research/citation-index.md#fnd-cit-0108). |
 | <a id="citation-10"></a>**[10]** | — | NHS. Bell’s palsy. Accessed October 6, 2026. [Source](https://www.nhs.uk/conditions/bells-palsy/). [FND-CIT-0197](../../research/citation-index.md#fnd-cit-0197). |
-
-*Targeted evidence update: October 6, 2026. Complete systematic review and human clinical review remain pending.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>

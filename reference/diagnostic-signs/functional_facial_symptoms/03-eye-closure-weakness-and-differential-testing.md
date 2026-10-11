@@ -168,7 +168,7 @@ Explain uncertainty directly and give a named follow-up plan. A reassuring resul
 ## Evidence and Limitations
 {: #evidence-and-limitations .shareable }
 
-Schwingenschuh and colleagues prospectively compared 10 people with essential blepharospasm, nine with atypical/presumed functional blepharospasm and nine controls. The essential group had increased R2 recovery; the atypical group did not differ from controls at group level. This small selected comparison is not universal diagnostic validation. Normal physiology alone cannot establish FND. Indexed methods/results were checked; complete full-text appraisal and later replication review remain pending. (*citations* [3](#citation-3))
+Schwingenschuh and colleagues prospectively compared 10 people with essential blepharospasm, nine with atypical/presumed functional blepharospasm and nine controls. The essential group had increased R2 recovery; the atypical group did not differ from controls at group level. This small selected comparison is not universal diagnostic validation. Normal physiology alone cannot establish FND. (*citations* [3](#citation-3))
 
 Horn prospectively compared 30 people with motor FND and 40 controls with unilateral weakness. Its axial-sign findings address that population, not isolated facial symptoms. This page therefore does not import its accuracy estimates into a facial diagnostic rule. (*citations* [4](#citation-4))
 
@@ -208,12 +208,12 @@ For later electrophysiology teaching, a clinician-reviewed labelled recording wi
 
 ## Research and Sources
 
-The small blink-reflex study supports an adjunctive research comparison. Horn provides adjacent limb-weakness evidence. NHS sources support stroke and eye-protection boundaries, not an FND diagnostic rule. Existing source IDs are retained.
+The small blink-reflex study supports an adjunctive research comparison. Horn provides adjacent limb-weakness evidence. NHS sources support stroke and eye-protection boundaries, not an FND diagnostic rule.
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed September 1, 2026. [FND-CIT-0056](../../../research/citation-index.md#fnd-cit-0056). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/) |
-| <a id="citation-2"></a>**[2]** | — | Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. [FND-CIT-0052](../../../research/citation-index.md#fnd-cit-0052). [https://doi.org/10.1002/mds.25190](https://doi.org/10.1002/mds.25190) |
+| <a id="citation-1"></a>**[1]** | — | Stone J. Functional facial symptoms. *Neurosymptoms.org*. Accessed October 11, 2026. [FND-CIT-0056](../../../research/citation-index.md#fnd-cit-0056). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-facial-symptoms/) |
+| <a id="citation-2"></a>**[2]** | — | Fasano A, Valadas A, Bhatia KP, et al. Psychogenic facial movement disorders: clinical features and associated conditions. *Movement Disorders*. 2012;27(12):1544–1551. FND-CIT-0052. DOI: 10.1002/mds.25190 |
 | <a id="citation-3"></a>**[3]** | — | Schwingenschuh P, Katschnig P, Edwards MJ, et al. The blink reflex recovery cycle differs between essential and presumed psychogenic blepharospasm. *Neurology*. 2011;76(7):610-614. [DOI](https://doi.org/10.1212/wnl.0b013e31820c3074). [PMID: 21321334](https://pubmed.ncbi.nlm.nih.gov/21321334/). [FND-CIT-0124](../../../research/citation-index.md#fnd-cit-0124). |
 | <a id="citation-4"></a>**[4]** | — | Horn D, Galli S, Berney A, et al. Testing Head Rotation and Flexion Is Useful in Functional Limb Weakness. *Movement disorders clinical practice*. 2017;4(4):597-602. [DOI](https://doi.org/10.1002/mdc3.12492). [PMID: 30363481](https://pubmed.ncbi.nlm.nih.gov/30363481/). [FND-CIT-0155](../../../research/citation-index.md#fnd-cit-0155). |
 | <a id="citation-5"></a>**[5]** | — | NHS. Symptoms of a stroke. Reviewed September 12, 2024; accessed October 6, 2026. [Source](https://www.nhs.uk/conditions/stroke/symptoms/). [FND-CIT-0108](../../../research/citation-index.md#fnd-cit-0108). |

@@ -26,7 +26,7 @@ Use this guide to select a symptom measure and record what dizziness changes in 
 
 > **Patient-reported outcome:** Information the person reports about their symptoms, function or experience, rather than a result inferred from an examination.
 
-Keep three records distinct: whether PPPD criteria are met; what a questionnaire or observed task sampled; and what help or adaptations the person needs. The [criteria guide](01-criteria-and-clinical-history.md) owns diagnosis.
+Keep three records distinct: whether PPPD criteria are met; what a questionnaire or observed task sampled; and what help or adaptations the person needs. Use the [criteria guide](01-criteria-and-clinical-history.md) for the diagnostic assessment.
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -170,6 +170,8 @@ Yagi and colleagues compared 50 PPPD patients with 50 other vestibular patients 
 
 Meletaki and colleagues studied 50 French-speaking PPPD patients, 50 other vestibular patients and 50 controls. Internal consistency was high, but discrimination between patient groups was poor (AUC 0.664). PPPD participants reported greater dizziness-related handicap and some psychological symptoms; associations do not establish cause. This cross-sectional, specialist sample does not establish individual prognosis or treatment responsiveness. (*citations* [3](#citation-3))
 
+Kim and colleagues studied a Korean NPQ in 255 people at a tertiary dizziness centre, including 150 with PPPD. The total score separated PPPD from other vestibular diagnoses only modestly (AUC 0.670), despite high internal consistency. Together, the validation studies support using scores alongside the history, with thresholds interpreted in the relevant population and questionnaire version. (*citations* [4](#citation-4))
+
 > **Internal consistency:** How closely items within a questionnaire relate to one another; it is not proof of diagnostic accuracy or sensitivity to change.
 
 > **AUC:** Area under a discrimination curve; 0.5 indicates chance-level separation and 1 perfect separation in the studied comparison.
@@ -210,13 +212,14 @@ Use static examples of completed records, with invented entries clearly labelled
 
 ## Research and Sources
 
-The original NPQ study supports its format and selected-sample accuracy; the French validation qualifies how well it separates clinical groups. These sources do not validate the authored record or establish a PPPD-specific occupational capacity threshold. The consensus supports keeping meaningful impact and the full diagnostic criteria distinct.
+The original NPQ study supports its format and selected-sample accuracy; the French and Korean validations qualify how well it separates clinical groups. These sources do not validate the authored record or establish a PPPD-specific occupational capacity threshold. The consensus supports keeping meaningful impact and the full diagnostic criteria distinct.
 
 | Citation | Figure | Full citation |
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | — | Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [FND-CIT-0027](../../../research/citation-index.md#fnd-cit-0027). [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622) |
 | <a id="citation-2"></a>**[2]** | — | Yagi C, Morita Y, Kitazawa M, et al. A Validated Questionnaire to Assess the Severity of Persistent Postural-Perceptual Dizziness (PPPD): The Niigata PPPD Questionnaire (NPQ). *Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology*. 2019;40(7):e747-e752. [DOI](https://doi.org/10.1097/mao.0000000000002325). [PMID: 31219964](https://pubmed.ncbi.nlm.nih.gov/31219964/). [FND-CIT-0156](../../../research/citation-index.md#fnd-cit-0156). |
 | <a id="citation-3"></a>**[3]** | — | Meletaki V, Gobinet M, Léonard J, Elzière M, Lopez C. French adaptation and validation of the Niigata PPPD Questionnaire: measure of severity of Persistent Postural-Perceptual Dizziness and its association with psychiatric comorbidities and perceived handicap. *Frontiers in Neurology*. 2024;15:1388805. [DOI](https://doi.org/10.3389/fneur.2024.1388805). [FND-CIT-0262](../../../research/citation-index.md#fnd-cit-0262). |
+| <a id="citation-4"></a>**[4]** | — | Kim HJ, Park JH, Kim JS. Diagnostic utility of Niigata Persistent Postural-Perceptual Dizziness (PPPD) Questionnaire (NPQ) for PPPD in comparison to dizziness handicap inventory. *Journal of Vestibular Research*. 2026;36(3):154–163. Published online September 23, 2025. [DOI](https://doi.org/10.1177/09574271251382800). [FND-CIT-0271](../../../research/citation-index.md#fnd-cit-0271). |
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

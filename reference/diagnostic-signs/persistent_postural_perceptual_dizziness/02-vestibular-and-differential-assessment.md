@@ -87,7 +87,7 @@ This guide does not teach a home head-impulse test, a positional manoeuvre or an
 
 ### Select by clinical question
 
-Use the original inventory's investigation groups below within a qualified clinician's usual protocols. This is an authored planning table, not a mandatory battery.
+Select from the investigation groups below within a qualified clinician's usual protocols. This is an authored planning table, not a mandatory battery.
 
 | Inventory group | Question for the clinician | Documentation prompt |
 |---|---|---|
@@ -95,7 +95,7 @@ Use the original inventory's investigation groups below within a qualified clini
 | Orthostatic assessment | Could a cardiovascular or autonomic condition contribute? | Symptoms, posture, timing and measurements under the chosen clinical protocol |
 | Neurological assessment | Are there findings requiring a neurological explanation? | Relevant examination, existing diagnoses, new changes and investigation plan |
 
-Head-impulse, nystagmus and positional examinations investigate alternative or coexisting vestibular causes; standing blood pressure/heart rate and neurological examination are selected where indicated. This restates the original inventory, not a claim that everyone requires every test. (*citations* [1](#citation-1))
+Head-impulse, nystagmus and positional examinations investigate alternative or coexisting vestibular causes; standing blood pressure/heart rate and neurological examination are selected where indicated. Select tests according to the clinical question rather than requiring every test for everyone. (*citations* [1](#citation-1))
 
 > **Nystagmus:** Repetitive involuntary eye movement assessed as part of some balance examinations.
 
