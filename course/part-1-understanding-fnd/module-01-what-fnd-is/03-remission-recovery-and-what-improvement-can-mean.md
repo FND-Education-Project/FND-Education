@@ -4,6 +4,8 @@
 
 # Remission, Recovery, and What Improvement Can Mean
 
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
+
 This is a short introduction. Later modules will discuss treatment, rehabilitation, setbacks and long-term management in much more detail. Here, we only need enough information to understand what people may mean when they talk about getting better.
 
 ---
