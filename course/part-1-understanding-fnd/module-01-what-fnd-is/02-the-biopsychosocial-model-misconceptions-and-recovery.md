@@ -4,7 +4,7 @@
 
 # The Biopsychosocial Model and Misconceptions
 
-> **Working draft:** This page is a newly generated interim draft (October 12, 2026), replacing human-authored text that is preserved in an internal editorial archive. It is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
 
 The **biopsychosocial model** is a way to consider how health, experiences and living conditions interact. It is a planning framework, not a test for FND and not proof that psychological factors caused an individual's symptoms. (*citations* [1](#citation-1), [2](#citation-2))
 
