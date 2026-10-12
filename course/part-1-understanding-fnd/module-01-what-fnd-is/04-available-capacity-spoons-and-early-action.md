@@ -4,7 +4,7 @@
 
 # Available Capacity, Spoons, and Early Action
 
-> **Working draft:** This page is a restored early generated working draft and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
 
 > **Available capacity is what you can use right now—not what you should be able to do, and not a measure of effort or worth.**
 
