@@ -97,6 +97,10 @@ Ask about function, participation, supportive relationships, accessibility, disa
 
 ---
 
+**Continue:** [Next page: Remission, Recovery, and What Improvement Can Mean](03-remission-recovery-and-what-improvement-can-mean.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+
 ## Research and Sources
 {: #research-and-sources .shareable }
 
@@ -110,6 +114,3 @@ The sources below support the broad clinical account. This interim draft still n
 | <a id="citation-2"></a>**[2]** | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [DOI](https://doi.org/10.1001/jamaneurol.2018.1264). |
 | <a id="citation-3"></a>**[3]** | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../../research/citation-index.md#fnd-cit-0003). [DOI](https://doi.org/10.1016/S1474-4422(21)00422-1). |
 
-**Continue:** [Next page: Remission, Recovery, and What Improvement Can Mean](03-remission-recovery-and-what-improvement-can-mean.md)
-
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
