@@ -9,9 +9,9 @@
 This is a short introduction. Later modules will discuss treatment, rehabilitation, setbacks and long-term management in much more detail. Here, we only need enough information to understand what people may mean when they talk about getting better.
 
 ---
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ---
 ## For the Person With FND
@@ -40,9 +40,9 @@ A return of symptoms does not erase real progress. It may mean that the person i
 Choose one small sign of improvement that would matter in your life. It might be a symptom change, but it could also be recovering more quickly after an episode, preparing part of a meal, enjoying time with someone, asking for help more clearly, or doing an activity with less fear. Write down one sentence if that is useful. You do not need to track it every day.
 
 ---
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ---
 - [Module overview](README.md) — the shortest introduction and guide to the module.
@@ -60,9 +60,9 @@ It is possible to hope for improvement while also making life safer and more acc
 If symptoms return, try not to treat the relapse as proof that all progress has been lost. Help the person notice what they have learned, what still works, and whether anything about the episode is new enough to need medical assessment. Recovery may include becoming better prepared for difficult periods, not only preventing every symptom. (*citations* [2](#citation-2), [3](#citation-3))
 
 ---
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ---
 ## For Clinicians and the Care Team
@@ -77,9 +77,9 @@ If symptoms return, try not to treat the relapse as proof that all progress has 
 **How can clinicians support the patient when improvement is limited or not yet possible?** Continued care may still address symptom relief, safety, accessibility, communication, participation, mental health, quality of life and supporter needs. Persistent symptoms should not be treated as proof of poor effort, and new or substantially changed symptoms should still receive appropriate medical assessment.
 
 ---
-[For the Person With FND](#for-the-person-with-fnd)  
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)  
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)  
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ---
 ⬅️ **Previous article:** [The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
