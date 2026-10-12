@@ -1,131 +1,143 @@
 # Course–Reference–Glossary Alignment: Audit 1, Batch 01
 
-**Date:** 2026-10-12  
-**Branch:** `audit/course-align-m01-m02-archive-and-pass1`  
-**Scope:** Course Modules 1–2: their two overview pages and six focused lessons, **eight pages total**.  
-**Type:** Initial content/link/terminology assessment, not an exhaustive evidence or clinical validation.  
-**Baseline:** Main at `f1427f75d248e6713d124cdfc974f028cde99332`; this review evaluates the generated course replacements proposed in the same PR, not the four archived human-authored manuscripts.
+**Evidence review:** 2026-10-12<br>
+**Status:** Evidence-checked first audit complete; project-lead review pending. **Recommendations only.**<br>
+**PR:** [Draft #132](https://github.com/FND-Education-Project/FND-Education/pull/132)<br>
+**Branch:** `audit/course-align-m01-m02-archive-and-pass1`<br>
+**Scope:** Modules 1–2 only: two overviews and six focused lessons, **eight pages**.<br>
+**Reviewed head:** `aba58c5d719c4a3f43fb312e0ecce90468c94b52`<br>
+**Current merged Reference/glossary baseline:** main `f1427f75d248e6713d124cdfc974f028cde99332`; matches this branch.
 
-## Purpose and boundary
+## Decision and boundary
 
-Use the newly developed 17 symptom diagnostic reviews and other reference material to improve the **course's correctness and useful connections**, without enlarging the course into an encyclopedia. Preserve introductory reading flow, each audience's ability to understand the page independently, positive diagnostic framing, medical reassessment, and the distinction between observed signs and real-world disability.
+The introductory approach is largely sound. Prioritize **five must-fix groups**, a few short teaching additions, and useful routes to existing Reference material. The capacity lesson already separates metaphor, clinical consensus, adjacent-condition evidence and physiology appropriately; it does not need another layer of warnings.
 
-**Audit 1 determines what changes would help. Audit 2 implements approved changes.** This first batch does not insert new contextual reference or glossary links, does not turn every technical word into a tooltip, and does not revise the clinical content of already-audited reference pages. Do not silently restore human-authored passages from the archive.
+This continuation changes **only this internal report** and the draft PR description. The PR's earlier four public replacements remain provisional. No proposed course, Reference, glossary, navigation or citation-index improvement has been implemented. No Module 3 or Audit 2 work has begun.
 
-## Preservation before audit
+**Categories:** **Must-fix** = consequential interpretation, explicit editorial requirement or broken reading/evidence record. **Worthwhile** = a proportionate teaching or retrieval improvement. **Unnecessary** = expansion or repetition without enough benefit.
 
-The complete source of all four human-authored Module 1 lessons is preserved verbatim in [the repository-only archive](human-authored-module-01-2026-10-12.md). This repository is public even though its `reference/_internal/` folder is excluded from publication.
+## Preservation and method
 
-- Lesson 1: **newly generated provisional replacement**. Original historical source is an authoring *template*, not a finished AI lesson.
-- Lesson 2: **newly generated provisional replacement**. Same limitation.
-- Lesson 3: older pre-human-edit draft from Git commit `51dd6ec531c0`, with required site breadcrumb, shareable audience anchors, and generated-draft notice restored.
-- Lesson 4: older pre-human-edit draft from Git commit `89c276fdfbc6`, with shareable audience anchors and generated-draft notice restored.
+The [four human-authored source snapshots](human-authored-module-01-2026-10-12.md) remain protected. Each fenced snapshot was compared with its original file at the main baseline and verified verbatim. Archive SHA-256: `7172441d88bfca3b6a8a1fcc5825366960afecb625ac0b61fc58fbddc9dcf2b1`.
 
-The old drafts may contain older evidence framing, citations or formatting. They **must** undergo Audit 1 and later clinical/human review. The two newly generated replacements are not reconstructions of the user's individual original wording.
+Lessons M01.1–2 are newly generated provisional replacements, not recovered AI originals. M01.3 is an earlier generated draft from `51dd6ec531c0`; M01.4 is from `89c276fdfbc6`, with existing site markers restored by the earlier PR work. The archive was not edited and no archived wording was copied into public lessons. Internal material is excluded from the website but remains readable in this public repository.
 
-## Measured starting point, proposed branch
+Read the eight lessons against the current [Reference Library](../../README.md), matching diagnostic concepts/signs, recovery and biopsychosocial pages, fatigue guidance, and [glossary](../../../glossary/README.md). Applied [core principles](../../../docs/project/core-principles.md), [editorial safety](../../../docs/project/safety-and-editorial-rules.md), [evidence standard](../../../docs/project/evidence-standard.md), [citation policy](../../../docs/project/research-and-citation-policy.md), [usability/navigation](../../../docs/project/search-and-usability-standards.md), [accessibility](../../../docs/project/accessibility-standards.md) and [maintenance policy](../../../docs/project/repository-change-and-page-maintenance-policy.md).
 
-| Module | Page | Words (approximately) | Direct subject-specific Reference links | Direct Glossary links |
-|---|---|---:|---:|---:|
-| 1 | Overview | 555 | 0 | 0 |
-| 1 | What “Functional” Means | 972 | 0 | 0 |
-| 1 | Biopsychosocial Model | 939 | 0 | 0 |
-| 1 | Remission and Recovery | 1,141 | 0 | 0 |
-| 1 | Available Capacity and Spoons | 2,303 | 0 | 0 |
-| 2 | Overview | 258 | 0 | 0 |
-| 2 | Positive Signs and Examination | 1,916 | 0 | 0 |
-| 2 | Tests and Diagnostic Uncertainty | 2,082 | 0 | 0 |
+Original papers, author manuscripts and official guidance were checked online for the substantive claims below. Jon Stone/collaborators were the starting framework; newer outcome synthesis and phenotype-specific evidence qualified it where needed. Access level is recorded in the evidence ledger. This is a completed educational audit, not clinical approval or an exhaustive systematic review.
 
-The **general Reference Library navigation link** is present and not counted above. Each of the six focused lessons has the four reader-audience/research sections. All eight pages' relative file links resolve against tracked repository paths at this review. Anchor-level/rendered-site checks and source verification remain for Work mode/CI.
+## Must-fix groups
 
-## Page-specific findings and proposed link candidates
+| ID | Exact passage or location | Finding and minimum recommended action |
+|---|---|---|
+| **M1 — cure wording** | M01 overview: “There is no established cure for FND.” M01.3: “Remission is not automatically the same as a cure because symptoms can return.” | The overview conflicts with the adopted requirement to state **“There is no cure for FND.”** The focused recovery lesson omits that statement. Use it once in each appropriate introduction and immediately preserve the separate explanation of remission, recovery and variable outcomes. This is an **editorial alignment**, not evidence that remission is impossible or symptoms must always return. E4–E7 support variable outcomes and the absence of a universal curative intervention. |
+| **M2 — entrainment** | M02.1, “Some examples of positive signs”: “the tremor may change to match that rhythm, pause or become difficult to maintain.” | The sentence defines all these responses as entrainment. E8 and the updated [entrainment guide](../../diagnostic-signs/functional_tremor/02-entrainment.md) distinguish **adopting the other limb's actual rhythm** from suppression, pausing and other changes during distraction. Separate these in one short explanation; do not add specialist parameters. |
+| **M3 — EEG interpretation** | M02.2, “Each test asks a limited question”: “A normal routine EEG between episodes does not exclude epilepsy” and “This can provide the highest level of diagnostic certainty for many seizure-like events.” | The routine-EEG statement is correct and should stay, with direct supporting attribution. Add one plain-language limit to the person's video-EEG paragraph: **some epileptic seizures do not show a clear scalp-EEG change, so the recording must fit the event's clinical features**. The clinician section already partly expresses this; the person section should stand alone. E9–E11 verify the distinction. Retain “typical event,” feasibility, all relevant event types and possible coexisting epilepsy. |
+| **M4 — reading sequence** | M01.3: “Next module: How FND Is Diagnosed”; M01.1–2 have their Continue/Navigate links after Research and Sources. | M01.3 skips M01.4. Recommend one forward link to the capacity lesson. Bring the two new lessons' contextual navigation into the current policy position, immediately before Research and Sources, using the standard markers. Remove the restored M01.3's intervening module-page list/old previous-next block when standardizing; preserve audience anchors. Do not introduce an additional navigation pattern. |
+| **M5 — citation-use record** | Central citation index, overview table: current-use links still point to superseded source packages in M01.1–3. | There are **21 stale source-to-page associations**, listed below. In approved implementation, reconcile the index with sources actually retained/added. Preserve every stable ID and full historical record; remove only obsolete use links. A source being useful historically does not mean the new draft currently cites it. |
 
-### M01 Overview — prioritize compact pathway, not a long reading list
+The entrainment glossary anchor exists, but its definition currently describes a general rhythm change rather than clearly specifying rhythm matching. **Do not select that glossary link for the corrected lesson until its definition is aligned in an approved implementation.** This is a narrow dependency, not permission for a glossary rewrite.
 
-The overview correctly orients to real, involuntary symptoms, positive diagnosis, coexisting illness and individual outcomes. It currently offers only general Reference Library navigation.
+### Citation-index reconciliation map
 
-- **Content:** Check that its definition of capacity remains descriptive rather than a measurable neural/autonomic state. Keep the “no established cure” and recurrence-not-failure framing.
-- **Reference:** Consider *Understanding a Positive FND Diagnosis* (`reference/diagnostic-concepts/01-positive-diagnosis.md`) as one optional deeper-reading link; don't repeat every lesson's links here.
-- **Glossary:** Link “functional” on first meaningful use only if that helps more than the already linked first lesson.
+| Page | IDs currently listed as used there but absent from the provisional page |
+|---|---|
+| M01.1 | FND-CIT-0004, 0007, 0013, 0043, 0044, 0045, 0046, 0047, 0048, 0049 |
+| M01.2 | FND-CIT-0005, 0013, 0014, 0015, 0016, 0017, 0050 |
+| M01.3 | FND-CIT-0013, 0017, 0028, 0051 |
 
-### M01 Lesson 1 — What “Functional” Means and How FND Can Appear
+No new source IDs were allocated during this audit. NICE NG217 is a potential new source if adopted; assign its permanent ID only during approved implementation.
 
-**Newly generated interim draft.** Accessible symptom description, variability without intentionality, coexistence, positive diagnosis and function-versus-exam distinction. Shorter and less illustrated than archived human version. Accuracy/evidence, graphics and reading flow require separate review before treating it as equivalent course material.
+## Eight-page change map
 
-- **Content:** Verify that explaining “function” does not overclaim a single information-processing mechanism. Clarify that FND is a positive clinical diagnosis; findings differ by symptom and don't measure sustained disability. Do not treat every symptom family mentioned as automatically FND.
-- **Reference:** `reference/diagnostic-concepts/01-positive-diagnosis.md`; `reference/diagnostic-signs/README.md` only if a compact symptoms index is helpful.
-- **Glossary:** `Functional`, `Positive diagnosis / rule-in diagnosis`, and perhaps `Coexisting condition / comorbidity`, selectively.
-- **Validation:** Decide whether one existing image is appropriate; do not copy copyrighted figures or human-written language back from the archive by default.
+Reference labels R1–R9 and glossary anchors are resolved in the next section. All proposed insertions remain unimplemented.
 
-### M01 Lesson 2 — Biopsychosocial Model and Misconceptions
+| Page | Evidence conclusion and worthwhile refinement | Proposed Reference placement | Selective glossary choice |
+|---|---|---|---|
+| **[M01 overview](../../../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md)** | Diagnostic framing, coexistence and descriptive capacity are sound. Apply M1. Keep recurrence separate from effort or worth. Its capacity description is a project planning concept supported by broader OT guidance, not an OT-validated scale. | **No additional link needed:** its lesson routes already provide the compact pathway. | None; avoid duplicating the first lesson. |
+| **[M01.1 — Functional](../../../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md)** | E1–E3 support genuine symptoms, positive diagnosis and phenotype variation. Retain the mechanism uncertainty and structural/functional coexistence. **Worthwhile:** a short terminology bridge for readers whose records use FNSD/conversion disorder or dissociative/PNES labels; explain historical usage without treating all labels/subtypes as interchangeable (E2, E12). One sentence recognizing associated pain/fatigue would help without making them automatic FND diagnoses (E1). | **R1**, after “What a diagnosis should explain.” | First meaningful `#functional` and `#positive-diagnosis--rule-in-diagnosis`; no symptom-by-symptom glossary links. |
+| **[M01.2 — Biopsychosocial model](../../../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md)** | No scientific correction established. Diagnosis, origin and current care targets are separated appropriately. E2–E3 support stress not being required; this does not mean psychological influences are absent in everyone. **Worthwhile:** clarify briefly that attention/learning/expectation involve brain processes as well as psychological description, preserving the existing overlap sentence. Retain practical support without assigning an individual cause. | **R2**, by the paragraph on dismissal as “just stress.” | `#biopsychosocial-model` only. Do not introduce “diagnostic overshadowing” solely to create another link. |
+| **[M01.3 — Recovery](../../../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md)** | Apply M1, M4 and M5. The course-specific remission definitions are clearly labelled and reasonable; do not present them as universal research thresholds. **Worthwhile:** qualify “Research into functional motor symptoms has found widely different outcomes” with a brief distinction between older prognosis evidence (E4), treatment response (E6–E7) and personally meaningful outcomes (E5). Long-standing symptoms do not establish that useful care is futile. Keep recurrence-not-failure. | **R3**, after the paragraph beginning “A return of symptoms does not erase real progress.” No treatment catalogue. | `#relapse--setback` at first “relapse.” **Remission/Recovery entries do not exist**; retain the lesson's own definitions. |
+| **[M01.4 — Capacity](../../../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md)** | E5, E13–E16 support the existing evidence distinctions. Keep the optional, brief capacity check and meaningful-activity examples. **Worthwhile:** reduce repeated “not a biomarker/not a guarantee” statements between the models table, low-capacity paragraph and research summary; retain one clear explanation and the relevant medical-safety boundary. Keep the practical teaching pace. The specific 2008 observational-association description needs full-text confirmation or narrower model-only wording (E13). | **R4**, after the appointment/repeatability example; **R5**, by the clinician paragraph on delayed/prolonged post-exertional worsening. Keep the existing Module 15 route. | `#available-capacity` and `#spoon-theory`. Additional autonomic/PEM links are unnecessary for the introductory flow. |
+| **[M02 overview](../../../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md)** | Positive evidence, defined questions for tests and coexistence are accurate (E1–E2, E9). No substantive omission requiring expansion. | **No additional link needed:** its two focused lessons are the useful choices. | None. |
+| **[M02.1 — Positive signs](../../../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md)** | Apply M2. **Worthwhile:** make “preserved motor capacity” explicitly mean the movement observed in that task, and add one sentence that this does not measure safe walking, endurance, repeatability or assistance needs (E5, R4). Describe Hoover's direct **hip extension** versus opposite-leg resisted **hip flexion** more precisely, without giving home-test instructions (E17–E18). No accuracy percentages needed. | **R1**, after asking the clinician to explain the sign; clinician examples link to **R6** and **R7**. Three destinations cover distinct needs. | `#positive-clinical-sign--positive-diagnostic-sign`; clinician first `#inconsistency`. Skip the broad entrainment definition for now; Hoover already has R6. |
+| **[M02.2 — Tests and uncertainty](../../../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md)** | Apply M3. Imaging/laboratory scope, coexistence, uncertainty and reassessment are sound. **Worthwhile:** one clinician sentence that selected neurophysiology can provide positive evidence for functional tremor/jerks, rather than only exclude nerve/muscle disease (E8). “Dual diagnosis” is usage language, not a separate diagnostic test. Keep home recording subordinate to consent and care. | **R8**, after the normal/abnormal-result explanation; **R9**, after the video-EEG/event-types paragraph. | First `#eeg` and `#differential-diagnosis`. Video-EEG is already explained; no need to link every test. |
 
-**Newly generated interim draft.** Diagnoses versus causes versus modifiable barriers are separated. Needs source and teaching review, especially the varied meanings of biological/psychological/social dimensions.
+**Worthwhile editorial finish:** M01.1–2 still say the interim draft needs claim-to-source review. When approved content is implemented, replace that task note with an accurate evidence-review date while retaining pending human/clinical status. M01.3 also needs a dated review note. Place source attribution at the end of material claim paragraphs, including coexistence and the named examination examples; do not add a citation after every sentence.
 
-- **Content:** Preserve “not required to have trauma/anxiety” and avoid treating a care framework as an established mechanism. Avoid adding repeated disclaimers around every example.
-- **Reference:** `reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md` (only where disbelief or psychologizing is discussed); consider a course Module 3 link for detailed causal models instead of repeating the material.
-- **Glossary:** `Biopsychosocial model`, `Diagnostic overshadowing` if that concept appears in the final wording.
-- **Validation:** Verify citations adequately support each substantive claim; prepare any quotation additions only from checked source text.
+## Exact link destinations and policy
 
-### M01 Lesson 3 — Remission, Recovery, and What Improvement Can Mean
+These **nine distinct Reference destinations** would support ten focused-lesson insertions, since R1 is useful on two independently readable pages. The overviews require none. Use descriptive ordinary links usable by touch and keyboard; hover must never be required.
 
-**Historical pre-human-edit generated draft restored.** Compare its dated evidence framing with newer outcome and life-impact standards. Do not let 'remission' imply the whole disease has been cured.
+| Label | Existing target | Reader purpose |
+|---|---|---|
+| R1 | [Understanding a Positive FND Diagnosis](../../diagnostic-concepts/01-positive-diagnosis.md) | Explanation of positive evidence, not normal tests or voluntary control. |
+| R2 | [Mental Health, Stigma, and Being Believed](../../biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md) | Deeper support where psychological assumptions or disbelief matter. |
+| R3 | [Recovery Pressure and Self-Blame](../../biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md) | Recovery goals and setbacks without moral judgement. |
+| R4 | [Assessment Results and Everyday Function](../../diagnostic-concepts/10-assessment-and-everyday-function.md) | Task performance, reliability, assistance and recovery cost. |
+| R5 | [Fatigue and Post-Activity Worsening](../../co-occurring-conditions/06-fatigue.md#for-clinicians-and-the-care-team) | Distinguish fatigue/PEM and assess relevant coexisting conditions. |
+| R6 | [Hoover's Sign — Interpretation](../../diagnostic-signs/functional_limb_weakness/01-hoovers-sign.md#interpretation-and-explanation) | Clinician-focused interpretation of the specific comparison. |
+| R7 | [Entrainment — Purpose and Suitability](../../diagnostic-signs/functional_tremor/02-entrainment.md#purpose-and-suitability) | Distinguish matching rhythm from other tremor changes. |
+| R8 | [Tests and Investigations](../../diagnostic-concepts/03-tests-and-investigations.md) | What normal, abnormal and incidental results can mean. |
+| R9 | [Functional Seizures](../../diagnostic-signs/06-functional-seizures.md#for-the-person-with-fnd) | Accessible assessment of typical events and coexisting epilepsy. |
 
-- **Content:** Inspect remission/recovery definitions, progress in quality of life versus disappearance of symptoms, follow-up and renewed medical assessment. Preserve no-cure and setbacks-not-failure principles.
-- **Reference:** `reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md` where treatment pressure comes up; one canonical recovery-techniques landing page only when genuinely useful.
-- **Glossary:** No `Remission` or `Recovery` glossary entry currently exists; prefer a short plain-language definition in the lesson, not a dead link or automatic glossary addition.
-- **Validation:** Review historical quotations/citation matching before publication approval.
+All selected glossary targets are in [`glossary/README.md`](../../../glossary/README.md), whose published route is `/glossary/`. The doubled hyphens in the table above are literal existing IDs. Do not infer anchors from a rewritten label.
 
-### M01 Lesson 4 — Available Capacity, Spoons, and Early Action
+Link the first useful unfamiliar use per page; repeat in an independently entered audience only when understanding needs it. Keep essential explanations in the lesson. A compact Further reading block is suitable when it provides a real alternative route; do not duplicate every contextual destination there.
 
-**Historical generated version restored.** Its length is greater than the other Module 1 drafts and merits a reading-load review rather than arbitrary shortening.
+## Checked evidence ledger
 
-- **Content:** “Capacity” and “spoons” are useful descriptive tools, not a diagnostic biomarker or universal predictor of seizures/flares. Distinguish adaptations, pacing and medical reassessment.
-- **Reference:** Consider `reference/diagnostic-concepts/10-assessment-and-everyday-function.md` when explaining repeatability and recovery cost. The detailed pacing module is the canonical course explanation; don't duplicate it here.
-- **Glossary:** `Available capacity` and `Spoon theory` at the first useful appearance, without linking all repetitions.
-- **Validation:** Confirm restored imagery/links and existing authorship notice after the site build.
+Access and interpretation below refer to this review date. Existing permanent IDs are preserved. “Indexed text” means the original source's text returned by search; it is not a secondary retelling. Main findings were checked against the cited abstract/section, with full-text access limits stated rather than assumed.
 
-### M02 Overview — How Is FND Diagnosed?
+| Key / stable ID | Original source and text checked | Audit interpretation |
+|---|---|---|
+| **E1 / FND-CIT-0001** | Bennett et al. *Clin Med*. 2021;21:28–36. [doi:10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987). Indexed full-article diagnostic-pitfall, phenotype and communication sections; [author manuscript](https://www.research.ed.ac.uk/files/203913690/Manuscript.pdf). | Positive diagnosis, coexistence, associated symptoms and genuine symptoms are supported. Normal scans or psychiatric history alone are insufficient. Clinical review, not validation of every sign or one causal mechanism. |
+| **E2 / FND-CIT-0002** | Espay et al. *JAMA Neurol*. 2018;75:1132–1141. [Full author manuscript](https://pmc.ncbi.nlm.nih.gov/articles/PMC7293766/), abstract, Phenomenology and Diagnosis, figure and diagnosis-delivery sections. | Stress is not a DSM-5 prerequisite; positive features are phenotype-specific. Its mechanistic models and optimism about reversibility should not become universal prognosis or blame. |
+| **E3 / FND-CIT-0003** | Hallett et al. *Lancet Neurol*. 2022;21:537–550. [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/35430029/) and indexed [author manuscript](https://pmc.ncbi.nlm.nih.gov/articles/PMC9107510/). | Supports genuine symptoms, subtype differences and developing shared-mechanism research. Does not establish one mechanism, a mandatory psychological trigger or a diagnostic biomarker. |
+| **E4 / FND-CIT-0007** | Gelauff et al. *JNNP*. 2014;85:220–226. [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/24029543/), doi:10.1136/jnnp-2013-305321. | Heterogeneous functional-motor prognosis evidence. It is not a modern treatment-effect estimate for all FND or a personal forecast. Retain for the limited historical claim rather than discard solely for age. |
+| **E5 / FND-CIT-0011, 0012** | Nicholson et al. *JNNP*. 2020;91:1037–1045, doi:10.1136/jnnp-2019-322281; [authors' 17-page long version](https://www.neurosymptoms.org/wp-content/uploads/2020/12/jnnp-2019-322281-inline-supplementary-material-1.pdf), goals/pacing/relapse sections. Rutten et al. *J Neurol*. 2025;272:189; [full text](https://link.springer.com/article/10.1007/s00415-025-12912-9), abstract/methods/results. | OT recommendations are consensus. Rutten's UK interviews with 22 patients, 18 caregivers and 21 professionals support patient-centred, broader outcomes; they do not test treatment efficacy. Neither validates a universal capacity score or remission threshold. |
+| **E6 / FND-CIT-0051** | Thomas et al. *BMJ Neurol Open*. 2025;7:e001150. [Abstract](https://pubmed.ncbi.nlm.nih.gov/41070273/) and indexed original [PDF](https://neurologyopen.bmj.com/content/7/2/e001150.full.pdf), methods/conclusions/bias sections. | Treatment synthesis: 63 studies, 27 meta-analysed. Longer duration was associated with modestly smaller gains in some outcomes, while benefit remained possible. Heterogeneity, study-level associations and likely publication bias limit individual prediction. No “too late” or “try harder” conclusion. |
+| **E7 / FND-CIT-0029** | Nielsen et al. Physio4FMD. *Lancet Neurol*. 2024;23:675–686. [Original trial abstract](https://pubmed.ncbi.nlm.nih.gov/38768621/), doi:10.1016/S1474-4422(24)00135-2. | Specialist physiotherapy did not outperform usual neurological physiotherapy on the primary self-reported physical-function outcome at 12 months; some secondary outcomes favoured it. This neither proves no rehabilitation benefit nor supports guaranteed recovery. Trial detail belongs in later treatment teaching. |
+| **E8 / FND-CIT-0022** | Edwards et al. IFCN Handbook Chapter. *Clin Neurophysiol Pract*. 2024;9:69–77. [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC10862411/), sections 1 and 2.2; doi:10.1016/j.cnp.2023.12.006. | Rhythm matching is entrainment; suppression, mirror movement and other changes are distinct. Selected neurophysiology can support a positive motor diagnosis. These are protocol/phenotype-specific observations, not tests of intentions. |
+| **E9 / FND-CIT-0010** | Tolchin et al. AAN guideline. *Neurology*. 2026;106:e214466. [Abstract](https://pubmed.ncbi.nlm.nih.gov/41370742/) and indexed diagnostic recommendation; doi:10.1212/WNL.0000000000214466. | Obtain patient/witness history and available video; video-EEG of typical event types may be obtained where feasible; assess coexisting epilepsy. Applies to functional seizures, not all FND. Direct publisher full-text retrieval was blocked. |
+| **E10 / no ID allocated** | NICE NG217, [diagnosis and assessment](https://www.nice.org.uk/guidance/ng217/chapter/1-Diagnosis-and-assessment-of-epilepsy), indexed recommendation **1.2.6**. | Routine EEG must not be used to exclude epilepsy. An appropriate epilepsy-workup source, not an FND biomarker recommendation. |
+| **E11 / FND-CIT-0233** | Whitehead et al. *Clin Neurophysiol Pract*. 2017;2:130–139. [Abstract](https://pubmed.ncbi.nlm.nih.gov/30214985/) and indexed original [text](https://pmc.ncbi.nlm.nih.gov/articles/PMC6123876/); doi:10.1016/j.cnp.2017.06.002. | The event's semiology and EEG must be interpreted together; some epileptic events lack an ictal scalp correlate. This enduring technical limit qualifies the newer AAN guidance; no historical provocative manoeuvre is recommended here. |
+| **E12 / FND-CIT-0009** | Hingray et al. ILAE task force. *Epilepsia*. 2025;66:4162–4182. [Original record/abstract](https://pubmed.ncbi.nlm.nih.gov/40884444/); doi:10.1111/epi.18574. | “Functional/dissociative seizures” is a proposed label; terminology varies. Do not claim that every older name is obsolete or interchangeable with every FND subtype. |
+| **E13 / FND-CIT-0065** | Jason et al. *AAOHN J*. 2008;56:189–195. [Abstract](https://pubmed.ncbi.nlm.nih.gov/18578185/); doi:10.3928/08910162-20080501-06. | Confirms a proposed ME/CFS energy-envelope model. Full text was not obtained; the lesson's specific observational-association description was not independently confirmed. Narrow it to the checked model description if access remains unavailable. No FND extrapolation. |
+| **E14 / FND-CIT-0066** | Sanal-Hayes et al. *J Transl Med*. 2023;21:720. [Full text](https://link.springer.com/article/10.1186/s12967-023-04587-5), abstract/methods/conclusions. | Seventeen heterogeneous ME/CFS pacing studies; poor-to-fair methods and mixed results. Supports uncertainty, not an FND-specific intervention effect or a universal dose. |
+| **E15 / FND-CIT-0063** | Berntson et al. *Psychol Rev*. 1991;98:459–487. [Original abstract](https://pubmed.ncbi.nlm.nih.gov/1660159/); doi:10.1037/0033-295X.98.4.459. | Autonomic influences do not lie on one sympathetic-to-parasympathetic continuum. Abstract sufficient for this limited conceptual point; full original text not reviewed. Does not define “good spoons.” |
+| **E16 / FND-CIT-0064** | Paredes-Echeverri et al. *J Neuropsychiatry Clin Neurosci*. 2022;34:30–43. [Abstract](https://pubmed.ncbi.nlm.nih.gov/34711069/) and indexed original discussion; doi:10.1176/appi.neuropsych.21010025. | Autonomic/endocrine findings are heterogeneous, especially in adults; group associations do not provide an individual's capacity meter or universal mechanism. Preserve age/subtype distinctions. |
+| **E17 / FND-CIT-0018** | McWhirter et al. *J Psychosom Res*. 2011;71:384–386. [Original abstract](https://pubmed.ncbi.nlm.nih.gov/22118379/); doi:10.1016/j.jpsychores.2011.09.003. | Hoover comparison verified. Suspected-stroke cohort: 337 participants, eight functional cases; sensitivity 63%, specificity 100%. Small, unblinded subgroup does not make the sign infallible. Keep these figures in Reference. |
+| **E18 / FND-CIT-0183** | Dolbow et al. *J Neurol*. 2025;272:427. [Full text](https://link.springer.com/article/10.1007/s00415-025-13139-4), Hoover technique/interpretation; doi:10.1007/s00415-025-13139-4. | Supports precise task description, suitability and confounders. Review of validated techniques, not a new universal accuracy trial. |
 
-Currently has **zero** deep Reference links despite having directly matching cross-cutting references.
+### Quotations, source gaps and illustrations
 
-- **Content:** Positive clinical evidence, suitable tests and individual uncertainty are all essential; avoid implying a single sign applies to all FND.
-- **Reference:** Short “go deeper” pair: `reference/diagnostic-concepts/01-positive-diagnosis.md` and `reference/diagnostic-concepts/03-tests-and-investigations.md`. Link to the diagnostic-signs collection only if there is a separate practical reader need.
-- **Glossary:** Introduce `Positive diagnosis / rule-in diagnosis` only if that term is actually explained in the overview rather than repeating the focused lesson.
+- **M01.3's three research excerpts:** verified against Gelauff's abstract, Nicholson's long-version goal-setting section (PDF page 3), and Rutten's abstract Results. Preserve their limited purpose; add source locations in evidence notes rather than expand public quotation commentary.
+- **M02.1–2's research excerpts:** Bennett's diagnostic statement/comorbidity heading, Espay's Phenomenology and Diagnosis section, Hallett's abstract/manuscript opening, and Tolchin's abstract recommendation match the cited source fragments. In final editing, keep each quotation's citation outside the quote and its figure label immediately after it, following the existing policy. Do not force a three-quote quota on the new lessons.
+- **M02.1 community options:** the [ball-task account](https://www.reddit.com/r/FND/comments/1pslgkk/there_is_a_light_at_the_end_of_the_tunnel/) and [question-task comment](https://www.reddit.com/r/FND/comments/1nzuyuz/was_just_diagnosed_will_i_ever_work_or_be/) were retrieved. The first ellipsis preserves the reported event. The second changes capitalization/punctuation and omits the original statement about speaking the answer. **Worthwhile:** use an exact shorter fragment or paraphrase, with a direct comment link if available. Neither account proves a diagnostic sign or treatment efficacy.
+- **M02.2 community options:** the [eye-allergy account](https://www.reddit.com/r/FND/comments/1ievray/sharing_my_success_story/) and [binocular-vision account](https://www.reddit.com/r/FND/comments/1j02io8/why_do_i_get_sizures_from_eye_movements/) could not be retrieved. **Unnecessary for this lesson:** omit these unverified editorial options from finished public teaching; retain any future source-review work internally. Do not call them false or verified, or infer steroid-treatment benefit for FND.
+- **Spoon Theory / FND-CIT-0062:** original essay and original-site PDF could not be retrieved. Attribution/date remain previously recorded provenance, **not newly verified**. The communication-metaphor explanation does not depend on treating it as scientific evidence.
+- Both existing Module 2 SVGs were inspected as source: their labels, captions and alternatives describe assessment concepts rather than a diagnostic procedure. **Retain.** Adding or restoring an image in every Module 1 lesson is unnecessary for this audit; imagery would require its own benefit and accessibility review.
 
-### M02 Lesson 1 — Positive Signs and the Neurological Examination
+## Unnecessary changes
 
-The generated lesson already gives useful examples and includes an examination illustration but does not connect to the now-mature diagnostic references.
+- Exhaustive lists of symptoms, signs, diagnostic-accuracy statistics, biomarker candidates or treatment programmes.
+- Transferring Reference examination procedures into introductory lessons, or treating a sign as proof of sustained ability, symptom control or effort.
+- Repeating the same safety/uncertainty disclaimer around every example; keep only limits that change interpretation or action.
+- Automatic glossary replacement, links on every recurrence, empty new Remission/Recovery entries, or a fixed link quota.
+- Adding deep links to both overviews merely to increase counts; repeating all contextual links in Further reading.
+- Replacing older relevant studies solely because newer publications exist, or adding neuroscience discoveries that do not change these lessons' teaching.
+- Blanket share markers on all headings/source lists. Sharing is editorial opt-in; keep the existing audience IDs stable and do not add markers to this internal report.
 
-- **Content:** Cross-check Hoover's sign, tremor distractibility/entrainment, and the limits of each with the evidence review. A positive examination finding must not be equated with full everyday functional capacity or voluntary control.
-- **Reference:** `reference/diagnostic-concepts/01-positive-diagnosis.md` and one carefully chosen concrete example, e.g. `reference/diagnostic-signs/functional_limb_weakness/01-hoovers-sign.md`. A broad reader-facing further-reading link may be more appropriate than multiple technical technique links.
-- **Glossary:** `Positive clinical sign / positive diagnostic sign`, `Hoover's sign`; optional `Inconsistency` if the lesson uses the term.
-- **Validation:** Verify detailed scientific claims and citations; don't replace clear introductory explanations with specialist test parameters.
+## Validation and review gate
 
-### M02 Lesson 2 — Tests, Diagnostic Uncertainty, and Coexisting Conditions
+- **Preservation:** all four archive payloads equal their original Git-source bytes; archive and all eight public course files unchanged by this continuation.
+- **Scope:** the continuation diff contains this audit document only. No Reference, glossary, citation-index, policy, asset or other-module mutation.
+- **Source preparation:** `python tools/site/prepare_site.py` passed: **428 public routes**, **98 course pages**, **323 Reference pages**; **40 internal Reference files excluded**. Canonical Markdown unchanged.
+- **Source validation:** `python tools/site/validate.py` passed. Proposed Reference/glossary fragments, existing course citations/audience anchors and report relative links were checked separately. Path/fragment validity does not establish clinical accuracy.
+- **Structure:** all six focused lessons retain Person, Supporter, Clinician and Research sections. Their citation numbers resolve to local entries, and permanent IDs exist. The reading-sequence/navigation issues in M4 are recommendations, not fixed by a passing build.
+- **Publication boundary:** this report and the protected archive are absent from generated public routes.
+- **Build:** full Jekyll/Pagefind/rendered-artifact checks are delegated to this PR's GitHub workflow because Ruby/Bundler are unavailable locally. Record the final run result in the PR after the audit-only update. No public layout or interaction was changed; mobile/keyboard checks of proposed links remain an approved-implementation check.
+- **Remaining human review:** educational judgement, clinical interpretation, lived experience and reading/accessibility review. The named limited-access sources are recorded above; this audit does not silently upgrade provisional pages to approved content.
 
-Contains useful distinctions about MRI/CT, EEG, neurophysiology, uncertainty and coexisting conditions but no targeted deeper-reading route.
-
-- **Content:** Verify that a normal routine EEG does not rule out epilepsy; clarify what each investigation can and cannot show. Keep the possibility of coexisting diagnoses and concrete reassessment pathways.
-- **Reference:** `reference/diagnostic-concepts/03-tests-and-investigations.md`; optionally `reference/diagnostic-concepts/10-assessment-and-everyday-function.md` for the distinction between tests, clinical assessment and daily function.
-- **Glossary:** `EEG`, `Differential diagnosis`, `Coexisting condition / comorbidity` if used in the final wording.
-- **Validation:** Seek evidence for claims regarding tests and event evaluation; ensure no passage encourages avoiding medical care for a new or substantially changed symptom.
-
-## Site-wide policy to apply in Audit 2
-
-1. **Keep lessons independently useful:** no new link should be required to understand an essential course explanation.
-2. **Contextual reference links:** attach selectively to the sentence where detail is needed. Prefer 1–3 distinct deeper-reading destinations in simple lessons, more only when the topics truly justify it.
-3. **Further reading:** a compact block near the end of a focused course lesson only when it genuinely helps; avoid repeating every contextual link in the block.
-4. **Glossary:** manually select the first meaningful unfamiliar use per page or independent audience; no automated replace-all. Existing entries must match the linked concept and exact anchor. On mobile, links remain accessible without hover.
-5. **Source integrity:** reuse the stable IDs and verified citations. Never infer that task performance proves low disability, full recovery or deliberate control.
-6. **Human-writing boundary:** do not amend `reference/_internal/course/human-authored-module-01-2026-10-12.md` or copy its sentences back to course pages without the project lead's decision.
-7. **Build and reading checks:** verify each public URL, relevant section anchors, Next/Previous positions, plain text before/after links, citations, mobile tap/keyboard operation and accessible link names.
-
-## Work-mode handoff — necessary for deeper evidence review
-
-> In the GitHub repository `FND-Education-Project/FND-Education`, review **only** the eight Module 1–2 course pages listed in `reference/_internal/course/audit-01-modules-01-02.md` on branch `audit/course-align-m01-m02-archive-and-pass1`. Treat this document as the first-pass findings and the four archived human texts as protected source snapshots, not publishable copy.
->
-> Complete **Audit 1 only**: compare each lesson to the **current merged** FND Reference Library (diagnostic concepts/signs, recovery, biopsychosocial experiences, and relevant co-occurring material), the glossary and the project's editorial/evidence/navigation policies. For every materially outdated or inaccurate assertion, provide the exact passage, evidence distinction, and verified supporting citations, prioritizing Jon Stone and collaborators without ignoring stronger alternatives. Distinguish factual corrections, missing context, excessive verbosity, useful reference links, glossary candidates and optional refinements; assign **must-fix / worthwhile / unnecessary**. Identify exact existing link destinations and confirm glossary anchors; do not add generic links simply to increase counts. Check 2026-current sources online where material.
->
-> **Do not rewrite lessons or change reader-facing links yet.** Update the internal findings document with a concise page-by-page change map, proposed link placement and specific checked sources. Validate compatibility with the 4-section structure, citation convention, source IDs, shareable headings and mobile accessibility. Preserve the human-text archive verbatim. Commit to an **audit-only branch and open a draft PR targeting main**, or, if working within the existing draft PR, confine changes to the findings document. Stop for project-lead review rather than beginning Module 3 or Audit 2.
-
-**Gate:** Do not begin Audit 2 before the lead has reviewed Audit 1 findings. Any content and glossary changes approved later should be built in separate, manageable implementation batches.
+**Stop here for Robert's review.** Keep PR #132 a draft. Do not implement these recommendations, proceed to Module 3, merge, or begin Audit 2. No additional Work-mode research prompt is needed to complete this batch; source-access follow-ups are bounded in the ledger.
