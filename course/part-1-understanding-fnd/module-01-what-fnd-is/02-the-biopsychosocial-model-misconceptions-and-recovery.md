@@ -4,7 +4,7 @@
 
 # The Biopsychosocial Model and Misconceptions
 
-> **Working draft:** This page contains human-authored and AI-assisted material and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
+> **Working draft:** This page contains human authored and AI-assisted material and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
 
 Living with FND can affect nearly every part of life. At the same time, what is happening in our lives can sometimes affect our health and symptoms.
 
@@ -28,7 +28,7 @@ The model can help us understand what might make life more difficult and what co
 
 FND is a neurological disorder that can be better understood and managed by considering different parts of our lives.
 
-When we talk about the *biopsychosocial model*, we're really talking about how our symptoms and everyday abilities may be affected by, well, all aspects of our lives and health.
+When we talk about the *biopsychosocial model*, we're talking about how different parts of our lives and health may affect our symptoms and everyday abilities.
 
 The word looks complicated, but let's break it down.
 
@@ -36,7 +36,7 @@ The word looks complicated, but let's break it down.
 
 - **The *psycho* part means psychological:** Our thoughts, emotions, attention, expectations, learning and ways of coping. Stress or past experiences can matter for some people, but they do not affect everyone in the same way.
 
-- **The *social* part means the world around us:** Our family, friendships, culture, relationships, living conditions, financial situation and access to healthcare. Support from other people is also part of this picture.
+- **The *social* part means the world around us:** Our family, friendships, culture, relationships, living conditions, financial situation and access to healthcare. Support from other people is also part of this picture. (*citations* [1](#citation-1), [3](#citation-3))
 
 ![Body and brain, thoughts and feelings, and life and surroundings are three areas to consider.](../../../assets/illustrations/module-1-page-2-biopsychosocial-influences.svg)
 
@@ -64,7 +64,9 @@ Notice that these influences come from different parts of their life.
 
 **We can sometimes make a difficult situation more manageable without knowing why the FND began.**
 
-FND is not the same thing as a headache. It can cause substantial disability, and both the symptoms and their effects on quality of life vary greatly. Improvement may be possible in symptoms, daily activities or quality of life, even when difficulties remain. (*citations* [5](#citation-5), [6](#citation-6), [9](#citation-9))
+FND is not the same thing as a headache. It can cause substantial disability, and its symptoms and effects on quality of life vary greatly. (*citations* [5](#citation-5), [6](#citation-6))
+
+Improvement may be possible in symptoms, daily activities or quality of life, even when difficulties remain. (*citation* [4](#citation-4))
 
 ### What the model does not mean
 
@@ -78,7 +80,7 @@ Being referred for psychological therapy can sometimes leave people wondering wh
 
 Consider someone who experiences functional seizures. They might worry about having a seizure while shopping, getting injured, or being alone when an episode occurs. These are understandable concerns about living with unpredictable symptoms.
 
-Psychological therapy might help the person manage those fears, rebuild confidence or find ways to participate in activities that matter to them.
+Psychological therapy might help the person manage those fears, rebuild confidence or find ways to participate in activities that matter to them. (*citations* [4](#citation-4), [5](#citation-5))
 
 **Helping someone manage the consequences of FND is different from treating something believed to have caused it.**
 
@@ -96,7 +98,7 @@ The reason is that understanding your everyday circumstances may help them find 
 
 It's helpful to distinguish three questions:
 
-1. **How do clinicians know I have FND?** They use your medical history, symptoms and recognizable clinical findings. The biopsychosocial model is not a diagnostic test.
+1. **How do clinicians know I have FND?** They use your medical history, symptoms and recognizable clinical findings that support the diagnosis. The biopsychosocial model is not a diagnostic test. (*citation* [5](#citation-5))
 
 2. **Why did my FND begin?** We may know what happened around the time symptoms started, but that doesn't necessarily tell us what caused them. The biopsychosocial model cannot establish that cause.
 
@@ -112,7 +114,7 @@ There are a few misunderstandings worth clearing up.
 
 **"It's all in your mind."**
 
-No. FND involves genuine neurological symptoms. Psychological factors may matter for some individuals but are not required.
+No. FND involves genuine neurological symptoms. Psychological factors may matter for some individuals but are not required for the diagnosis. (*citations* [1](#citation-1), [2](#citation-2))
 
 **"If stress makes symptoms worse, stress must have caused FND."**
 
@@ -200,7 +202,7 @@ However, **psychological treatment should not be assumed necessary for every per
 
 Some therapists have limited experience with FND, and older explanations of the disorder may still influence the care they offer.
 
-Rather than pushing someone into therapy, help them find an appropriate professional when they are interested and ready.
+Rather than pushing someone into therapy, help them find an appropriate professional when they are interested and ready. (*citations* [4](#citation-4), [5](#citation-5))
 
 One person's lived experience illustrates why this matters:
 
@@ -256,9 +258,9 @@ Contemporary FND models recognize interactions between neurological functioning,
 
 Hallett and colleagues describe FND as existing at the interface between neurology and psychiatry. This reflects the involvement of multiple fields in research and care, rather than establishing a required psychological cause. (*citations* [1](#citation-1), [2](#citation-2))
 
-The biopsychosocial framework provides a way of developing an individualized clinical formulation and care plan.
+The biopsychosocial framework helps clinicians develop an individualized understanding of the person’s difficulties and a care plan.
 
-It is not a diagnostic biomarker, a demonstrated universal causal mechanism or a requirement that all three domains contribute to every person's FND.
+It is not a biological test for FND or a proven explanation of how every case develops. Nor does it require all three areas to contribute to every person's FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ### Why the framework matters in clinical care
 
@@ -266,7 +268,7 @@ The biopsychosocial model can be useful because patients with similar FND sympto
 
 For example, two patients may both experience functional gait difficulties.
 
-One may have poorly controlled migraine and disrupted sleep. The other may have adequate physical endurance for a proposed rehabilitation activity but struggle to attend appointments because of transportation difficulties, financial limitations or an inaccessible home.
+One may have poorly controlled migraine and disrupted sleep. The other may have enough physical stamina for a proposed rehabilitation activity. Yet transportation difficulties, financial limitations or an inaccessible home may make it hard to attend appointments.
 
 Their neurological presentations may be similar, but an effective care plan needs to account for these differences.
 
@@ -284,9 +286,9 @@ Psychologists may address emotional distress or behavioural goals when relevant 
 
 No individual clinician needs to provide every aspect of this care.
 
-**The value of the model is in recognizing which needs matter, who can address them, and how the different parts of care can work together.**
+**The value of the model is in recognizing which needs matter, who can address them, and how the different parts of care can work together.** (*citations* [4](#citation-4), [5](#citation-5))
 
-Importantly, identifying a problem that affects treatment or daily life does not establish that the problem caused the patient's FND.
+Identifying a problem that affects treatment or daily life does not establish that it caused the patient's FND.
 
 ### What these three areas may include
 
@@ -298,7 +300,7 @@ Importantly, identifying a problem that affects treatment or daily life does not
 
 Some conditions, including migraine, persistent pain, sleep disturbance and mental-health disorders, may warrant treatment in their own right.
 
-Their coexistence with FND does not establish that they caused it. (*citations* [5](#citation-5), [6](#citation-6), [7](#citation-7))
+Having these conditions alongside FND does not establish that they caused it. (*citations* [5](#citation-5), [6](#citation-6), [7](#citation-7))
 
 ### Using the framework without assuming causation
 
@@ -321,19 +323,19 @@ Patients may need medical treatment, rehabilitation, psychological support, occu
 
 These needs may continue even when FND-specific treatment is unavailable, unsuccessful or only partly effective.
 
-Improvement should therefore be considered across several outcomes, including everyday function, independence, safety, participation and quality of life—not symptom frequency alone. (*citation* [9](#citation-9))
+Improvement should therefore be considered across several outcomes, including everyday function, independence, safety, participation and quality of life—not symptom frequency alone. (*citations* [8](#citation-8), [9](#citation-9))
 
-Community accounts repeatedly describe frustration when a diagnosis is followed by little explanation or practical assistance.
+**Community observation:** People describe frustration when a diagnosis is followed by little explanation or practical assistance.
 
-Providing a website can be a helpful starting point, but it should not substitute for appropriate individualized follow-up.
+Providing a website can be a helpful starting point, but it should not substitute for appropriate individualized follow-up. (*citations* [4](#citation-4), [5](#citation-5))
 
 The [NeuroSymptoms website](https://neurosymptoms.org/en/symptoms/) is a useful additional educational resource, but its general explanations cannot decide whether a particular new symptom in one patient is functional.
 
-### Avoiding diagnostic overshadowing
+### Avoiding diagnostic overshadowing: looking beyond FND
 
 An FND diagnosis does not exclude additional neurological or medical conditions.
 
-New, severe or substantially changed symptoms require appropriate clinical consideration, including relevant investigations when indicated.
+New, severe or substantially changed symptoms need appropriate clinical assessment, including investigations when indicated. (*citations* [2](#citation-2), [5](#citation-5))
 
 One lived experience illustrates this concern:
 
@@ -345,27 +347,21 @@ One lived experience illustrates this concern:
 
 *(This account illustrates the importance of correlating symptoms, examination findings and imaging. It does not establish the diagnosis of another patient with similar symptoms.)*
 
-### Further clinical resources
-
-The [Professional Roles in FND Care](../../../reference/professional-roles-in-fnd-care.md) page explains the contributions of different clinical specialties in more detail.
-
-Our [Reference Library](../../../reference/README.md) provides symptom-specific material on diagnostic techniques, recovery approaches, coexisting conditions and experiences associated with FND.
-
-The [Biopsychosocial Experiences collection](../../../reference/biopsychosocial-experiences/README.md) explores topics such as stigma, disbelief, emotional regulation, unpredictable symptoms and the social effects of disability.
-
 ### A final clinical consideration
 
 The strength of the biopsychosocial model is its ability to bring together aspects of health that might otherwise be treated separately.
 
-Its weakness is that an overly broad explanation can become difficult to test or challenge, particularly if every symptom or treatment outcome is interpreted as confirmation of the model.
+An overly broad explanation can be difficult to test or challenge. This is a weakness if every symptom or treatment outcome is treated as confirmation of the model.
 
 **Individualized care should therefore be guided by evidence, the patient's reported experience, identifiable needs and shared goals—not by requiring the patient to accept a particular explanation for their FND.**
 
 ---
 
-### Further Reading in the Reference Library
+### Further reading in the Reference Library
 
-- [Biopsychosocial Experiences Associated with FND](../../../reference/biopsychosocial-experiences/README.md) — Experiences that can influence daily life without automatically explaining the disorder's cause.
+Our [Reference Library](../../../reference/README.md) provides symptom-specific material on diagnostic techniques, recovery approaches, coexisting conditions and experiences associated with FND.
+
+- [Biopsychosocial Experiences Associated with FND](../../../reference/biopsychosocial-experiences/README.md) — Stigma, disbelief, emotional regulation, unpredictable symptoms and the social effects of disability, without automatically explaining the disorder's cause.
 - [Mental Health, Stigma, and Being Believed](../../../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md) — FND, psychological wellbeing, stigma and the importance of appropriate support.
 - [Professional Roles in FND Care](../../../reference/professional-roles-in-fnd-care.md) — How different specialties can contribute to care.
 
@@ -385,28 +381,30 @@ Its weakness is that an overly broad explanation can become difficult to test or
 ## Research and Sources
 {: #research-and-sources .shareable }
 
+*Evidence and readability review: October 12, 2026. This remains a working draft.*
+
 The research discussed here supports a whole-person approach to care while recognizing that the causes and mechanisms of FND remain incompletely understood.
 
 Clinical reviews, patient surveys, systematic reviews and personal experiences provide different kinds of information. They should not automatically be treated as equivalent evidence.
 
 ### Selected findings from the literature
 
-**Hallett et al. (2022)** describe psychological stressors as common risk factors that may nevertheless be absent. [1](#citation-1)
+**Hallett et al. (2022)** describe psychological stressors as common risk factors that may nevertheless be absent. (*citation* [1](#citation-1))
 
-**Butler et al. (2021)** report that many respondents in an international online FND survey identified multiple possible influences, including physical and psychological factors. This reflects respondents' experiences and beliefs, not proof of causation. [6](#citation-6)
+**Butler et al. (2021)** report that many respondents in an international online FND survey identified multiple possible influences, including physical and psychological factors. This reflects respondents' experiences and beliefs, not proof of causation. (*citation* [6](#citation-6))
 
-**Sekine et al. (2025)** review biopsychosocial factors related to outcomes, reinforcing the importance of distinguishing symptom changes from broader effects on functioning and participation. [9](#citation-9)
+**Sekine et al. (2025)** review factors associated with outcomes. They explain that a change in seizure frequency may not mean a change in participation in everyday life. (*citation* [9](#citation-9))
 
 ### Citation table
 
-| Citation | Source |
-|---|---|
-| <a id="citation-1"></a>**[1]** | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../../research/citation-index.md#fnd-cit-0003). [DOI](https://doi.org/10.1016/S1474-4422(21)00422-1). |
-| <a id="citation-2"></a>**[2]** | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [DOI](https://doi.org/10.1001/jamaneurol.2018.1264). |
-| <a id="citation-3"></a>**[3]** | Pick S, Goldstein LH, Perez DL, Nicholson TR. Emotional processing in functional neurological disorder: a review, biopsychosocial model and research agenda. *Journal of Neurology, Neurosurgery & Psychiatry*. 2019;90(6):704–711. [FND-CIT-0005](../../../research/citation-index.md#fnd-cit-0005). [DOI](https://doi.org/10.1136/jnnp-2018-319201). |
-| <a id="citation-4"></a>**[4]** | Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4):e00612. [FND-CIT-0013](../../../research/citation-index.md#fnd-cit-0013). [DOI](https://doi.org/10.1016/j.neurot.2025.e00612). |
-| <a id="citation-5"></a>**[5]** | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [DOI](https://doi.org/10.7861/clinmed.2020-0987). |
-| <a id="citation-6"></a>**[6]** | Butler M, Shipston-Sharman O, Seynaeve M, et al. International online survey of 1048 individuals with functional neurological disorder. *European Journal of Neurology*. 2021;28(11):3591–3602. [FND-CIT-0014](../../../research/citation-index.md#fnd-cit-0014). [DOI](https://doi.org/10.1111/ene.15018). |
-| <a id="citation-7"></a>**[7]** | Steinruecke M, Mason I, Keen M, McWhirter L, Carson AJ, Stone J, Hoeritzauer I. Pain and functional neurological disorder: a systematic review and meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*. 2024;95(9):874–885. [FND-CIT-0015](../../../research/citation-index.md#fnd-cit-0015). [DOI](https://doi.org/10.1136/jnnp-2023-332810). |
-| <a id="citation-8"></a>**[8]** | Hoeritzauer I, Pronin S, Carson A, Statham P, Demetriades AK, Stone J. The clinical features and outcome of scan-negative and scan-positive cases in suspected cauda equina syndrome: a retrospective study of 276 patients. *Journal of Neurology*. 2018;265(12):2916–2926. [FND-CIT-0016](../../../research/citation-index.md#fnd-cit-0016). [DOI](https://doi.org/10.1007/s00415-018-9078-2). |
-| <a id="citation-9"></a>**[9]** | Sekine ER, Kanaan RA, McMillan J, Oxford S, Iles RA. Biopsychosocial prognostic indicators in Functional Neurological Disorder: a systematic review. *Journal of Psychosomatic Research*. 2025;195:112201. [FND-CIT-0017](../../../research/citation-index.md#fnd-cit-0017). [DOI](https://doi.org/10.1016/j.jpsychores.2025.112201). |
+| Citation | Source | Supports on this page |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../../research/citation-index.md#fnd-cit-0003). [DOI](https://doi.org/10.1016/S1474-4422(21)00422-1). | Clinical review: varied presentations, psychological stress not required, and individualized care. |
+| <a id="citation-2"></a>**[2]** | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [DOI](https://doi.org/10.1001/jamaneurol.2018.1264). | Clinical review: positive diagnosis, causally neutral diagnostic criteria and coexisting conditions. |
+| <a id="citation-3"></a>**[3]** | Pick S, Goldstein LH, Perez DL, Nicholson TR. Emotional processing in functional neurological disorder: a review, biopsychosocial model and research agenda. *Journal of Neurology, Neurosurgery & Psychiatry*. 2019;90(6):704–711. [FND-CIT-0005](../../../research/citation-index.md#fnd-cit-0005). [DOI](https://doi.org/10.1136/jnnp-2018-319201). | Review and proposed model: interactions between emotional, environmental and brain processes; not a universal cause. |
+| <a id="citation-4"></a>**[4]** | Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4):e00612. [FND-CIT-0013](../../../research/citation-index.md#fnd-cit-0013). [DOI](https://doi.org/10.1016/j.neurot.2025.e00612). | Clinical review: selecting treatments, multidisciplinary care and shared decisions. |
+| <a id="citation-5"></a>**[5]** | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [DOI](https://doi.org/10.7861/clinmed.2020-0987). | Clinical review: diagnosis, psychological and physical treatment, follow-up and avoiding diagnostic overshadowing. |
+| <a id="citation-6"></a>**[6]** | Butler M, Shipston-Sharman O, Seynaeve M, et al. International online survey of 1048 individuals with functional neurological disorder. *European Journal of Neurology*. 2021;28(11):3591–3602. [FND-CIT-0014](../../../research/citation-index.md#fnd-cit-0014). [DOI](https://doi.org/10.1111/ene.15018). | Online survey: associated symptoms and respondents’ views; self-report does not establish causation or population prevalence. |
+| <a id="citation-7"></a>**[7]** | Steinruecke M, Mason I, Keen M, McWhirter L, Carson AJ, Stone J, Hoeritzauer I. Pain and functional neurological disorder: a systematic review and meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*. 2024;95(9):874–885. [FND-CIT-0015](../../../research/citation-index.md#fnd-cit-0015). [DOI](https://doi.org/10.1136/jnnp-2023-332810). | Systematic review and meta-analysis: pain and pain-related conditions alongside FND. |
+| <a id="citation-8"></a>**[8]** | Rutten S, Bradley-Westguard A, Nicholson TR, Pick S. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../../research/citation-index.md#fnd-cit-0012). [DOI](https://doi.org/10.1007/s00415-025-12912-9). | Qualitative study: patient, caregiver and clinician priorities beyond symptom counts; not a treatment-effect study. |
+| <a id="citation-9"></a>**[9]** | Sekine ER, Kanaan RA, McMillan J, Oxford S, Iles RA. Biopsychosocial prognostic indicators in Functional Neurological Disorder: a systematic review. *Journal of Psychosomatic Research*. 2025;195:112201. [FND-CIT-0017](../../../research/citation-index.md#fnd-cit-0017). [DOI](https://doi.org/10.1016/j.jpsychores.2025.112201). | Systematic review: prognostic associations and the distinction between seizure frequency and participation. |

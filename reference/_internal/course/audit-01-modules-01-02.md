@@ -155,3 +155,34 @@ No proposed Reference or Glossary cross-link was added. The four archived human 
 - **Remaining human review:** educational judgement, clinical interpretation, lived experience and reading/accessibility review. The named limited-access sources are recorded above; this audit does not silently upgrade provisional pages to approved content.
 
 **Stop here for Robert's review.** Keep PR #132 a draft. Do not implement these recommendations, proceed to Module 3, merge, or begin Audit 2. No additional Work-mode research prompt is needed to complete this batch; source-access follow-ups are bounded in the ledger.
+
+## Separately authorized Lesson 2 citation and readability review — October 12, 2026
+
+**Scope:** the project lead requested an audit of the newly committed Lesson 2 (`b73d490`), citation repairs and readability improvements without changing its content. This is a limited editorial follow-up, not implementation of the remaining Audit 2 proposals. The archived manuscripts and all other lessons are untouched.
+
+**Assessment:** retain the lesson's focus on care needs rather than inferred causes. It already distinguishes diagnosis, onset and current support; respects treatment choices; permits unpredictable symptoms and difficulty journaling; and values quality of life when symptoms persist. No substantive teaching rewrite is needed.
+
+**Citation repairs:**
+
+- Removed the unused local Hoeritzauer scan-negative cauda-equina citation. That study cannot authenticate the author's thoracic-spine account. The narrative remains verbatim and labelled lived experience; the surrounding general reassessment advice now cites Espay and Bennett. Permanent FND-CIT-0016 is retained in the index.
+- Local citation 8 now identifies existing FND-CIT-0012 (Rutten), supporting the broader outcome priorities alongside Sekine. Rutten is a qualitative study of stakeholder views, not evidence that a particular treatment works.
+- Separated disability/associated-symptom citations from the treatment-benefit sentence; added targeted attribution to diagnosis, therapy, clinical planning and follow-up passages. The page table now says what each source supports and distinguishes reviews, a proposed model, survey evidence and outcome research.
+- Restored six missing Lesson 2 current-use entries in the central index: FND-CIT-0005, 0012, 0013, 0014, 0015 and 0017. No source IDs were allocated or renumbered.
+
+**Evidence checked and access limits:**
+
+| Source | Verification and interpretation |
+|---|---|
+| Hallett 2022, FND-CIT-0003 | [Original abstract](https://pubmed.ncbi.nlm.nih.gov/35430029/), retrieved through indexed text: psychological stressors may be absent; neurology/psychiatry interface and tailored multidisciplinary care. Direct full-text retrieval was not available. |
+| Espay 2018, FND-CIT-0002 | [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC7293766/), diagnostic and treatment sections: positive diagnosis without a stressor requirement, coexisting conditions, physical/psychological interventions and individual selection. These clinical-review recommendations are not universal treatment guarantees. |
+| Pick 2019, FND-CIT-0005 | [Author-institution abstract](https://kclpure.kcl.ac.uk/portal/en/publications/emotional-processing-in-functional-neurological-disorder-a-review/): an integrative emotional-processing hypothesis and research agenda. Retained as model evidence, not established individual causation. Bibliography uses final 2019 issue rather than 2018 online-publication date. |
+| Dworetzky and Baslet 2025, FND-CIT-0013 | [Original article record and indexed text](https://pmc.ncbi.nlm.nih.gov/articles/PMC12418456/): practical management and treatment selection by presentation and individual circumstances. Full-page access was blocked; no quantitative treatment effects or new detailed claims were introduced. |
+| Bennett 2021, FND-CIT-0001 | [Original abstract and indexed article sections](https://pmc.ncbi.nlm.nih.gov/articles/PMC7850207/): positive diagnosis, diagnostic pitfalls, comorbidity and multidisciplinary care. Direct article/PDF access was blocked in this review. Existing course claims retained; no personal history medically verified. |
+| Butler 2021, FND-CIT-0014 | [Original abstract](https://pubmed.ncbi.nlm.nih.gov/34245646/): 1,048 online respondents; associated symptoms and perceived multiple causes. Recruitment/response bias and causal limits retained. |
+| Steinruecke 2024, FND-CIT-0015 | [Original record and indexed abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC11347250/): pain and pain-related comorbidities. Full-page access blocked. Used only for that narrow claim, not every condition in the table. |
+| Rutten 2025, FND-CIT-0012 | [Full text](https://link.springer.com/article/10.1007/s00415-025-12912-9), Results: 22 patients, 17 caregivers and 21 professionals; varied goals and outcomes. Supports broad assessment priorities, not treatment efficacy or population prevalence. |
+| Sekine 2025, FND-CIT-0017 | [Original abstract](https://pubmed.ncbi.nlm.nih.gov/40609303/) and [publisher abstract](https://www.sciencedirect.com/science/article/pii/S0022399925001655): prognostic associations, limited systemic-context research, and separation of seizure-frequency change from participation. The selected finding now states that specific distinction. |
+
+**Readability and provenance:** simplified dense phrases, split the long rehabilitation example, explained diagnostic overshadowing in its heading, consolidated duplicated clinical-resource links while retaining all destinations and descriptions, and added a dated review note. The three personal blockquotes are unchanged. Community observations are labelled as such; they are not presented as a systematic community survey. The broad framework critique remains an editorial consideration, not a trial finding. The working-draft banner still discloses AI assistance; spelling “human authored” now matches the existing generator's authorship recognition.
+
+**Validation:** source preparation, site validation and `git diff --check` passed. Lesson links/citation anchors, source-use mapping, unchanged personal blockquotes and archive preservation are checked separately before commit. Ruby/Bundler are unavailable locally; the full Jekyll/Pagefind artifact build remains the PR workflow's check. The draft is not promoted to clinical approval and is not merged.
