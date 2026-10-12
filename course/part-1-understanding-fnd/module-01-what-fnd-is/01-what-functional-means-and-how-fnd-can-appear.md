@@ -113,6 +113,10 @@ The everyday examples below offer a simple way to explore how attention, the bra
 
 They are comparisons, not exact explanations of any person's symptoms.
 
+![Three everyday examples: a squirrel beside a woodland path, a person lifting a foot for an expected extra stair at the landing, and a tired person sitting with an open book.](../../../assets/images/lesson-1-illustration.png)
+
+*Left to right: attention, prediction and awareness of internal bodily signals.*
+
 ### Attention: The squirrel beside the path
 
 Think about walking along a path. You notice a squirrel beside the trail and turn your attention toward it.
