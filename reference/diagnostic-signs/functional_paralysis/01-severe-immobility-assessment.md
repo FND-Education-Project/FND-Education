@@ -22,7 +22,7 @@ Clinician-focused educational reference; use within professional competence, con
 ## Purpose and Suitability
 {: #purpose-and-suitability .shareable }
 
-Use this guide to establish what “paralysis” means in this presentation, decide which comparison is interpretable and identify immediate care needs. It owns the original five-step examination outline and media brief. Severe functional weakness is the clinical frame; this page does not assert a separate paralysis mechanism. (*citations* [1](#citation-1))
+Use this guide to establish what “paralysis” means in this presentation, decide which comparison is interpretable and identify immediate care needs. Severe functional weakness is the clinical frame; this page does not assert a separate paralysis mechanism. (*citations* [1](#citation-1))
 
 > **Phenotype:** The observed symptom pattern, including which movements are affected, on which side and over what time course.
 
@@ -43,7 +43,7 @@ The [leg](02-leg-comparisons-and-limits.md) and [arm](03-arm-comparisons-and-lim
 
 ## Anatomy and Physiology
 
-The original outline compares access to the same movement under different conditions. Movement recruited during another task can provide useful evidence, but it does not map every pathway or exclude coexisting disease. Positive clinical findings, rather than normal tests alone, support diagnosis. (*citations* [1](#citation-1))
+The examination compares access to the same movement under different conditions. Movement recruited during another task can provide useful evidence, but it does not map every pathway or exclude coexisting disease. Positive clinical findings, rather than normal tests alone, support diagnosis. (*citations* [1](#citation-1))
 
 > **Synergistic movement:** Movement recruited together with another action as part of coordinated muscle activity.
 
@@ -93,7 +93,7 @@ Assessment should leave the person safely positioned with access to help. Contin
 4. Reproduce the contrast carefully and interpret it with the entire examination. Do not generalize a positive sign in one movement to all limbs or all tasks.
 5. Explain the result as evidence that an automatic movement pathway remains accessible, not as evidence that the patient could move normally by choosing to try harder.
 
-(*citations* [1](#citation-1))
+(*citations* [1](#citation-1), [5](#citation-5))
 
 ### Keep event history and limb examination distinct
 
@@ -176,7 +176,7 @@ When evidence is incomplete: “We still need to clarify the cause. We can expla
 
 The general-physician review supplies the positive-diagnosis and coexistence framework. It is not a trial validating this authored care record or a test of all forms of complete paralysis. The neurophysiology chapter is specialist guidance, not proof that normal recordings rule out every neurological disorder. (*citations* [1](#citation-1), [2](#citation-2))
 
-The original inventory includes an older paraplegia report. Historical assumptions about psychiatric history, compensation or intention must not become present-day diagnostic signs. The preserved entry already makes that boundary explicit.
+The contemporary technique review emphasizes matching each comparison to the affected movement and its examination requirements. The resulting sign supports clinical reasoning; it does not measure the person’s practical care needs. (*citations* [5](#citation-5))
 
 This targeted expansion does not establish a functional-paralysis-specific disability score or minimum clinically important change. Any formal outcome measure needs its own purpose, version, population evidence and interpretation; the questions above remain authored prompts.
 
@@ -234,6 +234,7 @@ The five-step outline and media brief are preserved from the overview. The care 
 | <a id="citation-2"></a>**[2]** | — | Edwards MJ, Koens LH, Liepert J, et al. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical neurophysiology practice*. 2024;9:69-77. [DOI](https://doi.org/10.1016/j.cnp.2023.12.006). [PMID: 38352251](https://pubmed.ncbi.nlm.nih.gov/38352251/). [FND-CIT-0022](../../../research/citation-index.md#fnd-cit-0022). |
 | <a id="citation-3"></a>**[3]** | — | NHS. Symptoms of a stroke. Reviewed September 12, 2024; accessed September 17, 2026. [Source](https://www.nhs.uk/conditions/stroke/symptoms/). [FND-CIT-0108](../../../research/citation-index.md#fnd-cit-0108). |
 | <a id="citation-4"></a>**[4]** | — | Hoeritzauer I, Pronin S, Carson A, Statham P, Demetriades AK, Stone J. The clinical features and outcome of scan-negative and scan-positive cases in suspected cauda equina syndrome: a retrospective study of 276 patients. *Journal of Neurology*. 2018;265(12):2916–2926. [https://doi.org/10.1007/s00415-018-9078-2](https://doi.org/10.1007/s00415-018-9078-2) [FND-CIT-0016](../../../research/citation-index.md#fnd-cit-0016). |
+| <a id="citation-5"></a>**[5]** | — | Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functional motor weakness: a review of validated techniques. *Journal of Neurology*. 2025;272(6):427. [DOI](https://doi.org/10.1007/s00415-025-13139-4). [FND-CIT-0183](../../../research/citation-index.md#fnd-cit-0183). |
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

@@ -141,7 +141,7 @@ Agree one or two meaningful follow-up goals; keep treatment details in the [reco
 ## Evidence and Limitations
 {: #evidence-and-limitations .shareable }
 
-Revell and colleagues interviewed seven women recruited through one specialist clinic; only three contributed event diary data. The qualitative model may inform discussion, but cannot establish a universal cause, diagnostic threshold or treatment effect. Recruitment and prior explanations may have influenced findings. Methods and limitations were checked in the full text. The record above is not the study instrument. [1](#citation-1)
+Revell and colleagues interviewed seven women recruited through one specialist clinic; only three contributed event diary data. The qualitative model may inform discussion, but cannot establish a universal cause, diagnostic threshold or treatment effect. Recruitment and prior explanations may have influenced findings. The record above is not the study instrument. (*citations* [1](#citation-1))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

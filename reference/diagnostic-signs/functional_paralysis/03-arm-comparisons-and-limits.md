@@ -89,7 +89,7 @@ Retain the person's communication and call-for-help access during and after the 
 
 The primary study used resisted finger spreading with a sustained contraction in one hand while observing associated spreading in the opposite hand. For a person with unilateral arm paralysis, the relevant contrast is absent requested finger movement versus movement recruited during the less affected hand's task. (*citations* [1](#citation-1))
 
-Record the baseline, which hand performed the task, the movement actually seen and any compensation or assistance. This description is not a complete administration protocol; primary full-text details still require review before standardizing duration, force or positioning.
+Record the baseline, which hand performed the task, the movement actually seen and any compensation or assistance. Use the contemporary [technique review](https://doi.org/10.1007/s00415-025-13139-4) for the described method and its restrictions. (*citations* [3](#citation-3))
 
 ### Elbow flex-ex comparison
 
@@ -161,11 +161,11 @@ If the comparison is unclear, give that result without pressing for repeated max
 ## Evidence and Limitations
 {: #evidence-and-limitations .shareable }
 
-Tinazzi included ten people with acute functional arm paralysis, eleven with acute paralysis from other causes and 36 healthy participants. The finger sign separated the two small patient groups perfectly in that sample. This does not establish universal accuracy, applicability to partial weakness or a measure of disability. Primary abstract reviewed; complete full-text appraisal remains pending. (*citations* [1](#citation-1))
+Tinazzi included ten people with acute functional arm paralysis, eleven with acute paralysis from other causes and 36 healthy participants. The finger sign separated the two small patient groups perfectly in that sample. This does not establish universal accuracy, applicability to partial weakness or a measure of disability. (*citations* [1](#citation-1))
 
-Lombardi first tested 23 people without arm weakness, then 31 with unilateral weakness: ten classified as functional and 21 with other causes. All patient cases were correctly classified in that sample. Small selected-group performance does not establish perfect accuracy in routine care. Primary abstract methods/results were checked; broader replication and full-text appraisal remain pending. (*citations* [2](#citation-2))
+Lombardi first tested 23 people without arm weakness, then 31 with unilateral weakness: ten classified as functional and 21 with other causes. All patient cases were correctly classified in that sample. Small selected-group performance does not establish perfect accuracy in routine care. (*citations* [2](#citation-2))
 
-The descriptions above keep protocol detail to what was directly available. No new diagnostic threshold, force target or treatment exercise is supplied.
+The contemporary review supports interpreting each sign within its movement requirements and the full examination. (*citations* [3](#citation-3))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -201,12 +201,13 @@ Do not stage a hand falling toward the face or exaggerate resistance. Include a 
 
 ## Research and Sources
 
-The two primary records support the stated comparison and sample descriptions. Authored documentation and explanation prompts are educational aids, not separately validated tests. Other original upper-limb entries remain in the preserved inventory pending detailed review.
+The two primary records support the stated comparison and sample descriptions. Authored documentation and explanation prompts are educational aids, not separately validated tests. The [inventory](technique-inventory.md) also explains which upper-limb tests require residual voluntary movement.
 
 | Citation | Figure | Full citation |
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | — | Tinazzi M, Simonetto S, Franco L, et al. Abduction finger sign: a new sign to detect unilateral functional paralysis of the upper limb. *Movement Disorders*. 2008;23(16):2415–2419. [FND-CIT-0057](../../../research/citation-index.md#fnd-cit-0057). [https://doi.org/10.1002/mds.22268](https://doi.org/10.1002/mds.22268) |
 | <a id="citation-2"></a>**[2]** | — | Lombardi TL, Barton E, Wang J, et al. The elbow flex-ex: a new sign to detect unilateral upper extremity non-organic paresis. *Journal of neurology, neurosurgery, and psychiatry*. 2014;85(2):165-167. [DOI](https://doi.org/10.1136/jnnp-2012-304314). [PMID: 23695497](https://pubmed.ncbi.nlm.nih.gov/23695497/). [FND-CIT-0134](../../../research/citation-index.md#fnd-cit-0134). |
+| <a id="citation-3"></a>**[3]** | — | Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functional motor weakness: a review of validated techniques. *Journal of Neurology*. 2025;272(6):427. [DOI](https://doi.org/10.1007/s00415-025-13139-4). [FND-CIT-0183](../../../research/citation-index.md#fnd-cit-0183). |
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

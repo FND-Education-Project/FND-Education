@@ -22,7 +22,7 @@ Clinician-focused educational reference. Use within professional competence and 
 ## Purpose and Suitability
 {: #purpose-and-suitability .shareable }
 
-Use this guide when considering the ESSTS consensus framework alongside a complete specialist assessment. It is not a self-diagnostic checklist or a score to be applied to a social-media clip. Review primary tics and possible coexistence before assigning a single explanation. [1](#citation-1), [2](#citation-2)
+Use this guide when considering the ESSTS consensus framework alongside a complete specialist assessment. It is not a self-diagnostic checklist or a score to be applied to a social-media clip. Review primary tics and possible coexistence before assigning a single explanation. (*citations* [1](#citation-1), [2](#citation-2))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -79,7 +79,7 @@ Explain why a specialist is reviewing the history. Do not provoke symptoms to fi
 
 ### Using the source framework
 
-The ESSTS framework combines onset age, rapid evolution and a specified pattern of phenomenological features. Its authors proposed three major and two minor criteria, with different combinations for their “clinically definite” and “clinically probable” categories. These are the publication's category labels, not guarantees of certainty. Consult the full original criteria before applying them; this page is not a substitute scoring sheet. [1](#citation-1)
+The ESSTS framework combines onset age, rapid evolution and a specified pattern of phenomenological features. Its authors proposed three major and two minor criteria, with different combinations for their “clinically definite” and “clinically probable” categories. These are the publication's category labels, not guarantees of certainty. Consult the full original criteria before applying them; this page is not a substitute scoring sheet. (*citations* [1](#citation-1))
 
 ### Authored reasoning record
 
@@ -101,9 +101,9 @@ For each proposed criterion, document the source of information, whether it is m
 ## Interpreting Findings
 {: #interpreting-findings .shareable }
 
-The 2024 specificity study examined selected features in primary-tic registry cohorts of 156 and 149 young people. It provides later empirical evidence, but does not establish sensitivity or validate the complete framework in all ages and mixed presentations. Individual complex movements were less discriminating than some combinations. [3](#citation-3)
+The 2024 specificity study examined selected features in primary-tic registry cohorts of 156 and 149 young people. It provides later empirical evidence, but does not establish sensitivity or validate the complete framework in all ages and mixed presentations. Individual complex movements were less discriminating than some combinations. (*citations* [3](#citation-3))
 
-Keep the published critique in view: diagnostic benchmarks and circular reasoning matter when the features used to assign a diagnosis are then reported as distinguishing it. [2](#citation-2)
+Keep the published critique in view: diagnostic benchmarks and circular reasoning matter when the features used to assign a diagnosis are then reported as distinguishing it. (*citations* [2](#citation-2))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -141,7 +141,9 @@ Avoid using “definite” to imply that another condition cannot coexist or tha
 ## Evidence and Limitations
 {: #evidence-and-limitations .shareable }
 
-The original framework used expert Delphi consensus and acknowledged absent prospective accuracy testing at publication. Its primary abstract was checked; complete primary criteria-table appraisal remains pending. [1](#citation-1) The later registry study's methods, results and discussion were checked in full text; selected-criterion specificity is a narrower question than overall diagnostic accuracy. [3](#citation-3) The critique remains a methodological perspective, not evidence that all functional tic diagnoses are wrong. [2](#citation-2)
+The original framework used expert Delphi consensus and acknowledged absent prospective accuracy testing at publication. The later registry study addresses selected-criterion specificity, a narrower question than overall diagnostic accuracy. The critique remains a methodological perspective, not evidence that all functional tic diagnoses are wrong. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+The clinical formulation should explain involuntary symptoms and possible coexistence without inferring motive from symptom context. A 2026 systematic review synthesizes 39 studies, largely descriptive case series and cross-sectional comparisons. It adds a broader evidence summary, rather than prospective validation of the complete criteria. (*citations* [4](#citation-4))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -180,6 +182,7 @@ Use a reasoning diagram that allows “uncertain” and “coexisting presentati
 | <a id="citation-1"></a>**[1]** | Pringsheim T, Ganos C, McGuire JF, et al. European Society for the Study of Tourette Syndrome 2022 criteria for clinical diagnosis of functional tic-like behaviours: international consensus from experts in tic disorders. *European Journal of Neurology*. 2023;30(4):902–910. [FND-CIT-0111](../../../research/citation-index.md#fnd-cit-0111). [Source](https://doi.org/10.1111/ene.15672). Expert Delphi consensus. The publication explicitly states that prospective sensitivity and specificity testing was lacking; not a validated self-diagnostic checklist. |
 | <a id="citation-2"></a>**[2]** | Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. [FND-CIT-0112](../../../research/citation-index.md#fnd-cit-0112). [Source](https://doi.org/10.1002/mdc3.14150). Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms. |
 | <a id="citation-3"></a>**[3]** | Nilles C, Martino D, Pringsheim T. Testing the specificity of phenomenological criteria for functional tic-like behaviours in youth with Tourette syndrome. *European Journal of Neurology*. 2024;31(6):e16262. [DOI](https://doi.org/10.1111/ene.16262). Cross-sectional specialist-registry study of selected criteria; not validation of the full diagnostic framework. [FND-CIT-0264](../../../research/citation-index.md#fnd-cit-0264). |
+| <a id="citation-4"></a>**[4]** | Gary JB, Shaw JS, McGuire JF. A systematic review to characterize functional tic-like behaviors. *Frontiers in Child and Adolescent Psychiatry*. 2026;5:1936806. FND-CIT-0273. DOI: 10.3389/frcha.2026.1936806. |
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

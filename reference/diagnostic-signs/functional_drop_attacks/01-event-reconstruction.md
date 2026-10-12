@@ -22,11 +22,11 @@ Clinician-focused educational reference. Use within professional competence and 
 ## Purpose and Suitability
 {: #purpose-and-suitability .shareable }
 
-Use a structured history when a person reports a sudden fall. First establish whether the event is a fall without definite blackout, a loss-of-consciousness event, sustained weakness, or a longer seizure-like episode. The description guides assessment; it does not itself establish a functional cause. [1](#citation-1)
+Use a structured history when a person reports a sudden fall. First establish whether the event is a fall without definite blackout, a loss-of-consciousness event, sustained weakness, or a longer seizure-like episode. The description guides assessment; it does not itself establish a functional cause. (*citations* [1](#citation-1))
 
 > **Phenotype:** The observable pattern of symptoms and their course.
 
-This page owns event reconstruction and witness information. See [differential assessment](02-differential-assessment.md) for alternative causes.
+Use the event record and witness information together. See [differential assessment](02-differential-assessment.md) for alternative causes.
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -43,7 +43,7 @@ This page owns event reconstruction and witness information. See [differential a
 
 ## Anatomy and Physiology
 
-Remaining upright involves movement, balance, sensation and circulation. A history cannot locate a single failed brain pathway. Proposed relationships with dissociation describe a possible clinical formulation, not a mechanism demonstrated in every person. A gap in memory around impact does not by itself prove a blackout or a functional event. [1](#citation-1)
+Remaining upright involves movement, balance, sensation and circulation. A history cannot locate a single failed brain pathway. Proposed relationships with dissociation describe a possible clinical formulation, not a mechanism demonstrated in every person. A gap in memory around impact does not by itself prove a blackout or a functional event. (*citations* [1](#citation-1))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -153,7 +153,9 @@ Record the reasons supporting the diagnosis, alternatives considered and follow-
 ## Evidence and Limitations
 {: #evidence-and-limitations .shareable }
 
-Hoeritzauer and colleagues retrospectively reviewed 83 patients seen by one clinician. Overlap with other functional symptoms supports further assessment, not a diagnostic-accuracy estimate. The study did not validate this authored record or a universal bedside test. Its abstract was checked for this expansion; full-text appraisal remains pending. [1](#citation-1)
+Hoeritzauer and colleagues retrospectively reviewed 83 patients seen by one clinician. Overlap with other functional symptoms supports further assessment, not a diagnostic-accuracy estimate. The study did not validate this authored record or a universal bedside test. (*citations* [1](#citation-1))
+
+The broader clinical review emphasizes that “drop attack” has several uses. Clarifying awareness and the sequence of the fall is therefore part of choosing the right assessment pathway. (*citations* [2](#citation-2))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -194,6 +196,7 @@ Do not stage a fall, withdraw an aid, provoke an event or use injury footage. Ca
 | Citation | Full citation and evidence limit |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. [FND-CIT-0059](../../../research/citation-index.md#fnd-cit-0059). [https://doi.org/10.1136/jnnp-2017-317396](https://doi.org/10.1136/jnnp-2017-317396) |
+| <a id="citation-2"></a>**[2]** | Manford E, Garg A, Manford M. Drop attacks: a practical guide. *Practical Neurology*. 2024;24(2):106–113. [DOI](https://doi.org/10.1136/pn-2023-003791). [FND-CIT-0272](../../../research/citation-index.md#fnd-cit-0272). |
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

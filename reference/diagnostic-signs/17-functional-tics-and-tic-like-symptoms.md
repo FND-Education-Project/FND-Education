@@ -33,15 +33,15 @@
 
 An unexpected sound or word can leave you worrying about what other people heard and what they think you meant. You deserve an explanation and practical help. Recognizable words can still be involuntary; their content is not a reliable account of your wishes or beliefs.
 
-Motor tic-like symptoms involve movements. Vocal or phonic symptoms involve sounds, which may or may not be words. Some people experience both. There can be a sensation or urge before a symptom, but not everyone notices one. Symptoms may change over time. Becoming vocal does not, on its own, show that symptoms are functional or that they are Tourette syndrome. [1](#citation-1), [5](#citation-5)
+Motor tic-like symptoms involve movements. Vocal or phonic symptoms involve sounds, which may or may not be words. Some people experience both. There can be a sensation or urge before a symptom, but not everyone notices one. Symptoms may change over time. Becoming vocal does not, on its own, show that symptoms are functional or that they are Tourette syndrome. (*citations* [1](#citation-1), [5](#citation-5))
 
-You may encounter **coprolalia** (involuntary socially inappropriate or taboo words), **echolalia** (repetition of another person’s words) or **palilalia** (repetition of one’s own words). These descriptions do not determine the diagnosis. Coprolalia is not required for Tourette syndrome and is not unique to it. [5](#citation-5)
+You may encounter **coprolalia** (involuntary socially inappropriate or taboo words), **echolalia** (repetition of another person’s words) or **palilalia** (repetition of one’s own words). These descriptions do not determine the diagnosis. Coprolalia is not required for Tourette syndrome and is not unique to it. (*citations* [5](#citation-5))
 
 ### What an assessment can offer
 
-A clinician with tic and FND experience asks when symptoms began, how they developed, whether there were earlier tics, what movements or sounds occur, and how life is affected. They may review a recording made with consent, if one already exists or can be obtained safely. Tests depend on the possibilities being considered; normal results alone do not prove FND. [1](#citation-1), [2](#citation-2)
+A clinician with tic and FND experience asks when symptoms began, how they developed, whether there were earlier tics, what movements or sounds occur, and how life is affected. They may review a recording made with consent, if one already exists or can be obtained safely. Tests depend on the possibilities being considered; normal results alone do not prove FND. (*citations* [1](#citation-1), [2](#citation-2))
 
-Functional tic-like symptoms and a primary tic disorder can occur together. A useful explanation should tell you which features support each part of the diagnosis and what remains uncertain. You can ask: “What makes this the best explanation, and what would make us review it?” [1](#citation-1), [3](#citation-3)
+Functional tic-like symptoms and a primary tic disorder can occur together. A useful explanation should tell you which features support each part of the diagnosis and what remains uncertain. You can ask: “What makes this the best explanation, and what would make us review it?” (*citations* [1](#citation-1), [3](#citation-3))
 
 > **What this page cannot tell you:** It cannot classify your symptoms from a description, a video or a checklist. Sudden onset, complex phrases, an urge, difficulty holding symptoms back, your age or gender, or seeing tics online cannot decide the diagnosis alone. Please do not deliberately provoke symptoms or test how long you can suppress them.
 
@@ -69,7 +69,7 @@ Believe that the symptom is happening without the person choosing it. Ask how th
 
 For a consultation, a short description of the sequence and its impact may be more useful than a large symptom log. Record only with consent and never at the expense of safety. A quiet appointment, breaks or written information may help someone for whom discussing symptoms is difficult.
 
-Do not use online examples, a psychiatric history or a social-media habit to decide the diagnosis yourself. These can be discussed respectfully as context; none establishes that the person is copying deliberately. [1](#citation-1)
+Do not use online examples, a psychiatric history or a social-media habit to decide the diagnosis yourself. These can be discussed respectfully as context; none establishes that the person is copying deliberately. (*citations* [1](#citation-1))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -86,9 +86,9 @@ Do not use online examples, a psychiatric history or a social-media habit to dec
 **Diagnostic method:** Explain the positive clinical reasons for the formulation and their limits. No single movement, demographic feature or normal test establishes functional tic-like symptoms.<br>
 **Media needed:** A captioned consultation diagram showing movement **and sound**, possible coexistence and the questions used in assessment. Do not provoke symptoms for a demonstration.
 
-Assess onset and longitudinal course, childhood motor/vocal history, family history, phenomenology, urges, suppressibility, context, medications/substances, other neurological findings and functional impact. Consider Tourette syndrome, persistent motor or vocal tic disorder, provisional tic disorder, stereotypies, compulsions, myoclonus, dystonia, epileptic events and medication or other medical causes as indicated. Document coexisting primary and functional symptoms where appropriate. [1](#citation-1), [5](#citation-5)
+Assess onset and longitudinal course, childhood motor/vocal history, family history, phenomenology, urges, suppressibility, context, medications/substances, other neurological findings and functional impact. Consider Tourette syndrome, persistent motor or vocal tic disorder, provisional tic disorder, stereotypies, compulsions, myoclonus, dystonia, epileptic events and medication or other medical causes as indicated. Document coexisting primary and functional symptoms where appropriate. (*citations* [1](#citation-1), [5](#citation-5))
 
-The 2023 ESSTS criteria provide an expert-consensus framework, not a prospectively validated diagnostic-accuracy test in that publication. Consider the entire clinical pattern rather than treating abrupt onset, age, sex/gender, complex vocalizations or social exposure as decisive. Later research tested the specificity of selected criteria in primary-tic cohorts; it did not validate the entire framework or establish its sensitivity. [10](#citation-10) A 2024 critical review questions aspects of the diagnostic literature, including circular reasoning and clinical benchmarks. Communicate these limits while offering care and follow-up. [2](#citation-2), [3](#citation-3)
+The 2023 ESSTS criteria provide an expert-consensus framework, not a prospectively validated diagnostic-accuracy test in that publication. Consider the entire clinical pattern rather than treating abrupt onset, age, sex/gender, complex vocalizations or social exposure as decisive. Later research tested the specificity of selected criteria in primary-tic cohorts; it did not validate the entire framework or establish its sensitivity. A 2024 critical review questions aspects of the diagnostic literature, including circular reasoning and clinical benchmarks. Communicate these limits while offering care and follow-up. (*citations* [2](#citation-2), [3](#citation-3), [10](#citation-10))
 
 Do not transfer the diagnostic significance of tremor entrainment or jerk neurophysiology directly to tic-like symptoms. Stress, trauma, anxiety, autism and ADHD are not diagnostic prerequisites. Assessment should cover adults as well as young people; much rapid-onset research concerns younger clinic populations.
 
@@ -151,6 +151,8 @@ The detailed guides above cover the main assessment questions. Every original en
 
 The review and assessment guideline support terminology and individualized evaluation. Consensus criteria and their published critique are presented together so uncertainty remains visible. The treatment case series is linked for context; response to treatment is not a diagnostic test.
 
+Functional tic-like symptoms are involuntary, and primary tics may coexist. A 2026 systematic review of 39 studies found that the evidence remains mainly descriptive and methodologically varied. Its group patterns do not establish the cause of an individual’s symptoms or validate a diagnostic shortcut. (*citations* [1](#citation-1), [11](#citation-11))
+
 | Citation | Full citation and evidence limit |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110). [Source](https://doi.org/10.3390/jcm11216470). Expert review; diagnostic formulation and individualized management. The review reported no controlled treatment studies specific to functional tic-like symptoms. |
@@ -163,8 +165,7 @@ The review and assessment guideline support terminology and individualized evalu
 | <a id="citation-8"></a>**[8]** | van der Salm SM, Tijssen MA, Koelman JH, van Rootselaar AF. The bereitschaftspotential in jerky movement disorders. *Journal of neurology, neurosurgery, and psychiatry*. 2012;83(12):1162-1167. [DOI](https://doi.org/10.1136/jnnp-2012-303081). [PMID: 22952323](https://pubmed.ncbi.nlm.nih.gov/22952323/). [FND-CIT-0125](../../research/citation-index.md#fnd-cit-0125). |
 | <a id="citation-9"></a>**[9]** | Edwards MJ, Koens LH, Liepert J, et al. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical neurophysiology practice*. 2024;9:69-77. [DOI](https://doi.org/10.1016/j.cnp.2023.12.006). [PMID: 38352251](https://pubmed.ncbi.nlm.nih.gov/38352251/). [FND-CIT-0022](../../research/citation-index.md#fnd-cit-0022). |
 | <a id="citation-10"></a>**[10]** | Nilles C, Martino D, Pringsheim T. Testing the specificity of phenomenological criteria for functional tic-like behaviours in youth with Tourette syndrome. *European Journal of Neurology*. 2024;31(6):e16262. [DOI](https://doi.org/10.1111/ene.16262). Cross-sectional specialist-registry study of selected criteria; not validation of the full diagnostic framework. [FND-CIT-0264](../../research/citation-index.md#fnd-cit-0264). |
-
-*Evidence check: September 17, 2026 · Human, clinical, lived-experience and accessibility review pending.*
+| <a id="citation-11"></a>**[11]** | Gary JB, Shaw JS, McGuire JF. A systematic review to characterize functional tic-like behaviors. *Frontiers in Child and Adolescent Psychiatry*. 2026;5:1936806. FND-CIT-0273. DOI: 10.3389/frcha.2026.1936806. |
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>

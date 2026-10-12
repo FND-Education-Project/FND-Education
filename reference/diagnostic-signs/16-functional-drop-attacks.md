@@ -16,7 +16,7 @@
 
 ## Quick Reference
 
-**Presentation:** Establish the event phenotype and positive clinical formulation rather than inferring FND from normal tests. No validated single bedside sign for functional drop attacks was located.
+**Presentation:** Establish the event phenotype and positive clinical formulation rather than inferring FND from normal tests. Assessment rests on the event history and clinical formulation; there is no single established bedside test.
 
 - [Reconstructing a Sudden Fall](functional_drop_attacks/01-event-reconstruction.md) — before, during and after the event, with witness information.
 - [Differential Assessment of Drop Attacks](functional_drop_attacks/02-differential-assessment.md) — other causes, coexistence and targeted investigations.
@@ -75,7 +75,7 @@ Do not assume that every fall in a person with FND is another functional drop at
 {: #for-clinicians-and-the-care-team .shareable }
 
 **Featured technique:** Specialist structured event and falls history, witness account or safely obtained recording when available, examination, and targeted differential assessment.<br>
-**Diagnostic method:** Establish the event phenotype and positive clinical formulation rather than inferring FND from normal tests. No validated single bedside sign for functional drop attacks was located.<br>
+**Diagnostic method:** Establish the event phenotype and positive clinical formulation rather than inferring FND from normal tests. Assessment rests on the event history and clinical formulation; there is no single established bedside test.<br>
 **Media needed:** An event-classification flow diagram and clinician-led history example; never provoke a fall for filming.
 
 ### Structured diagnostic approach
@@ -83,6 +83,8 @@ Do not assume that every fall in a person with FND is another functional drop at
 [Read the six-step clinical outline and event record](functional_drop_attacks/01-event-reconstruction.md#performing-the-assessment).
 
 The retrospective “cryptogenic drop attack” cohort showed substantial overlap with dissociative symptoms, functional limb weakness and nonepileptic attacks, but it did not establish that all unexplained drop attacks are functional. The later qualitative study of seven people proposed a cognitive-behavioural model; it was not a diagnostic-accuracy or treatment trial. (*citations* [1](#citation-1), [2](#citation-2))
+
+The broader drop-attack literature uses the term for several kinds of collapse, sometimes including blackouts. Establish what actually happened before selecting cardiovascular, vestibular, neurological or sleep assessment. (*citations* [5](#citation-5))
 
 **Targeted investigations:** Suspected blackouts require their own assessment pathway; the [differential guide](functional_drop_attacks/02-differential-assessment.md) explains the scope of the over-16 NICE guidance. (*citations* [4](#citation-4))
 
@@ -147,8 +149,9 @@ The detailed guides above cover the main assessment questions. Every original en
 |---|---|
 | <a id="citation-1"></a>**[1]** | Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. [FND-CIT-0059](../../research/citation-index.md#fnd-cit-0059). [https://doi.org/10.1136/jnnp-2017-317396](https://doi.org/10.1136/jnnp-2017-317396) |
 | <a id="citation-2"></a>**[2]** | Revell ER, Gillespie D, Morris PG, Stone J. Drop attacks as a subtype of FND: a cognitive behavioural model using grounded theory. *Epilepsy & Behavior Reports*. 2021;16:100491. [FND-CIT-0060](../../research/citation-index.md#fnd-cit-0060). [https://doi.org/10.1016/j.ebr.2021.100491](https://doi.org/10.1016/j.ebr.2021.100491) |
-| <a id="citation-3"></a>**[3]** | Stone J. Functional drop attacks. *Neurosymptoms.org*. Accessed September 2, 2026. [FND-CIT-0061](../../research/citation-index.md#fnd-cit-0061). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/) |
-| <a id="citation-4"></a>**[4]** | NICE. Transient loss of consciousness ('blackouts') in over 16s. Clinical guideline CG109. [Recommendations](https://www.nice.org.uk/guidance/cg109/chapter/Recommendations). Accessed October 7, 2026. Adjacent guidance for suspected transient loss of consciousness; not functional-drop-attack diagnostic criteria. [FND-CIT-0263](../../research/citation-index.md#fnd-cit-0263). |
+| <a id="citation-3"></a>**[3]** | Stone J. Functional drop attacks. *Neurosymptoms.org*. Accessed October 12, 2026. [FND-CIT-0061](../../research/citation-index.md#fnd-cit-0061). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/) |
+| <a id="citation-4"></a>**[4]** | NICE. Transient loss of consciousness ('blackouts') in over 16s. Clinical guideline CG109. [Recommendations](https://www.nice.org.uk/guidance/cg109/chapter/Recommendations). Accessed October 12, 2026. Adjacent guidance for suspected transient loss of consciousness; not functional-drop-attack diagnostic criteria. [FND-CIT-0263](../../research/citation-index.md#fnd-cit-0263). |
+| <a id="citation-5"></a>**[5]** | Manford E, Garg A, Manford M. Drop attacks: a practical guide. *Practical Neurology*. 2024;24(2):106–113. [DOI](https://doi.org/10.1136/pn-2023-003791). [FND-CIT-0272](../../research/citation-index.md#fnd-cit-0272). |
 
 *Technique outline created: September 2, 2026 · Neurology, cardiology, vestibular, sleep, rehabilitation, lived-experience and accessibility review pending*
 

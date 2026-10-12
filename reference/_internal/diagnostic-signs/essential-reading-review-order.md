@@ -1,6 +1,8 @@
 # Diagnostic Review — Essential Reading in Review Order
 
-> **Internal editorial reading guide — October 11, 2026.** This file is a review aid, not a reader-facing clinical page. It is built from the sources currently cited in the diagnostic symptom, inventory and detailed-technique pages. It is **not an independent systematic literature search** and does not imply that uncited later studies, replications or conflicting evidence are unimportant.
+> **Internal editorial reading guide — October 12, 2026.** This file is a review aid, not a reader-facing clinical page. It is built from the sources currently cited in the diagnostic symptom, inventory and detailed-technique pages. It is **not an independent systematic literature search** and does not imply that uncited later studies, replications or conflicting evidence are unimportant.
+
+**Evidence-presentation round complete: 17 of 17 symptom groups.** This records the presentation review; the source-access gaps and specialist/human appraisal tasks in each review log remain open.
 
 ## How to use this guide
 
@@ -1357,14 +1359,18 @@ Read Frucht and Stone for the current clinical framework before the descriptive 
 
 **Page to review:** [Functional Paralysis](../../diagnostic-signs/15-functional-paralysis.md)
 
+**Evidence-presentation review:** [October 12 decisions and remaining checks](paralysis-evidence-review.md).
+
 ### Read first — symptom-level evidence
+
+- [ ] Dolbow et al., 2025. Contemporary motor-weakness technique review (FND-CIT-0183; linked earlier). Read with Bennett before the historical validation studies.
 
 - [ ] Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. Source linked earlier
 - [ ] McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. Source linked earlier
 - [ ] Tinazzi M, Simonetto S, Franco L, et al. Abduction finger sign: a new sign to detect unilateral functional paralysis of the upper limb. *Movement Disorders*. 2008;23(16):2415–2419. Source linked earlier
 - [ ] Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of Neurology, Neurosurgery & Psychiatry*. 2004;75(1):121–125. Historical terminology retained in the article title.
 
-### Detailed-page review — October 6, 2026
+### Detailed-page review — updated October 12, 2026
 
 - [Severe Immobility: Assessment and Care Needs](../../diagnostic-signs/functional_paralysis/01-severe-immobility-assessment.md)
 - [Leg Comparisons in Functional Paralysis](../../diagnostic-signs/functional_paralysis/02-leg-comparisons-and-limits.md)
@@ -1380,6 +1386,8 @@ Primary indexed abstracts were checked for Sonoo’s abductor sign, Tinazzi’s 
 - [ ] McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. Source linked earlier
 
 #### Hip-abductor sign
+
+- [ ] Dolbow et al., 2025 (FND-CIT-0183; linked earlier). Contemporary technique context for the historical primary study.
 
 - [ ] Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of Neurology, Neurosurgery & Psychiatry*. 2004;75(1):121–125. Historical terminology retained in the article title.
 
@@ -1402,7 +1410,7 @@ Primary indexed abstracts were checked for Sonoo’s abductor sign, Tinazzi’s 
 
 #### Tone, reflexes and plantar responses
 
-- [ ] Baker JH, Silver JR. Hysterical paraplegia. *Journal of neurology, neurosurgery, and psychiatry*. 1987;50(4):375-382. [DOI](https://doi.org/10.1136/jnnp.50.4.375). [PMID: 3585346](https://pubmed.ncbi.nlm.nih.gov/3585346/).
+- [ ] Baker JH, Silver JR. Hysterical paraplegia. *Journal of neurology, neurosurgery, and psychiatry*. 1987;50(4):375-382. [DOI](https://doi.org/10.1136/jnnp.50.4.375). PMID: 3585346.
 
 #### Motor and sensory pathway investigations
 
@@ -1427,13 +1435,17 @@ Primary indexed abstracts were checked for Sonoo’s abductor sign, Tinazzi’s 
 
 **Page to review:** [Functional Drop Attacks](../../diagnostic-signs/16-functional-drop-attacks.md)
 
+**Evidence-presentation review:** [October 12 decisions and remaining checks](drop-attacks-evidence-review.md).
+
 ### Read first — symptom-level evidence
+
+- [ ] Manford E, Garg A, Manford M. Drop attacks: a practical guide. *Practical Neurology*. 2024;24(2):106–113. [DOI](https://doi.org/10.1136/pn-2023-003791). FND-CIT-0272. Primary abstract and metadata checked; full-text appraisal pending. Broad differential guidance, not FND accuracy validation.
 
 - [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. [Source](https://doi.org/10.1136/jnnp-2017-317396)
 - [ ] Revell ER, Gillespie D, Morris PG, Stone J. Drop attacks as a subtype of FND: a cognitive behavioural model using grounded theory. *Epilepsy & Behavior Reports*. 2021;16:100491. [https://doi.org/10.1016/j.ebr.2021.100491](https://doi.org/10.1016/j.ebr.2021.100491)
-- [ ] Stone J. Functional drop attacks. *Neurosymptoms.org*. Accessed September 2, 2026. [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/)
+- [ ] Stone J. Functional drop attacks. *Neurosymptoms.org*. Accessed October 12, 2026. [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/)
 
-### Detailed-page review — October 7, 2026
+### Detailed-page review — updated October 12, 2026
 
 - [Reconstructing a Sudden Fall](../../diagnostic-signs/functional_drop_attacks/01-event-reconstruction.md)
 - [Differential Assessment of Drop Attacks](../../diagnostic-signs/functional_drop_attacks/02-differential-assessment.md)
@@ -1464,6 +1476,8 @@ Review the event formulation, differential routes and authored function record s
 
 #### Cardiovascular and orthostatic assessment
 
+- [ ] Manford et al., 2024 (FND-CIT-0272; linked above). Broader differential review; suspected blackout testing follows NICE.
+
 - [ ] Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776.
 
 #### Epilepsy and sleep assessment
@@ -1488,6 +1502,8 @@ Review the event formulation, differential routes and authored function record s
 
 **Page to review:** [Functional Tics and Tic-Like Symptoms](../../diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md)
 
+**Evidence-presentation review:** [October 12 decisions and remaining checks](tics-evidence-review.md).
+
 ### Read first — symptom-level evidence
 
 - [ ] Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. Expert review; diagnostic formulation and individualized management. The review reported no controlled treatment studies specific to functional tic-like symptoms.
@@ -1495,7 +1511,11 @@ Review the event formulation, differential routes and authored function record s
 - [ ] Pringsheim T, Ganos C, McGuire JF, et al. European Society for the Study of Tourette Syndrome 2022 criteria for clinical diagnosis of functional tic-like behaviours: international consensus from experts in tic disorders. *European Journal of Neurology*. 2023;30(4):902–910. [Source](https://doi.org/10.1111/ene.15672). Expert Delphi consensus. The publication explicitly states that prospective sensitivity and specificity testing was lacking; not a validated self-diagnostic checklist.
 - [ ] Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. [Source](https://doi.org/10.1002/mdc3.14150). Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms.
 
-### Detailed-page review — October 7, 2026
+- [ ] Maxwell A, Zouki JJ, Eapen V. Integrated cognitive behavioral intervention for functional tics (I-CBiT): case reports and treatment formulation. *Frontiers in Pediatrics*. 2023;11:1265123. [Original paper](https://doi.org/10.3389/fped.2023.1265123). FND-CIT-0113. Retained treatment context; eight-person uncontrolled series, not diagnostic validation.
+
+- [ ] Gary JB, Shaw JS, McGuire JF. A systematic review to characterize functional tic-like behaviors. *Frontiers in Child and Adolescent Psychiatry*. 2026;5:1936806. [Original paper](https://doi.org/10.3389/frcha.2026.1936806). FND-CIT-0273. Methods, risk-of-bias assessment and discussion checked October 12. Read after the clinical framework and critique; framing concerns and the public plain-text citation decision are recorded in the review log.
+
+### Detailed-page review — updated October 12, 2026
 
 - [Tic History and Motor–Vocal Assessment](../../diagnostic-signs/functional_tics/01-history-and-phenomenology.md)
 - [Tic Diagnostic Criteria and Uncertainty](../../diagnostic-signs/functional_tics/02-criteria-and-diagnostic-uncertainty.md)
@@ -1516,7 +1536,7 @@ Review original consensus, critique and later specificity evidence together. The
 #### Motor and vocal phenomenology
 
 - [ ] Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. Source. Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms.
-- [ ] Pringsheim T, Ganos C, McGuire JF, et al. Rapid Onset Functional Tic-Like Behaviors in Young Females During the COVID-19 Pandemic. *Movement disorders : official journal of the Movement Disorder Society*. 2021;36(12):2707-2713. [DOI](https://doi.org/10.1002/mds.28778). [PMID: 34387394](https://pubmed.ncbi.nlm.nih.gov/34387394/).
+- [ ] Pringsheim T, Ganos C, McGuire JF, et al. Rapid Onset Functional Tic-Like Behaviors in Young Females During the COVID-19 Pandemic. *Movement disorders : official journal of the Movement Disorder Society*. 2021;36(12):2707-2713. [DOI](https://doi.org/10.1002/mds.28778). PMID: 34387394.
 
 #### Context dependence and variability
 
@@ -1540,13 +1560,15 @@ Review original consensus, critique and later specificity evidence together. The
 
 #### ESSTS consensus criteria
 
+- [ ] Nilles et al., 2024 (FND-CIT-0264; linked above), and Gary et al., 2026 (FND-CIT-0273; linked above). Read selected-criterion specificity separately from synthesis and complete diagnostic validation.
+
 - [ ] Pringsheim T, Ganos C, McGuire JF, et al. European Society for the Study of Tourette Syndrome 2022 criteria for clinical diagnosis of functional tic-like behaviours: international consensus from experts in tic disorders. *European Journal of Neurology*. 2023;30(4):902–910. Source. Expert Delphi consensus. The publication explicitly states that prospective sensitivity and specificity testing was lacking; not a validated self-diagnostic checklist.
 - [ ] Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. Source. Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms.
 
 #### Longitudinal reassessment
 
 - [ ] Andersen K, Cavanna AE, Szejko N, et al. A critical examination of the clinical diagnosis of functional tic-like behaviors. *Movement Disorders Clinical Practice*. 2024;11(9):1065–1071. Source. Critical review of diagnostic reasoning, clinical benchmarks and coexistence. Supports transparent uncertainty, not dismissal of symptoms.
-- [ ] Cavanna AE, Caimi V, Capriolo E, et al. Neurodevelopmental Tics with Co-Morbid Functional Tic-like Behaviors: Diagnostic Challenges of a Complex Tourette Syndrome Phenotype. *Brain sciences*. 2025;15(5):435. [DOI](https://doi.org/10.3390/brainsci15050435). [PMID: 40426606](https://pubmed.ncbi.nlm.nih.gov/40426606/).
+- [ ] Cavanna AE, Caimi V, Capriolo E, et al. Neurodevelopmental Tics with Co-Morbid Functional Tic-like Behaviors: Diagnostic Challenges of a Complex Tourette Syndrome Phenotype. *Brain sciences*. 2025;15(5):435. [DOI](https://doi.org/10.3390/brainsci15050435). PMID: 40426606.
 
 #### Neurophysiology and other investigations
 

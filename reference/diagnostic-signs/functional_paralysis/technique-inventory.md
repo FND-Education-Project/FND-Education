@@ -41,7 +41,7 @@ A clinician may observe movement during a comfortable repositioning or another s
 
 ### Tone, reflexes and plantar responses
 
-These help localize disease and interpret the paralysis. An older comparative series described preserved findings, but normal tone or reflexes alone do not establish FND and may occur in other disorders. Historical psychiatric or compensation-based assumptions are not diagnostic signs. (*citations* [9](#citation-9))
+These help localize disease and interpret the paralysis. An older comparative series described preserved findings, but normal tone or reflexes alone do not establish FND and may occur in other disorders. Diagnosis rests on positive movement findings in the full clinical assessment. (*citations* [9](#citation-9))
 
 ### Motor and sensory pathway investigations
 
@@ -53,22 +53,23 @@ Drift without pronation, collapsing weakness and paradoxical wrist flexion requi
 
 ## Research and Sources
 
-Original local citation numbers are retained. Historical terminology remains only where needed for source identification; it does not establish intention, motive or cause.
+Functional paralysis is involuntary. The contemporary review explains movement comparisons and their limits; the original studies below provide the underlying evidence. (*citations* [1](#citation-1), [13](#citation-13))
 
 | Citation | Figure | Full citation |
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
 | <a id="citation-2"></a>**[2]** | — | McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. [FND-CIT-0018](../../../research/citation-index.md#fnd-cit-0018). [https://doi.org/10.1016/j.jpsychores.2011.09.003](https://doi.org/10.1016/j.jpsychores.2011.09.003) |
 | <a id="citation-3"></a>**[3]** | — | Tinazzi M, Simonetto S, Franco L, et al. Abduction finger sign: a new sign to detect unilateral functional paralysis of the upper limb. *Movement Disorders*. 2008;23(16):2415–2419. [FND-CIT-0057](../../../research/citation-index.md#fnd-cit-0057). [https://doi.org/10.1002/mds.22268](https://doi.org/10.1002/mds.22268) |
-| <a id="citation-4"></a>**[4]** | — | Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of Neurology, Neurosurgery & Psychiatry*. 2004;75(1):121–125. Historical terminology retained in the article title. [FND-CIT-0058](../../../research/citation-index.md#fnd-cit-0058). [https://pmc.ncbi.nlm.nih.gov/articles/PMC1757483/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1757483/) |
-| <a id="citation-5"></a>**[5]** | — | Yugué I, Shiba K, Ueta T, Iwamoto Y. A new clinical evaluation for hysterical paralysis. *Spine*. 2004;29(17):1910-3; discussion 1913. [DOI](https://doi.org/10.1097/01.brs.0000137055.55350.37). [PMID: 15534415](https://pubmed.ncbi.nlm.nih.gov/15534415/). [FND-CIT-0166](../../../research/citation-index.md#fnd-cit-0166). |
+| <a id="citation-4"></a>**[4]** | — | Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of Neurology, Neurosurgery & Psychiatry*. 2004;75(1):121–125. FND-CIT-0058. DOI: 10.1136/jnnp.75.1.121 |
+| <a id="citation-5"></a>**[5]** | — | Yugué I, Shiba K, Ueta T, Iwamoto Y. A new clinical evaluation for hysterical paralysis. *Spine*. 2004;29(17):1910-3; discussion 1913. DOI: 10.1097/01.brs.0000137055.55350.37. PMID: 15534415. FND-CIT-0166. |
 | <a id="citation-6"></a>**[6]** | — | Lombardi TL, Barton E, Wang J, et al. The elbow flex-ex: a new sign to detect unilateral upper extremity non-organic paresis. *Journal of neurology, neurosurgery, and psychiatry*. 2014;85(2):165-167. [DOI](https://doi.org/10.1136/jnnp-2012-304314). [PMID: 23695497](https://pubmed.ncbi.nlm.nih.gov/23695497/). [FND-CIT-0134](../../../research/citation-index.md#fnd-cit-0134). |
 | <a id="citation-7"></a>**[7]** | — | Stone J, Warlow C, Sharpe M. The symptom of functional weakness: a controlled study of 107 patients. *Brain : a journal of neurology*. 2010;133(Pt 5):1537-1551. [DOI](https://doi.org/10.1093/brain/awq068). [PMID: 20395262](https://pubmed.ncbi.nlm.nih.gov/20395262/). [FND-CIT-0047](../../../research/citation-index.md#fnd-cit-0047). |
 | <a id="citation-8"></a>**[8]** | — | Daum C, Gheorghita F, Spatola M, et al. Interobserver agreement and validity of bedside 'positive signs' for functional weakness, sensory and gait disorders in conversion disorder: a pilot study. *Journal of neurology, neurosurgery, and psychiatry*. 2015;86(4):425-430. [DOI](https://doi.org/10.1136/jnnp-2013-307381). [PMID: 24994927](https://pubmed.ncbi.nlm.nih.gov/24994927/). [FND-CIT-0130](../../../research/citation-index.md#fnd-cit-0130). |
-| <a id="citation-9"></a>**[9]** | — | Baker JH, Silver JR. Hysterical paraplegia. *Journal of neurology, neurosurgery, and psychiatry*. 1987;50(4):375-382. [DOI](https://doi.org/10.1136/jnnp.50.4.375). [PMID: 3585346](https://pubmed.ncbi.nlm.nih.gov/3585346/). [FND-CIT-0120](../../../research/citation-index.md#fnd-cit-0120). |
+| <a id="citation-9"></a>**[9]** | — | Baker JH, Silver JR. Hysterical paraplegia. *Journal of neurology, neurosurgery, and psychiatry*. 1987;50(4):375-382. DOI: 10.1136/jnnp.50.4.375. PMID: 3585346. FND-CIT-0120. |
 | <a id="citation-10"></a>**[10]** | — | Edwards MJ, Koens LH, Liepert J, et al. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical neurophysiology practice*. 2024;9:69-77. [DOI](https://doi.org/10.1016/j.cnp.2023.12.006). [PMID: 38352251](https://pubmed.ncbi.nlm.nih.gov/38352251/). [FND-CIT-0022](../../../research/citation-index.md#fnd-cit-0022). |
 | <a id="citation-11"></a>**[11]** | — | Daum C, Aybek S. Validity of the "Drift without pronation" sign in conversion disorder. *BMC neurology*. 2013;13:31. [DOI](https://doi.org/10.1186/1471-2377-13-31). [PMID: 23548051](https://pubmed.ncbi.nlm.nih.gov/23548051/). [FND-CIT-0131](../../../research/citation-index.md#fnd-cit-0131). |
 | <a id="citation-12"></a>**[12]** | — | Sonoo M. Paradoxical wrist flexion: A new test to detect functional weakness of the upper limb. *eNeurologicalSci*. 2021;22:100302. [DOI](https://doi.org/10.1016/j.ensci.2020.100302). [PMID: 33344786](https://pubmed.ncbi.nlm.nih.gov/33344786/). [FND-CIT-0185](../../../research/citation-index.md#fnd-cit-0185). |
+| <a id="citation-13"></a>**[13]** | — | Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functional motor weakness: a review of validated techniques. *Journal of Neurology*. 2025;272(6):427. [DOI](https://doi.org/10.1007/s00415-025-13139-4). [FND-CIT-0183](../../../research/citation-index.md#fnd-cit-0183). |
 
 **Continue:** [Functional Drop Attacks](../16-functional-drop-attacks.md)
 
