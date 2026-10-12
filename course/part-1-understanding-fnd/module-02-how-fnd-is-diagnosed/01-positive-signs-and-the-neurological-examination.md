@@ -32,7 +32,7 @@ This can feel strange. A leg that will not move when you concentrate on it may m
 
 **Hoover’s sign** may be used when one leg appears weak. The clinician compares deliberate hip movement with the automatic pressure produced by that leg when the opposite leg works against resistance. Strength that is difficult to produce directly may appear during the linked automatic movement. This is evidence of preserved motor capacity, not proof that the person could simply move normally if they tried harder.
 
-**Distractibility** means that a movement symptom changes when attention is drawn into another task. **Entrainment** is a particular tremor finding: while the person copies a rhythm with an unaffected hand or foot, the tremor may change to match that rhythm, pause or become difficult to maintain. The clinician looks for a clear and repeatable pattern, not one moment of ordinary variation.
+**Distractibility** means that a movement symptom changes when attention is drawn into another task. **Entrainment** is a particular tremor finding: while the person makes a rhythm with another hand or foot, the tremor changes to match that rhythm. A tremor that pauses, gets smaller or changes in another way during the task is a different observation, not entrainment. The clinician looks for a clear and repeatable pattern, not one moment of ordinary variation.
 
 Other FND presentations have other positive features. The examination of weakness is not used to diagnose a functional seizure, and tremor signs are not automatically applied to speech, vision, sensation or memory symptoms. There is no single bedside sign that diagnoses every form of FND.
 
