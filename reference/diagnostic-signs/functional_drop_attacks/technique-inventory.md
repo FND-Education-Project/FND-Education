@@ -40,11 +40,14 @@ The clinician evaluates vestibular drop attacks, leg buckling, medications and e
 
 ## Research and Sources
 
+The broader clinical review supports the cardiovascular, vestibular, epilepsy and sleep differential pathways. The functional cohort and qualitative study address narrower questions and do not classify every unexplained fall as functional. (*citations* [1](#citation-1), [2](#citation-2), [4](#citation-4))
+
 | Citation | Full citation and evidence limit |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. [FND-CIT-0059](../../../research/citation-index.md#fnd-cit-0059). [https://doi.org/10.1136/jnnp-2017-317396](https://doi.org/10.1136/jnnp-2017-317396) |
 | <a id="citation-2"></a>**[2]** | Revell ER, Gillespie D, Morris PG, Stone J. Drop attacks as a subtype of FND: a cognitive behavioural model using grounded theory. *Epilepsy & Behavior Reports*. 2021;16:100491. [FND-CIT-0060](../../../research/citation-index.md#fnd-cit-0060). [https://doi.org/10.1016/j.ebr.2021.100491](https://doi.org/10.1016/j.ebr.2021.100491) |
-| <a id="citation-3"></a>**[3]** | Stone J. Functional drop attacks. *Neurosymptoms.org*. Accessed September 2, 2026. [FND-CIT-0061](../../../research/citation-index.md#fnd-cit-0061). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/) |
+| <a id="citation-3"></a>**[3]** | Stone J. Functional drop attacks. *Neurosymptoms.org*. Accessed October 12, 2026. [FND-CIT-0061](../../../research/citation-index.md#fnd-cit-0061). [https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/](https://neurosymptoms.org/en/symptoms/fnd-symptoms/functional-drop-attacks/) |
+| <a id="citation-4"></a>**[4]** | Manford E, Garg A, Manford M. Drop attacks: a practical guide. *Practical Neurology*. 2024;24(2):106–113. [DOI](https://doi.org/10.1136/pn-2023-003791). [FND-CIT-0272](../../../research/citation-index.md#fnd-cit-0272). |
 
 **Continue:** [Functional Tics and Tic-Like Symptoms](../17-functional-tics-and-tic-like-symptoms.md)
 

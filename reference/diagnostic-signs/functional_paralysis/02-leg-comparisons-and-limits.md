@@ -90,16 +90,16 @@ Marked bilateral weakness may remove the useful comparison on which a sign depen
 | Comparison | Clinical question | Appropriate source route |
 |---|---|---|
 | Hoover's sign | Does requested hip extension differ from associated extension during the opposite leg's movement? | Use the existing [Hoover's guide](../functional_limb_weakness/01-hoovers-sign.md), including its preparation and evidence limits |
-| Hip-abductor sign | Does sideways force change between paired and separate leg tasks in a suitable asymmetric presentation? | Sonoo's primary description; record both sides and the actual contrast |
-| Spinal Injuries Center test | Can a severely affected leg maintain a safely placed bent-knee position despite inability to lift it? | Yugué's restricted comparison; consider mechanical support and severity |
+| Hip-abductor sign | Does sideways force change between paired and separate leg tasks in a suitable asymmetric presentation? | Contemporary [technique review](https://doi.org/10.1007/s00415-025-13139-4); record both sides and the actual contrast |
+| Spinal Injuries Center test | Can a severely affected leg maintain a safely placed bent-knee position despite inability to lift it? | Same review's restricted comparison; consider mechanical support and severity |
 
-These are the original inventory's assessment roles. The table is a selection aid, not a substitute for learning the full examination technique. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+These comparisons have different examination requirements. The table is a selection aid, not a substitute for learning the full examination technique. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
 
 ### Document what was compared
 
 Record baseline attempted movement, position, examiner support, the comparison task and observed force or movement. Include pain, compensation, mechanical support and any difficulty understanding the request. Describe why the observation is informative, not merely “positive functional sign.”
 
-This draft does not supply a new step-by-step hip-abductor or Spinal Injuries Center protocol from incompletely retrieved primary methods. The original descriptions remain linked for clinician review. A partially understood technique should not be improvised.
+Use the contemporary review for the described examination methods and their restrictions. This selection guide does not replace practical examination training. (*citations* [4](#citation-4))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -159,11 +159,13 @@ If the sign could not be used, explain the reason—for example pain or lack of 
 ## Evidence and Limitations
 {: #evidence-and-limitations .shareable }
 
+Functional weakness is identified through a meaningful contrast in movement under different conditions. The contemporary review explains how to interpret these comparisons in the full examination. (*citations* [4](#citation-4))
+
 Sonoo studied 33 people with leg paresis: 16 classified as functional and 17 with other neurological causes. All were classified correctly in that sample. The original inventory notes the small, unblinded design; this is not evidence of perfect performance in new populations or widespread paralysis. (*citations* [2](#citation-2))
 
-Yugué studied 96 legs from 48 people with structural spinal-cord disease and 28 legs from 14 people diagnosed with functional paralysis. Among structurally affected legs unable to lift the knee, one of 48 was positive; among those able to lift, 45 of 48 were positive. Legs are not independent participants. The small selected study and historical diagnostic framing limit generalization. (*citations* [3](#citation-3))
+Yugué studied 96 legs from 48 people with structural spinal-cord disease and 28 legs from 14 people diagnosed with functional paralysis. Among structurally affected legs unable to lift the knee, one of 48 was positive; among those able to lift, 45 of 48 were positive. Legs are not independent participants. The selected sample and severity restriction limit generalization. (*citations* [3](#citation-3))
 
-The Hoover study and its small functional subgroup are discussed in the existing dedicated guide. No pooled or universal accuracy estimate is supplied here. Complete primary full-text review for the other two methods remains pending; retrieved primary abstracts support only the study details summarized above.
+The Hoover study and its small functional subgroup are discussed in the existing dedicated guide. No pooled or universal accuracy estimate is supplied here.
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -199,13 +201,14 @@ A static diagram can show the clinical question while the full procedural review
 
 ## Research and Sources
 
-Primary study records were checked for sample and result context. Their historical titles are retained for accurate retrieval, not as preferred language about the person. The original inventory's wording is preserved in the [inventory](technique-inventory.md).
+The contemporary review explains technique selection and interpretation. Original studies supply the sample and result context; the [inventory](technique-inventory.md) keeps all nine assessment entries together.
 
 | Citation | Figure | Full citation |
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | — | McWhirter L, Stone J, Sandercock P, Whiteley W. Hoover’s sign for the diagnosis of functional weakness: a prospective unblinded cohort study in patients with suspected stroke. *Journal of Psychosomatic Research*. 2011;71(6):384–386. [FND-CIT-0018](../../../research/citation-index.md#fnd-cit-0018). [https://doi.org/10.1016/j.jpsychores.2011.09.003](https://doi.org/10.1016/j.jpsychores.2011.09.003) |
-| <a id="citation-2"></a>**[2]** | — | Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of Neurology, Neurosurgery & Psychiatry*. 2004;75(1):121–125. Historical terminology retained in the article title. [FND-CIT-0058](../../../research/citation-index.md#fnd-cit-0058). [https://pmc.ncbi.nlm.nih.gov/articles/PMC1757483/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1757483/) |
-| <a id="citation-3"></a>**[3]** | — | Yugué I, Shiba K, Ueta T, Iwamoto Y. A new clinical evaluation for hysterical paralysis. *Spine*. 2004;29(17):1910-3; discussion 1913. [DOI](https://doi.org/10.1097/01.brs.0000137055.55350.37). [PMID: 15534415](https://pubmed.ncbi.nlm.nih.gov/15534415/). [FND-CIT-0166](../../../research/citation-index.md#fnd-cit-0166). |
+| <a id="citation-2"></a>**[2]** | — | Sonoo M. Abductor sign: a reliable new sign to detect unilateral non-organic paresis of the lower limb. *Journal of Neurology, Neurosurgery & Psychiatry*. 2004;75(1):121–125. FND-CIT-0058. DOI: 10.1136/jnnp.75.1.121 |
+| <a id="citation-3"></a>**[3]** | — | Yugué I, Shiba K, Ueta T, Iwamoto Y. A new clinical evaluation for hysterical paralysis. *Spine*. 2004;29(17):1910-3; discussion 1913. DOI: 10.1097/01.brs.0000137055.55350.37. PMID: 15534415. FND-CIT-0166. |
+| <a id="citation-4"></a>**[4]** | — | Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functional motor weakness: a review of validated techniques. *Journal of Neurology*. 2025;272(6):427. [DOI](https://doi.org/10.1007/s00415-025-13139-4). [FND-CIT-0183](../../../research/citation-index.md#fnd-cit-0183). |
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

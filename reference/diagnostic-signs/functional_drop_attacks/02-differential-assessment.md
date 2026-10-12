@@ -22,11 +22,11 @@ Clinician-focused educational reference. Use within professional competence and 
 ## Purpose and Suitability
 {: #purpose-and-suitability .shareable }
 
-Use this guide to select the next clinical pathway after reconstructing the event. Syncope, epilepsy, cataplexy, vestibular events, mechanical falls and functional symptoms can require different investigations and can coexist. [1](#citation-1)
+Use this guide to select the next clinical pathway after reconstructing the event. Syncope, epilepsy, cataplexy, vestibular events, mechanical falls and functional symptoms can require different investigations and can coexist. (*citations* [1](#citation-1), [3](#citation-3))
 
 > **Syncope:** A brief loss of consciousness caused by reduced blood flow to the brain.
 
-NICE guidance cited here concerns suspected transient loss of consciousness in people over 16; it is adjacent guidance, not a protocol for every fall. [2](#citation-2)
+NICE guidance cited here concerns suspected transient loss of consciousness in people over 16; it is adjacent guidance, not a protocol for every fall. (*citations* [2](#citation-2))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -87,7 +87,7 @@ New chest pain, sustained palpitations, breathlessness, a new neurological defic
 | Vertigo, hearing symptoms or vestibular history | Vestibular assessment matched to the presentation | A normal general gait test does not answer every vestibular question |
 | Buckling, pain, trips, medication or environmental factors | Gait, strength, musculoskeletal, medication and environmental review | Several contributors may coexist |
 
-These routes expand the original differential inventory; they are not a mandatory test panel. [1](#citation-1) NICE recommends a 12-lead ECG during initial suspected-blackout assessment. Use its current pathway and local guidance for test selection rather than using this table as a standing or tilt-test protocol. [2](#citation-2)
+The broader clinical review supports selecting among these routes according to the event; they are not a mandatory test panel. NICE recommends a 12-lead ECG during initial suspected-blackout assessment. Use its current pathway and local guidance for test selection rather than using this table as a standing or tilt-test protocol. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -143,7 +143,7 @@ Give the person a named follow-up route and reasons to seek earlier reassessment
 ## Evidence and Limitations
 {: #evidence-and-limitations .shareable }
 
-The drop-attack cohort is descriptive and cannot validate a differential-testing algorithm. NICE supplies a separate clinical pathway for suspected blackouts; it should not be applied as if it were a positive functional-drop-attack test. Full recommendation-page retrieval was unavailable during this check; the indexed official recommendation was verified. Detailed protocols remain with the guideline and treating service. [1](#citation-1), [2](#citation-2)
+The drop-attack cohort is descriptive, and the broader guide is a clinical review; neither validates a universal differential-testing algorithm. NICE supplies a separate clinical pathway for suspected blackouts; it should not be applied as if it were a positive functional-drop-attack test. Detailed protocols remain with the guideline and treating service. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
@@ -180,7 +180,8 @@ A diagram may begin with “sudden fall” and branch by clinical questions. Lab
 | Citation | Full citation and evidence limit |
 |---|---|
 | <a id="citation-1"></a>**[1]** | Hoeritzauer I, Carson AJ, Stone J. “Cryptogenic drop attacks” revisited: evidence of overlap with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2018;89(7):769–776. [FND-CIT-0059](../../../research/citation-index.md#fnd-cit-0059). [https://doi.org/10.1136/jnnp-2017-317396](https://doi.org/10.1136/jnnp-2017-317396) |
-| <a id="citation-2"></a>**[2]** | NICE. Transient loss of consciousness ('blackouts') in over 16s. Clinical guideline CG109. [Recommendations](https://www.nice.org.uk/guidance/cg109/chapter/Recommendations). Accessed October 7, 2026. Adjacent guidance for suspected transient loss of consciousness; not functional-drop-attack diagnostic criteria. [FND-CIT-0263](../../../research/citation-index.md#fnd-cit-0263). |
+| <a id="citation-2"></a>**[2]** | NICE. Transient loss of consciousness ('blackouts') in over 16s. Clinical guideline CG109. [Recommendations](https://www.nice.org.uk/guidance/cg109/chapter/Recommendations). Accessed October 12, 2026. Adjacent guidance for suspected transient loss of consciousness; not functional-drop-attack diagnostic criteria. [FND-CIT-0263](../../../research/citation-index.md#fnd-cit-0263). |
+| <a id="citation-3"></a>**[3]** | Manford E, Garg A, Manford M. Drop attacks: a practical guide. *Practical Neurology*. 2024;24(2):106–113. [DOI](https://doi.org/10.1136/pn-2023-003791). [FND-CIT-0272](../../../research/citation-index.md#fnd-cit-0272). |
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>

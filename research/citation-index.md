@@ -2578,3 +2578,26 @@ Kim HJ, Park JH, Kim JS. Diagnostic utility of Niigata Persistent Postural-Perce
 ## PPPD and facial evidence-presentation review — October 11, 2026
 
 PPPD overview, questionnaire guide and inventory now cite 0271 alongside the original NPQ and French validation; the inventory also adds 0262. The facial jaw/tongue guide adds the existing functional-dystonia review (0021). Fasano (0052) and Yoshida (0053) retain their exact bibliographies and IDs as plain text on the reviewed facial pages; original source records remain intact.
+
+## FND-CIT-0272
+
+Manford E, Garg A, Manford M. Drop attacks: a practical guide. *Practical Neurology*. 2024;24(2):106–113. [DOI](https://doi.org/10.1136/pn-2023-003791).
+
+**Type and scope:** Clinical review of the broad drop-attack differential; not a functional-drop-attack accuracy study.
+
+## FND-CIT-0273
+
+Gary JB, Shaw JS, McGuire JF. A systematic review to characterize functional tic-like behaviors. *Frontiers in Child and Adolescent Psychiatry*. 2026;5:1936806. DOI: 10.3389/frcha.2026.1936806.
+
+**Type and scope:** Systematic narrative synthesis of heterogeneous functional tic-like symptom studies. Public citations remain plain text under the evidence-presentation policy.
+
+## Final three diagnostic evidence reviews — October 12, 2026
+
+The paralysis pages now use the existing contemporary technique review (0183). Sonoo (0058), Yugué (0166) and Baker/Silver (0120) retain exact bibliographies and IDs as plain text on reviewed paralysis pages. All existing source IDs and inventory entries are retained.
+
+| Source | Pages added in this review |
+|---|---|
+| FND-CIT-0183 | [diagnostic-signs/15-functional-paralysis.md](../reference/diagnostic-signs/15-functional-paralysis.md) · [functional_paralysis/01-severe-immobility-assessment.md](../reference/diagnostic-signs/functional_paralysis/01-severe-immobility-assessment.md) · [functional_paralysis/technique-inventory.md](../reference/diagnostic-signs/functional_paralysis/technique-inventory.md) · [functional_paralysis/02-leg-comparisons-and-limits.md](../reference/diagnostic-signs/functional_paralysis/02-leg-comparisons-and-limits.md) · [functional_paralysis/03-arm-comparisons-and-limits.md](../reference/diagnostic-signs/functional_paralysis/03-arm-comparisons-and-limits.md) |
+| FND-CIT-0272 | [diagnostic-signs/16-functional-drop-attacks.md](../reference/diagnostic-signs/16-functional-drop-attacks.md) · [functional_drop_attacks/01-event-reconstruction.md](../reference/diagnostic-signs/functional_drop_attacks/01-event-reconstruction.md) · [functional_drop_attacks/technique-inventory.md](../reference/diagnostic-signs/functional_drop_attacks/technique-inventory.md) · [functional_drop_attacks/02-differential-assessment.md](../reference/diagnostic-signs/functional_drop_attacks/02-differential-assessment.md) |
+| FND-CIT-0264 | [functional_tics/technique-inventory.md](../reference/diagnostic-signs/functional_tics/technique-inventory.md) |
+| FND-CIT-0273 | [diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [functional_tics/02-criteria-and-diagnostic-uncertainty.md](../reference/diagnostic-signs/functional_tics/02-criteria-and-diagnostic-uncertainty.md) · [functional_tics/technique-inventory.md](../reference/diagnostic-signs/functional_tics/technique-inventory.md) |

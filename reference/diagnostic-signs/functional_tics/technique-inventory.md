@@ -8,7 +8,7 @@
 - [Tic Diagnostic Criteria and Uncertainty](02-criteria-and-diagnostic-uncertainty.md)
 - [Measuring Tic Symptoms and Everyday Function](03-measurement-and-everyday-function.md)
 
-**Evidence update:** The ESSTS entry describes the original consensus publication. Later selected-criterion specificity research is discussed in [criteria and uncertainty](02-criteria-and-diagnostic-uncertainty.md); the original inventory wording remains intact.
+**Evidence update:** Read the ESSTS consensus alongside the later specificity study and 2026 synthesis in [criteria and uncertainty](02-criteria-and-diagnostic-uncertainty.md). These sources inform a full clinical assessment of involuntary symptoms and possible coexistence; they do not establish a single diagnostic sign. (*citations* [10](#citation-10), [11](#citation-11))
 
 ### Developmental and onset history
 
@@ -61,6 +61,8 @@ EEG–EMG may address a differential with jerks, but premovement potentials also
 | <a id="citation-7"></a>**[7]** | Cavanna AE, Caimi V, Capriolo E, et al. Neurodevelopmental Tics with Co-Morbid Functional Tic-like Behaviors: Diagnostic Challenges of a Complex Tourette Syndrome Phenotype. *Brain sciences*. 2025;15(5):435. [DOI](https://doi.org/10.3390/brainsci15050435). [PMID: 40426606](https://pubmed.ncbi.nlm.nih.gov/40426606/). [FND-CIT-0172](../../../research/citation-index.md#fnd-cit-0172). |
 | <a id="citation-8"></a>**[8]** | van der Salm SM, Tijssen MA, Koelman JH, van Rootselaar AF. The bereitschaftspotential in jerky movement disorders. *Journal of neurology, neurosurgery, and psychiatry*. 2012;83(12):1162-1167. [DOI](https://doi.org/10.1136/jnnp-2012-303081). [PMID: 22952323](https://pubmed.ncbi.nlm.nih.gov/22952323/). [FND-CIT-0125](../../../research/citation-index.md#fnd-cit-0125). |
 | <a id="citation-9"></a>**[9]** | Edwards MJ, Koens LH, Liepert J, et al. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical neurophysiology practice*. 2024;9:69-77. [DOI](https://doi.org/10.1016/j.cnp.2023.12.006). [PMID: 38352251](https://pubmed.ncbi.nlm.nih.gov/38352251/). [FND-CIT-0022](../../../research/citation-index.md#fnd-cit-0022). |
+| <a id="citation-10"></a>**[10]** | Nilles C, Martino D, Pringsheim T. Testing the specificity of phenomenological criteria for functional tic-like behaviours in youth with Tourette syndrome. *European Journal of Neurology*. 2024;31(6):e16262. [DOI](https://doi.org/10.1111/ene.16262). [FND-CIT-0264](../../../research/citation-index.md#fnd-cit-0264). |
+| <a id="citation-11"></a>**[11]** | Gary JB, Shaw JS, McGuire JF. A systematic review to characterize functional tic-like behaviors. *Frontiers in Child and Adolescent Psychiatry*. 2026;5:1936806. FND-CIT-0273. DOI: 10.3389/frcha.2026.1936806. |
 
 **Continue:** [Recovery Techniques](../../recovery-techniques/README.md)
 

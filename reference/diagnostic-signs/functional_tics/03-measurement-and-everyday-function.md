@@ -84,7 +84,7 @@ Agree what is worth measuring and over what period. Avoid unnecessary daily coun
 | GTS-QOL (adults) / C&A-GTS-QOL (children and adolescents) | Explore perceived impact with an age-appropriate version | Do not assume validation transfers unchanged to functional symptoms |
 | Authored activity-and-support record | Identify interrupted tasks, assistance, access and priorities | No validated score or diagnostic cutoff is claimed |
 
-The first three tool families are discussed in the primary-tic assessment guideline; select the correct version and follow its administration requirements. [1](#citation-1)
+The first three tool families are discussed in the primary-tic assessment guideline; select the correct version and follow its administration requirements. (*citations* [1](#citation-1))
 
 For the authored record, ask about one or two chosen activities: what was attempted, interruptions or injury, help or adjustments, time/recovery cost and the person's satisfaction. Keep intended speech distinct from involuntary sounds. Record school/work and social access where relevant; do not assume all domains are affected.
 
@@ -142,7 +142,7 @@ Document whether change concerns longstanding tics, newly assessed functional sy
 ## Evidence and Limitations
 {: #evidence-and-limitations .shareable }
 
-The guideline supports primary-tic measurement, including the YGTSS; it does not establish functional-tic-specific thresholds or validate this authored activity record. Its assessment and measurement sections were checked. [1](#citation-1) The existing mixed-presentation literature supports keeping coexisting symptom histories visible; response to treatment must not be used retrospectively as proof of diagnosis. [2](#citation-2)
+The guideline supports primary-tic measurement, including the YGTSS; it does not establish functional-tic-specific thresholds or validate this authored activity record. The existing mixed-presentation literature supports keeping coexisting symptom histories visible; response to treatment must not be used retrospectively as proof of diagnosis. (*citations* [1](#citation-1), [2](#citation-2))
 
 ***
 [Purpose and Suitability](#purpose-and-suitability)<br>
