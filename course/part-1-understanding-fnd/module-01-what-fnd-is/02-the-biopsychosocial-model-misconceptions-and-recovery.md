@@ -90,6 +90,11 @@ Differentiate diagnosis, suspected predisposing or precipitating influences, cur
 Ask about function, participation, supportive relationships, accessibility, disability and coexisting conditions rather than focusing only on symptom severity. Explain proposed mechanisms as hypotheses where appropriate; treatments and social supports should be offered through collaborative decisions. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+
 ---
 
 ## Research and Sources
