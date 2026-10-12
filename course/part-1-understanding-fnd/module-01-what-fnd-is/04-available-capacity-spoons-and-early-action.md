@@ -10,6 +10,13 @@
 
 FND can affect movement, sensation, episodes, speech, thinking and many other functions. Whatever a person's symptom pattern, daily life still places demands on the body and mind. Learning to notice changing capacity can help a person adjust those demands, use support earlier and prepare for worsening. It cannot explain every symptom or guarantee that a flare will be prevented.
 
+---
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+---
+
 ## For the Person With FND
 {: #for-the-person-with-fnd .shareable }
 
