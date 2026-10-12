@@ -87,6 +87,11 @@ Explain the positive evidence supporting the diagnosis in terms suited to the sy
 Be clear about the difference between established clinical observations, proposed mechanisms and individual formulation. Tailor safety-netting and referrals to changes in symptoms and individual risk. Discuss the diagnosis collaboratively, without equating symptom variability with intentional control. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
+
 ---
 
 ## Research and Sources
