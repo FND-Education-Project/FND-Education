@@ -129,6 +129,20 @@ Access and interpretation below refer to this review date. Existing permanent ID
 - Replacing older relevant studies solely because newer publications exist, or adding neuroscience discoveries that do not change these lessons' teaching.
 - Blanket share markers on all headings/source lists. Sharing is editorial opt-in; keep the existing audience IDs stable and do not add markers to this internal report.
 
+## Approved must-fix implementation (2026-10-12)
+
+The project lead approved implementing **M1–M5 now**, while explicitly reserving all **worthwhile** content improvements, course-to-Reference links, and glossary link proposals for **Audit 2**. The following approved exceptions were applied to the existing draft PR:
+
+- **M1:** The Module 1 overview and focused recovery lesson now use “There is no cure for FND,” while keeping distinctions between remission, recovery and varied outcomes.
+- **M2:** The Module 2 positive-signs lesson describes entrainment as matching the other limb's rhythm; suppression or pausing are different observations. The glossary's broader entrainment definition is **unchanged**, for Audit 2.
+- **M3:** The tests lesson states the scalp-EEG limit alongside typical-event interpretation and attributes this to existing source **FND-CIT-0233** (Whitehead et al., 2017). The normal routine EEG statement now has a local source marker. No new permanent citation ID was allocated.
+- **M4:** The recovered Module 1 recovery lesson advances to **Available Capacity**, not directly to Module 2. End-of-clinician navigation is aligned immediately before Research and Sources across the two newly generated lessons and restored recovery lesson.
+- **M5:** Removed exactly **21** obsolete course-use associations from the central citation index. Original source records and stable IDs were retained, including records with no current reader-facing use.
+
+No proposed Reference or Glossary cross-link was added. The four archived human manuscripts were not changed. Approved safety/accuracy repairs do not convert this into Audit 2 or authorize optional editorial rewrites.
+
+**Validation:** the GitHub Pages workflow passed after these changes: [run 38271769628](https://github.com/FND-Education-Project/FND-Education/actions/runs/38271769628). The PR remains a draft, unmerged pending project-lead review. The earlier “must-fix” table records the original problems and is retained as audit provenance, not a statement that they are still outstanding.
+
 ## Validation and review gate
 
 - **Preservation:** all four archive payloads equal their original Git-source bytes; archive and all eight public course files unchanged by this continuation.
