@@ -8,7 +8,7 @@
 
 Living with FND can affect nearly every part of life. At the same time, what is happening in our lives can sometimes affect our health and symptoms.
 
-The **biopsychosocial model** is one way to understand these relationships. It looks at three parts of our lives: our physical health, our thoughts and emotions, and the world around us.
+The **[biopsychosocial model](../../../glossary/README.md#biopsychosocial-model)** is one way to understand these relationships. It looks at three parts of our lives: our physical health, our thoughts and emotions, and the world around us.
 
 The model can help us understand what might make life more difficult and what could help. **It does not prove what caused someone's FND.** (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
@@ -72,7 +72,7 @@ Improvement may be possible in symptoms, daily activities or quality of life, ev
 
 There's an important distinction here. **The biopsychosocial model cannot tell us what caused someone's FND.**
 
-For example, a person with FND might also experience anxiety, depression or difficulties related to past trauma. These problems can affect their wellbeing and deserve appropriate care, but their presence does not mean they caused the neurological disorder.
+For example, a person with FND might also experience [anxiety, depression or difficulties related to past trauma](../../../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md). These problems can affect their wellbeing and deserve appropriate care, but their presence does not mean they caused the neurological disorder.
 
 Being referred for psychological therapy can sometimes leave people wondering whether their doctor believes their FND is a psychological illness.
 
@@ -234,7 +234,7 @@ You can, however, ask what help they would find useful.
 
 Respect their privacy and their choices about treatment, relationships and daily activities.
 
-Encouragement can be valuable, especially when someone is grieving changes to their health or independence. But encouragement works best when it does not create pressure to recover on a particular timetable.
+Encouragement can be valuable, especially when someone is grieving changes to their health or independence. But encouragement works best when it does not create [pressure to recover on a particular timetable](../../../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md#for-family-friends-and-other-supporters).
 
 New or substantially changed symptoms also deserve appropriate medical attention rather than automatically being assumed to be FND.
 
@@ -294,8 +294,8 @@ Identifying a problem that affects treatment or daily life does not establish th
 
 | Area | Examples worth considering |
 |---|---|
-| **Biological / physical** | Pain, fatigue, migraine, sleep disorders, gastrointestinal symptoms, medication effects, other medical conditions and neurological comorbidities such as epilepsy. |
-| **Psychological** | Attention, expectations, learning, emotional wellbeing, anxiety, depression, trauma-related symptoms, dissociation and coping. Their relevance is individual, not assumed. |
+| **Biological / physical** | Pain, fatigue, migraine, sleep disorders, gastrointestinal symptoms, medication effects, other medical conditions and neurological [comorbidities](../../../glossary/README.md#coexisting-condition--comorbidity) such as epilepsy. |
+| **Psychological** | Attention, expectations, learning, emotional wellbeing, anxiety, depression, trauma-related symptoms, [dissociation](../../../glossary/README.md#dissociation) and coping. Their relevance is individual, not assumed. |
 | **Social** | Access to care, relationships, work or education, financial pressure, housing, transport, stigma, independence, caregiver needs and social support. |
 
 Some conditions, including migraine, persistent pain, sleep disturbance and mental-health disorders, may warrant treatment in their own right.
@@ -362,7 +362,6 @@ An overly broad explanation can be difficult to test or challenge. This is a wea
 Our [Reference Library](../../../reference/README.md) provides symptom-specific material on diagnostic techniques, recovery approaches, coexisting conditions and experiences associated with FND.
 
 - [Biopsychosocial Experiences Associated with FND](../../../reference/biopsychosocial-experiences/README.md) — Stigma, disbelief, emotional regulation, unpredictable symptoms and the social effects of disability, without automatically explaining the disorder's cause.
-- [Mental Health, Stigma, and Being Believed](../../../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md) — FND, psychological wellbeing, stigma and the importance of appropriate support.
 - [Professional Roles in FND Care](../../../reference/professional-roles-in-fnd-care.md) — How different specialties can contribute to care.
 
 [For the Person With FND](#for-the-person-with-fnd)<br>
