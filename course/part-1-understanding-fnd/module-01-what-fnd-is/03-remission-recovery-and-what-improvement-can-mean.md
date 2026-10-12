@@ -17,7 +17,7 @@ This is a short introduction. Later modules will discuss treatment, rehabilitati
 ## For the Person With FND
 {: #for-the-person-with-fnd .shareable }
 
-The words **remission** and **recovery** are related, but they do not always mean the same thing. Researchers and clinics do not always use them in exactly the same way either.
+**There is no cure for FND.** However, symptoms may improve greatly or enter remission, and people's everyday lives may become easier. The words **remission** and **recovery** are related, but they do not always mean the same thing. Researchers and clinics do not always use them in exactly the same way either.
 
 In this course, **remission** means that symptoms have become much less active or have disappeared for a period of time. Complete remission means that the symptoms being discussed are absent. Partial remission means that they have improved but are still present. Remission is not automatically the same as a cure because symptoms can return.
 
@@ -76,16 +76,15 @@ If symptoms return, try not to treat the relapse as proof that all progress has 
 
 **How can clinicians support the patient when improvement is limited or not yet possible?** Continued care may still address symptom relief, safety, accessibility, communication, participation, mental health, quality of life and supporter needs. Persistent symptoms should not be treated as proof of poor effort, and new or substantially changed symptoms should still receive appropriate medical assessment.
 
----
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
----
-⬅️ **Previous article:** [The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
 
-➡️ **Next module:** [How FND Is Diagnosed](../module-02-how-fnd-is-diagnosed/README.md)
 ---
+
+**Continue:** [Next page: Available Capacity, Spoons, and Early Action](04-available-capacity-spoons-and-early-action.md)
+
 ## Research and Sources
 {: #research-and-sources .shareable }
 
