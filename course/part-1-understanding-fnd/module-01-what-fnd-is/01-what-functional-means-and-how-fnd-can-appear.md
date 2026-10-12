@@ -4,7 +4,7 @@
 
 # What “Functional” Means and How FND Can Appear
 
-> **Working draft:** This page is a newly generated interim draft (October 12, 2026), replacing human-authored text that is preserved in an internal editorial archive. It is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
 
 Functional Neurological Disorder (FND) describes genuine neurological symptoms involving how the nervous system functions. It can affect movement, sensation, awareness, speech, vision and other abilities. The word *functional* does not mean the symptoms are imaginary, intentionally produced or unimportant. (*citations* [1](#citation-1), [2](#citation-2))
 
