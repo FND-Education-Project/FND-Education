@@ -38,9 +38,9 @@ The word looks complicated, but let's break it down.
 
 - **The *social* part means the world around us:** Our family, friendships, culture, relationships, living conditions, financial situation and access to healthcare. Support from other people is also part of this picture. (*citations* [1](#citation-1), [3](#citation-3))
 
-![Body and brain, thoughts and feelings, and life and surroundings are three areas to consider.](../../../assets/illustrations/module-1-page-2-biopsychosocial-influences.svg)
+![A brain surrounded by five scenes representing stress, sleep, finances, social support and physical illness.](../../../assets/images/lesson-2-illustration.png)
 
-*Illustration: Three areas that may influence health and everyday life. No area is required to have caused FND.*
+*Illustration: Stress, sleep, finances, social support and physical illness may influence health and everyday life. No factor is required to have caused FND.*
 
 ### How these parts of life can affect symptoms
 
@@ -158,11 +158,13 @@ If keeping notes is difficult, you might instead choose one small practical chan
 
 You don't need to keep records or perform exercises to prove that you are trying.
 
-### Optional learning activity
+### Optional learning activities
 
 **Biopsychosocial What? Crossword**
 
 [Normal version](../../../assets/puzzles/crosswords/Biopsychosocial-What-crossword-09-2026.pdf) · [Easy version](../../../assets/puzzles/crosswords/Biopsychosocial-What-crossword-easy-09-2026.pdf) · [Answer key](../../../assets/puzzles/crosswords/Biopsychosocial-What-crossword-answer-key-09-2026.pdf)
+
+**[Biopsychosocial factors colouring page (PDF)](../../../assets/puzzles/colouring/lesson-2-coloring-book.pdf)** — an optional colouring version of this lesson’s illustration.
 
 ---
 
