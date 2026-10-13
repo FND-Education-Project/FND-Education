@@ -204,3 +204,20 @@ Scope: the PR's explicit Work review of approved Lesson 3 at `298959ea`, request
 - Added selective rehabilitation/relapse glossary links; retained contextual Reference links and removed their duplicated footer. Moved the lesson summary to the introductory paragraph so generated description metadata is a complete informative sentence. Banner spelling now matches existing human-authorship detection while retaining AI-assistance disclosure. Added dated review note.
 
 Validation: source preparation and site validation pass (428 routes); whitespace check passes. Generated metadata reviewed: working-draft, human authorship, lesson 3, correct title, complete description, `/course/m1/3/`, previous lesson 2 and next lesson 4. Personal quotes and protected archive hash retained (`7172441d88bfca3b6a8a1fcc5825366960afecb625ac0b61fc58fbddc9dcf2b1`). Full Jekyll/Pagefind/artifact validation remains the PR CI check; Ruby/Bundler unavailable locally. Keep draft and unmerged; this first pass is not clinical approval.
+
+## Lesson 3 final editorial pass and artwork — October 13, 2026
+
+Project-lead request: final readability/format review and supplied Lesson 3 artwork. Replaced the lesson's SVG placement with the supplied colour PNG, descriptive alt text and a scene-matched caption; retained the old asset for existing references. Added the unchanged supplied colouring PDF and PNG preview to the puzzle collection, linked the PDF from the lesson, and updated the asset index. Inspected both supplied images and a rendered PDF page. Simplified one supporter-facing phrase and removed a repeated sentence ending; personal quotations, research claims and citations are unchanged.
+
+### Audit boundaries for the remaining lesson workflow
+
+| Stage | Owns | Completion record |
+|---|---|---|
+| Audit 1: accuracy and coverage | Verify claims, quotations, source interpretation and bibliographic details; identify meaningful omissions and suitable Reference/glossary destinations. Classify recommendations and obtain approval for substantive changes. | Evidence ledger and a bounded change list, with unresolved source limitations. |
+| Audit 2: reader experience and release checks | Implement approved enrichment/link choices; improve readability, repetition, structure and formatting; check illustrations, alt text, metadata, navigation, responsive presentation and build output. | Editorial change record and validation results. No new research claims introduced silently. |
+
+Earlier authorized lesson-specific passes combined small tasks from both stages. Do not repeat completed research or link decisions merely to satisfy a stage label. A newly discovered factual issue returns to the evidence stage; final checks verify that editing did not alter the verified meaning. This definition does not authorize remaining module-wide Audit 2 proposals.
+
+Puzzle inventory: three sets (What is FND?, Biopsychosocial What?, Recovery), each with normal/easy/key files. The normal Biopsychosocial PDF contains the What is FND? puzzle; filename changes cannot supply the missing content. Await the correct normal PDF and a fourth set if one exists. Existing crosswords unchanged.
+
+Validation: site preparation, source validation (428 routes) and whitespace checks pass. Existing card layout reused; supplied PDF render inspected. Local browser/Jekyll verification remains unavailable; full artifact check is delegated to PR CI. No claim of full visual accessibility certification. Keep draft/unmerged. Recommend module-end merge after Lesson 4/overview review, successful CI and project-lead approval; review all PR contents because this branch also includes earlier Module 2 changes.

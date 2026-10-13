@@ -65,9 +65,9 @@ Their seizures may not have disappeared, but important parts of their life have 
 
 **Recovery does not have to mean that every symptom has disappeared.**
 
-![Four meaningful forms of improvement: fewer symptoms, safer days, more participation and better quality of life.](../../../assets/illustrations/module-1-page-3-meaningful-improvement.svg)
+![Four everyday scenes: walking outdoors with sunglasses and a wide-brimmed hat, preparing food with a chopping aid, relaxing with a dog and a walker nearby, and resting in bed with an eye mask.](../../../assets/images/lesson-3-illustration.png)
 
-*Illustration: Improvement can take several forms. Different people may value different outcomes.*
+*Illustration: Meaningful improvement can include taking part in activities, using practical supports, enjoying company and resting comfortably.*
 
 ### Recovery can also mean something smaller
 
@@ -99,7 +99,7 @@ For example, someone who has become more independent may still experience a seve
 
 A return of symptoms does not necessarily mean FND is progressing or that future improvement is impossible.
 
-Nor does it tell us whether the person has accepted the diagnosis, worked hard enough or followed their treatment plan. (*citations* [1](#citation-1), [2](#citation-2), [5](#citation-5))
+It also cannot tell us whether the person has accepted the diagnosis, worked hard enough or followed their treatment plan. (*citations* [1](#citation-1), [2](#citation-2), [5](#citation-5))
 
 **Symptoms can change independently of the effort someone has made.**
 
@@ -141,11 +141,13 @@ If you wish, write down one sentence describing that improvement.
 
 You don't need to track it every day. It's simply a way to recognize something that matters to you.
 
-### Optional learning activity
+### Optional learning activities
 
 **Recovery Crossword**
 
 [Normal version](../../../assets/puzzles/crosswords/Recovery-crossword-09-2026.pdf) · [Easy version](../../../assets/puzzles/crosswords/Recovery-crossword-easy-09-2026.pdf) · [Answer key](../../../assets/puzzles/crosswords/Recovery-crossword-answer-key-09-2026.pdf)
+
+**Colouring page:** [Download the recovery and everyday-life illustration (PDF)](../../../assets/puzzles/colouring/lesson-3-coloring-book.pdf). Find more activities in the [puzzle collection](../../../assets/puzzles/README.md).
 
 ---
 
@@ -187,7 +189,7 @@ Helping someone maintain these aspects of life can make a meaningful difference.
 
 This might involve making the home more accessible, helping with transportation, arranging assistance or finding suitable mobility equipment.
 
-Physiotherapy and occupational therapy consensus guidance both caution that aids can sometimes interfere with movement rehabilitation or cause secondary problems. Both also recognize a role for equipment when disability persists.
+Expert guidance for physiotherapy and occupational therapy cautions that aids can sometimes interfere with movement rehabilitation or cause secondary problems. Both sets of guidance also recognize a role for equipment when disability persists.
 
 The occupational therapy guidance recommends assessing each situation individually. Equipment may be needed for safety, and aids or adaptations can support independence and community access when disability continues after rehabilitation. Decisions should consider the person's needs, goals and safe use of the equipment. (*citations* [2](#citation-2), [4](#citation-4))
 
@@ -205,7 +207,7 @@ However, symptoms returning does not mean that previous improvements were meanin
 
 The person may still have gained knowledge, skills, confidence or useful support.
 
-When symptoms return, focus first on what the person needs now rather than assuming that something went wrong or that earlier progress has been lost.
+When symptoms return, focus first on what the person needs now.
 
 Perhaps they need more rest, assistance, a quieter environment or medical advice about a new symptom.
 
