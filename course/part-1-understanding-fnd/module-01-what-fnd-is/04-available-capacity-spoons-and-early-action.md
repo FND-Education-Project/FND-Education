@@ -2,9 +2,7 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 1: What FND Is](README.md) › **Available Capacity, Spoons, and Early Action**
 <!-- NAV-BREADCRUMB:END -->
 
-
 # Available Capacity, Spoons, and Early Action
-
 
 > **Working draft:** This page contains human-authored and AI-assisted material and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
 
@@ -20,13 +18,10 @@ We'll also introduce Spoon Theory, look at some signs that capacity may be getti
 
 > **Available capacity is what you can use right now—not what you should be able to do, and not a measure of effort or worth.**
 
-
 ---
-
 
 ## For the Person With FND
 {: #for-the-person-with-fnd .shareable }
-
 
 ### What does "available capacity" mean?
 
@@ -51,7 +46,6 @@ You might complete the appointment successfully but have little capacity left to
 **Being able to do something once doesn't always mean you can do it again or do it without feeling the effects later.**
 
 Available capacity is a practical way to describe this experience. It is not a medical measurement.
-
 
 ### What are "spoons"?
 
@@ -78,7 +72,6 @@ Spoons aren't a real unit of energy. There is no medical test that tells us exac
 But they can be a useful way to communicate our changing limits.
 
 Throughout this course, we'll often use the term available capacity because it includes more than physical tiredness alone.
-
 
 ### Why does available capacity change?
 
@@ -110,7 +103,6 @@ The conversation may not take more physical effort. But my brain now has more in
 
 This is why available capacity can be more useful than simply saying someone is tired.
 
-
 ### The cost of everyday activities
 
 With FND, everyday activities can take much more effort than other people may realize.
@@ -129,12 +121,9 @@ Before an activity, it may help to think about two things: Can I manage this rig
 
 You won't always be able to predict the answer, but thinking ahead may help you plan for recovery or support.
 
-
 ![Available capacity illustrated as a leaky bucket with positive flows into it.](../../../assets/images/available-capacity.png)
 
-
 *Illustration: A bucket offers one way to imagine changing capacity. It is a comparison, not a measurement of the nervous system.*
-
 
 ### Can available capacity be restored?
 
@@ -151,7 +140,6 @@ There isn't one answer that works for everyone.
 For this reason, the aim isn't to calculate every spoon or to control every part of the day.
 
 It's to become more familiar with your own needs and notice changes that may be useful.
-
 
 ### How is this different from pacing or managing energy?
 
@@ -174,7 +162,6 @@ For example, counting spoons can't tell us whether one part of our automatic ner
 The Energy Envelope Theory was created for a different condition called ME/CFS. That doesn't mean the same research findings apply to FND. (*citations [3](#citation-3*), [4](#citation-4), [5](#citation-5), [6](#citation-6))
 
 We'll explore pacing and activity management more fully in [Module 15: Pacing, Activity, and the Boom-and-Bust Cycle](../../part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md).
-
 
 ### What can low capacity look like?
 
@@ -206,7 +193,6 @@ The reverse can also happen. Something you couldn't manage a few months ago may 
 
 Some symptoms and flares occur without any warning or identifiable reason.
 
-
 ### Noticing changes before things become difficult
 
 We can't prevent every symptom flare. Still, noticing your own patterns may help.
@@ -223,7 +209,6 @@ The goal is to find a practical adjustment.
 
 It isn't to prove that you can prevent every symptom.
 
-
 ### A quick capacity check
 
 You don't need to give yourself a score or count your spoons.
@@ -232,22 +217,21 @@ Instead, you might ask yourself three questions:
 
 1. **How am I doing right now?**
 
-Does your capacity feel fairly normal for you, somewhat limited or very low?
+   Does your capacity feel fairly normal for you, somewhat limited or very low?
 
 2. **What is making things more difficult?**
 
-Think about what your body is doing. Then notice how well you can concentrate. Pay attention to the space around you, including noise and light. Your symptoms and other demands may matter too.
+   Think about what your body is doing. Then notice how well you can concentrate. Pay attention to the space around you, including noise and light. Your symptoms and other demands may matter too.
 
-You may not be able to identify anything, and that's okay.
+   You may not be able to identify anything, and that's okay.
 
 3. **Is there one thing I could change?**
 
-Perhaps sitting down would help. You might use an aid or reduce background noise. An appointment could be moved. Or you could ask someone for help.
+   Perhaps sitting down would help. You might use an aid or reduce background noise. An appointment could be moved. Or you could ask someone for help.
 
-Sometimes the answer is that nothing practical can be changed immediately.
+   Sometimes the answer is that nothing practical can be changed immediately.
 
 This check is meant to help you make decisions. It is not another task you have to do perfectly.
-
 
 ### When capacity becomes very low
 
@@ -261,13 +245,11 @@ Don't assume that new or very different symptoms are caused by low capacity or F
 
 Our [Medical Safety and New Symptoms](../../part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md) module explores these situations in greater detail.
 
-
 ### Questions to reflect on
 
 When your available capacity starts to drop, what changes do you notice first?
 
 Is there something you already do that helps make the situation more manageable?
-
 
 ### One small step
 
@@ -289,14 +271,12 @@ And if a flare happens despite your plan, that doesn't mean the plan was worthle
 
 Sometimes a plan can't stop a flare. It can still help keep you safer or make it easier to get help when you need it.
 
-
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ---
-
 
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
@@ -314,7 +294,6 @@ But an activity takes place within a much larger picture.
 Pain and fatigue may matter. So can attention and sensory demands. Other symptoms may matter too. The environment can make a difference. And earlier activities may still be affecting the person.
 
 And seeing someone complete an activity doesn't tell us what it cost them or how much recovery they'll need afterwards.
-
 
 ### Asking what would help
 
@@ -335,7 +314,6 @@ Someone who needs quiet today may welcome company tomorrow.
 And sometimes asking for quiet can unintentionally lead to isolation if friends and family begin staying away altogether.
 
 The aim is to respect the person's needs while keeping relationships and opportunities for connection available.
-
 
 ### Helping without taking control
 
@@ -361,7 +339,6 @@ Sometimes I made a choice that left me with fewer spoons later. That affected me
 
 We had to find a balance. The reminders needed to be helpful. My choices still needed to be mine. Getting there took communication and understanding.
 
-
 ### What supporters can do when capacity is low
 
 When the person begins having more difficulty, focus on practical support.
@@ -380,7 +357,6 @@ The person may reasonably choose to spend some of their available capacity on re
 
 Learn the person's safety plan before a severe event. If symptoms worsen, help reduce immediate risks and follow the agreed plan rather than debating why the symptoms occurred.
 
-
 ### Working together
 
 Good support is not about making every decision for someone with FND.
@@ -395,7 +371,6 @@ And sometimes it means giving the person space while making sure they know you a
 
 For further reading, see [Unpredictability, Overload, and Trusting Your Body](../../../reference/biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md) and [Emotional Regulation, Irritability, and Overwhelm](../../../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md).
 
-
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -403,10 +378,8 @@ For further reading, see [Unpredictability, Overload, and Trusting Your Body](..
 [Research and Sources](#research-and-sources)
 ---
 
-
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
-
 
 ### Understanding available capacity
 
@@ -417,7 +390,6 @@ It is not an established physiological quantity, autonomic measurement or valida
 Understanding available capacity helps clinicians interpret changes in function more accurately and plan care that a patient can use. It can support more productive discussions about treatment, participation, recovery, safety and access needs.
 
 Performance during an examination provides valuable information about what the patient can do in that setting and at that time. Understanding available capacity adds context by considering whether the activity can be repeated and sustained in everyday life.
-
 
 ### Why this matters in clinical care
 
@@ -431,11 +403,9 @@ Another patient may need treatment for a coexisting sleep disorder or migraine b
 
 The concept is most useful when it helps clinicians understand the patient's individual circumstances and identify workable supports. Reduced capacity may shape the patient's experience and care needs, but it should not be assumed to have caused the FND symptoms.
 
-
 ### Important clinical distinctions
 
 Several related concepts should not be treated as interchangeable.
-
 
 | Concept | Important distinction |
 |---|---|
@@ -447,7 +417,6 @@ Several related concepts should not be treated as interchangeable.
 | **Autonomic activity** | Physiological regulation involving sympathetic and parasympathetic influences, among others. These cannot be reduced to a single capacity or spoon score. |
 
 These distinctions matter when clinicians are deciding whether a patient's presentation reflects FND, a coexisting disorder, treatment-related effects or several contributors.
-
 
 ### Spoon Theory, pacing and autonomic explanations
 
@@ -462,7 +431,6 @@ Similarly, sympathetic and parasympathetic nervous-system activity cannot accura
 Autonomic research in FND has reported heterogeneous group-level findings, but these do not currently provide a reliable individual measure of available capacity. [5](#citation-5), [6](#citation-6)
 
 When patients report delayed or prolonged worsening after exertion, it is important to assess the pattern and consider appropriate differential diagnoses rather than assuming one mechanism.
-
 
 ### Making a useful plan with the patient
 
@@ -484,7 +452,6 @@ Where appropriate, a plan can address the timing and size of tasks. It may inclu
 
 Activity progression should be individualized rather than assuming that every patient can tolerate fixed increases.
 
-
 ### Supporting patients when capacity remains low
 
 Some patients may continue to experience severe limitations despite rehabilitation or appropriate activity management. Continued care can still support comfort, safety, accessibility and meaningful participation.
@@ -495,14 +462,7 @@ A successful plan may focus on reducing unnecessary demands. It may involve modi
 
 The patient's goals, individual response and other medical needs should guide care—not an assumed capacity target.
 
-
 ---
-[For the Person With FND](#for-the-person-with-fnd)<br>
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
-[Research and Sources](#research-and-sources)
----
-
 
 ## Further Reading in the Reference Library
 
@@ -512,14 +472,12 @@ The patient's goals, individual response and other medical needs should guide ca
 
 [Module 15: Pacing, Activity, and the Boom-and-Bust Cycle](../../part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md) — A fuller discussion of activity planning and responses to changing capacity.
 
-
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ---
-
 
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -536,7 +494,6 @@ The patient's goals, individual response and other medical needs should guide ca
 
 ## Research and Sources
 {: #research-and-sources .shareable }
-
 
 ### What the evidence tells us
 
