@@ -4,7 +4,9 @@
 
 # Remission, Recovery, and What Improvement Can Mean
 
-> **Working draft:** This page contains human-authored and AI-assisted material and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
+> **Working draft:** This page contains human authored and AI-assisted material and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
+
+This lesson explains remission, recovery and meaningful improvement in FND, including why getting better does not always mean that every symptom disappears.
 
 One of the big questions after an FND diagnosis, perhaps once the initial shock has faded, is:
 
@@ -14,9 +16,7 @@ It's an important question, and the answer is not always simple.
 
 You may hear words such as *cure*, *remission*, *recovery* and *improvement*. Sometimes people use these words to mean the same thing, but they can describe very different experiences.
 
-This lesson explains how we use these terms throughout the course and why getting better does not always mean that every symptom disappears.
-
-We'll explore treatments, rehabilitation and long-term management in greater detail later.
+We'll explore treatments, [rehabilitation](../../../glossary/README.md#rehabilitation) and long-term management in greater detail later.
 
 > **A principle throughout this course:** FND symptoms may return or worsen regardless of what a person knows, tries or has achieved. The severity of someone's symptoms must never be used to judge their effort, acceptance of the diagnosis or personal progress.
 
@@ -53,7 +53,7 @@ Some people experience remission lasting months or years. Others have shorter pe
 
 Remission can feel like being cured, but symptoms can return.
 
-Studies can describe how long remission has lasted across groups of people, but they cannot tell one person how long their own remission will last. (*citations* [1](#citation-1), [5](#citation-5), [6](#citation-6))
+Studies describe outcomes across groups of people, using different definitions and follow-up periods. They cannot tell one person whether, or for how long, their symptoms will remit. (*citations* [1](#citation-1), [5](#citation-5), [6](#citation-6))
 
 ### What does recovery mean?
 
@@ -61,7 +61,7 @@ Recovery does not mean the same thing for everyone. It can mean having fewer sym
 
 Consider someone who still experiences functional seizures but now has better support at home, feels safer participating in activities and can spend more time with family.
 
-Their seizures may not have disappeared, but important parts of their life have improved.
+Their seizures may not have disappeared, but important parts of their life have improved. Research on patient priorities supports looking beyond symptom counts when assessing improvement. (*citation* [3](#citation-3))
 
 **Recovery does not have to mean that every symptom has disappeared.**
 
@@ -77,11 +77,11 @@ For instance, I might say:
 
 > "After a functional seizure, I need a few days to recover."
 
+— *Lived experience*
+
 Here, recovery means getting back to your usual level after an episode. It does not mean that the FND itself has gone away.
 
-Some people may need only a short time after a functional seizure or flare. Others may need hours or days, sometimes longer.
-
-During that time, they might experience fatigue, difficulty concentrating, pain or other symptoms.
+This personal example does not set a recovery timetable for anyone else. The time and support someone needs after an episode can differ.
 
 In this context, recovery means becoming more stable again, rather than permanently overcoming the disorder.
 
@@ -187,9 +187,9 @@ Helping someone maintain these aspects of life can make a meaningful difference.
 
 This might involve making the home more accessible, helping with transportation, arranging assistance or finding suitable mobility equipment.
 
-There was a time when some approaches to FND rehabilitation discouraged mobility aids because of concerns that they might reinforce particular movement patterns.
+Physiotherapy and occupational therapy consensus guidance both caution that aids can sometimes interfere with movement rehabilitation or cause secondary problems. Both also recognize a role for equipment when disability persists.
 
-Contemporary occupational therapy guidance takes a more individualized approach. A mobility aid may be appropriate when it improves safety, independence or access to everyday activities, while rehabilitation needs and goals are considered. (*citations* [2](#citation-2), [4](#citation-4))
+The occupational therapy guidance recommends assessing each situation individually. Equipment may be needed for safety, and aids or adaptations can support independence and community access when disability continues after rehabilitation. Decisions should consider the person's needs, goals and safe use of the equipment. (*citations* [2](#citation-2), [4](#citation-4))
 
 **Making life safer and more accessible is worthwhile whether or not symptoms improve.**
 
@@ -197,7 +197,7 @@ Someone should not have to demonstrate that an accommodation will reduce their F
 
 ### When symptoms return
 
-If the person experiences a flare or relapse, it can be disappointing for everyone involved.
+If the person experiences a flare or [relapse](../../../glossary/README.md#relapse--setback), it can be disappointing for everyone involved.
 
 You may wonder whether something went wrong or whether the progress you saw has been lost.
 
@@ -241,7 +241,7 @@ For further reading, our [Recovery Pressure, Self-Blame, and Feeling Like You Ar
 
 Clinicians play an important role in shaping how patients understand their prognosis and what improvement might look like.
 
-A useful starting point is to distinguish several outcomes that are related but not interchangeable.
+A useful starting point is to distinguish several outcomes that are related but not interchangeable. The table describes how this course uses the terms; studies may define or measure them differently.
 
 | Outcome | Meaning |
 |---|---|
@@ -253,7 +253,7 @@ A useful starting point is to distinguish several outcomes that are related but 
 
 These outcomes overlap, but progress in one area does not guarantee progress in another.
 
-For example, a patient may experience fewer functional seizures without a meaningful improvement in community participation.
+For example, a patient may experience fewer functional seizures without a meaningful improvement in community participation. (*citation* [5](#citation-5))
 
 Another patient may continue to experience frequent symptoms while gaining substantial independence through equipment, rehabilitation or practical support.
 
@@ -267,7 +267,9 @@ Studies of functional motor symptoms have reported widely differing outcomes. Mo
 
 Group-level associations, however, cannot predict an individual's future with certainty.
 
-A patient may have experienced substantial disability for many years and still benefit from treatment, rehabilitation, accommodations or other support.
+Longer symptom duration was associated with smaller average gains in some motor and physical quality-of-life outcomes in the treatment review, but meaningful improvement remained possible. Duration alone should not be used to rule out treatment. (*citation* [6](#citation-6))
+
+A patient may have experienced substantial disability for many years and still benefit from treatment, rehabilitation, accommodations or other support. (*citations* [2](#citation-2), [6](#citation-6))
 
 A useful explanation might be:
 
@@ -320,7 +322,7 @@ This does not establish that they have failed to participate, misunderstood thei
 
 Continued care may still address symptom relief, safety, accessibility, communication, participation, mental health, quality of life and caregiver needs.
 
-Clinicians should also remain attentive to new or substantially changed symptoms rather than assuming they are necessarily another manifestation of FND.
+Clinicians should also remain attentive to new or substantially changed symptoms rather than assuming they are necessarily another manifestation of FND. (*citation* [7](#citation-7))
 
 The [Recovery Techniques collection](../../../reference/recovery-techniques/README.md) organizes approaches by symptom, including supporting evidence and important limitations.
 
@@ -331,12 +333,6 @@ These resources can help identify possible options for discussion. They cannot d
 A clinician's role includes helping patients understand their options, defining meaningful goals together, communicating uncertainty and continuing to provide appropriate care when symptoms remain.
 
 ---
-
-### Further Reading in the Reference Library
-
-[Recovery Pressure, Self-Blame, and Feeling Like You Are Failing](../../../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md) — Understanding recovery expectations, treatment non-response, relapse and why symptom severity is not a measure of personal progress.
-
-[Recovery Techniques](../../../reference/recovery-techniques/README.md) — Evidence, limitations and practical approaches organized by functional symptom.
 
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -360,20 +356,34 @@ Studies of different FND symptom groups may report different outcomes. Research 
 
 ### Three focused research quotations
 
-- "Reported symptom outcome was highly variable." — Gelauff et al., 2014. [1](#citation-1)
-- "recovery often follows a pattern of symptom remission and exacerbation." — Nicholson et al., 2020. [2](#citation-2)
-- "all believed that the patient's subjective experience should be central." — Rutten et al., 2025. [3](#citation-3)
+Gelauff and colleagues reviewed outcomes in functional motor symptoms. The studies differed in their populations, follow-up and methods; this is not a prediction for an individual or every FND presentation.
 
-These brief quotations highlight recurring themes in the research: outcomes vary, symptoms may remit and return, and patients' own experiences matter when outcomes are assessed. The full studies provide the context needed to interpret each statement.
+> "Reported symptom outcome was highly variable."
+
+*Figure 1.* Gelauff et al., 2014, abstract, Results. [1](#citation-1)
+
+Nicholson and colleagues discuss flexible goal setting in occupational therapy. This is consensus guidance about a possible course of symptoms, not a measured rate or duration of remission.
+
+> "recovery often follows a pattern of symptom remission and exacerbation."
+
+*Figure 2.* Nicholson et al., 2020, supplementary long version, p. 3, goal-setting discussion. [2](#citation-2)
+
+Rutten and colleagues interviewed patients, caregivers and healthcare professionals about outcome measurement. Here, "all" refers to the participants in that qualitative study, not everyone with FND.
+
+> "all believed that the patient's subjective experience should be central."
+
+*Figure 3.* Rutten et al., 2025, abstract, Results. [3](#citation-3)
 
 ### Citation table
 
-| Citation | Source |
-|---|---|
-| <a id="citation-1"></a>**[1]** | Gelauff J, Stone J, Edwards M, Carson A. The prognosis of functional (psychogenic) motor symptoms: a systematic review. *Journal of Neurology, Neurosurgery & Psychiatry*. 2014;85(2):220–226. [FND-CIT-0007](../../../research/citation-index.md#fnd-cit-0007). [DOI](https://doi.org/10.1136/jnnp-2013-305321). |
-| <a id="citation-2"></a>**[2]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [DOI](https://doi.org/10.1136/jnnp-2019-322281). |
-| <a id="citation-3"></a>**[3]** | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../../research/citation-index.md#fnd-cit-0012). [DOI](https://doi.org/10.1007/s00415-025-12912-9). |
-| <a id="citation-4"></a>**[4]** | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [DOI](https://doi.org/10.1136/jnnp-2014-309255). |
-| <a id="citation-5"></a>**[5]** | Sekine ER, Kanaan RA, McMillan J, Oxford S, Iles RA. Biopsychosocial prognostic indicators in Functional Neurological Disorder: a systematic review. *Journal of Psychosomatic Research*. 2025;195:112201. [FND-CIT-0017](../../../research/citation-index.md#fnd-cit-0017). [DOI](https://doi.org/10.1016/j.jpsychores.2025.112201). |
-| <a id="citation-6"></a>**[6]** | Thomas ST, Thomas ET, Schembri E, Lehn AC, Palmer DDG. Treatment outcomes in functional neurological disorder: a systematic review and meta-analysis exploring the influence of symptom chronicity. *BMJ Neurology Open*. 2025;7. [FND-CIT-0051](../../../research/citation-index.md#fnd-cit-0051). [DOI](https://doi.org/10.1136/bmjno-2025-001150). |
-| <a id="citation-7"></a>**[7]** | Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4). [FND-CIT-0013](../../../research/citation-index.md#fnd-cit-0013). [DOI](https://doi.org/10.1016/j.neurot.2025.e00612). |
+| Citation | Source | Figure | Supports / limits |
+|---|---|---|---|
+| <a id="citation-1"></a>**[1]** | Gelauff J, Stone J, Edwards M, Carson A. The prognosis of functional (psychogenic) motor symptoms: a systematic review. *Journal of Neurology, Neurosurgery & Psychiatry*. 2014;85(2):220–226. [FND-CIT-0007](../../../research/citation-index.md#fnd-cit-0007). [DOI](https://doi.org/10.1136/jnnp-2013-305321). | Figure 1 | Systematic review of motor-symptom prognosis; variable group outcomes, not individual predictions. |
+| <a id="citation-2"></a>**[2]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [DOI](https://doi.org/10.1136/jnnp-2019-322281). | Figure 2 | Occupational therapy consensus: flexible goals, equipment and continuing support. Quote from the [supplementary long version](https://neurosymptoms.org/wp-content/uploads/2020/12/jnnp-2019-322281-inline-supplementary-material-1.pdf), p. 3; equipment discussion p. 5. |
+| <a id="citation-3"></a>**[3]** | Rutten S, Bradley-Westguard A, Nicholson TR, Pick S. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../../research/citation-index.md#fnd-cit-0012). [DOI](https://doi.org/10.1007/s00415-025-12912-9). | Figure 3 | Qualitative stakeholder views on meaningful outcomes; not treatment efficacy. |
+| <a id="citation-4"></a>**[4]** | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [DOI](https://doi.org/10.1136/jnnp-2014-309255). | — | Physiotherapy consensus on movement rehabilitation and individualized equipment decisions. |
+| <a id="citation-5"></a>**[5]** | Sekine ER, Kanaan RA, McMillan J, Oxford S, Iles RA. Biopsychosocial prognostic indicators in Functional Neurological Disorder: a systematic review. *Journal of Psychosomatic Research*. 2025;195:112201. [FND-CIT-0017](../../../research/citation-index.md#fnd-cit-0017). [DOI](https://doi.org/10.1016/j.jpsychores.2025.112201). | — | Systematic review of prognostic associations; seizure-frequency change and participation are distinct outcomes. |
+| <a id="citation-6"></a>**[6]** | Thomas ST, Thomas ET, Schembri E, Lehn AC, Palmer DDG. Treatment outcomes in functional neurological disorder: a systematic review and meta-analysis exploring the influence of symptom chronicity. *BMJ Neurology Open*. 2025;7(2):e001150. [FND-CIT-0051](../../../research/citation-index.md#fnd-cit-0051). [DOI](https://doi.org/10.1136/bmjno-2025-001150). | — | Treatment review and meta-analysis: chronicity and average treatment outcomes; not a personal prognosis. |
+| <a id="citation-7"></a>**[7]** | Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4):e00612. [FND-CIT-0013](../../../research/citation-index.md#fnd-cit-0013). [DOI](https://doi.org/10.1016/j.neurot.2025.e00612). | — | Practical clinical review: coexisting conditions and reassessment of new symptoms. |
+
+*First-pass editorial and source review: 13 October 2026. Working draft; further clinical and community review is welcome.*
