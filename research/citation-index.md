@@ -788,6 +788,8 @@ Use this review for heterogeneous group-level autonomic findings in FND and its 
 
 **Additional current use — co-occurring conditions:** [Autonomic Symptoms Alongside FND](../reference/co-occurring-conditions/08-autonomic-symptoms.md).
 
+**Source follow-up (13 October 2026):** A [2023 correction](https://doi.org/10.1176/appi.neuropsych.21010025correction) is indexed in *J Neuropsychiatry Clin Neurosci*. 35(3):315 ([PubMed](https://pubmed.ncbi.nlm.nih.gov/37448310/)). Its full text was not accessible in this review. Check the correction before adding quantitative findings; its effect has not been determined. The course uses only the review's broad, non-quantitative distinction between group findings and individual capacity.
+
 ## FND-CIT-0065
 
 Jason LA, Muldowney K, Torres-Harding S. The Energy Envelope Theory and myalgic encephalomyelitis/chronic fatigue syndrome. *AAOHN Journal*. 2008;56(5):189–195. [https://doi.org/10.3928/08910162-20080501-06](https://doi.org/10.3928/08910162-20080501-06)

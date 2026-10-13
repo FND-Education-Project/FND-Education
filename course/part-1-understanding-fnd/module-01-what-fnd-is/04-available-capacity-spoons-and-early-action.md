@@ -4,7 +4,7 @@
 
 # Available Capacity, Spoons, and Early Action
 
-> **Working draft:** This page contains human-authored and AI-assisted material and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
+> **Working draft:** This page contains human authored and AI-assisted material and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
 
 Have you ever noticed that something you could manage yesterday feels almost impossible today?
 
@@ -12,11 +12,18 @@ Perhaps you can have a conversation for twenty minutes on one day, but on anothe
 
 FND symptoms and the demands of daily life can affect what we are able to do at different times.
 
-In this lesson, we'll explore a way of describing those changing abilities called available capacity.
+In this lesson, we'll explore a way of describing those changing abilities called [available capacity](../../../glossary/README.md#available-capacity).
 
 We'll also introduce Spoon Theory, look at some signs that capacity may be getting low, and consider small changes that might make everyday life more manageable.
 
 > **Available capacity is what you can use right now—not what you should be able to do, and not a measure of effort or worth.**
+
+---
+
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
 
 ---
 
@@ -57,7 +64,7 @@ In 2003, Christine Miserandino introduced Spoon Theory while explaining what it 
 
 She used a limited number of spoons to represent the capacity needed to complete ordinary activities. Each activity used some of those spoons.
 
-The idea became popular in chronic illness and disability communities. It gave people a simple way to explain limits that others may not be able to see. (*citation [1](#citation-1*))
+The idea became popular in chronic illness and disability communities. It gave people a simple way to explain limits that others may not be able to see. (*citation* [1](#citation-1))
 
 For example, someone might say:
 
@@ -99,6 +106,8 @@ Here's one example from my experience:
 
 > "I can usually talk to someone for fifteen or twenty minutes before I get too tired. But if two people talk over each other, or more than one conversation is happening, I might not last thirty seconds!"
 
+— *Lived experience*
+
 The conversation may not take more physical effort. But my brain now has more information to deal with.
 
 This is why available capacity can be more useful than simply saying someone is tired.
@@ -111,9 +120,11 @@ Getting dressed, showering, preparing food and even eating may use capacity that
 
 > "I learned that I only had enough capacity to do a certain amount of tasks in a day and those tasks had to include getting dressed, showering and even eating. All of these things lowered how much available capacity I had left."
 
+— *Lived experience*
+
 For some people, functional seizures or other episodes can also cause exhaustion or more symptoms.
 
-Recovery can take hours or days, sometimes longer.
+The time and support needed afterward can vary.
 
 Sometimes you don't feel the full effects of a task until later.
 
@@ -129,7 +140,7 @@ You won't always be able to predict the answer, but thinking ahead may help you 
 
 Sometimes.
 
-Rest or sleep may help you get some capacity back. Treatment may help too. Sometimes a quieter place or practical help makes a difference. At other times, switching activities may help.
+Rest or sleep may help you get some capacity back. Treatment may help too. Sometimes a quieter place or practical help makes a difference. At other times, switching activities may help. (*citation* [2](#citation-2))
 
 But this isn't always predictable.
 
@@ -151,15 +162,15 @@ Spoon Theory is a way of communicating that our capacity feels limited and can c
 
 Load and recovery is a way of thinking about the demands placed on us, including what an activity costs and what recovery might involve.
 
-Pacing means changing what you do, when you do it or when you take breaks so daily life is easier to manage. Some types of pacing also look at symptoms that get worse later.
+[Pacing](../../../glossary/README.md#pacing) means changing what you do, when you do it or when you take breaks so daily life is easier to manage. Some types of pacing also look at symptoms that get worse later. (*citation* [2](#citation-2))
 
-The autonomic nervous system helps regulate automatic functions such as heart rate and digestion. Researchers are studying how changes in these functions may relate to FND symptoms.
+The autonomic nervous system helps regulate automatic functions such as heart rate and digestion. Researchers are studying how changes in these functions may relate to FND symptoms. (*citation* [6](#citation-6))
 
 These ideas can be helpful, but they do not explain every FND symptom.
 
-For example, counting spoons can't tell us whether one part of our automatic nervous system is more active than another.
+For example, counting spoons can't tell us whether one part of our autonomic nervous system is more active than another. (*citations* [5](#citation-5), [6](#citation-6))
 
-The Energy Envelope Theory was created for a different condition called ME/CFS. That doesn't mean the same research findings apply to FND. (*citations [3](#citation-3*), [4](#citation-4), [5](#citation-5), [6](#citation-6))
+The Energy Envelope Theory was created for a different condition called ME/CFS. That doesn't mean the same research findings apply to FND. (*citations* [3](#citation-3), [4](#citation-4))
 
 We'll explore pacing and activity management more fully in [Module 15: Pacing, Activity, and the Boom-and-Bust Cycle](../../part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md).
 
@@ -263,6 +274,8 @@ Try completing these three sentences:
 
 - **My safety limit:** "If this happens, I need to stop or get help..."
 
+If you have no reliable early sign, you can say so. Your plan can focus on what helps when symptoms occur.
+
 You don't have to write the answers down if that is difficult.
 
 You can think about the questions on your own. You could talk them through with someone you trust. Or you could ask a supporter to help you remember.
@@ -272,10 +285,12 @@ And if a flare happens despite your plan, that doesn't mean the plan was worthle
 Sometimes a plan can't stop a flare. It can still help keep you safer or make it easier to get help when you need it.
 
 ---
+
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ---
 
 ## For Family, Friends, and Other Supporters
@@ -322,6 +337,8 @@ One piece of advice often given to supporters is not to "police someone's spoons
 For example, don't say, “You used all your energy shopping, so you shouldn't go out tonight.” Let the person decide what matters to them and how they want to use their capacity.
 
 But there's an important distinction between controlling someone's activities and helping them notice something they might otherwise miss.
+
+*The following is my lived experience.*
 
 I learned this through my own experience.
 
@@ -372,10 +389,12 @@ And sometimes it means giving the person space while making sure they know you a
 For further reading, see [Unpredictability, Overload, and Trusting Your Body](../../../reference/biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md) and [Emotional Regulation, Irritability, and Overwhelm](../../../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md).
 
 ---
+
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ---
 
 ## For Clinicians and the Care Team
@@ -389,7 +408,9 @@ It is not an established physiological quantity, autonomic measurement or valida
 
 Understanding available capacity helps clinicians interpret changes in function more accurately and plan care that a patient can use. It can support more productive discussions about treatment, participation, recovery, safety and access needs.
 
-Performance during an examination provides valuable information about what the patient can do in that setting and at that time. Understanding available capacity adds context by considering whether the activity can be repeated and sustained in everyday life.
+Performance during an examination provides valuable information about what the patient can do in that setting and at that time. Understanding available capacity adds context by considering whether the activity can be repeated and sustained in everyday life. (*citation* [2](#citation-2))
+
+For more on this distinction, see [Assessment and Everyday Function](../../../reference/diagnostic-concepts/10-assessment-and-everyday-function.md).
 
 ### Why this matters in clinical care
 
@@ -413,22 +434,22 @@ Several related concepts should not be treated as interchangeable.
 | **Fatigue** | The experience of tiredness or exhaustion, which may be physical, cognitive or otherwise. |
 | **Fatigability** | A decline in performance or ability during sustained or repeated effort. |
 | **Delayed symptom worsening** | Symptoms become worse after an activity, sometimes following a delay. The timing and pattern require individual assessment. |
-| **Post-exertional malaise (PEM)** | A more specific pattern of symptom exacerbation associated with conditions such as ME/CFS. FND fatigue alone does not establish PEM or ME/CFS. |
+| **[Post-exertional malaise (PEM)](../../../glossary/README.md#post-exertional-malaise-pem)** | A more specific pattern of symptom exacerbation associated with conditions such as ME/CFS. FND fatigue alone does not establish PEM or ME/CFS. |
 | **Autonomic activity** | Physiological regulation involving sympathetic and parasympathetic influences, among others. These cannot be reduced to a single capacity or spoon score. |
 
-These distinctions matter when clinicians are deciding whether a patient's presentation reflects FND, a coexisting disorder, treatment-related effects or several contributors.
+These distinctions matter when clinicians are deciding whether a patient's presentation reflects FND, a coexisting disorder, treatment-related effects or several contributors. For assessment and supporting sources, see [Fatigue and Post-Activity Worsening](../../../reference/co-occurring-conditions/06-fatigue.md#for-clinicians-and-the-care-team).
 
 ### Spoon Theory, pacing and autonomic explanations
 
-Spoon Theory is a communication metaphor. It does not identify the neurological mechanisms of FND. [1](#citation-1)
+Spoon Theory is a communication metaphor. It does not identify the neurological mechanisms of FND. (*citations* [1](#citation-1))
 
-The FND occupational-therapy consensus discusses individualized activity planning, fatigue and pain management, pacing, diaries and relapse planning. These recommendations can inform clinical practice but are not evidence that a single pacing formula prevents functional symptoms. [2](#citation-2)
+The FND occupational-therapy consensus discusses individualized activity planning, fatigue and pain management, pacing, diaries and relapse planning. These recommendations can inform clinical practice but are not evidence that a single pacing formula prevents functional symptoms. (*citations* [2](#citation-2))
 
-Energy Envelope Theory was developed in the context of ME/CFS. Evidence from that condition may be relevant to specific clinical questions, but it should not be treated as validation of the theory for FND. [3](#citation-3), [4](#citation-4)
+Energy Envelope Theory was developed in the context of ME/CFS. Evidence from that condition may be relevant to specific clinical questions, but it should not be treated as validation of the theory for FND. (*citations* [3](#citation-3), [4](#citation-4))
 
 Similarly, sympathetic and parasympathetic nervous-system activity cannot accurately be represented as opposite ends of one simple scale.
 
-Autonomic research in FND has reported heterogeneous group-level findings, but these do not currently provide a reliable individual measure of available capacity. [5](#citation-5), [6](#citation-6)
+Autonomic research in FND has reported heterogeneous group-level findings, but the cited review does not establish a reliable individual measure of available capacity. (*citations* [5](#citation-5), [6](#citation-6))
 
 When patients report delayed or prolonged worsening after exertion, it is important to assess the pattern and consider appropriate differential diagnoses rather than assuming one mechanism.
 
@@ -450,7 +471,7 @@ It might identify:
 
 Where appropriate, a plan can address the timing and size of tasks. It may include changes to posture, communication methods or sensory surroundings. Equipment and access to support can also be considered.
 
-Activity progression should be individualized rather than assuming that every patient can tolerate fixed increases.
+Activity progression should be individualized rather than assuming that every patient can tolerate fixed increases. (*citation* [2](#citation-2))
 
 ### Supporting patients when capacity remains low
 
@@ -460,23 +481,8 @@ Persistent low capacity does not establish poor effort, inappropriate beliefs or
 
 A successful plan may focus on reducing unnecessary demands. It may involve modifying the environment or providing equipment. These changes can support safety, access and meaningful participation without requiring an immediate increase in activity.
 
-The patient's goals, individual response and other medical needs should guide care—not an assumed capacity target.
+The patient's goals, individual response and other medical needs should guide care—not an assumed capacity target. (*citation* [2](#citation-2))
 
----
-
-## Further Reading in the Reference Library
-
-[Emotional Regulation, Irritability, and Overwhelm](../../../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md) — How reduced capacity may interact with emotions, communication and boundaries.
-
-[Unpredictability, Overload, and Trusting Your Body](../../../reference/biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md) — Combined physical, sensory, cognitive and social demands, uncertainty and everyday planning.
-
-[Module 15: Pacing, Activity, and the Boom-and-Bust Cycle](../../part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md) — A fuller discussion of activity planning and responses to changing capacity.
-
----
-[For the Person With FND](#for-the-person-with-fnd)<br>
-[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
-[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
-[Research and Sources](#research-and-sources)
 ---
 
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -497,13 +503,13 @@ The patient's goals, individual response and other medical needs should guide ca
 
 ### What the evidence tells us
 
-Spoon Theory began as a lived-experience metaphor for chronic illness. It is not a physiological theory of FND. [1](#citation-1)
+Spoon Theory began as a lived-experience metaphor for chronic illness. It is not a physiological theory of FND. (*citations* [1](#citation-1))
 
-FND occupational therapy guidance supports individualized rehabilitation and practical management of symptoms, fatigue, activity and relapse. It does not establish that every flare is caused by exceeding available capacity. [2](#citation-2)
+FND occupational therapy guidance supports individualized rehabilitation and practical management of symptoms, fatigue, activity and relapse. It does not establish that every flare is caused by exceeding available capacity. (*citations* [2](#citation-2))
 
-Energy Envelope Theory was developed for ME/CFS. Evidence from that condition should not automatically be generalized to FND. [3](#citation-3), [4](#citation-4)
+Energy Envelope Theory was developed for ME/CFS. Evidence from that condition should not automatically be generalized to FND. (*citations* [3](#citation-3), [4](#citation-4))
 
-Autonomic physiology research describes more complex interactions than a simple sympathetic-versus-parasympathetic scale. Current FND studies do not establish an individual autonomic capacity meter. [5](#citation-5), [6](#citation-6)
+Autonomic physiology research describes more complex interactions than a simple sympathetic-versus-parasympathetic scale. The cited FND review does not establish an individual autonomic capacity meter. (*citations* [5](#citation-5), [6](#citation-6))
 
 The practical approaches on this page are intended to help people recognize possible patterns, communicate their needs and adapt daily activities.
 
@@ -511,11 +517,13 @@ They are not diagnostic tests, explanations for all functional symptoms or guara
 
 ### Citation table
 
-| Citation | Full citation |
-|---|---|
-| <a id="citation-1"></a>**[1]** | Miserandino C. The Spoon Theory. *But You Don’t Look Sick*. 2003. Accessed September 2, 2026. [FND-CIT-0062](../../../research/citation-index.md#fnd-cit-0062). [https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/](https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/) |
-| <a id="citation-2"></a>**[2]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-3"></a>**[3]** | Jason LA, Muldowney K, Torres-Harding S. The Energy Envelope Theory and myalgic encephalomyelitis/chronic fatigue syndrome. *AAOHN Journal*. 2008;56(5):189–195. [FND-CIT-0065](../../../research/citation-index.md#fnd-cit-0065). [https://doi.org/10.3928/08910162-20080501-06](https://doi.org/10.3928/08910162-20080501-06) |
-| <a id="citation-4"></a>**[4]** | Sanal-Hayes NEM, McLaughlin M, Hayes LD, et al. A scoping review of “pacing” for management of myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS): lessons learned for the long COVID pandemic. *Journal of Translational Medicine*. 2023;21:720. [FND-CIT-0066](../../../research/citation-index.md#fnd-cit-0066). [https://doi.org/10.1186/s12967-023-04587-5](https://doi.org/10.1186/s12967-023-04587-5) |
-| <a id="citation-5"></a>**[5]** | Berntson GG, Cacioppo JT, Quigley KS. Autonomic determinism: the modes of autonomic control, the doctrine of autonomic space, and the laws of autonomic constraint. *Psychological Review*. 1991;98(4):459–487. [FND-CIT-0063](../../../research/citation-index.md#fnd-cit-0063). [https://doi.org/10.1037/0033-295X.98.4.459](https://doi.org/10.1037/0033-295X.98.4.459) |
-| <a id="citation-6"></a>**[6]** | Paredes-Echeverri S, Maggio J, Bègue I, et al. Autonomic, endocrine, and inflammation profiles in functional neurological disorder: a systematic review and meta-analysis. *Journal of Neuropsychiatry and Clinical Neurosciences*. 2022;34(1):30–43. [FND-CIT-0064](../../../research/citation-index.md#fnd-cit-0064). [https://doi.org/10.1176/appi.neuropsych.21010025](https://doi.org/10.1176/appi.neuropsych.21010025) |
+| Citation | Full citation | Supports / limits |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | Miserandino C. The Spoon Theory. *But You Don’t Look Sick*. 2003. Accessed September 2, 2026. [FND-CIT-0062](../../../research/citation-index.md#fnd-cit-0062). [https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/](https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/) | Lived-experience metaphor originating in lupus; not a physiological measure or FND treatment study. |
+| <a id="citation-2"></a>**[2]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) | Expert consensus on assessment, fatigue management and individualized activity planning; not a guarantee against flares. |
+| <a id="citation-3"></a>**[3]** | Jason LA, Muldowney K, Torres-Harding S. The Energy Envelope Theory and myalgic encephalomyelitis/chronic fatigue syndrome. *AAOHN Journal*. 2008;56(5):189–195. [FND-CIT-0065](../../../research/citation-index.md#fnd-cit-0065). [https://doi.org/10.3928/08910162-20080501-06](https://doi.org/10.3928/08910162-20080501-06) | Energy-envelope model in ME/CFS; not validated for FND. |
+| <a id="citation-4"></a>**[4]** | Sanal-Hayes NEM, McLaughlin M, Hayes LD, et al. A scoping review of “pacing” for management of myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS): lessons learned for the long COVID pandemic. *Journal of Translational Medicine*. 2023;21:720. [FND-CIT-0066](../../../research/citation-index.md#fnd-cit-0066). [https://doi.org/10.1186/s12967-023-04587-5](https://doi.org/10.1186/s12967-023-04587-5) | ME/CFS pacing review with heterogeneous findings and limited study quality; no direct FND efficacy evidence. |
+| <a id="citation-5"></a>**[5]** | Berntson GG, Cacioppo JT, Quigley KS. Autonomic determinism: the modes of autonomic control, the doctrine of autonomic space, and the laws of autonomic constraint. *Psychological Review*. 1991;98(4):459–487. [FND-CIT-0063](../../../research/citation-index.md#fnd-cit-0063). [https://doi.org/10.1037/0033-295X.98.4.459](https://doi.org/10.1037/0033-295X.98.4.459) | Conceptual autonomic physiology; does not measure individual capacity. |
+| <a id="citation-6"></a>**[6]** | Paredes-Echeverri S, Maggio J, Bègue I, et al. Autonomic, endocrine, and inflammation profiles in functional neurological disorder: a systematic review and meta-analysis. *Journal of Neuropsychiatry and Clinical Neurosciences*. 2022;34(1):30–43. [FND-CIT-0064](../../../research/citation-index.md#fnd-cit-0064). [https://doi.org/10.1176/appi.neuropsych.21010025](https://doi.org/10.1176/appi.neuropsych.21010025) | Group-level FND review, with searches through September 2020; not an individual capacity measure. |
+
+*Evidence and editorial review: 13 October 2026. Working draft; clinical and community review welcome.*
