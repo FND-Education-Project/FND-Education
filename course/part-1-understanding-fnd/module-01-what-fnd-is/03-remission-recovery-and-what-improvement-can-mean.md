@@ -4,77 +4,339 @@
 
 # Remission, Recovery, and What Improvement Can Mean
 
-> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
+> **Working draft:** This page contains human-authored and AI-assisted material and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
 
-This is a short introduction. Later modules will discuss treatment, rehabilitation, setbacks and long-term management in much more detail. Here, we only need enough information to understand what people may mean when they talk about getting better.
+One of the big questions after an FND diagnosis, perhaps once the initial shock has faded, is:
+
+**"Can this go away?"**
+
+It's an important question, and the answer is not always simple.
+
+You may hear words such as *cure*, *remission*, *recovery* and *improvement*. Sometimes people use these words to mean the same thing, but they can describe very different experiences.
+
+This lesson explains how we use these terms throughout the course and why getting better does not always mean that every symptom disappears.
+
+We'll explore treatments, rehabilitation and long-term management in greater detail later.
+
+> **A principle throughout this course:** FND symptoms may return or worsen regardless of what a person knows, tries or has achieved. The severity of someone's symptoms must never be used to judge their effort, acceptance of the diagnosis or personal progress.
 
 ---
+
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ---
+
 ## For the Person With FND
 {: #for-the-person-with-fnd .shareable }
 
-**There is no cure for FND.** However, symptoms may improve greatly or enter remission, and people's everyday lives may become easier. The words **remission** and **recovery** are related, but they do not always mean the same thing. Researchers and clinics do not always use them in exactly the same way either.
+### Is there a cure for FND?
 
-In this course, **remission** means that symptoms have become much less active or have disappeared for a period of time. Complete remission means that the symptoms being discussed are absent. Partial remission means that they have improved but are still present. Remission is not automatically the same as a cure because symptoms can return.
+**There is no cure for FND.** By *cure*, we mean a treatment known to permanently remove the disorder so that it cannot return.
 
-**Recovery** is broader and more personal. For one person, recovery may mean that all functional symptoms have stopped. For someone else, it may mean fewer or shorter episodes, being able to walk or communicate more easily, returning to an important activity, becoming more independent, feeling safer, or having a better quality of life.
+However, many people do improve. Some experience months or years without symptoms, while others continue to have symptoms or need substantial support.
 
-> Recovery does not have to mean that every symptom has disappeared.
+Researchers are still learning why outcomes differ so much between individuals. (*citations* [1](#citation-1), [5](#citation-5), [6](#citation-6))
 
-FND does not follow one predictable path. Some people improve greatly, some have periods of remission followed by symptoms returning, and some continue to have serious disability. Research into functional motor symptoms has found widely different outcomes, so a group statistic cannot tell one person exactly what will happen to them. (*citations* [1](#citation-1), [2](#citation-2))
+### What is remission?
 
-A return of symptoms does not erase real progress. It may mean that the person is having a flare or relapse and needs to return to strategies that helped before, adjust the plan, or seek medical advice if the symptoms are new or substantially different.
+In this course, **remission** means that symptoms become much milder or go away for a while.
 
-### Questions
+We may hear two forms described:
 
-#### If one part of your health or daily life improved, which change would matter most to you?
+- **Complete remission:** The symptoms being discussed are no longer present.
+- **Partial remission:** The symptoms have improved considerably but remain present, or some symptoms have disappeared while others remain.
 
-#### What would recovery mean to you if some symptoms remained?
+Some people experience remission lasting months or years. Others have shorter periods of improvement. Some have not experienced remission.
 
-### What can the person safely try at home?
+Remission can feel like being cured, but symptoms can return.
 
-Choose one small sign of improvement that would matter in your life. It might be a symptom change, but it could also be recovering more quickly after an episode, preparing part of a meal, enjoying time with someone, asking for help more clearly, or doing an activity with less fear. Write down one sentence if that is useful. You do not need to track it every day.
+Studies can describe how long remission has lasted across groups of people, but they cannot tell one person how long their own remission will last. (*citations* [1](#citation-1), [5](#citation-5), [6](#citation-6))
+
+### What does recovery mean?
+
+Recovery does not mean the same thing for everyone. It can mean having fewer symptoms, being able to do more or finding safer and more comfortable ways to live with symptoms.
+
+Consider someone who still experiences functional seizures but now has better support at home, feels safer participating in activities and can spend more time with family.
+
+Their seizures may not have disappeared, but important parts of their life have improved.
+
+**Recovery does not have to mean that every symptom has disappeared.**
+
+![Four meaningful forms of improvement: fewer symptoms, safer days, more participation and better quality of life.](../../../assets/illustrations/module-1-page-3-meaningful-improvement.svg)
+
+*Illustration: Improvement can take several forms. Different people may value different outcomes.*
+
+### Recovery can also mean something smaller
+
+There's another way we use the word *recovery* in everyday life.
+
+For instance, I might say:
+
+> "After a functional seizure, I need a few days to recover."
+
+Here, recovery means getting back to your usual level after an episode. It does not mean that the FND itself has gone away.
+
+Some people may need only a short time after a functional seizure or flare. Others may need hours or days, sometimes longer.
+
+During that time, they might experience fatigue, difficulty concentrating, pain or other symptoms.
+
+In this context, recovery means becoming more stable again, rather than permanently overcoming the disorder.
+
+Recognizing this difference is important because **returning to your usual level after a difficult episode is not the same thing as entering remission.**
+
+### What happens if symptoms return?
+
+FND doesn't follow one predictable path.
+
+Some people improve over time. Some feel better for a while and then have symptoms again. Others have symptoms that change from one day to the next or continue to affect daily life in serious ways.
+
+Symptoms can come back even when you have worked hard and made progress. A flare does not erase what you have learned or mean that you have failed.
+
+For example, someone who has become more independent may still experience a severe flare. The knowledge, support, equipment and adaptations they've developed can remain valuable.
+
+A return of symptoms does not necessarily mean FND is progressing or that future improvement is impossible.
+
+Nor does it tell us whether the person has accepted the diagnosis, worked hard enough or followed their treatment plan. (*citations* [1](#citation-1), [2](#citation-2), [5](#citation-5))
+
+**Symptoms can change independently of the effort someone has made.**
+
+### What if my symptoms don't improve?
+
+Living with symptoms that do not improve can be discouraging.
+
+It may also mean that everyday life needs to be organized differently from what you once expected.
+
+You may need help, a mobility aid, changes at home, a different way to communicate or changes to your usual activities. These supports can make daily life safer and more comfortable. Using them does not mean that you have given up.
+
+Some people find that their most important improvements concern independence, relationships, participation or quality of life rather than symptom reduction.
+
+The goal is not to convince yourself that difficult symptoms don't matter.
+
+It's to recognize that **your wellbeing matters even when those symptoms remain.**
+
+### Questions to reflect on
+
+If one part of your health or everyday life could improve, which change would mean the most to you?
+
+What would recovery mean to you if some of your symptoms remained?
+
+### One small step
+
+Choose one sign of improvement that would make a meaningful difference to your life.
+
+It might be something related directly to your symptoms, such as shorter episodes or less pain.
+
+Or it could be something else:
+
+- Feeling safer during an everyday activity.
+- Preparing part of a meal.
+- Spending more time with someone you care about.
+- Becoming more comfortable asking for help.
+- Returning to your usual level more easily after an episode.
+
+If you wish, write down one sentence describing that improvement.
+
+You don't need to track it every day. It's simply a way to recognize something that matters to you.
+
+### Optional learning activity
+
+**Recovery Crossword**
+
+[Normal version](../../../assets/puzzles/crosswords/Recovery-crossword-09-2026.pdf) · [Easy version](../../../assets/puzzles/crosswords/Recovery-crossword-easy-09-2026.pdf) · [Answer key](../../../assets/puzzles/crosswords/Recovery-crossword-answer-key-09-2026.pdf)
 
 ---
+
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ---
-- [Module overview](README.md) — the shortest introduction and guide to the module.
-- [What “Functional” Means and How FND Can Appear](01-what-functional-means-and-how-fnd-can-appear.md) — terminology, symptom range, positive diagnosis, and the functional/structural distinction.
-- [The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md) — a plain-language explanation of the model, its uses, limits, and common misunderstandings.
-- **Remission, Recovery, and What Improvement Can Mean — current page**
 
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-Ask the person what recovery means to them. Their most important goal may not be the one that is most visible to you. Fewer symptoms may matter, but so may independence, comfort, safety, privacy, relationships, or being able to take part in something meaningful.
+Thank you for supporting someone through their experience with FND.
 
-It is possible to hope for improvement while also making life safer and more accessible now. Accepting the need for help, mobility equipment, rest, financial support, or a different way of doing things does not mean that anyone has given up.
+It's natural to hope that the person you care about will get better. You may also wonder what you can do to help.
 
-If symptoms return, try not to treat the relapse as proof that all progress has been lost. Help the person notice what they have learned, what still works, and whether anything about the episode is new enough to need medical assessment. Recovery may include becoming better prepared for difficult periods, not only preventing every symptom. (*citations* [2](#citation-2), [3](#citation-3))
+One of the most useful things you can do is **ask what recovery means to them.**
+
+Their priorities might be different from yours.
+
+### Recovery is personal
+
+For someone experiencing several functional symptoms, recovery might initially mean getting through the day safely.
+
+For another person, it could mean returning to work, walking independently or spending time with friends.
+
+Someone who has recently received a diagnosis may first need time to understand what's happening and adjust to the changes in their life.
+
+The person's priorities may change over time, too.
+
+Try to build goals together rather than deciding what their recovery should look like.
+
+### Support and independence
+
+Many people living with FND place considerable value on independence, comfort, safety and relationships.
+
+Helping someone maintain these aspects of life can make a meaningful difference.
+
+This might involve making the home more accessible, helping with transportation, arranging assistance or finding suitable mobility equipment.
+
+There was a time when some approaches to FND rehabilitation discouraged mobility aids because of concerns that they might reinforce particular movement patterns.
+
+Contemporary occupational therapy guidance takes a more individualized approach. A mobility aid may be appropriate when it improves safety, independence or access to everyday activities, while rehabilitation needs and goals are considered. (*citations* [2](#citation-2), [4](#citation-4))
+
+**Making life safer and more accessible is worthwhile whether or not symptoms improve.**
+
+Someone should not have to demonstrate that an accommodation will reduce their FND symptoms before receiving help with a genuine need.
+
+### When symptoms return
+
+If the person experiences a flare or relapse, it can be disappointing for everyone involved.
+
+You may wonder whether something went wrong or whether the progress you saw has been lost.
+
+However, symptoms returning does not mean that previous improvements were meaningless.
+
+The person may still have gained knowledge, skills, confidence or useful support.
+
+When symptoms return, focus first on what the person needs now rather than assuming that something went wrong or that earlier progress has been lost.
+
+Perhaps they need more rest, assistance, a quieter environment or medical advice about a new symptom.
+
+Try not to turn recovery into an expectation that every setback must be prevented.
+
+### Supporting hope without pressure
+
+Hope can be encouraging, but it can also become a source of pressure when someone feels expected to recover.
+
+Statements such as "You were doing so well!" may be intended kindly, yet someone experiencing a relapse might hear them as disappointment.
+
+You can acknowledge the difficulties of the present without assuming the future will always be the same.
+
+And you can recognize meaningful improvements without expecting those improvements to continue uninterrupted.
+
+**Supporting someone means caring about their wellbeing now, not only about who they might become if their symptoms improve.**
+
+For further reading, our [Recovery Pressure, Self-Blame, and Feeling Like You Are Failing](../../../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md) page explores the emotional effects of recovery expectations.
 
 ---
+
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ---
+
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-**How can clinicians help the patient understand remission and recovery?** Explain that remission, symptom improvement, functional improvement and quality of life are related but different outcomes. Be honest that the course of FND varies and avoid promising either complete recovery or permanent disability from group-level evidence alone. (*citations* [1](#citation-1), [2](#citation-2))
+### What does recovery mean for this patient?
 
-**How can clinicians assess what improvement means to this patient?** Ask which symptoms, activities, relationships and forms of independence matter most to the patient. Establish a personal starting point and include the patient’s experience alongside clinical observation. Research into FND outcomes supports looking beyond symptom counts alone. (*citations* [3](#citation-3))
+Clinicians play an important role in shaping how patients understand their prognosis and what improvement might look like.
 
-**How can clinicians help the patient work toward improvement?** Agree on a small number of realistic, patient-chosen goals and explain which later treatment or rehabilitation options may address them. Goals may need to change as symptoms, access to care, other illnesses or life circumstances change.
+A useful starting point is to distinguish several outcomes that are related but not interchangeable.
 
-**How can clinicians support the patient when improvement is limited or not yet possible?** Continued care may still address symptom relief, safety, accessibility, communication, participation, mental health, quality of life and supporter needs. Persistent symptoms should not be treated as proof of poor effort, and new or substantially changed symptoms should still receive appropriate medical assessment.
+| Outcome | Meaning |
+|---|---|
+| **Symptom remission** | Some or all of the symptoms being considered become absent or substantially less active for a period. |
+| **Symptom improvement** | Symptoms become less frequent, less severe or shorter in duration. |
+| **Functional improvement** | The patient can do more, participate more or become more independent, whether or not symptoms remain. |
+| **Personal recovery** | Improvement in aspects of life that matter to the patient, such as confidence, safety, relationships, identity, independence or quality of life. |
+| **Recovery after an episode** | Returning toward the patient's usual level after a functional seizure, flare or other temporary deterioration. |
+
+These outcomes overlap, but progress in one area does not guarantee progress in another.
+
+For example, a patient may experience fewer functional seizures without a meaningful improvement in community participation.
+
+Another patient may continue to experience frequent symptoms while gaining substantial independence through equipment, rehabilitation or practical support.
+
+Research into FND outcome measurement emphasizes including patients' own experiences alongside clinical observations and symptom measures. (*citation* [3](#citation-3))
+
+### Communicating prognosis
+
+Prognosis is an important part of the clinical conversation, but it needs to be handled carefully.
+
+Studies of functional motor symptoms have reported widely differing outcomes. More recent systematic reviews have also explored factors associated with prognosis and treatment response, including symptom duration. (*citations* [1](#citation-1), [5](#citation-5), [6](#citation-6))
+
+Group-level associations, however, cannot predict an individual's future with certainty.
+
+A patient may have experienced substantial disability for many years and still benefit from treatment, rehabilitation, accommodations or other support.
+
+A useful explanation might be:
+
+> Improvement is possible, but we cannot predict exactly how much, how quickly or how permanently you will improve. Some people experience long periods of remission. Others improve partly, have recurring symptoms or continue to need substantial support. We can discuss what improvement would mean for you and what options are available.
+
+This avoids two problematic extremes:
+
+- "You will recover if you accept the diagnosis and work hard enough."
+- "You have had FND for too long, so nothing can help."
+
+Neither statement is an appropriate individual prediction.
+
+### The effect of prognosis language
+
+How clinicians communicate prognosis can have lasting consequences for patients.
+
+For example, a psychologist reviewing my case on behalf of an insurer wrote:
+
+> "The longer conversion symptoms are present, the worse the prognosis."
+
+A later neuropsychiatric assessment also linked concerns about my prognosis to the duration of symptoms and a history of trauma.
+
+— *Lived experience*
+
+These experiences illustrate why careful language matters. The existence of a possible prognostic association does not justify treating an individual outcome as predetermined.
+
+Clinicians can discuss evidence about poorer average outcomes in some groups without turning statistical associations into fixed expectations for a particular patient.
+
+### Setting meaningful goals
+
+Clinical goals should reflect what matters to the patient, not only what is easiest to measure.
+
+This may include improvements in movement, seizure frequency, speech, pain or fatigue.
+
+But it can also include returning to valued activities, gaining independence, improving accessibility or reducing the disruption caused by an episode.
+
+Consider asking:
+
+**"What is the most important thing you would like to be able to do more comfortably, safely or independently?"**
+
+A small number of patient-chosen goals can help guide treatment and make progress easier to recognize.
+
+These goals may need to change as symptoms, life circumstances, health or access to care change.
+
+### Supporting recovery when improvement is limited
+
+Some patients will not experience substantial symptom improvement, despite receiving appropriate care.
+
+This does not establish that they have failed to participate, misunderstood their diagnosis or lacked motivation.
+
+Continued care may still address symptom relief, safety, accessibility, communication, participation, mental health, quality of life and caregiver needs.
+
+Clinicians should also remain attentive to new or substantially changed symptoms rather than assuming they are necessarily another manifestation of FND.
+
+The [Recovery Techniques collection](../../../reference/recovery-techniques/README.md) organizes approaches by symptom, including supporting evidence and important limitations.
+
+These resources can help identify possible options for discussion. They cannot determine which treatment will be most appropriate for an individual patient.
+
+**Recovery is not a single yes-or-no outcome.**
+
+A clinician's role includes helping patients understand their options, defining meaningful goals together, communicating uncertainty and continuing to provide appropriate care when symptoms remain.
+
+---
+
+### Further Reading in the Reference Library
+
+[Recovery Pressure, Self-Blame, and Feeling Like You Are Failing](../../../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md) — Understanding recovery expectations, treatment non-response, relapse and why symptom severity is not a measure of personal progress.
+
+[Recovery Techniques](../../../reference/recovery-techniques/README.md) — Evidence, limitations and practical approaches organized by functional symptom.
 
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -83,23 +345,35 @@ If symptoms return, try not to treat the relapse as proof that all progress has 
 
 ---
 
+<!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Available Capacity, Spoons, and Early Action](04-available-capacity-spoons-and-early-action.md)
+
+**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+<!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
 {: #research-and-sources .shareable }
 
-### Three focused quotations
+This lesson introduces current understandings of prognosis, remission, functional outcomes and patient-centred recovery.
 
-- “Reported symptom outcome was highly variable.” (*citations* [1](#citation-1))
-- “recovery often follows a pattern of symptom remission and exacerbation.” (*citations* [2](#citation-2))
-- “all believed that the patient’s subjective experience should be central.” (*citations* [3](#citation-3))
+Studies of different FND symptom groups may report different outcomes. Research findings should therefore be interpreted with attention to the people studied, the outcomes measured and the limits of individual prediction.
+
+### Three focused research quotations
+
+- "Reported symptom outcome was highly variable." — Gelauff et al., 2014. [1](#citation-1)
+- "recovery often follows a pattern of symptom remission and exacerbation." — Nicholson et al., 2020. [2](#citation-2)
+- "all believed that the patient's subjective experience should be central." — Rutten et al., 2025. [3](#citation-3)
+
+These brief quotations highlight recurring themes in the research: outcomes vary, symptoms may remit and return, and patients' own experiences matter when outcomes are assessed. The full studies provide the context needed to interpret each statement.
 
 ### Citation table
 
-| Citation | Figure | Full citation |
-|---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Gelauff J, Stone J, Edwards M, Carson A. The prognosis of functional (psychogenic) motor symptoms: a systematic review. *Journal of Neurology, Neurosurgery & Psychiatry*. 2014;85(2):220–226. [FND-CIT-0007](../../../research/citation-index.md#fnd-cit-0007). [https://doi.org/10.1136/jnnp-2013-305321](https://doi.org/10.1136/jnnp-2013-305321) |
-| <a id="citation-2"></a>**[2]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-3"></a>**[3]** | — | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
-
-This page is a brief introduction. Detailed discussion of rehabilitation, pacing, psychological treatment, setbacks and progress belongs in the later course modules.
+| Citation | Source |
+|---|---|
+| <a id="citation-1"></a>**[1]** | Gelauff J, Stone J, Edwards M, Carson A. The prognosis of functional (psychogenic) motor symptoms: a systematic review. *Journal of Neurology, Neurosurgery & Psychiatry*. 2014;85(2):220–226. [FND-CIT-0007](../../../research/citation-index.md#fnd-cit-0007). [DOI](https://doi.org/10.1136/jnnp-2013-305321). |
+| <a id="citation-2"></a>**[2]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [DOI](https://doi.org/10.1136/jnnp-2019-322281). |
+| <a id="citation-3"></a>**[3]** | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../../research/citation-index.md#fnd-cit-0012). [DOI](https://doi.org/10.1007/s00415-025-12912-9). |
+| <a id="citation-4"></a>**[4]** | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [DOI](https://doi.org/10.1136/jnnp-2014-309255). |
+| <a id="citation-5"></a>**[5]** | Sekine ER, Kanaan RA, McMillan J, Oxford S, Iles RA. Biopsychosocial prognostic indicators in Functional Neurological Disorder: a systematic review. *Journal of Psychosomatic Research*. 2025;195:112201. [FND-CIT-0017](../../../research/citation-index.md#fnd-cit-0017). [DOI](https://doi.org/10.1016/j.jpsychores.2025.112201). |
+| <a id="citation-6"></a>**[6]** | Thomas ST, Thomas ET, Schembri E, Lehn AC, Palmer DDG. Treatment outcomes in functional neurological disorder: a systematic review and meta-analysis exploring the influence of symptom chronicity. *BMJ Neurology Open*. 2025;7. [FND-CIT-0051](../../../research/citation-index.md#fnd-cit-0051). [DOI](https://doi.org/10.1136/bmjno-2025-001150). |
+| <a id="citation-7"></a>**[7]** | Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4). [FND-CIT-0013](../../../research/citation-index.md#fnd-cit-0013). [DOI](https://doi.org/10.1016/j.neurot.2025.e00612). |
