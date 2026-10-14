@@ -27,6 +27,29 @@ A short starting point for understanding what FND is, what **functional** means,
 
 > **Inside each page:** [Person with FND](01-what-functional-means-and-how-fnd-can-appear.md#for-the-person-with-fnd) · [Supporters](01-what-functional-means-and-how-fnd-can-appear.md#for-family-friends-and-other-supporters) · [Clinicians](01-what-functional-means-and-how-fnd-can-appear.md#for-clinicians-and-the-care-team) · [Research](01-what-functional-means-and-how-fnd-can-appear.md#research-and-sources)
 
+## Optional Module Review Activity
+
+### Module 1 Review Crossword
+
+After completing the four lessons, you can review key ideas with this optional module-wide crossword. The normal and easy editions are fillable PDFs, so printing is not required.
+
+<div class="puzzle-grid">
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Module-1-FND-crossword-10-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Module-1-FND-crossword-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 1 — Normal <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Module-1-FND-crossword-easy-10-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Module-1-FND-crossword-easy-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 1 — Easy with word bank <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Module-1-FND-crossword-answer-key-10-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Module-1-FND-crossword-answer-key-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 1 — Answer key <small>PDF</small></span>
+</a>
+</div>
+
+Explore other activities in the [course puzzle collection](../../../assets/puzzles/README.md).
+
 ## Research and Sources
 
 | Citation | Figure | Full citation |
