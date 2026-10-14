@@ -293,9 +293,22 @@ Sometimes a plan can't stop a flare. It can still help keep you safer or make it
 
 ### Optional learning activity
 
-**Available Capacity Crossword**
+Choose a preview to open the printable PDF. These activities are optional.
 
-[Normal version](../../../assets/puzzles/crosswords/Available-Capacity-crossword-10-2026.pdf) · [Easy version with a word bank](../../../assets/puzzles/crosswords/Available-Capacity-crossword-easy-10-2026.pdf) · [Answer key](../../../assets/puzzles/crosswords/Available-Capacity-crossword-answer-key-10-2026.pdf)
+<div class="puzzle-grid">
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Available-Capacity-crossword-10-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Available-Capacity-crossword-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Available Capacity — Normal <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Available-Capacity-crossword--easy10-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Available-Capacity-crossword--easy10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Available Capacity — Easy <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Available-Capacity-crossword--answer-key10-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Available-Capacity-crossword--answer-key10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Available Capacity — Answer key <small>PDF</small></span>
+</a>
+</div>
 
 ---
 
