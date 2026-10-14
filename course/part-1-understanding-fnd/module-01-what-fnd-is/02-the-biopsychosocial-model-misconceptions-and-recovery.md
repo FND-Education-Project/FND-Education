@@ -38,11 +38,17 @@ The word looks complicated, but let's break it down.
 
 - **The *social* part means the world around us:** Our family, friendships, culture, relationships, living conditions, financial situation and access to healthcare. Support from other people is also part of this picture. (*citations* [1](#citation-1), [3](#citation-3))
 
-![A brain surrounded by five scenes representing stress, sleep, finances, social support and physical illness.](../../../assets/images/lesson-2-illustration.png)
 
-*Illustration: Stress, sleep, finances, social support and physical illness may influence health and everyday life. No factor is required to have caused FND.*
 
 ### How these parts of life can affect symptoms
+
+<figure class="image-60right" markdown="1">
+
+![A brain surrounded by five scenes representing stress, sleep, finances, social support and physical illness.](../../../assets/images/lesson-2-illustration.png)
+
+<figcaption>Illustration: Stress, sleep, finances, social support and physical illness may influence health and everyday life. No factor is required to have caused FND.</figcaption>
+
+</figure>
 
 Let's talk about this in a more familiar way: **the common headache.**
 
