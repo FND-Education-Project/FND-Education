@@ -156,12 +156,12 @@ Choose a preview to open the printable PDF. These activities are optional.
   <img src="{{ '/assets/puzzles/thumbnails/Recovery-crossword-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Recovery — Normal <small>PDF</small></span>
 </a>
-<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Recovery-crossword--easy09-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/Recovery-crossword--easy09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Recovery-crossword-easy-09-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Recovery-crossword-easy-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Recovery — Easy <small>PDF</small></span>
 </a>
-<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Recovery-crossword--answer-key09-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/Recovery-crossword--answer-key09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Recovery-crossword-answer-key-09-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Recovery-crossword-answer-key-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Recovery — Answer key <small>PDF</small></span>
 </a>
 <a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-3-coloring-book.pdf' | relative_url }}">
