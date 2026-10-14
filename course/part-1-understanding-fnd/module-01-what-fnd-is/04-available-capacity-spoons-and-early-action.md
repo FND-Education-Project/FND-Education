@@ -132,11 +132,17 @@ Before an activity, it may help to think about two things: Can I manage this rig
 
 You won't always be able to predict the answer, but thinking ahead may help you plan for recovery or support.
 
-![Available capacity illustrated as a leaky bucket with positive flows into it.](../../../assets/images/available-capacity.png)
 
-*Illustration: A bucket offers one way to imagine changing capacity. It is a comparison, not a measurement of the nervous system.*
 
 ### Can available capacity be restored?
+
+<figure class="image-60left" markdown="1">
+
+![Available capacity illustrated as a leaky bucket with positive flows into it.](../../../assets/images/available-capacity.png)
+
+<figcaption>Illustration: A bucket offers one way to imagine changing capacity. It is a comparison, not a measurement of the nervous system.</figcaption>
+
+</figure>
 
 Sometimes.
 
