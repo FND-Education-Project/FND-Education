@@ -84,6 +84,23 @@ Choose a preview to open the PDF for printing.
 </a>
 </div>
 
+### Module 1 review crossword
+
+<div class="puzzle-grid">
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Module-1-FND-crossword-10-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Module-1-FND-crossword-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 1 review — Normal <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Module-1-FND-crossword-easy-10-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Module-1-FND-crossword-easy-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 1 review — Easy <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Module-1-FND-crossword-answer-key-10-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Module-1-FND-crossword-answer-key-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 1 review — Answer key <small>PDF</small></span>
+</a>
+</div>
+
 ## Colouring pages
 
 Choose a preview to open the printable PDF. Select landscape orientation and fit to page when printing.
