@@ -99,6 +99,29 @@ You might include what FND means, how it affects the nervous system, why symptom
 
 Use your own words. This is not a test, and your explanation can change as you learn more.
 
+### Optional learning activity
+
+Choose a preview to open a printable PDF. These activities are optional.
+
+<div class="puzzle-grid">
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/What-is-FND-crossword-09-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/What-is-FND-crossword-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>What is FND? — Normal <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/What-is-FND-crossword-easy-09-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/What-is-FND-crossword-easy-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>What is FND? — Easy <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/What-is-FND-crossword-answer-key-09-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/What-is-FND-crossword-answer-key-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>What is FND? — Answer key <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-1-coloring-book.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/colouring/lesson-1-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>What is FND? — Colouring page <small>PDF</small></span>
+</a>
+</div>
+
 ---
 
 [For the Person With FND](#for-the-person-with-fnd)<br>
