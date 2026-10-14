@@ -300,12 +300,12 @@ Choose a preview to open the printable PDF. These activities are optional.
   <img src="{{ '/assets/puzzles/thumbnails/Available-Capacity-crossword-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Available Capacity — Normal <small>PDF</small></span>
 </a>
-<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Available-Capacity-crossword--easy10-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/Available-Capacity-crossword--easy10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Available-Capacity-crossword-easy-10-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Available-Capacity-crossword-easy-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Available Capacity — Easy <small>PDF</small></span>
 </a>
-<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Available-Capacity-crossword--answer-key10-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/Available-Capacity-crossword--answer-key10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Available-Capacity-crossword-answer-key-10-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Available-Capacity-crossword-answer-key-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Available Capacity — Answer key <small>PDF</small></span>
 </a>
 </div>
