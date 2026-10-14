@@ -30,9 +30,13 @@ With FND, the brain may interpret or use some of this information differently. T
 
 Researchers are studying several possible changes in how the brain uses this information. These changes may differ from person to person, and many questions remain unanswered. (*citations* [1](#citation-1), [3](#citation-3))
 
+<figure class="image-60center" markdown="1">
+
 ![Nervous-system information can reach movement, sensation, attention and awareness through pathways whose access or control can change involuntarily.](../../../assets/illustrations/module-1-page-1-function-routes.svg)
 
-*Illustration: “Functional” describes how the system is working. The symptom is real, and the change is not chosen.*
+<figcaption>Illustration: “Functional” describes how the system is working. The symptom is real, and the change is not chosen.</figcaption>
+
+</figure>
 
 Many routine scans, such as MRI and CT, mainly look for changes in the body's structure, such as damage from a stroke, a tumour or an injury.
 
@@ -113,9 +117,13 @@ The everyday examples below offer a simple way to explore how attention, the bra
 
 They are comparisons, not exact explanations of any person's symptoms.
 
+<figure class="image-60center" markdown="1">
+
 ![Three everyday examples: a squirrel beside a woodland path, a person lifting a foot for an expected extra stair at the landing, and a tired person sitting with an open book.](../../../assets/images/lesson-1-illustration.png)
 
-*Left to right: attention, prediction and awareness of internal bodily signals.*
+<figcaption>Left to right: attention, prediction and awareness of internal bodily signals.</figcaption>
+
+</figure>
 
 ### Attention: The squirrel beside the path
 
