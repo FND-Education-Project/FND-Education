@@ -48,6 +48,7 @@ jobs:
         run: |
           python -m pip install --quiet pymupdf==1.26.5 opencv-python-headless pillow
           python tools/puzzles/audit_pdf_grids.py
+          python tools/puzzles/upgrade_legacy_crosswords.py
 
       - name: Prepare website source
         run: python tools/site/prepare_site.py
