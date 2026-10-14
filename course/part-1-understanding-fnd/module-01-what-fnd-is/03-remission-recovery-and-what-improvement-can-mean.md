@@ -65,9 +65,13 @@ Their seizures may not have disappeared, but important parts of their life have 
 
 **Recovery does not have to mean that every symptom has disappeared.**
 
+<figure class="image-60center" markdown="1">
+
 ![Four everyday scenes: walking outdoors with sunglasses and a wide-brimmed hat, preparing food with a chopping aid, relaxing with a dog and a walker nearby, and resting in bed with an eye mask.](../../../assets/images/lesson-3-illustration.png)
 
-*Illustration: Meaningful improvement can include taking part in activities, using practical supports, enjoying company and resting comfortably.*
+<figcaption>Illustration: Meaningful improvement can include taking part in activities, using practical supports, enjoying company and resting comfortably.</figcaption>
+
+</figure>
 
 ### Recovery can also mean something smaller
 
