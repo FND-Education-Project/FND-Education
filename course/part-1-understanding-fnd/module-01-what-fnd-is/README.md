@@ -14,7 +14,7 @@ A short starting point for understanding what FND is, what **functional** means,
 - FND should be diagnosed from **positive clinical features**, not simply because tests are normal. (*citations* [1](#citation-1), [2](#citation-2))
 - Psychological stress or a psychiatric condition is **not required** for an FND diagnosis. (*citations* [2](#citation-2), [3](#citation-3))
 - Another medical or neurological condition can be present alongside FND. (*citations* [1](#citation-1))
-- There is no established cure for FND. Remission and recovery are explained as separate ideas, with outcomes varying across people and symptom types. (*citations* [4](#citation-4), [5](#citation-5), [6](#citation-6))
+- There is no cure for FND. Remission and recovery are explained as separate ideas, with outcomes varying across people and symptom types. (*citations* [4](#citation-4), [5](#citation-5), [6](#citation-6))
 - Symptoms may recur or worsen regardless of what a person knows, tries, or has achieved. Symptom severity is not a measure of effort, acceptance, treatment participation, or personal progress. (*citations* [4](#citation-4), [5](#citation-5))
 - **Available capacity** is a project planning description of what a person can use now and what recovery may cost. It can guide discussion across symptom types but is not a biomarker, an autonomic measurement or a guarantee that a flare can be prevented. (*citations* [5](#citation-5))
 
@@ -26,6 +26,29 @@ A short starting point for understanding what FND is, what **functional** means,
 - **[Available Capacity, Spoons, and Early Action](04-available-capacity-spoons-and-early-action.md)** — community and clinical capacity models, signs that capacity is narrowing, and ways to change demands or support before a possible flare.
 
 > **Inside each page:** [Person with FND](01-what-functional-means-and-how-fnd-can-appear.md#for-the-person-with-fnd) · [Supporters](01-what-functional-means-and-how-fnd-can-appear.md#for-family-friends-and-other-supporters) · [Clinicians](01-what-functional-means-and-how-fnd-can-appear.md#for-clinicians-and-the-care-team) · [Research](01-what-functional-means-and-how-fnd-can-appear.md#research-and-sources)
+
+## Optional Module Review Activity
+
+### Module 1 Review Crossword
+
+After completing the four lessons, you can review key ideas with this optional module-wide crossword. The normal and easy editions are fillable PDFs, so printing is not required.
+
+<div class="puzzle-grid">
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Module-1-FND-crossword-10-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Module-1-FND-crossword-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 1 — Normal <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Module-1-FND-crossword-easy-10-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Module-1-FND-crossword-easy-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 1 — Easy with word bank <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Module-1-FND-crossword-answer-key-10-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Module-1-FND-crossword-answer-key-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 1 — Answer key <small>PDF</small></span>
+</a>
+</div>
+
+Explore other activities in the [course puzzle collection](../../../assets/puzzles/README.md).
 
 ## Research and Sources
 

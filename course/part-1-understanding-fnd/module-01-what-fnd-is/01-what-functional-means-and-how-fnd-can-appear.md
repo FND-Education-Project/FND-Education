@@ -4,164 +4,303 @@
 
 # What “Functional” Means and How FND Can Appear
 
-> **Working draft:** This page is human authored and is looking for [reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
 
-This page explains what the word “functional” means, how FND can appear, how clinicians can identify it, and why the symptoms are real and involuntary.
+Functional Neurological Disorder (FND) describes genuine neurological symptoms involving how the nervous system functions.
 
->*"Functional disorders are conditions whose origin arises primarily from a disorder of nervous system functioning rather than clearly identifiable pathophysiological disease... It causes considerable physical disability and distress..."* - Professor Jon Stone, neurologist (BMJ 2020;371:m3745)
-
->*"FND is currently defined as a 'clinical syndrome with genuinely experienced neurological symptoms which are distressing or impairing, and show dysfunction of the nervous system with variability in performance within a task or between task'"* -Functional neurological disorder: Practical management. Barbara A. Dworetzky, Gaston Baslet
-
-*Figure 1*
-
-The word 'functional' tells us that the way the nervous system transmits information throughout the brain and body is no longer working correctly. This affects actions like movement, sensation, attention and awareness. (*citations* [2](#citation-2), [9](#citation-9)) 
-
-![Nervous-system information passes through access or control toward movement, sensation, attention and awareness. The access change is involuntary.](../../../assets/illustrations/module-1-page-1-function-routes.svg)
-
-*Illustration: “functional” describes how the system is working. The symptom is real, and the change is not chosen.*
-
-> ### Quick Fact
-> Functional Neurological Disorder (FND) and Functional Seizures (FS) are known by other names.
-> - *PNES (Psychogenic non-epileptic seizures), Pseudoseizure, Dissociative Attack*
-> - *Conversion Disorder, Functional Cognitive Disorder (a subtype), Functional Neurological Disorders (FNDs)*
-> - *Functional Movement Disorder (FMD) (a subtype)*
-> However, Conversion Disorder and PNES are going out of use. Also, the term 'pseudoseizures' is offensive to many sufferers. (*citations* [2](#citation-2), [4](#citation-4), [9](#citation-9))
+It can affect movement, sensation, awareness, speech, vision and other abilities. The word *functional* does not mean the symptoms are imaginary, intentionally produced or unimportant. (*citations* [1](#citation-1), [2](#citation-2))
 
 ---
+
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ---
 
 ## For the Person With FND
 {: #for-the-person-with-fnd .shareable }
 
-If you have been recently diagnosed, you might be wondering how the clinician knew your symptoms were FND. You may have had tests looking for other neurological or medical explanations, but FND should not be diagnosed only because those tests were normal. Clinicians can also look for **positive signs**—recognizable features on the history or examination that show how the nervous system is functioning differently. Education about these positive diagnostic methods is still uneven, so some people are not shown the evidence supporting their diagnosis. (*citations* [1](#citation-1)) 
+### What does “functional” mean?
 
-> A very common question is, **"Does an FND diagnosis mean my symptoms are caused by a psychological problem?"** *No.* A psychological stressor, trauma history, or psychiatric diagnosis is not required to diagnose FND. 
+Your brain, spinal cord, nerves and the rest of your body are always sending messages back and forth. These messages help you move, feel, speak and pay attention.
 
-Researchers have found differences in brain structure, activity or chemistry when groups of people with FND are compared with other groups. These findings are still being studied. They cannot yet diagnose FND in one person or tell us whether a difference caused FND or developed afterward. The chemistry study cited here involved young people with functional seizures; it does not speak for everyone with FND. The important thing to know is **Your symptoms ARE REAL** and they are not faked or imaginary. (*citations* [2](#citation-2), [3](#citation-3), [5](#citation-5), [6](#citation-6), [9](#citation-9))
+With FND, the brain may interpret or use some of this information differently. This can affect what your body can do and what you experience. **The symptoms are real and are not deliberately produced.**
 
-So what does [functional](../../../glossary/README.md#functional) actually mean? In short it describes how your nervous system is processing motor and sensory information. In FND there is a problem with how our brain and nervous system interact. FND belongs to a wider family of overlapping functional disorders that can include fibromyalgia, chronic fatigue and irritable bowel syndrome. (*citations* [1](#citation-1), [3](#citation-3), [13](#citation-13)) 
+Researchers are studying several possible changes in how the brain uses this information. These changes may differ from person to person, and many questions remain unanswered. (*citations* [1](#citation-1), [3](#citation-3))
 
-***
+<figure class="image-60center" markdown="1">
 
-**How did I get Functional Neurological Disorder?**
-*Researchers have not identified one cause that explains every person's FND. Symptoms may begin around a physical illness or injury, migraine, fainting episode, stressful event, trauma, or with no clear preceding event at all. Something happening near the beginning can be a useful clue without proving that it caused the disorder. Later in the course we separate possible causes, risk factors, triggers, mechanisms, and things that may affect symptoms now.* (*citations* [1](#citation-1), [2](#citation-2), [7](#citation-7), [9](#citation-9)) 
+![Nervous-system information can reach movement, sensation, attention and awareness through pathways whose access or control can change involuntarily.](../../../assets/illustrations/module-1-page-1-function-routes.svg)
 
-**Can FND be cured? Is it permanent?**
-*There is no cure for FND but many have found improvements in their condition that can be considered 'remission' of the disease. Many believe that understanding your disease is the key first step in making improvements.* (*citations* [1](#citation-1), [3](#citation-3), [8](#citation-8))
+<figcaption>Illustration: “Functional” describes how the system is working. The symptom is real, and the change is not chosen.</figcaption>
 
-**Is there a way to diagnose FND?**
-*Yes! There are specific tests and observations that a neurologist can use during an examination to identify signs of FND. Your diagnosis should never be "All your tests were normal."* (*citations* [3](#citation-3))
+</figure>
 
-**How do I improve my condition?**
-*This is what we hope to accomplish in this educational course. The lessons are each designed to inform you and show what you can do now at home to make positive changes in your disease.*
+Many routine scans, such as MRI and CT, mainly look for changes in the body's structure, such as damage from a stroke, a tumour or an injury.
 
-**What are the symptoms of FND?**
-*A person can present with one or more symptoms. Some symptoms are not considered to be FND but often appear alongside FND.* (*citations* [2](#citation-2), [3](#citation-3), [9](#citation-9)) 
-*Here's a list of common FND symptoms:*
-- weakness in an arm or leg
-- functional 'seizures'
-- reduced sensation in parts of the body
-- involuntary movements like tremor or jerks and spasms
-- difficulty walking
-- memory and concentration issues
-- speech and swallowing problems
-- dizziness (a type associated with FND)
-- falls to the ground
-- bladder or bowel symptoms can occur alongside FND, but they are not automatically functional symptoms and need their own appropriate assessment
-- visual blurring, light sensitivity
-- sound sensitivity
-- [functional motor and vocal/phonic tic-like symptoms](../../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) — see also the [movement and tics lesson](../../part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
+FND symptoms can be severe even when a scan does not show damage that explains them. A person may also have FND together with an injury, a neurological disease or another medical condition. **One does not rule out the other.**
 
-And these are problems that are commonly experienced among sufferers but aren't necessarily part of FND (we'll talk about that later and why researchers differ in what they consider FND and what they consider "*comorbid*"): (*citations* [3](#citation-3), [9](#citation-9))
-- Not feeling like quite yourself, 'spaced out'
-- fatigue
-- pain
-- health anxiety
-- irritable bowel syndrome
-- headache [or migraine, though most term a long lasting migraine as 'chronic headache']
-- sleep problems
-- anxiety, depression, panic
-- sometimes chest pain! FND has been known to mimic both stroke and epilepsy. (*citations* [3](#citation-3))
+Clinicians identify FND by looking for recognizable patterns in a person's symptoms, medical history and examination. Sometimes specialized tests also help. Normal test results alone cannot diagnose FND. (*citations* [1](#citation-1), [2](#citation-2))
 
-***
+### How can FND begin?
 
-For an introduction to what FND is, I only want to mention that FND is very episodic. Many experience bad days, weeks, and sometimes months followed by better days where their symptoms aren't active. One of the best things you can do now besides continue your education about this very debilitating disease is to learn how to communicate with your doctors and those acting as caregivers in your life if your symptoms require that. (*citations* [9](#citation-9)) 
+FND can begin in different ways. Some people first notice symptoms during or after an illness, such as an infection, or following an injury or medical procedure. Others notice symptoms around a stressful time, while some cannot identify anything unusual before their symptoms began.
 
-If you want to see how your symptoms fit into FND one of my favourite resources is [NeuroSymptoms.org](https://neurosymptoms.org/en/symptoms/). The author is one of the lead researchers of FND and they have put together a symptom tracker as well as a fairly complete list of each of the symptoms and how they are diagnosed and even a little about what you can do now about them. There are some videos as well which will let you see how others experience these symptoms.
+**There doesn't have to be an obvious reason why your FND started.**
 
-If you haven't already asked these of the diagnosing doctor, here's a few good questions you might ask
--  “Which of my symptoms have you identified as functional?”
--  “What positive signs support that diagnosis?”
--  “What did my tests rule in or rule out?”
--  “Could another condition also be present?”
+Something happening around the time symptoms begin does not necessarily mean it caused FND. Researchers are still working to understand why FND develops in different people. (*citations* [1](#citation-1), [3](#citation-3), [4](#citation-4))
 
-Another useful thing to do is put into your own words what FND is and how to explain to your family and friends.
+### What FND can look like
 
->## Crosswords
->- **What is FND?** ([normal](crosswords/What-is-FND-crossword-09-2026.pdf)) ([easy](crosswords/What-is-FND-crossword-easy-09-2026.pdf)) ([answer key](crosswords/What-is-FND-crossword-answer-key-09-2026.pdf))
+FND does not have one required symptom. Examples include:
 
-***
+- **Movement difficulties:** Weakness, paralysis, shaking, jerks, changes in walking, or unusual fixed postures.
+- **Episodes:** Functional seizures or other temporary changes in awareness, movement or responsiveness.
+- **Sensory and communication difficulties:** Altered feeling, some visual symptoms, or problems speaking or using the voice.
+- **Thinking and everyday function:** Difficulties with concentration, remembering, finding words or carrying out activities. Several conditions may contribute to these difficulties.
+
+Not all these problems automatically mean a person has FND. Similar symptoms can come from other health conditions. A clinician considers the individual history and appropriate examination findings.
+
+Our [Reference Library](../../../reference/README.md#find-an-fnd-symptom) provides more detailed explanations of individual symptoms, their diagnostic assessments and possible recovery techniques.
+
+### Why symptoms can vary
+
+FND symptoms can behave in ways that seem confusing or contradictory.
+
+For example, a person may struggle to lift a leg when concentrating on the movement, yet move it more easily during another activity. A hand might shake strongly during one task but become steadier when attention shifts elsewhere.
+
+These differences may relate to how the brain uses **attention, automatic movement patterns and predictions** about what the body will do.
+
+A doctor can sometimes use these patterns as positive signs that support an FND diagnosis. **They do not mean the symptoms are deliberate, or that a movement performed successfully once can simply be repeated whenever the person wants.** (*citations* [1](#citation-1), [2](#citation-2))
+
+Symptoms may be constant, intermittent or unpredictable. A brief successful movement in a clinic does not tell the whole story about fatigue, safety, the help someone needs or what happens afterwards.
+
+### What a diagnosis should explain
+
+A useful explanation of an FND diagnosis includes the recognizable signs and symptom patterns that support it, as well as any other conditions that may need consideration.
+
+Anxiety, stress or trauma can affect the nervous system and may influence symptoms in some people with FND.
+
+For some, these experiences are an important part of understanding their health and planning treatment. Their influence differs from person to person, and many people with FND do not identify them as a cause of their symptoms.
+
+**A person does not need to have experienced anxiety, significant stress or trauma to develop FND or receive the diagnosis.** (*citations* [2](#citation-2), [3](#citation-3), [5](#citation-5))
+
+### Questions to reflect on
+
+How would you explain your FND diagnosis to someone else?
+
+### One small step
+
+Write down how you would explain your FND diagnosis to someone else.
+
+You might include what FND means, how it affects the nervous system, why symptoms can change, and what you want the other person to understand about your experience.
+
+Use your own words. This is not a test, and your explanation can change as you learn more.
+
+### Optional learning activity
+
+Choose a preview to open a printable PDF. These activities are optional.
+
+<div class="puzzle-grid">
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/What-is-FND-crossword-09-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/What-is-FND-crossword-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>What is FND? — Normal <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/What-is-FND-crossword-easy-09-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/What-is-FND-crossword-easy-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>What is FND? — Easy <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/What-is-FND-crossword-answer-key-09-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/What-is-FND-crossword-answer-key-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>What is FND? — Answer key <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-1-coloring-book.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/colouring/lesson-1-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>What is FND? — Colouring page <small>PDF</small></span>
+</a>
+</div>
+
+---
+
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-Functional Neurological Disorder can be very disabling and can vary greatly from person to person. Historically, these symptoms were often framed through the psychiatric diagnosis 'conversion disorder' and were assumed to require a psychological explanation. Current diagnostic practice does **not** require a psychological stressor, trauma, or psychiatric disorder, and a positive FND diagnosis should not be inferred from psychological history. (*citations* [2](#citation-2), [4](#citation-4), [9](#citation-9)) 
+Thank you for taking the time to learn about FND and to better understand the experience of someone you care about. Your interest, patience and willingness to listen can make a meaningful difference.
 
-Support the person you are showing care to often involves assuring the person that their symptoms are real and not faked. They did not cause their disease. It's also very important to understand that not every new symptom is FND. All new symptoms should be looked at by a doctor because many serious medical issues look like an FND symptom. (*citations* [3](#citation-3), [9](#citation-9))
+The everyday examples below offer a simple way to explore how attention, the brain's expectations and signals from inside the body can influence movement and sensation without conscious choice.
 
-> - “PMD [functional movement disorder] patients reported similar Physical Health QOL [quality of life] to PD [Parkinson’s disease] patients … but worse mental health QOL [quality of life].”
-> - “Patients with [functional weakness] are as disabled as patients with weakness of similar duration due to neurological disease.”
-> - “Compared to epilepsy, people with psychogenic non-epileptic seizures [now usually called functional seizures] have consistently reported worse HRQoL [health-related quality of life].”
+They are comparisons, not exact explanations of any person's symptoms.
 
-*Figure 2*
+<figure class="image-60center" markdown="1">
 
-***
+![Three everyday examples: a squirrel beside a woodland path, a person lifting a foot for an expected extra stair at the landing, and a tired person sitting with an open book.](../../../assets/images/lesson-1-illustration.png)
+
+<figcaption>Left to right: attention, prediction and awareness of internal bodily signals.</figcaption>
+
+</figure>
+
+### Attention: The squirrel beside the path
+
+Think about walking along a path. You notice a squirrel beside the trail and turn your attention toward it.
+
+Without deciding to change direction, you might begin drifting slightly toward where you're looking.
+
+Your **attention has influenced your movement** without you consciously choosing it.
+
+### Prediction: The missing stair
+
+Now imagine walking up a staircase.
+
+You think there is one more step, but you've already reached the top. Your leg lifts higher than necessary, and you may stumble or make an awkward movement to regain your balance.
+
+You didn't decide to move that way. **Your brain predicted another step, and your body prepared for one that wasn't there.**
+
+### Interoception: Not noticing exhaustion
+
+Finally, think about becoming exhausted.
+
+Have you ever been so absorbed in an activity that you didn't realize how tired you were until you stopped?
+
+Your brain is constantly receiving and interpreting signals from inside your body, including signs of fatigue, hunger and physical effort.
+
+This awareness of internal bodily signals is called *interoception*. We don't consciously control every part of how these signals reach our awareness.
+
+### Bringing these ideas together
+
+These examples illustrate three normal functions of the nervous system:
+
+- **Attention:** What our brain focuses on.
+- **Prediction:** What our brain expects to happen.
+- **Interoception:** How we sense what is happening inside our bodies.
+
+Researchers are investigating how changes in these functions may contribute to FND. The examples don't prove what causes any particular symptom, but they demonstrate something important:
+
+**The nervous system can produce movements and sensations that we haven't consciously chosen.**
+
+### How your understanding can help
+
+You don't need to understand every detail of FND to make a positive difference.
+
+Listening, showing patience and asking what helps can be valuable forms of support. When someone manages an activity successfully, recognize it as something encouraging without expecting them to repeat it every time.
+
+Symptoms and abilities may change from day to day, so working together to find what is comfortable, safe and meaningful can make everyday life easier.
+
+If symptoms are new or significantly different, help the person seek appropriate medical advice.
+
+---
+
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-A 2022 paper titled, ***"Functional Neurological Disorder: new subtypes and shared mechanisms"*** makes three statements worth repeating here verbatim:
-1. "The pathophysiology of functional neurological disorder includes overactivity of the limbic system, the development of an **internal symptom model as part of a predictive coding framework**, and **dysfunction of brain networks that gives movement the sense of voluntariness**."
-2. "A new approach to the *positive diagnosis* of this disorder **focuses on *recognisable patterns* of genuinely experienced symptoms and signs** that show variability within the same task and between different tasks over time."
-3. "Psychological stressors **are common *risk factors*** for functional neurological disorder, but are often absent."
-4. "Four entities—functional seizures, functional movement disorders, persistent perceptual postural dizziness, and functional cognitive disorder—show similarities in aetiology and pathophysiology and are variants of a disorder at the interface between neurology and psychiatry."
+### Current understanding of FND
 
-FND involves real dysfunction, but current research does not establish one cause—or a fixed set of causes—that explains every person. Psychological stress may be relevant for some people and absent in others. Importantly, diagnosis can be made using positive clinical features rather than by requiring a psychological explanation. **For a complete list of those diagnostic techniques, see our [reference](https://github.com/FND-Education-Project/FND-Education/blob/main/reference/diagnostic-signs/README.md) section.**
+Contemporary models of Functional Neurological Disorder examine altered interactions within brain networks rather than relying on a single psychological or structural explanation.
 
-Here are some resources:
-- **[FND Hope - Medical Professionals](https://fndhope.org/living-fnd/physicians)**
-- **[neurosymptoms.org — Symptoms](https://neurosymptoms.org/en/symptoms/)** — Created by neurologist Professor Jon Stone, with contributions from other health professionals. Many symptom pages explain the positive clinical signs that clinicians may use to support a diagnosis, how the symptom may differ from similar symptoms caused by other conditions, and treatment or self-management approaches that may help.
+Current research investigates several potentially interacting mechanisms, including:
 
-A useful explanation should identify which symptoms have been diagnosed as functional, demonstrate the clinical features supporting that conclusion and explain what investigations have ruled in or ruled out. Patients should be told explicitly that their symptoms are real, involuntary and potentially treatable. Statements such as “all your tests were normal” or “nothing is wrong” do not adequately communicate a positive diagnosis and may reinforce distrust or diagnostic uncertainty.
+- Sensorimotor integration
+- Attention and predictive processing
+- Sense of agency and voluntary control
+- Interoception and sensory processing
+- Arousal regulation and interactions between brain networks
 
-> I was diagnosed just over a month ago. I met with my neurologist, who was very nice and thorough, but after he gave me the diagnosis, he told me to get into talk therapy and physical therapy. Then he wrote a website down for me to check out and that was that. There was no discussion explaining the condition and reasoning for the two therapies.
-— *(Lived experience; Reddit user u/Im_not_sure_042)*
->
-> "for a brief time we were increasingly scared that I had a physical brain injury and I was deteriorating rapidly. I wound up in the ER and a consulting neurologist was able to clearly track and analyze the exact patterns (and lack thereof) of my involuntary movements, she performed a series of examinations + an hour of observation, conversation, distracting me, etc. I was surprised by the diagnosis, but just the information alone that I wasn’t dying was enormously reassuring. I woke up the next day with my symptoms WAY less pronounced and disruptive... I’m extremely grateful for the information and education on FND, because the distraction and redirection techniques have been very helpful to getting me back on my feet (literally)."
-— *(Lived experience; Reddit user u/mackydraw)*
+These functions normally work together to produce coordinated movement, sensation and awareness.
 
-This free online course is contributed to by those with lived experience in Functional Neurological Disorder [currently, the official term provided by the DSM-V-tr] with the intent of bringing as much of the current research together in one place. The content for medical practitioners is centered around ways of being helpful to your patient both in understanding what their disease is and what they can do to improve a specific symptom or to support them when a symptom is likely not going to improve. We invite you to visit this section in each page of this course while also reading the content for the patient where most of the discussion will take place. Following this section is where you'll find the research behind that content. If you disagree about how a paper was interpreted, we are always open to hearing from you.
+Predictive-processing models propose that the brain continually combines prior expectations with incoming sensory information to guide perception and action. Altered weighting of expectations and sensory signals is one proposed contributor to some FND symptoms.
 
-***
+Changes in these interactions may contribute to symptoms experienced as involuntary. Their relative importance likely differs between individuals and symptom presentations. **No single mechanism has been established as an explanation for all FND symptoms.** (*citations* [2](#citation-2), [3](#citation-3))
+
+### What brain research is showing
+
+Functional neuroimaging studies have reported group-level differences in brain activity and connectivity involving networks associated with movement, attention, salience and emotion.
+
+Emerging neurometabolic research has also examined differences in brain chemistry in selected groups of patients, including a study in children and adolescents with FND.
+
+These findings are important research developments, but they do not yet establish individual causes or provide validated diagnostic biomarkers. (*citations* [3](#citation-3), [7](#citation-7))
+
+### How FND can begin
+
+FND has a heterogeneous onset. Symptoms may emerge during or after physical illness, injury, medical events or psychological stress, while some patients identify no preceding event. A history of psychological trauma, an identifiable stressor or a psychiatric disorder is not required. An event preceding symptom onset should not automatically be interpreted as its cause.
+
+> “Psychological stressors are important risk factors but are neither necessary nor sufficient for the diagnosis.” — Stone, Burton and Carson, 2020. (*citation* [4](#citation-4))
+
+Four useful research starting points illustrate the evidence and its boundaries:
+
+- **[Stone, Burton and Carson (2020), *BMJ*](https://doi.org/10.1136/bmj.m3745):** Clinical review explaining why psychological stressors are neither necessary nor sufficient for an FND diagnosis. [4](#citation-4)
+- **[Hallett et al. (2022), *The Lancet Neurology*](https://doi.org/10.1016/S1474-4422(21)00422-1):** Reviews contemporary mechanisms and recognizes that psychological stressors, although common risk factors, may be absent. [3](#citation-3)
+- **[Ludwig et al. (2018), *The Lancet Psychiatry*](https://doi.org/10.1016/S2215-0366(18)30051-8):** A systematic review and meta-analysis finding group-level associations with stressful life events and maltreatment, while also documenting patients without identified stressors. These associations do not establish individual causation. [5](#citation-5)
+- **[Ercoli et al. (2021), *Movement Disorders Clinical Practice*](https://doi.org/10.1002/mdc3.13322):** Examines acute peripheral trauma in functional dystonia. Its findings concern that presentation and do not establish physical trauma as a universal cause of FND. [6](#citation-6)
+
+Taken together, these findings support distinguishing possible precipitating events from established causes, rather than assuming an undisclosed psychological explanation when no clear event can be identified. For more detail, see the course's [Causes, Risk Factors, Triggers, and Maintaining Factors](../module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md) lesson.
+
+### Understanding the history of FND
+
+Our [History of FND](../../../reference/history-of-fnd.md) explores how the field developed from earlier concepts of hysteria and conversion disorder toward contemporary neurological models.
+
+It highlights important changes in clinical thinking, the development of positive neurological signs, advances in functional neuroimaging and emerging neurometabolic findings.
+
+The timeline also helps clinicians interpret older literature.
+
+In particular, research conducted before the 2013 DSM-5 changes may reflect different patient-selection criteria and assumptions about psychological causation. Earlier studies can still provide valuable evidence, but their findings should be interpreted in their historical and methodological context.
+
+### Exploring the Reference Library
+
+The [FND Reference Library](../../../reference/README.md) offers more detailed material beyond the scope of this introductory course.
+
+**Understanding and diagnosis**
+
+The [Diagnostic Techniques collection](../../../reference/diagnostic-signs/README.md) covers individual symptom presentations, examination methods, supporting research and the limitations of particular findings.
+
+The [shared diagnostic explanations](../../../reference/diagnostic-concepts/README.md) discuss positive clinical evidence, investigations and the relationship between examination findings and everyday functioning.
+
+**Recovery and management**
+
+The [Recovery Techniques collection](../../../reference/recovery-techniques/README.md) explores rehabilitation approaches, supporting evidence, practical applications and treatment limitations.
+
+These resources are organized by symptom so clinicians can focus on their own specialty or explore approaches used by other members of the care team.
+
+The [Professional Roles in FND Care](../../../reference/professional-roles-in-fnd-care.md) page explains how different clinical specialties may contribute to assessment, rehabilitation and ongoing support.
+
+### Essential reading
+
+Three publications provide useful starting points for clinicians seeking a broader understanding of FND.
+
+**[Bennett et al. (2021) — A Practical Review of FND](https://doi.org/10.7861/clinmed.2020-0987)** [1](#citation-1)
+
+A practical clinical overview of FND, including its presentation, explanation and management.
+
+**[Espay et al. (2018) — Current Concepts in Diagnosis and Treatment](https://doi.org/10.1001/jamaneurol.2018.1264)** [2](#citation-2)
+
+An overview of modern diagnostic and treatment concepts and their scientific foundations.
+
+**[Hallett et al. (2022) — New Subtypes and Shared Mechanisms](https://doi.org/10.1016/S1474-4422(21)00422-1)** [3](#citation-3)
+
+A discussion of FND subtypes and proposed shared neurological mechanisms.
+
+The Reference Library and History of FND provide more recent and symptom-specific research, including developments beyond these introductory publications.
+
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
@@ -169,81 +308,19 @@ This free online course is contributed to by those with lived experience in Func
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
-***
-
 ## Research and Sources
+{: #research-and-sources .shareable }
 
-### Three focused quotations
-
-- “It causes considerable physical disability and distress.” (*citations* [1](#citation-1))
-- “The diagnosis of FND [functional neurological disorder] should rest on clear positive evidence.” (*citations* [3](#citation-3))
-- “Psychological stressors are important risk factors but are neither necessary nor sufficient for the diagnosis.” (*citations* [1](#citation-1))
+The sources below support this introductory account. Studies of proposed mechanisms, physical events preceding symptoms and group-level neuroimaging findings do not establish why FND began in an individual. The linked [History of FND](../../../reference/history-of-fnd.md) provides further recent and historical studies. This lesson remains open to human, clinical and accessibility review.
 
 ### Citation table
 
-| Citation | Figure | Full citation |
-|---|---|---|
-| <a id="citation-1"></a>**[1]** | *Figure 1* | Stone J, Burton C, Carson A. Recognising and explaining functional neurological disorder. *BMJ*. 2020;371:m3745. [FND-CIT-0043](../../../research/citation-index.md#fnd-cit-0043). [https://doi.org/10.1136/bmj.m3745](https://doi.org/10.1136/bmj.m3745) |
-| <a id="citation-2"></a>**[2]** | *Figure 1* | Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4):e00612. [FND-CIT-0013](../../../research/citation-index.md#fnd-cit-0013). [https://doi.org/10.1016/j.neurot.2025.e00612](https://doi.org/10.1016/j.neurot.2025.e00612) |
-| <a id="citation-3"></a>**[3]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
-| <a id="citation-4"></a>**[4]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
-| <a id="citation-5"></a>**[5]** | — | Bègue I, Adams C, Stone J, Perez DL. Structural alterations in functional neurological disorder and related conditions: a software and hardware problem? *NeuroImage: Clinical*. 2019;22:101798. [FND-CIT-0004](../../../research/citation-index.md#fnd-cit-0004). [https://doi.org/10.1016/j.nicl.2019.101798](https://doi.org/10.1016/j.nicl.2019.101798) |
-| <a id="citation-6"></a>**[6]** | — | Charney M, Foster S, Shukla V, et al. Neurometabolic alterations in children and adolescents with functional neurological disorder. *NeuroImage: Clinical*. 2024;41:103557. [FND-CIT-0044](../../../research/citation-index.md#fnd-cit-0044). [https://doi.org/10.1016/j.nicl.2023.103557](https://doi.org/10.1016/j.nicl.2023.103557) |
-| <a id="citation-7"></a>**[7]** | — | Lidstone SC, Costa-Parke M, Robinson EJ, Ercoli T, Stone J; FMD GAP Study Group. Functional movement disorder gender, age and phenotype study: a systematic review and individual patient meta-analysis of 4905 cases. *Journal of Neurology, Neurosurgery & Psychiatry*. 2022;93(6):609–616. [FND-CIT-0045](../../../research/citation-index.md#fnd-cit-0045). [https://doi.org/10.1136/jnnp-2021-328462](https://doi.org/10.1136/jnnp-2021-328462) |
-| <a id="citation-8"></a>**[8]** | — | Gelauff J, Stone J, Edwards M, Carson A. The prognosis of functional (psychogenic) motor symptoms: a systematic review. *Journal of Neurology, Neurosurgery & Psychiatry*. 2014;85(2):220–226. [FND-CIT-0007](../../../research/citation-index.md#fnd-cit-0007). [https://doi.org/10.1136/jnnp-2013-305321](https://doi.org/10.1136/jnnp-2013-305321) |
-| <a id="citation-9"></a>**[9]** | — | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) |
-| <a id="citation-10"></a>**[10]** | *Figure 2* | Anderson KE, Gruber-Baldini AL, Vaughan CG, Reich SG, Fishman PS, Weiner WJ, Shulman LM. Impact of psychogenic movement disorders versus Parkinson’s on disability, quality of life, and psychopathology. *Movement Disorders*. 2007;22(15):2204–2209. [FND-CIT-0046](../../../research/citation-index.md#fnd-cit-0046). [https://doi.org/10.1002/mds.21687](https://doi.org/10.1002/mds.21687) |
-| <a id="citation-11"></a>**[11]** | *Figure 2* | Stone J, Warlow C, Sharpe M. The symptom of functional weakness: a controlled study of 107 patients. *Brain*. 2010;133(5):1537–1551. [FND-CIT-0047](../../../research/citation-index.md#fnd-cit-0047). [https://doi.org/10.1093/brain/awq068](https://doi.org/10.1093/brain/awq068) |
-| <a id="citation-12"></a>**[12]** | *Figure 2* | Jones B, Reuber M, Norman P. Correlates of health-related quality of life in adults with psychogenic nonepileptic seizures: a systematic review. *Epilepsia*. 2016;57(2):171–181. [FND-CIT-0048](../../../research/citation-index.md#fnd-cit-0048). [https://doi.org/10.1111/epi.13268](https://doi.org/10.1111/epi.13268) |
-| <a id="citation-13"></a>**[13]** | — | Stone J, Coebergh J, Khoja L, et al. Migraine and functional neurological disorder (FND)—a review of comorbidity and potential overlap. *Brain Communications*. 2025;7(4):fcaf288. [FND-CIT-0049](../../../research/citation-index.md#fnd-cit-0049). [https://doi.org/10.1093/braincomms/fcaf288](https://doi.org/10.1093/braincomms/fcaf288) |
-
-*Last reviewed: August 26, 2026*
-
-<details>
-<summary><strong>Author accuracy review — brain-research wording updated; other suggestions pending</strong></summary>
-
-These notes are for the author and reviewers. They identify wording that may overstate the evidence, blur an important distinction, or be misunderstood. The suggested replacements are written in the course's direct, plain-language tone. The brain-research wording in item 2 was updated with the project lead’s authorization on September 21, 2026. Other suggested replacements have not been inserted into the lesson.
-
-### 1. What tests can and cannot establish
-
-**Accuracy warning:** The current passage may sound as though investigations can determine that a person has no psychological condition. Tests used in an FND assessment may look for other medical or neurological explanations, but anxiety, depression, trauma, or another psychological condition does not prove or disprove FND. FND should be diagnosed from positive clinical signs.
-
-**Suggested wording:**
-
-> If you have been recently diagnosed, you might still wonder whether your symptoms really are FND. You may have had tests to look for other medical or neurological conditions. Those tests do not prove that a symptom is functional, and anxiety, depression, trauma, or another psychological condition does not rule FND in or out. FND should be diagnosed from positive clinical signs. Unfortunately, some people are still given the diagnosis without those signs being clearly shown or explained.
-
-**Item 2 status:** Group-level and causal limits now appear in the lesson; clinical review remains pending.
-
-### 2. What “FND changes the brain” can mean
-
-**Accuracy warning:** References [5] and [6] report differences found when groups of people with FND were compared with other groups. They do not provide an individual diagnostic test, and they do not establish whether a difference caused FND or developed afterward. Reference [6] studied young people, so it should not be presented as though it applies equally to every person with FND.
-
-**Suggested wording:**
-
-> Researchers have found differences in brain structure, activity, or chemistry when groups of people with FND are compared with other groups. These findings are still being studied. They cannot yet diagnose FND in one person or tell us whether a difference caused FND or developed afterward. What they do add to is research showing that FND involves real nervous-system dysfunction and that the symptoms are not faked or imaginary.
-
-### 3. Age and the scope of the cited study
-
-**Accuracy warning:** Reference [7] concerns functional movement disorder, not every form of FND. It can support a statement about age at onset for that symptom group, but it should not carry a broader claim about all FND by itself.
-
-**Suggested wording:**
-
-> FND can begin in children, adults, or older people. Age patterns differ across symptom types. The study cited here looked specifically at functional movement disorder, where onset was most common in midlife.
-
-### 4. Chest pain, stroke-like symptoms, and functional seizures
-
-**Accuracy warning:** The present order may make it sound as though chest pain is how FND resembles stroke or epilepsy. Chest pain also has many possible causes and should not automatically be attributed to FND.
-
-**Suggested wording:**
-
-> Some people with FND also report chest pain, but chest pain should not automatically be attributed to FND. FND can separately appear as stroke-like weakness or functional seizures that resemble epileptic seizures.
-
-### 5. The number of statements
-
-**Accuracy warning:** The introduction says that three statements follow, but the page lists four.
-
-**Suggested wording:**
-
-> A 2022 paper titled *Functional Neurological Disorder: new subtypes and shared mechanisms* makes four statements worth repeating here verbatim:
-
-</details>
+| Citation | Source |
+|---|---|
+| <a id="citation-1"></a>**[1]** | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [DOI](https://doi.org/10.7861/clinmed.2020-0987). |
+| <a id="citation-2"></a>**[2]** | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [DOI](https://doi.org/10.1001/jamaneurol.2018.1264). |
+| <a id="citation-3"></a>**[3]** | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../../research/citation-index.md#fnd-cit-0003). [DOI](https://doi.org/10.1016/S1474-4422(21)00422-1). |
+| <a id="citation-4"></a>**[4]** | Stone J, Burton C, Carson A. Recognising and explaining functional neurological disorder. *BMJ*. 2020;371:m3745. [FND-CIT-0043](../../../research/citation-index.md#fnd-cit-0043). [DOI](https://doi.org/10.1136/bmj.m3745). |
+| <a id="citation-5"></a>**[5]** | Ludwig L, Pasman JA, Nicholson T, et al. Stressful life events and maltreatment in conversion (functional neurological) disorder: systematic review and meta-analysis of case-control studies. *The Lancet Psychiatry*. 2018;5(4):307–320. [FND-CIT-0079](../../../research/citation-index.md#fnd-cit-0079). [DOI](https://doi.org/10.1016/S2215-0366(18)30051-8). |
+| <a id="citation-6"></a>**[6]** | Ercoli T, Defazio G, Geroin C, et al. Sudden onset, fixed dystonia and acute peripheral trauma as diagnostic clues for functional dystonia. *Movement Disorders Clinical Practice*. 2021;8(7):1107–1111. [FND-CIT-0136](../../../research/citation-index.md#fnd-cit-0136). [DOI](https://doi.org/10.1002/mdc3.13322). |
+| <a id="citation-7"></a>**[7]** | Charney M, Foster S, Shukla V, et al. Neurometabolic alterations in children and adolescents with functional neurological disorder. *NeuroImage: Clinical*. 2024;41:103557. [FND-CIT-0044](../../../research/citation-index.md#fnd-cit-0044). [DOI](https://doi.org/10.1016/j.nicl.2023.103557). |
