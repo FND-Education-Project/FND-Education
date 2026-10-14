@@ -166,11 +166,28 @@ You don't need to keep records or perform exercises to prove that you are trying
 
 ### Optional learning activities
 
-**Biopsychosocial What? Crossword**
+### Optional learning activity
 
-[Normal version](../../../assets/puzzles/crosswords/Biopsychosocial-What-crossword-09-2026.pdf) · [Easy version](../../../assets/puzzles/crosswords/Biopsychosocial-What-crossword-easy-09-2026.pdf) · [Answer key](../../../assets/puzzles/crosswords/Biopsychosocial-What-crossword-answer-key-09-2026.pdf)
+Choose a preview to open the printable PDF. These activities are optional.
 
-**[Biopsychosocial factors colouring page (PDF)](../../../assets/puzzles/colouring/lesson-2-coloring-book.pdf)** — an optional colouring version of this lesson’s illustration.
+<div class="puzzle-grid">
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Biopsychosocial-What-crossword-09-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Biopsychosocial-What-crossword-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Biopsychosocial What? — Normal <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Biopsychosocial-What-crossword--easy09-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Biopsychosocial-What-crossword--easy09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Biopsychosocial What? — Easy <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Biopsychosocial-What-crossword--answer-key09-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Biopsychosocial-What-crossword--answer-key09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Biopsychosocial What? — Answer key <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-2-coloring-book.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/colouring/lesson-2-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Biopsychosocial What? — Colouring page <small>PDF</small></span>
+</a>
+</div>
 
 ---
 
