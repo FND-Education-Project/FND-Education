@@ -237,13 +237,13 @@ One discussion labels a catatonic seizure-like event as a drop attack; another a
 
 > “She handed me a rainbow coloured dodgeball and asked me to rotate it ... And the tremors stopped.”
 
-— The person described an occupational therapist testing a competing hand task during continuous tremor. [Source](https://www.reddit.com/r/FND/comments/1pslgkk/there_is_a_light_at_the_end_of_the_tunnel/)
+— The person described a physiotherapist testing a competing hand task during continuous tremor. [Source](https://www.reddit.com/r/FND/comments/1pslgkk/there_is_a_light_at_the_end_of_the_tunnel/)
 
 **Reported help — person with symptoms; clinician and social support**
 
-> “I’ve told people in my life to ask me a question. Sure enough ... the tremor stops when I think about my answer.”
+> “The tremor stops when I think about my answer and speak it.”
 
-— A physiotherapist suggested keeping the brain occupied; the person adapted this into a cue for people around them. [Source](https://www.reddit.com/r/FND/comments/1nzuyuz/was_just_diagnosed_will_i_ever_work_or_be/)
+— A physiotherapist suggested keeping the brain occupied; the person adapted this into a cue for people around them. [Source](https://www.reddit.com/r/FND/comments/1nzuyuz/comment/ni918wf/)
 
 ### Living with tremor and symptom change
 
