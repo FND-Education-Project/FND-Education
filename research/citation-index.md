@@ -488,6 +488,8 @@ Use this source for recognized functional dystonia presentations, including fixe
 
 ## FND-CIT-0022
 
+**Additional course use:** [Positive Signs and the Neurological Examination](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md).
+
 Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. [https://doi.org/10.1016/j.cnp.2023.12.006](https://doi.org/10.1016/j.cnp.2023.12.006)
 
 Use this source for specialist clinical-neurophysiology methods in functional motor disorders, including EEG–EMG assessment and jerk-locked back-averaging. Laboratory findings support clinical diagnosis; an absent Bereitschaftspotential does not exclude functional jerks.
@@ -531,6 +533,8 @@ Use this source for the five consensus diagnostic criteria for PPPD and for the 
 **Additional diagnostic uses:** [PPPD expansion source-use map](#pppd-diagnostic-expansion-source-use-map).
 
 ## FND-CIT-0028
+
+**Additional course use:** [Positive Signs and the Neurological Examination](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md).
 
 Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255)
 
@@ -1583,6 +1587,8 @@ Kramer G, Van der Stouwe AMM, Maurits NM, et al. Wavelet coherence analysis: A n
 **Diagnostic use:** [02-functional-tremor](../reference/diagnostic-signs/02-functional-tremor.md).
 
 ## FND-CIT-0183
+
+**Additional course use:** [Positive Signs and the Neurological Examination](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md).
 
 Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functional motor weakness: a review of validated techniques. *Journal of neurology*. 2025;272(6):427. [DOI](https://doi.org/10.1007/s00415-025-13139-4). [PMID: 40423819](https://pubmed.ncbi.nlm.nih.gov/40423819/).
 

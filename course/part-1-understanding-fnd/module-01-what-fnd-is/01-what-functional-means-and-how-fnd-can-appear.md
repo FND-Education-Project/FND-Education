@@ -4,7 +4,7 @@
 
 # What “Functional” Means and How FND Can Appear
 
-> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
+> **Working draft:** This page contains human authored and AI-assisted material and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
 
 Functional Neurological Disorder (FND) describes genuine neurological symptoms involving how the nervous system functions.
 

@@ -4,7 +4,7 @@
 [Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 1: What FND Is](README.md)
 <!-- NAV-BREADCRUMB:END -->
 
-> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Working draft:** This page contains human authored and AI-assisted material and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
 
 A short starting point for understanding what FND is, what **functional** means, what remission and recovery may mean, and how changing available capacity can guide early action.
 
