@@ -28,4 +28,9 @@ for stem in STEMS:
             xs = sorted(set(round(r.x0, 1) for r in group))
             ys = sorted(set(round(r.y0, 1) for r in group))
             print(f"  grid columns={len(xs)} rows={len(ys)} first-x={xs[:8]} first-y={ys[:8]}")
+        for img in page.get_images(full=True):
+            xref = img[0]
+            loc = page.get_image_rects(xref)
+            raw = doc.extract_image(xref)
+            print(f"  embedded image xref={xref} width={raw['width']} height={raw['height']} ext={raw['ext']} bytes={len(raw['image'])} placements={loc}")
         doc.close()
