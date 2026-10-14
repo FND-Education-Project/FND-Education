@@ -290,6 +290,13 @@ And if a flare happens despite your plan, that doesn't mean the plan was worthle
 
 Sometimes a plan can't stop a flare. It can still help keep you safer or make it easier to get help when you need it.
 
+
+### Optional learning activity
+
+**Available Capacity Crossword**
+
+[Normal version](../../../assets/puzzles/crosswords/Available-Capacity-crossword-10-2026.pdf) · [Easy version with a word bank](../../../assets/puzzles/crosswords/Available-Capacity-crossword-easy-10-2026.pdf) · [Answer key](../../../assets/puzzles/crosswords/Available-Capacity-crossword-answer-key-10-2026.pdf)
+
 ---
 
 [For the Person With FND](#for-the-person-with-fnd)<br>
