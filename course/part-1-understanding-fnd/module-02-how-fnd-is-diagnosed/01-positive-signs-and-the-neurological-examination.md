@@ -23,9 +23,11 @@ FND should not be diagnosed simply because a scan was normal or because no other
 The word **positive** has a special meaning here. It means the clinician has noticed a pattern that supports an FND diagnosis. You may also hear this called a **rule-in sign**.
 
 <figure class="image-60center" markdown="1">
+
 ![A clinician compares how the same function behaves in two suitable tasks. A meaningful difference may support FND and show how the nervous system can access the function.](../../../assets/illustrations/module-2-page-1-positive-signs.svg)
 
 <figcaption>Illustration: a positive sign is a pattern the clinician can observe. It can show that a function is available in some situations, even when the symptom remains involuntary.</figcaption>
+
 </figure>
 
 A neurological examination looks at how your body works in several situations. For example, a clinician may first ask you to make a movement on purpose. Then they may see what happens when the same muscles move more automatically, when your attention is on another task, or when you copy a rhythm.
