@@ -14,6 +14,8 @@ Never silently change, drop, renumber, or regenerate clues/answers to satisfy a 
 
 **Accessible digital option:** Put a PDF text field inside each writable grid square in the Normal and Easy editions, with **maximum length exactly one character**. Leave number labels visible and black/blocked squares non-editable. These PDFs should be usable on screen without printing. The completed answer-key PDF need not be interactive. Verify that a test entry can be typed, saved and reopened; PDF viewer support varies.
 
+**Keyboard movement:** Arrange form widgets in an **Across-first tab order**: every Across word follows left to right, then remaining Down-only cells. Set the page's PDF tab order to annotation order (`/Tabs /A`) and order the document's form-field references to match. A crossing square has only one form field, so a single linear sequence cannot also follow every Down answer. Readers may use the mouse/touch to navigate Down clues. Do not require PDF JavaScript for automatic focus changes: many browser PDF viewers do not support JavaScript-based auto-advance. Optional auto-advance may be considered only after compatibility testing.
+
 ## Preferred layout
 
 Use an extra-narrow print margin (roughly 0.25–0.35 in), but keep every printable element comfortably inside the page. **Aim for squares that are 14 PDF points high and wide**, measured from border to border, irrespective of the number of clues. Do not silently shrink grid squares below that target to force the page to fit; flag the crossword to the project lead if the clues cannot be kept readable with that grid size. Use closely spaced clue text and a thin vertical column divider. Scale the grid to the 14-point target and place it where the remaining clue text flows effectively.
