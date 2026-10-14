@@ -22,14 +22,6 @@ FND should not be diagnosed simply because a scan was normal or because no other
 
 The word **positive** has a special meaning here. It means the clinician has noticed a pattern that supports an FND diagnosis. You may also hear this called a **[rule-in sign](../../../glossary/README.md#positive-diagnosis--rule-in-diagnosis)**.
 
-<figure class="image-60center" markdown="1">
-
-![A clinician compares how the same function behaves in two suitable tasks. A meaningful difference may support FND and show how the nervous system can access the function.](../../../assets/illustrations/module-2-page-1-positive-signs.svg)
-
-<figcaption>Illustration: a positive sign is a pattern the clinician can observe. It can show that a function is available in some situations, even when the symptom remains involuntary.</figcaption>
-
-</figure>
-
 A neurological examination looks at how your body works in several situations. For example, a clinician may first ask you to make a movement on purpose. Then they may see what happens when the same muscles move more automatically, when your attention is on another task, or when you copy a rhythm.
 
 Each task gives one piece of information. The pattern across the tasks can help the clinician understand how your nervous system is working. (*citations* [1](#citation-1), [2](#citation-2))
@@ -37,6 +29,14 @@ Each task gives one piece of information. The pattern across the tasks can help 
 You may notice that a movement changes from one task to another. A leg that feels stuck during one task may move more freely during another. A tremor may change when the other hand follows a rhythm. Walking may become easier with a different direction or timing.
 
 These changes give useful information. They can show that your nervous system can still reach the function in some situations. The symptom is still real and involuntary, and this preserved ability may give treatment something to build on. (*citations* [1](#citation-1), [3](#citation-3))
+
+<figure class="image-60center" markdown="1">
+
+![Three scenes: a clinician observes a woman’s hand tremor, watches her reach for a bottle, and discusses the different movements with her.](../../../assets/images/lesson-5-illustration.png)
+
+<figcaption>Movement can change with the task. The clinician considers the pattern across the examination and explains what it may show.</figcaption>
+
+</figure>
 
 ### Some examples of positive signs
 
@@ -83,6 +83,17 @@ If your clinician showed you a positive sign, how would you explain what it show
 Write down or talk through the explanation in two parts: **the sign that was found** and **what the clinician believes it shows**. You can bring a note or ask someone to help you remember it at your next appointment. Ask for any part to be explained again.
 
 Use the positive sign as information from your clinician rather than as a test to repeat by yourself. Hoover’s sign, tremor tests, and other neurological tests need training and context to interpret. At home, focus on the strategies recommended by your care team and note any changes you want to discuss with them.
+
+### Optional learning activity
+
+Choose the preview to open the printable colouring PDF. Use landscape orientation and fit to page when printing. You can also browse the [puzzles collection](../../../assets/puzzles/README.md).
+
+<div class="puzzle-grid puzzle-grid-colouring">
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-5-coloring-book.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/colouring/lesson-5-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Positive signs — Colouring page <small>PDF</small></span>
+</a>
+</div>
 
 ---
 

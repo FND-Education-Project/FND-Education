@@ -118,9 +118,15 @@ Choose a preview to open the printable PDF. Select landscape orientation and fit
   <img src="{{ '/assets/puzzles/colouring/lesson-3-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Lesson 3: Recovery and everyday life <small>PDF</small></span>
 </a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-5-coloring-book.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/colouring/lesson-5-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Lesson 5 (Module 2, Lesson 1): Positive signs <small>PDF</small></span>
+</a>
 </div>
 
 These illustrations accompany [Lesson 1’s supporter examples](../../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md#for-family-friends-and-other-supporters), [Lesson 2’s explanation of the biopsychosocial model](../../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md#what-is-the-biopsychosocial-model), and [Lesson 3’s explanation of recovery](../../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md#what-does-recovery-mean).
+
+The positive-signs colouring page accompanies [Module 2, Lesson 1](../../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md).
 
 <!-- NAV-CONTEXT:START -->
 **Assets:** [Assets](../README.md) · [Course Asset Index](../asset-index.md)
