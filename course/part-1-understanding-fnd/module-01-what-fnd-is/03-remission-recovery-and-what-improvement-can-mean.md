@@ -147,11 +147,28 @@ You don't need to track it every day. It's simply a way to recognize something t
 
 ### Optional learning activities
 
-**Recovery Crossword**
+### Optional learning activity
 
-[Normal version](../../../assets/puzzles/crosswords/Recovery-crossword-09-2026.pdf) · [Easy version](../../../assets/puzzles/crosswords/Recovery-crossword-easy-09-2026.pdf) · [Answer key](../../../assets/puzzles/crosswords/Recovery-crossword-answer-key-09-2026.pdf)
+Choose a preview to open the printable PDF. These activities are optional.
 
-**Colouring page:** [Download the recovery and everyday-life illustration (PDF)](../../../assets/puzzles/colouring/lesson-3-coloring-book.pdf). Find more activities in the [puzzle collection](../../../assets/puzzles/README.md).
+<div class="puzzle-grid">
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Recovery-crossword-09-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Recovery-crossword-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Recovery — Normal <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Recovery-crossword--easy09-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Recovery-crossword--easy09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Recovery — Easy <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Recovery-crossword--answer-key09-2026.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/Recovery-crossword--answer-key09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Recovery — Answer key <small>PDF</small></span>
+</a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-3-coloring-book.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/colouring/lesson-3-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Recovery — Colouring page <small>PDF</small></span>
+</a>
+</div>
 
 ---
 
