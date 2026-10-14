@@ -7,7 +7,6 @@ unchanged; orders fields Across-first using contiguous horizontal runs.
 """
 from __future__ import annotations
 import argparse
-import base64
 import collections
 from io import BytesIO
 from pathlib import Path
@@ -146,7 +145,6 @@ def convert(source,destination,expected=None):
 def main():
     parser=argparse.ArgumentParser()
     parser.add_argument("--apply",action="store_true")
-    parser.add_argument("--emit-base64",action="store_true",help="Emit validated PDFs for publishing via GitHub blobs")
     args=parser.parse_args()
     with tempfile.TemporaryDirectory() as td:
         for stem in STEMS:
@@ -162,12 +160,6 @@ def main():
                 coords,n,pitch=convert(target,out,expected=shape)
                 if shape is None:shape=coords
                 print(f"{'APPLY' if args.apply else 'CHECK'} {target.name}: fields={n} side={pitch:.1f}pt pages=1 tab-order=Across-first size={out.stat().st_size}")
-                if args.emit_base64:
-                    encoded=base64.b64encode(out.read_bytes()).decode("ascii")
-                    print(f"===FND-PDF-BEGIN:{target.name}===")
-                    for i in range(0,len(encoded),1600):
-                        print(encoded[i:i+1600])
-                    print("===FND-PDF-END===")
                 if args.apply:
                     out.replace(target)
 if __name__=="__main__":main()
