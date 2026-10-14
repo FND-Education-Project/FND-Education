@@ -799,6 +799,90 @@ button:focus-visible {
 }
 
 
+
+/* Reader-facing Markdown illustration placements.
+   Authors may use image-60left, image-60right or image-60center on a
+   <figure markdown="1"> wrapper containing an image and caption.
+   The figure, including its caption, occupies 60% of the text area on
+   wider screens. Narrow screens always use full-width, unwrapped layout. */
+.course-content figure.image-60left,
+.course-content figure.image-60right,
+.course-content figure.image-60center {
+  box-sizing: border-box;
+  width: 60%;
+  max-width: 100%;
+}
+
+.course-content figure.image-60left {
+  float: left;
+  margin: 0.35rem 1.4rem 1.15rem 0;
+}
+
+.course-content figure.image-60right {
+  float: right;
+  margin: 0.35rem 0 1.15rem 1.4rem;
+}
+
+.course-content figure.image-60center {
+  float: none;
+  clear: both;
+  margin: 1.5rem auto;
+}
+
+.course-content figure.image-60left > p,
+.course-content figure.image-60right > p,
+.course-content figure.image-60center > p {
+  margin: 0;
+}
+
+.course-content figure.image-60left img,
+.course-content figure.image-60right img,
+.course-content figure.image-60center img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 0.5rem;
+}
+
+.course-content figure.image-60left figcaption,
+.course-content figure.image-60right figcaption,
+.course-content figure.image-60center figcaption {
+  font-size: 0.91rem;
+  font-style: italic;
+  line-height: 1.45;
+  color: var(--muted);
+}
+
+.course-content h2,
+.course-content h3,
+.course-content hr {
+  clear: both;
+}
+
+@media (max-width: 48rem) {
+  .course-content figure.image-60left,
+  .course-content figure.image-60right,
+  .course-content figure.image-60center {
+    float: none;
+    clear: both;
+    width: 100%;
+    margin: 1.5rem auto;
+  }
+}
+
+@media print {
+  .course-content figure.image-60left,
+  .course-content figure.image-60right,
+  .course-content figure.image-60center {
+    float: none;
+    clear: both;
+    width: 75%;
+    margin: 1rem auto;
+    break-inside: avoid;
+  }
+}
+
 /* ---------- Horizontal rules ---------- */
 
 .course-content hr {
