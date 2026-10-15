@@ -4,25 +4,35 @@
 
 # Tests, Diagnostic Uncertainty, and Coexisting Conditions
 
-> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Working draft:** This page contains human-authored and AI-assisted material and is looking for [contributors and reviewers](https://fndeducationproject.org/contact/).
 
 Tests can help answer medical questions, but they cannot diagnose FND simply by coming back normal. FND may also exist alongside another condition. This lesson explains what those facts mean for your diagnosis, what to do when questions remain and where to find details about tests for your particular symptoms.
 
 ---
+
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ---
 
 ## For the Person With FND
 {: #for-the-person-with-fnd .shareable }
 
+This part is written for you. Take it at your own pace. You can read one question, take a break and come back later. Each part makes sense on its own.
+
 ### What do test results tell me?
 
-Tests help your clinician answer particular medical questions. A normal result can make some explanations less likely. It **does not mean your symptoms are imaginary**, and it does not, by itself, prove that you have FND.
+Tests help your clinician answer specific medical questions. Your clinician is the doctor, nurse or other health professional who looks after your care.
 
-An FND diagnosis should be supported by recognizable features of your symptoms and examination. We introduced these **positive signs** in [Lesson 5: Positive Signs and the Neurological Examination](01-positive-signs-and-the-neurological-examination.md). Your clinician should be able to explain what supports your diagnosis. (*citations* [1](#citation-1), [2](#citation-2))
+Each test is chosen to check one particular thing. For example, a scan can show whether there are signs of a stroke.
+
+A normal result is useful information. It helps your care team set aside some other explanations and focus on what is really going on.
+
+Your symptoms are real, whatever a test shows. FND is recognized by what your clinician finds when they examine you, as well as by what tests show.
+
+An FND diagnosis is built on recognizable features of your symptoms and examination. These are called positive signs. We introduced them in [Lesson 5: Positive Signs and the Neurological Examination](01-positive-signs-and-the-neurological-examination.md). You can ask your clinician to show you which positive signs support your diagnosis. (*citations* [1](#citation-1), [2](#citation-2))
 
 <figure class="image-60center" markdown="1">
 
@@ -32,33 +42,72 @@ An FND diagnosis should be supported by recognizable features of your symptoms a
 
 </figure>
 
+*Each piece of information answers a different question. Together, they build the full picture.*
+
+- **Your story.** What you have noticed, when it started and how it changes from day to day. This is called your history, and it is one of the most important pieces.
+
+- **The examination.** What your clinician notices when they check how your body moves, feels and responds. This is where positive signs are found.
+
+- **Tests.** Answers to specific questions, such as what a scan or a blood test shows.
+
+- **Changes over time.** How your symptoms develop over weeks and months. This helps your care team keep the picture up to date.
+
+**Key idea: Tests answer specific questions. Positive signs show FND.**
+
 ### Can I have FND and another medical condition?
 
-**Yes.** A person can have FND alongside migraine, epilepsy or another health condition. One diagnosis does not mean every symptom must have the same explanation.
+Yes. You can have FND and another health condition at the same time, such as migraine or epilepsy.
 
-Finding another condition does not automatically mean the FND diagnosis was wrong. Equally, having FND should not prevent another condition from being recognized and treated. (*citations* [1](#citation-1), [3](#citation-3))
+Each symptom can have its own explanation, and your care team can look at each one on its own. Your FND diagnosis and another diagnosis can both be correct at the same time. Every condition you have deserves to be recognized and treated. (*citations* [1](#citation-1), [3](#citation-3))
+
+### More than one condition can be present
+
+*An FND diagnosis can sit alongside other diagnoses. Each condition deserves recognition and an appropriate care plan.*
+
+| Condition | What this means for you |
+| --- | --- |
+| POTS | POTS and FND can occur together. Symptoms related to standing deserve assessment for their own cause. How often the two coexist remains uncertain. |
+| ME/CFS | ME/CFS may coexist with FND. Tell your clinician about delayed or prolonged worsening after activity. There is no dependable overall percentage: studies of fatigue or “ME/CFS-like” symptoms do not necessarily establish ME/CFS. |
+| ADHD | ADHD can be present alongside FND. In one large health-record study, it was recorded in approximately 13% of adults and 21% of children with FND without recorded autism. |
+| Autism | Autistic people can also develop FND. A large health-record study found recorded autism in approximately 2% of people with FND; this does not include everyone whose autism remains unrecognised. |
+| PTSD | PTSD can coexist with FND and deserves support in its own right. A recent meta-analysis estimated PTSD in approximately 38% of people with functional seizures—a figure specific to that FND presentation. |
+| Migraine | Migraine is a distinct condition that can occur alongside FND. You can ask for a migraine treatment plan as well as your FND care plan. Approximately 32% of people with functional seizures had migraine in a systematic review. |
+
+**Key idea: Each condition you have deserves its own care. Your care team can plan for all of them together.**
 
 ### What if some questions remain unanswered?
 
-A clinician may be confident that you have FND while still investigating another symptom. Sometimes more time or information is needed before a question can be answered.
+Your clinician can be confident that you have FND while still checking another symptom. Some questions take more time or information to answer. Taking that time is part of good, careful care.
 
-**Uncertainty does not mean disbelief.** It is reasonable to ask what your care team knows, what remains uncertain and what they plan to do next.
+Open questions show that your care team is being careful and honest with you. You can ask them about three things:
+
+- “What do we know?” This is what your care team is confident about right now.
+
+- “What are we still finding out?” These are the questions that are still open.
+
+- “What happens next?” This is the plan, such as a test, an appointment or time to see how things change.
 
 ### When should I ask for another look?
 
-It is reasonable to request a clearer explanation or reassessment if you were never told what positive findings support your FND diagnosis, or if you develop new or substantially different symptoms.
+You can always ask for a clearer explanation or a fresh look at your diagnosis. Two times are especially good for asking:
 
-A second opinion may confirm your diagnosis, clarify an unanswered question or identify another condition. It does not automatically mean the first clinician was wrong.
+When you want to know what supports your diagnosis. Your clinician can explain which positive signs show FND, so the diagnosis makes sense to you.
+
+When something new or different happens. New symptoms, or symptoms that change a lot, are worth having checked.
+
+A second opinion gives you and your care team more information. It might confirm your diagnosis, answer an open question or find another condition that needs care. Every one of these outcomes helps you move forward.
 
 ### Where can I learn about tests for my symptoms?
 
-You do not need to learn about every scan or test in this lesson.
+This lesson gives you the big picture. You can learn about specific tests whenever you feel ready.
 
-In the [Reference Library, find your symptom](../../../reference/README.md#find-an-fnd-symptom) and follow **Understanding & Diagnosis** for explanations of the examinations and tests relevant to it.
+In the [Reference Library, find your symptom](../../../reference/README.md#find-an-fnd-symptom), then follow Understanding & Diagnosis. There you will find explanations of the examinations and tests for that symptom.
 
 For a broader explanation, see [What Tests and Investigations Can Tell Us](../../../reference/diagnostic-concepts/03-tests-and-investigations.md).
 
 ### Questions to reflect on
+
+Take your time with these. Any answer you have is a good starting point.
 
 Which part of the explanation for your diagnosis makes sense to you?
 
@@ -66,105 +115,162 @@ Is there one question you would still like your clinician to answer?
 
 ### One small step
 
-Write down **one question** to bring to your next appointment. For example: *“What findings support my FND diagnosis, and is there anything else we still need to check?”*
+Write down one question to bring to your next appointment. For example: “What findings support my FND diagnosis, and is there anything else we still need to check?”
 
-You do not need to interpret test results on your own. The aim is to understand your care, not become your own diagnostician.
+Your care team is there to explain test results with you. Your part is to understand your care and ask about anything you want to know.
 
-***
+---
+
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-When someone receives an FND diagnosis, they may leave an appointment with questions they could not think of at the time. Tests, unfamiliar words and changing symptoms can make the explanation difficult to remember.
+After an FND diagnosis, many people think of their most important questions only once the appointment is over. Tests, new words and changing symptoms are a lot to take in at once, and the details can be hard to hold on to afterwards.
 
-You can help them get the information they need **without taking over the appointment**.
+Supporters can make a real difference here. The most helpful support usually keeps the person with FND at the centre of their own care, with you alongside them.
 
 ### Before the appointment
 
-Ask whether the person would like you to come along, take notes or simply help prepare. They may prefer to go alone.
+People differ in the kind of support they want. Some like company at appointments. Some appreciate help with notes or preparation. Some prefer to go alone. Asking what they would like lets them shape the support around their own needs.
 
-Together, choose one or two questions that matter most to them. A short list is more manageable than a long medical history. If something is new or has changed, help describe **what changed and when**, without deciding what caused it.
+Appointments are often short. One or two questions that matter most to the person tend to receive fuller answers than a long list. If something is new or has changed, a clear description of what changed and when is especially valuable. Your observations give the clinician the details they need to work out the cause.
 
 ### During the appointment
 
-Let the person lead whenever they can. Ask permission before adding information or speaking for them.
+When the person leads the conversation, they build confidence and a clearer understanding of their own care. Many people appreciate being asked before someone adds information or speaks for them.
 
-If an explanation is unclear, these questions may help:
+When an explanation is unclear, certain questions tend to open up helpful conversations. Each one serves a different purpose.
 
-- **“What findings support the FND diagnosis?”**
-- **“What did this test tell us, and what could it not tell us?”**
-- **“Could another condition be contributing to these symptoms?”**
-- **“What changes should prompt another assessment, and whom should we contact?”**
+- “What findings support the FND diagnosis?” This invites the clinician to explain the positive signs they found, which helps the diagnosis make sense to everyone.
 
-There is no need to ask all four. Choose what fits the situation.
+- “What did this test tell us, and which questions are still open?” Each test is chosen to answer a specific question. Knowing its purpose makes the result easier to understand.
 
-If the answer is difficult to follow, you can ask the clinician to say it more simply or write down the main points. You may also offer a brief factual account of an episode you witnessed, if the person wants that and it is useful to the assessment.
+- “Could another condition be contributing to these symptoms?” FND can occur alongside other conditions. This question helps make sure each condition receives its own care.
+
+- “What changes should prompt another assessment, and whom should we contact?” This gives you both a clear plan and the confidence of knowing where to turn.
+
+One or two of these questions are usually plenty. Choosing the ones that fit the situation keeps the conversation focused.
+
+Clinicians are usually glad to say things more simply or write down the main points when asked. If you witnessed an episode, a brief factual description can be valuable to the assessment, especially when the person would like you to share it.
 
 ### After the appointment
 
-With the person's agreement, compare notes: **What has been established? What remains uncertain? What happens next?**
+Comparing notes afterwards, with the person's agreement, helps you both remember the same plan. Three questions give a useful structure: What has been established? What is still being explored? What happens next?
 
-Write down any follow-up tests or appointments, who is responsible for arranging them, and how to raise a new concern. If you are unsure of the plan, contacting the care team for clarification is reasonable.
+A written record of follow-up tests or appointments, who is arranging them and how to raise a new concern makes the next steps easier to follow. Care teams welcome questions, so contacting them to clarify the plan is a normal part of care.
 
-Another medical condition can exist alongside FND, but neither you nor the person need to prove that one is present to deserve an explanation. The goal is to understand the diagnosis, keep communication open and make sure new or substantially changed symptoms receive appropriate attention.
+Another medical condition can exist alongside FND. Everyone deserves a clear explanation of their diagnosis, whatever the full picture turns out to be. The shared goal is to understand the diagnosis, keep communication open and make sure new or substantially changed symptoms receive appropriate attention.
 
-**Useful support is helping someone ask their own questions and understand the answers—not deciding what the answers should be.**
+### Help communicate what matters
 
-***
+*Supporters can help describe changes and prepare questions, while clinicians assess the cause.*
+
+| What you notice | A useful way to help |
+| --- | --- |
+| Headaches or migraine episodes | Help describe their frequency, duration and effect on daily life. Ask: “Does migraine need its own treatment plan?” |
+| Different kinds of attacks or blackouts | Help describe how the episodes differ and follow the agreed safety plan. Ask: “Could these events have more than one cause?” |
+| Symptoms after standing or activity | Note when symptoms start, including any delayed worsening, and how long recovery takes. Ask: “Does this pattern need separate assessment?” |
+| A new or clearly different symptom | Help explain what has changed from the person’s usual pattern. Sudden stroke-like symptoms need emergency assessment, even when the person has FND. |
+
+These supporter prompts reflect the clinical guidance to consider coexisting conditions and assess new symptoms individually.
+
+Useful support helps someone ask their own questions, hear the answers and make sense of them in their own way.
+
+---
+
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Research quotations for review
-
-These short quotations are placed here so a reviewer can compare possible wording from the papers before choosing what, if anything, should remain in the finished page.
-
-**Option 1 — Bennett et al., 2021**
-
-> “Failure to consider comorbidity of another medical condition”
-
-**Option 2 — Espay et al., 2018**
-
-> “does not depend on excluding other disorders”
-
-**Option 3 — Tolchin et al., 2026**
-
-> “may obtain video-EEG of all typical seizure-like episodes where feasible.”
-
-*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))*
+This section looks at how tests, diagnostic certainty and coexisting conditions fit together in FND care. Each part builds on the one before, so reading it in order may be most useful.
 
 ### How often do neurological conditions coexist?
 
-Coexisting neurological disease is a documented clinical issue, not merely a theoretical possibility. The clearest numerical example concerns functional seizures. A systematic review and meta-analysis by Kutlubaev and colleagues (2018) reported **epilepsy in approximately 22% of people with psychogenic nonepileptic seizures (PNES, commonly called functional seizures)** across the included studies. Looking in the other direction, it reported **PNES in approximately 12% of people with epilepsy**. These percentages refer to *different starting populations*. (*citation* [5](#citation-5))
+Coexisting neurological disease is a well-documented part of FND care. Functional seizures offer the clearest numerical example.
 
-The underlying studies included selected clinical populations, often from epilepsy services, and their estimates varied. **These percentages must not be presented as the prevalence of other neurological diseases among everyone with FND**, or as the probability that a particular patient's episodes are epileptic. They support careful assessment of event types and other possible diagnoses, rather than assuming one diagnosis accounts for every symptom.
+A systematic review and meta-analysis by Kutlubaev and colleagues (2018) looked at this overlap from both directions. Among people with psychogenic nonepileptic seizures (PNES, commonly called functional seizures), approximately 22% also had epilepsy. Among people with epilepsy, approximately 12% also had PNES. (*citation* [5](#citation-5))
 
-**How can clinicians explain testing without reducing FND to normal results?** State the positive basis for the FND diagnosis separately from the purpose and result of each investigation. “The MRI did not show a stroke” and “the examination showed a positive functional sign” are different statements. Explain what was reasonably excluded, what was not tested and why further testing is or is not likely to help. (*citations* [1](#citation-1), [2](#citation-2))
+Because the two figures come from different starting populations, each answers a different question. The included studies mostly drew on selected clinical groups, often from epilepsy services, and their estimates varied. The figures describe those groups as a whole, rather than everyone with FND or the likelihood for an individual patient. Their real value lies in encouraging careful assessment of each event type, with room for more than one diagnosis to explain a person's symptoms.
 
-**How should investigations be selected?** Begin with the actual phenotype, time course, examination and relevant red flags. Use imaging, laboratory testing, neurophysiology, EEG, video-EEG, cardiac assessment, sleep evaluation or other specialist input to answer defined questions. Avoid both indiscriminate investigation and premature closure. An incidental abnormality should not automatically be treated as causal, while a normal result should not be presented as positive evidence of FND.
+### Similar symptoms, potentially different treatment
 
-For seizure-like events, obtain a detailed history and semiology from the patient and witnesses. Review available recordings when appropriate and consider video-EEG of typical event types where feasible. The meaning of a scalp EEG depends on whether a typical event was captured, the event’s suspected origin and the technical quality of the recording. Evaluate for co-occurring epilepsy and other relevant conditions rather than assuming all events share one cause. (*citations* [3](#citation-3))
+*Conditions that may resemble or coexist with FND. Assess which condition explains each presentation and treat each identified condition appropriately.*
 
-**How can clinicians communicate diagnostic certainty and overlap?** Distinguish a confirmed diagnosis, a probable working diagnosis and an unresolved differential. Document which positive signs support FND, which alternatives were considered, which conditions may coexist and what evidence would change the formulation. Make the explanation available to the patient and other clinicians so that every later symptom is not forced through either an “all functional” or an “all structural” interpretation.
+| Condition | Why consider it—and a simple frequency estimate |
+| --- | --- |
+| Migraine | Aura can involve visual, sensory, speech or motor symptoms. Migraine warrants its own assessment and treatment alongside FND. Approximately 32% of patients with functional seizures had migraine in a systematic review. |
+| Epilepsy | Epileptic and functional seizures can occur in the same person, requiring different management. Approximately 22% of patients with functional seizures also had epilepsy in a meta-analysis. |
+| Stroke | Sudden weakness, sensory loss or speech disturbance requires assessment on its own merits, including in someone with established FND. Functional presentations account for approximately 2% of suspected strokes; this measures diagnostic resemblance, not stroke prevalence in FND. |
+| Multiple sclerosis | Weakness, sensory changes and walking difficulties can overlap with FND. Both diagnoses may be present: MS occurred in approximately 1.5% of one adult motor-FND registry. |
+| Parkinson’s disease/parkinsonism | Tremor, slowness and gait changes may require assessment for both functional and other movement disorders. Parkinson’s disease/parkinsonism occurred in approximately 1.3% of that registry. |
+| Syncope | Fainting may resemble functional attacks and can coexist with them. Identifying the cause guides treatment. A dependable overall coexistence percentage is unavailable. |
 
-**When should the diagnosis be reviewed?** Arrange reassessment for new focal findings, a materially different episode, progressive loss of previously stable abilities, injury, abnormal objective findings or a course that no longer fits the original formulation. Review is also appropriate when the original diagnosis relied only on exclusion or when the patient never received an understandable explanation of its positive basis. The goal is not endless retesting; it is a proportionate plan that protects against missed comorbidity and unnecessary investigation.
+Figures come from different populations; the motor-FND registry included 466 adults.
 
-***
+### How can test results and the positive diagnosis be explained together?
+
+Patients often hear their test results and their FND diagnosis in the same conversation, so the two can easily blur together. Presenting them as separate pieces of information helps each one make sense.
+
+For example, “The MRI showed no sign of a stroke” and “The examination showed a positive functional sign” answer different questions. The first describes what an investigation clarified. The second describes the evidence for FND. (*citations* [1](#citation-1), [2](#citation-2))
+
+This distinction reflects FND's standing as a positive diagnosis. Espay and colleagues capture the principle in a single phrase:
+
+> “…does not depend on excluding other disorders.”
+
+*— Espay et al., 2018 [2](#citation-2)*
+
+Patients also benefit from hearing what each test was able to clarify, which questions remain open and how much further testing is likely to add. This gives them a realistic picture of what investigations can offer.
+
+### How are investigations best selected?
+
+Investigations are most informative when each one answers a defined clinical question. The starting point is the person's actual presentation: the phenotype, time course, examination findings and any relevant red flags.
+
+From there, imaging, laboratory testing, neurophysiology, EEG, video-EEG, cardiac assessment, sleep evaluation or other specialist input can each be matched to a specific question. This proportionate approach keeps the differential open long enough to be thorough, while sparing the patient investigations unlikely to change their care.
+
+Results also benefit from careful interpretation. An incidental abnormality is best weighed for whether it truly explains the symptoms before it is treated as causal.
+
+For seizure-like events, a detailed history and semiology from the patient and witnesses form the foundation. Reviewing available recordings adds further detail, and video-EEG of typical event types is valuable where feasible.
+
+The meaning of a scalp EEG depends on three things: whether a typical event was captured, the event's suspected origin and the technical quality of the recording.
+
+Because epilepsy and functional seizures can occur in the same person, each event type benefits from its own evaluation, along with assessment for other relevant conditions. (*citation* [3](#citation-3))
+
+### How can diagnostic certainty and overlap be communicated?
+
+Diagnoses carry different levels of certainty, and naming the level helps everyone understand where things stand. A confirmed diagnosis, a probable working diagnosis and an unresolved differential each call for a different conversation.
+
+Clear documentation supports continuity of care. Useful elements include the positive signs supporting FND, the alternatives considered, any conditions that may coexist and the evidence that would change the formulation.
+
+Sharing this explanation with the patient and other clinicians gives each later symptom an open assessment on its own merits, free from an assumed “all functional” or “all structural” interpretation.
+
+### When should the diagnosis be reviewed?
+
+Reassessment is valuable when the clinical picture changes. Signals include new focal findings, a materially different episode, progressive loss of previously stable abilities, injury, abnormal objective findings or a course that no longer fits the original formulation.
+
+Review is also helpful when the original diagnosis rested on exclusion alone, or when the patient has yet to receive an understandable explanation of its positive basis.
+
+The aim throughout is a proportionate plan: one that stays alert to coexisting conditions while keeping each investigation purposeful.
+
+---
+
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+
+---
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next module: What May Cause or Affect FND?](../module-03-causes-mechanisms-and-honest-uncertainty/README.md)
@@ -172,25 +278,27 @@ For seizure-like events, obtain a detailed history and semiology from the patien
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
-***
+---
 
 ## Research and Sources
+{: #research-and-sources .shareable }
 
 ### What this evidence can and cannot establish
 
-Bennett and Espay support a positive FND diagnosis while warning against exclusion-only reasoning and missed comorbidity. Kutlubaev and colleagues provide group-level estimates of epilepsy and functional-seizure coexistence; the percentages apply to the specific populations studied and are not FND-wide prevalence figures. (*citation* [5](#citation-5)) The Tolchin guideline applies specifically to functional seizures: it supports history, semiology, appropriate use of video-EEG and assessment for co-occurring epilepsy. It should not be generalized to every FND symptom or treated as a requirement that video-EEG is always possible. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+Bennett and Espay support a positive FND diagnosis while warning against exclusion-only reasoning and missed comorbidity. Kutlubaev and colleagues provide group-level estimates of epilepsy and functional-seizure coexistence; the percentages apply to the specific populations studied and are not FND-wide prevalence figures. (*citation* [5](#citation-5))
+
+The Tolchin guideline applies specifically to functional seizures: it supports history, semiology, appropriate use of video-EEG and assessment for co-occurring epilepsy. It should not be generalized to every FND symptom or treated as a requirement that video-EEG is always possible. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ### Citation table
 
-| Citation | Figure | Full citation |
-|---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
-| <a id="citation-3"></a>**[3]** | Figure 1 | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
-| <a id="citation-4"></a>**[4]** | — | Whitehead K, Kane N, Wardrope A, Kandler R, Reuber M. Proposal for best practice in the use of video-EEG when psychogenic non-epileptic seizures are a possible diagnosis. *Clinical Neurophysiology Practice*. 2017;2:130–139. [FND-CIT-0233](../../../research/citation-index.md#fnd-cit-0233). [DOI](https://doi.org/10.1016/j.cnp.2017.06.002). |
-
-| <a id="citation-5"></a>**[5]** | — | Kutlubaev MA, Xu Y, Hackett ML, Stone J. Dual diagnosis of epilepsy and psychogenic nonepileptic seizures: systematic review and meta-analysis of frequency, correlates, and outcomes. *Epilepsy & Behavior*. 2018;89:70–78. [FND-CIT-0274](../../../research/citation-index.md#fnd-cit-0274). [DOI](https://doi.org/10.1016/j.yebeh.2018.10.010). |
+| Citation | Full citation |
+| --- | --- |
+| <a id="citation-1"></a>**[1]** | Bennett K, Diamond C, Hoeritzauer I, et al. A practical review of functional neurological disorder (FND) for the general physician. Clinical Medicine. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001) · [DOI](https://doi.org/10.7861/clinmed.2020-0987). |
+| <a id="citation-2"></a>**[2]** | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. JAMA Neurology. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002) · [DOI](https://doi.org/10.1001/jamaneurol.2018.1264). |
+| <a id="citation-3"></a>**[3]** | Tolchin B, Goldstein LH, Reuber M, et al. Management of Functional Seizures Practice Guideline Executive Summary. Neurology. 2026;106(1). [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010) · [DOI](https://doi.org/10.1212/WNL.0000000000214466). |
+| <a id="citation-4"></a>**[4]** | Whitehead K, Kane N, Wardrope A, Kandler R, Reuber M. Proposal for best practice in the use of video-EEG when psychogenic non-epileptic seizures are a possible diagnosis. Clinical Neurophysiology Practice. 2017;2:130–139. [FND-CIT-0233](../../../research/citation-index.md#fnd-cit-0233) · [DOI](https://doi.org/10.1016/j.cnp.2017.06.002). |
+| <a id="citation-5"></a>**[5]** | Kutlubaev MA, Xu Y, Hackett ML, Stone J. Dual diagnosis of epilepsy and psychogenic nonepileptic seizures: systematic review and meta-analysis of frequency, correlates, and outcomes. Epilepsy & Behavior. 2018;89:70–78. [FND-CIT-0274](../../../research/citation-index.md#fnd-cit-0274) · [DOI](https://doi.org/10.1016/j.yebeh.2018.10.010). |
 
 This page still needs review by people with FND, supporters and clinicians, including clinicians experienced in neurological diagnosis and seizure assessment.
 
-*Draft rewritten: August 24, 2026 · Research and quotation package expanded September 4, 2026 · Clinical review pending*
+*Clinical review pending. The quoted passages and new statistical citation remain subject to Work's source verification.*
