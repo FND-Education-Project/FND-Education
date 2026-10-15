@@ -6,7 +6,7 @@
 
 > **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
 
-Tests are important, but no test answers every question. A scan, blood test, electroencephalogram or specialist assessment is useful when it is chosen to investigate a particular possibility. This page explains why normal results do not diagnose FND on their own, why another condition can exist alongside FND, and when it may be reasonable to revisit a diagnosis.
+Tests can help answer medical questions, but they cannot diagnose FND simply by coming back normal. FND may also exist alongside another condition. This lesson explains what those facts mean for your diagnosis, what to do when questions remain and where to find details about tests for your particular symptoms.
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -18,72 +18,57 @@ Tests are important, but no test answers every question. A scan, blood test, ele
 ## For the Person With FND
 {: #for-the-person-with-fnd .shareable }
 
-A common description of the diagnostic process is, “All my tests were normal, so they said it was FND.” That explanation is incomplete. Normal test results may make some other diagnoses less likely, but they do not themselves show that a symptom is functional. The evidence for FND should come from positive features in the history, examination or nature of an event. (*citations* [1](#citation-1), [2](#citation-2))
+### What do test results tell me?
 
-![History, examination, suitable tests and change over time are separate pieces in an individual assessment. FND and another condition may coexist.](../../../assets/illustrations/module-2-page-2-evidence-pieces.svg)
+Tests help your clinician answer particular medical questions. A normal result can make some explanations less likely. It **does not mean your symptoms are imaginary**, and it does not, by itself, prove that you have FND.
 
-*Illustration: each piece of evidence answers a limited question. No single result explains the whole illness.*
+An FND diagnosis should be supported by recognizable features of your symptoms and examination. We introduced these **positive signs** in [Lesson 5: Positive Signs and the Neurological Examination](01-positive-signs-and-the-neurological-examination.md). Your clinician should be able to explain what supports your diagnosis. (*citations* [1](#citation-1), [2](#citation-2))
 
-### Each test asks a limited question
+<figure class="image-60center" markdown="1">
 
-**CT and MRI scans** show certain kinds of structure in the brain, spinal cord or other parts of the body. Depending on the scan and the reason it was ordered, they may help identify conditions such as a stroke, tumour, inflammation, compression or injury. A normal scan means that the particular study did not show the changes it was designed to find. It does not prove that every part of the nervous system is healthy, explain how every symptom is produced, or rule FND in.
+![Different pieces of information, including the person's history, examination, tests and changes over time, contribute to understanding a diagnosis.](../../../assets/illustrations/module-2-page-2-evidence-pieces.svg)
 
-**Laboratory tests** may look for infection, inflammation, nutritional problems, hormone changes, medication effects or other causes suggested by the person’s symptoms. **Neurophysiology tests**, such as nerve-conduction studies or electromyography, examine particular aspects of nerve and muscle function. Again, the result answers the question the test was capable of asking; it is not a verdict on the person’s entire illness.
+<figcaption>Each piece of information can answer a different question. No single result tells the whole story.</figcaption>
 
-**Electroencephalography (EEG)** records electrical activity from the brain using electrodes on the scalp. A routine EEG is a short sample. A normal routine EEG between episodes does not exclude epilepsy, and an abnormal EEG does not automatically explain every kind of episode a person has. (*citation* [4](#citation-4))
+</figure>
 
-**Video-EEG** records behaviour and brain electrical activity together. When a person’s usual event is captured, specialists can compare what is visible with the EEG record. This can provide the highest level of diagnostic certainty for many seizure-like events. However, some epileptic seizures show no clear change on scalp EEG, so clinicians must consider the recording together with what happened during the event. (*citation* [4](#citation-4)) If a person has more than one kind of episode, capturing one type may not establish what the other types are. Current guidance also recommends evaluating people diagnosed with functional seizures for coexisting epilepsy. (*citations* [3](#citation-3))
+### Can I have FND and another medical condition?
 
-**Recorded home events** can sometimes help a clinician understand timing, movement, responsiveness and recovery. A recording is supporting information, not a diagnosis by itself. Safety and care come first: no one should provoke an episode, delay urgent help or place the person at risk in order to obtain a video.
+**Yes.** A person can have FND alongside migraine, epilepsy or another health condition. One diagnosis does not mean every symptom must have the same explanation.
 
-### More than one diagnosis can be true
+Finding another condition does not automatically mean the FND diagnosis was wrong. Equally, having FND should not prevent another condition from being recognized and treated. (*citations* [1](#citation-1), [3](#citation-3))
 
-Having FND does not protect a person from migraine, epilepsy, stroke, multiple sclerosis, Parkinson’s disease, a spinal problem, a sleep disorder, medication effects or other medical conditions. Sometimes another illness contributes to the same symptom; sometimes it produces a different symptom; and sometimes it may have helped trigger a functional symptom. Researchers and clinical guidance repeatedly warn against assuming that one diagnosis must explain everything. (*citations* [1](#citation-1), [3](#citation-3))
+### What if some questions remain unanswered?
 
-The term **dual diagnosis** is often used when FND and another neurological condition are both present. **Differential diagnosis** means the set of possible explanations a clinician is considering for a particular symptom. The differential for a new seizure-like event is not the same as the differential for weakness, dizziness, memory difficulty or loss of vision.
+A clinician may be confident that you have FND while still investigating another symptom. Sometimes more time or information is needed before a question can be answered.
 
-### Uncertainty is not the same as disbelief
+**Uncertainty does not mean disbelief.** It is reasonable to ask what your care team knows, what remains uncertain and what they plan to do next.
 
-Sometimes the evidence is strong enough for a clear FND diagnosis while another question remains uncertain. At other times, the clinician may have a working diagnosis that needs more observation or testing. A useful explanation says what is known, what is suspected, what has been ruled out with reasonable confidence and what change would require another assessment.
+### When should I ask for another look?
 
-It may be reasonable to request clarification, reassessment or another opinion when:
+It is reasonable to request a clearer explanation or reassessment if you were never told what positive findings support your FND diagnosis, or if you develop new or substantially different symptoms.
 
-- no one has explained the positive evidence for the FND diagnosis;
-- different clinicians have given incompatible explanations;
-- the diagnosis depends only on normal tests or a history of stress;
-- an episode type has not been adequately distinguished from epilepsy, syncope, migraine, a sleep event or another relevant condition;
-- objective findings do not fit the current explanation; or
-- a symptom is new, substantially changed, progressively worsening or accompanied by a new medical concern.
+A second opinion may confirm your diagnosis, clarify an unanswered question or identify another condition. It does not automatically mean the first clinician was wrong.
 
-A second opinion does not automatically mean the first diagnosis was wrong. It may confirm the diagnosis, identify a coexisting condition or make the remaining uncertainty clearer.
+### Where can I learn about tests for my symptoms?
 
-### Community experiences for review
+You do not need to learn about every scan or test in this lesson.
 
-These are two candidate lived-experience quotations from the project’s community collection. They show why reassessment and coexisting diagnoses matter; neither account tells another person what diagnosis or treatment they need.
+In the [Reference Library, find your symptom](../../../reference/README.md#find-an-fnd-symptom) and follow **Understanding & Diagnosis** for explanations of the examinations and tests relevant to it.
 
-**Option 1 — another cause of light sensitivity was found**
+For a broader explanation, see [What Tests and Investigations Can Tell Us](../../../reference/diagnostic-concepts/03-tests-and-investigations.md).
 
-> “He gave me steroid droplets ... and since then my light sensitivity is gone.”
+### Questions to reflect on
 
-— The writer said an eye doctor found a severe pollen reaction after the symptom had been attributed to FND. This supports reassessment, not steroid treatment for functional visual symptoms. [Read the public source](https://www.reddit.com/r/FND/comments/1ievray/sharing_my_success_story/).
+Which part of the explanation for your diagnosis makes sense to you?
 
-**Option 2 — a later binocular-vision diagnosis**
+Is there one question you would still like your clinician to answer?
 
-> “For 15 years, I was prescribed the wrong prescription glasses.”
+### One small step
 
-— The writer later reported a binocular-vision diagnosis that ordinary eye examinations had not identified. [Read the public source](https://www.reddit.com/r/FND/comments/1j02io8/why_do_i_get_sizures_from_eye_movements/).
+Write down **one question** to bring to your next appointment. For example: *“What findings support my FND diagnosis, and is there anything else we still need to check?”*
 
-### Questions
-
-#### Which parts of your diagnosis are clear to you, and which parts still feel uncertain or unexplained?
-
-#### When you think about your test results, can you separate what they ruled out from the positive evidence that supports your FND diagnosis?
-
-### What can the person safely try at home?
-
-Make a short diagnostic record with four headings: **symptom or event**, **positive evidence**, **tests and what they answered**, and **questions still open**. This may help you and your clinicians see where the explanation is clear and where follow-up is needed.
-
-If writing the full record is too much, begin with one sentence: “The part of my diagnosis I most need explained is…” This exercise is for organizing information. It is not a way to interpret scans, EEGs or laboratory results without a qualified clinician.
+You do not need to interpret test results on your own. The aim is to understand your care, not become your own diagnostician.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
