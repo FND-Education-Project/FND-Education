@@ -8,6 +8,8 @@ These printable puzzles connect to different course pages and provide a lighter 
 
 The collection includes crosswords and colouring pages. Other activity formats may be added later.
 
+<span id="puzzle-navigation"></span>
+
 [Crosswords](#crosswords) · [Colouring pages](#colouring-pages) · [Course](../../course/README.md)
 
 **Jump to a crossword:** [What is FND?](#what-is-fnd) · [Biopsychosocial What?](#biopsychosocial-what) · [Recovery](#recovery) · [Available Capacity](#available-capacity) · [Module 1 review](#module-1-review-crossword)
@@ -134,7 +136,7 @@ These illustrations accompany [Lesson 1’s supporter examples](../../course/par
 
 The positive-signs colouring page accompanies [Module 2, Lesson 1](../../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md).
 
-[Back to top](#course-puzzles) · [Browse the course](../../course/README.md)
+[Back to puzzle navigation](#puzzle-navigation) · [Browse the course](../../course/README.md)
 
 <!-- NAV-CONTEXT:START -->
 **Assets:** [Assets](../README.md) · [Course Asset Index](../asset-index.md)
