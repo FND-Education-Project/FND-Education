@@ -109,6 +109,7 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0098](#fnd-cit-0098) | Stone J | Specialist patient guidance | functional seizures; evidence limits | [Seizure recovery overview](../reference/recovery-techniques/06-functional-seizures.md); [Individualized Episode Safety Plan](../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md); [Warning and Pattern Mapping](../reference/recovery-techniques/functional_seizures/03-warning-and-pattern-mapping.md); [Sensory Grounding and an Attention Anchor](../reference/recovery-techniques/functional_seizures/04-sensory-grounding-and-attention-anchor.md); [Supporter Response Rehearsal](../reference/recovery-techniques/functional_seizures/11-supporter-response-rehearsal.md) |
 | [FND-CIT-0099](#fnd-cit-0099) | Fobian AD, Long DM, Szaflarski JP | Paediatric pilot randomized trial | functional seizures; evidence limits | [Seizure recovery overview](../reference/recovery-techniques/06-functional-seizures.md); [ReACT for Children and Adolescents](../reference/recovery-techniques/functional_seizures/06-react-for-children-and-adolescents.md) |
 | [FND-CIT-0100](#fnd-cit-0100) | Watson C, Stager L, Valaiyapathi B, Goodin BR, Szaflarski JP, Fobian AD | Prospective observational study | functional seizures; evidence limits | [Seizure recovery overview](../reference/recovery-techniques/06-functional-seizures.md); [ReACT for Children and Adolescents](../reference/recovery-techniques/functional_seizures/06-react-for-children-and-adolescents.md) |
+| [FND-CIT-0274](#fnd-cit-0274) | Kutlubaev et al., 2018 | Systematic review and meta-analysis | dual diagnosis, functional seizures and epilepsy; selected clinical populations | [diagnostic uncertainty](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md) |
 
 | [FND-CIT-0101](#fnd-cit-0101) | NHS | General first-aid guidance | seizure safety; adjacent guidance | [06-functional-seizures](../reference/recovery-techniques/06-functional-seizures.md); [02-individualized-episode-safety-plan](../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md); [11-supporter-response-rehearsal](../reference/recovery-techniques/functional_seizures/11-supporter-response-rehearsal.md); [12-recovery-cluster-and-flare-planning](../reference/recovery-techniques/functional_seizures/12-recovery-cluster-and-flare-planning.md) |
 
@@ -2602,6 +2603,14 @@ Manford E, Garg A, Manford M. Drop attacks: a practical guide. *Practical Neurol
 Gary JB, Shaw JS, McGuire JF. A systematic review to characterize functional tic-like behaviors. *Frontiers in Child and Adolescent Psychiatry*. 2026;5:1936806. DOI: 10.3389/frcha.2026.1936806.
 
 **Type and scope:** Systematic narrative synthesis of heterogeneous functional tic-like symptom studies. Public citations remain plain text under the evidence-presentation policy.
+
+## FND-CIT-0274
+
+Kutlubaev MA, Xu Y, Hackett ML, Stone J. Dual diagnosis of epilepsy and psychogenic nonepileptic seizures: systematic review and meta-analysis of frequency, correlates, and outcomes. *Epilepsy & Behavior*. 2018;89:70–78. [DOI](https://doi.org/10.1016/j.yebeh.2018.10.010).
+
+**Type and scope:** Systematic review and meta-analysis of epilepsy and PNES/functional-seizure coexistence. Reports estimates of approximately 22% epilepsy among PNES patients and 12% PNES among epilepsy patients, in different study populations. Heterogeneous, often specialist-service studies; these are **not prevalence estimates for all FND** or individualized diagnostic probabilities. Source details and exact numerators/denominators require full-text verification in the next Work research audit.
+
+**Current use:** [Module 2 — Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
 
 ## Final three diagnostic evidence reviews — October 12, 2026
 
