@@ -337,6 +337,19 @@ The named gait transformations come mainly from functional-motor consensus and s
 | [Mobility aids, guarding and fall planning](../reference/recovery-techniques/functional_gait_disorder/12-mobility-aids-guarding-and-fall-planning.md) | [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0085](#fnd-cit-0085) |
 | [Individualized FND-informed rehabilitation and relapse planning](../reference/recovery-techniques/functional_gait_disorder/13-individualized-rehabilitation-and-relapse-planning.md) | [FND-CIT-0094](#fnd-cit-0094), [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0029](#fnd-cit-0029), [FND-CIT-0030](#fnd-cit-0030) |
 
+
+### Lesson 6 sources added October 15, 2026
+
+| Stable ID | Source | Scope | Current use |
+|---|---|---|---|
+| [FND-CIT-0275](#fnd-cit-0275) | Nagata R, Matsuura E, Nozuma S, et al | Documented POTS coexistence in a selected cohort; not general prevalence. | [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md) |
+| [FND-CIT-0276](#fnd-cit-0276) | Gaber TAZK, Shippen C, Jones F | ME/CFS-like symptoms versus formal diagnosis; no reliable general coexistence estimate. | [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md) |
+| [FND-CIT-0277](#fnd-cit-0277) | Smythe L, Asan L, Nicholson TR, Happé F, Edwards MJ | Recorded autism and age-restricted ADHD comorbidity; cumulative health-record diagnoses. | [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md) |
+| [FND-CIT-0278](#fnd-cit-0278) | Nicholson D, Gaskell C, Rawlings GH, et al | PTSD estimate in functional seizures; ascertainment includes screening, interviews and records. | [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md) |
+| [FND-CIT-0279](#fnd-cit-0279) | Kyrgyzbay G, Kalinina D, Akhmedullin R, et al | Aggregate migraine proportion in functional seizures; ascertainment varies across studies. | [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md) |
+| [FND-CIT-0280](#fnd-cit-0280) | Jones AT, O’Connell NK, David AS | Functional presentations among suspected strokes, not stroke prevalence in FND. | [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md) |
+| [FND-CIT-0281](#fnd-cit-0281) | Nisticò V, Demartini B, et al | Table 1: MS and Parkinson’s disease/parkinsonism in 466 adults with motor FND. | [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md) |
+
 ## FND-CIT-0001
 
 Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987)
@@ -1941,6 +1954,8 @@ ME/CFS guideline: energy management is not a cure; fixed incremental exercise pr
 
 **Additional current use — functional drop attacks:** [Returning to Activities With the Right Support](../reference/recovery-techniques/functional_drop_attacks/06-supported-return-to-activity.md).
 
+**Additional current use:** [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
+
 ## FND-CIT-0207
 
 Edinger JD, Arnedt JT, Bertisch SM, et al. Behavioral and psychological treatments for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline. *J Clin Sleep Med*. 2021;17:255–262. [doi:10.5664/jcsm.8986](https://doi.org/10.5664/jcsm.8986).
@@ -2608,7 +2623,7 @@ Gary JB, Shaw JS, McGuire JF. A systematic review to characterize functional tic
 
 Kutlubaev MA, Xu Y, Hackett ML, Stone J. Dual diagnosis of epilepsy and psychogenic nonepileptic seizures: systematic review and meta-analysis of frequency, correlates, and outcomes. *Epilepsy & Behavior*. 2018;89:70–78. [DOI](https://doi.org/10.1016/j.yebeh.2018.10.010).
 
-**Type and scope:** Systematic review and meta-analysis of epilepsy and PNES/functional-seizure coexistence. Reports estimates of approximately 22% epilepsy among PNES patients and 12% PNES among epilepsy patients, in different study populations. Heterogeneous, often specialist-service studies; these are **not prevalence estimates for all FND** or individualized diagnostic probabilities. Source details and exact numerators/denominators require full-text verification in the next Work research audit.
+**Type and scope:** Systematic review and meta-analysis of epilepsy and PNES/functional-seizure coexistence. Reports estimates of approximately 22% epilepsy among PNES patients and 12% PNES among epilepsy patients, in different study populations. Heterogeneous, often specialist-service studies; these are **not prevalence estimates for all FND** or individualized diagnostic probabilities. Numerical estimates and bibliography checked against the original indexed abstract on October 15, 2026; detailed access limits are recorded in the internal Lesson 6 audit.
 
 **Current use:** [Module 2 — Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
 
@@ -2622,3 +2637,59 @@ The paralysis pages now use the existing contemporary technique review (0183). S
 | FND-CIT-0272 | [diagnostic-signs/16-functional-drop-attacks.md](../reference/diagnostic-signs/16-functional-drop-attacks.md) · [functional_drop_attacks/01-event-reconstruction.md](../reference/diagnostic-signs/functional_drop_attacks/01-event-reconstruction.md) · [functional_drop_attacks/technique-inventory.md](../reference/diagnostic-signs/functional_drop_attacks/technique-inventory.md) · [functional_drop_attacks/02-differential-assessment.md](../reference/diagnostic-signs/functional_drop_attacks/02-differential-assessment.md) |
 | FND-CIT-0264 | [functional_tics/technique-inventory.md](../reference/diagnostic-signs/functional_tics/technique-inventory.md) |
 | FND-CIT-0273 | [diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md](../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [functional_tics/02-criteria-and-diagnostic-uncertainty.md](../reference/diagnostic-signs/functional_tics/02-criteria-and-diagnostic-uncertainty.md) · [functional_tics/technique-inventory.md](../reference/diagnostic-signs/functional_tics/technique-inventory.md) |
+
+## FND-CIT-0275
+
+Nagata R, Matsuura E, Nozuma S, et al. Anti-ganglionic acetylcholine receptor antibodies in functional neurological symptom disorder/conversion disorder. *Frontiers in Neurology*. 2023;14:1137958. [DOI](https://doi.org/10.3389/fneur.2023.1137958).
+
+**Type and scope:** Documented POTS coexistence in a selected cohort; not general prevalence.
+
+**Current use:** [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
+
+## FND-CIT-0276
+
+Gaber TAZK, Shippen C, Jones F. Temporal Sequence of Onset: ME/CFS-like Fatigue and Functional Neurological Disorder. *Advances in Rehabilitation Science and Practice*. 2026. [DOI](https://doi.org/10.1177/27536351261496336).
+
+**Type and scope:** ME/CFS-like symptoms versus formal diagnosis; no reliable general coexistence estimate.
+
+**Current use:** [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
+
+## FND-CIT-0277
+
+Smythe L, Asan L, Nicholson TR, Happé F, Edwards MJ. Co-occurring functional neurological disorder and autism: an exploratory study of comorbidities in a retrospective cohort study using TriNetX. *Journal of Neurology*. 2025;272:653. [DOI](https://doi.org/10.1007/s00415-025-13385-6).
+
+**Type and scope:** Recorded autism and age-restricted ADHD comorbidity; cumulative health-record diagnoses.
+
+**Current use:** [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
+
+## FND-CIT-0278
+
+Nicholson D, Gaskell C, Rawlings GH, et al. The prevalence of post-traumatic stress disorder in functional / dissociative seizures: A systematic review and meta-analysis. *Seizure*. 2026;141:223–232. [DOI](https://doi.org/10.1016/j.seizure.2026.07.027).
+
+**Type and scope:** PTSD estimate in functional seizures; ascertainment includes screening, interviews and records.
+
+**Current use:** [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
+
+## FND-CIT-0279
+
+Kyrgyzbay G, Kalinina D, Akhmedullin R, et al. Prevalence of migraine in individuals with functional seizures: A systematic review and meta-analysis. *Epilepsy Research*. 2025;216:107596. [DOI](https://doi.org/10.1016/j.eplepsyres.2025.107596).
+
+**Type and scope:** Aggregate migraine proportion in functional seizures; ascertainment varies across studies.
+
+**Current use:** [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
+
+## FND-CIT-0280
+
+Jones AT, O’Connell NK, David AS. Epidemiology of functional stroke mimic patients: a systematic review and meta-analysis. *European Journal of Neurology*. 2020;27(1):18–26. [DOI](https://doi.org/10.1111/ene.14069).
+
+**Type and scope:** Functional presentations among suspected strokes, not stroke prevalence in FND.
+
+**Current use:** [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
+
+## FND-CIT-0281
+
+Nisticò V, Demartini B, et al. Pain in Functional Motor Disorders: Clinical Correlates From the Italian Registry. *European Journal of Neurology*. 2026;33(5):e70634. [DOI](https://doi.org/10.1111/ene.70634).
+
+**Type and scope:** Table 1: MS and Parkinson’s disease/parkinsonism in 466 adults with motor FND.
+
+**Current use:** [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
