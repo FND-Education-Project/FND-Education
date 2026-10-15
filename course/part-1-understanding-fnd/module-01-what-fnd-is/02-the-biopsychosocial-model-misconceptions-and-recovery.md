@@ -164,26 +164,29 @@ If keeping notes is difficult, you might instead choose one small practical chan
 
 You don't need to keep records or perform exercises to prove that you are trying.
 
-### Optional learning activities
-
 ### Optional learning activity
 
 Choose a preview to open the printable PDF. These activities are optional.
 
 <div class="puzzle-grid">
-<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Biopsychosocial-What-crossword-09-2026.pdf' | relative_url }}">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Biopsychosocial-What-crossword-09-2026.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/thumbnails/Biopsychosocial-What-crossword-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Biopsychosocial What? — Normal <small>PDF</small></span>
 </a>
-<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Biopsychosocial-What-crossword-easy-09-2026.pdf' | relative_url }}">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Biopsychosocial-What-crossword-easy-09-2026.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/thumbnails/Biopsychosocial-What-crossword-easy-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Biopsychosocial What? — Easy <small>PDF</small></span>
 </a>
-<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Biopsychosocial-What-crossword-answer-key-09-2026.pdf' | relative_url }}">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Biopsychosocial-What-crossword-answer-key-09-2026.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/thumbnails/Biopsychosocial-What-crossword-answer-key-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Biopsychosocial What? — Answer key <small>PDF</small></span>
 </a>
-<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-2-coloring-book.pdf' | relative_url }}">
+</div>
+
+#### Colouring page
+
+<div class="puzzle-grid puzzle-grid-colouring">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-2-coloring-book.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/colouring/lesson-2-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Biopsychosocial What? — Colouring page <small>PDF</small></span>
 </a>

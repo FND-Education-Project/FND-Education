@@ -10,6 +10,17 @@
 
 
 document.addEventListener("DOMContentLoaded", () => {
+  // Keep the lesson open when readers use any PDF, including query/hash URLs.
+  // Browsers choose a tab or window; noopener isolates the opened document.
+  for (const link of document.querySelectorAll("a[href]")) {
+    const url = new URL(link.href, document.baseURI);
+    if (url.pathname.toLowerCase().endsWith(".pdf")) {
+      link.target = "_blank";
+      link.relList.add("noopener");
+      link.title = "Opens PDF in a new tab or window";
+    }
+  }
+
 
   /*
    * Keep site-wide search terms out of the HTTP request URL when JavaScript
