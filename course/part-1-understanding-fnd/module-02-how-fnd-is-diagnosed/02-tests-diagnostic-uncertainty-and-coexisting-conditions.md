@@ -80,13 +80,40 @@ You do not need to interpret test results on your own. The aim is to understand 
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-Diagnostic uncertainty can be exhausting. The person may be trying to understand several appointments, tests and explanations while also managing symptoms. If invited, you can help keep a simple record of what each clinician thought, what each test was meant to answer and what follow-up was promised.
+When someone receives an FND diagnosis, they may leave an appointment with questions they could not think of at the time. Tests, unfamiliar words and changing symptoms can make the explanation difficult to remember.
 
-For an episodic symptom, a witness description may be useful. Record what you actually observed rather than interpreting it: what happened before the event, which parts of the body moved, whether the person responded, how long the event lasted and what recovery looked like. Video may help in some cases, but only when it can be recorded without interfering with care, privacy or safety.
+You can help them get the information they need **without taking over the appointment**.
 
-Try not to turn uncertainty into a dispute in which the person must choose between “FND” and “physical illness.” FND is a genuine disorder, and another neurological or medical condition may also be present. At the same time, repeated testing without a clear question can create burden without resolving the uncertainty.
+### Before the appointment
 
-Support can include helping the person prepare one or two questions, asking permission before speaking during an appointment, and making sure new or substantially changed symptoms are not automatically dismissed as familiar FND.
+Ask whether the person would like you to come along, take notes or simply help prepare. They may prefer to go alone.
+
+Together, choose one or two questions that matter most to them. A short list is more manageable than a long medical history. If something is new or has changed, help describe **what changed and when**, without deciding what caused it.
+
+### During the appointment
+
+Let the person lead whenever they can. Ask permission before adding information or speaking for them.
+
+If an explanation is unclear, these questions may help:
+
+- **“What findings support the FND diagnosis?”**
+- **“What did this test tell us, and what could it not tell us?”**
+- **“Could another condition be contributing to these symptoms?”**
+- **“What changes should prompt another assessment, and whom should we contact?”**
+
+There is no need to ask all four. Choose what fits the situation.
+
+If the answer is difficult to follow, you can ask the clinician to say it more simply or write down the main points. You may also offer a brief factual account of an episode you witnessed, if the person wants that and it is useful to the assessment.
+
+### After the appointment
+
+With the person's agreement, compare notes: **What has been established? What remains uncertain? What happens next?**
+
+Write down any follow-up tests or appointments, who is responsible for arranging them, and how to raise a new concern. If you are unsure of the plan, contacting the care team for clarification is reasonable.
+
+Another medical condition can exist alongside FND, but neither you nor the person need to prove that one is present to deserve an explanation. The goal is to understand the diagnosis, keep communication open and make sure new or substantially changed symptoms receive appropriate attention.
+
+**Useful support is helping someone ask their own questions and understand the answers—not deciding what the answers should be.**
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -115,6 +142,12 @@ These short quotations are placed here so a reviewer can compare possible wordin
 > “may obtain video-EEG of all typical seizure-like episodes where feasible.”
 
 *Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))*
+
+### How often do neurological conditions coexist?
+
+Coexisting neurological disease is a documented clinical issue, not merely a theoretical possibility. The clearest numerical example concerns functional seizures. A systematic review and meta-analysis by Kutlubaev and colleagues (2018) reported **epilepsy in approximately 22% of people with psychogenic nonepileptic seizures (PNES, commonly called functional seizures)** across the included studies. Looking in the other direction, it reported **PNES in approximately 12% of people with epilepsy**. These percentages refer to *different starting populations*. (*citation* [5](#citation-5))
+
+The underlying studies included selected clinical populations, often from epilepsy services, and their estimates varied. **These percentages must not be presented as the prevalence of other neurological diseases among everyone with FND**, or as the probability that a particular patient's episodes are epileptic. They support careful assessment of event types and other possible diagnoses, rather than assuming one diagnosis accounts for every symptom.
 
 **How can clinicians explain testing without reducing FND to normal results?** State the positive basis for the FND diagnosis separately from the purpose and result of each investigation. “The MRI did not show a stroke” and “the examination showed a positive functional sign” are different statements. Explain what was reasonably excluded, what was not tested and why further testing is or is not likely to help. (*citations* [1](#citation-1), [2](#citation-2))
 
@@ -145,7 +178,7 @@ For seizure-like events, obtain a detailed history and semiology from the patien
 
 ### What this evidence can and cannot establish
 
-Bennett and Espay support a positive FND diagnosis while warning against exclusion-only reasoning and missed comorbidity. The Tolchin guideline applies specifically to functional seizures: it supports history, semiology, appropriate use of video-EEG and assessment for co-occurring epilepsy. It should not be generalized to every FND symptom or treated as a requirement that video-EEG is always possible. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+Bennett and Espay support a positive FND diagnosis while warning against exclusion-only reasoning and missed comorbidity. Kutlubaev and colleagues provide group-level estimates of epilepsy and functional-seizure coexistence; the percentages apply to the specific populations studied and are not FND-wide prevalence figures. (*citation* [5](#citation-5)) The Tolchin guideline applies specifically to functional seizures: it supports history, semiology, appropriate use of video-EEG and assessment for co-occurring epilepsy. It should not be generalized to every FND symptom or treated as a requirement that video-EEG is always possible. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ### Citation table
 
@@ -155,6 +188,8 @@ Bennett and Espay support a positive FND diagnosis while warning against exclusi
 | <a id="citation-2"></a>**[2]** | Figure 1 | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
 | <a id="citation-3"></a>**[3]** | Figure 1 | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
 | <a id="citation-4"></a>**[4]** | — | Whitehead K, Kane N, Wardrope A, Kandler R, Reuber M. Proposal for best practice in the use of video-EEG when psychogenic non-epileptic seizures are a possible diagnosis. *Clinical Neurophysiology Practice*. 2017;2:130–139. [FND-CIT-0233](../../../research/citation-index.md#fnd-cit-0233). [DOI](https://doi.org/10.1016/j.cnp.2017.06.002). |
+
+| <a id="citation-5"></a>**[5]** | — | Kutlubaev MA, Xu Y, Hackett ML, Stone J. Dual diagnosis of epilepsy and psychogenic nonepileptic seizures: systematic review and meta-analysis of frequency, correlates, and outcomes. *Epilepsy & Behavior*. 2018;89:70–78. [FND-CIT-0274](../../../research/citation-index.md#fnd-cit-0274). [DOI](https://doi.org/10.1016/j.yebeh.2018.10.010). |
 
 This page still needs review by people with FND, supporters and clinicians, including clinicians experienced in neurological diagnosis and seizure assessment.
 
