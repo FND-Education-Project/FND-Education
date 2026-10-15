@@ -89,7 +89,7 @@ Use the positive sign as information from your clinician rather than as a test t
 Choose the preview to open the printable colouring PDF. Use landscape orientation and fit to page when printing. You can also browse the [puzzles collection](../../../assets/puzzles/README.md).
 
 <div class="puzzle-grid puzzle-grid-colouring">
-<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-5-coloring-book.pdf' | relative_url }}">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-5-coloring-book.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/colouring/lesson-5-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Positive signs — Colouring page <small>PDF</small></span>
 </a>

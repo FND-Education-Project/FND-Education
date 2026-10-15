@@ -104,19 +104,24 @@ Use your own words. This is not a test, and your explanation can change as you l
 Choose a preview to open a printable PDF. These activities are optional.
 
 <div class="puzzle-grid">
-<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/What-is-FND-crossword-09-2026.pdf' | relative_url }}">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/What-is-FND-crossword-09-2026.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/thumbnails/What-is-FND-crossword-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>What is FND? — Normal <small>PDF</small></span>
 </a>
-<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/What-is-FND-crossword-easy-09-2026.pdf' | relative_url }}">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/What-is-FND-crossword-easy-09-2026.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/thumbnails/What-is-FND-crossword-easy-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>What is FND? — Easy <small>PDF</small></span>
 </a>
-<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/What-is-FND-crossword-answer-key-09-2026.pdf' | relative_url }}">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/What-is-FND-crossword-answer-key-09-2026.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/thumbnails/What-is-FND-crossword-answer-key-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>What is FND? — Answer key <small>PDF</small></span>
 </a>
-<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-1-coloring-book.pdf' | relative_url }}">
+</div>
+
+#### Colouring page
+
+<div class="puzzle-grid puzzle-grid-colouring">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-1-coloring-book.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/colouring/lesson-1-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>What is FND? — Colouring page <small>PDF</small></span>
 </a>

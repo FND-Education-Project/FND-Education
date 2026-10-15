@@ -1,0 +1,3 @@
+
+# Printable PDFs are binary assets, not text diffs.
+*.pdf binary

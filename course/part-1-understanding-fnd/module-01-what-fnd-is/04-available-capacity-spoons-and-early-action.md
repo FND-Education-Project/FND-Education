@@ -293,18 +293,20 @@ Sometimes a plan can't stop a flare. It can still help keep you safer or make it
 
 ### Optional learning activity
 
+For colouring activities, visit the [colouring-page collection](../../../assets/puzzles/README.md#colouring-pages).
+
 Choose a preview to open the printable PDF. These activities are optional.
 
 <div class="puzzle-grid">
-<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Available-Capacity-crossword-10-2026.pdf' | relative_url }}">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Available-Capacity-crossword-10-2026.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/thumbnails/Available-Capacity-crossword-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Available Capacity — Normal <small>PDF</small></span>
 </a>
-<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Available-Capacity-crossword-easy-10-2026.pdf' | relative_url }}">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Available-Capacity-crossword-easy-10-2026.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/thumbnails/Available-Capacity-crossword-easy-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Available Capacity — Easy <small>PDF</small></span>
 </a>
-<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Available-Capacity-crossword-answer-key-10-2026.pdf' | relative_url }}">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Available-Capacity-crossword-answer-key-10-2026.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/thumbnails/Available-Capacity-crossword-answer-key-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Available Capacity — Answer key <small>PDF</small></span>
 </a>

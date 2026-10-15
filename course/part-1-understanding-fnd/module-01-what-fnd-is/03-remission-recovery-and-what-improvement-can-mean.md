@@ -145,26 +145,29 @@ If you wish, write down one sentence describing that improvement.
 
 You don't need to track it every day. It's simply a way to recognize something that matters to you.
 
-### Optional learning activities
-
 ### Optional learning activity
 
 Choose a preview to open the printable PDF. These activities are optional.
 
 <div class="puzzle-grid">
-<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Recovery-crossword-09-2026.pdf' | relative_url }}">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Recovery-crossword-09-2026.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/thumbnails/Recovery-crossword-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Recovery — Normal <small>PDF</small></span>
 </a>
-<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Recovery-crossword-easy-09-2026.pdf' | relative_url }}">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Recovery-crossword-easy-09-2026.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/thumbnails/Recovery-crossword-easy-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Recovery — Easy <small>PDF</small></span>
 </a>
-<a class="puzzle-card" href="{{ '/assets/puzzles/crosswords/Recovery-crossword-answer-key-09-2026.pdf' | relative_url }}">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Recovery-crossword-answer-key-09-2026.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/thumbnails/Recovery-crossword-answer-key-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Recovery — Answer key <small>PDF</small></span>
 </a>
-<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-3-coloring-book.pdf' | relative_url }}">
+</div>
+
+#### Colouring page
+
+<div class="puzzle-grid puzzle-grid-colouring">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-3-coloring-book.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/colouring/lesson-3-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Recovery — Colouring page <small>PDF</small></span>
 </a>

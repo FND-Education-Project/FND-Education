@@ -1528,7 +1528,7 @@ button:focus-visible {
 /* Printable activity previews: one labelled link per card, without motion. */
 .puzzle-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(0, min(100%, 10rem)));
   gap: 1rem;
   margin: 1rem 0 2rem;
 }
@@ -1548,7 +1548,7 @@ button:focus-visible {
 .puzzle-card img {
   display: block;
   width: 100%;
-  height: 17rem;
+  height: 10.2rem;
   margin: 0;
   padding: 0.5rem;
   object-fit: contain;
