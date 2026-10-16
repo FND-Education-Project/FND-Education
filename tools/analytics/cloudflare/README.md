@@ -1,7 +1,10 @@
 # FND Education Project — privacy-first aggregate counters
 
-**Status: NOT DEPLOYED.** This is an optional first-party usage counter,
-not a third-party analytics product or a traditional always-on server.
+**Status (2026-10-16): Worker and D1 deployed and tested.** The
+public GitHub Pages site does **not** send analytics until the separate
+website-activation PR is reviewed, merged and deployed. This is an optional
+first-party usage counter, not a third-party analytics product or a
+traditional always-on server.
 
 ## What it measures
 
@@ -51,29 +54,44 @@ review totals using the private Cloudflare D1 dashboard. A future moderated
 forum or survey service requires its own permissions, moderation and privacy
 review and should not share this anonymous event table for personal data.
 
-## Future setup — requires your Cloudflare account
+## Deployment status and site activation
 
-**Do not deploy merely to review this draft PR.**
+**Cloudflare backend — already deployed and tested, not a future setup task:**
 
-1. Confirm a free eligible Cloudflare Workers + D1 plan under your own
-   account. Check the provider's live prices and data-processing terms.
-2. In Codespaces, change directory to tools/analytics/cloudflare.
-3. Run: npx wrangler login
-   Follow the browser authorization. Do not paste credentials into this
-   repository or chat.
-4. Run: npx wrangler d1 create fnd-aggregate-analytics
-   Copy the returned *database ID*, not a secret, into wrangler.toml.
-5. Run: npx wrangler d1 execute fnd-aggregate-analytics --remote --file=schema.sql
-6. Run: npx wrangler deploy
-   Test the returned Worker URL plus the /health endpoint.
-7. On a deployment-approved branch only, add to web/_config.yml:
+- Worker: `fnd-aggregate-metrics`
+- HTTPS endpoint: `https://fnd-aggregate-metrics.fnd-aggregate-metrics.workers.dev`
+- Health: `https://fnd-aggregate-metrics.fnd-aggregate-metrics.workers.dev/health`
+- Remote D1 database: `fnd-aggregate-analytics`, with `daily_counts` table.
+- The non-secret D1 database ID is stored in `wrangler.toml`.
+- A controlled POST to `/v1/event` returned HTTP 204, and the daily
+  aggregate was verified in the D1 console. Its test record was then removed.
+- These checks establish a working backend; they do not establish that
+  traffic from the public website is already being counted.
 
-       analytics_endpoint: https://WORKER.SUBDOMAIN.workers.dev
+**Activation requires two distinct reviews/merges, in order:**
 
-   This optional setting causes the site to load analytics.js. Without it
-   **nothing is sent** to Cloudflare by the browser script.
-8. Check the public privacy notice, validate Pagefind, check the rendered
-   site and confirm the proposed integration before merging/deploying.
+1. Merge the approved home-page privacy notice (PR #142), which introduces
+   `home-privacy` immediately below the three landing-page cards. This
+   alone does not enable analytics.
+2. Review and merge the separate activation PR. It sets `analytics_endpoint`
+   in `web/_config.yml` to the deployed Worker URL. The default layout
+   already loads `analytics.js` only when this setting is present. The
+   notice switches automatically from future to present tense. A CI guard
+   requires the privacy notice when analytics are enabled.
+3. After the published GitHub Pages build updates, visit the site and
+   inspect the private D1 console for new grouped counts. Do not expect
+   unique users or search terms, which are deliberately not collected.
+
+**Operational credentials and redeployment:** Wrangler uses a restricted
+Cloudflare API token held in a secure password manager. In Codespaces it
+can be entered without terminal echo using
+`read -rsp "Cloudflare API token: " CLOUDFLARE_API_TOKEN; echo; export CLOUDFLARE_API_TOKEN`.
+The environment variable is scoped to the current terminal; when it
+expires, Wrangler may fall back to browser OAuth, which was unreliable in
+Codespaces. Never paste a token into Git, logs or chat. For future approved
+code redeployment only, run `npx wrangler deploy` in this folder after
+authenticating. Do not recreate the existing D1 database or rerun schema
+initialization to enable website analytics.
 
 The Worker explicitly rejects unrecognized input, rejects unknown browser
 origins, and has no public read or administration endpoint. Origin checks
