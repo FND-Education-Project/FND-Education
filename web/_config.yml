@@ -6,3 +6,6 @@ baseurl: ""
 markdown: kramdown
 
 permalink: pretty
+
+# First-party anonymous aggregate counters. Only enabled after privacy notice approval.
+analytics_endpoint: https://fnd-aggregate-metrics.fnd-aggregate-metrics.workers.dev
