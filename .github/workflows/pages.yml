@@ -47,6 +47,12 @@ jobs:
       - name: Prepare website source
         run: python tools/site/prepare_site.py
 
+      - name: Publish public crossword clues from Excel
+        run: python tools/puzzles/export_public_question_bank.py
+
+      - name: Test browser crossword and PDF generation
+        run: node --test tools/puzzles/tests/public_crossword.test.cjs
+
       - name: Validate generated source
         run: python tools/site/validate.py
 
