@@ -406,6 +406,7 @@ def _preview_svg(layout: Layout) -> str:
 def export_gallery(
     layouts: list[Layout], out_dir: Path, title: str, primary: list[Entry],
     warnings: list[str], selection: dict[str, object],
+    progress=None,
 ) -> None:
     """Publish up to five ranked options to a standalone offline review page."""
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -418,6 +419,8 @@ def export_gallery(
     for rank, layout in enumerate(layouts, 1):
         folder = out_dir / f"option-{rank:02d}"
         pdfs = export_pdfs(layout, folder, title)
+        if progress is not None:
+            progress(rank, len(layouts))
         plan = plan_page(layout)
         present = {p.entry.source_row for p in layout.placed}
         included = [
