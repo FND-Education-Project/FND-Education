@@ -6,7 +6,7 @@
       "type": "shell",
       "command": "python -m pip install -q -r tools/puzzles/requirements-crosswords.txt && python -m streamlit run tools/puzzles/crossword_app.py --server.address 0.0.0.0 --server.port 8501 --server.headless true",
       "options": {
-        "cwd": "\${workspaceFolder}"
+        "cwd": "${workspaceFolder}"
       },
       "presentation": {
         "reveal": "always",
