@@ -109,6 +109,20 @@ Or calculate monthly totals:
     SELECT substr(day, 1, 7) AS month, event, SUM(total) AS total
     FROM daily_counts GROUP BY month, event ORDER BY month DESC, event;
 
+## Private statistics dashboard (not yet deployed)
+
+The optional /admin dashboard code is built in src/admin-dashboard.mjs
+and src/worker.mjs. It is OFF by default: without Access application
+configuration it returns HTTP 404. With valid settings, every admin
+HTML, client-script and aggregate API response requires a cryptographically
+verified Cloudflare Access JWT for the expressly allowlisted administrator.
+This PR does not redeploy the Worker or configure Access. Only the account
+owner can perform that step.
+
+The dashboard reads grouped D1 counts for 7, 30 or 90 days. It never stores
+individual visitor activity or an administrator session in D1. See
+ADMIN-DASHBOARD.md for the GitHub-only security checklist.
+
 ## Tests
 
 From repository root:
