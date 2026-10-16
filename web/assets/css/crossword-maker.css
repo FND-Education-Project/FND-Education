@@ -1,0 +1,59 @@
+/* Public crossword generator: inherits the site's light/dark theme. */
+.cw-workshop { max-width: 70rem; }
+.cw-workshop [hidden] { display: none !important; }
+.cw-privacy { padding: 0.9rem 1.1rem; border-left: 4px solid var(--accent);
+  background: var(--accent-soft); border-radius: 0.35rem; }
+.cw-panel { margin: 1.5rem 0 2rem; padding: 1.2rem 1.25rem;
+  border: 1px solid var(--border); border-radius: 0.65rem;
+  background: var(--surface); }
+.cw-panel h2 { margin-top: 0; }
+.cw-fields { display: flex; flex-wrap: wrap; gap: 0.9rem 1.1rem; margin: 1rem 0; }
+.cw-field { flex: 1 1 9.5rem; min-width: 0; }
+.cw-title-field { flex-basis: 18rem; }
+.cw-field label { display: block; margin-bottom: 0.4rem; font-weight: 700; }
+.cw-field select, .cw-field input { width: 100%; min-width: 0; box-sizing: border-box;
+  padding: 0.65rem; border: 1px solid var(--border); border-radius: 0.4rem;
+  background: var(--surface); color: var(--text); font: inherit; }
+.cw-workshop button { font: inherit; cursor: pointer; }
+.cw-workshop button:focus-visible, .cw-field select:focus-visible,
+.cw-field input:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.cw-primary, .cw-downloads button { display: inline-block; margin-top: 0.5rem;
+  padding: 0.75rem 1rem; color: var(--surface); background: var(--accent-strong);
+  border: 1px solid var(--accent-strong); border-radius: 0.4rem; font-weight: 700 !important; }
+.cw-workshop button:disabled { cursor: not-allowed; opacity: 0.65; }
+.cw-caption { color: var(--muted); font-size: 0.93rem; }
+#cw-status { min-height: 1.5rem; color: var(--accent-strong); }
+#cw-status.cw-error { color: var(--text); font-weight: 700; }
+.cw-options { display: flex; flex-wrap: wrap; gap: 0.65rem; margin: 1rem 0; }
+.cw-choice { padding: 0.7rem 0.9rem; border: 1px solid var(--border);
+  border-radius: 0.5rem; background: var(--surface); color: var(--text);
+  text-align: left; }
+.cw-choice[aria-pressed="true"] { border-color: var(--accent-strong);
+  background: var(--accent-soft); box-shadow: inset 0 0 0 1px var(--accent-strong); }
+.cw-preview { margin: 1.25rem 0 2rem; }
+.cw-preview h3 { margin-top: 1.25rem; }
+.cw-grid-scroll { max-width: 100%; overflow-x: auto; padding: 0.25rem 0 0.8rem; }
+.cw-grid { display: grid; width: min(100%, 35rem); min-width: min-content;
+  border: 1px solid #757575; background: #fff; }
+.cw-square { position: relative; box-sizing: border-box; width: 1.100rem;
+  aspect-ratio: 1; border: 0.5px solid #666; }
+.cw-square-open { background: #fff; }
+.cw-square-dotted { background-color: #fff;
+  background-image: radial-gradient(#aaa 0.65px, transparent 0.85px);
+  background-size: 5px 5px; border-color: #d4d4d4; }
+.cw-number { position: absolute; top: 0; left: 1px; font: 650 0.49rem/1 Arial, sans-serif;
+  color: #000; }
+.cw-clue-columns { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem 2rem; }
+.cw-clue-columns h4 { margin: 0.75rem 0; }
+.cw-clues { margin: 0 0 1rem; padding-left: 2.1rem; }
+.cw-clues li { padding-left: 0.15rem; margin-bottom: 0.45rem; }
+.cw-clues li::marker { font-weight: 700; }
+.cw-downloads { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+@media (max-width: 42rem) {
+  .cw-panel { padding: 0.9rem; }
+  .cw-clue-columns { grid-template-columns: 1fr; }
+}
+@media print {
+  .cw-panel, .cw-options, .site-header, .site-footer { display: none !important; }
+}
