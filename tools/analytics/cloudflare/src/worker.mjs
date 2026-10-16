@@ -31,6 +31,30 @@ function response(status, origin = "", body = "") {
   return new Response(body || null, { status, headers });
 }
 
+async function readLimitedBody(request, maxBytes) {
+  // Enforce input limits even if a client omits or lies about Content-Length.
+  if (!request.body) return "";
+  const reader = request.body.getReader();
+  const decoder = new TextDecoder();
+  let result = "";
+  let size = 0;
+  try {
+    while (true) {
+      const { value, done } = await reader.read();
+      if (done) break;
+      size += value.byteLength;
+      if (size > maxBytes) {
+        await reader.cancel();
+        return null;
+      }
+      result += decoder.decode(value, { stream: true });
+    }
+    return result + decoder.decode();
+  } finally {
+    reader.releaseLock();
+  }
+}
+
 export default {
   async fetch(request, env) {
     const path = new URL(request.url).pathname;
@@ -57,8 +81,8 @@ export default {
 
     let payload;
     try {
-      const raw = await request.text();
-      if (raw.length > 256) return response(413, origin);
+      const raw = await readLimitedBody(request, 256);
+      if (raw === null) return response(413, origin);
       payload = JSON.parse(raw);
     } catch {
       return response(400, origin);
