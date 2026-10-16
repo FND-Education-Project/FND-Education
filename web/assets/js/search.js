@@ -87,6 +87,11 @@
 
     updateInterpretationNote(original, normalized);
 
+    // Only report a generic search-used signal, never original or normalized text.
+    if (normalized && window.FNDAnalytics) {
+      window.FNDAnalytics.searchUsed();
+    }
+
     return normalized;
   }
 
