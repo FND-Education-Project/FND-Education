@@ -1,349 +1,413 @@
-"""Print and preview outputs for the FND Education Project crossword standard.
+"""Accessible one-page crossword PDF editions and an offline review gallery.
 
-Uses PyMuPDF (also used by the repository's legacy crossword upgrader).
-No PDF is written unless the SAME fourteen-point grid and clue placement
-fit all three letter-size, single-page editions.
+The page geometry is *measured* before anything is written. The layout
+selects the most readable combination that fits: 14–12 pt clues, 16–14 pt
+squares, and 36–24 pt margins. No missing clues, split puzzle pages, or
+unannounced below-minimum font sizes are allowed.
 """
 from __future__ import annotations
 
-from collections import defaultdict
+from dataclasses import dataclass
 import html
 import json
 from pathlib import Path
 
-import fitz
+import pymupdf as fitz
 
 from .core import Entry, Layout, _points, verify_layout
 
+WIDTH, HEIGHT = 612.0, 792.0  # US Letter, PDF points
+SQUARE_SIZES = (16.0, 15.0, 14.0)
+CLUE_FONTS = (14.0, 13.0, 12.0)
+MARGINS = (36.0, 30.0, 24.0)
 
-WIDTH, HEIGHT = 612.0, 792.0     # US Letter, points
-MARGIN, GRID_TOP, SIDE = 24.0, 52.0, 14.0
-BANK_TOP, BANK_END = 727.0, 772.0
-FONT_SIZE, LINE = 8.7, 11.4
+
+@dataclass
+class PrintPlan:
+    """Precisely measured page geometry shared by Normal, Easy, and Key."""
+    grid_x: float
+    grid_y: float
+    square: float
+    margin: float
+    font_size: float
+    regions: list[tuple[float, float, float, float]]
+    clues: list[tuple[float, float, str, float, bool]]
+    bank_top: float
+    bank_lines: list[str]
+    divider_end: float
 
 
-def _text_width(text: str, font_size: float = FONT_SIZE, bold: bool = False) -> float:
+def _width(text: str, size: float, bold: bool = False) -> float:
     return fitz.get_text_length(
-        text, fontname="hebo" if bold else "helv", fontsize=font_size)
+        text, fontname="hebo" if bold else "helv", fontsize=size
+    )
 
 
-def _wrap(text: str, width: float, size: float = FONT_SIZE) -> list[str]:
-    """Fit whole words to a fixed physical width without clipping."""
+def _wrap(text: str, width: float, size: float) -> list[str]:
+    """Wrap without losing words, including unusually long single words."""
     lines: list[str] = []
     for paragraph in text.splitlines() or [""]:
-        parts = paragraph.split()
-        if not parts:
-            lines.append("")
-            continue
         current = ""
-        for word in parts:
-            trial = (current + " " + word).strip()
-            if _text_width(trial, size) <= width:
+        for word in paragraph.split():
+            trial = f"{current} {word}".strip()
+            if _width(trial, size) <= width:
                 current = trial
+                continue
+            if current:
+                lines.append(current)
+                current = ""
+            if _width(word, size) <= width:
+                current = word
             else:
-                if current:
-                    lines.append(current)
-                    current = ""
-                if _text_width(word, size) > width:
-                    # A single oversized word must be split, not truncated.
-                    fragment = ""
-                    for letter in word:
-                        if fragment and _text_width(fragment + letter, size) > width:
-                            lines.append(fragment)
-                            fragment = letter
-                        else:
-                            fragment += letter
-                    current = fragment
-                else:
-                    current = word
+                fragment = ""
+                for char in word:
+                    if fragment and _width(fragment + char, size) > width:
+                        lines.append(fragment)
+                        fragment = char
+                    else:
+                        fragment += char
+                current = fragment
         if current:
             lines.append(current)
+        elif not paragraph.strip():
+            lines.append("")
     return lines
 
 
-def _clue_regions(layout: Layout) -> tuple[float, float, list[tuple[float, float, float, float]]]:
-    """Use a side column beside a tall/narrow grid and two below it."""
+def _try_plan(
+    layout: Layout, font_size: float, square: float, margin: float
+) -> PrintPlan | None:
+    """Try an entire Easy edition; other editions then fit by construction."""
     rows, cols = layout.size()
-    grid_width, grid_height = cols * SIDE, rows * SIDE
-    if grid_width > WIDTH - 2 * MARGIN or GRID_TOP + grid_height > BANK_TOP - 28:
-        raise ValueError("Grid exceeds the one-page printable area at 14 pt/square.")
-    has_side = WIDTH - (MARGIN + grid_width + 12) - MARGIN >= 164 \
-        and grid_height >= 115
-    grid_x = MARGIN if has_side else (WIDTH - grid_width) / 2
-    grid_bottom = GRID_TOP + grid_height
-    below_top = grid_bottom + 13
+    grid_width, grid_height = cols * square, rows * square
+    grid_y = margin + 32
+    if grid_width > WIDTH - margin * 2 or grid_y + grid_height > HEIGHT - margin - 110:
+        return None
+
+    # Reserve exactly the space needed for the full word bank in Easy.
+    bank_font = 9.5
+    original_answers = sorted(p.entry.original_answer.upper() for p in layout.placed)
+    bank_lines = _wrap("  |  ".join(original_answers), WIDTH - 2 * margin - 8, bank_font)
+    bank_height = 19 + len(bank_lines) * 12.0
+    bank_top = HEIGHT - margin - bank_height
+    if bank_top < grid_y + 32:
+        return None
+    clue_end = bank_top - 14
+    if clue_end <= grid_y + 18:
+        return None
+
+    # Distribute content over the space alongside the grid and the two
+    # ruled columns below. Wide grids are centred above two columns.
+    spare_width = WIDTH - 2 * margin - grid_width - 14
+    has_side = spare_width >= max(155, font_size * 11) and grid_height >= 120
+    grid_x = margin if has_side else (WIDTH - grid_width) / 2
+    below_top = grid_y + grid_height + 15
+    if below_top >= clue_end:
+        return None
+    middle = WIDTH / 2
     regions: list[tuple[float, float, float, float]] = []
     if has_side:
-        regions.append((MARGIN + grid_width + 12, GRID_TOP,
-                        WIDTH - MARGIN, grid_bottom))
-    # Clue text flows through ruled columns without reserving separate
-    # Across and Down regions.
-    column_mid = WIDTH / 2
+        regions.append((
+            margin + grid_width + 14, grid_y,
+            WIDTH - margin, min(grid_y + grid_height, clue_end)
+        ))
     regions.extend([
-        (MARGIN, below_top, column_mid - 11, BANK_TOP - 10),
-        (column_mid + 11, below_top, WIDTH - MARGIN, BANK_TOP - 10),
+        (margin, below_top, middle - 12, clue_end),
+        (middle + 12, below_top, WIDTH - margin, clue_end),
     ])
-    return grid_x, GRID_TOP, regions
-
-
-def _clue_plan(layout: Layout) -> tuple[
-    float, float, list[tuple[float, float, str, float, bool]],
-    list[tuple[float, float, float, float]]
-]:
-    """Preflight every line on the hardest (Easy) edition before drawing."""
-    x, y, regions = _clue_regions(layout)
-    numbered = layout.numbered()
-    across = [(num, p) for num, p in numbered if p.direction == "across"]
-    down = [(num, p) for num, p in numbered if p.direction == "down"]
-    sections: list[tuple[str, str, bool]] = [("Across", "", True)]
-    sections.extend(("", f"{num}. {p.entry.clue}", False) for num, p in across)
-    sections.append(("Down", "", True))
-    sections.extend(("", f"{num}. {p.entry.clue}", False) for num, p in down)
+    numbering = layout.numbered()
+    sections: list[tuple[bool, str]] = [(True, "Across")]
+    sections.extend(
+        (False, f"{n}. {p.entry.clue}") for n, p in numbering
+        if p.direction == "across"
+    )
+    sections.append((True, "Down"))
+    sections.extend(
+        (False, f"{n}. {p.entry.clue}") for n, p in numbering
+        if p.direction == "down"
+    )
 
     output: list[tuple[float, float, str, float, bool]] = []
-    region_index = 0
-    cursor = regions[0][1]
-    for heading, sentence, is_heading in sections:
+    region = 0
+    cursor = regions[region][1]
+    line_height = font_size * 1.22
+    baseline_by_region: dict[int, float] = {}
+    for is_heading, content in sections:
+        size = font_size + 1.0 if is_heading else font_size
         while True:
-            if region_index >= len(regions):
-                raise ValueError("Clues do not fit one letter-size page at readable type.")
-            x0, y0, x1, y1 = regions[region_index]
-            width = x1 - x0 - 4
-            size = 10.0 if is_heading else FONT_SIZE
-            lines = [heading] if is_heading else _wrap(sentence, width, size)
-            used_height = len(lines) * LINE + (3 if is_heading else 0)
-            if cursor + used_height <= y1:
-                if is_heading:
-                    cursor += 3
+            if region >= len(regions):
+                return None
+            x0, top, x1, bottom = regions[region]
+            lines = [content] if is_heading else _wrap(content, x1 - x0 - 6, font_size)
+            padding = 5.0 if is_heading else 3.0
+            needed = len(lines) * line_height + padding
+            if cursor + needed <= bottom:
+                cursor += padding
                 for line in lines:
-                    output.append((x0 + 2, cursor + size, line, size, is_heading))
-                    cursor += LINE
+                    baseline = cursor + size
+                    output.append((x0 + 3, baseline, line, size, is_heading))
+                    baseline_by_region[region] = baseline
+                    cursor += line_height
                 break
-            region_index += 1
-            if region_index < len(regions):
-                cursor = regions[region_index][1]
+            region += 1
+            if region < len(regions):
+                cursor = regions[region][1]
 
-    # Bank must fit all answers, including when two words share an answer.
-    answers = sorted(p.entry.original_answer.upper() for p in layout.placed)
-    bank_lines = _wrap("  |  ".join(answers), WIDTH - 2 * MARGIN - 8, 7.8)
-    if len(bank_lines) * 10.3 > BANK_END - BANK_TOP - 14:
-        raise ValueError("Easy word bank cannot fit at legible size on page one.")
-    return x, y, output, regions
+    # The divider should end after actual text, not extend through blank paper.
+    below_start = len(regions) - 2
+    divider_end = max(
+        regions[below_start][1],
+        baseline_by_region.get(below_start, regions[below_start][1]),
+        baseline_by_region.get(below_start + 1, regions[below_start + 1][1]),
+    ) + 4
+    return PrintPlan(
+        grid_x, grid_y, square, margin, font_size, regions,
+        output, bank_top, bank_lines, divider_end
+    )
+
+
+def plan_page(layout: Layout) -> PrintPlan:
+    """Prefer clear 14 pt clues/16 pt cells; relax only within approved floors."""
+    # Work inward from readability: try each font, then cell size,
+    # then 0.5" → 0.42" → 0.33" margins.
+    for font in CLUE_FONTS:
+        for square in SQUARE_SIZES:
+            for margin in MARGINS:
+                plan = _try_plan(layout, font, square, margin)
+                if plan:
+                    return plan
+    raise ValueError(
+        "The complete puzzle cannot fit one US Letter page with at least "
+        "12 pt clues and 14 pt squares. Try fewer answers or shorter clues."
+    )
 
 
 def is_printable(layout: Layout) -> bool:
-    """Use exactly the same preflight for preview ranking and actual PDFs."""
     try:
-        _clue_plan(layout)
+        plan_page(layout)
         return True
     except ValueError:
         return False
 
 
 def _tab_sequence(layout: Layout) -> list[tuple[int, int]]:
-    """Across-first order, then remaining Down-only writable squares."""
-    sequence: list[tuple[int, int]] = []
-    visited = set()
-    for direction in ("across", "down"):
-        for _, p in layout.numbered():
-            if p.direction != direction:
+    """Across-first field order, with every square appearing exactly once."""
+    order: list[tuple[int, int]] = []
+    seen = set()
+    for orientation in ("across", "down"):
+        for _, placed in layout.numbered():
+            if placed.direction != orientation:
                 continue
-            for coord in _points(p):
-                if coord not in visited:
-                    sequence.append(coord)
-                    visited.add(coord)
-    if set(sequence) != set(layout.cells):
-        raise ValueError("Field ordering missed a grid square.")
-    return sequence
+            for coord in _points(placed):
+                if coord not in seen:
+                    order.append(coord)
+                    seen.add(coord)
+    if seen != set(layout.cells):
+        raise ValueError("Some writable crossword squares were not numbered.")
+    return order
 
 
-def _draw_page(page: fitz.Page, layout: Layout, edition: str,
-               title: str) -> list[tuple[int, int]]:
-    """Draw all non-editable artwork once, with consistent edition geometry."""
-    x, y, clues, regions = _clue_plan(layout)
-    page.insert_text(
-        (MARGIN, 29), title[:90], fontsize=14.0, fontname="hebo",
-        color=(0, 0, 0),
-    )
-    numbers = {(p.row, p.col): num for num, p in layout.numbered()}
-    for (r, c), letter in sorted(layout.cells.items()):
-        rect = fitz.Rect(x + c * SIDE, y + r * SIDE,
-                         x + (c + 1) * SIDE, y + (r + 1) * SIDE)
-        page.draw_rect(rect, color=(0.08, 0.08, 0.08),
+def _draw_page(
+    page: fitz.Page, layout: Layout, plan: PrintPlan,
+    edition: str, title: str
+) -> list[tuple[int, int]]:
+    """Draw the same grid and clues across all editions."""
+    x, y, side, margin = plan.grid_x, plan.grid_y, plan.square, plan.margin
+    label = title[:90]
+    title_size = 15.0
+    if _width(label, title_size, bold=True) > WIDTH - margin * 2:
+        title_size = 12.0
+    page.insert_text((margin, margin + title_size), label,
+                     fontsize=title_size, fontname="hebo")
+    numbering = {(p.row, p.col): n for n, p in layout.numbered()}
+    for (r, c), ch in sorted(layout.cells.items()):
+        rect = fitz.Rect(
+            x + c * side, y + r * side, x + (c + 1) * side, y + (r + 1) * side
+        )
+        page.draw_rect(rect, color=(.15, .15, .15),
                        fill=(1, 1, 1), width=.65)
-        if (r, c) in numbers:
-            page.insert_text((rect.x0 + 1.4, rect.y0 + 5),
-                             str(numbers[(r, c)]), fontsize=5.0,
-                             fontname="helv", color=(0, 0, 0))
+        if (r, c) in numbering:
+            page.insert_text((rect.x0 + 1.5, rect.y0 + 6.0),
+                             str(numbering[r, c]), fontsize=5.6, fontname="helv")
         if edition == "key":
-            page.insert_text(
-                (rect.x0 + 3.3, rect.y0 + 12.3), letter,
-                fontsize=10.0, fontname="hebo", color=(0, 0, 0),
-            )
-    # A thin rule distinguishes the two lower clue columns.
-    if regions[1][1] < BANK_TOP - 22:
-        page.draw_line((WIDTH / 2, regions[1][1]),
-                       (WIDTH / 2, BANK_TOP - 10),
-                       color=(.7, .7, .7), width=.4)
-    for tx, baseline, line, size, bold in clues:
-        page.insert_text(
-            (tx, baseline), line, fontsize=size,
-            fontname="hebo" if bold else "helv", color=(0, 0, 0))
+            page.insert_text((rect.x0 + side * .24, rect.y1 - 2.0),
+                             ch, fontsize=min(12.0, side * .7), fontname="hebo")
+    start_below = plan.regions[-2][1]
+    if plan.divider_end > start_below + 6:
+        page.draw_line(
+            (WIDTH / 2, start_below),
+            (WIDTH / 2, min(plan.divider_end, plan.bank_top - 12)),
+            color=(.7, .7, .7), width=.5
+        )
+    for tx, baseline, sentence, size, heading in plan.clues:
+        page.insert_text((tx, baseline), sentence, fontsize=size,
+                         fontname="hebo" if heading else "helv")
     if edition == "easy":
-        page.draw_line((MARGIN, BANK_TOP - 3), (WIDTH - MARGIN, BANK_TOP - 3),
-                       color=(.65, .65, .65), width=.5)
-        page.insert_text((MARGIN, BANK_TOP + 9), "Word bank",
-                         fontsize=9.0, fontname="hebo")
-        answers = sorted(p.entry.original_answer.upper() for p in layout.placed)
-        for i, line in enumerate(
-            _wrap("  |  ".join(answers), WIDTH - 2 * MARGIN - 8, 7.8)
-        ):
-            page.insert_text((MARGIN, BANK_TOP + 21 + 10.3 * i),
-                             line, fontsize=7.8, fontname="helv")
+        page.draw_line((margin, plan.bank_top - 4),
+                       (WIDTH - margin, plan.bank_top - 4),
+                       color=(.6, .6, .6), width=.6)
+        page.insert_text((margin, plan.bank_top + 11),
+                         "Word bank", fontsize=11, fontname="hebo")
+        for i, sentence in enumerate(plan.bank_lines):
+            page.insert_text((margin, plan.bank_top + 24 + i * 12),
+                             sentence, fontsize=9.5, fontname="helv")
     return _tab_sequence(layout)
 
 
-def _save_pdf(layout: Layout, edition: str, destination: Path,
-              title: str) -> None:
-    """Write a PDF, then independently re-open and inspect form invariants."""
+def _save_pdf(layout: Layout, edition: str, destination: Path, title: str) -> None:
     verify_layout(layout)
+    plan = plan_page(layout)
     doc = fitz.open()
     page = doc.new_page(width=WIDTH, height=HEIGHT)
-    sequence = _draw_page(page, layout, edition, title)
+    sequence = _draw_page(page, layout, plan, edition, title)
     if edition != "key":
-        x, y, _, _ = _clue_plan(layout)
-        for row, col in sequence:
-            rect = fitz.Rect(x + col * SIDE + .6, y + row * SIDE + 5.4,
-                             x + (col + 1) * SIDE - .6,
-                             y + (row + 1) * SIDE - .5)
-            widget = fitz.Widget()
-            widget.field_name = f"cell_{row}_{col}"
-            widget.field_type = fitz.PDF_WIDGET_TYPE_TEXT
-            widget.field_value = ""
-            widget.text_maxlen = 1
-            widget.text_align = 1
-            widget.text_font = "Helv"
-            widget.text_fontsize = 9.0
-            widget.text_color = (0, 0, 0)
-            widget.border_width = 0
-            widget.fill_color = None
-            widget.rect = rect
-            page.add_widget(widget)
+        for r, c in sequence:
+            x = plan.grid_x + c * plan.square
+            y = plan.grid_y + r * plan.square
+            field = fitz.Widget()
+            field.field_name = f"cell_{r}_{c}"
+            field.field_type = fitz.PDF_WIDGET_TYPE_TEXT
+            field.field_value = ""
+            field.text_maxlen = 1
+            field.text_align = 1
+            field.text_font = "Helv"
+            field.text_fontsize = min(11, plan.square * .7)
+            field.text_color = (0, 0, 0)
+            field.border_width = 0
+            field.fill_color = None
+            # Leave clue number visible in the upper-left of each square.
+            field.rect = fitz.Rect(
+                x + .8, y + 6.0, x + plan.square - .8, y + plan.square - .5
+            )
+            page.add_widget(field)
         doc.xref_set_key(page.xref, "Tabs", "/A")
     doc.set_metadata({"title": title, "subject": f"Crossword: {edition}"})
     doc.save(str(destination), deflate=True, garbage=4)
     doc.close()
-    verified = fitz.open(str(destination))
+    check = fitz.open(str(destination))
     try:
-        if len(verified) != 1 or verified[0].rect != fitz.Rect(0, 0, WIDTH, HEIGHT):
-            raise ValueError(f"{destination.name} is not one US Letter page.")
-        widgets = list(verified[0].widgets() or [])
+        if len(check) != 1 or check[0].rect != fitz.Rect(0, 0, WIDTH, HEIGHT):
+            raise ValueError("PDF is not a single letter-size page.")
+        fields = list(check[0].widgets() or [])
         expected = 0 if edition == "key" else len(sequence)
-        if len(widgets) != expected:
-            raise ValueError(f"{destination.name} has the wrong number of text fields.")
+        if len(fields) != expected:
+            raise ValueError("PDF form field count differs from the crossword grid.")
         if edition != "key":
-            if any(widget.text_maxlen != 1 for widget in widgets):
-                raise ValueError("A text field allows more than one character.")
-            if [w.field_name for w in widgets] != [
+            if any(w.text_maxlen != 1 for w in fields):
+                raise ValueError("A PDF field accepts more than one letter.")
+            if [w.field_name for w in fields] != [
                 f"cell_{r}_{c}" for r, c in sequence
             ]:
-                raise ValueError("Across-first tab order was not retained.")
-            if verified.xref_get_key(verified[0].xref, "Tabs") != ("name", "/A"):
-                raise ValueError("Missing Acrobat annotation tab-order declaration.")
+                raise ValueError("PDF lost its Across-first tab order.")
+            if check.xref_get_key(check[0].xref, "Tabs") != ("name", "/A"):
+                raise ValueError("PDF missing /Tabs /A.")
     finally:
-        verified.close()
+        check.close()
 
 
 def export_pdfs(layout: Layout, folder: Path, title: str) -> dict[str, str]:
-    """Export the required Normal, Easy, and Answer Key, or fail explicitly."""
+    """Write and individually validate three matching crossword editions."""
     folder.mkdir(parents=True, exist_ok=True)
-    names = {"normal": "normal.pdf", "easy": "easy.pdf",
-             "key": "answer-key.pdf"}
-    paths = {}
+    editions = {"normal": "normal.pdf", "easy": "easy.pdf",
+                "key": "answer-key.pdf"}
     try:
-        for edition, filename in names.items():
+        for edition, filename in editions.items():
             _save_pdf(layout, edition, folder / filename, title)
-            paths[edition] = filename
     except Exception:
-        for filename in names.values():
+        for filename in editions.values():
             (folder / filename).unlink(missing_ok=True)
         raise
-    return paths
+    return editions
 
 
 def _preview_svg(layout: Layout) -> str:
-    """A static, accessible-preview-friendly inline SVG of an empty grid."""
+    """Scalable grid preview; only numbers/coordinates are interpolated."""
     rows, cols = layout.size()
-    cell = 17
+    pitch = 19
     numbers = {(p.row, p.col): n for n, p in layout.numbered()}
-    items = [f'<svg role="img" aria-label="Crossword grid, {rows} rows by {cols} columns" '
-             f'viewBox="0 0 {cols * cell} {rows * cell}" '
-             f'xmlns="http://www.w3.org/2000/svg">']
+    out = [
+        f'<svg role="img" aria-label="Crossword grid: {rows} rows, {cols} columns" '
+        f'viewBox="0 0 {cols * pitch} {rows * pitch}" '
+        'xmlns="http://www.w3.org/2000/svg">'
+    ]
     for (r, c) in layout.cells:
-        items.append(f'<rect x="{c * cell}" y="{r * cell}" width="{cell}" '
-                     f'height="{cell}" fill="white" stroke="#333" stroke-width=".8"/>')
+        out.append(f'<rect x="{c * pitch}" y="{r * pitch}" '
+                   f'width="{pitch}" height="{pitch}" '
+                   'fill="white" stroke="#333" stroke-width=".8"/>')
         if (r, c) in numbers:
-            items.append(f'<text x="{c * cell + 2}" y="{r * cell + 6}" '
-                         f'font-size="6" fill="#111">{numbers[(r, c)]}</text>')
-    items.append("</svg>")
-    return "".join(items)
+            out.append(f'<text x="{c * pitch + 2}" y="{r * pitch + 7}" '
+                       f'font-size="7" fill="#111">{numbers[r, c]}</text>')
+    return "".join(out) + "</svg>"
 
 
 def export_gallery(
     layouts: list[Layout], out_dir: Path, title: str, primary: list[Entry],
     warnings: list[str], selection: dict[str, object],
 ) -> None:
-    """Self-contained offline gallery with source traceability and PDF links."""
+    """Publish up to five ranked options to a standalone offline review page."""
     out_dir.mkdir(parents=True, exist_ok=True)
-    primary_rows = {e.source_row for e in primary}
+    source_rows = {e.source_row for e in primary}
     report: dict[str, object] = {
-        "title": title, "selection": selection, "warnings": warnings,
-        "candidates": [],
+        "title": title, "selection": selection,
+        "warnings": warnings, "candidates": []
     }
-    cards = []
+    cards: list[str] = []
     for rank, layout in enumerate(layouts, 1):
         folder = out_dir / f"option-{rank:02d}"
         pdfs = export_pdfs(layout, folder, title)
+        plan = plan_page(layout)
         present = {p.entry.source_row for p in layout.placed}
-        included = [{
-            "row": p.entry.source_row, "answer": p.entry.answer,
-            "clue": p.entry.clue, "priority": p.entry.priority,
-            "module": p.entry.module, "lesson": p.entry.lesson,
-            "borrowed": p.entry.source_row not in primary_rows,
-            "direction": p.direction,
-        } for p in layout.placed]
-        omitted = [{
-            "row": e.source_row, "answer": e.answer, "clue": e.clue,
-        } for e in primary if e.source_row not in present]
+        included = [
+            {
+                "row": p.entry.source_row, "answer": p.entry.answer,
+                "clue": p.entry.clue, "priority": p.entry.priority,
+                "module": p.entry.module, "lesson": p.entry.lesson,
+                "borrowed": p.entry.source_row not in source_rows,
+                "direction": p.direction,
+            }
+            for p in layout.placed
+        ]
+        omitted = [
+            {"row": e.source_row, "answer": e.answer, "clue": e.clue}
+            for e in primary if e.source_row not in present
+        ]
         report["candidates"].append({
             "rank": rank, "score": layout.score, "metrics": layout.metrics,
-            "included": included, "unused_selected_questions": omitted,
-            "pdfs": {k: f"option-{rank:02d}/{v}" for k, v in pdfs.items()},
+            "print": {"clue_font_pt": plan.font_size, "square_pt": plan.square,
+                      "margin_pt": plan.margin},
+            "included": included,
+            "unused_selected_questions": omitted,
+            "pdfs": {k: f"option-{rank:02d}/{v}" for k, v in pdfs.items()}
         })
         links = " ".join(
             f'<a href="option-{rank:02d}/{filename}">{label}</a>'
-            for label, filename in
-            (("Normal PDF", pdfs["normal"]), ("Easy PDF", pdfs["easy"]),
-             ("Answer key", pdfs["key"]))
+            for label, filename in (
+                ("Normal PDF", pdfs["normal"]),
+                ("Easy PDF", pdfs["easy"]),
+                ("Answer key", pdfs["key"]),
+            )
         )
-        borrowed = [p for p in layout.placed if p.entry.source_row not in primary_rows]
-        borrowed_text = ", ".join(
+        borrowed = [p for p in layout.placed if p.entry.source_row not in source_rows]
+        borrowed_names = ", ".join(
             f"{p.entry.answer} (M{p.entry.module} L{p.entry.lesson})"
-            for p in borrowed) or "None"
-        omitted_text = ", ".join(e["answer"] for e in omitted) or "None"
+            for p in borrowed
+        ) or "None"
+        omitted_names = ", ".join(e["answer"] for e in omitted) or "None"
         cards.append(
             f'<article class="option"><h2>Option {rank} — {layout.score:.2f}/100</h2>'
-            f'<div class="stats">{layout.metrics["words"]} answers | '
-            f'{layout.metrics["words_with_2plus_crossings"]} with 2+ crossings | '
-            f'{layout.metrics["rows"]} x {layout.metrics["columns"]} grid</div>'
-            f'<div class="diagram">{_preview_svg(layout)}</div><nav>{links}</nav>'
-            f'<p><b>Borrowed:</b> {html.escape(borrowed_text)}</p>'
-            f'<p><b>Unused selected answers:</b> {html.escape(omitted_text)}</p>'
-            f'</article>'
+            f'<p class="stats">{layout.metrics["words"]} answers · '
+            f'{layout.metrics["words_with_2plus_crossings"]} with 2+ crossings · '
+            f'{plan.square:g} pt cells · {plan.font_size:g} pt clues</p>'
+            f'<div class="diagram">{_preview_svg(layout)}</div>'
+            f'<nav>{links}</nav>'
+            f'<p><b>Borrowed:</b> {html.escape(borrowed_names)}</p>'
+            f'<p><b>Unused selected answers:</b> {html.escape(omitted_names)}</p>'
+            '</article>'
         )
     (out_dir / "report.json").write_text(
-        json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
-    warning_text = "".join(f"<li>{html.escape(w)}</li>" for w in warnings)
+        json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8"
+    )
+    notes = "".join(f"<li>{html.escape(w)}</li>" for w in warnings)
     markup = f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -354,18 +418,19 @@ color:#17212b;font:16px/1.5 system-ui,Arial,sans-serif}}
 main{{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px}}
 .option{{padding:17px;background:white;border:1px solid #d4d9df;border-radius:10px}}
 .option h2{{margin:0 0 4px;font-size:1.2rem}}
-.stats{{font-size:.88rem;color:#334255}}
+.stats{{font-size:.92rem;color:#334255}}
 .diagram{{max-width:100%;overflow:auto;margin:16px 0}}
 svg{{display:block;width:100%;max-height:320px}}
 nav{{display:flex;gap:8px;flex-wrap:wrap}}
 a{{color:#123e83;text-decoration:underline}}
-p{{font-size:.86rem;overflow-wrap:anywhere}}
+p{{font-size:.91rem;overflow-wrap:anywhere}}
 </style></head><body>
 <h1>{html.escape(title)} — top {len(layouts)} layouts</h1>
-<p>Ranked by word coverage and crossing quality. All PDFs are single-page US Letter,
-with 14-point squares. Normal and Easy include fillable one-character squares.
-No clues or answers are invented. Details are in <a href="report.json">report.json</a>.</p>
+<p>Each puzzle is one US Letter page. Clues use 12–14 pt type and squares
+use 14–16 pt sides; no material is clipped or dropped to fit.
+Normal and Easy have fillable one-character squares.
+See <a href="report.json">report.json</a> for source references.</p>
 {"<details><summary>Source notes (" + str(len(warnings)) + ")</summary><ul>" +
-warning_text + "</ul></details>" if warnings else ""}
+notes + "</ul></details>" if warnings else ""}
 <main>{"".join(cards)}</main></body></html>"""
     (out_dir / "index.html").write_text(markup, encoding="utf-8")
