@@ -88,6 +88,26 @@ class WorkbookTests(unittest.TestCase):
         self.assertEqual(len(all_rows), 3)
         self.assertFalse(loans)
 
+    def test_cli_excel_to_gallery_end_to_end(self):
+        # Exercise the user-facing command with a real Excel workbook.
+        from generate_crosswords import main
+        words = ["BRAIN", "NERVE", "REST", "FLARE", "CALM", "FEEL",
+                 "BODY", "MOOD", "PANIC", "PAST", "SUPPORT", "RECOVERY"]
+        self._book([
+            (f"A clue for {word.lower()}.", word, 2, 1, 1)
+            for word in words
+        ])
+        output = Path(self.temp.name) / "out"
+        status = main([str(self.file), "--module", "1", "--lesson", "1",
+                       "--attempts", "45", "--max-words", "9", "--top", "2",
+                       "--out", str(output)])
+        self.assertEqual(status, 0)
+        self.assertTrue((output / "index.html").is_file())
+        report = json.loads((output / "report.json").read_text())
+        self.assertEqual(report["selection"]["mode"], "lesson")
+        self.assertEqual(report["selection"]["module"], 1)
+        self.assertGreaterEqual(len(report["candidates"]), 1)
+
     def test_duplicate_answer_is_disclosed_and_prioritized(self):
         rows = [entry("BRAIN", 2, priority=3),
                 entry("BRAIN", 3, priority=1),
