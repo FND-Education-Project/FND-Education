@@ -104,10 +104,19 @@ class WorkbookTests(unittest.TestCase):
             for word in words
         ])
         output = Path(self.temp.name) / "out"
+        stages = []
         status = main([str(self.file), "--module", "1", "--lesson", "1",
                        "--attempts", "45", "--max-words", "9", "--top", "2",
-                       "--out", str(output)])
+                       "--out", str(output)],
+                      progress=lambda percent, label: stages.append((percent, label)))
         self.assertEqual(status, 0)
+        self.assertEqual(stages[-1][0], 100)
+        self.assertTrue(any("Searching" in label for _, label in stages))
+        self.assertTrue(any("Rendering" in label for _, label in stages))
+        self.assertTrue(all(
+            earlier <= later
+            for (earlier, _), (later, _) in zip(stages, stages[1:])
+        ))
         self.assertTrue((output / "index.html").is_file())
         report = json.loads((output / "report.json").read_text())
         self.assertEqual(report["selection"]["mode"], "lesson")
