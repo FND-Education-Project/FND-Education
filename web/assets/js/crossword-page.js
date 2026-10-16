@@ -177,8 +177,10 @@
       link.click();
       link.remove();
       window.setTimeout(() => URL.revokeObjectURL(url), 2000);
-      // Public anonymous PDF click analytics is handled by the site for
-      // ordinary links; blob-generated downloads deliberately reveal no title.
+      // One anonymous counter per click, never the clue set, title or layout.
+      if (window.FNDAnalytics) {
+        window.FNDAnalytics.track("puzzle_download", "puzzles");
+      }
     } catch (e) { message(e.message, true); }
   }
   scope.addEventListener("change", refresh);
