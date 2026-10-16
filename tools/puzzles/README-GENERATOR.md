@@ -10,27 +10,33 @@ Answer Key**, one **US Letter** page each, **14–16 pt squares and 12–14 pt c
 with fillable one-character cells in Normal and Easy. The easy version has
 the word bank on the same page. PDFs are not published automatically.
 
-## Open the spreadsheet-style workshop in Codespaces
+## Start the private crossword workshop with one command
 
-**Easiest launch:** In Codespaces choose **Terminal → Run Task → FND: Open
-Crossword Workshop**. The task installs any missing dependencies and starts
-the app. Click **Open in Browser** when Codespaces forwards port 8501.
-Keep the port **Private**. You don't need to type a Python command.
+Open the FND Education Project **Codespace on main**, then open its terminal.
+From the repository root, type exactly:
 
-If you prefer running it manually, follow these instructions:
+```bash
+python crossword.py
+```
 
-After opening the feature branch in GitHub Codespaces, install dependencies once:
+That's it. The launcher creates/reuses a private Python environment, installs
+dependencies on the **first launch only** (this can take a little time), and
+starts the **original Python/Streamlit generator** on port 8501.
 
-    python -m pip install -r tools/puzzles/requirements-crosswords.txt
+Codespaces is configured to forward port 8501 and **open the browser
+automatically**. If your browser blocks the tab, use the clickable private
+Codespaces address printed in the terminal or open port **8501** from the
+**Ports** tab. Always leave the port's visibility **Private**, never Public.
 
-Then start the private, local browser app:
+To leave, select **Exit workshop → Stop server and exit** inside the app.
+The launcher then finishes; the Codespace itself stays open. You may also
+press Ctrl+C in the terminal.
 
-    python -m streamlit run tools/puzzles/crossword_app.py --server.address 0.0.0.0 --server.port 8501
-
-Open port **8501** from the Codespaces **Ports** tab (or click the
-notification offering to open the app in your browser). Keep port
-visibility **Private**, not Public. Nothing needs to be deployed to the
-website or any external server.
+The existing **Terminal → Run Task → FND: Open Crossword Workshop** runs the
+same launcher if you prefer the menu. You do not need any Cloudflare setup,
+server deployment, public website generation service, or manually typed
+`pip install` command. The original Python engine still runs inside your
+Codespace, not on a site visitor's computer.
 
 Once opened, the workshop supports the full workflow without further terminal commands:
 
