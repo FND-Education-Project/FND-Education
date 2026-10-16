@@ -236,7 +236,9 @@ def _points(p: Placed) -> list[tuple[int, int]]:
 
 
 def _legal(layout: Layout, entry: Entry, row: int, col: int,
-           direction: str, max_side: int) -> tuple[int, list[int]] | None:
+           direction: str, max_side: int,
+           existing_bounds: tuple[int, int, int, int] | None = None
+           ) -> tuple[int, list[int]] | None:
     """Check intersections, boundaries, and accidental side-by-side letters."""
     dr, dc = (0, 1) if direction == "across" else (1, 0)
     word = entry.answer
@@ -260,12 +262,19 @@ def _legal(layout: Layout, entry: Entry, row: int, col: int,
                 return None
     if layout.cells and not intersection_indices:
         return None
-    points = list(layout.cells) + [
-        (row + dr * i, col + dc * i) for i in range(len(word))
-    ]
-    ys, xs = zip(*points)
-    if max(ys) - min(ys) + 1 > max_side or \
-       max(xs) - min(xs) + 1 > max_side:
+    # Avoid re-copying every occupied cell for thousands of candidate
+    # placements. A word's end points plus the existing bounding rectangle
+    # fully determine whether it fits the maximum grid dimensions.
+    end_row = row + dr * (len(word) - 1)
+    end_col = col + dc * (len(word) - 1)
+    if layout.cells:
+        r0, c0, r1, c1 = existing_bounds or layout.bounds()
+        new_height = max(r1, row, end_row) - min(r0, row, end_row) + 1
+        new_width = max(c1, col, end_col) - min(c0, col, end_col) + 1
+    else:
+        new_height = abs(end_row - row) + 1
+        new_width = abs(end_col - col) + 1
+    if new_height > max_side or new_width > max_side:
         return None
     return len(intersection_indices), intersection_indices
 
@@ -287,6 +296,9 @@ def _best_placement(layout: Layout, entry: Entry, rng: random.Random,
         by_letter[letter].append(coord)
     options: list[tuple[float, int, int, str]] = []
     visited = set()
+    y0, x0, y1, x1 = layout.bounds()
+    old_r, old_c = y1 - y0 + 1, x1 - x0 + 1
+    existing_bounds = (y0, x0, y1, x1)
     for i, char in enumerate(entry.answer):
         for y, x in by_letter.get(char, []):
             for direction in DIRECTIONS:
@@ -296,13 +308,14 @@ def _best_placement(layout: Layout, entry: Entry, rng: random.Random,
                 if candidate in visited:
                     continue
                 visited.add(candidate)
-                result = _legal(layout, entry, row, col, direction, max_side)
+                result = _legal(
+                    layout, entry, row, col, direction, max_side,
+                    existing_bounds=existing_bounds
+                )
                 if result is None:
                     continue
                 n, indices = result
-                old_r, old_c = layout.size()
                 dr, dc = (0, 1) if direction == "across" else (1, 0)
-                y0, x0, y1, x1 = layout.bounds()
                 new_rows = max(y1, row + dr * (len(entry.answer) - 1)) - min(y0, row) + 1
                 new_cols = max(x1, col + dc * (len(entry.answer) - 1)) - min(x0, col) + 1
                 span = ((max(indices) - min(indices)) / max(1, len(entry.answer)-1)) \
