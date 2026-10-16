@@ -151,7 +151,8 @@ class LayoutAndPdfTests(unittest.TestCase):
             folder = Path(tmp)
             pdfs = export_pdfs(self.printable[0], folder, "Fillable PDF test")
             doc = fitz.open(folder / pdfs["normal"])
-            first = next(iter(doc[0].widgets()))
+            page = doc[0]  # Retain the page while editing its widget.
+            first = next(iter(page.widgets()))
             original_name = first.field_name
             first.field_value = "A"
             first.update()
