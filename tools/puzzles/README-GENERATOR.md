@@ -54,11 +54,18 @@ Once opened, the workshop supports the full workflow without further terminal co
    `signs-and-capacity-m2-5-answer-key.pdf`). Module recaps use
    `Module-2.zip`; whole-course reviews use `Whole-Course.zip`.
 
-**Exit:** Choose **Exit workshop → Stop server and exit** in the upper-right
-corner. This stops the private Streamlit server and cleans up the session's
-temporary puzzle output; it **does not** shut down Codespaces. Save/download
-your workbook first. To start again, run the same Codespaces task.
-You can also stop the terminal with Ctrl+C.
+**Exit:** Choose **Exit workshop → Stop server and exit** at the top
+**or bottom** of the page. Both confirm before stopping the private Streamlit
+server and cleaning up temporary puzzle output; neither shuts down Codespaces.
+Save/download your workbook first. Restart the same Codespaces task if you
+want another session. You can also stop the terminal with Ctrl+C.
+
+**Progress:** Generating five choices displays a percentage bar with a
+description of the current stage: validating questions, exploring crossings,
+checking printable layouts, or exporting PDF sets. The percentage measures
+completed search passes and output files against a conservative upper bound;
+it is **not** a time-remaining estimate. A search may finish early, making
+the bar jump forward, or take longer on a particularly difficult layout.
 
 The PDF grid has a thin outer border, and every unused cell inside its
 rectangle is black, like a traditional crossword. The fillable answer
