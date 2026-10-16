@@ -192,7 +192,7 @@ def title_measure(title: str, layout: Layout) -> tuple[float, float]:
 def validate_title(title: str, layout: Layout) -> str:
     """Never shrink, truncate or wrap a user-selected crossword title."""
     title = title.strip()
-    if not title or any(char in title for char in "\\n\\r\\t"):
+    if not title or any(char in title for char in "\n\r\t"):
         raise ValueError("Enter a single-line title.")
     if len(title) > 120:
         raise ValueError("Title is too long. Use at most 120 characters.")
