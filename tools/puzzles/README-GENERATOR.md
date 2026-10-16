@@ -6,9 +6,44 @@ the five generated options before adding approved PDFs/thumbnails to the site.
 
 This tool is separate from the existing legacy PDF upgrade scripts. Its output
 follows [CROSSWORD_FORMATTING.md](CROSSWORD_FORMATTING.md): **Normal, Easy,
-Answer Key**, one **US Letter** page each, 14-point squares, same clues/grid,
+Answer Key**, one **US Letter** page each, **14–16 pt squares and 12–14 pt clues**, same clues/grid,
 with fillable one-character cells in Normal and Easy. The easy version has
 the word bank on the same page. PDFs are not published automatically.
+
+## Open the spreadsheet-style workshop in Codespaces
+
+After opening the feature branch in GitHub Codespaces, install dependencies once:
+
+    python -m pip install -r tools/puzzles/requirements-crosswords.txt
+
+Then start the private, local browser app:
+
+    python -m streamlit run tools/puzzles/crossword_app.py --server.address 0.0.0.0 --server.port 8501
+
+Open port **8501** from the Codespaces **Ports** tab (or click the
+notification offering to open the app in your browser). Keep port
+visibility **Private**, not Public. Nothing needs to be deployed to the
+website or any external server.
+
+The workshop supports the full workflow without further terminal commands:
+
+1. Open the question-bank workbook already in tools/puzzles, or upload
+   another .xlsx file. Add or paste answers and clues directly into the
+   editable spreadsheet-like table.
+2. Choose Lesson, Module or All from simple dropdowns, then press
+   **Generate five crossword choices**. The default aims for **36** answers
+   rather than the previous arbitrary 24-word limit. If a full puzzle
+   cannot fit legibly, the search tries fewer words automatically.
+3. Compare **full-page PDF previews** of up to five layouts. Select one,
+   then press **Download selected puzzle (ZIP)** to receive Normal, Easy,
+   Answer Key and a source report. Individual PDF downloads are included.
+
+**Important:** The in-browser editor has a **Save edits to workbook in
+Codespaces** button. Saving locally does not commit your work to GitHub:
+you can download the edited workbook for backup, or commit/push it when
+ready. Generating a puzzle uses your *current edits*, even if you have
+not saved them to the repository. No public site pages or PDFs are
+published automatically.
 
 ## Workbook
 
@@ -69,7 +104,7 @@ Choose a larger pool, search harder, or change the reproducible starting seed:
 
     python tools/puzzles/generate_crosswords.py my-questions.xlsx --module 1 --lesson 3 --max-words 30 --attempts 600 --seed 42
 
-Options include --top 5 (default), --max-words 24 (default),
+Options include --top 5 (default), --max-words 36 (default),
 --max-side 29 (default), --title "Your title", and
 --out tools/puzzles/.crossword-output (default). The output directory
 is ignored by Git; publishing is a separate, deliberate action.
@@ -110,7 +145,7 @@ will fit; there may be fewer than five distinct printable layouts.
 
 **Print standard takes precedence over word count.** The program rejects
 layouts if the complete clues or word bank cannot fit on a single Letter
-page with 14-point squares. Increase --attempts, reduce
+page with at least 14-point squares and 12-point clues. Increase --attempts, reduce
 --max-words, or add more crossing-friendly questions. It will
 never silently shrink squares, truncate clues, or add a second page.
 
