@@ -73,6 +73,14 @@ Each symptom can have its own explanation, and your care team can look at each o
 
 **Key idea: Each condition you have deserves its own care. Your care team can plan for all of them together.**
 
+<figure class="image-60center" markdown="1">
+
+![The word ME filled with colourful scenes of friendship, rest, pets, nature, creative activities and medical care.](../../../assets/images/lesson-6-illustration.png)
+
+<figcaption>Your care can make room for each health condition and the things that matter to you.</figcaption>
+
+</figure>
+
 ### What if some questions remain unanswered?
 
 Your clinician can be confident that you have FND while still checking another symptom. Some questions take more time or information to answer. Taking that time is part of good, careful care.
@@ -116,6 +124,17 @@ Is there one question you would still like your clinician to answer?
 Choose one question to bring to your next appointment. You can write it down, record a voice note or ask someone to help you remember it. For example: “What findings support my FND diagnosis, and is there anything else we still need to check?”
 
 Your care team is there to explain test results with you. You can ask for explanations in a form that works for you, with support whenever you want it.
+
+### Optional learning activity
+
+Choose the preview to open the printable colouring PDF. Use landscape orientation and fit to page when printing. You can also browse the [puzzles collection](../../../assets/puzzles/README.md).
+
+<div class="puzzle-grid puzzle-grid-colouring">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-6-coloring-book.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/colouring/lesson-6-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Lesson 6: Care for the whole person — Colouring page <small>PDF</small></span>
+</a>
+</div>
 
 ---
 
