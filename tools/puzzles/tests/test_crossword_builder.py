@@ -2,6 +2,8 @@
 from __future__ import annotations
 
 import json
+from io import BytesIO
+from zipfile import ZipFile
 from pathlib import Path
 import sys
 import tempfile
@@ -16,7 +18,11 @@ sys.path.insert(0, str(ROOT))
 from crossword_builder.core import (
     Entry, read_workbook, select_entries, top_layouts, verify_layout,
 )
-from crossword_builder.publish import export_gallery, export_pdfs, is_printable
+from crossword_builder.publish import (
+    blocked_cells, export_gallery, export_pdfs, is_printable,
+    plan_page, restore_layout, title_measure, validate_title,
+)
+from crossword_builder.deliver import package_names, prepare_downloads
 
 
 WORDS = (
@@ -185,6 +191,86 @@ class LayoutAndPdfTests(unittest.TestCase):
             self.assertEqual(filled.field_value, "A")
             self.assertEqual(filled.text_maxlen, 1)
             reopened.close()
+
+    def test_crossword_has_black_block_squares_and_outer_border(self):
+        self.assertTrue(self.printable)
+        layout = self.printable[0]
+        empty = blocked_cells(layout)
+        self.assertGreater(len(empty), 0)
+        self.assertTrue(empty.isdisjoint(layout.cells))
+        rows, cols = layout.size()
+        self.assertEqual(len(layout.cells) + len(empty), rows * cols)
+        plan = plan_page(layout)
+        with tempfile.TemporaryDirectory() as tmp:
+            pdfs = export_pdfs(layout, Path(tmp), "FND learning review")
+            doc = fitz.open(Path(tmp) / pdfs["normal"])
+            r, c = sorted(empty)[0]
+            x = plan.grid_x + (c + .5) * plan.square
+            y = plan.grid_y + (r + .5) * plan.square
+            # The PDF render is authoritative: no white void inside a border.
+            pix = doc[0].get_pixmap(
+                matrix=fitz.Matrix(2, 2),
+                clip=fitz.Rect(x - 1, y - 1, x + 1, y + 1),
+                alpha=False,
+            )
+            self.assertLess(max(pix.samples[0:3]), 85)
+            self.assertEqual(len(list(doc[0].widgets() or [])), len(layout.cells))
+            doc.close()
+
+    def test_title_width_is_measured_and_not_truncated(self):
+        layout = self.printable[0]
+        self.assertEqual(validate_title("FND Learning Review", layout),
+                         "FND Learning Review")
+        used, available = title_measure("FND Learning Review", layout)
+        self.assertLess(used, available)
+        with self.assertRaisesRegex(ValueError, "Shorten"):
+            validate_title("W" * 110, layout)
+        with self.assertRaisesRegex(ValueError, "single-line"):
+            validate_title("One\nTwo", layout)
+
+    def test_selected_puzzle_retitle_and_download_naming(self):
+        self.assertTrue(self.printable)
+        with tempfile.TemporaryDirectory() as tmp:
+            directory = Path(tmp)
+            export_gallery(self.printable[:1], directory, "FND Module 2 Lesson 5",
+                           self.pool, [], {"mode": "lesson", "module": 2,
+                                           "lesson": 5})
+            report = json.loads((directory / "report.json").read_text())
+            candidate = report["candidates"][0]
+            restored = restore_layout(candidate)
+            self.assertEqual(restored.signature(), self.printable[0].signature())
+            self.assertTrue(all(
+                "grid_row" in item and "grid_col" in item
+                for item in candidate["included"]
+            ))
+            name, files, zip_bytes = prepare_downloads(
+                candidate, report["selection"], "Signs and Capacity",
+                directory / "final",
+            )
+            self.assertEqual(name, "Module-2-Lesson-5.zip")
+            self.assertEqual(
+                files["normal"][0], "signs-and-capacity-m2-5-normal.pdf"
+            )
+            self.assertEqual(
+                files["easy"][0], "signs-and-capacity-m2-5-easy.pdf"
+            )
+            self.assertEqual(
+                files["key"][0], "signs-and-capacity-m2-5-answer-key.pdf"
+            )
+            with ZipFile(BytesIO(zip_bytes)) as zipped:
+                self.assertEqual(len(zipped.namelist()), 4)
+                for _kind, (filename, pdf_bytes) in files.items():
+                    self.assertEqual(zipped.read(filename), pdf_bytes)
+                    pdf = fitz.open(stream=pdf_bytes, filetype="pdf")
+                    self.assertIn("Signs and Capacity", pdf[0].get_text())
+                    self.assertEqual(len(pdf), 1)
+                    pdf.close()
+            self.assertEqual(package_names("Course recap", {
+                "mode": "module", "module": 2
+            }), ("course-recap-m2", "Module-2.zip"))
+            self.assertEqual(package_names("Course recap", {
+                "mode": "all"
+            }), ("course-recap-all", "Whole-Course.zip"))
 
     def test_gallery_contains_five_options_and_origin_report(self):
         self.assertTrue(self.printable)
