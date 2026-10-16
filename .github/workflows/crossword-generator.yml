@@ -6,7 +6,6 @@ on:
       - "tools/puzzles/crossword_builder/**"
       - "tools/puzzles/generate_crosswords.py"
       - "tools/puzzles/crossword_app.py"
-      - "tools/puzzles/crossword_app.py"
       - "tools/puzzles/requirements-crosswords.txt"
       - "tools/puzzles/tests/test_crossword_builder.py"
       - ".github/workflows/crossword-generator.yml"
@@ -15,6 +14,7 @@ on:
     paths:
       - "tools/puzzles/crossword_builder/**"
       - "tools/puzzles/generate_crosswords.py"
+      - "tools/puzzles/crossword_app.py"
       - "tools/puzzles/requirements-crosswords.txt"
       - "tools/puzzles/tests/test_crossword_builder.py"
       - ".github/workflows/crossword-generator.yml"
