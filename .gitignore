@@ -34,3 +34,7 @@ web/robots.txt
 __pycache__/
 *.py[cod]
 subject-search-report.json
+
+# Private Codespaces crossword workshop environment and generated files
+.venv-crossword/
+tools/puzzles/.crossword-output/
