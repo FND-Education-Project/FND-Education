@@ -39,6 +39,18 @@ jobs:
         run: python -m compileall -q tools/puzzles/crossword_builder tools/puzzles/generate_crosswords.py tools/puzzles/crossword_app.py
       - name: Run workbook, placement, PDF and form regression checks
         run: python -m unittest discover -s tools/puzzles/tests -p "test_crossword_builder.py" -v
+      - name: Smoke-test the browser-based crossword workshop
+        run: |
+          python - <<'PY'
+          from streamlit.testing.v1 import AppTest
+          app = AppTest.from_file("tools/puzzles/crossword_app.py").run(timeout=40)
+          if app.exception:
+              raise AssertionError(
+                  "Crossword workshop failed to load: " + str(list(app.exception))
+              )
+          assert app.title and "Crossword Workshop" in app.title[0].value
+          print("Crossword workshop loads with spreadsheet controls.")
+          PY
       - name: Generate a full Lesson 3 crossword from the project workbook
         if: github.event_name == 'pull_request'
         run: |
