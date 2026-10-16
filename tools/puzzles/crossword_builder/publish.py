@@ -20,6 +20,7 @@ WIDTH, HEIGHT = 612.0, 792.0  # US Letter, PDF points
 SQUARE_SIZES = (16.0, 15.0, 14.0)
 CLUE_FONTS = (14.0, 13.0, 12.0)
 MARGINS = (36.0, 30.0, 24.0)
+TITLE_FONT = 15.0  # Keep the same title size in preview and final editions.
 
 
 @dataclass
@@ -182,6 +183,64 @@ def plan_page(layout: Layout) -> PrintPlan:
     )
 
 
+def title_measure(title: str, layout: Layout) -> tuple[float, float]:
+    """Return title width and available width at the fixed 15 pt title font."""
+    plan = plan_page(layout)
+    return _width(title.strip(), TITLE_FONT, bold=True), WIDTH - 2 * plan.margin
+
+
+def validate_title(title: str, layout: Layout) -> str:
+    """Never shrink, truncate or wrap a user-selected crossword title."""
+    title = title.strip()
+    if not title or any(char in title for char in "\\n\\r\\t"):
+        raise ValueError("Enter a single-line title.")
+    if len(title) > 120:
+        raise ValueError("Title is too long. Use at most 120 characters.")
+    used, available = title_measure(title, layout)
+    if used > available + .01:
+        raise ValueError(
+            f"Title is {used:.0f} points wide but this layout permits "
+            f"{available:.0f} points at {TITLE_FONT:g} pt. Shorten the title."
+        )
+    return title
+
+
+def blocked_cells(layout: Layout) -> set[tuple[int, int]]:
+    """All unoccupied squares inside the rectangular crossword border."""
+    rows, cols = layout.size()
+    return {
+        (row, col)
+        for row in range(rows) for col in range(cols)
+        if (row, col) not in layout.cells
+    }
+
+
+def restore_layout(candidate: dict) -> Layout:
+    """Re-create one candidate exactly from the traceable layout report.
+
+    The user may rename the selected puzzle without regenerating or
+    renumbering its grid.
+    """
+    from .core import _place
+    layout = Layout()
+    for item in candidate["included"]:
+        entry = Entry(
+            clue=item["clue"],
+            original_answer=item.get("original_answer", item["answer"]),
+            answer=item["answer"],
+            priority=int(item["priority"]),
+            lesson=int(item["lesson"]), module=int(item["module"]),
+            source_row=int(item["row"]),
+        )
+        _place(layout, entry, int(item["grid_row"]),
+               int(item["grid_col"]), item["direction"])
+    layout = layout.normalized()
+    verify_layout(layout)
+    layout.score = float(candidate.get("score", 0))
+    layout.metrics = dict(candidate.get("metrics", {}))
+    return layout
+
+
 def is_printable(layout: Layout) -> bool:
     try:
         plan_page(layout)
@@ -213,13 +272,14 @@ def _draw_page(
 ) -> list[tuple[int, int]]:
     """Draw the same grid and clues across all editions."""
     x, y, side, margin = plan.grid_x, plan.grid_y, plan.square, plan.margin
-    label = title[:90]
-    title_size = 15.0
-    if _width(label, title_size, bold=True) > WIDTH - margin * 2:
-        title_size = 12.0
-    page.insert_text((margin, margin + title_size), label,
-                     fontsize=title_size, fontname="hebo")
+    page.insert_text((margin, margin + TITLE_FONT), title,
+                     fontsize=TITLE_FONT, fontname="hebo")
     numbering = {(p.row, p.col): n for n, p in layout.numbered()}
+    # A complete, conventional crossword rectangle: every square without
+    # an answer letter is black. The small outer border is intentional.
+    rows, cols = layout.size()
+    board = fitz.Rect(x, y, x + cols * side, y + rows * side)
+    page.draw_rect(board, fill=(.08, .08, .08), color=(.1, .1, .1), width=.9)
     for (r, c), ch in sorted(layout.cells.items()):
         rect = fitz.Rect(
             x + c * side, y + r * side, x + (c + 1) * side, y + (r + 1) * side
@@ -230,7 +290,7 @@ def _draw_page(
             page.insert_text((rect.x0 + 1.5, rect.y0 + 6.0),
                              str(numbering[r, c]), fontsize=5.6, fontname="helv")
         if edition == "key":
-            page.insert_text((rect.x0 + side * .24, rect.y1 - 2.0),
+            page.insert_text((rect.x0 + side * .24, rect.y1 - 3.6),
                              ch, fontsize=min(12.0, side * .7), fontname="hebo")
     start_below = plan.regions[-2][1]
     if plan.divider_end > start_below + 6:
@@ -256,6 +316,7 @@ def _draw_page(
 
 def _save_pdf(layout: Layout, edition: str, destination: Path, title: str) -> None:
     verify_layout(layout)
+    title = validate_title(title, layout)
     plan = plan_page(layout)
     doc = fitz.open()
     page = doc.new_page(width=WIDTH, height=HEIGHT)
@@ -277,7 +338,7 @@ def _save_pdf(layout: Layout, edition: str, destination: Path, title: str) -> No
             field.fill_color = None
             # Leave clue number visible in the upper-left of each square.
             field.rect = fitz.Rect(
-                x + .8, y + 6.0, x + plan.square - .8, y + plan.square - .5
+                x + .8, y + 4.5, x + plan.square - .8, y + plan.square - 2.0
             )
             page.add_widget(field)
         doc.xref_set_key(page.xref, "Tabs", "/A")
@@ -330,6 +391,8 @@ def _preview_svg(layout: Layout) -> str:
         f'viewBox="0 0 {cols * pitch} {rows * pitch}" '
         'xmlns="http://www.w3.org/2000/svg">'
     ]
+    out.append(f'<rect x="0" y="0" width="{cols * pitch}" '
+               f'height="{rows * pitch}" fill="#171717" stroke="#333"/>')
     for (r, c) in layout.cells:
         out.append(f'<rect x="{c * pitch}" y="{r * pitch}" '
                    f'width="{pitch}" height="{pitch}" '
@@ -360,6 +423,8 @@ def export_gallery(
         included = [
             {
                 "row": p.entry.source_row, "answer": p.entry.answer,
+                "original_answer": p.entry.original_answer,
+                "grid_row": p.row, "grid_col": p.col,
                 "clue": p.entry.clue, "priority": p.entry.priority,
                 "module": p.entry.module, "lesson": p.entry.lesson,
                 "borrowed": p.entry.source_row not in source_rows,
