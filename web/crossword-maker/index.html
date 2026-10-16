@@ -1,0 +1,110 @@
+---
+layout: default
+title: Make a Crossword
+description: Create a printable FND education crossword from reviewed lesson questions without an account.
+permalink: /crossword-maker/
+crossword_maker: true
+---
+
+<article class="course-page reading-column">
+  <header class="page-heading">
+    <p class="page-context">PUZZLES · FREE ACTIVITY</p>
+    <h1>Make a crossword</h1>
+    <p class="page-description">
+      Choose a lesson, a module, or the whole course. Compare layouts and
+      download Normal, Easy and Answer Key PDFs to print at home.
+    </p>
+  </header>
+  <div class="course-content cw-workshop" id="crossword-app"
+       data-bank-url="{{ '/assets/data/crossword-bank.json' | relative_url }}">
+    <p class="cw-privacy">
+      No sign-in is needed. Your choices and puzzle layouts stay in this browser.
+      The published questions come from our educational Excel question bank.
+      Visit <a href="{{ '/puzzles/' | relative_url }}">Course Puzzles</a>
+      for ready-made crosswords and colouring pages.
+    </p>
+    <section class="cw-panel" aria-labelledby="cw-setup-heading">
+      <h2 id="cw-setup-heading">1. Choose your questions</h2>
+      <div class="cw-fields">
+        <div class="cw-field">
+          <label for="cw-scope">Include questions from</label>
+          <select id="cw-scope">
+            <option value="lesson">One lesson</option>
+            <option value="module">One module</option>
+            <option value="all">All available lessons</option>
+          </select>
+        </div>
+        <div class="cw-field">
+          <label for="cw-module">Module</label>
+          <select id="cw-module"></select>
+        </div>
+        <div class="cw-field">
+          <label for="cw-lesson">Lesson</label>
+          <select id="cw-lesson"></select>
+        </div>
+      </div>
+      <p id="cw-count" class="cw-caption">Loading published questions…</p>
+      <div class="cw-fields">
+        <div class="cw-field cw-title-field">
+          <label for="cw-title">Title for your printed crossword</label>
+          <input id="cw-title" maxlength="100" value="FND Crossword">
+        </div>
+        <div class="cw-field">
+          <label for="cw-size">Maximum answers</label>
+          <select id="cw-size">
+            <option value="12">12</option>
+            <option value="15">15</option>
+            <option value="18" selected>18</option>
+            <option value="21">21</option>
+            <option value="24">24</option>
+          </select>
+        </div>
+      </div>
+      <details>
+        <summary>Optional layout settings</summary>
+        <div class="cw-fields">
+          <div class="cw-field">
+            <label for="cw-seed">Layout seed</label>
+            <input type="number" id="cw-seed" min="1" max="100000" value="1">
+          </div>
+          <div class="cw-field">
+            <label for="cw-effort">Search effort</label>
+            <select id="cw-effort">
+              <option value="35">Quick</option>
+              <option value="90" selected>Balanced</option>
+              <option value="160">Thorough</option>
+            </select>
+          </div>
+        </div>
+      </details>
+      <button id="cw-generate" type="button" class="cw-primary" disabled>
+        Generate crossword choices
+      </button>
+      <p id="cw-status" role="status" aria-live="polite">
+        Loading the public question bank…
+      </p>
+    </section>
+    <section aria-labelledby="cw-choose-heading">
+      <h2 id="cw-choose-heading">2. Compare layouts</h2>
+      <p>Pick the arrangement you prefer. Crosswords use a printer-friendly
+        dot pattern in unused squares instead of solid black fill.</p>
+      <div id="cw-choices" class="cw-options" aria-label="Crossword layouts"></div>
+      <div id="cw-preview" class="cw-preview"></div>
+    </section>
+    <section id="cw-download" class="cw-panel" aria-labelledby="cw-download-heading" hidden>
+      <h2 id="cw-download-heading">3. Download and print</h2>
+      <p>These are US Letter, one-page PDFs. Easy includes a word bank;
+        the Answer Key shows the filled letters.</p>
+      <div class="cw-downloads">
+        <button id="cw-normal" type="button">Download Normal PDF</button>
+        <button id="cw-easy" type="button">Download Easy PDF</button>
+        <button id="cw-key" type="button">Download Answer Key PDF</button>
+      </div>
+    </section>
+    <noscript>
+      <p>JavaScript is required to create a crossword in your browser.
+        The <a href="{{ '/puzzles/' | relative_url }}">existing downloadable puzzles</a>
+        remain available without JavaScript.</p>
+    </noscript>
+  </div>
+</article>
