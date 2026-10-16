@@ -132,6 +132,31 @@ def _thumbnail(path: Path, zoom: float = 1.05) -> bytes:
         doc.close()
 
 
+def _exit_workshop(position: str) -> None:
+    """Identical confirmed shutdown controls in the header and footer."""
+    with st.popover("Exit workshop"):
+        st.write(
+            "Stop the private workshop server and close this session? "
+            "Save or download any unsaved Excel changes first. "
+            "This does not shut down Codespaces."
+        )
+        if st.button(
+            "Stop server and exit", key=f"exit_workshop_{position}",
+            type="primary",
+        ):
+            previous = st.session_state.get("crossword_results")
+            if previous:
+                shutil.rmtree(previous["parent"], ignore_errors=True)
+            st.session_state.clear()
+            # Allow the confirmation response to render before the
+            # single-user Codespaces authoring server stops.
+            threading.Timer(
+                1.5, lambda: os.kill(os.getpid(), signal.SIGTERM)
+            ).start()
+            st.success("Workshop closed. You may close this browser tab.")
+            st.stop()
+
+
 st.set_page_config(
     page_title="FND Crossword Workshop",
     page_icon="🧩", layout="wide",
@@ -140,24 +165,7 @@ heading, exit_column = st.columns([7, 2], vertical_alignment="center")
 with heading:
     st.title("FND Crossword Workshop")
 with exit_column:
-    with st.popover("Exit workshop"):
-        st.write(
-            "Stop the private workshop server and close this session? "
-            "Remember to save or download any workbook edits first. "
-            "You can restart the workshop from Codespaces later."
-        )
-        if st.button("Stop server and exit", type="primary"):
-            previous = st.session_state.get("crossword_results")
-            if previous:
-                shutil.rmtree(previous["parent"], ignore_errors=True)
-            st.session_state.clear()
-            # Finish this response before shutting down Streamlit itself.
-            # This stops the private workshop only, not the Codespace.
-            threading.Timer(
-                1.5, lambda: os.kill(os.getpid(), signal.SIGTERM)
-            ).start()
-            st.success("Workshop closed. You can close this browser tab.")
-            st.stop()
+    _exit_workshop("header")
 st.caption(
     "Edit your question bank, select a lesson or module, compare five puzzles, "
     "and download the chosen Normal, Easy, and Answer Key PDFs."
@@ -321,10 +329,19 @@ if st.button("Generate five crossword choices", type="primary"):
     args[0] = str(workbook)
     args.extend(["--out", str(output)])
     stdout, stderr = StringIO(), StringIO()
+    progress_indicator = st.progress(
+        0, text="0% — Preparing crossword generation"
+    )
+
+    def report_progress(percentage: int, stage: str) -> None:
+        progress_indicator.progress(
+            percentage, text=f"{percentage}% — {stage}"
+        )
+
     with st.spinner("Building and checking printable crossword layouts…"):
         try:
             with redirect_stdout(stdout), redirect_stderr(stderr):
-                exit_code = generate_cli(args)
+                exit_code = generate_cli(args, progress=report_progress)
             if exit_code:
                 st.error(
                     "The crossword could not be generated. " +
@@ -441,8 +458,16 @@ if saved:
                          hide_index=True)
 
 st.divider()
-st.caption(
-    "Your workbook and generated files stay within this Codespace until "
-    "you save/commit or download them. Keep the forwarded Codespaces port "
-    "private. The website's public course pages are not changed."
+footer_content, footer_exit = st.columns(
+    [7, 2], vertical_alignment="center"
 )
+with footer_content:
+    st.caption(
+        "Your workbook and generated files stay within this Codespace until "
+        "you save/commit or download them. Keep the forwarded Codespaces port "
+        "private. The website's public course pages are not changed."
+    )
+with footer_exit:
+    _exit_workshop("footer")
+
+
