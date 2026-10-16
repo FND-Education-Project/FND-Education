@@ -7,6 +7,8 @@ on:
       - "web/assets/js/analytics.js"
       - "web/assets/js/search.js"
       - "web/_layouts/default.html"
+      - "web/_layouts/home.html"
+      - "web/_config.yml"
       - "web/search/index.html"
       - ".github/workflows/privacy-analytics.yml"
   push:
@@ -16,6 +18,8 @@ on:
       - "web/assets/js/analytics.js"
       - "web/assets/js/search.js"
       - "web/_layouts/default.html"
+      - "web/_layouts/home.html"
+      - "web/_config.yml"
       - "web/search/index.html"
       - ".github/workflows/privacy-analytics.yml"
 
@@ -38,10 +42,18 @@ jobs:
           node --check tools/analytics/cloudflare/src/worker.mjs
       - name: Validate anonymous-only Worker behaviour
         run: node --test tools/analytics/cloudflare/tests/worker.test.mjs
-      - name: Confirm analytics is not enabled in public site config
+      - name: Require public privacy notice for analytics activation
         run: |
-          if grep -q '^[[:space:]]*analytics_endpoint:' web/_config.yml; then
-            echo "::error::Never enable analytics before server and privacy approval."
+          if grep -Eq '^[[:space:]]*analytics_endpoint:[[:space:]]*https://' web/_config.yml; then
+            if ! grep -Fq 'class="home-privacy"' web/_layouts/home.html ||
+               ! grep -Fq 'We count how often pages are opened' web/_layouts/home.html; then
+              echo "::error::Cannot enable analytics without the approved home-page privacy notice."
+              exit 1
+            fi
+            echo "Analytics endpoint and public privacy notice are both configured."
+          elif grep -Eq '^[[:space:]]*analytics_endpoint:' web/_config.yml; then
+            echo "::error::Analytics endpoint must use an HTTPS URL or be omitted."
             exit 1
+          else
+            echo "Analytics remains disabled."
           fi
-          echo "Collection remains disabled pending server deployment."
