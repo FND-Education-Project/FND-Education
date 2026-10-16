@@ -16,7 +16,9 @@ The collection includes crosswords and colouring pages. Other activity formats m
 
 ## Crosswords
 
-Choose a preview to open the PDF for printing.
+**[Make your own crossword](https://fndeducationproject.org/crossword-maker/)** — choose a lesson, module, or course review and download a printer-friendly Normal, Easy or Answer Key PDF. No login needed.
+
+Choose a preview below to open an existing PDF for printing.
 
 
 ### What is FND?
