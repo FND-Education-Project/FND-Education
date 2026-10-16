@@ -12,6 +12,13 @@ the word bank on the same page. PDFs are not published automatically.
 
 ## Open the spreadsheet-style workshop in Codespaces
 
+**Easiest launch:** In Codespaces choose **Terminal → Run Task → FND: Open
+Crossword Workshop**. The task installs any missing dependencies and starts
+the app. Click **Open in Browser** when Codespaces forwards port 8501.
+Keep the port **Private**. You don't need to type a Python command.
+
+If you prefer running it manually, follow these instructions:
+
 After opening the feature branch in GitHub Codespaces, install dependencies once:
 
     python -m pip install -r tools/puzzles/requirements-crosswords.txt
@@ -25,7 +32,7 @@ notification offering to open the app in your browser). Keep port
 visibility **Private**, not Public. Nothing needs to be deployed to the
 website or any external server.
 
-The workshop supports the full workflow without further terminal commands:
+Once opened, the workshop supports the full workflow without further terminal commands:
 
 1. Open the question-bank workbook already in tools/puzzles, or upload
    another .xlsx file. Add or paste answers and clues directly into the
