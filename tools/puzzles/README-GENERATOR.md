@@ -42,8 +42,27 @@ Once opened, the workshop supports the full workflow without further terminal co
    rather than the previous arbitrary 24-word limit. If a full puzzle
    cannot fit legibly, the search tries fewer words automatically.
 3. Compare **full-page PDF previews** of up to five layouts. Select one,
-   then press **Download selected puzzle (ZIP)** to receive Normal, Easy,
-   Answer Key and a source report. Individual PDF downloads are included.
+   then type the **final crossword title**. The workshop measures the title
+   using its actual 15 pt bold print font, and tells you to shorten it if
+   the title cannot fit on one line. Renaming does not change the layout.
+4. Download the **ZIP of three PDFs** plus the source report, or download
+   each edition individually. Filenames use the chosen title and selected
+   module/lesson number (for example:
+   `Module-2-Lesson-5.zip` containing
+   `signs-and-capacity-m2-5-normal.pdf`,
+   `signs-and-capacity-m2-5-easy.pdf`, and
+   `signs-and-capacity-m2-5-answer-key.pdf`). Module recaps use
+   `Module-2.zip`; whole-course reviews use `Whole-Course.zip`.
+
+**Exit:** Choose **Exit workshop → Stop server and exit** in the upper-right
+corner. This stops the private Streamlit server and cleans up the session's
+temporary puzzle output; it **does not** shut down Codespaces. Save/download
+your workbook first. To start again, run the same Codespaces task.
+You can also stop the terminal with Ctrl+C.
+
+The PDF grid has a thin outer border, and every unused cell inside its
+rectangle is black, like a traditional crossword. The fillable answer
+cells retain a small lower padding for legible typing.
 
 **Important:** The in-browser editor has a **Save edits to workbook in
 Codespaces** button. Saving locally does not commit your work to GitHub:
