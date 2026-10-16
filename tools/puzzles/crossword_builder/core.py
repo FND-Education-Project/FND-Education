@@ -431,7 +431,7 @@ def evaluate(layout: Layout, primary: list[Entry], max_words: int) -> None:
 def top_layouts(primary: list[Entry], loans: list[Entry], *,
                 attempts: int = 250, top: int = 5,
                 max_words: int = 24, max_side: int = 29,
-                seed: int = 1) -> list[Layout]:
+                seed: int = 1, progress=None) -> list[Layout]:
     """Generate distinct, reproducible, quality-ranked connected layouts."""
     if not 3 <= max_words <= 60 or not 8 <= max_side <= 40:
         raise ValueError("Require 3 <= max_words <= 60 and 8 <= max_side <= 40.")
@@ -439,14 +439,19 @@ def top_layouts(primary: list[Entry], loans: list[Entry], *,
         raise ValueError("Require 1 <= attempts <= 5000 and 1 <= top <= 20.")
     rng = random.Random(seed)
     best: dict[tuple, Layout] = {}
-    for _ in range(attempts):
+    for attempt_index in range(attempts):
         layout = build_attempt(primary, loans, rng, max_words, max_side)
-        if len(layout.placed) < 3:
-            continue
-        evaluate(layout, primary, max_words)
-        signature = layout.signature()
-        if signature not in best or layout.score > best[signature].score:
-            best[signature] = layout
+        if len(layout.placed) >= 3:
+            evaluate(layout, primary, max_words)
+            signature = layout.signature()
+            if signature not in best or layout.score > best[signature].score:
+                best[signature] = layout
+        # Avoid flooding browser updates on every candidate.
+        completed = attempt_index + 1
+        if progress is not None and (
+            completed == attempts or completed == 1 or completed % 4 == 0
+        ):
+            progress(completed, attempts)
     return sorted(best.values(), key=lambda x: (
         -x.score, -int(x.metrics["main_lesson_words"]),
         -int(x.metrics["words"]), x.signature(),
