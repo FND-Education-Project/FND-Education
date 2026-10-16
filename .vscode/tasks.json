@@ -1,0 +1,20 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "FND: Open Crossword Workshop",
+      "type": "shell",
+      "command": "python -m pip install -q -r tools/puzzles/requirements-crosswords.txt && python -m streamlit run tools/puzzles/crossword_app.py --server.address 0.0.0.0 --server.port 8501 --server.headless true",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "presentation": {
+        "reveal": "always",
+        "focus": false,
+        "panel": "dedicated",
+        "showReuseMessage": false
+      },
+      "problemMatcher": []
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Private Codespaces authoring UI. Avoid Streamlit's optional usage telemetry.
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true

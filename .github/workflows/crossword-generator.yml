@@ -1,0 +1,72 @@
+name: Check educational crossword generator
+
+on:
+  pull_request:
+    paths:
+      - "tools/puzzles/crossword_builder/**"
+      - "tools/puzzles/generate_crosswords.py"
+      - "tools/puzzles/crossword_app.py"
+      - "tools/puzzles/requirements-crosswords.txt"
+      - "tools/puzzles/tests/test_crossword_builder.py"
+      - ".github/workflows/crossword-generator.yml"
+  push:
+    branches: [main]
+    paths:
+      - "tools/puzzles/crossword_builder/**"
+      - "tools/puzzles/generate_crosswords.py"
+      - "tools/puzzles/crossword_app.py"
+      - "tools/puzzles/requirements-crosswords.txt"
+      - "tools/puzzles/tests/test_crossword_builder.py"
+      - ".github/workflows/crossword-generator.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate-crosswords:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: tools/puzzles/requirements-crosswords.txt
+      - name: Install crossword dependencies
+        run: python -m pip install -r tools/puzzles/requirements-crosswords.txt
+      - name: Compile Python files
+        run: python -m compileall -q tools/puzzles/crossword_builder tools/puzzles/generate_crosswords.py tools/puzzles/crossword_app.py
+      - name: Run workbook, placement, PDF and form regression checks
+        run: python -m unittest discover -s tools/puzzles/tests -p "test_crossword_builder.py" -v
+      - name: Smoke-test the browser-based crossword workshop
+        run: |
+          python - <<'PY'
+          from streamlit.testing.v1 import AppTest
+          app = AppTest.from_file("tools/puzzles/crossword_app.py").run(timeout=40)
+          if app.exception:
+              raise AssertionError(
+                  "Crossword workshop failed to load: " + str(list(app.exception))
+              )
+          assert app.title and "Crossword Workshop" in app.title[0].value
+          print("Crossword workshop loads with spreadsheet controls.")
+          PY
+      - name: Generate a full Lesson 3 crossword from the project workbook
+        if: github.event_name == 'pull_request'
+        run: |
+          if [ -f tools/puzzles/FND_Crossword_Question_Bank_Template.xlsx ]; then
+            python tools/puzzles/generate_crosswords.py \
+              tools/puzzles/FND_Crossword_Question_Bank_Template.xlsx \
+              --module 1 --lesson 3 --max-words 36 --attempts 250 \
+              --out /tmp/fnd-crossword-review
+          else
+            echo "No project question bank uploaded; synthetic tests completed."
+          fi
+      - name: Upload review-ready Lesson 3 puzzle previews
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: fnd-lesson-3-crossword-previews
+          path: /tmp/fnd-crossword-review/
+          if-no-files-found: ignore
+          retention-days: 7
