@@ -17,6 +17,7 @@ from crossword_builder import (
     export_gallery, is_printable, read_workbook, select_entries, top_layouts,
     verify_layout,
 )
+from crossword_builder.core import evaluate
 
 
 DEFAULT_OUTPUT = Path("tools/puzzles/.crossword-output")
@@ -35,8 +36,8 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     group.add_argument("--all", action="store_true", help="Use the entire workbook")
     group.add_argument("--list", action="store_true", help="List available "
                        "modules and lessons, without generating PDFs")
-    parser.add_argument("--max-words", type=int, default=24,
-                        help="Maximum answers per crossword (default: 24)")
+    parser.add_argument("--max-words", type=int, default=36,
+                        help="Maximum answers per crossword (default: 36; automatically tries fewer if needed)")
     parser.add_argument("--max-side", type=int, default=29,
                         help="Maximum grid rows/columns (default: 29)")
     parser.add_argument("--attempts", type=int, default=250,
@@ -87,14 +88,39 @@ def main(argv: list[str] | None = None) -> int:
         title = args.title or default_title
         if len(primary) < 3 and len(primary) + len(loans) < 3:
             raise ValueError("At least three distinct usable answers are required.")
-        candidates = top_layouts(
-            primary, loans, attempts=args.attempts, top=args.top,
-            max_words=args.max_words, max_side=args.max_side, seed=args.seed,
-        )
-        # The paper standard is non-negotiable: never shrink below 14pt,
-        # spill clues over extra pages, or silently drop a word bank.
-        eligible = [candidate for candidate in candidates if is_printable(candidate)]
-        chosen = eligible[:args.top]
+        # Search for a full, readable page rather than stopping at an
+        # arbitrary 24-word limit. Search the fullest grid first, then
+        # gradually reduce the word limit only if print formatting requires it.
+        floor = min(12, args.max_words)
+        limits = list(range(args.max_words, floor - 1, -4))
+        if limits[-1] != floor:
+            limits.append(floor)
+        attempts_per_limit = max(18, args.attempts // len(limits))
+        printable_by_signature = {}
+        for pass_number, limit in enumerate(limits):
+            candidates = top_layouts(
+                primary, loans, attempts=attempts_per_limit,
+                top=args.top, max_words=limit, max_side=args.max_side,
+                seed=args.seed + 1009 * pass_number,
+            )
+            for candidate in candidates:
+                if not is_printable(candidate):
+                    continue
+                # Coverage scores use the ORIGINAL requested word target, not
+                # the fallback target, so a 36-word puzzle earns an honest
+                # advantage over an equally good 24-word puzzle.
+                evaluate(candidate, primary, args.max_words)
+                printable_by_signature[candidate.signature()] = candidate
+            if len(printable_by_signature) >= args.top:
+                # There is no need to sacrifice answer coverage merely to
+                # collect more layouts with much fewer clues.
+                break
+        chosen = sorted(
+            printable_by_signature.values(),
+            key=lambda candidate: (-candidate.score,
+                                   -candidate.metrics["words"],
+                                   candidate.signature()),
+        )[:args.top]
         if not chosen:
             raise ValueError(
                 "No valid one-page layouts found. Try more --attempts, fewer "
