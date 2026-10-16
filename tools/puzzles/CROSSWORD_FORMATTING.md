@@ -25,7 +25,7 @@ In shorter/wider crosswords, place the grid above the Across/Down columns. In ta
 Word-bank typography may be slightly smaller than the clues, but must be complete and legible. Format as a compact block at the foot of the same page whenever possible. If genuinely impossible without reducing the grid below 14 points or making the clues unreadable, ask the project lead before using a second page. For new generated puzzles, if the Easy word bank cannot fit on page one without breaking minimum sizes, reject that layout and try another. For legacy conversions only, seek explicit approval before an announced second page. The answer key remains a separate, one-page PDF.
 
 **Blocked squares and border:** In newly generated crosswords, every
-unoccupied grid cell inside the full rectangular grid is filled black.
+unoccupied grid cell inside the full rectangular grid is filled with a pale halftone dot pattern (about 20% dark coverage) instead of solid black, to reduce printing ink.
 Outline the complete grid with a thin perimeter border. Do not draw fillable
 fields on blocked cells. Keep a little bottom padding below typed and
 answer-key letters.
