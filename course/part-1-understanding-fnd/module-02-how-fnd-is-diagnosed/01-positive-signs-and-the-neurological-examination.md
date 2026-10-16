@@ -58,13 +58,19 @@ These accounts illustrate personal responses to a task or attention shift. A cli
 
 **[Entrainment](../../../glossary/README.md#entrainment)** is a specific tremor sign. You make a rhythm with another hand or foot, and the tremor changes to match that rhythm. Other changes—such as the tremor pausing or becoming smaller—may also be useful observations. The clinician looks for a pattern that is clear and can be repeated. (*citation* [5](#citation-5))
 
-Different FND symptoms have different positive signs. A clinician chooses signs that fit the symptom being examined—for example, weakness, tremor, speech, vision, sensation, memory, or functional seizures. The signs and the strength of evidence supporting them differ by symptom. The full pattern helps guide the diagnosis. (*citations* [1](#citation-1), [2](#citation-2))
+**The principle is the same across FND: the evidence needs to fit the symptom.** The assessment may look different for speech, vision, sensation, memory or episodes such as functional seizures. Each calls for its own explanation. (*citations* [1](#citation-1), [2](#citation-2))
+
+For [speech and voice symptoms](../../../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md), a clinician may compare conversation with other speaking tasks. They look at what changes and whether the whole pattern supports a functional explanation. For [functional tic-like symptoms](../../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md), the history of how movements or sounds began and developed helps the clinician interpret what they observe. Changes with attention can occur in both functional tic-like symptoms and other tic disorders, so that feature needs context. (*citations* [2](#citation-2), [8](#citation-8))
+
+These examples teach an important distinction: **a positive diagnosis comes from a meaningful pattern, rather than simply noticing that a symptom varies.** The useful findings and the strength of evidence supporting them differ by symptom.
 
 ### What a positive sign can tell you
 
-A clear positive sign can help your clinician explain why FND fits your symptoms. It may also point toward rehabilitation. If movement becomes easier in one situation, treatment can practise ways to make that movement more available in daily life. (*citation* [6](#citation-6))
+A positive finding can help your clinician explain why a functional diagnosis fits your symptoms. In [functional cognitive disorder (FCD)](../../../reference/diagnostic-signs/12-functional-cognitive-disorder.md), this concerns difficulties with abilities such as memory or attention. A clinician may find that the same ability is more available in one situation than another, after considering the demands of each task and other possible explanations. This pattern is called **internal inconsistency**. (*citation* [7](#citation-7))
 
-The examination shows what was possible in that moment. Everyday assessment helps establish how safely and consistently that movement can be repeated or sustained.
+For example, remembering details during conversation may be easier than recalling them when deliberately trying. Your clinician considers how this fits the wider assessment; an ordinary lapse or a good test score alone does not establish FCD. The difficulties are real, and understanding the pattern can help you and your care team discuss support. (*citation* [7](#citation-7))
+
+What you manage during an appointment is one part of the picture. Understanding how memory and attention affect daily life helps your care team plan the support you need.
 
 Your clinician will consider the sign together with your health history and the rest of the examination. They will also think about pain, injury, tiredness, medicines, how clear the task was, and any other health conditions. This helps them decide what the sign means for you. (*citations* [1](#citation-1), [4](#citation-4))
 
@@ -112,6 +118,8 @@ A positive sign can offer hope. It may show that an ability is available in some
 ### Helping the explanation feel clear
 
 If the person invites you to an appointment, you can help them remember what was discussed. Write down the name of the positive sign, what the clinician observed, and how it may guide treatment. Afterwards, ask which parts made sense and which parts they would like explained again. A calm conversation gives them time to absorb the information at their own pace.
+
+If the person has functional seizures, you can also help describe episodes you have witnessed, with their agreement. Explain what happened before, during and afterwards, how long the episode lasted, and whether it differed from their usual episodes. These observations help the clinician understand the pattern while leaving its medical interpretation to the care team. (*citation* [1](#citation-1))
 
 Helpful questions can include:
 
@@ -251,6 +259,8 @@ Bennett and Espay are clinical reviews that support an inclusionary, positive di
 | <a id="citation-4"></a>**[4]** | — | Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functional motor weakness: a review of validated techniques. *Journal of Neurology*. 2025;272(6):427. [DOI](https://doi.org/10.1007/s00415-025-13139-4). [PMID: 40423819](https://pubmed.ncbi.nlm.nih.gov/40423819/). [FND-CIT-0183](../../../research/citation-index.md#fnd-cit-0183). | Hoover’s sign technique, suitability and confounders. |
 | <a id="citation-5"></a>**[5]** | — | Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. [https://doi.org/10.1016/j.cnp.2023.12.006](https://doi.org/10.1016/j.cnp.2023.12.006) [FND-CIT-0022](../../../research/citation-index.md#fnd-cit-0022). | Specialist tremor assessment: entrainment, suppression and variability. |
 | <a id="citation-6"></a>**[6]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). | Physiotherapy consensus: explanation and individualized motor retraining. |
+| <a id="citation-7"></a>**[7]** | — | Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia’s blind spot. *Brain*. 2020;143(10):2895–2903. [FND-CIT-0071](../../../research/citation-index.md#fnd-cit-0071). [DOI](https://doi.org/10.1093/brain/awaa224). | Positive FCD formulation, internal inconsistency and consideration of alternative explanations. |
+| <a id="citation-8"></a>**[8]** | — | Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../../research/citation-index.md#fnd-cit-0110). [DOI](https://doi.org/10.3390/jcm11216470). | History and overall clinical pattern in tic assessment; attention-related changes can occur in functional and primary tic disorders. |
 
 This page still needs review by people with FND, supporters and clinicians, including a clinician experienced in neurological diagnosis.
 
