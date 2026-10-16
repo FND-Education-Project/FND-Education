@@ -45,6 +45,27 @@ layout: default
       </a>
     </nav>
 
+    <section class="home-privacy" aria-labelledby="home-privacy-heading">
+      <h2 id="home-privacy-heading">Helping us make the site better</h2>
+      {% if site.analytics_endpoint %}
+      <p>
+        We count how often pages are opened, searches are used, and resource
+        links are selected. These simple daily totals help us improve the
+        course and make useful information easier to find.
+        We don't keep search words, personal browsing histories, visitor
+        identifiers, or tracking cookies in our usage counts.
+      </p>
+      {% else %}
+      <p>
+        We are preparing simple, privacy-friendly site statistics to help us
+        improve the course. When enabled, they will count page openings,
+        searches, and resource-link clicks as daily totals, not by person.
+        We won't store search words, personal browsing histories, or use
+        tracking cookies. These counters are not active yet.
+      </p>
+      {% endif %}
+    </section>
+
     {{ content }}
   </div>
 
