@@ -13,11 +13,12 @@ a public editor, or any active analytics service.
   allowlist for just the authorized admin identity and enable MFA or passkeys
   on GitHub. Password changes, forgot-password recovery, and backup methods
   are administered by the identity provider, not a new FND password database.
-- Learner: entirely optional account with a chosen username, password or
-  passkey, and narrowly scoped access to that learner's own course progress.
-  A recovery email address is optional, not required. If supplied it must be
-  verified before it can be used to reset a password. Never give learners any
-  route to administrator actions or analytics.
+- Learner: entirely optional federated login with an established provider
+  (Google or Apple first; Facebook and Reddit only after verifying provider
+  integrations, policies and free availability). There is no FND-site learner
+  password, password-reset email or recovery-code system. Each learner has
+  access only to their own course progress. Never allow an authenticated
+  learner to access administrator actions or analytics.
 
 Do not use hidden keyboard commands or an embedded web-page password as an
 access-control mechanism. Do not expose the private Streamlit/Codespaces
@@ -45,55 +46,58 @@ cookie, browser fingerprint or account ID. Do not join learner account
 data to these anonymous usage counts. Page views count opens rather than
 unique people; download events count link clicks, not completed downloads.
 
-## Separate optional learner accounts
+## Optional federated learner accounts
 
-A learner may choose a unique, non-identifying username. No legal name,
-email, phone number, date of birth, or medical details are required.
-An **email address is optional** and may be provided for account recovery.
-It is neither publicly displayed nor used for marketing; absence of an email
-must not block enrollment, learning, or progress saving.
+Reading and public crossword generation NEVER require signing in. Visitors
+who choose to save progress may select "Continue with Google" or "Continue
+with Apple". Support for Facebook may be added after provider setup and
+verification. Reddit is an aspirational provider and must not be advertised
+until an authorized standards-compliant OAuth integration has been tested.
 
-Store only an opaque account ID, username, strong salted credential verifier,
-a hash of one-time recovery codes, minimal per-lesson progress, and
-short-lived session metadata. If supplied, store the recovery email with a
-verification status and an appropriate protection/retention policy. A learner
-can add, verify, update or remove their email, and save, inspect, export, reset
-and delete their own account and progress.
+The sign-in provider handles password changes and forgotten-password
+recovery. The project does not receive or store the learner's password.
+Because learners sign in with an existing account, no separate learner
+password or email-based FND recovery mechanism is required.
 
-SECURITY GATES before public enrollment:
-- HTTPS, Secure HttpOnly SameSite session cookies, CSRF protection, bounded
-  sessions, and restrictive CORS.
-- Slow password hashing (or passkey credential verification), throttle and
-  monitor abuse at the edge without exposing raw credentials in logs.
-- Offer BOTH recovery options: (a) a single-use, short-lived password-reset
-  link sent only to a previously verified recovery email, OR (b) an unused
-  single-use recovery code given to the learner during account setup.
-  Recovery codes should be stored only as salted/slow verifiers and shown once.
-  Never include credentials in logs or analytics. Rate-limit signup, email
-  verification, recovery requests and code guesses; send generic responses
-  that do not reveal whether a username or email is registered. Expire and
-  invalidate used reset links/codes. If neither a verified email nor a valid
-  recovery code remains, account ownership cannot be securely demonstrated.
-- Emails must use an approved transactional sender with verified sending
-  identity. The supplied Cloudflare Workers Free plan explicitly excludes
-  Cloudflare Email Sending; do not promise free email resets or implement a
-  paid delivery dependency without pricing and privacy approval. Until a
-  sender is configured, recovery codes are the supported reset method.
-- Verify every learner read/write against server-side session identity;
-  never accept claimed account IDs from the browser as authorization.
-- Automated negative tests for accessing someone else's records, escalating
-  to admin rights, CSRF, replay/reused codes, and forgotten credentials.
-- User-owned export/deletion, sensible inactive-data retention, and
-  accessibility/privacy review including implications of inferred health
-  interests and younger visitors.
+Maintain only a random internal learner ID, the provider name and opaque
+provider subject ID, optional display username (chosen by the learner,
+not a required identity), minimal per-lesson progress, and bounded
+server-side session metadata. Do not persist the provider's email address
+or profile information unless a later feature explicitly requires it and
+the learner consents. Some providers may still disclose profile/email
+claims during login; minimize their processing. A provider account and
+course history are pseudonymous personal data even without a collected
+email address.
 
-A username and individual course history are pseudonymous account data,
-and an optional email address is personal contact information. Do not promise
-that this is literally no personal information. Update the public privacy
-notice before account enrollment to describe voluntary email storage,
-verification, password-reset purposes, deletion and retention. Anonymous
-analytics and personal progress MUST use separate tables/storage and
-separate permissions.
+SECURITY GATES before enabling public sign-in:
+- Use OpenID Connect where supported, or vetted OAuth 2.0 identity flows
+  with PKCE, state, nonce when applicable, exact redirect URI validation,
+  HTTPS, strict provider issuer/audience/signature/expiry validation, and
+  key rotation. Never treat an unsigned email or display name as identity.
+- Server-issued Secure HttpOnly SameSite sessions, CSRF protection, short
+  expiries, logout and session revocation; never store provider tokens in
+  local storage or page HTML. Protect against open redirects.
+- Authorize **every** progress read/write by the authenticated server-side
+  learner ID. Authentication does not confer an admin role; that requires
+  separate Cloudflare Access identity and authorization.
+- Keep provider identities namespaced (provider + stable opaque subject).
+  Never automatically merge accounts solely because emails match, including
+  Apple's private relay addresses. Offer deliberate verified linking only
+  after the learner has authenticated with both providers.
+- Provider logout/reset/recovery occurs on that provider's website. If
+  provider access is permanently lost and no second linked provider exists,
+  we cannot prove ownership of the stored progress; make a new account.
+- Offer export and deletion of progress and account-linked identity records;
+  review inactive-data retention, accessible UX, children/teen eligibility,
+  and implications of inferred medical interest before enrollment.
+- Avoid extra providers and third-party auth services unless their current
+  free quotas, privacy terms, operational limits and app-review conditions
+  have been verified. Facebook and Reddit must not be treated as built-in
+  Cloudflare Zero Trust learner providers without evidence.
+
+Anonymous usage analytics and learner progress MUST be separate databases
+or tables, with distinct access permissions; never mix provider IDs with
+anonymous metrics.
 
 ## Budget and infrastructure boundaries
 
@@ -105,11 +109,11 @@ user authentication/progress and protected administrative tasks.
 The supplied Workers Free plan lists 100,000 requests/day, at most 10 ms
 CPU per invocation, and D1 allowances of 5 GB storage, 5 million rows
 read/day, and 100,000 rows written/day. These are not a forecast of actual
-usage. In particular, 10 ms CPU may be unsuitable for intentionally costly
-password hashing and substantial server-side crossword generation. Use
-browser-side crossword processing and evaluate managed authentication or
-passkeys before choosing the credential runtime. The supplied Free plan also
-lists no Cloudflare Email Sending.
+usage. Delegating learner passwords to an identity provider avoids building
+a CPU-intensive site-specific password-hashing and recovery-email service.
+Use browser-side crossword generation to keep server CPU use low. The
+supplied Free plan does not include Cloudflare Email Sending, which is not
+needed for ordinary federated-login password recovery.
 
 Cloudflare Workers, D1 and Access are candidates for low-volume hosting.
 There is NO provider guarantee of two years of free service. Verify current
@@ -126,8 +130,8 @@ Rollout:
 3. Configure managed administrator access and a private stats dashboard.
 4. Add a public browser-based crossword generator using published
    question data, with no sign-in required.
-5. Add opt-in learner progress accounts with recovery codes and optional,
-   verified recovery emails after selecting a secure, affordable email sender
-   and completing separate security and privacy review.
+5. Add optional Google/Apple sign-in and learner-owned progress after
+   provider integration, security and privacy review. Evaluate Facebook and
+   Reddit separately; avoid promising providers not yet verified.
 
 No public visitor accounts or backend deployment are activated by this plan.
