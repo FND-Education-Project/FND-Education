@@ -68,7 +68,7 @@ it is **not** a time-remaining estimate. A search may finish early, making
 the bar jump forward, or take longer on a particularly difficult layout.
 
 The PDF grid has a thin outer border, and every unused cell inside its
-rectangle is black, like a traditional crossword. The fillable answer
+rectangle uses a light, print-friendly halftone dot pattern rather than solid black. The fillable answer
 cells retain a small lower padding for legible typing.
 
 **Important:** The in-browser editor has a **Save edits to workbook in
