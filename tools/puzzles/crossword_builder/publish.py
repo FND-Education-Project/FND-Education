@@ -8,11 +8,14 @@ unannounced below-minimum font sizes are allowed.
 from __future__ import annotations
 
 from dataclasses import dataclass
+from functools import lru_cache
+from io import BytesIO
 import html
 import json
 from pathlib import Path
 
 import pymupdf as fitz
+from PIL import Image, ImageDraw
 
 from .core import Entry, Layout, _points, verify_layout
 
@@ -266,6 +269,31 @@ def _tab_sequence(layout: Layout) -> list[tuple[int, int]]:
     return order
 
 
+@lru_cache(maxsize=24)
+def _halftone_background(rows: int, cols: int, side: float) -> bytes:
+    """Tiny printer-friendly gray dot screen at 288 dpi.
+
+    Roughly 20% of the area uses dark dots; the rest is white, so
+    printing uses far less ink than a large solid black rectangle.
+    Coordinates stay within the grid; white answer squares are later
+    drawn above this image as crisp vector rectangles.
+    """
+    scale = 4
+    width, height = round(cols * side * scale), round(rows * side * scale)
+    image = Image.new("L", (width, height), 255)
+    draw = ImageDraw.Draw(image)
+    step, radius = 12, 3
+    for cy in range(step // 2, height, step):
+        for cx in range(step // 2, width, step):
+            draw.ellipse(
+                (cx - radius, cy - radius, cx + radius, cy + radius),
+                fill=48,
+            )
+    output = BytesIO()
+    image.save(output, format="PNG", optimize=True)
+    return output.getvalue()
+
+
 def _draw_page(
     page: fitz.Page, layout: Layout, plan: PrintPlan,
     edition: str, title: str
@@ -275,11 +303,15 @@ def _draw_page(
     page.insert_text((margin, margin + TITLE_FONT), title,
                      fontsize=TITLE_FONT, fontname="hebo")
     numbering = {(p.row, p.col): n for n, p in layout.numbered()}
-    # A complete, conventional crossword rectangle: every square without
-    # an answer letter is black. The small outer border is intentional.
+    # Fill every inactive cell, including large gaps, with an old-school
+    # halftone screen rather than a solid ink-hungry black rectangle.
     rows, cols = layout.size()
     board = fitz.Rect(x, y, x + cols * side, y + rows * side)
-    page.draw_rect(board, fill=(.08, .08, .08), color=(.1, .1, .1), width=.9)
+    page.insert_image(
+        board, stream=_halftone_background(rows, cols, side),
+        keep_proportion=False,
+    )
+    page.draw_rect(board, color=(.10, .10, .10), width=.9)
     for (r, c), ch in sorted(layout.cells.items()):
         rect = fitz.Rect(
             x + c * side, y + r * side, x + (c + 1) * side, y + (r + 1) * side
