@@ -113,9 +113,10 @@ async function validAdmin(request, env) {
       return false;
     }
     let keys = certCache.keys;
+    // Do not refetch keys for every guessed kid; cache unknown keys too.
+    // A rotated key becomes available at the next 15-minute refresh.
     if (certCache.host !== env.ACCESS_TEAM_DOMAIN ||
-        certCache.expires < Date.now() ||
-        !keys.some(k => k.kid === header.kid)) {
+        certCache.expires < Date.now()) {
       const resp = await fetch("https://" + env.ACCESS_TEAM_DOMAIN +
         "/cdn-cgi/access/certs", { redirect: "error" });
       if (!resp.ok) return false;
