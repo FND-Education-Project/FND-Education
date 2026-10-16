@@ -64,10 +64,18 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     return args
 
 
-def main(argv: list[str] | None = None) -> int:
+def main(argv: list[str] | None = None, *, progress=None) -> int:
+    """Run from terminal or workshop; progress(percent, stage) is optional."""
     args = parse_args(argv)
+
+    def report(percent: int, stage: str) -> None:
+        if progress is not None:
+            progress(max(0, min(100, round(percent))), stage)
+
     try:
+        report(2, "Reading and validating Excel questions")
         entries, notes = read_workbook(args.workbook)
+        report(7, "Preparing the selected question pool")
         if args.list:
             print(f"Workbook: {args.workbook} ({len(entries)} source questions)")
             for mod, les in sorted({(e.module, e.lesson) for e in entries}):
@@ -98,10 +106,25 @@ def main(argv: list[str] | None = None) -> int:
         attempts_per_limit = max(18, args.attempts // len(limits))
         printable_by_signature = {}
         for pass_number, limit in enumerate(limits):
+            def search_progress(done: int, total: int) -> None:
+                # Percentage reflects completed search passes against a
+                # conservative maximum; it is not an estimated time remaining.
+                fraction = (pass_number + done / total) / len(limits)
+                report(
+                    8 + int(73 * fraction),
+                    f"Searching crossword layouts — pass {pass_number + 1}"
+                    f" of up to {len(limits)}; {done}/{total} attempts",
+                )
+
             candidates = top_layouts(
                 primary, loans, attempts=attempts_per_limit,
                 top=args.top, max_words=limit, max_side=args.max_side,
                 seed=args.seed + 1009 * pass_number,
+                progress=search_progress,
+            )
+            report(
+                8 + int(73 * (pass_number + 1) / len(limits)),
+                f"Checking printable layouts (up to {limit} answers)",
             )
             for candidate in candidates:
                 if not is_printable(candidate):
@@ -127,6 +150,7 @@ def main(argv: list[str] | None = None) -> int:
                 "--max-words, a smaller --max-side, or more crossing-friendly "
                 "answers; the 14-point print standard was not relaxed."
             )
+        report(85, "Checking the five selected layouts")
         for layout in chosen:
             verify_layout(layout)
         selection = {
@@ -136,7 +160,18 @@ def main(argv: list[str] | None = None) -> int:
             "selected_question_count": len(primary),
             "eligible_earlier_question_count": len(loans),
         }
-        export_gallery(chosen, args.out, title, primary, notes, selection)
+        def pdf_progress(done: int, total: int) -> None:
+            report(
+                86 + int(13 * done / total),
+                f"Rendering PDF sets — {done} of {total} puzzles",
+            )
+
+        report(86, "Creating Normal, Easy and Answer Key PDFs")
+        export_gallery(
+            chosen, args.out, title, primary, notes, selection,
+            progress=pdf_progress,
+        )
+        report(100, "All puzzle options are ready")
         print(f"Generated {len(chosen)} of {args.top} requested distinct "
               f"printable layouts in {args.out}/")
         print(f"Open {args.out / 'index.html'} in your browser.")
