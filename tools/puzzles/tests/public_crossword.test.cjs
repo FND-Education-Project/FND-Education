@@ -3,6 +3,7 @@ const test = require("node:test");
 const assert = require("node:assert/strict");
 const core = require("../../../web/assets/js/crossword-core.js");
 const pdf = require("../../../web/assets/js/crossword-pdf.js");
+const bundle = require("../../../web/assets/js/crossword-zip.js");
 
 const words = [
   ["BRAIN", "Part of the nervous system inside the head", 1, 1, 1],
@@ -75,4 +76,17 @@ test("unsafe title symbols are escaped and overlong titles rejected", () => {
   assert.ok(pdf.wrap("Short clue for a crossword", 150, 12).length >= 1);
   const layout = core.createCandidates(words, "all", 1, 1, 4, 7, 30)[0];
   assert.throws(() => pdf.plan(layout, "easy", "X".repeat(100)), /shorten/);
+});
+
+test("ZIP contains all three PDFs without third-party code", () => {
+  const layout = core.createCandidates(words, "all", 1, 1, 1, 8, 35)[0];
+  const parts = ["normal", "easy", "key"].map(edition => ({
+    name: "fnd-test-" + edition + ".pdf",
+    bytes: pdf.makePdf(layout, "FND review", edition)
+  }));
+  const zip = bundle.zip(parts);
+  assert.equal(Buffer.from(zip.subarray(0, 4)).readUInt32LE(), 0x04034b50);
+  assert.ok(Buffer.from(zip).toString("latin1").includes("fnd-test-easy.pdf"));
+  assert.equal(Buffer.from(zip.subarray(zip.length - 22)).readUInt32LE(), 0x06054b50);
+  assert.ok(zip.length > parts.reduce((total, item) => total + item.bytes.length, 0));
 });
