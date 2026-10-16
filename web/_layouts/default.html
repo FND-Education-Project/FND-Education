@@ -45,6 +45,10 @@
   {% endif %}
 
   {% include structured-data.html %}
+
+  {% if site.analytics_endpoint %}
+  <meta name="fnd-analytics-endpoint" content="{{ site.analytics_endpoint | escape }}">
+  {% endif %}
   
   <link
     rel="icon"
@@ -150,6 +154,11 @@
       </nav>
 
       <span class="footer-project-name">FND Education Project</span>
+      {% if site.analytics_endpoint %}
+      <span class="site-analytics-notice">
+        Aggregate usage counts only. No tracking cookies, search terms or visitor IDs.
+      </span>
+      {% endif %}
 
     </div>
   </footer>
@@ -177,6 +186,13 @@
     src="{{ '/assets/js/site.js' | relative_url }}"
     defer
   ></script>
+
+  {% if site.analytics_endpoint %}
+  <script
+    src="{{ '/assets/js/analytics.js' | relative_url }}"
+    defer
+  ></script>
+  {% endif %}
 
   {% if page.search_page %}
   <script

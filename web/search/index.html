@@ -40,8 +40,15 @@ robots: "noindex, follow"
       <summary>Search privacy</summary>
       <p>
         Search runs in your browser using a static index downloaded with this
-        website. The FND Education Project does not use search analytics, does
-        not save your search terms, and does not sell or share them.
+        website. Your search words are never sent to the FND Education
+        Project's usage-counter system.
+        {% if site.analytics_endpoint %}
+        We count searches started and clicks on search results by day, without
+        recording the search words or which specific result you opened.
+        {% else %}
+        Search analytics are currently disabled.
+        {% endif %}
+        We do not sell or share your search terms.
       </p>
       <p>
         This site does not use its own tracking cookies. With JavaScript

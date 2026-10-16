@@ -1,0 +1,47 @@
+name: Validate first-party aggregate analytics
+
+on:
+  pull_request:
+    paths:
+      - "tools/analytics/cloudflare/**"
+      - "web/assets/js/analytics.js"
+      - "web/assets/js/search.js"
+      - "web/_layouts/default.html"
+      - "web/search/index.html"
+      - ".github/workflows/privacy-analytics.yml"
+  push:
+    branches: [main]
+    paths:
+      - "tools/analytics/cloudflare/**"
+      - "web/assets/js/analytics.js"
+      - "web/assets/js/search.js"
+      - "web/_layouts/default.html"
+      - "web/search/index.html"
+      - ".github/workflows/privacy-analytics.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Check browser and Worker script syntax
+        run: |
+          node --check web/assets/js/analytics.js
+          node --check web/assets/js/search.js
+          node --check tools/analytics/cloudflare/src/worker.mjs
+      - name: Validate anonymous-only Worker behaviour
+        run: node --test tools/analytics/cloudflare/tests/worker.test.mjs
+      - name: Confirm analytics is not enabled in public site config
+        run: |
+          if grep -q '^[[:space:]]*analytics_endpoint:' web/_config.yml; then
+            echo "::error::Never enable analytics before server and privacy approval."
+            exit 1
+          fi
+          echo "Collection remains disabled pending server deployment."

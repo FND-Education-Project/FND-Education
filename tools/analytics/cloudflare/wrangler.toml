@@ -1,0 +1,13 @@
+name = "fnd-aggregate-metrics"
+main = "src/worker.mjs"
+compatibility_date = "2026-10-01"
+
+# Run "npx wrangler d1 create fnd-aggregate-analytics", then paste the
+# returned database_id below. Never put API keys or auth tokens here.
+[[d1_databases]]
+binding = "DB"
+database_name = "fnd-aggregate-analytics"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
+
+# Intentionally no routes, custom domain, secrets, or automatic deployment.
+# The public GitHub Pages site remains unchanged until opt-in configuration.
