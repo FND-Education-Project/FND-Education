@@ -194,6 +194,27 @@
       catch (e) { message(e.message, true); }
     }
   });
+  $("cw-bundle").addEventListener("click", () => {
+    try {
+      const layout = state.candidates[state.selected];
+      if (!layout) throw new Error("Generate a puzzle first.");
+      const base = filename(title.value);
+      const files = ["normal", "easy", "key"].map(edition => ({
+        name: base + "-" + edition + ".pdf",
+        bytes: pdf.makePdf(layout, title.value.trim(), edition)
+      }));
+      const url = URL.createObjectURL(new Blob([FNDCrosswordZip.zip(files)],
+        { type: "application/zip" }));
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = base + ".zip";
+      document.body.append(link);
+      link.click();
+      link.remove();
+      window.setTimeout(() => URL.revokeObjectURL(url), 2000);
+      if (window.FNDAnalytics) window.FNDAnalytics.track("puzzle_download", "puzzles");
+    } catch (e) { message(e.message, true); }
+  });
   for (const edition of ["normal", "easy", "key"]) {
     $("cw-" + edition).addEventListener("click", () => saveEdition(edition));
   }
