@@ -14,11 +14,13 @@ from contextlib import redirect_stderr, redirect_stdout
 from io import BytesIO, StringIO
 import hashlib
 import json
+import os
+import signal
+import threading
 from pathlib import Path
 import shutil
 import sys
 import tempfile
-from zipfile import ZipFile, ZIP_DEFLATED
 
 import pandas as pd
 import pymupdf as fitz
@@ -28,6 +30,8 @@ from openpyxl import load_workbook
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 from generate_crosswords import main as generate_cli  # noqa: E402
+from crossword_builder.deliver import prepare_downloads
+from crossword_builder.publish import title_measure, validate_title, restore_layout
 
 HEADERS = ("clue", "answer", "priority", "lesson", "module")
 MAX_UPLOAD = 15_000_000
@@ -106,26 +110,16 @@ def _save_rows(original: bytes, edited: pd.DataFrame) -> bytes:
         book.close()
 
 
-def _make_zip(report: dict, output: Path, option: int) -> bytes:
-    """Bundle only one selected puzzle's three editions and its source list."""
-    candidate = report["candidates"][option - 1]
-    bundle = BytesIO()
-    with ZipFile(bundle, "w", compression=ZIP_DEFLATED) as zipped:
-        for edition in ("normal", "easy", "key"):
-            relative = candidate["pdfs"][edition]
-            filename = "answer-key.pdf" if edition == "key" else edition + ".pdf"
-            zipped.write(output / relative, arcname=filename)
-        zipped.writestr(
-            "question-sources.json",
-            json.dumps(
-                {"title": report["title"], "selected_option": option,
-                 "score": candidate["score"], "metrics": candidate["metrics"],
-                 "included": candidate["included"],
-                 "unused_selected_questions": candidate["unused_selected_questions"]},
-                indent=2, ensure_ascii=False,
-            )
+@st.cache_data(show_spinner="Preparing your titled PDFs…")
+def _finished_pdf_bundle(
+    candidate_json: str, selection_json: str, title: str
+) -> tuple[str, dict[str, tuple[str, bytes]], bytes]:
+    """Export only the selected layout; title changes do not rerun placement."""
+    with tempfile.TemporaryDirectory(prefix="fnd-final-puzzle-") as directory:
+        return prepare_downloads(
+            json.loads(candidate_json), json.loads(selection_json),
+            title, Path(directory),
         )
-    return bundle.getvalue()
 
 
 def _thumbnail(path: Path, zoom: float = 1.05) -> bytes:
@@ -142,7 +136,28 @@ st.set_page_config(
     page_title="FND Crossword Workshop",
     page_icon="🧩", layout="wide",
 )
-st.title("FND Crossword Workshop")
+heading, exit_column = st.columns([7, 2], vertical_alignment="center")
+with heading:
+    st.title("FND Crossword Workshop")
+with exit_column:
+    with st.popover("Exit workshop"):
+        st.write(
+            "Stop the private workshop server and close this session? "
+            "Remember to save or download any workbook edits first. "
+            "You can restart the workshop from Codespaces later."
+        )
+        if st.button("Stop server and exit", type="primary"):
+            previous = st.session_state.get("crossword_results")
+            if previous:
+                shutil.rmtree(previous["parent"], ignore_errors=True)
+            st.session_state.clear()
+            # Finish this response before shutting down Streamlit itself.
+            # This stops the private workshop only, not the Codespace.
+            threading.Timer(
+                1.5, lambda: os.kill(os.getpid(), signal.SIGTERM)
+            ).start()
+            st.success("Workshop closed. You can close this browser tab.")
+            st.stop()
 st.caption(
     "Edit your question bank, select a lesson or module, compare five puzzles, "
     "and download the chosen Normal, Easy, and Answer Key PDFs."
@@ -374,21 +389,50 @@ if saved:
         horizontal=True,
     )
     choice = options[selected - 1]
-    st.download_button(
-        "Download selected puzzle — all three PDFs (ZIP)",
-        data=_make_zip(report, output, selected),
-        file_name=f"FND-crossword-option-{selected}.zip",
-        mime="application/zip", type="primary",
+    st.subheader("4. Give your chosen crossword a title")
+    st.caption(
+        "This is the last step. The title stays on one line at the actual "
+        "15-point bold PDF font size. We'll tell you if it needs shortening."
     )
-    formats = [("Normal", "normal"), ("Easy", "easy"), ("Answer key", "key")]
-    for col, (name, variant) in zip(st.columns(3), formats):
-        with col:
-            st.download_button(
-                f"Download {name} PDF",
-                data=(output / choice["pdfs"][variant]).read_bytes(),
-                file_name=f"FND-crossword-option-{selected}-{variant}.pdf",
-                mime="application/pdf",
-            )
+    chosen_title = st.text_input(
+        "Final printed title",
+        value=report["title"],
+        key=f"crossword_title_{saved['workbook_hash'][:10]}_{selected}",
+        max_chars=120,
+        help="The maximum depends on the measured width of your title, "
+             "not a fixed number of characters. Wider letters take more space.",
+    )
+    try:
+        layout = restore_layout(choice)
+        measured, permitted = title_measure(chosen_title, layout)
+        st.caption(
+            f"Title line: {measured:.0f} of {permitted:.0f} points "
+            "at 15 pt bold."
+        )
+        title = validate_title(chosen_title, layout)
+    except (ValueError, KeyError, TypeError) as error:
+        st.warning(f"Shorten or adjust the title before downloading: {error}")
+    else:
+        zip_name, named_files, zip_bytes = _finished_pdf_bundle(
+            json.dumps(choice, sort_keys=True),
+            json.dumps(report["selection"], sort_keys=True),
+            title,
+        )
+        st.download_button(
+            "Download chosen puzzle — Normal, Easy and Answer Key (ZIP)",
+            data=zip_bytes, file_name=zip_name,
+            mime="application/zip", type="primary",
+        )
+        formats = [("Normal", "normal"), ("Easy", "easy"),
+                   ("Answer key", "key")]
+        for col, (name, variant) in zip(st.columns(3), formats):
+            with col:
+                pdf_filename, pdf_data = named_files[variant]
+                st.download_button(
+                    f"Download {name} PDF",
+                    data=pdf_data, file_name=pdf_filename,
+                    mime="application/pdf",
+                )
     with st.expander("View questions included, borrowed, and omitted"):
         st.dataframe(pd.DataFrame(choice["included"]), hide_index=True)
         if choice["unused_selected_questions"]:
