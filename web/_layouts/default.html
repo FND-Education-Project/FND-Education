@@ -67,6 +67,9 @@
     href="{{ '/pagefind/pagefind-ui.css' | relative_url }}"
   >
   {% endif %}
+  {% if page.crossword_maker %}
+  <link rel="stylesheet" href="{{ '/assets/css/crossword-maker.css' | relative_url }}">
+  {% endif %}
 </head>
 
 <body id="top">
@@ -203,6 +206,12 @@
     src="{{ '/assets/js/search.js' | relative_url }}"
     defer
   ></script>
+  {% endif %}
+
+  {% if page.crossword_maker %}
+  <script src="{{ '/assets/js/crossword-core.js' | relative_url }}" defer></script>
+  <script src="{{ '/assets/js/crossword-pdf.js' | relative_url }}" defer></script>
+  <script src="{{ '/assets/js/crossword-page.js' | relative_url }}" defer></script>
   {% endif %}
 
 </body>
