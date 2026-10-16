@@ -5,6 +5,8 @@ on:
     paths:
       - "tools/puzzles/crossword_builder/**"
       - "tools/puzzles/generate_crosswords.py"
+      - "tools/puzzles/crossword_app.py"
+      - "tools/puzzles/crossword_app.py"
       - "tools/puzzles/requirements-crosswords.txt"
       - "tools/puzzles/tests/test_crossword_builder.py"
       - ".github/workflows/crossword-generator.yml"
@@ -34,6 +36,6 @@ jobs:
       - name: Install crossword dependencies
         run: python -m pip install -r tools/puzzles/requirements-crosswords.txt
       - name: Compile Python files
-        run: python -m compileall -q tools/puzzles/crossword_builder tools/puzzles/generate_crosswords.py
+        run: python -m compileall -q tools/puzzles/crossword_builder tools/puzzles/generate_crosswords.py tools/puzzles/crossword_app.py
       - name: Run workbook, placement, PDF and form regression checks
         run: python -m unittest discover -s tools/puzzles/tests -p "test_crossword_builder.py" -v
