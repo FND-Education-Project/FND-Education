@@ -89,27 +89,37 @@ def export_bank(source: Path = SOURCE, destination: Path = OUTPUT) -> list[dict]
     if any(name not in fields for name in FIELDS):
         raise ValueError("Crossword workbook needs clue, answer, priority, lesson, module")
     entries = []
+    invalid = []
     for number, raw in enumerate(lines, 2):
         if not any(str(v).strip() for v in raw.values()):
             continue
         if number > MAX_ROWS + 1:
             raise ValueError("Too many crossword questions")
         value = lambda name: str(raw.get(fields[name], "")).strip()
-        clue, original = value("clue"), value("answer")
-        answer = re.sub(r"[\s-]+", "", original).upper()
-        if not clue or len(clue) > 500:
-            raise ValueError(f"Row {number}: clue must contain 1–500 characters")
-        if not re.fullmatch(r"[A-Z]{2,}", answer) or len(answer) > 40:
-            raise ValueError(f"Row {number}: use 2–40 A–Z letters in the answer")
-        p = value("priority").lower()
-        priorities = {"": 2, "high": 1, "medium": 2, "normal": 2,
-                      "low": 3, "1": 1, "2": 2, "3": 3}
-        if p not in priorities:
-            raise ValueError(f"Row {number}: priority must be 1, 2 or 3")
-        entries.append({"clue": clue, "answer": answer, "display_answer": original,
-                        "priority": priorities[p],
-                        "lesson": positive_integer(value("lesson"), "lesson", number),
-                        "module": positive_integer(value("module"), "module", number)})
+        try:
+            clue, original = value("clue"), value("answer")
+            answer = re.sub(r"[\s-]+", "", original).upper()
+            if not clue or len(clue) > 500:
+                raise ValueError("clue must contain 1–500 characters")
+            if not re.fullmatch(r"[A-Z]{2,}", answer) or len(answer) > 40:
+                raise ValueError("answer must use 2–40 A–Z letters")
+            p = value("priority").lower()
+            priorities = {"": 2, "high": 1, "medium": 2, "normal": 2,
+                          "low": 3, "1": 1, "2": 2, "3": 3}
+            if p not in priorities:
+                raise ValueError("priority must be 1, 2 or 3")
+            entry = {"clue": clue, "answer": answer, "display_answer": original,
+                     "priority": priorities[p],
+                     "lesson": positive_integer(value("lesson"), "lesson", number),
+                     "module": positive_integer(value("module"), "module", number)}
+        except ValueError as error:
+            invalid.append((number, str(error)))
+            continue
+        entries.append(entry)
+    for number, reason in invalid:
+        print(f"WARNING: source workbook row {number} excluded: {reason}")
+    if invalid and len(invalid) >= len(entries):
+        raise ValueError("Too many invalid question rows; correct the Excel bank")
     if not entries:
         raise ValueError("No usable questions in workbook")
     destination.parent.mkdir(parents=True, exist_ok=True)
