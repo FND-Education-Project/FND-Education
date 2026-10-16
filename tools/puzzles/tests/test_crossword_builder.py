@@ -216,13 +216,20 @@ class LayoutAndPdfTests(unittest.TestCase):
             r, c = sorted(empty)[0]
             x = plan.grid_x + (c + .5) * plan.square
             y = plan.grid_y + (r + .5) * plan.square
-            # The PDF render is authoritative: no white void inside a border.
+            # The inactive cell is a genuine halftone: mostly white with
+            # visible dark dots, not a heavy solid black ink rectangle.
             pix = doc[0].get_pixmap(
-                matrix=fitz.Matrix(2, 2),
-                clip=fitz.Rect(x - 1, y - 1, x + 1, y + 1),
+                matrix=fitz.Matrix(4, 4),
+                clip=fitz.Rect(
+                    x - plan.square * .30, y - plan.square * .30,
+                    x + plan.square * .30, y + plan.square * .30,
+                ),
                 alpha=False,
             )
-            self.assertLess(max(pix.samples[0:3]), 85)
+            tones = pix.samples[0::3]
+            self.assertGreater(max(tones), 235)
+            self.assertLess(min(tones), 100)
+            self.assertGreater(sum(tones) / len(tones), 175)
             self.assertEqual(len(list(doc[0].widgets() or [])), len(layout.cells))
             doc.close()
 
