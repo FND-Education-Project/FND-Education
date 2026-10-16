@@ -1,6 +1,6 @@
 # FND Education Project — one-page crossword standard
 
-**Status:** Project editorial standard approved by the project lead, October 14, 2026. Applies to all new crossword variants and to updates to older puzzles.
+**Status:** Project editorial standard approved October 14, 2026; adaptive-layout preferences updated October 16, 2026. Applies to all new crossword variants and updates to older puzzles.
 
 ## Print requirement
 
@@ -10,7 +10,7 @@ Every crossword must be supplied as **three versions**, and **each version must 
 - Easy — the *same* empty grid and clues, with the exact answer word bank on the same page; preserve duplicate words where answers are repeated.
 - Answer key — the *same* numbered grid completed with the verified answers and the same clues.
 
-Never silently change, drop, renumber, or regenerate clues/answers to satisfy a layout constraint. Preserve the CrosswordLabs grid, numbering and supplied wording. Confirm an answer key matches the puzzle before publishing.
+Never silently change, drop, renumber, or regenerate clues/answers to satisfy a layout constraint. Preserve the CrosswordLabs grid and numbering **when upgrading an existing crossword**. For a **newly generated crossword**, new valid layouts and numbering are expected: keep the supplied wording intact and explicitly report which source questions were not selected or borrowed from earlier lessons. Confirm an answer key matches the puzzle before publishing.
 
 **Accessible digital option:** Put a PDF text field inside each writable grid square in the Normal and Easy editions, with **maximum length exactly one character**. Leave number labels visible and black/blocked squares non-editable. These PDFs should be usable on screen without printing. The completed answer-key PDF need not be interactive. Verify that a test entry can be typed, saved and reopened; PDF viewer support varies.
 
@@ -18,11 +18,11 @@ Never silently change, drop, renumber, or regenerate clues/answers to satisfy a 
 
 ## Preferred layout
 
-Use an extra-narrow print margin (roughly 0.25–0.35 in), but keep every printable element comfortably inside the page. **Aim for squares that are 14 PDF points high and wide**, measured from border to border, irrespective of the number of clues. Do not silently shrink grid squares below that target to force the page to fit; flag the crossword to the project lead if the clues cannot be kept readable with that grid size. Use closely spaced clue text and a thin vertical column divider. Scale the grid to the 14-point target and place it where the remaining clue text flows effectively.
+Start with comfortable print margins (**0.5 in**) and narrow them to **0.42 in** or **0.33 in** only if needed. **Prefer 16-point crossword squares**, falling back to **15 or 14 PDF points** (never smaller). **Prefer 14-point clue text**, falling back to **13 or 12 points** (never smaller). Layout selection must preflight the whole Easy edition, including the word bank, before generating the three PDFs. Fit more educational answers when page space permits, rather than capping every crossword at 24 answers. Use a thin divider and flowing Across/Down clues; do not add a second page or silently clip material.
 
 In shorter/wider crosswords, place the grid above the Across/Down columns. In taller crosswords, use the page efficiently: the grid may appear at upper left, some clues beside it, and remaining clues in **two ruled columns below it**. **Across and Down form a single flowing sequence**: start the Down heading directly after the last Across clue in the available space, not in a separately reserved region. Let subsequent clues flow into the next column as needed. Text should wrap near the grid instead of leaving substantial dead space.
 
-Word-bank typography may be slightly smaller than the clues, but must be complete and legible. Format as a compact block at the foot of the same page whenever possible. If genuinely impossible without reducing the grid below 14 points or making the clues unreadable, ask the project lead before using a second page. The first page must state **“See the word bank on page 2.”** if the bank is moved. The answer key is normally a separate, one-page PDF.
+Word-bank typography may be slightly smaller than the clues, but must be complete and legible. Format as a compact block at the foot of the same page whenever possible. If genuinely impossible without reducing the grid below 14 points or making the clues unreadable, ask the project lead before using a second page. For new generated puzzles, if the Easy word bank cannot fit on page one without breaking minimum sizes, reject that layout and try another. For legacy conversions only, seek explicit approval before an announced second page. The answer key remains a separate, one-page PDF.
 
 ## Quality control
 
