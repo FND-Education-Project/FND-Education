@@ -35,6 +35,7 @@
 
   function sectionForLocation() {
     const first = window.location.pathname.split("/").filter(Boolean)[0] || "home";
+    if (first === "crossword-maker") return "puzzles";
     return SECTIONS.has(first) ? first : "other";
   }
 
