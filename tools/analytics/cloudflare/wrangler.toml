@@ -7,7 +7,7 @@ compatibility_date = "2026-10-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "fnd-aggregate-analytics"
-database_id = "REPLACE_WITH_D1_DATABASE_ID"
+database_id = "6f80d719-0677-4e9e-b03c-250f14725252"
 
 # Intentionally no routes, custom domain, secrets, or automatic deployment.
 # The public GitHub Pages site remains unchanged until opt-in configuration.
