@@ -298,17 +298,17 @@ For colouring activities, visit the [colouring-page collection](../../../assets/
 Choose a preview to open the printable PDF. These activities are optional.
 
 <div class="puzzle-grid">
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Available-Capacity-crossword-10-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/Available-Capacity-crossword-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Available Capacity — Normal <small>PDF</small></span>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-4/available-capacity-and-spoons-m1-4-normal.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/available-capacity-and-spoons-m1-4-normal.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Available Capacity and Spoons — Normal <small>PDF</small></span>
 </a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Available-Capacity-crossword-easy-10-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/Available-Capacity-crossword-easy-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Available Capacity — Easy <small>PDF</small></span>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-4/available-capacity-and-spoons-m1-4-easy.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/available-capacity-and-spoons-m1-4-easy.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Available Capacity and Spoons — Easy <small>PDF</small></span>
 </a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Available-Capacity-crossword-answer-key-10-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/Available-Capacity-crossword-answer-key-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Available Capacity — Answer key <small>PDF</small></span>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-4/available-capacity-and-spoons-m1-4-answer-key.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/available-capacity-and-spoons-m1-4-answer-key.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Available Capacity and Spoons — Answer key <small>PDF</small></span>
 </a>
 </div>
 

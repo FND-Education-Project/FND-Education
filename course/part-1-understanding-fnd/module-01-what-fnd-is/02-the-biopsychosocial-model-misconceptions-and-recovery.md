@@ -169,17 +169,17 @@ You don't need to keep records or perform exercises to prove that you are trying
 Choose a preview to open the printable PDF. These activities are optional.
 
 <div class="puzzle-grid">
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Biopsychosocial-What-crossword-09-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/Biopsychosocial-What-crossword-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Biopsychosocial What? — Normal <small>PDF</small></span>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-2/biopsychosocial-mess-m1-2-normal.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/biopsychosocial-mess-m1-2-normal.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Biopsychosocial mess — Normal <small>PDF</small></span>
 </a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Biopsychosocial-What-crossword-easy-09-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/Biopsychosocial-What-crossword-easy-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Biopsychosocial What? — Easy <small>PDF</small></span>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-2/biopsychosocial-mess-m1-2-easy.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/biopsychosocial-mess-m1-2-easy.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Biopsychosocial mess — Easy <small>PDF</small></span>
 </a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Biopsychosocial-What-crossword-answer-key-09-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/Biopsychosocial-What-crossword-answer-key-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Biopsychosocial What? — Answer key <small>PDF</small></span>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-2/biopsychosocial-mess-m1-2-answer-key.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/biopsychosocial-mess-m1-2-answer-key.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Biopsychosocial mess — Answer key <small>PDF</small></span>
 </a>
 </div>
 

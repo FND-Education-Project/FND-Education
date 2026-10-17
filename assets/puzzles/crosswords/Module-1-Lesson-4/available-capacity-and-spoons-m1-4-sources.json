@@ -1,0 +1,443 @@
+{
+  "title": "Available Capacity and Spoons",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 76,
+    "lesson": 4,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "lesson",
+    "module": 1,
+    "seed": 1,
+    "selected_question_count": 40
+  },
+  "score": 77.97,
+  "included": [
+    {
+      "answer": "RECOVER",
+      "borrowed": false,
+      "clue": "What you may need time to do after an activity or episode.",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 13,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "RECOVER",
+      "priority": 1,
+      "row": 121
+    },
+    {
+      "answer": "SENSORY",
+      "borrowed": false,
+      "clue": "Light, sound, and busy surroundings can add this type of strain.",
+      "direction": "down",
+      "grid_col": 11,
+      "grid_row": 8,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "SENSORY",
+      "priority": 2,
+      "row": 120
+    },
+    {
+      "answer": "REPEAT",
+      "borrowed": false,
+      "clue": "Doing something once does not mean you can always ___ it five minutes later.",
+      "direction": "down",
+      "grid_col": 16,
+      "grid_row": 10,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "REPEAT",
+      "priority": 2,
+      "row": 117
+    },
+    {
+      "answer": "SCORE",
+      "borrowed": false,
+      "clue": "You do not need to give your available capacity a number or a ___.",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 8,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "SCORE",
+      "priority": 2,
+      "row": 109
+    },
+    {
+      "answer": "NOW",
+      "borrowed": false,
+      "clue": "Available capacity describes what you can manage right ___.",
+      "direction": "down",
+      "grid_col": 13,
+      "grid_row": 7,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "NOW",
+      "priority": 1,
+      "row": 95
+    },
+    {
+      "answer": "AUTONOMIC",
+      "borrowed": false,
+      "clue": "The nervous system that controls automatic functions such as heart rate and digestion.",
+      "direction": "across",
+      "grid_col": 14,
+      "grid_row": 15,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "AUTONOMIC",
+      "priority": 2,
+      "row": 123
+    },
+    {
+      "answer": "LOW",
+      "borrowed": false,
+      "clue": "When capacity is very ___, safety may need to come first.",
+      "direction": "down",
+      "grid_col": 19,
+      "grid_row": 14,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "LOW",
+      "priority": 1,
+      "row": 94
+    },
+    {
+      "answer": "BREAK",
+      "borrowed": false,
+      "clue": "Something pacing may include when an activity becomes difficult.",
+      "direction": "across",
+      "grid_col": 14,
+      "grid_row": 11,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "BREAK",
+      "priority": 2,
+      "row": 108
+    },
+    {
+      "answer": "LIMIT",
+      "borrowed": false,
+      "clue": "The point when continuing an activity becomes too difficult or unsafe.",
+      "direction": "down",
+      "grid_col": 21,
+      "grid_row": 12,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "LIMIT",
+      "priority": 2,
+      "row": 106
+    },
+    {
+      "answer": "NOISE",
+      "borrowed": false,
+      "clue": "Reducing background ___ can make a conversation easier.",
+      "direction": "across",
+      "grid_col": 7,
+      "grid_row": 9,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "NOISE",
+      "priority": 2,
+      "row": 103
+    },
+    {
+      "answer": "AFTER",
+      "borrowed": false,
+      "clue": "Capacity includes considering what you may need ___ an activity.",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 15,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "AFTER",
+      "priority": 2,
+      "row": 105
+    },
+    {
+      "answer": "EXHAUSTION",
+      "borrowed": false,
+      "clue": "When saying “I’m a little tired” does not come close to describing how you feel.",
+      "direction": "down",
+      "grid_col": 9,
+      "grid_row": 2,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "EXHAUSTION",
+      "priority": 1,
+      "row": 125
+    },
+    {
+      "answer": "EFFORT",
+      "borrowed": false,
+      "clue": "Everyday activities can require much more of this than other people realize.",
+      "direction": "across",
+      "grid_col": 9,
+      "grid_row": 17,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "EFFORT",
+      "priority": 2,
+      "row": 118
+    },
+    {
+      "answer": "EQUIPMENT",
+      "borrowed": false,
+      "clue": "Tools or devices that may make an activity safer or easier.",
+      "direction": "across",
+      "grid_col": 14,
+      "grid_row": 18,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "EQUIPMENT",
+      "priority": 2,
+      "row": 124
+    },
+    {
+      "answer": "SPACE",
+      "borrowed": false,
+      "clue": "A supporter might offer company, help, quiet, or some ___.",
+      "direction": "down",
+      "grid_col": 15,
+      "grid_row": 4,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "SPACE",
+      "priority": 1,
+      "row": 110
+    },
+    {
+      "answer": "ADL",
+      "borrowed": false,
+      "clue": "The abbreviation for everyday self-care activities such as dressing and eating.",
+      "direction": "across",
+      "grid_col": 9,
+      "grid_row": 5,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "ADL",
+      "priority": 2,
+      "row": 131
+    },
+    {
+      "answer": "DRIVE",
+      "borrowed": false,
+      "clue": "An activity that may need to stop when symptoms make it unsafe.",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 2,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "DRIVE",
+      "priority": 1,
+      "row": 113
+    },
+    {
+      "answer": "ENERGY",
+      "borrowed": false,
+      "clue": "Available capacity is more than simply how much ___ you think you have.",
+      "direction": "down",
+      "grid_col": 7,
+      "grid_row": 8,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "ENERGY",
+      "priority": 1,
+      "row": 114
+    },
+    {
+      "answer": "NAP",
+      "borrowed": false,
+      "clue": "A short sleep that may help you recharge during the day.",
+      "direction": "across",
+      "grid_col": 14,
+      "grid_row": 6,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "NAP",
+      "priority": 2,
+      "row": 127
+    },
+    {
+      "answer": "SIT",
+      "borrowed": false,
+      "clue": "What you might do in a chair when standing uses too much capacity.",
+      "direction": "across",
+      "grid_col": 15,
+      "grid_row": 4,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "SIT",
+      "priority": 2,
+      "row": 128
+    },
+    {
+      "answer": "COST",
+      "borrowed": false,
+      "clue": "Each activity has one even when nobody sends you a bill.",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 16,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "COST",
+      "priority": 1,
+      "row": 96
+    },
+    {
+      "answer": "VISIT",
+      "borrowed": false,
+      "clue": "Spending time with someone is a social activity that can use capacity.",
+      "direction": "down",
+      "grid_col": 7,
+      "grid_row": 1,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "VISIT",
+      "priority": 1,
+      "row": 112
+    },
+    {
+      "answer": "CAPACITY",
+      "borrowed": false,
+      "clue": "The amount you can handle at a particular time.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 13,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "CAPACITY",
+      "priority": 1,
+      "row": 122
+    },
+    {
+      "answer": "FATIGABILITY",
+      "borrowed": false,
+      "clue": "A medical term for an ability that gets worse with repeated or continued effort.",
+      "direction": "down",
+      "grid_col": 3,
+      "grid_row": 8,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "FATIGABILITY",
+      "priority": 1,
+      "row": 126
+    },
+    {
+      "answer": "AID",
+      "borrowed": false,
+      "clue": "Something you may use to make an activity safer or easier.",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 12,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "AID",
+      "priority": 2,
+      "row": 92
+    },
+    {
+      "answer": "DELAY",
+      "borrowed": false,
+      "clue": "Some effects of an activity may appear after a ___.",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 16,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "DELAY",
+      "priority": 2,
+      "row": 111
+    },
+    {
+      "answer": "TASK",
+      "borrowed": false,
+      "clue": "Getting dressed, taking a shower, or making food is an example of one.",
+      "direction": "across",
+      "grid_col": 2,
+      "grid_row": 9,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "TASK",
+      "priority": 2,
+      "row": 99
+    },
+    {
+      "answer": "QUIET",
+      "borrowed": false,
+      "clue": "What you may want when the sounds around you become overwhelming.",
+      "direction": "down",
+      "grid_col": 17,
+      "grid_row": 0,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "QUIET",
+      "priority": 2,
+      "row": 107
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "LOAD",
+      "clue": "The total amount of pressure placed on you at one time.",
+      "row": 97
+    },
+    {
+      "answer": "DEMAND",
+      "clue": "The effort or pressure that an activity puts on you.",
+      "row": 98
+    },
+    {
+      "answer": "SPOON",
+      "clue": "In a theory that uses kitchen utensils, this item represents part of your available capacity.",
+      "row": 102
+    },
+    {
+      "answer": "LIGHT",
+      "clue": "Something bright that can add to sensory overload.",
+      "row": 104
+    },
+    {
+      "answer": "PACING",
+      "clue": "Changing activities or taking breaks to make daily life easier to manage.",
+      "row": 119
+    },
+    {
+      "answer": "DIM",
+      "clue": "To make bright lights less bright.",
+      "row": 93
+    },
+    {
+      "answer": "UNIT",
+      "clue": "A spoon may be useful for soup, but it is not a medical ___ of energy.",
+      "row": 100
+    },
+    {
+      "answer": "TEXT",
+      "clue": "A way to communicate when speaking is difficult.",
+      "row": 101
+    },
+    {
+      "answer": "CHOICE",
+      "clue": "Support should respect a person’s own ___ about how to use their capacity.",
+      "row": 115
+    },
+    {
+      "answer": "SAFETY",
+      "clue": "When symptoms become severe, this may be more important than finishing the task.",
+      "row": 116
+    },
+    {
+      "answer": "ASK",
+      "clue": "To request support instead of trying to manage alone.",
+      "row": 129
+    },
+    {
+      "answer": "OT",
+      "clue": "The abbreviation for a health professional who helps people adapt daily activities.",
+      "row": 132
+    }
+  ]
+}

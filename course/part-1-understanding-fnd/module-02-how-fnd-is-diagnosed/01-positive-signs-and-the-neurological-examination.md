@@ -92,6 +92,25 @@ Use the positive sign as information from your clinician rather than as a test t
 
 ### Optional learning activity
 
+Choose a crossword below. Normal and easy editions are fillable PDFs; the easy edition includes a word bank.
+
+<div class="puzzle-grid">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-2-Lesson-5/positive-signs-and-the-neuro-exam-m2-5-normal.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/positive-signs-and-the-neuro-exam-m2-5-normal.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Positive Signs and the Neuro Exam — Normal <small>PDF</small></span>
+</a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-2-Lesson-5/positive-signs-and-the-neuro-exam-m2-5-easy.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/positive-signs-and-the-neuro-exam-m2-5-easy.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Positive Signs and the Neuro Exam — Easy <small>PDF</small></span>
+</a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-2-Lesson-5/positive-signs-and-the-neuro-exam-m2-5-answer-key.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/positive-signs-and-the-neuro-exam-m2-5-answer-key.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Positive Signs and the Neuro Exam — Answer key <small>PDF</small></span>
+</a>
+</div>
+
+#### Colouring page
+
 Choose the preview to open the printable colouring PDF. Use landscape orientation and fit to page when printing. You can also browse the [puzzles collection](../../../assets/puzzles/README.md).
 
 <div class="puzzle-grid puzzle-grid-colouring">
