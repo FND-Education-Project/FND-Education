@@ -104,17 +104,17 @@ Use your own words. This is not a test, and your explanation can change as you l
 Choose a preview to open a printable PDF. These activities are optional.
 
 <div class="puzzle-grid">
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/What-is-FND-crossword-09-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/What-is-FND-crossword-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>What is FND? — Normal <small>PDF</small></span>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-1/functional-what-m1-1-normal.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/functional-what-m1-1-normal.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Functional What? — Normal <small>PDF</small></span>
 </a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/What-is-FND-crossword-easy-09-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/What-is-FND-crossword-easy-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>What is FND? — Easy <small>PDF</small></span>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-1/functional-what-m1-1-easy.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/functional-what-m1-1-easy.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Functional What? — Easy <small>PDF</small></span>
 </a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/What-is-FND-crossword-answer-key-09-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/What-is-FND-crossword-answer-key-09-2026.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>What is FND? — Answer key <small>PDF</small></span>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-1/functional-what-m1-1-answer-key.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/functional-what-m1-1-answer-key.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Functional What? — Answer key <small>PDF</small></span>
 </a>
 </div>
 
