@@ -1608,3 +1608,8 @@ button:focus-visible {
   #puzzle-preview { height: 14rem; }
   .puzzle-downloads a { flex: 1 1 auto; }
 }
+
+/* Lesson activities use one blank preview and keep each PDF edition explicit. */
+.lesson-puzzle-preview { max-width: 25rem; margin: 1rem 0 2rem; }
+.lesson-puzzle-preview > .puzzle-card { width: 10rem; max-width: 100%; margin-bottom: .75rem; }
+.lesson-puzzle-preview .puzzle-downloads a { min-height: 44px; }
