@@ -113,6 +113,7 @@
       <nav class="site-nav" aria-label="Main navigation">
         <a href="{{ '/' | relative_url }}">Home</a>
         <a href="{{ '/course/' | relative_url }}">Course</a>
+        <a href="{{ '/course/#course-progress' | relative_url }}">My Progress</a>
         <a href="{{ '/reference/' | relative_url }}">Reference</a>
         <a href="{{ '/glossary/' | relative_url }}">Glossary</a>
         <a href="{{ '/booklets/' | relative_url }}">Booklets</a>
@@ -186,6 +187,14 @@
     src="{{ '/assets/js/site.js' | relative_url }}"
     defer
   ></script>
+
+  {% if page.page_kind == "course" or page.page_kind == "module" or page.page_kind == "lesson" or page.layout == "home" %}
+  <script
+    src="{{ '/assets/js/course-progress.js' | relative_url }}"
+    data-manifest-url="{{ '/assets/data/course-progress.json' | relative_url }}"
+    defer
+  ></script>
+  {% endif %}
 
   {% if site.analytics_endpoint %}
   <script
