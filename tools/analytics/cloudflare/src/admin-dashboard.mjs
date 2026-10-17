@@ -9,51 +9,108 @@ export const adminPage = `<!doctype html>
 <title>Site statistics | FND Education Project</title>
 <style>
 :root{font:16px/1.5 system-ui,-apple-system,Segoe UI,sans-serif;color-scheme:light dark}
-body{margin:0;background:Canvas;color:CanvasText}header{padding:1.3rem max(1rem,calc((100vw - 68rem)/2));background:color-mix(in srgb,CanvasText 5%,Canvas);border-bottom:1px solid GrayText}
-main{max-width:68rem;padding:1.2rem 1.15rem 3rem;margin:auto}h1{margin:.1rem 0;font-size:clamp(1.7rem,4vw,2.4rem)}
-h2{font-size:1.25rem;margin:1.9rem 0 .6rem}p{max-width:70ch}a{color:LinkText}
-.controls{display:flex;flex-wrap:wrap;gap:.65rem;align-items:center;margin:1rem 0}
+body{margin:0;background:Canvas;color:CanvasText}
+header{padding:1.25rem max(1rem,calc((100vw - 73rem)/2));background:color-mix(in srgb,CanvasText 5%,Canvas);border-bottom:1px solid color-mix(in srgb,CanvasText 24%,transparent)}
+main{max-width:73rem;padding:1.4rem 1.15rem 3rem;margin:auto}
+h1{margin:.15rem 0;font-size:clamp(1.75rem,4vw,2.45rem)}
+h2{font-size:1.3rem;margin:0 0 .35rem}
+a{color:LinkText}p{max-width:75ch}
+.controls{display:flex;flex-wrap:wrap;gap:.7rem;align-items:center;margin:1.3rem 0}
 select{font:inherit;padding:.55rem;border-radius:.4rem;border:1px solid GrayText;background:Canvas;color:CanvasText}
-.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(9rem,1fr));gap:.8rem;margin:1.3rem 0}
-.kpi{border:1px solid GrayText;border-radius:.65rem;padding:1rem;background:color-mix(in srgb,CanvasText 4%,Canvas)}
-.kpi dt{font-size:.9rem}.kpi dd{font-size:clamp(1.6rem,4vw,2.1rem);font-weight:750;margin:.25rem 0}
-#daily-chart{width:100%;max-width:64rem;height:14rem;background:color-mix(in srgb,CanvasText 3%,Canvas);border:1px solid GrayText;border-radius:.5rem}
-.tables{display:grid;grid-template-columns:repeat(auto-fit,minmax(16rem,1fr));gap:1.3rem}
-.table-wrap{overflow:auto;border:1px solid GrayText;border-radius:.5rem}table{width:100%;border-collapse:collapse}
-th,td{padding:.48rem .65rem;text-align:left;border-bottom:1px solid color-mix(in srgb,GrayText 30%,transparent)}
-td:last-child{text-align:right;font-variant-numeric:tabular-nums}th{font-size:.9rem;background:color-mix(in srgb,CanvasText 6%,Canvas)}
-.muted{color:GrayText}#error{color:CanvasText;font-weight:650}button:focus-visible,select:focus-visible,a:focus-visible{outline:3px solid Highlight;outline-offset:2px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,10rem),1fr));gap:.85rem;margin:1.3rem 0 1.5rem}
+.kpi{border:1px solid color-mix(in srgb,CanvasText 27%,transparent);border-radius:.7rem;padding:1rem 1.05rem;background:color-mix(in srgb,CanvasText 4%,Canvas)}
+.kpi dt{font-size:.86rem}.kpi dd{font-size:clamp(1.6rem,4vw,2.15rem);font-weight:750;margin:.2rem 0;font-variant-numeric:tabular-nums}
+.kpi small{font-size:.75rem;color:GrayText}
+.chart-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;margin-top:1.2rem}
+.chart-panel{min-width:0;padding:1.05rem;border:1px solid color-mix(in srgb,CanvasText 26%,transparent);border-radius:.75rem;background:Canvas}
+.chart-panel.featured{grid-column:1/-1}
+.chart-panel p{margin:.3rem 0 .55rem;font-size:.88rem}
+.chart{display:block;width:100%;height:auto;max-height:19rem;overflow:visible;background:color-mix(in srgb,CanvasText 3%,Canvas);border-radius:.35rem}
+.chart text{font:12px system-ui,-apple-system,Segoe UI,sans-serif;fill:CanvasText}
+.chart .grid-line{stroke:color-mix(in srgb,CanvasText 17%,Canvas)}
+.chart .data-line{fill:none;stroke-width:2.7;stroke-linejoin:round;stroke-linecap:round}
+.chart .data-bar{opacity:.85}
+.chart .data-point{stroke:Canvas;stroke-width:1.5}
+.legend{display:flex;gap:.5rem 1.25rem;flex-wrap:wrap;margin:.65rem 0 0;padding:0;list-style:none}
+.legend li{display:flex;align-items:center;gap:.4rem;font-size:.82rem;margin:0}
+.legend-swatch{display:inline-block;width:1.3rem;height:.25rem;border-radius:.3rem}
+.tables{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,19rem),1fr));gap:1.2rem;margin-top:1.6rem}
+.table-wrap{overflow:auto;border:1px solid color-mix(in srgb,CanvasText 26%,transparent);border-radius:.5rem}
+table{width:100%;border-collapse:collapse}
+th,td{padding:.55rem .7rem;text-align:left;border-bottom:1px solid color-mix(in srgb,CanvasText 17%,transparent)}
+td:not(:first-child){text-align:right;font-variant-numeric:tabular-nums}
+th{font-size:.89rem;background:color-mix(in srgb,CanvasText 6%,Canvas)}
+.history{margin:1.5rem 0}
+.history details{border:1px solid color-mix(in srgb,CanvasText 26%,transparent);border-radius:.6rem;padding:1rem}
+.history summary{font-weight:700;cursor:pointer}
+.history .table-wrap{margin-top:.8rem}
+.muted{color:GrayText}
+#error{color:CanvasText;font-weight:650}
+button:focus-visible,select:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid Highlight;outline-offset:2px}
+@media(max-width:44rem){.chart-grid{grid-template-columns:1fr}.chart-panel.featured{grid-column:auto}}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
 </style></head><body>
 <header><p>FND EDUCATION PROJECT · PRIVATE ADMINISTRATION</p><h1>Website statistics</h1></header>
 <main>
-<p>Daily totals only. No visitor profiles, unique-person estimates, search terms or personal histories.</p>
-<div class="controls"><label for="period">Time range</label>
+<p>Anonymous daily totals. These charts show how the website is used over time—not who uses it.</p>
+<div class="controls"><label for="period">Show trends for</label>
 <select id="period"><option value="7">Last 7 days</option><option value="30" selected>Last 30 days</option><option value="90">Last 90 days</option></select>
 <span id="updated" class="muted" aria-live="polite"></span></div>
 <p id="error" role="alert" hidden></p>
 <dl class="kpis">
-<div class="kpi"><dt>Page openings</dt><dd id="k-pages">—</dd></div>
-<div class="kpi"><dt>Searches used</dt><dd id="k-search">—</dd></div>
-<div class="kpi"><dt>Search results opened</dt><dd id="k-clicks">—</dd></div>
-<div class="kpi"><dt>PDF/ZIP link clicks</dt><dd id="k-downloads">—</dd></div>
+<div class="kpi"><dt>Page openings</dt><dd id="k-pages">—</dd><small>Not unique visitors</small></div>
+<div class="kpi"><dt>Searches used</dt><dd id="k-search">—</dd><small>Search interactions</small></div>
+<div class="kpi"><dt>Search results opened</dt><dd id="k-clicks">—</dd><small>Result-link clicks</small></div>
+<div class="kpi"><dt>Download-link clicks</dt><dd id="k-downloads">—</dd><small>PDFs and puzzles</small></div>
+<div class="kpi"><dt>Not-found pages</dt><dd id="k-missing">—</dd><small>404 events</small></div>
 </dl>
-<section aria-labelledby="daily-title"><h2 id="daily-title">Daily page activity</h2>
-<svg id="daily-chart" role="img" aria-label="Bar chart of page openings by day" viewBox="0 0 700 210"></svg>
-<p class="muted">Bars represent page openings, not unique people or sessions.</p></section>
+<div class="chart-grid">
+<section class="chart-panel featured" aria-labelledby="views-title">
+<h2 id="views-title">Page openings by day</h2>
+<p class="muted">How reading activity changes over the selected time period.</p>
+<svg id="views-chart" class="chart" role="img" aria-label="Daily page openings bar chart" viewBox="0 0 720 225"></svg>
+</section>
+<section class="chart-panel" aria-labelledby="search-title">
+<h2 id="search-title">Search activity over time</h2>
+<p class="muted">Compare searches with selections from search results.</p>
+<svg id="search-chart" class="chart" role="img" aria-label="Daily searches and search-result clicks line chart" viewBox="0 0 720 225"></svg>
+<ul class="legend"><li><span class="legend-swatch" style="background:#257ab8"></span>Searches used</li>
+<li><span class="legend-swatch" style="background:#a855aa"></span>Result clicks</li></ul>
+</section>
+<section class="chart-panel" aria-labelledby="clicks-title">
+<h2 id="clicks-title">Clicks by day</h2>
+<p class="muted">Result selections and download-link clicks, grouped by type.</p>
+<svg id="clicks-chart" class="chart" role="img" aria-label="Daily search-result, PDF, and puzzle link clicks line chart" viewBox="0 0 720 225"></svg>
+<ul class="legend"><li><span class="legend-swatch" style="background:#a855aa"></span>Search results</li>
+<li><span class="legend-swatch" style="background:#b56a15"></span>PDF links</li>
+<li><span class="legend-swatch" style="background:#287b5d"></span>Puzzle links</li></ul>
+</section>
+<section class="chart-panel" aria-labelledby="download-title">
+<h2 id="download-title">Downloads over time</h2>
+<p class="muted">Daily clicks on PDF and puzzle download links—not completed downloads.</p>
+<svg id="download-chart" class="chart" role="img" aria-label="Daily combined download-link clicks bar chart" viewBox="0 0 720 225"></svg>
+</section>
+<section class="chart-panel" aria-labelledby="errors-title">
+<h2 id="errors-title">Missing-page requests over time</h2>
+<p class="muted">Daily 404-page events may reveal broken links or outdated bookmarks.</p>
+<svg id="errors-chart" class="chart" role="img" aria-label="Daily not-found page events bar chart" viewBox="0 0 720 225"></svg>
+</section>
+</div>
 <div class="tables">
-<section aria-labelledby="events-title"><h2 id="events-title">Actions</h2><div class="table-wrap">
+<section aria-labelledby="sections-title"><h2 id="sections-title">Page openings by website section</h2>
+<p class="muted">Find which broad areas are most used.</p><div class="table-wrap">
+<table><thead><tr><th scope="col">Section</th><th scope="col">Page opens</th></tr></thead>
+<tbody id="sections-body"></tbody></table></div></section>
+<section aria-labelledby="events-title"><h2 id="events-title">Activity totals</h2>
+<p class="muted">All event types in the selected period.</p><div class="table-wrap">
 <table><thead><tr><th scope="col">Event</th><th scope="col">Total</th></tr></thead>
 <tbody id="events-body"></tbody></table></div></section>
-<section aria-labelledby="sections-title"><h2 id="sections-title">Page openings by section</h2><div class="table-wrap">
-<table><thead><tr><th scope="col">Section</th><th scope="col">Opens</th></tr></thead>
-<tbody id="sections-body"></tbody></table></div></section>
 </div>
-<section aria-labelledby="history-title"><h2 id="history-title">Daily breakdown</h2>
-<div class="table-wrap"><table><thead><tr><th>Date (UTC)</th><th>Pages</th><th>Searches</th><th>Results</th><th>Downloads</th></tr></thead>
-<tbody id="history-body"></tbody></table></div></section>
-<p class="muted">Searches are counted after a typing pause; link clicks do not guarantee completed downloads.
-Counts may include bots or omit requests blocked by privacy tools. Data is grouped in UTC.</p>
+<section class="history" aria-labelledby="history-title"><h2 id="history-title">Detailed daily figures</h2>
+<details><summary>Show daily table for this period</summary>
+<div class="table-wrap"><table><thead><tr><th scope="col">Date (UTC)</th><th scope="col">Pages</th><th scope="col">Searches</th><th scope="col">Result clicks</th><th scope="col">Downloads</th><th scope="col">404s</th></tr></thead>
+<tbody id="history-body"></tbody></table></div></details></section>
+<p class="muted">Dates use UTC. Search counts are debounced; links clicked are not proof of completed downloads. Bots can inflate totals and privacy tools can block counters. No unique visitors, IP addresses, search words, referrers, or individual pages are stored in project analytics.</p>
 <p><a href="https://fndeducationproject.org/">Return to the public website</a></p>
 </main><script src="/admin/app.js" defer></script></body></html>`;
 
