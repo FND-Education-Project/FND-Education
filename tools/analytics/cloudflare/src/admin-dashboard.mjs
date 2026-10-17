@@ -118,9 +118,11 @@ export const adminScript = `"use strict";
 (function () {
   const $ = id => document.getElementById(id);
   const EVENT_LABELS = {
-    page_view: "Page openings", search_used: "Searches used",
+    page_view: "Page openings",
+    search_used: "Searches used",
     search_result_click: "Search results opened",
-    pdf_download: "PDF link clicks", puzzle_download: "Puzzle link clicks",
+    pdf_download: "PDF link clicks",
+    puzzle_download: "Puzzle link clicks",
     not_found: "404 pages"
   };
   const SECTIONS = {
@@ -128,89 +130,195 @@ export const adminScript = `"use strict";
     glossary: "Glossary", puzzles: "Puzzles", booklets: "Booklets",
     search: "Search", contact: "Contact", other: "Other"
   };
-  const format = n => Number(n).toLocaleString();
+  const COLOR = {
+    views: "#3273a6", searches: "#257ab8", clicks: "#a855aa",
+    pdf: "#b56a15", puzzles: "#287b5d", errors: "#b34f48",
+    downloads: "#287b5d"
+  };
+  const SVG = "http://www.w3.org/2000/svg";
+  const number = n => Number(n).toLocaleString();
   function clear(node) { node.replaceChildren(); }
-  function td(text) { const el = document.createElement("td"); el.textContent = String(text); return el; }
+  function cell(text) {
+    const td = document.createElement("td");
+    td.textContent = String(text);
+    return td;
+  }
   function row(tbody, label, total) {
     const tr = document.createElement("tr");
-    tr.append(td(label), td(format(total)));
+    tr.append(cell(label), cell(number(total)));
     tbody.append(tr);
   }
-  function chart(days, daily) {
-    const svg = $("daily-chart"); clear(svg);
-    const xmlns = "http://www.w3.org/2000/svg";
-    const max = Math.max(1, ...days.map(d => daily[d]?.page_view || 0));
-    const width = 668 / Math.max(days.length, 1);
-    for (let i = 0; i < days.length; i++) {
-      const n = daily[days[i]]?.page_view || 0, height = n / max * 165;
-      const bar = document.createElementNS(xmlns, "rect");
-      bar.setAttribute("x", String(20 + i * width + 1));
-      bar.setAttribute("y", String(182 - height));
-      bar.setAttribute("width", String(Math.max(1, width - 2)));
-      bar.setAttribute("height", String(Math.max(0, height)));
-      bar.setAttribute("fill", "currentColor");
-      const tooltip = document.createElementNS(xmlns, "title");
-      tooltip.textContent = days[i] + ": " + n + " page openings";
-      bar.append(tooltip); svg.append(bar);
+  function svgElement(tag, attrs = {}, label) {
+    const node = document.createElementNS(SVG, tag);
+    for (const [key, value] of Object.entries(attrs)) node.setAttribute(key, String(value));
+    if (label !== undefined) node.textContent = String(label);
+    return node;
+  }
+  function count(daily, day, event) {
+    const dayCounts = daily[day] || {};
+    if (event === "downloads") {
+      return (dayCounts.pdf_download || 0) + (dayCounts.puzzle_download || 0);
     }
-    const label = document.createElementNS(xmlns, "text");
-    label.setAttribute("x", "20"); label.setAttribute("y", "202");
-    label.setAttribute("fill", "currentColor"); label.setAttribute("font-size", "12");
-    label.textContent = days[0] + " — " + days[days.length - 1];
-    svg.append(label);
+    return dayCounts[event] || 0;
+  }
+  function plot(id, dates, daily, series, kind) {
+    const svg = $(id);
+    clear(svg);
+    const left = 48, right = 703, top = 20, bottom = 184;
+    const spanX = right - left, spanY = bottom - top;
+    const maximum = Math.max(0, ...dates.flatMap(day =>
+      series.map(s => count(daily, day, s.event))));
+    const chartMax = maximum || 1;
+    const yPosition = n => bottom - spanY * n / chartMax;
+    for (const fraction of [0, 0.5, 1]) {
+      const y = yPosition(fraction * chartMax);
+      svg.append(svgElement("line", {
+        x1: left, x2: right, y1: y, y2: y, class: "grid-line"
+      }));
+      svg.append(svgElement("text", {
+        x: left - 8, y: y + 4, "text-anchor": "end"
+      }, number(Math.round(fraction * chartMax))));
+    }
+    if (!dates.length) return;
+    svg.append(svgElement("text", { x: left, y: 209 }, dates[0]));
+    svg.append(svgElement("text", {
+      x: right, y: 209, "text-anchor": "end"
+    }, dates[dates.length - 1]));
+    if (maximum === 0) {
+      svg.append(svgElement("text", {
+        x: (left + right) / 2, y: 110,
+        "text-anchor": "middle"
+      }, "No recorded activity in this period"));
+      return;
+    }
+    if (kind === "bars") {
+      const step = spanX / dates.length;
+      const barWidth = Math.max(1.5, Math.min(26, step - 2));
+      dates.forEach((day, index) => {
+        const value = count(daily, day, series[0].event);
+        const height = Math.max(0, bottom - yPosition(value));
+        if (!height) return;
+        const bar = svgElement("rect", {
+          x: left + index * step + (step - barWidth) / 2,
+          y: bottom - height, width: barWidth, height,
+          fill: series[0].color, class: "data-bar"
+        });
+        bar.append(svgElement("title", {}, day + ": " + number(value) +
+          " " + series[0].label));
+        svg.append(bar);
+      });
+      return;
+    }
+    const step = spanX / Math.max(1, dates.length - 1);
+    for (const entry of series) {
+      const points = dates.map((day, index) =>
+        (left + index * step).toFixed(1) + "," +
+        yPosition(count(daily, day, entry.event)).toFixed(1)).join(" ");
+      const line = svgElement("polyline", {
+        points, stroke: entry.color, class: "data-line"
+      });
+      line.append(svgElement("title", {}, entry.label + " across " +
+        dates.length + " days"));
+      svg.append(line);
+      dates.forEach((day, index) => {
+        const value = count(daily, day, entry.event);
+        const point = svgElement("circle", {
+          cx: left + index * step, cy: yPosition(value),
+          r: dates.length <= 14 ? 3.7 : 2.3,
+          fill: entry.color, class: "data-point"
+        });
+        point.append(svgElement("title", {}, day + ": " + number(value) +
+          " " + entry.label));
+        svg.append(point);
+      });
+    }
   }
   function show(data) {
     const totals = Object.fromEntries(Object.keys(EVENT_LABELS).map(k => [k, 0]));
     const sections = Object.fromEntries(Object.keys(SECTIONS).map(k => [k, 0]));
-    const daily = {};
+    const daily = Object.create(null);
+    const selectedDays = data.days;
+    const today = new Date(data.today + "T00:00:00Z");
+    if (!Number.isFinite(today.getTime())) throw new Error("Invalid report date.");
+    const dates = Array.from({ length: selectedDays }, (_, index) => {
+      const date = new Date(today);
+      date.setUTCDate(date.getUTCDate() - (selectedDays - index - 1));
+      return date.toISOString().slice(0, 10);
+    });
+    const allowedDates = new Set(dates);
     for (const item of data.rows) {
       if (!Object.hasOwn(totals, item.event) ||
           !Object.hasOwn(sections, item.section) ||
-          !/^\\d{4}-\\d{2}-\\d{2}$/.test(item.day)) continue;
-      const n = Number(item.total);
-      if (!Number.isSafeInteger(n) || n < 0) continue;
-      totals[item.event] += n;
-      if (item.event === "page_view") sections[item.section] += n;
-      const entry = daily[item.day] || (daily[item.day] = {});
-      entry[item.event] = (entry[item.event] || 0) + n;
+          !allowedDates.has(item.day)) continue;
+      const value = Number(item.total);
+      if (!Number.isSafeInteger(value) || value < 0) continue;
+      totals[item.event] += value;
+      if (item.event === "page_view") sections[item.section] += value;
+      const group = daily[item.day] || (daily[item.day] = Object.create(null));
+      group[item.event] = (group[item.event] || 0) + value;
     }
-    $("k-pages").textContent = format(totals.page_view);
-    $("k-search").textContent = format(totals.search_used);
-    $("k-clicks").textContent = format(totals.search_result_click);
+    $("k-pages").textContent = number(totals.page_view);
+    $("k-search").textContent = number(totals.search_used);
+    $("k-clicks").textContent = number(totals.search_result_click);
     $("k-downloads").textContent =
-      format(totals.pdf_download + totals.puzzle_download);
-    const eventRows = $("events-body"), sectionRows = $("sections-body"),
-      history = $("history-body");
-    clear(eventRows); clear(sectionRows); clear(history);
-    Object.keys(EVENT_LABELS).forEach(key => row(eventRows, EVENT_LABELS[key], totals[key]));
-    Object.keys(SECTIONS).forEach(key => row(sectionRows, SECTIONS[key], sections[key]));
-    const dates = Array.from({ length: data.days }, (_, i) => {
-      const d = new Date(data.today + "T00:00:00Z");
-      d.setUTCDate(d.getUTCDate() - (data.days - i - 1));
-      return d.toISOString().slice(0, 10);
-    });
+      number(totals.pdf_download + totals.puzzle_download);
+    $("k-missing").textContent = number(totals.not_found);
+    plot("views-chart", dates, daily, [
+      { event: "page_view", label: "page openings", color: COLOR.views }
+    ], "bars");
+    plot("search-chart", dates, daily, [
+      { event: "search_used", label: "searches", color: COLOR.searches },
+      { event: "search_result_click", label: "result clicks", color: COLOR.clicks }
+    ], "lines");
+    plot("clicks-chart", dates, daily, [
+      { event: "search_result_click", label: "search-result clicks", color: COLOR.clicks },
+      { event: "pdf_download", label: "PDF clicks", color: COLOR.pdf },
+      { event: "puzzle_download", label: "puzzle clicks", color: COLOR.puzzles }
+    ], "lines");
+    plot("download-chart", dates, daily, [
+      { event: "downloads", label: "download-link clicks", color: COLOR.downloads }
+    ], "bars");
+    plot("errors-chart", dates, daily, [
+      { event: "not_found", label: "not-found pages", color: COLOR.errors }
+    ], "bars");
+    const eventsBody = $("events-body"), sectionsBody = $("sections-body");
+    const history = $("history-body");
+    clear(eventsBody);
+    clear(sectionsBody);
+    clear(history);
+    Object.keys(EVENT_LABELS).forEach(key =>
+      row(eventsBody, EVENT_LABELS[key], totals[key]));
+    Object.keys(SECTIONS).sort((a, b) => sections[b] - sections[a])
+      .forEach(key => row(sectionsBody, SECTIONS[key], sections[key]));
     for (const day of dates.slice().reverse()) {
-      const v = daily[day] || {}, tr = document.createElement("tr");
-      tr.append(td(day), td(format(v.page_view || 0)),
-        td(format(v.search_used || 0)),
-        td(format(v.search_result_click || 0)),
-        td(format((v.pdf_download || 0) + (v.puzzle_download || 0))));
+      const tr = document.createElement("tr");
+      tr.append(
+        cell(day),
+        cell(number(count(daily, day, "page_view"))),
+        cell(number(count(daily, day, "search_used"))),
+        cell(number(count(daily, day, "search_result_click"))),
+        cell(number(count(daily, day, "downloads"))),
+        cell(number(count(daily, day, "not_found")))
+      );
       history.append(tr);
     }
-    chart(dates, daily);
-    $("updated").textContent = "Updated from aggregate counters (UTC)";
+    $("updated").textContent = "Period: " + dates[0] + " to " +
+      dates[dates.length - 1] + " (UTC)";
   }
   async function load() {
     $("error").hidden = true;
-    $("updated").textContent = "Loading…";
+    $("updated").textContent = "Loading private daily totals…";
     try {
       const days = $("period").value;
-      const response = await fetch("/admin/api/summary?days=" + days,
-        { credentials: "same-origin", cache: "no-store", redirect: "error" });
+      const response = await fetch("/admin/api/summary?days=" + days, {
+        credentials: "same-origin", cache: "no-store", redirect: "error"
+      });
       if (!response.ok) throw new Error("Could not load private statistics (" +
-        response.status + "). Check your Cloudflare Access login.");
+        response.status + "). Check your Cloudflare Access sign-in.");
       const data = await response.json();
-      if (!Array.isArray(data.rows) || data.days !== Number(days)) {
+      if (!data || !Array.isArray(data.rows) ||
+          data.days !== Number(days) ||
+          typeof data.today !== "string") {
         throw new Error("Unexpected statistics response.");
       }
       show(data);
