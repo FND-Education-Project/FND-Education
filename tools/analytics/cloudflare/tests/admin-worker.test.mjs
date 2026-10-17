@@ -119,10 +119,16 @@ test("signed Access JWT, audience and admin allowlist gate read-only daily count
     const certificateFailures = [
       [async () => { throw new TypeError("connection details not public"); }, "A09F"],
       [async () => new Response("forbidden", { status: 403 }), "A09H403"],
+      [async () => new Response(null, { status: 302, headers: {
+        Location: "https://example.invalid/not-followed"
+      } }), "A09H302"],
       [async () => new Response("not json", { status: 200 }), "A09J"]
     ];
     for (const [fakeFetch, code] of certificateFailures) {
-      globalThis.fetch = fakeFetch;
+      globalThis.fetch = async (url, options) => {
+        assert.equal(options.redirect, "manual");
+        return fakeFetch(url, options);
+      };
       const deniedPage = await adminWorker.fetch(new Request(
         API.replace("/v1/event", "/admin"),
         { headers: { "Cf-Access-Jwt-Assertion": token } }), diagStorage);
@@ -132,8 +138,9 @@ test("signed Access JWT, audience and admin allowlist gate read-only daily count
     }
     // Restoring a successful certificate response still permits a signed
     // and authorized login; no cache is seeded by failures.
-    globalThis.fetch = async url => {
+    globalThis.fetch = async (url, options) => {
       assert.equal(url, "https://" + host + "/cdn-cgi/access/certs");
+      assert.equal(options.redirect, "manual");
       jwksCalls++;
       return new Response(JSON.stringify({ keys: [jwk] }), { status: 200 });
     };
