@@ -109,11 +109,42 @@ Or calculate monthly totals:
     SELECT substr(day, 1, 7) AS month, event, SUM(total) AS total
     FROM daily_counts GROUP BY month, event ORDER BY month DESC, event;
 
+## Private statistics dashboard (not yet deployed)
+
+PR #146 contains a **separate** read-only Cloudflare Worker for the
+owner's private AWStats-style website statistics:
+
+- Public events: `wrangler.toml` → `src/worker.mjs` →
+  `fnd-aggregate-metrics`. Already deployed and unchanged by the PR.
+- Private graphs: `wrangler-admin.toml` → `src/admin-worker.mjs` →
+  `fnd-private-statistics`. Not yet deployed. Private UI lives in
+  `src/admin-dashboard.mjs`.
+
+**Both bind the same existing D1 database** `fnd-aggregate-analytics`.
+The public Worker only collects daily totals; the private Worker exposes
+read-only totals for the authorized administrator. They are distinct
+services so Cloudflare Access can protect the **entire private Worker**
+without interrupting public event collection.
+
+The private Worker returns HTTP 404 for every route until its three
+Access-related secrets are explicitly configured; it then requires both
+a valid cryptographically signed Cloudflare Access JWT and an allowlisted
+administrator email. Cloudflare Access MUST separately enforce GitHub
+as the sole login method. See `ADMIN-DASHBOARD.md` for a deliberately
+staged, cost-conscious setup checklist. **No Workers are deployed by CI.**
+
+The dashboard includes day-by-day graphs for page openings, searches,
+result clicks, download-link clicks and 404-page events, plus coarse section
+totals and daily tables. No unique visitor claims or individual
+activity history are recorded.
+
 ## Tests
 
 From repository root:
 
     node --test tools/analytics/cloudflare/tests/worker.test.mjs
+    node --test tools/analytics/cloudflare/tests/admin-worker.test.mjs
+    node --check tools/analytics/cloudflare/src/admin-worker.mjs
     node --check web/assets/js/analytics.js
     node --check web/assets/js/search.js
 

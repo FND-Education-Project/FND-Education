@@ -77,3 +77,13 @@ test("missing DB binding and DB errors return no private information", async () 
   assert.equal(result.status, 503);
   assert.equal(await result.text(), "");
 });
+
+test("public event Worker cannot expose dashboard even with administrator secrets", async () => {
+  const storage = { ...env(), ACCESS_TEAM_DOMAIN: "test.cloudflareaccess.com",
+    ACCESS_APP_AUD: "a".repeat(64), ADMIN_ALLOWED_EMAIL: "owner@example.org" };
+  for (const path of ["/admin", "/admin/", "/admin/app.js", "/admin/api/summary"]) {
+    const result = await worker.fetch(new Request(API.replace("/v1/event", path)), storage);
+    assert.equal(result.status, 404);
+  }
+  assert.equal(storage.statements.length, 0);
+});

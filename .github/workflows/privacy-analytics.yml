@@ -40,8 +40,12 @@ jobs:
           node --check web/assets/js/analytics.js
           node --check web/assets/js/search.js
           node --check tools/analytics/cloudflare/src/worker.mjs
+          node --check tools/analytics/cloudflare/src/admin-worker.mjs
+          node --check tools/analytics/cloudflare/src/admin-dashboard.mjs
       - name: Validate anonymous-only Worker behaviour
         run: node --test tools/analytics/cloudflare/tests/worker.test.mjs
+      - name: Validate separately protected private dashboard Worker
+        run: node --test tools/analytics/cloudflare/tests/admin-worker.test.mjs
       - name: Require public privacy notice for analytics activation
         run: |
           if grep -Eq '^[[:space:]]*analytics_endpoint:[[:space:]]*https://' web/_config.yml; then
