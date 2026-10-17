@@ -127,7 +127,7 @@ code, never the email, token, key, JWT claims or request headers:
 | A06–A07 | Missing subject or invalid token validity time |
 | A08 | Signed JWT email missing or not matching the allowed email |
 | A09F | The Worker could not complete the public-certificate fetch (transport or redirect failure) |
-| A09H### | The certificate endpoint returned the three-digit HTTP status shown (e.g., A09H403) |
+| A09H### | The certificate endpoint returned the three-digit HTTP status shown (e.g., A09H403 or A09H302 for an unexpected redirect, which is **never followed**) |
 | A09J | The Worker received a response but could not parse its JSON |
 | A10 | The returned certificate JSON did not contain an acceptable key list |
 | A11 | No public verification key matched the signed token |
