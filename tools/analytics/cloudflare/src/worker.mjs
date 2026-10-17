@@ -1,5 +1,3 @@
-import { adminPage, adminScript } from "./admin-dashboard.mjs";
-
 /**
  * First-party, anonymous COUNTS ONLY for the FND Education Project.
  *
@@ -8,9 +6,7 @@ import { adminPage, adminScript } from "./admin-dashboard.mjs";
  * Network/platform operators may separately process connection metadata.
  *
  * Never log the request or its body; unexpected fields are rejected.
- * Database access is private to this Worker. A separate read-only dashboard
- * fails closed unless signed Cloudflare Access identity and an explicit
- * GitHub-only admin allowlist are configured.
+ * Database access is private to this Worker; there is no public dashboard.
  */
 const SITE_ORIGIN = "https://fndeducationproject.org";
 const EVENT_TYPES = new Set([
@@ -59,147 +55,9 @@ async function readLimitedBody(request, maxBytes) {
   }
 }
 
-
-// GitHub-only administrator access must be enforced by a Cloudflare Access
-// application policy. Worker also verifies the Access JWT cryptographically
-// and checks its explicitly allowlisted admin email; neither check alone is
-// intended to replace the other. No custom password or user database.
-let certCache = { host: "", expires: 0, keys: [] };
-
-function adminConfigured(env) {
-  const host = String(env.ACCESS_TEAM_DOMAIN || "");
-  return /^[a-z0-9](?:[a-z0-9.-]*[a-z0-9])?\.cloudflareaccess\.com$/i.test(host) &&
-    /^[a-f0-9]{32,128}$/i.test(String(env.ACCESS_APP_AUD || "")) &&
-    /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(String(env.ADMIN_ALLOWED_EMAIL || ""));
-}
-
-function decodePart(segment) {
-  if (!/^[A-Za-z0-9_-]+$/.test(segment)) throw new Error("Malformed JWT");
-  const padded = segment.replace(/-/g, "+").replace(/_/g, "/")
-    .padEnd(Math.ceil(segment.length / 4) * 4, "=");
-  const text = atob(padded);
-  return Uint8Array.from(text, c => c.charCodeAt(0));
-}
-
-function accessToken(request) {
-  const header = request.headers.get("Cf-Access-Jwt-Assertion");
-  if (header) return header;
-  const cookie = request.headers.get("Cookie") || "";
-  const match = cookie.match(/(?:^|;\s*)CF_Authorization=([^;\s]+)/);
-  return match ? match[1] : "";
-}
-
-async function validAdmin(request, env) {
-  if (!adminConfigured(env)) return false;
-  const token = accessToken(request);
-  if (token.length < 50 || token.length > 8192) return false;
-  try {
-    const parts = token.split(".");
-    if (parts.length !== 3) return false;
-    const header = JSON.parse(new TextDecoder().decode(decodePart(parts[0])));
-    const claims = JSON.parse(new TextDecoder().decode(decodePart(parts[1])));
-    if (header.alg !== "RS256" || typeof header.kid !== "string") return false;
-    const now = Math.floor(Date.now() / 1000);
-    const aud = claims.aud;
-    if (claims.iss !== "https://" + env.ACCESS_TEAM_DOMAIN ||
-        !(Array.isArray(aud) ? aud.includes(env.ACCESS_APP_AUD) :
-          aud === env.ACCESS_APP_AUD) ||
-        typeof claims.sub !== "string" || !claims.sub ||
-        !Number.isFinite(claims.exp) || claims.exp <= now ||
-        (claims.nbf !== undefined && claims.nbf > now) ||
-        (claims.iat !== undefined && claims.iat > now + 60) ||
-        typeof claims.email !== "string" ||
-        claims.email.toLowerCase() !== env.ADMIN_ALLOWED_EMAIL.toLowerCase()) {
-      return false;
-    }
-    let keys = certCache.keys;
-    // Do not refetch keys for every guessed kid; cache unknown keys too.
-    // A rotated key becomes available at the next 15-minute refresh.
-    if (certCache.host !== env.ACCESS_TEAM_DOMAIN ||
-        certCache.expires < Date.now()) {
-      const resp = await fetch("https://" + env.ACCESS_TEAM_DOMAIN +
-        "/cdn-cgi/access/certs", { redirect: "error" });
-      if (!resp.ok) return false;
-      const document = await resp.json();
-      if (!Array.isArray(document.keys) || document.keys.length > 20) return false;
-      keys = document.keys;
-      certCache = { host: env.ACCESS_TEAM_DOMAIN,
-        expires: Date.now() + 15 * 60 * 1000, keys };
-    }
-    const jwk = keys.find(k => k.kid === header.kid && k.kty === "RSA" &&
-      k.alg === "RS256" && k.use === "sig");
-    if (!jwk) return false;
-    const key = await crypto.subtle.importKey(
-      "jwk", jwk, { name: "RSASSA-PKCS1-v1_5", hash: "SHA-256" },
-      false, ["verify"]
-    );
-    return crypto.subtle.verify("RSASSA-PKCS1-v1_5", key,
-      decodePart(parts[2]), new TextEncoder().encode(parts[0] + "." + parts[1]));
-  } catch {
-    // No token contents, network errors, or credentials are written to logs.
-    return false;
-  }
-}
-
-function privateReply(status, content = "", type = "text/plain; charset=utf-8") {
-  return new Response(content || null, { status, headers: {
-    "Content-Type": type,
-    "Cache-Control": "private, no-store, max-age=0",
-    "Pragma": "no-cache",
-    "X-Content-Type-Options": "nosniff",
-    "X-Frame-Options": "DENY",
-    "Referrer-Policy": "no-referrer",
-    "Content-Security-Policy": "default-src 'none'; script-src 'self'; " +
-      "connect-src 'self'; style-src 'unsafe-inline'; " +
-      "img-src 'self'; base-uri 'none'; frame-ancestors 'none'; form-action 'none'"
-  } });
-}
-
-async function handleAdmin(request, env, path) {
-  if (!adminConfigured(env)) return response(404); // OFF by default
-  if (!["/admin", "/admin/", "/admin/app.js", "/admin/api/summary"].includes(path)) {
-    return response(404);
-  }
-  if (request.method !== "GET") return privateReply(405);
-  if (!(await validAdmin(request, env))) return privateReply(403, "Access denied.");
-  if (path === "/admin" || path === "/admin/") {
-    return privateReply(200, adminPage, "text/html; charset=utf-8");
-  }
-  if (path === "/admin/app.js") {
-    return privateReply(200, adminScript, "text/javascript; charset=utf-8");
-  }
-  if (!env.DB || typeof env.DB.prepare !== "function") return privateReply(503);
-  const url = new URL(request.url);
-  const days = url.searchParams.get("days") || "30";
-  if (!["7", "30", "90"].includes(days) || url.searchParams.size > 1) {
-    return privateReply(400, "Unsupported period.");
-  }
-  const today = new Date().toISOString().slice(0, 10);
-  const since = new Date(Date.now() - (Number(days) - 1) * 86400000)
-    .toISOString().slice(0, 10);
-  try {
-    const result = await env.DB.prepare(
-      "SELECT day, event, section, total FROM daily_counts " +
-      "WHERE day >= ?1 AND day <= ?2 " +
-      "ORDER BY day DESC, event, section LIMIT 5000"
-    ).bind(since, today).all();
-    const safe = (result.results || []).filter(row =>
-      /^\d{4}-\d{2}-\d{2}$/.test(row.day) &&
-      EVENT_TYPES.has(row.event) && SECTIONS.has(row.section) &&
-      Number.isSafeInteger(row.total) && row.total >= 0);
-    return privateReply(200, JSON.stringify({ days: Number(days), today, rows: safe }),
-      "application/json; charset=utf-8");
-  } catch {
-    return privateReply(503, "Statistics are temporarily unavailable.");
-  }
-}
-
 export default {
   async fetch(request, env) {
     const path = new URL(request.url).pathname;
-    if (path === "/admin" || path.startsWith("/admin/")) {
-      return handleAdmin(request, env, path);
-    }
     if (path === "/health" && request.method === "GET") {
       return response(200, "", "ok");
     }
