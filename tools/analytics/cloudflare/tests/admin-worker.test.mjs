@@ -32,6 +32,54 @@ test("private resources deny unsigned and forged credentials, even when configur
   assert.equal((await adminWorker.fetch(attack, configured)).status, 403);
 });
 
+test("opt-in diagnostic identifies denial stage without exposing identity or credentials", async () => {
+  const base = {
+    ...env(), ACCESS_TEAM_DOMAIN: "fnd-test.cloudflareaccess.com",
+    ACCESS_APP_AUD: "b".repeat(64),
+    ADMIN_ALLOWED_EMAIL: "private-owner@example.org"
+  };
+  const url = API.replace("/v1/event", "/admin");
+  const makeToken = claims => {
+    const encode = x => Buffer.from(JSON.stringify(x)).toString("base64url");
+    return encode({ alg: "RS256", kid: "test-key" }) + "." +
+      encode({ iss: "https://fnd-test.cloudflareaccess.com",
+        aud: ["b".repeat(64)], sub: "authenticated-account",
+        exp: Math.floor(Date.now() / 1000) + 300,
+        email: "private-owner@example.org", ...claims }) +
+      "." + Buffer.from("unsigned").toString("base64url");
+  };
+  const call = (claims, config = base) => adminWorker.fetch(
+    new Request(url, { headers: {
+      "Cf-Access-Jwt-Assertion": makeToken(claims)
+    } }), config);
+  const hidden = await call({ iss: "https://wrong.cloudflareaccess.com" });
+  assert.equal(hidden.status, 403);
+  assert.equal(await hidden.text(), "Access denied.");
+  const diagnosticEnv = { ...base, ADMIN_AUTH_DIAGNOSTIC: "enabled" };
+  const cases = [
+    [{ iss: "https://wrong.cloudflareaccess.com" }, "A04"],
+    [{ aud: ["c".repeat(64)] }, "A05"],
+    [{ exp: 0 }, "A07"],
+    [{ email: "other@example.org" }, "A08"]
+  ];
+  for (const [claims, code] of cases) {
+    const result = await call(claims, diagnosticEnv);
+    assert.equal(result.status, 403);
+    const body = await result.text();
+    assert.equal(body, "Access denied. Diagnostic code: " + code + ".");
+    assert.doesNotMatch(body, /example.org|authenticated-account|test-key|cloudflareaccess.com/);
+    assert.equal(result.headers.get("Cache-Control"), "private, no-store, max-age=0");
+  }
+  const noAssertion = await adminWorker.fetch(new Request(url), diagnosticEnv);
+  assert.equal(await noAssertion.text(), "Access denied. Diagnostic code: A01.");
+  const invalid = await adminWorker.fetch(new Request(url,
+    { headers: { "Cf-Access-Jwt-Assertion": "invalid" } }), diagnosticEnv);
+  assert.equal(await invalid.text(), "Access denied. Diagnostic code: A02.");
+  const offAgain = await call({ email: "other@example.org" },
+    { ...base, ADMIN_AUTH_DIAGNOSTIC: "not-enabled" });
+  assert.equal(await offAgain.text(), "Access denied.");
+});
+
 test("signed Access JWT, audience and admin allowlist gate read-only daily counts", async () => {
   const pair = await webcrypto.subtle.generateKey(
     { name: "RSASSA-PKCS1-v1_5", modulusLength: 2048,
