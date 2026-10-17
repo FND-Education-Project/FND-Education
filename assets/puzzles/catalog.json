@@ -1,0 +1,166 @@
+{
+  "modules": {
+    "1": "What FND Is",
+    "2": "How FND Is Diagnosed"
+  },
+  "items": [
+    {
+      "id": "lesson-1",
+      "module": 1,
+      "lesson": 1,
+      "title": "Functional What?",
+      "image": "/assets/puzzles/colouring/lesson-1-coloring-book.png",
+      "course": "/course/m1/1/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-1-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-2",
+      "module": 1,
+      "lesson": 2,
+      "title": "Biopsychosocial mess",
+      "image": "/assets/puzzles/colouring/lesson-2-coloring-book.png",
+      "course": "/course/m1/2/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-2-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-3",
+      "module": 1,
+      "lesson": 3,
+      "title": "Remission and Recovery",
+      "image": "/assets/puzzles/colouring/lesson-3-coloring-book.png",
+      "course": "/course/m1/3/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-3-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-5",
+      "module": 2,
+      "lesson": 5,
+      "title": "Positive Signs and the Neuro Exam",
+      "image": "/assets/puzzles/colouring/lesson-5-coloring-book.png",
+      "course": "/course/m2/1/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-5-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-6",
+      "module": 2,
+      "lesson": 6,
+      "title": "Tests, Uncertainty, and CoExisting Conditions",
+      "image": "/assets/puzzles/colouring/lesson-6-coloring-book.png",
+      "course": "/course/m2/2/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-6-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-1",
+      "module": 1,
+      "lesson": 1,
+      "title": "Functional What?",
+      "image": "/assets/puzzles/thumbnails/functional-what-m1-1-normal.png",
+      "course": "/course/m1/1/",
+      "downloads": {
+        "Normal": "/assets/puzzles/crosswords/Module-1-Lesson-1/functional-what-m1-1-normal.pdf",
+        "Easy": "/assets/puzzles/crosswords/Module-1-Lesson-1/functional-what-m1-1-easy.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-1-Lesson-1/functional-what-m1-1-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-2",
+      "module": 1,
+      "lesson": 2,
+      "title": "Biopsychosocial mess",
+      "image": "/assets/puzzles/thumbnails/biopsychosocial-mess-m1-2-normal.png",
+      "course": "/course/m1/2/",
+      "downloads": {
+        "Normal": "/assets/puzzles/crosswords/Module-1-Lesson-2/biopsychosocial-mess-m1-2-normal.pdf",
+        "Easy": "/assets/puzzles/crosswords/Module-1-Lesson-2/biopsychosocial-mess-m1-2-easy.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-1-Lesson-2/biopsychosocial-mess-m1-2-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-3",
+      "module": 1,
+      "lesson": 3,
+      "title": "Remission and Recovery",
+      "image": "/assets/puzzles/thumbnails/remission-and-recovery-m1-3-normal.png",
+      "course": "/course/m1/3/",
+      "downloads": {
+        "Normal": "/assets/puzzles/crosswords/Module-1-Lesson-3/remission-and-recovery-m1-3-normal.pdf",
+        "Easy": "/assets/puzzles/crosswords/Module-1-Lesson-3/remission-and-recovery-m1-3-easy.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-1-Lesson-3/remission-and-recovery-m1-3-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-4",
+      "module": 1,
+      "lesson": 4,
+      "title": "Available Capacity and Spoons",
+      "image": "/assets/puzzles/thumbnails/available-capacity-and-spoons-m1-4-normal.png",
+      "course": "/course/m1/4/",
+      "downloads": {
+        "Normal": "/assets/puzzles/crosswords/Module-1-Lesson-4/available-capacity-and-spoons-m1-4-normal.pdf",
+        "Easy": "/assets/puzzles/crosswords/Module-1-Lesson-4/available-capacity-and-spoons-m1-4-easy.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-1-Lesson-4/available-capacity-and-spoons-m1-4-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "module-1-review",
+      "module": 1,
+      "lesson": null,
+      "title": "Module 1 review",
+      "image": "/assets/puzzles/thumbnails/Module-1-FND-crossword-10-2026.svg",
+      "course": "/course/m1/",
+      "downloads": {
+        "Normal": "/assets/puzzles/crosswords/Module-1-FND-crossword-10-2026.pdf",
+        "Easy": "/assets/puzzles/crosswords/Module-1-FND-crossword-easy-10-2026.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-1-FND-crossword-answer-key-10-2026.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-5",
+      "module": 2,
+      "lesson": 5,
+      "title": "Positive Signs and the Neuro Exam",
+      "image": "/assets/puzzles/thumbnails/positive-signs-and-the-neuro-exam-m2-5-normal.png",
+      "course": "/course/m2/1/",
+      "downloads": {
+        "Normal": "/assets/puzzles/crosswords/Module-2-Lesson-5/positive-signs-and-the-neuro-exam-m2-5-normal.pdf",
+        "Easy": "/assets/puzzles/crosswords/Module-2-Lesson-5/positive-signs-and-the-neuro-exam-m2-5-easy.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-2-Lesson-5/positive-signs-and-the-neuro-exam-m2-5-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-6",
+      "module": 2,
+      "lesson": 6,
+      "title": "Tests, Uncertainty, and CoExisting Conditions",
+      "image": "/assets/puzzles/thumbnails/tests-uncertainty-and-coexisting-conditions-m2-6-normal.png",
+      "course": "/course/m2/2/",
+      "downloads": {
+        "Normal": "/assets/puzzles/crosswords/Module-2-Lesson-6/tests-uncertainty-and-coexisting-conditions-m2-6-normal.pdf",
+        "Easy": "/assets/puzzles/crosswords/Module-2-Lesson-6/tests-uncertainty-and-coexisting-conditions-m2-6-easy.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-2-Lesson-6/tests-uncertainty-and-coexisting-conditions-m2-6-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    }
+  ]
+}

@@ -92,6 +92,8 @@ Use the positive sign as information from your clinician rather than as a test t
 
 ### Optional learning activity
 
+<a href="{{ "/puzzles/" | relative_url }}?collection=crosswords&amp;puzzle=lesson-5">Browse crosswords for this lesson</a> · <a href="{{ "/puzzles/" | relative_url }}?collection=colouring&amp;puzzle=lesson-5">Browse colouring pages for this lesson</a>
+
 Choose a crossword below. Normal and easy editions are fillable PDFs; the easy edition includes a word bank.
 
 <div class="puzzle-grid">

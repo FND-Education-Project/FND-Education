@@ -293,6 +293,8 @@ Sometimes a plan can't stop a flare. It can still help keep you safer or make it
 
 ### Optional learning activity
 
+<a href="{{ "/puzzles/" | relative_url }}?collection=crosswords&amp;puzzle=lesson-4">Browse crosswords for this lesson</a>
+
 For colouring activities, visit the [colouring-page collection](../../../assets/puzzles/README.md#colouring-pages).
 
 Choose a preview to open the printable PDF. These activities are optional.

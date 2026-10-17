@@ -101,6 +101,8 @@ Use your own words. This is not a test, and your explanation can change as you l
 
 ### Optional learning activity
 
+<a href="{{ "/puzzles/" | relative_url }}?collection=crosswords&amp;puzzle=lesson-1">Browse crosswords for this lesson</a> · <a href="{{ "/puzzles/" | relative_url }}?collection=colouring&amp;puzzle=lesson-1">Browse colouring pages for this lesson</a>
+
 Choose a preview to open a printable PDF. These activities are optional.
 
 <div class="puzzle-grid">

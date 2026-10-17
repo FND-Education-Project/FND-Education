@@ -166,6 +166,8 @@ You don't need to keep records or perform exercises to prove that you are trying
 
 ### Optional learning activity
 
+<a href="{{ "/puzzles/" | relative_url }}?collection=crosswords&amp;puzzle=lesson-2">Browse crosswords for this lesson</a> · <a href="{{ "/puzzles/" | relative_url }}?collection=colouring&amp;puzzle=lesson-2">Browse colouring pages for this lesson</a>
+
 Choose a preview to open the printable PDF. These activities are optional.
 
 <div class="puzzle-grid">
