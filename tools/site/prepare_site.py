@@ -2487,6 +2487,80 @@ def write_generated_page_data(pages: list[CoursePage]) -> None:
     )
 
 
+
+def write_course_progress_manifest(pages: list[CoursePage]) -> None:
+    """Publish a small, non-sensitive curriculum index for local progress UI.
+
+    The canonical course files supply the lesson titles and stable public
+    routes. Generate this file on every website build rather than maintaining
+    another manually edited list of lessons.
+    """
+    source = COURSE_ROOT / "README.md"
+    headings = re.findall(
+        r"^## Part (One|Two|Three|Four|Five|Six):\\s*(.+?)\\s*$",
+        source.read_text(encoding="utf-8"),
+        re.MULTILINE,
+    )
+    part_names = {"One": 1, "Two": 2, "Three": 3,
+                  "Four": 4, "Five": 5, "Six": 6}
+    titles = {part_names[word]: title for word, title in headings}
+    if len(titles) != 6:
+        raise ValueError("Expected six named course parts for progress index")
+
+    parts: dict[int, dict[str, object]] = {
+        number: {"number": number, "title": title, "modules": []}
+        for number, title in sorted(titles.items())
+    }
+    modules: dict[int, dict[str, object]] = {}
+    lesson_ids: set[str] = set()
+
+    for page in pages:
+        if page.kind == "course":
+            continue
+        assert page.part_number is not None
+        assert page.module_number is not None
+        title = extract_title(
+            page.source.read_text(encoding="utf-8"), page.source
+        )
+        if page.kind == "module":
+            item: dict[str, object] = {
+                "number": page.module_number,
+                "title": title.removeprefix(
+                    f"Module {page.module_number} — "
+                ),
+                "url": page.public_url,
+                "lessons": [],
+            }
+            modules[page.module_number] = item
+            part_modules = parts[page.part_number]["modules"]
+            assert isinstance(part_modules, list)
+            part_modules.append(item)
+        elif page.kind == "lesson":
+            assert page.lesson_number is not None
+            lesson_id = f"m{page.module_number}-{page.lesson_number}"
+            if lesson_id in lesson_ids or page.module_number not in modules:
+                raise ValueError(f"Bad course lesson ordering: {lesson_id}")
+            lesson_ids.add(lesson_id)
+            module_lessons = modules[page.module_number]["lessons"]
+            assert isinstance(module_lessons, list)
+            module_lessons.append({
+                "id": lesson_id,
+                "title": title,
+                "url": page.public_url,
+            })
+
+    if not lesson_ids or not modules:
+        raise ValueError("Course progress manifest cannot be empty")
+
+    destination = WEB / "assets" / "data" / "course-progress.json"
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    destination.write_text(
+        json.dumps({"version": 1, "parts": list(parts.values())},
+                   ensure_ascii=False, indent=2) + "\\n",
+        encoding="utf-8",
+    )
+
+
 def main() -> None:
     course_pages = discover_course_pages()
     reference_pages = discover_reference_pages()
@@ -2652,6 +2726,7 @@ def main() -> None:
     ]
     write_machine_sitemap(public_urls)
     write_generated_page_data(course_pages)
+    write_course_progress_manifest(course_pages)
     write_glossary_schema_data()
     write_page_schema_data(course_pages, reference_pages)
 
