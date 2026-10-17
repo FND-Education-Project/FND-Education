@@ -67,12 +67,27 @@ can change; verify them in the actual dashboard before configuration.
 
 ## What's on the dashboard
 
-- 7-, 30-, and 90-day summaries of page openings, searches, search
-  result selections, and PDF/ZIP link clicks.
-- UTC daily page-opens bar chart and a daily history table.
-- Breakdown by coarse page section and action.
-- No usernames, search queries, destination URLs, unique-visitor profiles,
-  stored admin sessions or information about individual people.
+The opening screen is a visual overview inspired by cPanel AWStats, using
+only the **daily aggregate data this project actually stores**:
+
+- Five summary figures: page openings, searches, search-result clicks,
+  download-link clicks and 404-page events.
+- Five graphs for the chosen 7-, 30- or 90-day period: page openings by
+  day; searches alongside search-result clicks; search-result/PDF/puzzle
+  clicks by day; combined downloads by day; and 404 events by day.
+- Broad section comparison and a separate event totals table. The precise
+  daily figures are available in an expandable accessible table beneath
+  the charts.
+- Zero-count days remain visible, rather than disappearing from the chart.
+
+These are **counts of page loads and interactions**, not people, sessions,
+completed downloads, or conversions attributable to individual users.
+There are no hourly charts, top individual page URLs, referring websites,
+geographic maps, device/browser profiles, or IP-based AWStats-style
+statistics, because those fields are intentionally never recorded.
+
+There are no usernames, search queries, destination URLs, unique-visitor
+profiles, stored admin sessions or information about individual people.
 
 This is a read-only statistics dashboard, **not** a spreadsheet editor.
 The owner edits the five-column question bank directly in GitHub, as
