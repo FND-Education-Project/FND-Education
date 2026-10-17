@@ -2497,7 +2497,7 @@ def write_course_progress_manifest(pages: list[CoursePage]) -> None:
     """
     source = COURSE_ROOT / "README.md"
     headings = re.findall(
-        r"^## Part (One|Two|Three|Four|Five|Six):\\s*(.+?)\\s*$",
+        r"^## Part (One|Two|Three|Four|Five|Six):\s*(.+?)\s*$",
         source.read_text(encoding="utf-8"),
         re.MULTILINE,
     )
@@ -2556,7 +2556,7 @@ def write_course_progress_manifest(pages: list[CoursePage]) -> None:
     destination.parent.mkdir(parents=True, exist_ok=True)
     destination.write_text(
         json.dumps({"version": 1, "parts": list(parts.values())},
-                   ensure_ascii=False, indent=2) + "\\n",
+                   ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
 
