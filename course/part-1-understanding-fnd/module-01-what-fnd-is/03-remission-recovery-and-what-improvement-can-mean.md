@@ -147,6 +147,8 @@ You don't need to track it every day. It's simply a way to recognize something t
 
 ### Optional learning activity
 
+<a href="{{ "/puzzles/" | relative_url }}?collection=crosswords&amp;puzzle=lesson-3">Browse crosswords for this lesson</a> · <a href="{{ "/puzzles/" | relative_url }}?collection=colouring&amp;puzzle=lesson-3">Browse colouring pages for this lesson</a>
+
 Choose a preview to open the printable PDF. These activities are optional.
 
 <div class="puzzle-grid">

@@ -4,10 +4,34 @@
 
 # Course Puzzles
 
-These printable puzzles connect to different course pages and provide a lighter way to review important words and ideas. They are optional and do not contain information that must be learned only through a puzzle.
+Choose a collection, module and lesson. These optional activities offer a lighter way to revisit the course.
 
-The collection includes crosswords and colouring pages. Other activity formats may be added later.
+<div id="puzzle-browser" data-catalog="{{ '/assets/puzzles/catalog.json' | relative_url }}" data-base="{{ '/' | relative_url }}" hidden>
+<nav class="puzzle-tabs" aria-label="Puzzle collections">
+<a href="?collection=crosswords" data-collection="crosswords">Crosswords</a>
+<a href="?collection=colouring" data-collection="colouring">Colouring pages</a>
+</nav>
+<div class="puzzle-browser-layout">
+<div class="puzzle-controls">
+<label for="puzzle-module">Module</label>
+<select id="puzzle-module"></select>
+<label for="puzzle-lesson">Lesson or module review</label>
+<select id="puzzle-lesson"></select>
+<p id="puzzle-help"></p>
+</div>
+<section class="puzzle-selection" aria-labelledby="puzzle-title">
+<h2 id="puzzle-title"></h2>
+<img id="puzzle-preview" alt="" width="400" height="300">
+<div id="puzzle-downloads" class="puzzle-downloads" aria-label="PDF downloads"></div>
+<p><a id="puzzle-course">Read this lesson</a></p>
+<div class="puzzle-paging"><button type="button" id="puzzle-previous">Previous puzzle</button><button type="button" id="puzzle-next">Next puzzle</button></div>
+<p id="puzzle-status" class="puzzle-status" role="status" aria-live="polite"></p>
+</section>
+</div>
+</div>
+<script src="{{ '/assets/js/puzzles.js' | relative_url }}" defer></script>
 
+<div id="puzzle-fallback" markdown="1">
 <span id="puzzle-navigation"></span>
 
 [Crosswords](#crosswords) · [Colouring pages](#colouring-pages) · [Course](../../course/README.md)
@@ -202,3 +226,5 @@ The whole-person colouring page accompanies [Lesson 6: Tests, Diagnostic Uncerta
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
+
+</div>

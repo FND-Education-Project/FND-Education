@@ -1581,3 +1581,30 @@ button:focus-visible {
   .puzzle-grid { display: block; }
   .puzzle-card { break-inside: avoid; margin-bottom: 1rem; }
 }
+
+/* Compact activity collections: native selectors, one preview, large touch targets. */
+#puzzle-browser[hidden], #puzzle-fallback[hidden] { display: none; }
+.puzzle-tabs, .puzzle-downloads, .puzzle-paging { display: flex; flex-wrap: wrap; gap: .65rem; }
+.puzzle-tabs { margin: 1rem 0 1.5rem; }
+.puzzle-tabs a, .puzzle-downloads a, .puzzle-paging button {
+  display: inline-flex; align-items: center; justify-content: center;
+  min-height: 44px; padding: .55rem .85rem; border: 1px solid var(--border);
+  border-radius: .5rem; background: var(--surface); color: var(--text);
+  font: inherit; text-decoration: none;
+}
+.puzzle-tabs a[aria-current="page"] { border: 2px solid var(--accent); font-weight: 700; }
+.puzzle-browser-layout { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.6fr); gap: 2rem; }
+.puzzle-controls label { display: block; font-weight: 600; margin-bottom: .4rem; }
+.puzzle-controls select { width: 100%; min-height: 44px; margin-bottom: 1rem; padding: .5rem; font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: .4rem; }
+.puzzle-selection { min-width: 0; }
+.puzzle-selection h2 { margin-top: 0; font-size: 1.3rem; }
+#puzzle-preview { display: block; width: 100%; max-width: 25rem; height: 17rem; object-fit: contain; background: white; padding: .5rem; margin: 0 0 1rem; border-radius: .4rem; }
+.puzzle-paging button { cursor: pointer; }
+.puzzle-paging button:disabled { opacity: .5; cursor: default; }
+.puzzle-status, #puzzle-help { font-size: .9rem; color: var(--muted); }
+#puzzle-browser :is(a, button, select):focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+@media (max-width: 640px) {
+  .puzzle-browser-layout { grid-template-columns: minmax(0, 1fr); gap: .75rem; }
+  #puzzle-preview { height: 14rem; }
+  .puzzle-downloads a { flex: 1 1 auto; }
+}

@@ -127,6 +127,8 @@ Your care team is there to explain test results with you. You can ask for explan
 
 ### Optional learning activity
 
+<a href="{{ "/puzzles/" | relative_url }}?collection=crosswords&amp;puzzle=lesson-6">Browse crosswords for this lesson</a> · <a href="{{ "/puzzles/" | relative_url }}?collection=colouring&amp;puzzle=lesson-6">Browse colouring pages for this lesson</a>
+
 Choose a crossword below. Normal and easy editions are fillable PDFs; the easy edition includes a word bank.
 
 <div class="puzzle-grid">
