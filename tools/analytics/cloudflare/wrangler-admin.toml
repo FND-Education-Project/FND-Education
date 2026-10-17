@@ -1,0 +1,25 @@
+# Dedicated READ-ONLY Cloudflare Worker for FND site statistics.
+# This is NOT the public analytics endpoint. No website or DNS changes.
+#
+# Bootstrap order:
+#   (1) review code/tests, then deploy this Worker WITHOUT Access secrets;
+#       every route responds 404 (fail closed).
+#   (2) protect this Worker's entire production and preview URLs with
+#       Cloudflare Access; Github as the ONLY identity provider,
+#       policy permitting only the designated administrator.
+#   (3) set ACCESS_TEAM_DOMAIN, ACCESS_APP_AUD, ADMIN_ALLOWED_EMAIL as
+#       Worker secrets, then test denied/allowed access.
+#
+# From tools/analytics/cloudflare, use:
+#   npx wrangler deploy --config wrangler-admin.toml
+# Do not run automatically from GitHub Actions.
+
+name = "fnd-private-statistics"
+main = "src/admin-worker.mjs"
+compatibility_date = "2026-10-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "fnd-aggregate-analytics"
+# Same EXISTING D1 database as the public event-collection Worker.
+database_id = "6f80d719-0677-4e9e-b03c-250f14725252"
