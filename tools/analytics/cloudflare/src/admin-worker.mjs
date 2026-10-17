@@ -91,12 +91,14 @@ async function checkAdmin(request, env) {
         certCache.expires < Date.now()) {
       // No certificate, header, JWT, or URL data enters diagnostic output.
       // Separate transport, HTTP status, and JSON errors for one-time
-      // troubleshooting; when diagnostics are disabled every denial remains
-      // the original generic response.
+      // troubleshooting; manual redirect handling keeps an unexpected
+      // redirect as an inspectable 3xx rather than a thrown fetch error.
+      // We never follow redirected certificate URLs. When diagnostics are
+      // disabled every denial remains the original generic response.
       let certResponse;
       try {
         certResponse = await fetch("https://" + env.ACCESS_TEAM_DOMAIN +
-          "/cdn-cgi/access/certs", { redirect: "error" });
+          "/cdn-cgi/access/certs", { redirect: "manual" });
       } catch {
         return denied("A09F"); // fetch rejected (network, TLS or redirect)
       }
