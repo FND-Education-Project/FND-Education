@@ -89,19 +89,30 @@ async function checkAdmin(request, env) {
     let keys = certCache.keys;
     if (certCache.host !== env.ACCESS_TEAM_DOMAIN ||
         certCache.expires < Date.now()) {
+      // No certificate, header, JWT, or URL data enters diagnostic output.
+      // Separate transport, HTTP status, and JSON errors for one-time
+      // troubleshooting; when diagnostics are disabled every denial remains
+      // the original generic response.
       let certResponse;
       try {
         certResponse = await fetch("https://" + env.ACCESS_TEAM_DOMAIN +
           "/cdn-cgi/access/certs", { redirect: "error" });
-        if (!certResponse.ok) return denied("A09"); // certs request
-        const document = await certResponse.json();
-        if (!Array.isArray(document.keys) || document.keys.length > 20) {
-          return denied("A10"); // certs content rejected
-        }
-        keys = document.keys;
       } catch {
-        return denied("A09"); // cert network or parsing failure
+        return denied("A09F"); // fetch rejected (network, TLS or redirect)
       }
+      if (!certResponse.ok) {
+        return denied("A09H" + certResponse.status); // public HTTP status only
+      }
+      let document;
+      try {
+        document = await certResponse.json();
+      } catch {
+        return denied("A09J"); // received non-JSON/unparseable response
+      }
+      if (!Array.isArray(document.keys) || document.keys.length > 20) {
+        return denied("A10"); // certs content rejected
+      }
+      keys = document.keys;
       certCache = { host: env.ACCESS_TEAM_DOMAIN,
         expires: Date.now() + 15 * 60 * 1000, keys };
     }

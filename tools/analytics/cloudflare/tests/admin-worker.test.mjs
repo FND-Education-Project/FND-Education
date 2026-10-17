@@ -112,6 +112,31 @@ test("signed Access JWT, audience and admin allowlist gate read-only daily count
       return { bind() { return { async all() { return { results: rows }; } }; } };
     } } };
   try {
+    // A signed, correctly scoped token reaches the public-certificate fetch.
+    // Distinguish Worker fetch errors, HTTP rejection and malformed JSON
+    // without revealing the token or identity in any diagnostic response.
+    const diagStorage = { ...storage, ADMIN_AUTH_DIAGNOSTIC: "enabled" };
+    const certificateFailures = [
+      [async () => { throw new TypeError("connection details not public"); }, "A09F"],
+      [async () => new Response("forbidden", { status: 403 }), "A09H403"],
+      [async () => new Response("not json", { status: 200 }), "A09J"]
+    ];
+    for (const [fakeFetch, code] of certificateFailures) {
+      globalThis.fetch = fakeFetch;
+      const deniedPage = await adminWorker.fetch(new Request(
+        API.replace("/v1/event", "/admin"),
+        { headers: { "Cf-Access-Jwt-Assertion": token } }), diagStorage);
+      assert.equal(deniedPage.status, 403);
+      assert.equal(await deniedPage.text(),
+        "Access denied. Diagnostic code: " + code + ".");
+    }
+    // Restoring a successful certificate response still permits a signed
+    // and authorized login; no cache is seeded by failures.
+    globalThis.fetch = async url => {
+      assert.equal(url, "https://" + host + "/cdn-cgi/access/certs");
+      jwksCalls++;
+      return new Response(JSON.stringify({ keys: [jwk] }), { status: 200 });
+    };
     const page = await adminWorker.fetch(new Request(API.replace("/v1/event", "/admin"),
       { headers: { "Cf-Access-Jwt-Assertion": token } }), storage);
     assert.equal(page.status, 200);
