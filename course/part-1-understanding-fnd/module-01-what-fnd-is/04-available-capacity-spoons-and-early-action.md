@@ -293,25 +293,23 @@ Sometimes a plan can't stop a flare. It can still help keep you safer or make it
 
 ### Optional learning activity
 
-<a href="{{ "/puzzles/" | relative_url }}?collection=crosswords&amp;puzzle=lesson-4">Browse crosswords for this lesson</a>
+<a href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-4">Browse crosswords for this lesson</a>
 
 For colouring activities, visit the [colouring-page collection](../../../assets/puzzles/README.md#colouring-pages).
 
-Choose a preview to open the printable PDF. These activities are optional.
+Choose a crossword edition below, or select the preview to browse the collection. These activities are optional.
 
-<div class="puzzle-grid">
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-4/available-capacity-and-spoons-m1-4-normal.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/available-capacity-and-spoons-m1-4-normal.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Available Capacity and Spoons — Normal <small>PDF</small></span>
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-4" aria-label="Browse the crossword for Lesson 4">
+  <img src="{{ '/assets/puzzles/thumbnails/available-capacity-and-spoons-m1-4-normal.png' | relative_url }}" alt="Blank crossword grid for Lesson 4." loading="lazy" decoding="async">
+  <span>Lesson 4 crossword</span>
 </a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-4/available-capacity-and-spoons-m1-4-easy.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/available-capacity-and-spoons-m1-4-easy.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Available Capacity and Spoons — Easy <small>PDF</small></span>
-</a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-4/available-capacity-and-spoons-m1-4-answer-key.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/available-capacity-and-spoons-m1-4-answer-key.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Available Capacity and Spoons — Answer key <small>PDF</small></span>
-</a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 4 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-4/available-capacity-and-spoons-m1-4-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy crossword PDF for Lesson 4 (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-4/available-capacity-and-spoons-m1-4-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal crossword PDF for Lesson 4 (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-4/available-capacity-and-spoons-m1-4-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key crossword PDF for Lesson 4 (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab. Easy includes a word bank.</p>
 </div>
 
 ---
