@@ -45,55 +45,84 @@ function accessToken(request) {
   return match ? match[1] : "";
 }
 
-async function validAdmin(request, env) {
-  if (!adminConfigured(env)) return false;
+// All diagnostic results are fixed non-identifying codes: never return,
+// log, or persist token content, identity details, request headers or IPs.
+// Diagnostic mode is OFF unless the owner explicitly enables a temporary
+// ADMIN_AUTH_DIAGNOSTIC Worker secret. The normal denial remains unchanged.
+function denied(code) { return { authorized: false, code }; }
+
+async function checkAdmin(request, env) {
+  if (!adminConfigured(env)) return denied("A00"); // missing/invalid configuration
   const token = accessToken(request);
-  if (token.length < 50 || token.length > 8192) return false;
+  if (!token) return denied("A01"); // no Access assertion or cookie
+  if (token.length < 50 || token.length > 8192) return denied("A02");
   try {
     const parts = token.split(".");
-    if (parts.length !== 3) return false;
+    if (parts.length !== 3) return denied("A02");
     const header = JSON.parse(new TextDecoder().decode(decodePart(parts[0])));
     const claims = JSON.parse(new TextDecoder().decode(decodePart(parts[1])));
-    if (header.alg !== "RS256" || typeof header.kid !== "string") return false;
-    const now = Math.floor(Date.now() / 1000);
-    const aud = claims.aud;
-    if (claims.iss !== "https://" + env.ACCESS_TEAM_DOMAIN ||
-        !(Array.isArray(aud) ? aud.includes(env.ACCESS_APP_AUD) :
-          aud === env.ACCESS_APP_AUD) ||
-        typeof claims.sub !== "string" || !claims.sub ||
-        !Number.isFinite(claims.exp) || claims.exp <= now ||
-        (claims.nbf !== undefined && claims.nbf > now) ||
-        (claims.iat !== undefined && claims.iat > now + 60) ||
-        typeof claims.email !== "string" ||
-        claims.email.toLowerCase() !== env.ADMIN_ALLOWED_EMAIL.toLowerCase()) {
-      return false;
+    if (header.alg !== "RS256" || typeof header.kid !== "string") {
+      return denied("A03"); // unsupported signing header
     }
+    const now = Math.floor(Date.now() / 1000);
+    if (claims.iss !== "https://" + env.ACCESS_TEAM_DOMAIN) {
+      return denied("A04"); // issuer mismatch
+    }
+    const aud = claims.aud;
+    if (!(Array.isArray(aud) ? aud.includes(env.ACCESS_APP_AUD) :
+          aud === env.ACCESS_APP_AUD)) {
+      return denied("A05"); // Access application audience mismatch
+    }
+    if (typeof claims.sub !== "string" || !claims.sub) {
+      return denied("A06"); // missing subject
+    }
+    if (!Number.isFinite(claims.exp) || claims.exp <= now ||
+        (claims.nbf !== undefined && claims.nbf > now) ||
+        (claims.iat !== undefined && claims.iat > now + 60)) {
+      return denied("A07"); // JWT validity time
+    }
+    if (typeof claims.email !== "string" ||
+        claims.email.toLowerCase() !== env.ADMIN_ALLOWED_EMAIL.toLowerCase()) {
+      return denied("A08"); // administrator email claim
+    }
+
     let keys = certCache.keys;
-    // Do not refetch keys for every guessed kid; cache unknown keys too.
-    // A rotated key becomes available at the next 15-minute refresh.
     if (certCache.host !== env.ACCESS_TEAM_DOMAIN ||
         certCache.expires < Date.now()) {
-      const resp = await fetch("https://" + env.ACCESS_TEAM_DOMAIN +
-        "/cdn-cgi/access/certs", { redirect: "error" });
-      if (!resp.ok) return false;
-      const document = await resp.json();
-      if (!Array.isArray(document.keys) || document.keys.length > 20) return false;
-      keys = document.keys;
+      let certResponse;
+      try {
+        certResponse = await fetch("https://" + env.ACCESS_TEAM_DOMAIN +
+          "/cdn-cgi/access/certs", { redirect: "error" });
+        if (!certResponse.ok) return denied("A09"); // certs request
+        const document = await certResponse.json();
+        if (!Array.isArray(document.keys) || document.keys.length > 20) {
+          return denied("A10"); // certs content rejected
+        }
+        keys = document.keys;
+      } catch {
+        return denied("A09"); // cert network or parsing failure
+      }
       certCache = { host: env.ACCESS_TEAM_DOMAIN,
         expires: Date.now() + 15 * 60 * 1000, keys };
     }
     const jwk = keys.find(k => k.kid === header.kid && k.kty === "RSA" &&
       k.alg === "RS256" && k.use === "sig");
-    if (!jwk) return false;
-    const key = await crypto.subtle.importKey(
-      "jwk", jwk, { name: "RSASSA-PKCS1-v1_5", hash: "SHA-256" },
-      false, ["verify"]
-    );
-    return crypto.subtle.verify("RSASSA-PKCS1-v1_5", key,
+    if (!jwk) return denied("A11"); // no matching trusted key
+
+    let key;
+    try {
+      key = await crypto.subtle.importKey(
+        "jwk", jwk, { name: "RSASSA-PKCS1-v1_5", hash: "SHA-256" },
+        false, ["verify"]
+      );
+    } catch {
+      return denied("A12"); // public JWK cannot be imported
+    }
+    const valid = await crypto.subtle.verify("RSASSA-PKCS1-v1_5", key,
       decodePart(parts[2]), new TextEncoder().encode(parts[0] + "." + parts[1]));
+    return valid ? { authorized: true } : denied("A13"); // signature
   } catch {
-    // No token contents, network errors, or credentials are written to logs.
-    return false;
+    return denied("A99"); // malformed token or unexpected verification failure
   }
 }
 
@@ -117,7 +146,13 @@ async function handleAdmin(request, env, path) {
     return privateReply(404);
   }
   if (request.method !== "GET") return privateReply(405);
-  if (!(await validAdmin(request, env))) return privateReply(403, "Access denied.");
+  const access = await checkAdmin(request, env);
+  if (!access.authorized) {
+    const diagnostic = env.ADMIN_AUTH_DIAGNOSTIC === "enabled"
+      ? " Diagnostic code: " + access.code + "."
+      : "";
+    return privateReply(403, "Access denied." + diagnostic);
+  }
   if (path === "/admin" || path === "/admin/") {
     return privateReply(200, adminPage, "text/html; charset=utf-8");
   }

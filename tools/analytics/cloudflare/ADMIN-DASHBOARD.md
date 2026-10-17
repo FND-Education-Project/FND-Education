@@ -93,6 +93,60 @@ checked in the account first. Do not accept paid upgrades.
 make all private endpoints return 404. The existing public analytics Worker
 and D1 database continue without interruption.
 
+## Temporary login diagnostic (for a persistent "Access denied.")
+
+If Cloudflare Access accepts GitHub authentication but the Worker responds
+with plain `Access denied.`, its independent JWT verification is rejecting
+the request. **Do not change GitHub OAuth, Access provider, database, DNS or
+public analytics for this diagnosis.** Password or Google sign-in are both
+valid ways to sign in to the *same* GitHub account.
+
+The diagnostic is **off by default**. It is controlled by a *private Worker*
+secret; never use a GitHub Actions secret for a runtime setting. GitHub
+Actions secrets are for build/deploy-time workflows and are unnecessary here.
+
+When the owner explicitly chooses to troubleshoot, deploy the reviewed
+diagnostic Worker revision, then temporarily enable this private Worker
+secret using the *existing* configuration:
+
+```sh
+cd "$(git rev-parse --show-toplevel)/tools/analytics/cloudflare"
+npx wrangler secret put ADMIN_AUTH_DIAGNOSTIC --config wrangler-admin.toml
+```
+
+Enter `enabled` when prompted. Refresh the private `/admin` page after
+signing in via Cloudflare. A 403 now contains **only** a fixed diagnostic
+code, never the email, token, key, JWT claims or request headers:
+
+| Code | Meaning |
+| --- | --- |
+| A01 | No Access assertion header or authorization cookie reached the Worker |
+| A02–A03 | Token format or signing header rejected |
+| A04 | Token issuer does not match the configured Access team domain |
+| A05 | JWT audience does not match the Access application's AUD |
+| A06–A07 | Missing subject or invalid token validity time |
+| A08 | Signed JWT email missing or not matching the allowed email |
+| A09–A10 | Access public-certificates request or response failed |
+| A11 | No public verification key matched the signed token |
+| A12–A13 | Cryptographic key import or signature verification failed |
+| A99 | Other token parsing or verification failure |
+
+A signed JWT must **still** pass all existing checks; diagnostic mode does
+not enable access or reduce security requirements. The owner should report
+**only the short diagnostic code** for targeted investigation.
+
+**Immediately disable the diagnostic after use**, with:
+
+```sh
+npx wrangler secret delete ADMIN_AUTH_DIAGNOSTIC --config wrangler-admin.toml
+```
+
+Without that exact secret set to `enabled`, denial responses return the
+original generic `Access denied.`. The three Access authorization secrets
+must remain in place. Diagnostic output is shown only in the private
+dashboard's 403 response; it is **not logged or stored** by the application.
+Cloudflare's own standard platform logging is separate.
+
 ## What's on the dashboard
 
 The opening screen is a visual overview inspired by cPanel AWStats, using
