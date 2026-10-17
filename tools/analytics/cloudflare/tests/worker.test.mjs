@@ -171,3 +171,75 @@ test("private dashboard scripts parse and contain no browser-side third-party an
   assert.doesNotThrow(() => new Function(adminScript));
   assert.doesNotMatch(adminPage + adminScript, /google-analytics\.com|unpkg\.com/);
 });
+
+
+test("AWStats-style dashboard draws five dated graphs from anonymous daily counts", async () => {
+  class FakeElement {
+    constructor(tag) {
+      this.tag = tag;
+      this.children = [];
+      this.textContent = "";
+      this.hidden = false;
+      this.value = "";
+      this.attrs = {};
+      this.listeners = {};
+    }
+    replaceChildren(...nodes) { this.children = [...nodes]; }
+    append(...nodes) { this.children.push(...nodes); }
+    setAttribute(key, value) { this.attrs[key] = String(value); }
+    addEventListener(event, callback) { this.listeners[event] = callback; }
+  }
+  const nodes = new Map();
+  const getNode = id => {
+    if (!nodes.has(id)) nodes.set(id, new FakeElement(id));
+    return nodes.get(id);
+  };
+  const document = {
+    getElementById: getNode,
+    createElement: tag => new FakeElement(tag),
+    createElementNS: (_ns, tag) => new FakeElement(tag)
+  };
+  getNode("period").value = "30";
+  const today = "2026-10-17";
+  const data = {
+    days: 30, today, rows: [
+      { day: today, event: "page_view", section: "course", total: 12 },
+      { day: today, event: "search_used", section: "search", total: 5 },
+      { day: today, event: "search_result_click", section: "search", total: 3 },
+      { day: today, event: "pdf_download", section: "reference", total: 2 },
+      { day: today, event: "puzzle_download", section: "puzzles", total: 1 },
+      { day: today, event: "not_found", section: "other", total: 1 },
+      { day: "2026-10-16", event: "page_view", section: "home", total: 6 }
+    ]
+  };
+  const queried = [];
+  const fetch = async url => {
+    queried.push(url);
+    const days = Number(new URL(url, "https://worker.example").searchParams.get("days"));
+    return new Response(JSON.stringify({ ...data, days }), { status: 200 });
+  };
+  new Function("document", "fetch", adminScript)(document, fetch);
+  await new Promise(resolve => setImmediate(resolve));
+  assert.equal(getNode("k-pages").textContent, "18");
+  assert.equal(getNode("k-search").textContent, "5");
+  assert.equal(getNode("k-clicks").textContent, "3");
+  assert.equal(getNode("k-downloads").textContent, "3");
+  assert.equal(getNode("k-missing").textContent, "1");
+  const plots = ["views-chart", "search-chart", "clicks-chart",
+    "download-chart", "errors-chart"];
+  for (const name of plots) {
+    assert.ok(getNode(name).children.length > 4, name + " has chart content");
+  }
+  assert.equal(getNode("search-chart").children.filter(n => n.tag === "polyline").length, 2);
+  assert.equal(getNode("clicks-chart").children.filter(n => n.tag === "polyline").length, 3);
+  assert.ok(getNode("views-chart").children.some(n => n.tag === "rect"));
+  assert.ok(getNode("download-chart").children.some(n => n.tag === "rect"));
+  assert.equal(getNode("history-body").children.length, 30);
+  assert.match(getNode("updated").textContent, /2026-10-17 \(UTC\)/);
+  assert.equal(getNode("error").hidden, true);
+  getNode("period").value = "7";
+  await getNode("period").listeners.change();
+  await new Promise(resolve => setImmediate(resolve));
+  assert.ok(queried.some(url => url.endsWith("days=7")));
+  assert.equal(getNode("history-body").children.length, 7);
+});
