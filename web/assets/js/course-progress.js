@@ -140,7 +140,7 @@
     // An explicit confirmation is required EVERY time, for checking and
     // unchecking alike, including the combined Complete & Continue action.
     // No "remember my choice" preference or silent completion route exists.
-    function confirmation(lesson, completing) {
+    function confirmation(lesson, completing, resetAll = false) {
       return new Promise(resolve => {
         const dlg = el("dialog", "course-progress-confirmation");
         if (typeof dlg.showModal !== "function") {
@@ -148,7 +148,8 @@
         }
         const title = el("h2", "", "Confirm lesson progress");
         const prompt = el("p", "",
-          (completing ? "Mark this lesson completed for:" :
+          (resetAll ? "Clear ALL lesson progress for:" :
+            completing ? "Mark this lesson completed for:" :
             "Remove the completion checkmark for:"));
         const username = el("strong", "course-confirm-username", account.username);
         const lessonName = el("p", "course-confirm-lesson", lesson.title);
@@ -159,6 +160,7 @@
         const cancel = el("button", "", "Cancel");
         cancel.type = "button";
         const confirm = el("button", "course-progress-resume",
+          resetAll ? "Yes, clear all progress" :
           completing ? "Yes, mark completed" : "Yes, remove checkmark");
         confirm.type = "button";
         let accepted = false;
@@ -296,6 +298,27 @@
       fragment.append(el("p", "course-progress-help",
         "Progress and preferences belong only to the account shown above, " +
         "not everyone who uses this browser. Reading is always free without signing in."));
+
+      const reset = el("button", "course-progress-clear", "Clear my course progress");
+      reset.type = "button";
+      reset.addEventListener("click", async () => {
+        if (mutationPending) return;
+        mutationPending = true;
+        try {
+          const confirmed = await confirmation({
+            title: "All course lessons"
+          }, false, true);
+          if (!confirmed) return;
+          await window.FNDAccount.apiRequest("/v1/progress/reset", "POST", {
+            confirmed: true, confirmedUsername: account.username
+          });
+          state = { lessons: {}, lastLesson: null };
+          render();
+        } catch (error) {
+          alertFeedback(error.message || "Could not clear progress.");
+        } finally { mutationPending = false; }
+      });
+      fragment.append(reset);
 
       const feedback = el("p", "course-progress-warning");
       feedback.setAttribute("role", "status");
