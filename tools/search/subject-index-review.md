@@ -352,7 +352,7 @@ Preparing for appointments, records, written plans, second opinions, and communi
 Use and review of mobility aids, wheelchairs, seating, and related equipment.
 
 **Aliases:** mobility equipment; wheelchair; walking aids  
-**Lay search phrases:** should I use a wheelchair; walking stick for FND; mobility aid  
+**Lay search phrases:** should I use a wheelchair; walking stick for FND; mobility aid; FND aids; mobility aids for FND  
 **Broader:** daily-living  
 **Related:** fall-safety; functional-gait; occupational-therapy  
 
@@ -682,7 +682,7 @@ Functional abnormal postures or sustained twisting movements.
 Functional changes in facial movement, posture, spasm, weakness, or sensation.
 
 **Aliases:** functional facial movement disorder  
-**Lay search phrases:** face pulls to one side; facial spasm; face droop; jaw movement; eye closes  
+**Lay search phrases:** face pulls to one side; facial spasm; face droop; jaw movement; eye closes; facial dystonia; face dystonia; dystonia of the face  
 **Broader:** fnd-symptoms  
 **Related:** movement-retraining; communication-access  
 
@@ -692,7 +692,7 @@ Functional difficulty with walking, balance, or gait patterns.
 
 **Aliases:** functional gait disturbance; functional walking disorder  
 **Abbreviations:** FGD  
-**Lay search phrases:** trouble walking; unsteady walking; knees buckle; legs buckle; dragging leg; strange walking  
+**Lay search phrases:** trouble walking; unsteady walking; knees buckle; legs buckle; dragging leg; strange walking; FND walking; staggered gait  
 **Reviewed misspellings:** functional gate disorder  
 **Broader:** fnd-symptoms  
 **Related:** functional-limb-weakness; functional-drop-attacks; movement-retraining; mobility-aids  
@@ -713,7 +713,7 @@ Functional weakness affecting an arm, leg, or other limb.
 
 **Aliases:** functional weakness; limb weakness; functional motor weakness  
 **Abbreviations:** FLW  
-**Lay search phrases:** leg won't move; arm won't move; leg feels weak; dragging a leg; loss of power; limb gives way  
+**Lay search phrases:** leg won't move; arm won't move; leg feels weak; dragging a leg; loss of power; limb gives way; give-way weakness; give way weakness; giveway weakness  
 **Reviewed misspellings:** functional limb weekness  
 **Broader:** fnd-symptoms  
 **Related:** functional-paralysis; functional-gait; hoovers-sign; movement-retraining  
@@ -753,7 +753,7 @@ Functional changes in sensation such as numbness, tingling, altered touch, or hy
 Functional changes in speech, fluency, articulation, language output, or voice.
 
 **Aliases:** functional speech disorder; functional voice disorder; functional dysphonia  
-**Lay search phrases:** can't speak; speech gets stuck; voice disappears; stuttering; whispering voice; word blocking  
+**Lay search phrases:** can't speak; speech gets stuck; voice disappears; stuttering; whispering voice; word blocking; functional aphonia  
 **Broader:** fnd-symptoms  
 **Related:** communication-access; speech-language-therapy  
 
@@ -790,7 +790,7 @@ Functional shaking or tremor with characteristic variability and examination fea
 Functional changes in vision or visual processing.
 
 **Aliases:** functional vision symptoms; functional visual loss  
-**Lay search phrases:** blurred vision; tunnel vision; double vision; vision comes and goes; can't see properly  
+**Lay search phrases:** blurred vision; tunnel vision; double vision; vision comes and goes; can't see properly; functional blindness  
 **Broader:** fnd-symptoms  
 **Related:** sensory-overload; photophobia  
 
@@ -916,7 +916,7 @@ Specific practical techniques used in symptom-focused rehabilitation and self-ma
 Graded sensory input, discrimination, desensitization, and sensory-motor integration approaches.
 
 **Aliases:** sensory rehabilitation; sensory re-education  
-**Lay search phrases:** retrain numbness; desensitize painful touch; practice sensation  
+**Lay search phrases:** retrain numbness; desensitize painful touch; practice sensation; touch desensitization  
 **Broader:** recovery-techniques  
 **Related:** functional-sensory  
 
