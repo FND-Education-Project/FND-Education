@@ -1,453 +1,390 @@
 /*
- * FND Education Project — device-local learner progress (version 1).
+ * Account-scoped FND course progress interface.
  *
- * Only public course lesson IDs, completion/visit flags and the last lesson
- * are stored. This file does not send learner history to analytics, a server,
- * an external identity provider, or another browser/device.
+ * No localStorage, IndexedDB or browser profile stores lesson progress.
+ * The API resolves each learner from an authenticated HttpOnly session.
+ * Every completion/uncompletion uses a fresh confirmation dialog showing
+ * the signed-in username prominently; automatic visits do not complete.
  *
- * Curriculum labels/links come from the generated manifest. We build all
- * markup using DOM methods and textContent, never untrusted innerHTML.
- * Core navigation and course content remain available without JavaScript.
+ * Without a configured or available account API, original static lesson
+ * content and course navigation continue to work without modification.
  */
 (function () {
   "use strict";
-
-  const STORAGE_KEY = "fnd-course-progress-v1";
   const script = document.currentScript;
   const manifestUrl = script && script.dataset.manifestUrl;
-
   if (!manifestUrl) return;
 
-  // Normalized, same-origin paths are the only link identifiers we accept.
-  function normalizedPath(value) {
+  function el(tag, className, text) {
+    const result = document.createElement(tag);
+    if (className) result.className = className;
+    if (text !== undefined) result.textContent = text;
+    return result;
+  }
+  function pathOf(url) {
     try {
-      const url = new URL(value, window.location.href);
-      if (url.origin !== window.location.origin) return null;
-      return url.pathname.replace(/\/index\.html$/i, "/").replace(/\/+$/, "/");
-    } catch {
-      return null;
-    }
+      const result = new URL(url, location.href);
+      if (result.origin !== location.origin) return null;
+      return result.pathname.replace(/\/index\.html$/i, "/").replace(/\/+$/, "/");
+    } catch { return null; }
   }
-
-  function element(tag, className, text) {
-    const node = document.createElement(tag);
-    if (className) node.className = className;
-    if (text !== undefined) node.textContent = text;
-    return node;
+  function statusText(item) {
+    return item.completed ? "Completed" : item.visited ? "Visited" : "Not started";
   }
-
-  function emptyState() {
-    return { version: 1, lessons: {}, lastLesson: null };
+  function displayStatus(item) {
+    const badge = el("span", "course-progress-state");
+    const status = statusText(item);
+    badge.classList.add(
+      item.completed ? "is-complete" :
+      item.visited ? "is-visited" : "is-new"
+    );
+    const symbol = el("span", "course-progress-state-icon",
+      item.completed ? "✓" : item.visited ? "◉" : "○");
+    symbol.setAttribute("aria-hidden", "true");
+    badge.append(symbol, document.createTextNode(" " + status));
+    return badge;
   }
 
   document.addEventListener("DOMContentLoaded", async function () {
+    if (!window.FNDAccount) return; // No public sign-in deployment yet.
+    const account = await window.FNDAccount.ready;
+    const overview = document.getElementById("course-progress");
+    const controls = document.getElementById("lesson-progress-controls");
+    const homeResume = document.getElementById("home-learning-resume");
+    if (!account) {
+      if (overview) {
+        overview.replaceChildren(
+          el("h2", "", "My Learning Progress"),
+          el("p", "course-progress-help",
+            "Your course is free to read. Sign in above if you would " +
+            "like to save personal lesson progress across devices.")
+        );
+        overview.hidden = false;
+      }
+      return;
+    }
+
     let manifest;
     try {
-      const response = await fetch(manifestUrl, {
-        credentials: "same-origin",
-        cache: "no-store"
-      });
-      if (!response.ok) throw new Error("Course index unavailable");
+      const response = await fetch(manifestUrl, { cache: "no-store" });
+      if (!response.ok) throw new Error("Manifest unavailable");
       manifest = await response.json();
       if (manifest.version !== 1 || !Array.isArray(manifest.parts)) {
-        throw new Error("Unsupported course index");
+        throw new Error("Unknown curriculum");
       }
-    } catch {
-      // Continue to offer the original published course index and navigation.
-      return;
-    }
-
+    } catch { return; }
     const lookup = new Map();
-    const orderedLessons = [];
+    const ordered = [];
+    for (const part of manifest.parts) {
+      for (const mod of part.modules) {
+        for (const lesson of mod.lessons) {
+          if (!/^m[1-9][0-9]*-[1-9][0-9]*$/.test(lesson.id) ||
+              !/^\/course\/m\d+\/\d+\/$/.test(lesson.url) ||
+              lookup.has(lesson.url)) return;
+          lookup.set(lesson.url, lesson);
+          ordered.push(lesson);
+        }
+      }
+    }
+    if (!ordered.length) return;
 
-    // Reject malformed or duplicate content instead of building broken links.
+    const known = new Set(ordered.map(item => item.id));
+    let state;
     try {
-      for (const part of manifest.parts) {
-        if (!Array.isArray(part.modules) || typeof part.title !== "string") {
-          throw new Error("Invalid course part");
-        }
-        for (const module of part.modules) {
-          if (!Array.isArray(module.lessons) || !Number.isInteger(module.number)) {
-            throw new Error("Invalid course module");
-          }
-          for (const lesson of module.lessons) {
-            if (!/^m[0-9]+-[0-9]+$/.test(lesson.id) ||
-                typeof lesson.title !== "string" ||
-                !/^\/course\/m[0-9]+\/[0-9]+\/$/.test(lesson.url) ||
-                lookup.has(lesson.url) || orderedLessons.some((item) => item.id === lesson.id)) {
-              throw new Error("Invalid course lesson");
-            }
-            lookup.set(lesson.url, lesson);
-            orderedLessons.push(lesson);
-          }
-        }
-      }
-      if (orderedLessons.length === 0) throw new Error("Empty course");
-    } catch {
-      return;
-    }
+      state = await window.FNDAccount.apiRequest("/v1/progress");
+    } catch { return; }
+    if (!state || !state.lessons) return;
 
-    const knownIds = new Set(orderedLessons.map((lesson) => lesson.id));
-    let storageAvailable = true;
-
-    // Validate stored data without trusting it as a source of page URLs,
-    // identity, or permissions. This also tolerates future lesson additions.
-    function sanitize(source) {
-      const clean = emptyState();
-      if (!source || source.version !== 1 ||
-          !source.lessons || typeof source.lessons !== "object" ||
-          Array.isArray(source.lessons)) return clean;
-
-      for (const id of knownIds) {
-        const item = source.lessons[id];
-        if (!item || typeof item !== "object") continue;
-        if (item.visited === true || item.completed === true) {
-          clean.lessons[id] = {
-            visited: item.visited === true,
-            completed: item.completed === true
-          };
-        }
-      }
-      if (knownIds.has(source.lastLesson)) clean.lastLesson = source.lastLesson;
-      return clean;
-    }
-
-    function readState() {
-      try {
-        const raw = window.localStorage.getItem(STORAGE_KEY);
-        return raw ? sanitize(JSON.parse(raw)) : emptyState();
-      } catch {
-        storageAvailable = false;
-        return emptyState();
-      }
-    }
-
-    let state = readState();
-
-    function save() {
-      try {
-        window.localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
-        storageAvailable = true;
-      } catch {
-        storageAvailable = false;
-      }
-    }
-
+    // Server values are constrained to the published lesson identifiers
+    // before they are used to render statuses or link destinations.
     function get(id) {
-      return state.lessons[id] || { visited: false, completed: false };
+      const item = known.has(id) && state.lessons[id];
+      return {
+        visited: !!(item && item.visited === true),
+        completed: !!(item && item.completed === true)
+      };
     }
-
-    function describe(id) {
-      const item = get(id);
-      return item.completed ? "Completed" : item.visited ? "Visited" : "Not started";
+    function count(lessons) {
+      return lessons.filter(lesson => get(lesson.id).completed).length;
     }
-
-    function completedCount(items) {
-      return items.filter((item) => get(item.id).completed).length;
-    }
-
-    function visitedCount() {
-      return orderedLessons.filter((item) => get(item.id).visited).length;
-    }
-
-    // Completion is always a manual decision. Visiting a page NEVER writes
-    // completed:true or overwrites an existing manual completion choice.
-    function setComplete(id, checked) {
-      if (!knownIds.has(id)) return;
-      const old = get(id);
-      state.lessons[id] = { visited: old.visited, completed: checked };
-      save();
-      update();
-    }
-
     function nextLesson() {
-      const lastIndex = orderedLessons.findIndex((item) => item.id === state.lastLesson);
-      if (lastIndex >= 0 && !get(state.lastLesson).completed) {
-        return orderedLessons[lastIndex];
+      const position = ordered.findIndex(item => item.id === state.lastLesson);
+      if (position >= 0 && !get(state.lastLesson).completed) {
+        return ordered[position];
       }
-      for (let offset = 1; offset <= orderedLessons.length; offset += 1) {
-        const index = (Math.max(lastIndex, -1) + offset) % orderedLessons.length;
-        const candidate = orderedLessons[index];
+      for (let n = 1; n <= ordered.length; n++) {
+        const candidate = ordered[(Math.max(position, -1) + n) % ordered.length];
         if (!get(candidate.id).completed) return candidate;
       }
       return null;
     }
 
-    // Record the fact of opening a real lesson, even if the reader stops
-    // halfway. We deliberately do not record scroll positions or time spent.
-    const current = lookup.get(normalizedPath(window.location.pathname));
+    const current = lookup.get(pathOf(location.pathname));
     if (current) {
-      const old = get(current.id);
-      state.lessons[current.id] = {
-        visited: true,
-        completed: old.completed
-      };
-      state.lastLesson = current.id;
-      save();
+      try {
+        await window.FNDAccount.apiRequest("/v1/progress/visit", "POST", {
+          lessonId: current.id
+        });
+        state.lessons[current.id] = { ...get(current.id), visited: true };
+        state.lastLesson = current.id;
+      } catch {
+        // Never claim server persistence when it failed.
+      }
     }
 
-    const overview = document.getElementById("course-progress");
-    const lessonControls = document.getElementById("lesson-progress-controls");
-    const resume = document.getElementById("home-learning-resume");
-
-    function statusBadge(id) {
-      const status = describe(id);
-      const badge = element("span", "course-progress-state", "");
-      badge.classList.add(
-        status === "Completed" ? "is-complete" :
-        status === "Visited" ? "is-visited" : "is-new"
-      );
-      const icon = element("span", "course-progress-state-icon",
-        status === "Completed" ? "✓" : status === "Visited" ? "◉" : "○");
-      icon.setAttribute("aria-hidden", "true");
-      badge.append(icon, document.createTextNode(" " + status));
-      return badge;
+    let feedbackTarget = null;
+    function alertFeedback(message) {
+      if (feedbackTarget) feedbackTarget.textContent = message;
     }
 
-    function checkboxFor(lesson, extraClass) {
-      const label = element("label", extraClass || "course-progress-checkbox");
-      const check = document.createElement("input");
-      check.type = "checkbox";
-      check.checked = get(lesson.id).completed;
-      check.setAttribute("aria-label", "Mark complete: " + lesson.title);
-      check.dataset.progressCheckbox = lesson.id;
-      check.addEventListener("change", function () {
-        setComplete(lesson.id, check.checked);
-        const replacement = document.querySelector(
-          '[data-progress-checkbox="' + lesson.id + '"]'
-        );
-        if (replacement) replacement.focus();
+    // An explicit confirmation is required EVERY time, for checking and
+    // unchecking alike, including the combined Complete & Continue action.
+    // No "remember my choice" preference or silent completion route exists.
+    function confirmation(lesson, completing) {
+      return new Promise(resolve => {
+        const dlg = el("dialog", "course-progress-confirmation");
+        if (typeof dlg.showModal !== "function") {
+          resolve(false); return;
+        }
+        const title = el("h2", "", "Confirm lesson progress");
+        const prompt = el("p", "",
+          (completing ? "Mark this lesson completed for:" :
+            "Remove the completion checkmark for:"));
+        const username = el("strong", "course-confirm-username", account.username);
+        const lessonName = el("p", "course-confirm-lesson", lesson.title);
+        const note = el("p", "course-progress-help",
+          "Please check that this is your account, especially when " +
+          "sharing a device with another learner.");
+        const buttons = el("div", "course-confirm-actions");
+        const cancel = el("button", "", "Cancel");
+        cancel.type = "button";
+        const confirm = el("button", "course-progress-resume",
+          completing ? "Yes, mark completed" : "Yes, remove checkmark");
+        confirm.type = "button";
+        let accepted = false;
+        cancel.addEventListener("click", () => dlg.close());
+        confirm.addEventListener("click", () => {
+          accepted = true;
+          dlg.close();
+        });
+        dlg.addEventListener("close", () => {
+          dlg.remove();
+          resolve(accepted);
+        }, { once: true });
+        buttons.append(cancel, confirm);
+        dlg.append(title, prompt, username, lessonName, note, buttons);
+        document.body.append(dlg);
+        dlg.showModal();
+        cancel.focus();
       });
-      label.append(check, element("span", "", "Complete"));
+    }
+    let mutationPending = false;
+    async function setCompletion(lesson, checked, destination) {
+      if (mutationPending) return;
+      mutationPending = true;
+      try {
+        if (!(await confirmation(lesson, checked))) return;
+        await window.FNDAccount.apiRequest(
+          "/v1/progress/completion", "POST", {
+            lessonId: lesson.id,
+            completed: checked,
+            confirmed: true,
+            confirmedUsername: account.username
+          }
+        );
+        state.lessons[lesson.id] = { ...get(lesson.id), completed: checked };
+        if (destination) {
+          window.location.assign(destination); return;
+        }
+        render();
+      } catch (error) {
+        alertFeedback(error.message || "Progress was not saved. Try again.");
+      } finally { mutationPending = false; }
+    }
+
+    function checkbox(lesson) {
+      const label = el("label", "course-progress-checkbox");
+      const input = el("input");
+      input.type = "checkbox";
+      input.checked = get(lesson.id).completed;
+      input.setAttribute("aria-label", "Change completion for " + lesson.title);
+      input.addEventListener("change", function () {
+        // Keep the old value until the identity dialog and API both succeed.
+        input.checked = get(lesson.id).completed;
+        setCompletion(lesson, !get(lesson.id).completed);
+      });
+      label.append(input, el("span", "", "Complete"));
       return label;
     }
 
-    function makeDetails(key, summaryText, countText, openKeys) {
-      const details = element("details", "course-progress-details");
-      details.dataset.progressGroup = key;
-      details.open = openKeys.has(key);
-      const summary = element("summary", "course-progress-summary");
+    function group(key, title, total, openKeys) {
+      const item = el("details", "course-progress-details");
+      item.dataset.progressGroup = key;
+      item.open = openKeys.has(key);
+      const summary = el("summary", "course-progress-summary");
       summary.append(
-        element("span", "course-progress-summary-title", summaryText),
-        element("span", "course-progress-count", countText)
+        el("span", "course-progress-summary-title", title),
+        el("span", "course-progress-count", total)
       );
-      details.append(summary);
-      return details;
+      item.append(summary);
+      return item;
     }
 
     function renderOverview() {
       if (!overview) return;
-      const opened = new Set(
-        Array.from(overview.querySelectorAll("details[open]"))
-          .map((item) => item.dataset.progressGroup)
-      );
-      const hadRendered = overview.dataset.rendered === "true";
-      if (!hadRendered) {
+      const opened = new Set(Array.from(overview.querySelectorAll(
+        "details[open]"
+      )).map(item => item.dataset.progressGroup));
+      if (!overview.dataset.rendered) {
         opened.add("part-1");
         opened.add("module-1");
       }
-
       const fragment = document.createDocumentFragment();
-      const heading = element("h2", "", "My Learning Progress");
-      const count = completedCount(orderedLessons);
-      const summary = element(
-        "p", "course-progress-summary-line",
-        count + " of " + orderedLessons.length + " lessons completed · " +
-        visitedCount() + " visited"
-      );
-      const bar = element("progress", "course-progress-bar");
-      bar.max = orderedLessons.length;
-      bar.value = count;
+      fragment.append(el("h2", "", "My Learning Progress"));
+      const total = count(ordered);
+      const visited = ordered.filter(item => get(item.id).visited).length;
+      fragment.append(el("p", "course-progress-summary-line",
+        total + " of " + ordered.length + " lessons completed · " +
+        visited + " visited"));
+      const bar = el("progress", "course-progress-bar");
+      bar.max = ordered.length;
+      bar.value = total;
       bar.setAttribute("aria-label", "Course lessons completed");
-      fragment.append(heading, summary, bar);
-
-      const explanation = element(
-        "p", "course-progress-help",
-        "Opening a lesson marks it as visited. Tick Complete when you feel " +
-        "finished, or untick it at any time. Module introductions and " +
-        "crosswords are optional and do not affect your progress."
-      );
-      fragment.append(explanation);
-
+      fragment.append(bar);
+      fragment.append(el("p", "course-progress-help",
+        "Opening a lesson marks it visited. Completion always requires " +
+        "confirmation of your active username. You can undo a checkmark at any time."));
       const next = nextLesson();
       if (next) {
-        const resumeLink = element("a", "course-progress-resume",
-          state.lastLesson ? "Continue learning →" : "Start with Lesson 1 →");
-        resumeLink.href = next.url;
-        fragment.append(resumeLink);
-      } else {
-        fragment.append(element("p", "course-progress-help",
-          "All lessons are marked complete. You can revisit or untick any lesson."));
+        const link = el("a", "course-progress-resume", "Continue learning →");
+        link.href = next.url;
+        fragment.append(link);
       }
 
       for (const part of manifest.parts) {
-        const partLessons = part.modules.flatMap((mod) => mod.lessons);
-        const partDetails = makeDetails(
-          "part-" + part.number,
+        const lessons = part.modules.flatMap(m => m.lessons);
+        const partGroup = group("part-" + part.number,
           "Part " + part.number + ": " + part.title,
-          completedCount(partLessons) + "/" + partLessons.length,
-          opened
-        );
+          count(lessons) + "/" + lessons.length, opened);
         for (const mod of part.modules) {
-          const details = makeDetails(
-            "module-" + mod.number,
+          const moduleGroup = group("module-" + mod.number,
             "Module " + mod.number + ": " + mod.title,
-            completedCount(mod.lessons) + "/" + mod.lessons.length,
-            opened
-          );
-
-          // The module introduction remains accessible but is not counted
-          // as a lesson. No private data is present in any course link.
-          const intro = element("a", "course-progress-intro",
-            "Module overview");
+            count(mod.lessons) + "/" + mod.lessons.length, opened);
+          const intro = el("a", "course-progress-intro", "Module overview");
           intro.href = mod.url;
-          details.append(intro);
-
-          const list = element("ul", "course-progress-lessons");
+          moduleGroup.append(intro);
+          const ul = el("ul", "course-progress-lessons");
           for (const lesson of mod.lessons) {
-            const row = element("li", "course-progress-lesson");
-            const link = element("a", "course-progress-lesson-link", lesson.title);
+            const row = el("li", "course-progress-lesson");
+            const main = el("div", "course-progress-lesson-main");
+            const link = el("a", "course-progress-lesson-link", lesson.title);
             link.href = lesson.url;
-            const main = element("div", "course-progress-lesson-main");
-            main.append(link, statusBadge(lesson.id));
-            row.append(main, checkboxFor(lesson));
-            list.append(row);
+            main.append(link, displayStatus(get(lesson.id)));
+            row.append(main, checkbox(lesson));
+            ul.append(row);
           }
-          details.append(list);
-          partDetails.append(details);
+          moduleGroup.append(ul);
+          partGroup.append(moduleGroup);
         }
-        fragment.append(partDetails);
+        fragment.append(partGroup);
       }
+      fragment.append(el("p", "course-progress-help",
+        "Progress and preferences belong only to the account shown above, " +
+        "not everyone who uses this browser. Reading is always free without signing in."));
 
-      const privacy = element(
-        "p", "course-progress-help",
-        "Saved only in this browser on this device, not to an account. " +
-        "Clearing browser data or using private browsing may erase progress. " +
-        "Cross-device sign-in is not available yet."
-      );
-      const clear = element("button", "course-progress-clear", "Clear my progress");
-      clear.type = "button";
-      clear.addEventListener("click", function () {
-        if (!window.confirm("Clear all saved course progress on this device?")) return;
-        state = emptyState();
-        save();
-        update();
-      });
-      fragment.append(privacy, clear);
-
-      if (!storageAvailable) {
-        fragment.append(element("p", "course-progress-warning",
-          "Browser storage is blocked. Changes will last only while this page is open."));
-      }
-
+      const feedback = el("p", "course-progress-warning");
+      feedback.setAttribute("role", "status");
+      fragment.append(feedback);
       overview.replaceChildren(fragment);
+      feedbackTarget = feedback;
       overview.hidden = false;
       overview.dataset.rendered = "true";
 
-      // Hide ONLY the six duplicate curriculum lists after the interactive
-      // overview is successfully built. Keep the About section and all
-      // original content available when scripting is disabled or fails.
-      const content = document.querySelector(".course-content");
-      if (content && !content.dataset.progressFallbackHidden) {
-        let isSyllabus = false;
-        for (const child of Array.from(content.children)) {
+      // Only hide duplicate canonical syllabus lists after the active
+      // account's full course view has been assembled successfully.
+      const source = document.querySelector(".course-content");
+      if (source && !source.dataset.progressFallbackHidden) {
+        let inSyllabus = false;
+        for (const child of Array.from(source.children)) {
           if (child.matches("h2") && /^Part One:/.test(child.textContent.trim())) {
-            isSyllabus = true;
+            inSyllabus = true;
           } else if (child.matches("h2") &&
                      /^About This Course/.test(child.textContent.trim())) {
-            isSyllabus = false;
+            inSyllabus = false;
           }
-          if (isSyllabus) child.hidden = true;
+          if (inSyllabus) child.hidden = true;
         }
-        content.dataset.progressFallbackHidden = "true";
+        source.dataset.progressFallbackHidden = "true";
       }
     }
 
     function renderLessonControls() {
-      if (!lessonControls || !current) return;
+      if (!controls || !current) return;
       const fragment = document.createDocumentFragment();
-      fragment.append(element("h2", "", "Your lesson progress"));
-      fragment.append(element("p", "course-progress-help",
-        "Visiting this lesson does not mean you have finished it. " +
-        "You can change your choice at any time."));
-      fragment.append(checkboxFor(current, "course-progress-lesson-toggle"));
-      fragment.append(statusBadge(current.id));
-
-      const nextLink = document.querySelector(".course-page > .page-navigation .page-navigation-next a");
-      if (nextLink) {
-        const path = normalizedPath(nextLink.href);
-        if (path && path.startsWith("/course/")) {
-          const button = element("button", "course-progress-resume",
-            "Mark complete & continue →");
-          button.type = "button";
-          button.addEventListener("click", function () {
-            setComplete(current.id, true);
-            window.location.assign(nextLink.href);
-          });
-          fragment.append(button);
-        }
+      fragment.append(el("h2", "", "Your lesson progress"));
+      fragment.append(el("p", "course-progress-help",
+        "The account shown at the top must be yours. " +
+        "Completion requires confirmation every time."));
+      fragment.append(checkbox(current), displayStatus(get(current.id)));
+      const next = document.querySelector(
+        ".course-page > .page-navigation .page-navigation-next a"
+      );
+      if (next && pathOf(next.href)?.startsWith("/course/")) {
+        const advance = el("button", "course-progress-resume",
+          "Mark completed & continue →");
+        advance.type = "button";
+        advance.addEventListener("click", () =>
+          setCompletion(current, true, next.href));
+        fragment.append(advance);
       }
-      if (!storageAvailable) {
-        fragment.append(element("p", "course-progress-warning",
-          "Browser storage is blocked. Your progress may not be saved."));
-      }
-      lessonControls.replaceChildren(fragment);
-      lessonControls.hidden = false;
+      const note = el("p", "course-progress-warning");
+      note.setAttribute("role", "status");
+      fragment.append(note);
+      controls.replaceChildren(fragment);
+      feedbackTarget = note;
+      controls.hidden = false;
     }
 
-    // Only course-navigation links carry progress markers; editorial inline
-    // links and research citations remain visually uncluttered.
-    function updateNavigationMarks() {
+    function navMarkers() {
       const links = Array.from(document.querySelectorAll(
         ".page-navigation a, .course-entry-actions a"
       ));
-      if (document.body.querySelector(".page-context") &&
-          document.querySelector(".course-content h2")) {
-        const heading = Array.from(document.querySelectorAll(
-          ".course-content h2"
-        )).find((node) => node.textContent.trim() === "Pages");
-        const list = heading && heading.nextElementSibling;
-        if (list && list.matches("ul")) {
-          links.push(...list.querySelectorAll("li > a, li > strong > a"));
-        }
+      const heading = Array.from(document.querySelectorAll(
+        ".course-content h2"
+      )).find(h => h.textContent.trim() === "Pages");
+      const list = heading && heading.nextElementSibling;
+      if (list && list.matches("ul")) {
+        links.push(...list.querySelectorAll("li > a, li > strong > a"));
       }
       for (const link of new Set(links)) {
-        const lesson = lookup.get(normalizedPath(link.href));
-        const previous = link.querySelector(".course-navigation-progress");
-        if (previous) previous.remove();
+        const lesson = lookup.get(pathOf(link.href));
+        const old = link.querySelector(".course-navigation-progress");
+        if (old) old.remove();
         if (!lesson) continue;
-        const mark = element("span", "course-navigation-progress", "");
-        mark.append(statusBadge(lesson.id));
-        link.append(mark);
+        const span = el("span", "course-navigation-progress");
+        span.append(displayStatus(get(lesson.id)));
+        link.append(span);
       }
     }
 
-    function renderResume() {
-      if (!resume) return;
-      const next = nextLesson();
-      const anyVisited = visitedCount() > 0;
-      resume.hidden = !next || !anyVisited;
-      if (!next || !anyVisited) return;
-      const link = resume.querySelector("a");
-      if (link) link.href = next.url;
-      const label = document.getElementById("home-learning-resume-label");
-      if (label) label.textContent = next.title;
+    function renderHomeResume() {
+      if (!homeResume) return;
+      const lesson = nextLesson();
+      const hasHistory = ordered.some(item => get(item.id).visited);
+      homeResume.hidden = !(lesson && hasHistory);
+      if (!lesson || !hasHistory) return;
+      const link = homeResume.querySelector("a");
+      if (link) link.href = lesson.url;
+      const title = document.getElementById("home-learning-resume-label");
+      if (title) title.textContent = lesson.title;
     }
 
-    function update() {
+    function render() {
       renderOverview();
       renderLessonControls();
-      renderResume();
-      updateNavigationMarks();
+      navMarkers();
+      renderHomeResume();
     }
-
-    // Respect changes made in another tab on the same browser.
-    window.addEventListener("storage", function (event) {
-      if (event.key !== STORAGE_KEY) return;
-      state = readState();
-      update();
-    });
-
-    update();
+    render();
   });
 })();
