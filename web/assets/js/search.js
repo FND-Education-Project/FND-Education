@@ -179,25 +179,35 @@
       }
     });
 
-    const hashQuery = (() => {
+    function queryFromLocation() {
       const rawHash = window.location.hash.replace(/^#/, "");
+      const hashQuery = rawHash
+        ? new URLSearchParams(rawHash).get("q") || ""
+        : "";
 
-      if (!rawHash) {
-        return "";
-      }
-
-      return new URLSearchParams(rawHash).get("q") || "";
-    })();
-
-    // Keep support for older /search/?q= links and no-JavaScript form
-    // submissions, but prefer the fragment because it is not sent to the host.
-    const initialQuery =
-      hashQuery ||
-      new URLSearchParams(window.location.search).get("q") ||
-      "";
-
-    if (initialQuery.trim()) {
-      search.triggerSearch(initialQuery.trim());
+      // Keep support for older /search/?q= links and no-JavaScript form
+      // submissions, but prefer the fragment because it is not sent to the host.
+      return (
+        hashQuery ||
+        new URLSearchParams(window.location.search).get("q") ||
+        ""
+      ).trim();
     }
+
+    function runLocationSearch() {
+      const query = queryFromLocation();
+
+      if (query) {
+        search.triggerSearch(query);
+      }
+    }
+
+    // Run the initial request after Pagefind is ready.
+    runLocationSearch();
+
+    // A header search from the already-open results page changes only #q=...
+    // and therefore does not reload the document. Listen for that fragment
+    // change and reuse the existing Pagefind UI instance for the new search.
+    window.addEventListener("hashchange", runLocationSearch);
   });
 })();
