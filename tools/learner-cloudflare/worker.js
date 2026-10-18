@@ -115,9 +115,15 @@ function safeReturnPath(raw) {
   }
   return raw;
 }
+// Match currently published focused lessons. Update with the curriculum.
+const LESSON_COUNTS = [
+  4, 2, 3, 1, 3, 4, 5, 4, 4, 3, 5, 3,
+  3, 3, 3, 3, 4, 3, 3, 3, 3, 3, 2
+];
 function validLesson(id) {
   const match = /^m([1-9]|1[0-9]|2[0-3])-([1-9][0-9]?)$/.exec(id || "");
-  return !!match; // API never accepts caller-selected user IDs.
+  if (!match) return false;
+  return Number(match[2]) <= LESSON_COUNTS[Number(match[1]) - 1];
 }
 async function jsonInput(req) {
   if (!(req.headers.get("Content-Type") || "").startsWith("application/json") ||
@@ -486,6 +492,15 @@ async function handle(req, env) {
   return err(req, env, 404, "Not found");
 }
 export default {
+  async scheduled(_event, env, ctx) {
+    // Bounded database cleanup; do not record or log learner identities.
+    ctx.waitUntil(Promise.all([
+      env.DB.prepare("DELETE FROM oauth_flows WHERE expires_at < ?")
+        .bind(now()).run(),
+      env.DB.prepare("DELETE FROM learner_sessions WHERE expires_at < ?")
+        .bind(now()).run()
+    ]));
+  },
   async fetch(req, env) {
     try {
       return await handle(req, env);
