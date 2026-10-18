@@ -2069,3 +2069,7 @@ html[data-theme="dark"] {
   .learner-account-shell { align-items: stretch; flex-direction: column; }
   .course-confirm-actions button { flex: 1 1 100%; }
 }
+
+/* Keep completed status legible when account theme differs from OS theme. */
+html[data-theme="light"] .course-progress-state.is-complete { color: #23744c; }
+html[data-theme="dark"] .course-progress-state.is-complete { color: #8cdbac; }
