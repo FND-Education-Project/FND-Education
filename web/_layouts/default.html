@@ -121,6 +121,10 @@
         <a href="{{ '/contact/' | relative_url }}">Contact</a>
       </nav>
 
+      {% if site.learner_api_endpoint %}
+      <div id="learner-account-shell" class="learner-account-shell" hidden></div>
+      {% endif %}
+
     </div>
   </header>
 
@@ -187,6 +191,14 @@
     src="{{ '/assets/js/site.js' | relative_url }}"
     defer
   ></script>
+
+  {% if site.learner_api_endpoint %}
+  <script
+    src="{{ '/assets/js/account-shell.js' | relative_url }}"
+    data-api-endpoint="{{ site.learner_api_endpoint | escape }}"
+    defer
+  ></script>
+  {% endif %}
 
   {% if page.page_kind == "course" or page.page_kind == "module" or page.page_kind == "lesson" or page.layout == "home" %}
   <script
