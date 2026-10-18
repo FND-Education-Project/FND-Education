@@ -44,6 +44,16 @@
     [/\bhoovers?\s+sign\b/gi, "Hoover's sign"]
   ];
 
+  /*
+   * Ambiguous community wording is expanded rather than replaced. This keeps
+   * the reader's original word searchable while adding a reviewed related
+   * concept. For example, "mirroring" can mean several things, but in FND
+   * discussions it is also commonly used informally for tremor entrainment.
+   */
+  const TERM_EXPANSIONS = [
+    [/\bmirroring\b/gi, "mirroring entrainment"]
+  ];
+
 
   function updateInterpretationNote(original, normalized) {
     const note = document.getElementById("search-interpretation");
@@ -82,6 +92,10 @@
     }
 
     for (const [pattern, replacement] of TERM_ALIASES) {
+      normalized = normalized.replace(pattern, replacement);
+    }
+
+    for (const [pattern, replacement] of TERM_EXPANSIONS) {
       normalized = normalized.replace(pattern, replacement);
     }
 
