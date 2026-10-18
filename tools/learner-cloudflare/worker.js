@@ -15,7 +15,7 @@
 const DAY = 86400;
 const SESSION_LIFE = 180 * DAY; // Sliding safety cap, not inactivity logout.
 const FLOW_LIFE = 600;
-const SESSION_COOKIE = "__Secure-fnd_learner_session";
+const SESSION_COOKIE = "__Host-fnd_learner_session";
 const FLOW_COOKIE = "__Host-fnd_oauth_flow";
 
 const PROVIDERS = {
@@ -62,7 +62,7 @@ function cookie(req, name) {
 }
 function sessionCookie(token, maxAge = SESSION_LIFE) {
   return SESSION_COOKIE + "=" + token +
-    "; Path=/; Domain=fndeducationproject.org; Max-Age=" + maxAge +
+    "; Path=/; Max-Age=" + maxAge +
     "; Secure; HttpOnly; SameSite=Lax";
 }
 function flowCookie(value, maxAge = FLOW_LIFE) {
