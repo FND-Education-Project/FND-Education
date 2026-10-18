@@ -224,7 +224,7 @@ Change in tremor when attention is redirected or another task is performed.
 Change in tremor rhythm toward an externally paced voluntary rhythm.
 
 **Aliases:** entrainment  
-**Lay search phrases:** tremor copies another rhythm  
+**Lay search phrases:** tremor copies another rhythm; mirroring; mirroring movements; tremor mirrors another movement; shaking mirrors the other hand; tremor copies the other hand; shaking follows another rhythm  
 **Broader:** positive-signs; diagnostic-techniques  
 **Related:** functional-tremor  
 
