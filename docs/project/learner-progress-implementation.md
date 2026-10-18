@@ -51,7 +51,7 @@ provider's opaque subject plus a generated internal learner ID is needed.
 Do not store provider emails, personal profiles or diagnosis history.
 
 A dedicated Cloudflare Worker verifies OIDC identities and uses Secure
-HttpOnly cookies, rotating session renewal, state + nonce + PKCE, exact CORS,
+HttpOnly cookies, sliding session renewal, state + nonce + PKCE, exact CORS,
 account-bound CSRF and server-authorized D1 reads/writes. No learner data is
 joined to anonymous aggregate analytics. Provider emails must never be used
 to link accounts without proving control of both identities.
