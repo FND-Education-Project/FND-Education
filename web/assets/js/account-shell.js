@@ -89,7 +89,9 @@
       // endpoint have been approved and configured.
       status.append(node("strong", "Save your learning progress"));
       status.append(node("span",
-        "Sign in to keep your own lesson checkmarks and theme preferences."));
+        "Sign in to keep your own lesson checkmarks and theme preferences. " +
+        "Accounts unused for three years are deleted automatically, " +
+        "with no email reminder because we do not store email addresses."));
       const actions = node("span", undefined, "account-actions");
       for (const provider of ["google", "apple"]) {
         const link = node("a",
