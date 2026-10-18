@@ -475,6 +475,19 @@ async function handle(req, env) {
   if (req.method === "POST" && u.pathname === "/v1/progress/completion") {
     return completion(req, env, account, input);
   }
+  if (req.method === "POST" && u.pathname === "/v1/progress/reset") {
+    if (input.confirmed !== true ||
+        input.confirmedUsername !== account.username) {
+      return err(req, env, 400, "Account confirmation required");
+    }
+    await env.DB.batch([
+      env.DB.prepare("DELETE FROM learner_progress WHERE learner_id = ?")
+        .bind(account.learner_id),
+      env.DB.prepare("UPDATE learners SET last_lesson = NULL WHERE id = ?")
+        .bind(account.learner_id)
+    ]);
+    return reply(req, env, { ok: true });
+  }
   if (req.method === "PATCH" && u.pathname === "/v1/settings") {
     return updateSettings(req, env, account, input);
   }
