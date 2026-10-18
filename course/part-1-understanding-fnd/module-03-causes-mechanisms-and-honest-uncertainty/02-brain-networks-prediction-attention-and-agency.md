@@ -4,9 +4,9 @@
 
 # Brain Networks, Prediction, Attention, and Agency
 
-> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Working draft:** AI-assisted editorial revision under human and clinical review. [Contributors and reviewers](https://fndeducationproject.org/contact/) are welcome.
 
-Researchers have several ideas about how FND symptoms may be produced. These ideas involve brain networks, attention, predictions, past learning, automatic control and the sense that an action belongs to us. They are useful areas of study, but they do not yet provide one settled explanation or an individual diagnostic test. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+Lesson 7 asked what may have started FND. This lesson explores a different question: **what could be happening in the nervous system when functional symptoms occur?** Researchers can measure aspects of brain activity, communication and chemistry. Their findings are giving us possible explanations—and new questions to investigate. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -18,97 +18,97 @@ Researchers have several ideas about how FND symptoms may be produced. These ide
 ## For the Person With FND
 {: #for-the-person-with-fnd .shareable }
 
-### The short version
+### What is happening inside my nervous system?
 
-The nervous system does not wait passively for information and then react. It constantly chooses what to pay attention to, uses earlier experience to anticipate what may happen, interprets signals from the body and surroundings, and organizes movement and awareness. Much of this happens automatically. (*citations* [3](#citation-3))
+You might wonder why your leg will not move as you expect, why a memory seems out of reach, or what happens during a functional seizure.
 
-Some FND theories propose that these ordinary processes are working together differently. That could help explain why a genuine symptom can occur without damage that appears on a standard scan and without the person deliberately causing it. The theories are not proof of what caused one person's FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+A standard brain scan may not show damage that explains the symptom. Yet the symptom is real.
+
+Your nervous system is constantly doing many jobs: preparing movements, handling sensations, directing attention, remembering and helping you stay aware of your surroundings. Scientists are studying how these jobs may work differently in FND. (*citations* [1](#citation-1), [3](#citation-3))
 
 ### What is a brain network?
 
-A **brain network** is a group of brain areas that work together. Movement, sensation, attention, emotion, memory and awareness are not each controlled by one isolated spot. Networks share information, and the same area may contribute to several functions. (*citations* [3](#citation-3))
+Think of a group of musicians playing together. Each plays a part, but the music depends on their timing and how well they respond to one another.
+
+Your brain works in teams, too. Groups of brain areas share information to support movement, awareness, memory and many other functions. Researchers call these **brain networks**.
+
+Some studies have found differences in activity or communication between networks in groups of people with FND. That gives scientists a way to investigate symptoms involving coordination and control, rather than assuming a nerve or muscle must be damaged. (*citations* [1](#citation-1), [2](#citation-2))
+
+<figure class="image-60center" markdown="1">
 
 ![Connected nodes show sensation, prediction and attention, and action and agency working as a network. The diagram is labelled as a useful model, not the whole story.](../../../assets/illustrations/module-3-page-2-network-model.svg)
 
-*Illustration: networks help researchers organize possible relationships. They are not a complete personal explanation or diagnostic scan.*
+<figcaption>Brain networks share information. This drawing is a model of how they might work together, not a map of one person's FND.</figcaption>
 
-FND research has examined or discussed networks involved in:
+</figure>
 
-- movement and motor control;
-- attention and **salience**, meaning what the nervous system treats as important;
-- **interoception**, meaning awareness and interpretation of signals from inside the body;
-- emotion processing; and
-- **agency**, meaning the sense that an action or experience belongs to you and is under your control.
+### Why might a movement or feeling change?
 
-Studies have reported group differences in several of these areas, but not every proposed process has been tested directly and the findings are not uniform. A difference on a research brain scan may help scientists form and test ideas, but it is not automatically a cause, a diagnostic biomarker or an explanation that applies to every participant. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+Your nervous system can prepare an action before you think about each step.
 
-### What a structural imaging study can show
+For example, you may walk toward a chair without planning every muscle movement. But walking may feel much harder when you try to control each step carefully.
 
-Perez and colleagues compared 26 motor-FND patients with 27 controls. There was **no whole-brain-corrected cortical-thickness difference for the complete FND group**. Higher somatoform dissociation—a questionnaire measure concerning disrupted bodily experiences—was linked to thinner **left caudal anterior cingulate cortex (ACC)**, in a high-score subgroup comparison and within-group analysis. Greater depersonalization/derealization was associated with thicker **right lateral occipital cortex**, not right ACC. (*citation* [6](#citation-6))
+In some functional movement symptoms, an examination shows that a movement becomes easier in one situation than another. This may suggest that automatic control and focused control are working differently. It does **not** mean the person chooses when the movement will work. (*citations* [4](#citation-4), [5](#citation-5))
 
-The caudal ACC participates in integrating cognitive control, sensory/body information, affect and nociception (processing potentially harmful stimuli); it is not an FND centre. The paper discusses lateral occipital cortex in relation to higher-order visual processing, imagery and visual working memory. These are interpretations, not demonstrated explanations of FCD visual complaints.
+Scientists are also investigating how the brain makes sense of signals coming from the body. It does not simply wait for a message; it uses earlier experience to make quick guesses about what a signal means. Researchers call this **prediction**.
 
-This small cross-sectional motor-FND study was not an FCD study. Associations cannot determine cause, provide an individual diagnostic biomarker or identify a treatment target. Structural and functional research can coexist without making either a complete explanation. (*citation* [6](#citation-6))
+Those guesses and incoming signals normally work together. Some FND theories suggest that the balance between them may sometimes change, affecting movement or sensation. This is a proposed explanation, not a proven cause of everyone's symptoms. (*citations* [1](#citation-1), [3](#citation-3))
 
-### What do prediction and sensory evidence mean?
+### Does attention mean my symptoms are under my control?
 
-**Predictive processing** is a proposed way of describing how the nervous system combines expectations with incoming information. In simple terms, the brain anticipates what a signal probably means and checks that anticipation against **sensory evidence** from the body and surroundings. (*citations* [1](#citation-1), [3](#citation-3))
+No. Attention can be drawn automatically by pain, noise, danger or something surprising. We do not choose every shift.
 
-Researchers sometimes use the term **precision weighting** for how much confidence or importance the nervous system gives to a prediction or to new sensory information. **Active inference** is a related proposal in which perception and action work together to reduce the difference between what is expected and what is sensed. (*citations* [1](#citation-1), [3](#citation-3))
-
-These processes are mostly automatic. Saying that expectations may influence a symptom does not mean that the person expected it on purpose, imagined it or can stop it by “thinking positively.” Past learning can shape automatic predictions without a person knowing that it is happening. (*citations* [1](#citation-1), [3](#citation-3))
-
-### How can attention affect a real symptom?
-
-Attention helps the nervous system decide which information receives priority. It can be deliberately directed, but it can also be captured automatically by pain, danger, an unusual sensation or the effort required to complete a movement.
-
-Some functional symptoms change when attention or the way a task is performed changes. For example, a movement may be easier when it happens automatically as part of another task than when the person concentrates directly on it. This kind of difference may provide positive diagnostic evidence and may suggest a rehabilitation approach. It does not mean that every symptom improves with distraction or that attention alone caused the disorder. (*citations* [1](#citation-1), [3](#citation-3), [4](#citation-4), [5](#citation-5))
-
-### What is a changed sense of agency?
-
-A movement can occur while the person does not experience it as chosen or controlled. Researchers describe this as an altered **sense of agency**. This may help explain why tremor, jerks, fixed postures or other movements can feel as though the body is acting on its own. (*citations* [1](#citation-1), [3](#citation-3))
-
-Agency is not the same as responsibility. A theory about how the nervous system marks an action as voluntary does not make an involuntary FND symptom voluntary.
-
-### What is measured, and what is still a model?
-
-Researchers can measure behaviour during tasks and group patterns in brain activity or connections. From those results they propose explanations involving attention, salience, emotion, interoception, prediction, sensory evidence and agency. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
-
-The measurement and the explanation are not the same thing. Studies may be small, may include different symptom types and may not show which finding came first. Researchers do not yet have one network pattern or prediction measure that can diagnose FND in an individual. A model may still be useful for treatment even when it is incomplete or later changes. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
-
-### Community experiences for review
-
-These are two candidate lived-experience quotations from the project’s community collection. They illustrate different ways that attention and surroundings were associated with symptom change for two individuals; they do not show conscious control or a method that everyone should try.
-
-**Option 1 — attention directed elsewhere**
+Some people find their functional symptoms change when attention or a task changes. One community member described head movements this way:
 
 > “If I meditate or focus on something else I can stop it.”
 
-— The writer described head jerking that changed when their attention was directed elsewhere. [Read the public source](https://www.reddit.com/r/FND/comments/17jx51h).
+— *Lived experience:* this was one person's description of a change with attention, not a claim that everyone can stop symptoms. [Read the public source](https://www.reddit.com/r/FND/comments/17jx51h).
 
-**Option 2 — mirror attention and background distraction**
+The fact that attention may affect a symptom is interesting to researchers. It does not turn an involuntary symptom into a deliberate action.
 
-> “I never do any of this in a mirror ... with some sort of background distraction.”
+Scientists also study **agency**—the feeling that you are the one choosing or controlling an action. Some people experience movements or sensations that do not feel under their control. Researchers are investigating how that feeling is produced. (*citations* [1](#citation-1), [3](#citation-3))
 
-— The writer reported that looking in a mirror worsened their facial symptoms and described using background distraction instead. This does not show that mirrors are harmful for everyone. [Read the public source](https://www.reddit.com/r/FND/comments/1vzioej/comment/p66gewy/).
+### Could the chemicals in my brain have changed?
 
-### Questions
+Brain cells use electrical activity and chemical messengers to communicate.
 
-#### Have you noticed that a familiar symptom or ability changes with the task, your surroundings or where your attention is drawn, without you choosing the change?
+A small 2024 study used a special MRI-related technique to estimate levels of certain brain chemicals in children and teenagers with FND. Researchers found some differences when comparing groups. (*citation* [7](#citation-7))
 
-#### Which parts of these brain-network explanations help you make sense of your experience, and which parts still feel like unanswered theory?
+The study opened another way to investigate FND. Scientists still need to discover whether those differences contributed to symptoms, appeared afterward or reflect other factors. The study does not tell us what happened in a particular adult or child.
 
-### What can you safely try at home?
+Brain chemistry is a real subject of research, but **there is not yet a brain-chemistry test that explains or diagnoses FND for one person**.
 
-Choose one explanation you have been given about your symptoms and divide it into three short parts:
+### Are functional seizures just panic attacks?
 
-- **What was observed:** for example, a movement changed during an examination.
-- **What was proposed:** for example, attention or automatic control may be involved.
-- **What it means for me:** what the observation may help with, and what it does not prove.
+**No.** Functional seizures and panic attacks can share experiences such as shaking, breathing changes or fear, but they are not simply two names for the same event.
 
-A lower-demand version is to write only: “The observation was ___; the explanation offered was ___.”
+A panic attack is usually a sudden episode of intense fear or discomfort. During a functional seizure, movement, responsiveness or awareness may change in different ways. Fear may be present, but it is not required.
 
-Do not provoke symptoms, repeatedly test yourself, or ask someone to distract or surprise you to see what happens. Stop if the exercise increases symptoms, distress or constant self-monitoring. A clinician or therapist can help when an observation needs medical interpretation or when you want to use it in a treatment plan.
+A person may have both conditions. Clinicians look at the history and the pattern of each event, and use suitable tests when needed, to understand what is happening. (*citations* [1](#citation-1), [8](#citation-8))
+
+Functional seizures are **genuine and involuntary**. Researchers are exploring possible roles for networks involved in awareness, movement and body signals. No single network theory fully explains every type of functional seizure.
+
+### What does the research tell us today?
+
+Researchers can measure how a group performs a task, or find differences in brain scans. They can then test ideas about what those differences might mean.
+
+A group difference is not automatically the cause of a symptom. It also does not mean every person in that group has the same difference.
+
+One useful result of this research is that it gives clinicians better questions to ask and possible ways to guide rehabilitation. The next lesson looks at how physical health, emotions and surroundings can affect daily life alongside FND.
+
+### Questions to reflect on
+
+Which neurological question matters most to you: movement, awareness, memory, seizures or something else?
+
+Which idea here is a research finding, and which is still a possible explanation?
+
+### One small step
+
+You could ask your clinician:
+
+*“What have researchers actually measured about symptoms like mine, and what is still a theory?”*
+
+You do not need to test your symptoms or prove a theory yourself. Your own experiences and the clinician's assessment are both important.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -120,13 +120,29 @@ Do not provoke symptoms, repeatedly test yourself, or ask someone to distract or
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-A change in a symptom during distraction, automatic movement or a different setting does not show that the person was pretending before the change. It may show that the nervous system can access a function under some conditions even though the person cannot reliably control when that happens.
+### Understanding what a change may show
 
-Do not secretly test the person, draw attention to every movement, or insist that they should be able to repeat a better moment. That turns support into surveillance and can damage trust.
+Imagine someone who struggles to lift a leg during an examination but moves it more easily during another task. The difference tells the clinician something about how that movement is being controlled.
 
-If the person finds one of these models useful, ask what it helps them understand or practise. If the model does not fit their experience, do not force it. Practical help can still focus on safety, reduced demands, treatment access, communication and meaningful activity without agreeing on one mechanism.
+For the person, the difficulty remains genuine and involuntary. That one observation cannot tell us how safely or reliably the movement will work in everyday life. (*citations* [4](#citation-4), [5](#citation-5))
 
-New or substantially changed symptoms still deserve appropriate assessment. A brain-network theory should never be used to explain away a medical change.
+A helpful response might be: *“That sounds like useful information for your care team. What did they say it means for you?”*
+
+### Using explanations in everyday life
+
+Brain-network ideas may help some people understand why a function changes with the task, surroundings or attention. Others may find the theories confusing or unrelated to their experience.
+
+Ask what part of an explanation makes sense to the person. If they want help remembering it, write down the clinician's explanation in their own words.
+
+Some practical support is independent of any theory: a quieter space, access to rest, a mobility aid, seizure safety planning or help attending rehabilitation.
+
+### Making room for uncertainty
+
+A theory about prediction, attention or brain chemistry is a way to investigate FND—not a home test or a reason to insist someone repeat a better moment.
+
+Supporters can encourage curiosity and meaningful goals without needing to solve the neurological mechanism.
+
+The person can still ask for assessment of new or substantially different symptoms, whatever explanation they have been given.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -138,39 +154,43 @@ New or substantially changed symptoms still deserve appropriate assessment. A br
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Research quotations for review
+### A network-level question: how can function change without a matching lesion?
 
-These quotations are offered as two possible evidence anchors for this section. Both papers describe developing research frameworks; neither establishes an individual diagnostic biomarker.
+Clinical observations provide one starting point. In some functional motor presentations, performance varies across tasks in ways that can support a positive diagnosis. This is evidence about **the function demonstrated during those tasks**, rather than a complete measure of day-to-day capacity. Bennett and colleagues' 2021 review describes this positive approach. The 2015 physiotherapy consensus discusses how preserved automatic movements may inform retraining. (*citations* [4](#citation-4), [5](#citation-5))
 
-**Option 1 — Drane et al., 2021**
+The patient's question is often more ambitious: *What neural process makes this possible?* Network and predictive-processing research addresses parts of that question, though it does not yet supply a single mechanism for all FND presentations.
 
-> “In this perspective article, we briefly review five constructs that are affected in FND: emotion processing (including salience), agency, attention, interoception, and predictive processing/inference.”
+### What has been measured?
 
-**Option 2 — Bègue et al., 2019**
+Functional brain imaging examines signals related to activity and connections among brain regions. Studies have reported group-level differences involving networks for movement, salience, emotion, attention and agency, with variation across symptoms, tasks and samples. Hallett and colleagues (2022) synthesize work on subtypes and possible shared mechanisms. Drane and colleagues (2021) organize five active research constructs: emotion/salience, agency, attention, interoception and predictive processing. These reviews are useful maps of the research, not proof of a common causal pathway. (*citations* [1](#citation-1), [3](#citation-3))
 
-> “it remains unclear whether structural alterations relate to predisposing vulnerabilities or consequences of the disorder.”
+Structural imaging contributes a related but distinct line of evidence. The Bègue and colleagues (2019) review surveys structural findings and the unresolved question of whether alterations could be vulnerabilities, consequences or other correlates. (*citation* [2](#citation-2))
 
-*Figure 1 — Research quotations offered for editorial selection. (*citations* [2](#citation-2), [3](#citation-3))*
+A concrete example is Perez and colleagues' 2018 study comparing **26 motor-FND participants with 27 controls**. There was **no whole-brain-corrected cortical-thickness difference for the full FND group**. Certain dissociation measures were associated with regional thickness findings, including left caudal anterior cingulate and right lateral occipital cortex measures, in specified analyses. The associations do not establish cause, provide an individual biomarker or extend automatically to functional cognitive disorder. (*citation* [6](#citation-6))
 
-### Explain the level of evidence
+### What has been learned about brain chemistry?
 
-Separate the patient's demonstrated clinical findings from research results and mechanism models. Task-based behavioural differences or positive signs may support diagnosis. Group differences in functional imaging or connectivity do not currently provide an individual diagnostic biomarker. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+Charney and colleagues (2024) examined brain chemicals with magnetic resonance spectroscopy in a **small paediatric FND sample** and found group-level neurometabolite differences. This is a method for studying biological processes that conventional diagnostic scans do not directly measure. The cross-sectional findings leave direction of effect, generalizability to adults and diagnostic usefulness unresolved. (*citation* [7](#citation-7))
 
-When using predictive-processing or active-inference language, explain prediction, sensory evidence and precision without implying conscious expectation. When discussing attention, distinguish an automatically captured process from deliberate focus. When discussing agency, state directly that an altered feeling of control does not make the symptom voluntary. (*citations* [1](#citation-1), [3](#citation-3))
+The clinical value today is a more biologically informed conversation: brain-chemistry differences are being investigated, but no validated chemical signature explains the individual patient's FND.
 
-### Connect assessment to the patient's presentation
+### How might prediction, attention and agency matter?
 
-Begin with history, symptom form and time course, positive signs, and relevant neurological examination. Use targeted tests and specialist assessment for defined differential or comorbidity questions. Research measures of salience, interoception, emotion processing, connectivity or agency should not be presented as clinical proof unless they have been validated for that purpose. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
+In predictive-processing accounts, the nervous system combines incoming sensory evidence with expectations formed from earlier information. The weighting of those sources is proposed to influence perception and action. Attention can select information automatically; **agency** concerns the experience of owning and controlling an action. These are scientific constructs, not interchangeable words for conscious choice. (*citations* [1](#citation-1), [3](#citation-3))
 
-Interpret studies with attention to sample size, symptom mix, medication, psychiatric and neurological comorbidity, task design, replication and direction of effect. A difference associated with FND may be a contributor, consequence, compensation or unrelated group finding. (*citations* [2](#citation-2), [3](#citation-3))
+For a patient, their usefulness depends on linking the model to an actual observation. If tremor changes during a competing rhythmic task, the examination finding is directly observed. Interpreting it through prediction or attention is an additional, testable explanation. A patient's response during treatment may help guide therapy without uniquely confirming that model. (*citations* [4](#citation-4), [5](#citation-5))
 
-### Use models to support care, not restrict it
+### Functional seizures and panic: distinguishing the experiences
 
-A model may help a patient understand an examination finding or engage with motor retraining, attention strategies or another individualized intervention. Choose language with the patient and keep the treatment goal meaningful even if the proposed mechanism remains uncertain. (*citations* [4](#citation-4), [5](#citation-5))
+Functional seizures are clinical events, not simply another label for panic attacks. The experiences may overlap, and panic symptoms may precede or accompany some events, but intense fear is not a necessary feature of every functional seizure. The neurological diagnosis uses event history, observed features and appropriate investigations; the current AAN functional-seizures guideline also addresses assessment for co-occurring epilepsy. (*citation* [8](#citation-8))
 
-Treatment response does not confirm the model or reveal the original cause. Do not make acceptance of one theory a condition of care. When symptoms persist, continue validation, symptom management, safety planning, accessibility, participation and agreed reassessment. (*citations* [1](#citation-1), [4](#citation-4), [5](#citation-5))
+This distinction has practical importance for the patient asking whether their seizure is “only psychological.” There may be emotion-related physiological processes worth investigating, but the experience is involuntary. The language of networks and automatic processes can explain why neurologic and emotional systems interact without treating one as proof that the other caused the episode. (*citations* [1](#citation-1), [3](#citation-3))
 
-New, severe, injured or substantially changed symptoms require proportionate medical review rather than automatic attribution to the existing formulation.
+### Translating science into useful understanding
+
+A full explanation can identify **three levels**: the positive clinical evidence for this person's diagnosis; group research findings that inform possible mechanisms; and the patient's own symptoms, priorities and response to care.
+
+These levels work together. A clinician can describe what is observed, make an informed hypothesis about mechanisms, and offer useful care while research continues. Structural, functional and chemistry studies are expanding what can be investigated; their current limits are part of the evidence itself.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -191,7 +211,7 @@ New, severe, injured or substantially changed symptoms require proportionate med
 
 ### What this evidence can and cannot establish
 
-The broad Hallett review and Drane perspective describe developing network and predictive-processing models. The Bègue systematic review reports structural findings in some study groups but states that their meaning and direction remain uncertain. Bennett’s clinical review and the physiotherapy consensus connect attention and automatic movement to clinical explanation and rehabilitation; the consensus is professional guidance, not proof that one mechanism or technique applies to every FND presentation. None of these sources supplies an individual brain-scan or network biomarker for FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4), [5](#citation-5))
+The broad Hallett review and Drane perspective describe developing network and predictive-processing models. The Bègue review and Perez study provide structural imaging evidence with important limits on group comparisons and direction of effect. Charney's small paediatric spectroscopy study adds an early brain-chemistry line of investigation; the AAN guideline supports presentation-specific functional-seizure assessment. Bennett’s clinical review and the physiotherapy consensus connect attention and automatic movement to clinical explanation and rehabilitation; the consensus is professional guidance, not proof that one mechanism or technique applies to every FND presentation. None of these sources supplies an individual brain-scan or network biomarker for FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4), [5](#citation-5))
 
 ### Citation table
 
@@ -203,6 +223,9 @@ The broad Hallett review and Drane perspective describe developing network and p
 | <a id="citation-4"></a>**[4]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
 | <a id="citation-5"></a>**[5]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
 | <a id="citation-6"></a>**[6]** | — | Perez DL, Matin N, Williams B, et al. Cortical thickness alterations linked to somatoform and psychological dissociation in functional neurological disorders. *Human Brain Mapping*. 2018;39(1):428–439. [DOI](https://doi.org/10.1002/hbm.23853). [FND-CIT-0190](../../../research/citation-index.md#fnd-cit-0190). Motor-FND/dissociation associations; not causal evidence or an FCD biomarker. |
+| <a id="citation-7"></a>**[7]** | — | Charney M, Foster S, Shukla V, et al. Neurometabolic alterations in children and adolescents with functional neurological disorder. *NeuroImage: Clinical*. 2024;41:103557. [FND-CIT-0044](../../../research/citation-index.md#fnd-cit-0044). [DOI](https://doi.org/10.1016/j.nicl.2023.103557). Small paediatric neurometabolic study; neither causal proof nor a diagnostic biomarker. |
+| <a id="citation-8"></a>**[8]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [DOI](https://doi.org/10.1212/WNL.0000000000214466). Diagnosis-informed management and co-occurring epilepsy; not evidence of a single functional-seizure mechanism. |
+
 
 This page still needs review by people with FND, supporters, clinicians and researchers, especially to ensure that proposed models remain clearly separate from diagnostic evidence.
 
