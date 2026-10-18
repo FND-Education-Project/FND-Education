@@ -1,105 +1,77 @@
-# Local learner-progress implementation and account rollout
+# Account-based learner progress and preferences
 
-## Current scope: browser-local progress
+Status: feature implementation and backend deployment plan in PR #154.
+**Not enabled in production.** No learner database, OAuth credentials, account
+Worker deployment or public sign-in has been activated.
 
-This is a **guest-friendly, no-account-required** progress layer. The canonical
-course Markdown stays unchanged. The website generator publishes
-`/assets/data/course-progress.json` directly from its canonical module and
-lesson discovery. A local JavaScript enhancement builds a collapsible view of
-the six course parts and 23 modules. The list of lessons adapts to curriculum
-updates without requiring hand-maintained JavaScript lesson titles.
+## Approved learning experience
 
-Progress states:
+All course and Reference material is public without a sign-in. Learners who
+choose to save progress must sign in; we do **not** save course status in a
+shared browser's localStorage.
 
-- **Not started:** the lesson has not been visited or manually completed.
-- **Visited:** a learner opened the lesson, regardless of time spent or scrolling.
-- **Completed:** the learner explicitly checked Complete or used Mark complete
-  and continue. They can uncheck completion, and revisiting does not recheck it.
-- Only the 74 focused lessons count toward totals. Module overview pages,
-  reference pages, crosswords, and other activities are not prerequisites.
+The course index displays collapsible Parts > Modules > Lessons from
+`web/assets/data/course-progress.json`, regenerated from canonical course
+Markdown. The 74 lessons count toward progress; module introductions and
+optional crosswords do not.
 
-Navigation affordances:
+- Each visitor can read any page without an account.
+- A signed-in learner sees their username prominently in the site header.
+- Opening a lesson records **Visited** for the active account, not Completed.
+- Clicking or unclicking **Complete** always opens a new confirmation dialog
+  with the **active username in large type**. There is no bypass toggle.
+- The combined **Mark completed & continue** action does the same check.
+- Home and course pages can continue at the account's previous lesson.
+- Only contextual course-navigation links get compact status indicators.
+- Learners can reset progress while keeping their identity, or export and
+  delete their learner account separately.
+- Without a configured/available account API, published lesson content and
+  static course index remain readable, not replaced by fictitious progress.
 
-- Course landing page: expandable parts and modules, a completion total,
-  a native progress bar, direct lesson links and reversible checkboxes.
-- Lesson pages: completion control, current status, and an optional
-  Mark complete and continue button pointing to the existing next course page.
-- Lesson and module-navigation links: contextual visited/completed markers
-  where they assist readers. Avoid decorating every editorial inline link.
-- Home: Continue where you left off appears after visiting a lesson.
-- Site menu: My Progress points to the course overview.
-- If JavaScript or the manifest fails, the existing static course
-  index, lesson text and Previous/Next navigation remain in place.
+## Account preferences and shared devices
 
-## Local data and privacy
+Display username, theme (`system`, `light`, `dark`), and optional
+inactivity sign-out (`Off`, 15 min, 1h, 1 day, 7 days) belong to each account
+in a dedicated D1 database.
 
-The browser saves only a versioned object containing stable lesson IDs,
-visited/completed Boolean flags, and the most recently opened lesson ID in
-localStorage under `fnd-course-progress-v1`.
+**Off is the default**, so there is no inactivity-based sign-out for people
+who prefer to stay signed in. Server credentials nevertheless have a
+renewable 180-day safety cap. This differs from a default auto-logout
+schedule. Logout/switch-user visibly revokes the active session.
 
-- No name, email, device identifier, scroll tracking, time-on-page, medical
-  symptom record, provider credential, or free-text answer is saved.
-- No course progress leaves the browser, and nothing is joined to
-  anonymous analytics.
-- Clearing site data, switching devices/browsers, or using private browsing
-  can lose progress. If storage is blocked, status works temporarily in the
-  active page, with a visible warning.
-- Learners can clear local progress from the overview, with confirmation.
-- URLs are derived only from validated, same-origin published course routes.
-  Saved local data is treated as untrusted and sanitized.
+A prominent username makes accidental actions less likely but cannot
+prevent a caregiver accidentally browsing under another account. Completed
+status always requires confirmation. A read-only course page is public.
 
-No external account / cross-device sync is live. Do not imply otherwise in
-public UI or the privacy notice.
+## Security and privacy
 
-## Future optional accounts — security gates
+Learner credentials are managed by Google/Apple (provider integrations
+require live verification); the project never has their passwords. Only a
+provider's opaque subject plus a generated internal learner ID is needed.
+Do not store provider emails, personal profiles or diagnosis history.
 
-Follow the separate `tools/analytics/cloudflare/ACCESS-AND-PROGRESS-PLAN.md`
-before enabling any learner sign-in. Do not deploy an empty or
-non-functioning Google, Apple, Amazon, or Facebook sign-in button.
+A dedicated Cloudflare Worker verifies OIDC identities and uses Secure
+HttpOnly cookies, rotating session renewal, state + nonce + PKCE, exact CORS,
+account-bound CSRF and server-authorized D1 reads/writes. No learner data is
+joined to anonymous aggregate analytics. Provider emails must never be used
+to link accounts without proving control of both identities.
 
-Next stage: provision **separate learner** D1 data/access controls and Worker
-endpoints, independent from anonymous analytics and Cloudflare Access admin
-authorization. Select provider integrations after validating current free
-allowances, terms, privacy implications, redirects and registration requirements.
+The production Worker is not connected: see
+`tools/learner-cloudflare/README.md` for separate D1, custom-domain,
+OAuth registration, Apple browser support, security acceptance, rate limits,
+provider policy, privacy notice and enablement gates.
 
-Use supported OIDC/OAuth flows with PKCE, CSRF state, nonce where relevant,
-strict token issuer/audience/signature verification, exact redirects and
-secure HttpOnly sessions. Authorize all reads/writes using a verified learner
-identity, not a client-provided learner ID. Link providers only with explicit
-proof of control of both accounts. Offer export, deletion, and deliberate
-device-to-account transfer and merge after tested conflict handling.
+## Build and accessibility validation
 
-Do not silently upload historical browser-local progress at sign-in; ask first.
-Keep any learner's course history out of public analytics. Account recovery
-belongs to their provider; the site must not store learner passwords.
+GitHub Actions runs the website generator, generated-source validation,
+Jekyll/Pagefind, built-artifact checks, JS syntax and offline Worker boundary
+tests. The latter are **not** complete security tests.
 
-## Validation and accessibility checklist
+Before allowing public accounts, perform real provider sign-in testing,
+including Apple mobile Safari, cross-origin cookies, account A/B isolation,
+fresh login, persistent session renewal and revocation, optional idle
+sign-out, all completion confirmations, keyboard focus/escape, themes,
+tablet/phone, export/delete, clear progress, and failures/offline behavior.
 
-Automated site build:
-
-1. Run `python tools/site/prepare_site.py`.
-2. Run `python tools/site/validate.py`. This now asserts the generated
-   manifest includes every published module and lesson URL once, uses
-   unique stable lesson IDs and includes valid titles.
-3. Build Jekyll and validate the built artifact via the existing Pages CI.
-
-Manual browser review before merge:
-
-- Guest visiting a lesson changes Not started to Visited, never Completed.
-- Checking and unchecking a lesson works from both overview and lesson page.
-- Revisiting an unchecked lesson does not mark it complete again.
-- Navigating back from a lesson preserves completed status and open groups.
-- Clear my progress resets status and Continue links after confirmation.
-- Refresh and another tab show saved status; private/blocked storage shows
-  an appropriate warning.
-- Course overview still navigates with no JavaScript or missing manifest.
-- Keyboard, screen reader, focus retention, text zoom, dark/light themes and
-  narrow phones remain usable.
-- Anonymous metrics have no new learner-related events or identifiers.
-
-## Future usability refinements
-
-Optional, after feedback: explicit JSON export/import for guest backup;
-a review activity link beside each module, with no scoring requirement;
-and deliberate device-to-account sync. Do not make puzzles a completion
-requirement or use lesson completion as a health outcome.
+Canonical lesson sources remain unchanged. The implementation is separated
+from the editorial audits and existing metrics Worker.
