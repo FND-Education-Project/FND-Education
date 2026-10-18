@@ -187,6 +187,8 @@ async function beginLogin(req, env, provider) {
   target.searchParams.set("nonce", nonce);
   target.searchParams.set("code_challenge", challenge);
   target.searchParams.set("code_challenge_method", "S256");
+  // On shared devices, Google must offer a deliberate account choice.
+  if (provider === "google") target.searchParams.set("prompt", "select_account");
   if (provider === "apple") target.searchParams.set("response_mode", "form_post");
   return redirect(target.toString(), [flowCookie(state)]);
 }
