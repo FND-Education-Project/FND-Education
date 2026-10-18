@@ -164,6 +164,9 @@ The patient's question is often more ambitious: *What neural process makes this 
 
 Functional brain imaging examines signals related to activity and connections among brain regions. Studies have reported group-level differences involving networks for movement, salience, emotion, attention and agency, with variation across symptoms, tasks and samples. Hallett and colleagues (2022) synthesize work on subtypes and possible shared mechanisms. Drane and colleagues (2021) organize five active research constructs: emotion/salience, agency, attention, interoception and predictive processing. These reviews are useful maps of the research, not proof of a common causal pathway. (*citations* [1](#citation-1), [3](#citation-3))
 
+### What a structural imaging study can show
+{: #what-a-structural-imaging-study-can-show .shareable }
+
 Structural imaging contributes a related but distinct line of evidence. The Bègue and colleagues (2019) review surveys structural findings and the unresolved question of whether alterations could be vulnerabilities, consequences or other correlates. (*citation* [2](#citation-2))
 
 A concrete example is Perez and colleagues' 2018 study comparing **26 motor-FND participants with 27 controls**. There was **no whole-brain-corrected cortical-thickness difference for the full FND group**. Certain dissociation measures were associated with regional thickness findings, including left caudal anterior cingulate and right lateral occipital cortex measures, in specified analyses. The associations do not establish cause, provide an individual biomarker or extend automatically to functional cognitive disorder. (*citation* [6](#citation-6))
