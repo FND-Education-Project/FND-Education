@@ -14,6 +14,7 @@
 
 const DAY = 86400;
 const SESSION_LIFE = 180 * DAY; // Sliding safety cap, not inactivity logout.
+const RETAIN_INACTIVE_YEARS = 3; // Long-term abandoned account cleanup only.
 const FLOW_LIFE = 600;
 const SESSION_COOKIE = "__Host-fnd_learner_session";
 const FLOW_COOKIE = "__Host-fnd_oauth_flow";
@@ -34,6 +35,12 @@ const PROVIDERS = {
 };
 
 function now() { return Math.floor(Date.now() / 1000); }
+function inactivityCutoff() {
+  // Calendar years, not a fixed 365-day approximation.
+  const cutoff = new Date();
+  cutoff.setUTCFullYear(cutoff.getUTCFullYear() - RETAIN_INACTIVE_YEARS);
+  return Math.floor(cutoff.getTime() / 1000);
+}
 function randomToken(bytes = 32) {
   const raw = new Uint8Array(bytes);
   crypto.getRandomValues(raw);
@@ -287,8 +294,8 @@ async function callback(req, env, provider) {
     const name = "Learner " + randomToken(5).slice(0, 6).toUpperCase();
     await env.DB.batch([
       env.DB.prepare(
-        "INSERT INTO learners (id, username, created_at) VALUES (?, ?, ?)"
-      ).bind(id, name, now()),
+        "INSERT INTO learners (id, username, created_at, last_seen_at) VALUES (?, ?, ?, ?)"
+      ).bind(id, name, now(), now()),
       env.DB.prepare(
         "INSERT OR IGNORE INTO identities (provider, subject, learner_id) VALUES (?, ?, ?)"
       ).bind(provider, subject, id)
@@ -323,9 +330,17 @@ async function authorize(req, env) {
       .bind(hash).run();
     return null;
   }
-  await env.DB.prepare(
-    "UPDATE learner_sessions SET last_active = ? WHERE token_hash = ?"
-  ).bind(now(), hash).run();
+  // Track authenticated account activity; not the public browsing history.
+  // The retained timestamp prevents deletion of people actively using the
+  // course. Write it only once per day to avoid unnecessary D1 writes.
+  await env.DB.batch([
+    env.DB.prepare(
+      "UPDATE learner_sessions SET last_active = ? WHERE token_hash = ?"
+    ).bind(now(), hash),
+    env.DB.prepare(
+      "UPDATE learners SET last_seen_at = ? WHERE id = ? AND last_seen_at < ?"
+    ).bind(now(), account.learner_id, now() - DAY)
+  ]);
   account.session_token = token;
   return account;
 }
@@ -509,12 +524,26 @@ async function handle(req, env) {
 export default {
   async scheduled(_event, env, ctx) {
     // Bounded database cleanup; do not record or log learner identities.
-    ctx.waitUntil(Promise.all([
-      env.DB.prepare("DELETE FROM oauth_flows WHERE expires_at < ?")
-        .bind(now()).run(),
-      env.DB.prepare("DELETE FROM learner_sessions WHERE expires_at < ?")
-        .bind(now()).run()
-    ]));
+    ctx.waitUntil((async () => {
+      // Clean sessions first. A learner deletion removes all linked
+      // identities, session records, and lesson progress via CASCADE.
+      // Keep deletion batches small to respect Workers Free plan limits.
+      await env.DB.batch([
+        env.DB.prepare("DELETE FROM oauth_flows WHERE expires_at < ?")
+          .bind(now()),
+        env.DB.prepare("DELETE FROM learner_sessions WHERE expires_at < ?")
+          .bind(now())
+      ]);
+      await env.DB.prepare(
+        "DELETE FROM learners WHERE id IN (" +
+          "SELECT l.id FROM learners l " +
+          "WHERE l.last_seen_at < ? AND NOT EXISTS (" +
+            "SELECT 1 FROM learner_sessions s " +
+            "WHERE s.learner_id = l.id AND s.expires_at > ?" +
+          ") ORDER BY l.last_seen_at ASC LIMIT 100" +
+        ")"
+      ).bind(inactivityCutoff(), now()).run();
+    })());
   },
   async fetch(req, env) {
     try {
