@@ -110,6 +110,20 @@ button:focus-visible,select:focus-visible,a:focus-visible,summary:focus-visible{
 <details><summary>Show daily table for this period</summary>
 <div class="table-wrap"><table><thead><tr><th scope="col">Date (UTC)</th><th scope="col">Pages</th><th scope="col">Searches</th><th scope="col">Result clicks</th><th scope="col">Downloads</th><th scope="col">404s</th></tr></thead>
 <tbody id="history-body"></tbody></table></div></details></section>
+<section class="history" aria-labelledby="monthly-history-title">
+<h2 id="monthly-history-title">Archived monthly statistics</h2>
+<details id="monthly-history">
+<summary>Show older monthly totals (up to five years)</summary>
+<p class="muted">Older daily records are combined by month. Numbers are
+events, not individual visitors. Recently completed months remain in the
+daily view until the 120-day retention period ends.</p>
+<p id="monthly-message" role="status"></p>
+<div class="table-wrap"><table>
+<thead><tr><th scope="col">Month (UTC)</th><th scope="col">Page opens</th>
+<th scope="col">Searches</th><th scope="col">Result clicks</th>
+<th scope="col">Download clicks</th><th scope="col">404 events</th></tr></thead>
+<tbody id="monthly-body"></tbody></table></div>
+</details></section>
 <p class="muted">Dates use UTC. Search counts are debounced; links clicked are not proof of completed downloads. Bots can inflate totals and privacy tools can block counters. No unique visitors, IP addresses, search words, referrers, or individual pages are stored in project analytics.</p>
 <p><a href="https://fndeducationproject.org/">Return to the public website</a></p>
 </main><script src="/admin/app.js" defer></script></body></html>`;
@@ -328,6 +342,56 @@ export const adminScript = `"use strict";
       $("updated").textContent = "";
     }
   }
+  // Archived totals are requested only on demand and never from the public
+  // event collector. Build rows with textContent, never HTML interpolation.
+  const monthlyPanel = $("monthly-history");
+  let loadedMonths = false;
+  monthlyPanel.addEventListener("toggle", async function () {
+    if (!monthlyPanel.open || loadedMonths) return;
+    const message = $("monthly-message");
+    message.textContent = "Loading archived monthly totals…";
+    try {
+      const response = await fetch("/admin/api/monthly", {
+        credentials: "same-origin", cache: "no-store", redirect: "error"
+      });
+      if (!response.ok) throw new Error("Monthly archive is not available yet.");
+      const data = await response.json();
+      if (!data || !Array.isArray(data.rows)) {
+        throw new Error("Unexpected monthly archive response.");
+      }
+      const grouped = new Map();
+      for (const item of data.rows) {
+        if (!/^\d{4}-\d{2}$/.test(item.month) ||
+            !Object.hasOwn(EVENT_LABELS, item.event) ||
+            !Number.isSafeInteger(item.total) || item.total < 0) continue;
+        const counts = grouped.get(item.month) || Object.create(null);
+        counts[item.event] = (counts[item.event] || 0) + item.total;
+        grouped.set(item.month, counts);
+      }
+      const body = $("monthly-body");
+      clear(body);
+      for (const [month, counts] of Array.from(grouped.entries())
+        .sort((a, b) => b[0].localeCompare(a[0]))) {
+        const tr = document.createElement("tr");
+        tr.append(
+          cell(month),
+          cell(number(counts.page_view || 0)),
+          cell(number(counts.search_used || 0)),
+          cell(number(counts.search_result_click || 0)),
+          cell(number((counts.pdf_download || 0) +
+            (counts.puzzle_download || 0))),
+          cell(number(counts.not_found || 0))
+        );
+        body.append(tr);
+      }
+      message.textContent = grouped.size
+        ? "Archived monthly totals (UTC)." :
+          "No months have been archived yet.";
+      loadedMonths = true;
+    } catch (error) {
+      message.textContent = error.message;
+    }
+  });
   $("period").addEventListener("change", load);
   load();
 })();`;
