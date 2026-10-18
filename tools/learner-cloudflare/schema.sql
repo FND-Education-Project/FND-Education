@@ -10,8 +10,13 @@ CREATE TABLE IF NOT EXISTS learners (
   idle_minutes INTEGER NOT NULL DEFAULT 0
     CHECK (idle_minutes IN (0, 15, 60, 1440, 10080)),
   last_lesson TEXT,
-  created_at INTEGER NOT NULL
+  created_at INTEGER NOT NULL,
+  -- Updated after authenticated use, separate from optional idle sign-out.
+  last_seen_at INTEGER NOT NULL
 );
+
+CREATE INDEX IF NOT EXISTS idx_learners_last_seen
+  ON learners(last_seen_at);
 
 CREATE TABLE IF NOT EXISTS identities (
   provider TEXT NOT NULL CHECK (provider IN ('google', 'apple')),
