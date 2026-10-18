@@ -197,6 +197,10 @@
           window.location.assign(destination); return;
         }
         render();
+        const focused = document.querySelector(
+          'input[data-progress-lesson="' + lesson.id + '"]'
+        );
+        if (focused) focused.focus();
       } catch (error) {
         alertFeedback(error.message || "Progress was not saved. Try again.");
       } finally { mutationPending = false; }
@@ -206,6 +210,7 @@
       const label = el("label", "course-progress-checkbox");
       const input = el("input");
       input.type = "checkbox";
+      input.dataset.progressLesson = lesson.id;
       input.checked = get(lesson.id).completed;
       input.setAttribute("aria-label", "Change completion for " + lesson.title);
       input.addEventListener("change", function () {
