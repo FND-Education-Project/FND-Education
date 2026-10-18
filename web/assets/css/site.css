@@ -1890,3 +1890,182 @@ button:focus-visible {
     margin: 0.4rem 0.2rem;
   }
 }
+
+
+/* ---------- Account-based learner identity and confirmation ---------- */
+
+/*
+ * Explicit account preferences override OS colour preferences everywhere.
+ * The existing theme remains the default when no account is signed in.
+ */
+html[data-theme="light"] {
+  color-scheme: light;
+  --background: #f4f7f8;
+  --surface: #ffffff;
+  --text: #17242b;
+  --muted: #53636c;
+  --accent: #176b78;
+  --accent-strong: #0f505a;
+  --accent-soft: #e7f4f5;
+  --border: #cfdbdf;
+  --shadow: 0 12px 34px rgba(23, 36, 43, 0.08);
+}
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --background: #101619;
+  --surface: #172126;
+  --text: #eef5f6;
+  --muted: #b7c4c8;
+  --accent: #75c6cf;
+  --accent-strong: #9bd9df;
+  --accent-soft: #19353a;
+  --border: #34474e;
+  --shadow: 0 12px 34px rgba(0, 0, 0, 0.22);
+}
+.learner-account-shell[hidden] { display: none; }
+.learner-account-shell {
+  grid-column: 1 / -1;
+  padding: 0.65rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 0.6rem;
+  background: var(--accent-soft);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem 1.5rem;
+  align-items: center;
+  justify-content: space-between;
+}
+.account-status {
+  display: flex;
+  flex-direction: column;
+  min-width: 10rem;
+  line-height: 1.35;
+}
+.account-caption, .account-status > span, .account-note {
+  font-size: 0.84rem;
+  color: var(--muted);
+}
+.account-username {
+  font-size: 1.3rem;
+  font-weight: 800;
+  overflow-wrap: anywhere;
+}
+.account-actions { display: flex; gap: 0.65rem; flex-wrap: wrap; }
+.account-actions a, .account-settings button {
+  display: inline-flex;
+  min-height: 44px;
+  padding: 0.55rem 0.8rem;
+  border: 1px solid var(--accent);
+  border-radius: 0.45rem;
+  background: var(--surface);
+  color: var(--accent-strong);
+  font: inherit;
+  font-weight: 650;
+  align-items: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+.account-settings {
+  max-width: 100%;
+  min-width: min(100%, 19rem);
+}
+.account-settings summary {
+  cursor: pointer;
+  font-weight: 700;
+  min-height: 44px;
+  padding: 0.4rem;
+}
+.account-settings-form {
+  display: grid;
+  gap: 0.6rem;
+  margin: 0.5rem 0;
+}
+.account-settings-form label {
+  display: grid;
+  gap: 0.3rem;
+  font-weight: 600;
+  font-size: 0.91rem;
+}
+.account-settings-form :is(select, input) {
+  max-width: 100%;
+  min-height: 44px;
+  padding: 0.5rem;
+  font: inherit;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 0.4rem;
+}
+.account-settings > a {
+  display: block;
+  min-height: 44px;
+  margin-top: 0.45rem;
+}
+.account-settings button {
+  margin: 0.35rem 0.35rem 0.35rem 0;
+}
+.account-feedback {
+  margin: 0;
+  font-size: 0.9rem;
+}
+.course-progress-confirmation {
+  position: fixed;
+  width: min(92vw, 30rem);
+  max-height: min(90vh, 45rem);
+  overflow: auto;
+  padding: clamp(1rem, 4vw, 2rem);
+  border: 2px solid var(--accent);
+  border-radius: 0.75rem;
+  background: var(--surface);
+  color: var(--text);
+  box-shadow: var(--shadow);
+}
+.course-progress-confirmation::backdrop {
+  background: rgba(0, 0, 0, 0.68);
+}
+.course-progress-confirmation h2 { margin-top: 0; }
+.course-confirm-username {
+  display: block;
+  padding: 0.5rem;
+  margin: 0.6rem 0 0.9rem;
+  font-size: clamp(1.7rem, 5vw, 2.4rem);
+  line-height: 1.2;
+  font-weight: 850;
+  text-align: center;
+  overflow-wrap: anywhere;
+  background: var(--accent-soft);
+  border: 1px solid var(--border);
+  border-radius: 0.45rem;
+}
+.course-confirm-lesson { font-weight: 650; }
+.course-confirm-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  justify-content: flex-end;
+}
+.course-confirm-actions button {
+  min-height: 44px;
+  padding: 0.6rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 0.4rem;
+  color: var(--text);
+  background: var(--surface);
+  font: inherit;
+  cursor: pointer;
+}
+.course-confirm-actions .course-progress-resume {
+  margin: 0;
+  background: var(--accent-soft);
+  color: var(--accent-strong);
+  border-color: var(--accent);
+}
+.course-progress-confirmation :focus-visible,
+.learner-account-shell :focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
+}
+@media (max-width: 40rem) {
+  .learner-account-shell { align-items: stretch; flex-direction: column; }
+  .course-confirm-actions button { flex: 1 1 100%; }
+}
