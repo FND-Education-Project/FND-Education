@@ -1,0 +1,10 @@
+{
+  "name": "fnd-learner-accounts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test-contract.mjs",
+    "check": "node --check worker.js"
+  }
+}
