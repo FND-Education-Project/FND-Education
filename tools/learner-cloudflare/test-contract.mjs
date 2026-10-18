@@ -72,3 +72,65 @@ test("server requires verified ownership and account CSRF", () => {
   assert.match(server, /confirmedUsername !== account\.username/);
   assert.match(server, /HttpOnly; SameSite=Lax/);
 });
+
+
+test("account deletion is present, confirmed, and cascades learner records", () => {
+  const server = readFileSync(new URL("./worker.js", import.meta.url), "utf8");
+  const schema = readFileSync(new URL("./schema.sql", import.meta.url), "utf8");
+  assert.match(accountScript, /Delete my learner account/);
+  assert.match(accountScript, /type your username exactly/);
+  assert.match(server, /DELETE FROM learners WHERE id = \?/);
+  assert.match(server, /input\.confirmedUsername !== account\.username/);
+  for (const name of ["identities", "learner_progress", "learner_sessions"]) {
+    assert.match(schema,
+      new RegExp("CREATE TABLE IF NOT EXISTS " + name + "[\\s\\S]*?" +
+        "REFERENCES learners\\(id\\) ON DELETE CASCADE"));
+  }
+});
+
+test("inactive learner maintenance preserves recent accounts and sessions", async () => {
+  const operations = [];
+  let background;
+  const db = {
+    prepare(sql) {
+      return {
+        bind(...values) {
+          const op = { sql, values };
+          operations.push(op);
+          return {
+            ...op,
+            async run() { return { success: true }; }
+          };
+        }
+      };
+    },
+    async batch(statements) {
+      assert.equal(statements.length, 2);
+      return statements.map(() => ({ success: true }));
+    }
+  };
+  worker.scheduled(null, { DB: db }, {
+    waitUntil(promise) { background = promise; }
+  });
+  await background;
+  assert.equal(operations.length, 3);
+  assert.match(operations[0].sql, /DELETE FROM oauth_flows/);
+  assert.match(operations[1].sql, /DELETE FROM learner_sessions/);
+  assert.match(operations[2].sql, /DELETE FROM learners/);
+  assert.match(operations[2].sql, /last_seen_at < \?/);
+  assert.match(operations[2].sql, /NOT EXISTS/);
+  assert.match(operations[2].sql, /s\.expires_at > \?/);
+  assert.match(operations[2].sql, /LIMIT 100/);
+  const yearsAgo = new Date();
+  yearsAgo.setUTCFullYear(yearsAgo.getUTCFullYear() - 3);
+  assert.ok(Math.abs(operations[2].values[0] -
+    Math.floor(yearsAgo.getTime() / 1000)) < 10);
+});
+
+test("inactivity and sign-out rules are distinct and explained", () => {
+  const schema = readFileSync(new URL("./schema.sql", import.meta.url), "utf8");
+  assert.match(schema, /idle_minutes INTEGER NOT NULL DEFAULT 0/);
+  assert.match(schema, /last_seen_at INTEGER NOT NULL/);
+  assert.match(accountScript, /unused for three years/);
+  assert.match(accountScript, /Automatic sign-out/);
+});
