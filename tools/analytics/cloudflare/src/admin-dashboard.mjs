@@ -361,7 +361,7 @@ export const adminScript = `"use strict";
       }
       const grouped = new Map();
       for (const item of data.rows) {
-        if (!/^\d{4}-\d{2}$/.test(item.month) ||
+        if (!/^\\d{4}-\\d{2}$/.test(item.month) ||
             !Object.hasOwn(EVENT_LABELS, item.event) ||
             !Number.isSafeInteger(item.total) || item.total < 0) continue;
         const counts = grouped.get(item.month) || Object.create(null);
