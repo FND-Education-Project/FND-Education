@@ -113,7 +113,7 @@
       <nav class="site-nav" aria-label="Main navigation">
         <a href="{{ '/' | relative_url }}">Home</a>
         <a href="{{ '/course/' | relative_url }}">Course</a>
-        <a href="{{ '/course/#course-progress' | relative_url }}">My Progress</a>
+        {% if site.learner_api_endpoint %}<a href="{{ '/course/#course-progress' | relative_url }}">My Progress</a>{% endif %}
         <a href="{{ '/reference/' | relative_url }}">Reference</a>
         <a href="{{ '/glossary/' | relative_url }}">Glossary</a>
         <a href="{{ '/booklets/' | relative_url }}">Booklets</a>
