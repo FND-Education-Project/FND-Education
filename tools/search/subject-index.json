@@ -494,7 +494,10 @@
         "leg feels weak",
         "dragging a leg",
         "loss of power",
-        "limb gives way"
+        "limb gives way",
+        "give-way weakness",
+        "give way weakness",
+        "giveway weakness"
       ],
       "misspellings": [
         "functional limb weekness"
@@ -638,7 +641,9 @@
         "knees buckle",
         "legs buckle",
         "dragging leg",
-        "strange walking"
+        "strange walking",
+        "FND walking",
+        "staggered gait"
       ],
       "misspellings": [
         "functional gate disorder"
@@ -813,7 +818,8 @@
         "tunnel vision",
         "double vision",
         "vision comes and goes",
-        "can't see properly"
+        "can't see properly",
+        "functional blindness"
       ],
       "misspellings": [],
       "broader": [
@@ -842,7 +848,8 @@
         "voice disappears",
         "stuttering",
         "whispering voice",
-        "word blocking"
+        "word blocking",
+        "functional aphonia"
       ],
       "misspellings": [],
       "broader": [
@@ -1008,7 +1015,10 @@
         "facial spasm",
         "face droop",
         "jaw movement",
-        "eye closes"
+        "eye closes",
+        "facial dystonia",
+        "face dystonia",
+        "dystonia of the face"
       ],
       "misspellings": [],
       "broader": [
@@ -1332,7 +1342,8 @@
       "lay_phrases": [
         "retrain numbness",
         "desensitize painful touch",
-        "practice sensation"
+        "practice sensation",
+        "touch desensitization"
       ],
       "misspellings": [],
       "broader": [
@@ -2156,7 +2167,9 @@
       "lay_phrases": [
         "should I use a wheelchair",
         "walking stick for FND",
-        "mobility aid"
+        "mobility aid",
+        "FND aids",
+        "mobility aids for FND"
       ],
       "misspellings": [],
       "broader": [
