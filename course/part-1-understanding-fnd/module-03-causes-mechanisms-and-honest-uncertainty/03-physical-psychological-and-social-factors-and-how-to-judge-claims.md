@@ -74,13 +74,15 @@ Support is meaningful when it helps someone do things that matter to them. (*cit
 
 ### How do I know whether an explanation is trustworthy?
 
-It helps to ask **three simple questions**:
+It helps to ask **four simple questions**:
 
 **1. What do we actually know?** For example, a clinician diagnosed migraine. That is different from saying migraine caused FND.
 
 **2. What is still an idea?** A researcher may find a pattern in a group of people. It may offer an explanation worth studying without proving it applies to you.
 
-**3. What useful choice follows?** Perhaps migraine treatment, a quieter room or support with an appointment. Would that still help even if the explanation of FND later changed?
+**3. What else might explain it?** Perhaps a separate health condition or something in your surroundings also matters.
+
+**4. What useful choice follows?** Perhaps migraine treatment, a quieter room or support with an appointment. Would that still help even if the explanation of FND later changed?
 
 <figure class="image-60center" markdown="1">
 
