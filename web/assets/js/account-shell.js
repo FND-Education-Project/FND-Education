@@ -154,6 +154,15 @@
       "have a renewable lifespan and can be revoked.",
       "account-note");
     form.append(notice);
+    // No email is retained, so no email warning can be sent to a learner
+    // before the long-term inactivity deletion policy takes effect.
+    const retention = node("p",
+      "To protect privacy, learner accounts unused for three years are " +
+      "automatically removed, including their lesson progress. " +
+      "Signing in and using the account resets that period. " +
+      "We do not store an email address to send deletion reminders.",
+      "account-note");
+    form.append(retention);
     const message = node("p", "", "account-feedback");
     message.setAttribute("role", "status");
     const save = node("button", "Save preferences");
@@ -210,7 +219,11 @@
         "type your username exactly:\n" + me.username
       );
       if (typed !== me.username) return;
-      if (!window.confirm("Delete this learner account permanently?")) return;
+      if (!window.confirm(
+        "Delete this learner account, linked login identity, " +
+        "preferences and ALL saved lesson progress now? " +
+        "This cannot be undone."
+      )) return;
       deleteButton.disabled = true;
       try {
         await request("/v1/account", "DELETE", {
