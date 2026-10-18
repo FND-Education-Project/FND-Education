@@ -124,3 +124,52 @@ built-site validation. They do not deploy the account service.
 provides the account-first implementation and deployment foundation, but
 provider credentials, domain, database setup and end-to-end acceptance
 remain prerequisites. Do not merge as a public account launch.
+
+
+## Database maintenance and retention
+
+### Automatic cleanup
+
+The learner Worker includes a **daily Cron maintenance task** (04:00 UTC)
+that deletes expired OAuth login attempts and expired server sessions.
+It also removes at most **100 learner accounts per run** if they have had
+**no authenticated account activity in three calendar years**. A fresh
+authenticated request updates `last_seen_at` (at most once per day), and
+a learner with an unexpired session is excluded from deletion.
+
+The three-year rule is separate from each learner's optional inactivity
+*sign-out* setting. Disabling automatic sign-out does not exempt an account
+from long-term deletion. A genuinely active learner keeps their progress.
+
+Deletion relies on enforced SQLite/D1 foreign-key cascades: removing the
+learner must remove linked identity provider identifiers, lessons, preferences,
+and sessions. If migrations, constraints, or related tables change, test
+this explicitly with D1 before deployment. Cron should run without requiring
+visitors, and a failed job must be monitored and retried; never ignore errors.
+
+### User-initiated deletion
+
+A signed-in learner can select **Delete my learner account** in account
+preferences. The interface asks them to type their active username and
+confirm the permanent deletion. The Worker checks the secure session,
+exact-origin CSRF token, and username confirmation; it deletes the owning
+learner record and cascades associated data. It then clears that device's
+session cookie. A separate action resets lesson progress without deleting
+the learner account.
+
+### Privacy limitations
+
+Because account email addresses are not retained, **no email warning of
+an approaching inactivity deletion** is possible. Before first login and
+in account preferences, disclose the three-year policy. Export progress
+is available before deletion. Keep accounts no longer than necessary and
+do not join this database to anonymous statistics.
+
+Deletes remove records from the *active D1 database*. Cloudflare backups,
+PITR/time-travel copies, and provider platform logs might remain for a
+provider-controlled retention window; review and document those terms
+before claiming complete immediate erasure of every backup. Rate-limit
+destructive calls and test browser/account recovery cases.
+
+All cleanup work in this branch is unprovisioned; it becomes active only
+after the isolated learner D1 and Worker pass the production setup gates.
