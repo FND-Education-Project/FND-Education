@@ -4,9 +4,9 @@
 
 # Causes, Risk Factors, Triggers, and Maintaining Factors
 
-> **Working draft:** AI-assisted editorial revision under human and clinical review. [Contributors and reviewers](https://fndeducationproject.org/contact/) are welcome.
+> **Working draft:** This page was automatically generated. Human authoring and clinical review are pending. [Contributors and reviewers](https://fndeducationproject.org/contact/) are welcome.
 
-This lesson begins with a difficult question: **why did FND happen to me?** It separates what may have happened around the beginning, what the nervous system might be doing, and what can affect symptoms today. These questions are related, but they have different answers. (*citations* [1](#citation-1), [2](#citation-2))
+This lesson explores why FND may begin, how symptoms may happen, and what can affect them today. Learn how causes, risk factors, triggers and current influences differ.
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -38,6 +38,8 @@ A **mechanism** is the process that produces a symptom: *how* it happens inside 
 
 For example, scientists are studying whether changes in the way brain networks work together could help explain FND symptoms. Those studies tell us something about possible mechanisms, but they do not yet prove that an infection caused a particular person's FND. (*citations* [1](#citation-1), [2](#citation-2))
 
+A **risk factor** is something linked with a greater chance of developing a condition in a group of people. It helps researchers understand patterns; it does not determine what will happen to one person or establish their cause. (*citations* [1](#citation-1), [2](#citation-2))
+
 **Key idea:** Knowing *when* FND began is different from knowing *why* it began or *how* symptoms happen.
 
 ### Does FND always have a clear beginning?
@@ -60,7 +62,7 @@ Months later, the infection has gone. The person notices that poor sleep makes d
 
 Sleep may affect their symptoms *now*. That does not prove it caused the FND at the beginning.
 
-Pain, migraine, sensory overload and other demands may also affect how a person feels or functions. These are sometimes called **maintaining factors** when evidence suggests they help a problem continue. They may also be separate health concerns needing care of their own. (*citations* [5](#citation-5), [6](#citation-6), [7](#citation-7))
+Pain, migraine, sensory overload and other demands may also affect how a person feels or functions. These are sometimes called **[maintaining factors](../../../glossary/README.md#predisposing-precipitating-perpetuating-and-protective-factors)** when evidence suggests they help a problem continue. They may also be separate health concerns needing care of their own. (*citations* [5](#citation-5), [6](#citation-6), [7](#citation-7))
 
 Another community member wrote:
 
@@ -68,7 +70,7 @@ Another community member wrote:
 
 — *Lived experience:* the writer described their own pattern, not a cause that applies to everyone. [Read the public source](https://www.reddit.com/r/FND/comments/1bpx5du/how_many_autistics_are_here/).
 
-Some people notice patterns. Others do not. Neither is doing anything wrong.
+Some people notice patterns; others have symptoms that remain unpredictable. Both experiences deserve care. The Reference Library explores [sensory overload and unpredictable symptoms](../../../reference/biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md) in more depth.
 
 <figure class="image-60center" markdown="1">
 
@@ -86,7 +88,7 @@ For example, treating migraine may make daily life easier for a person who has b
 
 Scientists are also studying how brain activity, signalling and chemistry might be involved in functional symptoms. There are promising findings, but no single proven explanation for everyone. The next lesson takes a closer look.
 
-**Key idea:** You do not have to solve the cause of your FND before you can receive useful care.
+**Key idea:** Useful care can begin while the cause of your FND remains uncertain.
 
 ### Questions to reflect on
 
@@ -100,14 +102,14 @@ Choose **one question** you would like your clinician to answer. For example:
 
 *“What do we know about what happened to me, and which parts are still possibilities?”*
 
-You don't need a complete timeline, a symptom diary or an explanation for every difficult day. New or substantially different symptoms should still be medically assessed.
+One question is enough to start the conversation. New or substantially different symptoms should still be medically assessed.
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
@@ -142,12 +144,12 @@ Listen first. Help with notes or the follow-up plan if invited. Keep the person'
 
 New or substantially different symptoms deserve medical assessment just as they would for anyone else.
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
@@ -158,13 +160,13 @@ A patient asking “Why did I develop FND?” may be asking about **onset**, **m
 
 Consider a patient whose functional symptoms emerged during an infection and continue after the infection resolves. The timing is an **observation**. The infection's possible role in the onset is a **causal hypothesis**. Changes in motor control, attention, awareness or other neural processes are candidate **mechanisms**. Sleep loss, pain or migraine may be **current contributors** or separate diagnoses. The same patient can have evidence for all four without a single proven causal chain. (*citations* [1](#citation-1), [2](#citation-2), [5](#citation-5), [6](#citation-6))
 
-This separation gives the patient something more useful than a search for a hidden cause: an account of what has been observed, what research can explain and which questions remain open.
+This separation gives the patient a clear account of what has been observed, what research can explain and which questions remain open.
 
 ### What does the research actually establish?
 
 The 2022 clinical review by Hallett and colleagues describes multiple FND presentations and developing accounts of shared neurological processes. The review supports studying symptoms as involuntary changes in function, while recognizing that different symptoms and patients may not share one mechanism. (*citation* [2](#citation-2))
 
-Pick and colleagues' 2019 review brings emotional processing into a biopsychosocial research model. It is evidence that emotional processing is a serious subject of scientific study, **not** proof that an individual patient's FND began with trauma or emotional distress. (*citation* [3](#citation-3))
+Pick and colleagues' 2019 review brings emotional processing into a biopsychosocial research model. It sets out testable relationships between emotional and neurological processes. Establishing how those relationships apply to an individual requires evidence from that person’s history and assessment. (*citation* [3](#citation-3))
 
 A 2021 international survey described experiences and perceived causes among **1,048 respondents** with FND. It demonstrates how patients themselves describe varied possible influences. Because recruitment was online and self-selected, their reports are not estimates of how often a particular cause explains FND in the general population. (*citation* [4](#citation-4))
 
@@ -182,16 +184,16 @@ The clinician can then explain the **positive diagnostic findings** from the exa
 
 An infection at onset, migraine during flares, poor sleep and accessibility difficulties are different clinical questions. Each can inform appropriate treatment, rehabilitation, safety planning or support without being assigned the role of original cause.
 
-If treating migraine helps daily function, that is evidence of a useful treatment effect. It does not retrospectively prove migraine caused FND. Likewise, response to movement rehabilitation or psychological therapy does not test a single theory of origin. (*citations* [1](#citation-1), [6](#citation-6))
+If daily function improves during migraine treatment, that is a useful outcome to track alongside the treatment and other changes in the person’s life. It does not retrospectively prove migraine caused FND. Likewise, response to movement rehabilitation or psychological therapy does not test a single theory of origin. (*citations* [1](#citation-1), [6](#citation-6))
 
 The patient leaves with an understandable account of **what is known, what is being investigated and what can be done**. [Lesson 8](02-brain-networks-prediction-attention-and-agency.md) develops the neurological mechanisms and the evidence for them.
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Brain Networks, Prediction, Attention, and Agency](02-brain-networks-prediction-attention-and-agency.md)
@@ -199,7 +201,7 @@ The patient leaves with an understandable account of **what is known, what is be
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
-***
+---
 
 ## Research and Sources
 {: #research-and-sources .shareable }
@@ -222,4 +224,4 @@ The diagnostic and broad clinical reviews support a positive diagnosis of FND an
 
 This page still needs review by people with FND, supporters, clinicians and researchers, including review of how the evidence categories and uncertainties are explained.
 
-*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*
+*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Editorial audit completed October 17, 2026 · Human authoring and clinical review pending*

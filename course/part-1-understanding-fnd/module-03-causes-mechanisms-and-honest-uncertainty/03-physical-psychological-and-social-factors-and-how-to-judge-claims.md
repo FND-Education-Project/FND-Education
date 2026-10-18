@@ -4,9 +4,9 @@
 
 # Physical, Psychological, and Social Factors—and How to Judge Claims
 
-> **Working draft:** AI-assisted editorial revision under human and clinical review. [Contributors and reviewers](https://fndeducationproject.org/contact/) are welcome.
+> **Working draft:** This page was automatically generated. Human authoring and clinical review are pending. [Contributors and reviewers](https://fndeducationproject.org/contact/) are welcome.
 
-We have considered why FND may begin and what researchers are learning about the nervous system. This lesson asks a more everyday question: **what else in a person's life might affect their health, choices and care?** Physical, psychological and social factors can all matter, but they do different jobs. The aim is a useful personal understanding, backed by evidence rather than a one-size-fits-all explanation. (*citations* [1](#citation-1), [3](#citation-3), [6](#citation-6))
+This lesson explores how physical health, thoughts, feelings and surroundings shape life with FND. Learn how to assess an explanation and identify useful care and support.
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -28,7 +28,7 @@ Three things are involved: a **physical condition** (migraine), the person's **e
 
 Looking at all three helps us see where care or practical changes may help. None of them, on its own, proves why the FND began.
 
-This is the idea behind the **biopsychosocial** approach: consider the body and brain, thoughts and feelings, and the world a person lives in. You met this idea in [Module 1](../module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md). Here, we'll use it to understand individual needs.
+This is the idea behind the **[biopsychosocial](../../../glossary/README.md#biopsychosocial-model)** approach: consider the body and brain, thoughts and feelings, and the world a person lives in. You met this idea in [Module 1](../module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md). Here, we'll use it to understand individual needs.
 
 ### The physical side
 
@@ -36,7 +36,7 @@ Physical health includes things such as sleep, pain, migraine, injuries, medicin
 
 A person can have FND **and** a separate medical condition. Both deserve appropriate assessment and care.
 
-For instance, treating migraine may reduce one source of pain and help someone take part in daily activities. It would not prove that migraine caused their FND. (*citations* [1](#citation-1), [5](#citation-5), [7](#citation-7))
+For instance, treating [migraine](../../../reference/co-occurring-conditions/01-migraine.md) may reduce one source of pain and help someone take part in daily activities. It would not prove that migraine caused their FND. (*citations* [1](#citation-1), [5](#citation-5), [7](#citation-7))
 
 One community member described how limits can continue even after some treatment benefit:
 
@@ -66,11 +66,13 @@ This describes one person's experience of stress near an episode. It does not te
 
 The social side includes family and friendships, school or work, finances, housing, transportation, healthcare access and how other people respond.
 
-For example, a teenager with FND might understand their lessons perfectly well but struggle with bright classroom lights or getting between rooms.
+As a practical example, a teenager with FND might understand their lessons perfectly well but struggle with bright classroom lights or getting between rooms.
 
 A more accessible environment could help them keep learning and seeing friends, even if their FND symptoms stay the same.
 
-Support is meaningful when it helps someone do things that matter to them. (*citation* [6](#citation-6))
+Support is meaningful when it helps someone do things that matter to them. Occupational-therapy consensus recommendations support adapting activities and surroundings to individual needs. (*citation* [9](#citation-9))
+
+The Reference Library explains how [assessment can include everyday function](../../../reference/diagnostic-concepts/10-assessment-and-everyday-function.md), alongside symptoms.
 
 ### How do I know whether an explanation is trustworthy?
 
@@ -106,14 +108,14 @@ Choose **one change** that could make an important activity easier. It might be 
 
 You can ask your care team: *“What do we know about this problem, and what could we try to make it more manageable?”*
 
-You do not need to agree on one theory about FND to ask for useful care. New or substantially changed symptoms still deserve assessment.
+You can ask for useful care while questions about FND remain open. New or substantially changed symptoms still deserve assessment.
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
@@ -124,7 +126,7 @@ Imagine someone with FND who wants to attend a family gathering. Migraine pain, 
 
 Each concern suggests a different kind of help: medical care for migraine, an agreed safety plan and a quieter place to take breaks.
 
-This is the value of considering physical, psychological and social factors **together**. The aim is to understand the person's needs, not decide which factor caused their FND.
+This is the value of considering physical, psychological and social factors **together**. The aim is to understand the person’s needs and find a helpful response to each.
 
 ### Ask what would make participation possible
 
@@ -136,7 +138,7 @@ You could ask:
 
 The answers may change from day to day. Supporting a meaningful activity sometimes means choosing a shorter visit or another way to participate.
 
-A person may also benefit from a clinician reviewing sleep, pain, migraine or mental-health concerns as separate issues. These possibilities are useful questions to bring to the care team, not diagnoses for supporters to make.
+A person may also benefit from a clinician reviewing sleep, pain, migraine or mental-health concerns as separate issues. Your observations and the person’s questions can help the care team assess these concerns.
 
 ### Learn from what helps
 
@@ -146,12 +148,12 @@ Ask permission before keeping notes or contacting a clinician. Sharing factual o
 
 When new or substantially different symptoms appear, help the person seek appropriate assessment. Their existing FND diagnosis remains part of the picture, not the entire picture.
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
@@ -205,14 +207,14 @@ A cross-sectional group association shows that two findings occur together; it c
 
 Patients can be invited into this reasoning with an example: *“We have evidence for your FND diagnosis and for your migraine. We don't know whether one helped start the other, but both can shape how you feel. We can work on a migraine plan and ways to make daily life more manageable.”*
 
-The scientific value of the formulation is its openness to new information. The human value is that the patient gets useful care, even while some explanations remain under study.
+A useful formulation stays open to new information and connects it to care that matters to the patient.
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next module: Map Your FND and Other Health Conditions](../module-04-mapping-your-individual-condition/README.md)
@@ -220,14 +222,18 @@ The scientific value of the formulation is its openness to new information. The 
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
-***
+---
 
 ## Research and Sources
 {: #research-and-sources .shareable }
 
 ### What this evidence can and cannot establish
 
-The diagnostic and clinical reviews support an evidence-based diagnosis and a separate, individualized formulation of care needs. Pick and colleagues propose an integrated emotional-processing model, while Butler's survey describes the experiences and views of 1,048 self-selected respondents. The pain, prognosis, migraine and autonomic reviews show why physical, psychological and social categories should not be collapsed into one causal story: their findings concern different populations, outcomes and evidence types. Much of this literature is cross-sectional or heterogeneous, so association must not be presented as proof of direction or cause in one person. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4), [5](#citation-5), [6](#citation-6), [7](#citation-7), [8](#citation-8))
+The diagnostic and clinical reviews support a positive diagnosis and an individualized understanding of care needs. Pick's emotional-processing model and Butler's survey address different questions: possible mechanisms and patients' reported experiences. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
+
+The pain, prognosis, migraine and autonomic reviews examine different populations and outcomes. Their findings help identify questions for care and research; associations alone do not establish what caused one person's FND. (*citations* [5](#citation-5), [6](#citation-6), [7](#citation-7), [8](#citation-8))
+
+The occupational-therapy recommendations support individualized activity and participation goals. They are professional consensus, rather than a trial proving that a particular environmental change will help every person. (*citation* [9](#citation-9))
 
 ### Citation table
 
@@ -241,7 +247,8 @@ The diagnostic and clinical reviews support an evidence-based diagnosis and a se
 | <a id="citation-6"></a>**[6]** | Sekine ER, Kanaan RA, McMillan J, Oxford S, Iles RA. Biopsychosocial prognostic indicators in Functional Neurological Disorder: a systematic review. *Journal of Psychosomatic Research*. 2025;195:112201. [FND-CIT-0017](../../../research/citation-index.md#fnd-cit-0017). [https://doi.org/10.1016/j.jpsychores.2025.112201](https://doi.org/10.1016/j.jpsychores.2025.112201) |
 | <a id="citation-7"></a>**[7]** | Stone J, Coebergh J, Khoja L, Butler M, Nicholson TR, Dodick DW. Migraine and functional neurological disorder (FND)—a review of comorbidity and potential overlap. *Brain Communications*. 2025;7(4):fcaf288. [FND-CIT-0049](../../../research/citation-index.md#fnd-cit-0049). [https://doi.org/10.1093/braincomms/fcaf288](https://doi.org/10.1093/braincomms/fcaf288) |
 | <a id="citation-8"></a>**[8]** | Paredes-Echeverri S, Maggio J, Bègue I, Pick S, Nicholson TR, Perez DL. Autonomic, endocrine, and inflammation profiles in functional neurological disorder: a systematic review and meta-analysis. *Journal of Neuropsychiatry and Clinical Neurosciences*. 2022;34(1):30–43. [FND-CIT-0064](../../../research/citation-index.md#fnd-cit-0064). [https://doi.org/10.1176/appi.neuropsych.21010025](https://doi.org/10.1176/appi.neuropsych.21010025) |
+| <a id="citation-9"></a>**[9]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [DOI](https://doi.org/10.1136/jnnp-2019-322281). |
 
 This page still needs review by people with FND, supporters, clinicians and researchers, especially to check that each factor’s possible role and evidence level remain clear.
 
-*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*
+*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Editorial audit completed October 17, 2026 · Human authoring and clinical review pending*

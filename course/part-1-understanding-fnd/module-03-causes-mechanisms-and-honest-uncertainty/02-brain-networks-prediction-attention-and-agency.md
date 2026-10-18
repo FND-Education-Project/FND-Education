@@ -4,9 +4,9 @@
 
 # Brain Networks, Prediction, Attention, and Agency
 
-> **Working draft:** AI-assisted editorial revision under human and clinical review. [Contributors and reviewers](https://fndeducationproject.org/contact/) are welcome.
+> **Working draft:** This page was automatically generated. Human authoring and clinical review are pending. [Contributors and reviewers](https://fndeducationproject.org/contact/) are welcome.
 
-Lesson 7 asked what may have started FND. This lesson explores a different question: **what could be happening in the nervous system when functional symptoms occur?** Researchers can measure aspects of brain activity, communication and chemistry. Their findings are giving us possible explanations—and new questions to investigate. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+This lesson explores what may happen in the nervous system during functional symptoms. Learn what studies of brain networks, attention and chemistry can tell us.
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -50,7 +50,7 @@ For example, you may walk toward a chair without planning every muscle movement.
 
 In some functional movement symptoms, an examination shows that a movement becomes easier in one situation than another. This may suggest that automatic control and focused control are working differently. It does **not** mean the person chooses when the movement will work. (*citations* [4](#citation-4), [5](#citation-5))
 
-Scientists are also investigating how the brain makes sense of signals coming from the body. It does not simply wait for a message; it uses earlier experience to make quick guesses about what a signal means. Researchers call this **prediction**.
+Scientists are also investigating how the brain makes sense of signals coming from the body. It does not simply wait for a message; it uses earlier experience to make quick guesses about what a signal means. Researchers call this **prediction**. The wider model is known as [predictive processing](../../../glossary/README.md#predictive-processing).
 
 Those guesses and incoming signals normally work together. Some FND theories suggest that the balance between them may sometimes change, affecting movement or sensation. This is a proposed explanation, not a proven cause of everyone's symptoms. (*citations* [1](#citation-1), [3](#citation-3))
 
@@ -66,15 +66,15 @@ Some people find their functional symptoms change when attention or a task chang
 
 The fact that attention may affect a symptom is interesting to researchers. It does not turn an involuntary symptom into a deliberate action.
 
-Scientists also study **agency**—the feeling that you are the one choosing or controlling an action. Some people experience movements or sensations that do not feel under their control. Researchers are investigating how that feeling is produced. (*citations* [1](#citation-1), [3](#citation-3))
+Scientists also study **[agency](../../../glossary/README.md#agency)**—the feeling that you are the one making an action happen. Some people experience movements or sensations that do not feel under their control. Researchers are investigating how that feeling is produced. (*citations* [1](#citation-1), [3](#citation-3))
 
 ### Could the chemicals in my brain have changed?
 
 Brain cells use electrical activity and chemical messengers to communicate.
 
-A small 2024 study used a special MRI-related technique to estimate levels of certain brain chemicals in children and teenagers with FND. Researchers found some differences when comparing groups. (*citation* [7](#citation-7))
+A 2024 study compared brain chemistry in children and teenagers with FND and a group without FND. Using a special MRI technique, researchers found lower amounts of some chemicals relative to a comparison chemical in an area involved in movement. These were differences between groups, rather than a result found in every child. (*citation* [7](#citation-7))
 
-The study opened another way to investigate FND. Scientists still need to discover whether those differences contributed to symptoms, appeared afterward or reflect other factors. The study does not tell us what happened in a particular adult or child.
+This gives researchers another way to investigate FND. The next questions include whether the differences contributed to symptoms, appeared afterward or reflect other factors.
 
 Brain chemistry is a real subject of research, but **there is not yet a brain-chemistry test that explains or diagnoses FND for one person**.
 
@@ -85,6 +85,8 @@ Brain chemistry is a real subject of research, but **there is not yet a brain-ch
 A panic attack is usually a sudden episode of intense fear or discomfort. During a functional seizure, movement, responsiveness or awareness may change in different ways. Fear may be present, but it is not required.
 
 A person may have both conditions. Clinicians look at the history and the pattern of each event, and use suitable tests when needed, to understand what is happening. (*citations* [1](#citation-1), [8](#citation-8))
+
+The [functional seizures Reference page](../../../reference/diagnostic-signs/06-functional-seizures.md) explains this assessment in more detail.
 
 Functional seizures are **genuine and involuntary**. Researchers are exploring possible roles for networks involved in awareness, movement and body signals. No single network theory fully explains every type of functional seizure.
 
@@ -110,12 +112,12 @@ You could ask your clinician:
 
 You do not need to test your symptoms or prove a theory yourself. Your own experiences and the clinician's assessment are both important.
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
@@ -138,18 +140,18 @@ Some practical support is independent of any theory: a quieter space, access to 
 
 ### Making room for uncertainty
 
-A theory about prediction, attention or brain chemistry is a way to investigate FND—not a home test or a reason to insist someone repeat a better moment.
+Theories about prediction, attention and brain chemistry guide research. At home, support can follow what the person needs today, including when an easier movement or clearer moment is difficult to repeat.
 
 Supporters can encourage curiosity and meaningful goals without needing to solve the neurological mechanism.
 
 The person can still ask for assessment of new or substantially different symptoms, whatever explanation they have been given.
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
@@ -173,19 +175,23 @@ A concrete example is Perez and colleagues' 2018 study comparing **26 motor-FND 
 
 ### What has been learned about brain chemistry?
 
-Charney and colleagues (2024) examined brain chemicals with magnetic resonance spectroscopy in a **small paediatric FND sample** and found group-level neurometabolite differences. This is a method for studying biological processes that conventional diagnostic scans do not directly measure. The cross-sectional findings leave direction of effect, generalizability to adults and diagnostic usefulness unresolved. (*citation* [7](#citation-7))
+Charney and colleagues (2024) used magnetic resonance spectroscopy to compare **32 children with mixed FND presentations and 41 healthy controls**. In the supplementary motor area, the FND group had lower ratios of N-acetylaspartate (NAA) and gamma-aminobutyric acid (GABA) to creatine. These are regional metabolite measurements, rather than direct recordings of signalling between neurons. (*citation* [7](#citation-7))
 
-The clinical value today is a more biologically informed conversation: brain-chemistry differences are being investigated, but no validated chemical signature explains the individual patient's FND.
+The differences were region-specific: anterior default-mode network metabolite ratios did not differ between the groups. This small cross-sectional study identifies biological findings for further investigation; their relationship to symptom onset, applicability to adults and diagnostic usefulness remain open questions. (*citation* [7](#citation-7))
+
+For clinicians, this provides a concrete example of measurable biology under investigation. It can enrich an explanation of FND while remaining separate from the clinical evidence used to diagnose the individual patient.
 
 ### How might prediction, attention and agency matter?
 
-In predictive-processing accounts, the nervous system combines incoming sensory evidence with expectations formed from earlier information. The weighting of those sources is proposed to influence perception and action. Attention can select information automatically; **agency** concerns the experience of owning and controlling an action. These are scientific constructs, not interchangeable words for conscious choice. (*citations* [1](#citation-1), [3](#citation-3))
+In predictive-processing accounts, the nervous system combines incoming sensory evidence with expectations formed from earlier information. The weighting of those sources is proposed to influence perception and action. Attention can select information automatically; **agency** concerns the experience of initiating or causing an action. These are scientific constructs, not interchangeable words for conscious choice. (*citations* [1](#citation-1), [3](#citation-3))
 
 For a patient, their usefulness depends on linking the model to an actual observation. If tremor changes during a competing rhythmic task, the examination finding is directly observed. Interpreting it through prediction or attention is an additional, testable explanation. A patient's response during treatment may help guide therapy without uniquely confirming that model. (*citations* [4](#citation-4), [5](#citation-5))
 
 ### Functional seizures and panic: distinguishing the experiences
 
-Functional seizures are clinical events, not simply another label for panic attacks. The experiences may overlap, and panic symptoms may precede or accompany some events, but intense fear is not a necessary feature of every functional seizure. The neurological diagnosis uses event history, observed features and appropriate investigations; the current AAN functional-seizures guideline also addresses assessment for co-occurring epilepsy. (*citation* [8](#citation-8))
+Functional seizures and panic attacks are distinct clinical events whose experiences can overlap. Panic symptoms may precede or accompany some functional seizures, while others occur without intense fear. Research considers several possible mechanisms across these presentations. (*citations* [1](#citation-1), [3](#citation-3))
+
+The AAN functional-seizures guideline supports assessment using event history, observed features and appropriate investigations, including consideration of co-occurring epilepsy. This diagnostic guidance addresses what the events are; mechanism research asks how they arise. (*citation* [8](#citation-8))
 
 This distinction has practical importance for the patient asking whether their seizure is “only psychological.” There may be emotion-related physiological processes worth investigating, but the experience is involuntary. The language of networks and automatic processes can explain why neurologic and emotional systems interact without treating one as proof that the other caused the episode. (*citations* [1](#citation-1), [3](#citation-3))
 
@@ -195,12 +201,12 @@ A full explanation can identify **three levels**: the positive clinical evidence
 
 These levels work together. A clinician can describe what is observed, make an informed hypothesis about mechanisms, and offer useful care while research continues. Structural, functional and chemistry studies are expanding what can be investigated; their current limits are part of the evidence itself.
 
-***
+---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
-***
+---
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Physical, Psychological, and Social Factors—and How to Judge Claims](03-physical-psychological-and-social-factors-and-how-to-judge-claims.md)
@@ -208,14 +214,18 @@ These levels work together. A clinician can describe what is observed, make an i
 **Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
-***
+---
 
 ## Research and Sources
 {: #research-and-sources .shareable }
 
 ### What this evidence can and cannot establish
 
-The broad Hallett review and Drane perspective describe developing network and predictive-processing models. The Bègue review and Perez study provide structural imaging evidence with important limits on group comparisons and direction of effect. Charney's small paediatric spectroscopy study adds an early brain-chemistry line of investigation; the AAN guideline supports presentation-specific functional-seizure assessment. Bennett’s clinical review and the physiotherapy consensus connect attention and automatic movement to clinical explanation and rehabilitation; the consensus is professional guidance, not proof that one mechanism or technique applies to every FND presentation. None of these sources supplies an individual brain-scan or network biomarker for FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4), [5](#citation-5))
+The Hallett review and Drane perspective describe developing network and predictive-processing models. Bègue's review and Perez's study examine structural imaging findings and their possible meanings. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [6](#citation-6))
+
+Charney's paediatric spectroscopy study adds an early brain-chemistry line of investigation. The AAN guideline addresses functional-seizure assessment and care, including coexisting conditions. These sources answer different questions. (*citations* [7](#citation-7), [8](#citation-8))
+
+Bennett's clinical review and the physiotherapy consensus connect observations of attention and automatic movement to clinical explanation and rehabilitation. The consensus is professional guidance, with a motor-symptom scope. Together, these sources inform clinical understanding while individual diagnosis continues to rely on appropriate clinical findings. (*citations* [4](#citation-4), [5](#citation-5))
 
 ### Citation table
 
@@ -230,7 +240,6 @@ The broad Hallett review and Drane perspective describe developing network and p
 | <a id="citation-7"></a>**[7]** | Charney M, Foster S, Shukla V, et al. Neurometabolic alterations in children and adolescents with functional neurological disorder. *NeuroImage: Clinical*. 2024;41:103557. [FND-CIT-0044](../../../research/citation-index.md#fnd-cit-0044). [DOI](https://doi.org/10.1016/j.nicl.2023.103557). Small paediatric neurometabolic study; neither causal proof nor a diagnostic biomarker. |
 | <a id="citation-8"></a>**[8]** | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [DOI](https://doi.org/10.1212/WNL.0000000000214466). Diagnosis-informed management and co-occurring epilepsy; not evidence of a single functional-seizure mechanism. |
 
-
 This page still needs review by people with FND, supporters, clinicians and researchers, especially to ensure that proposed models remain clearly separate from diagnostic evidence.
 
-*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*
+*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Editorial audit completed October 17, 2026 · Human authoring and clinical review pending*
