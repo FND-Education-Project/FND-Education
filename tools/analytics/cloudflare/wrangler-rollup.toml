@@ -1,0 +1,15 @@
+# Separate non-public Cron Worker for anonymous monthly statistics rollups.
+# Deploy manually ONLY after applying/verifying migrations/001-monthly-rollups.sql.
+# Never deploy automatically from GitHub Actions or expose HTTP routes.
+name = "fnd-statistics-maintenance"
+main = "src/rollup-worker.mjs"
+compatibility_date = "2026-10-01"
+workers_dev = false
+
+[[d1_databases]]
+binding = "DB"
+database_name = "fnd-aggregate-analytics"
+database_id = "6f80d719-0677-4e9e-b03c-250f14725252"
+
+[triggers]
+crons = ["0 3 * * *"]
