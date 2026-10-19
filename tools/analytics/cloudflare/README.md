@@ -149,3 +149,38 @@ From repository root:
     node --check web/assets/js/search.js
 
 No third-party runtime npm packages or site user accounts are required.
+
+## Statistics retention and automatic aggregation (proposed PR)
+
+The event receiver already stores daily **aggregates**, not individual hits.
+An additional, separately deployed Cron Worker can reduce older rows further
+without modifying the public collection endpoint or the existing private
+last-90-day dashboard.
+
+- Keep daily values for the last **at least 120 days**. A nightly task
+  archives only *whole months* beyond that boundary, so the exact number of
+  retained days can exceed 120 slightly.
+- Sum by `month + event + section`, rather than one all-purpose total.
+  This preserves meaningful historical comparisons without keeping every day.
+- Perform `INSERT ... SELECT SUM(...) ... ON CONFLICT DO UPDATE` and
+  `DELETE FROM daily_counts` in one D1 transaction. A failure rolls back
+  both operations, and retrying does not double count.
+- Keep monthly totals indefinitely for now. Even at maximum event/section
+  combinations, these records are small; add a yearly rollup only if actual
+  database usage later warrants it.
+- The maintenance Worker has no public API, reads no individual usage
+  data, and is never bound to the learner account database.
+
+**Careful rollout**: Back up the existing D1 first. Apply
+`migrations/001-monthly-rollups.sql` to the live analytics D1, validate
+the new table, and manually deploy `wrangler-rollup.toml` only after review.
+The dedicated maintenance Worker runs daily at 03:00 UTC (subject to
+Cloudflare Cron scheduling). The existing event Worker and private stats
+dashboard do not require redeployment. Validate totals before/after
+aggregation for each month, and monitor Worker failures. Run the migration
+before activating Cron to avoid a missing-table error. No public data is
+exposed; do not add a route or developer diagnostics.
+
+The current 7/30/90-day dashboard will not show historical monthly summaries;
+those are retained for a later admin-only long-term history view. Do not
+present long-term records as unique visitor counts.
