@@ -1,8 +1,8 @@
 # Account-based learner progress and preferences
 
 Status: feature implementation and backend deployment plan in PR #154.
-**Not enabled in production.** No learner database, OAuth credentials, account
-Worker deployment or public sign-in has been activated.
+**Public sign-in is not enabled in the committed site configuration.**
+Database provisioning has begun separately; this document is not live-state telemetry.
 
 ## Approved learning experience
 
@@ -45,10 +45,12 @@ status always requires confirmation. A read-only course page is public.
 
 ## Security and privacy
 
-Learner credentials are managed by Google/Apple (provider integrations
-require live verification); the project never has their passwords. Only a
-provider's opaque subject plus a generated internal learner ID is needed.
-Do not store provider emails, personal profiles or diagnosis history.
+Learners can use Google or optional passwordless email codes sent by Resend.
+The project never handles passwords. Google retains only its opaque subject;
+email authentication retains the verified email in a separate ownership table.
+Do not store Google profile emails, personal profiles or diagnosis history.
+Apple is deferred. Google learners can explicitly verify and add an email to
+that same account; automatic account merging is prohibited.
 
 A dedicated Cloudflare Worker verifies OIDC identities and uses Secure
 HttpOnly cookies, sliding session renewal, state + nonce + PKCE, exact CORS,
@@ -58,7 +60,7 @@ to link accounts without proving control of both identities.
 
 The production Worker is not connected: see
 `tools/learner-cloudflare/README.md` for separate D1, custom-domain,
-OAuth registration, Apple browser support, security acceptance, rate limits,
+OAuth registration, Resend/Turnstile setup, security acceptance, rate limits,
 provider policy, privacy notice and enablement gates.
 
 ## Build and accessibility validation
@@ -68,7 +70,7 @@ Jekyll/Pagefind, built-artifact checks, JS syntax and offline Worker boundary
 tests. The latter are **not** complete security tests.
 
 Before allowing public accounts, perform real provider sign-in testing,
-including Apple mobile Safari, cross-origin cookies, account A/B isolation,
+including mobile Safari, email codes, cross-origin cookies, account A/B isolation,
 fresh login, persistent session renewal and revocation, optional idle
 sign-out, all completion confirmations, keyboard focus/escape, themes,
 tablet/phone, export/delete, clear progress, and failures/offline behavior.
@@ -110,8 +112,8 @@ the learner account.
 
 ### Privacy limitations
 
-Because account email addresses are not retained, **no email warning of
-an approaching inactivity deletion** is possible. Before first login and
+Email authentication addresses are retained privately. Inactivity-deletion
+reminders are not implemented, regardless of login method. Before first login and
 in account preferences, disclose the three-year policy. Export progress
 is available before deletion. Keep accounts no longer than necessary and
 do not join this database to anonymous statistics.

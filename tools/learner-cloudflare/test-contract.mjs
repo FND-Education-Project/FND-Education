@@ -110,7 +110,7 @@ test("inactive learner maintenance preserves recent accounts and sessions", asyn
       };
     },
     async batch(statements) {
-      assert.equal(statements.length, 2);
+      assert.equal(statements.length, 4);
       return statements.map(() => ({ success: true }));
     }
   };
@@ -118,17 +118,17 @@ test("inactive learner maintenance preserves recent accounts and sessions", asyn
     waitUntil(promise) { background = promise; }
   });
   await background;
-  assert.equal(operations.length, 3);
+  assert.equal(operations.length, 5);
   assert.match(operations[0].sql, /DELETE FROM oauth_flows/);
   assert.match(operations[1].sql, /DELETE FROM learner_sessions/);
-  assert.match(operations[2].sql, /DELETE FROM learners/);
-  assert.match(operations[2].sql, /last_seen_at < \?/);
-  assert.match(operations[2].sql, /NOT EXISTS/);
-  assert.match(operations[2].sql, /s\.expires_at > \?/);
-  assert.match(operations[2].sql, /LIMIT 100/);
+  assert.match(operations[4].sql, /DELETE FROM learners/);
+  assert.match(operations[4].sql, /last_seen_at < \?/);
+  assert.match(operations[4].sql, /NOT EXISTS/);
+  assert.match(operations[4].sql, /s\.expires_at > \?/);
+  assert.match(operations[4].sql, /LIMIT 100/);
   const yearsAgo = new Date();
   yearsAgo.setUTCFullYear(yearsAgo.getUTCFullYear() - 3);
-  assert.ok(Math.abs(operations[2].values[0] -
+  assert.ok(Math.abs(operations[4].values[0] -
     Math.floor(yearsAgo.getTime() / 1000)) < 10);
 });
 

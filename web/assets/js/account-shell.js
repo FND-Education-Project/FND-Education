@@ -62,8 +62,133 @@
     return url.href;
   }
 
+  // Load the anti-abuse widget only after a visitor chooses email sign-in.
+  // No login identity, challenge or code is persisted in browser storage.
+  let turnstileLoading;
+  function loadTurnstile() {
+    if (window.turnstile) return Promise.resolve(window.turnstile);
+    if (!turnstileLoading) turnstileLoading = new Promise((resolve, reject) => {
+      const script = document.createElement("script");
+      script.src = "https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit";
+      script.async = true;
+      script.onload = () => resolve(window.turnstile);
+      script.onerror = () => { turnstileLoading = null; script.remove(); reject(new Error("Verification could not load. Please try again.")); };
+      document.head.append(script);
+    });
+    return turnstileLoading;
+  }
+
+  /** Accessible two-stage form shared by guest login and deliberate linking. */
+  function emailControl(options, linking = false) {
+    const box = node("details", undefined, "account-email-login");
+    box.append(node("summary", linking ? "Add email sign-in to this account" : "Continue with email"));
+    box.append(node("p", linking
+      ? "Verify an email to sign in to this same learner account without Google. An email already belonging to another learner account cannot be linked."
+      : "No password needed. We will email an 8-digit code. If you already use Google here, sign in with Google first and add email in Account & preferences to keep the same progress."));
+    box.append(node("p", "Email sign-in stores your email privately and uses Resend to deliver codes. We do not send marketing emails. Read the course without signing in whenever you prefer."));
+    const form = node("form");
+    const emailLabel = node("label", "Email address");
+    const email = node("input");
+    email.type = "email"; email.required = true; email.maxLength = 254;
+    email.autocomplete = "email"; emailLabel.append(email); form.append(emailLabel);
+    form.append(node("small", "Use an email address with standard English letters, numbers and symbols; international-character mailbox names are not supported yet."));
+    const nameLabel = node("label", "Display username (for a new account)");
+    const name = node("input");
+    name.type = "text"; name.minLength = 2; name.maxLength = 40;
+    name.autocomplete = "nickname";
+    nameLabel.append(name);
+    if (!linking) {
+      form.append(nameLabel, node("p", "Optional: leave blank to start as Learner. Existing accounts keep their username."));
+    }
+    const widget = node("div");
+    const send = node("button", "Send sign-in code");
+    send.type = "submit"; send.disabled = true;
+    const feedback = node("p", "", "account-feedback");
+    feedback.setAttribute("role", "status"); feedback.setAttribute("aria-live", "polite");
+    form.append(widget, send);
+    const verify = node("form"); verify.hidden = true;
+    const codeLabel = node("label", "8-digit code from your email");
+    const code = node("input"); code.type = "text"; code.inputMode = "numeric";
+    code.autocomplete = "one-time-code"; code.pattern = "[0-9]{8}";
+    code.minLength = 8; code.maxLength = 8; code.required = true;
+    codeLabel.append(code);
+    const confirm = node("button", linking ? "Verify and add email" : "Verify and sign in");
+    confirm.type = "submit";
+    const again = node("button", "Request another code / change email"); again.type = "button";
+    verify.append(codeLabel, confirm, again);
+    box.append(form, verify, feedback);
+    let token = "", widgetId, challengeId, busy = false;
+    async function prepareWidget() {
+      try {
+        const ts = await loadTurnstile();
+        if (widgetId !== undefined) { ts.reset(widgetId); return; }
+        widgetId = ts.render(widget, { sitekey: options.turnstileSiteKey, action: "email_login",
+          callback(value) { token = value; send.disabled = busy; },
+          "expired-callback"() { token = ""; send.disabled = true; },
+          "error-callback"() { token = ""; send.disabled = true; feedback.textContent = "Verification could not finish. Close and reopen email sign-in to retry."; }
+        });
+      } catch (error) { feedback.textContent = error.message; }
+    }
+    box.addEventListener("toggle", () => {
+      if (box.open && !verify.hidden) return;
+      if (box.open) prepareWidget();
+    });
+    async function post(stage, payload) {
+      const headers = { "Content-Type": "application/json", Accept: "application/json" };
+      if (linking) headers["X-FND-CSRF"] = me.csrfToken;
+      const path = linking ? "/v1/account/email/" : "/v1/auth/email/";
+      const response = await fetch(new URL(path + stage, api), {
+        method: "POST", headers, credentials: "include", cache: "no-store",
+        referrerPolicy: "no-referrer", body: JSON.stringify(payload),
+        signal: AbortSignal.timeout(25000)
+      });
+      const result = await response.json();
+      if (!response.ok) throw new Error(result.error || "Sign-in is temporarily unavailable.");
+      return result;
+    }
+    form.addEventListener("submit", async event => {
+      event.preventDefault();
+      if (busy || !token) return;
+      busy = true; send.disabled = true; feedback.textContent = "Sending your code…";
+      try {
+        const result = await post("start", { email: email.value, username: name.value,
+          turnstileToken: token });
+        challengeId = result.challengeId;
+        form.hidden = true; verify.hidden = false; code.value = ""; code.focus();
+        feedback.textContent = "Check your inbox and spam folder. Enter the code here within 10 minutes. Keep this browser tab open.";
+      } catch (error) {
+        feedback.textContent = error.name === "TimeoutError" ? "The request took too long. Please try again later." : error.message;
+      } finally {
+        busy = false; token = "";
+        if (window.turnstile && widgetId !== undefined) window.turnstile.reset(widgetId);
+      }
+    });
+    again.addEventListener("click", () => {
+      challengeId = null; verify.hidden = true; form.hidden = false;
+      feedback.textContent = "Wait at least one minute between code requests. Requesting a new code replaces the previous code in this browser.";
+      email.focus(); prepareWidget();
+    });
+    verify.addEventListener("submit", async event => {
+      event.preventDefault();
+      if (busy || !challengeId) return;
+      busy = true; confirm.disabled = true; again.disabled = true;
+      feedback.textContent = "Checking your code…";
+      try {
+        await post("verify", { challengeId, code: code.value.trim() });
+        // Reload obtains identity from the server session, never form values.
+        if (linking) {
+          verify.hidden = true;
+          feedback.textContent = "Email sign-in added to this learner account. You can now use either Google (if already linked) or this email.";
+        } else { location.reload(); }
+      } catch (error) { feedback.textContent = error.message; }
+      finally { busy = false; confirm.disabled = false; again.disabled = false; }
+    });
+    return box;
+  }
+
   // The Promise resolves even for guests. Course progress rendering is gated
   // on the authenticated result, never on a profile left in browser storage.
+  const optionsReady = request("/v1/auth/options").catch(() => ({}));
   const ready = request("/v1/me").then(data => {
     me = data;
     applyTheme(me.theme);
@@ -81,6 +206,7 @@
     const shell = document.getElementById("learner-account-shell");
     if (!shell) return;
     await ready;
+    const options = await optionsReady;
     shell.replaceChildren();
     const status = node("div", undefined, "account-status");
 
@@ -91,13 +217,16 @@
       status.append(node("span",
         "Sign in to keep your own lesson checkmarks and theme preferences. " +
         "Accounts unused for three years are deleted automatically, " +
-        "with no email reminder because we do not store email addresses."));
+        "without deletion reminders. Reading the course is free and needs no account."));
       const actions = node("span", undefined, "account-actions");
-      for (const provider of ["google", "apple"]) {
-        const link = node("a",
-          "Continue with " + (provider === "google" ? "Google" : "Apple"));
-        link.href = loginUrl(provider);
+      if (options.google) {
+        const link = node("a", "Continue with Google");
+        link.href = loginUrl("google");
         actions.append(link);
+      }
+      if (options.email) actions.append(emailControl(options));
+      if (!options.google && !options.email) {
+        actions.append(node("span", "Sign-in is temporarily unavailable. You can still read every lesson."));
       }
       shell.append(status, actions);
       shell.hidden = false;
@@ -156,13 +285,12 @@
       "have a renewable lifespan and can be revoked.",
       "account-note");
     form.append(notice);
-    // No email is retained, so no email warning can be sent to a learner
-    // before the long-term inactivity deletion policy takes effect.
+    // The same retention rule applies regardless of the login method.
     const retention = node("p",
       "To protect privacy, learner accounts unused for three years are " +
       "automatically removed, including their lesson progress. " +
       "Signing in and using the account resets that period. " +
-      "We do not store an email address to send deletion reminders.",
+      "Deletion reminders are not sent. Email sign-in addresses are kept privately for authentication and removed when the account is deleted.",
       "account-note");
     form.append(retention);
     const message = node("p", "", "account-feedback");
@@ -190,6 +318,7 @@
       } finally { save.disabled = false; }
     });
     settings.append(form);
+    if (options.email) settings.append(emailControl(options, true));
 
     const signout = node("button", "Sign out / switch learner");
     signout.type = "button";

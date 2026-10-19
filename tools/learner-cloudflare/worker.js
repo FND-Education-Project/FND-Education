@@ -11,6 +11,7 @@
  * header. Server data never joins the anonymous statistics database.
  */
 "use strict";
+import { emailEnabled, startEmail, finishEmail } from "./email-auth.js";
 
 const DAY = 86400;
 const SESSION_LIFE = 180 * DAY; // Sliding safety cap, not inactivity logout.
@@ -134,16 +135,35 @@ function validLesson(id) {
 }
 async function jsonInput(req) {
   if (!(req.headers.get("Content-Type") || "").startsWith("application/json") ||
-      Number(req.headers.get("Content-Length") || 0) > 2048) {
+      Number(req.headers.get("Content-Length") || 0) > 4096) {
     throw new Error("Expected a small JSON request");
   }
-  const input = await req.text();
-  if (input.length > 2048) throw new Error("Request too large");
+  const reader = req.body?.getReader();
+  if (!reader) throw new Error("Missing body");
+  const chunks = [];
+  let size = 0;
+  while (true) {
+    const { value, done } = await reader.read();
+    if (done) break;
+    size += value.byteLength;
+    if (size > 4096) { await reader.cancel(); throw new Error("Request too large"); }
+    chunks.push(value);
+  }
+  const raw = new Uint8Array(size);
+  let offset = 0;
+  for (const chunk of chunks) { raw.set(chunk, offset); offset += chunk.byteLength; }
+  const input = new TextDecoder().decode(raw);
   const parsed = JSON.parse(input);
   if (!parsed || Array.isArray(parsed) || typeof parsed !== "object") {
     throw new Error("Invalid JSON object");
   }
   return parsed;
+}
+function providerEnabled(env, provider) {
+  // Apple is deferred. A placeholder must never publish a broken button.
+  return provider === "google" && !!env.GOOGLE_CLIENT_SECRET &&
+    typeof env.GOOGLE_CLIENT_ID === "string" &&
+    env.GOOGLE_CLIENT_ID.endsWith(".apps.googleusercontent.com");
 }
 function clientId(env, provider) {
   return provider === "google" ? env.GOOGLE_CLIENT_ID :
@@ -169,8 +189,7 @@ function validSetup(env) {
 }
 
 async function beginLogin(req, env, provider) {
-  if (!PROVIDERS[provider] || !clientId(env, provider) ||
-      !clientSecret(env, provider)) {
+  if (!providerEnabled(env, provider)) {
     return err(req, env, 404, "Sign-in provider not configured");
   }
   const url = new URL(req.url);
@@ -239,7 +258,7 @@ async function verifiedIdToken(jwt, provider, expectedNonce, env) {
   return claims.sub;
 }
 async function callback(req, env, provider) {
-  if (!PROVIDERS[provider]) return err(req, env, 404, "Unknown provider");
+  if (!providerEnabled(env, provider)) return err(req, env, 404, "Unknown provider");
   let code, state;
   if (provider === "apple" && req.method === "POST") {
     const raw = await req.text();
@@ -294,10 +313,11 @@ async function callback(req, env, provider) {
     const name = "Learner " + randomToken(5).slice(0, 6).toUpperCase();
     await env.DB.batch([
       env.DB.prepare(
-        "INSERT INTO learners (id, username, created_at, last_seen_at) VALUES (?, ?, ?, ?)"
-      ).bind(id, name, now(), now()),
+        "INSERT INTO learners (id, username, created_at, last_seen_at) SELECT ?, ?, ?, ? " +
+        "WHERE NOT EXISTS (SELECT 1 FROM identities WHERE provider = ? AND subject = ?)"
+      ).bind(id, name, now(), now(), provider, subject),
       env.DB.prepare(
-        "INSERT OR IGNORE INTO identities (provider, subject, learner_id) VALUES (?, ?, ?)"
+        "INSERT INTO identities (provider, subject, learner_id) SELECT ?, ?, id FROM learners WHERE id = ?"
       ).bind(provider, subject, id)
     ]);
     identity = await env.DB.prepare(
@@ -305,15 +325,20 @@ async function callback(req, env, provider) {
     ).bind(provider, subject).first();
   }
 
-  const session = randomToken();
-  const csrf = randomToken();
-  await env.DB.prepare(
-    "INSERT INTO learner_sessions (token_hash, learner_id, csrf_token, expires_at, last_active, created_at) VALUES (?, ?, ?, ?, ?, ?)"
-  ).bind(await sha(session), identity.learner_id, csrf,
-    now() + SESSION_LIFE, now(), now()).run();
+  const session = await createSession(env, identity.learner_id);
   return redirect(env.PUBLIC_ORIGIN + flow.return_path,
     [flowCookie("", 0), sessionCookie(session)]);
 }
+/** All authentication methods issue the same opaque, revocable session. */
+async function createSession(env, learnerId) {
+  const session = randomToken();
+  await env.DB.prepare(
+    "INSERT INTO learner_sessions (token_hash, learner_id, csrf_token, expires_at, last_active, created_at) VALUES (?, ?, ?, ?, ?, ?)"
+  ).bind(await sha(session), learnerId, randomToken(),
+    now() + SESSION_LIFE, now(), now()).run();
+  return session;
+}
+
 async function authorize(req, env) {
   const token = cookie(req, SESSION_COOKIE);
   if (!token || token.length > 200) return null;
@@ -335,8 +360,8 @@ async function authorize(req, env) {
   // course. Write it only once per day to avoid unnecessary D1 writes.
   await env.DB.batch([
     env.DB.prepare(
-      "UPDATE learner_sessions SET last_active = ? WHERE token_hash = ?"
-    ).bind(now(), hash),
+      "UPDATE learner_sessions SET last_active = ? WHERE token_hash = ? AND last_active < ?"
+    ).bind(now(), hash, account.idle_minutes > 0 ? now() : now() - DAY),
     env.DB.prepare(
       "UPDATE learners SET last_seen_at = ? WHERE id = ? AND last_seen_at < ?"
     ).bind(now(), account.learner_id, now() - DAY)
@@ -410,9 +435,15 @@ async function updateSettings(req, env, account, input) {
       ![0, 15, 60, 1440, 10080].includes(idle)) {
     return err(req, env, 400, "Invalid account preferences");
   }
-  await env.DB.prepare(
-    "UPDATE learners SET username = ?, theme = ?, idle_minutes = ? WHERE id = ?"
-  ).bind(username, theme, idle, account.learner_id).run();
+  await env.DB.batch([
+    env.DB.prepare(
+      "UPDATE learners SET username = ?, theme = ?, idle_minutes = ? WHERE id = ?"
+    ).bind(username, theme, idle, account.learner_id),
+    // Turning on an idle limit must start from this authenticated interaction,
+    // not the throttled activity timestamp of a previously persistent session.
+    env.DB.prepare("UPDATE learner_sessions SET last_active = ? WHERE token_hash = ?")
+      .bind(now(), account.token_hash)
+  ]);
   return reply(req, env, { username, theme, idleMinutes: idle });
 }
 async function exportAccount(req, env, account) {
@@ -420,7 +451,10 @@ async function exportAccount(req, env, account) {
     "SELECT lesson_id, visited, completed, updated_at FROM learner_progress " +
     "WHERE learner_id = ?"
   ).bind(account.learner_id).all();
+  const email = await env.DB.prepare("SELECT email FROM learner_emails WHERE learner_id = ?")
+    .bind(account.learner_id).first();
   return reply(req, env, {
+    email: email?.email || null,
     username: account.username, theme: account.theme,
     idleMinutes: account.idle_minutes, lastLesson: account.last_lesson,
     lessons: rows.results
@@ -437,6 +471,26 @@ async function handle(req, env) {
       return new Response(null, { status: 403 });
     }
     return new Response(null, { status: 204, headers: cors(req, env) });
+  }
+
+  if (req.method === "GET" && u.pathname === "/v1/auth/options") {
+    return reply(req, env, {
+      google: providerEnabled(env, "google"), email: emailEnabled(env),
+      turnstileSiteKey: emailEnabled(env) ? env.TURNSTILE_SITE_KEY : null
+    });
+  }
+  // Unauthenticated email endpoints require exact Origin and JSON. Combined
+  // with browser-bound challenges, this prevents cross-site login CSRF.
+  if (["/v1/auth/email/start", "/v1/auth/email/verify"].includes(u.pathname)) {
+    if (req.method !== "POST" || req.headers.get("Origin") !== env.PUBLIC_ORIGIN) {
+      return err(req, env, 403, "Use the sign-in form on the website.");
+    }
+    let input;
+    try { input = await jsonInput(req); }
+    catch { return err(req, env, 400, "Invalid request"); }
+    return u.pathname.endsWith("/start")
+      ? startEmail(req, env, input, emailHelpers)
+      : finishEmail(req, env, input, emailHelpers);
   }
 
   const start = /^\/v1\/auth\/start\/(google|apple)$/.exec(u.pathname);
@@ -486,6 +540,13 @@ async function handle(req, env) {
   try { input = await jsonInput(req); }
   catch { return err(req, env, 400, "Invalid request"); }
 
+  if (req.method === "POST" && u.pathname === "/v1/account/email/start") {
+    return startEmail(req, env, input, emailHelpers, account);
+  }
+  if (req.method === "POST" && u.pathname === "/v1/account/email/verify") {
+    return finishEmail(req, env, input, emailHelpers, account);
+  }
+
   if (req.method === "POST" && u.pathname === "/v1/progress/visit") {
     return visit(req, env, account, input);
   }
@@ -513,14 +574,21 @@ async function handle(req, env) {
         input.confirmed !== true) {
       return err(req, env, 400, "Account deletion requires confirmation");
     }
-    await env.DB.prepare("DELETE FROM learners WHERE id = ?")
-      .bind(account.learner_id).run(); // Cascades progress, sessions, identities.
+    await env.DB.batch([
+      // Cancel pending login codes for this email before deleting ownership.
+      env.DB.prepare("DELETE FROM email_challenges WHERE email IN (SELECT email FROM learner_emails WHERE learner_id = ?)")
+        .bind(account.learner_id),
+      env.DB.prepare("DELETE FROM learners WHERE id = ?").bind(account.learner_id)
+    ]); // Cascades progress, sessions, provider identities and verified email.
     return reply(req, env, { ok: true }, 200, {
       "Set-Cookie": sessionCookie("", 0)
     });
   }
   return err(req, env, 404, "Not found");
 }
+const emailHelpers = { now, randomToken, sha, cookie, cleanUsername,
+  reply, err, sessionCookie, createSession };
+
 export default {
   async scheduled(_event, env, ctx) {
     // Bounded database cleanup; do not record or log learner identities.
@@ -532,7 +600,9 @@ export default {
         env.DB.prepare("DELETE FROM oauth_flows WHERE expires_at < ?")
           .bind(now()),
         env.DB.prepare("DELETE FROM learner_sessions WHERE expires_at < ?")
-          .bind(now())
+          .bind(now()),
+        env.DB.prepare("DELETE FROM email_challenges WHERE expires_at < ?").bind(now()),
+        env.DB.prepare("DELETE FROM email_limits WHERE expires_at < ?").bind(now())
       ]);
       await env.DB.prepare(
         "DELETE FROM learners WHERE id IN (" +

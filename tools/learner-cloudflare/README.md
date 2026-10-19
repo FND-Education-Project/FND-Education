@@ -9,9 +9,10 @@ database, secrets, routes, or authorization policy**.
 - Public site and all lesson text remain readable without signing in.
 - Account-based progress is the **only** tracking method. No device-local
   or anonymous progress records are written.
-- Learners sign in with an established identity provider (Google and Apple
-  authorization flows are implemented in the Worker). The provider verifies
-  the identity; we store only its provider name and stable opaque subject ID.
+- Learners may choose Google or passwordless email codes delivered by Resend.
+  Google stores only the provider name and stable opaque subject ID. Email
+  sign-in stores a verified email separately. Apple is deferred and disabled.
+  Available methods are discovered from `/v1/auth/options`; unset methods are hidden.
 - Each account gets a self-editable display username, lesson visits/completion
   flags, a preferred `system/light/dark` theme, and an optional inactivity
   sign-out limit (default: off).
@@ -59,13 +60,10 @@ Do not interpret course status as a medical or treatment outcome.
 4. Register Google OAuth/OIDC with exact production callback
    `https://accounts.fndeducationproject.org/v1/auth/callback/google`;
    verify current consent-screen and provider policy requirements.
-5. Register Sign in with Apple Service ID, keys and exact callback
-   `https://accounts.fndeducationproject.org/v1/auth/callback/apple`.
-   Generate/rotate Apple's short-lived signed client secret securely.
-   Validate provider support for PKCE and `form_post`, browser cookie handling,
-   Apple-specific consent flow and mobile Safari before enabling its button.
-   **If Apple flow is not working in a supported browser, do not launch both
-   sign-in buttons until the provider integration is corrected.**
+5. Follow [the Resend rollout](RESEND-SETUP.md) for optional email sign-in:
+   apply the additive migration, verify a dedicated sending subdomain, set
+   sending-only Resend and Turnstile credentials, and verify deliverability.
+   Apple is deferred; its old code paths cannot be activated by credentials.
 6. Review Cloudflare Worker and provider billing/free quotas, WAF/rate-limits
    on sign-in and writes, and production TLS, cookie and CORS behavior.
    Enable appropriate abuse prevention and monitoring with redaction of
@@ -88,10 +86,12 @@ existing aggregate metrics Worker.
 
 ## Caveats to resolve before production
 
-- Both Google and Apple identities are separate accounts unless deliberately
-  linked after verifying control of both. Never merge based on provider email.
-- Apple and Google policies and endpoints require up-to-date verification:
-  web verification was not available while this branch was authored.
+- A Google learner can add verified email sign-in in account preferences.
+  A guest email login creates or opens its email-owned account. Never merge
+  by matching Google email, username or an unverified form entry. Adding
+  Google to an email-first account is not implemented in this release; the
+  UI explains how Google learners should attach email before switching.
+- Google production policies and browser behavior still require deployment review.
 - The API validates lesson identifiers against the 74 lessons currently
   published. Update its `LESSON_COUNTS` alongside any curriculum changes,
   or replace this with a signed/validated shared manifest.
@@ -110,7 +110,7 @@ existing aggregate metrics Worker.
 node --check tools/learner-cloudflare/worker.js
 node --check web/assets/js/account-shell.js
 node --check web/assets/js/course-progress.js
-node --test tools/learner-cloudflare/test-contract.mjs
+node --test tools/learner-cloudflare/test-*.mjs
 python tools/site/prepare_site.py
 python tools/site/validate.py
 ```
@@ -120,7 +120,7 @@ built-site validation. They do not deploy the account service.
 
 ## Current deployment status
 
-**Not configured, not deployed, no public accounts created.** This code
+**Public accounts remain disabled in the committed website configuration.** This code
 provides the account-first implementation and deployment foundation, but
 provider credentials, domain, database setup and end-to-end acceptance
 remain prerequisites. Do not merge as a public account launch.
@@ -159,8 +159,8 @@ the learner account.
 
 ### Privacy limitations
 
-Because account email addresses are not retained, **no email warning of
-an approaching inactivity deletion** is possible. Before first login and
+Email addresses are retained only for optional email authentication. No
+inactivity-deletion reminders are implemented for either sign-in method. Before first login and
 in account preferences, disclose the three-year policy. Export progress
 is available before deletion. Keep accounts no longer than necessary and
 do not join this database to anonymous statistics.
@@ -171,5 +171,5 @@ provider-controlled retention window; review and document those terms
 before claiming complete immediate erasure of every backup. Rate-limit
 destructive calls and test browser/account recovery cases.
 
-All cleanup work in this branch is unprovisioned; it becomes active only
+Cleanup becomes available with this Worker; it becomes active only
 after the isolated learner D1 and Worker pass the production setup gates.

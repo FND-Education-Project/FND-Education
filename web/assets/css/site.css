@@ -2076,3 +2076,13 @@ html[data-theme="dark"] {
 /* Keep completed status legible when account theme differs from OS theme. */
 html[data-theme="light"] .course-progress-state.is-complete { color: #23744c; }
 html[data-theme="dark"] .course-progress-state.is-complete { color: #8cdbac; }
+
+/* Email authentication remains inline and keyboard-accessible. Long addresses
+   and status messages wrap instead of widening the header on small screens. */
+.account-email-login { max-width: 34rem; overflow-wrap: anywhere; }
+.account-email-login summary { cursor: pointer; padding: .65rem 0; }
+.account-email-login form:not([hidden]) { display: grid; gap: .75rem; }
+.account-email-login label { display: grid; gap: .3rem; }
+.account-email-login input { box-sizing: border-box; width: 100%; min-height: 2.75rem; font: inherit; }
+.account-email-login button { min-height: 2.75rem; }
+.account-email-login [hidden] { display: none !important; }
