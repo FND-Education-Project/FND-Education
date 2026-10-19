@@ -52,7 +52,12 @@ test("login cannot start without configured provider credentials", async () => {
 });
 
 test("account client never uses browser-local progress storage", () => {
-  assert.doesNotMatch(courseScript + accountScript,
+  // A storage API mentioned in a documentation comment is not an API call.
+  // Test executable code, retaining detection of calls or property access.
+  const executableClient = (courseScript + accountScript)
+    .replace(/\/\*[\s\S]*?\*\//g, "")
+    .replace(/^\s*\/\/[^\n]*$/gm, "");
+  assert.doesNotMatch(executableClient,
     /(?:window\.)?(?:localStorage|sessionStorage|indexedDB)\s*[.[(]/);
   assert.match(courseScript, /dlg\.showModal\(\)/);
   assert.match(courseScript, /confirmedUsername: account\.username/);
