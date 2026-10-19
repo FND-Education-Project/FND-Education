@@ -22,6 +22,9 @@ web/research/*
 web/_data/generated/*
 !web/_data/generated/.gitkeep
 
+# Generated public curriculum index (rebuilt for every Pages build).
+web/assets/data/course-progress.json
+
 web/assets/illustrations/
 web/assets/images/
 web/assets/puzzles/
