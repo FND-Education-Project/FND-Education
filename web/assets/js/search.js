@@ -44,6 +44,16 @@
     [/\bhoovers?\s+sign\b/gi, "Hoover's sign"]
   ];
 
+  /*
+   * Ambiguous community wording is expanded rather than replaced. This keeps
+   * the reader's original word searchable while adding a reviewed related
+   * concept. For example, "mirroring" can mean several things, but in FND
+   * discussions it is also commonly used informally for tremor entrainment.
+   */
+  const TERM_EXPANSIONS = [
+    [/\bmirroring\b/gi, "mirroring entrainment"]
+  ];
+
 
   function updateInterpretationNote(original, normalized) {
     const note = document.getElementById("search-interpretation");
@@ -82,6 +92,10 @@
     }
 
     for (const [pattern, replacement] of TERM_ALIASES) {
+      normalized = normalized.replace(pattern, replacement);
+    }
+
+    for (const [pattern, replacement] of TERM_EXPANSIONS) {
       normalized = normalized.replace(pattern, replacement);
     }
 
@@ -165,25 +179,35 @@
       }
     });
 
-    const hashQuery = (() => {
+    function queryFromLocation() {
       const rawHash = window.location.hash.replace(/^#/, "");
+      const hashQuery = rawHash
+        ? new URLSearchParams(rawHash).get("q") || ""
+        : "";
 
-      if (!rawHash) {
-        return "";
-      }
-
-      return new URLSearchParams(rawHash).get("q") || "";
-    })();
-
-    // Keep support for older /search/?q= links and no-JavaScript form
-    // submissions, but prefer the fragment because it is not sent to the host.
-    const initialQuery =
-      hashQuery ||
-      new URLSearchParams(window.location.search).get("q") ||
-      "";
-
-    if (initialQuery.trim()) {
-      search.triggerSearch(initialQuery.trim());
+      // Keep support for older /search/?q= links and no-JavaScript form
+      // submissions, but prefer the fragment because it is not sent to the host.
+      return (
+        hashQuery ||
+        new URLSearchParams(window.location.search).get("q") ||
+        ""
+      ).trim();
     }
+
+    function runLocationSearch() {
+      const query = queryFromLocation();
+
+      if (query) {
+        search.triggerSearch(query);
+      }
+    }
+
+    // Run the initial request after Pagefind is ready.
+    runLocationSearch();
+
+    // A header search from the already-open results page changes only #q=...
+    // and therefore does not reload the document. Listen for that fragment
+    // change and reuse the existing Pagefind UI instance for the new search.
+    window.addEventListener("hashchange", runLocationSearch);
   });
 })();

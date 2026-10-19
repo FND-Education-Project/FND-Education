@@ -127,23 +127,21 @@ Your care team is there to explain test results with you. You can ask for explan
 
 ### Optional learning activity
 
-<a href="{{ "/puzzles/" | relative_url }}?collection=crosswords&amp;puzzle=lesson-6">Browse crosswords for this lesson</a> · <a href="{{ "/puzzles/" | relative_url }}?collection=colouring&amp;puzzle=lesson-6">Browse colouring pages for this lesson</a>
+<a href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-6">Browse crosswords for this lesson</a> · <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-6">Browse colouring pages for this lesson</a>
 
 Choose a crossword below. Normal and easy editions are fillable PDFs; the easy edition includes a word bank.
 
-<div class="puzzle-grid">
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-2-Lesson-6/tests-uncertainty-and-coexisting-conditions-m2-6-normal.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/tests-uncertainty-and-coexisting-conditions-m2-6-normal.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Tests, Uncertainty, and CoExisting Conditions — Normal <small>PDF</small></span>
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-6" aria-label="Browse the crossword for Lesson 6">
+  <img src="{{ '/assets/puzzles/thumbnails/tests-uncertainty-and-coexisting-conditions-m2-6-normal.png' | relative_url }}" alt="Blank crossword grid for Lesson 6." loading="lazy" decoding="async">
+  <span>Lesson 6 crossword</span>
 </a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-2-Lesson-6/tests-uncertainty-and-coexisting-conditions-m2-6-easy.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/tests-uncertainty-and-coexisting-conditions-m2-6-easy.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Tests, Uncertainty, and CoExisting Conditions — Easy <small>PDF</small></span>
-</a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-2-Lesson-6/tests-uncertainty-and-coexisting-conditions-m2-6-answer-key.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/tests-uncertainty-and-coexisting-conditions-m2-6-answer-key.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Tests, Uncertainty, and CoExisting Conditions — Answer key <small>PDF</small></span>
-</a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 6 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-2-Lesson-6/tests-uncertainty-and-coexisting-conditions-m2-6-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy crossword PDF for Lesson 6 (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-2-Lesson-6/tests-uncertainty-and-coexisting-conditions-m2-6-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal crossword PDF for Lesson 6 (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-2-Lesson-6/tests-uncertainty-and-coexisting-conditions-m2-6-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key crossword PDF for Lesson 6 (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab. Easy includes a word bank.</p>
 </div>
 
 #### Colouring page

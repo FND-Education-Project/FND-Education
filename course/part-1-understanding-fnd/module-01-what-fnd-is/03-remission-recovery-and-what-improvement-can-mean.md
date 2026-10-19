@@ -147,23 +147,21 @@ You don't need to track it every day. It's simply a way to recognize something t
 
 ### Optional learning activity
 
-<a href="{{ "/puzzles/" | relative_url }}?collection=crosswords&amp;puzzle=lesson-3">Browse crosswords for this lesson</a> · <a href="{{ "/puzzles/" | relative_url }}?collection=colouring&amp;puzzle=lesson-3">Browse colouring pages for this lesson</a>
+<a href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-3">Browse crosswords for this lesson</a> · <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-3">Browse colouring pages for this lesson</a>
 
-Choose a preview to open the printable PDF. These activities are optional.
+Choose a crossword edition below, or select the preview to browse the collection. These activities are optional.
 
-<div class="puzzle-grid">
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-3/remission-and-recovery-m1-3-normal.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/remission-and-recovery-m1-3-normal.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Remission and Recovery — Normal <small>PDF</small></span>
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-3" aria-label="Browse the crossword for Lesson 3">
+  <img src="{{ '/assets/puzzles/thumbnails/remission-and-recovery-m1-3-normal.png' | relative_url }}" alt="Blank crossword grid for Lesson 3." loading="lazy" decoding="async">
+  <span>Lesson 3 crossword</span>
 </a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-3/remission-and-recovery-m1-3-easy.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/remission-and-recovery-m1-3-easy.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Remission and Recovery — Easy <small>PDF</small></span>
-</a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-3/remission-and-recovery-m1-3-answer-key.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/remission-and-recovery-m1-3-answer-key.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Remission and Recovery — Answer key <small>PDF</small></span>
-</a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 3 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-3/remission-and-recovery-m1-3-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy crossword PDF for Lesson 3 (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-3/remission-and-recovery-m1-3-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal crossword PDF for Lesson 3 (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-3/remission-and-recovery-m1-3-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key crossword PDF for Lesson 3 (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab. Easy includes a word bank.</p>
 </div>
 
 #### Colouring page

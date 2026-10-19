@@ -155,7 +155,7 @@ function privateReply(status, content = "", type = "text/plain; charset=utf-8") 
 
 async function handleAdmin(request, env, path) {
   if (!adminConfigured(env)) return privateReply(404); // OFF by default
-  if (!["/admin", "/admin/", "/admin/app.js", "/admin/api/summary"].includes(path)) {
+  if (!["/admin", "/admin/", "/admin/app.js", "/admin/api/summary", "/admin/api/monthly"].includes(path)) {
     return privateReply(404);
   }
   if (request.method !== "GET") return privateReply(405);
@@ -174,6 +174,29 @@ async function handleAdmin(request, env, path) {
   }
   if (!env.DB || typeof env.DB.prepare !== "function") return privateReply(503);
   const url = new URL(request.url);
+  if (path === "/admin/api/monthly") {
+    if (url.searchParams.size) return privateReply(400, "Unexpected parameters.");
+    const cutoff = new Date();
+    cutoff.setUTCFullYear(cutoff.getUTCFullYear() - 5);
+    const since = cutoff.toISOString().slice(0, 7);
+    try {
+      const result = await env.DB.prepare(
+        "SELECT month, event, SUM(total) AS total FROM monthly_counts " +
+        "WHERE month >= ?1 GROUP BY month, event " +
+        "ORDER BY month DESC, event LIMIT 500"
+      ).bind(since).all();
+      const safe = (result.results || []).filter(row =>
+        /^\d{4}-\d{2}$/.test(row.month) &&
+        EVENT_TYPES.has(row.event) &&
+        Number.isSafeInteger(row.total) && row.total >= 0);
+      return privateReply(200, JSON.stringify({ rows: safe }),
+        "application/json; charset=utf-8");
+    } catch {
+      // If the monthly table is not migrated, the primary dashboard
+      // and the existing 7/30/90-day API must continue working.
+      return privateReply(503, "Monthly totals are not available yet.");
+    }
+  }
   const days = url.searchParams.get("days") || "30";
   if (!["7", "30", "90"].includes(days) || url.searchParams.size > 1) {
     return privateReply(400, "Unsupported period.");

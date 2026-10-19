@@ -166,23 +166,21 @@ You don't need to keep records or perform exercises to prove that you are trying
 
 ### Optional learning activity
 
-<a href="{{ "/puzzles/" | relative_url }}?collection=crosswords&amp;puzzle=lesson-2">Browse crosswords for this lesson</a> · <a href="{{ "/puzzles/" | relative_url }}?collection=colouring&amp;puzzle=lesson-2">Browse colouring pages for this lesson</a>
+<a href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-2">Browse crosswords for this lesson</a> · <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-2">Browse colouring pages for this lesson</a>
 
-Choose a preview to open the printable PDF. These activities are optional.
+Choose a crossword edition below, or select the preview to browse the collection. These activities are optional.
 
-<div class="puzzle-grid">
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-2/biopsychosocial-mess-m1-2-normal.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/biopsychosocial-mess-m1-2-normal.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Biopsychosocial mess — Normal <small>PDF</small></span>
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-2" aria-label="Browse the crossword for Lesson 2">
+  <img src="{{ '/assets/puzzles/thumbnails/biopsychosocial-mess-m1-2-normal.png' | relative_url }}" alt="Blank crossword grid for Lesson 2." loading="lazy" decoding="async">
+  <span>Lesson 2 crossword</span>
 </a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-2/biopsychosocial-mess-m1-2-easy.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/biopsychosocial-mess-m1-2-easy.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Biopsychosocial mess — Easy <small>PDF</small></span>
-</a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-2/biopsychosocial-mess-m1-2-answer-key.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/biopsychosocial-mess-m1-2-answer-key.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Biopsychosocial mess — Answer key <small>PDF</small></span>
-</a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 2 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-2/biopsychosocial-mess-m1-2-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy crossword PDF for Lesson 2 (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-2/biopsychosocial-mess-m1-2-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal crossword PDF for Lesson 2 (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-2/biopsychosocial-mess-m1-2-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key crossword PDF for Lesson 2 (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab. Easy includes a word bank.</p>
 </div>
 
 #### Colouring page

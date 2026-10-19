@@ -101,23 +101,21 @@ Use your own words. This is not a test, and your explanation can change as you l
 
 ### Optional learning activity
 
-<a href="{{ "/puzzles/" | relative_url }}?collection=crosswords&amp;puzzle=lesson-1">Browse crosswords for this lesson</a> · <a href="{{ "/puzzles/" | relative_url }}?collection=colouring&amp;puzzle=lesson-1">Browse colouring pages for this lesson</a>
+<a href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-1">Browse crosswords for this lesson</a> · <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-1">Browse colouring pages for this lesson</a>
 
-Choose a preview to open a printable PDF. These activities are optional.
+Choose a crossword edition below, or select the preview to browse the collection. These activities are optional.
 
-<div class="puzzle-grid">
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-1/functional-what-m1-1-normal.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/functional-what-m1-1-normal.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Functional What? — Normal <small>PDF</small></span>
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-1" aria-label="Browse the crossword for Lesson 1">
+  <img src="{{ '/assets/puzzles/thumbnails/functional-what-m1-1-normal.png' | relative_url }}" alt="Blank crossword grid for Lesson 1." loading="lazy" decoding="async">
+  <span>Lesson 1 crossword</span>
 </a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-1/functional-what-m1-1-easy.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/functional-what-m1-1-easy.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Functional What? — Easy <small>PDF</small></span>
-</a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-1/functional-what-m1-1-answer-key.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/functional-what-m1-1-answer-key.png' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Functional What? — Answer key <small>PDF</small></span>
-</a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 1 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-1/functional-what-m1-1-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy crossword PDF for Lesson 1 (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-1/functional-what-m1-1-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal crossword PDF for Lesson 1 (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-1/functional-what-m1-1-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key crossword PDF for Lesson 1 (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab. Easy includes a word bank.</p>
 </div>
 
 #### Colouring page
