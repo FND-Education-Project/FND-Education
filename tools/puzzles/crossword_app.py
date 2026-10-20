@@ -2,7 +2,7 @@
 
 Start with:
     python -m streamlit run tools/puzzles/crossword_app.py \
-        --server.address 0.0.0.0 --server.port 8501
+        --server.address 0.0.0.0 --server.port 8502
 
 The Streamlit process runs **inside** Codespaces; it does not publish a new
 service on the FND website. Keep the forwarded port PRIVATE. Nothing is
