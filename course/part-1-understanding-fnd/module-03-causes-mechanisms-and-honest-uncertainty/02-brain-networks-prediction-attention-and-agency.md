@@ -4,7 +4,7 @@
 
 # Brain Networks, Prediction, Attention, and Agency
 
-> **Working draft:** Person and supporter sections revised by the human author; the clinician section is an AI-assisted editorial draft awaiting human and clinical review. [Contributors and reviewers](https://fndeducationproject.org/contact/) are welcome.
+> **Working draft:** Human authored person and supporter sections, including the author-directed suggestibility explanation; the clinician section is AI-assisted and awaits human and clinical review. Evidence and editorial audits completed October 20, 2026. [Contributors and reviewers](https://fndeducationproject.org/contact/) are welcome.
 
 This lesson explores what may happen in the nervous system during functional symptoms. Learn what studies of brain networks, attention and chemistry can tell us.
 
@@ -24,7 +24,7 @@ Maybe your leg sometimes feels stuck. Maybe a memory slips away just when you re
 
 FND can look different from person to person. You may experience a few of these symptoms, different ones, or symptoms that change over time.
 
-A standard brain scan can look healthy while your symptoms remain very real. That tells us to look at how the nervous system is working and communicating, as well as at its physical structure.
+A standard brain scan can look healthy while your symptoms remain very real. Clinicians look for positive features in your symptoms and examination to understand how your nervous system is working. The [tests and investigations Reference page](../../../reference/diagnostic-concepts/03-tests-and-investigations.md) explains how scan results fit into that assessment. (*citations* [4](#citation-4))
 
 Think of your nervous system as a busy behind-the-scenes crew. It helps prepare movement, sort sensations, aim attention, find memories, and keep track of what is happening around you. Researchers are learning how some of this teamwork may change in FND. (*citations* [1](#citation-1), [3](#citation-3))
 
@@ -34,7 +34,7 @@ Picture a band playing a song. The drummer, singer, and guitarist each have a di
 
 Your brain works through teams too. Groups of brain areas pass information back and forth to help with movement, awareness, memory, and other skills. Scientists call each team a brain network.
 
-In studies, some groups of people with FND show different patterns of activity or communication between these networks. These patterns give researchers clues about coordination and control. Each person can still have their own mix of symptoms and experiences. (*citations* [1](#citation-1), [2](#citation-2))
+In studies, some groups of people with FND show different patterns of activity or communication between these networks. These patterns give researchers clues about coordination and control. Each person can still have their own mix of symptoms and experiences. (*citations* [1](#citation-1), [3](#citation-3))
 
 <figure class="image-60center" markdown="1">
 
@@ -50,7 +50,7 @@ Your nervous system handles many actions on autopilot. When you walk toward a ch
 
 Now imagine watching every step and trying to control it perfectly. The movement may feel less smooth, like walking while balancing a full cup.
 
-During an examination, a movement may become easier when the task changes. Clinicians can use that change as a helpful clue. It may show that automatic control and focused control are working along different routes. The change happens involuntarily, just like the symptom itself. (*citations* [4](#citation-4), [5](#citation-5))
+During an examination, a movement may become easier when the task changes. Clinicians can use that change as a helpful clue. It may show that movement works differently when it happens automatically and when attention is focused on it. The change happens involuntarily, just like the symptom itself. (*citations* [4](#citation-4), [5](#citation-5))
 
 Researchers are also exploring how the brain understands signals from the body. Your brain mixes new information with what it has learned before, a little like guessing the next word in a familiar song. Scientists call this prediction. The bigger idea is called [predictive processing](../../../glossary/README.md#predictive-processing).
 
@@ -64,17 +64,20 @@ For some people, a functional symptom changes when that spotlight moves or when 
 
 > “If I meditate or focus on something else I can stop it.”
 
-— Lived experience: this was one person's experience. Your symptoms may respond differently. [Read the public source](https://www.reddit.com/r/FND/comments/17jx51h).
+*Figure 1 — Lived experience.*
+
+— Lived experience: this was one person's experience. Your symptoms may respond differently. [Read the public source](https://www.reddit.com/r/FND/comments/17jx51h/fnd_head_jerking/). (*citations* [12](#citation-12))
 
 A change with attention can give researchers useful information. The symptom remains involuntary.
 
-Scientists also study [agency](../../../glossary/README.md#agency). Agency is the feeling that “I made that action happen.” With some FND symptoms, a movement or sensation can feel as though it arrived on its own. Researchers are studying how the brain creates that sense of ownership and control. (*citations* [1](#citation-1), [3](#citation-3))
+Scientists also study [agency](../../../glossary/README.md#agency). Agency is the feeling that “I made that action happen.” With some FND symptoms, a movement or sensation can feel as though it arrived on its own. Researchers are studying how the brain creates the feeling that we initiated an action. (*citations* [1](#citation-1), [3](#citation-3))
 
 ### What are researchers learning about brain chemistry?
+{: #could-the-chemicals-in-my-brain-have-changed .shareable }
 
 Brain cells communicate with electrical activity and chemical messengers. You can picture those messengers as tiny notes passed between cells.
 
-In a 2024 study, researchers used a special MRI method to compare brain chemistry in children and teenagers with FND and young people without FND. In one movement-related area, the groups had different amounts of some chemicals compared with a reference chemical. The result describes an average difference between groups. Each person can have a different result. (*citation* [7](#citation-7))
+In a 2024 study, researchers used a special MRI method to compare brain chemistry in children and teenagers with FND and young people without FND. This method estimates selected chemicals in a brain region, rather than watching messages pass between cells. In one movement-related area, the groups had different amounts of some chemicals compared with a reference chemical. The result describes an average difference between groups. Each person can have a different result. (*citations* [7](#citation-7))
 
 This study opens another door for research. Scientists can now ask whether these differences come before symptoms, develop afterward, or connect with other parts of health.
 
@@ -100,6 +103,10 @@ You might choose movement, awareness, memory, seizures, sensation, speech, pain,
 
 As you think back over this lesson, can you spot one measured research finding and one idea that scientists are still testing?
 
+If you feel comfortable, you might also ask: how does it feel to hear what researchers have found and what they are still exploring?
+
+You can leave that question for another day.
+
 ### One small step
 
 At your next appointment, you could ask:
@@ -109,10 +116,13 @@ At your next appointment, you could ask:
 Your job is to share what you notice, at a pace that works for you. Your clinician can help connect those experiences with the examination and the growing research.
 
 
-
 ### Optional learning activity
 
-<a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-8">Open the Lesson 8 colouring page</a> (printable PDF).
+<a href="{{ '/assets/puzzles/colouring/lesson-8-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">
+<img src="{{ '/assets/puzzles/colouring/lesson-8-coloring-book.png' | relative_url }}" alt="Preview of the Lesson 8 brain-network colouring page" style="width:180px;max-width:100%;height:auto;" loading="lazy">
+</a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-8-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 8 colouring PDF (new tab)</a>, or visit the <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-8">colouring-page collection</a>.
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -129,7 +139,7 @@ You may notice that someone has trouble lifting a leg during an examination, the
 
 For the clinician, the change is a useful clue about how the nervous system is controlling the movement. For the person, the difficulty is still genuine and involuntary. One easier moment is only one piece of the puzzle; it may not show how safely or reliably the movement works at home, at school, or out in the community. (*citations* [4](#citation-4), [5](#citation-5))
 
-Understanding that difference can help supporters hold two ideas at once: improvement may be possible, and the person may still need patience, practical help, or adjustments today.
+Understanding that difference can help supporters hold two ideas at once: improvement may be possible, and the person may still need patience, practical help, or adjustments today. The [assessment and everyday function Reference page](../../../reference/diagnostic-concepts/10-assessment-and-everyday-function.md) explores this distinction.
 
 A gentle response could sound like: “That seems like a useful clue for your care team. What did they say it might mean for you?”
 
@@ -141,7 +151,15 @@ What matters most is whether the explanation helps the person make sense of thei
 
 The theory does not have to be fully understood before practical support can help. A quieter space, time to rest, a mobility aid, seizure safety planning, or company at rehabilitation may make the day more manageable. The most useful support will depend on the person, the symptom, and the situation.
 
-**Suggestibility** is a word that can feel uncomfortable. It may sound like someone is easily led, but here it means that expectations, suggestions, or things we see can sometimes influence a symptom. Every brain uses expectations, and each person responds differently. Someone with FND may find that a particular cue affects a symptom even when they are quite independent in everyday decisions. When watching a movement seems to influence a similar symptom, this is sometimes called **symptom modelling**. **Entrainment** is different: it describes a tremor changing rhythm to match another movement during an examination. These responses vary from person to person, and the symptoms remain real and involuntary. At home, supporters can carry on naturally, listen to the person's experience, and make practical adjustments together when a clear pattern emerges.
+### What do suggestibility, symptom modelling and entrainment mean?
+
+**Suggestibility** is a word that can feel uncomfortable. It may sound like someone is easily led, but here it means that a suggestion can sometimes influence a symptom. Each person responds differently. This research concerns responses to suggestions, rather than how independently someone makes everyday decisions. (*citations* [9](#citation-9))
+
+Researchers also explore **symptom modelling**: whether experiencing or seeing a symptom can help shape the pattern of a functional symptom. A small movement-disorder study found an association with having seen similar symptoms in family or friends. It offers a possible influence to study, rather than showing what caused one person's symptoms. (*citations* [11](#citation-11))
+
+**[Entrainment](../../../reference/diagnostic-signs/functional_tremor/02-entrainment.md)** is different: it describes a tremor changing rhythm to match a deliberate movement of another limb during an examination. These responses vary from person to person, and the symptoms remain real and involuntary. (*citations* [10](#citation-10))
+
+At home, supporters can carry on naturally, listen to the person's experience, and make practical adjustments together when a clear pattern emerges.
 
 ### Why is it helpful to leave room for uncertainty?
 
@@ -175,7 +193,7 @@ These concepts are most useful when considered one at a time and connected with 
 
 Attention helps the nervous system select information for action. Some attention is deliberate; other shifts happen automatically when something seems important.
 
-Researchers use **salience** to describe how a stimulus gains priority. Pain, an unfamiliar sensation or a sudden sound may capture attention without conscious choice. (*citation* [3](#citation-3))
+Researchers use **salience** to describe how a stimulus gains priority. Pain, an unfamiliar sensation or a sudden sound may capture attention without conscious choice. (*citations* [3](#citation-3))
 
 Consider functional tremor. During examination, its rhythm may change when the person performs a separate rhythmic movement. That change is an **observed clinical sign**. It can suggest that the organisation of movement depends partly on the task and attentional context. (*citations* [4](#citation-4), [5](#citation-5))
 
@@ -195,13 +213,13 @@ This offers a possible account of *how* a symptom occurs. A positive examination
 
 ### Interoception: how are signals from inside the body understood?
 
-**Interoception** involves sensing and interpreting internal bodily states, including aspects of heartbeat, breathing and visceral sensation.
+**[Interoception](../../../glossary/README.md#interoception)** involves sensing and interpreting internal bodily states, including aspects of heartbeat, breathing and visceral sensation.
 
-These signals are processed alongside attention, prior experience and the body's changing needs. Researchers are investigating how altered processing of internal signals may contribute to some FND experiences. (*citation* [3](#citation-3))
+These signals are processed alongside attention, prior experience and the body's changing needs. Researchers are investigating how altered processing of internal signals may contribute to some FND experiences. (*citations* [3](#citation-3))
 
 A patient might describe an internal sensation as unusually strong, unfamiliar or difficult to interpret. That account gives the clinician a starting point for discussing what the person experiences and which processes researchers are studying.
 
-Functional seizures offer a related clinical example: they may involve changes in awareness, responsiveness or movement, with or without panic. Overlapping features such as altered breathing or shaking make a careful event history important; the AAN guideline also addresses evaluation for coexisting epilepsy. (*citation* [8](#citation-8))
+Functional seizures offer a related clinical example: they may involve changes in awareness, responsiveness or movement, with or without panic. Overlapping features such as altered breathing or shaking make a careful event history important; the AAN guideline also addresses evaluation for coexisting epilepsy. (*citations* [8](#citation-8))
 
 Interoception is one research perspective among several rather than a demonstrated explanation for all functional seizures.
 
@@ -224,9 +242,9 @@ The four concepts above are **models of neurological processes**. Imaging and cl
 
 **Structural MRI** addresses a different question: whether brain anatomy varies in association with FND or particular experiences.
 
-Bègue and colleagues (2019) review structural findings and consider whether these differences could precede symptoms, follow them or relate to other factors. (*citation* [2](#citation-2))
+Bègue and colleagues (2019) review structural findings and consider whether these differences could precede symptoms, follow them or relate to other factors. (*citations* [2](#citation-2))
 
-For example, Perez and colleagues (2018) compared **26 people with motor FND and 27 controls**. They found no whole-brain-corrected cortical-thickness difference across the complete groups. Specific analyses linked dissociation measures to regional findings involving the **left caudal anterior cingulate cortex** and **right lateral occipital cortex**. (*citation* [6](#citation-6))
+For example, Perez and colleagues (2018) compared **26 people with motor FND and 27 controls**. They found no whole-brain-corrected cortical-thickness difference across the complete groups. Specific analyses linked dissociation measures to regional findings involving the **left caudal anterior cingulate cortex** and **right lateral occipital cortex**. (*citations* [6](#citation-6))
 
 These associations suggest research questions about neurobiology and dissociation in motor FND. The study's population, analyses and results define how far the interpretation can extend.
 
@@ -234,7 +252,7 @@ These associations suggest research questions about neurobiology and dissociatio
 
 **Magnetic resonance spectroscopy** estimates selected brain metabolites. It provides biochemical measurements that complement research on brain activity and anatomy.
 
-Charney and colleagues (2024) compared **32 children and adolescents with mixed FND presentations** and **41 controls**. In the supplementary motor area, the FND group had lower ratios of **N-acetylaspartate (NAA)** and **gamma-aminobutyric acid (GABA)** to creatine. Ratios in an anterior default-mode network region were similar between groups. (*citation* [7](#citation-7))
+Charney and colleagues (2024) compared **32 children and adolescents with mixed FND presentations** and **41 controls**. In the supplementary motor area, the FND group had lower ratios of **N-acetylaspartate (NAA)** and **gamma-aminobutyric acid (GABA)** to creatine. Ratios in an anterior default-mode network region were similar between groups. (*citations* [7](#citation-7))
 
 The results identify regional biochemical differences in a paediatric study group. Longitudinal and replicated work may help establish whether these changes precede symptoms, follow them or arise alongside other processes.
 
@@ -284,19 +302,27 @@ Charney's paediatric spectroscopy study adds an early brain-chemistry line of in
 
 Bennett's clinical review and the physiotherapy consensus connect observations of attention and automatic movement to clinical explanation and rehabilitation. The consensus is professional guidance, with a motor-symptom scope. Together, these sources inform clinical understanding while individual diagnosis continues to rely on appropriate clinical findings. (*citations* [4](#citation-4), [5](#citation-5))
 
+The suggestibility review examines responses to suggestions. The clinical neurophysiology review explains entrainment. The small symptom-modelling study reports an association in movement disorders; it does not establish an individual's cause. (*citations* [9](#citation-9), [10](#citation-10), [11](#citation-11))
+
 ### Citation table
 
-| Citation | Full citation |
-|---|---|
-| <a id="citation-1"></a>**[1]** | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) |
-| <a id="citation-2"></a>**[2]** | Bègue I, Adams C, Stone J, Perez DL. Structural alterations in functional neurological disorder and related conditions: a software and hardware problem? *NeuroImage: Clinical*. 2019;22:101798. [FND-CIT-0004](../../../research/citation-index.md#fnd-cit-0004). [https://doi.org/10.1016/j.nicl.2019.101798](https://doi.org/10.1016/j.nicl.2019.101798) |
-| <a id="citation-3"></a>**[3]** | Drane DL, Fani N, Hallett M, Khalsa SS, Perez DL, Roberts NA. A framework for understanding the pathophysiology of functional neurological disorder. *CNS Spectrums*. 2021;26(6):555–561. [FND-CIT-0006](../../../research/citation-index.md#fnd-cit-0006). [https://doi.org/10.1017/S1092852920001789](https://doi.org/10.1017/S1092852920001789) |
-| <a id="citation-4"></a>**[4]** | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
-| <a id="citation-5"></a>**[5]** | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
-| <a id="citation-6"></a>**[6]** | Perez DL, Matin N, Williams B, et al. Cortical thickness alterations linked to somatoform and psychological dissociation in functional neurological disorders. *Human Brain Mapping*. 2018;39(1):428–439. [DOI](https://doi.org/10.1002/hbm.23853). [FND-CIT-0190](../../../research/citation-index.md#fnd-cit-0190). Motor-FND/dissociation associations; not causal evidence or an FCD biomarker. |
-| <a id="citation-7"></a>**[7]** | Charney M, Foster S, Shukla V, et al. Neurometabolic alterations in children and adolescents with functional neurological disorder. *NeuroImage: Clinical*. 2024;41:103557. [FND-CIT-0044](../../../research/citation-index.md#fnd-cit-0044). [DOI](https://doi.org/10.1016/j.nicl.2023.103557). Small paediatric neurometabolic study; neither causal proof nor a diagnostic biomarker. |
-| <a id="citation-8"></a>**[8]** | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [DOI](https://doi.org/10.1212/WNL.0000000000214466). Diagnosis-informed management and co-occurring epilepsy; not evidence of a single functional-seizure mechanism. |
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | — | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) |
+| <a id="citation-2"></a>**[2]** | — | Bègue I, Adams C, Stone J, Perez DL. Structural alterations in functional neurological disorder and related conditions: a software and hardware problem? *NeuroImage: Clinical*. 2019;22:101798. [FND-CIT-0004](../../../research/citation-index.md#fnd-cit-0004). [https://doi.org/10.1016/j.nicl.2019.101798](https://doi.org/10.1016/j.nicl.2019.101798) |
+| <a id="citation-3"></a>**[3]** | — | Drane DL, Fani N, Hallett M, Khalsa SS, Perez DL, Roberts NA. A framework for understanding the pathophysiology of functional neurological disorder. *CNS Spectrums*. 2021;26(6):555–561. [FND-CIT-0006](../../../research/citation-index.md#fnd-cit-0006). [https://doi.org/10.1017/S1092852920001789](https://doi.org/10.1017/S1092852920001789) |
+| <a id="citation-4"></a>**[4]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
+| <a id="citation-5"></a>**[5]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
+| <a id="citation-6"></a>**[6]** | — | Perez DL, Matin N, Williams B, et al. Cortical thickness alterations linked to somatoform and psychological dissociation in functional neurological disorders. *Human Brain Mapping*. 2018;39(1):428–439. [DOI](https://doi.org/10.1002/hbm.23853). [FND-CIT-0190](../../../research/citation-index.md#fnd-cit-0190). Motor-FND/dissociation associations; not causal evidence or an FCD biomarker. |
+| <a id="citation-7"></a>**[7]** | — | Charney M, Foster S, Shukla V, et al. Neurometabolic alterations in children and adolescents with functional neurological disorder. *NeuroImage: Clinical*. 2024;41:103557. [FND-CIT-0044](../../../research/citation-index.md#fnd-cit-0044). [DOI](https://doi.org/10.1016/j.nicl.2023.103557). Small paediatric neurometabolic study; neither causal proof nor a diagnostic biomarker. |
+| <a id="citation-8"></a>**[8]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [DOI](https://doi.org/10.1212/WNL.0000000000214466). Diagnosis-informed management and co-occurring epilepsy; not evidence of a single functional-seizure mechanism. |
+
+| <a id="citation-9"></a>**[9]** | — | Wieder L, Brown R, Thompson T, Terhune DB. Suggestibility in functional neurological disorder: a meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(2):150–157. [FND-CIT-0282](../../../research/citation-index.md#fnd-cit-0282). [DOI](https://doi.org/10.1136/jnnp-2020-323706). Group responses to suggestion, not a measure of everyday decision-making. |
+| <a id="citation-10"></a>**[10]** | — | Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. [FND-CIT-0022](../../../research/citation-index.md#fnd-cit-0022). [DOI](https://doi.org/10.1016/j.cnp.2023.12.006). Entrainment and its clinical interpretation. |
+| <a id="citation-11"></a>**[11]** | — | Pellicciari R, Superbo M, Gigante AF, Livrea P, Defazio G. Disease modeling in functional movement disorders. *Parkinsonism & Related Disorders*. 2014;20(11):1287–1289. FND-CIT-0283. Small case-control study of exposure to similar symptoms; association rather than proof of causation. |
+
+| <a id="citation-12"></a>**[12]** | Figure 1 | Public community post, “FND Head Jerking.” Reddit, r/FND, October 30, 2023. [Original post](https://www.reddit.com/r/FND/comments/17jx51h/fnd_head_jerking/). [FND-CIT-0284](../../../research/citation-index.md#fnd-cit-0284). Quotation verified October 20, 2026; individual lived experience, not treatment evidence. |
 
 This page still needs review by people with FND, supporters, clinicians and researchers, especially to ensure that proposed models remain clearly separate from diagnostic evidence.
 
-*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Editorial audit completed October 17, 2026 · Human authoring and clinical review pending*
+*Person and supporter sections human authored, including author-directed suggestibility material: October 20, 2026 · Evidence and editorial audits completed: October 20, 2026 · Clinician section human review and clinical review pending*
