@@ -136,6 +136,8 @@ What matters most is whether the explanation helps the person make sense of thei
 
 The theory does not have to be fully understood before practical support can help. A quieter space, time to rest, a mobility aid, seizure safety planning, or company at rehabilitation may make the day more manageable. The most useful support will depend on the person, the symptom, and the situation.
 
+**Suggestibility** is a word that can feel uncomfortable. It may sound like someone is easily led, but here it means that expectations, suggestions, or things we see can sometimes influence a symptom. Every brain uses expectations, and each person responds differently. Someone with FND may find that a particular cue affects a symptom even when they are quite independent in everyday decisions. When watching a movement seems to influence a similar symptom, this is sometimes called **symptom modelling**. **Entrainment** is different: it describes a tremor changing rhythm to match another movement during an examination. These responses vary from person to person, and the symptoms remain real and involuntary. At home, supporters can carry on naturally, listen to the person's experience, and make practical adjustments together when a clear pattern emerges.
+
 ### Why is it helpful to leave room for uncertainty?
 
 Research into prediction, attention, and brain chemistry is still growing. These ideas can guide useful questions, while the person’s needs today remain the starting point for support.
