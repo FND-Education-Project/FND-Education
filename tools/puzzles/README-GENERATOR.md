@@ -21,11 +21,11 @@ python crossword.py
 
 That's it. The launcher creates/reuses a private Python environment, installs
 dependencies on the **first launch only** (this can take a little time), and
-starts the **original Python/Streamlit generator** on port 8501.
+starts the **original Python/Streamlit generator** on port 8502.
 
-Codespaces is configured to forward port 8501 and **open the browser
+Codespaces is configured to forward port 8502 and **open the browser
 automatically**. If your browser blocks the tab, use the clickable private
-Codespaces address printed in the terminal or open port **8501** from the
+Codespaces address printed in the terminal or open port **8502** from the
 **Ports** tab. Always leave the port's visibility **Private**, never Public.
 
 To leave, select **Exit workshop → Stop server and exit** inside the app.
