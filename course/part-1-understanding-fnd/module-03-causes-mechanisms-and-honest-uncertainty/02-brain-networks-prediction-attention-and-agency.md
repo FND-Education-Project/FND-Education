@@ -158,71 +158,100 @@ New or noticeably different symptoms are also worth bringing to a clinician. FND
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### From a positive sign to a question about function
+### What are these neurological models trying to explain?
 
-A positive neurological sign and a proposed mechanism answer different questions. The examination establishes a reproducible clinical pattern in a defined context. Mechanism research investigates the processes that could produce that pattern.
+FND brings together two kinds of evidence. The clinical examination shows **how a particular function behaves**. Research into brain networks explores **how the nervous system might produce that behaviour**.
 
-In some functional motor presentations, movement varies across tasks or becomes more accessible during an automatic action. These findings can contribute to a positive diagnosis. They also identify potentially preserved capacities that physiotherapy can build upon. Bennett and colleagues (2021) describe this clinical approach, while the Nielsen and colleagues (2015) consensus discusses its application to motor retraining. (*citations* [4](#citation-4), [5](#citation-5))
+Brain networks coordinate movement, sensation, attention and awareness. Hallett and colleagues (2022) review findings across FND presentations. Drane and colleagues (2021) describe five related areas of research: emotion and salience, attention, predictive processing, interoception and agency. (*citations* [1](#citation-1), [3](#citation-3))
 
-The distinction matters for daily life. An easier movement during an examination demonstrates an ability under those conditions; the person's safety, endurance and reliability in other settings are additional clinical questions.
+These concepts are most useful when considered one at a time and connected with something the patient experiences.
 
-### What do brain-network studies contribute?
+### Attention: which information receives priority?
 
-Functional MRI studies examine blood-oxygen-related signals associated with neural activity. Researchers compare activity and connections across brain regions during tasks and at rest.
+Attention helps the nervous system select information for action. Some attention is deliberate; other shifts happen automatically when something seems important.
 
-FND studies have described group-level differences involving motor control, attention, emotion, salience and the sense of agency. *Salience* concerns how the nervous system selects information that is important at a particular moment. *Interoception* concerns the processing and interpretation of signals from inside the body.
+Researchers use **salience** to describe how a stimulus gains priority. Pain, an unfamiliar sensation or a sudden sound may capture attention without conscious choice. (*citation* [3](#citation-3))
 
-Hallett and colleagues (2022) synthesize findings across FND presentations. Drane and colleagues (2021) organize five related research constructs: emotion processing and salience, agency, attention, interoception and predictive processing. Together, they offer a framework for investigating how symptoms might emerge from interactions among networks. (*citations* [1](#citation-1), [3](#citation-3))
+Consider functional tremor. During examination, its rhythm may change when the person performs a separate rhythmic movement. That change is an **observed clinical sign**. It can suggest that the organisation of movement depends partly on the task and attentional context. (*citations* [4](#citation-4), [5](#citation-5))
 
-These are group findings across differing symptoms, tasks and study populations. Their clinical contribution is to inform testable explanations. A patient's diagnosis continues to rest on the appropriate history and positive findings for that presentation.
+The practical implication is worth exploring: changing how a movement is approached may sometimes make useful abilities more accessible. Rehabilitation can build on this observation through appropriately selected tasks.
+
+### Prediction: how does the brain prepare for what comes next?
+
+The nervous system continually uses earlier experience to anticipate incoming information and prepare actions. Much of this prediction happens automatically.
+
+**Predictive processing** describes the interaction between those expectations and current sensory evidence. **Precision weighting** is the proposed process that determines how much influence each receives. (*citations* [1](#citation-1), [3](#citation-3))
+
+Think of reaching for a familiar object. The brain prepares an action using what it expects about the object's position and weight, then adjusts as new information arrives.
+
+Some FND models propose that this balance of prediction and sensory evidence may change. Such a model could help explain why a function feels different from what the person intends or why it varies with context.
+
+This offers a possible account of *how* a symptom occurs. A positive examination finding remains the clinical observation on which an individualized explanation can be built.
+
+### Interoception: how are signals from inside the body understood?
+
+**Interoception** involves sensing and interpreting internal bodily states, including aspects of heartbeat, breathing and visceral sensation.
+
+These signals are processed alongside attention, prior experience and the body's changing needs. Researchers are investigating how altered processing of internal signals may contribute to some FND experiences. (*citation* [3](#citation-3))
+
+A patient might describe an internal sensation as unusually strong, unfamiliar or difficult to interpret. That account gives the clinician a starting point for discussing what the person experiences and which processes researchers are studying.
+
+Functional seizures offer a related clinical example: they may involve changes in awareness, responsiveness or movement, with or without panic. Overlapping features such as altered breathing or shaking make a careful event history important; the AAN guideline also addresses evaluation for coexisting epilepsy. (*citation* [8](#citation-8))
+
+Interoception is one research perspective among several rather than a demonstrated explanation for all functional seizures.
+
+### Agency: why can an action feel outside one's control?
+
+**Agency** is the experience of being the person who initiates or controls an action. It depends on more than whether a muscle moves.
+
+In FND, a person may experience a movement as happening to them, even when the examination shows that the nervous system can produce the movement under certain conditions. Research into agency asks how the brain develops this sense of control. (*citations* [1](#citation-1), [3](#citation-3))
+
+This distinction can help clinicians explain involuntary symptoms. A movement may be physically possible and still be difficult for the person to initiate or control reliably.
+
+### What have studies measured?
+
+The four concepts above are **models of neurological processes**. Imaging and clinical studies provide observations against which those models can be examined.
+
+**Functional imaging.** Studies have reported group differences in activity or connectivity involving networks for movement, attention, salience, emotion and agency. Their interpretation depends on the tasks, patient groups and methods used. The findings support continuing investigation of network function. (*citations* [1](#citation-1), [3](#citation-3))
 
 ### What a structural imaging study can show
 {: #what-a-structural-imaging-study-can-show .shareable }
 
-Structural MRI asks a related question: are there measurable anatomical differences associated with FND or particular experiences within it?
+**Structural MRI** addresses a different question: whether brain anatomy varies in association with FND or particular experiences.
 
-Bègue and colleagues (2019) review reported structural differences and consider several possible relationships: vulnerability before symptoms, adaptation or consequences afterward, and other associated factors. (*citation* [2](#citation-2))
+Bègue and colleagues (2019) review structural findings and consider whether these differences could precede symptoms, follow them or relate to other factors. (*citation* [2](#citation-2))
 
-Perez and colleagues (2018) compared **26 people with motor FND and 27 controls**. At the whole-brain-corrected level, cortical thickness was similar across the complete groups. More focused analyses linked higher somatoform dissociation with findings involving the **left caudal anterior cingulate cortex**, and depersonalization/derealization with findings involving the **right lateral occipital cortex**. (*citation* [6](#citation-6))
+For example, Perez and colleagues (2018) compared **26 people with motor FND and 27 controls**. They found no whole-brain-corrected cortical-thickness difference across the complete groups. Specific analyses linked dissociation measures to regional findings involving the **left caudal anterior cingulate cortex** and **right lateral occipital cortex**. (*citation* [6](#citation-6))
 
-The regional associations emerged in specified subgroup or correlation analyses. This makes them useful questions for research on dissociation and neurobiology, while the positive neurological examination remains the basis for clinical diagnosis. The study concerned motor FND, so its findings have a defined population and symptom scope.
+These associations suggest research questions about neurobiology and dissociation in motor FND. The study's population, analyses and results define how far the interpretation can extend.
 
-### What does brain-chemistry research add?
+### What has brain-chemistry research added?
 
-Magnetic resonance spectroscopy estimates concentrations of selected metabolites in a brain region. It provides a different biological measurement from structural imaging or task-based functional MRI.
+**Magnetic resonance spectroscopy** estimates selected brain metabolites. It provides biochemical measurements that complement research on brain activity and anatomy.
 
-Charney and colleagues (2024) compared **32 children and adolescents with mixed FND presentations** with **41 healthy controls**. The FND group had lower ratios of **N-acetylaspartate (NAA)** and **gamma-aminobutyric acid (GABA)** to creatine in the supplementary motor area. Metabolite ratios in the anterior default-mode network region were similar between groups. (*citation* [7](#citation-7))
+Charney and colleagues (2024) compared **32 children and adolescents with mixed FND presentations** and **41 controls**. In the supplementary motor area, the FND group had lower ratios of **N-acetylaspartate (NAA)** and **gamma-aminobutyric acid (GABA)** to creatine. Ratios in an anterior default-mode network region were similar between groups. (*citation* [7](#citation-7))
 
-These regional measurements identify a line of inquiry into metabolism and inhibitory signalling; spectroscopy estimates metabolites rather than recording communication between individual neurons. Replication, longitudinal studies and work across age groups can help establish how the differences relate to symptom development and clinical presentations.
+The results identify regional biochemical differences in a paediatric study group. Longitudinal and replicated work may help establish whether these changes precede symptoms, follow them or arise alongside other processes.
 
-For the patient wondering whether their brain chemistry has changed, the study offers a concrete example of biological processes under investigation and a clear description of what was measured.
+For patients asking whether their brain chemistry has changed, these findings provide a concrete example of what scientists can now investigate.
 
-### How could prediction, attention and agency fit together?
+### How does this understanding support rehabilitation?
 
-Predictive-processing models propose that the nervous system combines incoming sensory evidence with expectations informed by prior experience. **Precision weighting** describes the relative influence given to those sources. Attention can alter the priority of information automatically, while **agency** refers to the experience of initiating or causing an action. (*citations* [1](#citation-1), [3](#citation-3))
+The link to care begins with an **individual observation**, rather than requiring the patient to accept a particular theory.
 
-Consider a functional tremor that changes during a competing rhythmic task. The observed change is a clinical finding. A predictive-processing account offers one possible explanation involving attention, expectations and sensorimotor control.
+For example, a person may find movement easier when it becomes part of another action. That observation can guide a therapist toward tasks that make useful movement more accessible. Research into attention and prediction offers possible reasons that approach may help. (*citations* [4](#citation-4), [5](#citation-5))
 
-This separation between observation and explanation is useful in rehabilitation. Therapists can build on an observed capacity, explore how task conditions influence movement and evaluate whether a chosen strategy improves the person's meaningful activities. Clinical response informs care, while the broader mechanism remains a research question. (*citations* [4](#citation-4), [5](#citation-5))
+A clinician can therefore explain three connected ideas, in order:
 
-### Functional seizures and panic: related physiology, distinct events
+**What was observed:** a function changed under specific examination conditions.
 
-Functional seizures and panic attacks can share features such as changes in breathing, shaking or fear. Their clinical patterns and diagnostic questions are distinct. Functional seizures may occur with or without a subjective experience of panic.
+**What may explain it:** automatic control, attention or prediction may be relevant; research continues to test these processes.
 
-The AAN functional-seizures guideline addresses assessment through event history, observed or recorded features and appropriate investigations, including assessment for coexisting epilepsy. These findings support diagnostic differentiation; network research explores possible contributions from awareness, attention, movement and bodily-signal processing. (*citations* [1](#citation-1), [8](#citation-8))
+**What the finding may help us do:** explore suitable rehabilitation strategies and meaningful goals with the patient.
 
-For a patient asking whether their seizures are “just panic,” the explanation can distinguish the event from any accompanying fear. Emotional and neurological processes are both embodied, and identifying their possible interaction provides a more precise clinical discussion of involuntary symptoms.
+The same reasoning helps supporters understand how a capacity demonstrated in clinic can coexist with difficulty in daily life.
 
-### Turning research into an explanation a patient can use
-
-A useful explanation can connect **what was observed**, **what research suggests**, and **what that means for the person's care**.
-
-For example, a task-dependent movement change may support a positive motor-FND finding. Network research offers hypotheses about the control processes involved. Rehabilitation can then explore that person's accessible movements and goals.
-
-The same explanation can help supporters understand why an easier moment in clinic may coexist with substantial difficulty at home. Practical support can be guided by safety, accessibility and the person's own priorities as clinical and research understanding develops.
-
-This approach gives patients a clear scientific account of the evidence, a reason for proposed treatment strategies and room for discoveries still to come.
-
+This is where mechanism research becomes useful for care: it gives clinicians and patients a shared language for exploring possibilities, while treatment decisions remain grounded in observed abilities, individual needs and outcomes.
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
