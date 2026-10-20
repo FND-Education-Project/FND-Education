@@ -4,7 +4,7 @@
 
 # Causes, Risk Factors, Triggers, and Maintaining Factors
 
-> **Working draft:** Human-authored revision; scientific and clinical audit pending. [Contributors and reviewers](https://fndeducationproject.org/contact/) are welcome.
+> **Working draft:** Human authored revision; editorial and evidence audits completed. Clinical review pending. [Contributors and reviewers](https://fndeducationproject.org/contact/) are welcome.
 
 This lesson explores why FND may begin, how symptoms may happen, and what can affect them today. Learn how causes, risk factors, triggers and current influences differ.
 
@@ -36,13 +36,13 @@ Keeping these questions separate can make FND easier to understand. [Lesson 8](0
 
 ### What is a cause?
 
-A cause is something that helps bring about an outcome. To identify a cause, researchers look at what happened first and seek evidence showing how it contributed.
+A cause is something that helps bring about an outcome. To identify a cause, researchers look at what happened first and seek evidence that it contributed.
 
 Imagine a person who first develops one or more FND symptoms while they have an infection.
 
 The infection came before the symptoms. It may have been a trigger—an event linked closely to the start of symptoms.
 
-The timing gives us a clue. Evidence about how the infection contributed would be needed to identify it as a cause.
+The timing gives us a clue. Evidence that the infection contributed would be needed to identify it as a cause.
 
 **Key idea:** What happened first is an important clue. Evidence helps us decide what role it may have played.
 
@@ -78,9 +78,9 @@ One community member described a new symptom this way:
 
 > “This tremor just came out of nowhere.”
 
-— *Lived experience:* the writer described a new tremor after earlier symptoms had improved. [Read the public source](https://www.reddit.com/r/FND/comments/1dde4p6/my_journey_with_functional_neurological_disorder/).
+— *Lived experience (excerpt):* the writer described a new tremor after earlier symptoms had improved. [Read the public source](https://www.reddit.com/r/FND/comments/1dde4p6/my_journey_with_functional_neurological_disorder/).
 
-Stress and trauma can matter for some people. Many people develop FND through other pathways, and each person’s history can be different.
+Stress and trauma can matter for some people. People can develop FND with or without a history of stress or trauma. Each person’s history can be different. (*citations* [1](#citation-1), [2](#citation-2))
 
 Your symptoms and experiences are real while understanding of how they began continues to develop.
 
@@ -92,15 +92,17 @@ Months later, the infection has cleared. The person notices that better sleep he
 
 Sleep may be affecting their experience now. The cause of their FND remains a separate question.
 
-A maintaining factor is something that may help a symptom or difficulty continue after it has begun.
+A [maintaining factor](../../../glossary/README.md#predisposing-precipitating-perpetuating-and-protective-factors) is something that may help a symptom or difficulty continue after it has begun.
 
-Pain may be a maintaining factor for one person. Migraine may matter for another. Sensory overload may affect certain symptoms or daily activities for someone else. Each person can have a different pattern. These may also be separate health concerns that deserve care of their own. (*citations* [5](#citation-5), [6](#citation-6), [7](#citation-7))
+Pain may be a maintaining factor for one person. Migraine may matter for another. These may also be separate health concerns that deserve care of their own. (*citations* [5](#citation-5), [6](#citation-6))
+
+Some people describe [sensory overload](../../../reference/biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md) affecting certain symptoms or daily activities. Each person can have a different pattern.
 
 Another community member wrote:
 
 > “My FND symptoms, especially risk of seizures, get worse around sensory overload.”
 
-— *Lived experience:* the writer described their own pattern. Other people may experience different symptoms, triggers or responses. [Read the public source](https://www.reddit.com/r/FND/comments/1bpx5du/how_many_autistics_are_here/).
+— *Lived experience (excerpt):* the writer described their own pattern. Other people may experience different symptoms, triggers or responses. [Read the public source](https://www.reddit.com/r/FND/comments/1bpx5du/comment/kwymlh2/).
 
 Some people notice clear patterns in one or more symptoms. Other people experience symptoms that change in less predictable ways. Both experiences deserve care.
 
@@ -118,9 +120,9 @@ Some people notice clear patterns in one or more symptoms. Other people experien
 
 Yes. Care can focus on the symptoms and activities that matter to you now while understanding of the original cause continues to develop.
 
-For example, treating migraine may make daily life easier for a person who has both migraine and FND. Improvement is useful evidence about what helps that person now, while the original cause remains a separate question. (*citation* [6](#citation-6))
+For example, treating [migraine](../../../reference/co-occurring-conditions/01-migraine.md) may make daily life easier for a person who has both migraine and FND. Improvement is useful evidence about what helps that person now, while the original cause remains a separate question. (*citation* [6](#citation-6))
 
-Researchers are studying how brain activity, signalling and chemistry may be involved in different functional symptoms. Promising findings are helping build explanations that may vary across symptoms and people.
+Researchers are studying how brain activity, signalling and chemistry may be involved in different functional symptoms. [Lesson 8 explores this research, including brain chemistry](02-brain-networks-prediction-attention-and-agency.md#could-the-chemicals-in-my-brain-have-changed), and what its findings may mean.
 
 **Key idea:** Useful care can begin now, while your personal explanation continues to develop.
 
@@ -130,13 +132,19 @@ Start with one question:
 
 What do I remember about the time my FND began?
 
-Your answer might be an illness, an injury, a stressful time, nothing unusual or I do not know yet. Each answer is useful information.
+Your answer might be an illness, an injury, a stressful time, nothing unusual or “I do not know yet.” Each answer is useful information.
 
 Then consider a second question:
 
 What affects my symptoms or daily activities now?
 
 Different symptoms may have different patterns, and your answers can change over time.
+
+If you feel comfortable, you might also ask:
+
+How does it feel to have some answers and some uncertainty?
+
+You can skip this question or return to it another day.
 
 ### One small step
 
@@ -175,11 +183,7 @@ Sometimes there is no complete answer yet. In that space, family members or frie
 
 These ideas may come from care and concern. It is still helpful to separate what is known from what is possible.
 
-The earlier example can help show this distinction. The person first noticed one or more FND symptoms during an infection.
-
-The timing is known: the infection and the start of symptoms happened close together.
-
-The role of the infection is still being understood. It may have been a trigger, but timing by itself does not explain the full cause.
+In the earlier example, the person first noticed symptoms during an infection. The timing is known; the infection’s possible role is still being understood.
 
 This distinction can protect the person from feeling blamed or pressured to accept an explanation that has not been established. It can also help supporters share accurate information with the care team.
 
@@ -200,8 +204,6 @@ Two separate questions can guide supportive conversations.
 In the continuing example, dates of the infection, the first symptoms and medical appointments may help the clinician understand the timeline.
 
 A supporter may remember details that the person missed or found difficult to record. Sharing those details—with the person’s permission—can strengthen the history available to the care team.
-
-The timeline provides clues. Further evidence is needed to understand what role each event may have played.
 
 #### What affects the person now?
 
@@ -285,7 +287,7 @@ This evidence provides a foundation for discussing possible mechanisms while kee
 
 Pick and colleagues’ 2019 review places emotional processing within a biopsychosocial research model. It describes testable relationships between emotional and neurological processes. (*citation* [3](#citation-3))
 
-The model provides possible pathways for research and formulation. Evidence from the person’s history and assessment shows how relevant those pathways may be for that individual.
+The model provides possible pathways for research and formulation. The person’s history and assessment help clinicians consider whether the model is relevant to their care. Establishing a specific mechanism in that person requires further evidence.
 
 A 2021 international survey gathered experiences and perceived causes from 1,048 respondents with FND. It shows the range of influences that participants associated with their symptoms. (*citation* [4](#citation-4))
 
@@ -293,7 +295,7 @@ Participants were recruited online through social media and patient groups. This
 
 The 2024 systematic review of pain and FND, the 2025 migraine review and the 2022 autonomic, endocrine and inflammation synthesis examine clinically relevant overlap and physiology. (*citations* [5](#citation-5), [6](#citation-6), [7](#citation-7))
 
-The studies use varied populations, measures and forms of evidence. Together, they support careful assessment and treatment of specific accompanying concerns.
+The pain and migraine reviews support assessing accompanying conditions and considering their care needs. The autonomic synthesis describes varied physiological findings and questions for further research; it does not establish a treatment pathway. (*citations* [5](#citation-5), [6](#citation-6), [7](#citation-7))
 
 For an individual patient, the history, examination and response over time can clarify how each concern relates to symptoms and function.
 
@@ -311,7 +313,7 @@ The available evidence may be organized into a short explanation:
 
 - The patient’s current pattern identifies concerns that may benefit from treatment, rehabilitation, safety planning or support.
 
-Keeping these forms of evidence separate matches the level of certainty to the available information. It also gives the patient a biological explanation grounded in their own findings. (*citations* [1](#citation-1), [2](#citation-2))
+Keeping these forms of evidence separate matches the level of certainty to the available information. It gives the patient a clinical account grounded in their findings and informed by research, while keeping proposed mechanisms distinct from diagnostic evidence. (*citations* [1](#citation-1), [2](#citation-2))
 
 ### Why present-day care remains useful
 
@@ -353,7 +355,11 @@ The patient can leave with three clear messages:
 
 ### What this evidence can and cannot establish
 
-The diagnostic and broad clinical reviews support a positive diagnosis of FND and investigate varied possible mechanisms. The emotional-processing review studies psychosocial experiences as potential contributors in some groups, without establishing a universal causal explanation. The online survey records respondents’ own views and symptom reports but was recruited through social media and patient groups, so its percentages should not be treated as population prevalence. The pain, migraine and autonomic reviews support attention to common overlap and comorbidity while also reporting heterogeneous evidence. None of these sources establishes the cause of one person’s FND. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4), [5](#citation-5), [6](#citation-6), [7](#citation-7))
+The diagnostic and broad clinical reviews support a positive diagnosis of FND and investigate varied possible mechanisms. The emotional-processing review studies psychosocial experiences as potential contributors in some groups. These sources inform possible explanations while leaving an individual’s original cause uncertain. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+The online survey records respondents’ own views and symptom reports. Recruitment through social media and patient groups means its percentages should not be treated as population prevalence. (*citation* [4](#citation-4))
+
+The pain and migraine reviews support attention to overlap and accompanying conditions. The autonomic review examines physiological findings, with varied results across studies. These sources support different clinical and research questions rather than one causal explanation for every person. (*citations* [5](#citation-5), [6](#citation-6), [7](#citation-7))
 
 ### Citation table
 
@@ -367,4 +373,4 @@ The diagnostic and broad clinical reviews support a positive diagnosis of FND an
 | <a id="citation-6"></a>**[6]** | Stone J, Coebergh J, Khoja L, Butler M, Nicholson TR, Dodick DW. Migraine and functional neurological disorder (FND)—a review of comorbidity and potential overlap. *Brain Communications*. 2025;7(4):fcaf288. [FND-CIT-0049](../../../research/citation-index.md#fnd-cit-0049). [https://doi.org/10.1093/braincomms/fcaf288](https://doi.org/10.1093/braincomms/fcaf288) |
 | <a id="citation-7"></a>**[7]** | Paredes-Echeverri S, Maggio J, Bègue I, Pick S, Nicholson TR, Perez DL. Autonomic, endocrine, and inflammation profiles in functional neurological disorder: a systematic review and meta-analysis. *Journal of Neuropsychiatry and Clinical Neurosciences*. 2022;34(1):30–43. [FND-CIT-0064](../../../research/citation-index.md#fnd-cit-0064). [https://doi.org/10.1176/appi.neuropsych.21010025](https://doi.org/10.1176/appi.neuropsych.21010025) |
 
-*Human-authored revision: October 19, 2026 · Scientific and clinical audit pending*
+*Human-authored revision: October 19, 2026 · Evidence and editorial audits completed: October 20, 2026 · Clinical review pending*
