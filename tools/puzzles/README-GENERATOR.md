@@ -66,6 +66,29 @@ server and cleaning up temporary puzzle output; neither shuts down Codespaces.
 Save/download your workbook first. Restart the same Codespaces task if you
 want another session. You can also stop the terminal with Ctrl+C.
 
+### Automatic session handoff (draft PR, never automatic merge)
+
+When you run `python crossword.py` from a **clean main branch**, the launcher
+creates a dedicated `crossword/session-...` branch before starting Streamlit.
+
+After you click **Save edits to workbook in Codespaces** and then **Exit workshop**,
+the launcher commits only modified or new `.xlsx` workbooks directly under
+`tools/puzzles/`. It pushes the session branch, opens a **draft pull request
+targeting main**, and returns Codespaces to main if no other changes remain.
+You must review and merge that PR yourself.
+
+If you leave without saving any question-bank changes, it deletes the empty
+local session branch and returns to main; no PR is created. The launcher
+will **not** create a session branch when you start outside main or when
+other tracked/untracked work is pending; finish that work manually first.
+If the push, GitHub CLI, or PR creation fails, the committed work remains
+on the session branch, and the terminal prints recovery instructions.
+
+The handoff intentionally excludes generated crossword PDFs, ZIPs, previews,
+Cloudflare state, and other repository changes. Downloaded puzzles still
+require separate review and publication. Keep your Codespaces terminal open
+until the Git handoff message appears after the Streamlit server exits.
+
 **Progress:** Generating five choices displays a percentage bar with a
 description of the current stage: validating questions, exploring crossings,
 checking printable layouts, or exporting PDF sets. The percentage measures
