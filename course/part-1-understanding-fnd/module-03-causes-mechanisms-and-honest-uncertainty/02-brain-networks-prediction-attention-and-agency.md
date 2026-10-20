@@ -4,7 +4,7 @@
 
 # Brain Networks, Prediction, Attention, and Agency
 
-> **Editorial review:** Person and supporter sections revised by the human author; clinician section is an AI-assisted editorial draft awaiting human and clinical review. [Contributors and reviewers](https://fndeducationproject.org/contact/) are welcome.
+> **Working draft:** Person and supporter sections revised by the human author; the clinician section is an AI-assisted editorial draft awaiting human and clinical review. [Contributors and reviewers](https://fndeducationproject.org/contact/) are welcome.
 
 This lesson explores what may happen in the nervous system during functional symptoms. Learn what studies of brain networks, attention and chemistry can tell us.
 
