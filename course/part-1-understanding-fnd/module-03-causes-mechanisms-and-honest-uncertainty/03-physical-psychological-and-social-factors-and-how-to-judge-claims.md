@@ -4,7 +4,7 @@
 
 # Physical, Psychological, and Social Factors—and How to Judge Claims
 
-> **Working draft:** Human-edited course lesson; clinical review and the two planned course audits are pending. [Contributors and reviewers](https://fndeducationproject.org/contact/) are welcome.
+> **Working draft:** Human authored revision with AI assistance; clinical review and the two course audits are pending. [Contributors and reviewers](https://fndeducationproject.org/contact/) are welcome.
 
 This lesson explores how physical health, thoughts, feelings and surroundings can shape life with FND, and how understanding evidence can guide useful care and support.
 
