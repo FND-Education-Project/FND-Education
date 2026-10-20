@@ -54,6 +54,14 @@ Researchers are studying whether changes in the way brain networks work together
 
 A trigger and a mechanism answer different questions. A trigger is connected with when one or more symptoms began. A mechanism describes how a particular symptom may happen.
 
+<figure class="image-60center" markdown="1">
+
+![A scientist with a microscope, notebook and laboratory equipment inside a brain outline, surrounded by nerve cells and a large question mark.](../../../assets/images/lesson-7-illustration.png)
+
+<figcaption>Researchers are investigating how FND symptoms happen. This imaginative scene represents scientific questions, rather than a proven explanation of one person's FND.</figcaption>
+
+</figure>
+
 ### What is a risk factor?
 
 A risk factor is something linked with a greater chance of developing a condition in a group of people.
@@ -137,6 +145,17 @@ Choose one question to ask your clinician:
 > “What do we understand about how my symptoms began, and what are we still learning?”
 
 One question is enough to begin. New or very different symptoms are also important to have medically assessed.
+
+### Optional colouring activity
+
+Choose the preview to open the printable PDF in a new tab or window. Select landscape orientation and fit to page when printing. You can also browse the [colouring-page collection](../../../assets/puzzles/README.md?collection=colouring&puzzle=lesson-7).
+
+<div class="puzzle-grid puzzle-grid-colouring">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-7-coloring-book.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/colouring/lesson-7-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Lesson 7: Exploring questions about FND — Colouring page <small>PDF</small></span>
+</a>
+</div>
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
