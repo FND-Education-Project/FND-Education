@@ -148,7 +148,7 @@ One question is enough to begin. New or very different symptoms are also importa
 
 ### Optional colouring activity
 
-Choose the preview to open the printable PDF in a new tab or window. Select landscape orientation and fit to page when printing. You can also browse the [colouring-page collection](../../../assets/puzzles/README.md?collection=colouring&puzzle=lesson-7).
+Choose the preview to open the printable PDF in a new tab or window. Select landscape orientation and fit to page when printing. You can also browse the <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-7">colouring-page collection</a>.
 
 <div class="puzzle-grid puzzle-grid-colouring">
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-7-coloring-book.pdf' | relative_url }}">
