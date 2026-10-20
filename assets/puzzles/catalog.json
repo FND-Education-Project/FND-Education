@@ -1,7 +1,8 @@
 {
   "modules": {
     "1": "What FND Is",
-    "2": "How FND Is Diagnosed"
+    "2": "How FND Is Diagnosed",
+    "3": "Causes and Mechanisms"
   },
   "items": [
     {
@@ -61,6 +62,18 @@
       "course": "/course/m2/2/",
       "downloads": {
         "Open printable PDF": "/assets/puzzles/colouring/lesson-6-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-8",
+      "module": 3,
+      "lesson": 2,
+      "title": "Brain Networks and Their Teamwork",
+      "image": "/assets/puzzles/colouring/lesson-8-coloring-book.png",
+      "course": "/course/m3/2/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-8-coloring-book.pdf"
       },
       "collection": "colouring"
     },
