@@ -262,9 +262,76 @@ def audit_audience_structure(
             previous_boundary = position + len(heading)
 
 
+def validate_course_progress_manifest(
+    course_pages: list[prepare_site.CoursePage],
+    errors: list[str],
+) -> None:
+    """Ensure the browser progress list exactly matches published lessons.
+
+    A missing lesson could silently erase someone's saved course visibility;
+    fail the build rather than publishing an incomplete curriculum index.
+    """
+    source = WEB / "assets" / "data" / "course-progress.json"
+    if not source.exists():
+        errors.append("Missing generated course-progress.json")
+        return
+
+    try:
+        data = json.loads(source.read_text(encoding="utf-8"))
+        if data.get("version") != 1:
+            raise ValueError("Unexpected course progress manifest version")
+        parts = data["parts"]
+        expected_parts = {
+            page.part_number for page in course_pages
+            if page.kind == "module"
+        }
+        expected_modules = {
+            page.public_url for page in course_pages
+            if page.kind == "module"
+        }
+        expected_lessons = {
+            page.public_url for page in course_pages
+            if page.kind == "lesson"
+        }
+
+        if {part["number"] for part in parts} != expected_parts:
+            raise ValueError("Course parts do not match the published course")
+        module_urls: list[str] = []
+        lesson_urls: list[str] = []
+        lesson_ids: list[str] = []
+        for part in parts:
+            if not part["title"] or not isinstance(part["modules"], list):
+                raise ValueError("Part metadata invalid")
+            for module in part["modules"]:
+                if not module["title"] or not module["url"].startswith("/course/"):
+                    raise ValueError("Module metadata invalid")
+                module_urls.append(module["url"])
+                for lesson in module["lessons"]:
+                    if not lesson["title"] or not lesson["url"].startswith("/course/"):
+                        raise ValueError("Lesson metadata invalid")
+                    if not re.fullmatch(r"m[0-9]+-[0-9]+", lesson["id"]):
+                        raise ValueError("Unstable lesson ID")
+                    lesson_urls.append(lesson["url"])
+                    lesson_ids.append(lesson["id"])
+
+        if len(module_urls) != len(expected_modules) or (
+            set(module_urls) != expected_modules
+        ):
+            raise ValueError("Module list missing or duplicates published modules")
+        if len(lesson_urls) != len(expected_lessons) or (
+            set(lesson_urls) != expected_lessons
+        ):
+            raise ValueError("Lesson list missing or duplicates published lessons")
+        if len(lesson_ids) != len(set(lesson_ids)):
+            raise ValueError("Duplicate lesson progress identifiers")
+    except (ValueError, KeyError, TypeError, json.JSONDecodeError) as exc:
+        errors.append(f"Invalid course progress manifest: {exc}")
+
+
 def check_generated_source(errors: list[str]) -> tuple[int, int, int]:
     course_pages, reference_pages, routes = expected_routes()
     ensure_unique_routes(routes, errors)
+    validate_course_progress_manifest(course_pages, errors)
 
     for page in course_pages:
         if not page.destination.exists():

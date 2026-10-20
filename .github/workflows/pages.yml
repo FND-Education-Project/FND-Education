@@ -44,6 +44,13 @@ jobs:
         with:
           node-version: "24"
 
+      - name: Validate learner API boundaries and JavaScript syntax
+        run: |
+          node --check tools/learner-cloudflare/worker.js
+          node --check web/assets/js/account-shell.js
+          node --check web/assets/js/course-progress.js
+          node --test tools/learner-cloudflare/test-*.mjs
+
       - name: Prepare website source
         run: python tools/site/prepare_site.py
 

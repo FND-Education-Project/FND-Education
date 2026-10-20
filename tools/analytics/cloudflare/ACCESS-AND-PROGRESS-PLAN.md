@@ -1,7 +1,8 @@
 # Administration, public crosswords, and optional saved course progress
 
-Status: implementation plan only. Nothing here enables learner registration,
-a public editor, or any active analytics service.
+Status: reference security plan. Learner account UI/API code is under review,
+but no learner registration service has been enabled or deployed. Existing
+analytics is managed separately from this document.
 
 ## Separate identities and privileges
 
@@ -14,7 +15,7 @@ a public editor, or any active analytics service.
   on GitHub. Password changes, forgot-password recovery, and backup methods
   are administered by the identity provider, not a new FND password database.
 - Learner: entirely optional federated login with an established provider
-  (Google or Apple first; Facebook and Reddit only after verifying provider
+  (Google or Apple first; Amazon and Facebook only after verifying provider
   integrations, policies and free availability). There is no FND-site learner
   password, password-reset email or recovery-code system. Each learner has
   access only to their own course progress. Never allow an authenticated
@@ -50,9 +51,9 @@ unique people; download events count link clicks, not completed downloads.
 
 Reading and public crossword generation NEVER require signing in. Visitors
 who choose to save progress may select "Continue with Google" or "Continue
-with Apple". Support for Facebook may be added after provider setup and
-verification. Reddit is an aspirational provider and must not be advertised
-until an authorized standards-compliant OAuth integration has been tested.
+with Apple". Support for Amazon or Facebook may be added after provider setup and
+verification. Neither is part of the initial Google/Apple implementation
+and neither should be advertised before independent OAuth integration tests.
 
 The sign-in provider handles password changes and forgotten-password
 recovery. The project does not receive or store the learner's password.
@@ -74,9 +75,12 @@ SECURITY GATES before enabling public sign-in:
   with PKCE, state, nonce when applicable, exact redirect URI validation,
   HTTPS, strict provider issuer/audience/signature/expiry validation, and
   key rotation. Never treat an unsigned email or display name as identity.
-- Server-issued Secure HttpOnly SameSite sessions, CSRF protection, short
-  expiries, logout and session revocation; never store provider tokens in
-  local storage or page HTML. Protect against open redirects.
+- Server-issued Secure HttpOnly SameSite sessions, CSRF protection, bounded
+  renewable session credentials, logout and revocation. Default inactivity
+  sign-out is disabled, with optional learner-chosen inactivity limits.
+  Credential lifetime retains a rolling server-side security cap.
+  Never store provider tokens in local storage or page HTML. Protect
+  against open redirects.
 - Authorize **every** progress read/write by the authenticated server-side
   learner ID. Authentication does not confer an admin role; that requires
   separate Cloudflare Access identity and authorization.
@@ -130,8 +134,9 @@ Rollout:
 3. Configure managed administrator access and a private stats dashboard.
 4. Add a public browser-based crossword generator using published
    question data, with no sign-in required.
-5. Add optional Google/Apple sign-in and learner-owned progress after
-   provider integration, security and privacy review. Evaluate Facebook and
-   Reddit separately; avoid promising providers not yet verified.
+5. Add Google/Apple account-based course progress after provider integration,
+   security and privacy review. Public reading needs no sign-in; saving
+   progress does. Evaluate Amazon and Facebook separately and do not advertise
+   providers that have not been verified.
 
 No public visitor accounts or backend deployment are activated by this plan.
