@@ -38,9 +38,9 @@ In studies, some groups of people with FND show different patterns of activity o
 
 <figure class="image-60center" markdown="1">
 
-![Connected nodes show sensation, prediction and attention, and action and agency working as a network.](../../../assets/illustrations/module-3-page-2-network-model.svg)
+![A playful cutaway of a head reveals five small brain characters working together with art, sensory controls, observation and movement equipment.](../../../assets/images/module-3-lesson-8-brain-network-workshop.webp)
 
-<figcaption>Brain networks share information like members of a band. This picture is a simple model, rather than a map of any one person's FND.</figcaption>
+<figcaption>Brain areas work together on many jobs. This playful illustration represents their teamwork, not a literal brain map or a proven explanation of FND.</figcaption>
 
 </figure>
 
@@ -108,6 +108,11 @@ At your next appointment, you could ask:
 
 Your job is to share what you notice, at a pace that works for you. Your clinician can help connect those experiences with the examination and the growing research.
 
+
+
+### Optional learning activity
+
+<a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-8">Open the Lesson 8 colouring page</a> (printable PDF).
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
