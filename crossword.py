@@ -6,7 +6,7 @@ From the repository root:
 
 Create/reuse an isolated Python environment, install the existing
 workshop dependencies only when needed, and start the original Streamlit
-app. Codespaces automatically forwards port 8501 and opens a browser using
+app. Codespaces automatically forwards port 8502 and opens a browser using
 .vscode/settings.json. We print a clickable URL as a fallback.
 """
 from __future__ import annotations
@@ -27,7 +27,7 @@ REQUIREMENTS = ROOT / "tools" / "puzzles" / "requirements-crosswords.txt"
 WORKSHOP = ROOT / "tools" / "puzzles" / "crossword_app.py"
 VENV = ROOT / ".venv-crossword"
 INSTALLED_HASH = VENV / ".fnd-requirements-sha256"
-PORT = 8501
+PORT = 8502
 HEALTH = f"http://127.0.0.1:{PORT}/_stcore/health"
 
 
@@ -88,7 +88,7 @@ def show_open_instructions() -> None:
     print("Codespaces should open your PRIVATE forwarded browser tab.", flush=True)
     print("If it doesn't, open the following link:", flush=True)
     print("  " + workshop_url(), flush=True)
-    print("The Ports tab must show port 8501 as PRIVATE, not Public.", flush=True)
+    print(f"The Ports tab must show port {PORT} as PRIVATE, not Public.", flush=True)
     print("Exit using the workshop's 'Exit workshop' button.", flush=True)
     print("Or press Ctrl+C here to stop the server.", flush=True)
     print("=" * 58 + "\n", flush=True)
@@ -99,7 +99,7 @@ def main() -> int:
         print("Python 3.10 or newer is required.", file=sys.stderr)
         return 1
     if ready():
-        print("A Streamlit workshop is already running on port 8501.", flush=True)
+        print(f"A Streamlit workshop is already running on port {PORT}.", flush=True)
         show_open_instructions()
         return 0
     try:
@@ -109,7 +109,7 @@ def main() -> int:
         return 1
 
     # Codespaces recognizes this listener and .vscode/settings.json requests
-    # that port 8501 open automatically in the user's browser. No changes to
+    # that the configured port opens automatically in the user's browser. No changes to
     # port visibility are requested. Codespaces' default is PRIVATE.
     command = [
         str(python), "-m", "streamlit", "run", str(WORKSHOP),
