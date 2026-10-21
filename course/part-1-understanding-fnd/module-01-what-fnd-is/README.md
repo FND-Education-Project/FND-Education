@@ -34,17 +34,17 @@ A short starting point for understanding what FND is, what **functional** means,
 After completing the four lessons, you can review key ideas with this optional module-wide crossword. The normal and easy editions are fillable PDFs, so printing is not required.
 
 <div class="puzzle-grid">
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-FND-crossword-10-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/Module-1-FND-crossword-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Module 1 — Normal <small>PDF</small></span>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Summary/what-is-functional-neurological-disorder-module-1-summary-m1-normal.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/what-is-functional-neurological-disorder-module-1-summary-m1-normal.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 1 review — Normal <small>PDF</small></span>
 </a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-FND-crossword-easy-10-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/Module-1-FND-crossword-easy-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Module 1 — Easy with word bank <small>PDF</small></span>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Summary/what-is-functional-neurological-disorder-module-1-summary-m1-easy.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/what-is-functional-neurological-disorder-module-1-summary-m1-easy.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 1 review — Easy with word bank <small>PDF</small></span>
 </a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-FND-crossword-answer-key-10-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/Module-1-FND-crossword-answer-key-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Module 1 — Answer key <small>PDF</small></span>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Summary/what-is-functional-neurological-disorder-module-1-summary-m1-answer-key.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/what-is-functional-neurological-disorder-module-1-summary-m1-answer-key.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 1 review — Answer key <small>PDF</small></span>
 </a>
 </div>
 

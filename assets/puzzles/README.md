@@ -36,7 +36,7 @@ Choose a collection, module and lesson. These optional activities offer a lighte
 
 [Crosswords](#crosswords) · [Colouring pages](#colouring-pages) · [Course](../../course/README.md)
 
-**Jump to a crossword:** [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Module 1 review](#module-1-review-crossword)
+**Jump to a crossword:** [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Lesson 9](#physical-psychological-and-social-factors) · [Module 1 review](#module-1-review-crossword) · [Module 2 review](#module-2-review-crossword) · [Module 3 review](#module-3-review-crossword)
 
 ## Crosswords
 
@@ -213,20 +213,83 @@ Choose a preview to open the PDF in a new tab or window. Normal and easy edition
 
 ### Module 1 review crossword
 
+[Read the module overview](../../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md)
+
 <div class="puzzle-grid">
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-FND-crossword-10-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/Module-1-FND-crossword-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Summary/what-is-functional-neurological-disorder-module-1-summary-m1-normal.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/what-is-functional-neurological-disorder-module-1-summary-m1-normal.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Module 1 review — Normal <small>PDF</small></span>
 </a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-FND-crossword-easy-10-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/Module-1-FND-crossword-easy-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
-  <span>Module 1 review — Easy <small>PDF</small></span>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Summary/what-is-functional-neurological-disorder-module-1-summary-m1-easy.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/what-is-functional-neurological-disorder-module-1-summary-m1-easy.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 1 review — Easy with word bank <small>PDF</small></span>
 </a>
-<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-FND-crossword-answer-key-10-2026.pdf' | relative_url }}">
-  <img src="{{ '/assets/puzzles/thumbnails/Module-1-FND-crossword-answer-key-10-2026.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Summary/what-is-functional-neurological-disorder-module-1-summary-m1-answer-key.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/what-is-functional-neurological-disorder-module-1-summary-m1-answer-key.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Module 1 review — Answer key <small>PDF</small></span>
 </a>
 </div>
+
+### Module 2 review crossword
+
+[Read the module overview](../../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md)
+
+<div class="puzzle-grid">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-2-Summary/how-is-fnd-diagnosed-module-2-summary-m2-normal.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/how-is-fnd-diagnosed-module-2-summary-m2-normal.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 2 review — Normal <small>PDF</small></span>
+</a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-2-Summary/how-is-fnd-diagnosed-module-2-summary-m2-easy.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/how-is-fnd-diagnosed-module-2-summary-m2-easy.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 2 review — Easy with word bank <small>PDF</small></span>
+</a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-2-Summary/how-is-fnd-diagnosed-module-2-summary-m2-answer-key.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/how-is-fnd-diagnosed-module-2-summary-m2-answer-key.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 2 review — Answer key <small>PDF</small></span>
+</a>
+</div>
+
+<span id="physical-psychological-and-social-factors"></span>
+
+### Lesson 9: Physical, Psychological, and Social Factors
+
+[Read the lesson](../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md)
+
+<div class="puzzle-grid">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-9/physical-psychological-and-social-factors-m3-9-normal.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/physical-psychological-and-social-factors-m3-9-normal.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Lesson 9 — Normal <small>PDF</small></span>
+</a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-9/physical-psychological-and-social-factors-m3-9-easy.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/physical-psychological-and-social-factors-m3-9-easy.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Lesson 9 — Easy with word bank <small>PDF</small></span>
+</a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-9/physical-psychological-and-social-factors-m3-9-answer-key.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/physical-psychological-and-social-factors-m3-9-answer-key.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Lesson 9 — Answer key <small>PDF</small></span>
+</a>
+</div>
+
+### Module 3 review crossword
+
+[Read the module overview](../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/README.md)
+
+<div class="puzzle-grid">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-3-Summary/what-may-cause-or-affect-fnd-module-3-summary-m3-normal.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/what-may-cause-or-affect-fnd-module-3-summary-m3-normal.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 3 review — Normal <small>PDF</small></span>
+</a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-3-Summary/what-may-cause-or-affect-fnd-module-3-summary-m3-easy.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/what-may-cause-or-affect-fnd-module-3-summary-m3-easy.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 3 review — Easy with word bank <small>PDF</small></span>
+</a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-3-Summary/what-may-cause-or-affect-fnd-module-3-summary-m3-answer-key.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/what-may-cause-or-affect-fnd-module-3-summary-m3-answer-key.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 3 review — Answer key <small>PDF</small></span>
+</a>
+</div>
+
+
 
 ## Colouring pages
 

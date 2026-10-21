@@ -21,6 +21,29 @@ This short module introduces **How Is FND Diagnosed?** and helps readers choose 
 >
 > Every page in this module uses these same four main sections.
 
+## Optional Module Review Activity
+
+### Module 2 Review Crossword
+
+After the module's lessons, revisit key ideas with this optional crossword. Normal and Easy are fillable PDFs; Easy includes a word bank.
+
+<div class="puzzle-grid">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-2-Summary/how-is-fnd-diagnosed-module-2-summary-m2-normal.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/how-is-fnd-diagnosed-module-2-summary-m2-normal.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 2 review — Normal <small>PDF</small></span>
+</a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-2-Summary/how-is-fnd-diagnosed-module-2-summary-m2-easy.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/how-is-fnd-diagnosed-module-2-summary-m2-easy.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 2 review — Easy with word bank <small>PDF</small></span>
+</a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-2-Summary/how-is-fnd-diagnosed-module-2-summary-m2-answer-key.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/how-is-fnd-diagnosed-module-2-summary-m2-answer-key.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 2 review — Answer key <small>PDF</small></span>
+</a>
+</div>
+
+Explore other activities in the [course puzzle collection](../../../assets/puzzles/README.md).
+
 ## Research and Sources
 
 | Citation | Figure | Full citation |

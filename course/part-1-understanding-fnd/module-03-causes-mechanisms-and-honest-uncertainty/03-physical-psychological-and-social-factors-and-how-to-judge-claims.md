@@ -276,6 +276,27 @@ Sometimes a small change can make room for something important.
 
 If you experience a new symptom or a major change in an existing one, your healthcare team can help assess it.
 
+### Optional learning activity
+
+#### Crossword
+
+Revisit the physical, psychological and social factors covered in this lesson. The easy edition has a word bank.
+
+<a href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-9">Browse this crossword in the puzzles collection</a>.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-9" aria-label="Browse the Lesson 9 crossword">
+  <img src="{{ '/assets/puzzles/thumbnails/physical-psychological-and-social-factors-m3-9-normal.svg' | relative_url }}" alt="Preview of the Lesson 9 crossword grid." loading="lazy" decoding="async">
+  <span>Lesson 9 crossword</span>
+</a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 9 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-9/physical-psychological-and-social-factors-m3-9-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal crossword PDF for Lesson 9 (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-9/physical-psychological-and-social-factors-m3-9-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy crossword PDF for Lesson 9 (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-9/physical-psychological-and-social-factors-m3-9-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key crossword PDF for Lesson 9 (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab. Easy includes a word bank.</p>
+</div>
+
 ### Optional colouring activity
 
 Try the Lesson 9 colouring page, based on the shopper's journey through a difficult day toward a more manageable grocery trip.
