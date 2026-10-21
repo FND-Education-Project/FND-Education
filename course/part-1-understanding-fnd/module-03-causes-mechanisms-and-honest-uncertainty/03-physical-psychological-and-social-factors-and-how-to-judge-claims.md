@@ -142,6 +142,14 @@ And knowing they have someone to call gives them a little more confidence.
 
 Each change helps with a different part of the problem.
 
+<figure class="image-60center" markdown="1">
+
+![A person carrying groceries walks in the foreground while background panels show feeling unwell at home, overwhelm in a crowded setting, a calmer outdoor path, and a grocery store.](../../../assets/images/lesson-9-illustration.png)
+
+<figcaption>Small changes in more than one area can make an everyday task more manageable.</figcaption>
+
+</figure>
+
 Put them together, and grocery shopping might become something they can enjoy again.
 
 That's the value of the biopsychosocial approach. It helps us see the bigger picture and discover where useful changes might be possible.
@@ -267,6 +275,19 @@ Choose one possibility that feels manageable.
 Sometimes a small change can make room for something important.
 
 If you experience a new symptom or a major change in an existing one, your healthcare team can help assess it.
+
+### Optional colouring activity
+
+Try the Lesson 9 colouring page, based on the shopper's journey through a difficult day toward a more manageable grocery trip.
+
+Choose the preview to open the printable PDF in a new tab or window. When printing, select landscape orientation and fit to page. You can also visit the <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-9">colouring-page collection</a>.
+
+<div class="puzzle-grid puzzle-grid-colouring">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-9-coloring-book.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/colouring/lesson-9-coloring-book.png' | relative_url }}" alt="Black-and-white colouring page preview of a shopper moving past difficult moments toward a quieter supermarket." loading="lazy" decoding="async">
+  <span>Lesson 9: The shopper's journey — Colouring page <small>PDF</small></span>
+</a>
+</div>
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>

@@ -90,6 +90,18 @@
       "collection": "colouring"
     },
     {
+      "id": "lesson-9",
+      "module": 3,
+      "lesson": 9,
+      "title": "The shopper's journey",
+      "image": "/assets/puzzles/colouring/lesson-9-coloring-book.png",
+      "course": "/course/m3/3/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-9-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
       "id": "lesson-1",
       "module": 1,
       "lesson": 1,
@@ -184,6 +196,34 @@
         "Normal": "/assets/puzzles/crosswords/Module-2-Lesson-6/tests-uncertainty-and-coexisting-conditions-m2-6-normal.pdf",
         "Easy": "/assets/puzzles/crosswords/Module-2-Lesson-6/tests-uncertainty-and-coexisting-conditions-m2-6-easy.pdf",
         "Answer key": "/assets/puzzles/crosswords/Module-2-Lesson-6/tests-uncertainty-and-coexisting-conditions-m2-6-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-7",
+      "module": 3,
+      "lesson": 7,
+      "title": "Causes, Risk Factors and Triggers",
+      "image": "/assets/puzzles/thumbnails/causes-risk-factors-and-triggers-m3-7-normal.svg",
+      "course": "/course/m3/1/",
+      "downloads": {
+        "Normal": "/assets/puzzles/crosswords/Module-3-Lesson-7/causes-risk-factors-and-triggers-m3-7-normal.pdf",
+        "Easy": "/assets/puzzles/crosswords/Module-3-Lesson-7/causes-risk-factors-and-triggers-m3-7-easy.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-3-Lesson-7/causes-risk-factors-and-triggers-m3-7-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-8",
+      "module": 3,
+      "lesson": 8,
+      "title": "Brain Networks, Prediction, Attention, and Agency",
+      "image": "/assets/puzzles/thumbnails/brain-networks-prediction-attention-and-agency-m3-8-normal.svg",
+      "course": "/course/m3/2/",
+      "downloads": {
+        "Normal": "/assets/puzzles/crosswords/Module-3-Lesson-8/brain-networks-prediction-attention-and-agency-m3-8-normal.pdf",
+        "Easy": "/assets/puzzles/crosswords/Module-3-Lesson-8/brain-networks-prediction-attention-and-agency-m3-8-easy.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-3-Lesson-8/brain-networks-prediction-attention-and-agency-m3-8-answer-key.pdf"
       },
       "collection": "crosswords"
     }

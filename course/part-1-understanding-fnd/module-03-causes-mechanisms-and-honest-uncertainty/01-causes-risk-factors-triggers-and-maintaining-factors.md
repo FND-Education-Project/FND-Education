@@ -154,6 +154,25 @@ Choose one question to ask your clinician:
 
 One question is enough to begin. New or very different symptoms are also important to have medically assessed.
 
+### Optional learning activity
+
+You can try the Lesson 7 crossword to revisit causes, risk factors, triggers and what researchers are still learning. The easy version includes a word bank.
+
+<a href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-7">Browse this crossword in the puzzles collection</a>.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-7" aria-label="Browse the Lesson 7 crossword">
+  <img src="{{ '/assets/puzzles/thumbnails/causes-risk-factors-and-triggers-m3-7-normal.svg' | relative_url }}" alt="Preview of the Lesson 7 crossword grid." loading="lazy" decoding="async">
+  <span>Lesson 7 crossword</span>
+</a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 7 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-7/causes-risk-factors-and-triggers-m3-7-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy crossword PDF for Lesson 7 (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-7/causes-risk-factors-and-triggers-m3-7-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal crossword PDF for Lesson 7 (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-7/causes-risk-factors-and-triggers-m3-7-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key PDF for Lesson 7 (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab. Easy includes a word bank.</p>
+</div>
+
 ### Optional colouring activity
 
 Choose the preview to open the printable PDF in a new tab or window. Select landscape orientation and fit to page when printing. You can also browse the <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-7">colouring-page collection</a>.
