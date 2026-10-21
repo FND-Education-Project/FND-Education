@@ -1,0 +1,855 @@
+{
+  "title": "What is Functional Neurological Disorder - Module 1 Summary",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 0,
+    "lesson": null,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "module",
+    "module": 1,
+    "seed": 1,
+    "selected_question_count": 116
+  },
+  "score": 81.92,
+  "included": [
+    {
+      "answer": "SYMPTOMS",
+      "borrowed": false,
+      "clue": "Changes in the body or mind that a person notices or experiences.",
+      "direction": "across",
+      "grid_col": 10,
+      "grid_row": 8,
+      "lesson": 2,
+      "module": 1,
+      "original_answer": "SYMPTOMS",
+      "priority": 1,
+      "row": 56
+    },
+    {
+      "answer": "AWARENESS",
+      "borrowed": false,
+      "clue": "Being awake and alert to yourself and your situation",
+      "direction": "down",
+      "grid_col": 10,
+      "grid_row": 1,
+      "lesson": 1,
+      "module": 1,
+      "original_answer": "awareness",
+      "priority": 2,
+      "row": 18
+    },
+    {
+      "answer": "AUTOMATIC",
+      "borrowed": false,
+      "clue": "Something your nervous system normally does without your thinking about it",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 4,
+      "lesson": 1,
+      "module": 1,
+      "original_answer": "automatic",
+      "priority": 2,
+      "row": 15
+    },
+    {
+      "answer": "LIMIT",
+      "borrowed": false,
+      "clue": "The point when continuing an activity becomes too difficult or unsafe.",
+      "direction": "down",
+      "grid_col": 16,
+      "grid_row": 6,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "LIMIT",
+      "priority": 2,
+      "row": 106
+    },
+    {
+      "answer": "GRIEF",
+      "borrowed": false,
+      "clue": "Losing work, health or independence can bring difficult feelings.",
+      "direction": "across",
+      "grid_col": 10,
+      "grid_row": 11,
+      "lesson": 2,
+      "module": 1,
+      "original_answer": "GRIEF",
+      "priority": 1,
+      "row": 47
+    },
+    {
+      "answer": "PANIC",
+      "borrowed": false,
+      "clue": "A sudden, very strong feeling of fear.",
+      "direction": "across",
+      "grid_col": 9,
+      "grid_row": 1,
+      "lesson": 2,
+      "module": 1,
+      "original_answer": "PANIC",
+      "priority": 1,
+      "row": 41
+    },
+    {
+      "answer": "SIGNALS",
+      "borrowed": false,
+      "clue": "Messages travelling through the nervous system",
+      "direction": "across",
+      "grid_col": 4,
+      "grid_row": 9,
+      "lesson": 1,
+      "module": 1,
+      "original_answer": "signals",
+      "priority": 2,
+      "row": 13
+    },
+    {
+      "answer": "MIND",
+      "borrowed": false,
+      "clue": "Where thoughts happen, worries multiply, and grocery lists vanish.",
+      "direction": "down",
+      "grid_col": 7,
+      "grid_row": 7,
+      "lesson": 2,
+      "module": 1,
+      "original_answer": "MIND",
+      "priority": 2,
+      "row": 63
+    },
+    {
+      "answer": "RECOVERING",
+      "borrowed": false,
+      "clue": "Getting back to your usual self.",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 2,
+      "lesson": 3,
+      "module": 1,
+      "original_answer": "RECOVERING",
+      "priority": 2,
+      "row": 66
+    },
+    {
+      "answer": "DRAG",
+      "borrowed": false,
+      "clue": "A leg may do this instead of lifting normally while walking",
+      "direction": "across",
+      "grid_col": 2,
+      "grid_row": 11,
+      "lesson": 1,
+      "module": 1,
+      "original_answer": "drag",
+      "priority": 2,
+      "row": 31
+    },
+    {
+      "answer": "ENERGY",
+      "borrowed": false,
+      "clue": "Available capacity is more than simply how much ___ you think you have.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 3,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "ENERGY",
+      "priority": 1,
+      "row": 114
+    },
+    {
+      "answer": "BIO",
+      "borrowed": false,
+      "clue": "The part of biopsychosocial that means the body and brain.",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 0,
+      "lesson": 2,
+      "module": 1,
+      "original_answer": "BIO",
+      "priority": 1,
+      "row": 32
+    },
+    {
+      "answer": "PAST",
+      "borrowed": false,
+      "clue": "Things that happened before now.",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 5,
+      "lesson": 2,
+      "module": 1,
+      "original_answer": "PAST",
+      "priority": 2,
+      "row": 42
+    },
+    {
+      "answer": "FOCUS",
+      "borrowed": false,
+      "clue": "Another everyday word for where your attention is directed",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 11,
+      "lesson": 1,
+      "module": 1,
+      "original_answer": "focus",
+      "priority": 1,
+      "row": 24
+    },
+    {
+      "answer": "DIM",
+      "borrowed": false,
+      "clue": "To make bright lights less bright.",
+      "direction": "down",
+      "grid_col": 2,
+      "grid_row": 11,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "DIM",
+      "priority": 2,
+      "row": 93
+    },
+    {
+      "answer": "MOVE",
+      "borrowed": false,
+      "clue": "What your nervous system helps your body do",
+      "direction": "across",
+      "grid_col": 2,
+      "grid_row": 7,
+      "lesson": 1,
+      "module": 1,
+      "original_answer": "move",
+      "priority": 2,
+      "row": 22
+    },
+    {
+      "answer": "BIOLOGY",
+      "borrowed": false,
+      "clue": "The body-and-brain part of the biopsychosocial model.",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 5,
+      "lesson": 2,
+      "module": 1,
+      "original_answer": "BIOLOGY",
+      "priority": 1,
+      "row": 52
+    },
+    {
+      "answer": "EPISODE",
+      "borrowed": false,
+      "clue": "A period of functional symptoms.",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 15,
+      "lesson": 3,
+      "module": 1,
+      "original_answer": "EPISODE",
+      "priority": 2,
+      "row": 89
+    },
+    {
+      "answer": "PACING",
+      "borrowed": false,
+      "clue": "Changing activities or taking breaks to make daily life easier to manage.",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 15,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "PACING",
+      "priority": 1,
+      "row": 119
+    },
+    {
+      "answer": "LOAD",
+      "borrowed": false,
+      "clue": "The total amount of pressure placed on you at one time.",
+      "direction": "down",
+      "grid_col": 16,
+      "grid_row": 12,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "LOAD",
+      "priority": 1,
+      "row": 97
+    },
+    {
+      "answer": "NERVES",
+      "borrowed": false,
+      "clue": "They carry messages between the brain and the rest of the body",
+      "direction": "across",
+      "grid_col": 12,
+      "grid_row": 19,
+      "lesson": 1,
+      "module": 1,
+      "original_answer": "nerves",
+      "priority": 2,
+      "row": 14
+    },
+    {
+      "answer": "BRAIN",
+      "borrowed": false,
+      "clue": "Part of the nervous system found inside your head.",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 18,
+      "lesson": 2,
+      "module": 1,
+      "original_answer": "BRAIN",
+      "priority": 1,
+      "row": 34
+    },
+    {
+      "answer": "STEPS",
+      "borrowed": false,
+      "clue": "Leading up to a recovery goal.",
+      "direction": "down",
+      "grid_col": 16,
+      "grid_row": 17,
+      "lesson": 3,
+      "module": 1,
+      "original_answer": "STEPS",
+      "priority": 2,
+      "row": 74
+    },
+    {
+      "answer": "MIGRAINE",
+      "borrowed": false,
+      "clue": "A neurological condition that commonly occurs alongside FND.",
+      "direction": "across",
+      "grid_col": 2,
+      "grid_row": 13,
+      "lesson": 2,
+      "module": 1,
+      "original_answer": "MIGRAINE",
+      "priority": 1,
+      "row": 59
+    },
+    {
+      "answer": "PAIN",
+      "borrowed": false,
+      "clue": "The body's least subtle way of asking for attention.",
+      "direction": "down",
+      "grid_col": 6,
+      "grid_row": 12,
+      "lesson": 2,
+      "module": 1,
+      "original_answer": "PAIN",
+      "priority": 1,
+      "row": 61
+    },
+    {
+      "answer": "RECOVERY",
+      "borrowed": false,
+      "clue": "Improvement in symptoms, function, or quality of life",
+      "direction": "down",
+      "grid_col": 9,
+      "grid_row": 12,
+      "lesson": 1,
+      "module": 1,
+      "original_answer": "recovery",
+      "priority": 1,
+      "row": 9
+    },
+    {
+      "answer": "HOPE",
+      "borrowed": false,
+      "clue": "Something worth keeping.",
+      "direction": "down",
+      "grid_col": 3,
+      "grid_row": 0,
+      "lesson": 3,
+      "module": 1,
+      "original_answer": "HOPE",
+      "priority": 1,
+      "row": 79
+    },
+    {
+      "answer": "OT",
+      "borrowed": false,
+      "clue": "The abbreviation for a health professional who helps people adapt daily activities.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 1,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "OT",
+      "priority": 2,
+      "row": 132
+    },
+    {
+      "answer": "GAIT",
+      "borrowed": false,
+      "clue": "Medical word for the way a person walks",
+      "direction": "down",
+      "grid_col": 4,
+      "grid_row": 13,
+      "lesson": 1,
+      "module": 1,
+      "original_answer": "gait",
+      "priority": 1,
+      "row": 8
+    },
+    {
+      "answer": "NERVE",
+      "borrowed": false,
+      "clue": "One part of the body's message system.",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 17,
+      "lesson": 2,
+      "module": 1,
+      "original_answer": "NERVE",
+      "priority": 1,
+      "row": 35
+    },
+    {
+      "answer": "QUIET",
+      "borrowed": false,
+      "clue": "What you may want when the sounds around you become overwhelming.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 16,
+      "lesson": 4,
+      "module": 1,
+      "original_answer": "QUIET",
+      "priority": 2,
+      "row": 107
+    },
+    {
+      "answer": "ILL",
+      "borrowed": false,
+      "clue": "A simple word for being sick or unwell.",
+      "direction": "down",
+      "grid_col": 2,
+      "grid_row": 16,
+      "lesson": 2,
+      "module": 1,
+      "original_answer": "ILL",
+      "priority": 2,
+      "row": 36
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "FUNCTIONAL",
+      "clue": "How your nervous system is working with motor and sensory information",
+      "row": 2
+    },
+    {
+      "answer": "BALANCE",
+      "clue": "What keeps you upright, even when gravity has other plans",
+      "row": 6
+    },
+    {
+      "answer": "REST",
+      "clue": "Something that helps when demands are too high",
+      "row": 10
+    },
+    {
+      "answer": "ATTENTION",
+      "clue": "What your brain is focusing on right now",
+      "row": 16
+    },
+    {
+      "answer": "FLARE",
+      "clue": "A time when symptoms become worse for a while.",
+      "row": 37
+    },
+    {
+      "answer": "CAUSE",
+      "clue": "FND does not have one known simple one.",
+      "row": 50
+    },
+    {
+      "answer": "LIFE",
+      "clue": "The biopsychosocial model looks at many parts of a person's ____.",
+      "row": 51
+    },
+    {
+      "answer": "SUPPORT",
+      "clue": "One part of the social part of the biopsychosocial model",
+      "row": 53
+    },
+    {
+      "answer": "TRIGGER",
+      "clue": "Something that may set off or worsen symptoms in some people.",
+      "row": 55
+    },
+    {
+      "answer": "STRESS",
+      "clue": "The thing that can make your nervous system act like it has 37 browser tabs open.",
+      "row": 58
+    },
+    {
+      "answer": "FATIGUE",
+      "clue": "When ‘I’m tired’ feels like a serious understatement.",
+      "row": 60
+    },
+    {
+      "answer": "COPE",
+      "clue": "What we try to do when life refuses to behave.",
+      "row": 64
+    },
+    {
+      "answer": "REMISSION",
+      "clue": "When some or all symptoms disappear for a time.",
+      "row": 65
+    },
+    {
+      "answer": "PROGNOSIS",
+      "clue": "What a doctor thinks will happen with a condition over time.",
+      "row": 68
+    },
+    {
+      "answer": "ADAPT",
+      "clue": "Make it work better for you.",
+      "row": 73
+    },
+    {
+      "answer": "WHEELCHAIR",
+      "clue": "An important mobility aid.",
+      "row": 75
+    },
+    {
+      "answer": "FEAR",
+      "clue": "Doing an activity with less of this is meaningful progress.",
+      "row": 85
+    },
+    {
+      "answer": "SETBACK",
+      "clue": "A rough period in recovery, not proof that everything before it was wasted.",
+      "row": 88
+    },
+    {
+      "answer": "FALSE",
+      "clue": "True or False. \"You have had this too long, so nothing will help.\"",
+      "row": 91
+    },
+    {
+      "answer": "LOW",
+      "clue": "When capacity is very ___, safety may need to come first.",
+      "row": 94
+    },
+    {
+      "answer": "NOW",
+      "clue": "Available capacity describes what you can manage right ___.",
+      "row": 95
+    },
+    {
+      "answer": "COST",
+      "clue": "Each activity has one even when nobody sends you a bill.",
+      "row": 96
+    },
+    {
+      "answer": "DEMAND",
+      "clue": "The effort or pressure that an activity puts on you.",
+      "row": 98
+    },
+    {
+      "answer": "SPOON",
+      "clue": "In a theory that uses kitchen utensils, this item represents part of your available capacity.",
+      "row": 102
+    },
+    {
+      "answer": "LIGHT",
+      "clue": "Something bright that can add to sensory overload.",
+      "row": 104
+    },
+    {
+      "answer": "SPACE",
+      "clue": "A supporter might offer company, help, quiet, or some ___.",
+      "row": 110
+    },
+    {
+      "answer": "VISIT",
+      "clue": "Spending time with someone is a social activity that can use capacity.",
+      "row": 112
+    },
+    {
+      "answer": "DRIVE",
+      "clue": "An activity that may need to stop when symptoms make it unsafe.",
+      "row": 113
+    },
+    {
+      "answer": "RECOVER",
+      "clue": "What you may need time to do after an activity or episode.",
+      "row": 121
+    },
+    {
+      "answer": "CAPACITY",
+      "clue": "The amount you can handle at a particular time.",
+      "row": 122
+    },
+    {
+      "answer": "EXHAUSTION",
+      "clue": "When saying “I’m a little tired” does not come close to describing how you feel.",
+      "row": 125
+    },
+    {
+      "answer": "FATIGABILITY",
+      "clue": "A medical term for an ability that gets worse with repeated or continued effort.",
+      "row": 126
+    },
+    {
+      "answer": "BODY",
+      "clue": "Where most FND symptoms are seen or felt",
+      "row": 3
+    },
+    {
+      "answer": "SENSORY",
+      "clue": "Connected to your senses (sight, hearing, smell, taste, and touch)",
+      "row": 4
+    },
+    {
+      "answer": "FND",
+      "clue": "Functional Neurological Disorder",
+      "row": 7
+    },
+    {
+      "answer": "REAL",
+      "clue": "FND symptoms",
+      "row": 11
+    },
+    {
+      "answer": "FUNCTIONALSEIZURE",
+      "clue": "Modern term for psychogenic non-epileptic seizures (PNES)",
+      "row": 12
+    },
+    {
+      "answer": "PSYCHOGENIC",
+      "clue": "From the mind or Emotions",
+      "row": 20
+    },
+    {
+      "answer": "FAKED",
+      "clue": "Symptoms are real and are not _____.",
+      "row": 21
+    },
+    {
+      "answer": "ARM",
+      "clue": "Upper body part that can be affected by weakness",
+      "row": 23
+    },
+    {
+      "answer": "TREMOR",
+      "clue": "A rhythmic shaking movement",
+      "row": 25
+    },
+    {
+      "answer": "DROOP",
+      "clue": "When a part of the face sags or hangs lower",
+      "row": 26
+    },
+    {
+      "answer": "TIC",
+      "clue": "A repeated movement or sound that is hard to hold back.",
+      "row": 27
+    },
+    {
+      "answer": "JERK",
+      "clue": "A sudden brief movement that happens without reason",
+      "row": 28
+    },
+    {
+      "answer": "DYSTONIA",
+      "clue": "Muscles pulling the body into a twisted or fixed position",
+      "row": 29
+    },
+    {
+      "answer": "PARALYSIS",
+      "clue": "When a person can't move a part of the body",
+      "row": 30
+    },
+    {
+      "answer": "MOOD",
+      "clue": "How you are feeling emotionally.",
+      "row": 38
+    },
+    {
+      "answer": "FEEL",
+      "clue": "To notice an emotion or a body sensation.",
+      "row": 39
+    },
+    {
+      "answer": "CALM",
+      "clue": "Feeling less worried, upset or tense.",
+      "row": 40
+    },
+    {
+      "answer": "WORK",
+      "clue": "One part of a person's social life.",
+      "row": 44
+    },
+    {
+      "answer": "CARE",
+      "clue": "Help given to someone who needs it.",
+      "row": 45
+    },
+    {
+      "answer": "TEAM",
+      "clue": "A group of people working together to help someone.",
+      "row": 46
+    },
+    {
+      "answer": "WORRY",
+      "clue": "Thoughts about something that might go wrong.",
+      "row": 48
+    },
+    {
+      "answer": "SAFE",
+      "clue": "Feeling protected from danger or harm.",
+      "row": 49
+    },
+    {
+      "answer": "PSYCHOLOGICAL",
+      "clue": "Thoughts, feelings, stress and ways of coping.",
+      "row": 54
+    },
+    {
+      "answer": "REHABILITATION",
+      "clue": "Treatment and practice aimed at improving ability and daily function.",
+      "row": 67
+    },
+    {
+      "answer": "EXACERBATION",
+      "clue": "Symptoms become worse.",
+      "row": 69
+    },
+    {
+      "answer": "CONFIDENCE",
+      "clue": "FND knocks this around but recovery builds it.",
+      "row": 71
+    },
+    {
+      "answer": "AID",
+      "clue": "Help with movement, safety, or independence.",
+      "row": 78
+    },
+    {
+      "answer": "PLAN",
+      "clue": "A set of ideas for what to try and what matters most.",
+      "row": 80
+    },
+    {
+      "answer": "FAIL",
+      "clue": "Symptoms returning does NOT mean you did this.",
+      "row": 82
+    },
+    {
+      "answer": "ABLE",
+      "clue": "Capacity to do something.",
+      "row": 83
+    },
+    {
+      "answer": "DAYS",
+      "clue": "Sometimes it takes this long to recover.",
+      "row": 84
+    },
+    {
+      "answer": "BETTER",
+      "clue": "The wonderfully vague word behind improvement.",
+      "row": 86
+    },
+    {
+      "answer": "PURPOSE",
+      "clue": "Work toward or do something meaningful",
+      "row": 87
+    },
+    {
+      "answer": "PATH",
+      "clue": "Recovery does not have to follow one straight ____.",
+      "row": 90
+    },
+    {
+      "answer": "TASK",
+      "clue": "Getting dressed, taking a shower, or making food is an example of one.",
+      "row": 99
+    },
+    {
+      "answer": "UNIT",
+      "clue": "A spoon may be useful for soup, but it is not a medical ___ of energy.",
+      "row": 100
+    },
+    {
+      "answer": "TEXT",
+      "clue": "A way to communicate when speaking is difficult.",
+      "row": 101
+    },
+    {
+      "answer": "NOISE",
+      "clue": "Reducing background ___ can make a conversation easier.",
+      "row": 103
+    },
+    {
+      "answer": "AFTER",
+      "clue": "Capacity includes considering what you may need ___ an activity.",
+      "row": 105
+    },
+    {
+      "answer": "BREAK",
+      "clue": "Something pacing may include when an activity becomes difficult.",
+      "row": 108
+    },
+    {
+      "answer": "SCORE",
+      "clue": "You do not need to give your available capacity a number or a ___.",
+      "row": 109
+    },
+    {
+      "answer": "DELAY",
+      "clue": "Some effects of an activity may appear after a ___.",
+      "row": 111
+    },
+    {
+      "answer": "CHOICE",
+      "clue": "Support should respect a person’s own ___ about how to use their capacity.",
+      "row": 115
+    },
+    {
+      "answer": "SAFETY",
+      "clue": "When symptoms become severe, this may be more important than finishing the task.",
+      "row": 116
+    },
+    {
+      "answer": "REPEAT",
+      "clue": "Doing something once does not mean you can always ___ it five minutes later.",
+      "row": 117
+    },
+    {
+      "answer": "EFFORT",
+      "clue": "Everyday activities can require much more of this than other people realize.",
+      "row": 118
+    },
+    {
+      "answer": "AUTONOMIC",
+      "clue": "The nervous system that controls automatic functions such as heart rate and digestion.",
+      "row": 123
+    },
+    {
+      "answer": "EQUIPMENT",
+      "clue": "Tools or devices that may make an activity safer or easier.",
+      "row": 124
+    },
+    {
+      "answer": "NAP",
+      "clue": "A short sleep that may help you recharge during the day.",
+      "row": 127
+    },
+    {
+      "answer": "SIT",
+      "clue": "What you might do in a chair when standing uses too much capacity.",
+      "row": 128
+    },
+    {
+      "answer": "ASK",
+      "clue": "To request support instead of trying to manage alone.",
+      "row": 129
+    },
+    {
+      "answer": "ADL",
+      "clue": "The abbreviation for everyday self-care activities such as dressing and eating.",
+      "row": 131
+    }
+  ]
+}
