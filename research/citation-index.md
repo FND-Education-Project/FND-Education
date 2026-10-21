@@ -162,6 +162,8 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0282](#fnd-cit-0282) | Wieder et al., 2021 | Meta-analysis | Responses to suggestion | [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md) |
 | [FND-CIT-0283](#fnd-cit-0283) | Pellicciari et al., 2014 | Case-control study | Symptom modelling in movement disorders | [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md) |
 | [FND-CIT-0284](#fnd-cit-0284) | FND Head Jerking, 2023 | Community account | Individual experience of attention and head movements | [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md) |
+| [FND-CIT-0285](#fnd-cit-0285) | Community: Extremely sensitive nervous system | Lived experience | Partial benefit and continuing sensitivity; not treatment-effect evidence. | [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md) |
+| [FND-CIT-0286](#fnd-cit-0286) | Community: I need advice | Lived experience | Seizures interrupting conversations; the writer reports diagnostic uncertainty, not confirmed FND. | [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md) |
 
 ## Functional speech and voice detailed-page citation use map
 
@@ -2723,3 +2725,19 @@ Public community post, “FND Head Jerking.” Reddit, r/FND. October 30, 2023. 
 **Type and scope:** Individual lived experience; not research or treatment-effect evidence.
 
 **Current use:** [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md).
+
+## FND-CIT-0285
+
+Public community post, “Extremely sensitive nervous system.” Reddit, r/FND. [Original post](https://www.reddit.com/r/FND/comments/1qjpe0n/extremely_sensitive_nervous_system/). Accessed and quotation verified October 21, 2026.
+
+**Type and scope:** Individual lived experience. Partial benefit and continuing sensitivity; not treatment-effect evidence.
+
+**Current use:** [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md).
+
+## FND-CIT-0286
+
+Public community post, “I need advice.” Reddit, r/FND. [Original post](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/). Accessed and quotation verified October 21, 2026.
+
+**Type and scope:** Individual lived experience. Seizures interrupting conversations; the writer reports diagnostic uncertainty, not confirmed FND.
+
+**Current use:** [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md).
