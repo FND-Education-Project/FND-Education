@@ -35,13 +35,13 @@ FND-CIT-0284 records the already verified community quotation and its original p
 
 The editorial pass is complete for the lesson text: checked paragraph pacing, consistent supportive voice, thought–heart–action progression, clinician explanation, headings, citations, resource labels, authorship and dates. Retained the existing sample sizes, uncertainty boundaries, author examples, community words and illustration. No exhaustive symptom catalogue or additional warning paragraphs were added.
 
-Source checks cover relative file destinations, section/citation anchors, stable citation IDs, the coloring catalog/assets and the authorship parser. GitHub CI is the build/validation gate. The local execution environment is unavailable; no local browser/mobile preview or visual PDF inspection is claimed.
+Source checks cover relative file destinations, section/citation anchors, stable citation IDs, the coloring catalog/assets and the authorship parser. GitHub CI is the build/validation gate. On October 21 the workspace became available. Merged current main into the PR branch, preserving both Lesson 7 and Lesson 8 coloring entries and their static fallback cards. Corrected the Lesson 8 catalog lesson number to global Lesson 8, matching existing collection numbering (course route remains `/course/m3/2/`). Generated all 428 public routes and passed `tools/site/validate.py` and `git diff --check`. Local Jekyll execution is unavailable because Bundler is not installed; GitHub CI remains the built-artifact gate. No local browser/mobile preview or visual PDF inspection is claimed.
 
 ## Outstanding requested crossword work
 
-The uploaded Lesson 7 and 8 sets could not be read because the scratch execution environment is unavailable. The user instructed that attachments not be read through Library tools. Main and the two available crossword-workshop branches were checked for committed copies; the requested filenames were not present. No replacement files were generated, and no dangling public download links were added.
+The restored uploads directory was checked on October 21. It contains earlier illustrations/coloring pages but neither Lesson 7 nor Lesson 8 crossword set. A workspace-wide filename search also found neither set. The user instructed that attachments not be read through Library tools. Main and the two available crossword-workshop branches were checked for committed copies; the requested filenames were not present. No replacement files were generated, and no dangling public download links were added.
 
-Resume by installing the supplied normal/easy/answer-key PDFs and sources JSON for:
+The user needs to reattach the normal/easy/answer-key PDFs and sources JSON for:
 - `causes-risk-factors-and-triggers-m3-7`
 - `brain-networks-prediction-attention-and-agency-m3-8`
 

@@ -2,7 +2,7 @@
   "modules": {
     "1": "What FND Is",
     "2": "How FND Is Diagnosed",
-    "3": "Causes and Mechanisms"
+    "3": "What May Cause or Affect FND?"
   },
   "items": [
     {
@@ -66,9 +66,21 @@
       "collection": "colouring"
     },
     {
+      "id": "lesson-7",
+      "module": 3,
+      "lesson": 7,
+      "title": "Causes, Risk Factors, Triggers, and Maintaining Factors",
+      "image": "/assets/puzzles/colouring/lesson-7-coloring-book.png",
+      "course": "/course/m3/1/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-7-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
       "id": "lesson-8",
       "module": 3,
-      "lesson": 2,
+      "lesson": 8,
       "title": "Brain Networks and Their Teamwork",
       "image": "/assets/puzzles/colouring/lesson-8-coloring-book.png",
       "course": "/course/m3/2/",
