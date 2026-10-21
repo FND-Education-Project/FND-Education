@@ -78,6 +78,18 @@
       "collection": "colouring"
     },
     {
+      "id": "lesson-8",
+      "module": 3,
+      "lesson": 8,
+      "title": "Brain Networks and Their Teamwork",
+      "image": "/assets/puzzles/colouring/lesson-8-coloring-book.png",
+      "course": "/course/m3/2/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-8-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
       "id": "lesson-1",
       "module": 1,
       "lesson": 1,
