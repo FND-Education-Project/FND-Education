@@ -144,7 +144,7 @@ Each change helps with a different part of the problem.
 
 <figure class="image-60center" markdown="1">
 
-![A person carrying groceries walks in the foreground while background panels show feeling unwell at home, overwhelm in a crowded setting, a calmer outdoor path, and a grocery store.](../../../assets/images/lesson-9-shopper-biopsychosocial.webp)
+![A person carrying groceries walks in the foreground while background panels show feeling unwell at home, overwhelm in a crowded setting, a calmer outdoor path, and a grocery store.](../../../assets/images/lesson-9-illustration.png)
 
 <figcaption>Small changes in more than one area can make an everyday task more manageable.</figcaption>
 
