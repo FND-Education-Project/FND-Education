@@ -154,11 +154,53 @@ Put them together, and grocery shopping might become something they can enjoy ag
 
 That's the value of the biopsychosocial approach. It helps us see the bigger picture and discover where useful changes might be possible.
 
-But there's another part to understanding our health.
+### When psychology and FND get tangled
 
-Sometimes people offer explanations for *why* we developed FND or *why* our symptoms happen.
+> “It's hard to separate psychology from FND when my FND is so sensitive to psychology.”
 
-How can we tell which explanations make sense?
+*Figure 3 — Lived experience shared with the project.* (*citations* [12](#citation-12))
+
+Have you ever noticed how your feelings can affect your body?
+
+Maybe your stomach feels funny before something exciting. Or your heart beats faster when you're frightened.
+
+Our brains and bodies are always talking to each other.
+
+For some people with FND, this connection can be especially noticeable.
+
+Imagine you're getting ready to visit a friend. You're looking forward to it. Then your symptoms suddenly get worse.
+
+Maybe your words become difficult to find, your legs feel heavy, or you struggle to concentrate.
+
+Now you're worried you might have to cancel.
+
+Your symptoms have affected your feelings.
+
+But sometimes things happen the other way around.
+
+You might feel nervous before an important appointment and notice your symptoms becoming stronger.
+
+And on another day? Your symptoms might change for no clear reason at all.
+
+It can get confusing.
+
+If only our nervous systems came with a little button marked *“Why did that happen?”*
+
+Here's one way to untangle it.
+
+Imagine bright sunlight makes someone's headache worse.
+
+Does that mean sunlight caused their headache condition in the first place?
+
+On its own, that tells us what affects their headache **today**. Understanding how the condition began is a separate question.
+
+FND can be complicated in a similar way.
+
+For some people, thoughts, feelings and attention may influence symptoms. Living with symptoms can also influence how we think and feel. The pattern varies from person to person. (*citations* [1](#citation-1), [3](#citation-3))
+
+**Something that affects our symptoms isn't necessarily what caused our FND to begin.**
+
+That difference helps us ask useful questions about explanations for FND. Let's try a little detective work.
 
 ### How can I judge an explanation about my FND?
 
@@ -579,6 +621,7 @@ The occupational-therapy recommendations support individualized activity and par
 | <a id="citation-9"></a>**[9]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [DOI](https://doi.org/10.1136/jnnp-2019-322281). |
 | <a id="citation-10"></a>**[10]** | 1 | Public community post, “Extremely sensitive nervous system.” Reddit, r/FND. [Original post](https://www.reddit.com/r/FND/comments/1qjpe0n/extremely_sensitive_nervous_system/). Accessed and quotation verified October 21, 2026. Individual lived experience. [FND-CIT-0285](../../../research/citation-index.md#fnd-cit-0285). |
 | <a id="citation-11"></a>**[11]** | 2 | Public community post, “I need advice.” Reddit, r/FND. [Original post](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/). Accessed and quotation verified October 21, 2026. Individual lived experience. [FND-CIT-0286](../../../research/citation-index.md#fnd-cit-0286). |
+| <a id="citation-12"></a>**[12]** | 3 | Project contributor. First-person reflection on psychology and FND, supplied directly and approved for anonymous use, October 21, 2026. Individual lived experience. [FND-CIT-0287](../../../research/citation-index.md#fnd-cit-0287). |
 
 This page still needs review by people with FND, supporters, clinicians and researchers, especially to check that each factor’s possible role and evidence level remain clear.
 

@@ -1,6 +1,6 @@
-# Module 3, Lesson 9 — Proposed snippet: When psychology and FND get tangled
+# Module 3, Lesson 9 — Integrated snippet: When psychology and FND get tangled
 
-**Status:** Proposed human-directed lesson addition; pending Work mode's two editorial audits. Not yet added to the published lesson.
+**Status:** Incorporated into the Lesson 9 PR on October 21, 2026, following direct authorization. Scoped Audit 1 and editorial Audit 2 are recorded in `audit-lesson-09-psychology-bridge-2026-10-21.md`. Publication awaits PR merge.
 
 **Target lesson:** `course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md`
 
@@ -10,17 +10,17 @@
 
 **Quote provenance:** First-person lived experience provided directly by the project lead; retain the words and anonymous lived-experience attribution. The quote expresses one person's experience, not a universal FND symptom pattern or established mechanism.
 
-**Review brief:** Perform evidence/alignment and editorial/readability/accessibility audits before proposing incorporation. Check causation-versus-influence distinctions, the bidirectional discussion, diverse symptom examples, age-appropriate pacing, and careful treatment of psychological factors. Leave the public lesson unchanged until insertion is approved.
+**Review scope:** The inserted passage, its immediate transitions, and supporting attribution only. The latest user instruction authorizes insertion and both audits, superseding the original staging hold.
 
 ---
 
-## Proposed insertion (reader-facing Markdown)
+## Integrated insertion (reader-facing Markdown)
 
 ### When psychology and FND get tangled
 
 > “It's hard to separate psychology from FND when my FND is so sensitive to psychology.”
 
-— *Lived experience*
+*Figure 3 — Lived experience shared with the project.* (*citations* [12](#citation-12))
 
 Have you ever noticed how your feelings can affect your body?
 
@@ -48,24 +48,18 @@ It can get confusing.
 
 If only our nervous systems came with a little button marked *“Why did that happen?”*
 
-Unfortunately, they're not quite that helpful.
-
-Here's something worth thinking about.
+Here's one way to untangle it.
 
 Imagine bright sunlight makes someone's headache worse.
 
 Does that mean sunlight caused their headache condition in the first place?
 
-Of course not. It tells us something about what affects their headache **today**.
+On its own, that tells us what affects their headache **today**. Understanding how the condition began is a separate question.
 
 FND can be complicated in a similar way.
 
-Our thoughts, feelings, and attention may influence symptoms. And living with those symptoms can influence how we think and feel.
+For some people, thoughts, feelings and attention may influence symptoms. Living with symptoms can also influence how we think and feel. The pattern varies from person to person. (*citations* [1](#citation-1), [3](#citation-3))
 
 **Something that affects our symptoms isn't necessarily what caused our FND to begin.**
 
-That's an important difference.
-
-So, when someone offers an explanation for why we have FND, how can we tell whether it's supported by research or is still just an idea?
-
-That's where a little detective work comes in.
+That difference helps us ask useful questions about explanations for FND. Let's try a little detective work.
