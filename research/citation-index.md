@@ -349,6 +349,8 @@ The named gait transformations come mainly from functional-motor consensus and s
 | [FND-CIT-0279](#fnd-cit-0279) | Kyrgyzbay G, Kalinina D, Akhmedullin R, et al | Aggregate migraine proportion in functional seizures; ascertainment varies across studies. | [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md) |
 | [FND-CIT-0280](#fnd-cit-0280) | Jones AT, O’Connell NK, David AS | Functional presentations among suspected strokes, not stroke prevalence in FND. | [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md) |
 | [FND-CIT-0281](#fnd-cit-0281) | Nisticò V, Demartini B, et al | Table 1: MS and Parkinson’s disease/parkinsonism in 466 adults with motor FND. | [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md) |
+| [FND-CIT-0285](#fnd-cit-0285) | Community: Extremely sensitive nervous system | Lived experience | Partial benefit and continuing sensitivity; not treatment-effect evidence. | [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md) |
+| [FND-CIT-0286](#fnd-cit-0286) | Community: I need advice | Lived experience | Seizures interrupting conversations; the writer reports diagnostic uncertainty, not confirmed FND. | [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md) |
 
 ## FND-CIT-0001
 
@@ -2693,3 +2695,19 @@ Nisticò V, Demartini B, et al. Pain in Functional Motor Disorders: Clinical Cor
 **Type and scope:** Table 1: MS and Parkinson’s disease/parkinsonism in 466 adults with motor FND.
 
 **Current use:** [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
+
+## FND-CIT-0285
+
+Public community post, “Extremely sensitive nervous system.” Reddit, r/FND. [Original post](https://www.reddit.com/r/FND/comments/1qjpe0n/extremely_sensitive_nervous_system/). Accessed and quotation verified October 21, 2026.
+
+**Type and scope:** Individual lived experience. Partial benefit and continuing sensitivity; not treatment-effect evidence.
+
+**Current use:** [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md).
+
+## FND-CIT-0286
+
+Public community post, “I need advice.” Reddit, r/FND. [Original post](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/). Accessed and quotation verified October 21, 2026.
+
+**Type and scope:** Individual lived experience. Seizures interrupting conversations; the writer reports diagnostic uncertainty, not confirmed FND.
+
+**Current use:** [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md).

@@ -4,7 +4,7 @@
 
 # Physical, Psychological, and Social Factors—and How to Judge Claims
 
-> **Working draft:** Human authored revision with AI assistance; clinical review and the two course audits are pending. [Contributors and reviewers](https://fndeducationproject.org/contact/) are welcome.
+> **Working draft:** Human authored revision with AI assistance; evidence and editorial audits completed October 21, 2026; clinical review remains pending. [Contributors and reviewers](https://fndeducationproject.org/contact/) are welcome.
 
 This lesson explores how physical health, thoughts, feelings and surroundings can shape life with FND, and how understanding evidence can guide useful care and support.
 
@@ -58,9 +58,9 @@ That's a win worth having.
 
 One community member described how treatment helped, while some difficulties remained:
 
-> “Treatment at a clinic ... has helped a little, but I’m still extremely sensitive and can crash if I push past my threshold even slightly.”
+> “I started treatment at a clinic in October, which has helped a little, but I’m still extremely sensitive and can crash if I push past my threshold even slightly.”
 
-— *Lived experience:* [Read the public source](https://www.reddit.com/r/FND/comments/1qjpe0n/extremely_sensitive_nervous_system/).
+*Figure 1 — Lived experience.* (*citations* [10](#citation-10))
 
 That experience may sound familiar. Sometimes treatment helps with one problem while we continue working around others.
 
@@ -86,15 +86,15 @@ The plan gives them something useful: a little more confidence about going out.
 
 Our thoughts and feelings are part of how we experience health. Paying attention to them can help us understand what kind of support we need.
 
-Some people with FND also have anxiety, PTSD or another mental-health condition. These deserve care in their own right. Each diagnosis tells us something about a person's health, rather than telling the whole story of why their FND began.
+Some people with FND also have anxiety, PTSD or another mental-health condition. These deserve care in their own right. Each diagnosis tells us something about a person's health, rather than telling the whole story of why their FND began. (*citations* [1](#citation-1), [2](#citation-2), [4](#citation-4))
 
 Here's another everyday situation.
 
-One community member described how functional seizures affected conversations:
+One community member described how seizures interrupted conversations:
 
-> “Sometimes I get stressed and have a seizure and our conversation sort of ends, is interrupted.”
+> “[S]ometimes I get stressed and have a seizure and our conversation sort of ends, is interrupted.”
 
-— *Lived experience:* [Read the public source](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/).
+*Figure 2 — Lived experience.* (*citations* [11](#citation-11))
 
 Imagine trying to talk through something important with someone you love, only to have the conversation interrupted.
 
@@ -126,7 +126,7 @@ Sometimes the surroundings can make a big difference.
 
 For someone else, the difficulty might be getting to appointments. A ride from a friend could make receiving care much easier.
 
-Occupational therapists often help people find ways to adapt activities and surroundings so they can take part in things that matter to them. (*citation* [9](#citation-9))
+Occupational therapists often help people find ways to adapt activities and surroundings so they can take part in things that matter to them. (*citations* [9](#citation-9))
 
 **The important idea:** Changes to our surroundings and support can open doors to activities that have become difficult.
 
@@ -302,7 +302,7 @@ Perhaps the person decides that a shorter visit would be more manageable. They m
 
 They still get to enjoy something that matters to them.
 
-For someone living with FND, having choices like these can make a meaningful difference. It can help them remain involved in family life while respecting their own needs and limits.
+For someone living with FND, having choices like these can make a meaningful difference. It can help them remain involved in family life while respecting their own needs and limits. (*citations* [9](#citation-9))
 
 And what works may change. A person might enjoy a longer visit one week and need a quieter afternoon the next. Some symptoms vary, while others are more persistent or unpredictable.
 
@@ -320,7 +320,7 @@ Perhaps a quieter setting makes conversation more comfortable. Maybe having tran
 
 These observations can be useful because they point toward practical adjustments.
 
-They can also help the person's healthcare team understand what daily life is like beyond the clinic.
+They can also help the person's healthcare team understand [what daily life is like beyond the clinic](../../../reference/diagnostic-concepts/10-assessment-and-everyday-function.md).
 
 For example, knowing that migraine pain regularly interferes with activities may encourage a discussion about migraine care. Difficulties with sleep or a separate mental-health condition may deserve attention of their own.
 
@@ -356,7 +356,7 @@ They also remind us that improvement can mean more than a change in symptoms. Fe
 
 A positive FND diagnosis identifies clinical features supporting a functional neurological presentation.
 
-A **biopsychosocial formulation** builds on that diagnosis. It brings together the medical, psychological and social factors that may influence a person's health, daily functioning and opportunities for recovery.
+A **[biopsychosocial formulation](../../../glossary/README.md#biopsychosocial-model)** builds on that diagnosis. It brings together the medical, psychological and social factors that may influence a person's health, daily functioning and opportunities for recovery.
 
 Consider a patient with FND and migraine who wants to attend a family gathering.
 
@@ -372,13 +372,13 @@ Together, these considerations can guide care that addresses the patient's healt
 
 Physical health deserves careful attention in FND, partly because accompanying medical conditions are common and may add substantially to disability.
 
-Steinruecke and colleagues' **2024 systematic review and meta-analysis** found that pain symptoms and pain-related diagnoses are common among people with FND. (*citation* [5](#citation-5))
+Steinruecke and colleagues' **2024 systematic review and meta-analysis** found that pain symptoms and pain-related diagnoses are common among people with FND. (*citations* [5](#citation-5))
 
-This finding matters because pain can affect mobility, sleep, concentration and participation in rehabilitation. Recognizing and assessing pain creates opportunities for more comprehensive care.
+This finding matters because pain can affect mobility, sleep, concentration and participation in rehabilitation. Recognizing and [assessing pain](../../../reference/co-occurring-conditions/04-persistent-pain.md) creates opportunities for more comprehensive care.
 
 Research into migraine offers another example.
 
-Stone and colleagues' **2025 review** examined the overlap between migraine and FND, including possible relationships between their clinical presentations. (*citation* [7](#citation-7))
+Stone and colleagues' **2025 review** examined the overlap between migraine and FND, including possible relationships between their clinical presentations. (*citations* [7](#citation-7))
 
 For a patient living with both conditions, the review supports considering their interaction while also using established migraine assessment and treatment approaches.
 
@@ -386,7 +386,7 @@ Migraine treatment may improve comfort and daily functioning. Whether it also ch
 
 Physiological research is expanding this picture.
 
-Paredes-Echeverri and colleagues' **2022 systematic review and meta-analysis** examined autonomic, endocrine and inflammatory findings in FND. The studies explored measurable bodily processes that may contribute to a fuller understanding of the condition. (*citation* [8](#citation-8))
+Paredes-Echeverri and colleagues' **2022 systematic review and meta-analysis** examined autonomic, endocrine and inflammatory findings in FND. The studies explored measurable bodily processes that may contribute to a fuller understanding of the condition. (*citations* [8](#citation-8))
 
 Differences in study populations and measurements make this an evolving area of research. The findings provide questions for further investigation and encourage attention to relevant accompanying symptoms.
 
@@ -398,7 +398,7 @@ The psychological dimension includes emotional processing, expectations, attenti
 
 These processes are closely connected with neurological function and everyday behaviour.
 
-Pick and colleagues' **2019 review** explored how emotional processing may interact with neural processes involved in FND. The authors proposed a biopsychosocial research model that brings together findings from several areas of neuroscience. (*citation* [3](#citation-3))
+Pick and colleagues' **2019 review** explored how emotional processing may interact with neural processes involved in FND. The authors proposed a biopsychosocial research model that brings together findings from several areas of neuroscience. (*citations* [3](#citation-3))
 
 This work is useful because it identifies relationships that researchers can investigate and clinicians can explore within an individual's presentation.
 
@@ -430,15 +430,15 @@ Their symptoms may be similar, but their opportunities to participate in treatme
 
 Recognizing these differences helps clinicians develop realistic, individualized care plans.
 
-Sekine and colleagues' **2025 systematic review** examined biopsychosocial factors associated with longer-term outcomes in FND. Such research helps identify factors worth considering when planning care. Study populations, follow-up periods and outcome measures vary, so individual prognosis requires a broader clinical assessment. (*citation* [6](#citation-6))
+Sekine and colleagues' **2025 systematic review** examined biopsychosocial factors associated with longer-term outcomes in FND. Such research helps identify factors worth considering when planning care. Study populations, follow-up periods and outcome measures vary, so individual prognosis requires a broader clinical assessment. (*citations* [6](#citation-6))
 
 Patients' perspectives also provide important information.
 
-Butler and colleagues' **2021 international online survey** collected responses from **1,048 people with FND** about their experiences and perceived influences. (*citation* [4](#citation-4))
+Butler and colleagues' **2021 international online survey** collected responses from **1,048 people with FND** about their experiences and perceived influences. (*citations* [4](#citation-4))
 
 The self-selected sample offers insight into patients' reported experiences and priorities. It is particularly useful for understanding questions that matter to people living with FND and for informing further research.
 
-Occupational-therapy consensus recommendations offer a practical connection between these findings and clinical care. They describe individualized approaches to activity, participation and environmental adaptation. (*citation* [9](#citation-9))
+Occupational-therapy consensus recommendations offer a practical connection between these findings and clinical care. They describe individualized approaches to activity, participation and environmental adaptation. (*citations* [9](#citation-9))
 
 Together, these sources support considering the social environment as part of understanding disability, treatment access and personally meaningful outcomes.
 
@@ -474,7 +474,7 @@ Care can then be organized around that goal.
 
 Migraine treatment may improve physical comfort. A suitable safety plan, where indicated, may help address concerns about being away from home. A shorter visit or quieter setting could make participation easier.
 
-The care team can review what changes, including symptom burden, confidence, comfort and participation.
+The care team can [review what changes](../../../reference/diagnostic-concepts/10-assessment-and-everyday-function.md), including symptom burden, confidence, comfort and participation.
 
 This approach allows clinical decisions to be evaluated against outcomes that matter to the patient.
 
@@ -488,7 +488,7 @@ Sharing the reasoning can help them distinguish established findings from develo
 
 For example:
 
-> “Your examination supports your FND diagnosis, and we also know that you have migraine. Both are important parts of your health. Research is helping us understand how these conditions may interact. In the meantime, treating your migraine and finding ways to make activities more manageable may improve your daily life. We can review together what helps.”
+> “The clinical findings support your FND diagnosis, and we also know that you have migraine. Both are important parts of your health. Research is helping us understand how these conditions may interact. In the meantime, treating your migraine and finding ways to make activities more manageable may improve your daily life. We can review together what helps.”
 
 This explanation offers the patient something concrete: an evidence-based diagnosis, an account of the research and a plan connected to their own priorities.
 
@@ -500,6 +500,8 @@ This explanation offers the patient something concrete: an evidence-based diagno
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ---
+
+**Further reading in the Reference Library:** [Assessment and everyday function](../../../reference/diagnostic-concepts/10-assessment-and-everyday-function.md).
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next module: Map Your FND and Other Health Conditions](../module-04-mapping-your-individual-condition/README.md)
@@ -518,22 +520,24 @@ The diagnostic and clinical reviews support a positive diagnosis and an individu
 
 The pain, prognosis, migraine and autonomic reviews examine different populations and outcomes. Their findings help identify questions for care and research; associations alone do not establish what caused one person's FND. (*citations* [5](#citation-5), [6](#citation-6), [7](#citation-7), [8](#citation-8))
 
-The occupational-therapy recommendations support individualized activity and participation goals. They are professional consensus, rather than a trial proving that a particular environmental change will help every person. (*citation* [9](#citation-9))
+The occupational-therapy recommendations support individualized activity and participation goals. They are professional consensus, rather than a trial proving that a particular environmental change will help every person. (*citations* [9](#citation-9))
 
 ### Citation table
 
-| Citation | Full citation |
-|---|---|
-| <a id="citation-1"></a>**[1]** | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
-| <a id="citation-2"></a>**[2]** | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
-| <a id="citation-3"></a>**[3]** | Pick S, Goldstein LH, Perez DL, Nicholson TR. Emotional processing in functional neurological disorder: a review, biopsychosocial model and research agenda. *Journal of Neurology, Neurosurgery & Psychiatry*. 2019;90(6):704–711. [FND-CIT-0005](../../../research/citation-index.md#fnd-cit-0005). [https://doi.org/10.1136/jnnp-2018-319201](https://doi.org/10.1136/jnnp-2018-319201) |
-| <a id="citation-4"></a>**[4]** | Butler M, Shipston-Sharman O, Seynaeve M, et al. International online survey of 1048 individuals with functional neurological disorder. *European Journal of Neurology*. 2021;28(11):3591–3602. [FND-CIT-0014](../../../research/citation-index.md#fnd-cit-0014). [https://doi.org/10.1111/ene.15018](https://doi.org/10.1111/ene.15018) |
-| <a id="citation-5"></a>**[5]** | Steinruecke M, Mason I, Keen M, McWhirter L, Carson AJ, Stone J, Hoeritzauer I. Pain and functional neurological disorder: a systematic review and meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*. 2024;95(9):874–885. [FND-CIT-0015](../../../research/citation-index.md#fnd-cit-0015). [https://doi.org/10.1136/jnnp-2023-332810](https://doi.org/10.1136/jnnp-2023-332810) |
-| <a id="citation-6"></a>**[6]** | Sekine ER, Kanaan RA, McMillan J, Oxford S, Iles RA. Biopsychosocial prognostic indicators in Functional Neurological Disorder: a systematic review. *Journal of Psychosomatic Research*. 2025;195:112201. [FND-CIT-0017](../../../research/citation-index.md#fnd-cit-0017). [https://doi.org/10.1016/j.jpsychores.2025.112201](https://doi.org/10.1016/j.jpsychores.2025.112201) |
-| <a id="citation-7"></a>**[7]** | Stone J, Coebergh J, Khoja L, Butler M, Nicholson TR, Dodick DW. Migraine and functional neurological disorder (FND)—a review of comorbidity and potential overlap. *Brain Communications*. 2025;7(4):fcaf288. [FND-CIT-0049](../../../research/citation-index.md#fnd-cit-0049). [https://doi.org/10.1093/braincomms/fcaf288](https://doi.org/10.1093/braincomms/fcaf288) |
-| <a id="citation-8"></a>**[8]** | Paredes-Echeverri S, Maggio J, Bègue I, Pick S, Nicholson TR, Perez DL. Autonomic, endocrine, and inflammation profiles in functional neurological disorder: a systematic review and meta-analysis. *Journal of Neuropsychiatry and Clinical Neurosciences*. 2022;34(1):30–43. [FND-CIT-0064](../../../research/citation-index.md#fnd-cit-0064). [https://doi.org/10.1176/appi.neuropsych.21010025](https://doi.org/10.1176/appi.neuropsych.21010025) |
-| <a id="citation-9"></a>**[9]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [DOI](https://doi.org/10.1136/jnnp-2019-322281). |
+| Citation | Figure | Full citation |
+|---|---|---|
+| <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
+| <a id="citation-2"></a>**[2]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
+| <a id="citation-3"></a>**[3]** | — | Pick S, Goldstein LH, Perez DL, Nicholson TR. Emotional processing in functional neurological disorder: a review, biopsychosocial model and research agenda. *Journal of Neurology, Neurosurgery & Psychiatry*. 2019;90(6):704–711. FND-CIT-0005. DOI: 10.1136/jnnp-2018-319201 |
+| <a id="citation-4"></a>**[4]** | — | Butler M, Shipston-Sharman O, Seynaeve M, et al. International online survey of 1048 individuals with functional neurological disorder. *European Journal of Neurology*. 2021;28(11):3591–3602. [FND-CIT-0014](../../../research/citation-index.md#fnd-cit-0014). [https://doi.org/10.1111/ene.15018](https://doi.org/10.1111/ene.15018) |
+| <a id="citation-5"></a>**[5]** | — | Steinruecke M, Mason I, Keen M, McWhirter L, Carson AJ, Stone J, Hoeritzauer I. Pain and functional neurological disorder: a systematic review and meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*. 2024;95(9):874–885. [FND-CIT-0015](../../../research/citation-index.md#fnd-cit-0015). [https://doi.org/10.1136/jnnp-2023-332810](https://doi.org/10.1136/jnnp-2023-332810) |
+| <a id="citation-6"></a>**[6]** | — | Sekine ER, Kanaan RA, McMillan J, Oxford S, Iles RA. Biopsychosocial prognostic indicators in Functional Neurological Disorder: a systematic review. *Journal of Psychosomatic Research*. 2025;195:112201. [FND-CIT-0017](../../../research/citation-index.md#fnd-cit-0017). [https://doi.org/10.1016/j.jpsychores.2025.112201](https://doi.org/10.1016/j.jpsychores.2025.112201) |
+| <a id="citation-7"></a>**[7]** | — | Stone J, Coebergh J, Khoja L, Butler M, Nicholson TR, Dodick DW. Migraine and functional neurological disorder (FND)—a review of comorbidity and potential overlap. *Brain Communications*. 2025;7(4):fcaf288. [FND-CIT-0049](../../../research/citation-index.md#fnd-cit-0049). [https://doi.org/10.1093/braincomms/fcaf288](https://doi.org/10.1093/braincomms/fcaf288) |
+| <a id="citation-8"></a>**[8]** | — | Paredes-Echeverri S, Maggio J, Bègue I, Pick S, Nicholson TR, Perez DL. Autonomic, endocrine, and inflammation profiles in functional neurological disorder: a systematic review and meta-analysis. *Journal of Neuropsychiatry and Clinical Neurosciences*. 2022;34(1):30–43. [FND-CIT-0064](../../../research/citation-index.md#fnd-cit-0064). [https://doi.org/10.1176/appi.neuropsych.21010025](https://doi.org/10.1176/appi.neuropsych.21010025) |
+| <a id="citation-9"></a>**[9]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [DOI](https://doi.org/10.1136/jnnp-2019-322281). |
+| <a id="citation-10"></a>**[10]** | 1 | Public community post, “Extremely sensitive nervous system.” Reddit, r/FND. [Original post](https://www.reddit.com/r/FND/comments/1qjpe0n/extremely_sensitive_nervous_system/). Accessed and quotation verified October 21, 2026. Individual lived experience. [FND-CIT-0285](../../../research/citation-index.md#fnd-cit-0285). |
+| <a id="citation-11"></a>**[11]** | 2 | Public community post, “I need advice.” Reddit, r/FND. [Original post](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/). Accessed and quotation verified October 21, 2026. Individual lived experience. [FND-CIT-0286](../../../research/citation-index.md#fnd-cit-0286). |
 
 This page still needs review by people with FND, supporters, clinicians and researchers, especially to check that each factor’s possible role and evidence level remain clear.
 
-*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Editorial audit completed October 17, 2026 · Human editing completed October 20, 2026 · Clinical review and follow-up course audits pending*
+*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Editorial audit completed October 17, 2026 · Human editing completed October 20, 2026 · Evidence and editorial audits completed October 21, 2026 · Clinical review pending*
