@@ -242,7 +242,8 @@ with col_save:
             repository_file.write_bytes(edited_bytes)
             st.success(
                 f"Saved tools/puzzles/{repository_file.name}. "
-                "To preserve the changes on GitHub, commit and push them later."
+                "The crossword launcher will create a draft PR when this session exits, "
+                "if started with a clean main branch."
             )
             # Replace the old editor base on next rerun, preserving the changes.
             st.session_state.pop("editor_source", None)

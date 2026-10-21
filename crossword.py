@@ -21,6 +21,8 @@ import time
 from urllib.error import URLError
 from urllib.request import urlopen
 
+from tools.puzzles.workshop_git import start_session, finish_session
+
 
 ROOT = Path(__file__).resolve().parent
 REQUIREMENTS = ROOT / "tools" / "puzzles" / "requirements-crosswords.txt"
@@ -118,11 +120,13 @@ def main() -> int:
         "--server.headless", "true",
         "--browser.gatherUsageStats", "false",
     ]
+    session_branch = start_session(ROOT)
     print("Starting the private Python crossword workshop…", flush=True)
     try:
         process = subprocess.Popen(command, cwd=ROOT)
     except OSError as error:
         print(f"Could not start Streamlit: {error}", file=sys.stderr)
+        finish_session(ROOT, session_branch)
         return 1
 
     try:
@@ -148,6 +152,7 @@ def main() -> int:
             except subprocess.TimeoutExpired:
                 process.kill()
                 process.wait()
+        finish_session(ROOT, session_branch)
 
 
 if __name__ == "__main__":
