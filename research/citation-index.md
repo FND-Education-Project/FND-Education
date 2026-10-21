@@ -164,6 +164,7 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0284](#fnd-cit-0284) | FND Head Jerking, 2023 | Community account | Individual experience of attention and head movements | [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md) |
 | [FND-CIT-0285](#fnd-cit-0285) | Community: Extremely sensitive nervous system | Lived experience | Partial benefit and continuing sensitivity; not treatment-effect evidence. | [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md) |
 | [FND-CIT-0286](#fnd-cit-0286) | Community: I need advice | Lived experience | Seizures interrupting conversations; the writer reports diagnostic uncertainty, not confirmed FND. | [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md) |
+| [FND-CIT-0287](#fnd-cit-0287) | Project contributor, 2026 | Lived experience | Psychology and symptom sensitivity; individual perspective | [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md) |
 
 ## Functional speech and voice detailed-page citation use map
 
@@ -2741,3 +2742,11 @@ Public community post, “I need advice.” Reddit, r/FND. [Original post](https
 **Type and scope:** Individual lived experience. Seizures interrupting conversations; the writer reports diagnostic uncertainty, not confirmed FND.
 
 **Current use:** [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md).
+
+## FND-CIT-0287
+
+Project contributor. First-person reflection: “It's hard to separate psychology from FND when my FND is so sensitive to psychology.” Supplied directly and approved for anonymous inclusion October 21, 2026.
+
+**Type and scope:** Individual lived experience; not a universal symptom pattern or proof of mechanism or original cause. Wording preserved from the approved internal snippet. No external publication URL.
+
+**Current use:** [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md), Figure 3.
