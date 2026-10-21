@@ -30,6 +30,29 @@ Research into brain networks and group-level structural differences can coexist:
 >
 > Every page in this module uses these same four main sections.
 
+## Optional Module Review Activity
+
+### Module 3 Review Crossword
+
+After the module's lessons, revisit key ideas with this optional crossword. Normal and Easy are fillable PDFs; Easy includes a word bank.
+
+<div class="puzzle-grid">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-3-Summary/what-may-cause-or-affect-fnd-module-3-summary-m3-normal.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/what-may-cause-or-affect-fnd-module-3-summary-m3-normal.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 3 review — Normal <small>PDF</small></span>
+</a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-3-Summary/what-may-cause-or-affect-fnd-module-3-summary-m3-easy.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/what-may-cause-or-affect-fnd-module-3-summary-m3-easy.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 3 review — Easy with word bank <small>PDF</small></span>
+</a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-3-Summary/what-may-cause-or-affect-fnd-module-3-summary-m3-answer-key.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/what-may-cause-or-affect-fnd-module-3-summary-m3-answer-key.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Module 3 review — Answer key <small>PDF</small></span>
+</a>
+</div>
+
+Explore other activities in the [course puzzle collection](../../../assets/puzzles/README.md).
+
 ## Research and Sources
 
 | Citation | Figure | Full citation |
