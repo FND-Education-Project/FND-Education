@@ -36,7 +36,7 @@ Choose a collection, module and lesson. These optional activities offer a lighte
 
 [Crosswords](#crosswords) · [Colouring pages](#colouring-pages) · [Course](../../course/README.md)
 
-**Jump to a crossword:** [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Module 1 review](#module-1-review-crossword)
+**Jump to a crossword:** [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Module 1 review](#module-1-review-crossword)
 
 ## Crosswords
 
@@ -187,6 +187,27 @@ Choose a preview to open the PDF in a new tab or window. Normal and easy edition
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-7/causes-risk-factors-and-triggers-m3-7-answer-key.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/thumbnails/causes-risk-factors-and-triggers-m3-7-answer-key.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Causes, Risk Factors and Triggers — Answer key <small>PDF</small></span>
+</a>
+</div>
+
+<span id="brain-networks-prediction-attention-and-agency"></span>
+
+### Lesson 8: Brain Networks, Prediction, Attention, and Agency
+
+[Read the lesson](../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md)
+
+<div class="puzzle-grid">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-8/brain-networks-prediction-attention-and-agency-m3-8-normal.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/brain-networks-prediction-attention-and-agency-m3-8-normal.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Brain Networks, Prediction, Attention, and Agency — Normal <small>PDF</small></span>
+</a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-8/brain-networks-prediction-attention-and-agency-m3-8-easy.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/brain-networks-prediction-attention-and-agency-m3-8-easy.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Brain Networks, Prediction, Attention, and Agency — Easy <small>PDF</small></span>
+</a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-8/brain-networks-prediction-attention-and-agency-m3-8-answer-key.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/thumbnails/brain-networks-prediction-attention-and-agency-m3-8-answer-key.svg' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Brain Networks, Prediction, Attention, and Agency — Answer key <small>PDF</small></span>
 </a>
 </div>
 

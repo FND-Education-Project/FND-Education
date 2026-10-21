@@ -118,6 +118,27 @@ Your job is to share what you notice, at a pace that works for you. Your clinici
 
 ### Optional learning activity
 
+#### Crossword
+
+Review some of the brain-network ideas in this lesson with an optional crossword. The easy edition includes a word bank.
+
+<a href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-8">Browse this crossword in the puzzles collection</a>.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-8" aria-label="Browse the Lesson 8 crossword">
+  <img src="{{ '/assets/puzzles/thumbnails/brain-networks-prediction-attention-and-agency-m3-8-normal.svg' | relative_url }}" alt="Preview of the Lesson 8 crossword grid." loading="lazy" decoding="async">
+  <span>Lesson 8 crossword</span>
+</a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 8 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-8/brain-networks-prediction-attention-and-agency-m3-8-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy crossword PDF for Lesson 8 (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-8/brain-networks-prediction-attention-and-agency-m3-8-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal crossword PDF for Lesson 8 (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-8/brain-networks-prediction-attention-and-agency-m3-8-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key PDF for Lesson 8 (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab. Easy includes a word bank.</p>
+</div>
+
+#### Colouring page
+
 <a href="{{ '/assets/puzzles/colouring/lesson-8-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">
 <img src="{{ '/assets/puzzles/colouring/lesson-8-coloring-book.png' | relative_url }}" alt="Preview of the Lesson 8 brain-network colouring page" style="width:180px;max-width:100%;height:auto;" loading="lazy">
 </a>
