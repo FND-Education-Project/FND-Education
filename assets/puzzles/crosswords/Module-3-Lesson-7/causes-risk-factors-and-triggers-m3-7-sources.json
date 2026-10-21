@@ -1,0 +1,386 @@
+{
+  "title": "Causes, Risk Factors and Triggers",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 133,
+    "lesson": 7,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "lesson",
+    "module": 3,
+    "seed": 1,
+    "selected_question_count": 35
+  },
+  "score": 75.36,
+  "included": [
+    {
+      "answer": "MECHANISM",
+      "borrowed": false,
+      "clue": "How a\n  symptom happens neurologically",
+      "direction": "across",
+      "grid_col": 8,
+      "grid_row": 8,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "MECHANISM",
+      "priority": 1,
+      "row": 215
+    },
+    {
+      "answer": "PAIN",
+      "borrowed": false,
+      "clue": "An\n  unpleasant physical sensation that can accompany FND",
+      "direction": "down",
+      "grid_col": 13,
+      "grid_row": 5,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "PAIN",
+      "priority": 1,
+      "row": 195
+    },
+    {
+      "answer": "SIGNS",
+      "borrowed": false,
+      "clue": "Clinical\n  findings supporting a diagnosis",
+      "direction": "down",
+      "grid_col": 15,
+      "grid_row": 4,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "SIGNS",
+      "priority": 1,
+      "row": 191
+    },
+    {
+      "answer": "UNCERTAINTY",
+      "borrowed": false,
+      "clue": "What\n  science hasn't figured out yet",
+      "direction": "down",
+      "grid_col": 9,
+      "grid_row": 5,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "UNCERTAINTY",
+      "priority": 2,
+      "row": 217
+    },
+    {
+      "answer": "TREATMENT",
+      "borrowed": false,
+      "clue": "Care\n  intended to reduce symptoms or improve function",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 10,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "TREATMENT",
+      "priority": 2,
+      "row": 216
+    },
+    {
+      "answer": "CARE",
+      "borrowed": false,
+      "clue": "Medical\n  attention and support, even before every cause is known",
+      "direction": "down",
+      "grid_col": 6,
+      "grid_row": 8,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "CARE",
+      "priority": 2,
+      "row": 198
+    },
+    {
+      "answer": "INFECTION",
+      "borrowed": false,
+      "clue": "Illness\n  caused when harmful germs enter the body",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 6,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "INFECTION",
+      "priority": 2,
+      "row": 214
+    },
+    {
+      "answer": "ILLNESS",
+      "borrowed": false,
+      "clue": "Being\n  unwell or sick",
+      "direction": "down",
+      "grid_col": 1,
+      "grid_row": 6,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "ILLNESS",
+      "priority": 2,
+      "row": 207
+    },
+    {
+      "answer": "TRIGGER",
+      "borrowed": false,
+      "clue": "An event\n  that may start symptoms but is not a proven cause",
+      "direction": "down",
+      "grid_col": 13,
+      "grid_row": 10,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "TRIGGER",
+      "priority": 1,
+      "row": 204
+    },
+    {
+      "answer": "KNOWN",
+      "borrowed": false,
+      "clue": "Established\n  or understood from available facts",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 9,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "KNOWN",
+      "priority": 1,
+      "row": 202
+    },
+    {
+      "answer": "TRAUMA",
+      "borrowed": false,
+      "clue": "Difficult\n  experience, not an FND requirement",
+      "direction": "across",
+      "grid_col": 12,
+      "grid_row": 16,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "TRAUMA",
+      "priority": 1,
+      "row": 210
+    },
+    {
+      "answer": "THEORY",
+      "borrowed": false,
+      "clue": "A\n  scientific explanation being tested",
+      "direction": "across",
+      "grid_col": 4,
+      "grid_row": 15,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "THEORY",
+      "priority": 1,
+      "row": 212
+    },
+    {
+      "answer": "NOTES",
+      "borrowed": false,
+      "clue": "Written\n  reminders taken during a medical appointment",
+      "direction": "down",
+      "grid_col": 4,
+      "grid_row": 3,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "NOTES",
+      "priority": 1,
+      "row": 200
+    },
+    {
+      "answer": "FACT",
+      "borrowed": false,
+      "clue": "Something\n  known to be true",
+      "direction": "down",
+      "grid_col": 6,
+      "grid_row": 3,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "FACT",
+      "priority": 2,
+      "row": 192
+    },
+    {
+      "answer": "HOPE",
+      "borrowed": false,
+      "clue": "A\n  positive feeling that things can improve",
+      "direction": "down",
+      "grid_col": 7,
+      "grid_row": 14,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "HOPE",
+      "priority": 2,
+      "row": 203
+    },
+    {
+      "answer": "RISK",
+      "borrowed": false,
+      "clue": "The\n  chance that something may happen",
+      "direction": "across",
+      "grid_col": 8,
+      "grid_row": 12,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "RISK",
+      "priority": 2,
+      "row": 184
+    },
+    {
+      "answer": "MIGRAINE",
+      "borrowed": false,
+      "clue": "A\n  neurological disorder often causing severe headaches",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 14,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "MIGRAINE",
+      "priority": 2,
+      "row": 206
+    },
+    {
+      "answer": "WHEN",
+      "borrowed": false,
+      "clue": "The\n  question a timeline answers",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 17,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "WHEN",
+      "priority": 2,
+      "row": 187
+    },
+    {
+      "answer": "HOW",
+      "borrowed": false,
+      "clue": "Question\n  asking the way something happens",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 15,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "HOW",
+      "priority": 2,
+      "row": 189
+    },
+    {
+      "answer": "BRAIN",
+      "borrowed": false,
+      "clue": "Organ in\n  the head that controls movement and sensation",
+      "direction": "down",
+      "grid_col": 17,
+      "grid_row": 10,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "BRAIN",
+      "priority": 2,
+      "row": 190
+    },
+    {
+      "answer": "PATTERN",
+      "borrowed": false,
+      "clue": "A\n  repeated or recognizable way symptoms occur",
+      "direction": "down",
+      "grid_col": 2,
+      "grid_row": 0,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "PATTERN",
+      "priority": 1,
+      "row": 211
+    },
+    {
+      "answer": "FACTOR",
+      "borrowed": false,
+      "clue": "One\n  condition or circumstance that may affect health",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 1,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "FACTOR",
+      "priority": 1,
+      "row": 205
+    },
+    {
+      "answer": "TEAM",
+      "borrowed": false,
+      "clue": "Group of\n  healthcare professionals helping plan your care",
+      "direction": "across",
+      "grid_col": 15,
+      "grid_row": 12,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "TEAM",
+      "priority": 2,
+      "row": 199
+    },
+    {
+      "answer": "SLEEP",
+      "borrowed": false,
+      "clue": "Rest\n  your body and brain get at night",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 12,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "SLEEP",
+      "priority": 2,
+      "row": 194
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "CAUSE",
+      "clue": "The\n  reason something happens—not proven by timing alone",
+      "row": 183
+    },
+    {
+      "answer": "INJURY",
+      "clue": "Physical\n  event preceding some FND onsets",
+      "row": 208
+    },
+    {
+      "answer": "STRESS",
+      "clue": "Physical\n  or emotional pressure that may influence symptoms",
+      "row": 209
+    },
+    {
+      "answer": "EVIDENCE",
+      "clue": "Facts or\n  research supporting an explanation",
+      "row": 213
+    },
+    {
+      "answer": "PAST",
+      "clue": "Time\n  that has already happened",
+      "row": 185
+    },
+    {
+      "answer": "NOW",
+      "clue": "At the\n  present time",
+      "row": 186
+    },
+    {
+      "answer": "WHY",
+      "clue": "Question\n  asking for the reason something happened",
+      "row": 188
+    },
+    {
+      "answer": "CLUE",
+      "clue": "A piece\n  of information that helps find an answer",
+      "row": 193
+    },
+    {
+      "answer": "FLARE",
+      "clue": "A period\n  when symptoms suddenly become worse",
+      "row": 196
+    },
+    {
+      "answer": "REAL",
+      "clue": "What FND\n  symptoms genuinely are",
+      "row": 197
+    },
+    {
+      "answer": "DATES",
+      "clue": "Calendar\n  details used to place events on a timeline",
+      "row": 201
+    }
+  ]
+}

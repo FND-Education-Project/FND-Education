@@ -186,6 +186,20 @@
         "Answer key": "/assets/puzzles/crosswords/Module-2-Lesson-6/tests-uncertainty-and-coexisting-conditions-m2-6-answer-key.pdf"
       },
       "collection": "crosswords"
+    },
+    {
+      "id": "lesson-7",
+      "module": 3,
+      "lesson": 7,
+      "title": "Causes, Risk Factors and Triggers",
+      "image": "/assets/puzzles/thumbnails/causes-risk-factors-and-triggers-m3-7-normal.svg",
+      "course": "/course/m3/1/",
+      "downloads": {
+        "Normal": "/assets/puzzles/crosswords/Module-3-Lesson-7/causes-risk-factors-and-triggers-m3-7-normal.pdf",
+        "Easy": "/assets/puzzles/crosswords/Module-3-Lesson-7/causes-risk-factors-and-triggers-m3-7-easy.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-3-Lesson-7/causes-risk-factors-and-triggers-m3-7-answer-key.pdf"
+      },
+      "collection": "crosswords"
     }
   ]
 }

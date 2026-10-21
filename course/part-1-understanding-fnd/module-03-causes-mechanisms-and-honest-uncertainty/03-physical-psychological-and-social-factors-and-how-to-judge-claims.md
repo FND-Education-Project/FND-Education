@@ -142,6 +142,14 @@ And knowing they have someone to call gives them a little more confidence.
 
 Each change helps with a different part of the problem.
 
+<figure class="image-60center" markdown="1">
+
+![A person carrying groceries walks in the foreground while background panels show feeling unwell at home, overwhelm in a crowded setting, a calmer outdoor path, and a grocery store.](../../../assets/images/lesson-9-shopper-biopsychosocial.webp)
+
+<figcaption>Small changes in more than one area can make an everyday task more manageable.</figcaption>
+
+</figure>
+
 Put them together, and grocery shopping might become something they can enjoy again.
 
 That's the value of the biopsychosocial approach. It helps us see the bigger picture and discover where useful changes might be possible.
