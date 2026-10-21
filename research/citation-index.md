@@ -29,7 +29,7 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0019](#fnd-cit-0019) | Bartl et al., 2020 | Systematic review | functional tremor, distractibility, entrainment, electrophysiology | [functional tremor](../reference/diagnostic-signs/02-functional-tremor.md) |
 | [FND-CIT-0020](#fnd-cit-0020) | Nonnekes et al., 2020 | Peer-reviewed sign-based review | functional gait, inconsistency, incongruity, examination pitfalls | [functional gait disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md) |
 | [FND-CIT-0021](#fnd-cit-0021) | Frucht et al., 2021 | Peer-reviewed specialist review | functional dystonia, fixed posture, differential diagnosis and multidisciplinary treatment | [functional dystonia diagnosis](../reference/diagnostic-signs/04-functional-dystonia.md); [functional dystonia recovery](../reference/recovery-techniques/04-functional-dystonia.md); [detailed dystonia techniques](../reference/recovery-techniques/functional_dystonia/README.md); [facial diagnosis](../reference/diagnostic-signs/14-functional-facial-symptoms.md); [facial recovery](../reference/recovery-techniques/14-functional-facial-symptoms.md) |
-| [FND-CIT-0022](#fnd-cit-0022) | Edwards et al., 2024 | IFCN handbook review | clinical neurophysiology, functional jerks, EEG–EMG, back-averaging | [functional jerks](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md) |
+| [FND-CIT-0022](#fnd-cit-0022) | Edwards et al., 2024 | IFCN handbook review | clinical neurophysiology, functional jerks, EEG–EMG, back-averaging | [functional jerks](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md); [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md) |
 | [FND-CIT-0023](#fnd-cit-0023) | Nielsen et al., 2026 | Case-control study | functional sensory signs, midline splitting, vibration splitting | [functional sensory symptoms](../reference/diagnostic-signs/07-functional-sensory-symptoms.md); [History of FND](../reference/history-of-fnd.md) |
 | [FND-CIT-0024](#fnd-cit-0024) | Ramsay et al., 2024 | Peer-reviewed clinical review | functional visual symptoms, positive signs, preserved vision | [functional visual symptoms](../reference/diagnostic-signs/08-functional-visual-symptoms.md) |
 | [FND-CIT-0025](#fnd-cit-0025) | Baker et al., 2021 | Professional consensus recommendations | functional communication, swallowing, cough, speech-language therapy | [speech and voice](../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md); [swallowing and globus](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md); [cough and upper airway](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md); [facial recovery](../reference/recovery-techniques/14-functional-facial-symptoms.md); [team roles](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md) |
@@ -159,6 +159,9 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0260](#fnd-cit-0260) | García-Roldán E, Almodóvar-Sierra Á, Luque-Tirado A, et al | Assessment / measurement source | FCD evidence and population limits | [FCD overview](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) |
 | [FND-CIT-0261](#fnd-cit-0261) | Baum CM, Connor LT, Morrison T, Hahn M, Dromerick AW, Edwards DF | Assessment / measurement source | FCD evidence and population limits | [FCD overview](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) |
 | [FND-CIT-0262](#fnd-cit-0262) | Meletaki et al., 2024 | French NPQ validation | PPPD symptom measurement and clinical overlap | [PPPD source-use map](#pppd-diagnostic-expansion-source-use-map) |
+| [FND-CIT-0282](#fnd-cit-0282) | Wieder et al., 2021 | Meta-analysis | Responses to suggestion | [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md) |
+| [FND-CIT-0283](#fnd-cit-0283) | Pellicciari et al., 2014 | Case-control study | Symptom modelling in movement disorders | [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md) |
+| [FND-CIT-0284](#fnd-cit-0284) | FND Head Jerking, 2023 | Community account | Individual experience of attention and head movements | [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md) |
 
 ## Functional speech and voice detailed-page citation use map
 
@@ -511,6 +514,9 @@ Use this source for specialist clinical-neurophysiology methods in functional mo
 **Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
 
 **Additional diagnostic uses:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
+
+
+**Additional current use:** [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md).
 
 ## FND-CIT-0023
 
@@ -2693,3 +2699,27 @@ Nisticò V, Demartini B, et al. Pain in Functional Motor Disorders: Clinical Cor
 **Type and scope:** Table 1: MS and Parkinson’s disease/parkinsonism in 466 adults with motor FND.
 
 **Current use:** [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
+
+## FND-CIT-0282
+
+Wieder L, Brown R, Thompson T, Terhune DB. Suggestibility in functional neurological disorder: a meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(2):150–157. [DOI](https://doi.org/10.1136/jnnp-2020-323706).
+
+**Type and scope:** Group differences in responses to verbal suggestion and symptom-induction protocols; not a measure of everyday autonomy or proof of individual cause.
+
+**Current use:** [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md).
+
+## FND-CIT-0283
+
+Pellicciari R, Superbo M, Gigante AF, Livrea P, Defazio G. Disease modeling in functional movement disorders. *Parkinsonism & Related Disorders*. 2014;20(11):1287–1289. DOI: 10.1016/j.parkreldis.2014.09.017.
+
+**Type and scope:** Small case-control study of exposure to similar movement symptoms; association, not evidence of deliberate imitation or a demonstrated cause. Historical diagnostic framing should be interpreted alongside current positive-diagnosis guidance. Original-paper link is retained in the internal Lesson 8 Audit 2 report.
+
+**Current use:** [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md).
+
+## FND-CIT-0284
+
+Public community post, “FND Head Jerking.” Reddit, r/FND. October 30, 2023. [Original post](https://www.reddit.com/r/FND/comments/17jx51h/fnd_head_jerking/). Accessed and quotation verified October 20, 2026.
+
+**Type and scope:** Individual lived experience; not research or treatment-effect evidence.
+
+**Current use:** [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md).

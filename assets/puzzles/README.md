@@ -215,6 +215,10 @@ Choose a preview to open the printable PDF. Select landscape orientation and fit
   <img src="{{ '/assets/puzzles/colouring/lesson-7-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Lesson 7: Exploring questions about FND — Colouring page <small>PDF</small></span>
 </a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-8-coloring-book.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/colouring/lesson-8-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Lesson 8: Brain networks and their teamwork <small>PDF</small></span>
+</a>
 </div>
 
 These illustrations accompany [Lesson 1’s supporter examples](../../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md#for-family-friends-and-other-supporters), [Lesson 2’s explanation of the biopsychosocial model](../../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md#what-is-the-biopsychosocial-model), and [Lesson 3’s explanation of recovery](../../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md#what-does-recovery-mean).
@@ -224,6 +228,8 @@ The positive-signs colouring page accompanies [Module 2, Lesson 1](../../course/
 The whole-person colouring page accompanies [Lesson 6: Tests, Diagnostic Uncertainty, and Coexisting Conditions](../../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
 
 The research-themed colouring page accompanies [Lesson 7: Causes, Risk Factors, Triggers, and Maintaining Factors](../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md).
+
+The brain-network colouring page accompanies [Lesson 8: Brain Networks, Prediction, Attention, and Agency](../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md).
 
 [Back to puzzle navigation](#puzzle-navigation) · [Browse the course](../../course/README.md)
 
