@@ -10,6 +10,8 @@ on:
       - ".vscode/settings.json"
       - ".vscode/tasks.json"
       - "tools/puzzles/tests/test_crossword_launcher.py"
+      - "tools/puzzles/workshop_git.py"
+      - "tools/puzzles/tests/test_workshop_git.py"
       - "tools/puzzles/requirements-crosswords.txt"
       - "tools/puzzles/tests/test_crossword_builder.py"
       - ".github/workflows/crossword-generator.yml"
@@ -23,6 +25,8 @@ on:
       - ".vscode/settings.json"
       - ".vscode/tasks.json"
       - "tools/puzzles/tests/test_crossword_launcher.py"
+      - "tools/puzzles/workshop_git.py"
+      - "tools/puzzles/tests/test_workshop_git.py"
       - "tools/puzzles/requirements-crosswords.txt"
       - "tools/puzzles/tests/test_crossword_builder.py"
       - ".github/workflows/crossword-generator.yml"
@@ -47,8 +51,9 @@ jobs:
         run: python -m compileall -q tools/puzzles/crossword_builder tools/puzzles/generate_crosswords.py tools/puzzles/crossword_app.py
       - name: Validate one-command Codespaces launcher
         run: |
-          python -m py_compile crossword.py
+          python -m py_compile crossword.py tools/puzzles/workshop_git.py
           python -m unittest discover -s tools/puzzles/tests -p "test_crossword_launcher.py" -v
+          python -m unittest discover -s tools/puzzles/tests -p "test_workshop_git.py" -v
       - name: Run workbook, placement, PDF and form regression checks
         run: python -m unittest discover -s tools/puzzles/tests -p "test_crossword_builder.py" -v
       - name: Smoke-test the browser-based crossword workshop

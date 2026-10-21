@@ -261,6 +261,10 @@ Choose a preview to open the printable PDF. Select landscape orientation and fit
   <img src="{{ '/assets/puzzles/colouring/lesson-8-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Lesson 8: Brain networks and their teamwork <small>PDF</small></span>
 </a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-9-coloring-book.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/colouring/lesson-9-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
+  <span>Lesson 9: The shopper's journey <small>PDF</small></span>
+</a>
 </div>
 
 These illustrations accompany [Lesson 1’s supporter examples](../../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md#for-family-friends-and-other-supporters), [Lesson 2’s explanation of the biopsychosocial model](../../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md#what-is-the-biopsychosocial-model), and [Lesson 3’s explanation of recovery](../../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md#what-does-recovery-mean).

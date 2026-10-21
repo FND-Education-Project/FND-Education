@@ -276,6 +276,19 @@ Sometimes a small change can make room for something important.
 
 If you experience a new symptom or a major change in an existing one, your healthcare team can help assess it.
 
+### Optional colouring activity
+
+Try the Lesson 9 colouring page, based on the shopper's journey through a difficult day toward a more manageable grocery trip.
+
+Choose the preview to open the printable PDF in a new tab or window. When printing, select landscape orientation and fit to page. You can also visit the <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-9">colouring-page collection</a>.
+
+<div class="puzzle-grid puzzle-grid-colouring">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-9-coloring-book.pdf' | relative_url }}">
+  <img src="{{ '/assets/puzzles/colouring/lesson-9-coloring-book.png' | relative_url }}" alt="Black-and-white colouring page preview of a shopper moving past difficult moments toward a quieter supermarket." loading="lazy" decoding="async">
+  <span>Lesson 9: The shopper's journey — Colouring page <small>PDF</small></span>
+</a>
+</div>
+
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>

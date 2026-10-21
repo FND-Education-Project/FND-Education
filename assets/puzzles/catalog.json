@@ -90,6 +90,18 @@
       "collection": "colouring"
     },
     {
+      "id": "lesson-9",
+      "module": 3,
+      "lesson": 9,
+      "title": "The shopper's journey",
+      "image": "/assets/puzzles/colouring/lesson-9-coloring-book.png",
+      "course": "/course/m3/3/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-9-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
       "id": "lesson-1",
       "module": 1,
       "lesson": 1,

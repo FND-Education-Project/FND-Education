@@ -2,7 +2,7 @@
 
 Start with:
     python -m streamlit run tools/puzzles/crossword_app.py \
-        --server.address 0.0.0.0 --server.port 8501
+        --server.address 0.0.0.0 --server.port 8502
 
 The Streamlit process runs **inside** Codespaces; it does not publish a new
 service on the FND website. Keep the forwarded port PRIVATE. Nothing is
@@ -242,7 +242,8 @@ with col_save:
             repository_file.write_bytes(edited_bytes)
             st.success(
                 f"Saved tools/puzzles/{repository_file.name}. "
-                "To preserve the changes on GitHub, commit and push them later."
+                "The crossword launcher will create a draft PR when this session exits, "
+                "if started with a clean main branch."
             )
             # Replace the old editor base on next rerun, preserving the changes.
             st.session_state.pop("editor_source", None)
