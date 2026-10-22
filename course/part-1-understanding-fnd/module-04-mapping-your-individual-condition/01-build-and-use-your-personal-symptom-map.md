@@ -198,7 +198,7 @@ This example is adapted from a lived experience, with personal details left out.
 
 Think of a folder labelled *FND*. The label tells us something important about the pages already inside. But it can't tell us what's written on every new page.
 
-The same principle works in both directions. A new medical problem doesn't make someone's established FND diagnosis any less real. And an FND diagnosis doesn't explain every new pain or change.
+A new medical problem does not make the person's established FND diagnosis any less real. It means that more than one condition may be present at the same time. In the same way, an FND diagnosis does not automatically explain every new pain, symptom or change. A new or different symptom may still need its own assessment.
 
 So how does someone decide whether a medical visit is worth the effort?
 
@@ -214,8 +214,6 @@ Together, those observations can make a useful distinction: *“The episode seem
 
 That simple sentence may help a clinician consider both the established FND and another possible cause. It's a way of making room for more than one explanation, rather than trying to decide the diagnosis at home.
 
-The same words are available to someone managing FND without a supporter. Their own account deserves to be heard.
-
 Medical care can also be made more manageable. Sometimes a phone appointment, a written account, quieter surroundings or less repeated questioning can help the person's concerns reach a clinician without so much added strain.
 
 In Lesson 11, we'll look at how a short personal symptom map can help keep those important details ready when they're needed.
@@ -229,26 +227,79 @@ In Lesson 11, we'll look at how a short personal symptom map can help keep those
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Help keep clinical categories accurate
+### What does this diagnosis establish?
 
-Identify phenomena supported by positive clinical evidence for FND. Keep comorbid diagnoses, associated symptoms, medication effects, unresolved presentations and possible contributors distinct. Describe what supports the current formulation and what might warrant reassessment. (*citations* [1](#citation-1), [4](#citation-4))
+An FND diagnosis is meaningful because it can be supported by **positive clinical evidence**. The strength of that evidence depends on the presenting symptom, the examination finding, its interpretation and the wider clinical picture. Bennett et al. (2021) and Espay et al. (2018) emphasize a positive, phenotype-specific approach rather than diagnosis by exclusion. (*citations* [1](#citation-1), [7](#citation-7))
 
-As Bennett et al. note:
+That principle becomes especially important when a patient presents with several difficulties.
 
-> “Comorbidities are common in FND.”
+Consider someone with positively diagnosed functional leg weakness, an independently diagnosed migraine disorder and newly reported dizziness.
 
-*Research quotation retained for verification during the evidence audit.* (*citations* [1](#citation-1))
+The evidence supporting the leg weakness diagnosis remains relevant. It says something specific about that presentation.
 
-A map can organize the conversation while keeping the patient's subjective experience central. It is not a diagnostic instrument and cannot classify new symptoms without appropriate evaluation.
+The migraine diagnosis offers another established explanation for some experiences.
 
-### Make the timeline meaningful
+The dizziness is a separate clinical question until the history, examination and any indicated assessment clarify it.
 
-Clarify the timing of relevant events and symptoms when it helps answer a clinical question. Vulnerabilities, possible triggers, warning features, maintaining factors and consequences are distinct concepts. Temporal proximity or one repeated association does not independently establish causation.
+**Evidence supporting one diagnosis is not, by itself, evidence explaining every symptom.** Keeping these levels of certainty distinct allows clinicians to retain confidence in an established FND diagnosis while considering other causes. Coexisting neurological or medical illness is well recognized in FND; the literature does not support treating FND and other disease as mutually exclusive. (*citations* [1](#citation-1), [4](#citation-4), [8](#citation-8))
 
-Patients may have symptoms without identifiable triggers, including persistent or variably intense symptoms. The purpose of documenting timing is clinical understanding rather than assigning responsibility for symptoms.
+### What would change the explanation?
 
-Explain relevant red flags and plans for reassessment, including new or substantially altered symptoms. In the following lesson, the map becomes a practical communication and care-planning aid.
+A clinical formulation becomes more useful when its reasoning can be followed.
 
+For each important presentation, the explanation can make clear what was observed, what diagnosis those findings support, what else remains plausible and what new evidence would lead to reassessment.
+
+The distinction between **observation** and **inference** matters here.
+
+A patient may report that episodes are more frequent after poor sleep. That is an observation about timing. Poor sleep as a causal trigger remains a possibility to explore, rather than a proven mechanism for that individual.
+
+Likewise, a warning feature, a maintaining factor and a consequence describe different relationships. Some episodes have no recognizable warning or trigger; other FND symptoms are persistent or variable rather than episodic.
+
+This measured approach keeps the patient's experience useful without expecting them to establish causation. It also helps avoid letting an appealing explanation become more certain than the findings allow.
+
+### When an established diagnosis meets a new problem
+
+Imagine a person with a well-characterized functional episode. Afterwards, they report severe new pain following a fall.
+
+The episode may closely match their documented FND presentation. At the same time, the new pain and the possibility of injury raise a separate question.
+
+If attention stays entirely on the established diagnosis, an additional physical problem could be missed. This is one way **diagnostic overshadowing** can occur.
+
+The important reasoning is that two propositions can both be true: the familiar episode may be functional, and the subsequent pain may reflect a new injury. Assessing the second proposition on its own merits does not weaken the evidence for the first.
+
+Reviews of FND in emergency settings emphasize attention to coexisting disease and to changes in presentation, alongside accurate recognition of established functional symptoms. (*citations* [1](#citation-1), [8](#citation-8))
+
+### Weighing the value and burden of assessment
+
+There is also a risk on the other side of the balance.
+
+Repeated investigations and emergency interventions may add little when a presentation is already well characterized. Some can cause harm, while the travel, sensory environment, waiting and recovery demands may substantially reduce the patient's functioning.
+
+Mcloughlin et al. (2025) examine **iatrogenic harm**—harm related to medical care—in FND. This makes the burden of assessment part of the clinical reasoning, rather than an inconvenience outside it. (*citation* [9](#citation-9))
+
+The value of another investigation therefore depends on the question it might answer.
+
+A familiar episode covered by a suitable existing plan presents a different decision from sudden focal neurological symptoms, a significant injury or a materially changed event. The potential seriousness and time sensitivity of a new problem can outweigh the burdens of urgent assessment.
+
+Between those situations, there may be room for telephone advice, planned review or targeted investigations. The reasoning should account for current risk, remaining uncertainty and whether further information would alter care. (*citations* [8](#citation-8), [9](#citation-9))
+
+This is **proportionate assessment**: remaining alert to consequential change while avoiding investigations that are unlikely to help.
+
+### Making the reasoning understandable
+
+Patients and supporters can contribute crucial observations, yet the clinician carries responsibility for diagnostic interpretation.
+
+An explanation might therefore connect three statements:
+
+*“These examination findings support FND for your familiar weakness.”*
+
+*“The pain after your fall is a separate concern, so we need to consider injury.”*
+
+*“Here is why this level of assessment is appropriate, and what would change our plan.”*
+
+That sequence shows how the evidence supports the decision. It leaves space for the patient's experience, including when they have no supporter, and makes uncertainty discussable without dismissing symptoms.
+
+In [Lesson 11](02-building-and-using-your-personal-symptom-map.md), we turn to the practical side: recording the established findings, open questions, meaningful abilities and agreed review arrangements in a map the person can actually use.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -266,7 +317,7 @@ Explain relevant red flags and plans for reassessment, including new or substant
 
 ### What this evidence can and cannot establish
 
-Clinical reviews and survey evidence support separating FND phenomena, coexisting conditions and concerns requiring assessment. These sources help frame medical reasoning but do not establish causation from the timing of symptoms or validate this course's symptom map as a diagnostic tool. The community quotation is an individual's experience, not diagnostic evidence. (*citations* [1](#citation-1), [3](#citation-3), [4](#citation-4), [6](#citation-6))
+Bennett and Espay describe an approach to FND diagnosis based on positive clinical evidence, interpreted in the context of the individual presentation. Butler's survey documents associated symptoms and comorbidity in a selected respondent population; it cannot determine the cause of a particular person's new symptom. Finkelstein's emergency-department review discusses coexisting conditions and changed presentations, while Mcloughlin's review examines harm associated with medical interventions. Together these sources support careful, proportionate clinical reasoning—not a fixed testing schedule or a validated triage rule. The course's symptom map remains an educational communication aid. (*citations* [1](#citation-1), [4](#citation-4), [7](#citation-7), [8](#citation-8), [9](#citation-9))
 
 ### Citation table
 
@@ -278,6 +329,10 @@ Clinical reviews and survey evidence support separating FND phenomena, coexistin
 | <a id="citation-4"></a>**[4]** | — | Butler M, Shipston-Sharman O, Seynaeve M, et al. International online survey of 1048 individuals with functional neurological disorder. *European Journal of Neurology*. 2021;28(11):3591–3602. [FND-CIT-0014](../../../research/citation-index.md#fnd-cit-0014). [https://doi.org/10.1111/ene.15018](https://doi.org/10.1111/ene.15018) |
 | <a id="citation-5"></a>**[5]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
 | <a id="citation-6"></a>**[6]** | — | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
+
+| <a id="citation-7"></a>**[7]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
+| <a id="citation-8"></a>**[8]** | — | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
+| <a id="citation-9"></a>**[9]** | — | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
 
 This page still needs review by people with FND, supporters and clinicians, including review of whether the map is practical without increasing monitoring burden.
 

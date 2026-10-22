@@ -210,30 +210,43 @@ When diagnoses, treatment plans or safety needs change, the map can change too. 
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
+### Preserve the clinical reasoning
+
+Lesson 10 distinguished what was positively diagnosed, what belonged to another condition and what still required assessment. The personal symptom map gives that reasoning a place to remain accessible after the appointment.
+
+A useful summary can name the confirmed functional presentation and the positive findings that supported it, alongside coexisting diagnoses and unresolved questions. It can also describe what would prompt reconsideration of the formulation. This is more informative than recording “FND” against every symptom. (*citations* [1](#citation-1), [4](#citation-4))
+
+Such a summary can reduce the burden of repeatedly reconstructing a complex history, especially when fatigue, speech or memory difficulties make appointments demanding. It remains a communication tool rather than a diagnostic instrument.
+
 ### Include available abilities and participation
 
-Record helpful supports, meaningful goals and abilities that remain possible in some circumstances. FND symptoms can be variable or context-dependent; an intermittently accessible function does not make the disabling experience voluntary. (*citations* [2](#citation-2), [5](#citation-5))
+The clinical picture also includes what the person can do under particular conditions.
 
-One qualitative outcome study emphasized patients' perspectives:
+A task may become more manageable with an adaptation, a familiar movement pattern or environmental support. That variation can guide rehabilitation planning without implying that the harder version of the task is voluntary. The individual's symptoms, safety needs and recovery costs remain part of the picture. (*citations* [2](#citation-2), [5](#citation-5))
+
+One qualitative study of FND outcome measurement emphasized the value of the patient's experience:
 
 > “all believed that the patient’s subjective experience should be central.”
 
-*Research quotation retained for verification during the evidence audit.* (*citations* [3](#citation-3))
+*Research quotation retained for verification during the evidence audit.* (*citation* [3](#citation-3))
 
-### Track information that can inform care
+### Give tracking a clinical purpose
 
-Start with a defined question. A short structured diary, patient report, clinician-rated measure, objective finding or consent-based observation from a supporter may help when it can change assessment, treatment or safety. Explain its limitations, including daily variability, recall biases and the risk of overinterpreting apparent patterns. (*citations* [3](#citation-3), [6](#citation-6))
+A diary or measure becomes useful when it can answer a specific care question.
 
-Set a review point rather than extending monitoring indefinitely. Collateral reports can add useful information while preserving the central place of the patient's own account.
+For example, brief information about symptoms and recovery around appointments may help evaluate a change to the waiting environment or visit format. A patient report, objective finding or consent-based account from a supporter can each contribute different information.
 
-### Update the plan without turning it into a scorecard
+The value comes from linking those observations to a decision, while recognizing variable symptoms, recall limitations and the risk of reading causation into a short sequence. A planned review point helps keep tracking proportionate. (*citations* [3](#citation-3), [6](#citation-6))
 
-Use the map to agree on adjustments, referrals, symptom management, safety and participation goals. Update it when diagnoses, examination findings, medication changes or treatment responses alter the formulation.
+### Make follow-up workable
 
-Where improvement is limited, keep accessibility, persistent symptoms, quality of life and supporter needs in view. The map should support continuing care rather than measure the person's effort or treatment compliance. (*citations* [2](#citation-2), [3](#citation-3), [6](#citation-6))
+The map can include agreed safety information, changes that call for reassessment and practical routes to care.
 
-New, severe or substantially changed symptoms deserve appropriate assessment regardless of what is already written on the map. (*citations* [1](#citation-1))
+For a person who finds travel or clinical environments particularly symptom-provoking, the follow-up arrangement itself can influence whether care is accessible. Written communication, a telephone appointment or other adjustments may allow a question to be addressed with less added burden when an in-person examination is not clinically necessary.
 
+A clear arrangement also distinguishes routine follow-up from situations where timely or emergency assessment matters. The purpose is to make the clinical reasoning usable between appointments, while allowing the plan to change when new findings or diagnoses emerge. (*citations* [1](#citation-1), [2](#citation-2))
+
+Progress can include better participation, comfort, safety or quality of life even when symptoms remain significant. These outcomes deserve a place on the map alongside treatment changes. (*citations* [2](#citation-2), [3](#citation-3), [6](#citation-6))
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
