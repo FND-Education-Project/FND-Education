@@ -4,7 +4,7 @@
 
 # Building and Using Your Personal Symptom Map
 
-> **Human-edited working draft:** The person-with-FND section reflects the project lead's edited material. Supporter, clinician and research sections need the usual editorial and clinical audits.
+> **Working draft:** The person-with-FND section was revised with the project lead. Other audience sections and research need the normal editorial and clinical audits.
 
 In [Lesson 10](01-build-and-use-your-personal-symptom-map.md), we began sorting our health story into known diagnoses and open questions. Now let's make a short map that also shows what helps and what remains possible.
 

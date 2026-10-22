@@ -4,7 +4,7 @@
 
 # Making Sense of Your Symptoms and Questions
 
-> **Human-edited working draft:** The person-with-FND section reflects the project lead's edited material. Supporter, clinician and research sections need the usual editorial and clinical audits.
+> **Working draft:** The person-with-FND section was revised with the project lead. Other audience sections and research need the normal editorial and clinical audits.
 
 An FND diagnosis may be one part of a bigger health story. This lesson helps sort what has been diagnosed, what still needs assessment, and how timing may help explain an experience.
 
