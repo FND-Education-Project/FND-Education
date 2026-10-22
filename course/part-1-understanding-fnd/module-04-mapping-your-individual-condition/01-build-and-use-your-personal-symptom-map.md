@@ -88,6 +88,14 @@ You might live with functional seizures, movement changes, speech difficulties, 
 
 Your map is about *your* particular combination.
 
+<figure class="image-60center" markdown="1">
+
+![A woman seen through overlapping yellow and blue lenses, with green where the lenses overlap.](../../../assets/images/lesson-10-illustration.png)
+
+<figcaption>Two lenses, one person. FND and another health condition can both be part of your story. Giving each its own place helps your care team see the fuller picture.</figcaption>
+
+</figure>
+
 It can also have room for medication changes, side effects or symptoms that may be linked to another condition.
 
 Each piece gets its own place until you and your care team know more. (*citations* [1](#citation-1), [4](#citation-4))
