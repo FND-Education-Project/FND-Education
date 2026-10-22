@@ -4,7 +4,7 @@
 
 # Making Sense of Your Symptoms and Questions
 
-> **Working draft:** The person-with-FND section was revised with the project lead. Other audience sections and research need the normal editorial and clinical audits.
+> **Working draft:** Human authored revision with AI assistance; all three audience sections approved by the project lead October 22, 2026. Ready for the project's two audits; clinical review pending.
 
 An FND diagnosis may be one part of a bigger health story. This lesson helps sort what has been diagnosed, what still needs assessment, and how timing may help explain an experience.
 
@@ -348,7 +348,7 @@ Bennett and Espay describe an approach to FND diagnosis based on positive clinic
 | <a id="citation-8"></a>**[8]** | — | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
 | <a id="citation-9"></a>**[9]** | — | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
 
-This page still needs review by people with FND, supporters and clinicians, including review of whether the map is practical without increasing monitoring burden.
+Human editorial review of Lesson 10 is complete. The project's two audits, source verification and independent clinical review remain pending.
 
-*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*
+*Initial draft: September 4, 2026 · Human-authored revision completed: October 22, 2026 · Audit 1 and Audit 2 pending · Clinical review pending*
 
