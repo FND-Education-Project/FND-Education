@@ -227,79 +227,89 @@ In Lesson 11, we'll look at how a short personal symptom map can help keep those
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### What does this diagnosis establish?
+### What does a positive FND diagnosis establish?
 
-An FND diagnosis is meaningful because it can be supported by **positive clinical evidence**. The strength of that evidence depends on the presenting symptom, the examination finding, its interpretation and the wider clinical picture. Bennett et al. (2021) and Espay et al. (2018) emphasize a positive, phenotype-specific approach rather than diagnosis by exclusion. (*citations* [1](#citation-1), [7](#citation-7))
+The clinical strength of an FND diagnosis lies in **positive evidence appropriate to the presenting symptom**. An examination finding that supports functional limb weakness can explain that presentation. It cannot, by itself, establish the cause of a later pain syndrome, a new bladder problem or every future episode.
 
-That principle becomes especially important when a patient presents with several difficulties.
+Bennett et al. (2021) and Espay et al. (2018) describe a positive, phenotype-specific diagnostic approach. This allows clinicians to be confident about what has been demonstrated while retaining appropriate uncertainty about other findings. (*citations* [1](#citation-1), [7](#citation-7))
 
-Consider someone with positively diagnosed functional leg weakness, an independently diagnosed migraine disorder and newly reported dizziness.
+In practice, an established diagnosis and an unresolved symptom can sit side by side. Neither needs to cancel the other.
 
-The evidence supporting the leg weakness diagnosis remains relevant. It says something specific about that presentation.
+### When the familiar story changes
 
-The migraine diagnosis offers another established explanation for some experiences.
+Consider this anonymized account, adapted from a person's contemporaneous correspondence about emergency care. It describes their experience and concerns; it is not an independently reviewed medical record or a determination of clinical fault.
 
-The dizziness is a separate clinical question until the history, examination and any indicated assessment clarify it.
+The person had an established diagnosis of FND and functional seizures. Their usual episodes had been relatively infrequent. Over a short period, that pattern changed to **dozens of episodes a day**. They also described speech disturbance and chest pain during an initial emergency presentation.
 
-**Evidence supporting one diagnosis is not, by itself, evidence explaining every symptom.** Keeping these levels of certainty distinct allows clinicians to retain confidence in an established FND diagnosis while considering other causes. Coexisting neurological or medical illness is well recognized in FND; the literature does not support treating FND and other disease as mutually exclusive. (*citations* [1](#citation-1), [4](#citation-4), [8](#citation-8))
+During subsequent travel, an episode was followed by a fall. Afterwards, they reported new loss of leg function and bladder or bowel difficulties. Later imaging was reported to identify spinal disc injuries.
 
-### What would change the explanation?
+In their account, the familiar FND diagnosis became the main explanation offered for the new weakness and bladder difficulty. They also described being lifted into a standing position and released despite their inability to support themselves, resulting in a fall.
 
-A clinical formulation becomes more useful when its reasoning can be followed.
+There are several distinct clinical questions here. The sharp rise in episode frequency deserves its own interpretation. So do chest pain, new neurological deficits, sphincter symptoms and possible injury after a fall. An explanation for the person's established functional episodes cannot settle those questions automatically.
 
-For each important presentation, the explanation can make clear what was observed, what diagnosis those findings support, what else remains plausible and what new evidence would lead to reassessment.
+### The broken-arm analogy
 
-The distinction between **observation** and **inference** matters here.
+The same patient used a simple comparison: imagine someone who already has paraplegia arriving with a broken arm.
 
-A patient may report that episodes are more frequent after poor sleep. That is an observation about timing. Poor sleep as a causal trigger remains a possibility to explore, rather than a proven mechanism for that individual.
+Their paralysis matters. It affects how they move, transfer and receive care.
 
-Likewise, a warning feature, a maintaining factor and a consequence describe different relationships. Some episodes have no recognizable warning or trigger; other FND symptoms are persistent or variable rather than episodic.
+But the broken arm is still a new injury. Explaining that injury solely through the existing paralysis would confuse the *background condition* with the *presenting problem*.
 
-This measured approach keeps the patient's experience useful without expecting them to establish causation. It also helps avoid letting an appealing explanation become more certain than the findings allow.
+FND presents a similar risk when an established diagnosis becomes the answer before the changed presentation has been examined.
 
-### When an established diagnosis meets a new problem
+The clinical error to avoid is **diagnostic overshadowing**: allowing a familiar diagnosis to narrow attention prematurely. Importantly, recognizing another medical problem does not invalidate a well-supported FND diagnosis. **Both can be true.** (*citations* [1](#citation-1), [8](#citation-8))
 
-Imagine a person with a well-characterized functional episode. Afterwards, they report severe new pain following a fall.
+### What evidence would change the formulation?
 
-The episode may closely match their documented FND presentation. At the same time, the new pain and the possibility of injury raise a separate question.
+This is where clinical reasoning becomes most useful to patients.
 
-If attention stays entirely on the established diagnosis, an additional physical problem could be missed. This is one way **diagnostic overshadowing** can occur.
+A change in seizure frequency is an observation. It does not establish why the frequency changed.
 
-The important reasoning is that two propositions can both be true: the familiar episode may be functional, and the subsequent pain may reflect a new injury. Assessing the second proposition on its own merits does not weaken the evidence for the first.
+A history of FND is relevant background. It is not a positive sign establishing that a new weakness, bladder disturbance or pain has the same cause.
 
-Reviews of FND in emergency settings emphasize attention to coexisting disease and to changes in presentation, alongside accurate recognition of established functional symptoms. (*citations* [1](#citation-1), [8](#citation-8))
+Likewise, investigations that address one urgent differential—for example, an initial assessment for stroke or a cardiac event—answer the questions those investigations were designed to address. Other persistent or evolving findings may still need their own explanation.
 
-### Weighing the value and burden of assessment
+New neurological or bladder/bowel dysfunction after injury can raise time-sensitive concerns about spinal or other pathology. Which examinations and investigations are warranted depends on the actual findings, time course and clinical risk. The point is not that every changed symptom requires a scan. It is that the **reason for investigating, observing or deferring investigation should follow from the new presentation**, rather than from the diagnostic label alone. (*citation* [8](#citation-8))
 
-There is also a risk on the other side of the balance.
+### Why examination methods matter
 
-Repeated investigations and emergency interventions may add little when a presentation is already well characterized. Some can cause harm, while the travel, sensory environment, waiting and recovery demands may substantially reduce the patient's functioning.
+Positive functional signs are valuable when they are appropriate to the symptom, elicited safely and interpreted in context.
 
-Mcloughlin et al. (2025) examine **iatrogenic harm**—harm related to medical care—in FND. This makes the burden of assessment part of the clinical reasoning, rather than an inconvenience outside it. (*citation* [9](#citation-9))
+An attempt to demonstrate a patient's supposed ability by placing them in an unsafe position cannot substitute for a validated examination sign. A patient who cannot reliably bear weight also faces a foreseeable risk of falling.
 
-The value of another investigation therefore depends on the question it might answer.
+This brings diagnostic reasoning and physical safety together. The purpose of an examination is to gather interpretable evidence while protecting the person being examined.
 
-A familiar episode covered by a suitable existing plan presents a different decision from sudden focal neurological symptoms, a significant injury or a materially changed event. The potential seriousness and time sensitivity of a new problem can outweigh the burdens of urgent assessment.
+### Balancing missed illness against harm from care
 
-Between those situations, there may be room for telephone advice, planned review or targeted investigations. The reasoning should account for current risk, remaining uncertainty and whether further information would alter care. (*citations* [8](#citation-8), [9](#citation-9))
+A careful assessment has two sides.
 
-This is **proportionate assessment**: remaining alert to consequential change while avoiding investigations that are unlikely to help.
+One risk is missing an additional condition because the existing FND diagnosis seems to explain everything.
 
-### Making the reasoning understandable
+The other is exposing someone with a well-characterized presentation to repeated low-yield investigations, treatments or hospital visits that may add significant physical and sensory burden.
 
-Patients and supporters can contribute crucial observations, yet the clinician carries responsibility for diagnostic interpretation.
+Mcloughlin et al. (2025) discuss **iatrogenic harm**—harm associated with healthcare—in FND. That literature supports taking the consequences of medical intervention seriously, while emergency-care reviews emphasize continued attention to clinically important change. (*citations* [8](#citation-8), [9](#citation-9))
 
-An explanation might therefore connect three statements:
+The balance depends on urgency, uncertainty, potential benefit and the cost of delay. A familiar event covered by an agreed plan differs substantially from a new injury or a potentially serious acute deficit.
 
-*“These examination findings support FND for your familiar weakness.”*
+This is **proportionate assessment**. It offers an evidence-based reason for both the investigations that are undertaken and those that can appropriately be deferred.
 
-*“The pain after your fall is a separate concern, so we need to consider injury.”*
+### Make the explanation visible
 
-*“Here is why this level of assessment is appropriate, and what would change our plan.”*
+Patients may hear only a conclusion: *“This is FND.”*
 
-That sequence shows how the evidence supports the decision. It leaves space for the patient's experience, including when they have no supporter, and makes uncertainty discussable without dismissing symptoms.
+A more informative explanation separates the questions:
 
-In [Lesson 11](02-building-and-using-your-personal-symptom-map.md), we turn to the practical side: recording the established findings, open questions, meaningful abilities and agreed review arrangements in a map the person can actually use.
+*“These findings support FND for the symptoms we've already assessed.”*
+
+*“Your new weakness and bladder changes raise additional questions, particularly after a fall.”*
+
+*“Here is what we have evaluated, what remains uncertain and why this next step is appropriate.”*
+
+The patient can describe the experience from within. An invited supporter may add observations from outside. Clinical interpretation remains the clinician's responsibility.
+
+When the reasoning is visible, an FND diagnosis can remain both **credible and appropriately limited**. That protects the value of positive diagnosis while allowing new problems to receive their own assessment.
+
+In [Lesson 11](02-building-and-using-your-personal-symptom-map.md), we turn to preserving that reasoning in a concise, practical symptom map.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -317,7 +327,7 @@ In [Lesson 11](02-building-and-using-your-personal-symptom-map.md), we turn to t
 
 ### What this evidence can and cannot establish
 
-Bennett and Espay describe an approach to FND diagnosis based on positive clinical evidence, interpreted in the context of the individual presentation. Butler's survey documents associated symptoms and comorbidity in a selected respondent population; it cannot determine the cause of a particular person's new symptom. Finkelstein's emergency-department review discusses coexisting conditions and changed presentations, while Mcloughlin's review examines harm associated with medical interventions. Together these sources support careful, proportionate clinical reasoning—not a fixed testing schedule or a validated triage rule. The course's symptom map remains an educational communication aid. (*citations* [1](#citation-1), [4](#citation-4), [7](#citation-7), [8](#citation-8), [9](#citation-9))
+Bennett and Espay describe an approach to FND diagnosis based on positive clinical evidence, interpreted in the context of the individual presentation. Butler's survey documents associated symptoms and comorbidity in a selected respondent population; it cannot determine the cause of a particular person's new symptom. Finkelstein's emergency-department review discusses coexisting conditions and changed presentations, while Mcloughlin's review examines harm associated with medical interventions. Together these sources support careful, proportionate clinical reasoning—not a fixed testing schedule or a validated triage rule. The course's symptom map remains an educational communication aid. The anonymized clinical scenario is drawn from a patient's written account and is included to illustrate a reasoning hazard; it is not independent evidence of clinical error or of the cause of the reported symptoms. (*citations* [1](#citation-1), [4](#citation-4), [7](#citation-7), [8](#citation-8), [9](#citation-9))
 
 ### Citation table
 
