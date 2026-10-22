@@ -142,97 +142,78 @@ In [Lesson 11](02-building-and-using-your-personal-symptom-map.md), we'll look a
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-### Knowing someone well is a starting point
+### Two people can know different parts of the same story
 
-You may know someone with FND so well that you can tell when they're having a difficult day before they've said a word.
+Living alongside someone with FND can teach you a great deal about their usual symptoms. You might recognize a familiar episode, notice when something has changed, or remember details from a difficult day.
 
-You know what their usual symptoms look like. You may even recognize when something seems different.
+The person living with FND knows something equally important: **what the experience feels like from the inside**. They may recognize a change in pain, sensation, thinking or awareness that nobody else can see.
 
-But imagine a new symptom appears. Is this part of their FND, another health condition, or something that still needs checking?
+Those two perspectives can work together. The person describes their experience and what matters to them. A supporter, when invited, can add what they observed and help communicate it. **A clinician's role is to assess and diagnose**, using medical history, examination and other tests when needed.
 
-Familiarity helps you notice changes. **The right medical words help you talk about what you've noticed.** And a clinician can help determine which explanation fits.
+Each role brings something different to the conversation.
 
-Let's explore a few of those words together.
+And many people with FND manage their care **without a supporter**. These same questions are for them, too. They can explain what they experience, ask clinicians for clear answers and request accessible ways to communicate.
 
-### A diagnosis tells us what has been identified
+### Having the right words helps
 
-Imagine someone whose leg weakness has been diagnosed as functional. They also live with migraine, and recently they've begun feeling dizzy in a new way.
+In Lesson 10, we've been separating things that are known from things that are still being investigated. A few terms make those conversations more precise.
 
-It could be tempting to put everything under one label: *“That's their FND acting up again.”*
+A symptom **diagnosed as FND** has been identified by a clinician, using *positive signs* when applicable: examination findings that support a functional diagnosis.
 
-There is a more useful way to understand the situation.
+A **coexisting condition**, also called a *comorbidity*, is another condition the person has been diagnosed with. Migraine, for example, can exist alongside FND.
 
-The **functional leg weakness** has been identified as part of their FND. The clinician made that diagnosis using **positive signs**: examination findings that support FND, rather than simply finding nothing wrong on a scan.
+An **associated symptom** occurs alongside the condition but may have more than one possible explanation. An **unresolved symptom** still needs to be understood or assessed.
 
-Depending on the symptom, these signs may include differences in how a movement works during different parts of an examination. Those changes are involuntary. They help a trained clinician recognize a functional symptom; they're not home tests or a measure of someone's effort. (*citations* [1](#citation-1))
+These are useful distinctions because a familiar FND diagnosis tells us something important about *some* symptoms. It doesn't settle every question about the person's health. (*citations* [1](#citation-1), [4](#citation-4))
 
-The **migraine** is a separate neurological condition if it has also been diagnosed. When two conditions occur in the same person, clinicians call them **coexisting conditions** or **comorbidities**.
+Suppose the person says, *“This feels different from my usual symptoms.”* A supporter might say, *“I've noticed a change, too.”*
 
-A person can have both FND and migraine. Their symptoms may also affect one another in everyday life, while each condition still deserves its own care.
+Neither person has to work out the diagnosis. Together, they've given the clinician a useful starting point.
 
-And the **new dizziness**?
+### Sharing observations without deciding the cause
 
-For now, it's an **unresolved symptom** — something still awaiting assessment. It's perfectly reasonable to say, *“We're still finding out what this is.”*
+Supporters may see things a person has difficulty remembering, particularly around an episode. With permission, they can describe what happened before, during and after.
 
-Those three descriptions give everyone a clearer picture. They also leave room for new information. (*citations* [1](#citation-1), [4](#citation-4))
+This is where familiar words from Lesson 7 help.
 
-### When symptoms overlap
+Something that may make an episode more likely is a **possible trigger**. A change that appears as an episode begins may be a **warning sign**. Something that happens afterwards is a **consequence**.
 
-Some experiences, such as fatigue, pain or problems concentrating, can occur alongside FND. They may also relate to another illness, a medication effect, sleep difficulties or more than one influence.
+You might also hear about a **risk factor** or a **maintaining factor**. These describe possible influences, rather than something a supporter is expected to identify or prove.
 
-This is where the term **associated symptom** can be helpful. It describes something that occurs alongside a condition without automatically deciding what caused it.
+An observation such as *“Their speech changed before the episode”* tells the care team what happened. Whether the speech change was part of that episode is a different question.
 
-Think of it like hearing several instruments playing at once. You can recognize the music while still working out which instrument is making a particular sound.
+The person might add, *“I felt confused before I could speak.”* Both accounts can be valuable, even when they describe different parts of the experience.
 
-The important question becomes, *“What do we already know about this symptom, and what still needs assessment?”*
+And sometimes symptoms occur without a recognizable trigger or warning. That's useful information as well.
 
-If a clinician has explained which symptoms are part of the person's FND and which belong to another diagnosis, that explanation gives you a firmer starting point. New information may change the picture over time.
+### When is a medical visit worth the cost?
 
-### Before, during and after: words that make a difference
+For some people with FND, getting medical care is exhausting. The journey, bright lights, noise, waiting, pain or interruptions to rest can worsen symptoms. An emergency department can be particularly difficult.
 
-Now imagine someone who experiences familiar episodes of functional symptoms.
+That cost deserves to be taken seriously when planning care.
 
-They sleep poorly one night. The next day, they notice a speech change before an episode. Afterwards, they're exhausted.
+It also helps explain why **every new sensation doesn't automatically mean an immediate trip to a doctor or hospital**. The important question is what the change might mean and how quickly it needs attention.
 
-You might say, *“It all happened around the seizure.”* That's understandable, but there are more precise ways to describe what happened.
+A familiar symptom following its usual pattern may already be covered by an agreed care or safety plan. A mild change without warning features may sometimes be discussed through a phone call, a message to the clinic or the next planned appointment. Your healthcare team can help establish which changes can be handled this way.
 
-The poor sleep could be a **possible trigger**: something that may increase the chance of an episode.
+Other changes call for prompt or emergency assessment. Serious injuries, sudden new stroke-like symptoms, concerning chest pain or breathing difficulties are examples where the risks of delaying care can outweigh the burden of a visit. A new symptom that is severe, rapidly worsening or substantially unlike the person's usual pattern also warrants timely medical advice.
 
-The speech change could be a **warning sign**: something that appears as the familiar episode is beginning.
+For example, someone may have a familiar functional episode and then develop new pain after a fall. **The episode can be familiar while the possible injury still needs assessment.** One label doesn't explain away the other.
 
-The exhaustion afterwards could be a **consequence**: an effect of what happened.
+A useful shared question is: *“What's different from usual, and what does our care plan say to do?”*
 
-The timing helps us describe an experience; it doesn't prove that poor sleep caused the episode, or that every speech change is functional.
+### Working as a team, with or without a supporter
 
-Some people experience no recognizable warning or trigger. Other FND symptoms may be present much of the time, with their intensity changing rather than starting and stopping in separate episodes.
+The person with FND can say what they're experiencing, what concerns them and what support they want. If a supporter is involved, they can help bring forward relevant observations, explain what is typical and ask that new concerns receive their own assessment.
 
-You may also hear **risk factor**, meaning something that makes a condition more likely, or **maintaining factor**, meaning something that may contribute to a symptom continuing. We introduced these ideas in Lesson 7.
+The healthcare team can explain which symptoms have been positively diagnosed, what remains uncertain and what kinds of changes should prompt a call, a scheduled visit or urgent care.
 
-With these words, you can say *“We noticed this happened before the episode”* instead of having to guess *“This must have caused it.”*
+It may also be possible to plan for quieter spaces, written communication, fewer repeated explanations or help with sensory overload during appointments.
 
-### Better questions lead to clearer answers
+If you're supporting someone, the most valuable contribution may be listening to their account and helping their words reach the right person. If you're navigating FND on your own, you deserve that same clear explanation and considerate care.
 
-Suppose you're sitting together at an appointment, trying to understand which symptoms belong where.
+Lesson 11 will show how to gather the useful information into a short personal symptom map, so these conversations take less work.
 
-A useful conversation might sound like this:
-
-*“Which symptoms have been diagnosed as FND, and what positive signs support that diagnosis?”*
-
-Then perhaps:
-
-*“Which other conditions have been diagnosed, and which symptoms are still being investigated?”*
-
-And finally:
-
-*“If something changes, what should we watch for, and when should we seek medical assessment?”*
-
-These questions invite the care team to explain its reasoning in words everyone can use.
-
-Recognizing a familiar pattern can be reassuring. At the same time, a **new, severe or substantially different symptom** deserves appropriate medical assessment, even when the person already has an FND diagnosis.
-
-You don't need a medical degree to offer valuable support. Sometimes what helps most is knowing the difference between *“We know,” “We suspect,”* and *“We need to find out.”*
-
-In Lesson 11, we'll use that understanding to help organize the person's health information and make appointments easier.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
