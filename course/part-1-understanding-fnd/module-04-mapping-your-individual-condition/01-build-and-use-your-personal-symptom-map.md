@@ -190,30 +190,35 @@ And sometimes symptoms occur without a recognizable trigger or warning. That's u
 
 For some people with FND, getting medical care is exhausting. The journey, bright lights, noise, waiting, pain or interruptions to rest can worsen symptoms. An emergency department can be particularly difficult.
 
-That cost deserves to be taken seriously when planning care.
+That creates a real balancing act. A visit might answer an important question, but getting there can take a heavy toll. And because FND itself can cause such striking symptoms, it isn't always obvious when something else needs attention.
 
-It also helps explain why **every new sensation doesn't automatically mean an immediate trip to a doctor or hospital**. The important question is what the change might mean and how quickly it needs attention.
+Imagine someone who has lived with familiar functional episodes for years. After one episode, they experience a new kind of severe pain. The FND is already well known, so it becomes the focus of the conversation. Only later is a separate physical injury recognized.
 
-A familiar symptom following its usual pattern may already be covered by an agreed care or safety plan. A mild change without warning features may sometimes be discussed through a phone call, a message to the clinic or the next planned appointment. Your healthcare team can help establish which changes can be handled this way.
+This example is adapted from a lived experience, with personal details left out. It illustrates a risk called **diagnostic overshadowing**: when one familiar diagnosis draws attention away from another possible explanation.
 
-Other changes call for prompt or emergency assessment. Serious injuries, sudden new stroke-like symptoms, concerning chest pain or breathing difficulties are examples where the risks of delaying care can outweigh the burden of a visit. A new symptom that is severe, rapidly worsening or substantially unlike the person's usual pattern also warrants timely medical advice.
+Think of a folder labelled *FND*. The label tells us something important about the pages already inside. But it can't tell us what's written on every new page.
 
-For example, someone may have a familiar functional episode and then develop new pain after a fall. **The episode can be familiar while the possible injury still needs assessment.** One label doesn't explain away the other.
+The same principle works in both directions. A new medical problem doesn't make someone's established FND diagnosis any less real. And an FND diagnosis doesn't explain every new pain or change.
 
-A useful shared question is: *“What's different from usual, and what does our care plan say to do?”*
+So how does someone decide whether a medical visit is worth the effort?
 
-### Working as a team, with or without a supporter
+Often the answer lies in **what has changed, how serious it seems, and how quickly an answer is needed**. A familiar fluctuation may already be covered by the person's care plan. A mild, non-urgent concern might be discussed by phone or at a planned appointment. Other changes—such as a serious injury, sudden stroke-like symptoms, concerning chest pain or difficulty breathing—can make prompt or emergency assessment important despite the burden of getting there.
 
-The person with FND can say what they're experiencing, what concerns them and what support they want. If a supporter is involved, they can help bring forward relevant observations, explain what is typical and ask that new concerns receive their own assessment.
+These differences are worth talking through with a clinician *before* the next difficult day. Understanding which changes can wait, which call for advice and which need urgent care can reduce some of the guesswork.
 
-The healthcare team can explain which symptoms have been positively diagnosed, what remains uncertain and what kinds of changes should prompt a call, a scheduled visit or urgent care.
+### Making both perspectives count
 
-It may also be possible to plan for quieter spaces, written communication, fewer repeated explanations or help with sensory overload during appointments.
+The person with FND may be the first to notice, *“This feels different.”* A supporter, if one is involved, might remember how the person's usual episodes look or notice something new afterwards.
 
-If you're supporting someone, the most valuable contribution may be listening to their account and helping their words reach the right person. If you're navigating FND on your own, you deserve that same clear explanation and considerate care.
+Together, those observations can make a useful distinction: *“The episode seemed familiar, but this part is new.”*
 
-Lesson 11 will show how to gather the useful information into a short personal symptom map, so these conversations take less work.
+That simple sentence may help a clinician consider both the established FND and another possible cause. It's a way of making room for more than one explanation, rather than trying to decide the diagnosis at home.
 
+The same words are available to someone managing FND without a supporter. Their own account deserves to be heard.
+
+Medical care can also be made more manageable. Sometimes a phone appointment, a written account, quieter surroundings or less repeated questioning can help the person's concerns reach a clinician without so much added strain.
+
+In Lesson 11, we'll look at how a short personal symptom map can help keep those important details ready when they're needed.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
