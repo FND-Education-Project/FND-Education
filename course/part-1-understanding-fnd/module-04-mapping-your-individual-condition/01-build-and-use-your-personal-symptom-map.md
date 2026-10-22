@@ -271,6 +271,10 @@ Likewise, investigations that address one urgent differential—for example, an 
 
 New neurological or bladder/bowel dysfunction after injury can raise time-sensitive concerns about spinal or other pathology. Which examinations and investigations are warranted depends on the actual findings, time course and clinical risk. The point is not that every changed symptom requires a scan. It is that the **reason for investigating, observing or deferring investigation should follow from the new presentation**, rather than from the diagnostic label alone. (*citation* [8](#citation-8))
 
+The difference between two hospital assessments brings this reasoning into focus. According to the patient's account, one hospital attributed the newly reported leg and bladder difficulties to FND and discharged them. At the next hospital, clinicians pursued spinal imaging and identified disc herniations, including at T6–T7.
+
+The imaging finding did not, on its own, prove the cause of every symptom. It did provide **additional evidence relevant to a problem that still needed explaining**. The lesson is therefore more precise than simply saying that the first explanation was wrong: an established FND diagnosis may remain valid while a new presentation calls for its own assessment. The full clinical decisions at either hospital cannot be judged from the correspondence alone.
+
 ### Why examination methods matter
 
 Positive functional signs are valuable when they are appropriate to the symptom, elicited safely and interpreted in context.
