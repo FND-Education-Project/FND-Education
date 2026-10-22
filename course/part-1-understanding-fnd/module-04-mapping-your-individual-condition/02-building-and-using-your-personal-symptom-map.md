@@ -163,22 +163,43 @@ You can build on it whenever it would be useful.
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
+### A clearer story can make care easier
+
+Imagine trying to explain several health problems during a short appointment. You may need to remember when something started, how it changed, which clinician diagnosed it and what has happened since. That can be difficult, especially when speech, thinking, fatigue or other symptoms add to the effort.
+
+A short map can take some of that work off the person's shoulders. You might offer to write down the information they choose, or bring their notes to an appointment if they'd like you to.
+
+A gentle starting question is: *“What's the most important thing you'd like the care team to understand?”*
+
+### Observation is different from explanation
+
+Sometimes you notice details the person may have difficulty seeing or remembering, such as what an episode looked like from the outside or how long recovery took. These observations can be useful when shared with permission.
+
+For example, *“Their speech changed before the episode”* describes what you saw. Whether that change was part of the episode is a clinical question.
+
+Keeping observations separate from possible explanations helps everyone work with clearer information. The person's own experience matters, including things that others can't observe.
+
+A new, severe or substantially changed symptom deserves appropriate medical assessment even when someone has lived with FND for a long time. The map can make it easier to explain what has changed.
+
 ### What helps belongs on the map
 
 A person's health story includes things they can do, activities they enjoy and adjustments that make daily life easier. The map can keep those strengths visible alongside symptoms and safety needs.
 
-You might offer to write while the person decides what they want recorded, or help bring the map to an appointment. Ask which details they'd like to share; ownership and privacy remain with them.
+Maybe an activity is easier with different lighting, a walking aid, written reminders or a quieter space. Recording what helps can give the person and their care team useful ideas for planning.
 
-A useful question might be: *“Which change would make that activity a little more manageable?”* It could lead to an environmental adjustment, a support person or a more comfortable way to take part.
+A question such as *“Which change would make that activity a little more manageable?”* can be a friendly place to start.
 
 ### Choose a purpose for tracking
 
-Brief notes may help answer a specific question about an appointment, activity or adaptation. Agree on what information would be useful and when to review it.
+Brief notes can help answer a specific question about an appointment, activity or adjustment. Perhaps you're wondering if an accessibility change has made something easier.
 
-Continuous watching or repeated symptom-checking can add pressure and make everyday life feel like a test. A smaller record, used when a decision needs it, is often more practical.
+Together, you might decide what to note and when to look at the information again.
 
-Update the person's map when they want to, or when treatment plans, safety needs or diagnoses meaningfully change. Help them seek appropriate assessment for new or substantially different symptoms.
+Constant watching or repeated symptom-checking can make daily life feel like a test that never ends. A smaller record, with a clear purpose, leaves more room for the rest of life.
 
+The person gets to decide what goes on their map, whom to share it with and when it needs updating. You can help organize it if that support is welcome.
+
+When diagnoses, treatment plans or safety needs change, the map can change too. Medical assessment remains the right next step for new or substantially different symptoms.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
