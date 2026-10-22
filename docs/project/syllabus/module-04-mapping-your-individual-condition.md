@@ -36,6 +36,11 @@ This section should focus on how clinicians can help the patient understand the 
 - Updating formulation when new symptoms, examination findings, treatment responses, or diagnoses emerge.
 - Using the map to improve interdisciplinary communication without treating it as a diagnostic instrument.
 
+## Lesson plan
+
+- **Lesson 10 — Making Sense of Your Symptoms and Questions:** sort confirmed FND symptoms, coexisting conditions and unresolved questions; consider the different timing of possible triggers, warning signs and consequences.
+- **Lesson 11 — Building and Using Your Personal Symptom Map:** record preserved abilities and supports, build a one-page summary, and track a few decision-relevant patterns for a defined period.
+
 ## Practical work
 
 - Complete a one-page symptom and comorbidity map.

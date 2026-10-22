@@ -13,7 +13,7 @@ Work through Functional Neurological Disorder (FND) one lesson at a time, starti
 - [What Is Functional Neurological Disorder?](part-1-understanding-fnd/module-01-what-fnd-is/README.md) — 5 pages
 - [How Is FND Diagnosed?](part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md) — 3 pages
 - [What May Cause or Affect FND?](part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/README.md) — 4 pages
-- [Map Your FND and Other Health Conditions](part-1-understanding-fnd/module-04-mapping-your-individual-condition/README.md) — 2 pages
+- [Map Your FND and Other Health Conditions](part-1-understanding-fnd/module-04-mapping-your-individual-condition/README.md) — 3 pages
 
 ## Part Two: Safety and Symptom Knowledge
 
@@ -51,7 +51,7 @@ Work through Functional Neurological Disorder (FND) one lesson at a time, starti
 
 ## About This Course
 
-The course currently has 23 module overviews and 74 focused lessons, for 97 pages in those modules. Each module begins with a short overview and links to one to five focused articles.
+The course currently has 23 module overviews and 75 focused lessons, for 98 pages in those modules. Each module begins with a short overview and links to one to five focused articles.
 
 Parts One through Six (Modules 1–23) now contain reader-facing working drafts based on the detailed human-planned syllabus and the wording pattern established in Module 1. Pages personally edited by the project lead are marked separately from temporary automatically generated drafts. Contributors and reviewers are invited to help with human writing, evidence, safety, accessibility, lived experience and plain-language editing.
 
