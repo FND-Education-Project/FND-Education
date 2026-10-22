@@ -19,7 +19,8 @@ A personal symptom map can reduce the work of remembering which symptoms are con
 
 ## Pages
 
-- **[Build and Use Your Personal Symptom Map](01-build-and-use-your-personal-symptom-map.md)** — a step-by-step way to separate what is known, uncertain, changing and helpful on one updateable page.
+- **[Making Sense of Your Symptoms and Questions](01-build-and-use-your-personal-symptom-map.md)** (Lesson 10) — sorting diagnosed conditions, open questions, and possible triggers, warning signs and consequences.
+- **[Building and Using Your Personal Symptom Map](02-building-and-using-your-personal-symptom-map.md)** (Lesson 11) — recording abilities and supports, making a one-page map, and tracking only what helps answer a useful question.
 
 > **Inside each page:** [Person with FND](01-build-and-use-your-personal-symptom-map.md#for-the-person-with-fnd) · [Supporters](01-build-and-use-your-personal-symptom-map.md#for-family-friends-and-other-supporters) · [Clinicians](01-build-and-use-your-personal-symptom-map.md#for-clinicians-and-the-care-team) · [Research](01-build-and-use-your-personal-symptom-map.md#research-and-sources)
 >

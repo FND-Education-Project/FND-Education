@@ -57,7 +57,8 @@ Use the sections below to drill down into the course, reference library, researc
 <summary><strong>Module 4: Mapping Your Individual Condition</strong></summary>
 
 - [Module overview](course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/README.md)
-- [Build and Use Your Personal Symptom Map](course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md)
+- [Making Sense of Your Symptoms and Questions](course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md)
+- [Building and Using Your Personal Symptom Map](course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md)
 
 </details>
 
