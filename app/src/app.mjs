@@ -129,6 +129,15 @@ function draw() {
     symbol.setAttribute("aria-hidden", "true");
     button.append(symbol, make("span", "object-name", info.name));
     button.addEventListener("pointerdown", event => startDrag(event, object.id));
+    // Keyboard activation selects just as touch does. Pointer selection is
+    // handled on pointerup to avoid fighting with drag capture.
+    button.addEventListener("click", event => {
+      if (event.detail !== 0) return; // Synthetic keyboard click only.
+      selectedId = object.id;
+      armedType = null;
+      draw();
+      elements.selection.focus();
+    });
     button.addEventListener("keydown", event => {
       const step = event.shiftKey ? 4 : 20;
       const offset = {
