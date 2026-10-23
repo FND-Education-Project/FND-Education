@@ -301,9 +301,9 @@ A brief account of what was tried, how manageable the visit felt and what recove
 
 The patient's report is central. Examination findings and observations from a supporter chosen by the patient can add different kinds of information when relevant.
 
-There is also a limit to what a short record can establish. Symptoms may vary between days, recall can be difficult, and an improvement following an adjustment does not, by itself, identify its cause.
+There is also a limit to what a short record can establish. Symptoms may vary between days, recall can be difficult, and understanding why an adjustment was followed by improvement still takes clinical judgment.
 
-Qualitative and systematic work on FND outcome measurement supports listening to the patient's priorities and interpreting measures in context. These studies do not validate the one-page map or establish that intensive daily tracking improves care. (*citations* [3](#citation-3), [6](#citation-6))
+Qualitative and systematic work on FND outcome measurement supports listening to the patient's priorities and interpreting measures in context. Validation of this course's one-page map, or evidence that intensive daily tracking improves care, would require separate studies. (*citations* [3](#citation-3), [6](#citation-6))
 
 A proportionate plan can identify **one question, a manageable amount of information and a time to review it**. The person can then keep what helps and set aside record-keeping that has served its purpose.
 
@@ -319,7 +319,7 @@ Support may come from a family member, friend or care professional. Some people 
 
 After years of illness, a family may already have developed useful routines and adaptations. Inviting those discoveries into the map respects experience already gained.
 
-At the same time, a sustainable plan considers the supporter's capacity. The clinical team can provide an accessible written summary and agreed follow-up steps, rather than assuming the person or their supporter can maintain extensive records.
+At the same time, a sustainable plan considers the supporter's capacity. The clinical team can provide an accessible written summary and agreed follow-up steps, keeping the record-keeping workload realistic for the person and any supporter.
 
 A useful map carries forward the **reasoning, practical adjustments and next decisions**. It becomes easier to update as diagnoses, abilities or circumstances change.
 
