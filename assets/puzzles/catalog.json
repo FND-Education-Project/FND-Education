@@ -2,7 +2,8 @@
   "modules": {
     "1": "What FND Is",
     "2": "How FND Is Diagnosed",
-    "3": "What May Cause or Affect FND?"
+    "3": "What May Cause or Affect FND?",
+    "4": "Map Your FND and Other Health Conditions"
   },
   "items": [
     {
@@ -38,6 +39,18 @@
       "course": "/course/m1/3/",
       "downloads": {
         "Open printable PDF": "/assets/puzzles/colouring/lesson-3-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-4",
+      "module": 1,
+      "lesson": 4,
+      "title": "Available Capacity and Spoons",
+      "image": "/assets/puzzles/colouring/lesson-4-coloring-book.png",
+      "course": "/course/m1/4/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-4-coloring-book.pdf"
       },
       "collection": "colouring"
     },
@@ -102,6 +115,18 @@
       "collection": "colouring"
     },
     {
+      "id": "lesson-10",
+      "module": 4,
+      "lesson": 10,
+      "title": "Making Sense of Your Symptoms",
+      "image": "/assets/puzzles/colouring/lesson-10-coloring-book.png",
+      "course": "/course/m4/1/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-10-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
       "id": "lesson-1",
       "module": 1,
       "lesson": 1,
@@ -161,7 +186,7 @@
       "id": "module-1-review",
       "module": 1,
       "lesson": null,
-      "title": "What Is Functional Neurological Disorder? — Module 1 Review",
+      "title": "What Is Functional Neurological Disorder? \u2014 Module 1 Review",
       "image": "/assets/puzzles/thumbnails/what-is-functional-neurological-disorder-module-1-summary-m1-normal.svg",
       "course": "/course/m1/",
       "downloads": {
@@ -203,7 +228,7 @@
       "id": "module-2-review",
       "module": 2,
       "lesson": null,
-      "title": "How Is FND Diagnosed? — Module 2 Review",
+      "title": "How Is FND Diagnosed? \u2014 Module 2 Review",
       "image": "/assets/puzzles/thumbnails/how-is-fnd-diagnosed-module-2-summary-m2-normal.svg",
       "course": "/course/m2/",
       "downloads": {
@@ -259,13 +284,27 @@
       "id": "module-3-review",
       "module": 3,
       "lesson": null,
-      "title": "What May Cause or Affect FND? — Module 3 Review",
+      "title": "What May Cause or Affect FND? \u2014 Module 3 Review",
       "image": "/assets/puzzles/thumbnails/what-may-cause-or-affect-fnd-module-3-summary-m3-normal.svg",
       "course": "/course/m3/",
       "downloads": {
         "Normal": "/assets/puzzles/crosswords/Module-3-Summary/what-may-cause-or-affect-fnd-module-3-summary-m3-normal.pdf",
         "Easy": "/assets/puzzles/crosswords/Module-3-Summary/what-may-cause-or-affect-fnd-module-3-summary-m3-easy.pdf",
         "Answer key": "/assets/puzzles/crosswords/Module-3-Summary/what-may-cause-or-affect-fnd-module-3-summary-m3-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-10",
+      "module": 4,
+      "lesson": 10,
+      "title": "Making Sense of Your Symptoms",
+      "image": "/assets/puzzles/thumbnails/making-sense-of-your-symptoms-m4-10-normal.svg",
+      "course": "/course/m4/1/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-4-Lesson-10/making-sense-of-your-symptoms-m4-10-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-4-Lesson-10/making-sense-of-your-symptoms-m4-10-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-4-Lesson-10/making-sense-of-your-symptoms-m4-10-answer-key.pdf"
       },
       "collection": "crosswords"
     }

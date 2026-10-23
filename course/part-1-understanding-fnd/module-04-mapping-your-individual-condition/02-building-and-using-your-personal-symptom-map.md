@@ -4,9 +4,9 @@
 
 # Building and Using Your Personal Symptom Map
 
-> **Working draft:** Human-authored revision with AI assistance; all three audience sections reviewed and approved by the project lead October 23, 2026. Audit 1, Audit 2, source and quotation verification, and independent clinical review remain pending.
+> **Working draft:** Human authored revision with AI assistance; all three audience sections reviewed and approved by the project lead October 23, 2026. Evidence and editorial audits completed October 23, 2026; independent clinical review remains pending.
 
-In [Lesson 10](01-build-and-use-your-personal-symptom-map.md), we began sorting our health story into known diagnoses and open questions. Now let's make a short map that also shows what helps and what remains possible.
+In Lesson 10, we began sorting our health story into known diagnoses and open questions. Now let's make a short map that also shows what helps and what remains possible.
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -36,13 +36,15 @@ Another person may have good periods between episodes, even though the episodes 
 
 These details can help show where useful adjustments or treatment might begin.
 
-And an ability that comes and goes is still a real ability, just as the difficulty is real when it happens. Changes in what you can do are a recognized part of how some FND symptoms appear. (*citations* [1](#citation-1), [5](#citation-5))
+And an ability that comes and goes is still a real ability, just as the difficulty is real when it happens. [Changes in what you can do](../../../glossary/README.md#symptom-variability) are a recognized part of how some FND symptoms appear. (*citations* [1](#citation-1), [5](#citation-5))
 
 Someone in the FND community put the value of an aid this way:
 
 > “My mobility aids have been incredibly helpful and enable me to live life more fully.”
 
-[Read the community post](https://www.reddit.com/r/FND/comments/106utzh/advice_needed_considering_using_mobility_aid_for/).
+*Figure 1. Mobility aids and participation; individual lived experience.* (*citations* [7](#citation-7))
+
+[Read the community comment](https://www.reddit.com/r/FND/comments/106utzh/comment/j3m7l9s/).
 
 For this person, the aid helped make more of life possible. Your helpful adjustments may look entirely different.
 
@@ -62,11 +64,13 @@ For some people, that's a big deal.
 
 One community member described how much memory difficulties affected everyday care:
 
-> “Currently I can barely take care of myself ... My partner has to remind me.”
+> “Currently I can barely take care of myself because of them. My partner has to remind me to take my pills, which ones to take when, and instructions for taking them.”
+
+*Figure 2. Memory and everyday reminders; individual lived experience.* (*citations* [8](#citation-8))
 
 [Read the community post](https://www.reddit.com/r/FND/comments/13rzn9o/memory_issues/).
 
-That's one person's experience. It shows why an outside reminder—or help from someone you trust, if you have and want that support—can be valuable. You can also make and use a map on your own.
+That's one person's experience. It shows why an [outside reminder](../../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md)—or help from someone you trust, if you have and want that support—can be valuable. You can also make and use a map on your own.
 
 ### What belongs on the page?
 
@@ -82,7 +86,7 @@ Perhaps a medication change seems connected with a new symptom. You could write 
 
 And maybe a walking aid helps you enjoy an outing. That's worth remembering, too.
 
-**The map is a quick guide to what matters to you.** Detailed medical records can stay somewhere else, and a map does not decide what caused a symptom or replace medical assessment.
+**The map is a quick guide to what matters to you.** Detailed medical records can stay somewhere else, while medical assessment helps establish what caused a symptom.
 
 ### Building your own map
 
@@ -115,11 +119,13 @@ Sometimes a small observation suggests an adjustment worth exploring. One commun
 
 > “I was able to figure out that my post-eating issues were actually auditory sensory overload ... and really cut those specific symptoms down by using ear plugs.”
 
-[Read the community post](https://www.reddit.com/r/FND/comments/1nk6chc/choking/).
+*Figure 3. One person’s sensory experience; individual lived experience.* (*citations* [9](#citation-9))
+
+[Read the community comment](https://www.reddit.com/r/FND/comments/1nk6chc/comment/nexcp8l/).
 
 That's how this person understood their experience. It's a reminder that surroundings can matter, while symptoms after eating—especially choking or swallowing difficulties—still deserve appropriate medical assessment to check safety and other possible causes.
 
-A pattern is a **clue**, rather than proof of a cause. Symptoms can vary naturally, and a few observations may tell only part of the story. (*citations* [3](#citation-3), [6](#citation-6))
+A pattern is a **clue** to explore. Understanding its cause takes more evidence. Symptoms can vary naturally, and a few observations may tell only part of the story. (*citations* [3](#citation-3), [6](#citation-6))
 
 Here's a useful question whenever you consider tracking something:
 
@@ -222,7 +228,7 @@ It's a bit like two people describing the same journey: one remembers the bumpy 
 
 As we learned in Lesson 10, describing **what happened** is different from deciding **why**. That medical interpretation belongs with the clinician.
 
-Someone without a supporter can still describe what they experienced and what they need. A map works just as well as a personal account.
+Someone without a supporter can still describe what they experienced and what they need. A map can also hold the person's own account.
 
 ### Sharing the work, keeping room for life
 
@@ -246,7 +252,7 @@ At the next visit, they might say:
 
 *“The appointment with a break felt more manageable. Could we plan something similar next time?”*
 
-They've used their notes to start a useful conversation. A few experiences cannot prove what caused the difference, but they can suggest an adjustment worth exploring.
+They've used their notes to start a useful conversation. A few experiences can suggest an adjustment worth exploring. Understanding what caused the difference takes further assessment.
 
 Once those notes have answered the question as well as possible, they can be set aside. A supporter may help if invited, or the person may prefer to keep a couple of words on their phone.
 
@@ -283,15 +289,15 @@ These are starting points rather than required fields. A few useful lines may be
 
 ### Make the clinical reasoning available
 
-Lesson 10 distinguished a positively diagnosed functional presentation from coexisting conditions and questions that still need assessment. Here, the aim is to preserve that reasoning in a form the person can carry into the next appointment.
+[Lesson 10](01-build-and-use-your-personal-symptom-map.md) distinguished a positively diagnosed functional presentation from coexisting conditions and questions that still need assessment. Here, the aim is to preserve that reasoning in a form the person can carry into the next appointment.
 
 Consider someone with functional leg weakness, diagnosed migraine and new dizziness.
 
-Their clinical record contains the positive findings supporting the functional weakness diagnosis. Their migraine is an established, separate condition. The dizziness remains a question for assessment.
+Their clinical record contains the positive findings supporting the functional weakness diagnosis. Their migraine is an established, separate condition. Coexisting conditions are part of the wider health picture reported in FND research. (*citations* [4](#citation-4)) The dizziness remains a question for assessment.
 
 A short personal map can preserve those distinctions and point to the relevant clinical record. It can also identify the agreed next step for the dizziness, according to the history and examination.
 
-The benefit is continuity: a future clinician can see **which conclusion is supported, what supports it and which question remains open**. That allows new or changing symptoms to receive an assessment proportionate to their presentation, while established findings remain available for care planning. (*citations* [1](#citation-1), [4](#citation-4))
+The aim is continuity: a future clinician can see **which conclusion is supported, what supports it and which question remains open**. That allows new or changing symptoms to receive an assessment proportionate to their presentation, while established findings remain available for care planning. (*citations* [1](#citation-1))
 
 This course proposes a communication format. Clinical examination, diagnostic reasoning and appropriate investigation continue to provide the basis for medical conclusions.
 
@@ -305,7 +311,7 @@ Recording this difference offers a practical possibility: the care team might ar
 
 It also preserves the full clinical picture. Easier speech in one environment and disabling speech difficulty in another are both meaningful observations.
 
-The same reasoning may apply when movement becomes more manageable with an aid or a particular strategy. Occupational therapy and physiotherapy consensus recommendations support attention to functional performance, meaningful activities and individually tailored rehabilitation. They provide a clinical framework rather than proof that any one adjustment will benefit everyone. (*citations* [2](#citation-2), [5](#citation-5))
+The same reasoning may apply when movement becomes more manageable with an aid or a particular strategy. Occupational therapy and physiotherapy consensus recommendations support attention to functional performance, meaningful activities and individually tailored rehabilitation. An individualized equipment review can bring together safety, fit, participation goals and rehabilitation needs. These recommendations provide a clinical framework; the value of an adjustment is assessed with the individual. (*citations* [2](#citation-2), [5](#citation-5))
 
 Progress can therefore be described in terms of participation, safety, access or quality of life, alongside symptom change.
 
@@ -323,7 +329,7 @@ The patient's report is central. Examination findings and observations from a su
 
 > “all believed that the patient’s subjective experience should be central.”
 
-— Rutten et al. (2025). (*citation* [3](#citation-3))
+*Figure 4. Rutten et al. (2025), Abstract—Results.* (*citations* [3](#citation-3))
 
 This places the person's account of meaningful change alongside clinical observations when planning or evaluating care.
 
@@ -349,13 +355,14 @@ At the same time, a sustainable plan considers the supporter's capacity. The cli
 
 A useful map carries forward the **reasoning, practical adjustments and next decisions**. It becomes easier to update as diagnoses, abilities or circumstances change.
 
-*Source-review note: The selected Rutten et al. excerpt is retained from the project's existing research package. Exact wording and surrounding context still require verification against the original publication during the evidence audit.*
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
 ***
+
+**Further reading in the Reference Library:** [Thinking and memory supports](../../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md) · [Communication access](../../../reference/recovery-techniques/functional_speech_and_voice_symptoms/09-communication-support-and-aac.md)
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next module: Medical Safety and New Symptoms](../../part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md)
@@ -364,23 +371,27 @@ A useful map carries forward the **reasoning, practical adjustments and next dec
 <!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
+{: #research-and-sources .shareable }
 
 ### What this evidence can and cannot establish
 
-Occupational-therapy and physiotherapy consensus guidance discusses variable function, meaningful activity and individualized care. Qualitative and systematic outcome studies highlight patients' experiences and the limitations of individual measures. These sources support thoughtful communication and care planning; they do not validate this course's one-page map as a diagnostic or treatment tool. Community quotations represent individual experiences, not evidence that an aid, reminder or other strategy will work for everyone. The three selected community excerpts need verification against their original public posts during the evidence audit, and the selected Rutten et al. clinician-research excerpt awaits original-wording and context verification. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [5](#citation-5), [6](#citation-6))
+Occupational-therapy and physiotherapy consensus guidance discusses variable function, meaningful activity and individualized care. Qualitative and systematic outcome studies highlight patients' experiences and the limitations of individual measures. These sources support thoughtful communication and care planning; they do not validate this course's one-page map as a diagnostic or treatment tool. Community quotations represent individual experiences, not evidence that an aid, reminder or other strategy will work for everyone. The community excerpts and selected Rutten quotation were checked against their original sources on October 23, 2026. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [5](#citation-5), [6](#citation-6))
 
 ### Citation table
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
+| <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
 | <a id="citation-2"></a>**[2]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-3"></a>**[3]** | Figure 1 | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
+| <a id="citation-3"></a>**[3]** | Figure 4 | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
 | <a id="citation-4"></a>**[4]** | — | Butler M, Shipston-Sharman O, Seynaeve M, et al. International online survey of 1048 individuals with functional neurological disorder. *European Journal of Neurology*. 2021;28(11):3591–3602. [FND-CIT-0014](../../../research/citation-index.md#fnd-cit-0014). [https://doi.org/10.1111/ene.15018](https://doi.org/10.1111/ene.15018) |
 | <a id="citation-5"></a>**[5]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
 | <a id="citation-6"></a>**[6]** | — | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
+| <a id="citation-7"></a>**[7]** | Figure 1 | Public Reddit comment by JelloAdventurous in “Advice needed: considering using mobility aid for leg weakness.” r/FND. [Original source](https://www.reddit.com/r/FND/comments/106utzh/comment/j3m7l9s/). Verified October 23, 2026. Individual lived experience. [FND-CIT-0290](../../../research/citation-index.md#fnd-cit-0290). |
+| <a id="citation-8"></a>**[8]** | Figure 2 | Public Reddit post by liamreee. “Memory issues?” r/FND. [Original source](https://www.reddit.com/r/FND/comments/13rzn9o/memory_issues/). Verified October 23, 2026. Individual lived experience. [FND-CIT-0291](../../../research/citation-index.md#fnd-cit-0291). |
+| <a id="citation-9"></a>**[9]** | Figure 3 | Public Reddit comment by Vellaciraptor in “Choking.” r/FND. [Original source](https://www.reddit.com/r/FND/comments/1nk6chc/comment/nexcp8l/). Verified October 23, 2026. Individual lived experience. [FND-CIT-0292](../../../research/citation-index.md#fnd-cit-0292). |
 
-All three audience sections are human-authored revisions with AI assistance and have been approved by the project lead. Three community quotations remain individual experiences requiring verification against the original posts; the selected Rutten et al. research quotation also awaits exact wording and context verification. The project's two audits and independent clinical review remain pending.
+All three audience sections are human-authored revisions with AI assistance and have been approved by the project lead. Community quotations remain individual experiences. Source verification and the project's evidence and editorial audits are complete; independent clinical review remains pending.
 
-*Plain-language draft prepared: September 4, 2026 · Human-authored revision approved: October 23, 2026 · Audit 1 and Audit 2 pending · Clinical review pending*
+*Plain-language draft prepared: September 4, 2026 · Human-authored revision approved: October 23, 2026 · Audit 1 and Audit 2 completed: October 23, 2026 · Clinical review pending*
 

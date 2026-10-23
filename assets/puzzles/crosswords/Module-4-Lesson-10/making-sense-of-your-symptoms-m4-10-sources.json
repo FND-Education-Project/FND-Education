@@ -1,0 +1,354 @@
+{
+  "title": "Making Sense of your symptoms",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 185,
+    "lesson": 10,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "lesson",
+    "module": 4,
+    "seed": 1,
+    "selected_question_count": 35
+  },
+  "score": 71.31,
+  "included": [
+    {
+      "answer": "CLINICIAN",
+      "borrowed": false,
+      "clue": "Healthcare\n  professional who assesses symptoms and may make diagnoses.",
+      "direction": "down",
+      "grid_col": 11,
+      "grid_row": 8,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "CLINICIAN",
+      "priority": 1,
+      "row": 306
+    },
+    {
+      "answer": "CARE",
+      "borrowed": false,
+      "clue": "What a\n  new, serious health problem may need promptly.",
+      "direction": "across",
+      "grid_col": 10,
+      "grid_row": 15,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "CARE",
+      "priority": 2,
+      "row": 280
+    },
+    {
+      "answer": "SPEECH",
+      "borrowed": false,
+      "clue": "Talking\n  ability that may change around a functional episode.",
+      "direction": "across",
+      "grid_col": 7,
+      "grid_row": 8,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "SPEECH",
+      "priority": 2,
+      "row": 288
+    },
+    {
+      "answer": "RECORD",
+      "borrowed": false,
+      "clue": "A\n  written account that helps when details escape you.",
+      "direction": "down",
+      "grid_col": 9,
+      "grid_row": 7,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "RECORD",
+      "priority": 1,
+      "row": 291
+    },
+    {
+      "answer": "NOTE",
+      "borrowed": false,
+      "clue": "A few\n  written words that save your memory some work.",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 11,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "NOTE",
+      "priority": 2,
+      "row": 279
+    },
+    {
+      "answer": "CHANGE",
+      "borrowed": false,
+      "clue": "A\n  difference from your usual symptoms that may be worth mentioning.",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 6,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "CHANGE",
+      "priority": 2,
+      "row": 293
+    },
+    {
+      "answer": "DIAGNOSIS",
+      "borrowed": false,
+      "clue": "The\n  identification of a medical condition following clinical assessment.",
+      "direction": "down",
+      "grid_col": 7,
+      "grid_row": 0,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "DIAGNOSIS",
+      "priority": 2,
+      "row": 305
+    },
+    {
+      "answer": "CONSEQUENCE",
+      "borrowed": false,
+      "clue": "Something\n  that follows an episode, possibly including exhaustion.",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 4,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "CONSEQUENCE",
+      "priority": 2,
+      "row": 309
+    },
+    {
+      "answer": "HEALTH",
+      "borrowed": false,
+      "clue": "The\n  bigger picture that includes FND and other conditions.",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 3,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "HEALTH",
+      "priority": 2,
+      "row": 290
+    },
+    {
+      "answer": "WORDS",
+      "borrowed": false,
+      "clue": "Sometimes\n  the hardest things to find during a doctor's appointment.",
+      "direction": "across",
+      "grid_col": 4,
+      "grid_row": 0,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "WORDS",
+      "priority": 1,
+      "row": 287
+    },
+    {
+      "answer": "TIME",
+      "borrowed": false,
+      "clue": "What\n  gets muddled when two weeks ago feels like four months ago.",
+      "direction": "down",
+      "grid_col": 15,
+      "grid_row": 1,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "TIME",
+      "priority": 1,
+      "row": 282
+    },
+    {
+      "answer": "TRIGGER",
+      "borrowed": false,
+      "clue": "A\n  possible spark that increases the chance of symptoms.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 11,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "TRIGGER",
+      "priority": 2,
+      "row": 297
+    },
+    {
+      "answer": "COMORBIDITY",
+      "borrowed": false,
+      "clue": "Medical\n  term for a condition occurring alongside another condition.",
+      "direction": "down",
+      "grid_col": 3,
+      "grid_row": 2,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "COMORBIDITY",
+      "priority": 1,
+      "row": 308
+    },
+    {
+      "answer": "SLEEP",
+      "borrowed": false,
+      "clue": "A poor\n  night of this might come before a difficult day.",
+      "direction": "down",
+      "grid_col": 13,
+      "grid_row": 13,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "SLEEP",
+      "priority": 2,
+      "row": 284
+    },
+    {
+      "answer": "BRAIN",
+      "borrowed": false,
+      "clue": "Your\n  thinking headquarters, occasionally a little forgetful.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 8,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "BRAIN",
+      "priority": 1,
+      "row": 286
+    },
+    {
+      "answer": "MAP",
+      "borrowed": false,
+      "clue": "A small\n  guide to your health, rather than a hunt for buried treasure.",
+      "direction": "across",
+      "grid_col": 6,
+      "grid_row": 2,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "MAP",
+      "priority": 1,
+      "row": 276
+    },
+    {
+      "answer": "LEG",
+      "borrowed": false,
+      "clue": "Body\n  part that may experience functional weakness, below the hip.",
+      "direction": "across",
+      "grid_col": 13,
+      "grid_row": 14,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "LEG",
+      "priority": 2,
+      "row": 278
+    },
+    {
+      "answer": "RISK",
+      "borrowed": false,
+      "clue": "An\n  increased chance of something happening, rather than a certainty.",
+      "direction": "down",
+      "grid_col": 1,
+      "grid_row": 8,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "RISK",
+      "priority": 1,
+      "row": 283
+    },
+    {
+      "answer": "ASSESSMENT",
+      "borrowed": false,
+      "clue": "A\n  clinical evaluation to investigate or understand a symptom.",
+      "direction": "across",
+      "grid_col": 14,
+      "grid_row": 8,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "ASSESSMENT",
+      "priority": 1,
+      "row": 307
+    },
+    {
+      "answer": "EPISODE",
+      "borrowed": false,
+      "clue": "A period\n  when symptoms occur, rather than remaining continuously present.",
+      "direction": "down",
+      "grid_col": 17,
+      "grid_row": 8,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "EPISODE",
+      "priority": 1,
+      "row": 299
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "MEMORY",
+      "clue": "The\n  mental filing cabinet that sometimes misplaces dates.",
+      "row": 289
+    },
+    {
+      "answer": "FACTOR",
+      "clue": "A\n  possible influence, as in a risk or maintaining ___.",
+      "row": 292
+    },
+    {
+      "answer": "BEFORE",
+      "clue": "When a\n  possible trigger happens relative to an episode.",
+      "row": 295
+    },
+    {
+      "answer": "WARNING",
+      "clue": "Type of\n  sign that may suggest a familiar episode is beginning.",
+      "row": 298
+    },
+    {
+      "answer": "MAINTAINING",
+      "clue": "Type of\n  factor that may contribute to symptoms continuing.",
+      "row": 310
+    },
+    {
+      "answer": "FND",
+      "clue": "Three-letter\n  abbreviation for functional neurological disorder.",
+      "row": 277
+    },
+    {
+      "answer": "HELP",
+      "clue": "Assistance\n  when managing something alone gets difficult.",
+      "row": 281
+    },
+    {
+      "answer": "KNOWN",
+      "clue": "Describes\n  something already established, rather than still uncertain.",
+      "row": 285
+    },
+    {
+      "answer": "DOCTOR",
+      "clue": "A\n  medical professional you may visit for an appointment.",
+      "row": 294
+    },
+    {
+      "answer": "DURING",
+      "clue": "The\n  middle part of a sequence: before, ___, after.",
+      "row": 296
+    },
+    {
+      "answer": "PATTERN",
+      "clue": "Something\n  repeated that gives clues, but doesn't automatically prove a cause.",
+      "row": 300
+    },
+    {
+      "answer": "SYMPTOM",
+      "clue": "An\n  experienced health difficulty, such as weakness or dizziness.",
+      "row": 301
+    },
+    {
+      "answer": "MIGRAINE",
+      "clue": "A\n  neurological condition that can coexist with FND and cause head pain.",
+      "row": 302
+    },
+    {
+      "answer": "WEAKNESS",
+      "clue": "Reduced\n  strength that may sometimes be diagnosed as functional.",
+      "row": 303
+    },
+    {
+      "answer": "DIZZINESS",
+      "clue": "Feeling\n  lightheaded or unsteady, sometimes a new medical question.",
+      "row": 304
+    }
+  ]
+}

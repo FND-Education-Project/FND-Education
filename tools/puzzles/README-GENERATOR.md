@@ -68,8 +68,21 @@ want another session. You can also stop the terminal with Ctrl+C.
 
 ### Automatic session handoff (draft PR, never automatic merge)
 
-When you run `python crossword.py` from a **clean main branch**, the launcher
-creates a dedicated `crossword/session-...` branch before starting Streamlit.
+Run `python crossword.py` from clean main or a previously merged
+`crossword/session-...` branch. The launcher checks GitHub for open workshop
+PRs and verifies local session commits, fetches origin, and fast-forwards main
+before creating a new session branch. You do not need to pull manually each
+time. If launcher code changes during the update, it restarts with that code.
+
+Startup stops with an explanation if there are uncommitted files, an open
+workshop PR, unverified session commits, local-only main commits, missing Git
+or GitHub CLI, or a network/authentication failure. It never automatically
+stashes work, resets commits, or merges PRs. Review and merge an open workshop
+PR on GitHub, then run the command again. For unsaved or unpushed work, preserve
+it on its existing branch first. Other development branches remain untouched.
+
+To install this feature initially, merge its PR and run `git switch main`
+then `git pull --ff-only` once from a clean, stopped workshop.
 
 After you click **Save edits to workbook in Codespaces** and then **Exit workshop**,
 the launcher commits only modified or new `.xlsx` workbooks directly under

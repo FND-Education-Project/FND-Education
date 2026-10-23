@@ -36,7 +36,7 @@ Choose a collection, module and lesson. These optional activities offer a lighte
 
 [Crosswords](#crosswords) · [Colouring pages](#colouring-pages) · [Course](../../course/README.md)
 
-**Jump to a crossword:** [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Lesson 9](#physical-psychological-and-social-factors) · [Module 1 review](#module-1-review-crossword) · [Module 2 review](#module-2-review-crossword) · [Module 3 review](#module-3-review-crossword)
+**Jump to a crossword:** [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Lesson 9](#physical-psychological-and-social-factors) · [Lesson 10](#making-sense-of-your-symptoms) · [Module 1 review](#module-1-review-crossword) · [Module 2 review](#module-2-review-crossword) · [Module 3 review](#module-3-review-crossword)
 
 ## Crosswords
 
@@ -291,11 +291,33 @@ Choose a preview to open the PDF in a new tab or window. Normal and easy edition
 
 
 
+<span id="making-sense-of-your-symptoms"></span>
+
+### Lesson 10: Making Sense of Your Symptoms
+
+[Read the lesson](../../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md)
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-10" aria-label="Browse the Lesson 10 crossword"><img src="{{ '/assets/puzzles/thumbnails/making-sense-of-your-symptoms-m4-10-normal.svg' | relative_url }}" alt="Preview of the Lesson 10 crossword grid" loading="lazy" decoding="async"><span>Lesson 10 crossword</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 10 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-4-Lesson-10/making-sense-of-your-symptoms-m4-10-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy crossword PDF for Lesson 10 (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-4-Lesson-10/making-sense-of-your-symptoms-m4-10-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal crossword PDF for Lesson 10 (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-4-Lesson-10/making-sense-of-your-symptoms-m4-10-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key crossword PDF for Lesson 10 (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
 ## Colouring pages
 
 Choose a preview to open the printable PDF. Select landscape orientation and fit to page when printing.
 
 <div class="puzzle-grid puzzle-grid-colouring">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-10-coloring-book.pdf' | relative_url }}"><img src="{{ '/assets/puzzles/colouring/lesson-10-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async"><span>Lesson 10 colouring page <small>PDF</small></span></a>
+
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-4-coloring-book.pdf' | relative_url }}"><img src="{{ '/assets/puzzles/colouring/lesson-4-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async"><span>Lesson 4 colouring page <small>PDF</small></span></a>
+
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-1-coloring-book.pdf' | relative_url }}">
   <img src="{{ '/assets/puzzles/colouring/lesson-1-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async">
   <span>Lesson 1: Attention, prediction and internal cues <small>PDF</small></span>
@@ -339,6 +361,10 @@ The whole-person colouring page accompanies [Lesson 6: Tests, Diagnostic Uncerta
 The research-themed colouring page accompanies [Lesson 7: Causes, Risk Factors, Triggers, and Maintaining Factors](../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md).
 
 The brain-network colouring page accompanies [Lesson 8: Brain Networks, Prediction, Attention, and Agency](../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md).
+
+[Read Lesson 4](../../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md)
+
+[Read Lesson 10](../../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md)
 
 [Back to puzzle navigation](#puzzle-navigation) · [Browse the course](../../course/README.md)
 
