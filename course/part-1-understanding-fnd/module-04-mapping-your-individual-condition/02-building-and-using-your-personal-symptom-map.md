@@ -4,7 +4,7 @@
 
 # Building and Using Your Personal Symptom Map
 
-> **Working draft:** The person-with-FND section was revised with the project lead. Other audience sections and research need the normal editorial and clinical audits.
+> **Working draft:** Lesson 11 content and quotation options reviewed for continuity across all three audiences; human editorial selection, both audits and clinical review remain pending.
 
 In [Lesson 10](01-build-and-use-your-personal-symptom-map.md), we began sorting our health story into known diagnoses and open questions. Now let's make a short map that also shows what helps and what remains possible.
 
@@ -20,13 +20,11 @@ In [Lesson 10](01-build-and-use-your-personal-symptom-map.md), we began sorting 
 
 ### Remember what remains possible, too
 
-In [Lesson 10](01-build-and-use-your-personal-symptom-map.md), we began sorting out diagnosed symptoms, other health conditions and unanswered questions.
+A symptom map can show more than the difficulties you're dealing with. It can also make room for the things that help you participate in daily life.
 
-Now let's think about what your map can say about daily life.
+Some activities feel different depending on the surroundings, the support available or how your symptoms are behaving that day.
 
-When symptoms are difficult, it's natural for much of our attention to go toward the things we're struggling with.
-
-Your map can also record the things that work better.
+Those differences can give you useful information.
 
 Perhaps speaking is easier in a quiet room.
 
@@ -40,17 +38,37 @@ These details can help show where useful adjustments or treatment might begin.
 
 And an ability that comes and goes is still a real ability, just as the difficulty is real when it happens. Changes in what you can do are a recognized part of how some FND symptoms appear. (*citations* [1](#citation-1), [5](#citation-5))
 
-One community member described noticing a possible connection between sound overload and symptoms they experienced after eating. They wrote:
+### Community voices — quotation choices for editorial review
+
+People in the FND community describe many different ways of making daily life more manageable. These are **three possible quotations** for this lesson. They are personal experiences, rather than evidence that an approach will work for everyone.
+
+**Option A — An aid can make participation possible**
+
+> “My mobility aids have been incredibly helpful and enable me to live life more fully.”
+
+[Read the community post](https://www.reddit.com/r/FND/comments/106utzh/advice_needed_considering_using_mobility_aid_for/).
+
+This example keeps the focus on daily activities rather than measuring progress only by symptom reduction.
+
+**Option B — Sometimes remembering takes support**
+
+> “Currently I can barely take care of myself ... My partner has to remind me.”
+
+[Read the community post](https://www.reddit.com/r/FND/comments/13rzn9o/memory_issues/).
+
+This person describes how difficult remembering everyday tasks can become. Written notes, reminders or a chosen helper may be useful, depending on the person's situation. Many people also manage without a supporter.
+
+**Option C — A possible environmental adjustment**
 
 > “I was able to figure out that my post-eating issues were actually auditory sensory overload ... and really cut those specific symptoms down by using ear plugs.”
 
-[Read their community post](https://www.reddit.com/r/FND/comments/1nk6chc/choking/).
+[Read the community post](https://www.reddit.com/r/FND/comments/1nk6chc/choking/).
 
-That's one person's experience, rather than an explanation that will fit everyone.
+This describes one person's interpretation and experience. Because it concerns symptoms after eating, possible swallowing difficulties still call for appropriate safety assessment rather than assuming sensory overload explains them.
 
-It shows how noticing something about our surroundings might lead to a useful adjustment. Symptoms involving choking or swallowing also deserve medical assessment so that swallowing safety is properly considered.
+*Editorial note: Select the quotation or quotations that best fit this lesson. Their wording and context should be checked against the original public posts before publication.*
 
-Sometimes a helpful change begins with a small observation.
+Each option points to the same lesson: **a map can make room for what helps, while keeping medical questions open when needed.**
 
 ### Building your own map
 
@@ -61,7 +79,7 @@ You can begin with four short lines.
 Imagine writing:
 
 - **My diagnosed conditions:** Functional leg weakness and migraine.
-- **My unanswered question:** New dizziness — needs assessment.
+- **My unanswered question:** New dizziness — ask a clinician when and how it should be assessed.
 - **My safety needs:** A walking aid and a plan for getting help when needed.
 - **What helps:** Quieter surroundings, written reminders and rest between demanding activities.
 
@@ -121,7 +139,7 @@ A helpful strategy can be added when you discover it.
 
 A safety plan can be updated when your needs change.
 
-If a symptom is new, severe or substantially different, appropriate medical assessment comes first. The map can help you describe the change and the timing, alongside the care you receive.
+A sudden, severe or substantially different symptom may call for timely medical advice, and urgent warning signs need emergency assessment. A map helps describe what has changed and can support an agreed care plan. It doesn't replace medical assessment.
 
 You can also make the map easier to create.
 
@@ -129,7 +147,7 @@ Perhaps someone you trust could write while you explain what you want included. 
 
 If concentrating on symptoms starts to feel overwhelming, a shorter version or a break from tracking may serve you better.
 
-The map belongs to you. It can be as simple as you need.
+The map belongs to you. It can be as simple as you need, and you decide whom to share it with. A supporter can help if you want one, but you can also make and use the map on your own.
 
 ### Something to think about
 
@@ -163,43 +181,41 @@ You can build on it whenever it would be useful.
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-### A clearer story can make care easier
+### A useful map should lighten the load
 
-Imagine trying to explain several health problems during a short appointment. You may need to remember when something started, how it changed, which clinician diagnosed it and what has happened since. That can be difficult, especially when speech, thinking, fatigue or other symptoms add to the effort.
+Remembering dates, diagnoses and changes can make a short appointment surprisingly demanding. For someone who experiences fatigue, speech or cognitive difficulties, reconstructing the whole story may use energy they need for the conversation itself.
 
-A short map can take some of that work off the person's shoulders. You might offer to write down the information they choose, or bring their notes to an appointment if they'd like you to.
+A one-page map can hold a few important facts in one place. The person with FND decides what goes on it and who gets to see it.
 
-A gentle starting question is: *“What's the most important thing you'd like the care team to understand?”*
+Some people appreciate a supporter who can write while they talk, help find a date or bring notes to an appointment. Others prefer to manage their information independently. Both approaches can work.
 
-### Observation is different from explanation
+A friendly question might be: *“Which part would you like help with, if any?”*
 
-Sometimes you notice details the person may have difficulty seeing or remembering, such as what an episode looked like from the outside or how long recovery took. These observations can be useful when shared with permission.
+### Include more than symptoms
 
-For example, *“Their speech changed before the episode”* describes what you saw. Whether that change was part of the episode is a clinical question.
+A map can record what makes daily life possible, too.
 
-Keeping observations separate from possible explanations helps everyone work with clearer information. The person's own experience matters, including things that others can't observe.
+A quieter room may help someone speak. Written instructions may make a task easier to follow. Another person might use a mobility aid to visit places that matter to them.
 
-A new, severe or substantially changed symptom deserves appropriate medical assessment even when someone has lived with FND for a long time. The map can make it easier to explain what has changed.
+The detail is useful because it connects a difficulty with something practical that may improve access or participation. It can give the person and their care team a starting point for discussing supports.
 
-### What helps belongs on the map
+### What another person can add
 
-A person's health story includes things they can do, activities they enjoy and adjustments that make daily life easier. The map can keep those strengths visible alongside symptoms and safety needs.
+In Lesson 10, we separated observations from explanations. Here, the next question is whether an observation is worth including in the map.
 
-Maybe an activity is easier with different lighting, a walking aid, written reminders or a quieter space. Recording what helps can give the person and their care team useful ideas for planning.
+Someone who witnessed a familiar episode might remember the date, what they actually saw or how long recovery appeared to take. When the person wants that information recorded, it can help make the account more complete.
 
-A question such as *“Which change would make that activity a little more manageable?”* can be a friendly place to start.
+A supporter's view adds another perspective; it doesn't replace what the person experienced or establish why the episode occurred.
 
-### Choose a purpose for tracking
+### Give tracking a purpose
 
-Brief notes can help answer a specific question about an appointment, activity or adjustment. Perhaps you're wondering if an accessibility change has made something easier.
+Imagine wondering whether changing the appointment environment would make visits less exhausting.
 
-Together, you might decide what to note and when to look at the information again.
+A few short notes about what changed and how the visit went might help answer that question. That may be enough. The aim is to learn something useful, rather than turn everyday life into a never-ending symptom survey.
 
-Constant watching or repeated symptom-checking can make daily life feel like a test that never ends. A smaller record, with a clear purpose, leaves more room for the rest of life.
+Information can be reviewed together and then set aside when it has served its purpose.
 
-The person gets to decide what goes on their map, whom to share it with and when it needs updating. You can help organize it if that support is welcome.
-
-When diagnoses, treatment plans or safety needs change, the map can change too. Medical assessment remains the right next step for new or substantially different symptoms.
+As needs change, a map can be updated. An urgent or substantially different health problem still deserves care appropriate to its seriousness; the map is there to support communication, not to decide a diagnosis.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -210,43 +226,55 @@ When diagnoses, treatment plans or safety needs change, the map can change too. 
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Preserve the clinical reasoning
+### Carry the reasoning forward
 
-Lesson 10 distinguished what was positively diagnosed, what belonged to another condition and what still required assessment. The personal symptom map gives that reasoning a place to remain accessible after the appointment.
+Lesson 10 established the importance of positive diagnostic evidence and of keeping coexisting conditions and unresolved symptoms distinct. The practical question now is how that reasoning can remain understandable and useful between encounters.
 
-A useful summary can name the confirmed functional presentation and the positive findings that supported it, alongside coexisting diagnoses and unresolved questions. It can also describe what would prompt reconsideration of the formulation. This is more informative than recording “FND” against every symptom. (*citations* [1](#citation-1), [4](#citation-4))
+A brief map can distinguish the specific functional phenomena that have been positively diagnosed, coexisting diagnoses, questions still under assessment and relevant safety considerations. The evidence supporting one presentation should remain attached to that presentation, rather than becoming an explanation for every later symptom. (*citations* [1](#citation-1), [4](#citation-4))
 
-Such a summary can reduce the burden of repeatedly reconstructing a complex history, especially when fatigue, speech or memory difficulties make appointments demanding. It remains a communication tool rather than a diagnostic instrument.
+The map is a shared communication aid. It has no validated role as a diagnostic test, and clinical assessment remains necessary when new findings change the picture.
 
-### Include available abilities and participation
+### Show what remains possible
 
-The clinical picture also includes what the person can do under particular conditions.
+Describing retained or intermittently accessible abilities can help connect the clinical formulation with practical care.
 
-A task may become more manageable with an adaptation, a familiar movement pattern or environmental support. That variation can guide rehabilitation planning without implying that the harder version of the task is voluntary. The individual's symptoms, safety needs and recovery costs remain part of the picture. (*citations* [2](#citation-2), [5](#citation-5))
+For example, a task may become easier with a particular movement strategy, support or change in surroundings. That observation may guide individualized rehabilitation or accessibility planning while preserving the reality of disability when symptoms are more severe. (*citations* [2](#citation-2), [5](#citation-5))
 
-One qualitative study of FND outcome measurement emphasized the value of the patient's experience:
+A meaningful outcome might be better access to a valued activity, more reliable communication or a safer way to manage a demanding task. Symptom reduction is one possible outcome among several.
+
+### Clinician and research quotations — choices for editorial review
+
+**Option A — The patient's experience matters**
 
 > “all believed that the patient’s subjective experience should be central.”
 
-*Research quotation retained for verification during the evidence audit.* (*citation* [3](#citation-3))
+— Rutten et al. (2025), a qualitative study involving patients, caregivers and healthcare professionals. (*citation* [3](#citation-3))
 
-### Give tracking a clinical purpose
+**Option B — Rehabilitation belongs in everyday activity**
 
-A diary or measure becomes useful when it can answer a specific care question.
+> “rehabilitation within functional activity ... [is] central”
 
-For example, brief information about symptoms and recovery around appointments may help evaluate a change to the waiting environment or visit format. A patient report, objective finding or consent-based account from a supporter can each contribute different information.
+— Nicholson et al. (2020), occupational therapy consensus recommendations. (*citation* [2](#citation-2))
 
-The value comes from linking those observations to a decision, while recognizing variable symptoms, recall limitations and the risk of reading causation into a short sequence. A planned review point helps keep tracking proportionate. (*citations* [3](#citation-3), [6](#citation-6))
+*Editorial note: These are source-attributed excerpts previously collected in the project. Verify exact wording and context in the original publications during the evidence audit before choosing one for publication.*
 
-### Make follow-up workable
+### Track only what could guide a decision
 
-The map can include agreed safety information, changes that call for reassessment and practical routes to care.
+A diary, patient-reported measure, examination finding or observation from a chosen supporter may help when it answers a defined question.
 
-For a person who finds travel or clinical environments particularly symptom-provoking, the follow-up arrangement itself can influence whether care is accessible. Written communication, a telephone appointment or other adjustments may allow a question to be addressed with less added burden when an in-person examination is not clinically necessary.
+For example, a short record of recovery after appointments might clarify whether an accessibility adjustment is useful. The value lies in how the observation informs a decision, not in the sheer number of entries.
 
-A clear arrangement also distinguishes routine follow-up from situations where timely or emergency assessment matters. The purpose is to make the clinical reasoning usable between appointments, while allowing the plan to change when new findings or diagnoses emerge. (*citations* [1](#citation-1), [2](#citation-2))
+A person with cognitive symptoms may find extensive record-keeping especially demanding. Variability, recall limitations and the risk of mistaking association for causation also affect interpretation. A review point can keep tracking proportionate and responsive to the patient's preferences. (*citations* [3](#citation-3), [6](#citation-6))
 
-Progress can include better participation, comfort, safety or quality of life even when symptoms remain significant. These outcomes deserve a place on the map alongside treatment changes. (*citations* [2](#citation-2), [3](#citation-3), [6](#citation-6))
+### Plan for care the person can reach
+
+The map can record agreed safety information, meaningful goals and the practical route for addressing future concerns.
+
+When travel, waiting, sensory stimulation or communication difficulties add substantial burden, a written summary or remote discussion may sometimes answer a question without an in-person visit. Other changes still require timely examination or emergency assessment. The clinical rationale for that distinction belongs in the care plan. (*citations* [1](#citation-1), [2](#citation-2))
+
+People with FND may attend alone or with a supporter of their choosing. The patient's perspective and consent remain central in either case.
+
+Updating this concise record when relevant findings, diagnoses or circumstances change helps preserve continuity without making the map another task the patient must perform perfectly.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -264,7 +292,7 @@ Progress can include better participation, comfort, safety or quality of life ev
 
 ### What this evidence can and cannot establish
 
-Occupational-therapy and physiotherapy consensus guidance discusses variable function, meaningful activity and individualized care. Qualitative and systematic outcome studies highlight patients' experiences and limitations of individual measures. None validates the one-page symptom map as a diagnostic or treatment instrument. The community experience illustrates a possible adjustment for one person and does not establish the cause of another person's symptoms. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [5](#citation-5), [6](#citation-6))
+Occupational-therapy and physiotherapy consensus guidance discusses variable function, meaningful activity and individualized care. Qualitative and systematic outcome studies highlight patients' experiences and the limitations of individual measures. These sources support thoughtful communication and care planning; they do not validate this course's one-page map as a diagnostic or treatment tool. Community quotations represent individual experiences, not evidence that an aid, reminder or other strategy will work for everyone. All quotation candidates need verification against their original sources before editorial selection. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [5](#citation-5), [6](#citation-6))
 
 ### Citation table
 
@@ -277,7 +305,7 @@ Occupational-therapy and physiotherapy consensus guidance discusses variable fun
 | <a id="citation-5"></a>**[5]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
 | <a id="citation-6"></a>**[6]** | — | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
 
-This page still needs review by people with FND, supporters and clinicians, including review of whether the map is practical without increasing monitoring burden.
+All three audience sections have undergone a preliminary consistency review. Community and research quotations are presented as editorial options; the project's human review, source verification, two audits and independent clinical review remain pending.
 
 *Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*
 
