@@ -47,7 +47,7 @@ If the plan repeatedly feels impossible to use, that is information. Ask for a r
 
 ### Community experiences for review
 
-These accounts show that episodes can affect both recovery time and daily relationships. They are lived experience, not emergency rules.
+These three accounts describe recovery, interrupted daily life and planning ahead with another person. They are lived experiences, not emergency rules or evidence of universal triggers.
 
 **Option 1 — recovery can continue after movement stops**
 
@@ -60,6 +60,12 @@ These accounts show that episodes can affect both recovery time and daily relati
 > “Sometimes I get stressed and have a seizure and our conversation sort of ends, is interrupted.”
 
 — The writer described the effect of episodes during difficult conversations. [Read the public source](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/).
+
+**Option 3 — preparing together in a calm moment**
+
+> “One thing that really helps us is discussing ground rules for conflict when we’re not actively IN it.”
+
+— A supporter described making communication agreements ahead of time. This illustrates collaborative preparation, rather than a clinical emergency protocol. [Read the public source](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/).
 
 ### Questions
 
