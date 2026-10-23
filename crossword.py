@@ -21,7 +21,7 @@ import time
 from urllib.error import URLError
 from urllib.request import urlopen
 
-from tools.puzzles.workshop_git import start_session, finish_session
+from tools.puzzles.workshop_git import start_session, finish_session, prepare_startup
 
 
 ROOT = Path(__file__).resolve().parent
@@ -105,6 +105,13 @@ def main() -> int:
         show_open_instructions()
         return 0
     try:
+        # Refresh before installing dependencies or loading the workbook.
+        # Re-execute once if Git changed HEAD so imports use the updated code.
+        if os.environ.pop("FND_CROSSWORD_STARTUP_VERIFIED", "") != "1":
+            if prepare_startup(ROOT):
+                environment = dict(os.environ, FND_CROSSWORD_STARTUP_VERIFIED="1")
+                os.execve(sys.executable, [sys.executable, str(ROOT / "crossword.py")],
+                          environment)
         python = install_if_needed()
     except (subprocess.CalledProcessError, OSError, RuntimeError) as error:
         print(f"Could not prepare the crossword workshop: {error}", file=sys.stderr)
@@ -121,6 +128,9 @@ def main() -> int:
         "--browser.gatherUsageStats", "false",
     ]
     session_branch = start_session(ROOT)
+    if session_branch is None:
+        print("Could not create a safe session. Workshop startup stopped.", file=sys.stderr)
+        return 1
     print("Starting the private Python crossword workshop…", flush=True)
     try:
         process = subprocess.Popen(command, cwd=ROOT)

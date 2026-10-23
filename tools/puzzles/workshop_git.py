@@ -7,6 +7,7 @@ from __future__ import annotations
 
 from datetime import datetime, timezone
 from pathlib import Path
+import json
 import shutil
 import subprocess
 
@@ -19,6 +20,100 @@ def _git(root: Path, *args: str) -> subprocess.CompletedProcess[str]:
 
 def _warn(message: str) -> None:
     print(f"[Crossword Git handoff] {message}", flush=True)
+
+
+
+def prepare_startup(root: Path) -> bool:
+    """Refresh clean main only after proving saved sessions are incorporated.
+
+    Fail closed: never stash, reset, delete branches, merge a PR, or launch an
+    older workbook after a failed check. Return whether HEAD changed so the
+    launcher can restart with any newly downloaded Python code.
+    """
+    def run(*args: str) -> str:
+        """Bound network waits and keep commands out of the shell."""
+        result = subprocess.run(
+            list(args), cwd=root, text=True, capture_output=True, check=False,
+            timeout=45,
+        )
+        if result.returncode:
+            raise RuntimeError(
+                f"{args[0]} {args[1]} failed. Check connectivity/authentication "
+                "and retry; your local work has been preserved."
+            )
+        return result.stdout.strip()
+
+    def prs(*args: str) -> list[dict]:
+        """Ask GitHub directly; cached remote refs cannot establish PR state."""
+        result = json.loads(run(
+            "gh", "pr", "list", "--base", "main", *args, "--limit", "1000",
+            "--json", "state,headRefName,headRefOid,url",
+        ))
+        if not isinstance(result, list) or len(result) >= 1000:
+            raise RuntimeError("Could not fully verify workshop PRs. Review them on GitHub.")
+        return result
+
+    try:
+        if not shutil.which("git") or not shutil.which("gh"):
+            raise RuntimeError("Git and GitHub CLI (gh) are required for safe startup.")
+        if run("git", "status", "--porcelain", "--untracked-files=all"):
+            raise RuntimeError(
+                "Uncommitted files need attention. Save/commit them on their "
+                "existing branch before retrying. No files were changed."
+            )
+        current = run("git", "branch", "--show-current")
+        if current != "main" and not current.startswith("crossword/session-"):
+            raise RuntimeError(
+                "Start on main or a crossword/session branch. "
+                "Your current branch has been left untouched."
+            )
+        before = run("git", "rev-parse", "HEAD")
+        _warn("Checking GitHub for the latest workbook and unfinished sessions…")
+        run("git", "fetch", "origin")
+        # Check remote open sessions even when this checkout is already on main.
+        for pr in prs("--state", "open"):
+            if pr["headRefName"].startswith("crossword/session-"):
+                raise RuntimeError(
+                    "A workshop PR is still open: " + pr["url"]
+                    + " . Review and merge it before starting a new session."
+                )
+
+        # Squash merges have different commit IDs. Accept a merged PR only
+        # when its exact head matches the local branch, preserving later edits.
+        branches = run(
+            "git", "for-each-ref", "--format=%(refname:short)",
+            "refs/heads/crossword/session-*",
+        ).splitlines()
+        for branch in branches:
+            ancestor = subprocess.run(
+                ["git", "merge-base", "--is-ancestor", branch, "origin/main"],
+                cwd=root, capture_output=True, check=False, timeout=45,
+            )
+            if ancestor.returncode == 0:
+                continue
+            if ancestor.returncode != 1:
+                raise RuntimeError("Could not verify saved session " + branch)
+            head = run("git", "rev-parse", branch)
+            if not any(p["state"] == "MERGED" and p["headRefOid"] == head
+                       for p in prs("--state", "all", "--head", branch)):
+                raise RuntimeError(
+                    "Saved session needs review: " + branch
+                    + ". Its latest commit is not verified as merged. "
+                    "Open its PR or recover its workbook before continuing."
+                )
+
+        # Require local main to be an ancestor, not merely fast-forwardable:
+        # local-only commits must also receive human review.
+        run("git", "merge-base", "--is-ancestor", "main", "origin/main")
+        run("git", "switch", "main")
+        run("git", "merge", "--ff-only", "origin/main")
+        _warn("Main is up to date. Starting from the latest merged workbook.")
+        return before != run("git", "rev-parse", "HEAD")
+    except (OSError, subprocess.TimeoutExpired, ValueError, KeyError, TypeError) as exc:
+        raise RuntimeError(
+            "Could not verify startup safely. Check GitHub access and retry. "
+            "The workshop has not opened."
+        ) from exc
 
 
 def start_session(root: Path) -> str | None:
