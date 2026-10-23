@@ -263,9 +263,27 @@ The map can change as life changes. It helps carry familiar information between 
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
+### A patient-owned map, built with clinical support
+
+The personal symptom map introduced in this course is a **short, patient-owned guide** to the information someone wants available when discussing their health.
+
+The person with FND chooses whether to make one, what belongs on it and whom to share it with. They might put it together independently, ask a supporter for help or work on it with a clinician.
+
+The clinician's contribution is particularly valuable where medical details need precision. A brief written explanation can identify the positively diagnosed functional presentation, its supporting findings and any questions that still need clinical assessment. The person can then decide how much of that explanation belongs in their map.
+
+In practice, a map might hold:
+
+- **Diagnosed FND symptoms:** the specific presentation, with a reference to the supporting clinical findings.
+- **Other health conditions:** established diagnoses recorded separately.
+- **Questions still open:** new or uncertain symptoms and the agreed next step.
+- **Abilities and helpful adjustments:** what the person can do, what makes participation easier and what matters to them.
+- **Safety and follow-up:** agreed warning signs, practical arrangements and routes to care.
+
+These are starting points rather than required fields. A few useful lines may be enough, especially when writing or remembering is demanding.
+
 ### Make the clinical reasoning available
 
-Lesson 10 distinguished a positively diagnosed functional presentation from coexisting conditions and questions that still need assessment. Lesson 11 asks what would make that reasoning useful at the next appointment.
+Lesson 10 distinguished a positively diagnosed functional presentation from coexisting conditions and questions that still need assessment. Here, the aim is to preserve that reasoning in a form the person can carry into the next appointment.
 
 Consider someone with functional leg weakness, diagnosed migraine and new dizziness.
 
@@ -275,7 +293,7 @@ A short personal map can preserve those distinctions and point to the relevant c
 
 The benefit is continuity: a future clinician can see **which conclusion is supported, what supports it and which question remains open**. That allows new or changing symptoms to receive an assessment proportionate to their presentation, while established findings remain available for care planning. (*citations* [1](#citation-1), [4](#citation-4))
 
-The map is a communication aid developed for this course. Clinical examination, diagnostic reasoning and appropriate investigation remain the basis of medical conclusions.
+This course proposes a communication format. Clinical examination, diagnostic reasoning and appropriate investigation continue to provide the basis for medical conclusions.
 
 ### Connect the formulation to daily life
 
@@ -301,6 +319,14 @@ A brief account of what was tried, how manageable the visit felt and what recove
 
 The patient's report is central. Examination findings and observations from a supporter chosen by the patient can add different kinds of information when relevant.
 
+*(In a 2025 qualitative study of FND outcome measurement, Rutten and colleagues explored the views of patients, caregivers and healthcare professionals. The researchers reported:)*
+
+> “all believed that the patient’s subjective experience should be central.”
+
+— Rutten et al. (2025). (*citation* [3](#citation-3))
+
+This places the person's account of meaningful change alongside clinical observations when planning or evaluating care.
+
 There is also a limit to what a short record can establish. Symptoms may vary between days, recall can be difficult, and understanding why an adjustment was followed by improvement still takes clinical judgment.
 
 Qualitative and systematic work on FND outcome measurement supports listening to the patient's priorities and interpreting measures in context. Validation of this course's one-page map, or evidence that intensive daily tracking improves care, would require separate studies. (*citations* [3](#citation-3), [6](#citation-6))
@@ -323,21 +349,7 @@ At the same time, a sustainable plan considers the supporter's capacity. The cli
 
 A useful map carries forward the **reasoning, practical adjustments and next decisions**. It becomes easier to update as diagnoses, abilities or circumstances change.
 
-### Research quotations — choices for editorial review
-
-**Option A — Centre the person's own experience**
-
-> “all believed that the patient’s subjective experience should be central.”
-
-— Rutten et al. (2025), qualitative research on FND outcome measurement involving patients, caregivers and healthcare professionals. (*citation* [3](#citation-3))
-
-**Option B — Connect rehabilitation with everyday activity**
-
-> “rehabilitation within functional activity ... [is] central”
-
-— Nicholson et al. (2020), occupational therapy consensus recommendations for FND. (*citation* [2](#citation-2))
-
-*Editorial note: Both excerpts are retained from the project's existing research package. Exact wording and context require verification against the original publications during the evidence audit before the project lead selects a quotation.*
+*Source-review note: The selected Rutten et al. excerpt is retained from the project's existing research package. Exact wording and surrounding context still require verification against the original publication during the evidence audit.*
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -355,7 +367,7 @@ A useful map carries forward the **reasoning, practical adjustments and next dec
 
 ### What this evidence can and cannot establish
 
-Occupational-therapy and physiotherapy consensus guidance discusses variable function, meaningful activity and individualized care. Qualitative and systematic outcome studies highlight patients' experiences and the limitations of individual measures. These sources support thoughtful communication and care planning; they do not validate this course's one-page map as a diagnostic or treatment tool. Community quotations represent individual experiences, not evidence that an aid, reminder or other strategy will work for everyone. The three selected community excerpts need verification against their original public posts during the evidence audit, and the clinician quotations remain editorial options until their original wording and context are checked. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [5](#citation-5), [6](#citation-6))
+Occupational-therapy and physiotherapy consensus guidance discusses variable function, meaningful activity and individualized care. Qualitative and systematic outcome studies highlight patients' experiences and the limitations of individual measures. These sources support thoughtful communication and care planning; they do not validate this course's one-page map as a diagnostic or treatment tool. Community quotations represent individual experiences, not evidence that an aid, reminder or other strategy will work for everyone. The three selected community excerpts need verification against their original public posts during the evidence audit, and the selected Rutten et al. clinician-research excerpt awaits original-wording and context verification. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [5](#citation-5), [6](#citation-6))
 
 ### Citation table
 
@@ -368,7 +380,7 @@ Occupational-therapy and physiotherapy consensus guidance discusses variable fun
 | <a id="citation-5"></a>**[5]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
 | <a id="citation-6"></a>**[6]** | — | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
 
-The person-with-FND section is human-authored with AI assistance and approved by the project lead. Its three community quotations remain individual experiences requiring verification against the original posts. Supporter and clinician sections remain open for human editorial review, and two clinician research quotation options await selection and source verification. The project's two audits and independent clinical review are pending.
+The person-with-FND section is human-authored with AI assistance and approved by the project lead. Its three community quotations remain individual experiences requiring verification against the original posts. Supporter and clinician sections remain open for human editorial review, and the selected Rutten et al. quotation awaits source verification. The project's two audits and independent clinical review are pending.
 
 *Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*
 
