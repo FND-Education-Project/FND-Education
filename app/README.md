@@ -8,16 +8,16 @@ This spike tests the **Activity Room interaction engine**, not a complete app. I
 
 From the repository root (Node.js 20+ required):
 
-\`\`\`sh
+```sh
 cd app
 npm test
 npm run build
 python -m http.server 4173 --directory dist
-\`\`\`
+```
 
 Then open **http://localhost:4173/** in your browser. Close the server with Ctrl+C. For mobile-browser testing, use an HTTPS preview you explicitly authorize; this PR deliberately does not deploy a test site or change DNS.
 
-**The builder copies an existing file**: \`assets/images/available-capacity.png\` -> \`app/dist/assets/scene.png\`, solely as temporary scenery. It is not a designed room background and is never committed twice. Three already-coloured emoji cards stand in for future PNG sprites; these are deliberately disposable art placeholders.
+**The builder copies an existing file**: `assets/images/available-capacity.png` -> `app/dist/assets/scene.png`, solely as temporary scenery. It is not a designed room background and is never committed twice. Three already-coloured emoji cards stand in for future PNG sprites; these are deliberately disposable art placeholders.
 
 The installable-PWA manifest and service worker cache a small fixed static shell for offline revisit on supported secure contexts (including localhost). Some browsers require a suitable raster PNG icon to offer full installability; adding production icons is not part of Stage 0.
 
@@ -35,13 +35,13 @@ The installable-PWA manifest and service worker cache a small fixed static shell
 
 ## Project structure
 
-- \`src/scene-model.mjs\`: pure world-coordinate, clipping, stacking and zoom functions (unit-tested).
-- \`src/storage.mjs\`: transactional IndexedDB \`rooms\` store (version 1).
-- \`src/app.mjs\`: accessible shell interactions, pointer handling, scene/list parity, undo and persistence.
-- \`styles.css\`: theme-aware responsive UI and scene viewport.
-- \`sw.js\`, \`manifest.webmanifest\`, \`icon.svg\`: minimal offline-first app shell.
-- \`scripts/build.mjs\`: dependency-free static build, copying one repository PNG.
-- \`tests/\`: Node-native geometry and data-integrity tests. Automated real-mobile browser acceptance is still pending.
+- `src/scene-model.mjs`: pure world-coordinate, clipping, stacking and zoom functions (unit-tested).
+- `src/storage.mjs`: transactional IndexedDB `rooms` store (version 1).
+- `src/app.mjs`: accessible shell interactions, pointer handling, scene/list parity, undo and persistence.
+- `styles.css`: theme-aware responsive UI and scene viewport.
+- `sw.js`, `manifest.webmanifest`, `icon.svg`: minimal offline-first app shell.
+- `scripts/build.mjs`: dependency-free static build, copying one repository PNG.
+- `tests/`: Node-native geometry and data-integrity tests. Automated real-mobile browser acceptance is still pending.
 
 ## Privacy and limitations
 
@@ -50,7 +50,7 @@ The installable-PWA manifest and service worker cache a small fixed static shell
 - Clearing site data, removing the app, or some storage policies may erase rooms. There is **no export/backup** yet; do not rely on this as a permanent record.
 - App account authentication, account deletion integration, reminders and notifications are intentionally **not implemented**.
 - Touch/pinch zoom, full screen-reader testing, keyboard focus retention, persistence across tabs, database failure scenarios, and PWA installation across iOS/Android need manual validation before a public preview.
-- The CSP is specified in HTML for development, but \`frame-ancestors\` and other HTTP header protections need an appropriate production host. Hosting and TLS choices remain open.
+- The CSP is specified in HTML for development, but `frame-ancestors` and other HTTP header protections need an appropriate production host. Hosting and TLS choices remain open.
 - Stage 0 uses native ES modules without Vite or third-party dependencies to isolate interaction correctness. A full TypeScript/build stack may be chosen after these mechanics pass QA.
 
 ## Next steps (separate PRs)
