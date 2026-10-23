@@ -50,3 +50,9 @@ Module 4 has two focused lessons, Lessons 10 and 11. Lesson 11 continues to Modu
 - A rendered website desktop/mobile and keyboard pass remains pending. Shared responsive styles and generated HTML source were checked; this does not establish final viewport appearance.
 
 **Editorial Audit 2 complete. Ready for Robert's review; independent clinical review and rendered website inspection remain pending. PR remains draft and unmerged.**
+
+## Follow-up: Lesson 11 crossword upload
+
+Uploaded PR #183 supplies the normal, easy and answer-key PDFs and source report. These are now linked at the end of Lesson 11's person section and in the puzzle catalog/fallback collection. A single SVG thumbnail follows the source report's 24 placed answers, with crossing letters checked. All PDFs open in a new tab/window. The earlier placeholder finding above describes the original audit state and is now resolved for the crossword.
+
+The normal PDF was rendered and shows the same uneven text spacing noted in Lesson 10. Original uploaded files remain unchanged. Source validation passed for all 429 routes; no teaching prose changed in this follow-up.

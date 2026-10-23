@@ -170,6 +170,21 @@ Write down one diagnosed condition, one question you'd like to ask and one thing
 That's enough for a first version. Add to it whenever it helps you.
 
 **Your health story is much bigger than a page of notes. The map simply helps you carry the important pieces when you need them.**
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-11" aria-label="Browse the Lesson 11 crossword"><img src="{{ '/assets/puzzles/thumbnails/building-and-using-your-symptom-map-m4-11-normal.svg' | relative_url }}" alt="Preview of the Lesson 11 crossword grid" loading="lazy" decoding="async"><span>Lesson 11 crossword</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 11 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-4-Lesson-11/building-and-using-your-symptom-map-m4-11-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy crossword PDF for Lesson 11 (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-4-Lesson-11/building-and-using-your-symptom-map-m4-11-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal crossword PDF for Lesson 11 (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-4-Lesson-11/building-and-using-your-symptom-map-m4-11-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key crossword PDF for Lesson 11 (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>

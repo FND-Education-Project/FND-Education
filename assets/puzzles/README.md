@@ -36,7 +36,7 @@ Choose a collection, module and lesson. These optional activities offer a lighte
 
 [Crosswords](#crosswords) · [Colouring pages](#colouring-pages) · [Course](../../course/README.md)
 
-**Jump to a crossword:** [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Lesson 9](#physical-psychological-and-social-factors) · [Lesson 10](#making-sense-of-your-symptoms) · [Module 1 review](#module-1-review-crossword) · [Module 2 review](#module-2-review-crossword) · [Module 3 review](#module-3-review-crossword)
+**Jump to a crossword:** [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Lesson 9](#physical-psychological-and-social-factors) · [Lesson 10](#making-sense-of-your-symptoms) · [Lesson 11](#building-your-symptom-map) · [Module 1 review](#module-1-review-crossword) · [Module 2 review](#module-2-review-crossword) · [Module 3 review](#module-3-review-crossword)
 
 ## Crosswords
 
@@ -305,6 +305,24 @@ Revisit the lesson with a crossword. The easy edition includes a word bank.
 <a href="{{ '/assets/puzzles/crosswords/Module-4-Lesson-10/making-sense-of-your-symptoms-m4-10-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy crossword PDF for Lesson 10 (opens in a new tab)">Easy</a>
 <a href="{{ '/assets/puzzles/crosswords/Module-4-Lesson-10/making-sense-of-your-symptoms-m4-10-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal crossword PDF for Lesson 10 (opens in a new tab)">Normal</a>
 <a href="{{ '/assets/puzzles/crosswords/Module-4-Lesson-10/making-sense-of-your-symptoms-m4-10-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key crossword PDF for Lesson 10 (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<span id="building-your-symptom-map"></span>
+
+### Lesson 11: Building and Using Your Symptom Map
+
+[Read the lesson](../../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md)
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-11" aria-label="Browse the Lesson 11 crossword"><img src="{{ '/assets/puzzles/thumbnails/building-and-using-your-symptom-map-m4-11-normal.svg' | relative_url }}" alt="Preview of the Lesson 11 crossword grid" loading="lazy" decoding="async"><span>Lesson 11 crossword</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 11 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-4-Lesson-11/building-and-using-your-symptom-map-m4-11-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy crossword PDF for Lesson 11 (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-4-Lesson-11/building-and-using-your-symptom-map-m4-11-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal crossword PDF for Lesson 11 (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-4-Lesson-11/building-and-using-your-symptom-map-m4-11-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key crossword PDF for Lesson 11 (opens in a new tab)">Answer key</a>
 </div>
 <p class="puzzle-status">PDFs open in a new tab.</p>
 </div>

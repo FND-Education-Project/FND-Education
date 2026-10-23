@@ -307,6 +307,20 @@
         "Answer key": "/assets/puzzles/crosswords/Module-4-Lesson-10/making-sense-of-your-symptoms-m4-10-answer-key.pdf"
       },
       "collection": "crosswords"
+    },
+    {
+      "id": "lesson-11",
+      "module": 4,
+      "lesson": 11,
+      "title": "Building and Using Your Symptom Map",
+      "image": "/assets/puzzles/thumbnails/building-and-using-your-symptom-map-m4-11-normal.svg",
+      "course": "/course/m4/2/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-4-Lesson-11/building-and-using-your-symptom-map-m4-11-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-4-Lesson-11/building-and-using-your-symptom-map-m4-11-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-4-Lesson-11/building-and-using-your-symptom-map-m4-11-answer-key.pdf"
+      },
+      "collection": "crosswords"
     }
   ]
 }
