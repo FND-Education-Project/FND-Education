@@ -4,7 +4,7 @@
 
 # Building and Using Your Personal Symptom Map
 
-> **Working draft:** Person-with-FND section human-authored with AI assistance and approved by the project lead October 23, 2026. Supporter and clinician sections remain under human editorial review; source verification, two audits and clinical review are pending.
+> **Working draft:** Human-authored revision with AI assistance; all three audience sections reviewed and approved by the project lead October 23, 2026. Audit 1, Audit 2, source and quotation verification, and independent clinical review remain pending.
 
 In [Lesson 10](01-build-and-use-your-personal-symptom-map.md), we began sorting our health story into known diagnoses and open questions. Now let's make a short map that also shows what helps and what remains possible.
 
@@ -380,7 +380,7 @@ Occupational-therapy and physiotherapy consensus guidance discusses variable fun
 | <a id="citation-5"></a>**[5]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
 | <a id="citation-6"></a>**[6]** | — | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
 
-The person-with-FND section is human-authored with AI assistance and approved by the project lead. Its three community quotations remain individual experiences requiring verification against the original posts. Supporter and clinician sections remain open for human editorial review, and the selected Rutten et al. quotation awaits source verification. The project's two audits and independent clinical review are pending.
+All three audience sections are human-authored revisions with AI assistance and have been approved by the project lead. Three community quotations remain individual experiences requiring verification against the original posts; the selected Rutten et al. research quotation also awaits exact wording and context verification. The project's two audits and independent clinical review remain pending.
 
-*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*
+*Plain-language draft prepared: September 4, 2026 · Human-authored revision approved: October 23, 2026 · Audit 1 and Audit 2 pending · Clinical review pending*
 
