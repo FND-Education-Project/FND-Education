@@ -178,9 +178,15 @@ That's enough for a first version. Add to it whenever it helps you.
 
 Remembering dates, diagnoses and changes can make a short appointment surprisingly demanding. For someone who experiences fatigue, speech or cognitive difficulties, reconstructing the whole story may use energy they need for the conversation itself.
 
-A one-page map can hold a few important facts in one place. The person with FND decides what goes on it and who gets to see it.
+A supporter might be thinking, *“But I remember all of that already!”*
 
-Some people appreciate a supporter who can write while they talk, help find a date or bring notes to an appointment. Others prefer to manage their information independently. Both approaches can work.
+And they may be right. After years together, they might know the person's symptoms, appointment history and familiar routines better than anyone.
+
+The person with FND may still find it difficult to call up those details when they need them. Imagine being asked a question at an appointment and knowing that the answer exists somewhere in your life, but finding your thoughts suddenly out of reach.
+
+A few agreed notes can help **both people**. The person has information they can use without relying on someone else being present. The supporter can share what they know without carrying the whole history in their head at every appointment.
+
+The person with FND decides what belongs on their map and who gets to see it. Some people welcome a supporter who helps write things down; others prefer to manage their information independently.
 
 A friendly question might be: *“Which part would you like help with, if any?”*
 
@@ -196,13 +202,15 @@ Together, they have something useful to say about what helps. The person might c
 
 *“I sometimes need extra time to speak. A quieter space helps me take part in conversations.”*
 
-That little note gives someone reading the map more than a description of a symptom. It offers an idea for making the next appointment easier.
+That little note gives someone reading the map more than a symptom description. It offers an idea for making the next appointment easier.
 
-For another person, the useful detail might be that a walking aid makes it possible to visit friends, or that written instructions help them finish a task. These are pieces of daily life worth making room for.
+Now imagine they've already spent years making daily life more manageable. Perhaps they've found quieter places to talk, ways to rest after outings and a signal to use when speech becomes difficult.
+
+**Those adaptations are knowledge they've built together.** The map can hold a few of the most useful discoveries. It can begin with what already works, rather than asking the family to catalogue every symptom or reinvent years of experience.
 
 ### What another person can add
 
-Now imagine someone who has familiar episodes during which they find it hard to respond.
+Someone may have familiar episodes during which they find it hard to respond.
 
 They remember feeling confused before an episode. Their supporter remembers seeing them become quiet and noticing that they needed time afterwards to recover.
 
@@ -214,25 +222,37 @@ It's a bit like two people describing the same journey: one remembers the bumpy 
 
 As we learned in Lesson 10, describing **what happened** is different from deciding **why**. That medical interpretation belongs with the clinician.
 
-Someone without a supporter can still describe what they experienced and what they need. The map works just as well as a personal account.
+Someone without a supporter can still describe what they experienced and what they need. A map works just as well as a personal account.
+
+### Sharing the work, keeping room for life
+
+Even helpful tasks add up. Remembering medications, arranging transport, answering questions, watching for changes and managing appointments can gradually fill a supporter's day.
+
+Imagine a couple deciding to spend ten minutes before an appointment choosing the most important notes. One person explains what they want included; the other helps put it into words.
+
+Then the notes are ready, and they can spend the rest of their evening being a couple rather than an administrative department.
+
+That's a **boundary**: an agreement about what help is useful, who can offer it and when to ask for another kind of support. A family member can care deeply and still need time for their own rest, health and interests. When care demands more than one person can comfortably provide, professionals, community services or additional trusted people may be part of a sustainable plan.
+
+The best arrangement is one both people can live with. And a person who manages FND on their own can choose similarly simple systems that leave space for the rest of life.
 
 ### Give tracking a purpose
 
 Suppose long appointments leave someone exhausted. They wonder whether a shorter visit or a quiet place to rest might make things easier.
 
-Rather than keeping a record of every symptom, they try a few brief notes after appointments: what was different, what helped, and how recovery went.
+Rather than recording every symptom, they try a few brief notes after appointments: what was different, what helped and how recovery went.
 
 At the next visit, they might say:
 
 *“The appointment with a break felt more manageable. Could we plan something similar next time?”*
 
-They've used their notes to start a useful conversation. A few experiences can't prove what caused the difference, but they can help identify an adjustment worth exploring.
+They've used their notes to start a useful conversation. A few experiences cannot prove what caused the difference, but they can suggest an adjustment worth exploring.
 
-Once those notes have answered the question as well as possible, they can be set aside. A supporter may help with them if invited, or the person may prefer to keep a couple of words on their phone.
+Once those notes have answered the question as well as possible, they can be set aside. A supporter may help if invited, or the person may prefer to keep a couple of words on their phone.
 
-The map can change as life changes. It helps carry familiar information between conversations, while a new, severe or substantially different health concern still deserves medical attention based on its urgency.
+The map can change as life changes. It helps carry familiar information between conversations, while new, severe or substantially different health concerns still deserve medical attention based on their urgency.
 
-**The useful map is the one that helps the person be understood, with as little extra work as possible.**
+**The useful map is the one that helps the person be understood while leaving both people more energy for living.**
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
