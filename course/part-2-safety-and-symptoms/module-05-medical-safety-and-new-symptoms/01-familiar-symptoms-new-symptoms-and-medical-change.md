@@ -50,7 +50,7 @@ The opposite problem also matters: repeatedly treating a familiar functional eve
 
 ### Community experiences for review
 
-These are two candidate lived-experience quotations. They show why reassessment can matter; they are not medical advice or proof that the same explanation applies to another person.
+These are three candidate community experiences about separate diagnoses, contested explanations and later changes. Each is one person's account, not a diagnosis or a medical instruction.
 
 **Option 1 — a separate eye problem was found**
 
@@ -63,6 +63,12 @@ These are two candidate lived-experience quotations. They show why reassessment 
 > “I recently got done with 3 months of water therapy ... It did nothing.”
 
 — The writer described continuing symptoms and disagreement with an FND diagnosis. [Read the public source](https://www.reddit.com/r/FND/comments/1g4xytc/i_disagree_with_the_diagnosis/).
+
+**Option 3 — a later unfamiliar change**
+
+> “Since half a year I have a resting tremor in my hands. This tremor just came out of nowhere.”
+
+— The writer described a new tremor after improvement in other symptoms. Its medical meaning remains open; the account helps illustrate the value of describing changes. [Read the public source](https://www.reddit.com/r/FND/comments/1dde4p6/my_journey_with_functional_neurological_disorder/).
 
 ### Questions
 
