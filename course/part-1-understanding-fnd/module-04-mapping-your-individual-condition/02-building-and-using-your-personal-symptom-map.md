@@ -186,29 +186,53 @@ A friendly question might be: *“Which part would you like help with, if any?�
 
 ### Include more than symptoms
 
-A map can record what makes daily life possible, too.
+Imagine someone who sometimes finds speaking difficult.
 
-A quieter room may help someone speak. Written instructions may make a task easier to follow. Another person might use a mobility aid to visit places that matter to them.
+During a medical appointment, they struggle to get their words out. Later, in a quieter room, conversation feels easier.
 
-The detail is useful because it connects a difficulty with something practical that may improve access or participation. It can give the person and their care team a starting point for discussing supports.
+Their supporter remembers the busy waiting area. The person remembers how much effort it took to answer a simple question.
+
+Together, they have something useful to say about what helps. The person might choose to put this on their map:
+
+*“I sometimes need extra time to speak. A quieter space helps me take part in conversations.”*
+
+That little note gives someone reading the map more than a description of a symptom. It offers an idea for making the next appointment easier.
+
+For another person, the useful detail might be that a walking aid makes it possible to visit friends, or that written instructions help them finish a task. These are pieces of daily life worth making room for.
 
 ### What another person can add
 
-In Lesson 10, we separated observations from explanations. Here, the next question is whether an observation is worth including in the map.
+Now imagine someone who has familiar episodes during which they find it hard to respond.
 
-Someone who witnessed a familiar episode might remember the date, what they actually saw or how long recovery appeared to take. When the person wants that information recorded, it can help make the account more complete.
+They remember feeling confused before an episode. Their supporter remembers seeing them become quiet and noticing that they needed time afterwards to recover.
 
-A supporter's view adds another perspective; it doesn't replace what the person experienced or establish why the episode occurred.
+Those are two views of the same experience.
+
+The supporter might offer to describe what they saw. The person can decide whether that observation belongs on the map, perhaps beside their existing episode safety plan.
+
+It's a bit like two people describing the same journey: one remembers the bumpy road; the other remembers where they had to stop. Together, their accounts may give a fuller picture.
+
+As we learned in Lesson 10, describing **what happened** is different from deciding **why**. That medical interpretation belongs with the clinician.
+
+Someone without a supporter can still describe what they experienced and what they need. The map works just as well as a personal account.
 
 ### Give tracking a purpose
 
-Imagine wondering whether changing the appointment environment would make visits less exhausting.
+Suppose long appointments leave someone exhausted. They wonder whether a shorter visit or a quiet place to rest might make things easier.
 
-A few short notes about what changed and how the visit went might help answer that question. That may be enough. The aim is to learn something useful, rather than turn everyday life into a never-ending symptom survey.
+Rather than keeping a record of every symptom, they try a few brief notes after appointments: what was different, what helped, and how recovery went.
 
-Information can be reviewed together and then set aside when it has served its purpose.
+At the next visit, they might say:
 
-As needs change, a map can be updated. An urgent or substantially different health problem still deserves care appropriate to its seriousness; the map is there to support communication, not to decide a diagnosis.
+*“The appointment with a break felt more manageable. Could we plan something similar next time?”*
+
+They've used their notes to start a useful conversation. A few experiences can't prove what caused the difference, but they can help identify an adjustment worth exploring.
+
+Once those notes have answered the question as well as possible, they can be set aside. A supporter may help with them if invited, or the person may prefer to keep a couple of words on their phone.
+
+The map can change as life changes. It helps carry familiar information between conversations, while a new, severe or substantially different health concern still deserves medical attention based on its urgency.
+
+**The useful map is the one that helps the person be understood, with as little extra work as possible.**
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
