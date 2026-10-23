@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-label="My FND Journey icon">
+  <rect width="192" height="192" rx="40" fill="#234f4b"/>
+  <circle cx="96" cy="96" r="62" fill="#e4f1e9"/>
+  <path d="M96 45v102 M45 96h102 M59 59l74 74 M133 59l-74 74" stroke="#568c7b" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="96" cy="96" r="22" fill="#e9ba5a" stroke="#234f4b" stroke-width="7"/>
+</svg>
