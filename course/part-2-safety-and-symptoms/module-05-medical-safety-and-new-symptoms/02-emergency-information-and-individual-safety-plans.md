@@ -53,7 +53,7 @@ The plan can say, “This resembles my familiar event,” while still allowing c
 
 ### Community experiences for review
 
-These quotations show two different safety needs. They are lived experience, not universal instructions.
+These three accounts suggest why individual protection, clear medical information and a usable plan can matter. They are personal experiences, not emergency instructions.
 
 **Option 1 — practical protection during seizures**
 
@@ -66,6 +66,12 @@ These quotations show two different safety needs. They are lived experience, not
 > “My partner choked, I had to apply the Heimlich ... He’s afraid now.”
 
 — A supporter described an emergency and its emotional effect. [Read the public source](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/).
+
+**Option 3 — clear information after diagnosis**
+
+> “I was told next to nothing, given no expectations”
+
+— One person described receiving little information after their diagnosis. This is a communication experience, rather than evidence about an emergency-card design. [Read the public source](https://www.reddit.com/r/FND/comments/1c35psh/tips_for_navigating_the_nhs/).
 
 ### Questions
 
