@@ -79,7 +79,16 @@ export async function startEmail(req, env, input, h, account = null) {
   const email = normalizeEmail(input.email);
   const username = h.cleanUsername(input.username || 'Learner');
   if (!email || !username) return h.err(req, env, 400, 'Enter a valid email and display username.');
-  if (!await human(req, env, input.turnstileToken)) {
+  // Stage-specific operational errors reveal no addresses, tokens, or codes.
+  // A failed external service should produce 503, not an opaque 500.
+  let verifiedHuman;
+  try {
+    verifiedHuman = await human(req, env, input.turnstileToken);
+  } catch {
+    console.warn('learner_email_turnstile_unavailable');
+    return h.err(req, env, 503, 'Verification service temporarily unavailable. Please try again.');
+  }
+  if (!verifiedHuman) {
     return h.err(req, env, 400, 'Please complete the verification and try again.');
   }
   const t = h.now();
@@ -87,8 +96,14 @@ export async function startEmail(req, env, input, h, account = null) {
   const date = new Date(t * 1000);
   const month = date.toISOString().slice(0, 7);
   const monthEnd = Date.UTC(date.getUTCFullYear(), date.getUTCMonth() + 1, 1) / 1000;
-  const emailKey = await digest(env, 'email:' + email);
-  const ipKey = await digest(env, 'ip:' + day + ':' + (req.headers.get('CF-Connecting-IP') || 'unknown'));
+  let emailKey, ipKey;
+  try {
+    emailKey = await digest(env, 'email:' + email);
+    ipKey = await digest(env, 'ip:' + day + ':' + (req.headers.get('CF-Connecting-IP') || 'unknown'));
+  } catch {
+    console.warn('learner_email_digest_unavailable');
+    return h.err(req, env, 503, 'Email sign-in is temporarily unavailable.');
+  }
   // Free-tier headroom: 90/day and 2,700/calendar month, below 100/3,000.
   // Use a dedicated Resend account or account for other applications manually.
   const limits = [
@@ -100,16 +115,33 @@ export async function startEmail(req, env, input, h, account = null) {
     [`global-month:${month}`, 2700, monthEnd]
   ];
   for (const [bucket, limit, expiry] of limits) {
-    if (!await reserve(env.DB, bucket, limit, expiry)) {
+    let available;
+    try {
+      available = await reserve(env.DB, bucket, limit, expiry);
+    } catch {
+      // Never emit the bucket (which may include keyed address/IP hashes),
+      // D1's error text, or SQL parameters into public logs.
+      console.warn('learner_email_limit_storage_failed');
+      return h.err(req, env, 503, 'Email sign-in is temporarily unavailable.');
+    }
+    if (!available) {
       return h.err(req, env, 429, 'Email sign-in is temporarily limited. Please try later or use Google if available.');
     }
   }
-  const id = h.randomToken(), browser = h.randomToken(), code = newCode();
-  const browserHash = await h.sha(browser);
-  await env.DB.prepare(`INSERT INTO email_challenges
-    (id, browser_hash, email, username, code_hash, link_session, expires_at)
-    VALUES (?, ?, ?, ?, ?, ?, ?)`).bind(id, browserHash, email, username,
-      await digest(env, id + ':' + code), account?.token_hash || null, t + LIFE).run();
+  let id, browser, code;
+  try {
+    id = h.randomToken();
+    browser = h.randomToken();
+    code = newCode();
+    const browserHash = await h.sha(browser);
+    await env.DB.prepare(`INSERT INTO email_challenges
+      (id, browser_hash, email, username, code_hash, link_session, expires_at)
+      VALUES (?, ?, ?, ?, ?, ?, ?)`).bind(id, browserHash, email, username,
+        await digest(env, id + ':' + code), account?.token_hash || null, t + LIFE).run();
+  } catch {
+    console.warn('learner_email_challenge_storage_failed');
+    return h.err(req, env, 503, 'Email sign-in is temporarily unavailable.');
+  }
   let sent = false;
   try {
     const response = await fetch('https://api.resend.com/emails', {
