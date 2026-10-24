@@ -177,16 +177,27 @@ export async function startEmail(req, env, input, h, account = null) {
   let sent = false;
   try {
     const response = await fetch('https://api.resend.com/emails', {
-      method: 'POST', redirect: 'error', signal: AbortSignal.timeout(10000),
+      // Manual redirect handling prevents following any redirect with secrets.\n      method: 'POST', redirect: 'manual', signal: AbortSignal.timeout(10000),
       headers: { Authorization: 'Bearer ' + env.RESEND_API_KEY,
         'Content-Type': 'application/json', 'Idempotency-Key': 'learner-login/' + id },
       body: JSON.stringify({ from: 'FND Education Project <' + env.EMAIL_FROM + '>',
         to: [email], subject: 'Your FND Education sign-in code',
         text: `Your code is: ${code}\n\nEnter it on the website in the browser where you requested it. It expires in 10 minutes and works once.\n\n${account ? 'This request adds email sign-in to your current learner account.' : 'This request signs you in or creates a learner account.'}\nNever share this code. If you did not request it, ignore this email.\n\nYou can read the full course without an account.` })
     });
-    const result = response.ok ? await response.json() : null;
-    sent = typeof result?.id === 'string';
-  } catch { /* Provider errors must not expose addresses, credentials or codes. */ }
+    if (!response.ok) {
+      // Log only the numeric status. Never log Resend's response body.
+      console.warn('learner_email_resend_http_rejected:' + response.status);
+    } else {
+      const result = await response.json();
+      sent = typeof result?.id === 'string';
+      if (!sent) console.warn('learner_email_resend_missing_message_id');
+    }
+  } catch (cause) {
+    // Do not log cause.message or stack: errors can contain sensitive details.
+    const category = cause?.name === 'TimeoutError' || cause?.name === 'AbortError'
+      ? 'timeout' : cause instanceof TypeError ? 'type_error' : 'other';
+    console.warn('learner_email_resend_request_failed:' + category);
+  }
   if (!sent) {
     await env.DB.prepare('DELETE FROM email_challenges WHERE id = ?').bind(id).run();
     console.warn('learner_email_delivery_failed'); // Redacted operational signal only.
