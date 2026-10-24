@@ -40,7 +40,7 @@ function setup(t) {
     RESEND_API_KEY: 're_test_only', EMAIL_AUTH_SECRET: 'test-only-secret-with-more-than-32-characters',
     EMAIL_FROM: 'login@mail.fndeducationproject.org', TURNSTILE_SITE_KEY: 'test', TURNSTILE_SECRET_KEY: 'test' };
   const sent = [];
-  let bot = false, deliveryFails = false, verificationUnavailable = false, malformedVerification = false, verificationRedirected = false;
+  let bot = false, deliveryFails = false, verificationUnavailable = false, malformedVerification = false, verificationRedirected = false, resendRedirected = false;
   t.mock.method(globalThis, 'fetch', async (url, init) => {
     if (url.includes('siteverify')) {
       assert.equal(init.redirect, 'manual');
@@ -53,8 +53,10 @@ function setup(t) {
         hostname: new URL(origin).hostname, action: 'email_login' });
     }
     assert.equal(url, 'https://api.resend.com/emails');
-    assert.equal(init.redirect, 'error');
+    assert.equal(init.redirect, 'manual');
     assert.ok(init.headers['Idempotency-Key']);
+    if (resendRedirected) return new Response(null, { status: 302,
+      headers: { Location: 'https://not-resend.example.invalid/' } });
     if (deliveryFails) return Response.json({ error: 'private provider error' }, { status: 500 });
     sent.push(JSON.parse(init.body));
     return Response.json({ id: 'mail-test' });
@@ -79,7 +81,8 @@ function setup(t) {
     setFailure: v => { deliveryFails = v; },
     setVerificationUnavailable: v => { verificationUnavailable = v; },
     setMalformedVerification: v => { malformedVerification = v; },
-    setVerificationRedirected: v => { verificationRedirected = v; } };
+    setVerificationRedirected: v => { verificationRedirected = v; },
+    setResendRedirected: v => { resendRedirected = v; } };
 }
 function sessionCookie(response) {
   return response.headers.getSetCookie().find(c => c.startsWith('__Host-fnd_learner_session='))?.split(';')[0];
@@ -367,4 +370,29 @@ test('unsupported Turnstile timeout setup emits only a fixed diagnostic', async 
   assert.ok(warnings.includes('learner_email_turnstile_timeout_setup_failed'));
   assert.ok(warnings.includes('learner_email_turnstile_unavailable'));
   assert.doesNotMatch(warnings.join(' '), /private runtime details/i);
+});
+
+test('Resend redirects are rejected without exposing credentials or sending an email', async t => {
+  const s = setup(t);
+  const warnings = [];
+  t.mock.method(console, 'warn', (...args) => { warnings.push(args.join(' ')); });
+  s.setResendRedirected(true);
+  const flow = await s.start('test@example.com');
+  assert.equal(flow.response.status, 503);
+  assert.equal(s.sent.length, 0);
+  assert.ok(warnings.includes('learner_email_resend_http_rejected:302'));
+  assert.ok(warnings.includes('learner_email_delivery_failed'));
+  assert.equal(s.DB.sqlite.prepare('SELECT COUNT(*) AS n FROM email_challenges').get().n, 0);
+  assert.doesNotMatch(warnings.join(' '), /example.com|re_test_only|secret/i);
+});
+
+test('Resend HTTP rejection is classified by status without logging provider body', async t => {
+  const s = setup(t);
+  const warnings = [];
+  t.mock.method(console, 'warn', (...args) => { warnings.push(args.join(' ')); });
+  s.setFailure(true);
+  const flow = await s.start();
+  assert.equal(flow.response.status, 503);
+  assert.ok(warnings.includes('learner_email_resend_http_rejected:500'));
+  assert.doesNotMatch(warnings.join(' '), /private provider error/i);
 });
