@@ -105,6 +105,8 @@ It's hardly a bestselling novel, but it could make a doctor's appointment a lot 
 
 You can build on it when something important changes. A page with only a few useful details is a good beginning.
 
+**Printable worksheet:** [Download your Symptom Map (PDF)](../../../assets/downloads/symptom-map.pdf). Page 1 has soft grey italic prompts to help you begin. Page 2 uses the same layout with open space for writing, doodling or colouring. Print whichever page suits you.
+
 ### When is tracking useful?
 
 A map is your short reference. A **diary** is different: it can help you explore a specific question for a little while.
