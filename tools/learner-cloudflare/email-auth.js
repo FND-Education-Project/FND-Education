@@ -59,20 +59,29 @@ async function reserve(db, bucket, limit, expires) {
 /** Authenticate Turnstile on the server; client success alone is insufficient. */
 async function human(req, env, token) {
   if (typeof token !== 'string' || token.length > 2048 || !token) return false;
+  let signal;
+  try {
+    signal = AbortSignal.timeout(10000);
+  } catch {
+    console.warn('learner_email_turnstile_timeout_setup_failed');
+    throw new Error('Turnstile timeout setup failed');
+  }
   let response;
   try {
     response = await fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
       method: 'POST', headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ secret: env.TURNSTILE_SECRET_KEY, response: token,
         remoteip: req.headers.get('CF-Connecting-IP') || undefined }),
-      signal: AbortSignal.timeout(10000), redirect: 'error'
+      // Do not follow redirects with a verification secret in the request body.
+      // "manual" is supported by Workers; any 3xx is rejected by !response.ok.
+      signal, redirect: 'manual'
     });
   } catch (cause) {
     // Emit only an allowlisted category, never the provider error, token, IP
     // address, credential or request body. The calling endpoint still returns 503.
     const category = cause?.name === 'TimeoutError' || cause?.name === 'AbortError'
       ? 'timeout' : cause instanceof TypeError ? 'type_error' : 'other';
-    console.warn('learner_email_turnstile_request_failed:' + category);
+    console.warn('learner_email_turnstile_fetch_failed:' + category);
     throw cause;
   }
   if (!response.ok) {
