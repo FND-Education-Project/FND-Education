@@ -18,69 +18,213 @@ FND can explain real and disabling symptoms. It does not protect you from anothe
 ## For the Person With FND
 {: #for-the-person-with-fnd .shareable }
 
-### Definition
+### When something feels different
 
-A **familiar symptom** matches a pattern that has already been assessed. A **changed symptom** differs in an important way—for example, its start, length, severity or recovery is unusual for you. A **new symptom** has not yet been explained.
+You're making lunch when your hand begins to shake.
+
+"Oh, this again."
+
+You've experienced this before. Usually, the shaking settles after a while, and you know what helps you get through it.
+
+But today, it's lasting much longer.
+
+Hmm. That's different.
+
+Is this still your usual FND? Or is something else going on?
+
+That's one of the tricky things about FND. Your symptoms might change quite a bit, even when nothing new is wrong.
+
+So how do you know when a change is worth checking out?
+
+You don't have to figure out what's causing it. That's a job for your healthcare team.
+
+But knowing what makes an experience different can help you explain what's happening.
+
+### Familiar, changed, or new?
+
+There are three terms worth knowing. They're useful when you're talking with a doctor.
+
+A **familiar symptom** is something you've experienced before that fits a pattern your clinician has already assessed.
+
+Maybe it comes and goes. Maybe some days are worse than others. It can still be familiar.
+
+A **changed symptom** is one you recognise, but something important about it is different.
+
+Remember that shaking hand? Perhaps it usually settles within a few minutes, but today it's lasted much longer.
+
+A **new symptom** is something that hasn't been part of your previously assessed pattern.
+
+It might turn out to be related to FND. It might have another explanation.
+
+That's what an assessment can help work out.
 
 ![Three cards compare a familiar symptom with a changed symptom and a new symptom.](../../../assets/illustrations/module-5-page-1-familiar-changed-new.svg)
 
-*Illustration: compare the current symptom with your own usual pattern before making an assumption.*
+*Illustration: Familiar, changed and new symptoms. These terms can help you explain what's happening.*
 
-### If you read only one thing
+### If you remember one thing
 
-Your FND plan can guide a familiar event. It should never become a rule that every future symptom is FND.
+**A familiar symptom can have a familiar response. Something new or meaningfully different may need a fresh medical look.**
 
-### Compare before you assume
+### So, what's different this time?
 
-When you are able, compare what is happening with your usual pattern:
+Let's go back to your shaking hand.
 
-- Did it begin in the usual way?
-- Are the symptoms and body areas the same?
-- Is it lasting about as long as usual?
-- Is recovery following the usual course?
-- Is there a new illness, injury, medicine change or other concern?
+You've had shaking before, but this time something has caught your attention.
 
-One difference does not automatically mean danger. It means the situation deserves fresh thought. An internet checklist cannot account for your diagnoses, medicines, risks or clinician advice.
+Perhaps you're thinking, "I know this symptom, but it doesn't usually happen quite like this."
 
-### Why dismissal can be harmful
+That's useful information.
 
-**Diagnostic overshadowing** means that a known diagnosis draws attention away from another possible problem. A person with FND can also have epilepsy, migraine, infection, medication effects, stroke, an eye condition or many other illnesses. Clinicians still need to judge a new problem on its own evidence. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+When you're talking with a clinician, a few details can help:
 
-The opposite problem also matters: repeatedly treating a familiar functional event as a new emergency can lead to frightening or unnecessary tests and treatments. An individual plan helps hold both risks at once.
+- **The beginning:** Did it start the way it usually does?
+- **The symptoms:** Is it affecting the same parts of your body?
+- **The length:** Is it lasting about as long as usual?
+- **The recovery:** Are you recovering in your usual way?
+- **Anything else:** Have you been ill, injured, or started or changed a medication?
 
-### Community experiences for review
+You might remember only one or two of those things.
 
-These are three candidate community experiences about separate diagnoses, contested explanations and later changes. Each is one person's account, not a diagnosis or a medical instruction.
+That's still useful.
 
-**Option 1 — a separate eye problem was found**
+And if memory is giving you trouble, perhaps your symptom map has something that helps. Someone who was there might remember a detail, too.
 
-> “He gave me steroid droplets ... and since then my light sensitivity is gone.”
+The idea is to describe what stood out, rather than spend your day watching for every little change.
 
-— The writer described improvement after an eye clinician treated pollen-related irritation. [Read the public source](https://www.reddit.com/r/FND/comments/1ievray/sharing_my_success_story/).
+A symptom behaving differently doesn't automatically mean something dangerous is happening.
 
-**Option 2 — an earlier explanation was reconsidered**
+It gives you something worth considering with your care team.
 
-> “I recently got done with 3 months of water therapy ... It did nothing.”
+### When everything gets blamed on FND
 
-— The writer described continuing symptoms and disagreement with an FND diagnosis. [Read the public source](https://www.reddit.com/r/FND/comments/1g4xytc/i_disagree_with_the_diagnosis/).
+Here's something that can be especially frustrating.
 
-**Option 3 — a later unfamiliar change**
+You develop a new problem, visit a doctor, and the conversation quickly turns to your FND.
 
-> “Since half a year I have a resting tremor in my hands. This tremor just came out of nowhere.”
+But you're sitting there thinking, "Hang on. Could we look at this new problem?"
 
-— The writer described a new tremor after improvement in other symptoms. Its medical meaning remains open; the account helps illustrate the value of describing changes. [Read the public source](https://www.reddit.com/r/FND/comments/1dde4p6/my_journey_with_functional_neurological_disorder/).
+There's actually a medical term for what can sometimes happen.
 
-### Questions
+It's called **diagnostic overshadowing**.
 
-#### What features tell you, “This is my familiar pattern”?
+That's when an existing diagnosis gets so much attention that another possible health problem is overlooked.
 
-#### What kind of change would make you want fresh medical advice rather than assuming FND?
+One person in an online FND community described developing light sensitivity after being diagnosed with FND.
+
+They eventually saw an eye doctor, who identified a pollen allergy and prescribed treatment.
+
+The person wrote:
+
+> "He gave me steroid droplets ... and since then my light sensitivity is gone."
+
+*— A comment from a now-deleted account in an [FND community discussion](https://www.reddit.com/r/FND/comments/1ievray/sharing_my_success_story/).*
+
+For this person, getting their eyes checked led to treatment that helped.
+
+Someone else's light sensitivity could have a completely different explanation.
+
+That's the point, really.
+
+**You can have FND and another medical problem at the same time.** We covered that in earlier lessons, but it's especially important when something changes. (*citations* [1](#citation-1), [2](#citation-2))
+
+### But more medical treatment isn't always better, either
+
+Now let's look at the other side.
+
+Imagine someone who has familiar functional seizures.
+
+Their episodes have been assessed. Their healthcare team knows what usually happens, and they've worked out what kind of help is useful.
+
+Would it make sense to put that person through the same emergency tests and treatments every single time?
+
+Sometimes an episode really does need emergency attention.
+
+But when it's a familiar, previously assessed event, an agreed response may be safer and more helpful than repeating treatments that aren't needed.
+
+Medical procedures and medications can have risks of their own. And repeated emergency visits can be exhausting.
+
+This is where an **individual safety plan** comes in.
+
+It's guidance worked out with your clinicians about what helps during familiar symptoms, how to keep you safe, and when it's time to get more medical help. (*citations* [2](#citation-2), [3](#citation-3), [4](#citation-4))
+
+You may already have one.
+
+If you haven't, that's something we'll work toward in the next lesson.
+
+### Wait. Didn't we just make a symptom map?
+
+We did!
+
+And the good news is that the work you put into it can help here, too.
+
+Think of it this way:
+
+**Your symptom map describes what's going on with your health.**
+
+**Your safety plan explains what to do when help is needed.**
+
+The map can hold a short safety summary or point to the plan.
+
+You certainly don't need two enormous documents. There's enough paperwork in life already!
+
+In Lesson 13, we'll look at turning the useful information you've gathered into a safety plan with your care team.
+
+Then, in Lesson 14, we'll see how to use it.
+
+### When is it time to get more help?
+
+Sometimes a change can be discussed with your regular healthcare team.
+
+Other times, getting help quickly is important.
+
+For example, sudden symptoms that could be a stroke, such as new one-sided weakness, facial drooping or difficulty speaking, need emergency assessment. Severe breathing problems, serious injuries or other immediate dangers also call for emergency help.
+
+**When something could be a medical emergency, seek emergency care right away.**
+
+For changes that aren't emergencies, your healthcare team can help decide what needs checking.
+
+Maybe it's a conversation and an examination. Maybe some tests would be useful.
+
+You can start with something as simple as:
+
+"I've had this symptom before, but this time something feels different. Could we check it out?"
+
+You don't have to walk in with a theory about what's wrong.
+
+A good description of what's happening is a great place to start.
+
+### Something to think about
+
+Think of a symptom or episode you've experienced before.
+
+What makes it familiar to you?
+
+Now imagine something important about it changes.
+
+Would you know who to ask for medical advice?
+
+If you're unsure, that's a useful question to bring to your next appointment.
 
 ### One small thing you can do
 
-Write one sentence beginning: **“My usual medically assessed pattern is ...”** Add only the few details that would help someone notice a meaningful difference.
+Remember your symptom map?
 
-A lower-demand version is to name one familiar symptom and its usual recovery time. Stop if this turns into constant body checking. Ask a clinician to help if you cannot tell which symptoms have actually been assessed.
+If you'd like, choose one familiar, medically assessed symptom and add a short description of what usually happens.
+
+For example:
+
+"My usual episodes involve shaking and difficulty speaking. Afterwards, I generally need some quiet time to recover."
+
+Already have something like that written down? Great. You can leave it as it is.
+
+You could also ask your clinician which changes would mean getting more medical help.
+
+And if writing or remembering feels like too much today, this activity can wait.
+
+**The idea is to make getting care easier, not give yourself another chore.**
+
+Next, we'll use what you've learned to help prepare your individual safety plan.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
