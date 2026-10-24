@@ -40,11 +40,15 @@ function setup(t) {
     RESEND_API_KEY: 're_test_only', EMAIL_AUTH_SECRET: 'test-only-secret-with-more-than-32-characters',
     EMAIL_FROM: 'login@mail.fndeducationproject.org', TURNSTILE_SITE_KEY: 'test', TURNSTILE_SECRET_KEY: 'test' };
   const sent = [];
-  let bot = false, deliveryFails = false, verificationUnavailable = false, malformedVerification = false;
+  let bot = false, deliveryFails = false, verificationUnavailable = false, malformedVerification = false, verificationRedirected = false;
   t.mock.method(globalThis, 'fetch', async (url, init) => {
     if (url.includes('siteverify')) {
+      assert.equal(init.redirect, 'manual');
+      assert.ok(init.signal instanceof AbortSignal);
       if (verificationUnavailable) throw new Error('private verification service exception');
       if (malformedVerification) return new Response('invalid non-JSON response');
+      if (verificationRedirected) return new Response(null, { status: 302,
+        headers: { Location: 'https://not-turnstile.example.invalid/' } });
       return Response.json({ success: !bot,
         hostname: new URL(origin).hostname, action: 'email_login' });
     }
@@ -74,7 +78,8 @@ function setup(t) {
   return { env, DB, sent, call, start, finish, setBot: v => { bot = v; },
     setFailure: v => { deliveryFails = v; },
     setVerificationUnavailable: v => { verificationUnavailable = v; },
-    setMalformedVerification: v => { malformedVerification = v; } };
+    setMalformedVerification: v => { malformedVerification = v; },
+    setVerificationRedirected: v => { verificationRedirected = v; } };
 }
 function sessionCookie(response) {
   return response.headers.getSetCookie().find(c => c.startsWith('__Host-fnd_learner_session='))?.split(';')[0];
@@ -339,4 +344,27 @@ test('malformed Turnstile response emits only a fixed diagnostic and stops befor
   assert.ok(warnings.includes('learner_email_turnstile_invalid_json'));
   assert.ok(warnings.includes('learner_email_turnstile_unavailable'));
   assert.doesNotMatch(warnings.join(' '), /invalid non-JSON|secret|token|address/i);
+});
+
+test('Turnstile redirects fail closed without sending verification emails', async t => {
+  const s = setup(t);
+  s.setVerificationRedirected(true);
+  const flow = await s.start();
+  assert.equal(flow.response.status, 400);
+  assert.equal(s.sent.length, 0);
+  assert.equal(s.DB.sqlite.prepare('SELECT COUNT(*) AS n FROM email_limits').get().n, 0);
+});
+
+test('unsupported Turnstile timeout setup emits only a fixed diagnostic', async t => {
+  const s = setup(t);
+  const warnings = [];
+  t.mock.method(console, 'warn', (...args) => { warnings.push(args.join(' ')); });
+  t.mock.method(AbortSignal, 'timeout', () => { throw new TypeError('private runtime details'); });
+  const flow = await s.start();
+  assert.equal(flow.response.status, 503);
+  assert.equal(s.sent.length, 0);
+  assert.equal(s.DB.sqlite.prepare('SELECT COUNT(*) AS n FROM email_limits').get().n, 0);
+  assert.ok(warnings.includes('learner_email_turnstile_timeout_setup_failed'));
+  assert.ok(warnings.includes('learner_email_turnstile_unavailable'));
+  assert.doesNotMatch(warnings.join(' '), /private runtime details/i);
 });
