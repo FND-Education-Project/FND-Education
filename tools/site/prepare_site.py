@@ -1058,7 +1058,7 @@ def copy_public_asset_trees() -> None:
     Site-owned CSS, JavaScript and icons already live under web/assets and are
     not touched.
     """
-    for dirname in ("illustrations", "images", "puzzles"):
+    for dirname in ("illustrations", "images", "puzzles", "downloads"):
         src = ROOT / "assets" / dirname
         dst = WEB / "assets" / dirname
 
