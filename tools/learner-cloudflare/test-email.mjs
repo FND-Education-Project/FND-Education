@@ -40,10 +40,13 @@ function setup(t) {
     RESEND_API_KEY: 're_test_only', EMAIL_AUTH_SECRET: 'test-only-secret-with-more-than-32-characters',
     EMAIL_FROM: 'login@mail.fndeducationproject.org', TURNSTILE_SITE_KEY: 'test', TURNSTILE_SECRET_KEY: 'test' };
   const sent = [];
-  let bot = false, deliveryFails = false;
+  let bot = false, deliveryFails = false, verificationUnavailable = false;
   t.mock.method(globalThis, 'fetch', async (url, init) => {
-    if (url.includes('siteverify')) return Response.json({ success: !bot,
-      hostname: new URL(origin).hostname, action: 'email_login' });
+    if (url.includes('siteverify')) {
+      if (verificationUnavailable) throw new Error('private verification service exception');
+      return Response.json({ success: !bot,
+        hostname: new URL(origin).hostname, action: 'email_login' });
+    }
     assert.equal(url, 'https://api.resend.com/emails');
     assert.equal(init.redirect, 'error');
     assert.ok(init.headers['Idempotency-Key']);
@@ -67,7 +70,9 @@ function setup(t) {
   async function finish(flow, overrides = {}, cookies = flow.cookie, path = '/v1/auth/email/verify', csrf = '') {
     return call(path, { challengeId: flow.data.challengeId, code: flow.code, ...overrides }, cookies, csrf);
   }
-  return { env, DB, sent, call, start, finish, setBot: v => { bot = v; }, setFailure: v => { deliveryFails = v; } };
+  return { env, DB, sent, call, start, finish, setBot: v => { bot = v; },
+    setFailure: v => { deliveryFails = v; },
+    setVerificationUnavailable: v => { verificationUnavailable = v; } };
 }
 function sessionCookie(response) {
   return response.headers.getSetCookie().find(c => c.startsWith('__Host-fnd_learner_session='))?.split(';')[0];
@@ -273,4 +278,49 @@ test('enabling idle sign-out starts from the current authenticated interaction',
   }), s.env);
   assert.equal(response.status, 200);
   assert.equal((await (await s.call('/v1/me', null, cookie)).json()).username, me.username);
+});
+
+
+test('Turnstile transport exception returns a sanitized 503 before database writes', async t => {
+  const s = setup(t);
+  s.setVerificationUnavailable(true);
+  const flow = await s.start();
+  assert.equal(flow.response.status, 503);
+  assert.equal(s.sent.length, 0);
+  assert.equal(s.DB.sqlite.prepare('SELECT COUNT(*) AS n FROM email_limits').get().n, 0);
+  assert.doesNotMatch(JSON.stringify(flow.data), /private verification|siteverify|token|email/i);
+});
+
+test('D1 reservation failures return a sanitized 503 without sending', async t => {
+  const s = setup(t);
+  const liveDB = s.env.DB;
+  s.env.DB = { ...liveDB,
+    prepare(sql) {
+      if (sql.includes('INSERT INTO email_limits')) {
+        throw new Error('private D1 connection error');
+      }
+      return liveDB.prepare(sql);
+    }
+  };
+  const flow = await s.start();
+  assert.equal(flow.response.status, 503);
+  assert.equal(s.sent.length, 0);
+  assert.doesNotMatch(JSON.stringify(flow.data), /private D1|connection error/i);
+});
+
+test('D1 email challenge insert failures return a sanitized 503 without sending', async t => {
+  const s = setup(t);
+  const liveDB = s.env.DB;
+  s.env.DB = { ...liveDB,
+    prepare(sql) {
+      if (sql.includes('INSERT INTO email_challenges')) {
+        throw new Error('private email challenge error');
+      }
+      return liveDB.prepare(sql);
+    }
+  };
+  const flow = await s.start();
+  assert.equal(flow.response.status, 503);
+  assert.equal(s.sent.length, 0);
+  assert.doesNotMatch(JSON.stringify(flow.data), /private email challenge/i);
 });
