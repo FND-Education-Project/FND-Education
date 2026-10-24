@@ -40,10 +40,11 @@ function setup(t) {
     RESEND_API_KEY: 're_test_only', EMAIL_AUTH_SECRET: 'test-only-secret-with-more-than-32-characters',
     EMAIL_FROM: 'login@mail.fndeducationproject.org', TURNSTILE_SITE_KEY: 'test', TURNSTILE_SECRET_KEY: 'test' };
   const sent = [];
-  let bot = false, deliveryFails = false, verificationUnavailable = false;
+  let bot = false, deliveryFails = false, verificationUnavailable = false, malformedVerification = false;
   t.mock.method(globalThis, 'fetch', async (url, init) => {
     if (url.includes('siteverify')) {
       if (verificationUnavailable) throw new Error('private verification service exception');
+      if (malformedVerification) return new Response('invalid non-JSON response');
       return Response.json({ success: !bot,
         hostname: new URL(origin).hostname, action: 'email_login' });
     }
@@ -72,7 +73,8 @@ function setup(t) {
   }
   return { env, DB, sent, call, start, finish, setBot: v => { bot = v; },
     setFailure: v => { deliveryFails = v; },
-    setVerificationUnavailable: v => { verificationUnavailable = v; } };
+    setVerificationUnavailable: v => { verificationUnavailable = v; },
+    setMalformedVerification: v => { malformedVerification = v; } };
 }
 function sessionCookie(response) {
   return response.headers.getSetCookie().find(c => c.startsWith('__Host-fnd_learner_session='))?.split(';')[0];
@@ -323,4 +325,18 @@ test('D1 email challenge insert failures return a sanitized 503 without sending'
   assert.equal(flow.response.status, 503);
   assert.equal(s.sent.length, 0);
   assert.doesNotMatch(JSON.stringify(flow.data), /private email challenge/i);
+});
+
+test('malformed Turnstile response emits only a fixed diagnostic and stops before D1', async t => {
+  const s = setup(t);
+  const warnings = [];
+  t.mock.method(console, 'warn', (...args) => { warnings.push(args.join(' ')); });
+  s.setMalformedVerification(true);
+  const flow = await s.start();
+  assert.equal(flow.response.status, 503);
+  assert.equal(s.sent.length, 0);
+  assert.equal(s.DB.sqlite.prepare('SELECT COUNT(*) AS n FROM email_limits').get().n, 0);
+  assert.ok(warnings.includes('learner_email_turnstile_invalid_json'));
+  assert.ok(warnings.includes('learner_email_turnstile_unavailable'));
+  assert.doesNotMatch(warnings.join(' '), /invalid non-JSON|secret|token|address/i);
 });
