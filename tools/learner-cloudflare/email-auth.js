@@ -59,14 +59,37 @@ async function reserve(db, bucket, limit, expires) {
 /** Authenticate Turnstile on the server; client success alone is insufficient. */
 async function human(req, env, token) {
   if (typeof token !== 'string' || token.length > 2048 || !token) return false;
-  const response = await fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
-    method: 'POST', headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ secret: env.TURNSTILE_SECRET_KEY, response: token,
-      remoteip: req.headers.get('CF-Connecting-IP') || undefined }),
-    signal: AbortSignal.timeout(10000), redirect: 'error'
-  });
-  if (!response.ok) return false;
-  const result = await response.json();
+  let response;
+  try {
+    response = await fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ secret: env.TURNSTILE_SECRET_KEY, response: token,
+        remoteip: req.headers.get('CF-Connecting-IP') || undefined }),
+      signal: AbortSignal.timeout(10000), redirect: 'error'
+    });
+  } catch (cause) {
+    // Emit only an allowlisted category, never the provider error, token, IP
+    // address, credential or request body. The calling endpoint still returns 503.
+    const category = cause?.name === 'TimeoutError' || cause?.name === 'AbortError'
+      ? 'timeout' : cause instanceof TypeError ? 'type_error' : 'other';
+    console.warn('learner_email_turnstile_request_failed:' + category);
+    throw cause;
+  }
+  if (!response.ok) {
+    console.warn('learner_email_turnstile_http_rejected');
+    return false;
+  }
+  let result;
+  try {
+    result = await response.json();
+  } catch {
+    console.warn('learner_email_turnstile_invalid_json');
+    throw new Error('Turnstile response was not JSON');
+  }
+  if (!result || typeof result !== 'object') {
+    console.warn('learner_email_turnstile_invalid_json');
+    throw new Error('Turnstile response was invalid');
+  }
   return result.success === true && result.hostname === new URL(env.PUBLIC_ORIGIN).hostname &&
     result.action === 'email_login';
 }
