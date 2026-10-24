@@ -177,7 +177,8 @@ export async function startEmail(req, env, input, h, account = null) {
   let sent = false;
   try {
     const response = await fetch('https://api.resend.com/emails', {
-      // Manual redirect handling prevents following any redirect with secrets.\n      method: 'POST', redirect: 'manual', signal: AbortSignal.timeout(10000),
+      // Manual redirect handling prevents following any redirect with secrets.
+      method: 'POST', redirect: 'manual', signal: AbortSignal.timeout(10000),
       headers: { Authorization: 'Bearer ' + env.RESEND_API_KEY,
         'Content-Type': 'application/json', 'Idempotency-Key': 'learner-login/' + id },
       body: JSON.stringify({ from: 'FND Education Project <' + env.EMAIL_FROM + '>',
