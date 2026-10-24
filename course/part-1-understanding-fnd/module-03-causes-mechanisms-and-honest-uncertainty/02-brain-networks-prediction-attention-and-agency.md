@@ -38,7 +38,7 @@ In studies, some groups of people with FND show different patterns of activity o
 
 <figure class="image-60center" markdown="1">
 
-![A playful cutaway of a head reveals five small brain characters working together with art, sensory controls, observation and movement equipment.](../../../assets/images/module-3-lesson-8-brain-network-workshop.webp)
+![A playful cutaway of a head shows five characters planning, observing, sorting sensory information, filing memories and operating movement controls, joined by glowing connections.](../../../assets/images/lesson-8-illustration.png)
 
 <figcaption>Brain areas work together on many jobs. This playful illustration represents their teamwork, not a literal brain map or a proven explanation of FND.</figcaption>
 

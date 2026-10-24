@@ -1,0 +1,142 @@
+%PDF-1.4
+%AsciiOnly
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >> >> /Contents 8 0 R >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >> >> /Contents 9 0 R >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+8 0 obj
+<< /Length 3646 >>
+stream
+1 J 1 j
+0.13 g BT /F2 23 Tf 1 0 0 1 39.0 740.0 Tm (My Symptom Map) Tj ET
+0.30 g BT /F1 10 Tf 1 0 0 1 40.0 720.0 Tm (A few helpful details. Your story, in your words.) Tj ET
+0.45 G 0.8 w 39 702 m 573 702 l S
+0.20 g BT /F1 9 Tf 1 0 0 1 40.0 679.0 Tm (Name \(optional\):) Tj ET
+0.58 G .50 w 119 677 m 329 677 l S
+0.20 g BT /F1 9 Tf 1 0 0 1 355.0 679.0 Tm (Updated:) Tj ET
+0.58 G .50 w 401 677 m 572 677 l S
+0.50 G 0.85 w 39 482 261 157 re S
+0.13 g BT /F2 10.6 Tf 1 0 0 1 51.0 616.0 Tm (Diagnosed FND symptoms) Tj ET
+0.52 G 0.55 w 280.00 614.00 m 281.59 617.82 l 285.71 618.15 l 282.57 620.83 l 283.53 624.85 l 280.00 622.70 l 276.47 624.85 l 277.43 620.83 l 274.29 618.15 l 278.41 617.82 l h S
+0.56 g BT /F3 8.6 Tf 1 0 0 1 52.0 592.0 Tm (Which functional symptoms were diagnosed?) Tj ET
+0.56 g BT /F3 8.6 Tf 1 0 0 1 52.0 579.0 Tm (What would help a clinician understand?) Tj ET
+0.50 G 0.85 w 312 482 261 157 re S
+0.13 g BT /F2 10.6 Tf 1 0 0 1 324.0 616.0 Tm (Other health conditions) Tj ET
+0.52 G 0.55 w 546 620 m 548 628 557 631 562 622 c 559 614 550 613 546 620 c S
+547 620 m 559 625 l S
+0.56 g BT /F3 8.6 Tf 1 0 0 1 325.0 592.0 Tm (List separate diagnosed conditions.) Tj ET
+0.56 g BT /F3 8.6 Tf 1 0 0 1 325.0 579.0 Tm (Only include details useful for care.) Tj ET
+0.50 G 0.85 w 39 307 261 157 re S
+0.13 g BT /F2 10.6 Tf 1 0 0 1 51.0 441.0 Tm (Questions still open) Tj ET
+0.52 G 0.55 w 284 445 m 284 447.21 282.21 449 280 449 c 277.79 449 276 447.21 276 445 c 276 442.79 277.79 441 280 441 c 282.21 441 284 442.79 284 445 c S
+286.00 445.00 m 289.00 445.00 l S
+284.24 449.24 m 286.36 451.36 l S
+280.00 451.00 m 280.00 454.00 l S
+275.76 449.24 m 273.64 451.36 l S
+274.00 445.00 m 271.00 445.00 l S
+275.76 440.76 m 273.64 438.64 l S
+280.00 439.00 m 280.00 436.00 l S
+284.24 440.76 m 286.36 438.64 l S
+0.56 g BT /F3 8.6 Tf 1 0 0 1 52.0 417.0 Tm (What is new or still being assessed?) Tj ET
+0.56 g BT /F3 8.6 Tf 1 0 0 1 52.0 404.0 Tm (What needs a conversation or review?) Tj ET
+0.50 G 0.85 w 312 307 261 157 re S
+0.13 g BT /F2 10.6 Tf 1 0 0 1 324.0 441.0 Tm (What helps and what I can do) Tj ET
+0.52 G 0.55 w 553.00 439.00 m 554.59 442.82 l 558.71 443.15 l 555.57 445.83 l 556.53 449.85 l 553.00 447.70 l 549.47 449.85 l 550.43 445.83 l 547.29 443.15 l 551.41 442.82 l h S
+0.56 g BT /F3 8.6 Tf 1 0 0 1 325.0 417.0 Tm (Include useful aids, activities and supports.) Tj ET
+0.56 g BT /F3 8.6 Tf 1 0 0 1 325.0 404.0 Tm (What works on an easier day?) Tj ET
+0.50 G 0.85 w 39 132 261 157 re S
+0.13 g BT /F2 10.6 Tf 1 0 0 1 51.0 266.0 Tm (Safety and follow-up) Tj ET
+0.52 G 0.55 w 280 265 m 266 274 274 284 280 276 c 286 284 294 274 280 265 c S
+0.56 g BT /F3 8.6 Tf 1 0 0 1 52.0 242.0 Tm (Add agreed safety steps and contacts.) Tj ET
+0.56 g BT /F3 8.6 Tf 1 0 0 1 52.0 229.0 Tm (Include how you prefer to communicate.) Tj ET
+0.50 G 0.85 w 312 132 261 157 re S
+0.13 g BT /F2 10.6 Tf 1 0 0 1 324.0 266.0 Tm (For my next appointment) Tj ET
+0.52 G 0.55 w 546 270 m 548 278 557 281 562 272 c 559 264 550 263 546 270 c S
+547 270 m 559 275 l S
+0.56 g BT /F3 8.6 Tf 1 0 0 1 325.0 242.0 Tm (Which one question matters most?) Tj ET
+0.56 g BT /F3 8.6 Tf 1 0 0 1 325.0 229.0 Tm (A few words are enough.) Tj ET
+0.40 G 0.7 w 39 116 m 573 116 l S
+0.33 g BT /F1 8.1 Tf 1 0 0 1 40.0 100.0 Tm (Use this page for conversations and planning. It is not a diagnostic or emergency plan.) Tj ET
+0.33 g BT /F1 8.1 Tf 1 0 0 1 40.0 86.0 Tm (Choose what to share. Keep it short, and update it whenever it helps.) Tj ET
+0.40 G 0.55 w 557.00 84.00 m 558.85 88.45 l 563.66 88.84 l 560.00 91.97 l 561.11 96.66 l 557.00 94.15 l 552.89 96.66 l 554.00 91.97 l 550.34 88.84 l 555.15 88.45 l h S
+endstream
+endobj
+9 0 obj
+<< /Length 2589 >>
+stream
+1 J 1 j
+0.13 g BT /F2 23 Tf 1 0 0 1 39.0 740.0 Tm (My Symptom Map) Tj ET
+0.30 g BT /F1 10 Tf 1 0 0 1 40.0 720.0 Tm (A few helpful details. Your story, in your words.) Tj ET
+0.45 G 0.8 w 39 702 m 573 702 l S
+0.20 g BT /F1 9 Tf 1 0 0 1 40.0 679.0 Tm (Name \(optional\):) Tj ET
+0.58 G .50 w 119 677 m 329 677 l S
+0.20 g BT /F1 9 Tf 1 0 0 1 355.0 679.0 Tm (Updated:) Tj ET
+0.58 G .50 w 401 677 m 572 677 l S
+0.50 G 0.85 w 39 482 261 157 re S
+0.13 g BT /F2 10.6 Tf 1 0 0 1 51.0 616.0 Tm (Diagnosed FND symptoms) Tj ET
+0.52 G 0.55 w 280.00 614.00 m 281.59 617.82 l 285.71 618.15 l 282.57 620.83 l 283.53 624.85 l 280.00 622.70 l 276.47 624.85 l 277.43 620.83 l 274.29 618.15 l 278.41 617.82 l h S
+0.50 G 0.85 w 312 482 261 157 re S
+0.13 g BT /F2 10.6 Tf 1 0 0 1 324.0 616.0 Tm (Other health conditions) Tj ET
+0.52 G 0.55 w 546 620 m 548 628 557 631 562 622 c 559 614 550 613 546 620 c S
+547 620 m 559 625 l S
+0.50 G 0.85 w 39 307 261 157 re S
+0.13 g BT /F2 10.6 Tf 1 0 0 1 51.0 441.0 Tm (Questions still open) Tj ET
+0.52 G 0.55 w 284 445 m 284 447.21 282.21 449 280 449 c 277.79 449 276 447.21 276 445 c 276 442.79 277.79 441 280 441 c 282.21 441 284 442.79 284 445 c S
+286.00 445.00 m 289.00 445.00 l S
+284.24 449.24 m 286.36 451.36 l S
+280.00 451.00 m 280.00 454.00 l S
+275.76 449.24 m 273.64 451.36 l S
+274.00 445.00 m 271.00 445.00 l S
+275.76 440.76 m 273.64 438.64 l S
+280.00 439.00 m 280.00 436.00 l S
+284.24 440.76 m 286.36 438.64 l S
+0.50 G 0.85 w 312 307 261 157 re S
+0.13 g BT /F2 10.6 Tf 1 0 0 1 324.0 441.0 Tm (What helps and what I can do) Tj ET
+0.52 G 0.55 w 553.00 439.00 m 554.59 442.82 l 558.71 443.15 l 555.57 445.83 l 556.53 449.85 l 553.00 447.70 l 549.47 449.85 l 550.43 445.83 l 547.29 443.15 l 551.41 442.82 l h S
+0.50 G 0.85 w 39 132 261 157 re S
+0.13 g BT /F2 10.6 Tf 1 0 0 1 51.0 266.0 Tm (Safety and follow-up) Tj ET
+0.52 G 0.55 w 280 265 m 266 274 274 284 280 276 c 286 284 294 274 280 265 c S
+0.50 G 0.85 w 312 132 261 157 re S
+0.13 g BT /F2 10.6 Tf 1 0 0 1 324.0 266.0 Tm (For my next appointment) Tj ET
+0.52 G 0.55 w 546 270 m 548 278 557 281 562 272 c 559 264 550 263 546 270 c S
+547 270 m 559 275 l S
+0.40 G 0.7 w 39 116 m 573 116 l S
+0.33 g BT /F1 8.1 Tf 1 0 0 1 40.0 100.0 Tm (Use this page for conversations and planning. It is not a diagnostic or emergency plan.) Tj ET
+0.33 g BT /F1 8.1 Tf 1 0 0 1 40.0 86.0 Tm (Choose what to share. Keep it short, and update it whenever it helps.) Tj ET
+0.40 G 0.55 w 557.00 84.00 m 558.85 88.45 l 563.66 88.84 l 560.00 91.97 l 561.11 96.66 l 557.00 94.15 l 552.89 96.66 l 554.00 91.97 l 550.34 88.84 l 555.15 88.45 l h S
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000020 00000 n 
+0000000069 00000 n 
+0000000132 00000 n 
+0000000278 00000 n 
+0000000424 00000 n 
+0000000494 00000 n 
+0000000569 00000 n 
+0000000647 00000 n 
+0000004344 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+6984
+%%EOF

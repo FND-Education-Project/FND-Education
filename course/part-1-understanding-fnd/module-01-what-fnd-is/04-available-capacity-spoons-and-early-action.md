@@ -295,7 +295,6 @@ Sometimes a plan can't stop a flare. It can still help keep you safer or make it
 
 <a href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-4">Browse crosswords for this lesson</a>
 
-For colouring activities, visit the [colouring-page collection](../../../assets/puzzles/README.md#colouring-pages).
 
 Choose a crossword edition below, or select the preview to browse the collection. These activities are optional.
 
@@ -311,6 +310,12 @@ Choose a crossword edition below, or select the preview to browse the collection
 </div>
 <p class="puzzle-status">PDFs open in a new tab. Easy includes a word bank.</p>
 </div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-4-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab or window"><img src="{{ '/assets/puzzles/colouring/lesson-4-coloring-book.png' | relative_url }}" alt="A bucket marked Available Capacity, with streams flowing in and several drains flowing out." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-4-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 4 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-4">browse the colouring collection</a>.
 
 ---
 
