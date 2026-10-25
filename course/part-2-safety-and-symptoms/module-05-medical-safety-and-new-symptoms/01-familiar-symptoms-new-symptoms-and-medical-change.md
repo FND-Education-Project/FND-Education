@@ -236,21 +236,209 @@ Next, we'll use what you've learned to help prepare your individual safety plan.
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-<!--
-EDITORIAL WORK-IN-PROGRESS — LESSON 12 SUPPORTER SECTION.
-NOT APPROVED FOR PUBLICATION. Replace this whole scaffold with the reviewed prose before merging PR #186.
+### When what you're seeing doesn't quite add up
 
-VOICE BRIEF
-Write as friendly, thoughtful advice shared over coffee: conversational and warm, educational with strong reasoning, grounded in what Lessons 1–11 taught. Audience includes supporters around age 14 as well as adults; use clear language while explaining useful clinical terms. Slow the pace for FCD readers, favour a relatable scene over a rapid list, and frame ideas positively. Avoid first-person narration (no authorial "I" or "we"). Honour varied symptoms, uncertainty, autonomy and dignity. Avoid implying functional symptoms are chosen, manufactured, or require psychological trauma. Show the reasoning for suggestions rather than issuing commands. No premature assumption that an individualized safety plan already exists; it is developed in Lesson 13.
+Imagine someone you care about is struggling to move their arm.
 
-OUTLINE — LESSON 12: NOTICE AND UNDERSTAND
-1. When symptoms look puzzling: relatable scene (walking/speech changes or symptoms responding to suggestion). Acknowledge understandable supporter doubt without endorsing disbelief. Draw on course learning: positive clinical evidence, variation, attention and suggestion can affect real, involuntary symptoms.
-2. Observe rather than guess the cause: gently recall trigger, warning sign, episode, persistent symptom and aftermath/recovery. A trigger may precede an episode, a warning may signal its beginning, and a consequence follows it; persistent symptoms may vary without distinct episodes. Some people have no obvious trigger or warning.
-3. Two people may remember differently: FCD, incomplete/confused timelines, differences in witnessing versus experiencing. Encourage receptive listening and mutually agreed notes on the existing symptom map, as useful, without turning observations into surveillance or a contest over who is right.
-4. New or clearly changed symptoms: how observation can make clinical reassessment more effective, and when immediate dangers require urgent help. Supporters are not asked to diagnose. Preserve privacy and the person’s choices.
-5. Bridge: understanding patterns and concerns provides material for both people to discuss practical safety arrangements in Lesson 13. No repeated symptom-map instructions.
-QUALITY TARGET: Distinct from Lesson 13's collaborative practical planning and Lesson 14's in-the-moment supported decisions.
--->
+They reach for a cup, but their hand barely moves.
+
+A little later, they're laughing at something on television and reach for their phone without much trouble.
+
+Hang on. How does that work?
+
+It's the sort of thing that can leave a supporter scratching their head.
+
+Perhaps you've seen something similar with walking, speaking, shaking, memory or another symptom.
+
+And sometimes the changes seem to happen when someone mentions the symptom or draws attention to it.
+
+It's understandable to have questions. You might even wonder whether the person has some control over what's happening.
+
+That's where everything you've learned about FND so far becomes useful.
+
+### Remember what we've learned about FND?
+
+Earlier lessons introduced the roles of attention, prediction and the way the brain processes information.
+
+You also learned that symptoms can change depending on the situation.
+
+For some people with FND, movement or another ability may become easier when their attention shifts. A symptom might also change in response to a suggestion.
+
+That can look pretty strange from the outside.
+
+But here's the important part.
+
+**A symptom changing with attention or suggestion doesn't mean the person is choosing to produce it.**
+
+These changes can be part of how real, involuntary functional symptoms behave.
+
+Clinicians may even use certain changes during examination as *positive diagnostic signs*—findings that help them recognise FND.
+
+Of course, the way a symptom behaves in one moment isn't enough for a supporter to diagnose it.
+
+And this is where you can give someone something especially valuable.
+
+**You can believe what they're experiencing, even when you don't fully understand how it's happening.**
+
+You might still have questions. That's okay.
+
+Being curious and being supportive can go together.
+
+### Those little details you've been noticing
+
+Over the previous lessons, we've introduced several terms that help make sense of symptoms.
+
+Let's bring a few of them together.
+
+Imagine someone with FND is having a particularly difficult afternoon.
+
+They've been in a noisy environment for a while. Then they notice a familiar strange feeling. Shortly afterwards, one of their usual episodes begins.
+
+When it's over, they're exhausted.
+
+There's quite a bit of information in that little story.
+
+The noise might have been a **trigger**—something that contributed to making the episode more likely.
+
+That strange feeling might have been a **warning sign**, something the person noticed as the episode was approaching or beginning.
+
+And the exhaustion afterwards? That could be a **consequence** of the episode, although other things may contribute to it too.
+
+Notice the word *might*.
+
+Seeing two things happen close together gives you a clue. It doesn't necessarily tell you what caused what.
+
+Some people have episodes without an obvious trigger or warning.
+
+Others experience **persistent symptoms** that stay with them for much of the day, perhaps becoming better or worse at different times.
+
+An **episode**, by comparison, has a recognisable period of symptoms, although recovery may take longer.
+
+Why are these distinctions useful?
+
+Because describing *what happened* is often more helpful to a clinician than trying to explain *why it happened*.
+
+And that takes some pressure off you.
+
+You can be a helpful observer without having to become a neurologist.
+
+### What if you remember it differently?
+
+Here's another situation that can get complicated.
+
+Perhaps you remember an episode happening on Tuesday.
+
+The person you're supporting is certain it happened weeks earlier.
+
+Or you remember a long period when they couldn't speak, while they recall only a few moments.
+
+It can feel strange when two people who were there remember the same event differently.
+
+Earlier in the course, we talked about **functional cognitive disorder (FCD)** and the way thinking and memory can become unreliable.
+
+Someone may genuinely remember an event differently from the way you do.
+
+And, of course, supporters can forget details as well. Our memory isn't exactly a perfect filing cabinet.
+
+Sometimes two people are also noticing different parts of an experience.
+
+One person may remember the fear or confusion they felt during an episode. The other may remember how long it lasted or what was happening around them.
+
+Both perspectives can provide useful information.
+
+When memory differences become frustrating, a shared note can sometimes help.
+
+For instance, you might agree to record an important medical event together while the details are still reasonably fresh.
+
+The symptom map from Lesson 11 can hold the information that matters.
+
+**The aim is to build a clearer shared picture, rather than decide whose memory wins.**
+
+And when someone finds it difficult to remember their own experiences, being listened to with patience can make an enormous difference.
+
+### What if something really has changed?
+
+Remember the difference between familiar, changed and new symptoms from the Person section of this lesson?
+
+Supporters can sometimes notice changes that the person experiencing the symptoms hasn't recognised.
+
+Perhaps an episode begins differently.
+
+Maybe recovery is taking much longer than the pattern their clinician has assessed.
+
+Or perhaps there's been an injury or an entirely unfamiliar symptom.
+
+These observations may help the healthcare team decide what needs attention.
+
+A known FND diagnosis can explain familiar symptoms while another medical problem may still need assessment.
+
+And some situations, such as serious injury, severe breathing difficulty or sudden signs of a possible stroke, require emergency care.
+
+**The important thing is recognising when the situation deserves medical attention, rather than feeling responsible for deciding the diagnosis yourself.**
+
+You can help describe what's different and seek appropriate assistance when needed.
+
+### Listening is part of keeping someone safe
+
+Something interesting happens when supporters become better at observing.
+
+They may start recognising patterns the person with FND hasn't noticed.
+
+That can be helpful.
+
+But the person experiencing the symptoms also has information that nobody else can see.
+
+Perhaps a particular sensation tells them an episode may be approaching.
+
+Maybe they know that certain kinds of help make things easier, while others make recovery more difficult.
+
+Or perhaps they need a different kind of support than the one you've been offering.
+
+That's why being receptive matters.
+
+You bring what you've noticed.
+
+They bring what they've experienced.
+
+And together, you may discover something neither of you had understood quite as clearly before.
+
+Of course, conversations about symptoms can sometimes become tiring, especially when both people have already had a difficult day.
+
+There's room to choose when a conversation would be useful and when it's better to leave it for another time.
+
+**Good observation helps you understand someone. Good listening helps you use that understanding in a way that respects them.**
+
+### Something to think about
+
+Has there been a time when a symptom surprised you because it looked different from what you expected?
+
+How might what you've learned about FND change the way you understand that experience?
+
+And is there something the person you support has told you about their symptoms that you'd like to understand better?
+
+### One small thing you can try
+
+The next time the person you're supporting describes a symptom, try giving their explanation a little room.
+
+Perhaps there's something they'd like you to notice, or a detail that could help their healthcare team.
+
+If you both think it's useful, that information can find a place on the symptom map you learned about in Lesson 11.
+
+There's no need to turn everyday life into a constant observation exercise.
+
+**The goal is to understand one another a little better, so that when help is needed, it fits the person and the situation.**
+
+### Coming up next
+
+You've spent quite a few lessons learning about FND and the different ways it can affect someone's life.
+
+Now we're going to put that understanding to work.
+
+In the next lesson, we'll explore how two people can turn what they've learned into practical arrangements that make everyday life safer and easier.
+
+That includes something just as important as understanding the person with FND:
+
+**Understanding what the supporter needs, too.**
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
