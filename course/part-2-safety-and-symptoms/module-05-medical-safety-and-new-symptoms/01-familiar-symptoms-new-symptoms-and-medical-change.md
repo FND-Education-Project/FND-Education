@@ -383,6 +383,12 @@ For instance, you might agree to record an important medical event together whil
 
 The symptom map from Lesson 11 can hold the information that matters.
 
+A parent supporting a teenager with FND described why another person's observations could help:
+
+> “A diary is good idea and think anyone who witnesses might be good too as he doesn’t remember what happens.”
+
+*Figure 2. A parent's perspective in an [FND community discussion](https://www.reddit.com/r/FND/comments/1n8gljg/teenage_son_diagnosed_any_helpful_advicesupport/). The account concerns memory around episodes; it does not establish an FCD diagnosis.* (*citations* [9](#citation-9))
+
 **The aim is to build a clearer shared picture, rather than decide whose memory wins.**
 
 And when someone finds it difficult to remember their own experiences, being listened to with patience can make an enormous difference.
@@ -686,6 +692,7 @@ The clinical exercise is based on two published case reports. The emergency-depa
 | <a id="citation-6"></a>**[6]** | — | Berry AJ, Wiethoff S. Revising a diagnosis of functional neurological disorder—a case report. *Oxford Medical Case Reports*. 2020;2020(9):omaa073. [https://doi.org/10.1093/omcr/omaa073](https://doi.org/10.1093/omcr/omaa073) [FND-CIT-0294](../../../research/citation-index.md#fnd-cit-0294). |
 | <a id="citation-7"></a>**[7]** | Figure 1 | Public Reddit comment, now-deleted account, in “Sharing my success story.” r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1ievray/comment/mamm6gr/). Verified October 25, 2026. Individual lived experience. [FND-CIT-0295](../../../research/citation-index.md#fnd-cit-0295). |
 | <a id="citation-8"></a>**[8]** | — | Ball HA, McWhirter L, Ballard C, Bhome R, Blackburn DJ, Edwards MJ, et al. Functional cognitive disorder: dementia’s blind spot. *Brain*. 2020;143(10):2895–2903. [https://doi.org/10.1093/brain/awaa224](https://doi.org/10.1093/brain/awaa224) [FND-CIT-0071](../../../research/citation-index.md#fnd-cit-0071). |
+| <a id="citation-9"></a>**[9]** | Figure 2 | Public parent contribution in “Teenage son diagnosed, any helpful advice/support?” r/FND. [Original discussion](https://www.reddit.com/r/FND/comments/1n8gljg/teenage_son_diagnosed_any_helpful_advicesupport/). Quotation checked in the October 25, 2026 caregiver quotation bank. Individual lived experience; memory surrounding episodes is not a confirmed FCD diagnosis. [FND-CIT-0299](../../../research/citation-index.md#fnd-cit-0299). |
 
 This page still needs review by people with FND, supporters, emergency clinicians and neurologists.
 
