@@ -2879,3 +2879,19 @@ National Institute for Health and Care Excellence. *Decision-making and mental c
 **Type and scope:** Decision support and capacity guidance for people aged 16+ in England and Wales; not a universal legal framework.
 
 **Current use:** [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
+
+## FND-CIT-0299
+
+Public Reddit discussion, “Teenage son diagnosed, any helpful advice/support?”, r/FND. [Original discussion](https://www.reddit.com/r/FND/comments/1n8gljg/teenage_son_diagnosed_any_helpful_advicesupport/). Quotation Q034 from a parent, as verified in *FND-Caregiver-Quotation-Bank-Lessons-13-75.docx*, October 25, 2026.
+
+**Type and scope:** Individual caregiver experience about observations and written records when a teenager cannot remember an event; does not establish functional cognitive disorder or a universal recording strategy.
+
+**Current use:** [Lesson 12, Supporter section](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md).
+
+## FND-CIT-0300
+
+Public Reddit comment in “Me help wife and put up FND info whiteboard”, r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1u9enx1/comment/osfpj8r/). Quotation Q093 by a spouse, as verified in *FND-Caregiver-Quotation-Bank-Lessons-13-75.docx*, October 25, 2026.
+
+**Type and scope:** Individual supporter report that an existing detailed care plan was not consistently consulted. The original forum post was deleted and its approach disputed; this surviving quotation is not endorsement of the original whiteboard or evidence for a particular document design.
+
+**Current use:** [Lesson 13, Supporter section](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md).
