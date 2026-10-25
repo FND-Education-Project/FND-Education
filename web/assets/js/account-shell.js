@@ -130,10 +130,13 @@
       try {
         const ts = await loadTurnstile();
         if (!ts || typeof ts.render !== "function") throw new Error("Verification could not load. Please try again.");
+        // A previous challenge can expire or fail. Only rebuild it after
+        // another explicit click, never while a visitor is entering an email.
+        if (widgetId !== undefined) { ts.remove(widgetId); widgetId = undefined; }
         widgetId = ts.render(widget, { sitekey: options.turnstileSiteKey, action: "email_login",
           callback(value) { token = value; send.disabled = busy; },
           "expired-callback"() { token = ""; send.disabled = true; },
-          "error-callback"() { token = ""; send.disabled = true; feedback.textContent = "Verification could not finish. Please try again."; }
+          "error-callback"() { token = ""; send.disabled = true; beginVerification.disabled = false; feedback.textContent = "Verification could not finish. Select Continue to human verification to retry."; }
         });
       } catch {
         // The visitor can retry deliberately; never start a widget while
@@ -173,12 +176,11 @@
       } catch (error) {
         feedback.textContent = error.name === "TimeoutError" ? "The request took too long. Please try again later." : error.message;
       } finally {
-        busy = false; token = "";
-        if (window.turnstile && widgetId !== undefined) window.turnstile.reset(widgetId);
+        busy = false;
+        clearVerification();
       }
     });
-    again.addEventListener("click", () => {
-      challengeId = null; verify.hidden = true; form.hidden = false;
+    function clearVerification() {
       token = ""; send.disabled = true;
       if (window.turnstile && widgetId !== undefined) {
         window.turnstile.remove(widgetId);
@@ -186,6 +188,10 @@
       }
       widget.hidden = true;
       beginVerification.disabled = false;
+    }
+    again.addEventListener("click", () => {
+      challengeId = null; verify.hidden = true; form.hidden = false;
+      clearVerification();
       feedback.textContent = "Wait at least one minute between code requests. Requesting a new code replaces the previous code in this browser.";
       // Wait for an explicit verification click after any email edits.
       email.focus();
