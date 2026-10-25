@@ -72,6 +72,14 @@ One community member described how much memory difficulties affected everyday ca
 
 That's one person's experience. It shows why an [outside reminder](../../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md)—or help from someone you trust, if you have and want that support—can be valuable. You can also make and use a map on your own.
 
+<figure class="image-60center" markdown="1">
+
+![A person and clinician discuss a symptom map with sections for diagnoses, questions, helpful supports and safety.](../../../assets/images/lesson-11-illustration.png)
+
+<figcaption>A map gives your own health information a place in the conversation. The pictured entries are examples; your safety information belongs to your own clinician-reviewed plan.</figcaption>
+
+</figure>
+
 ### What belongs on the page?
 
 Your map could have a place for a condition that's been diagnosed, along with a separate space for a symptom that still needs assessment.
@@ -186,6 +194,13 @@ Revisit the lesson with a crossword. The easy edition includes a word bank.
 </div>
 <p class="puzzle-status">PDFs open in a new tab.</p>
 </div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-11-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab or window"><img src="{{ '/assets/puzzles/colouring/lesson-11-coloring-book.png' | relative_url }}" alt="A person and clinician discuss a symptom map with sections for diagnoses, questions, helpful supports and safety. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-11-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 11 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-11">browse the colouring collection</a>.
+
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
