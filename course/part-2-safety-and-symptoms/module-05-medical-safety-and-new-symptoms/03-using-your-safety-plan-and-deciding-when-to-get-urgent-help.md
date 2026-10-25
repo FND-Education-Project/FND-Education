@@ -18,66 +18,239 @@ This page is about using a plan in real time. It cannot tell you whether a parti
 ## For the Person With FND
 {: #for-the-person-with-fnd .shareable }
 
-### Definition
+### The plan starts before anything happens
 
-An **escalation threshold** is a change or safety concern that your plan says needs more help. To **escalate** may mean contacting your usual team, an urgent service or emergency services, depending on the situation.
+You're about to visit a park you've never been to before.
 
-![A path asks whether the event is familiar, whether anything is different and what the individual plan says.](../../../assets/illustrations/module-5-page-3-safety-plan-path.svg)
+The weather's nice. You've brought what you need, and you're looking forward to getting outside.
 
-*Illustration: pause, compare and use the plan while responding to immediate danger.*
+But there's something worth checking.
 
-### If you read only one thing
+What if you have an episode while you're there?
 
-The first job is safety, not proving what caused the event.
+Maybe you sometimes need a wheelchair after an episode. Part of the trail looks pretty rough, and you're not sure a wheelchair could get through.
 
-### A simple order to remember
+Hmm. That might be a problem.
 
-1. **Protect.** Stop an unsafe activity and move away from immediate hazards if this can be done safely.
-2. **Compare.** Ask whether this matches the event type your clinicians assessed.
-3. **Follow.** Use the agreed response, communication method and recovery time.
-4. **Get more help when needed.** Follow individualized thresholds. If the plan does not fit, the symptom is new or substantially changed, or the situation seems immediately unsafe, seek appropriate medical help.
+You and whoever's with you could check the route before setting off. Perhaps there's another path that would make getting help easier.
 
-Do not delay urgent care in order to finish a checklist. Do not drive yourself if your symptoms make driving unsafe.
+There you go. You've just used your safety plan.
 
-### After the event
+And you haven't even started walking yet!
 
-Recovery can be part of the event. Some people need quiet, sleep, hydration or help rearranging the rest of the day. Use only measures that are safe for you. Record one or two facts if they may change future care; you do not need to write a minute-by-minute account of every familiar event.
+**Safety planning isn't only about what happens during an episode. It's also about preparing for situations where your symptoms could make things difficult.**
 
-If the plan repeatedly feels impossible to use, that is information. Ask for a review rather than blaming yourself.
+### Little checks can make a difference
 
-### Community experiences for review
+My wife and I have developed a habit of checking unfamiliar situations before we get too far into them.
 
-These three accounts describe recovery, interrupted daily life and planning ahead with another person. They are lived experiences, not emergency rules or evidence of universal triggers.
+For example, before getting out of the vehicle somewhere busy, we'll check whether I've got my earplugs in.
 
-**Option 1 — recovery can continue after movement stops**
+My hyperacusis makes certain sounds painful and these easily trigger functional seizures, so having those earplugs ready can make a real difference.
 
-> “Even when the seizure is done, I’m still somewhat-catatonic for at least a few hours.”
+When we're going somewhere new, we also think about how accessible it is and what we would do if I needed help.
 
-— The writer described a long period of reduced responsiveness after episodes. [Read the public source](https://www.reddit.com/r/FND/comments/1o3u59q/what_do_you_guys_think_about_during_seizures/).
+It's become a fairly ordinary part of how we do things.
 
-**Option 2 — an episode can interrupt ordinary life**
+Your own checks might be completely different.
 
-> “Sometimes I get stressed and have a seizure and our conversation sort of ends, is interrupted.”
+Perhaps you need to know whether there's somewhere to sit. Maybe you're wondering about stairs, noise, lighting or how easily you could leave.
 
-— The writer described the effect of episodes during difficult conversations. [Read the public source](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/).
+The aim is to make useful decisions ahead of time, rather than spending the whole outing worrying about what might happen.
 
-**Option 3 — preparing together in a calm moment**
+After all, the idea is to enjoy the park, too!
 
-> “One thing that really helps us is discussing ground rules for conflict when we’re not actively IN it.”
+### When an episode begins
 
-— A supporter described making communication agreements ahead of time. This illustrates collaborative preparation, rather than a clinical emergency protocol. [Read the public source](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/).
+Let's imagine you're enjoying that walk when you notice a familiar warning sign.
 
-### Questions
+For some people, an episode begins without warning. Others have a little time to respond.
 
-#### When an episode starts, what helps you feel protected rather than controlled?
+If you recognise a warning, you might be able to signal someone or move to a safer place.
 
-#### What kind of recovery time do you wish other people understood?
+That's something I've learned to do with my wife.
+
+When I notice a warning that one of my functional seizures may be starting, I try to let her know.
+
+If there's time and it's safe, she'll help me find somewhere to sit.
+
+It sounds pretty simple, but there's a lot of experience behind those few moments.
+
+We've learned what works in some situations, what makes things harder, and when we need another approach.
+
+Sometimes the safest thing is to stay where you are and have someone make the surroundings safer.
+
+During seizure-like episodes, people helping should protect against nearby hazards without restraining movements or putting anything in the person's mouth.
+
+Your own medically agreed plan can guide the response to familiar episodes.
+
+### The person helping you needs to be safe, too
+
+Here's something my wife and I learned the hard way.
+
+Helping someone move when their body isn't cooperating can be physically demanding.
+
+Over the years, my wife has injured herself repeatedly while helping me transfer or move during and after episodes.
+
+Those injuries have become a serious medical concern for her.
+
+So we've had to think carefully about how we help each other.
+
+For example, we've developed preferences about where I place my hands when she helps me stand or move.
+
+That matters to her. Her comfort, balance and physical safety are part of the situation.
+
+And when my legs are still weak during recovery, something as ordinary as getting down a staircase can become a much bigger challenge.
+
+We've learned that we need to talk about what each of us can manage.
+
+**Helping someone should never mean that the helper has to risk serious injury.**
+
+Our arrangements are personal examples, rather than instructions for lifting, transferring or helping someone on stairs. Those activities can be dangerous when balance or leg control is unreliable. An occupational therapist or physiotherapist can help assess safe methods, equipment and alternatives.
+
+Sometimes that may mean getting additional help, choosing another route or allowing more time.
+
+And the conversation needs to go both ways.
+
+Perhaps your supporter has a sore back, an injury or is simply exhausted.
+
+Maybe they feel uncomfortable with something you've previously asked them to do.
+
+That's useful information.
+
+You can work together to find another approach, including involving your healthcare team.
+
+A good safety plan should consider **what the person with FND needs and what their supporter can safely provide.**
+
+### Does the situation still fit your plan?
+
+Now imagine that you've reached somewhere safe during your familiar episode.
+
+Your supporter knows what usually happens and what you've agreed helps.
+
+Perhaps they give you space, reduce unnecessary noise or allow you time to recover.
+
+That's your plan doing its job.
+
+But what if something different happens?
+
+Maybe you fall and hit your head.
+
+The episode itself might be familiar, but the injury is a new concern.
+
+Or perhaps your symptoms are very different from the pattern your clinicians have assessed.
+
+Those changes may need another medical look.
+
+Your plan can explain which situations your care team has agreed are manageable using the familiar response, and which require additional help.
+
+Doctors sometimes call these decision points **escalation thresholds**.
+
+That's a fancy way of saying, "This is when we need more help."
+
+Sometimes that means contacting your regular healthcare team.
+
+Other situations require urgent or emergency care.
+
+Severe breathing difficulty, a serious injury, or sudden signs of a possible stroke need emergency attention.
+
+**If there's immediate danger or a possible medical emergency, seek emergency care right away.**
+
+Your plan is there to guide care, rather than delay it.
+
+### Recovery is part of the experience
+
+For some people, the most noticeable symptoms of an episode finish before they've fully recovered.
+
+One person in an FND community described it this way:
+
+> "Even when the seizure is done, I'm still somewhat-catatonic for at least a few hours."
+
+*— One person's description of recovery in an [FND community discussion](https://www.reddit.com/r/FND/comments/1o3u59q/what_do_you_guys_think_about_during_seizures/).*
+
+The person used *catatonic* to describe their experience. It isn't a confirmed medical diagnosis in this account.
+
+Your recovery might look quite different.
+
+Perhaps you're exhausted. Maybe your speech is still difficult, or your legs aren't working as well as usual.
+
+This is another time when your safety plan can help.
+
+If your care team has assessed your usual recovery pattern, the plan can explain what support is appropriate.
+
+And this is where checking in with your supporter matters again.
+
+Perhaps helping you get somewhere comfortable would be physically difficult for them.
+
+Is there another safe option?
+
+Would equipment or additional assistance make things easier?
+
+Recovery should be manageable for everyone involved.
+
+New or unexpectedly prolonged reduced responsiveness needs prompt medical attention, and ongoing unresponsiveness or immediate danger requires emergency help.
+
+### When something doesn't work as expected
+
+Even a carefully prepared plan can run into problems.
+
+Maybe you discover that a wheelchair can't get through somewhere you expected it to.
+
+Perhaps your supporter isn't available, or a particular way of helping has become too difficult.
+
+Those experiences can tell you where the plan needs adjusting.
+
+You can bring them to the relevant clinician or therapist and explore another solution.
+
+Sometimes the answer is a small change.
+
+Other times, it might involve different equipment, additional support or a change to your surroundings.
+
+**A safety plan is something you can improve as you learn what works in real life.**
+
+### Something to think about
+
+Think about a place you visit regularly.
+
+Is there anything you've already changed to make it safer or easier to manage?
+
+Perhaps you've found somewhere comfortable to sit, arranged accessible transport or learned to carry something useful.
+
+Now consider someone who helps you.
+
+Do you both feel comfortable with the arrangements you've made?
+
+Is there something that would make helping safer or easier for them?
+
+These can be valuable conversations to have when you're both feeling up to them.
 
 ### One small thing you can do
 
-Practise finding your plan and reading only its first instruction. A lower-demand version is to show one trusted person where it is stored.
+The next time you're preparing to go somewhere, think about **one practical safety question**.
 
-Do not rehearse a symptom or provoke an event. If reading the plan reveals unclear or unsafe instructions, pause and ask the responsible clinician to revise it.
+For example:
+
+"If I needed help here, what would make things easier?"
+
+You might already know the answer.
+
+Perhaps you need to bring something, choose a more accessible route or have a quick conversation with someone accompanying you.
+
+And if you've already worked out a solution, there's no need to start again.
+
+You've been using your safety plan.
+
+**The goal is to help everyone involved feel more prepared, so there's more room to enjoy everyday life.**
+
+### Coming up next
+
+We've now looked at recognising important medical changes, preparing for familiar difficulties, and putting those preparations to use.
+
+Next, we'll explore **functional seizures and other episodic symptoms** in greater detail.
+
+We'll look at how these episodes can appear, how clinicians assess them, and what kinds of care and support may help.
+
+The lessons that follow will explore other FND symptoms and their particular needs, too.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
