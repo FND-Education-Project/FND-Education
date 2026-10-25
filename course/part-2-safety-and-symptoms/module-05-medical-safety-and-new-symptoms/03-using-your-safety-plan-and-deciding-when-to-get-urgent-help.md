@@ -262,23 +262,315 @@ The lessons that follow will explore other FND symptoms and their particular nee
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-<!--
-EDITORIAL WORK-IN-PROGRESS — LESSON 14 SUPPORTER SECTION.
-NOT APPROVED FOR PUBLICATION. Replace this whole scaffold with the reviewed prose before merging PR #186.
+### When helping someone make a decision gets complicated
 
-VOICE BRIEF
-Warm, thoughtful advice over coffee, substantial reasoning beneath casual language. Teen-readable, respectful of adults; an unrushed pace suitable for FCD. No authorial first-person narration. Maintain affirming framing while staying clear about immediate medical hazards. Explain choices rather than issue orders. Support autonomy and informed risk without neglecting serious danger; make supporters' safety and needs visible. Do not repeat the document-building work of Lesson 13 or symptom descriptions from Lesson 12.
+It's Saturday morning.
 
-OUTLINE — LESSON 14: RESPOND TOGETHER
-1. Everyday supported decision: someone wants to walk in a new park or invite a friend on a low-capacity day; the supporter recalls factors that could affect the hoped-for outcome. Acknowledge both perspectives.
-2. Supported decision-making: offer information, likely consequences and alternatives while leaving meaningful choices with the person, taking account of consent, capacity and relevant legal/clinical context. People can make imperfect ordinary choices; supporters can discuss outcomes without treating disagreements as emergencies.
-3. FCD can complicate the big picture: mixed or incomplete memories, time confusion and difficulty considering multiple factors; a supporter can gently supply context, write options down or suggest a smaller version of an activity, without assuming incompetence or taking decisions by default.
-4. Different symptoms, different decisions: brief examples about accessible routes/wheelchair fallback, sensory checks like earplugs, and swallowing needs where decisions about timing/texture/position require appropriate clinician or speech-language pathology guidance. No generic feeding-safety recipe.
-5. When an episode or warning appears: use the agreed plan, make the environment safer, respect communication, and avoid physical transfers that put either person at risk; recognize when additional help is needed. Distinguish a familiar episode from new injury or important medical change. Immediate dangers require emergency care.
-6. After an episode: recovery can be demanding for both people; check the supporter's physical and emotional capacity; reflect later on what worked and adjust the plan in partnership.
-7. Close: keep independence, safety, shared responsibilities and real-life participation in balance; lead into Module 6 without duplicating its seizure-specific teaching.
-QUALITY TARGET: Show how both people use their preparations in daily decisions and genuine events. Avoid repetition of plan construction.
--->
+Someone you care about has been having a difficult week with their FND symptoms.
+
+Then their phone rings.
+
+A friend wants to come over for a visit.
+
+Suddenly, there's a little excitement in the room. They've been looking forward to seeing this friend.
+
+That sounds lovely.
+
+But you're remembering something.
+
+The last time they had company for a couple of hours, they were exhausted afterwards. Their symptoms became more difficult, and they needed extra help for the rest of the day.
+
+You mention it.
+
+They seem surprised.
+
+"Really? I don't remember that."
+
+Now what?
+
+You want them to enjoy themselves. Seeing friends matters.
+
+You're also wondering how the afternoon might turn out.
+
+**This is where supporting someone's independence and looking after their safety can become a bit of a balancing act.**
+
+### Helping someone choose
+
+There's a useful term for what happens next.
+
+It's called **supported decision-making**.
+
+It means helping someone understand their choices and possible consequences while keeping them involved in making their own decisions.
+
+Think about that visit.
+
+Perhaps you could explain what happened last time and ask what they're hoping to enjoy today.
+
+Maybe the most important thing is simply spending some time together.
+
+Would a shorter visit give them that opportunity?
+
+Could their friend come earlier, when they often have more energy?
+
+Or perhaps they'd prefer the full visit, knowing they may need extra recovery time afterwards.
+
+There are several possibilities.
+
+And sometimes the person will choose something you wouldn't have chosen yourself.
+
+That can be uncomfortable.
+
+But making meaningful choices includes having room to try things, learn from them and occasionally discover that something worked differently than expected.
+
+**Being supportive means helping someone make informed choices, rather than trying to make every choice for them.**
+
+There's an important difference between an ordinary decision with manageable risks and a situation involving serious or immediate danger.
+
+We'll come back to that shortly.
+
+### When memory makes the picture harder to see
+
+Remember functional cognitive disorder, or **FCD**, from earlier lessons?
+
+For some people, thinking and memory difficulties can make decisions especially challenging.
+
+Imagine trying to make a choice when some important pieces of information seem to have disappeared.
+
+Perhaps the person remembers enjoying a visit but has no memory of the difficult recovery afterwards.
+
+Or maybe they remember what happened but struggle to judge how much energy another activity might require today.
+
+They may be working with a different picture of the situation than you are.
+
+That doesn't mean they're choosing to ignore the consequences.
+
+And it doesn't mean they cannot make decisions.
+
+FCD can affect memory, concentration and the ability to bring several pieces of information together. A person's ability to make a particular decision depends on more than a diagnosis.
+
+As a supporter, you may be able to help by bringing a missing piece of information back into view.
+
+For example:
+
+"The note from the last visit says you were exhausted afterwards. Would you like to plan a shorter visit this time?"
+
+That gives them information they can use.
+
+You could also talk through one choice at a time, offer a written reminder or give them a little more time.
+
+And if your memories differ?
+
+That can be difficult for both people.
+
+Someone who genuinely remembers an event differently may feel confused or even frightened when their account is challenged.
+
+A shared note, when you've both agreed to use one, can sometimes help.
+
+The goal is to build understanding together.
+
+**Reliable support can help someone hold the bigger picture in mind while leaving their preferences and choices at the centre.**
+
+### What if they want something you think is risky?
+
+Let's try another situation.
+
+The person you support wants to go for a walk in a new park.
+
+You know they sometimes need a wheelchair after an episode.
+
+The park looks beautiful, but parts of the trail may be difficult to access.
+
+You could respond by pointing out the problem and offering to explore the route together.
+
+Perhaps there's an accessible path.
+
+Maybe a shorter walk would be more manageable.
+
+Or you might discover that another park would offer the same enjoyable outing with fewer difficulties.
+
+That's a useful conversation.
+
+The person still gets to say what matters to them.
+
+And you get to contribute what you know about the practical challenges.
+
+Your own needs matter here as well.
+
+If the route would require you to lift a wheelchair or physically support someone beyond what you can safely manage, that's an important limitation.
+
+You can help find another way to enjoy the outing without agreeing to assistance that could injure either of you.
+
+**Supporting independence works best when the plan is realistic for everyone involved.**
+
+### Different symptoms can call for different conversations
+
+A walk is one example.
+
+For someone else, the question might be whether they're ready to have visitors after a difficult morning.
+
+Maybe it's whether a busy restaurant will be comfortable when noise makes their symptoms worse.
+
+Sometimes the decisions involve medical safety more directly.
+
+Imagine someone who has difficulty swallowing.
+
+They want to enjoy a meal, but swallowing has sometimes been difficult or unsafe.
+
+Food is about more than nutrition. Meals are also about enjoyment, independence and sharing time with other people.
+
+So the aim is to support those parts of life while respecting the person's swallowing needs.
+
+A speech-language pathologist or another appropriate clinician can assess swallowing and recommend ways to eat and drink more safely when needed.
+
+That advice may involve food texture, positioning, timing or supervision, depending on the person's individual difficulties.
+
+The supporter can help the person follow an agreed approach while listening to their preferences.
+
+New or worsening swallowing problems deserve medical assessment. Choking with inability to breathe is an emergency.
+
+The same general idea applies across many symptoms.
+
+**The person's goals matter, and the medical information helps everyone understand which choices are safe to offer.**
+
+### When an episode happens
+
+Now imagine the outing to the park is going well.
+
+Then the person notices a familiar warning that an episode may be starting.
+
+They signal you.
+
+This is where the preparations from the previous lesson become useful.
+
+Perhaps the person can move to a safer place with your assistance.
+
+Or maybe the safest option is to help clear nearby hazards while they remain where they are.
+
+Their individual, clinician-reviewed plan can guide you.
+
+You also know what help you can safely provide.
+
+If moving or transferring them would put either of you at risk, that's a reason to use another agreed option or get additional assistance.
+
+And throughout the episode, their communication needs and preferences still matter.
+
+Sometimes they may be unable to explain what they want.
+
+That's when previously agreed instructions can be particularly helpful.
+
+For a familiar event, the plan can guide the response.
+
+If there's a serious injury, severe breathing difficulty, sudden signs of a possible stroke or another immediate danger, emergency care takes priority.
+
+A new or substantially different event may also need fresh medical assessment.
+
+**Your role is to offer the help you can safely provide, recognise when the situation needs more, and use the plan as a guide rather than an absolute rule.**
+
+### When you're both running low
+
+Let's imagine the episode has ended.
+
+The person with FND is exhausted.
+
+Perhaps they're still having trouble speaking or moving comfortably.
+
+And you?
+
+Maybe you're tired too.
+
+Perhaps you had to help protect them from injury, arrange assistance or deal with an unexpected change of plans.
+
+Even when everything goes as well as possible, these situations can take a lot out of both people.
+
+This is a good time to remember what we discussed in Lesson 13 about available capacity.
+
+Recovery may involve reducing demands, using agreed supports or changing the rest of the day's plans.
+
+And if helping the person get somewhere comfortable would put you at risk of injury, additional help or a safer alternative may be needed.
+
+The immediate priority is appropriate care and safety.
+
+There can be time for a conversation about what happened later.
+
+### Talking about it when things have settled
+
+Sometimes a difficult experience reveals something useful.
+
+Perhaps the accessible route wasn't quite as accessible as expected.
+
+Maybe the person wanted a particular kind of help, but you hadn't realised it.
+
+Or perhaps you discovered that one part of the safety plan was too physically demanding.
+
+Those are things you can discuss together.
+
+One supporter in an online FND community described how helpful it had been to make agreements at a calmer time:
+
+> "One thing that really helps us is discussing ground rules for conflict when we're not actively IN it."
+
+*— A supporter's individual experience from an [FND community discussion](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/).*
+
+The commenter was describing communication in a relationship where difficult conversations could affect symptoms.
+
+The experience points to something useful beyond that particular situation.
+
+**It's often easier to understand each other's needs when you're both able to think, listen and respond comfortably.**
+
+Perhaps you can agree on a better way to signal that help is needed.
+
+Maybe a different route, piece of equipment or arrangement would make the next outing safer.
+
+And sometimes a supporter needs to explain that a particular responsibility has become too difficult or unsafe.
+
+That deserves a thoughtful response too.
+
+Your safety plan can change as you learn what works.
+
+### Something to think about
+
+Think of a recent decision where you and the person you support saw things differently.
+
+Perhaps it involved an outing, an activity, household responsibilities or a medical concern.
+
+What mattered most to each of you?
+
+Was there information that one person had and the other didn't?
+
+Could another option have met both people's needs more comfortably?
+
+There's no need to find the perfect answer.
+
+Sometimes a little more understanding makes the next conversation easier.
+
+### One small thing you can try
+
+The next time you're discussing an ordinary activity, try beginning with a question:
+
+**"What would you most like to get out of this?"**
+
+Perhaps the person wants to spend time with a friend, enjoy some fresh air or feel more independent.
+
+Knowing what matters to them can make it easier to explore ways of achieving it.
+
+You can contribute what you've noticed, explain your own limits and consider possible alternatives together.
+
+And if the situation involves a serious safety concern, you can bring in the appropriate healthcare professionals.
+
+**The aim is to protect the person's ability to participate in life while making room for the safety and wellbeing of everyone involved.**
+
+### Coming up next
+
+You've now explored three important parts of supporting someone with FND.
+
+You've learned how to observe unusual or changing symptoms with greater understanding.
+
+You've considered how to develop practical arrangements that respect both people's needs.
+
+And you've looked at how those arrangements can support decisions, independence and safety in everyday life.
+
+Next, we'll explore functional seizures and other episodic symptoms in more detail, including the different ways they can appear and the care they may require.
+
+The principles you've learned here will continue to be useful, whatever combination of symptoms the person you support experiences.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
