@@ -239,7 +239,7 @@ It explains the condition in greater depth than our short emergency sheet.
 
 We keep it available for situations where a clinician wants more information, especially when meeting someone new.
 
-**A longer FND information handout for healthcare professionals is also included with this lesson.** You can keep a copy alongside your own short emergency sheet.
+**A one-page FND information handout for healthcare professionals is included with this lesson.** [Download the clinician handout (PDF)](../../../assets/downloads/meeting-a-person-with-fnd-clinician-handout.pdf) and keep a copy alongside your own short emergency sheet.
 
 It's a way of sharing useful medical education without having to explain everything from memory.
 
@@ -497,7 +497,7 @@ The Person section of this lesson introduces two useful handouts.
 
 The first is a short, personal emergency information sheet. It describes the person's diagnosed conditions, familiar symptoms, communication needs and important medical information.
 
-The second is a longer explanation of FND for healthcare professionals.
+The second is a one-page explanation of FND for healthcare professionals. [Download the clinician handout (PDF)](../../../assets/downloads/meeting-a-person-with-fnd-clinician-handout.pdf).
 
 As a supporter, you may be able to help the person prepare or organise this information, if they'd like your involvement.
 
@@ -777,7 +777,7 @@ The **short personal emergency information sheet** summarises the person's diagn
 
 Its purpose is rapid orientation.
 
-The **longer FND information handout for healthcare professionals** provides background on the condition and its clinical assessment. It accompanies this lesson as a separate educational resource.
+The **one-page FND information handout for healthcare professionals** provides a concise orientation to the condition and its clinical assessment. [Download the clinician handout (PDF)](../../../assets/downloads/meeting-a-person-with-fnd-clinician-handout.pdf).
 
 The longer document explains FND.
 
