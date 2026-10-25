@@ -6,6 +6,10 @@ This folder contains repository-only editorial, review and production material f
 
 If a document becomes reader-ready, move it out of `_internal` into the appropriate public Reference location instead of adding a publication exception.
 
+## Course editorial handoffs
+
+- [Lesson 12 clinician case research and teaching outline](course/module-05-lesson-12-clinician-diagnostic-overshadowing-case-handoff-2026-10-25.md) — published diagnostic overshadowing cases, staged reasoning questions and continuation instructions for the editing chat.
+
 ## Diagnostic editorial archive
 
 - [Diagnostic reading guide](diagnostic-signs/essential-reading-review-order.md) — papers in symptom review order.
