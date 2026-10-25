@@ -18,72 +18,244 @@ An emergency plan is easiest to use when it is brief, specific to you and agreed
 ## For the Person With FND
 {: #for-the-person-with-fnd .shareable }
 
-### Definition
+### When a little preparation makes a big difference
 
-An **individual safety plan** is a short record of what usually happens, what helps, what should be avoided and when to get more help. An **emergency information card** is the quickest part of that plan for another person to read.
+Imagine you're at a medical appointment when your words suddenly become difficult to find.
 
-![A short emergency card lists identity, diagnoses, usual events, agreed responses, medicines, contacts and review date.](../../../assets/illustrations/module-5-page-2-emergency-information-card.svg)
+Someone asks what's happening.
 
-*Illustration: keep essential information short enough to use on a difficult day.*
+You know what you want to say. You've explained this before. But right now, getting the words out feels almost impossible.
 
-### If you read only one thing
+Wouldn't it be helpful if the person beside you already knew what to do?
 
-The plan should make a difficult moment simpler. If it is too long to scan during an event, make a shorter front page.
+Perhaps they could show the doctor a short note you've prepared. Or give you time to communicate another way.
 
-### What to include
+That's the sort of thing a **safety plan** can help with.
 
-Keep confirmed facts separate from possibilities. A useful first page may include:
+And here's the good news.
 
-- your name and preferred way of communicating;
-- confirmed diagnoses, including whether epilepsy or another condition coexists;
-- a one-sentence description of each familiar event type;
-- ordinary recovery time and what helps;
-- important allergies, medicines and equipment;
-- actions clinicians have said to avoid when they are not otherwise indicated;
-- individualized reasons to seek urgent help; and
-- whom to contact and when the plan was last reviewed.
+You've already made a start.
 
-Do not use a copied internet red-flag list as though it were personal medical advice. Ask a clinician which details could actually change care.
+### Remember that symptom map?
 
-### Make it usable on a difficult day
+In Lesson 11, you wrote down some of your symptoms, safety needs and things that help.
 
-Use large type, headings and short sentences. Store the same current version where you, a supporter and emergency staff can find it. If speech can become difficult, include how you answer yes/no, use text or need extra processing time.
+You may have written something like:
 
-The plan can say, “This resembles my familiar event,” while still allowing clinicians to investigate a new feature. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+*"Sometimes I can't speak during an episode."*
 
-### Community experiences for review
+That's useful information.
 
-These three accounts suggest why individual protection, clear medical information and a usable plan can matter. They are personal experiences, not emergency instructions.
+Now we can do something with it.
 
-**Option 1 — practical protection during seizures**
+Perhaps you and your care team decide that a note on your phone would help you communicate when speaking becomes difficult.
 
-> “During seizures he makes sure I am safe and not about to smack into something or fall.”
+You could also arrange for someone you trust to help explain your needs, if that's what you'd prefer.
 
-— A person with FND described support from their spouse. [Read the public source](https://www.reddit.com/r/FND/comments/1k8is0m/support_for_my_wife/).
+See the difference?
 
-**Option 2 — fear after a choking event**
+**Your symptom map identifies the need. Your safety plan helps you prepare for it.**
 
-> “My partner choked, I had to apply the Heimlich ... He’s afraid now.”
+And your plan can be much more than a piece of paper.
 
-— A supporter described an emergency and its emotional effect. [Read the public source](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/).
+Sometimes it's a change to your surroundings. Sometimes it's equipment, supplies or an agreement with someone who helps you.
 
-**Option 3 — clear information after diagnosis**
+Let's look at how one person's plan grew over time.
 
-> “I was told next to nothing, given no expectations”
+### How my own safety plan came together
 
-— One person described receiving little information after their diagnosis. This is a communication experience, rather than evidence about an emergency-card design. [Read the public source](https://www.reddit.com/r/FND/comments/1c35psh/tips_for_navigating_the_nhs/).
+*An experience from the founder of the FND Education Project*
 
-### Questions
+When my wife and I first started dealing with my FND symptoms, we certainly didn't have everything figured out.
 
-#### During a familiar event, what do you most want another person to know or do?
+Over time, we began noticing the same problems coming up again and again.
 
-#### Which part of asking for help is hardest for you: deciding, explaining, being believed or recovering afterwards?
+Sometimes I needed help moving around safely. During my functional seizures, I could lose control of my movements. Light and noise could make an already difficult situation much harder.
+
+And when we went somewhere, we often found ourselves needing the same things.
+
+Eventually, we began asking a pretty simple question:
+
+**"What could we have ready, or change ahead of time, to make this easier next time?"**
+
+Some of the answers came from an occupational therapist who was assigned to help us.
+
+An **occupational therapist**, or OT, helps people find ways to make everyday activities safer, easier or more manageable.
+
+Our OT helped arrange safety bars around our home, a wheelchair and a walker.
+
+They also helped us arrange dimmers for our LED ceiling lights. Those lights were the only ones I could tolerate, and being able to control their brightness made a real difference.
+
+We made other changes ourselves.
+
+We soundproofed our bedroom to give me a quieter place to recover.
+
+We installed fold-down head supports in our vehicle so my head could be supported when needed during an episode.
+
+And then there's the backpack.
+
+We seemed to need the same collection of things every time we left home. So rather than having to remember everything before each outing, we decided to keep a bag ready.
+
+Here's what's in mine:
+
+- Prescription medications and familiar pain-relief supplies
+- A neck brace we've kept for particular situations when I'm sitting upright
+- Kleenex
+- Identification
+- Spare earplugs for my hyperacusis (painful sensitivity to sound)
+- A sleep mask to block out light
+- Two medical information handouts
+
+The earplugs and sleep mask are particularly useful for me because a dark, quiet environment helps with my recovery after functional seizures.
+
+That's my experience, though. Someone else's needs could look completely different.
+
+Our safety equipment and medication arrangements are individual choices, some made with professional help. Things such as neck supports, seizure positioning and medication use need their own medical safety guidance.
+
+What matters about our story isn't the particular equipment we chose.
+
+It's how we got there.
+
+**We kept noticing what was making life difficult, found ways to make those situations safer or more comfortable, and gradually put those solutions in place.**
+
+We didn't create everything in one afternoon.
+
+In fact, many of these adaptations happened over several years.
+
+And we're still learning.
+
+### Your safety plan might look completely different
+
+Maybe you have difficulty walking, and a physiotherapist or occupational therapist helps you find a safer way to get around.
+
+Perhaps your symptoms affect thinking or memory, and having important instructions available on your phone makes appointments easier.
+
+Or maybe certain episodes leave you needing a quiet place to recover.
+
+Your needs will depend on your symptoms, your surroundings and the help available to you.
+
+Some changes might be simple.
+
+Others may need equipment, professional assessment, funding or help from someone you trust.
+
+Your plan can grow as you find out what works.
+
+And something that makes everyday life safer or more accessible is valuable even when it doesn't change the FND symptoms themselves.
+
+### There's another important part of the plan
+
+Preparing your surroundings and supplies can make a big difference.
+
+But what happens when an episode actually begins?
+
+That's something to work through with your healthcare team, too.
+
+An **individual safety plan** brings together practical preparation and medically agreed instructions.
+
+For example, your clinicians can help establish what support is appropriate during your familiar symptoms, how recovery usually looks, and which changes mean you need further medical help.
+
+Those instructions are particularly important if your episodes affect movement, awareness, breathing or your ability to communicate.
+
+Your plan might also explain what another person should do if you're unable to respond.
+
+And if you have more than one diagnosed condition, the plan should account for those differences.
+
+There's no one-size-fits-all set of instructions for FND.
+
+**The aim is to have useful arrangements in place before you need them, while leaving room for medical professionals to assess anything new or concerning.** (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+### Something to think about
+
+Look back at the safety needs you identified on your symptom map.
+
+Has one particular difficulty come up more than once?
+
+Maybe you've repeatedly found yourself wishing you had something with you.
+
+Or perhaps there's a situation where you'd feel more comfortable knowing someone understood how to help.
+
+What small change might make that situation easier next time?
+
+You may already have a solution in place.
+
+If so, that's part of your safety planning too.
 
 ### One small thing you can do
 
-Start with four lines: **my diagnoses; my usual event; what helps; who to contact.**
+Choose **one safety need** you've already identified.
 
-A lower-demand version is to write only your name, one emergency contact and your preferred communication method. Do not change medication instructions or emergency thresholds without appropriate clinical guidance.
+Rather than writing it down all over again, think about what might help with it.
+
+Perhaps there's something you could prepare, a change to your surroundings worth exploring, or a question you'd like to ask an occupational therapist or another clinician.
+
+You can add that next step to your existing map, if you want.
+
+And if you've already made an adaptation that helps, take a moment to recognise it.
+
+You've been doing some safety planning already.
+
+### Two handouts that have been especially helpful to us
+
+There's one more part of our plan that I want to share.
+
+Remember those two medical handouts in my backpack?
+
+They serve different purposes, and we've found them useful for different situations.
+
+#### 1. A short emergency information sheet
+
+The first is a simple, bullet-point document.
+
+It begins with something like:
+
+**"I have Functional Neurological Disorder (FND). These are my medically assessed symptoms."**
+
+It gives someone unfamiliar with my condition a quick explanation of what they might be seeing.
+
+Your own short emergency sheet could include:
+
+- Your name, diagnoses and emergency contact
+- Your familiar, medically assessed symptoms or episodes
+- How your symptoms may affect your ability to speak, move or respond
+- Important medicines, allergies and medical needs
+- Clinician-agreed instructions for familiar episodes and when to seek emergency care
+- A reliable source of additional information about FND, such as [Neurosymptoms.org](https://neurosymptoms.org/en/)
+
+A few short bullets are enough to make a useful first version. Ask your care team to check any medical or emergency instructions.
+
+For me, it's especially useful when explaining things is difficult.
+
+The sheet gives someone a place to start, while allowing emergency professionals to assess what's happening.
+
+#### 2. A longer explanation for doctors
+
+Our second handout serves another purpose.
+
+It's a more detailed explanation of FND, intended for doctors who may be unfamiliar with the condition.
+
+I believe our original handout may have come from FND Hope.
+
+It explains the condition in greater depth than our short emergency sheet.
+
+We keep it available for situations where a clinician wants more information, especially when meeting someone new.
+
+**A longer FND information handout for healthcare professionals is also included with this lesson.** You can keep a copy alongside your own short emergency sheet.
+
+It's a way of sharing useful medical education without having to explain everything from memory.
+
+And that's a pretty big advantage when memory and communication can be difficult!
+
+One handout gives someone the essentials about *you*. The other gives them more background about *FND*.
+
+Keep them somewhere easy to find, whether that's on your phone, with your medical information or in a bag.
+
+**The important thing is having useful information ready for the moments when explaining everything yourself might be difficult.**
+
+And that brings us to the next lesson.
+
+We've looked at how safety preparations can grow from real needs.
+
+Now we'll explore what happens when you actually need to use them, including how to recognise when it's time for more medical help.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
