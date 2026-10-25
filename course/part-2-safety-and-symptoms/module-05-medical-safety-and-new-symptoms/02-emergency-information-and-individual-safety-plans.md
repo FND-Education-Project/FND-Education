@@ -267,9 +267,23 @@ Now we'll explore what happens when you actually need to use them, including how
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-Ask the person what role they want you to have before an event happens. Know where the current plan is kept. During an event, make the space safer, follow the agreed plan and record useful observations without crowding, restraining or arguing.
+<!--
+EDITORIAL WORK-IN-PROGRESS — LESSON 13 SUPPORTER SECTION.
+NOT APPROVED FOR PUBLICATION. Replace this whole scaffold with the reviewed prose before merging PR #186.
 
-A supporter is not expected to make a diagnosis. If the event differs from the plan or the situation is unsafe, seek appropriate help. Afterward, ask what the person needs; do not demand an immediate account while they are still recovering.
+VOICE BRIEF
+Friendly advice over coffee, a little wry humour where welcome, never lecture or command. Explain the "why" behind a recommendation. Accessible to teen supporters without talking down to adults. Give breathing room between ideas for readers with functional cognitive difficulty. Avoid authored first-person narration. Frame positively, validate both the person living with FND and supporters, and acknowledge that no two people's symptoms or support resources are alike. Work from the symptom map already made in Lesson 11: this lesson is about acting on needs, not copying another document. Build continuity with Lesson 12, then leave active use of the plan to Lesson 14.
+
+OUTLINE — LESSON 13: PLAN TOGETHER
+1. A relatable moment: a supporter notices that daily chores, appointments, care for others or support needs have grown. Acknowledge commitment alongside doubt, grief, uncertainty, frustration and exhaustion. Both lives have been affected.
+2. Available capacity belongs to both people: revisit Lesson 4 term; capacity can shift and caregiving work may shift too. Discuss redistribution of chores, simplifying tasks, adaptations, additional supports and sustainable boundaries. The person living with FND can continue to contribute in different ways.
+3. Two people's needs in one plan: listen receptively to symptoms and what is important to the person; also discuss the supporter's limits, health, ability, consent and physical risks. Repeated injuries during transfers are a serious warning that safer approaches/OT/PT assessment are needed; do not present improvised transfer or stair methods as instructions.
+4. Repeated difficulties lead to solutions: use entries from symptom map to identify a practical problem and collaboratively choose a response (prepared supplies, accessibility, quieter space, safe transport/positioning with professional guidance, backup communication, suitable equipment).
+5. Medical and emergency information: short personal emergency sheet versus the longer clinician FND handout described in the Person section; explain what supporters can contribute and how professional input guides medication instructions and escalation thresholds. Do not promise to build a future card generator.
+6. Agreements need to fit reality: decide who can reasonably do what, when to ask for assistance, and how to revisit an unworkable plan; avoid assigning unlimited responsibilities.
+7. Bridge to Lesson 14: how to apply agreements in an unfamiliar place, during an episode, and in recovery.
+QUALITY TARGET: Teach collaboration and mutual wellbeing—not emergency response steps or another symptom-map worksheet.
+-->
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
