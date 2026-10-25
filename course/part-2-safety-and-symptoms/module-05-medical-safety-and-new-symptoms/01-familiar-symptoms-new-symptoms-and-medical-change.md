@@ -450,25 +450,174 @@ That includes something just as important as understanding the person with FND:
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Research quotations for review
+### When the diagnosis is right, but the explanation is incomplete
 
-**Option 1 — Finkelstein et al., 2021**
+An 18-year-old woman has an established diagnosis of functional neurological disorder.
 
-> “the presence of positive clinical signs of FND does not exclude the presence of a concomitant neurological condition.”
+Her presentation includes functional weakness and seizures, supported by neurological examination and previous video-EEG assessment.
 
-**Option 2 — Mcloughlin et al., 2025**
+The diagnostic evidence is meaningful.
 
-> “A balanced approach is needed not to over or under-investigate new symptoms on their own merits.”
+Yet an important part of her illness remains unexplained.
 
-*Figure 1 — Research quotations offered for editorial selection. (*citations* [2](#citation-2), [3](#citation-3))*
+Standing makes her lightheaded. Her legs become increasingly heavy. Lying down brings relief.
 
-### Reassess the presentation, not the person’s credibility
+Earlier standing measurements were brief and nondiagnostic.
 
-Start with physiological stability and time-sensitive differentials. Then compare the current semiology with documented event types. Separate: confirmed diagnoses; the usual presentation; current differences; objective observations; and unresolved risk.
+Her orthostatic symptoms have largely been attributed to FND, anxiety or deconditioning.
 
-Positive FND signs can support a diagnosis, but they do not rule out comorbidity. Conversely, a stereotyped event with an established plan may not benefit from repeated low-yield investigation or harmful acute treatment. Explain the reasoning for either investigation or non-investigation. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4))
+The question is no longer simply whether the patient has FND.
 
-When uncertainty remains, name it. Arrange a route for follow-up and revise the safety plan after a new diagnosis, medication change, injury or material change in events.
+**How much of her presentation does the established diagnosis actually explain?**
+
+*This exercise follows a published case reported by Das, Yerraballa and Shekhawat (2026). The clinical findings and outcome come from the case report; the questions and reasoning commentary are educational additions.* ([5](#citation-5))
+
+### First, consider the clinical pattern
+
+There are two potentially important observations.
+
+The patient has positive evidence supporting FND.
+
+She also describes symptoms that repeatedly worsen with standing and improve when supine.
+
+What weight should each finding carry?
+
+Does the existing neurological examination adequately explain the positional pattern?
+
+And how much confidence should be placed in brief orthostatic measurements that failed to establish a diagnosis?
+
+The previous measurements have left a question unresolved. They haven't established that autonomic dysfunction is absent.
+
+The symptom pattern provides a reason to investigate a specific physiological possibility.
+
+This is an important distinction in FND care.
+
+**A positive diagnosis can remain secure while the clinical formulation expands to account for additional findings.**
+
+### What the treating team found
+
+On reassessment, positive functional motor signs were still present.
+
+That matters because the investigation of another condition did not require abandoning the established FND diagnosis.
+
+The team quantified the patient's autonomic symptoms, reviewed medications and considered alternative explanations before arranging formal autonomic testing.
+
+The tilt-table findings were striking.
+
+| Autonomic testing | Reported finding |
+|---|---|
+| Initial heart rate | **95 beats/min** |
+| Heart rate during tilt | **144 beats/min** |
+| Change within ten minutes | **+49 beats/min** |
+| Additional findings | Symptoms reproduced; no orthostatic hypotension; elevated blood pressure |
+
+*Findings reported in the published case, not a general diagnostic protocol.* ([5](#citation-5))
+
+Before considering the authors' conclusion, what does this result add?
+
+How would medication effects, cardiac rhythm abnormalities and other causes of orthostatic tachycardia affect its interpretation?
+
+And which of the patient's symptoms would still require a separate explanation?
+
+### Evidence changes the formulation
+
+After considering the clinical presentation, autonomic findings, laboratory results, rhythm assessment and alternatives, the authors diagnosed coexisting **postural orthostatic tachycardia syndrome (POTS)**.
+
+The orthostatic tachycardia and reproduced symptoms provided objective evidence supporting the additional diagnosis in its clinical context.
+
+The positive functional motor findings remained relevant.
+
+So did the previously established functional seizures.
+
+The result was a more complete formulation: FND and POTS coexisted.
+
+This is the central lesson of the case.
+
+**New evidence does not necessarily weaken an established diagnosis. It may define the limits of what that diagnosis explains.**
+
+This is particularly valuable when symptoms overlap.
+
+Leg heaviness, fatigue, dizziness and difficulty remaining upright can influence functional ability through more than one mechanism.
+
+A patient may experience several of these problems together.
+
+The clinical task is to determine which mechanisms the evidence supports and how they interact, while retaining uncertainty where the evidence remains incomplete.
+
+### Why the distinction matters
+
+The consequences extend beyond diagnostic accuracy.
+
+Consider a patient whose orthostatic difficulties have repeatedly been attributed to anxiety, deconditioning or FND.
+
+Further rehabilitation may still be appropriate.
+
+But an unrecognised autonomic disorder can change how clinicians interpret activity intolerance, select interventions and judge treatment tolerance.
+
+In the published case, POTS-directed management was introduced alongside continuing FND care.
+
+Mobility subsequently improved.
+
+The authors could not determine how much improvement resulted from any one intervention, and the additional diagnosis did not explain every symptom.
+
+That limitation matters.
+
+**The case supports the value of identifying a coexisting condition. It does not establish that treating POTS caused the observed improvement or that the same pathway applies to every patient with FND.** ([5](#citation-5))
+
+### A contrasting case: when the original diagnosis needs revision
+
+The distinction becomes clearer when compared with a different published account.
+
+Berry and Wiethoff (2020) described a 62-year-old woman initially diagnosed with a functional voice disorder.
+
+Her presentation included progressive voice problems, difficulty opening her eyes and falls.
+
+As symptoms progressed, repeated examinations and further investigations supported a clinical diagnosis of progressive supranuclear palsy.
+
+An interesting detail emerged: indoor sunglasses, previously interpreted as supporting a functional explanation, helped reduce aggravation of blepharospasm.
+
+This case raises a different question.
+
+**When does additional evidence justify expanding a diagnosis, and when does it require revising the original formulation?**
+
+In the first case, evidence supported FND alongside POTS.
+
+In the second, progression and further assessment led clinicians to reconsider an earlier functional diagnosis.
+
+Both illustrate the importance of allowing the current clinical evidence to shape the formulation.
+
+They are different diagnostic situations, and neither establishes that FND generally predicts an overlooked neurological condition. ([6](#citation-6))
+
+### Applying this reasoning in practice
+
+The symptom map introduced in Lesson 11 can help distinguish different patterns without prematurely assigning them a common cause.
+
+In the primary case, the clinically useful distinctions include functional seizures, functional weakness and symptoms specifically associated with standing.
+
+Documenting these patterns separately makes it easier to identify unresolved questions and communicate the evidence supporting each diagnosis.
+
+This also creates an opportunity to make clinical reasoning more transparent.
+
+For example, the record might distinguish an established positive functional diagnosis from a newly confirmed autonomic disorder, noting which symptoms remain uncertain and who will reassess them.
+
+That clarity can reduce fragmented care.
+
+It also makes subsequent clinical decisions easier to understand for patients, supporters and professionals.
+
+### Where this leaves the care team
+
+The first case raises a practical question beyond diagnosis.
+
+Once a second condition is recognised, what should change?
+
+The answer may involve rehabilitation goals, symptom-specific treatment, activity planning, safety arrangements and coordination between professionals.
+
+The existing symptom map provides a starting point.
+
+In Lesson 13, we'll examine how to translate that information into a practical safety plan, including when occupational therapy, physiotherapy, medical specialists or other professionals should contribute.
+
+We'll also consider the costs of fragmented care and the potential benefits of choosing interventions that address clearly identified needs.
+
+**The strongest clinical formulation is one that remains accurate as new evidence emerges—and leads to care that better fits the person.**
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -487,14 +636,17 @@ When uncertainty remains, name it. Arrange a route for follow-up and revise the 
 
 ## Research and Sources
 
-The emergency-department reviews and iatrogenic-harm review support positive FND diagnosis alongside appropriate assessment of changed symptoms. They are reviews and clinical guidance, not a validated decision rule for one person. (*citations* [2](#citation-2), [3](#citation-3), [4](#citation-4))
+The clinical exercise is based on two published case reports. The emergency-department and iatrogenic-harm reviews give broader context for reassessment and proportionate intervention. Case reports illustrate clinical reasoning but cannot establish how often an additional diagnosis occurs or attribute treatment effects. (*citations* [2](#citation-2), [3](#citation-3), [4](#citation-4), [5](#citation-5), [6](#citation-6))
 
 | Citation | Figure | Full citation |
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
-| <a id="citation-3"></a>**[3]** | Figure 1 | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
+| <a id="citation-2"></a>**[2]** | — | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
+| <a id="citation-3"></a>**[3]** | — | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
 | <a id="citation-4"></a>**[4]** | — | Anderson JR, Nakhate V, Stephen CD, Perez DL. Functional (psychogenic) neurological disorders: assessment and acute management in the emergency department. *Seminars in Neurology*. 2019;39(1):102–114. [FND-CIT-0070](../../../research/citation-index.md#fnd-cit-0070). [https://doi.org/10.1055/s-0038-1676844](https://doi.org/10.1055/s-0038-1676844) |
+
+| <a id="citation-5"></a>**[5]** | Primary case | Das S, Yerraballa SRN, Shekhawat P. Coexisting postural orthostatic tachycardia syndrome on autonomic reflex testing in functional neurologic disorder. *American Journal of Case Reports*. 2026;27:e953323. [https://doi.org/10.12659/AJCR.953323](https://doi.org/10.12659/AJCR.953323) |
+| <a id="citation-6"></a>**[6]** | Contrasting case | Berry AJ, Wiethoff S. Revising a diagnosis of functional neurological disorder—a case report. *Oxford Medical Case Reports*. 2020;2020(9):omaa073. [https://doi.org/10.1093/omcr/omaa073](https://doi.org/10.1093/omcr/omaa073) |
 
 This page still needs review by people with FND, supporters, emergency clinicians and neurologists.
 
