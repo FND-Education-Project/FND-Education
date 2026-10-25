@@ -262,9 +262,23 @@ The lessons that follow will explore other FND symptoms and their particular nee
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-Use the plan as a guide, not a script that overrides what you can see. Protect from hazards, keep your voice calm, time the event if useful and allow the person’s chosen communication method. Do not restrain them or put anything in their mouth during a seizure-like event.
+<!--
+EDITORIAL WORK-IN-PROGRESS — LESSON 14 SUPPORTER SECTION.
+NOT APPROVED FOR PUBLICATION. Replace this whole scaffold with the reviewed prose before merging PR #186.
 
-Notice recovery as well as the visible episode. Help reduce demands if asked. Record only information that may matter clinically, and let the person decide who receives it when they have capacity to do so.
+VOICE BRIEF
+Warm, thoughtful advice over coffee, substantial reasoning beneath casual language. Teen-readable, respectful of adults; an unrushed pace suitable for FCD. No authorial first-person narration. Maintain affirming framing while staying clear about immediate medical hazards. Explain choices rather than issue orders. Support autonomy and informed risk without neglecting serious danger; make supporters' safety and needs visible. Do not repeat the document-building work of Lesson 13 or symptom descriptions from Lesson 12.
+
+OUTLINE — LESSON 14: RESPOND TOGETHER
+1. Everyday supported decision: someone wants to walk in a new park or invite a friend on a low-capacity day; the supporter recalls factors that could affect the hoped-for outcome. Acknowledge both perspectives.
+2. Supported decision-making: offer information, likely consequences and alternatives while leaving meaningful choices with the person, taking account of consent, capacity and relevant legal/clinical context. People can make imperfect ordinary choices; supporters can discuss outcomes without treating disagreements as emergencies.
+3. FCD can complicate the big picture: mixed or incomplete memories, time confusion and difficulty considering multiple factors; a supporter can gently supply context, write options down or suggest a smaller version of an activity, without assuming incompetence or taking decisions by default.
+4. Different symptoms, different decisions: brief examples about accessible routes/wheelchair fallback, sensory checks like earplugs, and swallowing needs where decisions about timing/texture/position require appropriate clinician or speech-language pathology guidance. No generic feeding-safety recipe.
+5. When an episode or warning appears: use the agreed plan, make the environment safer, respect communication, and avoid physical transfers that put either person at risk; recognize when additional help is needed. Distinguish a familiar episode from new injury or important medical change. Immediate dangers require emergency care.
+6. After an episode: recovery can be demanding for both people; check the supporter's physical and emotional capacity; reflect later on what worked and adjust the plan in partnership.
+7. Close: keep independence, safety, shared responsibilities and real-life participation in balance; lead into Module 6 without duplicating its seizure-specific teaching.
+QUALITY TARGET: Show how both people use their preparations in daily decisions and genuine events. Avoid repetition of plan construction.
+-->
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
