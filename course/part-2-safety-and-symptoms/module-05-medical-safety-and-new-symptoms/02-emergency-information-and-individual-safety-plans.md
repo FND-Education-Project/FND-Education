@@ -542,6 +542,14 @@ That helps everyone understand where an agreed home response ends and profession
 
 The handouts can then be kept somewhere accessible, with the person's knowledge and agreement.
 
+Making information easy to **find and use** matters as much as preparing it. One spouse in an FND community described the challenge:
+
+> “We have got a full care plan document in place tbf. It does cover everything, but people don't always read it when they should.”
+
+*Figure 1. A spouse's account in a surviving [FND community comment](https://www.reddit.com/r/FND/comments/1u9enx1/comment/osfpj8r/). This illustrates a communication difficulty, rather than a tested solution.* (*citations* [11](#citation-11))
+
+A brief summary and an agreed place to keep it can make the detailed plan easier to use when it matters.
+
 It's a small preparation that may make a difficult conversation much easier later.
 
 ### A plan can make room for your limits
@@ -890,6 +898,7 @@ These clinical reviews, practice guidance and consensus recommendations inform i
 | <a id="citation-8"></a>**[8]** | — | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
 | <a id="citation-9"></a>**[9]** | — | O’Mahony B, Nielsen G, Baxendale S, Edwards MJ, Yogarajah M. Economic Cost of Functional Neurologic Disorders: A Systematic Review. *Neurology*. 2023;101(2):e202–e214. [https://doi.org/10.1212/WNL.0000000000207388](https://doi.org/10.1212/WNL.0000000000207388) [FND-CIT-0297](../../../research/citation-index.md#fnd-cit-0297). |
 | <a id="citation-10"></a>**[10]** | — | Ball HA, McWhirter L, Ballard C, Bhome R, Blackburn DJ, Edwards MJ, et al. Functional cognitive disorder: dementia’s blind spot. *Brain*. 2020;143(10):2895–2903. [https://doi.org/10.1093/brain/awaa224](https://doi.org/10.1093/brain/awaa224) [FND-CIT-0071](../../../research/citation-index.md#fnd-cit-0071). |
+| <a id="citation-11"></a>**[11]** | Figure 1 | Surviving public spouse comment in “Me help wife and put up FND info whiteboard,” r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1u9enx1/comment/osfpj8r/). Quotation checked in the October 25, 2026 caregiver quotation bank. The original post was deleted and its approach disputed; this quote concerns whether a detailed plan gets read, not endorsement of a whiteboard. [FND-CIT-0300](../../../research/citation-index.md#fnd-cit-0300). |
 
 This page still needs review by people with FND, supporters and emergency-care teams, including a check that the suggested card fields are practical.
 
