@@ -582,25 +582,219 @@ The principles you've learned here will continue to be useful, whatever combinat
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Research quotations for review
+### The real test happens after the appointment
 
-**Option 1 — Tolchin et al., 2026**
+Return to the young woman from Lessons 12 and 13.
 
-> “Clinicians should engage in shared decision making regarding the treatment plan”
+Her diagnoses of FND and POTS are now established. The clinical team has considered rehabilitation, medical management and practical safety needs.
 
-**Option 2 — Anderson et al., 2019**
+The next challenge begins when she returns to everyday life.
 
-> “clinicians in the ED setting are important members of the interdisciplinary approach to FND.”
+Consider a hypothetical situation.
 
-*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [2](#citation-2))*
+She wants to attend college. The journey involves walking, waiting for transport and navigating a busy campus.
 
-### Make the plan observable and revisable
+She has functional weakness and orthostatic symptoms.
 
-Describe event types separately. Use observable thresholds where possible, while making clear that no list can replace clinical judgment. Specify who should do what, what ordinary recovery looks like and where uncertainty remains.
+Her supporter worries about what could happen if she becomes unable to walk comfortably during the journey.
 
-Emergency clinicians should still assess stability and relevant differentials. When the event is familiar and stable, follow proportionate care and avoid non-indicated antiseizure medication, restraint, intubation or repeated testing. When the event differs, investigate the difference on its merits. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+And attending another medical appointment to discuss the outing might itself involve considerable physical effort, travel, symptom aggravation and recovery time.
 
-After acute care, communicate what was observed, what was ruled in or out, and whether the existing plan still fits. Arrange continuity rather than sending the patient away with only “it was FND.”
+**Does she need another appointment to decide whether she can attend college? Or should her existing care have prepared her to make that decision?**
+
+*This scenario is an educational extension of the published FND/POTS case. The college journey and support arrangements are hypothetical, not reported outcomes.*
+
+### Preparing people to make decisions without the clinician
+
+A medical appointment provides an opportunity to accomplish something that extends far beyond the consultation.
+
+The clinician can establish the relevant medical findings, explain important risks and agree on the circumstances that warrant further assessment.
+
+The patient can describe their priorities, typical difficulties and available support.
+
+Together, they can establish a framework for decisions that will arise later.
+
+For someone with coexisting FND and POTS, this might include understanding the implications of orthostatic symptoms, recognising familiar functional episodes and knowing which changes need medical attention.
+
+Individualized medical instructions remain the responsibility of the appropriate treating clinician.
+
+But the purpose is broader than providing instructions.
+
+**Patients need enough understanding and practical support to exercise judgment when no clinician is available.**
+
+A useful plan distinguishes between situations that can be managed through agreed everyday strategies, problems that warrant review by a relevant professional, and concerns requiring urgent medical assessment.
+
+That distinction helps prevent both unnecessary medical dependence and delayed care when a genuine concern arises.
+
+### The OT and physiotherapist may be closer to the decision
+
+Consider the college journey again.
+
+The medical team has identified the relevant diagnoses and treatment considerations.
+
+Now the patient needs to work out how to participate in daily life.
+
+A physiotherapist may help assess walking, balance, movement strategies, physical limitations and safe mobility.
+
+An occupational therapist may examine the actual activity: travelling, accessing buildings, managing personal belongings, arranging seating and accommodating variable functional capacity.
+
+Their work may overlap.
+
+And for this patient, recommendations must also account for the medical guidance concerning POTS.
+
+The team might help her explore a shorter journey, accessible transport, opportunities to sit or an alternative route.
+
+Perhaps a wheelchair or another mobility aid is appropriate for certain circumstances. That decision would involve individualized assessment of benefits, risks and rehabilitation goals.
+
+The resulting plan should make sense to the person who will use it.
+
+She can then decide whether to undertake an ordinary outing, adjust it or try another approach.
+
+The clinician who helped develop the plan need not participate in each subsequent decision.
+
+**Good rehabilitation equips people to apply clinical knowledge independently, within an agreed understanding of their risks and abilities.**
+
+### What if the supporter cannot provide the expected help?
+
+Suppose the patient needs assistance during an outing.
+
+Her supporter has previously been injured while providing physical help.
+
+That changes what is feasible.
+
+A rehabilitation recommendation that assumes unlimited supporter strength or availability may fail precisely when assistance is needed.
+
+The OT or physiotherapist can assess the physical task and explore safer methods, equipment or alternatives.
+
+Sometimes a plan may need to accommodate the possibility that no supporter is available.
+
+This matters especially when someone experiences unpredictable episodes, severe weakness or prolonged recovery.
+
+The patient may have the capacity and desire to participate in an activity, while the assistance required to make it reasonably safe remains unavailable.
+
+Recognising that difference makes it possible to address the actual barrier.
+
+**Safety planning should strengthen the patient's independence without quietly transferring unreasonable risk to someone else.**
+
+### Supporting decisions when cognition is affected
+
+For some people, functional cognitive disorder adds another challenge.
+
+A person may have difficulty retaining information, reconstructing previous experiences or considering several possible consequences at once.
+
+Their supporter may remember an earlier outing differently.
+
+Perhaps the patient recalls enjoying the day but has little memory of the difficult recovery afterwards.
+
+That information could influence what they choose next time.
+
+Clinicians and rehabilitation professionals can help establish decision-making supports that fit the person's cognitive difficulties.
+
+These might include brief written reminders, reviewing one option at a time, agreed records of important events or a simple way to consider the consequences of an activity.
+
+Such arrangements can be developed in advance and used at home.
+
+They can also be revised when experience reveals a better approach.
+
+The aim is to strengthen the person's ability to participate in decisions.
+
+**Cognitive support is a means of preserving autonomy, rather than evidence that autonomy should be transferred to somebody else.**
+
+Where formal questions about decision-making capacity arise, the assessment remains specific to the decision and applicable legal framework.
+
+### Different symptoms require different preparations
+
+The general principle extends beyond mobility.
+
+Consider someone with functional swallowing difficulties.
+
+Every meal involves decisions about eating and drinking, yet daily access to a clinician is neither realistic nor necessary once an appropriate individualized approach has been established.
+
+Medical and swallowing assessments can identify relevant risks. Speech-language pathology may help develop suitable strategies and explain which changes require reassessment.
+
+The patient and supporter can then apply those recommendations in everyday situations.
+
+Where swallowing safety is uncertain or symptoms change significantly, appropriate medical reassessment remains important.
+
+For someone with functional seizures, preparation may instead focus on recognising familiar events, communicating during warning periods, arranging a safer environment and understanding the agreed response.
+
+These situations require different professional contributions.
+
+What connects them is the objective:
+
+**Make the necessary expertise available during assessment and planning so that everyday decisions can be made more confidently afterwards.**
+
+### Knowing when another appointment is worth the cost
+
+An accessible plan also recognises that healthcare contact has consequences.
+
+For someone with severe FND symptoms, an appointment may involve transportation difficulties, sensory exposure, pain, fatigue, episodes and substantial recovery demands.
+
+The financial and practical costs can extend to supporters.
+
+Those burdens deserve consideration when planning follow-up.
+
+Patients benefit from knowing which concerns can be addressed through existing guidance, which may be suitable for a scheduled review, and which require prompt or emergency assessment.
+
+Where services permit, telephone consultations, remote follow-up, written communication or coordinated appointments may reduce unnecessary travel.
+
+These options are particularly relevant when the clinical question can be answered without an in-person examination.
+
+However, new or substantially changed symptoms, serious injuries and possible medical emergencies still require appropriate assessment.
+
+An individualized safety plan should help people recognise those circumstances without expecting them to establish a diagnosis themselves.
+
+**The goal is to make medical care available when its expertise is needed, while reducing the burden of seeking permission or reassurance for ordinary activities.**
+
+### Review what happens in real life
+
+The care team may have developed an excellent plan.
+
+But what if the patient cannot use it?
+
+Perhaps the recommended route is inaccessible.
+
+The necessary equipment is unavailable.
+
+The supporter cannot safely perform an agreed task.
+
+Or the arrangement demands more energy than the patient can consistently manage.
+
+These difficulties provide information about the plan's feasibility.
+
+When professional review becomes possible, the useful question is not simply whether the patient followed the recommendations.
+
+It is whether the recommendations addressed the intended problem under the circumstances in which the patient lives.
+
+A practical review may examine participation, symptom burden, injury risk, supporter capacity, access to care and the resources required to maintain the arrangement.
+
+Some changes can be made by the patient within previously agreed guidance.
+
+Others may require the OT, physiotherapist or another professional to reassess the relevant activity.
+
+Important medical changes require an appropriate medical review.
+
+Responsibility for that follow-up should be clear before the patient leaves care.
+
+### The measure of an effective safety plan
+
+Successful care may include fewer symptoms, improved movement or better tolerance of daily activities.
+
+It may also mean a person can participate in valued activities despite persistent symptoms.
+
+A supporter may be able to provide help without repeated injury.
+
+A patient may become more confident about recognising familiar problems and knowing when additional care is appropriate.
+
+These outcomes matter because the purpose of the plan extends beyond preventing emergencies.
+
+**A strong safety plan gives the patient and supporter practical knowledge, workable choices and clear routes to professional help when those choices are no longer sufficient.**
+
+Across this module, clinicians have considered how to recognise meaningful medical change, coordinate appropriate professional contributions and prepare people to manage daily life.
+
+The next module explores functional seizures and other episodic symptoms in greater clinical detail.
+
+The same principles continue to apply: clear assessment, individualized preparation, appropriate professional support and respect for the person's ability to participate in their own care.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
