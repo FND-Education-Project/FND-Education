@@ -36,7 +36,7 @@ Choose a collection, module and lesson. These optional activities offer a lighte
 
 [Crosswords](#crosswords) · [Colouring pages](#colouring-pages) · [Course](../../course/README.md)
 
-**Jump to a crossword:** [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Lesson 9](#physical-psychological-and-social-factors) · [Lesson 10](#making-sense-of-your-symptoms) · [Lesson 11](#building-your-symptom-map) · [Module 1 review](#module-1-review-crossword) · [Module 2 review](#module-2-review-crossword) · [Module 3 review](#module-3-review-crossword)
+**Jump to a crossword:** [Lesson 12](#lesson-12-crossword) · [Lesson 13](#lesson-13-crossword) · [Lesson 14](#lesson-14-crossword) · [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Lesson 9](#physical-psychological-and-social-factors) · [Lesson 10](#making-sense-of-your-symptoms) · [Lesson 11](#building-your-symptom-map) · [Module 1 review](#module-1-review-crossword) · [Module 2 review](#module-2-review-crossword) · [Module 3 review](#module-3-review-crossword)
 
 ## Crosswords
 
@@ -327,11 +327,49 @@ Revisit the lesson with a crossword. The easy edition includes a word bank.
 <p class="puzzle-status">PDFs open in a new tab.</p>
 </div>
 
+<span id="lesson-12-crossword"></span>
+
+### Lesson 12: Familiar Symptoms, New Symptoms, and Medical Change
+
+[Read the lesson](../../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md)
+
+<div class="lesson-puzzle-preview">
+<img src="{{ '/assets/puzzles/thumbnails/familiar-symptoms-and-new-symptoms-m5-12-normal.svg' | relative_url }}" alt="Lesson 12 crossword grid" loading="lazy">
+<div class="puzzle-downloads"><a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-12/familiar-symptoms-and-new-symptoms-m5-12-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-12/familiar-symptoms-and-new-symptoms-m5-12-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-12/familiar-symptoms-and-new-symptoms-m5-12-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key PDF (new tab)</a></div>
+</div>
+
+<span id="lesson-13-crossword"></span>
+
+### Lesson 13: Emergency Information and Individual Safety Plans
+
+[Read the lesson](../../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md)
+
+<div class="lesson-puzzle-preview">
+<img src="{{ '/assets/puzzles/thumbnails/the-individual-safety-plan-m5-13-normal.svg' | relative_url }}" alt="Lesson 13 crossword grid" loading="lazy">
+<div class="puzzle-downloads"><a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-13/the-individual-safety-plan-m5-13-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-13/the-individual-safety-plan-m5-13-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-13/the-individual-safety-plan-m5-13-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key PDF (new tab)</a></div>
+</div>
+
+<span id="lesson-14-crossword"></span>
+
+### Lesson 14: Using Your Safety Plan and Deciding When to Get Urgent Help
+
+[Read the lesson](../../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md)
+
+<div class="lesson-puzzle-preview">
+<img src="{{ '/assets/puzzles/thumbnails/using-your-safety-plan-m5-14-normal.svg' | relative_url }}" alt="Lesson 14 crossword grid" loading="lazy">
+<div class="puzzle-downloads"><a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-14/using-your-safety-plan-m5-14-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-14/using-your-safety-plan-m5-14-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-14/using-your-safety-plan-m5-14-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key PDF (new tab)</a></div>
+</div>
+
 ## Colouring pages
 
 Choose a preview to open the printable PDF. Select landscape orientation and fit to page when printing.
 
 <div class="puzzle-grid puzzle-grid-colouring">
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-12-coloring-book.pdf' | relative_url }}"><img src="{{ '/assets/puzzles/colouring/lesson-12-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async"><span>Lesson 12: Familiar Symptoms, New Symptoms, and Medical Change <small>PDF</small></span></a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-13-coloring-book.pdf' | relative_url }}"><img src="{{ '/assets/puzzles/colouring/lesson-13-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async"><span>Lesson 13: Emergency Information and Individual Safety Plans <small>PDF</small></span></a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-14-coloring-book.pdf' | relative_url }}"><img src="{{ '/assets/puzzles/colouring/lesson-14-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async"><span>Lesson 14: Using Your Safety Plan and Deciding When to Get Urgent Help <small>PDF</small></span></a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-14b-coloring-book.pdf' | relative_url }}"><img src="{{ '/assets/puzzles/colouring/lesson-14b-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async"><span>Lesson 14: Using Your Safety Plan and Deciding When to Get Urgent Help — Module recap <small>PDF</small></span></a>
+<a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-11-coloring-book.pdf' | relative_url }}"><img src="{{ '/assets/puzzles/colouring/lesson-11-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async"><span>Lesson 11: Building and Using Your Personal Symptom Map <small>PDF</small></span></a>
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-10-coloring-book.pdf' | relative_url }}"><img src="{{ '/assets/puzzles/colouring/lesson-10-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async"><span>Lesson 10 colouring page <small>PDF</small></span></a>
 
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-4-coloring-book.pdf' | relative_url }}"><img src="{{ '/assets/puzzles/colouring/lesson-4-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async"><span>Lesson 4 colouring page <small>PDF</small></span></a>

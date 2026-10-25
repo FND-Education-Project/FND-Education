@@ -124,6 +124,14 @@ In fact, many of these adaptations happened over several years.
 
 And we're still learning.
 
+<figure class="image-60center" markdown="1">
+
+![A woman and supporter talk with an occupational therapist beside a page titled My Safety Plan.](../../../assets/images/lesson-13-illustration.png)
+
+<figcaption>Your experience, your supporter's needs and professional advice can come together in a plan that fits everyday life.</figcaption>
+
+</figure>
+
 ### Your safety plan might look completely different
 
 Maybe you have difficulty walking, and a physiotherapist or occupational therapist helps you find a safer way to get around.
@@ -239,7 +247,7 @@ It explains the condition in greater depth than our short emergency sheet.
 
 We keep it available for situations where a clinician wants more information, especially when meeting someone new.
 
-**A one-page FND information handout for healthcare professionals is included with this lesson.** [Download the clinician handout (PDF)](../../../assets/downloads/meeting-a-person-with-fnd-clinician-handout.pdf) and keep a copy alongside your own short emergency sheet.
+**A one-page FND information handout for healthcare professionals is included with this lesson.** <a href="{{ '/assets/downloads/meeting-a-person-with-fnd-clinician-handout.pdf' | relative_url }}" target="_blank" rel="noopener">Download the clinician handout (PDF, new tab)</a> and keep a copy alongside your own short emergency sheet.
 
 It's a way of sharing useful medical education without having to explain everything from memory.
 
@@ -256,6 +264,27 @@ And that brings us to the next lesson.
 We've looked at how safety preparations can grow from real needs.
 
 Now we'll explore what happens when you actually need to use them, including how to recognise when it's time for more medical help.
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-13" aria-label="Browse the Lesson 13 crossword"><img src="{{ '/assets/puzzles/thumbnails/the-individual-safety-plan-m5-13-normal.svg' | relative_url }}" alt="Preview of the Lesson 13 crossword grid" loading="lazy" decoding="async"><span>Lesson 13 crossword</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 13 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-13/the-individual-safety-plan-m5-13-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy crossword PDF for Lesson 13 (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-13/the-individual-safety-plan-m5-13-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal crossword PDF for Lesson 13 (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-13/the-individual-safety-plan-m5-13-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key crossword PDF for Lesson 13 (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-13-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab or window"><img src="{{ '/assets/puzzles/colouring/lesson-13-coloring-book.png' | relative_url }}" alt="A woman and supporter talk with an occupational therapist beside a page titled My Safety Plan. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-13-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 13 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-13">browse the colouring collection</a>.
+
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -497,7 +526,7 @@ The Person section of this lesson introduces two useful handouts.
 
 The first is a short, personal emergency information sheet. It describes the person's diagnosed conditions, familiar symptoms, communication needs and important medical information.
 
-The second is a one-page explanation of FND for healthcare professionals. [Download the clinician handout (PDF)](../../../assets/downloads/meeting-a-person-with-fnd-clinician-handout.pdf).
+The second is a one-page explanation of FND for healthcare professionals. <a href="{{ '/assets/downloads/meeting-a-person-with-fnd-clinician-handout.pdf' | relative_url }}" target="_blank" rel="noopener">Download the clinician handout (PDF, new tab)</a>.
 
 As a supporter, you may be able to help the person prepare or organise this information, if they'd like your involvement.
 
@@ -777,7 +806,7 @@ The **short personal emergency information sheet** summarises the person's diagn
 
 Its purpose is rapid orientation.
 
-The **one-page FND information handout for healthcare professionals** provides a concise orientation to the condition and its clinical assessment. [Download the clinician handout (PDF)](../../../assets/downloads/meeting-a-person-with-fnd-clinician-handout.pdf).
+The **one-page FND information handout for healthcare professionals** provides a concise orientation to the condition and its clinical assessment. <a href="{{ '/assets/downloads/meeting-a-person-with-fnd-clinician-handout.pdf' | relative_url }}" target="_blank" rel="noopener">Download the clinician handout (PDF, new tab)</a>.
 
 The longer document explains FND.
 

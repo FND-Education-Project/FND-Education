@@ -40,6 +40,14 @@ And you haven't even started walking yet!
 
 **Safety planning isn't only about what happens during an episode. It's also about preparing for situations where your symptoms could make things difficult.**
 
+<figure class="image-60center" markdown="1">
+
+![A wheelchair user and two companions compare a personal plan with a park map showing an accessible trail, a gravel section and a rest area.](../../../assets/images/lesson-14-illustration.png)
+
+<figcaption>Checking the route together can make room for an enjoyable outing. The pictured checklist is an example; choose preparations that fit your own assessed needs.</figcaption>
+
+</figure>
+
 ### Little checks can make a difference
 
 My wife and I have developed a habit of checking unfamiliar situations before we get too far into them.
@@ -242,6 +250,14 @@ You've been using your safety plan.
 
 **The goal is to help everyone involved feel more prepared, so there's more room to enjoy everyday life.**
 
+<figure class="image-60center" markdown="1">
+
+![Three scenes show a person receiving support, discussing a plan with an occupational therapist, and choosing a park route with companions.](../../../assets/images/lesson-14b-illustration.png)
+
+<figcaption>Notice what matters, prepare together, and use the plan in daily life. These scenes illustrate shared planning, rather than instructions for physical assistance.</figcaption>
+
+</figure>
+
 ### Coming up next
 
 We've now looked at recognising important medical changes, preparing for familiar difficulties, and putting those preparations to use.
@@ -251,6 +267,31 @@ Next, we'll explore **functional seizures and other episodic symptoms** in great
 We'll look at how these episodes can appear, how clinicians assess them, and what kinds of care and support may help.
 
 The lessons that follow will explore other FND symptoms and their particular needs, too.
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-14" aria-label="Browse the Lesson 14 crossword"><img src="{{ '/assets/puzzles/thumbnails/using-your-safety-plan-m5-14-normal.svg' | relative_url }}" alt="Preview of the Lesson 14 crossword grid" loading="lazy" decoding="async"><span>Lesson 14 crossword</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Lesson 14 crossword PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-14/using-your-safety-plan-m5-14-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy crossword PDF for Lesson 14 (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-14/using-your-safety-plan-m5-14-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal crossword PDF for Lesson 14 (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-14/using-your-safety-plan-m5-14-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key crossword PDF for Lesson 14 (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-14-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab or window"><img src="{{ '/assets/puzzles/colouring/lesson-14-coloring-book.png' | relative_url }}" alt="A wheelchair user and two companions compare a personal plan with a park map showing an accessible trail, a gravel section and a rest area. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-14-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 14 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-14">browse the colouring collection</a>.
+
+<a href="{{ '/assets/puzzles/colouring/lesson-14b-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab or window"><img src="{{ '/assets/puzzles/colouring/lesson-14b-coloring-book.png' | relative_url }}" alt="Three scenes show a person receiving support, discussing a plan with an occupational therapist, and choosing a park route with companions. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-14b-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 14 module recap colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-14b">browse the colouring collection</a>.
+
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>

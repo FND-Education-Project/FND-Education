@@ -375,6 +375,8 @@ Use this source for its broad clinical overview, diagnostic-pitfall table, posit
 
 **Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
 
+**Additional current use — clinician handout:** [clinician orientation handout](../assets/downloads/meeting-a-person-with-fnd-clinician-handout.pdf). General orientation; not an individualized emergency plan. Sources reviewed October 25, 2026.
+
 ## FND-CIT-0002
 
 Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264)
@@ -428,6 +430,8 @@ Use this source for the International League Against Epilepsy task force’s 202
 Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466)
 
 Use this source for current American Academy of Neurology evidence-based guidance on functional seizures, including diagnostic communication, evaluation for coexisting conditions, and management. The guideline uses “functional seizures” while noting alternative and historical labels; do not use it to imply that a single treatment or causal model applies to every person.
+
+**Additional current use — clinician handout:** [clinician orientation handout](../assets/downloads/meeting-a-person-with-fnd-clinician-handout.pdf). General orientation; not an individualized emergency plan. Sources reviewed October 25, 2026.
 
 ## FND-CIT-0011
 
@@ -853,6 +857,8 @@ Use this narrative review for emergency-department recognition of positive FND s
 Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283)
 
 Use this scoping review for harms related to misdiagnosis, delayed diagnosis, diagnostic overshadowing, over-diagnosis, stigmatizing interactions and inappropriate treatment. It supports a balanced approach to new symptoms, not automatic investigation or non-investigation.
+
+**Additional current use — clinician handout:** [clinician orientation handout](../assets/downloads/meeting-a-person-with-fnd-clinician-handout.pdf). General orientation; not an individualized emergency plan. Sources reviewed October 25, 2026.
 
 ## FND-CIT-0070
 

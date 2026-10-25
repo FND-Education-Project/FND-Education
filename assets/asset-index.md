@@ -32,7 +32,7 @@ Each Part One focused page now has an illustration beside an important definitio
 
 ## Part Two assets
 
-Each Part Two focused page pairs its plain-language definition with a simple, high-contrast SVG illustration. The same meaning remains in the page text, so no reader has to understand the image to understand the lesson.
+Part Two uses explanatory schematics and lesson illustrations. The same teaching remains in the text; retained earlier schematics are listed for reference even where a newer illustration is now used.
 
 | Asset | Course page | Illustration meaning |
 | --- | --- | --- |
@@ -142,3 +142,13 @@ Important meaning must also appear in the page text rather than being available 
 | Asset | Reference page | Illustration meaning |
 | --- | --- | --- |
 | [fcd-cognitive-processes.svg](illustrations/fcd-cognitive-processes.svg) | [Everything We Know About FCD](../reference/functional-cognitive-disorder.md) | Cognitive tasks, possible process difficulties and an optional monitoring/prediction loop; other contributors remain separate from FCD. Original educational synthesis, not a measured causal model. |
+
+## Newly linked lesson illustrations and activities
+
+- [Lesson 12 illustration](images/lesson-12-illustration.png), [colouring PDF](puzzles/colouring/lesson-12-coloring-book.pdf) and [preview](puzzles/colouring/lesson-12-coloring-book.png) accompany [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md). When something feels different, your account and a supporter's observations can help explain what has changed. This scene does not identify the cause of a symptom or demonstrate a transfer technique.
+- [Lesson 13 illustration](images/lesson-13-illustration.png), [colouring PDF](puzzles/colouring/lesson-13-coloring-book.pdf) and [preview](puzzles/colouring/lesson-13-coloring-book.png) accompany [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md). Your experience, your supporter's needs and professional advice can come together in a plan that fits everyday life.
+- [Lesson 14 illustration](images/lesson-14-illustration.png), [colouring PDF](puzzles/colouring/lesson-14-coloring-book.pdf) and [preview](puzzles/colouring/lesson-14-coloring-book.png) accompany [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md). Checking the route together can make room for an enjoyable outing. The pictured checklist is an example; choose preparations that fit your own assessed needs.
+- [Lesson 14b illustration](images/lesson-14b-illustration.png), [colouring PDF](puzzles/colouring/lesson-14b-coloring-book.pdf) and [preview](puzzles/colouring/lesson-14b-coloring-book.png) accompany [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md). Notice what matters, prepare together, and use the plan in daily life. These scenes illustrate shared planning, rather than instructions for physical assistance.
+- [Lesson 11 illustration](images/lesson-11-illustration.png), [colouring PDF](puzzles/colouring/lesson-11-coloring-book.pdf) and [preview](puzzles/colouring/lesson-11-coloring-book.png) accompany [Lesson 11](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md). A map gives your own health information a place in the conversation. The pictured entries are examples; your safety information belongs to your own clinician-reviewed plan.
+- Lessons 12–14 crossword previews and all three PDF editions are indexed in the [puzzle collection](puzzles/README.md) and its module/lesson selector.
+- [Clinician orientation handout](downloads/meeting-a-person-with-fnd-clinician-handout.pdf): one page, clinical references and space for personal notes; linked in Lesson 13.
