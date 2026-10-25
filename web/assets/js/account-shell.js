@@ -100,12 +100,17 @@
     if (!linking) {
       form.append(nameLabel, node("p", "Optional: leave blank to start as Learner. Existing accounts keep their username."));
     }
+    // Keep text-entry focus stable: load the third-party challenge only on
+    // an explicit action after the visitor finishes entering account details.
+    const beginVerification = node("button", "Continue to human verification");
+    beginVerification.type = "button";
     const widget = node("div");
+    widget.hidden = true;
     const send = node("button", "Send sign-in code");
     send.type = "submit"; send.disabled = true;
     const feedback = node("p", "", "account-feedback");
     feedback.setAttribute("role", "status"); feedback.setAttribute("aria-live", "polite");
-    form.append(widget, send);
+    form.append(beginVerification, widget, send);
     const verify = node("form"); verify.hidden = true;
     const codeLabel = node("label", "8-digit code from your email");
     const code = node("input"); code.type = "text"; code.inputMode = "numeric";
@@ -119,19 +124,28 @@
     box.append(form, verify, feedback);
     let token = "", widgetId, challengeId, busy = false;
     async function prepareWidget() {
+      beginVerification.disabled = true;
+      widget.hidden = false;
+      feedback.textContent = "Complete the human verification, then select Send sign-in code.";
       try {
         const ts = await loadTurnstile();
-        if (widgetId !== undefined) { ts.reset(widgetId); return; }
+        if (!ts || typeof ts.render !== "function") throw new Error("Verification could not load. Please try again.");
         widgetId = ts.render(widget, { sitekey: options.turnstileSiteKey, action: "email_login",
           callback(value) { token = value; send.disabled = busy; },
           "expired-callback"() { token = ""; send.disabled = true; },
-          "error-callback"() { token = ""; send.disabled = true; feedback.textContent = "Verification could not finish. Close and reopen email sign-in to retry."; }
+          "error-callback"() { token = ""; send.disabled = true; feedback.textContent = "Verification could not finish. Please try again."; }
         });
-      } catch (error) { feedback.textContent = error.message; }
+      } catch {
+        // The visitor can retry deliberately; never start a widget while
+        // they're in the middle of typing into either account field.
+        widget.hidden = true;
+        beginVerification.disabled = false;
+        feedback.textContent = "Verification could not load. Please try again.";
+      }
     }
-    box.addEventListener("toggle", () => {
-      if (box.open && !verify.hidden) return;
-      if (box.open) prepareWidget();
+    beginVerification.addEventListener("click", () => {
+      if (!form.reportValidity()) return;
+      prepareWidget();
     });
     async function post(stage, payload) {
       const headers = { "Content-Type": "application/json", Accept: "application/json" };
@@ -165,8 +179,16 @@
     });
     again.addEventListener("click", () => {
       challengeId = null; verify.hidden = true; form.hidden = false;
+      token = ""; send.disabled = true;
+      if (window.turnstile && widgetId !== undefined) {
+        window.turnstile.remove(widgetId);
+        widgetId = undefined;
+      }
+      widget.hidden = true;
+      beginVerification.disabled = false;
       feedback.textContent = "Wait at least one minute between code requests. Requesting a new code replaces the previous code in this browser.";
-      email.focus(); prepareWidget();
+      // Wait for an explicit verification click after any email edits.
+      email.focus();
     });
     verify.addEventListener("submit", async event => {
       event.preventDefault();
