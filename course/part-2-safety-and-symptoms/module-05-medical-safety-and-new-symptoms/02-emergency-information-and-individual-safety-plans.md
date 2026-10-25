@@ -267,23 +267,321 @@ Now we'll explore what happens when you actually need to use them, including how
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-<!--
-EDITORIAL WORK-IN-PROGRESS — LESSON 13 SUPPORTER SECTION.
-NOT APPROVED FOR PUBLICATION. Replace this whole scaffold with the reviewed prose before merging PR #186.
+### When helping becomes part of everyday life
 
-VOICE BRIEF
-Friendly advice over coffee, a little wry humour where welcome, never lecture or command. Explain the "why" behind a recommendation. Accessible to teen supporters without talking down to adults. Give breathing room between ideas for readers with functional cognitive difficulty. Avoid authored first-person narration. Frame positively, validate both the person living with FND and supporters, and acknowledge that no two people's symptoms or support resources are alike. Work from the symptom map already made in Lesson 11: this lesson is about acting on needs, not copying another document. Build continuity with Lesson 12, then leave active use of the plan to Lesson 14.
+It's Friday evening.
 
-OUTLINE — LESSON 13: PLAN TOGETHER
-1. A relatable moment: a supporter notices that daily chores, appointments, care for others or support needs have grown. Acknowledge commitment alongside doubt, grief, uncertainty, frustration and exhaustion. Both lives have been affected.
-2. Available capacity belongs to both people: revisit Lesson 4 term; capacity can shift and caregiving work may shift too. Discuss redistribution of chores, simplifying tasks, adaptations, additional supports and sustainable boundaries. The person living with FND can continue to contribute in different ways.
-3. Two people's needs in one plan: listen receptively to symptoms and what is important to the person; also discuss the supporter's limits, health, ability, consent and physical risks. Repeated injuries during transfers are a serious warning that safer approaches/OT/PT assessment are needed; do not present improvised transfer or stair methods as instructions.
-4. Repeated difficulties lead to solutions: use entries from symptom map to identify a practical problem and collaboratively choose a response (prepared supplies, accessibility, quieter space, safe transport/positioning with professional guidance, backup communication, suitable equipment).
-5. Medical and emergency information: short personal emergency sheet versus the longer clinician FND handout described in the Person section; explain what supporters can contribute and how professional input guides medication instructions and escalation thresholds. Do not promise to build a future card generator.
-6. Agreements need to fit reality: decide who can reasonably do what, when to ask for assistance, and how to revisit an unworkable plan; avoid assigning unlimited responsibilities.
-7. Bridge to Lesson 14: how to apply agreements in an unfamiliar place, during an episode, and in recovery.
-QUALITY TARGET: Teach collaboration and mutual wellbeing—not emergency response steps or another symptom-map worksheet.
--->
+Someone you care about had planned to help make dinner, but their FND symptoms have been particularly difficult today.
+
+So you're making dinner instead.
+
+And doing the dishes.
+
+And perhaps there's laundry waiting, an appointment to arrange, or someone else in the family who needs your attention.
+
+None of these things is especially dramatic.
+
+It's just that the ordinary jobs of life keep arriving, whether you're ready for them or not.
+
+You want to help.
+
+You might also be exhausted.
+
+And perhaps you miss how things used to be.
+
+There's room for all those feelings.
+
+Supporting someone through a long-term illness can bring love, frustration, uncertainty and grief into the same day.
+
+Sometimes into the same hour!
+
+Understanding those feelings can help you find ways of supporting each other that are sustainable.
+
+### Remember available capacity?
+
+Back in Lesson 4, we introduced **available capacity**.
+
+It's a way of describing how much someone can manage at a particular time, considering the demands on their body and mind.
+
+Someone with FND might have enough capacity to make breakfast but struggle to prepare dinner later.
+
+Or perhaps they can help with household chores one day, then need more support the next.
+
+That can be especially difficult when they used to do those jobs regularly.
+
+They may miss contributing in familiar ways, caring for others or taking part in family routines.
+
+And you might miss those things, too.
+
+But there's another part of this picture worth remembering.
+
+**Supporters have available capacity as well.**
+
+Perhaps you've had a difficult day at work or school. Maybe you're dealing with pain, poor sleep or worries of your own.
+
+Taking on additional responsibilities uses some of that capacity.
+
+Over time, even small extra demands can add up.
+
+So what can you do when the household needs more than either person can comfortably manage?
+
+Sometimes the answer is sharing a task differently.
+
+Perhaps the person with FND can help plan meals while someone else handles the cooking.
+
+Maybe a demanding chore can be broken into smaller jobs or done less often.
+
+Some families may be able to arrange outside assistance.
+
+Other arrangements will depend on who's available and what support they can access.
+
+**The aim is to find ways for everyone to contribute where they can, while recognising that both people have limits.**
+
+### You may be grieving changes, too
+
+There's something else that can be difficult to talk about.
+
+You might love someone dearly and still feel sad about how life has changed.
+
+Perhaps outings take more planning.
+
+Maybe you now manage responsibilities you once shared.
+
+Or perhaps you're worried about the future and wish you knew what to expect.
+
+The person with FND may be experiencing similar feelings, although their losses and worries might look different.
+
+It can help to understand that two people can be affected by the same illness in different ways.
+
+And sometimes those differences create misunderstandings.
+
+One person might feel guilty about needing help.
+
+The other might feel guilty about being tired.
+
+That's a lot of guilt to carry around!
+
+Making room for honest conversations can help both people understand what's happening.
+
+You might discover that a job can be shared differently, that someone needs a break, or that additional support would make a meaningful difference.
+
+**Caring for someone and caring for your own wellbeing belong in the same conversation.**
+
+### Two people, one safety plan
+
+In the previous lesson, we explored how being a receptive observer can help you better understand someone's symptoms.
+
+Now it's time to use that understanding.
+
+Remember the symptom map from Lesson 11?
+
+Perhaps it includes a note about falls, difficulty speaking, sensory overload or trouble moving during episodes.
+
+That identifies something important.
+
+The next question is:
+
+**"What could make this situation safer or easier for both of us?"**
+
+Let's imagine the person you're supporting sometimes loses the ability to stand or walk during an episode.
+
+You might have been helping them move to a chair.
+
+But perhaps that assistance is becoming physically difficult.
+
+Maybe you've already hurt your back, or you're worried about someone falling while you're trying to help.
+
+Those concerns belong in the safety plan too.
+
+Helping someone move when their strength, balance or control is affected can be dangerous for both people.
+
+An occupational therapist or physiotherapist can help assess the situation and explore safer equipment, movement methods or alternatives.
+
+Sometimes the safer solution is to make the surroundings safe and get additional help rather than attempt a difficult transfer.
+
+And if you're a young supporter, physically demanding care and emergency responsibilities need appropriate adult and professional support.
+
+Here's why this matters.
+
+A plan built around help that someone cannot safely provide is likely to let both people down when it's needed most.
+
+**A useful safety plan considers what the person needs and what the supporter can safely manage.**
+
+### The person with FND knows things you might not
+
+Remember how we talked about listening in Lesson 12?
+
+That becomes especially important when you're developing a plan together.
+
+Perhaps the person knows that a particular sensation often comes before an episode.
+
+Maybe certain sounds make their symptoms worse, or a quieter environment makes recovery more comfortable.
+
+Those details can be difficult for someone else to observe.
+
+And you may have noticed things they haven't.
+
+Perhaps you've seen that a particular doorway is difficult to get through with a wheelchair.
+
+Or maybe you've noticed how physically demanding some of your usual ways of helping have become.
+
+You're bringing different information to the same problem.
+
+That can be incredibly useful.
+
+It also means you might occasionally disagree.
+
+Perhaps you think a particular arrangement would make things safer, while the person with FND finds it uncomfortable or limiting.
+
+That's a good reason to explore other options together.
+
+The most useful solution is one that takes account of the person's wishes, the supporter's needs and any relevant medical guidance.
+
+### When the same problem keeps coming back
+
+Sometimes a safety plan begins with something quite ordinary.
+
+Imagine that every time you go out together, someone has to hurry back into the house for a forgotten item.
+
+Perhaps it's an aid, a pair of earplugs or important medical information.
+
+After the fifth trip back to the front door, you might start thinking there has to be an easier way!
+
+Maybe a small bag kept ready would help.
+
+Or perhaps the problem is getting to medical appointments.
+
+A person may struggle with bright waiting rooms, speaking during an episode or remembering what they wanted to discuss.
+
+That might lead to arranging a quieter waiting area, preparing a communication note or carrying a short medical information sheet.
+
+These ideas are about solving practical problems.
+
+Some can be tried easily. Others, particularly those involving medicines, mobility equipment, transfers or emergency responses, need professional advice.
+
+An occupational therapist can be especially helpful when exploring how changes to activities, equipment or surroundings might improve safety and participation.
+
+**You don't have to anticipate every possible difficulty. Repeated problems can show you where a useful change might begin.**
+
+### Making agreements that work for both of you
+
+Some parts of a plan need a conversation before they're needed.
+
+For example, if the person experiences episodes that affect their ability to speak, what kind of help would they like?
+
+Perhaps they'd prefer you to give them more time to respond.
+
+Maybe they'd like you to show a clinician their short emergency information sheet when speaking becomes difficult.
+
+You can also discuss what you're comfortable doing.
+
+What happens if you're unavailable?
+
+What if the situation requires more physical help than you can safely provide?
+
+Who else could assist?
+
+Those questions help turn good intentions into arrangements that are more dependable.
+
+It's also worth recognising that supporters aren't all spouses or parents.
+
+You might be a friend, sibling, teenager or someone who provides occasional assistance.
+
+Your responsibilities, abilities and available support may be quite different.
+
+A useful plan can reflect the role you're actually able and willing to take on.
+
+### When medical information is part of the plan
+
+The Person section of this lesson introduces two useful handouts.
+
+The first is a short, personal emergency information sheet. It describes the person's diagnosed conditions, familiar symptoms, communication needs and important medical information.
+
+The second is a longer explanation of FND for healthcare professionals.
+
+As a supporter, you may be able to help the person prepare or organise this information, if they'd like your involvement.
+
+You might also know something useful about the timing or appearance of familiar episodes.
+
+Your observations can help make the information clearer.
+
+Medical instructions need another kind of input.
+
+The person's clinicians should help establish appropriate responses to familiar episodes and the circumstances that call for additional medical attention.
+
+That helps everyone understand where an agreed home response ends and professional medical care is needed.
+
+The handouts can then be kept somewhere accessible, with the person's knowledge and agreement.
+
+It's a small preparation that may make a difficult conversation much easier later.
+
+### A plan can make room for your limits
+
+There's one more thing worth thinking about.
+
+Sometimes supporters gradually take on more responsibilities without ever really discussing them.
+
+One job becomes two. Then three.
+
+Eventually, helping can begin to feel like being permanently on call.
+
+That's a difficult arrangement to sustain.
+
+A safety plan offers an opportunity to talk about what is realistic.
+
+Perhaps you can provide certain kinds of assistance but need additional help with others.
+
+Maybe you need a reliable break during the week.
+
+Or perhaps a physical injury means an arrangement that used to work needs to change.
+
+These are practical needs worth addressing.
+
+Sometimes involving another family member, a healthcare professional or a community service may help.
+
+And if support isn't available, that limitation matters too. The plan needs to reflect the resources people actually have.
+
+**A sustainable plan helps protect the relationship as well as the people in it.**
+
+### Something to think about
+
+Is there a situation where you've been providing the same help over and over?
+
+Does that arrangement work comfortably for both of you?
+
+Perhaps there's something you could change together.
+
+Or maybe there's a question you'd like to ask an occupational therapist, physiotherapist or another member of the healthcare team.
+
+### One small thing you can try
+
+Choose one repeated difficulty you've noticed.
+
+At a comfortable time, ask the person you're supporting what they think might help.
+
+You can share your own thoughts about what's practical for you as well.
+
+Perhaps you'll find an easy adjustment.
+
+Maybe you'll discover that professional advice would be useful.
+
+Either way, you've begun turning an identified need into a shared plan.
+
+**The best arrangements make room for the person receiving help and the person providing it.**
+
+### Coming up next
+
+You've looked at recognising useful information and working together to prepare for familiar difficulties.
+
+Next, we'll explore what happens when those preparations meet real life.
+
+How do you support someone's choices while helping them understand possible consequences?
+
+What happens when thinking or memory makes a decision more difficult?
+
+And how do you respond when an ordinary outing becomes a situation where safety needs to come first?
+
+That's where we'll take this next.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
