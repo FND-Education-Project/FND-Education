@@ -66,6 +66,28 @@ test("account client never uses browser-local progress storage", () => {
   assert.match(accountScript, /applyTheme/);
 });
 
+test("email typing is uninterrupted until explicit human verification", () => {
+  // Turnstile's asynchronous iframe rendering must not begin merely because
+  // a visitor opens the email form or returns to edit their address.
+  assert.match(accountScript, /beginVerification\.addEventListener\("click"/);
+  assert.match(accountScript, /form\.reportValidity\(\)/);
+  assert.match(accountScript, /widget\.hidden = true/);
+  assert.match(accountScript, /clearVerification\(\)/);
+  assert.doesNotMatch(accountScript, /box\.addEventListener\("toggle"/);
+  assert.doesNotMatch(accountScript, /email\.focus\(\);\s*prepareWidget\(\)/);
+});
+
+test("signed-in light and dark themes override the device setting", () => {
+  const css = readFileSync(
+    new URL("../../web/assets/css/site.css", import.meta.url), "utf8"
+  );
+  assert.match(accountScript, /document\.documentElement\.dataset\.theme = theme/);
+  assert.match(css, /html\[data-theme="light"\]\s*\{[^}]*color-scheme:\s*light;/);
+  assert.match(css, /html\[data-theme="dark"\]\s*\{[^}]*color-scheme:\s*dark;/);
+  assert.match(css, /html\[data-theme="light"\]\s*\{[^}]*--background:/);
+  assert.match(css, /html\[data-theme="dark"\]\s*\{[^}]*--background:/);
+});
+
 test("course reading remains accessible without account API", () => {
   assert.match(courseScript, /if \(!window\.FNDAccount\) return/);
 });
