@@ -4,9 +4,9 @@
 
 # Emergency Information and Individual Safety Plans
 
-> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Working draft:** Human authored revision with AI assistance; all three audience sections reviewed and approved by the project lead. Accepted evidence corrections and editorial Audit 2 completed October 25, 2026; independent clinical review remains pending.
 
-An emergency plan is easiest to use when it is brief, specific to you and agreed with the clinicians who know your health. It is not a document that asks strangers to ignore every symptom. (*citations* [1](#citation-1), [2](#citation-2))
+An emergency plan is easiest to use when it is brief, specific to you and agreed with the clinicians who know your health. It helps others respond to familiar symptoms and recognise when fresh assessment is needed.
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -34,11 +34,11 @@ That's the sort of thing a **safety plan** can help with.
 
 And here's the good news.
 
-You've already made a start.
+You may already have made a start.
 
 ### Remember that symptom map?
 
-In Lesson 11, you wrote down some of your symptoms, safety needs and things that help.
+In Lesson 11, you had the option to note some of your symptoms, safety needs and things that help.
 
 You may have written something like:
 
@@ -102,7 +102,7 @@ Here's what's in mine:
 - A neck brace we've kept for particular situations when I'm sitting upright
 - Kleenex
 - Identification
-- Spare earplugs for my hyperacusis (painful sensitivity to sound)
+- Spare earplugs for my hyperacusis (for me, painful sensitivity to sound)
 - A sleep mask to block out light
 - Two medical information handouts
 
@@ -110,7 +110,7 @@ The earplugs and sleep mask are particularly useful for me because a dark, quiet
 
 That's my experience, though. Someone else's needs could look completely different.
 
-Our safety equipment and medication arrangements are individual choices, some made with professional help. Things such as neck supports, seizure positioning and medication use need their own medical safety guidance.
+Our safety equipment and medication arrangements are individual choices, some made with professional help. Things such as neck supports, seizure positioning and medication use need their own medical safety guidance. Vehicle equipment also needs to suit occupant safety and restraint requirements, with appropriate professional assessment.
 
 What matters about our story isn't the particular equipment we chose.
 
@@ -328,7 +328,7 @@ Understanding those feelings can help you find ways of supporting each other tha
 
 ### Remember available capacity?
 
-Back in Lesson 4, we introduced **available capacity**.
+Back in Lesson 4, we introduced **[available capacity](../../../glossary/README.md#available-capacity)**.
 
 It's a way of describing how much someone can manage at a particular time, considering the demands on their body and mind.
 
@@ -630,7 +630,7 @@ Her functional weakness and seizures were supported by clinical evidence. Furthe
 
 The published report describes POTS-directed management alongside continuing FND care, followed by improvement in mobility.
 
-The authors could not isolate the effects of individual interventions. (*citation* [4](#citation-4))
+The authors could not isolate the effects of individual interventions. (*citations* [4](#citation-4))
 
 Now consider what happens beyond the diagnostic encounter.
 
@@ -643,6 +643,8 @@ What should her clinical team do next?
 The following is a clinical planning exercise informed by the published case, rather than a description of the patient's documented rehabilitation arrangements.
 
 ### Begin with the problem, then choose the professional
+
+The Reference Library explains the [roles different professionals can play](../../../reference/professional-roles-in-fnd-care.md). The examples below show how those roles might fit this person.
 
 Consider three needs that might arise in a patient with this combination of diagnoses.
 
@@ -708,7 +710,7 @@ The plan should identify what is being addressed, what action has been agreed, w
 
 For example, an OT and physiotherapist may collaborate on safe mobility and transfers, while a physician retains responsibility for medical escalation criteria.
 
-A designated clinician or service should coordinate the overall plan so that recommendations remain consistent. (*citation* [8](#citation-8))
+A designated clinician or service should coordinate the overall plan so that recommendations remain consistent. (*citations* [8](#citation-8))
 
 ### The cost of care deserves clinical attention
 
@@ -732,7 +734,7 @@ For the patient and family, costs may include travel, time away from employment,
 
 For healthcare services, costs may include repeated assessments, duplicated referrals and emergency presentations that could sometimes be managed differently with clearer information and suitable ongoing care.
 
-These are potential consequences, rather than evidence that any particular intervention will automatically reduce expenditure.
+These are potential consequences, rather than evidence that any particular intervention will automatically reduce expenditure. A systematic review found substantial economic burden across heterogeneous studies, while evidence establishing cost-effective treatment remained limited. (*citations* [9](#citation-9))
 
 The financial implications of professional involvement deserve the same careful reasoning.
 
@@ -762,7 +764,7 @@ Those goals can coexist.
 
 The appropriate choice depends on the patient's disability, injury risk, treatment goals, environment and response to rehabilitation.
 
-An aid should neither become a permanent default without review nor be withheld solely because the neurological diagnosis is functional.
+Access to an aid should follow assessed need, with review as the person’s circumstances and rehabilitation goals change.
 
 A collaboratively assessed aid may allow someone to participate in daily life while pursuing rehabilitation.
 
@@ -784,7 +786,7 @@ The same reasoning applies beyond motor symptoms.
 
 A patient with functional cognitive difficulties may struggle to remember medical instructions or combine information needed for decisions.
 
-Depending on the problem, occupational therapy, neuropsychology or another appropriately qualified professional may contribute assessment, communication strategies or practical cognitive supports.
+Depending on the problem, occupational therapy, neuropsychology or another appropriately qualified professional may contribute assessment, communication strategies or practical cognitive supports. (*citations* [10](#citation-10))
 
 A patient with swallowing difficulties presents a different clinical need.
 
@@ -808,7 +810,7 @@ Its purpose is rapid orientation.
 
 The **one-page FND information handout for healthcare professionals** provides a concise orientation to the condition and its clinical assessment. <a href="{{ '/assets/downloads/meeting-a-person-with-fnd-clinician-handout.pdf' | relative_url }}" target="_blank" rel="noopener">Download the clinician handout (PDF, new tab)</a>.
 
-The longer document explains FND.
+The clinician handout explains FND.
 
 The personal sheet explains what matters for this particular patient.
 
@@ -859,6 +861,11 @@ Lesson 14 will examine how clinical teams support those decisions, respond to ch
 [Research and Sources](#research-and-sources)
 ***
 
+## Further reading
+
+- [Communication support and AAC](../../../reference/recovery-techniques/functional_speech_and_voice_symptoms/09-communication-support-and-aac.md)
+- [Functional-seizure safety planning](../../../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md)
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Using Your Safety Plan and Deciding When to Get Urgent Help](03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md)
 
@@ -876,13 +883,14 @@ These clinical reviews, practice guidance and consensus recommendations inform i
 | <a id="citation-1"></a>**[1]** | — | Anderson JR, Nakhate V, Stephen CD, Perez DL. Functional (psychogenic) neurological disorders: assessment and acute management in the emergency department. *Seminars in Neurology*. 2019;39(1):102–114. [FND-CIT-0070](../../../research/citation-index.md#fnd-cit-0070). [https://doi.org/10.1055/s-0038-1676844](https://doi.org/10.1055/s-0038-1676844) |
 | <a id="citation-2"></a>**[2]** | — | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
 | <a id="citation-3"></a>**[3]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
-
-| <a id="citation-4"></a>**[4]** | Case report | Das S, Yerraballa SRN, Shekhawat P. Coexisting postural orthostatic tachycardia syndrome on autonomic reflex testing in functional neurologic disorder. *American Journal of Case Reports*. 2026;27:e953323. [https://doi.org/10.12659/AJCR.953323](https://doi.org/10.12659/AJCR.953323) |
-| <a id="citation-5"></a>**[5]** | Physiotherapy consensus | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
-| <a id="citation-6"></a>**[6]** | Occupational therapy consensus | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-7"></a>**[7]** | Speech-language therapy consensus | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
-| <a id="citation-8"></a>**[8]** | Multidisciplinary recommendations | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
+| <a id="citation-4"></a>**[4]** | — | Das S, Yerraballa SRN, Shekhawat P. Coexisting postural orthostatic tachycardia syndrome on autonomic reflex testing in functional neurologic disorder. *American Journal of Case Reports*. 2026;27:e953323. [https://doi.org/10.12659/AJCR.953323](https://doi.org/10.12659/AJCR.953323) [FND-CIT-0293](../../../research/citation-index.md#fnd-cit-0293). |
+| <a id="citation-5"></a>**[5]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
+| <a id="citation-6"></a>**[6]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-7"></a>**[7]** | — | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
+| <a id="citation-8"></a>**[8]** | — | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
+| <a id="citation-9"></a>**[9]** | — | O’Mahony B, Nielsen G, Baxendale S, Edwards MJ, Yogarajah M. Economic Cost of Functional Neurologic Disorders: A Systematic Review. *Neurology*. 2023;101(2):e202–e214. [https://doi.org/10.1212/WNL.0000000000207388](https://doi.org/10.1212/WNL.0000000000207388) [FND-CIT-0297](../../../research/citation-index.md#fnd-cit-0297). |
+| <a id="citation-10"></a>**[10]** | — | Ball HA, McWhirter L, Ballard C, Bhome R, Blackburn DJ, Edwards MJ, et al. Functional cognitive disorder: dementia’s blind spot. *Brain*. 2020;143(10):2895–2903. [https://doi.org/10.1093/brain/awaa224](https://doi.org/10.1093/brain/awaa224) [FND-CIT-0071](../../../research/citation-index.md#fnd-cit-0071). |
 
 This page still needs review by people with FND, supporters and emergency-care teams, including a check that the suggested card fields are practical.
 
-*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*
+*Initial draft: September 4, 2026 · Evidence audit and approved corrections: October 25, 2026 · Editorial Audit 2: October 25, 2026 · Independent clinical review pending*

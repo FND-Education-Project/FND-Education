@@ -4,9 +4,9 @@
 
 # Familiar Symptoms, New Symptoms, and Medical Change
 
-> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Working draft:** Human authored revision with AI assistance; all three audience sections reviewed and approved by the project lead. Accepted evidence corrections and editorial Audit 2 completed October 25, 2026; independent clinical review remains pending.
 
-FND can explain real and disabling symptoms. It does not protect you from another illness, injury or medical emergency. The safest question is often not “Is this FND?” but “Is this my usual, medically assessed pattern?” (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+FND can explain real and disabling symptoms, and other health problems can coexist. Recognising your familiar, medically assessed pattern helps you describe changes that may need fresh attention.
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -114,7 +114,7 @@ But you're sitting there thinking, "Hang on. Could we look at this new problem?"
 
 There's actually a medical term for what can sometimes happen.
 
-It's called **diagnostic overshadowing**.
+It's called **[diagnostic overshadowing](../../../glossary/README.md#diagnostic-overshadowing)**.
 
 That's when an existing diagnosis gets so much attention that another possible health problem is overlooked.
 
@@ -126,7 +126,7 @@ The person wrote:
 
 > "He gave me steroid droplets ... and since then my light sensitivity is gone."
 
-*— A comment from a now-deleted account in an [FND community discussion](https://www.reddit.com/r/FND/comments/1ievray/sharing_my_success_story/).*
+*Figure 1. Individual lived experience: a comment from a now-deleted account in an [FND community discussion](https://www.reddit.com/r/FND/comments/1ievray/comment/mamm6gr/). An omission is marked.* (*citations* [7](#citation-7))
 
 For this person, getting their eyes checked led to treatment that helped.
 
@@ -157,6 +157,8 @@ This is where an **individual safety plan** comes in.
 It's guidance worked out with your clinicians about what helps during familiar symptoms, how to keep you safe, and when it's time to get more medical help. (*citations* [2](#citation-2), [3](#citation-3), [4](#citation-4))
 
 You may already have one.
+
+The Reference Library explains an [individualized functional-seizure safety plan](../../../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md). A first or uncertain seizure-like event, abnormal breathing, or prolonged or repeated events without usual recovery need urgent medical help. If no usable plan is available, seek urgent advice rather than assume the event is familiar. (*citations* [2](#citation-2), [4](#citation-4))
 
 If you haven't, that's something we'll work toward in the next lesson.
 
@@ -297,11 +299,11 @@ That can look pretty strange from the outside.
 
 But here's the important part.
 
-**A symptom changing with attention or suggestion doesn't mean the person is choosing to produce it.**
+**Real, involuntary symptoms can change with attention or suggestion.**
 
 These changes can be part of how real, involuntary functional symptoms behave.
 
-Clinicians may even use certain changes during examination as *positive diagnostic signs*—findings that help them recognise FND.
+Clinicians may even use certain changes during examination as *[positive diagnostic signs](../../../glossary/README.md#positive-clinical-sign--positive-diagnostic-sign)*—findings that help them recognise FND.
 
 Of course, the way a symptom behaves in one moment isn't enough for a supporter to diagnose it.
 
@@ -363,7 +365,7 @@ Or you remember a long period when they couldn't speak, while they recall only a
 
 It can feel strange when two people who were there remember the same event differently.
 
-Earlier in the course, we talked about **functional cognitive disorder (FCD)** and the way thinking and memory can become unreliable.
+Earlier in the course, we talked about **functional cognitive disorder (FCD)** and the way thinking and memory can become unreliable. Memory differences can have several explanations, including fatigue, sleep, other health conditions and ordinary differences in recall. New cognitive changes deserve assessment on their own merits. (*citations* [8](#citation-8))
 
 Someone may genuinely remember an event differently from the way you do.
 
@@ -562,7 +564,7 @@ The result was a more complete formulation: FND and POTS coexisted.
 
 This is the central lesson of the case.
 
-**New evidence does not necessarily weaken an established diagnosis. It may define the limits of what that diagnosis explains.**
+**New evidence can clarify what an established diagnosis explains and where another explanation is needed.**
 
 This is particularly valuable when symptoms overlap.
 
@@ -602,7 +604,9 @@ Her presentation included progressive voice problems, difficulty opening her eye
 
 As symptoms progressed, repeated examinations and further investigations supported a clinical diagnosis of progressive supranuclear palsy.
 
-An interesting detail emerged: indoor sunglasses, previously interpreted as supporting a functional explanation, helped reduce aggravation of blepharospasm.
+The authors also considered that functional symptoms probably remained alongside the neurodegenerative disorder.
+
+An interesting detail emerged: indoor sunglasses, previously interpreted as supporting a functional explanation, helped reduce aggravation of blepharospasm. Sunglasses alone are not a diagnostic sign of FND; their meaning depends on the wider clinical assessment.
 
 This case raises a different question.
 
@@ -655,6 +659,11 @@ We'll also consider the costs of fragmented care and the potential benefits of c
 [Research and Sources](#research-and-sources)
 ***
 
+## Further reading
+
+- [Memory supports](../../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md)
+- [Functional-seizure safety planning](../../../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md)
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Emergency Information and Individual Safety Plans](02-emergency-information-and-individual-safety-plans.md)
 
@@ -665,7 +674,7 @@ We'll also consider the costs of fragmented care and the potential benefits of c
 
 ## Research and Sources
 
-The clinical exercise is based on two published case reports. The emergency-department and iatrogenic-harm reviews give broader context for reassessment and proportionate intervention. Case reports illustrate clinical reasoning but cannot establish how often an additional diagnosis occurs or attribute treatment effects. (*citations* [2](#citation-2), [3](#citation-3), [4](#citation-4), [5](#citation-5), [6](#citation-6))
+The clinical exercise is based on two published case reports. The emergency-department and iatrogenic-harm reviews give broader context for reassessment and proportionate intervention. Case reports illustrate clinical reasoning but cannot establish how often an additional diagnosis occurs or attribute treatment effects. The Das report also describes hypermobility/hEDS and incomplete medication chronology; this exercise selects findings relevant to its teaching question. The community account illustrates one person’s experience. Ball and colleagues inform the distinction between cognitive symptoms and a positive FCD diagnosis. (*citations* [2](#citation-2), [3](#citation-3), [4](#citation-4), [5](#citation-5), [6](#citation-6))
 
 | Citation | Figure | Full citation |
 |---|---|---|
@@ -673,10 +682,11 @@ The clinical exercise is based on two published case reports. The emergency-depa
 | <a id="citation-2"></a>**[2]** | — | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
 | <a id="citation-3"></a>**[3]** | — | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
 | <a id="citation-4"></a>**[4]** | — | Anderson JR, Nakhate V, Stephen CD, Perez DL. Functional (psychogenic) neurological disorders: assessment and acute management in the emergency department. *Seminars in Neurology*. 2019;39(1):102–114. [FND-CIT-0070](../../../research/citation-index.md#fnd-cit-0070). [https://doi.org/10.1055/s-0038-1676844](https://doi.org/10.1055/s-0038-1676844) |
-
-| <a id="citation-5"></a>**[5]** | Primary case | Das S, Yerraballa SRN, Shekhawat P. Coexisting postural orthostatic tachycardia syndrome on autonomic reflex testing in functional neurologic disorder. *American Journal of Case Reports*. 2026;27:e953323. [https://doi.org/10.12659/AJCR.953323](https://doi.org/10.12659/AJCR.953323) |
-| <a id="citation-6"></a>**[6]** | Contrasting case | Berry AJ, Wiethoff S. Revising a diagnosis of functional neurological disorder—a case report. *Oxford Medical Case Reports*. 2020;2020(9):omaa073. [https://doi.org/10.1093/omcr/omaa073](https://doi.org/10.1093/omcr/omaa073) |
+| <a id="citation-5"></a>**[5]** | — | Das S, Yerraballa SRN, Shekhawat P. Coexisting postural orthostatic tachycardia syndrome on autonomic reflex testing in functional neurologic disorder. *American Journal of Case Reports*. 2026;27:e953323. [https://doi.org/10.12659/AJCR.953323](https://doi.org/10.12659/AJCR.953323) [FND-CIT-0293](../../../research/citation-index.md#fnd-cit-0293). |
+| <a id="citation-6"></a>**[6]** | — | Berry AJ, Wiethoff S. Revising a diagnosis of functional neurological disorder—a case report. *Oxford Medical Case Reports*. 2020;2020(9):omaa073. [https://doi.org/10.1093/omcr/omaa073](https://doi.org/10.1093/omcr/omaa073) [FND-CIT-0294](../../../research/citation-index.md#fnd-cit-0294). |
+| <a id="citation-7"></a>**[7]** | Figure 1 | Public Reddit comment, now-deleted account, in “Sharing my success story.” r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1ievray/comment/mamm6gr/). Verified October 25, 2026. Individual lived experience. [FND-CIT-0295](../../../research/citation-index.md#fnd-cit-0295). |
+| <a id="citation-8"></a>**[8]** | — | Ball HA, McWhirter L, Ballard C, Bhome R, Blackburn DJ, Edwards MJ, et al. Functional cognitive disorder: dementia’s blind spot. *Brain*. 2020;143(10):2895–2903. [https://doi.org/10.1093/brain/awaa224](https://doi.org/10.1093/brain/awaa224) [FND-CIT-0071](../../../research/citation-index.md#fnd-cit-0071). |
 
 This page still needs review by people with FND, supporters, emergency clinicians and neurologists.
 
-*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*
+*Initial draft: September 4, 2026 · Evidence audit and approved corrections: October 25, 2026 · Editorial Audit 2: October 25, 2026 · Independent clinical review pending*

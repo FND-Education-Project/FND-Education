@@ -8,6 +8,8 @@ If a document becomes reader-ready, move it out of `_internal` into the appropri
 
 ## Course editorial handoffs
 
+- [Module 5 accepted fixes and Audit 2](course/audit-02-module-05-2026-10-25.md) — editorial completion and verification for Lessons 12–14.
+
 - [Module 5 Audit 1 and community-informed handout review](course/audit-01-module-05-2026-10-25.md) — findings for Lessons 12–14, asset inventory and handout rationale.
 
 - [Lesson 12 clinician case research and teaching outline](course/module-05-lesson-12-clinician-diagnostic-overshadowing-case-handoff-2026-10-25.md) — published diagnostic overshadowing cases, staged reasoning questions and continuation instructions for the editing chat.

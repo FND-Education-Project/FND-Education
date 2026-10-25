@@ -4,9 +4,9 @@
 
 # Using Your Safety Plan and Deciding When to Get Urgent Help
 
-> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
+> **Working draft:** Human authored revision with AI assistance; all three audience sections reviewed and approved by the project lead. Accepted evidence corrections and editorial Audit 2 completed October 25, 2026; independent clinical review remains pending.
 
-This page is about using a plan in real time. It cannot tell you whether a particular symptom is an emergency. Local emergency guidance and your own clinical plan come first.
+This lesson explores using your safety plan in everyday life, supporting choices and recognising when more help is needed. Local emergency guidance and your own clinical plan guide the response to a possible emergency.
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -166,15 +166,17 @@ Severe breathing difficulty, a serious injury, or sudden signs of a possible str
 
 Your plan is there to guide care, rather than delay it.
 
+The Reference Library explains an [individualized functional-seizure safety plan](../../../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md). A first or uncertain seizure-like event, abnormal breathing, or prolonged or repeated events without usual recovery need urgent medical help. If no usable plan is available, seek urgent advice rather than assume the event is familiar. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
 ### Recovery is part of the experience
 
 For some people, the most noticeable symptoms of an episode finish before they've fully recovered.
 
 One person in an FND community described it this way:
 
-> "Even when the seizure is done, I'm still somewhat-catatonic for at least a few hours."
+> "Even when the seizure is done, Im still somewhat-catatonic for at least a few hours ..."
 
-*— One person's description of recovery in an [FND community discussion](https://www.reddit.com/r/FND/comments/1o3u59q/what_do_you_guys_think_about_during_seizures/).*
+*Figure 1. Individual lived experience: one person’s description of recovery in an [FND community comment](https://www.reddit.com/r/FND/comments/1o3u59q/comment/nj1xi6u/). Original wording retained; an omission is marked.* (*citations* [11](#citation-11))
 
 The person used *catatonic* to describe their experience. It isn't a confirmed medical diagnosis in this account.
 
@@ -383,11 +385,11 @@ Or maybe they remember what happened but struggle to judge how much energy anoth
 
 They may be working with a different picture of the situation than you are.
 
-That doesn't mean they're choosing to ignore the consequences.
+They may need information presented in a way that helps them use it.
 
-And it doesn't mean they cannot make decisions.
+Their preferences and choices still matter.
 
-FCD can affect memory, concentration and the ability to bring several pieces of information together. A person's ability to make a particular decision depends on more than a diagnosis.
+FCD can affect memory, concentration and the ability to bring several pieces of information together. A person's ability to make a particular decision depends on more than a diagnosis. Differences in recall can also reflect fatigue, sleep, other conditions or ordinary memory differences. New cognitive changes deserve medical assessment. (*citations* [9](#citation-9), [10](#citation-10))
 
 As a supporter, you may be able to help by bringing a missing piece of information back into view.
 
@@ -463,7 +465,7 @@ So the aim is to support those parts of life while respecting the person's swall
 
 A speech-language pathologist or another appropriate clinician can assess swallowing and recommend ways to eat and drink more safely when needed.
 
-That advice may involve food texture, positioning, timing or supervision, depending on the person's individual difficulties.
+That advice may involve food texture, positioning, timing or supervision, depending on the person's individual difficulties. Use the recommendations from their own qualified team; the [swallowing assessment reference](../../../reference/recovery-techniques/functional_swallowing_and_globus/01-understanding-the-assessment.md) explains why individual assessment matters. (*citations* [7](#citation-7))
 
 The supporter can help the person follow an agreed approach while listening to their preferences.
 
@@ -549,7 +551,7 @@ One supporter in an online FND community described how helpful it had been to ma
 
 > "One thing that really helps us is discussing ground rules for conflict when we're not actively IN it."
 
-*— A supporter's individual experience from an [FND community discussion](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/).*
+*Figure 2. Individual lived experience: a supporter’s comment in an [FND community discussion](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/).* (*citations* [12](#citation-12))
 
 The commenter was describing communication in a relationship where difficult conversations could affect symptoms.
 
@@ -643,7 +645,7 @@ And attending another medical appointment to discuss the outing might itself inv
 
 **Does she need another appointment to decide whether she can attend college? Or should her existing care have prepared her to make that decision?**
 
-*This scenario is an educational extension of the published FND/POTS case. The college journey and support arrangements are hypothetical, not reported outcomes.*
+*This scenario is an educational extension of the published FND/POTS case. The college journey and support arrangements are hypothetical, not reported outcomes.* (*citations* [4](#citation-4))
 
 ### Preparing people to make decisions without the clinician
 
@@ -693,7 +695,7 @@ She can then decide whether to undertake an ordinary outing, adjust it or try an
 
 The clinician who helped develop the plan need not participate in each subsequent decision.
 
-**Good rehabilitation equips people to apply clinical knowledge independently, within an agreed understanding of their risks and abilities.**
+**Good rehabilitation equips people to apply clinical knowledge independently, within an agreed understanding of their risks and abilities.** (*citations* [5](#citation-5), [6](#citation-6))
 
 ### What if the supporter cannot provide the expected help?
 
@@ -733,7 +735,7 @@ Clinicians and rehabilitation professionals can help establish decision-making s
 
 These might include brief written reminders, reviewing one option at a time, agreed records of important events or a simple way to consider the consequences of an activity.
 
-Such arrangements can be developed in advance and used at home.
+Such arrangements can be developed in advance and used at home. (*citations* [9](#citation-9), [10](#citation-10))
 
 They can also be revised when experience reveals a better approach.
 
@@ -741,7 +743,7 @@ The aim is to strengthen the person's ability to participate in decisions.
 
 **Cognitive support is a means of preserving autonomy, rather than evidence that autonomy should be transferred to somebody else.**
 
-Where formal questions about decision-making capacity arise, the assessment remains specific to the decision and applicable legal framework.
+Where formal questions about decision-making capacity arise, assessment is specific to the decision, the time and the applicable legal framework. Support the person to understand and communicate their choice; a choice others consider unwise does not by itself establish incapacity. (*citations* [10](#citation-10))
 
 ### Different symptoms require different preparations
 
@@ -751,7 +753,7 @@ Consider someone with functional swallowing difficulties.
 
 Every meal involves decisions about eating and drinking, yet daily access to a clinician is neither realistic nor necessary once an appropriate individualized approach has been established.
 
-Medical and swallowing assessments can identify relevant risks. Speech-language pathology may help develop suitable strategies and explain which changes require reassessment.
+Medical and swallowing assessments can identify relevant risks. Speech-language pathology may help develop suitable strategies and explain which changes require reassessment. (*citations* [7](#citation-7))
 
 The patient and supporter can then apply those recommendations in everyday situations.
 
@@ -779,7 +781,7 @@ Patients benefit from knowing which concerns can be addressed through existing g
 
 Where services permit, telephone consultations, remote follow-up, written communication or coordinated appointments may reduce unnecessary travel.
 
-These options are particularly relevant when the clinical question can be answered without an in-person examination.
+These options are particularly relevant when the clinical question can be answered without an in-person examination. (*citations* [8](#citation-8))
 
 However, new or substantially changed symptoms, serious injuries and possible medical emergencies still require appropriate assessment.
 
@@ -803,9 +805,7 @@ Or the arrangement demands more energy than the patient can consistently manage.
 
 These difficulties provide information about the plan's feasibility.
 
-When professional review becomes possible, the useful question is not simply whether the patient followed the recommendations.
-
-It is whether the recommendations addressed the intended problem under the circumstances in which the patient lives.
+When professional review becomes possible, ask whether the recommendations addressed the intended problem under the circumstances in which the patient lives.
 
 A practical review may examine participation, symptom burden, injury risk, supporter capacity, access to care and the resources required to maintain the arrangement.
 
@@ -844,6 +844,11 @@ The same principles continue to apply: clear assessment, individualized preparat
 [Research and Sources](#research-and-sources)
 ***
 
+## Further reading
+
+- [External memory supports](../../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md)
+- [Swallowing assessment and safety](../../../reference/recovery-techniques/functional_swallowing_and_globus/01-understanding-the-assessment.md)
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next module: Functional Seizures and Other Episodes](../module-06-functional-seizures-and-episodic-symptoms/README.md)
 
@@ -854,14 +859,23 @@ The same principles continue to apply: clear assessment, individualized preparat
 
 ## Research and Sources
 
-The guideline and emergency reviews support shared planning, assessment of coexisting conditions and avoidance of unnecessary harm. Evidence for the exact design and effectiveness of personal emergency plans remains limited. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+The guideline and emergency reviews support shared planning, assessment of coexisting conditions and avoidance of unnecessary harm. OT, physiotherapy and speech-language consensus guidance inform the practical examples; multidisciplinary recommendations inform coordination. Ball and colleagues inform the FCD discussion. NICE supports decision-specific and time-specific assessment and communication support in its own legal setting; local law governs practice elsewhere. The college example is hypothetical, and community accounts are individual experiences. Evidence for the exact design and effectiveness of personal emergency plans remains limited. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Anderson JR, Nakhate V, Stephen CD, Perez DL. Functional (psychogenic) neurological disorders: assessment and acute management in the emergency department. *Seminars in Neurology*. 2019;39(1):102–114. [FND-CIT-0070](../../../research/citation-index.md#fnd-cit-0070). [https://doi.org/10.1055/s-0038-1676844](https://doi.org/10.1055/s-0038-1676844) |
+| <a id="citation-1"></a>**[1]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
+| <a id="citation-2"></a>**[2]** | — | Anderson JR, Nakhate V, Stephen CD, Perez DL. Functional (psychogenic) neurological disorders: assessment and acute management in the emergency department. *Seminars in Neurology*. 2019;39(1):102–114. [FND-CIT-0070](../../../research/citation-index.md#fnd-cit-0070). [https://doi.org/10.1055/s-0038-1676844](https://doi.org/10.1055/s-0038-1676844) |
 | <a id="citation-3"></a>**[3]** | — | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
+| <a id="citation-4"></a>**[4]** | — | Das S, Yerraballa SRN, Shekhawat P. Coexisting postural orthostatic tachycardia syndrome on autonomic reflex testing in functional neurologic disorder. *American Journal of Case Reports*. 2026;27:e953323. [https://doi.org/10.12659/AJCR.953323](https://doi.org/10.12659/AJCR.953323) [FND-CIT-0293](../../../research/citation-index.md#fnd-cit-0293). |
+| <a id="citation-5"></a>**[5]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-6"></a>**[6]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
+| <a id="citation-7"></a>**[7]** | — | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
+| <a id="citation-8"></a>**[8]** | — | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
+| <a id="citation-9"></a>**[9]** | — | Ball HA, McWhirter L, Ballard C, Bhome R, Blackburn DJ, Edwards MJ, et al. Functional cognitive disorder: dementia’s blind spot. *Brain*. 2020;143(10):2895–2903. [https://doi.org/10.1093/brain/awaa224](https://doi.org/10.1093/brain/awaa224) [FND-CIT-0071](../../../research/citation-index.md#fnd-cit-0071). |
+| <a id="citation-10"></a>**[10]** | — | National Institute for Health and Care Excellence. *Decision-making and mental capacity*. NG108. 2018. [Recommendations](https://www.nice.org.uk/guidance/ng108/chapter/recommendations). Guidance for people aged 16 and over, within the England and Wales legal framework. [FND-CIT-0298](../../../research/citation-index.md#fnd-cit-0298). |
+| <a id="citation-11"></a>**[11]** | Figure 1 | Public Reddit comment in “What do you guys think about during seizures?” r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1o3u59q/comment/nj1xi6u/). Verified October 25, 2026. Individual lived experience. [FND-CIT-0296](../../../research/citation-index.md#fnd-cit-0296). |
+| <a id="citation-12"></a>**[12]** | Figure 2 | Public Reddit discussion, “I need advice.” r/FND. [Original discussion](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/). Supporter comment checked October 25, 2026. Individual lived experience, separate from the original poster’s account. [FND-CIT-0286](../../../research/citation-index.md#fnd-cit-0286). |
 
 This page still needs review by people with FND, supporters and emergency-care teams, especially the balance between clarity and over-generalization.
 
-*Plain-language draft prepared: September 4, 2026 · Research package added September 4, 2026 · Clinical review pending*
+*Initial draft: September 4, 2026 · Evidence audit and approved corrections: October 25, 2026 · Editorial Audit 2: October 25, 2026 · Independent clinical review pending*
