@@ -593,25 +593,235 @@ That's where we'll take this next.
 ## For Clinicians and the Care Team
 {: #for-clinicians-and-the-care-team .shareable }
 
-### Research quotations for review
+### A diagnosis is useful. A coordinated response makes it actionable.
 
-**Option 1 — Anderson et al., 2019**
+Return to the 18-year-old woman from Lesson 12.
 
-> “the rapid triage of potential neurological emergencies remains the initial task”
+Her functional weakness and seizures were supported by clinical evidence. Further investigation identified coexisting POTS, providing an additional explanation for her orthostatic symptoms.
 
-**Option 2 — Tolchin et al., 2026**
+The published report describes POTS-directed management alongside continuing FND care, followed by improvement in mobility.
 
-> “Clinicians should provide a specific diagnostic label and rationale for the diagnosis”
+The authors could not isolate the effects of individual interventions. (*citation* [4](#citation-4))
 
-*Figure 1 — Research quotations offered for editorial selection. (*citations* [1](#citation-1), [3](#citation-3))*
+Now consider what happens beyond the diagnostic encounter.
 
-### Co-produce a plan that can change care
+The patient still has functional neurological symptoms. Standing may be difficult. Episodes may affect her independence, and more than one condition can contribute to her limitations.
 
-Document the positive basis and certainty of each FND diagnosis, the person’s usual semiology, known comorbidities and unresolved differentials. Add only instructions that can be followed safely outside the originating service.
+What should her clinical team do next?
 
-State which familiar features support the usual response and which changes require reassessment. Avoid blanket language such as “do not investigate” or “never transfer.” Record accessibility, consent and communication needs; the supporter’s role; expected recovery; and the named service responsible for review. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+**Who is best placed to address each problem, and who ensures that their recommendations work together?**
 
-Review the plan after a changed event, new diagnosis, injury, pregnancy, important medication change or repeated difficulty using it.
+The following is a clinical planning exercise informed by the published case, rather than a description of the patient's documented rehabilitation arrangements.
+
+### Begin with the problem, then choose the professional
+
+Consider three needs that might arise in a patient with this combination of diagnoses.
+
+**First: standing produces significant symptoms.**
+
+The clinician responsible for autonomic care would assess the relevant physiology, treatment options and monitoring requirements.
+
+That information matters to the rehabilitation team.
+
+A mobility programme developed without considering clinically significant orthostatic intolerance may prove difficult to tolerate, even when its motor-retraining goals are appropriate.
+
+**Second: functional weakness affects walking and mobility.**
+
+A physiotherapist with suitable neurological rehabilitation expertise may assess movement, balance, gait and safe transfers while developing an individualized rehabilitation approach.
+
+But what if the patient can demonstrate improved movement during an appointment yet still struggles to get to the bathroom or prepare meals at home?
+
+That raises a related question for occupational therapy.
+
+An OT can examine the activities, equipment and environments involved, helping identify ways to support safety, access and participation alongside rehabilitation.
+
+The disciplines overlap, but their contributions can answer different questions. (*citations* [5](#citation-5), [6](#citation-6))
+
+**Third: episodes affect safety and communication.**
+
+The clinician overseeing the functional-seizure diagnosis can help establish the familiar event pattern, relevant comorbidities and medically appropriate response instructions.
+
+Nursing, occupational therapy and other professionals may help translate those decisions into usable arrangements.
+
+The person and their supporters contribute knowledge about what happens outside clinical appointments.
+
+The result should be an agreed response that reflects both clinical evidence and the circumstances in which it will be used.
+
+These are examples of professional contributions, not a recommendation that every patient with FND needs all these referrals.
+
+**The most useful team is organised around the patient's identified needs, rather than a standard list of specialties.**
+
+### One plan, several forms of expertise
+
+The symptom map from Lesson 11 helps identify the problems.
+
+Lesson 12 helps establish which symptoms are clinically understood and where uncertainty remains.
+
+Now the team needs to decide what can actually be done.
+
+A workable safety plan has two connected parts.
+
+The first is practical: accessible surroundings, appropriate equipment, safer daily activities, communication methods and realistic support.
+
+The second is medical: instructions for familiar events, relevant diagnoses and medicines, warning signs that warrant reassessment, and clear routes to additional care.
+
+Both matter.
+
+An emergency instruction may be clinically sound but difficult to use if the person cannot communicate during an episode.
+
+A mobility recommendation may be appropriate in the clinic but unrealistic if the patient's home has inaccessible stairs.
+
+And a transfer arrangement may benefit the patient while placing an injured supporter at further risk.
+
+These are reasons to bring the relevant professionals and lived experience together.
+
+The plan should identify what is being addressed, what action has been agreed, who is responsible and when the arrangement needs review.
+
+For example, an OT and physiotherapist may collaborate on safe mobility and transfers, while a physician retains responsibility for medical escalation criteria.
+
+A designated clinician or service should coordinate the overall plan so that recommendations remain consistent. (*citation* [8](#citation-8))
+
+### The cost of care deserves clinical attention
+
+Consider the patient who repeatedly attends appointments but continues to encounter the same practical difficulties.
+
+The neurologist has documented the diagnosis.
+
+The physiotherapist has recommended rehabilitation.
+
+The patient still cannot safely manage a particular household activity.
+
+Their supporter is compensating as best they can and is becoming physically exhausted.
+
+Each professional may have contributed appropriately within their own scope.
+
+Yet the care remains incomplete if nobody has addressed the unresolved activity or the supporter's limitations.
+
+That incompleteness can carry substantial costs.
+
+For the patient and family, costs may include travel, time away from employment, equipment, lost participation, physical injury and the effort required to coordinate appointments.
+
+For healthcare services, costs may include repeated assessments, duplicated referrals and emergency presentations that could sometimes be managed differently with clearer information and suitable ongoing care.
+
+These are potential consequences, rather than evidence that any particular intervention will automatically reduce expenditure.
+
+The financial implications of professional involvement deserve the same careful reasoning.
+
+An OT assessment, equipment trial or coordinated rehabilitation programme may involve an immediate cost.
+
+The decision should consider what clinically meaningful problem that investment is intended to address.
+
+Does it improve safe access to an essential activity?
+
+Could it reduce an identified injury risk?
+
+Will it make the agreed treatment more achievable?
+
+Does it lessen an unsustainable demand on a supporter?
+
+**Cost-conscious care means allocating resources to needs that matter, while evaluating the benefits, burdens and feasibility of the intervention.**
+
+A promising coordinated approach should still be assessed through outcomes. Reduced emergency use or overall cost savings should be demonstrated rather than assumed.
+
+### Rehabilitation and accessibility can advance together
+
+Equipment decisions in FND sometimes expose a clinical tension.
+
+A mobility aid may support immediate safety and participation, while rehabilitation aims to improve movement and independence over time.
+
+Those goals can coexist.
+
+The appropriate choice depends on the patient's disability, injury risk, treatment goals, environment and response to rehabilitation.
+
+An aid should neither become a permanent default without review nor be withheld solely because the neurological diagnosis is functional.
+
+A collaboratively assessed aid may allow someone to participate in daily life while pursuing rehabilitation.
+
+That decision should also account for the effort required to use the equipment, the possibility of dependence or deconditioning, and whether circumstances may change.
+
+Occupational therapy consensus guidance supports individualized assessment of aids and adaptations. Physiotherapy consensus guidance provides a separate framework for functional motor rehabilitation.
+
+Neither establishes a universal equipment rule for all patients with FND. (*citations* [5](#citation-5), [6](#citation-6))
+
+The practical question is:
+
+**What arrangement offers an appropriate balance of safety, access, participation and rehabilitation for this patient now?**
+
+Module 17 will examine equipment selection and reassessment in greater detail.
+
+### When another specialty is the better answer
+
+The same reasoning applies beyond motor symptoms.
+
+A patient with functional cognitive difficulties may struggle to remember medical instructions or combine information needed for decisions.
+
+Depending on the problem, occupational therapy, neuropsychology or another appropriately qualified professional may contribute assessment, communication strategies or practical cognitive supports.
+
+A patient with swallowing difficulties presents a different clinical need.
+
+Appropriate medical assessment and, when indicated, speech-language pathology can help establish swallowing safety and individualized recommendations.
+
+A patient with sensory intolerance may benefit from environmental adaptations or access arrangements, informed by relevant medical assessment.
+
+The specialist contribution follows the clinical question.
+
+The team's structure may therefore look very different for someone with functional seizures, functional weakness, swallowing difficulties, cognitive symptoms or several coexisting conditions. (*citations* [6](#citation-6), [7](#citation-7), [8](#citation-8))
+
+### Make the plan usable beyond the originating service
+
+Clinical coordination also affects the information a patient carries into other healthcare settings.
+
+This lesson introduces two complementary resources.
+
+The **short personal emergency information sheet** summarises the person's diagnoses, familiar symptom patterns, communication needs, relevant medical information and clinician-agreed reasons to seek additional care.
+
+Its purpose is rapid orientation.
+
+The **longer FND information handout for healthcare professionals** provides background on the condition and its clinical assessment. It accompanies this lesson as a separate educational resource.
+
+The longer document explains FND.
+
+The personal sheet explains what matters for this particular patient.
+
+The clinical team should ensure that individualized emergency instructions are accurate, proportionate and reviewable. A general educational handout cannot substitute for those decisions.
+
+For patients with more than one diagnosed condition, distinctions between their event types and associated risks may be particularly important.
+
+A useful handover should also identify the clinician or service responsible for reviewing the plan after an important change.
+
+### What should success look like?
+
+Symptom severity and frequency remain relevant outcomes.
+
+But a useful safety plan can provide benefits even when symptoms persist.
+
+Someone may be able to leave home more often because they have appropriate access arrangements.
+
+A supporter may be able to assist without repeatedly risking injury.
+
+An emergency clinician may have better information available when deciding what requires reassessment.
+
+The patient may find it easier to communicate their needs when speech, concentration or memory is affected.
+
+These are worthwhile outcomes to evaluate alongside clinical improvement.
+
+Their value should be determined with the patient, considering safety, function, participation, treatment burden and quality of life.
+
+The case from Lesson 12 illustrates why a more complete clinical formulation matters.
+
+This lesson takes the next step: ensuring that the formulation leads to **coordinated actions that are workable for the person living with its consequences**.
+
+### Moving into Lesson 14
+
+A plan may be clinically appropriate and still encounter practical difficulties.
+
+What happens when the available supporter cannot safely perform the agreed task?
+
+How should clinicians approach a patient's informed choice when it involves manageable risk?
+
+And how can functional cognitive difficulties be accommodated while preserving the person's decision-making authority?
+
+Lesson 14 will examine how clinical teams support those decisions, respond to changing circumstances and use real-world experience to improve the plan.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -630,13 +840,19 @@ Review the plan after a changed event, new diagnosis, injury, pregnancy, importa
 
 ## Research and Sources
 
-These clinical reviews and the functional-seizure guideline support individualized information, respectful care and reassessment. They do not validate one universal card format or emergency threshold. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+These clinical reviews, practice guidance and consensus recommendations inform individualized safety information, professional roles and coordinated rehabilitation. The 2026 FND/POTS report is a case illustration, not evidence of a particular team's cost effectiveness or proof of causation. No universal emergency card format, staffing arrangement or cost saving is established. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4), [5](#citation-5), [6](#citation-6), [7](#citation-7), [8](#citation-8))
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Anderson JR, Nakhate V, Stephen CD, Perez DL. Functional (psychogenic) neurological disorders: assessment and acute management in the emergency department. *Seminars in Neurology*. 2019;39(1):102–114. [FND-CIT-0070](../../../research/citation-index.md#fnd-cit-0070). [https://doi.org/10.1055/s-0038-1676844](https://doi.org/10.1055/s-0038-1676844) |
+| <a id="citation-1"></a>**[1]** | — | Anderson JR, Nakhate V, Stephen CD, Perez DL. Functional (psychogenic) neurological disorders: assessment and acute management in the emergency department. *Seminars in Neurology*. 2019;39(1):102–114. [FND-CIT-0070](../../../research/citation-index.md#fnd-cit-0070). [https://doi.org/10.1055/s-0038-1676844](https://doi.org/10.1055/s-0038-1676844) |
 | <a id="citation-2"></a>**[2]** | — | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
-| <a id="citation-3"></a>**[3]** | Figure 1 | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
+| <a id="citation-3"></a>**[3]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
+
+| <a id="citation-4"></a>**[4]** | Case report | Das S, Yerraballa SRN, Shekhawat P. Coexisting postural orthostatic tachycardia syndrome on autonomic reflex testing in functional neurologic disorder. *American Journal of Case Reports*. 2026;27:e953323. [https://doi.org/10.12659/AJCR.953323](https://doi.org/10.12659/AJCR.953323) |
+| <a id="citation-5"></a>**[5]** | Physiotherapy consensus | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
+| <a id="citation-6"></a>**[6]** | Occupational therapy consensus | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-7"></a>**[7]** | Speech-language therapy consensus | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
+| <a id="citation-8"></a>**[8]** | Multidisciplinary recommendations | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
 
 This page still needs review by people with FND, supporters and emergency-care teams, including a check that the suggested card fields are practical.
 
