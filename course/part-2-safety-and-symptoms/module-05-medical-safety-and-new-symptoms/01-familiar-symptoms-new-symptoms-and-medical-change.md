@@ -236,9 +236,21 @@ Next, we'll use what you've learned to help prepare your individual safety plan.
 ## For Family, Friends, and Other Supporters
 {: #for-family-friends-and-other-supporters .shareable }
 
-Follow the person’s plan for a familiar event, while noticing what is different today. Describe what you observe: timing, movement, responsiveness, breathing, colour, injury and recovery. You do not have to decide the diagnosis.
+<!--
+EDITORIAL WORK-IN-PROGRESS — LESSON 12 SUPPORTER SECTION.
+NOT APPROVED FOR PUBLICATION. Replace this whole scaffold with the reviewed prose before merging PR #186.
 
-Avoid saying either “This is definitely FND” or “This must be an emergency” without considering the plan and circumstances. If the pattern is new or clearly changed, or you are worried about immediate safety, seek appropriate medical help. Preserve the person’s privacy and choices whenever the situation allows.
+VOICE BRIEF
+Write as friendly, thoughtful advice shared over coffee: conversational and warm, educational with strong reasoning, grounded in what Lessons 1–11 taught. Audience includes supporters around age 14 as well as adults; use clear language while explaining useful clinical terms. Slow the pace for FCD readers, favour a relatable scene over a rapid list, and frame ideas positively. Avoid first-person narration (no authorial "I" or "we"). Honour varied symptoms, uncertainty, autonomy and dignity. Avoid implying functional symptoms are chosen, manufactured, or require psychological trauma. Show the reasoning for suggestions rather than issuing commands. No premature assumption that an individualized safety plan already exists; it is developed in Lesson 13.
+
+OUTLINE — LESSON 12: NOTICE AND UNDERSTAND
+1. When symptoms look puzzling: relatable scene (walking/speech changes or symptoms responding to suggestion). Acknowledge understandable supporter doubt without endorsing disbelief. Draw on course learning: positive clinical evidence, variation, attention and suggestion can affect real, involuntary symptoms.
+2. Observe rather than guess the cause: gently recall trigger, warning sign, episode, persistent symptom and aftermath/recovery. A trigger may precede an episode, a warning may signal its beginning, and a consequence follows it; persistent symptoms may vary without distinct episodes. Some people have no obvious trigger or warning.
+3. Two people may remember differently: FCD, incomplete/confused timelines, differences in witnessing versus experiencing. Encourage receptive listening and mutually agreed notes on the existing symptom map, as useful, without turning observations into surveillance or a contest over who is right.
+4. New or clearly changed symptoms: how observation can make clinical reassessment more effective, and when immediate dangers require urgent help. Supporters are not asked to diagnose. Preserve privacy and the person’s choices.
+5. Bridge: understanding patterns and concerns provides material for both people to discuss practical safety arrangements in Lesson 13. No repeated symptom-map instructions.
+QUALITY TARGET: Distinct from Lesson 13's collaborative practical planning and Lesson 14's in-the-moment supported decisions.
+-->
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
