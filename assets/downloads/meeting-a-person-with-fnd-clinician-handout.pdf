@@ -43,7 +43,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 5051
+/Length 5202
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -189,6 +189,9 @@ BT 1 0 0 1 48 32 Tm (General clinical education; the treating team remains respo
 BT /F1 8.1 Tf 9.72 TL ET
 BT 1 0 0 1 481.623 32 Tm (FND Education Project) Tj T* ET
  
+.094118 .235294 .345098 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 48 57 Tm (For more free FND education, visit https://fndeducationproject.org) Tj T* ET
 endstream
 endobj
 xref
@@ -213,5 +216,5 @@ trailer
 /Size 9
 >>
 startxref
-6070
+6221
 %%EOF
