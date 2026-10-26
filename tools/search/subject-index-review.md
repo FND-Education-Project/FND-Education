@@ -3,7 +3,7 @@
 This is a human-readable view of `subject-index.json`. The JSON file is the source of truth used by search. This review file is intentionally not published on the website.
 
 **Status:** seeded-for-review  
-**Subjects:** 95
+**Subjects:** 98
 
 ## Care Team
 
@@ -267,7 +267,7 @@ Current models of brain networks, prediction, attention, agency, learning, and o
 **Aliases:** FND mechanisms; FND neuroscience; how FND happens  
 **Lay search phrases:** what happens in the brain in FND; why symptoms happen; how the nervous system produces symptoms  
 **Broader:** fnd  
-**Narrower:** brain-networks; prediction-attention-agency; biopsychosocial-model; causes-triggers-risk  
+**Narrower:** brain-networks; prediction-attention-agency; biopsychosocial-model; causes-triggers-risk; attention-automatic-control; interoception-proprioception; salience-arousal-feedback  
 **Related:** neuroplasticity  
 
 ### FND symptoms
@@ -421,6 +421,15 @@ Recognizing and responding to symptom setbacks, recurrence, or changing patterns
 
 ## Mechanism
 
+### Attention, automatic control and external focus
+
+How attention, automatic versus consciously controlled action, distraction, external focus, and task context can affect performance and symptom expression.
+
+**Aliases:** automatic control; external focus; attentional focus  
+**Lay search phrases:** why thinking about movement makes it harder; movement easier when distracted; doing it without thinking; focus on the goal not the movement; symptoms change with attention  
+**Broader:** fnd-mechanisms  
+**Related:** prediction-attention-agency; movement-retraining  
+
 ### Brain networks in FND
 
 Network-level neuroscience relevant to functional neurological symptoms.
@@ -430,6 +439,15 @@ Network-level neuroscience relevant to functional neurological symptoms.
 **Broader:** fnd-mechanisms  
 **Related:** prediction-attention-agency  
 
+### Interoception, proprioception and body signals
+
+Sensing and interpreting internal bodily conditions, body position and movement, and related body-signal information.
+
+**Aliases:** body-signal processing  
+**Lay search phrases:** signals from inside my body; can't tell where my limb is; body feels disconnected; how do I know where my body is; notice heartbeat breathing or hunger  
+**Broader:** fnd-mechanisms  
+**Related:** prediction-attention-agency; functional-sensory; autonomic-symptoms  
+
 ### Prediction, attention and agency
 
 Models involving prediction, attention, sense of control, and automatic versus voluntary movement.
@@ -437,7 +455,16 @@ Models involving prediction, attention, sense of control, and automatic versus v
 **Aliases:** predictive processing; attention and agency  
 **Lay search phrases:** why attention changes symptoms; why movement feels involuntary; loss of control  
 **Broader:** fnd-mechanisms  
-**Related:** movement-retraining; neuroplasticity  
+**Related:** movement-retraining; neuroplasticity; attention-automatic-control; interoception-proprioception; salience-arousal-feedback  
+
+### Salience, arousal and feedback loops
+
+How the nervous system prioritizes important information, changes readiness or arousal, and can form reinforcing feedback loops among symptoms, attention, and context.
+
+**Aliases:** salience and arousal; feedback loops  
+**Lay search phrases:** why some symptoms demand attention; everything feels too intense; symptoms feed into each other; nervous system on high alert  
+**Broader:** fnd-mechanisms  
+**Related:** attention-automatic-control; prediction-attention-agency; sensory-overload; pacing  
 
 ## Reference
 
