@@ -47,7 +47,7 @@ Choose a preview to open the PDF in a new tab or window. Normal and easy edition
 
 ### Lesson 1: Functional What?
 
-[Read the lesson](../../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md)
+[Read the lesson](../../course/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md)
 
 <div class="puzzle-grid">
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-1/functional-what-m1-1-normal.pdf' | relative_url }}">
@@ -68,7 +68,7 @@ Choose a preview to open the PDF in a new tab or window. Normal and easy edition
 
 ### Lesson 2: Biopsychosocial mess
 
-[Read the lesson](../../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md)
+[Read the lesson](../../course/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md)
 
 <div class="puzzle-grid">
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-2/biopsychosocial-mess-m1-2-normal.pdf' | relative_url }}">
@@ -89,7 +89,7 @@ Choose a preview to open the PDF in a new tab or window. Normal and easy edition
 
 ### Lesson 3: Remission and Recovery
 
-[Read the lesson](../../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md)
+[Read the lesson](../../course/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md)
 
 <div class="puzzle-grid">
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-3/remission-and-recovery-m1-3-normal.pdf' | relative_url }}">
@@ -110,7 +110,7 @@ Choose a preview to open the PDF in a new tab or window. Normal and easy edition
 
 ### Lesson 4: Available Capacity and Spoons
 
-[Read the lesson](../../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md)
+[Read the lesson](../../course/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md)
 
 <div class="puzzle-grid">
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Lesson-4/available-capacity-and-spoons-m1-4-normal.pdf' | relative_url }}">
@@ -131,7 +131,7 @@ Choose a preview to open the PDF in a new tab or window. Normal and easy edition
 
 ### Lesson 5: Positive Signs and the Neuro Exam
 
-[Read the lesson](../../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md)
+[Read the lesson](../../course/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md)
 
 <div class="puzzle-grid">
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-2-Lesson-5/positive-signs-and-the-neuro-exam-m2-5-normal.pdf' | relative_url }}">
@@ -152,7 +152,7 @@ Choose a preview to open the PDF in a new tab or window. Normal and easy edition
 
 ### Lesson 6: Tests, Uncertainty, and CoExisting Conditions
 
-[Read the lesson](../../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md)
+[Read the lesson](../../course/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md)
 
 <div class="puzzle-grid">
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-2-Lesson-6/tests-uncertainty-and-coexisting-conditions-m2-6-normal.pdf' | relative_url }}">
@@ -173,7 +173,7 @@ Choose a preview to open the PDF in a new tab or window. Normal and easy edition
 
 ### Lesson 7: Causes, Risk Factors and Triggers
 
-[Read the lesson](../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md)
+[Read the lesson](../../course/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md)
 
 <div class="puzzle-grid">
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-7/causes-risk-factors-and-triggers-m3-7-normal.pdf' | relative_url }}">
@@ -194,7 +194,7 @@ Choose a preview to open the PDF in a new tab or window. Normal and easy edition
 
 ### Lesson 8: Brain Networks, Prediction, Attention, and Agency
 
-[Read the lesson](../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md)
+[Read the lesson](../../course/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md)
 
 <div class="puzzle-grid">
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-8/brain-networks-prediction-attention-and-agency-m3-8-normal.pdf' | relative_url }}">
@@ -213,7 +213,7 @@ Choose a preview to open the PDF in a new tab or window. Normal and easy edition
 
 ### Module 1 review crossword
 
-[Read the module overview](../../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md)
+[Read the module overview](../../course/module-01-what-fnd-is/README.md)
 
 <div class="puzzle-grid">
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-1-Summary/what-is-functional-neurological-disorder-module-1-summary-m1-normal.pdf' | relative_url }}">
@@ -232,7 +232,7 @@ Choose a preview to open the PDF in a new tab or window. Normal and easy edition
 
 ### Module 2 review crossword
 
-[Read the module overview](../../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md)
+[Read the module overview](../../course/module-02-how-fnd-is-diagnosed/README.md)
 
 <div class="puzzle-grid">
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-2-Summary/how-is-fnd-diagnosed-module-2-summary-m2-normal.pdf' | relative_url }}">
@@ -253,7 +253,7 @@ Choose a preview to open the PDF in a new tab or window. Normal and easy edition
 
 ### Lesson 9: Physical, Psychological, and Social Factors
 
-[Read the lesson](../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md)
+[Read the lesson](../../course/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md)
 
 <div class="puzzle-grid">
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-3-Lesson-9/physical-psychological-and-social-factors-m3-9-normal.pdf' | relative_url }}">
@@ -272,7 +272,7 @@ Choose a preview to open the PDF in a new tab or window. Normal and easy edition
 
 ### Module 3 review crossword
 
-[Read the module overview](../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/README.md)
+[Read the module overview](../../course/module-03-causes-mechanisms-and-honest-uncertainty/README.md)
 
 <div class="puzzle-grid">
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/crosswords/Module-3-Summary/what-may-cause-or-affect-fnd-module-3-summary-m3-normal.pdf' | relative_url }}">
@@ -295,7 +295,7 @@ Choose a preview to open the PDF in a new tab or window. Normal and easy edition
 
 ### Lesson 10: Making Sense of Your Symptoms
 
-[Read the lesson](../../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md)
+[Read the lesson](../../course/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md)
 
 Revisit the lesson with a crossword. The easy edition includes a word bank.
 
@@ -313,7 +313,7 @@ Revisit the lesson with a crossword. The easy edition includes a word bank.
 
 ### Lesson 11: Building and Using Your Symptom Map
 
-[Read the lesson](../../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md)
+[Read the lesson](../../course/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md)
 
 Revisit the lesson with a crossword. The easy edition includes a word bank.
 
@@ -331,7 +331,7 @@ Revisit the lesson with a crossword. The easy edition includes a word bank.
 
 ### Lesson 12: Familiar Symptoms, New Symptoms, and Medical Change
 
-[Read the lesson](../../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md)
+[Read the lesson](../../course/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md)
 
 <div class="lesson-puzzle-preview">
 <img src="{{ '/assets/puzzles/thumbnails/familiar-symptoms-and-new-symptoms-m5-12-normal.svg' | relative_url }}" alt="Lesson 12 crossword grid" loading="lazy">
@@ -342,7 +342,7 @@ Revisit the lesson with a crossword. The easy edition includes a word bank.
 
 ### Lesson 13: Emergency Information and Individual Safety Plans
 
-[Read the lesson](../../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md)
+[Read the lesson](../../course/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md)
 
 <div class="lesson-puzzle-preview">
 <img src="{{ '/assets/puzzles/thumbnails/the-individual-safety-plan-m5-13-normal.svg' | relative_url }}" alt="Lesson 13 crossword grid" loading="lazy">
@@ -353,7 +353,7 @@ Revisit the lesson with a crossword. The easy edition includes a word bank.
 
 ### Lesson 14: Using Your Safety Plan and Deciding When to Get Urgent Help
 
-[Read the lesson](../../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md)
+[Read the lesson](../../course/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md)
 
 <div class="lesson-puzzle-preview">
 <img src="{{ '/assets/puzzles/thumbnails/using-your-safety-plan-m5-14-normal.svg' | relative_url }}" alt="Lesson 14 crossword grid" loading="lazy">
@@ -408,19 +408,19 @@ Choose a preview to open the printable PDF. Select landscape orientation and fit
 </a>
 </div>
 
-These illustrations accompany [Lesson 1’s supporter examples](../../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md#for-family-friends-and-other-supporters), [Lesson 2’s explanation of the biopsychosocial model](../../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md#what-is-the-biopsychosocial-model), and [Lesson 3’s explanation of recovery](../../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md#what-does-recovery-mean).
+These illustrations accompany [Lesson 1’s supporter examples](../../course/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md#for-family-friends-and-other-supporters), [Lesson 2’s explanation of the biopsychosocial model](../../course/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md#what-is-the-biopsychosocial-model), and [Lesson 3’s explanation of recovery](../../course/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md#what-does-recovery-mean).
 
-The positive-signs colouring page accompanies [Module 2, Lesson 1](../../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md).
+The positive-signs colouring page accompanies [Module 2, Lesson 1](../../course/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md).
 
-The whole-person colouring page accompanies [Lesson 6: Tests, Diagnostic Uncertainty, and Coexisting Conditions](../../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
+The whole-person colouring page accompanies [Lesson 6: Tests, Diagnostic Uncertainty, and Coexisting Conditions](../../course/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
 
-The research-themed colouring page accompanies [Lesson 7: Causes, Risk Factors, Triggers, and Maintaining Factors](../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md).
+The research-themed colouring page accompanies [Lesson 7: Causes, Risk Factors, Triggers, and Maintaining Factors](../../course/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md).
 
-The brain-network colouring page accompanies [Lesson 8: Brain Networks, Prediction, Attention, and Agency](../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md).
+The brain-network colouring page accompanies [Lesson 8: Brain Networks, Prediction, Attention, and Agency](../../course/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md).
 
-[Read Lesson 4](../../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md)
+[Read Lesson 4](../../course/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md)
 
-[Read Lesson 10](../../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md)
+[Read Lesson 10](../../course/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md)
 
 [Back to puzzle navigation](#puzzle-navigation) · [Browse the course](../../course/README.md)
 

@@ -22,7 +22,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
       - name: Checkout
@@ -47,6 +47,9 @@ jobs:
       - name: Prepare website source
         run: python tools/site/prepare_site.py
 
+      - name: Check curriculum identity and navigation
+        run: python -m unittest discover -s tools/site/tests -v
+
       - name: Validate generated source
         run: python tools/site/validate.py
 
@@ -68,6 +71,31 @@ jobs:
       - name: Validate built artifact
         run: python tools/site/validate.py --built-site _site
 
+      - name: Check desktop and mobile course rendering
+        run: |
+          npm install --no-save --package-lock=false playwright@1.58.2
+          npx playwright install --with-deps chromium
+          node tools/site/tests/verify_rendered_course.cjs
+
+      - name: Upload browser review evidence
+        if: always() && github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: course-browser-review
+          path: /tmp/course-browser-review/
+          retention-days: 3
+
+      - name: Upload pull request HTML for visual review
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: course-html-review
+          path: |
+            _site/**/*.html
+            _site/assets/css/
+            _site/assets/js/
+          retention-days: 3
+
       - name: Configure Pages
         if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
         uses: actions/configure-pages@v6
@@ -83,7 +111,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     needs: build
 
     steps:

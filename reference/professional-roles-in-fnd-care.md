@@ -24,17 +24,17 @@ Use this as a map of possible contributions. Professional titles, referral route
 | Profession or specialty | Especially useful for | Start here |
 |---|---|---|
 | **[Neurology](#neurology)** | Positive diagnosis, symptom phenotype, differential diagnosis, explaining findings, reassessment of important change | [Understanding an FND Diagnosis](diagnostic-concepts/README.md) · [Diagnostic Signs](diagnostic-signs/README.md) |
-| **[Primary care / family medicine](#primary-care--family-medicine)** | Continuity, general health, medication review, coexisting conditions, referrals and coordination | [FND Alongside Other Conditions](co-occurring-conditions/README.md) · [Treatment Team](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md) |
+| **[Primary care / family medicine](#primary-care--family-medicine)** | Continuity, general health, medication review, coexisting conditions, referrals and coordination | [FND Alongside Other Conditions](co-occurring-conditions/README.md) · [Treatment Team](../course/module-11-building-an-individual-treatment-team/README.md) |
 | **[Physiotherapy](#physiotherapy)** | Functional movement, walking, balance, motor retraining, activity and mobility | [Recovery Techniques](recovery-techniques/README.md) · [Functional Gait](recovery-techniques/05-functional-gait-disorder.md) |
-| **[Occupational therapy](#occupational-therapy)** | Daily activities, routines, participation, equipment, environmental adaptation and independence | [Daily Living and Equipment](../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md) · [Recovery Techniques](recovery-techniques/README.md) |
+| **[Occupational therapy](#occupational-therapy)** | Daily activities, routines, participation, equipment, environmental adaptation and independence | [Daily Living and Equipment](../course/module-13-daily-living-accessibility-and-equipment/README.md) · [Recovery Techniques](recovery-techniques/README.md) |
 | **[Speech-language therapy / pathology](#speech-language-therapy--pathology)** | Speech, voice, swallowing, globus, cough and upper-airway symptoms | [Speech and Voice](recovery-techniques/09-functional-speech-and-voice-symptoms.md) · [Swallowing and Globus](recovery-techniques/10-functional-swallowing-and-globus.md) |
-| **[Psychology / psychotherapy](#psychology--psychotherapy)** | Coping, adjustment, symptom-management approaches, distress, trauma when relevant, and coexisting mental-health needs | [Psychological Treatment Without Blame](../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md) |
-| **[Psychiatry / neuropsychiatry](#psychiatry--neuropsychiatry)** | Complex psychiatric comorbidity, medication questions, diagnostic overlap and integrated neurological-psychiatric care | [Treatment Team](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md) · [Psychological Treatment](../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md) |
+| **[Psychology / psychotherapy](#psychology--psychotherapy)** | Coping, adjustment, symptom-management approaches, distress, trauma when relevant, and coexisting mental-health needs | [Psychological Treatment Without Blame](../course/module-12-psychological-treatment-without-blame/README.md) |
+| **[Psychiatry / neuropsychiatry](#psychiatry--neuropsychiatry)** | Complex psychiatric comorbidity, medication questions, diagnostic overlap and integrated neurological-psychiatric care | [Treatment Team](../course/module-11-building-an-individual-treatment-team/README.md) · [Psychological Treatment](../course/module-12-psychological-treatment-without-blame/README.md) |
 | **[Neuropsychology](#neuropsychology)** | Functional cognitive disorder, cognitive assessment, memory/attention concerns and compensatory strategies | [Functional Cognitive Disorder](functional-cognitive-disorder.md) · [FCD Recovery](recovery-techniques/12-functional-cognitive-disorder.md) |
-| **[Rehabilitation medicine / PM&R](#rehabilitation-medicine--pmr)** | Disability, rehabilitation planning, mobility, equipment and coordination across rehabilitation disciplines | [Treatment and Rehabilitation](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md) · [Daily Living and Equipment](../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md) |
-| **[Nursing](#nursing)** | Ongoing observation, inpatient or community care, education, safety plans and communication across settings | [Treatment Team](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md) · [Functional Seizures](recovery-techniques/06-functional-seizures.md) |
+| **[Rehabilitation medicine / PM&R](#rehabilitation-medicine--pmr)** | Disability, rehabilitation planning, mobility, equipment and coordination across rehabilitation disciplines | [Treatment and Rehabilitation](../course/module-11-building-an-individual-treatment-team/README.md) · [Daily Living and Equipment](../course/module-13-daily-living-accessibility-and-equipment/README.md) |
+| **[Nursing](#nursing)** | Ongoing observation, inpatient or community care, education, safety plans and communication across settings | [Treatment Team](../course/module-11-building-an-individual-treatment-team/README.md) · [Functional Seizures](recovery-techniques/06-functional-seizures.md) |
 | **[Emergency and acute care](#emergency-and-acute-care)** | New or changed neurological symptoms, injury, seizure-like events, urgent differentials and safe disposition | [Tests and Investigations](diagnostic-concepts/03-tests-and-investigations.md) · [Functional Seizures](diagnostic-signs/06-functional-seizures.md) |
-| **[Social work / case management](#social-work--case-management)** | Disability systems, housing, transport, caregiving, benefits, work and access to services | [Work, Disability and Participation](../course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/README.md) · [Healthcare Communication](../course/part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/README.md) |
+| **[Social work / case management](#social-work--case-management)** | Disability systems, housing, transport, caregiving, benefits, work and access to services | [Work, Disability and Participation](../course/module-16-work-disability-and-community-participation/README.md) · [Healthcare Communication](../course/module-15-healthcare-communication-and-self-advocacy/README.md) |
 | **[Other medical and allied specialties](#other-medical-and-allied-specialties)** | Treating coexisting or alternative conditions in their own field and contributing symptom-specific expertise | [Co-occurring Conditions](co-occurring-conditions/README.md) · [Reference Library](README.md) |
 
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
@@ -68,7 +68,7 @@ Professional roles should be organized around the person's actual problems and g
 
 **Search tags:** GP · family doctor · general practice · PCP · community medicine · longitudinal care · care coordinator
 
-**Useful pages:** [Co-occurring Conditions](co-occurring-conditions/README.md) · [Treatment Team](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md) · [Healthcare Communication](../course/part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/README.md)
+**Useful pages:** [Co-occurring Conditions](co-occurring-conditions/README.md) · [Treatment Team](../course/module-11-building-an-individual-treatment-team/README.md) · [Healthcare Communication](../course/module-15-healthcare-communication-and-self-advocacy/README.md)
 
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
@@ -94,7 +94,7 @@ Professional roles should be organized around the person's actual problems and g
 
 **Search tags:** OT · ADL · IADL · assistive technology · ergonomics · sensory modulation · home assessment · vocational rehabilitation
 
-**Useful pages:** [Daily Living, Accessibility and Equipment](../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md) · [Fatigue](co-occurring-conditions/06-fatigue.md) · [Functional Cognitive Disorder](functional-cognitive-disorder.md) · [Recovery Techniques](recovery-techniques/README.md)
+**Useful pages:** [Daily Living, Accessibility and Equipment](../course/module-13-daily-living-accessibility-and-equipment/README.md) · [Fatigue](co-occurring-conditions/06-fatigue.md) · [Functional Cognitive Disorder](functional-cognitive-disorder.md) · [Recovery Techniques](recovery-techniques/README.md)
 
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
@@ -120,7 +120,7 @@ Professional roles should be organized around the person's actual problems and g
 
 **Search tags:** clinical psychologist · CBT · ACT · health psychology · behavioural medicine · counselling
 
-**Useful pages:** [Psychological Treatment Without Blame](../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md) · [Functional Seizure Recovery](recovery-techniques/06-functional-seizures.md)
+**Useful pages:** [Psychological Treatment Without Blame](../course/module-12-psychological-treatment-without-blame/README.md) · [Functional Seizure Recovery](recovery-techniques/06-functional-seizures.md)
 
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
@@ -133,7 +133,7 @@ Professional roles should be organized around the person's actual problems and g
 
 **Search tags:** psychiatrist · neuropsychiatrist · consultation-liaison psychiatry · liaison psychiatry · psychosomatic medicine · psychopharmacology
 
-**Useful pages:** [Treatment Team](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md) · [Psychological Treatment Without Blame](../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md) · [Biopsychosocial Model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md)
+**Useful pages:** [Treatment Team](../course/module-11-building-an-individual-treatment-team/README.md) · [Psychological Treatment Without Blame](../course/module-12-psychological-treatment-without-blame/README.md) · [Biopsychosocial Model](../course/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md)
 
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
@@ -159,7 +159,7 @@ Professional roles should be organized around the person's actual problems and g
 
 **Search tags:** physiatry · physiatrist · rehab physician · seating clinic
 
-**Useful pages:** [Treatment and Rehabilitation](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md) · [Daily Living, Accessibility and Equipment](../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md) · [Recovery Techniques](recovery-techniques/README.md)
+**Useful pages:** [Treatment and Rehabilitation](../course/module-11-building-an-individual-treatment-team/README.md) · [Daily Living, Accessibility and Equipment](../course/module-13-daily-living-accessibility-and-equipment/README.md) · [Recovery Techniques](recovery-techniques/README.md)
 
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
@@ -172,7 +172,7 @@ Professional roles should be organized around the person's actual problems and g
 
 **Search tags:** RN · registered nurse · NP · nurse practitioner · seizure first aid · care plan
 
-**Useful pages:** [Functional Seizures](recovery-techniques/06-functional-seizures.md) · [Treatment Team](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md) · [Personal FND Handbook](../course/part-6-long-term-management/module-22-building-your-personal-fnd-handbook/README.md)
+**Useful pages:** [Functional Seizures](recovery-techniques/06-functional-seizures.md) · [Treatment Team](../course/module-11-building-an-individual-treatment-team/README.md) · [Personal FND Handbook](../course/module-18-building-your-personal-fnd-handbook/README.md)
 
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
@@ -198,7 +198,7 @@ Professional roles should be organized around the person's actual problems and g
 
 **Search tags:** MSW · income support · workplace accommodation · discharge planning · welfare rights
 
-**Useful pages:** [Work, Disability and Community Participation](../course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/README.md) · [Healthcare Communication and Self-Advocacy](../course/part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/README.md)
+**Useful pages:** [Work, Disability and Community Participation](../course/module-16-work-disability-and-community-participation/README.md) · [Healthcare Communication and Self-Advocacy](../course/module-15-healthcare-communication-and-self-advocacy/README.md)
 
 **On this page:** [Specialty table](#specialty-quick-reference) · [The person](#the-person-with-fnd-remains-central) · [Other professions](#if-your-profession-is-not-listed) · [Working together](#working-together-without-losing-ownership) · [Sources](#research-and-sources)
 
@@ -235,7 +235,7 @@ Communication is part of care: offer an understandable explanation and agree on 
 As an application of the guidance, a handover can name the clinical question, what has already been assessed, the person's own goal, current help or equipment, and who will follow up. Record what the person can sustain at home, including recovery time and assistance, as well as what happened in an appointment. This is a suggested workflow, not a validated FND assessment tool. (*citations* [1](#citation-1), [2](#citation-2), [7](#citation-7))
 
 <!-- NAV-CONTEXT:START -->
-**Related:** [Who May Be on the Treatment Team](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md) · [History of FND](history-of-fnd.md)
+**Related:** [Who May Be on the Treatment Team](../course/module-11-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md) · [History of FND](history-of-fnd.md)
 
 **Navigate:** [Home](../README.md) · [Course](../course/README.md) · [Reference Library](README.md) · [Site Map](../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

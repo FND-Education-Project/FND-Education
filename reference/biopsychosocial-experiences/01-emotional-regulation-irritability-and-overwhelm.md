@@ -226,7 +226,7 @@ Where possible, separate a capacity problem from a character judgement. “You w
 
 Both people should be able to say, “Not now,” “I need space,” “I need help,” or “I can do this much but not more.”
 
-For fuller relationship guidance, see **[Relationships, Intimacy, and Boundaries](../../course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/02-relationships-intimacy-boundaries-and-supporter-wellbeing.md)**.
+For fuller relationship guidance, see **[Relationships, Intimacy, and Boundaries](../../course/module-14-relationships-identity-and-grief/02-relationships-intimacy-boundaries-and-supporter-wellbeing.md)**.
 
 ---
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -327,7 +327,7 @@ British Psychological Society, recommendations, page 6: a briefing about psychol
 
 **Continue:** [Mental Health, Stigma, and Being Believed →](02-mental-health-stigma-and-being-believed.md)
 
-**Related:** [Collection overview](README.md) · [Available Capacity](../../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md) · [Dissociation and Altered Awareness](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/02-dissociation-and-altered-awareness.md) · [Relationships, Intimacy, and Boundaries](../../course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/02-relationships-intimacy-boundaries-and-supporter-wellbeing.md) · [Psychological Treatment Without Blame](../../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md)
+**Related:** [Collection overview](README.md) · [Available Capacity](../../course/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md) · [Reference Library](../README.md) · [Relationships, Intimacy, and Boundaries](../../course/module-14-relationships-identity-and-grief/02-relationships-intimacy-boundaries-and-supporter-wellbeing.md) · [Psychological Treatment Without Blame](../../course/module-12-psychological-treatment-without-blame/README.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

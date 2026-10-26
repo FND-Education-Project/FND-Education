@@ -379,6 +379,9 @@ Use this source for its broad clinical overview, diagnostic-pitfall table, posit
 
 **Module 5 current use (October 25, 2026):** [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md).
 
+
+**Concepts-first course use:** [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md); [Lesson 23](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md); [Lesson 24](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md); [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md).
+
 ## FND-CIT-0002
 
 Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264)
@@ -408,6 +411,9 @@ Use this source for a psychosocial and emotional-processing emphasis within an i
 Drane DL, Fani N, Hallett M, Khalsa SS, Perez DL, Roberts NA. A framework for understanding the pathophysiology of functional neurological disorder. *CNS Spectrums*. 2021;26(6):555–561. [https://doi.org/10.1017/S1092852920001789](https://doi.org/10.1017/S1092852920001789)
 
 Use this source for a proposed circuit-and-construct framework involving emotion processing, agency, attention, interoception, and predictive processing. Label it as a developing pathophysiology framework rather than a settled explanation for every person.
+
+
+**Concepts-first course use:** [Lesson 18](../course/concepts-first/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 21](../course/concepts-first/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md).
 
 ## FND-CIT-0007
 
@@ -439,6 +445,9 @@ Use this source for current American Academy of Neurology evidence-based guidanc
 
 **Additional current use:** [Module 5 overview](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md).
 
+
+**Concepts-first course use:** [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md); [Lesson 23](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md); [Lesson 24](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 27](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md).
+
 ## FND-CIT-0011
 
 Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281)
@@ -452,6 +461,9 @@ Use this consensus source for flexible, person-chosen functional goals and its d
 **Additional current use — functional drop attacks:** [Agreeing What to Do After a Fall](../reference/recovery-techniques/functional_drop_attacks/01-injury-response-plan.md); [Making Everyday Places Safer](../reference/recovery-techniques/functional_drop_attacks/02-hazards-and-daily-activities.md); [Choosing Support for Getting Around](../reference/recovery-techniques/functional_drop_attacks/03-mobility-and-access.md); [Looking for a Warning Only If There Is One](../reference/recovery-techniques/functional_drop_attacks/04-warning-and-safe-response.md); [Getting Up Safely After an Uninjured Event](../reference/recovery-techniques/functional_drop_attacks/05-recovering-from-the-floor.md); [Returning to Activities With the Right Support](../reference/recovery-techniques/functional_drop_attacks/06-supported-return-to-activity.md); [Keeping Other Conditions in the Care Plan](../reference/recovery-techniques/functional_drop_attacks/07-overlapping-conditions-and-review.md); [Functional drop attacks overview](../reference/recovery-techniques/16-functional-drop-attacks.md).
 
 **Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
+
+
+**Concepts-first course use:** [Lesson 15](../course/concepts-first/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 16](../course/concepts-first/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/concepts-first/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md); [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 21](../course/concepts-first/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md); [Lesson 24](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md); [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md); [Lesson 29](../course/concepts-first/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md); [Lesson 30](../course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md).
 
 ## FND-CIT-0012
 
@@ -560,6 +572,9 @@ Use this source for professional consensus on positive assessment and speech-and
 
 **Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
 
+
+**Concepts-first course use:** [Lesson 16](../course/concepts-first/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 18](../course/concepts-first/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md).
+
 ## FND-CIT-0026
 
 McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. [https://doi.org/10.1017/S1092852921000845](https://doi.org/10.1017/S1092852921000845)
@@ -573,6 +588,9 @@ Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Di
 Use this source for the five consensus diagnostic criteria for PPPD and for the role of examination and testing in identifying alternative or coexisting conditions. Do not apply these criteria to dizziness in general or treat normal vestibular testing as sufficient for diagnosis.
 
 **Additional diagnostic uses:** [PPPD expansion source-use map](#pppd-diagnostic-expansion-source-use-map).
+
+
+**Concepts-first course use:** [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 23](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
 
 ## FND-CIT-0028
 
@@ -588,6 +606,9 @@ Use this source for education, redirected attention, task-oriented automatic mov
 
 **Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
 
+
+**Concepts-first course use:** [Lesson 16](../course/concepts-first/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/concepts-first/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md).
+
 ## FND-CIT-0029
 
 Nielsen G, Stone J, Lee TC, et al.; Physio4FMD study group. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial. *The Lancet Neurology*. 2024;23(7):675–686. [https://doi.org/10.1016/S1474-4422(24)00135-2](https://doi.org/10.1016/S1474-4422(24)00135-2)
@@ -595,6 +616,9 @@ Nielsen G, Stone J, Lee TC, et al.; Physio4FMD study group. Specialist physiothe
 Use this source for program-level evidence about specialist FND physiotherapy. The primary 12-month physical-function outcome was not clearly superior, although several secondary and patient-rated outcomes favored specialist care; do not cite it as proof of one exercise or universal response.
 
 **Additional current use — functional paralysis:** [Finding a Movement You Can Start With](../reference/recovery-techniques/functional_paralysis/01-available-movement.md); [Getting the Team Working From One Plan](../reference/recovery-techniques/functional_paralysis/05-coordinated-care.md); [Functional paralysis overview](../reference/recovery-techniques/15-functional-paralysis.md).
+
+
+**Concepts-first course use:** [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 27](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md); [Lesson 30](../course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md).
 
 ## FND-CIT-0030
 
@@ -619,6 +643,9 @@ Use this source for pilot evidence about seizure-focused CBT-informed psychother
 Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0)
 
 Use this source for mixed evidence on dissociative-seizure-specific CBT. The primary seizure-frequency outcome was not significantly different at 12 months, while several secondary outcomes improved; represent both findings.
+
+
+**Concepts-first course use:** [Lesson 27](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md).
 
 ## FND-CIT-0034
 
@@ -896,6 +923,9 @@ Use this review for a preliminary FCD definition, internal inconsistency as a po
 
 **Module 5 current use (October 25, 2026):** [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md); [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
 
+
+**Concepts-first course use:** [Lesson 15](../course/concepts-first/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md).
+
 ## FND-CIT-0072
 
 Campbell MC, Smakowski A, Rojas-Aguiluz M, et al. Dissociation and its biological and clinical associations in functional neurological disorder: systematic review and meta-analysis. *BJPsych Open*. 2023;9(1):e2. [https://doi.org/10.1192/bjo.2022.597](https://doi.org/10.1192/bjo.2022.597)
@@ -1151,6 +1181,9 @@ Expert review; diagnostic formulation and individualized management. The review 
 **Additional diagnostic uses:** [Functional facial expansion source-use map](#functional-facial-diagnostic-expansion-source-use-map).
 
 **Additional diagnostic uses:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
+
+
+**Concepts-first course use:** [Lesson 17](../course/concepts-first/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md).
 
 ## FND-CIT-0111
 
@@ -2002,6 +2035,9 @@ ME/CFS guideline: energy management is not a cure; fixed incremental exercise pr
 
 **Additional current use:** [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
 
+
+**Concepts-first course use:** [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md); [Lesson 29](../course/concepts-first/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md); [Lesson 30](../course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md).
+
 ## FND-CIT-0207
 
 Edinger JD, Arnedt JT, Bertisch SM, et al. Behavioral and psychological treatments for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline. *J Clin Sleep Med*. 2021;17:255–262. [doi:10.5664/jcsm.8986](https://doi.org/10.5664/jcsm.8986).
@@ -2133,6 +2169,9 @@ Seven original-entry expansions, September 24, 2026. The qualitative model and o
 Huys ACML, Haggard P, Bhatia KP, Edwards MJ. Misdirected attentional focus in functional tremor. *Brain*. 2021;144(11):3436–3450. [DOI](https://doi.org/10.1093/brain/awab230). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8677517/).
 
 Experimental movement/attention study; selected functional action-tremor participants, not a bedside diagnostic-accuracy validation. Supports attention-related models, not a universal cause or a guaranteed treatment.
+
+
+**Concepts-first course use:** [Lesson 15](../course/concepts-first/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 16](../course/concepts-first/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/concepts-first/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md).
 
 ## FND-CIT-0221
 
@@ -2323,6 +2362,9 @@ Current use: [History of FND](../reference/history-of-fnd.md).
 ### Current uses: professional-roles-in-fnd-care.md
 
 [professional-roles-in-fnd-care.md](../reference/professional-roles-in-fnd-care.md): [FND-CIT-0002](#fnd-cit-0002), [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0012](#fnd-cit-0012), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0029](#fnd-cit-0029), [FND-CIT-0070](#fnd-cit-0070), [FND-CIT-0071](#fnd-cit-0071), [FND-CIT-0076](#fnd-cit-0076), [FND-CIT-0077](#fnd-cit-0077), [FND-CIT-0083](#fnd-cit-0083).
+
+
+**Concepts-first course use:** [Lesson 18](../course/concepts-first/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md).
 
 ## Functional sensory diagnostic expansion source-use map
 
@@ -2888,6 +2930,9 @@ Public Reddit discussion, “Teenage son diagnosed, any helpful advice/support?�
 
 **Current use:** [Lesson 12, Supporter section](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md).
 
+**Additional concepts-first use:** [Lesson 18](../course/concepts-first/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md).
+
+
 ## FND-CIT-0300
 
 Public Reddit comment in “Me help wife and put up FND info whiteboard”, r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1u9enx1/comment/osfpj8r/). Quotation Q093 by a spouse, as verified in *FND-Caregiver-Quotation-Bank-Lessons-13-75.docx*, October 25, 2026.
@@ -2895,3 +2940,164 @@ Public Reddit comment in “Me help wife and put up FND info whiteboard”, r/FN
 **Type and scope:** Individual supporter report that an existing detailed care plan was not consistently consulted. The original forum post was deleted and its approach disputed; this surviving quotation is not endorsement of the original whiteboard or evidence for a particular document design.
 
 **Current use:** [Lesson 13, Supporter section](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md).
+
+## FND-CIT-0301
+
+Khalsa SS, Adolphs R, Cameron OG, et al. **Interoception and mental health: a roadmap.** Biol Psychiatry Cogn Neurosci Neuroimaging. 2018;3:501–513. doi:10.1016/j.bpsc.2017.12.004. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC6054486/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/29884281/).
+
+**Scope:** Source type and access limits recorded in the [release audit](../reference/_internal/course/prepublication-audit-191-2026-10-26.md).
+
+
+**Concepts-first course use:** [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
+
+## FND-CIT-0302
+
+Proske U, Gandevia SC. **The proprioceptive senses: their roles in signaling body shape, body position and movement, and muscle force.** Physiol Rev. 2012;92:1651–1697. doi:10.1152/physrev.00048.2011. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23073629/).
+
+**Scope:** Source type and access limits recorded in the [release audit](../reference/_internal/course/prepublication-audit-191-2026-10-26.md).
+
+
+**Concepts-first course use:** [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
+
+## FND-CIT-0303
+
+Stoffel N, Mouthon M, Yang H, et al. **Attenuated heartbeat-evoked potentials in functional neurological disorder.** Brain Commun. 2026;8:fcaf503. doi:10.1093/braincomms/fcaf503. [Original](https://academic.oup.com/braincomms/article/8/1/fcaf503/8413452) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/41550305/) · [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12810052/).
+
+**Scope:** Source type and access limits recorded in the [release audit](../reference/_internal/course/prepublication-audit-191-2026-10-26.md).
+
+
+**Concepts-first course use:** [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
+
+## FND-CIT-0304
+
+Seeley WW, Menon V, Schatzberg AF, et al. **Dissociable intrinsic connectivity networks for salience processing and executive control.** J Neurosci. 2007;27:2349–2356. doi:10.1523/JNEUROSCI.5587-06.2007. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC2680293/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/17329432/).
+
+**Scope:** Source type and access limits recorded in the [release audit](../reference/_internal/course/prepublication-audit-191-2026-10-26.md).
+
+
+**Concepts-first course use:** [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md).
+
+## FND-CIT-0305
+
+Voon V, Gallea C, Hattori N, et al. **The involuntary nature of conversion disorder.** Neurology. 2010;74:223–228. doi:10.1212/WNL.0b013e3181ca00e9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20083798/).
+
+**Scope:** Source type and access limits recorded in the [release audit](../reference/_internal/course/prepublication-audit-191-2026-10-26.md).
+
+
+**Concepts-first course use:** [Lesson 21](../course/concepts-first/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md).
+
+## FND-CIT-0306
+
+Dayan E, Cohen LG. **Neuroplasticity subserving motor skill learning.** Neuron. 2011;72:443–454. doi:10.1016/j.neuron.2011.10.008. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC3217208/).
+
+**Scope:** Source type and access limits recorded in the [release audit](../reference/_internal/course/prepublication-audit-191-2026-10-26.md).
+
+
+**Concepts-first course use:** [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md).
+
+## FND-CIT-0307
+
+Corbetta M, Shulman GL. Control of goal-directed and stimulus-driven attention in the brain. *Nature Reviews Neuroscience*. 2002;3:201–215. [DOI](https://doi.org/10.1038/nrn755). [PubMed](https://pubmed.ncbi.nlm.nih.gov/11994752/).
+
+**Scope:** General attention research, not an FND treatment trial.
+
+
+**Concepts-first course use:** [Lesson 15](../course/concepts-first/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md).
+
+## FND-CIT-0308
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1hmedeg/comment/m3tqr3z/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 15](../course/concepts-first/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md).
+
+## FND-CIT-0309
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1kchl1l/comment/mq4vaud/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 16](../course/concepts-first/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md).
+
+## FND-CIT-0310
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1nzuyuz/comment/ni918wf/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 17](../course/concepts-first/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md).
+
+
+## FND-CIT-0312
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1o5s0b8/wife_just_diagnosed_with_disassociative_fnd_feels/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 21](../course/concepts-first/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md).
+
+## FND-CIT-0313
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1mnw4fd/dae_have_functional_cognitive_disorder/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md).
+
+## FND-CIT-0314
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/16iyjst/dad_helping_recently_diagnosed_daughter/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 23](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
+
+## FND-CIT-0315
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1ruqxh5/comment/oatunoa/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 24](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md).
+
+## FND-CIT-0316
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1v2tbfb/comment/oz7hya4/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md).
+
+## FND-CIT-0317
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/106utzh/advice_needed_considering_using_mobility_aid_for/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md).
+
+## FND-CIT-0318
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1kvcy4a/help_working_out/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md).
+
+## FND-CIT-0319
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1skxv3t/am_i_the_only_one_who_hates_the_phrase_retraining/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 27](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md).
+
+## FND-CIT-0320
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1takhkp/convincing_someone_they_have_fnd/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 27](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md); [Lesson 30](../course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md).
+
+## FND-CIT-0321
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1m2st47/comment/n3s00gm/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md).
+
+## FND-CIT-0322
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1q1vjir/comment/nx8meik/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+**Concepts-first course use:** [Lesson 29](../course/concepts-first/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md).

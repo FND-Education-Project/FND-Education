@@ -172,7 +172,7 @@ try:
 
 A planned exit can make participation possible.
 
-If activity causes delayed or prolonged worsening, tell your team before increasing it. Use the site’s [pacing guidance](../../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md) to discuss an appropriate plan.
+If activity causes delayed or prolonged worsening, tell your team before increasing it. Use the site’s [Reference Library](../README.md) to discuss an appropriate plan.
 
 It is not failure to use it.
 
@@ -433,7 +433,7 @@ Nicholson and colleagues, “Hypersensitivity” section: sensory hypersensitivi
 
 **Continue:** [Recovery Pressure, Self-Blame, and Feeling Like You Are Failing →](06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md)
 
-**Related:** [Available Capacity](../../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md) · [Medical Safety and New Symptoms](../../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md) · [Daily Living and Accessibility](../../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md)
+**Related:** [Available Capacity](../../course/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md) · [Medical Safety and New Symptoms](../../course/module-05-medical-safety-and-new-symptoms/README.md) · [Daily Living and Accessibility](../../course/module-13-daily-living-accessibility-and-equipment/README.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

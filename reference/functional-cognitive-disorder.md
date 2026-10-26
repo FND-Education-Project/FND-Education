@@ -127,7 +127,7 @@ A recovery strategy can address something that maintains difficulty without prov
 
 FND research includes studies of brain activity, connections and structure. “Structural” and “functional” are not simple opposites. Group findings do not supply a diagnostic scan for one person or locate an “FND centre.”
 
-One motor-FND study illustrates the limits: the whole patient group had no whole-brain-corrected cortical-thickness difference from controls, while dissociation measures had associations with particular regions. It did not study FCD or establish why a person has cognitive symptoms. The [Module 3 research explanation](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md#what-a-structural-imaging-study-can-show) gives the sample, findings and limits. It cannot be used to explain face-recognition or imagery changes in FCD. (*citation* [6](#citation-6))
+One motor-FND study illustrates the limits: the whole patient group had no whole-brain-corrected cortical-thickness difference from controls, while dissociation measures had associations with particular regions. It did not study FCD or establish why a person has cognitive symptoms. The [Module 3 research explanation](../course/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md#what-a-structural-imaging-study-can-show) gives the sample, findings and limits. It cannot be used to explain face-recognition or imagery changes in FCD. (*citation* [6](#citation-6))
 
 ### What this means for recovery
 
@@ -220,7 +220,7 @@ The conceptual diagram is an original educational synthesis of sources 1, 2, 3 a
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Functional Cognitive Disorder: Detailed Recovery Pages](recovery-techniques/functional_cognitive_disorder/README.md)
 
-**Related:** [Collection index](README.md) · [Diagnostic signs](diagnostic-signs/12-functional-cognitive-disorder.md) · [Course explanation](../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
+**Related:** [Collection index](README.md) · [Diagnostic signs](diagnostic-signs/12-functional-cognitive-disorder.md) · [Reference Library](README.md)
 
 **Navigate:** [Home](../README.md) · [Course](../course/README.md) · [Reference Library](README.md) · [Site Map](../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

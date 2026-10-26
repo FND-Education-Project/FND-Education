@@ -48,6 +48,14 @@ NAV_BLOCKS = ("BREADCRUMB",)
 PART_RE = re.compile(r"^part-(\d+)-", re.IGNORECASE)
 MODULE_RE = re.compile(r"^module-(\d+)-", re.IGNORECASE)
 LESSON_RE = re.compile(r"^(\d+)-.+\.md$", re.IGNORECASE)
+# Display positions are independent of durable original routes and account keys.
+# New content uses reserved numeric slots 24–28 plus a separate URL namespace;
+# no original m6–m10 identity is ever assigned to a new lesson.
+# Source order and visible module numbering are identical: 01–19.
+# Previous edition paths are removed; public lessons use /course/mN/page/.
+EXPECTED_MODULES = 19
+EXPECTED_LESSONS = 57
+
 NUMBERED_MD_RE = re.compile(r"^(\d+)-(.+)\.md$", re.IGNORECASE)
 
 
@@ -60,26 +68,37 @@ class CoursePage:
     lesson_number: int | None = None
 
     @property
+    def is_core(self) -> bool:
+        return True
+
+    @property
+    def display_module_number(self) -> int | None:
+        return self.module_number
+
+    @property
+    def display_part_number(self) -> int | None:
+        return self.part_number
+
+    @property
+    def progress_eligible(self) -> bool:
+        return self.kind == "lesson"
+
+    @property
+    def module_url(self) -> str:
+        return f"/course/m{self.module_number}/"
+
+    @property
     def public_url(self) -> str:
         if self.kind == "course":
             return "/course/"
         if self.kind == "module":
-            return f"/course/m{self.module_number}/"
-        return f"/course/m{self.module_number}/{self.lesson_number}/"
+            return self.module_url
+        return f"{self.module_url}{self.lesson_number}/"
 
     @property
     def destination(self) -> Path:
-        if self.kind == "course":
-            return WEB / "course" / "index.md"
-        if self.kind == "module":
-            return WEB / "course" / f"m{self.module_number}" / "index.md"
-        return (
-            WEB
-            / "course"
-            / f"m{self.module_number}"
-            / str(self.lesson_number)
-            / "index.md"
-        )
+        """Mirror the public route without deriving it from display labels."""
+        return WEB / self.public_url.strip("/") / "index.md"
 
     @property
     def jekyll_path(self) -> str:
@@ -368,6 +387,14 @@ def extract_title(text: str, source: Path) -> str:
     return match.group(1).strip()
 
 
+def course_page_title(page: CoursePage, text: str) -> str:
+    """Render current module labels while retaining original source text."""
+    title = extract_title(text, page.source)
+    if page.kind == "module" and page.is_core:
+        title = re.sub(r"^Module \d+\s*[—:]\s*", "", title)
+    return title
+
+
 def extract_course_status_and_authorship(
     text: str,
     source: Path,
@@ -489,84 +516,54 @@ def extract_reference_description(text: str) -> tuple[str, str | None]:
 
 
 def discover_course_pages() -> list[CoursePage]:
-    """Find the course landing page, module intros and numbered lessons."""
-    pages: list[CoursePage] = []
-
-    course_readme = COURSE_ROOT / "README.md"
-    if not course_readme.exists():
+    """Discover one uniform current course: module-01..19 and 57 lessons."""
+    readme = COURSE_ROOT / "README.md"
+    if not readme.exists():
         raise ValueError("course/README.md is missing")
+    pages = [CoursePage(source=readme, kind="course")]
+    module_dirs = sorted(COURSE_ROOT.glob("module-*"))
+    numbers = []
+    lesson_total = 0
 
-    pages.append(CoursePage(source=course_readme, kind="course"))
+    for directory in module_dirs:
+        match = MODULE_RE.match(directory.name)
+        if not match or not directory.is_dir():
+            raise ValueError(f"Unexpected course module folder: {directory.name}")
+        number = int(match.group(1))
+        if not directory.name.startswith(f"module-{number:02d}-"):
+            raise ValueError(f"Module must have 2-digit filename prefix: {directory.name}")
+        numbers.append(number)
+        part = 1 if number <= 5 else 2 if number <= 8 else (
+            3 if number <= 10 else 4 if number <= 16 else 5
+        )
+        intro = directory / "README.md"
+        if not intro.exists():
+            raise ValueError(f"Module overview missing: {intro}")
+        pages.append(CoursePage(
+            source=intro, kind="module", part_number=part,
+            module_number=number,
+        ))
+        lessons = sorted(directory.glob("*.md"))
+        lessons = [file for file in lessons if file.name != "README.md"]
+        local_numbers = []
+        for file in lessons:
+            match = LESSON_RE.fullmatch(file.name)
+            if not match:
+                raise ValueError(f"Unexpected lesson filename: {file}")
+            local = int(match.group(1))
+            local_numbers.append(local)
+            pages.append(CoursePage(
+                source=file, kind="lesson", part_number=part,
+                module_number=number, lesson_number=local,
+            ))
+            lesson_total += 1
+        if local_numbers != list(range(1, len(local_numbers) + 1)):
+            raise ValueError(f"Module {number} lesson numbers are not sequential")
 
-    for part_dir in sorted(COURSE_ROOT.iterdir()):
-        if not part_dir.is_dir():
-            continue
-
-        part_match = PART_RE.match(part_dir.name)
-        if not part_match:
-            continue
-
-        part_number = int(part_match.group(1))
-
-        for module_dir in sorted(part_dir.iterdir()):
-            if not module_dir.is_dir():
-                continue
-
-            module_match = MODULE_RE.match(module_dir.name)
-            if not module_match:
-                continue
-
-            module_number = int(module_match.group(1))
-            module_readme = module_dir / "README.md"
-
-            if not module_readme.exists():
-                raise ValueError(
-                    f"Module landing page missing: "
-                    f"{module_dir.relative_to(ROOT)}/README.md"
-                )
-
-            pages.append(
-                CoursePage(
-                    source=module_readme,
-                    kind="module",
-                    part_number=part_number,
-                    module_number=module_number,
-                )
-            )
-
-            for source in sorted(module_dir.glob("*.md")):
-                lesson_match = LESSON_RE.match(source.name)
-                if not lesson_match:
-                    continue
-
-                pages.append(
-                    CoursePage(
-                        source=source,
-                        kind="lesson",
-                        part_number=part_number,
-                        module_number=module_number,
-                        lesson_number=int(lesson_match.group(1)),
-                    )
-                )
-
-    def sequence_key(page: CoursePage) -> tuple[int, int, int]:
-        if page.kind == "course":
-            return (0, 0, 0)
-        if page.kind == "module":
-            return (page.module_number or 0, 0, 0)
-        return (page.module_number or 0, 1, page.lesson_number or 0)
-
-    pages.sort(key=sequence_key)
-
-    seen: dict[str, Path] = {}
-    for page in pages:
-        if page.public_url in seen:
-            raise ValueError(
-                "Duplicate public course URL "
-                f"{page.public_url}: {seen[page.public_url]} and {page.source}"
-            )
-        seen[page.public_url] = page.source
-
+    if numbers != list(range(1, EXPECTED_MODULES + 1)):
+        raise ValueError(f"Expected modules 01..{EXPECTED_MODULES}: {numbers}")
+    if lesson_total != EXPECTED_LESSONS:
+        raise ValueError(f"Expected {EXPECTED_LESSONS} focused lessons, found {lesson_total}")
     return pages
 
 
@@ -973,9 +970,8 @@ def build_global_navigation(
     returns to Home.
     """
     course_titles = {
-        page.public_url: extract_title(
-            page.source.read_text(encoding="utf-8"),
-            page.source,
+        page.public_url: course_page_title(
+            page, page.source.read_text(encoding="utf-8")
         )
         for page in course_pages
     }
@@ -992,7 +988,7 @@ def build_global_navigation(
     ]
     sequence.extend(
         (page.public_url, course_titles[page.public_url])
-        for page in course_pages
+        for page in course_pages if page.is_core
     )
     sequence.extend(
         (page.public_url, reference_titles[page.public_url])
@@ -1034,6 +1030,17 @@ def build_global_navigation(
             next_title=next_title,
         )
 
+    # Legacy reading has its own sequence and never interrupts the new course.
+    legacy = [page for page in course_pages if not page.is_core]
+    for index, page in enumerate(legacy):
+        previous = legacy[index - 1] if index else None
+        following = legacy[index + 1] if index + 1 < len(legacy) else None
+        navigation[page.public_url] = NavigationLinks(
+            previous.public_url if previous else "/course/",
+            course_titles[previous.public_url] if previous else "Current course",
+            following.public_url if following else "/course/",
+            course_titles[following.public_url] if following else "Current course",
+        )
     return navigation
 
 
@@ -1325,13 +1332,17 @@ def render_course_front_matter(
 
     if page.part_number is not None:
         lines.append(f"part_number: {page.part_number}")
+        lines.append(f"display_part_number: {page.display_part_number}")
 
     if page.module_number is not None:
         lines.extend(
             [
                 f"module_number: {page.module_number}",
+                f"display_module_number: {page.display_module_number}",
+                f"earlier_edition: {str(not page.is_core).lower()}",
+                f"course_progress_eligible: {str(page.progress_eligible).lower()}",
                 f"module_url: "
-                f"{yaml_string(f'/course/m{page.module_number}/')}",
+                f"{yaml_string(page.module_url)}",
             ]
         )
 
@@ -1498,7 +1509,7 @@ def prepare_course(
     }
 
     title_by_page = {
-        page: extract_title(source_text_by_page[page], page.source)
+        page: course_page_title(page, source_text_by_page[page])
         for page in pages
     }
 
@@ -1536,6 +1547,13 @@ def prepare_course(
                 page_url_map,
             )
             body = format_inline_citations(body)
+            if not page.is_core:
+                body = (
+                    "> **Earlier-edition reading:** This page remains available "
+                    "at its original address. [Browse the current 19-module course]"
+                    "({{ '/course/' | relative_url }}). Original lesson and puzzle "
+                    "labels are retained.\n\n" + body
+                )
 
             navigation = navigation_map[page.public_url]
 
@@ -2162,7 +2180,7 @@ def build_collection_children(
         if page.kind == "module":
             add("/course/", page.public_url)
         elif page.kind == "lesson":
-            add(f"/course/m{page.module_number}/", page.public_url)
+            add(page.module_url, page.public_url)
 
     # Reference root contains major collections and cross-cutting topics.
     by_kind: dict[str, list[ReferencePage]] = {}
@@ -2469,7 +2487,7 @@ def write_generated_page_data(pages: list[CoursePage]) -> None:
                 [
                     f"  module_number: {page.module_number}",
                     f"  module_url: "
-                    f"{yaml_string(f'/course/m{page.module_number}/')}",
+                    f"{yaml_string(page.module_url)}",
                 ]
             )
 
