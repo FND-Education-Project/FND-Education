@@ -60,3 +60,7 @@ The [remaining new-lesson research briefs](../../../reference/_internal/course/n
 ## Clinician-section editorial draft
 
 [Read the complete clinician sections for this module](../../../reference/_internal/course/clinician-drafts-2026-10-26/module-09-rehabilitation-and-neuroplasticity.md), prepared for all planned lessons and covering interdisciplinary use in assessment, individual technique selection, rehabilitation and outcome review. For full 17-presentation coverage across the five modules, see the [clinical coverage index](../../../reference/_internal/course/clinician-drafts-2026-10-26/README.md). **Supporter sections remain unwritten.** Clinical statements are grounded in internal source-review material, but final paper-level verification, citations and specialist sign-off are pending.
+
+## Supporter-section editorial draft
+
+[Read the complete Supporter sections for this module](../../../reference/_internal/course/supporter-drafts-2026-10-26/module-09-rehabilitation-and-neuroplasticity.md). The drafts develop **consent-based shared adaptations**, protect the person's autonomy, and show when diagnosis, safety, specialized recovery methods or treatment decisions should be passed to PT, OT, psychology, neurology, SLT or another appropriate professional. They include candidate source-linked caregiver quotations. For the [16-lesson quotation and referral framework](../../../reference/_internal/course/supporter-drafts-2026-10-26/README.md), see the internal index. **Community quotes and clinical claims still require the final source/citation review.**
