@@ -526,10 +526,12 @@ def discover_course_pages() -> list[CoursePage]:
     lesson_total = 0
 
     for directory in module_dirs:
-        match = MODULE_RE.fullmatch(directory.name)
+        match = MODULE_RE.match(directory.name)
         if not match or not directory.is_dir():
             raise ValueError(f"Unexpected course module folder: {directory.name}")
         number = int(match.group(1))
+        if not directory.name.startswith(f"module-{number:02d}-"):
+            raise ValueError(f"Module must have 2-digit filename prefix: {directory.name}")
         numbers.append(number)
         part = 1 if number <= 5 else 2 if number <= 8 else (
             3 if number <= 10 else 4 if number <= 16 else 5
