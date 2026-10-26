@@ -42,6 +42,8 @@ The 43 added entries are:
 - Dual-tasking / dual-task practice
 - EEG-EMG and jerk-locked back averaging
 - Electromyography (EMG)
+- Exteroception
+- Feedback loop
 - Functional cough and upper-airway symptoms
 - Functional dystonia / fixed dystonia
 - Functional electrical stimulation (FES)
@@ -53,6 +55,7 @@ The 43 added entries are:
 - Graded exposure / graded trigger practice
 - Grounding
 - Habituation
+- Motor learning
 - Optokinetic response / optokinetic testing
 - Pacing
 - Persistent postural-perceptual dizziness (PPPD)
