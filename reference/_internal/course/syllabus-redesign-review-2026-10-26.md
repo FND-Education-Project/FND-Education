@@ -1,5 +1,7 @@
 # Work review — concepts-first syllabus
 
+**Current release scope:** Robert subsequently authorized publication-readiness work so PR #191 can publish automatically generated working lessons before human authoring. The [publication audit](prepublication-audit-191-2026-10-26.md) supersedes earlier planning-only gates for this release. Original routes and progress identity are preserved; no D1 migration or account-service rollout is included.
+
 **Reviewed:** October 26, 2026. **PR:** [#191](https://github.com/FND-Education-Project/FND-Education/pull/191).<br>
 **Scope:** Planning documents, evidence/source selection, migration design and the first internal Person-section draft. Public content, accounts, assets and runtime code are unchanged. Review baseline: `0a01e73bbc071c3f68e79e2565f9792cbe13165c`; main: `e1d9f85521561fc427a5795f088c7996ce1924b8`.
 

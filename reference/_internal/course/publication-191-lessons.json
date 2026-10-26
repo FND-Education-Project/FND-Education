@@ -1,0 +1,222 @@
+[
+  {
+    "lesson": 15,
+    "module": 6,
+    "source": "course/concepts-first/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md",
+    "url": "/course/v2/m6/1/",
+    "identity_slot": "m24-1",
+    "quotes": 1,
+    "source_ids": [
+      307,
+      11,
+      220,
+      71
+    ]
+  },
+  {
+    "lesson": 16,
+    "module": 6,
+    "source": "course/concepts-first/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md",
+    "url": "/course/v2/m6/2/",
+    "identity_slot": "m24-2",
+    "quotes": 1,
+    "source_ids": [
+      28,
+      220,
+      11,
+      25
+    ]
+  },
+  {
+    "lesson": 17,
+    "module": 6,
+    "source": "course/concepts-first/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md",
+    "url": "/course/v2/m6/3/",
+    "identity_slot": "m24-3",
+    "quotes": 1,
+    "source_ids": [
+      28,
+      220,
+      11,
+      110
+    ]
+  },
+  {
+    "lesson": 18,
+    "module": 7,
+    "source": "course/concepts-first/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md",
+    "url": "/course/v2/m7/1/",
+    "identity_slot": "m25-1",
+    "quotes": 1,
+    "source_ids": [
+      242,
+      6,
+      25
+    ]
+  },
+  {
+    "lesson": 19,
+    "module": 7,
+    "source": "course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md",
+    "url": "/course/v2/m7/2/",
+    "identity_slot": "m25-2",
+    "quotes": 0,
+    "source_ids": [
+      301,
+      302,
+      303,
+      25,
+      1,
+      27,
+      11
+    ]
+  },
+  {
+    "lesson": 20,
+    "module": 7,
+    "source": "course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md",
+    "url": "/course/v2/m7/3/",
+    "identity_slot": "m25-3",
+    "quotes": 0,
+    "source_ids": [
+      304,
+      6,
+      10,
+      25,
+      11,
+      1
+    ]
+  },
+  {
+    "lesson": 21,
+    "module": 7,
+    "source": "course/concepts-first/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md",
+    "url": "/course/v2/m7/4/",
+    "identity_slot": "m25-4",
+    "quotes": 1,
+    "source_ids": [
+      305,
+      6,
+      11
+    ]
+  },
+  {
+    "lesson": 22,
+    "module": 8,
+    "source": "course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md",
+    "url": "/course/v2/m8/1/",
+    "identity_slot": "m26-1",
+    "quotes": 2,
+    "source_ids": [
+      1,
+      10,
+      71
+    ]
+  },
+  {
+    "lesson": 23,
+    "module": 8,
+    "source": "course/concepts-first/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md",
+    "url": "/course/v2/m8/2/",
+    "identity_slot": "m26-2",
+    "quotes": 1,
+    "source_ids": [
+      1,
+      10,
+      27
+    ]
+  },
+  {
+    "lesson": 24,
+    "module": 8,
+    "source": "course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md",
+    "url": "/course/v2/m8/3/",
+    "identity_slot": "m26-3",
+    "quotes": 1,
+    "source_ids": [
+      1,
+      10,
+      11
+    ]
+  },
+  {
+    "lesson": 25,
+    "module": 9,
+    "source": "course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md",
+    "url": "/course/v2/m9/1/",
+    "identity_slot": "m27-1",
+    "quotes": 1,
+    "source_ids": [
+      306,
+      28,
+      11,
+      25,
+      10,
+      29
+    ]
+  },
+  {
+    "lesson": 26,
+    "module": 9,
+    "source": "course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md",
+    "url": "/course/v2/m9/2/",
+    "identity_slot": "m27-2",
+    "quotes": 2,
+    "source_ids": [
+      28,
+      11,
+      25
+    ]
+  },
+  {
+    "lesson": 27,
+    "module": 9,
+    "source": "course/concepts-first/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md",
+    "url": "/course/v2/m9/3/",
+    "identity_slot": "m27-3",
+    "quotes": 2,
+    "source_ids": [
+      29,
+      33,
+      10
+    ]
+  },
+  {
+    "lesson": 28,
+    "module": 10,
+    "source": "course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md",
+    "url": "/course/v2/m10/1/",
+    "identity_slot": "m28-1",
+    "quotes": 1,
+    "source_ids": [
+      11,
+      206,
+      1
+    ]
+  },
+  {
+    "lesson": 29,
+    "module": 10,
+    "source": "course/concepts-first/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md",
+    "url": "/course/v2/m10/2/",
+    "identity_slot": "m28-2",
+    "quotes": 1,
+    "source_ids": [
+      11,
+      206
+    ]
+  },
+  {
+    "lesson": 30,
+    "module": 10,
+    "source": "course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md",
+    "url": "/course/v2/m10/3/",
+    "identity_slot": "m28-3",
+    "quotes": 1,
+    "source_ids": [
+      11,
+      29,
+      206
+    ]
+  }
+]

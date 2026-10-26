@@ -1,5 +1,7 @@
 # Curriculum redesign — learner-state and publication migration plan
 
+**Current release scope:** Robert subsequently authorized publication-readiness work so PR #191 can publish automatically generated working lessons before human authoring. The [publication audit](prepublication-audit-191-2026-10-26.md) supersedes earlier planning-only gates for this release. Original routes and progress identity are preserved; no D1 migration or account-service rollout is included.
+
 **Planning only — October 26, 2026.** This document authorizes no D1 query/write, deployment, public renumbering or account change. It accompanies [PR #191](https://github.com/FND-Education-Project/FND-Education/pull/191).
 
 ## Verified source snapshots

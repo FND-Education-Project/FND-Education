@@ -674,6 +674,32 @@ Use the sections below to drill down into the course, reference library, researc
 
 </details>
 
+## Concepts-first course additions
+
+The current [19-module pathway](course/README.md) uses these new working lessons. Existing addresses below remain available for earlier-edition reading.
+
+- [Attention and Automatic Control](course/concepts-first/module-06-attention-and-automatic-control/README.md)
+- [Attention: What the Brain Notices](course/concepts-first/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md)
+- [Automatic Control and Conscious Effort](course/concepts-first/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md)
+- [Distraction, External Focus, and Context](course/concepts-first/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md)
+- [Prediction, Body Signals, and Agency](course/concepts-first/module-07-prediction-interoception-and-agency/README.md)
+- [The Predictive Brain](course/concepts-first/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md)
+- [Interoception, Proprioception, and Outside Senses](course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md)
+- [Salience, Arousal, and Feedback Loops](course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md)
+- [Agency, Learning, and Your Own Adaptations](course/concepts-first/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md)
+- [Recognizing Symptoms and Finding Information](course/concepts-first/module-08-recognizing-symptoms-and-finding-information/README.md)
+- [Finding Words for What Happens](course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md)
+- [Similar Experiences, Different Features](course/concepts-first/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md)
+- [Finding Your Way Through the Reference Library](course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md)
+- [Rehabilitation and Neuroplasticity](course/concepts-first/module-09-rehabilitation-and-neuroplasticity/README.md)
+- [How Rehabilitation Uses Learning](course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md)
+- [Choosing Practice That Fits Your Life](course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md)
+- [When Someone Promises to Rewire Your Brain](course/concepts-first/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md)
+- [Pacing, Activity, and Available Capacity](course/concepts-first/module-10-pacing-and-available-capacity/README.md)
+- [What Uses Your Available Capacity?](course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md)
+- [Flexible Pacing When Capacity Changes](course/concepts-first/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md)
+- [Balancing Practice, Rest, and Everyday Life](course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md)
+
 ## Functional cough and upper-airway recovery collection
 
 - [Collection overview](reference/recovery-techniques/functional_cough_and_upper_airway_symptoms/README.md)

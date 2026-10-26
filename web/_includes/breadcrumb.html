@@ -10,18 +10,18 @@
 
   {% if page.part_number %}
     <span aria-hidden="true">›</span>
-    <span>Part {{ page.part_number }}</span>
+    <span>Part {{ page.display_part_number | default: page.part_number }}</span>
   {% endif %}
 
   {% if page.module_number %}
     <span aria-hidden="true">›</span>
 
     {% if page.page_kind == "module" %}
-      <span>Module {{ page.module_number }}</span>
+      <span>Module {{ page.display_module_number | default: page.module_number }}</span>
       <span aria-hidden="true">›</span>
       <span>Intro</span>
     {% else %}
-      <a href="{{ page.module_url | relative_url }}">Module {{ page.module_number }}</a>
+      <a href="{{ page.module_url | relative_url }}">Module {{ page.display_module_number | default: page.module_number }}</a>
     {% endif %}
   {% endif %}
 

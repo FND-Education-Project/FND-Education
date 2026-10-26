@@ -42,9 +42,9 @@ A clinician or care-team member should be better able to:
 
 ---
 
-# Course Modules — Proposed 19-Module Curriculum
+# Course Modules — 19-Module Curriculum
 
-**Curriculum approved for planning: October 26, 2026.** This is the target syllabus, **not** the live site structure. The current course continues to use 23 numbered module folders and its established lesson URLs, lesson progress IDs, search results and puzzles until a separately verified migration. New module numbers below are *proposed*. [Work implementation and migration handoff](../../reference/_internal/course/syllabus-redesign-handoff-2026-10-26.md).
+**Curriculum release preparation: October 26, 2026.** PR #191 now prepares the 19-module reading pathway for publication as automatically generated working content. New teaching uses `/course/v2/`; retained content keeps its original routes and identity. Earlier-edition reading and puzzles remain at their original addresses. See the [publication audit](../../reference/_internal/course/prepublication-audit-191-2026-10-26.md). [Work implementation and migration handoff](../../reference/_internal/course/syllabus-redesign-handoff-2026-10-26.md).
 
 Our teaching pathway is: **FND foundations → safety → understanding attention and body-brain processes → describing and distinguishing symptoms → rehabilitation → pacing → broader treatment and everyday life → longer-term management**.
 

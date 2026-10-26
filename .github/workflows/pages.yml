@@ -47,6 +47,9 @@ jobs:
       - name: Prepare website source
         run: python tools/site/prepare_site.py
 
+      - name: Check curriculum identity and navigation
+        run: python -m unittest discover -s tools/site/tests -v
+
       - name: Validate generated source
         run: python tools/site/validate.py
 
@@ -67,6 +70,17 @@ jobs:
 
       - name: Validate built artifact
         run: python tools/site/validate.py --built-site _site
+
+      - name: Upload pull request HTML for visual review
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: course-html-review
+          path: |
+            _site/**/*.html
+            _site/assets/css/
+            _site/assets/js/
+          retention-days: 3
 
       - name: Configure Pages
         if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'

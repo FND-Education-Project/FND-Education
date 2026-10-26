@@ -1,5 +1,7 @@
 # Syllabus redesign handoff — concepts-first 19-module course
 
+**Current release scope:** Robert subsequently authorized publication-readiness work so PR #191 can publish automatically generated working lessons before human authoring. The [publication audit](prepublication-audit-191-2026-10-26.md) supersedes earlier planning-only gates for this release. Original routes and progress identity are preserved; no D1 migration or account-service rollout is included.
+
 **Date:** October 26, 2026<br>
 **Authority:** Project lead approved changing the educational direction and asked for changes in a PR; a follow-up Work review will verify, add material, cite claims and check the site build.<br>
 **Status:** Planning/documentation PR. No published course renumbering, redirects, database migrations, assets or user progress changes in this PR.
