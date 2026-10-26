@@ -12,7 +12,7 @@
    - New **7: Prediction, Body Signals, and Agency** (planned lessons 18–21).
 3. Add **8: Recognizing Symptoms and Finding Information** (planned lessons 22–24). Teach observation and descriptive differences between similar experiences, not self-diagnosis. Point to the three-audience diagnostic and recovery Reference Library instead of duplicating symptom-specific pages.
 4. Immediately follow with **9: Rehabilitation and Neuroplasticity** (formerly 14; planned lessons 25–27), then **10: Pacing, Activity, and Available Capacity** (formerly 15; planned lessons 28–30).
-5. Keep all remaining eleven subject areas for now (new Modules 11–19) even if some repetition may later be reduced.
+5. Keep the remaining nine subject areas for now (new Modules 11–19) even if some repetition may later be reduced. The other two of the original eleven later modules—rehabilitation and pacing—have moved forward to Modules 9 and 10.
 6. Maintain Person, Supporters and Clinicians sections in every focused course lesson. Reference Library symptom entries already have their own audience sections and will receive human-voice editing after the course.
 7. Write at accessible adolescent reading level with paced stories, ordinary examples, non-patronizing humour and no implication of symptom voluntariness.
 8. Critical epistemic distinction: general nervous-system processes, empirical FND observations, proposed mechanistic models and individual causal attributions are **not interchangeable**. These concepts are not known to form one universal symptom-producing recipe.
