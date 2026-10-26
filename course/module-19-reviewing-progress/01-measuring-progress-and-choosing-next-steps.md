@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 23](README.md) › **Recognize Progress Across More Than Symptoms**
+[Home](../../README.md) › [Course](../README.md) › Part Six: Long-Term Management › [Module 23](README.md) › **Recognize Progress Across More Than Symptoms**
 <!-- NAV-BREADCRUMB:END -->
 
 # Recognize Progress Across More Than Symptoms
@@ -22,7 +22,7 @@ Symptoms matter. They are not the only part of life that matters or the only pla
 
 A **progress review** compares what matters to you now with your own earlier starting point. It can include symptoms, understanding, safety, access, function, participation and quality of life.
 
-![Five progress areas show understanding, safety, access, daily life and symptoms without putting one above the others.](../../../assets/illustrations/module-23-page-1-progress-domains.svg)
+![Five progress areas show understanding, safety, access, daily life and symptoms without putting one above the others.](../../assets/illustrations/module-23-page-1-progress-domains.svg)
 
 *Illustration: look across several areas; a symptom score is one source of information, not the whole result.*
 
@@ -118,7 +118,7 @@ No single scale establishes effort, treatment fit or prognosis. Consider measure
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Choose Next Steps and Finish the Course](02-choosing-next-steps-and-finishing-the-course.md)
 
-**Navigate:** [Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [Module overview](README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -129,8 +129,8 @@ The systematic review found major measurement limitations; the qualitative study
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
 
 This page still needs review by people with different goals and levels of disability, supporters, clinicians and outcome-measure researchers.
 

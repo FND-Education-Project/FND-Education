@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 21](README.md) › **Respond During a Setback**
+[Home](../../README.md) › [Course](../README.md) › Part Six: Long-Term Management › [Module 21](README.md) › **Respond During a Setback**
 <!-- NAV-BREADCRUMB:END -->
 
 # Respond During a Setback
@@ -22,7 +22,7 @@ When a familiar setback begins, the first job is not to explain it. The first jo
 
 A **setback response** is the small set of actions you use while familiar symptoms are worse. It can include safety, basic needs, a known strategy, temporary changes and help from another person.
 
-![Four calm first steps show safety, basics, one known strategy and agreed help.](../../../assets/illustrations/module-21-page-2-respond-now.svg)
+![Four calm first steps show safety, basics, one known strategy and agreed help.](../../assets/illustrations/module-21-page-2-respond-now.svg)
 
 *Illustration: start with safety and basic needs, then use one familiar strategy and agreed support rather than trying everything.*
 
@@ -116,15 +116,15 @@ Do not interpret worsening as poor motivation or prescribe automatic progression
 
 ## Further reading in the Reference Library
 
-- **[Recovery Pressure, Self-Blame, and Feeling Like You Are Failing](../../../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md)** — why recurrence and treatment non-response should not be interpreted as poor effort.
-- **[Unpredictability, Overload, and Trusting Your Body](../../../reference/biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md)** — planning for uncertainty without requiring zero risk or constant symptom monitoring.
+- **[Recovery Pressure, Self-Blame, and Feeling Like You Are Failing](../../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md)** — why recurrence and treatment non-response should not be interpreted as poor effort.
+- **[Unpredictability, Overload, and Trusting Your Body](../../reference/biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md)** — planning for uncertainty without requiring zero risk or constant symptom monitoring.
 
 ***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Recover, Review, and Update the Plan](03-recovering-reviewing-and-updating-the-plan.md)
 
-**Navigate:** [← Previous page](01-recognizing-a-setback-versus-medical-change.md) · [Module overview](README.md) · [Course](../../README.md)
+**Navigate:** [← Previous page](01-recognizing-a-setback-versus-medical-change.md) · [Module overview](README.md) · [Course](../README.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -135,8 +135,8 @@ These professional recommendations support individual, function-based planning. 
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
 
 This page still needs review by people with recurrent or persistent symptoms, supporters, rehabilitation clinicians and emergency-care reviewers.
 

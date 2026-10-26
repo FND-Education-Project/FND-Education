@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 23](README.md) › **Choose Next Steps and Finish the Course**
+[Home](../../README.md) › [Course](../README.md) › Part Six: Long-Term Management › [Module 23](README.md) › **Choose Next Steps and Finish the Course**
 <!-- NAV-BREADCRUMB:END -->
 
 # Choose Next Steps and Finish the Course
@@ -22,7 +22,7 @@ Finishing the course does not require finishing FND. It means choosing what, if 
 
 A **next-step plan** names what to keep, change, stop or reassess during the next period. It can include treatment, practical support, accessibility, relationships, safety or rest.
 
-![Four next-step choices show keep, adjust, stop, and reassess around the person's priorities.](../../../assets/illustrations/module-23-page-2-next-steps.svg)
+![Four next-step choices show keep, adjust, stop, and reassess around the person's priorities.](../../assets/illustrations/module-23-page-2-next-steps.svg)
 
 *Illustration: your next step may be to keep, adjust, stop or reassess something; none is automatically the “good patient” choice.*
 
@@ -115,9 +115,9 @@ Avoid equating attendance or symptom change with effort. Group-level chronicity 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Return to the course index](../../README.md)
+**Continue:** [Return to the course index](../README.md)
 
-**Navigate:** [← Previous page](01-measuring-progress-and-choosing-next-steps.md) · [Module overview](README.md) · [Home](../../../README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Previous page](01-measuring-progress-and-choosing-next-steps.md) · [Module overview](README.md) · [Home](../../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -128,9 +128,9 @@ These sources support broader outcomes, flexible goals and continuing care. The 
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Thomas ST, Thomas ET, Schembri E, Lehn AC, Palmer DDG. Treatment outcomes in functional neurological disorder: a systematic review and meta-analysis exploring the influence of symptom chronicity. *BMJ Neurology Open*. 2025;7(2):e001150. [FND-CIT-0051](../../../research/citation-index.md#fnd-cit-0051). [https://doi.org/10.1136/bmjno-2025-001150](https://doi.org/10.1136/bmjno-2025-001150) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
-| <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Thomas ST, Thomas ET, Schembri E, Lehn AC, Palmer DDG. Treatment outcomes in functional neurological disorder: a systematic review and meta-analysis exploring the influence of symptom chronicity. *BMJ Neurology Open*. 2025;7(2):e001150. [FND-CIT-0051](../../research/citation-index.md#fnd-cit-0051). [https://doi.org/10.1136/bmjno-2025-001150](https://doi.org/10.1136/bmjno-2025-001150) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
+| <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
 
 This page still needs review by people with persistent, recurrent and improving FND, supporters, clinicians and disability advocates.
 

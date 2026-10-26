@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 22](README.md) › **Choose What Belongs in the Handbook**
+[Home](../../README.md) › [Course](../README.md) › Part Six: Long-Term Management › [Module 22](README.md) › **Choose What Belongs in the Handbook**
 <!-- NAV-BREADCRUMB:END -->
 
 # Choose What Belongs in the Handbook
@@ -22,7 +22,7 @@ You do not need to remember the whole course. Your handbook can hold the few thi
 
 A **Personal FND Handbook** is a short reference about your diagnoses, familiar patterns, needs, plans and choices. It supports memory and communication; it does not diagnose a symptom or replace your medical record.
 
-![Four handbook sections hold health facts, usual patterns, support and access, and plans and contacts.](../../../assets/illustrations/module-22-page-1-handbook-sections.svg)
+![Four handbook sections hold health facts, usual patterns, support and access, and plans and contacts.](../../assets/illustrations/module-22-page-1-handbook-sections.svg)
 
 *Illustration: collect a few decision-changing items under health facts, patterns, support and access, and plans and contacts.*
 
@@ -117,7 +117,7 @@ Ask which details improve the patient's care and which create burden or risk. Pr
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Build a Short Safety and Communication Summary](02-building-using-and-reviewing-the-handbook.md)
 
-**Navigate:** [Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [Module overview](README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -128,9 +128,9 @@ These sources support written communication, individual assessment and coordinat
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [FND-CIT-0083](../../../research/citation-index.md#fnd-cit-0083). [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-3"></a>**[3]** | — | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [FND-CIT-0083](../../research/citation-index.md#fnd-cit-0083). [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-3"></a>**[3]** | — | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
 
 This page still needs review by people with cognitive or communication symptoms, supporters, clinicians and health-information reviewers.
 

@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 22](README.md) › **Use, Protect, and Update the Handbook**
+[Home](../../README.md) › [Course](../README.md) › Part Six: Long-Term Management › [Module 22](README.md) › **Use, Protect, and Update the Handbook**
 <!-- NAV-BREADCRUMB:END -->
 
 # Use, Protect, and Update the Handbook
@@ -22,7 +22,7 @@ A handbook works only if you can find it, trust it and understand which version 
 
 A **handbook review** is a short check that the information is still correct, accessible and shared only in ways you want.
 
-![A usable handbook has one main home, a short front page, a review date and a protected backup.](../../../assets/illustrations/module-22-page-3-use-and-update.svg)
+![A usable handbook has one main home, a short front page, a review date and a protected backup.](../../assets/illustrations/module-22-page-3-use-and-update.svg)
 
 *Illustration: choose one main home, keep the front page short, date each review and protect a backup.*
 
@@ -122,9 +122,9 @@ A personal log or handbook is not a validated outcome measure and should not be 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Review Progress and Choose Next Steps](../module-23-reviewing-progress/README.md)
+**Continue:** [Next module: Review Progress and Choose Next Steps](../module-19-reviewing-progress/README.md)
 
-**Navigate:** [← Previous page](02-building-using-and-reviewing-the-handbook.md) · [Module overview](README.md) · [Course](../../README.md)
+**Navigate:** [← Previous page](02-building-using-and-reviewing-the-handbook.md) · [Module overview](README.md) · [Course](../README.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -135,9 +135,9 @@ These sources support patient-centred care, written planning and cautious outcom
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
-| <a id="citation-3"></a>**[3]** | — | Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [FND-CIT-0083](../../../research/citation-index.md#fnd-cit-0083). [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
+| <a id="citation-3"></a>**[3]** | — | Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [FND-CIT-0083](../../research/citation-index.md#fnd-cit-0083). [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826) |
 
 This page still needs review by people who use accessible records, privacy and health-information specialists, supporters and clinicians.
 

@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 22](README.md) › **Build a Short Safety and Communication Summary**
+[Home](../../README.md) › [Course](../README.md) › Part Six: Long-Term Management › [Module 22](README.md) › **Build a Short Safety and Communication Summary**
 <!-- NAV-BREADCRUMB:END -->
 
 # Build a Short Safety and Communication Summary
@@ -22,7 +22,7 @@ The front page of your handbook should work when you cannot give a long history,
 
 A **safety and communication summary** is a short page that tells another person what is usual, what helps, what to avoid and when the familiar plan no longer fits.
 
-![A one-page summary has four boxes: usual, helps, avoid, and get help when.](../../../assets/illustrations/module-22-page-2-safety-summary.svg)
+![A one-page summary has four boxes: usual, helps, avoid, and get help when.](../../assets/illustrations/module-22-page-2-safety-summary.svg)
 
 *Illustration: the page separates your usual pattern from helpful actions, actions to avoid and agreed reasons to seek help.*
 
@@ -133,7 +133,7 @@ The AAN guideline applies specifically to functional seizures; its shared-decisi
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Use, Protect, and Update the Handbook](03-using-protecting-and-updating-the-handbook.md)
 
-**Navigate:** [← Previous page](01-what-belongs-in-the-personal-fnd-handbook.md) · [Module overview](README.md) · [Course](../../README.md)
+**Navigate:** [← Previous page](01-what-belongs-in-the-personal-fnd-handbook.md) · [Module overview](README.md) · [Course](../README.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -144,9 +144,9 @@ The functional-seizure guideline supports shared planning for that presentation;
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
-| <a id="citation-3"></a>**[3]** | — | Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [FND-CIT-0083](../../../research/citation-index.md#fnd-cit-0083). [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
+| <a id="citation-3"></a>**[3]** | — | Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [FND-CIT-0083](../../research/citation-index.md#fnd-cit-0083). [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826) |
 
 This page still needs review by people with different FND presentations, emergency clinicians, communication specialists, supporters and jurisdiction-specific reviewers.
 

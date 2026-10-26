@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 21](README.md) › **Recover, Review, and Update the Plan**
+[Home](../../README.md) › [Course](../README.md) › Part Six: Long-Term Management › [Module 21](README.md) › **Recover, Review, and Update the Plan**
 <!-- NAV-BREADCRUMB:END -->
 
 # Recover, Review, and Update the Plan
@@ -22,7 +22,7 @@ A later review can make the next setback less confusing. It should not become an
 
 A **setback review** is a short look back after you are more stable. Its purpose is to keep, change or remove parts of the plan—not to prove one cause.
 
-![A review loop asks what changed, what helped or harmed, what is needed now, and what should be revised.](../../../assets/illustrations/module-21-page-3-review-loop.svg)
+![A review loop asks what changed, what helped or harmed, what is needed now, and what should be revised.](../../assets/illustrations/module-21-page-3-review-loop.svg)
 
 *Illustration: look at what changed and what helped or harmed, then update the plan for present needs.*
 
@@ -117,9 +117,9 @@ Use several outcome domains and record non-response or harm. Chronicity may be a
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Build Your Personal FND Handbook](../module-22-building-your-personal-fnd-handbook/README.md)
+**Continue:** [Next module: Build Your Personal FND Handbook](../module-18-building-your-personal-fnd-handbook/README.md)
 
-**Navigate:** [← Previous page](02-responding-recovering-and-updating-the-plan.md) · [Module overview](README.md) · [Course](../../README.md)
+**Navigate:** [← Previous page](02-responding-recovering-and-updating-the-plan.md) · [Module overview](README.md) · [Course](../README.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -130,9 +130,9 @@ These sources support flexible goals and broader outcome review. The treatment m
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
-| <a id="citation-3"></a>**[3]** | Figure 1 | Thomas ST, Thomas ET, Schembri E, Lehn AC, Palmer DDG. Treatment outcomes in functional neurological disorder: a systematic review and meta-analysis exploring the influence of symptom chronicity. *BMJ Neurology Open*. 2025;7(2):e001150. [FND-CIT-0051](../../../research/citation-index.md#fnd-cit-0051). [https://doi.org/10.1136/bmjno-2025-001150](https://doi.org/10.1136/bmjno-2025-001150) |
+| <a id="citation-1"></a>**[1]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
+| <a id="citation-3"></a>**[3]** | Figure 1 | Thomas ST, Thomas ET, Schembri E, Lehn AC, Palmer DDG. Treatment outcomes in functional neurological disorder: a systematic review and meta-analysis exploring the influence of symptom chronicity. *BMJ Neurology Open*. 2025;7(2):e001150. [FND-CIT-0051](../../research/citation-index.md#fnd-cit-0051). [https://doi.org/10.1136/bmjno-2025-001150](https://doi.org/10.1136/bmjno-2025-001150) |
 
 This page still needs review by people with persistent or recurrent FND, supporters and clinicians who provide long-term care.
 
