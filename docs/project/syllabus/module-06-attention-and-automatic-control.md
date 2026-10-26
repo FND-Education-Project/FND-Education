@@ -1,7 +1,7 @@
 # Module 6 — Attention and Automatic Control
 
-**Part Two: Understanding How Symptoms Can Happen**  
-**Status:** Approved syllabus direction; content, source checks, independent clinical review pending.  
+**Part Two: Understanding Attention, Action, and Body Signals**<br>
+**Status:** Approved syllabus direction; source review completed October 26, 2026; lesson authoring and independent clinical review pending.<br>
 **Planned lessons:** 15–17 (future numbers, not yet live).
 
 ## Purpose
@@ -11,7 +11,7 @@ Give readers a working understanding of attention and automatic control, and the
 ## Lesson 15 — Attention: What the Brain Notices
 - Selective, divided, sustained and internally versus externally directed attention.
 - What changes when an experience moves into focus; distinguishing changes in attention from changes in the underlying body state.
-- Finite cognitive resources, competing demands, fatigue, pain and sensory load.
+- Competing demands, task switching, fatigue, pain and sensory load. Limited attention is a useful description, not a literal fuel tank or one measured resource.
 - Everyday demonstrations (for example, noticing discomfort after a film) are *analogies*, not FND diagnostic tests.
 - Reflection: what can be made easier by reducing competing demands?
 
@@ -23,7 +23,7 @@ Give readers a working understanding of attention and automatic control, and the
 
 ## Lesson 17 — Distraction, External Focus, and Context
 - Distraction, attention redirection, task focus and rhythm: what differs and what overlaps.
-- How these can sometimes alter movement, performance and subjective experience, with important limits across presentations.
+- How these can sometimes alter movement, performance and subjective experience, with important limits across presentations. Adding another task can also make performance harder; external focus does not necessarily mean more simultaneous tasks.
 - Why a shift with attention is not proof of FND or a home test.
 - Explore one safe, reversible adaptation, with professional input when necessary.
 
@@ -38,5 +38,13 @@ Each Person section: recognizable scene → concept → cautious FND relevance �
 ## Outcome
 
 Learner can explain how attention and automatic action relate and can propose an adaptation while knowing it may not help, does not prove a diagnosis, and is not a test of effort.
+
+## Reviewed evidence and authoring next step
+
+The [Work review](../../../reference/_internal/course/syllabus-redesign-review-2026-10-26.md#module-6) maps these claims to general attention research, a selected functional-tremor experiment, and rehabilitation consensus. A finding in tremor must not become a universal rule for seizures, cognition or sensory symptoms. General-attention examples are teaching scenes, not demonstrations that diagnose FND.
+
+The first [Lesson 15 Person-section draft](../../../reference/_internal/course/proposed-lesson-15-attention-person-draft-2026-10-26.md) is internal for human review. Develop the next lessons after that voice/depth checkpoint. No new public lesson paths or progress IDs are created by these outlines.
+
+**Vocabulary:** [Attention](../../../glossary/README.md#attention), [automatic and task-oriented movement](../../../glossary/README.md#automatic-and-task-oriented-movement), and [external focus](../../../glossary/README.md#external-focus). Define each beside the example where it first helps; do not link every repetition.
 
 **Reference instead of duplication:** [Brain networks and prediction introduction](../../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md), [Diagnostic Signs](../../../reference/diagnostic-signs/README.md), [Recovery Techniques](../../../reference/recovery-techniques/README.md).

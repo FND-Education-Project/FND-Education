@@ -42,8 +42,6 @@ A clinician or care-team member should be better able to:
 
 ---
 
----
-
 # Course Modules — Proposed 19-Module Curriculum
 
 **Curriculum approved for planning: October 26, 2026.** This is the target syllabus, **not** the live site structure. The current course continues to use 23 numbered module folders and its established lesson URLs, lesson progress IDs, search results and puzzles until a separately verified migration. New module numbers below are *proposed*. [Work implementation and migration handoff](../../reference/_internal/course/syllabus-redesign-handoff-2026-10-26.md).
@@ -60,9 +58,11 @@ The first five modules remain in their established order, with no rewrite implie
 4. [**Module 4 — Mapping Your Individual Condition**](syllabus/module-04-mapping-your-individual-condition.md) — Organize diagnoses, open questions, possible warnings and useful supports.
 5. [**Module 5 — Medical Safety and New Symptoms**](syllabus/module-05-medical-safety-and-new-symptoms.md) — Individual safety plans and deciding when new or changed symptoms need medical assessment.
 
-## Part Two — Understanding How Symptoms Can Happen
+## Part Two — Understanding Attention, Action, and Body Signals
 
 Teach nervous-system concepts deeply enough for readers to reason about adaptations. Explain normal nervous-system processes and FND research without claiming an established universal symptom-production mechanism.
+
+The sequence is an educational route, not a required order of treatment. Readers can seek a care team, accommodations, safety advice or the relevant Reference page at any point. [Work evidence review and lesson ownership](../../reference/_internal/course/syllabus-redesign-review-2026-10-26.md) records how the new depth differs from Modules 3–4.
 
 6. [**Module 6 — Attention and Automatic Control**](syllabus/module-06-attention-and-automatic-control.md) — Selective and divided attention; internal/external focus; automatic movement, conscious effort, distraction, context and variability. *Planned lessons 15–17.*
 7. [**Module 7 — Prediction, Body Signals, and Agency**](syllabus/module-07-prediction-interoception-and-agency.md) — Predictions and evidence; interoception, proprioception and exteroception; salience, arousal, feedback, agency and adaptable practice. *Planned lessons 18–21.*
@@ -95,6 +95,8 @@ Rehabilitation and pacing come directly after the concepts and symptom-navigatio
 19. **Reviewing Progress and Choosing Next Steps** — Assess confidence, participation, safety, quality of life and supporter needs alongside symptoms. [Existing Module 23 syllabus](syllabus/module-23-reviewing-progress.md).
 
 For content migration, crosswalk, safety checks, audits and learner account preservation, see the [approved redesign handoff](../../reference/_internal/course/syllabus-redesign-handoff-2026-10-26.md).
+
+**Planning count:** 14 established lessons in Modules 1–5, 16 proposed lessons in Modules 6–10, and 27 retained later lessons give **57 proposed focused lessons** if those later lesson splits are retained. This excludes module overviews and retained legacy reading pages. The current source has **75 focused lessons**, while separate account PR #154 describes 74 and lacks the second Module 4 lesson in its server allowlist. Neither count is a release instruction. Planned lesson labels 15–30 are overall reading-order labels, not module-local progress IDs or URL suffixes. See the [migration plan](../../reference/_internal/course/syllabus-redesign-migration-plan-2026-10-26.md).
 
 ---
 
@@ -178,13 +180,13 @@ Each future focused lesson must continue using four visible sections:
 
 Within those sections, the existing 15 recurring authoring questions preserve the original page requirements: terminology, short summary, research findings, uncertainty, lived presentation, at-home ideas, personal reflection questions, related reading, supporter guidance, clinician explanation, individualized assessment, support for improvement, continuing support when improvement is limited, evidence notes, and last-reviewed date. Differential diagnosis, safety-netting, and medical reassessment remain within the clinician questions rather than disappearing from the page.
 
-**Module 7 reference extension:** [Ten detailed functional facial recovery and care pages](../../reference/recovery-techniques/functional_facial_symptoms/README.md), one per original entry, plus a collection overview. Added September 22, 2026; specialist and human review pending.
+**Legacy movement-module Reference extension:** [Ten detailed functional facial recovery and care pages](../../reference/recovery-techniques/functional_facial_symptoms/README.md), one per original entry, plus a collection overview. Added September 22, 2026; specialist and human review pending.
 
 **Related reference collection:** [Common Co-occurring Conditions](../../reference/co-occurring-conditions/README.md) — nine short overviews with recovery and treatment options; separate from the course-page count.
 
-**Module 7 reference extension:** [Seven detailed functional-paralysis recovery and care pages](../../reference/recovery-techniques/functional_paralysis/README.md). The course-page count is unchanged.
+**Legacy movement-module Reference extension:** [Seven detailed functional-paralysis recovery and care pages](../../reference/recovery-techniques/functional_paralysis/README.md). The course-page count is unchanged.
 
-**Module 7 reference extension:** [Seven detailed functional-drop-attack recovery and safety pages](../../reference/recovery-techniques/functional_drop_attacks/README.md). The course-page count is unchanged.
+**Legacy movement-module Reference extension:** [Seven detailed functional-drop-attack recovery and safety pages](../../reference/recovery-techniques/functional_drop_attacks/README.md). The course-page count is unchanged.
 
 **[Functional tics: eight detailed recovery and supporting-care pages](../../reference/recovery-techniques/functional_tics/README.md)** — five original treatment/coordinated-care entries and three original safety/access/support entries, expanded one-to-one. One additional navigation overview; 17 symptom presentations and course-page counts are unchanged. Added September 24, 2026; human review pending.
 

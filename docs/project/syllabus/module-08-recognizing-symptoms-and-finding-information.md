@@ -1,7 +1,7 @@
 # Module 8 — Recognizing Symptoms and Finding Information
 
-**Part Two: Understanding How Symptoms Can Happen**  
-**Status:** Approved syllabus direction; content, source checks, independent clinical review pending.  
+**Part Two: Understanding Attention, Action, and Body Signals**<br>
+**Status:** Approved syllabus direction; source review completed October 26, 2026; lesson authoring and independent clinical review pending.<br>
 **Planned lessons:** 22–24 (future numbers, not yet live).
 
 ## Purpose
@@ -16,7 +16,7 @@ Teach readers how to *describe and distinguish features* of similar experiences,
 - Apply, rather than rebuild, the symptom map taught in Module 4.
 
 ## Lesson 23 — Similar Experiences, Different Features
-- Compare *descriptions* (not causes): tremor/jerks/tics; weakness/paralysis/movement initiation; functional seizures/other episodes/fainting/drop attacks; awareness/memory gaps; dizziness/balance; communication/word finding.
+- Compare *descriptions* (not causes): rhythmic shaking/sudden jerks; reduced strength/difficulty starting movement; falling with or without altered awareness; responsiveness/memory gaps; spinning/unsteadiness; speech production/word finding. Features can overlap in the same person or event.
 - Use paired narrative scenarios and explain what further information would be useful to a clinician.
 - Connect appropriate attention and body-sensing vocabulary from Modules 6–7 without claiming it caused the symptoms.
 - Explain why appearance alone cannot establish a functional versus epileptic, cardiac, metabolic, vestibular or other diagnosis.
@@ -42,5 +42,11 @@ Use ambiguous fictional scenarios with several plausible causes. Learners explor
 ## Outcome
 
 Learner can compare the *features* of symptoms and choose relevant reading pathways while understanding that only appropriate clinical assessment can determine cause.
+
+## Reviewed teaching boundaries and reading paths
+
+The [Work review](../../../reference/_internal/course/syllabus-redesign-review-2026-10-26.md#module-8) separates this module from Module 4: apply a short existing description to a reading choice rather than rebuilding a tracker or symptom map. A witness's observation and the person's experience answer different questions; neither automatically cancels the other. Ambiguous scenarios must end with useful questions or appropriate care, not a revealed diagnosis that readers are expected to copy.
+
+Use the accessible [seizure assessment overview](../../../reference/diagnostic-signs/06-functional-seizures.md#for-the-person-with-fnd), [tremor overview](../../../reference/diagnostic-signs/02-functional-tremor.md#for-the-person-with-fnd), [jerks overview](../../../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md#for-the-person-with-fnd), and [FCD overview](../../../reference/diagnostic-signs/12-functional-cognitive-disorder.md#for-the-person-with-fnd) only in the relevant scenario. For fatigue, pain, sleep or autonomic complaints, use the co-occurring collection rather than assigning a functional cause from appearance.
 
 **Safety boundary:** [Module 5](module-05-medical-safety-and-new-symptoms.md) retains medical safety and new-symptom decisions. Readers must not delay urgent assessment or treat catalogue descriptions as diagnoses.

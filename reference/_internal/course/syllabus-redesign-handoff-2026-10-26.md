@@ -1,7 +1,7 @@
 # Syllabus redesign handoff — concepts-first 19-module course
 
-**Date:** October 26, 2026  
-**Authority:** Project lead approved changing the educational direction and asked for changes in a PR; a follow-up Work review will verify, add material, cite claims and check the site build.  
+**Date:** October 26, 2026<br>
+**Authority:** Project lead approved changing the educational direction and asked for changes in a PR; a follow-up Work review will verify, add material, cite claims and check the site build.<br>
 **Status:** Planning/documentation PR. No published course renumbering, redirects, database migrations, assets or user progress changes in this PR.
 
 ## Curriculum decisions
@@ -74,3 +74,13 @@ The former symptom lessons 6–12 are *superseded as the intended course organiz
 - Existing Module 1–5 and legacy course pages remain physically untouched.
 - New proposed lesson order puts concepts → symptom differentiation/navigation → rehabilitation → pacing.
 - Clear migration instructions and risks are captured for Work to verify.
+
+## Work follow-up — October 26, 2026
+
+Planning/evidence review completed; human review and production migration remain pending. Read the [review and source kit](syllabus-redesign-review-2026-10-26.md), [migration plan](syllabus-redesign-migration-plan-2026-10-26.md), [identity inventory](syllabus-redesign-identity-map-2026-10-26.json), and first [Lesson 15 Person-section draft](proposed-lesson-15-attention-person-draft-2026-10-26.md).
+
+Findings: current main has 75 lessons while account PR #154's allowlist has 74 and omits `m4-2`; its numeric `m6-1` key already means old seizure teaching, so new attention content must not inherit it. Overall planned lesson labels 15–30 are not local file numbers or API IDs. The projected 19-module core contains 57 focused lessons if the retained later splits stay unchanged; legacy pages and redirects need separate route counts.
+
+The master syllabus and five proposed module outlines have been refined, with checked sources and exact existing vocabulary/Reference destinations. The first new Person section is internal for voice/depth review; remaining lesson bodies follow that checkpoint. Human Modules 1–5, all legacy course pages, glossary, public assets and runtime code remain untouched.
+
+The architecture review inspected #154 read-only without merging or changing that branch. Source validation, its 34 existing offline Worker tests and one extra review-only synthetic A/B check pass; the final full-build result is recorded in this PR. Live two-account/browser/migrated-D1 acceptance remains a release gate, not a claimed result of documentation review. Keep this PR a draft and do not publish, renumber, migrate or deploy as part of this work.
