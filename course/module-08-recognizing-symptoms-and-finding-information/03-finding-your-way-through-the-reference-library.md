@@ -26,11 +26,11 @@ The goal isn't to keep clicking until a diagnosis appears. The goal is to **unde
 
 ### Three places to begin
 
-The [Diagnostic Signs Library](../../../reference/diagnostic-signs/README.md) describes how clinicians evaluate particular functional presentations, including other explanations that may need consideration. (*citations* [1](#citation-1), [2](#citation-2))
+The [Diagnostic Signs Library](../../reference/diagnostic-signs/README.md) describes how clinicians evaluate particular functional presentations, including other explanations that may need consideration. (*citations* [1](#citation-1), [2](#citation-2))
 
-The [Recovery Techniques Library](../../../reference/recovery-techniques/README.md) describes possible care and rehabilitation approaches, their limits and relevant safety information.
+The [Recovery Techniques Library](../../reference/recovery-techniques/README.md) describes possible care and rehabilitation approaches, their limits and relevant safety information.
 
-The [Co-occurring Conditions Library](../../../reference/co-occurring-conditions/README.md) describes conditions that may accompany FND or share some symptoms with it.
+The [Co-occurring Conditions Library](../../reference/co-occurring-conditions/README.md) describes conditions that may accompany FND or share some symptoms with it.
 
 Each symptom page has separate reading paths for the **Person**, **Supporters**, and **Clinicians**. You can read the part that helps you. The technical section is there when you need it, not as a test you must pass.
 
@@ -106,9 +106,9 @@ An **OT or PT** can help adapt an activity or select symptom-specific rehabilita
 
 An FND label without a clearly identified presentation does little to guide rehabilitation. After explaining the observed evidence, define the care question: which symptom, what task is affected, which coexisting conditions matter, what can be tried safely, what needs specialist input, and what outcome the person values?
 
-**Step 1 — Diagnostic fit.** Start with the [Diagnostic Signs overview](../../../reference/diagnostic-signs/README.md). Review “Refers to,” scope boundaries, positive signs and appropriate differentials. Some pages describe descriptive observations or investigation for alternative disease, not independent diagnostic tests. Do not simply count positive-sign entries.
+**Step 1 — Diagnostic fit.** Start with the [Diagnostic Signs overview](../../reference/diagnostic-signs/README.md). Review “Refers to,” scope boundaries, positive signs and appropriate differentials. Some pages describe descriptive observations or investigation for alternative disease, not independent diagnostic tests. Do not simply count positive-sign entries.
 
-**Step 2 — Technique fit.** Choose an entry from the corresponding [Recovery Techniques index](../../../reference/recovery-techniques/technique-index.md), noting its evidence label (trial, guideline, consensus, emerging, or lived-experience report as indicated), prerequisites and contraindications. A technique demonstrated for functional tremor should not silently become the default treatment for seizures, paralysis, swallowing or functional cognition. (*citations* [1](#citation-1), [2](#citation-2))
+**Step 2 — Technique fit.** Choose an entry from the corresponding [Recovery Techniques index](../../reference/recovery-techniques/technique-index.md), noting its evidence label (trial, guideline, consensus, emerging, or lived-experience report as indicated), prerequisites and contraindications. A technique demonstrated for functional tremor should not silently become the default treatment for seizures, paralysis, swallowing or functional cognition. (*citations* [1](#citation-1), [2](#citation-2))
 
 **Step 3 — Profession and care setting.** PT may lead movement or gait retraining when appropriate; OT may lead task and accessibility adaptation; SLT may lead speech, voice, swallowing or upper-airway intervention; psychology may offer evidence-informed seizure-focused or other agreed treatment, where indicated. Neurology, primary care, emergency care, vestibular/eye specialists and others address diagnosis, comorbidities and risk. These are examples of roles, not rigid ownership or substitutes for the patient's preferences.
 
@@ -138,9 +138,9 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, et al. **A practical review of functional neurological disorder (FND) for the general physician.** Clin Med. 2021;21:28–36. doi:10.7861/clinmed.2020-0987. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7850207/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/33479065/). [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). |
-| <a id="citation-2"></a>**[2]** | — | Tolchin B, Goldstein LH, Reuber M, et al. **Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee.** Neurology. 2026;106:e214466; online December 10, 2025. doi:10.1212/WNL.0000000000214466. [Original](https://www.neurology.org/doi/10.1212/WNL.0000000000214466) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/41370742/). [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). |
-| <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). |
-| <a id="citation-4"></a>**[4]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1ruqxh5/comment/oatunoa/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0315](../../../research/citation-index.md#fnd-cit-0315). |
+| <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, et al. **A practical review of functional neurological disorder (FND) for the general physician.** Clin Med. 2021;21:28–36. doi:10.7861/clinmed.2020-0987. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7850207/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/33479065/). [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). |
+| <a id="citation-2"></a>**[2]** | — | Tolchin B, Goldstein LH, Reuber M, et al. **Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee.** Neurology. 2026;106:e214466; online December 10, 2025. doi:10.1212/WNL.0000000000214466. [Original](https://www.neurology.org/doi/10.1212/WNL.0000000000214466) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/41370742/). [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). |
+| <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
+| <a id="citation-4"></a>**[4]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1ruqxh5/comment/oatunoa/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0315](../../research/citation-index.md#fnd-cit-0315). |
 
 *Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
