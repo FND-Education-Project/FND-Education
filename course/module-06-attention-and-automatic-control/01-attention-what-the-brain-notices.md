@@ -16,39 +16,84 @@ Lesson 15 explores attention and what the brain notices through everyday example
 
 ## For the Person With FND
 
-### The world doesn't get quieter. Your attention moves.
+### Ever lose your place?
 
-Imagine you're reading a message when someone starts talking to you. You catch the first few words, but then lose the message. You look back at your screen and realise you haven't understood a thing.
+You're writing a message to a friend. Halfway through, somebody asks you a question. You look up, answer, and turn back to your phone.
 
-In this example, neither message was easy to follow while they competed for attention. In real life, hearing, vision, language and other difficulties can also affect the task.
+"Hang on. What was I saying?"
 
-Your brain handles more information than you can consciously notice. **[Attention](../../glossary/README.md#attention)** helps choose what becomes important right now. It is not a switch you control perfectly. A sudden noise, pain, a worry, a familiar voice or a movement near you can take over before you've decided where to focus. (*citations* [1](#citation-1), [2](#citation-2))
+Your attention went with the conversation. Now you're trying to find your place again.
 
-### A few kinds of attention
+For someone with FND, getting back on track might take extra effort, especially if thinking or memory are difficult. Another person might find messages easy but feel overwhelmed in a noisy room. We each have our own mix of strengths and difficulties.
 
-When you follow a conversation in a busy café, you use **[selective attention](../../glossary/README.md#attention-types-selective-divided-and-sustained)** to concentrate on one voice. When you cook while talking, you use **divided attention** to manage two tasks. When you finish a chapter or follow a long explanation, you use **sustained attention** to stay with something over time.
+**[Attention](../../glossary/README.md#attention)** helps your brain choose what to notice. Picture a spotlight on a stage. It lights up one part of the scene while everything else is still there.
 
-Attention can also face **outward**, toward the world, or **inward**, toward your movements, thoughts and bodily sensations. Both directions are useful. Neither is automatically good or bad.
+That spotlight moves throughout the day. A ringing phone might grab it. So might pain or an uncomfortable feeling. You can sometimes guide your attention, and sometimes it shifts before you even notice. (*citations* [1](#citation-1), [2](#citation-2))
 
-Now think about an uncomfortable shoe. Maybe you barely notice it while enjoying a film. The moment you stand up, your sore foot demands your attention.
+### A few ways attention works
 
-Did the soreness suddenly begin? Did it grow while you sat there? Or did you only notice it once your attention moved? It might be a mixture. **A change in what you notice doesn't prove a change in what caused the feeling.**
+Imagine trying to hear a friend in a busy café. You follow their voice through the chatter around you. That's **[selective attention](../../glossary/README.md#attention-types-selective-divided-and-sustained)**: picking out one thing to focus on.
 
-### Why are we learning this in an FND course?
+Now picture folding clean towels while listening to someone tell a story. That's **divided attention**: sharing your attention between two activities. Sometimes it's easy. Other times, doing one thing at a time works better.
 
-Researchers are studying whether attention changes how some functional symptoms are experienced or controlled. For some people, a task becomes easier or harder depending on what they are attending to. This can be a useful clinical clue, but it doesn't explain every symptom or tell us why FND began for one person.
+And when you stay with a book, a game, or a conversation for a while, you're using **sustained attention**. It helps you stick with something over time.
 
-And being able to shift attention sometimes doesn't mean you can choose whether a symptom exists.
+Your brain uses all three in everyday life. The amount of effort they take can change from one day to the next.
 
-### Turning knowledge into an adaptation
+### Looking outward and inward
 
-Suppose filling out a form is hard while the television is on. You might try a quieter room, larger text, fewer questions at once, or having someone read out one item at a time. You're not trying to prove that the form difficulty is FND. You're reducing competition for your attention.
+Sometimes your attention points **outward**, toward a friend's face or a bird outside the window.
 
-**Something to think about:** Which tasks leave you feeling pulled in several directions? Are the demands coming from outside, inside your body, or both?
+Other times it points **inward**, toward a thought or a feeling in your body.
 
-**One small step:** If you want, choose one ordinary task and make *one* part of it easier to follow. See whether the change helps with comfort, accuracy or effort. No need to watch every symptom or keep a diary. Sometimes the useful discovery is simply, “This room works better for me.”
+Have you ever been so caught up in a film that you barely noticed a shoe rubbing your heel? When the credits roll, your foot suddenly has your full attention.
 
-Next we will explore how familiar actions can run with less step-by-step conscious direction.
+Maybe the rubbing became stronger. Maybe the film held your attention for a while. Either is possible.
+
+**What stands out to you can change, while the feeling in your body remains real and deserves care.**
+
+### What does this have to do with FND?
+
+For some people with FND, attention seems to make a difference to how a task goes.
+
+Imagine someone who finds it easier to follow a conversation with one friend than with a whole group. Another person might find a familiar movement easier when they're focused on what they want to do. For someone else, moving attention around might make little difference.
+
+Researchers are studying how attention relates to some functional symptoms. A clinician may learn something useful from how a movement changes during an examination. They consider that finding along with the person's experience and the rest of the assessment. (*citations* [1](#citation-1), [2](#citation-2))
+
+**FND symptoms are real and involuntary.** Different experiences in different settings can be useful information, even when we don't yet know exactly why they happen.
+
+### Making room for what matters
+
+Imagine you're filling in a form. The television is talking in the background. You reach the bottom of a question and think, "Wait, what did I just read?"
+
+So you turn off the television and take the form one question at a time.
+
+You might still find the form difficult. But now you've made a little more room for the task. Perhaps having someone read a question aloud would help, too.
+
+Changing your surroundings can make an activity easier to manage, whether your symptoms change or stay the same.
+
+### Something to think about
+
+When you're trying to concentrate on something, what else might be competing for your attention?
+
+It could be a sound, a conversation, discomfort, or something on your mind.
+
+### How might that feel?
+
+How would it feel to make the activity a little easier, without expecting yourself to concentrate harder?
+
+### One small step
+
+Choose a familiar, safe activity, such as reading a message or sorting mail.
+
+Try changing **one thing** around you. You could turn off the television or find a quieter spot. Then see whether the task feels more comfortable or takes less effort.
+
+Maybe it helps. Maybe another adjustment would suit you better. You can simply notice what works for you and get on with your day.
+
+You can also save this idea for another day if you need rest right now.
+
+Next, we'll look at how your brain handles familiar actions with less step-by-step conscious direction.
+
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
