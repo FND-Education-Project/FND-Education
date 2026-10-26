@@ -2489,74 +2489,112 @@ def write_generated_page_data(pages: list[CoursePage]) -> None:
 
 
 def write_course_progress_manifest(pages: list[CoursePage]) -> None:
-    """Publish a small, non-sensitive curriculum index for local progress UI.
+    """Emit account-aware navigation without transferring earlier lesson history.
 
-    The canonical course files supply the lesson titles and stable public
-    routes. Generate this file on every website build rather than maintaining
-    another manually edited list of lessons.
+    Public reading order, display module number, canonical route, and stable
+    server-side progress ID are distinct. New concepts-first lessons (reserved
+    slots 24–28) are listed for reading but never receive an accepted API ID.
+    Earlier-edition lessons remain in a separate section with their same IDs.
+    This works with the legacy course source and the #191 curriculum models.
     """
     source = COURSE_ROOT / "README.md"
     headings = re.findall(
-        r"^## Part (One|Two|Three|Four|Five|Six):\s*(.+?)\s*$",
+        r"^## Part (One|Two|Three|Four|Five|Six):\\s*(.+?)\\s*$",
         source.read_text(encoding="utf-8"),
         re.MULTILINE,
     )
-    part_names = {"One": 1, "Two": 2, "Three": 3,
-                  "Four": 4, "Five": 5, "Six": 6}
-    titles = {part_names[word]: title for word, title in headings}
-    if len(titles) != 6:
-        raise ValueError("Expected six named course parts for progress index")
+    names = {"One": 1, "Two": 2, "Three": 3,
+             "Four": 4, "Five": 5, "Six": 6}
+    titles = {names[word]: title for word, title in headings}
+    if len(titles) not in (5, 6) or set(titles) != set(range(1, len(titles) + 1)):
+        raise ValueError("Expected five or six sequential named course parts")
 
     parts: dict[int, dict[str, object]] = {
         number: {"number": number, "title": title, "modules": []}
         for number, title in sorted(titles.items())
     }
+    earlier_modules: list[dict[str, object]] = []
     modules: dict[int, dict[str, object]] = {}
-    lesson_ids: set[str] = set()
+    seen_ids: set[str] = set()
+    seen_urls: set[str] = set()
+    eligible_count = 0
 
     for page in pages:
         if page.kind == "course":
             continue
         assert page.part_number is not None
         assert page.module_number is not None
-        title = extract_title(
-            page.source.read_text(encoding="utf-8"), page.source
-        )
+        is_core = getattr(page, "is_core", True)
+        display_module = getattr(page, "display_module_number", page.module_number)
+        display_part = getattr(page, "display_part_number", page.part_number)
+        title = extract_title(page.source.read_text(encoding="utf-8"), page.source)
         if page.kind == "module":
+            # Module slots, not display ordinals, distinguish current Module 6
+            # (source slot 24) from earlier-edition Module 6 (source slot 6).
+            if page.module_number in modules:
+                raise ValueError(f"Duplicate module identity: {page.module_number}")
             item: dict[str, object] = {
-                "number": page.module_number,
-                "title": title.removeprefix(
-                    f"Module {page.module_number} — "
-                ),
+                "number": display_module,
+                "sourceModule": page.module_number,
+                "title": re.sub(r"^Module \\d+\\s*[—–:-]\\s*", "", title),
                 "url": page.public_url,
                 "lessons": [],
             }
             modules[page.module_number] = item
-            part_modules = parts[page.part_number]["modules"]
-            assert isinstance(part_modules, list)
-            part_modules.append(item)
+            if is_core:
+                part_modules = parts[display_part]["modules"]
+                assert isinstance(part_modules, list)
+                part_modules.append(item)
+            else:
+                earlier_modules.append(item)
         elif page.kind == "lesson":
             assert page.lesson_number is not None
-            lesson_id = f"m{page.module_number}-{page.lesson_number}"
-            if lesson_id in lesson_ids or page.module_number not in modules:
-                raise ValueError(f"Bad course lesson ordering: {lesson_id}")
-            lesson_ids.add(lesson_id)
-            module_lessons = modules[page.module_number]["lessons"]
+            module = modules.get(page.module_number)
+            if module is None:
+                raise ValueError(f"Lesson before its module: {page.public_url}")
+            eligible = getattr(page, "progress_eligible", page.module_number <= 23)
+            if eligible and page.module_number not in range(1, 24):
+                raise ValueError("New source slot cannot reuse a legacy progress ID")
+            if eligible:
+                lesson_id = f"m{page.module_number}-{page.lesson_number}"
+                expected_url = f"/course/m{page.module_number}/{page.lesson_number}/"
+                if page.public_url != expected_url or lesson_id in seen_ids:
+                    raise ValueError(f"Legacy lesson identity collision: {lesson_id}")
+                seen_ids.add(lesson_id)
+                eligible_count += 1
+            else:
+                lesson_id = None
+                if not re.fullmatch(r"/course/v2/m(?:6|7|8|9|10)/[1-9][0-9]*/",
+                                    page.public_url):
+                    raise ValueError(f"Unexpected untracked lesson route: {page.public_url}")
+            if page.public_url in seen_urls:
+                raise ValueError(f"Duplicate lesson route: {page.public_url}")
+            seen_urls.add(page.public_url)
+            module_lessons = module["lessons"]
             assert isinstance(module_lessons, list)
             module_lessons.append({
                 "id": lesson_id,
                 "title": title,
                 "url": page.public_url,
+                "progressEligible": eligible,
             })
 
-    if not lesson_ids or not modules:
-        raise ValueError("Course progress manifest cannot be empty")
+    if not modules or not eligible_count:
+        raise ValueError("Course progress manifest has no eligible lessons")
+    # The original contract holds 75 IDs. Do not silently remove the missing
+    # second lesson from Module 4 or erase earlier-edition history.
+    if len(titles) == 5 and (len(seen_ids) != 75 or "m4-2" not in seen_ids):
+        raise ValueError("Revised curriculum must retain all 75 original keys")
 
     destination = WEB / "assets" / "data" / "course-progress.json"
     destination.parent.mkdir(parents=True, exist_ok=True)
     destination.write_text(
-        json.dumps({"version": 1, "parts": list(parts.values())},
-                   ensure_ascii=False, indent=2) + "\n",
+        json.dumps({
+            "version": 2,
+            "parts": list(parts.values()),
+            "earlierModules": earlier_modules,
+            "eligibleLessonCount": eligible_count,
+        }, ensure_ascii=False, indent=2) + "\\n",
         encoding="utf-8",
     )
 
