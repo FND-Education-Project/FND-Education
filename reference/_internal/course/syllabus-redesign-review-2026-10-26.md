@@ -103,3 +103,7 @@ Before any migration, two-account browser acceptance must still cover switching,
 
 Review the [first Person-section draft](proposed-lesson-15-attention-person-draft-2026-10-26.md), the revised outlines, and the preservation strategy. Keep #191 a draft. New lesson publication, account-code changes, D1 migrations, redirects and renumbering require a separate approved implementation/release PR. The remaining lesson drafting is staged after the first voice/depth review.
 
+
+## Follow-up requested by Robert — remaining lesson research
+
+On October 26 Robert requested researched material for the remaining new lessons for Chat to develop. The [15 research briefs and source register](new-lessons-research-2026-10-26/README.md) now populate proposed Lessons 16–30. This supersedes the earlier decision to leave remaining lesson bodies unpopulated: substantial internal foundations and audience-specific teaching seeds are now available, while final public prose, human editing and clinical/citation review remain pending. The Lesson 15 Person draft is unchanged. Public migration and account changes remain outside this work.

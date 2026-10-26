@@ -48,3 +48,7 @@ See the [Work review](../../../reference/_internal/course/syllabus-redesign-revi
 Offer [professional roles](../../../reference/professional-roles-in-fnd-care.md) before any practice requiring a clinician; Module 11's later reading position is not a reason to delay a care team. Link selectively to [automatic/task-oriented movement](../../../reference/recovery-techniques/functional_limb_weakness/01-automatic-and-task-oriented-movement.md) or [external focus for tremor](../../../reference/recovery-techniques/functional_tremor/03-external-focus-and-meaningful-task-practice.md), not as universal prescriptions. [Neuroplasticity](../../../glossary/README.md#neuroplasticity) is the existing glossary term.
 
 **Boundary:** Specific motor, seizure, speech, sensory and other intervention instructions remain in the three-audience [Recovery Reference](../../../reference/recovery-techniques/README.md), subject to appropriate clinical assessment.
+
+## Research material for Chat
+
+The [remaining new-lesson research briefs](../../../reference/_internal/course/new-lessons-research-2026-10-26/README.md) populate Lessons 16–30 with source-linked foundations, explanations, three-audience teaching seeds, fictional examples and boundaries. Use the relevant lesson brief alongside this outline; these are internal authoring materials, not new public lessons.

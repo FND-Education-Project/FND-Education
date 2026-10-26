@@ -50,3 +50,7 @@ The [Work review](../../../reference/_internal/course/syllabus-redesign-review-2
 Use the accessible [seizure assessment overview](../../../reference/diagnostic-signs/06-functional-seizures.md#for-the-person-with-fnd), [tremor overview](../../../reference/diagnostic-signs/02-functional-tremor.md#for-the-person-with-fnd), [jerks overview](../../../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md#for-the-person-with-fnd), and [FCD overview](../../../reference/diagnostic-signs/12-functional-cognitive-disorder.md#for-the-person-with-fnd) only in the relevant scenario. For fatigue, pain, sleep or autonomic complaints, use the co-occurring collection rather than assigning a functional cause from appearance.
 
 **Safety boundary:** [Module 5](module-05-medical-safety-and-new-symptoms.md) retains medical safety and new-symptom decisions. Readers must not delay urgent assessment or treat catalogue descriptions as diagnoses.
+
+## Research material for Chat
+
+The [remaining new-lesson research briefs](../../../reference/_internal/course/new-lessons-research-2026-10-26/README.md) populate Lessons 16–30 with source-linked foundations, explanations, three-audience teaching seeds, fictional examples and boundaries. Use the relevant lesson brief alongside this outline; these are internal authoring materials, not new public lessons.

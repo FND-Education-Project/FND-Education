@@ -84,3 +84,7 @@ Findings: current main has 75 lessons while account PR #154's allowlist has 74 a
 The master syllabus and five proposed module outlines have been refined, with checked sources and exact existing vocabulary/Reference destinations. The first new Person section is internal for voice/depth review; remaining lesson bodies follow that checkpoint. Human Modules 1–5, all legacy course pages, glossary, public assets and runtime code remain untouched.
 
 The architecture review inspected #154 read-only without merging or changing that branch. Source validation, its 34 existing offline Worker tests and one extra review-only synthetic A/B check pass; the final full-build result is recorded in this PR. Live two-account/browser/migrated-D1 acceptance remains a release gate, not a claimed result of documentation review. Keep this PR a draft and do not publish, renumber, migrate or deploy as part of this work.
+
+## Follow-up requested by Robert — remaining lesson research
+
+On October 26 Robert requested researched material for the remaining new lessons for Chat to develop. The [15 research briefs and source register](new-lessons-research-2026-10-26/README.md) now populate proposed Lessons 16–30. This supersedes the earlier decision to leave remaining lesson bodies unpopulated: substantial internal foundations and audience-specific teaching seeds are now available, while final public prose, human editing and clinical/citation review remain pending. The Lesson 15 Person draft is unchanged. Public migration and account changes remain outside this work.

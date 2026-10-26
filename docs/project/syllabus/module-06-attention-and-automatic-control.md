@@ -43,8 +43,12 @@ Learner can explain how attention and automatic action relate and can propose an
 
 The [Work review](../../../reference/_internal/course/syllabus-redesign-review-2026-10-26.md#module-6) maps these claims to general attention research, a selected functional-tremor experiment, and rehabilitation consensus. A finding in tremor must not become a universal rule for seizures, cognition or sensory symptoms. General-attention examples are teaching scenes, not demonstrations that diagnose FND.
 
-The first [Lesson 15 Person-section draft](../../../reference/_internal/course/proposed-lesson-15-attention-person-draft-2026-10-26.md) is internal for human review. Develop the next lessons after that voice/depth checkpoint. No new public lesson paths or progress IDs are created by these outlines.
+The first [Lesson 15 Person-section draft](../../../reference/_internal/course/proposed-lesson-15-attention-person-draft-2026-10-26.md) is internal for human review. The remaining lessons now have internal research briefs for Chat to use; final public prose still follows human editing. No new public lesson paths or progress IDs are created by these outlines.
 
 **Vocabulary:** [Attention](../../../glossary/README.md#attention), [automatic and task-oriented movement](../../../glossary/README.md#automatic-and-task-oriented-movement), and [external focus](../../../glossary/README.md#external-focus). Define each beside the example where it first helps; do not link every repetition.
 
 **Reference instead of duplication:** [Brain networks and prediction introduction](../../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md), [Diagnostic Signs](../../../reference/diagnostic-signs/README.md), [Recovery Techniques](../../../reference/recovery-techniques/README.md).
+
+## Research material for Chat
+
+The [remaining new-lesson research briefs](../../../reference/_internal/course/new-lessons-research-2026-10-26/README.md) populate Lessons 16–30 with source-linked foundations, explanations, three-audience teaching seeds, fictional examples and boundaries. Use the relevant lesson brief alongside this outline; these are internal authoring materials, not new public lessons.

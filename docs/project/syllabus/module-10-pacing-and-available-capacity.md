@@ -47,3 +47,7 @@ The [Work review](../../../reference/_internal/course/syllabus-redesign-review-2
 Use [available capacity](../../../glossary/README.md#available-capacity), [pacing](../../../glossary/README.md#pacing), and [fatigue/post-activity worsening](../../../reference/co-occurring-conditions/06-fatigue.md) at their useful first appearances. Preserve choices, assistance, enjoyment and recovery time, including when no increase in activity is possible.
 
 **Boundary:** Rehabilitation techniques are described in [Module 9](module-09-rehabilitation-and-neuroplasticity.md); condition-specific management belongs in the Reference Library or appropriate clinical care.
+
+## Research material for Chat
+
+The [remaining new-lesson research briefs](../../../reference/_internal/course/new-lessons-research-2026-10-26/README.md) populate Lessons 16–30 with source-linked foundations, explanations, three-audience teaching seeds, fictional examples and boundaries. Use the relevant lesson brief alongside this outline; these are internal authoring materials, not new public lessons.

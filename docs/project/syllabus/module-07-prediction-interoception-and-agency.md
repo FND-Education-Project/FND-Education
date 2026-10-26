@@ -54,3 +54,7 @@ See the [Work evidence review](../../../reference/_internal/course/syllabus-rede
 Existing terms: [predictive processing](../../../glossary/README.md#predictive-processing), [interoception](../../../glossary/README.md#interoception), [proprioception](../../../glossary/README.md#proprioception), [autonomic arousal](../../../glossary/README.md#autonomic-arousal), and [agency](../../../glossary/README.md#agency). **Exteroception** and **salience** have no current glossary entries; define them locally as above. Any later glossary additions need separate wording review and exact-anchor verification.
 
 **Foundation:** [Module 3 introduction](../../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md). Its mechanism discussion remains an introduction; this module should go deeper rather than copy it.
+
+## Research material for Chat
+
+The [remaining new-lesson research briefs](../../../reference/_internal/course/new-lessons-research-2026-10-26/README.md) populate Lessons 16–30 with source-linked foundations, explanations, three-audience teaching seeds, fictional examples and boundaries. Use the relevant lesson brief alongside this outline; these are internal authoring materials, not new public lessons.
