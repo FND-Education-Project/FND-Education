@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 5: Medical Safety and New Symptoms](README.md) › **Using Your Safety Plan and Deciding When to Get Urgent Help**
+[Home](../../README.md) › [Course](../README.md) › Part Two: Safety and Symptom Knowledge › [Module 5: Medical Safety and New Symptoms](README.md) › **Using Your Safety Plan and Deciding When to Get Urgent Help**
 <!-- NAV-BREADCRUMB:END -->
 
 # Using Your Safety Plan and Deciding When to Get Urgent Help
@@ -42,7 +42,7 @@ And you haven't even started walking yet!
 
 <figure class="image-60center" markdown="1">
 
-![A wheelchair user and two companions compare a personal plan with a park map showing an accessible trail, a gravel section and a rest area.](../../../assets/images/lesson-14-illustration.png)
+![A wheelchair user and two companions compare a personal plan with a park map showing an accessible trail, a gravel section and a rest area.](../../assets/images/lesson-14-illustration.png)
 
 <figcaption>Checking the route together can make room for an enjoyable outing. The pictured checklist is an example; choose preparations that fit your own assessed needs.</figcaption>
 
@@ -166,7 +166,7 @@ Severe breathing difficulty, a serious injury, or sudden signs of a possible str
 
 Your plan is there to guide care, rather than delay it.
 
-The Reference Library explains an [individualized functional-seizure safety plan](../../../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md). A first or uncertain seizure-like event, abnormal breathing, or prolonged or repeated events without usual recovery need urgent medical help. If no usable plan is available, seek urgent advice rather than assume the event is familiar. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+The Reference Library explains an [individualized functional-seizure safety plan](../../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md). A first or uncertain seizure-like event, abnormal breathing, or prolonged or repeated events without usual recovery need urgent medical help. If no usable plan is available, seek urgent advice rather than assume the event is familiar. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 ### Recovery is part of the experience
 
@@ -254,7 +254,7 @@ You've been using your safety plan.
 
 <figure class="image-60center" markdown="1">
 
-![Three scenes show a person receiving support, discussing a plan with an occupational therapist, and choosing a park route with companions.](../../../assets/images/lesson-14b-illustration.png)
+![Three scenes show a person receiving support, discussing a plan with an occupational therapist, and choosing a park route with companions.](../../assets/images/lesson-14b-illustration.png)
 
 <figcaption>Notice what matters, prepare together, and use the plan in daily life. These scenes illustrate shared planning, rather than instructions for physical assistance.</figcaption>
 
@@ -465,7 +465,7 @@ So the aim is to support those parts of life while respecting the person's swall
 
 A speech-language pathologist or another appropriate clinician can assess swallowing and recommend ways to eat and drink more safely when needed.
 
-That advice may involve food texture, positioning, timing or supervision, depending on the person's individual difficulties. Use the recommendations from their own qualified team; the [swallowing assessment reference](../../../reference/recovery-techniques/functional_swallowing_and_globus/01-understanding-the-assessment.md) explains why individual assessment matters. (*citations* [7](#citation-7))
+That advice may involve food texture, positioning, timing or supervision, depending on the person's individual difficulties. Use the recommendations from their own qualified team; the [swallowing assessment reference](../../reference/recovery-techniques/functional_swallowing_and_globus/01-understanding-the-assessment.md) explains why individual assessment matters. (*citations* [7](#citation-7))
 
 The supporter can help the person follow an agreed approach while listening to their preferences.
 
@@ -846,13 +846,13 @@ The same principles continue to apply: clear assessment, individualized preparat
 
 ## Further reading
 
-- [External memory supports](../../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md)
-- [Swallowing assessment and safety](../../../reference/recovery-techniques/functional_swallowing_and_globus/01-understanding-the-assessment.md)
+- [External memory supports](../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md)
+- [Swallowing assessment and safety](../../reference/recovery-techniques/functional_swallowing_and_globus/01-understanding-the-assessment.md)
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Functional Seizures and Other Episodes](../module-06-functional-seizures-and-episodic-symptoms/README.md)
+**Continue:** [Reference Library](../../reference/README.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [Home](../../README.md) · [Course](../README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -863,18 +863,18 @@ The guideline and emergency reviews support shared planning, assessment of coexi
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
-| <a id="citation-2"></a>**[2]** | — | Anderson JR, Nakhate V, Stephen CD, Perez DL. Functional (psychogenic) neurological disorders: assessment and acute management in the emergency department. *Seminars in Neurology*. 2019;39(1):102–114. [FND-CIT-0070](../../../research/citation-index.md#fnd-cit-0070). [https://doi.org/10.1055/s-0038-1676844](https://doi.org/10.1055/s-0038-1676844) |
-| <a id="citation-3"></a>**[3]** | — | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
-| <a id="citation-4"></a>**[4]** | — | Das S, Yerraballa SRN, Shekhawat P. Coexisting postural orthostatic tachycardia syndrome on autonomic reflex testing in functional neurologic disorder. *American Journal of Case Reports*. 2026;27:e953323. [https://doi.org/10.12659/AJCR.953323](https://doi.org/10.12659/AJCR.953323) [FND-CIT-0293](../../../research/citation-index.md#fnd-cit-0293). |
-| <a id="citation-5"></a>**[5]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-6"></a>**[6]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
-| <a id="citation-7"></a>**[7]** | — | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
-| <a id="citation-8"></a>**[8]** | — | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
-| <a id="citation-9"></a>**[9]** | — | Ball HA, McWhirter L, Ballard C, Bhome R, Blackburn DJ, Edwards MJ, et al. Functional cognitive disorder: dementia’s blind spot. *Brain*. 2020;143(10):2895–2903. [https://doi.org/10.1093/brain/awaa224](https://doi.org/10.1093/brain/awaa224) [FND-CIT-0071](../../../research/citation-index.md#fnd-cit-0071). |
-| <a id="citation-10"></a>**[10]** | — | National Institute for Health and Care Excellence. *Decision-making and mental capacity*. NG108. 2018. [Recommendations](https://www.nice.org.uk/guidance/ng108/chapter/recommendations). Guidance for people aged 16 and over, within the England and Wales legal framework. [FND-CIT-0298](../../../research/citation-index.md#fnd-cit-0298). |
-| <a id="citation-11"></a>**[11]** | Figure 1 | Public Reddit comment in “What do you guys think about during seizures?” r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1o3u59q/comment/nj1xi6u/). Verified October 25, 2026. Individual lived experience. [FND-CIT-0296](../../../research/citation-index.md#fnd-cit-0296). |
-| <a id="citation-12"></a>**[12]** | Figure 2 | Public Reddit discussion, “I need advice.” r/FND. [Original discussion](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/). Supporter comment checked October 25, 2026. Individual lived experience, separate from the original poster’s account. [FND-CIT-0286](../../../research/citation-index.md#fnd-cit-0286). |
+| <a id="citation-1"></a>**[1]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
+| <a id="citation-2"></a>**[2]** | — | Anderson JR, Nakhate V, Stephen CD, Perez DL. Functional (psychogenic) neurological disorders: assessment and acute management in the emergency department. *Seminars in Neurology*. 2019;39(1):102–114. [FND-CIT-0070](../../research/citation-index.md#fnd-cit-0070). [https://doi.org/10.1055/s-0038-1676844](https://doi.org/10.1055/s-0038-1676844) |
+| <a id="citation-3"></a>**[3]** | — | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
+| <a id="citation-4"></a>**[4]** | — | Das S, Yerraballa SRN, Shekhawat P. Coexisting postural orthostatic tachycardia syndrome on autonomic reflex testing in functional neurologic disorder. *American Journal of Case Reports*. 2026;27:e953323. [https://doi.org/10.12659/AJCR.953323](https://doi.org/10.12659/AJCR.953323) [FND-CIT-0293](../../research/citation-index.md#fnd-cit-0293). |
+| <a id="citation-5"></a>**[5]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-6"></a>**[6]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
+| <a id="citation-7"></a>**[7]** | — | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
+| <a id="citation-8"></a>**[8]** | — | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
+| <a id="citation-9"></a>**[9]** | — | Ball HA, McWhirter L, Ballard C, Bhome R, Blackburn DJ, Edwards MJ, et al. Functional cognitive disorder: dementia’s blind spot. *Brain*. 2020;143(10):2895–2903. [https://doi.org/10.1093/brain/awaa224](https://doi.org/10.1093/brain/awaa224) [FND-CIT-0071](../../research/citation-index.md#fnd-cit-0071). |
+| <a id="citation-10"></a>**[10]** | — | National Institute for Health and Care Excellence. *Decision-making and mental capacity*. NG108. 2018. [Recommendations](https://www.nice.org.uk/guidance/ng108/chapter/recommendations). Guidance for people aged 16 and over, within the England and Wales legal framework. [FND-CIT-0298](../../research/citation-index.md#fnd-cit-0298). |
+| <a id="citation-11"></a>**[11]** | Figure 1 | Public Reddit comment in “What do you guys think about during seizures?” r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1o3u59q/comment/nj1xi6u/). Verified October 25, 2026. Individual lived experience. [FND-CIT-0296](../../research/citation-index.md#fnd-cit-0296). |
+| <a id="citation-12"></a>**[12]** | Figure 2 | Public Reddit discussion, “I need advice.” r/FND. [Original discussion](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/). Supporter comment checked October 25, 2026. Individual lived experience, separate from the original poster’s account. [FND-CIT-0286](../../research/citation-index.md#fnd-cit-0286). |
 
 This page still needs review by people with FND, supporters and emergency-care teams, especially the balance between clarity and over-generalization.
 

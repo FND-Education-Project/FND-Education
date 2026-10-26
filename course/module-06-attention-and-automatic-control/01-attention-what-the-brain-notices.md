@@ -22,7 +22,7 @@ Imagine you're reading a message when someone starts talking to you. You catch t
 
 In this example, neither message was easy to follow while they competed for attention. In real life, hearing, vision, language and other difficulties can also affect the task.
 
-Your brain handles more information than you can consciously notice. **[Attention](../../../glossary/README.md#attention)** helps choose what becomes important right now. It is not a switch you control perfectly. A sudden noise, pain, a worry, a familiar voice or a movement near you can take over before you've decided where to focus. (*citations* [1](#citation-1), [2](#citation-2))
+Your brain handles more information than you can consciously notice. **[Attention](../../glossary/README.md#attention)** helps choose what becomes important right now. It is not a switch you control perfectly. A sudden noise, pain, a worry, a familiar voice or a movement near you can take over before you've decided where to focus. (*citations* [1](#citation-1), [2](#citation-2))
 
 ### A few kinds of attention
 
@@ -108,7 +108,7 @@ A person's performance may depend on selective, sustained and shifting attention
 
 **Speech-language therapists** can adapt conversational turn-taking, response time, written prompts and communication access when language, word-finding or voice symptoms occur under load. **Neurologists** should describe which observed changes informed the diagnosis, without implying that an attentional improvement establishes the mechanism.
 
-**Symptom application — Functional Cognitive Disorder (FCD):** A person may lose the next instruction while managing several tasks. Consider attention and encoding demands, functional inconsistency in its clinical context, separate cognitive diagnoses and patient-important activities. Trial a single capture method or task-sequencing support rather than repeated memory testing. [FCD diagnostic overview](../../../reference/diagnostic-signs/12-functional-cognitive-disorder.md) · [FCD recovery overview](../../../reference/recovery-techniques/12-functional-cognitive-disorder.md).
+**Symptom application — Functional Cognitive Disorder (FCD):** A person may lose the next instruction while managing several tasks. Consider attention and encoding demands, functional inconsistency in its clinical context, separate cognitive diagnoses and patient-important activities. Trial a single capture method or task-sequencing support rather than repeated memory testing. [FCD diagnostic overview](../../reference/diagnostic-signs/12-functional-cognitive-disorder.md) · [FCD recovery overview](../../reference/recovery-techniques/12-functional-cognitive-disorder.md).
 
 ### Close the loop without creating surveillance
 
@@ -130,10 +130,10 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Corbetta M, Shulman GL. Control of goal-directed and stimulus-driven attention in the brain. *Nature Reviews Neuroscience*. 2002;3:201–215. [DOI](https://doi.org/10.1038/nrn755). [PubMed](https://pubmed.ncbi.nlm.nih.gov/11994752/). [FND-CIT-0307](../../../research/citation-index.md#fnd-cit-0307). |
-| <a id="citation-2"></a>**[2]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). |
-| <a id="citation-3"></a>**[3]** | — | Huys ACML, Haggard P, Bhatia KP, Edwards MJ. **Misdirected attentional focus in functional tremor.** Brain. 2021;144:3436–3450. doi:10.1093/brain/awab230. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34145898/) · [Original](https://academic.oup.com/brain/article/144/11/3436/6305827). [FND-CIT-0220](../../../research/citation-index.md#fnd-cit-0220). |
-| <a id="citation-4"></a>**[4]** | — | Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain*. 2020;143(10):2895–2903. [https://doi.org/10.1093/brain/awaa224](https://doi.org/10.1093/brain/awaa224) [FND-CIT-0071](../../../research/citation-index.md#fnd-cit-0071). |
-| <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1hmedeg/comment/m3tqr3z/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0308](../../../research/citation-index.md#fnd-cit-0308). |
+| <a id="citation-1"></a>**[1]** | — | Corbetta M, Shulman GL. Control of goal-directed and stimulus-driven attention in the brain. *Nature Reviews Neuroscience*. 2002;3:201–215. [DOI](https://doi.org/10.1038/nrn755). [PubMed](https://pubmed.ncbi.nlm.nih.gov/11994752/). [FND-CIT-0307](../../research/citation-index.md#fnd-cit-0307). |
+| <a id="citation-2"></a>**[2]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
+| <a id="citation-3"></a>**[3]** | — | Huys ACML, Haggard P, Bhatia KP, Edwards MJ. **Misdirected attentional focus in functional tremor.** Brain. 2021;144:3436–3450. doi:10.1093/brain/awab230. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34145898/) · [Original](https://academic.oup.com/brain/article/144/11/3436/6305827). [FND-CIT-0220](../../research/citation-index.md#fnd-cit-0220). |
+| <a id="citation-4"></a>**[4]** | — | Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain*. 2020;143(10):2895–2903. [https://doi.org/10.1093/brain/awaa224](https://doi.org/10.1093/brain/awaa224) [FND-CIT-0071](../../research/citation-index.md#fnd-cit-0071). |
+| <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1hmedeg/comment/m3tqr3z/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0308](../../research/citation-index.md#fnd-cit-0308). |
 
 *Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*

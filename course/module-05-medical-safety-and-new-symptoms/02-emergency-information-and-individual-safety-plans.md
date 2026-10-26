@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 5: Medical Safety and New Symptoms](README.md) › **Emergency Information and Individual Safety Plans**
+[Home](../../README.md) › [Course](../README.md) › Part Two: Safety and Symptom Knowledge › [Module 5: Medical Safety and New Symptoms](README.md) › **Emergency Information and Individual Safety Plans**
 <!-- NAV-BREADCRUMB:END -->
 
 # Emergency Information and Individual Safety Plans
@@ -126,7 +126,7 @@ And we're still learning.
 
 <figure class="image-60center" markdown="1">
 
-![A woman and supporter talk with an occupational therapist beside a page titled My Safety Plan.](../../../assets/images/lesson-13-illustration.png)
+![A woman and supporter talk with an occupational therapist beside a page titled My Safety Plan.](../../assets/images/lesson-13-illustration.png)
 
 <figcaption>Your experience, your supporter's needs and professional advice can come together in a plan that fits everyday life.</figcaption>
 
@@ -328,7 +328,7 @@ Understanding those feelings can help you find ways of supporting each other tha
 
 ### Remember available capacity?
 
-Back in Lesson 4, we introduced **[available capacity](../../../glossary/README.md#available-capacity)**.
+Back in Lesson 4, we introduced **[available capacity](../../glossary/README.md#available-capacity)**.
 
 It's a way of describing how much someone can manage at a particular time, considering the demands on their body and mind.
 
@@ -652,7 +652,7 @@ The following is a clinical planning exercise informed by the published case, ra
 
 ### Begin with the problem, then choose the professional
 
-The Reference Library explains the [roles different professionals can play](../../../reference/professional-roles-in-fnd-care.md). The examples below show how those roles might fit this person.
+The Reference Library explains the [roles different professionals can play](../../reference/professional-roles-in-fnd-care.md). The examples below show how those roles might fit this person.
 
 Consider three needs that might arise in a patient with this combination of diagnoses.
 
@@ -871,13 +871,13 @@ Lesson 14 will examine how clinical teams support those decisions, respond to ch
 
 ## Further reading
 
-- [Communication support and AAC](../../../reference/recovery-techniques/functional_speech_and_voice_symptoms/09-communication-support-and-aac.md)
-- [Functional-seizure safety planning](../../../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md)
+- [Communication support and AAC](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/09-communication-support-and-aac.md)
+- [Functional-seizure safety planning](../../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md)
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Using Your Safety Plan and Deciding When to Get Urgent Help](03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [Home](../../README.md) · [Course](../README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -888,17 +888,17 @@ These clinical reviews, practice guidance and consensus recommendations inform i
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Anderson JR, Nakhate V, Stephen CD, Perez DL. Functional (psychogenic) neurological disorders: assessment and acute management in the emergency department. *Seminars in Neurology*. 2019;39(1):102–114. [FND-CIT-0070](../../../research/citation-index.md#fnd-cit-0070). [https://doi.org/10.1055/s-0038-1676844](https://doi.org/10.1055/s-0038-1676844) |
-| <a id="citation-2"></a>**[2]** | — | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
-| <a id="citation-3"></a>**[3]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
-| <a id="citation-4"></a>**[4]** | — | Das S, Yerraballa SRN, Shekhawat P. Coexisting postural orthostatic tachycardia syndrome on autonomic reflex testing in functional neurologic disorder. *American Journal of Case Reports*. 2026;27:e953323. [https://doi.org/10.12659/AJCR.953323](https://doi.org/10.12659/AJCR.953323) [FND-CIT-0293](../../../research/citation-index.md#fnd-cit-0293). |
-| <a id="citation-5"></a>**[5]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
-| <a id="citation-6"></a>**[6]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-7"></a>**[7]** | — | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
-| <a id="citation-8"></a>**[8]** | — | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
-| <a id="citation-9"></a>**[9]** | — | O’Mahony B, Nielsen G, Baxendale S, Edwards MJ, Yogarajah M. Economic Cost of Functional Neurologic Disorders: A Systematic Review. *Neurology*. 2023;101(2):e202–e214. [https://doi.org/10.1212/WNL.0000000000207388](https://doi.org/10.1212/WNL.0000000000207388) [FND-CIT-0297](../../../research/citation-index.md#fnd-cit-0297). |
-| <a id="citation-10"></a>**[10]** | — | Ball HA, McWhirter L, Ballard C, Bhome R, Blackburn DJ, Edwards MJ, et al. Functional cognitive disorder: dementia’s blind spot. *Brain*. 2020;143(10):2895–2903. [https://doi.org/10.1093/brain/awaa224](https://doi.org/10.1093/brain/awaa224) [FND-CIT-0071](../../../research/citation-index.md#fnd-cit-0071). |
-| <a id="citation-11"></a>**[11]** | Figure 1 | Surviving public spouse comment in “Me help wife and put up FND info whiteboard,” r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1u9enx1/comment/osfpj8r/). Quotation checked in the October 25, 2026 caregiver quotation bank. The original post was deleted and its approach disputed; this quote concerns whether a detailed plan gets read, not endorsement of a whiteboard. [FND-CIT-0300](../../../research/citation-index.md#fnd-cit-0300). |
+| <a id="citation-1"></a>**[1]** | — | Anderson JR, Nakhate V, Stephen CD, Perez DL. Functional (psychogenic) neurological disorders: assessment and acute management in the emergency department. *Seminars in Neurology*. 2019;39(1):102–114. [FND-CIT-0070](../../research/citation-index.md#fnd-cit-0070). [https://doi.org/10.1055/s-0038-1676844](https://doi.org/10.1055/s-0038-1676844) |
+| <a id="citation-2"></a>**[2]** | — | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
+| <a id="citation-3"></a>**[3]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
+| <a id="citation-4"></a>**[4]** | — | Das S, Yerraballa SRN, Shekhawat P. Coexisting postural orthostatic tachycardia syndrome on autonomic reflex testing in functional neurologic disorder. *American Journal of Case Reports*. 2026;27:e953323. [https://doi.org/10.12659/AJCR.953323](https://doi.org/10.12659/AJCR.953323) [FND-CIT-0293](../../research/citation-index.md#fnd-cit-0293). |
+| <a id="citation-5"></a>**[5]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
+| <a id="citation-6"></a>**[6]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-7"></a>**[7]** | — | Baker J, Barnett C, Cavalli L, et al. Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(10):1112–1125. [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). [https://doi.org/10.1136/jnnp-2021-326767](https://doi.org/10.1136/jnnp-2021-326767) |
+| <a id="citation-8"></a>**[8]** | — | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
+| <a id="citation-9"></a>**[9]** | — | O’Mahony B, Nielsen G, Baxendale S, Edwards MJ, Yogarajah M. Economic Cost of Functional Neurologic Disorders: A Systematic Review. *Neurology*. 2023;101(2):e202–e214. [https://doi.org/10.1212/WNL.0000000000207388](https://doi.org/10.1212/WNL.0000000000207388) [FND-CIT-0297](../../research/citation-index.md#fnd-cit-0297). |
+| <a id="citation-10"></a>**[10]** | — | Ball HA, McWhirter L, Ballard C, Bhome R, Blackburn DJ, Edwards MJ, et al. Functional cognitive disorder: dementia’s blind spot. *Brain*. 2020;143(10):2895–2903. [https://doi.org/10.1093/brain/awaa224](https://doi.org/10.1093/brain/awaa224) [FND-CIT-0071](../../research/citation-index.md#fnd-cit-0071). |
+| <a id="citation-11"></a>**[11]** | Figure 1 | Surviving public spouse comment in “Me help wife and put up FND info whiteboard,” r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1u9enx1/comment/osfpj8r/). Quotation checked in the October 25, 2026 caregiver quotation bank. The original post was deleted and its approach disputed; this quote concerns whether a detailed plan gets read, not endorsement of a whiteboard. [FND-CIT-0300](../../research/citation-index.md#fnd-cit-0300). |
 
 This page still needs review by people with FND, supporters and emergency-care teams, including a check that the suggested card fields are practical.
 

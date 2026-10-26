@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Two: Safety and Symptom Knowledge › [Module 5: Medical Safety and New Symptoms](README.md) › **Familiar Symptoms, New Symptoms, and Medical Change**
+[Home](../../README.md) › [Course](../README.md) › Part Two: Safety and Symptom Knowledge › [Module 5: Medical Safety and New Symptoms](README.md) › **Familiar Symptoms, New Symptoms, and Medical Change**
 <!-- NAV-BREADCRUMB:END -->
 
 # Familiar Symptoms, New Symptoms, and Medical Change
@@ -58,7 +58,7 @@ It might turn out to be related to FND. It might have another explanation.
 
 That's what an assessment can help work out.
 
-![Three cards compare a familiar symptom with a changed symptom and a new symptom.](../../../assets/illustrations/module-5-page-1-familiar-changed-new.svg)
+![Three cards compare a familiar symptom with a changed symptom and a new symptom.](../../assets/illustrations/module-5-page-1-familiar-changed-new.svg)
 
 *Illustration: Familiar, changed and new symptoms. These terms can help you explain what's happening.*
 
@@ -68,7 +68,7 @@ That's what an assessment can help work out.
 
 <figure class="image-60center" markdown="1">
 
-![A woman sits with her hand against her forehead while a supporter stays beside her.](../../../assets/images/lesson-12-illustration.png)
+![A woman sits with her hand against her forehead while a supporter stays beside her.](../../assets/images/lesson-12-illustration.png)
 
 <figcaption>When something feels different, your account and a supporter's observations can help explain what has changed. This scene does not identify the cause of a symptom or demonstrate a transfer technique.</figcaption>
 
@@ -114,7 +114,7 @@ But you're sitting there thinking, "Hang on. Could we look at this new problem?"
 
 There's actually a medical term for what can sometimes happen.
 
-It's called **[diagnostic overshadowing](../../../glossary/README.md#diagnostic-overshadowing)**.
+It's called **[diagnostic overshadowing](../../glossary/README.md#diagnostic-overshadowing)**.
 
 That's when an existing diagnosis gets so much attention that another possible health problem is overlooked.
 
@@ -158,7 +158,7 @@ It's guidance worked out with your clinicians about what helps during familiar s
 
 You may already have one.
 
-The Reference Library explains an [individualized functional-seizure safety plan](../../../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md). A first or uncertain seizure-like event, abnormal breathing, or prolonged or repeated events without usual recovery need urgent medical help. If no usable plan is available, seek urgent advice rather than assume the event is familiar. (*citations* [2](#citation-2), [4](#citation-4))
+The Reference Library explains an [individualized functional-seizure safety plan](../../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md). A first or uncertain seizure-like event, abnormal breathing, or prolonged or repeated events without usual recovery need urgent medical help. If no usable plan is available, seek urgent advice rather than assume the event is familiar. (*citations* [2](#citation-2), [4](#citation-4))
 
 If you haven't, that's something we'll work toward in the next lesson.
 
@@ -303,7 +303,7 @@ But here's the important part.
 
 These changes can be part of how real, involuntary functional symptoms behave.
 
-Clinicians may even use certain changes during examination as *[positive diagnostic signs](../../../glossary/README.md#positive-clinical-sign--positive-diagnostic-sign)*—findings that help them recognise FND.
+Clinicians may even use certain changes during examination as *[positive diagnostic signs](../../glossary/README.md#positive-clinical-sign--positive-diagnostic-sign)*—findings that help them recognise FND.
 
 Of course, the way a symptom behaves in one moment isn't enough for a supporter to diagnose it.
 
@@ -667,13 +667,13 @@ We'll also consider the costs of fragmented care and the potential benefits of c
 
 ## Further reading
 
-- [Memory supports](../../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md)
-- [Functional-seizure safety planning](../../../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md)
+- [Memory supports](../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md)
+- [Functional-seizure safety planning](../../reference/recovery-techniques/functional_seizures/02-individualized-episode-safety-plan.md)
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Emergency Information and Individual Safety Plans](02-emergency-information-and-individual-safety-plans.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [Home](../../README.md) · [Course](../README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -684,15 +684,15 @@ The clinical exercise is based on two published case reports. The emergency-depa
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
-| <a id="citation-2"></a>**[2]** | — | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
-| <a id="citation-3"></a>**[3]** | — | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
-| <a id="citation-4"></a>**[4]** | — | Anderson JR, Nakhate V, Stephen CD, Perez DL. Functional (psychogenic) neurological disorders: assessment and acute management in the emergency department. *Seminars in Neurology*. 2019;39(1):102–114. [FND-CIT-0070](../../../research/citation-index.md#fnd-cit-0070). [https://doi.org/10.1055/s-0038-1676844](https://doi.org/10.1055/s-0038-1676844) |
-| <a id="citation-5"></a>**[5]** | — | Das S, Yerraballa SRN, Shekhawat P. Coexisting postural orthostatic tachycardia syndrome on autonomic reflex testing in functional neurologic disorder. *American Journal of Case Reports*. 2026;27:e953323. [https://doi.org/10.12659/AJCR.953323](https://doi.org/10.12659/AJCR.953323) [FND-CIT-0293](../../../research/citation-index.md#fnd-cit-0293). |
-| <a id="citation-6"></a>**[6]** | — | Berry AJ, Wiethoff S. Revising a diagnosis of functional neurological disorder—a case report. *Oxford Medical Case Reports*. 2020;2020(9):omaa073. [https://doi.org/10.1093/omcr/omaa073](https://doi.org/10.1093/omcr/omaa073) [FND-CIT-0294](../../../research/citation-index.md#fnd-cit-0294). |
-| <a id="citation-7"></a>**[7]** | Figure 1 | Public Reddit comment, now-deleted account, in “Sharing my success story.” r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1ievray/comment/mamm6gr/). Verified October 25, 2026. Individual lived experience. [FND-CIT-0295](../../../research/citation-index.md#fnd-cit-0295). |
-| <a id="citation-8"></a>**[8]** | — | Ball HA, McWhirter L, Ballard C, Bhome R, Blackburn DJ, Edwards MJ, et al. Functional cognitive disorder: dementia’s blind spot. *Brain*. 2020;143(10):2895–2903. [https://doi.org/10.1093/brain/awaa224](https://doi.org/10.1093/brain/awaa224) [FND-CIT-0071](../../../research/citation-index.md#fnd-cit-0071). |
-| <a id="citation-9"></a>**[9]** | Figure 2 | Public parent contribution in “Teenage son diagnosed, any helpful advice/support?” r/FND. [Original discussion](https://www.reddit.com/r/FND/comments/1n8gljg/teenage_son_diagnosed_any_helpful_advicesupport/). Quotation checked in the October 25, 2026 caregiver quotation bank. Individual lived experience; memory surrounding episodes is not a confirmed FCD diagnosis. [FND-CIT-0299](../../../research/citation-index.md#fnd-cit-0299). |
+| <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
+| <a id="citation-2"></a>**[2]** | — | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
+| <a id="citation-3"></a>**[3]** | — | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
+| <a id="citation-4"></a>**[4]** | — | Anderson JR, Nakhate V, Stephen CD, Perez DL. Functional (psychogenic) neurological disorders: assessment and acute management in the emergency department. *Seminars in Neurology*. 2019;39(1):102–114. [FND-CIT-0070](../../research/citation-index.md#fnd-cit-0070). [https://doi.org/10.1055/s-0038-1676844](https://doi.org/10.1055/s-0038-1676844) |
+| <a id="citation-5"></a>**[5]** | — | Das S, Yerraballa SRN, Shekhawat P. Coexisting postural orthostatic tachycardia syndrome on autonomic reflex testing in functional neurologic disorder. *American Journal of Case Reports*. 2026;27:e953323. [https://doi.org/10.12659/AJCR.953323](https://doi.org/10.12659/AJCR.953323) [FND-CIT-0293](../../research/citation-index.md#fnd-cit-0293). |
+| <a id="citation-6"></a>**[6]** | — | Berry AJ, Wiethoff S. Revising a diagnosis of functional neurological disorder—a case report. *Oxford Medical Case Reports*. 2020;2020(9):omaa073. [https://doi.org/10.1093/omcr/omaa073](https://doi.org/10.1093/omcr/omaa073) [FND-CIT-0294](../../research/citation-index.md#fnd-cit-0294). |
+| <a id="citation-7"></a>**[7]** | Figure 1 | Public Reddit comment, now-deleted account, in “Sharing my success story.” r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1ievray/comment/mamm6gr/). Verified October 25, 2026. Individual lived experience. [FND-CIT-0295](../../research/citation-index.md#fnd-cit-0295). |
+| <a id="citation-8"></a>**[8]** | — | Ball HA, McWhirter L, Ballard C, Bhome R, Blackburn DJ, Edwards MJ, et al. Functional cognitive disorder: dementia’s blind spot. *Brain*. 2020;143(10):2895–2903. [https://doi.org/10.1093/brain/awaa224](https://doi.org/10.1093/brain/awaa224) [FND-CIT-0071](../../research/citation-index.md#fnd-cit-0071). |
+| <a id="citation-9"></a>**[9]** | Figure 2 | Public parent contribution in “Teenage son diagnosed, any helpful advice/support?” r/FND. [Original discussion](https://www.reddit.com/r/FND/comments/1n8gljg/teenage_son_diagnosed_any_helpful_advicesupport/). Quotation checked in the October 25, 2026 caregiver quotation bank. Individual lived experience; memory surrounding episodes is not a confirmed FCD diagnosis. [FND-CIT-0299](../../research/citation-index.md#fnd-cit-0299). |
 
 This page still needs review by people with FND, supporters, emergency clinicians and neurologists.
 

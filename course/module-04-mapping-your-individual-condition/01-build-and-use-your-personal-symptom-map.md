@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 4: Mapping Your Individual Condition](README.md) › **Making Sense of Your Symptoms and Questions**
+[Home](../../README.md) › [Course](../README.md) › Part One: Understanding FND › [Module 4: Mapping Your Individual Condition](README.md) › **Making Sense of Your Symptoms and Questions**
 <!-- NAV-BREADCRUMB:END -->
 
 # Making Sense of Your Symptoms and Questions
@@ -72,7 +72,7 @@ Their leg weakness has been identified as part of their FND.
 
 If their migraine has been diagnosed, it belongs with their other health conditions. If they're still being assessed for migraine, that question can stay open.
 
-Doctors sometimes call conditions that occur alongside one another [**coexisting conditions** or **comorbidities**](../../../glossary/README.md#coexisting-condition--comorbidity).
+Doctors sometimes call conditions that occur alongside one another [**coexisting conditions** or **comorbidities**](../../glossary/README.md#coexisting-condition--comorbidity).
 
 And the new dizziness?
 
@@ -80,7 +80,7 @@ That belongs in a space marked **still to be assessed**.
 
 An open question deserves attention. Writing it down helps keep it in view.
 
-New, severe or substantially changed symptoms may need prompt medical assessment. If symptoms seem urgent, seek help straight away; your notes can wait. A clinician can help you plan for these situations, as we discuss in [medical safety and individual plans](../../part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md).
+New, severe or substantially changed symptoms may need prompt medical assessment. If symptoms seem urgent, seek help straight away; your notes can wait. A clinician can help you plan for these situations, as we discuss in [medical safety and individual plans](../module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md).
 
 The same approach works for many different experiences.
 
@@ -90,7 +90,7 @@ Your map is about *your* particular combination.
 
 <figure class="image-60center" markdown="1">
 
-![A woman seen through overlapping yellow and blue lenses, with green where the lenses overlap.](../../../assets/images/lesson-10-illustration.png)
+![A woman seen through overlapping yellow and blue lenses, with green where the lenses overlap.](../../assets/images/lesson-10-illustration.png)
 
 <figcaption>Two lenses, one person. FND and another health condition can both be part of your story. Giving each its own place helps your care team see the fuller picture.</figcaption>
 
@@ -191,7 +191,7 @@ And many people with FND manage their care **without a supporter**. These same q
 
 In Lesson 10, we've been separating things that are known from things that are still being investigated. A few terms make those conversations more precise.
 
-A symptom **diagnosed as FND** has been identified by a clinician, using [*positive clinical evidence*](../../../reference/diagnostic-concepts/01-positive-diagnosis.md) appropriate to the symptom. This may include characteristic features in the history and examination.
+A symptom **diagnosed as FND** has been identified by a clinician, using [*positive clinical evidence*](../../reference/diagnostic-concepts/01-positive-diagnosis.md) appropriate to the symptom. This may include characteristic features in the history and examination.
 
 A **coexisting condition**, also called a *comorbidity*, is another condition the person has been diagnosed with. Migraine, for example, can exist alongside FND.
 
@@ -227,7 +227,7 @@ That creates a real balancing act. A visit might answer an important question, b
 
 Imagine someone who has lived with familiar functional episodes for years. After one episode, they experience a new kind of severe pain. The FND is already well known, so it becomes the focus of the conversation. Only later is a separate physical injury recognized.
 
-This example is adapted with permission from patient correspondence, with personal details left out. It illustrates a risk called [**diagnostic overshadowing**](../../../glossary/README.md#diagnostic-overshadowing): when one familiar diagnosis draws attention away from another possible explanation. The account has not been independently verified. (*citations* [10](#citation-10))
+This example is adapted with permission from patient correspondence, with personal details left out. It illustrates a risk called [**diagnostic overshadowing**](../../glossary/README.md#diagnostic-overshadowing): when one familiar diagnosis draws attention away from another possible explanation. The account has not been independently verified. (*citations* [10](#citation-10))
 
 Think of a folder labelled *FND*. The label tells us something important about the pages already inside. Each new page still deserves a look of its own.
 
@@ -354,12 +354,12 @@ In [Lesson 11](02-building-and-using-your-personal-symptom-map.md), we turn to p
 [Research and Sources](#research-and-sources)
 ***
 
-**Further reading in the Reference Library:** [Positive diagnosis](../../../reference/diagnostic-concepts/01-positive-diagnosis.md) · [Tests, investigations and what findings mean](../../../reference/diagnostic-concepts/03-tests-and-investigations.md)
+**Further reading in the Reference Library:** [Positive diagnosis](../../reference/diagnostic-concepts/01-positive-diagnosis.md) · [Tests, investigations and what findings mean](../../reference/diagnostic-concepts/03-tests-and-investigations.md)
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next lesson: Building and Using Your Personal Symptom Map](02-building-and-using-your-personal-symptom-map.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [Home](../../README.md) · [Course](../README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
@@ -377,16 +377,16 @@ The course's symptom map is an educational communication aid. The community quot
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
-| <a id="citation-2"></a>**[2]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-3"></a>**[3]** | — | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
-| <a id="citation-4"></a>**[4]** | — | Butler M, Shipston-Sharman O, Seynaeve M, et al. International online survey of 1048 individuals with functional neurological disorder. *European Journal of Neurology*. 2021;28(11):3591–3602. [FND-CIT-0014](../../../research/citation-index.md#fnd-cit-0014). [https://doi.org/10.1111/ene.15018](https://doi.org/10.1111/ene.15018) |
-| <a id="citation-5"></a>**[5]** | — | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
-| <a id="citation-6"></a>**[6]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
-| <a id="citation-7"></a>**[7]** | — | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
-| <a id="citation-8"></a>**[8]** | — | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
-| <a id="citation-9"></a>**[9]** | Figure 1 | Public community comment by lia_bean in “DAE have functional cognitive disorder?” Reddit, r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1mnw4fd/comment/n87y5xt/). Quotation verified October 22, 2026. Individual lived experience. [FND-CIT-0288](../../../research/citation-index.md#fnd-cit-0288). |
-| <a id="citation-10"></a>**[10]** | — | Anonymous patient correspondence about emergency care, supplied for lesson development and adapted with permission. Individual lived experience; not independently verified. Original correspondence and identifying details remain private. [FND-CIT-0289](../../../research/citation-index.md#fnd-cit-0289). |
+| <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
+| <a id="citation-2"></a>**[2]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-3"></a>**[3]** | — | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
+| <a id="citation-4"></a>**[4]** | — | Butler M, Shipston-Sharman O, Seynaeve M, et al. International online survey of 1048 individuals with functional neurological disorder. *European Journal of Neurology*. 2021;28(11):3591–3602. [FND-CIT-0014](../../research/citation-index.md#fnd-cit-0014). [https://doi.org/10.1111/ene.15018](https://doi.org/10.1111/ene.15018) |
+| <a id="citation-5"></a>**[5]** | — | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
+| <a id="citation-6"></a>**[6]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
+| <a id="citation-7"></a>**[7]** | — | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
+| <a id="citation-8"></a>**[8]** | — | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
+| <a id="citation-9"></a>**[9]** | Figure 1 | Public community comment by lia_bean in “DAE have functional cognitive disorder?” Reddit, r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1mnw4fd/comment/n87y5xt/). Quotation verified October 22, 2026. Individual lived experience. [FND-CIT-0288](../../research/citation-index.md#fnd-cit-0288). |
+| <a id="citation-10"></a>**[10]** | — | Anonymous patient correspondence about emergency care, supplied for lesson development and adapted with permission. Individual lived experience; not independently verified. Original correspondence and identifying details remain private. [FND-CIT-0289](../../research/citation-index.md#fnd-cit-0289). |
 
 Human editorial review and the project's evidence and editorial audits of Lesson 10 are complete. Independent clinical review remains pending.
 

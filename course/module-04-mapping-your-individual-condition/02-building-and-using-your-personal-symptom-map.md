@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 4: Mapping Your Individual Condition](README.md) › **Building and Using Your Personal Symptom Map**
+[Home](../../README.md) › [Course](../README.md) › Part One: Understanding FND › [Module 4: Mapping Your Individual Condition](README.md) › **Building and Using Your Personal Symptom Map**
 <!-- NAV-BREADCRUMB:END -->
 
 # Building and Using Your Personal Symptom Map
@@ -36,7 +36,7 @@ Another person may have good periods between episodes, even though the episodes 
 
 These details can help show where useful adjustments or treatment might begin.
 
-And an ability that comes and goes is still a real ability, just as the difficulty is real when it happens. [Changes in what you can do](../../../glossary/README.md#symptom-variability) are a recognized part of how some FND symptoms appear. (*citations* [1](#citation-1), [5](#citation-5))
+And an ability that comes and goes is still a real ability, just as the difficulty is real when it happens. [Changes in what you can do](../../glossary/README.md#symptom-variability) are a recognized part of how some FND symptoms appear. (*citations* [1](#citation-1), [5](#citation-5))
 
 Someone in the FND community put the value of an aid this way:
 
@@ -70,11 +70,11 @@ One community member described how much memory difficulties affected everyday ca
 
 [Read the community post](https://www.reddit.com/r/FND/comments/13rzn9o/memory_issues/).
 
-That's one person's experience. It shows why an [outside reminder](../../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md)—or help from someone you trust, if you have and want that support—can be valuable. You can also make and use a map on your own.
+That's one person's experience. It shows why an [outside reminder](../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md)—or help from someone you trust, if you have and want that support—can be valuable. You can also make and use a map on your own.
 
 <figure class="image-60center" markdown="1">
 
-![A person and clinician discuss a symptom map with sections for diagnoses, questions, helpful supports and safety.](../../../assets/images/lesson-11-illustration.png)
+![A person and clinician discuss a symptom map with sections for diagnoses, questions, helpful supports and safety.](../../assets/images/lesson-11-illustration.png)
 
 <figcaption>A map gives your own health information a place in the conversation. The pictured entries are examples; your safety information belongs to your own clinician-reviewed plan.</figcaption>
 
@@ -113,7 +113,7 @@ It's hardly a bestselling novel, but it could make a doctor's appointment a lot 
 
 You can build on it when something important changes. A page with only a few useful details is a good beginning.
 
-**Printable worksheet:** [Download your Symptom Map (PDF)](../../../assets/downloads/symptom-map.pdf). Page 1 has soft grey italic prompts to help you begin. Page 2 uses the same layout with open space for writing, doodling or colouring. Print whichever page suits you.
+**Printable worksheet:** [Download your Symptom Map (PDF)](../../assets/downloads/symptom-map.pdf). Page 1 has soft grey italic prompts to help you begin. Page 2 uses the same layout with open space for writing, doodling or colouring. Print whichever page suits you.
 
 ### When is tracking useful?
 
@@ -394,12 +394,12 @@ A useful map carries forward the **reasoning, practical adjustments and next dec
 [Research and Sources](#research-and-sources)
 ***
 
-**Further reading in the Reference Library:** [Thinking and memory supports](../../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md) · [Communication access](../../../reference/recovery-techniques/functional_speech_and_voice_symptoms/09-communication-support-and-aac.md)
+**Further reading in the Reference Library:** [Thinking and memory supports](../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md) · [Communication access](../../reference/recovery-techniques/functional_speech_and_voice_symptoms/09-communication-support-and-aac.md)
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Medical Safety and New Symptoms](../../part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md)
+**Continue:** [Next module: Medical Safety and New Symptoms](../module-05-medical-safety-and-new-symptoms/README.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [Home](../../README.md) · [Course](../README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
@@ -413,15 +413,15 @@ Occupational-therapy and physiotherapy consensus guidance discusses variable fun
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
-| <a id="citation-2"></a>**[2]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-3"></a>**[3]** | Figure 4 | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
-| <a id="citation-4"></a>**[4]** | — | Butler M, Shipston-Sharman O, Seynaeve M, et al. International online survey of 1048 individuals with functional neurological disorder. *European Journal of Neurology*. 2021;28(11):3591–3602. [FND-CIT-0014](../../../research/citation-index.md#fnd-cit-0014). [https://doi.org/10.1111/ene.15018](https://doi.org/10.1111/ene.15018) |
-| <a id="citation-5"></a>**[5]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
-| <a id="citation-6"></a>**[6]** | — | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
-| <a id="citation-7"></a>**[7]** | Figure 1 | Public Reddit comment by JelloAdventurous in “Advice needed: considering using mobility aid for leg weakness.” r/FND. [Original source](https://www.reddit.com/r/FND/comments/106utzh/comment/j3m7l9s/). Verified October 23, 2026. Individual lived experience. [FND-CIT-0290](../../../research/citation-index.md#fnd-cit-0290). |
-| <a id="citation-8"></a>**[8]** | Figure 2 | Public Reddit post by liamreee. “Memory issues?” r/FND. [Original source](https://www.reddit.com/r/FND/comments/13rzn9o/memory_issues/). Verified October 23, 2026. Individual lived experience. [FND-CIT-0291](../../../research/citation-index.md#fnd-cit-0291). |
-| <a id="citation-9"></a>**[9]** | Figure 3 | Public Reddit comment by Vellaciraptor in “Choking.” r/FND. [Original source](https://www.reddit.com/r/FND/comments/1nk6chc/comment/nexcp8l/). Verified October 23, 2026. Individual lived experience. [FND-CIT-0292](../../../research/citation-index.md#fnd-cit-0292). |
+| <a id="citation-1"></a>**[1]** | — | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) |
+| <a id="citation-2"></a>**[2]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-3"></a>**[3]** | Figure 4 | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
+| <a id="citation-4"></a>**[4]** | — | Butler M, Shipston-Sharman O, Seynaeve M, et al. International online survey of 1048 individuals with functional neurological disorder. *European Journal of Neurology*. 2021;28(11):3591–3602. [FND-CIT-0014](../../research/citation-index.md#fnd-cit-0014). [https://doi.org/10.1111/ene.15018](https://doi.org/10.1111/ene.15018) |
+| <a id="citation-5"></a>**[5]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [FND-CIT-0028](../../research/citation-index.md#fnd-cit-0028). [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) |
+| <a id="citation-6"></a>**[6]** | — | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
+| <a id="citation-7"></a>**[7]** | Figure 1 | Public Reddit comment by JelloAdventurous in “Advice needed: considering using mobility aid for leg weakness.” r/FND. [Original source](https://www.reddit.com/r/FND/comments/106utzh/comment/j3m7l9s/). Verified October 23, 2026. Individual lived experience. [FND-CIT-0290](../../research/citation-index.md#fnd-cit-0290). |
+| <a id="citation-8"></a>**[8]** | Figure 2 | Public Reddit post by liamreee. “Memory issues?” r/FND. [Original source](https://www.reddit.com/r/FND/comments/13rzn9o/memory_issues/). Verified October 23, 2026. Individual lived experience. [FND-CIT-0291](../../research/citation-index.md#fnd-cit-0291). |
+| <a id="citation-9"></a>**[9]** | Figure 3 | Public Reddit comment by Vellaciraptor in “Choking.” r/FND. [Original source](https://www.reddit.com/r/FND/comments/1nk6chc/comment/nexcp8l/). Verified October 23, 2026. Individual lived experience. [FND-CIT-0292](../../research/citation-index.md#fnd-cit-0292). |
 
 All three audience sections are human-authored revisions with AI assistance and have been approved by the project lead. Community quotations remain individual experiences. Source verification and the project's evidence and editorial audits are complete; independent clinical review remains pending.
 
