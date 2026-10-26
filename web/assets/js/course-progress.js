@@ -137,7 +137,13 @@
       };
     }
     function count(lessons) {
-      return lessons.filter(lesson => get(lesson.id).completed).length;
+      return lessons.filter(lesson => lesson.progressEligible &&
+        get(lesson.id).completed).length;
+    }
+    function countLabel(lessons) {
+      const tracked = lessons.filter(item => item.progressEligible).length;
+      return tracked ? count(lessons) + "/" + tracked + " tracked" :
+        "Reading only";
     }
     function nextLesson() {
       // Never reinterpret a saved original m6-1 (seizures) as new Module 6
@@ -319,13 +325,11 @@
         const lessons = part.modules.flatMap(m => m.lessons);
         const partGroup = group("part-" + part.number,
           "Part " + part.number + ": " + part.title,
-          count(lessons) + "/" + lessons.filter(item => item.progressEligible).length +
-          " tracked", opened);
+          countLabel(lessons), opened);
         for (const mod of part.modules) {
           const moduleGroup = group("module-" + (mod.sourceModule || mod.number),
             "Module " + mod.number + ": " + mod.title,
-            count(mod.lessons) + "/" +
-            mod.lessons.filter(item => item.progressEligible).length + " tracked", opened);
+            countLabel(mod.lessons), opened);
           const intro = el("a", "course-progress-intro", "Module overview");
           intro.href = mod.url;
           moduleGroup.append(intro);
