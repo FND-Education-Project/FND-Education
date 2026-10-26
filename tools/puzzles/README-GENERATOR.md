@@ -21,11 +21,11 @@ python crossword.py
 
 That's it. The launcher creates/reuses a private Python environment, installs
 dependencies on the **first launch only** (this can take a little time), and
-starts the **original Python/Streamlit generator** on port 8501.
+starts the **original Python/Streamlit generator** on port 8502.
 
-Codespaces is configured to forward port 8501 and **open the browser
+Codespaces is configured to forward port 8502 and **open the browser
 automatically**. If your browser blocks the tab, use the clickable private
-Codespaces address printed in the terminal or open port **8501** from the
+Codespaces address printed in the terminal or open port **8502** from the
 **Ports** tab. Always leave the port's visibility **Private**, never Public.
 
 To leave, select **Exit workshop → Stop server and exit** inside the app.
@@ -65,6 +65,42 @@ Once opened, the workshop supports the full workflow without further terminal co
 server and cleaning up temporary puzzle output; neither shuts down Codespaces.
 Save/download your workbook first. Restart the same Codespaces task if you
 want another session. You can also stop the terminal with Ctrl+C.
+
+### Automatic session handoff (draft PR, never automatic merge)
+
+Run `python crossword.py` from clean main or a previously merged
+`crossword/session-...` branch. The launcher checks GitHub for open workshop
+PRs and verifies local session commits, fetches origin, and fast-forwards main
+before creating a new session branch. You do not need to pull manually each
+time. If launcher code changes during the update, it restarts with that code.
+
+Startup stops with an explanation if there are uncommitted files, an open
+workshop PR, unverified session commits, local-only main commits, missing Git
+or GitHub CLI, or a network/authentication failure. It never automatically
+stashes work, resets commits, or merges PRs. Review and merge an open workshop
+PR on GitHub, then run the command again. For unsaved or unpushed work, preserve
+it on its existing branch first. Other development branches remain untouched.
+
+To install this feature initially, merge its PR and run `git switch main`
+then `git pull --ff-only` once from a clean, stopped workshop.
+
+After you click **Save edits to workbook in Codespaces** and then **Exit workshop**,
+the launcher commits only modified or new `.xlsx` workbooks directly under
+`tools/puzzles/`. It pushes the session branch, opens a **draft pull request
+targeting main**, and returns Codespaces to main if no other changes remain.
+You must review and merge that PR yourself.
+
+If you leave without saving any question-bank changes, it deletes the empty
+local session branch and returns to main; no PR is created. The launcher
+will **not** create a session branch when you start outside main or when
+other tracked/untracked work is pending; finish that work manually first.
+If the push, GitHub CLI, or PR creation fails, the committed work remains
+on the session branch, and the terminal prints recovery instructions.
+
+The handoff intentionally excludes generated crossword PDFs, ZIPs, previews,
+Cloudflare state, and other repository changes. Downloaded puzzles still
+require separate review and publication. Keep your Codespaces terminal open
+until the Git handoff message appears after the Streamlit server exits.
 
 **Progress:** Generating five choices displays a percentage bar with a
 description of the current stage: validating questions, exploring crossings,

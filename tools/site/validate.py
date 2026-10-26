@@ -262,70 +262,47 @@ def audit_audience_structure(
             previous_boundary = position + len(heading)
 
 
-def validate_course_progress_manifest(
-    course_pages: list[prepare_site.CoursePage],
-    errors: list[str],
-) -> None:
-    """Ensure the browser progress list exactly matches published lessons.
 
-    A missing lesson could silently erase someone's saved course visibility;
-    fail the build rather than publishing an incomplete curriculum index.
-    """
-    source = WEB / "assets" / "data" / "course-progress.json"
-    if not source.exists():
+def validate_course_progress_manifest(
+    pages: list[prepare_site.CoursePage], errors: list[str]
+) -> None:
+    """Do not publish a stale, duplicated, or misassigned learner manifest."""
+    manifest = WEB / "assets" / "data" / "course-progress.json"
+    if not manifest.exists():
         errors.append("Missing generated course-progress.json")
         return
-
     try:
-        data = json.loads(source.read_text(encoding="utf-8"))
-        if data.get("version") != 1:
-            raise ValueError("Unexpected course progress manifest version")
+        data = json.loads(manifest.read_text(encoding="utf-8"))
+        if data.get("version") != 2:
+            raise ValueError("Expected current learner manifest schema v2")
+        if data.get("earlierModules") != [] or data.get("eligibleLessonCount") != 57:
+            raise ValueError("Only 57 current eligible lessons; no earlier edition")
         parts = data["parts"]
-        expected_parts = {
-            page.part_number for page in course_pages
-            if page.kind == "module"
-        }
-        expected_modules = {
-            page.public_url for page in course_pages
-            if page.kind == "module"
-        }
-        expected_lessons = {
-            page.public_url for page in course_pages
-            if page.kind == "lesson"
-        }
-
-        if {part["number"] for part in parts} != expected_parts:
-            raise ValueError("Course parts do not match the published course")
-        module_urls: list[str] = []
-        lesson_urls: list[str] = []
-        lesson_ids: list[str] = []
-        for part in parts:
-            if not part["title"] or not isinstance(part["modules"], list):
-                raise ValueError("Part metadata invalid")
-            for module in part["modules"]:
-                if not module["title"] or not module["url"].startswith("/course/"):
-                    raise ValueError("Module metadata invalid")
-                module_urls.append(module["url"])
-                for lesson in module["lessons"]:
-                    if not lesson["title"] or not lesson["url"].startswith("/course/"):
-                        raise ValueError("Lesson metadata invalid")
-                    if not re.fullmatch(r"m[0-9]+-[0-9]+", lesson["id"]):
-                        raise ValueError("Unstable lesson ID")
-                    lesson_urls.append(lesson["url"])
-                    lesson_ids.append(lesson["id"])
-
-        if len(module_urls) != len(expected_modules) or (
-            set(module_urls) != expected_modules
-        ):
-            raise ValueError("Module list missing or duplicates published modules")
-        if len(lesson_urls) != len(expected_lessons) or (
-            set(lesson_urls) != expected_lessons
-        ):
-            raise ValueError("Lesson list missing or duplicates published lessons")
-        if len(lesson_ids) != len(set(lesson_ids)):
-            raise ValueError("Duplicate lesson progress identifiers")
+        if len(parts) != 5 or [p["number"] for p in parts] != list(range(1, 6)):
+            raise ValueError("Missing or out-of-order course Parts")
+        actual_modules = [m for part in parts for m in part["modules"]]
+        actual_lessons = [lesson for mod in actual_modules for lesson in mod["lessons"]]
+        expected_modules = [p for p in pages if p.kind == "module"]
+        expected_lessons = [p for p in pages if p.kind == "lesson"]
+        if (len(actual_modules) != 19 or len(actual_lessons) != 57 or
+                len(expected_modules) != 19 or len(expected_lessons) != 57):
+            raise ValueError("Course progress lesson/module count mismatch")
+        if ([m["number"] for m in actual_modules] != list(range(1, 20)) or
+                [m["url"] for m in actual_modules] !=
+                [p.public_url for p in expected_modules]):
+            raise ValueError("Course progress module order/URLs mismatch")
+        expected = [
+            (f"m{p.module_number}-{p.lesson_number}", p.public_url)
+            for p in expected_lessons
+        ]
+        actual = [(l["id"], l["url"]) for l in actual_lessons]
+        if actual != expected or len(set(actual)) != 57:
+            raise ValueError("Lesson URLs/IDs do not match the current reading order")
+        if any(l.get("progressEligible") is not True or not l.get("title")
+               for l in actual_lessons):
+            raise ValueError("Missing eligible learner label or lesson title")
     except (ValueError, KeyError, TypeError, json.JSONDecodeError) as exc:
-        errors.append(f"Invalid course progress manifest: {exc}")
+        errors.append(f"Invalid learner course-progress manifest: {exc}")
 
 
 def check_generated_source(errors: list[str]) -> tuple[int, int, int]:

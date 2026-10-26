@@ -11,11 +11,11 @@ layout: default
       COURSE
 
       {% if page.part_number %}
-        · PART {{ page.part_number }}
+        · PART {{ page.display_part_number | default: page.part_number }}
       {% endif %}
 
       {% if page.module_number %}
-        · MODULE {{ page.module_number }}
+        · MODULE {{ page.display_module_number | default: page.module_number }}
       {% endif %}
 
       {% if page.lesson_number %}

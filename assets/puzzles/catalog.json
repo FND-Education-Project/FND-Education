@@ -1,7 +1,10 @@
 {
   "modules": {
     "1": "What FND Is",
-    "2": "How FND Is Diagnosed"
+    "2": "How FND Is Diagnosed",
+    "3": "What May Cause or Affect FND?",
+    "4": "Map Your FND and Other Health Conditions",
+    "5": "Medical Safety and New Symptoms"
   },
   "items": [
     {
@@ -41,6 +44,18 @@
       "collection": "colouring"
     },
     {
+      "id": "lesson-4",
+      "module": 1,
+      "lesson": 4,
+      "title": "Available Capacity and Spoons",
+      "image": "/assets/puzzles/colouring/lesson-4-coloring-book.png",
+      "course": "/course/m1/4/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-4-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
       "id": "lesson-5",
       "module": 2,
       "lesson": 5,
@@ -61,6 +76,54 @@
       "course": "/course/m2/2/",
       "downloads": {
         "Open printable PDF": "/assets/puzzles/colouring/lesson-6-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-7",
+      "module": 3,
+      "lesson": 7,
+      "title": "Causes, Risk Factors, Triggers, and Maintaining Factors",
+      "image": "/assets/puzzles/colouring/lesson-7-coloring-book.png",
+      "course": "/course/m3/1/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-7-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-8",
+      "module": 3,
+      "lesson": 8,
+      "title": "Brain Networks and Their Teamwork",
+      "image": "/assets/puzzles/colouring/lesson-8-coloring-book.png",
+      "course": "/course/m3/2/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-8-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-9",
+      "module": 3,
+      "lesson": 9,
+      "title": "The shopper's journey",
+      "image": "/assets/puzzles/colouring/lesson-9-coloring-book.png",
+      "course": "/course/m3/3/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-9-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-10",
+      "module": 4,
+      "lesson": 10,
+      "title": "Making Sense of Your Symptoms",
+      "image": "/assets/puzzles/colouring/lesson-10-coloring-book.png",
+      "course": "/course/m4/1/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-10-coloring-book.pdf"
       },
       "collection": "colouring"
     },
@@ -124,13 +187,13 @@
       "id": "module-1-review",
       "module": 1,
       "lesson": null,
-      "title": "Module 1 review",
-      "image": "/assets/puzzles/thumbnails/Module-1-FND-crossword-10-2026.svg",
+      "title": "What Is Functional Neurological Disorder? — Module 1 Review",
+      "image": "/assets/puzzles/thumbnails/what-is-functional-neurological-disorder-module-1-summary-m1-normal.svg",
       "course": "/course/m1/",
       "downloads": {
-        "Normal": "/assets/puzzles/crosswords/Module-1-FND-crossword-10-2026.pdf",
-        "Easy": "/assets/puzzles/crosswords/Module-1-FND-crossword-easy-10-2026.pdf",
-        "Answer key": "/assets/puzzles/crosswords/Module-1-FND-crossword-answer-key-10-2026.pdf"
+        "Normal": "/assets/puzzles/crosswords/Module-1-Summary/what-is-functional-neurological-disorder-module-1-summary-m1-normal.pdf",
+        "Easy": "/assets/puzzles/crosswords/Module-1-Summary/what-is-functional-neurological-disorder-module-1-summary-m1-easy.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-1-Summary/what-is-functional-neurological-disorder-module-1-summary-m1-answer-key.pdf"
       },
       "collection": "crosswords"
     },
@@ -161,6 +224,206 @@
         "Answer key": "/assets/puzzles/crosswords/Module-2-Lesson-6/tests-uncertainty-and-coexisting-conditions-m2-6-answer-key.pdf"
       },
       "collection": "crosswords"
+    },
+    {
+      "id": "module-2-review",
+      "module": 2,
+      "lesson": null,
+      "title": "How Is FND Diagnosed? — Module 2 Review",
+      "image": "/assets/puzzles/thumbnails/how-is-fnd-diagnosed-module-2-summary-m2-normal.svg",
+      "course": "/course/m2/",
+      "downloads": {
+        "Normal": "/assets/puzzles/crosswords/Module-2-Summary/how-is-fnd-diagnosed-module-2-summary-m2-normal.pdf",
+        "Easy": "/assets/puzzles/crosswords/Module-2-Summary/how-is-fnd-diagnosed-module-2-summary-m2-easy.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-2-Summary/how-is-fnd-diagnosed-module-2-summary-m2-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-7",
+      "module": 3,
+      "lesson": 7,
+      "title": "Causes, Risk Factors and Triggers",
+      "image": "/assets/puzzles/thumbnails/causes-risk-factors-and-triggers-m3-7-normal.svg",
+      "course": "/course/m3/1/",
+      "downloads": {
+        "Normal": "/assets/puzzles/crosswords/Module-3-Lesson-7/causes-risk-factors-and-triggers-m3-7-normal.pdf",
+        "Easy": "/assets/puzzles/crosswords/Module-3-Lesson-7/causes-risk-factors-and-triggers-m3-7-easy.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-3-Lesson-7/causes-risk-factors-and-triggers-m3-7-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-8",
+      "module": 3,
+      "lesson": 8,
+      "title": "Brain Networks, Prediction, Attention, and Agency",
+      "image": "/assets/puzzles/thumbnails/brain-networks-prediction-attention-and-agency-m3-8-normal.svg",
+      "course": "/course/m3/2/",
+      "downloads": {
+        "Normal": "/assets/puzzles/crosswords/Module-3-Lesson-8/brain-networks-prediction-attention-and-agency-m3-8-normal.pdf",
+        "Easy": "/assets/puzzles/crosswords/Module-3-Lesson-8/brain-networks-prediction-attention-and-agency-m3-8-easy.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-3-Lesson-8/brain-networks-prediction-attention-and-agency-m3-8-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-9",
+      "module": 3,
+      "lesson": 9,
+      "title": "Physical, Psychological, and Social Factors",
+      "image": "/assets/puzzles/thumbnails/physical-psychological-and-social-factors-m3-9-normal.svg",
+      "course": "/course/m3/3/",
+      "downloads": {
+        "Normal": "/assets/puzzles/crosswords/Module-3-Lesson-9/physical-psychological-and-social-factors-m3-9-normal.pdf",
+        "Easy": "/assets/puzzles/crosswords/Module-3-Lesson-9/physical-psychological-and-social-factors-m3-9-easy.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-3-Lesson-9/physical-psychological-and-social-factors-m3-9-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "module-3-review",
+      "module": 3,
+      "lesson": null,
+      "title": "What May Cause or Affect FND? — Module 3 Review",
+      "image": "/assets/puzzles/thumbnails/what-may-cause-or-affect-fnd-module-3-summary-m3-normal.svg",
+      "course": "/course/m3/",
+      "downloads": {
+        "Normal": "/assets/puzzles/crosswords/Module-3-Summary/what-may-cause-or-affect-fnd-module-3-summary-m3-normal.pdf",
+        "Easy": "/assets/puzzles/crosswords/Module-3-Summary/what-may-cause-or-affect-fnd-module-3-summary-m3-easy.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-3-Summary/what-may-cause-or-affect-fnd-module-3-summary-m3-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-10",
+      "module": 4,
+      "lesson": 10,
+      "title": "Making Sense of Your Symptoms",
+      "image": "/assets/puzzles/thumbnails/making-sense-of-your-symptoms-m4-10-normal.svg",
+      "course": "/course/m4/1/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-4-Lesson-10/making-sense-of-your-symptoms-m4-10-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-4-Lesson-10/making-sense-of-your-symptoms-m4-10-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-4-Lesson-10/making-sense-of-your-symptoms-m4-10-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-11",
+      "module": 4,
+      "lesson": 11,
+      "title": "Building and Using Your Symptom Map",
+      "image": "/assets/puzzles/thumbnails/building-and-using-your-symptom-map-m4-11-normal.svg",
+      "course": "/course/m4/2/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-4-Lesson-11/building-and-using-your-symptom-map-m4-11-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-4-Lesson-11/building-and-using-your-symptom-map-m4-11-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-4-Lesson-11/building-and-using-your-symptom-map-m4-11-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-12",
+      "module": 5,
+      "lesson": 12,
+      "title": "Familiar Symptoms, New Symptoms, and Medical Change",
+      "image": "/assets/puzzles/thumbnails/familiar-symptoms-and-new-symptoms-m5-12-normal.svg",
+      "course": "/course/m5/1/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-5-Lesson-12/familiar-symptoms-and-new-symptoms-m5-12-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-5-Lesson-12/familiar-symptoms-and-new-symptoms-m5-12-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-5-Lesson-12/familiar-symptoms-and-new-symptoms-m5-12-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-12",
+      "module": 5,
+      "lesson": 12,
+      "title": "Familiar Symptoms, New Symptoms, and Medical Change",
+      "image": "/assets/puzzles/colouring/lesson-12-coloring-book.png",
+      "course": "/course/m5/1/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-12-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-13",
+      "module": 5,
+      "lesson": 13,
+      "title": "Emergency Information and Individual Safety Plans",
+      "image": "/assets/puzzles/thumbnails/the-individual-safety-plan-m5-13-normal.svg",
+      "course": "/course/m5/2/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-5-Lesson-13/the-individual-safety-plan-m5-13-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-5-Lesson-13/the-individual-safety-plan-m5-13-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-5-Lesson-13/the-individual-safety-plan-m5-13-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-13",
+      "module": 5,
+      "lesson": 13,
+      "title": "Emergency Information and Individual Safety Plans",
+      "image": "/assets/puzzles/colouring/lesson-13-coloring-book.png",
+      "course": "/course/m5/2/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-13-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-14",
+      "module": 5,
+      "lesson": 14,
+      "title": "Using Your Safety Plan and Deciding When to Get Urgent Help",
+      "image": "/assets/puzzles/thumbnails/using-your-safety-plan-m5-14-normal.svg",
+      "course": "/course/m5/3/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-5-Lesson-14/using-your-safety-plan-m5-14-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-5-Lesson-14/using-your-safety-plan-m5-14-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-5-Lesson-14/using-your-safety-plan-m5-14-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-14",
+      "module": 5,
+      "lesson": 14,
+      "title": "Using Your Safety Plan and Deciding When to Get Urgent Help",
+      "image": "/assets/puzzles/colouring/lesson-14-coloring-book.png",
+      "course": "/course/m5/3/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-14-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-14b",
+      "module": 5,
+      "lesson": 14,
+      "title": "Using Your Safety Plan and Deciding When to Get Urgent Help — Module recap",
+      "image": "/assets/puzzles/colouring/lesson-14b-coloring-book.png",
+      "course": "/course/m5/3/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-14b-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-11",
+      "module": 4,
+      "lesson": 11,
+      "title": "Building and Using Your Personal Symptom Map",
+      "image": "/assets/puzzles/colouring/lesson-11-coloring-book.png",
+      "course": "/course/m4/2/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-11-coloring-book.pdf"
+      },
+      "collection": "colouring"
     }
   ]
 }

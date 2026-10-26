@@ -1,74 +1,47 @@
 # FND Education Course
 
-<!-- NAV-BREADCRUMB:START -->
-[Home](../README.md) › [Course](README.md)
-<!-- NAV-BREADCRUMB:END -->
+> **Working draft:** This course includes automatically generated working lessons awaiting human authoring. Human-authored pages are marked individually.
 
-> **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
-
-Work through Functional Neurological Disorder (FND) one lesson at a time, starting with the basics, or browse the modules below to explore the topics most useful to you.
+Follow the course in order, or open the topics most useful to you. Every lesson has sections for the Person with FND, Supporters, Clinicians, and Research and Sources. Care, access supports and accommodations do not depend on completing this course.
 
 ## Part One: Understanding FND
 
-- [What Is Functional Neurological Disorder?](part-1-understanding-fnd/module-01-what-fnd-is/README.md) — 5 pages
-- [How Is FND Diagnosed?](part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md) — 3 pages
-- [What May Cause or Affect FND?](part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/README.md) — 4 pages
-- [Map Your FND and Other Health Conditions](part-1-understanding-fnd/module-04-mapping-your-individual-condition/README.md) — 2 pages
+- [Module 1: What Is Functional Neurological Disorder?](module-01-what-fnd-is/README.md) — 4 lessons
+- [Module 2: How Is FND Diagnosed?](module-02-how-fnd-is-diagnosed/README.md) — 2 lessons
+- [Module 3: What May Cause or Affect FND?](module-03-causes-mechanisms-and-honest-uncertainty/README.md) — 3 lessons
+- [Module 4: Map Your FND and Other Health Conditions](module-04-mapping-your-individual-condition/README.md) — 2 lessons
+- [Module 5: Medical Safety and New Symptoms](module-05-medical-safety-and-new-symptoms/README.md) — 3 lessons
 
-## Part Two: Safety and Symptom Knowledge
+## Part Two: Understanding Attention, Action, and Body Signals
 
-- [Medical Safety and New Symptoms](part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md) — 4 pages
-- [Functional Seizures and Other Episodes](part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/README.md) — 5 pages
-- [Movement, Tics, Weakness, Walking, and Falls](part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/README.md) — 6 pages
-- [Sensory, Visual, Balance, and Dizziness Symptoms](part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/README.md) — 5 pages
-- [Speech, Voice, Swallowing, and Breathing Symptoms](part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/README.md) — 5 pages
+- [Module 6: Attention and Automatic Control](module-06-attention-and-automatic-control/README.md) — 3 lessons
+- [Module 7: Prediction, Body Signals, and Agency](module-07-prediction-interoception-and-agency/README.md) — 4 lessons
+- [Module 8: Recognizing Symptoms and Finding Information](module-08-recognizing-symptoms-and-finding-information/README.md) — 3 lessons
 
-## Part Three: Common Non-Motor Difficulties
+## Part Three: Applying What You Have Learned
 
-- [Thinking, Memory, and Dissociation](part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/README.md) — 4 pages
-- [Pain, Migraine, Fatigue, and Sleep](part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/README.md) — 6 pages
-- [Autonomic and Whole-Body Symptoms](part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/README.md) — 4 pages
+- [Module 9: Rehabilitation and Neuroplasticity](module-09-rehabilitation-and-neuroplasticity/README.md) — 3 lessons
+- [Module 10: Pacing, Activity, and Available Capacity](module-10-pacing-and-available-capacity/README.md) — 3 lessons
 
-## Part Four: Treatment and Rehabilitation
+## Part Four: Treatment and Living With FND
 
-- [Build Your FND Treatment Team](part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md) — 4 pages
-- [Rehabilitation and Neuroplastic Change](part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/README.md) — 4 pages
-- [Pacing Activity and Avoiding Boom-and-Bust](part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md) — 4 pages
-- [Psychological Treatment Without Blame](part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md) — 4 pages
+- [Module 11: Building an Individual Treatment Team](module-11-building-an-individual-treatment-team/README.md) — 3 lessons
+- [Module 12: Psychological Treatment Without Blame](module-12-psychological-treatment-without-blame/README.md) — 3 lessons
+- [Module 13: Daily Living, Accessibility, and Equipment](module-13-daily-living-accessibility-and-equipment/README.md) — 4 lessons
+- [Module 14: Relationships, Identity, and Grief](module-14-relationships-identity-and-grief/README.md) — 3 lessons
+- [Module 15: Healthcare Communication and Self-Advocacy](module-15-healthcare-communication-and-self-advocacy/README.md) — 3 lessons
+- [Module 16: Work, Disability, and Community Participation](module-16-work-disability-and-community-participation/README.md) — 3 lessons
 
-## Part Five: Living With FND
+## Part Five: Long-Term Management
 
-- [Daily Living, Accessibility, and Equipment](part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md) — 5 pages
-- [Relationships, Identity, and Grief](part-5-living-with-fnd/module-18-relationships-identity-and-grief/README.md) — 4 pages
-- [Healthcare Communication and Self-Advocacy](part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/README.md) — 4 pages
-- [Work, Disability, and Community Participation](part-5-living-with-fnd/module-20-work-disability-and-community-participation/README.md) — 4 pages
+- [Module 17: Setbacks, Relapse, and Changing Symptoms](module-17-setbacks-relapse-and-changing-symptoms/README.md) — 3 lessons
+- [Module 18: Build Your Personal FND Handbook](module-18-building-your-personal-fnd-handbook/README.md) — 3 lessons
+- [Module 19: Review Progress and Choose Next Steps](module-19-reviewing-progress/README.md) — 2 lessons
 
-## Part Six: Long-Term Management
+## About the course
 
-- [Setbacks, Relapse, and Changing Symptoms](part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/README.md) — 4 pages
-- [Build Your Personal FND Handbook](part-6-long-term-management/module-22-building-your-personal-fnd-handbook/README.md) — 4 pages
-- [Review Progress and Choose Next Steps](part-6-long-term-management/module-23-reviewing-progress/README.md) — 3 pages
+This course contains **19 sequentially numbered modules and 57 focused lessons**. The lessons teach foundations and safety, then attention and body–brain concepts, symptom descriptions and finding information, rehabilitation, pacing, treatment and everyday life.
 
-## About This Course
+Automatically generated lessons are temporary working drafts while the project lead develops human-authored versions. Publication checks address evidence, safety, citations, navigation and technical behavior. Human authoring and two later audits follow; these checks are not independent clinical sign-off.
 
-The course currently has 23 module overviews and 74 focused lessons, for 97 pages in those modules. Each module begins with a short overview and links to one to five focused articles.
-
-Parts One through Six (Modules 1–23) now contain reader-facing working drafts based on the detailed human-planned syllabus and the wording pattern established in Module 1. Pages personally edited by the project lead are marked separately from temporary automatically generated drafts. Contributors and reviewers are invited to help with human writing, evidence, safety, accessibility, lived experience and plain-language editing.
-
-Every focused article uses the same four sections:
-
-1. **For the Person With FND**
-2. **For Family, Friends, and Other Supporters**
-3. **For Clinicians and the Care Team**
-4. **Research and Sources**
-
-The clinician section focuses on practical usefulness to the patient: helping the person understand their own presentation, assessing what may help, supporting realistic improvement and continuing useful care when improvement is limited.
-
-[Review the course-organization decisions](../docs/project/course-organization-decisions.md)
-
-
-<!-- NAV-CONTEXT:START -->
-**Continue:** [Start with Module 1](part-1-understanding-fnd/module-01-what-fnd-is/README.md)
-
-**Navigate:** [Home](../README.md) · [Course](README.md) · [Reference Library](../reference/README.md) · [Site Map](../SITEMAP.md)
-<!-- NAV-CONTEXT:END -->
+The [Reference Library](../reference/README.md) contains symptom-specific information, diagnostic methods, coexisting conditions and recovery approaches. Original artwork, puzzles and downloadable materials remain in their separate asset collections.

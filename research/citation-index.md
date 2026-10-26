@@ -8,8 +8,8 @@ This table gives every source a stable project ID. Course pages repeat a compact
 
 | Citation ID | Short citation | Source type | Main subjects | Currently used on |
 |---|---|---|---|---|
-| [FND-CIT-0001](#fnd-cit-0001) | Bennett et al., 2021 | Peer-reviewed practical review | overview, positive diagnosis, involuntary symptoms, comorbidity | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [Module 2 overview](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md); [positive signs](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md); [diagnostic uncertainty](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md); [brain networks](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md); [judging factors](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md); [Module 4 overview](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/README.md); [personal symptom map](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md); [FND terminology glossary](../glossary/README.md); [limb weakness sign](../reference/diagnostic-signs/01-functional-limb-weakness.md); [functional paralysis](../reference/diagnostic-signs/15-functional-paralysis.md); [functional dystonia](../reference/diagnostic-signs/04-functional-dystonia.md); [functional seizures](../reference/diagnostic-signs/06-functional-seizures.md); [mental health, stigma and belief](../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md); [biopsychosocial overview](../reference/biopsychosocial-experiences/README.md); [emotional regulation and overwhelm](../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md); [self-doubt and variable disability](../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md) |
-| [FND-CIT-0002](#fnd-cit-0002) | Espay et al., 2018 | Peer-reviewed clinical review | diagnostic criteria, positive diagnosis, psychological-stressor criterion | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [Module 2 overview](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md); [positive signs](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md); [diagnostic uncertainty](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md); [causes and triggers](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md); [judging factors](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md); [FND terminology glossary](../glossary/README.md); [functional tremor](../reference/diagnostic-signs/02-functional-tremor.md); [functional sensory symptoms](../reference/diagnostic-signs/07-functional-sensory-symptoms.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md) |
+| [FND-CIT-0001](#fnd-cit-0001) | Bennett et al., 2021 | Peer-reviewed practical review | overview, positive diagnosis, involuntary symptoms, comorbidity | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [Module 2 overview](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md); [positive signs](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md); [diagnostic uncertainty](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md); [brain networks](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md); [judging factors](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md); [Module 4 overview](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/README.md); [personal symptom map](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md); [FND terminology glossary](../glossary/README.md); [limb weakness sign](../reference/diagnostic-signs/01-functional-limb-weakness.md); [functional paralysis](../reference/diagnostic-signs/15-functional-paralysis.md); [functional dystonia](../reference/diagnostic-signs/04-functional-dystonia.md); [functional seizures](../reference/diagnostic-signs/06-functional-seizures.md); [mental health, stigma and belief](../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md); [biopsychosocial overview](../reference/biopsychosocial-experiences/README.md); [emotional regulation and overwhelm](../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md); [self-doubt and variable disability](../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md); [Lesson 11](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md); [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md) |
+| [FND-CIT-0002](#fnd-cit-0002) | Espay et al., 2018 | Peer-reviewed clinical review | diagnostic criteria, positive diagnosis, psychological-stressor criterion | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [Module 2 overview](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md); [positive signs](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md); [diagnostic uncertainty](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md); [causes and triggers](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md); [judging factors](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md); [FND terminology glossary](../glossary/README.md); [functional tremor](../reference/diagnostic-signs/02-functional-tremor.md); [functional sensory symptoms](../reference/diagnostic-signs/07-functional-sensory-symptoms.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md); [Lesson 10](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md) |
 | [FND-CIT-0003](#fnd-cit-0003) | Hallett et al., 2022 | Peer-reviewed review | genuine symptoms, variability, stressors, multidisciplinary treatment | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [positive signs](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md); [Module 3 overview](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/README.md); [causes and triggers](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md); [brain networks](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md); [FND terminology glossary](../glossary/README.md); [History of FND](../reference/history-of-fnd.md); [biopsychosocial experiences](../reference/biopsychosocial-experiences/README.md); [emotional regulation and overwhelm](../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md); [recovery pressure and self-blame](../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md) |
 | [FND-CIT-0004](#fnd-cit-0004) | Bègue et al., 2019 | Systematic neuroimaging review | structural findings, software/hardware analogy, mechanism uncertainty | [Module 3 overview](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/README.md); [brain networks](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md) |
 | [FND-CIT-0005](#fnd-cit-0005) | Pick et al., 2019 | Peer-reviewed review | psychosocial adversity, emotional processing, biopsychosocial model | [Module 3 overview](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/README.md); [causes and triggers](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md); [judging factors](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md); [biopsychosocial experiences](../reference/biopsychosocial-experiences/README.md); [emotional regulation and overwhelm](../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
@@ -17,11 +17,11 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0007](#fnd-cit-0007) | Gelauff et al., 2014 | Systematic review | functional motor outcomes, prognosis, evidence limitations | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
 | [FND-CIT-0008](#fnd-cit-0008) | Asadi-Pooya et al., 2020 | Systematic terminology review | functional seizures, PNES, terminology preferences | [FND terminology glossary](../glossary/README.md) |
 | [FND-CIT-0009](#fnd-cit-0009) | Hingray et al., 2025 | ILAE task-force terminology proposal | functional/dissociative seizures, FDS, seizure terminology | [FND terminology glossary](../glossary/README.md) |
-| [FND-CIT-0010](#fnd-cit-0010) | Tolchin et al., 2026 | AAN practice guideline | functional seizures, management, terminology, diagnostic communication | [Module 2 overview](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md); [diagnostic uncertainty](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md); [functional seizures diagnostic technique](../reference/diagnostic-signs/06-functional-seizures.md); [shared goals](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md); [safe practice plan](../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/02-building-a-safe-practice-plan-and-evaluating-neuroplasticity-claims.md); [review delayed worsening](../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/03-reviewing-delayed-worsening-and-changing-the-plan.md); [consent and trauma](../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md); [FND terminology glossary](../glossary/README.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md); [Module 3 Lesson 2](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md) |
-| [FND-CIT-0011](#fnd-cit-0011) | Nicholson et al., 2020 | Professional consensus recommendations | occupational therapy, remission and exacerbation, flexible goals, pacing and relapse planning | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md); [available capacity](../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md); [Module 4 overview](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/README.md); [personal symptom map](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md); [external thinking system](../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/03-build-an-external-thinking-and-memory-system.md); [fatigue](../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/03-fatigue-and-post-activity-worsening.md); [autonomic plan](../course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/03-build-a-personal-autonomic-symptom-plan.md); [team roles](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md); [safe practice plan](../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/02-building-a-safe-practice-plan-and-evaluating-neuroplasticity-claims.md); [Module 15 overview](../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md); [load and baselines](../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/01-understanding-load-baselines-and-boom-and-bust.md); [flexible activity plan](../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/02-planning-activity-rest-and-capacity-changes.md); [review delayed worsening](../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/03-reviewing-delayed-worsening-and-changing-the-plan.md); [FCD background](../reference/functional-cognitive-disorder.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md); [self-doubt and variable disability](../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md); [guilt and receiving help](../reference/biopsychosocial-experiences/04-guilt-dependence-and-receiving-help.md); [unpredictability and overload](../reference/biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md); [recovery pressure and self-blame](../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md); [Module 3 Lesson 3](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md) |
-| [FND-CIT-0012](#fnd-cit-0012) | Rutten et al., 2025 | Qualitative stakeholder study | patient-centred outcomes, daily activities, quality of life | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md); [Module 4 overview](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/README.md); [personal symptom map](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md); [Module 13 overview](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md); [shared goals](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md); [recovery pressure and self-blame](../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
+| [FND-CIT-0010](#fnd-cit-0010) | Tolchin et al., 2026 | AAN practice guideline | functional seizures, management, terminology, diagnostic communication | [Module 2 overview](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md); [diagnostic uncertainty](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md); [functional seizures diagnostic technique](../reference/diagnostic-signs/06-functional-seizures.md); [shared goals](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md); [safe practice plan](../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/02-building-a-safe-practice-plan-and-evaluating-neuroplasticity-claims.md); [review delayed worsening](../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/03-reviewing-delayed-worsening-and-changing-the-plan.md); [consent and trauma](../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md); [FND terminology glossary](../glossary/README.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md); [Module 3 Lesson 2](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md); [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md); [Module 5 overview](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md) |
+| [FND-CIT-0011](#fnd-cit-0011) | Nicholson et al., 2020 | Professional consensus recommendations | occupational therapy, remission and exacerbation, flexible goals, pacing and relapse planning | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md); [available capacity](../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md); [Module 4 overview](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/README.md); [personal symptom map](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md); [external thinking system](../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/03-build-an-external-thinking-and-memory-system.md); [fatigue](../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/03-fatigue-and-post-activity-worsening.md); [autonomic plan](../course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/03-build-a-personal-autonomic-symptom-plan.md); [team roles](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md); [safe practice plan](../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/02-building-a-safe-practice-plan-and-evaluating-neuroplasticity-claims.md); [Module 15 overview](../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md); [load and baselines](../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/01-understanding-load-baselines-and-boom-and-bust.md); [flexible activity plan](../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/02-planning-activity-rest-and-capacity-changes.md); [review delayed worsening](../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/03-reviewing-delayed-worsening-and-changing-the-plan.md); [FCD background](../reference/functional-cognitive-disorder.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md); [self-doubt and variable disability](../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md); [guilt and receiving help](../reference/biopsychosocial-experiences/04-guilt-dependence-and-receiving-help.md); [unpredictability and overload](../reference/biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md); [recovery pressure and self-blame](../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md); [Module 3 Lesson 3](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md); [Lesson 11](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md); [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md) |
+| [FND-CIT-0012](#fnd-cit-0012) | Rutten et al., 2025 | Qualitative stakeholder study | patient-centred outcomes, daily activities, quality of life | [Module 1 overview](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md); [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md); [Module 4 overview](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/README.md); [personal symptom map](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md); [Module 13 overview](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md); [shared goals](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md); [recovery pressure and self-blame](../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [Lesson 11](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md) |
 | [FND-CIT-0013](#fnd-cit-0013) | Dworetzky & Baslet, 2025 | Peer-reviewed practical review | practical management, multidisciplinary treatment, comorbidity | [team roles](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md); [supported local care](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
-| [FND-CIT-0014](#fnd-cit-0014) | Butler et al., 2021 | International online survey | associated symptoms, psychiatric comorbidity, patient perspectives | [Module 3 overview](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/README.md); [causes and triggers](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md); [judging factors](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md); [personal symptom map](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md); [symptom interaction](../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/05-when-pain-migraine-fatigue-and-sleep-interact.md); [mental health, stigma and belief](../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
+| [FND-CIT-0014](#fnd-cit-0014) | Butler et al., 2021 | International online survey | associated symptoms, psychiatric comorbidity, patient perspectives | [Module 3 overview](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/README.md); [causes and triggers](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md); [judging factors](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md); [personal symptom map](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md); [symptom interaction](../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/05-when-pain-migraine-fatigue-and-sleep-interact.md); [mental health, stigma and belief](../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [Lesson 11](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md) |
 | [FND-CIT-0015](#fnd-cit-0015) | Steinruecke et al., 2024 | Systematic review and meta-analysis | pain, CRPS, IBS, fibromyalgia | [causes and triggers](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md); [judging factors](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md); [Module 11 overview](../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/README.md); [chronic pain](../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/01-chronic-pain.md); [symptom interaction](../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/05-when-pain-migraine-fatigue-and-sleep-interact.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md) |
 | [FND-CIT-0016](#fnd-cit-0016) | Hoeritzauer et al., 2018 | Retrospective cohort study | scan-negative cauda equina syndrome, differential diagnosis | Not currently used (historical source retained) |
 | [FND-CIT-0017](#fnd-cit-0017) | Sekine et al., 2025 | Systematic review | biopsychosocial prognosis, participation, contextual factors | [judging factors](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md); [biopsychosocial model](../course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md); [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
@@ -29,13 +29,13 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0019](#fnd-cit-0019) | Bartl et al., 2020 | Systematic review | functional tremor, distractibility, entrainment, electrophysiology | [functional tremor](../reference/diagnostic-signs/02-functional-tremor.md) |
 | [FND-CIT-0020](#fnd-cit-0020) | Nonnekes et al., 2020 | Peer-reviewed sign-based review | functional gait, inconsistency, incongruity, examination pitfalls | [functional gait disorder](../reference/diagnostic-signs/05-functional-gait-disorder.md) |
 | [FND-CIT-0021](#fnd-cit-0021) | Frucht et al., 2021 | Peer-reviewed specialist review | functional dystonia, fixed posture, differential diagnosis and multidisciplinary treatment | [functional dystonia diagnosis](../reference/diagnostic-signs/04-functional-dystonia.md); [functional dystonia recovery](../reference/recovery-techniques/04-functional-dystonia.md); [detailed dystonia techniques](../reference/recovery-techniques/functional_dystonia/README.md); [facial diagnosis](../reference/diagnostic-signs/14-functional-facial-symptoms.md); [facial recovery](../reference/recovery-techniques/14-functional-facial-symptoms.md) |
-| [FND-CIT-0022](#fnd-cit-0022) | Edwards et al., 2024 | IFCN handbook review | clinical neurophysiology, functional jerks, EEG–EMG, back-averaging | [functional jerks](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md) |
+| [FND-CIT-0022](#fnd-cit-0022) | Edwards et al., 2024 | IFCN handbook review | clinical neurophysiology, functional jerks, EEG–EMG, back-averaging | [functional jerks](../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md); [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md) |
 | [FND-CIT-0023](#fnd-cit-0023) | Nielsen et al., 2026 | Case-control study | functional sensory signs, midline splitting, vibration splitting | [functional sensory symptoms](../reference/diagnostic-signs/07-functional-sensory-symptoms.md); [History of FND](../reference/history-of-fnd.md) |
 | [FND-CIT-0024](#fnd-cit-0024) | Ramsay et al., 2024 | Peer-reviewed clinical review | functional visual symptoms, positive signs, preserved vision | [functional visual symptoms](../reference/diagnostic-signs/08-functional-visual-symptoms.md) |
-| [FND-CIT-0025](#fnd-cit-0025) | Baker et al., 2021 | Professional consensus recommendations | functional communication, swallowing, cough, speech-language therapy | [speech and voice](../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md); [swallowing and globus](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md); [cough and upper airway](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md); [facial recovery](../reference/recovery-techniques/14-functional-facial-symptoms.md); [team roles](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md) |
+| [FND-CIT-0025](#fnd-cit-0025) | Baker et al., 2021 | Professional consensus recommendations | functional communication, swallowing, cough, speech-language therapy | [speech and voice](../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md); [swallowing and globus](../reference/diagnostic-signs/10-functional-swallowing-and-globus.md); [cough and upper airway](../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md); [facial recovery](../reference/recovery-techniques/14-functional-facial-symptoms.md); [team roles](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md); [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md) |
 | [FND-CIT-0026](#fnd-cit-0026) | McWhirter et al., 2022 | Proposed diagnostic risk model | Functional Cognitive Disorder, internal inconsistency, differential diagnosis | [Functional Cognitive Disorder](../reference/diagnostic-signs/12-functional-cognitive-disorder.md); [Module 10 overview](../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/README.md); [cognitive symptoms and FCD](../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md); [FCD background](../reference/functional-cognitive-disorder.md) |
 | [FND-CIT-0027](#fnd-cit-0027) | Staab et al., 2017 | Bárány Society consensus criteria | PPPD, dizziness, vestibular diagnosis | [PPPD criteria](../reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md); [PPPD detailed-page use map](#pppd-detailed-page-citation-use-map) |
-| [FND-CIT-0028](#fnd-cit-0028) | Nielsen et al., 2015 | Professional consensus recommendations | functional motor rehabilitation, movement retraining, physiotherapy | [weakness techniques](../reference/recovery-techniques/01-functional-limb-weakness.md); [paralysis techniques](../reference/recovery-techniques/15-functional-paralysis.md); [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md); [jerk techniques](../reference/recovery-techniques/03-functional-jerks-and-myoclonus.md); [dystonia techniques](../reference/recovery-techniques/04-functional-dystonia.md); [gait techniques](../reference/recovery-techniques/05-functional-gait-disorder.md); [sensory techniques](../reference/recovery-techniques/07-functional-sensory-symptoms.md); [facial recovery](../reference/recovery-techniques/14-functional-facial-symptoms.md); [brain networks](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md); [personal symptom map](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md); [Module 14 overview](../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/README.md); [how rehabilitation may work](../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/01-how-fnd-rehabilitation-may-work.md); [evaluating rewiring claims](../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/03-evaluating-neuroplasticity-and-rewiring-claims.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md); [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md) |
+| [FND-CIT-0028](#fnd-cit-0028) | Nielsen et al., 2015 | Professional consensus recommendations | functional motor rehabilitation, movement retraining, physiotherapy | [weakness techniques](../reference/recovery-techniques/01-functional-limb-weakness.md); [paralysis techniques](../reference/recovery-techniques/15-functional-paralysis.md); [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md); [jerk techniques](../reference/recovery-techniques/03-functional-jerks-and-myoclonus.md); [dystonia techniques](../reference/recovery-techniques/04-functional-dystonia.md); [gait techniques](../reference/recovery-techniques/05-functional-gait-disorder.md); [sensory techniques](../reference/recovery-techniques/07-functional-sensory-symptoms.md); [facial recovery](../reference/recovery-techniques/14-functional-facial-symptoms.md); [brain networks](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md); [Module 14 overview](../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/README.md); [how rehabilitation may work](../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/01-how-fnd-rehabilitation-may-work.md); [evaluating rewiring claims](../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/03-evaluating-neuroplasticity-and-rewiring-claims.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md); [remission and recovery](../course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md); [Lesson 11](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md); [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md) |
 | [FND-CIT-0029](#fnd-cit-0029) | Nielsen et al., 2024 | Multicentre phase 3 randomized trial | specialist physiotherapy, functional motor disorder, outcomes | [weakness techniques](../reference/recovery-techniques/01-functional-limb-weakness.md); [paralysis techniques](../reference/recovery-techniques/15-functional-paralysis.md); [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md); [dystonia recovery](../reference/recovery-techniques/04-functional-dystonia.md); [gait techniques](../reference/recovery-techniques/05-functional-gait-disorder.md); [facial recovery](../reference/recovery-techniques/14-functional-facial-symptoms.md); [Module 14 overview](../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/README.md); [how rehabilitation may work](../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/01-how-fnd-rehabilitation-may-work.md); [evaluating rewiring claims](../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/03-evaluating-neuroplasticity-and-rewiring-claims.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md) |
 | [FND-CIT-0030](#fnd-cit-0030) | Macías-García et al., 2024 | Randomized clinical trial | combined physiotherapy and CBT, functional movement disorder | [weakness techniques](../reference/recovery-techniques/01-functional-limb-weakness.md); [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md); [dystonia recovery](../reference/recovery-techniques/04-functional-dystonia.md); [gait techniques](../reference/recovery-techniques/05-functional-gait-disorder.md); [how rehabilitation may work](../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/01-how-fnd-rehabilitation-may-work.md) |
 | [FND-CIT-0031](#fnd-cit-0031) | Espay et al., 2014 | Proof-of-concept study | functional tremor, tremor retrainment, biofeedback | [tremor techniques](../reference/recovery-techniques/02-functional-tremor.md) |
@@ -74,16 +74,16 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0064](#fnd-cit-0064) | Paredes-Echeverri et al., 2022 | Systematic review and meta-analysis | autonomic, endocrine and inflammatory findings in FND | [available capacity](../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md); [causes and triggers](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md); [judging factors](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md); [Module 12 overview](../course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/README.md); [autonomic symptoms](../course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/01-autonomic-symptoms-overlap-and-other-causes.md); [measurement](../course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/02-useful-tracking-measurements-and-clinical-assessment.md); [personal plan](../course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/03-build-a-personal-autonomic-symptom-plan.md) |
 | [FND-CIT-0065](#fnd-cit-0065) | Jason et al., 2008 | Observational study and proposed management model | ME/CFS, Energy Envelope Theory, perceived and expended energy | [available capacity](../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md); [fatigue and post-activity worsening](../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/03-fatigue-and-post-activity-worsening.md) |
 | [FND-CIT-0066](#fnd-cit-0066) | Sanal-Hayes et al., 2023 | Scoping review | ME/CFS, pacing, energy management, heterogeneous evidence | [available capacity](../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md); [Module 11 overview](../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/README.md); [fatigue and post-activity worsening](../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/03-fatigue-and-post-activity-worsening.md); [Module 15 overview](../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md); [load and baselines](../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/01-understanding-load-baselines-and-boom-and-bust.md); [review delayed worsening](../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/03-reviewing-delayed-worsening-and-changing-the-plan.md) |
-| [FND-CIT-0067](#fnd-cit-0067) | Pick et al., 2020 | Systematic review and recommendations | FND outcome measurement, patient-reported and clinician-rated measures, evidence gaps | [Module 4 overview](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/README.md); [personal symptom map](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md); [flexible activity plan](../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/02-planning-activity-rest-and-capacity-changes.md); [self-doubt and variable disability](../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md); [recovery pressure and self-blame](../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md) |
-| [FND-CIT-0068](#fnd-cit-0068) | Finkelstein et al., 2021 | Peer-reviewed narrative review | emergency recognition, differential diagnosis, communication | [Module 5 overview](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md) |
-| [FND-CIT-0069](#fnd-cit-0069) | Mcloughlin et al., 2025 | Peer-reviewed scoping review | iatrogenic harm, diagnostic overshadowing, stigma | [Module 5 overview](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md); [consent and trauma](../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md); [mental health, stigma and belief](../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md) |
-| [FND-CIT-0070](#fnd-cit-0070) | Anderson et al., 2019 | Peer-reviewed clinical review | emergency assessment, acute management, communication | [using a safety plan](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md); [Professional roles](../reference/professional-roles-in-fnd-care.md) |
-| [FND-CIT-0071](#fnd-cit-0071) | Ball et al., 2020 | Peer-reviewed review | Functional Cognitive Disorder, internal inconsistency, differential diagnosis | [Module 10 overview](../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/README.md); [cognitive symptoms and FCD](../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md); [external thinking system](../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/03-build-an-external-thinking-and-memory-system.md); [FCD background](../reference/functional-cognitive-disorder.md); [Professional roles](../reference/professional-roles-in-fnd-care.md) |
+| [FND-CIT-0067](#fnd-cit-0067) | Pick et al., 2020 | Systematic review and recommendations | FND outcome measurement, patient-reported and clinician-rated measures, evidence gaps | [Module 4 overview](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/README.md); [personal symptom map](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md); [flexible activity plan](../course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/02-planning-activity-rest-and-capacity-changes.md); [self-doubt and variable disability](../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md); [recovery pressure and self-blame](../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md); [Lesson 11](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md) |
+| [FND-CIT-0068](#fnd-cit-0068) | Finkelstein et al., 2021 | Peer-reviewed narrative review | emergency recognition, differential diagnosis, communication | [Module 5 overview](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md); [Lesson 10](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md); [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md); [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md) |
+| [FND-CIT-0069](#fnd-cit-0069) | Mcloughlin et al., 2025 | Peer-reviewed scoping review | iatrogenic harm, diagnostic overshadowing, stigma | [Module 5 overview](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md); [consent and trauma](../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md); [mental health, stigma and belief](../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md); [Lesson 10](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md); [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md) |
+| [FND-CIT-0070](#fnd-cit-0070) | Anderson et al., 2019 | Peer-reviewed clinical review | emergency assessment, acute management, communication | [using a safety plan](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md); [Professional roles](../reference/professional-roles-in-fnd-care.md); [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md); [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md) |
+| [FND-CIT-0071](#fnd-cit-0071) | Ball et al., 2020 | Peer-reviewed review | Functional Cognitive Disorder, internal inconsistency, differential diagnosis | [Module 10 overview](../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/README.md); [cognitive symptoms and FCD](../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md); [external thinking system](../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/03-build-an-external-thinking-and-memory-system.md); [FCD background](../reference/functional-cognitive-disorder.md); [Professional roles](../reference/professional-roles-in-fnd-care.md); [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md); [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md) |
 | [FND-CIT-0072](#fnd-cit-0072) | Campbell et al., 2023 | Systematic review and meta-analysis | dissociation, FND subgroups, heterogeneity | [Module 10 overview](../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/README.md); [dissociation](../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/02-dissociation-and-altered-awareness.md) |
 | [FND-CIT-0073](#fnd-cit-0073) | Kannan et al., 2025 | Systematic review and meta-analysis | sleep disturbance, insomnia, FND | [Module 11 overview](../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/README.md); [sleep](../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/04-sleep-problems-and-sleep-disorders.md); [symptom interaction](../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/05-when-pain-migraine-fatigue-and-sleep-interact.md) |
 | [FND-CIT-0074](#fnd-cit-0074) | Raj et al., 2022 | Peer-reviewed clinical review | POTS criteria, differential diagnosis, management | [Module 12 overview](../course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/README.md); [autonomic overlap](../course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/01-autonomic-symptoms-overlap-and-other-causes.md); [measurement](../course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/02-useful-tracking-measurements-and-clinical-assessment.md); [personal plan](../course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/03-build-a-personal-autonomic-symptom-plan.md) |
 | [FND-CIT-0075](#fnd-cit-0075) | Koerber et al., 2023 | Systematic review | wearable heart-rate accuracy, skin tone, measurement equity | [measurement](../course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/02-useful-tracking-measurements-and-clinical-assessment.md) |
-| [FND-CIT-0076](#fnd-cit-0076) | Lehn et al., 2025 | Multidisciplinary treatment recommendations | team roles, coordination, access, rehabilitation | [Module 13 overview](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md); [team roles](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md); [shared goals](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md); [supported local care](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md); [safe practice plan](../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/02-building-a-safe-practice-plan-and-evaluating-neuroplasticity-claims.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md) |
+| [FND-CIT-0076](#fnd-cit-0076) | Lehn et al., 2025 | Multidisciplinary treatment recommendations | team roles, coordination, access, rehabilitation | [Module 13 overview](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md); [team roles](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md); [shared goals](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md); [supported local care](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md); [safe practice plan](../course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/02-building-a-safe-practice-plan-and-evaluating-neuroplasticity-claims.md); [History of FND](../reference/history-of-fnd.md); [Professional roles](../reference/professional-roles-in-fnd-care.md); [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md) |
 | [FND-CIT-0077](#fnd-cit-0077) | Gutkin et al., 2021 | Systematic review | CBT, psychodynamic therapy, evidence limitations | [Module 16 overview](../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md); [why psychological treatment does not mean imaginary](../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md); [choosing therapy](../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md); [Professional roles](../reference/professional-roles-in-fnd-care.md) |
 | [FND-CIT-0078](#fnd-cit-0078) | British Psychological Society, 2024 | Professional briefing paper | integrated care, matched psychological care, service design | [shared goals](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md); [supported local care](../course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md); [Module 16 overview](../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md); [why psychological treatment does not mean imaginary](../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md); [choosing therapy](../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md); [consent and trauma](../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md); [emotional regulation and overwhelm](../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md); [mental health, stigma and belief](../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md); [recovery pressure and self-blame](../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md) |
 | [FND-CIT-0079](#fnd-cit-0079) | Ludwig et al., 2018 | Systematic review and meta-analysis | stressful life events, maltreatment, diagnostic criteria | [functional meaning](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md); [Module 16 overview](../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md); [consent and trauma](../course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md) |
@@ -159,6 +159,17 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0260](#fnd-cit-0260) | García-Roldán E, Almodóvar-Sierra Á, Luque-Tirado A, et al | Assessment / measurement source | FCD evidence and population limits | [FCD overview](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) |
 | [FND-CIT-0261](#fnd-cit-0261) | Baum CM, Connor LT, Morrison T, Hahn M, Dromerick AW, Edwards DF | Assessment / measurement source | FCD evidence and population limits | [FCD overview](../reference/diagnostic-signs/12-functional-cognitive-disorder.md) |
 | [FND-CIT-0262](#fnd-cit-0262) | Meletaki et al., 2024 | French NPQ validation | PPPD symptom measurement and clinical overlap | [PPPD source-use map](#pppd-diagnostic-expansion-source-use-map) |
+| [FND-CIT-0282](#fnd-cit-0282) | Wieder et al., 2021 | Meta-analysis | Responses to suggestion | [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md) |
+| [FND-CIT-0283](#fnd-cit-0283) | Pellicciari et al., 2014 | Case-control study | Symptom modelling in movement disorders | [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md) |
+| [FND-CIT-0284](#fnd-cit-0284) | FND Head Jerking, 2023 | Community account | Individual experience of attention and head movements | [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md) |
+| [FND-CIT-0285](#fnd-cit-0285) | Community: Extremely sensitive nervous system | Lived experience | Partial benefit and continuing sensitivity; not treatment-effect evidence. | [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md) |
+| [FND-CIT-0286](#fnd-cit-0286) | Community: I need advice | Lived experience | Seizures interrupting conversations; the writer reports diagnostic uncertainty, not confirmed FND. | [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md) |
+| [FND-CIT-0287](#fnd-cit-0287) | Project contributor, 2026 | Lived experience | Psychology and symptom sensitivity; individual perspective | [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md) |
+| [FND-CIT-0288](#fnd-cit-0288) | Public Reddit comment, lia_bean | Lived experience | Remembering when events happened; individual account | [Lesson 10](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md) |
+| [FND-CIT-0289](#fnd-cit-0289) | Anonymous patient correspondence | Lived experience | Changed presentation and emergency-care experience; adapted with permission, not independently verified | [Lesson 10](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md) |
+| [FND-CIT-0290](#fnd-cit-0290) | JelloAdventurous, community account | Lived experience | Mobility aids and participation | [Lesson 11](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md) |
+| [FND-CIT-0291](#fnd-cit-0291) | liamreee, community account | Lived experience | Memory issues? | [Lesson 11](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md) |
+| [FND-CIT-0292](#fnd-cit-0292) | Vellaciraptor, community account | Lived experience | Post-eating sensory experience | [Lesson 11](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md) |
 
 ## Functional speech and voice detailed-page citation use map
 
@@ -364,6 +375,13 @@ Use this source for its broad clinical overview, diagnostic-pitfall table, posit
 
 **Additional diagnostic uses:** [Functional paralysis expansion source-use map](#functional-paralysis-diagnostic-expansion-source-use-map).
 
+**Additional current use — clinician handout:** [clinician orientation handout](../assets/downloads/meeting-a-person-with-fnd-clinician-handout.pdf). General orientation; not an individualized emergency plan. Sources reviewed October 25, 2026.
+
+**Module 5 current use (October 25, 2026):** [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md).
+
+
+**Concepts-first course use:** [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md); [Lesson 23](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md); [Lesson 24](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md); [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md).
+
 ## FND-CIT-0002
 
 Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264)
@@ -394,6 +412,9 @@ Drane DL, Fani N, Hallett M, Khalsa SS, Perez DL, Roberts NA. A framework for un
 
 Use this source for a proposed circuit-and-construct framework involving emotion processing, agency, attention, interoception, and predictive processing. Label it as a developing pathophysiology framework rather than a settled explanation for every person.
 
+
+**Concepts-first course use:** [Lesson 18](../course/concepts-first/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 21](../course/concepts-first/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md).
+
 ## FND-CIT-0007
 
 Gelauff J, Stone J, Edwards M, Carson A. The prognosis of functional (psychogenic) motor symptoms: a systematic review. *Journal of Neurology, Neurosurgery & Psychiatry*. 2014;85(2):220–226. [https://doi.org/10.1136/jnnp-2013-305321](https://doi.org/10.1136/jnnp-2013-305321)
@@ -418,6 +439,15 @@ Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Man
 
 Use this source for current American Academy of Neurology evidence-based guidance on functional seizures, including diagnostic communication, evaluation for coexisting conditions, and management. The guideline uses “functional seizures” while noting alternative and historical labels; do not use it to imply that a single treatment or causal model applies to every person.
 
+**Additional current use — clinician handout:** [clinician orientation handout](../assets/downloads/meeting-a-person-with-fnd-clinician-handout.pdf). General orientation; not an individualized emergency plan. Sources reviewed October 25, 2026.
+
+**Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
+
+**Additional current use:** [Module 5 overview](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md).
+
+
+**Concepts-first course use:** [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md); [Lesson 23](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md); [Lesson 24](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 27](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md).
+
 ## FND-CIT-0011
 
 Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281)
@@ -429,6 +459,11 @@ Use this consensus source for flexible, person-chosen functional goals and its d
 **Additional current use — functional paralysis:** [Finding a Movement You Can Start With](../reference/recovery-techniques/functional_paralysis/01-available-movement.md); [Practising a Useful Task With Attention on Its Purpose](../reference/recovery-techniques/functional_paralysis/02-meaningful-task-and-attention.md); [Using Equipment and Protecting Your Body](../reference/recovery-techniques/functional_paralysis/03-equipment-and-body-care.md); [Choosing a Manageable Amount of Practice](../reference/recovery-techniques/functional_paralysis/04-responsive-practice-plan.md); [Getting the Team Working From One Plan](../reference/recovery-techniques/functional_paralysis/05-coordinated-care.md); [Making a Plan for Familiar Paralysis Episodes](../reference/recovery-techniques/functional_paralysis/06-familiar-episode-plan.md); [Keeping Life Open While Movement Is Limited](../reference/recovery-techniques/functional_paralysis/07-participation-and-continuing-support.md); [Functional paralysis overview](../reference/recovery-techniques/15-functional-paralysis.md).
 
 **Additional current use — functional drop attacks:** [Agreeing What to Do After a Fall](../reference/recovery-techniques/functional_drop_attacks/01-injury-response-plan.md); [Making Everyday Places Safer](../reference/recovery-techniques/functional_drop_attacks/02-hazards-and-daily-activities.md); [Choosing Support for Getting Around](../reference/recovery-techniques/functional_drop_attacks/03-mobility-and-access.md); [Looking for a Warning Only If There Is One](../reference/recovery-techniques/functional_drop_attacks/04-warning-and-safe-response.md); [Getting Up Safely After an Uninjured Event](../reference/recovery-techniques/functional_drop_attacks/05-recovering-from-the-floor.md); [Returning to Activities With the Right Support](../reference/recovery-techniques/functional_drop_attacks/06-supported-return-to-activity.md); [Keeping Other Conditions in the Care Plan](../reference/recovery-techniques/functional_drop_attacks/07-overlapping-conditions-and-review.md); [Functional drop attacks overview](../reference/recovery-techniques/16-functional-drop-attacks.md).
+
+**Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
+
+
+**Concepts-first course use:** [Lesson 15](../course/concepts-first/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 16](../course/concepts-first/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/concepts-first/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md); [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 21](../course/concepts-first/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md); [Lesson 24](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md); [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md); [Lesson 29](../course/concepts-first/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md); [Lesson 30](../course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md).
 
 ## FND-CIT-0012
 
@@ -512,6 +547,9 @@ Use this source for specialist clinical-neurophysiology methods in functional mo
 
 **Additional diagnostic uses:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
 
+
+**Additional current use:** [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md).
+
 ## FND-CIT-0023
 
 Nielsen G, Higgins R, Stone J, Coebergh J, Edwards MJ. Functional sensory symptoms and signs: a case-control study of 102 patients. *Brain Communications*. 2026;8(1):fcag031. [https://doi.org/10.1093/braincomms/fcag031](https://doi.org/10.1093/braincomms/fcag031)
@@ -532,6 +570,11 @@ Use this source for professional consensus on positive assessment and speech-and
 
 **Speech-and-voice expansion note (September 17, 2026):** Reviewed the main article and supplementary recommendations. Broader dysphonia trials are discussed, but do not isolate each FND technique. The collection’s continuing-access approach to AAC is a stated qualification of this paper’s concern about aids perpetuating mutism; see FND-CIT-0106. The paper’s characterization of selective mutism as voluntary refusal is not adopted in these pages.
 
+**Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
+
+
+**Concepts-first course use:** [Lesson 16](../course/concepts-first/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 18](../course/concepts-first/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md).
+
 ## FND-CIT-0026
 
 McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. [https://doi.org/10.1017/S1092852921000845](https://doi.org/10.1017/S1092852921000845)
@@ -546,6 +589,9 @@ Use this source for the five consensus diagnostic criteria for PPPD and for the 
 
 **Additional diagnostic uses:** [PPPD expansion source-use map](#pppd-diagnostic-expansion-source-use-map).
 
+
+**Concepts-first course use:** [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 23](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
+
 ## FND-CIT-0028
 
 **Additional course use:** [Positive Signs and the Neurological Examination](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md).
@@ -558,6 +604,11 @@ Use this source for education, redirected attention, task-oriented automatic mov
 
 **Additional current use — functional drop attacks:** [Choosing Support for Getting Around](../reference/recovery-techniques/functional_drop_attacks/03-mobility-and-access.md); [Returning to Activities With the Right Support](../reference/recovery-techniques/functional_drop_attacks/06-supported-return-to-activity.md).
 
+**Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
+
+
+**Concepts-first course use:** [Lesson 16](../course/concepts-first/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/concepts-first/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md).
+
 ## FND-CIT-0029
 
 Nielsen G, Stone J, Lee TC, et al.; Physio4FMD study group. Specialist physiotherapy for functional motor disorder in England and Scotland (Physio4FMD): a pragmatic, multicentre, phase 3 randomised controlled trial. *The Lancet Neurology*. 2024;23(7):675–686. [https://doi.org/10.1016/S1474-4422(24)00135-2](https://doi.org/10.1016/S1474-4422(24)00135-2)
@@ -565,6 +616,9 @@ Nielsen G, Stone J, Lee TC, et al.; Physio4FMD study group. Specialist physiothe
 Use this source for program-level evidence about specialist FND physiotherapy. The primary 12-month physical-function outcome was not clearly superior, although several secondary and patient-rated outcomes favored specialist care; do not cite it as proof of one exercise or universal response.
 
 **Additional current use — functional paralysis:** [Finding a Movement You Can Start With](../reference/recovery-techniques/functional_paralysis/01-available-movement.md); [Getting the Team Working From One Plan](../reference/recovery-techniques/functional_paralysis/05-coordinated-care.md); [Functional paralysis overview](../reference/recovery-techniques/15-functional-paralysis.md).
+
+
+**Concepts-first course use:** [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 27](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md); [Lesson 30](../course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md).
 
 ## FND-CIT-0030
 
@@ -589,6 +643,9 @@ Use this source for pilot evidence about seizure-focused CBT-informed psychother
 Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0)
 
 Use this source for mixed evidence on dissociative-seizure-specific CBT. The primary seizure-frequency outcome was not significantly different at 12 months, while several secondary outcomes improved; represent both findings.
+
+
+**Concepts-first course use:** [Lesson 27](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md).
 
 ## FND-CIT-0034
 
@@ -834,11 +891,21 @@ Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurolo
 
 Use this narrative review for emergency-department recognition of positive FND signs, acute differential diagnosis, communication and proportionate management. It is not a validated triage rule, and its advice must not be used to dismiss a new or coexisting condition.
 
+**Module 5 current use (October 25, 2026):** [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md); [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
+
+**Additional current use:** [Module 5 overview](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md).
+
 ## FND-CIT-0069
 
 Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283)
 
 Use this scoping review for harms related to misdiagnosis, delayed diagnosis, diagnostic overshadowing, over-diagnosis, stigmatizing interactions and inappropriate treatment. It supports a balanced approach to new symptoms, not automatic investigation or non-investigation.
+
+**Additional current use — clinician handout:** [clinician orientation handout](../assets/downloads/meeting-a-person-with-fnd-clinician-handout.pdf). General orientation; not an individualized emergency plan. Sources reviewed October 25, 2026.
+
+**Module 5 current use (October 25, 2026):** [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md).
+
+**Additional current use:** [Module 5 overview](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md).
 
 ## FND-CIT-0070
 
@@ -846,11 +913,18 @@ Anderson JR, Nakhate V, Stephen CD, Perez DL. Functional (psychogenic) neurologi
 
 Use this review for acute assessment, positive examination features, communication and emergency management. Preserve the historical term only in the article title; the paper is clinical guidance rather than a patient-specific decision rule.
 
+**Module 5 current use (October 25, 2026):** [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md); [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
+
 ## FND-CIT-0071
 
 Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain*. 2020;143(10):2895–2903. [https://doi.org/10.1093/brain/awaa224](https://doi.org/10.1093/brain/awaa224)
 
 Use this review for a preliminary FCD definition, internal inconsistency as a positive clinical feature, differential diagnosis and varied trajectories. It does not provide a single decisive test, guarantee reversibility or rule out later neurodegenerative or other disease.
+
+**Module 5 current use (October 25, 2026):** [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md); [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
+
+
+**Concepts-first course use:** [Lesson 15](../course/concepts-first/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md).
 
 ## FND-CIT-0072
 
@@ -885,6 +959,8 @@ Use this review for limitations and equity concerns in wrist-worn optical heart-
 Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970)
 
 Use these recommendations for need-based multidisciplinary care, professional roles, coordination, supported local care and practical rehabilitation principles. The paper combines available research with multidisciplinary expert consensus in an Australian context; do not treat it as a comparative trial of team designs or proof that telehealth fits every person.
+
+**Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
 
 ## FND-CIT-0077
 
@@ -1105,6 +1181,9 @@ Expert review; diagnostic formulation and individualized management. The review 
 **Additional diagnostic uses:** [Functional facial expansion source-use map](#functional-facial-diagnostic-expansion-source-use-map).
 
 **Additional diagnostic uses:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
+
+
+**Concepts-first course use:** [Lesson 17](../course/concepts-first/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md).
 
 ## FND-CIT-0111
 
@@ -1956,6 +2035,9 @@ ME/CFS guideline: energy management is not a cure; fixed incremental exercise pr
 
 **Additional current use:** [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
 
+
+**Concepts-first course use:** [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md); [Lesson 29](../course/concepts-first/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md); [Lesson 30](../course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md).
+
 ## FND-CIT-0207
 
 Edinger JD, Arnedt JT, Bertisch SM, et al. Behavioral and psychological treatments for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guideline. *J Clin Sleep Med*. 2021;17:255–262. [doi:10.5664/jcsm.8986](https://doi.org/10.5664/jcsm.8986).
@@ -2087,6 +2169,9 @@ Seven original-entry expansions, September 24, 2026. The qualitative model and o
 Huys ACML, Haggard P, Bhatia KP, Edwards MJ. Misdirected attentional focus in functional tremor. *Brain*. 2021;144(11):3436–3450. [DOI](https://doi.org/10.1093/brain/awab230). [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC8677517/).
 
 Experimental movement/attention study; selected functional action-tremor participants, not a bedside diagnostic-accuracy validation. Supports attention-related models, not a universal cause or a guaranteed treatment.
+
+
+**Concepts-first course use:** [Lesson 15](../course/concepts-first/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 16](../course/concepts-first/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/concepts-first/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md).
 
 ## FND-CIT-0221
 
@@ -2277,6 +2362,9 @@ Current use: [History of FND](../reference/history-of-fnd.md).
 ### Current uses: professional-roles-in-fnd-care.md
 
 [professional-roles-in-fnd-care.md](../reference/professional-roles-in-fnd-care.md): [FND-CIT-0002](#fnd-cit-0002), [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0012](#fnd-cit-0012), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0029](#fnd-cit-0029), [FND-CIT-0070](#fnd-cit-0070), [FND-CIT-0071](#fnd-cit-0071), [FND-CIT-0076](#fnd-cit-0076), [FND-CIT-0077](#fnd-cit-0077), [FND-CIT-0083](#fnd-cit-0083).
+
+
+**Concepts-first course use:** [Lesson 18](../course/concepts-first/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md).
 
 ## Functional sensory diagnostic expansion source-use map
 
@@ -2693,3 +2781,323 @@ Nisticò V, Demartini B, et al. Pain in Functional Motor Disorders: Clinical Cor
 **Type and scope:** Table 1: MS and Parkinson’s disease/parkinsonism in 466 adults with motor FND.
 
 **Current use:** [Tests, Diagnostic Uncertainty, and Coexisting Conditions](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md).
+
+## FND-CIT-0282
+
+Wieder L, Brown R, Thompson T, Terhune DB. Suggestibility in functional neurological disorder: a meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(2):150–157. [DOI](https://doi.org/10.1136/jnnp-2020-323706).
+
+**Type and scope:** Group differences in responses to verbal suggestion and symptom-induction protocols; not a measure of everyday autonomy or proof of individual cause.
+
+**Current use:** [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md).
+
+## FND-CIT-0283
+
+Pellicciari R, Superbo M, Gigante AF, Livrea P, Defazio G. Disease modeling in functional movement disorders. *Parkinsonism & Related Disorders*. 2014;20(11):1287–1289. DOI: 10.1016/j.parkreldis.2014.09.017.
+
+**Type and scope:** Small case-control study of exposure to similar movement symptoms; association, not evidence of deliberate imitation or a demonstrated cause. Historical diagnostic framing should be interpreted alongside current positive-diagnosis guidance. Original-paper link is retained in the internal Lesson 8 Audit 2 report.
+
+**Current use:** [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md).
+
+## FND-CIT-0284
+
+Public community post, “FND Head Jerking.” Reddit, r/FND. October 30, 2023. [Original post](https://www.reddit.com/r/FND/comments/17jx51h/fnd_head_jerking/). Accessed and quotation verified October 20, 2026.
+
+**Type and scope:** Individual lived experience; not research or treatment-effect evidence.
+
+**Current use:** [Brain Networks, Prediction, Attention, and Agency](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md).
+
+## FND-CIT-0285
+
+Public community post, “Extremely sensitive nervous system.” Reddit, r/FND. [Original post](https://www.reddit.com/r/FND/comments/1qjpe0n/extremely_sensitive_nervous_system/). Accessed and quotation verified October 21, 2026.
+
+**Type and scope:** Individual lived experience. Partial benefit and continuing sensitivity; not treatment-effect evidence.
+
+**Current use:** [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md).
+
+## FND-CIT-0286
+
+Public community post, “I need advice.” Reddit, r/FND. [Original post](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/). Accessed and quotation verified October 21, 2026.
+
+**Type and scope:** Individual lived experience. Seizures interrupting conversations; the writer reports diagnostic uncertainty, not confirmed FND.
+
+**Current use:** [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md).
+
+**Module 5 current use (October 25, 2026):** [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
+
+Lesson 14 uses a separate supporter comment about agreeing communication boundaries at a calmer time, not the original poster’s account. Quotation checked against indexed discussion text October 25, 2026.
+
+## FND-CIT-0287
+
+Project contributor. First-person reflection: “It's hard to separate psychology from FND when my FND is so sensitive to psychology.” Supplied directly and approved for anonymous inclusion October 21, 2026.
+
+**Type and scope:** Individual lived experience; not a universal symptom pattern or proof of mechanism or original cause. Wording preserved from the approved internal snippet. No external publication URL.
+
+**Current use:** [Lesson 9](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md), Figure 3.
+
+## FND-CIT-0288
+
+Public community comment by lia_bean in “DAE have functional cognitive disorder?” Reddit, r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1mnw4fd/comment/n87y5xt/). Accessed and quotation verified October 22, 2026.
+
+**Type and scope:** Individual lived experience of remembering when events happened; not evidence of a confirmed diagnosis or the effectiveness of a symptom map.
+
+**Current use:** [Lesson 10](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md), Figure 1.
+
+## FND-CIT-0289
+
+Anonymous patient correspondence about emergency care, supplied for lesson development and adapted with permission.
+
+**Type and scope:** Individual lived experience; not independently verified. Used to illustrate reasoning about changed symptoms, coexistence and diagnostic overshadowing, not to establish symptom causation or clinical fault. Original correspondence, institutions and identifying details remain private; no external publication URL.
+
+**Current use:** [Lesson 10](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md), supporter and clinician accounts.
+
+## FND-CIT-0290
+
+Public Reddit comment by JelloAdventurous in “Advice needed: considering using mobility aid for leg weakness.” r/FND. [Original source](https://www.reddit.com/r/FND/comments/106utzh/comment/j3m7l9s/). Verified October 23, 2026. Individual lived experience.
+
+**Type and scope:** Individual report, not evidence of diagnosis, causation or treatment effectiveness.
+
+**Current use:** [Lesson 11](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md), Figure 1.
+
+## FND-CIT-0291
+
+Public Reddit post by liamreee. “Memory issues?” r/FND. [Original source](https://www.reddit.com/r/FND/comments/13rzn9o/memory_issues/). Verified October 23, 2026. Individual lived experience.
+
+**Type and scope:** Individual report, not evidence of diagnosis, causation or treatment effectiveness.
+
+**Current use:** [Lesson 11](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md), Figure 2.
+
+## FND-CIT-0292
+
+Public Reddit comment by Vellaciraptor in “Choking.” r/FND. [Original source](https://www.reddit.com/r/FND/comments/1nk6chc/comment/nexcp8l/). Verified October 23, 2026. Individual lived experience.
+
+**Type and scope:** Individual report, not evidence of diagnosis, causation or treatment effectiveness. The comment remains public in a thread whose original post was deleted.
+
+**Current use:** [Lesson 11](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md), Figure 3.
+
+## FND-CIT-0293
+
+Das S, Yerraballa SRN, Shekhawat P. Coexisting postural orthostatic tachycardia syndrome on autonomic reflex testing in functional neurologic disorder. *American Journal of Case Reports*. 2026;27:e953323. [https://doi.org/10.12659/AJCR.953323](https://doi.org/10.12659/AJCR.953323)
+
+**Type and scope:** Single case report; coexistence and clinical reasoning, not prevalence or treatment-effect evidence.
+
+**Current use:** [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md); [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
+
+## FND-CIT-0294
+
+Berry AJ, Wiethoff S. Revising a diagnosis of functional neurological disorder—a case report. *Oxford Medical Case Reports*. 2020;2020(9):omaa073. [https://doi.org/10.1093/omcr/omaa073](https://doi.org/10.1093/omcr/omaa073)
+
+**Type and scope:** Single case report; revised PSP formulation with probable continuing functional overlay.
+
+**Current use:** [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md).
+
+## FND-CIT-0295
+
+Public Reddit comment, now-deleted account, in “Sharing my success story.” r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1ievray/comment/mamm6gr/). Verified October 25, 2026. Individual lived experience.
+
+**Type and scope:** Individual account of eye assessment and treatment; not evidence of general treatment effectiveness.
+
+**Current use:** [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md).
+
+## FND-CIT-0296
+
+Public Reddit comment in “What do you guys think about during seizures?” r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1o3u59q/comment/nj1xi6u/). Verified October 25, 2026. Individual lived experience.
+
+**Type and scope:** Individual recovery description; “catatonic” is self-description, not a confirmed clinical diagnosis.
+
+**Current use:** [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
+
+## FND-CIT-0297
+
+O’Mahony B, Nielsen G, Baxendale S, Edwards MJ, Yogarajah M. Economic Cost of Functional Neurologic Disorders: A Systematic Review. *Neurology*. 2023;101(2):e202–e214. [https://doi.org/10.1212/WNL.0000000000207388](https://doi.org/10.1212/WNL.0000000000207388)
+
+**Type and scope:** Systematic review of 16 heterogeneous studies; economic burden, without an established cost-effective treatment in the review.
+
+**Current use:** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md).
+
+## FND-CIT-0298
+
+National Institute for Health and Care Excellence. *Decision-making and mental capacity*. NG108. 2018. [Recommendations](https://www.nice.org.uk/guidance/ng108/chapter/recommendations). Guidance for people aged 16 and over, within the England and Wales legal framework.
+
+**Type and scope:** Decision support and capacity guidance for people aged 16+ in England and Wales; not a universal legal framework.
+
+**Current use:** [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
+
+## FND-CIT-0299
+
+Public Reddit discussion, “Teenage son diagnosed, any helpful advice/support?”, r/FND. [Original discussion](https://www.reddit.com/r/FND/comments/1n8gljg/teenage_son_diagnosed_any_helpful_advicesupport/). Quotation Q034 from a parent, as verified in *FND-Caregiver-Quotation-Bank-Lessons-13-75.docx*, October 25, 2026.
+
+**Type and scope:** Individual caregiver experience about observations and written records when a teenager cannot remember an event; does not establish functional cognitive disorder or a universal recording strategy.
+
+**Current use:** [Lesson 12, Supporter section](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md).
+
+**Additional concepts-first use:** [Lesson 18](../course/concepts-first/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md).
+
+
+## FND-CIT-0300
+
+Public Reddit comment in “Me help wife and put up FND info whiteboard”, r/FND. [Original comment](https://www.reddit.com/r/FND/comments/1u9enx1/comment/osfpj8r/). Quotation Q093 by a spouse, as verified in *FND-Caregiver-Quotation-Bank-Lessons-13-75.docx*, October 25, 2026.
+
+**Type and scope:** Individual supporter report that an existing detailed care plan was not consistently consulted. The original forum post was deleted and its approach disputed; this surviving quotation is not endorsement of the original whiteboard or evidence for a particular document design.
+
+**Current use:** [Lesson 13, Supporter section](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md).
+
+## FND-CIT-0301
+
+Khalsa SS, Adolphs R, Cameron OG, et al. **Interoception and mental health: a roadmap.** Biol Psychiatry Cogn Neurosci Neuroimaging. 2018;3:501–513. doi:10.1016/j.bpsc.2017.12.004. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC6054486/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/29884281/).
+
+**Scope:** Source type and access limits recorded in the [release audit](../reference/_internal/course/prepublication-audit-191-2026-10-26.md).
+
+
+**Concepts-first course use:** [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
+
+## FND-CIT-0302
+
+Proske U, Gandevia SC. **The proprioceptive senses: their roles in signaling body shape, body position and movement, and muscle force.** Physiol Rev. 2012;92:1651–1697. doi:10.1152/physrev.00048.2011. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23073629/).
+
+**Scope:** Source type and access limits recorded in the [release audit](../reference/_internal/course/prepublication-audit-191-2026-10-26.md).
+
+
+**Concepts-first course use:** [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
+
+## FND-CIT-0303
+
+Stoffel N, Mouthon M, Yang H, et al. **Attenuated heartbeat-evoked potentials in functional neurological disorder.** Brain Commun. 2026;8:fcaf503. doi:10.1093/braincomms/fcaf503. [Original](https://academic.oup.com/braincomms/article/8/1/fcaf503/8413452) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/41550305/) · [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12810052/).
+
+**Scope:** Source type and access limits recorded in the [release audit](../reference/_internal/course/prepublication-audit-191-2026-10-26.md).
+
+
+**Concepts-first course use:** [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
+
+## FND-CIT-0304
+
+Seeley WW, Menon V, Schatzberg AF, et al. **Dissociable intrinsic connectivity networks for salience processing and executive control.** J Neurosci. 2007;27:2349–2356. doi:10.1523/JNEUROSCI.5587-06.2007. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC2680293/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/17329432/).
+
+**Scope:** Source type and access limits recorded in the [release audit](../reference/_internal/course/prepublication-audit-191-2026-10-26.md).
+
+
+**Concepts-first course use:** [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md).
+
+## FND-CIT-0305
+
+Voon V, Gallea C, Hattori N, et al. **The involuntary nature of conversion disorder.** Neurology. 2010;74:223–228. doi:10.1212/WNL.0b013e3181ca00e9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20083798/).
+
+**Scope:** Source type and access limits recorded in the [release audit](../reference/_internal/course/prepublication-audit-191-2026-10-26.md).
+
+
+**Concepts-first course use:** [Lesson 21](../course/concepts-first/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md).
+
+## FND-CIT-0306
+
+Dayan E, Cohen LG. **Neuroplasticity subserving motor skill learning.** Neuron. 2011;72:443–454. doi:10.1016/j.neuron.2011.10.008. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC3217208/).
+
+**Scope:** Source type and access limits recorded in the [release audit](../reference/_internal/course/prepublication-audit-191-2026-10-26.md).
+
+
+**Concepts-first course use:** [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md).
+
+## FND-CIT-0307
+
+Corbetta M, Shulman GL. Control of goal-directed and stimulus-driven attention in the brain. *Nature Reviews Neuroscience*. 2002;3:201–215. [DOI](https://doi.org/10.1038/nrn755). [PubMed](https://pubmed.ncbi.nlm.nih.gov/11994752/).
+
+**Scope:** General attention research, not an FND treatment trial.
+
+
+**Concepts-first course use:** [Lesson 15](../course/concepts-first/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md).
+
+## FND-CIT-0308
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1hmedeg/comment/m3tqr3z/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 15](../course/concepts-first/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md).
+
+## FND-CIT-0309
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1kchl1l/comment/mq4vaud/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 16](../course/concepts-first/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md).
+
+## FND-CIT-0310
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1nzuyuz/comment/ni918wf/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 17](../course/concepts-first/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md).
+
+
+## FND-CIT-0312
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1o5s0b8/wife_just_diagnosed_with_disassociative_fnd_feels/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 21](../course/concepts-first/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md).
+
+## FND-CIT-0313
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1mnw4fd/dae_have_functional_cognitive_disorder/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md).
+
+## FND-CIT-0314
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/16iyjst/dad_helping_recently_diagnosed_daughter/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 23](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
+
+## FND-CIT-0315
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1ruqxh5/comment/oatunoa/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 24](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md).
+
+## FND-CIT-0316
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1v2tbfb/comment/oz7hya4/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md).
+
+## FND-CIT-0317
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/106utzh/advice_needed_considering_using_mobility_aid_for/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md).
+
+## FND-CIT-0318
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1kvcy4a/help_working_out/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md).
+
+## FND-CIT-0319
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1skxv3t/am_i_the_only_one_who_hates_the_phrase_retraining/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 27](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md).
+
+## FND-CIT-0320
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1takhkp/convincing_someone_they_have_fnd/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 27](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md); [Lesson 30](../course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md).
+
+## FND-CIT-0321
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1m2st47/comment/n3s00gm/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+
+**Concepts-first course use:** [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md).
+
+## FND-CIT-0322
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1q1vjir/comment/nx8meik/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
+
+**Concepts-first course use:** [Lesson 29](../course/concepts-first/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md).

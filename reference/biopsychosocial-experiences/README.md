@@ -77,19 +77,19 @@ More than one thing can be true at the same time.
 
 Some subjects already have a fuller home on the site.
 
-**[Dissociation and Altered Awareness](../../course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/02-dissociation-and-altered-awareness.md)** covers feeling detached, unreal, foggy or less responsive.
+**[Reference Library](../README.md)** covers feeling detached, unreal, foggy or less responsive.
 
-**[Available Capacity, Spoons, and Early Action](../../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md)** looks at how physical, thinking, sensory, emotional and social demands can change what a person can manage at a particular time.
+**[Available Capacity, Spoons, and Early Action](../../course/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md)** looks at how physical, thinking, sensory, emotional and social demands can change what a person can manage at a particular time.
 
 **[Autonomic Symptoms Alongside FND](../co-occurring-conditions/08-autonomic-symptoms.md)** covers symptoms such as palpitations, sweating and light-headedness.
 
 **[Arousal and Startle Regulation](../recovery-techniques/functional_jerks_and_myoclonus/07-arousal-and-startle-regulation.md)** discusses startle and high alertness when they are part of a person's functional-jerk pattern.
 
-**[Functional Sensory Symptoms](../diagnostic-signs/07-functional-sensory-symptoms.md)** and the [sensory-symptom course material](../../course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/01-numbness-altered-sensation-and-hypersensitivity.md) discuss altered sensation and hypersensitivity.
+**[Functional Sensory Symptoms](../diagnostic-signs/07-functional-sensory-symptoms.md)** and the [Reference Library](../README.md) discuss altered sensation and hypersensitivity.
 
 **[Common Co-occurring Conditions](../co-occurring-conditions/README.md)** covers migraine, pain, fatigue, sleep problems, autonomic symptoms and other conditions that may strongly affect day-to-day life.
 
-**[Relationships, Intimacy, and Boundaries](../../course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/02-relationships-intimacy-boundaries-and-supporter-wellbeing.md)** discusses changing roles, closeness, consent and relationship limits.
+**[Relationships, Intimacy, and Boundaries](../../course/module-14-relationships-identity-and-grief/02-relationships-intimacy-boundaries-and-supporter-wellbeing.md)** discusses changing roles, closeness, consent and relationship limits.
 
 Keeping these subjects connected without calling all of them FND helps us keep the whole person in view.
 
@@ -182,7 +182,7 @@ Drane and colleagues, abstract: this is a proposed research framework. (*citatio
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Emotional Regulation, Irritability, and Overwhelm →](01-emotional-regulation-irritability-and-overwhelm.md)
 
-**Related:** [Common Co-occurring Conditions](../co-occurring-conditions/README.md) · [Understanding FND](../../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/README.md)
+**Related:** [Common Co-occurring Conditions](../co-occurring-conditions/README.md) · [Understanding FND](../../course/module-03-causes-mechanisms-and-honest-uncertainty/README.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

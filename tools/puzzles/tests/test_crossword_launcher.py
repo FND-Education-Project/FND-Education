@@ -18,29 +18,29 @@ class CrosswordLauncherTests(unittest.TestCase):
             "CODESPACE_NAME": "friendly-place-ab12",
             "GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN": "app.github.dev",
         })
-        self.assertEqual(url, "https://friendly-place-ab12-8501.app.github.dev/")
+        self.assertEqual(url, "https://friendly-place-ab12-8502.app.github.dev/")
 
     def test_local_fallback_and_invalid_codespace_name(self):
-        self.assertEqual(launcher.workshop_url({}), "http://localhost:8501/")
+        self.assertEqual(launcher.workshop_url({}), "http://localhost:8502/")
         self.assertEqual(
             launcher.workshop_url({
                 "CODESPACE_NAME": "has.unexpected.dots",
                 "GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN": "app.github.dev",
             }),
-            "http://localhost:8501/",
+            "http://localhost:8502/",
         )
 
     def test_original_python_workshop_is_selected(self):
         self.assertEqual(launcher.WORKSHOP, ROOT / "tools/puzzles/crossword_app.py")
         self.assertTrue(launcher.WORKSHOP.is_file())
         self.assertTrue(launcher.REQUIREMENTS.is_file())
-        self.assertEqual(launcher.PORT, 8501)
+        self.assertEqual(launcher.PORT, 8502)
 
     def test_codespaces_requests_browser_open_on_private_port(self):
         config = json.loads((ROOT / ".vscode/settings.json").read_text())
         self.assertTrue(config["remote.autoForwardPorts"])
         self.assertEqual(
-            config["remote.portsAttributes"]["8501"]["onAutoForward"],
+            config["remote.portsAttributes"]["8502"]["onAutoForward"],
             "openBrowser",
         )
 

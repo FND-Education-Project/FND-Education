@@ -6,7 +6,7 @@ From the repository root:
 
 Create/reuse an isolated Python environment, install the existing
 workshop dependencies only when needed, and start the original Streamlit
-app. Codespaces automatically forwards port 8501 and opens a browser using
+app. Codespaces automatically forwards port 8502 and opens a browser using
 .vscode/settings.json. We print a clickable URL as a fallback.
 """
 from __future__ import annotations
@@ -21,13 +21,15 @@ import time
 from urllib.error import URLError
 from urllib.request import urlopen
 
+from tools.puzzles.workshop_git import start_session, finish_session, prepare_startup
+
 
 ROOT = Path(__file__).resolve().parent
 REQUIREMENTS = ROOT / "tools" / "puzzles" / "requirements-crosswords.txt"
 WORKSHOP = ROOT / "tools" / "puzzles" / "crossword_app.py"
 VENV = ROOT / ".venv-crossword"
 INSTALLED_HASH = VENV / ".fnd-requirements-sha256"
-PORT = 8501
+PORT = 8502
 HEALTH = f"http://127.0.0.1:{PORT}/_stcore/health"
 
 
@@ -88,7 +90,7 @@ def show_open_instructions() -> None:
     print("Codespaces should open your PRIVATE forwarded browser tab.", flush=True)
     print("If it doesn't, open the following link:", flush=True)
     print("  " + workshop_url(), flush=True)
-    print("The Ports tab must show port 8501 as PRIVATE, not Public.", flush=True)
+    print(f"The Ports tab must show port {PORT} as PRIVATE, not Public.", flush=True)
     print("Exit using the workshop's 'Exit workshop' button.", flush=True)
     print("Or press Ctrl+C here to stop the server.", flush=True)
     print("=" * 58 + "\n", flush=True)
@@ -99,17 +101,24 @@ def main() -> int:
         print("Python 3.10 or newer is required.", file=sys.stderr)
         return 1
     if ready():
-        print("A Streamlit workshop is already running on port 8501.", flush=True)
+        print(f"A Streamlit workshop is already running on port {PORT}.", flush=True)
         show_open_instructions()
         return 0
     try:
+        # Refresh before installing dependencies or loading the workbook.
+        # Re-execute once if Git changed HEAD so imports use the updated code.
+        if os.environ.pop("FND_CROSSWORD_STARTUP_VERIFIED", "") != "1":
+            if prepare_startup(ROOT):
+                environment = dict(os.environ, FND_CROSSWORD_STARTUP_VERIFIED="1")
+                os.execve(sys.executable, [sys.executable, str(ROOT / "crossword.py")],
+                          environment)
         python = install_if_needed()
     except (subprocess.CalledProcessError, OSError, RuntimeError) as error:
         print(f"Could not prepare the crossword workshop: {error}", file=sys.stderr)
         return 1
 
     # Codespaces recognizes this listener and .vscode/settings.json requests
-    # that port 8501 open automatically in the user's browser. No changes to
+    # that the configured port opens automatically in the user's browser. No changes to
     # port visibility are requested. Codespaces' default is PRIVATE.
     command = [
         str(python), "-m", "streamlit", "run", str(WORKSHOP),
@@ -118,11 +127,16 @@ def main() -> int:
         "--server.headless", "true",
         "--browser.gatherUsageStats", "false",
     ]
+    session_branch = start_session(ROOT)
+    if session_branch is None:
+        print("Could not create a safe session. Workshop startup stopped.", file=sys.stderr)
+        return 1
     print("Starting the private Python crossword workshop…", flush=True)
     try:
         process = subprocess.Popen(command, cwd=ROOT)
     except OSError as error:
         print(f"Could not start Streamlit: {error}", file=sys.stderr)
+        finish_session(ROOT, session_branch)
         return 1
 
     try:
@@ -148,6 +162,7 @@ def main() -> int:
             except subprocess.TimeoutExpired:
                 process.kill()
                 process.wait()
+        finish_session(ROOT, session_branch)
 
 
 if __name__ == "__main__":

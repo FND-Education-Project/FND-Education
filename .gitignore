@@ -22,9 +22,6 @@ web/research/*
 web/_data/generated/*
 !web/_data/generated/.gitkeep
 
-# Generated public curriculum index (rebuilt for every Pages build).
-web/assets/data/course-progress.json
-
 web/assets/illustrations/
 web/assets/images/
 web/assets/puzzles/
@@ -42,9 +39,5 @@ subject-search-report.json
 .venv-crossword/
 tools/puzzles/.crossword-output/
 
-# Local Cloudflare learner Worker configuration and development secrets.
-# Keep provider credentials and the deployed D1 binding out of Git.
-tools/learner-cloudflare/wrangler.toml
-tools/learner-cloudflare/.dev.vars*
-tools/learner-cloudflare/.env*
-tools/learner-cloudflare/.wrangler/
+# Local Cloudflare Wrangler state (never publish credentials or caches)
+/tools/analytics/cloudflare/.wrangler/

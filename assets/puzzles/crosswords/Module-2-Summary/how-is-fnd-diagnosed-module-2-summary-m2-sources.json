@@ -1,0 +1,525 @@
+{
+  "title": "How Is FND Diagnosed? - Module 2 Summary",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 0,
+    "lesson": null,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "module",
+    "module": 2,
+    "seed": 1,
+    "selected_question_count": 50
+  },
+  "score": 80.83,
+  "included": [
+    {
+      "answer": "RULEIN",
+      "borrowed": false,
+      "clue": "A sign supporting an FND diagnosis",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 16,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "RULEIN",
+      "priority": 1,
+      "row": 134
+    },
+    {
+      "answer": "SCAN",
+      "borrowed": false,
+      "clue": "Picture-taking test that can check for signs of a stroke",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 13,
+      "lesson": 6,
+      "module": 2,
+      "original_answer": "SCAN",
+      "priority": 2,
+      "row": 161
+    },
+    {
+      "answer": "CLINICIAN",
+      "borrowed": false,
+      "clue": "Doctor, nurse or other health professional who looks after your care",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 14,
+      "lesson": 6,
+      "module": 2,
+      "original_answer": "CLINICIAN",
+      "priority": 2,
+      "row": 171
+    },
+    {
+      "answer": "INVOLUNTARY",
+      "borrowed": false,
+      "clue": "Symptoms happen without choosing them",
+      "direction": "down",
+      "grid_col": 8,
+      "grid_row": 8,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "INVOLUNTARY",
+      "priority": 1,
+      "row": 144
+    },
+    {
+      "answer": "EASE",
+      "borrowed": false,
+      "clue": "Moving with less difficulty",
+      "direction": "down",
+      "grid_col": 3,
+      "grid_row": 16,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "EASE",
+      "priority": 2,
+      "row": 155
+    },
+    {
+      "answer": "YES",
+      "borrowed": false,
+      "clue": "Short, cheerful answer to \"Can I have FND and another medical condition?\"",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 18,
+      "lesson": 6,
+      "module": 2,
+      "original_answer": "YES",
+      "priority": 2,
+      "row": 159
+    },
+    {
+      "answer": "CLEAR",
+      "borrowed": false,
+      "clue": "How a useful sign should be",
+      "direction": "across",
+      "grid_col": 7,
+      "grid_row": 12,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "CLEAR",
+      "priority": 2,
+      "row": 154
+    },
+    {
+      "answer": "PLAN",
+      "borrowed": false,
+      "clue": "\"What happens next?\" summed up in one word",
+      "direction": "down",
+      "grid_col": 10,
+      "grid_row": 10,
+      "lesson": 6,
+      "module": 2,
+      "original_answer": "PLAN",
+      "priority": 2,
+      "row": 162
+    },
+    {
+      "answer": "MEDICINES",
+      "borrowed": false,
+      "clue": "Can influence movement and symptoms",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 8,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "MEDICINES",
+      "priority": 2,
+      "row": 147
+    },
+    {
+      "answer": "TEST",
+      "borrowed": false,
+      "clue": "Chosen to check one particular thing (happily, no studying required)",
+      "direction": "across",
+      "grid_col": 8,
+      "grid_row": 15,
+      "lesson": 6,
+      "module": 2,
+      "original_answer": "TEST",
+      "priority": 2,
+      "row": 165
+    },
+    {
+      "answer": "SIGN",
+      "borrowed": false,
+      "clue": "Finding that supports an FND diagnosis",
+      "direction": "down",
+      "grid_col": 3,
+      "grid_row": 11,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "SIGN",
+      "priority": 1,
+      "row": 149
+    },
+    {
+      "answer": "COPY",
+      "borrowed": false,
+      "clue": "Follow another movement's rhythm",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 18,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "COPY",
+      "priority": 2,
+      "row": 150
+    },
+    {
+      "answer": "ATTENTION",
+      "borrowed": false,
+      "clue": "Shifting this may change symptoms",
+      "direction": "down",
+      "grid_col": 9,
+      "grid_row": 0,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "ATTENTION",
+      "priority": 2,
+      "row": 137
+    },
+    {
+      "answer": "PATTERN",
+      "borrowed": false,
+      "clue": "What clinicians look for across tasks",
+      "direction": "across",
+      "grid_col": 6,
+      "grid_row": 5,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "PATTERN",
+      "priority": 1,
+      "row": 133
+    },
+    {
+      "answer": "HAND",
+      "borrowed": false,
+      "clue": "May copy a rhythm during testing",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 3,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "HAND",
+      "priority": 2,
+      "row": 139
+    },
+    {
+      "answer": "FRESH",
+      "borrowed": false,
+      "clue": "Kind of look at your diagnosis you can always ask for",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 11,
+      "lesson": 6,
+      "module": 2,
+      "original_answer": "FRESH",
+      "priority": 2,
+      "row": 170
+    },
+    {
+      "answer": "SHIFT",
+      "borrowed": false,
+      "clue": "Change where attention is directed",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 1,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "SHIFT",
+      "priority": 1,
+      "row": 152
+    },
+    {
+      "answer": "MOVE",
+      "borrowed": false,
+      "clue": "What muscles help you do",
+      "direction": "down",
+      "grid_col": 6,
+      "grid_row": 17,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "MOVE",
+      "priority": 2,
+      "row": 153
+    },
+    {
+      "answer": "POSITIVE",
+      "borrowed": false,
+      "clue": "Kind of signs that show FND",
+      "direction": "across",
+      "grid_col": 2,
+      "grid_row": 3,
+      "lesson": 6,
+      "module": 2,
+      "original_answer": "POSITIVE",
+      "priority": 2,
+      "row": 173
+    },
+    {
+      "answer": "ENTRAINMENT",
+      "borrowed": false,
+      "clue": "Tremor matching another movement's rhythm",
+      "direction": "across",
+      "grid_col": 6,
+      "grid_row": 20,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "ENTRAINMENT",
+      "priority": 1,
+      "row": 142
+    },
+    {
+      "answer": "NORMAL",
+      "borrowed": false,
+      "clue": "What a test result can be without proving FND (or making your symptoms imaginary)",
+      "direction": "down",
+      "grid_col": 13,
+      "grid_row": 17,
+      "lesson": 6,
+      "module": 2,
+      "original_answer": "NORMAL",
+      "priority": 2,
+      "row": 175
+    },
+    {
+      "answer": "TREMOR",
+      "borrowed": false,
+      "clue": "Involuntary shaking that may change",
+      "direction": "down",
+      "grid_col": 16,
+      "grid_row": 20,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "TREMOR",
+      "priority": 1,
+      "row": 138
+    },
+    {
+      "answer": "NOTES",
+      "borrowed": false,
+      "clue": "What a supporter can take during an appointment to help remember the answers (pen recommended)",
+      "direction": "across",
+      "grid_col": 13,
+      "grid_row": 17,
+      "lesson": 6,
+      "module": 2,
+      "original_answer": "NOTES",
+      "priority": 2,
+      "row": 178
+    },
+    {
+      "answer": "MATCH",
+      "borrowed": false,
+      "clue": "What an entrained tremor may do",
+      "direction": "across",
+      "grid_col": 16,
+      "grid_row": 23,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "MATCH",
+      "priority": 2,
+      "row": 151
+    },
+    {
+      "answer": "DIRECTION",
+      "borrowed": false,
+      "clue": "Changing this may improve walking",
+      "direction": "down",
+      "grid_col": 11,
+      "grid_row": 19,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "DIRECTION",
+      "priority": 2,
+      "row": 140
+    },
+    {
+      "answer": "FND",
+      "borrowed": false,
+      "clue": "The three letters this whole lesson revolves around.",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 6,
+      "lesson": 6,
+      "module": 2,
+      "original_answer": "FND",
+      "priority": 2,
+      "row": 158
+    },
+    {
+      "answer": "SHOW",
+      "borrowed": false,
+      "clue": "What a clinician may do with a sign",
+      "direction": "down",
+      "grid_col": 3,
+      "grid_row": 1,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "SHOW",
+      "priority": 2,
+      "row": 157
+    },
+    {
+      "answer": "HISTORY",
+      "borrowed": false,
+      "clue": "Your story in clinic-speak, and no exam on dates required",
+      "direction": "across",
+      "grid_col": 7,
+      "grid_row": 26,
+      "lesson": 6,
+      "module": 2,
+      "original_answer": "HISTORY",
+      "priority": 2,
+      "row": 172
+    },
+    {
+      "answer": "BOTH",
+      "borrowed": false,
+      "clue": "FND and another diagnosis can ___ be correct at the same time",
+      "direction": "down",
+      "grid_col": 15,
+      "grid_row": 15,
+      "lesson": 6,
+      "module": 2,
+      "original_answer": "BOTH",
+      "priority": 2,
+      "row": 176
+    },
+    {
+      "answer": "CARE",
+      "borrowed": false,
+      "clue": "What every condition deserves, even when you have several (no favourites allowed)",
+      "direction": "down",
+      "grid_col": 0,
+      "grid_row": 14,
+      "lesson": 6,
+      "module": 2,
+      "original_answer": "CARE",
+      "priority": 2,
+      "row": 180
+    },
+    {
+      "answer": "STORY",
+      "borrowed": false,
+      "clue": "What you have noticed and when it started, told by the world's leading expert: you",
+      "direction": "across",
+      "grid_col": 10,
+      "grid_row": 24,
+      "lesson": 6,
+      "module": 2,
+      "original_answer": "STORY",
+      "priority": 2,
+      "row": 167
+    },
+    {
+      "answer": "PRACTISE",
+      "borrowed": false,
+      "clue": "Repeating movement to build ability",
+      "direction": "down",
+      "grid_col": 19,
+      "grid_row": 20,
+      "lesson": 5,
+      "module": 2,
+      "original_answer": "PRACTISE",
+      "priority": 2,
+      "row": 146
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "DISTRACTIBILITY",
+      "clue": "Symptoms change when attention shifts",
+      "row": 141
+    },
+    {
+      "answer": "BUILD",
+      "clue": "What rehabilitation can do with ability",
+      "row": 156
+    },
+    {
+      "answer": "TASK",
+      "clue": "One activity during an examination",
+      "row": 135
+    },
+    {
+      "answer": "PURPOSE",
+      "clue": "Doing something deliberately, or on ___",
+      "row": 136
+    },
+    {
+      "answer": "REPEAT",
+      "clue": "What a clear pattern should do",
+      "row": 143
+    },
+    {
+      "answer": "REHABILITATION",
+      "clue": "Treatment building on available abilities",
+      "row": 145
+    },
+    {
+      "answer": "MEMORY",
+      "clue": "Remembering, a function FND may affect",
+      "row": 148
+    },
+    {
+      "answer": "ASK",
+      "clue": "What you can always do with your clinician, no appointment script required",
+      "row": 160
+    },
+    {
+      "answer": "STEP",
+      "clue": "Writing down one question for your next appointment is a small one",
+      "row": 163
+    },
+    {
+      "answer": "REAL",
+      "clue": "What your symptoms are, whatever a test shows",
+      "row": 164
+    },
+    {
+      "answer": "LOOK",
+      "clue": "You can always ask for another one at your diagnosis (binoculars optional)",
+      "row": 166
+    },
+    {
+      "answer": "SIGNS",
+      "clue": "Positive ones show FND, and you won't find them by the roadside",
+      "row": 168
+    },
+    {
+      "answer": "BREAK",
+      "clue": "Something you're welcome to take between questions (snack optional)",
+      "row": 169
+    },
+    {
+      "answer": "DIAGNOSIS",
+      "clue": "What positive signs help your clinician build",
+      "row": 174
+    },
+    {
+      "answer": "TEAM",
+      "clue": "The people working together on your care (matching jerseys not required)",
+      "row": 177
+    },
+    {
+      "answer": "FOCUS",
+      "clue": "What choosing just one or two questions helps you keep during a short appointment (camera optional)",
+      "row": 179
+    },
+    {
+      "answer": "MIGRAINE",
+      "clue": "Neurological condition that can have its own treatment plan alongside FND (lights dimmed, please)",
+      "row": 181
+    },
+    {
+      "answer": "SUPPORT",
+      "clue": "Helping someone ask questions and understand answers without taking over (sidekick, not superhero)",
+      "row": 182
+    }
+  ]
+}

@@ -56,7 +56,7 @@ Changes in automatic body-state systems involved in alertness and threat respons
 ### Available capacity
 {: #available-capacity .shareable }
 
-The usable physical, cognitive, sensory, emotional, social and upright-activity capacity a person has at a particular time, including the recovery cost that may follow. It may vary with fatigue, pain, sleep, migraine, medication, symptoms, environment, recovery and coexisting illness. This project uses the term as practical descriptive language, not as a measurable biological unit or an autonomic-state diagnosis. See [Available Capacity, Spoons, and Early Action](../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md) and **spoon theory**.
+The usable physical, cognitive, sensory, emotional, social and upright-activity capacity a person has at a particular time, including the recovery cost that may follow. It may vary with fatigue, pain, sleep, migraine, medication, symptoms, environment, recovery and coexisting illness. This project uses the term as practical descriptive language, not as a measurable biological unit or an autonomic-state diagnosis. See [Available Capacity, Spoons, and Early Action](../course/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md) and **spoon theory**.
 
 ## B
 
@@ -534,7 +534,7 @@ A psychiatric diagnosis involving excessive or disproportionate thoughts, feelin
 ### Spoon theory
 {: #spoon-theory .shareable }
 
-A metaphor introduced by Christine Miserandino to describe limited, fluctuating usable capacity and the often invisible cost of ordinary tasks while living with chronic illness. A “spoon” is not a clinical unit, an FND biomarker or a position on a sympathetic–parasympathetic graph. The course prefers **available capacity** when precise shared language is needed. See [Available Capacity, Spoons, and Early Action](../course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md).
+A metaphor introduced by Christine Miserandino to describe limited, fluctuating usable capacity and the often invisible cost of ordinary tasks while living with chronic illness. A “spoon” is not a clinical unit, an FND biomarker or a position on a sympathetic–parasympathetic graph. The course prefers **available capacity** when precise shared language is needed. See [Available Capacity, Spoons, and Early Action](../course/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md).
 
 ### Swivel-chair assessment
 {: #swivel-chair-assessment .shareable }
@@ -628,10 +628,10 @@ This glossary uses the project’s stable citation index. The most relevant sour
 
 ## Related course pages
 
-- [What FND Is](../course/part-1-understanding-fnd/module-01-what-fnd-is/README.md)
-- [What “Functional” Means and How FND Can Appear](../course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md)
-- [How FND Is Diagnosed](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md)
-- [Functional Seizures and Episodic Symptoms](../course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/README.md)
+- [What FND Is](../course/module-01-what-fnd-is/README.md)
+- [What “Functional” Means and How FND Can Appear](../course/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md)
+- [How FND Is Diagnosed](../course/module-02-how-fnd-is-diagnosed/README.md)
+- [Reference Library](../reference/README.md)
 
 **Functional tics — further reading:** [Eight recovery and supporting-care pages](../reference/recovery-techniques/functional_tics/README.md), including explanations of CBT, CBIT, urge acceptance and pattern mapping.
 

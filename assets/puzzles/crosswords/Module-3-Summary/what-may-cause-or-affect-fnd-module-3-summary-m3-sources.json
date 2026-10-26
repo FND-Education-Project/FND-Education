@@ -1,0 +1,641 @@
+{
+  "title": "What May Cause or Affect FND? - Module 3 Summary",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 0,
+    "lesson": null,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "module",
+    "module": 3,
+    "seed": 1,
+    "selected_question_count": 86
+  },
+  "score": 74.35,
+  "included": [
+    {
+      "answer": "MECHANISM",
+      "borrowed": false,
+      "clue": "How a\n  symptom happens neurologically",
+      "direction": "down",
+      "grid_col": 15,
+      "grid_row": 0,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "MECHANISM",
+      "priority": 1,
+      "row": 215
+    },
+    {
+      "answer": "SURROUNDINGS",
+      "borrowed": false,
+      "clue": "Lights,\n  noises and places around you are all part of these.",
+      "direction": "across",
+      "grid_col": 4,
+      "grid_row": 7,
+      "lesson": 9,
+      "module": 3,
+      "original_answer": "SURROUNDINGS",
+      "priority": 2,
+      "row": 275
+    },
+    {
+      "answer": "FACTS",
+      "borrowed": false,
+      "clue": "Things\n  we can confirm, rather than just guess.",
+      "direction": "across",
+      "grid_col": 13,
+      "grid_row": 2,
+      "lesson": 9,
+      "module": 3,
+      "original_answer": "FACTS",
+      "priority": 2,
+      "row": 257
+    },
+    {
+      "answer": "FACTOR",
+      "borrowed": false,
+      "clue": "One\n  condition or circumstance that may affect health",
+      "direction": "down",
+      "grid_col": 7,
+      "grid_row": 2,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "FACTOR",
+      "priority": 1,
+      "row": 205
+    },
+    {
+      "answer": "SIGNAL",
+      "borrowed": false,
+      "clue": "Message sent between the body and brain",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 4,
+      "lesson": 8,
+      "module": 3,
+      "original_answer": "SIGNAL",
+      "priority": 1,
+      "row": 237
+    },
+    {
+      "answer": "KNOW",
+      "borrowed": false,
+      "clue": "Complete\n  the question: “What do we actually ___?”",
+      "direction": "down",
+      "grid_col": 13,
+      "grid_row": 6,
+      "lesson": 9,
+      "module": 3,
+      "original_answer": "KNOW",
+      "priority": 2,
+      "row": 252
+    },
+    {
+      "answer": "CARE",
+      "borrowed": false,
+      "clue": "Medical\n  attention and support, even before every cause is known",
+      "direction": "across",
+      "grid_col": 6,
+      "grid_row": 3,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "CARE",
+      "priority": 2,
+      "row": 198
+    },
+    {
+      "answer": "THRESHOLD",
+      "borrowed": false,
+      "clue": "A\n  personal limit beyond which someone may experience a crash.",
+      "direction": "down",
+      "grid_col": 4,
+      "grid_row": 3,
+      "lesson": 9,
+      "module": 3,
+      "original_answer": "THRESHOLD",
+      "priority": 2,
+      "row": 271
+    },
+    {
+      "answer": "REAL",
+      "borrowed": false,
+      "clue": "What FND\n  symptoms genuinely are",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 10,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "REAL",
+      "priority": 2,
+      "row": 197
+    },
+    {
+      "answer": "CAUSE",
+      "borrowed": false,
+      "clue": "The\n  reason something happens—not proven by timing alone",
+      "direction": "down",
+      "grid_col": 9,
+      "grid_row": 5,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "CAUSE",
+      "priority": 1,
+      "row": 183
+    },
+    {
+      "answer": "SIGNS",
+      "borrowed": false,
+      "clue": "Clinical\n  findings supporting a diagnosis",
+      "direction": "down",
+      "grid_col": 11,
+      "grid_row": 0,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "SIGNS",
+      "priority": 1,
+      "row": 191
+    },
+    {
+      "answer": "TEAM",
+      "borrowed": false,
+      "clue": "Group of\n  healthcare professionals helping plan your care",
+      "direction": "across",
+      "grid_col": 8,
+      "grid_row": 9,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "TEAM",
+      "priority": 2,
+      "row": 199
+    },
+    {
+      "answer": "RISK",
+      "borrowed": false,
+      "clue": "The\n  chance that something may happen",
+      "direction": "across",
+      "grid_col": 9,
+      "grid_row": 0,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "RISK",
+      "priority": 2,
+      "row": 184
+    },
+    {
+      "answer": "ACTIVITIES",
+      "borrowed": false,
+      "clue": "Hobbies,\n  errands and outings are examples of these.",
+      "direction": "down",
+      "grid_col": 10,
+      "grid_row": 9,
+      "lesson": 9,
+      "module": 3,
+      "original_answer": "ACTIVITIES",
+      "priority": 2,
+      "row": 272
+    },
+    {
+      "answer": "SCIENTISTS",
+      "borrowed": false,
+      "clue": "People\n  investigating possible FND connections instead of guessing.",
+      "direction": "across",
+      "grid_col": 7,
+      "grid_row": 17,
+      "lesson": 9,
+      "module": 3,
+      "original_answer": "SCIENTISTS",
+      "priority": 2,
+      "row": 273
+    },
+    {
+      "answer": "ILLNESS",
+      "borrowed": false,
+      "clue": "Being\n  unwell or sick",
+      "direction": "down",
+      "grid_col": 2,
+      "grid_row": 6,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "ILLNESS",
+      "priority": 2,
+      "row": 207
+    },
+    {
+      "answer": "LIFE",
+      "borrowed": false,
+      "clue": "What can\n  get easier even when symptoms stay the same.",
+      "direction": "across",
+      "grid_col": 9,
+      "grid_row": 12,
+      "lesson": 9,
+      "module": 3,
+      "original_answer": "LIFE",
+      "priority": 2,
+      "row": 251
+    },
+    {
+      "answer": "INTEROCEPTION",
+      "borrowed": false,
+      "clue": "Sensing and interpreting signals inside\n  the body",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 14,
+      "lesson": 8,
+      "module": 3,
+      "original_answer": "INTEROCEPTION",
+      "priority": 2,
+      "row": 246
+    },
+    {
+      "answer": "NOISE",
+      "borrowed": false,
+      "clue": "A loud one can steal the spotlight",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 6,
+      "lesson": 8,
+      "module": 3,
+      "original_answer": "NOISE",
+      "priority": 2,
+      "row": 224
+    },
+    {
+      "answer": "TRIGGER",
+      "borrowed": false,
+      "clue": "An event\n  that may start symptoms but is not a proven cause",
+      "direction": "down",
+      "grid_col": 4,
+      "grid_row": 13,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "TRIGGER",
+      "priority": 1,
+      "row": 204
+    },
+    {
+      "answer": "STRESS",
+      "borrowed": false,
+      "clue": "Physical\n  or emotional pressure that may influence symptoms",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 12,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "STRESS",
+      "priority": 1,
+      "row": 209
+    },
+    {
+      "answer": "FLARE",
+      "borrowed": false,
+      "clue": "A period\n  when symptoms suddenly become worse",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 18,
+      "lesson": 7,
+      "module": 3,
+      "original_answer": "FLARE",
+      "priority": 2,
+      "row": 196
+    },
+    {
+      "answer": "CLINIC",
+      "borrowed": false,
+      "clue": "A place\n  to get treatment, not groceries.",
+      "direction": "down",
+      "grid_col": 0,
+      "grid_row": 3,
+      "lesson": 9,
+      "module": 3,
+      "original_answer": "CLINIC",
+      "priority": 2,
+      "row": 259
+    },
+    {
+      "answer": "SIGN",
+      "borrowed": false,
+      "clue": "Examination finding supporting an FND\n  diagnosis",
+      "direction": "down",
+      "grid_col": 0,
+      "grid_row": 13,
+      "lesson": 8,
+      "module": 3,
+      "original_answer": "SIGN",
+      "priority": 2,
+      "row": 229
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "PAIN",
+      "clue": "An\n  unpleasant physical sensation that can accompany FND",
+      "row": 195
+    },
+    {
+      "answer": "NOTES",
+      "clue": "Written\n  reminders taken during a medical appointment",
+      "row": 200
+    },
+    {
+      "answer": "KNOWN",
+      "clue": "Established\n  or understood from available facts",
+      "row": 202
+    },
+    {
+      "answer": "INJURY",
+      "clue": "Physical\n  event preceding some FND onsets",
+      "row": 208
+    },
+    {
+      "answer": "TRAUMA",
+      "clue": "Difficult\n  experience, not an FND requirement",
+      "row": 210
+    },
+    {
+      "answer": "PATTERN",
+      "clue": "A\n  repeated or recognizable way symptoms occur",
+      "row": 211
+    },
+    {
+      "answer": "THEORY",
+      "clue": "A\n  scientific explanation being tested",
+      "row": 212
+    },
+    {
+      "answer": "EVIDENCE",
+      "clue": "Facts or\n  research supporting an explanation",
+      "row": 213
+    },
+    {
+      "answer": "NETWORK",
+      "clue": "Team of brain areas sharing information",
+      "row": 233
+    },
+    {
+      "answer": "AGENCY",
+      "clue": "Sense of making an action happen",
+      "row": 234
+    },
+    {
+      "answer": "MEMORY",
+      "clue": "Brain ability that may slip out of reach",
+      "row": 238
+    },
+    {
+      "answer": "SENSORY",
+      "clue": "Describes evidence gathered by the senses",
+      "row": 239
+    },
+    {
+      "answer": "CONTROL",
+      "clue": "Movement can involve automatic or focused\n  forms of this",
+      "row": 241
+    },
+    {
+      "answer": "CHEMICAL",
+      "clue": "Messenger used alongside electrical\n  activity",
+      "row": 242
+    },
+    {
+      "answer": "PREDICTION",
+      "clue": "Brain's best guess about what's coming",
+      "row": 244
+    },
+    {
+      "answer": "PAST",
+      "clue": "Time\n  that has already happened",
+      "row": 185
+    },
+    {
+      "answer": "NOW",
+      "clue": "At the\n  present time",
+      "row": 186
+    },
+    {
+      "answer": "WHEN",
+      "clue": "The\n  question a timeline answers",
+      "row": 187
+    },
+    {
+      "answer": "WHY",
+      "clue": "Question\n  asking for the reason something happened",
+      "row": 188
+    },
+    {
+      "answer": "HOW",
+      "clue": "Question\n  asking the way something happens",
+      "row": 189
+    },
+    {
+      "answer": "BRAIN",
+      "clue": "Organ in\n  the head that controls movement and sensation",
+      "row": 190
+    },
+    {
+      "answer": "FACT",
+      "clue": "Something\n  known to be true",
+      "row": 192
+    },
+    {
+      "answer": "CLUE",
+      "clue": "A piece\n  of information that helps find an answer",
+      "row": 193
+    },
+    {
+      "answer": "SLEEP",
+      "clue": "Rest\n  your body and brain get at night",
+      "row": 194
+    },
+    {
+      "answer": "DATES",
+      "clue": "Calendar\n  details used to place events on a timeline",
+      "row": 201
+    },
+    {
+      "answer": "HOPE",
+      "clue": "A\n  positive feeling that things can improve",
+      "row": 203
+    },
+    {
+      "answer": "MIGRAINE",
+      "clue": "A\n  neurological disorder often causing severe headaches",
+      "row": 206
+    },
+    {
+      "answer": "INFECTION",
+      "clue": "Illness\n  caused when harmful germs enter the body",
+      "row": 214
+    },
+    {
+      "answer": "TREATMENT",
+      "clue": "Care\n  intended to reduce symptoms or improve function",
+      "row": 216
+    },
+    {
+      "answer": "UNCERTAINTY",
+      "clue": "What\n  science hasn't figured out yet",
+      "row": 217
+    },
+    {
+      "answer": "BODY",
+      "clue": "Where interoception gets its signals",
+      "row": 219
+    },
+    {
+      "answer": "MOVE",
+      "clue": "What a weak leg may struggle to do",
+      "row": 221
+    },
+    {
+      "answer": "TASK",
+      "clue": "Changing this may change a movement",
+      "row": 222
+    },
+    {
+      "answer": "FOCUS",
+      "clue": "To direct attention toward one thing",
+      "row": 223
+    },
+    {
+      "answer": "FEAR",
+      "clue": "May accompany functional seizures or\n  panic",
+      "row": 226
+    },
+    {
+      "answer": "PANIC",
+      "clue": "Attack often involving sudden intense\n  fear",
+      "row": 227
+    },
+    {
+      "answer": "MRI",
+      "clue": "Three-letter scan used to study brain\n  structure",
+      "row": 228
+    },
+    {
+      "answer": "REST",
+      "clue": "A break that may help manage daily\n  demands",
+      "row": 230
+    },
+    {
+      "answer": "HEART",
+      "clue": "Its beat provides internal body signals",
+      "row": 232
+    },
+    {
+      "answer": "TREMOR",
+      "clue": "Shaking that may change during another\n  task",
+      "row": 235
+    },
+    {
+      "answer": "RHYTHM",
+      "clue": "Pattern of beats examined in tremor",
+      "row": 236
+    },
+    {
+      "answer": "SEIZURE",
+      "clue": "Functional event involving altered\n  awareness or movement",
+      "row": 240
+    },
+    {
+      "answer": "ATTENTION",
+      "clue": "Brain's spotlight, sometimes stolen by\n  noise",
+      "row": 243
+    },
+    {
+      "answer": "AUTOMATIC",
+      "clue": "Movement control without step-by-step\n  planning",
+      "row": 245
+    },
+    {
+      "answer": "HOME",
+      "clue": "Where a\n  backup ride can take you after shopping.",
+      "row": 249
+    },
+    {
+      "answer": "SAFE",
+      "clue": "How a\n  reliable plan for getting home may help you feel.",
+      "row": 250
+    },
+    {
+      "answer": "LIGHT",
+      "clue": "What\n  dimmer classroom bulbs provide less of.",
+      "row": 253
+    },
+    {
+      "answer": "STORE",
+      "clue": "Where\n  grocery lists meet checkout lines.",
+      "row": 254
+    },
+    {
+      "answer": "CRASH",
+      "clue": "An\n  informal word for a sudden worsening after exceeding your limit.",
+      "row": 255
+    },
+    {
+      "answer": "NEEDS",
+      "clue": "Good\n  support should fit a person's individual ___.",
+      "row": 256
+    },
+    {
+      "answer": "HEALTH",
+      "clue": "Sleep,\n  pain and illness can all affect this.",
+      "row": 258
+    },
+    {
+      "answer": "OPTION",
+      "clue": "A backup\n  ride gives you another one of these.",
+      "row": 260
+    },
+    {
+      "answer": "OUTING",
+      "clue": "A\n  shopping trip or other journey away from home.",
+      "row": 261
+    },
+    {
+      "answer": "ADJUST",
+      "clue": "Make a\n  task more manageable",
+      "row": 263
+    },
+    {
+      "answer": "MOMENT",
+      "clue": "A small\n  slice of time that can strengthen a relationship.",
+      "row": 264
+    },
+    {
+      "answer": "FINDINGS",
+      "clue": "Research\n  results, rather than educated guesses.",
+      "row": 265
+    },
+    {
+      "answer": "SYMPTOM",
+      "clue": "Something\n  experienced with a health condition, such as pain or weakness.",
+      "row": 266
+    },
+    {
+      "answer": "CONCERN",
+      "clue": "A health\n  worry worth discussing with your clinician.",
+      "row": 267
+    },
+    {
+      "answer": "IMPROVE",
+      "clue": "What\n  daily life can do even when symptoms remain.",
+      "row": 268
+    },
+    {
+      "answer": "FACTORS",
+      "clue": "Physical,\n  psychological and social influences on daily life.",
+      "row": 269
+    },
+    {
+      "answer": "DIAGNOSIS",
+      "clue": "A\n  clinician's identification of a condition, not a whole life story.",
+      "row": 270
+    },
+    {
+      "answer": "EXPLANATION",
+      "clue": "A\n  suggested account of why something happened.",
+      "row": 274
+    }
+  ]
+}
