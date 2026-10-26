@@ -62,13 +62,13 @@ Imagine someone with a **functional walking difficulty** moving along a hallway.
 
 They begin thinking about every step. For some people, closely watching their walking can happen alongside greater difficulty moving. For others, attention makes little difference.
 
-The worry about other people is understandable, and the movement difficulty is involuntary. A physiotherapist might explore whether attention changes the person's walking, with proper support and fall safety. There's never a need to hurry or risk a fall to make room for somebody else. (*citation* [2](#citation-2))
+The worry about other people is understandable, and the movement difficulty is involuntary. A physiotherapist might explore whether attention changes the person's walking, with proper support and fall safety. Their safety and comfort matter more than the pace of somebody walking behind them. (*citation* [2](#citation-2))
 
 Here's another example.
 
 Someone's hand shakes while they hold a book. Later, as they become interested in a conversation, the shaking changes.
 
-Clinicians sometimes observe changes like this with **functional tremor**. It's a genuine, involuntary symptom in both situations. The change may offer a clue during a neurological examination. It doesn't prove the person can switch the tremor on or off. (*citation* [3](#citation-3))
+Clinicians sometimes observe changes like this with **functional tremor**. It's a genuine, involuntary symptom in both situations. The change may offer a clue during a neurological examination, while the tremor remains outside the person's voluntary control. (*citation* [3](#citation-3))
 
 Attention may also affect communication. Someone who struggles to find words in a busy group might find it easier with one listener and a little more time. Or they may still need another way to get their message across.
 
@@ -92,7 +92,7 @@ The therapist might set up a safe, seated activity: sliding a soft cloth across 
 
 This is one example of **task-focused practice**. In some functional movement symptoms, changing what the person focuses on may help them practise a useful action. The therapist checks what works, adjusts the support, and makes room for rest. The practice can still be worthwhile if some shaking remains. (*citations* [2](#citation-2), [3](#citation-3))
 
-These approaches are chosen around the person's symptoms, abilities and safety needs. They aren't tests to prove that someone can control their FND. For episodes that affect awareness or safety, such as functional seizures, the person's own safety plan and professional guidance still come first.
+These approaches are chosen around the person's symptoms, abilities and safety needs. Their purpose is to support meaningful activities and rehabilitation. For episodes that affect awareness or safety, such as functional seizures, the person's own safety plan and professional guidance still come first.
 
 ### Making room for what matters
 
