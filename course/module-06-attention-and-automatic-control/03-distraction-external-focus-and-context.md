@@ -46,9 +46,21 @@ Was there less noise? A clearer goal? Less pressure? A different position? A hel
 
 *Figure 1. Community experience.* One person reports a change during conversation; this does not predict another person’s response. [Original public source](https://www.reddit.com/r/FND/comments/1nzuyuz/comment/ni918wf/). (*citations* [5](#citation-5))
 
-**Something to think about:** What is one change to your environment or task that already makes life easier, even if it hasn't changed your symptoms?
+### Something to think about
 
-**One small step:** Choose a low-risk accommodation, such as fewer distractions during a conversation or putting supplies within easy reach. If you want to explore movement-retraining strategies, ask a suitable rehabilitation clinician which approaches fit your presentation.
+Does the same activity sometimes feel easier or harder depending on where you are, who's with you, or how instructions are given?
+
+### How might that feel?
+
+How would it feel to ask for the conditions that help you, and have that request taken seriously?
+
+### One small step
+
+Choose one familiar everyday activity and one small change to the setting or support around it.
+
+Perhaps you'd prefer a quiet place for a conversation. Or you and someone who helps you could agree on one clear reminder instead of several instructions at once.
+
+See whether that change makes the activity more comfortable or easier to manage. Your symptoms might change, or they might stay the same. Either way, you can learn which arrangements suit you. Keep your usual safety supports in place.
 
 You have now learned three connected ideas: what attention selects, how familiar actions can run automatically, and why changing a task may change what happens. Next we'll explore how the brain prepares for events and interprets information from the body.
 
