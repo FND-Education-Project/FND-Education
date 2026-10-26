@@ -20,16 +20,18 @@
 
 The original glossary contained **72 entries**. The audit compared it with the controlled search subject index, diagnostic and recovery indexes, and recurring technical vocabulary in public Course and Reference material.
 
-The final glossary contains **109 entries**.
+The final glossary contains **115 entries**.
 
 ### Added vocabulary
 
-The 37 added entries are:
+The 43 added entries are:
 
 - Acceptance and Commitment Therapy (ACT)
 - Augmentative and alternative communication (AAC)
+- Arousal
+- Attention types: selective, divided and sustained
 - Autonomic arousal
-- Automatic and task-oriented movement
+- Automatic control / automatic and task-oriented movement
 - Biofeedback
 - Cognitive behavioural therapy (CBT)
 - Co-contraction
@@ -40,6 +42,8 @@ The 37 added entries are:
 - Dual-tasking / dual-task practice
 - EEG-EMG and jerk-locked back averaging
 - Electromyography (EMG)
+- Exteroception
+- Feedback loop
 - Functional cough and upper-airway symptoms
 - Functional dystonia / fixed dystonia
 - Functional electrical stimulation (FES)
@@ -51,11 +55,13 @@ The 37 added entries are:
 - Graded exposure / graded trigger practice
 - Grounding
 - Habituation
+- Motor learning
 - Optokinetic response / optokinetic testing
 - Pacing
 - Persistent postural-perceptual dizziness (PPPD)
 - Photophobia
 - Proprioception
+- Salience
 - Scan-negative cauda equina presentation
 - Selective serotonin reuptake inhibitor (SSRI) / serotonin-norepinephrine reuptake inhibitor (SNRI)
 - Sensory trick
@@ -66,12 +72,13 @@ The 37 added entries are:
 
 ### Consolidated or normalized headings
 
-Four existing headings were consolidated or normalized rather than creating duplicate glossary entries:
+Five existing headings were consolidated or normalized rather than creating duplicate glossary entries:
 
 - `Drop attack` → `Drop attack / functional drop attack`
 - `Functional speech or voice symptoms` → `Functional speech and voice symptoms`
 - `Functional weakness` → `Functional limb weakness / functional weakness`
 - `Functional tic-like symptoms` → `Functional tics / functional tic-like symptoms`
+- `Automatic and task-oriented movement` → `Automatic control / automatic and task-oriented movement` (stable anchor retained)
 
 The whole glossary term section was also re-sorted alphabetically; earlier drift had placed some I/M terms inside the F section.
 
@@ -95,7 +102,7 @@ The glossary is therefore a terminology resource, not a duplicate site map or su
 
 ## Internal semantic type map
 
-`reference/_internal/schema/glossary-type-map.json` contains **109 mappings across 13 semantic categories**:
+`reference/_internal/schema/glossary-type-map.json` contains **115 mappings across 13 semantic categories**:
 
 - therapy / rehabilitation
 - communication access
@@ -168,3 +175,8 @@ The following are intentionally outside this schema round:
 - citation / `ScholarlyArticle` relationships;
 - audience schema;
 - reviewer and medical-review metadata.
+
+
+## October 26, 2026 course-vocabulary refresh
+
+The canonical 19-module course introduced or foregrounded several mechanism and rehabilitation terms that were not yet represented under the wording learners now encounter. Six glossary entries were added: **Arousal**, **Attention types: selective, divided and sustained**, **Exteroception**, **Feedback loop**, **Motor learning**, and **Salience**. The existing automatic-movement entry was retitled to include **Automatic control** while preserving its stable anchor and term code. Definitions follow the distinctions used in Modules 6–10 and retain the project’s uncertainty and non-volition safeguards.

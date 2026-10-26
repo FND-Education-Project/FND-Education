@@ -114,7 +114,7 @@ Motor-FND rehabilitation consensus describes explanation, redirected attention, 
 
 ### Demonstrate the principle across different symptom goals
 
-For assessed functional limb weakness or gait disorder, ask whether an externally cued, supported functional task better meets the person's mobility goal than repeating isolated strength tests. For diagnosed speech/voice symptoms, ask whether a chosen communication goal and SLP-guided alternative makes an interaction usable. For FCD, a reliable written prompt or activity sequence may reduce errors now, whether or not cognition changes with rehabilitation. For functional seizures, individual safety and possible seizure-focused psychological programmes have a different evidence base and cannot be inferred from motor learning studies.
+For assessed functional limb weakness or gait disorder, ask whether an externally cued, supported functional task better meets the person's mobility goal than repeating isolated strength tests. For diagnosed speech/voice symptoms, ask whether a chosen communication goal and SLP-guided alternative makes an interaction usable. For FCD, a reliable written prompt or activity sequence may reduce errors now, whether or not cognition changes with rehabilitation. For functional seizures, individual safety and possible seizure-focused psychological programmes have a different evidence base and cannot be inferred from [motor learning](../../glossary/README.md#motor-learning) studies.
 
 Each example illustrates clinical reasoning; technique eligibility and actual procedures remain in the appropriate [Recovery Techniques collection](../../reference/recovery-techniques/README.md).
 

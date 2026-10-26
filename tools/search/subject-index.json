@@ -1133,7 +1133,10 @@
         "brain-networks",
         "prediction-attention-agency",
         "biopsychosocial-model",
-        "causes-triggers-risk"
+        "causes-triggers-risk",
+        "attention-automatic-control",
+        "interoception-proprioception",
+        "salience-arousal-feedback"
       ],
       "related": [
         "neuroplasticity"
@@ -1183,7 +1186,93 @@
       "narrower": [],
       "related": [
         "movement-retraining",
-        "neuroplasticity"
+        "neuroplasticity",
+        "attention-automatic-control",
+        "interoception-proprioception",
+        "salience-arousal-feedback"
+      ]
+    },
+    {
+      "id": "attention-automatic-control",
+      "label": "Attention, automatic control and external focus",
+      "category": "mechanism",
+      "definition": "How attention, automatic versus consciously controlled action, distraction, external focus, and task context can affect performance and symptom expression.",
+      "aliases": [
+        "automatic control",
+        "external focus",
+        "attentional focus"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "why thinking about movement makes it harder",
+        "movement easier when distracted",
+        "doing it without thinking",
+        "focus on the goal not the movement",
+        "symptoms change with attention"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-mechanisms"
+      ],
+      "narrower": [],
+      "related": [
+        "prediction-attention-agency",
+        "movement-retraining"
+      ]
+    },
+    {
+      "id": "interoception-proprioception",
+      "label": "Interoception, proprioception and body signals",
+      "category": "mechanism",
+      "definition": "Sensing and interpreting internal bodily conditions, body position and movement, and related body-signal information.",
+      "aliases": [
+        "body-signal processing"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "signals from inside my body",
+        "can't tell where my limb is",
+        "body feels disconnected",
+        "how do I know where my body is",
+        "notice heartbeat breathing or hunger"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-mechanisms"
+      ],
+      "narrower": [],
+      "related": [
+        "prediction-attention-agency",
+        "functional-sensory",
+        "autonomic-symptoms"
+      ]
+    },
+    {
+      "id": "salience-arousal-feedback",
+      "label": "Salience, arousal and feedback loops",
+      "category": "mechanism",
+      "definition": "How the nervous system prioritizes important information, changes readiness or arousal, and can form reinforcing feedback loops among symptoms, attention, and context.",
+      "aliases": [
+        "salience and arousal",
+        "feedback loops"
+      ],
+      "abbreviations": [],
+      "lay_phrases": [
+        "why some symptoms demand attention",
+        "everything feels too intense",
+        "symptoms feed into each other",
+        "nervous system on high alert"
+      ],
+      "misspellings": [],
+      "broader": [
+        "fnd-mechanisms"
+      ],
+      "narrower": [],
+      "related": [
+        "attention-automatic-control",
+        "prediction-attention-agency",
+        "sensory-overload",
+        "pacing"
       ]
     },
     {

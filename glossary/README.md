@@ -12,7 +12,7 @@
 
 **Status:** Project reference resource. Final wording remains subject to human editorial review.
 
-**Last terminology addition:** September 23, 2026 (co-occurring condition and functional-paralysis rehabilitation terms, automatically generated draft; human review pending); other entries retain their earlier review status.
+**Last terminology addition:** October 26, 2026 (course mechanism and rehabilitation vocabulary from Modules 6–10, automatically generated draft; human review pending); other entries retain their earlier review status.
 
 ---
 
@@ -28,6 +28,11 @@ A form of psychological therapy that aims to help a person respond more flexibly
 
 The sense that *I am the person causing or controlling this movement, action, or experience*. Altered sense of agency has been studied in FND, particularly in functional movement symptoms. It is one part of several developing models and is not a diagnostic test by itself.
 
+### Arousal
+{: #arousal .shareable }
+
+A person’s level of physiological and mental readiness or activation. Arousal can rise during exercise, excitement, illness, pain, surprise or fear and is not the same thing as anxiety. FND researchers study how arousal may interact with attention, prediction and symptoms, but arousal by itself does not diagnose FND or prove a psychological cause. See [Salience, Arousal, and Feedback Loops](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md).
+
 ### Associated symptoms
 {: #associated-symptoms .shareable }
 
@@ -38,15 +43,20 @@ Symptoms that commonly occur alongside FND but may not themselves be defining fe
 
 The brain’s selective focus on some information while filtering other information. Research and rehabilitation models suggest that attention can influence some functional symptoms, but this does **not** mean a person is choosing, imagining, or deliberately producing the symptom.
 
+### Attention types: selective, divided and sustained
+{: #attention-types-selective-divided-and-sustained .shareable }
+
+**Selective attention** means concentrating on one source of information while other information competes for attention. **Divided attention** means managing more than one task or information stream at once. **Sustained attention** means staying with a task or information over time. These are ordinary attention functions, not FND-specific tests. Symptoms, pain, fatigue, sensory load and other conditions can all affect how demanding attention feels. See [Attention: What the Brain Notices](../course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md).
+
 ### Augmentative and alternative communication (AAC)
 {: #augmentative-and-alternative-communication-aac .shareable }
 
 Ways of communicating that supplement or replace speech when speech is difficult or unavailable. AAC can include writing, gesture, communication boards, text-to-speech devices and other tools. It may be temporary, intermittent or ongoing and does not prevent rehabilitation of speech when that is an appropriate goal.
 
-### Automatic and task-oriented movement
+### Automatic control / automatic and task-oriented movement
 {: #automatic-and-task-oriented-movement .shareable }
 
-Movement that emerges while carrying out an ordinary action or goal rather than by concentrating closely on the body part itself. FND rehabilitation may use safe automatic or task-oriented movement when it is easier or more natural than deliberate isolated movement. This is a rehabilitation principle, not a test of whether symptoms are genuine.
+**Automatic control** describes learned actions that can be coordinated without close, step-by-step conscious direction. **Automatic or task-oriented movement** is movement that emerges while carrying out an ordinary action or goal rather than concentrating closely on the body part itself. FND rehabilitation may use safe automatic or task-oriented movement when it is easier or more natural than deliberate isolated movement. A movement changing with task or attention does not mean symptoms are voluntary. See [Automatic Control and Conscious Effort](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md).
 
 ### Autonomic arousal
 {: #autonomic-arousal .shareable }
@@ -196,7 +206,17 @@ Epileptic seizures result from abnormal seizure-related electrical activity in t
 
 Directing attention toward the purpose or result of an action, such as turning a page, rather than continually checking the moving body part. In FND it is an individually assessed practice option, not a test of whether symptoms are real. See [meaningful task practice](../reference/recovery-techniques/functional_paralysis/02-meaningful-task-and-attention.md).
 
+### Exteroception
+{: #exteroception .shareable }
+
+The nervous system’s sensing of information from outside the body, including sight, sound and touch. Exteroception works alongside interoception and proprioception during everyday perception and action. Describing which kind of information a person is noticing can improve communication, but it does not establish why a symptom is happening. See [Interoception, Proprioception, and Outside Senses](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
+
 ## F
+
+### Feedback loop
+{: #feedback-loop .shareable }
+
+A pattern in which two or more processes affect one another over time. A feedback loop can be helpful, neutral or make an experience harder to manage. FND researchers study possible interactions among attention, bodily arousal, prediction, movement and awareness, but identifying a feedback loop does not prove that someone caused an illness through thoughts or emotions. See [Salience, Arousal, and Feedback Loops](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md).
 
 ### Functional
 {: #functional .shareable }
@@ -391,6 +411,11 @@ A phrase historically used for symptoms without an identified conventional medic
 
 Judging and responding to your own thinking—for example, assessing whether you understood an instruction. Repeated monitoring can become unhelpful for some people, but is not the cause of everyone's FCD. See [working models](../reference/functional-cognitive-disorder.md#working-models-not-one-proven-cause).
 
+### Motor learning
+{: #motor-learning .shareable }
+
+Changes in how a movement or skill is planned and performed through practice and experience. FND rehabilitation may draw on motor-learning principles such as goal-directed practice, external focus and more automatic movement, but evidence from one symptom type or rehabilitation approach should not automatically be applied to every FND presentation. See [How Rehabilitation Uses Learning](../course/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md).
+
 ### Motor tic
 {: #motor-tic .shareable }
 
@@ -505,6 +530,11 @@ Structured work aimed at improving function, participation, independence, confid
 A return or worsening of symptoms after improvement or a period of greater stability. FND can fluctuate. A setback does not automatically mean treatment has failed, but new, severe, or substantially changed symptoms may still need medical reassessment rather than being assumed to be FND.
 
 ## S
+
+### Salience
+{: #salience .shareable }
+
+The priority or importance the nervous system gives to a piece of information. Pain, an unexpected sound, a movement or another personally important signal can capture attention without conscious choice. Salience is studied in FND mechanism research, but it is not a diagnostic sign and does not mean a person is deliberately focusing on a symptom. See [Salience, Arousal, and Feedback Loops](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md).
 
 ### Scan-negative cauda equina presentation
 {: #scan-negative-cauda-equina-presentation .shareable }
