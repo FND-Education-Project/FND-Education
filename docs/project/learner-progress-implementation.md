@@ -2,7 +2,7 @@
 
 Status: feature implementation and backend deployment plan in PR #154.
 **Public sign-in is not enabled in the committed site configuration.**
-Database provisioning has begun separately; this document is not live-state telemetry.
+The learner Worker and its separate Cloudflare D1 have been provisioned for private email-account testing. Public sign-in remains disabled.
 
 ## Approved learning experience
 
@@ -65,13 +65,30 @@ worth preserving, then run it against `fnd-learner-accounts` explicitly, never
 the statistics database. Do not deploy the updated validator before the
 database reset and coordinated public manifest/client change.
 
-**Branch integration pending:** PR #191 should be merged independently,
-then PR #154's generator/manifest and client changes must be reconciled
-against its actual canonical `tools/site/prepare_site.py`. A stand-alone
-synthetic 19/57 contract test exists, but it is not proof of the future merged
-site. Test the real generated JSON, Jekyll links, Node/Worker suite, Chrome
-and mobile sign-in, 2-account isolation, resume, themes and deletion. Keep
-PR #154 a draft and public sign-in disabled until those gates pass.
+**Branch reconciliation complete — October 26, 2026:** PR #191 was merged
+into main. PR #154 now has an explicit two-parent reconciliation commit
+`eab65000cecbcbc288664aa34a1c06b6140aafd6` built from the exact
+new source structure without restoring removed course lessons.
+The current `tools/site/prepare_site.py` generates 5 Parts, 19
+Modules and exactly 57 trackable lessons; `tools/site/validate.py`
+checks the exact published URLs and IDs, plus eligibility and absence of
+earlier-edition entries. The site retains the feature's account controls
+in layouts, styles, and optional JavaScript while preserving main's
+current course, Reference, puzzles, navigation and build workflow.
+The manifest is generated even with public learner sign-in disabled.
+
+**Build verified:** [PR #154 GitHub Actions run 40372469625]
+(https://github.com/FND-Education-Project/FND-Education/actions/runs/40372469625)
+passed: Node/Worker contract tests, syntax checks, real curriculum
+unit tests, generated source/site validation, Jekyll/Pagefind,
+built-site link checks, and desktop/mobile browser rendering.
+
+**Not yet released:** The private learner D1 still has test-only
+previous-curriculum completion rows; do NOT deploy the changed Worker or
+enable public sign-in until the owner approves the dedicated SQL test-data
+reset and we rerun sign-in/lesson progress acceptance on the current
+57-lesson pages. Keep PR #154 a draft. The user deliberately postponed
+interactive Chrome testing; no need to create a Codespace yet.
 
 **Earlier private browser acceptance:** Passwordless email with Turnstile
 and Resend, confirmed completion, refresh/sign-out persistence, two accounts
@@ -126,7 +143,7 @@ fresh login, persistent session renewal and revocation, optional idle
 sign-out, all completion confirmations, keyboard focus/escape, themes,
 tablet/phone, export/delete, clear progress, and failures/offline behavior.
 
-Canonical lesson sources remain unchanged. The implementation is separated
+The canonical 57 lesson sources are preserved from merged PR #191. The account implementation is separated
 from the editorial audits and existing metrics Worker.
 
 
@@ -175,5 +192,7 @@ provider-controlled retention window; review and document those terms
 before claiming complete immediate erasure of every backup. Rate-limit
 destructive calls and test browser/account recovery cases.
 
-All cleanup work in this branch is unprovisioned; it becomes active only
-after the isolated learner D1 and Worker pass the production setup gates.
+The isolated learner D1 and Worker are provisioned for private tests. The
+existing maintenance schedule is separate from the public sign-in toggle.
+Reconfirm its deployed Cron and deletion behavior during final production
+security/retention review; do not assume this draft's code is deployed.
