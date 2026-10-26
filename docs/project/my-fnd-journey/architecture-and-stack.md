@@ -1,5 +1,8 @@
 # Architecture, stack, modules and class responsibilities
 
+> **Course interface update (October 26, 2026):** The published course now has **19 modules and 57 lessons**, changed by merged PR #191. PR #154 (draft) has been updated to generate the version-2 manifest for exactly those lessons, but requires owner-approved reset of previous private test completion rows before deploying the Worker. Any `CourseConnector` must accept the current versioned public manifest only and construct canonical paths `/course/mN/L/`; it must reject `/course/v2/`, old `m20`–`m23` and superseded slots. **Do not** infer continuity of completions from reused IDs. See [course-tracker-handoff.md](course-tracker-handoff.md). The Phase 0 Activity Room does not depend on course content.
+
+
 **Status:** Proposed architecture, **not a current implementation**. No dependency choices are binding until a proof of concept and security/accessibility review. No monthly subscription, proprietary hosted AI, or app-store developer account is required for the first PWA build.
 
 ## Current repository constraints (confirmed in PR #154)
