@@ -16,43 +16,105 @@ Lesson 16 explores automatic Control and Conscious Effort through everyday examp
 
 ## For the Person With FND
 
-### Who told your feet what to do?
+### When your hands know the way
 
-Think about walking to the kitchen. You probably aren't sending a separate instruction to each ankle, knee and hip. You're thinking about the kitchen. Your nervous system handles much of the coordination in the background.
+Imagine signing your name on a birthday card.
 
-Now imagine someone asking you to explain exactly how you walk while you are walking. Where does your weight go? How high do you lift your foot? What happens to your arms?
+For many people, the pen seems to know where to go. You think about writing your name, and your hand takes care of a lot of the little movements.
 
-Suddenly something familiar may feel awkward. A simple action has become a complicated assignment.
+Now imagine somebody standing beside you, asking questions as you write.
 
-Many learned movements use **[automatic control](../../glossary/README.md#automatic-and-task-oriented-movement)**. That doesn't mean the brain isn't working. It means much of the work happens without close, step-by-step conscious direction.
+"Which finger moves first? What does your wrist do? How hard are you pressing?"
 
-### When trying harder changes the task
+Suddenly, signing your name sounds like a complicated job!
 
-Conscious attention is useful when learning something new. You may need to think carefully while you learn to tie a knot. After enough practice, the steps can become smoother.
+This is one way to picture **[automatic control](../../glossary/README.md#automatic-and-task-oriented-movement)**. Your brain has learned how to put parts of a familiar action together. You can focus on what you're doing while much of the coordination happens in the background.
 
-But sometimes watching a well-learned action too closely interrupts its usual rhythm. Musicians and athletes know this experience. You can be playing comfortably until someone asks you to explain what every finger is doing.
+It's a bit like having a well-practised team working behind the scenes.
 
-In FND, clinicians sometimes find that a movement changes when a task draws on a more automatic pattern, an external goal or a different way of moving. These changes can help support a *positive diagnosis* when a professional interprets them alongside the full examination. (*citations* [1](#citation-1), [2](#citation-2))
+### When thinking about every move changes things
 
-**A movement that works once is not necessarily available whenever it is needed.** Symptoms can remain disabling and involuntary even when ability varies.
+Think back to learning something for the first time. Maybe it was using a computer mouse, tying a knot, or playing a few notes on an instrument.
 
-### What does that mean for everyday life?
+At first, each little step needed your attention.
 
-Imagine reaching for a cup is easier when you think about getting a drink than when someone asks you to lift your arm just to show them you can.
+With practice, some actions begin to flow more smoothly. Your brain still does plenty of work. You simply have less need to direct every part of the movement.
 
-The important difference might involve the task, attention, timing, confidence, fatigue, pain, support or several things together. Nobody should assume a single explanation from this example.
+Sometimes, paying close attention to an action that usually flows on its own can make it feel awkward.
 
-It also doesn't mean you should experiment with unsafe movements. Falls, joint injuries and swallowing or breathing problems deserve particular care.
+That's a familiar experience for many people. With some **functional movement symptoms**, changes in attention and how a task is approached can also affect movement itself. Researchers and clinicians are interested in those differences because they may offer clues about how to support rehabilitation. (*citations* [1](#citation-1), [2](#citation-2))
 
-### Can we use this understanding?
+### What might this look like with FND?
 
-Instead of asking only, “Can I do this movement?”, another question is: **“What am I trying to accomplish, and what would make that task safer or easier?”**
+Picture someone with functional weakness in an arm.
 
-An occupational therapist or FND-informed physiotherapist might work with the purpose of the action, not merely repeat an isolated movement. An aid, rest break or different setup may still be needed.
+During an appointment, the clinician asks them to lift that arm. The movement is difficult.
+
+Later, while getting dressed, the same arm might help a little as the person works their sleeve into place. The action has a purpose: getting dressed.
+
+That small difference could be useful information for a clinician. It might help them explore how the person moves during a meaningful activity.
+
+And getting a sleeve on still takes work. The person may need help, more time, or a different way of dressing.
+
+**One movement is a snapshot. Daily life is the whole movie.**
+
+A movement that happens in one moment tells us something about what's possible in that situation. Being able to start it again, keep going, and do it safely are separate questions. This matters when symptoms change from day to day. (*citations* [1](#citation-1), [3](#citation-3))
+
+### Why does trying harder sometimes feel harder?
+
+Maybe you're concentrating so closely on an action that every part of it starts to demand attention.
+
+Your thoughts might sound like this:
+
+"Where should my hand go? Am I doing this properly?"
+
+It's understandable to pay extra attention when an activity has become difficult or unpredictable.
+
+Sometimes that careful attention helps, especially when learning a new skill. At other times, the activity may flow better when you have a clear goal rather than a separate instruction for each movement.
+
+For a person with FND, the effect depends on their symptoms and the situation. **Difficulty with movement is involuntary, even when an action changes with the task or attention.**
+
+### Working with the goal in rehabilitation
+
+Imagine someone meeting with a physiotherapist because their arm feels weak.
+
+Rather than practising only the instruction "lift your arm," the therapist might help them take part in a familiar, safe activity, such as moving a light towel onto a nearby surface while seated.
+
+The therapist pays attention to the whole action, provides the support needed, and adjusts the activity to what the person can manage that day.
+
+This is called **task-oriented movement practice**. It gives the nervous system a useful goal to work toward, with professional guidance. It is one approach used in specialist rehabilitation for some functional movement difficulties. (*citation* [1](#citation-1))
+
+An **occupational therapist**, or **OT**, might then help the person use a similar approach at home. The focus could be getting dressed with less effort. Perhaps that means a different position, a rest break, or clothing that's easier to manage.
+
+The goal is an everyday activity that becomes more usable, comfortable, or reliable. Support and equipment can remain part of the plan. (*citation* [3](#citation-3))
+
+### What about other FND symptoms?
+
+Automatic actions go beyond arms and legs.
+
+Think about telling a friend an exciting story. You usually have a message you want to share. Your brain coordinates many parts of speaking as you go.
+
+For some people with functional speech or voice difficulties, a **speech-language therapist** may explore meaningful conversation rather than asking for the same sound again and again.
+
+The person might practise getting a message across, with the communication supports they need. This approach is chosen with the therapist to fit the person's particular difficulty. (*citation* [4](#citation-4))
+
+Other FND symptoms, such as functional seizures or changes in sensation, have their own care needs. A movement practice that suits one person may be quite different from what helps another.
+
+### Finding an approach that fits your life
+
+So, where does this leave us?
+
+You may have an activity that sometimes goes more easily than expected. Or perhaps it remains difficult every time.
+
+Either way, you deserve a plan that works with your current abilities, your safety needs, and what matters to you.
+
+Sometimes progress means practising a movement with a therapist. Sometimes it means changing how an everyday job gets done.
+
+**The important question becomes: "What am I trying to do, and what might help me do it?"**
 
 ### Something to think about
 
-When you do something familiar, such as getting dressed or reaching for a cup, are you usually thinking about the goal or about every movement along the way?
+When you do something familiar, such as getting dressed or reaching for a cup, do you usually think about the goal or about every little movement along the way?
 
 ### How might that feel?
 
@@ -60,13 +122,16 @@ Is there a familiar activity you'd like to feel more comfortable doing, even if 
 
 ### One small step
 
-Choose a familiar, safe activity you already do, such as sorting a few objects while seated comfortably and securely.
+Choose a familiar, **safe** activity you can already do, such as sorting a few lightweight objects into a box while seated securely.
 
-Think about the **goal**—for example, getting the objects into a box—rather than guiding each movement one by one. Keep using any supports that help you. Take a break whenever you need one.
+Think about the goal—getting the objects where they belong—rather than giving yourself instructions for each movement.
 
-If a movement carries a risk of falling or injury, you can bring the idea to your physiotherapist or occupational therapist instead. They can help choose a safe way to explore it.
+Keep your usual supports. Try it only for as long as it feels comfortable, and rest when you need to.
 
-In the next lesson, we'll explore why changing the focus or setting may sometimes change how a task goes.
+If movement brings a risk of falling or injury, you can describe the activity to your physiotherapist or occupational therapist instead. They can help you explore a safe version together.
+
+Next, we'll look more closely at how a change in focus, instructions, or surroundings can affect what happens during an activity.
+
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
