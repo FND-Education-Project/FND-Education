@@ -34,12 +34,12 @@ class CurriculumRevisionTests(unittest.TestCase):
         self.assertEqual(len({p.public_url for p in self.pages}), 77)
         self.assertTrue(all(p.is_core and p.progress_eligible for p in self.lessons))
         self.assertTrue(all(
-            re.fullmatch(r'module-\\d{2}-.+', p.source.parent.name)
+            re.fullmatch(r'module-\d{2}-.+', p.source.parent.name)
             and p.source.parent.parent == ROOT / 'course'
             for p in self.lessons
         ))
         self.assertTrue(all(
-            re.fullmatch(r'/course/m\\d+/\\d+/', p.public_url)
+            re.fullmatch(r'/course/m\d+/\d+/', p.public_url)
             for p in self.lessons
         ))
         self.assertFalse((ROOT / 'course/concepts-first').exists())
@@ -84,9 +84,9 @@ class CurriculumRevisionTests(unittest.TestCase):
             content = page.source.read_text(encoding='utf-8')
             self.assertIn('automatically generated', content)
             self.assertEqual(len(re.findall(r'^## For ', content, re.M)), 3)
-            ids = re.findall(r'<a id="citation-(\\d+)">', content)
+            ids = re.findall(r'<a id="citation-(\d+)">', content)
             self.assertEqual(ids, [str(n) for n in range(1, len(ids) + 1)])
-            for n in re.findall(r'\\]\\(#citation-(\\d+)\\)', content):
+            for n in re.findall(r'\]\(#citation-(\d+)\)', content):
                 self.assertIn(n, ids)
 
 
