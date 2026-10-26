@@ -28,6 +28,58 @@ optional crosswords do not.
 - Without a configured/available account API, published lesson content and
   static course index remain readable, not replaced by fictitious progress.
 
+## October 26, 2026 — curriculum #191 compatibility (not deployed)
+
+PR #191's new canonical course has **19 modules / 57 current lessons**.
+Its older 75 lessons, nine superseded module overviews and original URL/key
+pairs remain public as an earlier edition. Of the current 57 lessons, 16
+new concepts-first lessons live at /course/v2/m6/.../m10/; they use
+reserved internal source slots 24–28, *not* legacy Module 6–10 identities.
+Thus the 57-lesson path contains 41 original progress-eligible lessons;
+34 original lessons remain earlier-edition reading. All 75 original lesson
+progress records must remain intact across a curriculum change.
+
+**Completed on this feature branch, not in production:**
+- Correct the Worker legacy allowlist from 74 to 75, including `m4-2`.
+  Retain its strict m1–m23 allowlist; the new source slots 24–28 and
+  arbitrary IDs remain rejected by the server.
+- Add a v2 manifest contract with `progressEligible`, a separate
+  `earlierModules` collection, immutable legacy IDs and explicit URLs.
+  The 16 new lessons have null API IDs; they are readable but do not
+  offer any Visit/Complete mutation or misleading Not Started status.
+- Keep the account client compatible with v1 local previews while enabling
+  v2 core and earlier-edition views, and resume earlier stored keys at
+  their exact old routes (e.g., original `m6-1` seizures).
+- Never map current display module numbers to API IDs; never migrate D1
+  values, reinterpret existing checkmarks, or discard unrecognized saved
+  rows. No schema change or account deployment is part of this update.
+- Add synthetic curriculum tests for 19 current modules / 57 current
+  lessons / 34 earlier lessons / 75 immutable eligible legacy IDs and
+  16 newly readable, untracked lessons.
+
+**Required before reconciling and merging:** PR #191 is an independent,
+currently unmerged course publication, with conflicting generator work.
+After its separate approval/merge into main, reconcile the manifest writer
+with the canonical `tools/site/prepare_site.py` from #191 **without losing
+either branch's discovery/navigation work**. Test a fresh site build and
+generated JSON against the real #191 course. Ensure 19 current modules,
+57 current lessons, 34 earlier lessons and 75 preserved original keys.
+Then run Node contract tests, site validation, browser checks on course
+and earlier-edition pages, and two-account sign-in/reauthentication
+acceptance before enabling the public account endpoint.
+
+**Existing real-browser tests (private Chrome Local Overrides):**
+Passwordless email/Turnstile and Resend; one learner's completion survived
+refresh, sign-out, and return; two email-based learner accounts stayed isolated
+through repeated switching (one completion versus three); all appearance
+choices persisted and applied with the feature CSS. This verifies the old
+progress contract and account isolation, **not** #191 publication integration
+or eligibility-aware new lesson behavior.
+
+Do not merge PR #154 automatically or deploy the Worker when PR #191 lands;
+the feature remains gated until the shared contract and real browser tests
+pass. The public course may publish independently.
+
 ## Account preferences and shared devices
 
 Display username, theme (`system`, `light`, `dark`), and optional
