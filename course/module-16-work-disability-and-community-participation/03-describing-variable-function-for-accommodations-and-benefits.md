@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 20](README.md) › **Describe Variable Function for Accommodations and Benefits**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › [Module 20](README.md) › **Describe Variable Function for Accommodations and Benefits**
 <!-- NAV-BREADCRUMB:END -->
 
 # Describe Variable Function for Accommodations and Benefits
@@ -22,7 +22,7 @@
 
 **Functional capacity** is what you can do in real conditions. **Variable function** means that ability changes across time or situations. Disability forms and rules use different definitions, so local advice matters.
 
-![A function description contains five pieces: task, reliability, safety, recovery time and support needed.](../../../assets/illustrations/module-20-page-3-variable-function.svg)
+![A function description contains five pieces: task, reliability, safety, recovery time and support needed.](../../assets/illustrations/module-20-page-3-variable-function.svg)
 
 *Illustration: one successful attempt does not answer every question about sustainable function.*
 
@@ -117,14 +117,14 @@ Outcome measures can support care but are imperfect and cover different domains.
 
 ## Further reading in the Reference Library
 
-- **[Self-Doubt, Legitimacy, and Dignity in Variable Disability](../../../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md)** — why a better moment does not erase disability and why reliability matters more than a single performance.
+- **[Self-Doubt, Legitimacy, and Dignity in Variable Disability](../../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md)** — why a better moment does not erase disability and why reliability matters more than a single performance.
 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next part: Long-Term Management](../../part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/README.md)
+**Continue:** [Next part: Long-Term Management](../module-17-setbacks-relapse-and-changing-symptoms/README.md)
 
-**Navigate:** [← Previous page](02-community-participation-meaningful-roles-and-variable-capacity.md) · [Module overview](README.md) · [Course](../../README.md)
+**Navigate:** [← Previous page](02-community-participation-meaningful-roles-and-variable-capacity.md) · [Module overview](README.md) · [Course](../README.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -133,8 +133,8 @@ Outcome measures can support care but are imperfect and cover different domains.
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Moss RSL, Lennon MJ, Anne S, et al. Disability, distress and delayed access to care in functional neurological disorder: cross-sectional study from an Australian tertiary clinic. *BJPsych Open*. 2026;12(3):e128. [FND-CIT-0090](../../../research/citation-index.md#fnd-cit-0090). [https://doi.org/10.1192/bjo.2026.11038](https://doi.org/10.1192/bjo.2026.11038) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Moss RSL, Lennon MJ, Anne S, et al. Disability, distress and delayed access to care in functional neurological disorder: cross-sectional study from an Australian tertiary clinic. *BJPsych Open*. 2026;12(3):e128. [FND-CIT-0090](../../research/citation-index.md#fnd-cit-0090). [https://doi.org/10.1192/bjo.2026.11038](https://doi.org/10.1192/bjo.2026.11038) |
 
 This page still needs review by people navigating disability systems, benefits advisers, clinicians, occupational therapists and legal reviewers from multiple jurisdictions.
 

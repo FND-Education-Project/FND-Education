@@ -1,7 +1,7 @@
 # Module 18 — Relationships, Identity, and Grief
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › **Module 18: Relationships, Identity, and Grief**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › **Module 18: Relationships, Identity, and Grief**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
@@ -27,7 +27,7 @@ Qualitative research reports loss, stigma, relationship strain, isolation, hope 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Start with Grief, Identity, Purpose, and Social Isolation](01-grief-identity-purpose-and-social-isolation.md)
 
-**Navigate:** [← Module 17](../module-17-daily-living-accessibility-and-equipment/README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Module 17](../module-13-daily-living-accessibility-and-equipment/README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -36,8 +36,8 @@ Qualitative research reports loss, stigma, relationship strain, isolation, hope 
 
 | Citation | Full citation |
 |---|---|
-| <a id="citation-1"></a>**[1]** | Szasz A, Korner A, McLean L. Qualitative systematic review on the lived experience of functional neurological disorder. *BMJ Neurology Open*. 2025;7(1):e000694. [FND-CIT-0080](../../../research/citation-index.md#fnd-cit-0080). [https://doi.org/10.1136/bmjno-2024-000694](https://doi.org/10.1136/bmjno-2024-000694) |
-| <a id="citation-2"></a>**[2]** | Gatherer C, Garip G. “Look for Glimmers Instead of Triggers”: An Exploration Into the Lived Experiences of Functional Neurological Disorder Using Interpretative Phenomenological Analysis. *Psychological Reports*. Published online June 15, 2025. [FND-CIT-0086](../../../research/citation-index.md#fnd-cit-0086). [https://doi.org/10.1177/00332941251351234](https://doi.org/10.1177/00332941251351234) |
+| <a id="citation-1"></a>**[1]** | Szasz A, Korner A, McLean L. Qualitative systematic review on the lived experience of functional neurological disorder. *BMJ Neurology Open*. 2025;7(1):e000694. [FND-CIT-0080](../../research/citation-index.md#fnd-cit-0080). [https://doi.org/10.1136/bmjno-2024-000694](https://doi.org/10.1136/bmjno-2024-000694) |
+| <a id="citation-2"></a>**[2]** | Gatherer C, Garip G. “Look for Glimmers Instead of Triggers”: An Exploration Into the Lived Experiences of Functional Neurological Disorder Using Interpretative Phenomenological Analysis. *Psychological Reports*. Published online June 15, 2025. [FND-CIT-0086](../../research/citation-index.md#fnd-cit-0086). [https://doi.org/10.1177/00332941251351234](https://doi.org/10.1177/00332941251351234) |
 
 This overview still needs review by people with FND, partners, family members, counsellors and relationship or sexual-health specialists.
 

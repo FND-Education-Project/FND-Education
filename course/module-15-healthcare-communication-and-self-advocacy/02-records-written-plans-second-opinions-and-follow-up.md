@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 19](README.md) › **Records, Written Plans, and Follow-Up**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › [Module 19](README.md) › **Records, Written Plans, and Follow-Up**
 <!-- NAV-BREADCRUMB:END -->
 
 # Records, Written Plans, and Follow-Up
@@ -22,7 +22,7 @@ A written plan gives memory somewhere outside your head. A clear record also mak
 
 A **written care plan** records what was agreed, who will do it and when it will be reviewed. A **second opinion** is another qualified clinician's assessment; it is not a guarantee of a different diagnosis or treatment.
 
-![A health record is divided into confirmed information, uncertainty, changes and the next step.](../../../assets/illustrations/module-19-page-2-records.svg)
+![A health record is divided into confirmed information, uncertainty, changes and the next step.](../../assets/illustrations/module-19-page-2-records.svg)
 
 *Illustration: “not yet known” belongs in the record. It does not have to be disguised as certainty.*
 
@@ -115,7 +115,7 @@ Record function across domains rather than using symptom count alone. Outcome-me
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: When Healthcare Communication Breaks Down](03-when-healthcare-communication-breaks-down.md)
 
-**Navigate:** [← Previous page](01-preparing-for-and-communicating-during-appointments.md) · [Module overview](README.md) · [Course](../../README.md)
+**Navigate:** [← Previous page](01-preparing-for-and-communicating-during-appointments.md) · [Module overview](README.md) · [Course](../README.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -124,8 +124,8 @@ Record function across domains rather than using symptom count alone. Outcome-me
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [FND-CIT-0083](../../../research/citation-index.md#fnd-cit-0083). [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [FND-CIT-0083](../../research/citation-index.md#fnd-cit-0083). [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
 
 This page still needs review by people who use records for memory access, health-record staff, clinicians and patient advocates.
 

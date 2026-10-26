@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 19](README.md) › **When Healthcare Communication Breaks Down**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › [Module 19](README.md) › **When Healthcare Communication Breaks Down**
 <!-- NAV-BREADCRUMB:END -->
 
 # When Healthcare Communication Breaks Down
@@ -22,7 +22,7 @@ Sometimes the problem is not that you need a better script. You may have been di
 
 A **communication breakdown** happens when information, respect, consent or shared understanding is lost enough to affect care. **Repair** means naming the problem and trying a safer route forward; it does not require you to excuse harm.
 
-![A stepped route shows pause, name the problem, ask for clarification, add support, then seek another opinion or formal route if needed.](../../../assets/illustrations/module-19-page-3-communication-repair.svg)
+![A stepped route shows pause, name the problem, ask for clarification, add support, then seek another opinion or formal route if needed.](../../assets/illustrations/module-19-page-3-communication-repair.svg)
 
 *Illustration: start at the step that fits. You do not have to complete every step or return to an unsafe clinician.*
 
@@ -111,14 +111,14 @@ Document diagnostic reasoning without pejorative shortcuts. Offer written explan
 
 ## Further reading in the Reference Library
 
-- **[Mental Health, Stigma, and Being Believed](../../../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md)** — credibility, stigma, diagnostic overshadowing and the distinction between believing a symptom and knowing its cause.
+- **[Mental Health, Stigma, and Being Believed](../../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md)** — credibility, stigma, diagnostic overshadowing and the distinction between believing a symptom and knowing its cause.
 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Work, Disability, and Community Participation](../module-20-work-disability-and-community-participation/README.md)
+**Continue:** [Next module: Work, Disability, and Community Participation](../module-16-work-disability-and-community-participation/README.md)
 
-**Navigate:** [← Previous page](02-records-written-plans-second-opinions-and-follow-up.md) · [Module overview](README.md) · [Course](../../README.md)
+**Navigate:** [← Previous page](02-records-written-plans-second-opinions-and-follow-up.md) · [Module overview](README.md) · [Course](../README.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -127,9 +127,9 @@ Document diagnostic reasoning without pejorative shortcuts. Offer written explan
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Leochico CFG, Kashif D, Bhatt H, et al. Challenges and care recommendations of persons with functional neurological disorder and care partners: a qualitative study. *Canadian Journal of Neurological Sciences*. Published online July 23, 2026:1–12. [FND-CIT-0082](../../../research/citation-index.md#fnd-cit-0082). [https://doi.org/10.1017/cjn.2026.10629](https://doi.org/10.1017/cjn.2026.10629) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
-| <a id="citation-3"></a>**[3]** | — | Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [FND-CIT-0083](../../../research/citation-index.md#fnd-cit-0083). [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Leochico CFG, Kashif D, Bhatt H, et al. Challenges and care recommendations of persons with functional neurological disorder and care partners: a qualitative study. *Canadian Journal of Neurological Sciences*. Published online July 23, 2026:1–12. [FND-CIT-0082](../../research/citation-index.md#fnd-cit-0082). [https://doi.org/10.1017/cjn.2026.10629](https://doi.org/10.1017/cjn.2026.10629) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
+| <a id="citation-3"></a>**[3]** | — | Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [FND-CIT-0083](../../research/citation-index.md#fnd-cit-0083). [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826) |
 
 This page still needs review by people harmed or dismissed in care, clinicians, patient advocates, complaints staff and diagnostic-safety specialists.
 

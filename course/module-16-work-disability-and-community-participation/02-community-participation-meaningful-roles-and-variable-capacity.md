@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 20](README.md) › **Community Participation and Meaningful Roles**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › [Module 20](README.md) › **Community Participation and Meaningful Roles**
 <!-- NAV-BREADCRUMB:END -->
 
 # Community Participation and Meaningful Roles
@@ -22,7 +22,7 @@ Participation can mean belonging, choosing, learning, caring, creating or being 
 
 **Participation** means involvement in life situations that matter to you. A **meaningful role** is a place you hold in your own life or with others; it can be small, changing or unpaid.
 
-![Several equal paths lead to participation: relationships, learning, creativity and community, with paid work shown as only one possible path.](../../../assets/illustrations/module-20-page-2-participation.svg)
+![Several equal paths lead to participation: relationships, learning, creativity and community, with paid work shown as only one possible path.](../../assets/illustrations/module-20-page-2-participation.svg)
 
 *Illustration: no path is a ranking. Rest, receiving care and surviving a hard period do not make a person less valuable.*
 
@@ -112,7 +112,7 @@ Research here is mainly qualitative and describes experience rather than interve
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Describe Variable Function for Accommodations and Benefits](03-describing-variable-function-for-accommodations-and-benefits.md)
 
-**Navigate:** [← Previous page](01-work-school-disability-and-accommodations.md) · [Module overview](README.md) · [Course](../../README.md)
+**Navigate:** [← Previous page](01-work-school-disability-and-accommodations.md) · [Module overview](README.md) · [Course](../README.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -121,8 +121,8 @@ Research here is mainly qualitative and describes experience rather than interve
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Gatherer C, Garip G. “Look for Glimmers Instead of Triggers”: An Exploration Into the Lived Experiences of Functional Neurological Disorder Using Interpretative Phenomenological Analysis. *Psychological Reports*. Published online June 15, 2025. [FND-CIT-0086](../../../research/citation-index.md#fnd-cit-0086). [https://doi.org/10.1177/00332941251351234](https://doi.org/10.1177/00332941251351234) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Pritomanova I, Cope SR, James B, et al. The journey to diagnosis and care of functional neurological disorder (FND). *PLOS ONE*. 2026;21(4):e0328321. [FND-CIT-0088](../../../research/citation-index.md#fnd-cit-0088). [https://doi.org/10.1371/journal.pone.0328321](https://doi.org/10.1371/journal.pone.0328321) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Gatherer C, Garip G. “Look for Glimmers Instead of Triggers”: An Exploration Into the Lived Experiences of Functional Neurological Disorder Using Interpretative Phenomenological Analysis. *Psychological Reports*. Published online June 15, 2025. [FND-CIT-0086](../../research/citation-index.md#fnd-cit-0086). [https://doi.org/10.1177/00332941251351234](https://doi.org/10.1177/00332941251351234) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Pritomanova I, Cope SR, James B, et al. The journey to diagnosis and care of functional neurological disorder (FND). *PLOS ONE*. 2026;21(4):e0328321. [FND-CIT-0088](../../research/citation-index.md#fnd-cit-0088). [https://doi.org/10.1371/journal.pone.0328321](https://doi.org/10.1371/journal.pone.0328321) |
 
 This page still needs review by people with severe or variable FND, disability communities, occupational therapists and community-access specialists.
 

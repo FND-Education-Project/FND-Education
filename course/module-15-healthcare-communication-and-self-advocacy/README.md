@@ -1,7 +1,7 @@
 # Module 19 — Healthcare Communication and Self-Advocacy
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › **Module 19: Healthcare Communication and Self-Advocacy**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › **Module 19: Healthcare Communication and Self-Advocacy**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
@@ -27,7 +27,7 @@ A 2026 systematic review supports clear, empathic, reinforced explanations and f
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Start with Prepare for and Communicate During Appointments](01-preparing-for-and-communicating-during-appointments.md)
 
-**Navigate:** [← Module 18](../module-18-relationships-identity-and-grief/README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Module 18](../module-14-relationships-identity-and-grief/README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -36,8 +36,8 @@ A 2026 systematic review supports clear, empathic, reinforced explanations and f
 
 | Citation | Full citation |
 |---|---|
-| <a id="citation-1"></a>**[1]** | Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [FND-CIT-0083](../../../research/citation-index.md#fnd-cit-0083). [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826) |
-| <a id="citation-2"></a>**[2]** | Leochico CFG, Kashif D, Bhatt H, et al. Challenges and care recommendations of persons with functional neurological disorder and care partners: a qualitative study. *Canadian Journal of Neurological Sciences*. Published online July 23, 2026:1–12. [FND-CIT-0082](../../../research/citation-index.md#fnd-cit-0082). [https://doi.org/10.1017/cjn.2026.10629](https://doi.org/10.1017/cjn.2026.10629) |
+| <a id="citation-1"></a>**[1]** | Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [FND-CIT-0083](../../research/citation-index.md#fnd-cit-0083). [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826) |
+| <a id="citation-2"></a>**[2]** | Leochico CFG, Kashif D, Bhatt H, et al. Challenges and care recommendations of persons with functional neurological disorder and care partners: a qualitative study. *Canadian Journal of Neurological Sciences*. Published online July 23, 2026:1–12. [FND-CIT-0082](../../research/citation-index.md#fnd-cit-0082). [https://doi.org/10.1017/cjn.2026.10629](https://doi.org/10.1017/cjn.2026.10629) |
 
 This overview still needs review by patients, supporters, clinicians, advocates and health-service accessibility specialists.
 

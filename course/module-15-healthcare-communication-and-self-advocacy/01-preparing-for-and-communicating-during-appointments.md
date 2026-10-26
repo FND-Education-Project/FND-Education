@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 19](README.md) › **Prepare for and Communicate During Appointments**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › [Module 19](README.md) › **Prepare for and Communicate During Appointments**
 <!-- NAV-BREADCRUMB:END -->
 
 # Prepare for and Communicate During Appointments
@@ -22,7 +22,7 @@ Appointments ask for memory, speech, timing, travel and concentration—exactly 
 
 An **appointment summary** is a one-page or shorter note containing the information most needed for this visit. It is not your entire medical history.
 
-![Three stages of an appointment: before, bring a short summary; during, agree priorities; after, record the plan.](../../../assets/illustrations/module-19-page-1-appointments.svg)
+![Three stages of an appointment: before, bring a short summary; during, agree priorities; after, record the plan.](../../assets/illustrations/module-19-page-1-appointments.svg)
 
 *Illustration: preparation is support, not a test. You can use only the part that helps.*
 
@@ -116,7 +116,7 @@ Communication access may require extra processing time, quiet, alternative commu
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Records, Written Plans, and Follow-Up](02-records-written-plans-second-opinions-and-follow-up.md)
 
-**Navigate:** [← Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Module overview](README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -125,8 +125,8 @@ Communication access may require extra processing time, quiet, alternative commu
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [FND-CIT-0083](../../../research/citation-index.md#fnd-cit-0083). [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Leochico CFG, Kashif D, Bhatt H, et al. Challenges and care recommendations of persons with functional neurological disorder and care partners: a qualitative study. *Canadian Journal of Neurological Sciences*. Published online July 23, 2026:1–12. [FND-CIT-0082](../../../research/citation-index.md#fnd-cit-0082). [https://doi.org/10.1017/cjn.2026.10629](https://doi.org/10.1017/cjn.2026.10629) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Silva AF, Silva B. Diagnostic communication in functional neurological disorder: a systematic review and meta-analysis of patient acceptance and clinical outcomes. *Patient Education and Counseling*. 2026;152:109826. [FND-CIT-0083](../../research/citation-index.md#fnd-cit-0083). [https://doi.org/10.1016/j.pec.2026.109826](https://doi.org/10.1016/j.pec.2026.109826) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Leochico CFG, Kashif D, Bhatt H, et al. Challenges and care recommendations of persons with functional neurological disorder and care partners: a qualitative study. *Canadian Journal of Neurological Sciences*. Published online July 23, 2026:1–12. [FND-CIT-0082](../../research/citation-index.md#fnd-cit-0082). [https://doi.org/10.1017/cjn.2026.10629](https://doi.org/10.1017/cjn.2026.10629) |
 
 This page still needs review by people with cognitive or communication symptoms, clinicians and appointment-accessibility specialists.
 

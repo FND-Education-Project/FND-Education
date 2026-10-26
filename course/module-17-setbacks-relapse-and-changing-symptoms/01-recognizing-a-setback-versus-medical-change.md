@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Six: Long-Term Management › [Module 21](README.md) › **Recognize a Setback Versus Medical Change**
+[Home](../../README.md) › [Course](../README.md) › Part Six: Long-Term Management › [Module 21](README.md) › **Recognize a Setback Versus Medical Change**
 <!-- NAV-BREADCRUMB:END -->
 
 # Recognize a Setback Versus Medical Change
@@ -22,7 +22,7 @@ The safest question is not “FND or emergency?” It is “How does this compar
 
 A **setback** is a period when familiar symptoms or difficulties return or worsen. A **medical change** is something new, substantially different, injured, severe or otherwise outside the plan you made with clinicians.
 
-![Three paths compare a familiar pattern, a meaningful change, and immediate danger.](../../../assets/illustrations/module-21-page-1-setback-or-change.svg)
+![Three paths compare a familiar pattern, a meaningful change, and immediate danger.](../../assets/illustrations/module-21-page-1-setback-or-change.svg)
 
 *Illustration: a familiar pattern may use the familiar plan; a meaningful change may need advice or reassessment; immediate danger needs urgent help.*
 
@@ -73,7 +73,7 @@ Write two lines: **“usual for me”** and **“different enough to get help.�
 
 ### When tic-like symptoms become vocal
 
-New sounds or words may deserve a review of the symptom pattern and its effect on communication. Becoming vocal does not by itself prove or disprove a functional diagnosis. Use the familiar-symptom plan where appropriate, while getting urgent help for serious injury, breathing danger or acute neurological change. [Diagnosis](../../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [Recovery and care](../../../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md).
+New sounds or words may deserve a review of the symptom pattern and its effect on communication. Becoming vocal does not by itself prove or disprove a functional diagnosis. Use the familiar-symptom plan where appropriate, while getting urgent help for serious injury, breathing danger or acute neurological change. [Diagnosis](../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [Recovery and care](../../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md).
 
 
 ## For Family, Friends, and Other Supporters
@@ -121,22 +121,22 @@ A previous FND diagnosis may explain a familiar recurrence but should not absorb
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Respond During a Setback](02-responding-recovering-and-updating-the-plan.md)
 
-**Navigate:** [Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [Module overview](README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Source and limits:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../../research/citation-index.md#fnd-cit-0110); expert guidance, not a trial of these accommodations.
+**Source and limits:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); expert guidance, not a trial of these accommodations.
 
 These reviews support medical reassessment based on the current presentation while trying to reduce both diagnostic overshadowing and avoidable harm. They do not provide a personal emergency rule. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
-| <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Finkelstein SA, Cortel-LeBlanc MA, Cortel-LeBlanc A, Stone J. Functional neurological disorder in the emergency department. *Academic Emergency Medicine*. 2021;28(6):685–696. [FND-CIT-0068](../../research/citation-index.md#fnd-cit-0068). [https://doi.org/10.1111/acem.14263](https://doi.org/10.1111/acem.14263) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
+| <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
 
 This page still needs review by emergency clinicians, neurologists, people with several diagnoses and people whose symptoms fluctuate.
 

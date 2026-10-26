@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 20](README.md) › **Work, School, and Accommodations**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › [Module 20](README.md) › **Work, School, and Accommodations**
 <!-- NAV-BREADCRUMB:END -->
 
 # Work, School, and Accommodations
@@ -22,7 +22,7 @@ The same job or class can contain many demands: travel, standing, screens, noise
 
 An **accommodation** is a change to a task, schedule, setting or way of communicating that reduces a disability-related barrier. Whether a change is legally required depends on the local law and setting.
 
-![A task demand is compared with present capacity, then a change to task, time, place or support narrows the gap.](../../../assets/illustrations/module-20-page-1-accommodations.svg)
+![A task demand is compared with present capacity, then a change to task, time, place or support narrows the gap.](../../assets/illustrations/module-20-page-1-accommodations.svg)
 
 *Illustration: the gap is information about the task and setting. It is not a measure of intelligence, effort or worth.*
 
@@ -71,7 +71,7 @@ Choose one task and finish: **“The barrier is _____; a change that might help 
 
 ### A response plan for motor or vocal tics
 
-Discuss options with the person rather than prescribing the same accommodations to everyone. A private break space, an alternative presentation or communication route, safer equipment and one agreed contact may be useful. Record how others should respond to involuntary words, and protect the person from punishment or demanded suppression. Include what to do for injury or a changed event. [Diagnosis](../../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [Recovery and care](../../../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md).
+Discuss options with the person rather than prescribing the same accommodations to everyone. A private break space, an alternative presentation or communication route, safer equipment and one agreed contact may be useful. Record how others should respond to involuntary words, and protect the person from punishment or demanded suppression. Include what to do for injury or a changed event. [Diagnosis](../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [Recovery and care](../../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md).
 
 
 ## For Family, Friends, and Other Supporters
@@ -117,20 +117,20 @@ The functional-seizure survey was self-selected and cannot prescribe universal r
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Community Participation and Meaningful Roles](02-community-participation-meaningful-roles-and-variable-capacity.md)
 
-**Navigate:** [← Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Module overview](README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Source and limits:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../../research/citation-index.md#fnd-cit-0110); expert guidance, not a trial of these accommodations.
+**Source and limits:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); expert guidance, not a trial of these accommodations.
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Woodward J, Guler S, Balcer LJ, et al. Work difficulties, work restrictions, and disability benefits in people with functional seizures: a survey study. *Epilepsy & Behavior Reports*. 2023;23:100610. [FND-CIT-0084](../../../research/citation-index.md#fnd-cit-0084). [https://doi.org/10.1016/j.ebr.2023.100610](https://doi.org/10.1016/j.ebr.2023.100610) |
-| <a id="citation-2"></a>**[2]** | — | Moss RSL, Lennon MJ, Anne S, et al. Disability, distress and delayed access to care in functional neurological disorder: cross-sectional study from an Australian tertiary clinic. *BJPsych Open*. 2026;12(3):e128. [FND-CIT-0090](../../../research/citation-index.md#fnd-cit-0090). [https://doi.org/10.1192/bjo.2026.11038](https://doi.org/10.1192/bjo.2026.11038) |
-| <a id="citation-3"></a>**[3]** | Figure 1 | Mcloughlin C, Ramsay N, Tak L, Carson A, Stone J. Stigma in functional neurological disorder; a longitudinal study. *Journal of Psychosomatic Research*. 2026;203:112550. [FND-CIT-0089](../../../research/citation-index.md#fnd-cit-0089). [https://doi.org/10.1016/j.jpsychores.2026.112550](https://doi.org/10.1016/j.jpsychores.2026.112550) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Woodward J, Guler S, Balcer LJ, et al. Work difficulties, work restrictions, and disability benefits in people with functional seizures: a survey study. *Epilepsy & Behavior Reports*. 2023;23:100610. [FND-CIT-0084](../../research/citation-index.md#fnd-cit-0084). [https://doi.org/10.1016/j.ebr.2023.100610](https://doi.org/10.1016/j.ebr.2023.100610) |
+| <a id="citation-2"></a>**[2]** | — | Moss RSL, Lennon MJ, Anne S, et al. Disability, distress and delayed access to care in functional neurological disorder: cross-sectional study from an Australian tertiary clinic. *BJPsych Open*. 2026;12(3):e128. [FND-CIT-0090](../../research/citation-index.md#fnd-cit-0090). [https://doi.org/10.1192/bjo.2026.11038](https://doi.org/10.1192/bjo.2026.11038) |
+| <a id="citation-3"></a>**[3]** | Figure 1 | Mcloughlin C, Ramsay N, Tak L, Carson A, Stone J. Stigma in functional neurological disorder; a longitudinal study. *Journal of Psychosomatic Research*. 2026;203:112550. [FND-CIT-0089](../../research/citation-index.md#fnd-cit-0089). [https://doi.org/10.1016/j.jpsychores.2026.112550](https://doi.org/10.1016/j.jpsychores.2026.112550) |
 
 This page still needs review by workers, students, people unable to work, occupational-health clinicians, educators and legal reviewers from multiple jurisdictions.
 

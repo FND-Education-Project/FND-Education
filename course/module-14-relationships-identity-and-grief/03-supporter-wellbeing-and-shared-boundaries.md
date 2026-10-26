@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 18](README.md) › **Supporter Wellbeing and Shared Boundaries**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › [Module 18](README.md) › **Supporter Wellbeing and Shared Boundaries**
 <!-- NAV-BREADCRUMB:END -->
 
 # Supporter Wellbeing and Shared Boundaries
@@ -22,7 +22,7 @@ FND affects a network of people, but the person with FND and the supporter do no
 
 **Supporter wellbeing** means that the family member, friend or partner also has rest, information, health care, boundaries and a life beyond supporting. A **shared boundary** is an agreement about what each person can do and what needs another source of help.
 
-![Two people each have their own needs and boundaries, with a shared middle space for agreed care and connection.](../../../assets/illustrations/module-18-page-3-supporter-wellbeing.svg)
+![Two people each have their own needs and boundaries, with a shared middle space for agreed care and connection.](../../assets/illustrations/module-18-page-3-supporter-wellbeing.svg)
 
 *Illustration: care can be shared without either person disappearing. Not every need has to be met by one relationship.*
 
@@ -111,15 +111,15 @@ Care-partner evidence in FND is very limited: the functional-seizure survey had 
 
 ## Further reading in the Reference Library
 
-- **[Guilt, Dependence, and Receiving Help](../../../reference/biopsychosocial-experiences/04-guilt-dependence-and-receiving-help.md)** — sustainable care, supported autonomy, guilt and the difference between a need and being a burden.
-- **[Mental Health, Stigma, and Being Believed](../../../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md)** — how disbelief and psychiatric labels can affect family support without making supporters responsible for diagnosing symptoms.
+- **[Guilt, Dependence, and Receiving Help](../../reference/biopsychosocial-experiences/04-guilt-dependence-and-receiving-help.md)** — sustainable care, supported autonomy, guilt and the difference between a need and being a burden.
+- **[Mental Health, Stigma, and Being Believed](../../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md)** — how disbelief and psychiatric labels can affect family support without making supporters responsible for diagnosing symptoms.
 
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Healthcare Communication and Self-Advocacy](../module-19-healthcare-communication-and-self-advocacy/README.md)
+**Continue:** [Next module: Healthcare Communication and Self-Advocacy](../module-15-healthcare-communication-and-self-advocacy/README.md)
 
-**Navigate:** [← Previous page](02-relationships-intimacy-boundaries-and-supporter-wellbeing.md) · [Module overview](README.md) · [Course](../../README.md)
+**Navigate:** [← Previous page](02-relationships-intimacy-boundaries-and-supporter-wellbeing.md) · [Module overview](README.md) · [Course](../README.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -128,8 +128,8 @@ Care-partner evidence in FND is very limited: the functional-seizure survey had 
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Tsamakis K, Teagarden DL, Villarreal HK, et al. Depression and anxiety in caregivers of patients with functional seizures. *Epileptic Disorders*. 2023;25(2):200–208. [FND-CIT-0087](../../../research/citation-index.md#fnd-cit-0087). [https://doi.org/10.1002/epd2.20014](https://doi.org/10.1002/epd2.20014) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Leochico CFG, Kashif D, Bhatt H, et al. Challenges and care recommendations of persons with functional neurological disorder and care partners: a qualitative study. *Canadian Journal of Neurological Sciences*. Published online July 23, 2026:1–12. [FND-CIT-0082](../../../research/citation-index.md#fnd-cit-0082). [https://doi.org/10.1017/cjn.2026.10629](https://doi.org/10.1017/cjn.2026.10629) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Tsamakis K, Teagarden DL, Villarreal HK, et al. Depression and anxiety in caregivers of patients with functional seizures. *Epileptic Disorders*. 2023;25(2):200–208. [FND-CIT-0087](../../research/citation-index.md#fnd-cit-0087). [https://doi.org/10.1002/epd2.20014](https://doi.org/10.1002/epd2.20014) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Leochico CFG, Kashif D, Bhatt H, et al. Challenges and care recommendations of persons with functional neurological disorder and care partners: a qualitative study. *Canadian Journal of Neurological Sciences*. Published online July 23, 2026:1–12. [FND-CIT-0082](../../research/citation-index.md#fnd-cit-0082). [https://doi.org/10.1017/cjn.2026.10629](https://doi.org/10.1017/cjn.2026.10629) |
 
 This page still needs review by people with FND, unpaid supporters, carer organisations, social workers and safeguarding specialists.
 

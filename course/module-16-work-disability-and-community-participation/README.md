@@ -1,7 +1,7 @@
 # Module 20 — Work, Disability, and Community Participation
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › **Module 20: Work, Disability, and Community Participation**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › **Module 20: Work, Disability, and Community Participation**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
@@ -27,7 +27,7 @@ Work research in FND is limited and often concerns functional seizures or specia
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Start with Work, School, and Accommodations](01-work-school-disability-and-accommodations.md)
 
-**Navigate:** [← Module 19](../module-19-healthcare-communication-and-self-advocacy/README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Module 19](../module-15-healthcare-communication-and-self-advocacy/README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -36,8 +36,8 @@ Work research in FND is limited and often concerns functional seizures or specia
 
 | Citation | Full citation |
 |---|---|
-| <a id="citation-1"></a>**[1]** | Woodward J, Guler S, Balcer LJ, et al. Work difficulties, work restrictions, and disability benefits in people with functional seizures: a survey study. *Epilepsy & Behavior Reports*. 2023;23:100610. [FND-CIT-0084](../../../research/citation-index.md#fnd-cit-0084). [https://doi.org/10.1016/j.ebr.2023.100610](https://doi.org/10.1016/j.ebr.2023.100610) |
-| <a id="citation-2"></a>**[2]** | Moss RSL, Lennon MJ, Anne S, et al. Disability, distress and delayed access to care in functional neurological disorder: cross-sectional study from an Australian tertiary clinic. *BJPsych Open*. 2026;12(3):e128. [FND-CIT-0090](../../../research/citation-index.md#fnd-cit-0090). [https://doi.org/10.1192/bjo.2026.11038](https://doi.org/10.1192/bjo.2026.11038) |
+| <a id="citation-1"></a>**[1]** | Woodward J, Guler S, Balcer LJ, et al. Work difficulties, work restrictions, and disability benefits in people with functional seizures: a survey study. *Epilepsy & Behavior Reports*. 2023;23:100610. [FND-CIT-0084](../../research/citation-index.md#fnd-cit-0084). [https://doi.org/10.1016/j.ebr.2023.100610](https://doi.org/10.1016/j.ebr.2023.100610) |
+| <a id="citation-2"></a>**[2]** | Moss RSL, Lennon MJ, Anne S, et al. Disability, distress and delayed access to care in functional neurological disorder: cross-sectional study from an Australian tertiary clinic. *BJPsych Open*. 2026;12(3):e128. [FND-CIT-0090](../../research/citation-index.md#fnd-cit-0090). [https://doi.org/10.1192/bjo.2026.11038](https://doi.org/10.1192/bjo.2026.11038) |
 
 This overview still needs review by workers, students, people unable to work, educators, vocational and disability specialists, and advocates from several jurisdictions.
 
