@@ -42,15 +42,17 @@ Your brain uses all three in everyday life. The amount of effort they take can c
 
 ### Looking outward and inward
 
-Sometimes your attention points **outward**, toward a friend's face or a bird outside the window.
+When you're listening to a friend, your attention is pointing **outward**, toward their words and the world around you.
 
-Other times it points **inward**, toward a thought or a feeling in your body.
+Then you notice an itch on your arm. For a moment, that's all you can think about. Your attention has turned **inward**, toward a feeling in your body.
 
-Have you ever been so caught up in a film that you barely noticed a shoe rubbing your heel? When the credits roll, your foot suddenly has your full attention.
+Sometimes the opposite happens. You get so wrapped up in a project that you only notice you're thirsty when you finally stop.
 
-Maybe the rubbing became stronger. Maybe the film held your attention for a while. Either is possible.
+Your body's signals still matter. Attention can change which signals stand out to you, without telling us what caused them.
 
-**What stands out to you can change, while the feeling in your body remains real and deserves care.**
+Inward attention can also turn toward your **thoughts**. You might wonder how you're doing or what somebody thinks of you. Those thoughts can take up some of the attention you were using for an activity.
+
+Let's see how that might matter for FND.
 
 ### When attention and FND symptoms meet
 
