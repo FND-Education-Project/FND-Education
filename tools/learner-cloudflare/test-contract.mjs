@@ -162,40 +162,41 @@ test("inactivity and sign-out rules are distinct and explained", () => {
   assert.match(accountScript, /Automatic sign-out/);
 });
 
-test("legacy lesson allowlist includes m4-2 but excludes new concepts slots", () => {
+
+test("canonical 19-module allowlist has exactly 57 valid lesson positions", () => {
   const server = readFileSync(new URL("./worker.js", import.meta.url), "utf8");
   const counts = /const LESSON_COUNTS = \[([\s\S]*?)\];/.exec(server);
   assert.ok(counts);
-  const values = [...counts[1].matchAll(/\d+/g)].map(item => Number(item[0]));
-  assert.equal(values.length, 23);
-  assert.equal(values.reduce((a, b) => a + b, 0), 75);
-  assert.equal(values[3], 2); // Original Module 4 has two lessons.
-  assert.match(server, /const match = \/\^m\(\[1-9\]\|1\[0-9\]\|2\[0-3\]\)/);
-  assert.doesNotMatch(server, /m24-1.*validLesson/);
+  const lengths = [...counts[1].matchAll(/\d+/g)].map(item => Number(item[0]));
+  assert.equal(lengths.length, 19);
+  assert.equal(lengths.reduce((a, b) => a + b, 0), 57);
+  assert.equal(lengths[3], 2);
+  assert.equal(lengths[5], 3); // Current Module 6 = attention.
+  assert.equal(lengths[6], 4);
+  assert.equal(lengths[18], 2);
+  assert.match(server, /const match = \/\^m\(\[1-9\]\|1\[0-9\]\)/);
 });
 
-test("manifest v2 leaves new lessons read-only and keeps earlier edition", () => {
+test("progress UI uses the single current 19-module course", () => {
   assert.match(courseScript, /\[1, 2\]\.includes\(manifest\.version\)/);
-  assert.match(courseScript, /manifest\.earlierModules/);
-  assert.match(courseScript, /lesson\.progressEligible !== false/);
-  assert.match(courseScript, /lesson\.id !== null/);
+  assert.match(courseScript, /manifest\.earlierModules\.length/);
+  assert.match(courseScript, /identity\.size !== manifest\.eligibleLessonCount/);
   assert.match(courseScript, /current && current\.progressEligible/);
   assert.match(courseScript, /!lesson\.progressEligible \|\| !known\.has\(lesson\.id\)/);
-  assert.match(courseScript, /Earlier-edition reading/);
-  assert.match(courseScript, /identity\.get\(state\.lastLesson\)/);
+  assert.doesNotMatch(courseScript, /Earlier-edition reading/);
+  assert.doesNotMatch(courseScript, /archivedResume/);
 });
 
-test("sign-in return paths preserve new reading URLs without open redirects", () => {
-  for (const allowed of ["/", "/course/", "/course/m4/2/",
-    "/course/m6/1/", "/course/v2/m6/", "/course/v2/m6/1/",
-    "/course/v2/m10/3/"]) {
-    assert.equal(safeReturnPath(allowed), allowed);
+test("sign-in returns to current course pages but rejects retired v2 paths", () => {
+  for (const path of ["/", "/course/", "/course/m1/", "/course/m4/2/",
+    "/course/m6/1/", "/course/m19/2/"]) {
+    assert.equal(safeReturnPath(path), path);
   }
-  for (const rejected of ["https://evil.example/", "//evil.example",
-    "/course/../admin", "/course/v2/m11/1/", "/course/v2/m6/0/",
-    "/course/v2/m6/1//", "/course/v2/%2Fadmin/", "/account",
-    "/course/v2/m6/1/?redirect=https://evil.example"]) {
-    assert.equal(safeReturnPath(rejected), "/course/");
+  for (const path of ["https://evil.example", "//evil.example",
+    "/course/../admin", "/course/m20/", "/course/m23/1/",
+    "/course/v2/m6/1/", "/course/m6/0/", "/course/m6/1//",
+    "/course/m6/1/?redirect=evil", "/account"]) {
+    assert.equal(safeReturnPath(path), "/course/");
   }
-  assert.ok(accountScript.includes(String.raw`v2\/m(?:6|7|8|9|10)`));
+  assert.ok(!accountScript.includes(String.raw`v2\/m(?:6|7|8|9|10)`));
 });
