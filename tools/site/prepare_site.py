@@ -2489,13 +2489,11 @@ def write_generated_page_data(pages: list[CoursePage]) -> None:
 
 
 def write_course_progress_manifest(pages: list[CoursePage]) -> None:
-    """Emit account-aware navigation without transferring earlier lesson history.
+    """Emit one canonical tracked lesson sequence with stable module-local IDs.
 
-    Public reading order, display module number, canonical route, and stable
-    server-side progress ID are distinct. New concepts-first lessons (reserved
-    slots 24–28) are listed for reading but never receive an accepted API ID.
-    Earlier-edition lessons remain in a separate section with their same IDs.
-    This works with the legacy course source and the #191 curriculum models.
+    The final curriculum has 19 modules / 57 lessons and no earlier edition.
+    This standalone draft branch still contains the older course source until
+    it is reconciled with the separately merged curriculum PR #191.
     """
     source = COURSE_ROOT / "README.md"
     headings = re.findall(
@@ -2581,10 +2579,10 @@ def write_course_progress_manifest(pages: list[CoursePage]) -> None:
 
     if not modules or not eligible_count:
         raise ValueError("Course progress manifest has no eligible lessons")
-    # The original contract holds 75 IDs. Do not silently remove the missing
-    # second lesson from Module 4 or erase earlier-edition history.
-    if len(titles) == 5 and (len(seen_ids) != 75 or "m4-2" not in seen_ids):
-        raise ValueError("Revised curriculum must retain all 75 original keys")
+    # PR #191 normalizes the course to five parts and 57 lessons.
+    # Old 6-part draft sources remain buildable ONLY before that PR is merged.
+    if len(titles) == 5 and (len(seen_ids) != 57 or earlier_modules):
+        raise ValueError("Expected only 57 tracked lessons in 19 current modules")
 
     destination = WEB / "assets" / "data" / "course-progress.json"
     destination.parent.mkdir(parents=True, exist_ok=True)
