@@ -42,11 +42,11 @@ Your brain uses all three in everyday life. The amount of effort they take can c
 
 ### Looking outward and inward
 
-When you're listening to a friend, your attention is pointing **outward**, toward their words and the world around you.
+You're talking with a friend when your arm begins to itch. For a moment, that itch has your full attention. Then your friend tells a great story, and the itch slips into the background.
 
-Then you notice an itch on your arm. For a moment, that's all you can think about. Your attention has turned **inward**, toward a feeling in your body.
+Your attention moved **inward**, toward a feeling in your body, and then **outward**, toward your friend's words. The itch may still be there, even when you notice it less.
 
-Sometimes the opposite happens. You get so wrapped up in a project that you only notice you're thirsty when you finally stop.
+It can work the other way, too. You get so wrapped up in a project that you only notice you're thirsty when you finally stop.
 
 Your body's signals still matter. Attention can change which signals stand out to you, without telling us what caused them.
 
