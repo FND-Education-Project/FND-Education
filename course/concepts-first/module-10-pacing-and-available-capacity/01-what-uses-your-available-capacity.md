@@ -11,6 +11,7 @@ Lesson 28 explores what Uses Your Available Capacity? through everyday examples,
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## For the Person With FND
@@ -56,6 +57,7 @@ Constant counting can become a job of its own. If a pattern doesn't help you mak
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## For Family, Friends, and Other Supporters
@@ -95,6 +97,7 @@ A supporter has capacity too. Agree what help is realistic; if needs exceed what
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## For Clinicians and the Care Team
@@ -124,6 +127,7 @@ Ask the person to identify one activity and one constraint. Arrange the most imp
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## Research and Sources

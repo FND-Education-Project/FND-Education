@@ -11,6 +11,7 @@ Lesson 21 explores agency, Learning, and Your Own Adaptations through everyday e
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## For the Person With FND
@@ -66,6 +67,7 @@ Our next module will help you describe what happens during different symptoms an
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## For Family, Friends, and Other Supporters
@@ -101,6 +103,7 @@ The supporter can offer practical help or observations; **OT, PT, SLT or psychol
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## For Clinicians and the Care Team
@@ -134,6 +137,7 @@ In shared discussion, say “the symptom is involuntary; we can work with the co
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## Research and Sources

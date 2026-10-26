@@ -11,6 +11,7 @@ Lesson 26 explores choosing Practice That Fits Your Life through everyday exampl
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## For the Person With FND
@@ -60,6 +61,7 @@ Next we'll look at something worth knowing before choosing a treatment: how to d
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## For Family, Friends, and Other Supporters
@@ -97,6 +99,7 @@ If assistance involves lifting, catching a falling person or managing medically 
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## For Clinicians and the Care Team
@@ -130,6 +133,7 @@ Ask about immediate and delayed effects. Stopping, making a task smaller, alteri
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## Research and Sources

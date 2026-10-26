@@ -11,6 +11,7 @@ Lesson 16 explores automatic Control and Conscious Effort through everyday examp
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## For the Person With FND
@@ -60,6 +61,7 @@ In the next lesson, we'll explore why changing the focus or setting may sometime
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## For Family, Friends, and Other Supporters
@@ -95,6 +97,7 @@ An FND-informed **physiotherapist** can assess movement and consider suitable ta
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## For Clinicians and the Care Team
@@ -124,6 +127,7 @@ A constructive explanation is: “Your movement changed when the task changed. T
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## Research and Sources

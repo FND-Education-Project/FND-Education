@@ -11,6 +11,7 @@ Lesson 18 explores the Predictive Brain through everyday examples, collaborative
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## For the Person With FND
@@ -56,6 +57,7 @@ Next we will meet the body's many sources of information—and the difference be
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## For Family, Friends, and Other Supporters
@@ -91,6 +93,7 @@ When a movement, speech or sensory activity is difficult, a **physiotherapist, O
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## For Clinicians and the Care Team
@@ -116,6 +119,7 @@ A clinician can say: “Your brain constantly anticipates and adjusts. Researche
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
 [For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
 [Research and Sources](#research-and-sources)
+
 ***
 
 ## Research and Sources
