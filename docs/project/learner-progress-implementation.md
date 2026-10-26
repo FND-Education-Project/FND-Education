@@ -53,6 +53,9 @@ progress records must remain intact across a curriculum change.
 - Never map current display module numbers to API IDs; never migrate D1
   values, reinterpret existing checkmarks, or discard unrecognized saved
   rows. No schema change or account deployment is part of this update.
+- Whitelist new `/course/v2/m6/…/m10/` pages as safe return destinations
+  for optional provider sign-in without granting those lessons completion IDs.
+  Keep strict origin-independent path validation and reject external redirects.
 - Add synthetic curriculum tests for 19 current modules / 57 current
   lessons / 34 earlier lessons / 75 immutable eligible legacy IDs and
   16 newly readable, untracked lessons.
