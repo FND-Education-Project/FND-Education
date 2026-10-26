@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 17](README.md) › **Sensory, Home, and Communication Access**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › [Module 17](README.md) › **Sensory, Home, and Communication Access**
 <!-- NAV-BREADCRUMB:END -->
 
 # Sensory, Home, and Communication Access
@@ -22,7 +22,7 @@ Access can begin before symptoms improve. A quieter place, a safer layout or ano
 
 **Accessibility** means removing or reducing barriers so a person can take part. The barrier may be in the surroundings, the task or the way information is given—not in the person's worth.
 
-![Three access layers: sensory surroundings, home layout and communication method, surrounding the person's chosen activity.](../../../assets/illustrations/module-17-page-3-access-layers.svg)
+![Three access layers: sensory surroundings, home layout and communication method, surrounding the person's chosen activity.](../../assets/illustrations/module-17-page-3-access-layers.svg)
 
 *Illustration: more than one layer may need changing. Access is not limited to ramps.*
 
@@ -73,7 +73,7 @@ Choose one setting. Complete: “I can take part more safely if _____.” Try on
 
 ### Access when vocal symptoms interrupt
 
-For someone with vocal tic-like symptoms, agree on a backup way to finish a message: a pause, writing or typing may help. Ask what response they prefer in public. Access should remain available while symptoms continue; the person does not need to prove they can suppress them. [Diagnosis](../../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [Recovery and care](../../../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md).
+For someone with vocal tic-like symptoms, agree on a backup way to finish a message: a pause, writing or typing may help. Ask what response they prefer in public. Access should remain available while symptoms continue; the person does not need to prove they can suppress them. [Diagnosis](../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [Recovery and care](../../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md).
 
 
 ## For Family, Friends, and Other Supporters
@@ -118,27 +118,27 @@ Offer information in more than one format. Record the person's preferred communi
 
 ## Further reading in the Reference Library
 
-- **[Unpredictability, Overload, and Trusting Your Body](../../../reference/biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md)** — how sensory, social, cognitive and physical demands can stack without making “overload” a diagnosis.
-- **[Self-Doubt, Legitimacy, and Dignity in Variable Disability](../../../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md)** — using adaptations without treating them as evidence of failure.
+- **[Unpredictability, Overload, and Trusting Your Body](../../reference/biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md)** — how sensory, social, cognitive and physical demands can stack without making “overload” a diagnosis.
+- **[Self-Doubt, Legitimacy, and Dignity in Variable Disability](../../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md)** — using adaptations without treating them as evidence of failure.
 
 ***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Try and Review Equipment as Needs Change](04-trying-and-reviewing-equipment-as-needs-change.md)
 
-**Navigate:** [← Previous page](02-mobility-aids-wheelchairs-seating-and-fall-safety.md) · [Module overview](README.md) · [Course](../../README.md)
+**Navigate:** [← Previous page](02-mobility-aids-wheelchairs-seating-and-fall-safety.md) · [Module overview](README.md) · [Course](../README.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
 
 ## Research and Sources
 
-**Source and limits:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../../research/citation-index.md#fnd-cit-0110); expert guidance, not a trial of these accommodations.
+**Source and limits:** Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110); expert guidance, not a trial of these accommodations.
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Bailey C, Agrawal N, Cope S, et al. Illness perceptions, experiences of stigma and engagement in functional neurological disorder (FND): exploring the role of multidisciplinary group education sessions. *BMJ Neurology Open*. 2024;6(1):e000633. [FND-CIT-0091](../../../research/citation-index.md#fnd-cit-0091). [https://doi.org/10.1136/bmjno-2024-000633](https://doi.org/10.1136/bmjno-2024-000633) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Bailey C, Agrawal N, Cope S, et al. Illness perceptions, experiences of stigma and engagement in functional neurological disorder (FND): exploring the role of multidisciplinary group education sessions. *BMJ Neurology Open*. 2024;6(1):e000633. [FND-CIT-0091](../../research/citation-index.md#fnd-cit-0091). [https://doi.org/10.1136/bmjno-2024-000633](https://doi.org/10.1136/bmjno-2024-000633) |
 
 This page still needs review by people with sensory or communication barriers and relevant accessibility and clinical specialists.
 

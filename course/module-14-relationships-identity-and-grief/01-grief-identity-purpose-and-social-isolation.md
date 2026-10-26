@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 18](README.md) › **Grief, Identity, Purpose, and Social Isolation**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › [Module 18](README.md) › **Grief, Identity, Purpose, and Social Isolation**
 <!-- NAV-BREADCRUMB:END -->
 
 # Grief, Identity, Purpose, and Social Isolation
@@ -22,7 +22,7 @@ FND may interrupt work, study, parenting, friendships, independence and plans. G
 
 **Grief** is a response to loss. **Identity** is the changing story of who you are, including—but not limited to—illness, abilities, roles, relationships and values.
 
-![Three overlapping spaces show what changed, what remains and what may grow, with no demand to move in one direction.](../../../assets/illustrations/module-18-page-1-grief-identity.svg)
+![Three overlapping spaces show what changed, what remains and what may grow, with no demand to move in one direction.](../../assets/illustrations/module-18-page-1-grief-identity.svg)
 
 *Illustration: loss and growth can be present together. Growth is not required, and it does not cancel grief.*
 
@@ -115,15 +115,15 @@ Offer psychological care for chosen goals such as grief, adjustment, anxiety or 
 
 ## Further reading in the Reference Library
 
-- **[Self-Doubt, Legitimacy, and Dignity in Variable Disability](../../../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md)** — self-trust, internalized stigma and dignity when symptoms or ability vary.
-- **[Guilt, Dependence, and Receiving Help](../../../reference/biopsychosocial-experiences/04-guilt-dependence-and-receiving-help.md)** — feeling like a burden, changing independence and receiving practical care.
+- **[Self-Doubt, Legitimacy, and Dignity in Variable Disability](../../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md)** — self-trust, internalized stigma and dignity when symptoms or ability vary.
+- **[Guilt, Dependence, and Receiving Help](../../reference/biopsychosocial-experiences/04-guilt-dependence-and-receiving-help.md)** — feeling like a burden, changing independence and receiving practical care.
 
 ***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Relationships, Intimacy, and Boundaries](02-relationships-intimacy-boundaries-and-supporter-wellbeing.md)
 
-**Navigate:** [← Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Module overview](README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -132,8 +132,8 @@ Offer psychological care for chosen goals such as grief, adjustment, anxiety or 
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Szasz A, Korner A, McLean L. Qualitative systematic review on the lived experience of functional neurological disorder. *BMJ Neurology Open*. 2025;7(1):e000694. [FND-CIT-0080](../../../research/citation-index.md#fnd-cit-0080). [https://doi.org/10.1136/bmjno-2024-000694](https://doi.org/10.1136/bmjno-2024-000694) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Gatherer C, Garip G. “Look for Glimmers Instead of Triggers”: An Exploration Into the Lived Experiences of Functional Neurological Disorder Using Interpretative Phenomenological Analysis. *Psychological Reports*. Published online June 15, 2025. [FND-CIT-0086](../../../research/citation-index.md#fnd-cit-0086). [https://doi.org/10.1177/00332941251351234](https://doi.org/10.1177/00332941251351234) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Szasz A, Korner A, McLean L. Qualitative systematic review on the lived experience of functional neurological disorder. *BMJ Neurology Open*. 2025;7(1):e000694. [FND-CIT-0080](../../research/citation-index.md#fnd-cit-0080). [https://doi.org/10.1136/bmjno-2024-000694](https://doi.org/10.1136/bmjno-2024-000694) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Gatherer C, Garip G. “Look for Glimmers Instead of Triggers”: An Exploration Into the Lived Experiences of Functional Neurological Disorder Using Interpretative Phenomenological Analysis. *Psychological Reports*. Published online June 15, 2025. [FND-CIT-0086](../../research/citation-index.md#fnd-cit-0086). [https://doi.org/10.1177/00332941251351234](https://doi.org/10.1177/00332941251351234) |
 
 This page still needs review by people with persistent or variable FND, grief specialists and suicide-safety reviewers.
 

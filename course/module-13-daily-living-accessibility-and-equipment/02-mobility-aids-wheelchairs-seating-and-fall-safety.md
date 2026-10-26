@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 17](README.md) › **Mobility Aids, Wheelchairs, Seating, and Fall Safety**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › [Module 17](README.md) › **Mobility Aids, Wheelchairs, Seating, and Fall Safety**
 <!-- NAV-BREADCRUMB:END -->
 
 # Mobility Aids, Wheelchairs, Seating, and Fall Safety
@@ -22,7 +22,7 @@ There is no honest rule that says every person with FND should use an aid—or t
 
 A **mobility aid** is equipment used to make moving or positioning safer or more possible. Examples include a cane, walker, wheelchair, seating system or transfer equipment.
 
-![Four questions around a mobility aid: what task, correct fit and training, safety and access, and when to review.](../../../assets/illustrations/module-17-page-2-mobility-aids.svg)
+![Four questions around a mobility aid: what task, correct fit and training, safety and access, and when to review.](../../assets/illustrations/module-17-page-2-mobility-aids.svg)
 
 *Illustration: an aid is a tool for a particular person and purpose, not a verdict about recovery.*
 
@@ -113,14 +113,14 @@ Persistent disability deserves continued equipment, pressure, pain, bone-health,
 
 ## Further reading in the Reference Library
 
-- **[Self-Doubt, Legitimacy, and Dignity in Variable Disability](../../../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md)** — “am I disabled enough?”, aid-related shame, variable ability and dignity when support needs change.
+- **[Self-Doubt, Legitimacy, and Dignity in Variable Disability](../../reference/biopsychosocial-experiences/03-self-doubt-legitimacy-and-dignity-in-variable-disability.md)** — “am I disabled enough?”, aid-related shame, variable ability and dignity when support needs change.
 
 ***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Sensory, Home, and Communication Access](03-sensory-home-and-communication-access.md)
 
-**Navigate:** [← Previous page](01-adapting-personal-care-and-household-tasks.md) · [Module overview](README.md) · [Course](../../README.md)
+**Navigate:** [← Previous page](01-adapting-personal-care-and-household-tasks.md) · [Module overview](README.md) · [Course](../README.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -129,8 +129,8 @@ Persistent disability deserves continued equipment, pressure, pain, bone-health,
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Mohammadi Z, Keyvanfar A, Higgins R, et al. Falls in Functional Neurological Disorder: Prevalence, Risk Factors and Clinical Implications. *European Journal of Neurology*. 2026;33(6):e70665. [FND-CIT-0085](../../../research/citation-index.md#fnd-cit-0085). [https://doi.org/10.1111/ene.70665](https://doi.org/10.1111/ene.70665) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Mohammadi Z, Keyvanfar A, Higgins R, et al. Falls in Functional Neurological Disorder: Prevalence, Risk Factors and Clinical Implications. *European Journal of Neurology*. 2026;33(6):e70665. [FND-CIT-0085](../../research/citation-index.md#fnd-cit-0085). [https://doi.org/10.1111/ene.70665](https://doi.org/10.1111/ene.70665) |
 
 This page still needs review by mobility-aid users, wheelchair users, occupational therapists, physiotherapists and seating or falls specialists.
 

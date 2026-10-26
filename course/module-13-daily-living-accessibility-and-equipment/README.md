@@ -1,7 +1,7 @@
 # Module 17 — Daily Living, Accessibility, and Equipment
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › **Module 17: Daily Living, Accessibility, and Equipment**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › **Module 17: Daily Living, Accessibility, and Equipment**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
@@ -30,7 +30,7 @@ Clinical guidance supports individual occupational assessment. Falls research al
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Start with Adapt Personal Care and Household Tasks](01-adapting-personal-care-and-household-tasks.md)
 
-**Navigate:** [← Module 16](../../part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Module 16](../module-12-psychological-treatment-without-blame/README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -39,8 +39,8 @@ Clinical guidance supports individual occupational assessment. Falls research al
 
 | Citation | Full citation |
 |---|---|
-| <a id="citation-1"></a>**[1]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-2"></a>**[2]** | Mohammadi Z, Keyvanfar A, Higgins R, et al. Falls in Functional Neurological Disorder: Prevalence, Risk Factors and Clinical Implications. *European Journal of Neurology*. 2026;33(6):e70665. [FND-CIT-0085](../../../research/citation-index.md#fnd-cit-0085). [https://doi.org/10.1111/ene.70665](https://doi.org/10.1111/ene.70665) |
+| <a id="citation-1"></a>**[1]** | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-2"></a>**[2]** | Mohammadi Z, Keyvanfar A, Higgins R, et al. Falls in Functional Neurological Disorder: Prevalence, Risk Factors and Clinical Implications. *European Journal of Neurology*. 2026;33(6):e70665. [FND-CIT-0085](../../research/citation-index.md#fnd-cit-0085). [https://doi.org/10.1111/ene.70665](https://doi.org/10.1111/ene.70665) |
 
 This overview still needs review by people with FND, occupational therapists, physiotherapists and accessibility specialists.
 

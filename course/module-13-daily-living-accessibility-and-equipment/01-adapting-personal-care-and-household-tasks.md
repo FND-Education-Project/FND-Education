@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 17](README.md) › **Adapt Personal Care and Household Tasks**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › [Module 17](README.md) › **Adapt Personal Care and Household Tasks**
 <!-- NAV-BREADCRUMB:END -->
 
 # Adapt Personal Care and Household Tasks
@@ -22,7 +22,7 @@ A task can be hard for several reasons at once. Finding the hardest part often g
 
 **Task adaptation** means changing the task, the tool, the place or the help so that an activity is safer or takes less effort.
 
-![A daily task is examined for its main barrier, then one change is chosen from task, tool, place or help.](../../../assets/illustrations/module-17-page-1-task-adaptation.svg)
+![A daily task is examined for its main barrier, then one change is chosen from task, tool, place or help.](../../assets/illustrations/module-17-page-1-task-adaptation.svg)
 
 *Illustration: start with one real barrier. You do not have to change everything or prove how hard the task is.*
 
@@ -118,7 +118,7 @@ When improvement is limited, accessibility and continuing care remain valid goal
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Mobility Aids, Wheelchairs, Seating, and Fall Safety](02-mobility-aids-wheelchairs-seating-and-fall-safety.md)
 
-**Navigate:** [← Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Module overview](README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -127,8 +127,8 @@ When improvement is limited, accessibility and continuing care remain valid goal
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Rezaei O, Stanley M. Understanding the lived experiences of individuals with functional neurological disorder in Australia: an interpretative phenomenological analysis. *Disability and Rehabilitation*. 2025;47(24):6408–6415. [FND-CIT-0081](../../../research/citation-index.md#fnd-cit-0081). [https://doi.org/10.1080/09638288.2025.2481986](https://doi.org/10.1080/09638288.2025.2481986) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Rezaei O, Stanley M. Understanding the lived experiences of individuals with functional neurological disorder in Australia: an interpretative phenomenological analysis. *Disability and Rehabilitation*. 2025;47(24):6408–6415. [FND-CIT-0081](../../research/citation-index.md#fnd-cit-0081). [https://doi.org/10.1080/09638288.2025.2481986](https://doi.org/10.1080/09638288.2025.2481986) |
 
 This page still needs review by people needing help with daily activities, occupational therapists and accessibility reviewers.
 

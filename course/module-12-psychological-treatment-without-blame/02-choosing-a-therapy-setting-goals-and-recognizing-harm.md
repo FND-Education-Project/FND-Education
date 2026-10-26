@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 16](README.md) › **Choose a Therapy and Set Goals**
+[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Rehabilitation › [Module 16](README.md) › **Choose a Therapy and Set Goals**
 <!-- NAV-BREADCRUMB:END -->
 
 # Choose a Therapy and Set Goals
@@ -22,7 +22,7 @@ Therapy names describe broad families of treatment. The individual therapist, go
 
 **Therapy fit** means that the approach, therapist, setting, goals and access needs are a reasonable match for you. A **shared therapy goal** states what you want to change and how you will review benefit or harm together.
 
-![Five pieces—target, approach, therapist, access and review—surround a central question: does this fit me?](../../../assets/illustrations/module-16-page-2-therapy-fit.svg)
+![Five pieces—target, approach, therapist, access and review—surround a central question: does this fit me?](../../assets/illustrations/module-16-page-2-therapy-fit.svg)
 
 *Illustration: a therapy is more than its three-letter name. Fit includes the actual target, person, setting, access and review.*
 
@@ -124,7 +124,7 @@ In CODES, several secondary outcomes favoured seizure-specific CBT plus standard
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Consent, Trauma, and Recognizing Harm](03-consent-trauma-and-recognizing-harm.md)
 
-**Navigate:** [← Previous page](01-why-psychological-treatment-does-not-mean-imaginary.md) · [Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Previous page](01-why-psychological-treatment-does-not-mean-imaginary.md) · [Module overview](README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -135,10 +135,10 @@ The psychotherapy review found possible benefits but important quality and follo
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Gutkin M, McLean L, Brown R, Kanaan RA. Systematic review of psychotherapy for adults with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(1):36–44. [FND-CIT-0077](../../../research/citation-index.md#fnd-cit-0077). [https://doi.org/10.1136/jnnp-2019-321926](https://doi.org/10.1136/jnnp-2019-321926) |
-| <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
-| <a id="citation-3"></a>**[3]** | Figure 1 | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [FND-CIT-0033](../../../research/citation-index.md#fnd-cit-0033). [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0) |
-| <a id="citation-4"></a>**[4]** | — | LaFrance WC Jr, Baird GL, Barry JJ, et al. Multicenter pilot treatment trial for psychogenic nonepileptic seizures: a randomized clinical trial. *JAMA Psychiatry*. 2014;71(9):997–1005. [FND-CIT-0032](../../../research/citation-index.md#fnd-cit-0032). [https://doi.org/10.1001/jamapsychiatry.2014.817](https://doi.org/10.1001/jamapsychiatry.2014.817) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Gutkin M, McLean L, Brown R, Kanaan RA. Systematic review of psychotherapy for adults with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(1):36–44. [FND-CIT-0077](../../research/citation-index.md#fnd-cit-0077). [https://doi.org/10.1136/jnnp-2019-321926](https://doi.org/10.1136/jnnp-2019-321926) |
+| <a id="citation-2"></a>**[2]** | — | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
+| <a id="citation-3"></a>**[3]** | Figure 1 | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0) |
+| <a id="citation-4"></a>**[4]** | — | LaFrance WC Jr, Baird GL, Barry JJ, et al. Multicenter pilot treatment trial for psychogenic nonepileptic seizures: a randomized clinical trial. *JAMA Psychiatry*. 2014;71(9):997–1005. [FND-CIT-0032](../../research/citation-index.md#fnd-cit-0032). [https://doi.org/10.1001/jamapsychiatry.2014.817](https://doi.org/10.1001/jamapsychiatry.2014.817) |
 
 This page still needs review by people with varied therapy experiences, therapists from different modalities, functional-seizure specialists and accessibility reviewers.
 

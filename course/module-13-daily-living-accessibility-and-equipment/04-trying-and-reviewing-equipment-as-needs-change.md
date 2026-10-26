@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 17](README.md) › **Try and Review Equipment as Needs Change**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › [Module 17](README.md) › **Try and Review Equipment as Needs Change**
 <!-- NAV-BREADCRUMB:END -->
 
 # Try and Review Equipment as Needs Change
@@ -22,7 +22,7 @@ Equipment decisions are easier to understand when they are treated as a trial wi
 
 An **equipment trial** is a planned chance to see whether an aid helps a named activity. A **review** checks whether it still helps and whether its fit, risks or purpose have changed.
 
-![A loop moves from a chosen goal to trial, notice benefit and burden, then adjust or review.](../../../assets/illustrations/module-17-page-4-equipment-review.svg)
+![A loop moves from a chosen goal to trial, notice benefit and burden, then adjust or review.](../../assets/illustrations/module-17-page-4-equipment-review.svg)
 
 *Illustration: the result may be keep, adjust, use only in some settings, replace or stop. None is a moral score.*
 
@@ -110,9 +110,9 @@ Reassessment should allow continuation, different use, modification, replacement
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Next module: Relationships, Identity, and Grief](../module-18-relationships-identity-and-grief/README.md)
+**Continue:** [Next module: Relationships, Identity, and Grief](../module-14-relationships-identity-and-grief/README.md)
 
-**Navigate:** [← Previous page](03-sensory-home-and-communication-access.md) · [Module overview](README.md) · [Course](../../README.md)
+**Navigate:** [← Previous page](03-sensory-home-and-communication-access.md) · [Module overview](README.md) · [Course](../README.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -121,8 +121,8 @@ Reassessment should allow continuation, different use, modification, replacement
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Nicholson C, Edwards MJ, Carson AJ, et al. Occupational therapy consensus recommendations for functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(10):1037–1045. [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). [https://doi.org/10.1136/jnnp-2019-322281](https://doi.org/10.1136/jnnp-2019-322281) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
 
 This page still needs review by equipment users, prescribers, repair services and people navigating funding systems.
 

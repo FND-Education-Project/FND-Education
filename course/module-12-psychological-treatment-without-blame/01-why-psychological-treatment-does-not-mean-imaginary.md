@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 16](README.md) › **Why Psychological Treatment Does Not Mean Imaginary**
+[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Rehabilitation › [Module 16](README.md) › **Why Psychological Treatment Does Not Mean Imaginary**
 <!-- NAV-BREADCRUMB:END -->
 
 # Why Psychological Treatment Does Not Mean Imaginary
@@ -22,7 +22,7 @@ Psychological treatment is one possible part of care. Being offered it should ne
 
 **Psychological treatment** uses conversation, skills, observation and a therapeutic relationship to work on an agreed problem. The target might be an FND symptom, the impact of illness or a separate mental-health condition.
 
-![Three separate starting points—an FND symptom, living with illness and a mental-health condition—can each lead to a chosen therapy target without proving what caused FND.](../../../assets/illustrations/module-16-page-1-therapy-targets.svg)
+![Three separate starting points—an FND symptom, living with illness and a mental-health condition—can each lead to a chosen therapy target without proving what caused FND.](../../assets/illustrations/module-16-page-1-therapy-targets.svg)
 
 *Illustration: what therapy works on is not automatically what caused FND.*
 
@@ -126,16 +126,16 @@ Evidence varies by modality, phenotype and outcome. Discuss mixed trial findings
 
 ## Further reading in the Reference Library
 
-- **[Mental Health, Stigma, and Being Believed](../../../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md)** — psychiatric comorbidity, credibility, stigma and diagnostic overshadowing.
-- **[Emotional Regulation, Irritability, and Overwhelm](../../../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md)** — emotional regulation as a possible treatment target without treating it as proof of FND causation.
-- **[Recovery Pressure, Self-Blame, and Feeling Like You Are Failing](../../../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md)** — how treatment language can become pressure or self-blame when improvement is limited.
+- **[Mental Health, Stigma, and Being Believed](../../reference/biopsychosocial-experiences/02-mental-health-stigma-and-being-believed.md)** — psychiatric comorbidity, credibility, stigma and diagnostic overshadowing.
+- **[Emotional Regulation, Irritability, and Overwhelm](../../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md)** — emotional regulation as a possible treatment target without treating it as proof of FND causation.
+- **[Recovery Pressure, Self-Blame, and Feeling Like You Are Failing](../../reference/biopsychosocial-experiences/06-recovery-pressure-self-blame-and-feeling-like-you-are-failing.md)** — how treatment language can become pressure or self-blame when improvement is limited.
 
 ***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Choose a Therapy and Set Goals](02-choosing-a-therapy-setting-goals-and-recognizing-harm.md)
 
-**Navigate:** [← Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Module overview](README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -146,9 +146,9 @@ The psychotherapy review and briefing cover varied therapies and FND presentatio
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Gutkin M, McLean L, Brown R, Kanaan RA. Systematic review of psychotherapy for adults with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(1):36–44. [FND-CIT-0077](../../../research/citation-index.md#fnd-cit-0077). [https://doi.org/10.1136/jnnp-2019-321926](https://doi.org/10.1136/jnnp-2019-321926) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
-| <a id="citation-3"></a>**[3]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [FND-CIT-0033](../../../research/citation-index.md#fnd-cit-0033). [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Gutkin M, McLean L, Brown R, Kanaan RA. Systematic review of psychotherapy for adults with functional neurological disorder. *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92(1):36–44. [FND-CIT-0077](../../research/citation-index.md#fnd-cit-0077). [https://doi.org/10.1136/jnnp-2019-321926](https://doi.org/10.1136/jnnp-2019-321926) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
+| <a id="citation-3"></a>**[3]** | — | Goldstein LH, Robinson EJ, Mellers JDC, et al.; CODES study group. Cognitive behavioural therapy for adults with dissociative seizures (CODES): a pragmatic, multicentre, randomised controlled trial. *The Lancet Psychiatry*. 2020;7(6):491–505. [FND-CIT-0033](../../research/citation-index.md#fnd-cit-0033). [https://doi.org/10.1016/S2215-0366(20)30128-0](https://doi.org/10.1016/S2215-0366(20)30128-0) |
 
 This page still needs review by people with helpful, neutral and harmful therapy experiences, psychologists, neurologists and accessibility reviewers.
 

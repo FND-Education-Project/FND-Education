@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Five: Living With FND › [Module 18](README.md) › **Relationships, Intimacy, and Boundaries**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › [Module 18](README.md) › **Relationships, Intimacy, and Boundaries**
 <!-- NAV-BREADCRUMB:END -->
 
 # Relationships, Intimacy, and Boundaries
@@ -22,7 +22,7 @@ Illness can change who does what, how people communicate and what closeness feel
 
 A **boundary** says what a person is and is not willing or able to do. **Intimacy** can mean emotional or physical closeness; it is wider than sex.
 
-![A calm conversation moves through four prompts: need, boundary, choice and a time to revisit.](../../../assets/illustrations/module-18-page-2-relationships.svg)
+![A calm conversation moves through four prompts: need, boundary, choice and a time to revisit.](../../assets/illustrations/module-18-page-2-relationships.svg)
 
 *Illustration: a boundary can change with symptoms and circumstances. Consent must be freely given each time.*
 
@@ -111,15 +111,15 @@ Consider pain, sensory loss, fatigue, autonomic symptoms, medication effects, pe
 
 ## Further reading in the Reference Library
 
-- **[Emotional Regulation, Irritability, and Overwhelm](../../../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md)** — practical examples of setting and holding boundaries during difficult interactions.
-- **[Guilt, Dependence, and Receiving Help](../../../reference/biopsychosocial-experiences/04-guilt-dependence-and-receiving-help.md)** — receiving care while preserving autonomy and the relationship outside caregiving.
+- **[Emotional Regulation, Irritability, and Overwhelm](../../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md)** — practical examples of setting and holding boundaries during difficult interactions.
+- **[Guilt, Dependence, and Receiving Help](../../reference/biopsychosocial-experiences/04-guilt-dependence-and-receiving-help.md)** — receiving care while preserving autonomy and the relationship outside caregiving.
 
 ***
 
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Supporter Wellbeing and Shared Boundaries](03-supporter-wellbeing-and-shared-boundaries.md)
 
-**Navigate:** [← Previous page](01-grief-identity-purpose-and-social-isolation.md) · [Module overview](README.md) · [Course](../../README.md)
+**Navigate:** [← Previous page](01-grief-identity-purpose-and-social-isolation.md) · [Module overview](README.md) · [Course](../README.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -128,8 +128,8 @@ Consider pain, sensory loss, fatigue, autonomic symptoms, medication effects, pe
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Szasz A, Korner A, McLean L. Qualitative systematic review on the lived experience of functional neurological disorder. *BMJ Neurology Open*. 2025;7(1):e000694. [FND-CIT-0080](../../../research/citation-index.md#fnd-cit-0080). [https://doi.org/10.1136/bmjno-2024-000694](https://doi.org/10.1136/bmjno-2024-000694) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | Gatherer C, Garip G. “Look for Glimmers Instead of Triggers”: An Exploration Into the Lived Experiences of Functional Neurological Disorder Using Interpretative Phenomenological Analysis. *Psychological Reports*. Published online June 15, 2025. [FND-CIT-0086](../../../research/citation-index.md#fnd-cit-0086). [https://doi.org/10.1177/00332941251351234](https://doi.org/10.1177/00332941251351234) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Szasz A, Korner A, McLean L. Qualitative systematic review on the lived experience of functional neurological disorder. *BMJ Neurology Open*. 2025;7(1):e000694. [FND-CIT-0080](../../research/citation-index.md#fnd-cit-0080). [https://doi.org/10.1136/bmjno-2024-000694](https://doi.org/10.1136/bmjno-2024-000694) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | Gatherer C, Garip G. “Look for Glimmers Instead of Triggers”: An Exploration Into the Lived Experiences of Functional Neurological Disorder Using Interpretative Phenomenological Analysis. *Psychological Reports*. Published online June 15, 2025. [FND-CIT-0086](../../research/citation-index.md#fnd-cit-0086). [https://doi.org/10.1177/00332941251351234](https://doi.org/10.1177/00332941251351234) |
 
 This page still needs review by people with FND, partners, sexual-health clinicians, safeguarding specialists and relationship counsellors.
 
