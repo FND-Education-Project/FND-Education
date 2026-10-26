@@ -55,7 +55,7 @@
     return response.json();
   }
   function loginUrl(provider) {
-    const path = /^\/course\/(?:m\d+\/(?:\d+\/)?)?$/.test(location.pathname)
+    const path = /^\/course\/(?:m[1-9][0-9]*\/(?:[1-9][0-9]*\/)?|v2\/m(?:6|7|8|9|10)\/(?:[1-9][0-9]*\/)?|)$/.test(location.pathname)
       ? location.pathname : "/course/";
     const url = new URL("/v1/auth/start/" + provider, api);
     url.searchParams.set("return", path);
