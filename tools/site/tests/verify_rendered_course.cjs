@@ -18,7 +18,7 @@ process.on('exit', () => server.kill());
   // Block analytics and all other external requests during isolated review.
   await page.route('**/*', route => route.request().url().startsWith('http://127.0.0.1:4174/') ? route.continue() : route.abort());
   const reports=[];
-  const paths=['/course/','/course/v2/m6/1/','/course/v2/m7/2/','/course/v2/m8/3/','/course/v2/m9/3/','/course/v2/m10/2/','/course/m6/1/','/course/m13/'];
+  const paths=['/course/','/course/m6/1/','/course/m7/2/','/course/m8/3/','/course/m9/3/','/course/m10/2/','/course/m11/1/','/course/m19/2/'];
   for(const width of [1280,360]) {
     await page.setViewportSize({width,height:900});
     for(const path of paths) {
@@ -27,12 +27,12 @@ process.on('exit', () => server.kill());
       const detail=await page.evaluate(()=>({title:document.querySelector('h1')?.textContent.trim(), width:innerWidth, scrollWidth:document.documentElement.scrollWidth, citations:document.querySelectorAll('[id^="citation-"]').length, context:document.querySelector('.page-context')?.textContent.replace(/\s+/g,' ').trim()}));
       if(detail.scrollWidth>width+1) throw new Error('Horizontal page overflow: '+path+' '+JSON.stringify(detail));
       reports.push({path,width,...detail});
-      if(path==='/course/v2/m6/1/' || (width===360&&path==='/course/v2/m9/3/')) {
+      if(path==='/course/m6/1/' || (width===360&&path==='/course/m9/3/')) {
         await page.screenshot({path:output+'/review-'+width+'-'+path.split('/').filter(Boolean).join('-')+'.png',fullPage:false});
       }
     }
   }
-  await page.goto('http://127.0.0.1:4174/course/v2/m7/2/');
+  await page.goto('http://127.0.0.1:4174/course/m7/2/');
   await page.locator('a[href="#for-clinicians-and-the-care-team"]').first().click();
   if(!page.url().endsWith('#for-clinicians-and-the-care-team')) throw new Error('Audience jump failed');
   // Check the final-head rendered anchors, not just Markdown source syntax.
