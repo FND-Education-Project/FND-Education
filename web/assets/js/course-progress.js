@@ -77,9 +77,9 @@
         throw new Error("Unexpected retired lesson records in curriculum");
       }
     } catch { return; }
-    const lookup = new Map(); // Exact route -> lesson; NEVER display module number -> ID.
-    const identity = new Map(); // Original immutable account ID -> original route.
-    const ordered = []; // Current reading sequence, including untracked new lessons.
+    const lookup = new Map(); // Exact canonical URL -> tracked lesson.
+    const identity = new Map(); // Canonical lesson ID -> current route.
+    const ordered = []; // All 57 current lessons, no earlier edition.
     function register(lesson, destination) {
       if (!lesson || typeof lesson.url !== "string" || lookup.has(lesson.url)) return false;
       const tracked = manifest.version === 1 || lesson.progressEligible === true;
@@ -89,9 +89,8 @@
         const match = /^m([1-9][0-9]*)-([1-9][0-9]*)$/.exec(lesson.id);
         if (lesson.url !== "/course/m" + match[1] + "/" + match[2] + "/" ||
             identity.has(lesson.id)) return false;
-      } else if (manifest.version !== 2 || lesson.progressEligible !== false ||
-                 lesson.id !== null ||
-                 !/^\/course\/v2\/m(?:6|7|8|9|10)\/[1-9][0-9]*\/$/.test(lesson.url)) {
+      } else {
+        // A manifest may not claim completion for a retired or unknown route.
         return false;
       }
       const entry = { ...lesson, progressEligible: tracked };
@@ -286,7 +285,7 @@
       const total = count(eligible);
       const visited = eligible.filter(item => get(item.id).visited).length;
       fragment.append(el("p", "course-progress-summary-line",
-        total + " of " + eligible.length + " progress-enabled lessons completed · " +
+        total + " of " + eligible.length + " lessons completed · " +
         visited + " visited"));
       const bar = el("progress", "course-progress-bar");
       bar.max = eligible.length;
@@ -296,13 +295,6 @@
       fragment.append(el("p", "course-progress-help",
         "Opening a progress-enabled lesson marks it visited. Completion always " +
         "requires confirmation of your active username. You can undo a checkmark."));
-      if (manifest.version === 2) {
-        const untracked = ordered.filter(item => !item.progressEligible).length;
-        if (untracked) fragment.append(el("p", "course-progress-help",
-          "The " + untracked + " new concepts-first lessons are readable now, " +
-          "but their cloud completion tracking is not yet enabled. " +
-          "The course sequence and completion controls remain account-based."));
-      }
       const next = nextLesson();
       if (next) {
         const link = el("a", "course-progress-resume", "Continue learning →");
