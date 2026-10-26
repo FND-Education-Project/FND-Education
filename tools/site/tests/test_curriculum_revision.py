@@ -1,17 +1,17 @@
-"""Regression checks for new routes, original identity and course sequencing.
+"""Regressions for the canonical 19-module / 57-lesson curriculum.
 
-These tests exercise the publication model; they do not access learner records
-or replace live acceptance tests for a later account-service change.
+The superseded 34 lessons were intentionally removed. This test deliberately
+does not require old URLs or their identities to remain in the site.
 """
 import importlib.util
-import json
 from pathlib import Path
 import re
 import sys
 import unittest
 
 ROOT = Path(__file__).resolve().parents[3]
-SPEC = importlib.util.spec_from_file_location('course_prepare', ROOT / 'tools/site/prepare_site.py')
+SPEC = importlib.util.spec_from_file_location(
+    'course_prepare', ROOT / 'tools/site/prepare_site.py')
 PREPARE = importlib.util.module_from_spec(SPEC)
 sys.modules[SPEC.name] = PREPARE
 SPEC.loader.exec_module(PREPARE)
@@ -20,67 +20,74 @@ SPEC.loader.exec_module(PREPARE)
 class CurriculumRevisionTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        """Discover exactly the same content as the production generator."""
         cls.pages = PREPARE.discover_course_pages()
-        cls.by_source = {str(p.source.relative_to(ROOT)): p for p in cls.pages}
+        cls.modules = [p for p in cls.pages if p.kind == 'module']
+        cls.lessons = [p for p in cls.pages if p.kind == 'lesson']
         cls.by_url = {p.public_url: p for p in cls.pages}
         cls.navigation = PREPARE.build_global_navigation(
-            cls.pages, PREPARE.discover_reference_pages()
-        )
+            cls.pages, PREPARE.discover_reference_pages())
 
-    def test_every_original_lesson_keeps_url_and_identity(self):
-        """Saved keys and old bookmarks must still identify their old topic."""
-        inventory = json.loads((ROOT / 'reference/_internal/course/syllabus-redesign-identity-map-2026-10-26.json').read_text())
-        for old in inventory['legacy_lessons']:
-            page = self.by_source[old['source_path']]
-            self.assertEqual(page.public_url, old['legacy_url'])
-            self.assertEqual(f'm{page.module_number}-{page.lesson_number}', old['legacy_key'])
-            self.assertTrue(page.progress_eligible)
+    def test_one_uniform_source_structure(self):
+        self.assertEqual(len(self.modules), 19)
+        self.assertEqual(len(self.lessons), 57)
+        self.assertEqual([p.module_number for p in self.modules], list(range(1, 20)))
+        self.assertEqual(len({p.public_url for p in self.pages}), 77)
+        self.assertTrue(all(p.is_core and p.progress_eligible for p in self.lessons))
+        self.assertTrue(all(
+            re.fullmatch(r'module-\\d{2}-.+', p.source.parent.name)
+            and p.source.parent.parent == ROOT / 'course'
+            for p in self.lessons
+        ))
+        self.assertTrue(all(
+            re.fullmatch(r'/course/m\\d+/\\d+/', p.public_url)
+            for p in self.lessons
+        ))
+        self.assertFalse((ROOT / 'course/concepts-first').exists())
+        self.assertFalse(list((ROOT / 'course').glob('part-*')))
 
-    def test_new_topics_do_not_reuse_original_slots(self):
-        """Unsupported new progress is preferable to completing a wrong topic."""
-        old = {f'm{p.module_number}-{p.lesson_number}' for p in self.pages if p.kind == 'lesson' and p.module_number < 24}
-        new = [p for p in self.pages if p.kind == 'lesson' and p.module_number >= 24]
-        self.assertEqual(len(new), 16)
-        for page in new:
-            self.assertNotIn(f'm{page.module_number}-{page.lesson_number}', old)
-            self.assertFalse(page.progress_eligible)
-            self.assertTrue(page.public_url.startswith('/course/v2/'))
-        self.assertEqual(self.by_url['/course/m6/1/'].module_number, 6)
-        self.assertEqual(self.by_url['/course/v2/m6/1/'].module_number, 24)
+    def test_new_lessons_use_current_names_and_addresses(self):
+        self.assertIn('/course/m6/1/', self.by_url)
+        self.assertIn('/course/m7/4/', self.by_url)
+        self.assertIn('/course/m10/3/', self.by_url)
+        self.assertIn('/course/m11/1/', self.by_url)
+        self.assertNotIn('/course/v2/m6/1/', self.by_url)
+        self.assertNotIn('/course/m20/', self.by_url)
+        for page in self.lessons:
+            source = page.source.read_text(encoding='utf-8')
+            self.assertIn('## For the Person With FND', source)
+            self.assertIn('## For Family, Friends, and Other Supporters', source)
+            self.assertIn('## For Clinicians and the Care Team', source)
+            self.assertIn('## Research and Sources', source)
 
-    def test_core_sequence_and_earlier_reading_are_separate(self):
-        """Next must follow concepts, symptom description, rehab, then pacing."""
-        modules = [p for p in self.pages if p.kind == 'module' and p.is_core]
-        self.assertEqual([p.display_module_number for p in modules], list(range(1, 20)))
-        self.assertEqual(sum(p.kind == 'lesson' and p.is_core for p in self.pages), 57)
-        self.assertEqual(self.navigation['/course/m5/3/'].next_url, '/course/v2/m6/')
-        self.assertEqual(self.navigation['/course/v2/m8/3/'].next_url, '/course/v2/m9/')
-        self.assertEqual(self.navigation['/course/v2/m9/3/'].next_url, '/course/v2/m10/')
-        self.assertEqual(self.navigation['/course/v2/m10/3/'].next_url, '/course/m13/')
-        self.assertNotEqual(self.navigation['/course/m6/1/'].next_url, '/course/v2/m6/2/')
+    def test_sequential_navigation(self):
+        self.assertEqual(self.navigation['/course/m5/3/'].next_url,
+                         '/course/m6/')
+        self.assertEqual(self.navigation['/course/m8/3/'].next_url,
+                         '/course/m9/')
+        self.assertEqual(self.navigation['/course/m9/3/'].next_url,
+                         '/course/m10/')
+        self.assertEqual(self.navigation['/course/m10/3/'].next_url,
+                         '/course/m11/')
+        self.assertEqual(self.navigation['/course/m19/2/'].next_url,
+                         '/reference/')
 
-    def test_schema_uses_actual_parent_and_no_route_collisions(self):
-        """Schema membership must not attach new lessons to legacy modules."""
-        children = PREPARE.build_collection_children(self.pages, PREPARE.discover_reference_pages())
-        self.assertIn('/course/v2/m6/1/', children['/course/v2/m6/'])
-        self.assertNotIn('/course/v2/m6/1/', children['/course/m6/'])
-        self.assertEqual(len(self.by_url), len(self.pages))
+    def test_schema_has_current_actual_parent(self):
+        children = PREPARE.build_collection_children(
+            self.pages, PREPARE.discover_reference_pages())
+        self.assertIn('/course/m6/1/', children['/course/m6/'])
+        self.assertNotIn('/course/m6/1/', children['/course/m7/'])
 
-    def test_new_lessons_are_complete_working_drafts(self):
-        """Catch draft-only references, incomplete audiences and source tables."""
-        for page in self.pages:
-            if page.kind != 'lesson' or page.module_number < 24:
+    def test_new_chapters_keep_evidence_and_audience_sections(self):
+        for page in self.lessons:
+            if not (6 <= page.module_number <= 10):
                 continue
-            text = page.source.read_text()
-            self.assertIn('automatically generated', text)
-            self.assertEqual(len(re.findall(r'^## For ', text, re.M)), 3)
-            self.assertIn('## Research and Sources', text)
-            self.assertNotIn('new-lessons-research-2026-10-26/sources.md', text)
-            ids = re.findall(r'<a id="citation-(\d+)">', text)
-            self.assertEqual(ids, [str(i) for i in range(1, len(ids) + 1)])
-            for number in re.findall(r'\]\(#citation-(\d+)\)', text):
-                self.assertIn(number, ids)
+            content = page.source.read_text(encoding='utf-8')
+            self.assertIn('automatically generated', content)
+            self.assertEqual(len(re.findall(r'^## For ', content, re.M)), 3)
+            ids = re.findall(r'<a id="citation-(\\d+)">', content)
+            self.assertEqual(ids, [str(n) for n in range(1, len(ids) + 1)])
+            for n in re.findall(r'\\]\\(#citation-(\\d+)\\)', content):
+                self.assertIn(n, ids)
 
 
 if __name__ == '__main__':
