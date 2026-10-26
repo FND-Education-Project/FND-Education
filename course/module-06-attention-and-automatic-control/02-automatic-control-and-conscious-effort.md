@@ -1,6 +1,6 @@
 # Automatic Control and Conscious Effort
 
-> **Working draft:** This page was automatically generated and is awaiting human authoring and further review.
+> **Working draft:** The Person section has been human-edited and approved with AI assistance. Supporter and Clinician content remains subject to editorial and clinical review.
 
 Lesson 16 explores automatic Control and Conscious Effort through everyday examples, collaborative adaptations and clinical reasoning.
 
@@ -254,4 +254,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1kchl1l/comment/mq4vaud/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0309](../../research/citation-index.md#fnd-cit-0309). |
 | <a id="citation-6"></a>**[6]** | — | Dayan E, Cohen LG. **Neuroplasticity subserving motor skill learning.** *Neuron*. 2011;72:443–454. doi:10.1016/j.neuron.2011.10.008. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC3217208/). [FND-CIT-0306](../../research/citation-index.md#fnd-cit-0306). |
 
-*Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
+*Publication-readiness audit: October 26, 2026. The Person section was human-edited and approved on October 26, 2026; two post-edit lesson audits, review of the other audiences, and independent clinical review remain pending.*
