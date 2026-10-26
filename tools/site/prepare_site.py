@@ -51,9 +51,10 @@ LESSON_RE = re.compile(r"^(\d+)-.+\.md$", re.IGNORECASE)
 # Display positions are independent of durable original routes and account keys.
 # New content uses reserved numeric slots 24–28 plus a separate URL namespace;
 # no original m6–m10 identity is ever assigned to a new lesson.
-CORE_MODULE_ORDER = (1, 2, 3, 4, 5, 24, 25, 26, 27, 28, 13, 16, 17, 18, 19, 20, 21, 22, 23)
-CORE_DISPLAY = {key: index + 1 for index, key in enumerate(CORE_MODULE_ORDER)}
-REVISION_ROOT = COURSE_ROOT / "concepts-first"
+# Source order and visible module numbering are identical: 01–19.
+# Previous edition paths are removed; public lessons use /course/mN/page/.
+EXPECTED_MODULES = 19
+EXPECTED_LESSONS = 57
 
 NUMBERED_MD_RE = re.compile(r"^(\d+)-(.+)\.md$", re.IGNORECASE)
 
@@ -68,36 +69,22 @@ class CoursePage:
 
     @property
     def is_core(self) -> bool:
-        """Earlier-edition pages stay public but are outside the core sequence."""
-        return self.kind == "course" or self.module_number in CORE_DISPLAY
+        return True
 
     @property
     def display_module_number(self) -> int | None:
-        """Return reading position without changing the persistent numeric slot."""
-        return CORE_DISPLAY.get(self.module_number, self.module_number)
+        return self.module_number
 
     @property
     def display_part_number(self) -> int | None:
-        """Match visible part labels to the current reading sequence."""
-        n = self.display_module_number
-        if not self.is_core or n is None:
-            return self.part_number
-        return 1 if n <= 5 else 2 if n <= 8 else 3 if n <= 10 else 4 if n <= 16 else 5
+        return self.part_number
 
     @property
     def progress_eligible(self) -> bool:
-        """Unchanged old identities remain eligible; new IDs need account work.
-
-        Public reading is independent of accounts. No completion is inferred
-        from an ordinal or from a different earlier-edition topic.
-        """
-        return self.kind == "lesson" and self.module_number in range(1, 24)
+        return self.kind == "lesson"
 
     @property
     def module_url(self) -> str:
-        """Keep new topics outside the existing semantic URL namespace."""
-        if self.module_number and self.module_number >= 24:
-            return f"/course/v2/m{self.display_module_number}/"
         return f"/course/m{self.module_number}/"
 
     @property
@@ -529,99 +516,52 @@ def extract_reference_description(text: str) -> tuple[str, str | None]:
 
 
 def discover_course_pages() -> list[CoursePage]:
-    """Find the course landing page, module intros and numbered lessons."""
-    pages: list[CoursePage] = []
-
-    course_readme = COURSE_ROOT / "README.md"
-    if not course_readme.exists():
+    """Discover one uniform current course: module-01..19 and 57 lessons."""
+    readme = COURSE_ROOT / "README.md"
+    if not readme.exists():
         raise ValueError("course/README.md is missing")
+    pages = [CoursePage(source=readme, kind="course")]
+    module_dirs = sorted(COURSE_ROOT.glob("module-*"))
+    numbers = []
+    lesson_total = 0
 
-    pages.append(CoursePage(source=course_readme, kind="course"))
+    for directory in module_dirs:
+        match = MODULE_RE.fullmatch(directory.name)
+        if not match or not directory.is_dir():
+            raise ValueError(f"Unexpected course module folder: {directory.name}")
+        number = int(match.group(1))
+        numbers.append(number)
+        part = 1 if number <= 5 else 2 if number <= 8 else (
+            3 if number <= 10 else 4 if number <= 16 else 5
+        )
+        intro = directory / "README.md"
+        if not intro.exists():
+            raise ValueError(f"Module overview missing: {intro}")
+        pages.append(CoursePage(
+            source=intro, kind="module", part_number=part,
+            module_number=number,
+        ))
+        lessons = sorted(directory.glob("*.md"))
+        lessons = [file for file in lessons if file.name != "README.md"]
+        local_numbers = []
+        for file in lessons:
+            match = LESSON_RE.fullmatch(file.name)
+            if not match:
+                raise ValueError(f"Unexpected lesson filename: {file}")
+            local = int(match.group(1))
+            local_numbers.append(local)
+            pages.append(CoursePage(
+                source=file, kind="lesson", part_number=part,
+                module_number=number, lesson_number=local,
+            ))
+            lesson_total += 1
+        if local_numbers != list(range(1, len(local_numbers) + 1)):
+            raise ValueError(f"Module {number} lesson numbers are not sequential")
 
-    for part_dir in sorted(COURSE_ROOT.iterdir()):
-        if not part_dir.is_dir():
-            continue
-
-        part_match = PART_RE.match(part_dir.name)
-        if not part_match:
-            continue
-
-        part_number = int(part_match.group(1))
-
-        for module_dir in sorted(part_dir.iterdir()):
-            if not module_dir.is_dir():
-                continue
-
-            module_match = MODULE_RE.match(module_dir.name)
-            if not module_match:
-                continue
-
-            module_number = int(module_match.group(1))
-            module_readme = module_dir / "README.md"
-
-            if not module_readme.exists():
-                raise ValueError(
-                    f"Module landing page missing: "
-                    f"{module_dir.relative_to(ROOT)}/README.md"
-                )
-
-            pages.append(
-                CoursePage(
-                    source=module_readme,
-                    kind="module",
-                    part_number=part_number,
-                    module_number=module_number,
-                )
-            )
-
-            for source in sorted(module_dir.glob("*.md")):
-                lesson_match = LESSON_RE.match(source.name)
-                if not lesson_match:
-                    continue
-
-                pages.append(
-                    CoursePage(
-                        source=source,
-                        kind="lesson",
-                        part_number=part_number,
-                        module_number=module_number,
-                        lesson_number=int(lesson_match.group(1)),
-                    )
-                )
-
-    # Discover the five newly authored modules separately. Their numeric slots
-    # are intentionally outside the original edition's account allowlist.
-    for module_dir in sorted(REVISION_ROOT.glob("module-*")):
-        display = int(MODULE_RE.match(module_dir.name).group(1))
-        if display not in range(6, 11):
-            raise ValueError(f"Unexpected concepts-first module: {module_dir}")
-        for source in sorted(module_dir.glob("*.md")):
-            match = LESSON_RE.match(source.name)
-            if source.name == "README.md" or match:
-                pages.append(CoursePage(
-                    source=source,
-                    kind="module" if source.name == "README.md" else "lesson",
-                    part_number=2 if display <= 8 else 3,
-                    module_number=display + 18,
-                    lesson_number=int(match.group(1)) if match else None,
-                ))
-
-    # Retained pages keep their source and URL identity; only sequence changes.
-    pages.sort(key=lambda page: (
-        0 if page.is_core else 1,
-        CORE_DISPLAY.get(page.module_number, page.module_number or 0),
-        0 if page.kind != "lesson" else page.lesson_number or 0,
-    ))
-
-    seen: dict[str, Path] = {}
-    for page in pages:
-        if page.public_url in seen:
-            raise ValueError(
-                "Duplicate public course URL "
-                f"{page.public_url}: {seen[page.public_url]} and {page.source}"
-            )
-        seen[page.public_url] = page.source
-
+    if numbers != list(range(1, EXPECTED_MODULES + 1)):
+        raise ValueError(f"Expected modules 01..{EXPECTED_MODULES}: {numbers}")
+    if lesson_total != EXPECTED_LESSONS:
+        raise ValueError(f"Expected {EXPECTED_LESSONS} focused lessons, found {lesson_total}")
     return pages
 
 
