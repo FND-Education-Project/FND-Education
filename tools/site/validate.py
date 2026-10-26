@@ -262,9 +262,53 @@ def audit_audience_structure(
             previous_boundary = position + len(heading)
 
 
+
+def validate_course_progress_manifest(
+    pages: list[prepare_site.CoursePage], errors: list[str]
+) -> None:
+    """Do not publish a stale, duplicated, or misassigned learner manifest."""
+    manifest = WEB / "assets" / "data" / "course-progress.json"
+    if not manifest.exists():
+        errors.append("Missing generated course-progress.json")
+        return
+    try:
+        data = json.loads(manifest.read_text(encoding="utf-8"))
+        if data.get("version") != 2:
+            raise ValueError("Expected current learner manifest schema v2")
+        if data.get("earlierModules") != [] or data.get("eligibleLessonCount") != 57:
+            raise ValueError("Only 57 current eligible lessons; no earlier edition")
+        parts = data["parts"]
+        if len(parts) != 5 or [p["number"] for p in parts] != list(range(1, 6)):
+            raise ValueError("Missing or out-of-order course Parts")
+        actual_modules = [m for part in parts for m in part["modules"]]
+        actual_lessons = [lesson for mod in actual_modules for lesson in mod["lessons"]]
+        expected_modules = [p for p in pages if p.kind == "module"]
+        expected_lessons = [p for p in pages if p.kind == "lesson"]
+        if (len(actual_modules) != 19 or len(actual_lessons) != 57 or
+                len(expected_modules) != 19 or len(expected_lessons) != 57):
+            raise ValueError("Course progress lesson/module count mismatch")
+        if ([m["number"] for m in actual_modules] != list(range(1, 20)) or
+                [m["url"] for m in actual_modules] !=
+                [p.public_url for p in expected_modules]):
+            raise ValueError("Course progress module order/URLs mismatch")
+        expected = [
+            (f"m{p.module_number}-{p.lesson_number}", p.public_url)
+            for p in expected_lessons
+        ]
+        actual = [(l["id"], l["url"]) for l in actual_lessons]
+        if actual != expected or len(set(actual)) != 57:
+            raise ValueError("Lesson URLs/IDs do not match the current reading order")
+        if any(l.get("progressEligible") is not True or not l.get("title")
+               for l in actual_lessons):
+            raise ValueError("Missing eligible learner label or lesson title")
+    except (ValueError, KeyError, TypeError, json.JSONDecodeError) as exc:
+        errors.append(f"Invalid learner course-progress manifest: {exc}")
+
+
 def check_generated_source(errors: list[str]) -> tuple[int, int, int]:
     course_pages, reference_pages, routes = expected_routes()
     ensure_unique_routes(routes, errors)
+    validate_course_progress_manifest(course_pages, errors)
 
     for page in course_pages:
         if not page.destination.exists():

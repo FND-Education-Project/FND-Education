@@ -9,3 +9,6 @@ permalink: pretty
 
 # First-party anonymous aggregate counters. Only enabled after privacy notice approval.
 analytics_endpoint: https://fnd-aggregate-metrics.fnd-aggregate-metrics.workers.dev
+
+# Learner sign-in is OFF until account security and private acceptance pass.
+# learner_api_endpoint: https://accounts.fndeducationproject.org/
