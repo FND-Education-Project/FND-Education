@@ -1,3 +1,5 @@
+> **Superseded plan — October 26, 2026:** The project lead explicitly chose one 19-module/57-lesson course, with the 34 superseded source lessons removed. No live learner-progress history needs to be preserved: only test accounts exist. The legacy 75-ID migration/rollback procedures below are retained for historical research, **not** active rollout instructions. Instead, reconcile account PR #154 with the canonical course and explicitly clear the test-only `learner_progress` rows and `learners.last_lesson` values before deploying the new 57-ID Worker. The public account interface remains disabled. See updated PR #191 and #154 descriptions.
+
 # Curriculum redesign — learner-state and publication migration plan
 
 **Current release scope:** Robert subsequently authorized publication-readiness work so PR #191 can publish automatically generated working lessons before human authoring. The [publication audit](prepublication-audit-191-2026-10-26.md) supersedes earlier planning-only gates for this release. Original routes and progress identity are preserved; no D1 migration or account-service rollout is included.
