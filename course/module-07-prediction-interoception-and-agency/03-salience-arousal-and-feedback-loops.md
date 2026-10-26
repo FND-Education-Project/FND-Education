@@ -22,15 +22,15 @@ Imagine being in a room full of conversation. Someone across the room says your 
 
 The sound didn't necessarily get louder. Your brain recognised it as important.
 
-**Salience** is the importance the brain gives to a piece of information. A pain, a sudden movement or a sound you weren't expecting can become important quickly. (*citations* [1](#citation-1), [2](#citation-2))
+**[Salience](../../glossary/README.md#salience)** is the importance the brain gives to a piece of information. A pain, a sudden movement or a sound you weren't expecting can become important quickly. (*citations* [1](#citation-1), [2](#citation-2))
 
-**Arousal** describes a person's level of physiological and mental readiness. It can rise during exercise, excitement, illness, pain, surprise or fear. Arousal is not the same as anxiety, and it does not automatically mean something is wrong.
+**[Arousal](../../glossary/README.md#arousal)** describes a person's level of physiological and mental readiness. It can rise during exercise, excitement, illness, pain, surprise or fear. Arousal is not the same as anxiety, and it does not automatically mean something is wrong.
 
 ### The two-way street
 
 Suppose you're exhausted after a long appointment. Ordinary noises seem louder. That makes it harder to follow a conversation, and the effort of trying to listen leaves you even more tired.
 
-Here, several things affect each other. We might call this a **feedback loop**.
+Here, several things affect each other. We might call this a **[feedback loop](../../glossary/README.md#feedback-loop)**.
 
 Some loops help us. Drinking water when we're thirsty helps restore balance. Other loops can make an unpleasant experience harder to manage for a while.
 
