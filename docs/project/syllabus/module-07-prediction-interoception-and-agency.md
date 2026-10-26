@@ -58,3 +58,7 @@ Existing terms: [predictive processing](../../../glossary/README.md#predictive-p
 ## Research material for Chat
 
 The [remaining new-lesson research briefs](../../../reference/_internal/course/new-lessons-research-2026-10-26/README.md) populate Lessons 16–30 with source-linked foundations, explanations, three-audience teaching seeds, fictional examples and boundaries. Use the relevant lesson brief alongside this outline; these are internal authoring materials, not new public lessons.
+
+## Person-section editorial drafts
+
+[Read the complete Person sections for this module](../../reference/_internal/course/person-drafts-2026-10-26/module-07-prediction-interoception-and-agency.md). These are **internal human-review drafts**, not published course pages. The Supporter and Clinician sections deliberately remain undecided. Community quotes are candidates from the project's source notebook and require verification in their original context before publication. Evidence references, research citations, accessible illustrations, puzzles and final course integration remain follow-up Work tasks.
