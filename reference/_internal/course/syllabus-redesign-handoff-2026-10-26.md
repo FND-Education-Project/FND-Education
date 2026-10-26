@@ -91,7 +91,7 @@ On October 26 Robert requested researched material for the remaining new lessons
 
 ## Person sections drafted (October 26, 2026)
 
-The project lead requested complete **Person with FND sections only** for *all new Modules 6–10*, with the Supporter and Clinician directions explicitly left undecided. The following five internal editorial files now contain the **16 planned lessons 15–30**:
+The project lead requested complete **Person with FND sections only** for *all new Modules 6–10*, with the Supporter and Clinician directions to be developed in later passes (both have now been drafted below). The following five internal editorial files now contain the **16 planned lessons 15–30**:
 
 | Proposed module | Person draft | Lessons |
 |---|---|---|
@@ -101,7 +101,7 @@ The project lead requested complete **Person with FND sections only** for *all n
 | 9 — Rehabilitation and Neuroplasticity | [Read draft](person-drafts-2026-10-26/module-09-rehabilitation-and-neuroplasticity.md) | 25–27 |
 | 10 — Pacing, Activity, and Available Capacity | [Read draft](person-drafts-2026-10-26/module-10-pacing-and-available-capacity.md) | 28–30 |
 
-Each lesson has a full opening scene, an explanation of the concept, its relevance and limitations, a reflective question and one small optional step. The drafts use everyday examples and deliberately **do not assert a universal FND mechanism or substitute symptom matching for diagnosis**. No Supporter or Clinician subsections have been added.
+Each lesson has a full opening scene, an explanation of the concept, its relevance and limitations, a reflective question and one small optional step. The drafts use everyday examples and deliberately **do not assert a universal FND mechanism or substitute symptom matching for diagnosis**. No Supporter or Clinician subsections were included in the **Person-only draft files**; both companion audience sets have since been drafted separately.
 
 **Community quote candidates:** Eight quotations are embedded selectively (one in M6, none in M7, one in M8, four in M9, two in M10). They came from [the internal community quote source notebook](../recovery-techniques/community-experience-quotes.md) and existing source-linked course material; direct public forum wording and context **have not been independently verified for this drafting pass**. Work must inspect the original linked posts/comments and authors/context; recheck wording after truncation, de-identification, appropriateness and possible quote duplication before approving any for publication. In particular, the two rehabilitation reports linked to the same Reddit thread must not be treated as independent study evidence; their authorship should be verified before retaining “another person” wording. Prefer omission over a forced quote. Do not use any account as evidence of treatment effectiveness or a causal mechanism.
 
@@ -129,3 +129,19 @@ Following the Person drafts, the project lead requested **Clinician content acro
 **Not done:** No changes to live course pages, lesson numbering, existing links, D1 progress records, puzzles, or Supporter sections. Draft PR remains a planning/editing surface. Do not merge a public rollout until migration and build checks are complete.
 
 **Editorial directions for the next pass:** Preserve the 16 Person drafts, refine the Clinician writing for a clear professional voice, identify overreach or duplicate material, and then develop the separately planned Supporter sections around collaborative, consent-based adaptation, without turning supporters into therapists.
+
+## Supporter sections drafted — October 26, 2026
+
+The project lead has now requested complete **Supporter sections for all new Lessons 15–30**, after the Person and Clinician sections. Five internal [Supporter files, a full lesson index, quote provenance and handoff framework](supporter-drafts-2026-10-26/README.md) have been added:
+
+- [Module 6: Lessons 15–17](supporter-drafts-2026-10-26/module-06-attention-and-automatic-control.md)
+- [Module 7: Lessons 18–21](supporter-drafts-2026-10-26/module-07-prediction-interoception-and-agency.md)
+- [Module 8: Lessons 22–24](supporter-drafts-2026-10-26/module-08-recognizing-symptoms-and-finding-information.md)
+- [Module 9: Lessons 25–27](supporter-drafts-2026-10-26/module-09-rehabilitation-and-neuroplasticity.md)
+- [Module 10: Lessons 28–30](supporter-drafts-2026-10-26/module-10-pacing-and-available-capacity.md)
+
+**Teaching direction:** Each Supporter section encourages shared, consent-based environmental or activity adaptations and explicitly identifies when the matter belongs to a practitioner: PT/OT for professionally assessed movement, equipment and daily-task rehabilitation; SLT and medical teams for communication/swallowing/airway risks; psychology for agreed evidence-informed treatment or adjustment; neurology/medical care for diagnosis, differential and new/changed symptoms; prescribers for medication decisions. Professional boundaries vary by symptom and individual need; they should not become a universal rule that every home accommodation requires clinical permission. Supporters are not substitutes for qualified clinicians, nor should they be held responsible for rehabilitation outcomes.
+
+**Community-source bank:** The authoring source is the named **FND-Caregiver-Quotation-Bank-Lessons-13-75.docx** created October 25, with excerpts from publicly linked caregiver experiences. It was explicitly written for the **old** 75-lesson syllabus; our new quotes are selected by **topic fit**, not by old lesson number. The 16 sections presently contain **16 distinct quotation candidates** (one per lesson). The internal Supporter index maps each Q number to the new lesson and exact public thread/comment URL and explains contextual limits. The source DOCX was reviewed and its embedded public URLs extracted, **but the external posts have not been directly reverified during this pass**. Work must verify authorship, exact context, continued public availability and quotation safety before publication. Do not treat these as research findings or force a quote into a lesson if one becomes unsuitable.
+
+**Completion:** All 16 lessons now have internally drafted Person, Supporter and Clinician sections, kept in separate files for coordinated human editorial review. These are **not** yet final public pages: clinical and academic citations, original community quote confirmation, consistency/voice audit, lesson integration, assets, link/build QA and the learner-progress migration still require Work review and project-lead approval. The public course, live accounts and puzzles remain unchanged.
