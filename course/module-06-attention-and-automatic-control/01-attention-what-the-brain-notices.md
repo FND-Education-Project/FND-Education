@@ -56,19 +56,23 @@ Let's see how that might matter for FND.
 
 ### When attention and FND symptoms meet
 
-Picture someone whose hand shakes while they hold a book. They look down at their hand, trying to work out what it's doing.
+Imagine someone with a **functional walking difficulty** moving along a hallway. They hear footsteps behind them.
 
-A little later, a friend starts talking about a favourite film. As the person follows the conversation, the shaking changes.
+"Am I holding everyone up? Are they watching how I walk?"
 
-Clinicians sometimes see changes like this in people with **functional tremor**. The shaking is involuntary in both situations. How it changes can offer a clue during a proper neurological examination. It cannot tell us, on its own, why that person's symptoms began. (*citation* [3](#citation-3))
+They begin thinking about every step. For some people, closely watching their walking can happen alongside greater difficulty moving. For others, attention makes little difference.
 
-Attention can matter in different ways, too.
+The worry about other people is understandable, and the movement difficulty is involuntary. A physiotherapist might explore whether attention changes the person's walking, with proper support and fall safety. There's never a need to hurry or risk a fall to make room for somebody else. (*citation* [2](#citation-2))
 
-Imagine someone who has trouble finding words. In a busy group, a question comes from one direction and another person starts speaking before they can answer. The conversation feels like a game of catch-up.
+Here's another example.
 
-Later, with one listener and a little more time, they might get their message across more easily. Or they might still need help communicating. Either experience matters.
+Someone's hand shakes while they hold a book. Later, as they become interested in a conversation, the shaking changes.
 
-People with FND have different symptoms, and attention affects them in different ways. Pain, fatigue, hearing, language difficulties and other health conditions can play a part as well. An attention change alone cannot identify the cause of a symptom.
+Clinicians sometimes observe changes like this with **functional tremor**. It's a genuine, involuntary symptom in both situations. The change may offer a clue during a neurological examination. It doesn't prove the person can switch the tremor on or off. (*citation* [3](#citation-3))
+
+Attention may also affect communication. Someone who struggles to find words in a busy group might find it easier with one listener and a little more time. Or they may still need another way to get their message across.
+
+**Different FND symptoms can respond differently to attention.** Pain, fatigue and other health conditions can also affect what happens. These examples give us questions to explore, rather than one explanation for everybody.
 
 ### How can attention help during rehabilitation?
 
