@@ -1,5 +1,8 @@
 # My FND Journey — companion app documentation
 
+> **October 26, 2026 curriculum review:** Merged [PR #191](https://github.com/FND-Education-Project/FND-Education/pull/191) establishes one canonical **19-module, 57-lesson** course. The independent Activity Room/local prototype in [PR #178](https://github.com/FND-Education-Project/FND-Education/pull/178) does **not** depend on lesson IDs and is unaffected. Future Continue Learning must use the updated version-2 lesson manifest and only connect after PR #154's old **private test progress** has been reset with explicit owner approval and the Worker retested. Draft [PR #192](https://github.com/FND-Education-Project/FND-Education/pull/192) updates glossary/search data; future local symptom matching should use reviewed, curated terms after its merge. Details: [course-tracker-handoff.md](course-tracker-handoff.md).
+
+
 **Status:** Design proposal / documentation only (October 23, 2026). No application, API, database, reminder, analytics, or account integration is deployed by this folder. Decisions are tagged **Agreed**, **Proposed**, or **Open**; proposed choices are not implementation approvals.
 
 My FND Journey is a free, optional, privacy-first companion to the FND Education Project. Its core questions:
