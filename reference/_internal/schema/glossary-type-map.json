@@ -34,6 +34,10 @@
       "term_code": "agency",
       "semantic_type": "neuroscience-research-concept"
     },
+    "Arousal": {
+      "term_code": "arousal",
+      "semantic_type": "neuroscience-research-concept"
+    },
     "Associated symptoms": {
       "term_code": "associated-symptoms",
       "semantic_type": "clinical-framework-or-concept"
@@ -42,11 +46,15 @@
       "term_code": "attention",
       "semantic_type": "neuroscience-research-concept"
     },
+    "Attention types: selective, divided and sustained": {
+      "term_code": "attention-types-selective-divided-and-sustained",
+      "semantic_type": "neuroscience-research-concept"
+    },
     "Augmentative and alternative communication (AAC)": {
       "term_code": "augmentative-and-alternative-communication-aac",
       "semantic_type": "communication-access"
     },
-    "Automatic and task-oriented movement": {
+    "Automatic control / automatic and task-oriented movement": {
       "term_code": "automatic-and-task-oriented-movement",
       "semantic_type": "therapy-rehabilitation"
     },
@@ -162,6 +170,14 @@
       "term_code": "external-focus",
       "semantic_type": "therapy-rehabilitation"
     },
+    "Exteroception": {
+      "term_code": "exteroception",
+      "semantic_type": "neuroscience-research-concept"
+    },
+    "Feedback loop": {
+      "term_code": "feedback-loop",
+      "semantic_type": "clinical-framework-or-concept"
+    },
     "Functional": {
       "term_code": "functional",
       "semantic_type": "terminology-or-classification"
@@ -172,10 +188,6 @@
     },
     "Functional cough and upper-airway symptoms": {
       "term_code": "functional-cough-and-upper-airway-symptoms",
-      "semantic_type": "fnd-condition-or-presentation"
-    },
-    "Functional/dissociative seizures (FDS)": {
-      "term_code": "functional-dissociative-seizures-fds",
       "semantic_type": "fnd-condition-or-presentation"
     },
     "Functional dystonia / fixed dystonia": {
@@ -246,6 +258,10 @@
       "term_code": "functional-visual-symptoms",
       "semantic_type": "fnd-condition-or-presentation"
     },
+    "Functional/dissociative seizures (FDS)": {
+      "term_code": "functional-dissociative-seizures-fds",
+      "semantic_type": "fnd-condition-or-presentation"
+    },
     "Give-way / collapsing weakness": {
       "term_code": "give-way-collapsing-weakness",
       "semantic_type": "positive-diagnostic-sign"
@@ -308,6 +324,10 @@
     },
     "Metacognition": {
       "term_code": "metacognition",
+      "semantic_type": "neuroscience-research-concept"
+    },
+    "Motor learning": {
+      "term_code": "motor-learning",
       "semantic_type": "neuroscience-research-concept"
     },
     "Motor tic": {
@@ -393,6 +413,10 @@
     "Relapse / setback": {
       "term_code": "relapse-setback",
       "semantic_type": "clinical-framework-or-concept"
+    },
+    "Salience": {
+      "term_code": "salience",
+      "semantic_type": "neuroscience-research-concept"
     },
     "Scan-negative cauda equina presentation": {
       "term_code": "scan-negative-cauda-equina-presentation",
