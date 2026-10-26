@@ -140,6 +140,132 @@
       "subjects": [
         "fnd-recovery"
       ]
+    },
+    {
+      "prefix": "/course/m1/",
+      "subjects": [
+        "fnd"
+      ]
+    },
+    {
+      "prefix": "/course/m2/",
+      "subjects": [
+        "fnd-diagnosis"
+      ]
+    },
+    {
+      "prefix": "/course/m3/",
+      "subjects": [
+        "fnd-mechanisms"
+      ]
+    },
+    {
+      "prefix": "/course/m4/",
+      "subjects": [
+        "personal-handbook"
+      ]
+    },
+    {
+      "prefix": "/course/m5/",
+      "subjects": [
+        "medical-safety"
+      ]
+    },
+    {
+      "prefix": "/course/m6/",
+      "subjects": [
+        "attention-automatic-control"
+      ]
+    },
+    {
+      "prefix": "/course/m7/",
+      "subjects": [
+        "prediction-attention-agency"
+      ]
+    },
+    {
+      "prefix": "/course/m7/2/",
+      "subjects": [
+        "interoception-proprioception"
+      ]
+    },
+    {
+      "prefix": "/course/m7/3/",
+      "subjects": [
+        "salience-arousal-feedback"
+      ]
+    },
+    {
+      "prefix": "/course/m8/",
+      "subjects": [
+        "fnd-symptoms"
+      ]
+    },
+    {
+      "prefix": "/course/m9/",
+      "subjects": [
+        "neuroplasticity"
+      ]
+    },
+    {
+      "prefix": "/course/m10/",
+      "subjects": [
+        "pacing"
+      ]
+    },
+    {
+      "prefix": "/course/m11/",
+      "subjects": [
+        "treatment-team"
+      ]
+    },
+    {
+      "prefix": "/course/m12/",
+      "subjects": [
+        "psychological-treatment"
+      ]
+    },
+    {
+      "prefix": "/course/m13/",
+      "subjects": [
+        "daily-living"
+      ]
+    },
+    {
+      "prefix": "/course/m14/",
+      "subjects": [
+        "relationships"
+      ]
+    },
+    {
+      "prefix": "/course/m15/",
+      "subjects": [
+        "healthcare-communication"
+      ]
+    },
+    {
+      "prefix": "/course/m16/",
+      "subjects": [
+        "work-school-accommodations"
+      ]
+    },
+    {
+      "prefix": "/course/m17/",
+      "subjects": [
+        "relapse-setbacks"
+      ]
+    },
+    {
+      "prefix": "/course/m18/",
+      "subjects": [
+        "personal-handbook"
+      ]
+    },
+    {
+      "prefix": "/course/m19/",
+      "subjects": [
+        "progress-review"
+      ]
     }
   ],
   "segment_modifier_rules": [
@@ -174,5 +300,6 @@
     "Questions",
     "Three focused quotations",
     "Research quotations for review"
-  ]
+  ],
+  "course_root": "/course/"
 }
