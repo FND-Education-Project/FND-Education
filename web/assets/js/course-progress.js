@@ -72,20 +72,20 @@
       if (![1, 2].includes(manifest.version) || !Array.isArray(manifest.parts)) {
         throw new Error("Unknown curriculum");
       }
-      if (manifest.version === 2 && !Array.isArray(manifest.earlierModules)) {
-        throw new Error("Missing earlier-edition history");
+      if (manifest.version === 2 &&
+          (!Array.isArray(manifest.earlierModules) || manifest.earlierModules.length)) {
+        throw new Error("Unexpected retired lesson records in curriculum");
       }
     } catch { return; }
     const lookup = new Map(); // Exact route -> lesson; NEVER display module number -> ID.
     const identity = new Map(); // Original immutable account ID -> original route.
     const ordered = []; // Current reading sequence, including untracked new lessons.
-    const earlier = []; // Original edition stays visible and retains its progress.
     function register(lesson, destination) {
       if (!lesson || typeof lesson.url !== "string" || lookup.has(lesson.url)) return false;
       const tracked = manifest.version === 1 || lesson.progressEligible === true;
       if (tracked) {
         if (typeof lesson.id !== "string" ||
-            !/^m([1-9]|1[0-9]|2[0-3])-[1-9][0-9]*$/.test(lesson.id)) return false;
+            !/^m([1-9]|1[0-9])-[1-9][0-9]*$/.test(lesson.id)) return false;
         const match = /^m([1-9][0-9]*)-([1-9][0-9]*)$/.exec(lesson.id);
         if (lesson.url !== "/course/m" + match[1] + "/" + match[2] + "/" ||
             identity.has(lesson.id)) return false;
@@ -109,18 +109,10 @@
         }
       }
     }
-    if (manifest.version === 2) {
-      for (const mod of manifest.earlierModules) {
-        if (!Array.isArray(mod.lessons)) return;
-        for (const lesson of mod.lessons) {
-          if (!register(lesson, earlier)) return;
-        }
-      }
-      if (identity.size !== manifest.eligibleLessonCount) return;
-    }
+    if (manifest.version === 2 && identity.size !== manifest.eligibleLessonCount) return;
     if (!ordered.length) return;
     const known = new Set(identity.keys());
-    const eligible = [...ordered, ...earlier].filter(item => item.progressEligible);
+    const eligible = ordered.filter(item => item.progressEligible);
     let state;
     try {
       state = await window.FNDAccount.apiRequest("/v1/progress");
@@ -146,10 +138,7 @@
         "Reading only";
     }
     function nextLesson() {
-      // Never reinterpret a saved original m6-1 (seizures) as new Module 6
-      // attention. If the saved position is earlier-edition, resume THERE.
-      const archivedResume = identity.get(state.lastLesson);
-      if (archivedResume && earlier.includes(archivedResume)) return archivedResume;
+      // Resume only against the current course manifest and account records.
       const position = ordered.findIndex(item =>
         item.progressEligible && item.id === state.lastLesson);
       if (position >= 0 && !get(state.lastLesson).completed) {
@@ -312,7 +301,7 @@
         if (untracked) fragment.append(el("p", "course-progress-help",
           "The " + untracked + " new concepts-first lessons are readable now, " +
           "but their cloud completion tracking is not yet enabled. " +
-          "Earlier-edition completion history is preserved below."));
+          "The course sequence and completion controls remain account-based."));
       }
       const next = nextLesson();
       if (next) {
@@ -353,36 +342,6 @@
           partGroup.append(moduleGroup);
         }
         fragment.append(partGroup);
-      }
-      if (earlier.length) {
-        const previous = group("earlier", "Earlier-edition reading",
-          count(earlier) + "/" + earlier.length + " tracked", opened);
-        previous.append(el("p", "course-progress-help",
-          "Your original lesson checkmarks remain linked to their original topics. " +
-          "These lessons are outside the current reading sequence."));
-        for (const mod of manifest.earlierModules) {
-          const section = group("earlier-module-" + mod.sourceModule,
-            "Earlier Module " + mod.number + ": " + mod.title,
-            count(mod.lessons) + "/" + mod.lessons.length, opened);
-          const intro = el("a", "course-progress-intro", "Earlier module overview");
-          intro.href = mod.url;
-          section.append(intro);
-          const ul = el("ul", "course-progress-lessons");
-          for (const original of mod.lessons) {
-            const lesson = identity.get(original.id);
-            if (!lesson) continue;
-            const row = el("li", "course-progress-lesson");
-            const main = el("div", "course-progress-lesson-main");
-            const link = el("a", "course-progress-lesson-link", lesson.title);
-            link.href = lesson.url;
-            main.append(link, displayStatus(get(lesson.id)));
-            row.append(main, checkbox(lesson));
-            ul.append(row);
-          }
-          section.append(ul);
-          previous.append(section);
-        }
-        fragment.append(previous);
       }
       fragment.append(el("p", "course-progress-help",
         "Progress and preferences belong only to the account shown above, " +
