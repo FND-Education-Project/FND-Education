@@ -12,7 +12,7 @@ shared browser's localStorage.
 
 The course index displays collapsible Parts > Modules > Lessons from
 `web/assets/data/course-progress.json`, regenerated from canonical course
-Markdown. The 74 lessons count toward progress; module introductions and
+Markdown. The **57 current lessons** count toward progress; module introductions and
 optional crosswords do not.
 
 - Each visitor can read any page without an account.
@@ -28,60 +28,56 @@ optional crosswords do not.
 - Without a configured/available account API, published lesson content and
   static course index remain readable, not replaced by fictitious progress.
 
-## October 26, 2026 — curriculum #191 compatibility (not deployed)
+## October 26, 2026 — one canonical 19-module course
 
-PR #191's new canonical course has **19 modules / 57 current lessons**.
-Its older 75 lessons, nine superseded module overviews and original URL/key
-pairs remain public as an earlier edition. Of the current 57 lessons, 16
-new concepts-first lessons live at /course/v2/m6/.../m10/; they use
-reserved internal source slots 24–28, *not* legacy Module 6–10 identities.
-Thus the 57-lesson path contains 41 original progress-eligible lessons;
-34 original lessons remain earlier-edition reading. All 75 original lesson
-progress records must remain intact across a curriculum change.
+At the owner's explicit request, the dual-edition/legacy-preservation
+approach was abandoned while the learner system is still in private testing.
+Curriculum PR #191 now contains **19 uniformly named module directories and
+57 current focused lessons**, with the 34 superseded course lessons and nine
+superseded module overviews removed. Current URLs are `/course/m1/` through
+`/course/m19/`; the temporary `/course/v2/` paths are retired.
 
-**Completed on this feature branch, not in production:**
-- Correct the Worker legacy allowlist from 74 to 75, including `m4-2`.
-  Retain its strict m1–m23 allowlist; the new source slots 24–28 and
-  arbitrary IDs remain rejected by the server.
-- Add a v2 manifest contract with `progressEligible`, a separate
-  `earlierModules` collection, immutable legacy IDs and explicit URLs.
-  The 16 new lessons have null API IDs; they are readable but do not
-  offer any Visit/Complete mutation or misleading Not Started status.
-- Keep the account client compatible with v1 local previews while enabling
-  v2 core and earlier-edition views, and resume earlier stored keys at
-  their exact old routes (e.g., original `m6-1` seizures).
-- Never map current display module numbers to API IDs; never migrate D1
-  values, reinterpret existing checkmarks, or discard unrecognized saved
-  rows. No schema change or account deployment is part of this update.
-- Whitelist new `/course/v2/m6/…/m10/` pages as safe return destinations
-  for optional provider sign-in without granting those lessons completion IDs.
-  Keep strict origin-independent path validation and reject external redirects.
-- Add synthetic curriculum tests for 19 current modules / 57 current
-  lessons / 34 earlier lessons / 75 immutable eligible legacy IDs and
-  16 newly readable, untracked lessons.
+**Account progress contract for this new course:**
+- One valid lesson key `m<module>-<local-page>` for each of the 57 lessons.
+  Both numbers follow the current canonical curriculum, not an older syllabus.
+- The Worker now validates exactly 19 module lengths totaling 57. Old
+  `m20`–`m23` keys and superseded extra lesson numbers cannot be written.
+- Only these 57 lessons may display a visited/completed flag or confirmation
+  checkbox. Every change still requires the correct session, CSRF token,
+  and prominently displayed username confirmation.
+- The generated curriculum manifest must contain **five Parts, 19 Modules,
+  57 lessons, zero earlier-edition modules**, and 57 eligible unique IDs.
+- The browser may resume from saved progress only when that ID exists in
+  the same currently published manifest. Displayed lesson numbers and actual
+  API identity are no longer separate concepts.
+- Email/Google return paths admit current `/course/m1/`–`m19/` reading
+  locations, never the retired v2 URLs; credentialed CORS stays exact-origin.
 
-**Required before reconciling and merging:** PR #191 is an independent,
-currently unmerged course publication, with conflicting generator work.
-After its separate approval/merge into main, reconcile the manifest writer
-with the canonical `tools/site/prepare_site.py` from #191 **without losing
-either branch's discovery/navigation work**. Test a fresh site build and
-generated JSON against the real #191 course. Ensure 19 current modules,
-57 current lessons, 34 earlier lessons and 75 preserved original keys.
-Then run Node contract tests, site validation, browser checks on course
-and earlier-edition pages, and two-account sign-in/reauthentication
-acceptance before enabling the public account endpoint.
+**Test-data reset is required before the changed Worker + site go live.**
+The Cloudflare learner D1 currently contains **test accounts** used for the
+previous 74/75-lesson preview. A key such as `m6-1` could now mean a
+different lesson; allowing old checkmarks would be misleading. The reset
+in `tools/learner-cloudflare/reset-test-course-progress.sql` intentionally
+clears `learner_progress` and all `learners.last_lesson` pointers; it does
+**not** remove usernames, verified emails, themes, sessions or identities.
+It is NOT automated: the owner must review test-only records, export anything
+worth preserving, then run it against `fnd-learner-accounts` explicitly, never
+the statistics database. Do not deploy the updated validator before the
+database reset and coordinated public manifest/client change.
 
-**Existing real-browser tests (private Chrome Local Overrides):**
-Passwordless email/Turnstile and Resend; one learner's completion survived
-refresh, sign-out, and return; two email-based learner accounts stayed isolated
-through repeated switching (one completion versus three); all appearance
-choices persisted and applied with the feature CSS. This verifies the old
-progress contract and account isolation, **not** #191 publication integration
-or eligibility-aware new lesson behavior.
+**Branch integration pending:** PR #191 should be merged independently,
+then PR #154's generator/manifest and client changes must be reconciled
+against its actual canonical `tools/site/prepare_site.py`. A stand-alone
+synthetic 19/57 contract test exists, but it is not proof of the future merged
+site. Test the real generated JSON, Jekyll links, Node/Worker suite, Chrome
+and mobile sign-in, 2-account isolation, resume, themes and deletion. Keep
+PR #154 a draft and public sign-in disabled until those gates pass.
 
-Do not merge PR #154 automatically or deploy the Worker when PR #191 lands;
-the feature remains gated until the shared contract and real browser tests
-pass. The public course may publish independently.
+**Earlier private browser acceptance:** Passwordless email with Turnstile
+and Resend, confirmed completion, refresh/sign-out persistence, two accounts
+staying separate (1 vs 3 prior test completions), and three appearance choices.
+These establish auth and isolation, not correctness of the new 57-lesson data;
+the prior completion flags must be cleared and retested.
 
 ## Account preferences and shared devices
 
