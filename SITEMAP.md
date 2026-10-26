@@ -24,263 +24,212 @@ Use the sections below to drill down into the course, reference library, researc
 <summary><strong>Part One: Understanding FND</strong></summary>
 
 <details>
-<summary><strong>Module 1: What FND Is</strong></summary>
+<summary><strong>Module 1: What Is Functional Neurological Disorder?</strong></summary>
 
-- [Module overview](course/part-1-understanding-fnd/module-01-what-fnd-is/README.md)
-- [What “Functional” Means and How FND Can Appear](course/part-1-understanding-fnd/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md)
-- [The Biopsychosocial Model and Misconceptions](course/part-1-understanding-fnd/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md)
-- [Remission, Recovery, and What Improvement Can Mean](course/part-1-understanding-fnd/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md)
-- [Available Capacity, Spoons, and Early Action](course/part-1-understanding-fnd/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md)
-
-</details>
-
-<details>
-<summary><strong>Module 2: How FND Is Diagnosed</strong></summary>
-
-- [Module overview](course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/README.md)
-- [Positive Signs and the Neurological Examination](course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md)
-- [Tests, Diagnostic Uncertainty, and Coexisting Conditions](course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md)
+- [Module overview](course/module-01-what-fnd-is/README.md)
+- [What “Functional” Means and How FND Can Appear](course/module-01-what-fnd-is/01-what-functional-means-and-how-fnd-can-appear.md)
+- [The Biopsychosocial Model and Misconceptions](course/module-01-what-fnd-is/02-the-biopsychosocial-model-misconceptions-and-recovery.md)
+- [Remission, Recovery, and What Improvement Can Mean](course/module-01-what-fnd-is/03-remission-recovery-and-what-improvement-can-mean.md)
+- [Available Capacity, Spoons, and Early Action](course/module-01-what-fnd-is/04-available-capacity-spoons-and-early-action.md)
 
 </details>
 
 <details>
-<summary><strong>Module 3: Causes, Mechanisms, and Honest Uncertainty</strong></summary>
+<summary><strong>Module 2: How Is FND Diagnosed?</strong></summary>
 
-- [Module overview](course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/README.md)
-- [Causes, Risk Factors, Triggers, and Maintaining Factors](course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md)
-- [Brain Networks, Prediction, Attention, and Agency](course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md)
-- [Physical, Psychological, and Social Factors—and How to Judge Claims](course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md)
-
-</details>
-
-<details>
-<summary><strong>Module 4: Mapping Your Individual Condition</strong></summary>
-
-- [Module overview](course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/README.md)
-- [Making Sense of Your Symptoms and Questions](course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md)
-- [Building and Using Your Personal Symptom Map](course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md)
-
-</details>
+- [Module overview](course/module-02-how-fnd-is-diagnosed/README.md)
+- [Positive Signs and the Neurological Examination](course/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md)
+- [Tests, Diagnostic Uncertainty, and Coexisting Conditions](course/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md)
 
 </details>
 
 <details>
-<summary><strong>Part Two: Safety and Symptom Knowledge</strong></summary>
+<summary><strong>Module 3: What May Cause or Affect FND?</strong></summary>
+
+- [Module overview](course/module-03-causes-mechanisms-and-honest-uncertainty/README.md)
+- [Causes, Risk Factors, Triggers, and Maintaining Factors](course/module-03-causes-mechanisms-and-honest-uncertainty/01-causes-risk-factors-triggers-and-maintaining-factors.md)
+- [Brain Networks, Prediction, Attention, and Agency](course/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md)
+- [Physical, Psychological, and Social Factors—and How to Judge Claims](course/module-03-causes-mechanisms-and-honest-uncertainty/03-physical-psychological-and-social-factors-and-how-to-judge-claims.md)
+
+</details>
+
+<details>
+<summary><strong>Module 4: Map Your FND and Other Health Conditions</strong></summary>
+
+- [Module overview](course/module-04-mapping-your-individual-condition/README.md)
+- [Making Sense of Your Symptoms and Questions](course/module-04-mapping-your-individual-condition/01-build-and-use-your-personal-symptom-map.md)
+- [Building and Using Your Personal Symptom Map](course/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md)
+
+</details>
 
 <details>
 <summary><strong>Module 5: Medical Safety and New Symptoms</strong></summary>
 
-- [Module overview](course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md)
-- [Familiar Symptoms, New Symptoms, and Medical Change](course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md)
-- [Emergency Information and Individual Safety Plans](course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md)
-- [Using Your Safety Plan and Deciding When to Get Urgent Help](course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md)
-
-</details>
-
-<details>
-<summary><strong>Module 6: Functional Seizures and Episodic Symptoms</strong></summary>
-
-- [Module overview](course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/README.md)
-- [What Functional Seizures Are and How They Are Diagnosed](course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/01-what-functional-seizures-are-and-how-they-are-diagnosed.md)
-- [Episode Safety, Observation, and Emergency Decisions](course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/02-episode-safety-observation-and-emergency-decisions.md)
-- [Recovery and Treatment](course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/03-recovery-treatment-and-daily-life.md)
-- [Living With Functional Seizures and Planning Ahead](course/part-2-safety-and-symptoms/module-06-functional-seizures-and-episodic-symptoms/04-living-with-functional-seizures-and-planning-ahead.md)
-
-</details>
-
-<details>
-<summary><strong>Module 7: Movement, Weakness, and Gait Symptoms</strong></summary>
-
-- [Module overview](course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/README.md)
-- [Functional Weakness and Paralysis](course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/01-functional-weakness-and-paralysis.md)
-- [Tremor, Jerks, Tics, and Spasms](course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/02-tremor-jerks-and-spasms.md)
-- [Functional Dystonia and Fixed Postures](course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/03-functional-dystonia-and-fixed-postures.md)
-- [Gait and Falls](course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/04-gait-falls-and-movement-retraining.md)
-- [How Movement Retraining Works](course/part-2-safety-and-symptoms/module-07-functional-movement-weakness-and-gait-symptoms/05-how-movement-retraining-works.md)
-
-</details>
-
-<details>
-<summary><strong>Module 8: Sensory, Visual, Balance, and Dizziness Symptoms</strong></summary>
-
-- [Module overview](course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/README.md)
-- [Numbness, Altered Sensation, and Hypersensitivity](course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/01-numbness-altered-sensation-and-hypersensitivity.md)
-- [Visual Symptoms and Photophobia](course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/02-visual-symptoms-photophobia-and-sensory-overload.md)
-- [Dizziness, Balance, and Vestibular Overlap](course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/03-dizziness-balance-and-vestibular-overlap.md)
-- [Sensory Overload, Accommodations, and Gradual Change](course/part-2-safety-and-symptoms/module-08-sensory-visual-balance-and-dizziness-symptoms/04-sensory-overload-accommodations-and-gradual-change.md)
-
-</details>
-
-<details>
-<summary><strong>Module 9: Speech, Voice, Swallowing, and Breathing Symptoms</strong></summary>
-
-- [Module overview](course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/README.md)
-- [Speech, Voice, and Word Blocking](course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/01-speech-voice-and-word-blocking.md)
-- [Swallowing, Globus, and Nutrition Safety](course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/02-swallowing-globus-and-nutrition-safety.md)
-- [Cough, Breathing, and Upper-Airway Symptoms](course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/03-cough-breathing-and-upper-airway-symptoms.md)
-- [Communication Access When Speech or Voice Is Difficult](course/part-2-safety-and-symptoms/module-09-speech-voice-swallowing-and-breathing-symptoms/04-communication-access-when-speech-or-voice-is-difficult.md)
+- [Module overview](course/module-05-medical-safety-and-new-symptoms/README.md)
+- [Familiar Symptoms, New Symptoms, and Medical Change](course/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md)
+- [Emergency Information and Individual Safety Plans](course/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md)
+- [Using Your Safety Plan and Deciding When to Get Urgent Help](course/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md)
 
 </details>
 
 </details>
 
 <details>
-<summary><strong>Part Three: Common Non-Motor Difficulties</strong></summary>
+<summary><strong>Part Two: Understanding Attention, Action, and Body Signals</strong></summary>
 
 <details>
-<summary><strong>Module 10: Cognition, Memory, and Dissociation</strong></summary>
+<summary><strong>Module 6: Attention and Automatic Control</strong></summary>
 
-- [Module overview](course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/README.md)
-- [Attention, Memory, Word Finding, and Functional Cognitive Disorder](course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/01-attention-memory-word-finding-and-functional-cognitive-disorder.md)
-- [Dissociation and Altered Awareness](course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/02-dissociation-and-altered-awareness.md)
-- [Build an External Thinking and Memory System](course/part-3-non-motor-symptoms/module-10-cognition-memory-and-dissociation/03-build-an-external-thinking-and-memory-system.md)
+- [Module overview](course/module-06-attention-and-automatic-control/README.md)
+- [Attention: What the Brain Notices](course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md)
+- [Automatic Control and Conscious Effort](course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md)
+- [Distraction, External Focus, and Context](course/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md)
 
 </details>
 
 <details>
-<summary><strong>Module 11: Pain, Migraine, Fatigue, and Sleep</strong></summary>
+<summary><strong>Module 7: Prediction, Body Signals, and Agency</strong></summary>
 
-- [Module overview](course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/README.md)
-- [Chronic Pain](course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/01-chronic-pain.md)
-- [Migraine](course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/02-migraine.md)
-- [Fatigue and Post-Activity Worsening](course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/03-fatigue-and-post-activity-worsening.md)
-- [Sleep Problems and Sleep Disorders](course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/04-sleep-problems-and-sleep-disorders.md)
-- [When Pain, Migraine, Fatigue, and Sleep Interact](course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/05-when-pain-migraine-fatigue-and-sleep-interact.md)
-
-</details>
-
-<details>
-<summary><strong>Module 12: Autonomic and Whole-Body Symptoms</strong></summary>
-
-- [Module overview](course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/README.md)
-- [Autonomic Symptoms, Overlap, and Other Causes](course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/01-autonomic-symptoms-overlap-and-other-causes.md)
-- [Useful Tracking, Measurements, and Clinical Assessment](course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/02-useful-tracking-measurements-and-clinical-assessment.md)
-- [Build a Personal Autonomic-Symptom Plan](course/part-3-non-motor-symptoms/module-12-autonomic-and-whole-body-symptoms/03-build-a-personal-autonomic-symptom-plan.md)
-
-</details>
+- [Module overview](course/module-07-prediction-interoception-and-agency/README.md)
+- [The Predictive Brain](course/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md)
+- [Interoception, Proprioception, and Outside Senses](course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md)
+- [Salience, Arousal, and Feedback Loops](course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md)
+- [Agency, Learning, and Your Own Adaptations](course/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md)
 
 </details>
 
 <details>
-<summary><strong>Part Four: Treatment and Rehabilitation</strong></summary>
+<summary><strong>Module 8: Recognizing Symptoms and Finding Information</strong></summary>
 
-<details>
-<summary><strong>Module 13: Building an Individual Treatment Team</strong></summary>
-
-- [Module overview](course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/README.md)
-- [Who May Be on the Treatment Team](course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md)
-- [Shared Goals and Clear Responsibilities](course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md)
-- [Care When No Local FND Specialist Is Available](course/part-4-treatment-and-rehabilitation/module-13-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md)
-
-</details>
-
-<details>
-<summary><strong>Module 14: Rehabilitation and Neuroplastic Change</strong></summary>
-
-- [Module overview](course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/README.md)
-- [How FND Rehabilitation May Work](course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/01-how-fnd-rehabilitation-may-work.md)
-- [Build a Safe Practice Plan](course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/02-building-a-safe-practice-plan-and-evaluating-neuroplasticity-claims.md)
-- [Evaluate Neuroplasticity and “Rewiring” Claims](course/part-4-treatment-and-rehabilitation/module-14-rehabilitation-and-neuroplastic-change/03-evaluating-neuroplasticity-and-rewiring-claims.md)
-
-</details>
-
-<details>
-<summary><strong>Module 15: Pacing, Activity, and Boom-and-Bust</strong></summary>
-
-- [Module overview](course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/README.md)
-- [Understanding Load, Baselines, and Boom-and-Bust](course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/01-understanding-load-baselines-and-boom-and-bust.md)
-- [Plan Activity, Rest, and Capacity Changes](course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/02-planning-activity-rest-and-capacity-changes.md)
-- [Review Delayed Worsening and Change the Plan](course/part-4-treatment-and-rehabilitation/module-15-pacing-activity-and-the-boom-and-bust-cycle/03-reviewing-delayed-worsening-and-changing-the-plan.md)
-
-</details>
-
-<details>
-<summary><strong>Module 16: Psychological Treatment Without Blame</strong></summary>
-
-- [Module overview](course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/README.md)
-- [Why Psychological Treatment Does Not Mean Imaginary](course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md)
-- [Choose a Therapy and Set Goals](course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md)
-- [Consent, Trauma, and Recognizing Harm](course/part-4-treatment-and-rehabilitation/module-16-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md)
+- [Module overview](course/module-08-recognizing-symptoms-and-finding-information/README.md)
+- [Finding Words for What Happens](course/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md)
+- [Similar Experiences, Different Features](course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md)
+- [Finding Your Way Through the Reference Library](course/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md)
 
 </details>
 
 </details>
 
 <details>
-<summary><strong>Part Five: Living With FND</strong></summary>
+<summary><strong>Part Three: Applying What You Have Learned</strong></summary>
 
 <details>
-<summary><strong>Module 17: Daily Living, Accessibility, and Equipment</strong></summary>
+<summary><strong>Module 9: Rehabilitation and Neuroplasticity</strong></summary>
 
-- [Module overview](course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md)
-- [Adapt Personal Care and Household Tasks](course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/01-adapting-personal-care-and-household-tasks.md)
-- [Mobility Aids, Wheelchairs, Seating, and Fall Safety](course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/02-mobility-aids-wheelchairs-seating-and-fall-safety.md)
-- [Sensory, Home, and Communication Access](course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/03-sensory-home-and-communication-access.md)
-- [Try and Review Equipment as Needs Change](course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/04-trying-and-reviewing-equipment-as-needs-change.md)
+- [Module overview](course/module-09-rehabilitation-and-neuroplasticity/README.md)
+- [How Rehabilitation Uses Learning](course/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md)
+- [Choosing Practice That Fits Your Life](course/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md)
+- [When Someone Promises to Rewire Your Brain](course/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md)
 
 </details>
 
 <details>
-<summary><strong>Module 18: Relationships, Identity, and Grief</strong></summary>
+<summary><strong>Module 10: Pacing, Activity, and Available Capacity</strong></summary>
 
-- [Module overview](course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/README.md)
-- [Grief, Identity, Purpose, and Social Isolation](course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/01-grief-identity-purpose-and-social-isolation.md)
-- [Relationships, Intimacy, and Boundaries](course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/02-relationships-intimacy-boundaries-and-supporter-wellbeing.md)
-- [Supporter Wellbeing and Shared Boundaries](course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/03-supporter-wellbeing-and-shared-boundaries.md)
-
-</details>
-
-<details>
-<summary><strong>Module 19: Healthcare Communication and Self-Advocacy</strong></summary>
-
-- [Module overview](course/part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/README.md)
-- [Prepare for and Communicate During Appointments](course/part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/01-preparing-for-and-communicating-during-appointments.md)
-- [Records, Written Plans, and Follow-Up](course/part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/02-records-written-plans-second-opinions-and-follow-up.md)
-- [When Healthcare Communication Breaks Down](course/part-5-living-with-fnd/module-19-healthcare-communication-and-self-advocacy/03-when-healthcare-communication-breaks-down.md)
-
-</details>
-
-<details>
-<summary><strong>Module 20: Work, Disability, and Community Participation</strong></summary>
-
-- [Module overview](course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/README.md)
-- [Work, School, and Accommodations](course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/01-work-school-disability-and-accommodations.md)
-- [Community Participation and Meaningful Roles](course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/02-community-participation-meaningful-roles-and-variable-capacity.md)
-- [Describe Variable Function for Accommodations and Benefits](course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/03-describing-variable-function-for-accommodations-and-benefits.md)
+- [Module overview](course/module-10-pacing-and-available-capacity/README.md)
+- [What Uses Your Available Capacity?](course/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md)
+- [Flexible Pacing When Capacity Changes](course/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md)
+- [Balancing Practice, Rest, and Everyday Life](course/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md)
 
 </details>
 
 </details>
 
 <details>
-<summary><strong>Part Six: Long-Term Management</strong></summary>
+<summary><strong>Part Four: Treatment and Living With FND</strong></summary>
 
 <details>
-<summary><strong>Module 21: Setbacks, Relapse, and Changing Symptoms</strong></summary>
+<summary><strong>Module 11: Building an Individual Treatment Team</strong></summary>
 
-- [Module overview](course/part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/README.md)
-- [Recognize a Setback Versus Medical Change](course/part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/01-recognizing-a-setback-versus-medical-change.md)
-- [Respond During a Setback](course/part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/02-responding-recovering-and-updating-the-plan.md)
-- [Recover, Review, and Update the Plan](course/part-6-long-term-management/module-21-setbacks-relapse-and-changing-symptoms/03-recovering-reviewing-and-updating-the-plan.md)
+- [Module overview](course/module-11-building-an-individual-treatment-team/README.md)
+- [Who May Be on the Treatment Team](course/module-11-building-an-individual-treatment-team/01-who-may-be-on-the-treatment-team.md)
+- [Shared Goals and Clear Responsibilities](course/module-11-building-an-individual-treatment-team/02-coordination-shared-goals-and-care-without-local-specialists.md)
+- [Care When No Local FND Specialist Is Available](course/module-11-building-an-individual-treatment-team/03-care-when-no-local-fnd-specialist-is-available.md)
 
 </details>
 
 <details>
-<summary><strong>Module 22: Building Your Personal FND Handbook</strong></summary>
+<summary><strong>Module 12: Psychological Treatment Without Blame</strong></summary>
 
-- [Module overview](course/part-6-long-term-management/module-22-building-your-personal-fnd-handbook/README.md)
-- [Choose What Belongs in the Handbook](course/part-6-long-term-management/module-22-building-your-personal-fnd-handbook/01-what-belongs-in-the-personal-fnd-handbook.md)
-- [Build a Short Safety and Communication Summary](course/part-6-long-term-management/module-22-building-your-personal-fnd-handbook/02-building-using-and-reviewing-the-handbook.md)
-- [Use, Protect, and Update the Handbook](course/part-6-long-term-management/module-22-building-your-personal-fnd-handbook/03-using-protecting-and-updating-the-handbook.md)
+- [Module overview](course/module-12-psychological-treatment-without-blame/README.md)
+- [Why Psychological Treatment Does Not Mean Imaginary](course/module-12-psychological-treatment-without-blame/01-why-psychological-treatment-does-not-mean-imaginary.md)
+- [Choose a Therapy and Set Goals](course/module-12-psychological-treatment-without-blame/02-choosing-a-therapy-setting-goals-and-recognizing-harm.md)
+- [Consent, Trauma, and Recognizing Harm](course/module-12-psychological-treatment-without-blame/03-consent-trauma-and-recognizing-harm.md)
 
 </details>
 
 <details>
-<summary><strong>Module 23: Reviewing Progress</strong></summary>
+<summary><strong>Module 13: Daily Living, Accessibility, and Equipment</strong></summary>
 
-- [Module overview](course/part-6-long-term-management/module-23-reviewing-progress/README.md)
-- [Recognize Progress Across More Than Symptoms](course/part-6-long-term-management/module-23-reviewing-progress/01-measuring-progress-and-choosing-next-steps.md)
-- [Choose Next Steps and Finish the Course](course/part-6-long-term-management/module-23-reviewing-progress/02-choosing-next-steps-and-finishing-the-course.md)
+- [Module overview](course/module-13-daily-living-accessibility-and-equipment/README.md)
+- [Adapt Personal Care and Household Tasks](course/module-13-daily-living-accessibility-and-equipment/01-adapting-personal-care-and-household-tasks.md)
+- [Mobility Aids, Wheelchairs, Seating, and Fall Safety](course/module-13-daily-living-accessibility-and-equipment/02-mobility-aids-wheelchairs-seating-and-fall-safety.md)
+- [Sensory, Home, and Communication Access](course/module-13-daily-living-accessibility-and-equipment/03-sensory-home-and-communication-access.md)
+- [Try and Review Equipment as Needs Change](course/module-13-daily-living-accessibility-and-equipment/04-trying-and-reviewing-equipment-as-needs-change.md)
+
+</details>
+
+<details>
+<summary><strong>Module 14: Relationships, Identity, and Grief</strong></summary>
+
+- [Module overview](course/module-14-relationships-identity-and-grief/README.md)
+- [Grief, Identity, Purpose, and Social Isolation](course/module-14-relationships-identity-and-grief/01-grief-identity-purpose-and-social-isolation.md)
+- [Relationships, Intimacy, and Boundaries](course/module-14-relationships-identity-and-grief/02-relationships-intimacy-boundaries-and-supporter-wellbeing.md)
+- [Supporter Wellbeing and Shared Boundaries](course/module-14-relationships-identity-and-grief/03-supporter-wellbeing-and-shared-boundaries.md)
+
+</details>
+
+<details>
+<summary><strong>Module 15: Healthcare Communication and Self-Advocacy</strong></summary>
+
+- [Module overview](course/module-15-healthcare-communication-and-self-advocacy/README.md)
+- [Prepare for and Communicate During Appointments](course/module-15-healthcare-communication-and-self-advocacy/01-preparing-for-and-communicating-during-appointments.md)
+- [Records, Written Plans, and Follow-Up](course/module-15-healthcare-communication-and-self-advocacy/02-records-written-plans-second-opinions-and-follow-up.md)
+- [When Healthcare Communication Breaks Down](course/module-15-healthcare-communication-and-self-advocacy/03-when-healthcare-communication-breaks-down.md)
+
+</details>
+
+<details>
+<summary><strong>Module 16: Work, Disability, and Community Participation</strong></summary>
+
+- [Module overview](course/module-16-work-disability-and-community-participation/README.md)
+- [Work, School, and Accommodations](course/module-16-work-disability-and-community-participation/01-work-school-disability-and-accommodations.md)
+- [Community Participation and Meaningful Roles](course/module-16-work-disability-and-community-participation/02-community-participation-meaningful-roles-and-variable-capacity.md)
+- [Describe Variable Function for Accommodations and Benefits](course/module-16-work-disability-and-community-participation/03-describing-variable-function-for-accommodations-and-benefits.md)
+
+</details>
+
+</details>
+
+<details>
+<summary><strong>Part Five: Long-Term Management</strong></summary>
+
+<details>
+<summary><strong>Module 17: Setbacks, Relapse, and Changing Symptoms</strong></summary>
+
+- [Module overview](course/module-17-setbacks-relapse-and-changing-symptoms/README.md)
+- [Recognize a Setback Versus Medical Change](course/module-17-setbacks-relapse-and-changing-symptoms/01-recognizing-a-setback-versus-medical-change.md)
+- [Respond During a Setback](course/module-17-setbacks-relapse-and-changing-symptoms/02-responding-recovering-and-updating-the-plan.md)
+- [Recover, Review, and Update the Plan](course/module-17-setbacks-relapse-and-changing-symptoms/03-recovering-reviewing-and-updating-the-plan.md)
+
+</details>
+
+<details>
+<summary><strong>Module 18: Build Your Personal FND Handbook</strong></summary>
+
+- [Module overview](course/module-18-building-your-personal-fnd-handbook/README.md)
+- [Choose What Belongs in the Handbook](course/module-18-building-your-personal-fnd-handbook/01-what-belongs-in-the-personal-fnd-handbook.md)
+- [Build a Short Safety and Communication Summary](course/module-18-building-your-personal-fnd-handbook/02-building-using-and-reviewing-the-handbook.md)
+- [Use, Protect, and Update the Handbook](course/module-18-building-your-personal-fnd-handbook/03-using-protecting-and-updating-the-handbook.md)
+
+</details>
+
+<details>
+<summary><strong>Module 19: Review Progress and Choose Next Steps</strong></summary>
+
+- [Module overview](course/module-19-reviewing-progress/README.md)
+- [Recognize Progress Across More Than Symptoms](course/module-19-reviewing-progress/01-measuring-progress-and-choosing-next-steps.md)
+- [Choose Next Steps and Finish the Course](course/module-19-reviewing-progress/02-choosing-next-steps-and-finishing-the-course.md)
 
 </details>
 
