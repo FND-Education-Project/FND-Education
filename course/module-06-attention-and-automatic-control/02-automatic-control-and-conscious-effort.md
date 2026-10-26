@@ -50,9 +50,21 @@ Instead of asking only, “Can I do this movement?”, another question is: **�
 
 An occupational therapist or FND-informed physiotherapist might work with the purpose of the action, not merely repeat an isolated movement. An aid, rest break or different setup may still be needed.
 
-**Something to think about:** Do you have an ordinary activity that feels different depending on how it is approached? You don't need to demonstrate it. Just consider the idea.
+### Something to think about
 
-**One small step:** Pick a *safe* everyday task and describe its goal: “carry my drink,” “write a note,” or “answer a message.” Notice whether focusing on the purpose rather than perfect performance makes planning easier. If movement is risky, use this as a question for your therapist instead.
+When you do something familiar, such as getting dressed or reaching for a cup, are you usually thinking about the goal or about every movement along the way?
+
+### How might that feel?
+
+Is there a familiar activity you'd like to feel more comfortable doing, even if you still use help or equipment?
+
+### One small step
+
+Choose a familiar, safe activity you already do, such as sorting a few objects while seated comfortably and securely.
+
+Think about the **goal**—for example, getting the objects into a box—rather than guiding each movement one by one. Keep using any supports that help you. Take a break whenever you need one.
+
+If a movement carries a risk of falling or injury, you can bring the idea to your physiotherapist or occupational therapist instead. They can help choose a safe way to explore it.
 
 In the next lesson, we'll explore why changing the focus or setting may sometimes change how a task goes.
 
