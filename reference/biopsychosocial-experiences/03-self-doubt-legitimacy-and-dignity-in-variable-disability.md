@@ -111,7 +111,7 @@ Internalized stigma can sound like:
 
 FND occupational-therapy guidance cautions about aids during movement rehabilitation, but also supports appropriate equipment for safety and continuing disability. Agree an individual plan with the team. Shame is not an equipment-selection test. (*citations* [5](#citation-5))
 
-For practical equipment guidance, see **[Daily Living, Accessibility, and Equipment](../../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md)**.
+For practical equipment guidance, see **[Daily Living, Accessibility, and Equipment](../../course/module-13-daily-living-accessibility-and-equipment/README.md)**.
 
 ### Public symptoms can feel exposing
 
@@ -348,7 +348,7 @@ Nicholson and colleagues, “Aids and adaptations” section: equipment decision
 
 **Continue:** [Guilt, Dependence, and Receiving Help →](04-guilt-dependence-and-receiving-help.md)
 
-**Related:** [Mental Health, Stigma, and Being Believed](02-mental-health-stigma-and-being-believed.md) · [Daily Living, Accessibility, and Equipment](../../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md) · [Describe Variable Function](../../course/part-5-living-with-fnd/module-20-work-disability-and-community-participation/03-describing-variable-function-for-accommodations-and-benefits.md)
+**Related:** [Mental Health, Stigma, and Being Believed](02-mental-health-stigma-and-being-believed.md) · [Daily Living, Accessibility, and Equipment](../../course/module-13-daily-living-accessibility-and-equipment/README.md) · [Describe Variable Function](../../course/module-16-work-disability-and-community-participation/03-describing-variable-function-for-accommodations-and-benefits.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->

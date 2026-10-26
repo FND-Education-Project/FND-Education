@@ -14,7 +14,7 @@ For shared explanations of diagnosis, investigations and everyday function, see 
 
 Health professionals can use **[Professional Roles in FND Care](professional-roles-in-fnd-care.md)** to find where their specialty may fit and jump directly to relevant pages across the site.
 
-For a step-by-step introduction to FND, including how current research helps us understand it, visit the [FND Course](../course/).
+For a step-by-step introduction to FND, including how current research helps us understand it, visit the [FND Course](../course).
 
 ---
 
@@ -269,7 +269,7 @@ Recognizing these interactions helps build a more complete understanding of the 
 
 The pages throughout this reference explore these ideas in greater detail.
 
-For a more structured explanation beginning with the basic concepts and building progressively, continue to the **[FND Course](../course/)**.
+For a more structured explanation beginning with the basic concepts and building progressively, continue to the **[FND Course](../course)**.
 
 ---
 
@@ -287,14 +287,14 @@ For a more structured explanation beginning with the basic concepts and building
 ## Positive Diagnosis of FND
 {: #positive-diagnosis-of-fnd .shareable }
 
-[Read about positive diagnosis](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md)
+[Read about positive diagnosis](../course/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md)
 
 FND has recognizable clinical features. This section explains how clinicians use the history, examination and positive diagnostic signs to build evidence for an FND diagnosis.
 
 ## Understanding Positive Diagnostic Signs
 {: #understanding-positive-diagnostic-signs .shareable }
 
-[Read about positive diagnostic signs](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md)
+[Read about positive diagnostic signs](../course/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md)
 
 Positive signs can show how an affected function changes under different conditions. This section explains why those changes matter and what they can tell the clinician.
 
@@ -308,7 +308,7 @@ Some positive signs can be demonstrated using specific examination techniques. T
 ## Tests and Investigations
 {: #tests-and-investigations .shareable }
 
-[Read about tests and investigations](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md)
+[Read about tests and investigations](../course/module-02-how-fnd-is-diagnosed/02-tests-diagnostic-uncertainty-and-coexisting-conditions.md)
 
 Scans, EEGs, blood tests and other investigations answer different clinical questions. This section explains what these tests can contribute to an assessment and how they fit alongside the positive diagnosis of FND.
 
@@ -322,14 +322,14 @@ More than one diagnosis can contribute to a person's symptoms. This section look
 ## Why Symptoms Vary
 {: #why-symptoms-vary .shareable }
 
-[Read about symptom variability](../course/part-1-understanding-fnd/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md)
+[Read about symptom variability](../course/module-03-causes-mechanisms-and-honest-uncertainty/02-brain-networks-prediction-attention-and-agency.md)
 
 FND symptoms can change across movements, situations and times of day. These variations can provide useful clues about how the affected function is being controlled.
 
 ## Explaining an FND Diagnosis
 {: #explaining-an-fnd-diagnosis .shareable }
 
-[Read about explaining FND](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md)
+[Read about explaining FND](../course/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md)
 
 A useful explanation can help a person understand what has been found during the assessment, why the diagnosis was made and what the diagnosis may mean for treatment and recovery.
 
@@ -350,7 +350,7 @@ A selective timeline of major changes in FND diagnosis, mechanisms, rehabilitati
 ## Family, Friends and Other Supporters
 {: #family-friends-and-other-supporters .shareable }
 
-[Visit the supporter reference](../course/part-1-understanding-fnd/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md#for-family-friends-and-other-supporters)
+[Visit the supporter reference](../course/module-02-how-fnd-is-diagnosed/01-positive-signs-and-the-neurological-examination.md#for-family-friends-and-other-supporters)
 
 Supporters can play an important role in understanding symptoms, responding during difficult periods, helping with rehabilitation and supporting greater independence.
 

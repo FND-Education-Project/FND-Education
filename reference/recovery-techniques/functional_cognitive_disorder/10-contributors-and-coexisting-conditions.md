@@ -24,7 +24,7 @@ Having FCD should not close the door on other explanations or treatments. Poor s
 
 Migraine, chronic pain, fatigue, poor sleep, ADHD, mood disorders, medicine effects, sensory impairment and neurological illness may independently cause cognitive symptoms, coexist with FCD, or worsen an established functional pattern. They are not components of FCD simply because thinking becomes harder when they are present.
 
-For example, treatment that makes migraine less frequent might leave more days when reading is manageable. That matters, even if another cognitive difficulty remains. Improvement would not show that migraine caused FCD—or that every previous lapse was functional. Keep both questions in the care plan. See [Module 11: Pain, Migraine, Fatigue, and Sleep](../../../course/part-3-non-motor-symptoms/module-11-pain-migraine-fatigue-and-sleep/README.md). (*citations* [1](#citation-1), [2](#citation-2))
+For example, treatment that makes migraine less frequent might leave more days when reading is manageable. That matters, even if another cognitive difficulty remains. Improvement would not show that migraine caused FCD—or that every previous lapse was functional. Keep both questions in the care plan. See [Reference Library](../../README.md). (*citations* [1](#citation-1), [2](#citation-2))
 
 ### A manageable way to begin
 

@@ -170,7 +170,7 @@ A good boundary does not prove that the relationship is failing.
 
 It may be what keeps the relationship sustainable.
 
-For fuller boundary guidance, see **[Supporter Wellbeing and Shared Boundaries](../../course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/03-supporter-wellbeing-and-shared-boundaries.md)**.
+For fuller boundary guidance, see **[Supporter Wellbeing and Shared Boundaries](../../course/module-14-relationships-identity-and-grief/03-supporter-wellbeing-and-shared-boundaries.md)**.
 
 ### When one person cannot meet the need
 
@@ -386,7 +386,7 @@ Leochico and colleagues, abstract: a reported care-access experience in a small 
 
 **Continue:** [Unpredictability, Overload, and Trusting Your Body →](05-unpredictability-overload-and-trusting-your-body.md)
 
-**Related:** [Relationships, Intimacy, and Boundaries](../../course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/02-relationships-intimacy-boundaries-and-supporter-wellbeing.md) · [Supporter Wellbeing and Shared Boundaries](../../course/part-5-living-with-fnd/module-18-relationships-identity-and-grief/03-supporter-wellbeing-and-shared-boundaries.md) · [Daily Living and Accessibility](../../course/part-5-living-with-fnd/module-17-daily-living-accessibility-and-equipment/README.md)
+**Related:** [Relationships, Intimacy, and Boundaries](../../course/module-14-relationships-identity-and-grief/02-relationships-intimacy-boundaries-and-supporter-wellbeing.md) · [Supporter Wellbeing and Shared Boundaries](../../course/module-14-relationships-identity-and-grief/03-supporter-wellbeing-and-shared-boundaries.md) · [Daily Living and Accessibility](../../course/module-13-daily-living-accessibility-and-equipment/README.md)
 
 **Navigate:** [Home](../../README.md) · [Course](../../course/README.md) · [Reference Library](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
