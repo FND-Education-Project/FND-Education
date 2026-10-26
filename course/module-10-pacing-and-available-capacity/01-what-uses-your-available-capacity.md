@@ -24,7 +24,7 @@ That can be confusing—especially if someone asks what you did all morning.
 
 Physical activity is only one kind of demand. Thinking, listening, reading, dealing with noise, managing pain, making decisions and being around people can require effort too.
 
-Earlier in the course, we introduced **[available capacity](../../../glossary/README.md#available-capacity)** as a way to picture how much you can manage before you need to change tasks or recover. It's a useful planning idea, not a laboratory measure or an exact number of energy units. (*citations* [1](#citation-1), [2](#citation-2))
+Earlier in the course, we introduced **[available capacity](../../glossary/README.md#available-capacity)** as a way to picture how much you can manage before you need to change tasks or recover. It's a useful planning idea, not a laboratory measure or an exact number of energy units. (*citations* [1](#citation-1), [2](#citation-2))
 
 ### One day isn't every day
 
@@ -114,7 +114,7 @@ A person may have functional gait disorder, migraine, insomnia and POTS. An appo
 
 Similarly, **functional seizures** may have prolonged recovery or surrounding flares that differ from the visible episode; a person with **FCD** may spend substantial effort processing instructions despite an acceptable performance on a short test. **Functional visual symptoms** or **PPPD** may make lighting and visually busy travel settings particularly burdensome. **Functional speech symptoms** can add a high communication cost when a visit uses repeated questioning.
 
-Use the [co-occurring conditions collection](../../../reference/co-occurring-conditions/README.md) to review fatigue, migraine, persistent pain, fibromyalgia, sleep, tinnitus, IBS and autonomic complaints without claiming they are all FND symptoms. New or changing symptoms require separate clinical assessment.
+Use the [co-occurring conditions collection](../../reference/co-occurring-conditions/README.md) to review fatigue, migraine, persistent pain, fibromyalgia, sleep, tinnitus, IBS and autonomic complaints without claiming they are all FND symptoms. New or changing symptoms require separate clinical assessment.
 
 ### A practical plan for the care team
 
@@ -136,9 +136,9 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). |
-| <a id="citation-2"></a>**[2]** | — | NICE. **Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management.** NG206, 2021. [Official recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations) · [Official guideline mirrored by NCBI](https://www.ncbi.nlm.nih.gov/books/NBK579533/). [FND-CIT-0206](../../../research/citation-index.md#fnd-cit-0206). |
-| <a id="citation-3"></a>**[3]** | — | Bennett K, Diamond C, Hoeritzauer I, et al. **A practical review of functional neurological disorder (FND) for the general physician.** Clin Med. 2021;21:28–36. doi:10.7861/clinmed.2020-0987. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7850207/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/33479065/). [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). |
-| <a id="citation-4"></a>**[4]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1m2st47/comment/n3s00gm/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0321](../../../research/citation-index.md#fnd-cit-0321). |
+| <a id="citation-1"></a>**[1]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
+| <a id="citation-2"></a>**[2]** | — | NICE. **Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management.** NG206, 2021. [Official recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations) · [Official guideline mirrored by NCBI](https://www.ncbi.nlm.nih.gov/books/NBK579533/). [FND-CIT-0206](../../research/citation-index.md#fnd-cit-0206). |
+| <a id="citation-3"></a>**[3]** | — | Bennett K, Diamond C, Hoeritzauer I, et al. **A practical review of functional neurological disorder (FND) for the general physician.** Clin Med. 2021;21:28–36. doi:10.7861/clinmed.2020-0987. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7850207/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/33479065/). [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). |
+| <a id="citation-4"></a>**[4]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1m2st47/comment/n3s00gm/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0321](../../research/citation-index.md#fnd-cit-0321). |
 
 *Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*

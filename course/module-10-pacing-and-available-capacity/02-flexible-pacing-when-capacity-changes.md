@@ -26,7 +26,7 @@ Many people recognise a **boom-and-bust pattern**: an unusually high-activity pe
 
 ### What pacing really means
 
-**[Pacing](../../../glossary/README.md#pacing)** is planning activity and recovery around what is realistic for you. It isn't an instruction to do as little as possible. Nor is it a rule that each day must contain more activity than the day before. (*citations* [1](#citation-1), [2](#citation-2))
+**[Pacing](../../glossary/README.md#pacing)** is planning activity and recovery around what is realistic for you. It isn't an instruction to do as little as possible. Nor is it a rule that each day must contain more activity than the day before. (*citations* [1](#citation-1), [2](#citation-2))
 
 A plan might leave room for higher-capacity and lower-capacity days. It might keep a little time available for food, rest and something enjoyable rather than using every good moment to catch up on chores.
 
@@ -128,8 +128,8 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../../research/citation-index.md#fnd-cit-0011). |
-| <a id="citation-2"></a>**[2]** | — | NICE. **Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management.** NG206, 2021. [Official recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations) · [Official guideline mirrored by NCBI](https://www.ncbi.nlm.nih.gov/books/NBK579533/). [FND-CIT-0206](../../../research/citation-index.md#fnd-cit-0206). |
-| <a id="citation-3"></a>**[3]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1q1vjir/comment/nx8meik/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0322](../../../research/citation-index.md#fnd-cit-0322). |
+| <a id="citation-1"></a>**[1]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
+| <a id="citation-2"></a>**[2]** | — | NICE. **Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management.** NG206, 2021. [Official recommendations](https://www.nice.org.uk/guidance/ng206/chapter/recommendations) · [Official guideline mirrored by NCBI](https://www.ncbi.nlm.nih.gov/books/NBK579533/). [FND-CIT-0206](../../research/citation-index.md#fnd-cit-0206). |
+| <a id="citation-3"></a>**[3]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1q1vjir/comment/nx8meik/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0322](../../research/citation-index.md#fnd-cit-0322). |
 
 *Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*

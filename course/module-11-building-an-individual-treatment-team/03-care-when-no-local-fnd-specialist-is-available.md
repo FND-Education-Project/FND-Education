@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part Four: Treatment and Rehabilitation › [Module 13](README.md) › **Care When No Local FND Specialist Is Available**
+[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Rehabilitation › [Module 13](README.md) › **Care When No Local FND Specialist Is Available**
 <!-- NAV-BREADCRUMB:END -->
 
 # Care When No Local FND Specialist Is Available
@@ -22,7 +22,7 @@ Specialist FND services are not available everywhere. Lack of a nearby clinic is
 
 A **supported local-care model** means local clinicians provide appropriate care while using specialist advice, training, consultation or telehealth when those are available.
 
-![A person and local clinician connect to specialist guidance, while ordinary medical care and review stay local.](../../../assets/illustrations/module-13-page-3-local-specialist-support.svg)
+![A person and local clinician connect to specialist guidance, while ordinary medical care and review stay local.](../../assets/illustrations/module-13-page-3-local-specialist-support.svg)
 
 *Illustration: specialist knowledge can support local care. It does not remove the need for a clinician who knows you and follows what happens.*
 
@@ -123,9 +123,9 @@ The evidence does not establish telehealth or a hub-and-spoke model as equivalen
 ***
 
 <!-- NAV-CONTEXT:START -->
-**Continue:** [Module 14: Rehabilitation and Neuroplastic Change →](../module-14-rehabilitation-and-neuroplastic-change/README.md)
+**Continue:** [Reference Library](../../reference/README.md)
 
-**Navigate:** [← Previous page](02-coordination-shared-goals-and-care-without-local-specialists.md) · [Module overview](README.md) · [Course](../../README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [← Previous page](02-coordination-shared-goals-and-care-without-local-specialists.md) · [Module overview](README.md) · [Course](../README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ***
@@ -136,9 +136,9 @@ The recommendations discuss specialist-supported local care and telehealth as ac
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
-| <a id="citation-2"></a>**[2]** | Figure 1 | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
-| <a id="citation-3"></a>**[3]** | — | Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4):e00612. [FND-CIT-0013](../../../research/citation-index.md#fnd-cit-0013). [https://doi.org/10.1016/j.neurot.2025.e00612](https://doi.org/10.1016/j.neurot.2025.e00612) |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Lehn A, Petrie D, Palmer D, et al. Managing functional neurological disorder: treatment recommendations for health professionals in Australia. *BMJ Neurology Open*. 2025;7(1):e000970. [FND-CIT-0076](../../research/citation-index.md#fnd-cit-0076). [https://doi.org/10.1136/bmjno-2024-000970](https://doi.org/10.1136/bmjno-2024-000970) |
+| <a id="citation-2"></a>**[2]** | Figure 1 | British Psychological Society. *Functional Neurological Disorder: Neuropsychological and Psychological Management in Children and Adults*. Briefing paper. 2024. [FND-CIT-0078](../../research/citation-index.md#fnd-cit-0078). [https://doi.org/10.53841/bpsrep.2024.rep181](https://doi.org/10.53841/bpsrep.2024.rep181) |
+| <a id="citation-3"></a>**[3]** | — | Dworetzky BA, Baslet G. Functional neurological disorder: Practical management. *Neurotherapeutics*. 2025;22(4):e00612. [FND-CIT-0013](../../research/citation-index.md#fnd-cit-0013). [https://doi.org/10.1016/j.neurot.2025.e00612](https://doi.org/10.1016/j.neurot.2025.e00612) |
 
 This page still needs review by people without local specialist access, rural and remote clinicians, telehealth specialists and accessibility reviewers.
 
