@@ -16,35 +16,129 @@ Lesson 17 explores distraction, External Focus, and Context through everyday exa
 
 ## For the Person With FND
 
-### A change is information, not an accusation
+### Same task, different moment
 
-Picture trying to fasten a button while three people watch. You become aware of every movement. Someone says, “Just relax,” which is rarely as useful as they seem to think.
+Imagine someone sitting at a table, putting photographs into a folder.
 
-Later, you fasten the same button while thinking about what to have for lunch. It may feel easier—or it may not.
+Their hand is shaking. They try to keep it steady while a friend watches.
 
-The difference is worth understanding without turning it into a judgement.
+"Careful. Try holding your hand like this."
 
-**Distraction** means attention has been drawn elsewhere. **[External focus](../../glossary/README.md#external-focus)** means concentrating on a goal outside the movement, such as where an object needs to go. They overlap, but they aren't identical. **Context** includes the surroundings, demands, support, timing and purpose of the task.
+Now the person is thinking about every little movement. Putting away photographs feels like an exam they didn't study for.
 
-A familiar movement can change when any of these change. Some functional movement symptoms also vary with attention during a specialist examination. That variability can be diagnostically useful, but it does not mean the person is performing the symptom.
+Later, they're chatting with that friend about the pictures. Their hand might move a little differently as they pick up the next photograph. Or the shaking might stay just as strong.
 
-### Distraction isn't the same as ignoring
+Either way, the person is still doing their best.
 
-A person with chronic pain, dizziness or a functional seizure may still need to notice important warnings. Pretending a dangerous situation isn't happening is not a treatment.
+**What changed between those moments?**
 
-Nor does every symptom improve when attention moves. Some people find extra sensory input overwhelming. A second task can make balance worse, especially if they already have a high fall risk.
+Perhaps it was where their attention went. Perhaps the conversation felt easier than being watched. Perhaps the difference involved several things at once.
 
-People report different responses. **The relationship between attention and a symptom may be worth discussing with a qualified clinician.** (*citations* [1](#citation-1), [2](#citation-2))
+This is where our last two lessons come together.
 
-### Asking better questions
+### Distraction: when the spotlight moves
 
-Instead of thinking, “If I can do it another way, why can't I just do it?”, try: “What changed between the two situations?”
+Remember the spotlight we used to describe attention?
 
-Was there less noise? A clearer goal? Less pressure? A different position? A helpful support? More energy? Perhaps you don't know. That is an acceptable answer.
+**Distraction** happens when something else catches that spotlight.
+
+Maybe you've had an itch that slipped into the background while you were caught up in a good story. The feeling was still real, even when it had less of your attention.
+
+For some people with **functional tremor**, shaking may change while they're talking or doing another task. Researchers have studied this relationship, and clinicians sometimes look for it during an examination. (*citation* [2](#citation-2))
+
+But here's the important part: **a symptom changing with distraction is different from someone choosing to change it.**
+
+And the word *distraction* can sound rather dismissive when you're living with a difficult symptom. Being told to "just think about something else" rarely feels like a thoughtful treatment plan.
+
+### External focus: give attention a destination
+
+Now imagine putting one of those photographs into a folder.
+
+You could watch your fingers closely, thinking about how to move each one.
+
+Or you could pay attention to the **goal**: getting the photograph safely into its place.
+
+That second approach is called **[external focus](../../glossary/README.md#external-focus)**. Your attention is on what an action is meant to accomplish, rather than on each part of the movement.
+
+External focus is different from distraction. You're still paying attention to the activity. You're just giving that attention a different job.
+
+A therapist may use this approach when helping someone practise a movement affected by FND. It is one possible tool, selected for the person and the task. (*citation* [1](#citation-1))
+
+### Context: the rest of the picture
+
+The very same activity can feel different in a different setting.
+
+Imagine trying to explain something at an appointment while people are speaking over one another. Your thoughts get tangled, and you lose your place.
+
+Then imagine someone sitting with you in a quieter room. They give you time to finish your answer. You may find it easier to get your message across.
+
+That's **context**: the surroundings and circumstances in which an activity happens.
+
+Context includes the way people help you, too.
+
+A stream of instructions might leave one person feeling swamped. Another person might appreciate a single, familiar reminder. Some people work better in quiet. Others prefer a little background sound.
+
+**A helpful setting is the one that works for you**, with your access and safety needs included. (*citation* [3](#citation-3))
+
+### Does adding another task help?
+
+You may hear that some people move differently when they talk, listen to music, or follow a beat.
+
+These are related ideas, but they're worth separating.
+
+A **rhythm** is a repeated pattern, like a steady tap or the beat of a song. In some rehabilitation settings, a physiotherapist may use a rhythm as a cue for movement.
+
+A **dual task** means doing two things at once. Think of walking while having a conversation.
+
+For some people and some tasks, a carefully chosen cue or second activity may help movement flow. For others, it adds more to manage.
+
+Remember how divided attention worked in Lesson 15? The brain still has to handle both activities.
+
+So a therapist might begin with **one clear goal** instead of adding another task. If someone has trouble with balance, dizziness, sensory overload or concentration, making the task simpler may be the more useful choice. (*citations* [1](#citation-1), [3](#citation-3))
+
+### What might rehabilitation look like?
+
+Picture someone with functional tremor who wants to handle their belongings more comfortably.
+
+An occupational therapist could help them find a safe, seated way to sort photographs. They might try a larger folder, a supported arm position, or one clear place for each item.
+
+The therapist might also explore whether concentrating on the destination helps the movement.
+
+The goal is putting away the photographs with less difficulty. Perhaps the hand shakes less. Perhaps the shaking stays, but the activity becomes easier anyway.
+
+Both outcomes give the person and therapist something useful to work with.
+
+A physiotherapist might use a similar idea with a different movement, such as reaching toward a safe target while supported. The exact approach depends on the person's symptoms and what is safe for them. (*citations* [1](#citation-1), [3](#citation-3))
+
+### A change is a clue, not a verdict
+
+One community member described their experience this way:
 
 > “The tremor stops when I think about my answer and speak it.”
 
-*Figure 1. Community experience.* One person reports a change during conversation; this does not predict another person’s response. [Original public source](https://www.reddit.com/r/FND/comments/1nzuyuz/comment/ni918wf/). (*citations* [5](#citation-5))
+*Figure 1. Community experience.* One person's description of how their tremor changes during conversation. [Original public source](https://www.reddit.com/r/FND/comments/1nzuyuz/comment/ni918wf/). (*citation* [5](#citation-5))
+
+It's a useful glimpse into one person's experience. Another person's tremor might stay the same, or a conversation might make their symptoms harder to manage.
+
+During an examination, a specialist sometimes observes how a functional movement changes when attention or the task changes. That finding can contribute to a **positive diagnosis** of FND when considered with the rest of the examination. (*citations* [1](#citation-1), [2](#citation-2))
+
+For everyday life, we can ask a different question:
+
+**"What changed, and could any part of that make this activity easier for me?"**
+
+We can explore that without turning every good moment into a test, or every difficult moment into a disappointment.
+
+### Hold on to the bigger picture
+
+You've now learned how attention chooses what stands out, how familiar movements can run more automatically, and how a change in focus or surroundings may affect an activity.
+
+It's tempting to fit every symptom into the first explanation that sounds familiar.
+
+But these three lessons give us **some pieces of the puzzle**, especially for certain functional movement symptoms. They don't tell the whole story of FND.
+
+Next we'll explore how the brain prepares for what might happen, how it makes sense of signals from the body, and how those processes may connect with what we've learned.
+
+Keep your questions in your back pocket. We're building the picture together.
 
 ### Something to think about
 
@@ -56,13 +150,14 @@ How would it feel to ask for the conditions that help you, and have that request
 
 ### One small step
 
-Choose one familiar everyday activity and one small change to the setting or support around it.
+Choose one familiar, safe activity and **one small change** to the setting or the support you receive.
 
-Perhaps you'd prefer a quiet place for a conversation. Or you and someone who helps you could agree on one clear reminder instead of several instructions at once.
+Maybe you'd like a little more time to answer during a conversation. Or perhaps you and someone who helps you could agree on one clear reminder instead of several instructions at once.
 
-See whether that change makes the activity more comfortable or easier to manage. Your symptoms might change, or they might stay the same. Either way, you can learn which arrangements suit you. Keep your usual safety supports in place.
+Try the arrangement if and when it feels useful. See whether the activity feels more comfortable or easier to manage.
 
-You have now learned three connected ideas: what attention selects, how familiar actions can run automatically, and why changing a task may change what happens. Next we'll explore how the brain prepares for events and interprets information from the body.
+Your symptoms might change, or they might stay the same. Either way, you can keep the support that suits you. And if an activity carries a risk of falling or injury, your rehabilitation team can help you plan a safer approach.
+
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
