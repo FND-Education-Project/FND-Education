@@ -1,7 +1,7 @@
-# Module 17 — Daily Living, Accessibility, and Equipment
+# Module 13 — Daily Living, Accessibility, and Equipment
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › **Module 17: Daily Living, Accessibility, and Equipment**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › **Module 13: Daily Living, Accessibility, and Equipment**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).

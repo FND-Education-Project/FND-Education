@@ -1,4 +1,4 @@
-# Module 22 — Build Your Personal FND Handbook
+# Module 18 — Build Your Personal FND Handbook
 
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../README.md) › [Course](../README.md) › Part Six: Long-Term Management › [Module 22](README.md)

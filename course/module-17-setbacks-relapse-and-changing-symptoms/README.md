@@ -1,4 +1,4 @@
-# Module 21 — Setbacks, Relapse, and Changing Symptoms
+# Module 17 — Setbacks, Relapse, and Changing Symptoms
 
 <!-- NAV-BREADCRUMB:START -->
 [Home](../../README.md) › [Course](../README.md) › Part Six: Long-Term Management › [Module 21](README.md)

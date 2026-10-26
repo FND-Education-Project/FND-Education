@@ -1,7 +1,7 @@
-# Module 13 — Building an Individual Treatment Team
+# Module 11 — Building an Individual Treatment Team
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Rehabilitation › **Module 13: Building an Individual Treatment Team**
+[Home](../../README.md) › [Course](../README.md) › Part Four: Treatment and Rehabilitation › **Module 11: Building an Individual Treatment Team**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).

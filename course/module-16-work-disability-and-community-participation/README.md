@@ -1,7 +1,7 @@
-# Module 20 — Work, Disability, and Community Participation
+# Module 16 — Work, Disability, and Community Participation
 
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › **Module 20: Work, Disability, and Community Participation**
+[Home](../../README.md) › [Course](../README.md) › Part Five: Living With FND › **Module 16: Work, Disability, and Community Participation**
 <!-- NAV-BREADCRUMB:END -->
 
 > **Working draft:** This page was automatically generated and is looking for [contributors and reviewers](https://fnd-education-project.github.io/FND-Education/).
