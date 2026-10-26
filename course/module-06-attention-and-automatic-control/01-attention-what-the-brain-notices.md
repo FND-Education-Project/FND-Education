@@ -26,7 +26,7 @@ Your brain handles more information than you can consciously notice. **[Attentio
 
 ### A few kinds of attention
 
-When you follow a conversation in a busy café, you use **selective attention** to concentrate on one voice. When you cook while talking, you use **divided attention** to manage two tasks. When you finish a chapter or follow a long explanation, you use **sustained attention** to stay with something over time.
+When you follow a conversation in a busy café, you use **[selective attention](../../glossary/README.md#attention-types-selective-divided-and-sustained)** to concentrate on one voice. When you cook while talking, you use **divided attention** to manage two tasks. When you finish a chapter or follow a long explanation, you use **sustained attention** to stay with something over time.
 
 Attention can also face **outward**, toward the world, or **inward**, toward your movements, thoughts and bodily sensations. Both directions are useful. Neither is automatically good or bad.
 
