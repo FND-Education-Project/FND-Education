@@ -1,5 +1,12 @@
 # Companion-app integration handoff for learner-progress PR #154
 
+> **Curriculum compatibility update — October 26, 2026:** Merged [PR #191](https://github.com/FND-Education-Project/FND-Education/pull/191) is now the single source of truth: **five Parts, 19 modules, 57 lessons, no retained earlier edition**. Lesson IDs are `m1-1` through `m19-2` (module-specific lesson limits) and canonical URLs are `/course/mN/L/`. **Never** link `m20`–`m23`, removed lesson slots or `/course/v2/`. The October 23 observations below are historical, not the current course contract. [PR #154](https://github.com/FND-Education-Project/FND-Education/pull/154) has since been reconciled to version **2** of the generated manifest with `eligibleLessonCount: 57`, five parts, 19 modules, and `earlierModules: []`. Public learner controls remain off and the updated Worker is not yet deployed. Its old *private test-only progress* must be explicitly reset using the prepared SQL **after owner approval**, because reused IDs such as `m6-1` now refer to different lessons. The app must **not** attempt to map those old flags based on numeric ID. The login/CDN/CORS restrictions below still apply.
+
+> **Additional discovery:** Draft [PR #192](https://github.com/FND-Education-Project/FND-Education/pull/192) is updating course-aware search subjects and glossary. For future symptom suggestions, wait for that reviewed vocabulary to merge, then derive a **separate curated symptom catalogue**—not the entire mechanism/diagnosis search index. The existing glossary term **available capacity** remains the teaching vocabulary for room reflections; it does not prove clinical readiness.
+
+**Implementation note for app PR #178:** An unconnected pure parser/URL resolver in `app/src/course-contract.mjs` now validates the 19/57 manifest and rejects retired URLs, with tests. It does **not** fetch private progress or display the Continue Learning card until the account backend and current test-data reset have passed review.
+
+
 **Audience:** Maintainer of [draft PR #154](https://github.com/FND-Education-Project/FND-Education/pull/154) and future app developer. This file describes **requested future integration**, not changes already made to the Worker. All public registration remains disabled until PR #154 rollout gates pass.
 
 ## What has changed in product design
