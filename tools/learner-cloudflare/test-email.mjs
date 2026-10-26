@@ -397,23 +397,28 @@ test('Resend HTTP rejection is classified by status without logging provider bod
   assert.doesNotMatch(warnings.join(' '), /private provider error/i);
 });
 
-test('75th original lesson m4-2 persists; new course slots cannot inherit old progress', async t => {
+
+test('new 57-lesson API accepts canonical IDs and rejects removed lessons', async t => {
   const context = setup(t);
   const signedIn = await context.finish(await context.start());
   const cookie = sessionCookie(signedIn);
   const me = await (await context.call('/v1/me', null, cookie)).json();
-  const visit = await context.call('/v1/progress/visit',
-    { lessonId: 'm4-2' }, cookie, me.csrfToken);
-  assert.equal(visit.status, 200);
-  const completed = await context.call('/v1/progress/completion', {
-    lessonId: 'm4-2', completed: true, confirmed: true,
-    confirmedUsername: me.username
-  }, cookie, me.csrfToken);
-  assert.equal(completed.status, 200);
+
+  for (const id of ['m4-2', 'm6-3', 'm7-4', 'm19-2']) {
+    assert.equal((await context.call('/v1/progress/visit',
+      { lessonId: id }, cookie, me.csrfToken)).status, 200);
+    assert.equal((await context.call('/v1/progress/completion', {
+      lessonId: id, completed: true, confirmed: true,
+      confirmedUsername: me.username
+    }, cookie, me.csrfToken)).status, 200);
+  }
   const saved = await (await context.call('/v1/progress', null, cookie)).json();
-  assert.equal(saved.lessons['m4-2'].completed, true);
-  assert.equal(saved.lastLesson, 'm4-2');
-  for (const id of ['m24-1', 'm25-1', 'm28-3', 'm6-15']) {
+  for (const id of ['m4-2', 'm6-3', 'm7-4', 'm19-2']) {
+    assert.equal(saved.lessons[id].completed, true);
+  }
+  assert.equal(saved.lastLesson, 'm19-2');
+
+  for (const id of ['m6-4', 'm19-3', 'm20-1', 'm23-2', 'm24-1', 'm6-15']) {
     assert.equal((await context.call('/v1/progress/visit',
       { lessonId: id }, cookie, me.csrfToken)).status, 400);
     assert.equal((await context.call('/v1/progress/completion', {
@@ -421,10 +426,4 @@ test('75th original lesson m4-2 persists; new course slots cannot inherit old pr
       confirmedUsername: me.username
     }, cookie, me.csrfToken)).status, 400);
   }
-  assert.equal((await context.call('/v1/progress/visit',
-    { lessonId: 'm6-1' }, cookie, me.csrfToken)).status, 200);
-  const after = await (await context.call('/v1/progress', null, cookie)).json();
-  assert.equal(after.lessons['m4-2'].completed, true);
-  assert.ok(!after.lessons['m24-1']);
-  assert.equal(after.lastLesson, 'm6-1');
 });
