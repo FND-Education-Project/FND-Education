@@ -1,0 +1,42 @@
+# Checks only the isolated companion app prototype.
+# Deliberately does NOT publish to Pages, Cloudflare, or a custom domain.
+name: My FND Journey prototype checks
+
+on:
+  pull_request:
+    paths:
+      - "app/**"
+      - ".github/workflows/my-fnd-journey-prototype.yml"
+  push:
+    branches:
+      - "feature/my-fnd-journey-phase0-prototype"
+    paths:
+      - "app/**"
+      - ".github/workflows/my-fnd-journey-prototype.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Node 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Run deterministic scene-model tests
+        run: npm --prefix app test
+      - name: Build offline static prototype
+        run: npm --prefix app run build
+      - name: Check generated PWA essentials
+        shell: bash
+        run: |
+          test -s app/dist/index.html
+          test -s app/dist/manifest.webmanifest
+          test -s app/dist/sw.js
+          test -s app/dist/assets/scene.png
+          test -s app/dist/src/scene-model.mjs
+          ! grep -R -E "https?://.*(analytics|collect|tracking)" app/dist/src/
