@@ -2,7 +2,7 @@
 
 **Prepared October 26, 2026 · Draft PR #191 · Internal review only**
 
-The project lead asked for **all Clinician sections** in the newly planned Modules 6–10 (16 lessons, 15–30), with the core concept applied across the existing symptom catalogue and multiple relevant disciplines. This set complements the 16 [Person-section drafts](../person-drafts-2026-10-26/); Supporter sections have **not** been drafted and their editorial direction remains a separate decision.
+The project lead asked for **all Clinician sections** in the newly planned Modules 6–10 (16 lessons, 15–30), with the core concept applied across the existing symptom catalogue and multiple relevant disciplines. This set complements the 16 [Person-section drafts](../person-drafts-2026-10-26/); Supporter sections have **not** been drafted. The project lead has specified their broad direction: helping supporters **work collaboratively with the person to adapt and modify activities or environments based on each lesson**. Detailed Supporter lesson choices remain to be developed later.
 
 ## Draft lesson groups
 
@@ -47,7 +47,7 @@ The [Diagnostic Signs collection](../../../diagnostic-signs/README.md) currently
 3. Refer to the Reference Library for full symptom-specific examination methods, named techniques, evidence labels and contraindications. Do not substitute the short scenarios for protocols.
 4. Protect existing and ongoing disability accommodations, consent, meaningful life outcomes and the right to clinical reassessment.
 5. Use [Work's reviewed evidence register](../new-lessons-research-2026-10-26/sources.md) for preliminary source grounding. These `Rxx` keys are **internal**, not final public numbered citations. Work must verify original-paper support and register appropriate citation IDs before the course is published.
-6. Do not write Supporter sections until the project lead decides their precise role. Do not overwrite the existing Person drafts.
+6. Do not write Supporter sections in this clinical pass; retain the agreed collaboration/adaptation direction for later detailed planning. Do not overwrite the existing Person drafts.
 
 ## Verification completed for the draft PR
 
