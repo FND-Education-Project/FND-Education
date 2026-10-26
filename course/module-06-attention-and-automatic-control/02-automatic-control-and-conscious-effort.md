@@ -18,7 +18,7 @@ Lesson 16 explores automatic Control and Conscious Effort through everyday examp
 
 ### When your hand knows the way
 
-Imagine signing your name on a birthday card.
+Imagine signing your name on a card.
 
 For many people, the pen seems to know where to go. You think about writing your name, and your hand takes care of lots of little movements.
 
@@ -118,23 +118,23 @@ Think about telling a friend an exciting story. You know what you want to say. Y
 
 For some people with functional speech or voice difficulties, a **speech-language therapist** may explore getting a meaningful message across rather than repeating an isolated sound. They can also help the person use another way to communicate when needed. (*citation* [4](#citation-4))
 
-### What about breathing, bladder control, and other automatic body functions?
+### Hold on to that thought
 
-Here's an important difference.
+You might already be thinking, "Hang on. Could this explain something that happens to me?"
 
-Breathing usually carries on by itself, even when you're asleep. Yet you can also change your breathing when you speak or sing. It uses several kinds of nervous-system control.
+It's a natural question. As you learn about FND, you'll probably start looking for connections to your own symptoms.
 
-A breathing change during a **functional seizure** raises a different question from a movement becoming easier during therapy. The event needs its own assessment and safety plan. The fact that breathing can happen automatically doesn't tell us why someone holds their breath or seems to stop breathing during an episode. [Read more about functional seizures and breathing safety](../../reference/diagnostic-signs/06-functional-seizures.md).
+There's a useful boundary to keep in mind, though.
 
-Bladder control also involves several systems working together. The body senses filling, nerves and muscles help manage storage and emptying, and you can usually choose an appropriate time to use the toilet.
+**This lesson is about familiar, learned actions**, especially movement and some aspects of speaking. We know these actions can become more automatic with practice. Clinicians have also observed changes in how some functional symptoms appear during different tasks.
 
-Changes in bladder sensation or emptying deserve a proper medical assessment. A **scan-negative cauda equina presentation** may overlap with functional symptoms, but a negative scan alone doesn't establish FND. [Read about scan-negative cauda equina presentations](../../reference/diagnostic-signs/scan-negative-cauda-equina.md).
+What causes an individual symptom is a bigger question. Several nervous-system processes may be involved, and researchers are still working out how they fit together in FND.
 
-Then there's the **autonomic nervous system**. It helps regulate things such as heart rate, sweating, blood pressure, and digestion.
+Think of the course as a picture we're building one piece at a time.
 
-The word *automatic* sounds similar, but autonomic regulation and learned automatic movement are different processes. People with FND can also have autonomic symptoms or separate medical conditions that affect these functions.
+The next lesson will explore how the focus or setting of an activity can change what happens. Later we'll look at how the brain prepares for events, understands signals from the body, and responds to what seems important.
 
-We'll look more closely at sensing the body and regulating its functions in later lessons.
+So keep those questions in your back pocket. More pieces are coming. And if a symptom raises a health or safety concern, a clinician can assess it on its own merits while we keep learning.
 
 ### Finding an approach that fits your life
 
