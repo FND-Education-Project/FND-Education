@@ -55,3 +55,7 @@ The [remaining new-lesson research briefs](../../../reference/_internal/course/n
 ## Person-section editorial drafts
 
 [Read the complete Person sections for this module](../../../reference/_internal/course/person-drafts-2026-10-26/module-10-pacing-and-available-capacity.md). These are **internal human-review drafts**, not published course pages. The Supporter and Clinician sections deliberately remain undecided. Community quotes are candidates from the project's source notebook and require verification in their original context before publication. Evidence references, research citations, accessible illustrations, puzzles and final course integration remain follow-up Work tasks.
+
+## Clinician-section editorial draft
+
+[Read the complete clinician sections for this module](../../../reference/_internal/course/clinician-drafts-2026-10-26/module-10-pacing-and-available-capacity.md), prepared for all planned lessons and covering interdisciplinary use in assessment, individual technique selection, rehabilitation and outcome review. For full 17-presentation coverage across the five modules, see the [clinical coverage index](../../../reference/_internal/course/clinician-drafts-2026-10-26/README.md). **Supporter sections remain unwritten.** Clinical statements are grounded in internal source-review material, but final paper-level verification, citations and specialist sign-off are pending.
