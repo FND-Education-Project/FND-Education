@@ -89,14 +89,15 @@
         const match = /^m([1-9][0-9]*)-([1-9][0-9]*)$/.exec(lesson.id);
         if (lesson.url !== "/course/m" + match[1] + "/" + match[2] + "/" ||
             identity.has(lesson.id)) return false;
-        identity.set(lesson.id, lesson);
       } else if (manifest.version !== 2 || lesson.progressEligible !== false ||
                  lesson.id !== null ||
                  !/^\/course\/v2\/m(?:6|7|8|9|10)\/[1-9][0-9]*\/$/.test(lesson.url)) {
         return false;
       }
-      lookup.set(lesson.url, { ...lesson, progressEligible: tracked });
-      destination.push(lookup.get(lesson.url));
+      const entry = { ...lesson, progressEligible: tracked };
+      lookup.set(lesson.url, entry);
+      if (tracked) identity.set(lesson.id, entry);
+      destination.push(entry);
       return true;
     }
     for (const part of manifest.parts) {
@@ -218,7 +219,7 @@
     }
     let mutationPending = false;
     async function setCompletion(lesson, checked, destination) {
-      if (mutationPending) return;
+      if (mutationPending || !lesson.progressEligible || !known.has(lesson.id)) return;
       mutationPending = true;
       try {
         if (!(await confirmation(lesson, checked))) return;
@@ -245,6 +246,9 @@
     }
 
     function checkbox(lesson) {
+      if (!lesson.progressEligible || !known.has(lesson.id)) {
+        return el("span", "course-progress-help", "Completion tracking not yet available");
+      }
       const label = el("label", "course-progress-checkbox");
       const input = el("input");
       input.type = "checkbox";
