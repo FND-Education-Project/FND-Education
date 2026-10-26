@@ -161,3 +161,26 @@ test("inactivity and sign-out rules are distinct and explained", () => {
   assert.match(accountScript, /unused for three years/);
   assert.match(accountScript, /Automatic sign-out/);
 });
+
+test("legacy lesson allowlist includes m4-2 but excludes new concepts slots", () => {
+  const server = readFileSync(new URL("./worker.js", import.meta.url), "utf8");
+  const counts = /const LESSON_COUNTS = \[([\s\S]*?)\];/.exec(server);
+  assert.ok(counts);
+  const values = [...counts[1].matchAll(/\d+/g)].map(item => Number(item[0]));
+  assert.equal(values.length, 23);
+  assert.equal(values.reduce((a, b) => a + b, 0), 75);
+  assert.equal(values[3], 2); // Original Module 4 has two lessons.
+  assert.match(server, /const match = \/\^m\(\[1-9\]\|1\[0-9\]\|2\[0-3\]\)/);
+  assert.doesNotMatch(server, /m24-1.*validLesson/);
+});
+
+test("manifest v2 leaves new lessons read-only and keeps earlier edition", () => {
+  assert.match(courseScript, /\[1, 2\]\.includes\(manifest\.version\)/);
+  assert.match(courseScript, /manifest\.earlierModules/);
+  assert.match(courseScript, /lesson\.progressEligible === false/);
+  assert.match(courseScript, /lesson\.id !== null/);
+  assert.match(courseScript, /current && current\.progressEligible/);
+  assert.match(courseScript, /!lesson\.progressEligible \|\| !known\.has\(lesson\.id\)/);
+  assert.match(courseScript, /Earlier-edition reading/);
+  assert.match(courseScript, /identity\.get\(state\.lastLesson\)/);
+});
