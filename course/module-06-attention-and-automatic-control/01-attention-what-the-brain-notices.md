@@ -98,9 +98,9 @@ These approaches are chosen around the person's symptoms, abilities and safety n
 
 Remember that message to your friend?
 
-Maybe a video keeps pulling your attention away while you're trying to reply. You pause it and leave the message open, so you can look back whenever you need to.
+Maybe you were halfway through writing something important when you lost your train of thought. Next time you pause, you could leave yourself a tiny clue: "Next, I wanted to explain…"
 
-That small change makes more room for something you want to do.
+When you return, those few words might help you pick up the thread. If noise is the thing pulling your attention away, a quieter place might help instead.
 
 **An activity can become easier to manage even when your symptoms stay the same.**
 
@@ -116,13 +116,11 @@ How would it feel to make the activity a little easier, without expecting yourse
 
 ### One small step
 
-Choose a familiar, safe activity, such as reading a message or sorting mail.
+Think of one familiar activity where you sometimes lose your place.
 
-Try changing **one thing** around you. You could turn off the television or find a quieter spot. Then see whether the task feels more comfortable or takes less effort.
+Choose **one small change** that makes more room for your attention. You might leave two words about your next step, keep a useful browser tab open, or ask for a little quiet while you finish.
 
-Maybe it helps. Maybe another adjustment would suit you better. You can simply notice what works for you and get on with your day.
-
-You can also save this idea for another day if you need rest right now.
+See whether returning to the activity feels easier. You can keep the support that works for you, change it, or save this idea for another day.
 
 Next, we'll look at how your brain handles familiar actions with less step-by-step conscious direction.
 
