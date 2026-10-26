@@ -26,7 +26,7 @@ Your nervous system gathers information from inside your body as well as from th
 
 **[Proprioception](../../glossary/README.md#proprioception)** helps you know where your limbs are and how they are moving, even with your eyes closed.
 
-**Exteroception** concerns information from the outside world, including sight, sound and touch.
+**[Exteroception](../../glossary/README.md#exteroception)** concerns information from the outside world, including sight, sound and touch.
 
 These systems cooperate constantly. When you reach for a cup, you see where it is, sense your arm's position and may notice whether you're tired or uncomfortable.
 
