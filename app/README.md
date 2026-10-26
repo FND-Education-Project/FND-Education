@@ -1,5 +1,8 @@
 # My FND Journey — Phase 0 runnable prototype
 
+> **Curriculum compatibility verified October 26, 2026:** Merged [PR #191](https://github.com/FND-Education-Project/FND-Education/pull/191) changed the canonical FND course to **5 Parts, 19 modules and 57 lessons**. The Phase 0 Activity Room uses no course IDs and was not broken. The future Continue Learning feature must use version **2** of the generated lesson manifest from draft [PR #154](https://github.com/FND-Education-Project/FND-Education/pull/154), with 57 eligible lessons and no retired `/course/v2/` or `m20`–`m23` paths. Pure, unconnected compatibility validation in `src/course-contract.mjs` and `tests/course-contract.test.mjs` now enforces those assumptions. The old **private test-only course progress** must be reset **with project-owner approval** before the updated Worker is deployed, because reused lesson IDs may mean different lessons. Public app authentication and course links remain **unimplemented**. Draft PR #192 is updating the glossary/search vocabulary for a later reviewed symptom catalogue.
+
+
 **Status: early development, local browser prototype only. Not deployed and not ready for personal health records.** Design source: [My FND Journey documentation PR #177](https://github.com/FND-Education-Project/FND-Education/pull/177). Course account service in draft PR #154 remains unchanged/disabled.
 
 This spike tests the **Activity Room interaction engine**, not a complete app. It has no account creation, lesson linking, symptom diary, clinical guidance, analytics, or remote health data service.
