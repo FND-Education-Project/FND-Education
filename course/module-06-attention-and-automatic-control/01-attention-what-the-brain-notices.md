@@ -52,25 +52,49 @@ Maybe the rubbing became stronger. Maybe the film held your attention for a whil
 
 **What stands out to you can change, while the feeling in your body remains real and deserves care.**
 
-### What does this have to do with FND?
+### When attention and FND symptoms meet
 
-For some people with FND, attention seems to make a difference to how a task goes.
+Picture someone whose hand shakes while they hold a book. They look down at their hand, trying to work out what it's doing.
 
-Imagine someone who finds it easier to follow a conversation with one friend than with a whole group. Another person might find a familiar movement easier when they're focused on what they want to do. For someone else, moving attention around might make little difference.
+A little later, a friend starts talking about a favourite film. As the person follows the conversation, the shaking changes.
 
-Researchers are studying how attention relates to some functional symptoms. A clinician may learn something useful from how a movement changes during an examination. They consider that finding along with the person's experience and the rest of the assessment. (*citations* [1](#citation-1), [2](#citation-2))
+Clinicians sometimes see changes like this in people with **functional tremor**. The shaking is involuntary in both situations. How it changes can offer a clue during a proper neurological examination. It cannot tell us, on its own, why that person's symptoms began. (*citation* [3](#citation-3))
 
-**FND symptoms are real and involuntary.** Different experiences in different settings can be useful information, even when we don't yet know exactly why they happen.
+Attention can matter in different ways, too.
+
+Imagine someone who has trouble finding words. In a busy group, a question comes from one direction and another person starts speaking before they can answer. The conversation feels like a game of catch-up.
+
+Later, with one listener and a little more time, they might get their message across more easily. Or they might still need help communicating. Either experience matters.
+
+People with FND have different symptoms, and attention affects them in different ways. Pain, fatigue, hearing, language difficulties and other health conditions can play a part as well. An attention change alone cannot identify the cause of a symptom.
+
+### How can attention help during rehabilitation?
+
+Here's where the idea starts to become useful.
+
+Imagine someone who keeps losing their place while filling out a form. An **occupational therapist**, or **OT**, might help them work through one question at a time. They could cover the other questions for now, leaving less information competing for attention.
+
+The goal is getting the form done with less effort. That's useful even if the person still has thinking or memory difficulties. (*citations* [2](#citation-2), [4](#citation-4))
+
+Now picture someone working with a physiotherapist because their arm shakes during everyday tasks.
+
+The therapist might set up a safe, seated activity: sliding a soft cloth across a table toward a coloured mark. Instead of asking the person to watch every movement of their arm, the therapist invites them to look at where the cloth needs to go.
+
+This is one example of **task-focused practice**. In some functional movement symptoms, changing what the person focuses on may help them practise a useful action. The therapist checks what works, adjusts the support, and makes room for rest. The practice can still be worthwhile if some shaking remains. (*citations* [2](#citation-2), [3](#citation-3))
+
+These approaches are chosen around the person's symptoms, abilities and safety needs. They aren't tests to prove that someone can control their FND. For episodes that affect awareness or safety, such as functional seizures, the person's own safety plan and professional guidance still come first.
 
 ### Making room for what matters
 
-Imagine you're filling in a form. The television is talking in the background. You reach the bottom of a question and think, "Wait, what did I just read?"
+You can use the same idea in everyday life.
+
+Imagine you're filling in a form at home. The television is talking in the background. You reach the bottom of a question and think, "Wait, what did I just read?"
 
 So you turn off the television and take the form one question at a time.
 
-You might still find the form difficult. But now you've made a little more room for the task. Perhaps having someone read a question aloud would help, too.
+You might still find the form difficult. But now you've made a little more room for the task.
 
-Changing your surroundings can make an activity easier to manage, whether your symptoms change or stay the same.
+**Changing how you approach an activity can be useful, whether your symptoms change or stay the same.**
 
 ### Something to think about
 
