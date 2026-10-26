@@ -115,7 +115,7 @@ function redirect(location, cookies = []) {
 function err(req, env, status, message) {
   return reply(req, env, { error: message }, status);
 }
-function safeReturnPath(raw) {
+export function safeReturnPath(raw) {
   if (typeof raw !== "string" || raw.length > 200 ||
       raw.includes("\\") || raw.includes("//") ||
       !/^\/(?:$|course\/(?:$|m[1-9][0-9]*\/(?:[1-9][0-9]*\/)?|v2\/m(?:6|7|8|9|10)\/(?:[1-9][0-9]*\/)?))$/.test(raw)) {
