@@ -78,9 +78,13 @@ Attention may also affect communication. Someone who struggles to find words in 
 
 Here's where the idea starts to become useful.
 
-Imagine someone who keeps losing their place while filling out a form. An **occupational therapist**, or **OT**, might help them work through one question at a time. They could cover the other questions for now, leaving less information competing for attention.
+Imagine someone writing a few paragraphs. They're halfway through a thought when somebody interrupts them. When they return, the next sentence seems to have vanished.
 
-The goal is getting the form done with less effort. That's useful even if the person still has thinking or memory difficulties. (*citations* [2](#citation-2), [4](#citation-4))
+An **occupational therapist**, or **OT**, might help them leave a little *breadcrumb* whenever they pause: a few words about what comes next. An open notebook or a browser tab left on the right page might serve the same purpose.
+
+What looks like a cluttered workspace to one person may be a useful map to another. The question is whether that arrangement helps the person find their way back.
+
+These are **memory supports**: ways to leave some of the remembering outside your head. They can make an activity easier even when attention or memory symptoms remain. (*citations* [2](#citation-2), [4](#citation-4))
 
 Now picture someone working with a physiotherapist because their arm shakes during everyday tasks.
 
