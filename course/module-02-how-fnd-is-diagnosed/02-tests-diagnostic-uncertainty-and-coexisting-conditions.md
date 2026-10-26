@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 2: How FND Is Diagnosed](README.md) › **Tests, Diagnostic Uncertainty, and Coexisting Conditions**
+[Home](../../README.md) › [Course](../README.md) › Part One: Understanding FND › [Module 2: How FND Is Diagnosed](README.md) › **Tests, Diagnostic Uncertainty, and Coexisting Conditions**
 <!-- NAV-BREADCRUMB:END -->
 
 # Tests, Diagnostic Uncertainty, and Coexisting Conditions
@@ -32,11 +32,11 @@ A normal result is useful information. It helps your care team set aside some ot
 
 Your symptoms are real, whatever a test shows. FND is recognized through characteristic features of your symptoms and examination. Tests help your clinician assess other possible explanations and coexisting conditions.
 
-An FND diagnosis is built on recognizable features of your symptoms and examination. These are called [positive signs](../../../glossary/README.md#positive-clinical-sign--positive-diagnostic-sign). We introduced them in [Lesson 5: Positive Signs and the Neurological Examination](01-positive-signs-and-the-neurological-examination.md). You can ask your clinician to show you which positive signs support your diagnosis. (*citations* [1](#citation-1), [2](#citation-2))
+An FND diagnosis is built on recognizable features of your symptoms and examination. These are called [positive signs](../../glossary/README.md#positive-clinical-sign--positive-diagnostic-sign). We introduced them in [Lesson 5: Positive Signs and the Neurological Examination](01-positive-signs-and-the-neurological-examination.md). You can ask your clinician to show you which positive signs support your diagnosis. (*citations* [1](#citation-1), [2](#citation-2))
 
 <figure class="image-60center" markdown="1">
 
-![Different pieces of information, including the person's history, examination, tests and changes over time, contribute to understanding a diagnosis.](../../../assets/illustrations/module-2-page-2-evidence-pieces.svg)
+![Different pieces of information, including the person's history, examination, tests and changes over time, contribute to understanding a diagnosis.](../../assets/illustrations/module-2-page-2-evidence-pieces.svg)
 
 <figcaption>Each piece of information can answer a different question. No single result tells the whole story.</figcaption>
 
@@ -64,18 +64,18 @@ Each symptom can have its own explanation, and your care team can look at each o
 
 | Condition | What this means for you |
 | --- | --- |
-| [Postural orthostatic tachycardia syndrome (POTS)](../../../reference/co-occurring-conditions/08-autonomic-symptoms.md) | POTS and FND can occur together. Symptoms related to standing deserve assessment for their own cause. How often the two coexist remains uncertain. (*citations* [6](#citation-6)) |
-| [Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)](../../../reference/co-occurring-conditions/06-fatigue.md) | ME/CFS may coexist with FND. Tell your clinician about delayed or prolonged worsening after activity. There is no dependable overall percentage: studies of fatigue or “ME/CFS-like” symptoms do not necessarily establish ME/CFS. (*citations* [7](#citation-7), [13](#citation-13)) |
+| [Postural orthostatic tachycardia syndrome (POTS)](../../reference/co-occurring-conditions/08-autonomic-symptoms.md) | POTS and FND can occur together. Symptoms related to standing deserve assessment for their own cause. How often the two coexist remains uncertain. (*citations* [6](#citation-6)) |
+| [Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)](../../reference/co-occurring-conditions/06-fatigue.md) | ME/CFS may coexist with FND. Tell your clinician about delayed or prolonged worsening after activity. There is no dependable overall percentage: studies of fatigue or “ME/CFS-like” symptoms do not necessarily establish ME/CFS. (*citations* [7](#citation-7), [13](#citation-13)) |
 | Attention-deficit/hyperactivity disorder (ADHD) | ADHD can be present alongside FND. In one large health-record study, it was recorded in approximately 13% of adults aged 19–50 and 21% of young people aged 10–18 with FND without recorded autism. (*citations* [8](#citation-8)) |
 | Autism | Autistic people can also develop FND. A large health-record study found recorded autism in approximately 2% of people with FND; this does not include everyone whose autism remains unrecognised. (*citations* [8](#citation-8)) |
 | Post-traumatic stress disorder (PTSD) | PTSD can coexist with FND and deserves support in its own right. A recent meta-analysis estimated PTSD in approximately 38% of people with functional seizures—a figure specific to that FND presentation. (*citations* [9](#citation-9)) |
-| [Migraine](../../../reference/co-occurring-conditions/01-migraine.md) | Migraine is a distinct condition that can occur alongside FND. You can ask for a migraine treatment plan as well as your FND care plan. Approximately 32% of people with functional seizures had migraine in a systematic review. (*citations* [10](#citation-10)) |
+| [Migraine](../../reference/co-occurring-conditions/01-migraine.md) | Migraine is a distinct condition that can occur alongside FND. You can ask for a migraine treatment plan as well as your FND care plan. Approximately 32% of people with functional seizures had migraine in a systematic review. (*citations* [10](#citation-10)) |
 
 **Key idea: Each condition you have deserves its own care. Your care team can plan for all of them together.**
 
 <figure class="image-60center" markdown="1">
 
-![The word ME filled with colourful scenes of friendship, rest, pets, nature, creative activities and medical care.](../../../assets/images/lesson-6-illustration.png)
+![The word ME filled with colourful scenes of friendship, rest, pets, nature, creative activities and medical care.](../../assets/images/lesson-6-illustration.png)
 
 <figcaption>Your care can make room for each health condition and the things that matter to you.</figcaption>
 
@@ -107,9 +107,9 @@ A second opinion may give you and your care team more information. It might conf
 
 This lesson gives you the big picture. You can learn about specific tests whenever you feel ready.
 
-In the [Reference Library, find your symptom](../../../reference/README.md#find-an-fnd-symptom), then follow Understanding & Diagnosis. There you will find explanations of the examinations and tests for that symptom.
+In the [Reference Library, find your symptom](../../reference/README.md#find-an-fnd-symptom), then follow Understanding & Diagnosis. There you will find explanations of the examinations and tests for that symptom.
 
-For a broader explanation, see [What Tests and Investigations Can Tell Us](../../../reference/diagnostic-concepts/03-tests-and-investigations.md).
+For a broader explanation, see [What Tests and Investigations Can Tell Us](../../reference/diagnostic-concepts/03-tests-and-investigations.md).
 
 ### Questions to reflect on
 
@@ -146,7 +146,7 @@ Choose a crossword below. Normal and easy editions are fillable PDFs; the easy e
 
 #### Colouring page
 
-Choose the preview to open the printable colouring PDF. Use landscape orientation and fit to page when printing. You can also browse the [puzzles collection](../../../assets/puzzles/README.md).
+Choose the preview to open the printable colouring PDF. Use landscape orientation and fit to page when printing. You can also browse the [puzzles collection](../../assets/puzzles/README.md).
 
 <div class="puzzle-grid puzzle-grid-colouring">
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-6-coloring-book.pdf' | relative_url }}">
@@ -236,7 +236,7 @@ This section looks at how tests, diagnostic certainty and coexisting conditions 
 
 Coexisting neurological disease is a well-documented part of FND care. Functional seizures offer the clearest numerical example.
 
-A systematic review and meta-analysis by Kutlubaev and colleagues (2018) looked at this overlap from both directions. Among people with psychogenic nonepileptic seizures ([PNES](../../../glossary/README.md#pnes), commonly called functional seizures), approximately 22% also had epilepsy. Among people with epilepsy, approximately 12% also had PNES. (*citations* [5](#citation-5))
+A systematic review and meta-analysis by Kutlubaev and colleagues (2018) looked at this overlap from both directions. Among people with psychogenic nonepileptic seizures ([PNES](../../glossary/README.md#pnes), commonly called functional seizures), approximately 22% also had epilepsy. Among people with epilepsy, approximately 12% also had PNES. (*citations* [5](#citation-5))
 
 Because the two figures come from different starting populations, each answers a different question. The included studies mostly drew on selected clinical groups, often from epilepsy services, and their estimates varied. The figures describe those groups as a whole, rather than everyone with FND or the likelihood for an individual patient. Their real value lies in encouraging careful assessment of each event type, with room for more than one diagnosis to explain a person's symptoms.
 
@@ -273,7 +273,7 @@ Patients also benefit from hearing what each test was able to clarify, which que
 
 Investigations are most informative when each one answers a defined clinical question. The starting point is the person's actual presentation: the phenotype, time course, examination findings and any relevant red flags.
 
-From there, imaging, laboratory testing, neurophysiology, EEG, video-EEG, cardiac assessment, sleep evaluation or other specialist input can each be matched to a specific question. This proportionate approach keeps the [differential](../../../glossary/README.md#differential-diagnosis) open long enough to be thorough, while sparing the patient investigations unlikely to change their care.
+From there, imaging, laboratory testing, neurophysiology, EEG, video-EEG, cardiac assessment, sleep evaluation or other specialist input can each be matched to a specific question. This proportionate approach keeps the [differential](../../glossary/README.md#differential-diagnosis) open long enough to be thorough, while sparing the patient investigations unlikely to change their care.
 
 Results also benefit from careful interpretation. An incidental abnormality is best weighed for whether it truly explains the symptoms before it is treated as causal.
 
@@ -311,7 +311,7 @@ The aim throughout is a proportionate plan: one that stays alert to coexisting c
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next module: What May Cause or Affect FND?](../module-03-causes-mechanisms-and-honest-uncertainty/README.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [Home](../../README.md) · [Course](../README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ---
@@ -329,19 +329,19 @@ The Tolchin guideline applies specifically to functional seizures: it supports h
 
 | Citation | Full citation | Supports | Figure |
 | --- | --- | --- | --- |
-| <a id="citation-1"></a>**[1]** | Bennett K, Diamond C, Hoeritzauer I, et al. A practical review of functional neurological disorder (FND) for the general physician. Clinical Medicine. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001) · [DOI](https://doi.org/10.7861/clinmed.2020-0987). | Positive diagnosis, coexistence and reassessment. | — |
-| <a id="citation-2"></a>**[2]** | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. JAMA Neurology. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002) · [DOI](https://doi.org/10.1001/jamaneurol.2018.1264). | Positive clinical evidence and diagnostic explanation. | Figure 1 |
-| <a id="citation-3"></a>**[3]** | Tolchin B, Goldstein LH, Reuber M, et al. Management of Functional Seizures Practice Guideline Executive Summary. Neurology. 2026;106(1):e214466. [FND-CIT-0010](../../../research/citation-index.md#fnd-cit-0010) · [DOI](https://doi.org/10.1212/WNL.0000000000214466). | Functional-seizure assessment and coexisting epilepsy. | — |
-| <a id="citation-4"></a>**[4]** | Whitehead K, Kane N, Wardrope A, Kandler R, Reuber M. Proposal for best practice in the use of video-EEG when psychogenic non-epileptic seizures are a possible diagnosis. Clinical Neurophysiology Practice. 2017;2:130–139. [FND-CIT-0233](../../../research/citation-index.md#fnd-cit-0233) · [DOI](https://doi.org/10.1016/j.cnp.2017.06.002). | Scalp-EEG interpretation and limitations. | — |
-| <a id="citation-5"></a>**[5]** | Kutlubaev MA, Xu Y, Hackett ML, Stone J. Dual diagnosis of epilepsy and psychogenic nonepileptic seizures: systematic review and meta-analysis of frequency, correlates, and outcomes. Epilepsy & Behavior. 2018;89:70–78. [FND-CIT-0274](../../../research/citation-index.md#fnd-cit-0274) · [DOI](https://doi.org/10.1016/j.yebeh.2018.10.010). | Epilepsy/functional-seizure coexistence with different denominators. | — |
-| <a id="citation-6"></a>**[6]** | Nagata R, Matsuura E, Nozuma S, et al. Anti-ganglionic acetylcholine receptor antibodies in functional neurological symptom disorder/conversion disorder. *Frontiers in Neurology*. 2023;14:1137958. [FND-CIT-0275](../../../research/citation-index.md#fnd-cit-0275) · [Source](https://doi.org/10.3389/fneur.2023.1137958). | Documented POTS coexistence in a selected cohort; not general prevalence. | — |
-| <a id="citation-7"></a>**[7]** | Gaber TAZK, Shippen C, Jones F. Temporal Sequence of Onset: ME/CFS-like Fatigue and Functional Neurological Disorder. *Advances in Rehabilitation Science and Practice*. 2026. [FND-CIT-0276](../../../research/citation-index.md#fnd-cit-0276) · [Source](https://doi.org/10.1177/27536351261496336). | ME/CFS-like symptoms versus formal diagnosis; no reliable general coexistence estimate. | — |
-| <a id="citation-8"></a>**[8]** | Smythe L, Asan L, Nicholson TR, Happé F, Edwards MJ. Co-occurring functional neurological disorder and autism: an exploratory study of comorbidities in a retrospective cohort study using TriNetX. *Journal of Neurology*. 2025;272:653. [FND-CIT-0277](../../../research/citation-index.md#fnd-cit-0277) · [Source](https://doi.org/10.1007/s00415-025-13385-6). | Recorded autism and age-restricted ADHD comorbidity; cumulative health-record diagnoses. | — |
-| <a id="citation-9"></a>**[9]** | Nicholson D, Gaskell C, Rawlings GH, et al. The prevalence of post-traumatic stress disorder in functional / dissociative seizures: A systematic review and meta-analysis. *Seizure*. 2026;141:223–232. [FND-CIT-0278](../../../research/citation-index.md#fnd-cit-0278) · [Source](https://doi.org/10.1016/j.seizure.2026.07.027). | PTSD estimate in functional seizures; ascertainment includes screening, interviews and records. | — |
-| <a id="citation-10"></a>**[10]** | Kyrgyzbay G, Kalinina D, Akhmedullin R, et al. Prevalence of migraine in individuals with functional seizures: A systematic review and meta-analysis. *Epilepsy Research*. 2025;216:107596. [FND-CIT-0279](../../../research/citation-index.md#fnd-cit-0279) · [Source](https://doi.org/10.1016/j.eplepsyres.2025.107596). | Aggregate migraine proportion in functional seizures; ascertainment varies across studies. | — |
-| <a id="citation-11"></a>**[11]** | Jones AT, O’Connell NK, David AS. Epidemiology of functional stroke mimic patients: a systematic review and meta-analysis. *European Journal of Neurology*. 2020;27(1):18–26. [FND-CIT-0280](../../../research/citation-index.md#fnd-cit-0280) · [Source](https://doi.org/10.1111/ene.14069). | Functional presentations among suspected strokes, not stroke prevalence in FND. | — |
-| <a id="citation-12"></a>**[12]** | Nisticò V, Demartini B, et al. Pain in Functional Motor Disorders: Clinical Correlates From the Italian Registry. *European Journal of Neurology*. 2026;33(5):e70634. [FND-CIT-0281](../../../research/citation-index.md#fnd-cit-0281) · [Source](https://doi.org/10.1111/ene.70634). | Table 1: MS and Parkinson’s disease/parkinsonism in 466 adults with motor FND. | — |
-| <a id="citation-13"></a>**[13]** | National Institute for Health and Care Excellence. *Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management*. NG206. 2021. [FND-CIT-0206](../../../research/citation-index.md#fnd-cit-0206) · [Source](https://www.nice.org.uk/guidance/ng206/chapter/recommendations). | ME/CFS assessment and post-exertional malaise; not FND prevalence. | — |
+| <a id="citation-1"></a>**[1]** | Bennett K, Diamond C, Hoeritzauer I, et al. A practical review of functional neurological disorder (FND) for the general physician. Clinical Medicine. 2021;21(1):28–36. [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001) · [DOI](https://doi.org/10.7861/clinmed.2020-0987). | Positive diagnosis, coexistence and reassessment. | — |
+| <a id="citation-2"></a>**[2]** | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. JAMA Neurology. 2018;75(9):1132–1141. [FND-CIT-0002](../../research/citation-index.md#fnd-cit-0002) · [DOI](https://doi.org/10.1001/jamaneurol.2018.1264). | Positive clinical evidence and diagnostic explanation. | Figure 1 |
+| <a id="citation-3"></a>**[3]** | Tolchin B, Goldstein LH, Reuber M, et al. Management of Functional Seizures Practice Guideline Executive Summary. Neurology. 2026;106(1):e214466. [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010) · [DOI](https://doi.org/10.1212/WNL.0000000000214466). | Functional-seizure assessment and coexisting epilepsy. | — |
+| <a id="citation-4"></a>**[4]** | Whitehead K, Kane N, Wardrope A, Kandler R, Reuber M. Proposal for best practice in the use of video-EEG when psychogenic non-epileptic seizures are a possible diagnosis. Clinical Neurophysiology Practice. 2017;2:130–139. [FND-CIT-0233](../../research/citation-index.md#fnd-cit-0233) · [DOI](https://doi.org/10.1016/j.cnp.2017.06.002). | Scalp-EEG interpretation and limitations. | — |
+| <a id="citation-5"></a>**[5]** | Kutlubaev MA, Xu Y, Hackett ML, Stone J. Dual diagnosis of epilepsy and psychogenic nonepileptic seizures: systematic review and meta-analysis of frequency, correlates, and outcomes. Epilepsy & Behavior. 2018;89:70–78. [FND-CIT-0274](../../research/citation-index.md#fnd-cit-0274) · [DOI](https://doi.org/10.1016/j.yebeh.2018.10.010). | Epilepsy/functional-seizure coexistence with different denominators. | — |
+| <a id="citation-6"></a>**[6]** | Nagata R, Matsuura E, Nozuma S, et al. Anti-ganglionic acetylcholine receptor antibodies in functional neurological symptom disorder/conversion disorder. *Frontiers in Neurology*. 2023;14:1137958. [FND-CIT-0275](../../research/citation-index.md#fnd-cit-0275) · [Source](https://doi.org/10.3389/fneur.2023.1137958). | Documented POTS coexistence in a selected cohort; not general prevalence. | — |
+| <a id="citation-7"></a>**[7]** | Gaber TAZK, Shippen C, Jones F. Temporal Sequence of Onset: ME/CFS-like Fatigue and Functional Neurological Disorder. *Advances in Rehabilitation Science and Practice*. 2026. [FND-CIT-0276](../../research/citation-index.md#fnd-cit-0276) · [Source](https://doi.org/10.1177/27536351261496336). | ME/CFS-like symptoms versus formal diagnosis; no reliable general coexistence estimate. | — |
+| <a id="citation-8"></a>**[8]** | Smythe L, Asan L, Nicholson TR, Happé F, Edwards MJ. Co-occurring functional neurological disorder and autism: an exploratory study of comorbidities in a retrospective cohort study using TriNetX. *Journal of Neurology*. 2025;272:653. [FND-CIT-0277](../../research/citation-index.md#fnd-cit-0277) · [Source](https://doi.org/10.1007/s00415-025-13385-6). | Recorded autism and age-restricted ADHD comorbidity; cumulative health-record diagnoses. | — |
+| <a id="citation-9"></a>**[9]** | Nicholson D, Gaskell C, Rawlings GH, et al. The prevalence of post-traumatic stress disorder in functional / dissociative seizures: A systematic review and meta-analysis. *Seizure*. 2026;141:223–232. [FND-CIT-0278](../../research/citation-index.md#fnd-cit-0278) · [Source](https://doi.org/10.1016/j.seizure.2026.07.027). | PTSD estimate in functional seizures; ascertainment includes screening, interviews and records. | — |
+| <a id="citation-10"></a>**[10]** | Kyrgyzbay G, Kalinina D, Akhmedullin R, et al. Prevalence of migraine in individuals with functional seizures: A systematic review and meta-analysis. *Epilepsy Research*. 2025;216:107596. [FND-CIT-0279](../../research/citation-index.md#fnd-cit-0279) · [Source](https://doi.org/10.1016/j.eplepsyres.2025.107596). | Aggregate migraine proportion in functional seizures; ascertainment varies across studies. | — |
+| <a id="citation-11"></a>**[11]** | Jones AT, O’Connell NK, David AS. Epidemiology of functional stroke mimic patients: a systematic review and meta-analysis. *European Journal of Neurology*. 2020;27(1):18–26. [FND-CIT-0280](../../research/citation-index.md#fnd-cit-0280) · [Source](https://doi.org/10.1111/ene.14069). | Functional presentations among suspected strokes, not stroke prevalence in FND. | — |
+| <a id="citation-12"></a>**[12]** | Nisticò V, Demartini B, et al. Pain in Functional Motor Disorders: Clinical Correlates From the Italian Registry. *European Journal of Neurology*. 2026;33(5):e70634. [FND-CIT-0281](../../research/citation-index.md#fnd-cit-0281) · [Source](https://doi.org/10.1111/ene.70634). | Table 1: MS and Parkinson’s disease/parkinsonism in 466 adults with motor FND. | — |
+| <a id="citation-13"></a>**[13]** | National Institute for Health and Care Excellence. *Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management*. NG206. 2021. [FND-CIT-0206](../../research/citation-index.md#fnd-cit-0206) · [Source](https://www.nice.org.uk/guidance/ng206/chapter/recommendations). | ME/CFS assessment and post-exertional malaise; not FND prevalence. | — |
 
 This page still needs review by people with FND, supporters and clinicians, including clinicians experienced in neurological diagnosis and seizure assessment.
 

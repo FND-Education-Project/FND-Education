@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 1: What FND Is](README.md) › **What “Functional” Means and How FND Can Appear**
+[Home](../../README.md) › [Course](../README.md) › Part One: Understanding FND › [Module 1: What FND Is](README.md) › **What “Functional” Means and How FND Can Appear**
 <!-- NAV-BREADCRUMB:END -->
 
 # What “Functional” Means and How FND Can Appear
@@ -32,7 +32,7 @@ Researchers are studying several possible changes in how the brain uses this inf
 
 <figure class="image-60center" markdown="1">
 
-![Nervous-system information can reach movement, sensation, attention and awareness through pathways whose access or control can change involuntarily.](../../../assets/illustrations/module-1-page-1-function-routes.svg)
+![Nervous-system information can reach movement, sensation, attention and awareness through pathways whose access or control can change involuntarily.](../../assets/illustrations/module-1-page-1-function-routes.svg)
 
 <figcaption>Illustration: “Functional” describes how the system is working. The symptom is real, and the change is not chosen.</figcaption>
 
@@ -63,7 +63,7 @@ FND does not have one required symptom. Examples include:
 
 Not all these problems automatically mean a person has FND. Similar symptoms can come from other health conditions. A clinician considers the individual history and appropriate examination findings.
 
-Our [Reference Library](../../../reference/README.md#find-an-fnd-symptom) provides more detailed explanations of individual symptoms, their diagnostic assessments and possible recovery techniques.
+Our [Reference Library](../../reference/README.md#find-an-fnd-symptom) provides more detailed explanations of individual symptoms, their diagnostic assessments and possible recovery techniques.
 
 ### Why symptoms can vary
 
@@ -147,7 +147,7 @@ They are comparisons, not exact explanations of any person's symptoms.
 
 <figure class="image-60center" markdown="1">
 
-![Three everyday examples: a squirrel beside a woodland path, a person lifting a foot for an expected extra stair at the landing, and a tired person sitting with an open book.](../../../assets/images/lesson-1-illustration.png)
+![Three everyday examples: a squirrel beside a woodland path, a person lifting a foot for an expected extra stair at the landing, and a tired person sitting with an open book.](../../assets/images/lesson-1-illustration.png)
 
 <figcaption>Left to right: attention, prediction and awareness of internal bodily signals.</figcaption>
 
@@ -256,7 +256,7 @@ Taken together, these findings support distinguishing possible precipitating eve
 
 ### Understanding the history of FND
 
-Our [History of FND](../../../reference/history-of-fnd.md) explores how the field developed from earlier concepts of hysteria and conversion disorder toward contemporary neurological models.
+Our [History of FND](../../reference/history-of-fnd.md) explores how the field developed from earlier concepts of hysteria and conversion disorder toward contemporary neurological models.
 
 It highlights important changes in clinical thinking, the development of positive neurological signs, advances in functional neuroimaging and emerging neurometabolic findings.
 
@@ -266,21 +266,21 @@ In particular, research conducted before the 2013 DSM-5 changes may reflect diff
 
 ### Exploring the Reference Library
 
-The [FND Reference Library](../../../reference/README.md) offers more detailed material beyond the scope of this introductory course.
+The [FND Reference Library](../../reference/README.md) offers more detailed material beyond the scope of this introductory course.
 
 **Understanding and diagnosis**
 
-The [Diagnostic Techniques collection](../../../reference/diagnostic-signs/README.md) covers individual symptom presentations, examination methods, supporting research and the limitations of particular findings.
+The [Diagnostic Techniques collection](../../reference/diagnostic-signs/README.md) covers individual symptom presentations, examination methods, supporting research and the limitations of particular findings.
 
-The [shared diagnostic explanations](../../../reference/diagnostic-concepts/README.md) discuss positive clinical evidence, investigations and the relationship between examination findings and everyday functioning.
+The [shared diagnostic explanations](../../reference/diagnostic-concepts/README.md) discuss positive clinical evidence, investigations and the relationship between examination findings and everyday functioning.
 
 **Recovery and management**
 
-The [Recovery Techniques collection](../../../reference/recovery-techniques/README.md) explores rehabilitation approaches, supporting evidence, practical applications and treatment limitations.
+The [Recovery Techniques collection](../../reference/recovery-techniques/README.md) explores rehabilitation approaches, supporting evidence, practical applications and treatment limitations.
 
 These resources are organized by symptom so clinicians can focus on their own specialty or explore approaches used by other members of the care team.
 
-The [Professional Roles in FND Care](../../../reference/professional-roles-in-fnd-care.md) page explains how different clinical specialties may contribute to assessment, rehabilitation and ongoing support.
+The [Professional Roles in FND Care](../../reference/professional-roles-in-fnd-care.md) page explains how different clinical specialties may contribute to assessment, rehabilitation and ongoing support.
 
 ### Essential reading
 
@@ -310,22 +310,22 @@ The Reference Library and History of FND provide more recent and symptom-specifi
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: The Biopsychosocial Model and Misconceptions](02-the-biopsychosocial-model-misconceptions-and-recovery.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [Home](../../README.md) · [Course](../README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ## Research and Sources
 {: #research-and-sources .shareable }
 
-The sources below support this introductory account. Studies of proposed mechanisms, physical events preceding symptoms and group-level neuroimaging findings do not establish why FND began in an individual. The linked [History of FND](../../../reference/history-of-fnd.md) provides further recent and historical studies. This lesson remains open to human, clinical and accessibility review.
+The sources below support this introductory account. Studies of proposed mechanisms, physical events preceding symptoms and group-level neuroimaging findings do not establish why FND began in an individual. The linked [History of FND](../../reference/history-of-fnd.md) provides further recent and historical studies. This lesson remains open to human, clinical and accessibility review.
 
 ### Citation table
 
 | Citation | Source |
 |---|---|
-| <a id="citation-1"></a>**[1]** | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [DOI](https://doi.org/10.7861/clinmed.2020-0987). |
-| <a id="citation-2"></a>**[2]** | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [DOI](https://doi.org/10.1001/jamaneurol.2018.1264). |
-| <a id="citation-3"></a>**[3]** | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../../research/citation-index.md#fnd-cit-0003). [DOI](https://doi.org/10.1016/S1474-4422(21)00422-1). |
-| <a id="citation-4"></a>**[4]** | Stone J, Burton C, Carson A. Recognising and explaining functional neurological disorder. *BMJ*. 2020;371:m3745. [FND-CIT-0043](../../../research/citation-index.md#fnd-cit-0043). [DOI](https://doi.org/10.1136/bmj.m3745). |
-| <a id="citation-5"></a>**[5]** | Ludwig L, Pasman JA, Nicholson T, et al. Stressful life events and maltreatment in conversion (functional neurological) disorder: systematic review and meta-analysis of case-control studies. *The Lancet Psychiatry*. 2018;5(4):307–320. [FND-CIT-0079](../../../research/citation-index.md#fnd-cit-0079). [DOI](https://doi.org/10.1016/S2215-0366(18)30051-8). |
-| <a id="citation-6"></a>**[6]** | Ercoli T, Defazio G, Geroin C, et al. Sudden onset, fixed dystonia and acute peripheral trauma as diagnostic clues for functional dystonia. *Movement Disorders Clinical Practice*. 2021;8(7):1107–1111. [FND-CIT-0136](../../../research/citation-index.md#fnd-cit-0136). [DOI](https://doi.org/10.1002/mdc3.13322). |
-| <a id="citation-7"></a>**[7]** | Charney M, Foster S, Shukla V, et al. Neurometabolic alterations in children and adolescents with functional neurological disorder. *NeuroImage: Clinical*. 2024;41:103557. [FND-CIT-0044](../../../research/citation-index.md#fnd-cit-0044). [DOI](https://doi.org/10.1016/j.nicl.2023.103557). |
+| <a id="citation-1"></a>**[1]** | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). [DOI](https://doi.org/10.7861/clinmed.2020-0987). |
+| <a id="citation-2"></a>**[2]** | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../research/citation-index.md#fnd-cit-0002). [DOI](https://doi.org/10.1001/jamaneurol.2018.1264). |
+| <a id="citation-3"></a>**[3]** | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../research/citation-index.md#fnd-cit-0003). [DOI](https://doi.org/10.1016/S1474-4422(21)00422-1). |
+| <a id="citation-4"></a>**[4]** | Stone J, Burton C, Carson A. Recognising and explaining functional neurological disorder. *BMJ*. 2020;371:m3745. [FND-CIT-0043](../../research/citation-index.md#fnd-cit-0043). [DOI](https://doi.org/10.1136/bmj.m3745). |
+| <a id="citation-5"></a>**[5]** | Ludwig L, Pasman JA, Nicholson T, et al. Stressful life events and maltreatment in conversion (functional neurological) disorder: systematic review and meta-analysis of case-control studies. *The Lancet Psychiatry*. 2018;5(4):307–320. [FND-CIT-0079](../../research/citation-index.md#fnd-cit-0079). [DOI](https://doi.org/10.1016/S2215-0366(18)30051-8). |
+| <a id="citation-6"></a>**[6]** | Ercoli T, Defazio G, Geroin C, et al. Sudden onset, fixed dystonia and acute peripheral trauma as diagnostic clues for functional dystonia. *Movement Disorders Clinical Practice*. 2021;8(7):1107–1111. [FND-CIT-0136](../../research/citation-index.md#fnd-cit-0136). [DOI](https://doi.org/10.1002/mdc3.13322). |
+| <a id="citation-7"></a>**[7]** | Charney M, Foster S, Shukla V, et al. Neurometabolic alterations in children and adolescents with functional neurological disorder. *NeuroImage: Clinical*. 2024;41:103557. [FND-CIT-0044](../../research/citation-index.md#fnd-cit-0044). [DOI](https://doi.org/10.1016/j.nicl.2023.103557). |

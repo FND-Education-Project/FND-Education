@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 3: Causes, Mechanisms, and Honest Uncertainty](README.md) › **Causes, Risk Factors, Triggers, and Maintaining Factors**
+[Home](../../README.md) › [Course](../README.md) › Part One: Understanding FND › [Module 3: Causes, Mechanisms, and Honest Uncertainty](README.md) › **Causes, Risk Factors, Triggers, and Maintaining Factors**
 <!-- NAV-BREADCRUMB:END -->
 
 # Causes, Risk Factors, Triggers, and Maintaining Factors
@@ -56,7 +56,7 @@ A trigger and a mechanism answer different questions. A trigger is connected wit
 
 <figure class="image-60center" markdown="1">
 
-![A scientist with a microscope, notebook and laboratory equipment inside a brain outline, surrounded by nerve cells and a large question mark.](../../../assets/images/lesson-7-illustration.png)
+![A scientist with a microscope, notebook and laboratory equipment inside a brain outline, surrounded by nerve cells and a large question mark.](../../assets/images/lesson-7-illustration.png)
 
 <figcaption>Researchers are investigating how FND symptoms happen. This imaginative scene represents scientific questions, rather than a proven explanation of one person's FND.</figcaption>
 
@@ -92,11 +92,11 @@ Months later, the infection has cleared. The person notices that better sleep he
 
 Sleep may be affecting their experience now. The cause of their FND remains a separate question.
 
-A [maintaining factor](../../../glossary/README.md#predisposing-precipitating-perpetuating-and-protective-factors) is something that may help a symptom or difficulty continue after it has begun.
+A [maintaining factor](../../glossary/README.md#predisposing-precipitating-perpetuating-and-protective-factors) is something that may help a symptom or difficulty continue after it has begun.
 
 Pain may be a maintaining factor for one person. Migraine may matter for another. These may also be separate health concerns that deserve care of their own. (*citations* [5](#citation-5), [6](#citation-6))
 
-Some people describe [sensory overload](../../../reference/biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md) affecting certain symptoms or daily activities. Each person can have a different pattern.
+Some people describe [sensory overload](../../reference/biopsychosocial-experiences/05-unpredictability-overload-and-trusting-your-body.md) affecting certain symptoms or daily activities. Each person can have a different pattern.
 
 Another community member wrote:
 
@@ -110,7 +110,7 @@ Some people notice clear patterns in one or more symptoms. Other people experien
 
 <figure class="image-60center" markdown="1">
 
-![A timeline separates a possible risk or vulnerability, possible trigger, symptom beginning, warning sign and consequence.](../../../assets/illustrations/module-3-page-1-factor-timeline.svg)
+![A timeline separates a possible risk or vulnerability, possible trigger, symptom beginning, warning sign and consequence.](../../assets/illustrations/module-3-page-1-factor-timeline.svg)
 
 <figcaption>A timeline can show when something happened. Timing offers one clue, and further evidence helps explain its role.</figcaption>
 
@@ -120,7 +120,7 @@ Some people notice clear patterns in one or more symptoms. Other people experien
 
 Yes. Care can focus on the symptoms and activities that matter to you now while understanding of the original cause continues to develop.
 
-For example, treating [migraine](../../../reference/co-occurring-conditions/01-migraine.md) may make daily life easier for a person who has both migraine and FND. Improvement is useful evidence about what helps that person now, while the original cause remains a separate question. (*citation* [6](#citation-6))
+For example, treating [migraine](../../reference/co-occurring-conditions/01-migraine.md) may make daily life easier for a person who has both migraine and FND. Improvement is useful evidence about what helps that person now, while the original cause remains a separate question. (*citation* [6](#citation-6))
 
 Researchers are studying how brain activity, signalling and chemistry may be involved in different functional symptoms. [Lesson 8 explores this research, including brain chemistry](02-brain-networks-prediction-attention-and-agency.md#could-the-chemicals-in-my-brain-have-changed), and what its findings may mean.
 
@@ -364,7 +364,7 @@ The patient can leave with three clear messages:
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Brain Networks, Prediction, Attention, and Agency](02-brain-networks-prediction-attention-and-agency.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [Home](../../README.md) · [Course](../README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ---
@@ -384,12 +384,12 @@ The pain and migraine reviews support attention to overlap and accompanying cond
 
 | Citation | Full citation |
 |---|---|
-| <a id="citation-1"></a>**[1]** | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
-| <a id="citation-2"></a>**[2]** | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) |
-| <a id="citation-3"></a>**[3]** | Pick S, Goldstein LH, Perez DL, Nicholson TR. Emotional processing in functional neurological disorder: a review, biopsychosocial model and research agenda. *Journal of Neurology, Neurosurgery & Psychiatry*. 2019;90(6):704–711. [FND-CIT-0005](../../../research/citation-index.md#fnd-cit-0005). [https://doi.org/10.1136/jnnp-2018-319201](https://doi.org/10.1136/jnnp-2018-319201) |
-| <a id="citation-4"></a>**[4]** | Butler M, Shipston-Sharman O, Seynaeve M, et al. International online survey of 1048 individuals with functional neurological disorder. *European Journal of Neurology*. 2021;28(11):3591–3602. [FND-CIT-0014](../../../research/citation-index.md#fnd-cit-0014). [https://doi.org/10.1111/ene.15018](https://doi.org/10.1111/ene.15018) |
-| <a id="citation-5"></a>**[5]** | Steinruecke M, Mason I, Keen M, McWhirter L, Carson AJ, Stone J, Hoeritzauer I. Pain and functional neurological disorder: a systematic review and meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*. 2024;95(9):874–885. [FND-CIT-0015](../../../research/citation-index.md#fnd-cit-0015). [https://doi.org/10.1136/jnnp-2023-332810](https://doi.org/10.1136/jnnp-2023-332810) |
-| <a id="citation-6"></a>**[6]** | Stone J, Coebergh J, Khoja L, Butler M, Nicholson TR, Dodick DW. Migraine and functional neurological disorder (FND)—a review of comorbidity and potential overlap. *Brain Communications*. 2025;7(4):fcaf288. [FND-CIT-0049](../../../research/citation-index.md#fnd-cit-0049). [https://doi.org/10.1093/braincomms/fcaf288](https://doi.org/10.1093/braincomms/fcaf288) |
-| <a id="citation-7"></a>**[7]** | Paredes-Echeverri S, Maggio J, Bègue I, Pick S, Nicholson TR, Perez DL. Autonomic, endocrine, and inflammation profiles in functional neurological disorder: a systematic review and meta-analysis. *Journal of Neuropsychiatry and Clinical Neurosciences*. 2022;34(1):30–43. [FND-CIT-0064](../../../research/citation-index.md#fnd-cit-0064). [https://doi.org/10.1176/appi.neuropsych.21010025](https://doi.org/10.1176/appi.neuropsych.21010025) |
+| <a id="citation-1"></a>**[1]** | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) |
+| <a id="citation-2"></a>**[2]** | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) |
+| <a id="citation-3"></a>**[3]** | Pick S, Goldstein LH, Perez DL, Nicholson TR. Emotional processing in functional neurological disorder: a review, biopsychosocial model and research agenda. *Journal of Neurology, Neurosurgery & Psychiatry*. 2019;90(6):704–711. [FND-CIT-0005](../../research/citation-index.md#fnd-cit-0005). [https://doi.org/10.1136/jnnp-2018-319201](https://doi.org/10.1136/jnnp-2018-319201) |
+| <a id="citation-4"></a>**[4]** | Butler M, Shipston-Sharman O, Seynaeve M, et al. International online survey of 1048 individuals with functional neurological disorder. *European Journal of Neurology*. 2021;28(11):3591–3602. [FND-CIT-0014](../../research/citation-index.md#fnd-cit-0014). [https://doi.org/10.1111/ene.15018](https://doi.org/10.1111/ene.15018) |
+| <a id="citation-5"></a>**[5]** | Steinruecke M, Mason I, Keen M, McWhirter L, Carson AJ, Stone J, Hoeritzauer I. Pain and functional neurological disorder: a systematic review and meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*. 2024;95(9):874–885. [FND-CIT-0015](../../research/citation-index.md#fnd-cit-0015). [https://doi.org/10.1136/jnnp-2023-332810](https://doi.org/10.1136/jnnp-2023-332810) |
+| <a id="citation-6"></a>**[6]** | Stone J, Coebergh J, Khoja L, Butler M, Nicholson TR, Dodick DW. Migraine and functional neurological disorder (FND)—a review of comorbidity and potential overlap. *Brain Communications*. 2025;7(4):fcaf288. [FND-CIT-0049](../../research/citation-index.md#fnd-cit-0049). [https://doi.org/10.1093/braincomms/fcaf288](https://doi.org/10.1093/braincomms/fcaf288) |
+| <a id="citation-7"></a>**[7]** | Paredes-Echeverri S, Maggio J, Bègue I, Pick S, Nicholson TR, Perez DL. Autonomic, endocrine, and inflammation profiles in functional neurological disorder: a systematic review and meta-analysis. *Journal of Neuropsychiatry and Clinical Neurosciences*. 2022;34(1):30–43. [FND-CIT-0064](../../research/citation-index.md#fnd-cit-0064). [https://doi.org/10.1176/appi.neuropsych.21010025](https://doi.org/10.1176/appi.neuropsych.21010025) |
 
 *Human-authored revision: October 19, 2026 · Evidence and editorial audits completed: October 20, 2026 · Clinical review pending*

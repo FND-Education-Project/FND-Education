@@ -1,5 +1,5 @@
 <!-- NAV-BREADCRUMB:START -->
-[Home](../../../README.md) › [Course](../../README.md) › Part One: Understanding FND › [Module 2: How FND Is Diagnosed](README.md) › **Positive Signs and the Neurological Examination**
+[Home](../../README.md) › [Course](../README.md) › Part One: Understanding FND › [Module 2: How FND Is Diagnosed](README.md) › **Positive Signs and the Neurological Examination**
 <!-- NAV-BREADCRUMB:END -->
 
 # Positive Signs and the Neurological Examination
@@ -20,7 +20,7 @@ FND should not be diagnosed simply because a scan was normal or because no other
 ## For the Person With FND
 {: #for-the-person-with-fnd .shareable }
 
-The word **positive** has a special meaning here. It means the clinician has noticed a pattern that supports an FND diagnosis. You may also hear this called a **[rule-in sign](../../../glossary/README.md#positive-diagnosis--rule-in-diagnosis)**.
+The word **positive** has a special meaning here. It means the clinician has noticed a pattern that supports an FND diagnosis. You may also hear this called a **[rule-in sign](../../glossary/README.md#positive-diagnosis--rule-in-diagnosis)**.
 
 A neurological examination looks at how your body works in several situations. For example, a clinician may first ask you to make a movement on purpose. Then they may see what happens when the same muscles move more automatically, when your attention is on another task, or when you copy a rhythm.
 
@@ -32,7 +32,7 @@ These changes give useful information. They can show that your nervous system ca
 
 <figure class="image-60center" markdown="1">
 
-![Three scenes: a clinician observes a woman’s hand tremor, watches her reach for a bottle, and discusses the different movements with her.](../../../assets/images/lesson-5-illustration.png)
+![Three scenes: a clinician observes a woman’s hand tremor, watches her reach for a bottle, and discusses the different movements with her.](../../assets/images/lesson-5-illustration.png)
 
 <figcaption>Movement can change with the task. The clinician considers the pattern across the examination and explains what it may show.</figcaption>
 
@@ -44,7 +44,7 @@ These changes give useful information. They can show that your nervous system ca
 
 Stronger automatic pressure can show movement ability that is harder to access on purpose. The clinician interprets this finding alongside the rest of the assessment. (*citations* [1](#citation-1), [4](#citation-4))
 
-**[Distractibility](../../../glossary/README.md#distractibility)** means that a movement symptom changes while your attention is on another task.
+**[Distractibility](../../glossary/README.md#distractibility)** means that a movement symptom changes while your attention is on another task.
 
 > “The tremor stops when I think about my answer and speak it.”
 
@@ -56,17 +56,17 @@ Stronger automatic pressure can show movement ability that is harder to access o
 
 These accounts illustrate personal responses to a task or attention shift. A clinician uses a structured examination to assess their diagnostic meaning.
 
-**[Entrainment](../../../glossary/README.md#entrainment)** is a specific tremor sign. You make a rhythm with another hand or foot, and the tremor changes to match that rhythm. Other changes—such as the tremor pausing or becoming smaller—may also be useful observations. The clinician looks for a pattern that is clear and can be repeated. (*citation* [5](#citation-5))
+**[Entrainment](../../glossary/README.md#entrainment)** is a specific tremor sign. You make a rhythm with another hand or foot, and the tremor changes to match that rhythm. Other changes—such as the tremor pausing or becoming smaller—may also be useful observations. The clinician looks for a pattern that is clear and can be repeated. (*citation* [5](#citation-5))
 
 **The principle is the same across FND: the evidence needs to fit the symptom.** The assessment may look different for speech, vision, sensation, memory or episodes such as functional seizures. Each calls for its own explanation. (*citations* [1](#citation-1), [2](#citation-2))
 
-For [speech and voice symptoms](../../../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md), a clinician may compare conversation with other speaking tasks. They look at what changes and whether the whole pattern supports a functional explanation. For [functional tic-like symptoms](../../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md), the history of how movements or sounds began and developed helps the clinician interpret what they observe. Changes with attention can occur in both functional tic-like symptoms and other tic disorders, so that feature needs context. (*citations* [2](#citation-2), [8](#citation-8))
+For [speech and voice symptoms](../../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md), a clinician may compare conversation with other speaking tasks. They look at what changes and whether the whole pattern supports a functional explanation. For [functional tic-like symptoms](../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md), the history of how movements or sounds began and developed helps the clinician interpret what they observe. Changes with attention can occur in both functional tic-like symptoms and other tic disorders, so that feature needs context. (*citations* [2](#citation-2), [8](#citation-8))
 
 These examples teach an important distinction: **a positive diagnosis comes from a meaningful pattern, rather than simply noticing that a symptom varies.** The useful findings and the strength of evidence supporting them differ by symptom.
 
 ### What a positive sign can tell you
 
-A positive finding can help your clinician explain why a functional diagnosis fits your symptoms. In [functional cognitive disorder (FCD)](../../../reference/diagnostic-signs/12-functional-cognitive-disorder.md), this concerns difficulties with abilities such as memory or attention. A clinician may find that the same ability is more available in one situation than another, after considering the demands of each task and other possible explanations. This pattern is called **internal inconsistency**. (*citation* [7](#citation-7))
+A positive finding can help your clinician explain why a functional diagnosis fits your symptoms. In [functional cognitive disorder (FCD)](../../reference/diagnostic-signs/12-functional-cognitive-disorder.md), this concerns difficulties with abilities such as memory or attention. A clinician may find that the same ability is more available in one situation than another, after considering the demands of each task and other possible explanations. This pattern is called **internal inconsistency**. (*citation* [7](#citation-7))
 
 For example, remembering details during conversation may be easier than recalling them when deliberately trying. Your clinician considers how this fits the wider assessment; an ordinary lapse or a good test score alone does not establish FCD. The difficulties are real, and understanding the pattern can help you and your care team discuss support. (*citation* [7](#citation-7))
 
@@ -111,7 +111,7 @@ Choose a crossword below. Normal and easy editions are fillable PDFs; the easy e
 
 #### Colouring page
 
-Choose the preview to open the printable colouring PDF. Use landscape orientation and fit to page when printing. You can also browse the [puzzles collection](../../../assets/puzzles/README.md).
+Choose the preview to open the printable colouring PDF. Use landscape orientation and fit to page when printing. You can also browse the [puzzles collection](../../assets/puzzles/README.md).
 
 <div class="puzzle-grid puzzle-grid-colouring">
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-5-coloring-book.pdf' | relative_url }}">
@@ -228,7 +228,7 @@ A respectfully demonstrated sign can do more than support the diagnosis. It can 
 
 Possible starting points include changing attentional focus, rhythm, automatic movement, or the task context. Keep the demonstration collaborative and explain what the change may offer treatment. (*citation* [6](#citation-6))
 
-Assess how that ability translates into safe, repeatable and sustainable daily activities, including fatigue, recovery time and support needs. The Reference page on [Assessment and Everyday Function](../../../reference/diagnostic-concepts/10-assessment-and-everyday-function.md) develops this distinction.
+Assess how that ability translates into safe, repeatable and sustainable daily activities, including fatigue, recovery time and support needs. The Reference page on [Assessment and Everyday Function](../../reference/diagnostic-concepts/10-assessment-and-everyday-function.md) develops this distinction.
 
 ### Know when to revisit the formulation
 
@@ -238,11 +238,11 @@ FND can coexist with another neurological or medical condition. Continued care s
 
 ### A reminder for deeper clinical reading
 
-The Reference Library provides fuller examination methods, interpretation and evidence limits. For this lesson, start with [Hoover’s Sign](../../../reference/diagnostic-signs/functional_limb_weakness/01-hoovers-sign.md) and [Entrainment in Functional Tremor](../../../reference/diagnostic-signs/functional_tremor/02-entrainment.md). The [Diagnostic Signs collection](../../../reference/diagnostic-signs/README.md) organizes the wider material by symptom.
+The Reference Library provides fuller examination methods, interpretation and evidence limits. For this lesson, start with [Hoover’s Sign](../../reference/diagnostic-signs/functional_limb_weakness/01-hoovers-sign.md) and [Entrainment in Functional Tremor](../../reference/diagnostic-signs/functional_tremor/02-entrainment.md). The [Diagnostic Signs collection](../../reference/diagnostic-signs/README.md) organizes the wider material by symptom.
 
 Older papers often use terms such as *psychogenic*, *hysteria* or *conversion disorder*. Reading them in their historical context helps retain useful observations while interpreting their explanations through current evidence. Today’s approach emphasizes positive clinical features, genuinely experienced symptoms and an individual assessment of contributing factors; a psychological stressor is not required for diagnosis. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
-Some older labels remain in newer papers and diagnostic systems, so consider each paper’s definitions, methods and claims alongside its date. [A Brief History of FND](../../../reference/history-of-fnd.md) explains this development and why 2013 is a useful diagnostic landmark rather than a cut-off for valuable research.
+Some older labels remain in newer papers and diagnostic systems, so consider each paper’s definitions, methods and claims alongside its date. [A Brief History of FND](../../reference/history-of-fnd.md) explains this development and why 2013 is a useful diagnostic landmark rather than a cut-off for valuable research.
 
 ---
 
@@ -256,7 +256,7 @@ Some older labels remain in newer papers and diagnostic systems, so consider eac
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Next page: Tests, Diagnostic Uncertainty, and Coexisting Conditions](02-tests-diagnostic-uncertainty-and-coexisting-conditions.md)
 
-**Navigate:** [Home](../../../README.md) · [Course](../../README.md) · [Reference Library](../../../reference/README.md) · [Site Map](../../../SITEMAP.md)
+**Navigate:** [Home](../../README.md) · [Course](../README.md) · [Reference Library](../../reference/README.md) · [Site Map](../../SITEMAP.md)
 <!-- NAV-CONTEXT:END -->
 
 ---
@@ -272,14 +272,14 @@ Bennett and Espay are clinical reviews that support an inclusionary, positive di
 
 | Citation | Figure | Full citation | Supports |
 |---|---|---|---|
-| <a id="citation-1"></a>**[1]** | Figure 1 | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) | Positive diagnosis, explanation, coexistence and reassessment. |
-| <a id="citation-2"></a>**[2]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) | Phenotype-appropriate diagnosis and interpretation; historical diagnostic changes. |
-| <a id="citation-3"></a>**[3]** | — | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) | Genuinely experienced symptoms, variability and developing mechanisms. |
-| <a id="citation-4"></a>**[4]** | — | Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functional motor weakness: a review of validated techniques. *Journal of Neurology*. 2025;272(6):427. [DOI](https://doi.org/10.1007/s00415-025-13139-4). [PMID: 40423819](https://pubmed.ncbi.nlm.nih.gov/40423819/). [FND-CIT-0183](../../../research/citation-index.md#fnd-cit-0183). | Hoover’s sign technique, suitability and confounders. |
-| <a id="citation-5"></a>**[5]** | — | Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. [https://doi.org/10.1016/j.cnp.2023.12.006](https://doi.org/10.1016/j.cnp.2023.12.006) [FND-CIT-0022](../../../research/citation-index.md#fnd-cit-0022). | Specialist tremor assessment: entrainment, suppression and variability. |
-| <a id="citation-6"></a>**[6]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) [FND-CIT-0028](../../../research/citation-index.md#fnd-cit-0028). | Physiotherapy consensus: explanation and individualized motor retraining. |
-| <a id="citation-7"></a>**[7]** | — | Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia’s blind spot. *Brain*. 2020;143(10):2895–2903. [FND-CIT-0071](../../../research/citation-index.md#fnd-cit-0071). [DOI](https://doi.org/10.1093/brain/awaa224). | Positive FCD formulation, internal inconsistency and consideration of alternative explanations. |
-| <a id="citation-8"></a>**[8]** | — | Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../../research/citation-index.md#fnd-cit-0110). [DOI](https://doi.org/10.3390/jcm11216470). | History and overall clinical pattern in tic assessment; attention-related changes can occur in functional and primary tic disorders. |
+| <a id="citation-1"></a>**[1]** | Figure 1 | Bennett K, Diamond C, Hoeritzauer I, Gardiner P, McWhirter L, Carson A, Stone J. A practical review of functional neurological disorder (FND) for the general physician. *Clinical Medicine*. 2021;21(1):28–36. [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). [https://doi.org/10.7861/clinmed.2020-0987](https://doi.org/10.7861/clinmed.2020-0987) | Positive diagnosis, explanation, coexistence and reassessment. |
+| <a id="citation-2"></a>**[2]** | — | Espay AJ, Aybek S, Carson A, et al. Current concepts in diagnosis and treatment of functional neurological disorders. *JAMA Neurology*. 2018;75(9):1132–1141. [FND-CIT-0002](../../research/citation-index.md#fnd-cit-0002). [https://doi.org/10.1001/jamaneurol.2018.1264](https://doi.org/10.1001/jamaneurol.2018.1264) | Phenotype-appropriate diagnosis and interpretation; historical diagnostic changes. |
+| <a id="citation-3"></a>**[3]** | — | Hallett M, Aybek S, Dworetzky BA, McWhirter L, Staab JP, Stone J. Functional neurological disorder: new subtypes and shared mechanisms. *The Lancet Neurology*. 2022;21(6):537–550. [FND-CIT-0003](../../research/citation-index.md#fnd-cit-0003). [https://doi.org/10.1016/S1474-4422(21)00422-1](https://doi.org/10.1016/S1474-4422(21)00422-1) | Genuinely experienced symptoms, variability and developing mechanisms. |
+| <a id="citation-4"></a>**[4]** | — | Dolbow J, El-Azzouni S, Zhang Y, Geiger C. A practical guide to assessing functional motor weakness: a review of validated techniques. *Journal of Neurology*. 2025;272(6):427. [DOI](https://doi.org/10.1007/s00415-025-13139-4). [PMID: 40423819](https://pubmed.ncbi.nlm.nih.gov/40423819/). [FND-CIT-0183](../../research/citation-index.md#fnd-cit-0183). | Hoover’s sign technique, suitability and confounders. |
+| <a id="citation-5"></a>**[5]** | — | Edwards MJ, Koens LH, Liepert J, Nonnekes J, Schwingenschuh P, van de Stouwe AMM, Morgante F. Clinical neurophysiology of functional motor disorders: IFCN Handbook Chapter. *Clinical Neurophysiology Practice*. 2024;9:69–77. [https://doi.org/10.1016/j.cnp.2023.12.006](https://doi.org/10.1016/j.cnp.2023.12.006) [FND-CIT-0022](../../research/citation-index.md#fnd-cit-0022). | Specialist tremor assessment: entrainment, suppression and variability. |
+| <a id="citation-6"></a>**[6]** | — | Nielsen G, Stone J, Matthews A, et al. Physiotherapy for functional motor disorders: a consensus recommendation. *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86(10):1113–1119. [https://doi.org/10.1136/jnnp-2014-309255](https://doi.org/10.1136/jnnp-2014-309255) [FND-CIT-0028](../../research/citation-index.md#fnd-cit-0028). | Physiotherapy consensus: explanation and individualized motor retraining. |
+| <a id="citation-7"></a>**[7]** | — | Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia’s blind spot. *Brain*. 2020;143(10):2895–2903. [FND-CIT-0071](../../research/citation-index.md#fnd-cit-0071). [DOI](https://doi.org/10.1093/brain/awaa224). | Positive FCD formulation, internal inconsistency and consideration of alternative explanations. |
+| <a id="citation-8"></a>**[8]** | — | Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110). [DOI](https://doi.org/10.3390/jcm11216470). | History and overall clinical pattern in tic assessment; attention-related changes can occur in functional and primary tic disorders. |
 
 This page still needs review by people with FND, supporters and clinicians, including a clinician experienced in neurological diagnosis.
 
