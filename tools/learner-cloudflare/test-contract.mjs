@@ -177,7 +177,7 @@ test("legacy lesson allowlist includes m4-2 but excludes new concepts slots", ()
 test("manifest v2 leaves new lessons read-only and keeps earlier edition", () => {
   assert.match(courseScript, /\[1, 2\]\.includes\(manifest\.version\)/);
   assert.match(courseScript, /manifest\.earlierModules/);
-  assert.match(courseScript, /lesson\.progressEligible === false/);
+  assert.match(courseScript, /lesson\.progressEligible !== false/);
   assert.match(courseScript, /lesson\.id !== null/);
   assert.match(courseScript, /current && current\.progressEligible/);
   assert.match(courseScript, /!lesson\.progressEligible \|\| !known\.has\(lesson\.id\)/);
