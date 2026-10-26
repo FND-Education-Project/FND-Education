@@ -88,3 +88,26 @@ The architecture review inspected #154 read-only without merging or changing tha
 ## Follow-up requested by Robert — remaining lesson research
 
 On October 26 Robert requested researched material for the remaining new lessons for Chat to develop. The [15 research briefs and source register](new-lessons-research-2026-10-26/README.md) now populate proposed Lessons 16–30. This supersedes the earlier decision to leave remaining lesson bodies unpopulated: substantial internal foundations and audience-specific teaching seeds are now available, while final public prose, human editing and clinical/citation review remain pending. The Lesson 15 Person draft is unchanged. Public migration and account changes remain outside this work.
+
+## Person sections drafted (October 26, 2026)
+
+The project lead requested complete **Person with FND sections only** for *all new Modules 6–10*, with the Supporter and Clinician directions explicitly left undecided. The following five internal editorial files now contain the **16 planned lessons 15–30**:
+
+| Proposed module | Person draft | Lessons |
+|---|---|---|
+| 6 — Attention and Automatic Control | [Read draft](person-drafts-2026-10-26/module-06-attention-and-automatic-control.md) | 15–17 |
+| 7 — Prediction, Body Signals, and Agency | [Read draft](person-drafts-2026-10-26/module-07-prediction-interoception-and-agency.md) | 18–21 |
+| 8 — Recognizing Symptoms and Finding Information | [Read draft](person-drafts-2026-10-26/module-08-recognizing-symptoms-and-finding-information.md) | 22–24 |
+| 9 — Rehabilitation and Neuroplasticity | [Read draft](person-drafts-2026-10-26/module-09-rehabilitation-and-neuroplasticity.md) | 25–27 |
+| 10 — Pacing, Activity, and Available Capacity | [Read draft](person-drafts-2026-10-26/module-10-pacing-and-available-capacity.md) | 28–30 |
+
+Each lesson has a full opening scene, an explanation of the concept, its relevance and limitations, a reflective question and one small optional step. The drafts use everyday examples and deliberately **do not assert a universal FND mechanism or substitute symptom matching for diagnosis**. No Supporter or Clinician subsections have been added.
+
+**Community quote candidates:** Eight quotations are embedded selectively (one in M6, none in M7, one in M8, four in M9, two in M10). They came from [the internal community quote source notebook](../recovery-techniques/community-experience-quotes.md) and existing source-linked course material; direct public forum wording and context **have not been independently verified for this drafting pass**. Work must inspect the original linked posts/comments and authors/context; recheck wording after truncation, de-identification, appropriateness and possible quote duplication before approving any for publication. In particular, the two rehabilitation reports linked to the same Reddit thread must not be treated as independent study evidence; their authorship should be verified before retaining “another person” wording. Prefer omission over a forced quote. Do not use any account as evidence of treatment effectiveness or a causal mechanism.
+
+**Work's next content review** (before Supporter/Clinician writing):
+1. Review all 16 Person drafts with the project lead for voice, pacing, depth, illustrations and whether the optional steps truly promote independent reasoning.
+2. Verify factual claims, safety and research; map substantive claims to full source tables with appropriate and precise citation IDs, including POTS/heart/breathing and ME/CFS post-exertional worsening distinctions.
+3. Audit referenced terminology against the Glossary and Reference Library; validate every link when moving drafts to live pages.
+4. Identify missing concepts or uneven treatment (e.g., prediction research vs established neuroscience; rhythm/external-focus boundaries; diagnostic differential vs everyday observation).
+5. **Keep** this PR documentation-only and draft. Do not replace the live Course lessons or renumber user progress before a separate agreed migration and clean build.
