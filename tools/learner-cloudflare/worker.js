@@ -123,9 +123,13 @@ function safeReturnPath(raw) {
   }
   return raw;
 }
-// Match currently published focused lessons. Update with the curriculum.
+// Original course identities are immutable, even after the concepts-first
+// publication rearranges reading order. Module 4 has TWO original lessons.
+// The new /course/v2/m6..m10/ teaching uses reserved source slots 24..28
+// and is deliberately NOT authorized for learner progress here. Changes to
+// this allowlist require a separately reviewed client/manifest/API contract.
 const LESSON_COUNTS = [
-  4, 2, 3, 1, 3, 4, 5, 4, 4, 3, 5, 3,
+  4, 2, 3, 2, 3, 4, 5, 4, 4, 3, 5, 3,
   3, 3, 3, 3, 4, 3, 3, 3, 3, 3, 2
 ];
 function validLesson(id) {
