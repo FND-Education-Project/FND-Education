@@ -2499,7 +2499,7 @@ def write_course_progress_manifest(pages: list[CoursePage]) -> None:
     """
     source = COURSE_ROOT / "README.md"
     headings = re.findall(
-        r"^## Part (One|Two|Three|Four|Five|Six):\\s*(.+?)\\s*$",
+        r"^## Part (One|Two|Three|Four|Five|Six):\s*(.+?)\s*$",
         source.read_text(encoding="utf-8"),
         re.MULTILINE,
     )
@@ -2536,7 +2536,7 @@ def write_course_progress_manifest(pages: list[CoursePage]) -> None:
             item: dict[str, object] = {
                 "number": display_module,
                 "sourceModule": page.module_number,
-                "title": re.sub(r"^Module \\d+\\s*[—–:-]\\s*", "", title),
+                "title": re.sub(r"^Module \d+\s*[—–:-]\s*", "", title),
                 "url": page.public_url,
                 "lessons": [],
             }
@@ -2594,7 +2594,7 @@ def write_course_progress_manifest(pages: list[CoursePage]) -> None:
             "parts": list(parts.values()),
             "earlierModules": earlier_modules,
             "eligibleLessonCount": eligible_count,
-        }, ensure_ascii=False, indent=2) + "\\n",
+        }, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
 
