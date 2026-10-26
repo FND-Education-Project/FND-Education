@@ -197,5 +197,5 @@ test("sign-in return paths preserve new reading URLs without open redirects", ()
     "/course/v2/m6/1/?redirect=https://evil.example"]) {
     assert.equal(safeReturnPath(rejected), "/course/");
   }
-  assert.match(accountScript, /v2\\/m\\\(\?:6\\\|7\\\|8\\\|9\\\|10\\\)/);
+  assert.ok(accountScript.includes(String.raw`v2\/m(?:6|7|8|9|10)`));
 });
