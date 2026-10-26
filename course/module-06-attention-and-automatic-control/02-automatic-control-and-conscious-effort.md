@@ -16,101 +16,135 @@ Lesson 16 explores automatic Control and Conscious Effort through everyday examp
 
 ## For the Person With FND
 
-### When your hands know the way
+### When your hand knows the way
 
 Imagine signing your name on a birthday card.
 
-For many people, the pen seems to know where to go. You think about writing your name, and your hand takes care of a lot of the little movements.
+For many people, the pen seems to know where to go. You think about writing your name, and your hand takes care of lots of little movements.
 
-Now imagine somebody standing beside you, asking questions as you write.
+Now imagine someone asking questions while you write.
 
 "Which finger moves first? What does your wrist do? How hard are you pressing?"
 
-Suddenly, signing your name sounds like a complicated job!
+Suddenly, signing your name sounds like quite a job!
 
-This is one way to picture **[automatic control](../../glossary/README.md#automatic-and-task-oriented-movement)**. Your brain has learned how to put parts of a familiar action together. You can focus on what you're doing while much of the coordination happens in the background.
+This is one way to picture **[automatic control](../../glossary/README.md#automatic-and-task-oriented-movement)**. Your brain has learned to put parts of a familiar action together. You focus on what you want to do while much of the coordination happens behind the scenes.
 
-It's a bit like having a well-practised team working behind the scenes.
+### So, is this still about attention?
 
-### When thinking about every move changes things
+Yes, but we're looking at a different part of the story.
 
-Think back to learning something for the first time. Maybe it was using a computer mouse, tying a knot, or playing a few notes on an instrument.
+In the last lesson, attention was like a spotlight: it helped decide what stood out to you.
 
-At first, each little step needed your attention.
+This lesson is about the work your nervous system can do *without keeping every little movement in that spotlight*.
 
-With practice, some actions begin to flow more smoothly. Your brain still does plenty of work. You simply have less need to direct every part of the movement.
+When you sign your name, your brain prepares the action and sends instructions to your muscles. It also uses information from your eyes and body to make tiny adjustments as you go.
 
-Sometimes, paying close attention to an action that usually flows on its own can make it feel awkward.
+You experience this as writing your name, rather than a long list of commands to your fingers.
 
-That's a familiar experience for many people. With some **functional movement symptoms**, changes in attention and how a task is approached can also affect movement itself. Researchers and clinicians are interested in those differences because they may offer clues about how to support rehabilitation. (*citations* [1](#citation-1), [2](#citation-2))
+**Attention helps guide the goal. Automatic control helps carry out a familiar action.** They work together. (*citation* [6](#citation-6))
 
-### What might this look like with FND?
+### How does a movement become automatic?
 
-Picture someone with functional weakness in an arm.
+Think about learning something new, such as tying a knot.
 
-During an appointment, the clinician asks them to lift that arm. The movement is difficult.
+At first, you may need to stop and remember which end goes where. Every step deserves its own little moment of attention.
 
-Later, while getting dressed, the same arm might help a little as the person works their sleeve into place. The action has a purpose: getting dressed.
+After practice, the action may start to flow. Your brain has learned a pattern it can use again.
 
-That small difference could be useful information for a clinician. It might help them explore how the person moves during a meaningful activity.
+This process is called **motor learning**. It involves networks across the brain, including areas that help plan movements, coordinate their timing, and adjust what happens next. (*citation* [6](#citation-6))
 
-And getting a sleeve on still takes work. The person may need help, more time, or a different way of dressing.
+Automatic movement still needs a working nervous system. It can also change with pain, fatigue, the task, and the situation.
+
+And the brain can move between more conscious and more automatic control. Imagine picking up a mug. Much of that action may feel natural. If the mug starts to slip, your attention jumps in and you adjust your grip.
+
+Both ways of working have a purpose.
+
+### Where does FND fit?
+
+Remember the walking example from Lesson 15?
+
+Someone hears footsteps behind them. They begin wondering whether they're walking strangely or slowing another person down.
+
+Now their attention is caught up in how each step looks.
+
+For some people with a **functional gait difficulty**, close attention to movement can happen alongside changes in how well the action flows. For others, the relationship is different.
+
+Researchers are investigating whether attention, movement planning, and the sense of control over an action work differently in some forms of FND. These are useful ideas for study and rehabilitation—not a proven explanation for every person's symptoms. (*citations* [1](#citation-1), [2](#citation-2))
+
+**The movement difficulty remains involuntary.** Finding a different way to approach an action is an opportunity to help, rather than a test of effort or willpower.
+
+### A movement that happens once, and a movement you can depend on
+
+Picture someone with **functional weakness** in an arm.
+
+During an appointment, lifting that arm on request is difficult.
+
+Later, while getting dressed, the arm might help a little as the person works a sleeve into place.
+
+The action has a purpose, and the movement happened in a different situation. A clinician may find that difference helpful when assessing functional weakness.
+
+But getting dressed still takes work. The person may need help, more time, or equipment.
 
 **One movement is a snapshot. Daily life is the whole movie.**
 
-A movement that happens in one moment tells us something about what's possible in that situation. Being able to start it again, keep going, and do it safely are separate questions. This matters when symptoms change from day to day. (*citations* [1](#citation-1), [3](#citation-3))
+Being able to move once, being able to start a movement when you need it, and being able to keep going safely are different things.
 
-### Why does trying harder sometimes feel harder?
+A brief movement in a clinic can offer useful information. Reliable movement at home is what the person needs to live their life. (*citations* [1](#citation-1), [3](#citation-3))
 
-Maybe you're concentrating so closely on an action that every part of it starts to demand attention.
-
-Your thoughts might sound like this:
-
-"Where should my hand go? Am I doing this properly?"
-
-It's understandable to pay extra attention when an activity has become difficult or unpredictable.
-
-Sometimes that careful attention helps, especially when learning a new skill. At other times, the activity may flow better when you have a clear goal rather than a separate instruction for each movement.
-
-For a person with FND, the effect depends on their symptoms and the situation. **Difficulty with movement is involuntary, even when an action changes with the task or attention.**
-
-### Working with the goal in rehabilitation
+### How can rehabilitation work with automatic movement?
 
 Imagine someone meeting with a physiotherapist because their arm feels weak.
 
-Rather than practising only the instruction "lift your arm," the therapist might help them take part in a familiar, safe activity, such as moving a light towel onto a nearby surface while seated.
+Instead of practising only the instruction "lift your arm," the therapist might help them move a light towel onto a nearby surface while comfortably seated.
 
-The therapist pays attention to the whole action, provides the support needed, and adjusts the activity to what the person can manage that day.
+The goal gives the movement a purpose. The therapist helps with the parts that are difficult and adjusts the activity to what the person can manage.
 
-This is called **task-oriented movement practice**. It gives the nervous system a useful goal to work toward, with professional guidance. It is one approach used in specialist rehabilitation for some functional movement difficulties. (*citation* [1](#citation-1))
+This is called **task-oriented movement practice**. It is one approach used in specialist rehabilitation for some functional movement difficulties. (*citation* [1](#citation-1))
 
-An **occupational therapist**, or **OT**, might then help the person use a similar approach at home. The focus could be getting dressed with less effort. Perhaps that means a different position, a rest break, or clothing that's easier to manage.
+Later, an **occupational therapist**, or **OT**, might work with the person on getting dressed at home.
 
-The goal is an everyday activity that becomes more usable, comfortable, or reliable. Support and equipment can remain part of the plan. (*citation* [3](#citation-3))
+Perhaps sitting in a different position makes the task easier. Perhaps a clothing aid helps them finish it with less effort.
 
-### What about other FND symptoms?
+An adaptation can support everyday life while rehabilitation continues. The useful result is something the person can do more comfortably, safely, or reliably. (*citation* [3](#citation-3))
 
-Automatic actions go beyond arms and legs.
+### Are other FND symptoms connected?
 
-Think about telling a friend an exciting story. You usually have a message you want to share. Your brain coordinates many parts of speaking as you go.
+Some other functional movement symptoms, such as tremor or certain walking and posturing difficulties, may also vary with how an action is performed. The approach needs to fit the symptom. For example, a painful fixed posture calls for different care from a movement that becomes easier during a familiar task.
 
-For some people with functional speech or voice difficulties, a **speech-language therapist** may explore meaningful conversation rather than asking for the same sound again and again.
+Speech is another interesting example.
 
-The person might practise getting a message across, with the communication supports they need. This approach is chosen with the therapist to fit the person's particular difficulty. (*citation* [4](#citation-4))
+Think about telling a friend an exciting story. You know what you want to say. Your nervous system coordinates many parts of speaking as the words come out.
 
-Other FND symptoms, such as functional seizures or changes in sensation, have their own care needs. A movement practice that suits one person may be quite different from what helps another.
+For some people with functional speech or voice difficulties, a **speech-language therapist** may explore getting a meaningful message across rather than repeating an isolated sound. They can also help the person use another way to communicate when needed. (*citation* [4](#citation-4))
+
+### What about breathing, bladder control, and other automatic body functions?
+
+Here's an important difference.
+
+Breathing usually carries on by itself, even when you're asleep. Yet you can also change your breathing when you speak or sing. It uses several kinds of nervous-system control.
+
+A breathing change during a **functional seizure** raises a different question from a movement becoming easier during therapy. The event needs its own assessment and safety plan. The fact that breathing can happen automatically doesn't tell us why someone holds their breath or seems to stop breathing during an episode. [Read more about functional seizures and breathing safety](../../reference/diagnostic-signs/06-functional-seizures.md).
+
+Bladder control also involves several systems working together. The body senses filling, nerves and muscles help manage storage and emptying, and you can usually choose an appropriate time to use the toilet.
+
+Changes in bladder sensation or emptying deserve a proper medical assessment. A **scan-negative cauda equina presentation** may overlap with functional symptoms, but a negative scan alone doesn't establish FND. [Read about scan-negative cauda equina presentations](../../reference/diagnostic-signs/scan-negative-cauda-equina.md).
+
+Then there's the **autonomic nervous system**. It helps regulate things such as heart rate, sweating, blood pressure, and digestion.
+
+The word *automatic* sounds similar, but autonomic regulation and learned automatic movement are different processes. People with FND can also have autonomic symptoms or separate medical conditions that affect these functions.
+
+We'll look more closely at sensing the body and regulating its functions in later lessons.
 
 ### Finding an approach that fits your life
 
-So, where does this leave us?
+Maybe an activity sometimes goes more easily than expected. Maybe it remains difficult every time.
 
-You may have an activity that sometimes goes more easily than expected. Or perhaps it remains difficult every time.
+Either experience deserves attention and practical support.
 
-Either way, you deserve a plan that works with your current abilities, your safety needs, and what matters to you.
+Sometimes rehabilitation means working toward a movement with a therapist. Sometimes it means finding a better way to do an everyday job.
 
-Sometimes progress means practising a movement with a therapist. Sometimes it means changing how an everyday job gets done.
-
-**The important question becomes: "What am I trying to do, and what might help me do it?"**
+**The useful question is: "What am I trying to do, and what might help me do it?"**
 
 ### Something to think about
 
@@ -128,9 +162,9 @@ Think about the goal—getting the objects where they belong—rather than givin
 
 Keep your usual supports. Try it only for as long as it feels comfortable, and rest when you need to.
 
-If movement brings a risk of falling or injury, you can describe the activity to your physiotherapist or occupational therapist instead. They can help you explore a safe version together.
+If an activity brings a risk of falling or injury, you can describe it to your physiotherapist or occupational therapist instead. They can help you explore a safe version together.
 
-Next, we'll look more closely at how a change in focus, instructions, or surroundings can affect what happens during an activity.
+Next, we'll look more closely at how changing the focus, instructions, or surroundings may affect what happens during an activity.
 
 
 ***
@@ -218,5 +252,6 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
 | <a id="citation-4"></a>**[4]** | — | Baker J, Barnett C, Cavalli L, et al. **Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.** JNNP. 2021;92:1112–1125. doi:10.1136/jnnp-2021-326767. [Original](https://jnnp.bmj.com/content/92/10/1112) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/34210802/). [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
 | <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1kchl1l/comment/mq4vaud/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0309](../../research/citation-index.md#fnd-cit-0309). |
+| <a id="citation-6"></a>**[6]** | — | Dayan E, Cohen LG. **Neuroplasticity subserving motor skill learning.** *Neuron*. 2011;72:443–454. doi:10.1016/j.neuron.2011.10.008. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC3217208/). [FND-CIT-0306](../../research/citation-index.md#fnd-cit-0306). |
 
 *Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
