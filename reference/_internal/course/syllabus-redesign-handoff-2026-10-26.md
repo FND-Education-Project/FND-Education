@@ -114,7 +114,7 @@ Each lesson has a full opening scene, an explanation of the concept, its relevan
 
 ## Clinician sections drafted — October 26, 2026
 
-Following the Person drafts, the project lead requested **Clinician content across every proposed lesson, Lessons 15–30**, while leaving Supporter lesson direction open for later. Five complete internal [clinician drafting files and their coverage index](clinician-drafts-2026-10-26/README.md) have been added:
+Following the Person drafts, the project lead requested **Clinician content across every proposed lesson, Lessons 15–30**. The broad later Supporter direction is to **work collaboratively with the person on adaptations arising from each lesson**; the detailed Supporter sections are reserved for a separate drafting pass. Five complete internal [clinician drafting files and their coverage index](clinician-drafts-2026-10-26/README.md) have been added:
 
 - [Module 6: Lessons 15–17](clinician-drafts-2026-10-26/module-06-attention-and-automatic-control.md)
 - [Module 7: Lessons 18–21](clinician-drafts-2026-10-26/module-07-prediction-interoception-and-agency.md)
@@ -128,4 +128,4 @@ Following the Person drafts, the project lead requested **Clinician content acro
 
 **Not done:** No changes to live course pages, lesson numbering, existing links, D1 progress records, puzzles, or Supporter sections. Draft PR remains a planning/editing surface. Do not merge a public rollout until migration and build checks are complete.
 
-**Editorial directions for the next pass:** Preserve the 16 Person drafts, refine the Clinician writing for a clear professional voice, identify overreach or duplicate material, and then separately decide how Supporter sections teach collaboration and adaptation without making supporters substitute therapists.
+**Editorial directions for the next pass:** Preserve the 16 Person drafts, refine the Clinician writing for a clear professional voice, identify overreach or duplicate material, and then develop the separately planned Supporter sections around collaborative, consent-based adaptation, without turning supporters into therapists.
