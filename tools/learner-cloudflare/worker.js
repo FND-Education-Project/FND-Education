@@ -118,24 +118,24 @@ function err(req, env, status, message) {
 export function safeReturnPath(raw) {
   if (typeof raw !== "string" || raw.length > 200 ||
       raw.includes("\\") || raw.includes("//") ||
-      !/^\/(?:$|course\/(?:$|m[1-9][0-9]*\/(?:[1-9][0-9]*\/)?|v2\/m(?:6|7|8|9|10)\/(?:[1-9][0-9]*\/)?))$/.test(raw)) {
+      !/^\/(?:$|course\/(?:$|m(?:[1-9]|1[0-9])\/(?:[1-9][0-9]*\/)?))$/.test(raw)) {
     return "/course/";
   }
   return raw;
 }
-// Original course identities are immutable, even after the concepts-first
-// publication rearranges reading order. Module 4 has TWO original lessons.
-// The new /course/v2/m6..m10/ teaching uses reserved source slots 24..28
-// and is deliberately NOT authorized for learner progress here. Changes to
-// this allowlist require a separately reviewed client/manifest/API contract.
+// Canonical curriculum (19 sequential modules; 57 focused lessons).
+// The learner website is still in private testing. Old mN-K checkmarks from
+// the superseded test syllabus MUST be cleared explicitly before publishing
+// this changed allowlist, because IDs such as m6-1 now have new meanings.
 const LESSON_COUNTS = [
-  4, 2, 3, 2, 3, 4, 5, 4, 4, 3, 5, 3,
-  3, 3, 3, 3, 4, 3, 3, 3, 3, 3, 2
+  4, 2, 3, 2, 3, 3, 4, 3, 3, 3,
+  3, 3, 4, 3, 3, 3, 3, 3, 2
 ];
 function validLesson(id) {
-  const match = /^m([1-9]|1[0-9]|2[0-3])-([1-9][0-9]?)$/.exec(id || "");
+  const match = /^m([1-9]|1[0-9])-([1-9][0-9]?)$/.exec(id || "");
   if (!match) return false;
-  return Number(match[2]) <= LESSON_COUNTS[Number(match[1]) - 1];
+  const moduleNumber = Number(match[1]);
+  return Number(match[2]) <= LESSON_COUNTS[moduleNumber - 1];
 }
 async function jsonInput(req) {
   if (!(req.headers.get("Content-Type") || "").startsWith("application/json") ||
