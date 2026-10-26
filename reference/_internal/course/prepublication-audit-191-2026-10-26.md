@@ -1,3 +1,5 @@
+> **Course structure superseded by the owner's October 26 decision:** After this publication audit, the project lead explicitly approved removing the prior edition rather than preserving it. The merged candidate now contains **one canonical course (19 modules / 57 lessons)** under `course/module-01-…` through `course/module-19-…`, with the superseded 34 lessons and nine module overviews removed. The former `/course/v2/` namespace and identity-preservation discussion below are historical audit context, not current launch requirements. The current version passed final-head build [#40369259579](https://github.com/FND-Education-Project/FND-Education/actions/runs/40369259579). Account-system progress data remains test-only and must be reset separately before the changed learner contract is enabled.
+
 # PR #191 — publication-readiness audit
 
 **Date:** October 26, 2026 (America/Vancouver). **Draft baseline:** `05f610ae735d25e01d29b367114b69e4a854e93a`. **Main baseline:** `e1d9f85521561fc427a5795f088c7996ce1924b8`.
