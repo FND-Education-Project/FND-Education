@@ -5,7 +5,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
-import worker from "./worker.js";
+import worker, { safeReturnPath } from "./worker.js";
 
 const site = "https://fndeducationproject.org";
 const api = "https://accounts.fndeducationproject.org";
@@ -183,4 +183,19 @@ test("manifest v2 leaves new lessons read-only and keeps earlier edition", () =>
   assert.match(courseScript, /!lesson\.progressEligible \|\| !known\.has\(lesson\.id\)/);
   assert.match(courseScript, /Earlier-edition reading/);
   assert.match(courseScript, /identity\.get\(state\.lastLesson\)/);
+});
+
+test("sign-in return paths preserve new reading URLs without open redirects", () => {
+  for (const allowed of ["/", "/course/", "/course/m4/2/",
+    "/course/m6/1/", "/course/v2/m6/", "/course/v2/m6/1/",
+    "/course/v2/m10/3/"]) {
+    assert.equal(safeReturnPath(allowed), allowed);
+  }
+  for (const rejected of ["https://evil.example/", "//evil.example",
+    "/course/../admin", "/course/v2/m11/1/", "/course/v2/m6/0/",
+    "/course/v2/m6/1//", "/course/v2/%2Fadmin/", "/account",
+    "/course/v2/m6/1/?redirect=https://evil.example"]) {
+    assert.equal(safeReturnPath(rejected), "/course/");
+  }
+  assert.match(accountScript, /v2\\/m\\\(\?:6\\\|7\\\|8\\\|9\\\|10\\\)/);
 });
