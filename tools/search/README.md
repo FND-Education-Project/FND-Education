@@ -23,6 +23,8 @@ belongs to the functional-limb-weakness subject.
 
 Likewise, a route containing `/diagnosis/` inherits the FND-diagnosis context, and a route containing `/recovery/` inherits the FND-recovery context.
 
+The canonical course also has stable structural mappings. After the October 2026 curriculum revision, the 19 module routes `/course/m1/` through `/course/m19/` inherit one high-confidence module subject. Focused lesson rules are used only where the course introduces a distinct mechanism that deserves its own search concept, such as interoception/proprioception or salience/arousal. These structural mappings are updated when the curriculum is deliberately reorganized; removed modules do not remain searchable because Pagefind indexes only the finished current site.
+
 Those relationships are stored in:
 
 ```text
@@ -247,11 +249,13 @@ For now, GitHub Pages CI runs the classifier in:
 
 That means normal CI:
 
-- recalculates deterministic structural subjects,
+- recalculates deterministic Reference and Course structural subjects,
 - detects new unmapped Reference folders,
 - applies valid committed AI classifications,
 - does not download the embedding model,
 - and does not make new AI classification decisions.
+
+The committed v3 cache may be empty while this review process is still active. In that state, Pagefind lexical search and deterministic structural metadata remain fully functional, but AI-added supplementary subjects are absent until a reviewed local classifier run is committed.
 
 After the new cache is reviewed, the Actions workflow can be changed to reassess only new or changed pages and persist reviewed cache updates.
 
