@@ -111,3 +111,21 @@ Each lesson has a full opening scene, an explanation of the concept, its relevan
 3. Audit referenced terminology against the Glossary and Reference Library; validate every link when moving drafts to live pages.
 4. Identify missing concepts or uneven treatment (e.g., prediction research vs established neuroscience; rhythm/external-focus boundaries; diagnostic differential vs everyday observation).
 5. **Keep** this PR documentation-only and draft. Do not replace the live Course lessons or renumber user progress before a separate agreed migration and clean build.
+
+## Clinician sections drafted — October 26, 2026
+
+Following the Person drafts, the project lead requested **Clinician content across every proposed lesson, Lessons 15–30**, while leaving Supporter lesson direction open for later. Five complete internal [clinician drafting files and their coverage index](clinician-drafts-2026-10-26/README.md) have been added:
+
+- [Module 6: Lessons 15–17](clinician-drafts-2026-10-26/module-06-attention-and-automatic-control.md)
+- [Module 7: Lessons 18–21](clinician-drafts-2026-10-26/module-07-prediction-interoception-and-agency.md)
+- [Module 8: Lessons 22–24](clinician-drafts-2026-10-26/module-08-recognizing-symptoms-and-finding-information.md)
+- [Module 9: Lessons 25–27](clinician-drafts-2026-10-26/module-09-rehabilitation-and-neuroplasticity.md)
+- [Module 10: Lessons 28–30](clinician-drafts-2026-10-26/module-10-pacing-and-available-capacity.md)
+
+**Scope:** Across Modules 6 and 7, all **17** canonical Diagnostic/Recovery Reference presentations are discussed substantively in relation to appropriate professions and an individualized care/technique-selection question. The coverage index documents the exact primary lesson and professional lens for each; the associated 34 diagnostic/recovery overview files were verified present on this branch. Modules 8–10 then teach clinical differential reasoning, navigating symptom-specific evidence, selecting and assessing interventions, neuroplasticity without cure promises, realistic activity pacing and interdisciplinary review. Other co-occurring and whole-body conditions are discussed without mislabelling them as FND.
+
+**Citation state:** The drafts link to Work's existing research source register using internal `Rxx` keys, plus the appropriate Reference pages. These are **not** final public citations. Work must complete original-paper verification, source-to-claim matching, page-level numbered citations, specialist and accessibility review and accurate evidence qualifiers before the public course is written. Current source checks were performed against repository material; this continuation did not conduct a new independent live-publication evidence search.
+
+**Not done:** No changes to live course pages, lesson numbering, existing links, D1 progress records, puzzles, or Supporter sections. Draft PR remains a planning/editing surface. Do not merge a public rollout until migration and build checks are complete.
+
+**Editorial directions for the next pass:** Preserve the 16 Person drafts, refine the Clinician writing for a clear professional voice, identify overreach or duplicate material, and then separately decide how Supporter sections teach collaboration and adaptation without making supporters substitute therapists.
