@@ -86,15 +86,13 @@ These approaches are chosen around the person's symptoms, abilities and safety n
 
 ### Making room for what matters
 
-You can use the same idea in everyday life.
+Remember that message to your friend?
 
-Imagine you're filling in a form at home. The television is talking in the background. You reach the bottom of a question and think, "Wait, what did I just read?"
+Maybe a video keeps pulling your attention away while you're trying to reply. You pause it and leave the message open, so you can look back whenever you need to.
 
-So you turn off the television and take the form one question at a time.
+That small change makes more room for something you want to do.
 
-You might still find the form difficult. But now you've made a little more room for the task.
-
-**Changing how you approach an activity can be useful, whether your symptoms change or stay the same.**
+**An activity can become easier to manage even when your symptoms stay the same.**
 
 ### Something to think about
 
