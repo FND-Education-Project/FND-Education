@@ -1,6 +1,6 @@
 # Distraction, External Focus, and Context
 
-> **Working draft:** The Person section has been human-edited and approved with AI assistance. Supporter and Clinician content remains subject to editorial and clinical review.
+> **Working draft:** The Person and Clinician sections have been human-edited and approved with AI assistance. Supporter content remains subject to editorial and clinical review.
 
 Lesson 17 explores distraction, External Focus, and Context through everyday examples, collaborative adaptations and clinical reasoning.
 
@@ -409,4 +409,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-4"></a>**[4]** | — | Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110). |
 | <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1nzuyuz/comment/ni918wf/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0310](../../research/citation-index.md#fnd-cit-0310). |
 
-*Publication-readiness audit: October 26, 2026. The Person section was human-edited and approved on October 27, 2026; two post-edit lesson audits, review of the other audiences, and independent clinical review remain pending.*
+*Publication-readiness audit: October 26, 2026. Person and Clinician sections were human-edited and approved on October 27, 2026. The Supporter section, two post-edit lesson audits, and independent clinical review remain pending.*
