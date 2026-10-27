@@ -237,25 +237,157 @@ You may be invited to use a particular cue **after** the clinician and person ag
 
 ## For Clinicians and the Care Team
 
-### Use the correct term for the intervention
+### The photograph worked. Why didn't the book?
 
-**Distractibility** is an examination observation when symptom expression changes while attention is engaged elsewhere. **Attention redirection** is an intentionally selected strategy; **external focus** refers to attending to an action's target or effect. **Entrainment** means the tremor adopts the rhythm of a requested competing movement. Merely stopping, pausing or suppressing a movement is not entrainment. Adding a dual task may increase risk or overload and should not be equated with simplifying instructions.
+Consider a different patient from the one we followed in Lessons 15 and 16.
 
-**Physiotherapy** can select a meaningful, safe task target or rhythm when its specific rationale is relevant. **OT** can compare instruction formats, environmental demands and the actual task outcome. **Psychology** can examine anticipation, fear of injury and stress-related burden where identified, while avoiding pressure to distract away from medical warning signs. Document the strategy, baseline context, patient preference, intended effect and any adverse responses.
+This person has an established diagnosis of functional tremor. During occupational therapy, they find it easier to slide a photograph into a folder when the therapist directs their attention toward the open pocket.
 
-**Symptom application — Functional tremor:** Specialist assessment may demonstrate distractibility or entrainment in an appropriate setting. Rehabilitation could trial a functional task or externally focused cue, documenting hand use, fatigue and interference rather than symptom suppression alone. [Tremor examination](../../reference/diagnostic-signs/02-functional-tremor.md) · [task-focused recovery](../../reference/recovery-techniques/functional_tremor/03-external-focus-and-meaningful-task-practice.md).
+At home, they try putting a novel between other books on a shelf. Their hand shakes, their grip feels unreliable, and the book is difficult to position.
 
-**Symptom application — Functional jerks/myoclonus:** Establish warning availability, falls, medication and other causes before discussing attention-based redirection. A no-warning jerk may require injury-prevention and environmental adaptations rather than a cue the person cannot use in time. [Jerks assessment](../../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md) · [jerks care](../../reference/recovery-techniques/03-functional-jerks-and-myoclonus.md).
+At the next appointment they ask, “Why did the technique work here but not at home?”
 
-**Symptom application — Functional tics and tic-like symptoms:** Clarify phenomenology, onset, motor/vocal features, possible premonitory sensations and differential diagnoses. Behavioural treatment principles derived from tic disorders must not be presented as proven equivalent for all functional tic-like presentations. Combine suitable care with dignity, school/work access and avoidance of punitive response training. [Tic assessment](../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) · [tic recovery](../../reference/recovery-techniques/17-functional-tics-and-tic-like-symptoms.md).
+It's tempting to conclude either that external focus helped the tremor only briefly, or that the patient needs more practice with the same instruction.
 
-**Symptom application — Functional dystonia/fixed posturing:** Painful or sustained posturing may not respond to distraction or simple rhythm. Prioritize complications, non-forceful positioning, task suitability and specialist coordination; do not force a fixed posture toward normal alignment. [Dystonia assessment](../../reference/diagnostic-signs/04-functional-dystonia.md) · [dystonia recovery](../../reference/recovery-techniques/04-functional-dystonia.md).
+**But what exactly changed between the two tasks?**
 
-### What would make the trial worthwhile?
+The clinician has an opportunity to distinguish an effect of attention from the other demands of an activity—and then decide which part of the easier experience is worth taking into daily life.
 
-Use a negotiated outcome such as safer utensil use, reduced interference during a chosen activity, less pain or fewer injuries. Stop or modify an unsuitable cue. No response—or a response in the opposite direction—neither confirms nor refutes FND.
+*This is a fictional clinical teaching case, not a published patient outcome.*
 
-**Evidence boundary:** FND motor rehabilitation consensus and selected tremor experiments do not establish that distraction is a universal treatment or that a given manipulation demonstrates malingering. [1](#citation-1) · [2](#citation-2). (*citations* [1](#citation-1), [2](#citation-2))
+### The important variable may be the task itself
+
+The photograph rests on a table. It is thin, light and easy to slide. The folder provides a visible destination.
+
+A novel requires a different grip, enough force to support its weight, and often a reach against gravity. Fitting it between books involves positioning the wrist and adjusting the book's orientation. If the shelf is high, posture and balance also contribute.
+
+The nervous system must combine information about the object's properties, the intended destination, the person's position and what happens during the action.
+
+These are **task constraints**: the physical and informational demands that shape how a movement is produced.
+
+The patient's symptoms may change between the two activities. So may the level of effort, the available support and the likelihood of completing the action—even if the symptom itself does not change.
+
+**A clinical question:** Was the useful ingredient the destination cue, the easier physical task, the therapist's support, or some combination?
+
+One successful attempt cannot separate them. Rather than assuming the reason, the team can explore what makes participation possible.
+
+This is why **context** means more than a search for triggers. It includes ordinary task demands, surroundings and available assistance. No identifiable trigger is required for a functional symptom to vary.
+
+### An examination observation is not yet a treatment
+
+During a specialist assessment of functional tremor, the examiner may observe that tremor changes while the person performs another task. That is **distractibility**: a task-related alteration in symptom expression that may contribute to a positive examination when interpreted with the whole clinical picture.
+
+The examiner may also evaluate **entrainment**. In its specific diagnostic sense, this describes tremor frequency changing to match the rhythm of a voluntary movement made elsewhere in the body. A tremor merely pausing or becoming smaller is not entrainment.
+
+The [functional tremor assessment](../../reference/diagnostic-signs/02-functional-tremor.md), [distractibility reference](../../reference/diagnostic-signs/functional_tremor/01-distractibility.md) and [entrainment reference](../../reference/diagnostic-signs/functional_tremor/02-entrainment.md) describe appropriate clinical interpretation.
+
+What makes these findings useful is the pattern of involuntary movement during specifically chosen tasks. Their diagnostic meaning comes from specialist assessment.
+
+But the examination question—*“Does this symptom change under these conditions?”*—differs from the rehabilitation question: **“Can a chosen strategy help this person perform an activity that matters?”**
+
+A distractible tremor does not mean someone should be kept distracted all day. A positive sign is not a prescription, nor proof that a particular cue will succeed at home.
+
+### Distraction, external focus and rhythm answer different questions
+
+Return to the photograph.
+
+The therapist could ask the patient about a favourite novel while they move the photograph. Their attention might shift toward the conversation. That is **distraction** in the ordinary sense, whether the shift happens naturally or is deliberately encouraged.
+
+Alternatively, the therapist could ask them to aim the photograph toward the pocket in the folder. Attention remains on the action, but its destination rather than the fingers becomes the focus. That is **external focus**.
+
+Or a therapist could introduce a steady beat to guide *when* a movement occurs. Here **rhythm** provides timing information. Using a beat as a therapeutic cue differs from observing diagnostic entrainment during examination.
+
+These approaches have different demands and intended effects. They are not interchangeable versions of “stop concentrating on your symptom.”
+
+Huys and colleagues' experimental work with selected people with functional action tremor links attentional focus to task-dependent tremor performance. The finding provides evidence that *where attention is directed can matter* in that presentation. It does not establish the mechanism for every functional symptom or prove that distraction alone is an effective daily-life treatment. (*citation* [2](#citation-2))
+
+For the photograph task, external focus provides a purposeful destination. The clinician can ask whether that instruction makes the activity easier to coordinate, even if some tremor continues.
+
+The distinction matters because **the therapeutic goal is a usable action, not a temporarily quieter symptom**.
+
+### Find out what helped before making the task harder
+
+Suppose the therapist and patient want to explore the destination cue.
+
+They could begin with the same photograph, folder, seat and level of arm support, changing only the instruction. One attempt emphasizes where the photograph should go; another may use the patient's ordinary approach.
+
+They observe whether the photograph reaches its pocket, what assistance was needed, and how the person describes effort or discomfort.
+
+This is a **collaborative clinical comparison**, not a controlled research experiment or an FND diagnostic test. Even when one factor is changed deliberately, practice effects and symptom variability can influence the result.
+
+What matters is the reasoning: changing several things at once makes it difficult to know which alteration was useful.
+
+Next, the therapist and patient can alter the activity to resemble home life, taking care with weight, reach and safety. A lighter book on a lower shelf may provide an intermediate version. Perhaps the arm needs support, the shelf position needs adjustment, or another method is more appropriate.
+
+Occupational-therapy consensus recommends analysing the actual activity and building collaborative, meaningful goals. Physiotherapy consensus supports selected task-oriented and externally directed motor-retraining approaches. Both provide clinical frameworks, not guarantees of a specific response. (*citations* [3](#citation-3), [1](#citation-1))
+
+The task can succeed while tremor remains present. A book placed safely with an adaptation is a meaningful outcome.
+
+### Why adding a second task can give the opposite result
+
+A clinician might remember that some functional movements improve when attention is occupied elsewhere and suggest talking to the patient throughout the next attempt.
+
+But that suggestion adds another demand: the person must process conversation while managing the object.
+
+This is **dual-tasking**, and its effects depend on the person and the tasks.
+
+Consider the patient with functional gait symptoms and cognitive complaints from the previous lessons. A conversation during walking might sometimes coincide with more fluid steps. It might instead make it harder to interpret instructions, maintain balance, navigate hazards or initiate a movement.
+
+The key difference is that an **external target can clarify a single task**, while a second simultaneous activity requires attention to be shared.
+
+A therapist can compare external focus alone with an added task only where appropriate, with consent and suitable safety measures. Improvement in one component does not outweigh a new balance, pain, cognitive or sensory cost.
+
+For some patients the most helpful intervention is **less competing input**, such as one instruction at a time. For others, a carefully selected additional activity may be useful. Their observed response guides the decision.
+
+[Purposeful dual-task walking](../../reference/recovery-techniques/functional_gait_disorder/07-external-focus-and-purposeful-dual-task-walking.md) and [external-focus practice for functional tremor](../../reference/recovery-techniques/functional_tremor/03-external-focus-and-meaningful-task-practice.md) provide more detailed clinical procedures and safety considerations.
+
+### Carryover is a question, not an automatic reward for practice
+
+The photograph task can help the therapist find a promising approach. The novel challenges whether it transfers.
+
+This is **carryover**: making a useful skill or strategy available in circumstances beyond the one in which it was practised.
+
+A person may perform well in a predictable clinic task but have difficulty when the object, surface, movement direction, fatigue or level of support changes. These differences can be meaningful even when the instruction sounds identical.
+
+The rehabilitation task is to find a progression that respects those differences.
+
+For our patient, the therapist might begin with the photograph, then explore a lightweight booklet at table height, then a different object or destination. If the goal remains shelving a novel, they can assess its weight and location and consider a safe way to achieve it with appropriate assistance.
+
+That progression is an *illustration of clinical reasoning*, rather than a validated sequence of exercises.
+
+**The test of usefulness is whether the patient can participate more reliably in the activity they value—not whether they can reproduce a clinic effect on command.**
+
+The occupational therapist can identify the actual home demands. A physiotherapist may be involved when safe movement, postural control or walking are central. A psychologist may help when fear, anticipation or distress is part of the individual's difficulty with participation. Each contribution follows an identified need, as described in [Professional Roles in FND Care](../../reference/professional-roles-in-fnd-care.md).
+
+### When the same strategy is a poor fit
+
+An external-focus cue might help a selected functional tremor but be less relevant to a painful fixed posture that requires protection of joints and careful positioning.
+
+For a patient with sudden functional jerks and no usable warning, an instruction to redirect attention before each jerk may offer little practical opportunity. Reducing injury risk could be more important.
+
+For someone with functional tic-like symptoms, assessment of the phenomenology and appropriate treatment planning are needed before borrowing strategies from other movement disorders. Malaty and colleagues review clinical distinctions in functional tic-like presentations. (*citation* [4](#citation-4))
+
+These examples illustrate a more general principle: **a treatment principle is selected for a person's presentation, abilities and goals, not applied because the diagnosis contains the word “functional.”**
+
+The [jerks](../../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md), [dystonia](../../reference/diagnostic-signs/04-functional-dystonia.md) and [functional tic-like symptoms](../../reference/diagnostic-signs/17-functional-tics-and-tic-like-symptoms.md) references provide the phenotype-specific assessment routes.
+
+### The final clinical question in this module
+
+Lessons 15 and 16 introduced two connected ideas.
+
+**Attention** shapes what information receives priority.
+
+**Automatic motor control** helps organize familiar actions without conscious direction of every component.
+
+This lesson adds a third: **what surrounds an activity—including its goal, physical demands, cues, environment and support—can change how the action is carried out and whether it is usable in everyday life.**
+
+These principles can inform diagnosis and rehabilitation, but each observation still needs interpretation within its own evidence. Functional-tremor attention research applies to selected presentations; specialist motor and occupational-therapy consensus guides individual practice. The sources do not establish one explanation or one cue for every FND symptom. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+Our patient came to therapy with a practical concern: “Why could I manage a photograph here but not a book at home?”
+
+A useful answer is more than reassurance or a request to try harder. The clinician can identify the differences between the tasks, work out which adaptations matter, and develop a plan that remains useful beyond the clinic.
+
+**The most important next question is: “What did this particular task show us—and how can we turn that knowledge into better participation in the person's actual life?”**
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
