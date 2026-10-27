@@ -177,31 +177,169 @@ Next, we'll look more closely at how changing the focus, instructions, or surrou
 
 ## For Family, Friends, and Other Supporters
 
-### A movement once isn't a promise
+### You just saw them do it. What happens now?
 
-You see someone move an arm without difficulty when reaching for a cup. Later, when asked to raise that arm, they cannot. It is tempting to think that they must be able to repeat the movement.
+Imagine someone you care about reaching for a cup on the table.
 
-But an action occurring in one setting is different from being able to **initiate it on demand, repeat it safely or depend on it throughout the day**. FND symptoms can change with task and attention without being deliberate.
+They've been struggling to move their arm, but this time their hand moves almost naturally toward the cup.
 
-### Support the goal, not a demonstration
+You're pleased. Perhaps a little surprised.
 
-Ask what the person is trying to accomplish: reaching a drink, moving safely to a chair, opening a door, brushing their hair. If they welcome help, discuss the setting or a tool that may make the activity easier.
+A few minutes later, they need to lift that same arm to put on a shirt. They try, but the movement barely starts.
 
-Avoid surprise challenges such as “Catch this!” or repeated demands to prove a movement is possible. Nor should an easier movement become grounds for removing an aid or assistance.
+You may be thinking, *But I just saw that arm move.*
 
-When you do help, ask first: “Would you like me to bring the cup closer, hold it, or leave it where it is?” The person's decision may change on another day.
+And the person with FND may be thinking something equally frustrating: *I know I can sometimes move it. Why can't I do it now?*
 
-### Where your role ends
+Both people have seen something real. The movement toward the cup happened. So did the difficulty getting dressed.
 
-An FND-informed **physiotherapist** can assess movement and consider suitable task-focused rehabilitation. An **occupational therapist** can work on real-life tasks, seating, transfers or equipment. Falls, severe weakness, painful posturing, injury risk or major changes in function require appropriate clinical assessment. Supporters should not attempt their own diagnostic manoeuvres or physically force movement.
+**The important question isn't which moment to believe. It's how both moments can be true.**
+
+This lesson offers a way to understand that puzzle and use what you've noticed to offer help that feels supportive rather than like another examination.
+
+### How does the nervous system know what to do?
+
+Think about signing your name or picking up your favourite mug.
+
+You know what you want to do. Your nervous system has learned to organize many small movements into a familiar action. You usually don't have to tell each finger, muscle and joint what to do next.
+
+That's part of **automatic motor control**.
+
+Learning a movement changes the way the brain's movement networks work together. With practice, a familiar action can become more coordinated and require less conscious direction of every part. (*citation* [6](#citation-6))
+
+That gives us an interesting way to look at the cup and the shirt.
+
+Reaching for a cup is one purposeful action. Being asked to lift an arm, or trying to guide it through a sleeve, presents different demands. The nervous system has to organize the movement under different conditions.
+
+In some forms of functional movement disorder, a person can show a movement more easily during one task than another. Clinicians sometimes use carefully assessed differences like these to help understand the condition. (*citation* [1](#citation-1))
+
+**The movement can vary without the person choosing the difficulty.**
+
+It's worth remembering that this isn't a rule for every FND symptom. Some people have little movement available in any situation. Others have pain, injury or another condition alongside FND. Their difficulties deserve assessment and practical support, too.
+
+### A good moment can lead to a difficult misunderstanding
+
+Let's return to the cup.
+
+It could be tempting to say, “Wonderful! You did it just then. Try lifting your arm again.”
+
+That response comes from hope. You want the easier movement to happen again, and you want the person to enjoy it.
+
+But the person may now feel watched. What had been an ordinary reach has become a demonstration they are expected to repeat.
+
+Suppose the next attempt fails.
+
+They might feel discouraged, embarrassed or afraid that you'll think they weren't trying. You may be confused about what changed.
+
+An easier movement can be encouraging **without becoming a promise of what the person can do next**.
+
+Sometimes a gentler response would be to notice that the cup is now within reach and carry on with the conversation. At another time, when the person wants to talk about it, you might ask whether it would be useful to mention that movement to their physiotherapist.
+
+The person can be pleased about a movement, frustrated by what remains difficult, or uninterested in discussing it at all.
+
+There's room for each of those reactions.
+
+### What a parent's experience helps us understand
+
+A parent in an FND community described an appointment where an occupational therapist engaged their child in conversation about the family's pets:
 
 > “OT came in and asked them about our pets. He had them walking up and down the hallway within like 5 minutes, it was incredible. I’ve never been able to replicate it though at home though.”
 
-*Figure 1. Community experience.* A parent reports one therapy encounter and its lack of reproducibility at home. This is not a home walking instruction. [Original public source](https://www.reddit.com/r/FND/comments/1kchl1l/comment/mq4vaud/). (*citations* [5](#citation-5))
+*Figure 1. Community experience.* One parent's account of a change in movement during a therapy visit and the difficulty reproducing it at home. This is an individual experience, not an instruction to recreate the walking activity. [Original public source](https://www.reddit.com/r/FND/comments/1kchl1l/comment/mq4vaud/). (*citation* [5](#citation-5))
 
-**Something to discuss together:** “Is there a task you wish the care team could see in its ordinary setting, rather than asking you to perform a movement just for an exam?”
+You can almost hear the mixture of excitement and puzzlement in that account.
 
-**One small thing:** If agreed, write a short description of the task, its usual barriers and the help the person already finds useful. That can inform therapy without recreating symptoms.
+What an encouraging moment to witness. And what a difficult question to take home: *Why can't we get that to happen again?*
+
+The answer isn't necessarily that someone missed an instruction or didn't practise hard enough. A professional therapy session involves a particular task, support, environment and assessment. Home is different.
+
+The parent's observation may help the treating team ask better questions about movement. It doesn't make the parent responsible for reproducing the result.
+
+**Knowing that a movement was possible once can offer hope. Understanding what makes it usable takes further work.**
+
+### Supporting an activity rather than testing a movement
+
+Imagine the person with FND wants to get dressed.
+
+Perhaps their arm sometimes joins in naturally when they reach for clothing, but deliberately lifting it into a sleeve is difficult.
+
+You could ask, “Would you like me to hold the shirt open, help with the sleeve, or give you a little more time?”
+
+That's a different question from “Can you show me how high your arm goes?”
+
+The first conversation is about accomplishing something the person wants to do. It gives them a choice about help. The second may turn an ordinary morning into a repeated test.
+
+Sometimes moving clothing within reach, sitting comfortably or using an agreed dressing aid makes the activity more manageable. An occupational therapist can help assess those possibilities when more specialized adaptation is needed. (*citation* [3](#citation-3))
+
+The same principle can apply to making breakfast, brushing hair or moving safely between chairs. The useful question is what the person hopes to do and what assistance makes that possible.
+
+A supporter doesn't need to discover a hidden movement pattern or create exercises.
+
+There may also be days when help is needed throughout the activity, even if the person managed more of it yesterday. **The amount of help can follow what is needed today.**
+
+### But didn't we also learn about memory problems?
+
+You may remember from the previous lesson that someone with FND can also have difficulties with concentration or memory.
+
+That raises a reasonable question: *If movement depends on something learned, can they forget how to do it?*
+
+Remembering a therapist's instructions is different from having learned the coordinated movements involved in a familiar action.
+
+A person might forget which activity they agreed to practise, lose their place in a sequence of instructions, or struggle to explain in words how a movement works. None of those experiences, by itself, demonstrates that the underlying motor skill has disappeared.
+
+There is a name for memory involved in learned skills: **procedural memory**. It differs from remembering a recent conversation or recalling what you planned to do next. (*citation* [7](#citation-7))
+
+So a cognitive complaint shouldn't lead a supporter to assume that someone needs to be taught how to walk from the beginning—or that a rehabilitation gain will automatically be forgotten.
+
+What may help with remembering a plan is a simple written reminder, when the person wants one. What may help with movement is a different clinical question, often best explored with a physiotherapist or occupational therapist.
+
+New, progressive or substantially changed problems with familiar skills or thinking need appropriate medical assessment rather than an automatic FND explanation.
+
+### What if you're the person who helps every day?
+
+Helping someone move or dress can involve more than encouragement.
+
+You may have to rearrange the day, fetch equipment, provide physical assistance or change plans when movement becomes difficult.
+
+A spouse might want the freedom to be a partner, not someone who assesses movement every morning. A parent may be balancing a child's growing independence with concerns about falls or fatigue. A friend who visits occasionally may be happy to help with a cup of tea but have no training in transfers or rehabilitation.
+
+These roles are different. None requires a person to become an unpaid movement specialist.
+
+It's reasonable to say, “I'd like to help, but I'm not confident I can support that transfer safely. Could we ask someone to show us another way?”
+
+That's an invitation to find a safer arrangement, not a withdrawal of care.
+
+And some people with FND live alone or do not have an available supporter. Their access to rehabilitation, equipment, safe living arrangements and practical help should not depend on finding a family member to provide it.
+
+**Good support respects both the person's independence and the real limits of whoever is helping.**
+
+### When a professional can take the next step
+
+An FND-informed **physiotherapist** can assess the person's movement pattern and consider approaches intended to help them initiate and coordinate movement more effectively. Professional motor-rehabilitation guidance describes task-oriented practice for selected functional motor symptoms. (*citation* [1](#citation-1))
+
+An **occupational therapist** can look at the everyday job itself—getting dressed, using a kitchen, working at a desk or managing mobility equipment—and help adapt the task and its surroundings. (*citation* [3](#citation-3))
+
+The [Professional Roles in FND Care](../../reference/professional-roles-in-fnd-care.md) explains these and other possible contributions.
+
+A supporter might be invited to use a particular cue or help with an agreed activity after the professional and the person have worked out what is appropriate. That can be a welcome part of everyday life if both people are comfortable with it.
+
+But interpreting diagnostic signs, choosing movement-retraining exercises and assessing unsafe transfers belong with qualified practitioners. If a movement brings serious falls risk, injury or a new major change in function, the priority is appropriate assessment and care.
+
+### What is worth taking home?
+
+Remember the two moments with the cup and the shirt.
+
+The person moved their arm in one situation and struggled in another. You don't need to choose which moment represents the “real” ability.
+
+You can recognize the difference, believe the person's experience, and help with the activity they are trying to accomplish.
+
+Perhaps the best help is moving the cup closer. Perhaps it's holding the shirt open. Perhaps it's arranging for an OT to look at dressing, or simply leaving the person free to try on their own.
+
+**Understanding automatic movement helps replace “You did it once, so why can't you do it again?” with “What would make this activity more manageable for you?”**
+
+**Something to discuss together:** “When a movement is easier than usual, would you like me to say something, help you remember it for your therapist, or just let the moment be?”
+
+**One small thing:** Think about a familiar daily activity where help is sometimes needed. If the person wants to, talk about what makes the activity easier and what sort of help feels welcome—without asking them to demonstrate a movement.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
