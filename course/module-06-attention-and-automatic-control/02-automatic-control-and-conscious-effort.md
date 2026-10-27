@@ -241,7 +241,7 @@ At first, learning to write required close attention. Over years of practice, mu
 
 The cerebral motor networks, basal ganglia and cerebellum contribute different, interacting functions to planning, selecting, refining and adapting movements. Spinal and sensory systems also participate in producing the action. Automaticity is an achievement of coordination across these systems, rather than a stored instruction sitting in one location.
 
-Dayan and Cohen reviewed research on the neural plasticity involved in motor-skill learning. Their findings provide a general neuroscience foundation for understanding practiced movement; they are not evidence that one of these structures is consistently damaged or malfunctioning in every person with FND. (*citation* [6](#citation-6))
+Dayan and Cohen explain how practice changes interacting motor networks, helping familiar actions become coordinated skills rather than movements directed muscle by muscle. (*citation* [6](#citation-6))
 
 Now return to the patient who cannot start a step.
 
