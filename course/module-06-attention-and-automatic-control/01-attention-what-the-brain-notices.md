@@ -1,6 +1,6 @@
 # Attention: What the Brain Notices
 
-> **Working draft:** The Person and Clinician sections have been human-edited and approved with AI assistance. Supporter content remains subject to editorial and clinical review.
+> **Working draft:** The Person, Supporter and Clinician sections have been human-edited and approved with AI assistance. Editorial audits and independent clinical review remain pending.
 
 Lesson 15 explores attention and what the brain notices through everyday examples, collaborative adaptations and clinical reasoning.
 
@@ -463,4 +463,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-6"></a>**[6]** | — | Nielsen G, Stone J, Matthews A, et al. **Physiotherapy for functional motor disorders: a consensus recommendation.** *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86:1113–1119. doi:10.1136/jnnp-2014-309255. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602268/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/25433033/). [FND-CIT-0028](../../research/citation-index.md#fnd-cit-0028). |
 | <a id="citation-7"></a>**[7]** | — | Baker J, Barnett C, Cavalli L, et al. **Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.** *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92:1112–1125. doi:10.1136/jnnp-2021-326767. [Original](https://jnnp.bmj.com/content/92/10/1112) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/34210802/). [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
 
-*Publication-readiness audit: October 26, 2026. Person section human-edited and approved October 26, 2026; Clinician section human-edited and approved October 27, 2026. The Supporter section, two post-edit lesson audits and independent clinical review remain pending.*
+*Publication-readiness audit: October 26, 2026. Person section human-edited and approved October 26, 2026; Clinician and Supporter sections human-edited and approved October 27, 2026. Two post-edit lesson audits and independent clinical review remain pending.*
