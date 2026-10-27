@@ -213,166 +213,147 @@ An FND-informed **physiotherapist** can assess movement and consider suitable ta
 
 ## For Clinicians and the Care Team
 
-### The movement changes when the purpose changes
+### Has the patient forgotten how to walk?
 
-Return to the patient with functional gait difficulty from Lesson 15.
+Return to the patient with functional gait difficulty and a separate cognitive complaint from Lesson 15.
 
-At physiotherapy, they describe something puzzling: “Sometimes I can take a step without thinking about it. Then, when I need to move, my leg seems to stop listening.”
+During a physiotherapy appointment, they describe an unsettling experience.
 
-Their walking difficulty has been assessed, and the treating team has documented positive findings supporting the functional motor diagnosis.
+“I know how to walk. I've been doing it all my life. But sometimes I stand up and can't seem to get the first step started.”
 
-During an appropriately guarded activity, the physiotherapist asks the patient to initiate a step. The movement is hesitant. A little later, with their usual supports in place, the patient moves toward a clearly marked nearby chair. For a few steps, the sequence flows more easily.
+They also lose their train of thought during conversations.
 
-The therapist has observed a difference.
+A clinician might reasonably wonder: **Are these problems connected? Has the patient somehow lost a learned motor skill? And if we retrain it, will they simply forget it again?**
 
-**What does the easier movement tell us? And, just as importantly, what does it leave unanswered?**
+Those questions lead us to an important distinction in functional motor disorders: **a learned movement pattern, voluntary access to that pattern, and the movement that is actually produced are related, but they are not the same thing.**
 
-*This is a fictional continuation of the Lesson 15 teaching case. It illustrates a question clinicians may encounter; it does not describe an actual patient or demonstrate a diagnostic sign by itself.*
+*This is a fictional continuation of our teaching case. It poses clinical questions rather than establishing an individual mechanism or treatment response.*
 
-### Why a familiar action is more than a series of commands
+### Learning a movement is different from producing it
 
-Consider what happens when someone reaches for a mug.
+Think of a familiar action, such as writing a signature.
 
-The person intends to pick it up. Meanwhile, their nervous system organizes shoulder, elbow, wrist and hand movements, adjusts grip force, and uses sensory feedback to keep the mug stable.
+The writer knows the goal. Their nervous system organizes a sequence of movements, predicts how much force will be needed, and uses incoming information from the hand and eyes to make adjustments.
 
-The person does not ordinarily need to issue a separate conscious instruction for each muscle.
+At first, learning to write required close attention. Over years of practice, much of the coordination became more automatic. The person can now sign a card while thinking about the message they want to write.
 
-This is **automatic motor control**: coordination that allows well-learned parts of an action to unfold with relatively little step-by-step conscious supervision.
+**Motor learning** describes changes in the nervous system that support acquiring and refining a skill. **Automatic motor control** describes how familiar components of that skill can operate without conscious direction of every muscle.
 
-It is still active neural processing. Motor-cortical, basal-ganglia and cerebellar networks contribute to movement preparation, learning, selection, timing and adjustment, with the relative contributions depending on the action and its demands.
+The cerebral motor networks, basal ganglia and cerebellum contribute different, interacting functions to planning, selecting, refining and adapting movements. Spinal and sensory systems also participate in producing the action. Automaticity is an achievement of coordination across these systems, rather than a stored instruction sitting in one location.
 
-Dayan and Cohen's review of motor-skill learning describes how practice changes motor representations and the networks supporting skilled performance. It is a **general motor-learning review**, rather than a study establishing the cause of FND. (*citation* [6](#citation-6))
+Dayan and Cohen reviewed research on the neural plasticity involved in motor-skill learning. Their findings provide a general neuroscience foundation for understanding practiced movement; they are not evidence that one of these structures is consistently damaged or malfunctioning in every person with FND. (*citation* [6](#citation-6))
 
-**Why does this matter to clinicians?**
+Now return to the patient who cannot start a step.
 
-An instruction such as “lift your foot” and the real-world activity of moving toward a chair are different motor tasks. They may recruit overlapping systems under different conditions of goal, posture, balance and attentional control.
+Their complaint concerns **performing a familiar action when it is needed**. We have not yet shown that the movement was forgotten.
 
-In some functional motor presentations, deliberately monitoring an action can accompany a change in movement fluency. That relationship is clinically useful, but the observation alone cannot isolate which neural process changed.
+### The FND distinction: the skill and its expression
 
-In the patient's case, we have observed two forms of movement performance. We still need to understand how the difference can inform assessment and care.
+In some functional motor presentations, movement becomes more available when the task changes.
 
-### What does a positive motor sign actually establish?
+During a carefully supported examination or rehabilitation activity, a patient may show a more effective movement pattern in a purposeful task than when attempting an isolated movement on command. For other patients, the difference is small, absent or difficult to assess safely.
 
-Suppose this patient also has unilateral functional leg weakness.
+When the examination demonstrates a recognised positive sign in the relevant presentation, that finding can help support a functional motor diagnosis. The [functional gait diagnostic reference](../../reference/diagnostic-signs/05-functional-gait-disorder.md) explains how specialists compare movement patterns and interpret those observations.
 
-During an appropriate neurological examination, a clinician may assess **Hoover's sign**: hip-extension force during an instructed voluntary effort is compared with the involuntary synergistic extension that can accompany resisted flexion of the opposite hip.
+**What can a difference tell us?**
 
-When the characteristic positive pattern is found and interpreted with the complete examination, it can support a diagnosis of functional leg weakness. The [functional limb-weakness diagnostic reference](../../reference/diagnostic-signs/01-functional-limb-weakness.md) and its [Hoover's sign assessment](../../reference/diagnostic-signs/functional_limb_weakness/01-hoovers-sign.md) explain the technique and its limits.
+A component of movement was available *under the observed conditions*. It gives clinicians reason to investigate how motor control changes with the task.
 
-There is a distinction worth teaching carefully.
+**What does it leave open?**
 
-Hoover's sign examines a **difference between voluntary and synergistic activation**. A learned movement such as walking involves coordinated patterns developed through experience. Those ideas are related through the nervous system's ability to recruit movement under different conditions, but they are **not identical mechanisms**.
+Whether the person can initiate that pattern independently, sustain it, and use it in ordinary life. It also leaves open the precise neural explanation for the difference.
 
-An observed automatic synergy does not mean someone can simply decide to use that force during everyday walking.
+Consider Hoover's sign in an appropriately assessed patient with one-sided leg weakness. The examiner compares deliberate hip extension with extension recruited as part of a contralateral movement. The sign concerns **voluntary versus synergistic activation**; it is not a test of whether a walking skill has been remembered. [Hoover's sign and its limitations](../../reference/diagnostic-signs/functional_limb_weakness/01-hoovers-sign.md) provide the detailed method.
 
-For clinicians, a positive sign helps answer a diagnostic question about a specific presentation. It leaves open the rehabilitation question: *What will this person be able to do safely, consistently and when the movement is needed?*
+The clinically valuable FND concept is **task-dependent access to movement** in selected presentations. This is a description supported by particular examination patterns, not a claim that all motor programs are intact or that symptoms are produced deliberately.
 
-### One movement is evidence. Daily function is another question.
+### So what are we retraining?
 
-Return to the few smoother steps toward the chair.
+Suppose the physiotherapist observes that our patient's stepping becomes easier when moving toward a clearly marked, safely reachable chair.
 
-The physiotherapist has seen the patient move more effectively in one condition. It would be valuable to record the direction, level of guarding, instructions, walking aid and circumstances in which that happened.
+The therapist could interpret this as an opportunity to practise a more usable way of organizing the familiar action.
 
-Now imagine the patient needs to get to the bathroom at home after a tiring day.
+What they are attempting is different from teaching an unfamiliar person *what walking is*. It is also different from strengthening a muscle that has become weak through disuse, although a patient may need both forms of rehabilitation.
 
-The path is longer. They need to initiate movement without a therapist nearby. They must turn, manage their aid and complete a transfer.
+The goal of **functional motor retraining** is to help the person access, coordinate and use movement more effectively. Depending on the motor presentation, practice may involve a meaningful task, changed cueing, suitable feedback or an adjusted starting position.
 
-**Capacity, initiation, repeatability, endurance and safety are separate clinical outcomes.**
+Nielsen and colleagues' physiotherapy consensus describes rehabilitation principles that seek to promote more automatic, purposeful movement in selected functional motor disorders. This is guidance based on professional consensus; it does not establish that every patient will respond, or that any single exercise reverses a proven common mechanism. (*citation* [1](#citation-1))
 
-The brief movement may suggest a useful rehabilitation entry point. It cannot substitute for an assessment of daily walking, transfers or the assistance the person still requires.
+This gives us a better question than “How do we make them remember to walk?”
 
-This distinction is particularly important with profound functional weakness or paralysis. A small movement observed during examination can coexist with extensive positioning, transfer, skin-care and equipment needs. Those needs warrant a practical plan alongside treatment.
+**Which conditions allow the person to begin and coordinate a useful movement, and how might treatment make that movement more accessible?**
 
-The [functional paralysis reference](../../reference/diagnostic-signs/15-functional-paralysis.md) separates severe immobility assessment from the demands of ordinary support and care.
+The answer comes from collaborative assessment and rehabilitation. It is not assumed from the diagnostic label.
 
-### What does the rehabilitation evidence contribute?
+### But could the cognitive difficulty make them forget the movement?
 
-Nielsen and colleagues' physiotherapy consensus recommends using education, movement retraining and the recovery of more automatic motor patterns where appropriate for functional motor disorders. It describes practice involving meaningful tasks and altered attentional focus. This is **professional consensus**, rather than proof that one exercise works for every patient. (*citation* [1](#citation-1))
+Here is where the second concern in our patient becomes useful.
 
-Huys and colleagues' experimental research in **functional action tremor** provides more specific evidence that attentional focus can influence tremor-related motor performance under studied task conditions. That experiment helps illuminate a possible connection between attention and motor expression. Its findings should be interpreted within the population and tasks studied. (*citation* [2](#citation-2))
+They may forget what the physiotherapist asked them to practise between appointments. That could involve **episodic or prospective memory**, attention, or the ability to keep instructions available.
 
-Notice the distinction in what these sources contribute.
+They may struggle to describe the sequence of a familiar skill in words. That involves explicit explanation and language.
 
-The general motor-learning literature helps explain **how skilled actions can become coordinated**. A selected functional-tremor experiment provides evidence about **attention during a particular functional movement presentation**. Physiotherapy consensus proposes **clinically useful ways to work with functional movement**.
+They may also be unable to *execute* the skill reliably, despite understanding the task and wanting to do it.
 
-Together they support thoughtful rehabilitation reasoning. They do not supply a single biological explanation for this patient's gait difficulty.
+These difficulties can coexist, but they are different clinical questions.
 
-### A different instruction can create a different opportunity
+**Procedural memory** refers to learned skills that can become relatively automatic. Problems with attention or remembering instructions do not establish that procedural learning has been erased. Equally, clinicians should investigate genuine new or progressive loss of familiar abilities rather than assuming every problem reflects FND.
 
-Back in the therapy room, imagine two approaches to the next activity.
+Functional cognitive disorder (FCD) requires its own positive cognitive assessment. Our patient's reported forgetfulness does not establish FCD, and an existing functional gait diagnosis does not establish the cause of their cognitive symptoms. The [FCD background](../../reference/functional-cognitive-disorder.md) describes these memory distinctions; the [diagnostic reference](../../reference/diagnostic-signs/12-functional-cognitive-disorder.md) explains how clinically meaningful inconsistency is assessed. (*citation* [7](#citation-7))
 
-The first instruction is, “Concentrate on lifting your right knee. Now straighten it. Now place your foot.”
+**Would we expect the patient to “forget the movement again” after retraining?**
 
-The second is, “Let's move toward that chair,” accompanied by the same appropriate assistance and a safe route.
+We cannot infer that from a cognitive complaint. A movement may remain difficult to initiate in another setting, during a symptom fluctuation or when task demands change. That is different from demonstrating the loss of a learned motor memory.
 
-Both instructions have a place in rehabilitation, depending on the goal. The second gives the nervous system a **purposeful action** to coordinate rather than a sequence of isolated joint commands.
+Clinicians can make the practice instructions accessible—perhaps one clear task, a written reminder, or a supporter helping with the agreed routine—while assessing and addressing the cognitive difficulty on its own merits.
 
-The physiotherapist can explore which approach helps this particular patient initiate and complete a safe movement. They can adjust the task, the environment or the degree of support while attending to balance, pain, fatigue and movement quality.
+### A question to put to the rehabilitation team
 
-The endpoint is functional: could the person arrive safely at the destination, with an appropriate level of assistance and manageable effort?
+The patient can now take several supported steps toward the chair. But the next day they find it difficult to initiate walking at home.
 
-Our [automatic and task-oriented movement recovery reference](../../reference/recovery-techniques/functional_limb_weakness/01-automatic-and-task-oriented-movement.md) describes how that kind of clinician-guided practice may be adapted for functional weakness.
+A colleague asks, “Did the retraining fail?”
 
-A useful finding can also be an unexpected *lack* of benefit. If the purposeful instruction adds no improvement, the therapist has learned something about the fit of the strategy. The assessment can continue with another approach.
+First ask: **What was actually achieved in the therapy session?**
 
-### Two professions, two views of the same movement
+The therapist helped the person produce a more effective pattern in one supported setting. That is useful information and a possible entry point for further work.
 
-The patient tells their occupational therapist, “I can sometimes move better in therapy, but getting dressed every morning is still exhausting.”
+Next ask: **Which part remains difficult?**
 
-**What should change in the care plan?**
+The person might understand the goal yet struggle to start the movement. They might begin successfully but have difficulty coordinating a turn. Pain, fatigue, another illness, an unsafe environment or the effort required to sustain activity may also affect what is possible.
 
-The physiotherapist may have found a promising condition for movement practice. The **occupational therapist** now needs to assess getting dressed as an occupation: seating, reach, clothing, fatigue, sequencing, physical help and the availability of equipment.
+The treatment response can be refined around the actual difficulty. A physiotherapist may work with initiation, timing, coordination and safe repetition. An occupational therapist can examine how the movement fits into transfers, dressing or household tasks, while preserving equipment and assistance that remain necessary. Nicholson and colleagues' OT consensus supports patient-valued activities, individualized adaptation and meaningful participation. (*citation* [3](#citation-3))
 
-Perhaps the person can bring an arm into a sleeve during a familiar movement, yet still needs a dressing aid or assistance to finish the task reliably.
+A psychologist or neuropsychologist may help clarify cognitive load, distress or self-monitoring when these are relevant to this patient's rehabilitation. The appropriate treating clinician remains responsible for assessing new or changing neurological concerns.
 
-Nicholson and colleagues' OT consensus supports individualized activity analysis, collaborative goals and practical adaptations for daily participation. It provides a framework for choosing and evaluating care, rather than a guarantee that an automatic-movement strategy will generalize to every task. (*citation* [3](#citation-3))
+The [Professional Roles in FND Care](../../reference/professional-roles-in-fnd-care.md) explains the wider division of expertise.
 
-A mobility or dressing aid can remain important while rehabilitation proceeds. A gain during therapy and the need for assistance at home are compatible findings.
+Notice how these different roles answer different questions. **Motor retraining concerns access to and coordination of movement. Cognitive supports can help the person understand, remember and participate in the agreed rehabilitation.** One does not automatically substitute for the other.
 
-**Psychologists** may also have a role when uncertainty, distress, anticipation of difficulty or loss of confidence interferes with engagement. Their contribution is to understand and address factors actually present for that patient, in coordination with the motor and functional assessment.
+### A finding worth interpreting carefully
 
-**Speech-language therapists** may encounter a parallel practical distinction in some functional speech or voice presentations: producing a sound in isolation and communicating an intended message impose different demands. Baker and colleagues' speech-language consensus discusses individually selected, meaningful communication approaches. The same *clinical question* is useful across settings, while the speech-specific mechanisms and treatments require their own assessment. (*citation* [4](#citation-4))
+Suppose the patient makes a smoother movement when attention is directed toward the purpose of a task.
 
-The [Professional Roles in FND Care](../../reference/professional-roles-in-fnd-care.md) provides a wider map of how these disciplines and medical specialties can share responsibility.
+Research by Huys and colleagues in selected people with functional action tremor supports an association between attentional focus and tremor-related task performance. Its findings are specific to the studied movement presentations and conditions. (*citation* [2](#citation-2))
 
-### A clinical reasoning challenge
+That study gives clinicians a reason to take task and attention seriously in functional movement assessment. It does not show that the nervous system has forgotten a motor skill, and it does not establish one mechanism across gait difficulties, weakness, paralysis, speech symptoms or functional seizures.
 
-A colleague sees the patient take several smoother steps and says, “We know the leg works, then.”
+The general motor-learning literature tells us how the nervous system can acquire and refine motor skills. Functional-motor research and clinical examination show that the *expression* of a movement can differ across conditions in some presentations. Rehabilitation consensus proposes how clinicians might work with that observation.
 
-**What would be the most accurate next sentence?**
+**Those are three contributions to clinical understanding, rather than three studies proving the same thing.**
 
-Try: “We've demonstrated a more effective movement pattern during this supported task. Let's see what helps the patient initiate, repeat and use movement safely when they need it.”
+### What should the clinician carry forward?
 
-That statement preserves the observation and opens a rehabilitation question.
+This lesson introduces an FND-relevant distinction: **difficulty producing a familiar movement does not necessarily mean the learned skill has been lost**.
 
-A different colleague may see a patient with marked functional weakness move briefly during an unplanned action, then question why they still use a mobility aid.
+Positive examination findings can sometimes show preserved movement capacity under particular conditions. The diagnosis still requires appropriate clinical assessment, and that capacity must be distinguished from independent control.
 
-Here, too, the clinical questions remain separate. The movement occurred once. Reliable independent mobility requires much more.
+Retraining may aim to make movement easier to initiate, coordinate and use. It can involve learning through practice without implying that the patient needs to be taught an erased skill from the beginning.
 
-The strongest explanation to the patient can be both hopeful and precise:
+Future lessons will examine prediction, body signals and the sense of agency, all of which may inform further hypotheses about how movement is experienced and controlled. The current evidence supports a careful, presentation-specific formulation rather than a universal account.
 
-“Your movement changed when the task changed. That gives us something worthwhile to explore in therapy. We'll build a plan around what you can use safely and consistently, including the support you need now.”
+For our patient, the useful next question is no longer simply “Can you move?”
 
-### What have we learned—and what is still to come?
-
-**Automatic movement is not an absence of brain activity or conscious intention.** It is a way the nervous system coordinates familiar actions without deliberately supervising every part.
-
-This lesson has examined learned motor control and the clinical difference between voluntary, synergistic and task-linked movement. Those distinctions can help clinicians interpret certain motor findings and choose meaningful rehabilitation tasks.
-
-They also have boundaries. Motor automaticity research does not explain every functional symptom, and even within functional movement presentations, different clinical patterns may need different approaches. Fixed painful posturing, facial movement difficulties and profound immobility, for example, require assessment and support tailored to their presentation.
-
-Later lessons will bring in other mechanisms, including prediction, body-signal processing and the sense of agency. Those ideas will expand the formulation rather than turn automatic movement into a universal explanation.
-
-### End with the question the patient needs answered
-
-Before this patient leaves, the team can agree on one meaningful movement goal, the assistance required, and what counts as a useful change.
-
-Perhaps it is a more dependable transfer to a chair. Perhaps it is participating in dressing with less effort. Or perhaps today's useful outcome is a safer method and an aid that makes the activity possible.
-
-Review whether any gain can be **initiated on demand, repeated, tolerated and used in daily life**.
-
-**The aim is useful, reliable participation—not simply demonstrating that movement can occur.**
-
+It is **“What part of the familiar movement is difficult to access or carry out, and what evidence will help us choose a useful rehabilitation approach?”**
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -394,5 +375,6 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-4"></a>**[4]** | — | Baker J, Barnett C, Cavalli L, et al. **Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.** JNNP. 2021;92:1112–1125. doi:10.1136/jnnp-2021-326767. [Original](https://jnnp.bmj.com/content/92/10/1112) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/34210802/). [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
 | <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1kchl1l/comment/mq4vaud/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0309](../../research/citation-index.md#fnd-cit-0309). |
 | <a id="citation-6"></a>**[6]** | — | Dayan E, Cohen LG. **Neuroplasticity subserving motor skill learning.** *Neuron*. 2011;72:443–454. doi:10.1016/j.neuron.2011.10.008. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC3217208/). [FND-CIT-0306](../../research/citation-index.md#fnd-cit-0306). |
+| <a id="citation-7"></a>**[7]** | — | Ball HA, McWhirter L, Ballard C, et al. **Functional cognitive disorder: dementia’s blind spot.** *Brain*. 2020;143(10):2895–2903. doi:10.1093/brain/awaa224. [Original](https://doi.org/10.1093/brain/awaa224) · [FND-CIT-0071](../../research/citation-index.md#fnd-cit-0071). Clinical review of FCD diagnostic considerations; not evidence that procedural motor memory is erased in FND. |
 
 *Publication-readiness audit: October 26, 2026. The Person section was human-edited and approved on October 26, 2026; two post-edit lesson audits, review of the other audiences, and independent clinical review remain pending.*
