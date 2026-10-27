@@ -213,25 +213,166 @@ An FND-informed **physiotherapist** can assess movement and consider suitable ta
 
 ## For Clinicians and the Care Team
 
-### Separate “can happen once” from reliable function
+### The movement changes when the purpose changes
 
-Motor assessment and treatment should distinguish the **capacity demonstrated in one condition**, **ability to initiate on request**, **duration or reproducibility**, and **everyday safety and participation**. Positive FND signs have significance within a professional examination; successful movement during a task does not demonstrate safe independent walking, transfers, self-care or freedom from coexisting disease. (*citations* [1](#citation-1), [2](#citation-2))
+Return to the patient with functional gait difficulty from Lesson 15.
 
-**Physiotherapists** may contrast an assessed isolated movement with a meaningful functional task and use goal-oriented or externally directed cues when appropriate. Set up fall protection before testing. **Occupational therapists** can translate any preserved movement into an achievable activity, while considering grip, environment, cognitive load, seating, support needs and whether the result survives fatigue. **Psychologists** may address distress, avoidance, loss of confidence and treatment engagement when relevant, without using behavioural theory to override physical findings.
+At physiotherapy, they describe something puzzling: “Sometimes I can take a step without thinking about it. Then, when I need to move, my leg seems to stop listening.”
 
-**Symptom application — Functional limb weakness:** Where positive examination signs support the diagnosis, consider task-oriented retraining and accessible upper- or lower-limb activities in collaboration with PT and OT. Do not turn a Hoover-sign response into a conclusion about household function. [Weakness assessment](../../reference/diagnostic-signs/01-functional-limb-weakness.md) · [task-oriented recovery](../../reference/recovery-techniques/functional_limb_weakness/01-automatic-and-task-oriented-movement.md).
+Their walking difficulty has been assessed, and the treating team has documented positive findings supporting the functional motor diagnosis.
 
-**Symptom application — Functional paralysis:** With severe immobility, assess positioning, skin care, transfers and a sustainable support plan before or alongside clinician-guided practice. A moment of motion does not eliminate the need for equipment or assistance. [Paralysis assessment](../../reference/diagnostic-signs/15-functional-paralysis.md) · [paralysis care options](../../reference/recovery-techniques/15-functional-paralysis.md).
+During an appropriately guarded activity, the physiotherapist asks the patient to initiate a step. The movement is hesitant. A little later, with their usual supports in place, the patient moves toward a clearly marked nearby chair. For a few steps, the sequence flows more easily.
 
-**Symptom application — Functional gait disorder:** Task context, direction changes, visual targets or rhythm may be explored *only in an appropriately assessed, protected setting*. Translate any task-specific gain into actual walking safety, confidence and participation, not just clinic-step quality. [Gait assessment](../../reference/diagnostic-signs/05-functional-gait-disorder.md) · [gait recovery](../../reference/recovery-techniques/05-functional-gait-disorder.md).
+The therapist has observed a difference.
 
-**Symptom application — Functional facial symptoms:** Some eye, jaw or facial movements vary with task and attention. Assess relevant neurological, ocular, dental and swallowing issues. PT/OT or speech-language therapy adaptations must be matched to the facial pattern rather than assuming that stronger effort or imitation is corrective. [Facial assessment](../../reference/diagnostic-signs/14-functional-facial-symptoms.md) · [facial recovery](../../reference/recovery-techniques/14-functional-facial-symptoms.md).
+**What does the easier movement tell us? And, just as importantly, what does it leave unanswered?**
 
-### Explain a useful finding without implying choice
+*This is a fictional continuation of the Lesson 15 teaching case. It illustrates a question clinicians may encounter; it does not describe an actual patient or demonstrate a diagnostic sign by itself.*
 
-A constructive explanation is: “Your movement changed when the task changed. This helps us understand the pattern and gives us possible rehabilitation approaches. It does not mean you chose the difficulty, and we'll still plan around what is safe and reliable for you.”
+### Why a familiar action is more than a series of commands
 
-**Evidence boundary:** Motor task-retraining recommendations are primarily professional consensus; the task-dependent attention experiment covers selected functional action tremor. Neither justifies universal claims for weakness, paralysis, gait or facial symptoms. [1](#citation-1) · [2](#citation-2).
+Consider what happens when someone reaches for a mug.
+
+The person intends to pick it up. Meanwhile, their nervous system organizes shoulder, elbow, wrist and hand movements, adjusts grip force, and uses sensory feedback to keep the mug stable.
+
+The person does not ordinarily need to issue a separate conscious instruction for each muscle.
+
+This is **automatic motor control**: coordination that allows well-learned parts of an action to unfold with relatively little step-by-step conscious supervision.
+
+It is still active neural processing. Motor-cortical, basal-ganglia and cerebellar networks contribute to movement preparation, learning, selection, timing and adjustment, with the relative contributions depending on the action and its demands.
+
+Dayan and Cohen's review of motor-skill learning describes how practice changes motor representations and the networks supporting skilled performance. It is a **general motor-learning review**, rather than a study establishing the cause of FND. (*citation* [6](#citation-6))
+
+**Why does this matter to clinicians?**
+
+An instruction such as “lift your foot” and the real-world activity of moving toward a chair are different motor tasks. They may recruit overlapping systems under different conditions of goal, posture, balance and attentional control.
+
+In some functional motor presentations, deliberately monitoring an action can accompany a change in movement fluency. That relationship is clinically useful, but the observation alone cannot isolate which neural process changed.
+
+In the patient's case, we have observed two forms of movement performance. We still need to understand how the difference can inform assessment and care.
+
+### What does a positive motor sign actually establish?
+
+Suppose this patient also has unilateral functional leg weakness.
+
+During an appropriate neurological examination, a clinician may assess **Hoover's sign**: hip-extension force during an instructed voluntary effort is compared with the involuntary synergistic extension that can accompany resisted flexion of the opposite hip.
+
+When the characteristic positive pattern is found and interpreted with the complete examination, it can support a diagnosis of functional leg weakness. The [functional limb-weakness diagnostic reference](../../reference/diagnostic-signs/01-functional-limb-weakness.md) and its [Hoover's sign assessment](../../reference/diagnostic-signs/functional_limb_weakness/01-hoovers-sign.md) explain the technique and its limits.
+
+There is a distinction worth teaching carefully.
+
+Hoover's sign examines a **difference between voluntary and synergistic activation**. A learned movement such as walking involves coordinated patterns developed through experience. Those ideas are related through the nervous system's ability to recruit movement under different conditions, but they are **not identical mechanisms**.
+
+An observed automatic synergy does not mean someone can simply decide to use that force during everyday walking.
+
+For clinicians, a positive sign helps answer a diagnostic question about a specific presentation. It leaves open the rehabilitation question: *What will this person be able to do safely, consistently and when the movement is needed?*
+
+### One movement is evidence. Daily function is another question.
+
+Return to the few smoother steps toward the chair.
+
+The physiotherapist has seen the patient move more effectively in one condition. It would be valuable to record the direction, level of guarding, instructions, walking aid and circumstances in which that happened.
+
+Now imagine the patient needs to get to the bathroom at home after a tiring day.
+
+The path is longer. They need to initiate movement without a therapist nearby. They must turn, manage their aid and complete a transfer.
+
+**Capacity, initiation, repeatability, endurance and safety are separate clinical outcomes.**
+
+The brief movement may suggest a useful rehabilitation entry point. It cannot substitute for an assessment of daily walking, transfers or the assistance the person still requires.
+
+This distinction is particularly important with profound functional weakness or paralysis. A small movement observed during examination can coexist with extensive positioning, transfer, skin-care and equipment needs. Those needs warrant a practical plan alongside treatment.
+
+The [functional paralysis reference](../../reference/diagnostic-signs/15-functional-paralysis.md) separates severe immobility assessment from the demands of ordinary support and care.
+
+### What does the rehabilitation evidence contribute?
+
+Nielsen and colleagues' physiotherapy consensus recommends using education, movement retraining and the recovery of more automatic motor patterns where appropriate for functional motor disorders. It describes practice involving meaningful tasks and altered attentional focus. This is **professional consensus**, rather than proof that one exercise works for every patient. (*citation* [1](#citation-1))
+
+Huys and colleagues' experimental research in **functional action tremor** provides more specific evidence that attentional focus can influence tremor-related motor performance under studied task conditions. That experiment helps illuminate a possible connection between attention and motor expression. Its findings should be interpreted within the population and tasks studied. (*citation* [2](#citation-2))
+
+Notice the distinction in what these sources contribute.
+
+The general motor-learning literature helps explain **how skilled actions can become coordinated**. A selected functional-tremor experiment provides evidence about **attention during a particular functional movement presentation**. Physiotherapy consensus proposes **clinically useful ways to work with functional movement**.
+
+Together they support thoughtful rehabilitation reasoning. They do not supply a single biological explanation for this patient's gait difficulty.
+
+### A different instruction can create a different opportunity
+
+Back in the therapy room, imagine two approaches to the next activity.
+
+The first instruction is, “Concentrate on lifting your right knee. Now straighten it. Now place your foot.”
+
+The second is, “Let's move toward that chair,” accompanied by the same appropriate assistance and a safe route.
+
+Both instructions have a place in rehabilitation, depending on the goal. The second gives the nervous system a **purposeful action** to coordinate rather than a sequence of isolated joint commands.
+
+The physiotherapist can explore which approach helps this particular patient initiate and complete a safe movement. They can adjust the task, the environment or the degree of support while attending to balance, pain, fatigue and movement quality.
+
+The endpoint is functional: could the person arrive safely at the destination, with an appropriate level of assistance and manageable effort?
+
+Our [automatic and task-oriented movement recovery reference](../../reference/recovery-techniques/functional_limb_weakness/01-automatic-and-task-oriented-movement.md) describes how that kind of clinician-guided practice may be adapted for functional weakness.
+
+A useful finding can also be an unexpected *lack* of benefit. If the purposeful instruction adds no improvement, the therapist has learned something about the fit of the strategy. The assessment can continue with another approach.
+
+### Two professions, two views of the same movement
+
+The patient tells their occupational therapist, “I can sometimes move better in therapy, but getting dressed every morning is still exhausting.”
+
+**What should change in the care plan?**
+
+The physiotherapist may have found a promising condition for movement practice. The **occupational therapist** now needs to assess getting dressed as an occupation: seating, reach, clothing, fatigue, sequencing, physical help and the availability of equipment.
+
+Perhaps the person can bring an arm into a sleeve during a familiar movement, yet still needs a dressing aid or assistance to finish the task reliably.
+
+Nicholson and colleagues' OT consensus supports individualized activity analysis, collaborative goals and practical adaptations for daily participation. It provides a framework for choosing and evaluating care, rather than a guarantee that an automatic-movement strategy will generalize to every task. (*citation* [3](#citation-3))
+
+A mobility or dressing aid can remain important while rehabilitation proceeds. A gain during therapy and the need for assistance at home are compatible findings.
+
+**Psychologists** may also have a role when uncertainty, distress, anticipation of difficulty or loss of confidence interferes with engagement. Their contribution is to understand and address factors actually present for that patient, in coordination with the motor and functional assessment.
+
+**Speech-language therapists** may encounter a parallel practical distinction in some functional speech or voice presentations: producing a sound in isolation and communicating an intended message impose different demands. Baker and colleagues' speech-language consensus discusses individually selected, meaningful communication approaches. The same *clinical question* is useful across settings, while the speech-specific mechanisms and treatments require their own assessment. (*citation* [4](#citation-4))
+
+The [Professional Roles in FND Care](../../reference/professional-roles-in-fnd-care.md) provides a wider map of how these disciplines and medical specialties can share responsibility.
+
+### A clinical reasoning challenge
+
+A colleague sees the patient take several smoother steps and says, “We know the leg works, then.”
+
+**What would be the most accurate next sentence?**
+
+Try: “We've demonstrated a more effective movement pattern during this supported task. Let's see what helps the patient initiate, repeat and use movement safely when they need it.”
+
+That statement preserves the observation and opens a rehabilitation question.
+
+A different colleague may see a patient with marked functional weakness move briefly during an unplanned action, then question why they still use a mobility aid.
+
+Here, too, the clinical questions remain separate. The movement occurred once. Reliable independent mobility requires much more.
+
+The strongest explanation to the patient can be both hopeful and precise:
+
+“Your movement changed when the task changed. That gives us something worthwhile to explore in therapy. We'll build a plan around what you can use safely and consistently, including the support you need now.”
+
+### What have we learned—and what is still to come?
+
+**Automatic movement is not an absence of brain activity or conscious intention.** It is a way the nervous system coordinates familiar actions without deliberately supervising every part.
+
+This lesson has examined learned motor control and the clinical difference between voluntary, synergistic and task-linked movement. Those distinctions can help clinicians interpret certain motor findings and choose meaningful rehabilitation tasks.
+
+They also have boundaries. Motor automaticity research does not explain every functional symptom, and even within functional movement presentations, different clinical patterns may need different approaches. Fixed painful posturing, facial movement difficulties and profound immobility, for example, require assessment and support tailored to their presentation.
+
+Later lessons will bring in other mechanisms, including prediction, body-signal processing and the sense of agency. Those ideas will expand the formulation rather than turn automatic movement into a universal explanation.
+
+### End with the question the patient needs answered
+
+Before this patient leaves, the team can agree on one meaningful movement goal, the assistance required, and what counts as a useful change.
+
+Perhaps it is a more dependable transfer to a chair. Perhaps it is participating in dressing with less effort. Or perhaps today's useful outcome is a safer method and an aid that makes the activity possible.
+
+Review whether any gain can be **initiated on demand, repeated, tolerated and used in daily life**.
+
+**The aim is useful, reliable participation—not simply demonstrating that movement can occur.**
+
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
