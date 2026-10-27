@@ -273,7 +273,7 @@ One successful attempt cannot separate them. Rather than assuming the reason, th
 
 This is why **context** means more than a search for triggers. It includes ordinary task demands, surroundings and available assistance. No identifiable trigger is required for a functional symptom to vary.
 
-### An examination observation is not yet a treatment
+### From examination findings to therapeutic choices
 
 During a specialist assessment of functional tremor, the examiner may observe that tremor changes while the person performs another task. That is **distractibility**: a task-related alteration in symptom expression that may contribute to a positive examination when interpreted with the whole clinical picture.
 
@@ -341,7 +341,7 @@ For some patients the most helpful intervention is **less competing input**, suc
 
 [Purposeful dual-task walking](../../reference/recovery-techniques/functional_gait_disorder/07-external-focus-and-purposeful-dual-task-walking.md) and [external-focus practice for functional tremor](../../reference/recovery-techniques/functional_tremor/03-external-focus-and-meaningful-task-practice.md) provide more detailed clinical procedures and safety considerations.
 
-### Carryover is a question, not an automatic reward for practice
+### Turning a clinic success into useful carryover
 
 The photograph task can help the therapist find a promising approach. The novel challenges whether it transfers.
 
@@ -359,7 +359,7 @@ That progression is an *illustration of clinical reasoning*, rather than a valid
 
 The occupational therapist can identify the actual home demands. A physiotherapist may be involved when safe movement, postural control or walking are central. A psychologist may help when fear, anticipation or distress is part of the individual's difficulty with participation. Each contribution follows an identified need, as described in [Professional Roles in FND Care](../../reference/professional-roles-in-fnd-care.md).
 
-### When the same strategy is a poor fit
+### Match the strategy to the presentation
 
 An external-focus cue might help a selected functional tremor but be less relevant to a painful fixed posture that requires protection of joints and careful positioning.
 
