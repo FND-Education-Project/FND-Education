@@ -173,23 +173,163 @@ If thinking, remembering or task-following difficulties create substantial daily
 
 ## For Clinicians and the Care Team
 
-### Treat attention as a set of functions, not a single dial
+### Begin with a better clinical question
 
-A person's performance may depend on selective, sustained and shifting attention, the demands of the environment and simultaneous bodily or cognitive tasks. Attentional capture by pain, intrusive sensory input or symptom-related concern is different from a conscious decision to focus on symptoms. Similarly, reducing demands can improve task performance without proving that attention produced the underlying condition.
+A patient says, “I lose my train of thought halfway through a sentence. By the time I return to it, the thought has gone.”
 
-**Occupational therapists** can begin with a concrete task—reading appointment instructions, preparing a meal or participating in a noisy clinic. Examine visual complexity, interruptions, instructions, motor demands, time pressure and sensory access. Offer one adjustment, such as a written cue, fewer simultaneous steps or a predictable workspace, and agree whether improved accuracy, effort or participation constitutes a meaningful result.
+Another describes walking becoming more difficult as soon as they start checking every step.
 
-**Neuropsychologists and psychologists** can distinguish attentional load from memory encoding, dissociation, anxiety or threat interpretations. A brief formal test in a quiet room is not equivalent to managing everyday competing demands; routine supports and separate assessment of sleep, pain, migraine, medication effects and other contributors remain appropriate.
+Both experiences invite questions about **attention**. They also invite diagnostic care: similar descriptions can arise through different mechanisms, and several problems can coexist.
 
-**Speech-language therapists** can adapt conversational turn-taking, response time, written prompts and communication access when language, word-finding or voice symptoms occur under load. **Neurologists** should describe which observed changes informed the diagnosis, without implying that an attentional improvement establishes the mechanism.
+The aim of this lesson is to use attention as a *clinical lens*, rather than a catch-all explanation. Ask: **What does this person need to notice, maintain, shift between, or return to—and what happens when the demands change?**
 
-**Symptom application — Functional Cognitive Disorder (FCD):** A person may lose the next instruction while managing several tasks. Consider attention and encoding demands, functional inconsistency in its clinical context, separate cognitive diagnoses and patient-important activities. Trial a single capture method or task-sequencing support rather than repeated memory testing. [FCD diagnostic overview](../../reference/diagnostic-signs/12-functional-cognitive-disorder.md) · [FCD recovery overview](../../reference/recovery-techniques/12-functional-cognitive-disorder.md).
+That question can guide assessment and useful adaptations without asking the patient to produce or suppress a symptom.
 
-### Close the loop without creating surveillance
+### How attention works: selection, shifting and the demands of a task
 
-Agree on an observable target (for example, one form section completed accurately with less fatigue), a low-burden adaptation and a review date. Ask whether the change made the *task* easier, not whether the patient “stopped paying attention” to a symptom. A worsening outcome may reflect extra divided attention or unsuitable cues; withdrawing accommodations is not a therapeutic default.
+The brain continually receives more information than can occupy conscious attention at once. **Selective attention** helps prioritize one stream, **sustained attention** supports staying with it, and **shifting attention** enables the person to move between demands. Dividing attention across tasks adds another layer of coordination.
 
-**Evidence boundary:** Goal-directed/stimulus-driven attention comes from general neuroscience. FND-specific attention findings—including selected action-tremor research—are narrower than this overall framework. Source basis: [3](#citation-3), [2](#citation-2).
+These functions interact with **working memory**—keeping information available briefly so it can be used. When a person is interrupted halfway through planning a sentence, the next phrase may never have been firmly encoded, or the active plan may be difficult to recover afterward. The report “I forgot” alone cannot distinguish those possibilities.
+
+Attention also turns inward. Pain, an uncomfortable body sensation or a thought about how an activity is going can take priority. Such capture may happen before the person consciously decides what to attend to.
+
+For the clinician, the useful distinction is between **where attention is directed**, **how the task is structured**, and **what bodily or cognitive processes might also be affecting performance**.
+
+### Finding one — The brain can guide attention and be redirected by events
+
+**What did researchers find?**
+
+In a foundational neuroscience review, Corbetta and Shulman described interacting systems involved in goal-directed attention and the detection of behaviourally relevant events. Some attentional processes help sustain a chosen goal; others help reorient attention when new information warrants it. This is a synthesis of general attention neuroscience, rather than an FND-specific patient experiment. (*citation* [1](#citation-1))
+
+**Why does it matter?**
+
+A person may be strongly motivated to follow an explanation and still lose it when another stimulus or internal concern captures attention. A clinical instruction also has a cost: the patient must hear it, select what matters, hold it in mind and act on it.
+
+Consider a clinician giving three directions while a patient is already trying to balance, speak and manage pain. Difficulty completing the directions may tell us as much about the *demands of that moment* as about any isolated cognitive skill.
+
+**How can that knowledge improve care?**
+
+Present one meaningful instruction, then allow time for the patient to use it. When appropriate, provide a written or visual cue so the next step stays available after an interruption. Compare whether the change improves understanding, accuracy, effort or participation.
+
+The clinical question is not simply, “Can they concentrate?” It becomes, **“Under what conditions can they reliably use the information?”**
+
+### Finding two — Attention can interact with functional movement
+
+**What did researchers find?**
+
+Huys and colleagues studied attentional focus during selected action-tremor tasks, including participants with functional tremor and comparison groups. The experimental findings supported a relationship between task demands, the direction of attention and the expression of functional tremor. The study addresses a specific movement presentation under studied conditions. (*citation* [3](#citation-3))
+
+**Why does it matter?**
+
+An involuntary movement may vary when attention or the task changes. This variability can be clinically informative. It also helps explain why an isolated instruction in an examination may produce a different result from a familiar purposeful activity.
+
+A change during one task describes *what occurred in that task*. The wider clinical assessment determines how to interpret it. Attention findings in functional tremor provide a reason to explore movement-related strategies; they cannot be presumed to explain functional seizures, fatigue, every gait problem or a person's cognitive symptoms.
+
+**How can that knowledge improve care?**
+
+When a functional movement presentation and safety assessment support it, a physiotherapist might compare a body-focused instruction with a clear external target during a supported activity. An occupational therapist might explore the same principle while handling an object that matters to the patient.
+
+Record the result the person achieved—such as safer placement, fewer drops, less effort or more reliable participation—alongside any movement change. Specialist physiotherapy consensus supports task-oriented retraining for selected functional motor difficulties, while the exact strategy must fit the patient. (*citation* [6](#citation-6))
+
+### Finding three — Everyday function is a clinical outcome
+
+**What did researchers recommend?**
+
+Nicholson and colleagues developed multidisciplinary **occupational-therapy consensus recommendations** for FND. Their guidance emphasizes collaborative formulation, activity analysis, functional goals and adaptations that take the person's daily life into account. A professional consensus gives practitioners a reasoned framework; it is distinct from a trial proving that each individual technique is effective. (*citation* [2](#citation-2))
+
+**Why does it matter?**
+
+A person may complete a short task in a quiet clinic and remain unable to complete it reliably at home. Position, fatigue, visual clutter, interruptions, sensory access and the need to switch tasks can all change what the activity demands.
+
+**Clinical success in one setting and everyday reliability are different outcomes.** An accommodation can also improve participation while symptoms persist.
+
+**How can that knowledge improve care?**
+
+Start with an activity the person values. Identify where the task becomes difficult. Select a manageable adjustment with the person, such as changing the sequence, keeping the next step visible or making the work area easier to use.
+
+Agree beforehand what would count as useful: perhaps finishing the task with less exhaustion or returning after an interruption more successfully. The accommodation remains available whenever it supports safe, meaningful participation.
+
+### Finding four — Cognitive inconsistency requires careful interpretation
+
+**What did researchers describe?**
+
+Ball and colleagues reviewed **functional cognitive disorder (FCD)** and highlighted *internal inconsistency* as an important positive diagnostic concept: a meaningful discrepancy in cognitive functioning across contexts or within the clinical presentation. Their paper is a clinical review, not a demonstration that every attention or memory complaint represents FCD. (*citation* [4](#citation-4))
+
+**Why does it matter?**
+
+Suppose someone recounts a complex medical history in detail but cannot reliably recall a brief instruction later in the appointment. Both observations deserve attention. They involve different tasks, time intervals, pressures and ways of accessing information.
+
+A clinician should ask what each observation establishes, what it leaves unanswered, and whether a genuinely comparable ability has varied. Sleep disruption, pain, medication effects, migraine, sensory barriers, neurological disease and other contributors remain part of an appropriate assessment.
+
+**How can that knowledge improve care?**
+
+Use the patient's history and an appropriately chosen cognitive assessment to investigate the positive pattern. Assess everyday functional impact separately. The [FCD diagnostic reference](../../reference/diagnostic-signs/12-functional-cognitive-disorder.md) develops the assessment principles; the [FCD recovery reference](../../reference/recovery-techniques/12-functional-cognitive-disorder.md) addresses rehabilitation and supports.
+
+A written cue or external memory system can support the person regardless of whether the ultimate diagnosis is FCD, another condition or a combination.
+
+### Work through a patient encounter
+
+Consider a **fictional teaching case**, designed for clinical reasoning rather than presented as a published patient report.
+
+A person with an established functional walking difficulty arrives for a multidisciplinary appointment. They also describe losing their place during conversations and forgetting what they intended to say when interrupted.
+
+During the opening conversation, they provide a detailed account of how symptoms affect their day. Later, a clinician gives several instructions while they are moving toward a chair. The person pauses, asks for the directions again and becomes increasingly concerned about holding up the appointment.
+
+After sitting in a quieter position, with one instruction given at a time, they follow the conversation more easily.
+
+**What has the team actually learned?**
+
+The patient manages one interaction more readily than another. The situations differ in movement demands, attentional switching, time pressure and the opportunity to keep an instruction available.
+
+This suggests useful assessment questions. It does not yet establish FCD, identify the mechanism of the walking symptoms or show that the person could reproduce the easier performance in every setting.
+
+**What would you investigate next?**
+
+Ask the patient which activities matter most and where interruptions become particularly costly. Clarify the time course of cognitive symptoms, sleep, pain, medications, sensory access and relevant neurological features. Establish what examination findings support the previously diagnosed functional motor presentation, while addressing any new or changing findings on their own merits.
+
+Then work collaboratively on one practical question: *Could changing the way instructions are delivered make an important activity easier?*
+
+### Let each discipline answer a different part of the question
+
+**Neurology — establish what the observation means.** Describe the positive clinical signs that support the motor diagnosis and the limits of what an attention-related change demonstrates. Assess other neurological or medical concerns when clinically indicated. The patient should leave knowing why their presentation was interpreted as functional, which aspects remain uncertain, and what follow-up is appropriate.
+
+**Occupational therapy — analyse the real activity.** Ask the person to identify an ordinary activity they want to manage more reliably. Examine the sequence, interruptions, physical demands, sensory environment and current supports. For a writing task, a visible “next step” note or a familiar arrangement of open documents may help the person return after interruption. Judge the adaptation by meaningful completion, effort and access—not the tidiness of the workspace. (*citation* [2](#citation-2))
+
+**Physiotherapy — distinguish useful focus from divided-task overload.** For a person whose assessed functional gait pattern changes with task focus, the physiotherapist may explore an external destination in a properly supported setting. A second task can be considered only when the person's balance, ability to stop and cognitive load permit it. A clearer single goal may be more effective than adding another demand. (*citation* [6](#citation-6))
+
+**Psychology and neuropsychology — formulate the cognitive process.** Explore whether the main difficulty involves taking in information, maintaining it, shifting attention, retrieving it, or coping with repeated interruptions. Consider dissociation, distress, sleep, pain and other relevant factors as parts of an individualized formulation. A neuropsychological assessment can clarify specific questions; performance during formal testing and everyday ability are complementary sources of information. Where distress or self-monitoring has become an additional burden, psychological support may address that burden without assigning it as the origin of FND.
+
+**Speech-language therapy — protect communication.** If word-finding, speech or voice symptoms affect participation, a speech-language therapist can examine the demands of turn-taking, response time, language formulation and speech production. Trial an agreed conversational structure—one person speaking at a time, enough time to respond, and a written anchor when useful. Functional communication guidance supports meaningful goals and individualized access strategies. (*citation* [7](#citation-7))
+
+In each discipline, the patient contributes expertise about what works in daily life. The team contributes assessment skills, safeguards and treatment options. A useful plan requires both.
+
+### A reasoning challenge: what are you tempted to conclude?
+
+Imagine the patient performs better when a background conversation ends.
+
+An older interpretation might make a quick leap: “The symptom disappears when the person stops thinking about it.”
+
+Try a more rigorous interpretation:
+
+**First, name the observation.** The activity became easier when competing demands were reduced.
+
+**Then, name the alternatives.** Perhaps the person heard the instructions more clearly, had more working-memory capacity available, felt less sensory strain or could concentrate on a single goal. More than one explanation may apply.
+
+**Finally, identify what would help the patient.** Compare one reversible adjustment during a meaningful activity, with their consent. Measure whether it improves the function that matters.
+
+That approach turns the observation into a clinical hypothesis rather than a verdict about the person's intention or character.
+
+### Review the result without creating another burden
+
+Agree with the patient on **one priority activity, one adaptation and one meaningful outcome**. A simple review might ask whether they could complete the activity, return after interruptions, and manage the effort involved.
+
+When an adaptation helps, consider how to make it available in other relevant settings. When it adds difficulty, revise the task or select another strategy.
+
+Preserve mobility aids, communication supports, rest and other accommodations according to the person's actual needs. Participation is a worthwhile outcome even while symptoms continue.
+
+**Evidence boundaries:** General attention neuroscience explains useful functions of attention; it does not establish FND-specific causation. Selected functional-tremor experiments support narrower conclusions about attentional focus in that presentation. FND occupational-therapy, physiotherapy and speech-language consensus documents guide clinical practice but are not individual-technique efficacy trials. FCD diagnostic reasoning requires positive clinical assessment rather than inference from a single variable performance. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4), [6](#citation-6), [7](#citation-7))
+
+The clinical principle to carry forward is this: **an attentional change can be an informative observation; a carefully chosen adaptation can turn that observation into better care.**
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -210,5 +350,7 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-3"></a>**[3]** | — | Huys ACML, Haggard P, Bhatia KP, Edwards MJ. **Misdirected attentional focus in functional tremor.** Brain. 2021;144:3436–3450. doi:10.1093/brain/awab230. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34145898/) · [Original](https://academic.oup.com/brain/article/144/11/3436/6305827). [FND-CIT-0220](../../research/citation-index.md#fnd-cit-0220). |
 | <a id="citation-4"></a>**[4]** | — | Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain*. 2020;143(10):2895–2903. [https://doi.org/10.1093/brain/awaa224](https://doi.org/10.1093/brain/awaa224) [FND-CIT-0071](../../research/citation-index.md#fnd-cit-0071). |
 | <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1hmedeg/comment/m3tqr3z/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0308](../../research/citation-index.md#fnd-cit-0308). |
+| <a id="citation-6"></a>**[6]** | — | Nielsen G, Stone J, Matthews A, et al. **Physiotherapy for functional motor disorders: a consensus recommendation.** *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86:1113–1119. doi:10.1136/jnnp-2014-309255. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602268/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/25433033/). [FND-CIT-0028](../../research/citation-index.md#fnd-cit-0028). |
+| <a id="citation-7"></a>**[7]** | — | Baker J, Barnett C, Cavalli L, et al. **Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.** *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92:1112–1125. doi:10.1136/jnnp-2021-326767. [Original](https://jnnp.bmj.com/content/92/10/1112) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/34210802/). [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
 
 *Publication-readiness audit: October 26, 2026. The Person section was human-edited and approved on October 26, 2026; two post-edit lesson audits, review of the other audiences, and independent clinical review remain pending.*
