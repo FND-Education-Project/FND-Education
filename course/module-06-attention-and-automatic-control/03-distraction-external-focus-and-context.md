@@ -22,33 +22,39 @@ Imagine someone with functional tremor sitting with an occupational therapist.
 
 They want to put a few photographs into a folder. Their hand shakes as they hold the first one.
 
-The therapist places the folder nearby and asks them to slide a photograph toward the open pocket.
+The therapist places the folder nearby and asks them to slide a photograph toward the open pocket of the folder.
 
-The person looks at the pocket instead of checking each movement of their fingers. This time, getting the photograph into place feels a little easier.
+The person looks at the pocket instead of concentrating on the movement of their fingers. This time, getting the photograph into place feels a little easier. And, it feels encouraging.
 
-That's encouraging.
+Then they get home. They want to put a novel away between two books on a shelf.
 
-Then they get home. The folder is on a different table, they're tired, and the next photograph is difficult to manage.
+But the novel is heavier than a photograph. Their hand needs a different grip, and the shelf may be harder to reach. Putting the book away feels difficult.
 
-"Hang on. It worked earlier. Where did that go?"
+"My hand was doing better at therapy. Why is this so hard?"
 
-**A movement can be easier in one situation and harder in another.** The next question is how to make use of that easier moment.
+The person has a new task, in a different setting. That gives them and their therapist something useful to explore.
+
+**An easier movement in therapy is a starting point. The next step is finding out how it might help in everyday life.**
 
 This is what we'll explore in our final lesson on attention and automatic control.
 
 ### The setting is part of the task
 
-We often think of an activity as one simple thing: putting away photographs, getting dressed, or having a conversation.
+Putting a photograph into a folder and sliding a novel between books sound like similar jobs. You're putting something away.
 
-But your nervous system has more to work with than the activity itself.
+But the nervous system has a lot of work to do for each one.
 
-Where is the object? How easy is it to hold? Are you sitting comfortably? Is somebody giving instructions? Have you been working for a while?
+It's constantly using information from your eyes, skin, muscles and joints. It judges distances, helps you balance, adjusts how firmly you grip something and coordinates the movement.
 
-All of that is **context**: the conditions surrounding an activity.
+A thin photograph lying on a table calls for different movements from a heavier book going onto a shelf.
 
-Change the context and you've changed some of what the brain and body need to manage. That can matter even when the person is trying to do exactly the same thing.
+And your body is doing its ordinary work throughout the day. Posture, effort, energy, pain and fatigue can all affect how manageable a task feels.
 
-For some people with FND, movement or task performance changes noticeably with the setting. For others, a change of setting may make little difference. And an easier moment may depend on several things working together. (*citations* [1](#citation-1), [3](#citation-3))
+That's part of **context**: everything involved in doing an activity, including the demands of the task itself, your surroundings and the support available.
+
+A functional symptom can change even when you can't identify anything that set it off. **There doesn't have to be a noticeable trigger.** Sometimes the reason one moment feels different from another isn't clear.
+
+For some people with FND, adjusting the task or the setting can make participation easier. For others, the difference may be small or absent. The idea is to explore what is useful rather than assume one cause. (*citations* [1](#citation-1), [3](#citation-3))
 
 ### A cue can give movement somewhere to go
 
@@ -58,23 +64,27 @@ The pocket gives the person a destination. It's a **cue**: a piece of informatio
 
 When someone pays attention to the result of an action, rather than every movement needed to get there, that's called **[external focus](../../glossary/README.md#external-focus)**.
 
-It's a bit like looking at where you want to put a cup instead of giving your wrist and fingers a running commentary.
-
 The person is still paying attention. They're giving their attention a useful destination.
 
-A physiotherapist or occupational therapist may use this approach when it fits the person's functional movement symptoms. The therapist can adjust the target, the activity, and the support available. (*citations* [1](#citation-1), [3](#citation-3))
+A bookshelf can offer a destination, too. But a novel is heavier, and reaching the shelf makes different demands on the arm and body. Focusing on the destination may help with one part of the job while the person still needs a different setup or support.
 
-Sometimes a cue is a **rhythm**, such as a steady beat that helps guide the timing of a movement. A rhythm is one possible tool, rather than something everyone needs to follow.
+A physiotherapist or occupational therapist may use external focus when it fits someone's functional movement symptoms. The therapist can change the target, the task and the support available. (*citations* [1](#citation-1), [3](#citation-3))
+
+Sometimes a cue is a **rhythm**, such as a steady beat that helps guide the timing of a movement. It's one possible tool, rather than something everyone needs to follow.
 
 ### Isn't that just distraction?
 
 Not quite.
 
-**Distraction** means attention has been drawn toward something else. Attention hasn't switched off; it's gone somewhere different.
+**Distraction** means attention has shifted toward something else. It might happen naturally when something catches your interest, or it might be deliberately encouraged during an activity.
 
-Imagine the person sorting photographs while talking about a happy memory. They become caught up in the conversation, and their shaking changes.
+Imagine someone sorting photographs while talking about a happy memory. They become caught up in the conversation, and their shaking changes.
 
-The conversation has drawn some of their attention away from monitoring the hand. That's different from focusing on the folder pocket, where the attention stays with the task.
+The conversation has drawn some attention away from monitoring the hand.
+
+With **external focus**, attention stays on the goal of the action: getting the photograph into the folder.
+
+So the difference isn't whether the shift happens on purpose. **It's where attention goes.**
 
 One community member described a similar experience:
 
@@ -82,47 +92,47 @@ One community member described a similar experience:
 
 *Figure 1. Community experience.* One person's description of a change in tremor during conversation. [Original public source](https://www.reddit.com/r/FND/comments/1nzuyuz/comment/ni918wf/). (*citation* [5](#citation-5))
 
-Researchers have studied how attention relates to some functional tremors. Clinicians may also observe changes with distraction during an examination. These changes can help them understand a movement pattern, alongside the rest of a proper assessment. (*citations* [1](#citation-1), [2](#citation-2))
+Researchers have studied how attention relates to some functional tremors. Clinicians may also observe changes with distraction during an examination. These observations can help them understand a movement pattern, alongside the rest of a proper assessment. (*citations* [1](#citation-1), [2](#citation-2))
 
 **A movement changing with attention is still an involuntary experience.**
 
-For rehabilitation, external focus can be more useful than simply trying to keep a person's mind busy, because it gives them something meaningful to work toward.
+For rehabilitation, focusing on a meaningful goal may be more useful than simply adding an unrelated distraction. The therapist can explore what helps the person complete an activity they actually want to do.
 
 ### Would doing two things at once help?
 
-You might have heard about walking to a beat or talking while moving.
+Sometimes, yes. Other times, it makes things harder.
 
-Those are different approaches.
+You might have heard about walking to a beat or talking while moving. Those are different approaches.
 
 A beat can provide a cue for timing. Talking while walking is a **dual task**: doing two activities at once.
 
-A second activity sometimes changes how a functional movement happens. It can also make an activity much harder, particularly when someone is dealing with thinking difficulties, sensory overload, dizziness, or balance problems.
+Imagine someone working on walking with a physiotherapist. In a carefully supported session, a simple conversation might help their steps flow more naturally because they're paying less attention to each separate movement.
 
-Picture trying to follow a complicated conversation while carrying a full mug. You have two jobs now, and both need attention.
+For another person, talking while walking may make balance and concentration harder. They may do better with one clear destination and no conversation at all.
 
-More distraction isn't automatically better rehabilitation.
+Both experiences are useful information.
 
-A therapist may choose one clear target instead of adding a second task. They consider what is manageable and safe for that particular person. (*citations* [1](#citation-1), [3](#citation-3))
+A **dual task can sometimes help**, but it also asks the nervous system to manage two activities. It isn't automatically a better exercise, especially when symptoms involve balance, dizziness, sensory overload or thinking difficulties.
+
+The therapist chooses whether an added task is worthwhile, checks that it's safe, and changes the plan when needed. (*citations* [1](#citation-1), [3](#citation-3))
 
 ### Bringing an easier moment into everyday life
 
-Let's return to the person sorting photographs.
+Let's return to the person who put a photograph into a folder at therapy and struggled to put a novel onto a shelf at home.
 
-Their therapist has noticed that using a clear destination sometimes makes the activity easier.
+At their next appointment, they tell the occupational therapist what happened.
 
-That gives them something to work with.
+Together, they look at the new task. A book has more weight, needs a different grip and may have to be lifted higher. They explore whether the clear destination that helped with the photograph is still useful, and what other support the book needs.
 
-They could keep the same comfortable seated position and try the activity with a familiar folder. Perhaps the therapist helps them adapt the setup for their own table at home.
+Perhaps a lower shelf, a lighter book or a safer position makes the job more manageable. The therapist helps decide what fits the person's abilities and safety needs.
 
-Later, if that arrangement is useful and reliable, they might explore putting a letter into an envelope or another activity that matters to them.
+They're exploring whether a helpful idea from one task can support a different one that matters at home.
 
-The goal is to find out whether something helpful in one situation can also work somewhere else.
+Rehabilitation professionals call this **carryover**: when a skill or useful approach practised in one setting becomes helpful in everyday life.
 
-Rehabilitation professionals call this **carryover**: when a skill or helpful approach used in practice becomes useful in everyday life.
+Carryover can take time. A movement that works in a quiet therapy room might still be difficult at home, or on a day when pain and fatigue are stronger.
 
-Carryover can take time. A movement that works in a quiet therapy room might still be difficult in a busy kitchen, or on a day when pain and fatigue are stronger.
-
-That doesn't erase what happened in therapy. It tells the team more about the conditions needed for the activity to work.
+That doesn't erase what happened in therapy. The person and therapist now know a little more about what the everyday task requires.
 
 **The aim is to build something you can use, rather than collect moments when a symptom happens to look better.** (*citations* [1](#citation-1), [3](#citation-3))
 
@@ -132,9 +142,9 @@ Think of someone who loses words during an appointment.
 
 When several people speak at once, they struggle to finish a thought. With one listener, more time, and a question they can refer back to, the conversation might become easier.
 
-That's a change in context, too.
+This is a change in context, also.
 
-Perhaps those conditions would help at another appointment. The person could ask for one speaker at a time or a short written reminder.
+Perhaps those conditions would help at another appointment. The person could ask for **one person to speak at a time** or a short written reminder.
 
 Their speech or thinking symptoms might remain. The conversation can still become more manageable.
 
