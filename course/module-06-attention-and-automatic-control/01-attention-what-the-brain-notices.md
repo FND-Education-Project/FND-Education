@@ -1,6 +1,6 @@
 # Attention: What the Brain Notices
 
-> **Working draft:** The Person section has been human-edited and approved with AI assistance. Supporter and Clinician content remains subject to editorial and clinical review.
+> **Working draft:** The Person and Clinician sections have been human-edited and approved with AI assistance. Supporter content remains subject to editorial and clinical review.
 
 Lesson 15 explores attention and what the brain notices through everyday examples, collaborative adaptations and clinical reasoning.
 
@@ -181,8 +181,6 @@ Today, they describe another difficulty: “When someone interrupts me, the thou
 
 It's worth noticing the second concern without immediately giving it the same diagnosis as the first.
 
-In a 2021 international online survey, Butler and colleagues gathered responses from **1,048 people with FND** about their experiences and associated symptoms. The sample illustrates the breadth of problems people bring to care. Because participants were self-selected, its size is not a prevalence estimate—and it does not tell us what percentage of people with functional gait disorder have cognitive symptoms. (*citation* [8](#citation-8))
-
 So our fictional patient has a well-supported *motor diagnosis* and an additional *cognitive complaint*. How they relate is a question for assessment. Other patients may have one, both, or a quite different combination.
 
 During the consultation, several things happen together. The patient is moving toward a chair with their usual aid. A clinician asks about medication changes, another question follows, and the patient tries to remember what they were saying.
@@ -335,7 +333,7 @@ The essential clinical lesson is this:
 
 **Attention may help explain what changes during an activity. The clinician's task is to turn that observation into clearer assessment, a more usable environment and better care.**
 
-The evidence behind this lesson comes from different kinds of sources: general attention neuroscience, a selected functional-tremor experiment, a clinical FCD review, professional rehabilitation consensus and an international self-selected survey of people with FND. Each contributes to this reasoning within its own scope. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4), [6](#citation-6), [7](#citation-7), [8](#citation-8))
+The evidence behind this lesson comes from different kinds of sources: general attention neuroscience, a selected functional-tremor experiment, a clinical FCD review and professional rehabilitation consensus. Each contributes to this reasoning within its own scope. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4), [6](#citation-6), [7](#citation-7))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -358,6 +356,5 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1hmedeg/comment/m3tqr3z/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0308](../../research/citation-index.md#fnd-cit-0308). |
 | <a id="citation-6"></a>**[6]** | — | Nielsen G, Stone J, Matthews A, et al. **Physiotherapy for functional motor disorders: a consensus recommendation.** *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86:1113–1119. doi:10.1136/jnnp-2014-309255. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602268/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/25433033/). [FND-CIT-0028](../../research/citation-index.md#fnd-cit-0028). |
 | <a id="citation-7"></a>**[7]** | — | Baker J, Barnett C, Cavalli L, et al. **Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.** *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92:1112–1125. doi:10.1136/jnnp-2021-326767. [Original](https://jnnp.bmj.com/content/92/10/1112) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/34210802/). [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
-| <a id="citation-8"></a>**[8]** | — | Butler M, Shipston-Sharman O, Seynaeve M, et al. **International online survey of 1048 individuals with functional neurological disorder.** *European Journal of Neurology*. 2021;28(11):3591–3602. doi:10.1111/ene.15018. [Original](https://doi.org/10.1111/ene.15018) · [FND-CIT-0014](../../research/citation-index.md#fnd-cit-0014). Self-selected online respondents; survey sample size is not a population prevalence rate or a gait-subgroup cognitive symptom rate. |
 
-*Publication-readiness audit: October 26, 2026. The Person section was human-edited and approved on October 26, 2026; two post-edit lesson audits, review of the other audiences, and independent clinical review remain pending.*
+*Publication-readiness audit: October 26, 2026. Person section human-edited and approved October 26, 2026; Clinician section human-edited and approved October 27, 2026. The Supporter section, two post-edit lesson audits and independent clinical review remain pending.*
