@@ -135,33 +135,139 @@ Next, we'll look at how your brain handles familiar actions with less step-by-st
 
 ## For Family, Friends, and Other Supporters
 
-### The little things competing for attention
+### When a simple question isn't simple
 
-Imagine reading instructions aloud while the television plays and someone else asks a question. You might still understand everything. The person you support might not, especially when pain, migraine, fatigue, thinking difficulties or sensitivity to noise are already taking up attention.
+Imagine two people sitting at the kitchen table, filling out an online form.
 
-The useful question isn't, “Why can't you concentrate?” It's **“What is making this task harder to follow, and what could we change together?”**
+One asks, “What was the date of that appointment?”
 
-Attention helps the nervous system select and hold information. Different demands can compete for it. That doesn't mean every attention difficulty is caused by FND or that focusing differently will make symptoms disappear.
+The person with FND looks up to answer. The kettle clicks off. Their leg is hurting, and they're trying to remember where they put an earlier letter.
 
-### Make room for the person's choice
+A moment later, they've lost their place in the form.
 
-Ask whether quiet would help before you turn off the television or move the conversation. Some people need reduced noise; others find familiar background sound reassuring.
+The supporter might think, *I only asked one question.*
 
-If the person wants assistance with an appointment form, you might read **one question at a time**, leave an answer on-screen long enough to find it later, or offer a written summary. Ask which is preferable. The goal is easier participation—not doing the task for them unless they ask.
+And that's true. But the person was already doing several things: reading the form, holding their next answer in mind, managing discomfort and keeping track of the conversation.
 
-Notice whether your own instructions add another demand. A string of helpful reminders can become one more stream of noise.
+**An interruption that seems small from the outside can ask quite a lot of the person experiencing it.**
 
-### When to involve a professional
+This lesson is about understanding those competing demands so that the two people can work together more comfortably. It also applies to a parent and child, a friend offering occasional help, or someone with FND who manages these challenges without a supporter.
 
-If thinking, remembering or task-following difficulties create substantial daily barriers, an **occupational therapist** can examine the task and environment. A **neuropsychologist**, psychologist or other appropriately trained clinician may help clarify cognitive symptoms and coexisting contributors. New or worsening cognitive changes need suitable medical assessment; don't assume they're simply attention or FND. (*citations* [1](#citation-1), [2](#citation-2))
+### What you notice and what they experience
+
+Last lesson, we started to learn that attention helps the brain select what matters at a particular moment. It also helps us stay with information and return to a task after something interrupts us.
+
+A person may be eager to finish an activity and still find that pain, a sound, another conversation or a worrying thought takes priority. The shift can happen before they have any deliberate say in it. Research on attention describes how the brain both maintains goals and redirects attention toward relevant events. (*citation* [1](#citation-1))
+
+From the outside, you may see someone pause, ask the same question twice, or lose the end of a sentence.
+
+From the inside, they may have been trying hard to keep that thought available and suddenly found it out of reach.
+
+This difference in perspective matters.
+
+Perhaps the person follows an exciting film quite happily but struggles to follow instructions in a busy room. You might wonder why their concentration seems different in each situation.
+
+The tasks *are* different. A film carries the story forward; instructions often require someone to remember details and act on them. Noise, pain, timing and the need to switch between activities can change the demands again.
+
+**Being able to concentrate in one situation doesn't mean another situation will be equally manageable.**
+
+And when thinking or memory problems appear alongside FND, they deserve to be understood in their own right. They may involve more than attention, and a reported cognitive symptom doesn't automatically establish functional cognitive disorder.
+
+### Being believed changes the conversation
+
+For some people with FND, the hardest part of an unusual or changing symptom is wondering whether the people close to them will believe it.
+
+If you've seen someone speak easily one moment and struggle to find words the next, or seem to remember something yesterday but not today, that difference may be confusing.
+
+You can acknowledge what you saw *and* accept that their difficulty is real.
+
+For example, instead of trying to resolve the inconsistency, the conversation might begin with: *“I noticed it was easier to talk earlier. Is there something different about what we're doing now?”*
+
+That question invites the person's experience into the picture. It doesn't ask them to justify their symptoms.
+
+A parent writing about their child's experience in an FND community described how the child:
 
 > “dissociates quite a bit, has issues with focusing and retaining new information”
 
-*Figure 1. Community experience.* A parent describes several experiences together; this does not establish their cause. [Original public source](https://www.reddit.com/r/FND/comments/1hmedeg/comment/m3tqr3z/). (*citations* [5](#citation-5))
+*Figure 1. Community experience.* One parent's account of several reported difficulties. These observations deserve attention, but they do not establish the cause or diagnosis of any of them. [Original public source](https://www.reddit.com/r/FND/comments/1hmedeg/comment/m3tqr3z/). (*citation* [5](#citation-5))
 
-**Something to discuss together:** “Would you prefer a quieter space, written instructions, one question at a time, or none of those today?”
+That parent's account may sound familiar to some families. Other people with FND have little or no difficulty with attention, or find that the problems arise in quite different circumstances.
 
-**One small thing:** Agree on one change for a familiar, low-risk activity and ask afterward whether it helped. No repeated testing, scores or surveillance are required.
+The useful starting point isn't deciding which experience is typical. It's listening to the particular person you're with.
+
+### Making more room for a conversation
+
+Return to the kitchen-table form.
+
+Suppose the person says, “I can't think with everything going on.”
+
+One supporter might immediately turn off the television, close the window and start reading the form aloud. They're trying to help, but they've made several decisions for the other person before asking which change is wanted.
+
+A different conversation might begin with: *“Would it help to do one question at a time, or would you rather have some quiet and finish this yourself?”*
+
+There is room for different answers.
+
+Someone may want the room quieter. Another may prefer background sound because it feels familiar. A person might welcome a short note marking where they stopped—or find extra reminders irritating.
+
+An **occupational therapist**, or OT, may use activity analysis and practical adaptations to improve participation when attention or cognitive demands interfere with daily activities. Professional consensus supports choosing adjustments with the individual, around real-life goals. (*citation* [2](#citation-2))
+
+At home, there's no need to turn every difficulty into a therapy session. Often the most helpful change is a small agreement made together.
+
+And if the person says, “Please don't help right now,” that can be useful information too.
+
+### Your relationship matters, too
+
+Not every supporter is in the same position.
+
+A **parent** may be helping a child prepare for school, learn to explain their needs and gradually take a greater role in decisions appropriate to their age and abilities. An agreed reminder may be more useful than repeated prompting.
+
+A **spouse or partner** might have been handling appointments and paperwork for years. They may know the routine well, yet still want time when they can simply be a couple rather than patient and caregiver.
+
+A **friend or relative** might offer support only occasionally. Their contribution may be as simple as allowing time for an answer or helping with one task that day.
+
+And **a person without a supporter** still deserves accessible information, flexible appointments and professional help where needed. Independent living should not depend on having someone available to remember everything or speak on their behalf.
+
+In all these situations, the person with FND remains the best source of information about their preferences, and each supporter has their own abilities and limits.
+
+Sometimes those needs meet easily. Sometimes they require a conversation.
+
+### When helping starts to use up your attention
+
+Imagine you've had a long day and are trying to make dinner. Your partner asks where the appointment notes are. You begin helping, then another question arrives, and soon neither of you remembers what you were doing.
+
+Both people now have competing demands.
+
+It could help to agree on one place to keep notes, decide which requests can wait or set aside a brief time to prepare for an appointment. That reduces the amount both of you have to keep in mind.
+
+But even a good system can become another responsibility. If you're expected to provide every reminder, keep track of every change and organize all the appointments, the arrangement may become exhausting.
+
+**A useful adaptation should make life more manageable, rather than quietly making one person responsible for everything.**
+
+Sometimes the person with FND can manage the task using a written cue or a simpler setup. Sometimes assistance is welcome. Sometimes outside help is what makes the arrangement sustainable.
+
+### Which questions belong with a professional?
+
+There are two different kinds of help here.
+
+An everyday adjustment—such as speaking one at a time or keeping the next step visible—can often be agreed between the people involved.
+
+Persistent thinking, memory or communication difficulties may call for more specialized assessment. An **OT** can help examine daily tasks and environments. A **neuropsychologist** or another qualified clinician may investigate cognitive difficulties; a **speech-language therapist** may be involved when communication is affected. New or substantially changed cognitive symptoms deserve appropriate medical assessment. The [Professional Roles in FND Care](../../reference/professional-roles-in-fnd-care.md) explains who can contribute and why.
+
+A supporter can bring observations, help prepare questions when invited, and help the person use an agreed plan.
+
+That is a meaningful role without taking responsibility for deciding what caused a symptom or whether a particular treatment is appropriate.
+
+### One thing worth taking from this lesson
+
+Understanding attention can change an everyday conversation.
+
+When someone loses their place, the question needn't become, “Why can't they remember?” It can become, **“What was this moment asking of them, and is there a way we could make it easier?”**
+
+That leaves room to believe the person's experience, try a practical adaptation if they want one, and respect both people's limits.
+
+**Something to discuss together:** “When you lose your train of thought, would you prefer more time, a reminder, less conversation—or for me to leave it alone?”
+
+**One small thing:** If there's a familiar, low-risk activity that often becomes frustrating, think together about one adjustment worth trying. The person can decide whether it helps. There's no need to monitor every symptom or keep a score.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
