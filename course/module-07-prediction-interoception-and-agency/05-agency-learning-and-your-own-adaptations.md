@@ -108,6 +108,14 @@ The supporter can offer practical help or observations; **OT, PT, SLT or psychol
 
 *Figure 1. Community experience.* A spouse describes offering to attend appointments. [Original public source](https://www.reddit.com/r/FND/comments/1o5s0b8/wife_just_diagnosed_with_disassociative_fnd_feels/). (*citations* [4](#citation-4))
 
+### Offering help is not deciding what the person intended
+
+Suppose a person's hand moves unexpectedly as they reach for a cup. A supporter may help with the cup, but cannot infer from the movement whether the person wanted it, chose it or will be able to repeat it. The person's reported experience and preferences remain central.
+
+The community spouse quoted above described offering accompaniment to appointments while leaving the decision to their partner. The same principle can guide adaptations: *ask what kind of help would be welcome, then accept the answer*. If there is a transfer or other safety concern, clinical training and assessment still belong with qualified professionals.
+
+This closes the module with a relationship between **knowing**, **observing** and **offering** rather than a burden to monitor or correct the person's symptoms.
+
 **Something to discuss together:** “What kind of help feels respectful to you, and when would you prefer I ask rather than act?”
 
 **One small thing:** Agree on a phrase that makes it easy to accept or decline assistance without giving a long explanation.
