@@ -98,6 +98,14 @@ Don't challenge them to count heartbeats, close their eyes to test balance, hold
 
 The person may have FND *and* a separate medical condition. Supporting them includes helping that condition receive its own care rather than explaining everything through interoception.
 
+### Different observations can both matter
+
+You may notice that someone is pale or unsteady while they describe internal sensations you cannot feel. Or they may report a racing heart when their pulse seems ordinary to you. Neither perspective should be treated as a verdict: **an observation, a sensation and a medical measurement answer different questions**.
+
+This is particularly important when the person has FND alongside migraine, a heart rhythm condition, autonomic illness or another condition. A supporter can help write down the person's own words for an appointment, with permission; interpreting the cause belongs with the clinician. What helps the person feel comfortable is not necessarily what establishes the diagnosis.
+
+A parent or partner may be closely involved, whereas a friend might only offer a quieter seat. Someone living alone may need the appointment service itself to provide accessible communication and assistance.
+
 **Something to discuss together:** “Are you describing what you feel, what you're able to do, or what someone measured? Should we ask the clinician about the difference?”
 
 **One small thing:** Write down one question the person wants answered. You don't have to become their body-signal interpreter.
