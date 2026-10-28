@@ -44,6 +44,20 @@ Imagine the busy appointment again. A quieter waiting place, written instruction
 
 We can ask, “What keeps making this situation harder?” without assuming that changing one part of it will cure a neurological disorder.
 
+### When ordinary input becomes harder to share
+
+Consider a crowded waiting room. The conversation you want to follow is still there, but a bright screen, someone calling names and your own discomfort each pull for attention.
+
+A person in an FND community reported:
+
+> “My FND symptoms, especially risk of seizures, get worse around sensory overload.”
+
+*Figure 1. Community experience — source-linked candidate.* The writer also described sensory-processing difficulties. This is a personal report, not evidence that sensory overload causes every functional seizure. [Public discussion](https://www.reddit.com/r/FND/comments/1bpx5du/how_many_autistics_are_here/). Direct source/context confirmation remains pending. (*citation* [7](#citation-7))
+
+Arousal describes the nervous system's **readiness** to respond; salience describes **which information gets priority**. Neither requires that you feel angry or afraid. A loud siren can demand attention when you are otherwise calm. Arousal may also increase during enjoyable exercise. That is why this lesson is about priority and readiness, not yet about how to regulate an emotion.
+
+We will give emotional processing its own lesson rather than implying that the word “stress” explains every symptom.
+
 **Something to think about:** What makes a room, conversation or activity feel demanding—noise, lighting, uncertainty, physical effort, pain, something else?
 
 **One small step:** Choose one source of unnecessary strain you can safely reduce. If you have a medical condition affecting breathing, heart rate or blood pressure, discuss changes and measurements with your clinician instead of attributing them to FND.
@@ -134,5 +148,7 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-4"></a>**[4]** | — | Baker J, Barnett C, Cavalli L, et al. **Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.** JNNP. 2021;92:1112–1125. doi:10.1136/jnnp-2021-326767. [Original](https://jnnp.bmj.com/content/92/10/1112) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/34210802/). [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
 | <a id="citation-5"></a>**[5]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
 | <a id="citation-6"></a>**[6]** | — | Bennett K, Diamond C, Hoeritzauer I, et al. **A practical review of functional neurological disorder (FND) for the general physician.** Clin Med. 2021;21:28–36. doi:10.7861/clinmed.2020-0987. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7850207/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/33479065/). [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). |
+
+| <a id="citation-7"></a>**[7]** | Figure 1 | Person-described sensory overload, [public r/FND discussion](https://www.reddit.com/r/FND/comments/1bpx5du/how_many_autistics_are_here/). Quote candidate from internal community notebook; recheck speaker/context before publication. Not causal evidence. |
 
 *Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
