@@ -52,6 +52,18 @@ If you find it difficult to notice early fatigue, planning rest may be useful. I
 
 You should not practise holding your breath, ignoring breathing trouble or pushing through a concerning symptom in order to test body awareness.
 
+### The signal, its description and its cause
+
+A person in an FND community described some of their sensations this way:
+
+> “I get tingling, needles, numbness, and burning sensations.”
+
+*Figure 1. Community experience — source-linked candidate.* These words describe a lived sensation, not a diagnosis of its cause. [Public discussion](https://www.reddit.com/r/FND/comments/1hmedeg/please_explain_your_symptoms_in_detail/). Exact wording and context require confirmation before publication. (*citation* [8](#citation-8))
+
+Those are useful descriptions because another person can understand **what it feels like**, even if the cause hasn't been established. A clinician may ask whether the sensation is affected by position, illness, medication, sensory context or another condition. The reported experience matters; an explanation needs its own evidence.
+
+The research also needs this distinction. One FND study found differences in certain questionnaire and brain-response measures involving heartbeats, without a statistically significant difference in one heartbeat-counting accuracy measure. These aren't interchangeable measurements or proof that every person with FND incorrectly senses their body. (*citation* [3](#citation-3))
+
 **Something to think about:** When you say “I feel strange,” what sort of information are you trying to describe: inside-the-body sensation, body position, awareness, or something outside you?
 
 **One small step:** Try replacing one vague description with one precise, ordinary phrase. “My right foot feels distant,” for example, says more than “My leg is weird.” You don't have to decide why it happens.
@@ -145,5 +157,7 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-5"></a>**[5]** | — | Bennett K, Diamond C, Hoeritzauer I, et al. **A practical review of functional neurological disorder (FND) for the general physician.** Clin Med. 2021;21:28–36. doi:10.7861/clinmed.2020-0987. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7850207/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/33479065/). [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). |
 | <a id="citation-6"></a>**[6]** | — | Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622) [FND-CIT-0027](../../research/citation-index.md#fnd-cit-0027). |
 | <a id="citation-7"></a>**[7]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
+
+| <a id="citation-8"></a>**[8]** | Figure 1 | Person-described sensory experience, [public r/FND discussion](https://www.reddit.com/r/FND/comments/1hmedeg/please_explain_your_symptoms_in_detail/). Quote candidate from internal community notebook; direct speaker/context verification needed. Not medical evidence. |
 
 *Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
