@@ -4,7 +4,7 @@
 
 Lesson 21 considers how emotions are processed and regulated, why conversations can become difficult when functional symptoms arise, and why timing does not establish intent.
 
-*Editorial seed: October 28, 2026*
+*Last reviewed: October 28, 2026*
 
 ***
 
