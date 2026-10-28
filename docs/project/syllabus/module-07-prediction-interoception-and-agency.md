@@ -29,6 +29,22 @@ Help readers understand the brain's use of predictions, bodily and external sens
 - A feedback loop is not blame or proof that a person can turn symptoms off.
 - Autonomic or systemic complaints also deserve medical evaluation when indicated.
 
+## Proposed fifth lesson — Emotional Regulation and Involuntary Symptoms (editorial proposal)
+
+**Proposed placement:** After Lesson 20 (Salience, Arousal, and Feedback), before the current Lesson 21 on agency. If approved, the new lesson would provisionally become Lesson 21 and the agency lesson would become Lesson 22. **No lesson IDs, course routes, lesson counts or learner-progress keys are changed by these notes.** Review all later overall lesson labels before adopting a five-lesson Module 7.
+
+**Distinct concept:** Emotional processing and emotional regulation are not synonyms for arousal. Teach the ordinary roles of emotional significance, response intensity, identifying feelings, modulation and recovery, then separate that general neuroscience from the mixed, group-level emotional-processing findings in FND. Emotion dysregulation is not a positive diagnostic sign, proven universal symptom, or established individual causal mechanism. Emotional difficulty may also reflect disability, pain, fatigue, sleep disruption, sensory/cognitive load, trauma-related experiences, medication or other conditions. Link to [Emotional Regulation, Irritability, and Overwhelm](../../../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md) for detailed assessment and practice boundaries.
+
+**Central teaching example:** During an important disagreement, a person may lose their ability to follow or remember parts of a conversation, experience speech difficulties, become disconnected or have a functional seizure. An individual may experience some, none or a different order of these difficulties. Emotional strain may be associated with symptom escalation for some people, but the direction and mechanism cannot be inferred from timing alone. **An interruption that happens at a seemingly convenient moment is not evidence that the neurological symptom was deliberately produced to escape the conversation.** Equally, the other person's unresolved concern remains valid.
+
+- **Person:** Explore what it means when emotional responses arrive faster than expected or communication becomes neurologically difficult. Distinguish feelings, regulation, symptoms and intention; acknowledge uncertainty and clinical red flags for new or changed episodes.
+- **Supporter:** Explain why apparently strategic timing can be misread; believing an involuntary interruption does not require ignoring the supporter's own feelings. Offer only a short bridge to collaborative accommodations, not a full relationship or conflict-resolution lesson.
+- **Clinician:** Separate normal regulatory neuroscience, FND group research, speculative network explanations and individual assessment; distinguish emotional reactivity, cognitive overload/FCD presentations, speech changes, dissociation and functional seizures as appropriate; evaluate comorbidity or new medical change without assuming a universal stress mechanism.
+
+**Detailed relationship teaching belongs later:** In [Module 14 — Relationships, Identity, and Grief](module-18-relationships-identity-and-grief.md), develop how both people can keep difficult matters discussable through smaller portions across multiple occasions, realistic concessions, reciprocal latitude and shared boundaries—not merely postponing one conversation. Avoid treating support people as therapists or the person with FND as responsible for preventing every symptom.
+
+**Congruity check:** Lesson 20 explains salience, arousal and feedback as broad processes; this proposed lesson asks how feelings are processed and regulated, and what is known or unknown about emotional strain accompanying involuntary functional symptoms; the existing agency lesson then distinguishes intent, perceived control and movement/response capacity. Keep each lesson's central question separate.
+
 ## Lesson 21 — Sense of Agency, Learning, and Personal Adaptations
 - Agency as the *experience* of initiating or controlling an action, distinct from intent, responsibility and actual capacity.
 - Learning and expectations can shape later experiences; involuntary symptoms are not learned fakery.
