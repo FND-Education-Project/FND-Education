@@ -1,0 +1,768 @@
+{
+  "title": "FND Education — Module 5 Review",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 0,
+    "lesson": null,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "module",
+    "module": 5,
+    "seed": 1,
+    "selected_question_count": 105
+  },
+  "score": 74.63,
+  "included": [
+    {
+      "answer": "ESCALATION",
+      "borrowed": false,
+      "clue": "Moving\n  to a higher level of care",
+      "direction": "across",
+      "grid_col": 13,
+      "grid_row": 10,
+      "lesson": 14,
+      "module": 5,
+      "original_answer": "ESCALATION",
+      "priority": 1,
+      "row": 444
+    },
+    {
+      "answer": "HURT",
+      "borrowed": false,
+      "clue": "In pain",
+      "direction": "down",
+      "grid_col": 19,
+      "grid_row": 7,
+      "lesson": 14,
+      "module": 5,
+      "original_answer": "HURT",
+      "priority": 2,
+      "row": 417
+    },
+    {
+      "answer": "LIMITS",
+      "borrowed": false,
+      "clue": "Boundaries\n  of what someone can manage",
+      "direction": "down",
+      "grid_col": 17,
+      "grid_row": 10,
+      "lesson": 14,
+      "module": 5,
+      "original_answer": "LIMITS",
+      "priority": 1,
+      "row": 429
+    },
+    {
+      "answer": "ADAPTATION",
+      "borrowed": false,
+      "clue": "Practical\n  change to fit a need",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 14,
+      "lesson": 13,
+      "module": 5,
+      "original_answer": "ADAPTATION",
+      "priority": 1,
+      "row": 409
+    },
+    {
+      "answer": "OVERLAP",
+      "borrowed": false,
+      "clue": "Share\n  symptoms or features",
+      "direction": "down",
+      "grid_col": 11,
+      "grid_row": 9,
+      "lesson": 12,
+      "module": 5,
+      "original_answer": "OVERLAP",
+      "priority": 2,
+      "row": 358
+    },
+    {
+      "answer": "CEILING",
+      "borrowed": false,
+      "clue": "Room\n  surface above your head",
+      "direction": "down",
+      "grid_col": 22,
+      "grid_row": 5,
+      "lesson": 13,
+      "module": 5,
+      "original_answer": "CEILING",
+      "priority": 3,
+      "row": 400
+    },
+    {
+      "answer": "LATER",
+      "borrowed": false,
+      "clue": "After\n  some time has passed",
+      "direction": "down",
+      "grid_col": 15,
+      "grid_row": 12,
+      "lesson": 14,
+      "module": 5,
+      "original_answer": "LATER",
+      "priority": 2,
+      "row": 419
+    },
+    {
+      "answer": "EXIT",
+      "borrowed": false,
+      "clue": "Way out",
+      "direction": "across",
+      "grid_col": 22,
+      "grid_row": 6,
+      "lesson": 14,
+      "module": 5,
+      "original_answer": "EXIT",
+      "priority": 2,
+      "row": 415
+    },
+    {
+      "answer": "CONVERSATION",
+      "borrowed": false,
+      "clue": "Back-and-forth\n  discussion",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 9,
+      "lesson": 14,
+      "module": 5,
+      "original_answer": "CONVERSATION",
+      "priority": 1,
+      "row": 440
+    },
+    {
+      "answer": "HANDOUT",
+      "borrowed": false,
+      "clue": "Printed\n  sheet of helpful information",
+      "direction": "down",
+      "grid_col": 8,
+      "grid_row": 8,
+      "lesson": 13,
+      "module": 5,
+      "original_answer": "HANDOUT",
+      "priority": 2,
+      "row": 394
+    },
+    {
+      "answer": "SUPPLIES",
+      "borrowed": false,
+      "clue": "Useful\n  items kept on hand",
+      "direction": "down",
+      "grid_col": 24,
+      "grid_row": 1,
+      "lesson": 13,
+      "module": 5,
+      "original_answer": "SUPPLIES",
+      "priority": 2,
+      "row": 390
+    },
+    {
+      "answer": "POLLEN",
+      "borrowed": false,
+      "clue": "Fine\n  powder from flowering plants",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 5,
+      "lesson": 12,
+      "module": 5,
+      "original_answer": "POLLEN",
+      "priority": 2,
+      "row": 360
+    },
+    {
+      "answer": "SAME",
+      "borrowed": false,
+      "clue": "Identical;\n  not different",
+      "direction": "across",
+      "grid_col": 24,
+      "grid_row": 8,
+      "lesson": 12,
+      "module": 5,
+      "original_answer": "SAME",
+      "priority": 2,
+      "row": 344
+    },
+    {
+      "answer": "HYPERACUSIS",
+      "borrowed": false,
+      "clue": "Painful\n  sensitivity to ordinary sounds",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 0,
+      "lesson": 14,
+      "module": 5,
+      "original_answer": "HYPERACUSIS",
+      "priority": 1,
+      "row": 439
+    },
+    {
+      "answer": "LIMB",
+      "borrowed": false,
+      "clue": "An arm\n  or a leg",
+      "direction": "across",
+      "grid_col": 15,
+      "grid_row": 12,
+      "lesson": 12,
+      "module": 5,
+      "original_answer": "LIMB",
+      "priority": 2,
+      "row": 345
+    },
+    {
+      "answer": "THERAPY",
+      "borrowed": false,
+      "clue": "Professional\n  treatment or rehabilitation",
+      "direction": "across",
+      "grid_col": 19,
+      "grid_row": 3,
+      "lesson": 14,
+      "module": 5,
+      "original_answer": "THERAPY",
+      "priority": 2,
+      "row": 438
+    },
+    {
+      "answer": "ROOM",
+      "borrowed": false,
+      "clue": "Indoor\n  space enclosed by walls",
+      "direction": "down",
+      "grid_col": 2,
+      "grid_row": 7,
+      "lesson": 13,
+      "module": 5,
+      "original_answer": "ROOM",
+      "priority": 2,
+      "row": 380
+    },
+    {
+      "answer": "BARS",
+      "borrowed": false,
+      "clue": "Grab ___\n  beside a bath or toilet",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 7,
+      "lesson": 13,
+      "module": 5,
+      "original_answer": "BARS",
+      "priority": 2,
+      "row": 378
+    },
+    {
+      "answer": "SEAT",
+      "borrowed": false,
+      "clue": "Place to\n  sit",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 14,
+      "lesson": 14,
+      "module": 5,
+      "original_answer": "SEAT",
+      "priority": 1,
+      "row": 413
+    },
+    {
+      "answer": "ALLERGY",
+      "borrowed": false,
+      "clue": "Reaction\n  to pollen, for example",
+      "direction": "across",
+      "grid_col": 8,
+      "grid_row": 1,
+      "lesson": 12,
+      "module": 5,
+      "original_answer": "ALLERGY",
+      "priority": 2,
+      "row": 359
+    },
+    {
+      "answer": "EYES",
+      "borrowed": false,
+      "clue": "Organs\n  used for seeing",
+      "direction": "across",
+      "grid_col": 21,
+      "grid_row": 1,
+      "lesson": 12,
+      "module": 5,
+      "original_answer": "EYES",
+      "priority": 2,
+      "row": 350
+    },
+    {
+      "answer": "OPTIONS",
+      "borrowed": false,
+      "clue": "Available\n  alternatives",
+      "direction": "across",
+      "grid_col": 4,
+      "grid_row": 5,
+      "lesson": 14,
+      "module": 5,
+      "original_answer": "OPTIONS",
+      "priority": 2,
+      "row": 432
+    },
+    {
+      "answer": "DARKNESS",
+      "borrowed": false,
+      "clue": "Absence\n  of light",
+      "direction": "across",
+      "grid_col": 9,
+      "grid_row": 3,
+      "lesson": 13,
+      "module": 5,
+      "original_answer": "DARKNESS",
+      "priority": 2,
+      "row": 401
+    },
+    {
+      "answer": "MOBILITY",
+      "borrowed": false,
+      "clue": "Ability\n  to move around",
+      "direction": "down",
+      "grid_col": 26,
+      "grid_row": 8,
+      "lesson": 13,
+      "module": 5,
+      "original_answer": "MOBILITY",
+      "priority": 1,
+      "row": 402
+    },
+    {
+      "answer": "WELLBEING",
+      "borrowed": false,
+      "clue": "Health\n  and comfort",
+      "direction": "down",
+      "grid_col": 6,
+      "grid_row": 13,
+      "lesson": 14,
+      "module": 5,
+      "original_answer": "WELLBEING",
+      "priority": 1,
+      "row": 443
+    },
+    {
+      "answer": "STAIRS",
+      "borrowed": false,
+      "clue": "Steps\n  connecting different floors",
+      "direction": "down",
+      "grid_col": 16,
+      "grid_row": 3,
+      "lesson": 14,
+      "module": 5,
+      "original_answer": "STAIRS",
+      "priority": 2,
+      "row": 435
+    },
+    {
+      "answer": "FAMILIAR",
+      "borrowed": false,
+      "clue": "Recognized\n  from past experience",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 19,
+      "lesson": 12,
+      "module": 5,
+      "original_answer": "FAMILIAR",
+      "priority": 1,
+      "row": 352
+    },
+    {
+      "answer": "BRIGHTNESS",
+      "borrowed": false,
+      "clue": "Intensity\n  of a light",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 21,
+      "lesson": 13,
+      "module": 5,
+      "original_answer": "BRIGHTNESS",
+      "priority": 1,
+      "row": 405
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "NEW",
+      "clue": "A\n  symptom never experienced before",
+      "row": 341
+    },
+    {
+      "answer": "USUAL",
+      "clue": "Typical;\n  happening most often",
+      "row": 343
+    },
+    {
+      "answer": "FACE",
+      "clue": "Forehead,\n  nose, and mouth are on it",
+      "row": 346
+    },
+    {
+      "answer": "CHECK",
+      "clue": "Examine\n  for changes",
+      "row": 349
+    },
+    {
+      "answer": "CHANGED",
+      "clue": "Different\n  from before",
+      "row": 353
+    },
+    {
+      "answer": "LONGER",
+      "clue": "Lasting\n  more time than before",
+      "row": 354
+    },
+    {
+      "answer": "DESCRIBE",
+      "clue": "Tell\n  what happened, not why",
+      "row": 357
+    },
+    {
+      "answer": "EXAM",
+      "clue": "A\n  clinician's hands-on check",
+      "row": 362
+    },
+    {
+      "answer": "SUDDEN",
+      "clue": "Beginning\n  abruptly",
+      "row": 364
+    },
+    {
+      "answer": "ASSESSED",
+      "clue": "Already\n  evaluated by a professional",
+      "row": 366
+    },
+    {
+      "answer": "URGENT",
+      "clue": "Needing\n  prompt attention",
+      "row": 367
+    },
+    {
+      "answer": "OVERSHADOW",
+      "clue": "Let one\n  diagnosis hide another",
+      "row": 369
+    },
+    {
+      "answer": "DIFFERENCE",
+      "clue": "What\n  makes two things unlike",
+      "row": 370
+    },
+    {
+      "answer": "BREATHING",
+      "clue": "Moving\n  air in and out of lungs",
+      "row": 371
+    },
+    {
+      "answer": "EMERGENCY",
+      "clue": "Situation\n  needing help right away",
+      "row": 372
+    },
+    {
+      "answer": "BAG",
+      "clue": "Container\n  for carrying essentials",
+      "row": 376
+    },
+    {
+      "answer": "PHONE",
+      "clue": "Pocket\n  device for calls and notes",
+      "row": 382
+    },
+    {
+      "answer": "SHEET",
+      "clue": "One page\n  of emergency information",
+      "row": 383
+    },
+    {
+      "answer": "READY",
+      "clue": "Prepared\n  for immediate use",
+      "row": 385
+    },
+    {
+      "answer": "BACKPACK",
+      "clue": "Bag\n  carried on both shoulders",
+      "row": 389
+    },
+    {
+      "answer": "EARPLUGS",
+      "clue": "Small\n  inserts that reduce noise",
+      "row": 391
+    },
+    {
+      "answer": "TRUSTED",
+      "clue": "Considered\n  reliable",
+      "row": 392
+    },
+    {
+      "answer": "PREPARE",
+      "clue": "Get\n  organized in advance",
+      "row": 393
+    },
+    {
+      "answer": "INSTRUCTIONS",
+      "clue": "Directions\n  on what to do",
+      "row": 406
+    },
+    {
+      "answer": "COMMUNICATE",
+      "clue": "Share\n  thoughts or information",
+      "row": 407
+    },
+    {
+      "answer": "PREPARATION",
+      "clue": "Getting\n  ready beforehand",
+      "row": 408
+    },
+    {
+      "answer": "TRAIL",
+      "clue": "Path\n  through a park or forest",
+      "row": 412
+    },
+    {
+      "answer": "ROUTE",
+      "clue": "Path\n  taken to a destination",
+      "row": 414
+    },
+    {
+      "answer": "FALL",
+      "clue": "Unplanned\n  drop to the ground",
+      "row": 416
+    },
+    {
+      "answer": "HAZARDS",
+      "clue": "Possible\n  sources of harm",
+      "row": 423
+    },
+    {
+      "answer": "PROTECT",
+      "clue": "Keep\n  safe from danger",
+      "row": 424
+    },
+    {
+      "answer": "INJURED",
+      "clue": "Physically\n  harmed in an accident",
+      "row": 426
+    },
+    {
+      "answer": "PREPARED",
+      "clue": "Ready\n  for what may happen",
+      "row": 430
+    },
+    {
+      "answer": "ADJUSTABLE",
+      "clue": "Able to\n  change when needed",
+      "row": 445
+    },
+    {
+      "answer": "SHAKE",
+      "clue": "What a\n  trembling hand does",
+      "row": 342
+    },
+    {
+      "answer": "SPEAK",
+      "clue": "Talk\n  using your voice",
+      "row": 347
+    },
+    {
+      "answer": "TODAY",
+      "clue": "The\n  present day",
+      "row": 348
+    },
+    {
+      "answer": "MINUTES",
+      "clue": "Time\n  units of 60 seconds",
+      "row": 355
+    },
+    {
+      "answer": "DETAILS",
+      "clue": "Small\n  facts worth noting",
+      "row": 356
+    },
+    {
+      "answer": "REGULAR",
+      "clue": "Routine\n  rather than emergency",
+      "row": 363
+    },
+    {
+      "answer": "COMPARE",
+      "clue": "Look for\n  what matches or differs",
+      "row": 365
+    },
+    {
+      "answer": "TIMING",
+      "clue": "When\n  something starts or ends",
+      "row": 368
+    },
+    {
+      "answer": "MEDICATION",
+      "clue": "Drug\n  prescribed for treatment",
+      "row": 373
+    },
+    {
+      "answer": "INVESTIGATE",
+      "clue": "Examine\n  an unexplained problem",
+      "row": 374
+    },
+    {
+      "answer": "MASK",
+      "clue": "Cover\n  worn over the eyes to block light",
+      "row": 377
+    },
+    {
+      "answer": "LED",
+      "clue": "Light-emitting\n  diode (abbreviation)",
+      "row": 379
+    },
+    {
+      "answer": "SPARE",
+      "clue": "Extra;\n  kept just in case",
+      "row": 384
+    },
+    {
+      "answer": "MEDS",
+      "clue": "Informal\n  word for medications",
+      "row": 387
+    },
+    {
+      "answer": "DIMMER",
+      "clue": "Control\n  for a light's intensity",
+      "row": 388
+    },
+    {
+      "answer": "WALKER",
+      "clue": "Frame\n  used to assist walking",
+      "row": 395
+    },
+    {
+      "answer": "CONTACT",
+      "clue": "Person\n  to call in an emergency",
+      "row": 398
+    },
+    {
+      "answer": "BEDROOM",
+      "clue": "Room\n  mainly used for sleeping",
+      "row": 399
+    },
+    {
+      "answer": "ARRANGE",
+      "clue": "Organize\n  or put in place",
+      "row": 403
+    },
+    {
+      "answer": "SOUNDPROOF",
+      "clue": "Reduce\n  sound passing through walls",
+      "row": 404
+    },
+    {
+      "answer": "ACCESSIBLE",
+      "clue": "Easy to\n  reach or use",
+      "row": 410
+    },
+    {
+      "answer": "PARK",
+      "clue": "Public\n  green space for a stroll",
+      "row": 411
+    },
+    {
+      "answer": "STOP",
+      "clue": "Cease an\n  unsafe action",
+      "row": 418
+    },
+    {
+      "answer": "AHEAD",
+      "clue": "In\n  advance; before leaving",
+      "row": 420
+    },
+    {
+      "answer": "WALK",
+      "clue": "Travel\n  on foot",
+      "row": 422
+    },
+    {
+      "answer": "BACKUP",
+      "clue": "Alternative\n  when the first plan fails",
+      "row": 425
+    },
+    {
+      "answer": "RECHECK",
+      "clue": "Look\n  over once more",
+      "row": 427
+    },
+    {
+      "answer": "RESPOND",
+      "clue": "React to\n  what happens",
+      "row": 428
+    },
+    {
+      "answer": "BARRIERS",
+      "clue": "Obstacles\n  blocking access",
+      "row": 431
+    },
+    {
+      "answer": "RETHINK",
+      "clue": "Consider\n  a different approach",
+      "row": 433
+    },
+    {
+      "answer": "PERSONAL",
+      "clue": "Tailored\n  to one individual",
+      "row": 437
+    },
+    {
+      "answer": "UNFAMILIAR",
+      "clue": "Not\n  previously known",
+      "row": 441
+    },
+    {
+      "answer": "STAIRCASE",
+      "clue": "Entire\n  stair structure between floors",
+      "row": 442
+    },
+    {
+      "answer": "STILL",
+      "clue": "Continuing\n  even now",
+      "row": 351
+    },
+    {
+      "answer": "DROPLETS",
+      "clue": "Tiny\n  drops of liquid",
+      "row": 361
+    },
+    {
+      "answer": "UNEXPECTED",
+      "clue": "A\n  surprise; not anticipated",
+      "row": 375
+    },
+    {
+      "answer": "GEAR",
+      "clue": "Casual\n  word for equipment",
+      "row": 381
+    },
+    {
+      "answer": "FOLD",
+      "clue": "Bend\n  inward along a hinge",
+      "row": 386
+    },
+    {
+      "answer": "COPIES",
+      "clue": "Duplicates\n  of a document",
+      "row": 396
+    },
+    {
+      "answer": "KLEENEX",
+      "clue": "Well-known\n  tissue brand",
+      "row": 397
+    },
+    {
+      "answer": "LIFT",
+      "clue": "Raise\n  off the ground",
+      "row": 421
+    },
+    {
+      "answer": "WAITING",
+      "clue": "Staying\n  until something happens",
+      "row": 434
+    },
+    {
+      "answer": "DISTANCE",
+      "clue": "Space\n  between two places",
+      "row": 436
+    }
+  ]
+}
