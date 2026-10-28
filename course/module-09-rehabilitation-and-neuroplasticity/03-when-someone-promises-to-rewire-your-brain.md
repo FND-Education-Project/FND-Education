@@ -2,7 +2,7 @@
 
 > **Working draft:** This page was automatically generated and is awaiting human authoring and further review.
 
-Lesson 27 explores when Someone Promises to Rewire Your Brain through everyday examples, collaborative adaptations and clinical reasoning.
+Lesson 28 explores when Someone Promises to Rewire Your Brain through everyday examples, collaborative adaptations and clinical reasoning.
 
 *Last reviewed: October 26, 2026*
 
