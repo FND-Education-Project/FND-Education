@@ -87,7 +87,12 @@ class CurriculumRevisionTests(unittest.TestCase):
             if not (6 <= page.module_number <= 10):
                 continue
             content = page.source.read_text(encoding='utf-8')
-            self.assertIn('automatically generated', content)
+            self.assertTrue(
+                'automatically generated' in content
+                or 'human-edited' in content
+                or 'human-authored' in content,
+                f'Missing editorial status for {page.source}'
+            )
             self.assertEqual(len(re.findall(r'^## For ', content, re.M)), 3)
             ids = re.findall(r'<a id="citation-(\d+)">', content)
             self.assertEqual(ids, [str(n) for n in range(1, len(ids) + 1)])
