@@ -128,6 +128,13 @@ Make a short, revisable hypothesis: “During a long, noisy appointment, pain an
 
 **Evidence boundary:** Salience network studies in general populations [1](#citation-1) and integrated FND frameworks [2](#citation-2) do not establish an individual autonomic mechanism. Functional-seizure care must follow phenotype-specific guidance [3](#citation-3).
 
+### Specify the loop's components before naming one
+
+Consider a patient whose symptoms intensify in a crowded waiting room. Document **what was observed** (noise, waiting, activity, altered speech or an event), what the person experienced, relevant medical findings and what changed after an accommodation. Do not retrospectively label a correlation a self-reinforcing neural mechanism.
+
+Arousal should not be equated with anger, anxiety, conscious fear, dysautonomia or deliberate symptom production. Emotional processing merits its own subsequent lesson. Clinicians should still consider medication, sleep, pain and medical illness where relevant and maintain presentation-specific safety evaluation. (*citations* [2](#citation-2), [3](#citation-3), [6](#citation-6))
+
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
