@@ -146,6 +146,13 @@ In shared discussion, say “the symptom is involuntary; we can work with the co
 
 **Evidence boundary:** Agency imaging is limited and phenotype-specific [1](#citation-1). Broader circuit frameworks [2](#citation-2) remain proposals.
 
+### Ask whose observation answers which question
+
+When someone describes an action as “not mine,” the patient is reporting **an experience of control**. A clinical examination documents observable movements, their task dependence and other findings. Neither observation reveals intention or deception. Voon and colleagues' small motor-FND imaging study concerns selected research participants, not a bedside classifier. (*citation* [1](#citation-1))
+
+A useful endpoint for this module is a distinct, consented **clinical decision**: will a safer task setup, environmental change, communication support or symptom-specific rehabilitation actually improve participation? The choice should be tailored and documented as an accommodation or therapeutic trial, not presented as proof that prediction, emotion or agency caused FND. Where new movement or cognitive change appears, reassessment remains necessary.
+
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
