@@ -1,6 +1,6 @@
 # Distraction, External Focus, and Context
 
-> **Working draft:** The Person and Clinician sections have been human-edited and approved with AI assistance. Supporter content remains subject to editorial and clinical review.
+> **Working draft:** The Person, Supporter and Clinician sections have been human-edited and approved with AI assistance. Editorial audits and independent clinical review remain pending.
 
 Lesson 17 explores distraction, External Focus, and Context through everyday examples, collaborative adaptations and clinical reasoning.
 
@@ -554,4 +554,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1nzuyuz/comment/ni918wf/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0310](../../research/citation-index.md#fnd-cit-0310). |
 | <a id="citation-6"></a>**[6]** | Figure 2 | Public Reddit community contribution, caregiver/father excerpt Q048, retained in the project’s October 25 caregiver quotation bank. [Original thread](https://www.reddit.com/r/FND/comments/1itk0q6/please_supporthelp/). Individual experience; public-post wording, speaker role and context require fresh direct verification before publication. |
 
-*Publication-readiness audit: October 26, 2026. Person and Clinician sections were human-edited and approved on October 27, 2026. The Supporter section, two post-edit lesson audits, and independent clinical review remain pending.*
+*Publication-readiness audit: October 26, 2026. Person and Clinician sections were human-edited and approved on October 27, 2026; Supporter section was human-edited and approved on October 28, 2026. Two post-edit lesson audits and independent clinical review remain pending.*
