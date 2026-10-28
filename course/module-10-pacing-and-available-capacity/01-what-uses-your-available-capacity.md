@@ -2,7 +2,7 @@
 
 > **Working draft:** This page was automatically generated and is awaiting human authoring and further review.
 
-Lesson 28 explores what Uses Your Available Capacity? through everyday examples, collaborative adaptations and clinical reasoning.
+Lesson 29 explores what Uses Your Available Capacity? through everyday examples, collaborative adaptations and clinical reasoning.
 
 *Last reviewed: October 26, 2026*
 
