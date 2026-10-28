@@ -56,6 +56,20 @@ You could ask for written questions, extra time or a quieter room. These changes
 
 **Review:** Did it help safety, effort, independence or enjoyment? If not, can I leave it behind?
 
+### A changed sense of control is not a changed intention
+
+Consider someone whose hand jerks while they are reaching for a mug. The movement occurs, but it doesn't feel like something they chose. **Intention** (wanting to reach), **the feeling of being in control** (agency) and **observed ability** (what happened) are different questions.
+
+That distinction is also useful after the emotional-regulation lesson: if speech or awareness becomes inaccessible during a difficult conversation, the interruption alone tells us neither what the person wanted to say nor why the episode happened.
+
+One person reflected on finding an approach that suited them:
+
+> “listening to and understanding my body rather than fighting it to work seems to improve my symptoms the best.”
+
+*Figure 2. Community experience — source-linked candidate.* This is a person's account of what felt helpful, not evidence of a particular treatment mechanism. [Public discussion](https://www.reddit.com/r/FND/comments/1sedrnt/does_anyone_actually_get_better/). Exact source context awaits rechecking. (*citation* [5](#citation-5))
+
+Our module doesn't ask you to control every process consciously. It offers a way to judge a small, safe adjustment by whether it makes life more workable.
+
 **Something to think about:** Is there an adaptation you've already found that makes an important part of life easier? You may have learned something useful long before you knew the scientific words.
 
 **One small step:** Take one existing accommodation and finish the sentence: “This helps me because it makes _____ easier.” That answer matters, even if you cannot explain the precise biology.
@@ -150,5 +164,7 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-2"></a>**[2]** | — | Drane DL, Fani N, Hallett M, Khalsa SS, Perez DL, Roberts NA. **A framework for understanding the pathophysiology of functional neurological disorder.** CNS Spectr. 2021;26:555–561. doi:10.1017/S1092852920001789. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7930164/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32883381/). [FND-CIT-0006](../../research/citation-index.md#fnd-cit-0006). |
 | <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
 | <a id="citation-4"></a>**[4]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1o5s0b8/wife_just_diagnosed_with_disassociative_fnd_feels/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0312](../../research/citation-index.md#fnd-cit-0312). |
+
+| <a id="citation-5"></a>**[5]** | Figure 2 | Person-described experience of adaptation, [public r/FND discussion](https://www.reddit.com/r/FND/comments/1sedrnt/does_anyone_actually_get_better/). Community notebook candidate; original speaker/context to be reconfirmed before publication. Not effectiveness evidence. |
 
 *Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
