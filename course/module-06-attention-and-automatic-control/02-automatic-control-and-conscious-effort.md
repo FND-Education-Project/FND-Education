@@ -1,6 +1,6 @@
 # Automatic Control and Conscious Effort
 
-> **Working draft:** The Person and Clinician sections have been human-edited and approved with AI assistance. Supporter content remains subject to editorial and clinical review.
+> **Working draft:** The Person, Supporter and Clinician sections have been human-edited and approved with AI assistance. Editorial audits and independent clinical review remain pending.
 
 Lesson 16 explores automatic Control and Conscious Effort through everyday examples, collaborative adaptations and clinical reasoning.
 
@@ -515,4 +515,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-6"></a>**[6]** | — | Dayan E, Cohen LG. **Neuroplasticity subserving motor skill learning.** *Neuron*. 2011;72:443–454. doi:10.1016/j.neuron.2011.10.008. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC3217208/). [FND-CIT-0306](../../research/citation-index.md#fnd-cit-0306). |
 | <a id="citation-7"></a>**[7]** | — | Ball HA, McWhirter L, Ballard C, et al. **Functional cognitive disorder: dementia’s blind spot.** *Brain*. 2020;143(10):2895–2903. doi:10.1093/brain/awaa224. [Original](https://doi.org/10.1093/brain/awaa224) · [FND-CIT-0071](../../research/citation-index.md#fnd-cit-0071). Clinical review of FCD diagnostic considerations; not evidence that procedural motor memory is erased in FND. |
 
-*Publication-readiness audit: October 26, 2026. The Person section was human-edited and approved on October 26, 2026, and the Clinician section was human-edited and approved on October 27, 2026. The Supporter section, two post-edit lesson audits and independent clinical review remain pending.*
+*Publication-readiness audit: October 26, 2026. The Person section was human-edited and approved on October 26, 2026; the Clinician section on October 27, 2026; and the Supporter section on October 28, 2026. Two post-edit lesson audits and independent clinical review remain pending.*
