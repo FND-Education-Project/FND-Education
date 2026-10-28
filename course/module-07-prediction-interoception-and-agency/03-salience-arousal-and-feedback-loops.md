@@ -90,6 +90,14 @@ Be careful not to label every bodily response a feedback loop. Fever, new breath
 
 **OT** may help with environmental load; a **psychologist** can offer coping and emotional support where desired; a **speech-language or respiratory specialist** may evaluate breathing/voice concerns. The **neurology and medical team** should guide event-specific plans for seizures, falls or other altered-awareness episodes. Supporters should not attempt to treat an episode by forcing distraction or calming techniques.
 
+### The room may be the problem you can change
+
+Picture a family attempting to organise a short visit while a television plays and several people speak at once. A supporter might see the person become less responsive and assume the topic is upsetting. But the combination of sound, discomfort and demands may be enough to make the task difficult, regardless of anyone's emotional state.
+
+A practical question is, *“Would one person speaking at a time make this easier?”* This doesn't diagnose the symptom or require all sensory input to disappear. It is also reasonable for the supporter to acknowledge their own limits if the setting remains demanding.
+
+The next lesson will address **emotional regulation** specifically. Here we are learning about what receives attention and the body's general readiness, including when no argument or fear is involved.
+
 **Something to discuss together:** “Would anything make this situation less demanding without asking you to push through it?”
 
 **One small thing:** Agree on a neutral phrase—perhaps “Quiet or pause?”—that offers a choice without explaining the symptom.
