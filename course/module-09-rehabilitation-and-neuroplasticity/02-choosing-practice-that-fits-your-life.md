@@ -2,7 +2,7 @@
 
 > **Working draft:** This page was automatically generated and is awaiting human authoring and further review.
 
-Lesson 26 explores choosing Practice That Fits Your Life through everyday examples, collaborative adaptations and clinical reasoning.
+Lesson 27 explores choosing Practice That Fits Your Life through everyday examples, collaborative adaptations and clinical reasoning.
 
 *Last reviewed: October 26, 2026*
 
