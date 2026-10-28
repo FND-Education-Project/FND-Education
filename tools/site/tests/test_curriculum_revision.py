@@ -1,4 +1,4 @@
-"""Regressions for the canonical 19-module / 57-lesson curriculum.
+"""Regressions for the canonical 19-module / 58-lesson curriculum.
 
 The superseded 34 lessons were intentionally removed. This test deliberately
 does not require old URLs or their identities to remain in the site.
@@ -29,9 +29,9 @@ class CurriculumRevisionTests(unittest.TestCase):
 
     def test_one_uniform_source_structure(self):
         self.assertEqual(len(self.modules), 19)
-        self.assertEqual(len(self.lessons), 57)
+        self.assertEqual(len(self.lessons), 58)
         self.assertEqual([p.module_number for p in self.modules], list(range(1, 20)))
-        self.assertEqual(len({p.public_url for p in self.pages}), 77)
+        self.assertEqual(len({p.public_url for p in self.pages}), 78)
         self.assertTrue(all(p.is_core and p.progress_eligible for p in self.lessons))
         self.assertTrue(all(
             re.fullmatch(r'module-\d{2}-.+', p.source.parent.name)
@@ -48,6 +48,11 @@ class CurriculumRevisionTests(unittest.TestCase):
     def test_new_lessons_use_current_names_and_addresses(self):
         self.assertIn('/course/m6/1/', self.by_url)
         self.assertIn('/course/m7/4/', self.by_url)
+        self.assertIn('/course/m7/5/', self.by_url)
+        self.assertIn('emotional-regulation-and-involuntary-symptoms.md',
+                      self.by_url['/course/m7/4/'].source.name)
+        self.assertIn('agency-learning-and-your-own-adaptations.md',
+                      self.by_url['/course/m7/5/'].source.name)
         self.assertIn('/course/m10/3/', self.by_url)
         self.assertIn('/course/m11/1/', self.by_url)
         self.assertNotIn('/course/v2/m6/1/', self.by_url)
