@@ -9,6 +9,7 @@ Module 7 of the current course. Explore the lessons in order or choose the topic
 - [Lesson 18: The Predictive Brain](01-the-predictive-brain.md)
 - [Lesson 19: Interoception, Proprioception, and Outside Senses](02-interoception-proprioception-and-outside-senses.md)
 - [Lesson 20: Salience, Arousal, and Feedback Loops](03-salience-arousal-and-feedback-loops.md)
-- [Lesson 21: Agency, Learning, and Your Own Adaptations](04-agency-learning-and-your-own-adaptations.md)
+- [Lesson 21: Emotional Regulation and Involuntary Symptoms](04-emotional-regulation-and-involuntary-symptoms.md)
+- [Lesson 22: Agency, Learning, and Your Own Adaptations](05-agency-learning-and-your-own-adaptations.md)
 
 Each lesson offers Person, Supporter and Clinician sections. The course teaches concepts and questions; it does not diagnose readers or prescribe one treatment for everyone.
