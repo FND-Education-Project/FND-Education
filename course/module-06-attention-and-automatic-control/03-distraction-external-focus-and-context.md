@@ -203,29 +203,173 @@ Keep the supports and safety measures you already need. If exploring a movement 
 
 ## For Family, Friends, and Other Supporters
 
-### Helpful isn't always more stimulation
+### The idea that helped in therapy isn't helping at home
 
-Suppose fastening a button is difficult. Would a conversation help take the pressure off? Would it make things worse? Perhaps the person would rather work quietly, focus on where the button goes or stop altogether.
+Imagine someone coming home from occupational therapy feeling encouraged.
 
-**Distraction**, focusing on an external goal and adding another task aren't the same thing. Extra instructions, music or counting can increase cognitive and sensory demands. There is no universal rule that “taking their mind off it” will help.
+Their hand has been shaking during everyday activities. But at the appointment, they managed to slide several photographs into a folder. Looking toward the pocket where each photograph belonged seemed to make the task easier.
 
-### A shared experiment should be gentle, reversible and optional
+Later, they're trying to put a novel back onto a bookshelf. The shaking makes it difficult to grip and position the book.
 
-For an already safe activity, ask whether the person wants one adjustment: fewer observers, a clearer goal, a different position or simpler instructions. Afterward, let them tell you whether it improved ease, function or comfort.
+Their partner remembers the therapy appointment.
 
-Don't narrate every symptom change or tell the person that a symptom is “gone” because you noticed it shift. A change in context can be informative without revealing the cause of the symptom.
+“Maybe look at the space on the shelf instead of your hand?”
 
-It's also fine if the person doesn't want to try anything. Sometimes the most useful adaptation is respecting a rest or a request for quiet.
+The person tries. The book still won't go where they want it.
 
-### Hand off symptom-specific methods
+Now the partner wonders whether they've given the wrong cue. The person feels disappointed that something helpful earlier isn't helping now.
 
-For **functional tremor, gait changes or weakness**, a suitably trained physiotherapist may consider task focus or rhythm strategies. **OT** can adapt hand use and household tasks; speech-language therapists have their own approaches for communication symptoms. Technique selection belongs with the qualified professional when falls, pain, swallowing, breathing, episode safety or other risks are involved.
+**What if neither of them has done anything wrong? What if these two activities are asking for different things?**
 
-You may be invited to use a particular cue **after** the clinician and person agree that it is helpful. Ask what to say, when to stop and whether the person wants the cue at all. You do not become the therapist. (*citations* [1](#citation-1), [2](#citation-2))
+That's the new idea in this lesson. The setting, the task and the support available can all affect how manageable an activity is. Knowing this can help supporters offer thoughtful assistance without feeling responsible for making a symptom change.
 
-**Something to discuss together:** “Would a cue help right now, or would fewer words be better?”
+### A photograph and a novel aren't the same job
 
-**One small thing:** Choose an already helpful environmental adjustment and agree when the supporter should offer it and when to leave things alone.
+Think about the two objects.
+
+A photograph is light. It can slide along a table, and the folder provides a clear destination.
+
+A novel is heavier. It needs a secure grip and may need to be lifted against gravity. The person might have to reach higher, turn their wrist or hold their balance while fitting it into a narrow space.
+
+Those are real differences in the work the body has to do.
+
+And perhaps the therapy room was quiet, with a supportive chair and someone nearby to help. At home, the person may be tired after travelling or surrounded by ordinary household noise.
+
+All of this is part of **context**: not just where an activity happens, but what it requires, when it happens and what help is available.
+
+For some people with FND, changing a task or its surroundings can make participation easier. Occupational-therapy guidance considers the activity, environment and person's own goals together. (*citation* [3](#citation-3))
+
+**An easier movement doesn't tell us that the room, the person's thoughts or any single factor caused the symptom.** And a harder movement doesn't mean they failed to use a technique correctly.
+
+Sometimes symptoms change for reasons nobody can identify. There's no requirement to find a trigger before offering practical help.
+
+### Distraction and external focus aren't quite the same
+
+This is where a little FND knowledge can change how you offer help.
+
+You may have heard that some functional movements change when a person is distracted. It might be tempting to start a lively conversation, turn on music or suggest counting backwards.
+
+But there are a few different ideas here.
+
+**Distraction** means attention moves toward something else. A conversation about the weekend might draw attention away from watching a shaking hand.
+
+**External focus** means attention stays with the activity, but goes toward its purpose or result. For the photograph, that might mean looking at the pocket where it belongs instead of concentrating on each finger movement.
+
+A **second task** adds another job. Talking while putting away a book means following a conversation *and* managing the book. That can help some people in some situations, but it can also make things more difficult.
+
+Research involving selected people with functional action tremor suggests that attentional focus can affect performance in certain tasks. It doesn't mean everyone with FND benefits from distraction, or that more stimulation is always better. (*citation* [2](#citation-2))
+
+**Sometimes a useful cue gives the person one clear goal. Sometimes the most helpful change is fewer demands.**
+
+If the person wants to use a cue learned in therapy, it's reasonable to ask what they find helpful. It isn't necessary to improvise new exercises or add distractions in the hope of producing a particular movement.
+
+### When helping becomes one more thing to manage
+
+Return to the bookshelf.
+
+The partner wants to help, so they offer another idea.
+
+“Maybe try the other hand. What about humming? Should I count for you?”
+
+Each suggestion is well meant. Together, though, they've become another conversation to follow while the person is struggling with the book.
+
+Imagine how different it could feel to hear: “Would you like me to move a few books so there's more room, or would you rather leave it for now?”
+
+The person might welcome the help. They might prefer a lower shelf, a break or simply to finish without conversation.
+
+That answer tells the supporter which kind of assistance is wanted. It doesn't require the person to explain the mechanism of their symptoms.
+
+It's worth remembering that **being helpful isn't always the same as doing more**.
+
+Sometimes you can make the surroundings easier to use. Sometimes you can leave space for the person to work in their own way. And sometimes the activity can wait.
+
+### A father's words about finding what fits
+
+A father reflecting on ways his family had tried to manage sensory and movement difficulties wrote in a public FND community:
+
+> “And trial and error while exhausting may be helpful regardless, because what works for some doesn't work for all.”
+
+*Figure 2. Community experience.* One father's reflection on the effort of finding approaches that fit his family. This is not evidence that a particular strategy works, or advice to undertake unsafe movement experiments. [Original public source](https://www.reddit.com/r/FND/comments/1itk0q6/please_supporthelp/). (*citation* [6](#citation-6))
+
+There's an important word in that observation: *exhausting*.
+
+Working out what helps can take time, attention and patience from both people. It's possible to learn something useful along the way without making every activity a trial.
+
+A change that suits one person may not suit another. The same person may prefer something different on another day.
+
+And there are occasions when the answer is simply, “Not today.”
+
+That is an acceptable outcome, not a setback anyone has to explain away.
+
+### Can a helpful idea travel from therapy into ordinary life?
+
+The photograph went into the folder. The novel didn't go onto the shelf.
+
+The therapist may call the next challenge **carryover**: finding out whether a useful approach from one activity or setting can help somewhere else.
+
+The supporter doesn't have to design that process, but they may have information worth sharing if the person wants their involvement.
+
+For example, they might mention that the photograph was light and supported by the table, while the book needed lifting and a firmer grip.
+
+An occupational therapist could use those details to explore an easier shelf, a lighter object, a different position or a suitable aid. A physiotherapist might contribute if safe reaching, standing, walking or movement control is part of the difficulty. These are examples of individualized professional care, rather than a set of instructions to try at home. (*citations* [3](#citation-3), [1](#citation-1))
+
+At home, an ordinary, low-risk change might be to keep frequently used books on a shelf the person can reach more comfortably. That could help them enjoy reading without needing the tremor to improve first.
+
+**Making an activity more accessible is a worthwhile result, even when the symptom remains.**
+
+The person may also wish to practise a particular movement through their rehabilitation programme. They and their therapist can decide how that fits alongside everyday aids and assistance.
+
+### Your role may change the kind of help you offer
+
+Suppose you're a **spouse or partner**. You may know which activities are difficult at home, but you might also be tired of every shared activity turning into a discussion of symptoms. It can be good for the relationship to have evenings when the books simply stay where they are.
+
+A **parent** might notice that a child manages a task at home but struggles with it in a noisy classroom. That observation could help the child and school discuss practical changes, while suitable professionals guide any specialized rehabilitation.
+
+A **friend** may only see the person during visits. Asking whether a quieter place or an easier setup would help can be more useful than trying to recreate a technique they've heard about.
+
+And someone **without a supporter** can still work with an OT, physiotherapist or another appropriate professional to make activities more accessible. They shouldn't need a second person to perform constant tests or reminders.
+
+No one role has to include everything.
+
+It's also worth noticing when helping has become demanding for you. If you've spent the afternoon offering suggestions and moving things around, you may need a break too.
+
+**A practical arrangement works best when the person with FND has a meaningful say and the supporter can offer help sustainably.**
+
+### When a cue belongs in a professional plan
+
+Some changes are ordinary decisions: moving a book to a lower shelf, allowing more time or asking whether quiet would be preferred.
+
+Others need professional judgment.
+
+An FND-informed **physiotherapist** may select task-focused movement or rhythm strategies for an appropriate motor presentation. An **occupational therapist** can analyse meaningful activities and equipment needs. A **speech-language therapist** can guide communication or swallowing approaches when those symptoms are involved. The [Professional Roles in FND Care](../../reference/professional-roles-in-fnd-care.md) explains how these responsibilities may fit together.
+
+If a person has falls risk, painful or fixed posturing, unsafe grip or new major changes in function, it's especially important not to experiment with movement or remove support to see what happens. New or concerning medical symptoms deserve their own assessment.
+
+A supporter may be invited to offer an agreed cue as part of a clinician-guided plan. That's different from making up a test to see whether the symptom can be interrupted.
+
+You don't have to be the therapist to be a helpful part of the person's life.
+
+### What these three lessons give a supporter
+
+Lesson 15 helped us understand **attention**: why interruptions and competing demands can make some experiences harder.
+
+Lesson 16 explored **automatic movement**: why familiar actions don't always happen in the same way when they're deliberately attempted.
+
+Now we've added **context**: the task, surroundings, timing, cues and support can all influence what an activity asks of a person.
+
+Together, these ideas offer a more useful way of responding than assuming that one successful movement should be easy to repeat, or that distraction is always the answer.
+
+Return to the bookshelf one last time.
+
+Instead of trying to make the hand stop shaking, the two people might decide that the novel belongs somewhere easier to reach.
+
+That isn't a failure of rehabilitation. It's a practical way to make life easier today, while other treatment goals can continue.
+
+**The question to carry forward is: “What about this activity could we make more manageable together?”**
+
+**Something to discuss together:** “When something is difficult, would you prefer a suggestion, practical help, a quieter space—or for me to ask later?”
+
+**One small thing:** Think of one familiar, already safe activity where a small change to the surroundings might help. Agree on whether that change would be welcome. You don't have to test symptoms to make everyday life easier.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -408,5 +552,6 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
 | <a id="citation-4"></a>**[4]** | — | Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110). |
 | <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1nzuyuz/comment/ni918wf/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0310](../../research/citation-index.md#fnd-cit-0310). |
+| <a id="citation-6"></a>**[6]** | Figure 2 | Public Reddit community contribution, caregiver/father excerpt Q048, retained in the project’s October 25 caregiver quotation bank. [Original thread](https://www.reddit.com/r/FND/comments/1itk0q6/please_supporthelp/). Individual experience; public-post wording, speaker role and context require fresh direct verification before publication. |
 
 *Publication-readiness audit: October 26, 2026. Person and Clinician sections were human-edited and approved on October 27, 2026. The Supporter section, two post-edit lesson audits, and independent clinical review remain pending.*
