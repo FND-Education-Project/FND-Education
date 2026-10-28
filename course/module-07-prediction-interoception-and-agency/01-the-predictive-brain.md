@@ -122,6 +122,13 @@ A clinician can say: “Your brain constantly anticipates and adjusts. Researche
 
 **Evidence boundary:** Bayesian FND accounts are theoretical; studies of speech/voice intervention cannot automatically establish the proposed computational mechanism. [1](#citation-1) · [2](#citation-2) · [3](#citation-3). Historical diagnostic terms in original paper titles are not suitable explanatory language for a patient.
 
+### A clinical comparison, not a test of belief
+
+In a patient struggling with a timed transition, compare what the task requires before and after a clear cue, while respecting safety, fatigue and any other neurological condition. Record the **functional outcome**, assistance and possible adverse effects. A more predictable task can become more accessible without validating a model of aberrant prediction.
+
+**Distinguish three levels:** anticipatory processing is established general neuroscience; predictive-processing accounts of FND are proposed mechanisms; a particular improvement after a cue is a clinical observation. Neither improvement nor failure establishes a patient's prior beliefs. Where functional communication is concerned, the SLT consensus provides an individualized clinical approach, not a Bayesian mechanism test. (*citation* [3](#citation-3))
+
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
