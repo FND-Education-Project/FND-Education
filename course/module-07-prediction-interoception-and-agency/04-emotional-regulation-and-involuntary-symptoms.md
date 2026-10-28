@@ -8,7 +8,10 @@ Lesson 21 considers how emotions are processed and regulated, why conversations 
 
 ***
 
-[For the Person With FND](#for-the-person-with-fnd) · [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters) · [For Clinicians and the Care Team](#for-clinicians-and-the-care-team) · [Research and Sources](#research-and-sources)
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
 
 ***
 
@@ -78,7 +81,10 @@ New, severe or changed speech, cognitive or seizure-like symptoms still need app
 
 ***
 
-[For the Person With FND](#for-the-person-with-fnd) · [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters) · [For Clinicians and the Care Team](#for-clinicians-and-the-care-team) · [Research and Sources](#research-and-sources)
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
 
 ***
 
@@ -134,7 +140,10 @@ A **speech-language therapist**, **OT** or **psychologist** may help with specif
 
 ***
 
-[For the Person With FND](#for-the-person-with-fnd) · [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters) · [For Clinicians and the Care Team](#for-clinicians-and-the-care-team) · [Research and Sources](#research-and-sources)
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
 
 ***
 
@@ -174,7 +183,10 @@ Neither a narrative sequence nor a successful accommodation tests predictive pro
 
 ***
 
-[For the Person With FND](#for-the-person-with-fnd) · [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters) · [For Clinicians and the Care Team](#for-clinicians-and-the-care-team) · [Research and Sources](#research-and-sources)
+[For the Person With FND](#for-the-person-with-fnd)<br>
+[For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
+[For Clinicians and the Care Team](#for-clinicians-and-the-care-team)<br>
+[Research and Sources](#research-and-sources)
 
 ***
 
