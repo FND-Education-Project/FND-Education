@@ -10,20 +10,20 @@ Put attention, automatic control, prediction and agency into a rehabilitation co
 
 ## Proposed focused lessons
 
-### Lesson 25 — How Rehabilitation Uses Learning
+### Lesson 26 — How Rehabilitation Uses Learning
 - Neuroplasticity means nervous systems can adapt with experience, but does not guarantee recovery.
 - Describe retraining through attention, automaticity, practice and meaningful tasks without claiming these mechanisms explain every symptom.
 - Distinguish movement-rehabilitation evidence from seizure-focused, cognitive, speech or other care; a general principle does not validate the same exercise for every presentation.
 - Show the role of appropriately trained physiotherapy, occupational therapy, speech-language therapy and other care.
 - Explain why a good response does not imply an earlier symptom was voluntary.
 
-### Lesson 26 — Choosing and Adjusting Meaningful Practice
+### Lesson 27 — Choosing and Adjusting Meaningful Practice
 - Begin with a personally meaningful activity and the function needed for it.
 - Agree safe adaptations, manageable practice and what to monitor or stop; professional guidance for hazardous activities.
 - Distinguish useful consistency from coercive repetition or pushing through injury and delayed worsening.
 - Accommodation and rehabilitation may coexist. Equipment need not be withheld pending improvement.
 
-### Lesson 27 — Evidence, Expectations and Treatment Claims
+### Lesson 28 — Evidence, Expectations and Treatment Claims
 - What research actually supports, uncertainty and individual variation.
 - Distinguish a therapeutic model from evidence that a particular intervention works.
 - Evaluate “rewire your brain” claims, promised timelines, adverse effects and conflicts of interest.
