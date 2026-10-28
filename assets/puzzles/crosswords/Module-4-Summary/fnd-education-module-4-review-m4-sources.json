@@ -1,0 +1,504 @@
+{
+  "title": "FND Education — Module 4 Review",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 0,
+    "lesson": null,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "module",
+    "module": 4,
+    "seed": 1,
+    "selected_question_count": 65
+  },
+  "score": 70.86,
+  "included": [
+    {
+      "answer": "POSSIBLE",
+      "borrowed": false,
+      "clue": "Able to\n  happen or be done, perhaps with an adjustment.",
+      "direction": "down",
+      "grid_col": 21,
+      "grid_row": 7,
+      "lesson": 11,
+      "module": 4,
+      "original_answer": "POSSIBLE",
+      "priority": 1,
+      "row": 333
+    },
+    {
+      "answer": "SYMPTOM",
+      "borrowed": false,
+      "clue": "An\n  experienced health difficulty, such as weakness or dizziness.",
+      "direction": "across",
+      "grid_col": 18,
+      "grid_row": 7,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "SYMPTOM",
+      "priority": 2,
+      "row": 301
+    },
+    {
+      "answer": "MAP",
+      "borrowed": false,
+      "clue": "A small\n  guide to your health, rather than a hunt for buried treasure.",
+      "direction": "down",
+      "grid_col": 24,
+      "grid_row": 7,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "MAP",
+      "priority": 1,
+      "row": 276
+    },
+    {
+      "answer": "MAINTAINING",
+      "borrowed": false,
+      "clue": "Type of\n  factor that may contribute to symptoms continuing.",
+      "direction": "across",
+      "grid_col": 13,
+      "grid_row": 11,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "MAINTAINING",
+      "priority": 1,
+      "row": 310
+    },
+    {
+      "answer": "CLINICIAN",
+      "borrowed": false,
+      "clue": "Healthcare\n  professional who assesses symptoms and may make diagnoses.",
+      "direction": "down",
+      "grid_col": 15,
+      "grid_row": 7,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "CLINICIAN",
+      "priority": 1,
+      "row": 306
+    },
+    {
+      "answer": "SURROUNDINGS",
+      "borrowed": false,
+      "clue": "Everything\n  around you, including light and noise.",
+      "direction": "across",
+      "grid_col": 7,
+      "grid_row": 13,
+      "lesson": 11,
+      "module": 4,
+      "original_answer": "SURROUNDINGS",
+      "priority": 2,
+      "row": 340
+    },
+    {
+      "answer": "EXHAUSTED",
+      "borrowed": false,
+      "clue": "An\n  empty-battery kind of feeling.",
+      "direction": "down",
+      "grid_col": 7,
+      "grid_row": 8,
+      "lesson": 11,
+      "module": 4,
+      "original_answer": "EXHAUSTED",
+      "priority": 2,
+      "row": 337
+    },
+    {
+      "answer": "WORDS",
+      "borrowed": false,
+      "clue": "Sometimes\n  the hardest things to find during a doctor's appointment.",
+      "direction": "across",
+      "grid_col": 17,
+      "grid_row": 9,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "WORDS",
+      "priority": 1,
+      "row": 287
+    },
+    {
+      "answer": "SUPPORT",
+      "borrowed": false,
+      "clue": "Practical\n  assistance that makes life more manageable.",
+      "direction": "down",
+      "grid_col": 9,
+      "grid_row": 8,
+      "lesson": 11,
+      "module": 4,
+      "original_answer": "SUPPORT",
+      "priority": 2,
+      "row": 325
+    },
+    {
+      "answer": "COMORBIDITY",
+      "borrowed": false,
+      "clue": "Medical\n  term for a condition occurring alongside another condition.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 16,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "COMORBIDITY",
+      "priority": 1,
+      "row": 308
+    },
+    {
+      "answer": "BREAK",
+      "borrowed": false,
+      "clue": "A\n  planned pause",
+      "direction": "across",
+      "grid_col": 19,
+      "grid_row": 14,
+      "lesson": 11,
+      "module": 4,
+      "original_answer": "BREAK",
+      "priority": 1,
+      "row": 321
+    },
+    {
+      "answer": "MOVEMENT",
+      "borrowed": false,
+      "clue": "Changes\n  in this may be part of someone's FND.",
+      "direction": "down",
+      "grid_col": 2,
+      "grid_row": 12,
+      "lesson": 11,
+      "module": 4,
+      "original_answer": "MOVEMENT",
+      "priority": 2,
+      "row": 331
+    },
+    {
+      "answer": "PAPER",
+      "borrowed": false,
+      "clue": "Old-school\n  writing surface. No batteries required!",
+      "direction": "down",
+      "grid_col": 4,
+      "grid_row": 12,
+      "lesson": 11,
+      "module": 4,
+      "original_answer": "PAPER",
+      "priority": 2,
+      "row": 320
+    },
+    {
+      "answer": "ASSESSMENT",
+      "borrowed": false,
+      "clue": "A\n  clinical evaluation to investigate or understand a symptom.",
+      "direction": "across",
+      "grid_col": 4,
+      "grid_row": 8,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "ASSESSMENT",
+      "priority": 1,
+      "row": 307
+    },
+    {
+      "answer": "OWN",
+      "borrowed": false,
+      "clue": "Belonging\n  to you, rather than borrowed.",
+      "direction": "down",
+      "grid_col": 11,
+      "grid_row": 13,
+      "lesson": 11,
+      "module": 4,
+      "original_answer": "OWN",
+      "priority": 2,
+      "row": 312
+    },
+    {
+      "answer": "REVIEW",
+      "borrowed": false,
+      "clue": "Look\n  over information again to see what matters.",
+      "direction": "down",
+      "grid_col": 11,
+      "grid_row": 4,
+      "lesson": 11,
+      "module": 4,
+      "original_answer": "REVIEW",
+      "priority": 2,
+      "row": 324
+    },
+    {
+      "answer": "FND",
+      "borrowed": false,
+      "clue": "Three-letter\n  abbreviation for functional neurological disorder.",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 18,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "FND",
+      "priority": 2,
+      "row": 277
+    },
+    {
+      "answer": "CHANGE",
+      "borrowed": false,
+      "clue": "A\n  difference from your usual symptoms that may be worth mentioning.",
+      "direction": "across",
+      "grid_col": 6,
+      "grid_row": 5,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "CHANGE",
+      "priority": 2,
+      "row": 293
+    },
+    {
+      "answer": "WARNING",
+      "borrowed": false,
+      "clue": "Type of\n  sign that may suggest a familiar episode is beginning.",
+      "direction": "down",
+      "grid_col": 9,
+      "grid_row": 0,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "WARNING",
+      "priority": 1,
+      "row": 298
+    },
+    {
+      "answer": "BRAIN",
+      "borrowed": false,
+      "clue": "Your\n  thinking headquarters, occasionally a little forgetful.",
+      "direction": "across",
+      "grid_col": 7,
+      "grid_row": 1,
+      "lesson": 10,
+      "module": 4,
+      "original_answer": "BRAIN",
+      "priority": 1,
+      "row": 286
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "TIME",
+      "clue": "What\n  gets muddled when two weeks ago feels like four months ago.",
+      "row": 282
+    },
+    {
+      "answer": "RISK",
+      "clue": "An\n  increased chance of something happening, rather than a certainty.",
+      "row": 283
+    },
+    {
+      "answer": "MEMORY",
+      "clue": "The\n  mental filing cabinet that sometimes misplaces dates.",
+      "row": 289
+    },
+    {
+      "answer": "RECORD",
+      "clue": "A\n  written account that helps when details escape you.",
+      "row": 291
+    },
+    {
+      "answer": "FACTOR",
+      "clue": "A\n  possible influence, as in a risk or maintaining ___.",
+      "row": 292
+    },
+    {
+      "answer": "BEFORE",
+      "clue": "When a\n  possible trigger happens relative to an episode.",
+      "row": 295
+    },
+    {
+      "answer": "EPISODE",
+      "clue": "A period\n  when symptoms occur, rather than remaining continuously present.",
+      "row": 299
+    },
+    {
+      "answer": "PAGE",
+      "clue": "One ____\n  may hold an entire health summary.",
+      "row": 314
+    },
+    {
+      "answer": "REST",
+      "clue": "A chance\n  to recharge between demanding activities.",
+      "row": 315
+    },
+    {
+      "answer": "DIARY",
+      "clue": "A dated\n  record of daily experiences.",
+      "row": 318
+    },
+    {
+      "answer": "OUTING",
+      "clue": "Perhaps\n  made easier by an aid.",
+      "row": 323
+    },
+    {
+      "answer": "ABILITY",
+      "clue": "Something\n  you can do, even when it comes and goes.",
+      "row": 326
+    },
+    {
+      "answer": "TRACKING",
+      "clue": "Briefly\n  recording changes to answer a question.",
+      "row": 328
+    },
+    {
+      "answer": "REMINDER",
+      "clue": "A\n  helpful nudge for a forgetful moment.",
+      "row": 329
+    },
+    {
+      "answer": "STRATEGY",
+      "clue": "A\n  practical approach to making something easier.",
+      "row": 332
+    },
+    {
+      "answer": "COGNITIVE",
+      "clue": "Relating\n  to thinking, memory and attention.",
+      "row": 336
+    },
+    {
+      "answer": "ADJUSTMENT",
+      "clue": "A\n  helpful change to a setting or routine.",
+      "row": 338
+    },
+    {
+      "answer": "LEG",
+      "clue": "Body\n  part that may experience functional weakness, below the hip.",
+      "row": 278
+    },
+    {
+      "answer": "NOTE",
+      "clue": "A few\n  written words that save your memory some work.",
+      "row": 279
+    },
+    {
+      "answer": "CARE",
+      "clue": "What a\n  new, serious health problem may need promptly.",
+      "row": 280
+    },
+    {
+      "answer": "HELP",
+      "clue": "Assistance\n  when managing something alone gets difficult.",
+      "row": 281
+    },
+    {
+      "answer": "SLEEP",
+      "clue": "A poor\n  night of this might come before a difficult day.",
+      "row": 284
+    },
+    {
+      "answer": "KNOWN",
+      "clue": "Describes\n  something already established, rather than still uncertain.",
+      "row": 285
+    },
+    {
+      "answer": "SPEECH",
+      "clue": "Talking\n  ability that may change around a functional episode.",
+      "row": 288
+    },
+    {
+      "answer": "HEALTH",
+      "clue": "The\n  bigger picture that includes FND and other conditions.",
+      "row": 290
+    },
+    {
+      "answer": "DOCTOR",
+      "clue": "A\n  medical professional you may visit for an appointment.",
+      "row": 294
+    },
+    {
+      "answer": "DURING",
+      "clue": "The\n  middle part of a sequence: before, ___, after.",
+      "row": 296
+    },
+    {
+      "answer": "TRIGGER",
+      "clue": "A\n  possible spark that increases the chance of symptoms.",
+      "row": 297
+    },
+    {
+      "answer": "PATTERN",
+      "clue": "Something\n  repeated that gives clues, but doesn't automatically prove a cause.",
+      "row": 300
+    },
+    {
+      "answer": "MIGRAINE",
+      "clue": "A\n  neurological condition that can coexist with FND and cause head pain.",
+      "row": 302
+    },
+    {
+      "answer": "WEAKNESS",
+      "clue": "Reduced\n  strength that may sometimes be diagnosed as functional.",
+      "row": 303
+    },
+    {
+      "answer": "DIZZINESS",
+      "clue": "Feeling\n  lightheaded or unsteady, sometimes a new medical question.",
+      "row": 304
+    },
+    {
+      "answer": "DIAGNOSIS",
+      "clue": "The\n  identification of a medical condition following clinical assessment.",
+      "row": 305
+    },
+    {
+      "answer": "CONSEQUENCE",
+      "clue": "Something\n  that follows an episode, possibly including exhaustion.",
+      "row": 309
+    },
+    {
+      "answer": "AID",
+      "clue": "A\n  helpful tool that makes an activity easier.",
+      "row": 311
+    },
+    {
+      "answer": "DAY",
+      "clue": "A\n  24-hour slice of life.",
+      "row": 313
+    },
+    {
+      "answer": "TASK",
+      "clue": "A piece\n  of work to finish.",
+      "row": 316
+    },
+    {
+      "answer": "CLUE",
+      "clue": "A hint\n  worth exploring, rather than proof.",
+      "row": 317
+    },
+    {
+      "answer": "QUIET",
+      "clue": "Peaceful.",
+      "row": 319
+    },
+    {
+      "answer": "SAFETY",
+      "clue": "The aim\n  of planning for risks and getting help.",
+      "row": 322
+    },
+    {
+      "answer": "SENSORY",
+      "clue": "Relating\n  to touch, sound, sight or other senses.",
+      "row": 327
+    },
+    {
+      "answer": "RECOVERY",
+      "clue": "The\n  process of regaining strength after a demanding event.",
+      "row": 330
+    },
+    {
+      "answer": "SEIZURES",
+      "clue": "Some\n  people with FND experience functional ___.",
+      "row": 334
+    },
+    {
+      "answer": "COMMUNITY",
+      "clue": "People\n  connected through shared interests or experiences.",
+      "row": 335
+    },
+    {
+      "answer": "INFORMATION",
+      "clue": "Facts\n  and details that help explain a situation.",
+      "row": 339
+    }
+  ]
+}

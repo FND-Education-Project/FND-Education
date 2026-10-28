@@ -1,0 +1,581 @@
+{
+  "title": "FND Education — Module 6 Review",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 0,
+    "lesson": null,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "module",
+    "module": 6,
+    "seed": 1,
+    "selected_question_count": 74
+  },
+  "score": 73.22,
+  "included": [
+    {
+      "answer": "CARRYOVER",
+      "borrowed": false,
+      "clue": "Using a\n  helpful strategy outside the setting where it was learned",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 12,
+      "lesson": 17,
+      "module": 6,
+      "original_answer": "CARRYOVER",
+      "priority": 1,
+      "row": 515
+    },
+    {
+      "answer": "INWARD",
+      "borrowed": false,
+      "clue": "Toward\n  your own thoughts or body sensations",
+      "direction": "down",
+      "grid_col": 3,
+      "grid_row": 8,
+      "lesson": 15,
+      "module": 6,
+      "original_answer": "INWARD",
+      "priority": 1,
+      "row": 456
+    },
+    {
+      "answer": "TYPE",
+      "borrowed": false,
+      "clue": "Enter\n  words using a keyboard",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 11,
+      "lesson": 15,
+      "module": 6,
+      "original_answer": "TYPE",
+      "priority": 3,
+      "row": 450
+    },
+    {
+      "answer": "REARRANGE",
+      "borrowed": false,
+      "clue": "Move\n  items around to make a task easier",
+      "direction": "across",
+      "grid_col": 4,
+      "grid_row": 14,
+      "lesson": 17,
+      "module": 6,
+      "original_answer": "REARRANGE",
+      "priority": 1,
+      "row": 516
+    },
+    {
+      "answer": "READ",
+      "borrowed": false,
+      "clue": "Make\n  meaning from written words",
+      "direction": "down",
+      "grid_col": 9,
+      "grid_row": 12,
+      "lesson": 15,
+      "module": 6,
+      "original_answer": "READ",
+      "priority": 3,
+      "row": 449
+    },
+    {
+      "answer": "OBSERVATION",
+      "borrowed": false,
+      "clue": "Description\n  of what someone noticed",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 11,
+      "lesson": 17,
+      "module": 6,
+      "original_answer": "OBSERVATION",
+      "priority": 1,
+      "row": 519
+    },
+    {
+      "answer": "CONTEXT",
+      "borrowed": false,
+      "clue": "Task,\n  surroundings and available help around an activity",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 9,
+      "lesson": 17,
+      "module": 6,
+      "original_answer": "CONTEXT",
+      "priority": 1,
+      "row": 509
+    },
+    {
+      "answer": "EXTERNAL",
+      "borrowed": false,
+      "clue": "Ffocus\n  directed toward a movement's destination.",
+      "direction": "across",
+      "grid_col": 10,
+      "grid_row": 18,
+      "lesson": 17,
+      "module": 6,
+      "original_answer": "EXTERNAL",
+      "priority": 1,
+      "row": 512
+    },
+    {
+      "answer": "FLUENCY",
+      "borrowed": false,
+      "clue": "Smooth,\n  connected performance of a familiar action",
+      "direction": "across",
+      "grid_col": 8,
+      "grid_row": 21,
+      "lesson": 16,
+      "module": 6,
+      "original_answer": "FLUENCY",
+      "priority": 1,
+      "row": 487
+    },
+    {
+      "answer": "COMPETING",
+      "borrowed": false,
+      "clue": "Demands\n  pulling for a person's attention",
+      "direction": "down",
+      "grid_col": 1,
+      "grid_row": 12,
+      "lesson": 15,
+      "module": 6,
+      "original_answer": "COMPETING",
+      "priority": 1,
+      "row": 469
+    },
+    {
+      "answer": "BREADCRUMB",
+      "borrowed": false,
+      "clue": "A hint\n  of where to return to a paused task",
+      "direction": "across",
+      "grid_col": 12,
+      "grid_row": 12,
+      "lesson": 15,
+      "module": 6,
+      "original_answer": "BREADCRUMB",
+      "priority": 1,
+      "row": 472
+    },
+    {
+      "answer": "SHELF",
+      "borrowed": false,
+      "clue": "Store\n  your books here.",
+      "direction": "down",
+      "grid_col": 8,
+      "grid_row": 17,
+      "lesson": 17,
+      "module": 6,
+      "original_answer": "SHELF",
+      "priority": 3,
+      "row": 503
+    },
+    {
+      "answer": "PROCEDURAL",
+      "borrowed": false,
+      "clue": "Type of\n  memory that supports learned skills such as typing",
+      "direction": "down",
+      "grid_col": 17,
+      "grid_row": 9,
+      "lesson": 16,
+      "module": 6,
+      "original_answer": "PROCEDURAL",
+      "priority": 1,
+      "row": 498
+    },
+    {
+      "answer": "BEAT",
+      "borrowed": false,
+      "clue": "Can\n  provide movement timing",
+      "direction": "down",
+      "grid_col": 21,
+      "grid_row": 12,
+      "lesson": 17,
+      "module": 6,
+      "original_answer": "BEAT",
+      "priority": 3,
+      "row": 502
+    },
+    {
+      "answer": "SELECT",
+      "borrowed": false,
+      "clue": "Choose\n  one item from several possibilities",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 16,
+      "lesson": 15,
+      "module": 6,
+      "original_answer": "SELECT",
+      "priority": 2,
+      "row": 455
+    },
+    {
+      "answer": "SIMPLIFY",
+      "borrowed": false,
+      "clue": "Reduce\n  unnecessary steps",
+      "direction": "across",
+      "grid_col": 14,
+      "grid_row": 9,
+      "lesson": 15,
+      "module": 6,
+      "original_answer": "SIMPLIFY",
+      "priority": 2,
+      "row": 468
+    },
+    {
+      "answer": "PRIORITIZE",
+      "borrowed": false,
+      "clue": "Put the\n  most important demand first",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 0,
+      "lesson": 15,
+      "module": 6,
+      "original_answer": "PRIORITIZE",
+      "priority": 1,
+      "row": 476
+    },
+    {
+      "answer": "COMFORT",
+      "borrowed": false,
+      "clue": "This\n  matters alongside task completion",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 1,
+      "lesson": 17,
+      "module": 6,
+      "original_answer": "COMFORT",
+      "priority": 2,
+      "row": 510
+    },
+    {
+      "answer": "TRANSFER",
+      "borrowed": false,
+      "clue": "Move\n  from one surface to another, such as bed to chair",
+      "direction": "across",
+      "grid_col": 4,
+      "grid_row": 4,
+      "lesson": 16,
+      "module": 6,
+      "original_answer": "TRANSFER",
+      "priority": 1,
+      "row": 490
+    },
+    {
+      "answer": "THERAPIST",
+      "borrowed": false,
+      "clue": "Qualified\n  professional who can help choose suitable rehabilitation tasks",
+      "direction": "down",
+      "grid_col": 11,
+      "grid_row": 1,
+      "lesson": 17,
+      "module": 6,
+      "original_answer": "THERAPIST",
+      "priority": 3,
+      "row": 517
+    },
+    {
+      "answer": "LISTEN",
+      "borrowed": false,
+      "clue": "Pay\n  attention to what another person is saying",
+      "direction": "down",
+      "grid_col": 8,
+      "grid_row": 2,
+      "lesson": 15,
+      "module": 6,
+      "original_answer": "LISTEN",
+      "priority": 2,
+      "row": 453
+    },
+    {
+      "answer": "HINT",
+      "borrowed": false,
+      "clue": "Something\n  that helps someone remember what comes next",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 2,
+      "lesson": 15,
+      "module": 6,
+      "original_answer": "HINT",
+      "priority": 2,
+      "row": 447
+    },
+    {
+      "answer": "REMEMBER",
+      "borrowed": false,
+      "clue": "Bring a\n  fact or instruction back to mind",
+      "direction": "down",
+      "grid_col": 3,
+      "grid_row": 15,
+      "lesson": 15,
+      "module": 6,
+      "original_answer": "REMEMBER",
+      "priority": 2,
+      "row": 467
+    },
+    {
+      "answer": "HEAR",
+      "borrowed": false,
+      "clue": "Notice a\n  sound with your ears",
+      "direction": "across",
+      "grid_col": 14,
+      "grid_row": 16,
+      "lesson": 15,
+      "module": 6,
+      "original_answer": "HEAR",
+      "priority": 2,
+      "row": 448
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "CUE",
+      "clue": "Brief\n  signal that directs attention or guides an action",
+      "row": 446
+    },
+    {
+      "answer": "FILTER",
+      "clue": "Separate\n  important information from competing input",
+      "row": 454
+    },
+    {
+      "answer": "OUTWARD",
+      "clue": "Toward\n  people or events around you",
+      "row": 457
+    },
+    {
+      "answer": "DIVIDED",
+      "clue": "Attention\n  shared between two activities",
+      "row": 458
+    },
+    {
+      "answer": "SUSTAINED",
+      "clue": "Stays on\n  an activity over time",
+      "row": 459
+    },
+    {
+      "answer": "SELECTIVE",
+      "clue": "Follow\n  one person speaking: _________ attention.",
+      "row": 460
+    },
+    {
+      "answer": "SWITCH",
+      "clue": "Change\n  from one task to another",
+      "row": 461
+    },
+    {
+      "answer": "REFOCUS",
+      "clue": "Bring\n  attention back after it has wandered",
+      "row": 463
+    },
+    {
+      "answer": "OVERLOAD",
+      "clue": "More\n  information or demands than someone can comfortably handle",
+      "row": 466
+    },
+    {
+      "answer": "DISTRACTION",
+      "clue": "draws attention away",
+      "row": 473
+    },
+    {
+      "answer": "INTERRUPTION",
+      "clue": "Breaks a\n  person's concentration",
+      "row": 474
+    },
+    {
+      "answer": "CONCENTRATE",
+      "clue": "Focus\n  attention",
+      "row": 475
+    },
+    {
+      "answer": "GRIP",
+      "clue": "How\n  firmly a hand holds an object",
+      "row": 477
+    },
+    {
+      "answer": "REACH",
+      "clue": "Extend\n  an arm toward an object",
+      "row": 478
+    },
+    {
+      "answer": "SKILL",
+      "clue": "Ability\n  developed through learning and repeated use",
+      "row": 480
+    },
+    {
+      "answer": "RETRAIN",
+      "clue": "Work on\n  improving an existing movement through guided practice",
+      "row": 486
+    },
+    {
+      "answer": "SEQUENCE",
+      "clue": "Ordered\n  series of actions making up a learned skill",
+      "row": 488
+    },
+    {
+      "answer": "DRESSING",
+      "clue": "Everyday\n  activity of putting on clothes",
+      "row": 489
+    },
+    {
+      "answer": "VOLUNTARY",
+      "clue": "Describes\n  an intentional effort to move on command",
+      "row": 494
+    },
+    {
+      "answer": "ENDURANCE",
+      "clue": "Ability\n  to keep an activity going over time",
+      "row": 495
+    },
+    {
+      "answer": "ASSISTANCE",
+      "clue": "Help\n  that may still be needed even when some movement occurs",
+      "row": 496
+    },
+    {
+      "answer": "COORDINATE",
+      "clue": "Make\n  several muscles or joints work together on an action",
+      "row": 499
+    },
+    {
+      "answer": "REPEATABLE",
+      "clue": "Describes\n  an action that can be performed again in similar conditions",
+      "row": 500
+    },
+    {
+      "answer": "AIM",
+      "clue": "Toward a\n  chosen target",
+      "row": 501
+    },
+    {
+      "answer": "WEIGHT",
+      "clue": "How\n  heavy an object is",
+      "row": 507
+    },
+    {
+      "answer": "GRAVITY",
+      "clue": "Force\n  that makes lifting different from sliding on a table",
+      "row": 508
+    },
+    {
+      "answer": "DUALTASK",
+      "clue": "Doing\n  two things at once",
+      "row": 511
+    },
+    {
+      "answer": "INTERNAL",
+      "clue": "Focus\n  directed toward the body's own movements",
+      "row": 513
+    },
+    {
+      "answer": "FEEDBACK",
+      "clue": "Information\n  about how an activity went",
+      "row": 514
+    },
+    {
+      "answer": "PAUSE",
+      "clue": "Short\n  stop before continuing an activity",
+      "row": 451
+    },
+    {
+      "answer": "ORIENT",
+      "clue": "Turn\n  your attention toward a new sound or event",
+      "row": 462
+    },
+    {
+      "answer": "RESUME",
+      "clue": "Continue\n  a task after an interruption",
+      "row": 464
+    },
+    {
+      "answer": "PROMPT",
+      "clue": "Short\n  reminder that helps someone carry on",
+      "row": 465
+    },
+    {
+      "answer": "RELEVANCE",
+      "clue": "Information\n  that matters to the task at hand",
+      "row": 470
+    },
+    {
+      "answer": "HABIT",
+      "clue": "Familiar\n  routine that may need little step-by-step thought",
+      "row": 481
+    },
+    {
+      "answer": "GRASP",
+      "clue": "Close\n  the hand around an object to hold it",
+      "row": 482
+    },
+    {
+      "answer": "RELEASE",
+      "clue": "Let go\n  of something after holding it",
+      "row": 484
+    },
+    {
+      "answer": "REHEARSE",
+      "clue": "Practise\n  an action in preparation for using it",
+      "row": 492
+    },
+    {
+      "answer": "CEREBELLUM",
+      "clue": "Brain\n  structure involved in fine-tuning movement and motor learning",
+      "row": 497
+    },
+    {
+      "answer": "INDIVIDUAL",
+      "clue": "A person\n  whose preferences and responses may differ from others",
+      "row": 518
+    },
+    {
+      "answer": "RING",
+      "clue": "Sound\n  that may interrupt concentration",
+      "row": 452
+    },
+    {
+      "answer": "BACKGROUND",
+      "clue": "Less\n  prominent details",
+      "row": 471
+    },
+    {
+      "answer": "WRIST",
+      "clue": "Joint\n  between the forearm and the hand",
+      "row": 479
+    },
+    {
+      "answer": "MUSCLE",
+      "clue": "Body\n  tissue that contracts to move a joint",
+      "row": 483
+    },
+    {
+      "answer": "POSTURE",
+      "clue": "How the\n  body is positioned during an activity",
+      "row": 485
+    },
+    {
+      "answer": "SHOULDER",
+      "clue": "Joint\n  connecting the upper arm to the body",
+      "row": 491
+    },
+    {
+      "answer": "EPISODIC",
+      "clue": "Type of\n  memory for events a person has experienced",
+      "row": 493
+    },
+    {
+      "answer": "HOLD",
+      "clue": "Firmly\n  in the hand.",
+      "row": 504
+    },
+    {
+      "answer": "PLACE",
+      "clue": "Put an\n  object where it belongs",
+      "row": 505
+    },
+    {
+      "answer": "OBJECT",
+      "clue": "Physical\n  item whose shape and weight affect how it is handled",
+      "row": 506
+    }
+  ]
+}
