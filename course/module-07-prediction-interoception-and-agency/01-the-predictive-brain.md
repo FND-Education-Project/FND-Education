@@ -92,6 +92,14 @@ When a movement, speech or sensory activity is difficult, a **physiotherapist, O
 
 *Figure 1. Community experience.* A parent describes uncertainty, not a confirmed mechanism or absence of medical causes. [Original public source](https://www.reddit.com/r/FND/comments/1n8gljg/teenage_son_diagnosed_any_helpful_advicesupport/). (*citations* [4](#citation-4))
 
+### Leave room for surprises without testing the person
+
+A supporter might see someone move more easily after receiving clear directions and wonder whether the person could manage other activities by “expecting success.” Those are different claims. The task may now be easier to follow; that is not evidence that the person chose their earlier difficulty.
+
+A parent describes witnessing episodes with no pattern they could identify (Figure 1). That uncertainty can be frightening for the supporter too. It may help to distinguish **knowing tomorrow's plan** from **predicting when a symptom will happen**. Good practical planning does not require either person to find a trigger or be right about every outcome.
+
+A parent may prepare school transitions, a spouse may clarify an appointment route, and someone without a supporter may ask a service for written arrival instructions. Each is an access choice, not an attempt to control someone else's nervous system.
+
 **Something to discuss together:** “Is there anything about tomorrow's task that would be easier if we knew the plan ahead of time?”
 
 **One small thing:** If invited, clarify one piece of logistics. It's enough to make the day easier; no neurological explanation is required.
