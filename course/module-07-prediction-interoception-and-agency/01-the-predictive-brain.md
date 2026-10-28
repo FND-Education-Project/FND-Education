@@ -46,6 +46,14 @@ Consider a task that feels unpredictable. Maybe a crowded doorway makes it hard 
 
 This adaptation may help because it changes the demands of the activity. You don't have to prove the mechanism.
 
+### Predictions are not promises
+
+Imagine catching a ball that bounces in an unexpected direction. The first reach was a sensible preparation for what usually happens; changing the reach is the response to new information. Neither movement is a deliberate belief about what you deserve or what your body should do.
+
+**A prediction in neuroscience isn't the same as an anxious thought or a conscious expectation.** And noticing a recurring symptom does not mean you predicted it into existence. Researchers are still testing how particular forms of prediction may relate to some FND presentations. (*citations* [1](#citation-1), [2](#citation-2))
+
+This gives us a more useful question than “How do I correct my thoughts?”: *What makes an activity easier to anticipate and respond to, without needing to prove why my symptoms occur?*
+
 **Something to think about:** What does your nervous system normally anticipate successfully—catching an object, finishing a familiar phrase, navigating a familiar room?
 
 **One small step:** Notice one helpful prediction in ordinary life. You could simply think, “I knew where the door handle would be without studying it.” No need to deliberately trigger symptoms to explore the concept.
