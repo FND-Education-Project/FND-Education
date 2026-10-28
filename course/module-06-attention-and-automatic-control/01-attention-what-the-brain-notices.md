@@ -1,10 +1,10 @@
 # Attention: What the Brain Notices
 
-> **Working draft:** The Person, Supporter and Clinician sections have been human-edited and approved with AI assistance. Editorial audits and independent clinical review remain pending.
+> **Working draft:** Human authored with AI assistance; the Person, Supporter and Clinician sections have been reviewed and approved by the project lead. Audit 1 completed October 28, 2026; illustration/caption review, Audit 2 and independent clinical review remain pending.
 
 Lesson 15 explores attention and what the brain notices through everyday examples, collaborative adaptations and clinical reasoning.
 
-*Last reviewed: October 26, 2026*
+*Last reviewed: October 28, 2026*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -94,6 +94,14 @@ This is one example of **task-focused practice**. In some functional movement sy
 
 These approaches are chosen around the person's symptoms, abilities and safety needs. Their purpose is to support meaningful activities and rehabilitation. For episodes that affect awareness or safety, such as functional seizures, the person's own safety plan and professional guidance still come first.
 
+<figure class="image-60center" markdown="1">
+
+![A man slides a photograph into a folder beside a cartoon control room where three brain characters coordinate information and movement.](../../assets/images/lesson-15-illustration.png)
+
+<figcaption>Attention helps select what matters while other nervous-system processes contribute to an activity. The control room is a visual metaphor, not a map of brain anatomy.</figcaption>
+
+</figure>
+
 ### Making room for what matters
 
 Remember that message to your friend?
@@ -123,6 +131,27 @@ Choose **one small change** that makes more room for your attention. You might l
 See whether returning to the activity feels easier. You can keep the support that works for you, change it, or save this idea for another day.
 
 Next, we'll look at how your brain handles familiar actions with less step-by-step conscious direction.
+
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-15" aria-label="Browse Attention: What the Brain Notices"><img src="{{ '/assets/puzzles/thumbnails/attention-what-the-brain-notices-m6-15-normal.svg' | relative_url }}" alt="Preview of the crossword grid" loading="lazy" decoding="async"><span>Attention: What the Brain Notices</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Attention: What the Brain Notices PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-15/attention-what-the-brain-notices-m6-15-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy PDF for Attention: What the Brain Notices (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-15/attention-what-the-brain-notices-m6-15-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal PDF for Attention: What the Brain Notices (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-15/attention-what-the-brain-notices-m6-15-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key PDF for Attention: What the Brain Notices (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-15-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-15-coloring-book.png' | relative_url }}" alt="A man slides a photograph into a folder beside a cartoon control room where three brain characters coordinate information and movement. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-15-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 15 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-15">browse the colouring collection</a>.
 
 
 ***
@@ -463,4 +492,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-6"></a>**[6]** | — | Nielsen G, Stone J, Matthews A, et al. **Physiotherapy for functional motor disorders: a consensus recommendation.** *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86:1113–1119. doi:10.1136/jnnp-2014-309255. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602268/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/25433033/). [FND-CIT-0028](../../research/citation-index.md#fnd-cit-0028). |
 | <a id="citation-7"></a>**[7]** | — | Baker J, Barnett C, Cavalli L, et al. **Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.** *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92:1112–1125. doi:10.1136/jnnp-2021-326767. [Original](https://jnnp.bmj.com/content/92/10/1112) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/34210802/). [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
 
-*Publication-readiness audit: October 26, 2026. Person section human-edited and approved October 26, 2026; Clinician and Supporter sections human-edited and approved October 27, 2026. Two post-edit lesson audits and independent clinical review remain pending.*
+*Publication-readiness audit: October 26, 2026. Person section human-edited and approved October 26, 2026; Clinician and Supporter sections human-edited and approved October 27, 2026. Audit 1 completed October 28, 2026; illustration/caption review, Audit 2 and independent clinical review remain pending.*

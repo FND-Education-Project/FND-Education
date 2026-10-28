@@ -30,7 +30,7 @@ Other short educational and practical booklets may be added as the project grows
 
 People with FND, supporters, clinicians, researchers, writers, illustrators, and accessibility reviewers are welcome to help.
 
-**[Visit the contact page](../contact/README.md)** if you would like to contribute.
+**[Visit the contact page](../contact/README.md)** if you would like to help with a skill, a review or a suggestion.
 
 <!-- NAV-CONTEXT:START -->
 **Navigate:** [Home](../README.md) · [Course](../course/README.md) · [Reference Library](../reference/README.md) · [Puzzles](../assets/puzzles/README.md) · [Site Map](../SITEMAP.md)

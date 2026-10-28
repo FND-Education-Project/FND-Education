@@ -1,10 +1,10 @@
 # Automatic Control and Conscious Effort
 
-> **Working draft:** The Person, Supporter and Clinician sections have been human-edited and approved with AI assistance. Editorial audits and independent clinical review remain pending.
+> **Working draft:** Human authored with AI assistance; the Person, Supporter and Clinician sections have been reviewed and approved by the project lead. Audit 1 completed October 28, 2026; illustration/caption review, Audit 2 and independent clinical review remain pending.
 
-Lesson 16 explores automatic Control and Conscious Effort through everyday examples, collaborative adaptations and clinical reasoning.
+Lesson 16 explores automatic control and conscious effort through everyday examples, collaborative adaptations and clinical reasoning.
 
-*Last reviewed: October 26, 2026*
+*Last reviewed: October 28, 2026*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -73,6 +73,14 @@ For some people with a **functional gait difficulty**, close attention to moveme
 Researchers are investigating whether attention, movement planning, and the sense of control over an action work differently in some forms of FND. These are useful ideas for study and rehabilitation—not a proven explanation for every person's symptoms. (*citations* [1](#citation-1), [2](#citation-2))
 
 **The movement difficulty remains involuntary.** Finding a different way to approach an action is an opportunity to help, rather than a test of effort or willpower.
+
+<figure class="image-60center" markdown="1">
+
+![A shaking hand holds a book near a shelf. In a cartoon control room, brain characters face competing screens and an alarm while another sits beside a movement lever.](../../assets/images/lesson-16-illustration.png)
+
+<figcaption>A familiar action can become difficult to carry out even when the person knows what they want to do. The characters are a metaphor for movement coordination. The difficulty is involuntary, and this scene does not establish its cause.</figcaption>
+
+</figure>
 
 ### A movement that happens once, and a movement you can depend on
 
@@ -165,6 +173,27 @@ Keep your usual supports. Try it only for as long as it feels comfortable, and r
 If an activity brings a risk of falling or injury, you can describe it to your physiotherapist or occupational therapist instead. They can help you explore a safe version together.
 
 Next, we'll look more closely at how changing the focus, instructions, or surroundings may affect what happens during an activity.
+
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-16" aria-label="Browse Automatic Control and Conscious Effort"><img src="{{ '/assets/puzzles/thumbnails/automatic-control-and-conscious-effort-m6-16-normal.svg' | relative_url }}" alt="Preview of the crossword grid" loading="lazy" decoding="async"><span>Automatic Control and Conscious Effort</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Automatic Control and Conscious Effort PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-16/automatic-control-and-conscious-effort-m6-16-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy PDF for Automatic Control and Conscious Effort (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-16/automatic-control-and-conscious-effort-m6-16-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal PDF for Automatic Control and Conscious Effort (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-16/automatic-control-and-conscious-effort-m6-16-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key PDF for Automatic Control and Conscious Effort (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-16-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-16-coloring-book.png' | relative_url }}" alt="A shaking hand holds a book near a shelf. In a cartoon control room, brain characters face competing screens and an alarm while another sits beside a movement lever. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-16-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 16 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-16">browse the colouring collection</a>.
 
 
 ***
@@ -515,4 +544,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-6"></a>**[6]** | — | Dayan E, Cohen LG. **Neuroplasticity subserving motor skill learning.** *Neuron*. 2011;72:443–454. doi:10.1016/j.neuron.2011.10.008. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC3217208/). [FND-CIT-0306](../../research/citation-index.md#fnd-cit-0306). |
 | <a id="citation-7"></a>**[7]** | — | Ball HA, McWhirter L, Ballard C, et al. **Functional cognitive disorder: dementia’s blind spot.** *Brain*. 2020;143(10):2895–2903. doi:10.1093/brain/awaa224. [Original](https://doi.org/10.1093/brain/awaa224) · [FND-CIT-0071](../../research/citation-index.md#fnd-cit-0071). Clinical review of FCD diagnostic considerations; not evidence that procedural motor memory is erased in FND. |
 
-*Publication-readiness audit: October 26, 2026. The Person section was human-edited and approved on October 26, 2026; the Clinician section on October 27, 2026; and the Supporter section on October 28, 2026. Two post-edit lesson audits and independent clinical review remain pending.*
+*Publication-readiness audit: October 26, 2026. The Person section was human-edited and approved on October 26, 2026; the Clinician section on October 27, 2026; and the Supporter section on October 28, 2026. Audit 1 completed October 28, 2026; illustration/caption review, Audit 2 and independent clinical review remain pending.*

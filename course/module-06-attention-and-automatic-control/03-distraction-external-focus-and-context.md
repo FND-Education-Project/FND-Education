@@ -1,10 +1,10 @@
 # Distraction, External Focus, and Context
 
-> **Working draft:** The Person, Supporter and Clinician sections have been human-edited and approved with AI assistance. Editorial audits and independent clinical review remain pending.
+> **Working draft:** Human authored with AI assistance; the Person, Supporter and Clinician sections have been reviewed and approved by the project lead. Audit 1 completed October 28, 2026; illustration/caption review, Audit 2 and independent clinical review remain pending.
 
-Lesson 17 explores distraction, External Focus, and Context through everyday examples, collaborative adaptations and clinical reasoning.
+Lesson 17 explores distraction, external focus, and context through everyday examples, collaborative adaptations and clinical reasoning.
 
-*Last reviewed: October 26, 2026*
+*Last reviewed: October 28, 2026*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -55,6 +55,14 @@ That's part of **context**: everything involved in doing an activity, including 
 A functional symptom can change even when you can't identify anything that set it off. **There doesn't have to be a noticeable trigger.** Sometimes the reason one moment feels different from another isn't clear.
 
 For some people with FND, adjusting the task or the setting can make participation easier. For others, the difference may be small or absent. The idea is to explore what is useful rather than assume one cause. (*citations* [1](#citation-1), [3](#citation-3))
+
+<figure class="image-60center" markdown="1">
+
+![A shaking hand moves a book toward a shelf while cartoon brain characters follow a destination on a screen and coordinate controls.](../../assets/images/lesson-17-illustration.png)
+
+<figcaption>A clear destination and a suitable setup may make an activity more manageable while symptoms remain. This control-room metaphor illustrates an idea to explore, not a guaranteed response or a literal brain mechanism.</figcaption>
+
+</figure>
 
 ### A cue can give movement somewhere to go
 
@@ -191,6 +199,27 @@ Maybe you'd like more time to answer during a conversation. Perhaps a clear plac
 See whether the activity feels easier or more comfortable. Your symptoms might change, or they might stay the same.
 
 Keep the supports and safety measures you already need. If exploring a movement could involve falling or injury, you can bring the idea to your rehabilitation clinician instead.
+
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-17" aria-label="Browse Distraction, External Focus, and Context"><img src="{{ '/assets/puzzles/thumbnails/distraction-external-focus-and-context-m6-17-normal.svg' | relative_url }}" alt="Preview of the crossword grid" loading="lazy" decoding="async"><span>Distraction, External Focus, and Context</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Distraction, External Focus, and Context PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-17/distraction-external-focus-and-context-m6-17-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy PDF for Distraction, External Focus, and Context (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-17/distraction-external-focus-and-context-m6-17-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal PDF for Distraction, External Focus, and Context (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-17/distraction-external-focus-and-context-m6-17-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key PDF for Distraction, External Focus, and Context (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-17-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-17-coloring-book.png' | relative_url }}" alt="A shaking hand moves a book toward a shelf while cartoon brain characters follow a destination on a screen and coordinate controls. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-17-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 17 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-17">browse the colouring collection</a>.
 
 
 ***
@@ -554,4 +583,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1nzuyuz/comment/ni918wf/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0310](../../research/citation-index.md#fnd-cit-0310). |
 | <a id="citation-6"></a>**[6]** | Figure 2 | Public Reddit community contribution, caregiver/father excerpt Q048, retained in the project’s October 25 caregiver quotation bank. [Original thread](https://www.reddit.com/r/FND/comments/1itk0q6/please_supporthelp/). Individual experience; public-post wording, speaker role and context require fresh direct verification before publication. |
 
-*Publication-readiness audit: October 26, 2026. Person and Clinician sections were human-edited and approved on October 27, 2026; Supporter section was human-edited and approved on October 28, 2026. Two post-edit lesson audits and independent clinical review remain pending.*
+*Publication-readiness audit: October 26, 2026. Person and Clinician sections were human-edited and approved on October 27, 2026; Supporter section was human-edited and approved on October 28, 2026. Audit 1 completed October 28, 2026; illustration/caption review, Audit 2 and independent clinical review remain pending.*
