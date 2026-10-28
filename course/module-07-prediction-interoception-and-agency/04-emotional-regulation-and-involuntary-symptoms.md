@@ -82,46 +82,6 @@ New, severe or changed speech, cognitive or seizure-like symptoms still need app
 
 ***
 
-## For Clinicians and the Care Team
-
-### A symptom's timing is not a test of intention
-
-A clinician hears that a patient's conversation with their partner frequently ends when cognitive symptoms, speech difficulty or a functional seizure begins. The apparent relationship to conflict may be clinically relevant, but it cannot distinguish involuntary symptoms from deliberate avoidance or identify a causal neural process.
-
-An important first question is **what changed and in which order**. Was the person still understanding and retaining information? Could they communicate by another means? Did awareness, movement or speech change? What was the event's usual pattern, how was recovery, and what did the supporter observe?
-
-Avoid treating these answers as an informal lie detector. Positive FND diagnosis and event-specific differential assessment rest on appropriate clinical evidence, not interpretation of interpersonal convenience. (*citations* [4](#citation-4), [5](#citation-5))
-
-### Emotion, arousal and cognitive access are related but distinct
-
-Emotional regulation includes processes such as recognition, appraisal, modulation and recovery. **Arousal** refers more broadly to physiological and cognitive readiness and may occur with pain, excitement, illness or physical exertion. **Cognitive access** includes the ability to retain what is said, select a response and communicate it.
-
-A person may have marked cognitive or functional communication difficulty in an argument without an unusually intense emotion; someone else may have pronounced emotional intensity without neurological communication loss. Assess these domains separately.
-
-Pick and colleagues reviewed heterogeneous group-level emotional-processing research in FND and identified important gaps. Proposed network models implicating emotional salience, interoception, attention and movement are valuable research frameworks but do not establish a patient-level biomarker or an individual's psychological cause. (*citations* [1](#citation-1), [2](#citation-2))
-
-### The clinical task: describe, discriminate and adapt
-
-Begin with the patient's account and desired communication goal. Where relevant, investigate functional cognitive complaints and memory, functional versus other speech presentations, episodes of altered awareness, pain and fatigue, sleep and sensory load, medication effects, psychiatric/neurodevelopmental comorbidity and medical differentials.
-
-**Neurology** should maintain the positive diagnostic standard for the actual neurological presentation and an appropriate seizure/medical safety plan. **Speech-language therapy** can assess functional communication and offer alternative communication methods where indicated. **OT** can consider the cognitive and environmental demands of meaningful conversations. **Psychology/neuropsychology** may evaluate emotion regulation, cognition, trauma-related responses or coping where indicated and with consent. No discipline should assume that the relationship is the pathology. (*citations* [3](#citation-3), [4](#citation-4), [5](#citation-5), [7](#citation-7))
-
-Clinical targets need not be “avoid conflict” or “stay calm.” They could include better access to a difficult conversation, recognizing the need for accommodation before a visible episode, fewer communication misunderstandings, safer episode response and protection of both people's dignity.
-
-### Evidence boundary and handoff
-
-The patient's functional symptoms must be treated as genuine and involuntary; symptom change during conflict does not demonstrate intentional production. Conversely, an event's involuntary nature does not settle the underlying disagreement or excuse intimidation or harm. Those are separate matters requiring proportionate attention.
-
-Neither a narrative sequence nor a successful accommodation tests predictive processing or establishes altered emotion–motor connectivity. If concerns are new, severe or atypical, consider alternate medical/neurological causes. The later relationships module explores shared concessions and longitudinal couple/family communication; do not compress all of that therapy into this mechanism lesson.
-
-**Question for the team:** “How much of this person's difficulty is affective intensity, cognitive or communication access, an episode, or another condition—and what assessment or support would actually change their ability to participate?”
-
-***
-
-[For the Person With FND](#for-the-person-with-fnd) · [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters) · [For Clinicians and the Care Team](#for-clinicians-and-the-care-team) · [Research and Sources](#research-and-sources)
-
-***
-
 ## For Family, Friends, and Other Supporters
 
 ### When the difficult subject seems to make symptoms appear
@@ -171,6 +131,46 @@ A **speech-language therapist**, **OT** or **psychologist** may help with specif
 **Something to discuss together:** “If we lose the ability to communicate during a serious subject, what would help us both feel heard and safe?”
 
 **One small thing:** At an ordinary, comfortable time, agree on one low-pressure way to say that communication is becoming difficult. No symptom testing is needed.
+
+***
+
+[For the Person With FND](#for-the-person-with-fnd) · [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters) · [For Clinicians and the Care Team](#for-clinicians-and-the-care-team) · [Research and Sources](#research-and-sources)
+
+***
+
+## For Clinicians and the Care Team
+
+### A symptom's timing is not a test of intention
+
+A clinician hears that a patient's conversation with their partner frequently ends when cognitive symptoms, speech difficulty or a functional seizure begins. The apparent relationship to conflict may be clinically relevant, but it cannot distinguish involuntary symptoms from deliberate avoidance or identify a causal neural process.
+
+An important first question is **what changed and in which order**. Was the person still understanding and retaining information? Could they communicate by another means? Did awareness, movement or speech change? What was the event's usual pattern, how was recovery, and what did the supporter observe?
+
+Avoid treating these answers as an informal lie detector. Positive FND diagnosis and event-specific differential assessment rest on appropriate clinical evidence, not interpretation of interpersonal convenience. (*citations* [4](#citation-4), [5](#citation-5))
+
+### Emotion, arousal and cognitive access are related but distinct
+
+Emotional regulation includes processes such as recognition, appraisal, modulation and recovery. **Arousal** refers more broadly to physiological and cognitive readiness and may occur with pain, excitement, illness or physical exertion. **Cognitive access** includes the ability to retain what is said, select a response and communicate it.
+
+A person may have marked cognitive or functional communication difficulty in an argument without an unusually intense emotion; someone else may have pronounced emotional intensity without neurological communication loss. Assess these domains separately.
+
+Pick and colleagues reviewed heterogeneous group-level emotional-processing research in FND and identified important gaps. Proposed network models implicating emotional salience, interoception, attention and movement are valuable research frameworks but do not establish a patient-level biomarker or an individual's psychological cause. (*citations* [1](#citation-1), [2](#citation-2))
+
+### The clinical task: describe, discriminate and adapt
+
+Begin with the patient's account and desired communication goal. Where relevant, investigate functional cognitive complaints and memory, functional versus other speech presentations, episodes of altered awareness, pain and fatigue, sleep and sensory load, medication effects, psychiatric/neurodevelopmental comorbidity and medical differentials.
+
+**Neurology** should maintain the positive diagnostic standard for the actual neurological presentation and an appropriate seizure/medical safety plan. **Speech-language therapy** can assess functional communication and offer alternative communication methods where indicated. **OT** can consider the cognitive and environmental demands of meaningful conversations. **Psychology/neuropsychology** may evaluate emotion regulation, cognition, trauma-related responses or coping where indicated and with consent. No discipline should assume that the relationship is the pathology. (*citations* [3](#citation-3), [4](#citation-4), [5](#citation-5), [7](#citation-7))
+
+Clinical targets need not be “avoid conflict” or “stay calm.” They could include better access to a difficult conversation, recognizing the need for accommodation before a visible episode, fewer communication misunderstandings, safer episode response and protection of both people's dignity.
+
+### Evidence boundary and handoff
+
+The patient's functional symptoms must be treated as genuine and involuntary; symptom change during conflict does not demonstrate intentional production. Conversely, an event's involuntary nature does not settle the underlying disagreement or excuse intimidation or harm. Those are separate matters requiring proportionate attention.
+
+Neither a narrative sequence nor a successful accommodation tests predictive processing or establishes altered emotion–motor connectivity. If concerns are new, severe or atypical, consider alternate medical/neurological causes. The later relationships module explores shared concessions and longitudinal couple/family communication; do not compress all of that therapy into this mechanism lesson.
+
+**Question for the team:** “How much of this person's difficulty is affective intensity, cognitive or communication access, an episode, or another condition—and what assessment or support would actually change their ability to participate?”
 
 ***
 
