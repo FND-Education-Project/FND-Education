@@ -42,7 +42,7 @@ A **Research and Sources** section supports those three audiences with citations
 
 FND Education is looking for people with FND, family members and other supporters, clinicians, researchers, writers, illustrators, and accessibility reviewers.
 
-**[Visit the contact page](contact/README.md)** if you would like to contribute, review material, suggest an improvement, or help with the project in another way.
+**[Visit the contact page](contact/README.md)** to share a skill, review material, suggest an improvement, or ask about helping in a small way. We welcome people living with FND.
 
 ## Additional information
 
