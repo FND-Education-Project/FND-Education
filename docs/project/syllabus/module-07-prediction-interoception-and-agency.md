@@ -2,7 +2,7 @@
 
 **Part Two: Understanding Attention, Action, and Body Signals**<br>
 **Status:** Approved syllabus direction; source review completed October 26, 2026; lesson authoring and independent clinical review pending.<br>
-**Planned lessons:** 18–21 (future numbers, not yet live).
+**Current course lessons:** 18–22 (five lessons). Human authoring, two subsequent lesson audits and independent clinical review remain pending.
 
 ## Purpose
 
@@ -29,9 +29,9 @@ Help readers understand the brain's use of predictions, bodily and external sens
 - A feedback loop is not blame or proof that a person can turn symptoms off.
 - Autonomic or systemic complaints also deserve medical evaluation when indicated.
 
-## Proposed fifth lesson — Emotional Regulation and Involuntary Symptoms (editorial proposal)
+## Lesson 21 — Emotional Regulation and Involuntary Symptoms (seeded working lesson)
 
-**Proposed placement:** After Lesson 20 (Salience, Arousal, and Feedback), before the current Lesson 21 on agency. If approved, the new lesson would provisionally become Lesson 21 and the agency lesson would become Lesson 22. **No lesson IDs, course routes, lesson counts or learner-progress keys are changed by these notes.** Review all later overall lesson labels before adopting a five-lesson Module 7.
+**Placement implemented:** The fourth module-local lesson is now [Emotional Regulation and Involuntary Symptoms](../../../course/module-07-prediction-interoception-and-agency/04-emotional-regulation-and-involuntary-symptoms.md) (overall Lesson 21). Agency has moved to [the fifth module-local lesson](../../../course/module-07-prediction-interoception-and-agency/05-agency-learning-and-your-own-adaptations.md) (overall Lesson 22). This is the single current course, not a preserved earlier edition. No public learner database migration was performed; separate test-only account Worker contract needs reconciliation.
 
 **Distinct concept:** Emotional processing and emotional regulation are not synonyms for arousal. Teach the ordinary roles of emotional significance, response intensity, identifying feelings, modulation and recovery, then separate that general neuroscience from the mixed, group-level emotional-processing findings in FND. Emotion dysregulation is not a positive diagnostic sign, proven universal symptom, or established individual causal mechanism. Emotional difficulty may also reflect disability, pain, fatigue, sleep disruption, sensory/cognitive load, trauma-related experiences, medication or other conditions. Link to [Emotional Regulation, Irritability, and Overwhelm](../../../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md) for detailed assessment and practice boundaries.
 
@@ -45,7 +45,7 @@ Help readers understand the brain's use of predictions, bodily and external sens
 
 **Congruity check:** Lesson 20 explains salience, arousal and feedback as broad processes; this proposed lesson asks how feelings are processed and regulated, and what is known or unknown about emotional strain accompanying involuntary functional symptoms; the existing agency lesson then distinguishes intent, perceived control and movement/response capacity. Keep each lesson's central question separate.
 
-## Lesson 21 — Sense of Agency, Learning, and Personal Adaptations
+## Lesson 22 — Sense of Agency, Learning, and Personal Adaptations
 - Agency as the *experience* of initiating or controlling an action, distinct from intent, responsibility and actual capacity.
 - Learning and expectations can shape later experiences; involuntary symptoms are not learned fakery.
 - Integrate concepts through **understand → notice → consider → adapt → review**.
@@ -81,7 +81,7 @@ The [remaining new-lesson research briefs](../../../reference/_internal/course/n
 
 ## Clinician-section editorial draft
 
-[Read the complete clinician sections for this module](../../../reference/_internal/course/clinician-drafts-2026-10-26/module-07-prediction-interoception-and-agency.md), prepared for all planned lessons and covering interdisciplinary use in assessment, individual technique selection, rehabilitation and outcome review. For full 17-presentation coverage across the five modules, see the [clinical coverage index](../../../reference/_internal/course/clinician-drafts-2026-10-26/README.md). **Supporter sections remain unwritten.** Clinical statements are grounded in internal source-review material, but final paper-level verification, citations and specialist sign-off are pending.
+[Read the complete clinician sections for this module](../../../reference/_internal/course/clinician-drafts-2026-10-26/module-07-prediction-interoception-and-agency.md), prepared for all planned lessons and covering interdisciplinary use in assessment, individual technique selection, rehabilitation and outcome review. For full 17-presentation coverage across the five modules, see the [clinical coverage index](../../../reference/_internal/course/clinician-drafts-2026-10-26/README.md). **Supporter sections are seeded in the current course; older internal briefs remain historical source material.** Clinical statements are grounded in internal source-review material, but final paper-level verification, citations and specialist sign-off are pending.
 
 ## Supporter-section editorial draft
 
