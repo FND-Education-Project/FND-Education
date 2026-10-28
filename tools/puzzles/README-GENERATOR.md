@@ -66,41 +66,42 @@ server and cleaning up temporary puzzle output; neither shuts down Codespaces.
 Save/download your workbook first. Restart the same Codespaces task if you
 want another session. You can also stop the terminal with Ctrl+C.
 
-### Automatic session handoff (draft PR, never automatic merge)
+### Automatic session handoff and interrupted-session recovery
 
-Run `python crossword.py` from clean main or a previously merged
-`crossword/session-...` branch. The launcher checks GitHub for open workshop
-PRs and verifies local session commits, fetches origin, and fast-forwards main
-before creating a new session branch. You do not need to pull manually each
-time. If launcher code changes during the update, it restarts with that code.
+Run `python crossword.py`. On clean main, the launcher fetches GitHub updates,
+fast-forwards main, and creates a dedicated crossword session before opening
+the workshop.
 
-Startup stops with an explanation if there are uncommitted files, an open
-workshop PR, unverified session commits, local-only main commits, missing Git
-or GitHub CLI, or a network/authentication failure. It never automatically
-stashes work, resets commits, or merges PRs. Review and merge an open workshop
-PR on GitHub, then run the command again. For unsaved or unpushed work, preserve
-it on its existing branch first. Other development branches remain untouched.
+If the Codespace stopped while you were on a crossword session branch, the
+launcher can recover workbook edits already saved to disk. It commits only
+eligible XLSX workbooks directly in `tools/puzzles/`, pushes the session, and
+creates or reuses its draft PR. It also recovers a session interrupted after
+the commit, push, or PR creation. Browser-only edits that were never saved
+cannot be recovered.
 
-To install this feature initially, merge its PR and run `git switch main`
-then `git pull --ff-only` once from a clean, stopped workshop.
+On recovery and normal exit, the terminal displays the PR link and asks you
+to review and merge it. For a draft, click **Ready for review**, wait for checks,
+then merge. Return to the terminal and press **Enter**. The launcher checks
+GitHub to confirm that the exact workbook commit was merged into main before
+switching to main and fetching the latest merged work. Enter does not perform
+or authorize a merge. If the PR remains open, you can retry or type **q** to
+finish later. Run `python crossword.py` again to continue. Without an interactive
+terminal, it prints the link and stops safely instead of waiting for input.
 
-After you click **Save edits to workbook in Codespaces** and then **Exit workshop**,
-the launcher commits only modified or new `.xlsx` workbooks directly under
-`tools/puzzles/`. It pushes the session branch, opens a **draft pull request
-targeting main**, and returns Codespaces to main if no other changes remain.
-You must review and merge that PR yourself.
+Unrelated changes, conflicts, deleted workbooks, unrelated session commits,
+closed unmerged PRs, and new edits on an already merged session require manual
+review. Network or authentication failures preserve the session for retry.
+No force pushes, automatic PR merges, resets, or stashes are performed. Local
+session branches are retained. A clean empty session returns to updated main
+without creating a PR.
 
-If you leave without saving any question-bank changes, it deletes the empty
-local session branch and returns to main; no PR is created. The launcher
-will **not** create a session branch when you start outside main or when
-other tracked/untracked work is pending; finish that work manually first.
-If the push, GitHub CLI, or PR creation fails, the committed work remains
-on the session branch, and the terminal prints recovery instructions.
+Save with **Save edits to workbook in Codespaces** before exiting. Download
+finished PDFs separately and keep the Codespace running until the terminal
+confirms the handoff. Stopping Codespaces during the merge prompt is safe for
+the pushed workbook; the next launch can verify its PR again.
 
-The handoff intentionally excludes generated crossword PDFs, ZIPs, previews,
-Cloudflare state, and other repository changes. Downloaded puzzles still
-require separate review and publication. Keep your Codespaces terminal open
-until the Git handoff message appears after the Streamlit server exits.
+To install this feature initially, merge its PR and update clean main once
+with `git switch main` and `git pull --ff-only`.
 
 **Progress:** Generating five choices displays a percentage bar with a
 description of the current stage: validating questions, exploring crossings,
