@@ -15,7 +15,7 @@ Follow the course in order, or open the topics most useful to you. Every lesson 
 ## Part Two: Understanding Attention, Action, and Body Signals
 
 - [Module 6: Attention and Automatic Control](module-06-attention-and-automatic-control/README.md) — 3 lessons
-- [Module 7: Prediction, Body Signals, and Agency](module-07-prediction-interoception-and-agency/README.md) — 4 lessons
+- [Module 7: Prediction, Body Signals, and Agency](module-07-prediction-interoception-and-agency/README.md) — 5 lessons
 - [Module 8: Recognizing Symptoms and Finding Information](module-08-recognizing-symptoms-and-finding-information/README.md) — 3 lessons
 
 ## Part Three: Applying What You Have Learned
@@ -40,7 +40,7 @@ Follow the course in order, or open the topics most useful to you. Every lesson 
 
 ## About the course
 
-This course contains **19 sequentially numbered modules and 57 focused lessons**. The lessons teach foundations and safety, then attention and body–brain concepts, symptom descriptions and finding information, rehabilitation, pacing, treatment and everyday life.
+This course contains **19 sequentially numbered modules and 58 focused lessons**. The lessons teach foundations and safety, then attention and body–brain concepts, symptom descriptions and finding information, rehabilitation, pacing, treatment and everyday life.
 
 Automatically generated lessons are temporary working drafts while the project lead develops human-authored versions. Publication checks address evidence, safety, citations, navigation and technical behavior. Human authoring and two later audits follow; these checks are not independent clinical sign-off.
 
