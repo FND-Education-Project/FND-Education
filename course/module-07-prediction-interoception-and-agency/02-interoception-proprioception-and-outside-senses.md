@@ -136,6 +136,13 @@ Document one meaningful everyday goal, separate symptom description from objecti
 
 **Evidence boundary:** Definitions are grounded in general neuroscience [1](#citation-1), [2](#citation-2); mixed-FND interoception research [3](#citation-3) does not establish treatment efficacy. Swallowing and communication management is primarily specialist consensus [4](#citation-4).
 
+### Three clinical questions, not one sensory diagnosis
+
+If a patient says a leg feels absent, clarify whether they mean a change in **sensation**, impaired **position sense**, altered **body ownership**, loss of **motor output**, or difficulty describing the experience. These can coexist but should not be collapsed into “poor interoception.”
+
+Similarly, a racing-heart sensation should be documented separately from measured tachycardia and its cause; orthostatic symptoms may require cardiovascular/autonomic evaluation. Sensory and balance supports can be chosen through PT/OT in the context of examination and the patient's goals. A self-report, psychophysical accuracy test and neural response are not interchangeable evidence. The specific 2026 heartbeat study does not diagnose a global interoceptive deficit. (*citations* [3](#citation-3), [5](#citation-5), [7](#citation-7))
+
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
