@@ -1,10 +1,10 @@
 # Attention: What the Brain Notices
 
-> **Working draft:** Human authored with AI assistance; the Person, Supporter and Clinician sections have been reviewed and approved by the project lead. Audit 1 completed October 28, 2026; illustration/caption review, Audit 2 and independent clinical review remain pending.
+> **Working draft:** Human authored with AI assistance; the Person, Supporter and Clinician sections have been reviewed and approved by the project lead. Audit 1 completed October 28, 2026; accepted corrections and editorial Audit 2 completed October 29, 2026. Illustrations and captions approved by the project lead; independent clinical review remains pending.
 
 Lesson 15 explores attention and what the brain notices through everyday examples, collaborative adaptations and clinical reasoning.
 
-*Last reviewed: October 28, 2026*
+*Last reviewed: October 29, 2026*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -62,13 +62,13 @@ Imagine someone with a **functional walking difficulty** moving along a hallway.
 
 They begin thinking about every step. For some people, closely watching their walking can happen alongside greater difficulty moving. For others, attention makes little difference.
 
-The worry about other people is understandable, and the movement difficulty is involuntary. A physiotherapist might explore whether attention changes the person's walking, with proper support and fall safety. Their safety and comfort matter more than the pace of somebody walking behind them. (*citation* [2](#citation-2))
+The worry about other people is understandable, and the movement difficulty is involuntary. A physiotherapist might explore whether attention changes the person's walking, with proper support and fall safety. Their safety and comfort matter more than the pace of somebody walking behind them. (*citations* [6](#citation-6))
 
 Here's another example.
 
 Someone's hand shakes while they hold a book. Later, as they become interested in a conversation, the shaking changes.
 
-Clinicians sometimes observe changes like this with **functional tremor**. It's a genuine, involuntary symptom in both situations. The change may offer a clue during a neurological examination, while the tremor remains outside the person's voluntary control. (*citation* [3](#citation-3))
+Clinicians sometimes observe changes like this with **functional tremor**. It's a genuine, involuntary symptom in both situations. The change may offer a clue during a neurological examination, while the tremor remains outside the person's voluntary control. (*citations* [3](#citation-3))
 
 Attention may also affect communication. Someone who struggles to find words in a busy group might find it easier with one listener and a little more time. Or they may still need another way to get their message across.
 
@@ -84,13 +84,13 @@ An **occupational therapist**, or **OT**, might help them leave a little *breadc
 
 What looks like a cluttered workspace to one person may be a useful map to another. The question is whether that arrangement helps the person find their way back.
 
-These are **memory supports**: ways to leave some of the remembering outside your head. They can make an activity easier even when attention or memory symptoms remain. (*citations* [2](#citation-2), [4](#citation-4))
+These are **[memory supports](../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md)**: ways to leave some of the remembering outside your head. They can make an activity easier even when attention or memory symptoms remain. (*citations* [2](#citation-2), [4](#citation-4))
 
 Now picture someone working with a physiotherapist because their arm shakes during everyday tasks.
 
 The therapist might set up a safe, seated activity: sliding a soft cloth across a table toward a coloured mark. Instead of asking the person to watch every movement of their arm, the therapist invites them to look at where the cloth needs to go.
 
-This is one example of **task-focused practice**. In some functional movement symptoms, changing what the person focuses on may help them practise a useful action. The therapist checks what works, adjusts the support, and makes room for rest. The practice can still be worthwhile if some shaking remains. (*citations* [2](#citation-2), [3](#citation-3))
+This is one example of **task-focused practice**. In some functional movement symptoms, changing what the person focuses on may help them practise a useful action. The therapist checks what works, adjusts the support, and makes room for rest. The practice can still be worthwhile if some shaking remains. (*citations* [2](#citation-2), [6](#citation-6))
 
 These approaches are chosen around the person's symptoms, abilities and safety needs. Their purpose is to support meaningful activities and rehabilitation. For episodes that affect awareness or safety, such as functional seizures, the person's own safety plan and professional guidance still come first.
 
@@ -132,6 +132,13 @@ See whether returning to the activity feels easier. You can keep the support tha
 
 Next, we'll look at how your brain handles familiar actions with less step-by-step conscious direction.
 
+
+### Further reading in the Reference Library
+
+For more detail, choose the topic that fits your question. Each page includes information for the person, supporters and clinicians.
+
+- [Thinking and memory supports](../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md)
+- [Task-focused movement for functional tremor](../../reference/recovery-techniques/functional_tremor/03-external-focus-and-meaningful-task-practice.md)
 
 ### Optional crossword
 
@@ -184,9 +191,9 @@ This lesson is about understanding those competing demands so that the two peopl
 
 ### What you notice and what they experience
 
-Last lesson, we started to learn that attention helps the brain select what matters at a particular moment. It also helps us stay with information and return to a task after something interrupts us.
+Earlier in this lesson, we learned that attention helps the brain select what matters at a particular moment. It also helps us stay with information and return to a task after something interrupts us.
 
-A person may be eager to finish an activity and still find that pain, a sound, another conversation or a worrying thought takes priority. The shift can happen before they have any deliberate say in it. Research on attention describes how the brain both maintains goals and redirects attention toward relevant events. (*citation* [1](#citation-1))
+A person may be eager to finish an activity and still find that pain, a sound, another conversation or a worrying thought takes priority. The shift can happen before they have any deliberate say in it. Research on attention describes how the brain both maintains goals and redirects attention toward relevant events. (*citations* [1](#citation-1))
 
 From the outside, you may see someone pause, ask the same question twice, or lose the end of a sentence.
 
@@ -218,7 +225,7 @@ A parent writing about their child's experience in an FND community described ho
 
 > “dissociates quite a bit, has issues with focusing and retaining new information”
 
-*Figure 1. Community experience.* One parent's account of several reported difficulties. These observations deserve attention, but they do not establish the cause or diagnosis of any of them. [Original public source](https://www.reddit.com/r/FND/comments/1hmedeg/comment/m3tqr3z/). (*citation* [5](#citation-5))
+*Figure 1. Community experience.* One parent's account of several reported difficulties. These observations deserve attention, but they do not establish the cause or diagnosis of any of them. [Original public source](https://www.reddit.com/r/FND/comments/1hmedeg/comment/m3tqr3z/). (*citations* [5](#citation-5))
 
 That parent's account may sound familiar to some families. Other people with FND have little or no difficulty with attention, or find that the problems arise in quite different circumstances.
 
@@ -238,7 +245,7 @@ There is room for different answers.
 
 Someone may want the room quieter. Another may prefer background sound because it feels familiar. A person might welcome a short note marking where they stopped—or find extra reminders irritating.
 
-An **occupational therapist**, or OT, may use activity analysis and practical adaptations to improve participation when attention or cognitive demands interfere with daily activities. Professional consensus supports choosing adjustments with the individual, around real-life goals. (*citation* [2](#citation-2))
+An **occupational therapist**, or OT, may use activity analysis and practical adaptations to improve participation when attention or cognitive demands interfere with daily activities. Professional consensus supports choosing adjustments with the individual, around real-life goals. (*citations* [2](#citation-2))
 
 At home, there's no need to turn every difficulty into a therapy session. Often the most helpful change is a small agreement made together.
 
@@ -344,7 +351,7 @@ The patient must select the clinician's words from everything else reaching them
 
 Attention can also be captured. Pain, bodily sensations, an unexpected sound or a concern about movement can become important to the brain without a deliberate choice by the patient.
 
-Corbetta and Shulman's influential neuroscience review describes interacting systems involved in maintaining goal-directed attention and orienting toward relevant events. The review concerns general attention mechanisms; it provides a foundation for clinical reasoning rather than a demonstrated explanation for FND. (*citation* [1](#citation-1))
+Corbetta and Shulman's influential neuroscience review describes interacting systems involved in maintaining goal-directed attention and orienting toward relevant events. The review concerns general attention mechanisms; it provides a foundation for clinical reasoning rather than a demonstrated explanation for FND. (*citations* [1](#citation-1))
 
 **Why does that finding matter here?**
 
@@ -372,7 +379,7 @@ That report gives us a starting point. The history and assessment help clarify w
 
 You've observed different performances on different tasks. The demands may also be different. The next step is to understand that difference before drawing a conclusion about the person's cognitive abilities.
 
-Ball and colleagues describe **internal inconsistency** as an important positive feature in clinical assessment of functional cognitive disorder (FCD). Their review emphasizes evaluating the pattern within the clinical context. A meaningful inconsistency is more specific than an ordinary lapse or a single comparatively good performance. (*citation* [4](#citation-4))
+Ball and colleagues describe **internal inconsistency** as an important positive feature in clinical assessment of functional cognitive disorder (FCD). Their review emphasizes evaluating the pattern within the clinical context. A meaningful inconsistency is more specific than an ordinary lapse or a single comparatively good performance. (*citations* [4](#citation-4))
 
 Our patient now has a second clinical question, rather than a second diagnosis. The established functional gait diagnosis does not settle the cause of the cognitive complaint.
 
@@ -388,11 +395,11 @@ The same patient has a functional walking difficulty. It would be tempting to tr
 
 A better question is: **What evidence connects attention to this particular motor presentation?**
 
-Huys and colleagues investigated attentional focus during action-tremor tasks, including participants with functional tremor and comparison groups. They reported task-dependent attentional effects relevant to functional tremor. This was a study of selected tremor presentations, rather than a demonstration of one mechanism across all functional symptoms. (*citation* [3](#citation-3))
+Huys and colleagues compared functional action tremor, other action tremors and healthy controls (17–28 participants per group), measuring reaching paths and duration. Several task effects occurred across groups. The functional group particularly attended to visual movement feedback; only this group improved during an apparently unimportant preparatory movement. These laboratory results leave everyday treatment benefit and wider applicability open. (*citations* [3](#citation-3))
 
 The finding matters because changes with attention can offer useful information during a specialist movement examination. Its limits matter because a person with functional gait symptoms, cognitive difficulties or functional seizures may have different clinical needs.
 
-For some functional motor presentations, physiotherapy consensus recommends approaches that direct attention toward purposeful movement and support more automatic motor control. It offers a rehabilitation framework, with selection and safety guided by the person's assessment. (*citation* [6](#citation-6))
+For some functional motor presentations, physiotherapy consensus recommends approaches that direct attention toward purposeful movement and support more automatic motor control. It offers a rehabilitation framework, with selection and safety guided by the person's assessment. (*citations* [6](#citation-6))
 
 Now consider how a physiotherapist might apply that knowledge.
 
@@ -414,11 +421,11 @@ The **occupational therapist** asks where the person most often loses a task aft
 
 Perhaps a short note that says “next: medication section” is enough to help. Perhaps the person needs a different arrangement or another person's assistance.
 
-Nicholson and colleagues' occupational-therapy consensus for FND recommends collaborative formulation, activity analysis and goals tied to daily participation. This is professional guidance for individualizing care, rather than a trial establishing that one cue helps everyone. (*citation* [2](#citation-2))
+Nicholson and colleagues' occupational-therapy consensus for FND recommends collaborative formulation, activity analysis and goals tied to daily participation. This is professional guidance for individualizing care, rather than a trial establishing that one cue helps everyone. (*citations* [2](#citation-2))
 
 The **psychologist or neuropsychologist** can explore attention, encoding, working memory and the impact of interruption, using assessment that fits the question. They may also address distress, dissociation or burdensome self-monitoring when clinically relevant. A short test in a quiet office and the demands of ordinary life provide different kinds of information; both can inform the formulation.
 
-If communication is affected, a **speech-language therapist** can assess what happens when the patient forms, retrieves or delivers a message. With the person's agreement, they may suggest allowing a response to finish, using one person to speak at a time, or keeping the original question visible. Specialist speech-language consensus for functional communication disorders supports individualized, meaningful communication goals. (*citation* [7](#citation-7))
+If communication is affected, a **speech-language therapist** can assess what happens when the patient forms, retrieves or delivers a message. With the person's agreement, they may suggest allowing a response to finish, using one person to speak at a time, or keeping the original question visible. Specialist speech-language consensus for functional communication disorders supports individualized, meaningful communication goals. (*citations* [7](#citation-7))
 
 The disciplines overlap because the patient does not experience daily life in separate professional categories.
 
@@ -480,7 +487,7 @@ The evidence behind this lesson comes from different kinds of sources: general a
 
 ## Research and Sources
 
-General neuroscience, FND research findings, proposed mechanisms, professional consensus and treatment trials are distinguished in this lesson. Practical scenes and suggested conversations are illustrative; they are not tested treatment protocols. Community excerpts are individual accounts and do not establish diagnoses, typical outcomes or treatment effects.
+This lesson draws on general attention neuroscience, a selected functional-tremor experiment, an FCD diagnostic review, professional rehabilitation consensus and individual community experience. Practical scenes and suggested conversations are illustrative; they are not tested treatment protocols. Community excerpts are individual accounts and do not establish diagnoses, typical outcomes or treatment effects.
 
 | Citation | Figure | Full citation |
 |---|---|---|
@@ -492,4 +499,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-6"></a>**[6]** | — | Nielsen G, Stone J, Matthews A, et al. **Physiotherapy for functional motor disorders: a consensus recommendation.** *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86:1113–1119. doi:10.1136/jnnp-2014-309255. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602268/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/25433033/). [FND-CIT-0028](../../research/citation-index.md#fnd-cit-0028). |
 | <a id="citation-7"></a>**[7]** | — | Baker J, Barnett C, Cavalli L, et al. **Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.** *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92:1112–1125. doi:10.1136/jnnp-2021-326767. [Original](https://jnnp.bmj.com/content/92/10/1112) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/34210802/). [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
 
-*Publication-readiness audit: October 26, 2026. Person section human-edited and approved October 26, 2026; Clinician and Supporter sections human-edited and approved October 27, 2026. Audit 1 completed October 28, 2026; illustration/caption review, Audit 2 and independent clinical review remain pending.*
+*Publication-readiness audit: October 26, 2026. Person section human-edited and approved October 26, 2026; Clinician and Supporter sections human-edited and approved October 27, 2026. Audit 1 completed October 28, 2026; accepted corrections and editorial Audit 2 completed October 29, 2026. Illustrations and captions approved by the project lead; independent clinical review remains pending.*

@@ -18,7 +18,7 @@ process.on('exit', () => server.kill());
   // Block analytics and all other external requests during isolated review.
   await page.route('**/*', route => route.request().url().startsWith('http://127.0.0.1:4174/') ? route.continue() : route.abort());
   const reports=[];
-  const paths=['/course/','/course/m6/1/','/course/m7/2/','/course/m8/3/','/course/m9/3/','/course/m10/2/','/course/m11/1/','/course/m19/2/'];
+  const paths=['/course/','/course/m6/1/','/course/m6/2/','/course/m6/3/','/course/m7/2/','/course/m8/3/','/course/m9/3/','/course/m10/2/','/course/m11/1/','/course/m19/2/'];
   for(const width of [1280,360]) {
     await page.setViewportSize({width,height:900});
     for(const path of paths) {
@@ -27,7 +27,31 @@ process.on('exit', () => server.kill());
       const detail=await page.evaluate(()=>({title:document.querySelector('h1')?.textContent.trim(), width:innerWidth, scrollWidth:document.documentElement.scrollWidth, citations:document.querySelectorAll('[id^="citation-"]').length, context:document.querySelector('.page-context')?.textContent.replace(/\s+/g,' ').trim()}));
       if(detail.scrollWidth>width+1) throw new Error('Horizontal page overflow: '+path+' '+JSON.stringify(detail));
       reports.push({path,width,...detail});
-      if(path==='/course/m6/1/' || (width===360&&path==='/course/m9/3/')) {
+      // Audit the three reviewed lessons at both widths using built HTML.
+      // Local anchors and PDF affordances must survive Markdown conversion.
+      if(path.startsWith('/course/m6/')) {
+        const issues=await page.evaluate(()=>({
+          anchors:Array.from(document.querySelectorAll('a[href^="#"]'))
+            .filter(a=>a.hash&&!document.getElementById(decodeURIComponent(a.hash.slice(1))))
+            .map(a=>a.hash),
+          pdfs:Array.from(document.querySelectorAll('a[href$=".pdf"]'))
+            .filter(a=>a.target!=='_blank'||!a.relList.contains('noopener'))
+            .map(a=>a.getAttribute('href'))
+        }));
+        if(issues.anchors.length||issues.pdfs.length) {
+          throw new Error('Lesson link regression: '+path+' '+JSON.stringify(issues));
+        }
+        // Scroll to load the illustration and capture its caption at each width.
+        const figure=page.locator('figure.image-60center');
+        await figure.scrollIntoViewIfNeeded();
+        await page.waitForFunction(()=>{
+          const img=document.querySelector('figure.image-60center img');
+          return img&&img.complete&&img.naturalWidth>0&&img.alt.trim().length>0;
+        });
+        await figure.screenshot({path:output+'/figure-'+width+'-'+path.split('/').filter(Boolean).join('-')+'.png'});
+        await page.evaluate(()=>scrollTo(0,0));
+      }
+      if(path.startsWith('/course/m6/') || (width===360&&path==='/course/m9/3/')) {
         await page.screenshot({path:output+'/review-'+width+'-'+path.split('/').filter(Boolean).join('-')+'.png',fullPage:false});
       }
     }

@@ -1,10 +1,10 @@
 # Automatic Control and Conscious Effort
 
-> **Working draft:** Human authored with AI assistance; the Person, Supporter and Clinician sections have been reviewed and approved by the project lead. Audit 1 completed October 28, 2026; illustration/caption review, Audit 2 and independent clinical review remain pending.
+> **Working draft:** Human authored with AI assistance; the Person, Supporter and Clinician sections have been reviewed and approved by the project lead. Audit 1 completed October 28, 2026; accepted corrections and editorial Audit 2 completed October 29, 2026. Illustrations and captions approved by the project lead; independent clinical review remains pending.
 
 Lesson 16 explores automatic control and conscious effort through everyday examples, collaborative adaptations and clinical reasoning.
 
-*Last reviewed: October 28, 2026*
+*Last reviewed: October 29, 2026*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -42,7 +42,7 @@ When you sign your name, your brain prepares the action and sends instructions t
 
 You experience this as writing your name, rather than a long list of commands to your fingers.
 
-**Attention helps guide the goal. Automatic control helps carry out a familiar action.** They work together. (*citation* [6](#citation-6))
+**Attention helps guide the goal. Automatic control helps carry out a familiar action.** They work together. (*citations* [6](#citation-6))
 
 ### How does a movement become automatic?
 
@@ -52,7 +52,7 @@ At first, you may need to stop and remember which end goes where. Every step des
 
 After practice, the action may start to flow. Your brain has learned a pattern it can use again.
 
-This process is called **motor learning**. It involves networks across the brain, including areas that help plan movements, coordinate their timing, and adjust what happens next. (*citation* [6](#citation-6))
+This process is called **[motor learning](../../glossary/README.md#motor-learning)**. It involves networks across the brain, including areas that help plan movements, coordinate their timing, and adjust what happens next. (*citations* [6](#citation-6))
 
 Automatic movement still needs a working nervous system. It can also change with pain, fatigue, the task, and the situation.
 
@@ -108,13 +108,13 @@ Instead of practising only the instruction "lift your arm," the therapist might 
 
 The goal gives the movement a purpose. The therapist helps with the parts that are difficult and adjusts the activity to what the person can manage.
 
-This is called **task-oriented movement practice**. It is one approach used in specialist rehabilitation for some functional movement difficulties. (*citation* [1](#citation-1))
+This is called **task-oriented movement practice**. It is one approach used in specialist rehabilitation for some functional movement difficulties. (*citations* [1](#citation-1))
 
 Later, an **occupational therapist**, or **OT**, might work with the person on getting dressed at home.
 
 Perhaps sitting in a different position makes the task easier. Perhaps a clothing aid helps them finish it with less effort.
 
-An adaptation can support everyday life while rehabilitation continues. The useful result is something the person can do more comfortably, safely, or reliably. (*citation* [3](#citation-3))
+An adaptation can support everyday life while rehabilitation continues. The useful result is something the person can do more comfortably, safely, or reliably. (*citations* [3](#citation-3))
 
 ### Are other FND symptoms connected?
 
@@ -124,7 +124,7 @@ Speech is another interesting example.
 
 Think about telling a friend an exciting story. You know what you want to say. Your nervous system coordinates many parts of speaking as the words come out.
 
-For some people with functional speech or voice difficulties, a **speech-language therapist** may explore getting a meaningful message across rather than repeating an isolated sound. They can also help the person use another way to communicate when needed. (*citation* [4](#citation-4))
+For some people with functional speech or voice difficulties, a **speech-language therapist** may explore getting a meaningful message across rather than repeating an isolated sound. They can also help the person use another way to communicate when needed. (*citations* [4](#citation-4))
 
 ### Hold on to that thought
 
@@ -175,6 +175,13 @@ If an activity brings a risk of falling or injury, you can describe it to your p
 Next, we'll look more closely at how changing the focus, instructions, or surroundings may affect what happens during an activity.
 
 
+### Further reading in the Reference Library
+
+For more detail, choose the topic that fits your question. Each page includes information for the person, supporters and clinicians.
+
+- [Automatic and task-oriented movement](../../reference/recovery-techniques/functional_limb_weakness/01-automatic-and-task-oriented-movement.md)
+- [Thinking and memory supports](../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md)
+
 ### Optional crossword
 
 Revisit the lesson with a crossword. The easy edition includes a word bank.
@@ -222,7 +229,7 @@ And the person with FND may be thinking something equally frustrating: *I know I
 
 Both people have seen something real. The movement toward the cup happened. So did the difficulty getting dressed.
 
-**The important question isn't which moment to believe. It's how both moments can be true.**
+**Both moments deserve to be believed. The useful question is how they can be true together.**
 
 This lesson offers a way to understand that puzzle and use what you've noticed to offer help that feels supportive rather than like another examination.
 
@@ -234,13 +241,13 @@ You know what you want to do. Your nervous system has learned to organize many s
 
 That's part of **automatic motor control**.
 
-Learning a movement changes the way the brain's movement networks work together. With practice, a familiar action can become more coordinated and require less conscious direction of every part. (*citation* [6](#citation-6))
+Learning a movement changes the way the brain's movement networks work together. With practice, a familiar action can become more coordinated and require less conscious direction of every part. (*citations* [6](#citation-6))
 
 That gives us an interesting way to look at the cup and the shirt.
 
 Reaching for a cup is one purposeful action. Being asked to lift an arm, or trying to guide it through a sleeve, presents different demands. The nervous system has to organize the movement under different conditions.
 
-In some forms of functional movement disorder, a person can show a movement more easily during one task than another. Clinicians sometimes use carefully assessed differences like these to help understand the condition. (*citation* [1](#citation-1))
+In some forms of functional movement disorder, a person can show a movement more easily during one task than another. Clinicians sometimes use carefully assessed differences like these to help understand the condition. (*citations* [1](#citation-1))
 
 **The movement can vary without the person choosing the difficulty.**
 
@@ -274,7 +281,7 @@ A parent in an FND community described an appointment where an occupational ther
 
 > “OT came in and asked them about our pets. He had them walking up and down the hallway within like 5 minutes, it was incredible. I’ve never been able to replicate it though at home though.”
 
-*Figure 1. Community experience.* One parent's account of a change in movement during a therapy visit and the difficulty reproducing it at home. This is an individual experience, not an instruction to recreate the walking activity. [Original public source](https://www.reddit.com/r/FND/comments/1kchl1l/comment/mq4vaud/). (*citation* [5](#citation-5))
+*Figure 1. Community experience.* One parent's account of a change in movement during a therapy visit and the difficulty reproducing it at home. This is an individual experience, not an instruction to recreate the walking activity. [Original public source](https://www.reddit.com/r/FND/comments/1kchl1l/comment/mq4vaud/). (*citations* [5](#citation-5))
 
 You can almost hear the mixture of excitement and puzzlement in that account.
 
@@ -298,7 +305,7 @@ That's a different question from “Can you show me how high your arm goes?”
 
 The first conversation is about accomplishing something the person wants to do. It gives them a choice about help. The second may turn an ordinary morning into a repeated test.
 
-Sometimes moving clothing within reach, sitting comfortably or using an agreed dressing aid makes the activity more manageable. An occupational therapist can help assess those possibilities when more specialized adaptation is needed. (*citation* [3](#citation-3))
+Sometimes moving clothing within reach, sitting comfortably or using an agreed dressing aid makes the activity more manageable. An occupational therapist can help assess those possibilities when more specialized adaptation is needed. (*citations* [3](#citation-3))
 
 The same principle can apply to making breakfast, brushing hair or moving safely between chairs. The useful question is what the person hopes to do and what assistance makes that possible.
 
@@ -316,7 +323,7 @@ Remembering a therapist's instructions is different from having learned the coor
 
 A person might forget which activity they agreed to practise, lose their place in a sequence of instructions, or struggle to explain in words how a movement works. None of those experiences, by itself, demonstrates that the underlying motor skill has disappeared.
 
-There is a name for memory involved in learned skills: **procedural memory**. It differs from remembering a recent conversation or recalling what you planned to do next. (*citation* [7](#citation-7))
+There is a name for memory involved in learned skills: **procedural memory**. It differs from remembering a recent conversation or recalling what you planned to do next. (*citations* [4](#citation-4), [6](#citation-6))
 
 So a cognitive complaint shouldn't lead a supporter to assume that someone needs to be taught how to walk from the beginning—or that a rehabilitation gain will automatically be forgotten.
 
@@ -344,9 +351,9 @@ And some people with FND live alone or do not have an available supporter. Their
 
 ### When a professional can take the next step
 
-An FND-informed **physiotherapist** can assess the person's movement pattern and consider approaches intended to help them initiate and coordinate movement more effectively. Professional motor-rehabilitation guidance describes task-oriented practice for selected functional motor symptoms. (*citation* [1](#citation-1))
+An FND-informed **physiotherapist** can assess the person's movement pattern and consider approaches intended to help them initiate and coordinate movement more effectively. Professional motor-rehabilitation guidance describes task-oriented practice for selected functional motor symptoms. (*citations* [1](#citation-1))
 
-An **occupational therapist** can look at the everyday job itself—getting dressed, using a kitchen, working at a desk or managing mobility equipment—and help adapt the task and its surroundings. (*citation* [3](#citation-3))
+An **occupational therapist** can look at the everyday job itself—getting dressed, using a kitchen, working at a desk or managing mobility equipment—and help adapt the task and its surroundings. (*citations* [3](#citation-3))
 
 The [Professional Roles in FND Care](../../reference/professional-roles-in-fnd-care.md) explains these and other possible contributions.
 
@@ -408,7 +415,7 @@ At first, learning to write required close attention. Over years of practice, mu
 
 The cerebral motor networks, basal ganglia and cerebellum contribute different, interacting functions to planning, selecting, refining and adapting movements. Spinal and sensory systems also participate in producing the action. Automaticity is an achievement of coordination across these systems, rather than a stored instruction sitting in one location.
 
-Dayan and Cohen explain how practice changes interacting motor networks, helping familiar actions become coordinated skills rather than movements directed muscle by muscle. (*citation* [6](#citation-6))
+Dayan and Cohen explain how practice changes interacting motor networks, helping familiar actions become coordinated skills rather than movements directed muscle by muscle. (*citations* [6](#citation-6))
 
 Now return to the patient who cannot start a step.
 
@@ -444,7 +451,7 @@ What they are attempting is different from teaching an unfamiliar person *what w
 
 The goal of **functional motor retraining** is to help the person access, coordinate and use movement more effectively. Depending on the motor presentation, practice may involve a meaningful task, changed cueing, suitable feedback or an adjusted starting position.
 
-Nielsen and colleagues' physiotherapy consensus describes rehabilitation principles that seek to promote more automatic, purposeful movement in selected functional motor disorders. This is guidance based on professional consensus; it does not establish that every patient will respond, or that any single exercise reverses a proven common mechanism. (*citation* [1](#citation-1))
+Nielsen and colleagues' physiotherapy consensus describes rehabilitation principles that seek to promote more automatic, purposeful movement in selected functional motor disorders. This is guidance based on professional consensus; it does not establish that every patient will respond, or that any single exercise reverses a proven common mechanism. (*citations* [1](#citation-1))
 
 This gives us a better question than “How do we make them remember to walk?”
 
@@ -464,9 +471,9 @@ They may also be unable to *execute* the skill reliably, despite understanding t
 
 These difficulties can coexist, but they are different clinical questions.
 
-**Procedural memory** refers to learned skills that can become relatively automatic. Problems with attention or remembering instructions do not establish that procedural learning has been erased. Equally, clinicians should investigate genuine new or progressive loss of familiar abilities rather than assuming every problem reflects FND.
+**Procedural memory** refers to learned skills that can become relatively automatic. (*citations* [4](#citation-4), [6](#citation-6)) Problems with attention or remembering instructions do not establish that procedural learning has been erased. Equally, clinicians should investigate genuine new or progressive loss of familiar abilities rather than assuming every problem reflects FND.
 
-Functional cognitive disorder (FCD) requires its own positive cognitive assessment. Our patient's reported forgetfulness does not establish FCD, and an existing functional gait diagnosis does not establish the cause of their cognitive symptoms. The [FCD background](../../reference/functional-cognitive-disorder.md) describes these memory distinctions; the [diagnostic reference](../../reference/diagnostic-signs/12-functional-cognitive-disorder.md) explains how clinically meaningful inconsistency is assessed. (*citation* [7](#citation-7))
+Functional cognitive disorder (FCD) requires its own positive cognitive assessment. Our patient's reported forgetfulness does not establish FCD, and an existing functional gait diagnosis does not establish the cause of their cognitive symptoms. The [FCD background](../../reference/functional-cognitive-disorder.md) describes these memory distinctions; the [diagnostic reference](../../reference/diagnostic-signs/12-functional-cognitive-disorder.md) explains how clinically meaningful inconsistency is assessed. (*citations* [7](#citation-7))
 
 **Would we expect the patient to “forget the movement again” after retraining?**
 
@@ -488,7 +495,7 @@ Next ask: **Which part remains difficult?**
 
 The person might understand the goal yet struggle to start the movement. They might begin successfully but have difficulty coordinating a turn. Pain, fatigue, another illness, an unsafe environment or the effort required to sustain activity may also affect what is possible.
 
-The treatment response can be refined around the actual difficulty. A physiotherapist may work with initiation, timing, coordination and safe repetition. An occupational therapist can examine how the movement fits into transfers, dressing or household tasks, while preserving equipment and assistance that remain necessary. Nicholson and colleagues' OT consensus supports patient-valued activities, individualized adaptation and meaningful participation. (*citation* [3](#citation-3))
+The treatment response can be refined around the actual difficulty. A physiotherapist may work with initiation, timing, coordination and safe repetition. An occupational therapist can examine how the movement fits into transfers, dressing or household tasks, while preserving equipment and assistance that remain necessary. Nicholson and colleagues' OT consensus supports patient-valued activities, individualized adaptation and meaningful participation. (*citations* [3](#citation-3))
 
 A psychologist or neuropsychologist may help clarify cognitive load, distress or self-monitoring when these are relevant to this patient's rehabilitation. The appropriate treating clinician remains responsible for assessing new or changing neurological concerns.
 
@@ -500,7 +507,7 @@ Notice how these different roles answer different questions. **Motor retraining 
 
 Suppose the patient makes a smoother movement when attention is directed toward the purpose of a task.
 
-Research by Huys and colleagues in selected people with functional action tremor supports an association between attentional focus and tremor-related task performance. Its findings are specific to the studied movement presentations and conditions. (*citation* [2](#citation-2))
+Huys and colleagues compared functional action tremor, other action tremors and healthy controls (17–28 participants per group), measuring reaching paths and duration. Several task effects occurred across groups. The functional group particularly attended to visual movement feedback; only this group improved during an apparently unimportant preparatory movement. These laboratory results leave everyday treatment benefit and wider applicability open. (*citations* [2](#citation-2))
 
 That study gives clinicians a reason to take task and attention seriously in functional movement assessment. It does not show that the nervous system has forgotten a motor skill, and it does not establish one mechanism across gait difficulties, weakness, paralysis, speech symptoms or functional seizures.
 
@@ -532,7 +539,7 @@ It is **“What part of the familiar movement is difficult to access or carry ou
 
 ## Research and Sources
 
-General neuroscience, FND research findings, proposed mechanisms, professional consensus and treatment trials are distinguished in this lesson. Practical scenes and suggested conversations are illustrative; they are not tested treatment protocols. Community excerpts are individual accounts and do not establish diagnoses, typical outcomes or treatment effects.
+This lesson draws on a general motor-learning review, a selected functional-tremor experiment, an FCD diagnostic review, professional rehabilitation consensus and individual community experience. Practical scenes and suggested conversations are illustrative; they are not tested treatment protocols. Community excerpts are individual accounts and do not establish diagnoses, typical outcomes or treatment effects.
 
 | Citation | Figure | Full citation |
 |---|---|---|
@@ -544,4 +551,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-6"></a>**[6]** | — | Dayan E, Cohen LG. **Neuroplasticity subserving motor skill learning.** *Neuron*. 2011;72:443–454. doi:10.1016/j.neuron.2011.10.008. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC3217208/). [FND-CIT-0306](../../research/citation-index.md#fnd-cit-0306). |
 | <a id="citation-7"></a>**[7]** | — | Ball HA, McWhirter L, Ballard C, et al. **Functional cognitive disorder: dementia’s blind spot.** *Brain*. 2020;143(10):2895–2903. doi:10.1093/brain/awaa224. [Original](https://doi.org/10.1093/brain/awaa224) · [FND-CIT-0071](../../research/citation-index.md#fnd-cit-0071). Clinical review of FCD diagnostic considerations; not evidence that procedural motor memory is erased in FND. |
 
-*Publication-readiness audit: October 26, 2026. The Person section was human-edited and approved on October 26, 2026; the Clinician section on October 27, 2026; and the Supporter section on October 28, 2026. Audit 1 completed October 28, 2026; illustration/caption review, Audit 2 and independent clinical review remain pending.*
+*Publication-readiness audit: October 26, 2026. The Person section was human-edited and approved on October 26, 2026; the Clinician section on October 27, 2026; and the Supporter section on October 28, 2026. Audit 1 completed October 28, 2026; accepted corrections and editorial Audit 2 completed October 29, 2026. Illustrations and captions approved by the project lead; independent clinical review remains pending.*

@@ -8,6 +8,7 @@ If a document becomes reader-ready, move it out of `_internal` into the appropri
 
 ## Course editorial handoffs
 
+- [Module 6 accepted corrections and Audit 2](course/audit-02-module-06-2026-10-29.md) — Lessons 15–17 editorial review, source repairs and learner-tracker compatibility.
 - [Module 6 Audit 1 and asset integration](course/audit-01-module-06-2026-10-28.md) — Lessons 15–17 evidence, safety, citation and site review; proposed corrections for approval.
 
 - [Module 5 accepted fixes and Audit 2](course/audit-02-module-05-2026-10-25.md) — editorial completion and verification for Lessons 12–14.

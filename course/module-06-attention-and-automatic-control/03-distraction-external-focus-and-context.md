@@ -1,10 +1,10 @@
 # Distraction, External Focus, and Context
 
-> **Working draft:** Human authored with AI assistance; the Person, Supporter and Clinician sections have been reviewed and approved by the project lead. Audit 1 completed October 28, 2026; illustration/caption review, Audit 2 and independent clinical review remain pending.
+> **Working draft:** Human authored with AI assistance; the Person, Supporter and Clinician sections have been reviewed and approved by the project lead. Audit 1 completed October 28, 2026; accepted corrections and editorial Audit 2 completed October 29, 2026. Illustrations and captions approved by the project lead; independent clinical review remains pending.
 
 Lesson 17 explores distraction, external focus, and context through everyday examples, collaborative adaptations and clinical reasoning.
 
-*Last reviewed: October 28, 2026*
+*Last reviewed: October 29, 2026*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -24,7 +24,7 @@ They want to put a few photographs into a folder. Their hand shakes as they hold
 
 The therapist places the folder nearby and asks them to slide a photograph toward the open pocket of the folder.
 
-The person looks at the pocket instead of concentrating on the movement of their fingers. This time, getting the photograph into place feels a little easier. And, it feels encouraging.
+The person looks at the pocket instead of concentrating on the movement of their fingers. This time, getting the photograph into place feels a little easier. And it feels encouraging.
 
 Then they get home. They want to put a novel away between two books on a shelf.
 
@@ -98,7 +98,7 @@ One community member described a similar experience:
 
 > “The tremor stops when I think about my answer and speak it.”
 
-*Figure 1. Community experience.* One person's description of a change in tremor during conversation. [Original public source](https://www.reddit.com/r/FND/comments/1nzuyuz/comment/ni918wf/). (*citation* [5](#citation-5))
+*Figure 1. Community experience.* One person's description of a change in tremor during conversation. [Original public source](https://www.reddit.com/r/FND/comments/1nzuyuz/comment/ni918wf/). (*citations* [5](#citation-5))
 
 Researchers have studied how attention relates to some functional tremors. Clinicians may also observe changes with distraction during an examination. These observations can help them understand a movement pattern, alongside the rest of a proper assessment. (*citations* [1](#citation-1), [2](#citation-2))
 
@@ -112,7 +112,7 @@ Sometimes, yes. Other times, it makes things harder.
 
 You might have heard about walking to a beat or talking while moving. Those are different approaches.
 
-A beat can provide a cue for timing. Talking while walking is a **dual task**: doing two activities at once.
+A beat can provide a cue for timing. Talking while walking is a **[dual task](../../glossary/README.md#dual-tasking--dual-task-practice)**: doing two activities at once.
 
 Imagine someone working on walking with a physiotherapist. In a carefully supported session, a simple conversation might help their steps flow more naturally because they're paying less attention to each separate movement.
 
@@ -150,13 +150,13 @@ Think of someone who loses words during an appointment.
 
 When several people speak at once, they struggle to finish a thought. With one listener, more time, and a question they can refer back to, the conversation might become easier.
 
-This is a change in context, also.
+This is a change in context, too.
 
 Perhaps those conditions would help at another appointment. The person could ask for **one person to speak at a time** or a short written reminder.
 
 Their speech or thinking symptoms might remain. The conversation can still become more manageable.
 
-An adaptation that makes participation easier is valuable in its own right. Rehabilitation and everyday supports can work alongside each other. (*citation* [3](#citation-3))
+An adaptation that makes participation easier is valuable in its own right. Rehabilitation and everyday supports can work alongside each other. (*citations* [3](#citation-3))
 
 ### What does a changing symptom tell us?
 
@@ -200,6 +200,13 @@ See whether the activity feels easier or more comfortable. Your symptoms might c
 
 Keep the supports and safety measures you already need. If exploring a movement could involve falling or injury, you can bring the idea to your rehabilitation clinician instead.
 
+
+### Further reading in the Reference Library
+
+For more detail, choose the topic that fits your question. Each page includes information for the person, supporters and clinicians.
+
+- [External focus and meaningful tasks](../../reference/recovery-techniques/functional_tremor/03-external-focus-and-meaningful-task-practice.md)
+- [External focus and purposeful dual-task walking](../../reference/recovery-techniques/functional_gait_disorder/07-external-focus-and-purposeful-dual-task-walking.md)
 
 ### Optional crossword
 
@@ -266,7 +273,7 @@ And perhaps the therapy room was quiet, with a supportive chair and someone near
 
 All of this is part of **context**: not just where an activity happens, but what it requires, when it happens and what help is available.
 
-For some people with FND, changing a task or its surroundings can make participation easier. Occupational-therapy guidance considers the activity, environment and person's own goals together. (*citation* [3](#citation-3))
+For some people with FND, changing a task or its surroundings can make participation easier. Occupational-therapy guidance considers the activity, environment and person's own goals together. (*citations* [3](#citation-3))
 
 **An easier movement doesn't tell us that the room, the person's thoughts or any single factor caused the symptom.** And a harder movement doesn't mean they failed to use a technique correctly.
 
@@ -286,7 +293,7 @@ But there are a few different ideas here.
 
 A **second task** adds another job. Talking while putting away a book means following a conversation *and* managing the book. That can help some people in some situations, but it can also make things more difficult.
 
-Research involving selected people with functional action tremor suggests that attentional focus can affect performance in certain tasks. It doesn't mean everyone with FND benefits from distraction, or that more stimulation is always better. (*citation* [2](#citation-2))
+Research involving selected people with functional action tremor suggests that attentional focus can affect performance in certain tasks. It doesn't mean everyone with FND benefits from distraction, or that more stimulation is always better. (*citations* [2](#citation-2))
 
 **Sometimes a useful cue gives the person one clear goal. Sometimes the most helpful change is fewer demands.**
 
@@ -312,15 +319,9 @@ It's worth remembering that **being helpful isn't always the same as doing more*
 
 Sometimes you can make the surroundings easier to use. Sometimes you can leave space for the person to work in their own way. And sometimes the activity can wait.
 
-### A father's words about finding what fits
+### Finding what fits can take energy
 
-A father reflecting on ways his family had tried to manage sensory and movement difficulties wrote in a public FND community:
-
-> “And trial and error while exhausting may be helpful regardless, because what works for some doesn't work for all.”
-
-*Figure 2. Community experience.* One father's reflection on the effort of finding approaches that fit his family. This is not evidence that a particular strategy works, or advice to undertake unsafe movement experiments. [Original public source](https://www.reddit.com/r/FND/comments/1itk0q6/please_supporthelp/). (*citation* [6](#citation-6))
-
-There's an important word in that observation: *exhausting*.
+Finding a helpful adjustment takes energy from both people. There can be room for a useful idea and room to leave it for another day.
 
 Working out what helps can take time, attention and patience from both people. It's possible to learn something useful along the way without making every activity a trial.
 
@@ -340,7 +341,7 @@ The supporter doesn't have to design that process, but they may have information
 
 For example, they might mention that the photograph was light and supported by the table, while the book needed lifting and a firmer grip.
 
-An occupational therapist could use those details to explore an easier shelf, a lighter object, a different position or a suitable aid. A physiotherapist might contribute if safe reaching, standing, walking or movement control is part of the difficulty. These are examples of individualized professional care, rather than a set of instructions to try at home. (*citations* [3](#citation-3), [1](#citation-1))
+An occupational therapist could use those details to explore an easier shelf, a lighter object, a different position or a suitable aid. A physiotherapist might contribute if safe reaching, standing, walking or movement control is part of the difficulty. These are examples of individualized professional care, rather than a set of instructions to try at home. (*citations* [1](#citation-1), [3](#citation-3))
 
 At home, an ordinary, low-risk change might be to keep frequently used books on a shelf the person can reach more comfortably. That could help them enjoy reading without needing the tremor to improve first.
 
@@ -392,7 +393,7 @@ Return to the bookshelf one last time.
 
 Instead of trying to make the hand stop shaking, the two people might decide that the novel belongs somewhere easier to reach.
 
-That isn't a failure of rehabilitation. It's a practical way to make life easier today, while other treatment goals can continue.
+That adaptation can make life easier today while other rehabilitation goals continue.
 
 **The question to carry forward is: “What about this activity could we make more manageable together?”**
 
@@ -472,7 +473,7 @@ Or a therapist could introduce a steady beat to guide *when* a movement occurs. 
 
 These approaches have different demands and intended effects. They are not interchangeable versions of “stop concentrating on your symptom.”
 
-Huys and colleagues' experimental work with selected people with functional action tremor links attentional focus to task-dependent tremor performance. The finding provides evidence that *where attention is directed can matter* in that presentation. It does not establish the mechanism for every functional symptom or prove that distraction alone is an effective daily-life treatment. (*citation* [2](#citation-2))
+Huys and colleagues compared functional action tremor, other action tremors and healthy controls (17–28 participants per group), measuring reaching paths and duration. Several task effects occurred across groups. The functional group particularly attended to visual movement feedback; only this group improved during an apparently unimportant preparatory movement. These laboratory results leave everyday treatment benefit and wider applicability open. (*citations* [2](#citation-2))
 
 For the photograph task, external focus provides a purposeful destination. The clinician can ask whether that instruction makes the activity easier to coordinate, even if some tremor continues.
 
@@ -492,7 +493,7 @@ What matters is the reasoning: changing several things at once makes it difficul
 
 Next, the therapist and patient can alter the activity to resemble home life, taking care with weight, reach and safety. A lighter book on a lower shelf may provide an intermediate version. Perhaps the arm needs support, the shelf position needs adjustment, or another method is more appropriate.
 
-Occupational-therapy consensus recommends analysing the actual activity and building collaborative, meaningful goals. Physiotherapy consensus supports selected task-oriented and externally directed motor-retraining approaches. Both provide clinical frameworks, not guarantees of a specific response. (*citations* [3](#citation-3), [1](#citation-1))
+Occupational-therapy consensus recommends analysing the actual activity and building collaborative, meaningful goals. Physiotherapy consensus supports selected task-oriented and externally directed motor-retraining approaches. Both provide clinical frameworks, not guarantees of a specific response. (*citations* [1](#citation-1), [3](#citation-3))
 
 The task can succeed while tremor remains present. A book placed safely with an adaptation is a meaningful outcome.
 
@@ -538,7 +539,7 @@ An external-focus cue might help a selected functional tremor but be less releva
 
 For a patient with sudden functional jerks and no usable warning, an instruction to redirect attention before each jerk may offer little practical opportunity. Reducing injury risk could be more important.
 
-For someone with functional tic-like symptoms, assessment of the phenomenology and appropriate treatment planning are needed before borrowing strategies from other movement disorders. Malaty and colleagues review clinical distinctions in functional tic-like presentations. (*citation* [4](#citation-4))
+For someone with functional tic-like symptoms, assessment of the phenomenology and appropriate treatment planning are needed before borrowing strategies from other movement disorders. Malaty and colleagues review clinical distinctions in functional tic-like presentations. (*citations* [4](#citation-4))
 
 These examples illustrate a more general principle: **a treatment principle is selected for a person's presentation, abilities and goals, not applied because the diagnosis contains the word “functional.”**
 
@@ -572,7 +573,7 @@ A useful answer is more than reassurance or a request to try harder. The clinici
 
 ## Research and Sources
 
-General neuroscience, FND research findings, proposed mechanisms, professional consensus and treatment trials are distinguished in this lesson. Practical scenes and suggested conversations are illustrative; they are not tested treatment protocols. Community excerpts are individual accounts and do not establish diagnoses, typical outcomes or treatment effects.
+This lesson draws on a selected functional-tremor experiment, a review of functional tic-like symptoms, professional rehabilitation consensus and individual community experience. Practical scenes and suggested conversations are illustrative; they are not tested treatment protocols. Community excerpts are individual accounts and do not establish diagnoses, typical outcomes or treatment effects.
 
 | Citation | Figure | Full citation |
 |---|---|---|
@@ -581,6 +582,5 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
 | <a id="citation-4"></a>**[4]** | — | Malaty IA, Anderson S, Bennett SM, et al. Diagnosis and management of functional tic-like phenomena. *Journal of Clinical Medicine*. 2022;11(21):6470. [Source](https://doi.org/10.3390/jcm11216470). [FND-CIT-0110](../../research/citation-index.md#fnd-cit-0110). |
 | <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1nzuyuz/comment/ni918wf/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0310](../../research/citation-index.md#fnd-cit-0310). |
-| <a id="citation-6"></a>**[6]** | Figure 2 | Public Reddit community contribution, caregiver/father excerpt Q048, retained in the project’s October 25 caregiver quotation bank. [Original thread](https://www.reddit.com/r/FND/comments/1itk0q6/please_supporthelp/). Individual experience; public-post wording, speaker role and context require fresh direct verification before publication. |
 
-*Publication-readiness audit: October 26, 2026. Person and Clinician sections were human-edited and approved on October 27, 2026; Supporter section was human-edited and approved on October 28, 2026. Audit 1 completed October 28, 2026; illustration/caption review, Audit 2 and independent clinical review remain pending.*
+*Publication-readiness audit: October 26, 2026. Person and Clinician sections were human-edited and approved on October 27, 2026; Supporter section was human-edited and approved on October 28, 2026. Audit 1 completed October 28, 2026; accepted corrections and editorial Audit 2 completed October 29, 2026. Illustrations and captions approved by the project lead; independent clinical review remains pending.*
