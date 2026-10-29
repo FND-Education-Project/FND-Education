@@ -463,7 +463,7 @@ Use this consensus source for flexible, person-chosen functional goals and its d
 **Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
 
 
-**Concepts-first course use:** [Lesson 15](../course/concepts-first/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 16](../course/concepts-first/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/concepts-first/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md); [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 21](../course/concepts-first/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md); [Lesson 24](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md); [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md); [Lesson 29](../course/concepts-first/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md); [Lesson 30](../course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md).
+**Concepts-first course use:** [Lesson 15](../course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 16](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md); [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 21](../course/concepts-first/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md); [Lesson 24](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md); [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md); [Lesson 29](../course/concepts-first/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md); [Lesson 30](../course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md).
 
 ## FND-CIT-0012
 
@@ -573,7 +573,10 @@ Use this source for professional consensus on positive assessment and speech-and
 **Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
 
 
-**Concepts-first course use:** [Lesson 16](../course/concepts-first/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 18](../course/concepts-first/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md).
+**Concepts-first course use:** [Lesson 16](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 18](../course/concepts-first/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md).
+
+**Module 6 additional current use (October 29, 2026):** [Lesson 15](../course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md).
+
 
 ## FND-CIT-0026
 
@@ -607,7 +610,10 @@ Use this source for education, redirected attention, task-oriented automatic mov
 **Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
 
 
-**Concepts-first course use:** [Lesson 16](../course/concepts-first/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/concepts-first/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md).
+**Concepts-first course use:** [Lesson 16](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md).
+
+**Module 6 additional current use (October 29, 2026):** [Lesson 15](../course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md).
+
 
 ## FND-CIT-0029
 
@@ -924,7 +930,10 @@ Use this review for a preliminary FCD definition, internal inconsistency as a po
 **Module 5 current use (October 25, 2026):** [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md); [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
 
 
-**Concepts-first course use:** [Lesson 15](../course/concepts-first/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md).
+**Concepts-first course use:** [Lesson 15](../course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md).
+
+**Module 6 additional current use (October 29, 2026):** [Lesson 16](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md).
+
 
 ## FND-CIT-0072
 
@@ -1183,7 +1192,7 @@ Expert review; diagnostic formulation and individualized management. The review 
 **Additional diagnostic uses:** [Final diagnostic expansion source-use map](#final-diagnostic-expansion-source-use-map).
 
 
-**Concepts-first course use:** [Lesson 17](../course/concepts-first/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md).
+**Concepts-first course use:** [Lesson 17](../course/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md).
 
 ## FND-CIT-0111
 
@@ -2171,7 +2180,7 @@ Huys ACML, Haggard P, Bhatia KP, Edwards MJ. Misdirected attentional focus in fu
 Experimental movement/attention study; selected functional action-tremor participants, not a bedside diagnostic-accuracy validation. Supports attention-related models, not a universal cause or a guaranteed treatment.
 
 
-**Concepts-first course use:** [Lesson 15](../course/concepts-first/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 16](../course/concepts-first/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/concepts-first/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md).
+**Concepts-first course use:** [Lesson 15](../course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 16](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md).
 
 ## FND-CIT-0221
 
@@ -2995,6 +3004,9 @@ Dayan E, Cohen LG. **Neuroplasticity subserving motor skill learning.** Neuron. 
 
 **Concepts-first course use:** [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md).
 
+**Module 6 additional current use (October 29, 2026):** [Lesson 16](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md).
+
+
 ## FND-CIT-0307
 
 Corbetta M, Shulman GL. Control of goal-directed and stimulus-driven attention in the brain. *Nature Reviews Neuroscience*. 2002;3:201–215. [DOI](https://doi.org/10.1038/nrn755). [PubMed](https://pubmed.ncbi.nlm.nih.gov/11994752/).
@@ -3002,28 +3014,28 @@ Corbetta M, Shulman GL. Control of goal-directed and stimulus-driven attention i
 **Scope:** General attention research, not an FND treatment trial.
 
 
-**Concepts-first course use:** [Lesson 15](../course/concepts-first/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md).
+**Concepts-first course use:** [Lesson 15](../course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md).
 
 ## FND-CIT-0308
 
 Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1hmedeg/comment/m3tqr3z/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
 
 
-**Concepts-first course use:** [Lesson 15](../course/concepts-first/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md).
+**Concepts-first course use:** [Lesson 15](../course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md).
 
 ## FND-CIT-0309
 
 Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1kchl1l/comment/mq4vaud/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
 
 
-**Concepts-first course use:** [Lesson 16](../course/concepts-first/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md).
+**Concepts-first course use:** [Lesson 16](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md).
 
 ## FND-CIT-0310
 
 Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1nzuyuz/comment/ni918wf/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
 
 
-**Concepts-first course use:** [Lesson 17](../course/concepts-first/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md).
+**Concepts-first course use:** [Lesson 17](../course/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md).
 
 
 ## FND-CIT-0312

@@ -82,7 +82,15 @@ class CurriculumRevisionTests(unittest.TestCase):
             if not (6 <= page.module_number <= 10):
                 continue
             content = page.source.read_text(encoding='utf-8')
-            self.assertIn('automatically generated', content)
+            # Module 6 has completed the project lead's authorship review.
+            # Later draft modules retain their generated-content status.
+            expected_authorship = (
+                'human' if page.module_number == 6 else 'automatically-generated')
+            self.assertEqual(
+                PREPARE.extract_course_status_and_authorship(content, page.source),
+                ('working-draft', expected_authorship),
+                str(page.source),
+            )
             self.assertEqual(len(re.findall(r'^## For ', content, re.M)), 3)
             ids = re.findall(r'<a id="citation-(\d+)">', content)
             self.assertEqual(ids, [str(n) for n in range(1, len(ids) + 1)])

@@ -1,10 +1,10 @@
 # Attention: What the Brain Notices
 
-> **Working draft:** This page was automatically generated and is awaiting human authoring and further review.
+> **Working draft:** Human authored with AI assistance; the Person, Supporter and Clinician sections have been reviewed and approved by the project lead. Audit 1 completed October 28, 2026; accepted corrections and editorial Audit 2 completed October 29, 2026. Illustrations and captions approved by the project lead; independent clinical review remains pending.
 
 Lesson 15 explores attention and what the brain notices through everyday examples, collaborative adaptations and clinical reasoning.
 
-*Last reviewed: October 26, 2026*
+*Last reviewed: October 29, 2026*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -16,39 +16,150 @@ Lesson 15 explores attention and what the brain notices through everyday example
 
 ## For the Person With FND
 
-### The world doesn't get quieter. Your attention moves.
+### Ever lose your place?
 
-Imagine you're reading a message when someone starts talking to you. You catch the first few words, but then lose the message. You look back at your screen and realise you haven't understood a thing.
+You're writing a message to a friend. Halfway through, somebody asks you a question. You look up, answer, and turn back to your phone.
 
-In this example, neither message was easy to follow while they competed for attention. In real life, hearing, vision, language and other difficulties can also affect the task.
+"Hang on. What was I saying?"
 
-Your brain handles more information than you can consciously notice. **[Attention](../../glossary/README.md#attention)** helps choose what becomes important right now. It is not a switch you control perfectly. A sudden noise, pain, a worry, a familiar voice or a movement near you can take over before you've decided where to focus. (*citations* [1](#citation-1), [2](#citation-2))
+Your attention went with the conversation. Now you're trying to find your place again.
 
-### A few kinds of attention
+For someone with FND, getting back on track might take extra effort, especially if thinking or memory are difficult. Another person might find messages easy but feel overwhelmed in a noisy room. We each have our own mix of strengths and difficulties.
 
-When you follow a conversation in a busy café, you use **[selective attention](../../glossary/README.md#attention-types-selective-divided-and-sustained)** to concentrate on one voice. When you cook while talking, you use **divided attention** to manage two tasks. When you finish a chapter or follow a long explanation, you use **sustained attention** to stay with something over time.
+**[Attention](../../glossary/README.md#attention)** helps your brain choose what to notice. Picture a spotlight on a stage. It lights up one part of the scene while everything else is still there.
 
-Attention can also face **outward**, toward the world, or **inward**, toward your movements, thoughts and bodily sensations. Both directions are useful. Neither is automatically good or bad.
+That spotlight moves throughout the day. A ringing phone might grab it. So might pain or an uncomfortable feeling. You can sometimes guide your attention, and sometimes it shifts before you even notice. (*citations* [1](#citation-1), [2](#citation-2))
 
-Now think about an uncomfortable shoe. Maybe you barely notice it while enjoying a film. The moment you stand up, your sore foot demands your attention.
+### A few ways attention works
 
-Did the soreness suddenly begin? Did it grow while you sat there? Or did you only notice it once your attention moved? It might be a mixture. **A change in what you notice doesn't prove a change in what caused the feeling.**
+Imagine trying to hear a friend in a busy café. You follow their voice through the chatter around you. That's **[selective attention](../../glossary/README.md#attention-types-selective-divided-and-sustained)**: picking out one thing to focus on.
 
-### Why are we learning this in an FND course?
+Now picture folding clean towels while listening to someone tell a story. That's **divided attention**: sharing your attention between two activities. Sometimes it's easy. Other times, doing one thing at a time works better.
 
-Researchers are studying whether attention changes how some functional symptoms are experienced or controlled. For some people, a task becomes easier or harder depending on what they are attending to. This can be a useful clinical clue, but it doesn't explain every symptom or tell us why FND began for one person.
+And when you stay with a book, a game, or a conversation for a while, you're using **sustained attention**. It helps you stick with something over time.
 
-And being able to shift attention sometimes doesn't mean you can choose whether a symptom exists.
+Your brain uses all three in everyday life. The amount of effort they take can change from one day to the next.
 
-### Turning knowledge into an adaptation
+### Looking outward and inward
 
-Suppose filling out a form is hard while the television is on. You might try a quieter room, larger text, fewer questions at once, or having someone read out one item at a time. You're not trying to prove that the form difficulty is FND. You're reducing competition for your attention.
+You're talking with a friend when your arm begins to itch. For a moment, that itch has your full attention. Then your friend tells a great story, and the itch slips into the background.
 
-**Something to think about:** Which tasks leave you feeling pulled in several directions? Are the demands coming from outside, inside your body, or both?
+Your attention moved **inward**, toward a feeling in your body, and then **outward**, toward your friend's words. The itch may still be there, even when you notice it less.
 
-**One small step:** If you want, choose one ordinary task and make *one* part of it easier to follow. See whether the change helps with comfort, accuracy or effort. No need to watch every symptom or keep a diary. Sometimes the useful discovery is simply, “This room works better for me.”
+It can work the other way, too. You get so wrapped up in a project that you only notice you're thirsty when you finally stop.
 
-Next we will explore how familiar actions can run with less step-by-step conscious direction.
+Your body's signals still matter. Attention can change which signals stand out to you, without telling us what caused them.
+
+Inward attention can also turn toward your **thoughts**. You might wonder how you're doing or what somebody thinks of you. Those thoughts can take up some of the attention you were using for an activity.
+
+Let's see how that might matter for FND.
+
+### When attention and FND symptoms meet
+
+Imagine someone with a **functional walking difficulty** moving along a hallway. They hear footsteps behind them.
+
+"Am I holding everyone up? Are they watching how I walk?"
+
+They begin thinking about every step. For some people, closely watching their walking can happen alongside greater difficulty moving. For others, attention makes little difference.
+
+The worry about other people is understandable, and the movement difficulty is involuntary. A physiotherapist might explore whether attention changes the person's walking, with proper support and fall safety. Their safety and comfort matter more than the pace of somebody walking behind them. (*citations* [6](#citation-6))
+
+Here's another example.
+
+Someone's hand shakes while they hold a book. Later, as they become interested in a conversation, the shaking changes.
+
+Clinicians sometimes observe changes like this with **functional tremor**. It's a genuine, involuntary symptom in both situations. The change may offer a clue during a neurological examination, while the tremor remains outside the person's voluntary control. (*citations* [3](#citation-3))
+
+Attention may also affect communication. Someone who struggles to find words in a busy group might find it easier with one listener and a little more time. Or they may still need another way to get their message across.
+
+**Different FND symptoms can respond differently to attention.** Pain, fatigue and other health conditions can also affect what happens. These examples give us questions to explore, rather than one explanation for everybody.
+
+### How can attention help during rehabilitation?
+
+Here's where the idea starts to become useful.
+
+Imagine someone writing a few paragraphs. They're halfway through a thought when somebody interrupts them. When they return, the next sentence seems to have vanished.
+
+An **occupational therapist**, or **OT**, might help them leave a little *breadcrumb* whenever they pause: a few words about what comes next. An open notebook or a browser tab left on the right page might serve the same purpose.
+
+What looks like a cluttered workspace to one person may be a useful map to another. The question is whether that arrangement helps the person find their way back.
+
+These are **[memory supports](../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md)**: ways to leave some of the remembering outside your head. They can make an activity easier even when attention or memory symptoms remain. (*citations* [2](#citation-2), [4](#citation-4))
+
+Now picture someone working with a physiotherapist because their arm shakes during everyday tasks.
+
+The therapist might set up a safe, seated activity: sliding a soft cloth across a table toward a coloured mark. Instead of asking the person to watch every movement of their arm, the therapist invites them to look at where the cloth needs to go.
+
+This is one example of **task-focused practice**. In some functional movement symptoms, changing what the person focuses on may help them practise a useful action. The therapist checks what works, adjusts the support, and makes room for rest. The practice can still be worthwhile if some shaking remains. (*citations* [2](#citation-2), [6](#citation-6))
+
+These approaches are chosen around the person's symptoms, abilities and safety needs. Their purpose is to support meaningful activities and rehabilitation. For episodes that affect awareness or safety, such as functional seizures, the person's own safety plan and professional guidance still come first.
+
+<figure class="image-60center" markdown="1">
+
+![A man slides a photograph into a folder beside a cartoon control room where three brain characters coordinate information and movement.](../../assets/images/lesson-15-illustration.png)
+
+<figcaption>Attention helps select what matters while other nervous-system processes contribute to an activity. The control room is a visual metaphor, not a map of brain anatomy.</figcaption>
+
+</figure>
+
+### Making room for what matters
+
+Remember that message to your friend?
+
+Maybe you were halfway through writing something important when you lost your train of thought. Next time you pause, you could leave yourself a tiny clue: "Next, I wanted to explain…"
+
+When you return, those few words might help you pick up the thread. If noise is the thing pulling your attention away, a quieter place might help instead.
+
+**An activity can become easier to manage even when your symptoms stay the same.**
+
+### Something to think about
+
+When you're trying to concentrate on something, what else might be competing for your attention?
+
+It could be a sound, a conversation, discomfort, or something on your mind.
+
+### How might that feel?
+
+How would it feel to make the activity a little easier, without expecting yourself to concentrate harder?
+
+### One small step
+
+Think of one familiar activity where you sometimes lose your place.
+
+Choose **one small change** that makes more room for your attention. You might leave two words about your next step, keep a useful browser tab open, or ask for a little quiet while you finish.
+
+See whether returning to the activity feels easier. You can keep the support that works for you, change it, or save this idea for another day.
+
+Next, we'll look at how your brain handles familiar actions with less step-by-step conscious direction.
+
+
+### Further reading in the Reference Library
+
+For more detail, choose the topic that fits your question. Each page includes information for the person, supporters and clinicians.
+
+- [Thinking and memory supports](../../reference/recovery-techniques/functional_cognitive_disorder/08-external-memory-supports.md)
+- [Task-focused movement for functional tremor](../../reference/recovery-techniques/functional_tremor/03-external-focus-and-meaningful-task-practice.md)
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-15" aria-label="Browse Attention: What the Brain Notices"><img src="{{ '/assets/puzzles/thumbnails/attention-what-the-brain-notices-m6-15-normal.svg' | relative_url }}" alt="Preview of the crossword grid" loading="lazy" decoding="async"><span>Attention: What the Brain Notices</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Attention: What the Brain Notices PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-15/attention-what-the-brain-notices-m6-15-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy PDF for Attention: What the Brain Notices (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-15/attention-what-the-brain-notices-m6-15-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal PDF for Attention: What the Brain Notices (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-15/attention-what-the-brain-notices-m6-15-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key PDF for Attention: What the Brain Notices (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-15-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-15-coloring-book.png' | relative_url }}" alt="A man slides a photograph into a folder beside a cartoon control room where three brain characters coordinate information and movement. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-15-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 15 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-15">browse the colouring collection</a>.
+
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -60,33 +171,139 @@ Next we will explore how familiar actions can run with less step-by-step conscio
 
 ## For Family, Friends, and Other Supporters
 
-### The little things competing for attention
+### When a simple question isn't simple
 
-Imagine reading instructions aloud while the television plays and someone else asks a question. You might still understand everything. The person you support might not, especially when pain, migraine, fatigue, thinking difficulties or sensitivity to noise are already taking up attention.
+Imagine two people sitting at the kitchen table, filling out an online form.
 
-The useful question isn't, “Why can't you concentrate?” It's **“What is making this task harder to follow, and what could we change together?”**
+One asks, “What was the date of that appointment?”
 
-Attention helps the nervous system select and hold information. Different demands can compete for it. That doesn't mean every attention difficulty is caused by FND or that focusing differently will make symptoms disappear.
+The person with FND looks up to answer. The kettle clicks off. Their leg is hurting, and they're trying to remember where they put an earlier letter.
 
-### Make room for the person's choice
+A moment later, they've lost their place in the form.
 
-Ask whether quiet would help before you turn off the television or move the conversation. Some people need reduced noise; others find familiar background sound reassuring.
+The supporter might think, *I only asked one question.*
 
-If the person wants assistance with an appointment form, you might read **one question at a time**, leave an answer on-screen long enough to find it later, or offer a written summary. Ask which is preferable. The goal is easier participation—not doing the task for them unless they ask.
+And that's true. But the person was already doing several things: reading the form, holding their next answer in mind, managing discomfort and keeping track of the conversation.
 
-Notice whether your own instructions add another demand. A string of helpful reminders can become one more stream of noise.
+**An interruption that seems small from the outside can ask quite a lot of the person experiencing it.**
 
-### When to involve a professional
+This lesson is about understanding those competing demands so that the two people can work together more comfortably. It also applies to a parent and child, a friend offering occasional help, or someone with FND who manages these challenges without a supporter.
 
-If thinking, remembering or task-following difficulties create substantial daily barriers, an **occupational therapist** can examine the task and environment. A **neuropsychologist**, psychologist or other appropriately trained clinician may help clarify cognitive symptoms and coexisting contributors. New or worsening cognitive changes need suitable medical assessment; don't assume they're simply attention or FND. (*citations* [1](#citation-1), [2](#citation-2))
+### What you notice and what they experience
+
+Earlier in this lesson, we learned that attention helps the brain select what matters at a particular moment. It also helps us stay with information and return to a task after something interrupts us.
+
+A person may be eager to finish an activity and still find that pain, a sound, another conversation or a worrying thought takes priority. The shift can happen before they have any deliberate say in it. Research on attention describes how the brain both maintains goals and redirects attention toward relevant events. (*citations* [1](#citation-1))
+
+From the outside, you may see someone pause, ask the same question twice, or lose the end of a sentence.
+
+From the inside, they may have been trying hard to keep that thought available and suddenly found it out of reach.
+
+This difference in perspective matters.
+
+Perhaps the person follows an exciting film quite happily but struggles to follow instructions in a busy room. You might wonder why their concentration seems different in each situation.
+
+The tasks *are* different. A film carries the story forward; instructions often require someone to remember details and act on them. Noise, pain, timing and the need to switch between activities can change the demands again.
+
+**Being able to concentrate in one situation doesn't mean another situation will be equally manageable.**
+
+And when thinking or memory problems appear alongside FND, they deserve to be understood in their own right. They may involve more than attention, and a reported cognitive symptom doesn't automatically establish functional cognitive disorder.
+
+### Being believed changes the conversation
+
+For some people with FND, the hardest part of an unusual or changing symptom is wondering whether the people close to them will believe it.
+
+If you've seen someone speak easily one moment and struggle to find words the next, or seem to remember something yesterday but not today, that difference may be confusing.
+
+You can acknowledge what you saw *and* accept that their difficulty is real.
+
+For example, instead of trying to resolve the inconsistency, the conversation might begin with: *“I noticed it was easier to talk earlier. Is there something different about what we're doing now?”*
+
+That question invites the person's experience into the picture. It doesn't ask them to justify their symptoms.
+
+A parent writing about their child's experience in an FND community described how the child:
 
 > “dissociates quite a bit, has issues with focusing and retaining new information”
 
-*Figure 1. Community experience.* A parent describes several experiences together; this does not establish their cause. [Original public source](https://www.reddit.com/r/FND/comments/1hmedeg/comment/m3tqr3z/). (*citations* [5](#citation-5))
+*Figure 1. Community experience.* One parent's account of several reported difficulties. These observations deserve attention, but they do not establish the cause or diagnosis of any of them. [Original public source](https://www.reddit.com/r/FND/comments/1hmedeg/comment/m3tqr3z/). (*citations* [5](#citation-5))
 
-**Something to discuss together:** “Would you prefer a quieter space, written instructions, one question at a time, or none of those today?”
+That parent's account may sound familiar to some families. Other people with FND have little or no difficulty with attention, or find that the problems arise in quite different circumstances.
 
-**One small thing:** Agree on one change for a familiar, low-risk activity and ask afterward whether it helped. No repeated testing, scores or surveillance are required.
+The useful starting point isn't deciding which experience is typical. It's listening to the particular person you're with.
+
+### Making more room for a conversation
+
+Return to the kitchen-table form.
+
+Suppose the person says, “I can't think with everything going on.”
+
+One supporter might immediately turn off the television, close the window and start reading the form aloud. They're trying to help, but they've made several decisions for the other person before asking which change is wanted.
+
+A different conversation might begin with: *“Would it help to do one question at a time, or would you rather have some quiet and finish this yourself?”*
+
+There is room for different answers.
+
+Someone may want the room quieter. Another may prefer background sound because it feels familiar. A person might welcome a short note marking where they stopped—or find extra reminders irritating.
+
+An **occupational therapist**, or OT, may use activity analysis and practical adaptations to improve participation when attention or cognitive demands interfere with daily activities. Professional consensus supports choosing adjustments with the individual, around real-life goals. (*citations* [2](#citation-2))
+
+At home, there's no need to turn every difficulty into a therapy session. Often the most helpful change is a small agreement made together.
+
+And if the person says, “Please don't help right now,” that can be useful information too.
+
+### Your relationship matters, too
+
+Not every supporter is in the same position.
+
+A **parent** may be helping a child prepare for school, learn to explain their needs and gradually take a greater role in decisions appropriate to their age and abilities. An agreed reminder may be more useful than repeated prompting.
+
+A **spouse or partner** might have been handling appointments and paperwork for years. They may know the routine well, yet still want time when they can simply be a couple rather than patient and caregiver.
+
+A **friend or relative** might offer support only occasionally. Their contribution may be as simple as allowing time for an answer or helping with one task that day.
+
+And **a person without a supporter** still deserves accessible information, flexible appointments and professional help where needed. Independent living should not depend on having someone available to remember everything or speak on their behalf.
+
+In all these situations, the person with FND remains the best source of information about their preferences, and each supporter has their own abilities and limits.
+
+Sometimes those needs meet easily. Sometimes they require a conversation.
+
+### When helping starts to use up your attention
+
+Imagine you've had a long day and are trying to make dinner. Your partner asks where the appointment notes are. You begin helping, then another question arrives, and soon neither of you remembers what you were doing.
+
+Both people now have competing demands.
+
+It could help to agree on one place to keep notes, decide which requests can wait or set aside a brief time to prepare for an appointment. That reduces the amount both of you have to keep in mind.
+
+But even a good system can become another responsibility. If you're expected to provide every reminder, keep track of every change and organize all the appointments, the arrangement may become exhausting.
+
+**A useful adaptation should make life more manageable, rather than quietly making one person responsible for everything.**
+
+Sometimes the person with FND can manage the task using a written cue or a simpler setup. Sometimes assistance is welcome. Sometimes outside help is what makes the arrangement sustainable.
+
+### Which questions belong with a professional?
+
+There are two different kinds of help here.
+
+An everyday adjustment—such as speaking one at a time or keeping the next step visible—can often be agreed between the people involved.
+
+Persistent thinking, memory or communication difficulties may call for more specialized assessment. An **OT** can help examine daily tasks and environments. A **neuropsychologist** or another qualified clinician may investigate cognitive difficulties; a **speech-language therapist** may be involved when communication is affected. New or substantially changed cognitive symptoms deserve appropriate medical assessment. The [Professional Roles in FND Care](../../reference/professional-roles-in-fnd-care.md) explains who can contribute and why.
+
+A supporter can bring observations, help prepare questions when invited, and help the person use an agreed plan.
+
+That is a meaningful role without taking responsibility for deciding what caused a symptom or whether a particular treatment is appropriate.
+
+### One thing worth taking from this lesson
+
+Understanding attention can change an everyday conversation.
+
+When someone loses their place, the question needn't become, “Why can't they remember?” It can become, **“What was this moment asking of them, and is there a way we could make it easier?”**
+
+That leaves room to believe the person's experience, try a practical adaptation if they want one, and respect both people's limits.
+
+**Something to discuss together:** “When you lose your train of thought, would you prefer more time, a reminder, less conversation—or for me to leave it alone?”
+
+**One small thing:** If there's a familiar, low-risk activity that often becomes frustrating, think together about one adjustment worth trying. The person can decide whether it helps. There's no need to monitor every symptom or keep a score.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -98,23 +315,167 @@ If thinking, remembering or task-following difficulties create substantial daily
 
 ## For Clinicians and the Care Team
 
-### Treat attention as a set of functions, not a single dial
+### When the appointment asks too much
 
-A person's performance may depend on selective, sustained and shifting attention, the demands of the environment and simultaneous bodily or cognitive tasks. Attentional capture by pain, intrusive sensory input or symptom-related concern is different from a conscious decision to focus on symptoms. Similarly, reducing demands can improve task performance without proving that attention produced the underlying condition.
+A person with an established functional gait disorder arrives for an appointment. Their neurological record contains positive findings supporting that diagnosis.
 
-**Occupational therapists** can begin with a concrete task—reading appointment instructions, preparing a meal or participating in a noisy clinic. Examine visual complexity, interruptions, instructions, motor demands, time pressure and sensory access. Offer one adjustment, such as a written cue, fewer simultaneous steps or a predictable workspace, and agree whether improved accuracy, effort or participation constitutes a meaningful result.
+Today, they describe another difficulty: “When someone interrupts me, the thought I was having just disappears.”
 
-**Neuropsychologists and psychologists** can distinguish attentional load from memory encoding, dissociation, anxiety or threat interpretations. A brief formal test in a quiet room is not equivalent to managing everyday competing demands; routine supports and separate assessment of sleep, pain, migraine, medication effects and other contributors remain appropriate.
+It's worth noticing the second concern without immediately giving it the same diagnosis as the first.
 
-**Speech-language therapists** can adapt conversational turn-taking, response time, written prompts and communication access when language, word-finding or voice symptoms occur under load. **Neurologists** should describe which observed changes informed the diagnosis, without implying that an attentional improvement establishes the mechanism.
+So our fictional patient has a well-supported *motor diagnosis* and an additional *cognitive complaint*. How they relate is a question for assessment. Other patients may have one, both, or a quite different combination.
 
-**Symptom application — Functional Cognitive Disorder (FCD):** A person may lose the next instruction while managing several tasks. Consider attention and encoding demands, functional inconsistency in its clinical context, separate cognitive diagnoses and patient-important activities. Trial a single capture method or task-sequencing support rather than repeated memory testing. [FCD diagnostic overview](../../reference/diagnostic-signs/12-functional-cognitive-disorder.md) · [FCD recovery overview](../../reference/recovery-techniques/12-functional-cognitive-disorder.md).
+During the consultation, several things happen together. The patient is moving toward a chair with their usual aid. A clinician asks about medication changes, another question follows, and the patient tries to remember what they were saying.
 
-### Close the loop without creating surveillance
+They pause. The thought is gone.
 
-Agree on an observable target (for example, one form section completed accurately with less fatigue), a low-burden adaptation and a review date. Ask whether the change made the *task* easier, not whether the patient “stopped paying attention” to a symptom. A worsening outcome may reflect extra divided attention or unsuitable cues; withdrawing accommodations is not a therapeutic default.
+Once seated, they are given time to finish one answer. A brief written reminder helps them return to the question after a pause.
 
-**Evidence boundary:** Goal-directed/stimulus-driven attention comes from general neuroscience. FND-specific attention findings—including selected action-tremor research—are narrower than this overall framework. Source basis: [3](#citation-3), [2](#citation-2).
+The conversation moves forward.
+
+**What has the team learned?**
+
+The patient managed two situations differently. One involved movement, competing questions and a changing task. The other provided time, a stable position and a reminder.
+
+We have a useful observation about *the demands of the encounter*. We can now explore which part of that difference matters to the patient.
+
+*This is a fictional teaching case. It brings together common clinical questions rather than reporting findings from a particular patient or study.*
+
+### Attention is an active part of clinical work
+
+Consider how much the nervous system does during that first exchange.
+
+The patient must select the clinician's words from everything else reaching them. They need to hold the question in mind, organize an answer, monitor their movement and respond when the conversation changes.
+
+**Selective attention** helps prioritize information. **Sustained attention** supports staying with a task. **Shifting attention** allows a change between tasks or sources of information. These are interacting functions, rather than different settings on a single control.
+
+Attention can also be captured. Pain, bodily sensations, an unexpected sound or a concern about movement can become important to the brain without a deliberate choice by the patient.
+
+Corbetta and Shulman's influential neuroscience review describes interacting systems involved in maintaining goal-directed attention and orienting toward relevant events. The review concerns general attention mechanisms; it provides a foundation for clinical reasoning rather than a demonstrated explanation for FND. (*citations* [1](#citation-1))
+
+**Why does that finding matter here?**
+
+The patient wants to answer. But answering competes with other tasks. Motivation and the amount of information that can be handled at that moment are different considerations.
+
+**What would improve care?**
+
+The team can let the patient settle into a safe position before discussing complex information, give one question time to develop and make essential instructions available in writing.
+
+These adaptations help make the clinical interaction more accessible. Their usefulness can be evaluated whether the patient's cognitive symptoms ultimately prove functional, arise from another condition or involve several contributors.
+
+### An interruption can change what is remembered
+
+Return to the patient's lost thought.
+
+When somebody asks a question, the listener needs to **encode** the information—take it in—and maintain relevant parts in **working memory**, where they remain briefly available for use.
+
+An interruption may occur before new information is fully encoded. Or the patient may have taken it in but struggle to recover their place after attention shifts.
+
+The experience can feel identical: “I forgot.”
+
+That report gives us a starting point. The history and assessment help clarify which processes are involved, how reliably they work in daily life and what other factors need consideration.
+
+**A question for the clinician:** If someone gives a detailed history yet loses an instruction moments later, what exactly have you demonstrated?
+
+You've observed different performances on different tasks. The demands may also be different. The next step is to understand that difference before drawing a conclusion about the person's cognitive abilities.
+
+Ball and colleagues describe **internal inconsistency** as an important positive feature in clinical assessment of functional cognitive disorder (FCD). Their review emphasizes evaluating the pattern within the clinical context. A meaningful inconsistency is more specific than an ordinary lapse or a single comparatively good performance. (*citations* [4](#citation-4))
+
+Our patient now has a second clinical question, rather than a second diagnosis. The established functional gait diagnosis does not settle the cause of the cognitive complaint.
+
+FCD may be one consideration, but **a cognitive complaint is not itself a diagnosis of FCD**. The distinction matters especially when the patient already has a neurological label that could otherwise become an automatic explanation for each new concern.
+
+Sleep, medication effects, migraine, pain, sensory access, another neurological condition and other relevant contributors should be considered according to the clinical picture.
+
+The practical opportunity is already visible: a written anchor may help them return to the conversation. The [FCD diagnostic reference](../../reference/diagnostic-signs/12-functional-cognitive-disorder.md) explains positive assessment in more detail; the [FCD recovery reference](../../reference/recovery-techniques/12-functional-cognitive-disorder.md) describes ways to support daily functioning.
+
+### What about attention and movement?
+
+The same patient has a functional walking difficulty. It would be tempting to treat their changed performance in the conversation as an explanation for the way they walk.
+
+A better question is: **What evidence connects attention to this particular motor presentation?**
+
+Huys and colleagues compared functional action tremor, other action tremors and healthy controls (17–28 participants per group), measuring reaching paths and duration. Several task effects occurred across groups. The functional group particularly attended to visual movement feedback; only this group improved during an apparently unimportant preparatory movement. These laboratory results leave everyday treatment benefit and wider applicability open. (*citations* [3](#citation-3))
+
+The finding matters because changes with attention can offer useful information during a specialist movement examination. Its limits matter because a person with functional gait symptoms, cognitive difficulties or functional seizures may have different clinical needs.
+
+For some functional motor presentations, physiotherapy consensus recommends approaches that direct attention toward purposeful movement and support more automatic motor control. It offers a rehabilitation framework, with selection and safety guided by the person's assessment. (*citations* [6](#citation-6))
+
+Now consider how a physiotherapist might apply that knowledge.
+
+If the patient's documented gait findings make task-focused movement practice relevant, the therapist could explore a clear, safe destination during properly supported mobility practice. The meaningful outcome might be safer movement or a more usable transfer.
+
+If conversation or an extra instruction makes walking harder, the therapist can reduce that competing demand. The patient still benefits from a purposeful rehabilitation task.
+
+**The question to take into therapy is, “Which task conditions improve useful movement for this person?”** The answer must come from the patient's assessment and response, rather than from assuming that every attentional strategy suits every FND presentation.
+
+### Translate the observation into a team response
+
+Back in the consultation, what would good care look like?
+
+The Reference Library's [Professional Roles in FND Care](../../reference/professional-roles-in-fnd-care.md) explains how different specialties contribute. This patient's experience gives us a reason to bring those roles together around specific clinical questions.
+
+The **neurologist** clarifies which positive findings support the established motor diagnosis and investigates any new clinical concern as indicated. They explain which conclusions the evidence supports and which questions remain open.
+
+The **occupational therapist** asks where the person most often loses a task after interruption. Suppose it happens when completing an online form. The OT can look at the actual activity: where information is displayed, what draws attention away and how the person finds their place again.
+
+Perhaps a short note that says “next: medication section” is enough to help. Perhaps the person needs a different arrangement or another person's assistance.
+
+Nicholson and colleagues' occupational-therapy consensus for FND recommends collaborative formulation, activity analysis and goals tied to daily participation. This is professional guidance for individualizing care, rather than a trial establishing that one cue helps everyone. (*citations* [2](#citation-2))
+
+The **psychologist or neuropsychologist** can explore attention, encoding, working memory and the impact of interruption, using assessment that fits the question. They may also address distress, dissociation or burdensome self-monitoring when clinically relevant. A short test in a quiet office and the demands of ordinary life provide different kinds of information; both can inform the formulation.
+
+If communication is affected, a **speech-language therapist** can assess what happens when the patient forms, retrieves or delivers a message. With the person's agreement, they may suggest allowing a response to finish, using one person to speak at a time, or keeping the original question visible. Specialist speech-language consensus for functional communication disorders supports individualized, meaningful communication goals. (*citations* [7](#citation-7))
+
+The disciplines overlap because the patient does not experience daily life in separate professional categories.
+
+**Each professional should bring an answer to a useful question.** Together, the team can make the plan understandable and workable for the person using it.
+
+### Pause before interpreting improvement
+
+Imagine the patient completes a form more accurately when interruptions are reduced.
+
+A colleague remarks, “So their attention was the problem all along.”
+
+What does the result actually support?
+
+It shows that the revised conditions helped this person complete *this activity*. It is compatible with several explanations: information may have been easier to encode, the task may have required fewer switches, sensory demands may have decreased, or the visible cue may have made returning easier.
+
+More than one of these possibilities may be true.
+
+The task outcome gives us a reason to retain or refine the support. Additional clinical evidence is needed to establish what caused the cognitive symptoms.
+
+This distinction is especially useful when challenging an older habit of treating variable performance as evidence about a patient's effort or intention.
+
+**Variability is an observation to understand. Clinical reasoning determines its significance.**
+
+### Keep the mechanism within its evidence
+
+Attention is one useful way to investigate changing performance. It is one part of a broader nervous-system picture.
+
+**What have we established in this lesson?** General neuroscience describes interacting attentional functions. Research in selected functional-tremor tasks shows that attention can matter for that presentation. Clinical consensus offers ways to make some motor and everyday activities more manageable.
+
+**What remains open?** The mechanisms of an individual's cognitive complaint, gait symptoms and other difficulties require their own assessment. Findings about attention cannot be applied wholesale to every FND symptom.
+
+Later lessons will examine how prediction, body-signal processing and the sense of control over action may relate to FND. Those concepts may help develop a fuller formulation; they should be considered alongside—not substituted for—the evidence available for this patient.
+
+### What will the patient take home?
+
+Before ending the appointment, ask the patient to identify one activity they want to manage more reliably.
+
+Together, choose a manageable adjustment and decide what would show that it helped. For example, can they return to a form after an interruption with less effort? Can they follow the next step in an activity without repeatedly reconstructing the plan?
+
+Review the result without turning ordinary living into continuous symptom monitoring.
+
+If the adjustment helps, consider whether it can support another meaningful activity. If it adds work or difficulty, the team can adapt the approach.
+
+The patient can continue to use aids, assistance, rest and communication supports according to their needs. Better participation is a worthwhile outcome even while symptoms persist.
+
+The essential clinical lesson is this:
+
+**Attention may help explain what changes during an activity. The clinician's task is to turn that observation into clearer assessment, a more usable environment and better care.**
+
+The evidence behind this lesson comes from different kinds of sources: general attention neuroscience, a selected functional-tremor experiment, a clinical FCD review and professional rehabilitation consensus. Each contributes to this reasoning within its own scope. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3), [4](#citation-4), [6](#citation-6), [7](#citation-7))
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -126,7 +487,7 @@ Agree on an observable target (for example, one form section completed accuratel
 
 ## Research and Sources
 
-General neuroscience, FND research findings, proposed mechanisms, professional consensus and treatment trials are distinguished in this lesson. Practical scenes and suggested conversations are illustrative; they are not tested treatment protocols. Community excerpts are individual accounts and do not establish diagnoses, typical outcomes or treatment effects.
+This lesson draws on general attention neuroscience, a selected functional-tremor experiment, an FCD diagnostic review, professional rehabilitation consensus and individual community experience. Practical scenes and suggested conversations are illustrative; they are not tested treatment protocols. Community excerpts are individual accounts and do not establish diagnoses, typical outcomes or treatment effects.
 
 | Citation | Figure | Full citation |
 |---|---|---|
@@ -135,5 +496,7 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-3"></a>**[3]** | — | Huys ACML, Haggard P, Bhatia KP, Edwards MJ. **Misdirected attentional focus in functional tremor.** Brain. 2021;144:3436–3450. doi:10.1093/brain/awab230. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34145898/) · [Original](https://academic.oup.com/brain/article/144/11/3436/6305827). [FND-CIT-0220](../../research/citation-index.md#fnd-cit-0220). |
 | <a id="citation-4"></a>**[4]** | — | Ball HA, McWhirter L, Ballard C, et al. Functional cognitive disorder: dementia's blind spot. *Brain*. 2020;143(10):2895–2903. [https://doi.org/10.1093/brain/awaa224](https://doi.org/10.1093/brain/awaa224) [FND-CIT-0071](../../research/citation-index.md#fnd-cit-0071). |
 | <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1hmedeg/comment/m3tqr3z/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0308](../../research/citation-index.md#fnd-cit-0308). |
+| <a id="citation-6"></a>**[6]** | — | Nielsen G, Stone J, Matthews A, et al. **Physiotherapy for functional motor disorders: a consensus recommendation.** *Journal of Neurology, Neurosurgery & Psychiatry*. 2015;86:1113–1119. doi:10.1136/jnnp-2014-309255. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602268/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/25433033/). [FND-CIT-0028](../../research/citation-index.md#fnd-cit-0028). |
+| <a id="citation-7"></a>**[7]** | — | Baker J, Barnett C, Cavalli L, et al. **Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.** *Journal of Neurology, Neurosurgery & Psychiatry*. 2021;92:1112–1125. doi:10.1136/jnnp-2021-326767. [Original](https://jnnp.bmj.com/content/92/10/1112) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/34210802/). [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
 
-*Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
+*Publication-readiness audit: October 26, 2026. Person section human-edited and approved October 26, 2026; Clinician and Supporter sections human-edited and approved October 27, 2026. Audit 1 completed October 28, 2026; accepted corrections and editorial Audit 2 completed October 29, 2026. Illustrations and captions approved by the project lead; independent clinical review remains pending.*

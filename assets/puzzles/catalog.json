@@ -4,7 +4,8 @@
     "2": "How FND Is Diagnosed",
     "3": "What May Cause or Affect FND?",
     "4": "Map Your FND and Other Health Conditions",
-    "5": "Medical Safety and New Symptoms"
+    "5": "Medical Safety and New Symptoms",
+    "6": "Attention and Automatic Control"
   },
   "items": [
     {
@@ -424,6 +425,126 @@
         "Open printable PDF": "/assets/puzzles/colouring/lesson-11-coloring-book.pdf"
       },
       "collection": "colouring"
+    },
+    {
+      "id": "lesson-15",
+      "module": 6,
+      "lesson": 15,
+      "title": "Attention: What the Brain Notices",
+      "image": "/assets/puzzles/thumbnails/attention-what-the-brain-notices-m6-15-normal.svg",
+      "course": "/course/m6/1/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-6-Lesson-15/attention-what-the-brain-notices-m6-15-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-6-Lesson-15/attention-what-the-brain-notices-m6-15-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-6-Lesson-15/attention-what-the-brain-notices-m6-15-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-15",
+      "module": 6,
+      "lesson": 15,
+      "title": "Attention: What the Brain Notices",
+      "image": "/assets/puzzles/colouring/lesson-15-coloring-book.png",
+      "course": "/course/m6/1/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-15-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-16",
+      "module": 6,
+      "lesson": 16,
+      "title": "Automatic Control and Conscious Effort",
+      "image": "/assets/puzzles/thumbnails/automatic-control-and-conscious-effort-m6-16-normal.svg",
+      "course": "/course/m6/2/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-6-Lesson-16/automatic-control-and-conscious-effort-m6-16-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-6-Lesson-16/automatic-control-and-conscious-effort-m6-16-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-6-Lesson-16/automatic-control-and-conscious-effort-m6-16-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-16",
+      "module": 6,
+      "lesson": 16,
+      "title": "Automatic Control and Conscious Effort",
+      "image": "/assets/puzzles/colouring/lesson-16-coloring-book.png",
+      "course": "/course/m6/2/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-16-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-17",
+      "module": 6,
+      "lesson": 17,
+      "title": "Distraction, External Focus, and Context",
+      "image": "/assets/puzzles/thumbnails/distraction-external-focus-and-context-m6-17-normal.svg",
+      "course": "/course/m6/3/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-6-Lesson-17/distraction-external-focus-and-context-m6-17-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-6-Lesson-17/distraction-external-focus-and-context-m6-17-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-6-Lesson-17/distraction-external-focus-and-context-m6-17-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-17",
+      "module": 6,
+      "lesson": 17,
+      "title": "Distraction, External Focus, and Context",
+      "image": "/assets/puzzles/colouring/lesson-17-coloring-book.png",
+      "course": "/course/m6/3/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-17-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "module-4-review",
+      "module": 4,
+      "lesson": null,
+      "title": "FND Education — Module 4 Review",
+      "image": "/assets/puzzles/thumbnails/fnd-education-module-4-review-m4-normal.svg",
+      "course": "/course/m4/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-4-Summary/fnd-education-module-4-review-m4-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-4-Summary/fnd-education-module-4-review-m4-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-4-Summary/fnd-education-module-4-review-m4-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "module-5-review",
+      "module": 5,
+      "lesson": null,
+      "title": "FND Education — Module 5 Review",
+      "image": "/assets/puzzles/thumbnails/fnd-education-module-5-review-m5-normal.svg",
+      "course": "/course/m5/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-5-Summary/fnd-education-module-5-review-m5-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-5-Summary/fnd-education-module-5-review-m5-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-5-Summary/fnd-education-module-5-review-m5-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "module-6-review",
+      "module": 6,
+      "lesson": null,
+      "title": "FND Education — Module 6 Review",
+      "image": "/assets/puzzles/thumbnails/fnd-education-module-6-review-m6-normal.svg",
+      "course": "/course/m6/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-6-Summary/fnd-education-module-6-review-m6-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-6-Summary/fnd-education-module-6-review-m6-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-6-Summary/fnd-education-module-6-review-m6-answer-key.pdf"
+      },
+      "collection": "crosswords"
     }
   ]
 }

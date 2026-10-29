@@ -33,6 +33,19 @@ FND can explain familiar symptoms without explaining every future symptom. This 
 | <a id="citation-2"></a>**[2]** | — | Mcloughlin C, Lee WH, Carson A, Stone J. Iatrogenic harm in functional neurological disorder. *Brain*. 2025;148(1):27–38. [FND-CIT-0069](../../research/citation-index.md#fnd-cit-0069). [https://doi.org/10.1093/brain/awae283](https://doi.org/10.1093/brain/awae283) |
 | <a id="citation-3"></a>**[3]** | — | Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466) |
 
+
+## Optional module review crossword
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=module-5-review" aria-label="Browse FND Education — Module 5 Review"><img src="{{ '/assets/puzzles/thumbnails/fnd-education-module-5-review-m5-normal.svg' | relative_url }}" alt="Preview of the crossword grid" loading="lazy" decoding="async"><span>FND Education — Module 5 Review</span></a>
+<div class="puzzle-downloads" role="group" aria-label="FND Education — Module 5 Review PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-5-Summary/fnd-education-module-5-review-m5-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy PDF for FND Education — Module 5 Review (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-5-Summary/fnd-education-module-5-review-m5-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal PDF for FND Education — Module 5 Review (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-5-Summary/fnd-education-module-5-review-m5-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key PDF for FND Education — Module 5 Review (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Start with Familiar Symptoms, New Symptoms, and Medical Change](01-familiar-symptoms-new-symptoms-and-medical-change.md)
 
