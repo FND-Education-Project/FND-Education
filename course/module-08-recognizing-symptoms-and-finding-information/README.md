@@ -6,8 +6,8 @@ Module 8 of the current course. Explore the lessons in order or choose the topic
 
 *Last reviewed: October 26, 2026*
 
-- [Lesson 22: Finding Words for What Happens](01-finding-words-for-what-happens.md)
-- [Lesson 23: Similar Experiences, Different Features](02-similar-experiences-different-features.md)
-- [Lesson 24: Finding Your Way Through the Reference Library](03-finding-your-way-through-the-reference-library.md)
+- [Lesson 23: Finding Words for What Happens](01-finding-words-for-what-happens.md)
+- [Lesson 24: Similar Experiences, Different Features](02-similar-experiences-different-features.md)
+- [Lesson 25: Finding Your Way Through the Reference Library](03-finding-your-way-through-the-reference-library.md)
 
 Each lesson offers Person, Supporter and Clinician sections. The course teaches concepts and questions; it does not diagnose readers or prescribe one treatment for everyone.

@@ -52,6 +52,18 @@ If you find it difficult to notice early fatigue, planning rest may be useful. I
 
 You should not practise holding your breath, ignoring breathing trouble or pushing through a concerning symptom in order to test body awareness.
 
+### The signal, its description and its cause
+
+A person in an FND community described some of their sensations this way:
+
+> “I get tingling, needles, numbness, and burning sensations.”
+
+*Figure 1. Community experience — source-linked candidate.* These words describe a lived sensation, not a diagnosis of its cause. [Public discussion](https://www.reddit.com/r/FND/comments/1hmedeg/please_explain_your_symptoms_in_detail/). Exact wording and context require confirmation before publication. (*citation* [8](#citation-8))
+
+Those are useful descriptions because another person can understand **what it feels like**, even if the cause hasn't been established. A clinician may ask whether the sensation is affected by position, illness, medication, sensory context or another condition. The reported experience matters; an explanation needs its own evidence.
+
+The research also needs this distinction. One FND study found differences in certain questionnaire and brain-response measures involving heartbeats, without a statistically significant difference in one heartbeat-counting accuracy measure. These aren't interchangeable measurements or proof that every person with FND incorrectly senses their body. (*citation* [3](#citation-3))
+
 **Something to think about:** When you say “I feel strange,” what sort of information are you trying to describe: inside-the-body sensation, body position, awareness, or something outside you?
 
 **One small step:** Try replacing one vague description with one precise, ordinary phrase. “My right foot feels distant,” for example, says more than “My leg is weird.” You don't have to decide why it happens.
@@ -85,6 +97,14 @@ Don't challenge them to count heartbeats, close their eyes to test balance, hold
 **Palpitations, faintness or chest symptoms** may need primary-care, cardiology or autonomic assessment. **Choking or swallowing change** requires qualified swallowing/medical review; urgent breathing or choking emergencies require emergency action. **Visual changes** may require eye or neurological assessment. An **OT** can help match sensory adaptations to activities; a **PT** may assess balance and position sense.
 
 The person may have FND *and* a separate medical condition. Supporting them includes helping that condition receive its own care rather than explaining everything through interoception.
+
+### Different observations can both matter
+
+You may notice that someone is pale or unsteady while they describe internal sensations you cannot feel. Or they may report a racing heart when their pulse seems ordinary to you. Neither perspective should be treated as a verdict: **an observation, a sensation and a medical measurement answer different questions**.
+
+This is particularly important when the person has FND alongside migraine, a heart rhythm condition, autonomic illness or another condition. A supporter can help write down the person's own words for an appointment, with permission; interpreting the cause belongs with the clinician. What helps the person feel comfortable is not necessarily what establishes the diagnosis.
+
+A parent or partner may be closely involved, whereas a friend might only offer a quieter seat. Someone living alone may need the appointment service itself to provide accessible communication and assistance.
 
 **Something to discuss together:** “Are you describing what you feel, what you're able to do, or what someone measured? Should we ask the clinician about the difference?”
 
@@ -124,6 +144,13 @@ Document one meaningful everyday goal, separate symptom description from objecti
 
 **Evidence boundary:** Definitions are grounded in general neuroscience [1](#citation-1), [2](#citation-2); mixed-FND interoception research [3](#citation-3) does not establish treatment efficacy. Swallowing and communication management is primarily specialist consensus [4](#citation-4).
 
+### Three clinical questions, not one sensory diagnosis
+
+If a patient says a leg feels absent, clarify whether they mean a change in **sensation**, impaired **position sense**, altered **body ownership**, loss of **motor output**, or difficulty describing the experience. These can coexist but should not be collapsed into “poor interoception.”
+
+Similarly, a racing-heart sensation should be documented separately from measured tachycardia and its cause; orthostatic symptoms may require cardiovascular/autonomic evaluation. Sensory and balance supports can be chosen through PT/OT in the context of examination and the patient's goals. A self-report, psychophysical accuracy test and neural response are not interchangeable evidence. The specific 2026 heartbeat study does not diagnose a global interoceptive deficit. (*citations* [3](#citation-3), [5](#citation-5), [7](#citation-7))
+
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -145,5 +172,7 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-5"></a>**[5]** | — | Bennett K, Diamond C, Hoeritzauer I, et al. **A practical review of functional neurological disorder (FND) for the general physician.** Clin Med. 2021;21:28–36. doi:10.7861/clinmed.2020-0987. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7850207/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/33479065/). [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). |
 | <a id="citation-6"></a>**[6]** | — | Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622) [FND-CIT-0027](../../research/citation-index.md#fnd-cit-0027). |
 | <a id="citation-7"></a>**[7]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
+
+| <a id="citation-8"></a>**[8]** | Figure 1 | Person-described sensory experience, [public r/FND discussion](https://www.reddit.com/r/FND/comments/1hmedeg/please_explain_your_symptoms_in_detail/). Quote candidate from internal community notebook; direct speaker/context verification needed. Not medical evidence. |
 
 *Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*

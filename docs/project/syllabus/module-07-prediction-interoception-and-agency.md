@@ -2,7 +2,7 @@
 
 **Part Two: Understanding Attention, Action, and Body Signals**<br>
 **Status:** Approved syllabus direction; source review completed October 26, 2026; lesson authoring and independent clinical review pending.<br>
-**Planned lessons:** 18–21 (future numbers, not yet live).
+**Current course lessons:** 18–22 (five lessons). Human authoring, two subsequent lesson audits and independent clinical review remain pending.
 
 ## Purpose
 
@@ -29,11 +29,42 @@ Help readers understand the brain's use of predictions, bodily and external sens
 - A feedback loop is not blame or proof that a person can turn symptoms off.
 - Autonomic or systemic complaints also deserve medical evaluation when indicated.
 
-## Lesson 21 — Sense of Agency, Learning, and Personal Adaptations
+## Lesson 21 — Emotional Regulation and Involuntary Symptoms (seeded working lesson)
+
+**Placement implemented:** The fourth module-local lesson is now [Emotional Regulation and Involuntary Symptoms](../../../course/module-07-prediction-interoception-and-agency/04-emotional-regulation-and-involuntary-symptoms.md) (overall Lesson 21). Agency has moved to [the fifth module-local lesson](../../../course/module-07-prediction-interoception-and-agency/05-agency-learning-and-your-own-adaptations.md) (overall Lesson 22). This is the single current course, not a preserved earlier edition. No public learner database migration was performed; separate test-only account Worker contract needs reconciliation.
+
+**Distinct concept:** Emotional processing and emotional regulation are not synonyms for arousal. Teach the ordinary roles of emotional significance, response intensity, identifying feelings, modulation and recovery, then separate that general neuroscience from the mixed, group-level emotional-processing findings in FND. Emotion dysregulation is not a positive diagnostic sign, proven universal symptom, or established individual causal mechanism. Emotional difficulty may also reflect disability, pain, fatigue, sleep disruption, sensory/cognitive load, trauma-related experiences, medication or other conditions. Link to [Emotional Regulation, Irritability, and Overwhelm](../../../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md) for detailed assessment and practice boundaries.
+
+**Central teaching example:** During an important disagreement, a person may lose their ability to follow or remember parts of a conversation, experience speech difficulties, become disconnected or have a functional seizure. An individual may experience some, none or a different order of these difficulties. Emotional strain may be associated with symptom escalation for some people, but the direction and mechanism cannot be inferred from timing alone. **An interruption that happens at a seemingly convenient moment is not evidence that the neurological symptom was deliberately produced to escape the conversation.** Equally, the other person's unresolved concern remains valid.
+
+- **Person:** Explore what it means when emotional responses arrive faster than expected or communication becomes neurologically difficult. Distinguish feelings, regulation, symptoms and intention; acknowledge uncertainty and clinical red flags for new or changed episodes.
+- **Supporter:** Explain why apparently strategic timing can be misread; believing an involuntary interruption does not require ignoring the supporter's own feelings. Offer only a short bridge to collaborative accommodations, not a full relationship or conflict-resolution lesson.
+- **Clinician:** Separate normal regulatory neuroscience, FND group research, speculative network explanations and individual assessment; distinguish emotional reactivity, cognitive overload/FCD presentations, speech changes, dissociation and functional seizures as appropriate; evaluate comorbidity or new medical change without assuming a universal stress mechanism.
+
+**Detailed relationship teaching belongs later:** In [Module 14 — Relationships, Identity, and Grief](module-18-relationships-identity-and-grief.md), develop how both people can keep difficult matters discussable through smaller portions across multiple occasions, realistic concessions, reciprocal latitude and shared boundaries—not merely postponing one conversation. Avoid treating support people as therapists or the person with FND as responsible for preventing every symptom.
+
+**Congruity check:** Lesson 20 explains salience, arousal and feedback as broad processes; this proposed lesson asks how feelings are processed and regulated, and what is known or unknown about emotional strain accompanying involuntary functional symptoms; the existing agency lesson then distinguishes intent, perceived control and movement/response capacity. Keep each lesson's central question separate.
+
+## Lesson 22 — Sense of Agency, Learning, and Personal Adaptations
 - Agency as the *experience* of initiating or controlling an action, distinct from intent, responsibility and actual capacity.
 - Learning and expectations can shape later experiences; involuntary symptoms are not learned fakery.
 - Integrate concepts through **understand → notice → consider → adapt → review**.
 - Practice reasoning about low-risk, reversible adaptations; judge by access, ease, safety and quality of life, not cure claims.
+
+## Human-authoring handoff — Lesson 18 scope and the later lessons (October 29, 2026)
+
+**Lesson 18 Person section was human-authored and fully approved October 29, 2026; accepted prose committed to the current Lesson 18 page.** The Supporter and Clinician sections have not been human-approved. The project lead wants one substantial Lesson 18, **not two**. Keep a consistent, warm voice suitable for readers age 14+, including when mechanisms are introduced. Put a short glossary-like blockquote *before the first use* of technical terms that truly need to appear (for example *prediction*, *prediction error*, *predictive processing* and, if retained, *precision weighting*); remove unnecessary jargon such as repeated uses of “processes.” Explain the idea through one evolving ball-on-uneven-ground example, and the visual/spatial television and uneven-walking scenes. Do not imply these anecdotes demonstrate a specific predictive-processing mechanism, especially given other possible visual, sensory or medical explanations. Mention uncertainty **once at the right point**, rather than repeated protective warnings.
+
+**What Lesson 18 should establish:** A prediction can affect how someone prepares movement **and** how incoming sight, sound and body information is interpreted; the brain combines what it expects with what it receives. Explain the proposed FND models meaningfully, including why information sometimes may be given different weight, but mark the difference between a research account and an individual's cause. Provide a brief, relatable overview of how prediction might be relevant to visual, sensory, cognitive and communication symptoms without promising one model for all. Discuss conscious risk estimates about a future functional seizure **after** the FND mechanism material, briefly, to distinguish a chosen safety decision from automatic anticipation. Do not turn it into a second lesson or a comprehensive symptom guide.
+
+**Pass the detailed teaching to its proper later home:**
+- **Lesson 19 — Interoception, Proprioception, and Outside Senses:** Thoroughly introduce the *sources* of body-position, internal-body and outside-world information, how sensing and interpretation differ, how vision/position sense guide walking and spatial orientation, and why a particular changed sensation or visual experience cannot be classified from an anecdote. This is where to deepen body-signal examples, not repeat the Lesson 18 bounce sequence.
+- **Lesson 20 — Salience, Arousal, and Feedback Loops:** Teach why some incoming information takes priority, how readiness and attention can change under noise, pain and competing demands, and how that may affect symptoms. Distinguish this from a blanket explanation of “prediction errors” or emotion.
+- **Lesson 21 — Emotional Regulation and Involuntary Symptoms:** Explore emotional processing and communication interruptions (cognitive difficulty, speech change, functional seizures), and why apparently convenient symptom timing does not prove avoidance. Do not repeat the conscious-safety-planning example as though expecting a seizure causes one.
+- **Lesson 22 — Agency, Learning, and Your Own Adaptations:** Deepen the difference between intention, preparing an action, experiencing control, and what the body can actually do. Apply the ideas through person-owned accommodations, not by repeating earlier science lessons.
+- **Module 8 and the Reference Library:** Keep presentation-specific differentiating questions, red flags, and recovery techniques there rather than inserting a long one-by-one symptom inventory into Lesson 18.
+
+**Quotation and audit boundary:** The Person section of Lesson 18 does not need an ill-fitting community quote; existing checked Supporter quotation can remain. Find quotations based on the actual teaching point, with direct provenance checks when possible. The draft is still being human-authored; don't mark it approved or start Audit 1/2 until owner acceptance.
 
 ## Teaching and review instructions
 
@@ -65,7 +96,7 @@ The [remaining new-lesson research briefs](../../../reference/_internal/course/n
 
 ## Clinician-section editorial draft
 
-[Read the complete clinician sections for this module](../../../reference/_internal/course/clinician-drafts-2026-10-26/module-07-prediction-interoception-and-agency.md), prepared for all planned lessons and covering interdisciplinary use in assessment, individual technique selection, rehabilitation and outcome review. For full 17-presentation coverage across the five modules, see the [clinical coverage index](../../../reference/_internal/course/clinician-drafts-2026-10-26/README.md). **Supporter sections remain unwritten.** Clinical statements are grounded in internal source-review material, but final paper-level verification, citations and specialist sign-off are pending.
+[Read the complete clinician sections for this module](../../../reference/_internal/course/clinician-drafts-2026-10-26/module-07-prediction-interoception-and-agency.md), prepared for all planned lessons and covering interdisciplinary use in assessment, individual technique selection, rehabilitation and outcome review. For full 17-presentation coverage across the five modules, see the [clinical coverage index](../../../reference/_internal/course/clinician-drafts-2026-10-26/README.md). **Supporter sections are seeded in the current course; older internal briefs remain historical source material.** Clinical statements are grounded in internal source-review material, but final paper-level verification, citations and specialist sign-off are pending.
 
 ## Supporter-section editorial draft
 

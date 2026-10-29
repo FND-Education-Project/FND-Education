@@ -2,7 +2,7 @@
 
 > **Working draft:** This page was automatically generated and is awaiting human authoring and further review.
 
-Lesson 21 explores agency, Learning, and Your Own Adaptations through everyday examples, collaborative adaptations and clinical reasoning.
+Lesson 22 explores agency, Learning, and Your Own Adaptations through everyday examples, collaborative adaptations and clinical reasoning.
 
 *Last reviewed: October 26, 2026*
 
@@ -56,6 +56,20 @@ You could ask for written questions, extra time or a quieter room. These changes
 
 **Review:** Did it help safety, effort, independence or enjoyment? If not, can I leave it behind?
 
+### A changed sense of control is not a changed intention
+
+Consider someone whose hand jerks while they are reaching for a mug. The movement occurs, but it doesn't feel like something they chose. **Intention** (wanting to reach), **the feeling of being in control** (agency) and **observed ability** (what happened) are different questions.
+
+That distinction is also useful after the emotional-regulation lesson: if speech or awareness becomes inaccessible during a difficult conversation, the interruption alone tells us neither what the person wanted to say nor why the episode happened.
+
+One person reflected on finding an approach that suited them:
+
+> “listening to and understanding my body rather than fighting it to work seems to improve my symptoms the best.”
+
+*Figure 2. Community experience — source-linked candidate.* This is a person's account of what felt helpful, not evidence of a particular treatment mechanism. [Public discussion](https://www.reddit.com/r/FND/comments/1sedrnt/does_anyone_actually_get_better/). Exact source context awaits rechecking. (*citation* [5](#citation-5))
+
+Our module doesn't ask you to control every process consciously. It offers a way to judge a small, safe adjustment by whether it makes life more workable.
+
 **Something to think about:** Is there an adaptation you've already found that makes an important part of life easier? You may have learned something useful long before you knew the scientific words.
 
 **One small step:** Take one existing accommodation and finish the sentence: “This helps me because it makes _____ easier.” That answer matters, even if you cannot explain the precise biology.
@@ -93,6 +107,14 @@ The supporter can offer practical help or observations; **OT, PT, SLT or psychol
 > “I always offer and then it's her choice if she wants me there or not.”
 
 *Figure 1. Community experience.* A spouse describes offering to attend appointments. [Original public source](https://www.reddit.com/r/FND/comments/1o5s0b8/wife_just_diagnosed_with_disassociative_fnd_feels/). (*citations* [4](#citation-4))
+
+### Offering help is not deciding what the person intended
+
+Suppose a person's hand moves unexpectedly as they reach for a cup. A supporter may help with the cup, but cannot infer from the movement whether the person wanted it, chose it or will be able to repeat it. The person's reported experience and preferences remain central.
+
+The community spouse quoted above described offering accompaniment to appointments while leaving the decision to their partner. The same principle can guide adaptations: *ask what kind of help would be welcome, then accept the answer*. If there is a transfer or other safety concern, clinical training and assessment still belong with qualified professionals.
+
+This closes the module with a relationship between **knowing**, **observing** and **offering** rather than a burden to monitor or correct the person's symptoms.
 
 **Something to discuss together:** “What kind of help feels respectful to you, and when would you prefer I ask rather than act?”
 
@@ -132,6 +154,13 @@ In shared discussion, say “the symptom is involuntary; we can work with the co
 
 **Evidence boundary:** Agency imaging is limited and phenotype-specific [1](#citation-1). Broader circuit frameworks [2](#citation-2) remain proposals.
 
+### Ask whose observation answers which question
+
+When someone describes an action as “not mine,” the patient is reporting **an experience of control**. A clinical examination documents observable movements, their task dependence and other findings. Neither observation reveals intention or deception. Voon and colleagues' small motor-FND imaging study concerns selected research participants, not a bedside classifier. (*citation* [1](#citation-1))
+
+A useful endpoint for this module is a distinct, consented **clinical decision**: will a safer task setup, environmental change, communication support or symptom-specific rehabilitation actually improve participation? The choice should be tailored and documented as an accommodation or therapeutic trial, not presented as proof that prediction, emotion or agency caused FND. Where new movement or cognitive change appears, reassessment remains necessary.
+
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -150,5 +179,7 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-2"></a>**[2]** | — | Drane DL, Fani N, Hallett M, Khalsa SS, Perez DL, Roberts NA. **A framework for understanding the pathophysiology of functional neurological disorder.** CNS Spectr. 2021;26:555–561. doi:10.1017/S1092852920001789. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7930164/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32883381/). [FND-CIT-0006](../../research/citation-index.md#fnd-cit-0006). |
 | <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
 | <a id="citation-4"></a>**[4]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1o5s0b8/wife_just_diagnosed_with_disassociative_fnd_feels/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0312](../../research/citation-index.md#fnd-cit-0312). |
+
+| <a id="citation-5"></a>**[5]** | Figure 2 | Person-described experience of adaptation, [public r/FND discussion](https://www.reddit.com/r/FND/comments/1sedrnt/does_anyone_actually_get_better/). Community notebook candidate; original speaker/context to be reconfirmed before publication. Not effectiveness evidence. |
 
 *Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*

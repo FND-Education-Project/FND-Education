@@ -2,7 +2,7 @@
 
 > **Working draft:** This page was automatically generated and is awaiting human authoring and further review.
 
-Lesson 22 explores finding Words for What Happens through everyday examples, collaborative adaptations and clinical reasoning.
+Lesson 23 explores finding Words for What Happens through everyday examples, collaborative adaptations and clinical reasoning.
 
 *Last reviewed: October 26, 2026*
 

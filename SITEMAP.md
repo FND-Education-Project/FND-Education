@@ -94,7 +94,8 @@ Use the sections below to drill down into the course, reference library, researc
 - [The Predictive Brain](course/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md)
 - [Interoception, Proprioception, and Outside Senses](course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md)
 - [Salience, Arousal, and Feedback Loops](course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md)
-- [Agency, Learning, and Your Own Adaptations](course/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md)
+- [Emotional Regulation and Involuntary Symptoms](course/module-07-prediction-interoception-and-agency/04-emotional-regulation-and-involuntary-symptoms.md)
+- [Agency, Learning, and Your Own Adaptations](course/module-07-prediction-interoception-and-agency/05-agency-learning-and-your-own-adaptations.md)
 
 </details>
 
