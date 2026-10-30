@@ -1,6 +1,6 @@
 # Cognitive Difficulties in FND
 
-> **Working draft:** This new lesson is a research-seeded teaching draft for human authoring. Its Person, Supporter and Clinician sections, and the linked community account, require editorial review, evidence checks and the project's subsequent audits. A cognitive symptom alone does not diagnose FCD.
+> **Working draft:** This new lesson is automatically generated, research-seeded teaching material awaiting human authoring. Its Person, Supporter and Clinician sections, and the linked community account, require editorial review, evidence checks and the project's subsequent audits. A cognitive symptom alone does not diagnose FCD.
 
 Lesson 21 introduces everyday thinking and memory difficulties, explains why they can appear alongside different FND symptoms without a separate Functional Cognitive Disorder diagnosis, and distinguishes them from dissociation.
 

@@ -54,7 +54,7 @@ LESSON_RE = re.compile(r"^(\d+)-.+\.md$", re.IGNORECASE)
 # Source order and visible module numbering are identical: 01–19.
 # Previous edition paths are removed; public lessons use /course/mN/page/.
 EXPECTED_MODULES = 19
-EXPECTED_LESSONS = 58
+EXPECTED_LESSONS = 59
 
 NUMBERED_MD_RE = re.compile(r"^(\d+)-(.+)\.md$", re.IGNORECASE)
 
@@ -516,7 +516,7 @@ def extract_reference_description(text: str) -> tuple[str, str | None]:
 
 
 def discover_course_pages() -> list[CoursePage]:
-    """Discover one uniform current course: module-01..19 and 58 lessons."""
+    """Discover one uniform current course: module-01..19 and 59 lessons."""
     readme = COURSE_ROOT / "README.md"
     if not readme.exists():
         raise ValueError("course/README.md is missing")

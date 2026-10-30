@@ -2,7 +2,7 @@
 
 **Part Two: Understanding Attention, Action, and Body Signals**<br>
 **Status:** Approved syllabus direction; source review completed October 26, 2026; lesson authoring and independent clinical review pending.<br>
-**Current course lessons:** 18–22 (five lessons). Human authoring, two subsequent lesson audits and independent clinical review remain pending.
+**Current course lessons:** 18–23 (six lessons). Human authoring, two subsequent lesson audits and independent clinical review remain pending.
 
 ## Purpose
 
@@ -30,7 +30,7 @@ The project lead approved the Lesson 19 **Person** prose and short additions abo
 
 **Supporter section — develop when human-authoring:** Use only **one or two research-informed practical principles**, not a second detailed account of the study: (a) the person's felt experience can differ from what a supporter observes or measures; (b) different sources of information (vision, touch, body-position sense, inside-body sensations) can help with communication or safe activities without revealing the symptom's cause. Show a small person-chosen adaptation, such as making a task visible or changing an uncomfortable light, then distinguish providing support from conducting examination or treatment. Respect consent, the supporter's own capacities, and when clinical assessment must take over. Avoid instructions to test eyes-closed balance, heartbeats, breathing, or provoke numbness or painful contact.
 
-**Keep the later lesson boundaries:** Lesson 20 owns salience/arousal/feedback, Lesson 21 owns emotional regulation, and Lesson 22 owns agency and personal adaptations. Lesson 19 only introduces assessment and rehabilitation; detailed techniques stay in the Reference Library and later rehabilitation modules.
+**Keep the later lesson boundaries:** Lesson 20 owns salience/arousal/feedback, Lesson 21 owns cognition (including a short dissociation distinction), Lesson 22 owns emotional regulation, and Lesson 23 owns agency and personal adaptations. Lesson 19 only introduces assessment and rehabilitation; detailed techniques stay in the Reference Library and later rehabilitation modules.
 
 ## Lesson 20 — Salience, Arousal, and Feedback
 - **Salience:** what the brain regards as important enough to prioritize.
@@ -47,11 +47,17 @@ The project lead approved the Lesson 19 **Person** prose and short additions abo
 
 **Supporter — to human-author:** One or two clear scientific principles suffice: a sensation can demand attention without the person choosing it, and arousal is not synonymous with anxiety or emotional distress. Show consent-based adjustments to an overstimulating shared situation (e.g. one speaker at a time, quieter setting), acknowledge the supporter's needs, and help identify when a clinician rather than a relative should direct treatment. Do not make supporters monitor salience, deliberately induce symptoms or diagnose feedback loops. Do not retell the Person's entire café scenario.
 
-**Sequence:** Lesson 20 ends by inviting Lesson 21 on emotion. The next Person lesson should teach emotional processing before discussing FND mechanisms, distinguish losing conversational access from having strong feelings, emphasize involuntary timing is not evidence of choosing to escape difficult conversations, and reserve detailed mutual conflict-resolution methods for Module 14.
+**Sequence (updated October 30):** Lesson 20 now leads to Lesson 21 on cognition. Lesson 21 distinguishes cognitive difficulties in wider FND from diagnosed FCD, briefly introduces dissociation, and prepares for Lesson 22 on emotional regulation. Lesson 22 will apply—not reteach—the cognitive vocabulary when a difficult discussion interrupts thinking or speech. Detailed conflict work stays in Module 14.
 
-## Lesson 21 — Emotional Regulation and Involuntary Symptoms (seeded working lesson)
+## Lesson 21 — Cognitive Difficulties in FND (new working lesson)
 
-**Placement implemented:** The fourth module-local lesson is now [Emotional Regulation and Involuntary Symptoms](../../../course/module-07-prediction-interoception-and-agency/04-emotional-regulation-and-involuntary-symptoms.md) (overall Lesson 21). Agency has moved to [the fifth module-local lesson](../../../course/module-07-prediction-interoception-and-agency/05-agency-learning-and-your-own-adaptations.md) (overall Lesson 22). This is the single current course, not a preserved earlier edition. No public learner database migration was performed; separate test-only account Worker contract needs reconciliation.
+**Placement implemented October 30:** [Cognitive Difficulties in FND](../../../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md) is now the fourth module-local lesson (`m7-4`, overall 21). It is a full research-seeded teaching draft, **not yet human-approved**. Teach cognition beyond memory: attention, encoding, working and episodic memory, semantic/word access, retrieval, organization and the experience of drawing conclusions with only some available information. Distinguish cognitive complaints in motor/seizure FND from a separately assessed FCD diagnosis; another cause can coexist. Dissociation has a **short** section on altered connection/awareness and memory gaps, *not* an in-depth dissociation or functional seizures lesson. Include clinical assessment and practical rehabilitation options without turning this into a recovery protocol. Use relevant FCD Reference Library pages and verified community context. Avoid repeating Module 6 attention teaching.
+
+**Audience plan:** Person demonstrates ordinary cognition and useful vocabulary with concrete age-14-level scenes, a brief FCD distinction, dissociation, assessment and safe supports. Clinician separates clinical diagnostic patterns from unmeasured prevalence estimates, evaluates differentials and function; Supporter uses evidence-informed communication aids without memory testing or imposing recollection. The next Emotion lesson should use the vocabulary without retelling the long memory examples.
+
+## Lesson 22 — Emotional Regulation and Involuntary Symptoms (seeded working lesson)
+
+**Placement updated:** Emotional Regulation is now [module-local lesson five](../../../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md) (`m7-5`, overall Lesson 22). Its expanded conversational Person draft remains in human authoring and has **not** been approved or committed as final text. Move its in-depth working/episodic memory teaching into Lesson 21 to avoid repetition; keep its emotion, medication, warning-pattern, intent and communication distinctions. No old reader-facing lesson or learner-data migration is required.
 
 **Distinct concept:** Emotional processing and emotional regulation are not synonyms for arousal. Teach the ordinary roles of emotional significance, response intensity, identifying feelings, modulation and recovery, then separate that general neuroscience from the mixed, group-level emotional-processing findings in FND. Emotion dysregulation is not a positive diagnostic sign, proven universal symptom, or established individual causal mechanism. Emotional difficulty may also reflect disability, pain, fatigue, sleep disruption, sensory/cognitive load, trauma-related experiences, medication or other conditions. Link to [Emotional Regulation, Irritability, and Overwhelm](../../../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md) for detailed assessment and practice boundaries.
 
@@ -65,7 +71,7 @@ The project lead approved the Lesson 19 **Person** prose and short additions abo
 
 **Congruity check:** Lesson 20 explains salience, arousal and feedback as broad processes; this proposed lesson asks how feelings are processed and regulated, and what is known or unknown about emotional strain accompanying involuntary functional symptoms; the existing agency lesson then distinguishes intent, perceived control and movement/response capacity. Keep each lesson's central question separate.
 
-## Lesson 22 — Sense of Agency, Learning, and Personal Adaptations
+## Lesson 23 — Sense of Agency, Learning, and Personal Adaptations
 - Agency as the *experience* of initiating or controlling an action, distinct from intent, responsibility and actual capacity.
 - Learning and expectations can shape later experiences; involuntary symptoms are not learned fakery.
 - Integrate concepts through **understand → notice → consider → adapt → review**.
@@ -80,8 +86,9 @@ The project lead approved the Lesson 19 **Person** prose and short additions abo
 **Pass the detailed teaching to its proper later home:**
 - **Lesson 19 — Interoception, Proprioception, and Outside Senses:** Thoroughly introduce the *sources* of body-position, internal-body and outside-world information, how sensing and interpretation differ, how vision/position sense guide walking and spatial orientation, and why a particular changed sensation or visual experience cannot be classified from an anecdote. This is where to deepen body-signal examples, not repeat the Lesson 18 bounce sequence.
 - **Lesson 20 — Salience, Arousal, and Feedback Loops:** Teach why some incoming information takes priority, how readiness and attention can change under noise, pain and competing demands, and how that may affect symptoms. Distinguish this from a blanket explanation of “prediction errors” or emotion.
-- **Lesson 21 — Emotional Regulation and Involuntary Symptoms:** Explore emotional processing and communication interruptions (cognitive difficulty, speech change, functional seizures), and why apparently convenient symptom timing does not prove avoidance. Do not repeat the conscious-safety-planning example as though expecting a seizure causes one.
-- **Lesson 22 — Agency, Learning, and Your Own Adaptations:** Deepen the difference between intention, preparing an action, experiencing control, and what the body can actually do. Apply the ideas through person-owned accommodations, not by repeating earlier science lessons.
+- **Lesson 21 — Cognitive Difficulties in FND:** Understand cognition and FCD as distinct from cognitive complaints, plus brief dissociation and appropriate assessment/rehabilitation.
+- **Lesson 22 — Emotional Regulation and Involuntary Symptoms:** Explore emotional processing and communication interruptions (cognitive difficulty, speech change, functional seizures), and why apparently convenient symptom timing does not prove avoidance. Do not repeat the conscious-safety-planning example as though expecting a seizure causes one.
+- **Lesson 23 — Agency, Learning, and Your Own Adaptations:** Deepen the difference between intention, preparing an action, experiencing control, and what the body can actually do. Apply the ideas through person-owned accommodations, not by repeating earlier science lessons.
 - **Module 8 and the Reference Library:** Keep presentation-specific differentiating questions, red flags, and recovery techniques there rather than inserting a long one-by-one symptom inventory into Lesson 18.
 
 **Quotation and audit boundary:** The Person section of Lesson 18 does not need an ill-fitting community quote; existing checked Supporter quotation can remain. Find quotations based on the actual teaching point, with direct provenance checks when possible. The draft is still being human-authored; don't mark it approved or start Audit 1/2 until owner acceptance.
