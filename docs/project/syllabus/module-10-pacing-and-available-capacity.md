@@ -10,19 +10,19 @@ Teach practical decision-making when movement, attention, sensory tolerance, ene
 
 ## Proposed focused lessons
 
-### Lesson 29 — What Uses Your Available Capacity?
+### Lesson 30 — What Uses Your Available Capacity?
 - Physical, cognitive, sensory, emotional and social activities may each carry costs.
 - Capacity can vary by task, setting and time; externally invisible effort still counts.
 - Rest is not a moral failure; participation and enjoyable activities count.
 - Distinguish observation of a pattern from assuming a specific cause.
 
-### Lesson 30 — Flexible Pacing When Capacity Changes
+### Lesson 31 — Flexible Pacing When Capacity Changes
 - Define boom-and-bust and limitations of an inflexible schedule.
 - Consider ranges for more-capable and less-capable days without overtracking.
 - Preserve accommodations, recovery opportunities and meaningful chosen activities.
 - Avoid routine encouragement to push through delayed or prolonged deterioration; assess post-exertional symptom exacerbation and coexisting conditions appropriately.
 
-### Lesson 31 — Balancing Rehabilitation, Rest, and Change
+### Lesson 32 — Balancing Rehabilitation, Rest, and Change
 - Practice, daily tasks and recreation share time and can add to the total demands a person manages. Capacity is descriptive; this is not a claim that all activities draw on one measured biological store.
 - Collaboratively review whether activity is sustainable, useful and safe.
 - Adjust plans after setbacks without attaching blame or promising steady improvement.

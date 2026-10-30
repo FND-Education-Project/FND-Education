@@ -8,20 +8,20 @@
 
 Teach readers how to *describe and distinguish features* of similar experiences, navigate the Reference Library, and frame questions for assessment. This replaces symptom-by-symptom course instruction, **not** professional diagnosis.
 
-## Lesson 23 — Finding Words for What Happens
+## Lesson 24 — Finding Words for What Happens
 - Name observations in familiar language: what is felt, seen, remembered or reported by witnesses.
 - Distinguish strength, voluntary initiation, involuntary movement, sensation, balance, awareness, responsiveness, memory and recovery.
 - Describe onset, time course, before/during/after patterns, change over time and effects on daily life.
 - Make room for multiple symptoms, coexisting disorders and uncertain explanations.
 - Apply, rather than rebuild, the symptom map taught in Module 4.
 
-## Lesson 24 — Similar Experiences, Different Features
+## Lesson 25 — Similar Experiences, Different Features
 - Compare *descriptions* (not causes): rhythmic shaking/sudden jerks; reduced strength/difficulty starting movement; falling with or without altered awareness; responsiveness/memory gaps; spinning/unsteadiness; speech production/word finding. Features can overlap in the same person or event.
 - Use paired narrative scenarios and explain what further information would be useful to a clinician.
 - Connect appropriate attention and body-sensing vocabulary from Modules 6–7 without claiming it caused the symptoms.
 - Explain why appearance alone cannot establish a functional versus epileptic, cardiac, metabolic, vestibular or other diagnosis.
 
-## Lesson 25 — Navigate the Reference Library and Ask Better Questions
+## Lesson 26 — Navigate the Reference Library and Ask Better Questions
 - Begin from plain-language descriptions and locate several potentially relevant reading paths.
 - Demonstrate the three audience sections (Person, Supporters, Clinicians) in the [Diagnostic Signs](../../../reference/diagnostic-signs/README.md) and [Recovery Techniques](../../../reference/recovery-techniques/README.md) collections, plus [Co-occurring Conditions](../../../reference/co-occurring-conditions/README.md).
 - Teach how to read “Refers to”, scope boundaries, evidence labels, uncertainty and safety notes.

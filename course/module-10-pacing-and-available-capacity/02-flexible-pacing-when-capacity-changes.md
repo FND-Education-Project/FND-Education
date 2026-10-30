@@ -2,7 +2,7 @@
 
 > **Working draft:** This page was automatically generated and is awaiting human authoring and further review.
 
-Lesson 30 explores flexible Pacing When Capacity Changes through everyday examples, collaborative adaptations and clinical reasoning.
+Lesson 31 explores flexible Pacing When Capacity Changes through everyday examples, collaborative adaptations and clinical reasoning.
 
 *Last reviewed: October 26, 2026*
 
