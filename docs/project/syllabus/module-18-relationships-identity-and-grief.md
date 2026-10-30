@@ -14,7 +14,7 @@ Address the personal and relational consequences of FND without implying that po
 
 ## Editorial handoff from Module 7 — conflict when symptoms interrupt communication
 
-**Current curriculum position:** This legacy-numbered syllabus file describes the topic now placed at **Module 14**. Module 7 now includes a seeded emotional-regulation lesson (overall Lesson 21); that lesson explains the normal processes, research uncertainty and why an involuntary symptom appearing during conflict is **not evidence of a convenient, deliberate escape**. Do not repeat the full neuroscience explanation here.
+**Current curriculum position:** This legacy-numbered syllabus file describes the topic now placed at **Module 14**. Module 7 now includes a cognitive-difficulties lesson (Lesson 21) and an emotional-regulation lesson (Lesson 22); that lesson explains the normal processes, research uncertainty and why an involuntary symptom appearing during conflict is **not evidence of a convenient, deliberate escape**. Do not repeat the full neuroscience explanation here.
 
 **Module 14's practical teaching responsibility:** In a disagreement, cognitive difficulties, loss of words/speech, dissociation or functional seizures may interrupt the person's ability to continue before the issue is resolved. These are examples, **not** a required sequence or proof that conflict caused an episode. Both the neurological difficulty and the supporter's concerns must remain credible; the issue does not disappear, and the timing does not establish manipulation.
 

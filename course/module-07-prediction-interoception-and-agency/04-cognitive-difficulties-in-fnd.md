@@ -71,6 +71,8 @@ That involves remembering an experience from your life.
 
 > **Episodic memory:** Remembering events you experienced, including what happened and, sometimes, where or when it happened.
 
+A person in an [FND community discussion](https://www.reddit.com/r/FND/comments/1uy5v2m/memory_issues_and_cancellations/) described finishing a telephone call and then forgetting the call had happened. That's their reported experience, not a way to diagnose the cause of someone else's memory difficulty.
+
 There's another possibility.
 
 You recognize a familiar kitchen tool and know exactly what it does, but its name won't come to mind.
@@ -351,4 +353,4 @@ General cognitive neuroscience, clinical FCD criteria and cognition observed in 
 | <a id="citation-5"></a>**[5]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** *JNNP*. 2020;91:1037–1045. [DOI](https://doi.org/10.1136/jnnp-2019-322281) · [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). Individually chosen daily-activity supports, not FCD-specific efficacy proof. |
 | <a id="citation-6"></a>**[6]** | — | Pick S, et al. **Cognition and metacognition in functional motor symptoms and functional seizures: a case-control study.** 2026. [PubMed record supplied for editorial research](https://pubmed.ncbi.nlm.nih.gov/41773078/). Group findings on attention and switching were reported; bibliographic details and applicability require independent verification. |
 
-**Editorial follow-up:** Consider a non-verbatim account of forgetting a telephone call from [this public FND discussion](https://www.reddit.com/r/FND/comments/1uy5v2m/memory_issues_and_cancellations/), as supplied in the author's research note. Original thread was inaccessible to direct verification, so no verbatim public quotation was inserted. Quote verification, audits, independent clinical review and generated-site validation remain pending.
+**Editorial follow-up:** Consider a non-verbatim account of forgetting a telephone call from [this public FND discussion](https://www.reddit.com/r/FND/comments/1uy5v2m/memory_issues_and_cancellations/), as supplied in the author's research note. Original thread was inaccessible to direct verification, so the Person section uses a linked, non-verbatim paraphrase instead of an exact quotation. Quote verification, audits, independent clinical review and generated-site validation remain pending.
