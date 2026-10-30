@@ -6,6 +6,8 @@ Lesson 19 explores interoception, Proprioception, and Outside Senses through eve
 
 *Last reviewed: October 26, 2026*
 
+*The Person section was human-authored and approved October 30, 2026. Supporter and Clinician sections remain working drafts awaiting human authoring.*
+
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -16,59 +18,335 @@ Lesson 19 explores interoception, Proprioception, and Outside Senses through eve
 
 ## For the Person With FND
 
-### How did you know you were hungry?
+### Three kinds of information
 
-You might notice a hollow feeling, a change in energy, a thought about food, or even irritability before you recognise hunger. Those clues don't all feel the same.
+You're in the kitchen making breakfast.
 
-Your nervous system gathers information from inside your body as well as from the world around you. Different systems help you understand different things.
+Your stomach growls. You hadn't realized how hungry you were.
 
-**[Interoception](../../glossary/README.md#interoception)** involves sensing and interpreting internal conditions, such as hunger, breathing, heartbeat or bladder fullness. (*citations* [1](#citation-1), [2](#citation-2))
+You reach toward the cupboard while looking at the toaster. Somehow, your hand finds the handle without your having to watch every movement of your arm.
 
-**[Proprioception](../../glossary/README.md#proprioception)** helps you know where your limbs are and how they are moving, even with your eyes closed.
+Then the kettle clicks off behind you.
 
-**[Exteroception](../../glossary/README.md#exteroception)** concerns information from the outside world, including sight, sound and touch.
+Three ordinary things just happened.
 
-These systems cooperate constantly. When you reach for a cup, you see where it is, sense your arm's position and may notice whether you're tired or uncomfortable.
+You noticed something **inside your body**, knew **where part of your body was**, and heard something **in the world around you**.
 
-### A feeling isn't a full explanation
+Your nervous system receives these different kinds of information all the time.
 
-Suppose your heart feels as though it's racing. That experience matters. But the feeling alone can't tell you why it's happening. Physical activity, medication effects, dehydration, an abnormal heart rhythm or other conditions may need consideration.
+Scientists have names for them. Understanding what each one does can help us make more sense of some unusual experiences with FND.
 
-The same is true of dizziness, numbness or a feeling of being disconnected from a limb. Knowing the *kind* of information involved helps you describe the symptom. It doesn't establish a diagnosis.
+### Information from the world around you
 
-And no one can consciously monitor every signal. Sometimes you only notice fatigue when you stop a demanding activity. Sometimes a sensation keeps drawing your attention. These experiences vary widely, both with and without FND.
+Let's begin with the kettle.
 
-### Why this belongs in our course
+You didn't need to see it to know it had switched off. Your ears picked up the sound.
 
-Scientists are studying whether differences in body-signal processing and interpretation contribute to some FND experiences. These are active areas of research, not proof that everyone with FND misreads their body.
+Your eyes tell you where the cupboard is. Your fingers feel the shape of its handle.
 
-Understanding interoception might still help you ask a useful question: “Is this a sensation I'm noticing, a measurement someone has taken, a difficulty controlling movement, or several things together?”
+These are examples of information coming from outside your body.
 
-That distinction can make medical conversations clearer.
+> **Exteroception:** Sensing information from the world around you, including sights, sounds, smells, tastes and things touching your skin.
 
-### Respecting the body you have
+That's a rather long word for something you use constantly!
 
-If you find it difficult to notice early fatigue, planning rest may be useful. If certain sensory input is overwhelming, a quiet space or adjusted lighting may make an activity more accessible. Neither adaptation requires you to label the underlying cause.
+Exteroception helps you recognize what's happening around you.
 
-You should not practise holding your breath, ignoring breathing trouble or pushing through a concerning symptom in order to test body awareness.
+It tells you that a car is approaching, that your phone is ringing or that the water from the tap feels cold against your fingers.
 
-### The signal, its description and its cause
+But getting information from the outside world is only part of the story.
 
-A person in an FND community described some of their sensations this way:
+### How do you know where your arm is?
+
+Return to the cupboard.
+
+You reached toward the handle without staring at your arm. Even while watching the toaster, you had some idea of where your hand and elbow were.
+
+How?
+
+Your nervous system receives information from muscles, tendons and joints that helps it understand the position and movement of your body.
+
+> **Proprioception:** Your body's sense of where its parts are and how they're moving, even when you aren't looking at them.
+
+Imagine pulling on a jacket.
+
+You can guide your second arm into its sleeve without watching your elbow every moment.
+
+Or think about sitting in a chair and shifting your feet underneath you.
+
+You usually have some sense of where your legs are, even when they're out of sight.
+
+That information is especially useful for movement.
+
+Your eyes can tell you where an object is. Your body-position sense helps you know where your hand is in relation to it.
+
+Together, they help you reach for the object.
+
+### What about information from inside your body?
+
+Now let's return to your growling stomach.
+
+You noticed hunger.
+
+Perhaps you also noticed that you were thirsty, warm or unusually tired.
+
+Your nervous system receives information about what's happening inside your body, too.
+
+> **Interoception:** Sensing and interpreting conditions inside your body, such as hunger, thirst, heartbeat, breathing and bladder fullness. Much of this happens without conscious awareness.
+
+Interoception is fascinating because you don't have to think about every internal change.
+
+Your body responds to things such as temperature and physical activity throughout the day.
+
+Sometimes you become aware of what's happening.
+
+Your stomach growls. You feel thirsty. You notice your heart beating after climbing the stairs.
+
+Other times, your body makes adjustments without you noticing.
+
+And sometimes you may only recognize a need after it has become quite strong.
+
+Perhaps you've been concentrating on an interesting project and suddenly realize you should have eaten an hour ago.
+
+Your body has been sending information, but you weren't necessarily paying attention to it.
+
+**Receiving information and consciously noticing it aren't quite the same thing.**
+
+### Your brain combines these messages
+
+We've learned three names. What do we call them together?
+
+> **Sensory systems:** The different ways your nervous system gathers information from the world, your body's position and movement, and conditions inside your body.
+
+You can call what they provide **sensory information**. When your brain organizes and makes sense of it, that's called **sensory processing**.
+
+Let's put our three kinds of information together.
+
+Imagine you're carrying a basket of laundry through your home.
+
+Your eyes tell you where the doorway is.
+
+Your body-position sense helps you know where your arms are, even though the basket blocks part of your view.
+
+You notice that you're becoming warm and tired from carrying it.
+
+Your brain brings this information together while you move.
+
+It also uses what it learned from previous experiences.
+
+Remember Lesson 18? We learned that your brain makes predictions about what's likely to happen and adjusts them as new information arrives.
+
+Now we've met some of the information those predictions work with.
+
+And here's something important:
+
+**These three sensing systems aren't separate little rooms in your brain. They work together.**
+
+Other information matters too. For example, your inner ears help with balance and sensing head movement.
+
+You don't have to consciously organize all of this. Your nervous system does an extraordinary amount of work for you.
+
+### When what you see and what you feel don't agree
+
+Imagine reaching down to adjust your shoe.
+
+You can see your foot.
+
+But something feels strange.
+
+Your foot seems farther away than it should, or your leg doesn't feel quite as clearly connected to the rest of your body.
+
+You look again.
+
+Your foot is exactly where you expected to see it.
+
+Yet the unusual feeling remains.
+
+That can be confusing. Your eyes are giving you one kind of information, while your experience of your body seems to be telling you something different.
+
+Some people with FND report unusual experiences of body position, sensation or movement.
+
+It doesn't mean that the foot has physically moved or that the person is imagining the sensation.
+
+But it also doesn't tell us exactly why the sensation feels different.
+
+Knowing the difference between **seeing where your foot is** and **feeling where your foot is** gives us better words for describing the experience.
+
+### A sensation, a measurement and an explanation
+
+Here's another situation.
+
+You're sitting quietly when you suddenly notice your heart beating strongly.
+
+It feels fast.
+
+What do you know?
+
+You know what you're experiencing: a strong or rapid-feeling heartbeat.
+
+But do you know how fast your heart is actually beating?
+
+Not necessarily.
+
+A measurement of your pulse or heart rhythm might help answer that question.
+
+And even if you know the measured rate, you still may not know *why* it's happening.
+
+Perhaps you've just been physically active. Perhaps you're dehydrated or taking a medication that affects your heart rate. Sometimes a heart rhythm problem or another medical condition needs assessment.
+
+These are three different questions:
+
+1. **What am I feeling?** My heartbeat feels unusually strong or fast.
+2. **What can be measured?** How fast is my heart beating, and what is its rhythm?
+3. **Why is it happening?** What explains the sensation or measurement?
+
+The same idea applies to many sensations.
+
+A person might describe dizziness, numbness, tingling or feeling disconnected from part of their body.
+
+A person in the FND community described their experience this way:
 
 > “I get tingling, needles, numbness, and burning sensations.”
 
-*Figure 1. Community experience — source-linked candidate.* These words describe a lived sensation, not a diagnosis of its cause. [Public discussion](https://www.reddit.com/r/FND/comments/1hmedeg/please_explain_your_symptoms_in_detail/). Exact wording and context require confirmation before publication. (*citation* [8](#citation-8))
+*Community experience — quotation candidate awaiting source verification.* [Public discussion](https://www.reddit.com/r/FND/comments/1hmedeg/please_explain_your_symptoms_in_detail/). (*citation* [8](#citation-8))
 
-Those are useful descriptions because another person can understand **what it feels like**, even if the cause hasn't been established. A clinician may ask whether the sensation is affected by position, illness, medication, sensory context or another condition. The reported experience matters; an explanation needs its own evidence.
+Those words tell us quite a lot about what the person feels.
 
-The research also needs this distinction. One FND study found differences in certain questionnaire and brain-response measures involving heartbeats, without a statistically significant difference in one heartbeat-counting accuracy measure. These aren't interchangeable measurements or proof that every person with FND incorrectly senses their body. (*citation* [3](#citation-3))
+They don't tell us why.
 
-**Something to think about:** When you say “I feel strange,” what sort of information are you trying to describe: inside-the-body sensation, body position, awareness, or something outside you?
+And that's perfectly fine. **Describing an experience accurately is useful even when its cause isn't understood yet.**
 
-**One small step:** Try replacing one vague description with one precise, ordinary phrase. “My right foot feels distant,” for example, says more than “My leg is weird.” You don't have to decide why it happens.
+### What might body sensing have to do with FND?
 
-Next we will look at why certain information becomes impossible to ignore.
+Now we're ready to connect these ideas to FND.
+
+Some people with FND experience changes in sensation, body awareness or the feeling of where a body part is.
+
+Others experience dizziness, unusual internal sensations or difficulties coordinating movement.
+
+Scientists are investigating whether differences in how the brain receives and combines bodily information might contribute to certain functional symptoms.
+
+Remember the foot that looked to be in the right place but felt strangely distant?
+
+One question scientists might explore is how information about body position works together with what the eyes see.
+
+Another question is whether people with FND notice and interpret certain internal body signals differently.
+
+There's already some interesting research.
+
+In one study, scientists examined how people with FND experienced their heartbeats and how their brains responded to them.
+
+They used several different ways to study body awareness.
+
+Interestingly, **the different measurements didn't all tell the same story**.
+
+Some showed differences between the FND group and people without FND. Another task didn't find a clear difference between the groups. (*citation* [3](#citation-3))
+
+That teaches us something important.
+
+**Being aware of a sensation, judging it accurately and measuring the brain's response to it are different things.**
+
+Scientists are still learning how these abilities relate to FND.
+
+But you can see why studying them separately matters. If we assume they're all the same thing, we might miss something important about how the nervous system works.
+
+### Can these senses be tested?
+
+Yes. A clinician may gently touch different areas of your skin and ask what you feel.
+
+They might carefully move your finger or toe while your eyes are closed and ask which direction it moved. That helps check your body-position sense.
+
+If you feel faint when standing, they might measure your pulse and blood pressure lying down and standing up.
+
+These tests tell clinicians different things. They may help identify which abilities have changed or whether another medical condition needs attention.
+
+**No single sensory test diagnoses FND.** Clinicians consider the findings alongside your history, the rest of your examination and any tests you need.
+
+### What does this look like in everyday life?
+
+Think about three people who all say, "Something feels wrong."
+
+**The first person** says their leg feels distant, even though they can see exactly where it is.
+
+They might have difficulty describing their body's position or how the leg feels.
+
+**The second person** becomes uncomfortable under bright lighting and finds it increasingly difficult to concentrate.
+
+Their surroundings are providing information that has become difficult to manage. Migraine or other conditions may contribute.
+
+**The third person** feels dizzy when standing.
+
+Are they experiencing a spinning sensation, feeling faint or having trouble with balance?
+
+Those differences matter because each description may lead to different questions and medical assessments.
+
+These three people may all have FND, but their experiences aren't necessarily caused by the same thing.
+
+**Understanding what kind of information is involved helps us ask better questions. It doesn't establish the cause of the symptom.**
+
+### Can this knowledge help with recovery?
+
+Sometimes understanding the sensory systems helps a therapist choose useful support or rehabilitation.
+
+If your hand's position feels uncertain, an occupational therapist might help you use sight and touch together while folding a towel or handling another familiar object.
+
+If placing your foot is difficult, a physiotherapist might use a clear visual target while helping you practise a safe movement.
+
+If ordinary contact is painful or overwhelming, a therapist might explore a gradual, tolerable return to selected textures or activities.
+
+Different problems need different approaches, and not every technique suits every person.
+
+**Information from one sensory system can sometimes help you manage an activity when another kind of information feels unreliable.**
+
+This doesn't prove which system caused the symptom. It means we can look for a safer, more workable way to do something important.
+
+You can explore the [Functional Sensory Symptoms diagnostic reference](../../reference/diagnostic-signs/07-functional-sensory-symptoms.md) and the [detailed sensory recovery techniques](../../reference/recovery-techniques/functional_sensory_symptoms/README.md) when you're ready for more.
+
+### What can we do with this understanding?
+
+You don't need to monitor every sensation or conduct experiments on your body.
+
+Instead, you can begin using more precise words when something feels unusual.
+
+Compare these two descriptions:
+
+"My leg feels weird."
+
+And:
+
+"I can see where my foot is, but it doesn't feel like it's in the right place."
+
+The second gives someone more information about your experience.
+
+Or compare:
+
+"I feel dizzy."
+
+With:
+
+"When I stand up, I feel as though I'm going to faint."
+
+That description helps a clinician know which questions to ask next.
+
+You haven't had to figure out the cause yourself.
+
+You've simply described what you experience.
+
+### What have we learned?
+
+Your nervous system receives information from the world around you, from your body's position and movement, and from inside your body.
+
+These **sensory systems** work together. Your brain also uses attention, memory and predictions to help understand what's happening.
+
+Scientists are investigating whether differences in these abilities contribute to some FND symptoms.
+
+Understanding the kinds of information your brain receives gives us better words for our experiences and better questions to bring to our care team.
+
+**Something to think about:** Have you ever found it difficult to explain a sensation because you weren't sure whether it involved your body position, something inside you or something in your surroundings?
+
+**One small step:** Choose one sensation you already know well and describe it using ordinary, precise words. You don't need to test it or work out the cause.
+
+In our next lesson, we'll explore why some information becomes particularly important to the brain—and why certain sensations, sounds or demands can become so difficult to ignore.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
