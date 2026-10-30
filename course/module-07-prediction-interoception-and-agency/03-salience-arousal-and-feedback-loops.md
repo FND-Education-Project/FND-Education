@@ -346,9 +346,7 @@ Salience and arousal are important whether you're feeling emotional or not.
 
 Pain can demand attention. Physical activity can increase arousal. A loud sound can interrupt concentration.
 
-In our next lesson, we'll explore emotional regulation as another important part of how the nervous system works.
-
-We'll also examine why neurological symptoms may interrupt a difficult conversation—and why the timing of those symptoms doesn't tell us what someone intended.
+Before we explore emotions, we'll look at how thinking and memory can become difficult—even during ordinary activities. That will help us understand why emotional conversations can become harder, too.
 
 For now, we've learned something different.
 
@@ -372,7 +370,7 @@ They also give us useful questions to explore with our care team.
 
 You don't need to provoke symptoms or prove a feedback loop exists.
 
-Next, we'll explore emotions: how the brain responds to them, how we regulate them, and why the ability to communicate can sometimes change when a situation becomes emotionally demanding.
+Next, we'll explore cognitive difficulties: why questions, words and familiar information sometimes seem to disappear, and how this relates to—but isn't the same as—a diagnosis of FCD.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>

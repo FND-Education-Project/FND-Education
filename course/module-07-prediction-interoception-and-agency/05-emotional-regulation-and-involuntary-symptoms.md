@@ -2,7 +2,7 @@
 
 > **Working draft:** This lesson is research-seeded automatically generated material awaiting human authoring, both subsequent lesson audits and independent clinical review. Community quotations are source-linked **candidates** pending renewed verification of speaker, wording and context.
 
-Lesson 21 considers how emotions are processed and regulated, why conversations can become difficult when functional symptoms arise, and why timing does not establish intent.
+Lesson 22 considers how emotions are processed and regulated, why conversations can become difficult when functional symptoms arise, and why timing does not establish intent.
 
 *Last reviewed: October 28, 2026*
 
