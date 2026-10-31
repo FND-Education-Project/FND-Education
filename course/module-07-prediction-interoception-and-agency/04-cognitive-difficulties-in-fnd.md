@@ -1,6 +1,6 @@
 # Cognitive Difficulties in FND
 
-> **Working draft:** This new lesson is automatically generated, research-seeded teaching material awaiting human authoring. Its Person, Supporter and Clinician sections, and the linked community account, require editorial review, evidence checks and the project's subsequent audits. A cognitive symptom alone does not diagnose FCD.
+> **Editorial status:** The Person section was human-authored and approved October 31, 2026. Supporter, Clinician and Research remain research-seeded working sections requiring review. The community account and citations still need source verification; two post-edit audits and independent clinical review remain pending.
 
 Lesson 21 introduces everyday thinking and memory difficulties, explains why they can appear alongside different FND symptoms without a separate Functional Cognitive Disorder diagnosis, and distinguishes them from dissociation.
 
@@ -33,11 +33,11 @@ What were you going to do next?
 
 For a moment, you're stuck.
 
-Perhaps you remember when you see the open cupboard. Perhaps you need to look at the recipe again. Or perhaps the next step doesn't come back at all.
+Perhaps you remember when you see the open cupboard. Perhaps you need to look at the recipe again. Or the next step doesn't come back at all.
 
 Most people have experienced a moment like that.
 
-But imagine it happens often, or during tasks that used to feel easy. Imagine losing the thread of a conversation, forgetting a familiar fact or needing much more effort to follow a set of instructions.
+But imagine it happening often, even during tasks that used to feel easy. You lose the thread of a conversation, forget a familiar fact or need much more effort to follow instructions.
 
 Thinking difficulties can affect more than schoolwork or memory tests. They can change how you cook, talk with someone, travel or manage your day.
 
@@ -71,7 +71,7 @@ That involves remembering an experience from your life.
 
 > **Episodic memory:** Remembering events you experienced, including what happened and, sometimes, where or when it happened.
 
-A person in an [FND community discussion](https://www.reddit.com/r/FND/comments/1uy5v2m/memory_issues_and_cancellations/) described finishing a telephone call and then forgetting the call had happened. That's their reported experience, not a way to diagnose the cause of someone else's memory difficulty.
+Although one person's experience cannot tell us the cause of someone else's memory difficulty, someone in an [FND community discussion](https://www.reddit.com/r/FND/comments/1uy5v2m/memory_issues_and_cancellations/) described finishing a telephone call and then forgetting the call had happened.
 
 There's another possibility.
 
@@ -105,9 +105,9 @@ And when you've learned something but cannot bring it back when you need it, the
 
 You can see why "memory loss" is such a broad description.
 
-The problem might involve noticing the information, taking it in, keeping it available, or finding it again.
+The problem might involve noticing the information, taking it in, keeping it available or finding it again.
 
-Sometimes more than one of these is difficult at once.
+More than one of these can be difficult at once.
 
 ### What about thinking, planning and switching tasks?
 
@@ -117,7 +117,7 @@ You know the ingredients. You know the method.
 
 But today, organizing the steps feels unusually hard.
 
-Perhaps you begin chopping vegetables, remember that the oven needs heating, then forget what you had started.
+You begin chopping vegetables, remember that the oven needs heating, then forget what you had started.
 
 You haven't necessarily forgotten how to cook.
 
@@ -125,9 +125,9 @@ You may be having difficulty organizing and shifting between parts of the task.
 
 > **Executive functions:** Abilities that help us start, organize, plan, change course and complete activities.
 
-Another person might know what they want to say but need much longer to answer.
+Another person knows what they want to say but needs much longer to answer.
 
-Or they may follow a conversation until a second person starts speaking. Then the thread disappears.
+Or they follow a conversation until a second person starts speaking. Then the thread disappears.
 
 These difficulties can involve thinking speed, attention, language access and memory. They often overlap.
 
@@ -139,131 +139,301 @@ Suppose you're discussing tomorrow's plans.
 
 You remember agreeing to go shopping.
 
-But you can't bring to mind an important detail: the other person had offered to change the time because of your appointment.
+But what you don't remember is that the other person had offered to change the time because of your appointment.
 
-You continue the conversation using what you can remember.
+The conversation continues.
 
-You might even reach a conclusion that feels sensible: "They never considered my appointment."
+You don't realize your memory is limiting you because, at the moment, thinking feels as it usually does; you're using what you remember.
+
+You reach a conclusion that feels sensible:
+
+"They never considered my appointment."
 
 The other person remembers making the offer and doesn't understand your response.
 
-Something important may have become unavailable, even though you could still think and talk.
+Have you experienced that? What does it feel like when someone else's memory of events is different from yours?
+
+Something important has become unavailable, even though you can still think and talk.
 
 **A conclusion can feel convincing when it fits the information you can access right now—even if something important is missing.**
 
-This can happen to anyone. It is not a special rule about people with FND or a sign that they are dishonest.
+This can happen to anyone.
 
 And remembering something differently doesn't automatically prove which person's account is correct.
 
 We'll return to the emotional side of that experience in our next lesson.
 
-### Does having these difficulties mean I have FCD?
+### Does having these difficulties mean I have Functional Cognitive Disorder?
 
-Not necessarily.
+Imagine two people with FND.
 
-Some people with FND mainly experience movement difficulties or functional seizures, yet also report trouble concentrating, remembering or finding words.
+The first has difficulty walking and also lives with migraine.
 
-These difficulties deserve attention even without a separate cognitive diagnosis.
+During a particularly difficult migraine, reading becomes exhausting. They lose their place repeatedly and struggle to remember instructions.
 
-Other health conditions can affect thinking, too. Migraine, pain, poor sleep, fatigue, medications and other illnesses may contribute. More than one explanation can apply.
+The second person experiences functional seizures.
 
-There is also a diagnosis specifically concerned with certain patterns of cognitive difficulty.
+They can explain a familiar activity quite easily while chatting with a friend.
 
-> **Functional Cognitive Disorder (FCD):** A condition involving troublesome cognitive difficulties, with positive clinical evidence of a functional pattern. A clinician makes this diagnosis by assessing the pattern—not simply because a scan is normal or someone reports brain fog.
+But when asked to describe the same activity step by step, the information suddenly becomes much harder to reach.
 
-One important clue can be a meaningful difference in how the same cognitive ability works in different situations, after considering other reasons for the difference.
+Both people are having trouble with cognition.
 
-For example, someone may have great difficulty bringing up information during one kind of task yet show better access to it in another.
+But notice the difference.
 
-That is something a clinician explores carefully. One successful moment, ordinary tiredness or a disagreement about memory does **not** prove FCD.
+For the first person, migraine may be affecting their ability to think clearly.
 
-**Cognitive difficulties are a description of an experience. FCD is a diagnosis that needs its own assessment.**
+For the second, an ability that works during one activity seems much harder to use during another.
 
-You can have FND and cognitive difficulties without anyone establishing a separate FCD diagnosis.
+Neither example tells us the cause on its own.
 
-### What about the research?
+But the second raises a question that can be particularly interesting when investigating Functional Cognitive Disorder.
 
-These difficulties are important enough that scientists study attention and thinking in people with functional movement symptoms and functional seizures—not only in people diagnosed with FCD.
+> **Functional Cognitive Disorder (FCD):** A condition in which thinking or memory becomes difficult to use reliably. An important clue is that the same ability can work much better in one situation than another, in a way that ordinary tiredness or differences between tasks don't fully explain. A clinician looks for a clear pattern before making the diagnosis.
 
-Group studies have reported differences in some attention and task-switching abilities.
+Imagine knowing how to do something but being unable to rely on that knowledge whenever you need it.
 
-That doesn't mean every person with FND has the same difficulty, or that every memory problem is functional.
+The ability hasn't necessarily disappeared.
 
-It does help explain why cognitive experiences deserve a place in an FND course.
+Yet reaching or using it can become unexpectedly difficult.
 
-The deeper research, including what the tests actually measure, belongs in the Clinician section and our Reference Library.
+That helps us understand why someone with FCD may complete a task successfully one day—or in one situation—and struggle greatly with a similar task elsewhere.
 
-### Where does dissociation fit?
+This difference isn't a choice.
 
-There's one more experience we should introduce.
+And it doesn't mean the person's abilities are always intact underneath every difficulty.
 
-Imagine reaching the end of a familiar journey and realizing that part of it feels strangely distant.
+It means that **how thinking works can be less reliable than expected**.
 
-Or perhaps you're in a room you know well, but for a while everything seems unreal.
+Now return to our two people.
 
-Some people describe feeling disconnected from themselves or their surroundings. Others report gaps in awareness or memory.
+The person with migraine needs their migraine and cognitive difficulties understood together.
+
+The person who struggles to access familiar information in different situations may need a closer examination of how their thinking works.
+
+They could have different explanations, overlapping explanations or other conditions that need investigation.
+
+**Having cognitive difficulties doesn't automatically mean having FCD.**
+
+This is important because cognitive difficulties can accompany other FND symptoms without a separate FCD diagnosis.
+
+### What are scientists learning?
+
+Imagine two people playing a simple game on a computer.
+
+At first, the rule is easy.
+
+Press the left button when a blue shape appears. Press the right button when a yellow shape appears.
+
+Both people learn the rule and start getting the answers right.
+
+Then the rule changes!
+
+Now blue means right, and yellow means left.
+
+The first person has functional movement symptoms.
+
+They completed the earlier rounds successfully, but now they slow down and make a few mistakes while adjusting.
+
+The second person has functional seizures.
+
+They also learned the first rule. But after it changes, they keep using the old rule for several attempts before getting back on track.
+
+Both finish the task, but changing rules requires extra effort.
+
+These are imagined examples of what a thinking task might reveal.
+
+Scientists use tasks like these to study attention and the ability to switch between activities.
+
+Some studies have found that, on average, groups of people with functional movement symptoms or functional seizures have greater difficulty with certain attention and switching tasks than comparison groups.
+
+That doesn't mean every person with FND struggles with these tasks.
+
+But it does tell us something valuable.
+
+**Cognitive difficulties deserve attention even when movement problems or seizures are the person's main FND symptoms.**
+
+### When you feel disconnected
+
+Now imagine something different.
+
+You're sitting in your living room.
+
+You know exactly where you are.
+
+You can see the furniture and hear someone talking nearby.
+
+But the room suddenly feels strange.
+
+Everything seems distant, almost as though you're watching it through a window.
+
+You know the room is real, yet it doesn't quite feel real.
+
+Or you feel disconnected from yourself, as though you're not fully present.
+
+Scientists have a name for experiences like these.
 
 > **Dissociation:** A change in how connected or aware someone feels toward themselves, their surroundings, memories or experiences.
 
-Dissociation is **not another name for FCD**.
+Dissociation can take several forms.
 
-A person can forget a conversation without dissociating. Someone can feel detached from their surroundings while still remembering what happened.
+A person may feel detached from their surroundings.
 
-And a gap in memory doesn't tell us by itself whether dissociation, a seizure, sleep, medication or another issue was involved.
+Another feels disconnected from their own body.
 
-Some people with FND experience dissociation, and some do not. It needs its own careful assessment when relevant.
+Someone else experiences a gap in awareness or memory.
 
-For now, remember the distinction: **a problem remembering information and a change in awareness or connection can overlap, but they aren't the same experience**.
+Now return to our earlier telephone conversation.
 
-### Can clinicians examine cognitive difficulties?
+A person can forget a telephone call without experiencing dissociation.
 
-Yes.
+Someone can feel disconnected during a conversation but remember it afterward.
 
-A clinician can begin by asking *what* becomes difficult and *when*.
+And another person may experience both difficulties together.
 
-Do you lose the question before you answer? Forget a conversation later? Recognize a person but lose their name? Have trouble organizing an activity?
+**Dissociation and memory difficulties can overlap, but they aren't the same thing.**
 
-They may look at thinking during different tasks and consider how pain, fatigue, sensory demands or other conditions affect your performance.
+Some people with FND experience dissociation; others don't.
 
-Depending on the problem, a neurologist, neuropsychologist, occupational therapist or speech-language therapist may contribute.
+And missing time doesn't automatically tell us whether dissociation, a seizure or another condition was involved.
 
-Testing doesn't always recreate the demands of a whole day. It's important to describe what happens at home, what support you already use and whether an activity leaves you exhausted afterward.
+Learning the difference gives us better words for describing what happened.
 
-A new, sudden or substantially worsening change in memory, speech, awareness or thinking needs medical assessment rather than automatically being attributed to FND.
+### How can a clinician tell what's happening?
 
-### Can knowing the difference help with recovery?
+Imagine sitting with a clinician.
 
-It can help us choose supports that fit the actual difficulty.
+You explain:
 
-If an instruction disappears while you're using it, having one written step at a time may help.
+"My memory isn't working properly."
 
-If you forget what was agreed in a conversation, a short written summary could make the information available later.
+They ask you to tell them more.
 
-If organizing several steps is the problem, a familiar checklist may make the task easier to finish.
+You describe forgetting the next step while cooking.
 
-A therapist may help you practise meaningful activities, adapt the task and evaluate what helps. Medical treatment of contributing conditions matters too.
+You explain that you can't always remember conversations from the day before.
 
-These supports aren't proof of a particular diagnosis, and they don't have to be removed just because you manage to complete a task.
+And you describe knowing a familiar fact but being unable to bring it to mind.
+
+The clinician notices that you're describing three different difficulties.
+
+So they ask different questions.
+
+Did the information disappear while you were using it?
+
+Do you remember the conversation but lose its details?
+
+Can a familiar word or fact return when something reminds you of it?
+
+These questions help the clinician decide what to examine.
+
+They may ask you to complete thinking or memory tasks and compare how you manage different activities.
+
+They'll also consider migraine, sleep, pain, medications and other health conditions that can affect thinking.
+
+Several professionals can help.
+
+A neurologist investigates the symptoms and possible causes.
+
+A neuropsychologist can examine different thinking abilities in more detail.
+
+An occupational therapist looks at how cognitive difficulties affect activities such as cooking, managing appointments or organizing a day.
+
+A speech-language therapist can help assess difficulties understanding or finding words.
+
+But there's something important to remember.
+
+**A short appointment doesn't necessarily show what your thinking is like throughout an entire day.**
+
+Perhaps you complete a task successfully during an examination but struggle later when you're exhausted.
+
+Or you complete it because you've learned to use helpful reminders.
+
+These details matter.
+
+The aim is to understand your abilities and difficulties well enough to guide useful care.
+
+A new, sudden or substantially worsening change in thinking, memory, speech or awareness still needs appropriate medical assessment.
+
+### Can understanding cognition help with recovery?
+
+Let's go back to our kitchen.
+
+You're following a recipe, but interruptions keep making you lose your place.
+
+Now imagine placing the recipe on the counter and checking off each step as you finish it.
+
+Someone asks you a question.
+
+You answer.
+
+Then you turn back to the recipe.
+
+This time, you know where to continue.
+
+Your working memory didn't have to keep the next step available throughout the interruption.
+
+The written recipe helped do that job.
+
+Here's another example.
+
+Someone often forgets what was decided during telephone conversations.
+
+After an important call, they make a short note of the agreement.
+
+Later, they can return to the note instead of depending entirely on their memory.
+
+Or consider someone who knows how to complete a familiar activity but struggles to organize the steps.
+
+A checklist helps them begin and continue without having to work everything out again.
+
+All three examples have something in common.
+
+**Understanding the difficulty helps us choose support that fits the task.**
+
+But support isn't the only possibility.
+
+An occupational therapist or another professional may help a person practise meaningful activities, develop skills or make changes that improve independence.
+
+Rehabilitation can involve learning, practice and adaptations.
+
+And a helpful adaptation doesn't automatically have to disappear as someone improves.
 
 **Being able to do something with useful support still counts as doing it.**
 
-For a more detailed exploration, see [Understanding Functional Cognitive Disorder](../../reference/functional-cognitive-disorder.md), the [cognitive assessment reference](../../reference/diagnostic-signs/12-functional-cognitive-disorder.md) and the [recovery techniques collection](../../reference/recovery-techniques/functional_cognitive_disorder/README.md).
+Successfully using support also doesn't prove why the difficulty happened.
+
+For a deeper exploration, our Reference Library includes [Understanding Functional Cognitive Disorder](https://github.com/FND-Education-Project/FND-Education/blob/main/reference/functional-cognitive-disorder.md), [Cognitive Diagnostic Signs](https://github.com/FND-Education-Project/FND-Education/blob/main/reference/diagnostic-signs/12-functional-cognitive-disorder.md) and [Cognitive Recovery Techniques](https://github.com/FND-Education-Project/FND-Education/blob/main/reference/recovery-techniques/functional_cognitive_disorder/README.md).
 
 ### What have we learned?
 
-Thinking involves several abilities working together.
+We began in the kitchen, forgetting what we were about to do.
 
-Working memory helps keep information available right now. Episodic memory concerns experiences from our lives. Semantic memory involves the things we know. Attention, learning, finding information again and planning all matter too.
+But we've discovered that thinking involves several abilities.
 
-A cognitive difficulty doesn't automatically mean someone has FCD. Nor should every difficulty be blamed on FND when other conditions may contribute.
+**Working memory** helps us keep information available while using it.
 
-We've also introduced dissociation, which may involve feeling disconnected or experiencing changes in awareness. It can overlap with memory complaints without being the same thing.
+**Episodic memory** helps us remember experiences.
 
-**Something to think about:** When you say "I forgot," what might have happened? Did the information fail to register, disappear while you were using it, or become hard to bring back later?
+**Semantic memory** involves the things we know.
+
+Attention, learning, finding information again and organizing activities matter too.
+
+We've learned that cognitive difficulties can accompany FND without necessarily meaning someone has a separate FCD diagnosis.
+
+We've also met dissociation—a different experience that can involve feeling disconnected or changes in awareness.
+
+And we've seen how understanding the particular difficulty can help us explain it, seek assessment and choose useful support.
+
+**Something to think about:** When you say "I forgot," what happened? Did the information fail to register, disappear while you were using it, or become hard to bring back later?
 
 **One small step:** Think of one ordinary support that already makes a task easier—perhaps a written reminder or a familiar routine. You don't need to test your memory to learn from it.
 
-Next, we'll explore why difficulty remembering, thinking or speaking can sometimes become frightening or frustrating—and why an involuntary symptom during a difficult conversation doesn't tell us what someone intended.
+In our next lesson, we'll explore what happens when thinking difficulties enter an emotional situation.
+
+What if you want to explain something important, but the information you need suddenly isn't available?
+
+And what if that difficulty itself becomes frightening or frustrating?
 
 ***
 
