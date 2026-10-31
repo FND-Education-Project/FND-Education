@@ -1,6 +1,6 @@
 # Emotional Regulation and Involuntary Symptoms
 
-> **Working draft:** This lesson is research-seeded automatically generated material awaiting human authoring, both subsequent lesson audits and independent clinical review. Community quotations are source-linked **candidates** pending renewed verification of speaker, wording and context.
+> **Editorial status:** The Person section was human-authored and explicitly approved October 31, 2026. Supporter, Clinician and Research sections remain research-seeded working drafts pending their own human authoring, source verification, subsequent audits and independent clinical review.
 
 Lesson 22 considers how emotions are processed and regulated, why conversations can become difficult when functional symptoms arise, and why timing does not establish intent.
 
@@ -17,67 +17,699 @@ Lesson 22 considers how emotions are processed and regulated, why conversations 
 
 ## For the Person With FND
 
-### When an ordinary disagreement becomes harder than expected
+### When a conversation suddenly becomes difficult
 
-Two people are trying to decide how to spend the weekend. Both have reasonable wishes. They begin to disagree.
+Jamie has missed the last two family gatherings.
 
-One person has FND. They want to explain their view, but suddenly have trouble holding the last question in mind. They ask for it again. Then the words needed to reply are harder to find.
+His niece keeps asking when she'll see him again, and the family has finally arranged Sunday lunch.
 
-The other person notices that this happens just when the discussion becomes difficult. They might wonder whether the conversation is being avoided. The person with FND might be bewildered too: *I wanted to finish explaining. What happened to my ability to do it?*
+He really wants to go.
 
-Some people experience stronger functional symptoms during emotional strain. Others do not, and symptoms may arrive with no recognizable trigger. **The timing of an involuntary symptom is not proof that someone produced it to escape a disagreement.** Nor does an interrupted conversation make either person's concern unimportant.
+His wife, Alex, wants to go too. But she remembers their last visit. The journey and crowded house left Jamie struggling for the rest of the evening.
 
-This is a fictional teaching scene, not a diagnosis or a claim that arguments cause FND.
+"What if we just stay for lunch?" Jamie suggests.
 
-### What does regulating an emotion actually mean?
+"That could work," Alex replies. "But what if you need to leave early? Should we take separate cars? Could your brother drive you home?"
 
-An emotion is more than a single feeling. It can involve a change in attention, body readiness, thoughts, facial expression, and the urge to act.
+Jamie begins explaining that his brother is working.
 
-**Emotional regulation** means noticing, responding to and sometimes adjusting those experiences enough to choose what to do next. It doesn't mean never becoming angry, upset or excited.
+Halfway through, he loses track of why he mentioned his brother.
 
-For example, feeling annoyed and deciding to explain why is different from suddenly feeling overwhelmed, losing the thread of the discussion and being unable to organize a reply.
+Alex waits.
 
-A useful distinction: **how strongly you feel**, **how you express it** and **whether you can continue a task** are three different questions.
+"Sorry. What was the question?"
 
-An emotional reaction can become difficult without anyone having done something wrong. And difficulty regulating emotions is not a positive diagnostic sign of FND.
+She repeats the questions, trying to help.
 
-### What has FND research found?
+Jamie remembers the first while she's asking the third. By the time she finishes, the first has disappeared again.
 
-Researchers have studied emotional processing and brain networks involved in emotional significance, attention, body signals and movement. Some studies have reported differences between groups of people with FND and comparison groups. The methods and findings vary, and replication is needed. (*citation* [1](#citation-1))
+Frustration begins to rise.
 
-Researchers propose that these systems may interact in some functional symptoms, but there is **no established universal mechanism** explaining why a particular person loses emotional flexibility, speech or movement during conflict. A theory about brain networks is not evidence that someone's emotions caused their FND. (*citation* [2](#citation-2))
+"I do want to work this out," he says. "I just can't find where we were."
 
-There is also an ordinary, important possibility: pain, migraine, poor sleep, sensory overload, difficult thinking tasks or living with unpredictable disability may leave less capacity for a demanding exchange. These pressures can exist alongside FND without proving an FND-specific emotional abnormality.
+Alex has been trying to solve the transport problem.
 
-### Stress can affect conversation before a visible episode
+Jamie has been trying to remain part of the conversation.
 
-Suppose the same person first struggles to remember a question, then to speak clearly, and later has a functional seizure.
+Neither wanted it to become difficult.
 
-For that individual, this might be a recognizable pattern. It is **not** a sequence everyone with FND follows. Cognitive symptoms may be functional or have other contributors; difficulties speaking can have different causes; and a seizure-like event needs its own diagnostic and safety assessment.
+What happened?
 
-The crucial point is that **communication may already be difficult before a more obvious symptom appears**.
+Was Jamie frustrated because he couldn't follow the conversation? Did frustration make thinking harder? Or were several things happening together?
 
-A community member described a similar interruption:
+In Lesson 21, we learned how information can become difficult to remember or use.
 
-> “Sometimes I get stressed and have a seizure and our conversation sort of ends, is interrupted.”
+Now we're going to explore **how emotions work, how we regulate them, and how they may interact with involuntary neurological symptoms.**
 
-*Figure 1. Community experience — quotation candidate.* One person's report of stress, a seizure and a conversation stopping. It cannot establish why the event occurred or how another person's symptoms behave. [Source discussion](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/). (*citation* [6](#citation-6))
+### What happens when we feel an emotion?
 
-If this happens to you, it does not mean that every argument must be avoided or that you should explain away another person's feelings. It means the ability to communicate is worth treating as a real part of access and safety.
+Leah receives a message from a relative.
 
-### What can the two people know for now?
+"You seemed absolutely fine when I saw you yesterday. I think getting out more would do you good."
 
-The aim of this lesson is **understanding**, not solving every relationship problem.
+Yesterday, Leah managed an hour at a quiet café.
 
-It may help to recognise that a person can still want to reach an agreement even when they cannot finish a sentence. Both people's concerns can remain valid. A shorter question, a quieter setting or written communication may be easier in some circumstances—but not during every episode, and never at the cost of safety.
+Today, she needed help getting dressed.
 
-Detailed work on sharing concessions, discussing one part of a larger issue at a time, and protecting both people's boundaries belongs later in [Relationships, Identity, and Grief](../module-14-relationships-identity-and-grief/README.md). The [Emotional Regulation Reference](../../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md) has further information.
+She begins typing.
 
-**Something to think about:** Is the difficult part sometimes the size of the feeling, sometimes the ability to think or speak, or sometimes both? You do not have to decide that every episode has one explanation.
+"You saw ONE HOUR."
 
-**One small step:** If it is useful and safe, think of one way to signal “I want to continue, but I cannot communicate clearly right now.” You don't need to practise provoking symptoms to find out.
+Then she adds another sentence. And another.
 
-New, severe or changed speech, cognitive or seizure-like symptoms still need appropriate clinical assessment. A known FND diagnosis should not replace emergency advice or an individual safety plan.
+She wants her relative to understand how much effort that hour took.
+
+Her shoulders tense. She's typing faster.
+
+She's angry.
+
+Emotions do more than give us feelings.
+
+They can change what we notice, what we think about, how our bodies respond and what we feel ready to do.
+
+Remember Lesson 20?
+
+We learned about **salience**, which helps explain why some information becomes important, and **arousal**, which describes how ready our nervous system is to respond.
+
+Emotions can influence both.
+
+But emotions and arousal aren't the same thing.
+
+Your heart can beat faster because you're running for a bus, excited about seeing a friend or frightened by something unexpected.
+
+Your body becomes more alert in all three situations, even though the feelings are different.
+
+### When a feeling arrives without an explanation
+
+Chris and his wife, Maya, are having a pleasant morning.
+
+They've been laughing over a crossword. Chris has made coffee, and there's nothing urgent to do.
+
+"Shall I put this washing on?" Maya asks.
+
+Suddenly, Chris feels intensely irritated.
+
+"Yes. Fine."
+
+Maya looks up.
+
+Chris hears his own sharp tone and is surprised by it.
+
+A moment ago, he was enjoying her company.
+
+He still is.
+
+"Sorry. That came out sharply."
+
+"Are you upset about something?"
+
+He searches for an answer.
+
+"I feel upset. I don't know what I'm upset about."
+
+Neither has an explanation.
+
+We often expect emotions to follow thoughts we recognize.
+
+*I'm angry because someone was unfair.*
+
+*I'm worried because something bad might happen.*
+
+But feelings don't always arrive with an explanation attached.
+
+Our brains and bodies respond to information without everything passing through conscious thought first.
+
+Pain, tiredness, physical changes and other influences may contribute.
+
+And the reason may remain uncertain.
+
+**Recognizing an emotion and understanding where it came from are different abilities.**
+
+Chris doesn't have to invent an upsetting thought simply because he's feeling irritated.
+
+### What does it mean to regulate an emotion?
+
+Let's return to Leah and the message from her relative.
+
+She has written several angry paragraphs.
+
+She wants to press send.
+
+But she also knows what could happen next.
+
+Her relative might begin arguing about every detail.
+
+Leah wants to be understood, not spend another evening defending her illness.
+
+She puts the phone beside her.
+
+Later, she writes:
+
+"I enjoyed seeing you yesterday. Today is different. Please keep inviting me, but let me decide what I can manage."
+
+She sends it.
+
+She's still angry.
+
+But she's found a response that better expresses what she wants.
+
+This is an example of emotional regulation.
+
+> **Emotional regulation:** The ways our brains and bodies influence how emotions develop, how strongly we feel them, how long they last and what we do in response. Some regulation happens automatically, while some involves conscious choices.
+
+Leah made a deliberate choice.
+
+But regulation doesn't always require a conscious decision.
+
+Imagine being startled by a loud crash.
+
+Your body reacts.
+
+Then you see that someone dropped a book.
+
+The alarm begins to fade.
+
+You didn't have to instruct yourself to calm down. Your nervous system adjusted as you understood what happened.
+
+Both kinds of regulation matter.
+
+But here's something especially important.
+
+**Emotional regulation isn't a test of how calm, thoughtful or polite you can remain.**
+
+An emotion can be strong enough that making a decision, finding words or controlling your reaction becomes genuinely difficult.
+
+That doesn't mean you've failed.
+
+Nor does being angry, crying or needing help automatically mean you have a problem with emotional regulation.
+
+The useful question is whether your emotional responses are making something important harder for you—and whether support or different skills could help.
+
+There is no requirement to become someone who never gets upset.
+
+### Can you feel happy and resentful at the same time?
+
+Priya receives a photograph from her friends.
+
+They're gathered around a table, laughing.
+
+One friend is wearing a tea towel as a chef's hat because the dessert they made has collapsed into a rather impressive mess.
+
+Priya laughs too.
+
+Then she notices the empty chair beside her closest friend.
+
+That was supposed to be her place.
+
+She had been dressed and ready to join them. Then her symptoms changed, and going out became impossible.
+
+Priya sends a cheerful message about the dessert.
+
+She means every word.
+
+She's happy her friends are having a wonderful evening.
+
+But after putting down her phone, she feels the disappointment of another missed occasion.
+
+And something else.
+
+She's tired of being the person who misses things.
+
+That feeling has been building through months of cancelled plans and lost opportunities.
+
+Yet Priya is generally happy with her life.
+
+She enjoys her friends and looks forward to the future.
+
+Are those feelings contradictory?
+
+Not necessarily.
+
+A person can be content with much of their life while feeling bitter about particular losses.
+
+They can be optimistic about the future and still wish the past had been different.
+
+**Having resentment doesn't automatically mean someone has a problem with emotional regulation.**
+
+### Why can emotions become harder to manage?
+
+Another evening, Jamie and Alex are at home.
+
+Jamie has a headache.
+
+The television is on. Alex is putting away dishes, and a phone keeps vibrating on the table.
+
+Jamie has spent the afternoon dealing with an appointment that was booked incorrectly.
+
+Alex asks about dinner.
+
+"Pasta or something from the freezer?"
+
+"Either."
+
+"Which would you prefer?"
+
+Jamie tries to remember what's in the freezer.
+
+"Did you eat lunch?"
+
+Now the dinner choices disappear.
+
+"And do we need anything from the shop?"
+
+"I don't know!"
+
+Alex stops unloading the dishwasher.
+
+"I only asked what you wanted for dinner."
+
+Jamie hears how sharp his answer sounded.
+
+"I know. I'm trying to answer you."
+
+The dishwasher is still open. The television is still talking.
+
+Jamie can't remember the two dinner choices.
+
+Notice how many things are happening.
+
+Pain, noise, questions and information that keeps slipping away.
+
+Frustration has become part of the experience.
+
+> **Overwhelm:** When the demands you're facing feel greater than what you can manage at that moment. Those demands can involve thinking, emotions, sensations, physical activity or several things together.
+
+Overwhelm doesn't always look like anger.
+
+One person becomes tearful. Another goes quiet. Someone else struggles to organize their thoughts.
+
+Remember the feedback loops we learned about in Lesson 20?
+
+A difficult task can require extra effort. That effort can increase tiredness, making the next part harder.
+
+Emotions can become part of the experience.
+
+But not every emotional difficulty comes from FND.
+
+### What about medications?
+
+Leah is at a medical appointment.
+
+She's brought a list of things she wants to discuss.
+
+One item near the bottom is crossed out.
+
+*Crying.*
+
+During a planned reduction in an antidepressant, she began crying during ordinary conversations.
+
+Small frustrations felt enormous.
+
+Afterward, she was surprised by how quickly her feelings had changed.
+
+"I thought I should be able to handle it," she says.
+
+The clinician asks when the changes began and how they relate to the medication reductions.
+
+Leah opens the calendar on her phone.
+
+She has the dates.
+
+This matters because medications can affect emotional experiences.
+
+Some antidepressants and pain medicines can influence mood or emotional responses.
+
+Withdrawal from certain medicines can also cause irritability, agitation and changing emotions.
+
+These changes deserve medical consideration rather than automatically being explained as FND.
+
+A prescribing clinician can help assess them and guide medication changes.
+
+A past withdrawal also doesn't automatically explain emotional experiences occurring much later.
+
+### What have studies actually found in FND?
+
+Imagine a group of people answering questions about emotions.
+
+Some have FND. Others are taking part as a comparison group.
+
+They're asked about anger and how easy or difficult they find managing emotional responses.
+
+In some studies, people with FND reported greater difficulty with certain parts of emotional regulation.
+
+Other studies found less clear differences.
+
+Now imagine another experiment.
+
+People look at photographs of emotional faces.
+
+The researchers ask about their feelings while measuring how their bodies or brains respond.
+
+Some studies have found differences between groups with FND and comparison groups.
+
+But here's something interesting.
+
+**A difference in the body's or brain's response doesn't necessarily mean someone reports feeling a stronger emotion.**
+
+Think back to what we learned about salience and arousal.
+
+The brain receives information, gives some of it priority and prepares the body to respond.
+
+Those activities don't always match what we consciously feel.
+
+Research suggests that emotional information and bodily responses may work differently in some groups of people with FND.
+
+But the findings vary, and many studies have important limitations.
+
+So what can we learn?
+
+**Some people with FND may have differences in how they experience, respond to or regulate emotions. But there isn't one emotional pattern that explains everyone's FND.**
+
+The research doesn't prove that emotional difficulties caused a particular person's symptoms.
+
+And it doesn't mean everyone with FND needs emotional-regulation treatment.
+
+### Does this mean I need to work harder at controlling my emotions?
+
+Think about Chris.
+
+His irritation arrived unexpectedly while he was enjoying a crossword with Maya.
+
+He recognized that he'd answered sharply.
+
+Does that mean he needs therapy to control his emotions?
+
+Not necessarily.
+
+Now think about Jamie.
+
+His frustration increased while noise, pain and several questions competed for attention.
+
+Would telling him to try harder at staying calm solve the problem?
+
+It could simply add another demand to an already difficult situation.
+
+Making the environment quieter or reducing the number of questions might be more useful.
+
+And someone who regularly finds emotional responses difficult to manage may benefit from learning emotional-regulation skills with an appropriate professional.
+
+These are different situations.
+
+**Acceptance and rehabilitation aren't opposites.**
+
+We can accept that an emotion is present without blaming ourselves for having it.
+
+We can recognize that our nervous system sometimes responds in unexpected ways.
+
+And we can still learn skills or make changes when an experience is making life difficult.
+
+The goal isn't perfect emotional control.
+
+It's finding ways to make life more manageable and meaningful.
+
+### When cognitive difficulties create emotions
+
+Chris mentions that he hasn't seen his daughter for weeks.
+
+"We had lunch with her on Tuesday," Maya says.
+
+Chris smiles, assuming she means another Tuesday.
+
+"No, we were home. You made soup."
+
+Maya remembers the café, finding somewhere to park and their daughter showing them photographs.
+
+Chris remembers the soup.
+
+At first, he's puzzled.
+
+Then irritated.
+
+He feels as though he's being corrected about a day he lived through.
+
+"Are you sure you didn't go without me?"
+
+"I'm sure you were there."
+
+Chris looks at Maya.
+
+He loves her. Normally, trusting her is as natural as breathing.
+
+But now her certainty conflicts with a memory that feels equally convincing.
+
+*Why do we remember Tuesday so differently?*
+
+*Could she be mistaken?*
+
+*Have I forgotten another part of my life?*
+
+He feels confused, hurt and embarrassed.
+
+For a moment, he even questions whether he can trust what he's being told.
+
+Maya begins offering more details, hoping one will help.
+
+"Please wait," Chris says. "I'm still trying to understand the first bit."
+
+Notice what happened.
+
+Chris began with a memory that felt clear.
+
+The disagreement made him question what he knew.
+
+Then came the emotions.
+
+That is different from assuming an emotion caused the memory difficulty.
+
+And fear isn't the only possible response.
+
+Someone else might become angry, defensive or deeply discouraged.
+
+The other person may feel hurt or confused too.
+
+**Cognitive difficulties can create strong emotions, just as emotions can sometimes make thinking harder.**
+
+Neither person's recollection automatically becomes correct because the other has memory difficulties.
+
+We'll explore the relationship side of these situations in Module 14.
+
+### When feeling strongly and losing an ability happen together
+
+Remember Jamie and Alex planning the family visit?
+
+Jamie wanted to explain why going mattered so much.
+
+But several questions made it difficult to follow the conversation.
+
+He became frustrated.
+
+What came first?
+
+The frustration?
+
+Or the difficulty following the questions?
+
+Perhaps the trouble thinking came first and frustration followed.
+
+Or both were affecting each other.
+
+Now imagine Jamie's speech becoming difficult as well.
+
+He knows what he wants to say, but the words won't come.
+
+Alex can see that he's struggling.
+
+She doesn't know exactly which part is most difficult.
+
+But Jamie still wants to participate.
+
+**Feeling strongly, regulating an emotion and being able to communicate are different abilities.**
+
+A person can be furious and still speak clearly.
+
+Another can feel comfortable and suddenly lose access to words.
+
+The emotional state doesn't tell us everything about someone's neurological abilities.
+
+### What about other involuntary symptoms?
+
+Earlier in the week, Jamie had been angry about a mistake with a benefits application.
+
+He explained the problem, challenged the mistake and stayed on the telephone until he knew what would happen next.
+
+Today, Alex is asking about a television programme.
+
+"Was that the episode with the wedding?"
+
+Jamie knows the scene.
+
+But the words won't come.
+
+Alex offers a character's name.
+
+Jamie shakes his head.
+
+Another suggestion follows.
+
+Now he's lost the scene as well.
+
+He was comfortable a moment ago.
+
+The frustration begins when he realizes he cannot answer a simple question about something he enjoyed watching.
+
+That's important.
+
+**A neurological difficulty can create an emotional response even when no strong emotion came before it.**
+
+Other functional symptoms may also interrupt activities.
+
+Someone's movements may change. Another person experiences dissociation or a functional seizure.
+
+Some people recognize a connection with emotional demands. Others don't.
+
+These experiences need their own assessment.
+
+And their timing alone doesn't establish why they happened.
+
+### Why does the timing matter?
+
+Let's return briefly to Jamie and Alex planning the family visit.
+
+Imagine Jamie's speech becoming so difficult that he can no longer continue.
+
+The conversation stops before they've agreed on transport.
+
+From the outside, someone could wonder whether the interruption happened because Jamie wanted to avoid the discussion.
+
+But that conclusion would go beyond what we know.
+
+Jamie still wanted to participate.
+
+**An involuntary symptom doesn't become a deliberate choice because it happens during a disagreement.**
+
+And Alex's questions about the journey are still important.
+
+We'll explore how people can manage unfinished conversations and shared concerns in Module 14.
+
+For now, the lesson is about distinguishing **what someone intends from what they can do at that moment**.
+
+### Can FND itself change how we feel?
+
+Let's return to Priya.
+
+She was genuinely happy to see her friends enjoying themselves.
+
+But she also wanted to be there.
+
+When another photograph arrives, showing everyone playing a board game together, the disappointment returns.
+
+She had been looking forward to that ordinary evening.
+
+Now she's missing it.
+
+Her sadness doesn't need a complicated explanation.
+
+Living with FND can involve lost opportunities, changed plans, pain, uncertainty and experiences of not being understood.
+
+**An emotion can be a response to living with FND, rather than something that caused FND.**
+
+And emotions and symptoms can sometimes influence one another.
+
+Understanding someone's circumstances matters more than assuming every emotion has one neurological explanation.
+
+### Can clinicians help us understand these experiences?
+
+At an appointment, Jamie explains:
+
+"I get frustrated during conversations."
+
+The clinician asks what happens.
+
+Jamie tries to explain, but he loses his place.
+
+He asks Alex to show the note they prepared together.
+
+It says:
+
+*Jamie sometimes loses the question before becoming frustrated.*
+
+"Yes," Jamie says. "That's what I was trying to explain."
+
+Now the clinician can ask more useful questions.
+
+Does Jamie have difficulty remembering several questions?
+
+Does speech become harder even when he's comfortable?
+
+Does the frustration come before or after the difficulty communicating?
+
+Could pain, sleep, medication or another condition be contributing?
+
+These questions matter because different difficulties need different kinds of help.
+
+**You don't necessarily need a whole team of specialists.**
+
+A clinician you already see can help work out what needs assessment and whether another professional would be useful.
+
+For example, someone with difficulty communicating may benefit from speech-language therapy. Someone who wants help managing overwhelming emotions may benefit from psychological support.
+
+Others may need help with everyday activities or an investigation of another medical condition.
+
+The aim is to find support that fits the problem, taking into account what's available and realistic for the person.
+
+There isn't one emotional-regulation test that diagnoses FND.
+
+And new, sudden or substantially changed neurological symptoms, especially unfamiliar speech difficulty, weakness or changes in awareness, still need appropriate medical assessment.
+
+### Can this understanding help with recovery?
+
+Think about our four people.
+
+Chris experienced unexpected irritation. He may find it helpful to recognize the feeling without immediately needing to explain it.
+
+Leah chose how to respond to a message while still feeling angry. That was one kind of emotional regulation.
+
+Jamie's frustration often appeared when thinking or communication became difficult. Making those activities more accessible may be more useful than expecting him to control every emotion.
+
+Priya experienced sadness about missing time with friends. Her feeling was understandable, and she didn't necessarily need to change it.
+
+These people have different needs.
+
+And not all of them need a treatment.
+
+When someone does want help, it may involve learning emotional-regulation skills, adapting an activity, treating another health problem or finding a better way to communicate.
+
+**Helping someone regulate a feeling isn't necessarily the same as helping them regain access to speech, thinking or movement.**
+
+Support should match the difficulty.
+
+And it shouldn't make someone responsible for preventing every involuntary symptom.
+
+### What have we learned?
+
+We began with Jamie and Alex trying to plan a family visit.
+
+We saw how thinking and communication difficulties can interact with emotions.
+
+Leah showed us that feeling angry and choosing how to respond are different things.
+
+Chris reminded us that an emotion can arrive without an obvious explanation.
+
+And Priya showed us how happiness, sadness and resentment can exist together.
+
+We've also learned that studies have found differences in some emotional responses among groups of people with FND, without establishing one explanation for everyone.
+
+**Emotional regulation isn't about achieving perfect calmness.**
+
+Acceptance, useful adaptations and rehabilitation can work together when needed.
+
+And when an involuntary neurological symptom interrupts an important conversation, its timing doesn't tell us what someone intended.
+
+**Something to think about:** Have you experienced a difference between what you were feeling, what you understood about that feeling and what you were able to say or do?
+
+**One small step:** Think of one part of an emotionally demanding situation that could be made easier. It might involve fewer demands, more time to respond or another way to communicate. You don't have to monitor every feeling or provoke symptoms to find something helpful.
+
+In our next lesson, we'll explore the difference between **intending an action**, **feeling in control of it**, and **what your body actually does**.
 
 ***
 
