@@ -2,7 +2,7 @@
 
 **Part Two: Understanding Attention, Action, and Body Signals**<br>
 **Status:** Approved syllabus direction; source review completed October 26, 2026; lesson authoring and independent clinical review pending.<br>
-**Current course lessons:** 18–23 (six lessons). Human authoring, two subsequent lesson audits and independent clinical review remain pending.
+**Current course lessons:** 18–23 (six lessons). All six Person sections human-approved. Supporter and Clinician human authoring, research/source checks, two subsequent lesson audits and independent clinical review remain pending.
 
 ## Purpose
 
@@ -84,6 +84,14 @@ The owner explicitly approved the complete [Person section of Cognitive Difficul
 **Person:** Preserve the approved [Lesson 22](../../../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md) verbatim during later Supporter/Clinician authoring. Its core result is that emotions, regulating an emotion, accessing cognition/communication, and intention are distinct. Research findings are group-level, variable and not patient-level causal explanations. No requirement for perfect calm or emotional self-control. Emotional responses may be consequences of symptoms, too.
 
 **Lesson 23 Person:** Make the final lesson feel like a natural culmination for a 14-year-old reader. Teach the distinction among *intention* (what a person wants or plans), *sense of agency* (the feeling of making an action happen), *observed movement/ability* (what the body actually does) and *responsibility* (reasonable decisions, safety and seeking help, not blame or impossible control). Lead with a vivid everyday story of an intended movement that doesn't happen as expected, or movement that happens without the felt decision. Include ordinary automatic movement, appropriate FND research observations and uncertainty, then safe functional adaptations and clinical assessment/rehabilitation. Do not retell the lesson 18–22 mechanisms as a checklist, overstate an agency biomarker, promise that a person can unlearn symptoms on command, or equate involuntary symptoms with intentional acts. Person-owned practical adaptation and self-efficacy should be supported without assigning fault. Group sample findings and clinical evidence belong chiefly in Research/Clinician; supporter assistance should remain consent-based and within reasonable limits. End with a handoff to Module 8 on describing different symptoms and using the Reference Library.
+
+### Approved Lesson 23 and open editorial decisions — November 2, 2026
+
+**Person:** The complete [Lesson 23](../../../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md) was explicitly approved by the project lead and committed as `d7a13f05`. It uses Amira's involuntary hand jerk and Daniel's difficult intended step to distinguish intention, sense of agency and observed ability; it discusses context-sensitive movement, neuroplasticity, safe person-owned practice and adaptations, responsibility without blame, and a handoff to Module 8. Owner-requested wording and the improved natural paragraph flow from the neuroplasticity definition onward are preserved. Do **not** rewrite the Person section in later audience work.
+
+**All six Module 7 Person sections (Lessons 18–23) are now human-approved.** Their Supporter and Clinician sections remain independently authored/generated seeds pending human review. The course is **19 modules / 59 lessons**; no learner-account/DB changes belong in this PR.
+
+**Awaiting editorial decision, not implemented:** Bring Module 7 lesson endings into the progression demonstrated by Modules 1–5: a concrete thought/mind question, a separate feeling/heart reflection when useful, and one optional low-burden practical activity that builds upon earlier personal understanding, accommodations and safe rehabilitation. Propose a coherent six-lesson thematic sequence before editing approved Person text. Avoid additional homework, symptom monitoring, unsafe self-testing or forcing record keeping. Decide an audience-wide teaching goal for each Clinician and Supporter section before authoring; ensure practical interdisciplinary care for clinicians and consent-based understanding/adaptation for supporters without unnecessary overlap.
 
 ## Lesson 23 — Sense of Agency, Learning, and Personal Adaptations
 - Agency as the *experience* of initiating or controlling an action, distinct from intent, responsibility and actual capacity.
