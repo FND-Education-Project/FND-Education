@@ -1,8 +1,8 @@
 # Agency, Learning, and Your Own Adaptations
 
-> **Working draft:** This page was automatically generated and is awaiting human authoring and further review.
+> **Editorial status:** The Person section was human-authored and approved November 2, 2026. Supporter, Clinician and Research sections remain research-seeded drafts requiring human authoring, citation verification, two later audits and independent clinical review.
 
-Lesson 23 explores agency, Learning, and Your Own Adaptations through everyday examples, collaborative adaptations and clinical reasoning.
+Lesson 23 explores intention, the feeling of agency and what the body can actually do, then considers learning, safe rehabilitation and meaningful individual adaptations.
 
 *Last reviewed: October 26, 2026*
 
@@ -16,65 +16,335 @@ Lesson 23 explores agency, Learning, and Your Own Adaptations through everyday e
 
 ## For the Person With FND
 
-### “That didn't feel like me.”
+### But I didn't mean to do that!
 
-You move your hand to pick up a glass. Usually, you experience the movement as something you intended and carried out.
+Amira is standing at her kitchen counter, reaching for a glass of water. Her hand moves toward the glass, just as she intended.
 
-Now imagine your arm jerking without warning. Even though it's your arm, the movement doesn't feel chosen. People with FND may describe movements, sounds or other experiences that feel outside their usual control.
+Then her arm suddenly jerks, and the glass rattles against another cup.
 
-Scientists call the sense that **“I caused this action”** a *sense of agency*. It is different from whether the movement really happened, whether you own your body, or whether you are responsible for an action. (*citations* [1](#citation-1), [2](#citation-2))
+Amira stops and looks at her hand. She wanted to pick up the glass. She certainly didn't want to knock it sideways, and yet her arm moved.
 
-Agency is a subject of active FND research. An altered sense of control is real as an experience; it cannot establish a mechanism or diagnosis by itself.
+Now imagine something slightly different.
 
-### What about learning?
+Daniel is standing near his front door. He wants to walk into the garden and knows exactly where he's going.
 
-Think of learning a route through a new building. At first, you read every sign. After several visits, the route becomes familiar. Learning has changed how much work the journey takes.
+But when he tries to take a step, his leg doesn't move as expected. He tries again, with the same result.
 
-The nervous system can learn patterns of movement, attention and expectation. Researchers investigate how learning may influence functional symptoms, although they cannot assume the same pattern developed in everyone.
+The intention is there, but the movement isn't cooperating.
 
-Learning is not the same as pretending. It doesn't mean you chose a symptom or that you can simply unlearn it on command.
+Amira experienced a movement she didn't choose. Daniel couldn't carry out a movement he wanted to make.
 
-### Bringing the ideas together
+Both experiences raise an interesting question.
 
-We have explored attention, automatic actions, predictions, body signals, salience, arousal and agency. That's quite a cast of characters.
+**What happens when what we intend and what our bodies actually do don't match?**
 
-The point isn't to work out which single character is “to blame.” It is to develop better questions.
+That brings us to a new idea.
 
-Here's an example. Imagine that answering questions is hard during an appointment. You might wonder whether unexpected questions, fatigue, several people talking or word-finding difficulties make the task more demanding. You don't have to choose one cause.
+### What is intention?
 
-You could ask for written questions, extra time or a quieter room. These changes are useful possibilities because they make communication more accessible—not because they prove a particular brain theory.
+Imagine you're sitting on the sofa and decide to stand up and get a drink.
 
-### A small way to reason through adaptations
+You have a goal: you want to get to the kitchen.
 
-**Understand:** What ordinary brain or body function have I learned about?
+Usually, your body carries out all kinds of movements without your having to think about each one. You stand, turn and walk without telling every muscle what to do.
 
-**Observe:** What actually happens in my life, leaving unknowns open and without self-testing?
+> **Intention:** What you mean or plan to do. An intention can guide an action, even when the action doesn't happen as expected.
 
-**Consider:** What are some possibilities? What remains unknown? Does something need medical assessment?
+Think back to Daniel.
 
-**Adapt:** What safe, reversible adjustment might make the task more possible?
+He intended to walk into the garden. He knew what he wanted to do, but his leg didn't cooperate.
 
-**Review:** Did it help safety, effort, independence or enjoyment? If not, can I leave it behind?
+That doesn't mean his intention disappeared, and it doesn't mean he wasn't trying.
 
-### A changed sense of control is not a changed intention
+**Wanting to make a movement and being able to make it are different things.**
 
-Consider someone whose hand jerks while they are reaching for a mug. The movement occurs, but it doesn't feel like something they chose. **Intention** (wanting to reach), **the feeling of being in control** (agency) and **observed ability** (what happened) are different questions.
+The same distinction can matter when someone intends to answer a question but can't find their words, or wants to continue an activity but becomes unable to do so.
 
-That distinction is also useful after the emotional-regulation lesson: if speech or awareness becomes inaccessible during a difficult conversation, the interruption alone tells us neither what the person wanted to say nor why the episode happened.
+We've encountered this throughout our course. But there's another part of movement we haven't fully explored.
 
-One person reflected on finding an approach that suited them:
+### How do you know that you made a movement happen?
 
-> “listening to and understanding my body rather than fighting it to work seems to improve my symptoms the best.”
+Imagine raising your hand to wave at someone.
 
-*Figure 2. Community experience — source-linked candidate.* This is a person's account of what felt helpful, not evidence of a particular treatment mechanism. [Public discussion](https://www.reddit.com/r/FND/comments/1sedrnt/does_anyone_actually_get_better/). Exact source context awaits rechecking. (*citation* [5](#citation-5))
+You decide to wave, your hand moves, and it feels like *you* made it move. That feeling is so ordinary that we rarely stop to notice it.
 
-Our module doesn't ask you to control every process consciously. It offers a way to judge a small, safe adjustment by whether it makes life more workable.
+Now imagine someone gently lifting your hand for you.
 
-**Something to think about:** Is there an adaptation you've already found that makes an important part of life easier? You may have learned something useful long before you knew the scientific words.
+Your hand still moves, and you can see it happening. But it doesn't feel the same. You know someone else made the movement happen.
 
-**One small step:** Take one existing accommodation and finish the sentence: “This helps me because it makes _____ easier.” That answer matters, even if you cannot explain the precise biology.
+Scientists call this feeling the **sense of agency**.
 
-Our next module will help you describe what happens during different symptoms and find trustworthy information without having to diagnose yourself.
+> **Sense of agency:** The feeling that you are making an action happen, rather than simply experiencing the action.
+
+Let's return to Amira.
+
+Her arm jerked as she reached for the glass. She saw the movement and knew it was her arm, but the jerk didn't feel like something she chose or caused.
+
+Her experience of making an action happen didn't match what her body did.
+
+This distinction helps us understand why someone can say:
+
+"My arm moved, but I didn't make it move."
+
+Both parts of that sentence can be true.
+
+### Isn't that just the same as controlling something?
+
+Not quite.
+
+Imagine learning to type. At first, you have to search for the letters, look down at the keyboard and deliberately choose which finger to move.
+
+After enough practice, typing becomes easier. You begin writing sentences without thinking about every finger movement.
+
+Your fingers are doing something you intended, even though you're no longer paying attention to every little action.
+
+We do many ordinary activities this way, including walking across a familiar room, reaching for a cup and brushing our teeth.
+
+Some of these actions feel almost automatic, but that doesn't mean they're involuntary symptoms. Your nervous system has simply learned to carry out familiar movements without requiring your full attention.
+
+**We don't need conscious control over every small movement to carry out an intended action.**
+
+And feeling in control isn't exactly the same as how much control we actually have.
+
+This is why scientists separate our intentions, our movements and our experience of making them happen.
+
+### What might be different in FND?
+
+Return to Amira.
+
+She wanted to pick up the glass, but her arm moved unexpectedly. The unwanted movement didn't feel like something she had decided to do.
+
+Daniel's experience was different. He wanted to step forward, but his leg seemed unable to carry out the movement.
+
+For people with functional movement symptoms, experiences like these can be deeply confusing.
+
+Ordinary movement usually feels natural. We expect that when we decide to move, our bodies will cooperate.
+
+So when movement becomes unreliable, it's natural to wonder why.
+
+Scientists have investigated whether the brain processes involved in preparing movements, carrying them out and recognizing them as our own may work differently in some forms of FND.
+
+Some studies have found differences in brain activity and the experience of control among groups of people with functional movement symptoms. These findings offer clues about how movement and our feeling of controlling it are connected.
+
+But they don't establish one explanation for everyone's FND.
+
+There also isn't a simple brain scan or sense-of-control test that can explain why one person's hand jerks or another person's leg becomes weak.
+
+**An altered feeling of control is a real experience, but it isn't a diagnosis or a complete explanation by itself.**
+
+We can learn from the research without assuming it has answered every question.
+
+### Can movement change without someone choosing the change?
+
+Daniel has an appointment with a physiotherapist.
+
+He explains that walking has become difficult. His leg often feels stuck when he tries to step forward.
+
+The physiotherapist asks about different activities. Are there times when his leg moves more easily? Does changing the activity make a difference?
+
+During the examination, the therapist notices that Daniel can carry out certain movements more easily in one situation than another.
+
+Why would that interest the therapist?
+
+Imagine trying to remember the words to a familiar song. You struggle when asked to recite them, but when the music starts, the words become easier to remember.
+
+The information wasn't necessarily gone. Something about the task changed how easily you could use it.
+
+Movement can also be affected by how an activity is organized, what we're attending to and what we're trying to accomplish.
+
+For some people with functional movement symptoms, an ability may become easier to use when the task or focus changes.
+
+This is one reason clinicians examine movement in different ways.
+
+They aren't trying to catch someone pretending. They're looking for information about how the nervous system is working and which approaches may help.
+
+**A movement becoming possible in one situation doesn't prove that the person could have done it at will in another.**
+
+Not every person with FND experiences these changes. Clinicians still need to make a careful diagnosis using appropriate findings, medical history and examination.
+
+### But if my brain can do it sometimes, why can't I just make it happen?
+
+Daniel was able to move his leg more easily during part of his examination.
+
+Later that afternoon, walking is difficult again. He remembers what happened at the appointment.
+
+*If I could do it there, why can't I do it now?*
+
+He tries harder and concentrates on his leg, but the movement doesn't become easier.
+
+Now he's frustrated. He begins wondering whether he's doing something wrong.
+
+But think back to our earlier lessons.
+
+Not every process in the nervous system is under conscious control. We can decide what we want to do without being able to command every part of how the action happens.
+
+An ability becoming available under one set of conditions doesn't mean we can reproduce those conditions whenever we choose.
+
+**Being able to move during one activity isn't the same as being able to switch a symptom off.**
+
+Trying harder isn't always the most useful response. A different approach to the activity may be worth exploring with an appropriate therapist.
+
+### What does learning have to do with this?
+
+Imagine learning to ride a bicycle.
+
+At first, there's so much to think about. You need to balance, steer, pedal and watch where you're going.
+
+It feels as though every movement requires effort.
+
+After enough practice, some of those movements become easier and more automatic. Your nervous system has learned.
+
+Learning doesn't only mean remembering facts. It also involves changes in how we carry out familiar activities.
+
+Scientists call the nervous system's ability to change with experience **neuroplasticity**.
+
+> **Neuroplasticity:** The nervous system's ability to change and adapt through experience, learning and other influences.
+
+We discussed learning earlier in the course, and we'll explore rehabilitation and neuroplasticity much more in Module 9. For now, the important idea is that **learning a new way to do something doesn't always require consciously controlling every part of it.**
+
+In FND rehabilitation, therapy may help some people practise meaningful movements in situations that make them easier to carry out. Over time, practice may help those movements become more reliable.
+
+Learning and rehabilitation can be complicated. They may require suitable professional guidance, time, changes to activities and attention to other health conditions. Improvement also varies from person to person.
+
+### What might rehabilitation look like?
+
+Let's visit Daniel again. He wants to walk into the garden. That's his goal—not passing a movement test or proving he can walk normally for a few seconds. He wants to enjoy being outside.
+
+His physiotherapist can use that goal to guide rehabilitation. They may work on safe ways to practise walking, focusing on the activity rather than repeatedly checking every movement.
+
+The therapist can adjust the task to Daniel's abilities and make sure the practice is appropriate for his balance and safety. Progress might mean walking more reliably, managing a familiar route with less effort or finding a different way to reach the garden when walking remains difficult.
+
+The goal belongs to Daniel. The treatment should help him work toward it.
+
+And **using a mobility aid or another adaptation doesn't cancel out progress**. Being able to participate safely matters, even when symptoms haven't disappeared.
+
+### Does the same idea help Amira?
+
+Remember Amira and the glass of water? She's become cautious about reaching for things because her arm sometimes jerks unexpectedly. At home, she begins using a cup with a lid. It doesn't change the cause of her symptoms, but it makes spills less likely.
+
+Now she can carry a drink with more confidence.
+
+If she works with a therapist, they might explore safe activities involving reaching, grasping or using her arm in everyday tasks. The activities would need to fit her particular symptoms and abilities.
+
+Amira has two possible goals: making her movements more reliable and managing daily life safely while working toward that improvement. Neither goal has to wait for the other.
+
+**Recovery work and practical adaptations can happen together.** When improvement is limited or slow, useful adaptations can still make life better.
+
+### What does responsibility mean when a symptom isn't chosen?
+
+Let's return to Amira's unexpected arm movement. She didn't choose the jerk or intend to knock the glass. Does that mean there's nothing she can do about the situation? Not necessarily.
+
+She can make reasonable decisions about safety, such as choosing a cup with a lid or asking a clinician about treatment options.
+
+But those decisions are different from choosing whether an involuntary jerk happens.
+
+Now think about Daniel. He didn't choose for walking to become difficult, but he can still have preferences and make decisions about his care.
+
+He may choose which goals matter most, consider whether a proposed treatment suits him and ask for help when he needs it.
+
+> **Responsibility:** In this lesson, making reasonable choices about safety, care and participation where choices are available—not being blamed for symptoms we cannot simply control.
+
+This distinction matters. A person can take part in recovery without accepting blame for having FND. Someone who cannot make a particular adaptation, access therapy or prevent an episode has not failed.
+
+**Having choices about how we respond doesn't mean having complete control over what happens to us.**
+
+### Can I use what I've learned to make my own adaptations?
+
+We've spent several lessons exploring how our nervous system works. But you don't need to become a scientist to benefit from them.
+
+Think about one ordinary activity that matters to you, such as preparing a meal, visiting a friend, reading, walking outside or communicating with someone.
+
+Now imagine that part of the activity has become difficult. You don't have to identify the exact brain process responsible. Instead, consider what you're trying to do, which part has become difficult and whether a safe change or some help could make it easier.
+
+Let's try this with Amira. She wants to enjoy a drink at the table without worrying about spilling it. A cup with a lid helps. Later, she discovers that keeping the cup on a stable surface makes reaching for it easier.
+
+Does this prove which brain network caused her jerks?
+
+No. But it gives Amira a better way to participate in an activity that matters to her.
+
+Now consider Daniel. He wants to spend time in the garden. On days when walking is difficult, he may use an appropriate mobility aid or another safe way to get there. On other days, he may be able to walk more comfortably.
+
+He doesn't need to ignore the difficult days or prove anything on the easier ones. He can work with what's available while continuing appropriate care.
+
+### What if an adaptation doesn't help?
+
+Imagine Amira trying a different cup. She discovers that it's awkward to hold and makes drinking harder.
+
+Does that mean the idea of adaptation has failed? No. It means that particular change wasn't useful for her, so she can leave it behind.
+
+An adaptation is a tool, not a test. Something helpful for one person may be uncomfortable or impractical for another, and what helps today may need changing later.
+
+**We judge an adaptation by whether it improves something meaningful—such as safety, effort, independence or enjoyment—not by whether it proves a theory about FND.**
+
+That gives us a practical way to use what we've learned. We can stay curious without constantly monitoring or testing ourselves.
+
+### What about other kinds of FND?
+
+We've focused mainly on movement because it's an easy way to understand intention and the sense of agency.
+
+But the difference between wanting to do something and being able to do it matters elsewhere.
+
+Remember Jamie from Lesson 22? He wanted to answer Alex's questions. When his thinking or speech became difficult, his intentions hadn't necessarily changed.
+
+Someone experiencing a functional seizure may want to remain aware and responsive but find that they cannot.
+
+A person with functional cognitive difficulties may want to remember an important conversation and still be unable to retrieve it later.
+
+These experiences aren't all the same condition or mechanism. Their assessment and treatment may be quite different.
+
+But the broader distinction remains useful:
+
+**The ability to do something does not always match the intention to do it.**
+
+Understanding that can help us describe our experiences more accurately and seek the right support.
+
+### When should I ask a clinician for help?
+
+Imagine Daniel noticing that his leg weakness has changed significantly and no longer resembles his usual symptoms.
+
+Or Amira develops a new problem affecting her ability to use her arm. They shouldn't simply assume that every change is FND. New, sudden or substantially changed neurological symptoms need appropriate medical assessment.
+
+When symptoms fit an established diagnosis, clinicians can help identify safe rehabilitation and meaningful adaptations.
+
+A physiotherapist may help with functional movement and walking, while an occupational therapist may help with everyday tasks and accessibility.
+
+Other professionals can become involved when particular symptoms call for their expertise. You don't necessarily need a large team. The important thing is that the help fits the difficulty and your circumstances.
+
+### What have we learned?
+
+We began with Amira reaching for a glass of water. She intended to pick it up, but her arm moved unexpectedly. Then we met Daniel, who wanted to walk into his garden but found that his leg wouldn't cooperate.
+
+Their experiences helped us understand three different things.
+
+**Intention:** What we want or mean to do.
+
+**Sense of agency:** The feeling that we're making an action happen.
+
+**Ability:** What we can actually do at a particular moment.
+
+These don't always match.
+
+We've also learned that many ordinary actions become more automatic with practice, and that rehabilitation may help some people improve movement through suitable activities.
+
+But learning isn't proof that symptoms were chosen, and improvement isn't something anyone can simply command. Finally, we've learned that responsibility doesn't mean blame.
+
+We can make reasonable choices about care, safety and meaningful activities while recognizing that involuntary symptoms aren't entirely under our control.
+
+**Something to think about:** Is there an activity you want to do where your intention and your ability don't always match? What part of that activity matters most to you?
+
+**One small step:** Think of one adaptation you already use, or one safe change worth discussing with your care team. Ask yourself what it helps you do, rather than whether it changes the symptom itself.
+
+### Where do we go next?
+
+In Module 7, we've learned how our nervous system prepares for actions, receives information, gives some things priority and responds to emotions and changing demands.
+
+We've also learned why thinking, intention and movement don't always work together as expected.
+
+But understanding how these systems work is only part of living with FND. We also need to describe our symptoms clearly, recognize important differences and find reliable information about our own experiences.
+
+That's where we're going next.
+
+In **Module 8 — Recognizing Symptoms and Finding Information**, we'll learn how to put those experiences into words and use the Reference Library to explore diagnosis, safety and recovery options without needing to become our own doctors.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
