@@ -6,7 +6,7 @@ Lesson 19 explores interoception, Proprioception, and Outside Senses through eve
 
 *Last reviewed: October 26, 2026*
 
-*The Person section was human-authored and approved October 30, 2026. Supporter and Clinician sections remain working drafts awaiting human authoring.*
+*The Person section was human-authored and approved October 30, 2026; the Clinician section was human-edited and approved November 2, 2026. The Supporter section remains a working draft.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -406,36 +406,103 @@ A parent or partner may be closely involved, whereas a friend might only offer a
 
 ## For Clinicians and the Care Team
 
-### Separate sensing, appraisal and measurement
+### Understanding the information behind the experience
 
-**Interoception** includes central representation and integration of bodily conditions, with processes both within and outside awareness; **proprioception** includes position, movement and force-related sensing; **exteroception** concerns outside sensory input. “Noticing,” self-reported sensitivity, confidence, accuracy on a test, physiological status and a neural response measure are not interchangeable. (*citations* [1](#citation-1), [2](#citation-2))
+In Lesson 18, we examined how the nervous system combines expectations with incoming information. We now look more closely at that information and how differences in sensing, interpretation and measurement influence clinical understanding and rehabilitation.
 
-The 2026 cross-sectional cardiac interoception study in a mixed-FND cohort reported group differences in some self-report and heartbeat-evoked EEG measures, while a heartbeat-counting accuracy comparison was not statistically significant. The selected method and sample cannot diagnose a person, establish a global interoceptive deficit or prescribe treatment. A nonsignificant accuracy comparison is not evidence of equivalence.
+Three interacting sensory systems are particularly relevant:
 
-**OT** can ask which sensations and environmental demands interfere with specific tasks and modify lighting, tactile inputs, instructions or seating. **Physiotherapy** can integrate assessed proprioceptive demands and balance safety into functional practice. **Psychology** may help reduce distress around symptoms or evaluate interpretation when relevant, but must not invalidate physiological findings. **Speech-language therapy** should consider eating, swallowing and airway complaints on their own medical safety pathway.
+- **Exteroception:** Information from the external environment, including vision, hearing and sensations arising from contact with the skin.
+- **Proprioception:** Information about body position, movement and force, primarily involving muscles, tendons and joints.
+- **Interoception:** Sensing and representing internal bodily conditions, including cardiovascular, respiratory and visceral signals, much of which occurs outside awareness.
 
-### Practice applications with limits
+These systems work together. For example, when someone buttons a shirt, their eyes help locate the button, cutaneous sensation provides information about the fabric, and proprioception contributes information about finger position and movement. The distinction becomes clinically important when a patient reports that an ordinary action no longer feels as it should. [1](#citation-1), [2](#citation-2)
 
-**Functional sensory symptoms:** Describe distribution, timing, variability, disability and positive signs *in context*. Where a sensory rehabilitation approach is appropriate, set tolerable goals; do not use prolonged or painful stimulation to “prove” sensation is present. [Assessment](../../reference/diagnostic-signs/07-functional-sensory-symptoms.md) · [care](../../reference/recovery-techniques/07-functional-sensory-symptoms.md).
+### Clinical case: When a hand doesn't feel where it should
 
-**Functional visual symptoms:** Ophthalmic and neurological assessment remains essential to evaluate ocular, neurological and coexisting causes. OT may support contrast, reading access, lighting and environmental adaptations, while specialist rehabilitation is tailored to the assessed impairment. Photophobia or visual overload is not itself proof of functional visual loss. [Assessment](../../reference/diagnostic-signs/08-functional-visual-symptoms.md) · [care](../../reference/recovery-techniques/08-functional-visual-symptoms.md).
+*Maya is a fictional patient with an established FND diagnosis based on appropriate positive neurological findings.*
 
-**Persistent postural-perceptual dizziness (PPPD):** This is a defined functional vestibular disorder; it is not diagnosed simply because a person has FND or dizziness. Evaluate the symptom's timing, upright and motion-related context, visual sensitivity, relevant vestibular criteria and overlapping migraine, dysautonomia and other disorders. When indicated, vestibular therapists can build an individualized programme; OT can modify visually demanding environments. Avoid using “visual dependence” as a substitute for diagnosing dizziness. [Assessment](../../reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) · [care](../../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md).
+She describes an unusual experience while folding laundry.
 
-**Functional swallowing symptoms and globus:** An altered sensation of swallowing does not rule out unsafe swallowing, aspiration, gastrointestinal or structural disease. Speech-language clinicians should assess swallowing safety and consider instrumental studies where appropriate before any retraining; psychological or attention-based approaches are not an alternative to managing airway and nutrition risk. [Assessment](../../reference/diagnostic-signs/10-functional-swallowing-and-globus.md) · [care](../../reference/recovery-techniques/10-functional-swallowing-and-globus.md).
+"I can see my hand holding the towel, but it feels farther away than it really is. Sometimes I can't tell where the edge of the fabric is until I look."
 
-### What to record
+Maya can usually complete the activity, although it now requires considerably more effort. She finds herself repeatedly looking at her hand, repositioning the towel and checking her grip.
 
-Document one meaningful everyday goal, separate symptom description from objective measures, state uncertainty and obtain a review of the *real-world result*. Never transfer heartbeat counting, breath holding, eyes-closed balance or other research procedures to home practice.
+**Which sensory system is involved?**
 
-**Evidence boundary:** Definitions are grounded in general neuroscience [1](#citation-1), [2](#citation-2); mixed-FND interoception research [3](#citation-3) does not establish treatment efficacy. Swallowing and communication management is primarily specialist consensus [4](#citation-4).
+Her account raises several possibilities. Difficulty detecting the fabric's edge could involve cutaneous sensation. Uncertainty about where her fingers are positioned might suggest altered proprioceptive experience, while feeling that the hand is distant could concern body representation or ownership.
 
-### Three clinical questions, not one sensory diagnosis
+There might also be a motor coordination difficulty, while the increased attention required could affect task performance. These experiences can overlap, but they are not interchangeable. The useful starting point is to clarify which abilities have changed, which remain available and how those findings relate to Maya's everyday difficulty.
 
-If a patient says a leg feels absent, clarify whether they mean a change in **sensation**, impaired **position sense**, altered **body ownership**, loss of **motor output**, or difficulty describing the experience. These can coexist but should not be collapsed into “poor interoception.”
+### What can clinical assessment tell us?
 
-Similarly, a racing-heart sensation should be documented separately from measured tachycardia and its cause; orthostatic symptoms may require cardiovascular/autonomic evaluation. Sensory and balance supports can be chosen through PT/OT in the context of examination and the patient's goals. A self-report, psychophysical accuracy test and neural response are not interchangeable evidence. The specific 2026 heartbeat study does not diagnose a global interoceptive deficit. (*citations* [3](#citation-3), [5](#citation-5), [7](#citation-7))
+A sensory complaint can describe several different experiences, and clinical findings help distinguish them.
 
+For example, suppose Maya consistently recognizes the position of her fingers during examination but continues to describe her hand as distant. Her subjective experience of limb position has changed, while the particular proprioceptive ability tested remains demonstrable under those conditions. One finding does not invalidate the other.
+
+Similarly, Maya's difficulty locating the towel's edge might involve cutaneous sensation, but it could also reflect difficulty integrating sensation and movement during the activity. A sensory examination can help characterize which functions are affected. Its findings must be interpreted alongside the patient's history, clinical presentation and relevant neurological evidence. An unusual sensory distribution or an apparent inconsistency is not, by itself, sufficient to diagnose FND. [5](#citation-5)
+
+The detailed methods and diagnostic limitations belong in the [sensory mapping reference](../../reference/diagnostic-signs/functional_sensory_symptoms/01-sensory-mapping-and-comparison.md).
+
+Maya's difficulty with the towel adds another kind of information. She can see her hand, understands the task and wants to complete it, yet handling the fabric requires more effort than expected. Her performance during this familiar activity helps connect the examination findings to the difficulty she experiences in daily life.
+
+**The clinically useful distinction is between what Maya feels, what an examination demonstrates and how those abilities contribute to the activity she wants to perform.**
+
+### From assessment to rehabilitation
+
+Suppose Maya's assessment supports an appropriate functional rehabilitation approach, with other relevant medical explanations considered. Her goal is straightforward: she wants to fold laundry comfortably again.
+
+One possibility involves using the activity itself to bring sensation and movement together. An occupational therapist working with Maya might explore how she identifies a towel's edge, feels its surface and follows its folds while handling it. Sight can remain available when helpful; a useful activity does not become more therapeutic simply because the person is deprived of information that supports it.
+
+**Why might this approach help?** It brings tactile information, movement and a familiar functional goal together. The distinction from an isolated sensory test is important: recognizing a sensation during examination and using that information while manipulating an object are related, but different abilities. Meaningful activity provides an opportunity to explore how available sensory information contributes to functional hand use.
+
+Sensory discrimination and movement-associated feedback are described among approaches to functional sensory rehabilitation, although evidence for specific techniques remains limited. [7](#citation-7) The rationale is therefore clinical and individualized: the activity may provide a tolerable opportunity to explore sensation and improve functional hand use. It does not establish which neural mechanism produced Maya's symptoms.
+
+### Did the rehabilitation approach help?
+
+Suppose Maya begins folding the towel with fewer interruptions. The clinician can examine whether she locates the fabric more consistently, completes the task with less assistance, and experiences less effort or discomfort. Equally important is what happens outside the appointment: Can Maya fold laundry at home using the approach? Does it help with another familiar activity, such as putting on a jacket?
+
+Those observations help distinguish improvement during a supported activity from improvement that carries into everyday life. They also help reveal whether the approach is suitable for Maya. A particular texture might improve her ability to locate the fabric but cause discomfort or sensory overload. In that situation, the benefit must be considered alongside the additional difficulty.
+
+Likewise, continued difficulty with the task might suggest that the intervention has not adequately addressed the problem. Sensory experience, motor coordination and task demands may each contribute to the result. The treatment goal is improved hand use and participation, with comfort and safety preserved.
+
+**A successful functional activity is a meaningful rehabilitation outcome even when the underlying sensory-processing mechanism remains uncertain.**
+
+### What can interoception research teach us?
+
+Maya's experience primarily concerns external sensation, body position and possibly body representation. Interoception raises a different clinical question: how the nervous system senses and represents conditions inside the body. Both subjects illustrate why subjective experience and measured function must be distinguished.
+
+Khalsa and colleagues (2018) described interoception as involving several related processes, including the sensing, interpretation and awareness of internal bodily information. [1](#citation-1)
+
+A 2026 study by Stoffel and colleagues offers an interesting FND example. The researchers found differences between participants with FND and healthy controls in some self-reported measures and heartbeat-related brain responses. However, a heartbeat-counting task did not show a statistically significant difference between groups. [3](#citation-3)
+
+**Why does that matter?** These measurements are not interchangeable. What someone experiences, how they perform on a particular sensory task and what researchers record from the brain may tell different parts of the story. The findings were group-level observations and cannot establish the cause of an individual's symptoms.
+
+Consider a patient who reports that their heart is racing. The sensation is real as an experience, but it does not establish whether the heart rate is elevated or explain why the person feels it. These are separate clinical questions, informed by physiological measurements, history and other findings. FND can coexist with arrhythmia, orthostatic disorders, medication effects or other medical conditions.
+
+The study is useful because it reinforces the importance of keeping those questions distinct. It does not provide an FND diagnostic test or demonstrate that interoceptive retraining would benefit a particular patient. Clinicians interested in the EEG methods, statistical findings and study limitations can explore the [original paper](#citation-3).
+
+### Why might different professionals contribute?
+
+Maya's principal difficulty concerns using her hand during familiar activities. Occupational therapy offers a relevant perspective because it examines the relationship between sensation, movement, the demands of an activity and participation in daily life. If a substantial motor-control problem is also identified, physiotherapy may contribute a different understanding of movement and rehabilitation.
+
+Neither professional perspective is automatically sufficient for every sensory presentation. For example, visual loss raises questions that may involve ophthalmological or neurological expertise. Dizziness can involve vestibular, migraine, cardiovascular or other explanations; persistent postural-perceptual dizziness has specific diagnostic criteria rather than being interchangeable with FND or dizziness generally. [6](#citation-6)
+
+An altered swallowing sensation presents another distinction. Subjective discomfort, swallowing function and airway safety are different clinical questions. Speech-language therapy expertise may be relevant, while medical assessment remains essential when structural, neurological, nutritional or aspiration concerns are present. [4](#citation-4)
+
+These examples illustrate why collaboration is most useful when it answers a specific clinical question. The relevant handoff connects the patient's experience and functional goal with findings that another professional can help interpret or address.
+
+For more detailed assessment and rehabilitation information, the Reference Library includes [functional sensory symptoms](../../reference/diagnostic-signs/07-functional-sensory-symptoms.md), [sensory recovery approaches](../../reference/recovery-techniques/functional_sensory_symptoms/README.md), [sensation with meaningful movement](../../reference/recovery-techniques/functional_sensory_symptoms/04-sensation-with-meaningful-movement.md) and [visual or mirror feedback](../../reference/recovery-techniques/functional_sensory_symptoms/06-visual-and-mirror-feedback.md).
+
+### What should clinicians take from this lesson?
+
+Sensory experiences arise from interacting sources of information. Understanding exteroception, proprioception and interoception helps distinguish what a person feels, what an examination or measurement establishes and what remains unexplained.
+
+In Maya's case, that distinction creates an opportunity to understand why an ordinary hand activity has become difficult and how sensory information might support more comfortable participation. The interoception research illustrates the same broader principle from another perspective: subjective experiences, task performance and physiological measurements can provide different, complementary information.
+
+Together, these ideas improve the questions clinicians can ask and the reasoning behind individualized rehabilitation.
+
+**Clinical takeaway:** Sensory experience, measured function and underlying cause are different clinical questions. Understanding their relationship can reveal useful rehabilitation opportunities while preserving appropriate medical assessment and meaningful everyday outcomes.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -444,6 +511,7 @@ Similarly, a racing-heart sensation should be documented separately from measure
 [Research and Sources](#research-and-sources)
 
 ***
+
 
 ## Research and Sources
 
