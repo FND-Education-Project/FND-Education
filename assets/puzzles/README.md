@@ -36,7 +36,7 @@ Choose a collection, module and lesson. These optional activities offer a lighte
 
 [Crosswords](#crosswords) · [Colouring pages](#colouring-pages) · [Course](../../course/README.md)
 
-**Jump to a crossword:** [Lesson 12](#lesson-12-crossword) · [Lesson 13](#lesson-13-crossword) · [Lesson 14](#lesson-14-crossword) · [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Lesson 9](#physical-psychological-and-social-factors) · [Lesson 10](#making-sense-of-your-symptoms) · [Lesson 11](#building-your-symptom-map) · [Module 1 review](#module-1-review-crossword) · [Module 2 review](#module-2-review-crossword) · [Module 3 review](#module-3-review-crossword)
+**Jump to a crossword:** [Lesson 15](#lesson-15-crossword) · [Lesson 16](#lesson-16-crossword) · [Lesson 17](#lesson-17-crossword) · [Module 4 review](#module-4-review-crossword) · [Module 5 review](#module-5-review-crossword) · [Module 6 review](#module-6-review-crossword) · [Lesson 12](#lesson-12-crossword) · [Lesson 13](#lesson-13-crossword) · [Lesson 14](#lesson-14-crossword) · [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Lesson 9](#physical-psychological-and-social-factors) · [Lesson 10](#making-sense-of-your-symptoms) · [Lesson 11](#building-your-symptom-map) · [Module 1 review](#module-1-review-crossword) · [Module 2 review](#module-2-review-crossword) · [Module 3 review](#module-3-review-crossword)
 
 ## Crosswords
 
@@ -360,11 +360,114 @@ Revisit the lesson with a crossword. The easy edition includes a word bank.
 <div class="puzzle-downloads"><a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-14/using-your-safety-plan-m5-14-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-14/using-your-safety-plan-m5-14-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal PDF (new tab)</a> · <a href="{{ '/assets/puzzles/crosswords/Module-5-Lesson-14/using-your-safety-plan-m5-14-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key PDF (new tab)</a></div>
 </div>
 
+
+<span id="lesson-15-crossword"></span>
+
+### Attention: What the Brain Notices
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-15" aria-label="Browse Attention: What the Brain Notices"><img src="{{ '/assets/puzzles/thumbnails/attention-what-the-brain-notices-m6-15-normal.svg' | relative_url }}" alt="Preview of the crossword grid" loading="lazy" decoding="async"><span>Attention: What the Brain Notices</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Attention: What the Brain Notices PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-15/attention-what-the-brain-notices-m6-15-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy PDF for Attention: What the Brain Notices (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-15/attention-what-the-brain-notices-m6-15-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal PDF for Attention: What the Brain Notices (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-15/attention-what-the-brain-notices-m6-15-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key PDF for Attention: What the Brain Notices (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m6/1/' | relative_url }}">Read the lesson</a>
+
+<span id="lesson-16-crossword"></span>
+
+### Automatic Control and Conscious Effort
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-16" aria-label="Browse Automatic Control and Conscious Effort"><img src="{{ '/assets/puzzles/thumbnails/automatic-control-and-conscious-effort-m6-16-normal.svg' | relative_url }}" alt="Preview of the crossword grid" loading="lazy" decoding="async"><span>Automatic Control and Conscious Effort</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Automatic Control and Conscious Effort PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-16/automatic-control-and-conscious-effort-m6-16-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy PDF for Automatic Control and Conscious Effort (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-16/automatic-control-and-conscious-effort-m6-16-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal PDF for Automatic Control and Conscious Effort (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-16/automatic-control-and-conscious-effort-m6-16-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key PDF for Automatic Control and Conscious Effort (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m6/2/' | relative_url }}">Read the lesson</a>
+
+<span id="lesson-17-crossword"></span>
+
+### Distraction, External Focus, and Context
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-17" aria-label="Browse Distraction, External Focus, and Context"><img src="{{ '/assets/puzzles/thumbnails/distraction-external-focus-and-context-m6-17-normal.svg' | relative_url }}" alt="Preview of the crossword grid" loading="lazy" decoding="async"><span>Distraction, External Focus, and Context</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Distraction, External Focus, and Context PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-17/distraction-external-focus-and-context-m6-17-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy PDF for Distraction, External Focus, and Context (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-17/distraction-external-focus-and-context-m6-17-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal PDF for Distraction, External Focus, and Context (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Lesson-17/distraction-external-focus-and-context-m6-17-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key PDF for Distraction, External Focus, and Context (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m6/3/' | relative_url }}">Read the lesson</a>
+
+<span id="module-4-review-crossword"></span>
+
+### FND Education — Module 4 Review
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=module-4-review" aria-label="Browse FND Education — Module 4 Review"><img src="{{ '/assets/puzzles/thumbnails/fnd-education-module-4-review-m4-normal.svg' | relative_url }}" alt="Preview of the crossword grid" loading="lazy" decoding="async"><span>FND Education — Module 4 Review</span></a>
+<div class="puzzle-downloads" role="group" aria-label="FND Education — Module 4 Review PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-4-Summary/fnd-education-module-4-review-m4-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy PDF for FND Education — Module 4 Review (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-4-Summary/fnd-education-module-4-review-m4-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal PDF for FND Education — Module 4 Review (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-4-Summary/fnd-education-module-4-review-m4-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key PDF for FND Education — Module 4 Review (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m4/' | relative_url }}">Read the module</a>
+
+<span id="module-5-review-crossword"></span>
+
+### FND Education — Module 5 Review
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=module-5-review" aria-label="Browse FND Education — Module 5 Review"><img src="{{ '/assets/puzzles/thumbnails/fnd-education-module-5-review-m5-normal.svg' | relative_url }}" alt="Preview of the crossword grid" loading="lazy" decoding="async"><span>FND Education — Module 5 Review</span></a>
+<div class="puzzle-downloads" role="group" aria-label="FND Education — Module 5 Review PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-5-Summary/fnd-education-module-5-review-m5-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy PDF for FND Education — Module 5 Review (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-5-Summary/fnd-education-module-5-review-m5-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal PDF for FND Education — Module 5 Review (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-5-Summary/fnd-education-module-5-review-m5-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key PDF for FND Education — Module 5 Review (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m5/' | relative_url }}">Read the module</a>
+
+<span id="module-6-review-crossword"></span>
+
+### FND Education — Module 6 Review
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=module-6-review" aria-label="Browse FND Education — Module 6 Review"><img src="{{ '/assets/puzzles/thumbnails/fnd-education-module-6-review-m6-normal.svg' | relative_url }}" alt="Preview of the crossword grid" loading="lazy" decoding="async"><span>FND Education — Module 6 Review</span></a>
+<div class="puzzle-downloads" role="group" aria-label="FND Education — Module 6 Review PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Summary/fnd-education-module-6-review-m6-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy PDF for FND Education — Module 6 Review (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Summary/fnd-education-module-6-review-m6-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal PDF for FND Education — Module 6 Review (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-6-Summary/fnd-education-module-6-review-m6-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key PDF for FND Education — Module 6 Review (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m6/' | relative_url }}">Read the module</a>
+
 ## Colouring pages
 
 Choose a preview to open the printable PDF. Select landscape orientation and fit to page when printing.
 
 <div class="puzzle-grid puzzle-grid-colouring">
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-15-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-15-coloring-book.png' | relative_url }}" alt="" loading="lazy"><span>Lesson 15: Attention: What the Brain Notices <small>PDF</small></span></a>
+
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-16-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-16-coloring-book.png' | relative_url }}" alt="" loading="lazy"><span>Lesson 16: Automatic Control and Conscious Effort <small>PDF</small></span></a>
+
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-17-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-17-coloring-book.png' | relative_url }}" alt="" loading="lazy"><span>Lesson 17: Distraction, External Focus, and Context <small>PDF</small></span></a>
+
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-12-coloring-book.pdf' | relative_url }}"><img src="{{ '/assets/puzzles/colouring/lesson-12-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async"><span>Lesson 12: Familiar Symptoms, New Symptoms, and Medical Change <small>PDF</small></span></a>
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-13-coloring-book.pdf' | relative_url }}"><img src="{{ '/assets/puzzles/colouring/lesson-13-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async"><span>Lesson 13: Emergency Information and Individual Safety Plans <small>PDF</small></span></a>
 <a class="puzzle-card" target="_blank" rel="noopener" title="Opens PDF in a new tab or window" href="{{ '/assets/puzzles/colouring/lesson-14-coloring-book.pdf' | relative_url }}"><img src="{{ '/assets/puzzles/colouring/lesson-14-coloring-book.png' | relative_url }}" alt="" loading="lazy" decoding="async"><span>Lesson 14: Using Your Safety Plan and Deciding When to Get Urgent Help <small>PDF</small></span></a>

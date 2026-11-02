@@ -35,6 +35,19 @@ A personal symptom map can reduce the work of remembering which symptoms are con
 | <a id="citation-3"></a>**[3]** | — | Rutten S, Bradley-Westguard A, Nicholson TR, et al. Outcome measurement in functional neurological disorder: a qualitative study on the views of patients, caregivers and healthcare professionals. *Journal of Neurology*. 2025;272:189. [FND-CIT-0012](../../research/citation-index.md#fnd-cit-0012). [https://doi.org/10.1007/s00415-025-12912-9](https://doi.org/10.1007/s00415-025-12912-9) |
 | <a id="citation-4"></a>**[4]** | — | Pick S, Anderson DG, Asadi-Pooya AA, et al. Outcome measurement in functional neurological disorder: a systematic review and recommendations. *Journal of Neurology, Neurosurgery & Psychiatry*. 2020;91(6):638–649. [FND-CIT-0067](../../research/citation-index.md#fnd-cit-0067). [https://doi.org/10.1136/jnnp-2019-322180](https://doi.org/10.1136/jnnp-2019-322180) |
 
+
+## Optional module review crossword
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=module-4-review" aria-label="Browse FND Education — Module 4 Review"><img src="{{ '/assets/puzzles/thumbnails/fnd-education-module-4-review-m4-normal.svg' | relative_url }}" alt="Preview of the crossword grid" loading="lazy" decoding="async"><span>FND Education — Module 4 Review</span></a>
+<div class="puzzle-downloads" role="group" aria-label="FND Education — Module 4 Review PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-4-Summary/fnd-education-module-4-review-m4-easy.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Easy PDF for FND Education — Module 4 Review (opens in a new tab)">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-4-Summary/fnd-education-module-4-review-m4-normal.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Normal PDF for FND Education — Module 4 Review (opens in a new tab)">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-4-Summary/fnd-education-module-4-review-m4-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Answer key PDF for FND Education — Module 4 Review (opens in a new tab)">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
 <!-- NAV-CONTEXT:START -->
 **Continue:** [Start with Build and Use Your Personal Symptom Map](01-build-and-use-your-personal-symptom-map.md)
 
