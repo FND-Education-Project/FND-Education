@@ -705,9 +705,17 @@ Acceptance, useful adaptations and rehabilitation can work together when needed.
 
 And when an involuntary neurological symptom interrupts an important conversation, its timing doesn't tell us what someone intended.
 
-**Something to think about:** Have you experienced a difference between what you were feeling, what you understood about that feeling and what you were able to say or do?
+### Something to think about
 
-**One small step:** Think of one part of an emotionally demanding situation that could be made easier. It might involve fewer demands, more time to respond or another way to communicate. You don't have to monitor every feeling or provoke symptoms to find something helpful.
+Think about a conversation that became harder than you expected. Perhaps you lost the question halfway through, couldn't find a word, or had several questions coming at once. Did frustration arrive before the difficulty, or did it begin because you couldn't answer? It's fine if you can't tell which came first.
+
+### How might that feel?
+
+If you still wanted to take part in the conversation, what would you most want the other person to understand? Would more time, fewer questions or a different way to answer help you feel included?
+
+### One small step
+
+For a conversation that matters—perhaps planning a visit or explaining something at an appointment—make room for your answer. One question at a time, a quieter place, or a note you can point to may help. An arrangement that already makes another task easier could be useful here too. You don't have to control every feeling for the conversation to matter.
 
 In our next lesson, we'll explore the difference between **intending an action**, **feeling in control of it**, and **what your body actually does**.
 
