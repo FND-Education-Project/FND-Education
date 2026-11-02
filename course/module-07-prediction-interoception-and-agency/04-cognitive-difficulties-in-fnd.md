@@ -425,9 +425,17 @@ We've also met dissociation—a different experience that can involve feeling di
 
 And we've seen how understanding the particular difficulty can help us explain it, seek assessment and choose useful support.
 
-**Something to think about:** When you say "I forgot," what happened? Did the information fail to register, disappear while you were using it, or become hard to bring back later?
+### Something to think about
 
-**One small step:** Think of one ordinary support that already makes a task easier—perhaps a written reminder or a familiar routine. You don't need to test your memory to learn from it.
+Remember losing your place while cooking, forgetting what was agreed during a telephone call, or reaching for a word you know? Which comes closest to your experience? Did the information disappear while you were using it, or was it hard to bring back later?
+
+### How might that feel?
+
+When something important goes missing, what would you want the person beside you to understand? What kind of help would let you continue without feeling rushed or questioned?
+
+### One small step
+
+If an interruption makes it hard to finish something you enjoy, a simple place-marker may help: a tick beside the last recipe step or a short note about what was agreed on a call. A reminder that's already working is just as useful. The point is to make the activity easier, not test your memory.
 
 In our next lesson, we'll explore what happens when thinking difficulties enter an emotional situation.
 
