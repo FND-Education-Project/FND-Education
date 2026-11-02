@@ -342,9 +342,17 @@ Scientists are investigating whether differences in these abilities contribute t
 
 Understanding the kinds of information your brain receives gives us better words for our experiences and better questions to bring to our care team.
 
-**Something to think about:** Have you ever found it difficult to explain a sensation because you weren't sure whether it involved your body position, something inside you or something in your surroundings?
+### Something to think about
 
-**One small step:** Choose one sensation you already know well and describe it using ordinary, precise words. You don't need to test it or work out the cause.
+Picture walking on uneven ground, sitting in a bright room, or noticing an uncomfortable feeling inside your body. Which information seems most important in that moment: where your body is, what is happening around you, or what you're feeling inside? You don't need to work out the cause to describe the experience.
+
+### How might that feel?
+
+If someone couldn't see or feel what was making that situation difficult, what would you want them to understand? Would having better words for it make asking for help a little easier?
+
+### One small step
+
+Think of a place you'd like to enjoy more comfortably. Softer light for reading, a quieter place to talk, or a safer route across uneven ground might help. The useful change may be something you've already arranged; what matters is whether it helps you take part.
 
 In our next lesson, we'll explore why some information becomes particularly important to the brain—and why certain sensations, sounds or demands can become so difficult to ignore.
 
