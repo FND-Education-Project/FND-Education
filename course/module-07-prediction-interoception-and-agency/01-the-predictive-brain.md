@@ -338,28 +338,145 @@ A parent may prepare school transitions, a spouse may clarify an appointment rou
 
 ## For Clinicians and the Care Team
 
-### Models illuminate hypotheses; they do not certify causes
+### From attention to prediction
 
-Predictive-processing accounts describe the interaction of expectations, incoming sensory evidence and estimates of their reliability. In these models, a **prior** is not necessarily a consciously held belief, a **prediction error** is a mismatch rather than a patient's mistake, and **precision weighting** is computationally different from confidence or willpower. These constructs can be helpful for generating hypotheses about perception and action in FND, but evidence for a patient-specific altered prior cannot be read straight from persistent symptoms, normal structural imaging or therapeutic response. (*citations* [1](#citation-1), [2](#citation-2))
+In Module 6, we examined how attention influences movement, why familiar actions can occur with relatively little conscious control, and how changing the task or context may change functional performance. Those observations raise another question: **How does the nervous system prepare for what comes next, and what happens when incoming information differs from what it expects?**
 
-Take a clinician who notices that an activity becomes harder when timing is uncertain. A useful formulation may include anticipation, motor planning, fatigue, environmental complexity and other disease. The legitimate next step is to clarify task conditions and consider a reversible adjustment—not to tell the person they expected failure and created it.
+Module 7 explores that question from several perspectives. Lesson 18 introduces predictive processing. Lesson 19 examines sensory information from inside the body, its position and the external environment. Lesson 20 considers salience, arousal and feedback loops. Lesson 21 addresses cognitive difficulties, followed by emotional regulation in Lesson 22. Lesson 23 brings these ideas together through agency, learning and personal adaptations.
 
-**Physiotherapists** may use predictable cues or a clear task target as clinically indicated while tracking function and adverse effects. **OT** may examine whether scheduling, physical setup or step order reduces uncertainty in valued activities. **Psychologists** can explore expectation, self-efficacy and distress when the person identifies them as relevant, without converting a computational theory into blame.
+We begin with **predictive processing**, a theoretical framework for understanding how the nervous system combines prior expectations with incoming sensory information to guide perception and action.
 
-**Symptom application — Functional speech and voice symptoms:** Speech-language clinicians may compare spontaneous, rehearsed, automatic and goal-directed speaking under appropriate assessment conditions and offer supported communication, pacing and task-specific practice. The variability of speech across tasks is not proof that a person could speak fluently on demand, and the prediction model does not establish the cause of dysphonia, stuttering or word blocking. [Speech/voice assessment](../../reference/diagnostic-signs/09-functional-speech-and-voice-symptoms.md) · [speech/voice recovery](../../reference/recovery-techniques/09-functional-speech-and-voice-symptoms.md).
+### Predictive processing: Preparing, checking and updating
 
-### Turn a theoretical explanation into a respectful conversation
+Consider a person climbing a familiar staircase. Their foot rises for another step, but they've already reached the top.
 
-A clinician can say: “Your brain constantly anticipates and adjusts. Researchers are exploring whether changes in those processes contribute to some functional symptoms. We can use that idea to consider helpful task conditions, without claiming we know why yours started.”
+For a moment, the movement continues as though another step exists. The nervous system prepared the action from the familiar pattern, but incoming information reveals a mismatch.
 
-**Evidence boundary:** Bayesian FND accounts are theoretical; studies of speech/voice intervention cannot automatically establish the proposed computational mechanism. [1](#citation-1) · [2](#citation-2) · [3](#citation-3). Historical diagnostic terms in original paper titles are not suitable explanatory language for a patient.
+Predictive-processing models describe this interaction through three related concepts:
 
-### A clinical comparison, not a test of belief
+- **Priors:** Expectations informed by previous experience, often operating outside conscious awareness.
+- **Prediction errors:** Differences between expected and incoming information that can contribute to updating perception or action.
+- **Precision weighting:** The estimated reliability assigned to expectations and incoming sensory evidence, influencing how strongly each contributes.
 
-In a patient struggling with a timed transition, compare what the task requires before and after a clear cue, while respecting safety, fatigue and any other neurological condition. Record the **functional outcome**, assistance and possible adverse effects. A more predictable task can become more accessible without validating a model of aberrant prediction.
+The missing step is an ordinary example of anticipation and correction. It illustrates the concepts without demonstrating that the nervous system literally computes them in one particular way.
 
-**Distinguish three levels:** anticipatory processing is established general neuroscience; predictive-processing accounts of FND are proposed mechanisms; a particular improvement after a cue is a clinical observation. Neither improvement nor failure establishes a patient's prior beliefs. Where functional communication is concerned, the SLT consensus provides an individualized clinical approach, not a Bayesian mechanism test. (*citation* [3](#citation-3))
+Now consider uneven ground. When the surface is unpredictable, earlier steps provide a less reliable guide to the next one. The nervous system must continually integrate fresh visual and body-position information to adjust movement.
 
+Prediction is involved in perception as well as action. Previous experience helps the brain interpret sights, sounds and bodily sensations, while incoming information helps refine those interpretations.
+
+**What might change if the relative weighting of expectations and incoming information differs?**
+
+This question lies at the centre of predictive-processing theories of FND.
+
+### What does FND research suggest?
+
+Edwards and colleagues (2012) proposed a Bayesian account in which altered weighting of prior expectations and sensory information could contribute to certain functional motor and sensory symptoms. [1](#citation-1)
+
+In this model, a sufficiently influential prior could affect how movement or sensation is experienced, even when incoming information might otherwise support an adjustment.
+
+Importantly, the prior is a computational construct. It is not necessarily a consciously held belief that the person will fail to move.
+
+Drane and colleagues (2021) placed predictive-processing ideas within a broader framework of interacting mechanisms, including attention, emotion, agency and neural network function. [2](#citation-2)
+
+These publications provide plausible theoretical explanations, but neither establishes a universal FND mechanism or a validated measure of abnormal precision weighting in an individual patient. Their clinical value is in directing attention toward questions that can be investigated:
+
+**What does the patient anticipate during an activity? What information must the nervous system use to complete it? Does changing the task or sensory context alter functional performance?**
+
+The answers may help shape rehabilitation, even when the precise computational mechanism remains unknown.
+
+### Clinical case: Walking into the community centre
+
+*Elena is a fictional patient whose functional gait disorder has been diagnosed through an appropriate neurological examination with positive clinical findings.*
+
+She wants to return to a weekly community activity.
+
+Walking along a quiet, familiar corridor is sometimes manageable using her usual mobility aid. Entering the community centre is much harder.
+
+People move across her path. Chairs are arranged differently each week. She must decide where to walk while adjusting to changing visual information.
+
+Elena often stops at the entrance.
+
+"I know where I want to go, but I can't seem to get my feet started."
+
+She also experiences migraine and sensitivity to bright lighting.
+
+**Why might predictive processing be relevant?**
+
+In the familiar corridor, previous experience provides useful information about the expected route. At the community centre, the environment changes continually, requiring the nervous system to update movement preparation using incoming visual and body-position information.
+
+Predictive-processing theory raises the possibility that the integration or weighting of that information contributes to Elena's difficulty.
+
+However, her hesitation could also involve attentional demands, motor initiation, sensory discomfort, fatigue, vestibular difficulties or other clinical factors. Her history and examination must guide which possibilities warrant investigation.
+
+The theory gives the clinician a question to explore, rather than an answer to assume.
+
+### Using the observation to guide rehabilitation
+
+Elena's physiotherapist begins with her goal: reaching a chair and joining the weekly group.
+
+The assessment identifies where the activity becomes difficult. Does hesitation occur when the route changes? During movement initiation? When people cross her path? Does she become uncomfortable under the bright lighting?
+
+Elena reports that she manages better when she can see a clear destination and knows the route.
+
+This creates an opportunity for a collaborative, clinically supervised comparison.
+
+The physiotherapist might begin with a short, predictable route to a visible destination, retaining Elena's usual mobility aid and appropriate safety measures. The therapist can then assess how she initiates movement, maintains walking and manages transitions.
+
+If the task becomes easier, the clinician has identified a potentially useful condition for rehabilitation.
+
+**Why might that help?**
+
+A stable destination and a predictable route can simplify some of the demands involved in planning and adjusting movement. In predictive-processing terms, the task may place different demands on anticipation and incoming sensory information.
+
+That interpretation remains hypothetical. The improvement could involve attention, task clarity, motor control or several factors together.
+
+The practical rehabilitation rationale is stronger: **Elena has demonstrated a more accessible way to perform an activity that matters to her.**
+
+Functional motor rehabilitation consensus recommendations support individualized, meaningful, task-oriented practice. [5](#citation-5) Occupational therapy consensus also emphasizes collaborative goals, activity analysis and adaptations that support participation. [6](#citation-6)
+
+These clinical principles can guide treatment without requiring confirmation of altered precision weighting.
+
+### Evaluating whether the intervention works
+
+Suppose Elena reaches her chair more easily during therapy.
+
+The therapist records what changed: movement initiation, assistance required, task completion, comfort and any adverse effects. Elena's own assessment of effort and usefulness is equally important.
+
+The next question is whether the improvement helps her outside the treatment session.
+
+Perhaps she manages the route when the hall is quiet but still struggles when people move around her. This suggests that the intervention helps under certain conditions, while additional demands remain difficult.
+
+The clinician can then decide whether to modify the task, develop another rehabilitation strategy or maintain an accommodation that supports attendance.
+
+A meaningful improvement does not need to occur under every condition to be valuable. Nor does a successful response establish that a predictive-processing abnormality has been corrected. The outcome that matters is whether Elena can participate more safely, comfortably and independently according to her goals.
+
+### When another clinical perspective is needed
+
+Elena's physiotherapist may lead the movement rehabilitation, while an occupational therapist could help assess the community setting and identify practical environmental adaptations.
+
+Her migraine and visual discomfort may warrant assessment or management by her treating medical clinician. A new visual disturbance, progressive deficit or other clinically significant change requires assessment on its own merits.
+
+Additional professionals become involved according to the findings and the patient's needs, rather than as a routine consequence of the FND diagnosis.
+
+The same reasoning can apply to other functional presentations.
+
+For example, a speech-language therapist may compare communication across spontaneous, rehearsed and purposeful speaking tasks. The Baker and colleagues consensus provides recommendations for individualized assessment and management of functional communication symptoms. [3](#citation-3)
+
+Task-dependent differences may identify therapeutic opportunities. They do not establish that the patient's speech difficulty results from an abnormal prior or that fluent speech can be produced on demand.
+
+**Predictive-processing theory can inform clinical questions across presentations, while the assessment and rehabilitation approach remain specific to the symptom and the individual.**
+
+### What should clinicians take into practice?
+
+Predictive processing provides a framework for examining how the nervous system uses previous experience and incoming sensory information to prepare actions and interpret sensations.
+
+In FND, altered weighting of that information is a proposed mechanism, not an established explanation for every symptom.
+
+The clinical application is to examine how task demands, sensory information and environmental context affect the individual's function. From there, clinicians can select appropriate rehabilitation strategies, preserve necessary supports and evaluate meaningful outcomes.
+
+When treatment helps, the functional benefit stands on its own. Establishing the underlying computational mechanism remains a separate scientific question.
+
+**Clinical takeaway:** Predictive processing helps explain why expectations and incoming information are relevant to perception and movement. Use the framework to generate clinical questions, while allowing positive examination findings, individualized rehabilitation and real-world outcomes to guide care.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -368,6 +485,7 @@ In a patient struggling with a timed transition, compare what the task requires 
 [Research and Sources](#research-and-sources)
 
 ***
+
 
 ## Research and Sources
 
@@ -379,5 +497,7 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-2"></a>**[2]** | — | Drane DL, Fani N, Hallett M, Khalsa SS, Perez DL, Roberts NA. **A framework for understanding the pathophysiology of functional neurological disorder.** CNS Spectr. 2021;26:555–561. doi:10.1017/S1092852920001789. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7930164/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32883381/). [FND-CIT-0006](../../research/citation-index.md#fnd-cit-0006). |
 | <a id="citation-3"></a>**[3]** | — | Baker J, Barnett C, Cavalli L, et al. **Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.** JNNP. 2021;92:1112–1125. doi:10.1136/jnnp-2021-326767. [Original](https://jnnp.bmj.com/content/92/10/1112) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/34210802/). [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
 | <a id="citation-4"></a>**[4]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1n8gljg/teenage_son_diagnosed_any_helpful_advicesupport/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0299](../../research/citation-index.md#fnd-cit-0299). |
+| <a id="citation-5"></a>**[5]** | — | Nielsen G, Stone J, Matthews A, et al. **Physiotherapy for functional motor disorders: a consensus recommendation.** JNNP. 2015;86:1113–1119. doi:10.1136/jnnp-2014-309255. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602268/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/25433033/). [FND-CIT-0028](../../research/citation-index.md#fnd-cit-0028). |
+| <a id="citation-6"></a>**[6]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
 
-*Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
+*Lesson 18 Person and Clinician sections have been human-authored and owner-approved (October–November 2026). Supporter and sources require subsequent editorial review; the two lesson audits and independent clinical review remain pending.*
