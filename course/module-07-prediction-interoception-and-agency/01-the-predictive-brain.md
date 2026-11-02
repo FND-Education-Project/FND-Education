@@ -270,9 +270,17 @@ Researchers are investigating whether differences in these abilities help explai
 
 We don't yet have all the answers, but we now have a better understanding of what scientists mean when they discuss prediction and FND.
 
-**Something to think about:** Can you remember a time when what you expected and what happened didn't quite match? Perhaps an unexpected bounce, an unfamiliar weight or a step that wasn't there?
+### Something to think about
 
-**One small step:** Notice an ordinary prediction that works well, such as reaching for a familiar door handle.
+Think about a time when your body didn't do what you expected. Perhaps a familiar step suddenly felt difficult, your words wouldn't come, or a sound seemed much louder than you expected. What did you expect to happen, and what happened instead?
+
+### How might that feel?
+
+When something familiar becomes unpredictable, what bothers you most? Is it the surprise, not knowing what will happen next, or missing out on something you wanted to do? What might make the situation feel more manageable?
+
+### One small step
+
+Remember the ways you've already made places safer or easier to use? The same thinking can help with an activity you enjoy. Keeping things where you expect to find them, or choosing a route you know well, may make that activity more comfortable. A familiar arrangement that's already helping is worth keeping.
 
 In our next lesson, we'll meet the different kinds of information your brain receives from your body and surroundings. That will help us understand what predictions are being compared *with*.
 
