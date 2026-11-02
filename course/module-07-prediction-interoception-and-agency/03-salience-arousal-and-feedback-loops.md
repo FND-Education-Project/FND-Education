@@ -364,11 +364,17 @@ These ideas may help us understand why the demands of an activity matter, especi
 
 They also give us useful questions to explore with our care team.
 
-**Something to think about:** Have you experienced a situation where several small demands combined to make an ordinary activity unexpectedly difficult?
+### Something to think about
 
-**One small step:** Think of one unnecessary demand you could make smaller during a familiar activity—perhaps background noise, competing instructions or the amount you're trying to do at once.
+Imagine trying to talk with a friend in a busy café. There's music, people moving around, and perhaps pain or tiredness competing for your attention. Which demands would be hardest for you to set aside? Does something similar happen during another ordinary activity?
 
-You don't need to provoke symptoms or prove a feedback loop exists.
+### How might that feel?
+
+When several demands pile up, what part of the activity do you most want to keep enjoying? Perhaps it's the conversation, being out with someone, or simply having enough energy to stay a little longer.
+
+### One small step
+
+See whether one demand could be made smaller without losing the part you enjoy. A quieter seat, the television turned off during a conversation, or fewer instructions at once may be enough. If a change to your surroundings already helps, it may also be useful in another activity. There's no need to provoke symptoms to find out.
 
 Next, we'll explore cognitive difficulties: why questions, words and familiar information sometimes seem to disappear, and how this relates to—but isn't the same as—a diagnosis of FCD.
 
