@@ -1,6 +1,6 @@
 # Cognitive Difficulties in FND
 
-> **Editorial status:** The Person section was human-authored and approved October 31, 2026. Supporter, Clinician and Research remain research-seeded working sections requiring review. The community account and citations still need source verification; two post-edit audits and independent clinical review remain pending.
+> **Working draft:** The Person section was human-authored and approved October 31, 2026. Supporter, Clinician and Research sections were automatically generated as research-seeded working drafts requiring review. The community account and citations still need source verification; two post-edit audits and independent clinical review remain pending.
 
 Lesson 21 introduces everyday thinking and memory difficulties, explains why they can appear alongside different FND symptoms without a separate Functional Cognitive Disorder diagnosis, and distinguishes them from dissociation.
 

@@ -1,6 +1,6 @@
 # Emotional Regulation and Involuntary Symptoms
 
-> **Editorial status:** The Person section was human-authored and explicitly approved October 31, 2026. Supporter, Clinician and Research sections remain research-seeded working drafts pending their own human authoring, source verification, subsequent audits and independent clinical review.
+> **Working draft:** The Person section was human-authored and explicitly approved October 31, 2026. Supporter, Clinician and Research sections were automatically generated as research-seeded working drafts pending their own human authoring, source verification, subsequent audits and independent clinical review.
 
 Lesson 22 considers how emotions are processed and regulated, why conversations can become difficult when functional symptoms arise, and why timing does not establish intent.
 

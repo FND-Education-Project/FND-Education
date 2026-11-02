@@ -1,6 +1,6 @@
 # Agency, Learning, and Your Own Adaptations
 
-> **Editorial status:** The Person section was human-authored and approved November 2, 2026. Supporter, Clinician and Research sections remain research-seeded drafts requiring human authoring, citation verification, two later audits and independent clinical review.
+> **Working draft:** The Person section was human-authored and approved November 2, 2026. Supporter, Clinician and Research sections were automatically generated as research-seeded drafts requiring human authoring, citation verification, two later audits and independent clinical review.
 
 Lesson 23 explores intention, the feeling of agency and what the body can actually do, then considers learning, safe rehabilitation and meaningful individual adaptations.
 
