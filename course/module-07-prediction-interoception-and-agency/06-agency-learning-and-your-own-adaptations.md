@@ -330,9 +330,17 @@ But learning isn't proof that symptoms were chosen, and improvement isn't someth
 
 We can make reasonable choices about care, safety and meaningful activities while recognizing that involuntary symptoms aren't entirely under our control.
 
-**Something to think about:** Is there an activity you want to do where your intention and your ability don't always match? What part of that activity matters most to you?
+### Something to think about
 
-**One small step:** Think of one adaptation you already use, or one safe change worth discussing with your care team. Ask yourself what it helps you do, rather than whether it changes the symptom itself.
+Remember Amira reaching for her glass and Daniel wanting to walk into the garden. Is there something you want to do that your body doesn't always cooperate with? What are you trying to do, and what actually happens? You don't need to work out which part of the brain is involved.
+
+### How might that feel?
+
+If the symptom stayed for now, what part of the activity would you still want in your life? Perhaps it's enjoying a drink at the table, getting outside, or spending time with someone. Would doing it a different way still feel like progress to you?
+
+### One small step
+
+Think about one way to keep that important activity within reach. A stable place for a cup, a suitable mobility aid, more time, or a question for your therapist could be a start. You may already have found a change that helps. It still counts, even if your symptoms haven't improved.
 
 ### Where do we go next?
 
