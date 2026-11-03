@@ -1,6 +1,6 @@
 # Cognitive Difficulties in FND
 
-> **Working draft:** The Person section was human-authored and approved October 31, 2026. Supporter, Clinician and Research sections were automatically generated as research-seeded working drafts requiring review. The community account and citations still need source verification; two post-edit audits and independent clinical review remain pending.
+> **Editorial status:** The Person section was human-authored and approved October 31, 2026; the Clinician section was human-edited and approved November 3, 2026. The Supporter and Research sections still require editorial review, source verification, two post-edit audits and independent clinical review.
 
 Lesson 21 introduces everyday thinking and memory difficulties, explains why they can appear alongside different FND symptoms without a separate Functional Cognitive Disorder diagnosis, and distinguishes them from dissociation.
 
@@ -487,27 +487,179 @@ One useful question to ask together is: "What part of this activity is hardest, 
 
 ## For Clinicians and the Care Team
 
-### Distinguish cognitive complaints across FND from an FCD diagnosis
+### When thinking becomes difficult to rely on
 
-Cognitive complaints are not restricted to patients formally diagnosed with Functional Cognitive Disorder. Clarify the presenting cognitive phenotype—attention, encoding, working memory, autobiographical/episodic retrieval, semantic access, executive function, language or processing speed—without turning the reported difficulty into an assumed deficit on testing. People with functional motor symptoms and functional seizures may describe cognitive difficulties; population prevalence and attribution remain unsettled.
+Lesson 20 explored how competing demands can affect attention, effort and participation. Those interactions also matter for cognition, but cognitive difficulties involve more than attention alone. They may affect how information is learned, kept available, retrieved and used to make decisions.
 
-FCD requires a positive, clinically meaningful pattern such as internal inconsistency within the relevant domain, judged in the full clinical context. Fluctuation, normal neuroimaging, a normal brief cognitive screen, or disagreement with a companion is not an adequate standalone diagnostic sign. Metacognitive confidence and accuracy are distinct. Avoid framing persons with FCD as intrinsically unreliable witnesses or as having lost insight. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+Cognitive complaints occur in people with different FND presentations, including functional movement symptoms and functional seizures. They do not automatically indicate a separate diagnosis of **Functional Cognitive Disorder (FCD)**.
 
-### Map complaints to questions a test can answer
+The clinically useful question is therefore more specific than whether someone has a memory problem: **Which cognitive ability is difficult to use, under what circumstances, and what would help the person participate more reliably in everyday life?**
 
-Distinguish reception and encoding from working-memory maintenance, retrieval, semantic access and prospective task completion. Document context, supports, consistency, delayed effects and real-world risk. Neuropsychological or cognitive-neurological assessment should address the referral question; standard tests do not automatically represent complex daily activities.
+### Clinical case: The book exchange
 
-Investigate indicated alternate and coexisting contributions: migraine, sleep/oxygenation issues, pain, fatigue, substance or medication effects, endocrine or nutritional factors, epilepsy, other neurological disease, neurodevelopmental or psychiatric conditions. New or progressive deficits demand proportionate reassessment, even with established FND.
+*Nadia is a fictional patient with an established diagnosis of functional limb weakness. She also experiences recurrent migraine.*
 
-### Dissociation is related but separate
+For several years, she has helped organize a neighbourhood book exchange. She enjoys meeting people, discussing books and making sure donations reach the right families.
 
-Ask whether reported "missing time" is an encoding/retrieval difficulty, an alteration of awareness during an episode, dissociative detachment or another event. Dissociation can coexist with FND but is not equivalent to FCD, and reported gaps alone neither establish dissociation nor explain seizure-like episodes. Interpret the history in a phenotype-specific neurological and psychiatric context where appropriate. (*citation* [4](#citation-4))
+Lately, the organizing has become difficult.
 
-### Link formulation to care
+During a telephone conversation, Nadia agrees to change the collection time. The next day, she remembers speaking with the volunteer but cannot recall the new arrangement.
 
-An OT may evaluate meaningful routines, structured supports, task initiation and pacing with the person's participation. Neuropsychology can clarify relevant cognitive domains; SLT may help with language/communication access; neurology and primary care coordinate diagnosis and comorbidities. External aids and compensatory strategies can be retained if useful. Set measurable goals around reliable daily participation rather than requiring symptom surveillance or unsupported retraining claims. (*citation* [5](#citation-5))
+When preparing the tables, she sometimes loses track of what she was doing after someone interrupts her. At other times, a familiar volunteer's name takes several moments to come to mind.
 
-Community accounts and fictional examples are illustrative; they cannot determine causes, prevalence or cognitive test findings. The Person section is for human authoring, not automatic diagnosis.
+Yet when someone asks about a favourite novel, Nadia can describe its characters and plot in considerable detail.
+
+She tells her clinician:
+
+"I still know these things. I just can't count on finding them when I need them."
+
+**What does this combination of difficulties tell us?**
+
+### Understanding what has become difficult
+
+Nadia's complaints involve several cognitive abilities, and each raises a different question.
+
+Forgetting the changed collection time could involve **encoding**, if she had difficulty taking in the information during the telephone call, or **episodic retrieval**, if the information was learned but could not later be recalled.
+
+Losing her place after an interruption may involve **working memory** and executive functions, particularly keeping the current goal available while attention shifts elsewhere.
+
+Difficulty recalling a volunteer's name could involve **semantic retrieval** or language access. Her ability to discuss a familiar book suggests that at least some related knowledge remains accessible under those conditions.
+
+These distinctions matter because the same complaint—"My memory is unreliable"—can describe different difficulties.
+
+They also show why a brief cognitive test and an everyday activity may provide complementary information. Nadia might remember several words successfully during an appointment yet struggle to keep track of a conversation while organizing a busy event.
+
+Neither observation makes the other untrue.
+
+The clinical reasoning concerns what each observation demonstrates, which demands differ between the situations, and whether another health condition contributes to the difficulty.
+
+Migraine, poor sleep, pain, medication effects and other neurological or medical conditions may all be relevant to Nadia's presentation.
+
+### Does this mean Nadia has FCD?
+
+Not necessarily.
+
+Cognitive symptoms can accompany other forms of FND without meeting criteria for a separate Functional Cognitive Disorder diagnosis.
+
+FCD becomes a consideration when clinical assessment identifies a meaningful pattern of **internal inconsistency** in cognitive functioning: a discrepancy in how an ability is expressed that is not adequately explained by ordinary differences in task demands or other identified conditions.
+
+For example, a person might demonstrate access to information in one part of an assessment yet experience marked difficulty accessing comparable information elsewhere. Understanding whether that difference represents clinically meaningful inconsistency requires careful examination of the tasks, context and wider presentation.
+
+This is more specific than noticing that someone performs better on a good day or completes a quiet task more easily than a demanding one.
+
+Ball and colleagues (2020) emphasized the importance of recognizing FCD through positive clinical features, while McWhirter and colleagues (2022) proposed a diagnostic risk model to help distinguish functional cognitive presentations from other causes of cognitive complaints. [1](#citation-1), [2](#citation-2)
+
+**Why does this matter for care?**
+
+An established FND diagnosis does not explain every subsequent cognitive symptom. Equally, normal structural imaging or a satisfactory brief cognitive screen does not establish that someone has no meaningful cognitive difficulty.
+
+A useful formulation brings together the reported experience, demonstrable abilities, clinically significant inconsistencies where present, and possible coexisting conditions.
+
+For Nadia, the information available so far describes cognitive difficulties that deserve attention. It does not establish FCD.
+
+### From understanding the difficulty to supporting the activity
+
+Nadia's immediate concern is practical: she wants to continue organizing the book exchange without repeatedly losing important information.
+
+Suppose the difficulty becomes particularly noticeable when arrangements change during telephone conversations.
+
+One possible adaptation is to make the agreed information available outside memory. A short written confirmation of the collection time gives Nadia something reliable to consult when preparing for the event.
+
+During setup, a simple task list might help her return to an unfinished activity after an interruption.
+
+**Why might these approaches help?**
+
+A written confirmation reduces reliance on retrieving the details of a particular conversation. A visible task list helps preserve information that would otherwise need to remain available in working memory.
+
+The supports address different cognitive demands, even though both might be described casually as memory aids.
+
+They also leave Nadia responsible for the decisions she wants to make. The information is easier to access without requiring another person to take over the activity.
+
+Occupational therapy consensus recommendations support individualized activity analysis, collaborative goals and practical adaptations that improve participation in everyday life. [5](#citation-5)
+
+The rehabilitation rationale is therefore based on understanding the task and reducing unnecessary cognitive demands. Successful use of an external aid would not demonstrate that Nadia has FCD, nor would it establish why the original difficulty developed.
+
+### What would improvement actually mean?
+
+Imagine that Nadia begins confirming collection arrangements in writing and uses a short list during setup.
+
+She still occasionally loses her train of thought, but fewer arrangements are missed. She spends less time reconstructing conversations and can concentrate more comfortably on the part of the exchange she enjoys: meeting people and discussing books.
+
+These are meaningful improvements, even if cognitive symptoms remain.
+
+The outcome also reveals something about the selected support. A reminder may help with forgotten arrangements but do little for word-finding difficulties. A lengthy checklist might become another source of effort rather than a useful aid.
+
+Understanding those differences allows a rehabilitation approach to be evaluated according to its purpose.
+
+The central question is whether the support improves Nadia's reliability, independence and participation without creating an unreasonable additional burden.
+
+**Using an effective cognitive aid is a functional achievement, not evidence that the person should now manage without it.**
+
+### What does cognitive research contribute?
+
+Research into FCD has examined how reported cognitive difficulties relate to observed performance and confidence in one's abilities.
+
+Ball and colleagues (2020) described the clinical importance of identifying positive features of FCD rather than treating it as a diagnosis reached only after excluding other conditions. McWhirter and colleagues (2022) explored how clinical patterns might help refine that diagnostic reasoning. [1](#citation-1), [2](#citation-2)
+
+These publications are valuable because they direct attention to the relationship between cognitive experience and demonstrable function. However, neither provides a universal cognitive profile or a single test that establishes FCD in every patient.
+
+That distinction also applies beyond FCD. A person with functional seizures or a functional movement disorder may experience substantial cognitive difficulty without having the particular pattern needed for an FCD diagnosis.
+
+For rehabilitation, recognizing the affected cognitive demands can be useful even before every question about their cause has been resolved.
+
+Nadia's written confirmation is helpful because it supports a difficult task. Its usefulness does not depend on proving a specific cognitive mechanism.
+
+### What about dissociation and missing time?
+
+A related but different clinical question arises when someone reports a gap in awareness or memory.
+
+**Dissociation** is used in psychology, psychiatry and neuropsychiatry to describe changes in the usual integration of awareness, memory, perception, identity or the experience of oneself.
+
+These experiences vary considerably. Someone may feel detached from their surroundings, experience a sense of unreality or become unusually absorbed in an internal experience. Others report changes in awareness or gaps in memory. Some experiences are brief and occur outside a diagnosed disorder, while others form part of clinically significant dissociative conditions.
+
+Dissociative Identity Disorder (DID) is a separate diagnosis involving identity disruption and recurrent memory gaps, among other features. Neither DID nor another dissociative disorder can be inferred from an isolated report of missing time.
+
+**How does this connect to FND?**
+
+The connection has both a clinical and historical background.
+
+Functional seizures were previously—and are still in some settings—called *dissociative seizures*. This terminology reflects longstanding recognition of altered awareness and dissociative experiences in some seizure-like presentations. In 2025, an International League Against Epilepsy task force proposed the combined term *functional/dissociative seizures*, acknowledging established terminology across different clinical traditions. See the [functional-seizure reference](../../reference/diagnostic-signs/06-functional-seizures.md) and the [ILAE terminology proposal](https://doi.org/10.1111/epi.18574).
+
+The terminology does not mean that every functional seizure involves a recognizable dissociative experience. Nor does it establish that an individual seizure was caused by psychological dissociation, trauma or another particular mechanism.
+
+This matters when considering a patient who cannot recall part of a conversation or an event.
+
+The difficulty might involve information that was never adequately encoded, information that cannot later be retrieved, an altered state of awareness, or a dissociative experience. Seizure-related events, medication effects, sleep disturbances and other neurological or medical explanations may also be relevant.
+
+A person might describe returning from an episode as though emerging from an intense daydream. That description helps convey the experience but cannot establish what occurred neurologically or psychologically during the interval.
+
+**Dissociative experiences may coexist with FND, but they are not required for an FCD diagnosis and do not establish the cause of functional seizures.**
+
+The clinical value of recognizing these distinctions is that altered awareness, cognitive forgetting and dissociation may require different explanations and sometimes different professional expertise. A gap in time remains important clinical information without being sufficient to identify its cause.
+
+### Where can different professionals contribute?
+
+For Nadia, practical cognitive difficulties affecting daily activities may be an appropriate focus for occupational therapy. Activity analysis can help clarify which demands are causing difficulty and whether a particular support makes participation more reliable.
+
+A neurologist or other treating medical clinician may contribute when the cognitive presentation raises questions about diagnosis, coexisting conditions or a new neurological change.
+
+Neuropsychology can be particularly valuable when a more detailed understanding of cognitive abilities would help answer a specific diagnostic or rehabilitation question. Such assessment may clarify patterns of performance, but test results still need interpretation alongside the person's daily-life experience.
+
+Speech-language therapy may offer another perspective when word retrieval, comprehension or communication is a significant part of the difficulty.
+
+Psychological expertise can be relevant when dissociation, distress or other psychological concerns form part of the individual's presentation. Its involvement follows from those needs rather than from the assumption that all cognitive symptoms in FND have a psychological cause.
+
+A useful handoff identifies the unresolved clinical question and the functional consequences, rather than simply requesting that another professional confirm the FND diagnosis.
+
+### What should clinicians take from this lesson?
+
+Cognition involves several interacting abilities. Difficulties with encoding, working memory, retrieval, word access and executive functions may produce similar complaints while affecting daily activities in different ways.
+
+These symptoms can occur alongside FND without necessarily meeting the criteria for FCD. A separate FCD diagnosis depends on an appropriate positive clinical formulation, while other causes and contributing conditions remain relevant.
+
+Nadia's case illustrates how distinguishing the demands of an activity can lead to useful rehabilitation. Written confirmations and task reminders address particular difficulties without requiring an explanation for every aspect of her cognitive presentation.
+
+**Clinical takeaway:** Cognitive complaints deserve individualized understanding, whether or not FCD is diagnosed. Distinguishing the affected abilities and their real-world consequences can support meaningful rehabilitation, appropriate professional collaboration and continued attention to other medical explanations.
 
 ***
 
@@ -517,6 +669,7 @@ Community accounts and fictional examples are illustrative; they cannot determin
 [Research and Sources](#research-and-sources)
 
 ***
+
 
 ## Research and Sources
 
