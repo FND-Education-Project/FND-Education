@@ -6,7 +6,7 @@ Lesson 20 explores salience, Arousal, and Feedback Loops through everyday exampl
 
 *Last reviewed: October 26, 2026*
 
-*The Person section was human-authored and approved October 30, 2026; Supporter and Clinician sections remain generated working drafts pending human authoring.*
+*The Person section was human-authored and approved October 30, 2026; the Clinician section was human-edited and approved November 3, 2026. The Supporter section remains an unapproved working draft.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -426,36 +426,157 @@ The next lesson will address **emotional regulation** specifically. Here we are 
 
 ## For Clinicians and the Care Team
 
-### Map interactions without assigning blame
+### Why some information takes priority
 
-Salience denotes relevance or processing priority; a reassuring voice may be highly salient without being threatening. Arousal includes physiological and cognitive readiness and is not equivalent to anxiety or trauma. A feedback loop is a proposed interaction, not a demonstrated direction of causation. Disability itself may generate vigilance, distress and increased arousal; so can pain, loss of sleep, medication effects and another active disease. (*citations* [1](#citation-1), [2](#citation-2))
+Lesson 19 explored the different sources of sensory information available to the nervous system. Yet receiving information is only part of the picture. The brain must also determine what deserves priority and adjust its readiness to respond.
 
-A clinician who notices more episodes during crowded appointments can address noise, waiting, communication, positioning or access without claiming that environmental stress *caused* the episodes. Ask the person what mattered and distinguish an observed association from an explanatory model.
+Three concepts help explain these interactions.
 
-**Neurology/emergency medicine:** assess events on their own merits, including injury, breathing, atypical duration and medical instability. **Psychology:** where acceptable, support coping with uncertainty, fear, social consequences or symptom-related distress; do not insist on trauma or a single emotion-based cause. **OT/PT:** adapt hazards, transitions and environmental demands. **SLT/respiratory/ENT teams:** address breathing or upper-airway safety directly before considering any pattern-focused management.
+**Salience** describes the importance or relevance assigned to information, influencing what attracts processing priority. A familiar voice, a meaningful goal or a painful sensation may all be highly salient. Importance does not necessarily imply danger.
 
-### Apply across episodic presentations
+**Arousal** describes physiological and cognitive readiness to respond. It changes with activity, excitement, pain, sleep, illness and other demands. Although anxiety may influence arousal, the two are not synonymous.
 
-**Functional seizures:** Some people notice a warning or context, others none. Offer event-specific diagnosis, clinician-reviewed safety plans, appropriate psychological interventions by choice and ongoing care. Do not propose universal arousal control, forced grounding, benzodiazepines for functional seizures without another indication, or self-induction of an event. Assess coexisting epilepsy and other causes. [Seizure assessment](../../reference/diagnostic-signs/06-functional-seizures.md) · [recovery/safety](../../reference/recovery-techniques/06-functional-seizures.md).
+A **feedback loop** occurs when changes in one factor influence another, which in turn affects the first. Such interactions can increase difficulty, help maintain a stable state or support improvement.
 
-**Functional drop attacks:** When no usable warning exists, immediate injury protection, safe mobility, floor recovery and medical differential evaluation take priority over warning-based self-interruption. Consider syncope, cardiac and other fall mechanisms as clinically indicated. [Drop attack assessment](../../reference/diagnostic-signs/16-functional-drop-attacks.md) · [drop attack care](../../reference/recovery-techniques/16-functional-drop-attacks.md).
+These distinctions become useful when clinicians observe that a person's functional abilities change as several demands compete for the nervous system's resources.
 
-**Functional cough and upper-airway symptoms:** Chronic cough or inducible laryngeal obstruction should not automatically be classified as FND. Clarify the cough/voice/breathing phenotype and competing respiratory, laryngeal, medication and other causes. An SLP-led approach to a *diagnosed* functional presentation may involve individualized cough or laryngeal control work; it is not a reason to defer urgent airway assessment or prescribe unsupervised breath-holding. [Assessment](../../reference/diagnostic-signs/11-functional-cough-and-upper-airway-symptoms.md) · [recovery](../../reference/recovery-techniques/11-functional-cough-and-upper-airway-symptoms.md).
+### Clinical case: When communicating becomes harder
 
-**Coexisting autonomic complaints:** Palpitations, orthostatic faintness, sweating, bowel changes or temperature symptoms require appropriate assessment for cardiac, endocrine, medication-related, dysautonomic and other contributors. “Arousal” does not diagnose their cause. See the [autonomic overlap reference](../../reference/co-occurring-conditions/08-autonomic-symptoms.md).
+*Samira is a fictional patient with an established diagnosis of functional speech symptoms following appropriate specialist assessment.*
 
-### How to use an interaction map
+She attends a follow-up appointment to discuss her treatment and ask several questions.
 
-Make a short, revisable hypothesis: “During a long, noisy appointment, pain and fatigue might reduce communication capacity.” Offer one low-risk adjustment and assess whether it improves access. A worsening or unexpected sign invites reassessment, not an assumption of resistance.
+Samira can usually communicate her needs during a quiet conversation. Today, two clinicians are present, questions come quickly, and computer notifications repeatedly interrupt the discussion.
 
-**Evidence boundary:** Salience network studies in general populations [1](#citation-1) and integrated FND frameworks [2](#citation-2) do not establish an individual autonomic mechanism. Functional-seizure care must follow phenotype-specific guidance [3](#citation-3).
+She also has persistent pain and has slept poorly.
 
-### Specify the loop's components before naming one
+As the appointment progresses, her speech becomes increasingly hesitant. She loses the opportunity to finish several answers and eventually reaches for the notes she brought with her.
 
-Consider a patient whose symptoms intensify in a crowded waiting room. Document **what was observed** (noise, waiting, activity, altered speech or an event), what the person experienced, relevant medical findings and what changed after an accommodation. Do not retrospectively label a correlation a self-reinforcing neural mechanism.
+One clinician notices that Samira spoke more comfortably at the beginning of the appointment.
 
-Arousal should not be equated with anger, anxiety, conscious fear, dysautonomia or deliberate symptom production. Emotional processing merits its own subsequent lesson. Clinicians should still consider medication, sleep, pain and medical illness where relevant and maintain presentation-specific safety evaluation. (*citations* [2](#citation-2), [3](#citation-3), [6](#citation-6))
+What might explain the change?
 
+### Understanding what is competing for priority
+
+Several features of the appointment may be clinically relevant.
+
+Samira is trying to formulate answers while listening to multiple people speak. The questions matter because they concern her treatment. Background sounds and interruptions repeatedly compete with the conversation.
+
+Each demand may attract attention for a different reason.
+
+The questions are meaningful. The notifications are unexpected. Her pain may also be difficult to ignore.
+
+This is where **salience** becomes useful: it helps explain why information can attract processing priority even when the person would prefer to concentrate elsewhere.
+
+Samira's difficulty also occurs in the context of poor sleep, pain and sustained effort. These factors can influence alertness and physiological readiness, making **arousal** relevant to the formulation.
+
+But nothing in the observation establishes that Samira is anxious. Nor can the clinician infer her autonomic state or a particular neural mechanism from the visible change in speech.
+
+The important clinical observation is more straightforward: **communication became more difficult as the demands of the appointment increased.**
+
+That offers an opportunity to understand which demands are relevant to Samira and how the interaction might become more accessible.
+
+### Where might a feedback loop develop?
+
+Consider what happened as Samira began struggling to answer.
+
+She may have needed more effort to organize and produce her speech. That effort could contribute to fatigue, making subsequent questions more difficult. As answers became harder, other people may have repeated questions or spoken for her, inadvertently adding further demands.
+
+A possible interaction emerges:
+
+Greater communication difficulty leads to increased effort. Increased effort contributes to fatigue. Fatigue makes further communication more demanding.
+
+This illustrates a potential **feedback loop affecting participation**.
+
+It does not demonstrate that fatigue caused Samira's functional speech symptoms, that a specific neural loop has been identified, or that she could interrupt her symptoms through conscious effort.
+
+The relationship could also work in other directions. Speech difficulty itself may increase effort and fatigue, while pain, poor sleep or other factors may influence several parts of the interaction simultaneously.
+
+Recognizing these possibilities helps clinicians avoid mistaking the sequence of events for proof of causation.
+
+It also reveals something practical: even when the cause of a symptom remains uncertain, the demands surrounding it may still be modifiable.
+
+### What could make the appointment more accessible?
+
+Samira came to the appointment to explain her concerns and participate in treatment decisions. That goal remains important whether her speech becomes easier or not.
+
+A quieter conversation, one speaker at a time and sufficient opportunity to finish an answer might reduce the competing demands. Her written notes could provide an additional way to communicate what matters to her.
+
+These possibilities address the organization of the interaction rather than assuming that Samira must first regulate her nervous system.
+
+**Why might that help?**
+
+A more manageable communication environment may reduce the effort involved in following questions, selecting a response and making herself understood. It also makes room for the communication strategies Samira already finds useful.
+
+Speech-language therapy consensus recommendations support individualized communication assessment and treatment, including attention to task and conversational context. Occupational therapy consensus similarly recognizes the importance of environmental demands, activity adaptation and participation. [4](#citation-4), [5](#citation-5)
+
+These principles provide a rehabilitation rationale for considering Samira's experience within the activity itself.
+
+They do not establish that reducing background noise will normalize salience-network activity or reverse a particular FND mechanism.
+
+### What would meaningful improvement look like?
+
+Suppose the appointment continues with fewer interruptions and Samira uses her notes when speaking becomes difficult.
+
+Her speech might become easier, but it might also remain impaired.
+
+In either situation, the interaction could become more successful.
+
+Did Samira explain her concerns? Could she ask the questions she prepared? Was she able to participate in decisions without another person unnecessarily speaking for her? Did the changes reduce effort or discomfort?
+
+These are meaningful functional outcomes.
+
+They also offer information for future care. If a particular communication arrangement consistently improves access, it may remain valuable even when the neurological symptom persists.
+
+Conversely, if communication remains difficult, that provides a reason to consider whether a different approach, more specialized assessment or additional support could help.
+
+**An accommodation can be clinically successful because it improves participation, without demonstrating that the underlying symptom has been treated.**
+
+### What does the research contribute?
+
+Seeley and colleagues (2007) identified distinguishable intrinsic connectivity networks associated with salience-related processing and executive control in a general neuroscience study. [1](#citation-1)
+
+This work supports the importance of studying how the brain identifies relevant information and coordinates different processing demands.
+
+Drane and colleagues (2021) subsequently described an FND framework involving interactions among attention, salience, arousal and other neural and psychological processes. [2](#citation-2)
+
+**Why do these findings matter?** They provide a scientific basis for investigating relationships among information priority, physiological readiness and functional symptoms. They also help explain why clinicians might consider several interacting demands rather than searching for a single environmental trigger.
+
+However, the general network findings do not establish what happened in Samira's brain during the appointment. The FND framework describes proposed mechanisms rather than a validated individual causal test.
+
+The useful clinical application is therefore to examine the demands affecting a meaningful activity and consider whether changing one of them improves participation.
+
+A reported improvement would support the practical value of the adjustment, not prove the proposed neural explanation.
+
+### When other clinical perspectives become relevant
+
+Samira's experience may be adequately addressed through adjustments to the appointment and communication strategies she already uses.
+
+If her functional speech difficulties continue to interfere with everyday communication, speech-language therapy may offer more specialized assessment and rehabilitation. Occupational therapy may contribute when broader sensory or environmental demands repeatedly limit participation.
+
+Pain, sleep disruption, medication effects and other health conditions may also influence Samira's available capacity and deserve appropriate clinical consideration.
+
+Psychological support may be valuable when Samira identifies distress, adjustment difficulties or other relevant concerns. Its role can be explained through those needs rather than assuming that visible arousal or functional speech symptoms establish an emotional cause.
+
+The same distinction matters with other FND presentations. Functional seizures, for example, require their own diagnostic and safety considerations, including evaluation of coexisting epilepsy and clinically significant changes. [3](#citation-3)
+
+New palpitations, presyncope, breathing difficulties or other systemic complaints cannot be explained simply by labeling them *arousal*. Appropriate medical assessment remains relevant to the actual presentation.
+
+Professional collaboration is most useful when it addresses a particular unanswered question or functional need.
+
+### What should clinicians take from this lesson?
+
+Salience, arousal and feedback describe different aspects of nervous-system function.
+
+Salience concerns what receives priority. Arousal concerns readiness to respond. Feedback describes how changes may influence one another over time.
+
+These concepts can enrich an individualized clinical formulation, particularly when symptoms and participation vary with activity demands, pain, fatigue or environmental conditions.
+
+In Samira's case, they help explain why the appointment itself deserves attention. The clinical opportunity is to understand how communication becomes difficult, consider what could make the interaction more accessible and evaluate whether the result supports her participation.
+
+The scientific models remain useful without needing to establish a specific neural cause for that change.
+
+**Clinical takeaway:** Consider how competing demands, readiness and possible feedback interactions affect functional participation. Their value lies in generating better clinical questions and identifying meaningful adaptations, while assessment and outcomes remain grounded in the individual rather than an assumed neural mechanism.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -464,6 +585,7 @@ Arousal should not be equated with anger, anxiety, conscious fear, dysautonomia 
 [Research and Sources](#research-and-sources)
 
 ***
+
 
 ## Research and Sources
 
