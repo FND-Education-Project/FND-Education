@@ -6,7 +6,7 @@ Lesson 20 explores salience, Arousal, and Feedback Loops through everyday exampl
 
 *Last reviewed: October 26, 2026*
 
-*The Person section was human-authored and approved October 30, 2026; the Clinician section was human-edited and approved November 3, 2026. The Supporter section remains an unapproved working draft.*
+*The Person section was human-authored and approved October 30, 2026; the Clinician section and Supporter section were human-edited and approved November 3, 2026. Research verification and subsequent audits remain pending.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -388,33 +388,163 @@ Next, we'll explore cognitive difficulties: why questions, words and familiar in
 
 ## For Family, Friends, and Other Supporters
 
-### When several ordinary demands become too much
+### When a pleasant evening becomes difficult
 
-You are talking through plans for the weekend. A bright screen, ringing phone and persistent pain are all competing for attention. The person becomes less able to follow the conversation.
+You've invited a couple of friends over for dinner.
 
-It can be tempting to say, “You're stressed; that's why your FND is worse.” But **salience** is about what stands out, and **arousal** is broader than anxiety. Pain, sound, activity and illness can all affect what the nervous system prioritizes. Changes in symptoms may also increase distress—cause and consequence can be difficult to separate. (*citations* [1](#citation-1), [2](#citation-2))
+Your partner has FND and has been looking forward to seeing them.
 
-### Look for an easier entry point
+Everyone is enjoying themselves. There's food on the table, a little music playing and plenty to talk about.
 
-Instead of telling the person to calm down, ask if they want the conversation later, a quieter room, written information or a shorter exchange. If an agreed accommodation helps, you can offer it again; if it doesn't, leave it aside.
+Then the conversation becomes livelier.
 
-Be careful not to label every bodily response a feedback loop. Fever, new breathing difficulty, fainting, severe pain, significant injury or other medical change may require assessment regardless of stress or setting.
+Two people begin talking at once. Someone laughs loudly. Plates and cutlery clatter as dinner is cleared away.
 
-### When to seek professional guidance
+Your partner becomes quieter.
 
-**OT** may help with environmental load; a **psychologist** can offer coping and emotional support where desired; a **speech-language or respiratory specialist** may evaluate breathing/voice concerns. The **neurology and medical team** should guide event-specific plans for seizures, falls or other altered-awareness episodes. Supporters should not attempt to treat an episode by forcing distraction or calming techniques.
+When someone asks a question, they take longer to answer.
 
-### The room may be the problem you can change
+A few minutes later, they lose track of what they were saying.
 
-Picture a family attempting to organise a short visit while a television plays and several people speak at once. A supporter might see the person become less responsive and assume the topic is upsetting. But the combination of sound, discomfort and demands may be enough to make the task difficult, regardless of anyone's emotional state.
+You notice the change.
 
-A practical question is, *“Would one person speaking at a time make this easier?”* This doesn't diagnose the symptom or require all sensory input to disappear. It is also reasonable for the supporter to acknowledge their own limits if the setting remains demanding.
+"Are you getting tired?" you ask.
 
-The next lesson will address **emotional regulation** specifically. Here we are learning about what receives attention and the body's general readiness, including when no argument or fear is involved.
+"A bit. There's just so much going on."
 
-**Something to discuss together:** “Would anything make this situation less demanding without asking you to push through it?”
+You look around. It's a perfectly ordinary dinner with friends.
 
-**One small thing:** Agree on a neutral phrase—perhaps “Quiet or pause?”—that offers a choice without explaining the symptom.
+And yet something that was enjoyable half an hour ago has become difficult.
+
+What changed?
+
+### The sounds haven't changed for everyone
+
+Think about sitting in a restaurant.
+
+You might barely notice the music, the conversations around you or the sound of dishes being collected. Your attention is on the person across the table.
+
+Our nervous systems are constantly deciding which information deserves attention. Scientists call this *salience*.
+
+Something meaningful, unexpected or uncomfortable can become particularly important to the brain.
+
+Your name being spoken across a crowded room might catch your attention. So might a sudden noise or a painful sensation.
+
+Now imagine that several things keep demanding your attention.
+
+You're trying to listen to someone, but the music seems impossible to ignore. Your chair is uncomfortable. You're also dealing with a headache, and every time someone speaks loudly, you lose part of the conversation.
+
+You might still enjoy being there.
+
+But following the discussion has become a lot more work.
+
+For someone living with FND, migraine, sound sensitivity or cognitive difficulties, these competing demands can make an otherwise ordinary gathering particularly difficult.
+
+**What looks like a comfortable social setting to one person may require considerable effort from another.**
+
+### What does this have to do with FND?
+
+Researchers are investigating whether differences in brain networks involved in salience, attention and arousal contribute to certain functional neurological symptoms. These networks help the nervous system identify important information and prepare responses. Their possible involvement in FND forms part of broader scientific models of the condition. [1](#citation-1), [2](#citation-2)
+
+*Arousal* is another useful word here. It describes how alert and ready the nervous system is to respond.
+
+It's easy to associate arousal with anxiety, but it also changes during excitement, physical activity, pain and illness.
+
+Your partner might be having a wonderful evening while their nervous system is working hard to manage everything happening around them.
+
+That distinction can change how we interpret what we see.
+
+Someone becoming quiet, having difficulty speaking or needing to leave a gathering might appear upset or uninterested.
+
+But the difficulty may have much more to do with the demands of the situation than with how they feel about the people around them.
+
+And sometimes, the person themselves won't know why an activity has suddenly become harder.
+
+### When one difficulty adds to another
+
+Let's return to dinner.
+
+Your partner is trying to answer a question, but several conversations are happening nearby.
+
+They concentrate harder to follow what's being said.
+
+That extra effort becomes tiring.
+
+As they become more tired, following the next question becomes harder still.
+
+Now they're working even harder just to stay in the conversation.
+
+One difficulty is adding to another.
+
+Scientists call this kind of interaction a *feedback loop*: when one change influences another, which then affects what happens next.
+
+You may have experienced something similar yourself. Perhaps a poor night's sleep made concentrating difficult, and the extra effort left you even more exhausted.
+
+The important thing to understand is that **the person may be using more effort while appearing to do less**.
+
+Someone who becomes quieter isn't necessarily withdrawing from the conversation. They may be struggling to remain part of it.
+
+And when a functional symptom itself becomes difficult to ignore, it can add another demand to everything else the person is managing.
+
+That doesn't tell us what originally caused the symptom. It helps us understand why continuing the activity might now be harder.
+
+### Sometimes changing one thing helps
+
+Suppose your partner mentions that the noise is becoming uncomfortable.
+
+You could ask whether they'd like the music turned off.
+
+Perhaps they would.
+
+With one less sound competing for attention, they might find it easier to follow the conversation.
+
+Or perhaps they'd prefer moving somewhere quieter for a while.
+
+Someone else might use earplugs or noise-cancelling devices in certain situations. But those aren't always comfortable. Some people find that earplugs make chewing or their own voice sound unpleasantly loud.
+
+A quieter room might therefore work better than asking them to keep their earplugs in throughout dinner.
+
+There's something nice about this kind of adjustment.
+
+You haven't had to understand exactly what's happening in their brain. You've simply learned a little more about what the evening feels like to them.
+
+And perhaps the change benefits everyone. Guests can still enjoy their conversation, while your partner finds it easier to join in.
+
+### What if the difficulty continues?
+
+Even after the music stops, your partner may remain tired or find conversation difficult.
+
+They might decide they've enjoyed enough company for one evening.
+
+Or they may want to stay and listen without having to answer every question.
+
+Both can be ways of remaining connected to something they enjoy.
+
+It's also possible that neither of you noticed how demanding the evening had become until the symptoms were already difficult.
+
+That happens.
+
+You don't need to work out every contributing factor or anticipate every problem.
+
+Over time, you may both discover which arrangements make certain activities more enjoyable. A quieter dinner might help. Another time, the person may prefer a shorter visit or a different setting.
+
+And sometimes the plans won't need changing at all.
+
+### What can supporters take from this lesson?
+
+Salience helps explain why some information becomes difficult to ignore. Arousal concerns how ready the nervous system is to respond. Feedback loops help us understand how one difficulty may add to another.
+
+For supporters, these ideas are useful because they reveal something we don't always see.
+
+A person may be enjoying an activity while finding it increasingly difficult to participate. They may be concentrating harder even as their answers become shorter, their movements more difficult or their energy less available.
+
+Understanding that can make an ordinary question feel more thoughtful:
+
+"Would it be easier if we turned the music off?"
+
+It leaves room for the person to explain what they need—or to say they're quite happy as things are.
+
+**Sometimes the kindest change isn't asking someone to try harder to keep up. It's making the activity a little easier to enjoy together.**
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -423,6 +553,7 @@ The next lesson will address **emotional regulation** specifically. Here we are 
 [Research and Sources](#research-and-sources)
 
 ***
+
 
 ## For Clinicians and the Care Team
 
