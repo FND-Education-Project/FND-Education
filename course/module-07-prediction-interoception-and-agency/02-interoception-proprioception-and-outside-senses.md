@@ -6,7 +6,7 @@ Lesson 19 explores interoception, Proprioception, and Outside Senses through eve
 
 *Last reviewed: October 26, 2026*
 
-*The Person section was human-authored and approved October 30, 2026; the Clinician section was human-edited and approved November 2, 2026. The Supporter section remains a working draft.*
+*The Person section was human-authored and approved October 30, 2026; the Clinician section was human-edited and approved November 2, 2026; the Supporter section was human-edited and approved November 3, 2026. Research verification and subsequent audits remain pending.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -366,35 +366,141 @@ In our next lesson, we'll explore why some information becomes particularly impo
 
 ## For Family, Friends, and Other Supporters
 
-### You don't have to feel what they feel to take it seriously
+### When what you see isn't what they feel
 
-Someone says their heartbeat feels unusual, their foot doesn't seem to be where they expect, or light makes them feel unwell. You might see nothing different.
+Imagine your partner getting ready to leave the house.
 
-That doesn't mean nothing is happening. **Interoception** involves internal body signals; **proprioception** involves position and movement; **exteroception** involves what comes from outside, such as light and sound. Feeling, describing and interpreting those signals can be challenging. (*citations* [1](#citation-1), [2](#citation-2))
+They're putting on a jacket, but they're having difficulty with the zipper.
 
-### Collaborate on comfort, not a diagnosis
+You notice them looking closely at their fingers, adjusting their grip and trying again.
 
-Ask what the person is noticing and what help, if any, they want. They might prefer a chair, a change in lighting, help locating an object, written reminders or less touch.
+"What's wrong?" you ask.
 
-Don't challenge them to count heartbeats, close their eyes to test balance, hold their breath or repeatedly check sensations. A supporter's observation can be useful, but it is not a substitute for clinical measurement.
+"My hand feels strange. I can see where it is, but it doesn't quite feel like it's there."
 
-### Know when to hand over
+You look at their hand.
 
-**Palpitations, faintness or chest symptoms** may need primary-care, cardiology or autonomic assessment. **Choking or swallowing change** requires qualified swallowing/medical review; urgent breathing or choking emergencies require emergency action. **Visual changes** may require eye or neurological assessment. An **OT** can help match sensory adaptations to activities; a **PT** may assess balance and position sense.
+It's right there, holding the zipper.
 
-The person may have FND *and* a separate medical condition. Supporting them includes helping that condition receive its own care rather than explaining everything through interoception.
+You can understand why they're having trouble with it, but you can't understand the strange feeling they're describing.
 
-### Different observations can both matter
+And perhaps your partner can't explain it much better than that.
 
-You may notice that someone is pale or unsteady while they describe internal sensations you cannot feel. Or they may report a racing heart when their pulse seems ordinary to you. Neither perspective should be treated as a verdict: **an observation, a sensation and a medical measurement answer different questions**.
+It's an interesting difference, isn't it?
 
-This is particularly important when the person has FND alongside migraine, a heart rhythm condition, autonomic illness or another condition. A supporter can help write down the person's own words for an appointment, with permission; interpreting the cause belongs with the clinician. What helps the person feel comfortable is not necessarily what establishes the diagnosis.
+**You can see where their hand is. They can see it too. But what they're experiencing doesn't quite match what either of you can see.**
 
-A parent or partner may be closely involved, whereas a friend might only offer a quieter seat. Someone living alone may need the appointment service itself to provide accessible communication and assistance.
+How can that happen?
 
-**Something to discuss together:** “Are you describing what you feel, what you're able to do, or what someone measured? Should we ask the clinician about the difference?”
+### We experience our bodies in different ways
 
-**One small thing:** Write down one question the person wants answered. You don't have to become their body-signal interpreter.
+Think about reaching into your pocket for your keys.
+
+You usually know roughly where your hand is without having to look at it. You can feel the keys against your fingers and recognize their shape.
+
+Your nervous system is bringing together several kinds of information.
+
+Scientists have names for them.
+
+**Exteroception** is information from the world around us, including what we see, hear and feel against our skin.
+
+**Proprioception** helps us sense where our body parts are and how they're moving.
+
+**Interoception** concerns conditions inside our bodies, such as hunger, heartbeat and breathing.
+
+These different sources of information work together so naturally that we rarely think about them.
+
+But imagine how difficult ordinary activities might become if your sense of where your hand was didn't quite match what your eyes were showing you.
+
+Or if you felt unexpectedly hot, dizzy or uncomfortable without being able to understand the sensation.
+
+Some people with FND describe experiences like these. Researchers are investigating differences in how sensory information is represented and interpreted in FND, including how people experience signals coming from inside their bodies. [1](#citation-1), [2](#citation-2), [3](#citation-3)
+
+The research is still developing, and different symptoms may have different explanations.
+
+But it gives us a useful way to understand something that can otherwise be quite confusing.
+
+**The way someone's body appears to us doesn't necessarily tell us how that body feels to them.**
+
+### When someone describes a feeling you can't check
+
+Let's imagine another situation.
+
+You're sitting with someone who has FND when they suddenly say:
+
+"My heart feels like it's racing."
+
+They look comfortable enough. They're sitting quietly, and nothing obvious has changed.
+
+You might wonder whether they're mistaken.
+
+But they're describing what they feel, not necessarily what a heart-rate monitor would measure.
+
+Those are different things.
+
+The sensation itself is worth understanding. Whether their heart is beating unusually fast, and why they're experiencing it, are questions that may need medical assessment.
+
+This is particularly important because someone with FND can also have a heart condition, migraine, an autonomic disorder or another illness affecting their bodily sensations.
+
+For a supporter, recognizing the difference can be helpful. You can listen to what the person is experiencing without needing to explain it or decide what's causing it.
+
+Sometimes being understood is the first thing the person needs.
+
+### What might help with the jacket?
+
+Let's return to your partner standing by the door.
+
+They're still working on the zipper.
+
+You could reach over and fasten it for them. That might be helpful, especially if they're tired or struggling.
+
+But perhaps they want to finish it themselves.
+
+You might simply ask:
+
+"Would you like me to hold the bottom of the jacket steady?"
+
+Maybe they say yes.
+
+Now they can concentrate on guiding the zipper while you hold the fabric in place.
+
+Or perhaps they'd prefer better lighting so they can see their fingers more clearly.
+
+Someone else might find the entire task easier while sitting down.
+
+There's no single answer because the difficulty may be different for each person.
+
+What matters is that your help follows from understanding what they're experiencing, rather than assuming that the difficulty must be the same as it looks from the outside.
+
+And sometimes the person won't know what would help. That's understandable too.
+
+### Making room for experiences we can't share
+
+Living alongside someone with FND can involve hearing descriptions that are difficult to imagine.
+
+"My leg doesn't feel like it's where it should be."
+
+"The light is making everything harder."
+
+"I can see my hand moving, but it feels strangely distant."
+
+You may never experience those sensations yourself.
+
+You may also notice things the person doesn't notice, and those observations can sometimes be useful when they describe their symptoms to a clinician.
+
+The two perspectives don't have to compete.
+
+Your observations tell part of the story. Their experiences tell another.
+
+As you begin understanding the different sensory systems, unfamiliar descriptions can become a little less mysterious.
+
+And that understanding can change ordinary moments together.
+
+Instead of wondering why someone needs to look at their hand to manage a zipper, you might understand why seeing what they're doing has become especially important.
+
+Instead of assuming an uncomfortable sensation must be obvious to everyone, you may recognize that some experiences simply aren't visible.
+
+**We don't have to experience the same sensations to understand why an ordinary activity might have become difficult for someone we care about.**
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -403,6 +509,7 @@ A parent or partner may be closely involved, whereas a friend might only offer a
 [Research and Sources](#research-and-sources)
 
 ***
+
 
 ## For Clinicians and the Care Team
 
