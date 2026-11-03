@@ -1,6 +1,6 @@
 # Cognitive Difficulties in FND
 
-> **Working draft:** The Person section was human-authored and approved October 31, 2026; the Clinician section was human-edited and approved November 3, 2026. The Supporter and Research sections remain automatically generated drafts requiring editorial review, source verification, two post-edit audits and independent clinical review.
+> **Working draft:** The Person section was human-authored and approved October 31, 2026; the Clinician section and Supporter section were human-edited and approved November 3, 2026. The Research section remains an automatically generated draft requiring source verification, two post-edit audits and independent clinical review.
 
 Lesson 21 introduces everyday thinking and memory difficulties, explains why they can appear alongside different FND symptoms without a separate Functional Cognitive Disorder diagnosis, and distinguishes them from dissociation.
 
@@ -454,27 +454,257 @@ And what if that difficulty itself becomes frightening or frustrating?
 
 ## For Family, Friends, and Other Supporters
 
-### When "we already talked about this" isn't enough
+### When one memory borrows from another
 
-Someone says they cannot remember an agreement you discussed yesterday. You may remember the discussion clearly; they may not.
+Imagine you're watching a detective series with your sister, who has FND.
 
-The difference can be upsetting for both of you. It doesn't tell you who is dishonest or settle which account is accurate.
+A familiar-looking actor appears on screen.
 
-Cognitive difficulty can involve attention, taking in information, holding it briefly or retrieving it later. A person who follows a conversation for a while may still lose important details along the way.
+"Wait, wasn't he the one who owned the hotel?" she asks.
 
-### Support thinking without turning into a tester
+You look at her.
 
-Ask what would help. One question at a time, brief written decisions, predictable places for essential items and enough time to reply can make a difference. Useful help is not proof that a difficulty was voluntary.
+"That was another programme!"
 
-Avoid surprise memory quizzes or insisting that someone simply try harder. Your own time, memory and limits matter as well. Shared notes can protect both people's understanding without taking away the person's independence.
+She thinks for a moment, then starts laughing.
 
-If there are gaps in awareness or a sense of disconnection, avoid assuming that these are the same as ordinary forgetfulness or that they establish dissociation or FCD.
+"You're right. I've mixed up the two stories again."
 
-### When to bring in professionals
+You both find it funny, and the evening carries on.
 
-Ask a clinician to assess persistent, new or substantially changed difficulties. Neurology and neuropsychology can examine the pattern, occupational therapy can help with everyday activities, and speech-language therapy may help where understanding or accessing language is difficult. A functional diagnosis does not rule out migraine, sleep problems, medication effects or other health concerns.
+But later, something similar happens while you're talking about a family gathering.
 
-One useful question to ask together is: "What part of this activity is hardest, and what support can we agree on without making every interaction a test?"
+Your sister remembers your aunt arriving late and everyone laughing about a cake that collapsed.
+
+You remember the cake too, but that happened at a different gathering several weeks earlier.
+
+Your sister is surprised.
+
+"No, I'm sure it was the same day."
+
+She can describe the cake, the people around the table and what someone said.
+
+Those details sound convincing because she remembers them clearly.
+
+But you remember the two occasions separately.
+
+How can someone remember so much about an experience and still mix up when it happened?
+
+### Remembering something isn't always the same as remembering where it belongs
+
+We tend to think of memories as recordings of things that happened.
+
+But remembering involves bringing information back together. We may remember people, conversations, places and feelings without always remembering exactly when they occurred or which experience they belonged to.
+
+Sometimes details from similar experiences become mixed together.
+
+This happens to people without FND too.
+
+But when someone is experiencing significant cognitive difficulties, sorting through those details may become much harder.
+
+Your sister may genuinely remember the collapsed cake, the people laughing and your aunt arriving late.
+
+What she's having trouble with is remembering how those details fit together.
+
+From her perspective, the story may feel complete.
+
+And that's where misunderstandings can begin.
+
+**A memory can feel clear and convincing even when some of its details belong to another experience.**
+
+Imagine how confusing it might be to discover that something you remember clearly happened differently from how you recall it.
+
+You might question your own memory. You might wonder whether the other person is mistaken.
+
+And if this happens repeatedly, you could begin feeling embarrassed about telling stories at all.
+
+### Sometimes a reminder brings back more
+
+Now imagine your sister trying to remember what happened during an important appointment.
+
+She remembers discussing her symptoms and receiving some information about her treatment.
+
+But she can't remember the order of the conversation or everything that was decided.
+
+A few days later, she finds an email confirming something discussed during the appointment.
+
+"Oh! That's right. We talked about that before the doctor came in."
+
+Suddenly, another part of the experience comes back to her.
+
+You may have noticed this happening before.
+
+Sometimes a familiar name, photograph, message or small reminder helps someone retrieve information that wasn't available earlier.
+
+Scientists call this *retrieval*: bringing information back into awareness.
+
+The information may not have been completely lost. The person simply couldn't access it when they needed it.
+
+But here's something important.
+
+**A reminder can help someone remember more without guaranteeing that every newly recalled detail is accurate.**
+
+If the details matter, an original email or appointment record may help both people understand what happened.
+
+And it can be quite a relief to have something reliable to refer to.
+
+### When a changing memory has consequences
+
+Imagine having to explain an important event to someone who wasn't there.
+
+Perhaps it's a medical appointment, an injury or an official report.
+
+You explain what you remember.
+
+Then, days later, you discover a message that reminds you of something important you'd left out.
+
+You provide the additional information.
+
+A little later, another detail comes back.
+
+Now your account has changed more than once.
+
+From the outside, someone might wonder why your story keeps changing.
+
+From your perspective, you may be doing your best to explain something that you cannot remember all at once.
+
+That can be deeply upsetting, particularly when being believed matters.
+
+It may also be difficult for a supporter who witnessed the event differently.
+
+Having access to written records, dates and messages can help distinguish what someone remembers from what can be independently confirmed.
+
+Sometimes a supporter can help locate that information or ask a gentle question that brings another detail to mind.
+
+But the goal isn't to supply the missing parts of someone's memory for them.
+
+It's to help make reliable information available while respecting what they do and don't remember.
+
+### It's not always the past that's difficult
+
+Memory difficulties can also affect what someone is trying to do right now.
+
+Imagine asking your partner to collect a few things before you leave the house.
+
+"Could you grab the keys, your jacket, the letter from the table and your phone?"
+
+They go to collect the keys.
+
+Then they stop.
+
+"What was the other thing?"
+
+You repeat the list.
+
+By the time you've reached the fourth item, the first one has disappeared again.
+
+That can seem strange when you know they remember all four objects perfectly well.
+
+But remembering what a phone is, remembering where it belongs and keeping a list of things to collect in mind are different abilities.
+
+The last involves **working memory**—holding information available while doing something with it.
+
+And the difficulty may not disappear just because you write the list down.
+
+Some people struggle to keep their place while reading. They might reread the same sentence several times, trying to understand and retain what it says. Even a written list can become overwhelming when there are too many items to follow.
+
+You may find that your partner manages better when there's one clear next step.
+
+Or perhaps a familiar object left somewhere visible reminds them what they intended to do.
+
+Someone else might prefer a short written reminder.
+
+The helpful approach depends on what is difficult for that person.
+
+**An aid is only helpful if the person can comfortably use it.**
+
+### When you remember the same event differently
+
+Let's return to your sister and the family gathering.
+
+You remember two separate occasions.
+
+She remembers one.
+
+Perhaps you can laugh about the cake and work out what happened.
+
+But not every disagreement about memory feels funny.
+
+Imagine discussing a promise that one person remembers making and the other doesn't recall.
+
+Or discovering that someone has forgotten an important conversation.
+
+Both people may feel hurt.
+
+The person with cognitive difficulties might feel disbelieved or embarrassed.
+
+The supporter might feel frustrated because something important to them seems to have disappeared from the other person's memory.
+
+Understanding cognition won't automatically resolve those feelings.
+
+But it may help explain why each person is so certain of their account.
+
+You might say:
+
+"I remember that happening differently. Would looking at the messages help us work it out?"
+
+That leaves room for both people's experiences without assuming one person must be dishonest or deliberately difficult.
+
+Sometimes the records will clarify things.
+
+Sometimes the details will remain uncertain.
+
+When someone has difficulty remembering events, they may become especially dependent on what others tell them happened.
+
+Imagine how vulnerable that could feel. If another person sounds certain, it may be difficult to question their account, even when something doesn't seem quite right.
+
+As a supporter, you can help by making room for uncertainty. Looking at messages, checking records or welcoming another trusted perspective can help when something important is at stake.
+
+**Someone who struggles with memory still deserves the same opportunity to question information, express disagreement and make their own decisions.**
+
+And sometimes the best outcome is simply understanding why the conversation became difficult.
+
+### What about missing whole periods of time?
+
+There's another experience worth distinguishing.
+
+Someone may have no recollection of an entire conversation or period of time. They may also describe feeling detached or disconnected during an experience.
+
+These difficulties aren't necessarily the same as mixing up details from different memories.
+
+Dissociation, altered awareness, seizures and other conditions may be relevant, depending on the circumstances.
+
+A supporter who witnessed an episode may have useful information that the person cannot provide from memory. Significant or unfamiliar changes in awareness deserve appropriate clinical assessment.
+
+For everyday life, the important thing is recognizing that forgetting details, mixing memories and losing awareness of an experience are not necessarily the same difficulty.
+
+### Finding room for understanding
+
+Living alongside someone with cognitive difficulties can be confusing.
+
+You may remember a conversation that seems to have disappeared from their memory.
+
+You may hear a familiar story told with details from several different occasions.
+
+Or you may discover that something they couldn't remember yesterday becomes available after a small reminder today.
+
+Sometimes these moments are funny. You might recognize a television plot that's wandered into another story and laugh about it together.
+
+Other times, the consequences are serious, and the uncertainty can be distressing.
+
+Understanding these differences doesn't mean assuming the person with FND is always mistaken, or that the supporter must agree with every recollection.
+
+It means recognizing that **remembering, retrieving and putting memories in the right order can be different challenges**.
+
+And once you understand that, an ordinary conversation can become a little more considerate.
+
+Instead of wondering why someone isn't remembering properly, you might begin wondering which part of the information is difficult for them to access.
+
+Perhaps a familiar clue helps. Perhaps a message or photograph gives you both something to refer to.
+
+And perhaps, on another day, you simply laugh together about the detective who somehow ended up in two different television programmes.
+
+**Sometimes being supportive means understanding that someone may be trying very hard to remember something they genuinely believe they already remember correctly.**
 
 ***
 
@@ -484,6 +714,7 @@ One useful question to ask together is: "What part of this activity is hardest, 
 [Research and Sources](#research-and-sources)
 
 ***
+
 
 ## For Clinicians and the Care Team
 
