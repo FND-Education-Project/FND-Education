@@ -1,6 +1,6 @@
 # Emotional Regulation and Involuntary Symptoms
 
-> **Working draft:** The Person section was human-authored and explicitly approved October 31, 2026; the Clinician section was human-edited and approved November 3, 2026. The Supporter and Research sections remain automatically generated working drafts pending human authoring, source verification, subsequent audits and independent clinical review.
+> **Working draft:** The Person section was human-authored and explicitly approved October 31, 2026; the Clinician and Supporter sections were human-edited and approved November 3, 2026. The Research section remains an automatically generated working draft pending source verification, subsequent audits and independent clinical review.
 
 Lesson 22 considers how emotions are processed and regulated, why conversations can become difficult when functional symptoms arise, and why timing does not establish intent.
 
@@ -730,53 +730,145 @@ In our next lesson, we'll explore the difference between **intending an action**
 
 ## For Family, Friends, and Other Supporters
 
-### When the difficult subject seems to make symptoms appear
+### When someone you know begins reacting differently
 
-Imagine asking your partner a question that matters to you. You have been hoping to discuss it for days.
+Helen has always thought of her daughter, Tessa, as someone with a good sense of humour. Tessa is in her twenties. She has FND, including functional seizures, and still enjoys joking with her mother and spending time with friends.
 
-They begin to answer. Then they ask you to repeat part of what you just said. You repeat it, but their words become harder to understand. Soon the conversation cannot continue.
+But Helen has noticed a change. Things that once seemed to bother Tessa only a little can now leave her intensely upset.
 
-From your side, it may feel as though a difficult subject has once again been left unfinished. From their side, they may have been struggling to keep track long before their speech changed.
+One afternoon, they're getting ready for a family birthday. Tessa is having difficulty fastening a bracelet. Helen offers to help.
 
-**You can acknowledge the timing without deciding that they intended it.**
+"I can manage," Tessa replies.
 
-Some FND symptoms vary with emotional strain. That does not make the symptoms a tactic, nor does it require you to dismiss your own frustration or pretend the concern has gone away.
+A few moments later, Helen asks whether she'd rather leave the bracelet off. Tessa suddenly sounds angry.
 
-### A new thing to understand about emotions
+"Why does everyone think I can't do anything for myself?"
 
-Emotional regulation isn't just “being calm.” Our brains help us recognize what matters, respond to feelings, keep track of goals and adjust what we say or do next.
+Helen is surprised. She hadn't meant anything of the sort. She was just trying to help.
 
-Those tasks can be hard when someone is also coping with pain, fatigue, overload or cognitive and neurological symptoms. Researchers are investigating emotion-related networks in FND, but there is no test showing that every sudden symptom during conflict was caused by an emotion. (*citations* [1](#citation-1), [2](#citation-2))
+"I was only asking."
 
-What you observe may be the outward change: fewer words, an unusual movement, a pause or an episode. What the person experiences may include losing their train of thought and being unable to respond in the way they intended.
+"I know! But you don't understand!"
 
-That difference helps explain why **“the timing is convenient”** can be a painful—and misleading—conclusion.
+Tessa's voice gets louder as she tries to explain. Helen feels herself becoming frustrated too. Just ten minutes earlier, they were laughing together. Now neither seems able to make the other understand.
 
-### Believing the interruption still leaves room for your needs
+What happened?
 
-A community writer described the value of agreeing on communication expectations before conflict is already underway:
+### When feelings become harder to manage
 
-> “One thing that really helps us is discussing ground rules for conflict when we’re not actively IN it.”
+Later that evening, Helen and Tessa talk again.
 
-*Figure 2. Community experience — supporter quotation candidate.* An account in the project's supporter-source notebook. Speaker role, exact context and wording require renewed direct verification before publication. [Source discussion](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/). (*citation* [6](#citation-6))
+"I'm sorry I shouted," Tessa says. "I knew you were trying to help."
 
-There's a useful principle here, even though no single arrangement suits every household: decide together which approaches are welcome when communication becomes difficult.
+Helen asks what made her so upset.
 
-For one person, a brief written signal may help. For another, it may be better not to ask further questions during an episode. A parent and teenager, spouses or two friends will have different responsibilities and boundaries. A person living without a supporter still deserves communication accommodations.
+"I felt embarrassed. Then I felt like you didn't understand why. And the more I tried to explain, the angrier I got."
 
-**Both people can need consideration at once.** You may need an important concern heard; the person with FND may be unable to discuss it at that moment.
+"Was it really about the bracelet?"
 
-The deeper relationship work—making concessions, discussing a complicated issue in smaller parts on several occasions and preserving both people's choices—belongs in [Module 14](../module-14-relationships-identity-and-grief/README.md). You don't have to solve all of that while symptoms are present.
+"Not exactly. I don't know how to explain it. It just felt enormous at the time."
 
-### Where care responsibility changes
+Helen thinks about that. She has felt embarrassed plenty of times herself. But she usually understands why she feels that way and can decide what to do next. Tessa seems to have had a much harder time.
 
-You can help by noticing what the person has agreed you may do, offering a communication option and following an individual safety plan. You do not need to decide whether an episode is “real,” intentionally produce a test, or take on the role of therapist.
+And perhaps that's the part Helen hadn't understood.
 
-A **speech-language therapist**, **OT** or **psychologist** may help with specific communication, activity or emotional needs. Neurological or other medical assessment is needed for new or meaningfully changed events; urgent symptoms require appropriate emergency care. Professional support can help both people participate without assigning either partner the job of preventing the other's symptoms.
+**Sometimes the difficulty isn't recognizing that you're upset. It's how intensely you feel it, how quickly it grows, and how difficult it becomes to decide what to do next.**
 
-**Something to discuss together:** “If we lose the ability to communicate during a serious subject, what would help us both feel heard and safe?”
+### What might emotional processing have to do with FND?
 
-**One small thing:** At an ordinary, comfortable time, agree on one low-pressure way to say that communication is becoming difficult. No symptom testing is needed.
+Researchers have been investigating differences in how people with FND experience and respond to emotions.
+
+In a 2019 review, Pick and colleagues examined research involving emotional recognition, bodily and neurological responses to emotional information, and emotional regulation. Some studies found differences between groups of people with FND and comparison groups. [1](#citation-1)
+
+Later research frameworks have explored how emotional processing might interact with attention, bodily signals and networks involved in functional neurological symptoms. [2](#citation-2)
+
+This raises an interesting possibility: **for some people with FND, aspects of emotional processing or regulation may themselves be more difficult.** That doesn't mean everyone with FND experiences emotions differently, or that FND has been proven to cause these changes.
+
+But it does mean that an unexpected change in someone's emotional experience deserves to be understood, rather than automatically dismissed as a personality problem.
+
+Let's return to Tessa. Helen knows her daughter is usually cheerful and thoughtful. She's also noticed that certain feelings, particularly embarrassment and frustration, seem much harder for Tessa to manage than they once were.
+
+Those observations don't tell Helen exactly what's happening neurologically. But they give her a different way to understand the experience. Perhaps Tessa isn't simply becoming angry over something small. Perhaps **the feeling itself has become much more difficult to manage than Helen realizes**.
+
+### Feeling an emotion and knowing what to do with it
+
+There's another distinction worth understanding. We all experience strong emotions. Anger, embarrassment, sadness and excitement are ordinary parts of life.
+
+*Emotional regulation* involves how our brains and bodies influence those feelings and what we do in response. Some of this happens automatically. Other parts involve decisions we make consciously.
+
+Imagine feeling embarrassed after making a mistake in front of friends. You might laugh, change the subject or remind yourself that everyone makes mistakes.
+
+But what if the embarrassment keeps growing? You know nobody intended to hurt you. You even recognize that the situation wasn't particularly serious. Yet the feeling remains powerful.
+
+Now someone asks why you're so upset. You try to explain, but you can't quite find the words. The harder you try, the more frustrated you become. You might even become louder because you desperately want the other person to understand.
+
+That's a very different experience from deliberately deciding to argue. It can be confusing for both people. And it helps explain why telling someone they're overreacting may make an already difficult moment harder.
+
+### Two people can experience the same moment differently
+
+Think about Helen offering to help with the bracelet. From her perspective, it was an ordinary, kind gesture.
+
+From Tessa's perspective, the offer arrived during a moment when she was already struggling with an activity she used to manage easily. Perhaps she felt embarrassed. Perhaps the difficulty reminded her of other things she'd lost. Or perhaps the feeling became intense before she could understand why.
+
+Helen couldn't see all of that. And Tessa couldn't necessarily explain it while it was happening. Neither person had the whole picture.
+
+That's something supporters may recognize from their own experiences. Sometimes the person with FND seems to interpret an event very differently from everyone else. Sometimes their emotional response appears much stronger than the situation would suggest. And sometimes they return to their usual cheerful self afterward, leaving everyone wondering what happened.
+
+These differences are worth understanding without assuming that every emotional response is caused by FND. Pain, poor sleep, medications, other health conditions and ordinary life experiences can affect emotions too.
+
+### When emotions and functional symptoms occur together
+
+Now imagine that Tessa's speech becomes difficult while she's trying to explain herself. She still wants Helen to understand, but the words won't come as easily. Her frustration may increase because she can't finish what she was saying.
+
+Or perhaps she experiences one of her familiar functional seizures during another emotionally demanding situation.
+
+From the outside, the timing might seem connected. But there are several possibilities. An emotional demand might contribute to the difficulty. A neurological symptom might create frustration. Or several things might be happening together.
+
+**A symptom appearing during an emotional moment doesn't tell us that the person intended it or that the emotion caused it.**
+
+This matters because someone can want very much to continue a conversation while becoming unable to do so. It also helps us understand why emotional regulation isn't simply a matter of trying harder to remain calm.
+
+### What might help them understand each other?
+
+Let's return to Helen and Tessa after the birthday. They're discussing the bracelet again, but this time neither is upset. Helen has a question.
+
+"When you said I didn't understand, what did you want me to know?"
+
+Tessa thinks for a moment.
+
+"That I was embarrassed. And when you offered to help again, I felt worse, even though I knew you meant well."
+
+Helen hadn't realized that.
+
+"Would it have been better if I'd just waited?"
+
+"Maybe. Or asked if I wanted help and left it there."
+
+That's something they can try another time. And perhaps Tessa has something she'd like to work on too.
+
+She may want help recognizing when a feeling is becoming difficult to manage, or finding another way to explain what she's experiencing. A psychologist or another appropriate clinician can help when emotional regulation itself is becoming a significant difficulty. That support can be useful without assuming emotional problems caused the person's FND.
+
+Helen doesn't need to become her daughter's therapist. She can remain her mother: someone who listens, learns and occasionally offers help.
+
+### When safety matters
+
+Understanding why an emotional response has become difficult doesn't mean anyone has to accept threats, intimidation or abuse. Both people deserve safety and respectful treatment.
+
+There's also another concern worth knowing about, particularly when someone experiences functional seizures. Research has found an increased risk of premature death and suicide-related mortality among people with functional seizures. In one study, among patients who died before age 50, approximately **20% of those deaths were attributed to suicide**. That figure describes deaths within the study, not the risk that any particular person will die by suicide. [Nightscales and colleagues, 2020](https://doi.org/10.1212/WNL.0000000000009855).
+
+This doesn't mean that irritability, emotional intensity or a functional seizure indicates suicidal thinking. But if someone talks about wanting to die, harming themselves or being unable to stay safe, it's important to take them seriously and seek appropriate professional support. Immediate danger calls for emergency help.
+
+### Understanding someone who's still themselves
+
+Helen knows her daughter. She knows the thoughtful, funny person who enjoys spending time with family. And she's beginning to understand another part of Tessa's experience.
+
+Some feelings may now become much stronger than they once did. Tessa may struggle to understand them, respond to them or explain them while they're happening.
+
+That doesn't erase the person Helen knows. Nor does it mean that every difficult emotion needs to be attributed to FND. It simply gives Helen something new to consider when a familiar situation suddenly becomes difficult.
+
+The next time Tessa becomes unusually upset, Helen may remember their conversation about the bracelet. Perhaps she'll recognize that Tessa is struggling with the feeling itself, not just with what happened. And perhaps they'll find it easier to understand each other afterward.
+
+**Sometimes what looks like an unusually strong reaction is also an experience the person themselves is struggling to understand.**
 
 ***
 
@@ -786,6 +878,7 @@ A **speech-language therapist**, **OT** or **psychologist** may help with specif
 [Research and Sources](#research-and-sources)
 
 ***
+
 
 ## For Clinicians and the Care Team
 
@@ -986,5 +1079,6 @@ The rehabilitation opportunity lies in understanding what has become difficult a
 | <a id="citation-5"></a>**[5]** | — | Bennett K, Diamond C, Hoeritzauer I, et al. **A practical review of functional neurological disorder for the general physician.** Clin Med. 2021;21:28–36. [DOI](https://doi.org/10.7861/clinmed.2020-0987) · [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). Positive diagnosis and proportionate investigation. |
 | <a id="citation-6"></a>**[6]** | Figures 1–2 | Public r/FND discussion [source](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/); excerpts recorded in the project's community-source notebook. A person and a supporter-perspective excerpt are **editorial candidates pending direct wording, role and context confirmation**. Not clinical evidence. |
 | <a id="citation-7"></a>**[7]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. [DOI](https://doi.org/10.1136/jnnp-2019-322281) · [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). OT role and context-sensitive activity analysis. |
+| <a id="citation-8"></a>**[8]** | — | Nightscales R, McCartney L, Auvrez C, et al. **Mortality in patients with psychogenic nonepileptic seizures.** Neurology. 2020;95:e643–e652. [DOI](https://doi.org/10.1212/WNL.0000000000009855) · [FND-CIT-0050](../../research/citation-index.md#fnd-cit-0050). Reported suicide accounted for about 20% of deaths among the patients who died before age 50 in this cohort; this is a **proportion of deaths**, not the risk that an individual with functional seizures will die by suicide, and it cannot predict an individual patient’s risk. |
  
 *Editorial seed prepared October 28, 2026. Human authoring, quote re-verification, two post-edit audits, independent clinical review and a clean rendered-site check remain pending.*
