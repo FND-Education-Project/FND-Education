@@ -8,6 +8,8 @@ If a document becomes reader-ready, move it out of `_internal` into the appropri
 
 ## Course editorial handoffs
 
+- [Module 7 Audit 1](course/audit-01-module-07-2026-11-03.md) — Lessons 18–23 evidence, source attribution, metadata and Reference-link review; proposed corrections for approval.
+
 - [Module 6 accepted corrections and Audit 2](course/audit-02-module-06-2026-10-29.md) — Lessons 15–17 editorial review, source repairs and learner-tracker compatibility.
 - [Module 6 Audit 1 and asset integration](course/audit-01-module-06-2026-10-28.md) — Lessons 15–17 evidence, safety, citation and site review; proposed corrections for approval.
 
