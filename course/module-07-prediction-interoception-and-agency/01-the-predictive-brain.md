@@ -6,7 +6,7 @@ Lesson 18 explores the Predictive Brain through everyday examples, collaborative
 
 *Last reviewed: October 26, 2026*
 
-*The Person section was human-authored and approved October 29, 2026; Supporter and Clinician sections remain working drafts.*
+*The Person section was human-authored and approved October 29, 2026; the Clinician section was previously approved, and the Supporter section was human-edited and approved November 3, 2026. Research verification and subsequent audits remain pending.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -294,39 +294,109 @@ In our next lesson, we'll meet the different kinds of information your brain rec
 
 ## For Family, Friends, and Other Supporters
 
-### Expectations are not instructions
+### When something familiar becomes difficult
 
-When you catch a falling object, your body prepares for where it is likely to land. The brain makes predictions like this all the time without asking your permission.
+Imagine visiting relatives for lunch.
 
-Some FND models explore whether changes in prediction and sensory information may influence certain symptoms. This is **not** the same as saying someone expects a symptom, causes it by thinking about it or can stop it with better expectations.
+At home, your partner moves around the kitchen quite comfortably. They know where the furniture is, where the cupboards open and how much room they have to move.
 
-### Making an unfamiliar situation easier
+But when you arrive at your relatives' house, something changes.
 
-Suppose a trip to an appointment involves an unfamiliar entrance, parking, bright lighting and several people giving different directions. Reducing uncertainty may be useful for anyone, especially someone already managing neurological symptoms.
+Your partner slows down near the entrance. They look carefully at the floor, hesitate before entering the hallway and ask where the bathroom is.
 
-Ask whether the person would prefer to know the route, receive written instructions, see pictures of the building or simply arrive with more time. **Predictability is an accessibility option, not a way to make someone think positively enough to recover.**
+You remember seeing them walk comfortably around the house that morning.
 
-Don't conceal hazards or create “surprises” to test whether expectations are driving symptoms. Don't insist on identifying a trigger when none is known.
+Naturally, you might wonder why walking has suddenly become so difficult.
 
-### Where a professional belongs
+Your partner may be wondering exactly the same thing.
 
-When a movement, speech or sensory activity is difficult, a **physiotherapist, OT or speech-language therapist** may use task structure or predictable cues within individualized rehabilitation. The clinical team must still assess other possible conditions and determine whether a specific intervention fits.
+### Why unfamiliar places can feel different
+
+Our brains use past experiences to help prepare for what comes next. This is called *prediction*, and much of it happens automatically.
+
+Think about walking through your home at night. Even in dim light, you probably know where the furniture is. Your brain has learned the layout, so moving around doesn't require quite as much attention.
+
+Now imagine walking through someone else's home in that same dim light. You'd probably slow down and look more carefully.
+
+For someone with functional movement difficulties, changes in sensation or problems judging their surroundings, those extra demands may make an unfamiliar place considerably harder to manage.
+
+The hesitation you see might reflect far more effort than you realize.
+
+**An ability that works comfortably in familiar surroundings may become difficult when the situation changes.**
+
+### What does this have to do with FND?
+
+Here's where the research becomes particularly interesting.
+
+Scientists have proposed that **differences in predictive processing may contribute to functional neurological symptoms in some people with FND**. The idea is that the brain's expectations and the information arriving from the senses may not always be combined in the usual way. This could influence movement, sensation or how someone experiences an action. Researchers have been developing these explanations for more than a decade. [1](#citation-1), [2](#citation-2)
+
+It's a promising explanation for understanding certain functional symptoms, although researchers are still investigating exactly when and how it applies.
+
+Think back to your partner hesitating in the unfamiliar hallway.
+
+We can't know from that moment whether predictive processing is responsible. But the research helps us appreciate why changing the surroundings might make an activity unexpectedly difficult, even when the person knows what they want to do.
+
+And perhaps that changes how we understand what we're seeing.
+
+Instead of wondering why they aren't walking as comfortably as they did at home, we can begin to appreciate that the two situations might be asking different things of their nervous system.
+
+### When there doesn't seem to be a pattern
+
+Of course, not every symptom follows a pattern that either person can recognize.
+
+One parent described watching their son's FND:
 
 > “He’s only shown symptoms for 4 months and they come on from nothing, with no real pattern that we can see. It’s quite frightening to witness, accept and deal with.”
 
-*Figure 1. Community experience.* A parent describes uncertainty, not a confirmed mechanism or absence of medical causes. [Original public source](https://www.reddit.com/r/FND/comments/1n8gljg/teenage_son_diagnosed_any_helpful_advicesupport/). (*citations* [4](#citation-4))
+*Community experience — parent of someone with FND. [Original public discussion](https://www.reddit.com/r/FND/comments/1n8gljg/teenage_son_diagnosed_any_helpful_advicesupport/).*
 
-### Leave room for surprises without testing the person
+It's easy to understand why that parent would want answers. Watching something happen unexpectedly, especially to someone you love, can be frightening.
 
-A supporter might see someone move more easily after receiving clear directions and wonder whether the person could manage other activities by “expecting success.” Those are different claims. The task may now be easier to follow; that is not evidence that the person chose their earlier difficulty.
+Sometimes supporters notice that certain activities or environments seem to make things harder. Other times, symptoms appear without any obvious explanation.
 
-A parent describes witnessing episodes with no pattern they could identify (Figure 1). That uncertainty can be frightening for the supporter too. It may help to distinguish **knowing tomorrow's plan** from **predicting when a symptom will happen**. Good practical planning does not require either person to find a trigger or be right about every outcome.
+There's also an important difference between the automatic predictions scientists are studying and someone consciously thinking that a symptom might happen.
 
-A parent may prepare school transitions, a spouse may clarify an appointment route, and someone without a supporter may ask a service for written arrival instructions. Each is an access choice, not an attempt to control someone else's nervous system.
+A person can worry about having a functional seizure during an outing, for example, without that worry being the cause of the seizure.
 
-**Something to discuss together:** “Is there anything about tomorrow's task that would be easier if we knew the plan ahead of time?”
+And they may experience symptoms when they weren't expecting anything unusual at all.
 
-**One small thing:** If invited, clarify one piece of logistics. It's enough to make the day easier; no neurological explanation is required.
+Not knowing what will happen next can be difficult for both people.
+
+### Sometimes a little familiarity helps
+
+Let's return to the family visit.
+
+Perhaps your partner mentions that unfamiliar entrances have become difficult.
+
+You could ask whether they'd like to know more about the house before visiting. Maybe a photograph of the entrance would help, or knowing whether there are steps between the living room and bathroom.
+
+They might appreciate arriving a little early, before the house fills with people.
+
+Or perhaps they'd rather not make any special preparations.
+
+Either way, you've learned something about what they're experiencing, and they've had a say in what might help.
+
+The same idea applies beyond walking. Someone who struggles with unfamiliar surroundings might appreciate knowing where they'll be sitting, how noisy a gathering is likely to be or what to expect at a medical appointment.
+
+Sometimes it's the small, ordinary things that make an outing easier.
+
+### Making room for a different experience
+
+Perhaps your partner feels more comfortable during the visit because they know their way around.
+
+Perhaps they still struggle.
+
+They might even find that another part of the visit is more difficult than either of you expected.
+
+Living with unpredictable symptoms can involve quite a lot of adjusting along the way.
+
+What matters is that you've begun to understand something about their experience that wasn't obvious from watching them.
+
+You don't need to know precisely what their brain is doing to appreciate why an unfamiliar situation might be difficult.
+
+And you don't need to predict every problem to make someone feel supported.
+
+**Sometimes understanding begins with recognizing that what looks like the same activity to us may feel very different to the person doing it.**
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -335,6 +405,7 @@ A parent may prepare school transitions, a spouse may clarify an appointment rou
 [Research and Sources](#research-and-sources)
 
 ***
+
 
 ## For Clinicians and the Care Team
 
