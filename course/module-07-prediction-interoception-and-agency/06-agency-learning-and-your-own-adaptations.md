@@ -1,6 +1,6 @@
 # Agency, Learning, and Your Own Adaptations
 
-> **Working draft:** The Person section was human-authored and approved November 2, 2026; the Clinician section was owner-approved November 3, 2026. The Supporter and Research sections remain automatically generated drafts requiring human authoring, citation verification, two later audits and independent clinical review.
+> **Working draft:** The Person section was human-authored and approved November 2, 2026; the Clinician and Supporter sections were owner-approved November 3, 2026. The Research section remains an automatically generated draft requiring citation verification, two later audits and independent clinical review.
 
 Lesson 23 explores intention, the feeling of agency and what the body can actually do, then considers learning, safe rehabilitation and meaningful individual adaptations.
 
@@ -364,39 +364,185 @@ In **Module 8 — Recognizing Symptoms and Finding Information**, we'll learn ho
 
 ## For Family, Friends, and Other Supporters
 
-### Wanting to do something is not the same as being able to do it
+### When someone wants to do something but can't
 
-Imagine someone wants to lift a cup but their arm jerks, stiffens or refuses to move. You can believe their intention **and** recognize that the movement isn't reliably under their control.
+Martin and his brother Lewis have played cards together for years. Every Friday, they get together for a few games, usually with plenty of joking and friendly competition.
 
-A person's sense of agency—the experience of initiating an action—can be affected in some FND experiences. It doesn't tell you what they want, what they are capable of tomorrow or whether they are responsible for symptoms. (*citations* [1](#citation-1), [2](#citation-2))
+Martin has FND, and recently his hand movements have become unreliable.
 
-### Ask before you take over
+Tonight, he's trying to shuffle the cards. He picks up the deck, separates it into two halves and begins bringing them together. His hand starts trembling, and several cards fall onto the table.
 
-That distinction works at home, too. You might ask: “Would you like me to move the cup, help you hold it, or wait?” The answer belongs to the person. They may welcome assistance with one task and not another.
+He tries again, but the same thing happens.
 
-### Adaptation is collaboration, not treatment by the family
+Lewis offers to shuffle for him, but Martin wants to try once more.
 
-Try the course's reasoning sequence together:
+A few minutes later, Martin reaches across the table and picks up his drink without difficulty.
 
-**Understand** what the task involves. **Notice** what is difficult without provoking symptoms. **Consider** safety, other diagnoses and alternatives. **Adapt** only with consent. **Review** whether it helped.
+Lewis notices. He doesn't say anything, but he's puzzled.
 
-The supporter can offer practical help or observations; **OT, PT, SLT or psychology** can guide techniques when specialized assessment, training, safety or symptom-specific therapy is needed. No family member needs to become a clinician.
+*If Martin could pick up his drink so easily, why couldn't he shuffle the cards?*
+
+Martin is wondering something similar. He knows how to shuffle. He's done it thousands of times. But knowing what he wants his hands to do and making the movement happen have become two different things.
+
+### Wanting, doing and feeling in control
+
+Think about how easily we usually move.
+
+You decide to pick up your phone. Your hand reaches toward it, your fingers close around it and you lift it. You don't have to consciously plan every little movement.
+
+And when your hand moves, it feels like *you* made that movement happen.
+
+Scientists call that experience the **sense of agency**. It's the feeling that we're causing our own actions.
+
+Researchers have found differences in brain activity associated with the experience of control in some people with functional movement symptoms. This has helped scientists investigate how intended movements and the experience of making them happen may become disconnected in FND. [1](#citation-1), [2](#citation-2)
+
+Imagine how strange that could feel. You want your hand to remain steady, but it begins trembling. Or you want to take a step, but your leg won't cooperate.
+
+From the outside, someone sees the movement or the difficulty moving. From the person's perspective, there's an additional experience: **their body isn't responding to what they intended to do**.
+
+Not everyone with FND experiences the same change in their sense of control. But this research helps us understand why someone's intentions, movements and experience of controlling those movements are worth considering separately.
+
+### Why can the same movement look different?
+
+Let's return to the card game.
+
+Lewis saw Martin struggle to shuffle, then pick up his drink quite comfortably. It's natural to notice the difference.
+
+But those two activities aren't identical.
+
+Shuffling requires several carefully coordinated finger movements. Martin has to hold the cards, control their position and bring the two halves together.
+
+Picking up a drink is a more familiar movement with different demands.
+
+Someone with functional movement symptoms may find that certain activities are easier than others. Sometimes an ability changes when the task, surroundings or focus of attention changes.
+
+The nervous system performs many familiar movements automatically. When that coordination becomes unreliable, concentrating harder doesn't necessarily restore it.
+
+And successfully completing one movement doesn't mean someone can repeat it whenever they choose.
+
+**Seeing what someone's body can do in one situation doesn't tell us how much control they have over their symptoms in another.**
+
+That's worth remembering when an ability seems to come and go without an obvious explanation. The change may be just as confusing to the person experiencing it.
+
+### When helping changes the experience
+
+Lewis wants Martin to enjoy their usual game.
+
+He could simply take the cards and shuffle them himself. Perhaps Martin would appreciate that.
+
+But perhaps he would feel disappointed. He was already frustrated that his hands weren't cooperating, and now his brother has taken over something he wanted to do.
+
+Lewis might not realize how that feels. After all, he's only trying to help.
+
+There's another possibility.
+
+"What would you prefer?" he asks. "I can shuffle, or we could try that card shuffler you bought."
+
+Martin laughs.
+
+"I forgot I even had that thing!"
+
+They find the shuffler in a cupboard.
+
+Martin decides to give it a try. If it works comfortably, he can still manage the deck and enjoy playing. If it doesn't, Lewis can shuffle while Martin takes part in another way.
+
+The important difference is that Martin has a choice.
+
+The movement may not be under his control, but his preferences still matter.
+
+### An adaptation isn't giving up
+
+Some people worry that using an adaptation means they've stopped trying to recover.
+
+But making an activity easier and working toward improvement aren't opposites.
+
+Imagine Martin finding that the card shuffler works well. He still has functional movement symptoms, and his hand may tremble during other tasks. Yet he can enjoy something that matters to him.
+
+If Martin later works with a physiotherapist or occupational therapist, they may help him explore activities that support more reliable movement or develop useful practical adaptations.
+
+Our nervous systems can change with learning and practice. Scientists call this *neuroplasticity*, and rehabilitation may draw on that ability to help improve function over time.
+
+But learning doesn't mean someone should be able to command an involuntary symptom to stop. And an adaptation doesn't have to disappear just because someone's abilities improve.
+
+**Being able to enjoy an activity with a useful adjustment is still a meaningful achievement.**
+
+### Sometimes it's the offer that matters
+
+There's a lovely example of this principle in an account from the FND community.
+
+A spouse described offering to accompany his wife to medical appointments:
 
 > “I always offer and then it's her choice if she wants me there or not.”
 
-*Figure 1. Community experience.* A spouse describes offering to attend appointments. [Original public source](https://www.reddit.com/r/FND/comments/1o5s0b8/wife_just_diagnosed_with_disassociative_fnd_feels/). (*citations* [4](#citation-4))
+*Community experience — spouse of someone with FND. [Original public discussion](https://www.reddit.com/r/FND/comments/1o5s0b8/wife_just_diagnosed_with_disassociative_fnd_feels/).*
 
-### Offering help is not deciding what the person intended
+It's such an ordinary gesture, isn't it? He's available if she wants him there, but he hasn't assumed that she needs him at every appointment.
 
-Suppose a person's hand moves unexpectedly as they reach for a cup. A supporter may help with the cup, but cannot infer from the movement whether the person wanted it, chose it or will be able to repeat it. The person's reported experience and preferences remain central.
+The same idea applies to Lewis and Martin.
 
-The community spouse quoted above described offering accompaniment to appointments while leaving the decision to their partner. The same principle can guide adaptations: *ask what kind of help would be welcome, then accept the answer*. If there is a transfer or other safety concern, clinical training and assessment still belong with qualified professionals.
+Sometimes Martin might appreciate his brother shuffling the cards. Other evenings, he may want to do it himself, even if it takes longer. Perhaps on a particularly difficult day, he'd rather Lewis handle the cards entirely.
 
-This closes the module with a relationship between **knowing**, **observing** and **offering** rather than a burden to monitor or correct the person's symptoms.
+Lewis doesn't need to guess which option is right every Friday.
 
-**Something to discuss together:** “What kind of help feels respectful to you, and when would you prefer I ask rather than act?”
+He can ask.
 
-**One small thing:** Agree on a phrase that makes it easy to accept or decline assistance without giving a long explanation.
+Of course, there are situations where safety requires more planning or professional guidance. But during an ordinary activity like their card game, there's often plenty of room to let the person decide what help feels useful.
+
+And that can make quite a difference to how receiving help feels.
+
+### What if Martin wants to keep trying?
+
+Imagine another Friday evening.
+
+Martin is having difficulty shuffling again, but this time he doesn't want to use the card shuffler.
+
+"I want to see if I can do it," he tells Lewis.
+
+Lewis might be tempted to remind him that the shuffler worked perfectly last week. It would certainly get the game started faster.
+
+But perhaps Martin has a reason for wanting to try.
+
+Maybe he's noticed his hands feel more reliable tonight. Perhaps he's been practising certain activities with his therapist. Or maybe he simply misses shuffling the cards.
+
+As long as the activity is safe, there's room for that choice too.
+
+An adaptation is there to help Martin, not become another rule about what he must do.
+
+And if he changes his mind halfway through, that's fine.
+
+This is something that can be easy to forget when you're helping someone regularly. Once you've discovered a useful arrangement, it's natural to keep offering it.
+
+But a helpful arrangement can change as someone's abilities, preferences or circumstances change.
+
+What worked last week is worth remembering. It isn't necessarily what the person wants today.
+
+### Enjoying the game together
+
+As their evening continues, Martin and Lewis settle into their familiar routine.
+
+Martin is still a little annoyed that his hands haven't been cooperating. Lewis understands that. He's known his brother long enough to recognize when something matters to him.
+
+But they've found a way to play, and soon they're arguing cheerfully over whether Lewis is bluffing.
+
+The card shuffler sits beside the table, ready if they need it.
+
+There's something important about that ordinary scene.
+
+Lewis has learned that Martin's ability to move can change without his intentions changing. He's also learned that offering help doesn't always mean taking over.
+
+And Martin hasn't had to choose between working toward improvement and enjoying his evening as things are.
+
+They can have both.
+
+As we've explored throughout this module, understanding FND can help us make sense of experiences that seem confusing from the outside. But we don't have to understand every neurological detail before we can make an ordinary activity more enjoyable.
+
+Sometimes a useful question is all that's needed.
+
+"Would you like a hand, or do you want to give it another try?"
+
+And sometimes the answer will be different tomorrow.
+
+**A person may not always be able to control what their body does, but there's still a great deal they can have a say in. Good support makes room for those choices.**
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -405,6 +551,7 @@ This closes the module with a relationship between **knowing**, **observing** an
 [Research and Sources](#research-and-sources)
 
 ***
+
 
 ## For Clinicians and the Care Team
 
