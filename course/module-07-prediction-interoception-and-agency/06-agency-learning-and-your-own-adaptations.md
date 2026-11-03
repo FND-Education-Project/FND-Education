@@ -1,6 +1,6 @@
 # Agency, Learning, and Your Own Adaptations
 
-> **Working draft:** The Person section was human-authored and approved November 2, 2026. Supporter, Clinician and Research sections were automatically generated as research-seeded drafts requiring human authoring, citation verification, two later audits and independent clinical review.
+> **Working draft:** The Person section was human-authored and approved November 2, 2026; the Clinician section was owner-approved November 3, 2026. The Supporter and Research sections remain automatically generated drafts requiring human authoring, citation verification, two later audits and independent clinical review.
 
 Lesson 23 explores intention, the feeling of agency and what the body can actually do, then considers learning, safe rehabilitation and meaningful individual adaptations.
 
@@ -408,36 +408,169 @@ This closes the module with a relationship between **knowing**, **observing** an
 
 ## For Clinicians and the Care Team
 
-### Separate intention, experience and actual control
+### When intention and action don't match
 
-The **sense of agency** concerns the experience of initiating or controlling an action. It is distinct from intention, responsibility, body ownership, voluntary effort and the reliable ability to repeat an action. Explicit self-report, intentional-binding paradigms, imaging and naturalistic daily performance are different measures and cannot be substituted for one another. (*citations* [1](#citation-1), [2](#citation-2))
+In Lesson 22, we explored why a person's intention to participate may remain unchanged even when an involuntary symptom interrupts their ability to do so. Our final lesson examines this distinction more closely, particularly in movement and the experience of control.
 
-Small motor-FND imaging studies have examined agency-related processes. They are not validity tests, biomarkers or evidence that patients lack insight. Describe agency findings as emerging research, not an explanation that can be assigned from behaviour alone.
+Three concepts are important:
 
-### What would an adaptation look like in each profession?
+- **Intention:** What a person wants or plans to do.
+- **Sense of agency:** The subjective experience of initiating or causing an action.
+- **Motor capacity and performance:** What the person can actually do under particular conditions.
 
-**Physiotherapy:** Let a person identify a valued movement and decide whether a clinician-guided task change improves consistency or reduces risk.
+These concepts usually work together. Someone intends to reach for an object, their arm moves, and they experience the movement as something they caused.
 
-**Occupational therapy:** Use task analysis to identify where intended action and accessible execution diverge; offer a tool, positioning change, task sequence or alternative method while protecting autonomy.
+But they are not identical. A person may intend to move without being able to produce the movement reliably. Another may experience an unwanted movement that does not feel self-generated.
 
-**Psychology/neuropsychology:** Work with loss of confidence, dissociation, identity or the effects of unpredictable control *where present*, not as required causes or prerequisites for care.
+The distinction has clinical importance because **observing what a person can do does not, by itself, reveal their intention or their experience of control**.
 
-**Speech-language therapy:** A person may intend to speak but lose voice or fluency; support their chosen communication channel without making spontaneous speech a test of credibility.
+### Clinical case: A task that no longer feels reliable
 
-### A shared reasoning method
+*Ruth is a fictional patient with an established diagnosis of functional tremor, supported by appropriate positive neurological findings.*
 
-A concise clinical sequence is: **define the task → ask what the person experienced → check alternative/coexisting medical explanations → agree on one safe adjustment → review reliability and life impact**. A positive response is useful for care, not proof of the proposed brain mechanism; an absent response does not invalidate the diagnosis.
+She enjoys building small wooden models and has been working on a boat for her grandson.
 
-In shared discussion, say “the symptom is involuntary; we can work with the conditions in which the activity is possible” rather than “your brain is making you do it because you expected it.”
+Recently, painting the model has become difficult.
 
-**Evidence boundary:** Agency imaging is limited and phenotype-specific [1](#citation-1). Broader circuit frameworks [2](#citation-2) remain proposals.
+When Ruth tries to position the brush carefully, her hand sometimes begins trembling. She knows exactly where she wants the brush to go, but the movement no longer follows her intention reliably.
 
-### Ask whose observation answers which question
+"The shaking doesn't feel like something I'm doing," she explains.
 
-When someone describes an action as “not mine,” the patient is reporting **an experience of control**. A clinical examination documents observable movements, their task dependence and other findings. Neither observation reveals intention or deception. Voon and colleagues' small motor-FND imaging study concerns selected research participants, not a bedside classifier. (*citation* [1](#citation-1))
+Ruth has noticed something else. When she's rearranging pieces on the workbench or handing an object to her husband, her hand sometimes moves more comfortably.
 
-A useful endpoint for this module is a distinct, consented **clinical decision**: will a safer task setup, environmental change, communication support or symptom-specific rehabilitation actually improve participation? The choice should be tailored and documented as an accommodation or therapeutic trial, not presented as proof that prediction, emotion or agency caused FND. Where new movement or cognitive change appears, reassessment remains necessary.
+She finds that difference difficult to understand.
 
+"If it can move properly then, why can't I make it do that when I'm painting?"
+
+Her clinician now has several kinds of information to consider: Ruth's intended movement, her reported experience of control, the movement observed during different activities, and the consequences for something she enjoys.
+
+**What can these differences tell us, and how might they help her?**
+
+### Understanding movement without assuming intention
+
+Ruth intends to guide the brush. The tremor interferes with the movement, and she experiences the shaking as involuntary.
+
+That subjective experience matters. The sense of agency concerns whether a person feels that they are making an action happen; it is not a direct measure of how much motor capacity they possess.
+
+The difference between painting and handling other objects is also clinically interesting. It suggests that movement performance changes across tasks.
+
+Painting requires precise movements toward a small target, sustained positioning and visual monitoring. Passing an object to another person involves different demands, even though some of the same muscles are used. Differences in attention, anticipation and automatic control may also contribute.
+
+**Understanding where movement becomes more accessible can inform rehabilitation without equating that ability with voluntary control over symptoms.**
+
+### What has research found about agency in FND?
+
+Voon and colleagues (2010) investigated neural activity associated with involuntary functional motor symptoms, reporting differences in brain regions implicated in awareness and control of action. [1](#citation-1)
+
+The study provides evidence that the subjective experience of involuntary movement deserves neurological investigation. It also offers a possible connection between functional motor symptoms and processes involved in the sense of agency.
+
+Drane and colleagues (2021) discussed agency within a broader framework of interacting neural mechanisms in FND, including attention, predictive processing and motor control. [2](#citation-2)
+
+**Why do these findings matter?** They help explain why movement, intention and the experience of making a movement happen can be studied as distinct aspects of neurological function.
+
+These findings offer a neurological perspective on why movement, intention and the experience of control deserve separate consideration. Although the mechanisms remain under investigation, Ruth's reported experience and observed movement each provide useful clinical information. Together, they can inform how her difficulties are understood and approached in rehabilitation.
+
+### From observation to rehabilitation
+
+Ruth's goal is to finish the model boat, not merely demonstrate that she can hold her hand still during an examination.
+
+That difference changes how the clinical problem can be understood.
+
+A clinician may identify task conditions in which movement becomes more accessible. Those observations can help inform suitable functional motor rehabilitation, particularly when the activity can be explored safely and adapted to the person's abilities.
+
+For Ruth, the size of the painting task, the need for precise brush control and the arrangement of her workbench may all influence how successfully she can participate.
+
+One possibility is an activity adaptation that gives the model more stability, allowing Ruth to concentrate on guiding the brush without also managing the movement of the object.
+
+Another is exploring whether a different painting task or tool provides a more accessible starting point.
+
+**Why might such changes help?**
+
+They alter the demands of the task while preserving Ruth's intended goal.
+
+A stable work surface may reduce the number of movements she needs to coordinate. A different tool or activity arrangement may make it easier to complete part of the model without requiring the same degree of precise control.
+
+The clinical value of these adaptations lies in how they change the activity. If Ruth can guide the brush more comfortably or complete more of her model, the clinician has learned something useful about the conditions supporting her participation.
+
+### What role does learning play?
+
+Functional rehabilitation can involve more than compensating for a current difficulty. In some circumstances, meaningful practice may help movement become more reliable.
+
+This brings us to **neuroplasticity**: the nervous system's capacity to change through experience, learning and other influences.
+
+Ordinary motor learning demonstrates how repeated experience can change movement performance. Familiar actions often become more efficient and require less conscious attention with practice.
+
+These principles are relevant to rehabilitation, including task-oriented approaches used in functional motor disorders.
+
+Neuroplasticity provides a foundation for understanding how meaningful practice may improve movement over time. In FND, the particular difficulties, suitable rehabilitation approaches and opportunities for improvement still need to be understood individually.
+
+For Ruth, an appropriately supported rehabilitation activity might provide opportunities to practise movements that become more accessible under selected conditions.
+
+An occupational adaptation could also help her continue building models while that work progresses.
+
+**Rehabilitation and accommodation serve different purposes, but they can complement each other.** One may aim to improve the reliability of an ability; the other may make an activity accessible despite an ongoing limitation.
+
+The detailed evidence and methods for movement retraining belong in the Recovery Techniques Reference Library and the later rehabilitation modules.
+
+### What would meaningful progress look like?
+
+Suppose Ruth begins using a stable work surface and finds that she can paint larger sections of the boat more comfortably.
+
+Her tremor still occurs, particularly during delicate work, but she is completing parts of the project she had stopped attempting.
+
+That is a meaningful functional improvement. Whether her tremor becomes less frequent, her movements become more reliable or her experience of control changes are additional questions that can help the clinician understand her progress.
+
+Ruth's experience also helps distinguish what progress means to her. Finishing the boat may matter more than achieving a particular result on a movement test.
+
+An adaptation that works in therapy but cannot be used at home may offer limited practical benefit. One that allows Ruth to enjoy her hobby independently may remain valuable even when her symptoms persist.
+
+**The most useful outcome is not always the disappearance of an abnormal movement. It may be the return of an activity the person values.**
+
+### How does responsibility fit into the picture?
+
+Agency and responsibility are related concepts, but they refer to different things.
+
+The *sense of agency* concerns the experience of causing an action. Responsibility involves decisions and actions for which a person can reasonably be held accountable.
+
+Ruth did not choose to develop functional tremor, and her unexpected movements are not evidence of a deliberate intention.
+
+Nevertheless, she can still make choices about which activities matter to her, what risks she is comfortable considering, and whether an adaptation or rehabilitation approach suits her circumstances.
+
+Those choices do not amount to complete control over her symptoms.
+
+Consider a patient who declines a particular therapeutic activity because it increases pain or presents an unacceptable risk. Their decision may reflect reasonable judgment rather than unwillingness to recover.
+
+Likewise, someone who requires a mobility aid, assistance or a different way to complete a task has not failed to take responsibility for their care.
+
+**Responsibility in rehabilitation means having a meaningful role in decisions about care, safety and participation.** It includes choosing useful supports, recognizing personal limits and working toward goals that matter. This understanding protects autonomy while respecting the involuntary nature of functional symptoms.
+
+### When might different professionals contribute?
+
+Ruth's presentation involves both functional movement and difficulty participating in a valued everyday activity.
+
+A physiotherapist with appropriate functional motor rehabilitation expertise may contribute to understanding movement variability and opportunities for meaningful motor practice.
+
+Occupational therapy offers a complementary perspective on tools, work surfaces, activity demands and practical adaptations. Professional consensus recommendations emphasize collaborative goals and the importance of participation in everyday life. [3](#citation-3)
+
+A neurologist's role remains relevant to establishing and reviewing the neurological diagnosis and assessing clinically significant changes. New or substantially different motor findings warrant appropriate consideration rather than automatic attribution to established FND.
+
+Psychological support may be useful if Ruth experiences significant distress, loss of confidence or other concerns for which she wants help. Its involvement need not imply that her movement symptoms have a psychological cause.
+
+The clinical question determines whether additional expertise is useful. A person who can achieve their goals with an appropriate existing clinician does not necessarily benefit from more referrals.
+
+### Bringing the module together
+
+Across Module 7, we have explored how the nervous system uses predictions, integrates sensory information, prioritizes signals, responds to changing demands, and supports cognition and emotional experiences.
+
+The final distinction concerns what a person intends, what they experience as self-generated, and what they can actually do.
+
+These processes may influence one another, but understanding them does not require attributing every functional symptom to a single mechanism.
+
+Ruth's experience brings these distinctions together. She intends to paint, experiences tremor as involuntary and demonstrates different movement abilities across activities. Each observation contributes something useful to clinical understanding and rehabilitation.
+
+This completes Module 7's progression from prediction and sensory information through attention, cognition, emotion and agency. Module 8 builds on these foundations by examining individual symptom presentations, clinical evidence and the Reference Library.
+
+**Clinical takeaway:** Understanding intention, the sense of agency and demonstrated ability as distinct aspects of neurological function helps clinicians recognize rehabilitation opportunities, support autonomy and develop care around the activities that matter to each person.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -446,6 +579,7 @@ A useful endpoint for this module is a distinct, consented **clinical decision**
 [Research and Sources](#research-and-sources)
 
 ***
+
 
 ## Research and Sources
 
