@@ -1,6 +1,6 @@
 # Emotional Regulation and Involuntary Symptoms
 
-> **Working draft:** The Person section was human-authored and explicitly approved October 31, 2026. Supporter, Clinician and Research sections were automatically generated as research-seeded working drafts pending their own human authoring, source verification, subsequent audits and independent clinical review.
+> **Working draft:** The Person section was human-authored and explicitly approved October 31, 2026; the Clinician section was human-edited and approved November 3, 2026. The Supporter and Research sections remain automatically generated working drafts pending human authoring, source verification, subsequent audits and independent clinical review.
 
 Lesson 22 considers how emotions are processed and regulated, why conversations can become difficult when functional symptoms arise, and why timing does not establish intent.
 
@@ -789,37 +789,169 @@ A **speech-language therapist**, **OT** or **psychologist** may help with specif
 
 ## For Clinicians and the Care Team
 
-### A symptom's timing is not a test of intention
+### When emotions and neurological symptoms occur together
 
-A clinician hears that a patient's conversation with their partner frequently ends when cognitive symptoms, speech difficulty or a functional seizure begins. The apparent relationship to conflict may be clinically relevant, but it cannot distinguish involuntary symptoms from deliberate avoidance or identify a causal neural process.
+Lesson 21 explored how cognitive difficulties can interrupt an activity or leave someone unable to access information they need. When that happens during an emotionally significant situation, another question arises: **How do we distinguish the emotion, the person's ability to regulate it, and an involuntary change in neurological function?**
 
-An important first question is **what changed and in which order**. Was the person still understanding and retaining information? Could they communicate by another means? Did awareness, movement or speech change? What was the event's usual pattern, how was recovery, and what did the supporter observe?
+Emotional regulation involves processes that influence how emotions develop, how intensely they are experienced, how long they last and how a person responds. Some processes occur automatically, while others involve deliberate choices.
 
-Avoid treating these answers as an informal lie detector. Positive FND diagnosis and event-specific differential assessment rest on appropriate clinical evidence, not interpretation of interpersonal convenience. (*citations* [4](#citation-4), [5](#citation-5))
+Regulation is not synonymous with remaining calm. Someone may experience considerable anger yet choose an effective response. Another person may experience an unexpected emotion without understanding what prompted it. Neither situation necessarily indicates impaired emotional regulation.
 
-### Emotion, arousal and cognitive access are related but distinct
+Similarly, arousal, discussed in Lesson 20, describes a broader state of physiological and cognitive readiness. It is not a measure of emotional distress.
 
-Emotional regulation includes processes such as recognition, appraisal, modulation and recovery. **Arousal** refers more broadly to physiological and cognitive readiness and may occur with pain, excitement, illness or physical exertion. **Cognitive access** includes the ability to retain what is said, select a response and communicate it.
+These distinctions become especially important when a functional symptom appears during a difficult conversation or another emotionally significant event.
 
-A person may have marked cognitive or functional communication difficulty in an argument without an unusually intense emotion; someone else may have pronounced emotional intensity without neurological communication loss. Assess these domains separately.
+### Clinical case: The discussion that never finishes
 
-Pick and colleagues reviewed heterogeneous group-level emotional-processing research in FND and identified important gaps. Proposed network models implicating emotional salience, interoception, attention and movement are valuable research frameworks but do not establish a patient-level biomarker or an individual's psychological cause. (*citations* [1](#citation-1), [2](#citation-2))
+*Sofia is a fictional patient with an established diagnosis of functional seizures following appropriate neurological assessment.*
 
-### The clinical task: describe, discriminate and adapt
+She and her partner, Malik, are discussing household responsibilities. Malik has been managing more of the household tasks than either expected, and he wants to find a more sustainable arrangement.
 
-Begin with the patient's account and desired communication goal. Where relevant, investigate functional cognitive complaints and memory, functional versus other speech presentations, episodes of altered awareness, pain and fatigue, sleep and sensory load, medication effects, psychiatric/neurodevelopmental comorbidity and medical differentials.
+Sofia understands his concern. She wants to take on more responsibilities, but her symptoms are unpredictable, and she worries about promising something she cannot reliably manage.
 
-**Neurology** should maintain the positive diagnostic standard for the actual neurological presentation and an appropriate seizure/medical safety plan. **Speech-language therapy** can assess functional communication and offer alternative communication methods where indicated. **OT** can consider the cognitive and environmental demands of meaningful conversations. **Psychology/neuropsychology** may evaluate emotion regulation, cognition, trauma-related responses or coping where indicated and with consent. No discipline should assume that the relationship is the pathology. (*citations* [3](#citation-3), [4](#citation-4), [5](#citation-5), [7](#citation-7))
+As they discuss possible arrangements, Sofia struggles to keep track of several points. Malik asks whether she could take responsibility for a particular task each week.
 
-Clinical targets need not be “avoid conflict” or “stay calm.” They could include better access to a difficult conversation, recognizing the need for accommodation before a visible episode, fewer communication misunderstandings, safer episode response and protection of both people's dignity.
+She begins answering, loses her place and becomes frustrated.
 
-### Evidence boundary and handoff
+Shortly afterward, she experiences one of her typical functional seizures. The conversation ends, and afterward she cannot recall everything they had been discussing.
 
-The patient's functional symptoms must be treated as genuine and involuntary; symptom change during conflict does not demonstrate intentional production. Conversely, an event's involuntary nature does not settle the underlying disagreement or excuse intimidation or harm. Those are separate matters requiring proportionate attention.
+Malik is concerned about her wellbeing, but he is also discouraged. Several important conversations have ended this way, leaving the practical problem unresolved.
 
-Neither a narrative sequence nor a successful accommodation tests predictive processing or establishes altered emotion–motor connectivity. If concerns are new, severe or atypical, consider alternate medical/neurological causes. The later relationships module explores shared concessions and longitudinal couple/family communication; do not compress all of that therapy into this mechanism lesson.
+From his perspective, the timing is difficult to understand.
 
-**Question for the team:** “How much of this person's difficulty is affective intensity, cognitive or communication access, an episode, or another condition—and what assessment or support would actually change their ability to participate?”
+Sofia tells her clinician, "I wanted to answer him. I was frustrated because I couldn't get my thoughts together."
+
+**What can this sequence tell us about emotional regulation and involuntary symptoms?**
+
+### Separating emotion, regulation and neurological capacity
+
+Sofia's experience involves several possible changes, each deserving its own interpretation.
+
+She was discussing something emotionally significant. She also experienced difficulty retaining and organizing information, became frustrated and subsequently had a functional seizure.
+
+The order matters because it helps clarify her experience, but it does not establish a causal sequence.
+
+Perhaps cognitive difficulty contributed to frustration. Perhaps emotional demands affected her ability to follow the discussion. Several factors may have interacted, or the seizure may have occurred independently of those changes.
+
+The clinician also has an important distinction to make between **what Sofia intended and what she was capable of doing at that moment**.
+
+She intended to participate. Her difficulty accessing information limited that participation. The seizure interrupted it further.
+
+An episode occurring immediately after an unwelcome question might appear purposeful to an observer, particularly when similar interruptions have happened before. But apparent convenience is not evidence of intentional symptom production.
+
+Functional seizures are involuntary events. Their diagnosis and assessment depend on appropriate clinical evidence rather than interpretations of a person's motivation. [4](#citation-4), [5](#citation-5)
+
+Malik's experience remains relevant too. His concern about household responsibilities has not been resolved by the event, and his difficulty understanding the timing is worth acknowledging.
+
+**Recognizing an involuntary interruption and recognizing the other person's unresolved concern are compatible clinical positions.**
+
+### What does emotional regulation actually contribute?
+
+Emotion can influence attention, bodily responses, memory and behaviour. Some of these changes occur before a person recognizes what they are feeling; others involve conscious decisions about how to respond.
+
+Consider two different situations.
+
+One patient becomes angry during an appointment but remains able to explain the problem, consider alternatives and choose how to respond. The emotional response is intense, yet several aspects of regulation remain available.
+
+Another patient is relatively comfortable when a functional speech difficulty begins. Frustration develops afterward because communicating has become difficult.
+
+In the second situation, focusing primarily on emotional control could miss the more immediate neurological and functional problem.
+
+Sofia's experience presents a third possibility: cognitive difficulty, emotional frustration and a functional seizure occur close together, without sufficient evidence to determine whether one caused another.
+
+These differences matter for rehabilitation. Psychological support may be useful when emotional responses themselves are difficult to manage or cause significant distress. When the principal difficulty involves cognitive access, communication or an involuntary episode, another form of assessment or support may be more relevant.
+
+The purpose is not to separate psychology from neurology as though they cannot interact. It is to identify **which part of the experience creates the difficulty that care might realistically address**.
+
+### What has research found?
+
+Pick and colleagues (2019) reviewed research examining emotional processing in FND, including emotional recognition, subjective experiences and physiological or neural responses. They identified differences in some group comparisons, alongside substantial variation in findings and methods. [1](#citation-1)
+
+Drane and colleagues (2021) described a broader framework in which emotional processing may interact with attention, salience, bodily information and neural networks involved in functional symptoms. [2](#citation-2)
+
+**Why do these findings matter?** They support investigation of relationships between emotional processing and neurological function. They also help explain why emotional experiences may be clinically relevant without being the cause of every functional symptom.
+
+The findings do not establish that all people with FND have difficulty regulating emotions or that emotional regulation is the mechanism responsible for Sofia's seizures.
+
+A useful clinical distinction follows: emotional processing can be relevant to a person's care even when its precise relationship to their neurological symptoms remains unknown.
+
+### Finding a useful rehabilitation opportunity
+
+Sofia's goal is not simply to remain calm during difficult conversations. She wants to participate in decisions that affect her and Malik's shared life.
+
+The immediate difficulty is that important information becomes hard to use, and an involuntary episode may interrupt the discussion before Sofia has communicated her position.
+
+One possible approach involves making the information needed for a decision available in a form that does not depend entirely on uninterrupted memory and speech.
+
+For example, Sofia may find it easier to consider a short written outline of the options and indicate what she thinks about each one. The information remains available if she loses her place, and her contribution need not disappear when an episode interrupts the conversation.
+
+This is a functional adaptation rather than a treatment intended to suppress an emotion.
+
+**Why might it help?**
+
+The outline reduces some of the demands on working memory and creates another way for Sofia to participate. It also preserves the substance of the discussion, making it possible to return to an unresolved issue without reconstructing everything from memory.
+
+Neither person has to abandon their concerns because the conversation became difficult.
+
+The accommodation cannot guarantee that Sofia will avoid another seizure. Its usefulness lies in improving access to a meaningful activity: participating in a shared decision.
+
+The more detailed work of negotiating responsibilities, making concessions and maintaining sustainable boundaries belongs in Module 14.
+
+### What would meaningful improvement look like?
+
+Suppose Sofia and Malik can revisit an interrupted discussion with a clear record of what remains undecided.
+
+Sofia is better able to express her preferences, and Malik can see that his concern has not been forgotten. They may still disagree, and Sofia may still experience functional symptoms.
+
+Nevertheless, the discussion has become more accessible.
+
+That distinction is important. A rehabilitation outcome might involve improved participation, reduced cognitive effort or fewer misunderstandings without a measurable change in seizure frequency.
+
+The approach may also have limitations. Sofia might find written information useful during a quiet discussion but difficult to read when experiencing severe cognitive symptoms. A strategy that requires too much preparation could become another burden.
+
+The relevant clinical question is whether the adaptation improves the activity that matters to the person, including whether it remains practical in everyday life.
+
+**Successful rehabilitation does not require the person to suppress every emotion or prevent every involuntary symptom.**
+
+### When is emotional-regulation support relevant?
+
+Some people with FND experience persistent difficulties recognizing, tolerating or responding to strong emotions. Others experience understandable frustration, grief or distress related to the limitations imposed by their illness.
+
+Those situations may have different implications.
+
+For example, a patient who repeatedly finds emotional intensity difficult to manage and wants help may benefit from psychological work addressing emotional awareness, regulation or coping.
+
+For another patient, an emotional response may reflect a practical difficulty that care has not yet addressed. Persistent pain, disrupted sleep, medication changes, withdrawal effects or the burden of disability may be particularly relevant.
+
+Emotional distress may also follow an involuntary symptom rather than precede it.
+
+Recognizing these possibilities helps avoid making emotional regulation a universal requirement for FND rehabilitation.
+
+It also allows emotional wellbeing to receive appropriate attention when it is important to the patient, even if treating that concern does not directly alter the neurological symptom.
+
+### How might different professionals contribute?
+
+Sofia's functional seizures already require appropriate neurological diagnosis and an individualized approach to safety and ongoing care. Changes in event characteristics, new medical concerns or a possible coexisting seizure disorder remain separate clinical questions. The functional-seizure management guideline provides presentation-specific guidance. [4](#citation-4)
+
+Psychological expertise may be relevant if Sofia wants help with emotional regulation, distress or other difficulties for which psychological treatment is appropriate. That involvement need not imply that her seizures are caused by unresolved emotions.
+
+If cognitive demands interfere with participation in everyday activities, occupational therapy may offer useful activity analysis and adaptations. [7](#citation-7) Speech-language therapy may contribute where an assessed functional communication difficulty is an important part of the presentation. [3](#citation-3)
+
+The professional contribution is strongest when it addresses an identified difficulty rather than an assumed cause.
+
+For detailed background, see [Emotional Regulation, Irritability, and Overwhelm](../../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md) and the [Functional Seizures diagnostic reference](../../reference/diagnostic-signs/06-functional-seizures.md).
+
+### What should clinicians take from this lesson?
+
+Emotional experiences, emotional regulation, cognitive access and involuntary neurological symptoms are related but distinct aspects of a person's presentation.
+
+Understanding their relationship can improve care, particularly when a symptom occurs during an emotionally significant situation and its timing invites assumptions about intention.
+
+Sofia's case illustrates why the sequence of events deserves attention without becoming an explanation in itself. Her frustration, cognitive difficulty and functional seizure may interact, but each can also require a different clinical response.
+
+The rehabilitation opportunity lies in understanding what has become difficult and what might improve meaningful participation, while preserving appropriate neurological care and the person's autonomy.
+
+**Clinical takeaway:** Emotional significance does not establish emotional causation. Distinguishing feelings, regulation, neurological capacity and intention helps clinicians identify useful support without assigning responsibility for involuntary symptoms or overlooking the concerns of others involved.
 
 ***
 
@@ -839,6 +971,7 @@ Neither a narrative sequence nor a successful accommodation tests predictive pro
 - [Professional Roles in FND Care](../../reference/professional-roles-in-fnd-care.md) — who can assess and support particular needs.
 
 ***
+
 
 ## Research and Sources
 
