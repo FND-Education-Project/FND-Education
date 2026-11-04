@@ -107,6 +107,14 @@ The problem might involve noticing the information, taking it in, keeping it ava
 
 More than one of these can be difficult at once.
 
+<figure class="image-60center" markdown="1">
+
+![A person struggles to recall an appointment, then recognizes a detail after seeing a message, while an imaginary brain librarian locates a memory book.](../../assets/images/lesson-21-illustration.png)
+
+<figcaption>A familiar clue may help bring information back into awareness. The library is a memory metaphor; a reminder does not guarantee that every recalled detail is accurate.</figcaption>
+
+</figure>
+
 ### What about thinking, planning and switching tasks?
 
 Imagine following a recipe you've made many times.
@@ -440,6 +448,13 @@ In our next lesson, we'll explore what happens when thinking difficulties enter 
 What if you want to explain something important, but the information you need suddenly isn't available?
 
 And what if that difficulty itself becomes frightening or frustrating?
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-21-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-21-coloring-book.png' | relative_url }}" alt="A person struggles to recall an appointment, then recognizes a detail after seeing a message, while an imaginary brain librarian locates a memory book. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-21-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 21 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-21">browse the colouring collection</a>.
+
 
 ***
 
