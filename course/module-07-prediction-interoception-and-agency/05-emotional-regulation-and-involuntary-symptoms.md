@@ -727,6 +727,20 @@ For a conversation that matters—perhaps planning a visit or explaining somethi
 
 In our next lesson, we'll explore the difference between **intending an action**, **feeling in control of it**, and **what your body actually does**.
 
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-22" aria-label="Browse Emotional Regulation and Involuntary Symptoms"><img src="{{ '/assets/puzzles/thumbnails/emotional-regulation-and-involuntary-symptoms-m7-22-normal.svg' | relative_url }}" alt="Preview of the Emotional Regulation and Involuntary Symptoms crossword grid" loading="lazy" decoding="async"><span>Emotional Regulation and Involuntary Symptoms</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Emotional Regulation and Involuntary Symptoms PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-22/emotional-regulation-and-involuntary-symptoms-m7-22-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-22/emotional-regulation-and-involuntary-symptoms-m7-22-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-22/emotional-regulation-and-involuntary-symptoms-m7-22-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
 ### Optional colouring activity
 
 <a href="{{ '/assets/puzzles/colouring/lesson-22-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-22-coloring-book.png' | relative_url }}" alt="A visibly frustrated young adult sits at a table beneath a large question mark filled with tangled scribbles. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
