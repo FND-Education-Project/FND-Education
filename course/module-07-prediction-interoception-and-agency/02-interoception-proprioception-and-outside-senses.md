@@ -1,12 +1,12 @@
 # Interoception, Proprioception, and Outside Senses
 
-> **Working draft:** This page was automatically generated and is awaiting human authoring and further review.
+> **Working draft:** Human authored and project-lead approved. Audit 1 corrections applied November 4, 2026; Audit 2 and independent clinical review remain pending.
 
 Lesson 19 explores interoception, Proprioception, and Outside Senses through everyday examples, collaborative adaptations and clinical reasoning.
 
-*Last reviewed: October 26, 2026*
+*Last reviewed: November 4, 2026*
 
-*The Person section was human-authored and approved October 30, 2026; the Clinician section was human-edited and approved November 2, 2026; the Supporter section was human-edited and approved November 3, 2026. Research verification and subsequent audits remain pending.*
+*The Person section was human-authored and approved October 30, 2026; the Clinician section was human-edited and approved November 2, 2026; the Supporter section was human-edited and approved November 3, 2026. Audit 1 corrections were accepted and applied November 4, 2026.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -66,7 +66,7 @@ How?
 
 Your nervous system receives information from muscles, tendons and joints that helps it understand the position and movement of your body.
 
-> **Proprioception:** Your body's sense of where its parts are and how they're moving, even when you aren't looking at them.
+> **[Proprioception](../../glossary/README.md#proprioception):** Your body's sense of where its parts are and how they're moving, even when you aren't looking at them.
 
 Imagine pulling on a jacket.
 
@@ -80,7 +80,7 @@ That information is especially useful for movement.
 
 Your eyes can tell you where an object is. Your body-position sense helps you know where your hand is in relation to it.
 
-Together, they help you reach for the object.
+Together, they help you reach for the object. (*citations* [2](#citation-2))
 
 ### What about information from inside your body?
 
@@ -92,7 +92,7 @@ Perhaps you also noticed that you were thirsty, warm or unusually tired.
 
 Your nervous system receives information about what's happening inside your body, too.
 
-> **Interoception:** Sensing and interpreting conditions inside your body, such as hunger, thirst, heartbeat, breathing and bladder fullness. Much of this happens without conscious awareness.
+> **[Interoception](../../glossary/README.md#interoception):** Sensing and interpreting conditions inside your body, such as hunger, thirst, heartbeat, breathing and bladder fullness. Much of this happens without conscious awareness.
 
 Interoception is fascinating because you don't have to think about every internal change.
 
@@ -110,7 +110,7 @@ Perhaps you've been concentrating on an interesting project and suddenly realize
 
 Your body has been sending information, but you weren't necessarily paying attention to it.
 
-**Receiving information and consciously noticing it aren't quite the same thing.**
+**Receiving information and consciously noticing it aren't quite the same thing.** (*citations* [1](#citation-1))
 
 ### Your brain combines these messages
 
@@ -204,11 +204,11 @@ The same idea applies to many sensations.
 
 A person might describe dizziness, numbness, tingling or feeling disconnected from part of their body.
 
-A person in the FND community described their experience this way:
+A person living with FND and other health conditions described their experience this way:
 
 > “I get tingling, needles, numbness, and burning sensations.”
 
-*Community experience — quotation candidate awaiting source verification.* [Public discussion](https://www.reddit.com/r/FND/comments/1hmedeg/please_explain_your_symptoms_in_detail/). (*citation* [8](#citation-8))
+*Figure 1. Community experience — describing sensations while living with more than one condition.* (*citations* [8](#citation-8))
 
 Those words tell us quite a lot about what the person feels.
 
@@ -240,7 +240,7 @@ They used several different ways to study body awareness.
 
 Interestingly, **the different measurements didn't all tell the same story**.
 
-Some showed differences between the FND group and people without FND. Another task didn't find a clear difference between the groups. (*citation* [3](#citation-3))
+Some showed differences between the FND group and people without FND. Another task didn't find a clear difference between the groups. (*citations* [3](#citation-3))
 
 That teaches us something important.
 
@@ -294,7 +294,7 @@ If placing your foot is difficult, a physiotherapist might use a clear visual ta
 
 If ordinary contact is painful or overwhelming, a therapist might explore a gradual, tolerable return to selected textures or activities.
 
-Different problems need different approaches, and not every technique suits every person.
+Different problems need different approaches, and not every technique suits every person. (*citations* [7](#citation-7))
 
 **Information from one sensory system can sometimes help you manage an activity when another kind of information feels unreliable.**
 
@@ -414,7 +414,7 @@ But imagine how difficult ordinary activities might become if your sense of wher
 
 Or if you felt unexpectedly hot, dizzy or uncomfortable without being able to understand the sensation.
 
-Some people with FND describe experiences like these. Researchers are investigating differences in how sensory information is represented and interpreted in FND, including how people experience signals coming from inside their bodies. [1](#citation-1), [2](#citation-2), [3](#citation-3)
+Some people with FND describe experiences like these. Researchers are investigating differences in how sensory information is represented and interpreted in FND, including how people experience signals coming from inside their bodies. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
 
 The research is still developing, and different symptoms may have different explanations.
 
@@ -510,7 +510,6 @@ Instead of assuming an uncomfortable sensation must be obvious to everyone, you 
 
 ***
 
-
 ## For Clinicians and the Care Team
 
 ### Understanding the information behind the experience
@@ -523,7 +522,7 @@ Three interacting sensory systems are particularly relevant:
 - **Proprioception:** Information about body position, movement and force, primarily involving muscles, tendons and joints.
 - **Interoception:** Sensing and representing internal bodily conditions, including cardiovascular, respiratory and visceral signals, much of which occurs outside awareness.
 
-These systems work together. For example, when someone buttons a shirt, their eyes help locate the button, cutaneous sensation provides information about the fabric, and proprioception contributes information about finger position and movement. The distinction becomes clinically important when a patient reports that an ordinary action no longer feels as it should. [1](#citation-1), [2](#citation-2)
+These systems work together. For example, when someone buttons a shirt, their eyes help locate the button, cutaneous sensation provides information about the fabric, and proprioception contributes information about finger position and movement. The distinction becomes clinically important when a patient reports that an ordinary action no longer feels as it should. (*citations* [1](#citation-1), [2](#citation-2))
 
 ### Clinical case: When a hand doesn't feel where it should
 
@@ -547,7 +546,7 @@ A sensory complaint can describe several different experiences, and clinical fin
 
 For example, suppose Maya consistently recognizes the position of her fingers during examination but continues to describe her hand as distant. Her subjective experience of limb position has changed, while the particular proprioceptive ability tested remains demonstrable under those conditions. One finding does not invalidate the other.
 
-Similarly, Maya's difficulty locating the towel's edge might involve cutaneous sensation, but it could also reflect difficulty integrating sensation and movement during the activity. A sensory examination can help characterize which functions are affected. Its findings must be interpreted alongside the patient's history, clinical presentation and relevant neurological evidence. An unusual sensory distribution or an apparent inconsistency is not, by itself, sufficient to diagnose FND. [5](#citation-5)
+Similarly, Maya's difficulty locating the towel's edge might involve cutaneous sensation, but it could also reflect difficulty integrating sensation and movement during the activity. A sensory examination can help characterize which functions are affected. Its findings must be interpreted alongside the patient's history, clinical presentation and relevant neurological evidence. An unusual sensory distribution or an apparent inconsistency is not, by itself, sufficient to diagnose FND. (*citations* [5](#citation-5))
 
 The detailed methods and diagnostic limitations belong in the [sensory mapping reference](../../reference/diagnostic-signs/functional_sensory_symptoms/01-sensory-mapping-and-comparison.md).
 
@@ -563,7 +562,7 @@ One possibility involves using the activity itself to bring sensation and moveme
 
 **Why might this approach help?** It brings tactile information, movement and a familiar functional goal together. The distinction from an isolated sensory test is important: recognizing a sensation during examination and using that information while manipulating an object are related, but different abilities. Meaningful activity provides an opportunity to explore how available sensory information contributes to functional hand use.
 
-Sensory discrimination and movement-associated feedback are described among approaches to functional sensory rehabilitation, although evidence for specific techniques remains limited. [7](#citation-7) The rationale is therefore clinical and individualized: the activity may provide a tolerable opportunity to explore sensation and improve functional hand use. It does not establish which neural mechanism produced Maya's symptoms.
+Sensory discrimination and movement-associated feedback are described among approaches to functional sensory rehabilitation, although evidence for specific techniques remains limited. (*citations* [7](#citation-7)) The rationale is therefore clinical and individualized: the activity may provide a tolerable opportunity to explore sensation and improve functional hand use. It does not establish which neural mechanism produced Maya's symptoms.
 
 ### Did the rehabilitation approach help?
 
@@ -579,11 +578,11 @@ Likewise, continued difficulty with the task might suggest that the intervention
 
 Maya's experience primarily concerns external sensation, body position and possibly body representation. Interoception raises a different clinical question: how the nervous system senses and represents conditions inside the body. Both subjects illustrate why subjective experience and measured function must be distinguished.
 
-Khalsa and colleagues (2018) described interoception as involving several related processes, including the sensing, interpretation and awareness of internal bodily information. [1](#citation-1)
+Khalsa and colleagues (2018) described interoception as involving several related processes, including the sensing, interpretation and awareness of internal bodily information. (*citations* [1](#citation-1))
 
-A 2026 study by Stoffel and colleagues offers an interesting FND example. The researchers found differences between participants with FND and healthy controls in some self-reported measures and heartbeat-related brain responses. However, a heartbeat-counting task did not show a statistically significant difference between groups. [3](#citation-3)
+A 2026 study by Stoffel and colleagues compared 44 people with FND with 48 healthy controls. The researchers found differences between participants with FND and healthy controls in some self-reported measures and heartbeat-related brain responses. However, a heartbeat-counting task did not show a statistically significant difference between groups. (*citations* [3](#citation-3))
 
-**Why does that matter?** These measurements are not interchangeable. What someone experiences, how they perform on a particular sensory task and what researchers record from the brain may tell different parts of the story. The findings were group-level observations and cannot establish the cause of an individual's symptoms.
+**Why does that matter?** These measurements are not interchangeable. What someone experiences, how they perform on a particular sensory task and what researchers record from the brain may tell different parts of the story. The group findings help frame clinical questions; interpreting an individual's symptoms still draws on their own history and assessment. A statistically inconclusive task comparison also leaves open whether a meaningful difference exists.
 
 Consider a patient who reports that their heart is racing. The sensation is real as an experience, but it does not establish whether the heart rate is elevated or explain why the person feels it. These are separate clinical questions, informed by physiological measurements, history and other findings. FND can coexist with arrhythmia, orthostatic disorders, medication effects or other medical conditions.
 
@@ -593,9 +592,9 @@ The study is useful because it reinforces the importance of keeping those questi
 
 Maya's principal difficulty concerns using her hand during familiar activities. Occupational therapy offers a relevant perspective because it examines the relationship between sensation, movement, the demands of an activity and participation in daily life. If a substantial motor-control problem is also identified, physiotherapy may contribute a different understanding of movement and rehabilitation.
 
-Neither professional perspective is automatically sufficient for every sensory presentation. For example, visual loss raises questions that may involve ophthalmological or neurological expertise. Dizziness can involve vestibular, migraine, cardiovascular or other explanations; persistent postural-perceptual dizziness has specific diagnostic criteria rather than being interchangeable with FND or dizziness generally. [6](#citation-6)
+Neither professional perspective is automatically sufficient for every sensory presentation. For example, visual loss raises questions that may involve ophthalmological or neurological expertise. Dizziness can involve vestibular, migraine, cardiovascular or other explanations; persistent postural-perceptual dizziness has specific diagnostic criteria rather than being interchangeable with FND or dizziness generally. (*citations* [6](#citation-6))
 
-An altered swallowing sensation presents another distinction. Subjective discomfort, swallowing function and airway safety are different clinical questions. Speech-language therapy expertise may be relevant, while medical assessment remains essential when structural, neurological, nutritional or aspiration concerns are present. [4](#citation-4)
+An altered swallowing sensation presents another distinction. Subjective discomfort, swallowing function and airway safety are different clinical questions. Speech-language therapy expertise may be relevant, while medical assessment remains essential when structural, neurological, nutritional or aspiration concerns are present. (*citations* [4](#citation-4))
 
 These examples illustrate why collaboration is most useful when it answers a specific clinical question. The relevant handoff connects the patient's experience and functional goal with findings that another professional can help interpret or address.
 
@@ -619,10 +618,9 @@ Together, these ideas improve the questions clinicians can ask and the reasoning
 
 ***
 
-
 ## Research and Sources
 
-General neuroscience, FND research findings, proposed mechanisms, professional consensus and treatment trials are distinguished in this lesson. Practical scenes and suggested conversations are illustrative; they are not tested treatment protocols. Community excerpts are individual accounts and do not establish diagnoses, typical outcomes or treatment effects.
+Reviews of interoception and proprioception provide the background. An FND study compares self-report, heartbeat-task performance and brain responses, while clinical reviews and consensus guidance inform assessment and rehabilitation. The community account describes sensations across coexisting conditions.
 
 | Citation | Figure | Full citation |
 |---|---|---|
@@ -633,7 +631,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-5"></a>**[5]** | — | Bennett K, Diamond C, Hoeritzauer I, et al. **A practical review of functional neurological disorder (FND) for the general physician.** Clin Med. 2021;21:28–36. doi:10.7861/clinmed.2020-0987. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7850207/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/33479065/). [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). |
 | <a id="citation-6"></a>**[6]** | — | Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622) [FND-CIT-0027](../../research/citation-index.md#fnd-cit-0027). |
 | <a id="citation-7"></a>**[7]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
-
-| <a id="citation-8"></a>**[8]** | Figure 1 | Person-described sensory experience, [public r/FND discussion](https://www.reddit.com/r/FND/comments/1hmedeg/please_explain_your_symptoms_in_detail/). Quote candidate from internal community notebook; direct speaker/context verification needed. Not medical evidence. |
-
-*Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
+| <a id="citation-8"></a>**[8]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1hmedeg/please_explain_your_symptoms_in_detail/). Sensory description from a person reporting FND and coexisting conditions. Wording and surrounding context checked November 3, 2026. Individual lived experience; the sensations are not all attributed to FND. [FND-CIT-0323](../../research/citation-index.md#fnd-cit-0323).  |

@@ -1,10 +1,10 @@
 # Agency, Learning, and Your Own Adaptations
 
-> **Working draft:** The Person section was human-authored and approved November 2, 2026; the Clinician and Supporter sections were owner-approved November 3, 2026. The Research section remains an automatically generated draft requiring citation verification, two later audits and independent clinical review.
+> **Working draft:** Human authored and project-lead approved. Audit 1 corrections applied November 4, 2026; Audit 2 and independent clinical review remain pending.
 
 Lesson 23 explores intention, the feeling of agency and what the body can actually do, then considers learning, safe rehabilitation and meaningful individual adaptations.
 
-*Last reviewed: October 26, 2026*
+*Last reviewed: November 4, 2026*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -74,7 +74,7 @@ Your hand still moves, and you can see it happening. But it doesn't feel the sam
 
 Scientists call this feeling the **sense of agency**.
 
-> **Sense of agency:** The feeling that you are making an action happen, rather than simply experiencing the action.
+> **[Sense of agency](../../glossary/README.md#agency):** The feeling that you are making an action happen, rather than simply experiencing the action.
 
 Let's return to Amira.
 
@@ -124,7 +124,7 @@ So when movement becomes unreliable, it's natural to wonder why.
 
 Scientists have investigated whether the brain processes involved in preparing movements, carrying them out and recognizing them as our own may work differently in some forms of FND.
 
-Some studies have found differences in brain activity and the experience of control among groups of people with functional movement symptoms. These findings offer clues about how movement and our feeling of controlling it are connected.
+Some studies have found differences in brain activity and the experience of control among groups of people with functional movement symptoms. These findings offer clues about how movement and our feeling of controlling it are connected. (*citations* [1](#citation-1), [2](#citation-2))
 
 But they don't establish one explanation for everyone's FND.
 
@@ -198,13 +198,13 @@ Learning doesn't only mean remembering facts. It also involves changes in how we
 
 Scientists call the nervous system's ability to change with experience **neuroplasticity**.
 
-> **Neuroplasticity:** The nervous system's ability to change and adapt through experience, learning and other influences.
+> **[Neuroplasticity](../../glossary/README.md#neuroplasticity):** The nervous system's ability to change and adapt through experience, learning and other influences.
 
-We discussed learning earlier in the course, and we'll explore rehabilitation and neuroplasticity much more in Module 9. For now, the important idea is that **learning a new way to do something doesn't always require consciously controlling every part of it.**
+We discussed learning earlier in the course, and we'll explore rehabilitation and neuroplasticity much more in Module 9. For now, the important idea is that **learning a new way to do something doesn't always require consciously controlling every part of it.** (*citations* [6](#citation-6))
 
 In FND rehabilitation, therapy may help some people practise meaningful movements in situations that make them easier to carry out. Over time, practice may help those movements become more reliable.
 
-Learning and rehabilitation can be complicated. They may require suitable professional guidance, time, changes to activities and attention to other health conditions. Improvement also varies from person to person.
+Learning and rehabilitation can be complicated. They may require suitable professional guidance, time, changes to activities and attention to other health conditions. Improvement also varies from person to person. (*citations* [5](#citation-5))
 
 ### What might rehabilitation look like?
 
@@ -212,7 +212,7 @@ Let's visit Daniel again. He wants to walk into the garden. That's his goal—no
 
 His physiotherapist can use that goal to guide rehabilitation. They may work on safe ways to practise walking, focusing on the activity rather than repeatedly checking every movement.
 
-The therapist can adjust the task to Daniel's abilities and make sure the practice is appropriate for his balance and safety. Progress might mean walking more reliably, managing a familiar route with less effort or finding a different way to reach the garden when walking remains difficult.
+The therapist can adjust the task to Daniel's abilities and make sure the practice is appropriate for his balance and safety. Progress might mean walking more reliably, managing a familiar route with less effort or finding a different way to reach the garden when walking remains difficult. (*citations* [5](#citation-5))
 
 The goal belongs to Daniel. The treatment should help him work toward it.
 
@@ -394,7 +394,7 @@ And when your hand moves, it feels like *you* made that movement happen.
 
 Scientists call that experience the **sense of agency**. It's the feeling that we're causing our own actions.
 
-Researchers have found differences in brain activity associated with the experience of control in some people with functional movement symptoms. This has helped scientists investigate how intended movements and the experience of making them happen may become disconnected in FND. [1](#citation-1), [2](#citation-2)
+Researchers have found differences in brain activity associated with the experience of control in some people with functional movement symptoms. This has helped scientists investigate how intended movements and the experience of making them happen may become disconnected in FND. (*citations* [1](#citation-1), [2](#citation-2))
 
 Imagine how strange that could feel. You want your hand to remain steady, but it begins trembling. Or you want to take a step, but your leg won't cooperate.
 
@@ -460,7 +460,7 @@ Imagine Martin finding that the card shuffler works well. He still has functiona
 
 If Martin later works with a physiotherapist or occupational therapist, they may help him explore activities that support more reliable movement or develop useful practical adaptations.
 
-Our nervous systems can change with learning and practice. Scientists call this *neuroplasticity*, and rehabilitation may draw on that ability to help improve function over time.
+Our nervous systems can change with learning and practice. Scientists call this *neuroplasticity*, and rehabilitation may draw on that ability to help improve function over time. (*citations* [5](#citation-5), [6](#citation-6))
 
 But learning doesn't mean someone should be able to command an involuntary symptom to stop. And an adaptation doesn't have to disappear just because someone's abilities improve.
 
@@ -474,7 +474,7 @@ A spouse described offering to accompany his wife to medical appointments:
 
 > “I always offer and then it's her choice if she wants me there or not.”
 
-*Community experience — spouse of someone with FND. [Original public discussion](https://www.reddit.com/r/FND/comments/1o5s0b8/wife_just_diagnosed_with_disassociative_fnd_feels/).*
+*Figure 1. Community experience — spouse of someone with FND. [Original public discussion](https://www.reddit.com/r/FND/comments/1o5s0b8/wife_just_diagnosed_with_disassociative_fnd_feels/).* (*citations* [4](#citation-4))
 
 It's such an ordinary gesture, isn't it? He's available if she wants him there, but he hasn't assumed that she needs him at every appointment.
 
@@ -552,7 +552,6 @@ And sometimes the answer will be different tomorrow.
 
 ***
 
-
 ## For Clinicians and the Care Team
 
 ### When intention and action don't match
@@ -607,11 +606,11 @@ Painting requires precise movements toward a small target, sustained positioning
 
 ### What has research found about agency in FND?
 
-Voon and colleagues (2010) investigated neural activity associated with involuntary functional motor symptoms, reporting differences in brain regions implicated in awareness and control of action. [1](#citation-1)
+Voon and colleagues (2010) studied eight people with functional tremor, comparing brain activity during their involuntary tremor with activity while they deliberately mimicked it. The involuntary movement was associated with lower activity in the right temporoparietal junction and differences in its connections with other regions. This small, selected study helps investigate the experience of agency; its findings apply to that comparison rather than explaining every FND presentation. (*citations* [1](#citation-1))
 
 The study provides evidence that the subjective experience of involuntary movement deserves neurological investigation. It also offers a possible connection between functional motor symptoms and processes involved in the sense of agency.
 
-Drane and colleagues (2021) discussed agency within a broader framework of interacting neural mechanisms in FND, including attention, predictive processing and motor control. [2](#citation-2)
+Drane and colleagues (2021) discussed agency within a broader framework of interacting neural mechanisms in FND, including attention, predictive processing and motor control. (*citations* [2](#citation-2))
 
 **Why do these findings matter?** They help explain why movement, intention and the experience of making a movement happen can be studied as distinct aspects of neurological function.
 
@@ -649,7 +648,7 @@ Ordinary motor learning demonstrates how repeated experience can change movement
 
 These principles are relevant to rehabilitation, including task-oriented approaches used in functional motor disorders.
 
-Neuroplasticity provides a foundation for understanding how meaningful practice may improve movement over time. In FND, the particular difficulties, suitable rehabilitation approaches and opportunities for improvement still need to be understood individually.
+Neuroplasticity provides a foundation for understanding how meaningful practice may improve movement over time. In FND, the particular difficulties, suitable rehabilitation approaches and opportunities for improvement still need to be understood individually. (*citations* [5](#citation-5), [6](#citation-6))
 
 For Ruth, an appropriately supported rehabilitation activity might provide opportunities to practise movements that become more accessible under selected conditions.
 
@@ -697,7 +696,7 @@ Ruth's presentation involves both functional movement and difficulty participati
 
 A physiotherapist with appropriate functional motor rehabilitation expertise may contribute to understanding movement variability and opportunities for meaningful motor practice.
 
-Occupational therapy offers a complementary perspective on tools, work surfaces, activity demands and practical adaptations. Professional consensus recommendations emphasize collaborative goals and the importance of participation in everyday life. [3](#citation-3)
+Occupational therapy offers a complementary perspective on tools, work surfaces, activity demands and practical adaptations. Professional consensus recommendations emphasize collaborative goals and the importance of participation in everyday life. (*citations* [3](#citation-3))
 
 A neurologist's role remains relevant to establishing and reviewing the neurological diagnosis and assessing clinically significant changes. New or substantially different motor findings warrant appropriate consideration rather than automatic attribution to established FND.
 
@@ -727,18 +726,19 @@ This completes Module 7's progression from prediction and sensory information th
 
 ***
 
+## Further reading in the Reference Library
+
+For more examples, explore the [Recovery Techniques library](../../reference/recovery-techniques/README.md), where assessment, practice and everyday adaptations are considered for different symptoms.
 
 ## Research and Sources
 
-General neuroscience, FND research findings, proposed mechanisms, professional consensus and treatment trials are distinguished in this lesson. Practical scenes and suggested conversations are illustrative; they are not tested treatment protocols. Community excerpts are individual accounts and do not establish diagnoses, typical outcomes or treatment effects.
+A small agency experiment, an FND framework and a general motor-learning review address different questions. Physiotherapy and occupational-therapy consensus guidance inform rehabilitation examples. The community quotation illustrates consent in everyday support.
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Voon V, Gallea C, Hattori N, et al. **The involuntary nature of conversion disorder.** Neurology. 2010;74:223–228. doi:10.1212/WNL.0b013e3181ca00e9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20083798/). [FND-CIT-0305](../../research/citation-index.md#fnd-cit-0305). |
+| <a id="citation-1"></a>**[1]** | — | Voon V, Gallea C, Hattori N, et al. **The involuntary nature of conversion disorder.** Neurology. 2010;74:223–228. doi:10.1212/WNL.0b013e3181ca00e9. FND-CIT-0305. |
 | <a id="citation-2"></a>**[2]** | — | Drane DL, Fani N, Hallett M, Khalsa SS, Perez DL, Roberts NA. **A framework for understanding the pathophysiology of functional neurological disorder.** CNS Spectr. 2021;26:555–561. doi:10.1017/S1092852920001789. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7930164/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32883381/). [FND-CIT-0006](../../research/citation-index.md#fnd-cit-0006). |
 | <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
 | <a id="citation-4"></a>**[4]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1o5s0b8/wife_just_diagnosed_with_disassociative_fnd_feels/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0312](../../research/citation-index.md#fnd-cit-0312). |
-
-| <a id="citation-5"></a>**[5]** | Figure 2 | Person-described experience of adaptation, [public r/FND discussion](https://www.reddit.com/r/FND/comments/1sedrnt/does_anyone_actually_get_better/). Community notebook candidate; original speaker/context to be reconfirmed before publication. Not effectiveness evidence. |
-
-*Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
+| <a id="citation-5"></a>**[5]** | — | Nielsen G, Stone J, Matthews A, et al. **Physiotherapy for functional motor disorders: a consensus recommendation.** JNNP. 2015;86:1113–1119. doi:10.1136/jnnp-2014-309255. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602268/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/25433033/). [FND-CIT-0028](../../research/citation-index.md#fnd-cit-0028). |
+| <a id="citation-6"></a>**[6]** | — | Dayan E, Cohen LG. **Neuroplasticity subserving motor skill learning.** *Neuron*. 2011;72:443–454. [DOI](https://doi.org/10.1016/j.neuron.2011.10.008) · [FND-CIT-0306](../../research/citation-index.md#fnd-cit-0306). General motor-learning review; FND rehabilitation is considered separately. |

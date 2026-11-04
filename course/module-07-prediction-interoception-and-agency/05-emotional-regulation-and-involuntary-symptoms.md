@@ -1,10 +1,10 @@
 # Emotional Regulation and Involuntary Symptoms
 
-> **Working draft:** The Person section was human-authored and explicitly approved October 31, 2026; the Clinician and Supporter sections were human-edited and approved November 3, 2026. The Research section remains an automatically generated working draft pending source verification, subsequent audits and independent clinical review.
+> **Working draft:** Human authored and project-lead approved. Audit 1 corrections applied November 4, 2026; Audit 2 and independent clinical review remain pending.
 
 Lesson 22 considers how emotions are processed and regulated, why conversations can become difficult when functional symptoms arise, and why timing does not establish intent.
 
-*Last reviewed: October 28, 2026*
+*Last reviewed: November 4, 2026*
 
 ***
 
@@ -175,7 +175,7 @@ But she's found a response that better expresses what she wants.
 
 This is an example of emotional regulation.
 
-> **Emotional regulation:** The ways our brains and bodies influence how emotions develop, how strongly we feel them, how long they last and what we do in response. Some regulation happens automatically, while some involves conscious choices.
+> **[Emotional regulation](../../glossary/README.md#emotional-regulation):** The ways our brains and bodies influence how emotions develop, how strongly we feel them, how long they last and what we do in response. Some regulation happens automatically, while some involves conscious choices.
 
 Leah made a deliberate choice.
 
@@ -205,7 +205,7 @@ Nor does being angry, crying or needing help automatically mean you have a probl
 
 The useful question is whether your emotional responses are making something important harder for you—and whether support or different skills could help.
 
-There is no requirement to become someone who never gets upset.
+There is no requirement to become someone who never gets upset. (*citations* [1](#citation-1))
 
 ### Can you feel happy and resentful at the same time?
 
@@ -341,11 +341,11 @@ Some antidepressants and pain medicines can influence mood or emotional response
 
 Withdrawal from certain medicines can also cause irritability, agitation and changing emotions.
 
-These changes deserve medical consideration rather than automatically being explained as FND.
+The timing and pattern of these changes can help the prescriber understand what is happening.
 
-A prescribing clinician can help assess them and guide medication changes.
+A prescribing clinician can help assess them and plan any medication changes together with the person. (*citations* [8](#citation-8))
 
-A past withdrawal also doesn't automatically explain emotional experiences occurring much later.
+Later changes in how someone feels deserve the same individual assessment, including their health, circumstances and medication history.
 
 ### What have studies actually found in FND?
 
@@ -383,7 +383,7 @@ But the findings vary, and many studies have important limitations.
 
 So what can we learn?
 
-**Some people with FND may have differences in how they experience, respond to or regulate emotions. But there isn't one emotional pattern that explains everyone's FND.**
+**Some people with FND may have differences in how they experience, respond to or regulate emotions. But there isn't one emotional pattern that explains everyone's FND.** (*citations* [1](#citation-1), [2](#citation-2))
 
 The research doesn't prove that emotional difficulties caused a particular person's symptoms.
 
@@ -683,7 +683,7 @@ When someone does want help, it may involve learning emotional-regulation skills
 
 Support should match the difficulty.
 
-And it shouldn't make someone responsible for preventing every involuntary symptom.
+And it shouldn't make someone responsible for preventing every involuntary symptom. (*citations* [1](#citation-1), [3](#citation-3), [4](#citation-4), [6](#citation-6))
 
 ### What have we learned?
 
@@ -778,9 +778,9 @@ And perhaps that's the part Helen hadn't understood.
 
 Researchers have been investigating differences in how people with FND experience and respond to emotions.
 
-In a 2019 review, Pick and colleagues examined research involving emotional recognition, bodily and neurological responses to emotional information, and emotional regulation. Some studies found differences between groups of people with FND and comparison groups. [1](#citation-1)
+In a 2019 review, Pick and colleagues examined research involving emotional recognition, bodily and neurological responses to emotional information, and emotional regulation. Some studies found differences between groups of people with FND and comparison groups. (*citations* [1](#citation-1))
 
-Later research frameworks have explored how emotional processing might interact with attention, bodily signals and networks involved in functional neurological symptoms. [2](#citation-2)
+Later research frameworks have explored how emotional processing might interact with attention, bodily signals and networks involved in functional neurological symptoms. (*citations* [2](#citation-2))
 
 This raises an interesting possibility: **for some people with FND, aspects of emotional processing or regulation may themselves be more difficult.** That doesn't mean everyone with FND experiences emotions differently, or that FND has been proven to cause these changes.
 
@@ -852,9 +852,11 @@ Helen doesn't need to become her daughter's therapist. She can remain her mother
 
 ### When safety matters
 
+For familiar functional seizures, an agreed [safety plan](../module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md) helps everyone know how to respond and when a change calls for urgent medical assessment.
+
 Understanding why an emotional response has become difficult doesn't mean anyone has to accept threats, intimidation or abuse. Both people deserve safety and respectful treatment.
 
-There's also another concern worth knowing about, particularly when someone experiences functional seizures. Research has found an increased risk of premature death and suicide-related mortality among people with functional seizures. In one study, among patients who died before age 50, approximately **20% of those deaths were attributed to suicide**. That figure describes deaths within the study, not the risk that any particular person will die by suicide. [Nightscales and colleagues, 2020](https://doi.org/10.1212/WNL.0000000000009855).
+Understanding the person's wider health needs matters too. In a study of people diagnosed with functional seizures in three specialist video-EEG services, overall mortality was higher than in the general population. Among patients in that group who died before age 50, approximately **20% of those deaths were attributed to suicide**. This is a proportion of deaths within that selected cohort; an individual's needs are best understood through a personal assessment. (*citations* [7](#citation-7))
 
 This doesn't mean that irritability, emotional intensity or a functional seizure indicates suicidal thinking. But if someone talks about wanting to die, harming themselves or being unable to stay safe, it's important to take them seriously and seek appropriate professional support. Immediate danger calls for emergency help.
 
@@ -878,7 +880,6 @@ The next time Tessa becomes unusually upset, Helen may remember their conversati
 [Research and Sources](#research-and-sources)
 
 ***
-
 
 ## For Clinicians and the Care Team
 
@@ -932,7 +933,7 @@ She intended to participate. Her difficulty accessing information limited that p
 
 An episode occurring immediately after an unwelcome question might appear purposeful to an observer, particularly when similar interruptions have happened before. But apparent convenience is not evidence of intentional symptom production.
 
-Functional seizures are involuntary events. Their diagnosis and assessment depend on appropriate clinical evidence rather than interpretations of a person's motivation. [4](#citation-4), [5](#citation-5)
+Functional seizures are involuntary events. Their diagnosis and assessment depend on appropriate clinical evidence rather than interpretations of a person's motivation. (*citations* [4](#citation-4), [5](#citation-5))
 
 Malik's experience remains relevant too. His concern about household responsibilities has not been resolved by the event, and his difficulty understanding the timing is worth acknowledging.
 
@@ -958,9 +959,9 @@ The purpose is not to separate psychology from neurology as though they cannot i
 
 ### What has research found?
 
-Pick and colleagues (2019) reviewed research examining emotional processing in FND, including emotional recognition, subjective experiences and physiological or neural responses. They identified differences in some group comparisons, alongside substantial variation in findings and methods. [1](#citation-1)
+Pick and colleagues (2019) reviewed research examining emotional processing in FND, including emotional recognition, subjective experiences and physiological or neural responses. They identified differences in some group comparisons, alongside substantial variation in findings and methods. (*citations* [1](#citation-1))
 
-Drane and colleagues (2021) described a broader framework in which emotional processing may interact with attention, salience, bodily information and neural networks involved in functional symptoms. [2](#citation-2)
+Drane and colleagues (2021) described a broader framework in which emotional processing may interact with attention, salience, bodily information and neural networks involved in functional symptoms. (*citations* [2](#citation-2))
 
 **Why do these findings matter?** They support investigation of relationships between emotional processing and neurological function. They also help explain why emotional experiences may be clinically relevant without being the cause of every functional symptom.
 
@@ -1024,11 +1025,11 @@ It also allows emotional wellbeing to receive appropriate attention when it is i
 
 ### How might different professionals contribute?
 
-Sofia's functional seizures already require appropriate neurological diagnosis and an individualized approach to safety and ongoing care. Changes in event characteristics, new medical concerns or a possible coexisting seizure disorder remain separate clinical questions. The functional-seizure management guideline provides presentation-specific guidance. [4](#citation-4)
+Sofia's functional seizures already require appropriate neurological diagnosis and an individualized approach to safety and ongoing care. Changes in event characteristics, new medical concerns or a possible coexisting seizure disorder remain separate clinical questions. The functional-seizure management guideline provides presentation-specific guidance. (*citations* [4](#citation-4))
 
 Psychological expertise may be relevant if Sofia wants help with emotional regulation, distress or other difficulties for which psychological treatment is appropriate. That involvement need not imply that her seizures are caused by unresolved emotions.
 
-If cognitive demands interfere with participation in everyday activities, occupational therapy may offer useful activity analysis and adaptations. [7](#citation-7) Speech-language therapy may contribute where an assessed functional communication difficulty is an important part of the presentation. [3](#citation-3)
+If cognitive demands interfere with participation in everyday activities, occupational therapy may offer useful activity analysis and adaptations. Speech-language therapy may contribute where an assessed functional communication difficulty is an important part of the presentation. (*citations* [3](#citation-3), [6](#citation-6))
 
 The professional contribution is strongest when it addresses an identified difficulty rather than an assumed cause.
 
@@ -1065,10 +1066,9 @@ The rehabilitation opportunity lies in understanding what has become difficult a
 
 ***
 
-
 ## Research and Sources
 
-**Evidence note:** General emotion-regulation neuroscience, FND group comparisons, proposed brain-network models, clinical guidance and community experiences provide *different* kinds of information. The fictional scene, communication suggestions and illustration ideas are teaching proposals, not tested FND treatment. Community quotes are explicitly **unverified candidates**; neither proves causation or treatment efficacy. Do not infer a diagnostic sign or a universal emotion-related mechanism.
+A review of emotional processing and an FND framework inform the explanatory material. Clinical and medication guidance support individualized care. The mortality study describes a selected specialist cohort. The everyday scenes are fictional teaching examples.
 
 | Citation | Figure | Full citation and what it supports |
 |---|---|---|
@@ -1077,8 +1077,6 @@ The rehabilitation opportunity lies in understanding what has become difficult a
 | <a id="citation-3"></a>**[3]** | — | Baker J, Barnett C, Cavalli L, et al. **Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.** JNNP. 2021;92:1112–1125. [DOI](https://doi.org/10.1136/jnnp-2021-326767) · [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). Consensus guidance for presentation-specific SLT involvement. |
 | <a id="citation-4"></a>**[4]** | — | Tolchin B, Goldstein LH, Reuber M, et al. **Management of functional seizures practice guideline executive summary.** Neurology. 2026;106:e214466 (online December 2025). [DOI](https://doi.org/10.1212/WNL.0000000000214466) · [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). Seizure assessment and care; not proof of emotional cause. |
 | <a id="citation-5"></a>**[5]** | — | Bennett K, Diamond C, Hoeritzauer I, et al. **A practical review of functional neurological disorder for the general physician.** Clin Med. 2021;21:28–36. [DOI](https://doi.org/10.7861/clinmed.2020-0987) · [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). Positive diagnosis and proportionate investigation. |
-| <a id="citation-6"></a>**[6]** | Figures 1–2 | Public r/FND discussion [source](https://www.reddit.com/r/FND/comments/1g8ebg3/i_need_advice/); excerpts recorded in the project's community-source notebook. A person and a supporter-perspective excerpt are **editorial candidates pending direct wording, role and context confirmation**. Not clinical evidence. |
-| <a id="citation-7"></a>**[7]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. [DOI](https://doi.org/10.1136/jnnp-2019-322281) · [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). OT role and context-sensitive activity analysis. |
-| <a id="citation-8"></a>**[8]** | — | Nightscales R, McCartney L, Auvrez C, et al. **Mortality in patients with psychogenic nonepileptic seizures.** Neurology. 2020;95:e643–e652. [DOI](https://doi.org/10.1212/WNL.0000000000009855) · [FND-CIT-0050](../../research/citation-index.md#fnd-cit-0050). Reported suicide accounted for about 20% of deaths among the patients who died before age 50 in this cohort; this is a **proportion of deaths**, not the risk that an individual with functional seizures will die by suicide, and it cannot predict an individual patient’s risk. |
- 
-*Editorial seed prepared October 28, 2026. Human authoring, quote re-verification, two post-edit audits, independent clinical review and a clean rendered-site check remain pending.*
+| <a id="citation-6"></a>**[6]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. [DOI](https://doi.org/10.1136/jnnp-2019-322281) · [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). OT role and context-sensitive activity analysis. |
+| <a id="citation-7"></a>**[7]** | — | Nightscales R, McCartney L, Auvrez C, et al. **Mortality in patients with psychogenic nonepileptic seizures.** Neurology. 2020;95:e643–e652. [DOI](https://doi.org/10.1212/WNL.0000000000009855) · [FND-CIT-0050](../../research/citation-index.md#fnd-cit-0050). Reported suicide accounted for about 20% of deaths among the patients who died before age 50 in this cohort; this is a **proportion of deaths**, not the risk that an individual with functional seizures will die by suicide, and it cannot predict an individual patient’s risk. |
+| <a id="citation-8"></a>**[8]** | — | National Institute for Health and Care Excellence. **Medicines associated with dependence or withdrawal symptoms: safe prescribing and withdrawal management for adults.** NG215. 2022. [Recommendations](https://www.nice.org.uk/guidance/ng215/chapter/Recommendations), sections 1.5.6–1.5.10 and 1.5.17–1.5.20. Accessed November 4, 2026. [FND-CIT-0328](../../research/citation-index.md#fnd-cit-0328).  |

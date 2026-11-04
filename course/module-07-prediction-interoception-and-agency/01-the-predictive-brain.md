@@ -1,12 +1,12 @@
 # The Predictive Brain
 
-> **Working draft:** This page was automatically generated and is awaiting human authoring and further review.
+> **Working draft:** Human authored and project-lead approved. Audit 1 corrections applied November 4, 2026; Audit 2 and independent clinical review remain pending.
 
 Lesson 18 explores the Predictive Brain through everyday examples, collaborative adaptations and clinical reasoning.
 
-*Last reviewed: October 26, 2026*
+*Last reviewed: November 4, 2026*
 
-*The Person section was human-authored and approved October 29, 2026; the Clinician section was previously approved, and the Supporter section was human-edited and approved November 3, 2026. Research verification and subsequent audits remain pending.*
+*The Person section was human-authored and approved October 29, 2026; the Clinician section was previously approved, and the Supporter section was human-edited and approved November 3, 2026. Audit 1 corrections were accepted and applied November 4, 2026.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -100,7 +100,7 @@ How does the brain decide how much importance to give what it expects, compared 
 
 Researchers study this using a family of scientific explanations.
 
-> **Predictive processing:** A way of explaining how the brain combines what it expects with information arriving from the senses, helping us understand the world and respond to it.
+> **[Predictive processing](../../glossary/README.md#predictive-processing):** A way of explaining how the brain combines what it expects with information arriving from the senses, helping us understand the world and respond to it.
 
 One part of these explanations concerns how much confidence the brain gives to different information.
 
@@ -114,7 +114,7 @@ The other says, "Look! It just hit a stone and changed direction!"
 
 Both have useful information. But when the unexpected bounce happens, the second adviser has something especially important to contribute.
 
-Your brain needs to work out how much to rely on each.
+Your brain needs to work out how much to rely on each. (*citations* [1](#citation-1), [2](#citation-2))
 
 And this brings us to something FND researchers find particularly interesting.
 
@@ -140,7 +140,7 @@ If the brain gives these different sources of information an unusual amount of i
 
 This might help explain some experiences in which a person intends to move but the movement doesn't happen as expected, or happens without the usual feeling of control.
 
-**This is a scientific model being investigated, not a proven explanation for every person's FND.** Researchers cannot yet determine from someone's symptoms exactly how their predictions and incoming information are interacting.
+**Prediction gives researchers a useful model to investigate.** How it applies to a particular person remains an individual clinical question. (*citations* [1](#citation-1), [2](#citation-2))
 
 The exciting part is that this gives scientists questions they can investigate about real neurological symptoms.
 
@@ -214,7 +214,7 @@ Consider a few other examples.
 
 Your brain helps you make sense of information from your skin and body.
 
-Some people with FND experience numbness, tingling or unusual sensations. Researchers are interested in whether differences in how the brain combines expectations and incoming information might contribute to certain sensory symptoms.
+Some people with FND experience numbness, tingling or unusual sensations. Researchers are interested in whether differences in how the brain combines expectations and incoming information might contribute to certain sensory symptoms. (*citations* [2](#citation-2))
 
 We'll explore body sensing more fully in Lesson 19.
 
@@ -234,7 +234,7 @@ Speaking involves preparing movements and using feedback from what we hear and f
 
 These abilities normally work together so quickly that we barely notice them.
 
-Researchers are exploring how movement preparation, attention and feedback relate to functional speech symptoms. The exact explanation may differ between people.
+Researchers are exploring how movement preparation, attention and feedback relate to functional speech symptoms. The exact explanation may differ between people. (*citations* [3](#citation-3))
 
 These examples show why prediction interests researchers working with different FND symptoms. They don't mean that every symptom has the same cause.
 
@@ -328,7 +328,7 @@ The hesitation you see might reflect far more effort than you realize.
 
 Here's where the research becomes particularly interesting.
 
-Scientists have proposed that **differences in predictive processing may contribute to functional neurological symptoms in some people with FND**. The idea is that the brain's expectations and the information arriving from the senses may not always be combined in the usual way. This could influence movement, sensation or how someone experiences an action. Researchers have been developing these explanations for more than a decade. [1](#citation-1), [2](#citation-2)
+Scientists have proposed that **differences in predictive processing may contribute to functional neurological symptoms in some people with FND**. The idea is that the brain's expectations and the information arriving from the senses may not always be combined in the usual way. This could influence movement, sensation or how someone experiences an action. Researchers have been developing these explanations for more than a decade. (*citations* [1](#citation-1), [2](#citation-2))
 
 It's a promising explanation for understanding certain functional symptoms, although researchers are still investigating exactly when and how it applies.
 
@@ -348,7 +348,7 @@ One parent described watching their son's FND:
 
 > “He’s only shown symptoms for 4 months and they come on from nothing, with no real pattern that we can see. It’s quite frightening to witness, accept and deal with.”
 
-*Community experience — parent of someone with FND. [Original public discussion](https://www.reddit.com/r/FND/comments/1n8gljg/teenage_son_diagnosed_any_helpful_advicesupport/).*
+*Figure 1. Community experience — parent of someone with FND. [Original public discussion](https://www.reddit.com/r/FND/comments/1n8gljg/teenage_son_diagnosed_any_helpful_advicesupport/).* (*citations* [4](#citation-4))
 
 It's easy to understand why that parent would want answers. Watching something happen unexpectedly, especially to someone you love, can be frightening.
 
@@ -406,7 +406,6 @@ And you don't need to predict every problem to make someone feel supported.
 
 ***
 
-
 ## For Clinicians and the Care Team
 
 ### From attention to prediction
@@ -441,13 +440,13 @@ This question lies at the centre of predictive-processing theories of FND.
 
 ### What does FND research suggest?
 
-Edwards and colleagues (2012) proposed a Bayesian account in which altered weighting of prior expectations and sensory information could contribute to certain functional motor and sensory symptoms. [1](#citation-1)
+Edwards and colleagues (2012) proposed a Bayesian account in which altered weighting of prior expectations and sensory information could contribute to certain functional motor and sensory symptoms. (*citations* [1](#citation-1))
 
 In this model, a sufficiently influential prior could affect how movement or sensation is experienced, even when incoming information might otherwise support an adjustment.
 
 Importantly, the prior is a computational construct. It is not necessarily a consciously held belief that the person will fail to move.
 
-Drane and colleagues (2021) placed predictive-processing ideas within a broader framework of interacting mechanisms, including attention, emotion, agency and neural network function. [2](#citation-2)
+Drane and colleagues (2021) placed predictive-processing ideas within a broader framework of interacting mechanisms, including attention, emotion, agency and neural network function. (*citations* [2](#citation-2))
 
 These publications provide plausible theoretical explanations, but neither establishes a universal FND mechanism or a validated measure of abnormal precision weighting in an individual patient. Their clinical value is in directing attention toward questions that can be investigated:
 
@@ -503,7 +502,7 @@ That interpretation remains hypothetical. The improvement could involve attentio
 
 The practical rehabilitation rationale is stronger: **Elena has demonstrated a more accessible way to perform an activity that matters to her.**
 
-Functional motor rehabilitation consensus recommendations support individualized, meaningful, task-oriented practice. [5](#citation-5) Occupational therapy consensus also emphasizes collaborative goals, activity analysis and adaptations that support participation. [6](#citation-6)
+Functional motor rehabilitation consensus recommendations support individualized, meaningful, task-oriented practice. Occupational therapy consensus also emphasizes collaborative goals, activity analysis and adaptations that support participation. (*citations* [5](#citation-5), [6](#citation-6))
 
 These clinical principles can guide treatment without requiring confirmation of altered precision weighting.
 
@@ -531,7 +530,7 @@ Additional professionals become involved according to the findings and the patie
 
 The same reasoning can apply to other functional presentations.
 
-For example, a speech-language therapist may compare communication across spontaneous, rehearsed and purposeful speaking tasks. The Baker and colleagues consensus provides recommendations for individualized assessment and management of functional communication symptoms. [3](#citation-3)
+For example, a speech-language therapist may compare communication across spontaneous, rehearsed and purposeful speaking tasks. The Baker and colleagues consensus provides recommendations for individualized assessment and management of functional communication symptoms. (*citations* [3](#citation-3))
 
 Task-dependent differences may identify therapeutic opportunities. They do not establish that the patient's speech difficulty results from an abnormal prior or that fluent speech can be produced on demand.
 
@@ -557,18 +556,19 @@ When treatment helps, the functional benefit stands on its own. Establishing the
 
 ***
 
+## Further reading in the Reference Library
+
+For more detail, explore [functional sensory assessment](../../reference/diagnostic-signs/07-functional-sensory-symptoms.md) and [recovery through meaningful activity](../../reference/recovery-techniques/functional_sensory_symptoms/04-sensation-with-meaningful-movement.md).
 
 ## Research and Sources
 
-General neuroscience, FND research findings, proposed mechanisms, professional consensus and treatment trials are distinguished in this lesson. Practical scenes and suggested conversations are illustrative; they are not tested treatment protocols. Community excerpts are individual accounts and do not establish diagnoses, typical outcomes or treatment effects.
+This lesson draws on a proposed predictive-processing model, an FND research framework and rehabilitation consensus guidance. Everyday scenes illustrate the ideas; the community account describes one family’s experience.
 
 | Citation | Figure | Full citation |
 |---|---|---|
-| <a id="citation-1"></a>**[1]** | — | Edwards MJ, Adams RA, Brown H, Parees I, Friston KJ. **A Bayesian account of 'hysteria'.** Brain. 2012;135:3495–3512. doi:10.1093/brain/aws129. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC3501967/). [FND-CIT-0242](../../research/citation-index.md#fnd-cit-0242). |
+| <a id="citation-1"></a>**[1]** | — | Edwards MJ, Adams RA, Brown H, Pareés I, Friston KJ. **A Bayesian account of “hysteria”.** Brain. 2012;135:3495–3512. doi:10.1093/brain/aws129. FND-CIT-0242. |
 | <a id="citation-2"></a>**[2]** | — | Drane DL, Fani N, Hallett M, Khalsa SS, Perez DL, Roberts NA. **A framework for understanding the pathophysiology of functional neurological disorder.** CNS Spectr. 2021;26:555–561. doi:10.1017/S1092852920001789. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7930164/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32883381/). [FND-CIT-0006](../../research/citation-index.md#fnd-cit-0006). |
 | <a id="citation-3"></a>**[3]** | — | Baker J, Barnett C, Cavalli L, et al. **Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.** JNNP. 2021;92:1112–1125. doi:10.1136/jnnp-2021-326767. [Original](https://jnnp.bmj.com/content/92/10/1112) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/34210802/). [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
 | <a id="citation-4"></a>**[4]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1n8gljg/teenage_son_diagnosed_any_helpful_advicesupport/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0299](../../research/citation-index.md#fnd-cit-0299). |
 | <a id="citation-5"></a>**[5]** | — | Nielsen G, Stone J, Matthews A, et al. **Physiotherapy for functional motor disorders: a consensus recommendation.** JNNP. 2015;86:1113–1119. doi:10.1136/jnnp-2014-309255. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC4602268/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/25433033/). [FND-CIT-0028](../../research/citation-index.md#fnd-cit-0028). |
 | <a id="citation-6"></a>**[6]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
-
-*Lesson 18 Person and Clinician sections have been human-authored and owner-approved (October–November 2026). Supporter and sources require subsequent editorial review; the two lesson audits and independent clinical review remain pending.*

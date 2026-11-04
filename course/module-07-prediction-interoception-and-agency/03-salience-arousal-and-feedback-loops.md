@@ -1,12 +1,12 @@
 # Salience, Arousal, and Feedback Loops
 
-> **Working draft:** This page was automatically generated and is awaiting human authoring and further review.
+> **Working draft:** Human authored and project-lead approved. Audit 1 corrections applied November 4, 2026; Audit 2 and independent clinical review remain pending.
 
 Lesson 20 explores salience, Arousal, and Feedback Loops through everyday examples, collaborative adaptations and clinical reasoning.
 
-*Last reviewed: October 26, 2026*
+*Last reviewed: November 4, 2026*
 
-*The Person section was human-authored and approved October 30, 2026; the Clinician section and Supporter section were human-edited and approved November 3, 2026. Research verification and subsequent audits remain pending.*
+*The Person section was human-authored and approved October 30, 2026; the Clinician section and Supporter section were human-edited and approved November 3, 2026. Audit 1 corrections were accepted and applied November 4, 2026.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -38,7 +38,7 @@ Why did your name stand out when so many other sounds didn't?
 
 The answer introduces our first new term.
 
-> **Salience:** The importance your brain gives to information, helping decide what deserves attention.
+> **[Salience](../../glossary/README.md#salience):** The importance your brain gives to information, helping decide what deserves attention.
 
 Your name was important to you, so your brain gave it priority.
 
@@ -76,7 +76,7 @@ Or perhaps you suddenly feel a sharp pain in your foot.
 
 Now that sensation becomes important.
 
-Your brain is constantly deciding which information needs attention and which can remain in the background.
+Your brain is constantly deciding which information needs attention and which can remain in the background. (*citations* [1](#citation-1))
 
 But what happens when several things compete to be important at the same time?
 
@@ -128,7 +128,7 @@ Your nervous system has shifted into a more alert state.
 
 Scientists have a name for this.
 
-> **Arousal:** Your nervous system's level of alertness and readiness to respond. It can change with activity, excitement, pain, illness, surprise and many other experiences.
+> **[Arousal](../../glossary/README.md#arousal):** Your nervous system's level of alertness and readiness to respond. It can change with activity, excitement, pain, illness, surprise and many other experiences.
 
 Arousal isn't necessarily fear or anxiety.
 
@@ -250,7 +250,7 @@ Scientists are studying whether differences in networks that help select importa
 
 They are also interested in whether changes in symptoms can affect attention and readiness, which may then influence the person's experience of the next activity.
 
-**These are possible interactions being investigated, not a single proven explanation for every FND symptom.**
+**These possible interactions give researchers specific questions to investigate.** Their relevance can differ between symptoms and people. (*citations* [2](#citation-2))
 
 The idea is useful because it helps us ask a different question.
 
@@ -296,9 +296,9 @@ One person in the FND community described getting help from an occupational ther
 
 > “My OT helped me ... learn exercises to calm myself and avoid sensory overwhelm.”
 
-*Community experience — quotation candidate from a [public FND discussion](https://www.reddit.com/r/FND/comments/1j0nopp/tell_me_how_ot_will_help_my_fnd/), awaiting original-source verification.*
+*Figure 1. Community experience — finding practical help with sensory demands.* (*citations* [7](#citation-7))
 
-This is one person's experience, not a guarantee that the same approach will help everyone.
+Their experience shows what practical help meant to them; useful support will look different for different people.
 
 Notice what makes the example interesting.
 
@@ -328,7 +328,7 @@ A physiotherapist might help you practise a movement using an appropriate task o
 
 A speech-language therapist might consider whether communication becomes easier when unnecessary demands are reduced.
 
-These are examples of individualized care, not a set of exercises everyone should follow.
+These are examples of individualized care, not a set of exercises everyone should follow. (*citations* [4](#citation-4), [5](#citation-5), [6](#citation-6))
 
 Sometimes the most useful change is surprisingly ordinary: a quieter place to talk, a shorter task, a clearer instruction or a different way to participate.
 
@@ -444,7 +444,7 @@ For someone living with FND, migraine, sound sensitivity or cognitive difficulti
 
 ### What does this have to do with FND?
 
-Researchers are investigating whether differences in brain networks involved in salience, attention and arousal contribute to certain functional neurological symptoms. These networks help the nervous system identify important information and prepare responses. Their possible involvement in FND forms part of broader scientific models of the condition. [1](#citation-1), [2](#citation-2)
+Researchers are investigating whether differences in brain networks involved in salience, attention and arousal contribute to certain functional neurological symptoms. These networks help the nervous system identify important information and prepare responses. Their possible involvement in FND forms part of broader scientific models of the condition. (*citations* [1](#citation-1), [2](#citation-2))
 
 *Arousal* is another useful word here. It describes how alert and ready the nervous system is to respond.
 
@@ -554,7 +554,6 @@ It leaves room for the person to explain what they need—or to say they're quit
 
 ***
 
-
 ## For Clinicians and the Care Team
 
 ### Why some information takes priority
@@ -639,7 +638,7 @@ These possibilities address the organization of the interaction rather than assu
 
 A more manageable communication environment may reduce the effort involved in following questions, selecting a response and making herself understood. It also makes room for the communication strategies Samira already finds useful.
 
-Speech-language therapy consensus recommendations support individualized communication assessment and treatment, including attention to task and conversational context. Occupational therapy consensus similarly recognizes the importance of environmental demands, activity adaptation and participation. [4](#citation-4), [5](#citation-5)
+Speech-language therapy consensus recommendations support individualized communication assessment and treatment, including attention to task and conversational context. Occupational therapy consensus similarly recognizes the importance of environmental demands, activity adaptation and participation. (*citations* [4](#citation-4), [5](#citation-5))
 
 These principles provide a rehabilitation rationale for considering Samira's experience within the activity itself.
 
@@ -665,11 +664,11 @@ Conversely, if communication remains difficult, that provides a reason to consid
 
 ### What does the research contribute?
 
-Seeley and colleagues (2007) identified distinguishable intrinsic connectivity networks associated with salience-related processing and executive control in a general neuroscience study. [1](#citation-1)
+Seeley and colleagues (2007) identified distinguishable intrinsic connectivity networks associated with salience-related processing and executive control in a general neuroscience study. (*citations* [1](#citation-1))
 
 This work supports the importance of studying how the brain identifies relevant information and coordinates different processing demands.
 
-Drane and colleagues (2021) subsequently described an FND framework involving interactions among attention, salience, arousal and other neural and psychological processes. [2](#citation-2)
+Drane and colleagues (2021) subsequently described an FND framework involving interactions among attention, salience, arousal and other neural and psychological processes. (*citations* [2](#citation-2))
 
 **Why do these findings matter?** They provide a scientific basis for investigating relationships among information priority, physiological readiness and functional symptoms. They also help explain why clinicians might consider several interacting demands rather than searching for a single environmental trigger.
 
@@ -689,7 +688,7 @@ Pain, sleep disruption, medication effects and other health conditions may also 
 
 Psychological support may be valuable when Samira identifies distress, adjustment difficulties or other relevant concerns. Its role can be explained through those needs rather than assuming that visible arousal or functional speech symptoms establish an emotional cause.
 
-The same distinction matters with other FND presentations. Functional seizures, for example, require their own diagnostic and safety considerations, including evaluation of coexisting epilepsy and clinically significant changes. [3](#citation-3)
+The same distinction matters with other FND presentations. Functional seizures, for example, require their own diagnostic and safety considerations, including evaluation of coexisting epilepsy and clinically significant changes. (*citations* [3](#citation-3))
 
 New palpitations, presyncope, breathing difficulties or other systemic complaints cannot be explained simply by labeling them *arousal*. Appropriate medical assessment remains relevant to the actual presentation.
 
@@ -717,10 +716,13 @@ The scientific models remain useful without needing to establish a specific neur
 
 ***
 
+## Further reading in the Reference Library
+
+For practical detail, see [sensory profiles and the environment](../../reference/recovery-techniques/functional_sensory_symptoms/08-sensory-profile-and-environment.md) and [emotional regulation and overwhelm](../../reference/biopsychosocial-experiences/01-emotional-regulation-irritability-and-overwhelm.md).
 
 ## Research and Sources
 
-General neuroscience, FND research findings, proposed mechanisms, professional consensus and treatment trials are distinguished in this lesson. Practical scenes and suggested conversations are illustrative; they are not tested treatment protocols. Community excerpts are individual accounts and do not establish diagnoses, typical outcomes or treatment effects.
+General salience-network research and an FND framework inform the explanation. Clinical guidance supports individualized assessment and rehabilitation; the community quotation illustrates one person’s experience of occupational therapy.
 
 | Citation | Figure | Full citation |
 |---|---|---|
@@ -730,7 +732,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-4"></a>**[4]** | — | Baker J, Barnett C, Cavalli L, et al. **Management of functional communication, swallowing, cough and related disorders: consensus recommendations for speech and language therapy.** JNNP. 2021;92:1112–1125. doi:10.1136/jnnp-2021-326767. [Original](https://jnnp.bmj.com/content/92/10/1112) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/34210802/). [FND-CIT-0025](../../research/citation-index.md#fnd-cit-0025). |
 | <a id="citation-5"></a>**[5]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
 | <a id="citation-6"></a>**[6]** | — | Bennett K, Diamond C, Hoeritzauer I, et al. **A practical review of functional neurological disorder (FND) for the general physician.** Clin Med. 2021;21:28–36. doi:10.7861/clinmed.2020-0987. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7850207/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/33479065/). [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). |
-
-| <a id="citation-7"></a>**[7]** | Figure 1 | Person-described sensory overload, [public r/FND discussion](https://www.reddit.com/r/FND/comments/1bpx5du/how_many_autistics_are_here/). Quote candidate from internal community notebook; recheck speaker/context before publication. Not causal evidence. |
-
-*Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
+| <a id="citation-7"></a>**[7]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1j0nopp/tell_me_how_ot_will_help_my_fnd/). Account of occupational-therapy help with sensory demands. Excerpt and surrounding context checked November 3, 2026. Individual experience; the excerpt does not establish a treatment effect or validate the theory mentioned in the full comment. [FND-CIT-0324](../../research/citation-index.md#fnd-cit-0324).  |

@@ -1,7 +1,9 @@
 # Module 7 — Prediction, Body Signals, and Agency
 
+**Current audit status — November 4, 2026:** All 18 audience sections are human authored and project-lead approved. The project lead accepted the November 3 Audit 1 corrections, with a request to integrate necessary qualifications briefly and positively. Those corrections are now applied. Audit 2 and independent clinical review remain pending. Earlier dated handoffs below retain their historical status descriptions; this update supersedes statements that an audience still needs human authoring or that Audit 1 has not begun. See the [accepted-corrections record](../../../reference/_internal/course/module-07-accepted-audit-1-corrections-2026-11-04.md).
+
 **Part Two: Understanding Attention, Action, and Body Signals**<br>
-**Status:** Approved syllabus direction; source review completed October 26, 2026; lesson authoring and independent clinical review pending.<br>
+**Status:** All 18 audience sections human-approved; accepted Audit 1 corrections applied November 4, 2026. Audit 2 and independent clinical review pending.<br>
 **Current course lessons:** 18–23 (six lessons). All six Person and all six Clinician sections (Lessons 18–23) have been human-approved and committed. All six Supporter sections (Lessons 18–23) are human-approved and committed; research/source verification, both post-edit lesson audits and independent clinical review remain pending.
 
 ## Purpose

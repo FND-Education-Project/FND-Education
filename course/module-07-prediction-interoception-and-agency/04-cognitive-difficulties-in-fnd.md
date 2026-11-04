@@ -1,10 +1,10 @@
 # Cognitive Difficulties in FND
 
-> **Working draft:** The Person section was human-authored and approved October 31, 2026; the Clinician section and Supporter section were human-edited and approved November 3, 2026. The Research section remains an automatically generated draft requiring source verification, two post-edit audits and independent clinical review.
+> **Working draft:** Human authored and project-lead approved. Audit 1 corrections applied November 4, 2026; Audit 2 and independent clinical review remain pending.
 
 Lesson 21 introduces everyday thinking and memory difficulties, explains why they can appear alongside different FND symptoms without a separate Functional Cognitive Disorder diagnosis, and distinguishes them from dissociation.
 
-*Drafted: October 30, 2026*
+*Last reviewed: November 4, 2026*
 
 ***
 
@@ -70,8 +70,6 @@ Today, someone asks what you agreed to. You can't remember the conversation—or
 That involves remembering an experience from your life.
 
 > **Episodic memory:** Remembering events you experienced, including what happened and, sometimes, where or when it happened.
-
-Although one person's experience cannot tell us the cause of someone else's memory difficulty, someone in an [FND community discussion](https://www.reddit.com/r/FND/comments/1uy5v2m/memory_issues_and_cancellations/) described finishing a telephone call and then forgetting the call had happened.
 
 There's another possibility.
 
@@ -215,7 +213,7 @@ They could have different explanations, overlapping explanations or other condit
 
 **Having cognitive difficulties doesn't automatically mean having FCD.**
 
-This is important because cognitive difficulties can accompany other FND symptoms without a separate FCD diagnosis.
+This is important because cognitive difficulties can accompany other FND symptoms without a separate FCD diagnosis. (*citations* [1](#citation-1), [2](#citation-2), [5](#citation-5))
 
 ### What are scientists learning?
 
@@ -245,7 +243,7 @@ These are imagined examples of what a thinking task might reveal.
 
 Scientists use tasks like these to study attention and the ability to switch between activities.
 
-Some studies have found that, on average, groups of people with functional movement symptoms or functional seizures have greater difficulty with certain attention and switching tasks than comparison groups.
+Some studies have found that, on average, groups of people with functional movement symptoms or functional seizures have greater difficulty with certain attention and switching tasks than comparison groups. (*citations* [5](#citation-5))
 
 That doesn't mean every person with FND struggles with these tasks.
 
@@ -273,7 +271,7 @@ Or you feel disconnected from yourself, as though you're not fully present.
 
 Scientists have a name for experiences like these.
 
-> **Dissociation:** A change in how connected or aware someone feels toward themselves, their surroundings, memories or experiences.
+> **[Dissociation](../../glossary/README.md#dissociation):** A change in how connected or aware someone feels toward themselves, their surroundings, memories or experiences.
 
 Dissociation can take several forms.
 
@@ -291,7 +289,7 @@ Someone can feel disconnected during a conversation but remember it afterward.
 
 And another person may experience both difficulties together.
 
-**Dissociation and memory difficulties can overlap, but they aren't the same thing.**
+**Dissociation and memory difficulties can overlap, but they aren't the same thing.** (*citations* [8](#citation-8))
 
 Some people with FND experience dissociation; others don't.
 
@@ -351,7 +349,7 @@ Or you complete it because you've learned to use helpful reminders.
 
 These details matter.
 
-The aim is to understand your abilities and difficulties well enough to guide useful care.
+The aim is to understand your abilities and difficulties well enough to guide useful care. (*citations* [1](#citation-1), [2](#citation-2), [4](#citation-4))
 
 A new, sudden or substantially worsening change in thinking, memory, speech or awareness still needs appropriate medical assessment.
 
@@ -395,7 +393,7 @@ But support isn't the only possibility.
 
 An occupational therapist or another professional may help a person practise meaningful activities, develop skills or make changes that improve independence.
 
-Rehabilitation can involve learning, practice and adaptations.
+Rehabilitation can involve learning, practice and adaptations. (*citations* [4](#citation-4))
 
 And a helpful adaptation doesn't automatically have to disappear as someone improves.
 
@@ -403,7 +401,7 @@ And a helpful adaptation doesn't automatically have to disappear as someone impr
 
 Successfully using support also doesn't prove why the difficulty happened.
 
-For a deeper exploration, our Reference Library includes [Understanding Functional Cognitive Disorder](https://github.com/FND-Education-Project/FND-Education/blob/main/reference/functional-cognitive-disorder.md), [Cognitive Diagnostic Signs](https://github.com/FND-Education-Project/FND-Education/blob/main/reference/diagnostic-signs/12-functional-cognitive-disorder.md) and [Cognitive Recovery Techniques](https://github.com/FND-Education-Project/FND-Education/blob/main/reference/recovery-techniques/functional_cognitive_disorder/README.md).
+For a deeper exploration, our Reference Library includes [Understanding Functional Cognitive Disorder](../../reference/functional-cognitive-disorder.md), [Cognitive Diagnostic Signs](../../reference/diagnostic-signs/12-functional-cognitive-disorder.md) and [Cognitive Recovery Techniques](../../reference/recovery-techniques/functional_cognitive_disorder/README.md).
 
 ### What have we learned?
 
@@ -494,13 +492,13 @@ How can someone remember so much about an experience and still mix up when it ha
 
 We tend to think of memories as recordings of things that happened.
 
-But remembering involves bringing information back together. We may remember people, conversations, places and feelings without always remembering exactly when they occurred or which experience they belonged to.
+But remembering involves bringing information back together. We may remember people, conversations, places and feelings without always remembering exactly when they occurred or which experience they belonged to. (*citations* [6](#citation-6))
 
 Sometimes details from similar experiences become mixed together.
 
-This happens to people without FND too.
+Finding where a memory belongs is part of remembering for everyone, with or without FND.
 
-But when someone is experiencing significant cognitive difficulties, sorting through those details may become much harder.
+When someone describes cognitive difficulties, asking which details are hard to retrieve or place can help us understand their experience.
 
 Your sister may genuinely remember the collapsed cake, the people laughing and your aunt arriving late.
 
@@ -544,7 +542,7 @@ But here's something important.
 
 **A reminder can help someone remember more without guaranteeing that every newly recalled detail is accurate.**
 
-If the details matter, an original email or appointment record may help both people understand what happened.
+If the details matter, an original email or appointment record may help both people understand what happened. (*citations* [6](#citation-6))
 
 And it can be quite a relief to have something reliable to refer to.
 
@@ -715,7 +713,6 @@ And perhaps, on another day, you simply laugh together about the detective who s
 
 ***
 
-
 ## For Clinicians and the Care Team
 
 ### When thinking becomes difficult to rely on
@@ -778,7 +775,7 @@ For example, a person might demonstrate access to information in one part of an 
 
 This is more specific than noticing that someone performs better on a good day or completes a quiet task more easily than a demanding one.
 
-Ball and colleagues (2020) emphasized the importance of recognizing FCD through positive clinical features, while McWhirter and colleagues (2022) proposed a diagnostic risk model to help distinguish functional cognitive presentations from other causes of cognitive complaints. [1](#citation-1), [2](#citation-2)
+Ball and colleagues (2020) emphasized the importance of recognizing FCD through positive clinical features, while McWhirter and colleagues (2022) proposed a diagnostic risk model to help distinguish functional cognitive presentations from other causes of cognitive complaints. (*citations* [1](#citation-1), [2](#citation-2))
 
 **Why does this matter for care?**
 
@@ -806,7 +803,7 @@ The supports address different cognitive demands, even though both might be desc
 
 They also leave Nadia responsible for the decisions she wants to make. The information is easier to access without requiring another person to take over the activity.
 
-Occupational therapy consensus recommendations support individualized activity analysis, collaborative goals and practical adaptations that improve participation in everyday life. [5](#citation-5)
+Occupational therapy consensus recommendations support individualized activity analysis, collaborative goals and practical adaptations that improve participation in everyday life. (*citations* [4](#citation-4))
 
 The rehabilitation rationale is therefore based on understanding the task and reducing unnecessary cognitive demands. Successful use of an external aid would not demonstrate that Nadia has FCD, nor would it establish why the original difficulty developed.
 
@@ -830,11 +827,13 @@ The central question is whether the support improves Nadia's reliability, indepe
 
 Research into FCD has examined how reported cognitive difficulties relate to observed performance and confidence in one's abilities.
 
-Ball and colleagues (2020) described the clinical importance of identifying positive features of FCD rather than treating it as a diagnosis reached only after excluding other conditions. McWhirter and colleagues (2022) explored how clinical patterns might help refine that diagnostic reasoning. [1](#citation-1), [2](#citation-2)
+Ball and colleagues (2020) described the clinical importance of identifying positive features of FCD rather than treating it as a diagnosis reached only after excluding other conditions. McWhirter and colleagues (2022) explored how clinical patterns might help refine that diagnostic reasoning. (*citations* [1](#citation-1), [2](#citation-2))
 
 These publications are valuable because they direct attention to the relationship between cognitive experience and demonstrable function. However, neither provides a universal cognitive profile or a single test that establishes FCD in every patient.
 
-That distinction also applies beyond FCD. A person with functional seizures or a functional movement disorder may experience substantial cognitive difficulty without having the particular pattern needed for an FCD diagnosis.
+Bhome and colleagues studied 18 people with FCD. Their task-specific monitoring was relatively preserved compared with historical healthy samples, alongside lower global self-evaluation. This small study helps separate confidence about cognition in general from monitoring one particular task. (*citations* [3](#citation-3))
+
+Pick and colleagues (2026) examined four groups of 50: people with functional seizures, functional motor symptoms, depression or anxiety, and healthy controls. Both FND groups reported more cognitive symptoms and showed differences on sustained-attention and set-shifting tests; performance validity was comparable across groups. These findings support assessing cognition across FND presentations, with each person's pattern guiding care. (*citations* [5](#citation-5))
 
 For rehabilitation, recognizing the affected cognitive demands can be useful even before every question about their cause has been resolved.
 
@@ -848,13 +847,13 @@ A related but different clinical question arises when someone reports a gap in a
 
 These experiences vary considerably. Someone may feel detached from their surroundings, experience a sense of unreality or become unusually absorbed in an internal experience. Others report changes in awareness or gaps in memory. Some experiences are brief and occur outside a diagnosed disorder, while others form part of clinically significant dissociative conditions.
 
-Dissociative Identity Disorder (DID) is a separate diagnosis involving identity disruption and recurrent memory gaps, among other features. Neither DID nor another dissociative disorder can be inferred from an isolated report of missing time.
+Dissociative Identity Disorder (DID) is a separate diagnosis involving identity disruption and recurrent memory gaps, among other features. Assessment considers the full pattern of symptoms and their effect on everyday life. (*citations* [8](#citation-8))
 
 **How does this connect to FND?**
 
 The connection has both a clinical and historical background.
 
-Functional seizures were previously—and are still in some settings—called *dissociative seizures*. This terminology reflects longstanding recognition of altered awareness and dissociative experiences in some seizure-like presentations. In 2025, an International League Against Epilepsy task force proposed the combined term *functional/dissociative seizures*, acknowledging established terminology across different clinical traditions. See the [functional-seizure reference](../../reference/diagnostic-signs/06-functional-seizures.md) and the [ILAE terminology proposal](https://doi.org/10.1111/epi.18574).
+Functional seizures were previously—and are still in some settings—called *dissociative seizures*. This terminology reflects longstanding recognition of altered awareness and dissociative experiences in some seizure-like presentations. In 2025, an International League Against Epilepsy task force proposed the combined term *functional/dissociative seizures*, acknowledging established terminology across different clinical traditions. See the [functional-seizure reference](../../reference/diagnostic-signs/06-functional-seizures.md) for more detail. (*citations* [7](#citation-7))
 
 The terminology does not mean that every functional seizure involves a recognizable dissociative experience. Nor does it establish that an individual seizure was caused by psychological dissociation, trauma or another particular mechanism.
 
@@ -901,18 +900,17 @@ Nadia's case illustrates how distinguishing the demands of an activity can lead 
 
 ***
 
-
 ## Research and Sources
 
-General cognitive neuroscience, clinical FCD criteria and cognition observed in other FND presentations are different kinds of evidence. The everyday scenes are fictional. This draft makes **no population prevalence estimate**, and there is no proven universal cognitive profile of FND. Dissociation is introduced as a neighboring concept, not recast as FCD.
+Clinical FCD papers, studies of cognition and metacognition, and a general memory review inform this lesson. Each study describes its own sample and measures. Fictional scenes illustrate everyday difficulties; clinical assessment brings these observations together for the individual.
 
 | Citation | Figure | Full citation and purpose |
 |---|---|---|
 | <a id="citation-1"></a>**[1]** | — | Ball HA, McWhirter L, Ballard C, et al. **Functional cognitive disorder: dementia's blind spot.** *Brain*. 2020;143:2895–2903. [DOI](https://doi.org/10.1093/brain/awaa224) · [FND-CIT-0071](../../research/citation-index.md#fnd-cit-0071). Functional cognitive assessment and distinctions. |
 | <a id="citation-2"></a>**[2]** | — | McWhirter L, Ritchie C, Stone J, Carson A. **Identifying functional cognitive disorder: a proposed diagnostic risk model.** *CNS Spectr*. 2022;27:754–763. [DOI](https://doi.org/10.1017/S1092852921000845) · [FND-CIT-0026](../../research/citation-index.md#fnd-cit-0026). Pattern-based assessment; a proposed model is not a stand-alone diagnostic test. |
-| <a id="citation-3"></a>**[3]** | — | Bhome R, et al. **Metacognition in functional cognitive disorder.** *Brain Communications*. 2022. [DOI](https://doi.org/10.1093/braincomms/fcac041). Small study; no blanket inference about confidence or truthfulness. Original record recheck required at audit. |
-| <a id="citation-4"></a>**[4]** | — | Perez DL, Matin N, Williams B, et al. **Cortical thickness alterations linked to somatoform and psychological dissociation in functional neurological disorders.** *Hum Brain Mapp*. 2018;39:428–439. [DOI](https://doi.org/10.1002/hbm.23853) · [FND-CIT-0190](../../research/citation-index.md#fnd-cit-0190). Group association; motor-FND sample, not an FCD diagnostic study. |
-| <a id="citation-5"></a>**[5]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** *JNNP*. 2020;91:1037–1045. [DOI](https://doi.org/10.1136/jnnp-2019-322281) · [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). Individually chosen daily-activity supports, not FCD-specific efficacy proof. |
-| <a id="citation-6"></a>**[6]** | — | Pick S, et al. **Cognition and metacognition in functional motor symptoms and functional seizures: a case-control study.** 2026. [PubMed record supplied for editorial research](https://pubmed.ncbi.nlm.nih.gov/41773078/). Group findings on attention and switching were reported; bibliographic details and applicability require independent verification. |
-
-**Editorial follow-up:** Consider a non-verbatim account of forgetting a telephone call from [this public FND discussion](https://www.reddit.com/r/FND/comments/1uy5v2m/memory_issues_and_cancellations/), as supplied in the author's research note. Original thread was inaccessible to direct verification, so the Person section uses a linked, non-verbatim paraphrase instead of an exact quotation. Quote verification, audits, independent clinical review and generated-site validation remain pending.
+| <a id="citation-3"></a>**[3]** | — | Bhome R, McWilliams A, Price G, Poole NA, Howard RJ, Fleming SM, Huntley JD. **Metacognition in functional cognitive disorder.** *Brain Communications*. 2022;4(2):fcac041. [DOI](https://doi.org/10.1093/braincomms/fcac041). [FND-CIT-0325](../../research/citation-index.md#fnd-cit-0325). Eighteen participants with FCD; task-specific monitoring and global self-evaluation were examined separately. |
+| <a id="citation-4"></a>**[4]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** *JNNP*. 2020;91:1037–1045. [DOI](https://doi.org/10.1136/jnnp-2019-322281) · [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). Individually chosen daily-activity supports, not FCD-specific efficacy proof. |
+| <a id="citation-5"></a>**[5]** | — | Pick S, Merritt Millman LS, Gun Gürsoy E, et al. **Cognition and metacognition in functional motor symptoms and functional seizures: a case-control study.** *Psychological Medicine*. 2026;56:e61. [DOI](https://doi.org/10.1017/S0033291726103420) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/41773078/). [FND-CIT-0326](../../research/citation-index.md#fnd-cit-0326). Four groups of 50; group comparisons of cognitive symptoms, performance and confidence. |
+| <a id="citation-6"></a>**[6]** | — | Johnson MK, Hashtroudi S, Lindsay DS. **Source monitoring.** *Psychological Bulletin*. 1993;114(1):3–28. [DOI](https://doi.org/10.1037/0033-2909.114.1.3) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/8346328/). General memory framework, not an FND-specific study. [FND-CIT-0327](../../research/citation-index.md#fnd-cit-0327).  |
+| <a id="citation-7"></a>**[7]** | — | Hingray C, Popkirov S, Kozlowska K, et al.; ILAE Functional/Dissociative Seizures Task Force. **Functional/dissociative seizures: Proposal for a new diagnostic label and definition by the ILAE task force.** *Epilepsia*. 2025;66(11):4162–4182. [DOI](https://doi.org/10.1111/epi.18574) · [FND-CIT-0009](../../research/citation-index.md#fnd-cit-0009). Terminology proposal. |
+| <a id="citation-8"></a>**[8]** | — | American Psychiatric Association. **What are dissociative disorders?** [Patient and family guidance](https://www.psychiatry.org/patients-families/dissociative-disorders/what-are-dissociative-disorders/). Accessed November 4, 2026. Supports the distinction among dissociative experiences and specific disorders, including DID. [FND-CIT-0329](../../research/citation-index.md#fnd-cit-0329).  |
