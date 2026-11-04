@@ -112,7 +112,7 @@ process.on('exit', () => server.kill());
   const broken=await page.evaluate(()=>Array.from(document.querySelectorAll('a[href^="#"]')).filter(a=>a.hash&&!document.getElementById(decodeURIComponent(a.hash.slice(1)))).map(a=>a.hash));
   if(broken.length) throw new Error('Broken local anchors '+JSON.stringify(broken));
   fs.writeFileSync(output+'/report.json',JSON.stringify(reports,null,2));
-  console.log('PASS: '+reports.length+' desktop/mobile rendered page checks; audience jump and local anchors.');
+  console.log('PASS: '+reports.length+' desktop/mobile page and puzzle checks; audience jump and local anchors.');
   await browser.close();
   server.kill();
 })().catch(error=>{console.error(error.message);process.exit(1);});
