@@ -150,7 +150,7 @@ You don't have to consciously organize all of this. Your nervous system does an 
 
 ![A person prepares breakfast as three small messengers bring outside, body-position and internal-body information to a shared brain workstation.](../../assets/images/lesson-19-illustration.png)
 
-<figcaption>Outside senses, body-position sense and internal signals provide different information that the nervous system brings together. The messengers are an illustration, not separate physical control rooms.</figcaption>
+<figcaption>Different senses provide information that the brain uses together.</figcaption>
 
 </figure>
 
