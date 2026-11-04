@@ -226,6 +226,14 @@ The important point is that **feedback loops can work in helpful directions as w
 
 And sometimes, changing just one part of a situation changes what happens next.
 
+<figure class="image-60center" markdown="1">
+
+![Two views of a social gathering: several competing sounds and demands in one, and easier conversation after the environment becomes quieter in the other.](../../assets/images/lesson-20-illustration.png)
+
+<figcaption>Reducing one competing demand may make it easier to take part in a conversation, even when other symptoms remain. This is an example of changing the task, not a promise of symptom relief.</figcaption>
+
+</figure>
+
 ### What might this have to do with FND?
 
 Now we can connect these ideas to our nervous system research.
@@ -377,6 +385,13 @@ When several demands pile up, what part of the activity do you most want to keep
 See whether one demand could be made smaller without losing the part you enjoy. A quieter seat, the television turned off during a conversation, or fewer instructions at once may be enough. If a change to your surroundings already helps, it may also be useful in another activity. There's no need to provoke symptoms to find out.
 
 Next, we'll explore cognitive difficulties: why questions, words and familiar information sometimes seem to disappear, and how this relates to—but isn't the same as—a diagnosis of FCD.
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-20-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-20-coloring-book.png' | relative_url }}" alt="Two views of a social gathering: several competing sounds and demands in one, and easier conversation after the environment becomes quieter in the other. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-20-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 20 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-20">browse the colouring collection</a>.
+
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
