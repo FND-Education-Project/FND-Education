@@ -111,7 +111,7 @@ More than one of these can be difficult at once.
 
 ![A person struggles to recall an appointment, then recognizes a detail after seeing a message, while an imaginary brain librarian locates a memory book.](../../assets/images/lesson-21-illustration.png)
 
-<figcaption>A familiar clue may help bring information back into awareness. The library is a memory metaphor; a reminder does not guarantee that every recalled detail is accurate.</figcaption>
+<figcaption>Sometimes a small clue helps us find a memory that seemed out of reach.</figcaption>
 
 </figure>
 
