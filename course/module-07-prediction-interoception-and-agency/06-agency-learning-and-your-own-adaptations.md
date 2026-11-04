@@ -362,6 +362,20 @@ That's where we're going next.
 
 In **Module 8 — Recognizing Symptoms and Finding Information**, we'll learn how to put those experiences into words and use the Reference Library to explore diagnosis, safety and recovery options without needing to become our own doctors.
 
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-23" aria-label="Browse Agency, Learning, and Your Own Adaptations"><img src="{{ '/assets/puzzles/thumbnails/agency-learning-and-your-own-adaptations-m7-23-normal.svg' | relative_url }}" alt="Preview of the Agency, Learning, and Your Own Adaptations crossword grid" loading="lazy" decoding="async"><span>Agency, Learning, and Your Own Adaptations</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Agency, Learning, and Your Own Adaptations PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-23/agency-learning-and-your-own-adaptations-m7-23-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-23/agency-learning-and-your-own-adaptations-m7-23-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-23/agency-learning-and-your-own-adaptations-m7-23-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
 ### Optional colouring activity
 
 <a href="{{ '/assets/puzzles/colouring/lesson-23-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-23-coloring-book.png' | relative_url }}" alt="Two connected scenes show a woman building a model boat with a stable work stand and practising a related activity with a therapist. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
