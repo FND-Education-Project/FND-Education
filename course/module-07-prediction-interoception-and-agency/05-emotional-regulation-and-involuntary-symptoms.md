@@ -311,6 +311,14 @@ Emotions can become part of the experience.
 
 But not every emotional difficulty comes from FND.
 
+<figure class="image-60center" markdown="1">
+
+![A visibly frustrated young adult sits at a table beneath a large question mark filled with tangled scribbles.](../../assets/images/lesson-22-illustration.png)
+
+<figcaption>A feeling can become intense and difficult to understand or manage. The scribbled question mark represents that experience, not a universal emotional pattern in FND.</figcaption>
+
+</figure>
+
 ### What about medications?
 
 Leah is at a medical appointment.
@@ -718,6 +726,13 @@ If you still wanted to take part in the conversation, what would you most want t
 For a conversation that matters—perhaps planning a visit or explaining something at an appointment—make room for your answer. One question at a time, a quieter place, or a note you can point to may help. An arrangement that already makes another task easier could be useful here too. You don't have to control every feeling for the conversation to matter.
 
 In our next lesson, we'll explore the difference between **intending an action**, **feeling in control of it**, and **what your body actually does**.
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-22-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-22-coloring-book.png' | relative_url }}" alt="A visibly frustrated young adult sits at a table beneath a large question mark filled with tangled scribbles. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-22-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 22 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-22">browse the colouring collection</a>.
+
 
 ***
 
