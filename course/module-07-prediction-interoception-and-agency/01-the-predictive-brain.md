@@ -118,6 +118,14 @@ Your brain needs to work out how much to rely on each. (*citations* [1](#citatio
 
 And this brings us to something FND researchers find particularly interesting.
 
+<figure class="image-60center" markdown="1">
+
+![A basketball player watches a ball bounce away from its expected path while a small brain worker holds a blueprint of the predicted bounce.](../../assets/images/lesson-18-illustration.png)
+
+<figcaption>The brain prepares for an expected bounce, but new sensory information may call for a different prediction. The brain worker and blueprint are playful metaphors, not a literal mechanism.</figcaption>
+
+</figure>
+
 ### What might prediction have to do with FND?
 
 Researchers know that some functional neurological symptoms can change with attention, surroundings and the demands of an activity.
@@ -283,6 +291,13 @@ When something familiar becomes unpredictable, what bothers you most? Is it the 
 Remember the ways you've already made places safer or easier to use? The same thinking can help with an activity you enjoy. Keeping things where you expect to find them, or choosing a route you know well, may make that activity more comfortable. A familiar arrangement that's already helping is worth keeping.
 
 In our next lesson, we'll meet the different kinds of information your brain receives from your body and surroundings. That will help us understand what predictions are being compared *with*.
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-18-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-18-coloring-book.png' | relative_url }}" alt="A basketball player watches a ball bounce away from its expected path while a small brain worker holds a blueprint of the predicted bounce. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-18-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 18 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-18">browse the colouring collection</a>.
+
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
