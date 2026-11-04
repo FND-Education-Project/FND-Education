@@ -146,6 +146,14 @@ Other information matters too. For example, your inner ears help with balance an
 
 You don't have to consciously organize all of this. Your nervous system does an extraordinary amount of work for you.
 
+<figure class="image-60center" markdown="1">
+
+![A person prepares breakfast as three small messengers bring outside, body-position and internal-body information to a shared brain workstation.](../../assets/images/lesson-19-illustration.png)
+
+<figcaption>Outside senses, body-position sense and internal signals provide different information that the nervous system brings together. The messengers are an illustration, not separate physical control rooms.</figcaption>
+
+</figure>
+
 ### When what you see and what you feel don't agree
 
 Imagine reaching down to adjust your shoe.
@@ -355,6 +363,13 @@ If someone couldn't see or feel what was making that situation difficult, what w
 Think of a place you'd like to enjoy more comfortably. Softer light for reading, a quieter place to talk, or a safer route across uneven ground might help. The useful change may be something you've already arranged; what matters is whether it helps you take part.
 
 In our next lesson, we'll explore why some information becomes particularly important to the brain—and why certain sensations, sounds or demands can become so difficult to ignore.
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-19-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-19-coloring-book.png' | relative_url }}" alt="A person prepares breakfast as three small messengers bring outside, body-position and internal-body information to a shared brain workstation. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-19-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 19 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-19">browse the colouring collection</a>.
+
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
