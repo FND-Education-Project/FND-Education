@@ -1,0 +1,386 @@
+{
+  "title": "Cognitive Difficulties in FND",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 453,
+    "lesson": 21,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "lesson",
+    "module": 7,
+    "seed": 1,
+    "selected_question_count": 35
+  },
+  "score": 74.85,
+  "included": [
+    {
+      "answer": "ENCODING",
+      "borrowed": false,
+      "clue": "Taking\n  information in so it can be remembered.",
+      "direction": "down",
+      "grid_col": 7,
+      "grid_row": 4,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "ENCODING",
+      "priority": 1,
+      "row": 630
+    },
+    {
+      "answer": "COGNITION",
+      "borrowed": false,
+      "clue": "Thinking,\n  understanding and using information.",
+      "direction": "across",
+      "grid_col": 4,
+      "grid_row": 10,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "COGNITION",
+      "priority": 1,
+      "row": 625
+    },
+    {
+      "answer": "LIST",
+      "borrowed": false,
+      "clue": "Several\n  reminders written one below another.",
+      "direction": "down",
+      "grid_col": 10,
+      "grid_row": 9,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "LIST",
+      "priority": 2,
+      "row": 639
+    },
+    {
+      "answer": "CALENDAR",
+      "borrowed": false,
+      "clue": "A\n  dated record of appointments and plans.",
+      "direction": "down",
+      "grid_col": 12,
+      "grid_row": 6,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "CALENDAR",
+      "priority": 2,
+      "row": 654
+    },
+    {
+      "answer": "REMIND",
+      "borrowed": false,
+      "clue": "To\n  bring something back to someone's attention.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 5,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "REMIND",
+      "priority": 2,
+      "row": 652
+    },
+    {
+      "answer": "VARIATION",
+      "borrowed": false,
+      "clue": "Differences\n  in how an ability works from day to day.",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 7,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "VARIATION",
+      "priority": 2,
+      "row": 658
+    },
+    {
+      "answer": "NAME",
+      "borrowed": false,
+      "clue": "A\n  word used to identify someone or something.",
+      "direction": "down",
+      "grid_col": 15,
+      "grid_row": 6,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "NAME",
+      "priority": 2,
+      "row": 644
+    },
+    {
+      "answer": "SWITCHING",
+      "borrowed": false,
+      "clue": "Moving\n  your attention from one task to another.",
+      "direction": "down",
+      "grid_col": 19,
+      "grid_row": 0,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "SWITCHING",
+      "priority": 1,
+      "row": 636
+    },
+    {
+      "answer": "PLANNING",
+      "borrowed": false,
+      "clue": "Deciding\n  what steps to take before an activity.",
+      "direction": "across",
+      "grid_col": 14,
+      "grid_row": 2,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "PLANNING",
+      "priority": 2,
+      "row": 655
+    },
+    {
+      "answer": "CHECK",
+      "borrowed": false,
+      "clue": "To\n  look again and confirm a detail.",
+      "direction": "across",
+      "grid_col": 19,
+      "grid_row": 4,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "CHECK",
+      "priority": 2,
+      "row": 650
+    },
+    {
+      "answer": "GAP",
+      "borrowed": false,
+      "clue": "A\n  missing stretch in your memory of an event.",
+      "direction": "down",
+      "grid_col": 16,
+      "grid_row": 1,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "GAP",
+      "priority": 1,
+      "row": 635
+    },
+    {
+      "answer": "FORGET",
+      "borrowed": false,
+      "clue": "To\n  have a fact vanish just when you need it.",
+      "direction": "down",
+      "grid_col": 3,
+      "grid_row": 3,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "FORGET",
+      "priority": 1,
+      "row": 634
+    },
+    {
+      "answer": "HELP",
+      "borrowed": false,
+      "clue": "Assistance\n  that makes a task easier to manage.",
+      "direction": "across",
+      "grid_col": 14,
+      "grid_row": 9,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "HELP",
+      "priority": 3,
+      "row": 659
+    },
+    {
+      "answer": "DATE",
+      "borrowed": false,
+      "clue": "The\n  day, month and year of an event.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 7,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "DATE",
+      "priority": 2,
+      "row": 640
+    },
+    {
+      "answer": "FOCUS",
+      "borrowed": false,
+      "clue": "The\n  centre of your mental attention.",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 9,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "FOCUS",
+      "priority": 2,
+      "row": 651
+    },
+    {
+      "answer": "SEMANTIC",
+      "borrowed": false,
+      "clue": "Memory\n  for facts, words and their meanings.",
+      "direction": "down",
+      "grid_col": 1,
+      "grid_row": 4,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "SEMANTIC",
+      "priority": 1,
+      "row": 628
+    },
+    {
+      "answer": "PLAN",
+      "borrowed": false,
+      "clue": "Steps\n  chosen before beginning a task.",
+      "direction": "down",
+      "grid_col": 17,
+      "grid_row": 9,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "PLAN",
+      "priority": 2,
+      "row": 641
+    },
+    {
+      "answer": "FACT",
+      "borrowed": false,
+      "clue": "A\n  piece of information that can be checked as true.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 3,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "FACT",
+      "priority": 2,
+      "row": 643
+    },
+    {
+      "answer": "SLEEP",
+      "borrowed": false,
+      "clue": "Night-time\n  rest that may affect concentration.",
+      "direction": "across",
+      "grid_col": 19,
+      "grid_row": 0,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "SLEEP",
+      "priority": 2,
+      "row": 648
+    },
+    {
+      "answer": "PAIN",
+      "borrowed": false,
+      "clue": "Physical\n  discomfort that can compete for attention.",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 2,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "PAIN",
+      "priority": 2,
+      "row": 649
+    },
+    {
+      "answer": "FATIGUE",
+      "borrowed": false,
+      "clue": "Mental\n  or physical tiredness that can affect thinking.",
+      "direction": "across",
+      "grid_col": 16,
+      "grid_row": 11,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "FATIGUE",
+      "priority": 2,
+      "row": 656
+    },
+    {
+      "answer": "TASK",
+      "borrowed": false,
+      "clue": "One\n  activity you mean to complete.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 13,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "TASK",
+      "priority": 2,
+      "row": 642
+    },
+    {
+      "answer": "WRITE",
+      "borrowed": false,
+      "clue": "To\n  record a detail before you forget it.",
+      "direction": "across",
+      "grid_col": 11,
+      "grid_row": 13,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "WRITE",
+      "priority": 2,
+      "row": 646
+    },
+    {
+      "answer": "EVIDENCE",
+      "borrowed": false,
+      "clue": "Information\n  that supports an account of events.",
+      "direction": "down",
+      "grid_col": 22,
+      "grid_row": 7,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "EVIDENCE",
+      "priority": 2,
+      "row": 657
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "WORKING",
+      "clue": "Your\n  mental scratchpad for the moment.",
+      "row": 626
+    },
+    {
+      "answer": "EPISODIC",
+      "clue": "Memory\n  for events from your own life, including when and where.",
+      "row": 627
+    },
+    {
+      "answer": "WORDFINDING",
+      "clue": "That\n  'tip of my tongue' search for a missing word.",
+      "row": 629
+    },
+    {
+      "answer": "RETRIEVAL",
+      "clue": "Accessing\n  information stored in memory.",
+      "row": 631
+    },
+    {
+      "answer": "RECALL",
+      "clue": "To\n  bring a memory back to mind.",
+      "row": 632
+    },
+    {
+      "answer": "CUE",
+      "clue": "A\n  small hint that can help you remember.",
+      "row": 633
+    },
+    {
+      "answer": "ATTENTION",
+      "clue": "Mental\n  focus given to something.",
+      "row": 637
+    },
+    {
+      "answer": "NOTE",
+      "clue": "A\n  short written reminder.",
+      "row": 638
+    },
+    {
+      "answer": "WORD",
+      "clue": "A\n  single unit of spoken or written language.",
+      "row": 645
+    },
+    {
+      "answer": "THINK",
+      "clue": "To\n  consider something in your mind.",
+      "row": 647
+    },
+    {
+      "answer": "REMINDER",
+      "clue": "Something\n  that prompts you to remember a task.",
+      "row": 653
+    }
+  ]
+}
