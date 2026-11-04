@@ -315,7 +315,7 @@ But not every emotional difficulty comes from FND.
 
 ![A visibly frustrated young adult sits at a table beneath a large question mark filled with tangled scribbles.](../../assets/images/lesson-22-illustration.png)
 
-<figcaption>A feeling can become intense and difficult to understand or manage. The scribbled question mark represents that experience, not a universal emotional pattern in FND.</figcaption>
+<figcaption>Sometimes you know you're upset, but can't quite explain why it feels so enormous.</figcaption>
 
 </figure>
 
