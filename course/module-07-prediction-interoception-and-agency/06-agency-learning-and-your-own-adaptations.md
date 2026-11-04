@@ -234,7 +234,7 @@ Amira has two possible goals: making her movements more reliable and managing da
 
 ![Two connected scenes show a woman building a model boat with a stable work stand and practising a related activity with a therapist.](../../assets/images/lesson-23-illustration.png)
 
-<figcaption>An adaptation can make a valued activity accessible while guided practice supports rehabilitation. Neither approach guarantees symptom improvement, and both can serve the same goal.</figcaption>
+<figcaption>You can work toward improvement and still find ways to enjoy what matters today.</figcaption>
 
 </figure>
 
