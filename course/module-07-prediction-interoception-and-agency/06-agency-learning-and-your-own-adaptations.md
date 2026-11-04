@@ -230,6 +230,14 @@ Amira has two possible goals: making her movements more reliable and managing da
 
 **Recovery work and practical adaptations can happen together.** When improvement is limited or slow, useful adaptations can still make life better.
 
+<figure class="image-60center" markdown="1">
+
+![Two connected scenes show a woman building a model boat with a stable work stand and practising a related activity with a therapist.](../../assets/images/lesson-23-illustration.png)
+
+<figcaption>An adaptation can make a valued activity accessible while guided practice supports rehabilitation. Neither approach guarantees symptom improvement, and both can serve the same goal.</figcaption>
+
+</figure>
+
 ### What does responsibility mean when a symptom isn't chosen?
 
 Let's return to Amira's unexpected arm movement. She didn't choose the jerk or intend to knock the glass. Does that mean there's nothing she can do about the situation? Not necessarily.
@@ -353,6 +361,13 @@ But understanding how these systems work is only part of living with FND. We als
 That's where we're going next.
 
 In **Module 8 — Recognizing Symptoms and Finding Information**, we'll learn how to put those experiences into words and use the Reference Library to explore diagnosis, safety and recovery options without needing to become our own doctors.
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-23-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-23-coloring-book.png' | relative_url }}" alt="Two connected scenes show a woman building a model boat with a stable work stand and practising a related activity with a therapist. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-23-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 23 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-23">browse the colouring collection</a>.
+
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
