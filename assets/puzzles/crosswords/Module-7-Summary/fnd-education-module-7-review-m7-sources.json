@@ -1,0 +1,1118 @@
+{
+  "title": "FND Education — Module 7 Review",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 0,
+    "lesson": null,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "module",
+    "module": 7,
+    "seed": 1,
+    "selected_question_count": 175
+  },
+  "score": 77.84,
+  "included": [
+    {
+      "answer": "PREDICTIONERROR",
+      "borrowed": false,
+      "clue": "A\n  difference between a prediction and incoming information.",
+      "direction": "across",
+      "grid_col": 7,
+      "grid_row": 7,
+      "lesson": 18,
+      "module": 7,
+      "original_answer": "PREDICTIONERROR",
+      "priority": 1,
+      "row": 522
+    },
+    {
+      "answer": "FEAR",
+      "borrowed": false,
+      "clue": "An\n  emotion linked to perceived danger.",
+      "direction": "down",
+      "grid_col": 18,
+      "grid_row": 4,
+      "lesson": 22,
+      "module": 7,
+      "original_answer": "FEAR",
+      "priority": 2,
+      "row": 674
+    },
+    {
+      "answer": "DATE",
+      "borrowed": false,
+      "clue": "The\n  day, month and year of an event.",
+      "direction": "across",
+      "grid_col": 15,
+      "grid_row": 5,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "DATE",
+      "priority": 2,
+      "row": 640
+    },
+    {
+      "answer": "NOISE",
+      "borrowed": false,
+      "clue": "Sound that insists on joining every\n  conversation.",
+      "direction": "down",
+      "grid_col": 11,
+      "grid_row": 5,
+      "lesson": 20,
+      "module": 7,
+      "original_answer": "NOISE",
+      "priority": 2,
+      "row": 601
+    },
+    {
+      "answer": "SAFETY",
+      "borrowed": false,
+      "clue": "Protection\n  from avoidable harm.",
+      "direction": "down",
+      "grid_col": 9,
+      "grid_row": 4,
+      "lesson": 23,
+      "module": 7,
+      "original_answer": "SAFETY",
+      "priority": 1,
+      "row": 705
+    },
+    {
+      "answer": "PAST",
+      "borrowed": false,
+      "clue": "The time where earlier experiences belong.",
+      "direction": "across",
+      "grid_col": 7,
+      "grid_row": 4,
+      "lesson": 18,
+      "module": 7,
+      "original_answer": "PAST",
+      "priority": 2,
+      "row": 535
+    },
+    {
+      "answer": "PRIORITY",
+      "borrowed": false,
+      "clue": "Something\n  treated as more important than other demands.",
+      "direction": "down",
+      "grid_col": 7,
+      "grid_row": 7,
+      "lesson": 20,
+      "module": 7,
+      "original_answer": "PRIORITY",
+      "priority": 1,
+      "row": 600
+    },
+    {
+      "answer": "GOAL",
+      "borrowed": false,
+      "clue": "What\n  you're working toward, one step at a time.",
+      "direction": "down",
+      "grid_col": 20,
+      "grid_row": 6,
+      "lesson": 23,
+      "module": 7,
+      "original_answer": "GOAL",
+      "priority": 1,
+      "row": 703
+    },
+    {
+      "answer": "STRAIN",
+      "borrowed": false,
+      "clue": "Pressure\n  from demands that keep piling up.",
+      "direction": "down",
+      "grid_col": 13,
+      "grid_row": 6,
+      "lesson": 20,
+      "module": 7,
+      "original_answer": "STRAIN",
+      "priority": 2,
+      "row": 606
+    },
+    {
+      "answer": "MOBILITY",
+      "borrowed": false,
+      "clue": "How\n  easily a person can get from place to place.",
+      "direction": "across",
+      "grid_col": 4,
+      "grid_row": 12,
+      "lesson": 23,
+      "module": 7,
+      "original_answer": "MOBILITY",
+      "priority": 2,
+      "row": 728
+    },
+    {
+      "answer": "PREDICTION",
+      "borrowed": false,
+      "clue": "The\n  brain's forecast of what might happen next.",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 4,
+      "lesson": 18,
+      "module": 7,
+      "original_answer": "PREDICTION",
+      "priority": 1,
+      "row": 520
+    },
+    {
+      "answer": "NOSE",
+      "borrowed": false,
+      "clue": "The\n  body part that contains most smell receptors.",
+      "direction": "across",
+      "grid_col": 2,
+      "grid_row": 6,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "NOSE",
+      "priority": 2,
+      "row": 572
+    },
+    {
+      "answer": "SEMANTIC",
+      "borrowed": false,
+      "clue": "Memory\n  for facts, words and their meanings.",
+      "direction": "down",
+      "grid_col": 2,
+      "grid_row": 2,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "SEMANTIC",
+      "priority": 1,
+      "row": 628
+    },
+    {
+      "answer": "SIGHT",
+      "borrowed": false,
+      "clue": "The\n  sense that detects light and shapes.",
+      "direction": "across",
+      "grid_col": 12,
+      "grid_row": 10,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "SIGHT",
+      "priority": 1,
+      "row": 559
+    },
+    {
+      "answer": "LIGHT",
+      "borrowed": false,
+      "clue": "Something bright that may draw your\n  attention.",
+      "direction": "across",
+      "grid_col": 20,
+      "grid_row": 9,
+      "lesson": 20,
+      "module": 7,
+      "original_answer": "LIGHT",
+      "priority": 3,
+      "row": 623
+    },
+    {
+      "answer": "INTERPRET",
+      "borrowed": false,
+      "clue": "To make sense of what you notice.",
+      "direction": "down",
+      "grid_col": 24,
+      "grid_row": 1,
+      "lesson": 18,
+      "module": 7,
+      "original_answer": "INTERPRET",
+      "priority": 1,
+      "row": 527
+    },
+    {
+      "answer": "SMELL",
+      "borrowed": false,
+      "clue": "The\n  sense that recognises odours.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 3,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "SMELL",
+      "priority": 1,
+      "row": 564
+    },
+    {
+      "answer": "SHIFT",
+      "borrowed": false,
+      "clue": "To move attention from one thing to another.",
+      "direction": "down",
+      "grid_col": 10,
+      "grid_row": 0,
+      "lesson": 20,
+      "module": 7,
+      "original_answer": "SHIFT",
+      "priority": 2,
+      "row": 611
+    },
+    {
+      "answer": "STOP",
+      "borrowed": false,
+      "clue": "To\n  cease an activity when safety requires it.",
+      "direction": "down",
+      "grid_col": 7,
+      "grid_row": 1,
+      "lesson": 23,
+      "module": 7,
+      "original_answer": "STOP",
+      "priority": 2,
+      "row": 719
+    },
+    {
+      "answer": "THIRST",
+      "borrowed": false,
+      "clue": "Your\n  body's request for a drink.",
+      "direction": "across",
+      "grid_col": 22,
+      "grid_row": 1,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "THIRST",
+      "priority": 1,
+      "row": 563
+    },
+    {
+      "answer": "FOCUS",
+      "borrowed": false,
+      "clue": "The\n  direction of your attention.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 1,
+      "lesson": 20,
+      "module": 7,
+      "original_answer": "FOCUS",
+      "priority": 1,
+      "row": 596
+    },
+    {
+      "answer": "PLAN",
+      "borrowed": false,
+      "clue": "Steps\n  chosen before beginning a task.",
+      "direction": "across",
+      "grid_col": 24,
+      "grid_row": 6,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "PLAN",
+      "priority": 2,
+      "row": 641
+    },
+    {
+      "answer": "REACT",
+      "borrowed": false,
+      "clue": "To respond to an unexpected event.",
+      "direction": "down",
+      "grid_col": 26,
+      "grid_row": 4,
+      "lesson": 18,
+      "module": 7,
+      "original_answer": "REACT",
+      "priority": 2,
+      "row": 545
+    },
+    {
+      "answer": "HEAT",
+      "borrowed": false,
+      "clue": "What\n  you feel from something very warm.",
+      "direction": "down",
+      "grid_col": 15,
+      "grid_row": 10,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "HEAT",
+      "priority": 3,
+      "row": 589
+    },
+    {
+      "answer": "WALK",
+      "borrowed": false,
+      "clue": "To\n  take steps from place to place on foot.",
+      "direction": "across",
+      "grid_col": 14,
+      "grid_row": 12,
+      "lesson": 23,
+      "module": 7,
+      "original_answer": "WALK",
+      "priority": 2,
+      "row": 722
+    },
+    {
+      "answer": "ADAPT",
+      "borrowed": false,
+      "clue": "To adjust when new information arrives.",
+      "direction": "across",
+      "grid_col": 20,
+      "grid_row": 3,
+      "lesson": 18,
+      "module": 7,
+      "original_answer": "ADAPT",
+      "priority": 1,
+      "row": 529
+    },
+    {
+      "answer": "HEARING",
+      "borrowed": false,
+      "clue": "The\n  sense that detects sounds.",
+      "direction": "down",
+      "grid_col": 23,
+      "grid_row": 9,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "HEARING",
+      "priority": 1,
+      "row": 560
+    },
+    {
+      "answer": "RECALL",
+      "borrowed": false,
+      "clue": "To\n  bring a memory back to mind.",
+      "direction": "across",
+      "grid_col": 20,
+      "grid_row": 11,
+      "lesson": 21,
+      "module": 7,
+      "original_answer": "RECALL",
+      "priority": 1,
+      "row": 632
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "EXPECTATION",
+      "clue": "A belief about what is likely to happen.",
+      "row": 521
+    },
+    {
+      "answer": "MISMATCH",
+      "clue": "When a prediction and reality fail to agree.",
+      "row": 523
+    },
+    {
+      "answer": "INPUT",
+      "clue": "Information\n  arriving through a sense.",
+      "row": 524
+    },
+    {
+      "answer": "SIGNAL",
+      "clue": "A message carried by the nervous system.",
+      "row": 525
+    },
+    {
+      "answer": "ERROR",
+      "clue": "A\n  prediction that misses the mark contains one.",
+      "row": 526
+    },
+    {
+      "answer": "BRAIN",
+      "clue": "The\n  organ that uses experience to anticipate events.",
+      "row": 528
+    },
+    {
+      "answer": "MODEL",
+      "clue": "A\n  simplified explanation of how something works.",
+      "row": 530
+    },
+    {
+      "answer": "REALITY",
+      "clue": "What actually happened, rather than what was\n  predicted.",
+      "row": 531
+    },
+    {
+      "answer": "FAMILIAR",
+      "clue": "Known\n  from previous experience.",
+      "row": 532
+    },
+    {
+      "answer": "EXTEROCEPTION",
+      "clue": "The\n  sense of what is happening outside your body.",
+      "row": 555
+    },
+    {
+      "answer": "PROPRIOCEPTION",
+      "clue": "Your\n  body's built-in limb-position GPS.",
+      "row": 556
+    },
+    {
+      "answer": "INTEROCEPTION",
+      "clue": "The\n  sense of what is happening inside your body.",
+      "row": 557
+    },
+    {
+      "answer": "INTEGRATION",
+      "clue": "Combining\n  information from more than one sense.",
+      "row": 558
+    },
+    {
+      "answer": "POSITION",
+      "clue": "Where\n  a body part is in space.",
+      "row": 561
+    },
+    {
+      "answer": "HUNGER",
+      "clue": "Your\n  body's reminder that lunch exists.",
+      "row": 562
+    },
+    {
+      "answer": "TASTE",
+      "clue": "The\n  sense that recognises flavours.",
+      "row": 565
+    },
+    {
+      "answer": "TOUCH",
+      "clue": "Your\n  skin's sense of contact.",
+      "row": 566
+    },
+    {
+      "answer": "SENSE",
+      "clue": "To\n  detect information through the body.",
+      "row": 567
+    },
+    {
+      "answer": "FULLNESS",
+      "clue": "A\n  feeling that may signal a full bladder.",
+      "row": 568
+    },
+    {
+      "answer": "SALIENCE",
+      "clue": "The\n  brain's VIP list of what matters.",
+      "row": 590
+    },
+    {
+      "answer": "AROUSAL",
+      "clue": "The nervous system's level of alertness.",
+      "row": 591
+    },
+    {
+      "answer": "ATTENTION",
+      "clue": "What\n  you direct toward one thing rather than another.",
+      "row": 592
+    },
+    {
+      "answer": "FEEDBACKLOOP",
+      "clue": "A cycle where each response influences the\n  next.",
+      "row": 593
+    },
+    {
+      "answer": "DISTRACTION",
+      "clue": "Something\n  that draws attention away from a task.",
+      "row": 594
+    },
+    {
+      "answer": "OVERLOAD",
+      "clue": "When demands feel greater than you can\n  manage.",
+      "row": 595
+    },
+    {
+      "answer": "FILTER",
+      "clue": "To select some information while setting\n  other input aside.",
+      "row": 597
+    },
+    {
+      "answer": "CYCLE",
+      "clue": "A\n  pattern that repeats.",
+      "row": 598
+    },
+    {
+      "answer": "FATIGUE",
+      "clue": "Mental or physical tiredness.",
+      "row": 599
+    },
+    {
+      "answer": "COGNITION",
+      "clue": "Thinking,\n  understanding and using information.",
+      "row": 625
+    },
+    {
+      "answer": "WORKING",
+      "clue": "Your\n  mental scratchpad for the moment.",
+      "row": 626
+    },
+    {
+      "answer": "EPISODIC",
+      "clue": "Memory\n  for events from your own life, including when and where.",
+      "row": 627
+    },
+    {
+      "answer": "WORDFINDING",
+      "clue": "That\n  'tip of my tongue' search for a missing word.",
+      "row": 629
+    },
+    {
+      "answer": "ENCODING",
+      "clue": "Taking\n  information in so it can be remembered.",
+      "row": 630
+    },
+    {
+      "answer": "RETRIEVAL",
+      "clue": "Accessing\n  information stored in memory.",
+      "row": 631
+    },
+    {
+      "answer": "CUE",
+      "clue": "A\n  small hint that can help you remember.",
+      "row": 633
+    },
+    {
+      "answer": "FORGET",
+      "clue": "To\n  have a fact vanish just when you need it.",
+      "row": 634
+    },
+    {
+      "answer": "GAP",
+      "clue": "A\n  missing stretch in your memory of an event.",
+      "row": 635
+    },
+    {
+      "answer": "SWITCHING",
+      "clue": "Moving\n  your attention from one task to another.",
+      "row": 636
+    },
+    {
+      "answer": "EMOTION",
+      "clue": "A\n  feeling such as anger, sadness or joy.",
+      "row": 660
+    },
+    {
+      "answer": "REGULATE",
+      "clue": "Noticing and managing how you ________\n  emotions.",
+      "row": 661
+    },
+    {
+      "answer": "INVOLUNTARY",
+      "clue": "Happening\n  without deliberate choice.",
+      "row": 662
+    },
+    {
+      "answer": "CAPACITY",
+      "clue": "How\n  much you are able to manage at a given moment.",
+      "row": 664
+    },
+    {
+      "answer": "STRESS",
+      "clue": "Strain you feel when demands seem hard to\n  manage.",
+      "row": 665
+    },
+    {
+      "answer": "PAUSE",
+      "clue": "A\n  brief break during a difficult conversation.",
+      "row": 666
+    },
+    {
+      "answer": "NOTICE",
+      "clue": "To become aware of a change in your feelings.",
+      "row": 667
+    },
+    {
+      "answer": "NAME",
+      "clue": "To\n  put a word to a feeling.",
+      "row": 668
+    },
+    {
+      "answer": "AUTOMATIC",
+      "clue": "Happening without step-by-step conscious\n  planning.",
+      "row": 669
+    },
+    {
+      "answer": "FRUSTRATION",
+      "clue": "When\n  trying harder meets another obstacle.",
+      "row": 670
+    },
+    {
+      "answer": "INTENTION",
+      "clue": "What\n  you mean or plan to do.",
+      "row": 695
+    },
+    {
+      "answer": "AGENCY",
+      "clue": "The\n  feeling that you caused your own action.",
+      "row": 696
+    },
+    {
+      "answer": "NEUROPLASTICITY",
+      "clue": "Your\n  nervous system's ability to learn new tricks.",
+      "row": 698
+    },
+    {
+      "answer": "ADAPTATION",
+      "clue": "A\n  practical plan B for a tricky task.",
+      "row": 699
+    },
+    {
+      "answer": "CONSENT",
+      "clue": "Permission\n  given freely after a choice is explained.",
+      "row": 701
+    },
+    {
+      "answer": "AUTONOMY",
+      "clue": "Being\n  able to make decisions about your own life.",
+      "row": 702
+    },
+    {
+      "answer": "SKILL",
+      "clue": "An\n  ability that can improve through practice.",
+      "row": 704
+    },
+    {
+      "answer": "CHOICE",
+      "clue": "An\n  option you can accept or decline.",
+      "row": 706
+    },
+    {
+      "answer": "ABILITY",
+      "clue": "What\n  your body can actually do.",
+      "row": 708
+    },
+    {
+      "answer": "PRACTICE",
+      "clue": "Repeating\n  an action to develop a skill.",
+      "row": 709
+    },
+    {
+      "answer": "SUPPORT",
+      "clue": "Help\n  that makes room for the person's choices.",
+      "row": 710
+    },
+    {
+      "answer": "GUESS",
+      "clue": "An\n  estimate made without knowing for certain.",
+      "row": 534
+    },
+    {
+      "answer": "LEARN",
+      "clue": "To\n  gain knowledge from experience.",
+      "row": 536
+    },
+    {
+      "answer": "SOUND",
+      "clue": "What\n  your ears detect.",
+      "row": 538
+    },
+    {
+      "answer": "CHANGE",
+      "clue": "To make something different from before.",
+      "row": 541
+    },
+    {
+      "answer": "MOVE",
+      "clue": "To\n  change your body's position.",
+      "row": 542
+    },
+    {
+      "answer": "CHECK",
+      "clue": "To test whether a prediction was accurate.",
+      "row": 543
+    },
+    {
+      "answer": "SURPRISE",
+      "clue": "An\n  event that catches your expectations off guard.",
+      "row": 546
+    },
+    {
+      "answer": "EVIDENCE",
+      "clue": "Information that supports an explanation.",
+      "row": 547
+    },
+    {
+      "answer": "COMPARE",
+      "clue": "To\n  examine what two things have in common or how they differ.",
+      "row": 548
+    },
+    {
+      "answer": "CONTEXT",
+      "clue": "The surrounding circumstances of an\n  experience.",
+      "row": 549
+    },
+    {
+      "answer": "BALANCE",
+      "clue": "The\n  ability to stay upright while moving or standing.",
+      "row": 550
+    },
+    {
+      "answer": "PREPARE",
+      "clue": "To get ready for something expected.",
+      "row": 551
+    },
+    {
+      "answer": "EYES",
+      "clue": "Organs\n  that detect light for vision.",
+      "row": 569
+    },
+    {
+      "answer": "EARS",
+      "clue": "Organs\n  that help detect sound.",
+      "row": 570
+    },
+    {
+      "answer": "SKIN",
+      "clue": "Body\n  surface that senses pressure and temperature.",
+      "row": 571
+    },
+    {
+      "answer": "TONGUE",
+      "clue": "Muscular\n  organ with many taste buds.",
+      "row": 573
+    },
+    {
+      "answer": "PULSE",
+      "clue": "A\n  drumbeat you can feel at your wrist.",
+      "row": 574
+    },
+    {
+      "answer": "BREATH",
+      "clue": "One\n  cycle of breathing in and out.",
+      "row": 575
+    },
+    {
+      "answer": "FEEL",
+      "clue": "To\n  notice a bodily sensation.",
+      "row": 576
+    },
+    {
+      "answer": "ITCH",
+      "clue": "A\n  skin sensation that creates an urge to scratch.",
+      "row": 578
+    },
+    {
+      "answer": "LIMB",
+      "clue": "An\n  arm or leg whose position can be sensed.",
+      "row": 579
+    },
+    {
+      "answer": "JOINT",
+      "clue": "Where\n  two bones meet and movement can occur.",
+      "row": 580
+    },
+    {
+      "answer": "MOVEMENT",
+      "clue": "A\n  change in where a body part is.",
+      "row": 581
+    },
+    {
+      "answer": "SENSORY",
+      "clue": "Relating\n  to information from the senses.",
+      "row": 582
+    },
+    {
+      "answer": "PRESSURE",
+      "clue": "Force\n  felt against the skin.",
+      "row": 583
+    },
+    {
+      "answer": "INTERNAL",
+      "clue": "Located\n  inside the body rather than outside.",
+      "row": 584
+    },
+    {
+      "answer": "EXTERNAL",
+      "clue": "Located\n  outside the body.",
+      "row": 585
+    },
+    {
+      "answer": "AWARENESS",
+      "clue": "Noticing\n  something that is happening.",
+      "row": 586
+    },
+    {
+      "answer": "PAIN",
+      "clue": "An\n  unpleasant sensation that can demand attention.",
+      "row": 602
+    },
+    {
+      "answer": "REST",
+      "clue": "Time away from activity to recover.",
+      "row": 603
+    },
+    {
+      "answer": "QUIET",
+      "clue": "A\n  setting with little sound.",
+      "row": 604
+    },
+    {
+      "answer": "ALERT",
+      "clue": "Ready to notice or respond.",
+      "row": 605
+    },
+    {
+      "answer": "RELIEF",
+      "clue": "A lessening of discomfort.",
+      "row": 607
+    },
+    {
+      "answer": "DEMAND",
+      "clue": "Something\n  a task asks of you.",
+      "row": 608
+    },
+    {
+      "answer": "BREAK",
+      "clue": "A brief stop during a demanding activity.",
+      "row": 609
+    },
+    {
+      "answer": "EASE",
+      "clue": "To\n  make a task less demanding.",
+      "row": 610
+    },
+    {
+      "answer": "TENSE",
+      "clue": "How muscles may feel when you're highly\n  alert.",
+      "row": 615
+    },
+    {
+      "answer": "INTENSITY",
+      "clue": "How\n  strong a sound, feeling or sensation is.",
+      "row": 618
+    },
+    {
+      "answer": "PATTERN",
+      "clue": "A regular way in which something happens\n  again.",
+      "row": 619
+    },
+    {
+      "answer": "RESPONSE",
+      "clue": "An\n  action or feeling that follows an event.",
+      "row": 620
+    },
+    {
+      "answer": "CONCENTRATION",
+      "clue": "Giving a task sustained mental focus.",
+      "row": 621
+    },
+    {
+      "answer": "ENVIRONMENT",
+      "clue": "The\n  surroundings in which an activity takes place.",
+      "row": 622
+    },
+    {
+      "answer": "NOTE",
+      "clue": "A\n  short written reminder.",
+      "row": 638
+    },
+    {
+      "answer": "LIST",
+      "clue": "Several\n  reminders written one below another.",
+      "row": 639
+    },
+    {
+      "answer": "TASK",
+      "clue": "One\n  activity you mean to complete.",
+      "row": 642
+    },
+    {
+      "answer": "FACT",
+      "clue": "A\n  piece of information that can be checked as true.",
+      "row": 643
+    },
+    {
+      "answer": "WORD",
+      "clue": "A\n  single unit of spoken or written language.",
+      "row": 645
+    },
+    {
+      "answer": "WRITE",
+      "clue": "To\n  record a detail before you forget it.",
+      "row": 646
+    },
+    {
+      "answer": "THINK",
+      "clue": "To\n  consider something in your mind.",
+      "row": 647
+    },
+    {
+      "answer": "SLEEP",
+      "clue": "Night-time\n  rest that may affect concentration.",
+      "row": 648
+    },
+    {
+      "answer": "REMIND",
+      "clue": "To\n  bring something back to someone's attention.",
+      "row": 652
+    },
+    {
+      "answer": "REMINDER",
+      "clue": "Something\n  that prompts you to remember a task.",
+      "row": 653
+    },
+    {
+      "answer": "CALENDAR",
+      "clue": "A\n  dated record of appointments and plans.",
+      "row": 654
+    },
+    {
+      "answer": "PLANNING",
+      "clue": "Deciding\n  what steps to take before an activity.",
+      "row": 655
+    },
+    {
+      "answer": "VARIATION",
+      "clue": "Differences\n  in how an ability works from day to day.",
+      "row": 658
+    },
+    {
+      "answer": "ANGER",
+      "clue": "A strong feeling when something seems unfair.",
+      "row": 671
+    },
+    {
+      "answer": "WORRY",
+      "clue": "Unease\n  about what may happen.",
+      "row": 672
+    },
+    {
+      "answer": "JOY",
+      "clue": "A feeling of great happiness.",
+      "row": 673
+    },
+    {
+      "answer": "CALM",
+      "clue": "Feeling settled rather than agitated.",
+      "row": 675
+    },
+    {
+      "answer": "TALK",
+      "clue": "To express thoughts using spoken words.",
+      "row": 677
+    },
+    {
+      "answer": "MOOD",
+      "clue": "The\n  emotional weather that may linger for hours.",
+      "row": 680
+    },
+    {
+      "answer": "ASK",
+      "clue": "To request support rather than assume others\n  know what you need.",
+      "row": 681
+    },
+    {
+      "answer": "SHARE",
+      "clue": "To\n  tell someone what you are experiencing.",
+      "row": 682
+    },
+    {
+      "answer": "WAIT",
+      "clue": "To allow time before responding.",
+      "row": 683
+    },
+    {
+      "answer": "LIMIT",
+      "clue": "A\n  point beyond which you need a break.",
+      "row": 684
+    },
+    {
+      "answer": "SPEAK",
+      "clue": "To express yourself aloud.",
+      "row": 685
+    },
+    {
+      "answer": "SADNESS",
+      "clue": "A\n  feeling of sorrow or unhappiness.",
+      "row": 686
+    },
+    {
+      "answer": "CONFUSION",
+      "clue": "When your feelings don't come with\n  instructions.",
+      "row": 687
+    },
+    {
+      "answer": "DECISION",
+      "clue": "A\n  choice about what to do next.",
+      "row": 688
+    },
+    {
+      "answer": "TENSION",
+      "clue": "A feeling of being physically or mentally\n  wound up.",
+      "row": 691
+    },
+    {
+      "answer": "MEDICINE",
+      "clue": "Something\n  taken for health that can sometimes affect mood.",
+      "row": 692
+    },
+    {
+      "answer": "EMBARRASSMENT",
+      "clue": "An awkward, self-conscious feeling after a\n  social mistake.",
+      "row": 693
+    },
+    {
+      "answer": "ACCOMMODATION",
+      "clue": "An\n  adjustment that removes or reduces an access barrier.",
+      "row": 700
+    },
+    {
+      "answer": "TREMOR",
+      "clue": "Shaking\n  that follows a repeated rhythm without being chosen.",
+      "row": 711
+    },
+    {
+      "answer": "JERK",
+      "clue": "A\n  sudden, brief muscle movement.",
+      "row": 712
+    },
+    {
+      "answer": "TOOL",
+      "clue": "An\n  object that makes a task easier.",
+      "row": 713
+    },
+    {
+      "answer": "HELP",
+      "clue": "An\n  extra hand that still leaves you in charge.",
+      "row": 715
+    },
+    {
+      "answer": "PACE",
+      "clue": "The\n  rate or speed of an activity.",
+      "row": 716
+    },
+    {
+      "answer": "STEP",
+      "clue": "One\n  small part of a larger task.",
+      "row": 720
+    },
+    {
+      "answer": "VOICE",
+      "clue": "Having\n  a say in care decisions means having one.",
+      "row": 721
+    },
+    {
+      "answer": "WEAKNESS",
+      "clue": "Difficulty\n  producing normal muscle strength.",
+      "row": 724
+    },
+    {
+      "answer": "PROGRESS",
+      "clue": "Improvement\n  in what you can do over time.",
+      "row": 725
+    },
+    {
+      "answer": "APPROACH",
+      "clue": "A\n  way of carrying out an activity.",
+      "row": 726
+    },
+    {
+      "answer": "ACTIVITY",
+      "clue": "Something\n  you do or take part in.",
+      "row": 727
+    },
+    {
+      "answer": "CLUE",
+      "clue": "A\n  piece of information that helps explain what happened.",
+      "row": 554
+    },
+    {
+      "answer": "CROWD",
+      "clue": "A\n  busy group of people that can create competing sounds.",
+      "row": 624
+    },
+    {
+      "answer": "GUILT",
+      "clue": "A\n  feeling that you may have done something wrong.",
+      "row": 694
+    },
+    {
+      "answer": "AID",
+      "clue": "An\n  item used to make an activity easier.",
+      "row": 729
+    }
+  ]
+}
