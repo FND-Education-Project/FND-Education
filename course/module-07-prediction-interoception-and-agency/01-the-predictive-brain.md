@@ -292,6 +292,20 @@ Remember the ways you've already made places safer or easier to use? The same th
 
 In our next lesson, we'll meet the different kinds of information your brain receives from your body and surroundings. That will help us understand what predictions are being compared *with*.
 
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-18" aria-label="Browse The Predictive Brain"><img src="{{ '/assets/puzzles/thumbnails/the-predictive-brain-m7-18-normal.svg' | relative_url }}" alt="Preview of the The Predictive Brain crossword grid" loading="lazy" decoding="async"><span>The Predictive Brain</span></a>
+<div class="puzzle-downloads" role="group" aria-label="The Predictive Brain PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-18/the-predictive-brain-m7-18-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-18/the-predictive-brain-m7-18-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-18/the-predictive-brain-m7-18-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
 ### Optional colouring activity
 
 <a href="{{ '/assets/puzzles/colouring/lesson-18-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-18-coloring-book.png' | relative_url }}" alt="A basketball player watches a ball bounce away from its expected path while a small brain worker holds a blueprint of the predicted bounce. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
