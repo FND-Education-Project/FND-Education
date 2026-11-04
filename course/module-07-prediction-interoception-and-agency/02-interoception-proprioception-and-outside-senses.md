@@ -1,8 +1,8 @@
 # Interoception, Proprioception, and Outside Senses
 
-> **Working draft:** Human authored and project-lead approved. Audit 1 corrections applied November 4, 2026; Audit 2 and independent clinical review remain pending.
+> **Working draft:** Human authored and project-lead approved. Audit 1 corrections and editorial Audit 2 completed November 4, 2026; independent clinical review remains pending.
 
-Lesson 19 explores interoception, Proprioception, and Outside Senses through everyday examples, collaborative adaptations and clinical reasoning.
+Lesson 19 explores interoception, proprioception, and outside senses through everyday examples, collaborative adaptations and clinical reasoning.
 
 *Last reviewed: November 4, 2026*
 

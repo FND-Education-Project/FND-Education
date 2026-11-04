@@ -1,8 +1,8 @@
 # Salience, Arousal, and Feedback Loops
 
-> **Working draft:** Human authored and project-lead approved. Audit 1 corrections applied November 4, 2026; Audit 2 and independent clinical review remain pending.
+> **Working draft:** Human authored and project-lead approved. Audit 1 corrections and editorial Audit 2 completed November 4, 2026; independent clinical review remains pending.
 
-Lesson 20 explores salience, Arousal, and Feedback Loops through everyday examples, collaborative adaptations and clinical reasoning.
+Lesson 20 explores salience, arousal, and feedback loops through everyday examples, collaborative adaptations and clinical reasoning.
 
 *Last reviewed: November 4, 2026*
 
@@ -316,7 +316,7 @@ They were helping the person find ways to manage the demands of sensory informat
 
 The word *calm* in the quotation also doesn't mean the person was necessarily anxious. Reducing sensory demands and changing the body's level of readiness can be useful for reasons other than emotion.
 
-That distinction matters as we prepare for our next lesson.
+That distinction will matter when we explore emotions later in this module.
 
 ### Can these ideas help with assessment and recovery?
 

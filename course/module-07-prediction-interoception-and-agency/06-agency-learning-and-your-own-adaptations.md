@@ -1,6 +1,6 @@
 # Agency, Learning, and Your Own Adaptations
 
-> **Working draft:** Human authored and project-lead approved. Audit 1 corrections applied November 4, 2026; Audit 2 and independent clinical review remain pending.
+> **Working draft:** Human authored and project-lead approved. Audit 1 corrections and editorial Audit 2 completed November 4, 2026; independent clinical review remains pending.
 
 Lesson 23 explores intention, the feeling of agency and what the body can actually do, then considers learning, safe rehabilitation and meaningful individual adaptations.
 
@@ -643,7 +643,7 @@ Drane and colleagues (2021) discussed agency within a broader framework of inter
 
 **Why do these findings matter?** They help explain why movement, intention and the experience of making a movement happen can be studied as distinct aspects of neurological function.
 
-These findings offer a neurological perspective on why movement, intention and the experience of control deserve separate consideration. Although the mechanisms remain under investigation, Ruth's reported experience and observed movement each provide useful clinical information. Together, they can inform how her difficulties are understood and approached in rehabilitation.
+Ruth's reported experience and observed movement each provide useful clinical information. Together, they can inform how her difficulties are understood and approached in rehabilitation.
 
 ### From observation to rehabilitation
 

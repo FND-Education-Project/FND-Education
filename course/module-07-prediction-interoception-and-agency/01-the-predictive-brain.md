@@ -1,6 +1,6 @@
 # The Predictive Brain
 
-> **Working draft:** Human authored and project-lead approved. Audit 1 corrections applied November 4, 2026; Audit 2 and independent clinical review remain pending.
+> **Working draft:** Human authored and project-lead approved. Audit 1 corrections and editorial Audit 2 completed November 4, 2026; independent clinical review remains pending.
 
 Lesson 18 explores the Predictive Brain through everyday examples, collaborative adaptations and clinical reasoning.
 
@@ -297,7 +297,7 @@ In our next lesson, we'll meet the different kinds of information your brain rec
 Revisit the lesson with a crossword. The easy edition includes a word bank.
 
 <div class="lesson-puzzle-preview">
-<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-18" aria-label="Browse The Predictive Brain"><img src="{{ '/assets/puzzles/thumbnails/the-predictive-brain-m7-18-normal.svg' | relative_url }}" alt="Preview of the The Predictive Brain crossword grid" loading="lazy" decoding="async"><span>The Predictive Brain</span></a>
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-18" aria-label="Browse The Predictive Brain"><img src="{{ '/assets/puzzles/thumbnails/the-predictive-brain-m7-18-normal.svg' | relative_url }}" alt="Preview of The Predictive Brain crossword grid" loading="lazy" decoding="async"><span>The Predictive Brain</span></a>
 <div class="puzzle-downloads" role="group" aria-label="The Predictive Brain PDFs">
 <a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-18/the-predictive-brain-m7-18-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
 <a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-18/the-predictive-brain-m7-18-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
