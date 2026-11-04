@@ -386,6 +386,20 @@ See whether one demand could be made smaller without losing the part you enjoy. 
 
 Next, we'll explore cognitive difficulties: why questions, words and familiar information sometimes seem to disappear, and how this relates to—but isn't the same as—a diagnosis of FCD.
 
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-20" aria-label="Browse Salience, Arousal, and Feedback Loops"><img src="{{ '/assets/puzzles/thumbnails/salience-arousal-and-feedback-loops-m7-20-normal.svg' | relative_url }}" alt="Preview of the Salience, Arousal, and Feedback Loops crossword grid" loading="lazy" decoding="async"><span>Salience, Arousal, and Feedback Loops</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Salience, Arousal, and Feedback Loops PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-20/salience-arousal-and-feedback-loops-m7-20-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-20/salience-arousal-and-feedback-loops-m7-20-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-20/salience-arousal-and-feedback-loops-m7-20-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
 ### Optional colouring activity
 
 <a href="{{ '/assets/puzzles/colouring/lesson-20-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-20-coloring-book.png' | relative_url }}" alt="Two views of a social gathering: several competing sounds and demands in one, and easier conversation after the environment becomes quieter in the other. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
