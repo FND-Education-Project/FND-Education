@@ -230,7 +230,7 @@ And sometimes, changing just one part of a situation changes what happens next.
 
 ![Two views of a social gathering: several competing sounds and demands in one, and easier conversation after the environment becomes quieter in the other.](../../assets/images/lesson-20-illustration.png)
 
-<figcaption>Reducing one competing demand may make it easier to take part in a conversation, even when other symptoms remain. This is an example of changing the task, not a promise of symptom relief.</figcaption>
+<figcaption>Sometimes turning down the noise makes room for the conversation.</figcaption>
 
 </figure>
 
