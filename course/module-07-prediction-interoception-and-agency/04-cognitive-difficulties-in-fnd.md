@@ -449,6 +449,20 @@ What if you want to explain something important, but the information you need su
 
 And what if that difficulty itself becomes frightening or frustrating?
 
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-21" aria-label="Browse Cognitive Difficulties in FND"><img src="{{ '/assets/puzzles/thumbnails/cognitive-difficulties-in-fnd-m7-21-normal.svg' | relative_url }}" alt="Preview of the Cognitive Difficulties in FND crossword grid" loading="lazy" decoding="async"><span>Cognitive Difficulties in FND</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Cognitive Difficulties in FND PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-21/cognitive-difficulties-in-fnd-m7-21-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-21/cognitive-difficulties-in-fnd-m7-21-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-21/cognitive-difficulties-in-fnd-m7-21-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
 ### Optional colouring activity
 
 <a href="{{ '/assets/puzzles/colouring/lesson-21-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-21-coloring-book.png' | relative_url }}" alt="A person struggles to recall an appointment, then recognizes a detail after seeing a message, while an imaginary brain librarian locates a memory book. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
