@@ -122,7 +122,7 @@ And this brings us to something FND researchers find particularly interesting.
 
 ![A basketball player watches a ball bounce away from its expected path while a small brain worker holds a blueprint of the predicted bounce.](../../assets/images/lesson-18-illustration.png)
 
-<figcaption>The brain prepares for an expected bounce, but new sensory information may call for a different prediction. The brain worker and blueprint are playful metaphors, not a literal mechanism.</figcaption>
+<figcaption>The brain had a plan. The ball had other ideas!</figcaption>
 
 </figure>
 
