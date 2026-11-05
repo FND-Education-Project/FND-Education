@@ -184,11 +184,15 @@ We're still learning about other ways the nervous system works. The next module 
 
 ### Something to think about
 
-Does the same activity sometimes feel easier or harder depending on where you are, who's with you, or how instructions are given?
+Have you noticed a familiar task becoming easier or harder depending on how you're doing it?
+
+Perhaps putting a book on a shelf feels different from being asked to lift your arm just to show someone you can. Or perhaps the difference involves where you are, who is watching or how you're given instructions.
+
+What changed between those situations?
 
 ### How might that feel?
 
-How would it feel to ask for the conditions that help you, and have that request taken seriously?
+When something works better in one situation than another, what would you most want the people around you to understand? Would it help if they were interested in what made the activity easier, rather than expecting you to repeat it whenever they asked?
 
 ### One small step
 

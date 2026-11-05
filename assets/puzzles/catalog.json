@@ -5,7 +5,8 @@
     "3": "What May Cause or Affect FND?",
     "4": "Map Your FND and Other Health Conditions",
     "5": "Medical Safety and New Symptoms",
-    "6": "Attention and Automatic Control"
+    "6": "Attention and Automatic Control",
+    "7": "Prediction, Body Signals, and Agency"
   },
   "items": [
     {
@@ -543,6 +544,176 @@
         "Easy": "/assets/puzzles/crosswords/Module-6-Summary/fnd-education-module-6-review-m6-easy.pdf",
         "Normal": "/assets/puzzles/crosswords/Module-6-Summary/fnd-education-module-6-review-m6-normal.pdf",
         "Answer key": "/assets/puzzles/crosswords/Module-6-Summary/fnd-education-module-6-review-m6-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-18",
+      "module": 7,
+      "lesson": 18,
+      "title": "The Predictive Brain",
+      "image": "/assets/puzzles/thumbnails/the-predictive-brain-m7-18-normal.svg",
+      "course": "/course/m7/1/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-7-Lesson-18/the-predictive-brain-m7-18-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-7-Lesson-18/the-predictive-brain-m7-18-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-7-Lesson-18/the-predictive-brain-m7-18-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-18",
+      "module": 7,
+      "lesson": 18,
+      "title": "The Predictive Brain",
+      "image": "/assets/puzzles/colouring/lesson-18-coloring-book.png",
+      "course": "/course/m7/1/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-18-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-19",
+      "module": 7,
+      "lesson": 19,
+      "title": "Interoception, Proprioception, and Outside Senses",
+      "image": "/assets/puzzles/thumbnails/interoception-proprioception-and-outside-senses-m7-19-normal.svg",
+      "course": "/course/m7/2/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-7-Lesson-19/interoception-proprioception-and-outside-senses-m7-19-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-7-Lesson-19/interoception-proprioception-and-outside-senses-m7-19-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-7-Lesson-19/interoception-proprioception-and-outside-senses-m7-19-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-19",
+      "module": 7,
+      "lesson": 19,
+      "title": "Interoception, Proprioception, and Outside Senses",
+      "image": "/assets/puzzles/colouring/lesson-19-coloring-book.png",
+      "course": "/course/m7/2/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-19-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-20",
+      "module": 7,
+      "lesson": 20,
+      "title": "Salience, Arousal, and Feedback Loops",
+      "image": "/assets/puzzles/thumbnails/salience-arousal-and-feedback-loops-m7-20-normal.svg",
+      "course": "/course/m7/3/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-7-Lesson-20/salience-arousal-and-feedback-loops-m7-20-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-7-Lesson-20/salience-arousal-and-feedback-loops-m7-20-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-7-Lesson-20/salience-arousal-and-feedback-loops-m7-20-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-20",
+      "module": 7,
+      "lesson": 20,
+      "title": "Salience, Arousal, and Feedback Loops",
+      "image": "/assets/puzzles/colouring/lesson-20-coloring-book.png",
+      "course": "/course/m7/3/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-20-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-21",
+      "module": 7,
+      "lesson": 21,
+      "title": "Cognitive Difficulties in FND",
+      "image": "/assets/puzzles/thumbnails/cognitive-difficulties-in-fnd-m7-21-normal.svg",
+      "course": "/course/m7/4/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-7-Lesson-21/cognitive-difficulties-in-fnd-m7-21-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-7-Lesson-21/cognitive-difficulties-in-fnd-m7-21-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-7-Lesson-21/cognitive-difficulties-in-fnd-m7-21-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-21",
+      "module": 7,
+      "lesson": 21,
+      "title": "Cognitive Difficulties in FND",
+      "image": "/assets/puzzles/colouring/lesson-21-coloring-book.png",
+      "course": "/course/m7/4/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-21-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-22",
+      "module": 7,
+      "lesson": 22,
+      "title": "Emotional Regulation and Involuntary Symptoms",
+      "image": "/assets/puzzles/thumbnails/emotional-regulation-and-involuntary-symptoms-m7-22-normal.svg",
+      "course": "/course/m7/5/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-7-Lesson-22/emotional-regulation-and-involuntary-symptoms-m7-22-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-7-Lesson-22/emotional-regulation-and-involuntary-symptoms-m7-22-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-7-Lesson-22/emotional-regulation-and-involuntary-symptoms-m7-22-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-22",
+      "module": 7,
+      "lesson": 22,
+      "title": "Emotional Regulation and Involuntary Symptoms",
+      "image": "/assets/puzzles/colouring/lesson-22-coloring-book.png",
+      "course": "/course/m7/5/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-22-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "lesson-23",
+      "module": 7,
+      "lesson": 23,
+      "title": "Agency, Learning, and Your Own Adaptations",
+      "image": "/assets/puzzles/thumbnails/agency-learning-and-your-own-adaptations-m7-23-normal.svg",
+      "course": "/course/m7/6/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-7-Lesson-23/agency-learning-and-your-own-adaptations-m7-23-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-7-Lesson-23/agency-learning-and-your-own-adaptations-m7-23-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-7-Lesson-23/agency-learning-and-your-own-adaptations-m7-23-answer-key.pdf"
+      },
+      "collection": "crosswords"
+    },
+    {
+      "id": "lesson-23",
+      "module": 7,
+      "lesson": 23,
+      "title": "Agency, Learning, and Your Own Adaptations",
+      "image": "/assets/puzzles/colouring/lesson-23-coloring-book.png",
+      "course": "/course/m7/6/",
+      "downloads": {
+        "Open printable PDF": "/assets/puzzles/colouring/lesson-23-coloring-book.pdf"
+      },
+      "collection": "colouring"
+    },
+    {
+      "id": "module-7-review",
+      "module": 7,
+      "lesson": null,
+      "title": "FND Education — Module 7 Review",
+      "image": "/assets/puzzles/thumbnails/fnd-education-module-7-review-m7-normal.svg",
+      "course": "/course/m7/",
+      "downloads": {
+        "Easy": "/assets/puzzles/crosswords/Module-7-Summary/fnd-education-module-7-review-m7-easy.pdf",
+        "Normal": "/assets/puzzles/crosswords/Module-7-Summary/fnd-education-module-7-review-m7-normal.pdf",
+        "Answer key": "/assets/puzzles/crosswords/Module-7-Summary/fnd-education-module-7-review-m7-answer-key.pdf"
       },
       "collection": "crosswords"
     }

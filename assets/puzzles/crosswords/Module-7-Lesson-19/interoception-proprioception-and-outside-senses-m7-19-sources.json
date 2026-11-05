@@ -1,0 +1,386 @@
+{
+  "title": "Interoception, Proprioception, and Outside Senses",
+  "selection": {
+    "attempts": 300,
+    "eligible_earlier_question_count": 419,
+    "lesson": 19,
+    "max_side": 29,
+    "max_words": 36,
+    "mode": "lesson",
+    "module": 7,
+    "seed": 1,
+    "selected_question_count": 35
+  },
+  "score": 76.82,
+  "included": [
+    {
+      "answer": "INTEROCEPTION",
+      "borrowed": false,
+      "clue": "The\n  sense of what is happening inside your body.",
+      "direction": "across",
+      "grid_col": 3,
+      "grid_row": 3,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "INTEROCEPTION",
+      "priority": 1,
+      "row": 557
+    },
+    {
+      "answer": "SENSE",
+      "borrowed": false,
+      "clue": "To\n  detect information through the body.",
+      "direction": "down",
+      "grid_col": 6,
+      "grid_row": 2,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "SENSE",
+      "priority": 1,
+      "row": 567
+    },
+    {
+      "answer": "BALANCE",
+      "borrowed": false,
+      "clue": "A\n  sense that helps you remain upright.",
+      "direction": "across",
+      "grid_col": 0,
+      "grid_row": 6,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "BALANCE",
+      "priority": 2,
+      "row": 588
+    },
+    {
+      "answer": "POSITION",
+      "borrowed": false,
+      "clue": "Where\n  a body part is in space.",
+      "direction": "down",
+      "grid_col": 13,
+      "grid_row": 0,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "POSITION",
+      "priority": 1,
+      "row": 561
+    },
+    {
+      "answer": "SIGHT",
+      "borrowed": false,
+      "clue": "The\n  sense that detects light and shapes.",
+      "direction": "across",
+      "grid_col": 12,
+      "grid_row": 5,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "SIGHT",
+      "priority": 1,
+      "row": 559
+    },
+    {
+      "answer": "PULSE",
+      "borrowed": false,
+      "clue": "A\n  drumbeat you can feel at your wrist.",
+      "direction": "down",
+      "grid_col": 2,
+      "grid_row": 4,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "PULSE",
+      "priority": 2,
+      "row": 574
+    },
+    {
+      "answer": "LIMB",
+      "borrowed": false,
+      "clue": "An\n  arm or leg whose position can be sensed.",
+      "direction": "down",
+      "grid_col": 0,
+      "grid_row": 3,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "LIMB",
+      "priority": 2,
+      "row": 579
+    },
+    {
+      "answer": "TOUCH",
+      "borrowed": false,
+      "clue": "Your\n  skin's sense of contact.",
+      "direction": "down",
+      "grid_col": 9,
+      "grid_row": 0,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "TOUCH",
+      "priority": 1,
+      "row": 566
+    },
+    {
+      "answer": "EYES",
+      "borrowed": false,
+      "clue": "Organs\n  that detect light for vision.",
+      "direction": "across",
+      "grid_col": 2,
+      "grid_row": 8,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "EYES",
+      "priority": 2,
+      "row": 569
+    },
+    {
+      "answer": "BREATH",
+      "borrowed": false,
+      "clue": "One\n  cycle of breathing in and out.",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 0,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "BREATH",
+      "priority": 2,
+      "row": 575
+    },
+    {
+      "answer": "INTERNAL",
+      "borrowed": false,
+      "clue": "Located\n  inside the body rather than outside.",
+      "direction": "across",
+      "grid_col": 12,
+      "grid_row": 7,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "INTERNAL",
+      "priority": 2,
+      "row": 584
+    },
+    {
+      "answer": "FULLNESS",
+      "borrowed": false,
+      "clue": "A\n  feeling that may signal a full bladder.",
+      "direction": "down",
+      "grid_col": 19,
+      "grid_row": 5,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "FULLNESS",
+      "priority": 1,
+      "row": 568
+    },
+    {
+      "answer": "TONGUE",
+      "borrowed": false,
+      "clue": "Muscular\n  organ with many taste buds.",
+      "direction": "down",
+      "grid_col": 14,
+      "grid_row": 7,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "TONGUE",
+      "priority": 2,
+      "row": 573
+    },
+    {
+      "answer": "PRESSURE",
+      "borrowed": false,
+      "clue": "Force\n  felt against the skin.",
+      "direction": "across",
+      "grid_col": 7,
+      "grid_row": 12,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "PRESSURE",
+      "priority": 2,
+      "row": 583
+    },
+    {
+      "answer": "INTEGRATION",
+      "borrowed": false,
+      "clue": "Combining\n  information from more than one sense.",
+      "direction": "down",
+      "grid_col": 17,
+      "grid_row": 6,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "INTEGRATION",
+      "priority": 1,
+      "row": 558
+    },
+    {
+      "answer": "JOINT",
+      "borrowed": false,
+      "clue": "Where\n  two bones meet and movement can occur.",
+      "direction": "across",
+      "grid_col": 12,
+      "grid_row": 1,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "JOINT",
+      "priority": 2,
+      "row": 580
+    },
+    {
+      "answer": "FEEL",
+      "borrowed": false,
+      "clue": "To\n  notice a bodily sensation.",
+      "direction": "down",
+      "grid_col": 9,
+      "grid_row": 10,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "FEEL",
+      "priority": 2,
+      "row": 576
+    },
+    {
+      "answer": "SENSORY",
+      "borrowed": false,
+      "clue": "Relating\n  to information from the senses.",
+      "direction": "down",
+      "grid_col": 5,
+      "grid_row": 8,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "SENSORY",
+      "priority": 2,
+      "row": 582
+    },
+    {
+      "answer": "EXTEROCEPTION",
+      "borrowed": false,
+      "clue": "The\n  sense of what is happening outside your body.",
+      "direction": "across",
+      "grid_col": 5,
+      "grid_row": 16,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "EXTEROCEPTION",
+      "priority": 1,
+      "row": 555
+    },
+    {
+      "answer": "THIRST",
+      "borrowed": false,
+      "clue": "Your\n  body's request for a drink.",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 11,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "THIRST",
+      "priority": 1,
+      "row": 563
+    },
+    {
+      "answer": "SMELL",
+      "borrowed": false,
+      "clue": "The\n  sense that recognises odours.",
+      "direction": "down",
+      "grid_col": 8,
+      "grid_row": 14,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "SMELL",
+      "priority": 1,
+      "row": 564
+    },
+    {
+      "answer": "EARS",
+      "borrowed": false,
+      "clue": "Organs\n  that help detect sound.",
+      "direction": "across",
+      "grid_col": 16,
+      "grid_row": 12,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "EARS",
+      "priority": 2,
+      "row": 570
+    },
+    {
+      "answer": "HUNGER",
+      "borrowed": false,
+      "clue": "Your\n  body's reminder that lunch exists.",
+      "direction": "down",
+      "grid_col": 2,
+      "grid_row": 11,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "HUNGER",
+      "priority": 1,
+      "row": 562
+    },
+    {
+      "answer": "HEAT",
+      "borrowed": false,
+      "clue": "What\n  you feel from something very warm.",
+      "direction": "across",
+      "grid_col": 1,
+      "grid_row": 15,
+      "lesson": 19,
+      "module": 7,
+      "original_answer": "HEAT",
+      "priority": 3,
+      "row": 589
+    }
+  ],
+  "unused_selected_questions": [
+    {
+      "answer": "PROPRIOCEPTION",
+      "clue": "Your\n  body's built-in limb-position GPS.",
+      "row": 556
+    },
+    {
+      "answer": "HEARING",
+      "clue": "The\n  sense that detects sounds.",
+      "row": 560
+    },
+    {
+      "answer": "TASTE",
+      "clue": "The\n  sense that recognises flavours.",
+      "row": 565
+    },
+    {
+      "answer": "SKIN",
+      "clue": "Body\n  surface that senses pressure and temperature.",
+      "row": 571
+    },
+    {
+      "answer": "NOSE",
+      "clue": "The\n  body part that contains most smell receptors.",
+      "row": 572
+    },
+    {
+      "answer": "SOUND",
+      "clue": "What\n  hearing detects.",
+      "row": 577
+    },
+    {
+      "answer": "ITCH",
+      "clue": "A\n  skin sensation that creates an urge to scratch.",
+      "row": 578
+    },
+    {
+      "answer": "MOVEMENT",
+      "clue": "A\n  change in where a body part is.",
+      "row": 581
+    },
+    {
+      "answer": "EXTERNAL",
+      "clue": "Located\n  outside the body.",
+      "row": 585
+    },
+    {
+      "answer": "AWARENESS",
+      "clue": "Noticing\n  something that is happening.",
+      "row": 586
+    },
+    {
+      "answer": "CONTEXT",
+      "clue": "The\n  circumstances that affect how a sensation is understood.",
+      "row": 587
+    }
+  ]
+}

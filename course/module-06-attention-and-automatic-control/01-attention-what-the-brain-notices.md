@@ -114,13 +114,15 @@ When you return, those few words might help you pick up the thread. If noise is 
 
 ### Something to think about
 
-When you're trying to concentrate on something, what else might be competing for your attention?
+In Module 5, we looked at things that help when you go somewhere or need support.
 
-It could be a sound, a conversation, discomfort, or something on your mind.
+Imagine you've planned a visit. You know where to sit and how you'll get home if you need to leave early. But once you're there, you're trying to follow a conversation while other people are talking and your head hurts.
+
+Which part of the visit takes the most attention? What else is competing for it?
 
 ### How might that feel?
 
-How would it feel to make the activity a little easier, without expecting yourself to concentrate harder?
+You went because you wanted to enjoy someone's company, not spend the afternoon struggling to keep up. What would you most like to pay attention to if some of those other demands were smaller?
 
 ### One small step
 

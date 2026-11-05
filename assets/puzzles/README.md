@@ -36,7 +36,7 @@ Choose a collection, module and lesson. These optional activities offer a lighte
 
 [Crosswords](#crosswords) · [Colouring pages](#colouring-pages) · [Course](../../course/README.md)
 
-**Jump to a crossword:** [Lesson 15](#lesson-15-crossword) · [Lesson 16](#lesson-16-crossword) · [Lesson 17](#lesson-17-crossword) · [Module 4 review](#module-4-review-crossword) · [Module 5 review](#module-5-review-crossword) · [Module 6 review](#module-6-review-crossword) · [Lesson 12](#lesson-12-crossword) · [Lesson 13](#lesson-13-crossword) · [Lesson 14](#lesson-14-crossword) · [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Lesson 9](#physical-psychological-and-social-factors) · [Lesson 10](#making-sense-of-your-symptoms) · [Lesson 11](#building-your-symptom-map) · [Module 1 review](#module-1-review-crossword) · [Module 2 review](#module-2-review-crossword) · [Module 3 review](#module-3-review-crossword)
+**Jump to a crossword:** [Lesson 15](#lesson-15-crossword) · [Lesson 16](#lesson-16-crossword) · [Lesson 17](#lesson-17-crossword) · [Module 4 review](#module-4-review-crossword) · [Module 5 review](#module-5-review-crossword) · [Module 6 review](#module-6-review-crossword) · [Lesson 12](#lesson-12-crossword) · [Lesson 13](#lesson-13-crossword) · [Lesson 14](#lesson-14-crossword) · [Lesson 1](#what-is-fnd) · [Lesson 2](#biopsychosocial-what) · [Lesson 3](#recovery) · [Lesson 4](#available-capacity) · [Lesson 5](#positive-signs) · [Lesson 6](#tests-and-coexisting-conditions) · [Lesson 7](#causes-risk-factors-and-triggers) · [Lesson 8](#brain-networks-prediction-attention-and-agency) · [Lesson 9](#physical-psychological-and-social-factors) · [Lesson 10](#making-sense-of-your-symptoms) · [Lesson 11](#building-your-symptom-map) · [Module 1 review](#module-1-review-crossword) · [Module 2 review](#module-2-review-crossword) · [Module 3 review](#module-3-review-crossword) · [Lesson 18](#lesson-18-crossword) · [Lesson 19](#lesson-19-crossword) · [Lesson 20](#lesson-20-crossword) · [Lesson 21](#lesson-21-crossword) · [Lesson 22](#lesson-22-crossword) · [Lesson 23](#lesson-23-crossword) · [Module 7 review](#module-7-review-crossword)
 
 ## Crosswords
 
@@ -457,11 +457,130 @@ Revisit the lesson with a crossword. The easy edition includes a word bank.
 
 <a href="{{ '/course/m6/' | relative_url }}">Read the module</a>
 
+<span id="lesson-18-crossword"></span>
+
+### The Predictive Brain
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-18" aria-label="Browse The Predictive Brain"><img src="{{ '/assets/puzzles/thumbnails/the-predictive-brain-m7-18-normal.svg' | relative_url }}" alt="Preview of the The Predictive Brain crossword grid" loading="lazy" decoding="async"><span>The Predictive Brain</span></a>
+<div class="puzzle-downloads" role="group" aria-label="The Predictive Brain PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-18/the-predictive-brain-m7-18-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-18/the-predictive-brain-m7-18-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-18/the-predictive-brain-m7-18-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m7/1/' | relative_url }}">Read the lesson</a>
+
+<span id="lesson-19-crossword"></span>
+
+### Interoception, Proprioception, and Outside Senses
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-19" aria-label="Browse Interoception, Proprioception, and Outside Senses"><img src="{{ '/assets/puzzles/thumbnails/interoception-proprioception-and-outside-senses-m7-19-normal.svg' | relative_url }}" alt="Preview of the Interoception, Proprioception, and Outside Senses crossword grid" loading="lazy" decoding="async"><span>Interoception, Proprioception, and Outside Senses</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Interoception, Proprioception, and Outside Senses PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-19/interoception-proprioception-and-outside-senses-m7-19-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-19/interoception-proprioception-and-outside-senses-m7-19-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-19/interoception-proprioception-and-outside-senses-m7-19-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m7/2/' | relative_url }}">Read the lesson</a>
+
+<span id="lesson-20-crossword"></span>
+
+### Salience, Arousal, and Feedback Loops
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-20" aria-label="Browse Salience, Arousal, and Feedback Loops"><img src="{{ '/assets/puzzles/thumbnails/salience-arousal-and-feedback-loops-m7-20-normal.svg' | relative_url }}" alt="Preview of the Salience, Arousal, and Feedback Loops crossword grid" loading="lazy" decoding="async"><span>Salience, Arousal, and Feedback Loops</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Salience, Arousal, and Feedback Loops PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-20/salience-arousal-and-feedback-loops-m7-20-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-20/salience-arousal-and-feedback-loops-m7-20-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-20/salience-arousal-and-feedback-loops-m7-20-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m7/3/' | relative_url }}">Read the lesson</a>
+
+<span id="lesson-21-crossword"></span>
+
+### Cognitive Difficulties in FND
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-21" aria-label="Browse Cognitive Difficulties in FND"><img src="{{ '/assets/puzzles/thumbnails/cognitive-difficulties-in-fnd-m7-21-normal.svg' | relative_url }}" alt="Preview of the Cognitive Difficulties in FND crossword grid" loading="lazy" decoding="async"><span>Cognitive Difficulties in FND</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Cognitive Difficulties in FND PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-21/cognitive-difficulties-in-fnd-m7-21-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-21/cognitive-difficulties-in-fnd-m7-21-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-21/cognitive-difficulties-in-fnd-m7-21-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m7/4/' | relative_url }}">Read the lesson</a>
+
+<span id="lesson-22-crossword"></span>
+
+### Emotional Regulation and Involuntary Symptoms
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-22" aria-label="Browse Emotional Regulation and Involuntary Symptoms"><img src="{{ '/assets/puzzles/thumbnails/emotional-regulation-and-involuntary-symptoms-m7-22-normal.svg' | relative_url }}" alt="Preview of the Emotional Regulation and Involuntary Symptoms crossword grid" loading="lazy" decoding="async"><span>Emotional Regulation and Involuntary Symptoms</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Emotional Regulation and Involuntary Symptoms PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-22/emotional-regulation-and-involuntary-symptoms-m7-22-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-22/emotional-regulation-and-involuntary-symptoms-m7-22-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-22/emotional-regulation-and-involuntary-symptoms-m7-22-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m7/5/' | relative_url }}">Read the lesson</a>
+
+<span id="lesson-23-crossword"></span>
+
+### Agency, Learning, and Your Own Adaptations
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-23" aria-label="Browse Agency, Learning, and Your Own Adaptations"><img src="{{ '/assets/puzzles/thumbnails/agency-learning-and-your-own-adaptations-m7-23-normal.svg' | relative_url }}" alt="Preview of the Agency, Learning, and Your Own Adaptations crossword grid" loading="lazy" decoding="async"><span>Agency, Learning, and Your Own Adaptations</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Agency, Learning, and Your Own Adaptations PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-23/agency-learning-and-your-own-adaptations-m7-23-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-23/agency-learning-and-your-own-adaptations-m7-23-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-23/agency-learning-and-your-own-adaptations-m7-23-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m7/6/' | relative_url }}">Read the lesson</a>
+
+<span id="module-7-review-crossword"></span>
+
+### FND Education — Module 7 Review
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=module-7-review" aria-label="Browse FND Education — Module 7 Review"><img src="{{ '/assets/puzzles/thumbnails/fnd-education-module-7-review-m7-normal.svg' | relative_url }}" alt="Preview of the FND Education — Module 7 Review crossword grid" loading="lazy" decoding="async"><span>FND Education — Module 7 Review</span></a>
+<div class="puzzle-downloads" role="group" aria-label="FND Education — Module 7 Review PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Summary/fnd-education-module-7-review-m7-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Summary/fnd-education-module-7-review-m7-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Summary/fnd-education-module-7-review-m7-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+<a href="{{ '/course/m7/' | relative_url }}">Read the module</a>
+
 ## Colouring pages
 
 Choose a preview to open the printable PDF. Select landscape orientation and fit to page when printing.
 
 <div class="puzzle-grid puzzle-grid-colouring">
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-18-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-18-coloring-book.png' | relative_url }}" alt="Lesson 18 colouring-page preview" loading="lazy" decoding="async"><span>Lesson 18: The Predictive Brain <small>PDF</small></span></a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-19-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-19-coloring-book.png' | relative_url }}" alt="Lesson 19 colouring-page preview" loading="lazy" decoding="async"><span>Lesson 19: Interoception, Proprioception, and Outside Senses <small>PDF</small></span></a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-20-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-20-coloring-book.png' | relative_url }}" alt="Lesson 20 colouring-page preview" loading="lazy" decoding="async"><span>Lesson 20: Salience, Arousal, and Feedback Loops <small>PDF</small></span></a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-21-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-21-coloring-book.png' | relative_url }}" alt="Lesson 21 colouring-page preview" loading="lazy" decoding="async"><span>Lesson 21: Cognitive Difficulties in FND <small>PDF</small></span></a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-22-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-22-coloring-book.png' | relative_url }}" alt="Lesson 22 colouring-page preview" loading="lazy" decoding="async"><span>Lesson 22: Emotional Regulation and Involuntary Symptoms <small>PDF</small></span></a>
+<a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-23-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-23-coloring-book.png' | relative_url }}" alt="Lesson 23 colouring-page preview" loading="lazy" decoding="async"><span>Lesson 23: Agency, Learning, and Your Own Adaptations <small>PDF</small></span></a>
+
 <a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-15-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-15-coloring-book.png' | relative_url }}" alt="" loading="lazy"><span>Lesson 15: Attention: What the Brain Notices <small>PDF</small></span></a>
 
 <a class="puzzle-card" href="{{ '/assets/puzzles/colouring/lesson-16-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-16-coloring-book.png' | relative_url }}" alt="" loading="lazy"><span>Lesson 16: Automatic Control and Conscious Effort <small>PDF</small></span></a>

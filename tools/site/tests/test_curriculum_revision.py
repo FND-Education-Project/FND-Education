@@ -1,4 +1,4 @@
-"""Regressions for the canonical 19-module / 57-lesson curriculum.
+"""Regressions for the canonical 19-module / 59-lesson curriculum.
 
 The superseded 34 lessons were intentionally removed. This test deliberately
 does not require old URLs or their identities to remain in the site.
@@ -29,9 +29,9 @@ class CurriculumRevisionTests(unittest.TestCase):
 
     def test_one_uniform_source_structure(self):
         self.assertEqual(len(self.modules), 19)
-        self.assertEqual(len(self.lessons), 57)
+        self.assertEqual(len(self.lessons), 59)
         self.assertEqual([p.module_number for p in self.modules], list(range(1, 20)))
-        self.assertEqual(len({p.public_url for p in self.pages}), 77)
+        self.assertEqual(len({p.public_url for p in self.pages}), 79)
         self.assertTrue(all(p.is_core and p.progress_eligible for p in self.lessons))
         self.assertTrue(all(
             re.fullmatch(r'module-\d{2}-.+', p.source.parent.name)
@@ -48,6 +48,16 @@ class CurriculumRevisionTests(unittest.TestCase):
     def test_new_lessons_use_current_names_and_addresses(self):
         self.assertIn('/course/m6/1/', self.by_url)
         self.assertIn('/course/m7/4/', self.by_url)
+        self.assertIn('/course/m7/5/', self.by_url)
+        self.assertIn('/course/m7/6/', self.by_url)
+        self.assertIn('cognitive-difficulties-in-fnd.md',
+                      self.by_url['/course/m7/4/'].source.name)
+        self.assertIn('emotional-regulation-and-involuntary-symptoms.md',
+                      self.by_url['/course/m7/5/'].source.name)
+        self.assertIn('agency-learning-and-your-own-adaptations.md',
+                      self.by_url['/course/m7/6/'].source.name)
+        self.assertFalse((ROOT / 'course/module-07-prediction-interoception-and-agency/04-emotional-regulation-and-involuntary-symptoms.md').exists())
+        self.assertFalse((ROOT / 'course/module-07-prediction-interoception-and-agency/05-agency-learning-and-your-own-adaptations.md').exists())
         self.assertIn('/course/m10/3/', self.by_url)
         self.assertIn('/course/m11/1/', self.by_url)
         self.assertNotIn('/course/v2/m6/1/', self.by_url)
@@ -82,10 +92,10 @@ class CurriculumRevisionTests(unittest.TestCase):
             if not (6 <= page.module_number <= 10):
                 continue
             content = page.source.read_text(encoding='utf-8')
-            # Module 6 has completed the project lead's authorship review.
+            # Modules 6 and 7 have completed the project lead's authorship review.
             # Later draft modules retain their generated-content status.
             expected_authorship = (
-                'human' if page.module_number == 6 else 'automatically-generated')
+                'human' if page.module_number in (6, 7) else 'automatically-generated')
             self.assertEqual(
                 PREPARE.extract_course_status_and_authorship(content, page.source),
                 ('working-draft', expected_authorship),

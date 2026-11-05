@@ -160,7 +160,9 @@ When you do something familiar, such as getting dressed or reaching for a cup, d
 
 ### How might that feel?
 
-Is there a familiar activity you'd like to feel more comfortable doing, even if you still use help or equipment?
+Think about something you used to do without paying much attention to the movements, such as getting dressed, reaching for a cup or walking across a room.
+
+If it now takes a lot more effort, what part of that activity do you miss most? What would help you enjoy that part again, even if you still need equipment or help?
 
 ### One small step
 

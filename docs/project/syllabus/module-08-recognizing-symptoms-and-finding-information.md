@@ -1,27 +1,29 @@
 # Module 8 — Recognizing Symptoms and Finding Information
 
 **Part Two: Understanding Attention, Action, and Body Signals**<br>
-**Status:** Approved syllabus direction; source review completed October 26, 2026; lesson authoring and independent clinical review pending.<br>
-**Planned lessons:** 22–24 (future numbers, not yet live).
+**Status:** Approved syllabus direction; all three audience sections are seeded for Lessons 24–26, with community quotation candidates and research citations. The two new Person quotations were source-verified November 5, 2026. Human authoring, subsequent lesson audits and independent clinical review remain pending.<br>
+**Current lessons:** **24–26** (Module 8 local IDs 1–3). Earlier internal drafts use old proposed numbers; use the current course files as canonical.
+
+**Editing entry point (November 4, 2026):** [Complete Module 8 human-authoring handoff and nine audience-specific prompts](../../../reference/_internal/course/module-08-human-authoring-handoff-2026-11-04.md). This preserves the Module 6–7 refinements for voice, pace, relatable examples, sources, lesson endings and consent-based care; the new chat should follow one audience prompt at a time. The live course pages are generated seeds, not approved human text.
 
 ## Purpose
 
 Teach readers how to *describe and distinguish features* of similar experiences, navigate the Reference Library, and frame questions for assessment. This replaces symptom-by-symptom course instruction, **not** professional diagnosis.
 
-## Lesson 22 — Finding Words for What Happens
+## Lesson 24 — Finding Words for What Happens
 - Name observations in familiar language: what is felt, seen, remembered or reported by witnesses.
 - Distinguish strength, voluntary initiation, involuntary movement, sensation, balance, awareness, responsiveness, memory and recovery.
 - Describe onset, time course, before/during/after patterns, change over time and effects on daily life.
 - Make room for multiple symptoms, coexisting disorders and uncertain explanations.
 - Apply, rather than rebuild, the symptom map taught in Module 4.
 
-## Lesson 23 — Similar Experiences, Different Features
+## Lesson 25 — Similar Experiences, Different Features
 - Compare *descriptions* (not causes): rhythmic shaking/sudden jerks; reduced strength/difficulty starting movement; falling with or without altered awareness; responsiveness/memory gaps; spinning/unsteadiness; speech production/word finding. Features can overlap in the same person or event.
 - Use paired narrative scenarios and explain what further information would be useful to a clinician.
 - Connect appropriate attention and body-sensing vocabulary from Modules 6–7 without claiming it caused the symptoms.
 - Explain why appearance alone cannot establish a functional versus epileptic, cardiac, metabolic, vestibular or other diagnosis.
 
-## Lesson 24 — Navigate the Reference Library and Ask Better Questions
+## Lesson 26 — Navigate the Reference Library and Ask Better Questions
 - Begin from plain-language descriptions and locate several potentially relevant reading paths.
 - Demonstrate the three audience sections (Person, Supporters, Clinicians) in the [Diagnostic Signs](../../../reference/diagnostic-signs/README.md) and [Recovery Techniques](../../../reference/recovery-techniques/README.md) collections, plus [Co-occurring Conditions](../../../reference/co-occurring-conditions/README.md).
 - Teach how to read “Refers to”, scope boundaries, evidence labels, uncertainty and safety notes.
@@ -57,12 +59,12 @@ The [remaining new-lesson research briefs](../../../reference/_internal/course/n
 
 ## Person-section editorial drafts
 
-[Read the complete Person sections for this module](../../../reference/_internal/course/person-drafts-2026-10-26/module-08-recognizing-symptoms-and-finding-information.md). These are **internal human-review drafts**, not published course pages. The Supporter and Clinician sections deliberately remain undecided. Community quotes are candidates from the project's source notebook and require verification in their original context before publication. Evidence references, research citations, accessible illustrations, puzzles and final course integration remain follow-up Work tasks.
+[Read the complete Person sections for this module](../../../reference/_internal/course/person-drafts-2026-10-26/module-08-recognizing-symptoms-and-finding-information.md). These are **internal human-review drafts**, not published course pages. The original internal Person drafts were made before other audiences were integrated. The **current public-facing PR draft now contains all three seeded audiences**; the two new Person quotations in Lessons 25–26 completed source/context verification November 5. The module remains an editorial seed for human authoring and subsequent lesson audits. Evidence references, research citations, accessible illustrations, puzzles and final course integration remain follow-up Work tasks.
 
 ## Clinician-section editorial draft
 
-[Read the complete clinician sections for this module](../../../reference/_internal/course/clinician-drafts-2026-10-26/module-08-recognizing-symptoms-and-finding-information.md), prepared for all planned lessons and covering interdisciplinary use in assessment, individual technique selection, rehabilitation and outcome review. For full 17-presentation coverage across the five modules, see the [clinical coverage index](../../../reference/_internal/course/clinician-drafts-2026-10-26/README.md). **Supporter sections remain unwritten.** Clinical statements are grounded in internal source-review material, but final paper-level verification, citations and specialist sign-off are pending.
+[Read the complete clinician sections for this module](../../../reference/_internal/course/clinician-drafts-2026-10-26/module-08-recognizing-symptoms-and-finding-information.md), prepared for all planned lessons and covering interdisciplinary use in assessment, individual technique selection, rehabilitation and outcome review. For full 17-presentation coverage across the five modules, see the [clinical coverage index](../../../reference/_internal/course/clinician-drafts-2026-10-26/README.md). **Current Supporter sections are seeded in the course, not human-approved.** Clinical statements are grounded in internal source-review material, but final paper-level verification and specialist sign-off are pending.
 
 ## Supporter-section editorial draft
 
-[Read the complete Supporter sections for this module](../../../reference/_internal/course/supporter-drafts-2026-10-26/module-08-recognizing-symptoms-and-finding-information.md). The drafts develop **consent-based shared adaptations**, protect the person's autonomy, and show when diagnosis, safety, specialized recovery methods or treatment decisions should be passed to PT, OT, psychology, neurology, SLT or another appropriate professional. They include candidate source-linked caregiver quotations. For the [16-lesson quotation and referral framework](../../../reference/_internal/course/supporter-drafts-2026-10-26/README.md), see the internal index. **Community quotes and clinical claims still require the final source/citation review.**
+[Read the complete Supporter sections for this module](../../../reference/_internal/course/supporter-drafts-2026-10-26/module-08-recognizing-symptoms-and-finding-information.md). The drafts develop **consent-based shared adaptations**, protect the person's autonomy, and show when diagnosis, safety, specialized recovery methods or treatment decisions should be passed to PT, OT, psychology, neurology, SLT or another appropriate professional. They include candidate source-linked caregiver quotations. For the [16-lesson quotation and referral framework](../../../reference/_internal/course/supporter-drafts-2026-10-26/README.md), see the internal index. **Community quotations and clinical claims still require final source/citation review.** The two new quotations in Lessons 25–26 have completed original-source wording/context verification as of November 5; see the follow-up in the November 4 handoff.

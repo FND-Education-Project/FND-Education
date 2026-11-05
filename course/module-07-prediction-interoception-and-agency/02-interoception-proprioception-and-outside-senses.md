@@ -1,10 +1,12 @@
 # Interoception, Proprioception, and Outside Senses
 
-> **Working draft:** This page was automatically generated and is awaiting human authoring and further review.
+> **Working draft:** Human authored and project-lead approved. Audit 1 corrections and editorial Audit 2 completed November 4, 2026; independent clinical review remains pending.
 
-Lesson 19 explores interoception, Proprioception, and Outside Senses through everyday examples, collaborative adaptations and clinical reasoning.
+Lesson 19 explores interoception, proprioception, and outside senses through everyday examples, collaborative adaptations and clinical reasoning.
 
-*Last reviewed: October 26, 2026*
+*Last reviewed: November 4, 2026*
+
+*The Person section was human-authored and approved October 30, 2026; the Clinician section was human-edited and approved November 2, 2026; the Supporter section was human-edited and approved November 3, 2026. Audit 1 corrections were accepted and applied November 4, 2026.*
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -16,47 +18,372 @@ Lesson 19 explores interoception, Proprioception, and Outside Senses through eve
 
 ## For the Person With FND
 
-### How did you know you were hungry?
+### Three kinds of information
 
-You might notice a hollow feeling, a change in energy, a thought about food, or even irritability before you recognise hunger. Those clues don't all feel the same.
+You're in the kitchen making breakfast.
 
-Your nervous system gathers information from inside your body as well as from the world around you. Different systems help you understand different things.
+Your stomach growls. You hadn't realized how hungry you were.
 
-**[Interoception](../../glossary/README.md#interoception)** involves sensing and interpreting internal conditions, such as hunger, breathing, heartbeat or bladder fullness. (*citations* [1](#citation-1), [2](#citation-2))
+You reach toward the cupboard while looking at the toaster. Somehow, your hand finds the handle without your having to watch every movement of your arm.
 
-**[Proprioception](../../glossary/README.md#proprioception)** helps you know where your limbs are and how they are moving, even with your eyes closed.
+Then the kettle clicks off behind you.
 
-**[Exteroception](../../glossary/README.md#exteroception)** concerns information from the outside world, including sight, sound and touch.
+Three ordinary things just happened.
 
-These systems cooperate constantly. When you reach for a cup, you see where it is, sense your arm's position and may notice whether you're tired or uncomfortable.
+You noticed something **inside your body**, knew **where part of your body was**, and heard something **in the world around you**.
 
-### A feeling isn't a full explanation
+Your nervous system receives these different kinds of information all the time.
 
-Suppose your heart feels as though it's racing. That experience matters. But the feeling alone can't tell you why it's happening. Physical activity, medication effects, dehydration, an abnormal heart rhythm or other conditions may need consideration.
+Scientists have names for them. Understanding what each one does can help us make more sense of some unusual experiences with FND.
 
-The same is true of dizziness, numbness or a feeling of being disconnected from a limb. Knowing the *kind* of information involved helps you describe the symptom. It doesn't establish a diagnosis.
+### Information from the world around you
 
-And no one can consciously monitor every signal. Sometimes you only notice fatigue when you stop a demanding activity. Sometimes a sensation keeps drawing your attention. These experiences vary widely, both with and without FND.
+Let's begin with the kettle.
 
-### Why this belongs in our course
+You didn't need to see it to know it had switched off. Your ears picked up the sound.
 
-Scientists are studying whether differences in body-signal processing and interpretation contribute to some FND experiences. These are active areas of research, not proof that everyone with FND misreads their body.
+Your eyes tell you where the cupboard is. Your fingers feel the shape of its handle.
 
-Understanding interoception might still help you ask a useful question: “Is this a sensation I'm noticing, a measurement someone has taken, a difficulty controlling movement, or several things together?”
+These are examples of information coming from outside your body.
 
-That distinction can make medical conversations clearer.
+> **Exteroception:** Sensing information from the world around you, including sights, sounds, smells, tastes and things touching your skin.
 
-### Respecting the body you have
+That's a rather long word for something you use constantly!
 
-If you find it difficult to notice early fatigue, planning rest may be useful. If certain sensory input is overwhelming, a quiet space or adjusted lighting may make an activity more accessible. Neither adaptation requires you to label the underlying cause.
+Exteroception helps you recognize what's happening around you.
 
-You should not practise holding your breath, ignoring breathing trouble or pushing through a concerning symptom in order to test body awareness.
+It tells you that a car is approaching, that your phone is ringing or that the water from the tap feels cold against your fingers.
 
-**Something to think about:** When you say “I feel strange,” what sort of information are you trying to describe: inside-the-body sensation, body position, awareness, or something outside you?
+But getting information from the outside world is only part of the story.
 
-**One small step:** Try replacing one vague description with one precise, ordinary phrase. “My right foot feels distant,” for example, says more than “My leg is weird.” You don't have to decide why it happens.
+### How do you know where your arm is?
 
-Next we will look at why certain information becomes impossible to ignore.
+Return to the cupboard.
+
+You reached toward the handle without staring at your arm. Even while watching the toaster, you had some idea of where your hand and elbow were.
+
+How?
+
+Your nervous system receives information from muscles, tendons and joints that helps it understand the position and movement of your body.
+
+> **[Proprioception](../../glossary/README.md#proprioception):** Your body's sense of where its parts are and how they're moving, even when you aren't looking at them.
+
+Imagine pulling on a jacket.
+
+You can guide your second arm into its sleeve without watching your elbow every moment.
+
+Or think about sitting in a chair and shifting your feet underneath you.
+
+You usually have some sense of where your legs are, even when they're out of sight.
+
+That information is especially useful for movement.
+
+Your eyes can tell you where an object is. Your body-position sense helps you know where your hand is in relation to it.
+
+Together, they help you reach for the object. (*citations* [2](#citation-2))
+
+### What about information from inside your body?
+
+Now let's return to your growling stomach.
+
+You noticed hunger.
+
+Perhaps you also noticed that you were thirsty, warm or unusually tired.
+
+Your nervous system receives information about what's happening inside your body, too.
+
+> **[Interoception](../../glossary/README.md#interoception):** Sensing and interpreting conditions inside your body, such as hunger, thirst, heartbeat, breathing and bladder fullness. Much of this happens without conscious awareness.
+
+Interoception is fascinating because you don't have to think about every internal change.
+
+Your body responds to things such as temperature and physical activity throughout the day.
+
+Sometimes you become aware of what's happening.
+
+Your stomach growls. You feel thirsty. You notice your heart beating after climbing the stairs.
+
+Other times, your body makes adjustments without you noticing.
+
+And sometimes you may only recognize a need after it has become quite strong.
+
+Perhaps you've been concentrating on an interesting project and suddenly realize you should have eaten an hour ago.
+
+Your body has been sending information, but you weren't necessarily paying attention to it.
+
+**Receiving information and consciously noticing it aren't quite the same thing.** (*citations* [1](#citation-1))
+
+### Your brain combines these messages
+
+We've learned three names. What do we call them together?
+
+> **Sensory systems:** The different ways your nervous system gathers information from the world, your body's position and movement, and conditions inside your body.
+
+You can call what they provide **sensory information**. When your brain organizes and makes sense of it, that's called **sensory processing**.
+
+Let's put our three kinds of information together.
+
+Imagine you're carrying a basket of laundry through your home.
+
+Your eyes tell you where the doorway is.
+
+Your body-position sense helps you know where your arms are, even though the basket blocks part of your view.
+
+You notice that you're becoming warm and tired from carrying it.
+
+Your brain brings this information together while you move.
+
+It also uses what it learned from previous experiences.
+
+Remember Lesson 18? We learned that your brain makes predictions about what's likely to happen and adjusts them as new information arrives.
+
+Now we've met some of the information those predictions work with.
+
+And here's something important:
+
+**These three sensing systems aren't separate little rooms in your brain. They work together.**
+
+Other information matters too. For example, your inner ears help with balance and sensing head movement.
+
+You don't have to consciously organize all of this. Your nervous system does an extraordinary amount of work for you.
+
+<figure class="image-60center" markdown="1">
+
+![A person prepares breakfast as three small messengers bring outside, body-position and internal-body information to a shared brain workstation.](../../assets/images/lesson-19-illustration.png)
+
+<figcaption>Different senses provide information that the brain uses together.</figcaption>
+
+</figure>
+
+### When what you see and what you feel don't agree
+
+Imagine reaching down to adjust your shoe.
+
+You can see your foot.
+
+But something feels strange.
+
+Your foot seems farther away than it should, or your leg doesn't feel quite as clearly connected to the rest of your body.
+
+You look again.
+
+Your foot is exactly where you expected to see it.
+
+Yet the unusual feeling remains.
+
+That can be confusing. Your eyes are giving you one kind of information, while your experience of your body seems to be telling you something different.
+
+Some people with FND report unusual experiences of body position, sensation or movement.
+
+It doesn't mean that the foot has physically moved or that the person is imagining the sensation.
+
+But it also doesn't tell us exactly why the sensation feels different.
+
+Knowing the difference between **seeing where your foot is** and **feeling where your foot is** gives us better words for describing the experience.
+
+### A sensation, a measurement and an explanation
+
+Here's another situation.
+
+You're sitting quietly when you suddenly notice your heart beating strongly.
+
+It feels fast.
+
+What do you know?
+
+You know what you're experiencing: a strong or rapid-feeling heartbeat.
+
+But do you know how fast your heart is actually beating?
+
+Not necessarily.
+
+A measurement of your pulse or heart rhythm might help answer that question.
+
+And even if you know the measured rate, you still may not know *why* it's happening.
+
+Perhaps you've just been physically active. Perhaps you're dehydrated or taking a medication that affects your heart rate. Sometimes a heart rhythm problem or another medical condition needs assessment.
+
+These are three different questions:
+
+1. **What am I feeling?** My heartbeat feels unusually strong or fast.
+2. **What can be measured?** How fast is my heart beating, and what is its rhythm?
+3. **Why is it happening?** What explains the sensation or measurement?
+
+The same idea applies to many sensations.
+
+A person might describe dizziness, numbness, tingling or feeling disconnected from part of their body.
+
+A person living with FND and other health conditions described their experience this way:
+
+> “I get tingling, needles, numbness, and burning sensations.”
+
+*Figure 1. Community experience — describing sensations while living with more than one condition.* (*citations* [8](#citation-8))
+
+Those words tell us quite a lot about what the person feels.
+
+They don't tell us why.
+
+And that's perfectly fine. **Describing an experience accurately is useful even when its cause isn't understood yet.**
+
+### What might body sensing have to do with FND?
+
+Now we're ready to connect these ideas to FND.
+
+Some people with FND experience changes in sensation, body awareness or the feeling of where a body part is.
+
+Others experience dizziness, unusual internal sensations or difficulties coordinating movement.
+
+Scientists are investigating whether differences in how the brain receives and combines bodily information might contribute to certain functional symptoms.
+
+Remember the foot that looked to be in the right place but felt strangely distant?
+
+One question scientists might explore is how information about body position works together with what the eyes see.
+
+Another question is whether people with FND notice and interpret certain internal body signals differently.
+
+There's already some interesting research.
+
+In one study, scientists examined how people with FND experienced their heartbeats and how their brains responded to them.
+
+They used several different ways to study body awareness.
+
+Interestingly, **the different measurements didn't all tell the same story**.
+
+Some showed differences between the FND group and people without FND. Another task didn't find a clear difference between the groups. (*citations* [3](#citation-3))
+
+That teaches us something important.
+
+**Being aware of a sensation, judging it accurately and measuring the brain's response to it are different things.**
+
+Scientists are still learning how these abilities relate to FND.
+
+But you can see why studying them separately matters. If we assume they're all the same thing, we might miss something important about how the nervous system works.
+
+### Can these senses be tested?
+
+Yes. A clinician may gently touch different areas of your skin and ask what you feel.
+
+They might carefully move your finger or toe while your eyes are closed and ask which direction it moved. That helps check your body-position sense.
+
+If you feel faint when standing, they might measure your pulse and blood pressure lying down and standing up.
+
+These tests tell clinicians different things. They may help identify which abilities have changed or whether another medical condition needs attention.
+
+**No single sensory test diagnoses FND.** Clinicians consider the findings alongside your history, the rest of your examination and any tests you need.
+
+### What does this look like in everyday life?
+
+Think about three people who all say, "Something feels wrong."
+
+**The first person** says their leg feels distant, even though they can see exactly where it is.
+
+They might have difficulty describing their body's position or how the leg feels.
+
+**The second person** becomes uncomfortable under bright lighting and finds it increasingly difficult to concentrate.
+
+Their surroundings are providing information that has become difficult to manage. Migraine or other conditions may contribute.
+
+**The third person** feels dizzy when standing.
+
+Are they experiencing a spinning sensation, feeling faint or having trouble with balance?
+
+Those differences matter because each description may lead to different questions and medical assessments.
+
+These three people may all have FND, but their experiences aren't necessarily caused by the same thing.
+
+**Understanding what kind of information is involved helps us ask better questions. It doesn't establish the cause of the symptom.**
+
+### Can this knowledge help with recovery?
+
+Sometimes understanding the sensory systems helps a therapist choose useful support or rehabilitation.
+
+If your hand's position feels uncertain, an occupational therapist might help you use sight and touch together while folding a towel or handling another familiar object.
+
+If placing your foot is difficult, a physiotherapist might use a clear visual target while helping you practise a safe movement.
+
+If ordinary contact is painful or overwhelming, a therapist might explore a gradual, tolerable return to selected textures or activities.
+
+Different problems need different approaches, and not every technique suits every person. (*citations* [7](#citation-7))
+
+**Information from one sensory system can sometimes help you manage an activity when another kind of information feels unreliable.**
+
+This doesn't prove which system caused the symptom. It means we can look for a safer, more workable way to do something important.
+
+You can explore the [Functional Sensory Symptoms diagnostic reference](../../reference/diagnostic-signs/07-functional-sensory-symptoms.md) and the [detailed sensory recovery techniques](../../reference/recovery-techniques/functional_sensory_symptoms/README.md) when you're ready for more.
+
+### What can we do with this understanding?
+
+You don't need to monitor every sensation or conduct experiments on your body.
+
+Instead, you can begin using more precise words when something feels unusual.
+
+Compare these two descriptions:
+
+"My leg feels weird."
+
+And:
+
+"I can see where my foot is, but it doesn't feel like it's in the right place."
+
+The second gives someone more information about your experience.
+
+Or compare:
+
+"I feel dizzy."
+
+With:
+
+"When I stand up, I feel as though I'm going to faint."
+
+That description helps a clinician know which questions to ask next.
+
+You haven't had to figure out the cause yourself.
+
+You've simply described what you experience.
+
+### What have we learned?
+
+Your nervous system receives information from the world around you, from your body's position and movement, and from inside your body.
+
+These **sensory systems** work together. Your brain also uses attention, memory and predictions to help understand what's happening.
+
+Scientists are investigating whether differences in these abilities contribute to some FND symptoms.
+
+Understanding the kinds of information your brain receives gives us better words for our experiences and better questions to bring to our care team.
+
+### Something to think about
+
+Picture walking on uneven ground, sitting in a bright room, or noticing an uncomfortable feeling inside your body. Which information seems most important in that moment: where your body is, what is happening around you, or what you're feeling inside? You don't need to work out the cause to describe the experience.
+
+### How might that feel?
+
+If someone couldn't see or feel what was making that situation difficult, what would you want them to understand? Would having better words for it make asking for help a little easier?
+
+### One small step
+
+Think of a place you'd like to enjoy more comfortably. Softer light for reading, a quieter place to talk, or a safer route across uneven ground might help. The useful change may be something you've already arranged; what matters is whether it helps you take part.
+
+In our next lesson, we'll explore why some information becomes particularly important to the brain—and why certain sensations, sounds or demands can become so difficult to ignore.
+
+### Optional crossword
+
+Revisit the lesson with a crossword. The easy edition includes a word bank.
+
+<div class="lesson-puzzle-preview">
+<a class="puzzle-card" href="{{ '/puzzles/' | relative_url }}?collection=crosswords&amp;puzzle=lesson-19" aria-label="Browse Interoception, Proprioception, and Outside Senses"><img src="{{ '/assets/puzzles/thumbnails/interoception-proprioception-and-outside-senses-m7-19-normal.svg' | relative_url }}" alt="Preview of the Interoception, Proprioception, and Outside Senses crossword grid" loading="lazy" decoding="async"><span>Interoception, Proprioception, and Outside Senses</span></a>
+<div class="puzzle-downloads" role="group" aria-label="Interoception, Proprioception, and Outside Senses PDFs">
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-19/interoception-proprioception-and-outside-senses-m7-19-easy.pdf' | relative_url }}" target="_blank" rel="noopener">Easy</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-19/interoception-proprioception-and-outside-senses-m7-19-normal.pdf' | relative_url }}" target="_blank" rel="noopener">Normal</a>
+<a href="{{ '/assets/puzzles/crosswords/Module-7-Lesson-19/interoception-proprioception-and-outside-senses-m7-19-answer-key.pdf' | relative_url }}" target="_blank" rel="noopener">Answer key</a>
+</div>
+<p class="puzzle-status">PDFs open in a new tab.</p>
+</div>
+
+### Optional colouring activity
+
+<a href="{{ '/assets/puzzles/colouring/lesson-19-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener" title="Opens PDF in a new tab"><img src="{{ '/assets/puzzles/colouring/lesson-19-coloring-book.png' | relative_url }}" alt="A person prepares breakfast as three small messengers bring outside, body-position and internal-body information to a shared brain workstation. Outline version for colouring." style="width:180px;max-width:100%;height:auto;" loading="lazy"></a>
+
+<a href="{{ '/assets/puzzles/colouring/lesson-19-coloring-book.pdf' | relative_url }}" target="_blank" rel="noopener">Open the Lesson 19 colouring PDF (new tab)</a>, or <a href="{{ '/puzzles/' | relative_url }}?collection=colouring&amp;puzzle=lesson-19">browse the colouring collection</a>.
+
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -68,27 +395,141 @@ Next we will look at why certain information becomes impossible to ignore.
 
 ## For Family, Friends, and Other Supporters
 
-### You don't have to feel what they feel to take it seriously
+### When what you see isn't what they feel
 
-Someone says their heartbeat feels unusual, their foot doesn't seem to be where they expect, or light makes them feel unwell. You might see nothing different.
+Imagine your partner getting ready to leave the house.
 
-That doesn't mean nothing is happening. **Interoception** involves internal body signals; **proprioception** involves position and movement; **exteroception** involves what comes from outside, such as light and sound. Feeling, describing and interpreting those signals can be challenging. (*citations* [1](#citation-1), [2](#citation-2))
+They're putting on a jacket, but they're having difficulty with the zipper.
 
-### Collaborate on comfort, not a diagnosis
+You notice them looking closely at their fingers, adjusting their grip and trying again.
 
-Ask what the person is noticing and what help, if any, they want. They might prefer a chair, a change in lighting, help locating an object, written reminders or less touch.
+"What's wrong?" you ask.
 
-Don't challenge them to count heartbeats, close their eyes to test balance, hold their breath or repeatedly check sensations. A supporter's observation can be useful, but it is not a substitute for clinical measurement.
+"My hand feels strange. I can see where it is, but it doesn't quite feel like it's there."
 
-### Know when to hand over
+You look at their hand.
 
-**Palpitations, faintness or chest symptoms** may need primary-care, cardiology or autonomic assessment. **Choking or swallowing change** requires qualified swallowing/medical review; urgent breathing or choking emergencies require emergency action. **Visual changes** may require eye or neurological assessment. An **OT** can help match sensory adaptations to activities; a **PT** may assess balance and position sense.
+It's right there, holding the zipper.
 
-The person may have FND *and* a separate medical condition. Supporting them includes helping that condition receive its own care rather than explaining everything through interoception.
+You can understand why they're having trouble with it, but you can't understand the strange feeling they're describing.
 
-**Something to discuss together:** “Are you describing what you feel, what you're able to do, or what someone measured? Should we ask the clinician about the difference?”
+And perhaps your partner can't explain it much better than that.
 
-**One small thing:** Write down one question the person wants answered. You don't have to become their body-signal interpreter.
+It's an interesting difference, isn't it?
+
+**You can see where their hand is. They can see it too. But what they're experiencing doesn't quite match what either of you can see.**
+
+How can that happen?
+
+### We experience our bodies in different ways
+
+Think about reaching into your pocket for your keys.
+
+You usually know roughly where your hand is without having to look at it. You can feel the keys against your fingers and recognize their shape.
+
+Your nervous system is bringing together several kinds of information.
+
+Scientists have names for them.
+
+**Exteroception** is information from the world around us, including what we see, hear and feel against our skin.
+
+**Proprioception** helps us sense where our body parts are and how they're moving.
+
+**Interoception** concerns conditions inside our bodies, such as hunger, heartbeat and breathing.
+
+These different sources of information work together so naturally that we rarely think about them.
+
+But imagine how difficult ordinary activities might become if your sense of where your hand was didn't quite match what your eyes were showing you.
+
+Or if you felt unexpectedly hot, dizzy or uncomfortable without being able to understand the sensation.
+
+Some people with FND describe experiences like these. Researchers are investigating differences in how sensory information is represented and interpreted in FND, including how people experience signals coming from inside their bodies. (*citations* [1](#citation-1), [2](#citation-2), [3](#citation-3))
+
+The research is still developing, and different symptoms may have different explanations.
+
+But it gives us a useful way to understand something that can otherwise be quite confusing.
+
+**The way someone's body appears to us doesn't necessarily tell us how that body feels to them.**
+
+### When someone describes a feeling you can't check
+
+Let's imagine another situation.
+
+You're sitting with someone who has FND when they suddenly say:
+
+"My heart feels like it's racing."
+
+They look comfortable enough. They're sitting quietly, and nothing obvious has changed.
+
+You might wonder whether they're mistaken.
+
+But they're describing what they feel, not necessarily what a heart-rate monitor would measure.
+
+Those are different things.
+
+The sensation itself is worth understanding. Whether their heart is beating unusually fast, and why they're experiencing it, are questions that may need medical assessment.
+
+This is particularly important because someone with FND can also have a heart condition, migraine, an autonomic disorder or another illness affecting their bodily sensations.
+
+For a supporter, recognizing the difference can be helpful. You can listen to what the person is experiencing without needing to explain it or decide what's causing it.
+
+Sometimes being understood is the first thing the person needs.
+
+### What might help with the jacket?
+
+Let's return to your partner standing by the door.
+
+They're still working on the zipper.
+
+You could reach over and fasten it for them. That might be helpful, especially if they're tired or struggling.
+
+But perhaps they want to finish it themselves.
+
+You might simply ask:
+
+"Would you like me to hold the bottom of the jacket steady?"
+
+Maybe they say yes.
+
+Now they can concentrate on guiding the zipper while you hold the fabric in place.
+
+Or perhaps they'd prefer better lighting so they can see their fingers more clearly.
+
+Someone else might find the entire task easier while sitting down.
+
+There's no single answer because the difficulty may be different for each person.
+
+What matters is that your help follows from understanding what they're experiencing, rather than assuming that the difficulty must be the same as it looks from the outside.
+
+And sometimes the person won't know what would help. That's understandable too.
+
+### Making room for experiences we can't share
+
+Living alongside someone with FND can involve hearing descriptions that are difficult to imagine.
+
+"My leg doesn't feel like it's where it should be."
+
+"The light is making everything harder."
+
+"I can see my hand moving, but it feels strangely distant."
+
+You may never experience those sensations yourself.
+
+You may also notice things the person doesn't notice, and those observations can sometimes be useful when they describe their symptoms to a clinician.
+
+The two perspectives don't have to compete.
+
+Your observations tell part of the story. Their experiences tell another.
+
+As you begin understanding the different sensory systems, unfamiliar descriptions can become a little less mysterious.
+
+And that understanding can change ordinary moments together.
+
+Instead of wondering why someone needs to look at their hand to manage a zipper, you might understand why seeing what they're doing has become especially important.
+
+Instead of assuming an uncomfortable sensation must be obvious to everyone, you may recognize that some experiences simply aren't visible.
+
+**We don't have to experience the same sensations to understand why an ordinary activity might have become difficult for someone we care about.**
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -100,29 +541,103 @@ The person may have FND *and* a separate medical condition. Supporting them incl
 
 ## For Clinicians and the Care Team
 
-### Separate sensing, appraisal and measurement
+### Understanding the information behind the experience
 
-**Interoception** includes central representation and integration of bodily conditions, with processes both within and outside awareness; **proprioception** includes position, movement and force-related sensing; **exteroception** concerns outside sensory input. “Noticing,” self-reported sensitivity, confidence, accuracy on a test, physiological status and a neural response measure are not interchangeable. (*citations* [1](#citation-1), [2](#citation-2))
+In Lesson 18, we examined how the nervous system combines expectations with incoming information. We now look more closely at that information and how differences in sensing, interpretation and measurement influence clinical understanding and rehabilitation.
 
-The 2026 cross-sectional cardiac interoception study in a mixed-FND cohort reported group differences in some self-report and heartbeat-evoked EEG measures, while a heartbeat-counting accuracy comparison was not statistically significant. The selected method and sample cannot diagnose a person, establish a global interoceptive deficit or prescribe treatment. A nonsignificant accuracy comparison is not evidence of equivalence.
+Three interacting sensory systems are particularly relevant:
 
-**OT** can ask which sensations and environmental demands interfere with specific tasks and modify lighting, tactile inputs, instructions or seating. **Physiotherapy** can integrate assessed proprioceptive demands and balance safety into functional practice. **Psychology** may help reduce distress around symptoms or evaluate interpretation when relevant, but must not invalidate physiological findings. **Speech-language therapy** should consider eating, swallowing and airway complaints on their own medical safety pathway.
+- **Exteroception:** Information from the external environment, including vision, hearing and sensations arising from contact with the skin.
+- **Proprioception:** Information about body position, movement and force, primarily involving muscles, tendons and joints.
+- **Interoception:** Sensing and representing internal bodily conditions, including cardiovascular, respiratory and visceral signals, much of which occurs outside awareness.
 
-### Practice applications with limits
+These systems work together. For example, when someone buttons a shirt, their eyes help locate the button, cutaneous sensation provides information about the fabric, and proprioception contributes information about finger position and movement. The distinction becomes clinically important when a patient reports that an ordinary action no longer feels as it should. (*citations* [1](#citation-1), [2](#citation-2))
 
-**Functional sensory symptoms:** Describe distribution, timing, variability, disability and positive signs *in context*. Where a sensory rehabilitation approach is appropriate, set tolerable goals; do not use prolonged or painful stimulation to “prove” sensation is present. [Assessment](../../reference/diagnostic-signs/07-functional-sensory-symptoms.md) · [care](../../reference/recovery-techniques/07-functional-sensory-symptoms.md).
+### Clinical case: When a hand doesn't feel where it should
 
-**Functional visual symptoms:** Ophthalmic and neurological assessment remains essential to evaluate ocular, neurological and coexisting causes. OT may support contrast, reading access, lighting and environmental adaptations, while specialist rehabilitation is tailored to the assessed impairment. Photophobia or visual overload is not itself proof of functional visual loss. [Assessment](../../reference/diagnostic-signs/08-functional-visual-symptoms.md) · [care](../../reference/recovery-techniques/08-functional-visual-symptoms.md).
+*Maya is a fictional patient with an established FND diagnosis based on appropriate positive neurological findings.*
 
-**Persistent postural-perceptual dizziness (PPPD):** This is a defined functional vestibular disorder; it is not diagnosed simply because a person has FND or dizziness. Evaluate the symptom's timing, upright and motion-related context, visual sensitivity, relevant vestibular criteria and overlapping migraine, dysautonomia and other disorders. When indicated, vestibular therapists can build an individualized programme; OT can modify visually demanding environments. Avoid using “visual dependence” as a substitute for diagnosing dizziness. [Assessment](../../reference/diagnostic-signs/13-persistent-postural-perceptual-dizziness.md) · [care](../../reference/recovery-techniques/13-persistent-postural-perceptual-dizziness.md).
+She describes an unusual experience while folding laundry.
 
-**Functional swallowing symptoms and globus:** An altered sensation of swallowing does not rule out unsafe swallowing, aspiration, gastrointestinal or structural disease. Speech-language clinicians should assess swallowing safety and consider instrumental studies where appropriate before any retraining; psychological or attention-based approaches are not an alternative to managing airway and nutrition risk. [Assessment](../../reference/diagnostic-signs/10-functional-swallowing-and-globus.md) · [care](../../reference/recovery-techniques/10-functional-swallowing-and-globus.md).
+"I can see my hand holding the towel, but it feels farther away than it really is. Sometimes I can't tell where the edge of the fabric is until I look."
 
-### What to record
+Maya can usually complete the activity, although it now requires considerably more effort. She finds herself repeatedly looking at her hand, repositioning the towel and checking her grip.
 
-Document one meaningful everyday goal, separate symptom description from objective measures, state uncertainty and obtain a review of the *real-world result*. Never transfer heartbeat counting, breath holding, eyes-closed balance or other research procedures to home practice.
+**Which sensory system is involved?**
 
-**Evidence boundary:** Definitions are grounded in general neuroscience [1](#citation-1), [2](#citation-2); mixed-FND interoception research [3](#citation-3) does not establish treatment efficacy. Swallowing and communication management is primarily specialist consensus [4](#citation-4).
+Her account raises several possibilities. Difficulty detecting the fabric's edge could involve cutaneous sensation. Uncertainty about where her fingers are positioned might suggest altered proprioceptive experience, while feeling that the hand is distant could concern body representation or ownership.
+
+There might also be a motor coordination difficulty, while the increased attention required could affect task performance. These experiences can overlap, but they are not interchangeable. The useful starting point is to clarify which abilities have changed, which remain available and how those findings relate to Maya's everyday difficulty.
+
+### What can clinical assessment tell us?
+
+A sensory complaint can describe several different experiences, and clinical findings help distinguish them.
+
+For example, suppose Maya consistently recognizes the position of her fingers during examination but continues to describe her hand as distant. Her subjective experience of limb position has changed, while the particular proprioceptive ability tested remains demonstrable under those conditions. One finding does not invalidate the other.
+
+Similarly, Maya's difficulty locating the towel's edge might involve cutaneous sensation, but it could also reflect difficulty integrating sensation and movement during the activity. A sensory examination can help characterize which functions are affected. Its findings must be interpreted alongside the patient's history, clinical presentation and relevant neurological evidence. An unusual sensory distribution or an apparent inconsistency is not, by itself, sufficient to diagnose FND. (*citations* [5](#citation-5))
+
+The detailed methods and diagnostic limitations belong in the [sensory mapping reference](../../reference/diagnostic-signs/functional_sensory_symptoms/01-sensory-mapping-and-comparison.md).
+
+Maya's difficulty with the towel adds another kind of information. She can see her hand, understands the task and wants to complete it, yet handling the fabric requires more effort than expected. Her performance during this familiar activity helps connect the examination findings to the difficulty she experiences in daily life.
+
+**The clinically useful distinction is between what Maya feels, what an examination demonstrates and how those abilities contribute to the activity she wants to perform.**
+
+### From assessment to rehabilitation
+
+Suppose Maya's assessment supports an appropriate functional rehabilitation approach, with other relevant medical explanations considered. Her goal is straightforward: she wants to fold laundry comfortably again.
+
+One possibility involves using the activity itself to bring sensation and movement together. An occupational therapist working with Maya might explore how she identifies a towel's edge, feels its surface and follows its folds while handling it. Sight can remain available when helpful; a useful activity does not become more therapeutic simply because the person is deprived of information that supports it.
+
+**Why might this approach help?** It brings tactile information, movement and a familiar functional goal together. The distinction from an isolated sensory test is important: recognizing a sensation during examination and using that information while manipulating an object are related, but different abilities. Meaningful activity provides an opportunity to explore how available sensory information contributes to functional hand use.
+
+Sensory discrimination and movement-associated feedback are described among approaches to functional sensory rehabilitation, although evidence for specific techniques remains limited. (*citations* [7](#citation-7)) The rationale is therefore clinical and individualized: the activity may provide a tolerable opportunity to explore sensation and improve functional hand use. It does not establish which neural mechanism produced Maya's symptoms.
+
+### Did the rehabilitation approach help?
+
+Suppose Maya begins folding the towel with fewer interruptions. The clinician can examine whether she locates the fabric more consistently, completes the task with less assistance, and experiences less effort or discomfort. Equally important is what happens outside the appointment: Can Maya fold laundry at home using the approach? Does it help with another familiar activity, such as putting on a jacket?
+
+Those observations help distinguish improvement during a supported activity from improvement that carries into everyday life. They also help reveal whether the approach is suitable for Maya. A particular texture might improve her ability to locate the fabric but cause discomfort or sensory overload. In that situation, the benefit must be considered alongside the additional difficulty.
+
+Likewise, continued difficulty with the task might suggest that the intervention has not adequately addressed the problem. Sensory experience, motor coordination and task demands may each contribute to the result. The treatment goal is improved hand use and participation, with comfort and safety preserved.
+
+**A successful functional activity is a meaningful rehabilitation outcome even when the underlying sensory-processing mechanism remains uncertain.**
+
+### What can interoception research teach us?
+
+Maya's experience primarily concerns external sensation, body position and possibly body representation. Interoception raises a different clinical question: how the nervous system senses and represents conditions inside the body. Both subjects illustrate why subjective experience and measured function must be distinguished.
+
+Khalsa and colleagues (2018) described interoception as involving several related processes, including the sensing, interpretation and awareness of internal bodily information. (*citations* [1](#citation-1))
+
+A 2026 study by Stoffel and colleagues compared 44 people with FND with 48 healthy controls. The researchers found differences between participants with FND and healthy controls in some self-reported measures and heartbeat-related brain responses. However, a heartbeat-counting task did not show a statistically significant difference between groups. (*citations* [3](#citation-3))
+
+**Why does that matter?** These measurements are not interchangeable. What someone experiences, how they perform on a particular sensory task and what researchers record from the brain may tell different parts of the story. The group findings help frame clinical questions; interpreting an individual's symptoms still draws on their own history and assessment. A statistically inconclusive task comparison also leaves open whether a meaningful difference exists.
+
+Consider a patient who reports that their heart is racing. The sensation is real as an experience, but it does not establish whether the heart rate is elevated or explain why the person feels it. These are separate clinical questions, informed by physiological measurements, history and other findings. FND can coexist with arrhythmia, orthostatic disorders, medication effects or other medical conditions.
+
+The study is useful because it reinforces the importance of keeping those questions distinct. It does not provide an FND diagnostic test or demonstrate that interoceptive retraining would benefit a particular patient. Clinicians interested in the EEG methods, statistical findings and study limitations can explore the [original paper](#citation-3).
+
+### Why might different professionals contribute?
+
+Maya's principal difficulty concerns using her hand during familiar activities. Occupational therapy offers a relevant perspective because it examines the relationship between sensation, movement, the demands of an activity and participation in daily life. If a substantial motor-control problem is also identified, physiotherapy may contribute a different understanding of movement and rehabilitation.
+
+Neither professional perspective is automatically sufficient for every sensory presentation. For example, visual loss raises questions that may involve ophthalmological or neurological expertise. Dizziness can involve vestibular, migraine, cardiovascular or other explanations; persistent postural-perceptual dizziness has specific diagnostic criteria rather than being interchangeable with FND or dizziness generally. (*citations* [6](#citation-6))
+
+An altered swallowing sensation presents another distinction. Subjective discomfort, swallowing function and airway safety are different clinical questions. Speech-language therapy expertise may be relevant, while medical assessment remains essential when structural, neurological, nutritional or aspiration concerns are present. (*citations* [4](#citation-4))
+
+These examples illustrate why collaboration is most useful when it answers a specific clinical question. The relevant handoff connects the patient's experience and functional goal with findings that another professional can help interpret or address.
+
+For more detailed assessment and rehabilitation information, the Reference Library includes [functional sensory symptoms](../../reference/diagnostic-signs/07-functional-sensory-symptoms.md), [sensory recovery approaches](../../reference/recovery-techniques/functional_sensory_symptoms/README.md), [sensation with meaningful movement](../../reference/recovery-techniques/functional_sensory_symptoms/04-sensation-with-meaningful-movement.md) and [visual or mirror feedback](../../reference/recovery-techniques/functional_sensory_symptoms/06-visual-and-mirror-feedback.md).
+
+### What should clinicians take from this lesson?
+
+Sensory experiences arise from interacting sources of information. Understanding exteroception, proprioception and interoception helps distinguish what a person feels, what an examination or measurement establishes and what remains unexplained.
+
+In Maya's case, that distinction creates an opportunity to understand why an ordinary hand activity has become difficult and how sensory information might support more comfortable participation. The interoception research illustrates the same broader principle from another perspective: subjective experiences, task performance and physiological measurements can provide different, complementary information.
+
+Together, these ideas improve the questions clinicians can ask and the reasoning behind individualized rehabilitation.
+
+**Clinical takeaway:** Sensory experience, measured function and underlying cause are different clinical questions. Understanding their relationship can reveal useful rehabilitation opportunities while preserving appropriate medical assessment and meaningful everyday outcomes.
 
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
@@ -134,7 +649,7 @@ Document one meaningful everyday goal, separate symptom description from objecti
 
 ## Research and Sources
 
-General neuroscience, FND research findings, proposed mechanisms, professional consensus and treatment trials are distinguished in this lesson. Practical scenes and suggested conversations are illustrative; they are not tested treatment protocols. Community excerpts are individual accounts and do not establish diagnoses, typical outcomes or treatment effects.
+Reviews of interoception and proprioception provide the background. An FND study compares self-report, heartbeat-task performance and brain responses, while clinical reviews and consensus guidance inform assessment and rehabilitation. The community account describes sensations across coexisting conditions.
 
 | Citation | Figure | Full citation |
 |---|---|---|
@@ -145,5 +660,4 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-5"></a>**[5]** | — | Bennett K, Diamond C, Hoeritzauer I, et al. **A practical review of functional neurological disorder (FND) for the general physician.** Clin Med. 2021;21:28–36. doi:10.7861/clinmed.2020-0987. [Original](https://pmc.ncbi.nlm.nih.gov/articles/PMC7850207/) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/33479065/). [FND-CIT-0001](../../research/citation-index.md#fnd-cit-0001). |
 | <a id="citation-6"></a>**[6]** | — | Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622) [FND-CIT-0027](../../research/citation-index.md#fnd-cit-0027). |
 | <a id="citation-7"></a>**[7]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
-
-*Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
+| <a id="citation-8"></a>**[8]** | Figure 1 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1hmedeg/please_explain_your_symptoms_in_detail/). Sensory description from a person reporting FND and coexisting conditions. Wording and surrounding context checked November 3, 2026. Individual lived experience; the sensations are not all attributed to FND. [FND-CIT-0323](../../research/citation-index.md#fnd-cit-0323).  |

@@ -170,6 +170,13 @@ This table gives every source a stable project ID. Course pages repeat a compact
 | [FND-CIT-0290](#fnd-cit-0290) | JelloAdventurous, community account | Lived experience | Mobility aids and participation | [Lesson 11](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md) |
 | [FND-CIT-0291](#fnd-cit-0291) | liamreee, community account | Lived experience | Memory issues? | [Lesson 11](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md) |
 | [FND-CIT-0292](#fnd-cit-0292) | Vellaciraptor, community account | Lived experience | Post-eating sensory experience | [Lesson 11](../course/part-1-understanding-fnd/module-04-mapping-your-individual-condition/02-building-and-using-your-personal-symptom-map.md) |
+| [FND-CIT-0323](#fnd-cit-0323) | Community contributor | Lived experience | Sensory descriptions | [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md) |
+| [FND-CIT-0324](#fnd-cit-0324) | Community contributor | Lived experience | OT support | [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md) |
+| [FND-CIT-0325](#fnd-cit-0325) | Bhome et al., 2022 | Cross-sectional study | Metacognition in FCD | [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md) |
+| [FND-CIT-0326](#fnd-cit-0326) | Pick et al., 2026 | Case-control study | Cognition in motor and seizure FND | [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md) |
+| [FND-CIT-0327](#fnd-cit-0327) | Johnson et al., 1993 | Review | Memory source monitoring | [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md) |
+| [FND-CIT-0328](#fnd-cit-0328) | NICE, 2022 | Guideline | Medication withdrawal | [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md) |
+| [FND-CIT-0329](#fnd-cit-0329) | American Psychiatric Association | Professional guidance | Dissociation and DID | [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md) |
 
 ## Functional speech and voice detailed-page citation use map
 
@@ -380,7 +387,9 @@ Use this source for its broad clinical overview, diagnostic-pitfall table, posit
 **Module 5 current use (October 25, 2026):** [Lesson 12](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md).
 
 
-**Concepts-first course use:** [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md); [Lesson 23](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md); [Lesson 24](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md); [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md).
+**Concepts-first course use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md); [Lesson 23](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md); [Lesson 24](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md); [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md).
+
+**Module 7 current use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md).
 
 ## FND-CIT-0002
 
@@ -406,6 +415,8 @@ Pick S, Goldstein LH, Perez DL, Nicholson TR. Emotional processing in functional
 
 Use this source for a psychosocial and emotional-processing emphasis within an integrative biopsychosocial account. It supports psychosocial adversity as a possible risk factor in some people, not as a diagnostic requirement or universal cause.
 
+**Module 7 current use:** [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md).
+
 ## FND-CIT-0006
 
 Drane DL, Fani N, Hallett M, Khalsa SS, Perez DL, Roberts NA. A framework for understanding the pathophysiology of functional neurological disorder. *CNS Spectrums*. 2021;26(6):555–561. [https://doi.org/10.1017/S1092852920001789](https://doi.org/10.1017/S1092852920001789)
@@ -413,7 +424,9 @@ Drane DL, Fani N, Hallett M, Khalsa SS, Perez DL, Roberts NA. A framework for un
 Use this source for a proposed circuit-and-construct framework involving emotion processing, agency, attention, interoception, and predictive processing. Label it as a developing pathophysiology framework rather than a settled explanation for every person.
 
 
-**Concepts-first course use:** [Lesson 18](../course/concepts-first/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 21](../course/concepts-first/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md).
+**Concepts-first course use:** [Lesson 18](../course/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 23](../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md).
+
+**Module 7 current use:** [Lesson 18](../course/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md); [Lesson 23](../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md).
 
 ## FND-CIT-0007
 
@@ -433,6 +446,8 @@ Hingray C, Popkirov S, Kozlowska K, et al.; ILAE Functional/Dissociative Seizure
 
 Use this source for the International League Against Epilepsy task force’s 2025 proposal to use “functional/dissociative seizures” (FDS), including its explanation of why “functional”, “dissociative”, and the slash terminology may each be useful. Treat FDS as a task-force proposal intended to improve international consistency, while acknowledging that other current terms remain in use.
 
+**Module 7 current use:** [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md).
+
 ## FND-CIT-0010
 
 Tolchin B, Goldstein LH, Reuber M, Stone J, Perez DL, LaFrance WC Jr, et al. Management of Functional Seizures Practice Guideline Executive Summary: Report of the AAN Guidelines Subcommittee. *Neurology*. 2026;106(1):e214466. [https://doi.org/10.1212/WNL.0000000000214466](https://doi.org/10.1212/WNL.0000000000214466)
@@ -446,7 +461,9 @@ Use this source for current American Academy of Neurology evidence-based guidanc
 **Additional current use:** [Module 5 overview](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/README.md).
 
 
-**Concepts-first course use:** [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md); [Lesson 23](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md); [Lesson 24](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 27](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md).
+**Concepts-first course use:** [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md); [Lesson 23](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md); [Lesson 24](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 27](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/03-when-someone-promises-to-rewire-your-brain.md).
+
+**Module 7 current use:** [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md).
 
 ## FND-CIT-0011
 
@@ -463,7 +480,9 @@ Use this consensus source for flexible, person-chosen functional goals and its d
 **Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
 
 
-**Concepts-first course use:** [Lesson 15](../course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 16](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md); [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 21](../course/concepts-first/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md); [Lesson 24](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md); [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md); [Lesson 29](../course/concepts-first/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md); [Lesson 30](../course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md).
+**Concepts-first course use:** [Lesson 15](../course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md); [Lesson 16](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 17](../course/module-06-attention-and-automatic-control/03-distraction-external-focus-and-context.md); [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 23](../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md); [Lesson 24](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md); [Lesson 28](../course/concepts-first/module-10-pacing-and-available-capacity/01-what-uses-your-available-capacity.md); [Lesson 29](../course/concepts-first/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md); [Lesson 30](../course/concepts-first/module-10-pacing-and-available-capacity/03-balancing-practice-rest-and-everyday-life.md).
+
+**Module 7 current use:** [Lesson 18](../course/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md); [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md); [Lesson 23](../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md).
 
 ## FND-CIT-0012
 
@@ -573,16 +592,19 @@ Use this source for professional consensus on positive assessment and speech-and
 **Module 5 current use (October 25, 2026):** [Lesson 13](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/02-emergency-information-and-individual-safety-plans.md); [Lesson 14](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/03-using-your-safety-plan-and-deciding-when-to-get-urgent-help.md).
 
 
-**Concepts-first course use:** [Lesson 16](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 18](../course/concepts-first/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md).
+**Concepts-first course use:** [Lesson 16](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md); [Lesson 18](../course/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 25](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/01-how-rehabilitation-uses-learning.md); [Lesson 26](../course/concepts-first/module-09-rehabilitation-and-neuroplasticity/02-choosing-practice-that-fits-your-life.md).
 
 **Module 6 additional current use (October 29, 2026):** [Lesson 15](../course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md).
 
+**Module 7 current use:** [Lesson 18](../course/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md); [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md).
 
 ## FND-CIT-0026
 
 McWhirter L, Ritchie C, Stone J, Carson A. Identifying functional cognitive disorder: a proposed diagnostic risk model. *CNS Spectrums*. 2022;27(6):754–763. [https://doi.org/10.1017/S1092852921000845](https://doi.org/10.1017/S1092852921000845)
 
 Use this source for internal inconsistency as a central positive feature of Functional Cognitive Disorder and for relevant differential features. Treat the risk model as proposed rather than a universally validated calculator, and do not diagnose FCD from normal imaging or one normal test.
+
+**Module 7 current use:** [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md).
 
 ## FND-CIT-0027
 
@@ -593,7 +615,9 @@ Use this source for the five consensus diagnostic criteria for PPPD and for the 
 **Additional diagnostic uses:** [PPPD expansion source-use map](#pppd-diagnostic-expansion-source-use-map).
 
 
-**Concepts-first course use:** [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 23](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
+**Concepts-first course use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md); [Lesson 23](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
+
+**Module 7 current use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
 
 ## FND-CIT-0028
 
@@ -614,6 +638,7 @@ Use this source for education, redirected attention, task-oriented automatic mov
 
 **Module 6 additional current use (October 29, 2026):** [Lesson 15](../course/module-06-attention-and-automatic-control/01-attention-what-the-brain-notices.md).
 
+**Module 7 current use:** [Lesson 18](../course/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 23](../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md).
 
 ## FND-CIT-0029
 
@@ -758,6 +783,8 @@ Use this source for the relationship between migraine and FND. The review found 
 Nightscales R, McCartney L, Auvrez C, et al. Mortality in patients with psychogenic nonepileptic seizures. *Neurology*. 2020;95(6):e643–e652. [https://doi.org/10.1212/WNL.0000000000009855](https://doi.org/10.1212/WNL.0000000000009855)
 
 Use this source for its retrospective cohort findings on mortality after video-EEG-confirmed functional seizures, including the reported suicide proportion among deaths before age 50. These are group-level findings from one setting and do not calculate one person's risk.
+
+**Module 7 current use:** [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md).
 
 ## FND-CIT-0051
 
@@ -934,6 +961,7 @@ Use this review for a preliminary FCD definition, internal inconsistency as a po
 
 **Module 6 additional current use (October 29, 2026):** [Lesson 16](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md).
 
+**Module 7 current use:** [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md).
 
 ## FND-CIT-0072
 
@@ -2358,7 +2386,7 @@ Current use: [History of FND](../reference/history-of-fnd.md).
 
 ## FND-CIT-0242
 
-Edwards MJ, Adams RA, Brown H, Pareés I, Friston KJ. A Bayesian account of “hysteria”. *Brain*. 2012;135(11):3495–3512. [DOI](https://doi.org/10.1093/brain/aws129).
+Edwards MJ, Adams RA, Brown H, Pareés I, Friston KJ. A Bayesian account of “hysteria”. *Brain*. 2012;135(11):3495–3512. doi:10.1093/brain/aws129.
 
 Theoretical model; author abstract and indexed article discussion checked; not proof of a universal mechanism. Checked October 1, 2026.
 
@@ -2373,7 +2401,7 @@ Current use: [History of FND](../reference/history-of-fnd.md).
 [professional-roles-in-fnd-care.md](../reference/professional-roles-in-fnd-care.md): [FND-CIT-0002](#fnd-cit-0002), [FND-CIT-0010](#fnd-cit-0010), [FND-CIT-0011](#fnd-cit-0011), [FND-CIT-0012](#fnd-cit-0012), [FND-CIT-0022](#fnd-cit-0022), [FND-CIT-0025](#fnd-cit-0025), [FND-CIT-0028](#fnd-cit-0028), [FND-CIT-0029](#fnd-cit-0029), [FND-CIT-0070](#fnd-cit-0070), [FND-CIT-0071](#fnd-cit-0071), [FND-CIT-0076](#fnd-cit-0076), [FND-CIT-0077](#fnd-cit-0077), [FND-CIT-0083](#fnd-cit-0083).
 
 
-**Concepts-first course use:** [Lesson 18](../course/concepts-first/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md).
+**Concepts-first course use:** [Lesson 18](../course/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md).
 
 ## Functional sensory diagnostic expansion source-use map
 
@@ -2385,6 +2413,8 @@ Checked October 1, 2026. Includes inherited sources; full reappraisal is not cla
 | [functional_sensory_symptoms/01-sensory-mapping-and-comparison.md](../reference/diagnostic-signs/functional_sensory_symptoms/01-sensory-mapping-and-comparison.md) | [FND-CIT-0023](#fnd-cit-0023), [FND-CIT-0002](#fnd-cit-0002), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0245](#fnd-cit-0245) |
 | [functional_sensory_symptoms/02-midline-and-vibration-splitting.md](../reference/diagnostic-signs/functional_sensory_symptoms/02-midline-and-vibration-splitting.md) | [FND-CIT-0023](#fnd-cit-0023), [FND-CIT-0126](#fnd-cit-0126), [FND-CIT-0243](#fnd-cit-0243) |
 | [functional_sensory_symptoms/technique-inventory.md](../reference/diagnostic-signs/functional_sensory_symptoms/technique-inventory.md) | [FND-CIT-0023](#fnd-cit-0023), [FND-CIT-0002](#fnd-cit-0002), [FND-CIT-0130](#fnd-cit-0130), [FND-CIT-0126](#fnd-cit-0126), [FND-CIT-0022](#fnd-cit-0022) |
+
+**Module 7 current use:** [Lesson 18](../course/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md).
 
 ## FND-CIT-0243
 
@@ -2939,8 +2969,9 @@ Public Reddit discussion, “Teenage son diagnosed, any helpful advice/support?�
 
 **Current use:** [Lesson 12, Supporter section](../course/part-2-safety-and-symptoms/module-05-medical-safety-and-new-symptoms/01-familiar-symptoms-new-symptoms-and-medical-change.md).
 
-**Additional concepts-first use:** [Lesson 18](../course/concepts-first/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md).
+**Additional concepts-first use:** [Lesson 18](../course/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md); [Lesson 22](../course/concepts-first/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md).
 
+**Module 7 current use:** [Lesson 18](../course/module-07-prediction-interoception-and-agency/01-the-predictive-brain.md).
 
 ## FND-CIT-0300
 
@@ -2957,7 +2988,9 @@ Khalsa SS, Adolphs R, Cameron OG, et al. **Interoception and mental health: a ro
 **Scope:** Source type and access limits recorded in the [release audit](../reference/_internal/course/prepublication-audit-191-2026-10-26.md).
 
 
-**Concepts-first course use:** [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
+**Concepts-first course use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
+
+**Module 7 current use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
 
 ## FND-CIT-0302
 
@@ -2966,7 +2999,9 @@ Proske U, Gandevia SC. **The proprioceptive senses: their roles in signaling bod
 **Scope:** Source type and access limits recorded in the [release audit](../reference/_internal/course/prepublication-audit-191-2026-10-26.md).
 
 
-**Concepts-first course use:** [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
+**Concepts-first course use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
+
+**Module 7 current use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
 
 ## FND-CIT-0303
 
@@ -2975,7 +3010,9 @@ Stoffel N, Mouthon M, Yang H, et al. **Attenuated heartbeat-evoked potentials in
 **Scope:** Source type and access limits recorded in the [release audit](../reference/_internal/course/prepublication-audit-191-2026-10-26.md).
 
 
-**Concepts-first course use:** [Lesson 19](../course/concepts-first/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
+**Concepts-first course use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
+
+**Module 7 current use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
 
 ## FND-CIT-0304
 
@@ -2984,16 +3021,20 @@ Seeley WW, Menon V, Schatzberg AF, et al. **Dissociable intrinsic connectivity n
 **Scope:** Source type and access limits recorded in the [release audit](../reference/_internal/course/prepublication-audit-191-2026-10-26.md).
 
 
-**Concepts-first course use:** [Lesson 20](../course/concepts-first/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md).
+**Concepts-first course use:** [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md).
+
+**Module 7 current use:** [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md).
 
 ## FND-CIT-0305
 
-Voon V, Gallea C, Hattori N, et al. **The involuntary nature of conversion disorder.** Neurology. 2010;74:223–228. doi:10.1212/WNL.0b013e3181ca00e9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20083798/).
+Voon V, Gallea C, Hattori N, et al. **The involuntary nature of conversion disorder.** Neurology. 2010;74:223–228. doi:10.1212/WNL.0b013e3181ca00e9.
 
 **Scope:** Source type and access limits recorded in the [release audit](../reference/_internal/course/prepublication-audit-191-2026-10-26.md).
 
 
-**Concepts-first course use:** [Lesson 21](../course/concepts-first/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md).
+**Concepts-first course use:** [Lesson 23](../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md).
+
+**Module 7 current use:** [Lesson 23](../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md).
 
 ## FND-CIT-0306
 
@@ -3006,6 +3047,7 @@ Dayan E, Cohen LG. **Neuroplasticity subserving motor skill learning.** Neuron. 
 
 **Module 6 additional current use (October 29, 2026):** [Lesson 16](../course/module-06-attention-and-automatic-control/02-automatic-control-and-conscious-effort.md).
 
+**Module 7 current use:** [Lesson 23](../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md).
 
 ## FND-CIT-0307
 
@@ -3043,7 +3085,9 @@ Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comme
 Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1o5s0b8/wife_just_diagnosed_with_disassociative_fnd_feels/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
 
 
-**Concepts-first course use:** [Lesson 21](../course/concepts-first/module-07-prediction-interoception-and-agency/04-agency-learning-and-your-own-adaptations.md).
+**Concepts-first course use:** [Lesson 23](../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md).
+
+**Module 7 current use:** [Lesson 23](../course/module-07-prediction-interoception-and-agency/06-agency-learning-and-your-own-adaptations.md).
 
 ## FND-CIT-0313
 
@@ -3113,3 +3157,75 @@ Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comme
 Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1q1vjir/comment/nx8meik/). Exact excerpt and surrounding context checked October 26, 2026 through accessible public indexed text. Individual lived experience; not clinical evidence.
 
 **Concepts-first course use:** [Lesson 29](../course/concepts-first/module-10-pacing-and-available-capacity/02-flexible-pacing-when-capacity-changes.md).
+
+## FND-CIT-0323
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1hmedeg/please_explain_your_symptoms_in_detail/). Sensory description from a person reporting FND and coexisting conditions. Wording and surrounding context checked November 3, 2026. Individual lived experience; the sensations are not all attributed to FND.
+
+**Evidence type:** Community account. **Use:** Sensory experience.
+
+**Module 7 current use:** [Lesson 19](../course/module-07-prediction-interoception-and-agency/02-interoception-proprioception-and-outside-senses.md).
+
+## FND-CIT-0324
+
+Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1j0nopp/tell_me_how_ot_will_help_my_fnd/). Account of occupational-therapy help with sensory demands. Excerpt and surrounding context checked November 3, 2026. Individual experience; the excerpt does not establish a treatment effect or validate the theory mentioned in the full comment.
+
+**Evidence type:** Community account. **Use:** OT and participation.
+
+**Module 7 current use:** [Lesson 20](../course/module-07-prediction-interoception-and-agency/03-salience-arousal-and-feedback-loops.md).
+
+## FND-CIT-0325
+
+Bhome R, McWilliams A, Price G, Poole NA, Howard RJ, Fleming SM, Huntley JD. **Metacognition in functional cognitive disorder.** *Brain Communications*. 2022;4(2):fcac041. [DOI](https://doi.org/10.1093/braincomms/fcac041).
+
+**Evidence type:** Cross-sectional study. **Use:** FCD metacognition.
+
+**Module 7 current use:** [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md).
+
+## FND-CIT-0326
+
+Pick S, Merritt Millman LS, Gun Gürsoy E, et al. **Cognition and metacognition in functional motor symptoms and functional seizures: a case-control study.** *Psychological Medicine*. 2026;56:e61. [DOI](https://doi.org/10.1017/S0033291726103420) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/41773078/).
+
+**Evidence type:** Case-control study. **Use:** Cognition across FND presentations.
+
+**Module 7 current use:** [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md).
+
+## FND-CIT-0327
+
+Johnson MK, Hashtroudi S, Lindsay DS. **Source monitoring.** *Psychological Bulletin*. 1993;114(1):3–28. [DOI](https://doi.org/10.1037/0033-2909.114.1.3) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/8346328/). General memory framework, not an FND-specific study.
+
+**Evidence type:** Review. **Use:** Memory source monitoring.
+
+**Module 7 current use:** [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md).
+
+## FND-CIT-0328
+
+National Institute for Health and Care Excellence. **Medicines associated with dependence or withdrawal symptoms: safe prescribing and withdrawal management for adults.** NG215. 2022. [Recommendations](https://www.nice.org.uk/guidance/ng215/chapter/Recommendations), sections 1.5.6–1.5.10 and 1.5.17–1.5.20. Accessed November 4, 2026.
+
+**Evidence type:** Clinical guidance. **Use:** Medication withdrawal.
+
+**Module 7 current use:** [Lesson 22](../course/module-07-prediction-interoception-and-agency/05-emotional-regulation-and-involuntary-symptoms.md).
+
+## FND-CIT-0329
+
+American Psychiatric Association. **What are dissociative disorders?** [Patient and family guidance](https://www.psychiatry.org/patients-families/dissociative-disorders/what-are-dissociative-disorders/). Accessed November 4, 2026. Supports the distinction among dissociative experiences and specific disorders, including DID.
+
+**Evidence type:** Professional educational guidance. **Use:** Dissociation and DID.
+
+**Module 7 current use:** [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md).
+
+## FND-CIT-0330
+
+Public Reddit contribution, r/FND, **What are you main symptoms?** [Original comment](https://www.reddit.com/r/FND/comments/1pmq119/comment/nu24zyl/).
+
+**Evidence type:** Individual lived experience. **Verification:** Exact excerpt, first-person FND perspective and surrounding context checked November 5, 2026. The speaker describes their reported diagnosis and changing symptoms; this verifies public wording, not diagnosis or medical causation.
+
+**Current use:** [Lesson 25, Figure 1](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
+
+## FND-CIT-0331
+
+Public Reddit contribution by a partner, r/FND, **Choking Hazard.** [Original post](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/).
+
+**Evidence type:** Individual supporter experience. **Verification:** Exact opening excerpt, partner perspective and surrounding context checked November 5, 2026. The excerpt describes receiving a diagnosis with little guidance; the wider post concerns swallowing difficulties. It does not establish their cause, clinical safety or a treatment effect. Quotation-bank cross-reference: Q007 / S03.
+
+**Current use:** [Lesson 26, Figure 1](../course/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md).
