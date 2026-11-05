@@ -1,8 +1,8 @@
 # When Better Doesn't Mean Symptom-Free
 
-> **Working draft:** Person section approved for human authoring November 5, 2026; Supporter and Clinician sections remain generated seeds requiring human authoring and review.
+> **Working draft:** Person and Clinician sections human-approved November 5, 2026; Supporter section remains a generated seed requiring human authoring and review.
 
-Lesson 24 explores how someone can make meaningful progress in participation and quality of life even when severe symptoms and support needs remain. The Person section is human-authored; the Supporter and Clinician sections remain generated drafts pending review.
+Lesson 24 explores how someone can make meaningful progress in participation and quality of life even when severe symptoms and support needs remain. The Person and Clinician sections are human-authored; the Supporter section remains a generated draft pending review.
 
 *Last reviewed: October 26, 2026*
 
@@ -311,26 +311,149 @@ A new spell of loss of awareness, substantial amnesia, unusual movements, a majo
 
 ## For Clinicians and the Care Team
 
-### Start with description before attribution
+### When "better" describes only part of the picture
 
-A person may use “paralyzed,” “shaking,” “dizzy,” “absent” or “can't speak” to describe several different phenomena. Rather than translate these immediately into a single diagnostic label, establish the patient's meaning and the witnessed pattern: onset, sequence, context, course, duration, awareness, responsiveness, memory, breathing, recovery, injury and effect on daily function. Record which parts the patient remembers, which were observed, and which are unknown.
+In the *For the Person With FND* section, we met Natalie during an enjoyable afternoon with her friend Leah. The following clinical discussion can also be read independently.
 
-For episodic events, a useful question is “What happened first?” followed by “What changed next?” and “When did the person return to their usual state?” If a video exists and was obtained safely with consent, understand whether it shows the onset, main event or recovery. A witness's report of unresponsiveness does not establish lack of awareness, and subsequent amnesia does not establish that no responses occurred.
+Natalie lives alone with longstanding, severe FND, including functional seizures and unreliable movement. She also experiences a continuous migraine with significant light and sound sensitivity. None of her current clinicians was involved in her original diagnosis or early treatment.
 
-### Listen to the language of the affected activity
+During an appointment, she describes a welcome change. By preparing her surroundings, limiting other demands and arranging time to recover, she can once again enjoy visits with Leah.
 
-**Neurology** should document any relevant positive signs and meaningful differential diagnosis—not merely rule out disease with normal tests. **OT** can translate symptom descriptions into safety, reliability, exertion and support needs across real tasks. **Physiotherapy** can document the observed motor pattern and function under appropriately safe conditions. **SLT** can distinguish intelligibility, word retrieval, phonation, swallowing and communication access. **Psychology/neuropsychology** can help clarify cognitive load, dissociation, distress and context without turning any of these into the presumed cause.
+"My seizures haven't improved much, and the migraine is still constant. But I really look forward to having Leah over now."
 
-For example, “couldn't lift my arm” may involve strength, initiation, pain, posture or altered awareness. “Couldn't answer” may involve speech production, comprehension, motor response, attention, seizure-like activity or post-event state. Do not infer the complete clinical picture from one shared word.
+Her clinician has inherited a complex history, but Natalie's account provides a useful picture of her current circumstances.
 
-### When a shorter record is better
+**What does this improvement actually tell us?**
 
-Record two or three decision-relevant details and the patient's priorities, not a requirement for constant monitoring. Existing notes, the Module 4 symptom map, and a chosen supporter may be sufficient. A shorter description with explicit uncertainty can be more useful than an overly precise chronology reconstructed from absent memory.
+### The difference between doing something and doing it reliably
 
-**Teaching example (fictional):** “I heard my partner ask a question but could not reply; I remember a few minutes and then a gap. My partner noticed that I did not respond and had trouble moving. Recovery took much longer than the visible episode.” The next task is to identify the separately reported features and assess risks, not to choose between a functional or epileptic explanation by appearance.
+Natalie has experienced a meaningful improvement in participation and quality of life. She's enjoying a relationship that matters to her, and the activity has become more manageable.
 
-**Evidence boundary:** Positive FND diagnosis relies on relevant positive signs, context and appropriate investigation, while event diagnosis is specific to the episode type. [1](#citation-1) · [2](#citation-2). Use the [diagnostic index](../../reference/diagnostic-signs/README.md) for technique-specific limits. (*citations* [1](#citation-1), [2](#citation-2))
+However, she hasn't described a corresponding reduction in neurological symptoms.
 
+Her functional seizures remain severe, and the adjustments that make social visits possible require considerable preparation and recovery time.
+
+This distinction matters because several different outcomes are often described using the same word: *improvement*.
+
+A reduction in seizure frequency would represent a change in symptom burden. Greater consistency in walking or communicating might represent improved functional reliability. Being able to enjoy an afternoon with a friend represents improved participation, particularly when it was previously difficult or impossible.
+
+These changes may occur together, but they don't have to.
+
+Natalie's experience also illustrates the importance of context.
+
+She can participate more comfortably in a quiet, dimmed room, with familiar company and opportunities to rest. Her performance in that setting doesn't establish how reliably she can manage similar activities elsewhere.
+
+Yet the adaptations shouldn't be discounted simply because they contributed to her success. The ability to participate under accessible conditions is itself meaningful.
+
+The more interesting question is what has made the improvement possible, how sustainable it is and which difficulties remain.
+
+### What about the migraine?
+
+There's another important part of Natalie's account.
+
+Her migraine is constant.
+
+For a clinician inheriting her care, this raises a separate question about the headache itself. Has its pattern been adequately characterized? What treatments have been considered, and how effective is her current management?
+
+Migraine is a neurological disorder with its own diagnostic criteria and evidence-based treatment options. It can coexist with FND, and the conditions may influence one another, but their relationship isn't fully understood.
+
+Stone and colleagues (2025) reviewed the evidence concerning migraine and FND, describing comorbidity and possible interactions. The findings don't establish that migraine is simply another manifestation of FND or that both disorders arise from one shared mechanism.
+
+This matters when earlier medical records have grouped several symptoms under a broad FND diagnosis.
+
+The current clinician doesn't need to invalidate that diagnosis to consider the migraine independently. Even when a headache has been considered associated with FND, its characteristics, disabling effects and available treatment options remain clinically relevant.
+
+For Natalie, severe pain and sensory sensitivity affect much more than comfort. They influence the effort required to attend appointments, communicate, undertake rehabilitation and enjoy ordinary activities.
+
+An effective migraine treatment might therefore improve her capacity for participation, even if her functional seizures remain unchanged.
+
+Conversely, improvement in social participation shouldn't be taken as evidence that her migraine no longer requires attention.
+
+**Recognizing improvement in one domain can help reveal opportunities for care in another.**
+
+### What has research found about meaningful outcomes?
+
+Rutten and colleagues (2025) examined how people with FND, caregivers and healthcare professionals understand treatment outcomes.
+
+Their qualitative study involved interviews with 22 patients, 18 caregivers and 21 healthcare professionals. The findings highlighted the importance of considering outcomes beyond neurological symptoms, including daily activities, independence, emotional wellbeing and quality of life.
+
+These perspectives are relevant because different participants in care may recognize different forms of progress.
+
+A patient may place particular importance on being able to visit friends again. A clinician may also need to understand symptom frequency, functional performance or treatment response. A caregiver may be especially aware of the assistance or recovery time required.
+
+Each perspective can contribute useful information without necessarily describing the same outcome.
+
+The study offers insight into stakeholder priorities, but its selected sample doesn't establish population-wide preferences or demonstrate treatment effectiveness.
+
+Pick and colleagues (2020), in a systematic review of FND outcome measurement, identified limitations in existing measures and emphasized the need to consider multiple domains.
+
+Together, these studies raise an important methodological question: **Does the selected measure capture the change that matters to this person?**
+
+A seizure-frequency measure could miss Natalie's improved participation. A participation measure could miss continuing seizure severity, considerable effort and unmet support needs.
+
+Neither measure is inherently wrong. They answer different questions.
+
+Professional occupational therapy consensus recommendations by Nicholson and colleagues (2020) similarly emphasize meaningful daily activities and individually relevant goals. These recommendations provide a clinical framework for understanding participation, rather than proof that a particular adaptation produces neurological recovery.
+
+### How might this change the clinical conversation?
+
+Consider two possible summaries of Natalie's current situation.
+
+The first is brief:
+
+*Natalie reports improvement in daily functioning.*
+
+Although positive, that statement leaves considerable uncertainty. It doesn't identify what has changed or distinguish improved participation from symptom recovery.
+
+A more informative account might be:
+
+*Natalie reports greater enjoyment of social visits through environmental adaptations and planned rest. Functional seizures and persistent migraine remain severely disabling, and participation continues to require substantial preparation and recovery.*
+
+The second account doesn't diminish her progress. It makes that progress more understandable while preserving the needs that remain.
+
+It also opens the possibility of a more meaningful discussion about what Natalie would like to change next.
+
+Perhaps she wants to maintain her visits while reducing their physical and cognitive cost. Perhaps she feels her migraine requires more attention. Or perhaps reducing the severity of her functional seizures remains her greatest priority.
+
+Each goal has a different clinical meaning.
+
+For example, suppose an adjustment allows Natalie to enjoy a visit without spending as much of the following day recovering. That would represent a reduction in the cost of participation, even if the duration of the visit and her seizure frequency remained unchanged.
+
+Alternatively, an improvement in migraine management could reduce pain and sensory demands, potentially making several activities more accessible.
+
+These are possibilities to consider within the context of her individual assessment, rather than outcomes that can be predicted from the case.
+
+The value of identifying the particular goal lies in understanding what a proposed intervention is intended to improve.
+
+### Progress doesn't erase continuing needs
+
+Natalie's social visits are a success, but they occupy only a small part of her week.
+
+She continues to live alone with severe functional seizures, unpredictable movement and other disabling symptoms. Leah provides occasional companionship, not continuous assistance.
+
+These circumstances remain relevant when considering safety, independence and access to care.
+
+A person who can participate successfully under carefully arranged conditions may still require significant help in other circumstances. Conversely, continuing severe symptoms need not prevent meaningful progress in activities that matter to them.
+
+Both observations are clinically important.
+
+For an inheriting clinician, Natalie's own account provides information about current functioning that historical records and brief examinations may not capture.
+
+It also highlights the difference between recognizing improvement and assuming that care needs have decreased.
+
+### Understanding what has changed
+
+Natalie's story illustrates why improvement in FND cannot always be described by a single outcome.
+
+Her neurological symptoms remain severe, yet she has regained something valuable: the ability to look forward to and enjoy time with a friend.
+
+That improvement deserves recognition.
+
+So do the continuing migraine, seizures, effort and support needs that shape the rest of her life.
+
+**The clinical value of understanding progress lies not simply in knowing that someone is doing better, but in identifying what has improved, what made that possible, and what remains important to the person.**
+
+That distinction can make both the interpretation of outcomes and subsequent conversations about care more meaningful.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
