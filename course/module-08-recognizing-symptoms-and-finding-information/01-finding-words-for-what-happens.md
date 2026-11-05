@@ -226,9 +226,7 @@ Learning about FND has helped her understand what's happening, recognize useful 
 
 That knowledge has given her hope—not certainty about recovery, but a growing sense that there may be more ways for life to become better than she first imagined.
 
-On the small table beside her chair sits a note about the unfamiliar dizziness, ready for her appointment. She's also bookmarked a page in the FND Reference Library that she thinks might be useful.
-
-She hasn't read it yet.
+On the small table beside her chair sits a note about the unfamiliar dizziness, ready for her appointment. She has also saved a Reference Library page about functional seizures after coming across it while following these lessons. It's a different question—one about the diagnosis and care she's lived with for years—and she can return to it when she's ready.
 
 There's no need to answer every question tonight.
 
