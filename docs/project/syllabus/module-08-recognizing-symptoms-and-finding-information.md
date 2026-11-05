@@ -1,7 +1,7 @@
 # Module 8 — Recognizing Symptoms and Finding Information
 
 **Part Two: Understanding Attention, Action, and Body Signals**  
-**Status:** Owner-approved **editorial direction** (November 5, 2026); **none of the nine new audience sections is yet approved**. Lessons 24–26 on the course site remain older generated seeds pending human authoring. This document changes the syllabus, not their published content.  
+**Status:** Owner-approved **editorial direction** (November 5, 2026). **Lesson 24 / Person is human-approved and committed** in draft PR #200 (commit 2885888); the other **eight** audience sections remain generated seeds pending human authoring. This syllabus specifies direction; approved prose lives in the lesson files. No audits or merge have occurred.  
 **Current lesson numbers:** 24–26 (local Module 8 IDs 1–3). Earlier internal drafts have legacy numbering.  
 **Authoring instructions:** [Module 8 editorial handoff and nine section prompts](../../../reference/_internal/course/module-08-human-authoring-handoff-2026-11-04.md).
 
@@ -80,7 +80,7 @@ Natalie's stage resembles someone who has moved beyond the shock of diagnosis, h
 
 ## Review and handoff workflow
 
-Work in the sequence Lesson 24 Person → Clinician → Supporter, then 25 and 26 in the same order. The **published page order** remains Person → Supporter → Clinician → Research and Sources. Present the **complete proposed audience section** for explicit owner approval before committing its prose. Update the section, not unapproved neighbours, after approval. Record approvals in the handoff. Preserve all approved Modules 6–7 material. **No audits or merge** until separately requested.
+Default authoring sequence is Lesson 24 Person → Clinician → Supporter, then 25 and 26 in the same order. **Current owner-directed exception:** Lesson 24 Person has been approved and committed; draft **Lesson 25 Person next**, then return to skipped audiences when the owner directs. The **published page order** remains Person → Supporter → Clinician → Research and Sources. Present the **complete proposed audience section** for explicit owner approval before committing its prose. Update the section, not unapproved neighbours, after approval. Record approvals in the handoff. Preserve all approved Modules 6–7 material. **No audits or merge** until separately requested.
 
 ### Canonical pages and reference paths
 
