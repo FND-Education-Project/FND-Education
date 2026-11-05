@@ -1,8 +1,8 @@
-# Finding Words for What Happens
+# When Better Doesn't Mean Symptom-Free
 
-> **Working draft:** This page was automatically generated and is awaiting human authoring and further review.
+> **Working draft:** Person section approved for human authoring November 5, 2026; Supporter and Clinician sections remain generated seeds requiring human authoring and review.
 
-Lesson 24 explores finding Words for What Happens through everyday examples, collaborative adaptations and clinical reasoning.
+Lesson 24 explores how someone can make meaningful progress in participation and quality of life even when severe symptoms and support needs remain. The Person section is human-authored; the Supporter and Clinician sections remain generated drafts pending review.
 
 *Last reviewed: October 26, 2026*
 
@@ -16,46 +16,255 @@ Lesson 24 explores finding Words for What Happens through everyday examples, col
 
 ## For the Person With FND
 
-### “It did that thing again.”
+### "You seem so much better!"
 
-Have you ever tried to explain an episode and discovered that the useful words have disappeared?
+Natalie has been looking forward to Thursday.
 
-Maybe your arm felt heavy. Maybe your legs wouldn't cooperate. Maybe you heard someone speaking but couldn't answer. Perhaps you remember the beginning of an event and nothing else until later.
+Her friend Leah is coming over. They try to get together once or twice a week, and since Natalie lives alone, these visits are something she especially enjoys.
 
-You know something happened. Describing it can be much harder.
+She has already drawn the curtains against the bright afternoon light. The living room is quiet, and everything she might need is within easy reach.
 
-The good news is that **you don't need medical terminology to describe your experience well**.
+These arrangements aren't new. Over time, Natalie has worked out how to make her home more comfortable and how to prepare for activities that might otherwise be difficult.
 
-### Begin with what actually happened
+Her FND is severe. Functional seizures regularly disrupt her life, and she lives with a continuous migraine. Light and sound sensitivity, unreliable movement, fatigue and cognitive difficulties make everyday activities challenging.
 
-Imagine two people who say, “My hand stopped working.”
+There's something else on her mind, too. A recent spell of dizziness felt different from the ones she's familiar with. She has an appointment coming up and wants to ask about it.
 
-One means, “My grip became weak, and I dropped the cup.”
+But today, she's ready for some company.
 
-The other means, “My fingers curled tight, and I couldn't straighten them.”
+Leah arrives with a small bag from the bakery. She explains that she'd tried making her own bread over the weekend, with rather disappointing results.
 
-Neither account is wrong. But the details invite different questions.
+"I could have used it as a doorstop," she says.
 
-It can help to describe movement, strength, feeling, awareness, time and recovery separately. Was something shaking, jerking or stiffening? Did a limb feel weak or stuck? Could you hear people? Could you answer them? Did you remember what happened later? Was the symptom brief or still present hours afterward?
+Natalie laughs.
 
-You don't need to fill in every blank.
+They settle into their usual conversation. Leah tells her about the week's events, and Natalie shares a little of what she's been doing.
 
-Someone watching may report that you didn't answer. You may remember hearing their voice. **Responsiveness** is what other people could observe; **awareness** is what you experienced. Later memory is another piece of the story.
+Sometimes Natalie loses track of the conversation, and Leah patiently reminds her what they were talking about. Neither makes a fuss about it.
 
-If your memory is patchy, it's fine to say, “I'm not sure.” An agreed supporter note or previous symptom map can help without becoming a daily examination.
+They talk, laugh and enjoy an hour together.
 
-### Describing isn't diagnosing
+Natalie's migraine is still there. Her head hasn't stopped hurting, but the quiet surroundings make the conversation easier to manage.
 
-Two people can describe the same sensation and have different medical conditions. Even a very detailed account can't replace clinical assessment. New, severe or clearly changed symptoms still need the medical judgment discussed in Module 5.
+When Leah gets ready to leave, she gives Natalie a hug.
 
-> “I can't really tell the difference between whether something happened two weeks ago or four months ago.”
+"You seem so much better lately!"
 
-*Figure 1. Community experience.* A commenter describes difficulty placing events in time. Their report does not establish a diagnosis. [Original public source](https://www.reddit.com/r/FND/comments/1mnw4fd/dae_have_functional_cognitive_disorder/). (*citations* [4](#citation-4))
+Natalie smiles.
 
-**Something to think about:** Is there a symptom that you usually describe only as “weird,” “shaky” or “not working”?
+"Thanks. I've really enjoyed today."
 
-**One small step:** Write one ordinary sentence beginning, “What I notice is ...” If your Module 4 map already says it well, leave it alone. You're not starting over.
+And she has.
 
+### The part Leah didn't see
+
+After Leah leaves, Natalie settles back into her chair.
+
+The visit was wonderful, but she's tired now.
+
+She'd kept the morning quiet so she'd have more energy for the afternoon. Even with the room arranged to make things easier, conversation still required concentration, and sitting comfortably with a friend didn't mean the pain had disappeared.
+
+Natalie knows she'll need to rest.
+
+Her functional seizures are still severe, too. Some days they take away hours she would rather spend doing almost anything else.
+
+Walking around her home remains difficult, particularly when her coordination and strength are unreliable. And although she manages much of her daily life alone, there are times when she needs more assistance than her friend can provide during an occasional visit.
+
+None of that was visible during the pleasant hour Leah spent with her.
+
+But Leah wasn't imagining things, either.
+
+Natalie really did seem more comfortable. She laughed, followed much of the conversation and enjoyed herself.
+
+A year ago, she might have struggled to manage even that much.
+
+So was Leah right?
+
+Natalie thinks about it for a moment.
+
+Actually, yes.
+
+But there is more to the story.
+
+### What has changed?
+
+When Natalie was first diagnosed, almost everything seemed to revolve around her symptoms.
+
+If she had a particularly difficult day, she felt as though she was back where she'd started. When something went well, she wondered whether her FND was finally improving.
+
+Then another seizure would happen, and her hope would take a knock.
+
+Over time, she began learning more about FND.
+
+She learned why symptoms can vary, how attention and body signals influence everyday experiences, and why familiar activities can become difficult even when someone knows exactly what they want their body to do.
+
+She discovered ways to approach activities differently.
+
+Some things still didn't work. Others became more manageable.
+
+At first, Natalie found it difficult to accept how much she needed to change her surroundings and routines.
+
+She used to enjoy having the curtains wide open and sunlight filling the room. Now, even moderate light can make her migraine considerably worse.
+
+For a long time, the darkened living room reminded her of everything FND had taken away.
+
+But something gradually changed.
+
+One afternoon, she realized that the very same room had become a place where she could enjoy spending time with Leah.
+
+The curtains were still closed. Her migraine was still painful.
+
+Yet she was looking forward to something again.
+
+**Her understanding had changed before her symptoms had.**
+
+That new understanding didn't cure her FND. She couldn't choose whether to have a functional seizure, or simply decide to stop experiencing pain.
+
+But she began to see more possibilities.
+
+Instead of asking only whether her symptoms would allow an activity, she could sometimes consider whether changing the activity might make it possible.
+
+And instead of seeing every difficult day as proof that she wasn't improving, she began to notice what was becoming easier.
+
+There were still disappointments. She missed activities she couldn't manage, and some adaptations were awkward or inconvenient.
+
+But she no longer measured every bit of progress against the life she'd had before FND.
+
+She was beginning to understand what progress could look like in the life she had now.
+
+### A good hour and a difficult day
+
+Here's something worth considering.
+
+Natalie's afternoon with Leah went well.
+
+That doesn't mean the whole day was easy.
+
+She needed to prepare beforehand, and she needed to rest afterward. Her symptoms remained severe.
+
+But the enjoyable hour wasn't any less real because of those difficulties.
+
+Sometimes we think of getting better as one thing: our symptoms becoming less frequent or less severe.
+
+And that kind of improvement matters enormously.
+
+Someone whose functional seizures have become much less frequent may have gained something very important, even if other symptoms remain difficult.
+
+But there are other changes worth recognizing.
+
+Perhaps an activity becomes easier because someone has learned a more comfortable way to approach it.
+
+Perhaps they can participate in something that once felt impossible, though it still takes considerable effort.
+
+Or perhaps their symptoms haven't changed much at all, but they feel less lost because they understand their condition better.
+
+These changes aren't interchangeable.
+
+Being able to do something once doesn't necessarily mean we can do it reliably. Being able to complete an activity doesn't tell us how much effort it required, or whether it left us exhausted.
+
+And feeling happier about life doesn't necessarily mean we're experiencing fewer symptoms.
+
+**We can be improving in one part of life while continuing to struggle greatly in another.**
+
+For Natalie, that distinction makes a difference.
+
+A difficult evening no longer has to cancel out a lovely afternoon.
+
+Nor does a lovely afternoon mean that her continuing difficulties deserve less attention.
+
+Both experiences belong to her life.
+
+### Why does this matter?
+
+Imagine Natalie speaking with her clinician at her next appointment.
+
+"How have things been going?"
+
+A year earlier, she might have answered by thinking about her seizures or the intensity of her migraine.
+
+Those are still important.
+
+But now she has a fuller answer.
+
+"My seizures haven't improved much, and my migraine is still constant. But I've worked out how to enjoy having a friend over again. I'm much happier about that. I still find the preparation and recovery difficult, though."
+
+That tells the clinician something a simple "better" or "worse" might miss.
+
+Natalie has made meaningful progress, but she still needs care for severe symptoms and help with activities that aren't reliably manageable.
+
+Her progress in one area doesn't take away her needs in another.
+
+And there's still that unfamiliar episode of dizziness she wants to ask about. She knows her usual symptoms well enough to recognize that something felt different, but she doesn't know what it means.
+
+Feeling better about parts of her life hasn't answered every question about her health.
+
+Because Natalie can distinguish these things, she and her clinician have a better starting point. They can recognize what has improved, discuss what remains difficult, and give that unfamiliar experience the attention it deserves.
+
+Perhaps she'd like to make another activity easier to manage. Perhaps she wants help with the effort required for something she can already do. Or perhaps her greatest priority remains reducing the symptoms themselves.
+
+Those are different goals, and she has a say in which ones matter most.
+
+### A little more room for hope
+
+Later that evening, Leah sends Natalie a message.
+
+"Thanks for today. I needed that laugh!"
+
+Natalie smiles.
+
+She'd needed it, too.
+
+Her migraine is still bothering her, and she knows tomorrow might be difficult.
+
+But the afternoon was worth looking forward to, and she enjoyed it.
+
+Natalie still hopes her seizures will become less severe and her movement more reliable. She hasn't given up on further recovery.
+
+She has simply discovered that improvements in her life don't always have to wait for improvements in every symptom.
+
+Learning about FND has helped her understand what's happening, recognize useful choices and make sense of changes that once felt confusing.
+
+That knowledge has given her hope—not certainty about recovery, but a growing sense that there may be more ways for life to become better than she first imagined.
+
+On the small table beside her chair sits a note about the unfamiliar dizziness, ready for her appointment. She's also bookmarked a page in the FND Reference Library that she thinks might be useful.
+
+She hasn't read it yet.
+
+There's no need to answer every question tonight.
+
+For now, she sends Leah a message thanking her for the visit—and asking whether that unfortunate loaf of bread is still available for use as a doorstop.
+
+### Something to think about
+
+Imagine someone who can now enjoy an hour with a friend, although their symptoms are much the same as before.
+
+What has improved?
+
+Think about how the answer might change if the conversation became easier, if it took less effort, or if the person simply began looking forward to visits again.
+
+Each possibility tells us something different about their progress.
+
+### How might that feel?
+
+Imagine having a wonderful afternoon, then hearing someone say, "You must be getting better!"
+
+You might be pleased they noticed something good. You might also wish they understood how much effort it took, or how difficult the rest of your week can be.
+
+What would help you enjoy being recognized for your progress while still feeling understood about the difficulties that remain?
+
+### One small step
+
+When someone asks how you're doing, you might try describing one particular part of your life rather than answering for your health as a whole.
+
+For example:
+
+"I'm enjoying having visitors again. My symptoms are still severe, but I've found ways to make those afternoons easier."
+
+Or perhaps your symptoms really have improved, and that's what you'd most like to share.
+
+You don't need to measure every change or keep another record.
+
+Sometimes, understanding **what has improved, what hasn't, and what matters most to you** can make a conversation much more useful.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
