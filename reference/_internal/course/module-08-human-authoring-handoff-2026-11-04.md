@@ -2,7 +2,13 @@
 
 **Prepared:** November 4, 2026 · **Repository:** `FND-Education-Project/FND-Education` · **Work branch / draft PR:** `editorial/emotion-regulation-modules-07-14-20261028` / [#198](https://github.com/FND-Education-Project/FND-Education/pull/198).
 
-**Status:** Module 8 is an editorial *seed*, not human-approved. This handoff is instructions for the **new editing chat**, not a request to perform Audit 1 or publish the lesson drafts. Lessons 24–26 have three complete generated audience sections apiece, existing professional citations, and community quotations in both Person and Supporter sections. Both new Person quotes in Lessons 25–26 are candidates awaiting final verification of wording, context and attribution at the original public post. No direct clinician quotation has been verified or inserted; existing research references are already seeded. Preserve Module 7's approved prose and media. Do not merge PR #198.
+**Status:** Module 8 is an editorial *seed*, not human-approved. This handoff is instructions for the **new editing chat**, not a request to perform Audit 1 or publish the lesson drafts. Lessons 24–26 have three complete generated audience sections apiece, existing professional citations, and community quotations in both Person and Supporter sections. Both new Person quotes in Lessons 25–26 were verified against the original public discussions on November 5, 2026; see the follow-up below. Their placement and prose remain subject to human authoring. No direct clinician quotation has been verified or inserted; existing research references are already seeded. Preserve Module 7's approved prose and media. Do not merge PR #198.
+
+## Verification follow-up — November 5, 2026
+
+The project lead requested that the final audit resolve both quote candidates and present Module 7 as mergeable. Both exact excerpts are now verified at their original public sources, including speaker perspective and context. Lesson 25 uses the specific comment permalink and FND-CIT-0330; Lesson 26 uses FND-CIT-0331 and remains explicitly a partner account. Reader-facing candidate labels have been replaced with accurate community-experience labels. The historical preparation notes below describe the earlier access gap and no longer represent an outstanding verification task. See [final audit and source record](audit-final-module-07-2026-11-05.md).
+
+Module 8 remains a generated editorial seed requiring the existing section-by-section authoring and later audits. Verifying these two quotations does not mark its prose human-approved. The project lead's November 5 instruction to present Module 7 for merge supersedes earlier draft-only/no-merge presentation instructions for PR #198; the audit itself does not perform a merge.
 
 ## The next chat: read in this order, not all at once
 

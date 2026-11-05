@@ -28,7 +28,7 @@ A partner described the experience of being given a diagnosis without much guida
 
 > “My partner has an FND diagnosis. He was basically told “you’ve got FND, go look it up.””
 
-*Figure 1. Community quotation candidate.* A partner's account of searching for information after diagnosis; it does not describe every diagnostic conversation. [Public source](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/). Original-source text and context require re-verification before publication. (*citations* [5](#citation-5))
+*Figure 1. Community experience.* A partner's account of searching for information after diagnosis; it does not describe every diagnostic conversation. [Public source](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/). (*citations* [5](#citation-5))
 
 ### Three places to begin
 
@@ -148,6 +148,6 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-2"></a>**[2]** | — | Tolchin B, Goldstein LH, Reuber M, et al. **Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee.** Neurology. 2026;106:e214466; online December 10, 2025. doi:10.1212/WNL.0000000000214466. [Original](https://www.neurology.org/doi/10.1212/WNL.0000000000214466) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/41370742/). [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). |
 | <a id="citation-3"></a>**[3]** | — | Nicholson C, Edwards MJ, Carson AJ, et al. **Occupational therapy consensus recommendations for functional neurological disorder.** JNNP. 2020;91:1037–1045. doi:10.1136/jnnp-2019-322281. [Original](https://jnnp.bmj.com/content/91/10/1037) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32732388/). [FND-CIT-0011](../../research/citation-index.md#fnd-cit-0011). |
 | <a id="citation-4"></a>**[4]** | Figure 2 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/1ruqxh5/comment/oatunoa/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0315](../../research/citation-index.md#fnd-cit-0315). |
-| <a id="citation-5"></a>**[5]** | Figure 1 — draft candidate | Public Reddit contribution by a partner, “Choking Hazard,” r/FND. Quotation-bank identifier Q007 / source S03, compiled October 25, 2026. Original-source wording and context require final re-verification. [Original](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/). Individual account, not clinical evidence. |
+| <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution by a partner, “Choking Hazard,” r/FND. Quotation-bank identifier Q007 / source S03, compiled October 25, 2026. Exact excerpt, partner perspective and surrounding context checked November 5, 2026. The excerpt concerns access to guidance; the wider post also describes swallowing concerns and is not used to attribute those concerns to FND. [Original](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/). Individual account, not clinical evidence. [FND-CIT-0331](../../research/citation-index.md#fnd-cit-0331). |
 
 *Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*

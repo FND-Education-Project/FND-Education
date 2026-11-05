@@ -3213,3 +3213,19 @@ American Psychiatric Association. **What are dissociative disorders?** [Patient 
 **Evidence type:** Professional educational guidance. **Use:** Dissociation and DID.
 
 **Module 7 current use:** [Lesson 21](../course/module-07-prediction-interoception-and-agency/04-cognitive-difficulties-in-fnd.md).
+
+## FND-CIT-0330
+
+Public Reddit contribution, r/FND, **What are you main symptoms?** [Original comment](https://www.reddit.com/r/FND/comments/1pmq119/comment/nu24zyl/).
+
+**Evidence type:** Individual lived experience. **Verification:** Exact excerpt, first-person FND perspective and surrounding context checked November 5, 2026. The speaker describes their reported diagnosis and changing symptoms; this verifies public wording, not diagnosis or medical causation.
+
+**Current use:** [Lesson 25, Figure 1](../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md).
+
+## FND-CIT-0331
+
+Public Reddit contribution by a partner, r/FND, **Choking Hazard.** [Original post](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/).
+
+**Evidence type:** Individual supporter experience. **Verification:** Exact opening excerpt, partner perspective and surrounding context checked November 5, 2026. The excerpt describes receiving a diagnosis with little guidance; the wider post concerns swallowing difficulties. It does not establish their cause, clinical safety or a treatment effect. Quotation-bank cross-reference: Q007 / S03.
+
+**Current use:** [Lesson 26, Figure 1](../course/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md).

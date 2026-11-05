@@ -46,7 +46,7 @@ One person with FND described how the duration of symptoms can change:
 
 > “Sometimes, you gain new symptoms for a short time and sometimes, they last for longer periods of time.”
 
-*Figure 1. Community quotation candidate.* A personal account of changing symptom duration; this does not classify the symptoms or establish their cause. [Public source](https://www.reddit.com/r/FND/comments/1pmq119/what_are_you_main_symptoms/). Original-source text and context require re-verification before publication. (*citations* [5](#citation-5))
+*Figure 1. Community experience.* A person describing their own FND experience and changing symptom duration; this does not classify symptoms or establish their cause. [Public source](https://www.reddit.com/r/FND/comments/1pmq119/comment/nu24zyl/). (*citations* [5](#citation-5))
 
 **Something to think about:** When you say weak, dizzy, absent or foggy, what exactly are you trying to describe?
 
@@ -138,6 +138,6 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-2"></a>**[2]** | — | Tolchin B, Goldstein LH, Reuber M, et al. **Management of functional seizures practice guideline executive summary: report of the AAN Guidelines Subcommittee.** Neurology. 2026;106:e214466; online December 10, 2025. doi:10.1212/WNL.0000000000214466. [Original](https://www.neurology.org/doi/10.1212/WNL.0000000000214466) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/41370742/). [FND-CIT-0010](../../research/citation-index.md#fnd-cit-0010). |
 | <a id="citation-3"></a>**[3]** | — | Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622) [FND-CIT-0027](../../research/citation-index.md#fnd-cit-0027). |
 | <a id="citation-4"></a>**[4]** | Figure 2 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/16iyjst/dad_helping_recently_diagnosed_daughter/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0314](../../research/citation-index.md#fnd-cit-0314). |
-| <a id="citation-5"></a>**[5]** | Figure 1 — draft candidate | Public Reddit contribution, r/FND, “What are you main symptoms?” Previously collected in the project's internal episodic-flare quote review. Original-source wording and context require final re-verification. [Original](https://www.reddit.com/r/FND/comments/1pmq119/what_are_you_main_symptoms/). Individual account, not clinical evidence. |
+| <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution, r/FND, “What are you main symptoms?” Comment by a person describing their own FND diagnosis and symptom changes. Exact excerpt, speaker perspective and surrounding context checked November 5, 2026. [Original](https://www.reddit.com/r/FND/comments/1pmq119/comment/nu24zyl/). Individual account, not clinical evidence. [FND-CIT-0330](../../research/citation-index.md#fnd-cit-0330). |
 
 *Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
