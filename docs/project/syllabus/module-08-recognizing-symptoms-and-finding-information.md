@@ -1,70 +1,96 @@
 # Module 8 — Recognizing Symptoms and Finding Information
 
-**Part Two: Understanding Attention, Action, and Body Signals**<br>
-**Status:** Approved syllabus direction; all three audience sections are seeded for Lessons 24–26, with community quotation candidates and research citations. The two new Person quotations were source-verified November 5, 2026. Human authoring, subsequent lesson audits and independent clinical review remain pending.<br>
-**Current lessons:** **24–26** (Module 8 local IDs 1–3). Earlier internal drafts use old proposed numbers; use the current course files as canonical.
+**Part Two: Understanding Attention, Action, and Body Signals**  
+**Status:** Owner-approved **editorial direction** (November 5, 2026); **none of the nine new audience sections is yet approved**. Lessons 24–26 on the course site remain older generated seeds pending human authoring. This document changes the syllabus, not their published content.  
+**Current lesson numbers:** 24–26 (local Module 8 IDs 1–3). Earlier internal drafts have legacy numbering.  
+**Authoring instructions:** [Module 8 editorial handoff and nine section prompts](../../../reference/_internal/course/module-08-human-authoring-handoff-2026-11-04.md).
 
-**Editing entry point (November 4, 2026):** [Complete Module 8 human-authoring handoff and nine audience-specific prompts](../../../reference/_internal/course/module-08-human-authoring-handoff-2026-11-04.md). This preserves the Module 6–7 refinements for voice, pace, relatable examples, sources, lesson endings and consent-based care; the new chat should follow one audience prompt at a time. The live course pages are generated seeds, not approved human text.
+## Purpose and audience
 
-## Purpose
+The reader has completed 23 lessons. They may have lived with FND for years, have substantial neurological symptoms, recognize their own patterns, and still face difficult questions. Do not begin by teaching what FND is, asking them to name a symptom, or assigning another symptom diary.
 
-Teach readers how to *describe and distinguish features* of similar experiences, navigate the Reference Library, and frame questions for assessment. This replaces symptom-by-symptom course instruction, **not** professional diagnosis.
+The destination is unchanged: **recognize meaningful symptom features, find reliable information in the Reference Library, and ask informed questions without diagnosing oneself**. Reach that goal through three genuinely new applications of previous learning:
 
-## Lesson 24 — Finding Words for What Happens
-- Name observations in familiar language: what is felt, seen, remembered or reported by witnesses.
-- Distinguish strength, voluntary initiation, involuntary movement, sensation, balance, awareness, responsiveness, memory and recovery.
-- Describe onset, time course, before/during/after patterns, change over time and effects on daily life.
-- Make room for multiple symptoms, coexisting disorders and uncertain explanations.
-- Apply, rather than rebuild, the symptom map taught in Module 4.
+1. Interpret *what has changed* when symptoms, access, effort and quality of life do not move together.
+2. Interpret *what medical evidence means* when a familiar FND diagnosis, other health problems, and new or changed experiences may overlap.
+3. Use the Reference Library for one meaningful question, including the limits of the evidence.
 
-## Lesson 25 — Similar Experiences, Different Features
-- Compare *descriptions* (not causes): rhythmic shaking/sudden jerks; reduced strength/difficulty starting movement; falling with or without altered awareness; responsiveness/memory gaps; spinning/unsteadiness; speech production/word finding. Features can overlap in the same person or event.
-- Use paired narrative scenarios and explain what further information would be useful to a clinician.
-- Connect appropriate attention and body-sensing vocabulary from Modules 6–7 without claiming it caused the symptoms.
-- Explain why appearance alone cannot establish a functional versus epileptic, cardiac, metabolic, vestibular or other diagnosis.
+The module's continuing perspective is that knowledge can make life more understandable and sometimes easier to navigate even when symptoms remain severe. More informed expectations, individual adaptations and meaningful choices can support realistic hope; **none of these proves that thoughts caused the symptoms or that positive thinking treats FND**.
 
-## Lesson 26 — Navigate the Reference Library and Ask Better Questions
-- Begin from plain-language descriptions and locate several potentially relevant reading paths.
-- Demonstrate the three audience sections (Person, Supporters, Clinicians) in the [Diagnostic Signs](../../../reference/diagnostic-signs/README.md) and [Recovery Techniques](../../../reference/recovery-techniques/README.md) collections, plus [Co-occurring Conditions](../../../reference/co-occurring-conditions/README.md).
-- Teach how to read “Refers to”, scope boundaries, evidence labels, uncertainty and safety notes.
-- Finish with one optional question or short description for the care team. No pressure to log every event or recall missing memories.
+## Continuing composite character — Natalie
 
-## Lesson exercises
+Natalie has lived with **severe FND for some time** and lives alone. A friend can visit once or twice each week; the rest of the time, nobody is routinely present. She has learned adaptations and ways to make daily life more accessible, but her condition remains disabling. Neither the narrative nor the care advice should romanticize living alone with falls, functional seizures, swallowing difficulty or unreliable mobility. Her actual support and safety needs deserve individualized professional consideration.
 
-Use ambiguous fictional scenarios with several plausible causes. Learners explore appropriate reference pages, identify questions and *do not* assign a diagnosis. Include a movement scenario and an altered-awareness scenario, with clear emergency boundaries and no symptom-provocation activities.
+For Natalie's **symptom inventory**, use *only* the project lead's supplied 2019 FND symptom-list worksheet, not the memoirs or other private health history: extreme non-epileptic seizures, continuous migraine (reported 6–8/10), severe light sensitivity, hyperacusis, tinnitus, limb weakness, difficulties with memory/multitasking/concentration, speech and swallowing difficulty, dizziness, drop attacks/falls, jerks and twitches, start–stop/discoordinated gait, bladder difficulties, fatigue and sleep issues. The original worksheet calls this an **assumed** FND-related list: do not assign a cause to every symptom or add personal conditions from elsewhere. This is a fictional teaching composite, **not** a disguised patient case or a source of prevalence evidence. Do not reproduce the original worksheet or identifying details in public pages.
 
-## Teaching and review instructions
+The project lead's autobiographical material informs **underlying questions and emotional reality**, not scenes to recreate, quotations to use, medical facts to infer or particular biographical details to transfer. Invent new plausible situations in Natalie's own life.
 
-**Person:** Relatable examples, paced questions, non-technical wording; use the reference library for deep symptom specifics rather than duplicating its three-audience content.
+Natalie's stage resembles someone who has moved beyond the shock of diagnosis, has routines and adaptations, and can still wonder if life is moving forward. Her perception of symptoms and her responses to them can change through learning. **Improvement in how life feels or works is meaningful even when symptom severity or frequency has not improved.** Hope should emerge from the experience, not from a motivational lecture.
 
-**Supporters:** Invite observations without contradicting lived experience, filming without consent or repeated testing.
+## Lesson 24 — When Better Doesn't Mean Symptom-Free
 
-**Clinicians:** Positive diagnosis, differential and coexisting conditions, clinical uncertainty, safety-netting and diagnostic overshadowing.
+**New learning:** Distinguish **symptom burden**, **functional ability**, **participation**, **effort/cost**, and **quality of life** when they change differently. Lesson 23 already showed that adaptation and rehabilitation can coexist; do not reteach that. Lesson 24 asks **how a person can understand what improved and what did not**.
 
-## Outcome
+**Opening teaching problem:** Natalie prepares for a friend's brief afternoon visit in a quiet, dim room. The friend notices a more comfortable conversation and says, "You seem so much better." Natalie really has gained something: enjoying the visit is easier. Yet her migraine persists, seizures still interrupt the week, and preparation and recovery may take much of her energy. Is "better" wrong? Not necessarily. It describes one kind of progress but not every kind. Develop this one scene before naming the distinctions; let Natalie's experience, not an explanation, reveal why they matter.
 
-Learner can compare the *features* of symptoms and choose relevant reading pathways while understanding that only appropriate clinical assessment can determine cause.
+**Person:** Explore apparent contradiction between an accessible activity and severe ongoing symptoms; distinguish changes in the activity and environment, actual symptom change, the effort required and meaningful participation. The person may perceive symptoms differently after learning about FND without having chosen the symptoms or "thought them away." Cognitive difficulties may make comparison over months difficult: apply, don't reteach, Lesson 21. Do not require tracking. Give a plausible insight the reader can carry into future appointments and daily choices.
 
-## Reviewed teaching boundaries and reading paths
+**Clinician:** Distinguish time-limited observed performance from sustained function at home; meaningful patient-centred outcomes from symptom count alone; costs, adverse effects, safety and support availability. Show one specific decision for Natalie's needs and a way to review it. Do not equate pleasant appearance in clinic or at a visit with neurological recovery.
 
-The [Work review](../../../reference/_internal/course/syllabus-redesign-review-2026-10-26.md#module-8) separates this module from Module 4: apply a short existing description to a reading choice rather than rebuilding a tracker or symptom map. A witness's observation and the person's experience answer different questions; neither automatically cancels the other. Ambiguous scenarios must end with useful questions or appropriate care, not a revealed diagnosis that readers are expected to copy.
+**Supporter:** Show a friend recognizing both the genuine success of a visit and the hidden cost before and after. Respond warmly and without minimization or responsibility for Natalie's recovery. Consent-based, feasible support; this friend is present only once or twice weekly.
 
-Use the accessible [seizure assessment overview](../../../reference/diagnostic-signs/06-functional-seizures.md#for-the-person-with-fnd), [tremor overview](../../../reference/diagnostic-signs/02-functional-tremor.md#for-the-person-with-fnd), [jerks overview](../../../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md#for-the-person-with-fnd), and [FCD overview](../../../reference/diagnostic-signs/12-functional-cognitive-disorder.md#for-the-person-with-fnd) only in the relevant scenario. For fatigue, pain, sleep or autonomic complaints, use the co-occurring collection rather than assigning a functional cause from appearance.
+**Distinctive result:** The reader understands **why different measures of progress can all be true at once** and how that changes a useful conversation.
 
-**Safety boundary:** [Module 5](module-05-medical-safety-and-new-symptoms.md) retains medical safety and new-symptom decisions. Readers must not delay urgent assessment or treat catalogue descriptions as diagnoses.
+## Lesson 25 — When the Familiar Explanation Doesn't Quite Fit
 
-## Research material for Chat
+**New learning:** Distinguish **experience, observation, test finding, interpretation, and what remains unknown** when FND and other medical conditions may coexist. Module 5 taught urgent/new-symptom safety decisions; do not repeat its triage lesson. Lesson 25 asks **what the evidence actually establishes**.
 
-The [remaining new-lesson research briefs](../../../reference/_internal/course/new-lessons-research-2026-10-26/README.md) populate Lessons 16–30 with source-linked foundations, explanations, three-audience teaching seeds, fictional examples and boundaries. Use the relevant lesson brief alongside this outline; these are internal authoring materials, not new public lessons.
+**Opening teaching problem:** Natalie recognizes her usual dizziness and has learned how to live with it. One episode is unfamiliar in an important way. Poor sleep and migraine are also present. She cannot know from familiarity alone whether it is a change in her FND, another problem, or a combination. Let the uncertainty emerge naturally, and move toward a specific professional assessment rather than a home diagnostic exercise.
 
-## Person-section editorial drafts
+**Person:** Develop one substantial scene. Show that a normal result can answer a narrow question rather than everything, and an abnormal result can need interpretation or confirmation rather than automatically explaining symptoms. A diagnosis is helpful information, not a universal explanation. Distinguish curiosity from fear—Natalie may want a clear account of what was established without seeking reassurance. Retain one proportionate reminder of medical assessment for meaningful changes, referencing Module 5.
 
-[Read the complete Person sections for this module](../../../reference/_internal/course/person-drafts-2026-10-26/module-08-recognizing-symptoms-and-finding-information.md). These are **internal human-review drafts**, not published course pages. The original internal Person drafts were made before other audiences were integrated. The **current public-facing PR draft now contains all three seeded audiences**; the two new Person quotations in Lessons 25–26 completed source/context verification November 5. The module remains an editorial seed for human authoring and subsequent lesson audits. Evidence references, research citations, accessible illustrations, puzzles and final course integration remain follow-up Work tasks.
+**Clinician:** Use one plausible clinical vignette showing how a salient feature changes the assessment or follow-up decision. Discuss positive FND signs alongside differential and coexisting conditions; appropriate interpretation of negative, incidental and uncertain findings; proportional evaluation, explanation and safety-netting. Select one meaningful individualized decision and participation goal. Consider how cognition, speech, sensory load and symptoms affect the reliability and accessibility of assessment, without imputing distress as the cause.
 
-## Clinician-section editorial draft
+**Supporter:** A friend notices a difference but cannot classify it. Illustrate respect for Natalie's knowledge, useful consensual observation, and the limits of memory and secondhand accounts. The friend is neither a clinician nor a 24/7 monitor.
 
-[Read the complete clinician sections for this module](../../../reference/_internal/course/clinician-drafts-2026-10-26/module-08-recognizing-symptoms-and-finding-information.md), prepared for all planned lessons and covering interdisciplinary use in assessment, individual technique selection, rehabilitation and outcome review. For full 17-presentation coverage across the five modules, see the [clinical coverage index](../../../reference/_internal/course/clinician-drafts-2026-10-26/README.md). **Current Supporter sections are seeded in the course, not human-approved.** Clinical statements are grounded in internal source-review material, but final paper-level verification and specialist sign-off are pending.
+**Distinctive result:** The reader recognizes **a good question to ask about medical information**, not a symptom-matching trick.
 
-## Supporter-section editorial draft
+## Lesson 26 — Finding Your Way Through the Reference Library
 
-[Read the complete Supporter sections for this module](../../../reference/_internal/course/supporter-drafts-2026-10-26/module-08-recognizing-symptoms-and-finding-information.md). The drafts develop **consent-based shared adaptations**, protect the person's autonomy, and show when diagnosis, safety, specialized recovery methods or treatment decisions should be passed to PT, OT, psychology, neurology, SLT or another appropriate professional. They include candidate source-linked caregiver quotations. For the [16-lesson quotation and referral framework](../../../reference/_internal/course/supporter-drafts-2026-10-26/README.md), see the internal index. **Community quotations and clinical claims still require final source/citation review.** The two new quotations in Lessons 25–26 have completed original-source wording/context verification as of November 5; see the follow-up in the November 4 handoff.
+**Fixed destination:** A reader can navigate the Reference Library purposefully, distinguish descriptions from evidence and recommendations, and carry a relevant question into care.
+
+**Opening teaching problem:** After a clinical conversation, Natalie has some answers and one unresolved question. She opens the library, but a broad search would be exhausting. Show how choosing **one question** determines the right reading path, then demonstrate a real path through an existing page.
+
+**Person:** Use actual working links and demonstrate the accessible sections of [Diagnostic Signs](../../../reference/diagnostic-signs/README.md), [Co-occurring Conditions](../../../reference/co-occurring-conditions/README.md), and [Recovery Techniques](../../../reference/recovery-techniques/README.md) as relevant—not an exhaustive tour. Teach scope, evidence type, wording such as "refers to," uncertainty and what cannot be concluded about an individual. Show how Natalie uses a little information and stops, without taking on the role of her own clinician or repeating previous lessons.
+
+**Clinician:** Show how a selected Reference page supports an individualized assessment/explanation or shared decision. Name evidence class and an important limitation, explain how it fits professional judgement, and offer appropriate follow-up rather than substituting website content for care.
+
+**Supporter:** Illustrate an occasional friend offering accessible help with a page or a question only when invited, preserving Natalie's ownership of information, choices and medical conversations.
+
+**Distinctive result:** The reader **uses** rather than merely learns about the Library.
+
+## Teaching and integrity boundaries
+
+- **Avoid curricular repetition:** Module 4 owns symptom mapping; Module 5 owns urgent/new-symptom safety; Modules 6–7 own mechanisms, memory and agency; Lesson 23 owns adaptation alongside rehabilitation; Module 9 owns rehabilitation methods. Each lesson needs a new inferential step that could not be taught equally well before those foundations.
+- **Person voice:** Human, warm, approximately age 14+, clear to readers with memory or attention difficulties; one evolving situation rather than a series of clipped mini-examples. Show the intellectual and emotional value before stating it. Necessary terms get a short first-use definition; no false certainty or diagnostic self-test. Use the established **Something to think about → How might that feel? → One small step** endings without making them homework.
+- **Clinician:** Evidence-class clarity, one substantial decision-centred case, what/why/how reasoning in prose, proportionate disciplines and meaningful limitations; no fabricated sources or universal protocols.
+- **Supporter:** Informal advice-over-coffee voice, autonomy and consent, capacity constraints; occasional assistance is different from continuous care.
+- **Safety and causality:** Symptoms are involuntary. A changed outlook may improve coping, access, participation or perceived quality of life without demonstrating a symptom mechanism or cure. Severe symptoms, injury risks and new concerns still deserve appropriate assessment. Do not depict Natalie as safe solely because she lives alone.
+- **Source/quote status:** Existing Module 8 course text, citations, Figure numbering and quotations are historical seeds. Two Person quotes in Lessons 25 and 26 had their wording/source context verified November 5, 2026 (see handoff), **not their fit to the redesigned lessons**. Source-verify and preserve/remove/reassign with citation and figure consistency as authoring proceeds; no obligatory quote in any audience. Private experiences are thematic input, **not** public quotations.
+
+## Review and handoff workflow
+
+Work in the sequence Lesson 24 Person → Clinician → Supporter, then 25 and 26 in the same order. The **published page order** remains Person → Supporter → Clinician → Research and Sources. Present the **complete proposed audience section** for explicit owner approval before committing its prose. Update the section, not unapproved neighbours, after approval. Record approvals in the handoff. Preserve all approved Modules 6–7 material. **No audits or merge** until separately requested.
+
+### Canonical pages and reference paths
+
+- [Lesson 24 (old generated seed)](../../../course/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md)
+- [Lesson 25 (old generated seed)](../../../course/module-08-recognizing-symptoms-and-finding-information/02-similar-experiences-different-features.md)
+- [Lesson 26 (old generated seed)](../../../course/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md)
+- [FND seizure assessment overview](../../../reference/diagnostic-signs/06-functional-seizures.md#for-the-person-with-fnd)
+- [FND tremor overview](../../../reference/diagnostic-signs/02-functional-tremor.md#for-the-person-with-fnd)
+- [Functional jerks overview](../../../reference/diagnostic-signs/03-functional-jerks-and-myoclonus.md#for-the-person-with-fnd)
+- [FCD overview](../../../reference/diagnostic-signs/12-functional-cognitive-disorder.md#for-the-person-with-fnd)
+- [Research and citation policy](research-and-citation-policy.md)
+
+Historical research briefs, drafts and references remain available through the editorial handoff; they are **not** human-approved replacements for this redesigned syllabus.
