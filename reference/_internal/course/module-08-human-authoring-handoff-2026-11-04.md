@@ -2,7 +2,7 @@
 
 **Prepared:** November 4, 2026; **editorial direction revised November 5, 2026** · **Repository:** `FND-Education-Project/FND-Education` · **Historical Module 7 PR:** [#198](https://github.com/FND-Education-Project/FND-Education/pull/198) (merged November 5). **Current Module 8 editorial branch:** `editorial/module-08-syllabus-handoff-20261105`.
 
-**Status:** The redesigned Module 8 **syllabus direction is owner-approved** as of November 5, 2026. All **three Person audience sections** (Lessons 24–26) are human-approved and committed in draft PR #200; the **six Supporter/Clinician sections remain generated seeds**, unapproved. Do not present generated audience prose as approved. The previous PR #198 was merged for Module 7, so Module 8 authoring uses a **separate draft PR**. No lesson audits, page revisions or publication are authorized by this handoff. Preserve Modules 6–7 and all already approved material.
+**Status:** The redesigned Module 8 **syllabus direction is owner-approved** as of November 5, 2026. All **three Person sections** (Lessons 24–26) and **Lesson 24 / Clinician** are human-approved and committed in draft PR #200; the remaining **five Supporter/Clinician sections are generated seeds**, unapproved. Do not present generated audience prose as approved. The previous PR #198 was merged for Module 7, so Module 8 authoring uses a **separate draft PR**. No lesson audits, page revisions or publication are authorized by this handoff. Preserve Modules 6–7 and all already approved material.
 
 ## Verification follow-up — November 5, 2026
 
@@ -51,6 +51,12 @@ Module 8 remains a generated editorial seed requiring the existing section-by-se
 **Historical verification note (October 2026):** The following wording describes the original preparation stage. The November 5 verification update above supersedes it: the two Person quotes were subsequently source-checked, but their fit to the redesigned lessons has **not** been approved. They are seeded into *draft* lessons with explicit qualification, source links and source-table rows. The new editing chat should verify exact wording, author perspective, omission context, post availability, and whether the excerpt earns its place; replace/remove if not. Review older quotes as part of the final source audit too. Source table rows now place Figure 1 in Person and Figure 2 in Supporter for each lesson. No clinically meaningful claim should rely on an individual's quote.
 
 ## Approved audience decisions — November 5, 2026
+
+### Lesson 24 / Clinician — owner approved and committed (November 5, 2026)
+
+**Approval:** The project lead approved the second, more concise Clinician draft as "a lot more value" and directed a commit, then drafting Lesson 25 Clinician. Committed [edafd4d](https://github.com/FND-Education-Project/FND-Education/commit/edafd4d04ea19746bfa72fbfd43505c0e97525a9) to the [Lesson 24 page](../../../course/module-08-recognizing-symptoms-and-finding-information/01-finding-words-for-what-happens.md) in draft PR #200. It stands on its own with an optional link to the Person account, gets to the point quickly, explores outcome domains and the limitations of generalizing from a successful activity, and takes Natalie's **continuous, untreated/insufficiently controlled migraine as a distinct clinical issue worth attention** without asserting its treatment history. It discusses coexisting migraine, Stone et al. 2025 narrative review, Rutten et al. 2025 qualitative outcome views, Pick et al. 2020 systematic review of outcomes, and Nicholson et al. 2020 OT consensus, with clear boundaries. Preserve this **non-prescriptive, case-driven, concise** voice. The Supporter section and Research table remain historical seeds; reconcile missing newly referenced publications and remove orphaned quotations/citations during later full-source audit. **Lesson 25 / Clinician is next, for review only**.
+
+
 
 ### Lesson 26 / Person — human-approved and committed
 
