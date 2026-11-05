@@ -2,7 +2,7 @@
 
 **Prepared:** November 4, 2026; **editorial direction revised November 5, 2026** · **Repository:** `FND-Education-Project/FND-Education` · **Historical Module 7 PR:** [#198](https://github.com/FND-Education-Project/FND-Education/pull/198) (merged November 5). **Current Module 8 editorial branch:** `editorial/module-08-syllabus-handoff-20261105`.
 
-**Status:** The redesigned Module 8 **syllabus direction is owner-approved** as of November 5, 2026. All nine audience sections remain **unapproved generated seeds**. Only the syllabus and handoff are committed at this stage; do not present prior generated Lesson 24–26 prose as approved. The previous PR #198 was merged for Module 7, so Module 8 authoring uses a **separate draft PR**. No lesson audits, page revisions or publication are authorized by this handoff. Preserve Modules 6–7 and all already approved material.
+**Status:** The redesigned Module 8 **syllabus direction is owner-approved** as of November 5, 2026. All **three Person audience sections** (Lessons 24–26) are human-approved and committed in draft PR #200; the **six Supporter/Clinician sections remain generated seeds**, unapproved. Do not present generated audience prose as approved. The previous PR #198 was merged for Module 7, so Module 8 authoring uses a **separate draft PR**. No lesson audits, page revisions or publication are authorized by this handoff. Preserve Modules 6–7 and all already approved material.
 
 ## Verification follow-up — November 5, 2026
 
@@ -51,6 +51,16 @@ Module 8 remains a generated editorial seed requiring the existing section-by-se
 **Historical verification note (October 2026):** The following wording describes the original preparation stage. The November 5 verification update above supersedes it: the two Person quotes were subsequently source-checked, but their fit to the redesigned lessons has **not** been approved. They are seeded into *draft* lessons with explicit qualification, source links and source-table rows. The new editing chat should verify exact wording, author perspective, omission context, post availability, and whether the excerpt earns its place; replace/remove if not. Review older quotes as part of the final source audit too. Source table rows now place Figure 1 in Person and Figure 2 in Supporter for each lesson. No clinically meaningful claim should rely on an individual's quote.
 
 ## Approved audience decisions — November 5, 2026
+
+### Lesson 26 / Person — human-approved and committed
+
+**Owner approval:** The project lead enthusiastically accepted the revised Person section that uses Natalie's established functional seizures, complicated diagnostic history and a real Reference Library pathway. **Committed:** [baea81a](https://github.com/FND-Education-Project/FND-Education/commit/baea81a3a81410109d99692cc86868dc5be55b21) in [draft PR #200](https://github.com/FND-Education-Project/FND-Education/pull/200), at [Lesson 26 — Finding Your Way Through the Reference Library](../../../course/module-08-recognizing-symptoms-and-finding-information/03-finding-your-way-through-the-reference-library.md). Only the Person section and its draft-status description were changed; Supporter, Clinician and source table retain their pre-authoring state.
+
+**Carry forward:** Natalie originally received a "conversion disorder" diagnosis from a psychologist, discovered the FND terminology from forums and linked information, and was referred to a neurologist via her family doctor. Their conversation left the relationship of "dissociative seizures" and panic attacks insufficiently explained: dissociative seizures is a synonym for functional seizures, **panic attacks are not**. Her reading of the project's actual [functional-seizure diagnostic overview](../../../reference/diagnostic-signs/06-functional-seizures.md) validates that her experiences are medically described, without self-diagnosing. It then helps her ask what evidence supported her own classification. The matching [functional-seizure recovery overview](../../../reference/recovery-techniques/06-functional-seizures.md) introduces care options with bounded evidence, no promises and individual safety considerations. The turning point is **knowledge leading to a more useful conversation with her care team**, not solving an unfamiliar symptom online or prescribing self-treatment. Preserve the warmth, hope, human recognition, flowing paragraphs and three established Person ending headings.
+
+**Pending:** Lesson 24, 25 and 26 **Supporter and Clinician** sections remain generated, unapproved. Old Person community figures/rows in the unreviewed Research and Sources tables may now be orphaned or misplaced; reconcile only with the full audience-level source review, retaining verified quotes only where relevant and keeping Figure/citation numbering consistent. No audit, specialist sign-off, merge or release is implied. The project lead may choose which audience to author next.
+
+
 
 ### Natalie diagnostic history and Lesson 26 continuity — owner direction, November 5, 2026
 
