@@ -46,7 +46,7 @@ But there's something important about having an established diagnosis.
 
 **Knowing the cause of some symptoms doesn't automatically tell us the cause of every symptom we experience.**
 
-Natalie's FND diagnosis remains meaningful. It was established through clinical assessment, and it helps explain important parts of her health. But it doesn't prevent her from developing other health problems. Nor does it tell her whether this particular episode had the same explanation as her familiar dizziness.
+Natalie's existing FND diagnosis remains an important part of her health history, even though she still has questions about how some symptoms were assessed and explained. It doesn't prevent her from developing other health problems, and it doesn't tell her whether this particular episode had the same explanation as her familiar dizziness.
 
 The clinician doesn't need Natalie to choose between believing in her FND diagnosis and asking about something different. Both can be part of sensible medical care.
 
@@ -118,7 +118,7 @@ As the appointment continues, Natalie asks what the clinician thinks the blood p
 
 Natalie has another question. "Does this mean the dizziness I've had all these years might not be FND?"
 
-The clinician explains that the new finding doesn't settle that question. The circumstances and features of her older symptoms still matter, as does the clinical evidence supporting her FND diagnosis.
+The clinician explains that the new finding doesn't settle that question. The circumstances and features of her older symptoms still matter, along with what was actually established during earlier assessments.
 
 Natalie nods. She's not necessarily frightened by this answer. She's curious.
 
@@ -162,9 +162,9 @@ That gives her more confidence in conversations about her health. It doesn't gua
 
 But Natalie can still ask useful questions, understand what has been established and participate in decisions about her care.
 
-She remembers the Reference Library page she bookmarked before her appointment. Now she's wondering what kind of information might help her understand the clinician's explanation—and what a research article or website can reasonably tell her about her own circumstances.
+She also remembers the Reference Library page about functional seizures that she saved while following these lessons. That's a different question from today's faintness: after years of hearing different explanations for her seizures, she wants to understand what was actually assessed and what care might help her now.
 
-That's a question we'll explore next.
+It's the question she'll return to next.
 
 For today, though, she's learned enough. She closes her appointment notes, makes herself comfortable and turns her attention to something she'd rather be doing.
 
