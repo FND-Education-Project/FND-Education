@@ -1,8 +1,8 @@
-# Similar Experiences, Different Features
+# When the Familiar Explanation Doesn't Quite Fit
 
-> **Working draft:** This page was automatically generated and is awaiting human authoring and further review.
+> **Working draft:** Person section human-approved November 5, 2026; Supporter and Clinician sections remain generated seeds awaiting human authoring and further review.
 
-Lesson 25 explores similar Experiences, Different Features through everyday examples, collaborative adaptations and clinical reasoning.
+Lesson 25 follows Natalie as an unfamiliar episode leads to a medical finding, showing how observations, test results, interpretations and unanswered questions differ. The Person section is human-authored; the other audience sections remain generated drafts.
 
 *Last reviewed: October 26, 2026*
 
@@ -16,42 +16,185 @@ Lesson 25 explores similar Experiences, Different Features through everyday exam
 
 ## For the Person With FND
 
-### “Dizzy” can mean several things
+### Something was different
 
-Imagine three people telling a doctor they feel dizzy.
+Natalie is sitting in a doctor's office, waiting for her appointment to begin. She's brought a short note about the unusual dizziness she mentioned in our last lesson.
 
-One says the room seems to spin. Another feels close to fainting after standing. The third feels unsteady among bright shelves in a supermarket.
+Natalie knows dizziness well. It's been part of her life with FND for years, along with her functional seizures, continuous migraine and difficulties with walking. Some days she feels unsteady even when she's standing still. Other times, movement seems difficult to coordinate, and she needs to take particular care getting around her apartment. She's become familiar with those experiences.
 
-They have all used an honest word. But the experiences are not identical, and the appropriate medical questions may be different.
+But last week, something happened that didn't quite fit.
 
-That's the skill we'll practise: **notice differences in symptoms without choosing their cause**.
+Natalie had been sitting in her living room when she decided to get up. As she stood, her vision began to dim around the edges. She felt faint, almost as though she might lose consciousness. She managed to sit down again, and the feeling gradually passed.
 
-### Compare what happens, not what you think it is
+It hadn't been like her usual dizziness. There was no familiar sense of unsteadiness. Instead, she'd felt as though she might black out.
 
-A shaking hand might move rhythmically, suddenly jerk or make repeated brief movements. People use words such as *tremor*, *jerk* and *tic* to describe different patterns. These words are useful starting points; the full history and examination still matter.
+Natalie was alone, as she is most days. Nobody else saw what happened. She'd wondered whether her migraine, poor sleep or FND might have contributed, but she couldn't tell. And although the episode had passed, she wanted to understand what might have happened.
 
-“I couldn't move” can also mean several things. Perhaps a leg had almost no strength. Perhaps it felt fixed in one posture. Maybe a movement wouldn't begin, or the inability to move happened during an episode of altered awareness.
+### "But I already have FND"
 
-Or consider a fall. Functional seizures, epileptic seizures, fainting and other events can sometimes look similar. The beginning, responsiveness, breathing, observed movements, time course and recovery may all matter. No single feature makes a safe diagnosis, and a home recording needs expert context.
+The clinician welcomes Natalie into a quieter examination room. The lights are dimmed because of her migraine, and Natalie takes out the note she'd brought.
 
-This is why our Reference Library includes **scope boundaries**. An article about a functional symptom tells you what *that article* covers. It does not decide what happened to you.
+"I've had dizziness for years," she begins. "But this was different. I stood up, everything started going dark, and I thought I might faint."
 
-### How the previous modules help
+The clinician asks a few questions about what happened before and afterward. Natalie explains what she remembers, then hesitates.
 
-We now know words such as *attention*, *automatic movement* and *interoception*. We can use them to describe how a task feels, but they cannot tell us whether a collapse was a functional seizure, faint or something else. (*citations* [1](#citation-1), [2](#citation-2))
+"I suppose it could just be another FND symptom?"
 
-If a symptom is new, dangerous or substantially different, do not delay urgent assessment to search for its matching description.
+It's a reasonable thought. She's already been diagnosed with FND, and her symptoms have changed over time. She's learned that different functional symptoms can appear together and that their severity can vary.
 
-One person with FND described how the duration of symptoms can change:
+But there's something important about having an established diagnosis.
 
-> “Sometimes, you gain new symptoms for a short time and sometimes, they last for longer periods of time.”
+**Knowing the cause of some symptoms doesn't automatically tell us the cause of every symptom we experience.**
 
-*Figure 1. Community experience.* A person describing their own FND experience and changing symptom duration; this does not classify symptoms or establish their cause. [Public source](https://www.reddit.com/r/FND/comments/1pmq119/comment/nu24zyl/). (*citations* [5](#citation-5))
+Natalie's FND diagnosis remains meaningful. It was established through clinical assessment, and it helps explain important parts of her health. But it doesn't prevent her from developing other health problems. Nor does it tell her whether this particular episode had the same explanation as her familiar dizziness.
 
-**Something to think about:** When you say weak, dizzy, absent or foggy, what exactly are you trying to describe?
+The clinician doesn't need Natalie to choose between believing in her FND diagnosis and asking about something different. Both can be part of sensible medical care.
 
-**One small step:** Add one concrete detail to one familiar symptom. For instance, “The room seems to turn when I move my head,” or “I feel faint after I stand.” That is more useful than attempting a diagnosis.
+As we explored in Module 5, meaningful changes in familiar symptoms deserve appropriate assessment. Here, though, we're going to look at something more: what happens when that assessment begins producing information.
 
+### A finding that changes the conversation
+
+During the appointment, the clinician checks Natalie's blood pressure. First, it's measured while she's resting. Then, with appropriate assistance because her balance can be unreliable, it's checked after she stands.
+
+This time, the reading falls noticeably when Natalie stands. The clinician explains what the measurement shows: her blood pressure was lower after standing than it had been while she was resting.
+
+Natalie is interested. "Could that be why I felt faint?"
+
+"It could be relevant," the clinician explains. "A drop in blood pressure when standing can contribute to feeling faint. We need to understand why it happened and whether it explains your experience."
+
+Natalie considers this. The measurement is something definite: her blood pressure changed during the examination. But that doesn't mean every question has been answered.
+
+The clinician hasn't established why her blood pressure fell. Nor does this one finding explain all the dizziness, balance difficulties and other symptoms Natalie has experienced over the years. It provides a reason to investigate a particular possibility.
+
+That's a useful distinction.
+
+The blood pressure reading is a **finding**: something measured during the examination. Whether that finding explains an episode is an **interpretation**. It involves considering the person's experience, examination and other relevant medical information together.
+
+Sometimes a finding provides strong evidence for an explanation. Sometimes it's only part of the picture.
+
+Natalie doesn't need to understand every possible cause of a blood pressure change. Her clinician can take responsibility for assessing those possibilities and deciding what further evaluation is appropriate. But Natalie can understand why this particular result matters: her unfamiliar experience has led to a question that the clinician can investigate.
+
+### What if the result had been normal?
+
+Imagine, for a moment, that Natalie's blood pressure hadn't changed during the examination.
+
+Would that mean she'd imagined the episode at home?
+
+No. It would mean that the particular change the clinician was looking for hadn't been found during that measurement. The result might still be useful, but it wouldn't answer every possible question about what Natalie experienced last week.
+
+After all, a measurement taken during an appointment tells us what was happening when it was taken. Some health problems come and go, and a single examination may not capture them.
+
+This doesn't mean normal results are unimportant. Sometimes they provide strong reassurance about the specific problem being investigated. Other times, they help narrow the possibilities without providing a complete explanation.
+
+And the same care is needed with an unexpected finding. A scan, examination or blood test may identify something genuine, but that finding still needs to be understood in context.
+
+For example, an image might show a change that has been present for years and has little to do with someone's current symptoms. Another finding might be important enough to require further investigation or treatment.
+
+**Finding something and finding the explanation aren't always the same thing.**
+
+That's why a clinician considers both what a test shows and how well the finding fits the person's experience. Natalie is beginning to appreciate that medical evidence can answer one question while leaving another open.
+
+And that's different from having no useful answer at all.
+
+### More than one thing can be true
+
+Natalie thinks about her symptoms over the past several years. Her functional seizures remain severe. Her migraine is constant, and her movement difficulties vary from day to day. She's learned a great deal about FND and has become more confident in understanding many of these experiences.
+
+But what if another health problem sometimes contributes to how she's feeling? What if poor sleep makes several difficulties harder to manage, while a separate issue contributes to a particular episode of faintness? Or what if an unfamiliar symptom turns out to be part of an already recognized condition?
+
+These possibilities aren't interchangeable, and Natalie can't decide between them simply by comparing her symptoms with descriptions online. That's where clinical assessment matters.
+
+Sometimes two health conditions can affect the same activity. Someone may have functional walking difficulties and also experience dizziness from another cause. Sometimes a medical illness, pain or fatigue makes existing functional symptoms harder to manage. And sometimes a familiar symptom changes for reasons that still need to be understood.
+
+Having FND doesn't make these possibilities unusual in principle. People with FND can develop other illnesses and injuries, just like anyone else.
+
+The important question isn't whether every experience can be placed into one tidy explanation. It's whether the available evidence gives the clinician and patient a reasonable understanding of what's happening and what to do next.
+
+Natalie's blood pressure finding has opened a useful line of investigation. It hasn't rewritten her entire medical history.
+
+### "I'm not asking you to reassure me"
+
+As the appointment continues, Natalie asks what the clinician thinks the blood pressure change means. The clinician explains that they'll need to consider possible contributors and whether further assessment or follow-up is appropriate.
+
+Natalie has another question. "Does this mean the dizziness I've had all these years might not be FND?"
+
+The clinician explains that the new finding doesn't settle that question. The circumstances and features of her older symptoms still matter, as does the clinical evidence supporting her FND diagnosis.
+
+Natalie nods. She's not necessarily frightened by this answer. She's curious.
+
+She wants to understand what has been established, what remains uncertain and what the next steps are intended to find out. Sometimes people ask medical questions because they're worried. Sometimes they're frustrated or disappointed. And sometimes they simply want information.
+
+Natalie has spent years learning about her health. Understanding the evidence helps her participate in decisions about her care.
+
+Being told not to worry wouldn't answer the question she's asking. But an explanation of what the clinician found, what it might mean and what will happen next gives her something useful.
+
+It also leaves room for uncertainty without treating that uncertainty as a failure.
+
+### Leaving with a better question
+
+Before Natalie leaves, the clinician explains the plan. They'll review possible contributors to the blood pressure change and decide whether further assessment is needed. They also discuss what changes would call for earlier medical attention, using the safety principles Natalie already knows from Module 5.
+
+Natalie asks one final question. "So what do we actually know so far?"
+
+Together, they clarify the answer.
+
+The clinician found a drop in Natalie's blood pressure when she stood during the examination. That finding could be relevant to the unfamiliar faint feeling she experienced.
+
+What caused the change, and how much it explains about that particular episode, still needs consideration. And it doesn't overturn the established explanations for her other symptoms.
+
+Natalie leaves with an understanding of what was found, why it matters and what the clinician intends to consider next.
+
+She doesn't have a final answer to everything. But she has something better than a collection of guesses: a clearer picture of the evidence.
+
+### A different way to look at uncertainty
+
+Back at home, Natalie settles into her familiar chair. The appointment took a lot out of her. The journey, the lights and the effort of concentrating on the conversation have left her tired.
+
+But she's pleased with what she learned.
+
+A few years ago, an unfamiliar medical experience might have led her to search through dozens of explanations, trying to find one that matched everything. Now she understands that an explanation should fit the evidence, not simply sound convincing.
+
+She also understands something else. She doesn't have to question her entire FND diagnosis whenever something unfamiliar happens. Nor does she have to assume that FND explains it.
+
+Her diagnosis is one important part of her medical history. New information can be considered alongside it.
+
+That gives her more confidence in conversations about her health. It doesn't guarantee that every question will have an answer. Some investigations remain inconclusive, and people sometimes need follow-up before a clearer picture emerges.
+
+But Natalie can still ask useful questions, understand what has been established and participate in decisions about her care.
+
+She remembers the Reference Library page she bookmarked before her appointment. Now she's wondering what kind of information might help her understand the clinician's explanation—and what a research article or website can reasonably tell her about her own circumstances.
+
+That's a question we'll explore next.
+
+For today, though, she's learned enough. She closes her appointment notes, makes herself comfortable and turns her attention to something she'd rather be doing.
+
+Her health is important. It doesn't have to occupy every waking moment.
+
+### Something to think about
+
+Imagine being told that a medical test was normal, even though the symptom that prompted it was very real.
+
+The result might be reassuring, but what would it help you understand? Consider the difference between learning that a particular problem wasn't found during an examination and learning that every possible explanation has been ruled out.
+
+Those are not necessarily the same thing.
+
+### How might that feel?
+
+Imagine explaining a new experience to a clinician who already knows about your FND. Instead of asking you to defend your diagnosis or dismissing the change, they listen and explain what they can investigate.
+
+What difference might it make to feel that your existing diagnosis is understood while your new question is taken seriously?
+
+### One small step
+
+If you receive a test result or an explanation that leaves you curious, you might ask:
+
+"What does this result tell us, and what does it leave unanswered?"
+
+You could also ask what the next step is intended to clarify.
+
+You don't need to investigate every possibility yourself or remember every detail of the conversation. An explanation in ordinary language, or a brief written summary when helpful, may be enough.
+
+The goal is to understand the information that matters to your care, one question at a time.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
