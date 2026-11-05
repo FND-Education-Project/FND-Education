@@ -1,8 +1,8 @@
 # Finding Your Way Through the Reference Library
 
-> **Working draft:** This page was automatically generated and is awaiting human authoring and further review.
+> **Working draft:** Person section human-approved November 5, 2026; Supporter and Clinician sections remain generated drafts awaiting human authoring and further review.
 
-Lesson 26 explores finding Your Way Through the Reference Library through everyday examples, collaborative adaptations and clinical reasoning.
+Lesson 26 follows Natalie as she uses the Reference Library to better understand her previously diagnosed functional seizures, clarify terminology and assessment, and identify useful questions about ongoing care. The Person section is human-authored; other audiences remain generated seeds.
 
 *Last reviewed: October 26, 2026*
 
@@ -16,50 +16,265 @@ Lesson 26 explores finding Your Way Through the Reference Library through everyd
 
 ## For the Person With FND
 
-### The library is not a diagnostic quiz
+### Someone has actually described this!
 
-Imagine asking a librarian for “the book about shaking.” They would probably ask a few questions before choosing a shelf.
+Natalie is sitting in her favourite chair, her tablet resting on a cushion beside her.
 
-Our Reference Library works much the same way. You can start with your own words and explore more than one relevant page.
+She's been thinking about something that has bothered her for years: the explanation she was given for her functional seizures.
 
-The goal isn't to keep clicking until a diagnosis appears. The goal is to **understand possible descriptions and arrive at better questions**.
+When her symptoms first developed, a psychologist diagnosed her with *conversion disorder*. Natalie didn't understand what that meant for the shaking, the periods when she couldn't move or speak, or the gaps in her memory.
 
-A partner described the experience of being given a diagnosis without much guidance:
+She went looking for answers online. Through FND forums and other websites, she discovered that conversion disorder is an older name for what's now generally called **functional neurological disorder (FND)**.
 
-> “My partner has an FND diagnosis. He was basically told “you’ve got FND, go look it up.””
+At least she had a name she could learn more about.
 
-*Figure 1. Community experience.* A partner's account of searching for information after diagnosis; it does not describe every diagnostic conversation. [Public source](https://www.reddit.com/r/FND/comments/1ij3lns/choking_hazard/). (*citations* [5](#citation-5))
+Natalie spoke with her family doctor, who arranged a referral to a neurologist. But the explanation she received left her with more questions. Her episodes were discussed as dissociative events and compared with panic attacks.
 
-### Three places to begin
+Natalie wasn't sure what that meant. Were these different names for the same thing? Was the neurologist suggesting she was having ordinary panic attacks? And how had anyone determined what was happening during her seizures?
 
-The [Diagnostic Signs Library](../../reference/diagnostic-signs/README.md) describes how clinicians evaluate particular functional presentations, including other explanations that may need consideration. (*citations* [1](#citation-1), [2](#citation-2))
+She didn't necessarily know which questions to ask back then.
 
-The [Recovery Techniques Library](../../reference/recovery-techniques/README.md) describes possible care and rehabilitation approaches, their limits and relevant safety information.
+Since that time, she's been following the lessons in this FND course. She's learned about the nervous system, body signals, movement, attention and the different ways functional symptoms can appear.
 
-The [Co-occurring Conditions Library](../../reference/co-occurring-conditions/README.md) describes conditions that may accompany FND or share some symptoms with it.
+She's also learned that understanding FND can help people approach their experiences differently, even when their symptoms remain severe.
 
-Each symptom page has separate reading paths for the **Person**, **Supporters**, and **Clinicians**. You can read the part that helps you. The technical section is there when you need it, not as a test you must pass.
+Now she wants to put that knowledge to use.
 
-### Look for what the page does—and doesn't—cover
+She opens the [FND Reference Library](../../reference/README.md), selects **Functional Seizures**, then opens the [Understanding and Diagnosis page](../../reference/diagnostic-signs/06-functional-seizures.md).
 
-Suppose you have episodes where your legs shake and you lose your balance. You might explore pages about tremor, gait problems or falls. You may also need assessment for a different medical condition.
+Near the beginning, she reads about episodes involving shaking, jerking, stillness or an inability to respond. Some people may hear what's happening around them but be unable to answer. Others remember only parts of an episode.
 
-First read **Refers to**: what sorts of experiences belong on the page? Then look for a **scope boundary**: what does the page leave for another topic?
+Natalie pauses.
 
-A recovery method being described isn't proof it works. Someone's story can show what mattered to them without predicting your outcome.
+She's experienced several of those things. In fact, some of the details are remarkably familiar.
 
-### When several pages fit
+*Other people experience things like this?*
 
-Sometimes a few descriptions sound familiar. That's not a failure to pick correctly.
+She's read personal accounts before, but now she's seeing those experiences described in a medical reference about a recognized condition.
 
-You might ask your care team, “I noticed these experiences overlap. Which features are important in my assessment, and what is still uncertain?”
+For a moment, Natalie feels a little less alone.
 
-**Something to think about:** Would you rather begin from a symptom word, an everyday description or a problem in daily life?
+### When a description feels familiar
 
-**One small step:** Choose one previously assessed symptom and visit one relevant page. Read the opening and scope boundary. You can stop there. One useful question is worth more than an exhausting afternoon of searching.
+Imagine living with something that's difficult to explain. Perhaps you've never met anyone who experiences it quite the way you do, and even the people treating you seem to have trouble understanding it.
 
-Next comes rehabilitation. We'll explore how learning and practice may help, without assuming every symptom needs the same approach.
+Then you read a description that sounds surprisingly familiar.
 
+You may feel relieved, curious or even a little emotional. Natalie certainly does.
+
+She knows that reading about an experience doesn't establish its cause. Similar symptoms can occur with different medical conditions, and a website can't make a diagnosis.
+
+But she's not trying to diagnose herself. She's trying to make sense of a diagnosis she was given years ago.
+
+She notices that the page doesn't expect everyone with functional seizures to experience the same symptoms. Some episodes involve considerable movement, while others involve stillness or reduced responsiveness.
+
+That helps Natalie understand how two seizures can look quite different and still be considered part of the same condition.
+
+It also raises an interesting question.
+
+*If these experiences are recognized, what have clinicians learned about identifying them?*
+
+She keeps reading.
+
+### What did they mean by dissociative?
+
+Natalie discovers that functional seizures have several names. Depending on the source, she may see *functional seizures*, *dissociative seizures* or the older term *psychogenic nonepileptic seizures (PNES)*.
+
+Now something from her neurology appointment makes more sense.
+
+The neurologist may have been using *dissociative* as another term for functional seizures. That word doesn't automatically mean an episode was caused by anxiety, trauma or an emotional experience.
+
+But what about panic attacks?
+
+Natalie has learned enough to recognize an important distinction.
+
+**Functional seizures and panic attacks aren't simply two names for the same experience.**
+
+Some symptoms can overlap, and people can experience both conditions. But determining what happened during a particular episode requires an appropriate clinical assessment.
+
+Natalie doesn't know exactly what her neurologist intended by the comparison. Perhaps they were describing similarities, or perhaps they believed panic was involved in her episodes.
+
+She'd like to understand.
+
+And now she knows that asking for clarification isn't the same as rejecting her diagnosis.
+
+### How do clinicians know?
+
+The [Functional Seizures diagnostic page](../../reference/diagnostic-signs/06-functional-seizures.md) explains that clinicians consider the whole episode, including how it begins, what happens during it and how the person recovers.
+
+It also discusses how video recordings and, when appropriate, a test called *video-EEG* can help.
+
+> **Video-EEG:** A test that records the brain's electrical activity while video records what is happening to the person. When a typical episode is captured, clinicians can examine the two recordings together.
+
+Natalie finds that interesting. She'd always thought of an EEG as a test that either found epilepsy or came back normal.
+
+But a normal routine EEG between episodes cannot, by itself, rule out epilepsy. Recording and examining a typical event can provide more useful evidence, although not everyone needs or can undergo the same investigations.
+
+She also learns that functional seizures and epileptic seizures can coexist, which is one reason different kinds of episodes sometimes need separate assessment.
+
+Natalie thinks about her own appointments.
+
+She remembers being asked questions about her seizures, but she isn't sure which findings led to the conclusions she was given.
+
+Perhaps the clinicians had reasons they didn't explain clearly. Perhaps further assessment would be appropriate. She can't determine that from the website alone.
+
+But she can ask.
+
+"What findings support the diagnosis of functional seizures in my case? And how do those findings relate to the different episodes I experience?"
+
+That's a much more useful question than wondering whether someone simply decided her seizures were panic attacks.
+
+The Reference Library hasn't told Natalie what her clinicians found.
+
+It's helped her understand **what kind of explanation she can reasonably ask them to provide**.
+
+### Is there anything that might help?
+
+Natalie returns to the Reference Library and opens [Recovery Techniques for Functional Seizures](../../reference/recovery-techniques/06-functional-seizures.md).
+
+This is the part she's particularly interested in.
+
+Her seizures have been severe for years. She's learned ways to make her surroundings safer and has developed routines for managing everyday life, but she still hopes the seizures themselves might improve.
+
+For a long time, she'd wondered whether their frequency and severity were simply how things would always be.
+
+Now she finds information about different approaches to treatment and recovery.
+
+The page discusses the importance of a clear diagnosis and continuing care. It introduces individualized safety planning, recognizing useful warnings when they exist, seizure-focused psychological treatments and approaches to making meaningful activities more accessible.
+
+It also explains why other health problems, such as pain or disrupted sleep, deserve attention alongside the seizures.
+
+Natalie hadn't realized there were so many different areas of care to consider.
+
+Some treatment programmes have been studied in clinical trials, while other approaches are supported mainly by professional guidance or developing research. Not every treatment has been shown to reduce seizure frequency, and an approach that helps one person may not help another.
+
+She notices something else.
+
+Some techniques depend on recognizing an early warning and having enough awareness to use a practised strategy. Natalie's seizures sometimes begin without a warning she can use, so those approaches may not be practical for her.
+
+But other parts of care could still be relevant, particularly because she lives alone and her seizures can leave her unable to move or respond.
+
+She also wonders whether the psychological treatment mentioned on the page is what the neurologist had meant by panic attacks.
+
+As she reads, she begins to appreciate another distinction.
+
+A psychological treatment can be considered for functional seizures without assuming that the seizures are ordinary panic attacks or that the person has a particular emotional cause for them.
+
+The suitability of any treatment depends on the person's diagnosis, circumstances, preferences and the available evidence.
+
+Natalie doesn't have to choose an approach herself. Some interventions require professional assessment or supervision, and her continuing safety and support needs remain important.
+
+But she has found possibilities she didn't previously understand.
+
+And those possibilities give her something worthwhile to discuss with her care team.
+
+### What does recovery mean for someone like Natalie?
+
+Natalie thinks back to the afternoon Leah visited.
+
+In Lesson 24, we saw how she'd learned to enjoy time with her friend even though her symptoms remained severe.
+
+That was meaningful progress.
+
+But it wasn't the only kind of progress Natalie wanted.
+
+She would also love to have fewer functional seizures, recover more easily afterward and feel more confident about managing everyday activities.
+
+Reading about recovery techniques has reminded her that adaptation and symptom improvement aren't opposing goals.
+
+A person can make life more manageable now while also working toward changes in their symptoms or abilities.
+
+And although FND can be long-lasting, the course of the condition isn't identical for everyone. Some people experience substantial improvement, others improve in particular areas, and some continue to live with severe symptoms despite treatment.
+
+No website can predict Natalie's outcome.
+
+But she no longer has to assume that because her seizures have been severe for several years, they must always remain exactly as they are today.
+
+That possibility means something to her. It isn't a promise, and it doesn't make the difficulties disappear.
+
+It gives her a reason to ask what options may still be worth considering.
+
+### From understanding to better care
+
+Natalie looks again at the two Reference Library pages she's been reading.
+
+She started with questions about the explanations she'd been given years ago.
+
+Now she understands that *conversion disorder* and *FND* refer to the same diagnostic tradition, and that *dissociative seizures* is another term used for functional seizures. She also understands why describing her episodes as panic attacks would need a more specific explanation.
+
+She's learned a little about how clinicians assess functional seizures and discovered several areas of treatment and recovery she could discuss.
+
+Most importantly, she has a clearer idea of what she'd like from her care.
+
+Her original diagnosis deserves an explanation she understands. Her severe symptoms deserve continuing attention, and her treatment plan should reflect the difficulties she actually experiences.
+
+Natalie decides to ask her family doctor for help arranging a review of her seizure care.
+
+She doesn't need to arrive with a self-diagnosis or a long list of internet findings.
+
+She could simply explain:
+
+"I've been learning more about functional seizures. I understand that dissociative seizures is another name for them, but I'm still confused about how my episodes were assessed and why they were compared with panic attacks. Could we review the diagnosis and talk about what treatment or support might help me now?"
+
+That conversation might clarify the evidence already available. It might identify a need for further assessment or a referral to someone with experience treating functional seizures.
+
+It might also reveal useful options for ongoing care that Natalie hasn't had an opportunity to consider.
+
+She doesn't know yet.
+
+But she has a direction.
+
+### More than a collection of information
+
+Natalie closes her tablet.
+
+Her migraine still hurts, and she doesn't know how much her seizures might improve.
+
+But something about the afternoon has been encouraging.
+
+She's seen experiences like her own described in a way that makes them understandable. She's learned more about the questions clinicians use to distinguish functional seizures from other conditions, and she's discovered recovery approaches worth discussing with her care team.
+
+For years, Natalie sometimes felt that receiving a diagnosis was the end of the conversation.
+
+Now she sees that **understanding a diagnosis can be the beginning of better conversations about care**.
+
+The lessons she's been following have given her knowledge she didn't have before. The Reference Library has shown her where she can explore that knowledge further when she has a particular question.
+
+She doesn't need to learn everything or try everything.
+
+For now, she's found something that matters to her.
+
+And that's enough.
+
+### Something to think about
+
+Imagine reading a description of a functional symptom you've been diagnosed with and discovering that it describes an experience you've struggled to explain for years.
+
+What might it mean to discover that this experience is recognized and that other people have reported something similar?
+
+Perhaps it would help you feel less alone. Or perhaps it would give you a better understanding of the diagnosis you've been living with.
+
+### How might that feel?
+
+Imagine learning that your symptoms have been described in medical research and that different treatment or rehabilitation approaches have been developed for them.
+
+You might feel hopeful, cautious or even frustrated that you hadn't heard about some of these possibilities before.
+
+What difference might it make to feel more informed about your condition and more involved in decisions about your care?
+
+### One small step
+
+If you'd like to understand one of your **previously diagnosed FND symptoms** better, you could visit the [Reference Library](../../reference/README.md).
+
+Start with its **Understanding and Diagnosis** page. See whether the descriptions help you recognize your experience and learn how clinicians assess that particular presentation.
+
+If you'd like to explore possibilities for improvement, follow the link to the matching **Recovery Techniques** page. You can bring a question about anything that interests you to the appropriate care professional.
+
+Perhaps you want to understand what findings supported your diagnosis. Perhaps you'd like to know whether a treatment or rehabilitation approach might be suitable for you.
+
+Or perhaps simply discovering that your experience is recognized and understood would be enough for today.
+
+**You don't need to become an expert in FND to take a more informed part in your care.**
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
