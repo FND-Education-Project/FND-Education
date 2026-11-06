@@ -1,8 +1,8 @@
 # When the Familiar Explanation Doesn't Quite Fit
 
-> **Working draft:** Person and Clinician sections human-approved November 6, 2026; Supporter section remains a generated seed awaiting human authoring and further review.
+> **Working draft:** Person, Supporter and Clinician sections human-approved November 6, 2026; subsequent lesson audits and publication checks remain pending.
 
-Lesson 25 follows Natalie as an unfamiliar episode leads to a medical finding, showing how observations, test results, interpretations and unanswered questions differ. The Person section is human-authored; the other audience sections remain generated drafts.
+Lesson 25 follows Natalie as an unfamiliar episode leads to a medical finding, showing how observations, test results, interpretations and unanswered questions differ. All three audience sections are human-authored and approved.
 
 *Last reviewed: October 26, 2026*
 
@@ -205,32 +205,115 @@ The goal is to understand the information that matters to your care, one questio
 
 ## For Family, Friends, and Other Supporters
 
-### “I've seen something like that before” can be both useful and misleading
+### Something happened while Natalie was alone
 
-A person might call a movement a tremor, jerk, spasm or tic. Someone else might call a sudden collapse fainting or a seizure. The appearances can overlap, but the causes and safe responses may differ.
+Leah has stopped by for her usual visit, and Natalie has something to tell her. Earlier in the week, she'd stood up from her chair and suddenly felt as though she might faint. Her vision had started to darken, and she'd managed to sit down before anything worse happened. It was different from the dizziness she'd experienced for years, so she'd made a note to discuss it with her doctor.
 
-### Compare the features—not the people
+"That must have given you a fright," Leah says.
 
-Suppose two people both say they're dizzy. One describes spinning; the other feels close to fainting after standing. Rather than decide that one symptom is “more FND” than the other, notice what the descriptions actually say.
+"Actually, I was mostly wondering what on earth had happened," Natalie replies. "It wasn't like my usual dizziness."
 
-The same applies when someone cannot move: is the limb weak, fixed in a posture, shaking, in pain, or part of an episode with changed awareness? A supporter can help locate the words without putting a medical label on the experience.
+Natalie explains that her clinician found something during the examination that might be relevant. There are still questions, but she's pleased to have a better idea of what they might investigate. Leah is glad she had it checked, and before long they're talking about something else.
 
-Avoid rehearsing symptoms, testing responsiveness, asking for repeated movements or using distractibility as a home diagnostic method. Those belong to appropriately trained clinicians, and some can be unsafe. (*citations* [1](#citation-1), [2](#citation-2))
+There's nothing particularly remarkable about their conversation. Friends tell each other about things that happen during the week, including unusual experiences and medical appointments. Sometimes they offer advice, sometimes they ask questions, and sometimes they simply listen.
 
-### Hand the medical distinction to the right team
+But there's something about Natalie's story that Leah hasn't given much thought to before.
 
-**Neurology** and other specialists assess relevant positive FND signs, epileptic events or movement patterns; **primary care, emergency, cardiology, ENT, ophthalmology and vestibular clinicians** may need to assess alternative or additional explanations. **OT/PT/SLT** can help with daily adaptations, functional abilities or swallowing/communication when appropriate.
+Nobody was there when it happened.
 
-Sudden stroke-like changes, serious breathing difficulty, injuries or other urgent symptoms require emergency assessment, even when the person already has FND. Refer back to the safety plan from Module 5 rather than making decisions from a symptom list.
+Natalie had to manage the unfamiliar feeling herself, recognize that it was different from what she usually experienced, and remember enough to describe it afterward. Her difficulties with memory and concentration can make those ordinary responsibilities harder than they might appear. Fortunately, she'd managed to make a note before the details slipped away.
 
-> “Honesty after reading many posts, I didn't realize there was so many different variations to FND.”
+And although Leah enjoys their visits, she isn't there during most of Natalie's week.
 
-*Figure 2. Community experience.* A father describes encountering varied accounts. These accounts are not diagnostic evidence. [Original public source](https://www.reddit.com/r/FND/comments/16iyjst/dad_helping_recently_diagnosed_daughter/). (*citations* [4](#citation-4))
+### When there's nobody to talk things through with
 
-**Something to discuss together:** “What did this feel like to you, and what did I actually see? Is there a question we want a clinician to answer?”
+Think about what happens when you experience something unusual. Perhaps you mention it to your spouse over breakfast or bring it up with a friend later that afternoon. You might not be particularly worried about it. You're simply curious, and another person's questions can sometimes help you think about what happened.
 
-**One small thing:** Choose a familiar descriptive word—*dizzy*, *shaking* or *weak*, for example—and note one detail the person agrees is useful. Stop there.
+Now imagine living with severe FND and having nobody available for those conversations.
 
+Perhaps you've become familiar with your symptoms over the years. You know what a difficult morning usually feels like, and you've learned which activities are easier to manage when your walking or concentration is unreliable. Then something happens that doesn't fit your familiar experiences.
+
+You sit quietly afterward, wondering what to make of it. You'd like to ask someone what they think, but there's nobody to call. Eventually, you decide to mention it at your next appointment.
+
+That sounds straightforward enough, until you consider what happens next.
+
+Imagine the person reaching for a notebook to record what happened. They begin writing, but their migraine is painful and they're finding it difficult to concentrate. They leave the notebook on the table, intending to finish later. By the evening, they've forgotten where they put it, and the details of the experience are harder to bring back.
+
+They still want to understand what happened. They just have more difficulty gathering the information they need to explain it.
+
+Someone with dependable support might have a partner who remembers the conversation or helps them find the note. Another person may have developed reliable routines for managing these difficulties independently. But when symptoms interfere with those routines, and nobody else is available, even a small unfinished task can become another problem to solve.
+
+And sometimes the most difficult part isn't remembering what happened. It's finding the energy to do anything about it.
+
+### Getting to the appointment is part of the story
+
+Let's imagine our person has arranged to see their doctor.
+
+The appointment is next Tuesday, and there's quite a bit to organize beforehand. They need transportation, suitable clothing and enough time to prepare without becoming exhausted. If bright lights and noise make their symptoms difficult to manage, even the waiting room may require some planning.
+
+They might decide to leave the laundry and other household tasks for another day so they can manage the appointment. Perhaps they've been looking forward to a favourite activity, but there's only so much they can comfortably fit into the week.
+
+By Tuesday morning, they've already put considerable effort into getting ready. They arrive at the clinic, take out their note and begin explaining what happened.
+
+The clinician asks when the unfamiliar feeling began and what the person remembers experiencing. Some details are clear, but others are difficult to recall. They pause, search for the right words and eventually explain that they aren't sure.
+
+Imagine how frustrating that could feel. They've spent days trying to understand an experience, made the arrangements to attend and finally reached someone who may be able to help. Yet when the conversation begins, they struggle to explain themselves as clearly as they'd hoped.
+
+For someone who has previously felt misunderstood, that difficulty may carry an additional emotional weight. They might wonder whether the clinician will appreciate what they're trying to describe or whether the missing details will make their account seem less useful.
+
+But a person doesn't need to understand the cause of an unfamiliar symptom before asking about it. And they don't need a perfect memory of everything that happened.
+
+Their description, the circumstances and whatever the clinician can establish during an appropriate assessment can all contribute to understanding the problem.
+
+A medical review published by Bennett and colleagues in 2021 explains that people with FND can also have other neurological or medical conditions. An existing FND diagnosis remains relevant, but it doesn't automatically explain every new experience. [Read the research](https://doi.org/10.7861/clinmed.2020-0987). (*citation* [1](#citation-1))
+
+This is worth remembering because people with FND may have spent years learning to recognize their familiar difficulties. When something feels different, they shouldn't have to decide for themselves whether it's another FND symptom or something unrelated before receiving appropriate care.
+
+### What supporters may not realize
+
+Now think about the difference Leah makes in Natalie's life.
+
+She isn't responsible for Natalie's medical care, and she doesn't need to understand the details of every symptom. But she's someone Natalie can talk to. She might remind her of a question, help with a practical arrangement when she's available or simply listen when Natalie wants to share something.
+
+Those little exchanges can be easy to take for granted. One community member described the value of having someone who believes what you're experiencing:
+
+> “I know having a partner to just believe and support them is extremely helpful.”
+
+*Community experience — person describing the value of support for someone with FND.* [Original public comment](https://www.reddit.com/r/FND/comments/1k8is0m/comment/mp78ddy/). Previously collected in the project's caregiver quotation bank, October 25, 2026. (*citation* [7](#citation-7))
+
+A person with no dependable supporter may have to manage every part of the process alone, from recognizing an unfamiliar experience to arranging follow-up care. If cognitive difficulties make remembering information challenging, there may be nobody to help carry the conversation forward. If movement difficulties make travelling exhausting, nobody may be available to offer assistance.
+
+And if a medical appointment leaves them too tired to accomplish anything else that day, the usual responsibilities of living alone are still waiting when they return home.
+
+Perhaps you've noticed a theme emerging across these lessons. We often see the activity someone has managed, whether it's an enjoyable visit or a completed appointment, without appreciating everything required to make it happen.
+
+The difficulty isn't necessarily a lack of determination. Someone may be doing everything reasonably within their ability and still have important needs that aren't being met.
+
+A small Canadian interview study published in 2026 explored the experiences of people with FND and their care partners. Participants described difficulties obtaining information, navigating healthcare services and advocating for appropriate care. The study involved only 11 people with FND and two care partners, so it cannot tell us how common these experiences are, but it helps show why obtaining care can involve considerably more work than attending an appointment. [Read the study](https://doi.org/10.1017/cjn.2026.10629). (*citation* [6](#citation-6))
+
+For supporters, understanding that effort can change the conversation. Instead of assuming that someone who attended an appointment has everything under control, we might appreciate how much they accomplished just by getting there.
+
+And if they tell us something unfamiliar happened, we can listen without feeling responsible for explaining it.
+
+### A little more room for understanding
+
+Imagine our person reaching the end of their appointment.
+
+They haven't received every answer they were hoping for. Some details remain uncertain, and the clinician may need more information before deciding what the finding means.
+
+But they've had an opportunity to explain what happened, and their questions have been taken seriously. Perhaps the clinician has also recognized that attending appointments and remembering information are becoming difficult, opening a conversation about making future care more accessible.
+
+For someone who has been managing so much alone, that could be a meaningful change.
+
+The hope isn't necessarily that every unfamiliar experience will receive an immediate explanation. It's that the person can participate in understanding their health without having to overcome every practical difficulty by themselves.
+
+An Australian report collecting experiences from people with FND and their caregivers included a particularly moving reflection from one participant:
+
+> “With the right level of support, I still believe I could thrive.”
+
+*Community experience — person living with FND, reported in the Australian National Mental Health Commission's [Experiences of Functional Neurological Disorder](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf), 2019.* (*citation* [8](#citation-8))
+
+It's a hopeful statement, but notice what makes that hope possible. The person isn't waiting to become completely symptom-free before imagining a better life. They're recognizing that appropriate support might allow them to do more with the abilities and opportunities they already have.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
@@ -359,5 +442,9 @@ General neuroscience, FND research findings, proposed mechanisms, professional c
 | <a id="citation-3"></a>**[3]** | — | Staab JP, Eckhardt-Henn A, Horii A, Jacob R, Strupp M, Brandt T, Bronstein A. Diagnostic criteria for persistent postural-perceptual dizziness (PPPD): consensus document of the Committee for the Classification of Vestibular Disorders of the Bárány Society. *Journal of Vestibular Research*. 2017;27(4):191–208. [https://doi.org/10.3233/VES-170622](https://doi.org/10.3233/VES-170622) [FND-CIT-0027](../../research/citation-index.md#fnd-cit-0027). |
 | <a id="citation-4"></a>**[4]** | Figure 2 | Public Reddit contribution, r/FND. [Original](https://www.reddit.com/r/FND/comments/16iyjst/dad_helping_recently_diagnosed_daughter/). Wording and relevant context checked October 26, 2026. Individual experience. [FND-CIT-0314](../../research/citation-index.md#fnd-cit-0314). |
 | <a id="citation-5"></a>**[5]** | Figure 1 | Public Reddit contribution, r/FND, “What are you main symptoms?” Comment by a person describing their own FND diagnosis and symptom changes. Exact excerpt, speaker perspective and surrounding context checked November 5, 2026. [Original](https://www.reddit.com/r/FND/comments/1pmq119/comment/nu24zyl/). Individual account, not clinical evidence. [FND-CIT-0330](../../research/citation-index.md#fnd-cit-0330). |
+
+| <a id="citation-6"></a>**[6]** | — | Leochico CFG, Kashif D, Bhatt H, et al. **Challenges and care recommendations of persons with functional neurological disorder and care partners: a qualitative study.** *Canadian Journal of Neurological Sciences*. Published online July 23, 2026. [Original](https://doi.org/10.1017/cjn.2026.10629). Ontario focus groups: 11 people with FND and two care partners; not a prevalence estimate. [FND-CIT-0082](../../research/citation-index.md#fnd-cit-0082). |
+| <a id="citation-7"></a>**[7]** | — | Community quotation Q002 / source S01, public r/FND comment by a person describing the value of believing and supporting someone with FND. [Original](https://www.reddit.com/r/FND/comments/1k8is0m/comment/mp78ddy/). Exact wording and source link retained in *FND-Caregiver-Quotation-Bank-Lessons-13-75.docx*, collected October 25, 2026. The original public comment was not freshly reverified in this turn; individual experience, not clinical evidence. |
+| <a id="citation-8"></a>**[8]** | — | Australian National Mental Health Commission. *Experiences of Functional Neurological Disorder — Summary Report*. July 2019. [Original public report](https://www.mentalhealthcommission.gov.au/sites/default/files/2024-04/experiences-of-functional-neurological-disorder---summary-report.pdf). Survey-collected quotation by an anonymous person with FND; self-selected survey, not a representative prognosis or proof of support availability. |
 
 *Publication-readiness audit: October 26, 2026. Human authoring and the two subsequent lesson audits remain pending. Independent clinical review has not been claimed.*
