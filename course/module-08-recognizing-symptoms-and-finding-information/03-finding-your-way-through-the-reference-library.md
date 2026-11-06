@@ -1,8 +1,8 @@
 # Finding Your Way Through the Reference Library
 
-> **Working draft:** Person section human-approved November 5, 2026; Supporter and Clinician sections remain generated drafts awaiting human authoring and further review.
+> **Working draft:** Person and Clinician sections human-approved by November 6, 2026; Supporter section remains a generated draft awaiting human authoring and further review.
 
-Lesson 26 follows Natalie as she uses the Reference Library to better understand her previously diagnosed functional seizures, clarify terminology and assessment, and identify useful questions about ongoing care. The Person section is human-authored; other audiences remain generated seeds.
+Lesson 26 follows Natalie as she uses the Reference Library to better understand her previously diagnosed functional seizures, clarify terminology and assessment, and identify useful questions about ongoing care. The Person and Clinician sections are human-authored; the Supporter section remains a generated seed.
 
 *Last reviewed: October 26, 2026*
 
@@ -323,28 +323,191 @@ An **OT or PT** can help adapt an activity or select symptom-specific rehabilita
 
 ## For Clinicians and the Care Team
 
-### Translate a positive diagnosis into a usable referral and technique choice
+### When a diagnosis has several names
 
-An FND label without a clearly identified presentation does little to guide rehabilitation. After explaining the observed evidence, define the care question: which symptom, what task is affected, which coexisting conditions matter, what can be tried safely, what needs specialist input, and what outcome the person values?
+In the *For the Person With FND* section, Natalie uses the FND Reference Library to better understand her functional seizures. This clinical discussion can also be read independently.
 
-**Step 1 — Diagnostic fit.** Start with the [Diagnostic Signs overview](../../reference/diagnostic-signs/README.md). Review “Refers to,” scope boundaries, positive signs and appropriate differentials. Some pages describe descriptive observations or investigation for alternative disease, not independent diagnostic tests. Do not simply count positive-sign entries.
+Natalie lives alone with longstanding, severe FND. Her functional seizures sometimes involve shaking or jerking, while others leave her nearly motionless and unable to respond. Her awareness and memory of these episodes vary, and recovery can be prolonged.
 
-**Step 2 — Technique fit.** Choose an entry from the corresponding [Recovery Techniques index](../../reference/recovery-techniques/technique-index.md), noting its evidence label (trial, guideline, consensus, emerging, or lived-experience report as indicated), prerequisites and contraindications. A technique demonstrated for functional tremor should not silently become the default treatment for seizures, paralysis, swallowing or functional cognition. (*citations* [1](#citation-1), [2](#citation-2))
+None of her current clinicians participated in her original diagnosis or early treatment.
 
-**Step 3 — Profession and care setting.** PT may lead movement or gait retraining when appropriate; OT may lead task and accessibility adaptation; SLT may lead speech, voice, swallowing or upper-airway intervention; psychology may offer evidence-informed seizure-focused or other agreed treatment, where indicated. Neurology, primary care, emergency care, vestibular/eye specialists and others address diagnosis, comorbidities and risk. These are examples of roles, not rigid ownership or substitutes for the patient's preferences.
+Years earlier, a psychologist diagnosed Natalie with *conversion disorder*. She subsequently encountered the term *psychogenic episodes* in her medical history. Later, a neurologist described her events as dissociative and compared them with panic attacks.
 
-**Step 4 — Measure what matters.** Document baseline function, safety, symptom burden, confidence, access and quality of life. Describe which clinician is responsible for review and when changed symptoms require reassessment. A response to any chosen technique does not prove or disprove the initial diagnosis.
+Natalie learned through online forums and other resources that conversion disorder is an older term associated with what is now generally called functional neurological disorder.
 
-### Worked example — from diagnosis to rehabilitation discussion
+But the different explanations have left their mark.
 
-A person with an assessed functional tremor wants to use kitchen utensils. The team could review the tremor diagnostic overview, then discuss a task-oriented or external-focus recovery page with PT/OT. They might change grip or environment, agree on a manageable goal and review actual utensil use and post-task effects. If the person instead describes repeated falls with altered awareness, the team should **change reference pathways and safety assessment**, not recycle tremor retraining.
+When she first encountered *psychogenic episodes*, she understood the term as suggesting that her mind was somehow producing the attacks. She struggled to reconcile that explanation with experiences she couldn't control.
 
-### Accessible shared decision-making
+Now, after following an FND education course, she has a question for her current clinician.
 
-Offer one or two selected links and their reasons, rather than a catalogue of dozens. For patients with memory difficulties, provide a brief written summary, including what is confirmed, what is uncertain and who will act next. For supporters, obtain consent before sharing. Recognize when the reference contains consensus rather than comparative efficacy evidence, or when a technique depends on equipment, trained personnel or services that the person cannot access.
+"I understand that my seizures have different names, but were they all describing the same condition? And how did anyone establish that they weren't something else?"
 
-**Evidence boundary:** The Reference Library is a clinically oriented working collection, not a validated point-of-care decision support system. Its human and specialist reviews remain ongoing. Positive diagnosis and safe ongoing assessment are supported by the [1](#citation-1) and [2](#citation-2); intervention selection needs its own supporting studies or consensus.
+**Her question raises two related clinical issues: what the historical terminology meant, and what evidence supported the diagnosis.**
 
+### When terminology shapes understanding
+
+The terminology surrounding functional seizures has changed over time, reflecting developments in both clinical understanding and professional preferences.
+
+*Conversion disorder* has a long diagnostic history. *Psychogenic nonepileptic seizures (PNES)* became widely used to describe seizure-like events not attributed to epileptic activity, while *dissociative seizures* has been common in other clinical traditions.
+
+More recently, *functional seizures* has increasingly been used, emphasizing the neurological presentation without assuming a specific psychological cause.
+
+Hingray and colleagues (2025), writing for an International League Against Epilepsy task force, proposed the term *functional/dissociative seizures*. Their publication contributes to the discussion of terminology and definition; it is not evidence that one particular psychological mechanism explains every patient's episodes.
+
+These differences in language matter because terminology carries meaning beyond its formal definition.
+
+For example, *psychogenic* historically suggested psychological origins. A clinician using the term may have been working within the accepted diagnostic language of the time, without intending to suggest that the symptoms were fabricated or voluntarily produced.
+
+Yet a patient might understand it very differently.
+
+Natalie interpreted the phrase as suggesting personal responsibility for attacks that felt entirely outside her control.
+
+That interpretation influenced how she understood her condition, even if it wasn't what the earlier clinician intended to communicate.
+
+The terminology itself doesn't establish that the original diagnosis was incorrect.
+
+But it helps explain why Natalie may have difficulty connecting the diagnosis she received with the neurological explanations and recovery information she's now encountering.
+
+### What about panic attacks?
+
+Natalie's older neurology appointment introduced another uncertainty.
+
+Her functional seizures were compared with panic attacks, but she isn't sure whether the neurologist was describing a resemblance or proposing that panic was responsible for her episodes.
+
+The distinction is clinically significant.
+
+Functional seizures and panic attacks can share features, and both conditions may occur in the same person. But **panic attacks are not simply another name for functional seizures**.
+
+Likewise, calling an episode *dissociative* doesn't establish that anxiety, trauma or another emotional experience caused it.
+
+The clinical significance depends on what was actually assessed and how the findings were interpreted.
+
+Natalie experiences different kinds of episodes. Some involve considerable movement; others involve stillness, reduced responsiveness or incomplete recall.
+
+Those descriptions are important, but none establishes a diagnosis by itself.
+
+The 2026 American Academy of Neurology functional-seizure guideline addresses diagnostic evaluation, communication, coexisting conditions and continuing care. Its recommendations recognize the importance of distinguishing functional seizures from other episodic conditions, including possible coexisting epilepsy.
+
+For Natalie's current clinician, this raises a more specific question than whether the old terminology was appropriate:
+
+**What did the earlier assessments establish about her different episodes, and how confidently can those conclusions be understood today?**
+
+### An inherited diagnosis and its evidence
+
+Natalie's current clinician has a historical diagnosis, her account of the earlier consultations and whatever examination or investigation records remain available.
+
+These are different sources of information.
+
+An earlier clinical conclusion may have been supported by appropriate findings, even if Natalie doesn't remember the explanation. Conversely, the presence of a diagnosis in the medical history doesn't reveal the evidence behind it.
+
+The distinction is particularly relevant to functional seizures because diagnostic confidence depends on the available clinical information and the type of episode being considered.
+
+For example, a typical event recorded with video-EEG may provide evidence that a routine EEG performed between episodes cannot. An event's observed features and recovery may also contribute meaningful information, interpreted within the complete clinical picture.
+
+Neither an unfamiliar description nor a normal routine EEG alone establishes functional seizures.
+
+This doesn't mean Natalie's current clinician must repeat every earlier investigation or assume that the original work was inadequate.
+
+The clinical question is what can reasonably be concluded from the evidence that exists.
+
+If the historical assessment supports the established diagnosis, that reasoning may be explained more clearly now. If important details remain unavailable or the different episodes weren't adequately characterized, the level of uncertainty may need to be acknowledged.
+
+Either way, Natalie can gain something valuable: a better understanding of which conclusions are supported and why.
+
+### From understanding the diagnosis to understanding care
+
+Natalie has another question.
+
+She's discovered the [Functional Seizures Recovery Techniques page](../../reference/recovery-techniques/06-functional-seizures.md) and was surprised by the range of treatment and support approaches described.
+
+She had previously understood her seizures mainly in terms of psychological explanations and managing the consequences of unpredictable episodes.
+
+Now she's wondering whether there are treatment possibilities she hasn't discussed with her current team.
+
+This creates another useful distinction.
+
+**A treatment approach doesn't necessarily establish the cause of the condition it is intended to help.**
+
+Psychological interventions can be relevant to functional seizures without demonstrating that panic, trauma or emotional distress caused a particular person's episodes.
+
+The evidence for those interventions also deserves careful interpretation.
+
+Goldstein and colleagues (2020), in the multicentre randomized CODES trial, examined cognitive behavioural therapy specifically adapted for dissociative seizures alongside standardized medical care.
+
+The study did not find a statistically significant improvement in its primary outcome of seizure frequency at 12 months, although several secondary outcomes favoured the CBT group.
+
+That distinction is important.
+
+The trial doesn't support promising every patient a reduction in seizures through CBT. It does, however, provide evidence about other possible treatment benefits, while leaving questions about individual response and which elements contribute to particular improvements.
+
+The AAN guideline brings together the broader evidence on functional-seizure care, but guideline recommendations and research findings still require interpretation in the context of the person receiving care.
+
+Natalie's situation makes that especially relevant.
+
+Her seizures are severe, and she sometimes has no warning she can use. She lives alone and can remain unable to move or respond during an episode.
+
+An approach that relies on recognizing an early warning may offer limited practical value for her. Other aspects of care, including continuing diagnostic communication, appropriate treatment, safety and support, may remain relevant.
+
+The question isn't which technique every person with functional seizures should receive.
+
+It's **which possibilities are supported by the evidence and meaningful for Natalie's particular needs and goals**.
+
+### What the Reference Library contributes
+
+Natalie's journey through the Reference Library illustrates an opportunity for more informed conversations about established diagnoses.
+
+The [Functional Seizures diagnostic page](../../reference/diagnostic-signs/06-functional-seizures.md) helps her recognize experiences resembling her own and understand the kinds of evidence clinicians consider.
+
+The matching [Recovery Techniques page](../../reference/recovery-techniques/06-functional-seizures.md) introduces approaches to treatment, safety and participation, including their limitations.
+
+These pages cannot establish the diagnosis or select treatment on Natalie's behalf. They are educational resources, with ongoing human and clinical review, rather than validated clinical decision-support tools.
+
+Their value lies in helping her ask better questions.
+
+Natalie no longer needs to approach an appointment wondering vaguely whether her seizures are psychological, neurological or somehow her responsibility.
+
+Instead, she can ask what findings support her diagnosis, how the historical terminology relates to her current understanding, and which treatment or support possibilities might be worth discussing.
+
+This doesn't transfer clinical responsibility to the patient.
+
+It helps Natalie participate in a conversation that previously felt difficult to understand.
+
+### When understanding opens new possibilities
+
+Consider how Natalie's next appointment might differ from her earlier experiences.
+
+She doesn't need to dispute the diagnosis established years ago. Nor does her current clinician need to assume that an earlier professional made a mistake.
+
+There is room to clarify what the existing evidence supports, acknowledge what remains uncertain and explain how functional seizures are understood within current clinical practice.
+
+That discussion can also return to Natalie's priorities.
+
+She would like fewer seizures, more manageable recovery periods and greater confidence in participating in everyday life. She also needs her continuing safety and support requirements to be understood.
+
+These goals aren't interchangeable, and none is made irrelevant by the severity or duration of her condition.
+
+If an explanation helps Natalie understand why her seizures are considered functional, that is a meaningful gain in understanding. If she subsequently considers a suitable treatment, its benefits and limitations can be discussed without suggesting that the treatment choice proves a psychological cause.
+
+And if some symptoms remain severe despite treatment, that doesn't make the original discussion or attempts to improve care meaningless.
+
+### A diagnosis that remains useful
+
+Natalie's story isn't primarily about changing a diagnosis.
+
+It's about making an existing diagnosis more understandable and useful after years of different explanations.
+
+The historical terminology may have reflected accepted practice, the interpretation of the evidence available at the time or distinctions that were never communicated clearly to Natalie.
+
+Her current clinician has an opportunity to understand that history without assuming that every earlier conclusion was either correct or mistaken.
+
+Research can clarify how terminology, diagnostic reasoning and treatment evidence have developed. The patient's questions reveal which parts of that knowledge have not yet become meaningful to them.
+
+For Natalie, recognizing herself in the medical literature may reduce her sense of isolation. Understanding the evidence behind her diagnosis may help her make sense of experiences she once found confusing. Learning about possible approaches to care may also give her more realistic hope.
+
+**The clinical value of a diagnosis extends beyond naming a condition. It also lies in helping the person understand what has been established, what that means for their experiences, and what possibilities remain for their care.**
+
+For a clinician inheriting a complex FND history, that understanding can be an important part of continuity—not because every previous explanation needs replacing, but because the patient deserves an explanation that remains useful today.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
