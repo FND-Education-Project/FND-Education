@@ -4,6 +4,15 @@
 
 **Status:** The redesigned Module 8 **syllabus direction is owner-approved** as of November 5, 2026. All **three Person sections**, **all three Clinician sections**, and **Lesson 24 Supporter** are approved and committed in draft PR #200; only **Lessons 25 and 26 Supporter** remain unapproved. Do not present generated audience prose as approved. The previous PR #198 was merged for Module 7, so Module 8 authoring uses a **separate draft PR**. No lesson audits, page revisions or publication are authorized by this handoff. Preserve Modules 6–7 and all already approved material.
 
+## Research and community-voice update — November 6, 2026
+
+Robert asked Work Mode to provide Chat Mode with fuller evidence and better quotation options following its proposed additions to Lessons 24 and 25. Read the **[detailed research and quotation supplement](module-08-lessons-24-25-evidence-and-community-voices-2026-11-06.md)** before proposing those additions.
+
+- **Lesson 24:** Exact original-source comparisons with Parkinson's disease, multiple sclerosis and epilepsy are now available, with scale definitions, sample sizes and limits. The supplement identifies a reporting discrepancy in one paper and offers cleaner alternatives for a brief ending.
+- **Community voices:** New original-thread checks provide participation/support accounts and a question well matched to Lesson 25. The older Q036 and Q030 excerpts were checked in the saved bank but could not be freshly reopened; indexed-only and unresolved candidates remain explicitly separate. One previously missing candidate permalink was recovered without claiming its text newly verified.
+- **Lesson 25:** Use the actual current direction—what a finding explains, including Natalie's standing blood-pressure change. The earlier conversation's unwitnessed-event emphasis does not supersede approved material. The supplement supplies clinical sources better matched to the current scene.
+- **Next chat:** Choose small, story-led additions for Robert to review; retain detailed substantiation in editorial/Research and Sources material. This update changes no approval status and authorises no public-prose replacement, formal audit, merge or deployment.
+
 ## Verification follow-up — November 5, 2026
 
 The project lead requested that the final audit resolve both quote candidates and present Module 7 as mergeable. Both exact excerpts are now verified at their original public sources, including speaker perspective and context. Lesson 25 uses the specific comment permalink and FND-CIT-0330; Lesson 26 uses FND-CIT-0331 and remains explicitly a partner account. Reader-facing candidate labels have been replaced with accurate community-experience labels. The historical preparation notes below describe the earlier access gap and no longer represent an outstanding verification task. See [final audit and source record](audit-final-module-07-2026-11-05.md).
