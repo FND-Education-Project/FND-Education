@@ -1,8 +1,8 @@
 # When Better Doesn't Mean Symptom-Free
 
-> **Working draft:** Person and Clinician sections human-approved November 5, 2026; Supporter section remains a generated seed requiring human authoring and review.
+> **Working draft:** Person, Supporter and Clinician sections human-approved by November 6, 2026; lesson citation audit and further reviews remain pending.
 
-Lesson 24 explores how someone can make meaningful progress in participation and quality of life even when severe symptoms and support needs remain. The Person and Clinician sections are human-authored; the Supporter section remains a generated draft pending review.
+Lesson 24 explores how someone can make meaningful progress in participation and quality of life even when severe symptoms and support needs remain. All three audience sections are human-authored and approved.
 
 *Last reviewed: October 26, 2026*
 
@@ -273,34 +273,223 @@ Sometimes, understanding **what has improved, what hasn't, and what matters most
 
 ## For Family, Friends, and Other Supporters
 
-### You may have seen something the person cannot describe
+### The part nobody sees
 
-Imagine your partner says, “My legs stopped.” You remember that they tried to stand, became still and couldn't answer for a while. They remember hearing you speak, but not what happened next.
+Imagine Leah telling another friend about the lovely afternoon she spent with Natalie.
 
-Both descriptions are worth hearing. Neither should cancel the other.
+"We had such a good laugh. She seems so much better lately!"
 
-**Observation, lived experience and memory are different sources of information.** One person may remember sensations that were invisible to you; you may notice the timing of a fall or a change in responsiveness that they cannot recall.
+And Leah is right about something important. Natalie really has found ways to enjoy their visits again.
 
-### Help describe without conducting an investigation at home
+But let's look at how that Thursday began.
 
-Ask whether the person would like an observation added to their symptom map or an appointment note. Useful details may include what you saw first, how long the visible change seemed to last, whether they responded and what recovery looked like.
+When Natalie woke, she sat on the edge of her bed for a while, waiting to see how well her legs would cooperate. She needed to get to the bathroom, but her balance was particularly unreliable that morning.
 
-Use simple, accurate language: “I called your name twice, and I didn't hear an answer,” not “You definitely weren't aware.” Where the person has a different recollection, preserve both perspectives respectfully.
+Getting washed and dressed took longer than she'd hoped. She managed most of it while sitting down, taking breaks when her arms became tired. A shower would have to wait for another day.
 
-You do not have to film events or produce a precise daily record. Filming should only occur with advance agreement, privacy and immediate safety first; an emergency is not a recording opportunity.
+Breakfast was something simple. She checked her medication organiser, then looked at the note she'd left herself about an upcoming appointment.
 
-### Know when observation should become a referral
+By the time she'd eaten and put a few things away, Natalie was ready for another rest.
 
-A new spell of loss of awareness, substantial amnesia, unusual movements, a major change from familiar events, injury or prolonged recovery deserves appropriate professional review. Follow the individualized safety plan for assessed familiar events; urgent danger needs urgent help.
+She still had things she wanted to do. There was laundry waiting, and the kitchen needed attention. But she was expecting Leah that afternoon, and she knew that trying to accomplish everything might leave her with too little energy to enjoy the visit.
 
-> “He has no memory of the events and we cannot see a cause.”
+So the laundry could wait.
 
-*Figure 2. Community experience.* A parent reports uncertainty about events and recall; the account does not establish their cause. [Original public source](https://www.reddit.com/r/FND/comments/1n8gljg/teenage_son_diagnosed_any_helpful_advicesupport/). (*citations* [5](#citation-5))
+Before Leah arrived, Natalie pulled the curtains, adjusted the lighting and made sure she had water and somewhere comfortable to sit.
 
-**Something to discuss together:** “Would you like me to share what I saw, and how would you prefer we handle details you don't remember?”
+When Leah walked through the door, Natalie was ready.
 
-**One small thing:** Agree on one brief, factual note format for *clinically relevant* events, not every sensation. The care team can decide what information helps.
+They talked, laughed about Leah's disastrous attempt at baking bread and enjoyed an hour together.
 
+Afterward, Natalie settled back into her chair. Her migraine was still painful, her legs were tired, and she wasn't looking forward to getting up to prepare supper.
+
+The laundry was still waiting.
+
+Leah had seen Natalie enjoying herself. She hadn't seen how much of the day had been arranged around making that hour possible.
+
+**The afternoon was a success. It just wasn't the whole story.**
+
+### When there's nobody to share it with
+
+Natalie lives alone, although she's fortunate to have Leah visit once or twice a week.
+
+Now imagine that same Thursday without Leah—or anyone else.
+
+The morning difficulties would still be there. Getting washed, finding something to eat, keeping track of medication and moving safely around the home wouldn't suddenly become easier.
+
+And those are just the things that happen before lunch.
+
+There's shopping to arrange, clothes to wash, meals to prepare and appointments to remember. The rubbish needs taking out. The bathroom needs cleaning. Fresh sheets don't put themselves on the bed.
+
+These are ordinary parts of life, but they don't disappear when someone becomes disabled.
+
+Imagine a person who has finally managed to get the laundry into the washing machine. By the time it's finished, their legs have become unreliable, and they can't safely bend to remove the clothes.
+
+So they leave them.
+
+Later, they think about making dinner. The kitchen lighting aggravates their migraine, and the noise of cooking is difficult to tolerate. They manage something simple, then sit down because they're becoming unsteady.
+
+The laundry is still in the machine.
+
+Perhaps tomorrow will be easier. Perhaps it won't.
+
+You can see how quickly an ordinary household task can become a problem that carries into the next day.
+
+And what if that person has nobody to call?
+
+There's no one to move the laundry, prepare something to eat or help them finish a task they've already started.
+
+Even on a better day, the backlog is waiting.
+
+It's easy to imagine how frustrating that might become. A person may be proud of what they've managed while feeling disheartened by everything that remains undone.
+
+And when they do accomplish something special, perhaps an enjoyable outing or a task they've been working toward for weeks, there may be nobody to share that little victory with.
+
+The accomplishment is still real.
+
+But wouldn't it be lovely to have someone say, "You managed it! How did it go?"
+
+### Managing alone isn't always managing well
+
+Think about how many ordinary activities become easier when another person is available.
+
+Someone can bring a glass of water while you remain seated. They can carry a plate when you need both hands to use a walking aid. They can help you remember an appointment, reach something you've dropped or prepare a meal when you're too exhausted to stand for long.
+
+They might barely notice they're helping.
+
+Now imagine trying to arrange your entire day without any of that assistance.
+
+A person might decide to wash at the sink because showering requires more strength than they have. They may rely on clothes that are easy to put on, even when those aren't the clothes they'd prefer to wear.
+
+Perhaps they keep essential items close to their favourite chair because getting up repeatedly is difficult. They may choose meals requiring little preparation or leave household chores until a day when their movement is more reliable.
+
+These can be sensible adaptations that make independence more achievable.
+
+But sometimes an activity isn't merely difficult. It may be unsafe or impossible without another person's assistance.
+
+A walking aid cannot necessarily help someone who needs physical support to transfer from one position to another. A reminder on a phone cannot take the place of hands-on assistance when the person's movement or responsiveness is severely impaired.
+
+And a carefully arranged home cannot eliminate every challenge of living with unpredictable symptoms.
+
+This creates a difficult choice for some people.
+
+They may use much of their available energy on essential tasks, leaving little for the activities that make life enjoyable. Or they may preserve some energy for those activities while other needs remain unmet.
+
+It isn't difficult to imagine someone feeling caught between the two.
+
+From the outside, we might see a person living alone, keeping appointments and occasionally enjoying an activity.
+
+What we don't see are the things they've stopped doing, the things they've postponed and the opportunities they've passed up because nobody was available to help.
+
+**Sometimes a person is managing alone because they have no alternative, not because everything is manageable.**
+
+### What if you're only there occasionally?
+
+Let's return to Leah.
+
+Perhaps during their next visit, she asks Natalie how she's been managing.
+
+Natalie mentions that she's had a difficult few days and hasn't accomplished much around the house.
+
+"But you seemed so well when I was here last Thursday," Leah says.
+
+Then she remembers the preparations Natalie had made for their visit.
+
+"Does having me over take quite a bit out of you?"
+
+Natalie smiles.
+
+"Sometimes. I try to keep the morning quiet so I've got enough energy to enjoy myself. I'm usually pretty tired afterward."
+
+Leah wonders whether she'd be helping by visiting less often.
+
+But Natalie quickly explains that she looks forward to their afternoons. They're one of the things that make her week enjoyable.
+
+That's an important moment.
+
+Leah has discovered something she hadn't fully appreciated, but the answer isn't necessarily to take away the activity Natalie loves.
+
+Perhaps there are small changes that would make their time together easier. They could have lunch delivered occasionally, or Leah could bring something simple when it suits them both.
+
+Or perhaps Natalie is perfectly happy with their arrangement and would rather keep their visits just as they are.
+
+What matters is that Leah understands a little more about the experience without deciding for Natalie what should happen next.
+
+And Leah has her own responsibilities. She's a friend who visits occasionally, not someone who can be available whenever Natalie needs assistance.
+
+Their friendship doesn't have to become a caregiving arrangement to remain valuable.
+
+Sometimes the greatest pleasure of a visit is having someone to laugh with about something other than illness.
+
+### When there really isn't anyone
+
+Of course, not everybody has a Leah.
+
+For some people, even occasional assistance is unavailable.
+
+Think about a person whose difficulties have gradually reduced the activities they can manage. Perhaps they haven't been able to visit friends for months. Perhaps family members live far away, or relationships have become strained.
+
+Over time, their world may have become smaller.
+
+The shops are harder to reach. Social activities require more effort than they can manage. Even keeping up with everyday household tasks becomes exhausting.
+
+They may have developed clever ways of managing many things independently, but that doesn't mean every need has been met.
+
+And they might not want to explain all these difficulties repeatedly, particularly when they have no expectation that someone will be able to help.
+
+There's a particular sadness in having to choose between essential tasks and meaningful activities because nobody is available to make both possible.
+
+But there's something we can learn from recognizing that situation.
+
+A person's needs aren't limited to the tasks they successfully complete.
+
+An assessment of everyday support needs, for example, may reveal more when it considers the whole day or week rather than whether someone can perform a particular activity once.
+
+Someone might manage to get dressed but then be too exhausted to prepare breakfast. They might attend an appointment but have no energy left to make dinner. Or they might be capable of an activity on a good day while needing physical assistance on another.
+
+Those differences matter.
+
+Depending on what's available, accessible services, assistance with practical tasks or changes to the way an activity is organized may reduce some of these difficulties.
+
+Not every community has suitable services, and obtaining assistance can itself be difficult.
+
+Still, understanding precisely where help is missing creates a clearer picture of what might make a difference.
+
+Rather than simply seeing someone who struggles with daily life, we begin to see the activities they could participate in if particular barriers were reduced.
+
+### A little more room for life
+
+Think back to Natalie's Thursday.
+
+She arranged much of her day around an hour with Leah. She enjoyed herself, and that was worth something.
+
+There were still difficulties afterward, and she would have appreciated more assistance with some of the ordinary tasks of living alone.
+
+But she had something to look forward to, and she made it possible.
+
+Now think about the person who has no Leah.
+
+Perhaps they aren't able to arrange an outing or social visit. Perhaps most of their available energy goes into getting dressed, preparing food and keeping the household running.
+
+It would be easy to overlook how much effort those ordinary accomplishments require.
+
+But what if even one part of that burden became easier?
+
+Imagine someone receiving practical help with an activity that has consumed much of their energy. They might finally have enough left to sit outside for a little while, enjoy a hobby or make an outing that previously seemed out of reach.
+
+Their FND may not have improved. Their need for assistance may still be considerable.
+
+Yet something about their life could have changed.
+
+That possibility doesn't depend on pretending every difficulty has an easy solution.
+
+It begins with understanding that people may be doing an extraordinary amount of work simply to get through an ordinary day.
+
+**Being able to cope alone should never be mistaken for evidence that help isn't needed.**
+
+And when we understand what daily life actually requires, we have a better chance of recognizing where assistance, accessibility or a different arrangement could give someone a little more room for the things they enjoy.
+
+That's a worthwhile kind of progress to hope for.
 ***
 [For the Person With FND](#for-the-person-with-fnd)<br>
 [For Family, Friends, and Other Supporters](#for-family-friends-and-other-supporters)<br>
